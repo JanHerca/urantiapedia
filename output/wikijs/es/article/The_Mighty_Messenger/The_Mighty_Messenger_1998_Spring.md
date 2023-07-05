@@ -3,7 +3,7 @@ title: "The Mighty Messenger - Número de primavera de 1998"
 description: "Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Fellowship, Global Seeding, Dissemination, Urantia Movement Event, Leadership Development, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -33,16 +33,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-
 ## La Fellowship se encuentra con la Fundación en Chicago
 
-Los representantes de la Fundación y de la Fellowship se reunieron en Chicago el viernes 17 de abril para discutir temas de interés mutuo para ambas organizaciones. La reunión de todo el día estuvo precedida por un evento social el jueves por la noche, que incluyó aperitivos, en la sede de la Fellowship, seguido de una cena en la sede de la Fundación, a una cuadra de distancia. El equipo de la Fundación estaba formado por cinco fideicomisarios, miembros del personal de la Fundación, representantes de la Asociación Internacional Urantia (IUA) y miembros del Comité de Coordinación (CC) designados por los fideicomisarios. La Fellowship estuvo representada por su Comité Ejecutivo y varios Consejeros Generales.
+Los representantes de la Fundación y de la Fellowship se reunieron en Chicago el viernes 17 de abril para discutir temas de interés mutuo para ambas organizaciones. La reunión de todo el día estuvo precedida por un evento social el jueves por la noche, que incluyó aperitivos, en la sede de la Fellowship, seguido de una cena en la sede de la Fundación, a una manzana de distancia. El equipo de la Fundación estaba formado por cinco fideicomisarios, miembros del personal de la Fundación, representantes de la Asociación Internacional Urantia (IUA) y miembros del Comité de Coordinación (CC) designados por los fideicomisarios. La Fellowship estuvo representada por su Comité Ejecutivo y varios Consejeros Generales.
 
 La mañana del viernes se dedicó a presentaciones sobre la estructura, el proceso de toma de decisiones y la metodología operativa de cada organización y la forma en que difieren de una organización a otra. Una de las diferencias más sustanciales que quedó clara fue que las políticas y actividades de la IUA se rigen por los cinco fideicomisarios que constituyen la junta directiva de la IUA, mientras que las sociedades de la Fellowship son autónomas y pueden llevar a cabo políticas que no se derivan directamente del Consejo General, el órgano normativo de la Fellowship. En consecuencia, uno encuentra diversos enfoques de difusión y expresiones de opinión con respecto a asuntos organizacionales entre las sociedades de la Fellowship y los individuos, algunos de los cuales pueden parecer contrarios a la política de la Fellowship, mientras que las actividades de la IUA casi siempre estarán en línea con la política de la Fundación.
 
 El viernes por la tarde, el grupo discutió áreas de posible cooperación mutua entre las dos organizaciones, incluida la socialización entre los lectores, la divulgación y la difusión. Hubo un consenso general de que era mejor dejar que algunos de los problemas interinstitucionales más difíciles los trataran equipos cooperativos más pequeños compuestos por representantes de la Fundación y de la Fellowship. Estos problemas incluyen traducciones, actividad del sitio web, recomendaciones de lectores y presentaciones de video combinadas.
 
-En su carta a los miembros con respecto a esta reunión, la presidenta de la Fellowship, Janet Farrington Graham, dijo: «Es mi esperanza personal que esta exploración resulte en la iluminación de un nuevo paradigma para el servicio de revelación, uno que alentará a todos los miembros de una comunidad unificada a participar libremente. difundir un texto inviolable.»
+En su carta a los miembros con respecto a esta reunión, la presidenta de la Fellowship, Janet Farrington Graham, dijo: «Es mi esperanza personal que esta exploración resulte en la iluminación de un nuevo paradigma para el servicio de la revelación, uno que alentará a todos los miembros de una comunidad unificada a difundir libremente un texto inviolable.»
 
 El sábado por la noche, la mayoría de los participantes se reunieron nuevamente en la sede de la Fundación para una cena de pizza improvisada y una cena de recuerdo. «Muchos de nosotros nos conmovimos hasta las lágrimas», dijo Graham, «al ver a hermanos y hermanas unidos en corazón y mente por la presencia del Maestro».
 
@@ -75,23 +74,23 @@ A fines de la década de 1980, su título se cambió a Coordinador de área y su
 
 Después de 1989 hubo menos referencias a los Coordinadores de Área debido a la falta de disponibilidad de los nombres de los compradores de libros. Ha habido menos énfasis en la formación de líderes y maestros que en los primeros años. Los grupos de estudio no prosperan; su número y calidad son estáticos o decrecientes. Sin una estructura de apoyo, los nuevos lectores se alejan.
 
-Este fue el problema que abordaron los Delegados Trienales en Vancouver el verano pasado. Aprobaron una resolución para reestructurar la función de los Coordinadores de Área, para reenfocar sus energías en el apoyo y nutrición de los grupos de estudio. Esta moción fue recibida por unanimidad por el Consejo General y enviada al Comité de Extensión Nacional, que ahora preside Paula Thompson.
+Este fue el problema que abordaron los Delegados Trienales en Vancouver el verano pasado. Aprobaron una resolución para reestructurar la función de los Coordinadores de Área, para reenfocar sus energías en el apoyo y cuidado de los grupos de estudio. Esta moción fue recibida por unanimidad por el Consejo General y enviada al Comité de Extensión Nacional, que ahora preside Paula Thompson.
 
 —Carolyn Kendall, abril de 1998
 
-## Mighty Messenger celebra el primer año; Fellowship lanza The Herald
+## El Mighty Messenger celebra su primer año; la Fellowship lanza The Herald
 
 Esta edición del _Mighty Messenger_ marca el primer aniversario del nuevo boletín de la Fellowship. Hace un año, la Fellowship emprendió la publicación de un boletín básico experimental para brindar a los lectores de _El Libro de Urantia_ información oportuna sobre eventos recientes, decisiones organizacionales y próximas reuniones. Desde entonces, el _Mighty Messenger_ ha llegado a su público objetivo trimestralmente, según lo planeado.
 
 Si bien _Messenger_ está dedicado a noticias urgentes, se reconoció que también existe la necesidad de una publicación filosófica y creativa.
 
-Aunque no es precisamente un renacimiento del antiguo _Journal_de la Brotherhood/Fellowship,_ el nuevo _Fellowship Herald_ incluirá las características literarias del _Journal,_ unidas al tono optimista del más reciente _Study Group Herald_, que se publicó por última vez hace más de un año. . El _Fellowship Herald_ trabajará hacia un cronograma de publicación semestral. El primer número debería estar en los buzones de la gente a finales del verano.
+Aunque no es precisamente un renacimiento del antiguo _Journal_de la Brotherhood/Fellowship,_ el nuevo _Fellowship Herald_ incluirá las características literarias del _Journal,_ unidas al tono optimista del más reciente _Study Group Herald_, que se publicó por última vez hace más de un año. El _Fellowship Herald_ trabajará hacia un cronograma de publicación semestral. El primer número debería estar en los buzones de la gente a finales del verano.
 
-El _Heraldo_ incluirá material relacionado con temas familiares y comunitarios, temas científicos, asuntos religiosos y filosóficos, todos examinados a la luz de _El Libro de Urantia_ y sus enseñanzas. Podría incluir resúmenes de artículos o presentaciones que aparecieron originalmente en otros foros que los editores consideren que merecen una audiencia más amplia. Se harán esfuerzos para incluir también obras de arte y poesía originales.
+El _Herald_ incluirá material relacionado con temas familiares y comunitarios, temas científicos, asuntos religiosos y filosóficos, todos examinados a la luz de _El Libro de Urantia_ y sus enseñanzas. Podría incluir resúmenes de artículos o presentaciones que aparecieron originalmente en otros foros que los editores consideren que merecen una audiencia más amplia. Se harán esfuerzos para incluir también obras de arte y poesía originales.
 
-Como tema principal, el primer número seguirá el ejemplo del título de la publicación: The _Fellowship Herald. Revisará cómo se presentó al mundo la quinta revelación de época. En los 43 años transcurridos desde la publicación del libro, se ha desarrollado un rico tesoro de experiencia y debate sobre cómo se puede lograr esto de manera eficaz y sabia.
+Como tema principal, el primer número seguirá el ejemplo del título de la publicación: _The Fellowship Herald_. Revisará cómo se presentó al mundo la quinta revelación de época. En los 43 años transcurridos desde la publicación del libro, se ha desarrollado un rico tesoro de experiencia y debate sobre cómo se puede lograr esto de manera eficaz y sabia.
 
-Presentaremos algunas de las ideas de líderes y lectores, pasados ​​y presentes, sobre cómo han compartido el libro y sus enseñanzas, y cómo creen que debería anunciarse al mundo. Entre los temas a destacar: ¿El libro se vende solo? ¿Han sido los folletos introductorios y las publicaciones secundarias ayudas promocionales efectivas? ¿Qué papel juegan las traducciones? ¿Es persona a persona la mejor manera? ¿Por qué algunas personas son tan buenas para presentarles el libro a otros? ¿Cuáles son sus secretos? ¿Cómo han afectado las enseñanzas a los religiosos profesionales? ¿Cómo han influido los lectores que trabajan en los medios de entretenimiento en el contenido de sus proyectos? ¿Han funcionado los programas de mensajes telefónicos, los tableros de anuncios, los puestos y las ferias del libro? ¿Qué pasa con Internet? ¿Nuestras controversias han ayudado u obstaculizado la difusión del libro?
+Presentaremos algunas de las ideas de líderes y lectores, pasados ​​y presentes, sobre cómo han compartido el libro y sus enseñanzas, y cómo creen que debería anunciarse al mundo. Entre los temas a destacar: ¿El libro se vende solo? ¿Han sido los folletos introductorios y las publicaciones secundarias ayudas promocionales efectivas? ¿Qué papel juegan las traducciones? ¿Es el «persona a persona» la mejor manera? ¿Por qué algunas personas son tan buenas para presentarles el libro a otros? ¿Cuáles son sus secretos? ¿Cómo han afectado las enseñanzas a las personas religiosas profesionales? ¿Cómo han influido los lectores que trabajan en los medios de entretenimiento en el contenido de sus proyectos? ¿Han funcionado los programas de mensajes telefónicos, los tablones de anuncios, los puestos en ferias y las ferias del libro? ¿Qué pasa con Internet? ¿Nuestras controversias han ayudado u obstaculizado la difusión del libro?
 
 Con un programa de publicaciones más ambicioso, la necesidad de donaciones se hace evidente. El primer número del _Herald_ será gratuito. Queda por ver si será necesaria una suscripción.
 
@@ -129,11 +128,11 @@ Debemos recordar que hay muchas maneras de servir. Para un individuo, puede ser 
 
 ## Ocurriendo aquí y allá
 
-- **Conferencia de Verano en Washington, DC** del 9 al 12 de julio de 1998. Todavía hay tiempo para registrarse para la Conferencia de Verano de 1998 en el hermoso Mount Vernon College en el área de Georgetown en Washington, DC. El tema de este año es «El arte de vivir espiritualmente». Está invitado a unirse a los urantianos de los EE. UU. y del extranjero para esta experiencia de tres días de estudio, adoración, recreación y compañerismo. Se planean actividades especiales para niños. Para registrarse, llame a John Hales al 773-327-0424.
-- Norman Ingram and Co., de la fama de «World Outreach for Urantia Nations», están planeando un viaje a África en septiembre de 1998. ¿Su misión? Llevar la luz de la quinta revelación de época al «continente oscuro». Para obtener más información, envíe un fax al 562-698-2122\*51 o envíe un correo electrónico a norlastar @aol.com.
-- El Urantian Emprise, el velero de Serge Bisson y Cynthia Mantel fue botado recientemente y completó su primer viaje por aguas azules desde Puerto Rico a Florida. Los navegantes participarán en la Millennial Odyssey, una regata mundial de yates de varias fases con matices espirituales que comenzará en 1998 y terminará en el año 2000. Serge y Cynthia planean llevar a bordo una veta madre de _Urantia Books_.
-- Nick Curto, de la Society of Greater New York, tiene previsto utilizar los Juegos Gay, las «Olimpiadas» internacionales para gays y lesbianas, que se celebrarán en Ámsterdam en agosto de 1998, como un foro para la difusión de _El Libro de Urantia_ y sus enseñanzas a los comunidad gay Nick cuenta con el apoyo de la Sociedad de Nueva York y de la Fellowship en este esfuerzo.
-- Planee asistir a la Conferencia Lone Star Roundup de Texas del 30 de octubre al 1 de noviembre de 1998 en Camp Buckner, cerca de Burnet y Marble Falls, TX, adyacente al Parque Estatal Longhorn Cavern (60 millas al noroeste de Austin). Lodge y cabañas disponibles a precios razonables. Inscripción anticipada $30. Tema: «¿Por qué orar?»
+- **Conferencia de Verano en Washington, DC** del 9 al 12 de julio de 1998. Todavía hay tiempo para registrarse para la Conferencia de Verano de 1998 en el hermoso Mount Vernon College en el área de Georgetown en Washington, DC. El tema de este año es «El arte de vivir espiritualmente». Estás invitado a unirte a los urantianos de los EE. UU. y del extranjero para esta experiencia de tres días de estudio, adoración, recreación y compañerismo. Se planean actividades especiales para niños. Para registrarte, llama a John Hales al 773-327-0424.
+- Norman Ingram and Co., de la famosa «World Outreach for Urantia Nations», está planeando un viaje a África en septiembre de 1998. ¿Su misión? Llevar la luz de la quinta revelación de época al «continente oscuro». Para obtener más información, envíe un fax al 562-698-2122\*51 o envíe un correo electrónico a norlastar@aol.com.
+- El Urantian Emprise, el velero de Serge Bisson y Cynthia Mantel fue botado recientemente y completó su primer viaje por aguas azules desde Puerto Rico a Florida. Los navegantes participarán en la Millennial Odyssey, una regata mundial de yates de varias fases con matices espirituales que comenzará en 1998 y terminará en el año 2000. Serge y Cynthia planean llevar a bordo un filón de _Libros de Urantia_.
+- Nick Curto, de la Society of Greater New York, tiene previsto utilizar los Juegos Gay, las «Olimpiadas» internacionales para gays y lesbianas, que se celebrarán en Ámsterdam en agosto de 1998, como un foro para la difusión de _El Libro de Urantia_ y sus enseñanzas a la comunidad gay. Nick cuenta con el apoyo de la Sociedad de Nueva York y de la Fellowship en este esfuerzo.
+- Planea asistir a la Conferencia Lone Star Roundup de Texas del 30 de octubre al 1 de noviembre de 1998 en Camp Buckner, cerca de Burnet y Marble Falls, TX, adyacente al Parque Estatal Longhorn Cavern (60 millas al noroeste de Austin). Hay alojamiento y cabañas disponibles a precios razonables. Inscripción anticipada $30. Tema: «¿Por qué orar?»
 - La Sociedad del Gran Cañón está patrocinando un «Retiro Espiritual» en el Merritt Lodge en Payson, AZ, del 4 al 6 de septiembre de 1998.
 - La conferencia de la Asociación Internacional Urantia (AIU) se celebrará en Helsinki del 7 al 10 de agosto de 1998.
 
@@ -143,7 +142,7 @@ Debemos recordar que hay muchas maneras de servir. Para un individuo, puede ser 
 
 25-27 de septiembre Sacramento
 
-9-11 de octubreChicago
+9-11 de octubre Chicago
 
 16-18 de octubre Los Ángeles
 
@@ -157,17 +156,17 @@ Se puede encontrar información más detallada sobre la mayor parte de lo anteri
 
 El 28 de febrero, la Sociedad de Dallas celebró una reunión especial para juramentar a los nuevos miembros y ofrecer un homenaje de despedida al antiguo miembro, John Hyde, quien falleció el 2 de enero.
 
-John fue lector durante 20 años y tomó una parte muy activa en los asuntos de la sociedad, trabajando en puestos en ferias del libro, organizando conferencias y asistiendo a ellas, y colocando más de una docena de _Urantia Books_ en las bibliotecas de Dallas. Durante algún tiempo había estado ayudando a compilar una colección de música tipo «Urantia», y en el momento de su muerte estaba escribiendo un libro expresando sus ideas sobre el futuro del movimiento Urantia.
+John fue lector durante 20 años y tomó una parte muy activa en los asuntos de la sociedad, trabajando en puestos de ferias del libro, organizando conferencias y asistiendo a ellas, y colocando más de una docena de _Libros de Urantia_ en las bibliotecas de Dallas. Durante algún tiempo había estado ayudando a compilar una colección de música tipo «Urantia», y en el momento de su muerte estaba escribiendo un libro expresando sus ideas sobre el futuro del movimiento Urantia.
 
 John era Coordinador de Área y se mantuvo en contacto con decenas de lectores, compartiendo con ellos su amplio conocimiento del libro. Su sueño era llevar el libro al pueblo ruso. Él y su esposa, Natasha, y sus hijos planeaban mudarse a Rusia en diciembre de este año para comenzar este trabajo.
 
-Su cita favorita es indicativa de su fe: «...la incertidumbre es el secreto de la continuidad satisfecha....cuando la ignorancia es esencial para el éxito, sería un error colosal que la criatura conociera el futuro». (pág. 438)
+Su cita favorita es indicativa de su fe: «...la incertidumbre es el secreto de la continuidad satisfecha....cuando la ignorancia es esencial para el éxito, sería un error colosal que la criatura conociera el futuro». ([LU 39:5.9](/es/The_Urantia_Book/39#p5_9))
 
 Afectuosos amigos de Oklahoma asistieron y honraron la doble ocasión con arreglos musicales especiales.
 
-Te extrañaremos, Juan.
+Te extrañaremos, John.
 
-## Retiro de la Sociedad de la Luz Piloto
+## Retiro de la Pilot Light Society
 
 La Pilot Light Society de Seattle tendrá un retiro y la celebración del cumpleaños de Jesús desde el viernes 28 de agosto de 1998 hasta el domingo 30 de agosto. Se llevará a cabo en el campamento Lake Wenatchee YMCA en las hermosas Cascade Mountains. Tendremos seminarios y presentaciones por la mañana junto con varios tipos de ejercicios y juegos por las tardes. Las noches estarán llenas de experiencias de compañerismo y adoración.
 
@@ -175,17 +174,17 @@ El campamento está ubicado a 21 millas al oeste de la ciudad bávara de Leavenw
 
 El costo del retiro es de $52 por persona, más $20 por registro de persona para un total de $72. El costo para registrar una familia es de $30. Se planificarán actividades para niños, así que trae a estos pequeños y comparte un gran momento con tu familia.
 
-Para reservar un espacio y recibir más información, envíe la tarifa de registro a Pilot Light Society of Seattle, c/o Carol Erickson, 22816 35th Ave SE, Bothell, WA 98021-8911 o llame al 425-481-2923.
+Para reservar un espacio y recibir más información, envía la tarifa de registro a Pilot Light Society de Seattle, c/o Carol Erickson, 22816 35th Ave SE, Bothell, WA 98021-8911 o llame al 425-481-2923.
 
-## Vídeos buscados
+## Se buscan vídeos
 
-Formo parte del comité de relaciones públicas de la Fellowship y trabajaré en varias tareas relacionadas con el vídeo de El Libro de Urantia. Parte de esto se realizará en cooperación con la Fundación, por lo que solicito la ayuda de todos los lectores de El Libro de Urantia, independientemente de su afiliación.
+Formo parte del comité de relaciones públicas de la Fellowship y trabajaré en varias tareas relacionadas con vídeos de _El Libro de Urantia_. Parte de esto se realizará en cooperación con la Fundación, por lo que solicito la ayuda de todos los lectores de _El Libro de Urantia_, independientemente de su afiliación.
 
 Lo que estoy buscando en este momento son materiales audiovisuales sobre el _Libro de Urantia_ que puedan incluirse en nuestros archivos de video, así como posiblemente ponerlos a disposición para verlos durante las conferencias, etc. Cualquier cosa que esté en los medios; es decir, la televisión, la radio, el cine son aceptables, así como cualquier video realizado durante las reuniones de la sociedad que esté especialmente bien hecho y sea potencialmente útil para los lectores y/o el público en general. Si cree que tiene lo que estamos buscando, envíeme un correo electrónico a omra@pacificnet.net y le daré mi dirección postal.
 
 Gracias de antemano por su ayuda.
 
-ricardo omura
+Richard Omura
 
 ## The Mighty Messenger
 

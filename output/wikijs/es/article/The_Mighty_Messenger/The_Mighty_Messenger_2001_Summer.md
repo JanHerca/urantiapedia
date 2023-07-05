@@ -3,7 +3,7 @@ title: "The Mighty Messenger - Edición de verano de 2001"
 description: "Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Poetry, Mighty Messenger, article
+tags: Fellowship, Global Seeding, Poetry, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -40,7 +40,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 _La Conferencia Internacional de la Fellowship del Libro de Urantia_ (IC02) es una llamada a la aventura. Lectores de todo el mundo se reunirán en Estes Park Colorado del 30 de junio al 6 de julio para estudio, adoración, compañerismo y recreación. El objetivo de IC02 es traducir las enseñanzas de _El Libro de Urantia_ en un servicio vivo y amoroso. ¡Imagínese las posibilidades de que más de mil de nosotros nos unamos como una familia espiritual! ¡Juntos podemos realizar mejor los potenciales de la revelación de Urantia y regresar a casa inspirados para actualizarla de manera más efectiva!
 
-El programa proporcionará una visión de la «Revelación en acción» a través de presentaciones plenarias creativas, el examen de los conceptos clave de _El Libro de Urantia_ a través de sesiones de grupos grandes y la práctica y aplicación en talleres de grupos pequeños. Habrá un estudio intensivo del libro, así como grupos de estudio informales. Se invitará a los asistentes a participar en un proceso interactivo para crear una visión de un servicio dinámico y salir como «segundos millers».
+El programa proporcionará una visión de la «Revelación en acción» a través de presentaciones plenarias creativas, el examen de los conceptos clave de _El Libro de Urantia_ a través de sesiones de grupos grandes y la práctica y aplicación en talleres de grupos pequeños. Habrá un estudio intensivo del libro, así como grupos de estudio informales. Se invitará a los asistentes a participar en un proceso interactivo para crear una visión de un servicio dinámico y salir como «corredores de la segunda milla».
 
 Las experiencias de oración y adoración serán variadas con la música jugando un papel central. Habrá oportunidad para la meditación grupal en silencio, la oración contemplativa y el yoga antes del desayuno y una reunión de adoración dirigida a los adultos después del desayuno. El culto de la tarde estará orientado a la familia e invitará a la participación activa. Los asistentes a la conferencia pueden elegir entre programas de adoración inspirados en _El Libro de Urantia_ así como en otras tradiciones espirituales.
 
@@ -56,7 +56,7 @@ Los materiales de inscripción y otra información sobre la conferencia aparecer
 
 John Hay, de Boulder, Colorado, fue elegido para ocupar una vacante en el Consejo General.
 
-Duane Faw hizo una donación de su Paramony a la Fellowship. El Paramony es una ayuda de estudio muy útil que hace referencias cruzadas a _El Libro de Urantia_ y el Antiguo y Nuevo Testamento de la Biblia. El Consejo General expresó formalmente la gratitud de la Fellowship a Duane por este regalo. La Fellowship planea publicar Paramony en un futuro cercano.
+Duane Faw hizo una donación de su Paramony a la Fellowship. El Paramony es una ayuda de estudio muy útil que hace referencias cruzadas a _El Libro de Urantia_ y el Antiguo y Nuevo Testamento de la Biblia. El Consejo General expresó formalmente la gratitud de la Fellowship a Duane por este regalo. La Fellowship planea publicar el Paramony en un futuro cercano.
 
 El 20 de junio de 2001, un jurado federal determinó que la renovación de los derechos de autor de 1983 de la Fundación Urantia en _El Libro de Urantia_ no era válida y colocó _El Libro de Urantia_ en el dominio público. En consecuencia, tras un debate prolongado, el Consejo General votó 26 a 8 y 1 abstención para autorizar a Uversa Press a publicar sin demora _El Libro de Urantia_. Además de reproducir cuidadosamente el texto original de 1955, la edición de Uversa Press de _El Libro de Urantia_ contendrá un índice de materias nuevo y largamente esperado para facilitar la localización de pasajes en el texto. Se espera que el proyecto tarde unos seis meses en completarse.
 
@@ -83,14 +83,14 @@ Uno de nuestros mayores desafíos como organización es la coordinación efectiv
 La Fellowship ha comenzado un proceso de reorganización de la oficina que, junto con una mayor eficiencia, ayudará a coordinar estos abundantes recursos humanos. Así como siempre aceptaremos una contribución financiera para facilitar nuestro trabajo, siempre debemos estar listos para canalizar de manera efectiva los esfuerzos de cualquier voluntario de servicio sincero.
 
 En amistad,
-avi dogim
+Avi Dogim
 
 ## Gratitud
 
 por _David Glass_
 
 Te agradezco Dios por haberme creado
-En medio de una Familia Universo.
+En medio de una Familia Universal.
 
 Las bendiciones del amor que hago ahora regresan
 A ti, mi Gran Padre, mientras gano
@@ -98,22 +98,22 @@ A ti, mi Gran Padre, mientras gano
 El logro de la ciudadanía cósmica
 Como miembro de su Sociedad Divina.
 
-Te agradezco por otorgarme libre albedrío
-por cuyo uso avanzaré hasta
+Te agradezco por otorgarme el libre albedrío
+por cuyo uso avanzaré hasta que
 
-El gran día vendrá y luego pasará
-De nuestra fusión espíritu-alma en tu Cielo Dorado.
+El gran día llegue y luego pase
+Por nuestra fusión espíritu-alma en tu Cielo Dorado.
 
-En felicidad sin límites, amor eterno,
+En la felicidad sin límites, amor eterno,
 Encontraré todos tus tesoros y alegrías arriba.
 
 Condúceme en la vida por tu perfecta voluntad;
 Guíame cada día, y por la noche sigue aquí.
 
 Padre omnipotente, mi Señor personal,
-Quien me ha dado la vida, solo tú te lo puedes permitir
+Quien me ha dado la vida, solo tú puedes permitirme
 
-Me una vista impresionante de su infinito sin límites,
+Una vista impresionante de tu infinito sin límites,
 Apreciable sólo en la eternidad sin fin.
 
 Dios mío y Padre mío, ahora vengo a encontrarte;
@@ -123,7 +123,7 @@ Eres mi Sustentador, me levanto ahora para saludarte.
 
 Por _David Kantor_
 
-El 5 de agosto de 2001, Agustín Arellano y yo llegamos para una visita de una semana a varios grupos de lectores en Bogotá, Colombia. Ambos fuimos presentadores en la conferencia de la IUA de Colombia, donde unos 120 lectores se reunieron para estudiar y socializar durante el fin de semana del cumpleaños de Jesús. La Fellowship otorgó once Fellowships para la conferencia a lectores locales que de otro modo no habrían podido asistir.
+El 5 de agosto de 2001, Agustín Arellano y yo llegamos para una visita de una semana a varios grupos de lectores en Bogotá, Colombia. Ambos fuimos presentadores en la conferencia de la IUA de Colombia, donde unos 120 lectores se reunieron para estudiar y socializar durante el fin de semana del cumpleaños de Jesús. La Fellowship otorgó once becas para la conferencia a lectores locales que de otro modo no habrían podido asistir.
 
 Además de participar en el grupo de IUA y visitar a lectores veteranos en el área de Bogotá, pudimos asistir a una clase de secundaria sobre estudios religiosos impartida por el lector José Manuel Rodríguez Vargas. Tiene dos clases por semana de aproximadamente 40 estudiantes cada una. A los estudiantes se les dan párrafos para leer de _El Libro de Urantia_ sobre temas religiosos generales, y luego escriben ensayos y dan informes orales sobre el material. Para aquellos que estén interesados ​​en seguir estudiando, José ofrece un grupo de estudio de _El Libro de Urantia_ fuera del horario laboral.
 
@@ -135,7 +135,7 @@ Así pudimos experimentar _El Libro de Urantia_ en Colombia, ya que se está apl
 
 ## Un trabajo de amor
 
-«Era algo que había que hacer; y tuve el tiempo, así que lo asumí», dijo Duane Faw, describiendo sus años de dedicación en la producción de _Paramony_. Duane presentó la versión actualizada de _Paramony_ a la Fellowship de _El Libro de Urantia_ durante la reciente Sesión de Estudio de Verano en Santa Cruz, CA. En esta nueva edición, las 25.000 referencias cruzadas originales entre la Biblia y _El Libro de Urantia_ se han ampliado a 40.000, y Duane ha añadido títulos de palabras clave como ayuda adicional para el estudio. La experiencia en programación de Larry Watkins fue especialmente útil para poner _Paramony_ en formatos presentables para las cuatro secciones diferentes de _El Libro de Urantia_. _Paramony_ será publicado por Uversa Press en un futuro cercano y también estará disponible en un CD.
+«Era algo que había que hacer; y tuve el tiempo, así que lo asumí», dijo Duane Faw, describiendo sus años de dedicación en la producción del _Paramony_. Duane presentó la versión actualizada del _Paramony_ a la Fellowship de _El Libro de Urantia_ durante la reciente Sesión de Estudio de Verano en Santa Cruz, CA. En esta nueva edición, las 25.000 referencias cruzadas originales entre la Biblia y _El Libro de Urantia_ se han ampliado a 40.000, y Duane ha añadido títulos de palabras clave como ayuda adicional para el estudio. La experiencia en programación de Larry Watkins fue especialmente útil para poner _Paramony_ en formatos presentables para las cuatro secciones diferentes de _El Libro de Urantia_. El _Paramony_ será publicado por Uversa Press en un futuro cercano y también estará disponible en un CD.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2001_Summer/005965.jpg">
@@ -148,22 +148,22 @@ Así pudimos experimentar _El Libro de Urantia_ en Colombia, ya que se está apl
 
 Las siguientes preguntas están diseñadas para entretenerte y desafiarte con respecto a tu conocimiento de _El Libro de Urantia_. Las respuestas se dan por número de artículo, sección y párrafo. ¡Disfruta! ¡Y sin mirar de antemano!
 1. ¿Cuándo operó por primera vez el circuito de los arcángeles desde Urantia? (<a id="a149_79"></a>[LU 189:3.2](/es/The_Urantia_Book/189#p3_2))
-2. Complete los espacios en blanco «La paz de Urantia será promovida mucho más por <u>        </u> <u>          </u> <u>         </u>que por todos los sofismas sentimentales de la paz visionaria planificación.» (<a id="a150_212"></a>[LU 70:3.4](/es/The_Urantia_Book/70#p3_4))
+2. Complete los espacios en blanco «<u>        </u> <u>          </u> <u>         </u> favorecerán la paz en Urantia mucho más que toda la sofistería sensiblera de los planes quiméricos de paz.» (<a id="a150_212"></a>[LU 70:3.4](/es/The_Urantia_Book/70#p3_4))
 3. ¿Cuántas apariciones morontiales hizo Jesús? (<a id="a151_49"></a>[LU 193:3.1](/es/The_Urantia_Book/193#p3_1))
 4. Nombre los siete espíritus ayudantes de la mente. (<a id="a152_54"></a>[LU 36:5.5-12](/es/The_Urantia_Book/36#p5_5))
 5. ¿Cuántas huestes angelicales componen un ejército angelical? (<a id="a153_65"></a>[LU 38:6.2](/es/The_Urantia_Book/38#p6_2))
 6. ¿Quién es Gavalia? (<a id="a154_23"></a>[LU 37:2.6](/es/The_Urantia_Book/37#p2_6))
-7. ¿Cuántos cambios experimentará en su forma morontial a medida que progrese a través de la vida morontial de Nebadon? (<a id="a155_121"></a>[LU 48:1.5](/es/The_Urantia_Book/48#p1_5))
+7. ¿Cuántos cambios experimentarás en tu forma morontial a medida que progreses a través de la vida morontial de Nebadon? (<a id="a155_121"></a>[LU 48:1.5](/es/The_Urantia_Book/48#p1_5))
 8. «<u>         </u> es el antídoto divino para la exaltación del ego.» (<a id="a156_73"></a>[LU 48:4.15](/es/The_Urantia_Book/48#p4_15))
 9. ¿A quién se refirieron los apóstoles como «Jefe»? (<a id="a157_54"></a>[LU 139:1.2](/es/The_Urantia_Book/139#p1_2))
-10. Nombre tantas como pueda de las diez mujeres seleccionadas y comisionadas por Jesús como las primeras miembros del cuerpo evangelístico de mujeres. (<a id="a158_153"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1))
-11. «Solo un <u>         </u> <u>          ;</u> puede restablecer líneas interplanetarias de comunicación en un mundo tan aislado espiritualmente.» (<a id="a159_150"></a>[LU 35:9.9](/es/The_Urantia_Book/35#p9_9))
+10. Nombra tantas como puedas de las diez mujeres seleccionadas y comisionadas por Jesús como las primeras miembros del cuerpo evangelístico de mujeres. (<a id="a158_153"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1))
+11. «Solo un <u>         </u> <u>          ;</u> puede restablecer las líneas de comunicación interplanetarias de ese mundo espiritualmente aislado.» (<a id="a159_150"></a>[LU 35:9.9](/es/The_Urantia_Book/35#p9_9))
 12. Defina un «agondontero». (<a id="a160_30"></a>[LU 50:7.2](/es/The_Urantia_Book/50#p7_2))
 
 
 ## SSS Santa Cruz «Dulce y Especial»
 
-Aproximadamente 250 lectores asistieron a la Sesión de estudio de verano en Santa Cruz, CA, del 9 al 12 de agosto, y disfrutaron de los numerosos discursos, talleres, el hermoso entorno y, sobre todo; los contactos sociales y las experiencias que se obtienen al renovar viejas amistades y hacer otras nuevas. Agradecemos mucho la hospitalidad de los lectores de California que dedicaron tanto tiempo y esfuerzo a hacer que esta conferencia fuera especial, especialmente la cuidadosa planificación del programa y las actividades por parte del Comité de Educación.
+Aproximadamente 250 lectores asistieron a la Sesión de estudio de verano en Santa Cruz, CA, del 9 al 12 de agosto, y disfrutaron de los numerosos discursos, talleres, el hermoso entorno y, sobre todo, los contactos sociales y las experiencias que se obtienen al renovar viejas amistades y hacer otras nuevas. Agradecemos mucho la hospitalidad de los lectores de California que dedicaron tanto tiempo y esfuerzo a hacer que esta conferencia fuera especial, especialmente la cuidadosa planificación del programa y las actividades por parte del Comité de Educación.
 
 Lee Smith, presidente del Comité de Educación, señala que el formato de esta conferencia difería de una típica «sesión de estudio», con la intención de fomentar talleres que serían interactivos, empleando un enfoque de «flujo libre», ofreciendo a los participantes la oportunidad de compartir la significados y valores experienciales de sus aventuras de fe viva en pequeños grupos. Como informa Lee: “Hubo... cierta preocupación expresada de que la sesión de este verano no se centró lo suficiente en el estudio real de los Documentos de Urantia. «Sin embargo», dijo Lee, «una encuesta de muestreo de las 250 personas que asistieron reveló que, en general, este formato fue bien recibido».
 

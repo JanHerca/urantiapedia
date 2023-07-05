@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 2001 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Poetry, Mighty Messenger, article
+tags: Fellowship, Global Seeding, Poetry, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -162,7 +162,7 @@ The following questions are designed to entertain and challenge you regarding yo
 
 ## SSS Santa Cruz “Sweet and Special”
 
-About 250 readers attended the Summer Study Session in Santa Cruz, CA, August 9-12, enjoying the many speeches, workshops, the beautiful setting, and most of all; the social contacts and experiences afforded by renewing old friendships and making new ones. The hospitality of those California readers who devoted so much time and effort to making this conference special are much appreciated, especially the careful planning of the program and activities by the Education Committee. 
+About 250 readers attended the Summer Study Session in Santa Cruz, CA, August 9-12, enjoying the many speeches, workshops, the beautiful setting, and most of all, the social contacts and experiences afforded by renewing old friendships and making new ones. The hospitality of those California readers who devoted so much time and effort to making this conference special are much appreciated, especially the careful planning of the program and activities by the Education Committee. 
 
 Lee Smith, Education Committee Chair, points out that the format for this conference differed from a typical “study session,” the intention being to foster workshops that would be interactive, employing a “free flow” approach, offering participants an opportunity to share the experiential meanings and values of their living faith adventures in small groups. As Lee reports,“There was ... some concern expressed that this summer's session was not focused enough on the actual study of the Urantia Papers. ”However,“ Lee said,”a sampling survey of the 250 persons who attended revealed that, by and large, this format was well received." 
 

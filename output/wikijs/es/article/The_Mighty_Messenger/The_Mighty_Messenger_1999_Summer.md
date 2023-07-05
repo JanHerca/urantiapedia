@@ -3,7 +3,7 @@ title: "The Mighty Messenger - Edición de verano de 1999"
 description: "Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Fellowship, Dissemination, Global Seeding, Urantia Movement Event, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -34,10 +34,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
+## Una gran cantidad de actividades te esperan en Spirit Quest 2000
 
-## Una gran cantidad de actividades te esperan en Spiritquest 2000
-
-En el momento de escribir este artículo, unas 800 personas se han inscrito en SpiritQuest 2000, la conferencia internacional de la Fellowship de _El Libro de Urantia_', que se celebrará del 7 al 12 de agosto en Vancouver, Columbia Británica. «No me sorprendería si finalmente vinieran mil personas», dice Steve Dreier, coordinador de la conferencia y vicepresidente de UB Fellowship. Con la promesa de ser verdaderamente internacional, se espera que la conferencia atraiga a participantes de todo el mundo. Con la ayuda de las generosas contribuciones de los lectores, la Fellowship estableció un fondo de la Fellowship para ayudar a sufragar los gastos de viaje y alojamiento de una serie de lectores de África y América Latina que de otro modo no podrían asistir. También se está ofreciendo asistencia a algunos EE. lectores bajo la rúbrica de un programa de estudio de trabajo / Fellowship que requiere que los beneficiarios realicen un servicio en la conferencia (ver inserto). Además de un programa de talleres y sesiones plenarias, se han brindado oportunidades para la socialización, actividades recreativas, obsequios previos a la conferencia y reuniones de grupos de interés especial.
+En el momento de escribir este artículo, unas 800 personas se han inscrito en Spirit Quest 2000, la conferencia internacional de la Fellowship de _El Libro de Urantia_, que se celebrará del 7 al 12 de agosto en Vancouver, Columbia Británica. «No me sorprendería si finalmente vinieran mil personas», dice Steve Dreier, coordinador de la conferencia y vicepresidente de UB Fellowship. Con la promesa de ser verdaderamente internacional, se espera que la conferencia atraiga a participantes de todo el mundo. Con la ayuda de las generosas contribuciones de los lectores, la Fellowship estableció un fondo de la Fellowship para ayudar a sufragar los gastos de viaje y alojamiento de una serie de lectores de África y América Latina que de otro modo no podrían asistir. También se está ofreciendo asistencia a algunos lectores de EE.UU. bajo la rúbrica de un programa de estudio de trabajo / beca que requiere que los beneficiarios realicen un servicio en la conferencia (ver inserto). Además de un programa de talleres y sesiones plenarias, se han brindado oportunidades para la socialización, actividades recreativas, obsequios previos a la conferencia y reuniones de grupos de interés especial.
 
 ### Retiro de artistas - Adoración a través de las artes - 5-7 de agosto
 
@@ -51,7 +50,7 @@ Para obtener información adicional, comuníquese con Patrick Yesh como se indic
 
 ### Retiro de Adoración - Vivir en la Presencia -4-7 de agosto
 
-Haga planes para llegar tres días antes, el 4 de agosto, para participar en el Retiro espiritual previo a la conferencia de SpiritQuest 2000, «Vivir en la presencia», un nuevo programa de Aventuras en la vida espiritual. Aprenda técnicas prácticas y comprobadas para vivir cada día en el espíritu, momento a momento, consciente de la presencia de Dios. Experimente la «atención sin esfuerzo, el descanso ideal y verdadero del alma, una forma de ejercicio espiritual reparador», este «privilegio más elevado» y «primer deber de todas las inteligencias creadas», este «deleite experiencial más elevado», este «placer exquisito», este «más elevado». alegría." ¡Ven a adorar con nosotros!
+Haga planes para llegar tres días antes, el 4 de agosto, para participar en el Retiro espiritual previo a la conferencia de Spirit Quest 2000, «Vivir en la presencia», un nuevo programa de Aventuras en la vida espiritual. Aprenda técnicas prácticas y comprobadas para vivir cada día en el espíritu, momento a momento, consciente de la presencia de Dios. Experimente la «atención sin esfuerzo, el descanso ideal y verdadero del alma, una forma de ejercicio espiritual reparador», este «privilegio más elevado» y «primer deber de todas las inteligencias creadas», este «deleite experiencial más elevado», este «placer exquisito», esta «alegría más elevada». ¡Ven a adorar con nosotros!
 
 ### Retiro de escritores - Publicando las Buenas Nuevas - 5-7 de agosto
 
@@ -73,15 +72,15 @@ La Fellowship de _El Libro de Urantia_ está buscando doce adultos jóvenes (17-
 
 por _Alison Gardner y Sioux Harvey_
 
-El panel de ocho personas que comprende la última presentación de la Serie Wrightwood sobre el tema del culto está planeando una importante presentación del panel y un taller en IC 99 en Vancouver el Día 3 (11 de agosto): Búsqueda de la Presencia Divina en Nuestras Instituciones Humanas, en previsión de la publicación de este trabajo secundario a finales de este año. Aquí hay algunos puntos destacados.
+El panel de ocho personas que comprende la última presentación de la Serie Wrightwood sobre el tema del culto está planeando una importante presentación del panel y un taller en IC 99 en Vancouver el Día 3 (11 de agosto): «Búsqueda de la Presencia Divina en Nuestras Instituciones Humanas», en previsión de la publicación de este trabajo secundario a finales de este año. Aquí hay algunos puntos destacados.
 
 Steve Hecht examina el significado religioso y el valor del culto al explorar el tema en relación con el Padre Universal, la Trinidad del Paraíso y las ideas de personalidad y personalidad. Coordina ideas que emanan de los reinos divino, cósmico, antropológico y filosófico para elevarlas a una plataforma de ideas espirituales que propugnan la unidad espiritual con la diversidad humana.
 
-Dan Massey propone que mientras el Culto de Otorgamiento (aspectos de la cuarta época contenidos en la quinta) proporciona un simbolismo nuevo y apropiado para la reafirmación de la religión de Jesús, el nuevo Culto de Revelación proporcionará un simbolismo adecuado para las ideas, ideales y creencias del hombre. y lealtades, iluminadas por la revelación de _El Libro de Urantia_.
+Dan Massey propone que mientras el Culto de Otorgamiento (aspectos de la cuarta época contenidos en la quinta) proporciona un simbolismo nuevo y apropiado para la reafirmación de la religión de Jesús, el nuevo Culto de la Revelación proporcionará un simbolismo adecuado para las ideas, ideales y lealtades del hombre, iluminadas por la revelación de _El Libro de Urantia_.
 
 Rebecca Kantor ofrecerá un recorrido por la literatura actual sobre cultos y nuevos movimientos religiosos como contexto para comprender los puntos de vista contemporáneos que deseamos transformar. Su capítulo rastreará la historia del significado de la palabra «culto» y revisará el pensamiento actual sobre el tema desde perspectivas teológicas, sociológicas y psicológicas.
 
-Neal Waldrop postula con fuerza que la revelación de Urantia aborda «el anhelo de crecimiento y avance del individuo y del grupo, _no_ solo el anhelo de ser 'salvado'», y lo interpreta como el Pacto más nuevo: Dios Padre y Dios Madre tienen un plan para cada uno de nosotros _y_ para todo el planeta.
+Neal Waldrop postula con fuerza que la revelación de Urantia aborda «el anhelo de crecimiento y avance del individuo y del grupo, _no_ solo el anhelo de ser ‘salvado’», y lo interpreta como el Pacto más nuevo: Dios Padre y Dios Madre tienen un plan para cada uno de nosotros _y_ para todo el planeta.
 
 Joan Wentworth, a través de retratos íntimos de la vida cotidiana en los pueblos de Creta, examinará la ortodoxia griega, una de las más cultuales de todas las denominaciones evolutivas. Al retratar la fe y la práctica subyacentes de un pueblo muy devoto del siglo XX, ofrecerá al lector ejemplos de la vida real de la expresión de la unidad trinitaria.
 
@@ -93,7 +92,7 @@ El panel agradece sus ideas y sugerencias sobre el cuidado de los comoderadores 
 
 ## Difundir la palabra
 
-Si le gusta recibir material de la Fellowship, incluida esta publicación, y conoce a un lector de _El Libro de Urantia_ que no obtiene estos beneficios, puede hacerle un favor a esa persona y preguntarle si le gustaría estar en la lista de correo. . Lograrlo es lo más fácil del mundo. Una llamada telefónica, correo electrónico, fax. o incluso el correo postal es todo lo que se necesita.
+Si le gusta recibir material de la Fellowship, incluida esta publicación, y conoce a un lector de _El Libro de Urantia_ que no obtiene estos beneficios, puede hacerle un favor a esa persona y preguntarle si le gustaría estar en la lista de correo. Lograrlo es lo más fácil del mundo. Una llamada telefónica, correo electrónico, fax, o incluso el correo postal es todo lo que se necesita.
 
 El acto es tuyo...
 
@@ -107,12 +106,11 @@ _El Libro de Urantia_ tendrá visibilidad en el evento mediante una exhibición 
 
 ### El Comité de Educación
 
-La publicación de la Serie Wrightwood sobre Race se está imprimiendo y estará disponible para su compra en IC99 este verano. El actual Seminario de Wrightwood sobre la perspectiva del culto en The Urqntia Book será presentado por un panel en la Conferencia Internacional en Vancouver en agosto. Se ha aprobado una futura presentación de Wrightwood sobre la historia del movimiento Urantia. El Comité de Educación está organizando un centro de intercambio de información para oradores, una lista de personas con habilidades para hablar en público que están interesadas en dar charlas sobre diversos temas relacionados con El Libro de Urantia. Se desarrollarán materiales para el estudio de temas y se pondrán a disposición de los grupos de estudio locales en cooperación con el Comité de Extensión Nacional.
+La publicación de la Serie Wrightwood sobre las razas se está imprimiendo y estará disponible para su compra en IC99 este verano. El actual Seminario de Wrightwood sobre la perspectiva del culto en _El Libro de Urantia_ será presentado por un panel en la Conferencia Internacional en Vancouver en agosto. Se ha aprobado una futura presentación de Wrightwood sobre la historia del movimiento Urantia. El Comité de Educación está organizando un centro de intercambio de información para oradores, una lista de personas con habilidades para hablar en público que están interesadas en dar charlas sobre diversos temas relacionados con _El Libro de Urantia_. Se desarrollarán materiales para el estudio de temas y se pondrán a disposición de los grupos de estudio locales en cooperación con el Comité de Extensión Nacional.
 
 ### Comité Ad-Hoc de Vida Familiar
 
-La educación de los padres, los trabajos secundarios y los campamentos de verano son los temas clave para FLC.
-El FLC está trabajando para proporcionar a los padres de Urantia obras útiles relacionadas con la vida familiar y con actividades significativas para los niños en conferencias y reuniones. Los esfuerzos actuales incluyen la lista de chat de vida familiar, la página web de vida familiar, talleres orientados a la familia y Kindle the Fire, un manual de actividades e ideas para padres e hijos.
+La educación de los padres, los trabajos secundarios y los campamentos de verano son los temas clave para FLC. El FLC está trabajando para proporcionar a los padres de Urantia obras útiles relacionadas con la vida familiar y con actividades significativas para los niños en conferencias y reuniones. Los esfuerzos actuales incluyen la lista de chat de vida familiar, la página web de vida familiar, talleres orientados a la familia y Kindle the Fire, un manual de actividades e ideas para padres e hijos.
 
 ### Comité de Relaciones Fraternales
 
@@ -120,9 +118,9 @@ FRC presentará un taller por la tarde en IC99 sobre estudiantes de la UB que ut
 
 ### Comité Ad Hoc de Relaciones Públicas
 
-En estrecha colaboración con el Comité de Extensión Nacional, se ha desarrollado una campaña publicitaria para periódicos universitarios que pondrá una copia del libro en manos de jóvenes buscadores de la verdad. Con la cooperación del Comité de Finanzas, se implementaron una serie de atractivos paquetes de recaudación de fondos. En coordinación con el Comité de Publicaciones, apareció una serie de insertos publicitando SpiritQuest 2000 en _Mighty Messenger_ y _The Fellowship Herald_.
+En estrecha colaboración con el Comité de Extensión Nacional, se ha desarrollado una campaña publicitaria para periódicos universitarios que pondrá una copia del libro en manos de jóvenes buscadores de la verdad. Con la cooperación del Comité de Finanzas, se implementaron una serie de atractivos paquetes de recaudación de fondos. En coordinación con el Comité de Publicaciones, apareció una serie de insertos publicitando Spirit Quest 2000 en _Mighty Messenger_ y _The Fellowship Herald_.
 
-El Comité de Relaciones Públicas jugó un papel decisivo en el cambio de nombre de la organización a la Fellowship de _El Libro de Urantia_, y en la implementación de un identificador logográfico y papelería nueva. Se ha establecido un Archivo multimedia para recopilar presentaciones de audio y vídeo de materiales relacionados con _El Libro de Urantia_ con fines históricos y educativos. La capacitación en medios ha comenzado con una serie de talleres diseñados para ayudar a los lectores a hablar sobre el libro al público en caso de que los medios de comunicación se acerquen a ellos. El próximo taller será en SpiritQuest 2000 en Vancouver este verano.
+El Comité de Relaciones Públicas jugó un papel decisivo en el cambio de nombre de la organización a la Fellowship de _El Libro de Urantia_, y en la implementación de un identificador logográfico y papelería nueva. Se ha establecido un Archivo multimedia para recopilar presentaciones de audio y vídeo de materiales relacionados con _El Libro de Urantia_ con fines históricos y educativos. La capacitación en medios ha comenzado con una serie de talleres diseñados para ayudar a los lectores a hablar sobre el libro al público en caso de que los medios de comunicación se acerquen a ellos. El próximo taller será en Spirit Quest 2000 en Vancouver este verano.
 
 Este verano se estrenará un nuevo kit de bienvenida multiusos, que también estará disponible a través del sitio web de la Fellowship. El kit incluye un folleto que describe las actividades y objetivos de la Fellowship, una carta de bienvenida del presidente, una lista de publicaciones, un directorio de grupos de estudio y una muestra de boletines. Próximamente se encuentra un kit de medios (que explica el libro y la organización en caso de consultas de los medios) y un kit de grupo de estudio.
 
@@ -138,7 +136,7 @@ El comité presentó un nuevo número gratuito de la Fellowship, 871-335-5669. L
 
 ### Sitio web
 
-Actualmente disponible en el sitio web de la Fellowship hay una amplia gama de documentos históricos, ayudas para el estudio, fotografías, grabaciones de sonido y el texto completo de _El Libro de Urantia_ con un motor de búsqueda. La incorporación más reciente es la nueva base de datos de Paramony de Duane Faw, que contiene más de 13.000 referencias cruzadas entre la Biblia y _El Libro de Urantia_. En la actualidad, el sitio ofrece más de 90 megabytes de material a más de 800 personas las veinticuatro horas. La nueva base de datos y las herramientas de búsqueda que se incorporarán a finales de este año continuarán ampliando la usabilidad de esta base de conocimientos. David Kantor, presidente del Comité de Proyectos Especiales y Webmaster de la Fellowship, conducirá un taller en IC99 sobre cómo usar este recurso de rápido crecimiento.
+Actualmente disponible en el sitio web de la Fellowship hay una amplia gama de documentos históricos, ayudas para el estudio, fotografías, grabaciones de sonido y el texto completo de _El Libro de Urantia_ con un motor de búsqueda. La incorporación más reciente es la nueva base de datos del Paramony de Duane Faw, que contiene más de 13.000 referencias cruzadas entre la Biblia y _El Libro de Urantia_. En la actualidad, el sitio ofrece más de 90 megabytes de material a más de 800 personas las veinticuatro horas. La nueva base de datos y las herramientas de búsqueda que se incorporarán a finales de este año continuarán ampliando la usabilidad de esta base de conocimientos. David Kantor, presidente del Comité de Proyectos Especiales y Webmaster de la Fellowship, conducirá un taller en IC99 sobre cómo usar este recurso de rápido crecimiento.
 
 ## Proyecto Palomita
 

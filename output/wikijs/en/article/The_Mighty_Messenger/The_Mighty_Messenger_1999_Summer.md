@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 1999 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Fellowship, Dissemination, Global Seeding, Urantia Movement Event, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -34,9 +34,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## A host of activities awaits you at Spiritquest 2000
+## A host of activities awaits you at Spirit Quest 2000
 
-As of this writing, some 800 individuals have registered for SpiritQuest 2000, _The Urantia Book_ Fellowship's international conference, which will beheld from August 7-12 in Vancouver, British Colombia. “It wouldn't surprise me if a thousand people finally show up,” says SteveDreier, the conference coordinator and UB Fellowship's Vice President. Promising to be truly international, the conference is expected to draw participants from all over the world. With the help of generous contributions from readers, the Fellowship established a scholarship fund to help defray the cost of travel and lodging for a number of readers from Africa and Latin America who would otherwise not be able to attend. Assistance is also being offered to some U.S. readers under the rubric of a Work Study / Scholarship program which requires the beneficiaries to perform a service at the conference (see insert). In addition to a program of workshops and plenary sessions, opportunities have been provided for socialization, leisure activities, preconferencere treats and special interest group gatherings.
+As of this writing, some 800 individuals have registered for Spirit Quest 2000, _The Urantia Book_ Fellowship's international conference, which will beheld from August 7-12 in Vancouver, British Colombia. “It wouldn't surprise me if a thousand people finally show up,” says SteveDreier, the conference coordinator and UB Fellowship's Vice President. Promising to be truly international, the conference is expected to draw participants from all over the world. With the help of generous contributions from readers, the Fellowship established a scholarship fund to help defray the cost of travel and lodging for a number of readers from Africa and Latin America who would otherwise not be able to attend. Assistance is also being offered to some U.S. readers under the rubric of a Work Study / Scholarship program which requires the beneficiaries to perform a service at the conference (see insert). In addition to a program of workshops and plenary sessions, opportunities have been provided for socialization, leisure activities, preconferencere treats and special interest group gatherings.
 
 ### Artists Retreat - Worship Through The Arts - August 5-7 
 
@@ -50,7 +50,7 @@ For additional information, contact Patrick Yesh asabove.
 
 ### Worship Retreat - Living in the Presence -August 4-7 
 
-Make plans to arrive three days early, August 4, to participate in SpiritQuest 2000's Pre-Conference Spiritual Retreat, “Living in the Presence,” a new program from Adventures in Spiritual Living. Learn practical, proven techniques to live each day in the spirit, moment by moment, conscious of God's presence. Experience “effortless attention, true and ideal soul rest, a form of restful spiritual exertion,” this “highest privilege” and “first duty of all created intelligences,” this “highest experiential delight,” this “exquisite pleasure,” this “highest joy.” Come worship with us! 
+Make plans to arrive three days early, August 4, to participate in Spirit Quest 2000's Pre-Conference Spiritual Retreat, “Living in the Presence,” a new program from Adventures in Spiritual Living. Learn practical, proven techniques to live each day in the spirit, moment by moment, conscious of God's presence. Experience “effortless attention, true and ideal soul rest, a form of restful spiritual exertion,” this “highest privilege” and “first duty of all created intelligences,” this “highest experiential delight,” this “exquisite pleasure,” this “highest joy.” Come worship with us! 
 
 ### Writers Retreat - Publishing the Good News- August 5-7 
 
@@ -72,7 +72,7 @@ _The Urantia Book_ Fellowship is looking for twelve young adults (17-25) to part
 
 by _Alison Gardner and Sioux Harvey_
 
-The eight-person panel comprising the latest Wrightwood Series presentation on the subjectof cult is planning a major panel presentation and workshop at IC 99 in Vancouveron Day 3 (August 11): Quest for the Divine Presence in Our Human Institutions, in anticipation of the publication of this secondary work later this year. Here are some highlights. 
+The eight-person panel comprising the latest Wrightwood Series presentation on the subjectof cult is planning a major panel presentation and workshop at IC 99 in Vancouveron Day 3 (August 11): “Quest for the Divine Presence in Our Human Institutions”, in anticipation of the publication of this secondary work later this year. Here are some highlights. 
 
 Steve Hecht examines the religious meaning and value of cult by exploring the subjectin relation to the Universal Father, the Paradise Trinity, and the ideas of personality and personhood. He coordinates ideas emanating from the divine, cosmic, anthropological, and philosophical realms in order to elevate them onto a platforn of spiritual ideas that espouse spirit unity with human diversity.
 
@@ -92,7 +92,7 @@ The panel welcomes your thoughts and suggestions in care of the panel's comodera
 
 ## Spread the Word
 
-If you enjoy getting material from the Fellowship, including this publication, and you know a Urantia Book reader who does not get these benefits, you may want to do the person a favor and ask if he or she would like to get on the mailing list. Getting it done is the easiest thing in the world. A phone call, e-mail, fax. or even “snail” mail is all it takes.
+If you enjoy getting material from the Fellowship, including this publication, and you know a Urantia Book reader who does not get these benefits, you may want to do the person a favor and ask if he or she would like to get on the mailing list. Getting it done is the easiest thing in the world. A phone call, e-mail, fax, or even “snail” mail is all it takes.
 
 The act is yours...
 
@@ -106,12 +106,11 @@ _The Urantia Book_ will be given visibility at the event by an 8-foot table-top 
 
 ### The Education Committee
 
-Wrightwood Series publication on Race is being printed and will be available for purchase at IC99 this summer. The current Wrightwood Seminar on the perspective of Cult in The Urqntia Book will be presented by a panel at the International Conference in Vancouver in August. Approval has been given for a future Wrightwood presentation on the history of the Urantia movement. The Education Committee is organizing a speaker's clearinghouse, a list of individuals with public speaking skills who are interested in giving talks on various Urantia Book related topics. Materials for topical study will be developed and made available to local study groups in cooperation with the Domestic Extension Committee.
+Wrightwood Series publication on Race is being printed and will be available for purchase at IC99 this summer. The current Wrightwood Seminar on the perspective of Cult in _The Urantia Book_ will be presented by a panel at the International Conference in Vancouver in August. Approval has been given for a future Wrightwood presentation on the history of the Urantia movement. The Education Committee is organizing a speaker's clearinghouse, a list of individuals with public speaking skills who are interested in giving talks on various _Urantia Book_ related topics. Materials for topical study will be developed and made available to local study groups in cooperation with the Domestic Extension Committee.
 
 ### Ad-Hoc Family Life Committee
 
-Parent education, secondary works and summer camp are the key issues for FLC.
-The FLC is working to provide Urantian parents with helpful works related to family life and with meaningful activities for children at conferences and gatherings. Present efforts include family life chat list, family life web page, family oriented workshops and Kindle the Fire, a handbook of activities and ideas for parents and children. 
+Parent education, secondary works and summer camp are the key issues for FLC. The FLC is working to provide Urantian parents with helpful works related to family life and with meaningful activities for children at conferences and gatherings. Present efforts include family life chat list, family life web page, family oriented workshops and Kindle the Fire, a handbook of activities and ideas for parents and children. 
 
 ### Fraternal Relations Committee 
 
@@ -119,9 +118,9 @@ FRC will present an afternoon workshop at IC99 on UB students who use their invo
 
 ### Ad Hoc Public Relations Committee
 
-Working closely with the Domestic Extension Committee, an ad campaign for college campus newspapers has been developed which will put a copy of the book into the hands of young truth seekers. With the cooperation of the Finance Committee, a series of enticing fund raising packages were implemented. In coordination with the Publications Committee, a series of inserts publicizing SpiritQuest 2000 appeared in the _Mighty Messenger_ and _The Fellowship Herald_.
+Working closely with the Domestic Extension Committee, an ad campaign for college campus newspapers has been developed which will put a copy of the book into the hands of young truth seekers. With the cooperation of the Finance Committee, a series of enticing fund raising packages were implemented. In coordination with the Publications Committee, a series of inserts publicizing Spirit Quest 2000 appeared in the _Mighty Messenger_ and _The Fellowship Herald_.
 
-The PR Committee was instrumental in affecting the organizational name change to _The Urantia Book_ Fellowship, and with implementing a logographic identifier and new stationery. A Media Archive has been established for collecting audio and video presentations of _Urantia Book_ related materials for historical and educational purposes. Media training has begun with a series of workshops designed to help readers talk about the book to the public in the event they are approached by the mass media. The next workshop will be at SpiritQuest 2000 in Vancouver this summer. 
+The PR Committee was instrumental in affecting the organizational name change to _The Urantia Book_ Fellowship, and with implementing a logographic identifier and new stationery. A Media Archive has been established for collecting audio and video presentations of _Urantia Book_ related materials for historical and educational purposes. Media training has begun with a series of workshops designed to help readers talk about the book to the public in the event they are approached by the mass media. The next workshop will be at Spirit Quest 2000 in Vancouver this summer. 
 
 A new, all-purpose Welcome Kit will debut this summer, and will be available through the Fellowship's web site as well. The kit includes a brochure outlining the activities and goals of the Fellowship, a welcome letter from the President, a list of publications, a Study Group Directory, and a sampling of newsletters. Upcoming are a Media Kit (explaining the book and the organizationin the event of media inquiries) and a Study Group Kit.
 

@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall 1999 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Fellowship, The Urantia Book, Dissemination, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -87,9 +87,7 @@ _Binion:_  I accept Janet Farrington Graham's assertion that it is not a Fellow
 
 _MM:_  What effect, if any, do you think this publication will have on the “unity” efforts in the “movement”?
 
-_Binion:_  I believe Harry's publication has already had an adverse effect on the unity effort. I observe many readers with strong differing opinions who cannot separate Harry's role with the Fellowship from this issue. In their minds the Fellowship is tainted b
-
-because of his relationship and the Fellowship's silence, and that affects the unity effort.
+_Binion:_  I believe Harry's publication has already had an adverse effect on the unity effort. I observe many readers with strong differing opinions who cannot separate Harry's role with the Fellowship from this issue. In their minds the Fellowship is tainted because of his relationship and the Fellowship's silence, and that affects the unity effort.
 
 _MM:_  Yes, we've seen a number of comments to that effect. What do you think the Fellowship needs to do about this?
 

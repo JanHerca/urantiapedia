@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 1998 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Fellowship, Global Seeding, Dissemination, Urantia Movement Event, Leadership Development, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -129,7 +129,7 @@ We must remember that there are many ways to serve. For one individual, it may b
 ## Happenings here and there
 
 - **Summer Conference in Washington, DC** July 9-12, 1998. There's still time to register for the 1998 Summer Conference at beautiful Mount Vernon College in the Georgetown area of Washington, DC. This year's theme is “The Art of Spiritual Living.” You are invited to join Urantians from the US and abroad for this three-day experience of study, worship, recreation and fellowship. Special activities are planned for children. To register, call John Hales at 773-327-0424.
-- Norman Ingram and Co., of “World Outreach for Urantia Nations” fame, are planning a trip to Africa in September of 1998. Their mission? To bring the light of the fifth epochal revelation to the “dark continent.” For more information, fax 562-698-2122\*51 or e-mail norlastar @aol.com.
+- Norman Ingram and Co., of “World Outreach for Urantia Nations” fame, are planning a trip to Africa in September of 1998. Their mission? To bring the light of the fifth epochal revelation to the “dark continent.” For more information, fax 562-698-2122\*51 or e-mail norlastar@aol.com.
 - The Urantian Emprise, Serge Bisson's and Cynthia Mantel's sailboat was recently launched and completed her first blue water voyage from Puerto Rico to Florida. The mariners will participate in the Millennial Odyssey, a multiphase global yacht race with spiritual overtones beginning in 1998 and ending in the year 2000. Serge and Cynthia plan to carry a mother lode of _Urantia Books_ on board.
 - Nick Curto of the Society of Greater New York plans to use the Gay Games, international gay and lesbian “Olympics,” which will be held in Amsterdam in August, 1998, as a forum for dissemination of _The Urantia Book_ and its teachings to the gay community. Nick has the support of the New York Society as well as the Fellowship in this effort.
 - Plan to attend Texas’ Lone Star Roundup Conference October 30-November 1, 1998 at Camp Buckner, near Burnet and Marble Falls, TX, adjacent to Longhorn Cavern State Park (60 miles northwest of Austin). Lodge and cabins available at reasonable rates. Early registration $30. Theme: “Why Pray?”
@@ -160,7 +160,7 @@ John was a reader for 20 years and took a very active part in society affairs, w
 
 John was an Area Coordinator and kept in contact with dozens of readers, sharing his extensive knowledge of the book with them. It was his dream to bring the book to the Russian people. He and his wife, Natasha, and their children were planning to move to Russia in December of this year to begin this work.
 
-His favorite quotation is indicative of his faith: “...uncertainty is the secret of contented continuity....when ignorance is essential to success, it would be a colossal blunder for the creature to know the future.” (p. 438)
+His favorite quotation is indicative of his faith: “...uncertainty is the secret of contented continuity....when ignorance is essential to success, it would be a colossal blunder for the creature to know the future.” ([UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
 
 Warmhearted friends from Oklahoma attended and graced the double occasion with special musical arrangements.
 

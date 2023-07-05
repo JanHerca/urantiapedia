@@ -280,7 +280,7 @@ Obtenga más información sobre la conferencia en ic14.org y envíe una propuest
 
 Obtenga información actualizada al minuto haciendo clic en «Me gusta» en la página de Facebook de IC'14.
 
-La información sobre el registro, los paquetes de precios y las Fellowships estará disponible este verano. Sabemos que las conferencias pueden ser costosas, por lo que estamos trabajando en tantas opciones como sea posible para que IC'14 sea asequible para usted y sus amigos y familiares.
+La información sobre el registro, los paquetes de precios y las becas estará disponible este verano. Sabemos que las conferencias pueden ser costosas, por lo que estamos trabajando en tantas opciones como sea posible para que IC'14 sea asequible para usted y sus amigos y familiares.
 
 Siga visitando el sitio web para obtener actualizaciones emocionantes sobre nuestro nuevo programa flexible de conferencias, nuestro Festival de Cine de YouTube, el increíble programa Truthseekers, la participación de todas las sociedades, nuestro día social especial el domingo y mucho más.
 

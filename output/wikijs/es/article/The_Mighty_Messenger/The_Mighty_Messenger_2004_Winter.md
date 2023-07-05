@@ -233,7 +233,7 @@ Envíe las entradas a: Thomas Orjala, 782 South Ruby Rd, Coeur d 'Alerte, Idaho 
 
 ## Usted debe saber...
 
-- El Consejo General de _El Libro de Urantia_ Fellowsllip celebrará una reunión anual de mitad de año en Atlanta, GA, el sábado y domingo 29 y 30 de enero. 2005, en el Hotel Crowne Plaza cerca del aeropuerto. La reunión del Consejo estará abierta a todos los lectores que deseen observar los procedimientos, y los Consejeros esperan conocer a los miembros de los grupos de estudio locales.
+- El Consejo General de la Fellowship de _El Libro de Urantia_ celebrará una reunión anual de mitad de año en Atlanta, GA, el sábado y domingo 29 y 30 de enero. 2005, en el Hotel Crowne Plaza cerca del aeropuerto. La reunión del Consejo estará abierta a todos los lectores que deseen observar los procedimientos, y los Consejeros esperan conocer a los miembros de los grupos de estudio locales.
 - El archivo de audio en el sitio web de la Fellowship se ha ampliado para incluir las composiciones musicales del difunto Sandy Garrick. Sandy, compositor y productor de renombre internacional, gustaba de poner música a sus pasajes favoritos de _El Libro de Urantia_. Las grabaciones de sus interpretaciones de esta música están disponibles en formato MP3 en http:/urantiabook.org/audio/Garrick/index.html.
 - En algún momento a principios de noviembre, los lectores de Lituania deberían haber recibido sus libros, la traducción al lituano se distribuirá. Actualmente, la Fellowship está haciendo planes para participar en una feria del libro de Lituania en febrero de 2005.
 

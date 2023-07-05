@@ -70,7 +70,7 @@ El costo del registro como Truthseeker cubre exactamente el costo que IC'17 est�
 - Día 3 - Viernes, 21 de julio - Truthseekers viajará a Idaho Springs para un viaje en balsa de aguas bravas. La noche está dedicada al Club UB y/o a la convivencia con los YaYAs (Grupo de Jóvenes y Jóvenes).
 - Día 4 - Sábado, 22 de julio - Truthseekers van a Golden, CO para caminar en un magnífico Bosque Nacional durante el día y regresarán al campus para cenar con los YaYA y asistir a un concierto y/u otras actividades.
 -
-Las Fellowships Truthseeker están disponibles con el pago de la inscripción de los padres. Ponte en contacto con la oficina para obtener más información.
+Las becas Truthseeker están disponibles con el pago de la inscripción de los padres. Ponte en contacto con la oficina para obtener más información.
 
 > «A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos.» <a id="a74_95"></a>[[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
 

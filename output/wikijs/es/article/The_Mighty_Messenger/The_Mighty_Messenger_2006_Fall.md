@@ -58,7 +58,7 @@ Robert es el dueño del Share-Up Fitness Center en Irvine. Él y su esposa, Cind
 
 El Comité Ejecutivo ha aprobado la creación del comité de enlace, que será presidido por Marvin Gawryn, en respuesta a una resolución presentada por la TDA y aprobada por el Consejo General que: «Resuélvase: la Fellowship continúa tomando medidas activas para explorar intereses comunes y la viabilidad de fusionar (los esfuerzos) de la Fellowship y Urantia Association International».
 
-Marvin espera con interés su trabajo para mantener la comunicación entre los líderes de la AUI, la Fundación y The Fellowsllip y continuar explorando vías para un esfuerzo conjunto.
+Marvin espera con interés su trabajo para mantener la comunicación entre los líderes de la AUI, la Fundación y la Fellowship y continuar explorando vías para un esfuerzo conjunto.
 
 ## Informe del presidente
 
@@ -130,7 +130,7 @@ Decir adiós a alguien como John Hales, quien se ha desempeñado como nuestro Di
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Charlene_Morrow.jpg">
 </figure>
 
-**Charlene Morrow** fue miembro fundador de la Sociedad _El Libro de Urantia_ de Oklahoma (Primera Sociedad de Oklahoma), fundada en 1957, y se ha desempeñado como presidenta, vicepresidenta, secretaria y tesorera de esta sociedad. También se desempeñó anteriormente en el Consejo General durante nueve años. Sus intereses son las ferias de libros y colocar _Urantia Books_ en las bibliotecas. Está involucrada en el trabajo interreligioso como miembro de Interfaith Alliance y NAIN y actualmente forma parte del Comité Interreligioso de la Fellowship. Se siente especialmente bendecida de ser madre y abuela de cinco.
+**Charlene Morrow** fue miembro fundador de la Sociedad _El Libro de Urantia_ de Oklahoma (Primera Sociedad de Oklahoma), fundada en 1957, y se ha desempeñado como presidenta, vicepresidenta, secretaria y tesorera de esta sociedad. También se desempeñó anteriormente en el Consejo General durante nueve años. Sus intereses son las ferias de libros y colocar _Libros de Urantia_ en las bibliotecas. Está involucrada en el trabajo interreligioso como miembro de Interfaith Alliance y NAIN y actualmente forma parte del Comité Interreligioso de la Fellowship. Se siente especialmente bendecida de ser madre y abuela de cinco.
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Al_Lockett.jpg">
@@ -230,7 +230,7 @@ La experiencia no tiene precio cuando a eso le sumas las amistades creadas en es
 
 El sábado 8 de julio por la noche se llevó a cabo una fiesta de gala en honor a los muchos años de servicio de John Hales a la Fellowship, como parte de las festividades de la Summer Study Sesion '06. Estaban presentes todos los expresidentes vivos de la Fellowship, así como la familia de John y un gran grupo de amigos y simpatizantes. A John se le obsequió un hermoso libro de cristal macizo, inspirado en _El Libro de Urantia_ con el título en la parte superior y tres círculos concéntricos debajo con una inscripción, como muestra de agradecimiento por su servicio a la revelación.
 
-Los siete expresidentes vivos de la Fellowship se reunieron para honrar a John Hales en su retiro como Director Administrativo de la Fellowsllip. De izquierda a derecha están Paul Snider, Meredith Sprunger, John Hales, Dave Elders, Steve Dreier, Janet Farrington-Graham y Avi Dogim.
+Los siete expresidentes vivos de la Fellowship se reunieron para honrar a John Hales en su retiro como Director Administrativo de la Fellowship. De izquierda a derecha están Paul Snider, Meredith Sprunger, John Hales, Dave Elders, Steve Dreier, Janet Farrington-Graham y Avi Dogim.
 
 <figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005642.jpg">

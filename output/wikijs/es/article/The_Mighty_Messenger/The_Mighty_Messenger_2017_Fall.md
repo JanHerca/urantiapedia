@@ -144,7 +144,7 @@ El Festival del Ganso Salvaje en Hot Springs, NC fue, una vez más, una interacc
 
 Los asistentes en el stand fueron Thomas Orjala, Lynn Goodwin, Gard Jameson, Pamela Chaddock y los locales Isadora Gadjour y Rabia Harris. Este año faltaban nuestros YaYAs. El año pasado, Angie Thurston y Darren Atherton agregaron un sabor fresco a la mezcla, presentando a Angie, y ambos sirviendo en el stand y saliendo alrededor de 2X2. Este lugar educativo e interactivo sirve como terreno óptimo para nuestros efervescentes YaYA.
 
-Recibimos información de contacto de 50 personas a las que se les envió una carta de «Saludo» de seguimiento con enlaces a Fellowships y recursos de la Fundación. El próximo año, podemos fomentar la conexión y enviar correos electrónicos con una invitación para venir a decir «Hola».
+Recibimos información de contacto de 50 personas a las que se les envió una carta de «Saludo» de seguimiento con enlaces a becas y recursos de la Fundación. El próximo año, podemos fomentar la conexión y enviar correos electrónicos con una invitación para venir a decir «Hola».
 
 Los letreros fueron colocados por el Consejo de Iglesias de Carolina del Norte acampando junto a nosotros. Su líder, Suzanne, es una ministra que recibió un libro el año pasado de su amiga y nuestra, Isadora, y ahora Suzanne es una lectora entusiasta. ¿Y quién dice que las iglesias no están preparadas para el UB?
 
