@@ -2033,6 +2033,9 @@ class Book {
 		let html = '';
 		html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
 		footnoteDef.forEach(fnsection => {
+			if (fnsection.footnotes.length === 0) {
+				return;
+			}
 			const fns = fnsection.suffix;
 			const fna = fnsection.alt;
 			const fnt = fnsection.twemoji;
