@@ -605,9 +605,10 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'BOOK_JSON_TOPICS_TXT_TO_WIKIJS') {
 		// Reads image catalog (*.md) + 
 		// Reads map catalog (*.md) +
-		// Reads paralells (*.md) +
+		// Reads book paralells (*.md) +
 		// Reads UB (*.json) + 
 		// Reads Topic Index (*.txt) => 
+		// Reads articles paralells (*.tsv)
 		// Writes (Wiki.js *.html)
 		imageCatalog.read()
 			.then(() => mapCatalog.read())
@@ -643,6 +644,7 @@ const handle_exeButtonClick = () => {
 		//TODO: Add authors in Index (not in Extended)
 		//TODO: Add links in home page & About UB page to go directly to multi
 		paralells.read()
+			.then(() => articles.readUBParalellsFromTSV(txtFile))
 			.then(() => {
 				const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
 				return book.readFromJSON(masterDir);
@@ -677,7 +679,8 @@ const handle_exeButtonClick = () => {
 				//No errors, proceed
 				return topicindexEN.updateRefsForSearching(books[0])
 					.then(() => book.writeMultipleToWikijs(htmlDir, books, 
-						topicindex, topicindexEN, null, null, paralells));
+						topicindex, topicindexEN, null, null, paralells,
+						articles));
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);

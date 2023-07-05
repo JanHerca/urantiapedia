@@ -1572,11 +1572,12 @@ class Book {
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
+	 * @param {?Articles} articles Articles.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
 	writeMultipleToWikijs = (dirPath, books, topicIndex, topicIndexEN, 
-		imageCatalog, mapCatalog, paralells) => {
+		imageCatalog, mapCatalog, paralells, articles) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -1595,7 +1596,8 @@ class Book {
 				});
 				const filePath = path.join(dirPath, `${index}.html`);
 				const p = this.writeFileToWikijs(filePath, papers, topicIndex, 
-					topicIndexEN, imageCatalog, mapCatalog, paralells);
+					topicIndexEN, imageCatalog, mapCatalog, paralells, 
+					articles);
 				return reflectPromise(p);
 			});
 			Promise.all(promises)
