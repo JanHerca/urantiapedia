@@ -52,30 +52,30 @@ Ahora, más de sesenta años después de que William S. Sadler, Jr. escribiera s
 
 No obstante, no debemos descuidar los aspectos espirituales y religiosos de la quinta revelación de época, sino asegurarnos de tomar nota cuidadosa de la misión y la intención de nuestro Hijo Creador del Paraíso durante la vida de otorgamiento que vivió en Urantia hace aproximadamente 2000 años. Cuando Jesús de Nazaret tomó plena conciencia de su identidad espiritual como Miguel de Nebadon, sin duda atesoró la seguridad que Emmanuel le ofreció poco antes de partir de Salvington:
 
-> «Como Hijo dispensacional, se te han concedido ciertos privilegios relacionados con el avance del estado espiritual y religioso de los pueblos del mundo». [[LU 120:3.5](/es/The_Urantia_Book/120#p3_5)]
+> «Como Hijo dispensacional, se te han concedido ciertos privilegios relacionados con el avance del estado espiritual y religioso de los pueblos del mundo». <a id="a54_157"></a>[[LU 120:3.5](/es/The_Urantia_Book/120#p3_5)]
 
 Sin embargo, en el párrafo inmediatamente posterior, Immanuel aclaró la naturaleza de la tarea de Miguel:
 
-> «5. Si lo consideras conveniente, puedes identificarte con los movimientos religiosos y espirituales existentes que puedan encontrarse en Urantia, pero trata de evitar, de todas las maneras posibles, el establecimiento formal de un culto organizado, de una religión cristalizada o de una agrupación ética separada de seres humanos. Tu vida y tus enseñanzas deben convertirse en la herencia común de todas las religiones y de todos los pueblos». [[LU 120:3.6](/es/The_Urantia_Book/120#p3_6)]
+> «5. Si lo consideras conveniente, puedes identificarte con los movimientos religiosos y espirituales existentes que puedan encontrarse en Urantia, pero trata de evitar, de todas las maneras posibles, el establecimiento formal de un culto organizado, de una religión cristalizada o de una agrupación ética separada de seres humanos. Tu vida y tus enseñanzas deben convertirse en la herencia común de todas las religiones y de todos los pueblos». <a id="a58_447"></a>[[LU 120:3.6](/es/The_Urantia_Book/120#p3_6)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Neal_Waldrop/Epochal_Pathways/004150.jpg">
 <figcaption><em>Sueños</em>, Wassilij Dimitriewitsch Polenow, 1894. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Polenov_MechtySAR.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
-Por lo tanto, Cristo Miguel de Nebadon, encarnado en la forma humana de Jesús de Nazaret, proclamó y promovió la religión _personal_ (individual), como queda luminosamente claro cuando estudiamos los discursos sobre religión que los reveladores consagraron en las secciones [5](/es/ The_Urantia_Book/155#p5) y [6](/es/The_Urantia_Book/155#p6) del Documento 155. No obstante, terminamos con la impresión de que los apóstoles y sus sucesores tropezaron con estas enseñanzas avanzadas, porque continuaron estableciendo marcos institucionales organizados en los que religiosos profesionales dan órdenes a los creyentes y afirman hablar en nombre de Dios. Esto, por supuesto, estaba profundamente en desacuerdo con lo que Jesús enseñó. Después de todo, declaró:
+Por lo tanto, Cristo Miguel de Nebadon, encarnado en la forma humana de Jesús de Nazaret, proclamó y promovió la religión _personal_ (individual), como queda luminosamente claro cuando estudiamos los discursos sobre religión que los reveladores consagraron en las secciones [5](/es/ The_Urantia_Book/155#p5) y <a id="a65_310"></a>[6](/es/The_Urantia_Book/155#p6) del Documento 155. No obstante, terminamos con la impresión de que los apóstoles y sus sucesores tropezaron con estas enseñanzas avanzadas, porque continuaron estableciendo marcos institucionales organizados en los que religiosos profesionales dan órdenes a los creyentes y afirman hablar en nombre de Dios. Esto, por supuesto, estaba profundamente en desacuerdo con lo que Jesús enseñó. Después de todo, declaró:
 
-> «He venido para proclamar la libertad espiritual, enseñar la verdad eterna y fomentar la fe viviente». [[LU 153:2.6](/es/The_Urantia_Book/153#p2_6)]
+> «He venido para proclamar la libertad espiritual, enseñar la verdad eterna y fomentar la fe viviente». <a id="a67_105"></a>[[LU 153:2.6](/es/The_Urantia_Book/153#p2_6)]
 
-Además, Jesús ordenó explícitamente a sus apóstoles y a otros seguidores que no crearan leyendas ni construyeran un culto que tuviera que ver con creencias y enseñanzas acerca de sus creencias y enseñanzas ([[LU 138:6.3](/es/The_Urantia_Book/138#p6_3)] ). Sin embargo, lo hicieron. Además, Jesús enfatizó la unidad espiritual, mientras advertía repetidamente contra credos y tradiciones que servirían para guiar y controlar a los creyentes:
+Además, Jesús ordenó explícitamente a sus apóstoles y a otros seguidores que no crearan leyendas ni construyeran un culto que tuviera que ver con creencias y enseñanzas acerca de sus creencias y enseñanzas (<a id="a69_207"></a>[[LU 138:6.3](/es/The_Urantia_Book/138#p6_3)] ). Sin embargo, lo hicieron. Además, Jesús enfatizó la unidad espiritual, mientras advertía repetidamente contra credos y tradiciones que servirían para guiar y controlar a los creyentes:
 
-> Jesús volvió muchas veces sobre este tema durante la preparación de los doce. Les dijo repetidamente que no deseaba que los que creían en él se volvieran dogmatizados y uniformizados según las interpretaciones religiosas incluso de los hombres de bien. Una y otra vez previno a sus apóstoles contra la elaboración de credos y el establecimiento de tradiciones como medio de guiar y controlar a los creyentes en el evangelio del reino. [[LU 141:5.4](/es/The_Urantia_Book/141#p5_4)]
+> Jesús volvió muchas veces sobre este tema durante la preparación de los doce. Les dijo repetidamente que no deseaba que los que creían en él se volvieran dogmatizados y uniformizados según las interpretaciones religiosas incluso de los hombres de bien. Una y otra vez previno a sus apóstoles contra la elaboración de credos y el establecimiento de tradiciones como medio de guiar y controlar a los creyentes en el evangelio del reino. <a id="a71_437"></a>[[LU 141:5.4](/es/The_Urantia_Book/141#p5_4)]
 
 Aun así, sus seguidores y sus sucesores también sucumbieron a estas tentaciones.
 
 Al tratar de evaluar los resultados netos, la Comisión de Intermedios comenta:
 
-> La iglesia visible debería negarse a continuar obstaculizando el progreso de la fraternidad invisible y espiritual del reino de Dios. Esta fraternidad está destinada a convertirse en un organismo viviente, en contraste con una organización social institucionalizada. [[LU 195:10.11](/es/The_Urantia_Book/195#p10_11)]
+> La iglesia visible debería negarse a continuar obstaculizando el progreso de la fraternidad invisible y espiritual del reino de Dios. Esta fraternidad está destinada a convertirse en un organismo viviente, en contraste con una organización social institucionalizada. <a id="a77_269"></a>[[LU 195:10.11](/es/The_Urantia_Book/195#p10_11)]
 
 Si ahora nos esforzamos por compilar y resumir todos estos factores, es razonable concluir que los reveladores nos han dejado dos preguntas generales:
 

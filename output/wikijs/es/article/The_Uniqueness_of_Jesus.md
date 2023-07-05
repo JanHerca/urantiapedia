@@ -31,11 +31,11 @@ dateCreated: 2022-09-27T00:09:11.694Z
 </figure>
 
 
-Desde el comienzo de su ministerio público en adelante hasta su crucifixión, la vida de Jesús fue vivida como una revelación de la naturaleza de Dios y de acuerdo con las restricciones impuestas por el pacto con Emmanuel explicado en el documento de Urantia 120 ([LU 120: 1.1](/es/The_Urantia_Book/120#p1_1)).
+Desde el comienzo de su ministerio público en adelante hasta su crucifixión, la vida de Jesús fue vivida como una revelación de la naturaleza de Dios y de acuerdo con las restricciones impuestas por el pacto con Emmanuel explicado en el documento de Urantia 120 (<a id="a33_263"></a>[LU 120: 1.1](/es/The_Urantia_Book/120#p1_1)).
 
-Entre estos compromisos encontramos el consejo de Immanuel: «*te aconsejo que, una vez que seas suficientemente consciente de tu identidad divina, asumas la tarea adicional de poner fin técnicamente a la rebelión de Lucifer....*» ([LU 120:2.2](/es/The_Urantia_Book/120#p2_2))
+Entre estos compromisos encontramos el consejo de Immanuel: «*te aconsejo que, una vez que seas suficientemente consciente de tu identidad divina, asumas la tarea adicional de poner fin técnicamente a la rebelión de Lucifer....*» (<a id="a35_231"></a>[LU 120:2.2](/es/The_Urantia_Book/120#p2_2))
 
-Y: «*Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, las posibilidades trascendentes que puede **alcanzar** un humano que conoce a Dios durante la breve carrera de la existencia mortal*». ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
+Y: «*Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, las posibilidades trascendentes que puede **alcanzar** un humano que conoce a Dios durante la breve carrera de la existencia mortal*». (<a id="a37_235"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 
 Esta fase de la vida de Jesús en Urantia comenzó sólo después de que Juan lo bautizara. Por lo tanto, es a la estructura social de Israel durante el período de su ministerio público post-bautismal que debemos mirar para lograr una comprensión de lo que Jesús estaba tratando de demostrar como un conjunto de posibilidades trascendentes alcanzables por sus seguidores.
 

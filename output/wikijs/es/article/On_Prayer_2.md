@@ -45,9 +45,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 > Ninguna oración puede esperar una respuesta a menos que haya nacido del espíritu y haya sido alimentada por la fe.
 > 
-> No vaciléis en formular las oraciones que expresan los anhelos del espíritu... Todas las súplicas sinceras nacidas del espíritu recibirán, con certeza, una respuesta. Pedid y recibiréis. (from [LU 168:4.1-13](/es/The_Urantia_Book/168#p4_1))
+> No vaciléis en formular las oraciones que expresan los anhelos del espíritu... Todas las súplicas sinceras nacidas del espíritu recibirán, con certeza, una respuesta. Pedid y recibiréis. (from <a id="a47_195"></a>[LU 168:4.1-13](/es/The_Urantia_Book/168#p4_1))
 
-> A lo largo de todos los siglos posteriores, los hombres no han sido incapaces de comprender a Jesús; han tenido miedo de comprenderlo. ([LU 156:2.4](/es/The_Urantia_Book/156#p2_4))
+> A lo largo de todos los siglos posteriores, los hombres no han sido incapaces de comprender a Jesús; han tenido miedo de comprenderlo. (<a id="a49_138"></a>[LU 156:2.4](/es/The_Urantia_Book/156#p2_4))
 
 ## Enlaces externos
 

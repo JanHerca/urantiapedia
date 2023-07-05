@@ -41,17 +41,17 @@ El objetivo principal de Urantia Global Experience es la unidad espiritual, una 
 
 Más específicamente, aspiramos a la unidad espiritual con el propósito de efectuar cambios positivos en la evolución de la civilización en nuestro planeta. A través de la unidad ganamos fuerza, haciendo posible que todos nos levantemos juntos en la gran tarea de hacer realidad estos cambios progresivos. Y mientras nos elevamos juntos para elevar nuestro mundo un poco más cerca de una era de luz y vida, nos encontramos comprometidos en el servicio humilde a Dios Supremo.
 
-Si bien compartimos una comprensión común del destino y la esperanza, también reconocemos que nuestra unidad espiritual se construye sobre la base de la personalidad libre y la originalidad del espíritu. Como dijo Jesús: «No tienes que ver igual o sentir igual, o incluso pensar igual, para _ser igual_ espiritualmente». [[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
+Si bien compartimos una comprensión común del destino y la esperanza, también reconocemos que nuestra unidad espiritual se construye sobre la base de la personalidad libre y la originalidad del espíritu. Como dijo Jesús: «No tienes que ver igual o sentir igual, o incluso pensar igual, para _ser igual_ espiritualmente». <a id="a43_321"></a>[[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
 
 La revelación, la oración y la adoración de Urantia nos brindan inspiración y dirección a medida que trabajamos en plena cooperación con los ángeles del progreso para brindar un ambiente positivo que conduzca a la participación tanto individual como grupal. Es nuestro deseo que Urantia Global Experience reúna a pensadores libres y originales dedicados a hacer la voluntad de Dios y servir a los demás. Nuestro objetivo es promover una civilización progresista mediante la formulación de métodos efectivos para mejorar las instituciones y prácticas de nuestro planeta. Con este fin, los participantes tendrán la oportunidad de trabajar juntos en Focus Groups y Vision Teams.
 
 **Grupos Focales - Pensando Dentro de los Círculos**
 
-Los participantes de los grupos focales comenzarán sus debates concentrándose en los doce puntos descritos en _El Libro de Urantia_ bajo "Civilización progresiva" [[LU 71:4](/es/The_Urantia_Book/71#p4)]. El objetivo de las sesiones de los Grupos Focales es estar unidos en propósito y lograr, a través del trabajo en equipo, una mayor comprensión y actualización de Dios Supremo. Los grupos focales buscan establecer una base de valores más altos sobre los cuales construir visiones para un entorno social progresista.
+Los participantes de los grupos focales comenzarán sus debates concentrándose en los doce puntos descritos en _El Libro de Urantia_ bajo "Civilización progresiva" <a id="a49_163"></a>[[LU 71:4](/es/The_Urantia_Book/71#p4)]. El objetivo de las sesiones de los Grupos Focales es estar unidos en propósito y lograr, a través del trabajo en equipo, una mayor comprensión y actualización de Dios Supremo. Los grupos focales buscan establecer una base de valores más altos sobre los cuales construir visiones para un entorno social progresista.
 
 **Equipos de visión - Construyendo fuera de los círculos**
 
-> «_El desafío religioso de esta era es para aquellos hombres y mujeres con visión de futuro y perspicacia espiritual que se atrevan a construir una filosofía nueva y atractiva de vivir a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza del universo, la y bondad divina._» [[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]
+> «_El desafío religioso de esta era es para aquellos hombres y mujeres con visión de futuro y perspicacia espiritual que se atrevan a construir una filosofía nueva y atractiva de vivir a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza del universo, la y bondad divina._» <a id="a53_328"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/028.jpg">
@@ -63,7 +63,7 @@ El objetivo es comprometerse con las ideas obtenidas de nuestras discusiones mat
 
 Tanto los grupos focales como los equipos de visión presentarán y compartirán sus ideas y conclusiones colectivas al final de la experiencia. Estas ideas formarán la base para centros de diálogo en curso en los que todos los participantes puedan participar. Esperamos inspirar a todos a seguir desarrollando estas ideas con la intención de hacerlas realidad en el escenario mundial.
 
-> «_Y entonces, cuando seas bendecido con la visión espiritual, sigue adelante con tu trabajo, dedicando tu vida a la causa de llevar a la humanidad a buscar a Dios y a buscar las realidades eternas con el ojo de la fe espiritual y no con los ojos del mente material._» [[LU 181:2.20](/es/The_Urantia_Book/181#p2_20)]
+> «_Y entonces, cuando seas bendecido con la visión espiritual, sigue adelante con tu trabajo, dedicando tu vida a la causa de llevar a la humanidad a buscar a Dios y a buscar las realidades eternas con el ojo de la fe espiritual y no con los ojos del mente material._» <a id="a65_270"></a>[[LU 181:2.20](/es/The_Urantia_Book/181#p2_20)]
 
 Vancouver Canadá 2020
 Trinity Western University - 15 de julio^ al 19 de julio^

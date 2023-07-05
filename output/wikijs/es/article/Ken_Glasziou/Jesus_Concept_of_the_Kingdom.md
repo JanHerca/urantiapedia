@@ -45,9 +45,9 @@ dateCreated: 2022-9-9T8:13:39Z
 >
 > 6. Jesús enseñó que las realidades eternas eran el resultado (la recompensa) de los esfuerzos honrados en la Tierra. La estancia mortal del hombre en la Tierra adquirió nuevos significados como consecuencia del reconocimiento de un noble destino.
 >
-> 7. El nuevo evangelio afirmaba que la salvación humana es la revelación de un propósito divino de gran alcance, que debe cumplirse y realizarse en el destino futuro del servicio sin fin de los hijos salvados de Dios. ([LU 170:2.1-8](/es/The_Urantia_Book/170#p2_1))
+> 7. El nuevo evangelio afirmaba que la salvación humana es la revelación de un propósito divino de gran alcance, que debe cumplirse y realizarse en el destino futuro del servicio sin fin de los hijos salvados de Dios. (<a id="a47_220"></a>[LU 170:2.1-8](/es/The_Urantia_Book/170#p2_1))
 
-> Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo. ([LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
+> Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo. (<a id="a49_262"></a>[LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
 
 ## Enlaces externos
 

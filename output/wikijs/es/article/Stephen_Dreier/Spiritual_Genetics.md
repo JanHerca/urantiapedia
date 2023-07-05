@@ -115,7 +115,7 @@ La personalidad es central. No creo que nos centremos en ello lo suficiente. Nec
 
 > Steve Dreier ha estudiado _El Libro de Urantia_ desde 1971. Ha participado en muchas conferencias de _El Libro de Urantia_ y ha desempeñado una variedad de funciones en la organización de The Urantia Book Fellowship. Steve y Bobbie Dreier, también estudiante desde hace mucho tiempo de _El Libro de Urantia_, celebraron recientemente su 50 aniversario.  
 
-> «No es posible estimarse más a sí mismo de lo que se ama al prójimo; lo uno mide la capacidad para hacer lo otro.» [LU 156:5.14](/es/The_Urantia_Book/156#p5_14)
+> «No es posible estimarse más a sí mismo de lo que se ama al prójimo; lo uno mide la capacidad para hacer lo otro.» <a id="a117_117"></a>[LU 156:5.14](/es/The_Urantia_Book/156#p5_14)
 
 ## Referencias
 

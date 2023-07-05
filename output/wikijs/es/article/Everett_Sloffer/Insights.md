@@ -42,9 +42,9 @@ El comentario que hizo fue «Jesús buscó la voluntad del Padre hasta en su má
 
 _El Libro de Urantia_ nos dice que esto no es cierto: 
 
-> [...] el Espíritu divino debe dominar y controlar cada fase de la experiencia humana. [LU 34:6.7](/es/The_Urantia_Book/34#p6_7)
+> [...] el Espíritu divino debe dominar y controlar cada fase de la experiencia humana. <a id="a44_88"></a>[LU 34:6.7](/es/The_Urantia_Book/34#p6_7)
 
-> [...] Jesús siempre sometía sus más pequeños deseos a la voluntad del Padre que está en el cielo [...] [LU 139:4.9](/es/The_Urantia_Book/139#p4_9)
+> [...] Jesús siempre sometía sus más pequeños deseos a la voluntad del Padre que está en el cielo [...] <a id="a46_105"></a>[LU 139:4.9](/es/The_Urantia_Book/139#p4_9)
 
 Everett dice que estas declaraciones implican tres cosas: 
 

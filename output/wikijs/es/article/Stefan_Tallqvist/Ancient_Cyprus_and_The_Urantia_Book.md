@@ -36,11 +36,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Stefan escribe: Queridos amigos,
 
-En mi segunda visita a Chipre el mes pasado, quería escribir sobre una correlación arqueológica que podría ser digna de mención en la que tanto la descripción de _El Libro de Urantia_ como la evidencia arqueológica concuerdan bastante bien. Existe una clara correlación en el texto de _El Libro de Urantia_, [LU 80:7.9](/es/The_Urantia_Book/80#p7_9), y la información del Museo de Chipre. El libro dice:
+En mi segunda visita a Chipre el mes pasado, quería escribir sobre una correlación arqueológica que podría ser digna de mención en la que tanto la descripción de _El Libro de Urantia_ como la evidencia arqueológica concuerdan bastante bien. Existe una clara correlación en el texto de _El Libro de Urantia_, <a id="a38_308"></a>[LU 80:7.9](/es/The_Urantia_Book/80#p7_9), y la información del Museo de Chipre. El libro dice:
 
 > _Los pueblos más aventureros salieron en masa de todo el fértil creciente hacia las islas del oeste. Estos emigrantes cultivaban los cereales y las legumbres, y trajeron consigo a sus animales domésticos._
 >
-> _Hacia el año 5000 a. de J.C., una inmensa multitud de mesopotámicos progresivos salió del valle del Éufrates y se instaló en la isla de Chipre. Esta civilización fue aniquilada unos dos mil años después por las hordas bárbaras del norte._ ([LU 80:7.9-10](/es/The_Urantia_Book/80#p7_9))
+> _Hacia el año 5000 a. de J.C., una inmensa multitud de mesopotámicos progresivos salió del valle del Éufrates y se instaló en la isla de Chipre. Esta civilización fue aniquilada unos dos mil años después por las hordas bárbaras del norte._ (<a id="a42_243"></a>[LU 80:7.9-10](/es/The_Urantia_Book/80#p7_9))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Stefan_Tallqvist/2848-0-medium.jpg">
@@ -71,9 +71,9 @@ En abril de este año (1996), visité el sitio arqueológico de Khirokitia en Ch
 
 Stefan concluye que encuentra que toda la información arqueológica concuerda bien con los Documentos de Urantia.
 
-> La religión de Jesús salva del yo.([LU 5:4.5](/es/The_Urantia_Book/5#p4_5))
+> La religión de Jesús salva del yo.(<a id="a73_37"></a>[LU 5:4.5](/es/The_Urantia_Book/5#p4_5))
 
-> El individuo verdaderamente religioso intenta identificar su yo con el universo, y luego dedicar las actividades de ese yo unificado al servicio de la familia universal de sus semejantes, humanos y superhumanos. ([LU 5:4.3](/es/The_Urantia_Book/5#p4_3))
+> El individuo verdaderamente religioso intenta identificar su yo con el universo, y luego dedicar las actividades de ese yo unificado al servicio de la familia universal de sus semejantes, humanos y superhumanos. (<a id="a75_215"></a>[LU 5:4.3](/es/The_Urantia_Book/5#p4_3))
 
 ## Enlaces externos
 

@@ -34,7 +34,7 @@ Ahora puede haber pocas dudas de que los reveladores anticiparon esto. A lo larg
 
 Que esto es así de hecho se ilustra con:
 
-> «Solo aquellas experiencias humanas que tenían un valor espiritual son propiedad común del mortal sobreviviente y del Ajustador que ha regresado, y por eso son recordadas inmediatamente después de la supervivencia del mortal». ([LU 40:9.7](/es/The_Urantia_Book/40#p9_7)) ¡¡Piensa en eso!!
+> «Solo aquellas experiencias humanas que tenían un valor espiritual son propiedad común del mortal sobreviviente y del Ajustador que ha regresado, y por eso son recordadas inmediatamente después de la supervivencia del mortal». (<a id="a36_230"></a>[LU 40:9.7](/es/The_Urantia_Book/40#p9_7)) ¡¡Piensa en eso!!
 
 
 
@@ -42,13 +42,13 @@ Que esto es así de hecho se ilustra con:
 
 A pesar de la gran cantidad de referencias a la «espiritualidad» y al «valor espiritual» en los Documentos de Urantia, estos Documentos no proporcionan en ninguna parte una definición exacta de dichos términos. Entre los mejores que nos dan está:
 
-«*Todo lo que hacemos que es bueno contribuye a la mejora de la otra vida*», combinado con afirmaciones como «*solo aquellas experiencias humanas de valor espiritual*» sobreviven: «*una gran parte de vuestra vida pasada y de sus recuerdos, que no tienen un significado espiritual ni un valor morontial, perecerán con el cerebro material*» ([LU 112:5.22](/es/The_Urantia_Book/112#p5_22)).
+«*Todo lo que hacemos que es bueno contribuye a la mejora de la otra vida*», combinado con afirmaciones como «*solo aquellas experiencias humanas de valor espiritual*» sobreviven: «*una gran parte de vuestra vida pasada y de sus recuerdos, que no tienen un significado espiritual ni un valor morontial, perecerán con el cerebro material*» (<a id="a44_340"></a>[LU 112:5.22](/es/The_Urantia_Book/112#p5_22)).
 
 Por lo tanto, podemos considerar que el valor espiritual significa «aquello que es bueno». Otras declaraciones relevantes son:
 
-> La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor. ([LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
+> La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor. (<a id="a48_455"></a>[LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
 
-> El verdadero estado espiritual representa la medida en que se ha alcanzado la Deidad, la armonización con el Ajustador. Conseguir la finalidad de la espiritualidad equivale a alcanzar el máximo de realidad, el máximo de semejanza con Dios. La vida eterna es la búsqueda interminable de los valores infinitos. ([LU 100:2.5](/es/The_Urantia_Book/100#p2_5))
+> El verdadero estado espiritual representa la medida en que se ha alcanzado la Deidad, la armonización con el Ajustador. Conseguir la finalidad de la espiritualidad equivale a alcanzar el máximo de realidad, el máximo de semejanza con Dios. La vida eterna es la búsqueda interminable de los valores infinitos. (<a id="a50_312"></a>[LU 100:2.5](/es/The_Urantia_Book/100#p2_5))
 
 De lo cual concluimos: la espiritualidad es lo que Dios es, y se puede medir por nuestra cercanía a Dios, nuestra semejanza a Dios.
 
@@ -191,7 +191,7 @@ Dios, el Padre, es el dador y el conservador de cada personalidad. Así mismo el
 
 Dios es personalmente consciente y está en contacto personal con todas las personalidades de todos los niveles de existencia autoconsciente, y esta conciencia es independiente de la misión del Dios-Espíritu-Interior.
 
-> «La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual». ([LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
+> «La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual». (<a id="a193_369"></a>[LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
 
 
 

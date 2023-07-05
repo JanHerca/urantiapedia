@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «... las simples enseñanzas del evangelio de Jesús: la filiación con Dios, la fraternidad entre los hombres y la ciudadanía siempre ascendente en el universo eterno». ([LU 94:10.3](/es/The_Urantia_Book/94#p10_3))
+> «... las simples enseñanzas del evangelio de Jesús: la filiación con Dios, la fraternidad entre los hombres y la ciudadanía siempre ascendente en el universo eterno». (<a id="a36_170"></a>[LU 94:10.3](/es/The_Urantia_Book/94#p10_3))
 
 La clave de esta doctrina «sencilla» es la naturaleza misma de Dios tal como fue revelada en la vida de Jesús de Nazaret. Esta naturaleza se reveló más efectivamente en las parábolas de Jesús, en particular, en estas:
 

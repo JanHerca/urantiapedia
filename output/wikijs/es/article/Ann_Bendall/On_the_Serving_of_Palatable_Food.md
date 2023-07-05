@@ -50,7 +50,7 @@ Mientras aguzo mis oídos para escuchar, es como si estuvieran rechazando violen
 
 Seamos realistas, si esta fuera la única forma en que podríamos ser perdonados, Dios no impresiona como otra cosa que no sea para ser temido. Entonces, ¿no es lamentable que el Dios de Jesús que es Amor, el Dios que descubrimos en el Evangelio y las cartas de Juan, se haya transformado en el Dios de Moisés a través de la debacle simbólica asociada con la interpretación paulina de la crucifixión?
 
-Con tales negadores de Dios, ¿debemos declarar como lo hizo Jesús: «Este hombre no tenía hambre de la verdad» ([LU 132:7.2](/es/The_Urantia_Book/132#p7_2)) mientras nos sentimos tan deliciosamente satisfechos de nuestro «hacer como lo hizo Jesús.» ¿O tal vez deberíamos esforzarnos por aumentar el conocimiento que ya tienen, sirviéndoles «alimento espiritual en forma atractiva» ([LU 133:4.2](/es/The_Urantia_Book/133#p4_2)) cuando parece que no nos proporcionan base sobre la cual añadirlo?
+Con tales negadores de Dios, ¿debemos declarar como lo hizo Jesús: «Este hombre no tenía hambre de la verdad» (<a id="a52_111"></a>[LU 132:7.2](/es/The_Urantia_Book/132#p7_2)) mientras nos sentimos tan deliciosamente satisfechos de nuestro «hacer como lo hizo Jesús.» ¿O tal vez deberíamos esforzarnos por aumentar el conocimiento que ya tienen, sirviéndoles «alimento espiritual en forma atractiva» (<a id="a52_381"></a>[LU 133:4.2](/es/The_Urantia_Book/133#p4_2)) cuando parece que no nos proporcionan base sobre la cual añadirlo?
 
 «Agregar a» requiere primero que intentemos comprender a esas personas. Muchos de los que niegan la existencia de Dios en realidad están negando a la Iglesia que, en Urantia, hace mucho tiempo reclamó la patente, los derechos de autor y el derecho de propiedad de Dios. (Cualquier novato en la historia puede identificar que, casi desde sus comienzos, la Iglesia se involucró tanto política y socialmente en los asuntos humanos que pareció olvidar, o clasificar como de baja prioridad, su papel como sostén y sustentador espiritual).
 
@@ -68,7 +68,7 @@ Irónicamente, la mayoría de esta población de negadores de Dios suele tener u
 
 Si bien nuestros negadores de Dios pueden ser muy capaces de presentar argumentos mordaces y bien pensados ​​en contra de la existencia de Dios, a menudo basados ​​en la hipocresía histórica de la iglesia, ¡ellos aceptan creencias supersticiosas sin cuestionamientos ni análisis!
 
-Hasta la fecha, habiendo sido bastante incapaz de formular una hipótesis aceptable para explicar tales creencias ilógicas, recurro a la declaración de Melquisedec, «la religión evolutiva es sentimental, no lógica». ([LU 92:4.3](/es/The_Urantia_Book/92#p4_3))
+Hasta la fecha, habiendo sido bastante incapaz de formular una hipótesis aceptable para explicar tales creencias ilógicas, recurro a la declaración de Melquisedec, «la religión evolutiva es sentimental, no lógica». (<a id="a70_216"></a>[LU 92:4.3](/es/The_Urantia_Book/92#p4_3))
 
 ## Los usurpadores de Dios.
 

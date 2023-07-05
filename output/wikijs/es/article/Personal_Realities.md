@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «El espíritu es la realidad personal fundamental en los universos, y la personalidad es fundamental para todas las experiencias progresivas con la realidad espiritual. Cada fase de la experiencia de la personalidad en cada nivel sucesivo de progresión universal rebosa de indicios que conducen al descubrimiento de atractivas realidades personales. El verdadero destino del hombre consiste en crear metas nuevas y espirituales, y luego en responder a los atractivos cósmicos de esas metas celestiales que tienen un valor no material.» ([LU 12:9.1](/es/The_Urantia_Book/12#p9_1))
+> «El espíritu es la realidad personal fundamental en los universos, y la personalidad es fundamental para todas las experiencias progresivas con la realidad espiritual. Cada fase de la experiencia de la personalidad en cada nivel sucesivo de progresión universal rebosa de indicios que conducen al descubrimiento de atractivas realidades personales. El verdadero destino del hombre consiste en crear metas nuevas y espirituales, y luego en responder a los atractivos cósmicos de esas metas celestiales que tienen un valor no material.» (<a id="a33_538"></a>[LU 12:9.1](/es/The_Urantia_Book/12#p9_1))
 
 De la multitud de inspiradoras declaraciones reveladoras de los Documentos de Urantia, ¿no se encuentra esta entre las más significativas?
 
@@ -46,7 +46,7 @@ Consulte el artículo "Lo que realmente sobrevive" para obtener información sob
 > La Prueba Espiritual de Grandeza es:
 >
 > La calidad de la generosidad revelada en el trabajo desinteresado por el bienestar de los propios compañeros terrenales: esa es la verdadera medida de la grandeza planetaria.
-> (ver [LU 28:6.20](/es/The_Urantia_Book/28#p6_20))
+> (ver <a id="a48_7"></a>[LU 28:6.20](/es/The_Urantia_Book/28#p6_20))
 
 ## Enlaces externos
 

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra». ([LU 42:6](/es/The_Urantia_Book/42#p6))
+> «Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra». (<a id="a36_252"></a>[LU 42:6](/es/The_Urantia_Book/42#p6))
 
 A menudo me he preguntado cuántos lectores de _El Libro de Urantia_ se tomaron la molestia de calcular las sumas y luego dejaron la respuesta a un lado desconcertados. Porque no fue hasta alrededor de 1990 que esta declaración comenzó a tener algún sentido.
 
@@ -60,7 +60,7 @@ La pregunta que se plantea es ¿cómo se pudo hacer tal estimación hace más de
 
 El Documento de Urantia también tiene:
 
-> “Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol." ([LU 42:6](/es/The_Urantia_Book/42#p6))
+> “Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol." (<a id="a62_280"></a>[LU 42:6](/es/The_Urantia_Book/42#p6))
 
 Nuevamente, estamos en deuda con Stefan Tallqvist por tomarse la molestia de hacer los cálculos y llamar la atención sobre los resultados.
 

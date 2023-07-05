@@ -59,7 +59,7 @@ El énfasis de gran parte de la enseñanza y predicación de UU está en mejorar
 
 El ambientalismo también es un área de especial interés para muchos UU. Muchos son ávidos ambientalistas y apoyan firmemente a las organizaciones dedicadas a la preservación y protección de nuestro medio ambiente. Esta preocupación por la tierra se refleja en una de las declaraciones de principios de la UU[^2] que dice que la UU «Respeta la red interdependiente de la existencia... »
 
-Creo que el colectivo de congregaciones de la UU cumple la proyección de _El Libro de Urantia_ de que «_las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas._» ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
+Creo que el colectivo de congregaciones de la UU cumple la proyección de _El Libro de Urantia_ de que «_las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas._» (<a id="a61_436"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
 
 Por su falta de dogma y su apertura, las congregaciones de la UU atraen a una gran variedad de personas. No sabía cuán diversos son los UU hasta que realicé una encuesta de nuestra congregación durante uno de nuestros servicios de verano. Esta encuesta informal reveló el siguiente desglose: ateo, 15%; Agnóstico 21%; teísta 10%; cristiano 15%; Deísta 7%; otro 19%; pagano 13%.
 
@@ -67,7 +67,7 @@ Es solo porque la tolerancia es un principio importante del UU-ismo que un grupo
 
 Aunque las personas de la comunidad de Urantia están conectadas por las enseñanzas de _El Libro de Urantia_, esta comunidad constituye un grupo muy diverso de personas. Cualquier organización religiosa de Urantia se enfrentará a algunos de los mismos problemas que enfrentan las congregaciones de UU. No todo el mundo acepta todas las enseñanzas del _Libro de Urantia_, entonces, ¿cuál será el papel del libro en cualquier organización religiosa de este tipo? ¿Le daremos la bienvenida a los escépticos a nuestra confraternidad?
 
-Creo que los autores del libro estaban tratando de darnos una guía sobre cualquier organización religiosa cuando escribieron: «_Cuando un miembro de un grupo social religioso ha cumplido con los requisitos de dicho grupo, se le debería animar a disfrutar de la libertad religiosa, expresando plenamente su propia interpretación personal de las verdades de la creencia religiosa y de los hechos de la experiencia religiosa. La seguridad de un grupo religioso depende de su unidad espiritual, no de su uniformidad teológica. Los miembros de un grupo religioso deberían poder disfrutar de la libertad de pensar libremente, sin tener que convertirse en «librepensadores». Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros._» ([LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
+Creo que los autores del libro estaban tratando de darnos una guía sobre cualquier organización religiosa cuando escribieron: «_Cuando un miembro de un grupo social religioso ha cumplido con los requisitos de dicho grupo, se le debería animar a disfrutar de la libertad religiosa, expresando plenamente su propia interpretación personal de las verdades de la creencia religiosa y de los hechos de la experiencia religiosa. La seguridad de un grupo religioso depende de su unidad espiritual, no de su uniformidad teológica. Los miembros de un grupo religioso deberían poder disfrutar de la libertad de pensar libremente, sin tener que convertirse en «librepensadores». Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros._» (<a id="a69_848"></a>[LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
 
 Si bien muchos UU no «adoran al Dios viviente», ciertamente validan la «hermandad del hombre» y no ejercen ninguna «presión de credo» sobre los miembros.
 
@@ -89,7 +89,7 @@ Los UU han desarrollado algunos símbolos únicos. El símbolo más distintivo d
 
 Las iglesias UU en Checoslovaquia tienen el girasol como uno de sus símbolos. El sello Unitario de Transilvania es la paloma rodeada por una serpiente. Esto se deriva de la instrucción de Jesús a sus apóstoles citada en Mateo: «Sed astutos como serpientes y sencillos como palomas». Los autores de _El Libro de Urantia_ nos enseñan que:
 
-> «_A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para sus nuevos ideales, ideas y lealtades en expansión. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual._» ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
+> «_A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para sus nuevos ideales, ideas y lealtades en expansión. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual._» (<a id="a91_431"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 
 ## Identidad
 
@@ -122,7 +122,7 @@ Creo que tenemos mucho que aprender de las religiones e instituciones religiosas
 2. **Una declaración de principios:** Nosotros, las congregaciones miembros de la Asociación Unitaria Universalista, nos comprometemos a afirmar y promover:
 
 > Todo debe aguardar su hora....
-> Jesús a Ganid ([LU 130:5.3](/es/The_Urantia_Book/130#p5_3))
+> Jesús a Ganid (<a id="a124_17"></a>[LU 130:5.3](/es/The_Urantia_Book/130#p5_3))
 
 El valor y la dignidad inherentes a cada persona; Justicia, equidad y compasión en las relaciones humanas; Aceptación mutua y estímulo al crecimiento espiritual en nuestras congregaciones; Una búsqueda libre y responsable de la verdad y el sentido; El derecho de conciencia y el uso del proceso democrático dentro de nuestras congregaciones y en la sociedad en general; El objetivo de la comunidad mundial con paz, libertad y justicia para todos; Respeto por la red interdependiente de toda existencia de la que formamos parte.
 

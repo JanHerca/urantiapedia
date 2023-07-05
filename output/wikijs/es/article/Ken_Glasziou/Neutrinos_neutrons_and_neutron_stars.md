@@ -159,7 +159,7 @@ Ya se ha indicado que la publicación altamente especulativa de Gamow y Schoenbe
 
 ### Invocación de la navaja de Occam
 
-El lenguaje, el nivel de conocimiento y la terminología de la referencia del documento 41 ([LU 41:8.3](/es/The_Urantia_Book/41#p8_3)), junto con las referencias a la unión de protones y neutrones en el núcleo atómico, los dos tipos de mesotrón y la participación de pequeñas partículas no cargadas en la desintegración radiactiva beta como se describe en [LU 42:8.5-7](/es/The_Urantia_Book/42#p8_5), es todo ello propio de principios del período 1930 y no de los años 40 y 50. Es lo que se esperaría de unos autores obligados por un mandato a no revelar conocimiento no ganado, excepto en circunstancias especiales. Aplicando el principio de la navaja de Occam de dar preferencia a la explicación más simple consistente con los hechos, debemos concluir que la explicación más probable para el material profético de [LU 41:8.3](/es/The_Urantia_Book/41#p8_3) es que formó parte de los documentos originales de *El Libro de Urantia* tal como se recibió en 1934 y, por lo tanto, entra en la categoría denominada en el mandato revelador como «información clave suministrada para llenar los vacíos faltantes en nuestro conocimiento». En la actualidad, no creo que haya otra explicación satisfactoria para esta declaración de *El Libro de Urantia* y que permita atribuirla a un autor humano.
+El lenguaje, el nivel de conocimiento y la terminología de la referencia del documento 41 (<a id="a161_91"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3)), junto con las referencias a la unión de protones y neutrones en el núcleo atómico, los dos tipos de mesotrón y la participación de pequeñas partículas no cargadas en la desintegración radiactiva beta como se describe en <a id="a161_355"></a>[LU 42:8.5-7](/es/The_Urantia_Book/42#p8_5), es todo ello propio de principios del período 1930 y no de los años 40 y 50. Es lo que se esperaría de unos autores obligados por un mandato a no revelar conocimiento no ganado, excepto en circunstancias especiales. Aplicando el principio de la navaja de Occam de dar preferencia a la explicación más simple consistente con los hechos, debemos concluir que la explicación más probable para el material profético de <a id="a161_815"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3) es que formó parte de los documentos originales de *El Libro de Urantia* tal como se recibió en 1934 y, por lo tanto, entra en la categoría denominada en el mandato revelador como «información clave suministrada para llenar los vacíos faltantes en nuestro conocimiento». En la actualidad, no creo que haya otra explicación satisfactoria para esta declaración de *El Libro de Urantia* y que permita atribuirla a un autor humano.
 
 ## Enlaces
 
@@ -198,9 +198,9 @@ El lenguaje, el nivel de conocimiento y la terminología de la referencia del do
 
 Sutton, C. *Spaceship Neutrino*. (Cambridge University Press, Cambridge, 1992)
 
-[^1]: [LU 101:4](/es/The_Urantia_Book/101#p4)
+[^1]: <a id="a200_6"></a>[LU 101:4](/es/The_Urantia_Book/101#p4)
 
-[^2]: [LU 41:8.3](/es/The_Urantia_Book/41#p8_3)
+[^2]: <a id="a202_6"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3)
 
 [^3]: Wolfgang Ernst Pauli (1900—1958) fue un físico teórico, primero suizo y luego estadounidense que se cuenta entre los padres fundadores de la «mecánica cuántica». Es famoso por su «principio de exclusión». https://es.wikipedia.org/wiki/Wolfgang_Pauli
 
@@ -222,7 +222,7 @@ Sutton, C. *Spaceship Neutrino*. (Cambridge University Press, Cambridge, 1992)
 
 [^12]: William Samuel Sadler (1875—1969) fue un cirujano y psicoanalista estadounidense que formó un grupo de amigos para publicar *El Libro de Urantia* una vez lograron recibir estos documentos. De este grupo de amigos surgió después la Fundación Urantia, encargada de hacer traducciones y diseminar el libro. https://es.wikipedia.org/wiki/William_Samuel_Sadler
 
-[^13]: [LU 101:4.9](/es/The_Urantia_Book/101#p4_9)
+[^13]: <a id="a224_7"></a>[LU 101:4.9](/es/The_Urantia_Book/101#p4_9)
 
 [^14]: Phys. Reviews. Vol. 45
 

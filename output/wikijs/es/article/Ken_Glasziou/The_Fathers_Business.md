@@ -41,7 +41,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 > Cuánto se parece este servidor infiel provisto de un solo talento a todos los mortales egoístas, en el sentido de que acusó directamente a su señor de su propia pereza. Cuando un hombre se enfrenta con sus propios fracasos, ¡cuánta tendencia tiene a inculpar a los demás, con mucha frecuencia a quienes menos se lo merecen!
 > 
-> Habéis recibido gratuitamente; por eso deberíais dar gratuitamente la verdad del cielo, y al darla, esta verdad se multiplicará y mostrará la luz creciente de la gracia salvadora a medida que la prodiguéis. ([LU 176:3.5-10](/es/The_Urantia_Book/176#p3_5))
+> Habéis recibido gratuitamente; por eso deberíais dar gratuitamente la verdad del cielo, y al darla, esta verdad se multiplicará y mostrará la luz creciente de la gracia salvadora a medida que la prodiguéis. (<a id="a43_210"></a>[LU 176:3.5-10](/es/The_Urantia_Book/176#p3_5))
 
 ## External links
 

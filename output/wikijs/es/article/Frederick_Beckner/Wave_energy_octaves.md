@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-_El Libro de Urantia_ afirma «_En el superuniverso de Orvonton hay cien octavas de energía ondulatoria_» ([LU 42:5.1](/es/The_Urantia_Book/42#p5_1)).
+_El Libro de Urantia_ afirma «_En el superuniverso de Orvonton hay cien octavas de energía ondulatoria_» (<a id="a36_106"></a>[LU 42:5.1](/es/The_Urantia_Book/42#p5_1)).
 
 Para aquellos que se hayan desconcertado con esta afirmación, Frederick escribe: Creo que el texto del _Libro de Urantia_ debe interpretarse como está escrito. Si se hace esto, entonces este texto es correcto. Si no, entonces este texto es demostrablemente incorrecto.
 
-_El Libro de Urantia_ dice: «Los rayos del Sol representan cuatro octavas en la escala superuniversal, abarcando los rayos visibles una sola octava, la número cuarenta y seis de esta serie». ([LU 42:5.1](/es/The_Urantia_Book/42#p5_1))
+_El Libro de Urantia_ dice: «Los rayos del Sol representan cuatro octavas en la escala superuniversal, abarcando los rayos visibles una sola octava, la número cuarenta y seis de esta serie». (<a id="a40_192"></a>[LU 42:5.1](/es/The_Urantia_Book/42#p5_1))
 
 Si la luz es la octava 46 de la energía de onda, y la longitud de onda central de la luz visible es de alrededor de 500 nm, entonces la longitud de onda central de la primera octava es igual a 2 elevado a la potencia 46 (2^46^) por la longitud de onda de la octava 46. Esta longitud de onda es 7,03 x 10^13^ veces 500 x 10^-9^, o 35,18 x 10^6^ m. La frecuencia correspondiente a esta longitud de onda es 2,9979 x 10^8^ (la velocidad de la luz en m/s) dividida por 35,18 x 10^6^ o 8,52 Hz. Obviamente, hay energía de onda en frecuencias por debajo de dos tercios de 8,52 = 5,67 Hz, el límite de frecuencia inferior de la primera octava. Se han realizado mediciones físicas de fenómenos de energía de las olas a frecuencias inferiores a 6 ciclos por segundo.
 

@@ -36,9 +36,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 Antes del autootorgamiento de Jesús, su hermano Creador-Hijo, Emmanuel, aconsejó: "En este autootorgamiento te has despojado voluntariamente de todo apoyo extraplanetario y asistencia especial.
 
-> Así como sus hijos e hijas mortales dependen completamente de ti para conducirse con seguridad durante toda su carrera universal, ahora deberás depender enteramente y sin reservas de tu Padre Paradisiaco. ([LU 120:1.3](/es/The_Urantia_Book/120#p1_3))
+> Así como sus hijos e hijas mortales dependen completamente de ti para conducirse con seguridad durante toda su carrera universal, ahora deberás depender enteramente y sin reservas de tu Padre Paradisiaco. (<a id="a38_208"></a>[LU 120:1.3](/es/The_Urantia_Book/120#p1_3))
 
-> Al hacerlo, cuando hayas terminado la experiencia donadora, conocerás en toda su verdad el pleno sentido y el rico significado de **esa confianza por la fe cuyo dominio exiges tan invariablemente a todas tus criaturas** ([LU 120:1.3](/es/The_Urantia_Book/120#p1_3))
+> Al hacerlo, cuando hayas terminado la experiencia donadora, conocerás en toda su verdad el pleno sentido y el rico significado de **esa confianza por la fe cuyo dominio exiges tan invariablemente a todas tus criaturas** (<a id="a40_223"></a>[LU 120:1.3](/es/The_Urantia_Book/120#p1_3))
 
 Emmanuel agregó: «Después de que seas lo suficientemente consciente de tu identidad divina, te aconsejo que asumas la tarea adicional de poner fin a la rebelión de Lucifer, y que lo hagas como el ‘Hijo del Hombre’, una criatura completamente mortal del reino.»
 
@@ -54,7 +54,7 @@ La certeza interna verdadera y genuina no teme en lo más mínimo el análisis e
 
 Ninguna persona se inquieta en ningún momento por la actitud de un prójimo cuando esa persona tiene perfecta confianza en la verdad de aquello en lo que cree de todo corazón. El valor es la confianza de la honestidad completa acerca de las cosas que uno profesa creer.
 
-> _Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible»._ ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> _Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible»._ (<a id="a56_530"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 > Quien quiera hacer el bien a otro debe hacerlo en detalles minuciosos. El bien general es el alegato del sinvergüenza, del hipócrita y del adulador.
 > _William Blake_

@@ -78,7 +78,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > «En el gran día del juicio del reino, muchos me dirán: ‘¿No hemos profetizado en tu nombre y hemos hecho muchas obras maravillosas por tu nombre?’ Pero yo me veré obligado a decirles, ‘Nunca os he conocido; apartaos de mí, vosotros que sois unos falsos educadores’. Pero todo el que escuche esta instrucción y ejecute sinceramente su misión de representarme ante los hombres, como yo he representado a mi Padre ante vosotros, encontrará una entrada abundante a mi servicio y en el reino del Padre celestial».
 > 
-> Los apóstoles nunca habían escuchado antes a Jesús expresarse de esta manera, pues les había hablado como alguien que posee una autoridad suprema. Descendieron de la montaña casi al ponerse el Sol, pero ninguno le hizo preguntas a Jesús.» ([LU 140:3.1-21](/es/The_Urantia_Book/140#p3_1))
+> Los apóstoles nunca habían escuchado antes a Jesús expresarse de esta manera, pues les había hablado como alguien que posee una autoridad suprema. Descendieron de la montaña casi al ponerse el Sol, pero ninguno le hizo preguntas a Jesús.» (<a id="a80_242"></a>[LU 140:3.1-21](/es/The_Urantia_Book/140#p3_1))
 
 ## Enlaces externos
 

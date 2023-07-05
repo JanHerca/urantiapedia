@@ -263,7 +263,7 @@ Por _Avi Dogim_
 
 Al comenzar Jesús su obra pública, les dijo a los apóstoles:
 
-> _No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino._ ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
+> _No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino._ (<a id="a265_467"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
 
 Últimamente se ha hablado mucho sobre la «unidad» en los círculos de Urantia Fellowship. Hubo reuniones entre representantes de la Fellowship y de la AUI para explorar el tema. Y el tema en este caso fue la posible fusión de las dos organizaciones.
 

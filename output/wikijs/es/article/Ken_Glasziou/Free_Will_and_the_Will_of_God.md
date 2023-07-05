@@ -33,9 +33,9 @@ dateCreated: 2022-9-9T8:13:39Z
 
 ¿Cuán libre es nuestro libre albedrío? Hasta donde se extiende. Los límites deben estar ahí. En un extremo, no somos libres de hacer lo imposible. Un examen minucioso de lo que se nos da en los Documentos de Urantia nos dice más sobre lo que podemos hacer que sobre lo que no podemos hacer.
 
-Principalmente, somos libres de hacer nuestra propia elección personal con respecto a nuestro destino eterno. Y no se permite que ninguna fuerza, creador o agencia en la totalidad de los universos interfiera con esa elección. Al respecto, el Padre Universal ha decretado la soberanía absoluta del libre albedrío mortal. ([LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
+Principalmente, somos libres de hacer nuestra propia elección personal con respecto a nuestro destino eterno. Y no se permite que ninguna fuerza, creador o agencia en la totalidad de los universos interfiera con esa elección. Al respecto, el Padre Universal ha decretado la soberanía absoluta del libre albedrío mortal. (<a id="a35_321"></a>[LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
 
-Además, se excluye positivamente cualquier forma de coerción en nuestra toma de esa decisión. La puerta a la eternidad se abre «solo en respuesta a la elección del libre albedrío de los hijos del libre albedrío del Dios del libre albedrío». ([LU 5:6.12](/es/The_Urantia_Book/5#p6_12))
+Además, se excluye positivamente cualquier forma de coerción en nuestra toma de esa decisión. La puerta a la eternidad se abre «solo en respuesta a la elección del libre albedrío de los hijos del libre albedrío del Dios del libre albedrío». (<a id="a37_242"></a>[LU 5:6.12](/es/The_Urantia_Book/5#p6_12))
 
 Si deseamos comprender algunas de las peculiaridades de los Documentos de Urantia, y particularmente si nos inclinamos a tener una actitud fundamentalista hacia ellos, es posible que debamos dedicar un tiempo y un esfuerzo considerables a analizar lo que consideramos que constituiría coerción o interferencia con «la elección de libre albedrío de un hijo de libre albedrío del Dios del libre albedrío.»
 
@@ -57,7 +57,7 @@ La conducta humana es una forma modificada de la conducta animal provocada por l
 
 Los humanos tenemos todos los atributos necesarios para tomar decisiones de libre albedrío. Pero los poderes fácticos han decretado que para una decisión especial no debemos ser coaccionados. Esa decisión especial es elegir para siempre la voluntad de Dios en preferencia a la nuestra. Esta misma decisión también se describe como la entrada en el reino, la "opción de la vida eterna", la "salvación", etc. Y debe ser por fe y solo por fe. Esto se afirma en numerosas formas:
 
-> «Salvación... se tiene sólo creyendo, con una fe sencilla y sincera» ([LU 140:10.1](/es/The_Urantia_Book/140#p10_1)); «La consecución de la salvación es por la fe y sólo por la fe» ([LU 141:7.6](/es/The_Urantia_Book/141#p7_6)); «La fe, la fe sencilla de un niño, es la llave de la puerta del reino» ([LU 170:3.2](/es/The_Urantia_Book/170#p3_2)); «Solo la fe te hará pasar a través de sus portales». ([LU 140:1.4](/es/The_Urantia_Book/140#p1_4)); «el individuo llega a conocer a Dios solo por la fe». ([LU 102:6.5](/es/The_Urantia_Book/102#p6_5)).
+> «Salvación... se tiene sólo creyendo, con una fe sencilla y sincera» (<a id="a59_72"></a>[LU 140:10.1](/es/The_Urantia_Book/140#p10_1)); «La consecución de la salvación es por la fe y sólo por la fe» (<a id="a59_184"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6)); «La fe, la fe sencilla de un niño, es la llave de la puerta del reino» (<a id="a59_302"></a>[LU 170:3.2](/es/The_Urantia_Book/170#p3_2)); «Solo la fe te hará pasar a través de sus portales». (<a id="a59_402"></a>[LU 140:1.4](/es/The_Urantia_Book/140#p1_4)); «el individuo llega a conocer a Dios solo por la fe». (<a id="a59_503"></a>[LU 102:6.5](/es/The_Urantia_Book/102#p6_5)).
 
 De ello se deduce lógicamente que los autores de los Documentos de Urantia no tuvieron más remedio que evitar proporcionar una prueba positiva de la autoridad de su revelación. Teníamos que tener una buena razón para dudar de cualquier cosa y de todo lo que aparecía en los Documentos.
 
@@ -69,11 +69,11 @@ Tenemos otro problema que enfrentar. Nuestra elección principal es nuestra deci
 
 Para nosotros, los mortales de los bosques de Urantia, la forma más segura y mejor de responder preguntas tan difíciles es siempre ver primero cómo respondió Jesús o qué hizo Jesús. Este parece apropiado:
 
-> Jesús dijo: «La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero». ([LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
+> Jesús dijo: «La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero». (<a id="a71_321"></a>[LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
 
 Aquí hay otro que es extremadamente útil:
 
-> «El Jesús humano veía a Dios como santo, justo y grande, así como verdadero, bello y bueno. Todos estos atributos de la divinidad los enfocó en su mente como «la voluntad del Padre que está en los cielos»» ([LU 196:0.2](/es/The_Urantia_Book/196#p0_2))
+> «El Jesús humano veía a Dios como santo, justo y grande, así como verdadero, bello y bueno. Todos estos atributos de la divinidad los enfocó en su mente como «la voluntad del Padre que está en los cielos»» (<a id="a75_209"></a>[LU 196:0.2](/es/The_Urantia_Book/196#p0_2))
 
 Así como con los valores espirituales o divinos a los que no se les puede dar una definición precisa, así sucede con la «voluntad de Dios». Su definición es "circunstancial": depende de las circunstancias, algunas de las cuales pueden ser extremadamente complejas.
 
@@ -81,7 +81,7 @@ Todos los términos, santo, justo, grandioso, verdadero, hermoso y bueno son ind
 
 Una buena guía sobre cómo debemos amar a nuestro prójimo se encuentra en la declaración:
 
-> «El amor, el altruismo, debe sufrir una interpretación readaptativa constante y viviente de las relaciones de acuerdo con las directrices del Espíritu de la Verdad. El amor debe captar así los conceptos ampliados y siempre cambiantes del **bien cósmico más elevado** para la persona que es amada». ([LU 180:5.10](/es/The_Urantia_Book/180#p5_10))
+> «El amor, el altruismo, debe sufrir una interpretación readaptativa constante y viviente de las relaciones de acuerdo con las directrices del Espíritu de la Verdad. El amor debe captar así los conceptos ampliados y siempre cambiantes del **bien cósmico más elevado** para la persona que es amada». (<a id="a83_301"></a>[LU 180:5.10](/es/The_Urantia_Book/180#p5_10))
 
 El término «bien cósmico supremo» significa que al buscar ayudar o amar a otro, no es necesariamente su beneficio inmediato lo que debería preocuparnos. Más bien, deberíamos pedirle al Espíritu de la Verdad que nos ayude a saber y hacer lo que podría ayudarlos de alguna manera a avanzar en su carrera eterna, o al menos a no ponerla en peligro.
 

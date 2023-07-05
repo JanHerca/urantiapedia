@@ -41,9 +41,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 «Espero que no te importe que lo diga, pero tu conciencia de Dios se está mostrando». ¿Ha notado que _El Libro de Urantia_ coloca definiciones de la conciencia de Dios de manera notoria en la última oración del Prólogo y la primera oración del último párrafo en todo el libro?
 
-> «...la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios». [F:XII.13](/es/The_Urantia_Book/0#p12_13)
+> «...la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios». <a id="a43_100"></a>[F:XII.13](/es/The_Urantia_Book/0#p12_13)
 
-> «La conciencia de Dios equivale a la integración del yo en el universo...» [[LU 196:3.35](/es/The_Urantia_Book/196#p3_35)]
+> «La conciencia de Dios equivale a la integración del yo en el universo...» <a id="a45_77"></a>[[LU 196:3.35](/es/The_Urantia_Book/196#p3_35)]
 
 Todas las enseñanzas se mantienen en los brazos de la conciencia de Dios. En cada nivel de nuestro progreso, es este esfuerzo continuo para empujar la envoltura de la conciencia del yo, el alma y el espíritu lo que constituye la conciencia de Dios. Es la experiencia y el hecho de volverse más real.
 
@@ -309,7 +309,7 @@ La velada fue una animada celebración de la renovación de viejas amistades y e
 
 > **¿Es usted miembro de la Fellowship?**
 >
-> Si no, lo invitamos a unirse a nosotros. Con cada nuevo miembro alcanzamos un nuevo nivel de unidad de propósito al tiempo que aceptamos la diversidad de nuestro servicio a medida que nos asociamos para compartir un propósito común en la difusión mundial de _El Libro de Urantia_ y sus enseñanzas. Como Jesús le dijo al filósofo griego: Un grupo social de seres humanos en armonía de trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes. [[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)]
+> Si no, lo invitamos a unirse a nosotros. Con cada nuevo miembro alcanzamos un nuevo nivel de unidad de propósito al tiempo que aceptamos la diversidad de nuestro servicio a medida que nos asociamos para compartir un propósito común en la difusión mundial de _El Libro de Urantia_ y sus enseñanzas. Como Jesús le dijo al filósofo griego: Un grupo social de seres humanos en armonía de trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes. <a id="a311_473"></a>[[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)]
 > Así que ven y únete a nosotros. Puede comunicarse con el Presidente de Membresía de la Fellowship, Lenny Cowles en lighing@wispertel.net para obtener más información. Esperamos escuchar de usted.
 {.is-info}
 
@@ -365,7 +365,7 @@ Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, David Glass, Nancy Johnso
 Fellowship@urantiabook.org
 www.urantiabook.org
 
-> «la verdadera bondad debe ser inconsciente» [[LU 140:8.26](/es/The_Urantia_Book/140#p8_26)]
+> «la verdadera bondad debe ser inconsciente» <a id="a367_46"></a>[[LU 140:8.26](/es/The_Urantia_Book/140#p8_26)]
 
 ## Enlaces externos
 

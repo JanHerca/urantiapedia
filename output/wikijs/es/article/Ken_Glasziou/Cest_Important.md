@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «_Jesús no le pide a sus discípulos que crean en él, sino más bien que crean *con* él, que crean en la realidad del amor de Dios y que acepten con toda confianza la seguridad de su filiación con el Padre celestial. El Maestro desea que todos sus seguidores compartan plenamente su fe trascendente. Jesús desafió a sus seguidores, de la manera más enternecedora, no sólo a creer *lo que* él creía, sino también a creer *como* él creía. Éste es el significado completo de su única exigencia suprema: «Sígueme»._» [LU 196:0.13](/es/The_Urantia_Book/196#p0_13)
+> «_Jesús no le pide a sus discípulos que crean en él, sino más bien que crean *con* él, que crean en la realidad del amor de Dios y que acepten con toda confianza la seguridad de su filiación con el Padre celestial. El Maestro desea que todos sus seguidores compartan plenamente su fe trascendente. Jesús desafió a sus seguidores, de la manera más enternecedora, no sólo a creer *lo que* él creía, sino también a creer *como* él creía. Éste es el significado completo de su única exigencia suprema: «Sígueme»._» <a id="a33_513"></a>[LU 196:0.13](/es/The_Urantia_Book/196#p0_13)
 
 Para aquellos que aspiran a intentar la tarea propuesta en la p. 43, «El desafío religioso de esta era es para aquellos hombres y mujeres con visión de futuro y perspicacia espiritual que se atreverán a construir una nueva y atractiva filosofía de vida... (que) atraerá todo lo que es bueno en la mente del hombre y desafiará lo mejor en el alma humana», esta declaración de que Jesús no requiere que creamos en él, sino que creamos con él es de suma importancia.
 
@@ -51,7 +51,7 @@ Probablemente solo hay una forma posible en la que el virus del amor puede domin
 
 Pero incluso esta última esperanza no puede funcionar a menos que el Dios que se convierte en el centro de nuestras vidas sea el Padre-Dios de Jesús. Sólo un remanente de ese Dios se manifiesta en la vida de la mayoría de los cristianos. E incluso los lectores dedicados del Libro de Urantia aún tienen que aprender a cambiar su punto focal del libro para centrarse en Dios.
 
-Pero no dejes que la fe sea vencida. Más bien, que prevalezca esta seguridad: «_El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres._» [LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
+Pero no dejes que la fe sea vencida. Más bien, que prevalezca esta seguridad: «_El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres._» <a id="a53_577"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
 
 ## Enlaces externos
 

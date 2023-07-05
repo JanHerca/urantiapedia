@@ -47,11 +47,11 @@ dateCreated: 2022-9-9T8:13:39Z
 > 9. Vive y triunfa a pesar de la sobrecarga abrumadora de las civilizaciones complejas y parciales de los tiempos modernos.
 > 10. Contribuye a la supervivencia continua del altruismo a pesar del egoísmo humano, los antagonismos sociales, las avaricias industriales y los desajustes políticos.
 > 11. Se adhiere firmemente a una creencia sublime en la unidad universal y en la guía divina, sin tener en cuenta la presencia desconcertante del mal y del pecado.
-> 12. Continúa muy acertadamente adorando a Dios a pesar de todo y por encima de todo. Se atreve a declarar: «Aunque Él me mate, seguiré sirviéndole». ([LU 101:3.4-16](/es/The_Urantia_Book/101#p3_4))
+> 12. Continúa muy acertadamente adorando a Dios a pesar de todo y por encima de todo. Se atreve a declarar: «Aunque Él me mate, seguiré sirviéndole». (<a id="a49_152"></a>[LU 101:3.4-16](/es/The_Urantia_Book/101#p3_4))
 
-> El logro espiritual es la verdadera meta de la vida. ([LU 170:2.6](/es/The_Urantia_Book/170#p2_6))
+> El logro espiritual es la verdadera meta de la vida. (<a id="a51_56"></a>[LU 170:2.6](/es/The_Urantia_Book/170#p2_6))
 
-> En la ciencia, el yo humano observa el mundo material; la filosofía es la observación de esta observación del mundo material; la religión, la verdadera experiencia espiritual, es la comprensión experiencial de la realidad cósmica de la observación de la observación... ([LU 112:2.12](/es/The_Urantia_Book/112#p2_12))
+> En la ciencia, el yo humano observa el mundo material; la filosofía es la observación de esta observación del mundo material; la religión, la verdadera experiencia espiritual, es la comprensión experiencial de la realidad cósmica de la observación de la observación... (<a id="a53_272"></a>[LU 112:2.12](/es/The_Urantia_Book/112#p2_12))
 
 ## External links
 

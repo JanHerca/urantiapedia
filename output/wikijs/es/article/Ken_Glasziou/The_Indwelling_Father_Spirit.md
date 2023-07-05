@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T23:20:22.364Z
 </figure>
 
 
-El Padre-Espíritu que mora en nosotros: ¿cuáles son sus funciones? ([LU 110:0.1](/es/The_Urantia_Book/110#p0_1))
+El Padre-Espíritu que mora en nosotros: ¿cuáles son sus funciones? (<a id="a36_68"></a>[LU 110:0.1](/es/The_Urantia_Book/110#p0_1))
 
 La devoción del Espíritu que mora en el individuo es conmovedoramente sublime, divinamente parecida a un Padre. Indirectamente y sin ser reconocido, se comunica constantemente con su sujeto humano.
 
@@ -66,7 +66,7 @@ La cooperación con nuestro Padre-Espíritu no es un proceso particularmente con
 
 No debemos confundir y enredar la misión y la influencia de nuestro Dios-Espíritu que mora en nosotros con lo que comúnmente se llama conciencia. La conciencia es una reacción humana y puramente psíquica. Si bien no debe despreciarse, difícilmente es la voz de Dios para el alma. La conciencia nos amonesta correctamente a hacer lo correcto; pero el Espíritu interior se esfuerza por decirnos lo que verdaderamente es correcto.
 
-> La motivación de la fe convierte en experiencial la realización completa de la filiación del hombre con Dios, pero la acción, la consumación de las decisiones, es esencial para alcanzar por evolución la conciencia del parentesco progresivo con la realidad cósmica del Ser Supremo. En el mundo espiritual, la fe transmuta los potenciales en actuales, pero los potenciales sólo se vuelven actuales, en los reinos finitos del Supremo, llevando a cabo la experiencia de la elección y a través de ella. Escoger hacer la voluntad de Dios une la fe espiritual con las decisiones materiales en los actos de la personalidad, proporcionando así un punto de apoyo divino y espiritual para que la palanca humana y material del hambre de Dios funcione con más eficacia. ([LU 110:6.17](/es/The_Urantia_Book/110#p6_17))
+> La motivación de la fe convierte en experiencial la realización completa de la filiación del hombre con Dios, pero la acción, la consumación de las decisiones, es esencial para alcanzar por evolución la conciencia del parentesco progresivo con la realidad cósmica del Ser Supremo. En el mundo espiritual, la fe transmuta los potenciales en actuales, pero los potenciales sólo se vuelven actuales, en los reinos finitos del Supremo, llevando a cabo la experiencia de la elección y a través de ella. Escoger hacer la voluntad de Dios une la fe espiritual con las decisiones materiales en los actos de la personalidad, proporcionando así un punto de apoyo divino y espiritual para que la palanca humana y material del hambre de Dios funcione con más eficacia. (<a id="a68_760"></a>[LU 110:6.17](/es/The_Urantia_Book/110#p6_17))
 
 ## Enlaces externos
 

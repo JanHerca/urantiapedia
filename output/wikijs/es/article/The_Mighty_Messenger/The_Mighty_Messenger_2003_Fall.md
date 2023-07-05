@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día». [[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
+> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día». <a id="a36_273"></a>[[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
 
 ## Litigio de derechos de autor y _El Libro de Urantia_
 

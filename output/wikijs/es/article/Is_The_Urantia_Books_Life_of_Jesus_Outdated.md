@@ -72,17 +72,17 @@ Debido a la ausencia total de una historia tan sensacional en el resto del Nuevo
 
 Es cierto que los Documentos descartan la mayoría de las historias de milagros, y ciertamente aquellas que tienen a Jesús caminando sobre el agua y cosas por el estilo. Además, comentan el fracaso de las curaciones milagrosas del cuerpo para producir una ventaja similar para el progreso espiritual del alma. Pero han dejado mucho que parece dudoso, como el agua en vino y la alimentación de los cinco mil.
 
-> «Dios es tan real y absoluto que no se puede ofrecer, como testimonio de su realidad, ningún signo material de prueba ni ninguna demostración de supuestos milagros». ([LU 102:1.5](/es/The_Urantia_Book/102#p1_5))
+> «Dios es tan real y absoluto que no se puede ofrecer, como testimonio de su realidad, ningún signo material de prueba ni ninguna demostración de supuestos milagros». (<a id="a74_169"></a>[LU 102:1.5](/es/The_Urantia_Book/102#p1_5))
 
 Es maravilloso que ahora haya un movimiento tan poderoso hacia la reforma en las iglesias cristianas, todo lo cual está virtualmente en línea con las enseñanzas del Libro de Urantia. Sin embargo, también es preocupante que nosotros, los devotos del Libro de Urantia, ya nos hayamos quedado atrás. Porque el libro nos informa:
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» (<a id="a78_349"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 ¿Fracasamos en asumir ese desafío al atascarnos en cosas seculares mientras disfrutamos de la gloria de pensar en nosotros mismos como líderes iluminados a la vanguardia del progreso espiritual?
 
-> Pero la religión nunca es realzada cuando se recurre a los pretendidos milagros. La búsqueda de los milagros es un retroceso a las religiones primitivas de la magia. La verdadera religión no tiene nada que ver con los supuestos milagros, y la religión revelada nunca se apoya en los milagros como prueba de su autoridad. ([LU 102:8.7](/es/The_Urantia_Book/102#p8_7))
+> Pero la religión nunca es realzada cuando se recurre a los pretendidos milagros. La búsqueda de los milagros es un retroceso a las religiones primitivas de la magia. La verdadera religión no tiene nada que ver con los supuestos milagros, y la religión revelada nunca se apoya en los milagros como prueba de su autoridad. (<a id="a82_324"></a>[LU 102:8.7](/es/The_Urantia_Book/102#p8_7))
 
-> Para cumplir su cometido, la revelación no puede alejarse demasiado de los pensamientos y reacciones de la época en la que se presenta. Debe adaptarse a la capacidad de receptividad del hombre y tener en cuenta la enorme variación en los antecedentes educativos y culturales de aquellos que pueden beneficiarse. ([LU 92:4.1](/es/The_Urantia_Book/92#p4_1))
+> Para cumplir su cometido, la revelación no puede alejarse demasiado de los pensamientos y reacciones de la época en la que se presenta. Debe adaptarse a la capacidad de receptividad del hombre y tener en cuenta la enorme variación en los antecedentes educativos y culturales de aquellos que pueden beneficiarse. (<a id="a84_315"></a>[LU 92:4.1](/es/The_Urantia_Book/92#p4_1))
 
 ## Enlaces externos
 

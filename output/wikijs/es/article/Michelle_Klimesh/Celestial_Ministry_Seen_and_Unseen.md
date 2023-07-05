@@ -39,7 +39,7 @@ La fuente del ministerio celestial en el gran universo es la persona del Espíri
 
 El Espíritu Infinito es: La fuente de toda mente; Personalmente consciente de cada persona mental en toda la creación; El Dios de la Acción; El creador de una vasta familia de ministros espirituales.
 
-_Las personalidades espirituales de la inmensa familia del Espíritu Divino e Infinito están dedicadas para siempre al servicio del ministerio del amor de Dios y de la misericordia del Hijo hacia todas las criaturas inteligentes de los mundos evolutivos del tiempo y del espacio. Estos seres espirituales constituyen la escala viviente por la que el hombre mortal se eleva desde el caos hasta la gloria._ [[LU 9:8.17](/es/The_Urantia_Book/9#p8_17)]
+_Las personalidades espirituales de la inmensa familia del Espíritu Divino e Infinito están dedicadas para siempre al servicio del ministerio del amor de Dios y de la misericordia del Hijo hacia todas las criaturas inteligentes de los mundos evolutivos del tiempo y del espacio. Estos seres espirituales constituyen la escala viviente por la que el hombre mortal se eleva desde el caos hasta la gloria._ <a id="a41_404"></a>[[LU 9:8.17](/es/The_Urantia_Book/9#p8_17)]
 
 Durante algunos años durante la niñez, caí en el hábito de cuestionar a Dios. Por ejemplo, me preguntaba por qué mi madre pasó tres días en el hospital para dar a luz a mi hermano, pero la gata dio a luz fácilmente sola en el garaje. Si Dios realmente sabía todo, ¿por qué no sabía que la mandíbula que hizo para mí era demasiado pequeña para la cantidad de dientes que crecían allí? Sospechaba que Dios no era tan inteligente como la gente creía que era, y esta sospecha me abrió a años de especulación mental acerca de cómo manejaría el universo si fuera Dios.
 
@@ -83,11 +83,11 @@ x 5.342 _trillones de planetas habitados_
 
 ¡10,7 sextillones de ángeles! Agregue estos a los 56 cuatrillones que trabajan en los niveles del universo local, y tenga en cuenta que el Espíritu Infinito está personalmente al tanto de todos y cada uno de ellos. ¿Cómo podemos ser otra cosa que asombrados por el alcance del poder de Dios?
 
-Antes de dejar el tema del origen, revise la cita en [LU 9:8.17](/es/The_Urantia_Book/9#p8_17) que describe a la familia del Espíritu Infinito como una escalera viviente. Si considera este fenómeno desde el punto de vista del Paraíso, queda claro que una escalera enviada a cada mortal existente solo parece ser una escalera desde la perspectiva humana. En realidad, la familia del Espíritu Infinito debe ser una enorme telaraña, un manto de amor y misericordia que cubra todo el universo habitado. No hay ningún lugar al que ninguno de nosotros pueda ir donde no estemos rodeados por estos hijos de la misericordia, ningún lugar al que podamos estar donde su amor no se derrame sobre nosotros y dentro de nosotros. No estamos solos; no se nos ha dejado aquí a nuestra suerte. Estamos constantemente sumergidos en el amor y rodeados de ministros, los hijos del Espíritu Infinito.
+Antes de dejar el tema del origen, revise la cita en <a id="a85_53"></a>[LU 9:8.17](/es/The_Urantia_Book/9#p8_17) que describe a la familia del Espíritu Infinito como una escalera viviente. Si considera este fenómeno desde el punto de vista del Paraíso, queda claro que una escalera enviada a cada mortal existente solo parece ser una escalera desde la perspectiva humana. En realidad, la familia del Espíritu Infinito debe ser una enorme telaraña, un manto de amor y misericordia que cubra todo el universo habitado. No hay ningún lugar al que ninguno de nosotros pueda ir donde no estemos rodeados por estos hijos de la misericordia, ningún lugar al que podamos estar donde su amor no se derrame sobre nosotros y dentro de nosotros. No estamos solos; no se nos ha dejado aquí a nuestra suerte. Estamos constantemente sumergidos en el amor y rodeados de ministros, los hijos del Espíritu Infinito.
 
 ## Naturaleza
 
-_El universo de vuestro origen se está forjando entre el yunque de la justicia y el martillo del sufrimiento; pero aquellos que manejan el martillo son los hijos de la misericordia, la progenitura espiritual del Espíritu Infinito._ [[LU 9:1.8](/es/The_Urantia_Book/9#p1_8)]
+_El universo de vuestro origen se está forjando entre el yunque de la justicia y el martillo del sufrimiento; pero aquellos que manejan el martillo son los hijos de la misericordia, la progenitura espiritual del Espíritu Infinito._ <a id="a89_232"></a>[[LU 9:1.8](/es/The_Urantia_Book/9#p1_8)]
 
 Se nos dice que solo el bien puede resultar de nuestros esfuerzos por amar y comprender a los ángeles. ¿Qué clase de personas son estas, los hijos del Espíritu Infinito, que nos tienen bajo su cuidado?
 
@@ -99,7 +99,7 @@ Se nos dice que a los ángeles les gusta el cambio, el descanso, la reversión y
 
 Casi todas las órdenes angelicales apartan reservas y registradores. Muchas órdenes de ángeles también tienen una división de transporte. Pero más allá de estas funciones genéricas, los ministros celestiales parecen centrarse principalmente en la enseñanza. Una de las muchas órdenes de ángeles que ministran extensamente a los mortales ascendentes se describe de esta manera:
 
-> Estos seconafines terciarios son los ahorradores de tiempo, los acortadores del espacio, los detectores de errores, los instructores fieles y los postes indicadores perpetuos —los signos vivientes de la seguridad divina— colocados por misericordia en las encrucijadas del tiempo para guiar allí los pasos de los peregrinos ansiosos en los momentos de gran perplejidad y de incertidumbre espiritual. [[LU 28:7.3](/es/The_Urantia_Book/28#p7_3)]
+> Estos seconafines terciarios son los ahorradores de tiempo, los acortadores del espacio, los detectores de errores, los instructores fieles y los postes indicadores perpetuos —los signos vivientes de la seguridad divina— colocados por misericordia en las encrucijadas del tiempo para guiar allí los pasos de los peregrinos ansiosos en los momentos de gran perplejidad y de incertidumbre espiritual. <a id="a101_401"></a>[[LU 28:7.3](/es/The_Urantia_Book/28#p7_3)]
 
 ¿Qué es lo que nos enseñan los ministros celestiales? La lista es alucinante.
 
@@ -162,7 +162,7 @@ Estamos rodeados de ministros celestiales que están interesados ​​en el des
 
 ¿Por qué? ¿Qué planea hacer Dios con esta asamblea?
 
-Perfeccionadores de la Sabiduría, Consejeros Divinos, Arcángeles, Mensajeros Solitarios y Uno Sin Nombre y Número, todos especulan que estamos destinados a servir en los niveles del espacio exterior. Un Mensajero Poderoso afirma claramente que «estamos destinados a servir y a revelar a esta Deidad Suprema en los futuros universos del espacio exterior». [[LU 56:8.2](/es/The_Urantia_Book/56#p8_2)]
+Perfeccionadores de la Sabiduría, Consejeros Divinos, Arcángeles, Mensajeros Solitarios y Uno Sin Nombre y Número, todos especulan que estamos destinados a servir en los niveles del espacio exterior. Un Mensajero Poderoso afirma claramente que «estamos destinados a servir y a revelar a esta Deidad Suprema en los futuros universos del espacio exterior». <a id="a164_355"></a>[[LU 56:8.2](/es/The_Urantia_Book/56#p8_2)]
 
 Francamente, en este momento de mi vida, un destino final de servicio en los mundos futuros del espacio exterior parece tan alejado de la realidad presente que es casi incomprensible. Independientemente de lo que Dios haya planeado para mí en los siglos venideros, la pregunta que más me interesa es lo que Dios quiere de mí hoy.
 
@@ -188,7 +188,7 @@ Recuerda la historia del pastorcillo a quien se le apareció un ángel en la noc
 > «Aunque descienda a los abismos de las tinieblas y de la misma muerte,»
 > «No dudaré de ti ni te temeré,»
 > «Porque sé que en la plenitud de los tiempos y en la gloria de tu nombre»
-> «Me levantarás para sentarme contigo en las almenas de las alturas.» [[LU 48:6.9-19](/es/The_Urantia_Book/48#p6_9)]
+> «Me levantarás para sentarme contigo en las almenas de las alturas.» <a id="a190_71"></a>[[LU 48:6.9-19](/es/The_Urantia_Book/48#p6_9)]
 
 Reconocemos este texto como el [salmo 23](/es/Bible/Psalms/23):
 
@@ -217,7 +217,7 @@ Nota del autor: Un agradecimiento especial a Jack Kane por darme los nombres de 
 > Michelle ha sido estudiante de _El Libro de Urantia_ desde que tenía 19 años. Es miembro de la sociedad Golden Gate Circle en el norte de California, actual secretaria general de la Fraternidad y autora de La historia de todo, una condensación de la revelación.  
 {.is-info}
 
-> El trabajo [de los ángeles] en el universo no tiene trabas ni limitaciones; están estrechamente asociados con las criaturas materiales de los mundos, y siempre están al servicio de las órdenes inferiores de personalidades espirituales, poniendo en contacto a estos seres del mundo espiritual con los mortales de los reinos materiales. [[LU 38:5.4](/es/The_Urantia_Book/38#p5_4)]  
+> El trabajo [de los ángeles] en el universo no tiene trabas ni limitaciones; están estrechamente asociados con las criaturas materiales de los mundos, y siempre están al servicio de las órdenes inferiores de personalidades espirituales, poniendo en contacto a estos seres del mundo espiritual con los mortales de los reinos materiales. <a id="a219_337"></a>[[LU 38:5.4](/es/The_Urantia_Book/38#p5_4)]  
 
 ## Referencias
 

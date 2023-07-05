@@ -34,11 +34,11 @@ dateCreated: 2022-9-8T14:13:8Z
 </figure>
 
 
-> «_El hecho de ser consciente de sí mismo da origen a la moralidad; ésta es superanimal pero totalmente evolutiva. La evolución humana abarca en su desarrollo todos los dones que preceden a la concesión de los Ajustadores y al derramamiento del Espíritu de la Verdad._» ([LU 5:5.1](/es/The_Urantia_Book/5#p5_1))
+> «_El hecho de ser consciente de sí mismo da origen a la moralidad; ésta es superanimal pero totalmente evolutiva. La evolución humana abarca en su desarrollo todos los dones que preceden a la concesión de los Ajustadores y al derramamiento del Espíritu de la Verdad._» (<a id="a36_272"></a>[LU 5:5.1](/es/The_Urantia_Book/5#p5_1))
 
 > «_El altruismo no había nacido todavía en el corazón humano, aunque todas las emociones esenciales para el nacimiento de la religión se encontraban ya presentes en estos aborígenes de Urantia._» ([LU 63:4.3](/es/The_Urantia_Book/63#p4_3 ))
 
-> «_Aunque los Ajustadores se ofrecen como voluntarios para el servicio tan pronto como los pronósticos sobre una personalidad han sido transmitidos a Divinington, no son asignados realmente hasta que el sujeto humano ha efectuado su primera decisión moral como personalidad._» ([LU 108:2.1](/es/The_Urantia_Book/108#p2_1))
+> «_Aunque los Ajustadores se ofrecen como voluntarios para el servicio tan pronto como los pronósticos sobre una personalidad han sido transmitidos a Divinington, no son asignados realmente hasta que el sujeto humano ha efectuado su primera decisión moral como personalidad._» (<a id="a40_279"></a>[LU 108:2.1](/es/The_Urantia_Book/108#p2_1))
 
 A las generaciones que han crecido en la era de la tecnología de la información electrónica acoplada a la computadora personal (PC) les resultará casi imposible apreciar las dificultades que enfrentaron sus antepasados ​​al recuperar e indexar la información necesaria para cualquier tarea compleja.
 
@@ -56,7 +56,7 @@ La primera referencia nos informa que la moralidad es tanto evolutiva como super
 
 A estas tres referencias internamente consistentes, ahora agregamos una cuarta, una que me vino a la mente solo después de completar la revisión de las demás. Muy contrario a la teoría darwiniana, establece una visión consistente con la nueva evidencia de ADN que sigue apareciendo:
 
-> «_El plasma original de vida de un mundo evolutivo debe contener todo el potencial de todas las variaciones de desarrollo futuras y de todos los cambios y modificaciones evolutivos posteriores._» ([LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
+> «_El plasma original de vida de un mundo evolutivo debe contener todo el potencial de todas las variaciones de desarrollo futuras y de todos los cambios y modificaciones evolutivos posteriores._» (<a id="a58_199"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
 
 Debido a las instalaciones computarizadas que nos permiten buscar el texto de _El Libro de Urantia_ palabra por palabra o frase por frase, ahora existe la oportunidad de examinarlo de cerca por su consistencia interna. La aparición en el texto de términos oscuros como «el Consumador del Destino del Universo» se puede ubicar y examinar fácilmente para determinar la consistencia del uso y el significado.
 

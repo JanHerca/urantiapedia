@@ -42,7 +42,7 @@ Una fuente importante de controversia fue sobre quién estaba calificado, privil
 
 Probablemente los discípulos de Jesús se sintieron en un nivel superior al de Juan. Tal vez, fue en compensación, a los discípulos de Juan se les concedió el derecho exclusivo de bautizar a los nuevos conversos.
 
-> Cuanto más estrechamente se acerca el hombre a Dios a través del amor, mayor es la realidad —la manifestación— de ese hombre. Cuanto más se aleja el hombre de Dios, más cerca se aproxima a la no realidad —al cese de la existencia. ([LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
+> Cuanto más estrechamente se acerca el hombre a Dios a través del amor, mayor es la realidad —la manifestación— de ese hombre. Cuanto más se aleja el hombre de Dios, más cerca se aproxima a la no realidad —al cese de la existencia. (<a id="a44_234"></a>[LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
 
 La redacción exacta de su ceremonia bautismal se pierde para nosotros, pero es poco probable que haya sido muy diferente de la de su líder muerto.
 
@@ -56,7 +56,7 @@ Si bien, en la superficie, los esfuerzos para jugar a ser Dios pueden parecer ta
 
 Jugar a Dios y el orgullo asociado con ello es una trampa continua. Porque una vez que nuestros motivos se contaminan y, en realidad, comenzamos a valorar la gloria de los hombres, entonces esa gloria es su propia recompensa. Como tal, nuestros esfuerzos no tienen valor espiritual.
 
-> «No busquéis pues una paz falsa y una alegría pasajera, sino más bien la seguridad de la fe y las garantías de la filiación divina, que dan la serenidad, el contentamiento y la alegría suprema en el espíritu». ([LU 149:5.4](/es/The_Urantia_Book/149#p5_4))
+> «No busquéis pues una paz falsa y una alegría pasajera, sino más bien la seguridad de la fe y las garantías de la filiación divina, que dan la serenidad, el contentamiento y la alegría suprema en el espíritu». (<a id="a58_213"></a>[LU 149:5.4](/es/The_Urantia_Book/149#p5_4))
 
 ## Enlaces externos
 

@@ -66,7 +66,7 @@ Siempre debemos considerar el objeto de nuestra lealtad religiosa como digno de 
 
 La religión de Jesús trasciende todos nuestros conceptos anteriores de la idea de la adoración en el sentido de que no solo retrata a su Padre como el ideal de la realidad infinita, sino que declara positivamente que esta fuente divina de valores y el centro eterno del universo es real y personalmente alcanzable por toda criatura mortal que elige entrar en el reino de los cielos en la tierra, reconociendo así la aceptación de la filiación con Dios y la hermandad con el hombre. Rodan concluye que este es el concepto más alto de religión que el mundo haya conocido jamás.
 
-> Nunca podrá haber pruebas científicas o lógicas de la divinidad. La razón por sí sola nunca podrá validar los valores y las bondades de la experiencia religiosa. Pero siempre seguirá siendo cierto que cualquiera que desee hacer la voluntad de Dios comprenderá la validez de los valores espirituales. Ésta es la mayor aproximación que se puede efectuar en el nivel mortal en el sentido de ofrecer una prueba de la realidad de la experiencia religiosa. ([LU 101:10.6](/es/The_Urantia_Book/101#p10_6))
+> Nunca podrá haber pruebas científicas o lógicas de la divinidad. La razón por sí sola nunca podrá validar los valores y las bondades de la experiencia religiosa. Pero siempre seguirá siendo cierto que cualquiera que desee hacer la voluntad de Dios comprenderá la validez de los valores espirituales. Ésta es la mayor aproximación que se puede efectuar en el nivel mortal en el sentido de ofrecer una prueba de la realidad de la experiencia religiosa. (<a id="a68_454"></a>[LU 101:10.6](/es/The_Urantia_Book/101#p10_6))
 
 ## Enlaces externos
 

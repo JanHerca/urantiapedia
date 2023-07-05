@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-«El pecado es la transgresión deliberada de la voluntad divina». [LU 75:4.3](/es/The_Urantia_Book/75#p4_3), [LU 148:4.4](/es/The_Urantia_Book/148#p4_4)
+«El pecado es la transgresión deliberada de la voluntad divina». <a id="a36_65"></a>[LU 75:4.3](/es/The_Urantia_Book/75#p4_3), <a id="a36_108"></a>[LU 148:4.4](/es/The_Urantia_Book/148#p4_4)
 
 Durante miles y miles de años, la «solución» por haber enfadado a los dioses era ofrecer un sacrificio, a menudo la sangre de algún pobre animal. Todavía está sucediendo, lo que podría hacer que uno se pregunte sobre la naturaleza de los dioses que cambiarían el perdón por una inyección de sangre animal.
 

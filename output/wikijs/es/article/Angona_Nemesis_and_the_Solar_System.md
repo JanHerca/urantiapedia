@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «Hace *4.500.000.000* de años, el enorme sistema de Angona empezó a aproximarse a los alrededores de este Sol solitario. El centro de este gran sistema era un gigante oscuro del espacio, sólido, muy cargado y con una enorme atracción gravitatoria». (de [LU 57:5.4](/es/The_Urantia_Book/57#p5_4))
+> «Hace *4.500.000.000* de años, el enorme sistema de Angona empezó a aproximarse a los alrededores de este Sol solitario. El centro de este gran sistema era un gigante oscuro del espacio, sólido, muy cargado y con una enorme atracción gravitatoria». (de <a id="a36_255"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4))
 
 En su relato de la formación del sistema solar, _El Libro de Urantia_ atribuye al sistema de Angona la fuente de una enorme perturbación gravitatoria que interrumpió parcialmente al sol, creando así el disco de material que, por acreción, finalmente dio origen a los planetas. , cometas, meteoros, polvo, etc., de nuestro sistema solar.
 
@@ -44,7 +44,7 @@ La evidencia de estos desastres aparece en la Tierra hace 12, 38, 65, 92 y 125 m
 
 ¿Podría esta estrella colapsada ser Angona, el culpable del Libro de Urantia de la iniciación del sistema solar? Según el relato del libro, la visita de Angona a la vecindad del sol duró unos 500 millones de años, tiempo suficiente para unas veinte visitas de la Estrella de la Muerte Némesis. Supongo que parece poco probable que sean el mismo sistema.
 
-Debido a la evidencia científica que se ha acumulado desde que se recibieron los Documentos en 1934, ahora se necesita una revisión de la cosmología del libro para los orígenes del sistema solar. ¿Estaba destinado a ser tomado como un hecho, o es un relato "lo suficientemente cercano" como para servir como material de relleno de un "marco universal en el que pensar"? (ver [LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+Debido a la evidencia científica que se ha acumulado desde que se recibieron los Documentos en 1934, ahora se necesita una revisión de la cosmología del libro para los orígenes del sistema solar. ¿Estaba destinado a ser tomado como un hecho, o es un relato "lo suficientemente cercano" como para servir como material de relleno de un "marco universal en el que pensar"? (ver <a id="a46_375"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
 Los reveladores afirman implícitamente que las reglas del universo para la revelación proscriben el suministro de conocimiento no ganado, pero permiten el suministro de información para llenar los vacíos vitales que faltan en el conocimiento humano.
 

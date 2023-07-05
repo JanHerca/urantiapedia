@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Dispersos por todo el componente científico encontramos afirmaciones bastante proféticas. Esta inclusión es coherente con una declaración del mandato ([LU 101:4.8](/es/The_Urantia_Book/101#p4_8)) de que se permitía la provisión de fragmentos clave de conocimiento esencial u olvidado. Sin embargo, la inclusión de esta información esotérica contrasta extrañamente con gran parte de la otra ciencia en el libro que habrían conocido incluso los estudiantes de secundaria de la década de 1930, cuando se recibieron los Documentos por primera vez.
+Dispersos por todo el componente científico encontramos afirmaciones bastante proféticas. Esta inclusión es coherente con una declaración del mandato (<a id="a36_151"></a>[LU 101:4.8](/es/The_Urantia_Book/101#p4_8)) de que se permitía la provisión de fragmentos clave de conocimiento esencial u olvidado. Sin embargo, la inclusión de esta información esotérica contrasta extrañamente con gran parte de la otra ciencia en el libro que habrían conocido incluso los estudiantes de secundaria de la década de 1930, cuando se recibieron los Documentos por primera vez.
 
-El mandato tiene estas declaraciones: «_... los futuros estudiantes de tal revelación están tentados a descartar... él... porque descubren errores... .No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años... La cosmología de estas revelaciones no es inspirada._» ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+El mandato tiene estas declaraciones: «_... los futuros estudiantes de tal revelación están tentados a descartar... él... porque descubren errores... .No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años... La cosmología de estas revelaciones no es inspirada._» (<a id="a38_307"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 No debemos desanimarnos por los errores percibidos en la cosmología (que incluye la ciencia). Hemos sido advertidos: la verdad está donde la encuentras.
 
@@ -44,13 +44,13 @@ No debemos desanimarnos por los errores percibidos en la cosmología (que incluy
 
 A menudo he reflexionado sobre la secuencia de texto que sigue al sermón de ordenación de Jesús a los apóstoles en la Parte 4. Allí, Jesús anuncia que está en la tierra únicamente para consolar las mentes, liberar los espíritus y salvar las almas de los hombres. Después de una pausa continúa:
 
-> «_Tenéis que reconocer siempre los dos puntos de vista de toda conducta de los mortales —el humano y el divino; los caminos de la carne y la senda del espíritu; la opinión del tiempo y el punto de vista de la eternidad._» ([LU 140:6.7](/es/The_Urantia_Book/140#p6_7))
+> «_Tenéis que reconocer siempre los dos puntos de vista de toda conducta de los mortales —el humano y el divino; los caminos de la carne y la senda del espíritu; la opinión del tiempo y el punto de vista de la eternidad._» (<a id="a46_225"></a>[LU 140:6.7](/es/The_Urantia_Book/140#p6_7))
 
 Este comentario es seguido por:
 
-> «_Pero vais a tropezar con mis enseñanzas ***porque estáis acostumbrados a interpretar mi mensaje literalmente; sois lentos en discernir el espíritu de mi enseñanza***._» ([LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
+> «_Pero vais a tropezar con mis enseñanzas ***porque estáis acostumbrados a interpretar mi mensaje literalmente; sois lentos en discernir el espíritu de mi enseñanza***._» (<a id="a50_174"></a>[LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
 
-En nuestra lectura, la mayoría de nosotros probablemente pasamos por alto esta amonestación, descartándola como aplicable a los apóstoles. Pero en el mismo párrafo Jesús dice: «_También debéis recordar que tengo ovejas que no pertenecen a este rebaño, y que también estoy en deuda con ellos, ya que he de proporcionarles el modelo para hacer la voluntad de Dios, mientras vivo la vida de la naturaleza mortal._» ([LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
+En nuestra lectura, la mayoría de nosotros probablemente pasamos por alto esta amonestación, descartándola como aplicable a los apóstoles. Pero en el mismo párrafo Jesús dice: «_También debéis recordar que tengo ovejas que no pertenecen a este rebaño, y que también estoy en deuda con ellos, ya que he de proporcionarles el modelo para hacer la voluntad de Dios, mientras vivo la vida de la naturaleza mortal._» (<a id="a52_413"></a>[LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
 
 Me pregunto si nosotros, las personas del siglo XX, podríamos ser «ovejas que no son de este rebaño». Estos pescadores galileos ya estaban flotando más allá de sus profundidades. Acababan de pedir ayuda a Jesús para comprenderlo. El comentario de Jesús, si se les hubiera dicho a ellos, los habría desconcertado por completo. Entonces, ¿está incluido en los Documentos específicamente para nuestro beneficio? Si es así, ¿nos está diciendo que no tomemos las enseñanzas literalmente?
 

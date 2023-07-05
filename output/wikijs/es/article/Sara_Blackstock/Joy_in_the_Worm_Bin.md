@@ -34,7 +34,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-> Una metáfora viviente para «… el fuego divino de la voluntad de servir» [[LU 48:6.34](/es/The_Urantia_Book/48#p6_34)]
+> Una metáfora viviente para «… el fuego divino de la voluntad de servir» <a id="a36_74"></a>[[LU 48:6.34](/es/The_Urantia_Book/48#p6_34)]
 
 _Nota: La siguiente es una charla dada al Consejo General en 1995 y en la Conferencia Internacional de la Fraternidad, 2008._
 
@@ -54,7 +54,7 @@ Alcanzaba el fondo del contenedor, sacando la tierra seca junto con algunos gusa
 
 Después de que un niño dijera: «Yo salvé más que tú», a otro niño, tuve que evitar que discutieran sobre cuál había salvado más gusanos. La alegría que se sentía en el espacio de «4 por 4» cuando un gusano comatoso se agitaba después de ser rociado era medible. Y para colmo, un niño de jardín de infantes bastante serio dijo, con una cara perfectamente seria: «¡Eso huele a champán!» y por supuesto la fruta en fermentación tenía un toque de tal aroma.
 
-Entonces, ¿qué tiene que ver esta experiencia con el contenedor de gusanos con el servicio? Dudo que esto entre en la categoría de la que se habla en el Documento 131: «_Todas las buenas obras de servicio sincero proceden del Supremo._» [[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)] Pero también creo nuestros amigos celestiales tienen un sentido del humor maravilloso y juguetón y tienen «sensores de alegría» agudos.
+Entonces, ¿qué tiene que ver esta experiencia con el contenedor de gusanos con el servicio? Dudo que esto entre en la categoría de la que se habla en el Documento 131: «_Todas las buenas obras de servicio sincero proceden del Supremo._» <a id="a56_237"></a>[[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)] Pero también creo nuestros amigos celestiales tienen un sentido del humor maravilloso y juguetón y tienen «sensores de alegría» agudos.
 
 Leemos en el Documento 48 sobre la Vida Morontial lo que las reservas ministrantes pueden hacer por los mortales ascendentes: pueden encender «… _un fuego divino de la voluntad de servir_». Esta frase realmente me llamó la atención del alma, porque la energía para salvar a los gusanos se convirtió en una metáfora de este «… _fuego divino de la voluntad de servir_».
 

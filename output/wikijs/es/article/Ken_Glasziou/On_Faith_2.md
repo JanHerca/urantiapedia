@@ -66,7 +66,7 @@ Cuando la teología domina la religión, la religión muere; se convierte en una
 
 En la filosofía superior del universo, la sabiduría, como la razón, se alía con la fe. La razón, la sabiduría y la fe son los logros humanos más elevados del hombre. La razón introduce al hombre en el mundo de los hechos, de las cosas; la sabiduría lo introduce en un mundo de verdad, de relaciones; la fe lo inicia en un mundo de divinidad, experiencia espiritual.
 
-> Pero para vosotros, hijos míos, y para todos los demás que quieran seguiros en este reino, una dura prueba se prepara. Sólo la fe os permitirá atravesar sus puertas, pero tendréis que producir los frutos del espíritu de mi Padre si queréis continuar ascendiendo en la vida progresiva de la comunidad divina. ([LU 140:1.4](/es/The_Urantia_Book/140#p1_4))
+> Pero para vosotros, hijos míos, y para todos los demás que quieran seguiros en este reino, una dura prueba se prepara. Sólo la fe os permitirá atravesar sus puertas, pero tendréis que producir los frutos del espíritu de mi Padre si queréis continuar ascendiendo en la vida progresiva de la comunidad divina. (<a id="a68_311"></a>[LU 140:1.4](/es/The_Urantia_Book/140#p1_4))
 
 Jesús puso gran énfasis en lo que llamó las dos verdades de primera importancia en las enseñanzas del reino, y son: el logro de la salvación por la fe, y la fe sola, asociada con la enseñanza revolucionaria del logro de la libertad humana a través del sincero reconocimiento de la verdad: "Conoceréis la verdad, y la verdad os hará libres".
 

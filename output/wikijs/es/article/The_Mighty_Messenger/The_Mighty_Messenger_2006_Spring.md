@@ -126,7 +126,7 @@ Cualquiera que sea la otra capacidad en la que continúe sirviendo a los propós
 
 —Paul Snider
 
-> Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida. [[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
+> Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida. <a id="a128_127"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
 
 ## Noticias del grupo de estudio
 
@@ -229,7 +229,7 @@ La selección de un Delegado y un Suplente es un deber y privilegio muy importan
 
 Los representantes de la sociedad deben ser elegidos por cualidades que coincidan con las tareas de la TDA. La Asamblea puede seleccionar a los mejores miembros para el Consejo cuando los propios delegados hayan asistido a las reuniones del Consejo, sepan cómo funciona y aprecien el tipo de voluntarios que el Consejo necesita para funcionar con eficacia. El conocimiento de la Constitución de la Fellowship y cómo funciona la organización también es importante. Por supuesto, no hay sustituto para conocer personalmente a los candidatos y estar al tanto de sus contribuciones a la revelación. Finalmente, los representantes de la Sociedad que son sensatos y que trabajan en equipo contribuyen en gran medida al proceso deliberativo de la Asamblea. Cada Delegado debe haber leído _El Libro de Urantia_ en su totalidad.
 
-Representación inteligente y entrenada. La supervivencia de la democracia depende del éxito del gobierno representativo; y que está condicionada a la práctica de elegir para cargos públicos únicamente a personas técnicamente preparadas, intelectualmente competentes, socialmente leales y moralmente idóneas. [[LU 71:2.14](/es/The_Urantia_Book/71#p2_14)]
+Representación inteligente y entrenada. La supervivencia de la democracia depende del éxito del gobierno representativo; y que está condicionada a la práctica de elegir para cargos públicos únicamente a personas técnicamente preparadas, intelectualmente competentes, socialmente leales y moralmente idóneas. <a id="a231_308"></a>[[LU 71:2.14](/es/The_Urantia_Book/71#p2_14)]
 
 ## Esto y aquello
 
@@ -243,7 +243,7 @@ Como se anunció en la conferencia IC05, está disponible para descargar una ver
 
 Puede descargar y reproducir los archivos de audio MP3 en su computadora o copiarlos a un reproductor de MP3 portátil, como un iPod. La mayoría de los reproductores de MP3 portátiles recordarán dónde dejó de escuchar y comenzarán desde allí la próxima vez. La versión de audio MP3 gratuita de _El Libro de Urantia_ está disponible para su descarga en cuatro partes desde Internet Archive.
 
-> «La creencia fija, la fe libera». [[LU 101:8.2](/es/The_Urantia_Book/101#p8_2)]
+> «La creencia fija, la fe libera». <a id="a245_36"></a>[[LU 101:8.2](/es/The_Urantia_Book/101#p8_2)]
 
 ## Donación realizada para traducciones
 
@@ -276,7 +276,7 @@ Dorado, CO 80401
 
 Si envía documentos a Larry, comuníquese con él por correo electrónico o por teléfono para informarle que llegarán. Su número de teléfono es 303-278-9590.
 
-> «El conocimiento sólo se posee compartiéndolo;» [[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
+> «El conocimiento sólo se posee compartiéndolo;» <a id="a278_50"></a>[[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
 
 ## Próximos Eventos…
 

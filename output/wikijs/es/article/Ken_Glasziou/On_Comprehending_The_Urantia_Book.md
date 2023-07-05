@@ -42,7 +42,7 @@ Dichos lectores son entonces libres de determinar por sí mismos cómo los compo
 
 **Entonces, ¿cuál es el papel previsto de la información extraordinariamente profética que también se incluye en el texto de los Documentos?**: información como el radio del electrón descubierto por Stefan Tallqvist que habría sido bastante imposible de conocer para cualquier ser humano en el momento. momento de la primera publicación del libro. (ver artículo posterior [«El radio del electrón.»](/es/article/Stefan_Tallqvist/Radius_of_the_Electron))
 
-Parece que los autores de los Documentos se enfrentaron a una tarea del tipo de «equilibrio en el filo de la navaja». Los Documentos explican el valor de nuestro libre albedrío, «_En lo que concierne a la supervivencia eterna, Dios ha decretado que la voluntad material y humana es soberana, y ***este decreto es absoluto***._» ([LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
+Parece que los autores de los Documentos se enfrentaron a una tarea del tipo de «equilibrio en el filo de la navaja». Los Documentos explican el valor de nuestro libre albedrío, «_En lo que concierne a la supervivencia eterna, Dios ha decretado que la voluntad material y humana es soberana, y ***este decreto es absoluto***._» (<a id="a44_329"></a>[LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
 
 No se necesita una concentración excesiva para percibir cómo las demostraciones milagrosas de cualquier tipo pueden interferir con nuestro libre albedrío para elegir nuestro propio camino preferido en lugar de lo que podríamos percibir como el camino de Dios. La creencia en los milagros ha obligado a muchos cristianos a aceptar la ley mosaica en contra de los deseos de su propia voluntad.
 
@@ -54,7 +54,7 @@ Los reveladores también tuvieron la difícil tarea de desalentar el otorgamient
 
 Vistos bajo esta luz, los reveladores han cumplido su tarea magníficamente, hasta el punto de que incluso se les permitió incluir esta profecía en la última página de su presentación:
 
-> «_No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará._» ([LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> «_No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará._» (<a id="a56_135"></a>[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 > La inteligencia es rapidez para aprehender, a diferencia de la habilidad, que es la capacidad de actuar sabiamente sobre la cosa aprehendida.
 > _Alfred North Whitehead_

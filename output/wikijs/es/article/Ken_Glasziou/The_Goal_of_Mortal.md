@@ -40,7 +40,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 1. Escogiendo responder a la guía divina; basando sinceramente vuestra vida humana en vuestra conciencia más elevada sobre la verdad, la belleza y la bondad, y luego coordinar estas cualidades de la divinidad mediante la sabiduría, la adoración, la fe y el amor.
 > 2. Amando a Dios y deseando pareceros a él —el auténtico reconocimiento de la paternidad divina y la adoración amorosa del Padre celestial.
 > 3. Amando a los hombres y deseando sinceramente servirles —el reconocimiento sincero de la fraternidad de los hombres, unido a un afecto inteligente y sabio por cada uno de vuestros semejantes mortales.
-> 4. Aceptando alegremente la ciudadanía cósmica —el reconocimiento honrado de vuestras obligaciones progresivas hacia el Ser Supremo, la conciencia de la interdependencia del hombre evolutivo y de la Deidad en evolución. Es el nacimiento de la moralidad cósmica y la comprensión naciente del deber universal. ([LU 110:3.4-10](/es/The_Urantia_Book/110#p3_4))
+> 4. Aceptando alegremente la ciudadanía cósmica —el reconocimiento honrado de vuestras obligaciones progresivas hacia el Ser Supremo, la conciencia de la interdependencia del hombre evolutivo y de la Deidad en evolución. Es el nacimiento de la moralidad cósmica y la comprensión naciente del deber universal. (<a id="a42_311"></a>[LU 110:3.4-10](/es/The_Urantia_Book/110#p3_4))
 
 ## Enlaces externos
 

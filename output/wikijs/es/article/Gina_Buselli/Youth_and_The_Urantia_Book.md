@@ -94,7 +94,7 @@ Por último, espero abrazar a otras personas que tal vez se sientan demasiado ma
 {.is-info}
 
 
-> Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia... El alma del hombre tiene necesidad de ejercicio espiritual así como de alimento espiritual. [[LU 91:7.1-2](/es/The_Urantia_Book/91#p7_1)]
+> Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia... El alma del hombre tiene necesidad de ejercicio espiritual así como de alimento espiritual. <a id="a96_323"></a>[[LU 91:7.1-2](/es/The_Urantia_Book/91#p7_1)]
 
 
 

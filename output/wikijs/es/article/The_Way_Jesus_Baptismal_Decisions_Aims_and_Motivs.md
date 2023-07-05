@@ -72,11 +72,11 @@ Pero a los ojos de su Padre celestial, se había ganado su lugar como el Maestro
 
 ## Objetivos y motivos post-bautismales
 
-> «Había una sola motivación en la vida de Jesús en Urantia después de su bautismo, y era efectuar una revelación mejor y más verdadera de su Padre Paradisiaco». ([LU 138:6.4](/es/The_Urantia_Book/138#p6_4))
+> «Había una sola motivación en la vida de Jesús en Urantia después de su bautismo, y era efectuar una revelación mejor y más verdadera de su Padre Paradisiaco». (<a id="a74_163"></a>[LU 138:6.4](/es/The_Urantia_Book/138#p6_4))
 
 La vida de Jesús es un patrón de vida divinamente certificado para todos sus hijos del universo. A sus seguidores, dijo,
 
-> «¿No comprendéis que pronto, muy pronto, vais a representarme en el mundo y en la proclamación del reino, como yo represento ahora a mi Padre que está en los cielos?» ([LU 138:7.1](/es/The_Urantia_Book/138#p7_1))
+> «¿No comprendéis que pronto, muy pronto, vais a representarme en el mundo y en la proclamación del reino, como yo represento ahora a mi Padre que está en los cielos?» (<a id="a78_170"></a>[LU 138:7.1](/es/The_Urantia_Book/138#p7_1))
 
 Jesús no hizo concesiones al instruirnos acerca de la motivación de nuestra vida terrenal. Su motivo debe ser nuestro motivo, nuestras vidas terrenales deben representarlo a él como él representó al Padre, debemos emular las metas y propósitos de su vida, tal como él lo hizo, al intentar ser realmente, en nuestras actividades cotidianas, una revelación de la verdadera naturaleza de Dios, nuestro Padre. No se permite nada menos.
 

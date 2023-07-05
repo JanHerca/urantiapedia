@@ -36,9 +36,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <figcaption><em>Navegar por las cámaras solares requiere energía que el calcio atómico adquiere de la luz solar. Las bandas H y K se ven en la parte superior izquierda de este espectro hecho con un espectroheliógrafo de 14 pies.</em> <a href="https://www.researchgate.net/figure/Fraunhofer-lines-in-the-solar-spectrum.jpg">ResearchGate</a></figcaption>
 </figure>
 
-> [...] La impregnación local del espacio por parte del calcio se debe al hecho de que escapa de la fotosfera solar, en forma modificada, cabalgando literalmente los rayos de sol salientes. [...] [LU 41:6.3](/es/The_Urantia_Book/41#p6_3)
+> [...] La impregnación local del espacio por parte del calcio se debe al hecho de que escapa de la fotosfera solar, en forma modificada, cabalgando literalmente los rayos de sol salientes. [...] <a id="a38_196"></a>[LU 41:6.3](/es/The_Urantia_Book/41#p6_3)
 
-¿Cuántos de nosotros nos hemos asombrado con la sección de _El Libro de Urantia_ titulada [El calcio, el errante del espacio](/es/The_Urantia_Book/41#p6)? Pues bien, las principales fuentes humanas utilizadas en la composición de esta presentación se han descubierto gracias a las dotes únicas del lector Matthew Block y su utilización dedicada e implacable al rastrear algunos de los «conceptos humanos» ([LU 0:12.12](/es/The_Urantia_Book/0#p12_12)), «modelos de pensamiento humano» ([LU 121:8.12](/es/The_Urantia_Book/121#p8_12)) y «afirmaciones cosmológicas» definidas en el libro como «no inspiradas» ([LU 101:4.5](/es/The_Urantia_Book/101#p4_5)). Esta fuente es una «charla vespertina» de título «Estrellas y átomos», presentada por sir Arthur Eddington en la British Association de Oxford en agosto de 1926. Con la esperanza de que algún lector cualificado se inspire para hacer un análisis comparativo de los conceptos de Eddington y los de _El Libro de Urantia_ sobre la piedra errante del cosmos, se incluyen aquí los extractos más importantes de las charlas de Eddington. Según parece, están disponibles en microfilm en la universidad de Ohio, pero si fuera necesario podríamos proporcionar una copia desde Australia con lo que disponemos. 
+¿Cuántos de nosotros nos hemos asombrado con la sección de _El Libro de Urantia_ titulada <a id="a40_90"></a>[El calcio, el errante del espacio](/es/The_Urantia_Book/41#p6)? Pues bien, las principales fuentes humanas utilizadas en la composición de esta presentación se han descubierto gracias a las dotes únicas del lector Matthew Block y su utilización dedicada e implacable al rastrear algunos de los «conceptos humanos» (<a id="a40_406"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)), «modelos de pensamiento humano» (<a id="a40_485"></a>[LU 121:8.12](/es/The_Urantia_Book/121#p8_12)) y «afirmaciones cosmológicas» definidas en el libro como «no inspiradas» (<a id="a40_606"></a>[LU 101:4.5](/es/The_Urantia_Book/101#p4_5)). Esta fuente es una «charla vespertina» de título «Estrellas y átomos», presentada por sir Arthur Eddington en la British Association de Oxford en agosto de 1926. Con la esperanza de que algún lector cualificado se inspire para hacer un análisis comparativo de los conceptos de Eddington y los de _El Libro de Urantia_ sobre la piedra errante del cosmos, se incluyen aquí los extractos más importantes de las charlas de Eddington. Según parece, están disponibles en microfilm en la universidad de Ohio, pero si fuera necesario podríamos proporcionar una copia desde Australia con lo que disponemos. 
 
 De _«Estrellas y átomos»_ , por Sir Arthur Eddington: 
 
@@ -85,7 +85,7 @@ De _«Estrellas y átomos»_ , por Sir Arthur Eddington:
 
 > **Pregunta a los lectores**
 > 
-> _El Libro de Urantia_ ([LU 41:6.5](/es/The_Urantia_Book/41#p6_5)) da una cifra de una millonésima de segundo para el tiempo de relajación del estado excitado del calcio, comparada con la de Eddington de una cien millonésima de segundo. La cifra de _El Libro de Urantia_, ¿es un error tipográfico, de copia o similar, o es una corrección deliberada a los reveladores de los cálculos del profesor Milne? 
+> _El Libro de Urantia_ (<a id="a87_25"></a>[LU 41:6.5](/es/The_Urantia_Book/41#p6_5)) da una cifra de una millonésima de segundo para el tiempo de relajación del estado excitado del calcio, comparada con la de Eddington de una cien millonésima de segundo. La cifra de _El Libro de Urantia_, ¿es un error tipográfico, de copia o similar, o es una corrección deliberada a los reveladores de los cálculos del profesor Milne? 
 {.is-warning}
 
 ## Enlaces externos
@@ -126,6 +126,6 @@ De _«Estrellas y átomos»_ , por Sir Arthur Eddington:
 
 [^2]: _Nota del Traductor_: Una milla equivale a 1,524 km.
 
-[^3]: _Nota del Autor_: _El Libro de Urantia_, [LU 41:6.5](/es/The_Urantia_Book/41#p6_5), dice en una millonésima de segundo.
+[^3]: _Nota del Autor_: _El Libro de Urantia_, <a id="a128_47"></a>[LU 41:6.5](/es/The_Urantia_Book/41#p6_5), dice en una millonésima de segundo.
 
 [^4]: _Nota del Traductor_: Fecha de publicación del artículo.

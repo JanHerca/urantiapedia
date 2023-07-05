@@ -120,7 +120,7 @@ Jesús dijo a sus discípulos: Los asuntos temporales son asunto de los hombres 
 
 El Maestro era un espécimen perfecto de autocontrol humano. Cuando lo insultaban, no insultaba; cuando sufría, no pronunció amenazas; cuando fue denunciado, simplemente se entregó al justo juicio del Padre.
 
-> «Pero yo vengo con un nuevo mensaje de olvido de sí mismo y de dominio de sí mismo. Os muestro el camino de la vida tal como mi Padre que está en los cielos me lo ha revelado. ... Por medio de vuestro amor recíproco vais a convencer al mundo de que habéis pasado de la esclavitud a la libertad, de la muerte a la vida eterna». ([LU 143:2.2-3](/es/The_Urantia_Book/143#p2_2))
+> «Pero yo vengo con un nuevo mensaje de olvido de sí mismo y de dominio de sí mismo. Os muestro el camino de la vida tal como mi Padre que está en los cielos me lo ha revelado. ... Por medio de vuestro amor recíproco vais a convencer al mundo de que habéis pasado de la esclavitud a la libertad, de la muerte a la vida eterna». (<a id="a122_330"></a>[LU 143:2.2-3](/es/The_Urantia_Book/143#p2_2))
 
 ## Función del espíritu residente
 

@@ -36,7 +36,7 @@ dateCreated: 2022-09-27T00:55:39.184Z
 
 No es posible que el Espíritu pueda tener más bondad que el Padre, ya que toda bondad tiene su origen en el Padre, pero en los actos del Espíritu podemos comprender mejor tal bondad.
 
-> «¿Por qué me llamas bueno? Nadie es bueno sino Dios.» ([LU 196:2.2](/es/The_Urantia_Book/196#p2_2) )
+> «¿Por qué me llamas bueno? Nadie es bueno sino Dios.» (<a id="a38_57"></a>[LU 196:2.2](/es/The_Urantia_Book/196#p2_2) )
 
 El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la «voluntad del Padre que está en los cielos». El Dios de Jesús era al mismo tiempo «El Santo de Israel» y «El Padre viviente y amoroso que está en los cielos».
 

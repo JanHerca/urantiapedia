@@ -43,9 +43,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > 5. Dios debe ser una personalidad, puesto que es el Creador de toda personalidad y el destino de toda personalidad. La enseñanza de Jesús «Sed pues perfectos como vuestro Padre que está en los cielos es perfecto», había causado una enorme influencia sobre Rodán.
 > 
-> Cuando Rodán escuchó estos argumentos, dijo: «Estoy convencido. Reconoceré que Dios es una persona si me permitís modificar mi confesión de esta creencia atribuyendo al significado de personalidad un conjunto de valores más amplios, tales como sobrehumano, trascendental, supremo, infinito, eterno, final y universal. Ahora estoy convencido de que, aunque Dios debe ser infinitamente más que una personalidad, no puede ser nada menos. Estoy satisfecho de poner fin a la controversia y de aceptar a Jesús como la revelación personal del Padre y como la compensación de todas las lagunas de la lógica, la razón y la filosofía». ([LU 161:1.5-11](/es/The_Urantia_Book/161#p1_5))
+> Cuando Rodán escuchó estos argumentos, dijo: «Estoy convencido. Reconoceré que Dios es una persona si me permitís modificar mi confesión de esta creencia atribuyendo al significado de personalidad un conjunto de valores más amplios, tales como sobrehumano, trascendental, supremo, infinito, eterno, final y universal. Ahora estoy convencido de que, aunque Dios debe ser infinitamente más que una personalidad, no puede ser nada menos. Estoy satisfecho de poner fin a la controversia y de aceptar a Jesús como la revelación personal del Padre y como la compensación de todas las lagunas de la lógica, la razón y la filosofía». (<a id="a45_629"></a>[LU 161:1.5-11](/es/The_Urantia_Book/161#p1_5))
 
-> Sólo pueden experimentar la estabilidad de la personalidad aquellos que han descubierto y abrazado al Dios viviente como meta eterna de consecución infinita. ([LU 160:1.14](/es/The_Urantia_Book/160#p1_14))
+> Sólo pueden experimentar la estabilidad de la personalidad aquellos que han descubierto y abrazado al Dios viviente como meta eterna de consecución infinita. (<a id="a47_161"></a>[LU 160:1.14](/es/The_Urantia_Book/160#p1_14))
 
 ## Enlaces externos
 

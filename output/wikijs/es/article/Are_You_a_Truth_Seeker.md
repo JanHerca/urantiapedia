@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Los Documentos de Urantia elevan la verdad, y la búsqueda de la verdad, a niveles mucho más elevados que el simple esfuerzo por ser correcto, correcto o de acuerdo con la letra o la ley de la verdad. Redefinen la verdad como aquello que tiene «verdaderos significados en los niveles espirituales».
 
-> «La verdad se vuelve a veces confusa e incluso engañosa cuando es fragmentada, segregada, aislada y analizada con exceso. La verdad viviente sólo enseña bien al buscador de la verdad cuando es abrazada en su totalidad y como una realidad espiritual viviente, no como un hecho de la ciencia material o una inspiración de un arte intermedio». ([LU 195:5.2](/es/The_Urantia_Book/195#p5_2))
+> «La verdad se vuelve a veces confusa e incluso engañosa cuando es fragmentada, segregada, aislada y analizada con exceso. La verdad viviente sólo enseña bien al buscador de la verdad cuando es abrazada en su totalidad y como una realidad espiritual viviente, no como un hecho de la ciencia material o una inspiración de un arte intermedio». (<a id="a38_344"></a>[LU 195:5.2](/es/The_Urantia_Book/195#p5_2))
 
 Dirigiéndose a los creyentes durante su aparición resucitada en Fenicia, Jesús dijo: «Os alegráis de saber que el Hijo del Hombre ha resucitado de entre los muertos, porque así sabéis que vosotros y vuestros hermanos también sobreviviréis a la muerte mortal». La siguiente oración comienza con la palabra condicional, «pero».
 
@@ -50,7 +50,7 @@ El seguimiento de los comentarios introductorios de Jesús a los creyentes fenic
 
 Sin embargo, Jesús no dijo que nuestra supervivencia dependiera de que hubiésemos encontrado la verdad o que en realidad debiéramos haber encontrado a Dios. Él dijo que debemos estar buscando la verdad tanto como buscando encontrar a Dios. Debemos ser «probadores».
 
-> «El pan y el agua de la vida sólo se conceden a los que tienen hambre de la verdad y sed de rectitud —de Dios.» ([LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+> «El pan y el agua de la vida sólo se conceden a los que tienen hambre de la verdad y sed de rectitud —de Dios.» (<a id="a52_115"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
 Este requisito de tener hambre de verdad, de ser buscadores de la verdad, es digno de mucha atención. No podemos tener hambre y sed de verdades a medias. Contentarse con una verdad a medias es también contentarse con una falsedad a medias.
 
@@ -58,11 +58,11 @@ Pero la verdad absoluta simplemente no está disponible para nosotros, simples m
 
 Al describir el Espíritu de la Verdad, se nos dice: «Cada alma lo recibe de acuerdo con el amor por la verdad y la capacidad de captar y comprender las realidades espirituales».
 
-> «El espíritu conduce a toda la verdad; enseña la expansión y el constante crecimiento de una religión de progreso sin fin y de descubrimiento divino. Este nuevo instructor estará revelando siempre al creyente que busca la verdad aquello que estaba tan divinamente contenido en la persona y en la naturaleza del Hijo del Hombre». ([LU 194:3.8](/es/The_Urantia_Book/194#p3_8))
+> «El espíritu conduce a toda la verdad; enseña la expansión y el constante crecimiento de una religión de progreso sin fin y de descubrimiento divino. Este nuevo instructor estará revelando siempre al creyente que busca la verdad aquello que estaba tan divinamente contenido en la persona y en la naturaleza del Hijo del Hombre». (<a id="a60_332"></a>[LU 194:3.8](/es/The_Urantia_Book/194#p3_8))
 
 Hay un estado «último» que realmente es alcanzable aquí en Urantia por lo que somos.
 
-> «Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad». ([LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
+> «Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad». (<a id="a64_595"></a>[LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
 
 Entonces, aunque sea «per ardua ad astra», busquemos las estrellas.
 

@@ -60,7 +60,7 @@ Sin duda, hay muchas otras áreas en las que las ideas bíblicas/cristianas son 
 
 La Biblia y la teología cristiana contienen ideas ignoradas o rechazadas por _El Libro de Urantia_ de la siguiente manera:
 
-1. La Doctrina de la Expiación: La teología cristiana, basada en interpretaciones bíblicas, considera la muerte de Jesús en la cruz como un sacrificio para satisfacer la justicia de Dios. Los autores de _El Libro de Urantia_ encuentran este concepto particularmente odioso, llamándolo un «... idea bárbara...» ([LU 4:5.4](/es/The_Urantia_Book/4#p5_4)) [Para ser justos, debe decirse que muchos teólogos cristianos liberales han rechazado la interpretación sacrificial de la cruz, y consideran la palabra «Expiación» como indicativa de un estado de «Unión» con Dios.]
+1. La Doctrina de la Expiación: La teología cristiana, basada en interpretaciones bíblicas, considera la muerte de Jesús en la cruz como un sacrificio para satisfacer la justicia de Dios. Los autores de _El Libro de Urantia_ encuentran este concepto particularmente odioso, llamándolo un «... idea bárbara...» (<a id="a62_311"></a>[LU 4:5.4](/es/The_Urantia_Book/4#p5_4)) [Para ser justos, debe decirse que muchos teólogos cristianos liberales han rechazado la interpretación sacrificial de la cruz, y consideran la palabra «Expiación» como indicativa de un estado de «Unión» con Dios.]
 
 2. Infierno: _El Libro de Urantia_ no tiene tal lugar para el castigo temporal o eterno. La última consecuencia de la iniquidad es la no resurrección.
 

@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> «..los Espíritus Rectores son el canal séptuple del río de la vida que se derrama sobre toda la creación.» [LU 36:6.7](/es/The_Urantia_Book/36#p6_7)
+> «..los Espíritus Rectores son el canal séptuple del río de la vida que se derrama sobre toda la creación.» <a id="a43_109"></a>[LU 36:6.7](/es/The_Urantia_Book/36#p6_7)
 
 
 

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Los Documentos de Urantia asocian los procesos de formación de montañas y continentes a la deriva como responsables de la cadena de montañas en la costa oeste de las Américas que se extiende desde Alaska hasta lo más meridional de América del Sur. ([LU 60:3.2](/es/The_Urantia_Book/60#p3_2))
+Los Documentos de Urantia asocian los procesos de formación de montañas y continentes a la deriva como responsables de la cadena de montañas en la costa oeste de las Américas que se extiende desde Alaska hasta lo más meridional de América del Sur. (<a id="a36_249"></a>[LU 60:3.2](/es/The_Urantia_Book/60#p3_2))
 
 Los lectores modernos probablemente no piensen en esa declaración al pasar por ella. Pero hasta mediados de la década de 1950 e incluso más tarde, la deriva continental fue clasificada como una herejía prohibida entre la gran mayoría de los geólogos. Entonces, ¿por qué el comité hipotético de expertos lo incluyó como un factor importante para la construcción de montañas?
 
@@ -44,7 +44,7 @@ Hoy en día, solo aquellos versados ​​en los conceptos actuales de los detal
 
 Pero, ¿cuál hubiera sido la situación si todos sus detalles hubieran sido muy precisos?
 
-La respuesta que damos a esa pregunta refleja nuestro progreso en la comprensión de los propósitos de esta primera fase de nuestra carrera universal. La salvación, se nos dice, es por fe, y solo por fe. ([LU 141:7.6](/es/The_Urantia_Book/141#p7_6)) Comprender este hecho es apreciar las peculiaridades de estos Documentos de Urantia.
+La respuesta que damos a esa pregunta refleja nuestro progreso en la comprensión de los propósitos de esta primera fase de nuestra carrera universal. La salvación, se nos dice, es por fe, y solo por fe. (<a id="a46_204"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6)) Comprender este hecho es apreciar las peculiaridades de estos Documentos de Urantia.
 
 ## Enlaces externos
 

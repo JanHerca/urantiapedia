@@ -38,9 +38,9 @@ Hace unos días, estaba rebuscando en mi estantería y noté que mi antigua vers
 
 Esta Biblia en particular era una en la que la palabra hablada de Jesús estaba resaltada en tinta roja. Recordé que durante unos veinte años de mi vida, durante el período anterior a recibir una copia de _El Libro de Urantia_, había leído poco más en la Biblia que los componentes en tinta roja del Evangelio de Mateo.
 
-> Dijo a los apóstoles que sólo se preocupaba por los principios de la vida espiritual interior y personal del hombre. ([LU 140:8.9](/es/The_Urantia_Book/140#p8_9))
+> Dijo a los apóstoles que sólo se preocupaba por los principios de la vida espiritual interior y personal del hombre. (<a id="a40_120"></a>[LU 140:8.9](/es/The_Urantia_Book/140#p8_9))
 
-> Se descubre pues que las bienaventuranzas del Sermón de la Montaña están basadas en la fe y el amor, y no en la ley —en la ética y el deber. ([LU 140:5.23](/es/The_Urantia_Book/140#p5_23))
+> Se descubre pues que las bienaventuranzas del Sermón de la Montaña están basadas en la fe y el amor, y no en la ley —en la ética y el deber. (<a id="a42_144"></a>[LU 140:5.23](/es/The_Urantia_Book/140#p5_23))
 
 Otro recuerdo que me vino a la mente fue mi perplejidad de que tantos líderes de la iglesia reconocieran que el Sermón del Monte era una excelente obra de ética, pero sin embargo sintieron que tenía poco que ver con la religión cristiana. Para mí, fue el corazón y el alma de la palabra hablada de Jesús. Examina la literatura de la humanidad y aún hoy sigue siendo cierto: ningún otro hombre habló así.
 
@@ -48,11 +48,11 @@ _El Libro de Urantia_ me fue entregado alrededor de 1970 con una solicitud de mi
 
 Este último recuerdo estimuló otra respuesta. Recogí mi copia de Big Blue, fui al periódico sobre la Ordenación y pronto confirmé que realmente es el corazón y el alma de la vida y la enseñanza de Jesús:
 
-> «La enseñanza de Jesús es una religión para todos, ... Su vida y sus enseñanzas fueron legadas al universo como una herencia inspiradora e ideal, adecuada para la orientación espiritual y la instrucción moral de todas las épocas **en todos los mundos.** Incluso hoy en día, las enseñanzas de Jesús se mantienen apartadas de todas las religiones, como tales, aunque son la esperanza viviente de cada una de ellas.» ([LU 140:8.29](/es/The_Urantia_Book/140#p8_29))
+> «La enseñanza de Jesús es una religión para todos, ... Su vida y sus enseñanzas fueron legadas al universo como una herencia inspiradora e ideal, adecuada para la orientación espiritual y la instrucción moral de todas las épocas **en todos los mundos.** Incluso hoy en día, las enseñanzas de Jesús se mantienen apartadas de todas las religiones, como tales, aunque son la esperanza viviente de cada una de ellas.» (<a id="a50_417"></a>[LU 140:8.29](/es/The_Urantia_Book/140#p8_29))
 
-> «Los apóstoles no percibían que **su Maestro estaba ocupado en vivir una vida de inspiración espiritual para todas las personas de todas las épocas en todos los mundos de un vasto universo.** A pesar de lo que Jesús les decía de vez en cuando, los apóstoles no captaban la idea de que estaba efectuando una labor *en* este mundo, pero *para* todos los otros mundos de su inmensa creación. Jesús vivió su vida terrestre en Urantia, no para establecer un ejemplo personal de vida mortal para los hombres y mujeres de este mundo, sino más bien para crear *un ideal altamente espiritual e inspirador* **para todos los seres mortales de todos los mundos.**» ( [LU 140:10.3](/es/The_Urantia_Book/140#p10_3))
+> «Los apóstoles no percibían que **su Maestro estaba ocupado en vivir una vida de inspiración espiritual para todas las personas de todas las épocas en todos los mundos de un vasto universo.** A pesar de lo que Jesús les decía de vez en cuando, los apóstoles no captaban la idea de que estaba efectuando una labor *en* este mundo, pero *para* todos los otros mundos de su inmensa creación. Jesús vivió su vida terrestre en Urantia, no para establecer un ejemplo personal de vida mortal para los hombres y mujeres de este mundo, sino más bien para crear *un ideal altamente espiritual e inspirador* **para todos los seres mortales de todos los mundos.**» ( <a id="a52_657"></a>[LU 140:10.3](/es/The_Urantia_Book/140#p10_3))
 
-> «No es de extrañar que estos apóstoles no comprendieran plenamente las palabras del Maestro, porque **estaba delineando ante ellos el plan de una nueva era.**» ([LU 141:7.15](/es/The_Urantia_Book/141#p7_15))
+> «No es de extrañar que estos apóstoles no comprendieran plenamente las palabras del Maestro, porque **estaba delineando ante ellos el plan de una nueva era.**» (<a id="a54_163"></a>[LU 141:7.15](/es/The_Urantia_Book/141#p7_15))
 
 Sí, la vida y las enseñanzas de Jesús, tal como se transmiten en esas secciones de tinta roja de mi Evangelio de Mateo, han estado disponibles para el cristianismo durante la mayor parte de los 2000 años. Durante todo ese período, la humanidad ha sido bendecida con la verdad de la revelación viviente de Jesús sobre la verdadera naturaleza de nuestro Padre-Dios. Sin embargo, muy pocos realmente han entendido.
 
@@ -66,9 +66,9 @@ Otro punto que noté sobre esta presentación es que rara vez se expresan opinio
 
 Antes de salir de estos meandros de la mente a través del «tiempo de los sueños», surgió una pregunta más de quién sabe dónde. ¿Cuál habría sido el efecto si el fuego hubiera destruido por casualidad todos menos uno de los Documentos de Urantia antes de su publicación? ¿Cuál espero que sea? La respuesta a tal pregunta puede variar según la experiencia previa del individuo. Para mí, si solo un Documento pudiera sobrevivir, mi elección tendría que ser el que cubre la ordenación.
 
-> La valentía era el centro mismo de sus enseñanzas. Su consigna era «No temáis», y el aguante paciente era su ideal de la fuerza de carácter. ([LU 140:8.20](/es/The_Urantia_Book/140#p8_20))
+> La valentía era el centro mismo de sus enseñanzas. Su consigna era «No temáis», y el aguante paciente era su ideal de la fuerza de carácter. (<a id="a68_144"></a>[LU 140:8.20](/es/The_Urantia_Book/140#p8_20))
 
-> Tened fe —tened confianza en el triunfo final de la justicia divina y de la bondad eterna. ([LU 140:8.8](/es/The_Urantia_Book/140#p8_8))
+> Tened fe —tened confianza en el triunfo final de la justicia divina y de la bondad eterna. (<a id="a70_94"></a>[LU 140:8.8](/es/The_Urantia_Book/140#p8_8))
 
 ## Las bienaventuranzas, ¿qué eran?
 
@@ -90,11 +90,11 @@ La última del grupo de "fe" de las bienaventuranzas es la de ser "puro de coraz
 
 Este primer grupo está destinado a ayudarnos a "ver a Dios por la fe", a adquirir la percepción espiritual que mejora la guía del Ajustador, a aumentar la conciencia de Dios y a confirmar nuestra fe de que somos hijos amados de Dios. Con todo esto bien desarrollado, los seres humanos de ambos sexos están capacitados para amar al prójimo con el aspecto «paternal» del amor que está mucho más preocupado por el progreso espiritual final de nuestros semejantes que por su cuota de comodidad material en este mundo.
 
-Los Documentos nos informan que cuando partimos hacia los mundos de estancia, nuestra alma es lo que sobrevive de la vida mortal. Pero las experiencias mundanas que contribuyeron a la construcción de esa alma consisten únicamente en aquellas experiencias que nuestro Ajustador del Pensamiento consideró que tenían valor y significado espiritual. ([LU 112:5.22](/es/The_Urantia_Book/112#p5_22)) Por lo que el «amor paternal» debe estar más preocupado por ayudar a construir el alma del prójimo que por satisfacer las meras necesidades materiales.
+Los Documentos nos informan que cuando partimos hacia los mundos de estancia, nuestra alma es lo que sobrevive de la vida mortal. Pero las experiencias mundanas que contribuyeron a la construcción de esa alma consisten únicamente en aquellas experiencias que nuestro Ajustador del Pensamiento consideró que tenían valor y significado espiritual. (<a id="a92_347"></a>[LU 112:5.22](/es/The_Urantia_Book/112#p5_22)) Por lo que el «amor paternal» debe estar más preocupado por ayudar a construir el alma del prójimo que por satisfacer las meras necesidades materiales.
 
-> El amor paternal se complace en devolver el bien por el mal —en hacer el bien como pago a la injusticia. ([LU 140:5.24](/es/The_Urantia_Book/140#p5_24))
+> El amor paternal se complace en devolver el bien por el mal —en hacer el bien como pago a la injusticia. (<a id="a94_108"></a>[LU 140:5.24](/es/The_Urantia_Book/140#p5_24))
 
-> No acumuléis tesoros en la Tierra, sino que, mediante vuestro servicio desinteresado, guardad tesoros en el cielo. ([LU 140:6.11](/es/The_Urantia_Book/140#p6_11))
+> No acumuléis tesoros en la Tierra, sino que, mediante vuestro servicio desinteresado, guardad tesoros en el cielo. (<a id="a96_118"></a>[LU 140:6.11](/es/The_Urantia_Book/140#p6_11))
 
 Los cuatro componentes del grupo de bienaventuranzas del «amor paternal» son las actitudes emocionales de ternura, misericordia, amor por la paz y actitudes ante las dificultades. La ternura de corazón se relaciona con ser sensible y receptivo a las necesidades humanas, particularmente aquellas necesidades reales del alma y salvaguardarlas de la destructividad de la ira, el odio y la sospecha.
 
@@ -110,15 +110,15 @@ La última de las cuatro bienaventuranzas se relaciona con nuestra actitud ante 
 
 Las bienaventuranzas y la discusión sobre la ordenación señalan el camino para prepararnos como aspirantes a discípulos de Jesús, con el papel eventual de convertirnos en ejemplos vivos de cómo es realmente el amor de Dios, una conclusión ampliamente ilustrada en el discurso posterior a la resurrección de Jesús a sus seguidores en Alejandría:
 
-> «Este evangelio del reino pertenece tanto a los judíos como a los gentiles, a los ricos y a los pobres, a los libres y a los esclavos, a los hombres y a las mujeres, e incluso a los niños pequeños. Todos debéis proclamar este evangelio de amor y de verdad mediante la vida que vivís en la carne. Os amaréis los unos a los otros con un afecto nuevo y sorprendente, tal como yo os he amado. Serviréis a la humanidad con una devoción nueva y extraordinaria, tal como yo os he servido. Cuando los hombres vean que los amáis así, y cuando observen el fervor con que los servís, percibirán que sois hermanos por la fe en el reino de los cielos, y seguirán al Espíritu de la Verdad que verán en vuestra vida, hasta que encuentren la salvación eterna.» ([LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
+> «Este evangelio del reino pertenece tanto a los judíos como a los gentiles, a los ricos y a los pobres, a los libres y a los esclavos, a los hombres y a las mujeres, e incluso a los niños pequeños. Todos debéis proclamar este evangelio de amor y de verdad mediante la vida que vivís en la carne. Os amaréis los unos a los otros con un afecto nuevo y sorprendente, tal como yo os he amado. Serviréis a la humanidad con una devoción nueva y extraordinaria, tal como yo os he servido. Cuando los hombres vean que los amáis así, y cuando observen el fervor con que los servís, percibirán que sois hermanos por la fe en el reino de los cielos, y seguirán al Espíritu de la Verdad que verán en vuestra vida, hasta que encuentren la salvación eterna.» (<a id="a112_748"></a>[LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
 
 El plan de Jesús para una nueva era se resume sucintamente en el sermón de ordenación. Se trata de multitudes de sus seguidores dedicando sus propias vidas en un esfuerzo por convertirse en ejemplos espirituales vivientes de la forma en que Jesús vivió su vida terrenal: una revelación perfecta de la verdadera naturaleza de nuestro Padre Universal tal como es comprensible para el hombre.
 
-El sermón de ordenación y las explicaciones que le siguen presentan el plan. El resto de la revelación de Urantia es meramente subsidiario de esta tarea, siendo predominantemente una ayuda para nuestra comprensión y proporcionando un marco universal en el que podemos pensar ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1)).
+El sermón de ordenación y las explicaciones que le siguen presentan el plan. El resto de la revelación de Urantia es meramente subsidiario de esta tarea, siendo predominantemente una ayuda para nuestra comprensión y proporcionando un marco universal en el que podemos pensar (<a id="a116_276"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1)).
 
 Este comentario se encuentra justo después del sermón.
 
-«Sin una meta que merezca la pena, la vida carece de objetivo y de provecho, lo que ocasiona mucha infelicidad. El discurso de Jesús en la ordenación de los doce constituye **una filosofía magistral de la vida**.» ([LU 140:4.9](/es/The_Urantia_Book/140#p4_9)) El sermón de ordenación sigue completo.
+«Sin una meta que merezca la pena, la vida carece de objetivo y de provecho, lo que ocasiona mucha infelicidad. El discurso de Jesús en la ordenación de los doce constituye **una filosofía magistral de la vida**.» (<a id="a120_215"></a>[LU 140:4.9](/es/The_Urantia_Book/140#p4_9)) El sermón de ordenación sigue completo.
 
 > Debéis recordar otra vez que sois mis mensajeros; estáis obligados a vivir vuestra vida como yo he vivido la mía en espíritu. (1571)
 

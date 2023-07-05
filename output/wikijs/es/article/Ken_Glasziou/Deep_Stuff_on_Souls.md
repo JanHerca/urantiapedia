@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-El alma en evolución del hombre mortal se crea a partir de «posibilidades» preexistentes dentro del Supremo (ver [LU 117:5.11](/es/The_Urantia_Book/117#p5_11)).
+El alma en evolución del hombre mortal se crea a partir de «posibilidades» preexistentes dentro del Supremo (ver <a id="a36_113"></a>[LU 117:5.11](/es/The_Urantia_Book/117#p5_11)).
 
 Esa declaración plantea más preguntas de las que responde. ¿Cómo sucede esto? ¿Cómo, de qué y de dónde surgen estas «posibilidades»? ¿Cómo llegaron a estar dentro del Supremo, que es «el Supremo», y cómo obtenemos estas «posibilidades» para construir nuestras almas? Pero primero, ¿qué son estas cosas llamadas "posibilidades"?
 
@@ -68,11 +68,11 @@ Cualquiera que sea la fuente de nuestros dilemas, estos son parte de las «posib
 
 Los siete espíritus auxiliares de la mente que son tan importantes para nuestro crecimiento reciben nombres en consonancia con su propósito: intuición, comprensión, coraje, conocimiento, consejo, adoración y sabiduría. Aunque los ayudantes tienen un aura de ser personal, no son entidades reales. Se nos dice que son más como circuitos, pero esa habría sido una analogía acuñada a mediados de los años treinta. Quizás el concepto de "campo", tal como se ha vuelto importante en la física cuántica, ahora podría ser una mejor descripción.
 
-En realidad, los ayudantes son niveles de conciencia del Espíritu Madre del Universo ([LU 36:5.4](/es/The_Urantia_Book/36#p5_4)) quien es la fuente directa de nuestras mentes individuales. Se nos informa que no hay influencias comparables a los espíritus ayudantes de la mente una vez que partimos de esta Tierra.
+En realidad, los ayudantes son niveles de conciencia del Espíritu Madre del Universo (<a id="a70_86"></a>[LU 36:5.4](/es/The_Urantia_Book/36#p5_4)) quien es la fuente directa de nuestras mentes individuales. Se nos informa que no hay influencias comparables a los espíritus ayudantes de la mente una vez que partimos de esta Tierra.
 
 Pero aunque nos apartemos para siempre de su presencia, nuestras almas poseerán un carácter continuo derivado de las decisiones que tomamos durante nuestra asociación con la mente ayudante.
 
-> La volición espiritual es la autoidentificación con la voluntad de Dios. ([LU 118:6.6](/es/The_Urantia_Book/118#p6_6))
+> La volición espiritual es la autoidentificación con la voluntad de Dios. (<a id="a74_76"></a>[LU 118:6.6](/es/The_Urantia_Book/118#p6_6))
 
 ## Enlaces externos
 

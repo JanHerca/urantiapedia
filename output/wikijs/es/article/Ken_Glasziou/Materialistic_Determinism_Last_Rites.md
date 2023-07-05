@@ -68,7 +68,7 @@ A nivel macro, nuestro mundo parece sólido, predecible, confiable. Pero justo d
 
 De hecho, somos afortunados de vivir en estos tiempos emocionantes en los que nuestro mundo puede tener sentido, Dios se ha convertido tanto en una posibilidad como en una probabilidad, y podemos saber con certeza que tenemos el libre albedrío para dejar una huella en el futuro de nuestro futuro. .
 
-> Cuando el hombre busca la verdad, persigue aquello que es divinamente real. ([LU 2:7.4](/es/The_Urantia_Book/2#p7_4))
+> Cuando el hombre busca la verdad, persigue aquello que es divinamente real. (<a id="a70_79"></a>[LU 2:7.4](/es/The_Urantia_Book/2#p7_4))
 
 ## Enlaces externos
 

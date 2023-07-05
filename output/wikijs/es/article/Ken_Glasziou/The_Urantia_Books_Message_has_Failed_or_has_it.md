@@ -39,7 +39,7 @@ Para justificar un cambio significativo, primero debemos admitir que nuestro enf
 > La carrera no es de los veloces ni la batalla de los fuertes.
 > [Eclesiastés IX, 2](/es/Bible/Ecclesiastes/9#v2)
 
-> No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará. ([LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará. (<a id="a41_131"></a>[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 Esto fue en 1987, incluso antes de que el desorden actual empeorara las cosas. Jim dijo directamente que, en su opinión, _El Libro de Urantia_ ya había fracasado y que, en algún momento en el futuro, los reveladores tendrían que intentarlo de nuevo. Sin embargo, **el libro mismo afirma que la revelación tendrá éxito**, por lo que seguramente es demasiado pronto para darse por vencido todavía. El documento 195 dice: «... las verdades del evangelio de Jesús persistirán gloriosamente para iluminar un camino nuevo y mejor».
 
@@ -49,7 +49,7 @@ Pero antes de rendirme, hay dos cosas de las que estoy seguro. Una es que el cri
 
 Mi segundo punto seguro es que la reforma del cristianismo era la principal esperanza de los reveladores para el éxito de su revelación. Creo que eran muy conscientes de que el cristianismo no aceptaría fácilmente una nueva revelación, y que quienes la aceptaran tendrían que encontrar la manera de presentarla al rebaño. Ellos nos dicen:
 
-> «Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista». ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+> «Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista». (<a id="a51_386"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
 Así que, por favor, no seamos como la mayoría de la cosecha actual de cristianos con los pies puestos en el cemento. Afrontemos la realidad. Porque en consideración al estado degenerado de la sociedad occidental y por el bien de las nuevas generaciones que crecen sin Dios y sin sentido en sus vidas, **¿no sería un crimen contra la humanidad no hacerlo?**
 

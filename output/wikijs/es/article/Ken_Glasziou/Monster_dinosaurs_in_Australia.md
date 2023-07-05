@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Los Documentos afirman que monstruosos restos de dinosaurios yacen enterrados en América, Europa occidental, Sudáfrica, India, pero no en Australia. ([LU 60:2.2](/es/The_Urantia_Book/60#p2_2)) Los fósiles de dinosaurios se encuentran en Australia, pero hasta el presente (1998), ninguno es de la clase de los monstruos. Cuando se escribieron los Documentos, casi no había conocimiento disponible en Australia sobre sus dinosaurios. Entonces, ¿sobre qué evidencia arriesgaron los expertos su conjetura? Estar equivocado haría que el libro pareciera ridículo. Pero hace poco para impresionar a los lectores, incluso si es correcto.
+Los Documentos afirman que monstruosos restos de dinosaurios yacen enterrados en América, Europa occidental, Sudáfrica, India, pero no en Australia. (<a id="a36_150"></a>[LU 60:2.2](/es/The_Urantia_Book/60#p2_2)) Los fósiles de dinosaurios se encuentran en Australia, pero hasta el presente (1998), ninguno es de la clase de los monstruos. Cuando se escribieron los Documentos, casi no había conocimiento disponible en Australia sobre sus dinosaurios. Entonces, ¿sobre qué evidencia arriesgaron los expertos su conjetura? Estar equivocado haría que el libro pareciera ridículo. Pero hace poco para impresionar a los lectores, incluso si es correcto.
 
 ## Enlaces externos
 

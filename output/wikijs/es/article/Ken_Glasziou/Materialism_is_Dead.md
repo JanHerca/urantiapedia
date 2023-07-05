@@ -177,13 +177,13 @@ Otro aspecto de la mente es la mente no enseñable o mecánica. Es la «mente» 
 
 Cuando se recibieron los Documentos en el período 1920-35, solo un puñado de físicos tenía algún conocimiento real del conflicto entre la visión materialista-determinista clásica de la realidad y la visión probabilística sostenida, y luego confirmada experimentalmente, por los teóricos cuánticos. Entonces, ¿qué dicen los papeles?
 
-> «Estos tres Absolutos de potencialidad deben ser las presencias en el exterior del universo que hacen que sea imposible para los físicos predecir con certeza». ([LU 4:1.9](/es/The_Urantia_Book/4#p1_9))
+> «Estos tres Absolutos de potencialidad deben ser las presencias en el exterior del universo que hacen que sea imposible para los físicos predecir con certeza». (<a id="a179_163"></a>[LU 4:1.9](/es/The_Urantia_Book/4#p1_9))
 
-> «Los agentes de la Fuente-Centro Tercera son las palancas inteligentes que motivan el nivel material e inyectan la espontaneidad en el mecanismo de la creación física». ([LU 9:3.8](/es/The_Urantia_Book/9#p3_8))
+> «Los agentes de la Fuente-Centro Tercera son las palancas inteligentes que motivan el nivel material e inyectan la espontaneidad en el mecanismo de la creación física». (<a id="a181_172"></a>[LU 9:3.8](/es/The_Urantia_Book/9#p3_8))
 
-> «Puesto que la mente coordina el universo, la fijeza de los mecanismos no existe. El fenómeno de la evolución progresiva, asociado con el automantenimiento cósmico, es universal. La capacidad evolutiva del > universo es inagotable en la infinidad de la espontaneidad». ([LU 42:11.7](/es/The_Urantia_Book/42#p11_7))
+> «Puesto que la mente coordina el universo, la fijeza de los mecanismos no existe. El fenómeno de la evolución progresiva, asociado con el automantenimiento cósmico, es universal. La capacidad evolutiva del > universo es inagotable en la infinidad de la espontaneidad». (<a id="a183_272"></a>[LU 42:11.7](/es/The_Urantia_Book/42#p11_7))
 
-> «El universo finito de la materia se volvería finalmente uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales». ([LU 195:6.15](/es/The_Urantia_Book/195#p6_15))
+> «El universo finito de la materia se volvería finalmente uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales». (<a id="a185_256"></a>[LU 195:6.15](/es/The_Urantia_Book/195#p6_15))
 
 De lo cual se puede discernir que quienquiera que haya escrito los Documentos de Urantia era plenamente consciente de estos fundamentos mucho antes de que la ciencia y su evidencia empírica comenzaran a revelar hechos experimentalmente demostrables.
 

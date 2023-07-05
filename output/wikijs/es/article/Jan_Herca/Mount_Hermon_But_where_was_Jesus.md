@@ -12,7 +12,7 @@ Autor: **Jan Herca**
 
 Con tantos detalles como ofrece _El Libro de Urantia_ sobre el lugar donde permaneció Jesús retirado seis semanas, no podía resultar muy difícil ubicar el lugar y hacerse un poco a la idea de cómo es y sobre todo, como fue.
 
-En [LU 134:8](/es/The_Urantia_Book/134#p8) («Los años de transición»), se nos dice que Jesús y Tiglat construyeron un depósito de piedra en un lugar situado a 2000 metros de altitud. También se nos comenta que para ascender hasta allí pasaron por una aldea conocida entonces como Beit Jenn.[^1] [^2]
+En <a id="a14_3"></a>[LU 134:8](/es/The_Urantia_Book/134#p8) («Los años de transición»), se nos dice que Jesús y Tiglat construyeron un depósito de piedra en un lugar situado a 2000 metros de altitud. También se nos comenta que para ascender hasta allí pasaron por una aldea conocida entonces como Beit Jenn.[^1] [^2]
 
 No me costó mucho encontrar Beit Jenn en un mapa. En una carta general del Líbano a escala 1:200.000 del Instituto Geográfico Nacional[^3] francés aparecía clarísima la aldea, que todavía hoy existe y se llama Beït Jinn. Además, cerca de la aldea se alza una cumbre de 2224 metros (pero no es la cumbre más alta, que se alza hasta los 2814 metros). Era fácil suponer que la ascensión de Jesús a la que se refiere _El Libro de Urantia_ es esta «pequeña» cumbre. Consultando otros datos, averigüé que en total, desde Beit Jenn, que está situado a 1100 metros, fueron unos 900 metros de ascensión hasta el lugar en el que construyeron el depósito de alimentos.
 

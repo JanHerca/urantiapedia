@@ -80,7 +80,7 @@ Bueno, porque si estás leyendo _El Libro de Urantia_ sabes lo que significa ten
 
 Además, probablemente hayas experimentado la búsqueda ardiente de significado y sepas lo bien que se siente encontrar enseñanzas espirituales que realmente tengan sentido. Probablemente recuerde cómo se siente al preguntarse: «¿Dios es realmente así?» «¿Quién soy y cómo encajo?» «¿Cuál es el valor y el propósito de mi vida?» «¿Por qué Dios permite que exista el mal?» «¿Por qué Dios permite que la gente buena sufra?» Sabes lo confuso que puede ser cuando, en el proceso de cuestionamiento sincero, uno se enfrenta a la rigidez del fundamentalismo dogmático por un lado y al vacío de la ciencia secular sin fe por el otro.
 
-Jesús describió bien el dolor de la búsqueda cuando dijo conmovedoramente, «_El mundo está lleno de almas hambrientas que se mueren de hambre delante mismo del pan de la vida; los hombres se mueren buscando al mismo Dios que vive dentro de ellos. Los hombres buscan los tesoros del reino con un corazón anhelante y unos pasos cansados, cuando todos se encuentran al alcance inmediato de la fe viviente._» [[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
+Jesús describió bien el dolor de la búsqueda cuando dijo conmovedoramente, «_El mundo está lleno de almas hambrientas que se mueren de hambre delante mismo del pan de la vida; los hombres se mueren buscando al mismo Dios que vive dentro de ellos. Los hombres buscan los tesoros del reino con un corazón anhelante y unos pasos cansados, cuando todos se encuentran al alcance inmediato de la fe viviente._» <a id="a82_405"></a>[[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
 
 Aquellos de nosotros que tenemos la bendición de tener esta asombrosa revelación en nuestras vidas sabemos cómo se siente tener respuestas lógicas y satisfactorias a las preguntas más desconcertantes de la vida. Quienes leemos _El Libro de Urantia_ no tenemos que temer a la muerte, ni ver el mundo como un desastre sin esperanza, ni pensar en Dios como un monarca ofendido, un gobernante severo y todopoderoso cuyo principal placer es detectar a sus súbditos en sus fechorías y para asegurarse de que sean debidamente castigados. Se nos ha dado un regalo precioso al liberarnos completamente de estas creencias embrutecedoras.
 
@@ -142,7 +142,7 @@ Los concejales Paul M. Anderson de Boston y Guillermo Deoto de Florida, que fuer
 **Avi Dogim** ha sido lector desde la década de 1970 y ha servido a la Fellowship en muchas capacidades desde entonces. Es miembro fundador de la Sociedad de Nueva York, expresidente de los Comités de Publicaciones y Membresía de la Fellowship, expresidente de la Fellowship y miembro actual del Comité Judicial. Siente que, si bien la Fellowship ya ha hecho mucho por difundir las enseñanzas de _El Libro de Urantia_, tiene potencial para lograr mucho más a través de un trabajo en equipo cada vez más eficaz.
 
 
-> «Y condúcenos en todo momento por el sendero del servicio afectuoso.». [[LU 144:5.62](/es/The_Urantia_Book/144#p5_62)]
+> «Y condúcenos en todo momento por el sendero del servicio afectuoso.». <a id="a144_73"></a>[[LU 144:5.62](/es/The_Urantia_Book/144#p5_62)]
 
 
 ## Sociedades en acción

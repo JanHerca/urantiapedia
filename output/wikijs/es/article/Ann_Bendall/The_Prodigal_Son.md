@@ -39,11 +39,11 @@ El hijo pródigo había visto el otro lado de la vida, y mayor, más sabio, más
 
 La historia termina con el padre apelando a su infeliz hijo:
 
-> «Como este padre amaba realmente a sus dos hijos, intentó razonar con el mayor: ‘Pero hijo mío, has estado conmigo todo este tiempo, y todo lo que poseo es tuyo. Hubieras podido coger un cabrito en cualquier momento que hubieras hecho amigos con quienes compartir tu alegría. Pero ahora es sencillamente apropiado que te unas a mí en la alegría y el regocijo por el regreso de tu hermano. Piensa en ello, hijo mío, tu hermano se había perdido y ha sido encontrado; ¡ha regresado vivo a nosotros!’» [LU 169:1.13](/es/The_Urantia_Book/169#p1_13)
+> «Como este padre amaba realmente a sus dos hijos, intentó razonar con el mayor: ‘Pero hijo mío, has estado conmigo todo este tiempo, y todo lo que poseo es tuyo. Hubieras podido coger un cabrito en cualquier momento que hubieras hecho amigos con quienes compartir tu alegría. Pero ahora es sencillamente apropiado que te unas a mí en la alegría y el regocijo por el regreso de tu hermano. Piensa en ello, hijo mío, tu hermano se había perdido y ha sido encontrado; ¡ha regresado vivo a nosotros!’» <a id="a41_500"></a>[LU 169:1.13](/es/The_Urantia_Book/169#p1_13)
 
 ¡Ojalá ese no hubiera sido el final de la historia! Otro breve párrafo en el que el hijo mayor entra, le da un gran abrazo al hijo pródigo y le dice: «¡Qué bueno tenerte de vuelta en casa!» Habría sido un final feliz muy bonito. Sin embargo, fue una de esas historias que dejaron un sentimiento triste en mi corazón.
 
-Ahora sé que Jesús contó parábolas para que todos pudiéramos obtener lo que deseábamos de lo que simbolizaban. También aprecio que la parábola del hijo pródigo tiene algunos mensajes importantes. Y se nos dice que le encantaba contar esta parábola del hijo perdido, «_la acogida del pródigo que regresa, para mostrar cuán completo es el restablecimiento del hijo perdido en la casa y en el corazón de su padre._» [LU 169:1.15](/es/The_Urantia_Book/169#p1_15)
+Ahora sé que Jesús contó parábolas para que todos pudiéramos obtener lo que deseábamos de lo que simbolizaban. También aprecio que la parábola del hijo pródigo tiene algunos mensajes importantes. Y se nos dice que le encantaba contar esta parábola del hijo perdido, «_la acogida del pródigo que regresa, para mostrar cuán completo es el restablecimiento del hijo perdido en la casa y en el corazón de su padre._» <a id="a45_413"></a>[LU 169:1.15](/es/The_Urantia_Book/169#p1_15)
 
 Y así emprendo una versión de Cecilia Ann del hijo pródigo.
 

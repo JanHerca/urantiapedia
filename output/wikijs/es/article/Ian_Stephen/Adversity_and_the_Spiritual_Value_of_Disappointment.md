@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-_El Libro de Urantia_ nos dice que «Jesús habló durante más de una hora a los grupos reunidos sobre ‘La misión de la adversidad y el valor espiritual de la decepción’». ([LU 151:0.1](/es/The_Urantia_Book/151#p0_1))
+_El Libro de Urantia_ nos dice que «Jesús habló durante más de una hora a los grupos reunidos sobre ‘La misión de la adversidad y el valor espiritual de la decepción’». (<a id="a36_170"></a>[LU 151:0.1](/es/The_Urantia_Book/151#p0_1))
 
 Llevo poco tiempo estudiando _El Libro de Urantia_, pero cuando leí este pasaje me di cuenta de que tenía un gran significado para mí, de que me relacionaba con él.
 

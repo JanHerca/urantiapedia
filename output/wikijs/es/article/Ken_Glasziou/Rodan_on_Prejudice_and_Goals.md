@@ -50,7 +50,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Todas las filosofías y religiones que estén por debajo de estos ideales son inmaduras.
 > 
-> La filosofía que yo enseño, unida al evangelio que vosotros predicáis, representa la nueva religión de la madurez, el ideal de todas las generaciones futuras. Y esto es verdad porque nuestro ideal es definitivo, infalible, eterno, universal, absoluto e infinito. ([LU 160:1.13](/es/The_Urantia_Book/160#p1_13))
+> La filosofía que yo enseño, unida al evangelio que vosotros predicáis, representa la nueva religión de la madurez, el ideal de todas las generaciones futuras. Y esto es verdad porque nuestro ideal es definitivo, infalible, eterno, universal, absoluto e infinito. (<a id="a52_266"></a>[LU 160:1.13](/es/The_Urantia_Book/160#p1_13))
 
 > La bondad es el aroma de la amistad que emana de un alma saturada de amor.
 

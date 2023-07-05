@@ -36,9 +36,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 ## Objetivo
 
-> La finalidad de la evolución cósmica consiste en alcanzar la unidad de la personalidad mediante el dominio creciente del espíritu, una reacción volitiva a las enseñanzas y directrices del Espíritu de Dios que mora en nosotros. ([LU 112:2.15](/es/The_Urantia_Book/112#p2_15))
+> La finalidad de la evolución cósmica consiste en alcanzar la unidad de la personalidad mediante el dominio creciente del espíritu, una reacción volitiva a las enseñanzas y directrices del Espíritu de Dios que mora en nosotros. (<a id="a38_230"></a>[LU 112:2.15](/es/The_Urantia_Book/112#p2_15))
 
-> «Aunque este evangelio del reino nunca deja de traer una gran paz al alma del creyente individual, no traerá la paz a la Tierra hasta que los hombres no estén dispuestos a creer de todo corazón en mis enseñanzas, y a establecer la práctica de **hacer la voluntad del Padre** como **meta principal de su vida mortal**». (Jesús) **Cuando una persona encuentra a Dios ha encontrado todo**. ([LU 180:6.1](/es/The_Urantia_Book/180#p6_1))
+> «Aunque este evangelio del reino nunca deja de traer una gran paz al alma del creyente individual, no traerá la paz a la Tierra hasta que los hombres no estén dispuestos a creer de todo corazón en mis enseñanzas, y a establecer la práctica de **hacer la voluntad del Padre** como **meta principal de su vida mortal**». (Jesús) **Cuando una persona encuentra a Dios ha encontrado todo**. (<a id="a40_390"></a>[LU 180:6.1](/es/The_Urantia_Book/180#p6_1))
 
 ## Religión
 

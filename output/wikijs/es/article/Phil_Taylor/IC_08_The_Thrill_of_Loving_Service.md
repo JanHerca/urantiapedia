@@ -34,19 +34,19 @@ dateCreated: 2023-02-13T14:02:03.086Z
 </figure>
 
 
-> He vivido mi vida en la carne para mostraros cómo podéis ser, a través del servicio amoroso, una revelación de Dios para vuestros semejantes, al igual que yo he sido, amándoos y sirviéndoos, una revelación de Dios para vosotros. ... Amad a todos los hombres como yo os he amado; servid a vuestros compañeros mortales como yo os he servido. ... [[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)]
+> He vivido mi vida en la carne para mostraros cómo podéis ser, a través del servicio amoroso, una revelación de Dios para vuestros semejantes, al igual que yo he sido, amándoos y sirviéndoos, una revelación de Dios para vosotros. ... Amad a todos los hombres como yo os he amado; servid a vuestros compañeros mortales como yo os he servido. ... <a id="a36_346"></a>[[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)]
 
 ## Visión de la conferencia
 
 La esencia de las enseñanzas de Jesús era el amor y el servicio. Enseñó que el servicio al prójimo es el concepto más elevado de los creyentes, y los que nacen del espíritu mostrarán los frutos del espíritu en el servicio amoroso a sus semejantes. La aceptación de sus enseñanzas nos lleva a reconocer que todos somos hijos e hijas de un Dios amoroso y que nuestra actitud hacia el prójimo debe caracterizarse por el servicio amoroso. Cultivar una actitud de servicio amoroso es el tema de la conferencia de este año. Así que unámonos en reflexión y comunión en el espíritu de experimentar la «Emoción del Servicio Amoroso».
 
-Jesús dijo a sus seguidores, «_Debéis amar a todos los hombres como yo os he amado; debéis servir a todos los hombres como yo os he servido._» [[LU 191:4.3](/es/The_Urantia_Book/191#p4_3)] «_Si queréis compartir el gozo del Maestro, tenéis que compartir su amor. Y compartir su amor significa que habéis compartido su servicio._» [[LU 180:1.5](/es/The_Urantia_Book/180#p1_5)]
+Jesús dijo a sus seguidores, «_Debéis amar a todos los hombres como yo os he amado; debéis servir a todos los hombres como yo os he servido._» <a id="a42_143"></a>[[LU 191:4.3](/es/The_Urantia_Book/191#p4_3)] «_Si queréis compartir el gozo del Maestro, tenéis que compartir su amor. Y compartir su amor significa que habéis compartido su servicio._» <a id="a42_330"></a>[[LU 180:1.5](/es/The_Urantia_Book/180#p1_5)]
 
 ## Propósito de la conferencia
 
 El propósito de esta conferencia es traer la idea y los ideales de servicio al frente de las mentes de aquellos lectores que están asociados con la Quinta Revelación de Época. Esperamos aumentar la conciencia de que el servicio es un componente clave del evangelio de amor de Jesús por el hombre y por Dios y que todos podemos servir de alguna manera mientras vivimos nuestra vida espiritual. Nuestro objetivo entonces es atraer a los lectores con la emocionante experiencia del servicio amoroso al ayudar a cada asistente a la conferencia a explorar las posibilidades de vivir una vida más llena de servicio.
 
-En todos esperamos llegar a una mejor comprensión de cómo el servicio es personal, individual y espiritualmente dependiente de Dios. En última instancia, esperamos que los asistentes abandonen esta conferencia con un fuerte deseo de recorrer esa «segunda legua de servicio libre y de devoción amante de la libertad» [[LU 195:10.5](/es/The_Urantia_Book/195#p10_5)] y reconozcan que «... _la vida ideal es la del servicio amoroso_...» [[LU 110:3.3](/es/The_Urantia_Book/110#p3_3)]
+En todos esperamos llegar a una mejor comprensión de cómo el servicio es personal, individual y espiritualmente dependiente de Dios. En última instancia, esperamos que los asistentes abandonen esta conferencia con un fuerte deseo de recorrer esa «segunda legua de servicio libre y de devoción amante de la libertad» <a id="a48_316"></a>[[LU 195:10.5](/es/The_Urantia_Book/195#p10_5)] y reconozcan que «... _la vida ideal es la del servicio amoroso_...» <a id="a48_433"></a>[[LU 110:3.3](/es/The_Urantia_Book/110#p3_3)]
 
 ## La estructura de la conferencia
 
@@ -90,7 +90,7 @@ Estudiaremos los planes para el continuo entrenamiento universal y el desarrollo
 
 El objetivo de esta última etapa de la programación es mejorar y expandir nuestra percepción y comprensión del servicio tal como se ve dentro del contexto de la ciudadanía cósmica y nuestras carreras universales.
 
-> La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres. [[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
+> La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres. <a id="a92_255"></a>[[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
 
 ## Referencias
 

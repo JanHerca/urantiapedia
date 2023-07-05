@@ -86,7 +86,7 @@ El "yo" del neurofisiólogo cuántico parece estar en camino de ser identificado
 
 Parece poco probable que alguna vez se pueda desarrollar una metodología científica que pueda verificar o incluso arrojar luz sobre las revelaciones detalladas en los Documentos sobre la personalidad y la mente. Los Documentos dicen poco acerca de la interacción mente-cerebro, siendo lo más cercano: "La conciencia humana descansa suavemente sobre el mecanismo electroquímico de abajo y toca delicadamente el sistema de energía espiritual-morontial de arriba". Los Documentos declaran que la personalidad es un misterio del universo, y la mente es ciertamente un misterio para nosotros los urantianos. Este es el material de la revelación, y algunas cosas tienen que ser aceptadas con fe.
 
-> Cada impulso de cada electrón, pensamiento o espíritu es una unidad que actúa en todo el universo... El universo es un todo; ninguna cosa y ningún ser existe o vive en el aislamiento. ([LU 56:10.14](/es/The_Urantia_Book/56#p10_14))
+> Cada impulso de cada electrón, pensamiento o espíritu es una unidad que actúa en todo el universo... El universo es un todo; ninguna cosa y ningún ser existe o vive en el aislamiento. (<a id="a88_187"></a>[LU 56:10.14](/es/The_Urantia_Book/56#p10_14))
 
 ## Enlaces externos
 

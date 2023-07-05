@@ -31,9 +31,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-> La armonía, la música de los siete niveles de la asociación melódica, es el único código universal de comunicación espiritual. La música, tal como la comprenden los mortales de Urantia, alcanza su máxima expresión en las escuelas de Jerusem, [...] [LU 44:1.11](/es/The_Urantia_Book/44#p1_11)
+> La armonía, la música de los siete niveles de la asociación melódica, es el único código universal de comunicación espiritual. La música, tal como la comprenden los mortales de Urantia, alcanza su máxima expresión en las escuelas de Jerusem, [...] <a id="a33_250"></a>[LU 44:1.11](/es/The_Urantia_Book/44#p1_11)
 
-Los reveladores valoran la música. Utilizan algunas metáforas musicales interesantes ([LU 32:5.1](/es/The_Urantia_Book/32#p5_1); [LU 195:7.20](/es/The_Urantia_Book/195#p7_20)). El término «sintonía», el deseo que tenemos nosotros con nuestro Ajustador del Pensamiento, es un término musical. La voz de Jesús desde la adolescencia en adelante se denomina «musical». ¡La música es importante!
+Los reveladores valoran la música. Utilizan algunas metáforas musicales interesantes (<a id="a35_86"></a>[LU 32:5.1](/es/The_Urantia_Book/32#p5_1); <a id="a35_129"></a>[LU 195:7.20](/es/The_Urantia_Book/195#p7_20)). El término «sintonía», el deseo que tenemos nosotros con nuestro Ajustador del Pensamiento, es un término musical. La voz de Jesús desde la adolescencia en adelante se denomina «musical». ¡La música es importante!
 
 Y, sin embargo, sabemos muy poco sobre la música y su impacto en el individuo. No se han realizado investigaciones sobre cómo un compositor crea su música, y muchos de los compositores famosos describen el proceso simplemente como «escuchar» la melodía en su cabeza. Los investigadores han estudiado la diferencia entre los músicos expertos y los aficionados, y los hallazgos se refieren principalmente a la naturaleza de la mejora de nuestra comprensión del procesamiento mental y la coordinación mente/cuerpo.
 
@@ -63,7 +63,7 @@ Desafortunadamente, a excepción de aquellos con una habilidad excepcional, la i
 
 ## Música y Emociones
 
-> [...] una gran apreciación de la armonía sólo se produce una vez cada mil vidas mortales. Pero no os desaniméis; algún día puede aparecer en Urantia un verdadero músico, y pueblos enteros se sentirán cautivados por los magníficos acordes de sus melodías. Un ser humano así podría cambiar para siempre el curso de una nación entera, e incluso de todo el mundo civilizado. Es literalmente cierto que «la melodía tiene el poder de transformar a un mundo entero». [LU 44:1.15](/es/The_Urantia_Book/44#p1_15)
+> [...] una gran apreciación de la armonía sólo se produce una vez cada mil vidas mortales. Pero no os desaniméis; algún día puede aparecer en Urantia un verdadero músico, y pueblos enteros se sentirán cautivados por los magníficos acordes de sus melodías. Un ser humano así podría cambiar para siempre el curso de una nación entera, e incluso de todo el mundo civilizado. Es literalmente cierto que «la melodía tiene el poder de transformar a un mundo entero». <a id="a65_462"></a>[LU 44:1.15](/es/The_Urantia_Book/44#p1_15)
 
 Durante mucho tiempo, los humanos han sido conscientes del poder de la música para transformar al individuo en un yo «superior». Platón creía que «el ritmo y la armonía encuentran su camino hacia los lugares internos del alma». Consideraba que el estudio de la armonía conducía a la «liberación del alma de la tiranía de los sentidos», lo que implica una distinción psicológica similar entre la mera percepción (directamente dependiente de los órganos de los sentidos) y una respuesta inherente e incorporada a los ritmos armoniosos. Platón creía que esta respuesta podría conducir a un estado del ser en el que las emociones negativas se disuelven y, de hecho, se transforman en paz y armonía con el medio ambiente.
 

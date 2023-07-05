@@ -57,7 +57,7 @@ Siempre estaré agradecida por mi última interacción con Steve en Urantia, que
 
 En *El libro de Urantia está escrito:*
 
-> Jesús dijo: “Mujer, ¿dónde están tus acusadores? ¿No quedó nadie para apedrearte? Y la mujer, alzando los ojos, respondió: Ningún hombre, Señor. Y luego dijo Jesús: “Yo sé de ti; ni yo te condeno. Sigue tu camino en paz. [[LU 162:3.5](/es/The_Urantia_Book/162#p3_5)]
+> Jesús dijo: “Mujer, ¿dónde están tus acusadores? ¿No quedó nadie para apedrearte? Y la mujer, alzando los ojos, respondió: Ningún hombre, Señor. Y luego dijo Jesús: “Yo sé de ti; ni yo te condeno. Sigue tu camino en paz. <a id="a59_223"></a>[[LU 162:3.5](/es/The_Urantia_Book/162#p3_5)]
 
 Steve tenía lágrimas en los ojos cuando dijo: «Jesús *conocía* a esta mujer. Sabía que el pecado no era de ella. En esta pequeña diferencia en el relato», dijo, «vemos el carácter inigualable del Maestro. Cuán completa e íntimamente nos conoce y nos ama a cada uno de nosotros».
 

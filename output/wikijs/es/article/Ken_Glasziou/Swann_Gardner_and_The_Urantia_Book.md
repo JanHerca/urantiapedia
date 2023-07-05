@@ -36,11 +36,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 En el número anterior de Innerface, presentamos un relato de la revelación alucinante de Stefan Tallqvist de dos "profecías" bastante asombrosas que han permanecido sin descubrir en _El Libro de Urantia_ hasta que Stefan las sacó a la luz.
 
-Manifestamos nuestra creencia de que esta nueva información es inexplicable en términos de la autoría humana del libro, que seguramente debe atribuirse a un origen sobrehumano. Ahora examinamos en detalle el material de origen humano real que se modificó para revelar lo que el libro denomina información de "lagunas vitales". ([LU 101:4.9](/es/The_Urantia_Book/101#p4_9)) Primero comparamos la afirmación de _El Libro de Urantia_ relacionada con el radio del electrón con el trabajo original del físico W.F.G. Swann.
+Manifestamos nuestra creencia de que esta nueva información es inexplicable en términos de la autoría humana del libro, que seguramente debe atribuirse a un origen sobrehumano. Ahora examinamos en detalle el material de origen humano real que se modificó para revelar lo que el libro denomina información de "lagunas vitales". (<a id="a38_328"></a>[LU 101:4.9](/es/The_Urantia_Book/101#p4_9)) Primero comparamos la afirmación de _El Libro de Urantia_ relacionada con el radio del electrón con el trabajo original del físico W.F.G. Swann.
 
 De Swann en _La Arquitectura del Universo_. (1934): «_La masa del electrón es tan pequeña que si magnificas todas las masas de modo que el electrón alcance una masa de un décimo de onza, ese décimo de onza se convertiría, en la misma escala de aumento, en tan pesado como la tierra._»
 
-Y de _El Libro de Urantia_: «_Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra._» ([LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
+Y de _El Libro de Urantia_: «_Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra._» (<a id="a42_280"></a>[LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
 Para el cambio de siglo, la relación entre la carga del electrón y su masa se conocía con un alto grado de precisión, pero una medición igualmente precisa de su carga no llegó hasta el trabajo de Millikan en 1909. Una vez que se conoció la carga, se pudo calcular la masa del electrón y se encontró que era 9.11 x 10^-28^g. Al revisar los cálculos encontramos que Swann ha usado esta cifra conocida más la masa conocida de la tierra para calcular el factor de magnificación que usó para comparar las masas relativas de un electrón y la tierra.
 
@@ -50,7 +50,7 @@ Siguiendo la medida de Millikan de la carga del electrón, en 1910 Rutherford id
 
 Pasando ahora a la estimación del radio del protón de los reveladores, siguen los extractos relevantes de Swann y _El Libro de Urantia_. Primero de Swann: «_Luego tenemos el protón, la unidad fundamental de carga positiva, una cosa 1800 veces más pesada que el electrón, pero 1800 veces más pequeña en tamaño, de modo que si la magnificas al tamaño de la cabeza de un alfiler, la cabeza de ese alfiler, en la misma escala de ampliación, alcanzaría un diámetro igual al diámetro de la órbita de la tierra alrededor del sol._»
 
-Y de _El Libro de Urantia_: «_Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol._» ([LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
+Y de _El Libro de Urantia_: «_Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol._» (<a id="a52_308"></a>[LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
 La principal diferencia entre los dos es que los reveladores han omitido el término de Swann, «_mil ochocientas veces más pequeño en tamaño_» de su descripción.
 
@@ -66,7 +66,7 @@ Los reveladores han cambiado totalmente el significado de la comparación al omi
 
 Las modificaciones a las comparaciones de Swann tal como aparecen en _El Libro de Urantia_ muestran inequívocamente que los reveladores no solo sabían lo que estaban haciendo, sino que también proporcionaron nuevos conocimientos que la ciencia humana no estaba destinada a descubrir hasta dentro de otros cincuenta años.
 
-> Cada impulso de cada electrón, pensamiento o espíritu es una unidad que actúa en todo el universo. Sólo el pecado es una resistencia gravitatoria aislada y nociva en los niveles mentales y espirituales. El universo es un todo; ninguna cosa y ningún ser existe o vive en el aislamiento. ([LU 56:10.14](/es/The_Urantia_Book/56#p10_14))
+> Cada impulso de cada electrón, pensamiento o espíritu es una unidad que actúa en todo el universo. Sólo el pecado es una resistencia gravitatoria aislada y nociva en los niveles mentales y espirituales. El universo es un todo; ninguna cosa y ningún ser existe o vive en el aislamiento. (<a id="a68_289"></a>[LU 56:10.14](/es/The_Urantia_Book/56#p10_14))
 
 
 ## Referencias

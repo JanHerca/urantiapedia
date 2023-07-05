@@ -44,7 +44,7 @@ La virtud de este hecho recientemente descubierto es que «aquellos hombres y mu
 
 A través de Internet y la web, ahora es posible llevar el contenido de los Documentos de Urantia directamente al corazón del cristianismo del futuro: esos colegios académicos, universidades e instituciones teológicas donde el verdadero significado de la revelación de Jesús del Padre será discutido, revisado y revelado de nuevo, tal como está predicho en los Documentos:
 
-> «No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, **no fracasará**». ([LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> «No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, **no fracasará**». (<a id="a46_137"></a>[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 Lo que sigue ha sido resumido de artículos de revisión para tratar de transmitir a los lectores puntos comunes de contacto entre la Quinta Revelación de Época y la teología del proceso moderno, con la esperanza de que algunos puedan inspirarse para emprender los estudios profundos necesarios para construir puentes entre _El Libro de Urantia_ y la nueva teología de la iglesia cristiana que será.
 

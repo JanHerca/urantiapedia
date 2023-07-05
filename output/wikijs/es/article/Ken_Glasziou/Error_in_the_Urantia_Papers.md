@@ -46,7 +46,7 @@ Supuestamente, las fuentes de este material se originaron en otros lugares adem�
 
 ## 1. Posibles fuentes de error. No responder a lo incontestable.
 
-Desconocido para los interrogadores, su intención declarada de hacer preguntas que ningún ser humano podría responder estaba en conflicto con una «regla universal para la revelación que prohíbe la provisión de conocimiento no ganado». ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1))
+Desconocido para los interrogadores, su intención declarada de hacer preguntas que ningún ser humano podría responder estaba en conflicto con una «regla universal para la revelación que prohíbe la provisión de conocimiento no ganado». (<a id="a48_236"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1))
 
 Como se indicó anteriormente, plantear tales preguntas para el propósito propuesto colocó a los autores originales en un dilema. Estaban siendo probados. Permitiendo la veracidad de sus afirmaciones de ser de origen celestial, presentar una excusa de por qué no pudieron responder generaría casi con certeza la conclusión de que sus afirmaciones eran falsas, y esto anularía sus quince o veinte años anteriores de trabajo preparatorio. Pero si cumplían, se verían obligados a romper lo que, para ellos, era una regla inquebrantable del universo.
 
@@ -134,7 +134,7 @@ Las verdades de estos Documentos exigen mucho. Llevar el fruto del espíritu es 
 
 «Qué servicio trascendente si, a través de esta revelación, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre, y a todas las demás religiones». ¿¿Cómo??
 
-> «El cristianismo ciertamente ha hecho un gran servicio a este mundo, pero ahora lo que más se necesita es Jesús. El mundo necesita **ver a Jesús viviendo de nuevo en la experiencia de los mortales nacidos del espíritu** que revelan efectivamente al Maestro a todos los hombres». ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> «El cristianismo ciertamente ha hecho un gran servicio a este mundo, pero ahora lo que más se necesita es Jesús. El mundo necesita **ver a Jesús viviendo de nuevo en la experiencia de los mortales nacidos del espíritu** que revelan efectivamente al Maestro a todos los hombres». (<a id="a136_282"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 Tenemos los Documentos y la obligación.
 

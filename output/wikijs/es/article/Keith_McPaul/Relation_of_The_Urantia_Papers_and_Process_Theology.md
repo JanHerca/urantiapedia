@@ -144,7 +144,7 @@ Aprender acerca de Dios es un ejercicio de toda la vida con Dios dirigiendo nues
 
 La teología del proceso no pretende tener todas las respuestas, Dios sigue siendo un misterio. Sin embargo, me da una forma más creíble de pensar en Dios. Creo que la teología del proceso hace que la iglesia sea más creíble y más relevante para el mundo moderno y nos brinda una mejor oportunidad de enfrentar los desafíos del próximo milenio. ¡Gracias a Dios!
 
-> El tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio. ([LU 101:10.9](/es/The_Urantia_Book/101#p10_9))
+> El tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio. (<a id="a146_141"></a>[LU 101:10.9](/es/The_Urantia_Book/101#p10_9))
 
 ## Enlaces externos
 

@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 por _Aprilhelen_
 
-> «Una de las lecciones más importantes que debes aprender durante tu carrera mortal es el trabajo en equipo». [LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
+> «Una de las lecciones más importantes que debes aprender durante tu carrera mortal es el trabajo en equipo». <a id="a43_111"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 
 Es posible que haya leído mi otro artículo en este _Mighty Messenger_, [«La Primera Conferencia del Libro de Urantia en Uganda: Una cuenta personal.»](/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda) Mirando a través de la lente de mis múltiples experiencias sirviendo internacionalmente, la mayoría Recientemente en Uganda, sirviendo en el Comité Internacional de Becas (IFC) de The Urantia Book Fellowship (también conocido como la Fraternidad), y siendo planificador de conferencias durante las últimas tres décadas, ofrezco las siguientes ideas sobre el potencial de agregar valor a nuestra creciente Urantia. La comunidad del libro y el Ser Supremo (el aspecto de Dios que cada uno de nosotros llega a participar en su evolución).
 
@@ -99,7 +99,7 @@ A medida que somos testigos del surgimiento de estudiantes dedicados, podemos ay
 
 La capacitación en liderazgo basada en las enseñanzas de _El Libro de Urantia_ sería muy buena para aquellos que deseen servir de esta manera. También es conocimiento colectivo que nada reemplaza sumergirse en las enseñanzas para progresar con fragancia espiritual. Como algunos de ustedes sabrán, he estado explorando la expresión de valores espirituales dentro del desarrollo de líderes durante los últimos años a través del [Instituto Universitario Urantia] (https://www.urantiauniversity.org/) y el Cuerpo de Servicio del Proyecto Progreso. Hemos identificado muchos temas principales de los métodos jesusonianos, especialmente los principios para navegar los desafíos interrelacionales y comunicarse al servicio del progreso.
 
-_Liderazgo eficaz y sabio_. En la civilización, mucho, mucho, depende de un espíritu entusiasta y eficaz de tirar de la carga. Diez hombres valen poco más que uno para levantar una gran carga, a menos que lo hagan juntos, todos en el mismo momento. Y ese trabajo en equipo, la operación social, depende del liderazgo. Las civilizaciones culturales del pasado y del presente se han basado en la cooperación inteligente de la ciudadanía con líderes sabios y progresistas; y hasta que el hombre evolucione a niveles superiores, la civilización seguirá dependiendo de un liderazgo sabio y vigoroso. [LU 81:6.37](/es/The_Urantia_Book/81#p6_37)
+_Liderazgo eficaz y sabio_. En la civilización, mucho, mucho, depende de un espíritu entusiasta y eficaz de tirar de la carga. Diez hombres valen poco más que uno para levantar una gran carga, a menos que lo hagan juntos, todos en el mismo momento. Y ese trabajo en equipo, la operación social, depende del liderazgo. Las civilizaciones culturales del pasado y del presente se han basado en la cooperación inteligente de la ciudadanía con líderes sabios y progresistas; y hasta que el hombre evolucione a niveles superiores, la civilización seguirá dependiendo de un liderazgo sabio y vigoroso. <a id="a101_595"></a>[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)
 
 <figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/046.jpg">

@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> “Y fue de estos Viejos recuerdos de Nazaret, Cafarnaúm, el Monte Hermón, y de la salida y la puesta del sol en el resplandeciente Mar de Galilea, que se calmó a sí mismo mientras fortalecía su corazón humano y lo preparaba para encontrarse con el traidor que tanto debería pronto lo traicionará. [LU 182:3.10](/es/The_Urantia_Book/182#p3_10)
+> “Y fue de estos Viejos recuerdos de Nazaret, Cafarnaúm, el Monte Hermón, y de la salida y la puesta del sol en el resplandeciente Mar de Galilea, que se calmó a sí mismo mientras fortalecía su corazón humano y lo preparaba para encontrarse con el traidor que tanto debería pronto lo traicionará. <a id="a43_298"></a>[LU 182:3.10](/es/The_Urantia_Book/182#p3_10)
 
 
 

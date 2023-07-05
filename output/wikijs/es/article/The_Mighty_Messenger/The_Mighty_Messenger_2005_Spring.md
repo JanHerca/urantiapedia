@@ -281,7 +281,7 @@ Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson,
 Fellowship@urantiabook.org
 www.urantiabook.org
 
-> «El humor es el antídoto divino contra la exaltación del ego.» [[LU 48:4.15](/es/The_Urantia_Book/48#p4_15)]
+> «El humor es el antídoto divino contra la exaltación del ego.» <a id="a283_65"></a>[[LU 48:4.15](/es/The_Urantia_Book/48#p4_15)]
 
 ## Enlaces externos
 

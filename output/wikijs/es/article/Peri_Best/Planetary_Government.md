@@ -47,7 +47,7 @@ Somos testigos de eventos sin precedentes que tienen lugar en el mundo de hoy y 
 
 Personalmente creo que la raíz del malestar está en la familia y particularmente en la relación hombre/mujer desequilibrada e incomprendida. Pero dejaremos explorar eso para otro día. Hoy propongo que miremos el cuidado excesivo de nuestro mundo por parte de nuestros amigos celestiales y busquemos sugerencias sobre cómo podemos ayudar.
 
-Lectura sugerida: [Documento 114](/es/The_Urantia_Book/114) y para echar un vistazo a la administración compasiva frente a la rebelión, consulte [Documento 119](/es/The_Urantia_Book/119) - Las dádivas de Cristo Miguel. [LU 114:0.4](/es/The_Urantia_Book/114#p0_4) Urantia no carece de la supervisión adecuada y eficaz de los gobernantes del sistema, la constelación y el universo. Pero el gobierno planetario es diferente al de cualquier otro mundo en el sistema de Satania, incluso en todo Nebadon.
+Lectura sugerida: [Documento 114](/es/The_Urantia_Book/114) y para echar un vistazo a la administración compasiva frente a la rebelión, consulte [Documento 119](/es/The_Urantia_Book/119) - Las dádivas de Cristo Miguel. <a id="a49_219"></a>[LU 114:0.4](/es/The_Urantia_Book/114#p0_4) Urantia no carece de la supervisión adecuada y eficaz de los gobernantes del sistema, la constelación y el universo. Pero el gobierno planetario es diferente al de cualquier otro mundo en el sistema de Satania, incluso en todo Nebadon.
 
 Esta singularidad en su plan de supervisión se debe a una serie de circunstancias inusuales:
 
@@ -61,9 +61,9 @@ Esta singularidad en su plan de supervisión se debe a una serie de circunstanci
 
 Desde Pentecostés, nuestro Príncipe Planetario, Miguel de Nebadon, entregó el gobierno de Urantia a Maquiventa Melquisedec quien, a su vez, deja muchas de las funciones administrativas al consejo de 24 urantianos de un tiempo (también presiden los consejos de los otros 36 mundos en espiritualidad). cuarentena).
 
-La sede del consejo de los 24 está en Jerusem y han sido designados como agentes personales de Michael. ([LU 45:4.1](/es/The_Urantia_Book/45#p4_1)) Uno del consejo de los 24 es el actual gobernador general residente. Se turnan.
+La sede del consejo de los 24 está en Jerusem y han sido designados como agentes personales de Michael. (<a id="a63_105"></a>[LU 45:4.1](/es/The_Urantia_Book/45#p4_1)) Uno del consejo de los 24 es el actual gobernador general residente. Se turnan.
 
-> Estos veinticuatro consejeros han sido reclutados de las ocho razas de Urantia, y los últimos de este grupo se reunieron en el momento del pase de lista de la resurrección de Miguel, hace mil novecientos años. [LU 45:4.2](/es/The_Urantia_Book/45#p4_2)
+> Estos veinticuatro consejeros han sido reclutados de las ocho razas de Urantia, y los últimos de este grupo se reunieron en el momento del pase de lista de la resurrección de Miguel, hace mil novecientos años. <a id="a65_212"></a>[LU 45:4.2](/es/The_Urantia_Book/45#p4_2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/009.jpg">

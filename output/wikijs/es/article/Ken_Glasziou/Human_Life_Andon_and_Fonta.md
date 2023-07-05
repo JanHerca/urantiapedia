@@ -48,7 +48,7 @@ Lucy tenía un cráneo más parecido al de un simio que al de un humano y probab
 
 ¿Cómo se relaciona esto con Andon y Fonta (alrededor de 1.000.000 BP) o Adán y Eva (37.898 BP)?
 
-Muchos (¿la mayoría?) lectores piensan que el Libro de Urantia afirma que Andon y Fonta fueron los únicos padres ancestrales de todos nosotros. De hecho, no. Dice: «_Incluso la pérdida de Andón y Fonta antes de que tuvieran descendencia no hubiera impedido la evolución humana, aunque la habría retrasado. Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de **siete mil** cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. **Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión**._» ([LU 65:3.4](/es/The_Urantia_Book/65#p3_4)).
+Muchos (¿la mayoría?) lectores piensan que el Libro de Urantia afirma que Andon y Fonta fueron los únicos padres ancestrales de todos nosotros. De hecho, no. Dice: «_Incluso la pérdida de Andón y Fonta antes de que tuvieran descendencia no hubiera impedido la evolución humana, aunque la habría retrasado. Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de **siete mil** cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. **Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión**._» (<a id="a50_686"></a>[LU 65:3.4](/es/The_Urantia_Book/65#p3_4)).
 
 ## Entonces, ¿cómo y dónde surgió la humanidad?
 
@@ -77,7 +77,7 @@ Otra evidencia de que los neandertales contribuyeron poco al acervo genético de
 
 [Las células vegetales y animales contienen una gran cantidad de mitocondrias, las ‘fábricas’ que descomponen los azúcares y proporcionan energía a la célula. Cada uno tiene su propia pieza de ADN que es independiente del ADN nuclear. Los descendientes heredan sus mitocondrias solo de su madre y son copias de sí mismos. La variación proviene solo de la mutación.]
 
-El hombre Herto (en la foto de arriba) data de 154-160 000 años AP y es la evidencia fósil más antigua de alguien que se acerca al tipo moderno de humano. Andon y Fonta vivieron cerca de 1.000.000 de años AP. La historia de Andon y Fonta no encaja bien con el pensamiento antropológico moderno, pero ciertamente es adecuada como ‘marco para pensar’. ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+El hombre Herto (en la foto de arriba) data de 154-160 000 años AP y es la evidencia fósil más antigua de alguien que se acerca al tipo moderno de humano. Andon y Fonta vivieron cerca de 1.000.000 de años AP. La historia de Andon y Fonta no encaja bien con el pensamiento antropológico moderno, pero ciertamente es adecuada como ‘marco para pensar’. (<a id="a79_351"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
 ## Enlaces externos
 

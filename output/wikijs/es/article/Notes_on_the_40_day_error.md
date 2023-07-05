@@ -42,7 +42,7 @@ Un examen intensivo y detallado de las pruebas indica que esto no puede ser. El 
 
 La reunión mencionada en ambos Documentos fue entre los apóstoles y los ciento veinte discípulos principales en Jerusalén. Incluidos están la madre de Jesús y los miembros de su familia.
 
-La explicación ofrecida por el Dr. Sadler falla en el primer párrafo del [Documento 194, Sección 1, «El sermón de Pentecostés»](/es/The_Urantia_Book/194#p1) que dice: «_Los apóstoles habían estado escondidos durante cuarenta días_». Leído en contexto, significa lo que dice y no que, «_Hasta hace diez días, los apóstoles habían estado escondidos por cuarenta días_»—que es lo que se esperaría si la reunión tuviera lugar cincuenta y no cuarenta días después de la crucifixión de Jesús (la expectativa si las reuniones no son las mismas).
+La explicación ofrecida por el Dr. Sadler falla en el primer párrafo del <a id="a44_73"></a>[Documento 194, Sección 1, «El sermón de Pentecostés»](/es/The_Urantia_Book/194#p1) que dice: «_Los apóstoles habían estado escondidos durante cuarenta días_». Leído en contexto, significa lo que dice y no que, «_Hasta hace diez días, los apóstoles habían estado escondidos por cuarenta días_»—que es lo que se esperaría si la reunión tuviera lugar cincuenta y no cuarenta días después de la crucifixión de Jesús (la expectativa si las reuniones no son las mismas).
 
 Más adelante en este mismo párrafo, «_estos apóstoles asustados surgían de sus semanas de reclusión para aparecer audazmente en el templo,_» ¡Según la explicación del Dr. Sadler, deben haber salido de su escondite diez días antes! Entonces, ¿por qué todavía están asustados pero ya no se esconden?
 
@@ -60,7 +60,7 @@ Cuanto más examinamos los detalles de este problema, más parece ser que los «
 
 Curiosamente, ha permanecido inactivo durante todos estos años, pero ahora aparece de forma independiente en varios lugares. Uno es un artículo reciente de Seppo Kanerva en el IUA Journal, otro está en conversaciones por correo electrónico entre varios lectores fundamentalistas y nuestros editores, y probablemente haya otros. ¿Es una señal de que ha llegado el momento de un cambio radical en el movimiento Urantia?
 
-Para terminar, y en caso de que algún fundamentalista logre encontrar la manera de llamar blanco al negro, lo dejaremos con otra tarea. Haga un viaje a la cima de la colina en Nazaret, mire hacia el este y vea si puede ver las colinas rocosas de Moab más al este, más allá del valle del Jordán. ([LU 123:5.12](/es/The_Urantia_Book/123#p5_12))
+Para terminar, y en caso de que algún fundamentalista logre encontrar la manera de llamar blanco al negro, lo dejaremos con otra tarea. Haga un viaje a la cima de la colina en Nazaret, mire hacia el este y vea si puede ver las colinas rocosas de Moab más al este, más allá del valle del Jordán. (<a id="a62_296"></a>[LU 123:5.12](/es/The_Urantia_Book/123#p5_12))
 
 > Un mito, por supuesto, no es un cuento de hadas. Es la presentación de hechos pertenecientes a una categoría en los lenguajes apropiados a otra. Explotar un mito es, por tanto, no negar los hechos sino reasignarlos.
 > _Gilbert Ryle_

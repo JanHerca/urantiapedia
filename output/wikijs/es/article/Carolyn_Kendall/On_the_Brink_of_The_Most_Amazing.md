@@ -36,7 +36,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 A medida que se acerca el cambio de milenio, la perspectiva de una nueva era de búsqueda espiritual se vislumbra cada vez más grande. El siglo XX marcó un capítulo oscuro y frecuentemente sangriento en la marcha del progreso humano hacia la era prometida de luz y vida. Otros siglos han vivido la guerra, la violencia y la agitación cultural, pero «nuestras» guerras y convulsiones invadieron nuestras vidas a través de los medios de comunicación y entretenimiento. Podríamos suponer que los hombres y mujeres civilizados están completamente hartos de eso y anhelan un mejor estado de existencia en su planeta natal.
 
-*El Libro de Urantia* declara que estamos a punto de realizar ese sueño. «Urantia *se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual».* ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+*El Libro de Urantia* declara que estamos a punto de realizar ese sueño. «Urantia *se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual».* (<a id="a38_247"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
 Han pasado unos 72 años desde que se iniciaron los Documentos de Urantia, 63 años desde que se completaron y 43 años desde que se publicó el libro.
 
@@ -54,9 +54,9 @@ El Foro se sintió inspirado por estas palabras, pero también abrumado. En resp
 
 En la víspera de la publicación en 1955, se le preguntó a Bill Sadler, primer presidente de la Hermandad Urantia (ahora llamada The Urantia Book Fellowship), cuántas Sociedades Urantia imaginaba dentro de diez años. Él dijo: «Oh, no menos de cien mil». ¿Hablaba en serio? Probablemente no. Pero observó la energía reprimida de los miembros del Foro que habían esperado entre cinco y veintisiete años para escapar de los confines del secreto que rodeaba la nueva revelación.
 
-¿No era esto lo que el mundo necesitaba? La larga pesadilla de la Segunda Guerra Mundial había terminado en 1945. El conflicto de Corea había terminado. Los reveladores previeron la eventual caída del comunismo, uno de los «mayores peligros para las enseñanzas de Jesús» desde su otorgamiento, y dieron su aprobación para una «pronta publicación del libro»... «Mucho antes del día de su misión mundial .» Pero la mayoría de los miembros del Foro no escucharon esa última parte; partieron el 12 de octubre con sus 1.700 ejemplares prepagos de *El* Libro* de Urantia para iluminar al mundo. Esperaban una reacción sensacional a la noticia de que había aparecido una nueva revelación. Eran como Simón Pedro, quien, inmediatamente después de la ordenación, anunció precipitadamente: «Estamos preparados; salgamos ahora para conquistar el reino». ([LU 140:7.7](/es/The_Urantia_Book/140#p7_7))
+¿No era esto lo que el mundo necesitaba? La larga pesadilla de la Segunda Guerra Mundial había terminado en 1945. El conflicto de Corea había terminado. Los reveladores previeron la eventual caída del comunismo, uno de los «mayores peligros para las enseñanzas de Jesús» desde su otorgamiento, y dieron su aprobación para una «pronta publicación del libro»... «Mucho antes del día de su misión mundial .» Pero la mayoría de los miembros del Foro no escucharon esa última parte; partieron el 12 de octubre con sus 1.700 ejemplares prepagos de *El* Libro* de Urantia para iluminar al mundo. Esperaban una reacción sensacional a la noticia de que había aparecido una nueva revelación. Eran como Simón Pedro, quien, inmediatamente después de la ordenación, anunció precipitadamente: «Estamos preparados; salgamos ahora para conquistar el reino». (<a id="a56_843"></a>[LU 140:7.7](/es/The_Urantia_Book/140#p7_7))
 
-Bill sugirió que en lugar de cometer los mismos errores que cometieron los apóstoles y los primeros cristianos, debemos esforzarnos por «cometer algunos errores nuevos y originales». Sadler tuvo la gracia de no repetir la advertencia de Jesús a Pedro: «Que vuestra sabiduría iguale a vuestro entusiasmo y vuestra valentía compense vuestra ignorancia». ([LU 140:7.7](/es/The_Urantia_Book/140#p7_7))
+Bill sugirió que en lugar de cometer los mismos errores que cometieron los apóstoles y los primeros cristianos, debemos esforzarnos por «cometer algunos errores nuevos y originales». Sadler tuvo la gracia de no repetir la advertencia de Jesús a Pedro: «Que vuestra sabiduría iguale a vuestro entusiasmo y vuestra valentía compense vuestra ignorancia». (<a id="a58_353"></a>[LU 140:7.7](/es/The_Urantia_Book/140#p7_7))
 
 ## Publicidad vs. Introducción persona a persona
 
@@ -161,13 +161,13 @@ El éxito de la colocación en bibliotecas como medio de difusión es difícil d
 
 Durante la década de 1970, se escucharon rumores de que los Libros de Urantia estaban siendo robados de muchas bibliotecas. En consecuencia, se informa que una biblioteca ha encadenado su copia a un soporte y otras solo se han puesto a disposición previa solicitud. Si bien el hurto como medio para adquirir conocimiento de la Quinta Revelación de Época no es algo que apoyaríamos, solo podemos esperar que los ladrones se hayan enmendado como resultado de leer los libros que robaron.
 
-> *«Si quieres ser ordenado instructor, debes dejar que otros entierren a los muertos mientras sales a anunciar la buena nueva»* ([LU 163:2.2](/es/The_Urantia_Book/163#p2_2))
+> *«Si quieres ser ordenado instructor, debes dejar que otros entierren a los muertos mientras sales a anunciar la buena nueva»* (<a id="a163_130"></a>[LU 163:2.2](/es/The_Urantia_Book/163#p2_2))
 
 > *«La biblioteca de Dalamatia, destruida poco después de la deslealtad de Caligastia, contenía más de dos millones de documentos distintos y era conocida como «la casa de Fad»»* ([LU 66:5.9](/es/The_Urantia_Book/66#p5_9 ))
 
-> *«Después de echar una primera ojeada a las principales atracciones de \[Alejandría\]...Jesús y Ganid se fueron a la biblioteca, la más grande del mundo. Aquí había cerca de un millón de manuscritos de todos los países civilizados: Grecia, Roma, Palestina, Partia, India, China e incluso Japón. En esta biblioteca, Ganid vio la mayor colección de literatura india de todo el mundo;...»* ([LU 130:3.4](/es/The_Urantia_Book/130#p3_4)) *«\[En Roma Jesús\] pasó mucho tiempo en el monte Palatino, donde se encontraban la residencia del emperador, el templo de Apolo y las bibliotecas griega y latina.»* ([LU 132:0.2](/es/The_Urantia_Book/132#p0_2))
+> *«Después de echar una primera ojeada a las principales atracciones de \[Alejandría\]...Jesús y Ganid se fueron a la biblioteca, la más grande del mundo. Aquí había cerca de un millón de manuscritos de todos los países civilizados: Grecia, Roma, Palestina, Partia, India, China e incluso Japón. En esta biblioteca, Ganid vio la mayor colección de literatura india de todo el mundo;...»* (<a id="a167_390"></a>[LU 130:3.4](/es/The_Urantia_Book/130#p3_4)) *«\[En Roma Jesús\] pasó mucho tiempo en el monte Palatino, donde se encontraban la residencia del emperador, el templo de Apolo y las bibliotecas griega y latina.»* (<a id="a167_602"></a>[LU 132:0.2](/es/The_Urantia_Book/132#p0_2))
 
-> *«Estos supernafines primarios que poseen de manera inherente el conocimiento universal son también los responsables de su organización y de su clasificación. Al constituirse a sí mismos como biblioteca de consulta viviente del universo de universos, han clasificado el conocimiento en siete grandes grupos, y cada uno contiene cerca de un millón de subdivisiones.»* ([LU 27:5.5](/es/The_Urantia_Book/27#p5_5))
+> *«Estos supernafines primarios que poseen de manera inherente el conocimiento universal son también los responsables de su organización y de su clasificación. Al constituirse a sí mismos como biblioteca de consulta viviente del universo de universos, han clasificado el conocimiento en siete grandes grupos, y cada uno contiene cerca de un millón de subdivisiones.»* (<a id="a169_370"></a>[LU 27:5.5](/es/The_Urantia_Book/27#p5_5))
 
 
 > **El Concordex**
@@ -192,7 +192,7 @@ El arrepentimiento por las circunstancias que los llevaron a prisión surge una 
 
 La Asociación de Urantia del Noroeste ha patrocinado un Proyecto para prisiones en curso desde marzo de 1997. La directora, Liz Engstom, informó en *NOTICIAS URANTIANAS* de la Fundación Urantia que se ha colocado un libro en cada prisión federal de EE. UU. Su objetivo es colocar un libro en cada prisión estatal del país, y en prisiones en «países a cuyos idiomas se ha traducido el libro».
 
-> *«Juan tuvo una experiencia solitaria y un poco amarga en la cárcel... A menudo se sentía tentado a dudar de Jesús y de su misión divina. ... Durante más de año y medio, este hombre robusto habituado al aire libre de Dios languideció en aquella despreciable prisión. Esta experiencia fue una gran prueba para su fe en Jesús y para su lealtad hacia él. En verdad, toda esta experiencia fue una gran prueba incluso para la fe de Juan en Dios.»* ([LU 135:11.1](/es/The_Urantia_Book/135#p11_1))
+> *«Juan tuvo una experiencia solitaria y un poco amarga en la cárcel... A menudo se sentía tentado a dudar de Jesús y de su misión divina. ... Durante más de año y medio, este hombre robusto habituado al aire libre de Dios languideció en aquella despreciable prisión. Esta experiencia fue una gran prueba para su fe en Jesús y para su lealtad hacia él. En verdad, toda esta experiencia fue una gran prueba incluso para la fe de Juan en Dios.»* (<a id="a194_446"></a>[LU 135:11.1](/es/The_Urantia_Book/135#p11_1))
 
 > Los viajes de Vicent Myers en 1985 y 1986 confunden incluso al promotor más aventurero del *Libro de Urantia*. Se embarcó en una campaña (literalmente) para llevar libros de biblioteca gratuitos a lugares apartados de Canadá y a los estados costeros del noreste, el medio oeste superior y los estados de las llanuras de los Estados Unidos. Comenzó en noviembre de 1985 desde su casa en Worcester, MA con la promesa de la Fundación Urantia de libros gratuitos si lograba que los bibliotecarios se comprometieran a aceptarlos, salió adelante. En ese momento había alrededor de 10.300 libros conocidos en Canadá (6.000 en inglés y 4.300 en francés); con una población de 24 millones, «eso es un libro por cada 2.400 personas, una cantidad real de ‘temblor al borde’».
 > 
@@ -211,7 +211,7 @@ Un lector envió fotocopias del Documento 72, «Gobierno en un planeta vecino» 
 
 Un lector de mucho tiempo ha enviado un libro de regalo y una carta a todos los presidentes de los Estados Unidos desde Eisenhower. Un miembro del personal suele acusar recibo del libro, aunque se desconoce si algún Líder del Mundo Libre lo ha leído alguna vez.
 
-> «Ganid, este hombre no tenía hambre de la verdad... los ojos de su mente no estaban abiertos para recibir la luz destinada al alma. ... si pudiera venir a vivir con nosotros, podríamos mostrarle al Padre que está en los cielos con nuestra manera de vivir; nuestras vidas, como hijos de Dios, podrían atraerlo hasta el punto de que se vería obligado a preguntar sobre nuestro Padre.» ([LU 132:7.2](/es/The_Urantia_Book/132#p7_2))
+> «Ganid, este hombre no tenía hambre de la verdad... los ojos de su mente no estaban abiertos para recibir la luz destinada al alma. ... si pudiera venir a vivir con nosotros, podríamos mostrarle al Padre que está en los cielos con nuestra manera de vivir; nuestras vidas, como hijos de Dios, podrían atraerlo hasta el punto de que se vería obligado a preguntar sobre nuestro Padre.» (<a id="a213_386"></a>[LU 132:7.2](/es/The_Urantia_Book/132#p7_2))
 
 > **Misionero Moderno**
 > _Norm Ingram, ... personifica lo que puede y debe ser un programa misionero moderno._
@@ -229,7 +229,7 @@ Un lector de mucho tiempo ha enviado un libro de regalo y una carta a todos los 
 {.is-info}
 
 > **Misión al Clero Cristiano**
-> _«Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús.»_ ([LU 94:12.7 ](/es/The_Urantia_Book/94#p12_7))
+> _«Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús.»_ (<a id="a231_227"></a>[LU 94:12.7 ](/es/The_Urantia_Book/94#p12_7))
 > 
 > 
 > El acercamiento más sistemático y audaz a los líderes religiosos ha sido el programa de 19 años de Meredith J. Sprunger. El Dr. Sprunger, ministro ordenado de la Iglesia Unida de Cristo, psicólogo clínico, rector y profesor universitario jubilado y presidente de la Hermandad Urantia de 1976 a 1979, se dispuso a presentar personalmente El *Libro* de Urantia a sus compañeros cristianos. Este fue un proyecto singularmente valiente, arriesgando la reputación personal y profesional entre sus compañeros.
@@ -280,11 +280,11 @@ El *Libro de Urantia* ha tenido un número considerable de lectores entre las es
 
 Celebridades de la televisión y el cine han llamado o visitado a lo largo de los años, comenzando con Lew «Dr. Kildare» Ayers en 1956, que emocionó a la entonces secretaria general, Marian Rowley. Mantuvieron correspondencia durante varios años. Algunos artistas han mencionado en entrevistas que leyeron el libro, pero la mayoría parece preferir que sus nombres no se usen como un incentivo para que otros lean el libro.
 
-> *«Durante todo el viaje hacia el Paraíso, siempre habrá tiempo para el descanso y la diversión espiritual; y en la carrera de luz y de vida siempre hay tiempo para la adoración y los nuevos logros.»* ([LU 25:7.2](/es/The_Urantia_Book/25#p7_2))
+> *«Durante todo el viaje hacia el Paraíso, siempre habrá tiempo para el descanso y la diversión espiritual; y en la carrera de luz y de vida siempre hay tiempo para la adoración y los nuevos logros.»* (<a id="a282_203"></a>[LU 25:7.2](/es/The_Urantia_Book/25#p7_2))
 
 
 > **Proclamando el Renacimiento Espiritual Venidero en la Radio**
-> _«La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba;»_ ([LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+> _«La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba;»_ (<a id="a286_289"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 > 
 > 
 > Antes de la generación de polémica entre la comunidad de lectores en 1983 con sus predicciones del estallido de la Tercera Guerra Mundial, Vern Grimsley se había establecido como el principal locutor de radio del enseñanzas de Jesús según *El Libro de Urantia*. Como había acordado con el Dr. William Sadler y Christy, Vern no mencionó *El Libro de Urantia* en sus transmisiones y simplemente proclamó la Paternidad de Dios y la Hermandad del Hombre, así como el renacimiento espiritual venidero en este planeta.

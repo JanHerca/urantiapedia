@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
+> «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». (<a id="a36_370"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
 Jesús nos puso el patrón. Se nos dice: 'seguir a Jesús' significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro de servicio desinteresado por el hombre. Una de las cosas más importantes en la vida humana es averiguar lo que Jesús creía, descubrir sus ideales y esforzarse por lograr el exaltado propósito de su vida.
 
-> «De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió». ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> «De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió». (<a id="a40_139"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 Entonces, habiendo adquirido ese conocimiento, simplemente transmitirlo no es suficiente: «**Puedes predicar una religión sobre Jesús pero, por fuerza, debes vivir la religión de Jesús.**» La colección de afirmaciones que sigue puede ayudarnos con el primer paso. Vivirlo depende del lector, pero ¿por qué más tendrías el libro?
 
@@ -99,7 +99,7 @@ Las tres parábolas favoritas de Jesús fueron el hijo pródigo, la moneda perdi
 
 Gradualmente, la mayoría de nosotros aprenderá que el más importante de todos los conocimientos contenidos en los Documentos de Urantia es realmente la vida religiosa de Jesús y cómo la vivió.
 
-> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables, ... nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. ([LU 195:9.4](/es/The_Urantia_Book/195#p9_4))
+> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables, ... nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. (<a id="a101_282"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4))
 
 ## Enlaces externos
 

@@ -46,7 +46,7 @@ Esta es la historia de dos hombres notables que cambiaron el mundo al compartir 
 
 Los escritos del hermano Laurence son muy simples en comparación con los pasajes de _El Libro de Urantia_, pero han tocado muchas mentes y corazones porque la suya fue una experiencia viva de la presencia de Dios en todo lo que hizo. Muchas de las cosas que dijo no son muy diferentes de algunas de las declaraciones del libro. Por ejemplo, de _El Libro de Urantia_:
 
-> Aquellos que conocen a Dios han experimentado el hecho de su presencia; estos mortales que conocen a Dios poseen, en su experiencia personal, la única prueba positiva de la existencia del Dios viviente que un ser humano pueda ofrecer a otro. La existencia de Dios sobrepasa por completo toda posibilidad de demostración, excepto en lo que se refiere al contacto entre la conciencia de Dios que posee la mente humana y la presencia de Dios representada por el Ajustador del Pensamiento que reside en el intelecto mortal, y que es otorgado al hombre en calidad de regalo gratuito del Padre Universal. [[LU 1:2.8](/es/The_Urantia_Book/1#p2_8)]
+> Aquellos que conocen a Dios han experimentado el hecho de su presencia; estos mortales que conocen a Dios poseen, en su experiencia personal, la única prueba positiva de la existencia del Dios viviente que un ser humano pueda ofrecer a otro. La existencia de Dios sobrepasa por completo toda posibilidad de demostración, excepto en lo que se refiere al contacto entre la conciencia de Dios que posee la mente humana y la presencia de Dios representada por el Ajustador del Pensamiento que reside en el intelecto mortal, y que es otorgado al hombre en calidad de regalo gratuito del Padre Universal. <a id="a48_601"></a>[[LU 1:2.8](/es/The_Urantia_Book/1#p2_8)]
 
 Tenga en cuenta esta diferencia de entrega del hermano Laurence:
 
@@ -54,13 +54,13 @@ Tenga en cuenta esta diferencia de entrega del hermano Laurence:
 
 Aquí hay otra comparación de _El Libro de Urantia_:
 
-> «(La oración) es una explosión espontánea de conciencia de Dios». [[LU 91:8.10](/es/The_Urantia_Book/91#p8_10)]
+> «(La oración) es una explosión espontánea de conciencia de Dios». <a id="a56_68"></a>[[LU 91:8.10](/es/The_Urantia_Book/91#p8_10)]
 
 Y del hermano Laurence: «Mis oraciones no son más que un sentido de la presencia de Dios».
 
 El hermano Laurence también dijo: «Estoy más unido a Dios en mis empleos externos que cuando los dejo por devoción y retiro».
 
-Compare eso con esta cita de _El Libro de Urantia_: «Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia». [[LU 91:7.1](/es/The_Urantia_Book/91#p7_1)]
+Compare eso con esta cita de _El Libro de Urantia_: «Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia». <a id="a62_281"></a>[[LU 91:7.1](/es/The_Urantia_Book/91#p7_1)]
 
 _El Libro de Urantia_ nos dice que seremos conocidos por nuestro ejemplo de vivir los frutos del espíritu. Aquí hay una observación del hermano Laurence escrita por alguien que lo conoció:
 
@@ -78,7 +78,7 @@ Muchas de sus declaraciones reflejan algunas de _El Libro de Urantia_. Por ejemp
 
 De _El Libro de Urantia_:
 
-> No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. [[LU 48:6.32](/es/The_Urantia_Book/48#p6_32)]
+> No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. <a id="a80_117"></a>[[LU 48:6.32](/es/The_Urantia_Book/48#p6_32)]
 
 El hermano Laurence en un momento indica que algunos de sus asociados pensaron que se estaba volviendo demasiado místico con estos ejercicios. Ambos hombres han sido acusados ​​de ser místicos, pero han funcionado en sus vidas con bastante éxito y con gran alegría y fe. De hecho, el hermano Laurence se rió cuando lo acusaron de ser un místico. Él dijo: «¿Cómo puede alguien que cree en Jesús no ser un místico?»
 
@@ -98,7 +98,7 @@ En un momento se había desanimado con sus esfuerzos:
 
 Y más tarde en sus esfuerzos:
 
-> «Por lo general, no sentirás ninguna emoción profunda, pero siempre tendrás una “paz que sobrepasa todo entendimiento». ¿Recuerdas esta declaración de _El Libro de Urantia_? «_El éxtasis espiritual auténtico está generalmente acompañado de una gran calma exterior y de un control emocional casi perfecto._ » [LU 91:7.3](/es/The_Urantia_Book/91#p7_3)
+> «Por lo general, no sentirás ninguna emoción profunda, pero siempre tendrás una “paz que sobrepasa todo entendimiento». ¿Recuerdas esta declaración de _El Libro de Urantia_? «_El éxtasis espiritual auténtico está generalmente acompañado de una gran calma exterior y de un control emocional casi perfecto._ » <a id="a100_310"></a>[LU 91:7.3](/es/The_Urantia_Book/91#p7_3)
 
 Después de casi dos años de constante esfuerzo, Frank Laubach hizo esta anotación en su diario:
 
@@ -108,7 +108,7 @@ Esta sencilla práctica requiere sólo una suave presión de la voluntad, no má
 
 Sin embargo, transforma la vida en el cielo. Todo el mundo adquiere una nueva riqueza, y todo el mundo parece teñido de gloria. Por supuesto, no sé lo que otros piensan de mí, pero la alegría que tengo dentro no se puede describir. Si nunca hubiera otra recompensa que esa, me justificaría con creces la práctica.
 
->  Incluso para acercarse al conocimiento de una personalidad divina, el hombre debe consagrar enteramente a ese esfuerzo todos los dones de su personalidad; una devoción parcial y poco entusiasta será ineficaz. ...  Podéis discutir sobre las opiniones acerca de Dios, pero la experiencia con él y en él existe por encima y más allá de toda controversia humana y de la simple lógica intelectual. [[LU 1:6.5-6](/es/The_Urantia_Book/1#p6_5)]
+>  Incluso para acercarse al conocimiento de una personalidad divina, el hombre debe consagrar enteramente a ese esfuerzo todos los dones de su personalidad; una devoción parcial y poco entusiasta será ineficaz. ...  Podéis discutir sobre las opiniones acerca de Dios, pero la experiencia con él y en él existe por encima y más allá de toda controversia humana y de la simple lógica intelectual. <a id="a110_396"></a>[[LU 1:6.5-6](/es/The_Urantia_Book/1#p6_5)]
 
 He tratado de proponer algunas sugerencias basadas en experiencias personales y de amigos. Aquí pueden ser necesarias algunas definiciones. Por ejemplo, generalmente se entiende que la meditación implica silenciar el pensamiento para que el Ajustador pueda comunicarse con el individuo. El proceso que sugieren el hermano Laurence y Frank Laubach, más que un vaciado de la mente, es un llenado consciente de la mente con la presencia de Dios. Todos definen la meditación de acuerdo con la forma en que la expresan personalmente, incluida la conversación, por lo que las expectativas varían entre los individuos.
 

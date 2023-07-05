@@ -38,11 +38,11 @@ dateCreated: 2022-09-26T18:52:49.984Z
 
 En el segundo de los Documentos de Urantia, «La naturaleza de Dios», los reveladores sugieren:
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana». ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana». (<a id="a40_501"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 La frase, "conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza del universo y la bondad divina", es obviamente autorreferencial, ya que en ninguna parte se encuentra una declaración más exquisita de tales verdades que la que se presenta en los Documentos de Urantia. El autor de este artículo continúa:
 
-> «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión». ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
+> «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión». (<a id="a44_471"></a>[LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
 Sin duda, otro propósito importante de esta revelación es la educación, con la difusión de su mensaje en formas que sean comprensibles para personas de todas las razas y religiones y en todos los niveles de capacidad espiritual e intelectual.
 
@@ -68,19 +68,19 @@ Si extrapolamos esa conclusión a la población en general, podemos ver que solo
 
 Por muchos años luz, la enseñanza más esclarecedora tanto del cristianismo como de la revelación de Urantia se refiere a la relación directa del individuo con el Espíritu de Dios que mora en él. Pero debe estar respaldado con el conocimiento de la verdadera naturaleza de Dios y la demostración de su eficacia en la vida de las personas. El fracaso eventual se convierte en una certeza a menos que los creyentes intenten seriamente vivir sus vidas de acuerdo con la enseñanza de Jesús: «De Imitatione Christi».
 
-> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres». ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres». (<a id="a70_291"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
-> «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
+> «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». (<a id="a72_370"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
-> «El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual... » ([LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
+> «El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual... » (<a id="a74_162"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 
 Pero, ¿por qué debería ser tarea de los urantianos preocuparse por los cristianos y la iglesia cristiana? Bueno, los reveladores lo dicen:
 
-> «¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre... » ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> «¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre... » (<a id="a78_237"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 Finalmente necesitamos saber lo que estamos tratando de hacer:
 
-> «Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> «Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. (<a id="a82_485"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 ## Un camino hacia el futuro
 

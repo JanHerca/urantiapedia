@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana». ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana». (<a id="a36_501"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
-> «Los que enseñan la religión de Jesús deberían acercarse a las otras religiones reconociendo las verdades que tienen en común (muchas de las cuales provienen directa o indirectamente del mensaje de Jesús) absteniéndose al mismo tiempo de recalcar demasiado las diferencias». ([LU 149:2.5](/es/The_Urantia_Book/149#p2_5))
+> «Los que enseñan la religión de Jesús deberían acercarse a las otras religiones reconociendo las verdades que tienen en común (muchas de las cuales provienen directa o indirectamente del mensaje de Jesús) absteniéndose al mismo tiempo de recalcar demasiado las diferencias». (<a id="a38_278"></a>[LU 149:2.5](/es/The_Urantia_Book/149#p2_5))
 
 La religión se manifiesta en tres categorías principales:
 
@@ -68,9 +68,9 @@ Aquellos que ya tienen la religión del espíritu deben estar al tanto de varias
 
 Un celo reformador que se fije como prioridad corregir las doctrinas supuestamente erróneas de otras religiones está predestinado al fracaso. La predicación positiva de las verdades espirituales es el único camino sancionado por Jesús, siendo el enfoque recomendado a través de las verdades que se tienen en común. Hay más de veinte versículos del Nuevo Testamento que hablan de los espíritus moradores del Padre y del Hijo, y muchas parábolas que ilustran la naturaleza de Dios como un Padre amoroso, compasivo, perdonador y misericordioso que busca activamente al niño humano descarriado.
 
-Pero incluso si nuestros dos mil millones de cristianos nominales abrazaran la religión del espíritu, puede tener poco o ningún efecto sobre los miles de millones restantes de urantianos, excepto que los frutos de ese espíritu vivo se vuelven visibles como consecuencia directa. «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres». ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+Pero incluso si nuestros dos mil millones de cristianos nominales abrazaran la religión del espíritu, puede tener poco o ningún efecto sobre los miles de millones restantes de urantianos, excepto que los frutos de ese espíritu vivo se vuelven visibles como consecuencia directa. «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres». (<a id="a70_568"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
-Al tratar de llevar la religión del espíritu a las religiones no cristianas, se nos advierte específicamente que no pongamos énfasis en la personalidad de Jesús ([LU 149:2.4](/es/The_Urantia_Book/149#p2_4)), el enfoque mediante la búsqueda de prefiriéndose los motivos. Principalmente esto implica la Paternidad de Dios y la hermandad de toda la humanidad. Al igual que con el cristianismo, este concepto ya es un principio básico de la religión del Islam, pero allí tampoco tiene el impacto que debería.
+Al tratar de llevar la religión del espíritu a las religiones no cristianas, se nos advierte específicamente que no pongamos énfasis en la personalidad de Jesús (<a id="a72_162"></a>[LU 149:2.4](/es/The_Urantia_Book/149#p2_4)), el enfoque mediante la búsqueda de prefiriéndose los motivos. Principalmente esto implica la Paternidad de Dios y la hermandad de toda la humanidad. Al igual que con el cristianismo, este concepto ya es un principio básico de la religión del Islam, pero allí tampoco tiene el impacto que debería.
 
 > Dulces son los usos de la adversidad,
 > Que como el sapo, feo y venenoso,
@@ -86,7 +86,7 @@ Al tratar de llevar la religión del espíritu a las religiones no cristianas, s
 
 Quizás lo que se requiere es mucho más énfasis en la realización de la morada del Padre-espíritu y la mejora de la religión del espíritu que acompaña el desarrollo de una relación personal con la deidad interior. Despojada de la autoridad ajena a nosotros mismos, la religión del espíritu parece tener todo el potencial necesario para traer paz a la tierra y buena voluntad para todos, además de favorecer el progreso de la carrera eterna de quienes la abrazan.
 
-> «La única cosa uniforme que tienen los hombres es el espíritu interior. Aunque los espíritus divinos pueden variar un poco en la naturaleza y la magnitud de su experiencia, reaccionan de manera uniforme a todas las peticiones espirituales. La humanidad sólo podrá alcanzar la unidad y la fraternidad a través de este espíritu, y apelando a él». ([LU 149:3.3](/es/The_Urantia_Book/149#p3_3))
+> «La única cosa uniforme que tienen los hombres es el espíritu interior. Aunque los espíritus divinos pueden variar un poco en la naturaleza y la magnitud de su experiencia, reaccionan de manera uniforme a todas las peticiones espirituales. La humanidad sólo podrá alcanzar la unidad y la fraternidad a través de este espíritu, y apelando a él». (<a id="a88_348"></a>[LU 149:3.3](/es/The_Urantia_Book/149#p3_3))
 
 Para la mayoría de nosotros, la comprensión de la naturaleza de Dios se aprende mejor a través de las parábolas. Importantes entre estos son:
 

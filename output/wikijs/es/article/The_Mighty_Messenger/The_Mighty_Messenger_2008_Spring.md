@@ -102,7 +102,7 @@ Duane también escribió otro espléndido libro basado en las enseñanzas de _El
 
 La Fellowship honró oficialmente a Duane y Lucile Faw junto con Meredith e Irene Sprunger en nuestra Conferencia Internacional en 2002 en Estes Park. Queríamos agradecerles a todos por toda una vida de servicio a Dios y al hombre y ciertamente a la hermandad de los creyentes. Duane fue distinguido en todos los sentidos de la palabra, verdaderamente un oficial y un caballero. El mundo y nuestro movimiento Urantia han perdido un gran tesoro.
 
-> «Aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu en el servicio amoroso a sus semejantes.» [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> «Aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu en el servicio amoroso a sus semejantes.» <a id="a104_138"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
 ## El Libro de Urantia en la India
 
@@ -256,7 +256,7 @@ Fellowship@urantiabook.org
 www.urantiabook.org
 
 
-> «Ninguna buena acción se pierde nunca por completo». [[LU 48:6.7](/es/The_Urantia_Book/48#p6_7)]
+> «Ninguna buena acción se pierde nunca por completo». <a id="a258_55"></a>[[LU 48:6.7](/es/The_Urantia_Book/48#p6_7)]
 
 ## Enlaces externos
 

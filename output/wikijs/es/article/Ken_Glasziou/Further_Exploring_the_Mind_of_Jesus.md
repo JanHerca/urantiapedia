@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T07:02:53.956Z
 </figure>
 
 
-> Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios ... y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido. ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
+> Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios ... y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido. (<a id="a36_280"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
 Muchas veces en los Documentos de Urantia se nos exhorta a vivir como vivió Jesús.
 
@@ -43,13 +43,13 @@ Muchas veces en los Documentos de Urantia se nos exhorta a vivir como vivió Jes
 
 > "La vida que vivirás", es la única que tienes.
 
-> Podéis predicar una religión acerca de Jesús, pero la religión de Jesús, forzosamente, tenéis que vivirla. ([LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
+> Podéis predicar una religión acerca de Jesús, pero la religión de Jesús, forzosamente, tenéis que vivirla. (<a id="a45_110"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
 
 Pero de ninguna manera esto significa que debemos copiar la vida material de Jesús. Es la vida espiritual de Jesús la que se nos exhorta a vivir, y para hacerlo tenemos que conocer la mente de Jesús. ¿Por qué? Para que podamos ‘sentir’ cómo una mente perfectamente espiritualizada respondería a las experiencias cotidianas ordinarias de la vida.
 
-Nuestra cita de [LU 196:2.1](/es/The_Urantia_Book/196#p2_1) implica que, a menos que podamos vivir una vida espiritualizada, perdemos el tiempo predicando acerca de Jesús. Lo que ahora se necesita...
+Nuestra cita de <a id="a49_16"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1) implica que, a menos que podamos vivir una vida espiritualizada, perdemos el tiempo predicando acerca de Jesús. Lo que ahora se necesita...
 
-> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo; tenéis que avanzar desde el lugar donde os encontráis. ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo; tenéis que avanzar desde el lugar donde os encontráis. (<a id="a51_408"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 Ha habido muchas vidas maravillosas vividas en los últimos 2000 años por hombres y mujeres que realmente descubrieron el significado de «vivir como vivió Jesús». Entonces, ¿qué fue lo que descubrieron en los Evangelios que actuó tan singularmente como su luz guía?
 

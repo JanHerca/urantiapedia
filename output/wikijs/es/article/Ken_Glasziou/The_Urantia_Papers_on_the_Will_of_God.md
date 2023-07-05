@@ -54,15 +54,15 @@ Jesús dijo: La voluntad de Dios es el camino de Dios, asociación con la elecci
 
 > Hacer la Voluntad de Dios, por lo tanto, es la experiencia progresiva de llegar a ser cada vez más como Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero.
 
-> Recordad siempre que la voluntad de Dios se puede hacer en cualquier ocupación terrestre. No hay profesiones santas y profesiones laicas. Todas las cosas son sagradas en la vida de aquellos que están dirigidos por el espíritu, es decir, subordinados a la verdad, ennoblecidos por el amor, dominados por la misericordia y refrenados por la equidad —por la justicia. El espíritu que mi Padre y yo enviaremos al mundo no es solamente el Espíritu de la Verdad, sino también el espíritu de la belleza idealista. ([LU 155:6.11](/es/The_Urantia_Book/155#p6_11))
+> Recordad siempre que la voluntad de Dios se puede hacer en cualquier ocupación terrestre. No hay profesiones santas y profesiones laicas. Todas las cosas son sagradas en la vida de aquellos que están dirigidos por el espíritu, es decir, subordinados a la verdad, ennoblecidos por el amor, dominados por la misericordia y refrenados por la equidad —por la justicia. El espíritu que mi Padre y yo enviaremos al mundo no es solamente el Espíritu de la Verdad, sino también el espíritu de la belleza idealista. (<a id="a56_510"></a>[LU 155:6.11](/es/The_Urantia_Book/155#p6_11))
 
-> «Cuando la voluntad de Dios es vuestra ley, sois unos nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, los hijos liberados del reino». (Jesús) ([LU 141:2.2](/es/The_Urantia_Book/141#p2_2))
+> «Cuando la voluntad de Dios es vuestra ley, sois unos nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, los hijos liberados del reino». (Jesús) (<a id="a58_309"></a>[LU 141:2.2](/es/The_Urantia_Book/141#p2_2))
 
 El reino de Dios en este mundo es el deseo supremo de hacer la voluntad de Dios, el amor desinteresado del hombre que da los buenos frutos de una conducta ética y moral mejorada.
 
 Aunque no podemos ver a Dios, podemos conocerlo. Y al vivir diariamente la voluntad del Padre en el cielo, podemos revelarlo a nuestros semejantes.
 
-> En el reino venidero, no os preocupéis por las cosas que alimentan vuestra ansiedad, sino más bien interesaos en hacer solamente, en todo momento, la voluntad del Padre que está en los cielos. ([LU 137:1.6](/es/The_Urantia_Book/137#p1_6))
+> En el reino venidero, no os preocupéis por las cosas que alimentan vuestra ansiedad, sino más bien interesaos en hacer solamente, en todo momento, la voluntad del Padre que está en los cielos. (<a id="a64_196"></a>[LU 137:1.6](/es/The_Urantia_Book/137#p1_6))
 
 El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la «voluntad del Padre que está en los cielos».
 

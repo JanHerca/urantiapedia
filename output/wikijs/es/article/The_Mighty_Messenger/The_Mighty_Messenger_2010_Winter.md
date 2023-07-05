@@ -152,7 +152,7 @@ El Premio David Zebedee se concibió por primera vez durante el Parlamento de la
 
 Ese parecía un título apropiado para este premio de servicio, especialmente considerando lo que David Zebedeo le dijo a Jesús:
 
-> _Ve a efectuar tu labor, Maestro. No te dejes atrapar por los fanáticos, y no dudes nunca de que los mensajeros te seguirán. Mis hombres nunca perderán el contacto contigo; gracias a ellos, sabrás cómo progresa el reino en otras regiones, y por medio de ellos todos tendremos noticias tuyas. Nada que pueda ocurrirme interrumpirá este servicio, porque he nombrado un primero y un segundo sustitutos, e incluso un tercero. No soy ni un instructor ni un predicador, pero mi corazón me exige que haga esto, y no hay nada que pueda detenerme._ [[LU 154:5.3](/es/The_Urantia_Book/154#p5_3)]
+> _Ve a efectuar tu labor, Maestro. No te dejes atrapar por los fanáticos, y no dudes nunca de que los mensajeros te seguirán. Mis hombres nunca perderán el contacto contigo; gracias a ellos, sabrás cómo progresa el reino en otras regiones, y por medio de ellos todos tendremos noticias tuyas. Nada que pueda ocurrirme interrumpirá este servicio, porque he nombrado un primero y un segundo sustitutos, e incluso un tercero. No soy ni un instructor ni un predicador, pero mi corazón me exige que haga esto, y no hay nada que pueda detenerme._ <a id="a154_542"></a>[[LU 154:5.3](/es/The_Urantia_Book/154#p5_3)]
 
 ## Feliz cumpleaños, Jesús
 
@@ -245,7 +245,7 @@ Lo que es más importante, estaremos trabajando en el corazón de lo que es Trut
 El costo del programa Truthseekers, desde el martes por la tarde hasta el domingo por la tarde, es de $495.00. El precio incluye pensión, alojamiento, transporte y todas las actividades. Nuestro grupo de edad es de 15 a 19 años con algunas excepciones. Al igual que con todos nuestros programas, los buscadores de la verdad anteriores siempre son bienvenidos a participar, independientemente de su edad. Regístrese en línea en el sitio web de la Fellowship. Si tiene alguna pregunta, no dude en llamarme a mí, a Tom Choquette al 425-218-2216 o a Fred Harris al 850-528-3393. Nunca hemos rechazado a una persona interesada por falta de fondos. Hay Fellowships y Fellowships parciales disponibles. Cuidarse. Estar a salvo. Nos vemos pronto. amor, tom
 
 
-> «En mi universo y en el universo de universos de mi Padre… en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija». [[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
+> «En mi universo y en el universo de universos de mi Padre… en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija». <a id="a247_172"></a>[[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
 
 ## La Sociedad de Alaska Celebra el 25 Aniversario
 
@@ -448,7 +448,7 @@ Programas semanales de radio por Internet presentados por lectores de El Libro d
 > Sala de chat moderada disponible para usuarios registrados
 {.is-info}
 
-> Tal como un hombre piensa en su corazón, así es él. [[LU 131:2.8](/es/The_Urantia_Book/131#p2_8)]
+> Tal como un hombre piensa en su corazón, así es él. <a id="a450_54"></a>[[LU 131:2.8](/es/The_Urantia_Book/131#p2_8)]
 
 ## Próximos Eventos…
 

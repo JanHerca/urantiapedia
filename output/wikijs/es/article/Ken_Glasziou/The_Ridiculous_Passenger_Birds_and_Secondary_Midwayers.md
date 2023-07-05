@@ -40,7 +40,7 @@ En caso de que la historia de la tierra y la luna no fuera suficiente para poner
 
 ## Contenido
 
-Consideremos primero las «aves de pasajeros». Los Documentos tienen a estas increíbles criaturas siendo empleadas como taxis para transportar a Adán y Eva a lugares de encuentro en el jardín. Si esto no fuera lo suficientemente notable, se nos dice: «_Estas aves enormes son capaces de llevar a uno o dos hombres de tamaño medio durante un vuelo sin escalas de más de ochocientos kilómetros... Estas aves son sumamente inteligentes, muy obedientes e increíblemente afectuosas». Y eran «a menudo capaces de decir muchas palabras de los idiomas del reino_». ([LU 52:1.5](/es/The_Urantia_Book/52#p1_5))
+Consideremos primero las «aves de pasajeros». Los Documentos tienen a estas increíbles criaturas siendo empleadas como taxis para transportar a Adán y Eva a lugares de encuentro en el jardín. Si esto no fuera lo suficientemente notable, se nos dice: «_Estas aves enormes son capaces de llevar a uno o dos hombres de tamaño medio durante un vuelo sin escalas de más de ochocientos kilómetros... Estas aves son sumamente inteligentes, muy obedientes e increíblemente afectuosas». Y eran «a menudo capaces de decir muchas palabras de los idiomas del reino_». (<a id="a42_557"></a>[LU 52:1.5](/es/The_Urantia_Book/52#p1_5))
 
 ¿Puedes ceerlo? ¿Pájaros inteligentes, capaces de hablar el idioma del reino, despegar y aterrizar con una carga útil de 2 hombres y, además, volar 500 millas sin parar con esa misma carga útil? Deben estar bromeando.
 
@@ -50,11 +50,11 @@ Sin embargo, los documentos hacen que esta notable pareja se case y luego tenga 
 
 Los resultados deben haberlo asombrado. Las parejas pudieron reproducirse cada setenta días, su descendencia no solo era invisible, sino que nacía completamente desarrollada y completamente madura, «aunque nunca dejó de crecer en sabiduría y experiencia».
 
-Estos descendientes inusuales fueron llamados intermedios secundarios. Aunque son incapaces de procrear, no tienen necesidad de dormir ni de alimento material terrenal, siendo energizados por «emanaciones espaciales» que son un misterio para nosotros los humanos. ¡Y son inmortales! ([LU 77:6.1](/es/The_Urantia_Book/77#p6_1))
+Estos descendientes inusuales fueron llamados intermedios secundarios. Aunque son incapaces de procrear, no tienen necesidad de dormir ni de alimento material terrenal, siendo energizados por «emanaciones espaciales» que son un misterio para nosotros los humanos. ¡Y son inmortales! (<a id="a52_284"></a>[LU 77:6.1](/es/The_Urantia_Book/77#p6_1))
 
 Si los lectores del Libro de Urantia leyeran este tipo de material en la Biblia o el Corán, probablemente se derrumbarían a carcajadas. Así que seguramente estos dos ejemplos deben obligarnos a considerar si los reveladores han desafiado repetidamente nuestros intelectos, rogándonos virtualmente que nos abstengamos de convertir su preciosa revelación en un ícono infalible.
 
-> Que quede claro que las revelaciones no son necesariamente inspiradas. La cosmología de estas revelaciones no es inspirada. Está limitado por nuestro permiso para la coordinación y clasificación del conocimiento actual. ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+> Que quede claro que las revelaciones no son necesariamente inspiradas. La cosmología de estas revelaciones no es inspirada. Está limitado por nuestro permiso para la coordinación y clasificación del conocimiento actual. (<a id="a56_223"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 ## Enlaces externos
 

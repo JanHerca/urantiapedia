@@ -61,15 +61,15 @@ Descubrí que al usar el registro bíblico de Jesús puedo ministrar y enseñar 
 
 Mi segunda razón principal para el ministerio cristiano se deriva del mismo _El Libro de Urantia_. Porque si observamos lo que realmente enseñan los Documentos de Urantia, no encontramos que nos indiquen que difundamos los Libros de Urantia; más bien, piden una nueva revelación de Jesús y sus enseñanzas reales. Las siguientes citas deberían ayudar a aclarar esto:
 
-> Es preciso que se produzca un renacimiento de las verdaderas enseñanzas de Jesús... [[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)]
+> Es preciso que se produzca un renacimiento de las verdaderas enseñanzas de Jesús... <a id="a63_86"></a>[[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)]
 
-> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
+> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. <a id="a65_136"></a>[[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
 
-> La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. <a id="a67_175"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 Y tomemos especial nota de esta última cita:
 
-> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. [[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. <a id="a71_154"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 ## Los cristianos son nuestro público objetivo
 
@@ -77,13 +77,13 @@ Hay otro aspecto del ministerio cristiano que es importante comprender: la revel
 
 Por ejemplo, considere esta cita de la página 2082:
 
-> ...Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. [[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)]
+> ...Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. <a id="a79_202"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)]
 
 En la doctrina cristiana, una iglesia exterior ha tomado el lugar del reino espiritual interior de sumisión a Dios de Jesús. Pero la membresía en la iglesia no es equivalente a la ciudadanía en el reino; uno es espiritual y el otro principalmente social. El reino espiritual de Jesús aún existe en aquellos creyentes que se dedican a hacer la voluntad del Padre. Esta hermandad del reino ahora duerme dentro de la iglesia cristiana, pero eventualmente saldrá adelante. Nuestro trabajo es ayudar a despertar e inspirar a los cristianos dormidos a través de un renacimiento de las enseñanzas reales de Jesús.
 
 Y debemos entender que una nueva revelación de Jesús, que atraiga y unifique a todos los verdaderos creyentes, es la gran meta que los reveladores nos presentan en su visión del futuro religioso ideal de nuestro mundo. Escuche su promesa profética de la página 2086:
 
-> La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. [[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
+> La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. <a id="a85_271"></a>[[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
 
 En resumen, el claro llamado de los reveladores es elevar y unificar a los cristianos llevándolos de regreso al fundamento de su fe, el evangelio original del reino de Jesús, las buenas nuevas de que Dios es nuestro amoroso Padre celestial y todos somos su planeta. hijos, hijos e hijas de Dios.
 
@@ -177,11 +177,11 @@ Por lo tanto, le insto a que haga uso de este libro. Hace un gran regalo. Puede 
 
 Quisiera terminar ahora con unas palabras de aliento del _El Libro de Urantia_ para aquellos que sienten este llamado a difundir la religión de Jesús en nuestro mundo. Esto es lo que dicen los reveladores con respecto a nuestro tiempo presente y las perspectivas de una nueva revelación de Jesús:
 
-> Las enseñanzas de Jesús... incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. Estas épocas de grandes pruebas y de derrotas amenazantes siempre son períodos de gran revelación. [[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)]
+> Las enseñanzas de Jesús... incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. Estas épocas de grandes pruebas y de derrotas amenazantes siempre son períodos de gran revelación. <a id="a179_233"></a>[[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)]
 
-> Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús. [[LU 195:9.5](/es/The_Urantia_Book/195#p9_5)]
+> Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús. <a id="a181_173"></a>[[LU 195:9.5](/es/The_Urantia_Book/195#p9_5)]
 
-> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. [[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)]
+> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. <a id="a183_355"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)]
 
 Así vemos que el tiempo para esta nueva revelación de Jesús no está lejano en el futuro; Esto es ahora. Esto significa que al trabajar por una nueva revelación de Jesús estamos en armonía con las necesidades de la época. Y lo más alentador es que los reveladores nos aseguran eso y que nuestras perspectivas de éxito son excelentes. Las enseñanzas de Jesús están destinadas a gobernar nuestro mundo; este renacimiento de Jesús y sus enseñanzas reales serán la siguiente etapa en la evolución religiosa de nuestro planeta.
 

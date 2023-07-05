@@ -47,7 +47,7 @@ Jesús eliminó todas las ceremonias de sacrificio y expiación. Destruyó la ba
 
 Dios, el Padre, trata con el hombre, su hijo, sobre la base, no de la virtud o el mérito reales, sino del reconocimiento de la motivación del hijo: el propósito y la intención de la criatura. La relación es de asociación padre-hijo y está impulsada por el amor divino.
 
-> La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. (<a id="a49_174"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
 ## Enlaces externos
 

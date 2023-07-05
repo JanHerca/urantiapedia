@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
 </figure>
 
 
-> El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. (<a id="a33_499"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 ¿Dónde encontramos estos «conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza del universo y la bondad divina?» ¿Hay algo en alguna parte que sea comparable a lo que ya tenemos en la revelación de Urantia? La respuesta a esa pregunta parece ser un enfático «¡No!» Lo que hace que la declaración sea autorreferencial.
 

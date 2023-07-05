@@ -102,14 +102,14 @@ Gracias, Nelson Mandela, por mostrarnos, una vez más, lo que se puede lograr cu
 
 Nota: Para similaridades a Jesús véase:
 
-[^1]: [LU 132:6.2](/es/The_Urantia_Book/132#p6_2)
+[^1]: <a id="a104_6"></a>[LU 132:6.2](/es/The_Urantia_Book/132#p6_2)
 
-[^2]: [LU 100:7.2](/es/The_Urantia_Book/100#p7_2)
+[^2]: <a id="a106_6"></a>[LU 100:7.2](/es/The_Urantia_Book/100#p7_2)
 
-[^3]: [LU 170:2.23](/es/The_Urantia_Book/170#p2_23)
+[^3]: <a id="a108_6"></a>[LU 170:2.23](/es/The_Urantia_Book/170#p2_23)
 
-[^4]: [LU 138:8.9](/es/The_Urantia_Book/138#p8_9)
+[^4]: <a id="a110_6"></a>[LU 138:8.9](/es/The_Urantia_Book/138#p8_9)
 
-[^5]: [LU 141:3.4](/es/The_Urantia_Book/141#p3_4)
+[^5]: <a id="a112_6"></a>[LU 141:3.4](/es/The_Urantia_Book/141#p3_4)
 
 

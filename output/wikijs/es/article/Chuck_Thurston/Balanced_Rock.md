@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> «Toda la realidad está siempre en equilibrio entre los potenciales y los reales del cosmos, y estos están eternamente armonizados por el espíritu de la divinidad,» [LU 94:6.3](/es/The_Urantia_Book/94#p6_3)
+> «Toda la realidad está siempre en equilibrio entre los potenciales y los reales del cosmos, y estos están eternamente armonizados por el espíritu de la divinidad,» <a id="a43_166"></a>[LU 94:6.3](/es/The_Urantia_Book/94#p6_3)
 
 
 

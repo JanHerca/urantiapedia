@@ -52,12 +52,12 @@ dateCreated: 2022-9-9T8:12:18Z
 >
 > ...
 >
-> La personalidad no es simplemente un atributo de Dios; representa más bien la totalidad de la naturaleza infinita coordinada y de la voluntad divina unificada que se manifiesta en una expresión perfecta eterna y universal. En el sentido supremo, la personalidad es la revelación de Dios al universo de universos. (([LU 1:5.4-13](/es/The_Urantia_Book/1#p5_4)))
+> La personalidad no es simplemente un atributo de Dios; representa más bien la totalidad de la naturaleza infinita coordinada y de la voluntad divina unificada que se manifiesta en una expresión perfecta eterna y universal. En el sentido supremo, la personalidad es la revelación de Dios al universo de universos. ((<a id="a54_317"></a>[LU 1:5.4-13](/es/The_Urantia_Book/1#p5_4)))
 
 > Dios es absoluto dejar-ser, y dejar-ser es el fundamento ontológico del amor. Dejar ser es entrega o entrega de sí mismo, de modo que la obra creadora de Dios es una obra de amor y de entrega en la que Él se ha puesto a sí mismo. En la medida en que los mismos seres creados manifiestan creatividad, amor, entrega, tienden a ser como Dios.
 > &nbsp; &nbsp; John Macquarrie «_Principios de la teología cristiana.»_
 
-> La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual. ([LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
+> La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual. (<a id="a59_367"></a>[LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
 
 ## Enlaces externos
 

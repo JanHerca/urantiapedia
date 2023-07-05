@@ -34,11 +34,11 @@ dateCreated: 2022-09-26T22:28:40.037Z
 </figure>
 
 
-> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana._» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana._» (<a id="a36_144"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 ## Nuestro «alter ego»: sus inicios
 
-Cuando aprenden a utilizar el lenguaje por primera vez, muchos niños son propensos a pensar en voz alta, a expresar sus pensamientos con palabras, incluso si nadie está presente para escucharlos. Y con el amanecer de la imaginación creativa del niño, muestra una tendencia a conversar con compañeros imaginarios. ([LU 91:3.1](/es/The_Urantia_Book/91#p3_1))
+Cuando aprenden a utilizar el lenguaje por primera vez, muchos niños son propensos a pensar en voz alta, a expresar sus pensamientos con palabras, incluso si nadie está presente para escucharlos. Y con el amanecer de la imaginación creativa del niño, muestra una tendencia a conversar con compañeros imaginarios. (<a id="a40_314"></a>[LU 91:3.1](/es/The_Urantia_Book/91#p3_1))
 
 De esta manera, un ego en ciernes busca tener comunión con un alter ego ficticio. Mediante esta técnica, el niño aprende pronto a convertir sus conversaciones de monólogo en pseudodiálogos en los que este alter ego responde a los pensamientos y deseos originales del niño. Gran parte del pensamiento adulto se lleva a cabo mentalmente en esta misma forma conversacional.
 
@@ -78,7 +78,7 @@ La oración siempre ha sido y siempre será una doble experiencia humana: un pro
 
 Cuando la oración no busca nada para el que ora ni nada para sus semejantes, entonces tales actitudes del alma tienden a los niveles de la verdadera adoración.
 
-> Aparte de todo lo que supone el yo superior en la experiencia de la oración, se debe recordar que la oración ética es una manera magnífica de elevar el propio ego y de reforzar el yo con vistas a una vida mejor y a unas consecuciones más elevadas. La oración induce al ego humano a buscar asistencia en dos direcciones: ayuda material en el depósito subconsciente de la experiencia humana, e inspiración y guía en las fronteras superconscientes donde lo material se pone en contacto con lo espiritual, con el Monitor de Misterio. (de [LU 91:3.5](/es/The_Urantia_Book/91#p3_5))
+> Aparte de todo lo que supone el yo superior en la experiencia de la oración, se debe recordar que la oración ética es una manera magnífica de elevar el propio ego y de reforzar el yo con vistas a una vida mejor y a unas consecuciones más elevadas. La oración induce al ego humano a buscar asistencia en dos direcciones: ayuda material en el depósito subconsciente de la experiencia humana, e inspiración y guía en las fronteras superconscientes donde lo material se pone en contacto con lo espiritual, con el Monitor de Misterio. (de <a id="a80_536"></a>[LU 91:3.5](/es/The_Urantia_Book/91#p3_5))
 
 ## Enlaces externos
 

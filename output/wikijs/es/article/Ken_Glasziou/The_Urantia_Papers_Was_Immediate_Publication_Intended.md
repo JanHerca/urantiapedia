@@ -38,9 +38,9 @@ Después de un período de prueba que abarcó más de veinte años, los revelado
 
 Esta es una pregunta interesante ya que puede arrojar algo de luz sobre el pasado, presente y futuro de los Documentos.
 
-> La rectitud divina no está dominada por una estricta justicia retributiva; Dios como padre trasciende a Dios como juez. ([LU 2:6.6](/es/The_Urantia_Book/2#p6_6))
+> La rectitud divina no está dominada por una estricta justicia retributiva; Dios como padre trasciende a Dios como juez. (<a id="a40_123"></a>[LU 2:6.6](/es/The_Urantia_Book/2#p6_6))
 
-Es principalmente debido al trabajo de Matthew Block que ahora tenemos un conocimiento razonablemente detallado de la extensión del uso de materiales de origen humano por parte de los reveladores en la preparación de los Documentos (reconocidos por ellos en [LU 0:12.12](/es /The_Urantia_Book/0#p12_12) y [LU 121:8.12](/es/The_Urantia_Book/121#p8_12) de _El Libro de Urantia_).
+Es principalmente debido al trabajo de Matthew Block que ahora tenemos un conocimiento razonablemente detallado de la extensión del uso de materiales de origen humano por parte de los reveladores en la preparación de los Documentos (reconocidos por ellos en [LU 0:12.12](/es /The_Urantia_Book/0#p12_12) y <a id="a42_305"></a>[LU 121:8.12](/es/The_Urantia_Book/121#p8_12) de _El Libro de Urantia_).
 
 Uno de los efectos del retraso en la primera impresión de los Documentos hasta 1955 fue que durante este largo período de incubación (además de un período más extenso en el que creció el número de lectores), se arraigó una actitud fundamentalista hacia el contenido de los Documentos.
 
@@ -56,11 +56,11 @@ El trabajo de Matthew Block al revelar fuentes humanas nos ha permitido revisar 
 
 Entre las obras fuente se encontraban libros como _La arquitectura del universo_ de William Swann, impreso en 1934, junto con otros textos actuales sobre temas académicos, incluida la teología.
 
-Es muy poco probable que hubiera surgido una gran cantidad de lectores de _El Libro de Urantia_ sin que estas fuentes se revelaran rápidamente. Sin duda, esto habría generado publicidad y críticas, y eso habría sido seguido aún más rápidamente por lectores devotos que llamaron la atención sobre el mandato de revelación en [LU 101:4.2](/es/The_Urantia_Book/101#p4_2).
+Es muy poco probable que hubiera surgido una gran cantidad de lectores de _El Libro de Urantia_ sin que estas fuentes se revelaran rápidamente. Sin duda, esto habría generado publicidad y críticas, y eso habría sido seguido aún más rápidamente por lectores devotos que llamaron la atención sobre el mandato de revelación en <a id="a58_324"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2).
 
 El mandato contiene pasajes como: “dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán revisión; no estamos en libertad de anticipar los descubrimientos científicos de mil años; estamos muy obstaculizados por la proscripción de la impartición de conocimiento no ganado; que quede claro que la revelación no es necesariamente inspirada; la cosmología de estas revelaciones no es inspirada; etcétera etcétera."
 
-Probablemente también se habría llamado la atención sobre los comentarios en [LU 0:12.12](/es/The_Urantia_Book/0#p12_12) y [LU 121:8.12](/es/The_Urantia_Book/121#p8_12) sobre el uso de los reveladores de alrededor de tres mil fuentes humanas en la elaboración de sus Papers.
+Probablemente también se habría llamado la atención sobre los comentarios en <a id="a62_77"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12) y <a id="a62_123"></a>[LU 121:8.12](/es/The_Urantia_Book/121#p8_12) sobre el uso de los reveladores de alrededor de tres mil fuentes humanas en la elaboración de sus Papers.
 
 La imaginación se sobresalta al pensar en lo que podría haber sucedido. _El Libro de Urantia_ como una revelación de seres falibles, supuestamente celestiales, en lugar de uno que pretendiera llevar la autoridad divina, puede haber tenido un impacto significativo en los colegios teológicos y otras instituciones terciarias.
 

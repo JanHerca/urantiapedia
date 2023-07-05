@@ -63,7 +63,7 @@ Para respaldar aún más nuestra opinión de que la oposición a la teoría era 
 
 Desde nuestro punto de vista, si los Documentos de Urantia hubieran sido escritos por autores humanos, habría sido bastante irracional para ellos ir contra la corriente de la fuerte opinión profesional prevaleciente al hacer que su historia de la vida y la evolución de la tierra dependiera tanto de la verdad de la teoría de la deriva continental.
 
-Para la historia de la deriva continental de los Documentos de Urantia, el principal elemento «profético» es la fecha real de inicio de la deriva, que se da hace 750 millones de años. ([LU 57:8.23](/es/The_Urantia_Book/57#p8_23))
+Para la historia de la deriva continental de los Documentos de Urantia, el principal elemento «profético» es la fecha real de inicio de la deriva, que se da hace 750 millones de años. (<a id="a65_185"></a>[LU 57:8.23](/es/The_Urantia_Book/57#p8_23))
 
 Como fecha de inicio de la deriva, Wegener había sugerido hace 200-300 millones de años, una visión que siguió siendo dominante hasta la década de 1980, cuando la fecha de inicio se retrasó a 500 millones de años o más. Una estimación reciente coincide exactamente con los 750 millones de años dados en el Documento de Urantia [57](/es/The_Urantia_Book/57).
 
@@ -73,7 +73,7 @@ Si los autores de los Documentos de Urantia fueran humanos, necesitamos una expl
 
 Una suposición afortunada parece ser la única alternativa. Pero las probabilidades en contra de adivinar correctamente son enormes.
 
-> Todo conocimiento finito y toda comprensión por parte de las criaturas son *relativos.* La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos. ([LU 2:7.1](/es/The_Urantia_Book/2#p7_1))
+> Todo conocimiento finito y toda comprensión por parte de las criaturas son *relativos.* La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos. (<a id="a75_237"></a>[LU 2:7.1](/es/The_Urantia_Book/2#p7_1))
 
 ## Referencias
 

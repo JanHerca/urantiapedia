@@ -57,9 +57,9 @@ Para Jesús, el reino de los cielos es una realidad presente, aquí y ahora; par
 
 Jesús enseñó que vivimos en la presencia de un Padre amoroso; Pablo enseñó que vivimos en medio de una fuerza maligna que busca controlarnos.
 
-La reforma venidera sacudirá los cimientos mismos del cristianismo porque finalmente reemplazará la melancólica metafísica de la muerte de Pablo con la sólida revelación de la vida que Jesús vivió y enseñó durante su estadía terrenal como el Hijo del Hombre y el Hijo de Dios. ([[LU 196:2.1](/es/The_Urantia_Book/196#p2_1)])
+La reforma venidera sacudirá los cimientos mismos del cristianismo porque finalmente reemplazará la melancólica metafísica de la muerte de Pablo con la sólida revelación de la vida que Jesús vivió y enseñó durante su estadía terrenal como el Hijo del Hombre y el Hijo de Dios. (<a id="a59_278"></a>[[LU 196:2.1](/es/The_Urantia_Book/196#p2_1)])
 
-Jesús dijo: «Debéis salir a predicar el amor de Dios y el servicio a los hombres. Lo que el mundo más necesita saber es que los hombres son hijos de Dios, y que pueden comprender realmente por la fe esta verdad ennoblecedora, y experimentarla diariamente». ([[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)])
+Jesús dijo: «Debéis salir a predicar el amor de Dios y el servicio a los hombres. Lo que el mundo más necesita saber es que los hombres son hijos de Dios, y que pueden comprender realmente por la fe esta verdad ennoblecedora, y experimentarla diariamente». (<a id="a61_258"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)])
 
 ## Referencias
 

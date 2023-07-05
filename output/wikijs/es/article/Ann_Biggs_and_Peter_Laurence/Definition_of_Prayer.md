@@ -47,13 +47,13 @@ por _Ann Biggs y Peter Laurence_
 
 Nuestro grupo de York, Pensilvania, se unió recientemente al grupo de Stevie Shaefer
 
-grupo de Alexandria, Virginia para ciertos domingos de cada mes. Entre los dos grupos, tenemos una reunión cada domingo. Mientras estudiaba el Documento 196, expresé mi sentimiento de estar abrumado con [LU 196:0.10](/es/The_Urantia_Book/196#p0_10), la oración de Jesús como "una expresión de actitud espiritual".
+grupo de Alexandria, Virginia para ciertos domingos de cada mes. Entre los dos grupos, tenemos una reunión cada domingo. Mientras estudiaba el Documento 196, expresé mi sentimiento de estar abrumado con <a id="a49_203"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10), la oración de Jesús como "una expresión de actitud espiritual".
 
 Al día siguiente, Peter Laurence desarrolló una serie de aproximadamente 24 preguntas sobre esto, discutimos cada una extensamente por teléfono y luego puse esos conceptos y puntos de discusión en algunas diapositivas ilustradas para un taller en uno de los domingos. Fue estimulante y muy útil en realidad, ver cómo podemos tratar la oración y la comunión con Dios de manera similar a como lo hizo Jesús. Hemos hecho un par de otros talleres para la Sociedad de Nueva York antes, por lo que fue bastante fluido. Es fantástico trabajar con él; muy bueno con las palabras y puede pensar "en el acto", mientras que generalmente me gusta trabajar en silencio entre nuestras reuniones, y luego llevar lo que he creado a nuestra próxima sesión.
 
 ## Definición de oración
 
-[LU 196:0.10](/es/The_Urantia_Book/196#p0_10) Jesús nunca oró como un deber religioso. Para él la oración era
+<a id="a55_0"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10) Jesús nunca oró como un deber religioso. Para él la oración era
 
 1. una expresión sincera de actitud espiritual - ¿Qué es una «actitud espiritual»?
 2. una declaración de lealtad del alma - ¿Lealtad a qué?

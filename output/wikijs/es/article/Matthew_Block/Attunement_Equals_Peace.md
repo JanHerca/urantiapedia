@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-En el Documento 39 ([LU 39:5.5](/es/The_Urantia_Book/39#p5_5)) de _El Libro de Urantia_ (437, edición de 1955), se nos presenta a un grupo de serafines, llamados las "Almas de la Paz". Estos ángeles pertenecen a la orden de los Auxiliares Planetarios, que inician su ministerio en un mundo habitado durante el régimen adámico. Además de ayudar a fomentar la realización de «la paz en la tierra y la buena voluntad entre los hombres», se nos dice que: «En las épocas más avanzadas de la evolución planetaria, estos serafines son fundamentales para suplantar la idea de la expiación por el concepto de la sintonía divina como una filosofía de supervivencia mortal.»
+En el Documento 39 (<a id="a36_20"></a>[LU 39:5.5](/es/The_Urantia_Book/39#p5_5)) de _El Libro de Urantia_ (437, edición de 1955), se nos presenta a un grupo de serafines, llamados las "Almas de la Paz". Estos ángeles pertenecen a la orden de los Auxiliares Planetarios, que inician su ministerio en un mundo habitado durante el régimen adámico. Además de ayudar a fomentar la realización de «la paz en la tierra y la buena voluntad entre los hombres», se nos dice que: «En las épocas más avanzadas de la evolución planetaria, estos serafines son fundamentales para suplantar la idea de la expiación por el concepto de la sintonía divina como una filosofía de supervivencia mortal.»
 
 Esta descripción de su ministerio es intrigante en su vinculación de paz y sintonía. Durante años me he preguntado por qué la suplantación de la doctrina de la expiación fue tan vital y relevante para el logro de la paz planetaria.
 

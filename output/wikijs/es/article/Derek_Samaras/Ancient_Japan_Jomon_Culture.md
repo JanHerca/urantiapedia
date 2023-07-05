@@ -34,7 +34,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 
-> Los antepasados del pueblo japonés no fueron arrojados del continente hasta el año 12.000 a. de J.C., momento en que fueron expulsados debido a la poderosa presión de las tribus chinas nórdicas. [[LU 79:6.3](/es/The_Urantia_Book/79#p6_3)]
+> Los antepasados del pueblo japonés no fueron arrojados del continente hasta el año 12.000 a. de J.C., momento en que fueron expulsados debido a la poderosa presión de las tribus chinas nórdicas. <a id="a36_197"></a>[[LU 79:6.3](/es/The_Urantia_Book/79#p6_3)]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004135.jpg">
@@ -57,7 +57,7 @@ El período Jōmon se divide en seis subperíodos. Algunos eruditos no están de
 - Jōmon tardío 1500-1000 a.C. o 2000 - 1000 a.C.
 - Jōmon final (más reciente) 1000-300 a.C. o 1000 - 500 a.C.
 
-> Hace unos quince mil años, los anditas atravesaron en grandes cantidades el desfiladero de Ti Tao y se diseminaron por el valle superior del Río Amarillo entre las colonias chinas de Kansu. Luego penetraron hacia el este hasta llegar a Honan, donde se encontraban las colonias más progresivas. Esta infiltración procedente del oeste fue casi mitad andonita y mitad andita. [[LU 79:7.1](/es/The_Urantia_Book/79#p7_1)]
+> Hace unos quince mil años, los anditas atravesaron en grandes cantidades el desfiladero de Ti Tao y se diseminaron por el valle superior del Río Amarillo entre las colonias chinas de Kansu. Luego penetraron hacia el este hasta llegar a Honan, donde se encontraban las colonias más progresivas. Esta infiltración procedente del oeste fue casi mitad andonita y mitad andita. <a id="a59_375"></a>[[LU 79:7.1](/es/The_Urantia_Book/79#p7_1)]
 
 Se ha determinado que la Cultura Jōmon son los ancestros del pueblo japonés moderno. Se mudaron del continente de Asia cuando los chinos del norte emigraron al sur, trayendo consigo nuevas formas de manufactura, arte y agricultura. La cultura Jōmon no era andita. Retrataron características más de una cultura roja, amarilla o andónica, como se ve en su culto a los animales, el desarrollo de refugios y la composición genética. Sin embargo, existe una aparente influencia andita en los períodos Jōmon «Medio» a «Tardío», como se refleja en los avances en la agricultura, la construcción de viviendas y la cerámica. Se han descubierto numerosos sitios arqueológicos con artefactos de esta cultura neolítica, desde la isla norteña de Hokkaido hasta el sur de Ryukyus. La región de Hokkaido es muy interesante debido a los muchos sitios antiguos que se encuentran allí, además de ser el hogar de los descendientes modernos del pueblo Jōmon. Se les llama «Ainu».
 
@@ -71,7 +71,7 @@ Se ha determinado que la Cultura Jōmon son los ancestros del pueblo japonés mo
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004138.jpg">
 </figure>
 
-> Estos anditas fueron los conquistadores llamados dravidianos, y más tarde arios, de la India, y su presencia en Asia central mejoró considerablemente a los antepasados de los turanianos. Muchos miembros de esta raza viajaron hasta China tanto por el Sinkiang como por el Tíbet, y añadieron cualidades deseables a los linajes chinos posteriores. De vez en cuando, pequeños grupos se dirigieron hacia el Japón, Formosa, las Indias Orientales y el sur de China, aunque muy pocos entraron en el sur de China por la ruta costera. [[LU 78:5.6](/es/The_Urantia_Book/78#p5_6)]
+> Estos anditas fueron los conquistadores llamados dravidianos, y más tarde arios, de la India, y su presencia en Asia central mejoró considerablemente a los antepasados de los turanianos. Muchos miembros de esta raza viajaron hasta China tanto por el Sinkiang como por el Tíbet, y añadieron cualidades deseables a los linajes chinos posteriores. De vez en cuando, pequeños grupos se dirigieron hacia el Japón, Formosa, las Indias Orientales y el sur de China, aunque muy pocos entraron en el sur de China por la ruta costera. <a id="a73_527"></a>[[LU 78:5.6](/es/The_Urantia_Book/78#p5_6)]
 
 _El Libro de Urantia_ habla de las mejoras subsiguientes en muchas culturas desde el Medio Oriente hasta Europa, Asia y América del Sur como resultado de las migraciones anditas provenientes de Mesopotamia y regiones adyacentes. Uno no puede dejar de preguntarse cuándo y dónde los anditas dejaron su huella en Japón.
 
@@ -83,7 +83,7 @@ La mayoría de los profesionales de la historia parecen estar de acuerdo en que 
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004139.jpg">
 </figure>
 
-> Eran los tiempos del Neolítico, que coincidían en parte con la Edad del Bronce que se aproximaba. En Escandinavia se estaba viviendo la Edad del Bronce asociada con el culto a la madre. El sur de Francia y España se hallaban en el Neolítico asociado con el culto al Sol. Fue la época en que se construyeron los templos circulares y sin techo. (3000 a.C.) [[LU 80:9.13](/es/The_Urantia_Book/80#p9_13)]
+> Eran los tiempos del Neolítico, que coincidían en parte con la Edad del Bronce que se aproximaba. En Escandinavia se estaba viviendo la Edad del Bronce asociada con el culto a la madre. El sur de Francia y España se hallaban en el Neolítico asociado con el culto al Sol. Fue la época en que se construyeron los templos circulares y sin techo. (3000 a.C.) <a id="a85_357"></a>[[LU 80:9.13](/es/The_Urantia_Book/80#p9_13)]
 
 ## Kazuno, Japón: círculos de piedra de Ōyu (2000 a.C.-1500 a.C.)
 
@@ -91,7 +91,7 @@ _El Libro de Urantia_ nos dice que la mayoría de las migraciones adámicas y an
 
 En el norte de Japón vemos círculos de piedra similares y figurillas de bronce de criaturas divinas alrededor de 2000 - 1500 a.C. Una nota interesante es que ciertas estatuas preincaicas en América del Sur parecen parecerse ligeramente a algunas estatuas Dogu. ¿Podrían ser estas las impresiones fugaces dejadas por los 132 marineros anditas que partieron de la costa de Japón, saltando de isla en isla en el camino a Perú, y se convirtieron en los predecesores de los incas?
 
-> Ciento treinta y dos miembros de esta raza se embarcaron en una flotilla de barcos pequeños en el Japón y llegaron finalmente hasta América del Sur; por medio de matrimonios mixtos con los nativos de los Andes, dieron nacimiento a los antepasados de los soberanos posteriores de los Incas. Atravesaron el Pacífico en pequeñas etapas, deteniéndose en las numerosas islas que encontraron por el camino. Las islas de Polinesia eran entonces más numerosas y más grandes que en la actualidad, y estos marineros anditas, junto con otros que los siguieron, modificaron biológicamente a su paso a los grupos indígenas. Como consecuencia de la penetración andita, muchos centros florecientes de civilización se desarrollaron en estas tierras ahora sumergidas. La Isla de Pascua fue durante mucho tiempo el centro religioso y administrativo de uno de estos grupos desaparecidos. Pero de todos los anditas que navegaron por el Pacífico en aquellos tiempos lejanos, los ciento treinta y dos mencionados fueron los únicos que llegaron al continente de las Américas. [[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)]
+> Ciento treinta y dos miembros de esta raza se embarcaron en una flotilla de barcos pequeños en el Japón y llegaron finalmente hasta América del Sur; por medio de matrimonios mixtos con los nativos de los Andes, dieron nacimiento a los antepasados de los soberanos posteriores de los Incas. Atravesaron el Pacífico en pequeñas etapas, deteniéndose en las numerosas islas que encontraron por el camino. Las islas de Polinesia eran entonces más numerosas y más grandes que en la actualidad, y estos marineros anditas, junto con otros que los siguieron, modificaron biológicamente a su paso a los grupos indígenas. Como consecuencia de la penetración andita, muchos centros florecientes de civilización se desarrollaron en estas tierras ahora sumergidas. La Isla de Pascua fue durante mucho tiempo el centro religioso y administrativo de uno de estos grupos desaparecidos. Pero de todos los anditas que navegaron por el Pacífico en aquellos tiempos lejanos, los ciento treinta y dos mencionados fueron los únicos que llegaron al continente de las Américas. <a id="a93_1055"></a>[[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)]
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004140.jpg">
@@ -114,7 +114,7 @@ Hasta que la academia moderna se ponga al día con la revelación, es posible qu
 
 En cuanto a la cultura Jōmon, creo que la academia moderna ha probado correctamente la afirmación que hace _El Libro de Urantia_ cuando dice:
 
-> Los antepasados del pueblo japonés no fueron arrojados del continente hasta el año 12.000 a. de J.C., momento en que fueron expulsados debido a la poderosa presión de las tribus chinas nórdicas. [[LU 79:6.3](/es/The_Urantia_Book/79#p6_3)]
+> Los antepasados del pueblo japonés no fueron arrojados del continente hasta el año 12.000 a. de J.C., momento en que fueron expulsados debido a la poderosa presión de las tribus chinas nórdicas. <a id="a116_197"></a>[[LU 79:6.3](/es/The_Urantia_Book/79#p6_3)]
 
 Podemos ver quiénes eran estas personas y, lo que es más importante, podemos ver cómo el pueblo Jōmon fue el destinatario de una mejora cultural gradual a partir de la influencia que recibió de la cultura andita a medida que migraba y se homogeneizaba con las tribus circundantes. Japón tiene una historia fascinante y conocer las complejidades de los antiguos cimientos que culminaron en el Japón moderno solo ha revelado una mayor profundidad y sabiduría incrustadas en la cultura japonesa. Desde el año 12,000 a.C. hasta el 2017 d.C., la cultura real en Japón fue traída por el pueblo Jōmon y promovida por las influencias anditas a través de China y Japón. Aún quedan muchos misterios sin resolver respecto a la migración de los anditas a través de Japón, pero su huella quedó y ahora Japón y el resto del mundo son mejores gracias a ella.
 

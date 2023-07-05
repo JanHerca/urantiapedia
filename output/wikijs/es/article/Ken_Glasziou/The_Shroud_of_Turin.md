@@ -82,11 +82,11 @@ Una vez en la tumba, José y Nicodemo envolvieron el cuerpo en telas empapadas c
 
 Si hubiera dos sábanas, posiblemente José de Arimatea se habría llevado la primera sábana a su casa, junto con la camilla y los recipientes utilizados para los líquidos de embalsamamiento. Si es así, José y su familia fueron sus custodios iniciales. Los Documentos de Urantia nos informan que se concedió permiso para disponer del cuerpo de Jesús a los seres sobrehumanos presentes en el lugar de la tumba:
 
-> «Los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo.» ([LU 189:2.8](/es/The_Urantia_Book/189#p2_8))
+> «Los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo.» (<a id="a84_318"></a>[LU 189:2.8](/es/The_Urantia_Book/189#p2_8))
 
 Parece muy poco probable que alguna ley natural de la física haya sido suspendida durante esta disolución repentina del cuerpo material de Jesús. Por lo tanto, se habría generado un calor enorme. Tal vez por eso el cuerpo fue sacado de la tumba para su disolución.
 
-Aparentemente, primero se quitaron las telas de la tumba. Se nos dice que cuando María, y más tarde Pedro, fueron al sepulcro, el sudario donde había descansado la cabeza de Jesús y las vendas aún estaban en el sepulcro mientras que «la sábana que lo cubría estaba al pie del nicho del sepulcro». ([LU 189:4.6](/es/The_Urantia_Book/189#p4_6))
+Aparentemente, primero se quitaron las telas de la tumba. Se nos dice que cuando María, y más tarde Pedro, fueron al sepulcro, el sudario donde había descansado la cabeza de Jesús y las vendas aún estaban en el sepulcro mientras que «la sábana que lo cubría estaba al pie del nicho del sepulcro». (<a id="a88_298"></a>[LU 189:4.6](/es/The_Urantia_Book/189#p4_6))
 
 ## Conclusiones
 

@@ -40,17 +40,17 @@ Los propios autores no hacen tal afirmación. Y en ninguna parte usan el términ
 
 Los reveladores se han aplicado con cierta diligencia a la tarea de evitar los problemas que ha enfrentado el cristianismo al imponer una teoría del dictado divino a los escritos bíblicos. Por ejemplo, afirman: «La criatura puede anhelar la infalibilidad, pero solo los Creadores la poseen».
 
-Ninguno de los autores de los Documentos de Urantia puede reclamar el estatus de «Creador». Por tanto, ninguno puede ser infalible, cosa que ellos mismos reconocen libremente. De hecho, no dejan lugar a dudas sobre lo que creen sobre su propio trabajo. «Que quede claro que las revelaciones no son necesariamente inspiradas». ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+Ninguno de los autores de los Documentos de Urantia puede reclamar el estatus de «Creador». Por tanto, ninguno puede ser infalible, cosa que ellos mismos reconocen libremente. De hecho, no dejan lugar a dudas sobre lo que creen sobre su propio trabajo. «Que quede claro que las revelaciones no son necesariamente inspiradas». (<a id="a42_327"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 Aunque obviamente es cierto que muchas partes de este libro no tienen el estatus de «inspiradas», también hay muchas secciones que suenan a verdad divina. Pero la prueba de la verdad divina es enteramente una experiencia personal.
 
-> «La razón es la prueba de la ciencia, la fe es la prueba de la religión, la lógica es la prueba de la filosofía, **pero la revelación sólo es validada por la experiencia humana**.» ([LU 101:2.8](/es/The_Urantia_Book/101#p2_8))
+> «La razón es la prueba de la ciencia, la fe es la prueba de la religión, la lógica es la prueba de la filosofía, **pero la revelación sólo es validada por la experiencia humana**.» (<a id="a46_184"></a>[LU 101:2.8](/es/The_Urantia_Book/101#p2_8))
 
 Otra declaración importante de los Documentos es:
 
-> «La existencia de Dios sobrepasa por completo toda posibilidad de demostración, excepto en lo que se refiere al contacto entre la conciencia de Dios que posee la mente humana y la presencia de Dios... que reside en el intelecto mortal, y que es otorgado al hombre en calidad de regalo gratuito del Padre Universal». ([LU 1:2.8](/es/The_Urantia_Book/1#p2_8))
+> «La existencia de Dios sobrepasa por completo toda posibilidad de demostración, excepto en lo que se refiere al contacto entre la conciencia de Dios que posee la mente humana y la presencia de Dios... que reside en el intelecto mortal, y que es otorgado al hombre en calidad de regalo gratuito del Padre Universal». (<a id="a50_319"></a>[LU 1:2.8](/es/The_Urantia_Book/1#p2_8))
 
-Un propósito declarado de los Documentos de Urantia es «sintetizar las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica». ([LU 101:2.1](/es/The_Urantia_Book/101#p2_1)) Esta sería una tarea imposible si los autores estuvieran limitados por tener que proporcionar una verdad infalible y, al mismo tiempo, cumplir con un mandato que proscribía la impartición de conocimientos no ganados. E incluso afirman que su cosmología «no está inspirada». ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+Un propósito declarado de los Documentos de Urantia es «sintetizar las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica». (<a id="a52_204"></a>[LU 101:2.1](/es/The_Urantia_Book/101#p2_1)) Esta sería una tarea imposible si los autores estuvieran limitados por tener que proporcionar una verdad infalible y, al mismo tiempo, cumplir con un mandato que proscribía la impartición de conocimientos no ganados. E incluso afirman que su cosmología «no está inspirada». (<a id="a52_524"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 Cuando se recibieron los Documentos de Urantia a mediados de la década de 1930, la cosmología tradicional se ocupaba de las características de la creación como un todo. Podría incluir la filosofía especulativa en su sentido más amplio.[^1] En su uso actual, el significado del término se ha reducido a la astrofísica y la astronomía. Pero se usa en los Documentos de Urantia en su sentido tradicional y cubre todos los aspectos de la creación.
 

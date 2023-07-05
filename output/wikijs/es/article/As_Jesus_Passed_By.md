@@ -49,9 +49,9 @@ dateCreated: 2022-09-26T03:56:17.001Z
 > 
 > La mayoría de las cosas realmente importantes que Jesús dijo o hizo parecieron suceder por casualidad, «mientras pasaba». El ministerio terrenal del Maestro tuvo muy pocos aspectos profesionales, bien planeados o premeditados. Concedía la salud y sembraba la alegría con naturalidad y gentileza mientras viajaba por la vida. Era literalmente cierto que «iba de un sitio para otro haciendo el bien».
 > 
-> A los seguidores del Maestro de todos los tiempos les incumbe aprender a ayudar «mientras pasan» —a hacer el bien desinteresadamente mientras se dirigen a sus obligaciones diarias. ([LU 171:7.1-10](/es/The_Urantia_Book/171#p7_1))
+> A los seguidores del Maestro de todos los tiempos les incumbe aprender a ayudar «mientras pasan» —a hacer el bien desinteresadamente mientras se dirigen a sus obligaciones diarias. (<a id="a51_184"></a>[LU 171:7.1-10](/es/The_Urantia_Book/171#p7_1))
 
-> Una vez que empecéis a descubrir a Dios en vuestra alma, no tardaréis en empezar a descubrirlo en el alma de los otros hombres, y finalmente en todas las criaturas y creaciones de un poderoso universo. Pero ¿qué posibilidades tiene el Padre de aparecer, como el Dios de las lealtades supremas y de los ideales divinos, en el alma de unos hombres que dedican poco o ningún tiempo a la contemplación reflexiva de estas realidades eternas? Aunque la mente no es la sede de la naturaleza espiritual, es en verdad la entrada que conduce a ella. ([LU 155:6.13](/es/The_Urantia_Book/155#p6_13))
+> Una vez que empecéis a descubrir a Dios en vuestra alma, no tardaréis en empezar a descubrirlo en el alma de los otros hombres, y finalmente en todas las criaturas y creaciones de un poderoso universo. Pero ¿qué posibilidades tiene el Padre de aparecer, como el Dios de las lealtades supremas y de los ideales divinos, en el alma de unos hombres que dedican poco o ningún tiempo a la contemplación reflexiva de estas realidades eternas? Aunque la mente no es la sede de la naturaleza espiritual, es en verdad la entrada que conduce a ella. (<a id="a53_543"></a>[LU 155:6.13](/es/The_Urantia_Book/155#p6_13))
 
 ## Enlaces externos
 

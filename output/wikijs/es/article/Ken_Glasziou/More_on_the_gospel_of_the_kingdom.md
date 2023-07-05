@@ -31,9 +31,9 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> Ésta es siempre la técnica más eficaz en todas las formas y fases de la enseñanza. Incluso los padres pueden aprender de Felipe la mejor manera de decir a sus hijos, no «Id a hacer esto o aquello», sino más bien: «Venid con nosotros, vamos a mostraros y a compartir con vosotros el mejor camino». ([LU 139:5.8](/es/The_Urantia_Book/139#p5_8))
+> Ésta es siempre la técnica más eficaz en todas las formas y fases de la enseñanza. Incluso los padres pueden aprender de Felipe la mejor manera de decir a sus hijos, no «Id a hacer esto o aquello», sino más bien: «Venid con nosotros, vamos a mostraros y a compartir con vosotros el mejor camino». (<a id="a33_300"></a>[LU 139:5.8](/es/The_Urantia_Book/139#p5_8))
 
-> Este reino que predicaréis es Dios dentro de vosotros. ([LU 140:1.5](/es/The_Urantia_Book/140#p1_5))
+> Este reino que predicaréis es Dios dentro de vosotros. (<a id="a35_58"></a>[LU 140:1.5](/es/The_Urantia_Book/140#p1_5))
 
 _Expresado en su forma más simple, el evangelio del reino es el reconocimiento de que el espíritu de Dios mora dentro de nosotros para llevarnos a querer ser como él._
 

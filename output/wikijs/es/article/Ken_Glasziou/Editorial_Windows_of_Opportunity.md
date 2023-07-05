@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» (<a id="a36_349"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 Esta cita de UB 2:7.10 de _El Libro de Urantia_ es obviamente autorreferencial. Se espera que tomemos de los Documentos lo que hará avanzar la causa del «reino» y lo presentaremos en formas que sean comprensibles para nuestros hermanos y hermanas en todos los niveles de comprensión humana.
 
@@ -42,7 +42,7 @@ Durante los últimos días de su otorgamiento terrenal, el Maestro nos dio varia
 
 Una de estas órdenes de estilo militar fue:
 
-> «No debéis atacar las viejas costumbres». ([LU 178:1.16](/es/The_Urantia_Book/178#p1_16))
+> «No debéis atacar las viejas costumbres». (<a id="a44_45"></a>[LU 178:1.16](/es/The_Urantia_Book/178#p1_16))
 
 Esto fue seguido por:
 
@@ -62,7 +62,7 @@ Ahora hay más de mil millones de personas en esta tierra que se llamarían cris
 
 Si pensamos que los autores de los Documentos de Urantia no conocían estos hechos cuando escribieron los Documentos, entonces subestimamos seriamente su inteligencia. Sin embargo, en muchos lugares, estos autores han expresado su esperanza de que el mensaje que buscan transmitir transforme la iglesia que lleva el nombre de Jesús. Solo un ejemplo es:
 
-> «Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!» ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> «Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!» (<a id="a64_373"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 Una cosa que es absolutamente cierta es que la iglesia no será transformada desde afuera. Si se va a recuperar al Jesús vivo, tendrá que ser un trabajo interno.
 

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-_El Libro de Urantia_ ([LU 169:4.3-13](/es/The_Urantia_Book/169#p4_3)).
+_El Libro de Urantia_ (<a id="a36_23"></a>[LU 169:4.3-13](/es/The_Urantia_Book/169#p4_3)).
 
 Aprendes acerca de Dios de Jesús observando la divinidad de su vida, no dependiendo de sus enseñanzas. De la vida del Maestro:
 
@@ -101,13 +101,13 @@ Escuchar la enseñanza de Jesús no equivale a conocer a Dios, pero ver a Jesús
 
 ---
 
-El texto de [LU 169:4.12](/es/The_Urantia_Book/169#p4_12) de _El Libro de Urantia_ nos dice que, a través de la revelación de su vida, somos capaces de «ver» a Jesús. Esta «visión mental» solo puede venir debido a una completa familiaridad con esa vida y la forma en que Jesús la vivió. Cuando adquirimos esa familiaridad, se vuelve posible experimentar una revelación del Padre a nuestras almas.
+El texto de <a id="a103_12"></a>[LU 169:4.12](/es/The_Urantia_Book/169#p4_12) de _El Libro de Urantia_ nos dice que, a través de la revelación de su vida, somos capaces de «ver» a Jesús. Esta «visión mental» solo puede venir debido a una completa familiaridad con esa vida y la forma en que Jesús la vivió. Cuando adquirimos esa familiaridad, se vuelve posible experimentar una revelación del Padre a nuestras almas.
 
 La gran ventaja de conocer la vida de Jesús viene porque, en prácticamente cualquier situación en la que nos encontremos, podemos preguntarle a nuestro Ajustador del Pensamiento, «¿Qué haría Jesús?» Y dado que ya tenemos una representación pictórica de la vida de Jesús almacenada en los bancos de memoria de nuestras mentes, facilitamos la capacidad del Ajustador del Pensamiento para comunicar una respuesta.
 
 Somos bendecidos con este regalo. Su eficacia está en nuestras propias manos.
 
-> El hombre dispone realmente del perdón de Dios, y lo experimenta personalmente, en la medida exacta en que perdona a sus semejantes. ([LU 170:3.4](/es/The_Urantia_Book/170#p3_4))
+> El hombre dispone realmente del perdón de Dios, y lo experimenta personalmente, en la medida exacta en que perdona a sus semejantes. (<a id="a109_136"></a>[LU 170:3.4](/es/The_Urantia_Book/170#p3_4))
 
 ## Enlaces externos
 

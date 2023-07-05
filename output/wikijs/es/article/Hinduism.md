@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
+> «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». (<a id="a36_439"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
-¿Y cuán difícil sería presentar tal realidad al hinduismo, una religión que cree en la reencarnación y el karma? Tal vez no parezca una tarea tan formidable como podría parecer a primera vista para el hinduismo, «ha demostrado ser la religión más adaptable y amorfa que ha aparecido en Urantia. Es capaz de cambiar de una manera casi ilimitada y posee un nivel inhabitual de adaptación flexible, desde las especulaciones elevadas y semimonoteístas de los brahmanes intelectuales, hasta el fetichismo redomado y las prácticas cultuales primitivas de las clases degradadas y deprimidas de creyentes ignorantes._» ([LU 94:4.8](/es/The_Urantia_Book/94#p4_8))
+¿Y cuán difícil sería presentar tal realidad al hinduismo, una religión que cree en la reencarnación y el karma? Tal vez no parezca una tarea tan formidable como podría parecer a primera vista para el hinduismo, «ha demostrado ser la religión más adaptable y amorfa que ha aparecido en Urantia. Es capaz de cambiar de una manera casi ilimitada y posee un nivel inhabitual de adaptación flexible, desde las especulaciones elevadas y semimonoteístas de los brahmanes intelectuales, hasta el fetichismo redomado y las prácticas cultuales primitivas de las clases degradadas y deprimidas de creyentes ignorantes._» (<a id="a38_612"></a>[LU 94:4.8](/es/The_Urantia_Book/94#p4_8))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Shiva.jpg">
@@ -51,7 +51,7 @@ La teología hindú, en la actualidad, representa cuatro niveles descendentes de
 
 3. Deidades védicas y posvédicas. Muchos de los antiguos dioses de los arios, como Agni, Indra, Soma, han persistido como secundarios a los tres miembros de la Trimurti. Han surgido numerosos dioses adicionales desde los primeros días de la India védica, y estos también se han incorporado al panteón hindú.
 
-4. Los semidioses: superhombres, semidioses, héroes, demonios, fantasmas, espíritus malignos, duendes, monstruos, duendes y santos de los cultos posteriores. ([LU 94:4.7](/es/The_Urantia_Book/94#p4_7))
+4. Los semidioses: superhombres, semidioses, héroes, demonios, fantasmas, espíritus malignos, duendes, monstruos, duendes y santos de los cultos posteriores. (<a id="a53_159"></a>[LU 94:4.7](/es/The_Urantia_Book/94#p4_7))
 
 Huston Smith (1965) en «The Religions of Man», señala que el hecho de que el hinduismo haya compartido su tierra durante siglos con parsis, budistas, musulmanes, sikhs y cristianos puede ayudar a explicar una idea que sale más claramente a través de ella que a través de ella. cualquier otra religión contemporánea líder; a saber, su convicción de que las diversas religiones principales son caminos alternos y relativamente iguales hacia el mismo Dios. «Reclamar la salvación como el monopolio de cualquier religión es como afirmar que se puede encontrar a Dios en esta habitación pero no en la siguiente. Normalmente cada individuo tomará el camino que conduce a la montaña de la vida desde su propia cultura; aquellos que dan la vuelta a la montaña tratando de atraer a otros a sus caminos no están escalando. En la práctica, las sectas indias han sido a menudo fanáticamente intolerantes, pero en principio han permanecido notablemente abiertas. Los Vedas anuncian tempranamente la afirmación clásica del hinduismo: las diversas religiones no son más que los diferentes lenguajes a través de los cuales Dios ha hablado al corazón humano. La verdad es una: los sabios la llaman por diferentes nombres.»
 
@@ -73,7 +73,7 @@ En respuesta a la pregunta, «¿Qué clase de mundo tenemos?» El hinduismo resp
 
 6. Un mundo que es lila, el juego de lo divino en su danza cósmica, incansable, interminable, irresistible pero en definitiva gentil, con una gracia nacida de una vitalidad infinita.
 
-La belleza y la verdad de las enseñanzas del hinduismo fueron capturadas por Jesús y Ganid en su elección de citas de la literatura hindú. (ver [LU 131:4.1](/es/The_Urantia_Book/131#p4_1))
+La belleza y la verdad de las enseñanzas del hinduismo fueron capturadas por Jesús y Ganid en su elección de citas de la literatura hindú. (ver <a id="a75_144"></a>[LU 131:4.1](/es/The_Urantia_Book/131#p4_1))
 
 
 ## Referencias

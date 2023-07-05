@@ -35,7 +35,7 @@ La oración iluminada debe reconocer no sólo a un Dios externo y personal, sino
 
 Ninguna oración puede ser ética cuando el peticionario busca una ventaja egoísta sobre sus semejantes. La oración egoísta y materialista es incompatible con las religiones éticas que se basan en el amor desinteresado y divino. Todas esas oraciones poco éticas revierten a los niveles primitivos de la pseudomagia y no son dignas de civilizaciones avanzadas y religiones ilustradas. La oración egoísta transgrede el espíritu de toda ética fundada en el amor a la justicia.
 
-La oración siempre ha sido y siempre será una doble experiencia humana: un procedimiento psicológico interrelacionado con una técnica espiritual. Y estas dos funciones de la oración nunca pueden separarse por completo. ([LU 91:3.6](/es/The_Urantia_Book/91#p3_6))
+La oración siempre ha sido y siempre será una doble experiencia humana: un procedimiento psicológico interrelacionado con una técnica espiritual. Y estas dos funciones de la oración nunca pueden separarse por completo. (<a id="a37_220"></a>[LU 91:3.6](/es/The_Urantia_Book/91#p3_6))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/milky_way.jpg">

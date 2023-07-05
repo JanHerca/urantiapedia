@@ -42,9 +42,9 @@ Cuando leí este párrafo por primera vez durante mi lectura habitual previa a "
 
 Lo leí de nuevo al despertar a la mañana siguiente. Lloré. Pude ver la verdad de la declaración de ese serafín dentro de mí. Pude ver esa misma verdad en la gente que conocía, en la gente de mi país, en la gente de mi raza y en todas las demás razas. Y lloré. Pero, ¿cómo pueden entender estos hermosos ángeles, sin importar cuánto lo intenten? No podemos descartar nuestros vínculos animales ancestrales, es un hecho ineludible que los tenemos, y que en momentos de estrés saldrán a la luz. Realmente tienes que haber «estado allí, hecho eso» para saber cómo es ser un ser humano común y corriente.
 
-> La religión de Jesús salva del yo, libera de los males del aislamiento de la criatura en el tiempo y en la eternidad. ([LU 5:4.5](/es/The_Urantia_Book/5#p4_5))
+> La religión de Jesús salva del yo, libera de los males del aislamiento de la criatura en el tiempo y en la eternidad. (<a id="a44_121"></a>[LU 5:4.5](/es/The_Urantia_Book/5#p4_5))
 
-> La confusión y el desorden existentes en Urantia no significan que los Gobernantes del Paraíso carezcan de interés o de capacidad para dirigir los asuntos de manera diferente. Los Creadores poseen el pleno poder de hacer de Urantia un verdadero paraíso, pero un Edén así no contribuiría a desarrollar aquellos caracteres fuertes, nobles y experimentados que los Dioses están forjando con tanta seguridad en vuestro mundo entre el yunque de la necesidad y el martillo de la angustia. ([LU 23:2.12](/es/The_Urantia_Book/23#p2_12))
+> La confusión y el desorden existentes en Urantia no significan que los Gobernantes del Paraíso carezcan de interés o de capacidad para dirigir los asuntos de manera diferente. Los Creadores poseen el pleno poder de hacer de Urantia un verdadero paraíso, pero un Edén así no contribuiría a desarrollar aquellos caracteres fuertes, nobles y experimentados que los Dioses están forjando con tanta seguridad en vuestro mundo entre el yunque de la necesidad y el martillo de la angustia. (<a id="a46_486"></a>[LU 23:2.12](/es/The_Urantia_Book/23#p2_12))
 
 Otros pensamientos se entrometieron mientras yacía allí, dejando que mi mente divagara:
 
@@ -54,11 +54,11 @@ Otros pensamientos se entrometieron mientras yacía allí, dejando que mi mente 
 
 - Hay ocasiones en mi vida en las que creo que puedo elevar mis pensamientos o mis acciones más allá de esa barrera humano/animal y alcanzar las estrellas. Seguramente estos momentos solo pueden ser mérito de mis ayudantes, y también de mí mismo, ¿no soy un socio en este experimento?
 
-- ¿No puedes ver y escuchar las sonrisas y el regocijo de nuestro serafín guardián cuando el peor miembro de la raza humana, uno que incluso podríamos etiquetar como un animal, también se acerca y, muy brevemente, muestra ese débil destello de fe que podría significar salvación? ([LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
+- ¿No puedes ver y escuchar las sonrisas y el regocijo de nuestro serafín guardián cuando el peor miembro de la raza humana, uno que incluso podríamos etiquetar como un animal, también se acerca y, muy brevemente, muestra ese débil destello de fe que podría significar salvación? (<a id="a56_281"></a>[LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
 
 Entonces me vino otro pensamiento a pesar de que todavía estaba llorando, todavía tenía ganas de llorar con el corazón. Quién mejor para ayudar a estos miserables humanos que aquellos que ellos mismos «han estado allí, hecho eso», aquellos cuyas luchas los han ayudado a dar el próximo paso con éxito; aquellos que bien entienden esa escalada tan empinada entre el animal y el ángel. Sí, eso debe significar nosotros. Y cuando nosotros también lleguemos a Mansonia, estaremos allí ayudando, guiando y, a veces, incluso enseñando a aquellos que están un peldaño por debajo de nosotros en la escalera del progreso espiritual. Entonces será nuestro momento de estar verdaderamente agradecidos por la experiencia ganada en Urantia donde, quizás desconocido para nosotros, fue el cuidado amoroso de los ángeles que nos ayudaron a cruzar el puente que conduce a la vida.
 
-> _Este mundo no es más que un puente; podéis atravesarlo, pero no deberíais pensar en construir una morada encima de él._ ([LU 156:2.1](/es/The_Urantia_Book/156#p2_1))
+> _Este mundo no es más que un puente; podéis atravesarlo, pero no deberíais pensar en construir una morada encima de él._ (<a id="a60_124"></a>[LU 156:2.1](/es/The_Urantia_Book/156#p2_1))
 
 ## Enlaces externos
 

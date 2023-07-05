@@ -34,19 +34,19 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «La paz religiosa —la fraternidad— nunca podrá existir a menos que todas las religiones estén dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. **Sólo Dios es el soberano espiritual**.» ([LU 134:4.4](/es/The_Urantia_Book/134#p4_4))
+> «La paz religiosa —la fraternidad— nunca podrá existir a menos que todas las religiones estén dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. **Sólo Dios es el soberano espiritual**.» (<a id="a36_272"></a>[LU 134:4.4](/es/The_Urantia_Book/134#p4_4))
 
 No puedes tener libertad religiosa a menos que transfieras TODA la autoridad religiosa a algún nivel sobrehumano, a Dios mismo. La fraternidad, el reino de los cielos en los corazones de hombres y mujeres, creará la unidad religiosa si, y sólo si, los religiosos están libres de toda noción de autoridad y soberanía eclesiástica (religiosa).
 
 El término «autoridad eclesiástica» deriva del griego antiguo, «ecclesia», la asamblea de los hombres libres de Atenas, y ha evolucionado para significar autoridad religiosa en oposición a autoridad civil. Los Documentos nos informan que la fraternidad religiosa es posible solo cuando sus hermanos y hermanas rechazan toda autoridad religiosa que no sea Dios mismo.
 
-Esto es enfatizado por su afirmación de que en el mismo momento en que perdamos de vista el hecho de la autoridad única de Dios sobre los asuntos religiosos, nuestra forma particular de religión comenzará a intentar afirmar su superioridad. El resultado, afirman, siempre será disensión, recriminaciones, incluso «guerras» entre religiosos, lo que difícilmente es «hermandad». ([LU 134:4.8](/es/The_Urantia_Book/134#p4_8))
+Esto es enfatizado por su afirmación de que en el mismo momento en que perdamos de vista el hecho de la autoridad única de Dios sobre los asuntos religiosos, nuestra forma particular de religión comenzará a intentar afirmar su superioridad. El resultado, afirman, siempre será disensión, recriminaciones, incluso «guerras» entre religiosos, lo que difícilmente es «hermandad». (<a id="a42_378"></a>[LU 134:4.8](/es/The_Urantia_Book/134#p4_8))
 
 Como lo demuestran las "guerras", las divisiones y la aniquilación dentro del movimiento en el pasado, ni siquiera los creyentes en la autoridad de los Documentos de Urantia están exentos. De alguna manera debemos absorber en la vanguardia de nuestras mentes que nuestras creencias religiosas son entre nosotros, como individuos, y nuestro Dios, no para ser impuestas a otros, o incluso sugeridas como superiores.
 
 La «regla del universo» parece ser que podemos presentar nuestros puntos de vista religiosos a los demás, pero nunca debemos buscar imponerlos, sugerir su superioridad o denigrar los puntos de vista de los demás. Hacer eso es usurpar una autoridad a la que no podemos tener ningún derecho o reclamo.
 
-Los seres de libre albedrío, se nos dice, que ignoran estas pautas, inevitablemente pondrán a prueba su propia capacidad para obtener poder y autoridad de una forma u otra. ([LU 134:4.9](/es/The_Urantia_Book/134#p4_9)) La verdadera fraternidad surge solo con el reconocimiento de la única autoridad de Dios en todos los asuntos religiosos.
+Los seres de libre albedrío, se nos dice, que ignoran estas pautas, inevitablemente pondrán a prueba su propia capacidad para obtener poder y autoridad de una forma u otra. (<a id="a48_174"></a>[LU 134:4.9](/es/The_Urantia_Book/134#p4_9)) La verdadera fraternidad surge solo con el reconocimiento de la única autoridad de Dios en todos los asuntos religiosos.
 
 La historia nos enseña que la humanidad tiene un historial continuo de intentos repetidos de usurpar la autoridad de Dios.
 

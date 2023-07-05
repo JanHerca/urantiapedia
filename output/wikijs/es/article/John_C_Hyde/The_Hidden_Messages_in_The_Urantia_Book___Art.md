@@ -56,11 +56,11 @@ En cierto modo, el Documento 56 se parece un poco al Prólogo: tiende a resumir 
 
 En la Sección 10, Verdad, Belleza y Bondad, encontramos la discusión sobre el arte. Nuestro futuro Príncipe Planetario sustituto, que una vez (y no hace mucho) vivió entre nosotros, dice:
 
-> «Captáis un poco la filosofía, y comprendéis a la divinidad en la adoración, el servicio social y la experiencia espiritual personal, pero la búsqueda de la belleza —la cosmología— la limitáis con demasiada frecuencia al estudio de los rudimentarios esfuerzos artísticos del hombre». ([LU 56:10.3](/es/The_Urantia_Book/56#p10_3))
+> «Captáis un poco la filosofía, y comprendéis a la divinidad en la adoración, el servicio social y la experiencia espiritual personal, pero la búsqueda de la belleza —la cosmología— la limitáis con demasiada frecuencia al estudio de los rudimentarios esfuerzos artísticos del hombre». (<a id="a58_287"></a>[LU 56:10.3](/es/The_Urantia_Book/56#p10_3))
 
 Luego pasa a elaborar. Podría tomar muchas páginas de texto ampliando esta elaboración, pero en lugar de eso, concentrémonos en un elemento. Aquí está su siguiente frase:
 
-> «**La belleza, el arte, es sobre todo una cuestión de unificación de contrastes.**» ([LU 56:10.3](/es/The_Urantia_Book/56#p10_3))
+> «**La belleza, el arte, es sobre todo una cuestión de unificación de contrastes.**» (<a id="a62_87"></a>[LU 56:10.3](/es/The_Urantia_Book/56#p10_3))
 
 Supongamos que Jesús, quien agotó todos los potenciales para la expresión finita de la belleza espiritual en el universo local de Nebadon, personificó este concepto. ¿Cómo expresó Jesús la belleza (como arte) al unificar los contrastes?
 
@@ -72,13 +72,13 @@ Ahora bien, mi amigo Arley (no el que lee _El Libro de Urantia_) era un buen tip
 
 Más bien sospecho que muchas de las personas con las que Jesús trató en su día eran como Arley. Leí mucho a Arley en el personaje de Anaxando, el joven del astillero que trabaja en el volante junto a Jesús. Aquí vemos a Jesús haciendo una especie de serie de comentarios que hacen que Anaxando ridiculice a Jesús, pero hacerlo con una pizca de sinceridad.
 
-Jesús sabía que el comentario de Anaxando de, «si los dioses son tan buenos, entonces ¿cómo es eso? . . » ([LU 130:2.4](/es/The_Urantia_Book/130#p2_4)) no se pudo responder directamente. Una discusión sobre el libre albedrío, la verdadera respuesta a la pregunta verbalizada del hombre, habría sido totalmente inapropiada. Jesús vio correctamente el comentario del hombre como un desafío a las afirmaciones que Jesús había estado haciendo en el transcurso de la mañana: las afirmaciones de Jesús de que Dios es bueno y que se preocupa por nosotros. Jesús también aseguró correctamente que tal desafío solo podría ser abordado por un contra-desafío, uno que «superaría» al desafío original lanzado por el joven Anaxando.
+Jesús sabía que el comentario de Anaxando de, «si los dioses son tan buenos, entonces ¿cómo es eso? . . » (<a id="a74_107"></a>[LU 130:2.4](/es/The_Urantia_Book/130#p2_4)) no se pudo responder directamente. Una discusión sobre el libre albedrío, la verdadera respuesta a la pregunta verbalizada del hombre, habría sido totalmente inapropiada. Jesús vio correctamente el comentario del hombre como un desafío a las afirmaciones que Jesús había estado haciendo en el transcurso de la mañana: las afirmaciones de Jesús de que Dios es bueno y que se preocupa por nosotros. Jesús también aseguró correctamente que tal desafío solo podría ser abordado por un contra-desafío, uno que «superaría» al desafío original lanzado por el joven Anaxando.
 
 Me imagino a un grupo de motociclistas sentados, uno de los cuales se jacta de su amigo. Otro motociclista se cansa de escucharlo y dice que es un farol. Ahora el fanfarrón tiene que defenderse o quedar en ridículo. ¡Imagínese si el motociclista #1 logra no solo defender el honor de su amigo, sino al mismo tiempo llamar cobarde a su retador, y hacerlo de tal manera que el motociclista #2 realmente esté de acuerdo! Creo que esto es lo que sucedió esa tarde en el astillero cuando Jesús desafió a Anaxando a aceptar su visión superior (de Anaxando) de la justicia y actuar en consecuencia para salvar al pobre capataz que se estaba ahogando en la oscuridad espiritual. Jesús incluso insinuó que si Anaxando no lo hacía, ¡sería un cobarde espiritual!
 
-Si lees el pasaje de [LU 130:2.4](/es/The_Urantia_Book/130#p2_4) notarás que Jesús «pone en su sitio» a Anaxando al menos tres veces: dos al comienzo de su breve discurso y luego otra vez al al final, donde lo desafía con la siguiente afirmación:
+Si lees el pasaje de <a id="a78_21"></a>[LU 130:2.4](/es/The_Urantia_Book/130#p2_4) notarás que Jesús «pone en su sitio» a Anaxando al menos tres veces: dos al comienzo de su breve discurso y luego otra vez al al final, donde lo desafía con la siguiente afirmación:
 
-> «¡Seguramente no serás un cobarde, capaz de permanecer en la orilla del mar mirando cómo perece un compañero que no sabe nadar!» ([LU 130:2.4](/es/The_Urantia_Book/130#p2_4))
+> «¡Seguramente no serás un cobarde, capaz de permanecer en la orilla del mar mirando cómo perece un compañero que no sabe nadar!» (<a id="a80_132"></a>[LU 130:2.4](/es/The_Urantia_Book/130#p2_4))
 
 Estas son palabras poderosas y fuertes para usar cuando se trata de un joven agresivo, uno que pasa el rato en los astilleros. Pero dadas las circunstancias, eran exactamente lo que había que decir.
 
@@ -90,7 +90,7 @@ En resumen, creo que uno de los mensajes ocultos en _El Libro de Urantia_ es la 
 
 Y eso, sostengo, podría presentarse como el mensaje que hace que _El Libro de Urantia_ sea único entre las religiones. Mientras que todas las demás religiones se basan en algún tipo de código de ética y moral (algunos son buenos, otros no tan buenos, algunos son excepcionalmente buenos), _El Libro de Urantia_ nos desafía a idear un camino nuevo y original, uno que trascienda el ética y moral de este día, y permanecerá como un testamento viviente de la gloria de Dios Todopoderoso.
 
-> «Sólo una persona valiente está dispuesta a admitir honradamente aquello que descubre una mente sincera y lógica, y a enfrentarse a ello sin temor.»—Rodan de Alejandría ([LU 160:1.7](/es/The_Urantia_Book/160#p1_7))
+> «Sólo una persona valiente está dispuesta a admitir honradamente aquello que descubre una mente sincera y lógica, y a enfrentarse a ello sin temor.»—Rodan de Alejandría (<a id="a92_172"></a>[LU 160:1.7](/es/The_Urantia_Book/160#p1_7))
 
 > El amor no domina; comparte
 

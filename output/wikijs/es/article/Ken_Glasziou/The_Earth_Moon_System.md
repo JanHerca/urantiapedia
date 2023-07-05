@@ -33,9 +33,9 @@ dateCreated: 2022-09-26T22:49:09.783Z
 
 Ha habido algunas críticas a un artículo en la [edición de julio-agosto](/es/index/articles_innerface#volumen-11-no-4) de Innerface con respecto a nuestra interpretación del uso de los reveladores de las palabras "masa" y " tamaño” en su descripción del crecimiento a lo largo del tiempo del sistema tierra-luna.
 
-Los reveladores afirman: «_Hace *2.500.000.000* de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente una **décima parte **de su **masa** actual y continuaba aumentando rápidamente por acreción meteórica._». [LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
+Los reveladores afirman: «_Hace *2.500.000.000* de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente una **décima parte **de su **masa** actual y continuaba aumentando rápidamente por acreción meteórica._». <a id="a35_283"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
 
-Luego tienen: «_Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero no había habido mucha diferencia de **tamaño** hasta esta época, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte** de su **tamaño** actual. ..._» [LU 57:7.2](/es/The_Urantia_Book/57#p7_2)
+Luego tienen: «_Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero no había habido mucha diferencia de **tamaño** hasta esta época, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte** de su **tamaño** actual. ..._» <a id="a37_385"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2)
 
 La redacción de este último párrafo fomenta la creencia de que estos dos cuerpos habían crecido al mismo ritmo y tenían un tamaño muy similar a lo largo de sus más de 2 mil millones de años de vida.
 
@@ -43,7 +43,7 @@ El proceso de crecimiento por acreción de la Tierra y su satélite lunar mientr
 
 Por lo tanto, es difícil ver cómo, hasta el momento de la captura declarada por el planeta Tierra de enormes cuerpos espaciales hace 2 mil millones de años, este planeta y su luna satélite podrían haber tenido otras densidades que no sean similares. Y si lo hicieron, entonces el uso aparentemente descuidado de los términos masa y tamaño por parte de los reveladores se vuelve explicable, porque la relación densidad = masa/volumen significa que 2 cuerpos que tienen la misma densidad y masa deben tener el mismo volumen o si tienen la misma densidad y volumen, también deben tener la misma masa.
 
-Sin embargo, los lectores deben ser conscientes de que el concepto de coacreción lenta para la Luna y la Tierra, aunque estaba a favor en el momento de recibir los Documentos de Urantia, ahora se sabe que es bastante incompatible con los datos acumulados desde entonces, por lo tanto, en la categoría de «proscritos no ganados». conocimiento” ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1)), pero totalmente adecuado como un «marco en el que pensar». ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+Sin embargo, los lectores deben ser conscientes de que el concepto de coacreción lenta para la Luna y la Tierra, aunque estaba a favor en el momento de recibir los Documentos de Urantia, ahora se sabe que es bastante incompatible con los datos acumulados desde entonces, por lo tanto, en la categoría de «proscritos no ganados». conocimiento” (<a id="a45_344"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)), pero totalmente adecuado como un «marco en el que pensar». (<a id="a45_450"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/The_Earth_Moon_System/004227.jpg">

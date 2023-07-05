@@ -59,7 +59,7 @@ Los datos cronológicos están ocultos en la frase «en aquellos días» que rem
 
 Un papiro en el Museo Británico afirma que el censo romano comenzó en el año 8 a. C. Otro papiro de Egipto dice que era costumbre que la gente regresara a su ciudad de nacimiento para completar el registro familiar.
 
-Nótese que El Libro de Urantia afirma que Jesús nació en Belén el 21 de agosto del 7 a. C. ([LU 122:7.6](/es/The_Urantia_Book/122#p7_6)) y que José y María, habiendo recibido la advertencia de Herodes a mediados de octubre del 6 a. C., de matar a todos los niños en Belén menores de dos años de edad, partió para Alejandría de Egipto. ([LU 122:10.3](/es/The_Urantia_Book/122#p10_3))
+Nótese que El Libro de Urantia afirma que Jesús nació en Belén el 21 de agosto del 7 a. C. (<a id="a61_92"></a>[LU 122:7.6](/es/The_Urantia_Book/122#p7_6)) y que José y María, habiendo recibido la advertencia de Herodes a mediados de octubre del 6 a. C., de matar a todos los niños en Belén menores de dos años de edad, partió para Alejandría de Egipto. (<a id="a61_336"></a>[LU 122:10.3](/es/The_Urantia_Book/122#p10_3))
 
 Todo lo cual demuestra una notable congruencia de información proveniente de los Evangelios de Lucas y Mateo, un papiro en el Museo Británico y otro de Egipto, hallazgos arqueológicos de Egipto y Antioquía, varios historiadores y finalmente El Libro de Urantia.
 

@@ -62,7 +62,7 @@ Sudamerica...
 
 El Comité Internacional de la Fellowship se complace en anunciar una afiliación organizativa nueva y formal con el grupo educativo Casa de FAD en Río de Janeiro, Brasil. (Ver Membresía.)
 
-Fad fue el responsable de la Facultad de Difusión y Conservación del Conocimiento en tiempos del Príncipe Planetario. (Ver [LU 66:5.4](/es/The_Urantia_Book/66#p5_4)).
+Fad fue el responsable de la Facultad de Difusión y Conservación del Conocimiento en tiempos del Príncipe Planetario. (Ver <a id="a64_123"></a>[LU 66:5.4](/es/The_Urantia_Book/66#p5_4)).
 
 La misión del grupo brasileño es continuar el trabajo de este primer colegio bajo la guía del Dr. Elyr Dos Santos Silva, un estudioso dedicado de la revelación. El grupo mantiene una oficina, una sala de reuniones y una pequeña biblioteca/librería en el centro de Río de Janeiro.
 

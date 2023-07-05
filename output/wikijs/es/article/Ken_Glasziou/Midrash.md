@@ -50,7 +50,7 @@ Los reveladores de _El Libro de Urantia_ también usan midrash, por ejemplo, par
 >
 > **R.** No, señor. Me dispararon a mitad de camino entre la fracas y el ombligo.
 
-> Los apóstoles aprendieron que los judíos estaban espiritualmente estancados y muriendo porque habían cristalizado la verdad en un credo; que cuando la verdad se formula como una línea divisoria de exclusividad santurrona en lugar de servir como señales de guía y progreso espiritual, tales enseñanzas pierden su poder creativo y dador de vida y, en última instancia, se vuelven meramente conservadoras y fosilizantes. ([LU 155:3.3](/es/The_Urantia_Book/155#p3_3))
+> Los apóstoles aprendieron que los judíos estaban espiritualmente estancados y muriendo porque habían cristalizado la verdad en un credo; que cuando la verdad se formula como una línea divisoria de exclusividad santurrona en lugar de servir como señales de guía y progreso espiritual, tales enseñanzas pierden su poder creativo y dador de vida y, en última instancia, se vuelven meramente conservadoras y fosilizantes. (<a id="a52_421"></a>[LU 155:3.3](/es/The_Urantia_Book/155#p3_3))
 
 ## Enlaces externos
 

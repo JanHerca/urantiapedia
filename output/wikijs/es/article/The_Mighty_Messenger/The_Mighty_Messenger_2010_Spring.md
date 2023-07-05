@@ -46,7 +46,7 @@ Los tres oradores plenarios serán Michelle Klimesh, Andre Radatus y Tamara Wood
 
 Lara Amyx, miembro del Comité de Educación y coordinadora del programa de la conferencia, dice que algunos de los líderes del taller indicaron que requerirán preparación previa y preinscripción para sus sesiones.
 
-Más allá del estudio, habrá amplias oportunidades para experiencias diseñadas para «engendrar un sentimiento de compañerismo con lo divino». [[LU 103:4.1](/es/The_Urantia_Book/103#p4_1)] Según Bobbie Dreier, quien está a cargo de las actividades de adoración de la conferencia, «El campus tiene terrenos espaciosos y tranquilos para la reflexión y hermosas capillas para la meditación, la oración y adorar.»
+Más allá del estudio, habrá amplias oportunidades para experiencias diseñadas para «engendrar un sentimiento de compañerismo con lo divino». <a id="a48_141"></a>[[LU 103:4.1](/es/The_Urantia_Book/103#p4_1)] Según Bobbie Dreier, quien está a cargo de las actividades de adoración de la conferencia, «El campus tiene terrenos espaciosos y tranquilos para la reflexión y hermosas capillas para la meditación, la oración y adorar.»
 
 Las sesiones plenarias se abrirán con un espíritu de comunión, con actividades diseñadas para llevarnos hacia Dios, y la conferencia culminará con una mañana de música inspiradora, lectura de poesía, meditación y un recuerdo de nuestro hermano Creador Michael.
 
@@ -60,7 +60,7 @@ El Comité de Educación se reunió para una reunión en Techny Towers hace unos
 
 Por _Michelle Klimesh_
 
-> _Las invenciones mecánicas y la diseminación del conocimiento están modificando la civilización; si se quiere evitar un desastre cultural, es imperioso efectuar ciertos ajustes económicos y cambios sociales. Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._ [[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)]
+> _Las invenciones mecánicas y la diseminación del conocimiento están modificando la civilización; si se quiere evitar un desastre cultural, es imperioso efectuar ciertos ajustes económicos y cambios sociales. Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._ <a id="a62_447"></a>[[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Michelle_Klimesh.jpg">
@@ -189,7 +189,7 @@ Lo más poderoso que escuché en el Parlamento fue «¡Aproveche la revolución 
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005729.jpg">
 </figure>
 
-> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo. [[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo. <a id="a191_650"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 ## Un enfoque en la juventud: ¡Ya era hora!
 

@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «La meta de la autorrealización humana debería ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». ([LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
+> «La meta de la autorrealización humana debería ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». (<a id="a33_171"></a>[LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
 
 Los Documentos de Urantia son fuertes en significados y valores espirituales. Nos dicen que nuestra alma se construye a partir de experiencias que tienen significado y valor espiritual que ocurren en el curso de nuestra vida terrenal, y que: «El Ajustador del Pensamiento recordará y ensayará para ti solo esos recuerdos y experiencias que son parte y son esenciales para ti. a, tu carrera universal... .Pero gran parte de su vida pasada y sus recuerdos, que no tienen significado espiritual ni valor morontial, perecerán con el cerebro material;»
 
@@ -45,7 +45,7 @@ Aunque los Documentos de Urantia nos informan que las únicas realidades por las
 
 Entonces, ¿hay alguna manera de poner carne en los huesos de estos términos indefinidos? Afortunadamente la respuesta es sí. Lo podemos encontrar en la página 1096:
 
-> «La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor.» ([LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
+> «La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor.» (<a id="a47_457"></a>[LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
 
 Mientras que los conceptos de verdad, belleza, amor y bondad desafían la definibilidad exacta, la declaración de que nuestro desarrollo espiritual depende de la eliminación del egoísmo proporciona algo con sustancia para que trabajemos.
 
@@ -62,7 +62,7 @@ Pero a nivel consciente de eliminar el egoísmo de nuestra naturaleza, la tarea 
 > El fin de la filosofía no es el conocimiento sino la comprensión.
 > _Wittgenstein_
 
-> Nada parecía nunca tan importante para Jesús como el ser humano individual que se encontraba por casualidad en su presencia inmediata. ([LU 138:8.9](/es/The_Urantia_Book/138#p8_9))
+> Nada parecía nunca tan importante para Jesús como el ser humano individual que se encontraba por casualidad en su presencia inmediata. (<a id="a64_138"></a>[LU 138:8.9](/es/The_Urantia_Book/138#p8_9))
 
 ## Enlaces externos
 

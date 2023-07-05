@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 > 
-«Lo que yo os pido, a mis apóstoles, es la unidad espiritual —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. **No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente.**» ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
+«Lo que yo os pido, a mis apóstoles, es la unidad espiritual —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. **No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente.**» (<a id="a37_357"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
 
 Uno de los mayores impedimentos para la unidad entre las personas del mundo occidental es la intolerancia generada por nuestra adhesión al pensamiento de la lógica aristotélica, que contrasta marcadamente con la lógica de ambos/y de la filosofía oriental.
 
@@ -57,7 +57,7 @@ Este deseo innato se expresa entre los adolescentes con su urgente necesidad de 
 
 El ser humano seguramente es un animal complejo. Por extraño que parezca, hay una salida que en realidad puede utilizar nuestra debilidad. El Libro de Urantia nos informa sobre nuestra tendencia a aislar parte de la vida y convertirla en nuestra «religión». Y proporciona una solución: otorgamos irrevocablemente al Dios interior, libertad ilimitada para reflejar el amor de Dios expresándose en nuestras vidas personales.
 
-> «La eliminación filosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortandad de los falsos dioses; y aunque esta desaparición de las deidades creadas por los hombres pueda nublar momentáneamente la visión espiritual, termina por destruir la ignorancia y la superstición que tanto tiempo ocultaron al Dios viviente del amor eterno. La relación entre la criatura y el Creador es una experiencia viviente, una fe religiosa dinámica, que no está sujeta a una definición precisa. Aislar una parte de la vida y llamarla religión es desintegrar la vida y desvirtuar la religión. **Ésta es precisamente la razón por la que el Dios de la adoración exige una fidelidad total, o ninguna**». ([LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
+> «La eliminación filosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortandad de los falsos dioses; y aunque esta desaparición de las deidades creadas por los hombres pueda nublar momentáneamente la visión espiritual, termina por destruir la ignorancia y la superstición que tanto tiempo ocultaron al Dios viviente del amor eterno. La relación entre la criatura y el Creador es una experiencia viviente, una fe religiosa dinámica, que no está sujeta a una definición precisa. Aislar una parte de la vida y llamarla religión es desintegrar la vida y desvirtuar la religión. **Ésta es precisamente la razón por la que el Dios de la adoración exige una fidelidad total, o ninguna**». (<a id="a59_724"></a>[LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
 
 No puedes ser ni siquiera un poco fanático de un equipo de fútbol, ​​o de cualquier otra causa mundana, si ya le has dado toda tu lealtad a Dios.
 

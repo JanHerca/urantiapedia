@@ -52,13 +52,13 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Muchos de vuestros hermanos aceptan mentalmente la teoría de Dios, pero no consiguen darse cuenta espiritualmente de la presencia de Dios. Ésta es precisamente la razón por la que os he enseñado tantas veces que la mejor manera de comprender el reino de los cielos es adquiriendo la actitud espiritual de un niño sincero. No os recomiendo la inmadurez mental de un niño, sino más bien la *ingenuidad espiritual* de un pequeño que cree con facilidad y que confía plenamente. No es tan importante que conozcáis el hecho de Dios, como que desarrolléis cada vez más la habilidad de *sentir la presencia de Dios*.
 > 
-> Una vez que empecéis a descubrir a Dios en vuestra alma, no tardaréis en empezar a descubrirlo en el alma de los otros hombres, y finalmente en todas las criaturas y creaciones de un poderoso universo. Pero ¿qué posibilidades tiene el Padre de aparecer, como el Dios de las lealtades supremas y de los ideales divinos, en el alma de unos hombres que dedican poco o ningún tiempo a la contemplación reflexiva de estas realidades eternas? Aunque la mente no es la sede de la naturaleza espiritual, es en verdad la entrada que conduce a ella. ([LU 155:6.2-13](/es/The_Urantia_Book/155#p6_2))
+> Una vez que empecéis a descubrir a Dios en vuestra alma, no tardaréis en empezar a descubrirlo en el alma de los otros hombres, y finalmente en todas las criaturas y creaciones de un poderoso universo. Pero ¿qué posibilidades tiene el Padre de aparecer, como el Dios de las lealtades supremas y de los ideales divinos, en el alma de unos hombres que dedican poco o ningún tiempo a la contemplación reflexiva de estas realidades eternas? Aunque la mente no es la sede de la naturaleza espiritual, es en verdad la entrada que conduce a ella. (<a id="a54_543"></a>[LU 155:6.2-13](/es/The_Urantia_Book/155#p6_2))
 
 > Vosotros sois mis apóstoles, y la religión no se convertirá para vosotros en un refugio teológico al que podréis huir cuando temáis enfrentaros con las duras realidades del progreso espiritual y de la aventura idealista. Vuestra religión se convertirá más bien en el hecho de una experiencia real que atestigua que Dios os ha encontrado, idealizado, ennoblecido y espiritualizado, y que os habéis alistado en la aventura eterna de encontrar al Dios que así os ha encontrado y os ha hecho hijos suyos.
 >
-> Cuando Jesús terminó de hablar, hizo una seña a Andrés, apuntó hacia el oeste en dirección a Fenicia, y dijo: **«Pongámonos en camino»**. ([LU 155:6.18-19](/es/The_Urantia_Book/155#p6_18))
+> Cuando Jesús terminó de hablar, hizo una seña a Andrés, apuntó hacia el oeste en dirección a Fenicia, y dijo: **«Pongámonos en camino»**. (<a id="a58_141"></a>[LU 155:6.18-19](/es/The_Urantia_Book/155#p6_18))
 
-> No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará. ([LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará. (<a id="a60_131"></a>[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 ## External links
 

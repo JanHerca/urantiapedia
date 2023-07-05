@@ -208,19 +208,19 @@ Los descubrimientos hechos en Gesher Benot Ya'aqov en Israel durante este mileni
 
 ## Referencias
 
-[^1]: [LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
+[^1]: <a id="a210_6"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
 
-[^2]: [LU 63:2.4,7](/es/The_Urantia_Book/63#p2_4)
+[^2]: <a id="a212_6"></a>[LU 63:2.4,7](/es/The_Urantia_Book/63#p2_4)
 
 [^3]: Paul Rincon, *Early human fire skills revealed*, *BBC News*, 29 abril 2004, http://news.bbc.co.uk/2/hi/science/nature/3670017.stm
 
-[^4]: [LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
+[^4]: <a id="a216_6"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
 
 [^5]: [LU 63:1.3](/README_es.md/The_Urantia_Book/63#p1_3)
 
-[^6]: [LU 62:5.8](/es/The_Urantia_Book/62#p5_8)
+[^6]: <a id="a220_6"></a>[LU 62:5.8](/es/The_Urantia_Book/62#p5_8)
 
-[^7]: [LU 63:2.3-7](/es/The_Urantia_Book/63#p2_3)
+[^7]: <a id="a222_6"></a>[LU 63:2.3-7](/es/The_Urantia_Book/63#p2_3)
 
 [^8]: Joshua Fischman, *A Fireplace in France*, *Discover Magazine*, 1 enero 1996. http://discovermagazine.com/1996/jan/afireplaceinfran673
 
@@ -232,6 +232,6 @@ Los descubrimientos hechos en Gesher Benot Ya'aqov en Israel durante este mileni
 
 [^12]: *Fire out of Africa: a key to the migration of prehistoric man*, *The Hebrew University of Jerusalem*, 27 octubre 2008, http://www.huji.ac.il/cgi-bin/dovrut/dovrut_search_eng.pl?mesge122510374832688760
 
-[^13]: [LU 62:4.2-3](/es/The_Urantia_Book/62#p4_2)
+[^13]: <a id="a234_7"></a>[LU 62:4.2-3](/es/The_Urantia_Book/62#p4_2)
 
-[^14]: [LU 63:6.1-7](/es/The_Urantia_Book/63#p6_1)
+[^14]: <a id="a236_7"></a>[LU 63:6.1-7](/es/The_Urantia_Book/63#p6_1)

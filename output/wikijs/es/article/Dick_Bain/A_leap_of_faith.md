@@ -65,7 +65,7 @@ Mi viaje con _El Libro de Urantia_ comenzó con curiosidad, pasó de un salto de
 
 > Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanzas del reino, que son las siguientes:
 >
-> Conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. ([LU 141:7.6](/es/The_Urantia_Book/141#p7_6))
+> Conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. (<a id="a67_190"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6))
 
 ## Enlaces externos
 

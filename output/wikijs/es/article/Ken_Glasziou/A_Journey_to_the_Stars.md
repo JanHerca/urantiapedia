@@ -46,7 +46,7 @@ La primera parte del viaje es crucial porque se espera que tomemos una decisión
 
 El libro nos dice que el más leve atisbo de fe nos asegura una segunda oportunidad para hacer esa elección de libre albedrío requerida cuando lleguemos a la siguiente etapa de nuestro viaje, la ubicación que conocemos como los Mundos de las Mansiones. El libro dice:
 
-> «_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más tenue llama vacilante de fe. Él toma nota de las emociones físicas y supersticiosas del hombre primitivo. Y con esas almas honradas pero temerosas, cuya fe es tan débil que no llega a ser mucho más que un conformismo intelectual a una actitud pasiva de asentimiento a las religiones de autoridad, el Padre siempre está alerta para honrar y fomentar incluso todas estas débiles tentativas por llegar hasta él. ***Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu***._» ([LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
+> «_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más tenue llama vacilante de fe. Él toma nota de las emociones físicas y supersticiosas del hombre primitivo. Y con esas almas honradas pero temerosas, cuya fe es tan débil que no llega a ser mucho más que un conformismo intelectual a una actitud pasiva de asentimiento a las religiones de autoridad, el Padre siempre está alerta para honrar y fomentar incluso todas estas débiles tentativas por llegar hasta él. ***Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu***._» (<a id="a48_682"></a>[LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
 
 Para aquellos lectores de _El Libro de Urantia_ que han tomado este leve atisbo de fe como una garantía de supervivencia, puede ser recomendable echar un vistazo de cerca a la última frase de la cita anterior.
 
@@ -140,7 +140,7 @@ Como Finalitarios, estamos asignados al servicio cooperativo y de observación h
 
 Se desconoce el destino final del Cuerpo de la Finalidad. Se especula que intentaremos conocer a Dios como Último, y habiendo alcanzado ese objetivo, comenzaremos la búsqueda del Absoluto.
 
-Podría ser una buena idea leer ahora la sección titulada «Conductores de adoración» en [LU 27:0.4](/es/The_Urantia_Book/27#p0_4)  del libro para tener una idea de lo que realmente es este viaje. Buen viaje.
+Podría ser una buena idea leer ahora la sección titulada «Conductores de adoración» en <a id="a142_87"></a>[LU 27:0.4](/es/The_Urantia_Book/27#p0_4)  del libro para tener una idea de lo que realmente es este viaje. Buen viaje.
 
 > Al cielo no se llega de un solo salto. Pero construimos la escalera por la que subimos.
 > G.J. Holland

@@ -40,7 +40,7 @@ Nota: Las notas del apéndice se refieren al libro de Preston Thomas _La vida y 
 
 Hay muchas declaraciones esperanzadoras e inspiradoras sobre nuestro futuro en _El Libro de Urantia_, pero pocas pueden igualar la promesa y la oportunidad que se predicen en las siguientes líneas:
 
-> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. ...el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres [[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. ...el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres <a id="a42_344"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 Reflexionemos sobre las asombrosas implicaciones de estas declaraciones. Los reveladores nos dicen que nuestro mundo necesita nuevos maestros de la religión de Jesús. Y están profetizando la llegada de estos nuevos maestros, prediciendo que estos nuevos líderes religiosos ayudarán a traer un renacimiento espiritual a nuestro «mundo oscuro y confuso».
 
@@ -52,7 +52,7 @@ En muchos lugares los reveladores señalan que el mundo de hoy está acosado por
 
 Sí, enfrentamos serios problemas, pero nos esperan grandes cosas, ¡y estamos llamados a participar! ¡Estamos llamados a unirnos a una gran aventura! Así es como los reveladores describen lo que sucederá en nuestro mundo y las emocionantes posibilidades que se encuentran en nuestro futuro:
 
-> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **el renacimiento espiritual de la fraternidad del reino de Jesús** debería **emocionar** a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne. [[LU 195:10.6](/es/The_Urantia_Book/195#p10_6)]; (énfasis mío)
+> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **el renacimiento espiritual de la fraternidad del reino de Jesús** debería **emocionar** a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne. <a id="a54_330"></a>[[LU 195:10.6](/es/The_Urantia_Book/195#p10_6)]; (énfasis mío)
 
 ¡Ha llegado el momento de una nueva revelación de Jesús! Los líderes de esta nueva revelación traerán el renacimiento espiritual de la hermandad del reino de Jesús. Provocarán un nuevo gran renacimiento espiritual. Para aquellos que se sientan inclinados a ayudar a realizar esta nueva revelación, se establecen tres requisitos fundamentales.  
 
@@ -65,13 +65,13 @@ Los nuevos maestros-líderes deben:
 
 Si buscamos ser miembros de este cuerpo ahora en formación de nuevos maestros-líderes, es bueno reflexionar sobre cada uno de estos requisitos. Descubriremos que, así como la tarea es grande, también lo son los requisitos. Lo que sigue puede considerarse como una guía y un manual básico de capacitación para aquellos que aspiran a convertirse en nuevos maestros-líderes. Mientras reflexionamos sobre el papel que podríamos desempeñar en esta gran aventura, tengamos en cuenta lo que Jesús requiere de sus seguidores:
 
-> El Maestro de la verdad os exigirá una rendición de cuentas de acuerdo con la verdad que os ha sido confiada. [[LU 176:3.7](/es/The_Urantia_Book/176#p3_7)]
+> El Maestro de la verdad os exigirá una rendición de cuentas de acuerdo con la verdad que os ha sido confiada. <a id="a67_112"></a>[[LU 176:3.7](/es/The_Urantia_Book/176#p3_7)]
 
 ## El requisito de la espiritualidad
 
 El primer y más básico requisito para los nuevos maestros-líderes es que sean «hombres y mujeres espirituales». ¿Qué significa ser «espiritual»?
 
-La espiritualidad es un reflejo de nuestra cercanía a Dios; es la medida de nuestra sintonía con su espíritu residente. Es directamente proporcional a la eliminación de las cualidades egoístas del amor. Y crucialmente, también es una medida de la efectividad de nuestro ministerio espiritual. Así es como lo expresaron los reveladores: _La espiritualidad indica inmediatamente vuestra proximidad a Dios y la_ **_medida de vuestra utilidad para vuestros semejantes_**. [[LU 100:2.4](/es/The_Urantia_Book/100#p2_4)] (énfasis mío)
+La espiritualidad es un reflejo de nuestra cercanía a Dios; es la medida de nuestra sintonía con su espíritu residente. Es directamente proporcional a la eliminación de las cualidades egoístas del amor. Y crucialmente, también es una medida de la efectividad de nuestro ministerio espiritual. Así es como lo expresaron los reveladores: _La espiritualidad indica inmediatamente vuestra proximidad a Dios y la_ **_medida de vuestra utilidad para vuestros semejantes_**. <a id="a73_468"></a>[[LU 100:2.4](/es/The_Urantia_Book/100#p2_4)] (énfasis mío)
 
 ### El nacimiento del espíritu
 
@@ -79,53 +79,53 @@ El primer paso esencial para convertirse en una persona espiritual es «nacer de
 
 El «nacimiento del espíritu» es el cambio de mentalidad que ocurre cuando elegimos de todo corazón hacer la voluntad del Padre. Cuando hacemos esta elección, su espíritu interior nace a la luz de nuestra fe. Jesús se lo explicó a Nicodemo de esta manera:
 
-> El espíritu del Padre que está en los cielos ya reside dentro de ti. Si quieres dejarte conducir por este espíritu que viene de arriba, muy pronto empezarás a ver con los ojos del espíritu; a continuación, si escoges de todo corazón seguir la orientación del espíritu, nacerás del espíritu, porque el único propósito de tu vida será hacer la voluntad de tu Padre que está en los cielos. [[LU 142:6.7](/es/The_Urantia_Book/142#p6_7)]
+> El espíritu del Padre que está en los cielos ya reside dentro de ti. Si quieres dejarte conducir por este espíritu que viene de arriba, muy pronto empezarás a ver con los ojos del espíritu; a continuación, si escoges de todo corazón seguir la orientación del espíritu, nacerás del espíritu, porque el único propósito de tu vida será hacer la voluntad de tu Padre que está en los cielos. <a id="a81_389"></a>[[LU 142:6.7](/es/The_Urantia_Book/142#p6_7)]
 
 Es importante darse cuenta de que el nacimiento del espíritu es un proceso gradual y mayormente inconsciente. Cuando el proceso se completa, culmina en un «cumpleaños». Así es como lo describen los reveladores:
 
-> La religión es funcional en la mente humana y se lleva a cabo en la experiencia antes de aparecer en la conciencia humana. Un niño existe durante cerca de nueve meses antes de experimentar el nacimiento. Pero el «nacimiento» de la religión no es repentino, es más bien una aparición gradual. Sin embargo, tarde o temprano hay un «día de nacimiento». [[LU 103:2.1](/es/The_Urantia_Book/103#p2_1)]
+> La religión es funcional en la mente humana y se lleva a cabo en la experiencia antes de aparecer en la conciencia humana. Un niño existe durante cerca de nueve meses antes de experimentar el nacimiento. Pero el «nacimiento» de la religión no es repentino, es más bien una aparición gradual. Sin embargo, tarde o temprano hay un «día de nacimiento». <a id="a85_352"></a>[[LU 103:2.1](/es/The_Urantia_Book/103#p2_1)]
 
 ### Mostrando los frutos del Espíritu
 
 Dado que el nacimiento del espíritu es un proceso gradual que en su mayor parte es inconsciente, ¿cómo podemos saber si hemos nacido del espíritu? En pocas palabras, si nacemos del espíritu, comenzaremos a mostrar los frutos del espíritu en nuestra vida diaria. Esto es lo que dijo Jesús:
 
-> ...aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu en el servicio amoroso a sus semejantes. [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> ...aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu en el servicio amoroso a sus semejantes. <a id="a91_139"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
-> Pero no os engañéis; aunque la salvación es el don gratuito de Dios y se concede a todos los que la aceptan por la fe, a ello le sigue la experiencia de producir los frutos de la vida espiritual tal como ésta se vive en la carne. [[LU 193:1.2](/es/The_Urantia_Book/193#p1_2)] Si unos creyentes declarados no producen estos frutos del espíritu divino en sus vidas, están muertos. [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> Pero no os engañéis; aunque la salvación es el don gratuito de Dios y se concede a todos los que la aceptan por la fe, a ello le sigue la experiencia de producir los frutos de la vida espiritual tal como ésta se vive en la carne. <a id="a93_232"></a>[[LU 193:1.2](/es/The_Urantia_Book/193#p1_2)] Si unos creyentes declarados no producen estos frutos del espíritu divino en sus vidas, están muertos. <a id="a93_381"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
 También debemos darnos cuenta de que el Padre requiere de sus seguidores fieles no solo que den los frutos del espíritu, sino que crezcan y progresen en la producción de frutos espirituales. A medida que continuamos en la voluntad del Padre debemos mostrar cada vez más fruto espiritual en nuestra vida personal. Así es como Jesús lo expresó:
 
-> A medida que progreséis hacia el cielo en el reino de Dios, deberéis producir cada vez más los frutos del espíritu. [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> A medida que progreséis hacia el cielo en el reino de Dios, deberéis producir cada vez más los frutos del espíritu. <a id="a97_118"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
-> Mi Padre pide a los hijos de la fe que produzcan muchos frutos del espíritu. [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> Mi Padre pide a los hijos de la fe que produzcan muchos frutos del espíritu. <a id="a99_79"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
 ### ¿Qué son los frutos del Espíritu?
 
 ¿Cuáles son los frutos del espíritu? Básicamente son los rasgos de carácter que resultan de nuestra conexión con el espíritu de Dios que mora en nosotros. Son las características del Espíritu que fluye a través de nosotros y manifestamos en nuestras reacciones de vida. El dominio de una vida humana por el espíritu del Padre siempre va acompañado de un crecimiento en estas perfecciones de carácter. Lo que sigue es una lista de algunos de los frutos del espíritu. La primera lista que conocemos de la Biblia:
 
-> ...los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza. [[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
+> ...los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza. <a id="a105_140"></a>[[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
 
 Jesús presentó una segunda lista en una de sus últimas apariciones:
 
-> Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera. [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera. <a id="a109_347"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
 De hecho, los frutos del espíritu son básicamente los rasgos de carácter que Jesús demostró en su vida perfeccionada en la tierra.
 
-> Cuando un hombre produce en su vida los «frutos del espíritu», muestra simplemente los rasgos que el Maestro manifestó en su propia vida terrenal. [[LU 194:3.1](/es/The_Urantia_Book/194#p3_1)]
+> Cuando un hombre produce en su vida los «frutos del espíritu», muestra simplemente los rasgos que el Maestro manifestó en su propia vida terrenal. <a id="a113_149"></a>[[LU 194:3.1](/es/The_Urantia_Book/194#p3_1)]
 
 Así que nuestro primer trabajo es nacer del espíritu, pero este nacimiento del espíritu debe ser seguido inmediatamente por la fructificación espiritual. Debemos dar cada vez más y espontáneamente este fruto espiritual a lo largo de nuestra vida. Esta es nuestra meta siempre presente y la medida de nuestro progreso espiritual. A medida que avanzamos en la vida, podemos preguntarnos: «¿Estoy mostrando cada vez más los frutos del espíritu en mi vida diaria?» Si lo somos, podemos estar seguros de que estamos avanzando en el entrenamiento espiritual requerido para convertirnos en un maestro-líder efectivo. Y en este largo camino espiritual es bueno recordarnos que:
 
-> La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo. [[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
+> La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo. <a id="a117_134"></a>[[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
 
 ### Crecer hasta la edad adulta espiritual
 
 No podemos quedarnos quietos en el reino. Debemos seguir adelante, y el resultado culminante de tal crecimiento y avance es la edad adulta y la madurez espiritual. Como nuevos maestros-líderes debemos entender que para revelar efectivamente a Jesús tendremos que llegar a la edad adulta espiritual. Estamos llamados a ser ejemplos vivos de la espiritualidad madura que puede alcanzar un verdadero seguidor de Jesús. Esto es lo que enseñó acerca de crecer hasta la edad adulta y la madurez espiritual:
 
-> Podéis entrar en el reino como un niño, pero **el Padre exige que crezcáis, por la gracia, hasta la plena estatura de un adulto espiritual**. [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)] (énfasis mío)
+> Podéis entrar en el reino como un niño, pero **el Padre exige que crezcáis, por la gracia, hasta la plena estatura de un adulto espiritual**. <a id="a123_144"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)] (énfasis mío)
 
-> La confianza semejante a la de un niño le asegura al hombre su entrada en el reino de la ascensión celestial, pero el progreso depende enteramente del ejercicio **vigoroso de la fe robusta y convencida del hombre adulto**. [[LU 102:1.1](/es/The_Urantia_Book/102#p1_1)] (énfasis mío)
+> La confianza semejante a la de un niño le asegura al hombre su entrada en el reino de la ascensión celestial, pero el progreso depende enteramente del ejercicio **vigoroso de la fe robusta y convencida del hombre adulto**. <a id="a125_225"></a>[[LU 102:1.1](/es/The_Urantia_Book/102#p1_1)] (énfasis mío)
 
-> Jesús enseñó que la fe, la simple creencia semejante a la de un niño, es la llave de la puerta del reino, pero también enseñó que después de haber pasado la puerta, están los peldaños progresivos de rectitud que todo niño creyente debe ascender **para crecer hasta la plena estatura de los vigorosos hijos de Dios**. [[LU 170:3.2](/es/The_Urantia_Book/170#p3_2)] (énfasis mío)
+> Jesús enseñó que la fe, la simple creencia semejante a la de un niño, es la llave de la puerta del reino, pero también enseñó que después de haber pasado la puerta, están los peldaños progresivos de rectitud que todo niño creyente debe ascender **para crecer hasta la plena estatura de los vigorosos hijos de Dios**. <a id="a127_319"></a>[[LU 170:3.2](/es/The_Urantia_Book/170#p3_2)] (énfasis mío)
 
 (Consulte el Apéndice 1.3 Progresión de cuatro pasos hacia la adultez espiritual)
 
@@ -133,7 +133,7 @@ No podemos quedarnos quietos en el reino. Debemos seguir adelante, y el resultad
 
 La adultez espiritual y la madurez nos califican para progresar a un estado aún más alto de espiritualidad. Este es el nivel en el que Jesús, a través de su espíritu de la Verdad que mora en nosotros, puede vivir de nuevo en nosotros. Los maestros-líderes más exitosos alcanzarán este estado exaltado. Esto los hará representantes y ministros verdaderamente efectivos de Jesús. Es este nivel de espiritualidad el que piden los reveladores:
 
-> **El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu** que revelan el Maestro eficazmente a todos los hombres. [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]; (énfasis mío)
+> **El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu** que revelan el Maestro eficazmente a todos los hombres. <a id="a135_178"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]; (énfasis mío)
 
 Los nuevos maestros-líderes están llamados a alcanzar ese nivel de espiritualidad tal que sus vidas reflejen naturalmente a Jesús y su espíritu interior. Así como Jesús brindó una demostración viviente de su religión a su época, nosotros estamos llamados a ser las demostraciones vivientes de Jesús y sus enseñanzas para nuestro mundo moderno. ¡Debemos estar llenos del espíritu de tal manera que cuando otros nos vean, puedan ver a Jesús!
 
@@ -170,9 +170,9 @@ Debemos darnos cuenta de que nuestro mayor poder para despertar la regeneración
 
 También debemos notar que estamos llamados a dedicarnos exclusivamente a la regeneración espiritual. ¿Por qué exclusivamente? Aquí está el contexto en el que encontramos el requisito de exclusividad:
 
-> Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. [[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. <a id="a172_318"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
-Así vemos que la razón para dedicarnos exclusivamente a la regeneración espiritual deriva del hecho de que el cristianismo ha descuidado cada vez más su misión espiritual y la ha sustituido por un enfoque en los problemas sociales y materiales. Los seguidores profesos de Jesús se han desviado de su comisión de _«efectuar la transformación espiritual contínua de las generaciones sucesivas de la humanidad.»_ [[LU 195:9.10](/es/The_Urantia_Book/195#p9_10)]
+Así vemos que la razón para dedicarnos exclusivamente a la regeneración espiritual deriva del hecho de que el cristianismo ha descuidado cada vez más su misión espiritual y la ha sustituido por un enfoque en los problemas sociales y materiales. Los seguidores profesos de Jesús se han desviado de su comisión de _«efectuar la transformación espiritual contínua de las generaciones sucesivas de la humanidad.»_ <a id="a174_410"></a>[[LU 195:9.10](/es/The_Urantia_Book/195#p9_10)]
 
 Debemos evitar el error del cristianismo. No debemos distraernos ni desviarnos de nuestro trabajo; estamos llamados a una misión exclusivamente espiritual. Como nuevos maestros-líderes, debemos concentrar nuestros esfuerzos en esta meta clara: la regeneración espiritual de nuestro prójimo.
 
@@ -184,7 +184,7 @@ Podemos dar nuestro primer paso simplemente eligiendo trabajar por este objetivo
 
 Agregamos poder a nuestros esfuerzos al orar para que podamos ser una fuerza para la regeneración espiritual en otros. Podemos orar para que Jesús viva de nuevo en nosotros y que trabaje a través de nosotros para inspirar espiritualmente y elevar a aquellos con quienes contactamos. Este es el ideal que los reveladores nos llaman a vivir:
 
-> Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. <a id="a186_155"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 ## El requisito de depender únicamente de Jesús
 
@@ -212,15 +212,15 @@ Una clave de la segunda razón para depender únicamente de Jesús y sus incompa
 
 Sus enseñanzas se entienden mejor al observar la vida perfecta que vivió en la tierra. La perfección de la personalidad y el carácter que desarrolló al vivir una vida terrenal de pruebas y pruebas proporciona un ejemplo ideal para que nosotros emulemos en nuestras propias vidas. La vida de Jesús es tan valiosa porque no es solo una construcción teórica de una filosofía moral ideal, sino una demostración viviente del carácter espiritual que él enseñó. Esta combinación de enseñar el personaje ideal y luego proporcionar un ejemplo de la vida real de ese personaje es nuestro conocimiento más valioso.
 
-> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
+> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. <a id="a214_136"></a>[[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
 
 (Ver Apéndice 1.8 El Jesús Viviente)  
 
 ### Solo Jesús y sus enseñanzas poseen el poder para triunfar sobre las amenazas modernas a la civilización y traer el renacimiento espiritual
 
-La tercera razón para el requisito de exclusividad es el hecho de que solo Jesús y sus enseñanzas incomparables poseen el poder para lograr el renacimiento espiritual. _El Libro de Urantia_ nos dice que el cristianismo _«ha sido realmente uno de los más grandes poderes benéficos de la Tierra»_ [[LU 195:10.12](/es/The_Urantia_Book/195#p10_12)]. Ha hecho su trabajo llevando adelante el concepto del reino de Jesús durante 2000 años, hasta ya través de nuestra era material y secular actual. Pero ahora se necesita más. Solo Jesús y su religión personal poseen el poder de vernos a través de los tres grandes problemas que nuestro mundo enfrenta ahora: el no progreso espiritual, el secularismo materialista y el cambio social incesante. Solo Jesús y sus enseñanzas poseen el poder para estabilizarnos en este tiempo de crisis y triunfar sobre estas amenazas modernas a la civilización. Sólo a través de Jesús y sus enseñanzas alcanzaremos el nuevo renacimiento espiritual. Así es como lo expresaron los reveladores:
+La tercera razón para el requisito de exclusividad es el hecho de que solo Jesús y sus enseñanzas incomparables poseen el poder para lograr el renacimiento espiritual. _El Libro de Urantia_ nos dice que el cristianismo _«ha sido realmente uno de los más grandes poderes benéficos de la Tierra»_ <a id="a220_295"></a>[[LU 195:10.12](/es/The_Urantia_Book/195#p10_12)]. Ha hecho su trabajo llevando adelante el concepto del reino de Jesús durante 2000 años, hasta ya través de nuestra era material y secular actual. Pero ahora se necesita más. Solo Jesús y su religión personal poseen el poder de vernos a través de los tres grandes problemas que nuestro mundo enfrenta ahora: el no progreso espiritual, el secularismo materialista y el cambio social incesante. Solo Jesús y sus enseñanzas poseen el poder para estabilizarnos en este tiempo de crisis y triunfar sobre estas amenazas modernas a la civilización. Sólo a través de Jesús y sus enseñanzas alcanzaremos el nuevo renacimiento espiritual. Así es como lo expresaron los reveladores:
 
-> En verdad, el cristianismo ha hecho un gran servicio a este mundo, **pero a quien más se necesita ahora es a Jesús**. [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)] (énfasis mío)
+> En verdad, el cristianismo ha hecho un gran servicio a este mundo, **pero a quien más se necesita ahora es a Jesús**. <a id="a222_120"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)] (énfasis mío)
 
 (Ver Apéndice 1.9 Resumen de Razones para el Requisito de Exclusividad)
 
@@ -234,15 +234,15 @@ Hemos discutido varias razones para depender únicamente de Jesús. Ahora pasemo
 
 Depender de Jesús comienza con nuestra vida interior. Constantemente debemos buscar a Jesús en nuestro interior en busca de ayuda y guía tanto en nuestra vida personal como en nuestro ministerio.
 
-Jesús dijo, _«Yo soy la vid, vosotros los sarmientos.»_ Esta es una idea maravillosa para meditar. Recuerda también su enseñanza de «permanecer en mí» y «vivir en mi amor». Él nos insta a _«comulgar libremente conmigo» y a «mantener esta conexión espiritual viva conmigo.»_ [[LU 180:2.1](/es/The_Urantia_Book/180#p2_1)] Estas enseñanzas, cuando se siguen, fortalecen nuestra vida interior y nuestro ministerio. En mi experiencia, la idea de que podemos mantener una conexión espiritual con Jesús es bastante poderosa.
+Jesús dijo, _«Yo soy la vid, vosotros los sarmientos.»_ Esta es una idea maravillosa para meditar. Recuerda también su enseñanza de «permanecer en mí» y «vivir en mi amor». Él nos insta a _«comulgar libremente conmigo» y a «mantener esta conexión espiritual viva conmigo.»_ <a id="a236_274"></a>[[LU 180:2.1](/es/The_Urantia_Book/180#p2_1)] Estas enseñanzas, cuando se siguen, fortalecen nuestra vida interior y nuestro ministerio. En mi experiencia, la idea de que podemos mantener una conexión espiritual con Jesús es bastante poderosa.
 
 ### El Espíritu de la Verdad es Nuestro Socio y Guía
 
 Debe quedar claro que un renacimiento de las enseñanzas reales de Jesús que desplaza las enseñanzas cristianas acerca de Jesús es una tarea gigantesca y no será fácil. Sin embargo, podemos consolarnos y alentarnos por el hecho de que nuestros esfuerzos por revelar a Jesús no serán solitarios. No emprendemos esta gran obra solos. El Espíritu de la Verdad será nuestro socio de pleno derecho, de hecho, nuestro socio guía, en esta gran empresa. El hecho de que el Espíritu de la Verdad de Jesús se derramó sobre nosotros en Pentecostés significa que estamos especialmente equipados para cumplir nuestra misión. De hecho, nuestra nueva revelación de la vida y las enseñanzas de Jesús es realmente una parte de la misión continua del Espíritu de la Verdad de revelar a Jesús a cada nueva generación de mortales en la tierra. Esto es lo que nos dicen los reveladores:
 
-> ...el Espíritu de la Verdad **vino para ayudar al creyente a atestiguar las realidades de las enseñanzas de Jesús y de su vida** tal como la vivió en la carne.... [[LU 194:2.6](/es/The_Urantia_Book/194#p2_6)] (énfasis mío)
+> ...el Espíritu de la Verdad **vino para ayudar al creyente a atestiguar las realidades de las enseñanzas de Jesús y de su vida** tal como la vivió en la carne.... <a id="a242_165"></a>[[LU 194:2.6](/es/The_Urantia_Book/194#p2_6)] (énfasis mío)
 
-> Este espíritu **se otorgó con la finalidad de cualificar a los creyentes para que predicaran más eficazmente el evangelio del reino**... [[LU 194:3.5](/es/The_Urantia_Book/194#p3_5)] (énfasis mío)
+> Este espíritu **se otorgó con la finalidad de cualificar a los creyentes para que predicaran más eficazmente el evangelio del reino**... <a id="a244_139"></a>[[LU 194:3.5](/es/The_Urantia_Book/194#p3_5)] (énfasis mío)
 
 Siempre debemos recordar y ser fortalecidos por el hecho de que nuestra revelación de Jesús se logrará en sociedad con su Espíritu de Verdad obrando en ya través de nosotros. No luchamos solos, sino en asociación con el Dios del universo. El espíritu de Jesús nos ayudará y guiará. Nuestra parte es mantener nuestra conexión espiritual con él y volvernos cada vez más receptivos a su guía espiritual.
 
@@ -274,7 +274,7 @@ A medida que nos dedicamos a esta empresa, es instructivo considerar primero a n
 
 ### El reino de Jesús existe actualmente dentro de la iglesia cristiana
 
-> La iglesia llamada cristiana se convierte así en el capullo donde duerme actualmente el concepto que Jesús tenía del reino. El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva. [[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)
+> La iglesia llamada cristiana se convierte así en el capullo donde duerme actualmente el concepto que Jesús tenía del reino. El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva. <a id="a276_366"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)
 
 Podemos aprender mucho de estas palabras; contienen tres ideas importantes: Primero, los reveladores aclaran que la hermandad del reino de Jesús existe actualmente dentro de la iglesia cristiana. En segundo lugar, revelan que esta fraternidad divina se encuentra en un estado pasivo, adormecido y sumergido dentro del cristianismo. Y tercero, profetizan que esta hermandad eventualmente despertará y se manifestará en una forma superior y más avanzada.
 
@@ -282,13 +282,13 @@ Podemos aprender mucho de estas palabras; contienen tres ideas importantes: Prim
 
 Esta profecía apunta a un enfoque especial para nuestros esfuerzos. Esta hermandad dormida actualmente necesita un despertar y un renacimiento espiritual. Somos nosotros los que estamos llamados a proporcionar una nueva revelación de Jesús que despertará a estos cristianos dormidos a niveles más altos de vida espiritual. Lograr el renacimiento espiritual de la hermandad del reino de Jesús será nuestro primer gran paso en la iniciación del renacimiento espiritual. Aquí nuevamente está el llamado de los reveladores:
 
-> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **_el renacimiento espiritual de la fraternidad del reino de Jesús_** debería emocionar a todos los que creen en él.... [[LU 195 :10.6](/es/The_Urantia_Book/195#p10_6)](énfasis mío)
+> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **_el renacimiento espiritual de la fraternidad del reino de Jesús_** debería emocionar a todos los que creen en él.... <a id="a284_214"></a>[[LU 195 :10.6](/es/The_Urantia_Book/195#p10_6)](énfasis mío)
 
 ### Los cristianos unidos ayudarán a traer la nueva revelación al mundo
 
 El mundo cristiano está actualmente dividido en muchas denominaciones, sectas y cultos. La única esperanza de una unificación del cristianismo radica en un retorno al evangelio original de Jesús de la Paternidad de Dios y la Hermandad del hombre. Esto también es parte de nuestro trabajo. Por nuestro enfoque exclusivo en las enseñanzas reales de Jesús, proporcionaremos la base para la unificación de las diversas iglesias cristianas. Y a medida que este renacimiento de Jesús y su evangelio original llegue al cristianismo, muchos creyentes se unirán a nuestros esfuerzos para llevar este evangelio al mundo en general. Según _El Libro de Urantia_ esta es la gran esperanza de nuestro mundo:
 
-> **_La gran esperanza de Urantia_** reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. [[LU 195:10.15](/es/The_Urantia_Book/195#p10_15)] (énfasis mío)
+> **_La gran esperanza de Urantia_** reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. <a id="a290_277"></a>[[LU 195:10.15](/es/The_Urantia_Book/195#p10_15)] (énfasis mío)
 
 ### El Evangelio del Reino
 
@@ -296,21 +296,21 @@ El mundo cristiano está actualmente dividido en muchas denominaciones, sectas y
 
 El reino que Jesús enseñó es la voluntad del Padre dominante y trascendente en el corazón del creyente. Entramos en el reino por la fe en la enseñanza de Jesús de que Dios es nuestro Padre, y luego por la elección de hacer la voluntad de nuestro Padre. Jesús nos mostró el camino a la vida en el reino con sus dos grandes oraciones, «Hágase tu voluntad» y «No se haga mi voluntad sino la tuya».
 
-En su primera aparición después de la crucifixión, Jesús dejó claro a sus seguidores reunidos que «_la filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino_». [[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)] Hizo hincapié en que lo que el mundo más necesita saber es que todos somos hijos e hijas de Dios y que a través de la fe podemos realizar y experimentar diariamente este gran verdad. En nuestro trabajo siempre debemos enseñar a los demás a verse a sí mismos como hijos e hijas de Dios, nuestro amoroso Padre celestial.   
+En su primera aparición después de la crucifixión, Jesús dejó claro a sus seguidores reunidos que «_la filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino_». <a id="a298_194"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)] Hizo hincapié en que lo que el mundo más necesita saber es que todos somos hijos e hijas de Dios y que a través de la fe podemos realizar y experimentar diariamente este gran verdad. En nuestro trabajo siempre debemos enseñar a los demás a verse a sí mismos como hijos e hijas de Dios, nuestro amoroso Padre celestial.   
 
 ### El éxito de nuestra misión
 
 ¿Tendrán éxito nuestros esfuerzos? Considere estas declaraciones proféticas de los reveladores que describen tanto la historia como la evolución futura de la religión de Jesús en nuestro planeta:
 
-> Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. [[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)] (énfasis mío)
+> Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. <a id="a304_287"></a>[[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)] (énfasis mío)
 >
-> La iglesia [cristiana] es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. [[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)   
+> La iglesia [cristiana] es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. <a id="a306_300"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)   
 
 Las siguientes citas son dos de mis favoritas. Predicen la victoria sobre las poderosas fuerzas del materialismo y el secularismo, y una maravillosa nueva era espiritual a seguir:
 
-> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. [[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
+> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. <a id="a310_186"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
 >
-> Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. [[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)  
+> Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. <a id="a312_171"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)  
 
 ## Avancemos
 

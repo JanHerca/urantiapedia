@@ -46,7 +46,7 @@ Si la información provista en los párrafos siguientes hubiera estado disponibl
 >
 > _La presencia y el funcionamiento del mesotrón explican también otro enigma atómico. Cuando los átomos actúan de forma radioactiva, emiten mucha más energía de la que se podría esperar. Este exceso de radiación procede de la desintegración del mesotrón «portador de energía», que se convierte así en un simple electrón. La desintegración mesotrónica también va acompañada de la emisión de ciertas pequeñas partículas no cargadas_.
 >
-> _El mesotrón explica ciertas propiedades cohesivas del núcleo atómico, pero no da cuenta de la cohesión entre los protones ni de la adhesión entre los neutrones. La fuerza paradójica y poderosa que asegura la integridad cohesiva atómica es una forma de energía que aún no se ha descubierto en Urantia_. ([LU 42:8.3-6](/es/The_Urantia_Book/42#p8_3))
+> _El mesotrón explica ciertas propiedades cohesivas del núcleo atómico, pero no da cuenta de la cohesión entre los protones ni de la adhesión entre los neutrones. La fuerza paradójica y poderosa que asegura la integridad cohesiva atómica es una forma de energía que aún no se ha descubierto en Urantia_. (<a id="a48_306"></a>[LU 42:8.3-6](/es/The_Urantia_Book/42#p8_3))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics/bubble-chamber-bebc.jpg">
@@ -73,7 +73,7 @@ Esta fuerza, desconocida en 1934 (y en realidad en 1955 cuando se publicó _El L
 
 La fuerza fuerte también es responsable de la interacción protón-protón y neutrón-neutrón, de modo que, por ejemplo, si dos protones fueran un poco más fuertes (dice Freeman Dyson) podrían combinarse en una forma relativamente estable (aunque con efectos desastrosos en la velocidad de agotamiento de estrellas).
 
-El mandato a los reveladores permitió «_el suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras_». ([LU 101:4.9](/es/The_Urantia_Book/101#p4_9)) Los Documentos de Urantia no estaban en circulación antes de 1955, momento en el que la información proporcionada en estos párrafos habría sido redundante. Sin embargo, ilustra el grado de conocimiento que tienen los autores de los Documentos.
+El mandato a los reveladores permitió «_el suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras_». (<a id="a75_167"></a>[LU 101:4.9](/es/The_Urantia_Book/101#p4_9)) Los Documentos de Urantia no estaban en circulación antes de 1955, momento en el que la información proporcionada en estos párrafos habría sido redundante. Sin embargo, ilustra el grado de conocimiento que tienen los autores de los Documentos.
 
 ## Enlaces externos
 

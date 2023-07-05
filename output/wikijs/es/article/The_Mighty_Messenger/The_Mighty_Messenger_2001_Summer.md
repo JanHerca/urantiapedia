@@ -147,18 +147,18 @@ Así pudimos experimentar _El Libro de Urantia_ en Colombia, ya que se está apl
 ¿Te gusta el Trivial de El Libro de Urantia?
 
 Las siguientes preguntas están diseñadas para entretenerte y desafiarte con respecto a tu conocimiento de _El Libro de Urantia_. Las respuestas se dan por número de artículo, sección y párrafo. ¡Disfruta! ¡Y sin mirar de antemano!
-1. ¿Cuándo operó por primera vez el circuito de los arcángeles desde Urantia? ([LU 189:3.2](/es/The_Urantia_Book/189#p3_2))
-2. Complete los espacios en blanco «La paz de Urantia será promovida mucho más por <u>        </u> <u>          </u> <u>         </u>que por todos los sofismas sentimentales de la paz visionaria planificación.» ([LU 70:3.4](/es/The_Urantia_Book/70#p3_4))
-3. ¿Cuántas apariciones morontiales hizo Jesús? ([LU 193:3.1](/es/The_Urantia_Book/193#p3_1))
-4. Nombre los siete espíritus ayudantes de la mente. ([LU 36:5.5-12](/es/The_Urantia_Book/36#p5_5))
-5. ¿Cuántas huestes angelicales componen un ejército angelical? ([LU 38:6.2](/es/The_Urantia_Book/38#p6_2))
-6. ¿Quién es Gavalia? ([LU 37:2.6](/es/The_Urantia_Book/37#p2_6))
-7. ¿Cuántos cambios experimentará en su forma morontial a medida que progrese a través de la vida morontial de Nebadon? ([LU 48:1.5](/es/The_Urantia_Book/48#p1_5))
-8. «<u>         </u> es el antídoto divino para la exaltación del ego.» ([LU 48:4.15](/es/The_Urantia_Book/48#p4_15))
-9. ¿A quién se refirieron los apóstoles como «Jefe»? ([LU 139:1.2](/es/The_Urantia_Book/139#p1_2))
-10. Nombre tantas como pueda de las diez mujeres seleccionadas y comisionadas por Jesús como las primeras miembros del cuerpo evangelístico de mujeres. ([LU 150:1.1](/es/The_Urantia_Book/150#p1_1))
-11. «Solo un <u>         </u> <u>          ;</u> puede restablecer líneas interplanetarias de comunicación en un mundo tan aislado espiritualmente.» ([LU 35:9.9](/es/The_Urantia_Book/35#p9_9))
-12. Defina un «agondontero». ([LU 50:7.2](/es/The_Urantia_Book/50#p7_2))
+1. ¿Cuándo operó por primera vez el circuito de los arcángeles desde Urantia? (<a id="a149_79"></a>[LU 189:3.2](/es/The_Urantia_Book/189#p3_2))
+2. Complete los espacios en blanco «La paz de Urantia será promovida mucho más por <u>        </u> <u>          </u> <u>         </u>que por todos los sofismas sentimentales de la paz visionaria planificación.» (<a id="a150_212"></a>[LU 70:3.4](/es/The_Urantia_Book/70#p3_4))
+3. ¿Cuántas apariciones morontiales hizo Jesús? (<a id="a151_49"></a>[LU 193:3.1](/es/The_Urantia_Book/193#p3_1))
+4. Nombre los siete espíritus ayudantes de la mente. (<a id="a152_54"></a>[LU 36:5.5-12](/es/The_Urantia_Book/36#p5_5))
+5. ¿Cuántas huestes angelicales componen un ejército angelical? (<a id="a153_65"></a>[LU 38:6.2](/es/The_Urantia_Book/38#p6_2))
+6. ¿Quién es Gavalia? (<a id="a154_23"></a>[LU 37:2.6](/es/The_Urantia_Book/37#p2_6))
+7. ¿Cuántos cambios experimentará en su forma morontial a medida que progrese a través de la vida morontial de Nebadon? (<a id="a155_121"></a>[LU 48:1.5](/es/The_Urantia_Book/48#p1_5))
+8. «<u>         </u> es el antídoto divino para la exaltación del ego.» (<a id="a156_73"></a>[LU 48:4.15](/es/The_Urantia_Book/48#p4_15))
+9. ¿A quién se refirieron los apóstoles como «Jefe»? (<a id="a157_54"></a>[LU 139:1.2](/es/The_Urantia_Book/139#p1_2))
+10. Nombre tantas como pueda de las diez mujeres seleccionadas y comisionadas por Jesús como las primeras miembros del cuerpo evangelístico de mujeres. (<a id="a158_153"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1))
+11. «Solo un <u>         </u> <u>          ;</u> puede restablecer líneas interplanetarias de comunicación en un mundo tan aislado espiritualmente.» (<a id="a159_150"></a>[LU 35:9.9](/es/The_Urantia_Book/35#p9_9))
+12. Defina un «agondontero». (<a id="a160_30"></a>[LU 50:7.2](/es/The_Urantia_Book/50#p7_2))
 
 
 ## SSS Santa Cruz «Dulce y Especial»
@@ -176,7 +176,7 @@ Las noches estuvieron llenas de actividades sociales patrocinadas por diferentes
 
 - **Oct. 26-28, 2001- Conferencia Lone Star Roundup, Camp Buckner, TX**: «Trayendo el Espíritu Infinito a la Tierra»
   Un examen de las diversas funciones del Espíritu Infinito, incluido el ministerio angélico, la mente, el poder universal y el aspecto femenino o «yin» del «Espíritu Madre Infinito» y cómo podemos sentir esta presencia en nuestras vidas. Únase a nosotros «en el Espíritu». Para obtener más información, comuníquese con Adrienne Jarnagin al (512) 756-1637 o envíele un correo electrónico a-aj@tstar.net.
-- **Nov. 2-4, 2001- Retiro de Otoño del Círculo Golden Gate**: «El Padre Universal» El Padre Universal es una realidad espiritual infinita; es «el único verdadero Dios soberano, eterno, inmortal e invisible». _El Libro de Urantia_, [LU 1:3.1](/es/The_Urantia_Book/1#p3_1).
+- **Nov. 2-4, 2001- Retiro de Otoño del Círculo Golden Gate**: «El Padre Universal» El Padre Universal es una realidad espiritual infinita; es «el único verdadero Dios soberano, eterno, inmortal e invisible». _El Libro de Urantia_, <a id="a178_232"></a>[LU 1:3.1](/es/The_Urantia_Book/1#p3_1).
   _Lugar_: St. Dorothy's Rest, Camp Meeker, CA (Condado de Sonoma)
   _Costo_. $85 más el costo de una comida por equipo de cocina
   _Contacto_: Dolores L. Nice, (650)369-6803 o dlnice@worldnet.att.net
@@ -202,7 +202,7 @@ Teléfono: 773-327-0424. Fax:773-327-6159
 correo electrónico: fellowship@urantiabook.org
 sitio web: http://www.ubfellowship.org
 
-> La grandeza no reside tanto en poseer la fuerza como en hacer un uso sabio y divino de dicha fuerza. ([LU 48:7.27](/es/The_Urantia_Book/48#p7_27))
+> La grandeza no reside tanto en poseer la fuerza como en hacer un uso sabio y divino de dicha fuerza. (<a id="a204_104"></a>[LU 48:7.27](/es/The_Urantia_Book/48#p7_27))
 
 
 ## Enlaces externos

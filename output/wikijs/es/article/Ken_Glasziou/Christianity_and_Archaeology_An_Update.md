@@ -117,7 +117,7 @@ El evangelio de Marcos al menos tenía algo de correcto cuando hizo que los áng
 
 Pero esto también indica que una interpretación literal de secciones de los Documentos de Urantia también es insostenible, lo cual está de acuerdo con lo que nos dicen los reveladores:
 
-> «_Ninguna revelación que no sea la consecución del Padre Universal puede ser completa. Todos los demás servicios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio._» ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
+> «_Ninguna revelación que no sea la consecución del Padre Universal puede ser completa. Todos los demás servicios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio._» (<a id="a119_248"></a>[LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
 Una declaración clave del artículo de **AA** es: «Dado lo que sabemos, los cristianos en el siglo XXI deben entender a Dios y a Jesús lo mejor que podamos»._
 

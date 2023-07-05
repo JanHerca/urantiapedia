@@ -42,7 +42,7 @@ Otra curiosidad es la inclusión de materiales que parecen acercarse a lo imposi
 
 La inclusión de estos materiales ciertamente no hizo nada para respaldar el reclamo de autenticidad reveladora del libro. Curiosamente, podrían haberse omitido, fueran ciertos o no, y el libro no habría perdido nada de importancia. Sin embargo, la pura brillantez intelectual demostrada por los reveladores en tantas otras partes del libro nos lleva a muchos de nosotros a concluir que las "cosas graciosas" se han incluido por una buena razón. ¿Cuál podría ser esa razón?
 
-El artículo de Ann Bendall sobre la intolerancia contiene algunas observaciones que pueden ser relevantes. Ann nos recuerda que el libro afirma: «_El egotismo teológico autocrático e intolerante sólo apareció con la religión revelada._» ([LU 92:7.2](/es/The_Urantia_Book/92#p7_2)) Ann también comenta que uno de los riesgos con una religión revelada es que tiene la tendencia a disminuir la necesidad de una fe viva así como a fomentar el fenómeno de los «pocos elegidos».
+El artículo de Ann Bendall sobre la intolerancia contiene algunas observaciones que pueden ser relevantes. Ann nos recuerda que el libro afirma: «_El egotismo teológico autocrático e intolerante sólo apareció con la religión revelada._» (<a id="a44_238"></a>[LU 92:7.2](/es/The_Urantia_Book/92#p7_2)) Ann también comenta que uno de los riesgos con una religión revelada es que tiene la tendencia a disminuir la necesidad de una fe viva así como a fomentar el fenómeno de los «pocos elegidos».
 
 Posiblemente, las observaciones de Ann pueden arrojar luz sobre por qué _El Libro de Urantia_ se ha escrito de una manera tan extraña. Las expectativas de la Cuarta Revelación de Época no se cumplieron como se esperaba. Esto se debió en gran parte a las distorsiones que se produjeron en el concepto del reino de los cielos tal como lo enseñó Jesús durante los primeros años de la cristiandad.
 
@@ -52,7 +52,7 @@ Jesús enseñó que las características cardinales del evangelio del reino eran
 - La voluntad como factor determinante en la experiencia del hombre.
 - La comunión espiritual con Dios Padre.
 - Las satisfacciones supremas de servir con amor a los hombres.
-- La trascendencia de lo espiritual sobre lo material en la personalidad humana. ([LU 170:4.9-13](/es/The_Urantia_Book/170#p4_9))
+- La trascendencia de lo espiritual sobre lo material en la personalidad humana. (<a id="a54_82"></a>[LU 170:4.9-13](/es/The_Urantia_Book/170#p4_9))
 
 Ninguna de estas características aparece en el texto del Credo de Nicea, al que prácticamente todos los cristianos se suscriben como codificación de sus creencias básicas.
 
@@ -64,7 +64,7 @@ En esta transición, la muerte de Jesús como significado de la salvación del p
 
 A la luz de lo que hicimos los humanos con la Cuarta Revelación de Época, ¿no es lógico y natural que los reveladores tomen precauciones para evitar un desastre a la Quinta?
 
-Puede ser que consideraran el fundamentalismo como una gran amenaza, ya que es el sello distintivo del fundamentalismo que «aparece el egotismo teológico autocrático e intolerante». ([LU 92:7.2](/es/The_Urantia_Book/92#p7_2))
+Puede ser que consideraran el fundamentalismo como una gran amenaza, ya que es el sello distintivo del fundamentalismo que «aparece el egotismo teológico autocrático e intolerante». (<a id="a66_183"></a>[LU 92:7.2](/es/The_Urantia_Book/92#p7_2))
 
 Parece ser que el fundamentalismo invariablemente transforma sus fuentes en objetos sagrados—la Biblia, el Corán, el Libro de Mormón, _El Libro de Urantia_, etc.—y su contenido finalmente se convierte en proclamaciones divinas. Una forma posible de derrotar ese destino para una nueva revelación podría ser incluir material increíble que permitiría a los críticos, oponentes y escépticos ridiculizarlo o vilipendiarlo.
 
@@ -82,9 +82,9 @@ Por supuesto, nosotros, los lectores bien equilibrados del _Libro de Urantia_, p
 
 ¿Es posible que haya una versión actualizada de la historia del fariseo en el templo orando: «Te doy gracias Dios porque no soy como ese publicano de allá... » podría convertirse en un lector del _Libro de Urantia_ orando: «Te doy gracias Dios porque no soy como ese cristiano de allí». Pero, por supuesto, nos estamos olvidando de que los lectores del _Libro de Urantia_ no rezan, ¡se comunican!
 
-Debemos agradecer a Ann por recordarnos sobre el síndrome del «pueblo elegido». Jesús exaltó la virtud de la verdadera humildad. Incluso dijo, «_los primeros serán los últimos y los últimos los primeros._» ([LU 163:3.4](/es/The_Urantia_Book/163#p3_4); [Marcos 10:31](/es/Bible/Mark/10#v31))
+Debemos agradecer a Ann por recordarnos sobre el síndrome del «pueblo elegido». Jesús exaltó la virtud de la verdadera humildad. Incluso dijo, «_los primeros serán los últimos y los últimos los primeros._» (<a id="a84_207"></a>[LU 163:3.4](/es/The_Urantia_Book/163#p3_4); [Marcos 10:31](/es/Bible/Mark/10#v31))
 
-El libro nos informa que, «_las ideas e ideales de Jesús, incorporados en la enseñanza del evangelio del reino, casi fracasan... Luego dice: “Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo._» ([LU 170:5.4](/es/The_Urantia_Book/170#p5_4); [LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
+El libro nos informa que, «_las ideas e ideales de Jesús, incorporados en la enseñanza del evangelio del reino, casi fracasan... Luego dice: “Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo._» (<a id="a86_404"></a>[LU 170:5.4](/es/The_Urantia_Book/170#p5_4); <a id="a86_449"></a>[LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
 
 Entonces, ¿qué es lo que se debe proclamar? Estos son algunos de sus componentes:
 

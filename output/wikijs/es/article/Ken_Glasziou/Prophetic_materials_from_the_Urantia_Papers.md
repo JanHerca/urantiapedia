@@ -50,7 +50,7 @@ En un libro de texto publicado en una universidad estadounidense en 1934 titulad
 
 Las palabras de Swann fueron reproducidas en el Documento 42, Sección 6 pero con la comparación obviamente cambiada deliberadamente de masa a volumen. Se lee:
 
-> «_Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra_.» ([LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
+> «_Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra_.» (<a id="a52_254"></a>[LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
 
 Tomando la masa en reposo del electrón en 9,1 x 10^-28^ g, 0,1 onzas como 2,8 g, el radio de la tierra como 6,4 x 10^6^ m y poniendo k como constante de aumento, entonces: kx 9,1 x 10^-28^ = 2,8 (1), y así
@@ -84,7 +84,7 @@ Había una segunda parte de la comparación de Swann que decía:
 
 El autor del Documento de Urantia no usó esta ecuación, cambiando la comparación a:
 
-> «_Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol._» ([LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
+> «_Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol._» (<a id="a86_282"></a>[LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
 
 Stefan Talqvist fue nuevamente responsable de hacer los cálculos y llamar la atención sobre esta notable pieza de material profético en los Documentos.

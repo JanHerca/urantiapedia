@@ -61,7 +61,7 @@ Para los dioses de las religiones autoritarias, la naturaleza de esos dioses es 
 
 Pero la naturaleza del Dios de la religión del espíritu sólo puede conocerse a través de la revelación.
 
-La revelación puede venir a través de muchos caminos diferentes. Una característica que siempre debe tener es que sea reconocible por la fe, y solo por la fe. La revelación nunca es autoritaria por derecho propio. ¿Cómo puede ser? Porque «Dios ha decretado la soberanía de la voluntad material y mortal y ese decreto es absoluto». ([LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
+La revelación puede venir a través de muchos caminos diferentes. Una característica que siempre debe tener es que sea reconocible por la fe, y solo por la fe. La revelación nunca es autoritaria por derecho propio. ¿Cómo puede ser? Porque «Dios ha decretado la soberanía de la voluntad material y mortal y ese decreto es absoluto». (<a id="a63_332"></a>[LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
 
 Así, la autoridad de la verdadera revelación, y por lo tanto la religión del espíritu, se deriva de la elección del libre albedrío del individuo, y su aceptación es puramente a través de la fe de ese individuo.
 
@@ -71,7 +71,7 @@ Uno de los criterios de la religión autoritaria es el fundamentalismo que otorg
 
 Aparentemente, la religión autoritaria beneficia a dos amplias clases de adeptos, una de las cuales son aquellos que ejercen el poder y la autoridad, y la otra son aquellos individuos para quienes proporciona un refugio listo al que «el alma distraída y perturbada del hombre puede huir cuando es acosada por el miedo y atormentada». por la incertidumbre.”
 
-> «Como precio a pagar por las satisfacciones y las seguridades que proporciona, una religión así sólo exige a sus devotos un asentimiento pasivo y puramente intelectual». ([LU 155:5.9](/es/The_Urantia_Book/155#p5_9))
+> «Como precio a pagar por las satisfacciones y las seguridades que proporciona, una religión así sólo exige a sus devotos un asentimiento pasivo y puramente intelectual». (<a id="a73_173"></a>[LU 155:5.9](/es/The_Urantia_Book/155#p5_9))
 
 Cualquier forma de fundamentalismo que reivindique la autoridad divina y/o la infalibilidad de su sistema de creencias no puede ser otra cosa que religión autoritaria, por muy bien disfrazada que esté.
 

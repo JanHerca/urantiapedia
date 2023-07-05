@@ -47,7 +47,7 @@ _Dios es el único hecho causado por sí mismo que existe en toda la realidad, p
 > La forma de hacer las cosas es no preocuparse por quién se lleva el crédito por hacerlas.
 > Benjamín Jowett
 
-> En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones. ([LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
+> En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones. (<a id="a49_140"></a>[LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
 
 Obviamente, si este Dios es la fuente de todo lo que es, entonces Dios precedió a todo lo que es, incluido el tiempo. Esa conclusión nos da una escotilla de escape de todas esas preguntas relacionadas con el tiempo ahora inaplicables como «¿Quién hizo a Dios?» Porque antes de que existiera el tiempo, solo existía el «ahora» infinito y eterno, y tales preguntas son irrelevantes.
 

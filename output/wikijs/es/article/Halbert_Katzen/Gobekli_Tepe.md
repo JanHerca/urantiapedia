@@ -321,21 +321,21 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
 
 ## Referencias
 
-[^1]: La genética dispone de un tipo genes que cumplen esta forma de actuación, y se llaman genes recesivos. Por ejemplo, los ojos azules, que aparecen por un gen recesivo, se cuenta en *El Libro de Urantia* que surgieron en el mundo porque Adán y Eva los tenían así y los transmitieron al mundo a través de su descendencia. [LU 76:4.1](/es/The_Urantia_Book/76#p4_1)
+[^1]: La genética dispone de un tipo genes que cumplen esta forma de actuación, y se llaman genes recesivos. Por ejemplo, los ojos azules, que aparecen por un gen recesivo, se cuenta en *El Libro de Urantia* que surgieron en el mundo porque Adán y Eva los tenían así y los transmitieron al mundo a través de su descendencia. <a id="a323_325"></a>[LU 76:4.1](/es/The_Urantia_Book/76#p4_1)
 
-[^2]: [LU 101:4.8-9](/es/The_Urantia_Book/101#p4_8)
+[^2]: <a id="a325_6"></a>[LU 101:4.8-9](/es/The_Urantia_Book/101#p4_8)
 
-[^3]: [LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
+[^3]: <a id="a327_6"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
 
-[^4]: [LU 76:4.3](/es/The_Urantia_Book/76#p4_3)
+[^4]: <a id="a329_6"></a>[LU 76:4.3](/es/The_Urantia_Book/76#p4_3)
 
-[^5]: [LU 76:4.5](/es/The_Urantia_Book/76#p4_5)
+[^5]: <a id="a331_6"></a>[LU 76:4.5](/es/The_Urantia_Book/76#p4_5)
 
-[^6]: [LU 78:3.1](/es/The_Urantia_Book/78#p3_1)
+[^6]: <a id="a333_6"></a>[LU 78:3.1](/es/The_Urantia_Book/78#p3_1)
 
-[^7]: [LU 78:5.2](/es/The_Urantia_Book/78#p5_2)
+[^7]: <a id="a335_6"></a>[LU 78:5.2](/es/The_Urantia_Book/78#p5_2)
 
-[^8]: [LU 78:6.1](/es/The_Urantia_Book/78#p6_1)
+[^8]: <a id="a337_6"></a>[LU 78:6.1](/es/The_Urantia_Book/78#p6_1)
 
 [^9]: *Which came first, monumental building projects or farming?* (*¿Que apareció primero, los edificios monumentales o la agricultura?*), Archaeo News, diciembre 2008. http://www.stonepages.com/news/archives/003061.html
 
@@ -347,41 +347,41 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
 
 [^13]: Sean Thomas, *Gobekli Tepe – Paradise Regained?* (*Gobekli Tepe – ¿La recuperación del Paraíso?*), ForteanTimes, marzo 2007. https://web.archive.org/web/20100604191934/http://www.forteantimes.com/features/articles/449/gobekli_tepe_paradise_regained.html [Enlace original requiere ahora de subscripción]
 
-[^14]: [LU 78:2.4](/es/The_Urantia_Book/78#p2_4)
+[^14]: <a id="a349_7"></a>[LU 78:2.4](/es/The_Urantia_Book/78#p2_4)
 
-[^15]: [LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
+[^15]: <a id="a351_7"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
 
 [^16]: Austrian Times, artículo de 25 de febrero de 2011
 
-[^17]: [LU 74:3.4](/es/The_Urantia_Book/74#p3_4)
+[^17]: <a id="a355_7"></a>[LU 74:3.4](/es/The_Urantia_Book/74#p3_4)
 
-[^18]: [LU 52:1.5](/es/The_Urantia_Book/52#p1_5)
+[^18]: <a id="a357_7"></a>[LU 52:1.5](/es/The_Urantia_Book/52#p1_5)
 
-[^19]: [LU 66:5.6](/es/The_Urantia_Book/66#p5_6)
+[^19]: <a id="a359_7"></a>[LU 66:5.6](/es/The_Urantia_Book/66#p5_6)
 
-[^20]: [LU 73:4.1](/es/The_Urantia_Book/73#p4_1)
+[^20]: <a id="a361_7"></a>[LU 73:4.1](/es/The_Urantia_Book/73#p4_1)
 
-[^21]: [LU 84:7.29](/es/The_Urantia_Book/84#p7_29)
+[^21]: <a id="a363_7"></a>[LU 84:7.29](/es/The_Urantia_Book/84#p7_29)
 
-[^22]: [LU 74:7.22](/es/The_Urantia_Book/74#p7_22)
+[^22]: <a id="a365_7"></a>[LU 74:7.22](/es/The_Urantia_Book/74#p7_22)
 
 [^23]: La inspiración para interpretar la «H» surgió de un informe genético, que me envió Luis Marco, que brinda un apoyo notable a la datación de *El Libro de Urantia* de las razas sangik y los neandertales. Consulte la página de investigación *Doble origen dual del hombre moderno y hombre premoderno* para seguir este informe de investigación de 2019 de UC Davis. http://ubannotated.com/ubthenews/topics/Modern_Man_Origin/
 
-[^24]: [LU 78:5.4](/es/The_Urantia_Book/78#p5_4)
+[^24]: <a id="a369_7"></a>[LU 78:5.4](/es/The_Urantia_Book/78#p5_4)
 
-[^25]: [LU 78:5.7-8](/es/The_Urantia_Book/78#p5_7)
+[^25]: <a id="a371_7"></a>[LU 78:5.7-8](/es/The_Urantia_Book/78#p5_7)
 
 [^26]: Hay programado un estudio temático sobre este tema: *Sombreros con cabeza de pez*, http://ubannotated.com/main-menu/animated/topical-studies/fish-head-hats/
 
-[^27]: [LU 76:4.8](/es/The_Urantia_Book/76#p4_8)
+[^27]: <a id="a375_7"></a>[LU 76:4.8](/es/The_Urantia_Book/76#p4_8)
 
-[^28]: [LU 78:3.6](/es/The_Urantia_Book/78#p3_6)
+[^28]: <a id="a377_7"></a>[LU 78:3.6](/es/The_Urantia_Book/78#p3_6)
 
-[^29]: [LU 78:6.5](/es/The_Urantia_Book/78#p6_5)
+[^29]: <a id="a379_7"></a>[LU 78:6.5](/es/The_Urantia_Book/78#p6_5)
 
-[^30]: [LU 78:6.8](/es/The_Urantia_Book/78#p6_8)
+[^30]: <a id="a381_7"></a>[LU 78:6.8](/es/The_Urantia_Book/78#p6_8)
 
-[^31]: [LU 49:5.19](/es/The_Urantia_Book/49#p5_19)
+[^31]: <a id="a383_7"></a>[LU 49:5.19](/es/The_Urantia_Book/49#p5_19)
 
 [^32]: https://en.wikipedia.org/wiki/Pineal_gland
 

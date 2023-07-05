@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «La suposición errónea de que la rectitud de Dios era incompatible con el amor desinteresado del Padre celestial presuponía una falta de unidad en la naturaleza de la Deidad, y condujo directamente a la elaboración de la doctrina de la expiación, que es un ataque filosófico tanto a la unidad como al libre albedrío de Dios.» ([LU 2:6.5](/es/The_Urantia_Book/2#p6_5))
+> «La suposición errónea de que la rectitud de Dios era incompatible con el amor desinteresado del Padre celestial presuponía una falta de unidad en la naturaleza de la Deidad, y condujo directamente a la elaboración de la doctrina de la expiación, que es un ataque filosófico tanto a la unidad como al libre albedrío de Dios.» (<a id="a36_329"></a>[LU 2:6.5](/es/The_Urantia_Book/2#p6_5))
 
 Como de costumbre, los reveladores expresan su posición de manera clara y sucinta, excepto por una cosa. Si el concepto de expiación es falso (y lógicamente debe serlo), entonces ¿por qué Jesús, tan pronto después de embarcarse en su misión pública, murió en la cruz?
 
@@ -53,11 +53,11 @@ Los militares saben desde hace mucho tiempo que la confianza y la lealtad de las
 > De lo que no se puede hablar, se debe callar.
 > _Ludwig Wittgenstein_
 
-En la discusión de Jesús sobre la historia bíblica sobre Job, podemos encontrar: «¿No ves que Job deseaba ardientemente un Dios humano, que tenía sed de comunicarse con un Ser divino que conociera la condición mortal del hombre y comprendiera que los justos han de sufrir a menudo, siendo inocentes, como parte de esta primera vida en la larga ascensión hacia el Paraíso? Por eso el Hijo del Hombre ha venido desde el Padre para vivir una vida tal en la carne, que sea capaz de consolar y socorrer a todos aquellos que de aquí en adelante van a ser llamados a soportar las aflicciones de Job.» ([LU 148:6.7](/es/The_Urantia_Book/148#p6_7))
+En la discusión de Jesús sobre la historia bíblica sobre Job, podemos encontrar: «¿No ves que Job deseaba ardientemente un Dios humano, que tenía sed de comunicarse con un Ser divino que conociera la condición mortal del hombre y comprendiera que los justos han de sufrir a menudo, siendo inocentes, como parte de esta primera vida en la larga ascensión hacia el Paraíso? Por eso el Hijo del Hombre ha venido desde el Padre para vivir una vida tal en la carne, que sea capaz de consolar y socorrer a todos aquellos que de aquí en adelante van a ser llamados a soportar las aflicciones de Job.» (<a id="a55_595"></a>[LU 148:6.7](/es/The_Urantia_Book/148#p6_7))
 
 Ciertamente, no importa lo que tengamos que soportar en esta vida mortal, nunca podemos tener motivos para quejarnos de que Jesús mismo no conoce ni comprende nuestros sufrimientos.
 
-Pero parece muy dudoso que esa fuera la única razón por la que Jesús fue llamado a soportar la crucifixión. Si miramos a ver qué pasó con Abner, quizás aquí haya una pista. Abner fue el jefe de los seguidores originales de Juan el Bautista. Posteriormente, Abner estableció un grupo de seguidores de Jesús en Filadelfia, al este del Jordán. Al respecto, el libro dice: «Aunque la versión oriental del mensaje de Jesús permaneció más fiel a sus enseñanzas, continuó siguiendo la actitud intransigente de Abner. Nunca progresó como la versión helenizada, y acabó por perderse en el movimiento islámico». ([LU 195:1.11](/es/The_Urantia_Book/195#p1_11))
+Pero parece muy dudoso que esa fuera la única razón por la que Jesús fue llamado a soportar la crucifixión. Si miramos a ver qué pasó con Abner, quizás aquí haya una pista. Abner fue el jefe de los seguidores originales de Juan el Bautista. Posteriormente, Abner estableció un grupo de seguidores de Jesús en Filadelfia, al este del Jordán. Al respecto, el libro dice: «Aunque la versión oriental del mensaje de Jesús permaneció más fiel a sus enseñanzas, continuó siguiendo la actitud intransigente de Abner. Nunca progresó como la versión helenizada, y acabó por perderse en el movimiento islámico». (<a id="a59_603"></a>[LU 195:1.11](/es/The_Urantia_Book/195#p1_11))
 
 La versión de Pablo del cristianismo tenía la doctrina de la expiación como tema central. Los asociados de Abner incluían a los amigos de toda la vida de Jesús, Lázaro y sus hermanas, María y Marta, así como a David Zebedeo y su esposa (que era la hermana de Jesús, Rut), lo que seguramente indica que el grupo de Abner se apegaba mucho a las verdaderas enseñanzas de Jesús.
 
@@ -73,14 +73,14 @@ Sin embargo, ahora que los urantianos hemos tenido más tiempo para absorber el 
 
 El cambio que parece ser necesario es uno que moldeará lo que ahora es una colección suelta de individuos centrados en los libros para que se convierta en un movimiento unificado y orientado al servicio de genuinos seguidores de Jesús con la intención de vivir sus vidas como Jesús vivió la suya y, en al hacerlo, se convierte en el catalizador para inducir a otros a ir y hacer lo mismo.
 
-> «¿No comprendes que Dios reside dentro de ti, que se ha vuelto como tú eres para poder hacerte como él es?» ([LU 148:6.10](/es/The_Urantia_Book/148#p6_10))
+> «¿No comprendes que Dios reside dentro de ti, que se ha vuelto como tú eres para poder hacerte como él es?» (<a id="a75_111"></a>[LU 148:6.10](/es/The_Urantia_Book/148#p6_10))
 
 > Si fueras a destruir en la humanidad, la creencia en la inmortalidad, no solo el amor, sino toda fuerza viviente que mantiene la vida del mundo se secaría de inmediato.
 > _Dostoievski_
 
 > **Toda Urantia está esperando** 
 > 
-> la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús. ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
+> la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús. (<a id="a82_409"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
 ## Enlaces externos
 

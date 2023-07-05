@@ -43,13 +43,13 @@ La fe y la experiencia personal, no la ciencia ni siquiera la calidad, es la cla
 
 ## De los Documentos de Urantia.
 
-> «Aislar una parte de la vida y llamarla religión es desintegrar la vida y desvirtuar la religión.» ([LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
+> «Aislar una parte de la vida y llamarla religión es desintegrar la vida y desvirtuar la religión.» (<a id="a45_102"></a>[LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
 
-> «El mayor peligro espiritual para el hombre consiste en el progreso parcial, en la difícil situación de un crecimiento incompleto: en abandonar las religiones evolutivas del miedo sin aferrarse inmediatamente a la religión revelada del amor. La ciencia moderna, y en particular la psicología, sólo ha debilitado a aquellas religiones que dependen tan ampliamente del miedo, la superstición y las emociones». ([LU 99:4.8](/es/The_Urantia_Book/99#p4_8))
+> «El mayor peligro espiritual para el hombre consiste en el progreso parcial, en la difícil situación de un crecimiento incompleto: en abandonar las religiones evolutivas del miedo sin aferrarse inmediatamente a la religión revelada del amor. La ciencia moderna, y en particular la psicología, sólo ha debilitado a aquellas religiones que dependen tan ampliamente del miedo, la superstición y las emociones». (<a id="a47_411"></a>[LU 99:4.8](/es/The_Urantia_Book/99#p4_8))
 
-> «La eliminación filosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortandad de los falsos dioses; y aunque esta desaparición de las deidades creadas por los hombres pueda nublar momentáneamente la visión espiritual, termina por destruir la ignorancia y la superstición que tanto tiempo ocultaron al Dios viviente del amor eterno.» ([LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
+> «La eliminación filosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortandad de los falsos dioses; y aunque esta desaparición de las deidades creadas por los hombres pueda nublar momentáneamente la visión espiritual, termina por destruir la ignorancia y la superstición que tanto tiempo ocultaron al Dios viviente del amor eterno.» (<a id="a49_376"></a>[LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
 
-> «No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará». ([LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> «No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará». (<a id="a51_133"></a>[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 ## Enlaces externos
 

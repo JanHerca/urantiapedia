@@ -94,7 +94,7 @@ Nuestra Fellowship de Creyentes Revelación está en movimiento. Con cincuenta a
 
 Decir adiós a alguien como John Hales, quien se ha desempeñado como nuestro Director durante los últimos 32 años, nunca podría ser fácil. Sería imposible para mí llenar sus zapatos, pero les prometo a todos aquellos que aman la Fellowship como yo, que daré mi mayor esfuerzo a esta publicación y movilizaré cada atributo personal que poseo para estar a la altura de la confianza que tienen. puesto en mis manos.
 
-> Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es. [[LU 117:4.14](/es/The_Urantia_Book/117#p4_14)]
+> Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es. <a id="a96_173"></a>[[LU 117:4.14](/es/The_Urantia_Book/117#p4_14)]
 
 ## Conozca a sus nuevos consejeros generales
 
@@ -190,7 +190,7 @@ Hemos experimentado en los últimos meses con nuevas ideas. Enviamos tarjetas po
 
 Su apoyo a la Tubería de Luz mantiene la revelación fluyendo hacia estos proverbiales rincones de la tierra. ¡Por favor ayudenos! Se aceptan donaciones en línea en http://urantiabook.org./support.htm o por correo postal a: la Fellowship de _El Libro de Urantia_, PO Box 4583, Grand Central Station, New York, N Y. 10163.
 
-> El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo... _El Libro de Urantia_, [LU 99:1.3](/es/The_Urantia_Book/99#p1_3)
+> El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo... _El Libro de Urantia_, <a id="a192_169"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3)
 
 **¿Trabajarás una hora cada mes para la revelación?**
 
@@ -289,7 +289,7 @@ Algunos recuerdos imborrables fueron estar a 15,000 pies de altura en las monta�
 - **La Asamblea General se reunirá en Phoenix** - El Consejo General de la Fellowship llevará a cabo su reunión de mitad de año del 9 al 11 de febrero de 2007 en el Inn Suites Tempe, cerca del aeropuerto de Phoenix. La reunión comenzará el viernes 9 de febrero a las 7:00 p. m. y continuará hasta el sábado, finalizando el domingo 11 de febrero al mediodía. La reunión del Consejo está abierta a observadores y los lectores del área de Phoenix están invitados a asistir. Los concejales esperan la oportunidad de socializar con miembros de la Sociedad del Gran Cañón y muchos amigos en el área de Phoenix.
 - **Urantia News- por correo electrónico?** ¿Estás recibiendo la actualización de la Fellowship de la Fellowship? Este boletín electrónico se envía por correo electrónico aproximadamente mensualmente y contiene noticias actualizadas sobre el trabajo de la revelación. Si desea suscribirse, puede hacerlo en http://urantiabook.org/subscribe.htm. Su dirección de correo electrónico es todo lo que necesita para ingresar porque ya está recibiendo el Mighty Messenger.
 - **Se buscan obras de arte de Urantia** - El Comité de Publicaciones de la Fellowship está buscando obras de arte sobre un tema del Libro de Urantia para utilizarlas en futuros números de la Fellowship Herald. Si tiene obras de arte que le gustaría enviar para su posible uso, póngase en contacto con la Fellowship en fellowship@urantiabook.org, o envíe una foto de su trabajo a The Urantia Fellowship, PO Box 4583, Grand Central Station, New NY 10163.
-  _El arte es la morontia humana, el terreno intermedio entre el hombre material y el hombre espiritual._ [LU 195:7.15](/es/The_Urantia_Book/195#p7_15) Comparte tu visión morontial con nosotros.
+  _El arte es la morontia humana, el terreno intermedio entre el hombre material y el hombre espiritual._ <a id="a291_106"></a>[LU 195:7.15](/es/The_Urantia_Book/195#p7_15) Comparte tu visión morontial con nosotros.
 - **Nuevos Grupos de Estudio Internacionales Estocolmo, Suecia** - Póngase en contacto con Michael MacIsaac, mmacisaac@gmail.com. Birmingham, Inglaterra - Pato Banton Music Centre, 54-57 Key Hill, Hockley, B'ham, B18 5NX, Reino Unido
 
 

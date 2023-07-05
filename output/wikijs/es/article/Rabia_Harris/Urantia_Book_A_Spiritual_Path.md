@@ -104,6 +104,6 @@ Tal vez sea hora de comenzar a usar nuevas palabras para nuestras conexiones esp
 
 Todas las citas del _Libro de Urantia_:
 
-[^1]: [LU 19:2.6](/es/The_Urantia_Book/19#p2_6);
-[^2]: [LU 195:10.18](/es/The_Urantia_Book/195#p10_18);
-[^3]: [LU 196:2.1](/es/The_Urantia_Book/196#p2_1)
+[^1]: <a id="a106_6"></a>[LU 19:2.6](/es/The_Urantia_Book/19#p2_6);
+[^2]: <a id="a107_6"></a>[LU 195:10.18](/es/The_Urantia_Book/195#p10_18);
+[^3]: <a id="a108_6"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1)

@@ -43,9 +43,9 @@ Habiéndose tomado la decisión de proporcionar una revelación, el orden de los
 
 Para proporcionar la revelación, había que resolver dos problemas importantes. En primer lugar, ¿por qué medios se podría poner la revelación en manos receptivas en Urantia? En segundo lugar, ¿dónde podría ubicarse un grupo de personas que tuvieran los atributos necesarios para recibir, creer, imprimir y distribuir esta revelación?
 
-El primer problema llevó a los reveladores a utilizar un individuo humano inusual que los lectores d_El Libro de Urantia_ conocieron como el «Sujeto Durmiente». La información proporcionada por los reveladores ([LU 110:5.7](/es/The_Urantia_Book/110#p5_7)) indica que este sujeto elegido estaba dormido y sin ninguna conciencia de los procedimientos siempre que operaba como agente de comunicación. Además, cooperó en ser utilizado de esta manera cuando fue necesario.
+El primer problema llevó a los reveladores a utilizar un individuo humano inusual que los lectores d_El Libro de Urantia_ conocieron como el «Sujeto Durmiente». La información proporcionada por los reveladores (<a id="a45_211"></a>[LU 110:5.7](/es/The_Urantia_Book/110#p5_7)) indica que este sujeto elegido estaba dormido y sin ninguna conciencia de los procedimientos siempre que operaba como agente de comunicación. Además, cooperó en ser utilizado de esta manera cuando fue necesario.
 
-> El Reino de Dios está dentro de ti, pero la fe, y sólo la fe, te hará pasar por sus portales. (septiembre [LU 140:1.4](/es/The_Urantia_Book/140#p1_4))
+> El Reino de Dios está dentro de ti, pero la fe, y sólo la fe, te hará pasar por sus portales. (septiembre <a id="a47_108"></a>[LU 140:1.4](/es/The_Urantia_Book/140#p1_4))
 
 ## Elección de los Sadler
 
@@ -130,7 +130,7 @@ Completando estos escenarios, más adelante en el tiempo, uno o más miembros de
 
 ## El contenido del error
 
-Estos escenarios tienen la ventaja de explicar por qué hay muchos errores en la cosmología de los Documentos. Principalmente, habrían surgido de las preguntas planteadas por el Foro que creían que «ningún ser humano podría responder». Muchas de estas preguntas habrían requerido que los reveladores proporcionaran conocimiento no ganado, conocimiento que se les prohibió dar. ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) Entonces, para evitar que todo el proyecto se desmorone, los reveladores parecen haber dado respuestas desde la vanguardia del conocimiento de esa época, sabiendo que gran parte de él más tarde demostraría ser erróneo.
+Estos escenarios tienen la ventaja de explicar por qué hay muchos errores en la cosmología de los Documentos. Principalmente, habrían surgido de las preguntas planteadas por el Foro que creían que «ningún ser humano podría responder». Muchas de estas preguntas habrían requerido que los reveladores proporcionaran conocimiento no ganado, conocimiento que se les prohibió dar. (<a id="a132_377"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) Entonces, para evitar que todo el proyecto se desmorone, los reveladores parecen haber dado respuestas desde la vanguardia del conocimiento de esa época, sabiendo que gran parte de él más tarde demostraría ser erróneo.
 
 [Nota: el contenido de errores del Libro se ha ampliado notablemente recientemente debido a métodos nuevos y muy precisos para fechar estratos rocosos utilizando cristales de circón. Alrededor de treinta de estos errores se enumerarán en el próximo número de Innerface.]
 
@@ -163,7 +163,7 @@ Un posible ejemplo de esta actitud cautelosa puede verse en la revisión de la h
 
 Una de las muchas formas en que los Documentos han intentado anular el fundamentalismo bíblico es modificar las historias del Antiguo Testamento. Por lo tanto, Andon y Fonta son sustitutos parciales de Adán y Eva, pero en lugar de ser los únicos progenitores de la raza humana, tenemos:
 
-> «Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de siete mil cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión». ([LU 65:3.4](/es/The_Urantia_Book/65#p3_4)) Aquí los Documentos prestan apoyo a la teoría de la diversidad en el origen.
+> «Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de siete mil cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión». (<a id="a165_374"></a>[LU 65:3.4](/es/The_Urantia_Book/65#p3_4)) Aquí los Documentos prestan apoyo a la teoría de la diversidad en el origen.
 
 Y en una etapa posterior de su historia de Adán y Eva, los reveladores absuelven a la pareja bíblica del pecado heredado que se dice que su desobediencia otorgó a toda la raza humana. Al hacerlo, socavan la veracidad de muchos dogmas basados ​​en el Nuevo Testamento, como la expiación, la necesidad del nacimiento virginal de Jesús, además de doctrinas relacionadas, como la inmaculada concepción de María y su posterior ascensión corporal. Así que si la historia de Adán y Eva tal como se presenta en los Documentos de Urantia es o no alguna forma de «verdad progresiva y evolutiva», no es tan importante como que estas historias modificadas exigen una cuidadosa reflexión sobre las creencias establecidas, pero sin que sean ataques frontales directos que podría angustiar excesivamente a los nuevos lectores de la revelación hasta el punto de que abandonen la lectura adicional.
 
@@ -175,7 +175,7 @@ Los extremos a los que los reveladores estaban dispuestos a llegar para intentar
 
 Primero considere sus «pájaros pasajeros». Los Documentos tienen a estas increíbles criaturas siendo empleadas como taxis para transportar a Adán y Eva a lugares de encuentro en el jardín. Si esto no fuera lo suficientemente notable, se nos dice:
 
-> «Estas aves enormes son capaces de llevar a uno o dos hombres de tamaño medio durante un vuelo sin escalas de más de ochocientos kilómetros... Estas aves son sumamente inteligentes, muy obedientes e increíblemente afectuosas». Y eran «a menudo capaces de hablar muchas palabras de los idiomas del reino». ([LU 52:1.5](/es/The_Urantia_Book/52#p1_5))
+> «Estas aves enormes son capaces de llevar a uno o dos hombres de tamaño medio durante un vuelo sin escalas de más de ochocientos kilómetros... Estas aves son sumamente inteligentes, muy obedientes e increíblemente afectuosas». Y eran «a menudo capaces de hablar muchas palabras de los idiomas del reino». (<a id="a177_308"></a>[LU 52:1.5](/es/The_Urantia_Book/52#p1_5))
 
 Un segundo ejemplo de llevar deliberadamente la credulidad humana más allá de todos los límites razonables es el origen de esas criaturas invisibles conocidas como los intermedios secundarios. Sus abuelos son Adamson y Ratta, ambos etiquetados como pertenecientes a un tipo de ser sobrehumano que se veía y actuaba «normal» y podía cruzarse con humanos comunes; por lo tanto, se emparejaron genéticamente con nosotros y calificarían como la misma especie que nosotros.
 
@@ -183,7 +183,7 @@ Sin embargo, los documentos hacen que esta notable pareja se case y luego tenga 
 
 Los resultados deben haberlo asombrado. Las parejas pudieron reproducirse cada setenta días, y su descendencia no solo fue invisible, sino que nació completamente desarrollada y completamente madura, «aunque nunca dejó de crecer en sabiduría y experiencia».
 
-Estos descendientes inusuales fueron llamados intermedios secundarios. Aunque son incapaces de procrear, no tienen necesidad de dormir ni de alimentos materiales terrenales, siendo energizados por «emanaciones espaciales» que son un misterio para nosotros, los pobres humanos. Y son inmortales. ([LU 77:5.6](/es/The_Urantia_Book/77#p5_6))
+Estos descendientes inusuales fueron llamados intermedios secundarios. Aunque son incapaces de procrear, no tienen necesidad de dormir ni de alimentos materiales terrenales, siendo energizados por «emanaciones espaciales» que son un misterio para nosotros, los pobres humanos. Y son inmortales. (<a id="a185_296"></a>[LU 77:5.6](/es/The_Urantia_Book/77#p5_6))
 
 Si los lectores d_El Libro de Urantia_ leyeran este tipo de material en la Biblia o el Corán, probablemente se derrumbarían a carcajadas. Así que seguramente estos dos ejemplos deben obligarnos a considerar si los reveladores han desafiado repetidamente nuestros intelectos, rogándonos virtualmente que nos abstengamos de convertir su preciosa revelación en un ícono infalible.
 
@@ -191,19 +191,19 @@ Los reveladores también nos dijeron:
 
 
 - «Que quede claro que la revelación no es necesariamente inspirada. La cosmología de estas revelaciones no está inspirada».
-- Y, «dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán revisión como consecuencia de desarrollos y descubrimientos científicos adicionales». ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
-- «Todo conocimiento finito y toda comprensión por parte de las criaturas son relativos. La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos». ([LU 2:7.1](/es/The_Urantia_Book/2#p7_1))
+- Y, «dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán revisión como consecuencia de desarrollos y descubrimientos científicos adicionales». (<a id="a193_192"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+- «Todo conocimiento finito y toda comprensión por parte de las criaturas son relativos. La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos». (<a id="a194_237"></a>[LU 2:7.1](/es/The_Urantia_Book/2#p7_1))
 
 > Es más importante mirar hacia el futuro que vivir en el pasado.
 
-> «Los hechos físicos son bastante uniformes, pero la verdad es un factor viviente y flexible en la filosofía del universo. Las comunicaciones de las personalidades evolutivas sólo son parcialmente sabias y relativamente verídicas. Sólo pueden estar seguras dentro de lo que alcanza su experiencia personal. Aquello que puede parecer enteramente cierto en un lugar, sólo puede ser relativamente cierto en otro segmento de la creación». ([LU 2:7.2](/es/The_Urantia_Book/2#p7_2))
+> «Los hechos físicos son bastante uniformes, pero la verdad es un factor viviente y flexible en la filosofía del universo. Las comunicaciones de las personalidades evolutivas sólo son parcialmente sabias y relativamente verídicas. Sólo pueden estar seguras dentro de lo que alcanza su experiencia personal. Aquello que puede parecer enteramente cierto en un lugar, sólo puede ser relativamente cierto en otro segmento de la creación». (<a id="a198_437"></a>[LU 2:7.2](/es/The_Urantia_Book/2#p7_2))
 
 
 A la luz de todas estas advertencias (hay muchas, muchas más), los lectores tendrían que estar equipados con una visión de túnel para mantener la creencia en cualquier revelación infalible que alguna vez esté disponible para nosotros los humanos.
 
 La ausencia de certeza en esta vida es la forma en que las cosas deben ser. Porque para tomar una verdadera decisión de fe, debemos estar inseguros. Si tenemos certeza, entonces nuestra decisión se toma por lógica, no por fe. Los reveladores confirman ese postulado con sus propias verdades rotundas:
 
-> «Éste es pues el curso primario o elemental con el que se enfrentan los peregrinos del espacio cuya fe ha sido probada y que tanto han viajado. Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible».». ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> «Éste es pues el curso primario o elemental con el que se enfrentan los peregrinos del espacio cuya fe ha sido probada y que tanto han viajado. Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible».». (<a id="a205_674"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 > La esperanza ve lo invisible, siente lo intangible y logra lo imposible.
 
@@ -216,7 +216,7 @@ La ausencia de certeza en esta vida es la forma en que las cosas deben ser. Porq
 
 Hemos visto que el Foro se estableció sobre una base de preguntas y respuestas, el Foro planteó preguntas a los reveladores y luego recibió un Documento en respuesta a las preguntas que planteó. En última instancia, estos mismos Documentos se convirtieron en la base de las Partes 1, 2 y 3 de los Documentos de Urantia que desde entonces se han impreso, junto con la Parte 4, como _El Libro de Urantia_. Al conocer los orígenes de estos Documentos, obtenemos una apreciación más profunda de las peculiaridades del contenido, peculiaridades que pueden parecer que van desde lo sublime hasta lo ridículo. Sin embargo, lo sublime en estos Documentos puede ser tan sublime que su misma sublimidad fuerza la conclusión de que lo ridículo debe ser deliberado. Y debe tener un propósito racional. Importante para nuestro entendimiento es lo siguiente de los reveladores:
 
-> Pero si la revelación ha de engrandecer y elevar las religiones de la evolución, entonces estas visitas divinas deben presentar unas enseñanzas que no estén demasiado alejadas de las ideas y reacciones de la época en que son presentadas. Por eso la revelación debe mantenerse siempre en contacto con la evolución, y lo hace de hecho. La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla. ([LU 92:4.1](/es/The_Urantia_Book/92#p4_1))
+> Pero si la revelación ha de engrandecer y elevar las religiones de la evolución, entonces estas visitas divinas deben presentar unas enseñanzas que no estén demasiado alejadas de las ideas y reacciones de la época en que son presentadas. Por eso la revelación debe mantenerse siempre en contacto con la evolución, y lo hace de hecho. La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla. (<a id="a218_431"></a>[LU 92:4.1](/es/The_Urantia_Book/92#p4_1))
 
 Esta declaración exige nuestra atención, exige reflexionar sobre el tipo de problemas y dificultades a los que se enfrentan todos los seres celestiales o divinos que están encargados de brindarnos la revelación a nosotros, seres mortales evolutivos finitos cuya receptividad espiritual y capacidad intelectual está apenas por encima de la animal. nivel.
 
@@ -238,15 +238,15 @@ La vida y las enseñanzas de Jesús parecen haber atraído poca atención durant
 
 La pregunta es ¿por qué? En la Parte 1, Documento 2, «La naturaleza de Dios», tiene en su párrafo inicial:
 
-«La naturaleza de Dios se puede comprender mejor mediante **la revelación del Padre que Miguel de Nebadon desarrolló** en sus múltiples enseñanzas y en su magnífica vida humana en la carne». ([LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
+«La naturaleza de Dios se puede comprender mejor mediante **la revelación del Padre que Miguel de Nebadon desarrolló** en sus múltiples enseñanzas y en su magnífica vida humana en la carne». (<a id="a240_192"></a>[LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
 
 Y en su segundo párrafo:
 
-> «La naturaleza de Dios puede ser estudiada en una revelación de ideas supremas, el carácter divino puede ser contemplado como una descripción de ideales celestiales, pero de todas las revelaciones de la naturaleza divina, la más instructiva y la más espiritualmente edificante ha de buscarse en la comprensión de la vida religiosa de Jesús de Nazaret, tanto antes como después de haber alcanzado la plena conciencia de su divinidad. Si la vida encarnada de Miguel la tomamos como trasfondo de la revelación de Dios al hombre, podemos intentar poner en símbolos verbales humanos ciertas ideas e ideales sobre la naturaleza divina que quizás puedan contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y del carácter de la personalidad del Padre Universal». ([LU 2:0.2](/es/The_Urantia_Book/2#p0_2))
+> «La naturaleza de Dios puede ser estudiada en una revelación de ideas supremas, el carácter divino puede ser contemplado como una descripción de ideales celestiales, pero de todas las revelaciones de la naturaleza divina, la más instructiva y la más espiritualmente edificante ha de buscarse en la comprensión de la vida religiosa de Jesús de Nazaret, tanto antes como después de haber alcanzado la plena conciencia de su divinidad. Si la vida encarnada de Miguel la tomamos como trasfondo de la revelación de Dios al hombre, podemos intentar poner en símbolos verbales humanos ciertas ideas e ideales sobre la naturaleza divina que quizás puedan contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y del carácter de la personalidad del Padre Universal». (<a id="a244_783"></a>[LU 2:0.2](/es/The_Urantia_Book/2#p0_2))
 
 Luego, en el tercero de esta breve introducción de tres párrafos al Documento 2, encontramos:
 
-> «Todos nuestros esfuerzos por ampliar el concepto humano de Dios serían casi inútiles si no fuera por el hecho de que **la mente mortal está habitada por el Ajustador otorgado del Padre Universal** e impregnada por el Espíritu de la Verdad del Hijo Creador».  ([LU 2:0.3](/es/The_Urantia_Book/2#p0_3))
+> «Todos nuestros esfuerzos por ampliar el concepto humano de Dios serían casi inútiles si no fuera por el hecho de que **la mente mortal está habitada por el Ajustador otorgado del Padre Universal** e impregnada por el Espíritu de la Verdad del Hijo Creador».  (<a id="a248_263"></a>[LU 2:0.3](/es/The_Urantia_Book/2#p0_3))
 
 Viniendo de reveladores celestiales en la era materialista que alcanzó su punto máximo alrededor de la década de 1930, eso es algo alucinante. Probablemente llegó mucho después de que los que dudaban de las credenciales de los reveladores hubieran abandonado el Foro. Pero el hecho de que estas maravillosas y convincentes revelaciones suscitaran poco o ningún interés, y aparentemente no condujeran a más preguntas de importancia por parte de los miembros del Foro, desafía la credibilidad.
 
@@ -264,13 +264,13 @@ Con respecto a su formación, el Dr. Sadler dice: «Era inevitable que alguna cl
 
 Una visión sesgada contra la Iglesia cristiana, incluso contra la religión misma, parece haber existido entre estos primeros urantianos, llegando casi a la paranoia entre muchos devotos posteriores del libro. Pero hay muchas declaraciones en los Documentos que indican que el propósito principal de la revelación es la regeneración del cristianismo:
 
-> «¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre». ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> «¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre». (<a id="a266_234"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
-> «Si la iglesia cristiana se atreviera tan sólo a abrazar el programa del Maestro, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual...». ([LU 195:10.10](/es/The_Urantia_Book/195#p10_10))
+> «Si la iglesia cristiana se atreviera tan sólo a abrazar el programa del Maestro, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual...». (<a id="a268_193"></a>[LU 195:10.10](/es/The_Urantia_Book/195#p10_10))
 
-> «Pero incluso el cristianismo del siglo veinte no debe ser despreciado...» ([LU 195:10.12](/es/The_Urantia_Book/195#p10_12))
+> «Pero incluso el cristianismo del siglo veinte no debe ser despreciado...» (<a id="a270_78"></a>[LU 195:10.12](/es/The_Urantia_Book/195#p10_12))
 
-> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día». ([LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
+> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día». (<a id="a272_274"></a>[LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
 Hay muchas más declaraciones de este tipo, casi todas en la Parte 4, por lo que quizás el sesgo fue un remanente del período anterior a cuando se recibió la Parte 4 en 1935. Sin embargo, si muchos miembros del Foro eran antagónicos al cristianismo o la religión o ambos, entonces debe Se puede suponer que los reveladores organizaron la recepción de los Documentos de tal manera que las discusiones del domingo por la tarde estuvieron dominadas por temas que mantuvieran el interés de los miembros. Y si ese interés principal estaba en temas no religiosos, y los reveladores se adhirieron estrechamente a la prohibición de proporcionar conocimiento no ganado, entonces casi con seguridad se habrían introducido más y más errores en la cosmología de los Documentos.
 
@@ -286,7 +286,7 @@ Pero tal vez su proscripción, aunque sea una política normal del universo, pue
 
 Otro misterio en esta saga de los Documentos es la larga, larga demora entre su recepción y su publicación. Si aceptamos los Documentos como una verdadera revelación de una fuente celestial, entonces los reveladores sabían muy bien que cuanto más tiempo transcurriera antes de la publicación, mayor sería el número de errores que estarían expuestos en su cosmología.
 
-> Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús. ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
+> Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús. (<a id="a288_437"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
 Y debido a la posibilidad de que su contenido erróneo reduzca drásticamente o incluso elimine el interés, cualquier retraso en la publicación acortaría el intervalo de tiempo para que la revelación tenga el impacto necesario para asegurar su supervivencia, a pesar de su contenido erróneo. Ya, no cincuenta años después de su publicación, la aceptación de la revelación de Urantia depende en gran medida de la ignorancia del lector en materia de ciencia y cosmología.
 

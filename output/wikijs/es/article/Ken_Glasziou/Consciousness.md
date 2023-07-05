@@ -50,9 +50,9 @@ La lógica determinista asume que la vida es inevitable, una consecuencia espont
 
 El determinismo insiste en que la mente, el libre albedrío y la conciencia, aunque son fenómenos que emergen naturalmente, surgen de los autoengaños de las almas esperanzadas. El mundo determinista no tiene lugar ni para Dios ni para el propósito.
 
-> Las máquinas motivan su vida con la pasión de servir a otras máquinas y escoger como meta de su progreso eterno la sublime tarea de encontrar a Dios y de esforzarse en ser como él. ([LU 195:7.14](/es/The_Urantia_Book/195#p7_14))
+> Las máquinas motivan su vida con la pasión de servir a otras máquinas y escoger como meta de su progreso eterno la sublime tarea de encontrar a Dios y de esforzarse en ser como él. (<a id="a52_184"></a>[LU 195:7.14](/es/The_Urantia_Book/195#p7_14))
 
-> El universo finito de la materia se volvería finalmente uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales. ([LU 195:6.15](/es/The_Urantia_Book/195#p6_15))
+> El universo finito de la materia se volvería finalmente uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales. (<a id="a54_254"></a>[LU 195:6.15](/es/The_Urantia_Book/195#p6_15))
 
 ## Determinismo socavado
 
@@ -105,7 +105,7 @@ Arthur J. Deikman de la Universidad de California cree que existe un «yo» que 
 
 > La ciencia debe basarse siempre en la razón. La religión siempre depende de la fe.
 
-> Pero la fe y la razón sin revelación no pueden concebir y construir un universo lógico. ([LU 103:6.13](/es/The_Urantia_Book/103#p6_13))
+> Pero la fe y la razón sin revelación no pueden concebir y construir un universo lógico. (<a id="a107_91"></a>[LU 103:6.13](/es/The_Urantia_Book/103#p6_13))
 
 ## Sobre la construcción de un Android
 
@@ -137,9 +137,9 @@ Los lectores deben ser conscientes de que las personas interesadas en estos fen�
 
 Otro físico cuántico, Amit Goswami[^4], considera que debe haber algún tipo de sistema cuántico coherente dentro del cerebro del tipo descrito por Hameroff y Penrose que interactuaría con lo que él llama la «conciencia universal», de la cual la conciencia humana es realmente una parte componente. La interacción de los dos media la 'auto-reducción del sistema coherente' y, por lo tanto, lleva al sistema a un estado de realidad como puede ser descrito por la física clásica. Esta 'auto-reducción' es un caso especial de lo que comúnmente se describe como el colapso de la función de onda de Schrödinger.
 
-> La conciencia de sí mismo incluye la aptitud para reconocer la realidad de otras personalidades. ([LU 16:8.6](/es/The_Urantia_Book/16#p8_6))
+> La conciencia de sí mismo incluye la aptitud para reconocer la realidad de otras personalidades. (<a id="a139_100"></a>[LU 16:8.6](/es/The_Urantia_Book/16#p8_6))
 
-> La conciencia de sí mismo consiste en darse cuenta intelectualmente de la realidad de la personalidad. [LU 16:8.6](/es/The_Urantia_Book/16#p8_6)
+> La conciencia de sí mismo consiste en darse cuenta intelectualmente de la realidad de la personalidad. <a id="a141_105"></a>[LU 16:8.6](/es/The_Urantia_Book/16#p8_6)
 
 ## ¿Qué hay en El Libro de Urantia?
 
@@ -147,27 +147,27 @@ Lo que se ha descrito anteriormente no está muy lejos de lo que se puede discer
 
 _El Libro de Urantia_ describe una estructura jerárquica que tiene el Espíritu Infinito en su vértice. Desde allí, la 'mente cósmica' se enruta a los siete Espíritus Maestros que están en el foco de la mente cósmica a medida que se distribuye a los superuniversos.
 
-La mente humana es la dotación del Espíritu Materno del Universo, tanto directamente como a través de los siete Espíritus Ayudantes de la Mente. «_La conciencia,_» nos dice el libro, «_descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente._» ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+La mente humana es la dotación del Espíritu Materno del Universo, tanto directamente como a través de los siete Espíritus Ayudantes de la Mente. «_La conciencia,_» nos dice el libro, «_descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente._» (<a id="a149_512"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
 El interés de los físicos por la conciencia se inclina naturalmente hacia lo que se puede observar y medir, mientras que el énfasis en _El Libro de Urantia_ se inclina fuertemente hacia la relación con los significados y valores cósmicos. También el físico ve muchos aspectos de la mente como pertenecientes al mundo material descrito por la física clásica y mira a la 'consciencia' para encontrar un vínculo con el mundo cuántico. _El Libro de Urantia_ está parcialmente de acuerdo:
 
-> «En los seres que desempeñan su actividad, la mente no está separada de la energía o del espíritu, o de los dos. La mente no es inherente a la energía; la energía es receptiva y sensible a la mente; la mente puede ser superpuesta a la energía, pero la conciencia no es inherente al nivel puramente material». ([LU 9:4.2](/es/The_Urantia_Book/9#p4_2))
+> «En los seres que desempeñan su actividad, la mente no está separada de la energía o del espíritu, o de los dos. La mente no es inherente a la energía; la energía es receptiva y sensible a la mente; la mente puede ser superpuesta a la energía, pero la conciencia no es inherente al nivel puramente material». (<a id="a153_312"></a>[LU 9:4.2](/es/The_Urantia_Book/9#p4_2))
 
 _El Libro de Urantia_ también expresa puntos de vista que tienen afinidad con los de Arthur J. Deikman a los que nos referimos anteriormente:
 
-> «La conciencia humana de sí mismo implica el reconocimiento de la realidad de otros yoes distintos al yo consciente, e implica además que esta conciencia es mutua; que el yo es conocido del mismo modo que conoce.» ([LU 16:9.4](/es/The_Urantia_Book/16#p9_4))
+> «La conciencia humana de sí mismo implica el reconocimiento de la realidad de otros yoes distintos al yo consciente, e implica además que esta conciencia es mutua; que el yo es conocido del mismo modo que conoce.» (<a id="a157_217"></a>[LU 16:9.4](/es/The_Urantia_Book/16#p9_4))
 
 Desde el punto de vista de los religiosos, el alejamiento del materialismo y el determinismo que ha sido catalizado por los misterios de la física cuántica es un cambio bienvenido, particularmente porque, a la vanguardia, se encuentran algunos de los intelectos sobresalientes del mundo académico.
 
 ## Un nuevo día está amaneciendo
 
-Hace más de sesenta años, los reveladores de _El Libro de Urantia_ escribieron: «_En el momento de escribir este documento, lo peor de la era materialista ha pasado; ya está empezando a despuntar el día de una mejor comprensión. Las mejores mentes del mundo científico han dejado de tener una filosofía totalmente materialista, pero la gente común y corriente se inclina todavía en esa dirección a consecuencia de las enseñanzas anteriores._» ([LU 195:6.4](/es/The_Urantia_Book/195#p6_4))
+Hace más de sesenta años, los reveladores de _El Libro de Urantia_ escribieron: «_En el momento de escribir este documento, lo peor de la era materialista ha pasado; ya está empezando a despuntar el día de una mejor comprensión. Las mejores mentes del mundo científico han dejado de tener una filosofía totalmente materialista, pero la gente común y corriente se inclina todavía en esa dirección a consecuencia de las enseñanzas anteriores._» (<a id="a163_444"></a>[LU 195:6.4](/es/The_Urantia_Book/195#p6_4))
 
 Hoy no son sólo los físicos cuánticos los que han abandonado el materialismo y el determinismo. Ahora se han unido a ellos filósofos, psicólogos, neurofisiólogos, bioquímicos y muchos otros. Seguramente un nuevo día realmente ha amanecido.
 
-> La conciencia, y mucho menos la conciencia de sí mismo, no puede ser explicada por ninguna teoría de asociación electrónica mecánica ni por ningún fenómeno de energía materialista. ([LU 112:2.10](/es/The_Urantia_Book/112#p2_10))
+> La conciencia, y mucho menos la conciencia de sí mismo, no puede ser explicada por ninguna teoría de asociación electrónica mecánica ni por ningún fenómeno de energía materialista. (<a id="a167_184"></a>[LU 112:2.10](/es/The_Urantia_Book/112#p2_10))
 
-> A medida que la mente persigue la realidad hasta su análisis final, la materia desaparece para los sentidos materiales... ([LU 112:2.11](/es/The_Urantia_Book/112#p2_11))
+> A medida que la mente persigue la realidad hasta su análisis final, la materia desaparece para los sentidos materiales... (<a id="a169_125"></a>[LU 112:2.11](/es/The_Urantia_Book/112#p2_11))
 
 ## Enlaces externos
 

@@ -39,9 +39,9 @@ Lo cual es indicativo de que ni siquiera la generación espontánea de la forma 
 
 ## Contenido
 
-> «El hecho de que nos llamemos Portadores de Vida no debe confundiros. Podemos llevar la vida hasta los planetas y lo hacemos, pero no trajimos ninguna vida hasta Urantia. La vida de Urantia es única, y tiene su origen en este planeta. Esta esfera es un mundo de modificación de la vida; toda la vida que ha aparecido sobre ella la formulamos aquí mismo en el planeta ...» ([LU 58:4.1](/es/The_Urantia_Book/58#p4_1))
+> «El hecho de que nos llamemos Portadores de Vida no debe confundiros. Podemos llevar la vida hasta los planetas y lo hacemos, pero no trajimos ninguna vida hasta Urantia. La vida de Urantia es única, y tiene su origen en este planeta. Esta esfera es un mundo de modificación de la vida; toda la vida que ha aparecido sobre ella la formulamos aquí mismo en el planeta ...» (<a id="a41_375"></a>[LU 58:4.1](/es/The_Urantia_Book/58#p4_1))
 
-> «Hace 550.000.000 de años, el cuerpo de Portadores de Vida regresó a Urantia. En cooperación con los poderes espirituales y las fuerzas superfísicas, organizamos e iniciamos los modelos originales de vida de este mundo, y los plantamos en las aguas hospitalarias del planeta». ([LU 58:4.2](/es/The_Urantia_Book/58#p4_2))
+> «Hace 550.000.000 de años, el cuerpo de Portadores de Vida regresó a Urantia. En cooperación con los poderes espirituales y las fuerzas superfísicas, organizamos e iniciamos los modelos originales de vida de este mundo, y los plantamos en las aguas hospitalarias del planeta». (<a id="a43_280"></a>[LU 58:4.2](/es/The_Urantia_Book/58#p4_2))
 
 El hecho de que lo que llamamos vida ha existido en este planeta durante miles de millones de años es ampliamente conocido. Por lo tanto, la declaración anterior debe venir como un rompecabezas.
 
@@ -51,7 +51,7 @@ En años posteriores, la deposición de rocas sedimentarias rojas en las que el 
 
 El único proceso conocido que produce niveles tan altos de oxígeno atmosférico es la fotosíntesis de los organismos vivos. Muchos, posiblemente todos, de estos depósitos datan de tiempos anteriores a hace 550 millones de años, y presentan evidencia de la ocurrencia de formas de vida que son anteriores a la introducción del plasma de vida por parte de los Portadores de Vida. Más evidencia proviene de la aparición de varios tipos de microfósiles que se cree que son evidencia de células bacterianas o de algas.
 
-Los Documentos de Urantia afirman: «_La vida no se origina de manera espontánea. La vida se construye ... y aparece en los planetas habitados o bien por importación directa o como resultado de las operaciones de los Portadores de Vida de los universos locales._» ([LU 36:0.1](/es/The_Urantia_Book/36#p0_1))
+Los Documentos de Urantia afirman: «_La vida no se origina de manera espontánea. La vida se construye ... y aparece en los planetas habitados o bien por importación directa o como resultado de las operaciones de los Portadores de Vida de los universos locales._» (<a id="a53_264"></a>[LU 36:0.1](/es/The_Urantia_Book/36#p0_1))
 
 Esa afirmación descarta la posibilidad de que algunas formas de vida primitivas, originarias de otros planetas habitados, puedan sobrevivir en el espacio exterior y, después de flotar entre las galaxias, siembren nuevos planetas cuando las condiciones se vuelven favorables.
 
@@ -96,11 +96,11 @@ Inicialmente, se declaró que estos ediacaranos eran un grupo de organismos comp
 
 Entonces, ¿cómo explicamos la afirmación de _El Libro de Urantia_ de que los Portadores de vida trajeron vida a este planeta por primera vez hace sólo 550 millones de años?
 
-Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada como «no inspirada» que puede consistir en un «_marco universal_» por el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada como «no inspirada» que puede consistir en un «_marco universal_» por el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. (<a id="a98_249"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
-Alternativamente, puede estar cubierto por las siguientes declaraciones: «_El plasma original de vida de un mundo evolutivo debe contener todo el potencial de todas las variaciones de desarrollo futuras y de todos los cambios y modificaciones evolutivos posteriores._» ([LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
+Alternativamente, puede estar cubierto por las siguientes declaraciones: «_El plasma original de vida de un mundo evolutivo debe contener todo el potencial de todas las variaciones de desarrollo futuras y de todos los cambios y modificaciones evolutivos posteriores._» (<a id="a100_270"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
 
-> «El yo material, la entidad-ego de la identidad humana, depende del funcionamiento continuo del vehículo vital material, de la existencia continua del equilibrio inestable entre las energías y el intelecto, a lo que se le ha dado el nombre de vida en Urantia.» ([LU 112:2.20](/es/The_Urantia_Book/112#p2_20))
+> «El yo material, la entidad-ego de la identidad humana, depende del funcionamiento continuo del vehículo vital material, de la existencia continua del equilibrio inestable entre las energías y el intelecto, a lo que se le ha dado el nombre de vida en Urantia.» (<a id="a102_264"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20))
 
 Es muy posible que el potencial genético de las formas celulares antes del comienzo del período Cámbrico fuera bastante incapaz de generar eventualmente organismos vivos «inteligentes». Y que solo un organismo que tiene un genoma con el potencial de evolucionar en última instancia para tener «intelecto» entra dentro de la definición de lo que los Portadores de Vida entienden como «vida».
 

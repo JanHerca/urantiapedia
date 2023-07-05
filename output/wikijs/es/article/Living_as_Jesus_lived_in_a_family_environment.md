@@ -64,7 +64,7 @@ Habiendo reconocido que todos los seres humanos, y especialmente nosotros mismos
 
 También hay ayuda disponible en el relato que tenemos de la vida temprana de Jesús en la que abordó estos mismos problemas y los superó aprendiendo a nunca reaccionar ante la voluntad de otro, sino solo ante la voluntad de Dios y la suya propia.[^3 ] Podemos emular a Jesús haciendo lo mismo: negándonos a reaccionar emocionalmente ante el comportamiento de los demás, primero haciendo una pausa para pensar, luego remitiendo nuestro problema al Dios Interno, y solo después respondiendo como creemos que Jesús habría respondido.[^3]
 
-Si podemos convertir este proceso en habitual, estamos en camino de convertirnos en vencedores. Sin embargo, tendremos dificultad en responder como creemos que Jesús habría respondido si no tuviéramos un conocimiento completo de la vida de Jesús, razón por la cual los reveladores han dicho que de todo el conocimiento humano, el que es de mayor valor es conocer el vida religiosa de Jesús y cómo la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+Si podemos convertir este proceso en habitual, estamos en camino de convertirnos en vencedores. Sin embargo, tendremos dificultad en responder como creemos que Jesús habría respondido si no tuviéramos un conocimiento completo de la vida de Jesús, razón por la cual los reveladores han dicho que de todo el conocimiento humano, el que es de mayor valor es conocer el vida religiosa de Jesús y cómo la vivió. (<a id="a66_408"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 Por extraño que parezca, es la derrota silenciosa y discreta de nuestros patrones de comportamiento animal que se llevan a cabo en el entorno de nuestro hogar lo que resulta tener, con mucho, el mayor potencial para influir en el avance espiritual a largo plazo de nuestro planeta.
 
@@ -74,7 +74,7 @@ Este cambio discreto en nuestras vidas, estos actos de no reaccionar a la volunt
 
 Todos los que se han criado en una familia cristiana que asiste a la iglesia sabrán muy bien que, aunque el cristianismo se encuentra entre las religiones más éticas que jamás hayan existido en la Tierra, la gran mayoría de sus miembros están tan plagados de problemas de comportamiento animal de la humanidad como cualquier otra comunidad. La cura entonces no va a estar en ir a la iglesia ni en sermones inspiradores, ni en buenas obras. Principalmente, lo que importará es lo que los padres realmente «son» en sus propias vidas hogareñas. La revelación nos informa:
 
-> «La familia es la unidad fundamental de fraternidad donde los padres y los hijos aprenden las lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para realizar la fraternidad entre todos los hombres». ([LU 84:7.28](/es/The_Urantia_Book/84#p7_28))
+> «La familia es la unidad fundamental de fraternidad donde los padres y los hijos aprenden las lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para realizar la fraternidad entre todos los hombres». (<a id="a76_235"></a>[LU 84:7.28](/es/The_Urantia_Book/84#p7_28))
 
 > Ver un Mundo en un grano de arena,
 > Y un Cielo en una flor silvestre,
@@ -124,8 +124,8 @@ Hace trescientos cincuenta años, los cuáqueros casi acertaron. Se perdieron cu
 
 [^1]: New Scientist, 10 de agosto de 2002, p. 23
 
-[^2]: «Demuestra en tu corta y única vida en la carne... las posibilidades trascendentes alcanzables por un ser humano que conoce a Dios... » ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8). Emmanuel a Miguel antes de su encarnación)
+[^2]: «Demuestra en tu corta y única vida en la carne... las posibilidades trascendentes alcanzables por un ser humano que conoce a Dios... » (<a id="a126_143"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8). Emmanuel a Miguel antes de su encarnación)
 
 [^3]: Ann Bendall, «La mente de Jesús». Innerface internacional vol. 9., No. 5, 2002.
 
-[^4]: «_Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así._» ([LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
+[^4]: «_Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así._» (<a id="a130_275"></a>[LU 155:1.5](/es/The_Urantia_Book/155#p1_5))

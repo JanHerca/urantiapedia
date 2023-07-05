@@ -52,7 +52,7 @@ Desgraciadamente, la iglesia fundada en el nombre de Jesús (lo que creo que lo 
 
 Dios crece, a medida que nosotros crecemos, porque refleja en lo que nos convertimos; y cuando crezcamos al máximo, tendremos al Dios pleno, no un Dios de los fundamentalistas, sino un Dios de los fundamentos, una luz, no un látigo.
 
-> Al vivir su vida mortal en su época y tal como él era, estableció un ejemplo para que todos nosotros vivamos también la nuestra en nuestra época y tal como somos. ([LU 129:4.7](/es/The_Urantia_Book/129#p4_7))
+> Al vivir su vida mortal en su época y tal como él era, estableció un ejemplo para que todos nosotros vivamos también la nuestra en nuestra época y tal como somos. (<a id="a54_166"></a>[LU 129:4.7](/es/The_Urantia_Book/129#p4_7))
 
 ## Enlaces externos
 

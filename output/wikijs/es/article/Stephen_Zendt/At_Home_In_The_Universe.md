@@ -52,7 +52,7 @@ Los Portadores de Vida trajeron un patrón evolutivo a nuestro planeta, un mundo
 
 Mi propia experiencia estudiando PATRONES con amigos me ha abierto nuevos y desafiantes conceptos de realidad evolutiva y simetría espiritual.
 
-Una gran pista que nos dan los reveladores, mientras luchamos con la física teórica, la relatividad del espacio-tiempo y la mecánica cuántica, es el comentario que aparece en el Documento 42, Sección 1, «Energía, mente y materia», «_El ultimatón, la primera forma mensurable de energía, tiene por núcleo al Paraíso._» [[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)] Parecerían estar diciendo que el Paraíso impregna toda la realidad material. Su patrón impregna todo el espacio y el tiempo.
+Una gran pista que nos dan los reveladores, mientras luchamos con la física teórica, la relatividad del espacio-tiempo y la mecánica cuántica, es el comentario que aparece en el Documento 42, Sección 1, «Energía, mente y materia», «_El ultimatón, la primera forma mensurable de energía, tiene por núcleo al Paraíso._» <a id="a54_318"></a>[[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)] Parecerían estar diciendo que el Paraíso impregna toda la realidad material. Su patrón impregna todo el espacio y el tiempo.
 
 Nuestro lugar en el orden de nuestro universo local está asegurado debido a la séptima entrega de sí mismo de nuestro Hijo Creador aquí en nuestro mundo. Nos hemos convertido en el «lugar donde sucedió». Urantia es el santuario sentimental de todo Nebadon, como se nos dice. El patrón aparece en el logro de la Soberanía Suprema para nuestro Hijo Creador, quien pasó por siete autootorgamientos como varios seres creados dentro de su universo, culminando en la vida humana de Joshua ben Joseph, Jesús de Nazaret.
 

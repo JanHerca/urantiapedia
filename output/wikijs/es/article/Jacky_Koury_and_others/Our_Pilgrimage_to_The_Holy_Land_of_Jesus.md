@@ -73,7 +73,7 @@ Uno de los ejemplos más dramáticos y emotivos de una experiencia del viaje que
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/021.jpg">
 </figure>
 
-Luego aprendemos que Jesús pudo calmarse con viejos recuerdos de escenas agradables de su vida terrenal, incluidos los amaneceres y atardeceres en «el resplandeciente mar de Galilea». El recuerdo de estos recuerdos le dio consuelo «mientras fortalecía su corazón humano y lo preparaba para encontrarse con el traidor que pronto lo traicionaría». ([LU 182:3.10](/es/The_Urantia_Book/182#p3_10))
+Luego aprendemos que Jesús pudo calmarse con viejos recuerdos de escenas agradables de su vida terrenal, incluidos los amaneceres y atardeceres en «el resplandeciente mar de Galilea». El recuerdo de estos recuerdos le dio consuelo «mientras fortalecía su corazón humano y lo preparaba para encontrarse con el traidor que pronto lo traicionaría». (<a id="a75_347"></a>[LU 182:3.10](/es/The_Urantia_Book/182#p3_10))
 
 La forma en que la luz juega en la superficie del agua, especialmente al amanecer y al final del día, es realmente notable. La foto adjunta puede ayudar a dar una idea de los recuerdos tranquilizadores que Jesús tenía en su mente en esa ocasión terriblemente triste. Diane había hecho arreglos para que saliéramos al agua en bote. ¡Era tarde y el reflejo de las nubes en el agua era absolutamente impresionante!
 

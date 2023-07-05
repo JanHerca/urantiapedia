@@ -216,7 +216,7 @@ Dios, el Padre, es el dador y el conservador de cada personalidad. Así mismo el
 
 Dios es personalmente consciente y está en contacto personal con todas las personalidades de todos los niveles de existencia autoconsciente, y esta conciencia es independiente de la misión del Dios-Espíritu-Interior.
 
-> «_La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual_». ([LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
+> «_La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual_». (<a id="a218_371"></a>[LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
 
 ## Enlaces externos
 

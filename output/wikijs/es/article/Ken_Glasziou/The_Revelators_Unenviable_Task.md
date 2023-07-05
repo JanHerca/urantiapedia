@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. **Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio.**» ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
+> «Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. **Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio.**» (<a id="a36_260"></a>[LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
-«**La religión es la revelación al hombre de su destino divino y eterno.**» ([LU 195:5.3](/es/The_Urantia_Book/195#p5_3)) Eso dicen los reveladores. Ciertamente, una de las principales tareas de los reveladores de Los documentos de Urantia fue informar a los urantianos sobre su «destino divino y eterno» dentro del contexto de una cosmología que incluye el Paraíso, Havona, los siete superuniversos y la estructura jerárquica de las «huestes celestiales».
+«**La religión es la revelación al hombre de su destino divino y eterno.**» (<a id="a38_77"></a>[LU 195:5.3](/es/The_Urantia_Book/195#p5_3)) Eso dicen los reveladores. Ciertamente, una de las principales tareas de los reveladores de Los documentos de Urantia fue informar a los urantianos sobre su «destino divino y eterno» dentro del contexto de una cosmología que incluye el Paraíso, Havona, los siete superuniversos y la estructura jerárquica de las «huestes celestiales».
 
 > Si en todo momento, tanto presente como futuro, fuera eternamente cierto que nada ha sucedido ni puede suceder, ni siquiera el más espantoso horror inventado por la imaginación más morbosa y traducido en hecho, que pueda separarnos del amor de Dios—aquí estaría ser motivo de alegría.
 > _Soren Kierkegarde_
@@ -56,11 +56,11 @@ Un punto a considerar es que podemos ser responsables en algún momento futuro d
 
 Es una triste verdad que los Documentos de Urantia nunca necesitaron la protección de los derechos de autor, ni tampoco necesitaron que se les impusiera el estatus de «revelación dictada por Dios». Las verdades contenidas en estos Documentos son magníficamente autoautentificantes para quienes tienen «ojos para ver y oídos para oír». Pueden valerse por sí mismos y por sus propios méritos. ¿Cuánto tiempo tomará para que se entienda esa verdad?
 
-Las restricciones impuestas a los reveladores por las reglas para la revelación incluían que no deben proporcionarnos conocimiento no ganado, ni se les permite anticipar los descubrimientos científicos que esperan que hagamos en los próximos 1000 años. ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2)) A primera vista, estas imposiciones no parecen tan intimidantes. Pero una reflexión realista sobre el problema pronto revelará la profundidad de las dificultades así creadas.
+Las restricciones impuestas a los reveladores por las reglas para la revelación incluían que no deben proporcionarnos conocimiento no ganado, ni se les permite anticipar los descubrimientos científicos que esperan que hagamos en los próximos 1000 años. (<a id="a58_254"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2)) A primera vista, estas imposiciones no parecen tan intimidantes. Pero una reflexión realista sobre el problema pronto revelará la profundidad de las dificultades así creadas.
 
-> Ganid, tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra. ([LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
+> Ganid, tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra. (<a id="a60_605"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
 
-> El mecanismo mental parcialmente evolucionado del hombre mortal no está muy dotado de coherencia ni de sabiduría. La presunción del hombre sobrepasa a menudo su razón y elude su lógica. ([LU 195:7.7](/es/The_Urantia_Book/195#p7_7))
+> El mecanismo mental parcialmente evolucionado del hombre mortal no está muy dotado de coherencia ni de sabiduría. La presunción del hombre sobrepasa a menudo su razón y elude su lógica. (<a id="a62_189"></a>[LU 195:7.7](/es/The_Urantia_Book/195#p7_7))
 
 Imagina que te han colocado en una máquina del tiempo y la fecha se remonta a finales del siglo XIX. Te encuentras programado para dar una charla a un grupo de ciudadanos eruditos, tu tema es la «naturaleza mecánica del universo» y estás familiarizado con los recientes avances del siglo XX en física cuántica que demuestran de manera concluyente que el universo no es un mecanismo de relojería. como una máquina después de todo, y que los fundamentos del pensamiento de causa y efecto se han ido por el desagüe para siempre.
 
@@ -74,13 +74,13 @@ Pruébelo y compruébelo usted mismo. Bill Sadler usó una analogía acerca de e
 
 La pista podría encontrarse en lo que dice el libro sobre nuestro libre albedrío:
 
-> «Ningún otro ser, ninguna fuerza, ningún creador o agente en todo el extenso universo de universos puede interferir en ninguna medida en la soberanía absoluta del libre albedrío humano, tal como éste funciona dentro del campo de la elección, **en lo referente al destino eterno de la personalidad** del mortal que escoge. En lo que concierne a la supervivencia eterna, **Dios ha decretado que la voluntad material y humana es soberana, y este decreto es absoluto.**» ([LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
+> «Ningún otro ser, ninguna fuerza, ningún creador o agente en todo el extenso universo de universos puede interferir en ninguna medida en la soberanía absoluta del libre albedrío humano, tal como éste funciona dentro del campo de la elección, **en lo referente al destino eterno de la personalidad** del mortal que escoge. En lo que concierne a la supervivencia eterna, **Dios ha decretado que la voluntad material y humana es soberana, y este decreto es absoluto.**» (<a id="a76_470"></a>[LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
 
 Hay varias declaraciones similares sobre la soberanía absoluta del libre albedrío humano. **Entonces, ¿qué es el libre albedrío?**
 
 _El Libro de Urantia_ nos dice que nuestras carreras en el universo finalmente serán recompensadas cuando alcancemos la presencia del Padre Universal y luego seamos introducidos en el Cuerpo de la Finalidad—**siempre que tomemos una decisión de libre albedrío de compromiso total con «hacer la voluntad de Dios». voluntad.**
 
-Alternativamente, si finalmente rechazamos hacer el compromiso de hacer la voluntad de Dios, seremos **como si nunca hubiéramos sido**. ([LU 2:3.4](/es/The_Urantia_Book/2#p3_4))
+Alternativamente, si finalmente rechazamos hacer el compromiso de hacer la voluntad de Dios, seremos **como si nunca hubiéramos sido**. (<a id="a82_137"></a>[LU 2:3.4](/es/The_Urantia_Book/2#p3_4))
 
 ¿Cómo se compara esta situación con la metodología de recompensa y castigo que comúnmente usamos para entrenar animales e incluso a nuestra descendencia? ¿Hay una diferencia real?
 
@@ -141,7 +141,7 @@ Si esta sugerencia es correcta, entonces los reveladores no podrían proporciona
 
 Las citas del libro que están de acuerdo con estos pensamientos son:
 
-> «Pero para vosotros, hijos míos, y para todos los demás que quieran seguiros en este reino, una dura prueba se prepara. Sólo la fe os permitirá atravesar sus puertas... » ([LU 140:1.4](/es/The_Urantia_Book/140#p1_4))
+> «Pero para vosotros, hijos míos, y para todos los demás que quieran seguiros en este reino, una dura prueba se prepara. Sólo la fe os permitirá atravesar sus puertas... » (<a id="a143_174"></a>[LU 140:1.4](/es/The_Urantia_Book/140#p1_4))
 
 Aquí se justifica un recordatorio del revelador comentario de Brian Appleyard: «Si tuviéramos una razón para la fe, no sería fe en absoluto, sería lógica. La fe solo puede ser irrazonable».
 
@@ -149,23 +149,23 @@ Entonces, si los Documentos de Urantia no tuvieran errores, además de contener 
 
 Entonces nosotros tenemos:
 
-> «La existencia de Dios nunca puede ser probada por un experimento científico o por la razón pura... » ([LU 1:2.7](/es/The_Urantia_Book/1#p2_7))
+> «La existencia de Dios nunca puede ser probada por un experimento científico o por la razón pura... » (<a id="a151_105"></a>[LU 1:2.7](/es/The_Urantia_Book/1#p2_7))
 
-> «La revelación es validada solo por la experiencia humana... » ([LU 101:2.8](/es/The_Urantia_Book/101#p2_8))
+> «La revelación es validada solo por la experiencia humana... » (<a id="a153_66"></a>[LU 101:2.8](/es/The_Urantia_Book/101#p2_8))
 
-> «La prueba de la revelación es este mismo hecho de la experiencia humana... » ([LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
+> «La prueba de la revelación es este mismo hecho de la experiencia humana... » (<a id="a155_81"></a>[LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
 
-> «El hecho de la religión consiste enteramente en la experiencia religiosa de los seres humanos racionales y corrientes.» ([LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
+> «El hecho de la religión consiste enteramente en la experiencia religiosa de los seres humanos racionales y corrientes.» (<a id="a157_124"></a>[LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
 
 Mi última cita de apoyo dice:
 
-> Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible». ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible». (<a id="a161_528"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 Ciertamente parece que la vida mortal está destinada a estar cargada de incertidumbre. Así puedo decir:
 
 «Gracias Padre, por los errores y las cosas 'divertidas' en _El Libro de Urantia_, gracias por esos fragmentos hilarantes sobre Adamson y Ratta y sus hijos invisibles; gracias por esos pájaros pasajeros increíbles, imposibles y de largo alcance que llevan a dos personas 500 millas sin parar y hablan; gracias por el enigma de los cuarenta días hasta Pentecostés; y gracias por la belleza y la grandeza de esos Documentos de Urantia que reflejan un nivel de genialidad que está a años luz del talento de los simples hombres. Pero sobre todo te doy gracias Padre, por la vida de Jesús que me revelas. Y, por último, doy gracias por esas preciosas palabras de Job cuando dijo: «Aunque me mates, te serviré», porque es mi voluntad, Padre, que tu voluntad se haga en mí, sin importar las consecuencias. Padre mío, te amo tan sinceramente sólo por ser tú, y por permitirme ser yo. Una vez más, gracias. Amén.»
 
-> Debéis avanzar desde donde os encontráis. ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> Debéis avanzar desde donde os encontráis. (<a id="a167_45"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 > La razón por la que los pájaros pueden volar y nosotros no es simplemente que tienen una fe perfecta, porque tener fe es tener alas.
 > J.M. Barrie, «El pajarito blanco»

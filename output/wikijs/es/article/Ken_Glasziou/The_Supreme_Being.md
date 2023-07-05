@@ -46,15 +46,15 @@ Incluso un conocimiento modesto de la teología del proceso como se presenta, po
 
 En los Documentos, se nos informa que la creatividad de nosotros, los humanos, se limita a clasificar las ideas básicas más que a su creación. Quizás esto confirme lo que muchos de nuestros más grandes matemáticos siempre han creído: no «crean» nuevos teoremas o leyes, sino que los «descubren». Naturalmente, esto genera muchos argumentos sobre dónde estaban estos teoremas antes de su descubrimiento, y también sobre quién los creó.
 
-Los Documentos nos informan que todas las posibles ideas originales, conceptos, etc., ya están presentes como potenciales y posibilidades en el mantenimiento de los Absolutos del Infinito. ([LU 115:2.1](/es/The_Urantia_Book/115#p2_1), [LU 115:4.6](/es/The_Urantia_Book/115#p4_6))
+Los Documentos nos informan que todas las posibles ideas originales, conceptos, etc., ya están presentes como potenciales y posibilidades en el mantenimiento de los Absolutos del Infinito. (<a id="a48_190"></a>[LU 115:2.1](/es/The_Urantia_Book/115#p2_1), <a id="a48_235"></a>[LU 115:4.6](/es/The_Urantia_Book/115#p4_6))
 
-Aquellas que se vuelven disponibles para nosotros los humanos aparentemente lo hacen porque ya han sido «procesadas» y están presentes y disponibles en la Mente Suprema ahora funcional. ([LU 117:5.10](/es/The_Urantia_Book/117#p5_10))
+Aquellas que se vuelven disponibles para nosotros los humanos aparentemente lo hacen porque ya han sido «procesadas» y están presentes y disponibles en la Mente Suprema ahora funcional. (<a id="a50_187"></a>[LU 117:5.10](/es/The_Urantia_Book/117#p5_10))
 
-A través de la mente cósmica del Espíritu Infinito y los Espíritus Ayudantes de la Mente del Espíritu Madre del Universo, estos pensamientos preexistentes se presentan para nuestra selección, clasificación, recombinación y toma de decisiones. ([LU 117:4.8](/es/The_Urantia_Book/117#p4_8), [LU 117:5.11](/es/The_Urantia_Book/117#p5_11))
+A través de la mente cósmica del Espíritu Infinito y los Espíritus Ayudantes de la Mente del Espíritu Madre del Universo, estos pensamientos preexistentes se presentan para nuestra selección, clasificación, recombinación y toma de decisiones. (<a id="a52_244"></a>[LU 117:4.8](/es/The_Urantia_Book/117#p4_8), <a id="a52_289"></a>[LU 117:5.11](/es/The_Urantia_Book/117#p5_11))
 
 Al menos, así es como parece ser. Los cuadros que siguen pueden ser de ayuda para la realización de algunas clasificaciones autodirigidas.
 
-> El Ajustador teje en la realidad misma del Supremo, con el consentimiento de la voluntad humana, los modelos de la naturaleza eterna de un hijo ascendente de Dios. ([LU 117:4.8](/es/The_Urantia_Book/117#p4_8))
+> El Ajustador teje en la realidad misma del Supremo, con el consentimiento de la voluntad humana, los modelos de la naturaleza eterna de un hijo ascendente de Dios. (<a id="a56_167"></a>[LU 117:4.8](/es/The_Urantia_Book/117#p4_8))
 
 ## La Creación de los Universos
 

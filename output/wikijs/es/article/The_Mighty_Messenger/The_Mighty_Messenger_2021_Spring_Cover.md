@@ -72,7 +72,7 @@ Broomfield, Colorado
 80021 Estados Unidos
 (303) 467-7858
 
-> Las civilizaciones elevadas nacen de la correlación sagaz entre la riqueza material, la grandeza intelectual, el valor moral, la habilidad social y la perspicacia cósmica. [LU 81:6.38](/es/The_Urantia_Book/81#p6_38)
+> Las civilizaciones elevadas nacen de la correlación sagaz entre la riqueza material, la grandeza intelectual, el valor moral, la habilidad social y la perspicacia cósmica. <a id="a74_174"></a>[LU 81:6.38](/es/The_Urantia_Book/81#p6_38)
 
 ## Enlaces externos
 

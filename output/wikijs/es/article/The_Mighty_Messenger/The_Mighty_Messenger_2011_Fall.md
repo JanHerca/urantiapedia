@@ -173,7 +173,7 @@ Lo que nos llevamos de Salt Lake fue un fuerte sentido de comunidad, y no solo p
 
 Algunas experiencias marcaron un cambio en la cultura del movimiento Urantia. Uno es el interés que vimos de Truthseekers sobre _El Libro de Urantia_ después de regresar de Snow Bird. Nunca antes habíamos sentido un nivel tan genuino de intriga por parte de los jóvenes en una conferencia. Quedó muy claro que los años de trabajo que se han invertido en la difusión de las enseñanzas de _El Libro de Urantia_ y el programa de estudios Truthseekers están comenzando a dar sus frutos.
 
-Estamos encantados de que IC 11 haya sido un éxito tan asombroso. Ahora nuestra misión es tomar esta inspiración y forjarla al servicio de nuestros semejantes. Como dice _El Libro de Urantia_: ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres». [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)] Cada uno de nosotros puede hacer algo todos los días para fomentar una vida dedicada desinteresadamente al servicio. Y cuando lo hacemos, encontramos a Dios en los demás y los demás encuentran a Dios en nosotros. Nuestra generación está llamada a servir y esperamos que nuestros mentores nos acompañen de la mano mientras enfrentamos el maravilloso desafío de promover esta revelación. Este es nuestro compromiso!!
+Estamos encantados de que IC 11 haya sido un éxito tan asombroso. Ahora nuestra misión es tomar esta inspiración y forjarla al servicio de nuestros semejantes. Como dice _El Libro de Urantia_: ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres». <a id="a175_363"></a>[[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)] Cada uno de nosotros puede hacer algo todos los días para fomentar una vida dedicada desinteresadamente al servicio. Y cuando lo hacemos, encontramos a Dios en los demás y los demás encuentran a Dios en nosotros. Nuestra generación está llamada a servir y esperamos que nuestros mentores nos acompañen de la mano mientras enfrentamos el maravilloso desafío de promover esta revelación. Este es nuestro compromiso!!
 
 Otro avance maravilloso es la aprobación de un Comité Permanente de Jóvenes y Adultos Jóvenes de la Fellowship. Este es el primer nuevo comité permanente en los 56 años de historia de la Fellowship, y nos sentimos honrados por la gran oportunidad y responsabilidad de apoyar a los jóvenes en su búsqueda de la verdad espiritual.
 
@@ -294,7 +294,7 @@ Michelle Klimesh, Coordinadora
 
 Canalización de la Luz
 
-> «De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió». [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
+> «De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió». <a id="a296_138"></a>[[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
 
 ## Lanzamiento de la traducción al turco de El Libro de Urantia
 

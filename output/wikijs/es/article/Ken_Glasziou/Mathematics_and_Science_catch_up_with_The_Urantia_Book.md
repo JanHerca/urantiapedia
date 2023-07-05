@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T11:49:05.941Z
 </figure>
 
 
-Matemáticas y Ciencias se ponen al día con _El Libro de Urantia_ «En el estado mortal, nada se puede probar absolutamente; tanto la ciencia como la religión se basan en suposiciones». ([LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
+Matemáticas y Ciencias se ponen al día con _El Libro de Urantia_ «En el estado mortal, nada se puede probar absolutamente; tanto la ciencia como la religión se basan en suposiciones». (<a id="a33_185"></a>[LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
 
 En 1935, esa declaración solo podría haber sido hecha con confianza por un puñado de nuestros hombres más eruditos.
 

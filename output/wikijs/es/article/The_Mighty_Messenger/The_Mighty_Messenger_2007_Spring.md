@@ -123,7 +123,7 @@ Si desea contribuir a este trabajo, puede realizar donaciones en línea en: www.
 
 Agradecemos profundamente su continua ayuda financiera. Michelle Klimesh, coordinadora de oleoductos
 
-> Los actos de hoy forman el destino de mañana. [[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)]
+> Los actos de hoy forman el destino de mañana. <a id="a125_48"></a>[[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)]
 
 ## GC visita Phoenix
 

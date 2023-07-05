@@ -53,7 +53,7 @@ Ten paciencia conmigo mientras miramos algunas declaraciones reveladoras signifi
 
 Primero, debo señalar que no hay estadísticas específicas para explicar la proporción de personas que llegan a Jerusem sin fusionarse. Sin embargo, sabemos que los ascendentes pueden ascender hasta Salvington sin fusionarse (por lo tanto, fusionarse con un fragmento de Son). Aquí hay un párrafo notable que habla de estos detalles:
 
-> «Mientras que prácticamente todos los mortales supervivientes se fusionan con sus Ajustadores en uno de los mundos de estancia o inmediatamente después de su llegada a las esferas morontiales superiores, hay ciertos casos de fusión retardada, algunos que no experimentan esta seguridad final de supervivencia hasta que alcanzan el último mundos educativos de la sede del universo; y algunos de estos candidatos mortales a una vida eterna fracasan por completo en lograr la fusión de identidad con sus fieles Ajustadores». [[LU 40:8.1](/es/The_Urantia_Book/40#p8_1)]
+> «Mientras que prácticamente todos los mortales supervivientes se fusionan con sus Ajustadores en uno de los mundos de estancia o inmediatamente después de su llegada a las esferas morontiales superiores, hay ciertos casos de fusión retardada, algunos que no experimentan esta seguridad final de supervivencia hasta que alcanzan el último mundos educativos de la sede del universo; y algunos de estos candidatos mortales a una vida eterna fracasan por completo en lograr la fusión de identidad con sus fieles Ajustadores». <a id="a55_524"></a>[[LU 40:8.1](/es/The_Urantia_Book/40#p8_1)]
 
 Entonces, en abundancia de simplicidad, imaginemos que la proporción de aquellos que no se fusionaron antes de Jerusem es bastante baja (1: 1000 ascendentes, o tal vez 1: 2000). Parece lógico que esta proporción pueda ser considerablemente más alta que esto, por supuesto. Para empezar, usemos 1:1000 como la proporción: 187 432 811 x 1 000 / 607 (siendo 607 el número de mundos habitados en Satania en ese momento) calcularía un total de 308 785 520 (alrededor de 308 millones) de residentes en Jerusem de cada uno de los mundos. en Satania en el momento de la rebelión de Lucifer.
 
@@ -76,29 +76,29 @@ Estas son algunas de las citas más relevantes que busqué y que ayudan a correl
 
 1. Este párrafo habla de cómo las esferas de mansión inferiores tenían más no fusionadores, por lo tanto, más de ellos cayeron en la rebelión.
 
-> “Los mortales ascendentes eran vulnerables, pero resistieron los sofismas de la rebelión mejor que los espíritus inferiores. Si bien muchos en los mundos de estancia inferiores, aquellos que no habían logrado la fusión final con sus Ajustadores, cayeron, está registrado para la gloria de la sabiduría del esquema de ascensión que ni un solo miembro de la ciudadanía ascendente de Satania residente en Jerusem participó en el Rebelión de Lucifer. [[LU 53:7.10](/es/The_Urantia_Book/53#p7_10)]
+> “Los mortales ascendentes eran vulnerables, pero resistieron los sofismas de la rebelión mejor que los espíritus inferiores. Si bien muchos en los mundos de estancia inferiores, aquellos que no habían logrado la fusión final con sus Ajustadores, cayeron, está registrado para la gloria de la sabiduría del esquema de ascensión que ni un solo miembro de la ciudadanía ascendente de Satania residente en Jerusem participó en el Rebelión de Lucifer. <a id="a78_449"></a>[[LU 53:7.10](/es/The_Urantia_Book/53#p7_10)]
 
 2. Aquí, exponiendo la naturaleza eterna e inmortal de un ascendente fusionado.
 
-> «La fusión del Ajustador del Pensamiento imparte actualidades eternas a la personalidad que antes eran solo potenciales. Entre estas nuevas dotes se pueden mencionar: la fijación de la cualidad de la divinidad, la experiencia y la memoria de la eternidad pasada, la inmortalidad y una fase de absoluto potencial calificado». [[LU 112:7.1](/es/The_Urantia_Book/112#p7_1)]
+> «La fusión del Ajustador del Pensamiento imparte actualidades eternas a la personalidad que antes eran solo potenciales. Entre estas nuevas dotes se pueden mencionar: la fijación de la cualidad de la divinidad, la experiencia y la memoria de la eternidad pasada, la inmortalidad y una fase de absoluto potencial calificado». <a id="a82_327"></a>[[LU 112:7.1](/es/The_Urantia_Book/112#p7_1)]
 
 3. Explicación de la trascendencia de la fusión ajustadora.
 
-> «El logro de los siete círculos cósmicos no equivale a la fusión con el Ajustador. Hay muchos mortales viviendo en Urantia que han llegado a sus círculos; pero la fusión depende aún de otros logros espirituales mayores y más sublimes, sobre el logro de una sintonía final y completa de la voluntad mortal con la voluntad de Dios tal como reside en el Ajustador del Pensamiento». [[LU 110:7.1](/es/The_Urantia_Book/110#p7_1)]
+> «El logro de los siete círculos cósmicos no equivale a la fusión con el Ajustador. Hay muchos mortales viviendo en Urantia que han llegado a sus círculos; pero la fusión depende aún de otros logros espirituales mayores y más sublimes, sobre el logro de una sintonía final y completa de la voluntad mortal con la voluntad de Dios tal como reside en el Ajustador del Pensamiento». <a id="a86_381"></a>[[LU 110:7.1](/es/The_Urantia_Book/110#p7_1)]
 
 4. Un valor seguro en el universo.
 
-> «Cuando el yo alcanza el nivel espiritual, se ha convertido en un valor seguro en el universo, y este nuevo valor se basa en el hecho de que se han tomado decisiones de supervivencia, cuyo hecho ha sido atestiguado por la fusión eterna con el Ajustador del Pensamiento». [[LU 112:7.6](/es/The_Urantia_Book/112#p7_6)]
+> «Cuando el yo alcanza el nivel espiritual, se ha convertido en un valor seguro en el universo, y este nuevo valor se basa en el hecho de que se han tomado decisiones de supervivencia, cuyo hecho ha sido atestiguado por la fusión eterna con el Ajustador del Pensamiento». <a id="a90_273"></a>[[LU 112:7.6](/es/The_Urantia_Book/112#p7_6)]
 
 5. Y este último realmente me convenció.
 
-> «Los seres humanos son capaces de hacer una autoidentificación eterna con la fusión de la realidad del universo total e indestructible con el Ajustador del Pensamiento residente [énfasis añadido].» [[LU 116:7.5](/es/The_Urantia_Book/116#p7_5)]
+> «Los seres humanos son capaces de hacer una autoidentificación eterna con la fusión de la realidad del universo total e indestructible con el Ajustador del Pensamiento residente [énfasis añadido].» <a id="a94_200"></a>[[LU 116:7.5](/es/The_Urantia_Book/116#p7_5)]
 
 Mirando lógicamente estas citas adicionales, esto parece claro: los mortales ascendentes que se fusionan tienen, según los requisitos previos de la fusión del ajustador, se han probado a sí mismos en su viaje personal de mortales a inmortales. Por lo tanto, en el momento de la rebelión, estos ascensores fusionados estaban «por encima» de esta extenuante prueba de caída potencial. Fueron fusionados con un fragmento de El Padre Perfecto y por lo tanto están más allá de «la prueba de fuego».
 
 Sin embargo, estos meritorios 187.432.811 ascendentes (junto con los muchos miles de millones de ascendentes no fusionados que navegan por los mundos de las mansiones, sin duda) fueron probados significativamente y, sin embargo, no cayeron. Cuando se mira en el contexto de la rebelión, y las acciones pecaminosas en el trabajo alrededor de aquellos atrapados dentro de estos desconcertantes eventos, el siguiente párrafo es una declaración profunda:
 
-> «No se perdió ni un solo ciudadano de Jerusem. Cada mortal ascendente sobrevivió a la prueba de fuego y salió triunfante y victorioso de la prueba crucial». [[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)]
+> «No se perdió ni un solo ciudadano de Jerusem. Cada mortal ascendente sobrevivió a la prueba de fuego y salió triunfante y victorioso de la prueba crucial». <a id="a100_159"></a>[[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)]
 
 Reflexionando una vez más sobre esto. Lo que los autores están dando a entender aquí me parece ser:
 
@@ -110,7 +110,7 @@ Supongo que si los autores celestiales hubieran elegido darnos información más
 
 Lo que adoro de la Quinta Revelación de Época es que está escrita con matices, esperando que el estudiante use un pensamiento crítico significativo, una percepción espiritual, un razonamiento filosófico y una reflexión para desentrañar estos detalles más profundos y las verdades correlacionadas, que se pierden en una forma más superficial. lectura.
 
-Nuestra calificación de fusión nos eleva más allá del potencial de la rebelión. Nos convertimos en una «_actualidad eterna_» _cuando nos fusionamos con nuestro ajustador residente. Sin embargo_, «Este noble grupo de Jerusem de fieles mortales» [[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)] todos se encontraron con sofismas que no podemos imaginar, apoyados por seres que no podemos describir, y lo resistieron todo, para la gloria de Dios
+Nuestra calificación de fusión nos eleva más allá del potencial de la rebelión. Nos convertimos en una «_actualidad eterna_» _cuando nos fusionamos con nuestro ajustador residente. Sin embargo_, «Este noble grupo de Jerusem de fieles mortales» <a id="a112_244"></a>[[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)] todos se encontraron con sofismas que no podemos imaginar, apoyados por seres que no podemos describir, y lo resistieron todo, para la gloria de Dios
 
 ¡Amor para ustedes, hermanos inconstantes pero potencialmente eternos y perfectos!
 

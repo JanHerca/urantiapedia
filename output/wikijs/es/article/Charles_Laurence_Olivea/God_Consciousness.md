@@ -36,7 +36,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 _El siguiente artículo fue presentado como discurso plenario en la Sesión de Estudio de Verano, en la Universidad Dominicana, River Forest, IL, el 31 de julio de 2009._
 
-Según _El Libro de Urantia_, «_La capacidad de comprender es el pasaporte de los mortales para el Paraíso._» [[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)] Así que parecería que la capacidad de encontrar a Dios depende de nuestra conciencia de él.
+Según _El Libro de Urantia_, «_La capacidad de comprender es el pasaporte de los mortales para el Paraíso._» <a id="a38_109"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)] Así que parecería que la capacidad de encontrar a Dios depende de nuestra conciencia de él.
 
 Una definición de conciencia que me atrae es la noción de una «conciencia interna de un objeto, estado o hecho externo... de lo que realmente está en juego en la filosofía moderna». (Diccionario Webster's Third International) Si esto se extiende a Dios, entonces lo que está en juego, de hecho, es lo más alto posible.
 
@@ -56,7 +56,7 @@ Con esto como premisa, puede valer la pena examinar dos rasgos generales acerca 
 
 ## Los nombres de Dios
 
-Creo que es curiosamente revelador que «_Los nombres que las criaturas le asignan al Creador dependen mucho del concepto que las criaturas tengan del Creador. La Fuente Primera y el Centro del Universo no se ha revelado nunca por su nombre, sino sólo por su naturaleza._» [[LU 1:1.1](/es/The_Urantia_Book/1#p1_1)] Me gustaría sugerirles que el nombre que elegimos Indudablemente, Dios será cualitativamente proporcional al alcance y profundidad de nuestra conciencia de la naturaleza de Dios. Utilizando la ventaja que nos ha dado la Quinta Revelación de Época, echemos un vistazo a la miríada de nombres que otros en el universo le han dado a Dios como una forma de iluminar nuestra propia conciencia de Él. (Usé solo nombres en los que la primera letra de las palabras clave estaba en mayúscula, dándoles el peso de los nombres propios, para un total de treinta).
+Creo que es curiosamente revelador que «_Los nombres que las criaturas le asignan al Creador dependen mucho del concepto que las criaturas tengan del Creador. La Fuente Primera y el Centro del Universo no se ha revelado nunca por su nombre, sino sólo por su naturaleza._» <a id="a58_272"></a>[[LU 1:1.1](/es/The_Urantia_Book/1#p1_1)] Me gustaría sugerirles que el nombre que elegimos Indudablemente, Dios será cualitativamente proporcional al alcance y profundidad de nuestra conciencia de la naturaleza de Dios. Utilizando la ventaja que nos ha dado la Quinta Revelación de Época, echemos un vistazo a la miríada de nombres que otros en el universo le han dado a Dios como una forma de iluminar nuestra propia conciencia de Él. (Usé solo nombres en los que la primera letra de las palabras clave estaba en mayúscula, dándoles el peso de los nombres propios, para un total de treinta).
 
 | Nombres ||
 | --- | --- |
@@ -79,9 +79,9 @@ Creo que es curiosamente revelador que «_Los nombres que las criaturas le asign
 
 De los [Documentos 1-5].
 
-El Divino Consejero, autor de estos primeros cinco artículos, tiene razón al recordarnos que lo importante es que lleguemos a «_conocerlo y aspirar a ser como él._» [[LU 1:1.6](/es/The_Urantia_Book/1#p1_6)] Sin embargo, un nombre puede definir, moldear y guiar la conciencia de alguien o algo. Dadas nuestras circunstancias Agondonter, el predominio del papel del Padre en esa lista (un tercio más), enfatiza el poder y la gracia de la Paternidad en la existencia de la personalidad humana.
+El Divino Consejero, autor de estos primeros cinco artículos, tiene razón al recordarnos que lo importante es que lleguemos a «_conocerlo y aspirar a ser como él._» <a id="a81_165"></a>[[LU 1:1.6](/es/The_Urantia_Book/1#p1_6)] Sin embargo, un nombre puede definir, moldear y guiar la conciencia de alguien o algo. Dadas nuestras circunstancias Agondonter, el predominio del papel del Padre en esa lista (un tercio más), enfatiza el poder y la gracia de la Paternidad en la existencia de la personalidad humana.
 
-La paternidad conlleva una actitud de amor y respeto que no pone condiciones. Su conciencia se revela como considerablemente más grande que incluso el amor fraternal o fraternal. Al hablar sobre la regla de oro, Jesús enseñó que en el nivel más alto o espiritual, debemos «_tratar a todos los hombres como concebimos que Dios los trataría_» [[LU 147:4.9](/es/The_Urantia_Book/147#p4_9) ]
+La paternidad conlleva una actitud de amor y respeto que no pone condiciones. Su conciencia se revela como considerablemente más grande que incluso el amor fraternal o fraternal. Al hablar sobre la regla de oro, Jesús enseñó que en el nivel más alto o espiritual, debemos «_tratar a todos los hombres como concebimos que Dios los trataría_» <a id="a83_341"></a>[[LU 147:4.9](/es/The_Urantia_Book/147#p4_9) ]
 
 Apocalipsis, entonces, nos enseña que la paternidad es la imagen mental más grande y entrañable de la naturaleza de Dios de las criaturas procreadoras —es decir, nuestra conciencia de Él— y que debe moldear nuestra actitud hacia nuestros semejantes. La perspectiva divina o paternal es la visión desde arriba: _sabiduría espiritual_ en contraste con _conocimiento genético_, y el producto del pensamiento y la acción celestiales.
 
@@ -129,7 +129,7 @@ Ya sabes «nuestras caídas y nuestros levantamientos». Todas las cosas están 
 Sabemos que estás tan cerca como lejos, Padre. Que Tú estás siempre presente y omnipresente. Que Tu espíritu es eterno y mora en la mente de cada mortal. Gracias a Ti y a Tu divino hijo, tenemos un espíritu amigo y compañero dentro de nuestros corazones, una guía hacia el destino eterno.
 No hay poder sino Tú, Padre. De acuerdo con Tu naturaleza divina, todas las cosas son posibles contigo. Puedes encontrar un camino incluso cuando nos parece que no hay camino.
 Estás absolutamente asegurado y eternamente entronizado en la fuente del Paraíso y el centro de todas las cosas como el Padre benéfico de todos los seres inteligentes. Tú eres el único Dios y Padre de todos, que está sobre todos y en todos. Vas antes que todas las cosas. En Ti consisten todas las cosas buenas.
-Es para mí un asombro recurrente, amado Padre, que de alguna manera Tú valides esa fe de criatura que se atreve a desafiar cada episodio repetido de la existencia mortal —frente al espectáculo atroz de las limitaciones humanas— por la declaración indefectible; aunque yo no pueda hacer esto, vive en mí quien puede y lo hará, una parte de Ti, el Padre-absoluto del universo de los universos. Y esa es «_la victoria que vence al mundo, incluso [nuestra] fe._» [[LU 4:4.9](/es/The_Urantia_Book/4#p4_9)]
+Es para mí un asombro recurrente, amado Padre, que de alguna manera Tú valides esa fe de criatura que se atreve a desafiar cada episodio repetido de la existencia mortal —frente al espectáculo atroz de las limitaciones humanas— por la declaración indefectible; aunque yo no pueda hacer esto, vive en mí quien puede y lo hará, una parte de Ti, el Padre-absoluto del universo de los universos. Y esa es «_la victoria que vence al mundo, incluso [nuestra] fe._» <a id="a131_459"></a>[[LU 4:4.9](/es/The_Urantia_Book/4#p4_9)]
 
 > Charles Laurence Olivea ha sido un estudiante devoto de las enseñanzas de _El Libro de Urantia_ desde 1968, un compromiso algo paralelo a su enseñanza de historia en el aula a nivel de escuela secundaria pública. Ahora está posicionado para retirarse pronto del salón de clases y pasar a expandir su esfuerzo de mucho tiempo para difundir el libro y sus enseñanzas mientras emplea una pedagogía sólida en ese trabajo educativo. Sirve a la voluntad de nuestro Padre y trabaja con el Supremo como ciudadano cósmico.
 {.is-info}

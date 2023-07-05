@@ -39,7 +39,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > La descripción física del Libro de la mansión y los mundos superiores también debe ser una adaptación de la realidad, pero sin duda la realidad será un avance sobre la descripción que se nos da.
 {.is-info}
 
-¿Tiene problemas para imaginar el universo de cuatro dimensiones de la relatividad? Luego imagine la dificultad que enfrentaron los reveladores del Libro de Urantia para transmitirnos un concepto mental de un universo de siete dimensiones. ([LU 130:7.6](/es/The_Urantia_Book/130#p7_6)) Este problema fue destacado por el lector australiano, Nigel Nunn, quien comenta que la descripción toroidal que se nos da para el Universo Maestro debe ser algún tipo de proyección geométrica. o la representación vista desde una dimensión superior en lugar de ser la realidad.
+¿Tiene problemas para imaginar el universo de cuatro dimensiones de la relatividad? Luego imagine la dificultad que enfrentaron los reveladores del Libro de Urantia para transmitirnos un concepto mental de un universo de siete dimensiones. (<a id="a41_241"></a>[LU 130:7.6](/es/The_Urantia_Book/130#p7_6)) Este problema fue destacado por el lector australiano, Nigel Nunn, quien comenta que la descripción toroidal que se nos da para el Universo Maestro debe ser algún tipo de proyección geométrica. o la representación vista desde una dimensión superior en lugar de ser la realidad.
 
 Los reveladores también hablan de la antigravedad como un medio por el cual los Directores de Poder controlan la distribución de energía y masa. Pero durante un período considerable, el concepto de antigravedad no tuvo cabida entre nuestros físicos y cosmólogos.
 
@@ -51,7 +51,7 @@ Con todas las posibilidades aparentemente agotadas, lo que quedó fue un univers
 
 Para hacer que esto último funcione, tenemos una reintroducción de la constante cosmológica abandonada hace mucho tiempo por Einstein, que actúa para oponerse al efecto de la gravedad con una fuerza repulsiva en lugar de atractiva, la antigravedad. Suena bastante simple, pero ahora tiene que ajustarse a una precisión de 123 decimales; 124 no es suficiente. Así que no es de extrañar que Einstein se complaciera en dejarlo pasar.
 
-Entre otras cosas, _El Libro de Urantia_ nos dice que, «_la antigravedad es un poder del Espíritu Infinito... .Puede anular la gravedad dentro de un marco local. Lo hace mediante el ejercicio de una presencia de fuerza equivalente. Sólo funciona con relación a la gravedad material, y no es una acción de la mente._» ([LU 9:3.3](/es/The_Urantia_Book/9#p3_3)) Me pregunto quién tiene la tarea de equilibrarlo al 123. ¿decimal?
+Entre otras cosas, _El Libro de Urantia_ nos dice que, «_la antigravedad es un poder del Espíritu Infinito... .Puede anular la gravedad dentro de un marco local. Lo hace mediante el ejercicio de una presencia de fuerza equivalente. Sólo funciona con relación a la gravedad material, y no es una acción de la mente._» (<a id="a53_318"></a>[LU 9:3.3](/es/The_Urantia_Book/9#p3_3)) Me pregunto quién tiene la tarea de equilibrarlo al 123. ¿decimal?
 
 Imagen aquí
 

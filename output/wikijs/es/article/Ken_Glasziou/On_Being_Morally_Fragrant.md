@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> «Nunca es posible hacer progresar la moralidad por medio de la ley o de la fuerza. Es un asunto personal y de libre albedrío, y ha de propagarse por contagio mediante el contacto entre las personas con fragancia moral y aquellas que son menos sensibles a la moral, pero que tienen también en cierta medida el deseo de hacer la voluntad del Padre». ([LU 16:7.9](/es/The_Urantia_Book/16#p7_9))
+> «Nunca es posible hacer progresar la moralidad por medio de la ley o de la fuerza. Es un asunto personal y de libre albedrío, y ha de propagarse por contagio mediante el contacto entre las personas con fragancia moral y aquellas que son menos sensibles a la moral, pero que tienen también en cierta medida el deseo de hacer la voluntad del Padre». (<a id="a36_351"></a>[LU 16:7.9](/es/The_Urantia_Book/16#p7_9))
 
 Esencialmente, el libro nos dice que si la sociedad de Urantia ha de avanzar espiritualmente, nuestra moralidad no puede permanecer estática, moribunda. Debe seguir adelante. Sin embargo, no podemos legislar ni utilizar métodos punitivos para imponer avances morales. Una sociedad hace tales avances si, y sólo si, tiene miembros moralmente fragantes cuya moralidad es contagiosa, y al menos algunos otros miembros que son moralmente sensibles.
 
@@ -44,7 +44,7 @@ Entonces, ¿cómo pueden los lectores del _Libro de Urantia_ ser moralmente frag
 
 Creo que la fragancia moral tiene que ser inconsciente. Si somos conscientes de nuestras normas morales y tratamos de mostrarlas a los demás de alguna manera, la fragancia ciertamente disminuirá y probablemente se desvanecerá. Tenemos que «ser» antes de poder «hacer».
 
-> «Aquella noche, Jesús enseñó dentro de la casa porque había empezado a llover; habló muy extensamente a los doce para tratar de mostrarles lo que debían ser, y no lo que debían hacer. Sólo conocían una religión que imponía hacer ciertas cosas para poder alcanzar la rectitud —la salvación. Pero Jesús les repetía: «En el reino, tenéis que ser rectos para hacer el trabajo». ... Pero era una tarea difícil la de persuadir a estos pescadores galileos de que, en el reino, primero hay que ser recto por la fe, antes de obrar con rectitud en la vida cotidiana de los mortales de la Tierra.» ([LU 140:10.1](/es/The_Urantia_Book/140#p10_1))
+> «Aquella noche, Jesús enseñó dentro de la casa porque había empezado a llover; habló muy extensamente a los doce para tratar de mostrarles lo que debían ser, y no lo que debían hacer. Sólo conocían una religión que imponía hacer ciertas cosas para poder alcanzar la rectitud —la salvación. Pero Jesús les repetía: «En el reino, tenéis que ser rectos para hacer el trabajo». ... Pero era una tarea difícil la de persuadir a estos pescadores galileos de que, en el reino, primero hay que ser recto por la fe, antes de obrar con rectitud en la vida cotidiana de los mortales de la Tierra.» (<a id="a46_590"></a>[LU 140:10.1](/es/The_Urantia_Book/140#p10_1))
 
 La justicia ciertamente incluye la moralidad, por lo tanto, si la Quinta Revelación de Época va a hacer su trabajo, entonces los lectores tenemos que "ser" justos y morales si queremos volvernos moralmente fragantes e infecciosos.
 
@@ -52,7 +52,7 @@ Debe ser extremadamente difícil para una persona irreligiosa suscribirse a un c
 
 Sin un Dios que sea amor y la promesa de una vida futura deseable, la adopción de la filosofía alternativa de Pablo se vuelve casi obligatoria: «Comed, bebed y divertíos porque mañana moriremos». ([1 Cor. 15:32](/es/Bible/1_Corinthians/15#v32)) Y con su aceptación, viene un deterioro de la moralidad con la tendencia a la maximización del egoísmo, pues sin una autoridad divina, la base para cualquier moralidad se vuelve discutible y el interés propio se convierte en la motivación principal.
 
-> «Cuando el hombre no consigue discernir los objetivos de sus esfuerzos como mortal, está actuando en el nivel de existencia animal». ([LU 16:7.5](/es/The_Urantia_Book/16#p7_5))
+> «Cuando el hombre no consigue discernir los objetivos de sus esfuerzos como mortal, está actuando en el nivel de existencia animal». (<a id="a54_136"></a>[LU 16:7.5](/es/The_Urantia_Book/16#p7_5))
 
 ¿Podría ser que una de las principales intenciones de los reveladores al proporcionarnos la Quinta Revelación de Época sea la esperanza de que los adherentes se conviertan en esas personas moralmente fragantes que, con su ejemplo personal, se convertirán en los creadores de metas para un nuevo orden moral en la sociedad?
 

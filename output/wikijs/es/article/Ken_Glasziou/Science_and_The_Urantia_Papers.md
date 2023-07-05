@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:12:18Z
 </figure>
 
 
-Dado que el mandato de los reveladores les impedía darnos conocimiento no ganado, ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) se deduce que el nivel de información científica en los Documentos no debe incluir información aún no descubierta por mediados de la década de 1930. La excepción es que se podrían llenar los "vacíos que faltan" o restaurar el "conocimiento perdido" esencial.
+Dado que el mandato de los reveladores les impedía darnos conocimiento no ganado, (<a id="a36_83"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) se deduce que el nivel de información científica en los Documentos no debe incluir información aún no descubierta por mediados de la década de 1930. La excepción es que se podrían llenar los "vacíos que faltan" o restaurar el "conocimiento perdido" esencial.
 
 Al tomar una visión amplia de estas excepciones, nuestros reveladores sobrehumanos podrían haber demostrado fácilmente que su nivel de conocimiento científico excedía con creces los niveles humanos a mediados de la década de 1930. Al hacerlo, podrían haber demostrado un estado revelador para los Documentos.
 
@@ -48,7 +48,7 @@ Los autores de los Documentos entienden bien la naturaleza humana. Serían consc
 
 Creo que se nos ha proporcionado información clave con el fin de ayudar a aquellos que buscan el tipo de verdad de los reveladores. Pero brindan esta información en formas que también permiten su rechazo por aquellos que buscan los medios para el rechazo.
 
-La razón de este enfoque bivalente puede estar relacionada con la declaración en los Documentos de que nuestro libre albedrío es virtualmente inviolable. Dios nos dotó de relativo libre albedrío en el nivel finito, y ni siquiera Dios mismo nos lo quitará. ([LU 118:6.4](/es/The_Urantia_Book/118#p6_4)) También es sólo por la fe que podemos entrar en el reino de Dios. ([LU 140:1.4](/es/The_Urantia_Book/140#p1_4)) Y no podemos tener fe a menos que haya incertidumbre, porque si hay certeza no podría haber razón para la fe.
+La razón de este enfoque bivalente puede estar relacionada con la declaración en los Documentos de que nuestro libre albedrío es virtualmente inviolable. Dios nos dotó de relativo libre albedrío en el nivel finito, y ni siquiera Dios mismo nos lo quitará. (<a id="a50_257"></a>[LU 118:6.4](/es/The_Urantia_Book/118#p6_4)) También es sólo por la fe que podemos entrar en el reino de Dios. (<a id="a50_369"></a>[LU 140:1.4](/es/The_Urantia_Book/140#p1_4)) Y no podemos tener fe a menos que haya incertidumbre, porque si hay certeza no podría haber razón para la fe.
 
 Este documento es una actualización de dos publicaciones anteriores y más detalladas sobre la ciencia, la antropología y la arqueología de los Documentos.1, 2 En este, me propongo describir solo aquellos elementos de conocimiento que, para mí, verifican que los Documentos son todos que dicen ser. También pretendo señalar algunas de las posibles vías de escape para rechazarlas.
 

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-de [Documento de Urantia 180, secc. 5](/es/The_Urantia_Book/180#p5).
+de <a id="a36_3"></a>[Documento de Urantia 180, secc. 5](/es/The_Urantia_Book/180#p5).
 
 ## Resumen
 
@@ -62,29 +62,29 @@ En al menos algunos de los Documentos de Urantia, la palabra «verdad» se usa c
 
 En raros momentos de nuestra morada en los niveles supermateriales, es posible que experimentemos la verdad divina que tiene su origen inmediato en nuestro Ajustador del Pensamiento. Esta «verdad», habiéndose activado como verdad espiritual, se convierte en una parte permanente de nuestra alma en crecimiento.
 
-A pedido personal nuestro, para ayudarnos en el discernimiento de la verdad, se encuentra el «Espíritu de la Verdad», en función, los espíritus combinados del Padre y nuestro Hijo Creador. ([LU 194:2.16](/es/The_Urantia_Book/194#p2_16))
+A pedido personal nuestro, para ayudarnos en el discernimiento de la verdad, se encuentra el «Espíritu de la Verdad», en función, los espíritus combinados del Padre y nuestro Hijo Creador. (<a id="a64_190"></a>[LU 194:2.16](/es/The_Urantia_Book/194#p2_16))
 
-> «Este don divino no es la letra o la ley de la verdad, ni tampoco está destinado a funcionar como la forma o la expresión de la verdad.» ([LU 180:5.1](/es/The_Urantia_Book/180#p5_1))
+> «Este don divino no es la letra o la ley de la verdad, ni tampoco está destinado a funcionar como la forma o la expresión de la verdad.» (<a id="a66_140"></a>[LU 180:5.1](/es/The_Urantia_Book/180#p5_1))
 
 Mientras que el Ajustador del Pensamiento es el regalo del Padre para todos los hombres y mujeres de Urantia, independientemente de su raza o religión, y es constitutivo de cada persona desde el momento de su primera decisión moral en la infancia, el Espíritu de la Verdad está disponible «a demanda.»
 
-> «El nuevo instructor es la convicción de la verdad, la conciencia y la seguridad de los verdaderos significados en los niveles espirituales reales. Este nuevo instructor es el espíritu de la verdad viviente y creciente, de la verdad que se expande, se desarrolla y se adapta», que se nos proporciona con el propósito específico de identificar la verdad. ([LU 180:5.1](/es/The_Urantia_Book/180#p5_1))
+> «El nuevo instructor es la convicción de la verdad, la conciencia y la seguridad de los verdaderos significados en los niveles espirituales reales. Este nuevo instructor es el espíritu de la verdad viviente y creciente, de la verdad que se expande, se desarrolla y se adapta», que se nos proporciona con el propósito específico de identificar la verdad. (<a id="a70_357"></a>[LU 180:5.1](/es/The_Urantia_Book/180#p5_1))
 
-> «El verdadero hijo que posee perspicacia universal busca el Espíritu viviente de la Verdad en toda palabra sabia. La persona que conoce a Dios eleva constantemente la sabiduría a los niveles de verdad viviente donde se alcanza la divinidad;» ([LU 180:5.4](/es/The_Urantia_Book/180#p5_4))
+> «El verdadero hijo que posee perspicacia universal busca el Espíritu viviente de la Verdad en toda palabra sabia. La persona que conoce a Dios eleva constantemente la sabiduría a los niveles de verdad viviente donde se alcanza la divinidad;» (<a id="a72_245"></a>[LU 180:5.4](/es/The_Urantia_Book/180#p5_4))
 
 Dichos sabios u otras experiencias cotidianas, una vez que con la ayuda del Espíritu de la Verdad se reconoce que tienen valor de verdad, pueden entonces, a través de la acción de nuestro Ajustador del Pensamiento, convertirse en partes constitutivas del crecimiento de nuestra alma.
 
-> Vivir la verdad es especial. Es «dinámico y solo puede disfrutar de una existencia experiencial en la mente humana». Elevada a los niveles de logro divino, «la verdad es un valor de la realidad espiritual que sólo lo experimentan los seres dotados de espíritu que ejercen su actividad en los niveles supermateriales de conciencia del universo, y que después de reconocer la verdad, permiten que su espíritu activador viva y reine en sus alma.» ([LU 180:5.3](/es/The_Urantia_Book/180#p5_3))
+> Vivir la verdad es especial. Es «dinámico y solo puede disfrutar de una existencia experiencial en la mente humana». Elevada a los niveles de logro divino, «la verdad es un valor de la realidad espiritual que sólo lo experimentan los seres dotados de espíritu que ejercen su actividad en los niveles supermateriales de conciencia del universo, y que después de reconocer la verdad, permiten que su espíritu activador viva y reine en sus alma.» (<a id="a76_447"></a>[LU 180:5.3](/es/The_Urantia_Book/180#p5_3))
 
 Hay varios niveles de logro en la comprensión de la verdad que podemos alcanzar durante nuestra experiencia en Urantia.
 
-> «Este nuevo instructor es el Espíritu de la Verdad que vivirá con cada uno de vosotros, en vuestro corazón, y así todos los hijos de la luz serán como uno solo y serán atraídos los unos hacia los otros. De esta manera concreta mi Padre y yo podremos vivir **en el alma de cada uno de vosotros**, y también **en el corazón de todos los demás hombres** que nos aman y hacen real ese amor en sus experiencias, amándose los unos a los otros como yo os amo ahora». ([LU 180:4.5](/es/The_Urantia_Book/180#p4_5))
+> «Este nuevo instructor es el Espíritu de la Verdad que vivirá con cada uno de vosotros, en vuestro corazón, y así todos los hijos de la luz serán como uno solo y serán atraídos los unos hacia los otros. De esta manera concreta mi Padre y yo podremos vivir **en el alma de cada uno de vosotros**, y también **en el corazón de todos los demás hombres** que nos aman y hacen real ese amor en sus experiencias, amándose los unos a los otros como yo os amo ahora». (<a id="a80_463"></a>[LU 180:4.5](/es/The_Urantia_Book/180#p4_5))
 
-Para ampliar estos niveles de logro, Jesús utilizó la llamada Regla de Oro. Los Documentos ([LU 74:7.5](/es/The_Urantia_Book/74#p7_5)) nos dicen que se enseñó en el Jardín del Edén, lo que también puede explicar que sea conocido por hombres como Platón, Aristóteles, el Cipriano, Isócrates, Confucio en China, los eruditos judíos del siglo I a. C., Hillel y Filón, y también citado en los apócrifos ([Tobías 4.15](/es/Bible/Tobit/4#v15)). Confucio lo enseñó como, «Haz a los demás lo que te gustaría que te hicieran a ti», pero más a menudo se expresaba en forma negativa.
+Para ampliar estos niveles de logro, Jesús utilizó la llamada Regla de Oro. Los Documentos (<a id="a82_92"></a>[LU 74:7.5](/es/The_Urantia_Book/74#p7_5)) nos dicen que se enseñó en el Jardín del Edén, lo que también puede explicar que sea conocido por hombres como Platón, Aristóteles, el Cipriano, Isócrates, Confucio en China, los eruditos judíos del siglo I a. C., Hillel y Filón, y también citado en los apócrifos ([Tobías 4.15](/es/Bible/Tobit/4#v15)). Confucio lo enseñó como, «Haz a los demás lo que te gustaría que te hicieran a ti», pero más a menudo se expresaba en forma negativa.
 
 Los Documentos parecen distinguir cuatro niveles por los cuales la Regla de Oro progresa hacia su forma más elevada. Su nivel bajo es:
 
-> «Cuando la regla de oro está despojada de la perspicacia suprahumana del Espíritu de la Verdad, no es nada más que una regla de conducta altamente ética». ([LU 180:5.5](/es/The_Urantia_Book/180#p5_5))
+> «Cuando la regla de oro está despojada de la perspicacia suprahumana del Espíritu de la Verdad, no es nada más que una regla de conducta altamente ética». (<a id="a86_158"></a>[LU 180:5.5](/es/The_Urantia_Book/180#p5_5))
 
 Se eleva a un nivel superior como mandato positivo de un gran maestro moral que lo encarnó con «el más alto concepto de obligación moral en cuanto a las relaciones fraternales» donde se convierte en «el sabio centro y circunferencia de toda su filosofía».
 
@@ -92,25 +92,25 @@ Alcanza un nivel más alto de interpretación en el reino de los amantes de la v
 
 Este parece ser el nivel en el que el Espíritu de la Verdad vive «con cada uno en vuestros corazones». Luego, en su nivel más alto, se realiza un salto cuántico desde el «bien más alto posible» de los destinatarios hasta su «bien cósmico más alto» en relación con sus futuras carreras en el universo.
 
-> «El verdadero significado cósmico de esta regla de las relaciones universales solamente se revela en su comprensión espiritual, en la interpretación que el espíritu del Hijo hace de la ley de la conducta al espíritu del Padre que reside en el alma del hombre mortal.» ([LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
+> «El verdadero significado cósmico de esta regla de las relaciones universales solamente se revela en su comprensión espiritual, en la interpretación que el espíritu del Hijo hace de la ley de la conducta al espíritu del Padre que reside en el alma del hombre mortal.» (<a id="a94_271"></a>[LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
 
-> «El amor, el altruismo, debe sufrir una interpretación readaptativa constante y viviente de las relaciones de acuerdo con las directrices del Espíritu de la Verdad. El amor debe captar así los conceptos ampliados y siempre cambiantes del **bien cósmico más elevado** para la persona que es amada». ([LU 180:5.10](/es/The_Urantia_Book/180#p5_10))
+> «El amor, el altruismo, debe sufrir una interpretación readaptativa constante y viviente de las relaciones de acuerdo con las directrices del Espíritu de la Verdad. El amor debe captar así los conceptos ampliados y siempre cambiantes del **bien cósmico más elevado** para la persona que es amada». (<a id="a96_301"></a>[LU 180:5.10](/es/The_Urantia_Book/180#p5_10))
 
 Este es el nivel en el que «mi Padre y yo podremos vivir en el alma de cada uno de vosotros».
 
-> «Luego, el amor continúa adoptando esta misma actitud hacia todas las demás personas que quizás pudieran ser influidas por las relaciones crecientes y vivientes del amor que un mortal conducido por el espíritu siente por otros ciudadanos del universo». ([LU 180:5.10](/es/The_Urantia_Book/180#p5_10))
+> «Luego, el amor continúa adoptando esta misma actitud hacia todas las demás personas que quizás pudieran ser influidas por las relaciones crecientes y vivientes del amor que un mortal conducido por el espíritu siente por otros ciudadanos del universo». (<a id="a100_256"></a>[LU 180:5.10](/es/The_Urantia_Book/180#p5_10))
 
 Para operar a este nivel necesitaríamos haber alcanzado un nivel de comunicación con el Espíritu de la Verdad comparable al que alcanzó el Jesús humano con su Ajustador del Pensamiento:
 
-> «Una sincronía perfecta y una comunicación plena se habían establecido entre la mente mortal de Jesús y su Ajustador espiritual interior». ([LU 136:2.2](/es/The_Urantia_Book/136#p2_2))
+> «Una sincronía perfecta y una comunicación plena se habían establecido entre la mente mortal de Jesús y su Ajustador espiritual interior». (<a id="a104_142"></a>[LU 136:2.2](/es/The_Urantia_Book/136#p2_2))
 
 La siguiente información puede ser útil:
 
-> «No cometáis el error de esperar que llegaréis a tener una fuerte conciencia intelectual del Espíritu de la Verdad derramado. El espíritu nunca crea una conciencia de sí mismo, sino sólo una conciencia de Miguel, el Hijo. Desde el principio, Jesús enseñó que el espíritu no hablaría de sí mismo. Por consiguiente, la prueba de vuestra comunión con el Espíritu de la Verdad no se puede encontrar en vuestra conciencia de este espíritu, sino más bien en vuestra experiencia de una elevada comunión con Miguel». ([LU 194:2.4](/es/The_Urantia_Book/194#p2_4))
+> «No cometáis el error de esperar que llegaréis a tener una fuerte conciencia intelectual del Espíritu de la Verdad derramado. El espíritu nunca crea una conciencia de sí mismo, sino sólo una conciencia de Miguel, el Hijo. Desde el principio, Jesús enseñó que el espíritu no hablaría de sí mismo. Por consiguiente, la prueba de vuestra comunión con el Espíritu de la Verdad no se puede encontrar en vuestra conciencia de este espíritu, sino más bien en vuestra experiencia de una elevada comunión con Miguel». (<a id="a108_512"></a>[LU 194:2.4](/es/The_Urantia_Book/194#p2_4))
 
 Ciertamente nos proporciona algo en lo que trabajar.
 
-> Cada una de las muchísimas estaciones en la casa de mi Padre es una parada, una vida destinada a prepararos para la siguiente. ([LU 181:1.2](/es/The_Urantia_Book/181#p1_2))
+> Cada una de las muchísimas estaciones en la casa de mi Padre es una parada, una vida destinada a prepararos para la siguiente. (<a id="a112_130"></a>[LU 181:1.2](/es/The_Urantia_Book/181#p1_2))
 
 ## Enlaces externos
 

@@ -48,7 +48,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ## Referencias a _El Libro de Urantia_
 
-Es posible que vea citas en el texto de _El Libro de Urantia_ en esta publicación con este aspecto: ([LU 62:5.1](/es/The_Urantia_Book/62#p5_1)). La parte «62:5.1» puede usarse para buscar en un Libro de Urantia en el documento 62, sección 5, párrafo 1. La porción «707.7» puede usarse para buscar en un Libro de Urantia publicado por la Fundación Urantia antes de 2009 en la página 707, párrafo 7. Estas citas también pueden incluir un enlace URL incrustado que puede llevarlo a la cita dentro de _El Libro de Urantia_.
+Es posible que vea citas en el texto de _El Libro de Urantia_ en esta publicación con este aspecto: (<a id="a50_101"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1)). La parte «62:5.1» puede usarse para buscar en un Libro de Urantia en el documento 62, sección 5, párrafo 1. La porción «707.7» puede usarse para buscar en un Libro de Urantia publicado por la Fundación Urantia antes de 2009 en la página 707, párrafo 7. Estas citas también pueden incluir un enlace URL incrustado que puede llevarlo a la cita dentro de _El Libro de Urantia_.
 
 Estas citas muestran que la fuente de la cita proviene del Texto de referencia estándar de _El Libro de Urantia_. La secuencia de notación completa se puede representar como (papel:sección.párrafo [página.párrafo]). Para obtener más información, consulte: https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book y https://urantiabook.org/text-standardization-Urantia-Book
 

@@ -40,11 +40,11 @@ Culto solía ser un término bastante respetable. Mi New Collegiate Dictionary d
 
 1\. Veneración religiosa formal. culto. 2\. Un sistema de creencias religiosas también: su cuerpo de adeptos. 3\. Una religión considerada como poco ortodoxa o espuria también por su cuerpo de seguidores. (De especial interés para nosotros) 5.a. Una gran devoción a una persona, idea o cosa.
 
-> La religión, la más elevada que se haya revelado hasta ahora en el universo de Nebadon —la vida terrestre de Jesús de Nazaret. ([LU 102:8.7](/es/The_Urantia_Book/102#p8_7))
+> La religión, la más elevada que se haya revelado hasta ahora en el universo de Nebadon —la vida terrestre de Jesús de Nazaret. (<a id="a42_130"></a>[LU 102:8.7](/es/The_Urantia_Book/102#p8_7))
 
 Probablemente ubicaríamos a nuestra comunidad en la categoría #2 o #5a, pero hay quienes nos ubicarían en la #3. Tenga en cuenta que no hay una definición que se ajuste a la forma en que «culto» se usa comúnmente hoy en día. Hoy tiene la connotación de un grupo que utiliza técnicas de lavado de cerebro y control mental para controlar por completo a sus miembros.
 
-En [LU 87:7.6](/es/The_Urantia_Book/87#p7_6), _El Libro de Urantia_ usa «culto» en el sentido más antiguo y más positivo de la palabra cuando advierte que es necesario desarrollar un culto basado en nuestros mejores y más elevados ideales religiosos. No hay duda de que alguien que busque condenar _El Libro de Urantia_ aprovecharía esto y lo usaría para condenar el libro ya nuestra comunidad. ¿Pero estaríamos mal si no admitiéramos que ha habido al menos un grupo asociado con nuestra comunidad que comenzó a parecer una secta?
+En <a id="a46_3"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6), _El Libro de Urantia_ usa «culto» en el sentido más antiguo y más positivo de la palabra cuando advierte que es necesario desarrollar un culto basado en nuestros mejores y más elevados ideales religiosos. No hay duda de que alguien que busque condenar _El Libro de Urantia_ aprovecharía esto y lo usaría para condenar el libro ya nuestra comunidad. ¿Pero estaríamos mal si no admitiéramos que ha habido al menos un grupo asociado con nuestra comunidad que comenzó a parecer una secta?
 
 Supongamos que hace más o menos una década, poco antes de que cierto grupo se disolviera en California, un reportero de investigación escuchó rumores sobre este grupo. Luego suponga que el reportero visitó el cuartel general del grupo y observó los preparativos para el holocausto nuclear: las armas, las fortificaciones, las reservas de alimentos, así como el hecho de que el líder del grupo fue secuestrado en un puesto de mando en el piso superior.
 
@@ -65,7 +65,7 @@ Si bien es posible que no podamos evitar que ocurran tales incidentes, podemos h
 
 > No hay atasco en la segunda milla.
 
-En [LU 115:0.1](/es/The_Urantia_Book/115#p0_1) del libro, los autores nos dicen que debemos: «hacer algo además de ser algo». Lo que somos es una colección de grupos de estudio; lo que hacemos es principalmente estudiar _El Libro de Urantia_. Las dos principales organizaciones relacionadas con _El Libro de Urantia_ se centran en actividades relacionadas con el libro y con los grupos de estudio. Estas organizaciones no están orientadas filosóficamente u organizativamente hacia la divulgación; sus actividades parecen centrarse principalmente en fomentar la formación de grupos de estudio y la promoción del libro.
+En <a id="a67_3"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1) del libro, los autores nos dicen que debemos: «hacer algo además de ser algo». Lo que somos es una colección de grupos de estudio; lo que hacemos es principalmente estudiar _El Libro de Urantia_. Las dos principales organizaciones relacionadas con _El Libro de Urantia_ se centran en actividades relacionadas con el libro y con los grupos de estudio. Estas organizaciones no están orientadas filosóficamente u organizativamente hacia la divulgación; sus actividades parecen centrarse principalmente en fomentar la formación de grupos de estudio y la promoción del libro.
 
 Cualquiera que sea el caso, el servicio fuera de la comunidad Urantia no parece estar entre las prioridades de ninguna de las dos organizaciones. No se trata de criticar a las organizaciones; están haciendo un trabajo muy valioso. Pero la falta de una organización nacional para promover el trabajo de servicio deja el trabajo a los individuos y grupos de estudio. Hacer trabajo de servicio es importante, pero nuestros motivos para hacerlo son igualmente importantes.
 
@@ -83,9 +83,9 @@ Algunos incluso pueden temer que seremos perseguidos físicamente si nos damos a
 
 Hay muchos subproductos valiosos del alcance como grupo o como comunidad. Tal como está, la comunidad de Urantia difícilmente es una comunidad en el mismo sentido en que una iglesia es una comunidad religiosa. No tenemos ningún tipo de organización a la que todos sintamos que pertenecemos que sea comparable con la forma en que las personas que pertenecen a una iglesia se identifican con su organización. Sin duda hay excepciones pero, según mi experiencia, los grupos de estudio tienden a estar poco organizados y la asistencia no siempre es una prioridad importante en la vida de sus miembros. Trabajar juntos en proyectos de divulgación daría a los grupos un sentido de propósito más allá del estudio del libro. Podría fomentar un sentido de compañerismo entre aquellos que sirven juntos en alguna causa noble. Podría darnos la sensación de que, en cierto sentido, estamos aplicando los principios que aprendemos en _El Libro de Urantia_ a problemas de la vida real.
 
-> Pero la religión revelada es excelente a la vez que auténtica. Las nuevas lealtades debidas a una visión espiritual más amplia crean nuevos niveles de amor y de devoción, de servicio y de hermandad... ([LU 100:6.8](/es/The_Urantia_Book/100#p6_8))
+> Pero la religión revelada es excelente a la vez que auténtica. Las nuevas lealtades debidas a una visión espiritual más amplia crean nuevos niveles de amor y de devoción, de servicio y de hermandad... (<a id="a85_204"></a>[LU 100:6.8](/es/The_Urantia_Book/100#p6_8))
 
-> El Maestro se daba plenamente cuenta de que algunos resultados sociales aparecerían en el mundo como consecuencia de la diseminación del evangelio del reino; pero su intención era que todas estas manifestaciones sociales deseables aparecieran como resultados inconscientes e inevitables, o frutos naturales, de la experiencia personal interior de los creyentes individuales, de esa asociación y comunión puramente espiritual con el espíritu divino que reside en todos esos creyentes y los moviliza. ([LU 170:5.12](/es/The_Urantia_Book/170#p5_12))
+> El Maestro se daba plenamente cuenta de que algunos resultados sociales aparecerían en el mundo como consecuencia de la diseminación del evangelio del reino; pero su intención era que todas estas manifestaciones sociales deseables aparecieran como resultados inconscientes e inevitables, o frutos naturales, de la experiencia personal interior de los creyentes individuales, de esa asociación y comunión puramente espiritual con el espíritu divino que reside en todos esos creyentes y los moviliza. (<a id="a87_502"></a>[LU 170:5.12](/es/The_Urantia_Book/170#p5_12))
 
 Hay al menos otra buena razón para hacer divulgación. Cuando estamos secuestrados en nuestros grupos de estudio, solo interactuamos entre nosotros. A veces es bueno estar con personas de ideas afines, pero también es instructivo interactuar con aquellos que pueden estar en desacuerdo con nosotros.
 
@@ -93,7 +93,7 @@ Hay algunas personas muy buenas y muy espirituales en el mundo que no estarían 
 
 Hay muchas buenas razones para estar al servicio de nuestros congéneres mortales. El servicio es tanto un catalizador para el crecimiento espiritual como lo son la oración y la adoración. Y la disposición a servir es señal de que hemos crecido espiritualmente. Si el alcance de nuestro servicio también puede mejorar la imagen de nuestra comunidad, tanto mejor.
 
-> Jesús preveía que una organización social, o iglesia, seguiría al progreso del verdadero reino espiritual, y por eso no se opuso nunca a que los apóstoles practicaran el rito del bautismo de Juan. ([LU 170:5.13](/es/The_Urantia_Book/170#p5_13))
+> Jesús preveía que una organización social, o iglesia, seguiría al progreso del verdadero reino espiritual, y por eso no se opuso nunca a que los apóstoles practicaran el rito del bautismo de Juan. (<a id="a95_200"></a>[LU 170:5.13](/es/The_Urantia_Book/170#p5_13))
 
 ## Enlaces externos
 

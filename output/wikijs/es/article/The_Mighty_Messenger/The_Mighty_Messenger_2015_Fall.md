@@ -124,7 +124,7 @@ Michael Challis, presidente
 _El Libro de Urantia_ Fellowship
 del presidente
 
-> «...en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija.»—Jesús [[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
+> «...en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija.»—Jesús <a id="a126_123"></a>[[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
 
 ## Lecciones de la tubería
 
@@ -301,7 +301,7 @@ Por _Barbara Maier_
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005877.jpg">
 </figure>
 
-Del 17 al 20 de septiembre de 2015, 90 estudiantes de _El Libro de Urantia_ escucharon la llamada de su espíritu y asistieron al evento inaugural de la recién creada UCPNW. En el rústico y cómodo Campamento Kiwanis de Mt Hood, Oregón, pasamos cuatro días representando nuestros temas de Conocernos unos a otros y Vivir los frutos del Espíritu. Un comité de planificación dedicado de 8, pasó 10 meses usando estrategias de TI para crear este evento y restablecer la conexión para crecer localmente y apoyar regionalmente dentro de las 5 áreas de Alaska, Columbia Británica, Idaho, Oregón y Washington. Los principios motivadores de este Encuentro provinieron de «Si tan sólo pudierais conocer a vuestros semejantes, terminaríais por enamoraros de ellos». ([LU 100:4.5](/es/The_Urantia_Book/100#p4_5)) y Jesús enseñó que el servicio al prójimo es el concepto más elevado de la hermandad de los creyentes espirituales. ([LU 188:4.9](/es/The_Urantia_Book/188#p4_9))
+Del 17 al 20 de septiembre de 2015, 90 estudiantes de _El Libro de Urantia_ escucharon la llamada de su espíritu y asistieron al evento inaugural de la recién creada UCPNW. En el rústico y cómodo Campamento Kiwanis de Mt Hood, Oregón, pasamos cuatro días representando nuestros temas de Conocernos unos a otros y Vivir los frutos del Espíritu. Un comité de planificación dedicado de 8, pasó 10 meses usando estrategias de TI para crear este evento y restablecer la conexión para crecer localmente y apoyar regionalmente dentro de las 5 áreas de Alaska, Columbia Británica, Idaho, Oregón y Washington. Los principios motivadores de este Encuentro provinieron de «Si tan sólo pudierais conocer a vuestros semejantes, terminaríais por enamoraros de ellos». (<a id="a303_755"></a>[LU 100:4.5](/es/The_Urantia_Book/100#p4_5)) y Jesús enseñó que el servicio al prójimo es el concepto más elevado de la hermandad de los creyentes espirituales. (<a id="a303_917"></a>[LU 188:4.9](/es/The_Urantia_Book/188#p4_9))
 
 Los grupos de edad iban desde los 90 años hasta la escuela primaria, aunque predominantemente la edad promedio era de 50 años. Muchos volaron o viajaron en coche compartido largas distancias. Estábamos divididos equitativamente entre hombres y mujeres. Para muchos, este fue su primer evento de Urantia y su primera reunión regional. Otorgamos Fellowships, brindamos servicio al Campamento Kiwanis, tuvimos muchos voluntarios y salimos llenos hasta los topes.
 

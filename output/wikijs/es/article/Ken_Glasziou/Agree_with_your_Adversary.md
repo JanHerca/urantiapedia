@@ -66,7 +66,7 @@ Piensa en todas esas ocasiones recientes en las que fallamos en esta prueba. ¿Q
 
 Si alguna vez queremos que nuestras fuerzas espirituales residentes se hagan cargo de nuestras vidas, si alguna vez vamos a ser útiles en el programa divino para mejorar el avance espiritual de este planeta, entonces tal vez tengamos que pensar un poco.
 
-> «Todos debéis proclamar este evangelio de amor y de verdad mediante la vida que vivís en la carne. Os amaréis los unos a los otros con un afecto nuevo y sorprendente, tal como yo os he amado. Serviréis a la humanidad con una devoción nueva y extraordinaria, tal como yo os he servido. Cuando los hombres vean que los amáis así, y cuando observen el fervor con que los servís, percibirán que sois hermanos por la fe en el reino de los cielos, y seguirán al Espíritu de la Verdad que verán en vuestra vida, hasta que encuentren la salvación eterna.» ([LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
+> «Todos debéis proclamar este evangelio de amor y de verdad mediante la vida que vivís en la carne. Os amaréis los unos a los otros con un afecto nuevo y sorprendente, tal como yo os he amado. Serviréis a la humanidad con una devoción nueva y extraordinaria, tal como yo os he servido. Cuando los hombres vean que los amáis así, y cuando observen el fervor con que los servís, percibirán que sois hermanos por la fe en el reino de los cielos, y seguirán al Espíritu de la Verdad que verán en vuestra vida, hasta que encuentren la salvación eterna.» (<a id="a68_551"></a>[LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
 
 ¿Es visible el Espíritu de la Verdad en mi vida? ¿En la tuya?
 

@@ -38,7 +38,7 @@ Este evangelio del reino pertenece tanto a judíos como a gentiles, a ricos y po
 
 Como el Padre me envió a este mundo, así también yo os envío ahora. Todos ustedes están llamados a llevar las buenas nuevas a aquellos que se sientan en la oscuridad. Este evangelio del reino pertenece a todos los que creen en él; no será confiada a la custodia de meros sacerdotes. Pronto vendrá sobre vosotros el Espíritu de la Verdad, y os conducirá a toda la verdad. Id, pues, por todo el mundo predicando este evangelio, y he aquí yo estaré con vosotros todos los días, hasta el fin de los siglos.
 
-> «Acercándoos así a vuestros semejantes con una simpatía comprensiva y con una dedicación desinteresada, los conduciréis al conocimiento salvador del amor del Padre. Los judíos han ensalzado la bondad; los griegos han exaltado la belleza; los hindúes predican la devoción; los lejanos ascetas enseñan la veneración; los romanos exigen la lealtad; pero yo exijo la vida de mis discípulos, incluso una vida de servicio amoroso para vuestros hermanos en la carne.» ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
+> «Acercándoos así a vuestros semejantes con una simpatía comprensiva y con una dedicación desinteresada, los conduciréis al conocimiento salvador del amor del Padre. Los judíos han ensalzado la bondad; los griegos han exaltado la belleza; los hindúes predican la devoción; los lejanos ascetas enseñan la veneración; los romanos exigen la lealtad; pero yo exijo la vida de mis discípulos, incluso una vida de servicio amoroso para vuestros hermanos en la carne.» (<a id="a40_464"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
 Si dan sus vidas verdaderamente al evangelio, vivirán por el evangelio.
 

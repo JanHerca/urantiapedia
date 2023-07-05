@@ -38,9 +38,9 @@ Si se dice que un ser humano es bueno, esto significa que la persona tiene algun
 
 En el Eutifrón de Platón, se retrata a Sócrates en diálogo con un joven, Eutifrón, y la cuestión es si los dioses quieren lo que es bueno independientemente de que lo quieran, o si lo que quieren es bueno sólo porque lo quieren.
 
-> Todo conocimiento finito y toda comprensión por parte de las criaturas son *relativos.* La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos. ([LU 2:7.1](/es/The_Urantia_Book/2#p7_1))
+> Todo conocimiento finito y toda comprensión por parte de las criaturas son *relativos.* La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos. (<a id="a40_237"></a>[LU 2:7.1](/es/The_Urantia_Book/2#p7_1))
 
-> En su verdadera esencia, la religión es fe-confianza en la bondad de Dios. ([LU 2:6.1](/es/The_Urantia_Book/2#p6_1))
+> En su verdadera esencia, la religión es fe-confianza en la bondad de Dios. (<a id="a42_78"></a>[LU 2:6.1](/es/The_Urantia_Book/2#p6_1))
 
 ## El dilema de Eutifrón
 
@@ -104,9 +104,9 @@ Todas son cosas diferentes. Una cosa es buena en la medida en que es plenamente 
 
 En el análisis final, la analogía permite que el lenguaje extraído de nuestro universo espacio-temporal se aplique a un Dios atemporal y sin espacio y que este lenguaje se considere verdadero, pero el contenido de este lenguaje es extremadamente limitado.
 
-> La estancia mortal del hombre en la Tierra adquirió nuevos significados como consecuencia del reconocimiento de un noble destino. ([LU 170:2.7](/es/The_Urantia_Book/170#p2_7))
+> La estancia mortal del hombre en la Tierra adquirió nuevos significados como consecuencia del reconocimiento de un noble destino. (<a id="a106_133"></a>[LU 170:2.7](/es/The_Urantia_Book/170#p2_7))
 
-> ... el reino de los cielos era su experiencia personal consistente en obtener las cualidades superiores de la vida espiritual. ([LU 170:2.16](/es/The_Urantia_Book/170#p2_16))
+> ... el reino de los cielos era su experiencia personal consistente en obtener las cualidades superiores de la vida espiritual. (<a id="a108_130"></a>[LU 170:2.16](/es/The_Urantia_Book/170#p2_16))
 
 ## Metáfora
 
@@ -140,13 +140,13 @@ También puede conducir a una visión antropomórfica de Dios, ya que si Dios es
 
 [Este artículo apareció en el Boletín Catequista publicado por Educación Católica de Brisbane.]
 
-[Comentarios: El Documento de Urantia n.° 2, «La naturaleza de Dios», nos informa que «de todas las revelaciones de la naturaleza divina, la más instructiva y la más espiritualmente edificante ha de buscarse en la comprensión de la vida religiosa de Jesús de Nazaret». ([LU 2:0.2](/es/The_Urantia_Book/2#p0_2)) El libro también dice: «Aunque Jesús reveló la verdadera naturaleza del Padre celestial en su vida terrenal, enseñó poco acerca de él. De hecho, enseñó sólo dos cosas: que Dios en sí mismo es espíritu, y que, en todo lo relacionado con las relaciones con sus criaturas, es Padre».
+<a id="a142_0"></a>[Comentarios: El Documento de Urantia n.° 2, «La naturaleza de Dios», nos informa que «de todas las revelaciones de la naturaleza divina, la más instructiva y la más espiritualmente edificante ha de buscarse en la comprensión de la vida religiosa de Jesús de Nazaret». ([LU 2:0.2](/es/The_Urantia_Book/2#p0_2)) El libro también dice: «Aunque Jesús reveló la verdadera naturaleza del Padre celestial en su vida terrenal, enseñó poco acerca de él. De hecho, enseñó sólo dos cosas: que Dios en sí mismo es espíritu, y que, en todo lo relacionado con las relaciones con sus criaturas, es Padre».
 
 El evangelio de Juan ([14:9](/es/Bible/John/14#v9)) informa que Jesús dijo palabras como: «El que me ha visto a mí, ha visto al Padre». y en [14:11](/es/Bible/John/14#v11), «Yo estoy en el Padre y el Padre está en mí». El cristianismo generalmente tiene una creencia firme en la divinidad de Jesús, por lo que combinado con la evidencia del evangelio de Juan, es difícil concebir cómo la vida de Jesús puede interpretarse de otra manera que no sea como una revelación de la naturaleza de Dios, _lo que significa que hay cosas que podemos saber acerca de Dios_.
 
 Por lo tanto, parece que el redescubrimiento de la lógica aristotélica en el mundo occidental en el siglo XIII, y su posterior aplicación a la teología cristiana, pueden haber tenido enormes efectos nocivos en la espiritualización progresiva de los cristianos]
 
-> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. (<a id="a148_137"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 ## Enlaces externos
 

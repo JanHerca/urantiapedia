@@ -34,11 +34,11 @@ dateCreated: 2022-09-26T04:27:09.642Z
 </figure>
 
 
-> «_Sois mis mensajeros. estáis obligados a vivir vuestra vida como yo he vivido la mía en espíritu._» ([LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
+> «_Sois mis mensajeros. estáis obligados a vivir vuestra vida como yo he vivido la mía en espíritu._» (<a id="a36_104"></a>[LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
 
 A menudo se afirma que vivir nuestras vidas como Jesús vivió la suya es una proposición bastante poco práctica. Eso sería así si tratáramos de imitar a Jesús, pero su exhortación no era esa, más bien era vivir nuestras vidas como él en espíritu vivió la suya.
 
-También tenemos, «_Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió._» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3)) :
+También tenemos, «_Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió._» (<a id="a40_336"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)) :
 
 - Se humilde.
 - No te resistas al mal. Si alguien te golpea en la mejilla derecha, ponle la otra mejilla.

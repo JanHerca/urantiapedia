@@ -52,7 +52,7 @@ Conocí a John solo por correspondencia y por su contribución a Innerface Inter
 
 «No hay forma de avanzar si los lectores de _El Libro de Urantia_ no pueden reconocer que estas dos actividades no se excluyen mutuamente, que ambas son esenciales».
 
-«En _El Libro de Urantia_ hay una cita que dice: ‘La verdadera religión es la actuación de un alma individual en sus relaciones conscientes con el Creador; la religión organizada es el intento del hombre por socializar la adoración de los practicantes individuales de la religión... ’ ([LU 143:7.2](/es/The_Urantia_Book/143#p7_2))»
+«En _El Libro de Urantia_ hay una cita que dice: ‘La verdadera religión es la actuación de un alma individual en sus relaciones conscientes con el Creador; la religión organizada es el intento del hombre por socializar la adoración de los practicantes individuales de la religión... ’ (<a id="a54_286"></a>[LU 143:7.2](/es/The_Urantia_Book/143#p7_2))»
 
 «La alternativa a una religión organizada es la retención egoísta de los mensajes de _El Libro de Urantia_ por parte del individuo para el individuo, tal vez acompañada de la triste y casi inevitablemente fuera de lugar esperanza de que alguien más notará la santidad de uno y se beneficiará de ello».
 

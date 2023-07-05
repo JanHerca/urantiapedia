@@ -44,7 +44,7 @@ Si desea participar en una oración eficaz, debe tener en cuenta lo siguiente:
 - Tu oración estará dirigida exclusivamente a la sabiduría divina para resolver los problemas humanos específicos que se encuentran en la ascensión al Paraíso: el logro de la perfección divina.
 - Y debes tener fe, fe viva.
 
-> Puedes predicar una religión acerca de Jesús, pero, por fuerza, debes vivir la religión de Jesús. ([LU 195:4.4](/es/The_Urantia_Book/195#p4_4))
+> Puedes predicar una religión acerca de Jesús, pero, por fuerza, debes vivir la religión de Jesús. (<a id="a46_101"></a>[LU 195:4.4](/es/The_Urantia_Book/195#p4_4))
 
 ## Enlaces externos
 

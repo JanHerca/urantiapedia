@@ -42,15 +42,15 @@ Los reveladores de los Documentos de Urantia no cometen ese error. Admiten libre
 
 De todas las criaturas inteligentes que en realidad poseen la capacidad innata, otorgada por Dios, de lograr la conciencia de Dios, los urantianos somos los más bajos. Así que dejemos de lado la arrogancia de los demás y acerquémonos a lo que se puede conocer acerca de nuestro Creador con reverencia y humildad, reconociendo que al hacerlo solo podemos conocer lo que se revela desde lo alto.
 
-> «La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne». ([LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
+> «La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne». (<a id="a44_190"></a>[LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
 
-> «A pesar de la infinidad de las manifestaciones prodigiosas de la personalidad eterna y universal del Padre, él es incondicionalmente consciente de su infinidad y de su eternidad; asimismo, conoce plenamente su perfección y su poder. Aparte de sus divinos coordinados, es el único ser en el universo que experimenta una evaluación perfecta, adecuada y completa de sí mismo». ([LU 2:1.3](/es/The_Urantia_Book/2#p1_3))
+> «A pesar de la infinidad de las manifestaciones prodigiosas de la personalidad eterna y universal del Padre, él es incondicionalmente consciente de su infinidad y de su eternidad; asimismo, conoce plenamente su perfección y su poder. Aparte de sus divinos coordinados, es el único ser en el universo que experimenta una evaluación perfecta, adecuada y completa de sí mismo». (<a id="a46_378"></a>[LU 2:1.3](/es/The_Urantia_Book/2#p1_3))
 
-> «El Padre Universal ve el fin desde el principio; su plan divino y su propósito eterno abarcan y comprenden realmente todos los experimentos y todas las aventuras de todos sus subordinados, en todos los mundos, sistemas y constelaciones de todos los universos de sus inmensos dominios.» ([LU 2:1.4](/es/The_Urantia_Book/2#p1_4))
+> «El Padre Universal ve el fin desde el principio; su plan divino y su propósito eterno abarcan y comprenden realmente todos los experimentos y todas las aventuras de todos sus subordinados, en todos los mundos, sistemas y constelaciones de todos los universos de sus inmensos dominios.» (<a id="a48_290"></a>[LU 2:1.4](/es/The_Urantia_Book/2#p1_4))
 
 Nada es nuevo para Dios, y ningún evento cósmico nunca llega como una sorpresa; él habita el círculo de la eternidad. Él no tiene principio ni fin de días. Para Dios no hay pasado, presente o futuro; todo el tiempo está presente en cualquier momento dado. Él es el gran y único YO SOY.
 
-> «El Padre Universal es infinito en todos sus atributos de una manera absoluta y sin restricción; y este hecho, en sí mismo y por sí mismo, lo aísla automáticamente de toda comunicación personal directa con los seres materiales finitos y otras inteligencias inferiores creadas». ([LU 2:1.6](/es/The_Urantia_Book/2#p1_6))
+> «El Padre Universal es infinito en todos sus atributos de una manera absoluta y sin restricción; y este hecho, en sí mismo y por sí mismo, lo aísla automáticamente de toda comunicación personal directa con los seres materiales finitos y otras inteligencias inferiores creadas». (<a id="a52_281"></a>[LU 2:1.6](/es/The_Urantia_Book/2#p1_6))
 
 La comunicación del Padre Universal y sus criaturas mortales finitas es, necesariamente, a través de sus asociados.
 
@@ -86,7 +86,7 @@ Pablo, Agustín, Tomás de Aquino, Calvino y muchos otros han tenido una enorme 
 
 El Documento de Urantia n.º 2 hace una declaración enormemente importante que tiene el potencial de eliminar mucha confusión en el dogma cristiano: doctrinas como el pecado original, la expiación y muchas otras invenciones de los hombres que se remontan a la lógica errónea de Pablo, Agustín y sus sucesores:
 
-> «El afectuoso Padre celestial, cuyo espíritu reside en sus hijos de la Tierra, no es una personalidad dividida —una de justicia y otra de misericordia— ni tampoco se necesita un mediador para conseguir el favor o el perdón del Padre. La rectitud divina no está dominada por una estricta justicia retributiva; Dios como padre trasciende a Dios como juez». ([LU 2:6.6](/es/The_Urantia_Book/2#p6_6))
+> «El afectuoso Padre celestial, cuyo espíritu reside en sus hijos de la Tierra, no es una personalidad dividida —una de justicia y otra de misericordia— ni tampoco se necesita un mediador para conseguir el favor o el perdón del Padre. La rectitud divina no está dominada por una estricta justicia retributiva; Dios como padre trasciende a Dios como juez». (<a id="a88_358"></a>[LU 2:6.6](/es/The_Urantia_Book/2#p6_6))
 
 En resumen: «El amor y la misericordia de Dios como nuestro Padre trasciende la justicia de Dios como nuestro Juez».
 

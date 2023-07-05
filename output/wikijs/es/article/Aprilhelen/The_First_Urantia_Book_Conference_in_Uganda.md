@@ -45,7 +45,7 @@ Agosto de 2022 está marcado como un punto culminante en nuestra comunidad. Expe
 
 ## ¡Vamos equipo!
 
-> Una de las lecciones más importantes que debes aprender durante tu carrera mortal es el trabajo en equipo. ([LU 28:5.14](/es/The_Urantia_Book/28#p5_14))
+> Una de las lecciones más importantes que debes aprender durante tu carrera mortal es el trabajo en equipo. (<a id="a47_110"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14))
 
 Recientemente me convertí en el presidente del Comité de Jóvenes y Adultos Jóvenes (Ya YA) de The Urantia Book Fellowship (también conocido como Fellowship), habiendo servido en el comité durante una década. Dos de nuestros objetivos principales han sido el alcance (acción de varios comités) y el alcance (colaboración transorganizacional). Oluwatooni "Toni" Oyeyemi y yo somos buenos ejemplos de este objetivo. Hemos trabajado muy bien juntos durante los últimos años, actualmente como miembros del Comité Ya YA y sirviendo a varios comités, programas y organizaciones de Otro libro de Urantia. Él y yo nos hemos unido por nuestra pasión por nutrir a la juventud. Estamos de acuerdo en que la ruta más eficiente es vivir las enseñanzas lo mejor que podamos, siendo buenos ejemplos y dando los frutos del espíritu divino.
 
@@ -56,7 +56,7 @@ Recientemente me convertí en el presidente del Comité de Jóvenes y Adultos J�
 
 Toni y yo también servimos en el comité de Becas Internacionales (IFC) de la Fraternidad, y viajamos a Uganda como representantes. La conclusión compartida de nuestra experiencia en Uganda es la validación de la necesidad de elevar el trabajo en equipo. Esto significa involucrarse en una colaboración motivada espiritualmente, especialmente cuando se representa a una organización centrada en la espiritualidad.
 
-No sólo los espíritus afines se atraen entre sí, sino que las mentes afines también son muy fraternales e inclinadas a cooperar entre sí. ([LU 16:6.3](/es/The_Urantia_Book/16#p6_3))
+No sólo los espíritus afines se atraen entre sí, sino que las mentes afines también son muy fraternales e inclinadas a cooperar entre sí. (<a id="a58_139"></a>[LU 16:6.3](/es/The_Urantia_Book/16#p6_3))
 
 Nuestro hermano Toni tuvo una experiencia en la conferencia muy diferente a la mía, que también fue una experiencia importante de trabajo en equipo. Al día siguiente de su llegada, su cuerpo insistió en despedirse en la clínica de salud, que se encontraba convenientemente en el primer piso, justo debajo del hotel donde se realizaba la conferencia. Pudo ser abrazado por el cariñoso cuidado de varios de los asistentes. En sus palabras:
 

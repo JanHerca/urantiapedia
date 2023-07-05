@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-Siempre que la oración sea sincera y pronunciada con fe, no importa cuán desacertada o imposible la respuesta directa, toda oración de este tipo nunca deja de expandir nuestra receptividad espiritual. (de [LU 144:4.2](/es/The_Urantia_Book/144#p4_2))
+Siempre que la oración sea sincera y pronunciada con fe, no importa cuán desacertada o imposible la respuesta directa, toda oración de este tipo nunca deja de expandir nuestra receptividad espiritual. (de <a id="a36_205"></a>[LU 144:4.2](/es/The_Urantia_Book/144#p4_2))
 
 Por lo tanto, cualquier cosa que amplíe nuestra receptividad espiritual debe ser para nuestro bien. Es nuestra capacidad de receptividad espiritual lo que determina la presencia espiritual de la Divinidad en nuestras vidas, de ahí nuestro potencial para el crecimiento del alma. La buena noticia es que nuestra receptividad puede aumentar.
 

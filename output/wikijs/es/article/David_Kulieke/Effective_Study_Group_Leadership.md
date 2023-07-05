@@ -39,11 +39,11 @@ Un día, un joven que caminaba por la calle vio a tres personas luchando con un 
 
 Esta pequeña historia ilustra un punto que se hace en el Documento 81:
 
-> Diez hombres no valen mucho más que uno solo para levantar un gran peso, a menos que lo levanten todos juntos —todos al mismo tiempo. [[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)]
+> Diez hombres no valen mucho más que uno solo para levantar un gran peso, a menos que lo levanten todos juntos —todos al mismo tiempo. <a id="a41_136"></a>[[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)]
 
 Pero _El Libro de Urantia_ también describe lo que puede suceder cuando las personas trabajan juntas:
 
-> Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes. [[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)]
+> Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes. <a id="a45_147"></a>[[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)]
 
 La Revelación de Urantia necesita que nuestros grupos y nuestros líderes de grupo funcionen tan bien como puedan si queremos prosperar. Todos estamos dedicados a mejorar y hacer crecer el número de grupos de estudio de _El Libro de Urantia_. Al igual que usted, anhelo mejorar la espiritualidad de mi grupo de estudio, mantener o mejorar nuestra calidad de estudio y crear más estabilidad y comunidad. Todos siempre podemos mejorar lo que hacemos.
 
@@ -51,7 +51,7 @@ A menudo recuerdo una imagen de una campaña política reciente, la visión de c
 
 Si nuestros grupos de Urantia van a irrumpir con nuevo vigor y éxito, estos grupos deben depender mucho de su liderazgo. Ampliemos la primera cita que leemos:
 
-> La civilización depende mucho, muchísimo, de un espíritu de cooperación entusiasta y eficaz. Diez hombres no valen mucho más que uno solo para levantar un gran peso, a menos que lo levanten todos juntos —todos al mismo tiempo. Este trabajo de equipo —la cooperación social— depende de los dirigentes. Las civilizaciones culturales del pasado y del presente han estado basadas en la cooperación inteligente de los ciudadanos con unos jefes sabios y progresivos; y hasta que el hombre no alcance por evolución unos niveles más elevados, la civilización continuará dependiendo de una autoridad sabia y vigorosa. [[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)]
+> La civilización depende mucho, muchísimo, de un espíritu de cooperación entusiasta y eficaz. Diez hombres no valen mucho más que uno solo para levantar un gran peso, a menos que lo levanten todos juntos —todos al mismo tiempo. Este trabajo de equipo —la cooperación social— depende de los dirigentes. Las civilizaciones culturales del pasado y del presente han estado basadas en la cooperación inteligente de los ciudadanos con unos jefes sabios y progresivos; y hasta que el hombre no alcance por evolución unos niveles más elevados, la civilización continuará dependiendo de una autoridad sabia y vigorosa. <a id="a53_611"></a>[[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)]
 
 Tales líderes «_sabios y vigorosos_» deben comprender qué problemas abordarán y cómo los abordarán. Creo que las tres principales preocupaciones a las que se enfrentan los grupos de estudio son la necesidad de una mayor pero real espiritualidad dentro de nuestros grupos, un mejor estudio de _El Libro de Urantia_ y una mayor atención prestada a mejorar nuestro sentido de comunidad. Un liderazgo sabio y vigoroso considerará cómo mejorar con gracia y de manera adecuada la oración y la adoración, el estudio efectivo y las relaciones sólidas dentro de sus grupos.
 
@@ -61,39 +61,39 @@ _El Libro de Urantia_ deja en claro el valor de la oración y la adoración en g
 
 Bill Sadler dijo: «__El Libro de Urantia_ no es un fin en sí mismo; es un medio para un fin._» De hecho, he escuchado esta idea muchas veces y la he dicho yo mismo. Debería ser obvio; después de todo, la realidad física de _El Libro de Urantia_ no es más que madera procesada que contiene símbolos abstractos negros en una página blanca que debe traducirse en palabras y luego convertirse en hechos, conocimiento, significado y valores. Si se aplican, estos valores pueden eventualmente conducir a relaciones entre personalidades, incluso entre nosotros y Dios; finalmente, fines en sí mismos. Entonces, en realidad, el libro es un medio para un medio para un medio para, bueno, entiendes la idea, para un fin.
 
-Algunas de nuestras metas o fines más importantes se expresan claramente en el pasaje frecuentemente citado del artículo «_Supervivencia de la personalidad_»: _Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. Toda verdadera relación del hombre mortal con otras personas —humanas o divinas— es un fin en sí misma._ [[LU 112:2.8](/es/The_Urantia_Book/112#p2_8)]
+Algunas de nuestras metas o fines más importantes se expresan claramente en el pasaje frecuentemente citado del artículo «_Supervivencia de la personalidad_»: _Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. Toda verdadera relación del hombre mortal con otras personas —humanas o divinas— es un fin en sí misma._ <a id="a63_378"></a>[[LU 112:2.8](/es/The_Urantia_Book/112#p2_8)]
 
-También se nos dice que: _La experiencia espiritual es la verdadera alma del cosmos del hombre._ [[LU 102:4.6](/es/The_Urantia_Book/102#p4_6)]
+También se nos dice que: _La experiencia espiritual es la verdadera alma del cosmos del hombre._ <a id="a65_97"></a>[[LU 102:4.6](/es/The_Urantia_Book/102#p4_6)]
 
 Aunque _El Libro de Urantia_ enfatiza fuertemente nuestra relación personal con Dios como nuestra actividad espiritual más importante, el libro también nos anima a orar y adorar en nuestros grupos.
 
-Leemos: «_…no es necesario que la oración sea siempre individual. La oración en grupo o en asamblea es muy eficaz ya que sus repercusiones son extremadamente socializadoras. Cuando un grupo se dedica a orar en común por el acrecentamiento moral y la elevación espiritual, estas devociones producen efecto en los individuos que componen el grupo; todos se vuelven mejores gracias a esta participación._» [[LU 91:5.2](/es/The_Urantia_Book/91#p5_2)]
+Leemos: «_…no es necesario que la oración sea siempre individual. La oración en grupo o en asamblea es muy eficaz ya que sus repercusiones son extremadamente socializadoras. Cuando un grupo se dedica a orar en común por el acrecentamiento moral y la elevación espiritual, estas devociones producen efecto en los individuos que componen el grupo; todos se vuelven mejores gracias a esta participación._» <a id="a69_403"></a>[[LU 91:5.2](/es/The_Urantia_Book/91#p5_2)]
 
-Con frecuencia he escuchado hablar sobre la importancia de traer más espiritualidad a nuestros grupos de estudio. Que tal deseo exista no es sorprendente. Históricamente, los primeros lectores trataron de evitar convertir nuestro estudio de _El Libro de Urantia_ en una iglesia, quizás debido a sus propias experiencias, quizás porque querían evitar cualquier tipo de interpretación autorizada o jerarquía eclesiástica. Pero es posible que la atmósfera de un grupo de estudio no conduzca a la adoración y la oración tan fácilmente como la de una iglesia o templo donde existen rituales y enfoques prescritos para la adoración en edificios diseñados para ese propósito. Sin embargo, _El Libro de Urantia_ sugiere claramente que nos beneficiamos de la oración, el agradecimiento y la adoración en grupo: «_Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro. De esta manera, los hombres enriquecen su alma poniendo en común sus posesiones espirituales respectivas._» [[LU 160:2.7](/es/The_Urantia_Book/160#p2_7)] 
+Con frecuencia he escuchado hablar sobre la importancia de traer más espiritualidad a nuestros grupos de estudio. Que tal deseo exista no es sorprendente. Históricamente, los primeros lectores trataron de evitar convertir nuestro estudio de _El Libro de Urantia_ en una iglesia, quizás debido a sus propias experiencias, quizás porque querían evitar cualquier tipo de interpretación autorizada o jerarquía eclesiástica. Pero es posible que la atmósfera de un grupo de estudio no conduzca a la adoración y la oración tan fácilmente como la de una iglesia o templo donde existen rituales y enfoques prescritos para la adoración en edificios diseñados para ese propósito. Sin embargo, _El Libro de Urantia_ sugiere claramente que nos beneficiamos de la oración, el agradecimiento y la adoración en grupo: «_Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro. De esta manera, los hombres enriquecen su alma poniendo en común sus posesiones espirituales respectivas._» <a id="a71_1024"></a>[[LU 160:2.7](/es/The_Urantia_Book/160#p2_7)] 
 
 Sin embargo, la forma en que llevamos nuestra comunión espiritual a un grupo puede ser una tarea delicada y un desafío para los líderes de los grupos de estudio. Un grupo en el que estaba debatió la propuesta de una oración obligatoria para comenzar cada reunión, mientras que otros querían solo un momento de silencio y otros no querían ninguna oración. Nos comprometimos a hacerlo voluntario para el líder de cada reunión. Muchos lectores sinceros se sienten bastante incómodos con las devociones grupales, ya sea por la forma, porque se les pide que participen en una actividad que es personalmente incómoda, por el propio trasfondo religioso, por la incomodidad con un enfoque que se siente místico o por una miríada de otras razones. Debemos ser conscientes de las sensibilidades de los miembros del grupo si van a seguir siendo miembros del grupo. Como consecuencia, el grupo necesita una sólida comprensión de lo que _El Libro de Urantia_ realmente nos enseña sobre nuestras comuniones espirituales. Hay muchas referencias sobre la oración efectiva y ética que incluyen descripciones tanto de enfoques cuestionables como genuinos.
 
 Leemos:
 
-> No seáis tan perezosos como para pedirle a Dios que resuelva vuestras dificultades, pero no dudéis nunca en pedirle sabiduría y fuerza espiritual para que os guíen y os sostengan mientras atacáis con resolución y valor los problemas diarios. [[LU 91:6.5](/es/The_Urantia_Book/91#p6_5)]
+> No seáis tan perezosos como para pedirle a Dios que resuelva vuestras dificultades, pero no dudéis nunca en pedirle sabiduría y fuerza espiritual para que os guíen y os sostengan mientras atacáis con resolución y valor los problemas diarios. <a id="a77_244"></a>[[LU 91:6.5](/es/The_Urantia_Book/91#p6_5)]
 
->  La oración no se puede emplear para evitar las demoras del tiempo ni para trascender los obstáculos del espacio. [[LU 146:2.9](/es/The_Urantia_Book/146#p2_9)]
+>  La oración no se puede emplear para evitar las demoras del tiempo ni para trascender los obstáculos del espacio. <a id="a79_116"></a>[[LU 146:2.9](/es/The_Urantia_Book/146#p2_9)]
 
-> La oración nunca debe prostituirse hasta el punto de convertirse en un sustituto de la acción. [[LU 91:4.2](/es/The_Urantia_Book/91#p4_2)]
+> La oración nunca debe prostituirse hasta el punto de convertirse en un sustituto de la acción. <a id="a81_97"></a>[[LU 91:4.2](/es/The_Urantia_Book/91#p4_2)]
 
-> La verdadera oración es la actitud sincera de tender la mano hacia el cielo para conseguir vuestros ideales. [[LU 144:2.2](/es/The_Urantia_Book/144#p2_2)] En todas vuestras oraciones, sed equitativos; no esperéis que Dios muestre predilecciones, que os ame más que a sus otros hijos, vuestros amigos, vecinos e incluso vuestros enemigos. [[LU 91:4.3](/es/The_Urantia_Book/91#p4_3)]
+> La verdadera oración es la actitud sincera de tender la mano hacia el cielo para conseguir vuestros ideales. <a id="a83_111"></a>[[LU 144:2.2](/es/The_Urantia_Book/144#p2_2)] En todas vuestras oraciones, sed equitativos; no esperéis que Dios muestre predilecciones, que os ame más que a sus otros hijos, vuestros amigos, vecinos e incluso vuestros enemigos. <a id="a83_340"></a>[[LU 91:4.3](/es/The_Urantia_Book/91#p4_3)]
 
-> Recordad que, aunque la oración no cambia a Dios, realiza con mucha frecuencia unos cambios importantes y duraderos en aquel que ora... [[LU 91:4.5](/es/The_Urantia_Book/91#p4_5)]
+> Recordad que, aunque la oración no cambia a Dios, realiza con mucha frecuencia unos cambios importantes y duraderos en aquel que ora... <a id="a85_138"></a>[[LU 91:4.5](/es/The_Urantia_Book/91#p4_5)]
 
-_El Libro de Urantia_ advierte sobre ciertos tipos de misticismo: «_El misticismo... es a menudo una especie de retirada de la vida, siendo abrazado por aquellos humanos que no disfrutan con las actividades más vigorosas de una vida religiosa vivida en las esferas abiertas de la sociedad y del comercio humanos. La verdadera religión debe actuar._» [[LU 102:2.8](/es/The_Urantia_Book/102#p2_8)] Cuando la oración se vuelve demasiado estética…, «_pierde una gran parte de su influencia socializadora y tiende hacia el misticismo y el aislamiento de sus adeptos. El exceso de oración en privado implica cierto peligro que se puede corregir e impedir mediante la oración en grupo, las devociones colectivas._» [[LU 91:7.13](/es/The_Urantia_Book/91#p7_13)]
+_El Libro de Urantia_ advierte sobre ciertos tipos de misticismo: «_El misticismo... es a menudo una especie de retirada de la vida, siendo abrazado por aquellos humanos que no disfrutan con las actividades más vigorosas de una vida religiosa vivida en las esferas abiertas de la sociedad y del comercio humanos. La verdadera religión debe actuar._» <a id="a87_350"></a>[[LU 102:2.8](/es/The_Urantia_Book/102#p2_8)] Cuando la oración se vuelve demasiado estética…, «_pierde una gran parte de su influencia socializadora y tiende hacia el misticismo y el aislamiento de sus adeptos. El exceso de oración en privado implica cierto peligro que se puede corregir e impedir mediante la oración en grupo, las devociones colectivas._» <a id="a87_708"></a>[[LU 91:7.13](/es/The_Urantia_Book/91#p7_13)]
 
-Los líderes de los grupos de estudio también pueden considerar lo que _El Libro de Urantia_ dice sobre nuestras relaciones de trabajo reales con nuestros Ajustadores del Pensamiento, ya que estos líderes intentan hacer que las prácticas de oración y adoración de sus grupos sean válidas y atractivas: Se nos dice: «Cada decisión que tomáis impide o facilita la función del Ajustador..._» [[LU 110:6.6](/es/The_Urantia_Book/110#p6_6)]
+Los líderes de los grupos de estudio también pueden considerar lo que _El Libro de Urantia_ dice sobre nuestras relaciones de trabajo reales con nuestros Ajustadores del Pensamiento, ya que estos líderes intentan hacer que las prácticas de oración y adoración de sus grupos sean válidas y atractivas: Se nos dice: «Cada decisión que tomáis impide o facilita la función del Ajustador..._» <a id="a89_388"></a>[[LU 110:6.6](/es/The_Urantia_Book/110#p6_6)]
 
-> No debéis considerar que la cooperación con vuestro Ajustador es un proceso particularmente consciente, porque no lo es... [[LU 110:3.6](/es/The_Urantia_Book/110#p3_6)]
+> No debéis considerar que la cooperación con vuestro Ajustador es un proceso particularmente consciente, porque no lo es... <a id="a91_125"></a>[[LU 110:3.6](/es/The_Urantia_Book/110#p3_6)]
 
-> Aunque la voz del Ajustador está siempre dentro de vosotros, la mayoría de vosotros la escuchará raramente durante la vida. [[LU 110:7.9](/es/The_Urantia_Book/110#p7_9)]
+> Aunque la voz del Ajustador está siempre dentro de vosotros, la mayoría de vosotros la escuchará raramente durante la vida. <a id="a93_126"></a>[[LU 110:7.9](/es/The_Urantia_Book/110#p7_9)]
 
-> … es peligroso albergar la idea de que cada nuevo concepto que se origina en la mente humana es dictado por el Ajustador. Con más frecuencia, y en los seres de vuestra orden, aquello que aceptáis como la voz del Ajustador es en realidad la emanación de vuestro propio intelecto. [[LU 110:5.6](/es/The_Urantia_Book/110#p5_6)]
+> … es peligroso albergar la idea de que cada nuevo concepto que se origina en la mente humana es dictado por el Ajustador. Con más frecuencia, y en los seres de vuestra orden, aquello que aceptáis como la voz del Ajustador es en realidad la emanación de vuestro propio intelecto. <a id="a95_281"></a>[[LU 110:5.6](/es/The_Urantia_Book/110#p5_6)]
 
 Es difícil complacer completamente a cada miembro del grupo cuando se trata de inculcar prácticas grupales de oración y adoración. Sin embargo, los líderes de grupo podrían considerar incluir el bienestar de sus grupos cuando estén orando y adorando individualmente. Recuerde las sugerencias del libro para «_resolver problemas con adoración_», un hábito constante de Jesús.
 
@@ -109,27 +109,27 @@ Por tanto, una de las tareas más importantes de los líderes de los grupos de e
 
 Varias referencias apoyan esta idea:
 
-> El espíritu divino no se pone en contacto con el hombre mortal por medio de los sentimientos o las emociones, sino en el ámbito de los pensamientos más elevados y más espiritualizados. Son vuestros pensamientos, y no vuestros sentimientos, los que os conducen hacia Dios. [[LU 101:1.3](/es/The_Urantia_Book/101#p1_3)]
+> El espíritu divino no se pone en contacto con el hombre mortal por medio de los sentimientos o las emociones, sino en el ámbito de los pensamientos más elevados y más espiritualizados. Son vuestros pensamientos, y no vuestros sentimientos, los que os conducen hacia Dios. <a id="a111_274"></a>[[LU 101:1.3](/es/The_Urantia_Book/101#p1_3)]
 
-> La mente material es el ámbito en el que viven las personalidades humanas, son conscientes de sí mismas, toman sus decisiones, escogen o abandonan a Dios, se eternizan o se destruyen a sí mismas. [[LU 111:1.3](/es/The_Urantia_Book/111#p1_3)]
+> La mente material es el ámbito en el que viven las personalidades humanas, son conscientes de sí mismas, toman sus decisiones, escogen o abandonan a Dios, se eternizan o se destruyen a sí mismas. <a id="a113_198"></a>[[LU 111:1.3](/es/The_Urantia_Book/111#p1_3)]
 
-> ...para emprender esta aventura tan magnífica y fascinante a través del espacio y por medio de la progresión del tiempo, [el hombre mortal] debe empezar por organizar sus conocimientos en ideas-decisiones... [[LU 101:6.7](/es/The_Urantia_Book/101#p6_7)]
+> ...para emprender esta aventura tan magnífica y fascinante a través del espacio y por medio de la progresión del tiempo, [el hombre mortal] debe empezar por organizar sus conocimientos en ideas-decisiones... <a id="a115_210"></a>[[LU 101:6.7](/es/The_Urantia_Book/101#p6_7)]
 
 También vemos este énfasis en el aprendizaje humano en la vida de Jesús. La misión principal del otorgamiento de Miguel en Urantia fue la de Dios conociendo al hombre, del Hijo Creador de Nebadon mejorando su comprensión y empatía por sus criaturas. La educación de Jesús mientras estuvo en la tierra fue suprema, y ​​aprendió todo lo que pudo sobre los seres humanos incluso cuando los amaba. Trabajó en muchas profesiones y se hizo experto en varias, viajó donde pudo por todo el mundo civilizado, y fue un estudioso de la religión y la historia y todo lo humano.
 
 Con respecto al aprendizaje permanente de Jesús, se nos dice que:
 
-> Siendo niño [Jesús] acumuló un enorme conjunto de conocimientos; cuando joven ordenó, clasificó y correlacionó esta información. Ahora como hombre del mundo, empieza a organizar estas posesiones mentales con vistas a utilizarlas en su futura enseñanza, ministerio y servicio... [[LU 127:6.14](/es/The_Urantia_Book/127#p6_14)]
+> Siendo niño [Jesús] acumuló un enorme conjunto de conocimientos; cuando joven ordenó, clasificó y correlacionó esta información. Ahora como hombre del mundo, empieza a organizar estas posesiones mentales con vistas a utilizarlas en su futura enseñanza, ministerio y servicio... <a id="a121_280"></a>[[LU 127:6.14](/es/The_Urantia_Book/127#p6_14)]
 
-> Las enseñanzas de Jesús constituyeron la primera religión urantiana que abarcó tan plenamente una coordinación armoniosa de conocimiento, sabiduría, fe, verdad y amor... [[LU 101:6.8](/es/The_Urantia_Book/101#p6_8)]
+> Las enseñanzas de Jesús constituyeron la primera religión urantiana que abarcó tan plenamente una coordinación armoniosa de conocimiento, sabiduría, fe, verdad y amor... <a id="a123_172"></a>[[LU 101:6.8](/es/The_Urantia_Book/101#p6_8)]
 
 Al igual que Jesús, una tarea importante de nuestras carreras en Urantia es aprender todo lo que podamos sobre los demás y sobre el mundo que nos rodea. Sugeriría que no sólo queremos estudiar _El Libro de Urantia_ lo mejor que podamos en nuestros grupos de estudio, sino que también queremos educarnos individualmente sobre otros temas. Soy profesora de inglés y música, pero creo que, después de todo lo que estudiamos por nuestra vocación y nuestros intereses, algunas actividades intelectuales primarias incluyen la historia y luego integrar todo lo que aprendemos. Se nos dice que:
 
-> La religión revelada es el elemento unificador de la existencia humana. La revelación unifica la historia, coordina la geología, la astronomía, la física, la química, la biología, la sociología y la psicología. [[LU 102:4.6](/es/The_Urantia_Book/102#p4_6)]
+> La religión revelada es el elemento unificador de la existencia humana. La revelación unifica la historia, coordina la geología, la astronomía, la física, la química, la biología, la sociología y la psicología. <a id="a127_213"></a>[[LU 102:4.6](/es/The_Urantia_Book/102#p4_6)]
 
-> Al principio, la vida era una lucha por la existencia; hoy es una lucha por el nivel de vida, y en el futuro lo será por la calidad del pensamiento, la próxima meta terrestre de la existencia humana. [[LU 81:6.28](/es/The_Urantia_Book/81#p6_28)]
+> Al principio, la vida era una lucha por la existencia; hoy es una lucha por el nivel de vida, y en el futuro lo será por la calidad del pensamiento, la próxima meta terrestre de la existencia humana. <a id="a129_202"></a>[[LU 81:6.28](/es/The_Urantia_Book/81#p6_28)]
 
-> La finalidad de la educación es desarrollar y agudizar estos dones innatos de la mente humana; la de la civilización es expresarlos; la de la experiencia de la vida, realizarlos; la de la religión, ennoblecerlos; y la de la personalidad, unificarlos. [[LU 16:6.11](/es/The_Urantia_Book/16#p6_11)]
+> La finalidad de la educación es desarrollar y agudizar estos dones innatos de la mente humana; la de la civilización es expresarlos; la de la experiencia de la vida, realizarlos; la de la religión, ennoblecerlos; y la de la personalidad, unificarlos. <a id="a131_253"></a>[[LU 16:6.11](/es/The_Urantia_Book/16#p6_11)]
 
 ## Cómo estudiar de forma más eficaz
 
@@ -153,7 +153,7 @@ No creo que debamos disculparnos nunca por tratar de mejorar la calidad del pens
 
 Leemos que:
 
-> «Cuando el desarrollo de la naturaleza intelectual avanza más deprisa que el de la espiritual, esta situación hace que la comunicación con el Ajustador del Pensamiento resulte difícil y peligrosa. Asimismo, un desarrollo espiritual excesivo tiende a ocasionar una interpretación fanática y desnaturalizada de las directrices espirituales del habitante divino». [[LU 110:6.4](/es/The_Urantia_Book/110#p6_4)]
+> «Cuando el desarrollo de la naturaleza intelectual avanza más deprisa que el de la espiritual, esta situación hace que la comunicación con el Ajustador del Pensamiento resulte difícil y peligrosa. Asimismo, un desarrollo espiritual excesivo tiende a ocasionar una interpretación fanática y desnaturalizada de las directrices espirituales del habitante divino». <a id="a155_363"></a>[[LU 110:6.4](/es/The_Urantia_Book/110#p6_4)]
 
 El equilibrio es la clave.
 
@@ -163,15 +163,15 @@ Además de abordar la oración y la adoración, así como buscar mejorar el estu
 
 Nos dijeron:
 
-> La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia. Es literalmente cierto que «ningún hombre vive para sí mismo». [[LU 112:1.16](/es/The_Urantia_Book/112#p1_16)]
+> La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia. Es literalmente cierto que «ningún hombre vive para sí mismo». <a id="a165_237"></a>[[LU 112:1.16](/es/The_Urantia_Book/112#p1_16)]
 
-> Los Creadores saben bien que «_no es bueno que el hombre esté solo_», y, en consecuencia, toman sus disposiciones para que esté acompañado, incluso en el Paraíso. [[LU 25:8.4](/es/The_Urantia_Book/25#p8_4)]
+> Los Creadores saben bien que «_no es bueno que el hombre esté solo_», y, en consecuencia, toman sus disposiciones para que esté acompañado, incluso en el Paraíso. <a id="a167_165"></a>[[LU 25:8.4](/es/The_Urantia_Book/25#p8_4)]
 
 Si nadie hubiera mencionado nada sobre los grupos de estudio, los habríamos inventado, no solo por el bien de la oración grupal y el estudio mejorado, sino por el bien de la relación y la comunidad.
 
-> La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo. Todas las religiones vivientes estimulan la amistad humana, conservan la moralidad, promueven el bienestar de la vecindad y facilitan la difusión del evangelio esencial contenido en sus respectivos mensajes de salvación eterna. [[LU 99:6.2](/es/The_Urantia_Book/99#p6_2)]
+> La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo. Todas las religiones vivientes estimulan la amistad humana, conservan la moralidad, promueven el bienestar de la vecindad y facilitan la difusión del evangelio esencial contenido en sus respectivos mensajes de salvación eterna. <a id="a171_740"></a>[[LU 99:6.2](/es/The_Urantia_Book/99#p6_2)]
 
-> El potencial del grupo es siempre muy superior a la simple suma de los atributos de los individuos que lo componen. [[LU 10:5.2](/es/The_Urantia_Book/10#p5_2)]
+> El potencial del grupo es siempre muy superior a la simple suma de los atributos de los individuos que lo componen. <a id="a173_118"></a>[[LU 10:5.2](/es/The_Urantia_Book/10#p5_2)]
 
 Vuelvo a recordar nuestra historia de evitar una institución semejante a una iglesia. Las razones pueden ser obvias, que no queremos la rigidez y la autoridad que una iglesia podría aportar y que no queremos que nada de lo que una institución pueda erigir se interponga entre nosotros y las verdades reveladoras de _El Libro de Urantia_.
 
@@ -196,7 +196,7 @@ En la penúltima página de _El Libro de Urantia_ leemos:
 > “Hay tres pruebas distintas de que este espíritu habita en la mente humana:
 > 1\. La comunión humanitaria —el amor.
 > 2\. La interpretación del universo —la sabiduría.
-> 3\. La evaluación espiritual de la vida —la adoración._” [[LU 196:3.6-9](/es/The_Urantia_Book/196#p3_6)]
+> 3\. La evaluación espiritual de la vida —la adoración._” <a id="a198_59"></a>[[LU 196:3.6-9](/es/The_Urantia_Book/196#p3_6)]
 
 Los grupos de estudio son lugares muy, muy importantes y los anfitriones de los grupos de estudio son líderes muy, muy importantes en nuestra búsqueda de una comunidad más fuerte, una comprensión progresiva y una oración y adoración más plenas y reales.
 

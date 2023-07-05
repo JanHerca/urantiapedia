@@ -80,9 +80,9 @@ Meredith Sprunger es, con mucho, nuestra observadora mejor calificada en esta á
 
 Incluso pensar que los reveladores no sabían que ese sería el caso es lanzar calumnias que indican ingenuidad de su parte. ¡Sin embargo, los Documentos no dejan ninguna duda de que su contenido está destinado a mejorar todas las religiones! Se espera que encontremos una manera.
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» (<a id="a82_349"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
-> «El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso. ([LU 195:10.4](/es/The_Urantia_Book/195#p10_4))
+> «El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso. (<a id="a84_189"></a>[LU 195:10.4](/es/The_Urantia_Book/195#p10_4))
 
 En esta sección, se nos dice que tomemos el mensaje de los Documentos y lo presentemos de una manera aceptable para todo tipo de hombres.
 

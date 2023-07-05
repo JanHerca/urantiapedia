@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> «Por lo tanto, José tenía la costumbre de sacar a caminar a Jesús los sábados por la tarde, siendo uno de sus paseos favoritos subir a la alta colina cerca de su casa, desde donde podían obtener una vista panorámica de toda Galilea». [LU 123:5.12](/es/The_Urantia_Book/123#p5_12)
+> «Por lo tanto, José tenía la costumbre de sacar a caminar a Jesús los sábados por la tarde, siendo uno de sus paseos favoritos subir a la alta colina cerca de su casa, desde donde podían obtener una vista panorámica de toda Galilea». <a id="a43_236"></a>[LU 123:5.12](/es/The_Urantia_Book/123#p5_12)
 
 
 

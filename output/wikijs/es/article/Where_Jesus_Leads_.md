@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > «Enseñó a los hombres a que se atribuyeran un alto valor en el tiempo y en la eternidad. Como Jesús tenía esta alta estima por los hombres, estaba dispuesto a dedicarse al servicio incansable de la humanidad. Este valor infinito que atribuía a lo finito es lo que hacía que la regla de oro fuera un factor vital en su religión. ¿Qué mortal puede dejar de sentirse elevado por la fe extraordinaria que Jesús tiene en él?»
 > 
-> «Jesús no ofreció ninguna regla para el progreso social; su misión era religiosa, y la religión es una experiencia exclusivamente individual. La meta última del logro más avanzado de la sociedad nunca puede esperar trascender la fraternidad de los hombres enseñada por Jesús, basada en el reconocimiento de la paternidad de Dios. El ideal de todo logro social sólo se puede realizar con la llegada de este reino divino.» ([LU 196:2.9-11](/es/The_Urantia_Book/196#p2_9))
+> «Jesús no ofreció ninguna regla para el progreso social; su misión era religiosa, y la religión es una experiencia exclusivamente individual. La meta última del logro más avanzado de la sociedad nunca puede esperar trascender la fraternidad de los hombres enseñada por Jesús, basada en el reconocimiento de la paternidad de Dios. El ideal de todo logro social sólo se puede realizar con la llegada de este reino divino.» (<a id="a37_424"></a>[LU 196:2.9-11](/es/The_Urantia_Book/196#p2_9))
 
 ## Enlaces externos
 

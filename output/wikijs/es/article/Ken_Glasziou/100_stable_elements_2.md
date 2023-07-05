@@ -42,7 +42,7 @@ Sin embargo, la mayoría de los lectores nuevos y conocedores sabrán sobre la p
 
 ## Contenido
 
-> En Orvonton nunca ha sido posible reunir de forma natural más de cien electrones orbitales en un solo sistema atómico. Cuando ciento un electrones se han introducido artificialmente en un campo orbital, el resultado siempre ha sido la desorganización casi instantánea ... ([LU 42:7.7](/es/The_Urantia_Book/42#p7_7))
+> En Orvonton nunca ha sido posible reunir de forma natural más de cien electrones orbitales en un solo sistema atómico. Cuando ciento un electrones se han introducido artificialmente en un campo orbital, el resultado siempre ha sido la desorganización casi instantánea ... (<a id="a44_275"></a>[LU 42:7.7](/es/The_Urantia_Book/42#p7_7))
 
 
 El texto de arriba es de la primera impresión, alguien se tomó la libertad de agregar las palabras «casi» antes de «instantáneo» en ediciones posteriores. La palabra importante a tener en cuenta es «naturalmente».

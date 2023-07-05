@@ -54,11 +54,11 @@ Esa devoción de amor fue contagiosa a lo largo de un vasto universo; los discí
 
 La cruz hace un llamamiento supremo a lo mejor del hombre porque revela a alguien que estuvo dispuesto a dar su vida al servicio de sus semejantes.
 
-> Nadie puede tener un amor más grande que éste: el de estar dispuesto a dar su vida por sus amigos —y Jesús tenía tal amor, que estaba dispuesto a dar su vida por sus enemigos, un amor más grande que cualquier otro que se hubiera conocido hasta ese momento en la Tierra. ([LU 188:5.7](/es/The_Urantia_Book/188#p5_7))
+> Nadie puede tener un amor más grande que éste: el de estar dispuesto a dar su vida por sus amigos —y Jesús tenía tal amor, que estaba dispuesto a dar su vida por sus enemigos, un amor más grande que cualquier otro que se hubiera conocido hasta ese momento en la Tierra. (<a id="a56_273"></a>[LU 188:5.7](/es/The_Urantia_Book/188#p5_7))
 
 > Predicas un sermón más verdadero con tu vida que con tus labios.
 
-> Cuando los hombres y las mujeres inteligentes contemplan a Jesús ofreciendo su vida en la cruz, difícilmente se atreverán a quejarse de nuevo ni siquiera de las penalidades más duras de la vida, y mucho menos de las pequeñas incomodidades y sus muchas molestias puramente ficticias. ([LU 188:5.10](/es/The_Urantia_Book/188#p5_10))
+> Cuando los hombres y las mujeres inteligentes contemplan a Jesús ofreciendo su vida en la cruz, difícilmente se atreverán a quejarse de nuevo ni siquiera de las penalidades más duras de la vida, y mucho menos de las pequeñas incomodidades y sus muchas molestias puramente ficticias. (<a id="a60_286"></a>[LU 188:5.10](/es/The_Urantia_Book/188#p5_10))
 
 ## Enlaces externos
 

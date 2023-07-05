@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 La plétora de profundidad vertida en los Documentos de Urantia es tal que simples mortales como nosotros lo leemos sin digerirlo, lo repasamos sin entenderlo.
 
-Una profundidad del _Libro de Urantia_ afirma: «_***La religión es una experiencia viviente y dinámica consistente en alcanzar la divinidad, basada en el servicio a la humanidad***._» ([LU 5:4.1](/es/The_Urantia_Book/5#p4_1))
+Una profundidad del _Libro de Urantia_ afirma: «_***La religión es una experiencia viviente y dinámica consistente en alcanzar la divinidad, basada en el servicio a la humanidad***._» (<a id="a38_185"></a>[LU 5:4.1](/es/The_Urantia_Book/5#p4_1))
 
 Con esa definición arraigada, ¿no debería estar más que orgulloso de tener una religión? De hecho, si no tengo una religión, entonces seguramente debería tener miedo de haber puesto en peligro mi carrera eterna.
 
@@ -46,7 +46,7 @@ Y si el movimiento Urantia no es una actividad religiosa, ¿qué es entonces?
 
 Presumiblemente, lo que es «no religioso» debe ser «no religioso». Esa parece ser una conclusión bastante lógica. Pero los reveladores declaran, «**todas las actividades no religiosas buscan atar el universo al distorsionador servicio del yo.**» Así es donde las cosas pueden haber ido mal—el movimiento ha despreciado el «servicio a la humanidad» y sucumbido al distorsionando el servicio de uno mismo?
 
-Los reveladores declaran además: «_El individuo verdaderamente religioso intenta identificar su yo con el universo, y luego dedicar las actividades de ese yo unificado al servicio de la familia universal de sus semejantes, humanos y superhumanos._» ([LU 5:4.3](/es/The_Urantia_Book/5#p4_3))
+Los reveladores declaran además: «_El individuo verdaderamente religioso intenta identificar su yo con el universo, y luego dedicar las actividades de ese yo unificado al servicio de la familia universal de sus semejantes, humanos y superhumanos._» (<a id="a48_250"></a>[LU 5:4.3](/es/The_Urantia_Book/5#p4_3))
 
 Pensándolo bien, puede ser una conclusión válida que las organizaciones de lectores de _El Libro de Urantia_ tienden a involucrar a los miembros en la actividad intelectual y dejan el «servicio a la humanidad» a las actividades privadas del individuo.
 

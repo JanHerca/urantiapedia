@@ -51,7 +51,7 @@ La Asociación Urantia de Canadá y _The Urantia Book_ Fellowship se han unido p
 
 La Experiencia Global Urantia es una reunión de mentes dedicadas a servir a Dios Supremo a través de la exploración de soluciones para la evolución progresiva de la civilización. Creemos que el éxito general de este esfuerzo experimental se basa en nuestra unidad espiritual, nuestro motivo común para expresar la voluntad de Dios en nuestra vida personal diaria, así como en nuestras instituciones sociales.
 
-El formato de esta reunión será un poco diferente a las experiencias anteriores relacionadas. En lugar de una serie de conferencias y talleres, todos los participantes participarán en grupos de discusión centrados en una variedad de temas extraídos de _El Libro de Urantia_ (ver [Documento 71:4 Civilización progresiva](/es/The_Urantia_Book/71#p4)). De estas discusiones, esperamos derivar ideas, soluciones y propósitos comunes.
+El formato de esta reunión será un poco diferente a las experiencias anteriores relacionadas. En lugar de una serie de conferencias y talleres, todos los participantes participarán en grupos de discusión centrados en una variedad de temas extraídos de _El Libro de Urantia_ (ver <a id="a53_279"></a>[Documento 71:4 Civilización progresiva](/es/The_Urantia_Book/71#p4)). De estas discusiones, esperamos derivar ideas, soluciones y propósitos comunes.
 
 Para implementar estos grandes ideales, necesitamos su ayuda. Actualmente estamos aceptando solicitudes para facilitadores y presentadores de exploración visionaria, así como para voluntarios.
 
@@ -146,17 +146,17 @@ Las Exploraciones Visionarias se limitarán a marcos de tiempo de dos horas en l
 
 Nuestro comportamiento en Urantia Global
 
-> La experiencia se basa en la 'Regla de oro' «Trata a los demás como te gustaría que te traten» y «Ama a tu prójimo como a ti mismo», mientras nos esforzamos por elevarnos a la «Regla de platino»: «Ama a los demás como Dios ama». a ellos." [LU 140:5.3](/es/The_Urantia_Book/140#p5_3)
+> La experiencia se basa en la 'Regla de oro' «Trata a los demás como te gustaría que te traten» y «Ama a tu prójimo como a ti mismo», mientras nos esforzamos por elevarnos a la «Regla de platino»: «Ama a los demás como Dios ama». a ellos." <a id="a148_241"></a>[LU 140:5.3](/es/The_Urantia_Book/140#p5_3)
 
-> «Y por eso os doy este mandamiento nuevo: Que os améis unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros. » [LU 180:1.1](/es/The_Urantia_Book/180#p1_1)
+> «Y por eso os doy este mandamiento nuevo: Que os améis unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros. » <a id="a150_174"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1)
 
-> «Si os amáis unos a otros como yo os amo, seréis mis amigos, y yo os hablaré siempre de lo que el Padre me revela». [LU 180:1.3](/es/The_Urantia_Book/180#p1_3)
+> «Si os amáis unos a otros como yo os amo, seréis mis amigos, y yo os hablaré siempre de lo que el Padre me revela». <a id="a152_118"></a>[LU 180:1.3](/es/The_Urantia_Book/180#p1_3)
 
 ### Protocolo de sesión
 
 Además, solicitamos respetuosamente que los participantes no programen ningún comité u organización durante las sesiones del Grupo de enfoque o del Equipo de visión.
 
-> «Disfrutar de privilegios sin abuso, tener libertad sin licencia, poseer poder y negarse firmemente a usarlo para el autoengrandecimiento: estas son las marcas de la alta civilización». [LU 48:7.8](/es/The_Urantia_Book/48#p7_8)
+> «Disfrutar de privilegios sin abuso, tener libertad sin licencia, poseer poder y negarse firmemente a usarlo para el autoengrandecimiento: estas son las marcas de la alta civilización». <a id="a158_188"></a>[LU 48:7.8](/es/The_Urantia_Book/48#p7_8)
 
 ## Enlaces externos
 

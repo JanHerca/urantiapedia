@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-> «Cada impulso de cada electrón, pensamiento o espíritu es una unidad que actúa en todo el universo... El universo es un todo; ninguna cosa y ningún ser existe o vive en el aislamiento.» ([LU 56:10.14](/es/The_Urantia_Book/56#p10_14))
+> «Cada impulso de cada electrón, pensamiento o espíritu es una unidad que actúa en todo el universo... El universo es un todo; ninguna cosa y ningún ser existe o vive en el aislamiento.» (<a id="a36_189"></a>[LU 56:10.14](/es/The_Urantia_Book/56#p10_14))
 
 En la década de 1930, esa declaración se adelantó décadas a su tiempo. Solo un puñado de físicos de partículas habría admitido que podría ser cierto.
 
@@ -74,11 +74,11 @@ En el esquema de Whitehead, la naturaleza primordial de Dios se toma como fuente
 
 Los lectores del Libro de Urantia pueden notar las similitudes de la naturaleza primordial de Dios con aspectos de la deidad existencial como se propone en los Documentos de Urantia y la consiguiente naturaleza de Dios que está inmerso en el mundo y tiene similitudes con el Dios Supremo como se describe en los Documentos.
 
-En el esquema de Whitehead, en su naturaleza primordial, Dios tiene una visión de todas las potencialidades y un plan sobre cómo cada individuo puede usarlas mejor para su crecimiento. Los Documentos de Urantia nos informan que «Hay en la mente de Dios un plan que abarca a todas las criaturas de todos sus vastos dominios» ([LU 32:5.7](/es/The_Urantia_Book/32#p5_7)) y que nuestros Ajustadores del Pensamiento hacer planes para nuestras carreras eternas ([LU 107:7.3](/es/The_Urantia_Book/107#p7_3)).
+En el esquema de Whitehead, en su naturaleza primordial, Dios tiene una visión de todas las potencialidades y un plan sobre cómo cada individuo puede usarlas mejor para su crecimiento. Los Documentos de Urantia nos informan que «Hay en la mente de Dios un plan que abarca a todas las criaturas de todos sus vastos dominios» (<a id="a76_325"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)) y que nuestros Ajustadores del Pensamiento hacer planes para nuestras carreras eternas (<a id="a76_456"></a>[LU 107:7.3](/es/The_Urantia_Book/107#p7_3)).
 
 La descripción tanto de la deidad existencial (deidad trascendente) como de la deidad experiencial proporcionada en los Documentos de Urantia parece estar muy por delante de todo lo postulado por los teólogos del proceso. Lo alentador es la convergencia de sus caminos, aunado a la constatación de que ambos brindan alternativas racionales a problemas teológicos que, en el pasado, no tenían solución.
 
-La filosofía del proceso es holística. Percibe las relaciones entre entidades primarias, pero transitorias, como la base de toda realidad y crecimiento, y todas las cosas que se afectan entre sí. Nuestra cita inicial de [LU 56:10.14](/es/The_Urantia_Book/56#p10_14) establece que los Documentos de Urantia también proponen una visión holística de la realidad.
+La filosofía del proceso es holística. Percibe las relaciones entre entidades primarias, pero transitorias, como la base de toda realidad y crecimiento, y todas las cosas que se afectan entre sí. Nuestra cita inicial de <a id="a80_220"></a>[LU 56:10.14](/es/The_Urantia_Book/56#p10_14) establece que los Documentos de Urantia también proponen una visión holística de la realidad.
 
 > No puedes meterte dos veces en el mismo río.
 > _Heráclito_

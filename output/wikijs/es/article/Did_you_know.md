@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-La mayoría de las partículas básicas de la física subatómica tienen al menos dos modos de giro. Mirando en su dirección de viaje, el giro de una partícula puede ser hacia la izquierda o hacia la derecha. La excepción son los neutrinos, las diminutas partículas desprovistas de potencial eléctrico a las que se hace referencia en los Documentos de Urantia que escapan de una estrella que colapsa ([LU 41:8.3](/es/The_Urantia_Book/41#p8_3)). Los neutrinos giran solo hacia la izquierda, y nadie sabe por qué es así.
+La mayoría de las partículas básicas de la física subatómica tienen al menos dos modos de giro. Mirando en su dirección de viaje, el giro de una partícula puede ser hacia la izquierda o hacia la derecha. La excepción son los neutrinos, las diminutas partículas desprovistas de potencial eléctrico a las que se hace referencia en los Documentos de Urantia que escapan de una estrella que colapsa (<a id="a36_396"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3)). Los neutrinos giran solo hacia la izquierda, y nadie sabe por qué es así.
 
 Los agujeros negros son sistemas termodinámicos que tienen temperatura y entropía. La entropía, además de ser la medida de la desorganización, es también la medida de la información de un sistema. Lo notable de un agujero negro es que su entropía es proporcional al área de su horizonte de eventos, siendo este último el límite de no escape. Jacob Beckenstein descubrió que existe un límite en la cantidad de información que puede estar contenida dentro de una determinada región del espacio. ¿Adivina qué? El límite viene dado por la entropía del agujero negro más grande que cabría en la región.
 

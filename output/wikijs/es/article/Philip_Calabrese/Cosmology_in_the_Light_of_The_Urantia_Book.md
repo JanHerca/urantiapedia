@@ -33,7 +33,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 Según _El Libro de Urantia_[^1], muchos de nuestros conceptos científicos contemporáneos básicos necesitan una gran revisión o fundamentos completamente nuevos.[^2] La teoría del Big Bang (BB), la llamada interpretación estándar de la mecánica cuántica y también la Teoría de la Relatividad de Einstein, todo necesita revisión o derrocamiento.
 
-> Es difícil en verdad encontrar en el idioma inglés [o español] las palabras adecuadas para designar y describir los diversos niveles de la fuerza y la energía —físicas, mentales o espirituales. Estas narraciones no pueden adaptarse plenamente a las definiciones que tenéis aceptadas para la fuerza, la energía y el poder. La pobreza del lenguaje es tal que tenemos que emplear estos términos con múltiples significados. Por ejemplo, en este documento la palabra *energía* se utiliza para designar todas las fases y formas del movimiento, la acción y el potencial fenoménicos, mientras que *fuerza* se aplica a las fases de la energía anteriores a la gravedad, y *poder* a las fases de la energía posteriores a la gravedad.[^3] [[LU 42:2.1](/es/The_Urantia_Book/42#p2_1)]
+> Es difícil en verdad encontrar en el idioma inglés [o español] las palabras adecuadas para designar y describir los diversos niveles de la fuerza y la energía —físicas, mentales o espirituales. Estas narraciones no pueden adaptarse plenamente a las definiciones que tenéis aceptadas para la fuerza, la energía y el poder. La pobreza del lenguaje es tal que tenemos que emplear estos términos con múltiples significados. Por ejemplo, en este documento la palabra *energía* se utiliza para designar todas las fases y formas del movimiento, la acción y el potencial fenoménicos, mientras que *fuerza* se aplica a las fases de la energía anteriores a la gravedad, y *poder* a las fases de la energía posteriores a la gravedad.[^3] <a id="a35_729"></a>[[LU 42:2.1](/es/The_Urantia_Book/42#p2_1)]
 
 ## Deficiencias en la cosmología humana contemporánea a principios del siglo XXI abordadas por _El Libro de Urantia_
 
@@ -78,11 +78,11 @@ Luego, a principios del siglo XX, después de demostrar que la luz actuaba como 
 
 Basada simplemente en la estética personal, la Teoría Especial de la Relatividad de Einstein postuló la relatividad absoluta de todos los marcos de referencia para las mediciones físicas, que ninguno debería considerarse en reposo, sino solo relativamente. Esta suposición, junto con la constante de la velocidad de la luz en todos estos marcos de referencia, implica (entre otras sorpresas) que la edad de los gemelos idénticos (o las manecillas de dos relojes inicialmente sincronizados) será diferente (cada uno más joven con respecto al otro) si se aceleran igualmente separados uno del otro y luego se juntan. La simultaneidad en el espacio en un momento específico en el tiempo se vuelve esencialmente relativa al marco de referencia. ¡Un mundo extraño en verdad!
 
-> El aumento de la masa en la materia es igual al aumento de la energía dividido por el cuadrado de la velocidad de la luz. [[LU 42:4.11](/es/The_Urantia_Book/42#p4_11)]
+> El aumento de la masa en la materia es igual al aumento de la energía dividido por el cuadrado de la velocidad de la luz. <a id="a80_124"></a>[[LU 42:4.11](/es/The_Urantia_Book/42#p4_11)]
 
 Aunque descubrió la relación correcta entre energía y masa (E = mc^2^) según _El Libro de Urantia_, Einstein perdió de vista la Fuente eterna y el Centro del Cosmos.
 
-> No dejéis que vuestros escarceos en los descubrimientos ligeramente vislumbrados de la «relatividad» alteren vuestros conceptos de la eternidad y de la infinidad de Dios. [[LU 195:7.5](/es/The_Urantia_Book/195#p7_5)]
+> No dejéis que vuestros escarceos en los descubrimientos ligeramente vislumbrados de la «relatividad» alteren vuestros conceptos de la eternidad y de la infinidad de Dios. <a id="a84_173"></a>[[LU 195:7.5](/es/The_Urantia_Book/195#p7_5)]
 
 El espacio es, por definición, un concepto de simultaneidad porque se entiende por síntesis, no por análisis: relaciones geométricas entre puntos asociados «ahora».
 
@@ -90,13 +90,13 @@ Más tarde, como regalo de cumpleaños, el matemático K. Gödel, ya muy célebr
 
 En estas soluciones de Gödel, todo cuerpo material es atraído hacia su centro de inercia y gira a su alrededor. ¡Estos mundos también son extraños porque todo gira alrededor del mismo centro fijo, hacia el centro universal de inercia! ¡Fíjate tú! Eso es exactamente lo que dice _El Libro de Urantia_ acerca de las últimas y primeras partículas materiales medibles.
 
-> El ultimatón, la primera forma mensurable de energía, tiene por núcleo al Paraíso. [[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)]
+> El ultimatón, la primera forma mensurable de energía, tiene por núcleo al Paraíso. <a id="a92_85"></a>[[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)]
 
-> Los rayos ultimatónicos —el ensamblaje de la energía en las diminutas esferas de los ultimatones ocasiona vibraciones discernibles y mensurables en el contenido del espacio. [[LU 42:5.4](/es/The_Urantia_Book/42#p5_4)]
+> Los rayos ultimatónicos —el ensamblaje de la energía en las diminutas esferas de los ultimatones ocasiona vibraciones discernibles y mensurables en el contenido del espacio. <a id="a94_176"></a>[[LU 42:5.4](/es/The_Urantia_Book/42#p5_4)]
 
-> Como no responden a la gravedad lineal, se mantienen así en la corriente universal del espacio. Los ultimatones son capaces de acelerar su velocidad de rotación hasta el punto de tener un comportamiento parcialmente antigravitatorio, pero sin la intervención de los organizadores de la fuerza o de los directores del poder, no pueden alcanzar la velocidad crítica de escape que les haría perder su individualidad y les haría regresar a la etapa de la energía potente. [[LU 42:6.3](/es/The_Urantia_Book/42#p6_3)]
+> Como no responden a la gravedad lineal, se mantienen así en la corriente universal del espacio. Los ultimatones son capaces de acelerar su velocidad de rotación hasta el punto de tener un comportamiento parcialmente antigravitatorio, pero sin la intervención de los organizadores de la fuerza o de los directores del poder, no pueden alcanzar la velocidad crítica de escape que les haría perder su individualidad y les haría regresar a la etapa de la energía potente. <a id="a96_470"></a>[[LU 42:6.3](/es/The_Urantia_Book/42#p6_3)]
 
-> Los ultimatones no están sometidos a la gravedad local, a la interacción de la atracción material, pero obedecen plenamente a la gravedad absoluta o gravedad del Paraíso, a la dirección, al recorrido del círculo universal y eterno del universo de universos. [[LU 41:9.2](/es/The_Urantia_Book/41#p9_2)]
+> Los ultimatones no están sometidos a la gravedad local, a la interacción de la atracción material, pero obedecen plenamente a la gravedad absoluta o gravedad del Paraíso, a la dirección, al recorrido del círculo universal y eterno del universo de universos. <a id="a98_260"></a>[[LU 41:9.2](/es/The_Urantia_Book/41#p9_2)]
 
 Ha habido cierta dificultad para captar, topológicamente, cómo puede ser esto. ¿Cómo puede el Paraíso ser simultáneamente un Macronúcleo para todos los ultimatones y un Micronúcleo de cada ultimaton? En resumen, la respuesta es que el Infinito se encuentra en todos esos lugares. Volvamos a esa cuestión topológica.
 
@@ -104,15 +104,15 @@ Ha habido cierta dificultad para captar, topológicamente, cómo puede ser esto.
 
 Aunque la luz es una partícula (fotón) que se mueve a través del espacio, y por lo tanto el «éter luminoso» globalmente fijo no existe, la idea de un lugar _fijo_ en el núcleo de electrones desde el cual se emite luz como fotones abarca la constancia requerida de la velocidad de transmisión de la luz ya que entonces la velocidad de la luz no se vería afectada por el movimiento relativo del cuerpo radiante. La luz vendría del núcleo estacionario.
 
-> ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso? [[LU 189:1.3](/es/The_Urantia_Book/189#p1_3)]
+> ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso? <a id="a106_156"></a>[[LU 189:1.3](/es/The_Urantia_Book/189#p1_3)]
 
 Con una «isla de luz nuclear» absolutamente fija en el cosmos, aproximadamente «sobre el espacio», es posible imaginar la luz como partículas (cuantos) emitidas desde este lugar fijo y proyectadas al espacio desde el núcleo de electrones en movimiento sin llevar sus movimientos. . Es una ubicación no espacial absolutamente fija en el _foco del espacio_ macroscópico y en numerosos focos microscópicos del espacio alrededor de los cuales la energía se configura como masa.
 
-> La Isla del Paraíso tiene una ubicación en el universo pero no tiene una posición en el espacio. [[LU 0:4.12](/es/The_Urantia_Book/0#p4_12)]
+> La Isla del Paraíso tiene una ubicación en el universo pero no tiene una posición en el espacio. <a id="a110_99"></a>[[LU 0:4.12](/es/The_Urantia_Book/0#p4_12)]
 
-> El Paraíso existe en el centro del espacio, el Incalificado lo impregna y toda existencia relativa tiene su ser dentro de este ámbito. [[LU 105:3.4](/es/The_Urantia_Book/105#p3_4)]  
+> El Paraíso existe en el centro del espacio, el Incalificado lo impregna y toda existencia relativa tiene su ser dentro de este ámbito. <a id="a112_137"></a>[[LU 105:3.4](/es/The_Urantia_Book/105#p3_4)]  
 
-> El espacio no toca el Paraíso; sólo las zonas en reposo del espacio intermedio entran en contacto con la Isla central. [[LU 11:7.1](/es/The_Urantia_Book/11#p7_1)]
+> El espacio no toca el Paraíso; sólo las zonas en reposo del espacio intermedio entran en contacto con la Isla central. <a id="a114_121"></a>[[LU 11:7.1](/es/The_Urantia_Book/11#p7_1)]
 
 ¿Dónde está exactamente este punto fijo nuclear con respecto al espacio?
 
@@ -146,7 +146,7 @@ Einstein ya había concebido que el espacio estaba deformado por objetos masivos
 
 Se han ofrecido muchas conjeturas alternativas para interpretar los enormes desplazamientos hacia el rojo de alguna otra manera además del movimiento de retroceso. Ninguno ha sido convincente.
 
-> Las relaciones actuales entre vuestro Sol y sus planetas asociados, aunque revelan muchos movimientos relativos y absolutos en el espacio, tienden a dar la impresión a los observadores astronómicos de que estáis comparativamente estacionarios en el espacio y de que los enjambres y corrientes de estrellas circundantes están lanzados en una huida hacia el exterior a velocidades siempre crecientes a medida que vuestros cálculos alcanzan espacios más alejados. Pero éste no es el caso. Olvidáis reconocer que las creaciones físicas de todo el espacio penetrado se encuentran actualmente en una expansión uniforme hacia el exterior. Vuestra propia creación local (Nebadon) participa en este movimiento de expansión universal hacia el exterior. La totalidad de los siete superuniversos, junto con las regiones exteriores del universo maestro. [[LU 12:4.12](/es/The_Urantia_Book/12#p4_12)]
+> Las relaciones actuales entre vuestro Sol y sus planetas asociados, aunque revelan muchos movimientos relativos y absolutos en el espacio, tienden a dar la impresión a los observadores astronómicos de que estáis comparativamente estacionarios en el espacio y de que los enjambres y corrientes de estrellas circundantes están lanzados en una huida hacia el exterior a velocidades siempre crecientes a medida que vuestros cálculos alcanzan espacios más alejados. Pero éste no es el caso. Olvidáis reconocer que las creaciones físicas de todo el espacio penetrado se encuentran actualmente en una expansión uniforme hacia el exterior. Vuestra propia creación local (Nebadon) participa en este movimiento de expansión universal hacia el exterior. La totalidad de los siete superuniversos, junto con las regiones exteriores del universo maestro. <a id="a148_843"></a>[[LU 12:4.12](/es/The_Urantia_Book/12#p4_12)]
 
 ### Una hipótesis para el corrimientos al rojo de tipo no-Doppler
 
@@ -178,7 +178,7 @@ Justo cuando los proponentes del BB pensaban que la cuestión de la expansión d
 
 Frente a tal desarrollo teórico reincidente, la descripción de _El Libro de Urantia_ de 1955 de la «respiración espacial», los ciclos de expansión y contracción del espacio de dos mil millones de años y la materia que contiene, incluida la información específica adicional de que actualmente estamos en una fase de expansión de aceleración máxima, es una predicción muy impresionante de la ciencia a punto de ser descubierta.
 
-> Los ciclos de la respiración del espacio duran en cada fase poco más de mil millones de años de Urantia. Durante una fase los universos se expanden; durante la siguiente se contraen. El espacio penetrado se está acercando ahora al punto medio de su fase de expansión. [[LU 11:6.4](/es/The_Urantia_Book/11#p6_4)]
+> Los ciclos de la respiración del espacio duran en cada fase poco más de mil millones de años de Urantia. Durante una fase los universos se expanden; durante la siguiente se contraen. El espacio penetrado se está acercando ahora al punto medio de su fase de expansión. <a id="a180_270"></a>[[LU 11:6.4](/es/The_Urantia_Book/11#p6_4)]
 
 A diferencia de la serpenteante teoría BB, la «respiración espacial» periódica es completamente consistente con lo que se ha observado en las décadas posteriores a la publicación de _El Libro de Urantia_ en 1955, incluida incluso la _fase_ del ciclo de respiración, acercándose al punto medio de la fase de expansión, que es la fase de _aceleración_ de la expansión antes de que la expansión comience a ralentizarse (desacelerar).
 
@@ -212,7 +212,7 @@ Por observación experimental, nuestros científicos han concluido que incluso l
 
 El espacio no es un absoluto, pero es «absolutamente último», una realidad trascendental que se origina eternamente en el Paraíso inferior. Las distancias en el espacio no son separaciones absolutas porque el universo es, en primer lugar, un Todo unificado y, en segundo lugar, una división de ese Todo en partes que incluyen diferentes regiones en el espacio. Por lo tanto, los eventos pueden afectar instantáneamente a otros eventos en lugares distantes.
 
-> Los seres humanos acaban de empezar a darse cuenta de que las reacciones de la existencia aparecen entre los actos y sus consecuencias. [[LU 86:2.3](/es/The_Urantia_Book/86#p2_3)]
+> Los seres humanos acaban de empezar a darse cuenta de que las reacciones de la existencia aparecen entre los actos y sus consecuencias. <a id="a214_138"></a>[[LU 86:2.3](/es/The_Urantia_Book/86#p2_3)]
 
 El universo siempre reacciona entre un acto y sus consecuencias. Esto siempre es cierto solo si la reacción del universo a cualquier acto es instantánea con el acto. De lo contrario, algunos actos causarían resultados locales inmediatos antes de que pudiera ocurrir una reacción tardía del universo.
 
@@ -250,17 +250,17 @@ La totalidad de la realidad (YO SOY) se refiere a todo lo que alguna vez existi�
 
 El INFINITO (YO SOY) se puede dividir en siete Absolutos, tres personales (Padre, Hijo y Espíritu) y tres impersonales (El Absoluto No Cualificado, el Absoluto de la Deidad y el Absoluto Universal) más el Paraíso, que es tanto personal como impersonal, teniendo ambos un lado superior (personal) y lado inferior (inferior).
 
-> Una criatura del espacio-tiempo percibiría el origen y la diferenciación de la Realidad de la manera siguiente: el eterno e infinito YO SOY, ejerciendo su libre albedrío inherente y eterno, consiguió liberar a la Deidad de las trabas de la infinidad incalificada, y esta separación de la infinidad incalificada produjo la primera *tensión absoluta de la divinidad.* Esta tensión, ocasionada por la diferenciación de la infinidad, la resuelve el Absoluto Universal, que se ocupa de unificar y coordinar la infinidad dinámica de la Deidad Total con la infinidad estática del Absoluto Incalificado. [[LU 0:3.21](/es/The_Urantia_Book/0#p3_21)]
+> Una criatura del espacio-tiempo percibiría el origen y la diferenciación de la Realidad de la manera siguiente: el eterno e infinito YO SOY, ejerciendo su libre albedrío inherente y eterno, consiguió liberar a la Deidad de las trabas de la infinidad incalificada, y esta separación de la infinidad incalificada produjo la primera *tensión absoluta de la divinidad.* Esta tensión, ocasionada por la diferenciación de la infinidad, la resuelve el Absoluto Universal, que se ocupa de unificar y coordinar la infinidad dinámica de la Deidad Total con la infinidad estática del Absoluto Incalificado. <a id="a252_598"></a>[[LU 0:3.21](/es/The_Urantia_Book/0#p3_21)]
 
-> Con esta operación original, el YO SOY teórico consiguió hacer realidad la personalidad al convertirse en el Padre Eterno del Hijo Original, volviéndose simultáneamente la Fuente Eterna de la Isla del Paraíso. Coexistentes con la diferenciación entre el Hijo y el Padre, y en presencia del Paraíso, aparecieron la persona del Espíritu Infinito y el universo central de Havona. Con la aparición de la Deidad personal coexistente —el Hijo Eterno y el Espíritu Infinito— el Padre evitó dispersarse, como personalidad, por todo el potencial de la Deidad Total, lo que de otra manera hubiera sido inevitable. Desde entonces, el Padre sólo llena todo el potencial de la Deidad cuando se encuentra en asociación Trinitaria con sus dos iguales en Deidad, mientras que la Deidad experiencial se está actualizando cada vez más en los niveles de divinidad de la Supremacía, la Ultimidad y la Absolutidad. [[LU 0:3.22](/es/The_Urantia_Book/0#p3_22)] 
+> Con esta operación original, el YO SOY teórico consiguió hacer realidad la personalidad al convertirse en el Padre Eterno del Hijo Original, volviéndose simultáneamente la Fuente Eterna de la Isla del Paraíso. Coexistentes con la diferenciación entre el Hijo y el Padre, y en presencia del Paraíso, aparecieron la persona del Espíritu Infinito y el universo central de Havona. Con la aparición de la Deidad personal coexistente —el Hijo Eterno y el Espíritu Infinito— el Padre evitó dispersarse, como personalidad, por todo el potencial de la Deidad Total, lo que de otra manera hubiera sido inevitable. Desde entonces, el Padre sólo llena todo el potencial de la Deidad cuando se encuentra en asociación Trinitaria con sus dos iguales en Deidad, mientras que la Deidad experiencial se está actualizando cada vez más en los niveles de divinidad de la Supremacía, la Ultimidad y la Absolutidad. <a id="a254_896"></a>[[LU 0:3.22](/es/The_Urantia_Book/0#p3_22)] 
 
 El INFINITO se manifiesta en eternas «tensiones» entre los Absolutos. El Absoluto No Cualificado omnipresente, que es responsable de la potencia previa a la masa del espacio, libera apropiadamente fuerza-energía en el espacio en respuesta a la presencia de seres con mentes especiales que pueden organizarlo. (Se ha revelado que el mundo subatómico tiene un extenso desarrollo inteligente por parte de seres especiales diseñados para esta función).
 
-> La fuerza, la energía, es la única cosa que se mantiene como un monumento perpetuo que demuestra y prueba la existencia y la presencia del Absoluto Universal. [[LU 42:0.1](/es/The_Urantia_Book/42#p0_1)]
+> La fuerza, la energía, es la única cosa que se mantiene como un monumento perpetuo que demuestra y prueba la existencia y la presencia del Absoluto Universal. <a id="a258_161"></a>[[LU 42:0.1](/es/The_Urantia_Book/42#p0_1)]
 
 Aunque está en circuito en el Paraíso inferior, esta fuerza-energía previa a la masa al principio no responde a la gravedad «circular» del Paraíso, excepto macroscópicamente. Después de dos etapas trascendentales de desarrollo manejadas por los Organizadores de la Fuerza Trascendental del Paraíso, las energías-fuerza emergen como ultimatones esféricos diminutos, las primeras masas mensurables. Los ultimatones gratuitos responden a la gravedad del Paraíso, pero no a la gravedad lineal de masa a masa. La manipulación física inteligente adicional por parte de los Controladores de Fuerza y ​​seres similares fabrican electrones y protones a partir de ultimatones hasta que ocurre la atracción de gravedad lineal de las masas atómicas agregadas, momento en el que pasan el control a seres de control de poder de orden inferior.
 
-> La estabilidad física, asociada a la elasticidad biológica, sólo está presente en la naturaleza gracias a la sabiduría casi infinita que poseen los Arquitectos Maestros de la creación. Nada inferior a una sabiduría trascendental podría diseñar nunca unas unidades de materia que son al mismo tiempo tan estables y tan eficazmente flexibles. [[LU 42:9.5](/es/The_Urantia_Book/42#p9_5)]
+> La estabilidad física, asociada a la elasticidad biológica, sólo está presente en la naturaleza gracias a la sabiduría casi infinita que poseen los Arquitectos Maestros de la creación. Nada inferior a una sabiduría trascendental podría diseñar nunca unas unidades de materia que son al mismo tiempo tan estables y tan eficazmente flexibles. <a id="a262_343"></a>[[LU 42:9.5](/es/The_Urantia_Book/42#p9_5)]
 
 La estabilidad resultante de este mundo inferior prepara el escenario para que la vida inteligente alta y baja elija y actúe sobre esta materia atómica y molecular preexistente estable para el beneficio del «yo» y de los demás.
 
@@ -312,7 +312,7 @@ Además, utilizando la noción de lo finito como calificación de lo INFINITO, p
 
 Se nos aconseja que es útil pensar en el Cosmos como una elipse casi infinita con un Foco Absoluto siempre alcanzando ese otro Foco absoluto más allá del espacio-tiempo en la infinidad potencial del Absoluto Incalificable.
 
-> INCLUSO para las órdenes elevadas de inteligencias del universo, la infinidad sólo es parcialmente comprensible y la finalidad de la realidad sólo es relativamente inteligible. Cuando la mente humana trata de penetrar en el misterio y la eternidad del origen y el destino de todo lo que llamamos *real*, puede resultarle útil abordar el problema imaginando la eternidad y la infinidad como una elipse casi ilimitada producida por una sola causa absoluta, que ejerce su actividad en todo este círculo universal de diversificación interminable persiguiendo siempre algún potencial de destino absoluto e infinito. [[LU 105:0.1](/es/The_Urantia_Book/105#p0_1)]
+> INCLUSO para las órdenes elevadas de inteligencias del universo, la infinidad sólo es parcialmente comprensible y la finalidad de la realidad sólo es relativamente inteligible. Cuando la mente humana trata de penetrar en el misterio y la eternidad del origen y el destino de todo lo que llamamos *real*, puede resultarle útil abordar el problema imaginando la eternidad y la infinidad como una elipse casi ilimitada producida por una sola causa absoluta, que ejerce su actividad en todo este círculo universal de diversificación interminable persiguiendo siempre algún potencial de destino absoluto e infinito. <a id="a314_613"></a>[[LU 105:0.1](/es/The_Urantia_Book/105#p0_1)]
 
 Macroscópicamente, la INFINIDAD debe estar presente en el centro geográfico de gravedad (lineal). Siempre hay un centro geográfico de atracción de gravedad lineal para cualquier colección finita de partículas. Considere el centro de gravedad de todas las masas del universo. Descontando la suma o resta de masa en el universo, este centro de gravedad lineal tendrá una ubicación fija con respecto a todo movimiento en el espacio, y posiblemente del espacio.
 
@@ -330,7 +330,7 @@ Por ejemplo, el estado de mayor energía de un par protón-electrón de hidróge
 
 Por lo tanto, parece apropiado postular un fulcro intermedio entre el INFINITO y el espacio finito, una superficie en el INFINITO que encierra al INFINITO. Los patrones fijos encerrados por esta superficie son responsables de mantener las configuraciones de energía y las interacciones y transformaciones cuánticas equilibradas de los cuerpos materiales finitos en movimiento sombrío. ¿Nuestros amigos los Intermedios preguntan? «_¿Cuánto tiempo antes de que consideres el tiempo como la imagen en movimiento de la eternidad y el espacio como la sombra fugaz de las realidades del Paraíso?_»
 
-> La humanidad es lenta para percibir que, en todo lo que es personal, la materia es el esqueleto de la morontia, y que ambos son la sombra reflejada de la realidad espiritual perdurable. ¿Cuánto tiempo antes de que consideréis el tiempo como la imagen en movimiento de la eternidad y el espacio como la sombra fugaz de las realidades del Paraíso? [[LU 189:1.3](/es/The_Urantia_Book/189#p1_3)]
+> La humanidad es lenta para percibir que, en todo lo que es personal, la materia es el esqueleto de la morontia, y que ambos son la sombra reflejada de la realidad espiritual perdurable. ¿Cuánto tiempo antes de que consideréis el tiempo como la imagen en movimiento de la eternidad y el espacio como la sombra fugaz de las realidades del Paraíso? <a id="a332_348"></a>[[LU 189:1.3](/es/The_Urantia_Book/189#p1_3)]
 
 ### Tiempo y Eternidad, Espacio e Infinito
 
@@ -372,7 +372,7 @@ Dado que toda la materia finalmente orbita y gira alrededor de la gran superfici
 
 Los ciclos de movimiento espacial pueden considerarse periódicos, y todos los espacios finalmente regresan a sus posiciones anteriores con respecto al Paraíso inferior.
 
-> Todas las unidades de la energía cósmica están en rotación primaria, están dedicadas a ejecutar su misión mientras giran alrededor de la órbita universal. Los universos del espacio y los sistemas y los mundos que los componen son todos esferas que giran, que circulan a lo largo de los circuitos sin fin de los niveles espaciales del universo maestro. Nada en absoluto es estacionario en todo el universo maestro, salvo el centro mismo de Havona, la Isla eterna del Paraíso, el centro de la gravedad. [[LU 12:4.1](/es/The_Urantia_Book/12#p4_1)]
+> Todas las unidades de la energía cósmica están en rotación primaria, están dedicadas a ejecutar su misión mientras giran alrededor de la órbita universal. Los universos del espacio y los sistemas y los mundos que los componen son todos esferas que giran, que circulan a lo largo de los circuitos sin fin de los niveles espaciales del universo maestro. Nada en absoluto es estacionario en todo el universo maestro, salvo el centro mismo de Havona, la Isla eterna del Paraíso, el centro de la gravedad. <a id="a374_503"></a>[[LU 12:4.1](/es/The_Urantia_Book/12#p4_1)]
 
 Si _todas_ las unidades de energía cósmica tienen una revolución primaria mientras también giran alrededor de la órbita universal, entonces todas esas unidades de energía tienen tres componentes esenciales: 1) algo que gira y también orbita, 2) un núcleo alrededor del cual algo gira y orbita, y 3) espacio que contiene el movimiento giratorio y orbital. El espacio dentro de un cuerpo en movimiento es una propiedad del cuerpo y se mueve con él. ¡Esto implica que la noción de una «unidad única de energía», una partícula, no es realmente un todo individual! Ya debe tener los tres componentes esenciales enumerados anteriormente. Las unidades últimas tienen el mismo núcleo interior y centro orbital exterior. En dos movimientos diferentes, ambos giran y orbitan el Paraíso. En verdad, en Dios, que es Espíritu, todas las cosas subsisten y tienen su ser.
 
@@ -386,7 +386,7 @@ Observe que cada unidad de masa tiene un espacio relativamente inmóvil en su in
 
 Esta cuestión del movimiento del espacio interior cuando una partícula se mueve a través del espacio sugiere la necesidad de un examen más cuidadoso de cómo el espacio interior de la materia puede moverse con ella a través del espacio teniendo de algún modo un núcleo fijo.
 
-> Para comprender las relaciones espaciales, puede ser útil suponer que, hablando en términos relativos, el espacio es, después de todo, una propiedad de todos los cuerpos materiales. Por eso cuando un cuerpo se mueve por el espacio, también lleva consigo todas sus propiedades, incluido el espacio que está dentro de ese cuerpo en movimiento y forma parte de él. [[LU 118:3.6](/es/The_Urantia_Book/118#p3_6)]
+> Para comprender las relaciones espaciales, puede ser útil suponer que, hablando en términos relativos, el espacio es, después de todo, una propiedad de todos los cuerpos materiales. Por eso cuando un cuerpo se mueve por el espacio, también lleva consigo todas sus propiedades, incluido el espacio que está dentro de ese cuerpo en movimiento y forma parte de él. <a id="a388_364"></a>[[LU 118:3.6](/es/The_Urantia_Book/118#p3_6)]
 
 ### Presencia de gravedad
 
@@ -404,7 +404,7 @@ Comprender la forma en que se comportan el espacio y el movimiento debe basarse 
 
 Siguiendo esta imagen de luz que se propaga al espacio desde un inmenso lugar fijo, denso en el espacio pero inmóvil en el espacio, la materia actúa como una sombra que se mueve aquí y allá dejando pasar la luz o reflejándola o captándola temporalmente hasta liberarla de nuevo quizás en otra dirección . Topológicamente, esto simplemente requiere que la superficie P sea potencialmente densa con respecto al espacio, lo que permite que un emisor de luz en movimiento «abra una ventana en movimiento» a la fuente de luz nuclear «justo dentro» o «encima» del espacio de la emisión de sombra. cuerpo.
 
-> La Deidad sólo podía unificar sus manifestaciones espacio-temporales para la concepción finita por medio de la ubiquidad, ya que el tiempo es una sucesión de instantes, mientras que el espacio es un sistema de puntos asociados. Después de todo, vosotros percibís el tiempo por análisis y el espacio por síntesis. Coordináis y asociáis estas dos concepciones desiguales mediante la perspicacia integradora de la personalidad. De todo el mundo animal, sólo el hombre posee esta manera de percibir el espacio-tiempo. Para un animal, el movimiento tiene un significado, pero el movimiento sólo representa un valor para una criatura con categoría de personalidad. [[LU 118:3.1](/es/The_Urantia_Book/118#p3_1)]
+> La Deidad sólo podía unificar sus manifestaciones espacio-temporales para la concepción finita por medio de la ubiquidad, ya que el tiempo es una sucesión de instantes, mientras que el espacio es un sistema de puntos asociados. Después de todo, vosotros percibís el tiempo por análisis y el espacio por síntesis. Coordináis y asociáis estas dos concepciones desiguales mediante la perspicacia integradora de la personalidad. De todo el mundo animal, sólo el hombre posee esta manera de percibir el espacio-tiempo. Para un animal, el movimiento tiene un significado, pero el movimiento sólo representa un valor para una criatura con categoría de personalidad. <a id="a406_661"></a>[[LU 118:3.1](/es/The_Urantia_Book/118#p3_1)]
 
 ## Realidad matemática versus realidad volitiva: elección en el cosmos
 
@@ -418,7 +418,7 @@ Para estas personas la existencia de elección en el cosmos es un inconveniente 
 
 La existencia de elección (capacidad de expresar objetivamente el deseo del yo subjetivo) requiere algo más que materia completamente sujeta a causas pasadas. Se pueden distinguir lo matemático y lo volitivo.
 
-> El hombre primitivo no diferenciaba entre el nivel de la energía y el nivel del espíritu. La raza violeta y sus sucesores anditas fueron los primeros que intentaron separar lo matemático de lo volitivo. El hombre civilizado ha seguido cada vez más los pasos de los primeros griegos y de los sumerios, los cuales distinguían entre lo animado y lo inanimado. A medida que progrese la civilización, la filosofía tendrá que colmar los abismos cada vez más grandes entre el concepto del espíritu y el concepto de la energía. Pero, en el tiempo del espacio, estas divergencias están unificadas en el Supremo. [[LU 103:6.10](/es/The_Urantia_Book/103#p6_10)]
+> El hombre primitivo no diferenciaba entre el nivel de la energía y el nivel del espíritu. La raza violeta y sus sucesores anditas fueron los primeros que intentaron separar lo matemático de lo volitivo. El hombre civilizado ha seguido cada vez más los pasos de los primeros griegos y de los sumerios, los cuales distinguían entre lo animado y lo inanimado. A medida que progrese la civilización, la filosofía tendrá que colmar los abismos cada vez más grandes entre el concepto del espíritu y el concepto de la energía. Pero, en el tiempo del espacio, estas divergencias están unificadas en el Supremo. <a id="a420_605"></a>[[LU 103:6.10](/es/The_Urantia_Book/103#p6_10)]
 
 En la medida en que el movimiento es mecánico, sin elección, completamente determinado por la causalidad antecedente, se puede considerar que ya ha ocurrido en el espacio universal de eventos del tiempo, desde el pasado infinito hasta el futuro infinito. Esta línea de tiempo eterna corresponderá a un ciclo infinito de revoluciones de algún cuerpo en órbita estándar en el espacio, estableciendo así un período de tiempo estándar pero arbitrario en el espacio.
 
@@ -428,7 +428,7 @@ Sin embargo, cuando el fenómeno de la conciencia de la elección personal en el
 
 Esto no es tan difícil de creer ya que tanto los científicos como los religiosos son personas con vidas privadas conscientes de tomar decisiones personales. La elección implica la capacidad de cambiar el futuro. Dado que una mente personal puede percibir millones o más de años en el pasado y, de manera similar, proyectar hacia el futuro, las elecciones pueden abarcar períodos de tiempo tan largos, incluso cuando la decisión está ligada a un solo período de tiempo corto cuando se toma. ¿Cómo, en principio, puede ocurrir esto en el universo?
 
-> «La voluntad es esa manifestación de la mente humana que permite a la conciencia subjetiva expresarse objetivamente y experimentar el fenómeno de aspirar a ser semejante a Dios»—Jesús [[LU 130:2.10](/es/The_Urantia_Book/130#p2_10) ]
+> «La voluntad es esa manifestación de la mente humana que permite a la conciencia subjetiva expresarse objetivamente y experimentar el fenómeno de aspirar a ser semejante a Dios»—Jesús <a id="a430_186"></a>[[LU 130:2.10](/es/The_Urantia_Book/130#p2_10) ]
 
 Si algún aspecto no material de la mente puede agregar incluso una pequeña cantidad de energía al espacio, entonces, en teoría, puede afectar independientemente algún flujo de energía o completar algún circuito. De manera equivalente, la mente podría tener cierta cantidad de poder espiritual antigravedad para afectar la materia del cerebro y, por lo tanto, el mundo objetivo. El aspecto no material, o plano, desde el cual la mente obtiene poder sobre la materia puede llamarse espíritu.
 
@@ -436,7 +436,7 @@ Sin embargo, esta palabra debe calificarse porque se ha revelado que hay formas 
 
 La sustancia completa, más real del cuerpo debe estar ubicada en el núcleo, en el Paraíso fijo (inferior). De esta manera _El Libro de Urantia_ evita el dualismo, ya que sólo hay una sustancia eterna del Cuerpo (Paraíso) pero muchas copias, imágenes en movimiento (cuerpos espaciales en movimiento sombríos) de él.
 
-> La mente transmuta los valores del espíritu en los significados del intelecto; la volición tiene el poder de hacer que los significados de la mente fructifiquen tanto en los dominios materiales como en los espirituales. La ascensión al Paraíso implica un crecimiento relativo y diferencial en espíritu, mente y energía. La personalidad es la unificadora de estos componentes de la individualidad experiencial. [[LU 9:4.6](/es/The_Urantia_Book/9#p4_6)]  
+> La mente transmuta los valores del espíritu en los significados del intelecto; la volición tiene el poder de hacer que los significados de la mente fructifiquen tanto en los dominios materiales como en los espirituales. La ascensión al Paraíso implica un crecimiento relativo y diferencial en espíritu, mente y energía. La personalidad es la unificadora de estos componentes de la individualidad experiencial. <a id="a438_412"></a>[[LU 9:4.6](/es/The_Urantia_Book/9#p4_6)]  
 
 ### Interfaz Espíritu-Materia
 
@@ -466,7 +466,7 @@ _El Libro de Urantia_ califica su inmensamente valiosa revelación de la cosmolo
 > 
 > 4. El suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras.
 >
-> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. [[LU 101:4.5-10](/es/The_Urantia_Book/101#p4_5)]
+> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. <a id="a468_143"></a>[[LU 101:4.5-10](/es/The_Urantia_Book/101#p4_5)]
 
 Dado que hay tanta necesidad de revisión fundamental en la cosmología humana, el reconocimiento por parte de la mayoría de los científicos contemporáneos tendrá que esperar a algún punto de inflexión que haga imposible que la ciencia siga ignorando la necesidad de un nuevo paradigma: un centro geográfico fijo de Infinito en el cosmos. Entonces se reconocerá el «inmenso valor» de la cosmología en _El Libro de Urantia_ y será importante recordar sus limitaciones. Esto derrocará la teoría del Big Bang, la relatividad absoluta del movimiento de Einstein y la interpretación de la dualidad onda-partícula de la mecánica cuántica. Los científicos y filósofos mecanicistas podrían incluso tener que incluir algunas «opciones de vida» en el cosmos que reflejen la existencia del Primer Elector del Cielo: el Dios del Paraíso, nuestro Padre espiritual.
 
@@ -526,7 +526,7 @@ T = 1/H~0~ = [(3,262) \* (3,00) \* 10^11^ año / 72] = 1,36 \* 10^10^ año = 13,
 
 [^2]: Aunque la cosmología científica de _El Libro de Urantia_ no pretende ser infalible ni inspirada, afirma tener un valor científico «inmenso» temporalmente de varias maneras para presentar mejor su mensaje espiritual mucho más duradero. Consulte la nota final.
 
-[^3]: _El Libro de Urantia_, ENERGÍA: MENTE Y MATERIA: Documento 42, Sec. 2, Para 1. denotado [[LU 42:2.1](/es/The_Urantia_Book/42#p2_1)]
+[^3]: _El Libro de Urantia_, ENERGÍA: MENTE Y MATERIA: Documento 42, Sec. 2, Para 1. denotado <a id="a528_94"></a>[[LU 42:2.1](/es/The_Urantia_Book/42#p2_1)]
 
 [^4]: «Un ejemplo de un nuevo tipo de soluciones cosmológicas de las ecuaciones de campo de la gravitación de Einstein», Kurt Gödel, Reviews of Modern Physics, vol. 21, número 3, julio de 1949.
 

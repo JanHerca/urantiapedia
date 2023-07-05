@@ -45,11 +45,11 @@ por _Bro. Joshua J. Wilson_
 
 Los ángeles del progreso son trabajadores incesantes de lo que debería ser. Los guardianes religiosos (ángeles de las iglesias) son contendientes serios por lo que es y ha sido. Estos dos cuerpos angélicos están desempeñando cooperativamente la empresa de las eras en nuestro planeta.
 
-El progreso es la consigna o el tema del universo. Muchos de nosotros nos preguntamos por qué no se ve más progreso en este momento. Pero el mayor problema de este nuevo siglo XXI son más bien las «velocidades peligrosas del progreso». ([LU 118:8.6](/es/The_Urantia_Book/118#p8_6))
+El progreso es la consigna o el tema del universo. Muchos de nosotros nos preguntamos por qué no se ve más progreso en este momento. Pero el mayor problema de este nuevo siglo XXI son más bien las «velocidades peligrosas del progreso». (<a id="a47_237"></a>[LU 118:8.6](/es/The_Urantia_Book/118#p8_6))
 
 Tanto el progreso social como la tutela religiosa están continuamente en movimiento. Se equilibran entre sí. Uno se mueve, luego el otro. Si la cultura social avanza demasiado rápido, los dos principales frenos son el propio tiempo y el jaque mate de los guardianes religiosos.
 
-> 3. Los custodios religiosos. Estos son los «ángeles de las iglesias», los fervientes contendientes por lo que es y ha sido. Se esfuerzan por mantener los ideales de lo que ha sobrevivido en aras del tránsito seguro de los valores morales de una época a otra. Son los jaque mate de los ángeles del progreso, al mismo tiempo que buscan traducir de una generación a otra los valores imperecederos de las formas viejas y pasajeras en los nuevos y, por lo tanto, menos estables patrones de pensamiento y conducta. [LU 114:6.7](/es/The_Urantia_Book/114#p6_7)
+> 3. Los custodios religiosos. Estos son los «ángeles de las iglesias», los fervientes contendientes por lo que es y ha sido. Se esfuerzan por mantener los ideales de lo que ha sobrevivido en aras del tránsito seguro de los valores morales de una época a otra. Son los jaque mate de los ángeles del progreso, al mismo tiempo que buscan traducir de una generación a otra los valores imperecederos de las formas viejas y pasajeras en los nuevos y, por lo tanto, menos estables patrones de pensamiento y conducta. <a id="a51_511"></a>[LU 114:6.7](/es/The_Urantia_Book/114#p6_7)
 
 En el ajedrez tridimensional, multidimensional o de doce dimensiones (tenemos doce cuerpos seráficos de gobierno planetario celestial), un jaque mate temporal en un plano puede mover el foco de acción verticalmente a un nivel diferente por un tiempo. Y luego el proceso continúa divina y fascinantemente, todo con amor para nuestro bienestar.
 
@@ -64,9 +64,9 @@ Aquí es donde entra la revelación de los documentos de Urantia y su gente. Si 
 
 ## Los ángeles del progreso han estado trabajando
 
-> 2. Los ángeles del progreso. Estos serafines tienen encomendada la tarea de iniciar el progreso evolutivo de las sucesivas edades sociales. Fomentan el desarrollo de la tendencia progresiva inherente de las criaturas evolutivas; trabajan incesantemente para hacer que las cosas sean lo que deberían ser. El grupo que ahora está de servicio es el segundo en ser asignado al planeta. [LU 114:6.6](/es/The_Urantia_Book/114#p6_6)
+> 2. Los ángeles del progreso. Estos serafines tienen encomendada la tarea de iniciar el progreso evolutivo de las sucesivas edades sociales. Fomentan el desarrollo de la tendencia progresiva inherente de las criaturas evolutivas; trabajan incesantemente para hacer que las cosas sean lo que deberían ser. El grupo que ahora está de servicio es el segundo en ser asignado al planeta. <a id="a66_384"></a>[LU 114:6.6](/es/The_Urantia_Book/114#p6_6)
 
-Los ángeles del progreso llegaron como grupo a nuestro mundo el 18 de mayo del 30 d. C. en el momento del derramamiento del Espíritu de la Verdad (cf. [LU 114:6.1](/es/The_Urantia_Book/114#p6_1)). Desde entonces ha habido varios períodos de esclarecedora evolución social y avivamientos espirituales. El período progresivo más notable ha sido en nuestras vidas. Esta sorprendente era de progreso se ha observado especialmente desde la década de 1920, cuando comenzaron a aparecer los documentos de Urantia. Vemos una fuerte mejora al alza en todo el mundo en todas las siguientes áreas:
+Los ángeles del progreso llegaron como grupo a nuestro mundo el 18 de mayo del 30 d. C. en el momento del derramamiento del Espíritu de la Verdad (cf. <a id="a68_151"></a>[LU 114:6.1](/es/The_Urantia_Book/114#p6_1)). Desde entonces ha habido varios períodos de esclarecedora evolución social y avivamientos espirituales. El período progresivo más notable ha sido en nuestras vidas. Esta sorprendente era de progreso se ha observado especialmente desde la década de 1920, cuando comenzaron a aparecer los documentos de Urantia. Vemos una fuerte mejora al alza en todo el mundo en todas las siguientes áreas:
 - Duración de la vida y nutrición
 - Religión y Espiritualidad
 - Poder
@@ -83,11 +83,11 @@ Puede estudiar este emocionante recital a través de los gráficos, tablas, hech
 
 Sí. El Gobernador General Residente supervisa estos cuerpos angélicos en su mayor parte, pero el Observador Vorondadek (Altísimo) durante tiempos de crisis planetaria tiene y puede volver a ejercer autoridad absoluta.
 
-> En aquellos mundos segregados en la oscuridad espiritual, aquellas esferas que, por rebelión e incumplimiento, han sufrido aislamiento planetario, un observador Vorondadek suele estar presente en espera de la restauración del estado normal. En ciertas emergencias este Altísimo observador podía ejercer autoridad absoluta y arbitraria sobre todo ser celestial asignado a ese planeta. [LU 35:5.6](/es/The_Urantia_Book/35#p5_6)
+> En aquellos mundos segregados en la oscuridad espiritual, aquellas esferas que, por rebelión e incumplimiento, han sufrido aislamiento planetario, un observador Vorondadek suele estar presente en espera de la restauración del estado normal. En ciertas emergencias este Altísimo observador podía ejercer autoridad absoluta y arbitraria sobre todo ser celestial asignado a ese planeta. <a id="a85_386"></a>[LU 35:5.6](/es/The_Urantia_Book/35#p5_6)
 
 ## Las Reglas Más Altas en las Naciones del Mundo
 
-Los Altísimos son seres celestiales que proceden del centro de nuestra constelación, que comprende muchos planetas y sistemas de planetas. Son de la orden Vorondadek y son descendientes directos, hijos, de Cristo Miguel y del Espíritu Madre del Universo. «Vorondadek» significa «muy paternal». Uno de esos individuos llegó a residir en la Tierra como observador hace unos 200.000 años en el momento de la traición de Caligastia, según _El Libro de Urantia_. [LU 43:5.17](/es/The_Urantia_Book/43#p5_17)
+Los Altísimos son seres celestiales que proceden del centro de nuestra constelación, que comprende muchos planetas y sistemas de planetas. Son de la orden Vorondadek y son descendientes directos, hijos, de Cristo Miguel y del Espíritu Madre del Universo. «Vorondadek» significa «muy paternal». Uno de esos individuos llegó a residir en la Tierra como observador hace unos 200.000 años en el momento de la traición de Caligastia, según _El Libro de Urantia_. <a id="a89_458"></a>[LU 43:5.17](/es/The_Urantia_Book/43#p5_17)
 
 <figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/012.jpg">
@@ -102,7 +102,7 @@ Los Vorondadeks son, digamos, astutos. Son selectivos, sabios y totalmente exper
 
 Somos conscientes del hecho de que tal intervención tuvo lugar durante la vida de Abraham. Melquisedec fue el maestro, guía y sacerdote de Abraham, a quien se le aconsejó durante el período militarista anterior de su vida que no se involucrara en aventuras militares ofensivas. Pero Abraham, que tenía aspiraciones reales, estaba decidido a ir a la batalla contra las tribus vecinas. Sin duda, hubo varias batallas en las que Abraham se puso a sí mismo ya sus hombres en peligro. En una ocasión, Abraham y su ejército se enfrentaron al enemigo a pesar de la advertencia. Melquisedec salió a disuadirlo, pero solo lo alcanzó cuando Abraham regresaba victorioso de la batalla. De alguna manera, Melquisedec estaba al tanto de las relaciones entre Vorondadek y Abraham, como leemos aquí:
 
-> Cuando Maquiventa Melquisedec ministró en forma semimaterial en Urantia, rindió un homenaje respetuoso al Altísimo observador de turno, como está escrito: «Y Melquisedec, rey de Salem, era sacerdote del Altísimo». Melquisedec reveló las relaciones de este Altísimo observador con Abraham cuando dijo: «Y bendito sea el Altísimo, que ha entregado a tus enemigos en tus manos». [LU 43:5.17](/es/The_Urantia_Book/43#p5_17)
+> Cuando Maquiventa Melquisedec ministró en forma semimaterial en Urantia, rindió un homenaje respetuoso al Altísimo observador de turno, como está escrito: «Y Melquisedec, rey de Salem, era sacerdote del Altísimo». Melquisedec reveló las relaciones de este Altísimo observador con Abraham cuando dijo: «Y bendito sea el Altísimo, que ha entregado a tus enemigos en tus manos». <a id="a104_378"></a>[LU 43:5.17](/es/The_Urantia_Book/43#p5_17)
 
 ¿Puedes imaginar el revés en la misión de Melquisedec, el desvío en la historia del mundo y la difícil situación de las religiones abrahámicas si una espada enemiga se hubiera encontrado con Abraham, matándolo en uno de esos campos de batalla? Este fue muy posiblemente uno de esos 33 o más casos en los que el Altísimo intervino para «gobernar en los reinos de los hombres».
 

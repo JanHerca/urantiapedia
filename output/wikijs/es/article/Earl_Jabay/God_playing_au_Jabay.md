@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Una comprensión del término «jugar a ser Dios» tal como lo usa el reverendo Earl Jabay en su libro «El reino del yo» puede ser útil para todos nosotros en nuestros esfuerzos por cumplir las esperanzas de Jesús como se anuncia en los Documentos de Urantia por sus autores.
 
-> «**Vuestra misión en el mundo** está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y **esta misión consistirá en la vida que viviréis entre los hombres** —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
+> «**Vuestra misión en el mundo** está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y **esta misión consistirá en la vida que viviréis entre los hombres** —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». (<a id="a38_378"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
 Si queremos expresar efectivamente la vida vivida por Jesús en nuestras propias vidas, ciertamente necesitamos estar libres incluso de los remanentes del síndrome del Dios que juega, que, de una forma u otra, nos aflige a todos.
 
@@ -66,7 +66,7 @@ Pero su ahora ex-amigo luchaba por preservar una de las convicciones más profun
 
 Jugar a Dios ha sido la fuente de muchas de las principales tragedias de la historia, provocadas por hombres como Napoleón, Hitler, Stalin y muchos otros. Pero si pudiéramos sumar el daño real a la humanidad debido al juego de Dios de individuos ordinarios como tú y como yo, esa suma excedería con creces el daño causado por los ejemplos espectaculares de la historia registrada.
 
-El requisito de que vivamos nuestras vidas como Jesús vivió la suya está lleno de peligros, particularmente si nos vemos a nosotros mismos en roles de liderazgo en lugar de servir humildemente «mientras pasamos». En el artículo que sigue se destaca una declaración extraordinaria hecha por Jesús en el momento en que estaba reuniendo por primera vez a los que más tarde se convertirían en sus apóstoles: «Jesús explicó que había ignorado deliberadamente a los ‘grandes hombres de la tierra’» ([LU 141). :7.8](/es/The_Urantia_Book/141#p7_8))
+El requisito de que vivamos nuestras vidas como Jesús vivió la suya está lleno de peligros, particularmente si nos vemos a nosotros mismos en roles de liderazgo en lugar de servir humildemente «mientras pasamos». En el artículo que sigue se destaca una declaración extraordinaria hecha por Jesús en el momento en que estaba reuniendo por primera vez a los que más tarde se convertirían en sus apóstoles: «Jesús explicó que había ignorado deliberadamente a los ‘grandes hombres de la tierra’» (<a id="a68_493"></a>[LU 141). :7.8](/es/The_Urantia_Book/141#p7_8))
 
 Aparentemente, la tarea llevada a cabo por Jesús en su revelación, y que ahora será continuada por esta nueva revelación en los Documentos de Urantia, podría ser llevada a cabo efectivamente **solo por los hombres y mujeres «ordinarios» de la época de Jesús**. Cada vez más, también comienza a parecer que esta nueva revelación solo puede hacerse efectiva a través de las vidas reales vividas por el equivalente moderno del mismo tipo de gente «común».
 
@@ -74,7 +74,7 @@ La mayoría de los «grandes hombres de la tierra» que pertenecían a la socied
 
 A Jesús le gustaba hacer comentarios como: «El que quiera ser el mayor entre vosotros, que sea el primero en servir a todos». Este tipo de calificación no formaba parte de la composición de los «grandes hombres de la tierra» de la población judía de ese día. Tenían una visión de la vida bastante diferente, que ahora llamaríamos un egocentrismo agudo. Jesús los describió de esta manera:
 
-> «Además, estos gobernantes egocéntricos se deleitan en hacer sus buenas obras para ser vistos por los hombres. Ensanchan sus filacterias y agrandan los bordes de sus túnicas oficiales. Anhelan los primeros lugares en las fiestas y demandan los primeros lugares en las sinagogas. Codician saludos laudatorios en los mercados y desean ser llamados rabino por todos los hombres. Y aun cuando buscan todo este honor de los hombres, secretamente se apoderan de las casas de las viudas y se aprovechan de los servicios del templo sagrado. Como pretexto, estos hipócritas hacen largas oraciones en público y dan limosnas para llamar la atención de sus compañeros.» ([LU 175:1.9](/es/The_Urantia_Book/175#p1_9))
+> «Además, estos gobernantes egocéntricos se deleitan en hacer sus buenas obras para ser vistos por los hombres. Ensanchan sus filacterias y agrandan los bordes de sus túnicas oficiales. Anhelan los primeros lugares en las fiestas y demandan los primeros lugares en las sinagogas. Codician saludos laudatorios en los mercados y desean ser llamados rabino por todos los hombres. Y aun cuando buscan todo este honor de los hombres, secretamente se apoderan de las casas de las viudas y se aprovechan de los servicios del templo sagrado. Como pretexto, estos hipócritas hacen largas oraciones en público y dan limosnas para llamar la atención de sus compañeros.» (<a id="a76_661"></a>[LU 175:1.9](/es/The_Urantia_Book/175#p1_9))
 
 Jesús vivió su vida como una revelación de la naturaleza de su Padre celestial, un Dios de amor, misericordia y compasión. Jesús vivió para personas como tú y yo. Y Jesús murió por personas como tú y como yo.
 
@@ -84,7 +84,7 @@ Ahora tenemos un registro completo e inmaculado de esa vida y muerte. ¿Qué vam
 
 «Esa es la pregunta candente».
 
-> El desinterés —el espíritu del olvido de sí mismo— ¿es deseable? Entonces el hombre mortal debe vivir cara a cara con las reivindicaciones incesantes de un ego ineludible que pide reconocimiento y honores. ([LU 3:5.13](/es/The_Urantia_Book/3#p5_13))
+> El desinterés —el espíritu del olvido de sí mismo— ¿es deseable? Entonces el hombre mortal debe vivir cara a cara con las reivindicaciones incesantes de un ego ineludible que pide reconocimiento y honores. (<a id="a86_209"></a>[LU 3:5.13](/es/The_Urantia_Book/3#p5_13))
 
 ## Enlaces externos
 

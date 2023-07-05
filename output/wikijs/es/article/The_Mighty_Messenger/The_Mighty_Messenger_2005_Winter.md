@@ -108,7 +108,7 @@ Nueva York, NY 10163
 
 La presencia de la revelación de Urantia se sintió con fuerza en la reunión conjunta de la Iniciativa de Religiones Unidas y la Red Interreligiosa de América del Norte celebrada en la Universidad de Nevada, Las Vegas, del 14 al 16 de agosto de este verano, debido al trabajo de varios dedicados al Libro de Urantia. lectores La comunidad de Urantia organizó un banquete para la reunión de tentadores y también creó espacios sagrados en los que celebrar diferentes tradiciones religiosas. Sirviendo activamente en estas actividades estuvieron, en la última fila, de izquierda a derecha, Amee Majors, Charlene Morrow, Tamara Wood, Share Beasley, Susan Cook, Judy Langston y Gard Jameson. Primera fila, de izquierda a derecha, Bill Beasley y Marvin Gawryn.
 
-> Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas. [[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)]
+> Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas. <a id="a110_90"></a>[[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)]
 
 ## Celebraciones del cumpleaños de Jesús
 

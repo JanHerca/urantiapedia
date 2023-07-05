@@ -79,7 +79,7 @@ GLAD ahora está aceptando artículos, historias, poesía y obras de arte para l
 
 por _Meredith J. Sprunger_
 
-La principal responsabilidad del movimiento Urantia, a mi juicio, es difundir el paradigma espiritual-cosmológico único de la quinta revelación de época. Los autores de _El Libro de Urantia_ proyectan dos lugares en los que esto tendrá lugar: (1) estableciendo nuevos grupos religiosos ([LU 87:7.10](/es/The_Urantia_Book/87#p7_10)), y (2) fermentando las religiones tradicionales ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7) y [LU 195:9.2](/es/The_Urantia_Book/195#p9_2)).
+La principal responsabilidad del movimiento Urantia, a mi juicio, es difundir el paradigma espiritual-cosmológico único de la quinta revelación de época. Los autores de _El Libro de Urantia_ proyectan dos lugares en los que esto tendrá lugar: (1) estableciendo nuevos grupos religiosos (<a id="a81_287"></a>[LU 87:7.10](/es/The_Urantia_Book/87#p7_10)), y (2) fermentando las religiones tradicionales (<a id="a81_381"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7) y <a id="a81_427"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)).
 
 Ningún sistema de valores o religión importante en la historia de nuestro planeta ha aculturado a la sociedad sin ser institucionalizada. Los autores de _El Libro de Urantia_ observan que la institucionalización de la religión aumenta el potencial del mal, pero continúan diciendo que la religión no puede sobrevivir en la sociedad civilizada sin estar institucionalizada. Las enseñanzas de la quinta revelación de época deben, tarde o temprano, institucionalizarse para aculturar y transformar nuestra comprensión religiosa y las instituciones sociales. Nuestro desafío básico es descubrir, reformar o crear los vehículos religiosos sociales que puedan cumplir esta tarea.
 
@@ -107,7 +107,7 @@ Aunque Kenton había dedicado su carrera anterior a la educación, finalmente ab
 <img src="/image/article/The_Mighty_Messenger/1997_Fall/005961.jpg">
 </figure>
 
-Se incorporó mucho tiempo de socialización y compañerismo gratuito en esta conferencia, una empresa conjunta de los grupos de Houston, Austin y Dallas/Fort Worth. El tema se centró en los tres elementos esenciales del reino de los cielos, tal como Jesús se los explicó al apóstol Juan en [LU 140:10.9](/es/The_Urantia_Book/140#p10_9). Cada ubicación de Texas dirigió talleres sobre uno de estos tres elementos esenciales. Se llevó a cabo un servicio de adoración el sábado por la noche, seguido de una reunión para discutir planes y mejoras para futuros Round-Ups.
+Se incorporó mucho tiempo de socialización y compañerismo gratuito en esta conferencia, una empresa conjunta de los grupos de Houston, Austin y Dallas/Fort Worth. El tema se centró en los tres elementos esenciales del reino de los cielos, tal como Jesús se los explicó al apóstol Juan en <a id="a109_288"></a>[LU 140:10.9](/es/The_Urantia_Book/140#p10_9). Cada ubicación de Texas dirigió talleres sobre uno de estos tres elementos esenciales. Se llevó a cabo un servicio de adoración el sábado por la noche, seguido de una reunión para discutir planes y mejoras para futuros Round-Ups.
 
 La resolución de hacer de este un evento anual fue unánime. Se decidió que los planificadores deberían investigar otros lugares en el área central de Texas que incluirían instalaciones para acampar y alojamiento más asequible para las familias. La estructura seguirá siendo similar con las tres áreas contribuyendo en un esfuerzo de equipo. Austin encabezará los planes para la conferencia del 98, con Houston liderando la del 99.
 

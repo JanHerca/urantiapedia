@@ -60,7 +60,7 @@ En consecuencia, en tales circunstancias, cada parte debe esforzarse por identif
 
 El abuso sexual infantil es otra cosa. Debido a la diferencia de poder y la posición de confianza, el niño es una víctima y es violado por el perpetrador. El perpetrador del mal es a menudo una persona cercana al niño, y la víctima tiene recuerdos de momentos amorosos junto con aquellos de abuso de confianza y poder.
 
-Si las personas pudieran ser buenas o malas, la vida sería mucho menos complicada. Pero la realidad es que la gente es imperfecta, una mezcla. Por lo tanto, es difícil perdonar si nos esforzamos por comprenderlos basados ​​en la expectativa de consistencia. («Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo.» [LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
+Si las personas pudieran ser buenas o malas, la vida sería mucho menos complicada. Pero la realidad es que la gente es imperfecta, una mezcla. Por lo tanto, es difícil perdonar si nos esforzamos por comprenderlos basados ​​en la expectativa de consistencia. («Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo.» <a id="a62_359"></a>[LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
 
 En algún momento, a medida que crecemos, nos damos cuenta de que estamos atrapados en la transgresión pasada del perpetrador, y continuamos albergando ira y dolor por su fechoría mientras luchamos por perdonar.
 
@@ -70,7 +70,7 @@ Desafortunadamente, el perdón tiene connotaciones comunes con la aprobación de
 
 Perdonar significa en primer lugar preguntar qué es exactamente lo que debemos perdonar. Y esto exige una exploración lo más objetiva posible del acto y sus consecuencias sobre nosotros mismos. ¿Ha distorsionado la imagen que tenemos de nosotros mismos y de nuestra vida? El proceso de sanación después de una fechoría de otra persona nos obliga a explorar su impacto en nuestra autoestima y actitud hacia la vida y hacia los demás. Esa es nuestra tarea.
 
-Luego viene el acercamiento al perpetrador con el fin de extender nuestro perdón por su acto malvado (_El Libro de Urantia_ proporciona pautas sobre cómo acercarse al perpetrador en [LU 159:1.3](/es/The_Urantia_Book/159#p1_3)). Este paso requiere conciencia por parte de las víctimas de que suele haber una brecha de magnitud entre los perpetradores y las víctimas.
+Luego viene el acercamiento al perpetrador con el fin de extender nuestro perdón por su acto malvado (_El Libro de Urantia_ proporciona pautas sobre cómo acercarse al perpetrador en <a id="a72_182"></a>[LU 159:1.3](/es/The_Urantia_Book/159#p1_3)). Este paso requiere conciencia por parte de las víctimas de que suele haber una brecha de magnitud entre los perpetradores y las víctimas.
 
 Los perpetradores ven el efecto de lo que hacen como de menor alcance, importancia y gravedad que las víctimas. Un evento violento y represivo tiende a retroceder al pasado mucho más rápido para el perpetrador que para la víctima. Para el perpetrador, puede convertirse rápidamente en historia antigua, mientras que la víctima puede considerarlo crucial para comprender el presente.
 

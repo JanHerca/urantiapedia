@@ -53,7 +53,7 @@ Los actos morales son aquellas actuaciones humanas que se caracterizan por la mÃ
 
 La virtud suprema, entonces, es elegir de todo corazÃ³n hacer la voluntad del Padre en el cielo. ([Documento 16, Secc. 7](/es/The_Urantia_Book/16#_par))
 
-> Los hombres mueren buscando al mismo Dios que habita en ellos. ([LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
+> Los hombres mueren buscando al mismo Dios que habita en ellos. (<a id="a55_66"></a>[LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
 
 ## Enlaces externos
 

@@ -114,7 +114,7 @@ Las extensas investigaciones realizadas por Gardner y otros tampoco han logrado 
 
 La principal conclusión extraída de este análisis es que muchos autores no identificados fueron los responsables de la redacción de los Documentos de Urantia. El análisis estadístico no puede hacer nada para confirmar o negar un origen revelador. Personalmente, creo que tengo la ayuda de las fuerzas espirituales mencionadas con tanta frecuencia en los documentos, el espíritu del Padre que mora en mí y el Espíritu de la Verdad, para ayudarme en mi toma de decisiones. Pero independientemente del grado de autoridad que atribuyamos a los Documentos, el hecho es que estos Documentos de Urantia son una contribución verdaderamente notable a nuestra literatura religiosa. Una vez más, expresando una opinión personal, su valor supera con creces cualquier otra cosa disponible para la humanidad.
 
-Una de las declaraciones más profundas de los Documentos de Urantia es: «Jesús vivió una vida que es una revelación del hombre sometido a la voluntad del Padre». ([LU 194:2.8](/es/The_Urantia_Book/194#p2_8))
+Una de las declaraciones más profundas de los Documentos de Urantia es: «Jesús vivió una vida que es una revelación del hombre sometido a la voluntad del Padre». (<a id="a116_163"></a>[LU 194:2.8](/es/The_Urantia_Book/194#p2_8))
 
 Aquellos que comprenden el pleno significado de estas palabras no necesitan nada más.
 

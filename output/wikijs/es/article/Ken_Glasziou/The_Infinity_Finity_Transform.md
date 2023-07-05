@@ -90,7 +90,7 @@ De manera similar, con los detalles de la transmutación de posibilidades existe
 
 Por el contrario, los Documentos de Urantia presentan una descripción detallada del camino por el cual los potenciales existenciales pero estáticos que residen en el Absoluto No Cualificado se activan causalmente para transformarse y convertirse en realidades potenciales en los mundos finitos. Sin embargo, aunque se proporciona una descripción detallada del camino, no se proporciona información sobre la transformación física de existencial a experiencial. ([La Transmutación de las Potencialidades y Actualidades Existenciales al Nivel Finito de la Realidad](/es/article/The_Transmutation_of_Existencial)).
 
-Con respecto a la aparente creatividad de las mentes de los seres mortales, la realidad parece ser que está, de hecho, en la forma en que seleccionamos entre las posibilidades y potenciales que ya residen en el Supremo. Esta es la toma de decisiones que se considera tan importante para nuestro progreso espiritual. ([LU 39:4.8](/es/The_Urantia_Book/39#p4_8))
+Con respecto a la aparente creatividad de las mentes de los seres mortales, la realidad parece ser que está, de hecho, en la forma en que seleccionamos entre las posibilidades y potenciales que ya residen en el Supremo. Esta es la toma de decisiones que se considera tan importante para nuestro progreso espiritual. (<a id="a92_317"></a>[LU 39:4.8](/es/The_Urantia_Book/39#p4_8))
 
 Es de interés que entre aquellos que investigan el tema de la conciencia y la autoconciencia, hay, en un extremo, aquellos que niegan la existencia de cualquiera y, en el otro extremo, aquellos que están tratando de casarse con los extraños hallazgos de la física cuántica. con su trabajo en neurofisiología.
 

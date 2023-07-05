@@ -52,7 +52,7 @@ dateCreated: 2022-9-9T8:13:38Z
 >
 > 8. El desinterés —el espíritu del olvido de sí mismo— ¿es deseable? Entonces el hombre mortal debe vivir cara a cara con las reivindicaciones incesantes de un ego ineludible que pide reconocimiento y honores. El hombre no podría elegir dinámicamente la vida divina si no hubiera ninguna vida egoísta a la que renunciar. El hombre nunca podría aferrarse a la rectitud para salvarse si no existiera ningún mal potencial para exaltar y diferenciar el bien por contraste.
 >
-> 9. El placer —la satisfacción de la felicidad— ¿es deseable? Entonces el hombre debe vivir en un mundo donde la alternativa del dolor y la probabilidad del sufrimiento son posibilidades experienciales siempre presentes. ([LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
+> 9. El placer —la satisfacción de la felicidad— ¿es deseable? Entonces el hombre debe vivir en un mundo donde la alternativa del dolor y la probabilidad del sufrimiento son posibilidades experienciales siempre presentes. (<a id="a54_223"></a>[LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
 
 ## Enlaces externos
 

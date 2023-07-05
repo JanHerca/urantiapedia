@@ -48,7 +48,7 @@ Nosotros, los humanos, tenemos dos «maneras» extremas de proclamar o demostrar
 > El propósito de luchar por una causa es evitar simplemente servir a una causa.
 > _(otro escéptico)_
 
-> Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es. ([LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
+> Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es. (<a id="a50_174"></a>[LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
 
 Un resultado automático es que nos encontramos contra todos aquellos cuya opinión, relativa a «la causa», difiere de la nuestra.
 

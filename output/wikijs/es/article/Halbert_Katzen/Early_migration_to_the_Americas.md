@@ -222,7 +222,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 ## Enlaces externos
 
 * Este informe en el sitio web UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf
-* *El Libro de Urantia*: [LU 64:6](/es/The_Urantia_Book/64#p6)
+* *El Libro de Urantia*: <a id="a224_25"></a>[LU 64:6](/es/The_Urantia_Book/64#p6)
 * *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999.
 	 
 	https://web.archive.org/web/20090628145147/http://www.si.edu/Encyclopedia_SI/nmnh/origin.htm [Enlace original roto]
@@ -259,7 +259,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 ## Referencias
 
-[^1]: [LU 64:6.5](/es/The_Urantia_Book/64#p6_5)
+[^1]: <a id="a261_6"></a>[LU 64:6.5](/es/The_Urantia_Book/64#p6_5)
 
 [^2]: Véase los [documentos 62](/es/The_Urantia_Book/62), [63](/es/The_Urantia_Book/63) y [64](/es/The_Urantia_Book/64) de *El Libro de Urantia* para una completa descripción de estos eventos.
 
@@ -269,13 +269,13 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 [^5]: *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999. https://web.archive.org/web/20090628145147/http://www.si.edu/Encyclopedia_SI/nmnh/origin.htm [Enlace original roto]
 
-[^6]: [LU 64:6.4-8](/es/The_Urantia_Book/64#p6_4)
+[^6]: <a id="a271_6"></a>[LU 64:6.4-8](/es/The_Urantia_Book/64#p6_4)
 
-[^7]: [LU 64:7.4,5,7](/es/The_Urantia_Book/64#p7_4)
+[^7]: <a id="a273_6"></a>[LU 64:7.4,5,7](/es/The_Urantia_Book/64#p7_4)
 
-[^8]: [LU 64:7.17-19](/es/The_Urantia_Book/64#p7_17)
+[^8]: <a id="a275_6"></a>[LU 64:7.17-19](/es/The_Urantia_Book/64#p7_17)
 
-[^9]: [LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a277_6"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
 
 [^10]: *Find May Rewrite Americas' Prehistory* (*Hallazgo podría reescribir la prehistoria americana*), por Curt Suplee, Washington Post, 11 febrero 1997. Artículo acerca de Monte Verde, yacimiento de Chile, de 33.000 años de antigüedad. http://www.washingtonpost.com/wp-srv/inatl/americas/feb/17/artifact.htm
 

@@ -101,9 +101,9 @@ Al principio sintió ira y celos hacia ellos. Como ministro ordenado con calific
 11. A través de la oración y la meditación, buscar mejorar su contacto consciente con Dios tal como lo entienden, orando solo por el conocimiento de Su voluntad para ellos, y el poder para llevarla a cabo.
 12. Habiendo tenido un despertar espiritual como resultado de estos pasos, tratar de llevar este mensaje a los alcohólicos y practicar estos principios en todos sus asuntos.
 
-> Jesús nunca oró como un deber religioso. Para él, la oración era una rendición trascendental de la voluntad. ([LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
+> Jesús nunca oró como un deber religioso. Para él, la oración era una rendición trascendental de la voluntad. (<a id="a103_112"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
 
-> Cuando la voluntad de Dios es vuestra ley, sois unos nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, los hijos liberados del reino. ([LU 141:2.2](/es/The_Urantia_Book/141#p2_2))
+> Cuando la voluntad de Dios es vuestra ley, sois unos nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, los hijos liberados del reino. (<a id="a105_299"></a>[LU 141:2.2](/es/The_Urantia_Book/141#p2_2))
 
 Jabay dice que estos pasos funcionan, no solo con alcohólicos, sino también con ministros confundidos. Dios se hizo real para él por primera vez en su vida, y así, diez años después de su ordenación, dejó vacante el trono y entró tropezando en el reino.
 

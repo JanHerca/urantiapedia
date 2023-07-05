@@ -129,7 +129,7 @@ Gracias al Comité YaYA por patrocinar el comité adjunto de Vida Familiar. Est�
 
 En servicio amoroso, Sara Blackstock, Miranda Clendenning, Richard Daunt, Janet Graham (Presidente)
 
-> Toda la vida de un ser humano está enormemente influida por lo que sucede durante los primeros años de la existencia. [[LU 177:2.5](/es/The_Urantia_Book/177#p2_5)]
+> Toda la vida de un ser humano está enormemente influida por lo que sucede durante los primeros años de la existencia. <a id="a131_120"></a>[[LU 177:2.5](/es/The_Urantia_Book/177#p2_5)]
 
 ## El Consejo General en Los Ángeles
 
@@ -247,7 +247,7 @@ Por _Charles Laurence Olivea_ © 2013
 
 Esta Declaración de Misión del Comité de Educación es parte de un esfuerzo por poner un nuevo énfasis o valor en la idea de un estudio más amplio y profundo de la Quinta Revelación de Época. Refleja el requisito constitucional de la Fellowship de que «fomentemos el estudio en profundidad de _El Libro de Urantia_... centrado en los ideales educativos universales de fomentar el desarrollo de los estudiantes-maestros».
 
-Llevaría más lejos la Declaración de la Misión y el mandato constitucional al sugerir que anticipan las normas que emergen en el Quinto Mundo Mansión. «Aproximadamente en este punto, el ascendente mortal de tipo medio empieza a manifestar un auténtico entusiasmo experiencial por la ascensión a Havona. El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea». [[LU 47:7.5](/es/The_Urantia_Book/47#p7_5)] (Énfasis añadido)
+Llevaría más lejos la Declaración de la Misión y el mandato constitucional al sugerir que anticipan las normas que emergen en el Quinto Mundo Mansión. «Aproximadamente en este punto, el ascendente mortal de tipo medio empieza a manifestar un auténtico entusiasmo experiencial por la ascensión a Havona. El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea». <a id="a249_401"></a>[[LU 47:7.5](/es/The_Urantia_Book/47#p7_5)] (Énfasis añadido)
 
 ¿Por qué deberíamos esperar hasta el Quinto Mundo Mansión?
 
@@ -263,7 +263,7 @@ Como proceso, otorga una gran importancia al pensamiento crítico, escuchar aten
 
 El tiempo debe ser visto como nuestro «sirviente», no como nuestro «amo». No debemos tener prisa. Jesús ejemplificó esto. La noción de «estudio voluntario» sugiere la voluntad de ampliar el conocimiento y profundizar las percepciones. Esto no debe ser visto como una mera tarea, sino como un gozo a alcanzar en el arte de vivir.
 
-Una vez más, para nosotros, significa un deseo inteligente de escuchar y compartir con mentes y almas afines. El crecimiento personal tarde o temprano requiere interacción social. Una persona individual puede estudiar por su cuenta, pero para realmente crecer, sus poderes mentales y espirituales necesitan interactuar (eventuarse) con otros de una manera fraternal o fraternal. Recuerda que las relaciones entre personalidades —humanas o divinas— son fines en sí mismas; todo lo demás es secundario. [[LU 112:2.4](/es/The_Urantia_Book/112#p2_4)] Inspirémonos para siempre en la gran declaración: «El universo entero es una gran escuela». [[LU 37:6.2](/es/The_Urantia_Book/37#p6_2)]
+Una vez más, para nosotros, significa un deseo inteligente de escuchar y compartir con mentes y almas afines. El crecimiento personal tarde o temprano requiere interacción social. Una persona individual puede estudiar por su cuenta, pero para realmente crecer, sus poderes mentales y espirituales necesitan interactuar (eventuarse) con otros de una manera fraternal o fraternal. Recuerda que las relaciones entre personalidades —humanas o divinas— son fines en sí mismas; todo lo demás es secundario. <a id="a265_501"></a>[[LU 112:2.4](/es/The_Urantia_Book/112#p2_4)] Inspirémonos para siempre en la gran declaración: «El universo entero es una gran escuela». <a id="a265_639"></a>[[LU 37:6.2](/es/The_Urantia_Book/37#p6_2)]
 
 
 ## ¡Guarde la fecha para IC'14!

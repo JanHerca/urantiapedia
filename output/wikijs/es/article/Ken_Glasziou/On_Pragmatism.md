@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> _Mientras cenaban, Jesús tuvo una conversación con Mateo en la que le explicó que ***la moralidad de un acto cualquiera está determinada por el móvil del individuo***. La moralidad de Jesús era siempre positiva. La regla de oro, tal como Jesús la expuso de nuevo con más claridad, exige un contacto social activo; la antigua regla negativa podía ser obedecida en la soledad. Jesús despojó a la moralidad de todas las reglas y ceremonias, y la elevó a los niveles majestuosos del pensamiento espiritual y de la vida verdaderamente recta._ ([LU 140:10.5](/es/The_Urantia_Book/140#p10_5))
+> _Mientras cenaban, Jesús tuvo una conversación con Mateo en la que le explicó que ***la moralidad de un acto cualquiera está determinada por el móvil del individuo***. La moralidad de Jesús era siempre positiva. La regla de oro, tal como Jesús la expuso de nuevo con más claridad, exige un contacto social activo; la antigua regla negativa podía ser obedecida en la soledad. Jesús despojó a la moralidad de todas las reglas y ceremonias, y la elevó a los niveles majestuosos del pensamiento espiritual y de la vida verdaderamente recta._ (<a id="a36_541"></a>[LU 140:10.5](/es/The_Urantia_Book/140#p10_5))
 
 Al tomar el camino pragmático, algunos urantianos parecen haber despojado esta declaración de Jesús al nivel mínimo de «_La moralidad de cualquier acto está determinada por el motivo». Esta resultante se toma como autoridad divina para un «**fin justifica los medios**», actitud que sanciona la utilización de medios inmorales o ilícitos para la consecución de lo que se pretende que sean fines morales.
 
@@ -52,11 +52,11 @@ Las citas que me vienen a la mente son: «Nuestra relación con Jesús tiene pri
 
 Si nuestra relación con Jesús debe tener prioridad sobre todo lo demás, y si «no permanecer» significa «sin frutos» y «sin frutos» significa «sin crecimiento del alma», entonces, ¿no corremos el riesgo, quizás la certeza, de la muerte del alma?
 
-¿O hay un «fuera» en la declaración sobre el más mínimo destello de fe que siempre nos da otra oportunidad? Probablemente no, porque si seguimos leyendo llegamos a: «_Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu.._» ([LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
+¿O hay un «fuera» en la declaración sobre el más mínimo destello de fe que siempre nos da otra oportunidad? Probablemente no, porque si seguimos leyendo llegamos a: «_Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu.._» (<a id="a54_366"></a>[LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
 
 Evidentemente Jesús no vivió en ningún tipo de mundo «real» en el que, para él, el fin justificase el uso de medios inmorales. Siempre fue la voluntad del Padre la que tuvo la primera prioridad, con el resultado de que Jesús siempre parece haber sido forzado a tomar el camino difícil. Sin milagros, sin caminar sobre el agua, sin indulto de la cruz.
 
-El camino de Jesús fue el camino de la cruz. Sorprendentemente, fue a su muerte con un gozo supremo en su corazón, aunque experimentaba tristeza exterior. ([LU 180:1.2](/es/The_Urantia_Book/180#p1_2))
+El camino de Jesús fue el camino de la cruz. Sorprendentemente, fue a su muerte con un gozo supremo en su corazón, aunque experimentaba tristeza exterior. (<a id="a58_156"></a>[LU 180:1.2](/es/The_Urantia_Book/180#p1_2))
 
 El corazón humano de Jesús había anhelado encontrar alguna vía legítima de escape de la terrible situación de sufrimiento y dolor que lo enfrentaba. Hubo un millón de formas en las que Jesús pudo haber escapado de la cruz, pero ninguna cayó dentro del requisito del Padre de que la terminación de su otorgamiento en este planeta debería ser «en el curso natural de los acontecimientos».
 

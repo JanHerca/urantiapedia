@@ -58,7 +58,7 @@ En un parque estatal de Carolina del Sur durante cuatro días para organizar nue
 
 De repente nos encontramos en un medio maravilloso de miles de efímeras, ¡qué experiencia tan deliciosa! Estábamos completamente envueltos por estos tiernos insectos que viven, se aparean y mueren, una vez cumplido su propósito, en tan solo setenta y dos horas.
 
-__Ingrediente n.° 2: La eternidad llama, «La vida sólo es el trabajo de un día —hacedlo bien»__ [[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)]
+__Ingrediente n.° 2: La eternidad llama, «La vida sólo es el trabajo de un día —hacedlo bien»__ <a id="a60_96"></a>[[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)]
 
 A continuación, una visita a casa de mi hermana en Richmond, Virginia, durante una ola de calor de más de 100° y aire acondicionado averiado. Calientes y cascarrabias, los temperamentos son geniales y pronto las hermanas amorosas se silban entre sí. ¡Basta de esto, nos vamos de aquí!
 
@@ -84,7 +84,7 @@ Viajamos a través de las colinas onduladas y verdes del oeste de Pensilvania ha
 
 __Ingrediente # 7: Hay personas en todos los ámbitos de la vida esperando una oportunidad para responder a ese impulso interior de hacer del mundo un lugar mejor.__
 
-Girando hacia el sur nos encontramos en Indianápolis en el grupo de estudio de Mike con Linda y Bob, quienes han recorrido un largo camino para asistir. De hecho, siempre están dispuestos a hacer un esfuerzo adicional en cualquier esfuerzo de Urantia que valga la pena. ¡Qué privilegio poder compartir íntimamente lo que sale de las páginas de _El Libro de Urantia_ con lectores devotos desde hace mucho tiempo! También descubrimos otros lectores en el área que no se conocen. Ha llegado el momento de conectarse. «La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual». [[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)]
+Girando hacia el sur nos encontramos en Indianápolis en el grupo de estudio de Mike con Linda y Bob, quienes han recorrido un largo camino para asistir. De hecho, siempre están dispuestos a hacer un esfuerzo adicional en cualquier esfuerzo de Urantia que valga la pena. ¡Qué privilegio poder compartir íntimamente lo que sale de las páginas de _El Libro de Urantia_ con lectores devotos desde hace mucho tiempo! También descubrimos otros lectores en el área que no se conocen. Ha llegado el momento de conectarse. «La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual». <a id="a86_614"></a>[[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)]
 
 __Ingrediente #8: Establece tus prioridades, «llama y la puerta se abrirá».__
 

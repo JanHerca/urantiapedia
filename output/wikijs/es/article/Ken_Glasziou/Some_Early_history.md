@@ -52,11 +52,11 @@ Algunos lectores que todavía tienen que formarse una opinión sobre la validez 
 
 La Dra. Meredith Sprunger, académica jubilada y ministra de religión, ha señalado que el origen y la autoría de una obra como los Documentos de Urantia no es un criterio filosófico de la verdad. Los Documentos mismos niegan que la ciencia pueda validar la verdad religiosa.
 
-«La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana.» ([LU 1:2.7](/es/The_Urantia_Book/1#p2_7))
+«La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana.» (<a id="a54_204"></a>[LU 1:2.7](/es/The_Urantia_Book/1#p2_7))
 
 Y en la página 1106:
 
-> «La razón es la prueba de la ciencia, la fe es la prueba de la religión, la lógica es la prueba de la filosofía, pero la revelación sólo es validada por la experiencia humana». ([LU 101:2.8](/es/The_Urantia_Book/101#p2_8))
+> «La razón es la prueba de la ciencia, la fe es la prueba de la religión, la lógica es la prueba de la filosofía, pero la revelación sólo es validada por la experiencia humana». (<a id="a58_180"></a>[LU 101:2.8](/es/The_Urantia_Book/101#p2_8))
 
 Por lo tanto, según los Documentos de Urantia, tanto la existencia de Dios como la verdad de la revelación pueden validarse solo a través de nuestra propia experiencia personal.
 

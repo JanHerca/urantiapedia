@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> «_Ganid, tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra._» ([LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
+> «_Ganid, tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra._» (<a id="a36_609"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
 
 «El universo es amigable», ¡qué concepto tan extraño! ¿No es la experiencia de prácticamente todos nosotros que el universo es universalmente hostil? Pregúntale a un granjero y te contará historias de inundaciones, incendios, hambrunas y sequías. Pregúntele a todas aquellas personas de los servicios de emergencia que se ocupan de las secuelas de terremotos, maremotos, huracanes, tornados y otras peculiaridades de naturaleza aparentemente hostil. Por supuesto, hay otro lado: esos eventos extraños siempre estuvieron ahí y nosotros, los humanos, construimos nuestras casas en su territorio.
 
@@ -54,9 +54,9 @@ Los Documentos de Urantia eliminan lo suficiente de nuestra ignorancia para perm
 
 Para experimentar el universo amistoso como lo experimentó Jesús, tenemos que volver nuestras mentes a su Espíritu de Verdad.
 
-> «_El verdadero significado cósmico de esta regla de las relaciones universales solamente se revela en su comprensión espiritual, en la interpretación que el espíritu del Hijo hace de la ley de la conducta al espíritu del Padre que reside en el alma del hombre mortal._» ([LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
+> «_El verdadero significado cósmico de esta regla de las relaciones universales solamente se revela en su comprensión espiritual, en la interpretación que el espíritu del Hijo hace de la ley de la conducta al espíritu del Padre que reside en el alma del hombre mortal._» (<a id="a56_273"></a>[LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
 
-> «_Cuando esos mortales conducidos por el espíritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un ***universo amistoso***, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios._» ([LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
+> «_Cuando esos mortales conducidos por el espíritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un ***universo amistoso***, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios._» (<a id="a58_370"></a>[LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
 
 Por lo tanto, las actitudes marcan la diferencia. Jesús nunca percibió la aparente hostilidad de los demás como verdaderamente hostil, sino más bien como que estaban mal informados y equivocados.
 

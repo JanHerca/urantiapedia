@@ -46,7 +46,7 @@ Respuestas de _El Libro de Urantia_.
 - Respuesta Pregúntese: «¿Qué habría hecho Jesús?»
 
 - Pregunta. ¿Y cómo podemos saber lo que habría hecho Jesús?
-- Respuesta. Una de las cosas más importantes en la vida humana es... conocer la vida religiosa de Jesús y cómo la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+- Respuesta. Una de las cosas más importantes en la vida humana es... conocer la vida religiosa de Jesús y cómo la vivió. (<a id="a48_123"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 - Pregunta. ¿Cómo podemos hacer la voluntad de Dios?
 - Respuesta. Hacemos la voluntad de Dios haciéndonos más y más semejantes a Dios.
@@ -68,14 +68,14 @@ Respuestas de _El Libro de Urantia_.
 
 > Alimentos para el pensamiento
 >
-> Jesús estaba interesado sólo en el individuo, no en la masa. ([LU 140:8.11](/es/The_Urantia_Book/140#p8_11))
+> Jesús estaba interesado sólo en el individuo, no en la masa. (<a id="a70_64"></a>[LU 140:8.11](/es/The_Urantia_Book/140#p8_11))
 
 > Las familias reales se construyen sobre la tolerancia, la paciencia y el perdón.
 > Miguel de Nebadón
 
 ## Referencias
 
-- [El Libro de Urantia, Documento 130, Sección 2](/es/The_Urantia_Book/130#p2).
+- <a id="a77_2"></a>[El Libro de Urantia, Documento 130, Sección 2](/es/The_Urantia_Book/130#p2).
 
 ## Enlaces externos
 

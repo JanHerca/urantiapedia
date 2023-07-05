@@ -245,11 +245,11 @@ Mientras vivía en Pueblo, uno de los miembros de nuestro grupo de estudio sufr�
 
 El Cuerpo de Mujeres de Boulder, un grupo de lectores de _El Libro de Urantia_ de varios grupos de estudio, se creó para prestar servicio a mujeres y niños. Todavía me siento cerca de estas mujeres porque imaginamos, creamos y completamos juntos algunos actos de servicio muy significativos.
 
-_El Libro de Urantia_ afirma: «Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres». [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)] Convertirse en un equipo de servicio con su grupo de estudio puede ser una de las cosas más valiosas que los lectores de _El Libro de Urantia_ pueden hacer juntos.
+_El Libro de Urantia_ afirma: «Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres». <a id="a247_265"></a>[[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)] Convertirse en un equipo de servicio con su grupo de estudio puede ser una de las cosas más valiosas que los lectores de _El Libro de Urantia_ pueden hacer juntos.
 
 Jesús envió a los apóstoles en parejas por una razón. Quizás compartir la experiencia le agrega significado y valor. Incluso si todas las personas en su grupo de estudio no están inspiradas para hacer este tipo de cosas juntas, es probable que haya varias que estén dispuestas a unirse a usted. Personalmente, he notado que el servicio realizado en grupo es de alguna manera más satisfactorio. Todos estos proyectos se experimentaron porque una persona apasionada se acercó al grupo y preguntó «¿Ayudarías?» Tal vez sepa de una necesidad en su propia comunidad que podría traer a su grupo. El servicio grupal puede ser una gran experiencia de grupo de estudio.
 
-> «Ser sensible y reaccionar antes las necesidades humanas crea una felicidad auténtica y duradera…» [[LU 140:5.16](/es/The_Urantia_Book/140#p5_16)]
+> «Ser sensible y reaccionar antes las necesidades humanas crea una felicidad auténtica y duradera…» <a id="a251_101"></a>[[LU 140:5.16](/es/The_Urantia_Book/140#p5_16)]
 
 ## Sirviendo en silencio en Corea del Sur
 
@@ -282,7 +282,7 @@ En la actualidad, según las ventas de libros, las descargas, la experiencia de 
 
 Es verdaderamente asombroso lo que uno puede hacer, sirviendo en silencio.
 
-> «Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden». [[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
+> «Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden». <a id="a284_91"></a>[[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
 
 
 ## Dos escaños abiertos en el Consejo General de la Fellowship

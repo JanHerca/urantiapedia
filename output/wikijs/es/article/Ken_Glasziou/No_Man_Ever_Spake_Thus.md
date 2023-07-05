@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-Los oyentes de Jesús estaban repetidamente «_asombrados de su palabra porque enseñaba como quien tiene autoridad y no como los escribas_» ([Marcos 1:22](en/Bible/Mark/1#v22); [LU 145:2.11](/es/The_Urantia_Book/145#p2_11))
+Los oyentes de Jesús estaban repetidamente «_asombrados de su palabra porque enseñaba como quien tiene autoridad y no como los escribas_» ([Marcos 1:22](en/Bible/Mark/1#v22); <a id="a36_175"></a>[LU 145:2.11](/es/The_Urantia_Book/145#p2_11))
 
 Bien podemos reflexionar con asombro sobre las palabras que podemos descubrir en _El Libro de Urantia_ porque seguramente «ningún hombre jamás escribió así». La sección del libro que sigue es solo una de una multitud que debe obligarnos a preguntarnos: «¿Podría algún hombre escribir así?».
 
@@ -52,7 +52,7 @@ La fuerza cósmica responde a la mente así como la mente cósmica responde al e
 
 La mente transmuta los valores del espíritu en los significados del intelecto; la volición tiene el poder de hacer que los significados de la mente fructifiquen tanto en el dominio material como en el espiritual. El ascenso al Paraíso implica un crecimiento relativo y diferencial en espíritu, mente y energía. La personalidad es el unificador de estos componentes de la individualidad experiencial.
 
-> Él (Jesús) hablaba con ellos sin ninguna reserva y exponía sus ideas e ideales sobre la política, la sociología, la ciencia y la filosofía, pero nunca pretendía hablar con una autoridad final excepto cuando hablaba de religión —de la relación del hombre con Dios. ([LU 129:1.10](/es/The_Urantia_Book/129#p1_10))
+> Él (Jesús) hablaba con ellos sin ninguna reserva y exponía sus ideas e ideales sobre la política, la sociología, la ciencia y la filosofía, pero nunca pretendía hablar con una autoridad final excepto cuando hablaba de religión —de la relación del hombre con Dios. (<a id="a54_267"></a>[LU 129:1.10](/es/The_Urantia_Book/129#p1_10))
 
 ## Enlaces externos
 

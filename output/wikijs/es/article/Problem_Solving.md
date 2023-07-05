@@ -39,7 +39,7 @@ Rodan, Alexandria
 > 
 > **«Que se haga, no mi voluntad, sino la tuya»**
 >
-> ([LU 160:1.10](/es/The_Urantia_Book/160#p1_10))
+> (<a id="a41_3"></a>[LU 160:1.10](/es/The_Urantia_Book/160#p1_10))
 
 > La prueba de la grandeza espiritual es la cualidad de falta de seriedad que se muestra en el trabajo de uno por el bienestar de los demás.
 

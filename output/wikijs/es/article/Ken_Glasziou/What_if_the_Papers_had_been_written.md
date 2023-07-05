@@ -39,7 +39,7 @@ La redacción del Libro de Urantia de 2000 páginas habría requerido una enorme
 
 ## Contenido
 
-**Formación de las montañas.** Los Documentos de Urantia asocian los procesos de formación de montañas y continentes a la deriva como responsables de la cadena de montañas en la costa oeste de las Américas que se extiende desde Alaska hasta el fondo de América del Sur. ([LU 60:3.2](/es/The_Urantia_Book/60#p3_2))
+**Formación de las montañas.** Los Documentos de Urantia asocian los procesos de formación de montañas y continentes a la deriva como responsables de la cadena de montañas en la costa oeste de las Américas que se extiende desde Alaska hasta el fondo de América del Sur. (<a id="a41_271"></a>[LU 60:3.2](/es/The_Urantia_Book/60#p3_2))
 
 Los lectores modernos probablemente no piensen en la declaración de pasada. Pero hasta mediados de la década de 1950 e incluso más tarde, la deriva continental fue clasificada como una herejía prohibida entre la gran mayoría de los geólogos. Entonces, ¿por qué se incluyó como un factor importante para la construcción de montañas?
 
@@ -49,15 +49,15 @@ Los fósiles de marsupiales se encuentran en los estratos del Oligoceno Superior
 
 Una vez más, la mayoría de los lectores modernos pasarían por alto esta información sin darse cuenta de que, cuando se escribió, el concepto de deriva continental hasta la década de 1960 seguía siendo una gran herejía. Ahora bien, la unión de estos tres continentes constituye una parte aceptada de la teoría.
 
-**Explosión de supernova de estrella doble.** La más reciente de las principales erupciones cósmicas en Orvonton fue la extraordinaria explosión de estrella doble, cuya luz llegó a Urantia en 1572 d.C. Esta conflagración fue tan intensa que la explosión fue claramente visible a plena luz del día. . ([LU 41:3.5](/es/The_Urantia_Book/41#p3_5))
+**Explosión de supernova de estrella doble.** La más reciente de las principales erupciones cósmicas en Orvonton fue la extraordinaria explosión de estrella doble, cuya luz llegó a Urantia en 1572 d.C. Esta conflagración fue tan intensa que la explosión fue claramente visible a plena luz del día. . (<a id="a51_301"></a>[LU 41:3.5](/es/The_Urantia_Book/41#p3_5))
 
 La explosión de una supernova en 1572 fue un espectáculo brillante visible a plena luz del día y se conoció como la nova de Tycho Brahe. Los Documentos de Urantia dicen que esta nova se debió a la explosión de una estrella doble. La primera descripción teórica seria de novas y supernovas fue presentada en 1957 por Burbidge, Fowler y Hoyle e indicó que pueden ocurrir tanto nova como supernova de estrella simple o doble. El remanente de la supernova Tycho Brahe fue redescubierto en 1952 mediante el uso del radiotelescopio recién inventado, pero no se pudo demostrar que fuera una explosión de estrella simple o doble hasta que el observatorio de rayos X de Einstein en órbita lo cartografió extensamente en 1967 cuando quedó demostrada su condición de doble estrella.
 
-**Los rayos X del Sol.** «El interior de su sol es un vasto generador de rayos X». ([LU 41:5.3](/es/The_Urantia_Book/41#p5_3))
+**Los rayos X del Sol.** «El interior de su sol es un vasto generador de rayos X». (<a id="a55_84"></a>[LU 41:5.3](/es/The_Urantia_Book/41#p5_3))
 
 El Sol fue el primer objeto celeste determinado en emitir Rayos X; Los contadores de radiación transportados por cohetes midieron las emisiones de rayos X de su corona en 1949. En el «Frente de física y astronomía» de Hoyle y Narliker encontramos: "Uno de los autores recuerda cómo, a mediados de la década de 1940, la cuestión de si el sol podría emitir rayos X fue considerado por los astrónomos como altamente especulativo.
 
-**La nebulosa del Cangrejo.** "... la nebulosa del Cangrejo, que tuvo su origen hace unos novecientos años, y que todavía exhibe la esfera madre como una estrella solitaria cerca del centro de esta masa nebulosa irregular”. ([LU 41:8.4](/es/The_Urantia_Book/41#p8_4))
+**La nebulosa del Cangrejo.** "... la nebulosa del Cangrejo, que tuvo su origen hace unos novecientos años, y que todavía exhibe la esfera madre como una estrella solitaria cerca del centro de esta masa nebulosa irregular”. (<a id="a59_225"></a>[LU 41:8.4](/es/The_Urantia_Book/41#p8_4))
 
 El Documento de Urantia afirma que la nebulosa del Cangrejo tuvo su origen en una explosión de nova que ocurrió hace 900 años. La existencia de una estrella de neutrones en su centro se demostró en 1967 con la detección de un púlsar que pulsaba a una velocidad de 30 por segundo. Esto era demasiado alto para que se originara en una enana blanca que se desintegraría si girara a esa velocidad. Sólo podría ser de una estrella de neutrones.
 
