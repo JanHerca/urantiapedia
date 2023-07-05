@@ -1644,34 +1644,31 @@ class Book {
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
-			const cite = `<sup id="cite_{1}{0}"><a href="#fn_{1}{0}">[{0}]</a></sup>`;
-			const icon = `<img class="emoji" draggable="false" alt="{0}" ` +
-				`src="/_assets/svg/twemoji/{1}.svg">`;
 			const colors = ['blue', 'purple', 'teal', 'deep-orange'];
 			let error = null;
 
-			//Get all footnotes (paramony + paralells)
+			//Get all footnotes: Bible (paramony), books (paralells), articles
 			const paramonyFn = (Array.isArray(paper.footnotes) &&
 				paper.footnotes.length > 0 ?
 				this.footnotesToObjects(paper) : []);
-			paramonyFn.sort((a, b) => a.sorting - b.sorting);
 			const paramonyFnErr = paramonyFn
 				.filter(f => f.html === 'FOOTNOTE ERROR')
 				.map(f => f.index);
-			const paralellsFn = (paralells ? paralells.getParalells(index) : []);
-			paralellsFn.sort((a, b) => a.sorting - b.sorting);
+			const paralellsFn = (paralells ? 
+				paralells.getParalells(index) : []);
 			const articlesFn = (articles ? articles.getParalells(index) : []);
-			articlesFn.sort((a, b) => a.sorting - b.sorting);
-			const allFn = [
-				{section: 'Articles', footnotes: articlesFn, index: 0, 
+
+			const footnoteDef = [
+				{section: Strings['articles'][this.language], 
+					footnotes: articlesFn, index: 0, 
 					suffix: 'a', twemoji: '1f4c3', alt: '📃'},
-				{section: 'The Bible', footnotes: paramonyFn, index: 0, 
+				{section: Strings['bibleName'][this.language], 
+					footnotes: paramonyFn, index: 0, 
 					suffix: 'b', twemoji: '1f4d5', alt: '📕'},
-				{section: 'Other books', footnotes: paralellsFn, index: 0, 
+				{section: Strings['booksOther'][this.language], 
+					footnotes: paralellsFn, index: 0, 
 					suffix: 'o', twemoji: '1f4da', alt: '📚'}
-			]
-			// const allFn = [...paramonyFn, ...paralellsFn];
-			// allFn.sort((a, b) => a.sorting - b.sorting);
+			];
 
 			//Checks
 			if (!Array.isArray(paper.sections)) {
@@ -1757,6 +1754,7 @@ class Book {
 					pi = aref[2];
 					rErr = [];
 
+					//Create paragraphs for all versions (multi/single)
 					const parHtmls = pars.map((p, ppi) => {
 						let parHtml = '';
 						let pcontent = p.par_content;
@@ -1767,7 +1765,7 @@ class Book {
 						parHtml += getWikijsBookParRef(multi, p.par_ref, 
 							this.language, colors[ppi], 
 							(multi ? papers[ppi].year : null));
-						// Urantia Book has a paragraph with `*  *  *` so check here
+						// Urantia Book has pars with `*  *  *` so check here
 						pcontent = (pcontent === '*  *  *' ? pcontent :
 							replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr));
 						pcontent = replaceTags(pcontent, '$', '$', 
@@ -1797,43 +1795,13 @@ class Book {
 							}
 						}
 
+						//Footnote marks
 						// If par is from master UB or only one UB
 						if (masterIndex === ppi || !multi) {
 							//Add footnote marks to paragraph content
-							allFn.forEach(fnsection => {
-								fnsection.footnotes
-									.filter(fn => fn.par_ref === p.par_ref)
-									.forEach((fn, k) => {
-										fnsection.index++;
-										const fni = fnsection.index;
-										const fns = fnsection.suffix;
-										const fna = fnsection.alt;
-										const fnt = fnsection.twemoji;
-										const text = strformat(cite, fni, fns);
-										const fnicon = strformat(icon, fna, fnt);
-										const i2 = p.par_content.indexOf(`{${fn.index}}`);
-										const i1 = p.par_content.indexOf(`{${fn.index-1}}`);
-										if (fn.index != null) {
-											if (k == 0 || (i2 - i1 > 4)) {
-												pcontent = pcontent.replace(`{${fn.index}}`, fnicon + text);
-											} else {
-												pcontent = pcontent.replace(`{${fn.index}}`, text);
-											}
-										} else if (fn.location === 999) {
-											if (k == 0) {
-												pcontent += fnicon;
-											}
-											pcontent += text;
-										} else if (fn.location != null) {
-											const indexes = getAllIndexes(pcontent, '.');
-											const tindex = indexes[fn.location - 1];
-											pcontent = pcontent.substring(0, tindex) +
-												fnicon + text + pcontent.substring(tindex);
-										}
-									});
-							});
+							pcontent = this.addFootnoteMarks(footnoteDef, 
+								pcontent, p);
 						}
-
 						//The first item is always in English
 						if (multi && ppi === 0) {
 							//Remove footnote marks (they are in master)
@@ -1843,6 +1811,7 @@ class Book {
 						return parHtml;
 					});
 
+					//Write paragraphs (multi/single)
 					if (multi) {
 						body += `<div id="p${si}_${pi}" class="d-sm-flex">\r\n`;
 						body += parHtmls.map((ph, n, arrp) => {
@@ -1879,9 +1848,9 @@ class Book {
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 
 			//References section
-			// if (allFn.length > 0) {
-			// 	body += this.referencesSectionToWikijs(allFn);
-			// }
+			if (footnoteDef.find(fdef => fdef.footnotes.length > 0)) {
+				body += this.referencesSectionToWikijs(footnoteDef);
+			}
 			
 			if (error) {
 				reject(this.getError(error, filePath, error_par_ref));
@@ -1899,7 +1868,57 @@ class Book {
 	};
 
 	/**
+	 * Adds footnote marks in the paragraph text and returns it.
+	 * @param {Object[]} footnoteDef An array with the definition of the
+	 * footnotes for all the footnote sections.
+	 * @param {string} pcontent Final text of the paragraph.
+	 * @param {Object} par Object with paragraph data.
+	 * @return {string}
+	 */
+	addFootnoteMarks = (footnoteDef, pcontent, par) => {
+		const cite = `<sup id="cite_{1}{0}"><a href="#fn_{1}{0}">[{0}]</a>` +
+			`</sup>`;
+		const icon = `<img class="emoji" draggable="false" alt="{0}" ` +
+			`src="/_assets/svg/twemoji/{1}.svg">`;
+		footnoteDef.forEach(fnsection => {
+			fnsection.footnotes
+				.filter(fn => fn.par_ref === par.par_ref)
+				.forEach((fn, k) => {
+					fnsection.index++;
+					const fni = fnsection.index;
+					const fns = fnsection.suffix;
+					const fna = fnsection.alt;
+					const fnt = fnsection.twemoji;
+					const text = strformat(cite, fni, fns);
+					const fnicon = strformat(icon, fna, fnt);
+					const i2 = par.par_content.indexOf(`{${fn.index}}`);
+					const i1 = par.par_content.indexOf(`{${fn.index-1}}`);
+					if (fn.index != null) {
+						if (k == 0 || (i2 - i1 > 4)) {
+							pcontent = pcontent.replace(`{${fn.index}}`, 
+								fnicon + text);
+						} else {
+							pcontent = pcontent.replace(`{${fn.index}}`, text);
+						}
+					} else if (fn.location === 999) {
+						if (k == 0) {
+							pcontent += fnicon;
+						}
+						pcontent += text;
+					} else if (fn.location != null) {
+						const indexes = getAllIndexes(pcontent, '.');
+						const tindex = indexes[fn.location - 1];
+						pcontent = pcontent.substring(0, tindex) +
+							fnicon + text + pcontent.substring(tindex);
+					}
+				});
+		});
+		return pcontent;
+	};
+
+	/**
 	 * Converts array of Paramony footnotes to objects with sorting info.
+	 * The output is already sorted.
 	 * @param {Object} paper Paper object.
 	 * @returns {Object[]} Returns and array of objects with footnotes. The
 	 * objects have these values:
@@ -1941,6 +1960,7 @@ class Book {
 				
 			});
 		});
+		result.sort((a, b) => a.sorting - b.sorting);
 		return result;
 	};
 
@@ -1997,26 +2017,37 @@ class Book {
 		return html;
 	};
 
-
-
 	/**
 	 * Returns the References section from the array of footnotes to Wiki.js.
-	 * @param {Array.<Object>} footnotes Array of footnotes.
+	 * @param {Object[]} footnoteDef An array with the definition of the
+	 * footnotes for all the footnote sections.
 	 * @return {string}
 	 */
-	referencesSectionToWikijs = (footnotes) => {
+	referencesSectionToWikijs = (footnoteDef) => {
+		const icon = `<img class="emoji" draggable="false" alt="{0}" ` +
+			`src="/_assets/svg/twemoji/{1}.svg">`;
+		const style = '-moz-column-width: 30em; -webkit-column-width: 30em; ' +
+			'column-width: 30em; margin-top: 1em;';
+		const cite = `  <li {0}id="fn_{2}{1}">` +
+			`<a href="#cite_{2}{1}">↑</a>{3}</li>\r\n`;
 		let html = '';
 		html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
-		html += '<div style="-moz-column-width: 30em; ' + 
-			'-webkit-column-width: 30em; column-width: 30em; ' + 
-			'margin-top: 1em;">\r\n<ol style="margin: 0; ' +
-			'padding-top: 0px;">\r\n';
-		footnotes.forEach((f, n) => {
-			const style = (n === 0 ? 'style="margin-top:0px;" ' : '');
-			html += `  <li ${style}id="fn${n+1}"><a href="#cite${n+1}">↑</a>` +
-				f.html + '</li>\r\n';
+		footnoteDef.forEach(fnsection => {
+			const fns = fnsection.suffix;
+			const fna = fnsection.alt;
+			const fnt = fnsection.twemoji;
+			const fnicon = strformat(icon, fna, fnt);
+			html += `<h3>${fnicon} ${fnsection.section}</h3>\r\n`;
+
+			html += `<div style="${style}">\r\n<ol style="margin: 0; ` +
+				`padding-top: 0px;">\r\n`;
+			fnsection.footnotes.forEach((f, n) => {
+				const style2 = (n === 0 ? 'style="margin-top:0px;" ' : '');
+				html += strformat(cite, style2, n+1, fns, f.html);
+			});
+			html += '</ol>\r\n</div>\r\n';
 		});
-		html += '</ol>\r\n</div>\r\n';
+		
 		return html;
 	};
 
@@ -2965,7 +2996,7 @@ class Book {
 					return;
 				}
 				const promises = this.papers
-				.filter(paper => paper.paper_index === 0)
+				/*.filter(paper => paper.paper_index === 0)*/
 				.map(paper => {
 					const bookName = Strings['bookName'][this.language]
 						.replace(/\s/g, '_');

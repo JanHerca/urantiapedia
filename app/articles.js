@@ -7,7 +7,7 @@ const markdownIt = require('markdown-it')({
 	typographer: true
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
-	writeFile, getWikijsHeader, sentenceSimilarity, strformat,
+	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags,
 	fixWikijsHeader, getWikijsArticleLinks, getFiles} = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -112,17 +112,37 @@ class Articles {
 	 * Returns an empty array if no paralell exists.
 	 */
 	getParalells = (paperIndex) => {
-		return this.paralells
+		const result = this.paralells
 			.filter(p => p.ref.startsWith(`${paperIndex},`))
+			.reduce((ac, cur) => {
+				const id = cur.ref + cur.title;
+				const prev = ac.find(p => p.ref + p.title === id);
+				if (prev) {
+					prev.anchors.push(cur.anchor);
+				} else {
+					const newp = {...cur};
+					delete newp.anchor;
+					newp.anchors = [cur.anchor];
+					ac.push(newp);
+				}
+				return ac;
+			}, [])
 			.map(p => {
 				const r = p.ref.split(',');
 				const ref = (r.length == 2 ? `${r[0]}:${r[1]}` :
 					`${r[0]}:${r[1]}.${r[2]}`);
 				const s = parseInt(r[1]) * 1000 + 
 					(r.length === 3 ? parseInt(r[2]) : 0);
-				const url = p.url + '#' + p.anchor;
-				const html = `<a href="${url}">${p.title}</a>` + 
-					(p.author != '' ? `, ${p.author}` : '') +
+				const url0 = p.url + '#' + p.anchors[0];
+				const link = (p.anchors.length === 1 ?
+					`<a href="${url0}"><i>${p.title}</i></a>` :
+					`<i>${p.title}</i> ` + p.anchors.map((a,i) => {
+						return `<a href="${p.url + '#' + a}">#${i+1}</a>`;
+					}).join(', '));
+				const author = (p.author != '' ? 
+					`, ${replaceTags(p.author, '_', '_', '<i>', '</i>', [])}` : 
+					'')
+				const html = ' ' + link + author +
 					(p.publication != '' ? `, ${p.publication}` : '') +
 					(p.year != '' ? `, ${p.year}` : '');
 				return {
@@ -132,6 +152,8 @@ class Articles {
 					html: html
 				};
 			});
+		result.sort((a, b) => a.sorting - b.sorting);
+		return result;
 	};
 
 	//***********************************************************************

@@ -173,6 +173,7 @@ class Paralells {
 
 	/**
 	 * Gets the paralells for a given paper in The Urantia Book.
+	 * The result is already sorted.
 	 * @param {number} paperIndex Urantia Book paper index starting at zero.
 	 * [0-196].
 	 * @returns {Object[]} Returns an array of objects with the paralells. The 
@@ -188,7 +189,7 @@ class Paralells {
 	 */
 	getParalells = (paperIndex) => {
 		const lan = this.language;
-		return this.footnotes
+		const result = this.footnotes
 			.filter(f => {
 				const pindex = parseInt(f.ub_ref.split(':')[0]);
 				return paperIndex === pindex;
@@ -211,7 +212,7 @@ class Paralells {
 					Strings['bookChapter'][lan].toLowerCase() + ' ');
 				const page = vals[2];
 				const path = `/${blan}/book/${book.path}/${chapter}#p${page}`;
-				const html = `${f.ub_ref}: <i>${title}</i>, ${book.author}, ` +
+				const html = ` ${f.ub_ref}: <i>${title}</i>, ${book.author}, ` +
 					`<a href="${path}">${ch}${chapter}, p. ${page}</a>`;
 				return {
 					ub_ref: f.ub_ref,
@@ -221,6 +222,8 @@ class Paralells {
 					html: html
 				};
 			});
+		result.sort((a, b) => a.sorting - b.sorting);
+		return result;
 	};
 	
 };

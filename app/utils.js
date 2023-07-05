@@ -98,7 +98,7 @@ exports.extendArray = function(arr, data) {
 
 /**
  * Replaces inside a string a start and end tag with other start and end text.
- * @param {string} content String to replaceCadena a reemplazar
+ * @param {string} content String to replace.
  * @param {string} initTag Starting tag.
  * @param {string} endTag Ending tag.
  * @param {string} initTag2 Tag to use to replace starting tag.
