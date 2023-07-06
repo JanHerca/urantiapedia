@@ -1,5 +1,5 @@
 ---
-title: "Full License — Creative Commons Attribution Share Alike 4.0 International"
+title: "Teljes licenc — Creative Commons Attribution Share Alike 4.0 International"
 description: 
 published: true
 date: 2023-02-03T13:55:38.362Z
@@ -7,6 +7,9 @@ tags: Urantiapedia
 editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
+
+> Ennek a licencnek jelenleg nincs magyar nyelvű fordítása, ide került az angol nyelvű változat. Amint elérhető lesz a fordítás, a licenc frissítésre kerül. Kérjük, olvassa el a [GYIK](https://creativecommons.org/faq/#officialtranslations) részt a hivatalos fordításokkal kapcsolatos további információkért.
+{.is-warning}
 
 **[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)**
 
@@ -155,9 +158,9 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 ---
 
-Return to page with summary on [Licence, Terms of Use and other legal info](/en/license).
+Vissza az oldalra az összefoglaló bekapcsolásával [Licenc, használati feltételek és egyéb jogi információk](/en/license).
 
-## References
+## Referenciák
 
-- This license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-- Other translations of this license: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations
+- Ez a licenc: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- A licenc további fordításai: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations

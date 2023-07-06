@@ -1,5 +1,5 @@
 ---
-title: "Full License — Creative Commons Attribution Share Alike 4.0 International"
+title: "רישיון מלא — Creative Commons Attribution Share Alike 4.0 International"
 description: 
 published: true
 date: 2023-02-03T13:55:38.362Z
@@ -7,6 +7,9 @@ tags: Urantiapedia
 editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
+
+> לרישיון זה אין תרגום לעברית כרגע וכאן צורפה הגרסה באנגלית. ברגע שיהיה תרגום זמין הרישיון יעודכן. קרא את [שאלות הנפוצות](https://creativecommons.org/faq/#officialtranslations) למידע נוסף על תרגומים רשמיים.
+{.is-warning}
 
 **[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)**
 
@@ -155,9 +158,9 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 ---
 
-Return to page with summary on [Licence, Terms of Use and other legal info](/en/license).
+חזור לדף עם סיכום על [רישיון, תנאי שימוש ומידע משפטי אחר](/he/license).
 
-## References
+## הפניות
 
-- This license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-- Other translations of this license: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations
+- רישיון זה: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- תרגומים אחרים של רישיון זה: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations

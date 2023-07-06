@@ -1,5 +1,5 @@
 ---
-title: "Full License — Creative Commons Attribution Share Alike 4.0 International"
+title: "مجوز کامل — Creative Commons Attribution Share Alike 4.0 International"
 description: 
 published: true
 date: 2023-02-03T13:55:38.362Z
@@ -7,6 +7,9 @@ tags: Urantiapedia
 editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
+
+> این مجوز در حال حاضر ترجمه فارسی ندارد و در اینجا نسخه انگلیسی آن قرار داده شده است. به محض اینکه ترجمه در دسترس باشد، مجوز به روز می شود. لطفاً برای اطلاعات بیشتر در مورد ترجمه های رسمی، (https://creativecommons.org/faq/#officialtranslations)[سؤالات متداول] را بخوانید.
+{.is-warning}
 
 **[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)**
 
@@ -155,9 +158,9 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 ---
 
-Return to page with summary on [Licence, Terms of Use and other legal info](/en/license).
+بازگشت به صفحه با خلاصه در [مجوز، شرایط استفاده و سایر اطلاعات قانونی] (/fa/license).
 
-## References
+## منابع
 
-- This license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-- Other translations of this license: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations
+- این مجوز: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- سایر ترجمه های این مجوز: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations

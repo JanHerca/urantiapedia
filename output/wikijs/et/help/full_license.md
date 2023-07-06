@@ -1,5 +1,5 @@
 ---
-title: "Full License — Creative Commons Attribution Share Alike 4.0 International"
+title: "Täielik litsents — Creative Commons Attribution Share Alike 4.0 International"
 description: 
 published: true
 date: 2023-02-03T13:55:38.362Z
@@ -7,6 +7,9 @@ tags: Urantiapedia
 editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
+
+> Sellel litsentsil puudub hetkel eesti keelde tõlge ja siia on lisatud ingliskeelne versioon. Niipea kui tõlge on saadaval, värskendatakse litsentsi. Ametlike tõlgete kohta lisateabe saamiseks lugege palun [FAQ].(https://creativecommons.org/faq/#officialtranslations).
+{-is-warning}
 
 **[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)**
 
@@ -155,9 +158,9 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 ---
 
-Return to page with summary on [Licence, Terms of Use and other legal info](/en/license).
+Naaske lehele, kus on kokkuvõte [litsents, kasutustingimused ja muu juriidiline teave](/et/license).
 
-## References
+## Viited
 
-- This license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-- Other translations of this license: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations
+- See litsents: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- Selle litsentsi muud tõlked: https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations
