@@ -14,108 +14,112 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ### Licenc 
 
-Ez a webhely a [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/) alatt érhető el, kivéve, ha szerzői jogi megjegyzés látható , az oldal _Korlátozások_ részében leírtak szerint. 
+Ez a webhely a [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.hu) alatt érhető el, kivéve, ha szerzői jogi megjegyzés látható , az oldal _Korlátozások_ részében leírtak szerint. 
 
-A licenc rövid azonosítója: **CC-BY-SA-3.0** 
+A licenc rövid azonosítója: **CC-BY-SA-4.0** 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Kreatív Commons Attribution-ShareAlike License logó" width="200px" height="
 
 #### Creative Commons Deed 
 
-> Ez a [teljes licenc](/hu/help/full_license) ember által olvasható összefoglalása. 
-> 
-> Szabad: 
-> 
-> - **megosztani** – a művet másolni, terjeszteni és továbbítani, és 
-> - **remixelni** – [adapt](https://en.wikipedia.org/) wiki/irodalmi_adaptáció) a mű 
-> 
-> bármilyen célra, akár kereskedelmi célra is. 
-> 
-> A következő feltételekkel: 
-> 
-> - **Megosztás hasonlóval** – Ha módosítja, átalakítja vagy továbbfejleszti ezt a művet, az eredményül kapott művet csak azonos, hasonló vagy kompatibilis licenc alatt terjesztheti. 
-> 
-> Annak megértésével, hogy: 
->
-> - **Lemondás** – A fenti feltételek bármelyikétől el lehet tekinteni, ha engedélyt kap a szerzői jog tulajdonosától. 
-> - **Egyéb jogok** - A licenc semmilyen módon nem érinti a következő jogokat: 
-> - az Ön [tisztességes üzlete](https://en.wikipedia.org/wiki/Fair_dealing) vagy [fair use](https://en.wikipedia.org/wiki/Fair_use) jogok; 
-> - más személyek jogai lehetnek magával a művel vagy a mű felhasználásával kapcsolatban, például [nyilvánosság](https://en.wikipedia.org/wiki/Personality_rights) vagy [adatvédelem](https://en.wikipedia.org/wiki/Privacy_law) jogait.
-> - **Megjegyzés** – Bármilyen újrafelhasználás vagy terjesztés esetén világossá kell tennie mások számára ennek a munkának a licencfeltételeit. Ennek legjobb módja a [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/) 
-{.is -info} 
+Ez a [licenc](/hu/help/full_license) ember által olvasható összefoglalása (és nem helyettesíti azt).
+
+<p style="text-align:center;"><b>A műveket szabadon</b></p>
+
+- **Megoszthatod**—másolhatod és terjesztheted a művet bármilyen módon vagy formában
+- **Átdolgozhatod**—származékos műveket hozhatsz létre, átalakíthatod és új művkbe építheted be bármilyen – akár üzleti – célra is.
+
+A jogosult nem vonhatja vissza ezen engedélyeket míg betartod a licenc feltételeit.
+
+---
+
+<p style="text-align:center;"><b>Az alábbi feltételekkel:</b></p>
+
+- **Nevezd meg!**—A szerzőt megfelelően fel kell tüntetned, hivatkozást kell létrehoznod a licencre és jelezned ha a művön változtatást hajtottál végre. Ezt bármilyen ésszerű módon megteheted, kivéve oly módon ami azt sugallná hogy a jogosult támogat téged vagy a felhasználásod körülményeit.
+- **Így add tovább!**—Ha feldolgozod, átalakítod vagy gyűjteményes művet hozol létre a műből akkor a létrejött művet ugyanazon licencfeltételek mellett kell terjesztened mint az eredetit.
+
+**Nincsenek további megkötések** — Nem szabhatsz meg más jogi vagy technológiai korlátozásokat melyek megakadályoznának bárkit abban hogy ezen licenc által engedélyezett bármely tevékenységeket folytassák.
+
+---
+
+<p style="text-align:center;"><b>Megjegyzések:</b></p>
+
+Nem kell jelen licenc feltételeit követned a művek azon részeinek tekintetében melyek közkincsek vagy ahol a felhasználást egy alkalmazható kivétel vagy korlátozás teszi számodra lehetővé.
+
+Nincs semmiféle garancia. Jelen licencen kívüli engedélyek is szükségesek lehetnek a mű felhasználásához. Példa erre az az eset amikor a mű felhasználását személyiségi, adatvédelmi vagy a jó hírnévre vonatkozó feltételek korlátozzák.
 
 
 ### Korlátozások 
 
-A webhely bizonyos tartalmait különböző szerzői jogtulajdonosok engedélyével reprodukálják, vagy nyilvánosak. A weboldal általános **CC-BY-SA-3.0** licence nem vonatkozik erre a tartalomra. 
+A webhely bizonyos tartalmait különböző szerzői jogtulajdonosok engedélyével reprodukálják, vagy nyilvánosak. A weboldal általános **CC-BY-SA-4.0** licence nem vonatkozik erre a tartalomra. 
 
 A szerzői jogok miatt korlátozott tartalmat egy [szerzői jogi megjegyzés](https://en.wikipedia.org/wiki/Copyright_notice) azonosítja az egyes oldalak fejlécében. 
 
 
 - Az Urantia könyv (minden angol fordítás) az [Urantia Foundation](https://www.urantia.org/) szerzői joga.
 - A _Paramony_, a Biblia és az _Urantia könyv_ közötti kereszthivatkozási index, amely lábjegyzetként jelenik meg az _Az Urantia könyvben_ és a Biblia oldalain (minden nyelven), a [Duane L. Faw és az Urantia Book Fellowship] szerzői joga (https:// urantia-book.org/urantiabook/paramony/). 
-- Az [Innerface International](/hu/index/articles#innerface-international) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship](https://urantiabook.org/) szerzői joga alá tartoznak. 
-- Az [Urantian Journal](/hu/index/articles#urantian-journal) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship](https://urantiabook.org/) szerzői joga alá tartoznak.
-- A [Fellowship Herald](/hu/index/articles#fellowship-herald) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship](https://urantiabook.org/) szerzői jogai alá tartoznak. 
+- Az [Innerface International](/hu/index/articles_innerface) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship](https://urantiabook.org/) szerzői joga alá tartoznak. 
+- Az [Urantian Journal](/hu/index/articles_the_urantian) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship](https://urantiabook.org/) szerzői joga alá tartoznak.
+- A [Fellowship Herald](/hu/index/articles_herald) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship](https://urantiabook.org/) szerzői jogai alá tartoznak. 
 - Az [UB Annotated & UBTheNews](/hu/index/articles#ub-annotaded-ubthenews) cikkei (minden nyelven) [Halbert Katzen](https://ubannotated.com/) szerzői jogai. 
-- A [Jan Herca](/hu/index/articles#articles-from-jan-herca) cikkei (minden nyelven) a [Jan Herca](https://buscandoajesus.wordpress.com) szerzői joga alá tartoznak, és a következő címen érhetők el a [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/). 
+- A [Jan Herca](/hu/index/articles#articles-from-jan-herca) cikkei (minden nyelven) a [Jan Herca](https://buscandoajesus.wordpress.com) szerzői joga alá tartoznak, és a következő címen érhetők el a [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 - A korábbi csoportokhoz nem tartozó egyéb tanulmányi segédanyagok (minden nyelven) a megjelölt szerzők szerzői jogát képezik.
 - Az _The Urantia Book_ egyes illusztrációi [Gary Tonge](https://visionafar.com) szerzői joga alá tartoznak. 
 
 #### Közkincs 
 
 – Az Urantia-könyv (angolul) 2006-tól nyilvános. 
-– Az [Urantia Könyv feltételezett forrásai](/hu/book#books-supposed-to-be-sources)ként felsorolt ​​könyvek a következők: mindezt angolul és nyilvánosan. A biztosított fordítások a webhely általános CC-BY-SA-3.0 licence alatt érhetők el. 
+– Az [Urantia Könyv feltételezett forrásai](/hu/book#books-supposed-to-be-sources)ként felsorolt ​​könyvek a következők: mindezt angolul és nyilvánosan. A biztosított fordítások a webhely általános CC-BY-SA-4.0 licence alatt érhetők el. 
 - Az _Urantia könyv_ néhány illusztrációja nyilvánosan elérhető. 
 
 ### Felhasználási feltételek 
 
->
-> <small>Felelősség kizárása: Ez az összefoglaló nem része a használati feltételeknek, és nem jogi dokumentum. Ez egyszerűen egy praktikus hivatkozás a teljes kifejezés megértéséhez. Tekints rá úgy, mint a Felhasználási Feltételeink jogi nyelvezetének felhasználóbarát felületére.</small> 
-> 
-> **Küldetésünk része, hogy:** 
-> - **Segítsünk *Az Urantia könyv** terjesztésében. * kinyilatkoztatások szerte a világon. 
-> - **Az Urantia könyv* tanításainak jobb megértése**. 
-> -**Kapcsold össze az Urantia-kinyilatkoztatásról rendelkezésre álló jelenlegi ismeretek nagy részét**. 
-> 
-> **Szabadtan**: 
-> - **Ingyen elolvashatja és kinyomtathatja** cikkeinket és egyéb médiákat. 
-> - **Ossza meg és használja újra** cikkeinket és egyéb médiát ingyenes és nyílt licencek alatt.
-> **A következő feltételekkel**: 
-> - **Felelősség** – Ön vállalja a felelősséget a szerkesztésekért (mivel mi csak a tartalmat _tároljuk_). 
-> - **Civility** – Támogatja a civil környezetet, és nem zaklat más felhasználókat. 
-> - **Törvényes magatartás** – Ön nem sért szerzői jogot vagy más törvényeket. 
-> - **No Harm** – Ön nem károsítja technológiai infrastruktúránkat. 
-> - **Felhasználási feltételek és szabályzatok** – Ön betartja az alábbi Felhasználási Feltételeket és a vonatkozó szabályzatokat, amikor meglátogatja az Urantiapediát. 
-> 
-> - **Nincs szakmai tanács** – a cikkek tartalma kizárólag lelki felvilágosítást szolgál, és nem minősül szakmai tanácsnak. 
-{.is-info} 
+
+<small>Felelősség kizárása: Ez az összefoglaló nem része a használati feltételeknek, és nem jogi dokumentum. Ez egyszerűen egy praktikus hivatkozás a teljes kifejezés megértéséhez. Tekints rá úgy, mint a Felhasználási Feltételeink jogi nyelvezetének felhasználóbarát felületére.</small> 
+
+**Küldetésünk része, hogy:** 
+- **Segítsünk *Az Urantia könyv** terjesztésében. * kinyilatkoztatások szerte a világon. 
+- **Az Urantia könyv* tanításainak jobb megértése**. 
+-**Kapcsold össze az Urantia-kinyilatkoztatásról rendelkezésre álló jelenlegi ismeretek nagy részét**. 
+
+**Szabadtan**: 
+- **Ingyen elolvashatja és kinyomtathatja** cikkeinket és egyéb médiákat. 
+- **Ossza meg és használja újra** cikkeinket és egyéb médiát ingyenes és nyílt licencek alatt.
+**A következő feltételekkel**: 
+- **Felelősség** – Ön vállalja a felelősséget a szerkesztésekért (mivel mi csak a tartalmat _tároljuk_). 
+- **Civility** – Támogatja a civil környezetet, és nem zaklat más felhasználókat. 
+- **Törvényes magatartás** – Ön nem sért szerzői jogot vagy más törvényeket. 
+- **No Harm** – Ön nem károsítja technológiai infrastruktúránkat. 
+- **Felhasználási feltételek és szabályzatok** – Ön betartja az alábbi Felhasználási Feltételeket és a vonatkozó szabályzatokat, amikor meglátogatja az Urantiapediát. 
+
+- **Nincs szakmai tanács** – a cikkek tartalma kizárólag lelki felvilágosítást szolgál, és nem minősül szakmai tanácsnak. 
+ 
 
 
 ### Adatvédelmi irányelvek
 
-> Ez az adatvédelmi szabályzat összefoglalása. A teljes feltételek elolvasásához [kattintson ide](/hu/help/privacy_policy). 
-> 
-> <small>Jogi nyilatkozat: Ez az összefoglaló nem része az adatvédelmi szabályzatnak, és nem jogi dokumentum. Ez egyszerűen egy praktikus hivatkozás a teljes adatvédelmi szabályzat megértéséhez. Tekints rá úgy, mint az Adatvédelmi szabályzatunk felhasználóbarát felületére.</small> 
-> 
-> **Mivel úgy gondoljuk, hogy nem kell személyes adatokat megadnod a szabad tudásmozgalomban való részvételhez, de szeretnénk biztosítani, hogy a tartalom A közreműködők megbízható emberek, Ön:** 
-> - Bármilyen tartalmat elolvashat fiók regisztrációja nélkül. 
->
-> 
-> **Mivel szeretnénk megérteni, hogyan használják az Urantiapediát, hogy jobbá tegyük az Ön számára, bizonyos információkat gyűjtünk, amikor Ön:** 
-> - Nyilvános hozzájárulást nyújt. 
-> - Regisztráció kérése járulékszámlához. 
-> - Használja az Urantiapediát. 
->> 
+Ez az adatvédelmi szabályzat összefoglalása. A teljes feltételek elolvasásához [kattintson ide](/hu/help/privacy_policy). 
+
+<small>Jogi nyilatkozat: Ez az összefoglaló nem része az adatvédelmi szabályzatnak, és nem jogi dokumentum. Ez egyszerűen egy praktikus hivatkozás a teljes adatvédelmi szabályzat megértéséhez. Tekints rá úgy, mint az Adatvédelmi szabályzatunk felhasználóbarát felületére.</small> 
+
+**Mivel úgy gondoljuk, hogy nem kell személyes adatokat megadnod a szabad tudásmozgalomban való részvételhez, de szeretnénk biztosítani, hogy a tartalom A közreműködők megbízható emberek, Ön:** 
+- Bármilyen tartalmat elolvashat fiók regisztrációja nélkül. 
+
+
+**Mivel szeretnénk megérteni, hogyan használják az Urantiapediát, hogy jobbá tegyük az Ön számára, bizonyos információkat gyűjtünk, amikor Ön:** 
+- Nyilvános hozzájárulást nyújt. 
+- Regisztráció kérése járulékszámlához. 
+- Használja az Urantiapediát. 
+ 
 - Az Ön adatainak felhasználásának vagy megosztásának módja ebben az adatvédelmi szabályzatban. 
-> - Ésszerű intézkedések megtétele adatai biztonságának megőrzése érdekében. 
-> - Soha ne adja el az adatait, vagy ne ossza meg azokat harmadik felekkel marketing célból. 
-> - Csak korlátozott körülmények között oszthatja meg adatait, például az Urantiapedia fejlesztése, a törvények betartása vagy az Ön és mások védelme érdekében.
-> - Adatainak megőrzése a lehető legrövidebb ideig, amely összhangban van az Urantiapedia karbantartásával, megértésével és fejlesztésével, valamint a vonatkozó jogszabályok szerinti kötelezettségeinkkel. 
-> 
-> **Vigyázat:** 
-> - Bármilyen tartalom, amelyet hozzáad az Urantiapédiához, vagy bármilyen változtatást végrehajt, nyilvánosan és állandóan elérhető lesz. 
-> - Az Urantiapedia projekt iránti elkötelezettségünk részeként időnként nyilvános információkat, valamint összesített vagy nem személyes információkat adunk ki a nagyközönségnek adatgyűjteményeken és adatkészleteken keresztül.
+- Ésszerű intézkedések megtétele adatai biztonságának megőrzése érdekében. 
+- Soha ne adja el az adatait, vagy ne ossza meg azokat harmadik felekkel marketing célból. 
+- Csak korlátozott körülmények között oszthatja meg adatait, például az Urantiapedia fejlesztése, a törvények betartása vagy az Ön és mások védelme érdekében.
+- Adatainak megőrzése a lehető legrövidebb ideig, amely összhangban van az Urantiapedia karbantartásával, megértésével és fejlesztésével, valamint a vonatkozó jogszabályok szerinti kötelezettségeinkkel. 
+
+**Vigyázat:** 
+- Bármilyen tartalom, amelyet hozzáad az Urantiapédiához, vagy bármilyen változtatást végrehajt, nyilvánosan és állandóan elérhető lesz. 
+- Az Urantiapedia projekt iránti elkötelezettségünk részeként időnként nyilvános információkat, valamint összesített vagy nem személyes információkat adunk ki a nagyközönségnek adatgyűjteményeken és adatkészleteken keresztül.
 
 
 

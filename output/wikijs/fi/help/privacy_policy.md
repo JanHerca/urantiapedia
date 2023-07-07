@@ -29,7 +29,7 @@ Koska kaikkien (ei vain lakimiesten) pitäisi pystyä helposti ymmärtämään, 
 Kun sanomme… | …tarkoitamme: 
 --- | --- 
 "Urantiapedia" / "me" / "me" / "meidän" | Urantiapedia-projektin tiiminvetäjät.
-"Urantiapedia-sivusto" / "palvelumme" | Urantiapedia-verkkosivusto ja Urantiapedia-projektin palvelut (kielestä riippumatta), mukaan lukien [Urantiapedia-pääsivusto](https://urantiapedia.org) (https://urantiapedia.org) ja vaihtoehtoiset kopiot GitHubissa ([Urantiapedia Main projekti](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) ja [Urantiapedia Backup -projekti](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), sekä sovellusohjelmointirajapinnat (API), sähköpostit ja ilmoitukset; lukuun ottamatta sivustoja ja palveluita, jotka on lueteltu alla olevassa "Mitä tämä tietosuojakäytäntö ei kata" -osiossa.
+"Urantiapedia-sivusto" / "palvelumme" | Urantiapedia-verkkosivusto ja Urantiapedia-projektin palvelut (kielestä riippumatta), mukaan lukien [Urantiapedia-pääsivusto](https://urantiapedia.org) ja vaihtoehtoiset kopiot GitHubissa ([Urantiapedia Main projekti](https://github.com/JanHerca/urantiapedia) ja [Urantiapedia Backup -projekti](https://github.com/JanHerca/urantiapedia-backup)), sekä sovellusohjelmointirajapinnat (API), sähköpostit ja ilmoitukset; lukuun ottamatta sivustoja ja palveluita, jotka on lueteltu alla olevassa "Mitä tämä tietosuojakäytäntö ei kata" -osiossa.
 "sinä" / "sinun" / "minä" | Sinä riippumatta siitä, oletko yksilö, ryhmä vai organisaatio, ja riippumatta siitä, käytätkö Urantiapediaa tai palveluitamme itsesi vai jonkun muun puolesta.
 "Henkilötiedot" | Antamasi tiedot tai keräämämme tiedot, joita voidaan käyttää tunnistamaan sinut henkilökohtaisesti. Selvyyden vuoksi totean, että vaikka emme välttämättä kerää kaikkia seuraavan tyyppisiä tietoja, pidämme ainakin seuraavia tietoja "henkilökohtaisina tiedoina", jos ne muutoin eivät ole julkisia ja niitä voidaan käyttää tunnistamaan sinut:<br/>(a) oikea nimesi, osoitteesi, puhelinnumerosi, sähköpostiosoitteesi, salasanasi, viranomaisen myöntämän tunnuksen tunnistenumero, IP-osoite, käyttäjäagentin tiedot, maksutilin numero;<br/>(b) kun se liittyy johonkin alaosiossa olevasta kohdasta (a) kaikki arkaluontoiset tiedot, kuten syntymäaika, sukupuoli, seksuaalinen suuntautuminen, rotu tai etninen alkuperä, siviilisääty tai perheasema, sairaudet tai vammat, poliittinen suuntautuminen ja uskonto.
 "kolmas osapuoli" / "kolmannet osapuolet" | Yksilöt, yhteisöt, verkkosivustot, palvelut, tuotteet ja sovellukset, joita Urantiapedia ei hallitse, hallinnoi tai hallinnoi. Tämä koskee muita Urantiapedian käyttäjiä ja riippumattomia organisaatioita tai ryhmiä, jotka auttavat edistämään Urantiapedia-liikettä, kuten Urantia-kirjan organisaatiot ja käyttäjäryhmät sekä näiden organisaatioiden tai ryhmien vapaaehtoiset, työntekijät, johtajat, virkailijat, apurahan saajat ja sopimuspuolet. 
@@ -41,7 +41,7 @@ Lukuun ottamatta jäljempänä selostettuja ohjeita, tämä tietosuojakäytänt�
 
 Selvyyden vuoksi tämä tietosuojakäytäntö kattaa kielestä riippumatta: 
 
-- Vaihtoehtoiset kopiomme GitHubissa, [Urantiapedian pääprojekti](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) ja [Urantiapedia Backup -projekti](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Vaihtoehtoiset kopiomme GitHubissa, [Urantiapedian pääprojekti](https://github.com/JanHerca/urantiapedia) ja [Urantiapedia Backup -projekti](https://github.com/JanHerca/urantiapedia-backup). 
 - API-liittymämme (ellemme ole laatineet erillistä käytäntöä kyseisille palveluille). 
 - Sähköpostit, tekstiviestit ja ilmoitukset meiltä tai jotka olet lähettänyt meille.
 
@@ -209,4 +209,4 @@ Kiitos, että luit tietosuojakäytäntömme. Toivomme, että pidät Urantiapedia
 
 --- 
 
-Palaa sivulle, jossa on yhteenveto aiheesta [Lisenssi, ehdot käyttötiedot ja muut oikeudelliset tiedot](/en/lisenssi).
+Palaa sivulle, jossa on yhteenveto aiheesta [Lisenssi, ehdot käyttötiedot ja muut oikeudelliset tiedot](/fi/license).

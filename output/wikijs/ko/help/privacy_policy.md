@@ -29,7 +29,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 우리가 말할 때... | …의 의미: 
 --- | --- 
 "Urantiapedia" / "우리" / "우리" / "우리의" | Urantiapedia 프로젝트의 팀 리더.
-"Urantiapedia 사이트" / "우리의 서비스" | [메인 Urantiapedia 웹사이트](https://urantiapedia.org)(https://urantiapedia.org) 및 GitHub([Urantiapedia Main 프로젝트](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) 및 [Urantiapedia 백업 프로젝트](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup), 애플리케이션 프로그래밍 인터페이스(API), 이메일 및 알림 그러나 아래의 "이 개인정보 보호정책이 적용되지 않는 사항" 섹션에 나열된 사이트 및 서비스는 제외됩니다.
+"Urantiapedia 사이트" / "우리의 서비스" | [메인 Urantiapedia 웹사이트](https://urantiapedia.org)(https://urantiapedia.org) 및 GitHub([Urantiapedia Main 프로젝트](https://github.com/JanHerca/urantiapedia) 및 [Urantiapedia 백업 프로젝트](https://github.com/JanHerca/urantiapedia-backup), 애플리케이션 프로그래밍 인터페이스(API), 이메일 및 알림 그러나 아래의 "이 개인정보 보호정책이 적용되지 않는 사항" 섹션에 나열된 사이트 및 서비스는 제외됩니다.
 "당신" / "당신의" / "나" | 귀하가 개인, 그룹 또는 조직인지 여부와 관계없이 귀하 또는 다른 사람을 대신하여 Urantiapedia 또는 당사 서비스를 사용하는지 여부에 관계없이 귀하.
 "개인 정보" | 귀하가 당사에 제공한 정보 또는 귀하를 개인적으로 식별하는 데 사용될 수 있는 당사가 수집한 정보. 명확히 하자면, 다음 유형의 정보를 모두 수집할 필요는 없지만, 비공개 정보이고 귀하를 식별하는 데 사용할 수 있는 경우 최소한 다음 정보를 "개인 정보"로 간주합니다.<br/>(a) 귀하의 실명, 주소, 전화번호, 이메일 주소, 비밀번호, 정부 발급 ID의 식별 번호, IP 주소, 사용자 에이전트 정보, 지불 계좌 번호;<br/>(b) 하위 섹션의 항목 중 하나와 관련된 경우 (a) 생년월일, 성별, 성적 취향, 인종 또는 민족, 결혼 또는 가족 상태, 의학적 상태 또는 장애, 정치적 소속 및 종교와 같은 민감한 데이터.
 "타사" / "타사" | Urantiapedia가 통제, 관리 또는 운영하지 않는 개인, 단체, 웹사이트, 서비스, 제품 및 응용 프로그램. 여기에는 유란시아 서 조직과 같은 유란티아페디아 운동을 촉진하는 데 도움을 주는 다른 유란티아페디아 사용자와 독립적인 조직 또는 그룹, 그리고 그러한 조직이나 그룹의 자원봉사자, 직원, 이사, 임원, 보조금 수혜자 및 계약자와 같은 사용자 그룹이 포함됩니다. 
@@ -41,7 +41,8 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 정보 보호정책이 다루는 내용의 예 명확성을 위해 이 개인정보 보호정책은 언어에 관계없이 다음을 다룹니다 
 
-. ) (https://github.com/JanHerca/urantiapedia) 및 [Urantiapedia 백업 프로젝트](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- [당사의 기본 웹사이트](https://urantiapedia.org).
+- GitHub의 대체 사본, [Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) 및 [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup).
 - 당사의 API(해당 서비스에 대해 별도의 정책을 제공하지 않은 경우). 
 - 이메일, SMS 및 당사로부터 또는 귀하가 당사에 보낸 알림.
 
@@ -209,4 +210,4 @@ Urantiapedia는 조직이 아니라 호스팅 공급자의 가용성에 따라 �
 
 --- 
 
-[라이선스, 약관에 대한 요약 페이지로 돌아갑니다 . 사용 및 기타 법적 정보](/en/license).
+[라이선스, 약관에 대한 요약 페이지로 돌아갑니다 . 사용 및 기타 법적 정보](/ko/license).

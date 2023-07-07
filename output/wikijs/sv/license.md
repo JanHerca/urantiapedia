@@ -14,108 +14,112 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ### Licens 
 
-Den här webbplatsen är tillgänglig under licensen [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), om inte ett upphovsrättsmeddelande visas , som förklaras i delen _Restrictions_ på den här sidan. 
+Den här webbplatsen är tillgänglig under licensen [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.sv), om inte ett upphovsrättsmeddelande visas , som förklaras i delen _Restrictions_ på den här sidan. 
 
-Kort identifierare för licensen: **CC-BY-SA-3.0** 
+Kort identifierare för licensen: **CC-BY-SA-4.0** 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Kreativt Commons Attribution-ShareAlike License logo" width="200px" height="
 
 #### Creative Commons Deed 
 
-> Detta är en läsbar sammanfattning av [fullständig licens](/sv/help/full_license). 
-> 
-> Du är fri: 
-> 
-> - **att dela**—att kopiera, distribuera och överföra verket, och 
->- **att remixa**—att [adapt](https://en.wikipedia.org/wiki/Literary_adaptation) verket 
-> 
-> för alla ändamål, även kommersiellt. 
-> 
-> Under följande villkor: 
-> 
-> - **Dela lika**—Om du ändrar, omvandlar eller bygger vidare på detta verk får du distribuera det resulterande verket endast under samma, liknande eller en kompatibel licens. 
-> 
-> Med förbehåll för att: 
->
-> - **Avstående**—Vilket som helst av ovanstående villkor kan frångås om du får tillstånd från upphovsrättsinnehavaren. 
-> - **Övriga rättigheter** – På inget sätt påverkas någon av följande rättigheter av licensen: 
-> - din [fair dealing](https://en.wikipedia.org/wiki/Fair_dealing) eller [fair use](https://en.wikipedia.org/wiki/Fair_use) rättigheter; 
-> - rättigheter andra personer kan ha antingen i själva verket eller i hur verket används, såsom [publicitet](https://en.wikipedia.org/wiki/Personality_rights) eller [privacy](https://en.wikipedia.org/wiki/Privacy_law) rättigheter.
-> - **Meddelande**—För all återanvändning eller distribution måste du klargöra licensvillkoren för detta arbete för andra. Det bästa sättet att göra det är med en länk till [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/) 
-{.is -info} 
+Detta är en läsbar sammanfattning av (och inte en ersättning för) [licensen](/sv/help/full_license).
+
+<p style="text-align:center;"><b>Du har tillstånd att:</b></p>
+
+- **Dela**—kopiera och vidaredistribuera materialet oavsett medium eller format
+- **Bearbeta**—remixa, transformera, och bygg vidare på materialet för alla ändamål, även kommersiellt.
+
+Licensgivaren kan inte återkalla dessa friheter så länge du följer licensvillkoren.
+
+---
+
+<p style="text-align:center;"><b>På följande villkor:</b></p>
+
+- **Erkännande**—Du måste ge ett korrekt erkännande, ange en hyperlänk till licensen, och ange om bearbetningar är gjorda . Du behöver göra så i enlighet med god sed, och inte på ett sätt som ger en bild av att licensgivaren stödjer dig eller ditt användande.
+- **DelaLika**—Om du remixar, transformerar eller bygger vidare på materialet måste du distribuera dina bidrag under samma licens som originalet.
+
+**Inga ytterligare begränsningar** — Du får inte tillämpa lagliga begränsningar eller teknologiska metoder som juridiskt begränsar andra från att gör något som licensen tillåter.
+
+---
+
+<p style="text-align:center;"><b>Anmärkningar:</b></p>
+
+Du behöver inte följa licensvillkoren för de delar av materialet som finns i public domain eller där ditt användande är tillåtet av en tillämplig undantag eller begränsning.
+
+Inga garantier ges. Licensen ger eller ger dig inte alla de nödvändiga villkoren för ditt tänkta användande av verket. Till exempel, andra rättigheter som publicitet, integritetslagstiftning, eller ideella rättigheter kan begränsa hur du kan använda verket.
 
 
 ### Begränsningar 
 
-En del innehåll på denna webbplats reproduceras med tillstånd från olika upphovsrättsinnehavare, eller så är det allmän egendom. Webbplatsens allmänna **CC-BY-SA-3.0**-licens gäller inte för detta innehåll. 
+En del innehåll på denna webbplats reproduceras med tillstånd från olika upphovsrättsinnehavare, eller så är det allmän egendom. Webbplatsens allmänna **CC-BY-SA-4.0**-licens gäller inte för detta innehåll. 
 
 Innehållet med begränsningar på grund av upphovsrätt identifieras av ett [upphovsrättsmeddelande](https://en.wikipedia.org/wiki/Copyright_notice) i rubriken på varje sida. 
 
 
 - Urantia-boken (alla översättningar från engelska) är copyright av [Urantia Foundation](https://www.urantia.org/).
 - _Paramony_, korsreferensindexet mellan Bibeln och _The Urantia Book_ som visas som fotnoter i _The Urantia Book_ och bibelsidor (på alla språk), är upphovsrätt till [Duane L. Faw och The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/). 
-- Artiklar från [Innerface International](/sv/index/articles#innerface-international) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Artiklar från [Urantian Journal](/sv/index/articles#urantian-journal) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artiklar från [Fellowship Herald](/sv/index/articles#fellowship-herald) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Artiklar från [Innerface International](/sv/index/articles_innerface) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Artiklar från [Urantian Journal](/sv/index/articles_the_urantian) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artiklar från [Fellowship Herald](/sv/index/articles_herald) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/). 
 - Artiklar från [UB Annotated & UBTheNews](/sv/index/articles#ub-annotaded-ubthenews) (på alla språk) är upphovsrättsskyddade för [Halbert Katzen](https://ubannotated.com/). 
-- Artiklar från [Jan Herca](/sv/index/articles#articles-from-jan-herca) (på alla språk) är upphovsrättsskyddade för [Jan Herca](https://buscandoajesus.wordpress.com) och är tillgängliga under [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/). 
+- Artiklar från [Jan Herca](/sv/index/articles#articles-from-jan-herca) (på alla språk) är upphovsrättsskyddade för [Jan Herca](https://buscandoajesus.wordpress.com) och är tillgängliga under [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 - Andra studiehjälpmedel som inte tillhör tidigare grupper (på alla språk) är upphovsrätt till de angivna författarna.
 - Vissa illustrationer för _The Urantia Book_ är copyright av [Gary Tonge](https://visionafar.com). 
 
 #### Public domain 
 
 - Urantia Book (på engelska) är i Public Domain från 2006. 
-- Böcker listade som [förmodade källor till Urantia Book](/sv/book#books-supposed-to-be-sources) är allt på engelska och i Public Domain. Översättningar som tillhandahålls görs tillgängliga under den allmänna CC-BY-SA-3.0-licensen för webbplatsen. 
+- Böcker listade som [förmodade källor till Urantia Book](/sv/book#books-supposed-to-be-sources) är allt på engelska och i Public Domain. Översättningar som tillhandahålls görs tillgängliga under den allmänna CC-BY-SA-4.0-licensen för webbplatsen. 
 - Vissa illustrationer för _Urantia-boken_ är offentliga. 
 
 ### Användarvillkor 
 
->
-> <small>Ansvarsfriskrivning: Denna sammanfattning är inte en del av användarvillkoren och är inte ett juridiskt dokument. Det är helt enkelt en praktisk referens för att förstå de fullständiga villkoren. Se det som det användarvänliga gränssnittet till det juridiska språket i våra användarvillkor.</small> 
-> 
-> **En del av vårt uppdrag är att:** 
-> - **Hjälpa till att sprida *The Urantia Book** * uppenbarelser över hela världen. 
-> - **Förbättra förståelsen** av lärorna i *Urantia-boken*. 
-> -**Länka det mesta av den aktuella kunskapen** som finns tillgänglig om Urantia-uppenbarelsen. 
-> 
-> **Du är fri att**: 
-> - **Läsa och skriva ut** våra artiklar och andra medier utan kostnad. 
-> - **Dela och återanvänd** våra artiklar och andra medier under fria och öppna licenser.
-> **Under följande villkor**: 
-> - **Ansvar** – Du tar ansvar för dina redigeringar (eftersom vi bara _värdar_ ditt innehåll). 
-> - **Civility** – Du stödjer en civil miljö och trakasserar inte andra användare. 
-> - **Lagligt beteende** – Du bryter inte mot upphovsrätt eller andra lagar. 
-> - **Ingen skada** – Du skadar inte vår tekniska infrastruktur. 
-> - **Användarvillkor och policyer** – Du följer nedanstående användarvillkor och tillämpliga policyer när du besöker Urantiapedia. 
-> 
-> - **Inga professionella råd** – innehållet i artiklarna är endast för andlig upplysning och utgör inte professionell rådgivning. 
-{.is-info} 
+
+<small>Ansvarsfriskrivning: Denna sammanfattning är inte en del av användarvillkoren och är inte ett juridiskt dokument. Det är helt enkelt en praktisk referens för att förstå de fullständiga villkoren. Se det som det användarvänliga gränssnittet till det juridiska språket i våra användarvillkor.</small> 
+
+**En del av vårt uppdrag är att:** 
+- **Hjälpa till att sprida *The Urantia Book** * uppenbarelser över hela världen. 
+- **Förbättra förståelsen** av lärorna i *Urantia-boken*. 
+-**Länka det mesta av den aktuella kunskapen** som finns tillgänglig om Urantia-uppenbarelsen. 
+
+**Du är fri att**: 
+- **Läsa och skriva ut** våra artiklar och andra medier utan kostnad. 
+- **Dela och återanvänd** våra artiklar och andra medier under fria och öppna licenser.
+**Under följande villkor**: 
+- **Ansvar** – Du tar ansvar för dina redigeringar (eftersom vi bara _värdar_ ditt innehåll). 
+- **Civility** – Du stödjer en civil miljö och trakasserar inte andra användare. 
+- **Lagligt beteende** – Du bryter inte mot upphovsrätt eller andra lagar. 
+- **Ingen skada** – Du skadar inte vår tekniska infrastruktur. 
+- **Användarvillkor och policyer** – Du följer nedanstående användarvillkor och tillämpliga policyer när du besöker Urantiapedia. 
+
+- **Inga professionella råd** – innehållet i artiklarna är endast för andlig upplysning och utgör inte professionell rådgivning. 
+ 
 
 
 ### Sekretesspolicy
 
-> Detta är en sammanfattning av integritetspolicyn. För att läsa de fullständiga villkoren, [klicka här](/sv/help/privacy_policy). 
-> 
-> <small>Ansvarsfriskrivning: Denna sammanfattning är inte en del av integritetspolicyn och är inte ett juridiskt dokument. Det är helt enkelt en praktisk referens för att förstå hela integritetspolicyn. Se det som det användarvänliga gränssnittet till vår sekretesspolicy.</small> 
-> 
-> **Eftersom vi anser att du inte ska behöva tillhandahålla personlig information för att delta i den fria kunskapsrörelsen, men vi vill säkerställa att innehållet Bidragsgivare är pålitliga människor, du kan:** 
-> - Läsa allt innehåll utan att registrera ett konto. 
->
-> 
-> **Eftersom vi vill förstå hur Urantiapedia används så att vi kan göra det bättre för dig, samlar vi in ​​lite information när du:** 
-> - Lämnar offentliga bidrag. 
-> - Begär en registrering för ett bidragskonto. 
-> - Använd Urantiapedia. 
-> 
-> - Beskriver hur din information kan användas eller delas i denna integritetspolicy. 
-> - Använd rimliga åtgärder för att hålla din information säker. 
-> - Sälj aldrig din information eller dela den med tredje part i marknadsföringssyfte. 
-> - Dela endast din information under begränsade omständigheter, till exempel för att förbättra Urantiapedia, för att följa lagen eller för att skydda dig och andra.
-> - Att bevara dina data under kortast möjliga tid som är förenligt med att underhålla, förstå och förbättra Urantiapedia och våra skyldigheter enligt tillämplig lag. 
-> 
-> **Var medveten om:** 
-> - Allt innehåll du lägger till eller ändringar som du gör på Urantiapedia kommer att vara offentligt och permanent tillgängligt. 
-> - Som en del av vårt åtagande att visa engagemang i Urantiapedia-projektet släpper vi ibland offentlig information och aggregerad eller icke-personlig information till allmänheten genom datadumpar och datamängder.
+Detta är en sammanfattning av integritetspolicyn. För att läsa de fullständiga villkoren, [klicka här](/sv/help/privacy_policy). 
+
+<small>Ansvarsfriskrivning: Denna sammanfattning är inte en del av integritetspolicyn och är inte ett juridiskt dokument. Det är helt enkelt en praktisk referens för att förstå hela integritetspolicyn. Se det som det användarvänliga gränssnittet till vår sekretesspolicy.</small> 
+
+**Eftersom vi anser att du inte ska behöva tillhandahålla personlig information för att delta i den fria kunskapsrörelsen, men vi vill säkerställa att innehållet Bidragsgivare är pålitliga människor, du kan:** 
+- Läsa allt innehåll utan att registrera ett konto. 
+
+
+**Eftersom vi vill förstå hur Urantiapedia används så att vi kan göra det bättre för dig, samlar vi in ​​lite information när du:** 
+- Lämnar offentliga bidrag. 
+- Begär en registrering för ett bidragskonto. 
+- Använd Urantiapedia. 
+
+- Beskriver hur din information kan användas eller delas i denna integritetspolicy. 
+- Använd rimliga åtgärder för att hålla din information säker. 
+- Sälj aldrig din information eller dela den med tredje part i marknadsföringssyfte. 
+- Dela endast din information under begränsade omständigheter, till exempel för att förbättra Urantiapedia, för att följa lagen eller för att skydda dig och andra.
+- Att bevara dina data under kortast möjliga tid som är förenligt med att underhålla, förstå och förbättra Urantiapedia och våra skyldigheter enligt tillämplig lag. 
+
+**Var medveten om:** 
+- Allt innehåll du lägger till eller ändringar som du gör på Urantiapedia kommer att vara offentligt och permanent tillgängligt. 
+- Som en del av vårt åtagande att visa engagemang i Urantiapedia-projektet släpper vi ibland offentlig information och aggregerad eller icke-personlig information till allmänheten genom datadumpar och datamängder.
 
 
 
@@ -131,7 +135,7 @@ Ingen av bidragsgivarna, sponsorerna, administratörerna eller någon annan som 
 
 Se till att du förstår att informationen som tillhandahålls här tillhandahålls fritt och att inget slags avtal eller kontrakt skapas mellan dig och ägarna eller användarna av denna webbplats, ägarna till servrarna på vilka den finns, individen Urantiapedia-bidragsgivare, projektadministratörer, sysops eller någon annan som på något sätt är kopplad till detta projekt är föremål för dina anspråk direkt mot dem. Du beviljas en begränsad licens att kopiera allt från denna webbplats; det skapar eller innebär inte något kontraktuellt eller utomkontraktuellt ansvar från Urantiapedias sida eller någon av dess agenter, medlemmar, arrangörer eller andra användare.
 
-Det finns ingen överenskommelse eller överenskommelse mellan dig och Urantiapedia angående din användning eller ändring av denna information utöver Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA); ingen på Urantiapedia är heller ansvarig om någon ändrar, redigerar, modifierar eller tar bort någon information som du kan publicera på Urantiapedia eller något av dess associerade projekt.
+Det finns ingen överenskommelse eller överenskommelse mellan dig och Urantiapedia angående din användning eller ändring av denna information utöver Creative Commons Attribution-Sharealike 4.0 Unported License (CC-BY-SA); ingen på Urantiapedia är heller ansvarig om någon ändrar, redigerar, modifierar eller tar bort någon information som du kan publicera på Urantiapedia eller något av dess associerade projekt.
 
 
 Alla varumärken, tjänstemärken, kollektiva märken, designrättigheter eller liknande rättigheter som nämns, används eller citeras i artiklarna i Urantiapedia-uppslagsverket tillhör sina respektive ägare. Deras användning här innebär inte att du får använda dem för något annat ändamål än för samma eller liknande informationsanvändning som avses av de ursprungliga författarna till dessa Urantiapedia-artiklar under CC-BY-SA-licenssystemet. Om inte annat anges är Urantiapedia varken godkänt av, eller anslutet till, någon av innehavarna av sådana rättigheter, och som sådan kan Urantiapedia inte ge några rättigheter att använda något annat skyddat material. Din användning av sådan eller liknande okroppslig egendom sker på egen risk.

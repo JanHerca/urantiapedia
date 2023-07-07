@@ -29,7 +29,7 @@ Deoarece toată lumea (nu doar avocații) ar trebui să poată înțelege cu uș
 Când spunem... | …ne referim la: 
 --- | --- 
 "Urantiapedia" / "noi" / "noi" / "nostru" | Liderii de echipă ai proiectului Urantiapedia.
-„Siteul Urantiapedia” / „serviciile noastre” | Site-ul web și serviciile Urantiapedia (indiferent de limbă) ale proiectului Urantiapedia, inclusiv [site-ul principal Urantiapedia](https://urantiapedia.org) (https://urantiapedia.org) și copiile alternative în GitHub ([Urantiapedia Main proiect](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) și [Proiect Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), precum și interfețe de programare a aplicațiilor (API), e-mailuri și notificări; excluzând, totuși, site-urile și serviciile enumerate în secțiunea „Ce nu acoperă această politică de confidențialitate” de mai jos.
+„Siteul Urantiapedia” / „serviciile noastre” | Site-ul web și serviciile Urantiapedia (indiferent de limbă) ale proiectului Urantiapedia, inclusiv [site-ul principal Urantiapedia](https://urantiapedia.org) și copiile alternative în GitHub ([Urantiapedia Main proiect](https://github.com/JanHerca/urantiapedia) și [Proiect Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup)), precum și interfețe de programare a aplicațiilor (API), e-mailuri și notificări; excluzând, totuși, site-urile și serviciile enumerate în secțiunea „Ce nu acoperă această politică de confidențialitate” de mai jos.
 „tu” / „al tău” / „eu” | Dvs., indiferent dacă sunteți o persoană, un grup sau o organizație și indiferent dacă utilizați Urantiapedia sau serviciile noastre în numele dvs. sau al altcuiva.
 „Informații personale” | Informațiile pe care ni le furnizați sau informațiile pe care le colectăm care ar putea fi folosite pentru a vă identifica personal. Pentru a fi clar, deși nu colectăm neapărat toate următoarele tipuri de informații, considerăm că cel puțin următoarele sunt „informații personale” dacă altfel nu sunt publice și pot fi folosite pentru a vă identifica:<br/>(a) numele dvs. real, adresa, numărul de telefon, adresa de e-mail, parola, numărul de identificare pe actul de identitate emis de guvern, adresa IP, informațiile despre agentul utilizatorului, numărul contului de plată;<br/>(b) atunci când este asociat cu unul dintre elementele din subsecțiune (a), orice date sensibile, cum ar fi data nașterii, sexul, orientarea sexuală, originile rasiale sau etnice, starea civilă sau familială, afecțiuni sau dizabilități medicale, afiliere politică și religie.
 „terț” / „terți” | Persoane, entități, site-uri web, servicii, produse și aplicații care nu sunt controlate, gestionate sau operate de Urantiapedia. Aceasta include alți utilizatori Urantiapedia și organizații sau grupuri independente care ajută la promovarea mișcării Urantiapedia, cum ar fi organizațiile din Cartea Urantia și grupurile de utilizatori, precum și voluntarii, angajații, directorii, ofițerii, beneficiarii de granturi și contractanții acelor organizații sau grupuri. 
@@ -41,7 +41,7 @@ Cu excepția celor explicate mai jos, această Politică de confidențialitate s
 
 Din motive de claritate, această politică de confidențialitate acoperă, indiferent de limbă: 
 
-- Copiile noastre alternative în GitHub, [Proiect principal Urantiapedia](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) și [Proiect Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Copiile noastre alternative în GitHub, [Proiect principal Urantiapedia](https://github.com/JanHerca/urantiapedia) și [Proiect Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup). 
 - API-urile noastre (cu excepția cazului în care am furnizat o politică separată pentru aceste servicii). 
 - E-mailuri, SMS-uri și notificări de la noi sau trimise către noi de la dvs.
 
@@ -209,4 +209,4 @@ Vă mulțumim că ați citit Politica noastră de confidențialitate. Sperăm c�
 
 --- 
 
-Reveniți la pagina cu rezumatul la [Licență, Termeni de utilizare și alte informații legale](/en/license).
+Reveniți la pagina cu rezumatul la [Licență, Termeni de utilizare și alte informații legale](/ro/license).

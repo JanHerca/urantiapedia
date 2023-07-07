@@ -29,7 +29,7 @@ Kadangi visi (ne tik teisininkai) turėtų lengvai suprasti, kaip ir kodėl jų 
 Kai sakome… | …turime omenyje: 
 --- | --- 
 "Urantiapedija" / "mes" / "mus" / "mūsų" | Urantiapedia projekto komandos vadovai.
-"Urantiapedijos svetainė" / "mūsų paslaugos" | Urantiapedia svetainė ir Urantiapedia projekto paslaugos (nepriklausomai nuo kalbos), įskaitant [pagrindinę Urantiapedia svetainę](https://urantiapedia.org) (https://urantiapedia.org) ir alternatyvias kopijas GitHub ([Urantiapedia Main projektas](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) ir [Urantiapedia Backup projektas](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), taip pat taikomųjų programų sąsajas (API), el. laiškus ir pranešimus; tačiau neįskaitant svetainių ir paslaugų, išvardytų toliau esančiame skyriuje „Ko ši privatumo politika neapima“.
+"Urantiapedijos svetainė" / "mūsų paslaugos" | Urantiapedia svetainė ir Urantiapedia projekto paslaugos (nepriklausomai nuo kalbos), įskaitant [pagrindinę Urantiapedia svetainę](https://urantiapedia.org) ir alternatyvias kopijas GitHub ([Urantiapedia Main projektas](https://github.com/JanHerca/urantiapedia) ir [Urantiapedia Backup projektas](https://github.com/JanHerca/urantiapedia-backup)), taip pat taikomųjų programų sąsajas (API), el. laiškus ir pranešimus; tačiau neįskaitant svetainių ir paslaugų, išvardytų toliau esančiame skyriuje „Ko ši privatumo politika neapima“.
 „tu“ / „tavo“ / „aš“ | Jūs, nepaisant to, ar esate asmuo, grupė ar organizacija, ir nesvarbu, ar naudojatės Urantiapedia ar mūsų paslaugomis savo ar kieno nors kito vardu.
 "Asmeninė informacija" | Informacija, kurią mums pateikiate arba mūsų renkama informacija, kuri galėtų būti naudojama jūsų tapatybei nustatyti. Kad būtų aišku, nors mes nebūtinai renkame visų toliau nurodytų tipų informaciją, bent jau toliau nurodytą informaciją laikome „asmenine informacija“, jei ji nėra vieša ir gali būti naudojama jūsų tapatybei nustatyti:<br/>a) jūsų tikrasis vardas, adresas, telefono numeris, el. pašto adresas, slaptažodis, valstybės išduoto asmens tapatybės dokumento identifikavimo numeris, IP adresas, vartotojo agento informacija, mokėjimo sąskaitos numeris;<br/>(b) kai yra susijęs su vienu iš poskyryje nurodytų elementų a) bet kokius neskelbtinus duomenis, tokius kaip gimimo data, lytis, seksualinė orientacija, rasinė ar etninė kilmė, šeimyninė arba šeiminė padėtis, sveikatos būklė arba negalia, politinė priklausomybė ir religija.
 "trečioji šalis" / "trečioji šalis" | Asmenys, subjektai, svetainės, paslaugos, produktai ir taikomosios programos, kurių Urantiapedia nevaldo, nevaldo ir nevaldo. Tai apima kitus Urantiapedijos vartotojus ir nepriklausomas organizacijas ar grupes, padedančias skatinti Urantiapedijos judėjimą, pvz., Urantia Book organizacijas ir vartotojų grupes, taip pat savanorius, darbuotojus, direktorius, pareigūnus, dotacijų gavėjus ir tų organizacijų ar grupių rangovus. 
@@ -41,7 +41,7 @@ Išskyrus tai, kas paaiškinta toliau, ši privatumo politika taikoma renkant ir
 
 ši privatumo politika Aiškumo sumetimais ši privatumo politika apima, nepaisant kalbos: 
 
-– Mūsų alternatyvios kopijos GitHub, [Urantiapedia pagrindinis projektas] (https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) ir [Urantiapedia Backup projektas](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+– Mūsų alternatyvios kopijos GitHub, [Urantiapedia pagrindinis projektas](https://github.com/JanHerca/urantiapedia) ir [Urantiapedia Backup projektas](https://github.com/JanHerca/urantiapedia-backup). 
 – Mūsų API (nebent toms paslaugoms pateikėme atskirą politiką). 
 - El. laiškai, SMS ir pranešimai iš mūsų arba išsiųsti mums iš jūsų.
 
@@ -209,4 +209,4 @@ Dėkojame, kad perskaitėte mūsų privatumo politiką. Tikimės, kad jums patik
 
 --- 
 
-Grįžti į puslapį su santrauka [Licencija, sąlygos naudojimo ir kitos teisinės informacijos](/en/license).
+Grįžti į puslapį su santrauka [Licencija, sąlygos naudojimo ir kitos teisinės informacijos](/lt/license).

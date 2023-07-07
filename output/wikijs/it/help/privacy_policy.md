@@ -1,5 +1,5 @@
 ---
-title: "Privacy policy"
+title: "Informativa sulla privacy"
 description: 
 published: true
 date: 2023-02-03T13:55:38.362Z
@@ -8,219 +8,219 @@ editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
 
-## Introduction
+## Introduzione
 
-### Wellcome!
+### Benvenuto!
 
-Urantiapedia is founded on a simple, but powerful principle: we can do more together than any of us can do alone. We cannot work collectively without gathering, sharing, and analyzing information about our users as we seek new ways to make Urantiapedia more usable, safer, and more beneficial.
+Urantiapedia è fondata su un principio semplice ma potente: possiamo fare più insieme di quanto ciascuno di noi possa fare da solo. Non possiamo lavorare collettivamente senza raccogliere, condividere e analizzare le informazioni sui nostri utenti mentre cerchiamo nuovi modi per rendere Urantiapedia più utilizzabile, più sicura e più vantaggiosa.
 
-We believe that information-gathering and use should go hand-in-hand with transparency. This Privacy Policy explains how Urantiapedia collects, uses, and shares information we receive from you through your use of the website. It is essential to understand that, by using Urantiapedia website you consent to the collection, transfer, processing, storage, disclosure, and use of your information as described in this Privacy Policy. That means that reading this Policy carefully is important.
+Riteniamo che la raccolta e l'utilizzo delle informazioni debbano andare di pari passo con la trasparenza. Questa Informativa sulla privacy spiega come Urantiapedia raccoglie, usa e condivide le informazioni che riceviamo da te attraverso il tuo utilizzo del sito web. È essenziale comprendere che, utilizzando il sito web di Urantiapedia, acconsenti alla raccolta, al trasferimento, all'elaborazione, all'archiviazione, alla divulgazione e all'uso delle tue informazioni come descritto nella presente Informativa sulla privacy. Ciò significa che leggere attentamente questa politica è importante.
 
-We believe that you shouldn't have to provide nonpublic Personal Information to participate in Urantiapedia movement. You do not have to provide things like your real name, address, or date of birth to sign up for a standard account or contribute content to Urantiapedia.
+Crediamo che non dovreste fornire Informazioni Personali non pubbliche per partecipare al movimento di Urantiapedia. Non dovete fornire cose come il vostro vero nome, indirizzo o data di nascita per iscrivervi ad un account standard o contribuire con contenuti a Urantiapedia.
 
-We do not sell or rent your Personal Information, nor do we give it to others to sell you anything. We use it to figure out how to make Urantiapedia more engaging and accessible, to see which ideas work, and to make learning and contributing more fun. Put simply: we use this information to make Urantiapedia better for you.
+Non vendiamo o affittiamo le tue informazioni personali, né le diamo ad altri per venderti qualcosa. Lo usiamo per capire come rendere Urantiapedia più coinvolgente e accessibile, per vedere quali idee funzionano e per rendere l'apprendimento e il contributo più divertenti. In parole povere: usiamo queste informazioni per rendere Urantiapedia migliore per te.
 
-After all, it's people like you, the champions of _Urantia Book_ students, who make it possible for Urantiapedia to not only exist, but also grow and thrive.
+Dopo tutto, sono persone come voi, i campioni degli studenti del _Libro di Urantia_, che rendono possibile non solo a Urantiapedia di esistere, ma anche di crescere e prosperare.
 
-### Definitions
+### Definizioni
 
-Because everyone (not just lawyers) should be able to easily understand how and why their information is collected and used, we use common language instead of more formal terms throughout this Policy. To help ensure your understanding of some particular key terms, here is a table of translations:
+Poiché tutti (non solo gli avvocati) dovrebbero essere in grado di comprendere facilmente come e perché le loro informazioni vengono raccolte e utilizzate, utilizziamo un linguaggio comune invece di termini più formali in questa Politica. Per garantire la comprensione di alcuni termini chiave particolari, ecco una tabella di traduzioni:
 
-When we say… | …we mean:
+Quando diciamo… | …noi intendiamo:
 --- | ---
-"Urantiapedia" / "we" / "us" / "our" | The team leaders of Urantiapedia project.
-"Urantiapedia site" / "our services" | Urantiapedia website and services (regardless of language) of the Urantiapedia project, including the [main Urantiapedia website](https://urantiapedia.org) (https://urantiapedia.org), and the alternative copies in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup)), as well as Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below.
-"you" / "your" / "me" | You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using Urantiapedia or our services on behalf of yourself or someone else.
-"this Policy" / "this Privacy Policy" | This document, entitled the "Urantiapedia Privacy Policy".
-"contributions" | Content you add or changes you make to Urantiapedia.
-"Personal information" | Information you provide us or information we collect that could be used to personally identify you. To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be "personal information" if it is otherwise nonpublic and can be used to identify you:<br/>(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, payment account number;<br/>(b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion.
-"third party" / "third parties" | Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by Urantiapedia. This includes other Urantiapedia users and independent organizations or groups who help promote Urantiapedia movement such as Urantia Book organizations, and user groups as well as volunteers, employees, directors, officers, grant recipients, and contractors of those organizations or groups.
+"Urantiapedia" / "noi" / "noi" / "nostro" | I capisquadra del progetto Urantiapedia.
+"Sito Urantiapedia" / "i nostri servizi" | Sito web e servizi di Urantiapedia (indipendentemente dalla lingua) del progetto Urantiapedia, incluso il [sito web principale di Urantiapedia](https://urantiapedia.org), e le copie alternative in GitHub ([progetto principale di Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Progetto Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup)), così come le interfacce di programmazione dell'applicazione (API), e-mail e notifiche; esclusi, tuttavia, i siti e i servizi elencati nella sezione "Cosa non copre questa informativa sulla privacy" di seguito.
+"tu" / "tuo" / "me" | Tu, indipendentemente dal fatto che tu sia un individuo, un gruppo o un'organizzazione, e indipendentemente dal fatto che tu stia usando Urantiapedia oi nostri servizi per conto tuo o di qualcun altro.
+"questa politica" / "questa politica sulla privacy" | Questo documento, intitolato "Politica sulla privacy di Urantiapedia".
+"contributi" | Contenuti che aggiungete o modifiche che apportate a Urantiapedia.
+"Informazioni personali" | Informazioni che ci fornisci o informazioni che raccogliamo che potrebbero essere utilizzate per identificarti personalmente. Per essere chiari, anche se non raccogliamo necessariamente tutti i seguenti tipi di informazioni, consideriamo almeno le seguenti "informazioni personali" se sono altrimenti non pubbliche e possono essere utilizzate per identificarti:<br/>(a) il tuo vero nome, indirizzo, numero di telefono, indirizzo e-mail, password, numero di identificazione su documento d'identità rilasciato dal governo, indirizzo IP, informazioni sullo user-agent, numero di conto di pagamento;<br/>(b) se associato a uno degli elementi nella sottosezione (a), qualsiasi dato sensibile come data di nascita, sesso, orientamento sessuale, origini razziali o etniche, stato civile o familiare, condizioni mediche o disabilità, affiliazione politica e religione.
+"terze parti" / "terze parti" | Individui, entità, siti web, servizi, prodotti e applicazioni che non sono controllati, gestiti o operati da Urantiapedia. Ciò include altri utenti di Urantiapedia e organizzazioni o gruppi indipendenti che aiutano a promuovere il movimento di Urantiapedia come le organizzazioni del Libro di Urantia e gruppi di utenti così come volontari, impiegati, direttori, funzionari, beneficiari di sovvenzioni e appaltatori di tali organizzazioni o gruppi.
 
-### What This Privacy Policy Does & Doesn't Cover
+### Cosa copre e cosa non copre questa politica sulla privacy
 
-Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of Urantiapedia site. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
+Ad eccezione di quanto spiegato di seguito, questa politica sulla privacy si applica alla nostra raccolta e gestione delle informazioni su di te che riceviamo come risultato del tuo utilizzo del sito di Urantiapedia. Questa politica si applica anche alle informazioni che riceviamo dai nostri partner o da altre terze parti. Per saperne di più su cosa copre questa Informativa sulla privacy, vedere di seguito.
 
-#### Examples of What This Privacy Policy Covers
+#### Esempi di cosa copre questa politica sulla privacy
 
-For the sake of clarity, this Privacy Policy covers, regardless of language:
+Per motivi di chiarezza, la presente Informativa sulla privacy copre, indipendentemente dalla lingua:
 
-- Our main website (https://urantiapedia.org).
-- Our alternative copies in GitHub, [Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup).
-- Our APIs (unless we have provided a separate policy for those services).
-- Emails, SMS, and notifications from us or sent to us from you.
+- Il nostro sito [web principale](https://urantiapedia.org).
+- Le nostre copie alternative in GitHub, [Progetto principale di Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Progetto di backup di Urantiapedia](https://github.com/JanHerca/urantiapedia-backup).
+- Le nostre API (a meno che non abbiamo fornito una politica separata per tali servizi).
+- E-mail, SMS e notifiche da noi o inviateci da te.
 
-This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, sites or services run by third parties. To understand more about what this Privacy Policy does not cover, please see below.
+La presente Informativa sulla privacy, tuttavia, non copre alcune situazioni in cui potremmo raccogliere o elaborare informazioni. Ad esempio, siti o servizi gestiti da terze parti. Per saperne di più su ciò che questa Informativa sulla privacy non copre, vedere di seguito.
 
-#### More on what this Privacy Policy doesn’t cover
+#### Ulteriori informazioni su ciò che questa Informativa sulla privacy non copre
 
-This section is part of the Privacy Policy and is meant to explain in detail which situations are not covered by our Privacy Policy.
+Questa sezione fa parte dell'Informativa sulla privacy e ha lo scopo di spiegare in dettaglio quali situazioni non sono coperte dalla nostra Informativa sulla privacy.
 
-##### Community members
+##### Membri della comunità
 
-Urantiapedia site is collaborative labor of love that is constantly maintained and updated by a global community of volunteers. This global community of volunteers may sometimes have access to personal Information in order to ensure the functioning of Urantiapedia site.
-- **Administrative volunteers**. These are volunteers who enforce Urantiapedia site policies and ensure the safety of Urantiapedia site. When these administrators access Personal Information that is nonpublic, they are required to comply with our Access to Nonpublic Information Policy, as well as other, tool-specific policies.
-- **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include:
-    - posting messages in WhatsApp Urantiapedia groups;
-    - using [Trello](https://trello.com/) for project planning and management.
+Il sito di Urantiapedia è un lavoro collaborativo d'amore che è costantemente mantenuto e aggiornato da una comunità globale di volontari. Questa comunità globale di volontari può talvolta avere accesso alle informazioni personali per assicurare il funzionamento del sito di Urantiapedia.
+- **Volontari amministrativi**. Questi sono volontari che applicano le politiche del sito di Urantiapedia e assicurano la sicurezza del sito di Urantiapedia. Quando questi amministratori accedono a Informazioni personali non pubbliche, sono tenuti a rispettare la nostra Politica sull'accesso alle informazioni non pubbliche, nonché altre politiche specifiche dello strumento.
+- **Altri utenti**. Forniamo diversi strumenti che consentono agli utenti di comunicare tra loro. Le comunicazioni possono essere coperte da questa Informativa mentre passano attraverso i nostri sistemi, ma gli utenti che ricevono queste comunicazioni e ciò che fanno con le comunicazioni una volta che le ricevono non sono coperti da questa Informativa. Esempi inclusi:
+    - pubblicare messaggi nei gruppi WhatsApp Urantiapedia;
+    - utilizzo di [Trello](https://trello.com/) per la pianificazione e la gestione dei progetti.
 
-##### Third parties
+##### Terzi
 
-This Privacy Policy only covers the way Urantiapedia collects, uses and discloses Personal Information and does not address the practices of third parties. For example, this Privacy Policy does not address the practices of:
-- **Websites run by other organizations**, like websites linked to from the "References" sections of Urantiapedia, or run by other movement organizations. These organizations may receive information from you if you visit their websites after using Urantiapedia. They are governed by their own privacy policies.
-- **Mobile applications provided by other organizations or individuals**. These organizations or individuals may receive information from you if you use those applications to access Urantiapedia site content. They are governed by their own privacy policies.
+Questa Informativa sulla Privacy copre solo il modo in cui Urantiapedia raccoglie, utilizza e divulga Informazioni Personali e non affronta le pratiche di terze parti. Ad esempio, la presente Informativa sulla privacy non affronta le pratiche di:
+- **Siti web gestiti da altre organizzazioni**, come siti web collegati dalle sezioni "Riferimenti" di Urantiapedia, o gestiti da altre organizzazioni di movimento. Queste organizzazioni possono ricevere informazioni da te se visiti i loro siti web dopo aver usato Urantiapedia. Sono disciplinati dalle proprie politiche sulla privacy.
+- **Applicazioni mobili fornite da altre organizzazioni o individui**. Queste organizzazioni o individui possono ricevere informazioni da te se usi quelle applicazioni per accedere al contenuto del sito di Urantiapedia. Sono disciplinati dalle proprie politiche sulla privacy.
 
-## Collection & Use of Info
+## Raccolta e utilizzo delle informazioni
 
-### Types of Information We Receive From You & How We Get It
+### Tipi di informazioni che riceviamo da te e come le otteniamo
 
-#### Your Public Contributions
+#### I tuoi contributi pubblici
 
-When you make a contribution to Urantiapedia site, including on comments sections, you are creating a permanent, public record of every piece of content added, removed, or altered by you. The page history will show when your contribution or deletion was made, as well as your username. We may use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how Urantiapedia site is used, as further explained below in the "How We Use Information We Receive From You" section of this Privacy Policy.
+Quando dai un contributo al sito di Urantiapedia, anche nelle sezioni dei commenti, stai creando un registro pubblico e permanente di ogni pezzo di contenuto aggiunto, rimosso o alterato da te. La cronologia della pagina mostrerà quando è stato effettuato il tuo contributo o la cancellazione, così come il tuo nome utente. Possiamo usare i tuoi contributi pubblici, sia aggregati con i contributi pubblici di altri o individualmente, per creare nuove funzionalità o prodotti relativi ai dati per te o per saperne di più su come viene utilizzato il sito di Urantiapedia, come ulteriormente spiegato di seguito nella sezione "Come utilizziamo Informazioni che riceviamo da voi" della presente Informativa sulla privacy.
 
-#### Publicly Visible Information
+#### Informazioni pubblicamente visibili
 
-Unless this Policy says otherwise, you should assume that information that you actively contribute to Urantiapedia site, including Personal Information, is publicly visible and can be found by search engines. Like most things on the Internet, anything you share may be copied and redistributed throughout the Internet by other people. Please do not contribute any information that you are uncomfortable making permanently public, like revealing your real name or location in your contributions.
+A meno che questa Politica non dica altrimenti, dovresti presumere che le informazioni che contribuisci attivamente al sito di Urantiapedia, comprese le Informazioni Personali, siano pubblicamente visibili e possano essere trovate dai motori di ricerca. Come la maggior parte delle cose su Internet, tutto ciò che condividi può essere copiato e ridistribuito su Internet da altre persone. Si prega di non fornire alcuna informazione che si mette a disagio nel rendere pubblica in modo permanente, come rivelare il proprio vero nome o la posizione nei propri contributi.
 
-You should be aware that specific data made public by you or aggregated data that is made public by us can be used by anyone for analysis and to infer further information, such as which country a user is from, political affiliation and gender.
+È necessario essere consapevoli del fatto che i dati specifici resi pubblici dall'utente o i dati aggregati resi pubblici da noi possono essere utilizzati da chiunque per l'analisi e per dedurre ulteriori informazioni, come il paese di provenienza dell'utente, l'appartenenza politica e il sesso.
 
-#### Account Information & Registration
+#### Informazioni sull'account e registrazione
 
-You are required to request the creation of an account to contribute to Urantipedia site. You cannot create accounts by your own.
+Ti viene richiesto di richiedere la creazione di un account per contribuire al sito di Urantipedia. Non puoi creare account da solo.
 
-If you want to request the creation of a contributor account, we require only a username, a password and a email address. You can change at any time the username and the password, but not the email.
+Se desideri richiedere la creazione di un account collaboratore, richiediamo solo un nome utente, una password e un indirizzo email. Puoi modificare in qualsiasi momento il nome utente e la password, ma non l'email.
 
-We never require Personal Information like gender, age.
+Non richiediamo mai informazioni personali come sesso, età.
 
-#### Location Information
+#### Informazioni sulla posizione
 
-If you consent, we can use GPS (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy.
+Se acconsenti, possiamo utilizzare il GPS (e altre tecnologie comunemente utilizzate per determinare la posizione) per mostrarti contenuti più pertinenti. Manteniamo riservate le informazioni ottenute da queste tecnologie, ad eccezione di quanto previsto nella presente Informativa.
 
-### Information Related to Your Use of Urantiapedia site
+### Informazioni relative al tuo utilizzo del sito di Urantiapedia
 
-We want to make Urantiapedia site better for you by learning more about how you use them. Examples of this might include how often you visit Urantiapedia site, what you like, what you find helpful, how you get to Urantiapedia site, and whether you would use a helpful feature more if we explained it differently. We also want this Policy and our practices to reflect our community's values. For this reason, we keep information related to your use of Urantiapedia site confidential, except as provided in this Policy.
+Vogliamo rendere il sito di Urantiapedia migliore per te imparando di più su come li usi. Esempi di questo potrebbero includere la frequenza con cui visiti il ​​sito di Urantiapedia, cosa ti piace, cosa trovi utile, come arrivi al sito di Urantiapedia e se useresti di più una caratteristica utile se lo spiegassimo in modo diverso. Desideriamo inoltre che questa Politica e le nostre pratiche riflettano i valori della nostra comunità. Per questa ragione, manteniamo riservate le informazioni relative al vostro uso del sito di Urantiapedia, salvo quanto previsto in questa Politica.
 
-#### Information We Receive Automatically
+#### Informazioni che riceviamo automaticamente
 
-Because of how browsers work, we receive some information automatically when you visit Urantiapedia site. This includes when you use an online tool on a third-party site that loads information coming from Urantiapedia site. This information includes the type of device you are using, the type and version of your browser, your browser's language preference, the type and version of your device's operating system, in some cases the name of your internet service provider or mobile carrier, the website that referred you to Urantiapedia site, which pages you request and visit, and the date and time of each request you make to Urantiapedia site.
+A causa di come funzionano i browser, riceviamo automaticamente alcune informazioni quando visitate il sito di Urantiapedia. Ciò include quando usate uno strumento online su un sito di terze parti che carica informazioni provenienti dal sito di Urantiapedia. Queste informazioni includono il tipo di dispositivo che stai utilizzando, il tipo e la versione del tuo browser, la preferenza della lingua del tuo browser, il tipo e la versione del sistema operativo del tuo dispositivo, in alcuni casi il nome del tuo provider di servizi Internet o gestore di telefonia mobile, il sito web che ti ha indirizzato al sito di Urantiapedia, quali pagine richiedi e visiti, e la data e l'ora di ogni richiesta che fai al sito di Urantiapedia.
 
-Put simply, we use this information to enhance your experience with Urantiapedia site. For example, we use this information to administer the site, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with Urantiapedia site, track and study use of various features, gain understanding about the demographics of Urantiapedia site, and analyze trends.
+In parole povere, usiamo queste informazioni per migliorare la tua esperienza con il sito di Urantiapedia. Ad esempio, utilizziamo queste informazioni per amministrare il sito, fornire maggiore sicurezza e combattere il vandalismo; ottimizzare le applicazioni mobili, personalizzare i contenuti e impostare le preferenze della lingua, testare le funzionalità per vedere cosa funziona e migliorare le prestazioni; capire come gli utenti interagiscono con il sito di Urantiapedia, tenere traccia e studiare l'uso di varie caratteristiche, ottenere una comprensione dei dati demografici del sito di Urantiapedia e analizzare le tendenze.
 
-#### Information We Collect
+#### Informazioni che raccogliamo
 
-We actively collect some types of information with a variety of commonly-used technologies. These generally include tracking pixels, JavaScript, and a variety of "locally stored data" technologies, such as cookies and local storage. These types of technologies may also be used in online tools on a third-party site that loads information from Urantiapedia site. We realize that some of these technologies do not have the best reputation in town and can be used for less-than-noble purposes. So we want to be as clear as we can about why we use these methods and the type of information we collect with them.
+Raccogliamo attivamente alcuni tipi di informazioni con una varietà di tecnologie di uso comune. Questi generalmente includono pixel di tracciamento, JavaScript e una varietà di tecnologie di "dati archiviati localmente", come i cookie e l'archiviazione locale. Questi tipi di tecnologie possono anche essere usati in strumenti online su un sito di terze parti che carica informazioni dal sito di Urantiapedia. Ci rendiamo conto che alcune di queste tecnologie non godono della migliore reputazione in città e possono essere utilizzate per scopi tutt'altro che nobili. Quindi vogliamo essere il più chiari possibile sul motivo per cui utilizziamo questi metodi e sul tipo di informazioni che raccogliamo con essi.
 
-Depending on which technology we use, locally stored data may include text, Personal Information (like your IP address), and information about your use of Urantiapedia site (like your username or the time of your visit). See below for more information.
+A seconda della tecnologia che usiamo, i dati immagazzinati localmente possono includere testo, informazioni personali (come il vostro indirizzo IP) e informazioni sul vostro uso del sito di Urantiapedia (come il vostro nome utente o l'ora della vostra visita). Vedi sotto per maggiori informazioni.
 
-We use this information to make your experience with Urantiapedia site safer and better, to gain a greater understanding of user preferences and their interaction with Urantiapedia site, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at urantiapedia@gmail.com.
+Utilizziamo queste informazioni per rendere la tua esperienza con il sito di Urantiapedia più sicura e migliore, per ottenere una maggiore comprensione delle preferenze degli utenti e della loro interazione con il sito di Urantiapedia, e per migliorare in generale i nostri servizi. Non utilizzeremo mai cookie di terze parti, a meno che non otteniamo il tuo permesso. Se ti imbatti in uno strumento di raccolta dati di terze parti che non è stato autorizzato da te (come uno che potrebbe essere stato inserito per errore da un altro utente o amministratore), ti preghiamo di segnalarcelo a urantiapedia@gmail.com.
 
-### How We Use Information We Receive From You
+### Come utilizziamo le informazioni che riceviamo da te
 
-#### General
+#### Generale
 
-We and our service providers use your information for the legitimate purpose of pursuing our charitable mission, including:
-- Operating Urantiapedia site, sharing your contributions and administering our Services.
-    - To help you share your _Urantia Book_ knowledge with the world and add new features to our Services.
-    - To arrange access to your account and provide you with related service.
-    - To send administrative information to you, such as changes to our policies.
-    We engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations.
-- Providing customized Services.
-    - To provide to you custom content, notices and settings and to enhance your experience with Urantiapedia site.
-    We will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest.
-- Sending emails with news updates and communications about items we believe may be of interest to you.
-    - To let you know about things that are happening with Urantiapedia site or Urantiapedia movement.
-    We will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you.
-- Improving Urantiapedia site and making your user experience safer and better.
-    - To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how Urantiapedia site are used.
-    - To fight spam, identity theft, malware and other kinds of abuse.
-    - To optimize mobile and other applications.
-    - To test features to see what works, understand how users interact with Urantiapedia site, track and study use of various features, gain understanding about the demographics of Urantiapedia site and analyze trends.
-    We engage in these activities to further our legitimate interest and/or to comply with our legal obligations.
+Noi e i nostri fornitori di servizi utilizziamo le tue informazioni per lo scopo legittimo di perseguire la nostra missione di beneficenza, tra cui:
+- Gestire il sito di Urantiapedia, condividere i tuoi contributi e amministrare i nostri Servizi.
+    - Per aiutarvi a condividere la vostra conoscenza del _Libro di Urantia_ con il mondo e aggiungere nuove caratteristiche ai nostri Servizi.
+    - Per organizzare l'accesso al tuo account e fornirti il ​​relativo servizio.
+    - Per inviarti informazioni amministrative, come le modifiche alle nostre politiche.
+    Ci impegniamo in queste attività per gestire il nostro rapporto con te, perché abbiamo un interesse legittimo e/o per rispettare i nostri obblighi legali.
+- Fornire servizi personalizzati.
+    - Per fornirti contenuti personalizzati, avvisi e impostazioni e per migliorare la tua esperienza con il sito di Urantiapedia.
+    Personalizzeremo i Servizi, in alcuni casi, con il tuo consenso; o in linea con il nostro legittimo interesse.
+- Invio di e-mail con aggiornamenti di notizie e comunicazioni su articoli che riteniamo possano interessarti.
+    - Per farvi conoscere le cose che stanno accadendo con il sito di Urantiapedia o il movimento di Urantiapedia.
+    Ti invieremo questo tipo di e-mail solo con il tuo consenso, salvo quanto diversamente consentito dalla legge applicabile. Non vendiamo, affittiamo o utilizziamo il tuo indirizzo e-mail per pubblicizzarti prodotti o servizi di terze parti.
+- Migliorare il sito di Urantiapedia e rendere la tua esperienza utente più sicura e migliore.
+    - Per utilizzare i tuoi contributi pubblici, sia aggregati con i contributi pubblici di altri o individualmente, per creare nuove caratteristiche o prodotti relativi ai dati per te o per saperne di più su come viene utilizzato il sito di Urantiapedia.
+    - Per combattere spam, furto di identità, malware e altri tipi di abuso.
+    - Per ottimizzare le applicazioni mobili e di altro tipo.
+    - Per testare le caratteristiche per vedere cosa funziona, capire come gli utenti interagiscono con il sito di Urantiapedia, tenere traccia e studiare l'uso delle varie caratteristiche, ottenere una comprensione dei dati demografici del sito di Urantiapedia e analizzare le tendenze.
+    Ci impegniamo in queste attività per promuovere il nostro legittimo interesse e/o per adempiere ai nostri obblighi legali.
 
-#### Other
+#### Altro
 
-##### Location information
+##### Informazioni sulla posizione
 
-As stated above, we can use commonly-used location technologies to show you more relevant content. As a reminder, you can consent to and/or deactivate our access to these location technologies at any time for example through the native OS functionalities on your mobile device, and still use Urantiapedia site.
+Come affermato in precedenza, possiamo utilizzare le tecnologie di localizzazione comunemente utilizzate per mostrarti contenuti più pertinenti. Come promemoria, puoi acconsentire e/o disattivare il nostro accesso a queste tecnologie di localizzazione in qualsiasi momento, per esempio attraverso le funzionalità native del sistema operativo sul tuo dispositivo mobile, e continuare ad utilizzare il sito di Urantiapedia.
 
-##### IP Addresses
+##### Indirizzi IP
 
-When you visit any Urantiapedia site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting Urantiapedia site with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
+Quando visiti qualsiasi sito di Urantiapedia, riceviamo automaticamente l'indirizzo IP del dispositivo (o il tuo server proxy) che stai usando per accedere a Internet, che potrebbe essere usato per dedurre la tua posizione geografica. Manteniamo riservati gli indirizzi IP, ad eccezione di quanto previsto nella presente Informativa. Se stai visitando il sito di Urantiapedia con il tuo dispositivo mobile, possiamo usare il tuo indirizzo IP per fornire informazioni anonime o aggregate ai fornitori di servizi riguardo al volume di utilizzo in certe aree.
 
-We use this location information to make your experience with Urantiapedia site safer and better, to gain a greater understanding of user preferences and their interaction with Urantiapedia site, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support Urantiapedia community. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
+Utilizziamo queste informazioni sulla posizione per rendere la tua esperienza con il sito di Urantiapedia più sicura e migliore, per ottenere una maggiore comprensione delle preferenze degli utenti e della loro interazione con il sito di Urantiapedia, e per migliorare in generale i nostri servizi. Ad esempio, usiamo queste informazioni per fornire maggiore sicurezza, ottimizzare le applicazioni mobili e imparare come espandere e supportare meglio la comunità di Urantiapedia. Utilizziamo anche le informazioni personali nel modo descritto nelle sezioni di questa politica intitolate "Per motivi legali" e "Per proteggere te, noi stessi e gli altri".
 
-## Sharing
+## Condivisione
 
-### When May We Share Your Information?
+### Quando possiamo condividere le tue informazioni?
 
-#### With Your Permission
+#### Con il tuo permesso
 
-We share your Personal Information for a particular purpose, if you agree.
+Condividiamo le tue informazioni personali per uno scopo particolare, se sei d'accordo.
 
-#### For Legal Reasons
+#### Per motivi legali
 
-We will access, use, preserve, and/or disclose your Personal Information if we reasonably believe it necessary to satisfy a valid and legally enforceable warrant, subpoena, court order, law or regulation, or other judicial or administrative order. However, if we believe that a particular request for disclosure of a user's information is legally invalid or an abuse of the legal system and the affected user does not intend to oppose the disclosure themselves, we will try our best to fight it. We are committed to notifying you via email at least ten (10) calendar days, when possible, before we disclose your Personal Information in response to a legal demand. However, we may only provide notice if we are not legally restrained from contacting you, there is no credible threat to life or limb that is created or increased by disclosing the request, and you have provided us with an email address.
+Accederemo, utilizzeremo, conserveremo e/o divulgheremo le vostre informazioni personali se lo riteniamo ragionevolmente necessario per soddisfare un mandato, un mandato di comparizione, un ordine del tribunale, una legge o un regolamento validi e legalmente applicabili o altro ordine giudiziario o amministrativo. Tuttavia, se riteniamo che una particolare richiesta di divulgazione delle informazioni di un utente sia legalmente non valida o un abuso del sistema legale e l'utente interessato non intenda opporsi alla divulgazione, faremo del nostro meglio per contrastarla. Ci impegniamo a informarti via e-mail almeno dieci (10) giorni di calendario, quando possibile, prima di divulgare le tue informazioni personali in risposta a una richiesta legale. Tuttavia, possiamo fornire un avviso solo se non siamo legalmente impediti di contattarti, non vi è alcuna minaccia credibile alla vita o all'incolumità fisica creata o accresciuta dalla divulgazione della richiesta,
 
-Nothing in this Privacy Policy is intended to limit any legal objections or defenses you may have to a third-party's request (whether it be civil, criminal, or governmental) to disclose your Personal Information. We recommend seeking the advice of legal counsel immediately if such a request is made involving you.
+Nulla nella presente Informativa sulla privacy ha lo scopo di limitare eventuali obiezioni o difese legali che potresti avere alla richiesta di una terza parte (sia essa civile, penale o governativa) di divulgare le tue informazioni personali. Raccomandiamo di chiedere immediatamente il parere di un consulente legale se tale richiesta viene fatta coinvolgendovi.
 
-#### To Protect You, Ourselves & Others
+#### Per proteggere te, noi stessi e gli altri
 
-We, or particular users with certain administrative rights as described below, need to use and share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our Terms of Use or this Privacy Policy. We may also need to access and share Personal Information to investigate and defend ourselves against legal threats or actions.
+Noi, o particolari utenti con determinati diritti amministrativi come descritto di seguito, abbiamo bisogno di utilizzare e condividere le vostre informazioni personali se ragionevolmente ritenuto necessario per far rispettare o indagare su potenziali violazioni delle nostre Condizioni d'uso o della presente Informativa sulla privacy. Potremmo anche aver bisogno di accedere e condividere informazioni personali per indagare e difenderci da minacce o azioni legali.
 
-We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns.
+Ci auguriamo che ciò non accada mai, ma potremmo divulgare le tue informazioni personali se riteniamo che sia ragionevolmente necessario per prevenire danni fisici imminenti e gravi o la morte di una persona o per proteggere la nostra organizzazione, i dipendenti, gli appaltatori, gli utenti o il pubblico . Potremmo anche divulgare le tue informazioni personali se lo riteniamo ragionevolmente necessario per rilevare, prevenire o altrimenti valutare e affrontare potenziali spam, malware, frodi, abusi, attività illecite e problemi di sicurezza o tecnici.
 
-## Protection
+## Protezione
 
-### How Do We Protect Your Personal Information?
+### Come proteggiamo le tue informazioni personali?
 
-We strive to protect your Personal Information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
+Ci sforziamo di proteggere le tue informazioni personali da accesso, uso o divulgazione non autorizzati. Utilizziamo una varietà di misure, politiche e procedure fisiche e tecniche (come procedure di controllo degli accessi, firewall di rete e sicurezza fisica) progettate per proteggere i nostri sistemi e le tue informazioni personali. Sfortunatamente, non esiste una trasmissione o un'archiviazione di dati completamente sicura, quindi non possiamo garantire che la nostra sicurezza non venga violata (mediante misure tecniche o violazione delle nostre politiche e procedure).
 
-We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to urantiapedia@gmail.com, so we can investigate the source of the email.
+Non chiederemo mai la tua password via e-mail (ma potremmo inviarti una password temporanea via e-mail se hai richiesto la reimpostazione della password). Se ricevi un'e-mail che richiede la tua password, faccelo sapere inviandola a urantiapedia@gmail.com, in modo che possiamo indagare sulla fonte dell'e-mail.
 
-### How Long Do We Keep Your Data?
+### Per quanto tempo conserviamo i tuoi dati?
 
-Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of Urantiapedia site, and our obligations under applicable law. In most instances, Personal Information is deleted, aggregated or de-identified after 90 days. Non-Personal Information may be retained indefinitely as appropriate.
+Una volta che riceviamo informazioni personali da voi, le conserviamo per il tempo più breve possibile, coerentemente con il mantenimento, la comprensione e il miglioramento del sito di Urantiapedia e con i nostri obblighi ai sensi della legge applicabile. Nella maggior parte dei casi, le informazioni personali vengono eliminate, aggregate o anonimizzate dopo 90 giorni. Le informazioni non personali possono essere conservate a tempo indeterminato a seconda dei casi.
 
-Please remember that when you make a contribution to Urantiapedia site, the page history will show when your contribution was made and your username. The transparency of the project contributions and revision history is critical to its efficacy and trustworthiness.
+Per favore ricorda che quando dai un contributo al sito di Urantiapedia, la cronologia della pagina mostrerà quando il tuo contributo è stato fatto e il tuo nome utente. La trasparenza dei contributi del progetto e della cronologia delle revisioni è fondamentale per la sua efficacia e affidabilità.
 
-## Your rights
+## I tuoi diritti
 
-If you would like to request to access, update or restrict/object to the processing of Personal Information, or receive a copy of your Personal Information for purposes of transmitting it to another organization, you may Contact Us. We will respond to your request consistent with applicable law.
+Se desideri richiedere di accedere, aggiornare o limitare/opporsi al trattamento delle informazioni personali o ricevere una copia delle tue informazioni personali allo scopo di trasmetterle a un'altra organizzazione, puoi contattarci. Risponderemo alla tua richiesta in conformità con la legge applicabile.
 
-Please note also that you may be able to exercise some of these rights without our intervention. For example, if you are a registered user, you can access and update some Personal Information in your Account page.
+Ti preghiamo inoltre di notare che potresti essere in grado di esercitare alcuni di questi diritti senza il nostro intervento. Ad esempio, se sei un utente registrato, puoi accedere e aggiornare alcune informazioni personali nella pagina del tuo account.
 
-##  Important info
+## Informazioni importanti
 
-**For the protection of Urantiapedia and other users, if you do not agree with this Privacy Policy, you may not use Urantiapedia site.**
+**Per la protezione di Urantiapedia e degli altri utenti, se non siete d'accordo con questa Politica sulla Privacy, non potete utilizzare il sito di Urantiapedia.**
 
 
-### Where is Urantiapedia & What Does That Mean for Me?
+### Dov'è Urantiapedia e cosa significa per me?
 
-Urantiapedia is not an organization but a simple project created by a community of contributors, with servers that can be located in different countries depending on availabity from our hosting provider. If you decide to use Urantiapedia site you understand that your Personal Information will be collected, transferred, stored, processed, disclosed and otherwise used in the country in which our servers are located as described in this Privacy Policy. You also understand that your information may be transferred by us from the countries with our servers to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you.
+Urantiapedia non è un'organizzazione ma un semplice progetto creato da una comunità di contributori, con server che possono trovarsi in diversi paesi a seconda della disponibilità del nostro provider di hosting. Se decidete di utilizzare il sito di Urantiapedia, comprendete che le vostre informazioni personali saranno raccolte, trasferite, archiviate, elaborate, divulgate e altrimenti utilizzate nel paese in cui si trovano i nostri server come descritto nella presente Informativa sulla privacy. Comprendi inoltre che le tue informazioni potrebbero essere trasferite da noi dai paesi con i nostri server ad altri paesi, che potrebbero avere leggi sulla protezione dei dati diverse o meno rigorose rispetto al tuo paese, in relazione alla fornitura di servizi all'utente.
 
-### Our Response to Do Not Track (DNT) signals
+### La nostra risposta ai segnali Do Not Track (DNT).
 
-We are strongly committed to protecting users' Personal Information. Under this Policy, we may share your information only under particular situations, which you can learn more about in the "When May We Share Your Information" section of this Privacy Policy. In particular, we do not share your Personal Information for marketing purposes.
+Siamo fortemente impegnati a proteggere le informazioni personali degli utenti. In base a questa Informativa, potremmo condividere le tue informazioni solo in situazioni particolari, di cui puoi saperne di più nella sezione "Quando possiamo condividere le tue informazioni" di questa Informativa sulla privacy. In particolare, non condividiamo le tue informazioni personali per scopi di marketing.
 
-Because we protect all users in accordance with this Privacy Policy, we do not change our behavior in response to a web browser's "do not track" signal.
+Poiché proteggiamo tutti gli utenti in conformità con la presente Informativa sulla privacy, non modifichiamo il nostro comportamento in risposta al segnale "non tracciare" di un browser web.
 
-### Changes to This Privacy Policy
+### Modifiche alla presente Informativa sulla privacy
 
-Because things naturally change over time and we want to ensure our Privacy Policy accurately reflects our practices and the law, it may be necessary to modify this Privacy Policy from time to time. We reserve the right to do so in the following manner:
-- In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for an open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via a notification on urantiapedia@gmail.com.
-- For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via notification to contributors email or contributors WhatsApp chat groups.
+Poiché le cose cambiano naturalmente nel tempo e vogliamo garantire che la nostra Informativa sulla privacy rifletta accuratamente le nostre pratiche e la legge, potrebbe essere necessario modificare questa Informativa sulla privacy di volta in volta. Ci riserviamo il diritto di farlo nel modo seguente:
+- In caso di modifiche sostanziali, forniremo le modifiche proposte ai nostri utenti in almeno tre (3) lingue (selezionate a nostra discrezione) per un periodo di commento aperto della durata di almeno trenta (30) giorni di calendario. Prima dell'inizio di qualsiasi periodo di commento, forniremo un avviso di tali modifiche e l'opportunità di commentare tramite una notifica su urantiapedia@gmail.com.
+- Per modifiche minori, come correzioni grammaticali, modifiche amministrative o legali o correzioni di dichiarazioni inesatte, pubblicheremo le modifiche e, quando possibile, forniremo un preavviso di almeno tre (3) giorni di calendario tramite notifica all'e-mail o ai contributori Gruppi chat WhatsApp.
 
-We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of Urantiapedia site after any effective date of a subsequent version of this Privacy Policy constitutes acceptance of this Privacy Policy on your part.
+Ti chiediamo di consultare la versione più aggiornata della nostra Informativa sulla privacy. Il vostro uso continuato del sito di Urantiapedia dopo qualsiasi data di entrata in vigore di una successiva versione di questa Politica sulla Privacy costituisce l'accettazione di questa Politica sulla Privacy da parte vostra.
 
-### Contact Us
+### Contattaci
 
-If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at urantiapedia@gmail.com.
+Se hai domande o suggerimenti sulla presente Informativa sulla privacy, o sulle informazioni raccolte ai sensi della presente Informativa sulla privacy, ti preghiamo di inviarci un'e-mail all'indirizzo urantiapedia@gmail.com.
 
-### Thank You!
+### Grazie!
 
-Thank you for reading our Privacy Policy. We hope you enjoy using Urantiapedia site and appreciate your participation in creating, maintaining, and constantly working to improve this free knowledge repository of **The Fifth Epochal Revelation of the world**.
+Grazie per aver letto la nostra Informativa sulla privacy. Ci auguriamo che vi piaccia usare il sito di Urantiapedia e che apprezziate la vostra partecipazione nel creare, mantenere e lavorare costantemente per migliorare questo deposito gratuito di conoscenza de **La Quinta Rivelazione Epocale del mondo**.
 
-**Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
+**Si prega di notare che in caso di differenze di significato o interpretazione tra la versione originale inglese della presente Informativa sulla privacy e una traduzione, la versione originale inglese ha la precedenza.**
 
 ---
 
-Return to page with summary on [Licence, Terms of Use and other legal info](/en/license).
+Ritorna alla pagina con il riepilogo su [Licenza, Condizioni d'uso e altre informazioni legali](/it/license).

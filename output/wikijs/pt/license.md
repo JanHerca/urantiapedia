@@ -14,108 +14,113 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ### Licença 
 
-Este site está disponível sob a [Licença Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), a menos que um aviso de direitos autorais seja mostrado , conforme explicado na parte _Restrições_ desta página. 
+Este site está disponível sob a [Licença Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt), a menos que um aviso de direitos autorais seja mostrado , conforme explicado na parte _Restrições_ desta página. 
 
-Identificador curto da licença: **CC-BY-SA-3.0** 
+Identificador curto da licença: **CC-BY-SA-4.0** 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Logotipo da licença Commons Attribution-ShareAlike" width="200px" height="
 
 #### Creative Commons Deed 
 
-> Este é um resumo legível por humanos da [licença completa](/pt/help/full_license). 
-> 
-> Você é livre: 
-> 
-> - **para Compartilhar**—para copiar, distribuir e transmitir o trabalho, e 
-> - **para Remix**—para [adaptar](https://en.wikipedia.org/wiki/Literary_adaptation) a obra 
-> 
-> para qualquer finalidade, mesmo comercial. 
-> 
-> Sob as seguintes condições: 
-> 
-> - **Compartilhamento igual**—Se você alterar, transformar ou desenvolver este trabalho, poderá distribuir o trabalho resultante somente sob a mesma licença, semelhante ou compatível. 
-> 
-> Com o entendimento de que: 
->
-> - **Isenção**—Qualquer uma das condições acima pode ser dispensada se você obtiver permissão do detentor dos direitos autorais. 
-> - **Outros direitos**—De forma alguma os seguintes direitos são afetados pela licença: 
-> - seu [negociação justa](https://en.wikipedia.org/wiki/Fair_dealing) ou [uso justo] (https://en.wikipedia.org/wiki/Fair_use) direitos; 
-> - direitos que outras pessoas podem ter sobre o trabalho em si ou sobre como o trabalho é usado, como [publicidade](https://en.wikipedia.org/wiki/Personality_rights) ou [privacidade](https://en.wikipedia.org/wiki/Privacy_law) direitos.
-> - **Aviso**—Para qualquer reutilização ou distribuição, você deve deixar claro para outras pessoas os termos da licença deste trabalho. A melhor maneira de fazer isso é com um link para [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/) 
-{.is -info} 
+Este é um resumo legível por humanos (e não um substituto para) a [licença](/pt/help/full_license).
+
+<p style="text-align:center;"><b>Você tem o direito de:</b></p>
+
+- **Compartilhar**—copiar e redistribuir o material em qualquer suporte ou formato
+- **Adaptar**—remixar, transformar, e criar a partir do material
+para qualquer fim, mesmo que comercial.
+
+O licenciante não pode revogar estes direitos desde que você respeite os termos da licença.
+
+---
+
+<p style="text-align:center;"><b>De acordo com os termos seguintes:</b></p>
+
+- **Atribuição**—Você deve atribuir o devido crédito, fornecer um link para a licença, e indicar se foram feitas alterações. Você pode fazê-lo de qualquer forma razoável, mas não de uma forma que sugira que o licenciante o apoia ou aprova o seu uso.
+- **CompartilhaIgual**—Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições ao abrigo da mesma licença que o original.
+
+**Sem restrições adicionais** — Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita.
+
+---
+
+<p style="text-align:center;"><b>Avisos:</b></p>
+
+Não tem de cumprir com os termos da licença relativamente a elementos do material que estejam no domínio público ou cuja utilização seja permitida por uma exceção ou limitação que seja aplicável.
+
+Não são dadas quaisquer garantias. A licença pode não lhe dar todas as autorizações necessárias para o uso pretendido. Por exemplo, outros direitos, tais como direitos de imagem, de privacidade ou direitos morais, podem limitar o uso do material.
 
 
 ### Restrições 
 
-Parte do conteúdo deste site é reproduzida sob permissão de diferentes detentores de direitos autorais ou está em domínio público. A licença geral **CC-BY-SA-3.0** do site não se aplica a este conteúdo. 
+Parte do conteúdo deste site é reproduzida sob permissão de diferentes detentores de direitos autorais ou está em domínio público. A licença geral **CC-BY-SA-4.0** do site não se aplica a este conteúdo. 
 
 O conteúdo com restrições devido a direitos autorais é identificado por um [aviso de direitos autorais](https://en.wikipedia.org/wiki/Copyright_notice) no cabeçalho de cada página. 
 
 
 - O Livro de Urântia (todas as traduções do inglês), é copyright da [Urantia Foundation](https://www.urantia.org/).
 - _Paramony_, o índice de referência cruzada entre a Bíblia e _O Livro de Urântia_ que aparece como notas de rodapé em _O Livro de Urântia_ e nas páginas da Bíblia (em todos os idiomas), tem direitos autorais de [Duane L. Faw e The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/). 
-- Artigos da [Innerface International](/pt/index/articles#innerface-international) (em todos os idiomas) são copyright de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Artigos do [Urantian Journal](/pt/index/articles#urantian-journal) (em todos os idiomas) são copyright de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artigos do [Fellowship Herald](/pt/index/articles#fellowship-herald) (em todos os idiomas) são direitos autorais de cada autor e do [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Artigos da [Innerface International](/pt/index/articles_innerface) (em todos os idiomas) são copyright de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Artigos do [Urantian Journal](/pt/index/articles_the_urantian) (em todos os idiomas) são copyright de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artigos do [Fellowship Herald](/pt/index/articles_herald) (em todos os idiomas) são direitos autorais de cada autor e do [The Urantia Book Fellowship](https://urantiabook.org/). 
 - Artigos de [UB Annotated & UBTheNews](/pt/index/articles#ub-annotaded-ubthenews) (em todos os idiomas) são direitos autorais de [Halbert Katzen](https://ubannotated.com/). 
-- Artigos de [Jan Herca](/pt/index/articles#articles-from-jan-herca) (em todos os idiomas) são copyright de [Jan Herca](https://buscandoajesus.wordpress.com) e estão disponíveis em a [Licença Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/). 
+- Artigos de [Jan Herca](/pt/index/articles#articles-from-jan-herca) (em todos os idiomas) são copyright de [Jan Herca](https://buscandoajesus.wordpress.com) e estão disponíveis em a [Licença Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/). 
 - Outros auxílios de estudo não pertencentes a grupos anteriores (em todos os idiomas) são propriedade dos autores indicados.
 - Algumas ilustrações para _The Urantia Book_ são copyright de [Gary Tonge](https://visionafar.com). 
 
 #### Public domain 
 
 - O Livro de Urântia (em inglês) está em Domínio Público desde 2006. 
-- Livros listados como [supostas fontes do Livro de Urântia](/pt/book#books-suposto-a-ser-fontes) são tudo em inglês e de domínio público. As traduções fornecidas são disponibilizadas sob a licença geral CC-BY-SA-3.0 do site. 
+- Livros listados como [supostas fontes do Livro de Urântia](/pt/book#books-suposto-a-ser-fontes) são tudo em inglês e de domínio público. As traduções fornecidas são disponibilizadas sob a licença geral CC-BY-SA-4.0 do site. 
 - Algumas ilustrações para _O Livro de Urântia_ são de Domínio Público. 
 
 ### Termos de uso 
 
->
-> <small>Isenção de responsabilidade: Este resumo não faz parte dos Termos de Uso e não é um documento legal. É simplesmente uma referência útil para entender os termos completos. Pense nisso como uma interface amigável para a linguagem legal de nossos Termos de Uso.</small> 
-> 
-> **Parte de nossa missão é:** 
-> - **Ajudar na disseminação de *O Livro de Urântia** * revelações em todo o mundo. 
-> - **Melhorar a compreensão** dos ensinamentos do *Livro de Urântia*. 
-> -**Ligue a maior parte do conhecimento atual** disponível sobre a revelação de Urântia. 
-> 
-> **Você pode**: 
-> - **Ler e imprimir** nossos artigos e outras mídias gratuitamente. 
-> - **Compartilhe e reutilize** nossos artigos e outras mídias sob licenças gratuitas e abertas.
-> **Sob as seguintes condições**: 
-> - **Responsabilidade** – Você assume a responsabilidade por suas edições (já que apenas _hospedamos_ seu conteúdo). 
-> - **Civilidade** – Você apoia um ambiente civil e não assedia outros usuários. 
-> - **Comportamento Legal** – Você não viola direitos autorais ou outras leis. 
-> - **No Harm** – Você não prejudica nossa infraestrutura de tecnologia. 
-> - **Termos de Uso e Políticas** – Você adere aos Termos de Uso abaixo e às políticas aplicáveis ​​ao visitar a Urantiapedia. 
-> 
-> - **Sem aconselhamento profissional** – o conteúdo dos artigos é apenas para esclarecimento espiritual e não constitui aconselhamento profissional. 
-{.is-info} 
+
+<small>Isenção de responsabilidade: Este resumo não faz parte dos Termos de Uso e não é um documento legal. É simplesmente uma referência útil para entender os termos completos. Pense nisso como uma interface amigável para a linguagem legal de nossos Termos de Uso.</small> 
+
+**Parte de nossa missão é:** 
+- **Ajudar na disseminação de *O Livro de Urântia** * revelações em todo o mundo. 
+- **Melhorar a compreensão** dos ensinamentos do *Livro de Urântia*. 
+-**Ligue a maior parte do conhecimento atual** disponível sobre a revelação de Urântia. 
+
+**Você pode**: 
+- **Ler e imprimir** nossos artigos e outras mídias gratuitamente. 
+- **Compartilhe e reutilize** nossos artigos e outras mídias sob licenças gratuitas e abertas.
+**Sob as seguintes condições**: 
+- **Responsabilidade** – Você assume a responsabilidade por suas edições (já que apenas _hospedamos_ seu conteúdo). 
+- **Civilidade** – Você apoia um ambiente civil e não assedia outros usuários. 
+- **Comportamento Legal** – Você não viola direitos autorais ou outras leis. 
+- **No Harm** – Você não prejudica nossa infraestrutura de tecnologia. 
+- **Termos de Uso e Políticas** – Você adere aos Termos de Uso abaixo e às políticas aplicáveis ​​ao visitar a Urantiapedia. 
+
+- **Sem aconselhamento profissional** – o conteúdo dos artigos é apenas para esclarecimento espiritual e não constitui aconselhamento profissional. 
+ 
 
 
 ### Política de privacidade
 
-> Este é um resumo da Política de Privacidade. Para ler os termos completos, [clique aqui](/pt/help/privacy_policy). 
-> 
-> <small>Isenção de responsabilidade: Este resumo não faz parte da Política de Privacidade e não é um documento legal. É simplesmente uma referência útil para entender a Política de Privacidade completa. Pense nisso como a interface amigável para nossa Política de Privacidade.</small> 
-> 
-> **Porque acreditamos que você não deveria fornecer informações pessoais para participar do movimento de conhecimento livre, mas queremos garantir que o conteúdo colaboradores são pessoas confiáveis, você pode:** 
-> - Ler qualquer conteúdo sem registrar uma conta. 
->
-> 
-> **Como queremos entender como a Urantiapedia é usada para que possamos torná-la melhor para você, coletamos algumas informações quando você:** 
-> - Faz contribuições públicas. 
-> - Solicitar o cadastramento de uma conta de contribuição. 
-> - Use a Urantiapedia. 
-> 
-> - Descrevendo como suas informações podem ser usadas ou compartilhadas nesta Política de Privacidade. 
-> - Usando medidas razoáveis ​​para manter suas informações seguras. 
-> - Nunca vender suas informações ou compartilhá-las com terceiros para fins de marketing. 
-> - Compartilhando suas informações apenas em circunstâncias limitadas, como para melhorar a Urantiapedia, para cumprir a lei ou para proteger você e outras pessoas.
-> - Retendo seus dados pelo menor tempo possível que seja consistente com a manutenção, compreensão e melhoria da Urantiapedia e nossas obrigações sob a lei aplicável. 
-> 
-> **Atenção:** 
-> - Qualquer conteúdo que você adicionar ou qualquer alteração que fizer na Urantiapedia estará disponível pública e permanentemente. 
-> - Como parte de nosso compromisso de mostrar envolvimento com o projeto Urantiapedia, ocasionalmente divulgamos informações públicas e informações agregadas ou não pessoais ao público em geral por meio de despejos de dados e conjuntos de dados.
+Este é um resumo da Política de Privacidade. Para ler os termos completos, [clique aqui](/pt/help/privacy_policy). 
+
+<small>Isenção de responsabilidade: Este resumo não faz parte da Política de Privacidade e não é um documento legal. É simplesmente uma referência útil para entender a Política de Privacidade completa. Pense nisso como a interface amigável para nossa Política de Privacidade.</small> 
+
+**Porque acreditamos que você não deveria fornecer informações pessoais para participar do movimento de conhecimento livre, mas queremos garantir que o conteúdo colaboradores são pessoas confiáveis, você pode:** 
+- Ler qualquer conteúdo sem registrar uma conta. 
+
+
+**Como queremos entender como a Urantiapedia é usada para que possamos torná-la melhor para você, coletamos algumas informações quando você:** 
+- Faz contribuições públicas. 
+- Solicitar o cadastramento de uma conta de contribuição. 
+- Use a Urantiapedia. 
+
+- Descrevendo como suas informações podem ser usadas ou compartilhadas nesta Política de Privacidade. 
+- Usando medidas razoáveis ​​para manter suas informações seguras. 
+- Nunca vender suas informações ou compartilhá-las com terceiros para fins de marketing. 
+- Compartilhando suas informações apenas em circunstâncias limitadas, como para melhorar a Urantiapedia, para cumprir a lei ou para proteger você e outras pessoas.
+- Retendo seus dados pelo menor tempo possível que seja consistente com a manutenção, compreensão e melhoria da Urantiapedia e nossas obrigações sob a lei aplicável. 
+
+**Atenção:** 
+- Qualquer conteúdo que você adicionar ou qualquer alteração que fizer na Urantiapedia estará disponível pública e permanentemente. 
+- Como parte de nosso compromisso de mostrar envolvimento com o projeto Urantiapedia, ocasionalmente divulgamos informações públicas e informações agregadas ou não pessoais ao público em geral por meio de despejos de dados e conjuntos de dados.
 
 
 
@@ -131,7 +136,7 @@ Nenhum dos contribuidores, patrocinadores, administradores ou qualquer outra pes
 
 Certifique-se de entender que as informações fornecidas aqui são fornecidas livremente e que nenhum tipo de acordo ou contrato é criado entre você e os proprietários ou usuários deste site, os proprietários dos servidores nos quais ele está hospedado, o indivíduo Os contribuidores da Urantiapedia, quaisquer administradores de projeto, sysops ou qualquer outro que esteja de alguma forma conectado com este projeto estão sujeitos a suas reivindicações diretamente contra eles. Você está recebendo uma licença limitada para copiar qualquer coisa deste site; não cria ou implica qualquer responsabilidade contratual ou extracontratual por parte da Urantiapedia ou de qualquer um de seus agentes, membros, organizadores ou outros usuários.
 
-Não há nenhum acordo ou entendimento entre você e a Urantiapedia em relação ao seu uso ou modificação dessas informações além da Licença Creative Commons Attribution-Sharealike 3.0 Unported (CC-BY-SA); nem ninguém na Urantiapedia é responsável se alguém mudar, editar, modificar ou remover qualquer informação que você possa postar na Urantiapedia ou em qualquer um de seus projetos associados.
+Não há nenhum acordo ou entendimento entre você e a Urantiapedia em relação ao seu uso ou modificação dessas informações além da Licença Creative Commons Attribution-Sharealike 4.0 Unported (CC-BY-SA); nem ninguém na Urantiapedia é responsável se alguém mudar, editar, modificar ou remover qualquer informação que você possa postar na Urantiapedia ou em qualquer um de seus projetos associados.
 
 
 Qualquer uma das marcas registradas, marcas de serviço, marcas coletivas, direitos de design ou direitos similares mencionados, usados ​​ou citados nos artigos da enciclopédia Urantiapedia são de propriedade de seus respectivos proprietários. Seu uso aqui não implica que você possa usá-los para qualquer finalidade que não seja para o mesmo uso informativo ou semelhante contemplado pelos autores originais desses artigos da Urantiapedia sob o esquema de licenciamento CC-BY-SA. Salvo disposição em contrário, a Urantiapedia não é endossada nem afiliada a nenhum dos detentores de tais direitos e, como tal, a Urantiapedia não pode conceder nenhum direito de uso de quaisquer materiais protegidos de outra forma. O uso de qualquer propriedade incorpórea semelhante ou similar é por sua conta e risco.

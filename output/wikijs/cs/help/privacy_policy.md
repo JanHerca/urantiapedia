@@ -29,9 +29,9 @@ Protože každý (nejen právníci) by měl být schopen snadno porozumět tomu,
 Když říkáme… | …myslíme: 
 --- | --- 
 "Urantiapedia" / "my" / "nás" / "naše" | Vedoucí týmu projektu Urantiapedia.
-"Stránka Urantiapedia" / "naše služby" | Web a služby Urantiapedia (bez ohledu na jazyk) projektu Urantiapedia, včetně [hlavního webu Urantiapedia](https://urantiapedia.org) (https://urantiapedia.org) a alternativních kopií na GitHubu ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) a [projekt Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), stejně jako aplikační programovací rozhraní (API), e-maily a oznámení; s výjimkou stránek a služeb uvedených níže v části „Na co se tyto zásady ochrany osobních údajů nevztahují“.
+"Stránka Urantiapedia" / "naše služby" | Web a služby Urantiapedia (bez ohledu na jazyk) projektu Urantiapedia, včetně [hlavního webu Urantiapedia](https://urantiapedia.org) a alternativních kopií na GitHubu ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) a [projekt Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup)), stejně jako aplikační programovací rozhraní (API), e-maily a oznámení; s výjimkou stránek a služeb uvedených níže v části „Na co se tyto zásady ochrany osobních údajů nevztahují“.
 "ty" / "vaše" / "já" | Vy, bez ohledu na to, zda jste jednotlivec, skupina nebo organizace, a bez ohledu na to, zda používáte Urantiapedii nebo naše služby jménem sebe nebo někoho jiného.
-"Osobní údaje" | Informace, které nám poskytnete, nebo informace, které shromažďujeme a které by mohly být použity k vaší osobní identifikaci. Aby bylo jasno, i když nezbytně neshromažďujeme všechny následující typy informací, považujeme alespoň následující za „osobní údaje“, pokud jsou jinak neveřejné a lze je použít k vaší identifikaci:<br/>(a) vaše skutečné jméno, adresa, telefonní číslo, e-mailová adresa, heslo, identifikační číslo na úředně vydaném průkazu totožnosti, IP adresa, informace o uživatelském agentovi, číslo platebního účtu;<br/>(b) pokud jsou spojeny s jednou z položek v podsekci a), jakékoli citlivé údaje, jako je datum narození, pohlaví, sexuální orientace, rasový nebo etnický původ, manželský nebo rodinný stav, zdravotní stav nebo postižení, politická příslušnost a náboženství.
+"Osobní údaje" | Informace, které nám poskytnete, nebo informace, které shromažďujeme a které by mohly být použity k vaší osobní identifikaci. Aby bylo jasno, i když nezbytně neshromažďujeme všechny následující typy informací, považujeme alespoň následující za „osobní údaje“, pokud jsou jinak neveřejné a lze je použít k vaší identifikaci:<br/>(a) vaše skutečné jméno, adresa, telefonní číslo, e-mailová adresa, heslo, identifikační číslo na úředně vydaném průkazu totožnosti, IP adresa, informace o uživatelském agentovi, číslo platebního účtu;<br/>(b) pokud jsou spojeny s jednou z položek v podsekci (a), jakékoli citlivé údaje, jako je datum narození, pohlaví, sexuální orientace, rasový nebo etnický původ, manželský nebo rodinný stav, zdravotní stav nebo postižení, politická příslušnost a náboženství.
 "třetí strana" / "třetí strany" | Jednotlivci, subjekty, webové stránky, služby, produkty a aplikace, které nejsou řízeny, spravovány nebo provozovány společností Urantiapedia. To zahrnuje další uživatele Urantiapedia a nezávislé organizace nebo skupiny, které pomáhají propagovat hnutí Urantiapedia, jako jsou organizace Urantia Book a uživatelské skupiny, stejně jako dobrovolníky, zaměstnance, ředitele, úředníky, příjemce grantů a dodavatele těchto organizací nebo skupin. 
 
 
@@ -41,7 +41,7 @@ S výjimkou vysvětlených níže se tyto Zásady ochrany osobních údajů vzta
 
 vztahují V zájmu srozumitelnosti se tyto Zásady ochrany osobních údajů vztahují bez ohledu na jazyk: 
 
-– Naše alternativní kopie na GitHubu, [hlavní projekt Urantiapedia](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) a [projekt Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+– Naše alternativní kopie na GitHubu, [hlavní projekt Urantiapedia](https://github.com/JanHerca/urantiapedia) a [projekt Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup). 
 - Naše rozhraní API (pokud jsme pro tyto služby neposkytli samostatné zásady). 
 - E-maily, SMS a upozornění od nás nebo zaslané od vás.
 
@@ -104,7 +104,7 @@ Tyto informace používáme k tomu, aby byly vaše zkušenosti se stránkou Uran
 
 ### Jak používáme informace, které od vás 
 
-dostáváme #### Obecné 
+#### Obecné 
 
 My a naši poskytovatelé služeb používáme vaše informace pro legitimní účely plnění našeho charitativního poslání, včetně: 
 - Provozování stránky Urantiapedia, sdílení vašich příspěvků a správy našich Služeb. 
@@ -209,4 +209,4 @@ Děkujeme, že jste si přečetli naše Zásady ochrany osobních údajů. Douf�
 
 --- 
 
-Zpět na stránku se shrnutím [Licence, Podmínky používání a další právní informace](/en/licence).
+Zpět na stránku se shrnutím [Licence, Podmínky používání a další právní informace](/cs/licence).

@@ -14,42 +14,45 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ### Litsents
 
-See veebisait on saadaval [Creative Commonsi Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/) all, välja arvatud juhul, kui kuvatakse autoriõiguse teatis, nagu on selgitatud selle lehe osas _Piirangud_.
+See veebisait on saadaval [Creative Commonsi Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/) all, välja arvatud juhul, kui kuvatakse autoriõiguse teatis, nagu on selgitatud selle lehe osas _Piirangud_.
 
-Litsentsi lühike identifikaator: **CC-BY-SA-3.0**
+Litsentsi lühike identifikaator: **CC-BY-SA-4.0**
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Commonsi Attribution-ShareAlike License logo" width="200px" height="70px" />
 
 #### Creative Commons Deed
 
-> See on inimesele loetav kokkuvõte [täielik litsents](/et/help/full_license).
->
-> Sa oled vaba:
->
-> - **jagama** — teose kopeerimiseks, levitamiseks ja edastamiseks ning
-> - **remiksimiseks** — teose [kohandamiseks](https://en.wikipedia.org/wiki/Literary_adaptation)
->
-> mis tahes eesmärgil, isegi äriliselt.
->
-> Järgmistel tingimustel:
->
-> - **Omistamine** – peate [attributeerima](https://en.wikipedia.org/wiki/Attribution_(copyright)) teose autori või litsentsiandja määratud viisil (kuid mitte mingil viisil, mis viitab et nad toetavad teid või teie teose kasutamist.)
-> - **Share Alike** – kui muudate seda teost või muudate seda edasi, võite saadud teost levitada ainult sama, sarnase või ühilduva litsentsi alusel.
->
-> Arvestades, et:
->
-> - **Loobumine** – kõigist ülaltoodud tingimustest võib loobuda, kui saate autoriõiguste omanikult loa.
-> – **Muud õigused** – litsents ei mõjuta mingil moel järgmisi õigusi:
-> – teie [ausa tehingu](https://en.wikipedia.org/wiki/Fair_dealing) või [ausa kasutamise](https://en.wikipedia.org/wiki/Fair_use) õigused;
-> - autori [moraalsed õigused](https://en.wikipedia.org/wiki/Moral_rights); ja
-> - õigused, mis võivad teistel isikutel olla kas teose enda või selle kasutamise osas, näiteks [avalikustamine](https://en.wikipedia.org/wiki/Personality_rights) või [privaatsus](https://en.wikipedia.org/wiki/Privacy_law) õigused.
-> - **Märkus** – korduskasutamiseks või levitamiseks peate teistele selle teose litsentsitingimused selgeks tegema. Parim viis seda teha on link aadressile [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/)
-{.is-info}
+See on inimesele loetav kokkuvõte [täislitsentsist](/et/help/full_license) (ja ei asenda seda).
+
+<p style="text-align:center;"><b>Teil on õigus:</b></p>
+
+- **Jaga** – materjali kopeerimine ja levitamine mis tahes kandjal või vormingus
+- **Adapt** – remiksige, muutke ja looge materjali mis tahes eesmärgil, isegi äriliselt.
+
+Litsentsiandja ei saa neid vabadusi tühistada seni, kuni järgite litsentsitingimusi.
+
+---
+
+<p style="text-align:center;"><b>Järgmistel tingimustel:</b></p>
+
+- **Omistamine** – peate esitama asjakohase krediidi, lisama lingi litsentsile ja märkima, kas muudatusi on tehtud. Võite seda teha mis tahes mõistlikul viisil, kuid mitte viisil, mis viitab sellele, et litsentsiandja toetab teid või teie kasutamist.
+- **ShareAlike** – kui materjali remiksite, teisendate või sellele tuginete, peate oma kaastöid levitama originaaliga sama litsentsi alusel.
+
+**Täiendavad piirangud puuduvad** — te ei tohi kohaldada juriidilisi tingimusi ega tehnoloogilisi meetmeid, mis seaduslikult piiravad teistel litsentsiga lubatud tegevust.
+
+---
+
+<p style="text-align:center;"><b>Märkused:</b></p>
+
+Te ei pea järgima avalikus omandis oleva materjali elementide litsentsi või juhul, kui teie kasutamine on lubatud kohaldatava erandi või piiranguga.
+
+Garantiid ei anta. Litsents ei pruugi anda teile kõiki teie kavandatud kasutuseks vajalikke õigusi. Näiteks võivad materjali kasutamist piirata muud õigused, nagu avalikustamine, privaatsus või moraalsed õigused.
+
 
 
 ### Piirangud
 
-Osa selle veebisaidi sisu reprodutseeritakse erinevate autoriõiguste valdajate loal või on see üldkasutatav. Sellele sisule ei kehti veebisaidi üldine **CC-BY-SA-3.0** litsents.
+Osa selle veebisaidi sisu reprodutseeritakse erinevate autoriõiguste valdajate loal või on see üldkasutatav. Sellele sisule ei kehti veebisaidi üldine **CC-BY-SA-4.0** litsents.
 
 Autoriõigustest tulenevate piirangutega sisu tuvastatakse [autoriõiguse teatisega](https://en.wikipedia.org/wiki/Copyright_notice) iga lehe päises.
 
@@ -57,12 +60,12 @@ Autoriõigustest tulenevate piirangutega sisu tuvastatakse [autoriõiguse teatis
 
 - Urantia raamatu (kõik tõlked inglise keelest) autoriõigus kuulub [Urantia Foundationile](https://www.urantia.org/).
 - _Paramony_, Piibli ja _Urantia raamatu_ vaheline ristviite register, mis ilmub joonealuste märkustena _Urantia raamatus_ ja piiblilehtedel (kõikides keeltes), kuulub autoriõigusele [Duane L. Faw ja The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
-- Artiklite [Innerface International](/et/index/articles#innerface-international) (kõikides keeltes) autoriõigused kuuluvad igale autorile ja [The Urantia Book Fellowshipile](https://urantiabook.org/).
-- Ajakirja [Urantian Journal](/et/index/articles#urantian-journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
-- Ajakirja [Followship Journal](/et/index/articles#fellowship-journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
-- [Fellowship Heraldi](/et/index/articles#fellowship-herald) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- Artiklite [Innerface International](/et/index/articles_innerface) (kõikides keeltes) autoriõigused kuuluvad igale autorile ja [The Urantia Book Fellowshipile](https://urantiabook.org/).
+- Ajakirja [Urantian Journal](/et/index/articles_the_urantian) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- Ajakirja [Followship Journal](/et/index/articles_spirtual_fellowship_journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- [Fellowship Heraldi](/et/index/articles_herald) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
 - Artiklite [UB Annotated & UBTheNews](/et/index/articles#ub-annotaded-ubthenews) (kõikides keeltes) autoriõigused kuuluvad [Halbert Katzenile](https://ubannotated.com/).
-- Artiklid [Jan Herca](/et/index/articles#articles-from-jan-herca) (kõigis keeltes) kuuluvad [Jan Herca](https://buscandoajesus.wordpress.com) autoriõiguse alla ja on saadaval aadressil [Creative Commonsi Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+- Artiklid [Jan Herca](/et/index/articles#articles-from-jan-herca) (kõigis keeltes) kuuluvad [Jan Herca](https://buscandoajesus.wordpress.com) autoriõiguse alla ja on saadaval aadressil [Creative Commonsi Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Muud artiklid, mis ei kuulu eelmistesse rühmadesse (kõikides keeltes), kuuluvad märgitud autorite autoriõiguse alla.
 - [William S. Sadleri](/et/article/William_S_Sadler) ja [William S. Sadler Jr.](/et/article/William_S_Sadler_Jr) (kõikides keeltes) õppematerjalide autoriõigus on [Urantia Foundation](https: //www.urantia.org/).
 - Muud õppevahendid, mis ei kuulu eelmistesse rühmadesse (kõikides keeltes), kuuluvad märgitud autorite autoriõiguse alla.
@@ -72,66 +75,66 @@ Autoriõigustest tulenevate piirangutega sisu tuvastatakse [autoriõiguse teatis
 
 - Urantia raamat (inglise keeles) on avalikus kasutuses alates 2006. aastast.
 - Piibel, kõik kasutatud tõlked, pärinevad avalikus kasutuses olevatest versioonidest. Iga keele kohta kasutatava Public Domain versiooni teabe leiate iga piibliraamatu esilehelt.
-- [Urantia raamatu oletatavate allikatena] (/et/book#books-supposed-to-be-sources) loetletud raamatud on kõik inglise keeles ja avalikus kasutuses. Pakutud tõlked on saadaval saidi üldise CC-BY-SA-3.0 litsentsi alusel.
+- [Urantia raamatu oletatavate allikatena] (/et/book#books-supposed-to-be-sources) loetletud raamatud on kõik inglise keeles ja avalikus kasutuses. Pakutud tõlked on saadaval saidi üldise CC-BY-SA-4.0 litsentsi alusel.
 - Mõned _Urantia raamatu_ illustratsioonid on avalikud.
 
 ### Kasutustingimused
 
-> See on inimloetav kasutustingimuste kokkuvõte. Täielike tingimuste lugemiseks näete neid siit: [Kasutustingimused](/et/help/terms_of_use).
->
-> <small>Lahtiütlus: see kokkuvõte ei ole osa kasutustingimustest ega ole juriidiline dokument. See on lihtsalt mugav viide täielike tingimuste mõistmiseks. Mõelge sellele kui meie kasutustingimuste juriidilise keele kasutajasõbralikule liidesele.</small>
->
-> **Osa meie missioonist on:**
-> - **Abi *Urantia raamatu*** ilmutuste levitamisel kogu maailmas.
-> - **Parandage *Urantia raamatu* õpetuste mõistmist**.
-> -**Linkige suurem osa Urantia ilmutuse kohta olemasolevatest teadmistest**.
->
-> **Võite vabalt**:
-> - **Lugege ja printige** meie artikleid ja muud meediat tasuta.
-> - **Jagage ja taaskasutage** meie artikleid ja muud meediat tasuta ja avatud litsentside alusel.
-> - **Aidake kaasa meie veebisaidile ja muutke seda**.
->
-> **Järgmistel tingimustel**:
-> - **Vastutus** – vastutate oma muudatuste eest (kuna me ainult _hostime_ teie sisu).
-> - **Kodanlikkus** – toetate tsiviilkeskkonda ega ahista teisi kasutajaid.
-> - **Seaduslik käitumine** – Te ei riku autoriõigusi ega muid seadusi.
-> - **Kahjuvaba** – te ei kahjusta meie tehnoloogia infrastruktuuri.
-> - **Kasutustingimused ja eeskirjad** – Urantiapedia külastamisel järgite allolevaid kasutustingimusi ja kehtivaid eeskirju.
->
-> **Arvestades, et**:
-> - **Litsentsite oma kaastöid vabalt** – üldiselt peate oma kaastööd ja toimetused Urantiapedias litsentsima tasuta ja avatud litsentsi alusel (välja arvatud juhul, kui teie kaastöö on üldkasutatav).
-> - **Professionaalsed nõuanded puuduvad** – artiklite sisu on mõeldud ainult vaimseks valgustamiseks ja ei kujuta endast professionaalset nõuannet.
-{.is-info}
+See on inimloetav kasutustingimuste kokkuvõte. Täielike tingimuste lugemiseks näete neid siit: [Kasutustingimused](/et/help/terms_of_use).
+
+<small>Lahtiütlus: see kokkuvõte ei ole osa kasutustingimustest ega ole juriidiline dokument. See on lihtsalt mugav viide täielike tingimuste mõistmiseks. Mõelge sellele kui meie kasutustingimuste juriidilise keele kasutajasõbralikule liidesele.</small>
+
+**Osa meie missioonist on:**
+- **Abi *Urantia raamatu*** ilmutuste levitamisel kogu maailmas.
+- **Parandage *Urantia raamatu* õpetuste mõistmist**.
+-**Linkige suurem osa Urantia ilmutuse kohta olemasolevatest teadmistest**.
+
+**Võite vabalt**:
+- **Lugege ja printige** meie artikleid ja muud meediat tasuta.
+- **Jagage ja taaskasutage** meie artikleid ja muud meediat tasuta ja avatud litsentside alusel.
+- **Aidake kaasa meie veebisaidile ja muutke seda**.
+
+**Järgmistel tingimustel**:
+- **Vastutus** – vastutate oma muudatuste eest (kuna me ainult _hostime_ teie sisu).
+- **Kodanlikkus** – toetate tsiviilkeskkonda ega ahista teisi kasutajaid.
+- **Seaduslik käitumine** – Te ei riku autoriõigusi ega muid seadusi.
+- **Kahjuvaba** – te ei kahjusta meie tehnoloogia infrastruktuuri.
+- **Kasutustingimused ja eeskirjad** – Urantiapedia külastamisel järgite allolevaid kasutustingimusi ja kehtivaid eeskirju.
+
+**Arvestades, et**:
+- **Litsentsite oma kaastöid vabalt** – üldiselt peate oma kaastööd ja toimetused Urantiapedias litsentsima tasuta ja avatud litsentsi alusel (välja arvatud juhul, kui teie kaastöö on üldkasutatav).
+- **Professionaalsed nõuanded puuduvad** – artiklite sisu on mõeldud ainult vaimseks valgustamiseks ja ei kujuta endast professionaalset nõuannet.
+
 
 
 ### Privaatsuspoliitika
 
-> See on privaatsuspoliitika kokkuvõte. Täielike tingimuste lugemiseks [klõpsake siin](/et/help/privacy_policy).
->
-> <small>Lahtiütlus: see kokkuvõte ei ole privaatsuspoliitika osa ega juriidiline dokument. See on lihtsalt mugav viide kogu privaatsuspoliitika mõistmiseks. Mõelge sellele kui meie privaatsuspoliitika kasutajasõbralikule liidesele.</small>
->
-> **Kuna me usume, et te ei peaks vabas teadmiste liikumises osalemiseks esitama isiklikke andmeid, kuid tahame tagada, et sisu kaastöötajad oleksid usaldusväärsed inimesed, võite teha järgmist.**
-> - Lugege mis tahes sisu ilma kontot registreerimata.
-> - Panustaja konto registreerimise taotlus, mis sisaldab tegelikku teavet, mis võimaldab kontrollida kaastöötaja usaldusväärsust.
->
-> **Kuna tahame mõista, kuidas Urantiapediat kasutatakse, et saaksime seda teie jaoks paremaks muuta, kogume teavet, kui:**
-> - anda avalikku panust.
-> - Taotlege sissemaksekonto registreerimist.
-> - Kasutage Urantiapeediat.
->
-> **Oleme pühendunud:**
-> – selles privaatsuspoliitikas kirjeldatakse, kuidas teie teavet võidakse kasutada või jagada.
-> - Kasutage oma teabe turvalisuse tagamiseks mõistlikke meetmeid.
-> - Ärge kunagi müüge oma teavet ega jagage seda turunduseesmärkidel kolmandate osapooltega.
-> - jagage oma teavet ainult piiratud juhtudel, näiteks Urantiapedia täiustamiseks, seaduste järgimiseks või teie ja teiste kaitsmiseks.
-> - Teie andmete säilitamine võimalikult lühikese aja jooksul, mis on kooskõlas Urantiapedia säilitamise, mõistmise ja täiustamisega ning meie kohaldatavatest õigusaktidest tulenevate kohustustega.
->
-> **Olge teadlik:**
-> – kogu Urantiapediasse lisatud sisu või muudatused on avalikult ja püsivalt saadaval.
-> - Meie Urantiapedia administraatoritel on tööriistad, mis annavad neile piiratud juurdepääsu mitteavalikule teabele hiljutiste kaastööde kohta, et nad saaksid kaitsta Urantiapeediat ja jõustada eeskirju.
-> - Osana meie kohustusest näidata Urantiapedia projektiga seotust avaldame aeg-ajalt avalikku teavet ja koondatud või mitteisiklikku teavet üldsusele andmekogude ja andmekogude kaudu.
-> - Urantiapedia ja teiste kasutajate kaitsmiseks ei tohi te Urantiapediat kasutada, kui te selle privaatsuspoliitikaga ei nõustu.
-{.is-info}
+See on privaatsuspoliitika kokkuvõte. Täielike tingimuste lugemiseks [klõpsake siin](/et/help/privacy_policy).
+
+<small>Lahtiütlus: see kokkuvõte ei ole privaatsuspoliitika osa ega juriidiline dokument. See on lihtsalt mugav viide kogu privaatsuspoliitika mõistmiseks. Mõelge sellele kui meie privaatsuspoliitika kasutajasõbralikule liidesele.</small>
+
+**Kuna me usume, et te ei peaks vabas teadmiste liikumises osalemiseks esitama isiklikke andmeid, kuid tahame tagada, et sisu kaastöötajad oleksid usaldusväärsed inimesed, võite teha järgmist.**
+- Lugege mis tahes sisu ilma kontot registreerimata.
+- Panustaja konto registreerimise taotlus, mis sisaldab tegelikku teavet, mis võimaldab kontrollida kaastöötaja usaldusväärsust.
+
+**Kuna tahame mõista, kuidas Urantiapediat kasutatakse, et saaksime seda teie jaoks paremaks muuta, kogume teavet, kui:**
+- anda avalikku panust.
+- Taotlege sissemaksekonto registreerimist.
+- Kasutage Urantiapeediat.
+
+**Oleme pühendunud:**
+– selles privaatsuspoliitikas kirjeldatakse, kuidas teie teavet võidakse kasutada või jagada.
+- Kasutage oma teabe turvalisuse tagamiseks mõistlikke meetmeid.
+- Ärge kunagi müüge oma teavet ega jagage seda turunduseesmärkidel kolmandate osapooltega.
+- jagage oma teavet ainult piiratud juhtudel, näiteks Urantiapedia täiustamiseks, seaduste järgimiseks või teie ja teiste kaitsmiseks.
+- Teie andmete säilitamine võimalikult lühikese aja jooksul, mis on kooskõlas Urantiapedia säilitamise, mõistmise ja täiustamisega ning meie kohaldatavatest õigusaktidest tulenevate kohustustega.
+
+**Olge teadlik:**
+– kogu Urantiapediasse lisatud sisu või muudatused on avalikult ja püsivalt saadaval.
+- Meie Urantiapedia administraatoritel on tööriistad, mis annavad neile piiratud juurdepääsu mitteavalikule teabele hiljutiste kaastööde kohta, et nad saaksid kaitsta Urantiapeediat ja jõustada eeskirju.
+- Osana meie kohustusest näidata Urantiapedia projektiga seotust avaldame aeg-ajalt avalikku teavet ja koondatud või mitteisiklikku teavet üldsusele andmekogude ja andmekogude kaudu.
+- Urantiapedia ja teiste kasutajate kaitsmiseks ei tohi te Urantiapediat kasutada, kui te selle privaatsuspoliitikaga ei nõustu.
+
 
 ### Vastutusest loobumine
 

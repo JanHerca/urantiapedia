@@ -29,7 +29,7 @@ Parce que tout le monde (pas seulement les avocats) doit pouvoir comprendre faci
 Quand on dit… | …nous voulons dire : 
 --- | --- 
 "Urantiapedia" / "nous" / "notre" / "notre" | Les chefs d'équipe du projet Urantiapedia.
-"Site Urantiapedia" / "nos services" | Le site Web Urantiapedia et les services (indépendamment de la langue) du projet Urantiapedia, y compris le [site Web principal d'Urantiapedia](https://urantiapedia.org) (https://urantiapedia.org), et les copies alternatives dans GitHub ([Urantiapedia Main projet](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) et [projet Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), ainsi que des interfaces de programmation d'applications (API), des e-mails et des notifications ; à l'exclusion toutefois des sites et services répertoriés dans la section "Ce que cette politique de confidentialité ne couvre pas" ci-dessous.
+"Site Urantiapedia" / "nos services" | Le site Web Urantiapedia et les services (indépendamment de la langue) du projet Urantiapedia, y compris le [site Web principal d'Urantiapedia](https://urantiapedia.org), et les copies alternatives dans GitHub ([Urantiapedia Main projet](https://github.com/JanHerca/urantiapedia) et [projet Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup)), ainsi que des interfaces de programmation d'applications (API), des e-mails et des notifications ; à l'exclusion toutefois des sites et services répertoriés dans la section "Ce que cette politique de confidentialité ne couvre pas" ci-dessous.
 "vous" / "votre" / "moi" | Vous, que vous soyez un individu, un groupe ou une organisation, et que vous utilisiez Urantiapedia ou nos services en votre nom ou au nom de quelqu'un d'autre.
 "Informations personnelles" | Les informations que vous nous fournissez ou les informations que nous recueillons qui pourraient être utilisées pour vous identifier personnellement. Pour être clair, même si nous ne collectons pas nécessairement tous les types d'informations suivants, nous considérons au moins les informations suivantes comme des "informations personnelles" si elles ne sont pas publiques et peuvent être utilisées pour vous identifier :<br/>(a) votre vrai nom, adresse, numéro de téléphone, adresse e-mail, mot de passe, numéro d'identification sur la pièce d'identité émise par le gouvernement, adresse IP, informations sur l'agent utilisateur, numéro de compte de paiement ;<br/>(b) lorsqu'il est associé à l'un des éléments de la sous-section (a), toute donnée sensible telle que la date de naissance, le sexe, l'orientation sexuelle, les origines raciales ou ethniques, l'état matrimonial ou familial, les conditions médicales ou les handicaps, l'affiliation politique et la religion.
 "tiers" / "tiers" | Individus, entités, sites Web, services, produits et applications qui ne sont pas contrôlés, gérés ou exploités par Urantiapedia. Cela inclut les autres utilisateurs d'Urantiapedia et les organisations ou groupes indépendants qui aident à promouvoir le mouvement Urantiapedia tels que les organisations du Livre d'Urantia et les groupes d'utilisateurs ainsi que les bénévoles, les employés, les directeurs, les dirigeants, les bénéficiaires de subventions et les sous-traitants de ces organisations ou groupes. 
@@ -41,7 +41,7 @@ Sauf comme expliqué ci-dessous, cette politique de confidentialité s'applique 
 
 Par souci de clarté, cette politique de confidentialité couvre, quelle que soit la langue : 
 
-- Nos copies alternatives dans GitHub, [Projet principal d'Urantiapedia](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) et [projet Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Nos copies alternatives dans GitHub, [Projet principal d'Urantiapedia](https://github.com/JanHerca/urantiapedia) et [projet Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup). 
 - Nos API (sauf si nous avons fourni une politique distincte pour ces services). 
 - Courriels, SMS et notifications de notre part ou que vous nous avez envoyés.
 
@@ -209,4 +209,4 @@ Merci d'avoir lu notre politique de confidentialité. Nous espérons que vous ap
 
 --- 
 
-Retour à la page avec résumé sur [Licence, Conditions d'utilisation et autres informations légales](/en/license).
+Retour à la page avec résumé sur [Licence, Conditions d'utilisation et autres informations légales](/fr/license).

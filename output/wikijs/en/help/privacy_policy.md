@@ -29,7 +29,7 @@ Because everyone (not just lawyers) should be able to easily understand how and 
 When we say… | …we mean:
 --- | ---
 "Urantiapedia" / "we" / "us" / "our" | The team leaders of Urantiapedia project.
-"Urantiapedia site" / "our services" | Urantiapedia website and services (regardless of language) of the Urantiapedia project, including the [main Urantiapedia website](https://urantiapedia.org) (https://urantiapedia.org), and the alternative copies in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup)), as well as Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below.
+"Urantiapedia site" / "our services" | Urantiapedia website and services (regardless of language) of the Urantiapedia project, including the [main Urantiapedia website](https://urantiapedia.org), and the alternative copies in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup)), as well as Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below.
 "you" / "your" / "me" | You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using Urantiapedia or our services on behalf of yourself or someone else.
 "this Policy" / "this Privacy Policy" | This document, entitled the "Urantiapedia Privacy Policy".
 "contributions" | Content you add or changes you make to Urantiapedia.
@@ -44,8 +44,8 @@ Except as explained below, this Privacy Policy applies to our collection and han
 
 For the sake of clarity, this Privacy Policy covers, regardless of language:
 
-- Our main website (https://urantiapedia.org).
-- Our alternative copies in GitHub, [Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup).
+- [Our main website](https://urantiapedia.org).
+- Our alternative copies in GitHub, [Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup).
 - Our APIs (unless we have provided a separate policy for those services).
 - Emails, SMS, and notifications from us or sent to us from you.
 

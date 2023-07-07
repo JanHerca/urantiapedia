@@ -14,108 +14,112 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ### Licență 
 
-Acest site web este disponibil sub [Licența Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), cu excepția cazului în care este afișată o notificare privind drepturile de autor , după cum este explicat în partea _Restricții_ a acestei pagini. 
+Acest site web este disponibil sub [Licența Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ro), cu excepția cazului în care este afișată o notificare privind drepturile de autor , după cum este explicat în partea _Restricții_ a acestei pagini. 
 
-Identificatorul scurt al licenței: **CC-BY-SA-3.0** 
+Identificatorul scurt al licenței: **CC-BY-SA-4.0** 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Logo-ul licenței Commons Attribution-ShareAlike" width="200px" height="
 
 #### Creative Commons Deed 
 
-> Acesta este un rezumat care poate fi citit de om al [licență completă](/ro/help/full_license). 
-> 
-> Sunteți liber: 
-> 
-> - **să Partajați**—să copiați, să distribuiți și să transmiteți lucrarea și 
-> - **pentru Remix**—pentru a [adapt](https://en.wikipedia.org/wiki/Adaptare_literară) lucrarea 
-> 
-> în orice scop, chiar și comercial. 
-> 
-> În următoarele condiții: 
-> 
-> - **Partajare la fel**—Dacă modificați, transformați sau construiți pe baza acestei lucrări, puteți distribui lucrarea rezultată numai sub aceeași licență, similară sau compatibilă. 
->> 
-Cu înțelesul că: 
->
-> - **Renunțare**—La oricare dintre condițiile de mai sus poate fi renunțată dacă obțineți permisiunea deținătorului drepturilor de autor. 
-> - **Alte drepturi**—Niciunul dintre următoarele drepturi nu este afectat de licență: 
-> - [fair dealing](https://en.wikipedia.org/wiki/Fair_deling) sau [fair use] (https://en.wikipedia.org/wiki/Fair_use) drepturi; 
-> - drepturile pe care alte persoane le pot avea fie asupra lucrării în sine, fie asupra modului în care lucrarea este utilizată, cum ar fi [publicitate](https://en.wikipedia.org/wiki/Personality_rights) sau [privacy](https://en.wikipedia.org/wiki/Privacy_law) drepturi.
-> - **Notă**—Pentru orice reutilizare sau distribuție, trebuie să clarificați altora termenii de licență ai acestei lucrări. Cel mai bun mod de a face acest lucru este cu un link către [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/) 
-{.is -info} 
+Acesta este un rezumat care poate fi citit de om (și nu un substitut pentru) [licență](/ro/help/full_license).
+
+<p style="text-align:center;"><b>Poți să:</b></p>
+
+- **Distribui**—copiază și redistribuie această operă în orice mediu sau format
+- **Adaptezi**—remixezi, transformi, și construiești pe baza operei cu orice scop, chiar și comercial
+
+Licențiatorul nu poate revoca aceste drepturi atât timp cât respectați termenii licenței.
+
+---
+
+<p style="text-align:center;"><b>Sub următorii termeni:</b></p>
+
+- **Atribuire**—Trebuie să acorzi creditul potrivit, să faci un link spre licență și să indici dacă s-au făcut modificări. Poți face aceste lucruri în orice manieră rezonabilă, dar nu în vreun mod care să sugereze că licențiatorul te sprijină pe tine sau modul tău de folosire a operei.
+- **Partajare în Condiții Identice**—Daca remixezi, transformi, sau construiești pe baza operei, trebuie să distribui contribuțiile tale sub aceeași licență precum originalul.
+
+**Fără restricții suplimentare** — Nu poți impune termeni juridici sau măsuri tehnologice t care restricționează din punct de vedere legal acțiunile altor utilizatori care sunt permise de către licență.
+
+---
+
+<p style="text-align:center;"><b>Notificări:</b></p>
+
+Nu trebuie să te supui licenței pentru elementele materialului aflate în domeniul public sau dacă folosirea adoptată de tine este permisă printr-o excepție sau limitare aplicabile.
+
+Nu sunt oferite garanții. Licența este posibil să nu-ți dea toate permisiunile necesare folosirii intenționate de tine. De exemplu, alte drepturi precum publicitatea, viața privată sau drepturile morale ar putea limita modul în care folosești materialul.
 
 
 ### Restricții 
 
-O parte din conținutul acestui site este reprodus cu permisiunea diferiților deținători de drepturi de autor sau este în domeniul public. Licența generală **CC-BY-SA-3.0** a site-ului web nu se aplică acestui conținut. 
+O parte din conținutul acestui site este reprodus cu permisiunea diferiților deținători de drepturi de autor sau este în domeniul public. Licența generală **CC-BY-SA-4.0** a site-ului web nu se aplică acestui conținut. 
 
 Conținutul cu restricții din cauza drepturilor de autor este identificat printr-o [notificare privind drepturile de autor](https://en.wikipedia.org/wiki/Copyright_notice) în antetul fiecărei pagini. 
 
 
 - Cartea Urantia (toate traducerile din engleză), este dreptul de autor al [Fundația Urantia](https://www.urantia.org/).
 - _Paramony_, indexul de referință încrucișată între Biblie și _Cartea Urantia_ care apare ca note de subsol în _Cartea Urantia_ și paginile Bibliei (în toate limbile), este dreptul de autor al [Duane L. Faw și The Urantia Book Fellowship](https:// urantia-book.org/urantiabook/paramony/). 
-- Articolele de la [Innerface International](/ro/index/articles#innerface-international) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Articolele din [Urantian Journal](/ro/index/articles#urantian-journal) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articolele de la [Fellowship Herald](/ro/index/articles#fellowship-herald) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Articolele de la [Innerface International](/ro/index/articles_innerface) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Articolele din [Urantian Journal](/ro/index/articles_the_urantian) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
+- Articolele de la [Fellowship Herald](/ro/index/articles_herald) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/). 
 - Articolele de la [UB Annotated & UBTheNews](/ro/index/articles#ub-annotaded-ubthenews) (în toate limbile) sunt drepturile de autor ale [Halbert Katzen](https://ubannotated.com/). 
-- Articolele de la [Jan Herca](/ro/index/articles#articles-from-jan-herca) (în toate limbile) sunt drepturile de autor ale [Jan Herca](https://buscandoajesus.wordpress.com) și sunt disponibile sub [Licența Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/). 
+- Articolele de la [Jan Herca](/ro/index/articles#articles-from-jan-herca) (în toate limbile) sunt drepturile de autor ale [Jan Herca](https://buscandoajesus.wordpress.com) și sunt disponibile sub [Licența Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/). 
 - Alte materiale de studiu care nu aparțin grupelor anterioare (în toate limbile) sunt drepturile de autor ale autorilor indicați.
 - Unele ilustrații pentru _The Urantia Book_ sunt drepturi de autor ale [Gary Tonge](https://visionafar.com). 
 
 #### Domeniu public 
 
 - Cartea Urantia (în engleză) este în Domeniul Public din 2006. 
-- Cărțile enumerate ca [surse presupuse ale Cărții Urantia](/ro/book#books-supposed-to-be-sources) sunt toate în engleză și în Domeniul Public. Traducerile furnizate sunt puse la dispoziție sub licența generală CC-BY-SA-3.0 a site-ului. 
+- Cărțile enumerate ca [surse presupuse ale Cărții Urantia](/ro/book#books-supposed-to-be-sources) sunt toate în engleză și în Domeniul Public. Traducerile furnizate sunt puse la dispoziție sub licența generală CC-BY-SA-4.0 a site-ului. 
 - Câteva ilustrații pentru _Cartea Urantia_ sunt în Domeniul Public. 
 
 ### Condiții de utilizare 
 
->
-> <small>Declinarea răspunderii: Acest rezumat nu face parte din Termenii de utilizare și nu este un document legal. Este pur și simplu o referință utilă pentru înțelegerea integrală a termenilor. Gândiți-vă la aceasta ca interfața ușor de utilizat pentru limbajul legal al Termenilor noștri de utilizare.</small> 
-> 
-> **O parte a misiunii noastre este de a:** 
-> - **Ajuta la difuzarea *Carții Urantia** * revelații în întreaga lume. 
-> - **Îmbunătățiți înțelegerea** a învățăturilor din *Cartea Urantia*. 
-> -**Conectează majoritatea cunoștințelor curente** disponibile despre revelația Urantia. 
-> 
-> **Sunteți liber să**: 
-> - **Citiți și imprimați** articolele noastre și alte media gratuit. 
-> - **Partajați și reutilizați** articolele noastre și alte medii sub licențe gratuite și deschise.
-> **În următoarele condiții**: 
-> - **Responsabilitate** – Vă asumați responsabilitatea pentru editările dvs. (deoarece _găzduim_ numai conținutul dvs.). 
-> - **Civilitate** – Susțineți un mediu civil și nu hărțuiți alți utilizatori. 
-> - **Comportament legal** – Nu încălcați drepturile de autor sau alte legi. 
-> - **No Harm** – Nu dăunați infrastructurii noastre tehnologice. 
-> - **Termeni de utilizare și politici** – Respectați Termenii de utilizare de mai jos și politicile aplicabile atunci când vizitați Urantiapedia. 
-> 
-> - **Fără sfaturi profesionale** – conținutul articolelor este doar pentru iluminarea spirituală și nu constituie sfaturi profesionale. 
-{.is-info} 
+
+<small>Declinarea răspunderii: Acest rezumat nu face parte din Termenii de utilizare și nu este un document legal. Este pur și simplu o referință utilă pentru înțelegerea integrală a termenilor. Gândiți-vă la aceasta ca interfața ușor de utilizat pentru limbajul legal al Termenilor noștri de utilizare.</small> 
+
+**O parte a misiunii noastre este de a:** 
+- **Ajuta la difuzarea *Carții Urantia** * revelații în întreaga lume. 
+- **Îmbunătățiți înțelegerea** a învățăturilor din *Cartea Urantia*. 
+-**Conectează majoritatea cunoștințelor curente** disponibile despre revelația Urantia. 
+
+**Sunteți liber să**: 
+- **Citiți și imprimați** articolele noastre și alte media gratuit. 
+- **Partajați și reutilizați** articolele noastre și alte medii sub licențe gratuite și deschise.
+**În următoarele condiții**: 
+- **Responsabilitate** – Vă asumați responsabilitatea pentru editările dvs. (deoarece _găzduim_ numai conținutul dvs.). 
+- **Civilitate** – Susțineți un mediu civil și nu hărțuiți alți utilizatori. 
+- **Comportament legal** – Nu încălcați drepturile de autor sau alte legi. 
+- **No Harm** – Nu dăunați infrastructurii noastre tehnologice. 
+- **Termeni de utilizare și politici** – Respectați Termenii de utilizare de mai jos și politicile aplicabile atunci când vizitați Urantiapedia. 
+
+- **Fără sfaturi profesionale** – conținutul articolelor este doar pentru iluminarea spirituală și nu constituie sfaturi profesionale. 
+ 
 
 
 ### Politica de confidențialitate
 
-> Acesta este un rezumat al Politicii de confidențialitate. Pentru a citi termenii completi, [click aici](/ro/help/privacy_policy). 
-> 
-> <small>Declinarea răspunderii: Acest rezumat nu face parte din Politica de confidențialitate și nu este un document legal. Este pur și simplu o referință utilă pentru înțelegerea întregii Politici de confidențialitate. Gândiți-vă la aceasta ca interfața ușor de utilizat pentru Politica noastră de confidențialitate.</small> 
-> 
-> **Pentru că credem că nu ar trebui să furnizați informații personale pentru a participa la mișcarea liberă a cunoașterii, dar dorim să ne asigurăm că conținutul colaboratorii sunt oameni de încredere, puteți:** 
-> - Citiți orice conținut fără a vă înregistra un cont. 
->
-> 
-> **Deoarece dorim să înțelegem cum este utilizată Urantiapedia, astfel încât să o putem îmbunătăți pentru tine, colectăm câteva informații atunci când:** 
-> - Aduci contribuții publice. 
-> - Solicitați o înregistrare pentru un cont de contribuții. 
-> - Utilizați Urantiapedia. 
-> 
-> - Descrieți modul în care informațiile dvs. pot fi utilizate sau partajate în această Politică de confidențialitate. 
-> - Utilizarea măsurilor rezonabile pentru a vă păstra informațiile în siguranță. 
-> - Nu vindeți niciodată informațiile dvs. sau nu le împărtășiți cu terți în scopuri de marketing. 
-> - Partajarea informațiilor dvs. numai în circumstanțe limitate, cum ar fi pentru a îmbunătăți Urantiapedia, pentru a respecta legea sau pentru a vă proteja pe dvs. și pe alții.
-> - Păstrarea datelor dumneavoastră pentru cel mai scurt timp posibil, care este în concordanță cu menținerea, înțelegerea și îmbunătățirea Urantiapedia și cu obligațiile noastre conform legislației în vigoare. 
-> 
-> **Aveți grijă:** 
-> - Orice conținut pe care îl adăugați sau orice modificare pe care o faceți la Urantiapedia va fi disponibil public și permanent. 
-> - Ca parte a angajamentului nostru de a arăta implicarea în proiectul Urantiapedia, ocazional publicăm informații publice și informații agregate sau non-personale publicului larg prin depozite de date și seturi de date.
+Acesta este un rezumat al Politicii de confidențialitate. Pentru a citi termenii completi, [click aici](/ro/help/privacy_policy). 
+
+<small>Declinarea răspunderii: Acest rezumat nu face parte din Politica de confidențialitate și nu este un document legal. Este pur și simplu o referință utilă pentru înțelegerea întregii Politici de confidențialitate. Gândiți-vă la aceasta ca interfața ușor de utilizat pentru Politica noastră de confidențialitate.</small> 
+
+**Pentru că credem că nu ar trebui să furnizați informații personale pentru a participa la mișcarea liberă a cunoașterii, dar dorim să ne asigurăm că conținutul colaboratorii sunt oameni de încredere, puteți:** 
+- Citiți orice conținut fără a vă înregistra un cont. 
+
+
+**Deoarece dorim să înțelegem cum este utilizată Urantiapedia, astfel încât să o putem îmbunătăți pentru tine, colectăm câteva informații atunci când:** 
+- Aduci contribuții publice. 
+- Solicitați o înregistrare pentru un cont de contribuții. 
+- Utilizați Urantiapedia. 
+
+- Descrieți modul în care informațiile dvs. pot fi utilizate sau partajate în această Politică de confidențialitate. 
+- Utilizarea măsurilor rezonabile pentru a vă păstra informațiile în siguranță. 
+- Nu vindeți niciodată informațiile dvs. sau nu le împărtășiți cu terți în scopuri de marketing. 
+- Partajarea informațiilor dvs. numai în circumstanțe limitate, cum ar fi pentru a îmbunătăți Urantiapedia, pentru a respecta legea sau pentru a vă proteja pe dvs. și pe alții.
+- Păstrarea datelor dumneavoastră pentru cel mai scurt timp posibil, care este în concordanță cu menținerea, înțelegerea și îmbunătățirea Urantiapedia și cu obligațiile noastre conform legislației în vigoare. 
+
+**Aveți grijă:** 
+- Orice conținut pe care îl adăugați sau orice modificare pe care o faceți la Urantiapedia va fi disponibil public și permanent. 
+- Ca parte a angajamentului nostru de a arăta implicarea în proiectul Urantiapedia, ocazional publicăm informații publice și informații agregate sau non-personale publicului larg prin depozite de date și seturi de date.
 
 
 

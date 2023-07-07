@@ -29,7 +29,7 @@ Kuna kõik (mitte ainult juristid) peaksid saama hõlpsasti aru, kuidas ja miks 
 Kui me ütleme… | …me mõtleme: 
 --- | --- 
 "Urantiapedia" / "meie" / "meie" / "meie" | Urantiapedia projekti meeskonnajuhid.
-"Urantiapedia sait" / "meie teenused" | Urantiapedia projekti Urantiapedia veebisait ja teenused (olenemata keelest), sealhulgas [Urantiapedia peamine veebisait](https://urantiapedia.org) (https://urantiapedia.org) ja alternatiivsed koopiad GitHubis ([Urantiapedia põhileht) projekt](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) ja [Urantiapedia varundusprojekt](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), samuti rakendusliidesed (API-d), meilid ja teatised; välja arvatud saidid ja teenused, mis on loetletud allpool jaotises "Mida see privaatsuspoliitika ei hõlma".
+"Urantiapedia sait" / "meie teenused" | Urantiapedia projekti Urantiapedia veebisait ja teenused (olenemata keelest), sealhulgas [Urantiapedia peamine veebisait](https://urantiapedia.org) ja alternatiivsed koopiad GitHubis ([Urantiapedia põhileht) projekt](https://github.com/JanHerca/urantiapedia) ja [Urantiapedia varundusprojekt](https://github.com/JanHerca/urantiapedia-backup)), samuti rakendusliidesed (API-d), meilid ja teatised; välja arvatud saidid ja teenused, mis on loetletud allpool jaotises "Mida see privaatsuspoliitika ei hõlma".
 "sina" / "teie" / "mina" | Teie, olenemata sellest, kas olete üksikisik, rühm või organisatsioon, ja olenemata sellest, kas kasutate Urantiapediat või meie teenuseid enda või kellegi teise nimel.
 "Isiklik teave" | Teave, mille meile esitate, või teave, mida kogume ja mida saaks kasutada teie isiku tuvastamiseks. Selguse huvides, kuigi me ei pruugi koguda kõiki järgmist tüüpi teavet, loeme vähemalt järgmist teavet "isiklikuks teabeks", kui see pole muul viisil avalik ja seda saab kasutada teie tuvastamiseks:<br/>(a) teie tegelik nimi, aadress, telefoninumber, e-posti aadress, parool, riikliku isikutunnistuse identifitseerimisnumber, IP-aadress, kasutajaagendi teave, maksekonto number;<br/>(b) kui see on seotud mõne alajaotises oleva üksusega (a) mis tahes tundlikud andmed, nagu sünniaeg, sugu, seksuaalne sättumus, rassiline või etniline päritolu, perekonnaseis, haigusseisundid või puuded, poliitiline kuuluvus ja religioon.
 "kolmas osapool" / "kolmandad isikud" | Üksikisikud, üksused, veebisaidid, teenused, tooted ja rakendused, mida Urantiapedia ei kontrolli, halda ega halda. See hõlmab teisi Urantiapedia kasutajaid ja sõltumatuid organisatsioone või rühmitusi, kes aitavad edendada Urantiapedia liikumist, nagu Urantia raamatu organisatsioonid ja kasutajarühmad, aga ka nende organisatsioonide või rühmade vabatahtlikud, töötajad, direktorid, ametnikud, toetuse saajad ja töövõtjad. 
@@ -41,7 +41,7 @@ Välja arvatud allpool selgitatud juhtudel, kohaldatakse käesolevaid privaatsus
 
 Selguse huvides hõlmavad need privaatsuspoliitikad, olenemata keelest: 
 
-- Meie alternatiivsed koopiad GitHubis, [Urantiapedia põhiprojekt](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) ja [Urantiapedia varundusprojekt](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Meie alternatiivsed koopiad GitHubis, [Urantiapedia põhiprojekt](https://github.com/JanHerca/urantiapedia) ja [Urantiapedia varundusprojekt](https://github.com/JanHerca/urantiapedia-backup). 
 - Meie API-d (kui me pole nende teenuste jaoks eraldi poliitikat esitanud). 
 - Meilid, SMS-id ja teatised meilt või teie poolt meile saadetud.
 
@@ -209,4 +209,4 @@ Täname, et lugesite meie privaatsuspoliitikat. Loodame, et teile meeldib Uranti
 
 --- 
 
-Tagasi lehele, kus on kokkuvõte teemal [litsents, tingimused kasutuse ja muu juriidilise teabe kohta](/et/litsents).
+Tagasi lehele, kus on kokkuvõte teemal [litsents, tingimused kasutuse ja muu juriidilise teabe kohta](/et/license).

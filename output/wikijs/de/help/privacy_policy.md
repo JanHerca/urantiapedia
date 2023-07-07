@@ -29,7 +29,7 @@ Da jeder (nicht nur Rechtsanwälte) in der Lage sein sollte, leicht zu verstehen
 Wenn wir sagen… | …meinen wir: 
 --- | --- 
 „Urantiapedia“ / „wir“ / „uns“ / „unser“ | Die Teamleiter des Urantiapedia-Projekts.
-"Urantiapedia-Website" / "unsere Dienste" | Urantiapedia-Website und Dienste (unabhängig von der Sprache) des Urantiapedia-Projekts, einschließlich der [Haupt-Urantiapedia-Website](https://urantiapedia.org) (https://urantiapedia.org) und der alternativen Kopien in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), sowie Application Programming Interfaces (APIs), E-Mails und Benachrichtigungen; ausgenommen sind jedoch Websites und Dienste, die im Abschnitt „Was diese Datenschutzrichtlinie nicht abdeckt“ unten aufgeführt sind.
+"Urantiapedia-Website" / "unsere Dienste" | Urantiapedia-Website und Dienste (unabhängig von der Sprache) des Urantiapedia-Projekts, einschließlich der [Haupt-Urantiapedia-Website](https://urantiapedia.org) und der alternativen Kopien in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), sowie Application Programming Interfaces (APIs), E-Mails und Benachrichtigungen; ausgenommen sind jedoch Websites und Dienste, die im Abschnitt „Was diese Datenschutzrichtlinie nicht abdeckt“ unten aufgeführt sind.
 „du“ / „dein“ / „ich“ | Sie, unabhängig davon, ob Sie eine Einzelperson, eine Gruppe oder eine Organisation sind, und unabhängig davon, ob Sie Urantiapedia oder unsere Dienste im eigenen Namen oder im Namen einer anderen Person nutzen.
 "Personenbezogene Daten" | Informationen, die Sie uns zur Verfügung stellen oder die wir sammeln, die verwendet werden könnten, um Sie persönlich zu identifizieren. Um es klarzustellen, obwohl wir nicht unbedingt alle der folgenden Arten von Informationen erfassen, betrachten wir zumindest die folgenden als „personenbezogene Daten“, wenn sie ansonsten nicht öffentlich sind und verwendet werden können, um Sie zu identifizieren:<br/>(a) Ihr richtiger Name, Adresse, Telefonnummer, E-Mail-Adresse, Passwort, Identifikationsnummer auf einem von der Regierung ausgestellten Ausweis, IP-Adresse, User-Agent-Informationen, Zahlungskontonummer;<br/>(b) wenn mit einem der Punkte im Unterabschnitt verknüpft (a) alle sensiblen Daten wie Geburtsdatum, Geschlecht, sexuelle Orientierung, Rasse oder ethnische Herkunft, Ehe- oder Familienstand, Erkrankungen oder Behinderungen, politische Zugehörigkeit und Religion.
 "Dritter" / "Dritte" | Einzelpersonen, Organisationen, Websites, Dienste, Produkte und Anwendungen, die nicht von Urantiapedia kontrolliert, verwaltet oder betrieben werden. Dies schließt andere Urantiapedia-Benutzer und unabhängige Organisationen oder Gruppen ein, die helfen, die Urantiapedia-Bewegung zu fördern, wie Urantia-Buchorganisationen und Benutzergruppen, sowie Freiwillige, Angestellte, Direktoren, Amtsträger, Zuschussempfänger und Auftragnehmer dieser Organisationen oder Gruppen. 
@@ -41,7 +41,7 @@ Außer wie unten erläutert, gilt diese Datenschutzrichtlinie für unsere Erfass
 
 Um der Klarheit willen deckt diese Datenschutzrichtlinie unabhängig von der Sprache Folgendes ab: 
 
-- Unsere alternativen Kopien auf GitHub, [Hauptprojekt von Urantiapedia] (https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Unsere alternativen Kopien auf GitHub, [Hauptprojekt von Urantiapedia](https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup). 
 - Unsere APIs (es sei denn, wir haben eine separate Richtlinie für diese Dienste bereitgestellt). 
 - E-Mails, SMS und Benachrichtigungen von uns oder von Ihnen an uns gesendet.
 
@@ -102,9 +102,9 @@ Je nachdem, welche Technologie wir verwenden, können lokal gespeicherte Daten T
 
 Wir verwenden diese Informationen, um Ihre Erfahrungen mit der Urantiapedia-Website sicherer und besser zu machen, um ein besseres Verständnis der Benutzerpräferenzen und ihrer Interaktion mit der Urantiapedia-Website zu erlangen und um unsere Dienste allgemein zu verbessern. Wir werden niemals Cookies von Drittanbietern verwenden, es sei denn, wir erhalten Ihre Erlaubnis dazu. Wenn Sie jemals auf ein Datenerfassungstool eines Drittanbieters stoßen, das nicht von Ihnen autorisiert wurde (z. B. eines, das möglicherweise versehentlich von einem anderen Benutzer oder Administrator platziert wurde), melden Sie es uns bitte unter urantiapedia@gmail.com.
 
-### Wie wir Informationen verwenden, die wir von Ihnen 
+### Wie wir Informationen verwenden, die wir von Ihnen erhalten 
 
-erhalten #### Allgemeines 
+#### Allgemeines 
 
 Wir und unsere Dienstanbieter verwenden Ihre Informationen für den rechtmäßigen Zweck, unsere gemeinnützige Mission zu verfolgen, einschließlich: 
 - Betreiben der Urantiapedia-Website, Teilen Ihrer Beiträge und Verwalten unserer Dienste. 
@@ -209,4 +209,4 @@ Vielen Dank, dass Sie unsere Datenschutzrichtlinie gelesen haben. Wir hoffen, da
 
 --- 
 
-Zurück zur Seite mit Zusammenfassung zu [Licence, Terms Nutzungsbedingungen und andere rechtliche Informationen](/en/license).
+Zurück zur Seite mit Zusammenfassung zu [Licence, Terms Nutzungsbedingungen und andere rechtliche Informationen](/de/license).

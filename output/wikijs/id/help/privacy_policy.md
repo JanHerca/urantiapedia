@@ -1,5 +1,5 @@
 ---
-title: "Privacy policy"
+title: "Kebijakan privasi"
 description: 
 published: true
 date: 2023-02-03T13:55:38.362Z
@@ -8,219 +8,219 @@ editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
 
-## Introduction
+## Perkenalan
 
-### Wellcome!
+### Selamat datang!
 
-Urantiapedia is founded on a simple, but powerful principle: we can do more together than any of us can do alone. We cannot work collectively without gathering, sharing, and analyzing information about our users as we seek new ways to make Urantiapedia more usable, safer, and more beneficial.
+Urantiapedia didirikan dengan prinsip yang sederhana namun kuat: kita dapat melakukan lebih banyak hal bersama daripada yang dapat kita lakukan sendirian. Kami tidak dapat bekerja secara kolektif tanpa mengumpulkan, berbagi, dan menganalisis informasi tentang pengguna kami saat kami mencari cara baru untuk menjadikan Urantiapedia lebih bermanfaat, lebih aman, dan lebih bermanfaat.
 
-We believe that information-gathering and use should go hand-in-hand with transparency. This Privacy Policy explains how Urantiapedia collects, uses, and shares information we receive from you through your use of the website. It is essential to understand that, by using Urantiapedia website you consent to the collection, transfer, processing, storage, disclosure, and use of your information as described in this Privacy Policy. That means that reading this Policy carefully is important.
+Kami percaya bahwa pengumpulan dan penggunaan informasi harus sejalan dengan transparansi. Kebijakan Privasi ini menjelaskan bagaimana Urantiapedia mengumpulkan, menggunakan, dan membagikan informasi yang kami terima dari Anda melalui penggunaan situs web oleh Anda. Penting untuk dipahami bahwa, dengan menggunakan situs web Urantiapedia, Anda menyetujui pengumpulan, transfer, pemrosesan, penyimpanan, pengungkapan, dan penggunaan informasi Anda sebagaimana dijelaskan dalam Kebijakan Privasi ini. Artinya, membaca Kebijakan ini dengan cermat adalah penting.
 
-We believe that you shouldn't have to provide nonpublic Personal Information to participate in Urantiapedia movement. You do not have to provide things like your real name, address, or date of birth to sign up for a standard account or contribute content to Urantiapedia.
+Kami percaya bahwa Anda tidak perlu memberikan Informasi Pribadi nonpublik untuk berpartisipasi dalam gerakan Urantiapedia. Anda tidak perlu memberikan hal-hal seperti nama asli, alamat, atau tanggal lahir untuk mendaftar akun standar atau menyumbangkan konten ke Urantiapedia.
 
-We do not sell or rent your Personal Information, nor do we give it to others to sell you anything. We use it to figure out how to make Urantiapedia more engaging and accessible, to see which ideas work, and to make learning and contributing more fun. Put simply: we use this information to make Urantiapedia better for you.
+Kami tidak menjual atau menyewakan Informasi Pribadi Anda, kami juga tidak memberikannya kepada orang lain untuk menjual apa pun kepada Anda. Kami menggunakannya untuk mengetahui cara membuat Urantiapedia lebih menarik dan mudah diakses, untuk melihat ide mana yang berhasil, dan membuat belajar dan berkontribusi lebih menyenangkan. Sederhananya: kami menggunakan informasi ini untuk menjadikan Urantiapedia lebih baik untuk Anda.
 
-After all, it's people like you, the champions of _Urantia Book_ students, who make it possible for Urantiapedia to not only exist, but also grow and thrive.
+Lagi pula, orang-orang seperti Anda, juara siswa _Urantia Book_, yang memungkinkan Urantiapedia tidak hanya ada, tetapi juga tumbuh dan berkembang.
 
-### Definitions
+### Definisi
 
-Because everyone (not just lawyers) should be able to easily understand how and why their information is collected and used, we use common language instead of more formal terms throughout this Policy. To help ensure your understanding of some particular key terms, here is a table of translations:
+Karena setiap orang (bukan hanya pengacara) harus dapat dengan mudah memahami bagaimana dan mengapa informasi mereka dikumpulkan dan digunakan, kami menggunakan bahasa yang umum alih-alih istilah yang lebih formal di seluruh Kebijakan ini. Untuk membantu memastikan pemahaman Anda tentang beberapa istilah kunci tertentu, berikut adalah tabel terjemahannya:
 
-When we say… | …we mean:
+Ketika kita mengatakan… | … maksud kami:
 --- | ---
-"Urantiapedia" / "we" / "us" / "our" | The team leaders of Urantiapedia project.
-"Urantiapedia site" / "our services" | Urantiapedia website and services (regardless of language) of the Urantiapedia project, including the [main Urantiapedia website](https://urantiapedia.org) (https://urantiapedia.org), and the alternative copies in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup)), as well as Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below.
-"you" / "your" / "me" | You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using Urantiapedia or our services on behalf of yourself or someone else.
-"this Policy" / "this Privacy Policy" | This document, entitled the "Urantiapedia Privacy Policy".
-"contributions" | Content you add or changes you make to Urantiapedia.
-"Personal information" | Information you provide us or information we collect that could be used to personally identify you. To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be "personal information" if it is otherwise nonpublic and can be used to identify you:<br/>(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, payment account number;<br/>(b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion.
-"third party" / "third parties" | Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by Urantiapedia. This includes other Urantiapedia users and independent organizations or groups who help promote Urantiapedia movement such as Urantia Book organizations, and user groups as well as volunteers, employees, directors, officers, grant recipients, and contractors of those organizations or groups.
+"Urantiapedia" / "kami" / "kami" / "kami" | Pemimpin tim proyek Urantiapedia.
+"Situs Urantiapedia" / "layanan kami" | Situs web Urantiapedia dan layanan (terlepas dari bahasa) proyek Urantiapedia, termasuk [situs web utama Urantiapedia](https://urantiapedia.org), dan salinan alternatif di GitHub ([proyek Utama Urantiapedia](https://github.com/JanHerca/urantiapedia) dan [Proyek Pencadangan Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)), serta Antarmuka Pemrograman Aplikasi (API), email, dan notifikasi; tidak termasuk, namun, situs dan layanan yang tercantum di bagian "Yang Tidak Dicakup oleh Kebijakan Privasi Ini" di bawah.
+"kamu" / "kamu" / "aku" | Anda, terlepas dari apakah Anda individu, kelompok, atau organisasi, dan terlepas dari apakah Anda menggunakan Urantiapedia atau layanan kami atas nama Anda sendiri atau orang lain.
+"Kebijakan ini" / "Kebijakan Privasi ini" | Dokumen ini berjudul "Kebijakan Privasi Urantiapedia".
+"kontribusi" | Konten yang Anda tambahkan atau perubahan yang Anda buat di Urantiapedia.
+"Informasi pribadi" | Informasi yang Anda berikan kepada kami atau informasi yang kami kumpulkan yang dapat digunakan untuk mengidentifikasi Anda secara pribadi. Agar jelas, meskipun kami tidak selalu mengumpulkan semua jenis informasi berikut, kami menganggap setidaknya informasi berikut ini sebagai "informasi pribadi" jika tidak bersifat publik dan dapat digunakan untuk mengidentifikasi Anda:<br/>(a) nama asli, alamat, nomor telepon, alamat email, kata sandi, nomor identifikasi pada tanda pengenal yang dikeluarkan pemerintah, alamat IP, informasi agen pengguna, nomor rekening pembayaran;<br/>(b) jika dikaitkan dengan salah satu item dalam subbagian (a), setiap data sensitif seperti tanggal lahir, jenis kelamin, orientasi seksual, asal ras atau etnis, status perkawinan atau keluarga, kondisi atau kecacatan medis, afiliasi politik, dan agama.
+"pihak ketiga" / "pihak ketiga" | Individu, entitas, situs web, layanan, produk, dan aplikasi yang tidak dikendalikan, dikelola, atau dioperasikan oleh Urantiapedia. Ini termasuk pengguna Urantiapedia lain dan organisasi atau kelompok independen yang membantu mempromosikan gerakan Urantiapedia seperti organisasi Buku Urantia, dan kelompok pengguna serta sukarelawan, karyawan, direktur, pejabat, penerima hibah, dan kontraktor dari organisasi atau kelompok tersebut.
 
-### What This Privacy Policy Does & Doesn't Cover
+### Apa yang Dicakup & Tidak Dicakup oleh Kebijakan Privasi Ini
 
-Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of Urantiapedia site. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
+Kecuali seperti yang dijelaskan di bawah ini, Kebijakan Privasi ini berlaku untuk pengumpulan dan penanganan informasi tentang Anda yang kami terima sebagai akibat dari penggunaan situs Urantiapedia oleh Anda. Kebijakan ini juga berlaku untuk informasi yang kami terima dari mitra kami atau pihak ketiga lainnya. Untuk memahami lebih lanjut tentang apa yang dicakup oleh Kebijakan Privasi ini, silakan lihat di bawah.
 
-#### Examples of What This Privacy Policy Covers
+#### Contoh Apa yang Dicakup oleh Kebijakan Privasi Ini
 
-For the sake of clarity, this Privacy Policy covers, regardless of language:
+Demi kejelasan, Kebijakan Privasi ini mencakup, apa pun bahasanya:
 
-- Our main website (https://urantiapedia.org).
-- Our alternative copies in GitHub, [Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) and [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup).
-- Our APIs (unless we have provided a separate policy for those services).
-- Emails, SMS, and notifications from us or sent to us from you.
+- Website utama kami (https://urantiapedia.org).
+- Salinan alternatif kami di GitHub, [Proyek Utama Urantiapedia](https://github.com/JanHerca/urantiapedia) dan [Proyek Pencadangan Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)).
+- API kami (kecuali kami telah menyediakan kebijakan terpisah untuk layanan tersebut).
+- Email, SMS, dan pemberitahuan dari kami atau dikirimkan kepada kami dari Anda.
 
-This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, sites or services run by third parties. To understand more about what this Privacy Policy does not cover, please see below.
+Kebijakan Privasi ini, bagaimanapun, tidak mencakup beberapa situasi di mana kami dapat mengumpulkan atau memproses informasi. Misalnya, situs atau layanan yang dijalankan oleh pihak ketiga. Untuk memahami lebih lanjut tentang apa yang tidak dicakup oleh Kebijakan Privasi ini, silakan lihat di bawah.
 
-#### More on what this Privacy Policy doesn’t cover
+#### Lebih lanjut tentang apa yang tidak dicakup oleh Kebijakan Privasi ini
 
-This section is part of the Privacy Policy and is meant to explain in detail which situations are not covered by our Privacy Policy.
+Bagian ini adalah bagian dari Kebijakan Privasi dan dimaksudkan untuk menjelaskan secara detail situasi mana yang tidak dicakup oleh Kebijakan Privasi kami.
 
-##### Community members
+##### Anggota komunitas
 
-Urantiapedia site is collaborative labor of love that is constantly maintained and updated by a global community of volunteers. This global community of volunteers may sometimes have access to personal Information in order to ensure the functioning of Urantiapedia site.
-- **Administrative volunteers**. These are volunteers who enforce Urantiapedia site policies and ensure the safety of Urantiapedia site. When these administrators access Personal Information that is nonpublic, they are required to comply with our Access to Nonpublic Information Policy, as well as other, tool-specific policies.
-- **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include:
-    - posting messages in WhatsApp Urantiapedia groups;
-    - using [Trello](https://trello.com/) for project planning and management.
+Situs Urantiapedia adalah kerja kolaboratif cinta yang terus dipelihara dan diperbarui oleh komunitas sukarelawan global. Komunitas sukarelawan global ini terkadang memiliki akses ke Informasi pribadi untuk memastikan berfungsinya situs Urantiapedia.
+- **Relawan Administratif**. Ini adalah sukarelawan yang menegakkan kebijakan situs Urantiapedia dan memastikan keamanan situs Urantiapedia. Saat administrator ini mengakses Informasi Pribadi nonpublik, mereka harus mematuhi Kebijakan Akses ke Informasi Nonpublik kami, serta kebijakan khusus alat lainnya.
+- **Pengguna lain**. Kami menyediakan beberapa alat yang memungkinkan pengguna untuk berkomunikasi satu sama lain. Komunikasi mungkin dicakup oleh Kebijakan ini saat mereka melewati sistem kami, tetapi pengguna yang menerima komunikasi ini, dan apa yang mereka lakukan dengan komunikasi tersebut setelah mereka menerimanya, tidak dicakup oleh Kebijakan ini. Contohnya meliputi:
+    - memposting pesan di grup WhatsApp Urantiapedia;
+    - menggunakan [Trello](https://trello.com/) untuk perencanaan dan manajemen proyek.
 
-##### Third parties
+##### Pihak ketiga
 
-This Privacy Policy only covers the way Urantiapedia collects, uses and discloses Personal Information and does not address the practices of third parties. For example, this Privacy Policy does not address the practices of:
-- **Websites run by other organizations**, like websites linked to from the "References" sections of Urantiapedia, or run by other movement organizations. These organizations may receive information from you if you visit their websites after using Urantiapedia. They are governed by their own privacy policies.
-- **Mobile applications provided by other organizations or individuals**. These organizations or individuals may receive information from you if you use those applications to access Urantiapedia site content. They are governed by their own privacy policies.
+Kebijakan Privasi ini hanya mencakup cara Urantiapedia mengumpulkan, menggunakan, dan mengungkapkan Informasi Pribadi dan tidak menangani praktik pihak ketiga. Misalnya, Kebijakan Privasi ini tidak membahas praktik:
+- **Situs web dijalankan oleh organisasi lain**, seperti situs web yang ditautkan dari bagian "Referensi" Urantiapedia, atau dijalankan oleh organisasi gerakan lainnya. Organisasi ini mungkin menerima informasi dari Anda jika Anda mengunjungi situs web mereka setelah menggunakan Urantiapedia. Mereka diatur oleh kebijakan privasi mereka sendiri.
+- **Aplikasi seluler yang disediakan oleh organisasi atau individu lain**. Organisasi atau individu ini dapat menerima informasi dari Anda jika Anda menggunakan aplikasi tersebut untuk mengakses konten situs Urantiapedia. Mereka diatur oleh kebijakan privasi mereka sendiri.
 
-## Collection & Use of Info
+## Pengumpulan & Penggunaan Info
 
-### Types of Information We Receive From You & How We Get It
+### Jenis Informasi yang Kami Terima Dari Anda & Bagaimana Kami Memperolehnya
 
-#### Your Public Contributions
+#### Kontribusi Publik Anda
 
-When you make a contribution to Urantiapedia site, including on comments sections, you are creating a permanent, public record of every piece of content added, removed, or altered by you. The page history will show when your contribution or deletion was made, as well as your username. We may use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how Urantiapedia site is used, as further explained below in the "How We Use Information We Receive From You" section of this Privacy Policy.
+Saat Anda memberikan kontribusi ke situs Urantiapedia, termasuk di bagian komentar, Anda membuat catatan publik permanen dari setiap konten yang ditambahkan, dihapus, atau diubah oleh Anda. Riwayat halaman akan menunjukkan kapan kontribusi atau penghapusan Anda dilakukan, serta nama pengguna Anda. Kami dapat menggunakan kontribusi publik Anda, baik digabungkan dengan kontribusi publik orang lain atau secara individual, untuk membuat fitur baru atau produk terkait data untuk Anda atau untuk mempelajari lebih lanjut tentang bagaimana situs Urantiapedia digunakan, sebagaimana dijelaskan lebih lanjut di bawah dalam "Cara Kami Menggunakan Informasi yang Kami Terima Dari Anda" dari Kebijakan Privasi ini.
 
-#### Publicly Visible Information
+#### Informasi yang Dapat Dilihat oleh Publik
 
-Unless this Policy says otherwise, you should assume that information that you actively contribute to Urantiapedia site, including Personal Information, is publicly visible and can be found by search engines. Like most things on the Internet, anything you share may be copied and redistributed throughout the Internet by other people. Please do not contribute any information that you are uncomfortable making permanently public, like revealing your real name or location in your contributions.
+Kecuali Kebijakan ini mengatakan sebaliknya, Anda harus berasumsi bahwa informasi yang Anda kontribusikan secara aktif ke situs Urantiapedia, termasuk Informasi Pribadi, dapat dilihat oleh umum dan dapat ditemukan oleh mesin pencari. Seperti kebanyakan hal di Internet, apa pun yang Anda bagikan dapat disalin dan didistribusikan ulang ke seluruh Internet oleh orang lain. Harap jangan menyumbangkan informasi apa pun yang tidak nyaman Anda publikasikan secara permanen, seperti mengungkapkan nama asli atau lokasi Anda dalam kontribusi Anda.
 
-You should be aware that specific data made public by you or aggregated data that is made public by us can be used by anyone for analysis and to infer further information, such as which country a user is from, political affiliation and gender.
+Anda harus menyadari bahwa data spesifik yang Anda publikasikan atau data agregat yang kami publikasikan dapat digunakan oleh siapa saja untuk analisis dan menyimpulkan informasi lebih lanjut, seperti negara asal pengguna, afiliasi politik, dan jenis kelamin.
 
-#### Account Information & Registration
+#### Informasi & Pendaftaran Akun
 
-You are required to request the creation of an account to contribute to Urantipedia site. You cannot create accounts by your own.
+Anda diminta untuk meminta pembuatan akun untuk berkontribusi ke situs Urantipedia. Anda tidak dapat membuat akun sendiri.
 
-If you want to request the creation of a contributor account, we require only a username, a password and a email address. You can change at any time the username and the password, but not the email.
+Jika Anda ingin meminta pembuatan akun kontributor, kami hanya memerlukan nama pengguna, kata sandi, dan alamat email. Anda dapat mengubah nama pengguna dan kata sandi kapan saja, tetapi email tidak.
 
-We never require Personal Information like gender, age.
+Kami tidak pernah meminta Informasi Pribadi seperti jenis kelamin, usia.
 
-#### Location Information
+#### Informasi lokasi
 
-If you consent, we can use GPS (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy.
+Jika Anda setuju, kami dapat menggunakan GPS (dan teknologi lain yang biasa digunakan untuk menentukan lokasi) untuk menampilkan konten yang lebih relevan kepada Anda. Kami merahasiakan informasi yang diperoleh dari teknologi ini, kecuali sebagaimana ditentukan dalam Kebijakan ini.
 
-### Information Related to Your Use of Urantiapedia site
+### Informasi Terkait Penggunaan Anda atas situs Urantiapedia
 
-We want to make Urantiapedia site better for you by learning more about how you use them. Examples of this might include how often you visit Urantiapedia site, what you like, what you find helpful, how you get to Urantiapedia site, and whether you would use a helpful feature more if we explained it differently. We also want this Policy and our practices to reflect our community's values. For this reason, we keep information related to your use of Urantiapedia site confidential, except as provided in this Policy.
+Kami ingin menjadikan situs Urantiapedia lebih baik untuk Anda dengan mempelajari lebih lanjut tentang cara Anda menggunakannya. Contohnya mungkin termasuk seberapa sering Anda mengunjungi situs Urantiapedia, apa yang Anda sukai, apa yang menurut Anda berguna, bagaimana Anda sampai ke situs Urantiapedia, dan apakah Anda akan lebih menggunakan fitur yang bermanfaat jika kami menjelaskannya secara berbeda. Kami juga ingin Kebijakan ini dan praktik kami mencerminkan nilai-nilai komunitas kami. Untuk alasan ini, kami merahasiakan informasi yang terkait dengan penggunaan Anda atas situs Urantiapedia, kecuali sebagaimana diatur dalam Kebijakan ini.
 
-#### Information We Receive Automatically
+#### Informasi yang Kami Terima Secara Otomatis
 
-Because of how browsers work, we receive some information automatically when you visit Urantiapedia site. This includes when you use an online tool on a third-party site that loads information coming from Urantiapedia site. This information includes the type of device you are using, the type and version of your browser, your browser's language preference, the type and version of your device's operating system, in some cases the name of your internet service provider or mobile carrier, the website that referred you to Urantiapedia site, which pages you request and visit, and the date and time of each request you make to Urantiapedia site.
+Karena cara kerja browser, kami menerima beberapa informasi secara otomatis saat Anda mengunjungi situs Urantiapedia. Ini termasuk saat Anda menggunakan alat online di situs pihak ketiga yang memuat informasi yang berasal dari situs Urantiapedia. Informasi ini mencakup jenis perangkat yang Anda gunakan, jenis dan versi browser Anda, preferensi bahasa browser Anda, jenis dan versi sistem operasi perangkat Anda, dalam beberapa kasus nama penyedia layanan internet atau operator seluler Anda, situs web yang merujuk Anda ke situs Urantiapedia, halaman mana yang Anda minta dan kunjungi, serta tanggal dan waktu setiap permintaan yang Anda buat ke situs Urantiapedia.
 
-Put simply, we use this information to enhance your experience with Urantiapedia site. For example, we use this information to administer the site, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with Urantiapedia site, track and study use of various features, gain understanding about the demographics of Urantiapedia site, and analyze trends.
+Sederhananya, kami menggunakan informasi ini untuk meningkatkan pengalaman Anda dengan situs Urantiapedia. Misalnya, kami menggunakan informasi ini untuk mengelola situs, memberikan keamanan yang lebih baik, dan melawan vandalisme; optimalkan aplikasi seluler, sesuaikan konten dan atur preferensi bahasa, uji fitur untuk melihat mana yang berhasil, dan tingkatkan kinerja; memahami bagaimana pengguna berinteraksi dengan situs Urantiapedia, melacak dan mempelajari penggunaan berbagai fitur, mendapatkan pemahaman tentang demografi situs Urantiapedia, dan menganalisis tren.
 
-#### Information We Collect
+#### Informasi yang Kami Kumpulkan
 
-We actively collect some types of information with a variety of commonly-used technologies. These generally include tracking pixels, JavaScript, and a variety of "locally stored data" technologies, such as cookies and local storage. These types of technologies may also be used in online tools on a third-party site that loads information from Urantiapedia site. We realize that some of these technologies do not have the best reputation in town and can be used for less-than-noble purposes. So we want to be as clear as we can about why we use these methods and the type of information we collect with them.
+Kami secara aktif mengumpulkan beberapa jenis informasi dengan berbagai teknologi yang umum digunakan. Ini umumnya mencakup piksel pelacakan, JavaScript, dan berbagai teknologi "data yang disimpan secara lokal", seperti cookie dan penyimpanan lokal. Jenis teknologi ini juga dapat digunakan dalam alat online di situs pihak ketiga yang memuat informasi dari situs Urantiapedia. Kami menyadari bahwa beberapa dari teknologi ini tidak memiliki reputasi terbaik di kota dan dapat digunakan untuk tujuan yang kurang mulia. Jadi kami ingin sejelas mungkin tentang mengapa kami menggunakan metode ini dan jenis informasi yang kami kumpulkan dengannya.
 
-Depending on which technology we use, locally stored data may include text, Personal Information (like your IP address), and information about your use of Urantiapedia site (like your username or the time of your visit). See below for more information.
+Bergantung pada teknologi yang kami gunakan, data yang disimpan secara lokal dapat mencakup teks, Informasi Pribadi (seperti alamat IP Anda), dan informasi tentang penggunaan situs Urantiapedia oleh Anda (seperti nama pengguna atau waktu kunjungan Anda). Lihat di bawah untuk informasi lebih lanjut.
 
-We use this information to make your experience with Urantiapedia site safer and better, to gain a greater understanding of user preferences and their interaction with Urantiapedia site, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at urantiapedia@gmail.com.
+Kami menggunakan informasi ini untuk membuat pengalaman Anda dengan situs Urantiapedia lebih aman dan lebih baik, untuk mendapatkan pemahaman yang lebih baik tentang preferensi pengguna dan interaksi mereka dengan situs Urantiapedia, dan untuk meningkatkan layanan kami secara umum. Kami tidak akan pernah menggunakan cookie pihak ketiga, kecuali kami mendapatkan izin Anda untuk melakukannya. Jika Anda pernah menemukan alat pengumpulan data pihak ketiga yang tidak Anda izinkan (seperti yang mungkin salah ditempatkan oleh pengguna atau administrator lain), harap laporkan kepada kami di urantiapedia@gmail.com.
 
-### How We Use Information We Receive From You
+### Cara Kami Menggunakan Informasi yang Kami Terima Dari Anda
 
-#### General
+#### Umum
 
-We and our service providers use your information for the legitimate purpose of pursuing our charitable mission, including:
-- Operating Urantiapedia site, sharing your contributions and administering our Services.
-    - To help you share your _Urantia Book_ knowledge with the world and add new features to our Services.
-    - To arrange access to your account and provide you with related service.
-    - To send administrative information to you, such as changes to our policies.
-    We engage in these activities to manage our relationship with you, because we have a legitimate interest and/or to comply with our legal obligations.
-- Providing customized Services.
-    - To provide to you custom content, notices and settings and to enhance your experience with Urantiapedia site.
-    We will customize the Services, in some instances, with your consent; or in keeping with our legitimate interest.
-- Sending emails with news updates and communications about items we believe may be of interest to you.
-    - To let you know about things that are happening with Urantiapedia site or Urantiapedia movement.
-    We will send these types of emails to you only with your consent except as otherwise permitted by applicable law. We do not sell, rent, or use your email address to advertise third-party products or services to you.
-- Improving Urantiapedia site and making your user experience safer and better.
-    - To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how Urantiapedia site are used.
-    - To fight spam, identity theft, malware and other kinds of abuse.
-    - To optimize mobile and other applications.
-    - To test features to see what works, understand how users interact with Urantiapedia site, track and study use of various features, gain understanding about the demographics of Urantiapedia site and analyze trends.
-    We engage in these activities to further our legitimate interest and/or to comply with our legal obligations.
+Kami dan penyedia layanan kami menggunakan informasi Anda untuk tujuan yang sah dalam mengejar misi amal kami, termasuk:
+- Mengoperasikan situs Urantiapedia, membagikan kontribusi Anda dan mengelola Layanan kami.
+    - Untuk membantu Anda berbagi pengetahuan _Urantia Book_ Anda dengan dunia dan menambahkan fitur baru ke Layanan kami.
+    - Untuk mengatur akses ke akun Anda dan memberi Anda layanan terkait.
+    - Untuk mengirimkan informasi administratif kepada Anda, seperti perubahan kebijakan kami.
+    Kami terlibat dalam aktivitas ini untuk mengelola hubungan kami dengan Anda, karena kami memiliki kepentingan yang sah dan/atau untuk mematuhi kewajiban hukum kami.
+- Menyediakan Layanan yang disesuaikan.
+    - Untuk memberi Anda konten, pemberitahuan, dan pengaturan khusus dan untuk meningkatkan pengalaman Anda dengan situs Urantiapedia.
+    Kami akan menyesuaikan Layanan, dalam beberapa kasus, dengan persetujuan Anda; atau sesuai dengan kepentingan sah kami.
+- Mengirim email dengan pembaruan berita dan komunikasi tentang item yang kami yakini menarik bagi Anda.
+    - Untuk memberi tahu Anda tentang hal-hal yang terjadi dengan situs Urantiapedia atau gerakan Urantiapedia.
+    Kami akan mengirimkan jenis email ini kepada Anda hanya dengan persetujuan Anda kecuali jika diizinkan oleh undang-undang yang berlaku. Kami tidak menjual, menyewakan, atau menggunakan alamat email Anda untuk mengiklankan produk atau layanan pihak ketiga kepada Anda.
+- Meningkatkan situs Urantiapedia dan menjadikan pengalaman pengguna Anda lebih aman dan lebih baik.
+    - Untuk menggunakan kontribusi publik Anda, baik digabungkan dengan kontribusi publik orang lain atau secara individual, untuk membuat fitur baru atau produk terkait data untuk Anda atau untuk mempelajari lebih lanjut tentang bagaimana situs Urantiapedia digunakan.
+    - Untuk melawan spam, pencurian identitas, malware, dan jenis penyalahgunaan lainnya.
+    - Untuk mengoptimalkan aplikasi seluler dan lainnya.
+    - Untuk menguji fitur untuk melihat apa yang berfungsi, pahami bagaimana pengguna berinteraksi dengan situs Urantiapedia, lacak dan pelajari penggunaan berbagai fitur, dapatkan pemahaman tentang demografi situs Urantiapedia dan analisis tren.
+    Kami terlibat dalam aktivitas ini untuk memajukan kepentingan sah kami dan/atau untuk mematuhi kewajiban hukum kami.
 
-#### Other
+#### Lainnya
 
-##### Location information
+##### Informasi lokasi
 
-As stated above, we can use commonly-used location technologies to show you more relevant content. As a reminder, you can consent to and/or deactivate our access to these location technologies at any time for example through the native OS functionalities on your mobile device, and still use Urantiapedia site.
+Sebagaimana dinyatakan di atas, kami dapat menggunakan teknologi lokasi yang umum digunakan untuk menampilkan konten yang lebih relevan kepada Anda. Sebagai pengingat, Anda dapat menyetujui dan/atau menonaktifkan akses kami ke teknologi lokasi ini kapan saja, misalnya melalui fungsionalitas OS asli di perangkat seluler Anda, dan tetap menggunakan situs Urantiapedia.
 
-##### IP Addresses
+##### Alamat IP
 
-When you visit any Urantiapedia site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting Urantiapedia site with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
+Saat Anda mengunjungi situs Urantiapedia mana pun, kami secara otomatis menerima alamat IP perangkat (atau server proksi Anda) yang Anda gunakan untuk mengakses Internet, yang dapat digunakan untuk menyimpulkan lokasi geografis Anda. Kami merahasiakan alamat IP, kecuali sebagaimana ditentukan dalam Kebijakan ini. Jika Anda mengunjungi situs Urantiapedia dengan perangkat seluler Anda, kami dapat menggunakan alamat IP Anda untuk memberikan informasi anonim atau gabungan kepada penyedia layanan terkait volume penggunaan di area tertentu.
 
-We use this location information to make your experience with Urantiapedia site safer and better, to gain a greater understanding of user preferences and their interaction with Urantiapedia site, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support Urantiapedia community. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
+Kami menggunakan informasi lokasi ini untuk membuat pengalaman Anda dengan situs Urantiapedia lebih aman dan lebih baik, untuk mendapatkan pemahaman yang lebih baik tentang preferensi pengguna dan interaksi mereka dengan situs Urantiapedia, dan untuk meningkatkan layanan kami secara umum. Misalnya, kami menggunakan informasi ini untuk memberikan keamanan yang lebih baik, mengoptimalkan aplikasi seluler, dan mempelajari cara memperluas dan mendukung komunitas Urantiapedia dengan lebih baik. Kami juga menggunakan Informasi Pribadi dengan cara yang dijelaskan dalam bagian Kebijakan ini yang berjudul "Untuk Alasan Hukum" dan "Untuk Melindungi Anda, Kami Sendiri & Orang Lain."
 
-## Sharing
+## Membagikan
 
-### When May We Share Your Information?
+### Kapan Kami Dapat Membagikan Informasi Anda?
 
-#### With Your Permission
+#### Dengan persetujuan Anda
 
-We share your Personal Information for a particular purpose, if you agree.
+Kami membagikan Informasi Pribadi Anda untuk tujuan tertentu, jika Anda setuju.
 
-#### For Legal Reasons
+#### Untuk Alasan Hukum
 
-We will access, use, preserve, and/or disclose your Personal Information if we reasonably believe it necessary to satisfy a valid and legally enforceable warrant, subpoena, court order, law or regulation, or other judicial or administrative order. However, if we believe that a particular request for disclosure of a user's information is legally invalid or an abuse of the legal system and the affected user does not intend to oppose the disclosure themselves, we will try our best to fight it. We are committed to notifying you via email at least ten (10) calendar days, when possible, before we disclose your Personal Information in response to a legal demand. However, we may only provide notice if we are not legally restrained from contacting you, there is no credible threat to life or limb that is created or increased by disclosing the request, and you have provided us with an email address.
+Kami akan mengakses, menggunakan, menyimpan, dan/atau mengungkapkan Informasi Pribadi Anda jika kami secara wajar meyakini bahwa hal itu diperlukan untuk memenuhi surat perintah, panggilan pengadilan, perintah pengadilan, hukum atau peraturan, atau perintah yudisial atau administratif lainnya yang sah dan dapat ditegakkan secara hukum. Namun, jika kami yakin bahwa permintaan tertentu untuk pengungkapan informasi pengguna tidak sah secara hukum atau merupakan penyalahgunaan sistem hukum dan pengguna yang terpengaruh tidak bermaksud menentang pengungkapan itu sendiri, kami akan berusaha sebaik mungkin untuk melawannya. Kami berkomitmen untuk memberi tahu Anda melalui email setidaknya sepuluh (10) hari kalender, jika memungkinkan, sebelum kami mengungkapkan Informasi Pribadi Anda sebagai tanggapan atas tuntutan hukum. Namun, kami hanya dapat memberikan pemberitahuan jika kami tidak dilarang secara hukum untuk menghubungi Anda, tidak ada ancaman yang dapat dipercaya terhadap nyawa atau anggota tubuh yang dibuat atau ditingkatkan dengan mengungkapkan permintaan tersebut,
 
-Nothing in this Privacy Policy is intended to limit any legal objections or defenses you may have to a third-party's request (whether it be civil, criminal, or governmental) to disclose your Personal Information. We recommend seeking the advice of legal counsel immediately if such a request is made involving you.
+Tidak ada dalam Kebijakan Privasi ini yang dimaksudkan untuk membatasi keberatan atau pembelaan hukum apa pun yang mungkin Anda miliki atas permintaan pihak ketiga (baik perdata, pidana, atau pemerintah) untuk mengungkapkan Informasi Pribadi Anda. Kami merekomendasikan untuk segera mencari nasihat dari penasihat hukum jika permintaan tersebut dibuat melibatkan Anda.
 
-#### To Protect You, Ourselves & Others
+#### Untuk Melindungi Anda, Diri Kami & Orang Lain
 
-We, or particular users with certain administrative rights as described below, need to use and share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our Terms of Use or this Privacy Policy. We may also need to access and share Personal Information to investigate and defend ourselves against legal threats or actions.
+Kami, atau pengguna tertentu dengan hak administratif tertentu seperti yang dijelaskan di bawah ini, perlu menggunakan dan membagikan Informasi Pribadi Anda jika diyakini secara wajar diperlukan untuk menegakkan atau menyelidiki potensi pelanggaran Ketentuan Penggunaan kami atau Kebijakan Privasi ini. Kami juga mungkin perlu mengakses dan membagikan Informasi Pribadi untuk menyelidiki dan membela diri terhadap ancaman atau tindakan hukum.
 
-We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns.
+Kami berharap hal ini tidak pernah muncul, tetapi kami dapat mengungkapkan Informasi Pribadi Anda jika kami percaya bahwa hal itu secara wajar diperlukan untuk mencegah cedera tubuh atau kematian yang serius dan segera terjadi pada seseorang, atau untuk melindungi organisasi, karyawan, kontraktor, pengguna, atau publik kami . Kami juga dapat mengungkapkan Informasi Pribadi Anda jika kami secara wajar meyakini bahwa hal itu diperlukan untuk mendeteksi, mencegah, atau menilai dan menangani potensi spam, malware, penipuan, penyalahgunaan, aktivitas yang melanggar hukum, dan masalah keamanan atau teknis.
 
-## Protection
+## Perlindungan
 
-### How Do We Protect Your Personal Information?
+### Bagaimana Kami Melindungi Informasi Pribadi Anda?
 
-We strive to protect your Personal Information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
+Kami berusaha untuk melindungi Informasi Pribadi Anda dari akses, penggunaan, atau pengungkapan yang tidak sah. Kami menggunakan berbagai tindakan, kebijakan, dan prosedur fisik dan teknis (seperti prosedur kontrol akses, firewall jaringan, dan keamanan fisik) yang dirancang untuk melindungi sistem kami dan Informasi Pribadi Anda. Sayangnya, tidak ada transmisi atau penyimpanan data yang benar-benar aman, jadi kami tidak dapat menjamin bahwa keamanan kami tidak akan dilanggar (dengan tindakan teknis atau melalui pelanggaran terhadap kebijakan dan prosedur kami).
 
-We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to urantiapedia@gmail.com, so we can investigate the source of the email.
+Kami tidak akan pernah meminta kata sandi Anda melalui email (namun dapat mengirimkan kata sandi sementara melalui email jika Anda telah meminta pengaturan ulang kata sandi). Jika Anda pernah menerima email yang meminta kata sandi Anda, beri tahu kami dengan mengirimkannya ke urantiapedia@gmail.com, sehingga kami dapat menyelidiki sumber email tersebut.
 
-### How Long Do We Keep Your Data?
+### Berapa Lama Kami Menyimpan Data Anda?
 
-Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of Urantiapedia site, and our obligations under applicable law. In most instances, Personal Information is deleted, aggregated or de-identified after 90 days. Non-Personal Information may be retained indefinitely as appropriate.
+Setelah kami menerima Informasi Pribadi dari Anda, kami menyimpannya untuk waktu sesingkat mungkin yang konsisten dengan pemeliharaan, pemahaman, dan peningkatan situs Urantiapedia, dan kewajiban kami berdasarkan undang-undang yang berlaku. Dalam kebanyakan kasus, Informasi Pribadi dihapus, digabungkan, atau dihilangkan identitasnya setelah 90 hari. Informasi Non-Pribadi dapat disimpan tanpa batas waktu sebagaimana mestinya.
 
-Please remember that when you make a contribution to Urantiapedia site, the page history will show when your contribution was made and your username. The transparency of the project contributions and revision history is critical to its efficacy and trustworthiness.
+Harap diingat bahwa ketika Anda memberikan kontribusi ke situs Urantiapedia, riwayat halaman akan menunjukkan kapan kontribusi Anda dibuat dan nama pengguna Anda. Transparansi kontribusi proyek dan riwayat revisi sangat penting untuk kemanjuran dan kepercayaannya.
 
-## Your rights
+## Hak Anda
 
-If you would like to request to access, update or restrict/object to the processing of Personal Information, or receive a copy of your Personal Information for purposes of transmitting it to another organization, you may Contact Us. We will respond to your request consistent with applicable law.
+Jika Anda ingin meminta untuk mengakses, memperbarui, atau membatasi/menolak pemrosesan Informasi Pribadi, atau menerima salinan Informasi Pribadi Anda untuk tujuan pengirimannya ke organisasi lain, Anda dapat Menghubungi Kami. Kami akan menanggapi permintaan Anda sesuai dengan hukum yang berlaku.
 
-Please note also that you may be able to exercise some of these rights without our intervention. For example, if you are a registered user, you can access and update some Personal Information in your Account page.
+Harap perhatikan juga bahwa Anda mungkin dapat menggunakan beberapa hak ini tanpa campur tangan kami. Misalnya, jika Anda adalah pengguna terdaftar, Anda dapat mengakses dan memperbarui beberapa Informasi Pribadi di halaman Akun Anda.
 
-##  Important info
+## Info penting
 
-**For the protection of Urantiapedia and other users, if you do not agree with this Privacy Policy, you may not use Urantiapedia site.**
+**Untuk perlindungan Urantiapedia dan pengguna lain, jika Anda tidak setuju dengan Kebijakan Privasi ini, Anda tidak boleh menggunakan situs Urantiapedia.**
 
 
-### Where is Urantiapedia & What Does That Mean for Me?
+### Di mana Urantiapedia & Apa Artinya Bagi Saya?
 
-Urantiapedia is not an organization but a simple project created by a community of contributors, with servers that can be located in different countries depending on availabity from our hosting provider. If you decide to use Urantiapedia site you understand that your Personal Information will be collected, transferred, stored, processed, disclosed and otherwise used in the country in which our servers are located as described in this Privacy Policy. You also understand that your information may be transferred by us from the countries with our servers to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you.
+Urantiapedia bukanlah sebuah organisasi tetapi proyek sederhana yang dibuat oleh komunitas kontributor, dengan server yang dapat berlokasi di berbagai negara tergantung ketersediaan dari penyedia hosting kami. Jika Anda memutuskan untuk menggunakan situs Urantiapedia, Anda memahami bahwa Informasi Pribadi Anda akan dikumpulkan, ditransfer, disimpan, diproses, diungkapkan, dan sebaliknya digunakan di negara tempat server kami berada seperti yang dijelaskan dalam Kebijakan Privasi ini. Anda juga memahami bahwa informasi Anda dapat ditransfer oleh kami dari negara dengan server kami ke negara lain, yang mungkin memiliki undang-undang perlindungan data yang berbeda atau kurang ketat dari negara Anda, sehubungan dengan pemberian layanan kepada Anda.
 
-### Our Response to Do Not Track (DNT) signals
+### Tanggapan Kami terhadap sinyal Do Not Track (DNT).
 
-We are strongly committed to protecting users' Personal Information. Under this Policy, we may share your information only under particular situations, which you can learn more about in the "When May We Share Your Information" section of this Privacy Policy. In particular, we do not share your Personal Information for marketing purposes.
+Kami sangat berkomitmen untuk melindungi Informasi Pribadi pengguna. Berdasarkan Kebijakan ini, kami dapat membagikan informasi Anda hanya dalam situasi tertentu, yang dapat Anda pelajari lebih lanjut di bagian "Kapan Kami Dapat Membagikan Informasi Anda" dari Kebijakan Privasi ini. Secara khusus, kami tidak membagikan Informasi Pribadi Anda untuk tujuan pemasaran.
 
-Because we protect all users in accordance with this Privacy Policy, we do not change our behavior in response to a web browser's "do not track" signal.
+Karena kami melindungi semua pengguna sesuai dengan Kebijakan Privasi ini, kami tidak mengubah perilaku kami sebagai respons terhadap sinyal "jangan lacak" browser web.
 
-### Changes to This Privacy Policy
+### Perubahan pada Kebijakan Privasi Ini
 
-Because things naturally change over time and we want to ensure our Privacy Policy accurately reflects our practices and the law, it may be necessary to modify this Privacy Policy from time to time. We reserve the right to do so in the following manner:
-- In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for an open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via a notification on urantiapedia@gmail.com.
-- For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via notification to contributors email or contributors WhatsApp chat groups.
+Karena hal-hal berubah secara alami dari waktu ke waktu dan kami ingin memastikan Kebijakan Privasi kami secara akurat mencerminkan praktik dan hukum kami, mungkin perlu mengubah Kebijakan Privasi ini dari waktu ke waktu. Kami berhak melakukannya dengan cara berikut:
+- Jika terjadi perubahan substansial, kami akan memberikan perubahan yang diusulkan kepada pengguna kami dalam setidaknya tiga (3) bahasa (dipilih sesuai kebijaksanaan kami) untuk periode komentar terbuka yang berlangsung setidaknya tiga puluh (30) hari kalender. Sebelum memulai periode komentar, kami akan memberikan pemberitahuan tentang perubahan tersebut dan kesempatan untuk berkomentar melalui pemberitahuan di urantiapedia@gmail.com.
+- Untuk perubahan kecil, seperti perbaikan tata bahasa, perubahan administratif atau hukum, atau koreksi pernyataan yang tidak akurat, kami akan memposting perubahan tersebut dan, jika memungkinkan, memberikan pemberitahuan setidaknya tiga (3) hari kalender sebelumnya melalui pemberitahuan ke email kontributor atau kontributor Grup obrolan WhatsApp.
 
-We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of Urantiapedia site after any effective date of a subsequent version of this Privacy Policy constitutes acceptance of this Privacy Policy on your part.
+Kami meminta Anda untuk meninjau versi terbaru dari Kebijakan Privasi kami. Anda terus menggunakan situs Urantiapedia setelah tanggal berlaku dari versi berikutnya dari Kebijakan Privasi ini merupakan penerimaan Kebijakan Privasi ini di pihak Anda.
 
-### Contact Us
+### Hubungi kami
 
-If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at urantiapedia@gmail.com.
+Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi ini, atau informasi yang dikumpulkan berdasarkan Kebijakan Privasi ini, silakan kirim email kepada kami di urantiapedia@gmail.com.
 
-### Thank You!
+### Terima kasih!
 
-Thank you for reading our Privacy Policy. We hope you enjoy using Urantiapedia site and appreciate your participation in creating, maintaining, and constantly working to improve this free knowledge repository of **The Fifth Epochal Revelation of the world**.
+Terima kasih telah membaca Kebijakan Privasi kami. Kami harap Anda menikmati menggunakan situs Urantiapedia dan menghargai partisipasi Anda dalam menciptakan, memelihara, dan terus bekerja untuk meningkatkan gudang pengetahuan gratis **Wahyu Dunia Zaman Kelima**.
 
-**Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
+**Harap perhatikan bahwa jika ada perbedaan makna atau interpretasi antara versi bahasa Inggris asli dari Kebijakan Privasi ini dan terjemahannya, versi bahasa Inggris asli akan diutamakan.**
 
 ---
 
-Return to page with summary on [Licence, Terms of Use and other legal info](/en/license).
+Kembali ke halaman dengan ringkasan tentang [Lisensi, Ketentuan Penggunaan, dan info hukum lainnya](/id/license).

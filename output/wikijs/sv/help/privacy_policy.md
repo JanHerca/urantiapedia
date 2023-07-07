@@ -29,7 +29,7 @@ Eftersom alla (inte bara advokater) enkelt borde kunna förstå hur och varför 
 När vi säger... | …vi menar: 
 --- | --- 
 "Urantiapedia" / "vi" / "oss" / "vår" | Teamledarna för Urantiapedia-projektet.
-"Urantiapedia webbplats" / "våra tjänster" | Urantiapedias webbplats och tjänster (oavsett språk) för Urantiapedia-projektet, inklusive [huvudwebbplatsen för Urantiapedia](https://urantiapedia.org) (https://urantiapedia.org) och de alternativa kopiorna i GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) och [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), såväl som Application Programming Interfaces (API), e-postmeddelanden och aviseringar; dock exklusive webbplatser och tjänster som anges i avsnittet "Vad denna integritetspolicy inte omfattar" nedan.
+"Urantiapedia webbplats" / "våra tjänster" | Urantiapedias webbplats och tjänster (oavsett språk) för Urantiapedia-projektet, inklusive [huvudwebbplatsen för Urantiapedia](https://urantiapedia.org) och de alternativa kopiorna i GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) och [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup)), såväl som Application Programming Interfaces (API), e-postmeddelanden och aviseringar; dock exklusive webbplatser och tjänster som anges i avsnittet "Vad denna integritetspolicy inte omfattar" nedan.
 "du" / "din" / "jag" | Du, oavsett om du är en individ, grupp eller organisation, och oavsett om du använder Urantiapedia eller våra tjänster för dig själv eller någon annans räkning.
 "Personliga uppgifter" | Information du ger oss eller information vi samlar in som kan användas för att identifiera dig personligen. För att vara tydlig, även om vi inte nödvändigtvis samlar in alla följande typer av information, anser vi åtminstone följande vara "personlig information" om den annars är icke-offentlig och kan användas för att identifiera dig:<br/>(a) ditt riktiga namn, adress, telefonnummer, e-postadress, lösenord, identifikationsnummer på statligt utfärdat ID, IP-adress, användaragentinformation, betalkontonummer;<br/>(b) när det är kopplat till något av objekten i underavsnittet (a), alla känsliga uppgifter som födelsedatum, kön, sexuell läggning, ras eller etniskt ursprung, civilstånd eller familjestatus, medicinska tillstånd eller funktionshinder, politisk tillhörighet och religion.
 "tredje part" / "tredje part" | Individer, enheter, webbplatser, tjänster, produkter och applikationer som inte kontrolleras, hanteras eller drivs av Urantiapedia. Detta inkluderar andra Urantiapedia-användare och oberoende organisationer eller grupper som hjälper till att främja Urantiapedia-rörelsen såsom Urantia Book-organisationer och användargrupper såväl som frivilliga, anställda, direktörer, tjänstemän, bidragsmottagare och entreprenörer för dessa organisationer eller grupper. 
@@ -41,7 +41,7 @@ Förutom vad som förklaras nedan, gäller denna integritetspolicy vår insamlin
 
 För tydlighetens skull omfattar denna sekretesspolicy, oavsett språk: 
 
-- Våra alternativa kopior i GitHub, [Urantiapedias huvudprojekt](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) och [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Våra alternativa kopior i GitHub, [Urantiapedias huvudprojekt](https://github.com/JanHerca/urantiapedia) och [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup). 
 - Våra API:er (såvida vi inte har tillhandahållit en separat policy för dessa tjänster). 
 - E-post, SMS och aviseringar från oss eller skickade till oss från dig.
 
@@ -209,4 +209,4 @@ Tack för att du läser vår sekretesspolicy. Vi hoppas att du gillar att använ
 
 --- Gå 
 
-tillbaka till sidan med sammanfattning av [Licens, Villkor av användning och annan juridisk information](/en/license).
+tillbaka till sidan med sammanfattning av [Licens, Villkor av användning och annan juridisk information](/sv/license).

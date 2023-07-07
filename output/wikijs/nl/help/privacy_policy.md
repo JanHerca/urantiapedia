@@ -29,7 +29,7 @@ Omdat iedereen (niet alleen advocaten) gemakkelijk moet kunnen begrijpen hoe en 
 Als we zeggen... | …we bedoelen: 
 --- | --- 
 "Urantiapedia" / "wij" / "ons" / "onze" | De teamleiders van het Urantiapedia-project.
-"Urantiapedia-site" / "onze diensten" | Urantiapedia-website en diensten (ongeacht de taal) van het Urantiapedia-project, inclusief de [hoofdwebsite van Urantiapedia](https://urantiapedia.org) (https://urantiapedia.org), en de alternatieve kopieën in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), evenals Application Programming Interfaces (API's), e-mails en meldingen; met uitzondering van sites en services die worden vermeld in het gedeelte 'Wat dit privacybeleid niet dekt' hieronder.
+"Urantiapedia-site" / "onze diensten" | Urantiapedia-website en diensten (ongeacht de taal) van het Urantiapedia-project, inclusief de [hoofdwebsite van Urantiapedia](https://urantiapedia.org), en de alternatieve kopieën in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), evenals Application Programming Interfaces (API's), e-mails en meldingen; met uitzondering van sites en services die worden vermeld in het gedeelte 'Wat dit privacybeleid niet dekt' hieronder.
 "jij" / "jouw" / "ik" | U, ongeacht of u een individu, groep of organisatie bent, en ongeacht of u Urantiapedia of onze diensten namens uzelf of iemand anders gebruikt.
 "Persoonlijke informatie" | Informatie die u ons verstrekt of informatie die wij verzamelen en die kan worden gebruikt om u persoonlijk te identificeren. Voor alle duidelijkheid: hoewel we niet noodzakelijkerwijs alle volgende soorten informatie verzamelen, beschouwen we ten minste de volgende als "persoonlijke informatie" als deze anderszins niet-openbaar is en kan worden gebruikt om u te identificeren:<br/>(a) uw echte naam, adres, telefoonnummer, e-mailadres, wachtwoord, identificatienummer op door de overheid uitgegeven identiteitsbewijs, IP-adres, user-agent informatie, betaalrekeningnummer;<br/>(b) indien gekoppeld aan een van de items in subsectie (a), alle gevoelige gegevens zoals geboortedatum, geslacht, seksuele geaardheid, ras of etnische afkomst, burgerlijke of familiale staat, medische aandoeningen of handicaps, politieke overtuiging en religie.
 "derde partij" / "derde partij" | Individuen, entiteiten, websites, diensten, producten en applicaties die niet worden gecontroleerd, beheerd of geëxploiteerd door Urantiapedia. Dit geldt ook voor andere Urantiapedia-gebruikers en onafhankelijke organisaties of groepen die de Urantiapedia-beweging helpen promoten, zoals Urantia Book-organisaties en gebruikersgroepen, evenals vrijwilligers, werknemers, directeuren, functionarissen, ontvangers van subsidies en aannemers van die organisaties of groepen. 
@@ -41,7 +41,7 @@ Behalve zoals hieronder uitgelegd, is dit privacybeleid van toepassing op onze v
 
 Ter wille van de duidelijkheid dekt dit privacybeleid, ongeacht de taal: 
 
-- Onze alternatieve kopieën in GitHub, [hoofdproject van Urantiapedia](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup-project](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Onze alternatieve kopieën in GitHub, [hoofdproject van Urantiapedia](https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup-project](https://github.com/JanHerca/urantiapedia-backup). 
 - Onze API's (tenzij we een apart beleid voor die services hebben verstrekt). 
 - E-mails, sms en meldingen van ons of van u naar ons verzonden.
 
@@ -209,4 +209,4 @@ Bedankt voor het lezen van ons privacybeleid. We hopen dat u met veel plezier de
 
 --- 
 
-Terug naar pagina met samenvatting op [Licentie, Voorwaarden van gebruik en andere juridische info](/en/license).
+Terug naar pagina met samenvatting op [Licentie, Voorwaarden van gebruik en andere juridische info](/nl/license).

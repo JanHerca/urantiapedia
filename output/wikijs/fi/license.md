@@ -14,42 +14,46 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ### Lisenssi
 
-Tämä verkkosivusto on saatavilla [Creative Commons Attribution-ShareAlike -lisenssillä](https://creativecommons.org/licenses/by-sa/3.0/), ellei tekijänoikeusilmoitusta näytetä, kuten tämän sivun _Rajoituksia_-osassa selitetään.
+Tämä verkkosivusto on saatavilla [Creative Commons Attribution-ShareAlike -lisenssillä 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fi), ellei tekijänoikeusilmoitusta näytetä, kuten tämän sivun _Rajoituksia_-osassa selitetään.
 
-Lisenssin lyhyt tunniste: **CC-BY-SA-3.0**
+Lisenssin lyhyt tunniste: **CC-BY-SA-4.0**
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Commons Attribution-ShareAlike License -logo" width="200px" height="70px" />
 
 #### Creative Commons Deed
 
-> Tämä on ihmisen luettavissa oleva tiivistelmä [täydestä lisenssistä](/fi/help/full_license).
->
-> Olet vapaa:
->
-> - **jakaa**—teoksen kopioiminen, levittäminen ja välittäminen sekä
-> - **remixille**—teoksen [sopeuttaminen](https://en.wikipedia.org/wiki/Literary_adaptation)
->
-> mihin tahansa tarkoitukseen, jopa kaupalliseen tarkoitukseen.
->
-> seuraavin ehdoin:
->
-> - **Attribuutio** – Sinun on [määritettävä](https://en.wikipedia.org/wiki/Attribution_(copyright)) teos tekijän tai lisenssinantajan määrittelemällä tavalla (mutta ei millään tavalla, joka viittaa että he tukevat sinua tai sinun käyttöäsi.)
-> - **Share Alike** – Jos muutat, muunnat tai rakennat tätä teosta, voit jakaa tuloksena olevan työn vain samalla, samankaltaisella tai yhteensopivalla lisenssillä.
->
-> Ymmärtäen, että:
->
-> - **Lupaus**—Jos tahansa yllä olevista ehdoista voidaan luopua, jos saat luvan tekijänoikeuksien haltijalta.
-> - **Muut oikeudet** - Lisenssi ei millään tavalla vaikuta seuraaviin oikeuksiin:
-> - [reilun käytön](https://en.wikipedia.org/wiki/Fair_dealing) tai [reilun käytön](https://en.wikipedia.org/wiki/Fair_use) oikeutesi;
-> - tekijän [moraaliset oikeudet](https://en.wikipedia.org/wiki/Moral_rights); ja
-> - oikeudet, joita muilla henkilöillä voi olla joko itse teokseen tai teoksen käyttöön, kuten [julkisuus](https://en.wikipedia.org/wiki/Personality_rights) tai [yksityisyys](https://en.wikipedia.org/wiki/Privacy_law) oikeuksia.
-> - **Huomautus** — Uudelleenkäyttöä tai jakelua varten sinun on tehtävä selväksi muille tämän teoksen käyttöoikeusehdot. Paras tapa tehdä se on linkki osoitteeseen [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/)
-{.is-info}
+Tämä on ihmisen luettavissa oleva tiivistelmä [lisenssistä](/fi/help/full_license) (eikä korvaa sitä).
+
+<p style="text-align:center;"><b>Voit vapaasti:</b></p>
+
+- **Jakaa**—kopioida aineistoa ja levittää sitä edelleen missä tahansa välineessä ja muodossa
+- **Muunnella**—remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja
+missä tahansa tarkoituksessa, myös kaupallisesti.
+
+Lisenssinantaja ei voi peruuttaa näitä oikeuksia niin kauan kuin noudatat lisenssin ehtoja.
+
+---
+
+<p style="text-align:center;"><b>Seuraavilla ehdoilla:</b></p>
+
+- **Nimeä**—Sinun on mainittava lähde asianmukaisesti, tarjottava linkki lisenssiin sekä merkittävä, mikäli olet tehnyt muutoksia. Voit tehdä yllä olevan millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi.
+- **JaaSamoin**—Jos remiksaat tai muokkaat aineistoa taikka luot sen pohjalta uusia aineistoja, sinun on jaettava muutoksiasi samalla lisenssillä kuin alkuperäistä aineistoa.
+
+**Ei muita rajoituksia** — Et voi asettaa sellaisia oikeudellisia ehtoja tai teknisiä estoja, jotka estävät oikeudellisesti muita tekemästä mitään sellaista, minkä lisenssi sallii.
+
+---
+
+<p style="text-align:center;"><b>Huomautukset:</b></p>
+
+Sinun ei tarvitse noudattaa lisenssin ehtoja sellaisten aineiston osien osalta, jotka on asetettu vapaaseen yleiseen käyttöön (public domain), tai silloin, kun käyttösi on sallittua jonkin soveltuvan poikkeuksen tai rajoituksen nojalla.
+
+Mitään takuita ei anneta. Lisenssi ei välttämättä anna sinulle kaikkia käyttösi edellyttämiä oikeuksia. Esimerkiksi henkilön oikeus määrätä nimensä, kuvansa tai henkilönsä muun tunnistettavan osan kaupallisesta käytöstä, yksityisyyden suojaa koskevat oikeudet taikka moraaliset oikeudet voivat rajoittaa aineiston käyttöäsi.
+
 
 
 ### Rajoitukset
 
-Osa tämän sivuston sisällöstä on kopioitu eri tekijänoikeuksien haltijoiden luvalla tai se on julkista. Sivuston yleinen **CC-BY-SA-3.0** lisenssi ei koske tätä sisältöä.
+Osa tämän sivuston sisällöstä on kopioitu eri tekijänoikeuksien haltijoiden luvalla tai se on julkista. Sivuston yleinen **CC-BY-SA-4.0** lisenssi ei koske tätä sisältöä.
 
 Tekijänoikeuksista johtuvia rajoituksia sisältävä sisältö tunnistetaan kunkin sivun otsikossa olevasta [tekijänoikeusilmoituksesta](https://en.wikipedia.org/wiki/Copyright_notice).
 
@@ -57,12 +61,12 @@ Tekijänoikeuksista johtuvia rajoituksia sisältävä sisältö tunnistetaan kun
 
 - Urantia-kirja (kaikki englanninkieliset käännökset) on [Urantia-säätiön](https://www.urantia.org/) tekijänoikeus.
 - _Paramony_, Raamatun ja _Urantia-kirjan_ välinen ristiviittaushakemisto, joka näkyy alaviitteinä _Urantia-kirjassa_ ja Raamatun sivuilla (kaikilla kielillä), on [Duane L. Faw and The Urantia Book Fellowshipin](https://urantia-book.org/urantiabook/paramony/) tekijänoikeus.
-- [Innerface Internationalin](/fi/index/articles#innerface-international) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin] (https://urantiabook.org/) tekijänoikeuksiin.
-- [Urantian Journalin](/fi/index/articles#urantian-journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
-- [Followship Journalin](/fi/index/articles#fellowship-journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
-- [Fellowship Heraldin](/fi/index/articles#fellowship-herald) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [Innerface Internationalin](/fi/index/articles_innerface) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin] (https://urantiabook.org/) tekijänoikeuksiin.
+- [Urantian Journalin](/fi/index/articles_the_urantian) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [Followship Journalin](/fi/index/articles_spirtual_fellowship_journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [Fellowship Heraldin](/fi/index/articles_herald) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
 - [UB Annotated & UBTheNews](/fi/index/articles#ub-annotaded-ubthenews) artikkelit (kaikilla kielillä) ovat [Halbert Katzenin](https://ubannotated.com/) tekijänoikeuksia.
-- [Jan Hercan](/fi/index/articles#articles-from-jan-herca) artikkelit (kaikilla kielillä) ovat [Jan Hercan](https://buscandoajesus.wordpress.com) tekijänoikeuksia ja ne ovat saatavilla osoitteessa [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+- [Jan Hercan](/fi/index/articles#articles-from-jan-herca) artikkelit (kaikilla kielillä) ovat [Jan Hercan](https://buscandoajesus.wordpress.com) tekijänoikeuksia ja ne ovat saatavilla osoitteessa [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Muut artikkelit, jotka eivät kuulu aikaisempiin ryhmiin (kaikilla kielillä), ovat ilmoitettujen tekijöiden tekijänoikeuksia.
 - [William S. Sadler](/fi/article/William_S_Sadler) ja [William S. Sadler Jr.](/fi/article/William_S_Sadler_Jr) (kaikilla kielillä) ovat [Urantia Foundationin] tekijänoikeuksia (https: //www.urantia.org/).
 - Muut oppimateriaalit, jotka eivät kuulu aikaisempiin ryhmiin (kaikilla kielillä), ovat merkittyjen tekijöiden tekijänoikeuksia.
@@ -72,66 +76,66 @@ Tekijänoikeuksista johtuvia rajoituksia sisältävä sisältö tunnistetaan kun
 
 - Urantia-kirja (englanniksi) on julkisessa käytössä vuodesta 2006.
 - Raamattu, kaikki käytetyt käännökset, ovat julkisessa käytössä olevista versioista. Kullekin kielelle käytetyn Public Domain -version tiedot löytyvät jokaisen Raamattukirjan etusivulta.
-- Kirjat, jotka on lueteltu [Urantia-kirjan oletetuiksi lähteiksi](/fi/book#books-supposed-to-be-sources), ovat kaikki englanniksi ja julkisessa käytössä. Tarjotut käännökset ovat saatavilla sivuston yleisen CC-BY-SA-3.0 -lisenssin alaisena.
+- Kirjat, jotka on lueteltu [Urantia-kirjan oletetuiksi lähteiksi](/fi/book#books-supposed-to-be-sources), ovat kaikki englanniksi ja julkisessa käytössä. Tarjotut käännökset ovat saatavilla sivuston yleisen CC-BY-SA-4.0 -lisenssin alaisena.
 - Jotkut _Urantia-kirjan_ kuvitukset ovat julkisessa käytössä.
 
 ### Käyttöehdot
 
-> Tämä on ihmisen luettavissa oleva tiivistelmä käyttöehdoista. Voit lukea täydelliset ehdot täältä: [Käyttöehdot](/fi/help/terms_of_use).
->
-> <small>Vastuuvapauslauseke: Tämä yhteenveto ei ole osa käyttöehtoja, eikä se ole laillinen asiakirja. Se on yksinkertaisesti kätevä viite kaikkien ehtojen ymmärtämiseen. Ajattele sitä käyttäjäystävällisenä käyttöliittymänä käyttöehtojemme laillisen kielen kanssa.</small>
->
-> **Osa tehtäväämme on:**
-> - **Apua *Urantia-kirjan*** ilmoitusten levittämiseen kaikkialla maailmassa.
-> - **Paranna ymmärrystä** *Urantia-kirjan* opetuksista.
-> -**Linkitä suurin osa Urantia-ilmoituksesta saatavilla olevasta nykytiedosta**.
->
-> **Voit vapaasti**:
-> - **Lue ja tulosta** artikkelimme ja muut tiedotusvälineet ilmaiseksi.
-> - **Jaa ja käytä uudelleen** artikkeleitamme ja muuta mediaa ilmaisilla ja avoimilla lisensseillä.
-> - **Osallistu ja muokkaa** verkkosivustoamme.
->
-> **Seuraavilla ehdoilla**:
-> - **Vastuu** – Otat vastuun muokkauksistasi (koska me vain _isännöimme_ sisältöäsi).
-> - **Civility** – Tuet siviiliympäristöä etkä kiusaa muita käyttäjiä.
-> - **Laillinen toiminta** - Et riko tekijänoikeuksia tai muita lakeja.
-> - **No Harm** – Et vahingoita teknologiainfrastruktuuriamme.
-> - **Käyttöehdot ja -käytännöt** – Noudatat alla olevia käyttöehtoja ja sovellettavia käytäntöjä vieraillessasi Urantiapediassa.
->
-> **Ymmärtäen, että**:
-> - **Lisensoi lahjoituksesi vapaasti** – yleensä sinun on lisensoitava Urantiapediaan tekemäsi julkaisut ja muokkaukset ilmaisella ja avoimella lisenssillä (ellei lahjoituksesi ole julkista).
-> - **Ei ammattiapua** – artikkeleiden sisältö on tarkoitettu vain henkiseen valaistukseen, eikä se ole ammattiapua.
-{.is-info}
+Tämä on ihmisen luettavissa oleva tiivistelmä käyttöehdoista. Voit lukea täydelliset ehdot täältä: [Käyttöehdot](/fi/help/terms_of_use).
+
+<small>Vastuuvapauslauseke: Tämä yhteenveto ei ole osa käyttöehtoja, eikä se ole laillinen asiakirja. Se on yksinkertaisesti kätevä viite kaikkien ehtojen ymmärtämiseen. Ajattele sitä käyttäjäystävällisenä käyttöliittymänä käyttöehtojemme laillisen kielen kanssa.</small>
+
+**Osa tehtäväämme on:**
+- **Apua *Urantia-kirjan*** ilmoitusten levittämiseen kaikkialla maailmassa.
+- **Paranna ymmärrystä** *Urantia-kirjan* opetuksista.
+-**Linkitä suurin osa Urantia-ilmoituksesta saatavilla olevasta nykytiedosta**.
+
+**Voit vapaasti**:
+- **Lue ja tulosta** artikkelimme ja muut tiedotusvälineet ilmaiseksi.
+- **Jaa ja käytä uudelleen** artikkeleitamme ja muuta mediaa ilmaisilla ja avoimilla lisensseillä.
+- **Osallistu ja muokkaa** verkkosivustoamme.
+
+**Seuraavilla ehdoilla**:
+- **Vastuu** – Otat vastuun muokkauksistasi (koska me vain _isännöimme_ sisältöäsi).
+- **Civility** – Tuet siviiliympäristöä etkä kiusaa muita käyttäjiä.
+- **Laillinen toiminta** - Et riko tekijänoikeuksia tai muita lakeja.
+- **No Harm** – Et vahingoita teknologiainfrastruktuuriamme.
+- **Käyttöehdot ja -käytännöt** – Noudatat alla olevia käyttöehtoja ja sovellettavia käytäntöjä vieraillessasi Urantiapediassa.
+
+**Ymmärtäen, että**:
+- **Lisensoi lahjoituksesi vapaasti** – yleensä sinun on lisensoitava Urantiapediaan tekemäsi julkaisut ja muokkaukset ilmaisella ja avoimella lisenssillä (ellei lahjoituksesi ole julkista).
+- **Ei ammattiapua** – artikkeleiden sisältö on tarkoitettu vain henkiseen valaistukseen, eikä se ole ammattiapua.
+
 
 
 ### Tietosuojakäytäntö
 
-> Tämä on tiivistelmä tietosuojakäytännöstä. Lue täydelliset ehdot [klikkaa tästä](/fi/help/privacy_policy).
->
-> <small>Vastuuvapauslauseke: Tämä tiivistelmä ei ole osa tietosuojakäytäntöä eikä oikeudellinen asiakirja. Se on yksinkertaisesti kätevä viite koko tietosuojakäytännön ymmärtämiseen. Ajattele sitä käyttäjäystävällisenä käyttöliittymänä tietosuojakäytäntöömme.</small>
->
-> **Koska mielestämme sinun ei tarvitse antaa henkilökohtaisia ​​tietoja osallistuaksesi vapaaseen tietoliikkeeseen, mutta haluamme varmistaa, että sisällöntuottajat ovat luotettavia ihmisiä, voit:**
-> - Lue mitä tahansa sisältöä rekisteröimättä tiliä.
-> - Pyydä rekisteröintiä avustajatilille, joka sisältää todellisia tietoja, joiden avulla voidaan varmistaa avustajan luotettavuus.
->
-> **Koska haluamme ymmärtää, miten Urantiapediaa käytetään, jotta voimme tehdä siitä sinulle paremman, keräämme tietoja, kun:**
-> - Anna julkisia lahjoituksia.
-> - Pyydä rekisteröintiä maksutilille.
-> - Käytä Urantiapediaa.
->
-> **Olemme sitoutuneet:**
-> - Tässä tietosuojakäytännössä kuvataan, kuinka tietojasi voidaan käyttää tai jakaa.
-> - Käytä kohtuullisia toimenpiteitä tietojesi suojaamiseksi.
-> - Älä koskaan myy tietojasi tai jaa niitä kolmansille osapuolille markkinointitarkoituksiin.
-> - Tietojesi jakaminen vain rajoitetuissa olosuhteissa, kuten Urantiapedian parantamiseksi, lain noudattamiseksi tai sinun ja muiden suojelemiseksi.
-> - Tietojesi säilyttäminen mahdollisimman lyhyen ajan, mikä on johdonmukaista Urantiapedian ylläpidon, ymmärtämisen ja parantamisen sekä sovellettavan lain mukaisten velvoitteidemme kanssa.
->
-> **Ole tietoinen:**
-> - Kaikki Urantiapediaan lisäämäsi sisältö tai tekemäsi muutokset ovat julkisesti ja pysyvästi saatavilla.
-> - Urantiapedian ylläpitäjillämme on työkaluja, jotka antavat heille rajoitetun pääsyn ei-julkisiin tietoihin viimeaikaisista kirjoituksista, jotta he voivat suojata Urantiapediaa ja valvoa käytäntöjen noudattamista.
-> - Osana sitoutumistamme osoittaa sitoutumistamme Urantiapedia-projektiin julkaisemme ajoittain julkista tietoa ja koostettua tai ei-henkilökohtaista tietoa suurelle yleisölle datavedosten ja tietokokonaisuuksien kautta.
-> - Urantiapedian ja muiden käyttäjien suojelemiseksi, jos et hyväksy tätä tietosuojakäytäntöä, et saa käyttää Urantiapediaa.
-{.is-info}
+Tämä on tiivistelmä tietosuojakäytännöstä. Lue täydelliset ehdot [klikkaa tästä](/fi/help/privacy_policy).
+
+<small>Vastuuvapauslauseke: Tämä tiivistelmä ei ole osa tietosuojakäytäntöä eikä oikeudellinen asiakirja. Se on yksinkertaisesti kätevä viite koko tietosuojakäytännön ymmärtämiseen. Ajattele sitä käyttäjäystävällisenä käyttöliittymänä tietosuojakäytäntöömme.</small>
+
+**Koska mielestämme sinun ei tarvitse antaa henkilökohtaisia ​​tietoja osallistuaksesi vapaaseen tietoliikkeeseen, mutta haluamme varmistaa, että sisällöntuottajat ovat luotettavia ihmisiä, voit:**
+- Lue mitä tahansa sisältöä rekisteröimättä tiliä.
+- Pyydä rekisteröintiä avustajatilille, joka sisältää todellisia tietoja, joiden avulla voidaan varmistaa avustajan luotettavuus.
+
+**Koska haluamme ymmärtää, miten Urantiapediaa käytetään, jotta voimme tehdä siitä sinulle paremman, keräämme tietoja, kun:**
+- Anna julkisia lahjoituksia.
+- Pyydä rekisteröintiä maksutilille.
+- Käytä Urantiapediaa.
+
+**Olemme sitoutuneet:**
+- Tässä tietosuojakäytännössä kuvataan, kuinka tietojasi voidaan käyttää tai jakaa.
+- Käytä kohtuullisia toimenpiteitä tietojesi suojaamiseksi.
+- Älä koskaan myy tietojasi tai jaa niitä kolmansille osapuolille markkinointitarkoituksiin.
+- Tietojesi jakaminen vain rajoitetuissa olosuhteissa, kuten Urantiapedian parantamiseksi, lain noudattamiseksi tai sinun ja muiden suojelemiseksi.
+- Tietojesi säilyttäminen mahdollisimman lyhyen ajan, mikä on johdonmukaista Urantiapedian ylläpidon, ymmärtämisen ja parantamisen sekä sovellettavan lain mukaisten velvoitteidemme kanssa.
+
+**Ole tietoinen:**
+- Kaikki Urantiapediaan lisäämäsi sisältö tai tekemäsi muutokset ovat julkisesti ja pysyvästi saatavilla.
+- Urantiapedian ylläpitäjillämme on työkaluja, jotka antavat heille rajoitetun pääsyn ei-julkisiin tietoihin viimeaikaisista kirjoituksista, jotta he voivat suojata Urantiapediaa ja valvoa käytäntöjen noudattamista.
+- Osana sitoutumistamme osoittaa sitoutumistamme Urantiapedia-projektiin julkaisemme ajoittain julkista tietoa ja koostettua tai ei-henkilökohtaista tietoa suurelle yleisölle datavedosten ja tietokokonaisuuksien kautta.
+- Urantiapedian ja muiden käyttäjien suojelemiseksi, jos et hyväksy tätä tietosuojakäytäntöä, et saa käyttää Urantiapediaa.
+
 
 ### Vastuuvapauslausekkeet
 
@@ -151,7 +155,7 @@ Kukaan avustajista, sponsoreista, ylläpitäjistä tai kukaan muu, joka on mill�
 
 Varmista, että ymmärrät, että tässä annetut tiedot annetaan vapaasti ja että sinun ja tämän sivuston omistajien tai käyttäjien, niiden palvelimien omistajien, joilla se sijaitsee, välillä ei luoda minkäänlaista sopimusta tai sopimusta. Urantiapedian avustajat, projektin ylläpitäjät, sysopit tai kaikki muut, jotka ovat millään tavalla yhteydessä tähän projektiin, ovat suoraan heiltä kohdistuvia vaateita. Sinulle myönnetään rajoitettu lupa kopioida mitä tahansa tältä sivustolta; se ei aiheuta Urantiapedian tai sen edustajien, jäsenten, järjestäjien tai muiden käyttäjien sopimukseen perustuvaa tai sopimuksenulkoista vastuuta tai tarkoita sitä.
 
-Sinun ja Urantiapedian välillä ei ole sopimusta tai yhteisymmärrystä näiden tietojen käytöstä tai muuttamisesta Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA) ulkopuolella; Kukaan Urantiapediassa ei myöskään ole vastuussa, jos joku muuttaisi, muokkaa, muokkaa tai poista tietoja, joita saatat lähettää Urantiapediaan tai siihen liittyviin projekteihin.
+Sinun ja Urantiapedian välillä ei ole sopimusta tai yhteisymmärrystä näiden tietojen käytöstä tai muuttamisesta Creative Commons Attribution-Sharealike 4.0 Unported License (CC-BY-SA) ulkopuolella; Kukaan Urantiapediassa ei myöskään ole vastuussa, jos joku muuttaisi, muokkaa, muokkaa tai poista tietoja, joita saatat lähettää Urantiapediaan tai siihen liittyviin projekteihin.
 
 #### Tavaramerkit
 

@@ -29,7 +29,7 @@ Herkesin (yalnızca avukatlar değil) bilgilerinin nasıl ve neden toplanıp kul
 dediğimizde… | …şunları kastediyoruz: 
 --- | --- 
 "Urantiapedia" / "biz" / "bize" / "bizim" | Urantiapedia projesinin ekip liderleri.
-"Urantiapedia sitesi" / "hizmetlerimiz" | Urantiapedia projesinin [ana Urantiapedia web sitesi](https://urantiapedia.org) (https://urantiapedia.org) (https://urantiapedia.org) ve GitHub'daki ([Urantiapedia Main projesi](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) ve [Urantiapedia Yedekleme projesi](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), ayrıca Uygulama Programlama Arayüzleri (API'ler), e-postalar ve bildirimler; ancak aşağıdaki "Bu Gizlilik Politikasının Kapsamına Girmeyenler" bölümünde listelenen siteler ve hizmetler hariçtir.
+"Urantiapedia sitesi" / "hizmetlerimiz" | Urantiapedia projesinin [ana Urantiapedia web sitesi](https://urantiapedia.org) (https://urantiapedia.org) ve GitHub'daki ([Urantiapedia Main projesi](https://github.com/JanHerca/urantiapedia) ve [Urantiapedia Yedekleme projesi](https://github.com/JanHerca/urantiapedia-backup)), ayrıca Uygulama Programlama Arayüzleri (API'ler), e-postalar ve bildirimler; ancak aşağıdaki "Bu Gizlilik Politikasının Kapsamına Girmeyenler" bölümünde listelenen siteler ve hizmetler hariçtir.
 "siz" / "sizin" / "ben" | Bir birey, grup veya kuruluş olmanızdan bağımsız olarak ve Urantiapedia'yı veya hizmetlerimizi kendiniz veya bir başkası adına kullanıp kullanmadığınıza bakılmaksızın siz.
 "Kişisel bilgiler" | Bize sağladığınız bilgiler veya sizin kişisel olarak kimliğinizi belirlemek için kullanılabilecek topladığımız bilgiler. Açık olmak gerekirse, aşağıdaki türdeki tüm bilgileri toplamamız gerekmese de, kamuya açık değilse ve sizi tanımlamak için kullanılabiliyorsa en azından aşağıdakileri "kişisel bilgi" olarak değerlendiriyoruz:<br/>(a) gerçek adınız, adresiniz, telefon numaranız, e-posta adresiniz, şifreniz, devlet tarafından verilen kimlik numaranız, IP adresiniz, kullanıcı aracısı bilgileriniz, ödeme hesap numaranız;<br/>(b) alt bölümdeki öğelerden biriyle ilişkilendirildiğinde (a), doğum tarihi, cinsiyet, cinsel yönelim, ırk veya etnik köken, medeni veya ailevi durum, tıbbi durumlar veya engeller, siyasi görüş ve din gibi hassas veriler.
 "üçüncü şahıs" / "üçüncü şahıslar" | Urantiapedia tarafından kontrol edilmeyen, yönetilmeyen veya işletilmeyen bireyler, kuruluşlar, web siteleri, hizmetler, ürünler ve uygulamalar. Bu, diğer Urantiapedia kullanıcılarını ve Urantia Kitabı organizasyonları gibi Urantiapedia hareketinin desteklenmesine yardımcı olan bağımsız organizasyonları veya grupları ve kullanıcı gruplarının yanı sıra bu organizasyonların veya grupların gönüllüleri, çalışanları, direktörleri, memurları, hibe alıcıları ve yüklenicilerini içerir. 
@@ -41,7 +41,7 @@ Aşağıda açıklananlar dışında, bu Gizlilik Politikası, Urantiapedia site
 
 Anlaşılır olması adına, bu Gizlilik Politikası dilden bağımsız olarak şunları kapsar: 
 
-- GitHub'daki alternatif kopyalarımız, [Urantiapedia Ana projesi](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) ve [Urantiapedia Yedekleme projesi](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- GitHub'daki alternatif kopyalarımız, [Urantiapedia Ana projesi](https://github.com/JanHerca/urantiapedia) ve [Urantiapedia Yedekleme projesi](https://github.com/JanHerca/urantiapedia-backup). 
 - API'lerimiz (bu hizmetler için ayrı bir politika sağlamadığımız sürece). 
 - Bizden veya sizden bize gönderilen e-postalar, SMS ve bildirimler.
 
@@ -209,4 +209,4 @@ Gizlilik Politikamızı okuduğunuz için teşekkür ederiz. Urantiapedia sitesi
 
 --- 
 
-[Lisans, Koşullar üzerinde özet içeren sayfaya geri dönün Kullanım ve diğer yasal bilgiler](/en/licence).
+[Lisans, Koşullar üzerinde özet içeren sayfaya geri dönün Kullanım ve diğer yasal bilgiler](/tr/licence).

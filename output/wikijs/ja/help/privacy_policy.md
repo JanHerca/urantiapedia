@@ -29,7 +29,7 @@ Urantiapedia 運動に参加するために、非公開の個人情報を提供�
 と言うと… | …つまり: 
 --- | --- 
 "Urantiapedia" / "私たち" / "私たち" / "私たちの" | Urantiapediaプロジェクトのチームリーダー。
-"Urantiapedia サイト" / "当社のサービス" | Urantiapedia プロジェクトの Urantiapedia Web サイトおよびサービス (言語に関係なく)。[メインの Urantiapedia Web サイト](https://urantiapedia.org) (https://urantiapedia.org)、および GitHub の代替コピー ([Urantiapedia Mainプロジェクト](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) および [Urantiapedia バックアップ プロジェクト](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup))、アプリケーション プログラミング インターフェイス (API)、電子メール、および通知。ただし、以下の「このプライバシー ポリシーの対象外」セクションに記載されているサイトおよびサービスは除きます。
+"Urantiapedia サイト" / "当社のサービス" | Urantiapedia プロジェクトの Urantiapedia Web サイトおよびサービス (言語に関係なく)。[メインの Urantiapedia Web サイト](https://urantiapedia.org)、および GitHub の代替コピー ([Urantiapedia Mainプロジェクト](https://github.com/JanHerca/urantiapedia) および [Urantiapedia バックアップ プロジェクト](https://github.com/JanHerca/urantiapedia-backup))、アプリケーション プログラミング インターフェイス (API)、電子メール、および通知。ただし、以下の「このプライバシー ポリシーの対象外」セクションに記載されているサイトおよびサービスは除きます。
 "あなた" / "あなたの" / "私" | あなたが個人、グループ、または組織であるかどうかに関係なく、またあなた自身または他の誰かに代わってUrantiapediaまたは当社のサービスを使用しているかどうかに関係なく、あなた.
 「個人情報」 | お客様が当社に提供する情報、または当社が収集する情報で、お客様を個人的に特定するために使用される可能性があるもの。明確にするために、以下の種類の情報のすべてを必ずしも収集するわけではありませんが、非公開であり、お客様を特定するために使用できる場合、少なくとも以下を「個人情報」と見なします。<br/>(a)お客様の実名、住所、電話番号、電子メール アドレス、パスワード、政府発行の ID の識別番号、IP アドレス、ユーザー エージェント情報、支払いアカウント番号。<br/>(b) サブセクションのいずれかの項目に関連付けられている場合(a) 生年月日、性別、性的指向、人種または民族的出身、婚姻または家族関係、病状または障害、政治的所属、宗教などの機密データ。
 "サードパーティ" / "サードパーティ" | Urantiapedia によって制御、管理、または運営されていない個人、団体、ウェブサイト、サービス、製品、およびアプリケーション。これには、他の Urantiapedia ユーザー、および Urantia Book 組織などの Urantiapedia の動きの促進を支援する独立した組織またはグループ、ユーザー グループ、およびこれらの組織またはグループのボランティア、従業員、取締役、役員、助成金受領者、請負業者が含まれます。
@@ -41,7 +41,7 @@ Urantiapedia 運動に参加するために、非公開の個人情報を提供�
 
 明確にするために、このプライバシー ポリシーは、言語に関係なく以下をカバーし
 
-ます。 ) (https://github.com/JanHerca/urantiapedia) および [Urantiapedia バックアップ プロジェクト](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+[ます](https://github.com/JanHerca/urantiapedia) および [Urantiapedia バックアップ プロジェクト](https://github.com/JanHerca/urantiapedia-backup). 
 - 当社の API (当社がこれらのサービスに対して個別のポリシーを提供している場合を除く)。
 - 当社から、またはお客様から当社に送信された電子メール、SMS、および通知。
 
@@ -209,4 +209,4 @@ Urantiapedia は組織ではなく、寄稿者のコミュニティによって�
 
 --- 
 
-[ライセンス、条件の概要を含むページに戻る]使用およびその他の法的情報](/en/license).
+[ライセンス、条件の概要を含むページに戻る](/ja/license)使用およびその他の法的情報.

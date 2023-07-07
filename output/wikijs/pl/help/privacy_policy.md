@@ -29,7 +29,7 @@ Ponieważ wszyscy (nie tylko prawnicy) powinni być w stanie łatwo zrozumieć, 
 Kiedy mówimy… | …mamy na myśli: 
 --- | --- 
 "Urantiapedia" / "my" / "nas" / "nasz" | Liderzy zespołu projektu Urantiapedia.
-"Witryna Urantiapedia" / "nasze usługi" | Witryna Urantiapedia i usługi (niezależnie od języka) projektu Urantiapedia, w tym [główna witryna Urantiapedia](https://urantiapedia.org) (https://urantiapedia.org) oraz alternatywne kopie w GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) i [Projekt kopii zapasowej Urantiapedia](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), a także interfejsy programowania aplikacji (API), wiadomości e-mail i powiadomienia; z wyłączeniem jednak witryn i usług wymienionych w sekcji „Czego nie obejmuje ta polityka prywatności” poniżej.
+"Witryna Urantiapedia" / "nasze usługi" | Witryna Urantiapedia i usługi (niezależnie od języka) projektu Urantiapedia, w tym [główna witryna Urantiapedia](https://urantiapedia.org) oraz alternatywne kopie w GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) i [Projekt kopii zapasowej Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)), a także interfejsy programowania aplikacji (API), wiadomości e-mail i powiadomienia; z wyłączeniem jednak witryn i usług wymienionych w sekcji „Czego nie obejmuje ta polityka prywatności” poniżej.
 "ty" / "twój" / "ja" | Ty, niezależnie od tego, czy jesteś osobą indywidualną, grupą czy organizacją, i niezależnie od tego, czy korzystasz z Urantiapedii lub naszych usług w imieniu swoim, czy kogoś innego.
 "Dane osobowe" | Informacje, które nam przekazujesz lub informacje, które zbieramy, które mogą zostać wykorzystane do osobistej identyfikacji użytkownika. Dla jasności, chociaż niekoniecznie zbieramy wszystkie poniższe rodzaje informacji, za „dane osobowe” uznajemy co najmniej następujące informacje, jeśli w inny sposób są one niepubliczne i można ich użyć do identyfikacji użytkownika:<br/>(a) Twoje prawdziwe imię i nazwisko, adres, numer telefonu, adres e-mail, hasło, numer identyfikacyjny dokumentu tożsamości wydanego przez organ państwowy, adres IP, informacje o kliencie użytkownika, numer konta płatniczego;<br/>(b) w przypadku powiązania z jedną z pozycji wymienionych w podsekcji (a) wszelkie wrażliwe dane, takie jak data urodzenia, płeć, orientacja seksualna, pochodzenie rasowe lub etniczne, stan cywilny lub rodzinny, stan zdrowia lub niepełnosprawność, przynależność polityczna i religia.
 „osoby trzecie” / „strony trzecie” | Osoby, podmioty, strony internetowe, usługi, produkty i aplikacje, które nie są kontrolowane, zarządzane ani obsługiwane przez Urantiapedię. Obejmuje to innych użytkowników Urantiapedii i niezależne organizacje lub grupy, które pomagają promować ruch Urantiapedii, takie jak organizacje Księgi Urantii i grupy użytkowników, a także wolontariuszy, pracowników, dyrektorów, urzędników, odbiorców grantów i kontrahentów tych organizacji lub grup. 
@@ -41,7 +41,7 @@ Z wyjątkiem przypadków wyjaśnionych poniżej, niniejsza Polityka Prywatności
 
 Dla jasności, niniejsza Polityka Prywatności obejmuje, niezależnie od języka: 
 
-- Nasze alternatywne kopie w GitHub, [Główny projekt Urantiapedia](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) i [projekt kopii zapasowej Urantiapedia](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Nasze alternatywne kopie w GitHub, [Główny projekt Urantiapedia](https://github.com/JanHerca/urantiapedia) i [projekt kopii zapasowej Urantiapedia](https://github.com/JanHerca/urantiapedia-backup). 
 - Nasze interfejsy API (chyba że udostępniliśmy oddzielną politykę dla tych usług). 
 - E-maile, SMS-y i powiadomienia od nas lub wysłane do nas od Ciebie.
 
@@ -209,4 +209,4 @@ Dziękujemy za zapoznanie się z naszą Polityką prywatności. Mamy nadzieję, 
 
 --- 
 
-Powrót do strony z podsumowaniem [Licencja, Warunki użytkowania i inne informacje prawne](/en/license).
+Powrót do strony z podsumowaniem [Licencja, Warunki użytkowania i inne informacje prawne](/pl/license).

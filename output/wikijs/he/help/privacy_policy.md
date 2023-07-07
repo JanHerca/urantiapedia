@@ -29,7 +29,7 @@ Urantiapedia מושתתת על עיקרון פשוט אך רב עוצמה: אנ�
 כשאנחנו אומרים... | ...אנחנו מתכוונים: 
 --- | --- 
 "Urantiapedia" / "אנחנו" / "אנחנו" / "שלנו" | ראשי הצוותים של פרויקט Urantiapedia.
-"אתר Urantiapedia" / "השירותים שלנו" | אתר Urantiapedia ושירותים (ללא קשר לשפה) של פרויקט Urantiapedia, כולל [אתר Urantiapedia הראשי](https://urantiapedia.org) (https://urantiapedia.org), והעותקים החלופיים ב-GitHub ([Urantiapedia Main פרויקט](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) ו[פרויקט גיבוי Urantiapedia](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), כמו גם ממשקי תכנות יישומים (APIs), מיילים והודעות; עם זאת, למעט אתרים ושירותים המפורטים בסעיף "מה מדיניות הפרטיות הזו אינה מכסה" להלן.
+"אתר Urantiapedia" / "השירותים שלנו" | אתר Urantiapedia ושירותים (ללא קשר לשפה) של פרויקט Urantiapedia, כולל [אתר Urantiapedia הראשי](https://urantiapedia.org), והעותקים החלופיים ב-GitHub ([Urantiapedia Main פרויקט](https://github.com/JanHerca/urantiapedia) ו[פרויקט גיבוי Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)), כמו גם ממשקי תכנות יישומים (APIs), מיילים והודעות; עם זאת, למעט אתרים ושירותים המפורטים בסעיף "מה מדיניות הפרטיות הזו אינה מכסה" להלן.
 "אתה" / "שלך" / "אני" | אתה, ללא קשר אם אתה יחיד, קבוצה או ארגון, ובלי קשר אם אתה משתמש ב-Urantiapedia או בשירותים שלנו בשם עצמך או מישהו אחר.
 "מידע אישי" | מידע שאתה מספק לנו או מידע שאנו אוספים שיכול לשמש כדי לזהות אותך באופן אישי. ליתר דיוק, למרות שאיננו בהכרח אוספים את כל סוגי המידע הבאים, אנו רואים לפחות את הפרטים הבאים כ"מידע אישי" אם הוא אינו פומבי וניתן להשתמש בו כדי לזהות אותך:<br/>(א) שמך האמיתי, הכתובת, מספר הטלפון, כתובת הדוא"ל, הסיסמה, מספר הזיהוי שלך בתעודה מזהה שהונפקה על ידי הממשלה, כתובת ה-IP, פרטי סוכן המשתמש, מספר חשבון התשלום;<br/>(ב) כאשר משויכים לאחד מהפריטים בסעיף קטן (א), כל מידע רגיש כגון תאריך לידה, מין, נטייה מינית, מוצא גזעי או אתני, מצב משפחתי או משפחתי, מצבים רפואיים או מוגבלויות, השתייכות פוליטית ודת.
 "צד שלישי" / "צד שלישי" | אנשים, ישויות, אתרי אינטרנט, שירותים, מוצרים ואפליקציות שאינם נשלטים, מנוהלים או מופעלים על ידי Urantiapedia. זה כולל משתמשים אחרים של Urantiapedia וארגונים או קבוצות עצמאיים המסייעים בקידום תנועת Urantiapedia כגון ארגונים של Urantiapedia וקבוצות משתמשים וכן מתנדבים, עובדים, מנהלים, קצינים, מקבלי מענקים וקבלנים של אותם ארגונים או קבוצות. 
@@ -41,7 +41,7 @@ Urantiapedia מושתתת על עיקרון פשוט אך רב עוצמה: אנ�
 
 שמכסה מדיניות פרטיות זו למען הבהירות, מדיניות פרטיות זו מכסה, ללא קשר לשפה: 
 
-- העותקים החלופיים שלנו ב-GitHub, [הפרויקט הראשי של Urantiapedia](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) ו[פרויקט גיבוי Urantiapedia](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- העותקים החלופיים שלנו ב-GitHub, [הפרויקט הראשי של Urantiapedia](https://github.com/JanHerca/urantiapedia) ו[פרויקט גיבוי Urantiapedia](https://github.com/JanHerca/urantiapedia-backup). 
 - ממשקי ה-API שלנו (אלא אם כן סיפקנו מדיניות נפרדת עבור שירותים אלה). 
 - מיילים, SMS והתראות מאיתנו או שנשלחו אלינו ממך.
 
@@ -209,4 +209,4 @@ Urantiapedia אינו ארגון אלא פרויקט פשוט שנוצר על י
 
 --- 
 
-חזור לדף עם סיכום בנושא [רישיון, תנאים של שימוש ומידע משפטי אחר](/en/license).
+חזור לדף עם סיכום בנושא [רישיון, תנאים של שימוש ומידע משפטי אחר](/he/license).

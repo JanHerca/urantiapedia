@@ -29,7 +29,7 @@ Fordi alle (ikke kun advokater) nemt skal kunne forstå, hvordan og hvorfor dere
 Når vi siger... | …vi mener: 
 --- | --- 
 "Urantiapedia" / "vi" / "os" / "vores" | Teamlederne for Urantiapedia-projektet.
-"Urantiapedia site" / "vores tjenester" | Urantiapedia-webstedet og -tjenester (uanset sprog) for Urantiapedia-projektet, herunder [primær Urantiapedia-websted](https://urantiapedia.org) (https://urantiapedia.org) og de alternative kopier i GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) (https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup) ( https://github.com/JanHerca/urantiapedia-backup)), samt Application Programming Interfaces (API'er), e-mails og meddelelser; dog med undtagelse af websteder og tjenester, der er anført i afsnittet "Hvad denne privatlivspolitik ikke dækker" nedenfor.
+"Urantiapedia site" / "vores tjenester" | Urantiapedia-webstedet og -tjenester (uanset sprog) for Urantiapedia-projektet, herunder [primær Urantiapedia-websted](https://urantiapedia.org) og de alternative kopier i GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup)), samt Application Programming Interfaces (API'er), e-mails og meddelelser; dog med undtagelse af websteder og tjenester, der er anført i afsnittet "Hvad denne privatlivspolitik ikke dækker" nedenfor.
 "dig" / "din" / "mig" | Dig, uanset om du er en enkeltperson, gruppe eller organisation, og uanset om du bruger Urantiapedia eller vores tjenester på vegne af dig selv eller en anden.
 "Personlige oplysninger" | Oplysninger, du giver os, eller oplysninger, vi indsamler, som kan bruges til at identificere dig personligt. For at være klar, selvom vi ikke nødvendigvis indsamler alle de følgende typer oplysninger, anser vi i det mindste følgende for at være "personlige oplysninger", hvis de ellers er ikke-offentlige og kan bruges til at identificere dig:<br/>(a) dit rigtige navn, adresse, telefonnummer, e-mailadresse, adgangskode, identifikationsnummer på offentligt udstedt ID, IP-adresse, brugeragentoplysninger, betalingskontonummer;<br/>(b) når det er forbundet med et af punkterne i underafsnit (a), alle følsomme data såsom fødselsdato, køn, seksuel orientering, race eller etnisk oprindelse, ægteskabelig eller familiær status, medicinske tilstande eller handicap, politisk tilhørsforhold og religion.
 "tredje part" / "tredje part" | Enkeltpersoner, enheder, websteder, tjenester, produkter og applikationer, der ikke kontrolleres, administreres eller drives af Urantiapedia. Dette inkluderer andre Urantiapedia-brugere og uafhængige organisationer eller grupper, der hjælper med at fremme Urantiapedia-bevægelsen, såsom Urantia Book-organisationer, og brugergrupper såvel som frivillige, ansatte, direktører, officerer, bevillingsmodtagere og kontrahenter for disse organisationer eller grupper. 
@@ -41,7 +41,7 @@ Bortset fra som forklaret nedenfor, gælder denne fortrolighedspolitik for vores
 
 For overskuelighedens skyld dækker denne privatlivspolitik, uanset sprog: 
 
-- Vores alternative kopier i GitHub, [Urantiapedia hovedprojekt](https://github.com/JanHerca/urantiapedia ) (https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup) (https://github.com/JanHerca/urantiapedia-backup) . 
+- Vores alternative kopier i GitHub, [Urantiapedia hovedprojekt](https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup). 
 - Vores API'er (medmindre vi har angivet en separat politik for disse tjenester). 
 - E-mails, SMS og notifikationer fra os eller sendt til os fra dig.
 
@@ -209,4 +209,4 @@ Tak, fordi du læste vores privatlivspolitik. Vi håber, du nyder at bruge Urant
 
 --- 
 
-Vend tilbage til siden med resumé om [Licens, Vilkår af brug og andre juridiske oplysninger](/en/license).
+Vend tilbage til siden med resumé om [Licens, Vilkår af brug og andre juridiske oplysninger](/da/license).
