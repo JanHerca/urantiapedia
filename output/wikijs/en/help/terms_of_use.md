@@ -32,6 +32,7 @@ We ask that you review the terms of our [Privacy Policy](/en/help/privacy_policy
 ## 3. Content We Host
 
 You may find some material objectionable or erroneous: Because we provide a wide array of spiritual and religious content that is produced or gathered by _Urantia Book_ readers, you may encounter material that you find offensive, erroneous, misleading, mislabeled, or otherwise objectionable. We therefore ask that you use common sense and proper judgment when using our services.
+
 Our content is for spiritual enlightenment purposes only: We do not host at all information that pertains to professional topics, including medical, legal, or financial issues. No content should be taken as professional advice.
 
 ## 4. Refraining from Certain Activities

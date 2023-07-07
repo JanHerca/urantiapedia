@@ -209,4 +209,4 @@ Gracias por leer nuestra Política de privacidad. Esperamos que disfrute usando 
 
 --- 
 
-Volver a la página con el resumen de [Licencia, Términos de Uso y otra información legal](/es/licencia).
+Volver a la página con el resumen de [Licencia, Términos de Uso y otra información legal](/es/license).

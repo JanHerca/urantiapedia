@@ -22,7 +22,7 @@ Identificador abreviado de la licencia: **CC-BY-SA-4.0**
 
 #### Texto de Creative Commons
 
-Este es un resumen legible por humanos de (y no un sustituto de) la [licencia] (/es/help/full_license).
+Este es un resumen legible por humanos de (y no un sustituto de) la [licencia](/es/help/full_license).
 
 <p style="text-align:center;"><b>Usted es libre de:</b></p>
 

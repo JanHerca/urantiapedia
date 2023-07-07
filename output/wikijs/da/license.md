@@ -68,7 +68,7 @@ Indholdet med begrænsninger på grund af ophavsret er identificeret af en [opha
 - Artikler fra [UB Annotated & UBTheNews](/da/index/articles#ub-annotaded-ubthenews) (på alle sprog) er copyright tilhørende [Halbert Katzen](https://ubannotated.com/).
 - Artikler fra [Jan Herca](/da/index/articles#articles-from-jan-herca) (på alle sprog) er copyright tilhørende [Jan Herca](https://buscandoajesus.wordpress.com) og er tilgængelige under [Creative Commons Attribution-ShareAlike-licensen](https://creativecommons.org/licenses/by-sa/4.0/).
 - Andre artikler, der ikke tilhører tidligere grupper (på alle sprog), er ophavsret til de angivne forfattere.
-- Studiehjælpemidler fra [William S. Sadler](/da/article/William_S_Sadler) og [William S. Sadler Jr.](/da/article/William_S_Sadler_Jr) (på alle sprog) er copyright tilhørende [Urantia Foundation](https: //www.urantia.org/).
+- Studiehjælpemidler fra [William S. Sadler](/da/article/William_S_Sadler) og [William S. Sadler Jr.](/da/article/William_S_Sadler_Jr) (på alle sprog) er copyright tilhørende [Urantia Foundation](https://www.urantia.org/).
 - Andre studiehjælpemidler, der ikke tilhører tidligere grupper (på alle sprog), er ophavsret til de angivne forfattere.
 - Nogle illustrationer til _The Urantia Book_ er copyright tilhørende [Gary Tonge](https://visionafar.com).
 
