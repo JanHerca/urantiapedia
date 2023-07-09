@@ -16,7 +16,7 @@ Boletín de la Asociación Urantia de España
 <img src="/image/article/Luz_y_Vida/LyV1/01.jpg">
 </figure>
 
-**EN ESTE NÚMERO:**
+## En Este Número:
 
 - Un panorama personal, de Santiago Rodríguez (segunda parte)
 - Los sustitutos, de varios autores
@@ -24,7 +24,7 @@ Boletín de la Asociación Urantia de España
 - Somos hijos del Supremo, de José A. Rodríguez Jorge
 
 
-**PRESENTACIÓN**
+## PRESENTACIÓN
 
 Queridos amigos: aquí tenéis el tercer número de nuestro boletín, con el año a punto de finalizar. Seguimos con la continuación del trabajo de Santi y con la segunda parte del artículo sobre el método de Moussa N’Diaye. También, como artículos «en diálogo», incluimos una serie de intercambio de opiniones y reflexiones nacidas alrededor de una pregunta: ¿por qué, en la organización de los universos, hay cargos o funciones en los que no hay sustitutos cuando aquellos que los desempeñan fallan en su cometido?
 
@@ -53,3 +53,7 @@ Correo electrónico: urantiaesp@gmail.com
 
 - Diseño y composición del boletín: Paco Ruiz
 - Diseño del logo: Xavier Francisco
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

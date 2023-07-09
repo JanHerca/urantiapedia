@@ -54,3 +54,7 @@ Ante esto es inevitable cuestionarse por la naturaleza del mal y su existencia. 
 Recordamos aquí las «inevitabilidades» del [documento 3, p.51](/es/The_Urantia_Book/3#p51). ¿Cómo podríamos crecer sin libre albedrío? Necesitamos capacidad de elección. En todo momento no podemos asumir las responsabilidades de otros, sino las nuestras. La necesidad, y no el bienestar, es lo que nos agudiza el ingenio.
 
 Comparándonos con los seres de Havona, podemos afirmar que éstos son perfectos por el amor **de** Dios, y los mortales ascendentes serán perfectos por el amor **a** Dios.
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

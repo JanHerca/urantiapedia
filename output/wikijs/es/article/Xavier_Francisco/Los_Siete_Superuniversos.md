@@ -173,3 +173,7 @@ El Libro emplea en ocasiones el término «galaxia», a veces identificándola c
 Podríamos decir como conclusión que el universo es inmenso y que está distribuido por un lado físicamente y por otra administrativamente, tal y como sucede análogamente en la Tierra. Pero aun así, a pesar de su inmensidad, nos encontramos al principio de la Creación. En la eternidad nos espera a todos un puesto de trabajo, muy probablemente en la creación inacabada del espacio exterior.
 
 Hay un propósito establecido de antemano en la creación. Los siete superuniversos serán el reino del Supremo; el espacio exterior será el reino del Último. ¿Cuál será el reino de Dios Absoluto?
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

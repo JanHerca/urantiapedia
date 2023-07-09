@@ -115,3 +115,7 @@ En España es muy significativa la lucha entre el laicismo y la Iglesia instituc
 En todo momento debemos fomentar la unidad, pero no la uniformidad. No hay que dogmatizar nuestras creencias ni nuestras costumbres, sino ir a la unión en el corazón. Las manifestaciones de nuestra religiosidad pueden ser diferentes, lo importante es sentirlas.
 
 El Libro nos fue revelado para preparar el terreno de una época futura. Por ello no tiene sentido hacer proselitismo agresivo en la actualidad. No somos nosotros quienes encontramos el Libro, sino que el Libro nos encuentra a nosotros. 
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

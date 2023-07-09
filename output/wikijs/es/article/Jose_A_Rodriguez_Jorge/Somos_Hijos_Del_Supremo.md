@@ -21,3 +21,7 @@ También Jesús lo deja claro en sus mandamientos: sed perfectos, como Dios en e
 <img src="/image/article/Luz_y_Vida/LyV3/01.jpg">
 <figcaption><em>Ilustración: Natalia Ruiz</em></figcaption>
 </figure>
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

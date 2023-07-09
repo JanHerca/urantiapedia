@@ -16,7 +16,7 @@ Boletín de la Asociación Urantia de España
 <img src="/image/article/Luz_y_Vida/LyV1/01.jpg">
 </figure>
 
-**EN ESTE NÚMERO:**
+## En Este Número:
 
 Temas tratados durante el V Encuentro de Lectores de _El Libro de Urantia_
 
@@ -28,6 +28,8 @@ Temas tratados durante el V Encuentro de Lectores de _El Libro de Urantia_
 - El Ser Supremo
 - Después de Pentecostés
 - La fe de Jesús
+
+## Presentación
 
 Queridos amigos: he aquí el primer número de nuestro boletín «Luz y vida». En este boletín queremos publicar, por un lado, trabajos originales en español relacionados con las enseñanzas de _El Libro de Urantia_ y, por otro, noticias relacionadas con el Libro en España.
 
@@ -57,3 +59,7 @@ http://www.auesp.org
 
 - Diseño y composición del boletín: Paco Ruiz
 - Diseño del logo: Xavier Francisco
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

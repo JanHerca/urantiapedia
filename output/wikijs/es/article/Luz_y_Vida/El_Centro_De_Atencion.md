@@ -39,7 +39,7 @@ Esta época universal que estamos viviendo es **distinta** a la era anterior de 
 
 Cuando uno se pregunta por qué tenemos que nacer así en este mundo dejado de la mano de Dios, en lugar de empezar nuestra existencia como otras órdenes de seres espirituales o semi-espirituales, que viven indefinidamente y no sufren tantas tribulaciones, uno tiene el sentimiento de que hay algo de injusticia en ello. Pero debe haber alguna buena razón. Cuando quieres hacer un buen rey, debería empezar por ser mendigo, e ir subiendo la escala social a fin de conocerlas bien todas para poder gobernar con extrema sabiduría y buen conocimiento de causa.
 
-_El Libro de Urantia_ nos dice: «_Al atravesar la escala ascendente de la existencia viviente desde el hombre mortal hasta el abrazo de la Deidad, vivís realmente la vida misma de **TODAS** las fases y etapas posibles de la existencia perfeccionada de las criaturas, dentro de los limites de la presente era del universo. Aquello que bay desde el hombre mortal hasta el finalitario del Paraiso abarca **TODO** lo que puede existir abora -engloba **TODO** lo que es posible actualmente para las órdenes vivientes de criaturas finitas inteligentes y perfeccionadas._» ([LU 48:8.4](/es/The_Urantia_Book/48#p8_4)).
+_El Libro de Urantia_ nos dice: «_Al atravesar la escala ascendente de la existencia viviente desde el hombre mortal hasta el abrazo de la Deidad, vivís realmente la vida misma de **TODAS** las fases y etapas posibles de la existencia perfeccionada de las criaturas, dentro de los limites de la presente era del universo. Aquello que hay desde el hombre mortal hasta el finalitario del Paraiso abarca **TODO** lo que puede existir abora -engloba **TODO** lo que es posible actualmente para las órdenes vivientes de criaturas finitas inteligentes y perfeccionadas._» ([LU 48:8.4](/es/The_Urantia_Book/48#p8_4)).
 
 > «_El universo local es ***el punto de partida*** para aquellas personalidades que se encuentran ***MÁS LEJOS*** de Dios, y que pueden experimentar asi ***EL MAYOR GRADO DE ASCENSIÓN ESPIRITUAL*** en el universo, pueden conseguir ***LA MÁXIMA PARTICIPACIÓN EXPERIENCIAL EN LA COCREACIÓN DE SÍ MISMAS***._» ([LU 116:4.11](/es/The_Urantia_Book/116#p4_11)).
 
@@ -120,3 +120,7 @@ Si en este mundo comenzamos por hacer las cosas lo mejor posible, tal y como lo 
 «Sólo amo una cosa: hacer bien lo que tengo que hacer», declaraba el dramaturgo Jean Anouilh. Es el impulso del buen artesano, del sabio investigador, del minucioso operario que no se contentan con faenas de aliño. El ideal de lo mejor es generalmente inalcanzable, pero eso no invalida la aspiración por las cosas bien hechas. El «despacito y buena letra / que el hacer las cosas bien / importa más que el hacerlas» no es para principiantes un prudente consejo, sino un desafío que atenaza alejándolos del objetivo que en teoría se pretende alcanzar.
 
 Tenemos que tomar el hábito de ser valientes y decididos, pero instruidos y sensatos. Nos esperan todo tipo de pruebas y debemos desarrollarlas sin dormirnos en los laureles.
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

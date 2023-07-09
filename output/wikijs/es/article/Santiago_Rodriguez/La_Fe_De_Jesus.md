@@ -134,3 +134,6 @@ La novela «Los hermanos Karamazov» nos muestra diferentes actitudes vitales an
 
 En el documento que trata sobre los atributos de Dios, en las «inevitabilidades», se alude a que «siempre se sabe menos de lo que se puede creer».
 
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

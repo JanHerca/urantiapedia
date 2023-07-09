@@ -54,3 +54,7 @@ No importa a quién se pide, sino la actitud interior al orar. Siempre recibimos
 Antes de abordar la oración en grupo (p.998) hay que mejorar nuestra oración individual. La oración en grupo tiene un efecto multiplicador de eficacia. Al llevarla a cabo no debemos tener miedo al ridículo ni dejarnos llevar por los prejuicios. A veces caemos en la tentación de intelectualizar demasiado el Libro, y tenemos miedo por ello a institucionalizar su contenido. La oración en grupo tiene una gran fuerza socializadora, pues da trascendencia al momento de la oración.
 
 En el documento que habla sobre el Hijo Eterno se habla sobre los espíritus afines, unidos por la gravedad espiritual, con los que la oración en grupo es todavía más eficaz.
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

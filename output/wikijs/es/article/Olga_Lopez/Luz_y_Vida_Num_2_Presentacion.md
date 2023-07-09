@@ -17,12 +17,14 @@ Boletín de la Asociación Urantia de España
 <img src="/image/article/Luz_y_Vida/LyV1/01.jpg">
 </figure>
 
-**EN ESTE NÚMERO:**
+## En Este Número:
 
 - Un panorama personal, de Santiago Rodríguez (primera parte)
 - El centro de atención, de varios autores
 -_El Libro de Urantia_ en África: relato de un viaje a Dakar, de Georges Michelson-Dupont
 - Encuentro del 14 de mayo de 1999 en Dakar (Senegal), primera parte, de Georges Michelson-Dupont
+
+## Presentación
 
 Queridos amigos: una vez pasado el período de vacaciones estivales, aquí tenéis el segundo número de nuestro boletín. El primer artículo trata sobre la integración de las enseñanzas del Libro en la experiencia personal. Los artículos que giran en torno al «centro de atención» son textos que «dialogan» entre ellos y resaltan sobre todo el papel de gran «escuela» que tienen los superuniversos y Havona, escuela que las Deidades han diseñado para permitirnos avanzar espiritualmente. Y, por último, quería destacar los dos artículos sobre el Encuentro del año 1999 en Dakar (Senegal), en el que se habla sobre Moussa N'Diaye y su método de difusión de las enseñanzas del Libro. Este método nos parece especialmente interesante de cara a llevarlo a la práctica en nuestro país.
 
@@ -51,3 +53,8 @@ Correo electrónico: urantiaesp@gmail.com
 
 - Diseño y composición del boletín: Paco Ruiz
 - Diseño del logo: Xavier Francisco
+
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

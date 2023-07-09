@@ -29,12 +29,17 @@ Jesús se interesaba por el individuo y a él se dirigía su enseñanza. Un sond
 
 La técnica de Moussa es universal: es la de Jesús. Ésta puede ser adaptada para cada uno de nosotros en función de las circunstancias, de las realidades religiosas, sociales y culturales, pero comporta invariablemente dos fases: primera, la preparación inteligente, amante y no invasora de la mente humana para recibir las verdades contenidas en estas enseñanzas; y segunda, su presentación posterior. El Ajustador Interior, el Espíritu de la Verdad y los ángeles asociados harán el resto.
 
-> «_...Pero sabemos que reside dentro de la mente bumana un fragmento de Dios y que permanece con el alma bumana el Espiritu de la Verdad; también sabemos que estas fuerzas espirituales se conjuran en facilitar al bombre material para que capte la realidad de los valores espirituales y entienda la filosofía de los significados universales. Pero con certeza aún mayor, sabemos que estos espíritus de la Presencia Divina son capaces de ayudar al hombre en la apropiación espiritual de toda verdad que contribuya al mejoramiento de la realidad en constante progreso de la experiencia religiosa personal - la conciencia de Dios._» [LU 0:12.13](/es/The_Urantia_Book/0#p12_13)
+> «_...Pero sabemos que reside dentro de la mente humana un fragmento de Dios y que permanece con el alma humana el Espiritu de la Verdad; también sabemos que estas fuerzas espirituales se conjuran en facilitar al bombre material para que capte la realidad de los valores espirituales y entienda la filosofía de los significados universales. Pero con certeza aún mayor, sabemos que estos espíritus de la Presencia Divina son capaces de ayudar al hombre en la apropiación espiritual de toda verdad que contribuya al mejoramiento de la realidad en constante progreso de la experiencia religiosa personal - la conciencia de Dios._» [LU 0:12.13](/es/The_Urantia_Book/0#p12_13)
 
 Se nos ha dado esta prueba a condición de que sea presentada inteligentemente, con respeto y amor; las enseñanzas de este libro pueden ser aceptadas por cualquier religión, en cualquier lugar del mundo, y liberar a las almas en tinieblas, cautivas de la esclavitud de las tradiciones y de las creencias.
 
-> Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanas del reino, que son las siguientes: conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad bumana mediante el reconocimiento sincero de la verdad. ‘Conoceréis la verdad y la verdad os hará libres’.» [LU 141:7.6](/es/The_Urantia_Book/141#p7_6)
+> Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanas del reino, que son las siguientes: conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. ‘Conoceréis la verdad y la verdad os hará libres’.» [LU 141:7.6](/es/The_Urantia_Book/141#p7_6)
 
 Al preguntarle a Fatou, una estudiante de Moussa, lo que _El Libro de Urantia_ le había aportado, nos respondió: «Me ha convertido en una mejor musulmana».
 
 Os invito a meditar sobre esta respuesta.
+
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

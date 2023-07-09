@@ -63,3 +63,7 @@ En el documento 117, [LU 117:7.12](/es/The_Urantia_Book/117#p7_12), se habla sob
 Nosotros tenemos una obligación para con el Supremo, y es la de desarrollar nuestros potenciales. Somos personalidades únicas e insustituibles. Si no elegimos sobrevivir, el Supremo experimentará un retraso en su desarrollo ([LU 117:4.2](/es/The_Urantia_Book/117#p4_2)). Cuando hacemos algo contra alguien vamos en contra de la unidad. Lo que una personalidad puede aportar no se pierde; los valores se mantienen en los ajustadores y en el Supremo, aunque lo potencial seguirá siendo potencial si no se desarrolla.
 
 Resulta inevitable preguntarse cómo serán los habitantes del espacio exterior, aunque poco nos podemos imaginar al respecto. Desde luego no tiene sentido decir que tendrán más privilegios que nosotros, o viceversa. Tampoco sabemos si existen o no; está claro que no existen en nuestro espacio-tiempo, en nuestra «burbuja», pero seguro que existen en su «burbuja» absonita, donde se trasciende el espacio y el tiempo.
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

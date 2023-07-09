@@ -3,7 +3,7 @@ title: "Un Panorama Personal (1ª Parte)"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Luz y Vida, article
+tags: Revelation, Religion, Science, Luz y Vida, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -124,3 +124,9 @@ Hemos llegado al punto de reconocer la existencia de dos aspectos de la realidad
 Aquí comienza el camino particular de cada individuo, de cada generación, de cada cultura, el asentar los postulados para cada uno de los aspectos de la realidad, desarrollar hasta el límite de su comprensión de éstos y establecer las relaciones que dentro de una lógica y de una coherencia permitan comprender y desarrollar la personalidad en constante interacción con la realidad total.
 
 **(Fin de la primera parte)**
+
+## Referencias
+
+- [Un panorama personal, Segunda parte](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_2a_Parte)
+- [Un panorama personal, Tercera parte](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

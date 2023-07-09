@@ -273,3 +273,7 @@ Los hombres y mujeres no subsistirán, no resistirán, no crearán, si no es en 
 La sesión se levantó a las 18:00 y fue seguida de la última reunión de los miembros del GREPS con nuestros invitados y hermanos espirituales.
 
 **Acta levantada por la Sta. Monique Ndiaye**
+
+## Referencias
+
+- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
