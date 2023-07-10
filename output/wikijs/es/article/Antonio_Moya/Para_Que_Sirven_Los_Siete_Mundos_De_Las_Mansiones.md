@@ -40,11 +40,11 @@ Sí, los mundos de las mansiones son «esferas compensatorias», unos mundos don
 
 > «_El desarrollo que se alcanza en la mansonia número dos es comparable con el nivel intelectual de la <ins>cultura posterior al Hijo Magistral</ins> en los mundos evolutivos ideales._» ([LU 47:4.8](/es/The_Urantia_Book/47#p4_8))
 
-> «_La cultura del tercer mundo de las mansiones comparte la naturaleza de <ins>la época posterior a la donación de un Hijo</ins> en un planeta babitado normal._» ([LU 47:5.3](/es/The_Urantia_Book/47#p5_3))
+> «_La cultura del tercer mundo de las mansiones comparte la naturaleza de <ins>la época posterior a la donación de un Hijo</ins> en un planeta habitado normal._» ([LU 47:5.3](/es/The_Urantia_Book/47#p5_3))
 
 > «_La cultura intelectual y social de este cuarto mundo de las mansiones se puede comparar con la vida mental y social de <ins>la época posterior al Hijo Instructor</ins> en los planetas que tienen una evolución normal._» ([LU 47:6.4](/es/The_Urantia_Book/47#p6_4))
 
-> «_La cultura de este mundo de las mansiones corresponde en general a la de <ins>la era inicial de luz y de vida</ins> en los planetas cuyo progreso evolutivo es normal. Esto os permitirá comprender por qué está planeado que los tipos de seres sumamente cultos y progresivos, que a veces babitan en esos mundos evolutivos avanzados, estén <ins>exentos de pasar</ins> por una o más, o incluso por todas las esferas de las mansiones._» ([LU 47:7.1](/es/The_Urantia_Book/47#p7_1))
+> «_La cultura de este mundo de las mansiones corresponde en general a la de <ins>la era inicial de luz y de vida</ins> en los planetas cuyo progreso evolutivo es normal. Esto os permitirá comprender por qué está planeado que los tipos de seres sumamente cultos y progresivos, que a veces habitan en esos mundos evolutivos avanzados, estén <ins>exentos de pasar</ins> por una o más, o incluso por todas las esferas de las mansiones._» ([LU 47:7.1](/es/The_Urantia_Book/47#p7_1))
 
 > «_Durante la estancia en el mundo número seis, los estudiantes de este mundo de las mansiones consiguen un estado comparable al del elevado desarrollo que caracteriza a aquellos mundos evolutivos que han progresado normalmente <ins>más allá de la etapa inicial de luz y de vida</ins>._» ([LU 47:8.7](/es/The_Urantia_Book/47#p8_7))
 
