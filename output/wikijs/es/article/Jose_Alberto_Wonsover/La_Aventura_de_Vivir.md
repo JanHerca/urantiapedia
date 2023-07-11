@@ -26,7 +26,7 @@ Es más,_El Libro de Urantia_ nos comenta al respecto sobre los monitores mister
 
 Incluso sobre la hermosa y extraordinaria guía de los serafines también se nos dice: «_Aceptar la guía de un serafín raramente significa conseguir una vida fácil. Al seguir esta guía, con seguridad encontrarás, y si tienes la valentía, atravesarás, las empinadas colinas de la elección moral y del progreso espiritual._» ([LU 113:4.3](/es/The_Urantia_Book/113#p4_3)) 
 
-Muchas veces los padres sabios saben no solamente educar a sus hijos sino que se han esforzado por brindarles un mejor porvenir. Así que el reto se hace menos pesado... ¡Por la sabiduría de los mismos padres! Pero muchas veces no sucede esto y las consecuencias las tienen los hijos, tal y como pasó con Adán y Eva: «_Los bijos inocentes, a menudo, comparten las consecuencias de los desatinos de sus padres descarriados._» ([LU 75:5.6](/es/The_Urantia_Book/75#p5_6)) 
+Muchas veces los padres sabios saben no solamente educar a sus hijos sino que se han esforzado por brindarles un mejor porvenir. Así que el reto se hace menos pesado... ¡Por la sabiduría de los mismos padres! Pero muchas veces no sucede esto y las consecuencias las tienen los hijos, tal y como pasó con Adán y Eva: «_Los hijos inocentes, a menudo, comparten las consecuencias de los desatinos de sus padres descarriados._» ([LU 75:5.6](/es/The_Urantia_Book/75#p5_6)) 
 
 Pero cuando los padres son sabios y consecuentes, como aquel hermoso episodio de Jesús cuando estuvo en las colinas con Juan Marcos, marca muy a menudo el proceder de ese pequeño. Para que al crecer no se «escape» de la vida... ¡Sino sencillamente que la sepa valorar!
 

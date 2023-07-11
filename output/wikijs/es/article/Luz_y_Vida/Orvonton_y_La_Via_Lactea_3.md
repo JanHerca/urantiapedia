@@ -99,7 +99,7 @@ De aquí se deduce que Urantia está a aproximadamente 1 / 3 de distancia de Uve
 
 > _Todos estos cálculos son a lo sumo aproximaciones, porque nuevos sistemas están evolucionando constantemente, mientras ***que otras organizaciones pasan temporalmente fuera de la existencia material***._ (¿Qué quiere decir esto?) [LU 15:2.12](/es/The_Urantia_Book/15#p2_12)
 
-> _Los astrónomos de Urantia ban identificado aproximadamente ocho de las diez divisiones mayores de Orvonton. Es dificil reconocer separadamente las otras dos porque estáis obligados a visualizar estos fenómenos desde el interior. Si pudierais observar el superuniverso de Orvonton desde una ubicación vastamente distante en el espacio, inmediatamente reconoceríais los diez. sectores principales de ***la séptima galaxia***._ [LU 15:3.4](/es/The_Urantia_Book/15#p3_4)
+> _Los astrónomos de Urantia han identificado aproximadamente ocho de las diez divisiones mayores de Orvonton. Es dificil reconocer separadamente las otras dos porque estáis obligados a visualizar estos fenómenos desde el interior. Si pudierais observar el superuniverso de Orvonton desde una ubicación vastamente distante en el espacio, inmediatamente reconoceríais los diez. sectores principales de ***la séptima galaxia***._ [LU 15:3.4](/es/The_Urantia_Book/15#p3_4)
 
 Es la primera vez que hace una similitud entre superuniverso y galaxia.
 
@@ -107,7 +107,7 @@ Es la primera vez que hace una similitud entre superuniverso y galaxia.
 
 Luego, con el tiempo, en nuestro universo local seremos del orden de 1000 x 100 x 100 mundos habitados. Es decir, aproximadamente 10^7^, 10 millones de mundos. Luego ¿podríamos hablar del orden de 100 millones de estrellas?
 
-> _En Nebadon la organización de las residencias planetarias sigue su curso. Este universo es en realidad un grupo joven entre los reinos estelares y planetarios de Orvonton. Según el último registro babia 3.840 .101 planetas habitados en Nebadon; y Satania, que es el sistema local de vuestro mundo, es relativamente típico respecto a otros sistemas._ [LU 32:2.9](/es/The_Urantia_Book/32#p2_9)
+> _En Nebadon la organización de las residencias planetarias sigue su curso. Este universo es en realidad un grupo joven entre los reinos estelares y planetarios de Orvonton. Según el último registro había 3.840 .101 planetas habitados en Nebadon; y Satania, que es el sistema local de vuestro mundo, es relativamente típico respecto a otros sistemas._ [LU 32:2.9](/es/The_Urantia_Book/32#p2_9)
 
 > _Satania no es un sistema físico uniforme, una unidad u organización astronómica única. Sus 619 mundos habitados están ubicados en más de quinientos sistemas físicos diferentes. Sólo cinco tienen más de dos mundos habitados, y de ellos solamente uno tiene cuatro planetas habitados, mientras que hay cuarentay seis con dos mundos habitados._ [LU 32:2.10](/es/The_Urantia_Book/32#p2_10)
 

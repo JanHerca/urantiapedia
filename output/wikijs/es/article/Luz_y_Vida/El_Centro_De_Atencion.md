@@ -21,7 +21,7 @@ Las preguntas que te haces son las que te llevan a investigar. La última pregun
 
 > «_Es muy natural que el hombre mortal se sienta acosado por ***sentimientos de inseguridad***..._»([LU 111:6.8](/es/The_Urantia_Book/111#p6_8)).
 
-> «_La incertidumbre en la seguridad es la esencia de la aventura hacia el Paraíso-incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraiso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del bijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como bijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso_». ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1)).
+> «_La incertidumbre en la seguridad es la esencia de la aventura hacia el Paraíso-incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraiso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del hijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como hijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso_». ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1)).
 
 > «_La bumanidad está diseñada para evolucionar mediante la técnica de la experiencia..._»([LU 106:9.8](/es/The_Urantia_Book/106#p9_8))
 
