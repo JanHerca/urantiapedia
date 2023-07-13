@@ -17,7 +17,7 @@ Luz y Vida núm.15- Diciembre 2008
 <img src="/image/article/Luz_y_Vida/LyV1/01.jpg">
 </figure>
 
-## en este número:
+## En este número:
 
 La mente según la revelación (primera parte), de Horacio Gamboa
 
@@ -26,7 +26,7 @@ La mente según la revelación (primera parte), de Horacio Gamboa
 - _El Libro de Urantia_ y su difusión, de L.Coll
 - Noticias de la Asociación Urantia de España
 
-## presentación
+## Presentación
 
 Queridos amigos: una vez más estamos en la brecha para publicar un número más de nuestra revista. Agradecemos de todo corazón la colaboración de los lectores que quieren compartir con nosotros sus reflexiones acerca de las enseñanzas del libro. En este caso tenemos un colaborador nuevo: Horacio Gamboa, que desde Chile nos envía un trabajo muy interesante y revelador acerca de la función y propósito de la mente a la luz de las enseñanzas del libro. Otro número más, tenemos la inestimable colaboración de Ernesto Veloso desde Cuba, para hablarnos esta vez sobre uno de los encuentros más inspiradores en la vida de Jesús de Nazaret: el que tuvo con una mujer samaritana. ¿Seremos capaces nosotros también de dejar a un lado los prejuicios y de advertir cuándo nos encontramos ante alguien que anhela, como nosotros, llegar hasta el Padre?
 
