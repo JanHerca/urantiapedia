@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jose A. Fernández Jorge<br>© 2010 Asociación Urantia de España</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jose A. Rodríguez Jorge<br>© 2010 Asociación Urantia de España</p>
 
 Del Sol vengo
 Y mientras vivo
