@@ -95,7 +95,7 @@ Además esta mente que poseemos, por el hecho de ser una diferenciación de la m
 
 > _La mente cósmica responde sin falla (reconoce la respuesta) en tres niveles de la realidad universal..._ [LU 16:6.5](/es/The_Urantia_Book/16#p6_5)
 
-> _En las dotaciones de mente a los universos locales, estos tres discernimientos de la mente cósmica constituyen las premisas a priori que posibilitan que el bombre funcione como una personalidad racional y autoconsciente en los ámbitos de la ciencia, la filosofía y la religión. Dicho de otra manera, el reconocimiento de la realidad de estas tres manifestaciones del Infinito es mediante una técnica cósmica de autorrevelación_ [LU 16:6.10](/es/The_Urantia_Book/16#p6_10)
+> _En las dotaciones de mente a los universos locales, estos tres discernimientos de la mente cósmica constituyen las premisas a priori que posibilitan que el hombre funcione como una personalidad racional y autoconsciente en los ámbitos de la ciencia, la filosofía y la religión. Dicho de otra manera, el reconocimiento de la realidad de estas tres manifestaciones del Infinito es mediante una técnica cósmica de autorrevelación_ [LU 16:6.10](/es/The_Urantia_Book/16#p6_10)
 
 Podemos encontrar más referencias al hecho de que existen estos mecanismos automáticos y autoreveladores que están precisamente encaminados a que todas las criaturas puedan optar sin conocimientos previos, y al margen de cualquier otra circunstancia sociocultural.
 
@@ -195,11 +195,11 @@ Y además esta elección de continuidad más allá de la muerte física, parece 
 
 > _Los niños que mueren antes de haber llegado a edad de tener un Ajustador del Pensamiento...._ [LU 49:6.12](/es/The_Urantia_Book/49#p6_12)
 
-> _En cuanto se relaciona a los candidatos para la fusión, si un Monitor Misterioso es desertado por su asociado mortal, si el socio bumano no decide proseguir la carrera ascendente, cuando es liberado por la muerte natural (o antes de ésta),... de esa criatura no sobreviviente. ..._ [LU 109:6.2](/es/The_Urantia_Book/109#p6_2)
+> _En cuanto se relaciona a los candidatos para la fusión, si un Monitor Misterioso es desertado por su asociado mortal, si el socio humano no decide proseguir la carrera ascendente, cuando es liberado por la muerte natural (o antes de ésta),... de esa criatura no sobreviviente. ..._ [LU 109:6.2](/es/The_Urantia_Book/109#p6_2)
 
 Sin entrar en consideraciones de las actuaciones del Ajustador en la personalidad, ni de las posibilidades de crecimiento personal espiritual, ni de las consideraciones para la creación y evolución posterior del alma, y disponerlo todo para la fusión con el Ajustador. Bajo mi punto de vista de manera inmediata y como prerrequisito para toda supervivencia futura, tenemos la situación siguiente:
 
-> _La mente mortal (no la mente morontial) es un sistema temporal de intelecto prestado a los seres bumanos para uso durante una vida material, y según usen esta mente, estarán o aceptando o rechazando el potencial de la existencia eterna..._ [LU 111:1.5](/es/The_Urantia_Book/111#p1_5)
+> _La mente mortal (no la mente morontial) es un sistema temporal de intelecto prestado a los seres humanos para uso durante una vida material, y según usen esta mente, estarán o aceptando o rechazando el potencial de la existencia eterna..._ [LU 111:1.5](/es/The_Urantia_Book/111#p1_5)
 
 > _... pero la mente mortal puede efectivamente ser distorsionada, torcida y volverse malvada y fea por las maquinaciones pecaminosas de una voluntad humana perversa y autogratificante. ..._ [LU 111:1.6](/es/The_Urantia_Book/111#p1_6)
 
@@ -231,7 +231,7 @@ Recordando que la mente es una dádiva del Espíritu Materno de nuestro Universo
 
 Habrá muchas oportunidades durante la vida material para que nos decidamos a dar ese paso, pero si somos perezosos, orgullosos, etc., ¿con qué nos encontraremos? Se nos da en el LU mucha información sobre el fracaso de la supervivencia de la personalidad en la etapa humana, como para que sólo sea una remota o hipotética posibilidad:
 
-> _Yo be observado a un Ajustador del Pensamiento que reside en una mente en Urantia quien, según los archivos de Uversa, ha residido previamente en quince mentes en Orvonton. .... Lo que otros han perdido, por haberse negado a sobrevivir, este ser bumano (y vuestro mundo entero) gana abora. Al que no posea cualidades de supervivencia, se le quitará aun ese Ajustador experto que abora posee, mientras que al que tenga probabilidades de supervivencia se le dará aun el Ajustador que haya experimentado previamente ***a un desertor holgazán***._ [LU 109:4.5](/es/The_Urantia_Book/109#p4_5)
+> _Yo be observado a un Ajustador del Pensamiento que reside en una mente en Urantia quien, según los archivos de Uversa, ha residido previamente en quince mentes en Orvonton. .... Lo que otros han perdido, por haberse negado a sobrevivir, este ser humano (y vuestro mundo entero) gana abora. Al que no posea cualidades de supervivencia, se le quitará aun ese Ajustador experto que abora posee, mientras que al que tenga probabilidades de supervivencia se le dará aun el Ajustador que haya experimentado previamente ***a un desertor holgazán***._ [LU 109:4.5](/es/The_Urantia_Book/109#p4_5)
 
 > _El gran problema de la vida es el ajuste de las tendencias ancestrales del vivir a las demandas de los impulsos espirituales iniciados por la presencia divina del Monitor Misterioso. ...; por esto tantos tropiezan y fracasan, se agotan y sucumben a la presión de la lucha evolutiva. Si cooperas con tu Ajustador,..._ [LU 109:5.4](/es/The_Urantia_Book/109#p5_4)
 

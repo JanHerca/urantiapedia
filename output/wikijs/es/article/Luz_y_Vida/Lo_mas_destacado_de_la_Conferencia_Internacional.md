@@ -1,5 +1,5 @@
 ---
-title: "Génesis de la Conferencia Internacional"
+title: "Lo más destacado de la Conferencia Internacional"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

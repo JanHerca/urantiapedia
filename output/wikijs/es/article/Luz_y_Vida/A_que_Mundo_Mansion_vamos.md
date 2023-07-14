@@ -89,7 +89,7 @@ En su día escribí un articulo que ha quedado colgado en nuestra página web qu
 
 Y terminamos copiando una parte de primer párrafo del Dto. 55 con el fin de darnos ánimos.
 
-> «Las limitaciones del entorno, **ni siquiera en un mundo aislado**, tampoco pueden frustrar los logros personales del mortal individual; Jesús de Nazaret, **como bombre** entre los hombres, alcanzó personalmente el estado de luz y de vida en Urantia hace más de mil novecientos años» [LU 55:11.7](/es/The_Urantia_Book/55#p11_7)
+> «Las limitaciones del entorno, **ni siquiera en un mundo aislado**, tampoco pueden frustrar los logros personales del mortal individual; Jesús de Nazaret, **como hombre** entre los hombres, alcanzó personalmente el estado de luz y de vida en Urantia hace más de mil novecientos años» [LU 55:11.7](/es/The_Urantia_Book/55#p11_7)
 
 **Carmelo:** No es que me interese especialmente cuándo o cómo se estudian los idiomas del universo. Lo que me interesa en entender cómo son las cosas, aunque estén lejos de nosotros en el tiempo. Quería, y quiero, saber qué son y cuándo aparecen los ascendentes de los órdenes modificados de ascensión, y lo de los idiomas me parecía, y me parece, una pista a seguir.
 

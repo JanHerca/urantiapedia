@@ -23,7 +23,7 @@ Las preguntas que te haces son las que te llevan a investigar. La última pregun
 
 > «_La incertidumbre en la seguridad es la esencia de la aventura hacia el Paraíso-incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraiso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del hijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como hijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso_». ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1)).
 
-> «_La bumanidad está diseñada para evolucionar mediante la técnica de la experiencia..._»([LU 106:9.8](/es/The_Urantia_Book/106#p9_8))
+> «_La humanidad está diseñada para evolucionar mediante la técnica de la experiencia..._»([LU 106:9.8](/es/The_Urantia_Book/106#p9_8))
 
 > «_La experiencia viviente real no tiene ningún sustituto cósmico... es la única cosa que ninguna cantidad de dotación divina puede dispensaros de la necesidad de conseguir mediante la ***vida real***_». ([LU 109:1.3](/es/The_Urantia_Book/109#p1_3))
 

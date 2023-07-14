@@ -45,7 +45,7 @@ Casi todas las personas, desde campesinos hasta militares y pilotos de aviones q
 
 El propio Comandante de los Ángeles y las Huestes Seráficas, Gabriel (lo que hoy en día llamaríamos comúnmente ET), cuando se apareció a María para darle la noticia del nacimiento de Jesús, lo hizo de la forma más normal y natural. María no se había preparado en absoluto para ese encuentro y se asustó bastante, menos mal que las tranquilizadoras palabras de Gabriel la calmaron.
 
-También otro elevado ser que estuvo en este mundo para cumplir una misión, Melquisedek, vino de la forma más natural y normal manifestándose por primera vez a un pastor caldeo en la antigua Salem (Palestina). «_Su llegada no fue espectacular, su materialización no fue contemplada por los ojos bumanos. La primera vez que un hombre mortal lo observó fue el día memorable en que entró en la tienda de Amdón un pastor caldeo de origen sumerio._» ([LU 93:2.1](/es/The_Urantia_Book/93#p2_1))
+También otro elevado ser que estuvo en este mundo para cumplir una misión, Melquisedek, vino de la forma más natural y normal manifestándose por primera vez a un pastor caldeo en la antigua Salem (Palestina). «_Su llegada no fue espectacular, su materialización no fue contemplada por los ojos humanos. La primera vez que un hombre mortal lo observó fue el día memorable en que entró en la tienda de Amdón un pastor caldeo de origen sumerio._» ([LU 93:2.1](/es/The_Urantia_Book/93#p2_1))
 
 ## El futuro
 

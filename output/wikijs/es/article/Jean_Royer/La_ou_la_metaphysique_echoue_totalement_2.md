@@ -53,7 +53,7 @@ Peor aún, la metafísica perturba la filosofía:
 
 > _La revelación aclara en forma determinada la mezcla de metafísica desarrollada por la razón en una esfera evolutiva._ ([LU 103:6.8](/es/The_Urantia_Book/103#p6_8))
 
-> _La filosofía más elevada obtenible por el bombre mortal debe estar basada lógicamente en la rąón de la ciencia, la fe de la religión, y el discernimiento de la verdad ofrecido por la revelación. Mediante esta unión el bombre puede compensar de algún modo su fracaso en desarrollar una metafísica adecuada y por su incapacidad para comprender la mota de morontia._ ([LU 103:6.15](/es/The_Urantia_Book/103#p6_15))
+> _La filosofía más elevada obtenible por el hombre mortal debe estar basada lógicamente en la rąón de la ciencia, la fe de la religión, y el discernimiento de la verdad ofrecido por la revelación. Mediante esta unión el hombre puede compensar de algún modo su fracaso en desarrollar una metafísica adecuada y por su incapacidad para comprender la mota de morontia._ ([LU 103:6.15](/es/The_Urantia_Book/103#p6_15))
 
 Concluyendo: _comprensión inteligente de los significados cósmicos y de las interrelaciones universales, búsqueda de uno mismo y del universo desde el interior, pensamiento profundo_; encontramos así una buena parte de la definición del Webster.
 
