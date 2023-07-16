@@ -61,10 +61,10 @@ Según Falletti, «_algo procedente de ‘lo incausado’ o atemporal desciende 
 El número $\Pi$ no sólo aparece cuando hablamos de círculos. También figura en una fórmula de la que se dice es la más importante de la matemática, por cuanto une de forma contundente ( y misteriosa) la geometría, la aritmética, el análisis y el álgebra. A esta fórmula se la denomina _identidad de Euler_.
 
 $$
-\mathrm{e}^{\mathrm{i} \Pi}+1=0
+e^{i \Pi}+1=0
 $$
 
-Teniendo en cuenta que $\Pi$ es el número más importante de la geometría, e (otro número trascendente) es el número más importante del análisis, ***i*** (cuyo valor es tal que $\mathrm{i}^{2}=-1$) el número más importante del álgebra, y el **1** y el **0** las bases de la aritmética (los elementos neutros de la multiplicación y la suma, respectivamente), ¿no sugiere acaso esta fórmula la idea de unidad?
+Teniendo en cuenta que $\Pi$ es el número más importante de la geometría, e (otro número trascendente) es el número más importante del análisis, ***i*** (cuyo valor es tal que $i^{2}=-1$) el número más importante del álgebra, y el **1** y el **0** las bases de la aritmética (los elementos neutros de la multiplicación y la suma, respectivamente), ¿no sugiere acaso esta fórmula la idea de unidad?
 
 ## 19. El papel de la mente
 
