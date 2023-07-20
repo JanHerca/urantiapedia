@@ -41,11 +41,13 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Umajor The Fifth, capital of Splandon, our major sector                                        | Umayor La Quinta, capital de Splandon, nuestro principal sector                                         |
 | Umajor The Fifth, comparison of headquarters with the orbit of Saturn                          | Umayor La Quinta, comparación de la sede con la órbita de Saturno                                       |
 | Satellites of Umajor The Fifth, comparison with our sun                                        | Satélites de Umayor La Quinta, comparación con nuestro sol                                              |
+| Umajor The Fifth                                                                               | Umayor La Quinta                                                                                        |
 | Uminor The Third, capital of Ensa, our minor sector                                            | Umenor La Tercera, capital de Ensa, nuestro sector menor                                                |
 | Uminor The Third satellites and headquarters compared to our sun                               | Satélites y sede de Umenor La Tercera en comparación con nuestro sol                                    |
 | Uminor The Third headquarters fits in the space between our sun and Urantia                    | La sede de Umenor La Tercera encaja en el espacio entre nuestro sol y Urantia                           |
 | Uminor The Third, 8 total spheres                                                              | Umenor La Tercera, 8 esferas en total                                                                   |
 | Uminor The Third satellites and headquarters compared to our sun                               | Satélites y sede de Umenor La Tercera en comparación con nuestro sol                                    |
+| Uminor The Third                                                                               | Umenor La Tercera                                                                                       |
 | Uversa, superuniverse capital, Orvonton                                                        | Uversa, capital del superuniverso, Orvonton                                                             |
 | Uversa diameter is a little less that 3 times the orbit of Neptune                             | El diámetro de Uversa es un poco menos de 3 veces la órbita de Neptuno                                  |
 | Uversa headquaters and satellites, 491 total spheres                                           | Sede de Uversa y satélites, 491 esferas en total                                                        |
@@ -54,6 +56,7 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Edentia, Norlatiadek headquarters                                                              | Edentia, sede de Norlatiadek                                                                            |
 | Jerusem, Satania headquarters                                                                  | Jerusalén, sede de Satania                                                                              |
 | Salvington, Nebadon headquarters                                                               | Salvington, sede de Nebadón                                                                             |
+| Uversa, Orvonton headquarters                                                                  | Uversa, sede de Orvonton                                                                                |
 | The Master Universe                                                                            | El Universo Maestro                                                                                     |
 | Our significant worlds of spiritual growth in the superuniverse of Orvonton                    | Nuestros mundos significativos de crecimiento espiritual en el superuniverso de Orvonton                |
 | The Master Universe                                                                            | El Universo Maestro                                                                                     |
