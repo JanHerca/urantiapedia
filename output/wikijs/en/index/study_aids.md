@@ -32,6 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 | :ballot_box_with_check: | [Bill Sadler Talks](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks)                                                     | William S. Sadler Jr. |                                                                                                                    |
 | :ballot_box_with_check: | [Concerning Human Survival](/en/article/William_S_Sadler_Jr/Concerning_Human_Survival)                                     | William S. Sadler Jr. |                                                                                                                    |
 | :ballot_box_with_check: | [General Organization of The Urantia Book](/en/article/William_S_Sadler_Jr/General_Organization_of_The_Urantia_Book)       | William S. Sadler Jr. | [The Urantia Book](/t/the%20urantia%20book)                                                                        |
+| :ballot_box_with_check: | [A Simplification of the Foreword to The Urantia Book](/en/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)       | William S. Sadler Jr. | [The Urantia Book](/t/the%20urantia%20book) [The Urantia Book—Papers](/t/the%20urantia%20book-papers), [Study Aid](/t/study%20aid), [Bill Sadler](/t/bill%20sadler)                                                                       |
 
 ## Other
 

@@ -32,6 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 | :white_square_button:   | Charlas de Bill Sadler                                                                                                  | William S. Sadler Jr. |                                                                                                                             |
 | :white_square_button:   | Sobre la supervivencia humana                                                                                           | William S. Sadler Jr. |                                                                                                                             |
 | :white_square_button:   | Organización genereal de El Libro de Urantia                                                                            | William S. Sadler Jr. | [El Libro de Urantia](/t/the%20urantia%20book)                                                                              |
+| :ballot_box_with_check: | [Simplificación del Prólogo de El Libro de Urantia](/es/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)       | William S. Sadler Jr. | [The Urantia Book](/t/the%20urantia%20book) [The Urantia Book—Papers](/t/the%20urantia%20book-papers), [Study Aid](/t/study%20aid), [Bill Sadler](/t/bill%20sadler)                                                                       |
 
 ## Otros
 
