@@ -171,6 +171,7 @@ Unfortunately Pandoc cannot convert from pdf, only uses pdf as output.
 
 ## Sample of Markdown article header
 
+```
 ---
 title: "Restated"
 description: 
@@ -182,8 +183,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David<br>© 2008 The Urantia Book Fellowship</p>
-
-
+```
 
 ## References
 
@@ -197,3 +197,5 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 image-style-align-right
+
+How to preview images in a Markdown: replace `src="/image` with `src="../../../output/wikijs/image` using as many `../` as needed. Do not forget to remove later.

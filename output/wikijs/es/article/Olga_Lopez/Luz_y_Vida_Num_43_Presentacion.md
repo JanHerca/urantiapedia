@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 Boletín de la Asociación Urantia de España
-Luz y Vida núm.43- Marzo 2016
+
+Luz y Vida núm. 43 — Marzo 2016
 
 ## En este número
 

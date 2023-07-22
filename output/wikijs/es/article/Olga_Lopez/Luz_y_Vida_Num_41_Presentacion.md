@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 Boletín de la Asociación Urantia de España
-Luz y Vida núm.41- Septiembre 2015
+
+Luz y Vida núm. 41 — Septiembre 2015
 
 ## En este número
 

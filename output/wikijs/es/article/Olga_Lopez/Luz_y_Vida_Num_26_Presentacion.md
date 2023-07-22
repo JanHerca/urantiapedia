@@ -11,7 +11,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Olga López<br>© 2011 Asociación Urantia de España</p>
 
 Boletín de la Asociación Urantia de España
-Luz y Vida núm.26- Septiembre 2011
+
+Luz y Vida núm. 26 — Septiembre 2011
 
 ## En este número
 

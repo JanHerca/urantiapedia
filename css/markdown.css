@@ -1,4 +1,72 @@
-body code {
-    font-size: 90%;
-    line-height: 1.4;
+body {
+  max-width: 1000px;
+}
+figure.image {
+  margin: 1rem 0 0;
+}
+figure.image img {
+  margin: 0 auto;
+}
+figure.image figcaption {
+  padding: 4px 1rem;
+  text-align: center;
+  font-size: 12px;
+  color: #616161;
+  background-color: #f5f5f5;
+}
+.theme--dark figure.image figcaption {
+  color: #bdbdbd;
+  background-color: #424242;
+}
+figure.image-style-align-right {
+  float: right;
+}
+figure.image-style-align-left {
+  float: left;
+}
+img.is-imagemap {
+  max-width: none;
+}
+figure.urantiapedia {
+  display: table;
+}
+figure.urantiapedia.image-style-align-right {
+  margin: 10px 0 10px 10px;
+}
+figure.urantiapedia.image-style-align-left {
+  margin: 10px 10px 10px 0;
+}
+figure.urantiapedia figcaption {
+  font-size: 14px;
+  display: table-caption;
+  caption-side: bottom;
+}
+figure.chapter-navigator table {
+  /* border-bottom: 0.2em solid #c8ccd1;
+  border-left: 1px solid #c8ccd1;
+  border-right: 1px solid #c8ccd1;
+  border-top: 1px solid #c8ccd1; */
+  table-layout: fixed; 
+  width: 100%;
+}
+figure.chapter-navigator table tbody tr td {
+  padding: 0.4em 0.5em;
+  border: none;
+  width:33%;
+}
+figure.chapter-navigator table tbody tr td:nth-child(2) {
+  text-align: center;
+}
+figure.chapter-navigator table tbody tr td:nth-child(3) {
+  text-align: right;
+}
+@media (max-width:500px) {
+  figure.image-style-align-right,
+  figure.image-style-align-left {
+    float: none
+  }
+  div.urantiapedia-book-front svg {
+    width: 100%;
+    height: auto;
+  }
 }

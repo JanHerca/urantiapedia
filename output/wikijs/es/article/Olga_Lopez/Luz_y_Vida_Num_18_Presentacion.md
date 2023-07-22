@@ -11,7 +11,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Olga López<br>© 2009 Asociación Urantia de España</p>
 
 Boletín de la Asociación Urantia de España
-Luz y Vida núm.18- Septiembre 2009
+
+Luz y Vida núm. 18 — Septiembre 2009
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV1/01.jpg">
