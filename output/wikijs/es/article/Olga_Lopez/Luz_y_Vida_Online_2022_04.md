@@ -35,8 +35,8 @@ Luz y Vida — abril 2021
 
 M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-1.jpg" alt="Editorial abril 2022-1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-1.jpg" alt="Editorial abril 2022-1" width="350">
 </figure>
 
 Comencemos contando una antigua historia:
@@ -54,53 +54,56 @@ _«Tarde te amé, hermosura tan antigua, y tan nueva, tarde te amé. Y he aquí 
 _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían.»_
 
 [Read more](https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/#more-1442)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
 </figure>
 
 [**Repaso a la organización general del universo (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
 
 Este trabajo, como su nombre indica, es un breve repaso a la organización del universo maestro, a la creación cósmica de la Deidad. Comienza por el Paraíso y sus zonas de gigantesco tamaño y las relaciona con las dimensiones del gran universo y sus habitantes. Unas dimensiones de un tamaño imposible de concebir por nuestra mente mortal. Como ejemplo: «En el Paraíso, y en la segunda zona periférica del Área Santa, los grupos activos de individuos glorificados en su sector asignado (en este caso, el sector relacionado con las personalidades ascendentes de un único superuniverso, por ejemplo Orvonton) son del orden de 823.543 seguido por 45 ceros. Para conocer el número de individuos esperados en este sector, seguramente deberíamos añadir algunos ceros más.» Pero no queda ahí: los cálculos relacionados con los diferentes tipos de gravedad le llevan a deducir que el número de mundos del gran universo es 1/24 parte de los mundos del universo maestro.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/La-familia-del-universo-local.jpg" alt="La familia del universo local">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/La-familia-del-universo-local.jpg" alt="La familia del universo local" width="250">
 </figure>
 
 [**La familia del universo local (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Familia-del-Universo-Local.pdf)
 
 Este trabajo consiste en un diagrama con los diferentes seres que pueblan el universo local y las relaciones que se establecen entre ellos. Con el Espíritu Creativo y el Hijo Creador en lo alto de la jerarquía, va descendiendo por los distintos órdenes de seres hasta que llegamos a los seres humanos. Ayuda mucho a conseguir una visión de conjunto de la gran familia del universo local y a tener claro el origen de cada orden de seres.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña" width="250">
 </figure>
 
 [**Primera migración a Bretaña (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
 
 En este artículo aparece uno de los ejemplos en los que la ciencia parece corroborar las afirmaciones de _El Libro de Urantia_, en este caso en un aspecto tan fascinante y desconocido como la prehistoria. En palabras del autor: «_El Libro de Urantia_, publicado en 1955, declara que la habitación humana de Gran Bretaña comenzó hace aproximadamente 900.000 años. Indicando que solía haber un puente terrestre entre Gran Bretaña y Francia, también señala que, aunque la mayoría de las pruebas de ocupación humana están ahora sumergidas en el Canal de la Mancha, todavía hay varios sitios cerca de la costa que muestran evidencias de esta temprana ocupación. Aquí es donde se han realizado descubrimientos recientes que retrasan la fecha de la habitación humana en 200.000 años. El trabajo adicional del proyecto AHOB (siglas en inglés de «Ocupación Humana Antigua de Bretaña») apoya cada vez más este aspecto de la historia humana en _El Libro de Urantia_.»
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Maria-Magdalena.jpg" alt="María Magdalena">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Maria-Magdalena.jpg" alt="María Magdalena" width="250">
 </figure>
 
 [**María Magdalena (Javier Martínez)**](https://drive.google.com/open?id=19wdzJHc27bQJWSi3lzduiHssIzCnzSpm)
 
 Aquí tenemos la presentación que dio su autor el año 2019 sobre esta figura femenina que aparece en los 4 evangelios oficiales y en _El Libro de Urantia_. Primero hace un repaso de las fuentes evangélicas e históricas respecto a ella (incluyendo un supuesto evangelio apócrifo que escribió), repasa las leyendas que hay en torno a su figura, y finalmente recopila todo lo que se dice de ella en _El Libro de Urantia_. Un trabajo muy interesante para tener una visión completa de su figura.
-
+<br style="clear:both" />
 
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Slawa_Radziszewska_Jesus_Meets_Tiberius_525.jpg" alt="Crónica de la vida de Jesús - Doc 132">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Slawa_Radziszewska_Jesus_Meets_Tiberius_525.jpg" alt="Crónica de la vida de Jesús - Doc 132" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -108,12 +111,12 @@ Aquí tenemos la presentación que dio su autor el año 2019 sobre esta figura f
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 132 (La estancia en Roma). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 132](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/03/Documento-132.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Miguel de Nebadon
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús de Nazaret">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús de Nazaret" width="250">
 </figure>
 
 Este es el siguiente capítulo, dedicado nuestro Hijo Creador, Miguel de Nebadon, y comienza así:
@@ -121,12 +124,12 @@ Este es el siguiente capítulo, dedicado nuestro Hijo Creador, Miguel de Nebadon
 «Una clase muy especial de Hijos, es un grupo llamado Hijos Paradisiacos o Hijos del Paraíso. Ellos son del Paraíso y son perfectos como el Padre. Ellos también van a la “escuela” pero para aprender cómo se fabrican mundos y toda especie de hijos para el Padre. El Padre puede hacerlo todo por sí mismo, pero le encanta compartir labores. Él confía en que sus hijos del Paraíso trabajen maravillosamente para Él.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/03/007-Miguel-de-Nebadon.pdf)
-
+<br style="clear:both" />
 
 ## Libros – nuestras recomendaciones del mes
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/ELVE.jpg" alt="El largo viaje a Edén">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/ELVE.jpg" alt="El largo viaje a Edén" width="130">
 </figure>
 
 El largo viaje a Edén (Olga López)
@@ -136,11 +139,12 @@ Este libro pretende ser un ejercicio de imaginación respecto a cómo pudieron s
 Aquellos que han leído _El Libro de Urantia_ podrán apreciar muchos detalles y personajes que les resulten familiares. La intención de la novela, aparte de entretener al lector, fue hacer reflexionar sobre lo sucedido en nuestro mundo en el pasado remoto. Como en nuestro mundo, ese mundo aislado por la rebelión tuvo que enfrentarse a graves problemas relacionados con aquella desafortunada circunstancia. Pero, como nosotros, también hubo personas y seres que dieron lo mejor de sí para ayudar a la humanidad a progresar.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/inspirado-en-el-lu-el-largo-viaje-a-eden/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-Principe-Planetario.jpg" alt="El Príncipe Planetario">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-Principe-Planetario.jpg" alt="El Príncipe Planetario" width="130">
 </figure>
 
 El Príncipe Planetario y Van el Inquebrantable (Rick Warren)
@@ -150,12 +154,12 @@ Mucho antes de que Adán y Eva llegaran a la tierra, desde la sede de nuestro si
 Pero hubo héroes humanos y superhumanos que mantuvieron la luz de la verdad y resistieron las tentaciones del príncipe inicuo. Su historia se despliega en este relato revelador de la saga más antigua y grandiosa.
 
 [Enlace para adquirir el libro en Amazon](https://www.amazon.es/gp/product/B09SPCTPDZ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/CuartoCamino.jpg" alt="El cuarto camino">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/CuartoCamino.jpg" alt="El cuarto camino" width="130">
 </figure>
 
 El cuarto camino (P.D. Ouspensky)
@@ -165,11 +169,12 @@ Dicen que lo que más desconocemos es nuestro mayor enemigo, y una de las cosas 
 P.D. Ouspensky fue alumno del conocido maestro místico George Ivanovich Gurjieff. En este libro, el autor nos introduce en la dimensión del conocimiento de uno mismo a base de preguntas y respuestas. A pesar de que haya conceptos que hayan podido quedar desfasados con el paso del tiempo, su lectura resulta interesante para poner a prueba nuestro discernimiento.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-el-cuarto-camino-de-p-d-ouspensky/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-arte-de-bendecir.jpg" alt="El arte de bendecir">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-arte-de-bendecir.jpg" alt="El arte de bendecir" width="130">
 </figure>
 
 El arte de bendecir (Pierre Pradervand)
@@ -181,8 +186,7 @@ El arte de bendecir (Pierre Pradervand)
 Partiendo de una experiencia espiritual personal, el autor subraya la existencia de unas leyes espirituales universales en las que todos podemos descansar plenamente seguros. La más elevada de todas ellas es la del amor incondicional, que debemos practicar tanto con nosotros mismos como con los demás. Y ofrece un instrumento privilegiado, el simple arte de bendecir, para hacer concreto y eficaz en todo momento ese amor incondicional que, al ser expresión de la unión con el Amor supremo, salva la vida llevándola a su cima. Brota entonces una espiritualidad de todos los instantes, una espiritualidad para todos, que no necesita -aunque tampoco los rechaza- templos, ni lugares sagrados, ni circunstancias particulares para expresarse y vivirse: ser espiritual se convierte en un estado de conciencia, en una manera de ser a imagen y semejanza del Amor incondicional que nos ha dado la vida y nos sostiene en ella para que, en armonía con Él, llenamos de creatividad positiva todas las circunstancias de nuestra vida y de nuestras relaciones.
 
 [Web del autor](http://www.pierrepradervand.com/es)
-
----
+<br style="clear:both" />
 
 ## Vídeo – nuestra recomendación del mes
 
@@ -231,35 +235,34 @@ Por si queréis leer la entrada original, podéis leerla [aquí](https://www.fel
 Cuando iba al colegio (colegio de monjas), aprendí una versión del Padre Nuestro que no es la que se reza en las iglesias católicas en los últimos años. De hecho he sido incapaz de aprenderme la nueva versión (o no he tenido la motivación suficiente de hacerlo). En mi infancia, el Padre Nuestro era este:
 
 
-> Padre nuestro que estás en los cielos,
-> santificado sea tu nombre.
-> Venga a nosotros tu reino,
-> hágase tu voluntad
-> así en la tierra como en el cielo.
-> El pan nuestro de cada día
-> dánosle hoy
-> y perdona nuestras deudas
-> así como nosotros perdonamos a nuestros deudores.
-> No nos dejes caer en la tentación
-> mas líbranos del mal.
-> Amén.
-> 
+> Padre nuestro que estás en los cielos,<br>
+> santificado sea tu nombre.<br>
+> Venga a nosotros tu reino,<br>
+> hágase tu voluntad<br>
+> así en la tierra como en el cielo.<br>
+> El pan nuestro de cada día<br>
+> dánosle hoy<br>
+> y perdona nuestras deudas<br>
+> así como nosotros perdonamos a nuestros deudores.<br>
+> No nos dejes caer en la tentación<br>
+> mas líbranos del mal.<br>
+> Amén.<br>
 
 En el Padre Nuestro que se reza actualmente (y que se cambió en 1986 durante el papado de Juan Pablo II) se cambió deudas/deudores por ofensas/que nos ofenden. Veamos esta nueva versión, que he tomado directamente de la [web de El Vaticano](https://www.vaticannews.va/es/oraciones/padre-nuestro.html):
 
 
-> Padre nuestro que estás en el cielo,
-> santificado sea tu Nombre;
-> venga a nosotros tu Reino;
-> hágase tu voluntad
-> en la tierra como en el cielo.
-> Danos hoy
-> nuestro pan de cada día;
-> perdona nuestras ofensas,
-> como también nosotros perdonamos
-> a los que nos ofenden;
-> no nos dejes caer en la tentación,
-> y líbranos del mal. Amén.
+> Padre nuestro que estás en el cielo,<br>
+> santificado sea tu Nombre;<br>
+> venga a nosotros tu Reino;<br>
+> hágase tu voluntad<br>
+> en la tierra como en el cielo.<br>
+> Danos hoy<br>
+> nuestro pan de cada día;<br>
+> perdona nuestras ofensas,<br>
+> como también nosotros perdonamos<br>
+> a los que nos ofenden;<br>
+> no nos dejes caer en la tentación,<br>
+> y líbranos del mal. Amén.<br>
 
 Según parece, la versión inicial en griego habla sin lugar a dudas de deudas, en ningún caso de ofensas. Podéis ver [aquí](https://www.religiondigital.org/humanismo_sin_credos/Ofensas-deudas-Tergiversacion-Padrenuestro_7_1806189373.html) una entrada del blog Religión Digital donde se habla de este cambio.
 Para ellos, está claro que esas deudas a las que se alude en esta oración no son metafóricas ni espirituales, sino materiales. Rescato aquí un párrafo, porque me parece muy interesante:
@@ -271,16 +274,16 @@ Después de leer estas entradas, fui a _El Libro de Urantia_ a ver cuál es la r
 Está en el documento 144 y dice así:
 
 
-> [LU 144:3.3](/es/The_Urantia_Book/144#p3_3) Padre nuestro que estás en los cielos,
-> [LU 144:3.4](/es/The_Urantia_Book/144#p3_4) Santificado sea tu nombre.
-> [LU 144:3.5](/es/The_Urantia_Book/144#p3_5) Que venga tu reino; que se haga tu voluntad
-> [LU 144:3.6](/es/The_Urantia_Book/144#p3_6) En la Tierra al igual que en el cielo.
-> [LU 144:3.7](/es/The_Urantia_Book/144#p3_7) Danos hoy nuestro pan para mañana;
-> [LU 144:3.8](/es/The_Urantia_Book/144#p3_8) Vivifica nuestra alma con el agua de la vida.
-> [LU 144:3.9](/es/The_Urantia_Book/144#p3_9) Y perdónanos nuestras deudas
-> [LU 144:3.10](/es/The_Urantia_Book/144#p3_10) Como nosotros también hemos perdonado a nuestros deudores.
-> [LU 144:3.11](/es/The_Urantia_Book/144#p3_11) Sálvanos de la tentación, líbranos del mal,
-> [LU 144:3.12](/es/The_Urantia_Book/144#p3_12) Y haznos cada vez más perfectos como tú mismo.
+> Padre nuestro que estás en los cielos,<br>
+> Santificado sea tu nombre.<br>
+> Que venga tu reino; que se haga tu voluntad<br>
+> En la Tierra al igual que en el cielo.<br>
+> Danos hoy nuestro pan para mañana;<br>
+> Vivifica nuestra alma con el agua de la vida.<br>
+> Y perdónanos nuestras deudas<br>
+> Como nosotros también hemos perdonado a nuestros deudores.<br>
+> Sálvanos de la tentación, líbranos del mal,<br>
+> Y haznos cada vez más perfectos como tú mismo. [LU 144:3.3-12](/es/The_Urantia_Book/144#p3_3) 
 
 Pues sí, en _El Libro de Urantia_ aparecen las palabras deudas/deudores, igual que el Padre nuestro anterior a 1986 (en el original inglés, _debt_/_debtors_). Además, aparecen frases que no aparece en el Padre nuestro católico: Vivifica nuestra alma con el agua de la vida y Haznos cada vez más perfectos como tú mismo.
 
@@ -308,8 +311,8 @@ En resumen: lo que es de Dios va con el Padre: el Ajustador y la personalidad. L
 
 ## Cuestionario urantiano: Esteban Cotán
 
-<figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Esteban-Cotan.png" alt="Esteban Cotán">
+<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Esteban-Cotan.png" alt="Esteban Cotán" width="200">
 </figure>
 
 Esteban Cotán vive en Olivares (Sevilla). Está jubilado, trabajó en la hostelería y de corredor de seguros. Es viudo y ha tenido cuatro hijos y diez nietos.
@@ -323,12 +326,12 @@ El libro me encontró a mí en el campo de la ufología por mediación de un com
 Cuando comencé a leerlo dije para mí: creo haber encontrado lo que toda mi vida he estado buscando, y a medida que iba leyendo me fui convenciendo de ello.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Esteban_Cotan)
-
+<br style="clear:both" />
 
 ## Charlas urantianas del mes de abril
 
-<figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Charla-urantiana-01-04-22.jpg" alt="Charlas urantianas abril 2022">
+<figure id="Figure_17" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Charla-urantiana-01-04-22.jpg" alt="Charlas urantianas abril 2022" width="250">
 </figure>
 
 Nos complace invitaros a nuestra próxima charla urantiana sobre el tema: «**¿Dios ha muerto? El secularismo**».
@@ -340,7 +343,7 @@ Nuestra actual sociedad secularizada ¿ha progresado gracias a esta corriente ma
 Os esperamos el **viernes 1 de abril**, a las 19.00h (España) . ID Zoom 362 798 144
 
 La siguiente charla urantiana se celebrará el **viernes 22 de abril**.
-
+<br style="clear:both" />
 
 ## Nuevos cursos de la UBIS – trimestre de abril
 

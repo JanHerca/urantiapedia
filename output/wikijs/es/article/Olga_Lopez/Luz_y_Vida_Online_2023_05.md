@@ -32,8 +32,8 @@ Luz y Vida — mayo 2023
 
 M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4" width="350">
 </figure>
 
 Llegar a ser tú mismo
@@ -59,53 +59,55 @@ _Entonces me tranquilicé, y me sentí vivo. Y ¡oh, maravilla!, cambié. Ahora 
 Este hermoso cuento nos habla de la faceta que más nos puede conmover: el amor incondicional hacia nosotros. Un amor que nos permite llegar a ser nosotros mismos. Amarnos y respetarnos a nosotros mismos. Algo heroico en estos tiempos de grandes corporaciones multinacionales a las que les interesa difuminar nuestras personalidades, asimilarnos a una identidad de masa.
 
 [Read more](https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/#more-1834)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Arbol-genealogico.png" alt="Árbol genealógico">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Arbol-genealogico.png" alt="Árbol genealógico" width="250">
 </figure>
 
 [**Árbol genealógico de las razas (Oly Tartakowsky)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Arbol_genealogico_razas.jpg)
 
 Este trabajo es en realidad un gráfico donde se nos muestra de manera muy gráfica lo que su título indica: una especia de árbol genealógico donde vemos cuál es el origen de cada una de las razas que pueblan el planeta, comenzando por los andonitas iniciales hasta llegar a la población actual de las diferentes regiones del mundo. En este esquema también quedan registradas las migraciones e invasiones que supusieron un cambio en las poblaciones de aquel tiempo.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Ajustador-del-Pensamiento.jpg" alt="Ajustador">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Ajustador-del-Pensamiento.jpg" alt="Ajustador" width="250">
 </figure>
 
 [**En comunicación con nuestro Ajustador del Pensamiento (autor desconocido)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComunicacionAjustador.pdf)
 
 El autor comienza el trabajo con una cita del libro que expresa que justamente el gran desafío de la humanidad actual es justamente el de conseguir una mejor comunicación con nuestro Ajustador. ¿Y por qué resulta un desafío? En gran parte, por todos los acontecimientos que han hecho que el desarrollo de nuestro mundo a todos los niveles se haya visto dificultado. Los reveladores separan claramente lo que no es la voz de nuestro Ajustador de lo que sí es una comunicación auténtica, e indican cuál es la mejor forma de mejorar esa comunicación. ¿La clave? Desarrollar los frutos del espíritu.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Vida-y-ensenanza-de-Jesus.jpg" alt="Cronología">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Vida-y-ensenanza-de-Jesus.jpg" alt="Cronología" width="250">
 </figure>
 
 [**Cronología de la vida de Jesús en Urantia (Jimmer Prieto)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf)
 
 No escasean los trabajos hechos por lectores que hacen una cronología de los hechos de la vida de Jesús según _El Libro de Urantia_. En el caso del autor de esta cronología, hay que destacar que la vida de Jesús aparece agrupada en etapas, allá donde es posible, aparece al final la referencia del mismo hecho en los evangelios. Todo con un estilo muy esquemático y claro, y donde las referencias son fáciles de encontrar, desde el nacimiento de Jesús hasta los acontecimientos de Pentecostés.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Historia-de-Urantia.png" alt="Amigos y residentes">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Historia-de-Urantia.png" alt="Amigos y residentes" width="250">
 </figure>
 
 [**Amigos y residentes en Urantia (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf)
 
 En muchos pasajes del libro, los reveladores nos hablan de seres que residen nuestro planeta y que no son mortales ascendentes como nosotros. Algunos de ellos están aquí pues eso es lo habitual en todos los mundos del tiempo y del espacio; otros están aquí por nuestra peculiar condición de mundo elegido para albergar el séptimo otorgamiento de nuestro Hijo Creador, y algunos más residen aquí como consecuencia de la rebelión de Lucifer. Este trabajo es de hecho un recuento, una lista de «los otros moradores de Urantia», que nos puede ayudar a ser conscientes de que no estamos tan abandonados como podríamos pensar.
-
----
+<br style="clear:both" />
 
 ## Historia y enseñanzas: Crónicas de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Documento-144.jpg" alt="Documento 144">
 </figure>
 
@@ -114,12 +116,12 @@ En muchos pasajes del libro, los reveladores nos hablan de seres que residen nue
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 144 (En Gilboa y en la Decápolis). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 144](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/04/Documento-144.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Jesús va a Jerusalén con sus padres
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Jesus-en-Jerusalen-con-sus-padres.jpg" alt="Jesús en Jerusalén con sus padres">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Jesus-en-Jerusalen-con-sus-padres.jpg" alt="Jesús en Jerusalén con sus padres" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús va a Jerusalén con sus padres por primera vez, y comienza así:
@@ -127,23 +129,23 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «Las mujeres no estaban obligadas a ir al templo, pero Jesús quiso que fuera su madre. Al decidir viajar María, muchas mujeres también viajaron. Alrededor de 100 judíos decidieron viajar juntos. Los hombres viajaban juntos en grupo. Las mujeres caminaban o cabalgaban en asnos, en otro grupo. En el viaje a Jerusalén Jesús guiaba el asno de su madre.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/04/019-Jesus-va-a-Jerusalen-con-sus-padres.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/La-fuerza-del-optimismo.jpg" alt="La fuerza del optimismo">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/La-fuerza-del-optimismo.jpg" alt="La fuerza del optimismo" width="130">
 </figure>
 
 La fuerza del optimismo (Luis Rojas Marcos)
 
 Aprender a sentir y pensar en positivo es una inversión sumamente rentable para vencer en la batalla contra el pesimismo y desarrollar al máximo las posibilidades de vivir sanos y felices. En este libro, el psiquiatra Luis Rojas Marcos repasa la historia del pensamiento positivo; detalla los ingredientes que distinguen la posición optimista de la pesimista; explora las fuerzas que forjan nuestro temperamento, identifica los venenos más dañinos para el optimismo, describe estrategias para fomentar una disposición optimista y examina la influencia del optimismo en las relaciones con otras personas. Y finaliza con un análisis de la cualidad más valiosa de nuestro optimismo; su enorme y probada utilidad a la hora de hacer frente a la adversidad en la vida.
-
+<br style="clear:both" />
 
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/La-verdad-de-la-muerte-y-la-resurreccion-de-Jesus.jpg" alt="La verdad de la muerte y resurrección de Jesús">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/La-verdad-de-la-muerte-y-la-resurreccion-de-Jesus.jpg" alt="La verdad de la muerte y resurrección de Jesús" width="350">
 </figure>
 
 [La verdad de la muerte y resurrección de Jesús](https://youtu.be/amgA2q20p6U) ([Citas en audio-vídeo del Libro de Urantia](https://www.youtube.com/@CITASENAUDIODELLIBRODEURANTIA))
@@ -176,7 +178,7 @@ Mar Alférez
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Mi-parrafo-favorito-Mar-Alferez.png" alt="Mi párrafo favorito-Mar Alférez">
 </figure>
 
-El Padre Universal ha decretado: «Sed perfectos, así como yo soy perfecto». 26:4:12 (290.2)
+> El Padre Universal ha decretado: «Sed perfectos, así como yo soy perfecto». [LU 26:4.12](/es/The_Urantia_Book/26#p4_12)
 
 Muchas veces he pensado lo difícil que resulta este decreto. ¿Y cómo se es perfecto? ¿En qué consiste esa perfección que se nos requiere? Reflexionando sobre este mandato, he necesitado profundizar en ello y comprender, de algún modo, qué quiere decir. Entender qué quiere el Padre de mí, de nosotros. Porque me sé imperfecta y porque la humanidad es imperfecta. Incluso la naturaleza es imperfecta.
 
@@ -201,8 +203,8 @@ He escogido la imagen de una dehesa porque creo que representa bien cómo nos am
 
 ## Cuestionario urantiano – Mairam Durand
 
-<figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Mairam-Durand.jpg" alt="Mairam Durand">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Mairam-Durand.jpg" alt="Mairam Durand" width="200">
 </figure>
 
 Mairam Durand es una lectora de Lima (Perú), que se considera buscadora de la Verdad desde siempre.
@@ -254,7 +256,7 @@ No solo misterioso, sino también «oculto». Se crearon muchos mitos sobre él,
 12. **¿Hay algo más que quieras decir respecto a _El Libro de Urantia_?**
 
 _El Libro de Urantia_ o los Documentos de Urantia son profundos, reflexivos y la mejor guía en el camino espiritual. Si difundimos esto, poco a poco crearemos una masa crítica y cambiaremos un poquito nuestro mundo.
-
+<br style="clear:both" />
 
 ## Serie de presentaciones «En el foco» de la UBIS
 

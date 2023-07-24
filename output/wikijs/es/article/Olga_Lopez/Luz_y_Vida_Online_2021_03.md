@@ -35,7 +35,7 @@ María José Sánchez Santamaría
 > _LA ERA de luz y de vida es el logro evolutivo final de un mundo del tiempo y del espacio…_ [LU 55:0.1](/es/The_Urantia_Book/55#p0_1)
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/01.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/01.jpg" width="250">
 </figure>
 
 Estrenamos el mes de marzo de 2021 con la esperanza latiendo en nuestros corazones y con el ánimo de contribuir, modestamente, a la llegada imparable de la maravillosa edad de LUZ y VIDA en nuestro planeta.
@@ -50,7 +50,7 @@ No estamos solos. No estamos abandonados y destinados al desastre final.
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/02.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/02.jpg" width="250">
 </figure>
 
 Os presentamos la crónica de la vida de Jesús, que iremos publicando en la web a medida que vayamos avanzando en su confección. La idea es que estas crónicas contengan lo más destacado de la vida y enseñanzas de Jesús y que sirvan como ayuda al estudio de la cuarta parte del libro. Finalmente, cuando esté completo, se podrá agrupar en un todo anexando todos los archivos PDF.
@@ -64,7 +64,7 @@ Dentro del PDF veréis un botón desde donde acceder al texto del documento desd
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/03.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/03.jpg" width="250">
 </figure>
 
 **[Simplificación del Prólogo (Bill Sadler)](/es/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)**
@@ -75,7 +75,7 @@ El Prólogo siempre es una parte que abruma al lector, sobre todo cuando se enfr
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/04.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/04.jpg" width="250">
 </figure>
 
 **[¿El superuniverso de Orvontón es la Vía Láctea? (Eduardo Altuzarra)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf)** 
@@ -86,7 +86,7 @@ En este trabajo de 11 páginas el autor, Eduardo Altuzarra, lector veterano del 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/05.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/05.jpg" width="250">
 </figure>
 
 **[Una aproximación al universo local de Nebadón (Santiago Rodríguez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/UnaAproximacionAlUniversoLocalV9.pdf)**
@@ -97,7 +97,7 @@ Santiago Rodríguez es lector veterano y astrónomo aficionado. Hace unos años 
 ---
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/06.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/06.jpg" width="250">
 </figure>
 
 **[Un día en la vida de un estudiante de los mundos mansión (Tom Maringer)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf)**
@@ -108,7 +108,7 @@ En los últimos años se han publicado muchos trabajos de ficción relacionados 
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/07.jpg" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/07.jpg" width="130">
 </figure>
 
 **Las tres visitas (Olga López)**
@@ -121,7 +121,7 @@ Como con todas las novelas de la autora, puede descargarse gratuitamente en form
 ---
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/08.jpg" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/08.jpg" width="130">
 </figure>
 
 **Introducción a _El libro de Urantia_ (Marcelino Ramírez)**
@@ -134,7 +134,7 @@ En [este enlace](https://aue.urantia-association.org/inspirado-en-el-lu-introduc
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/09.jpg">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/09.jpg">
 </figure>
 
 Este interesantísimo [vídeo](https://www.youtube.com/watch?v=KU_S1xr00nw) del canal [Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ) aporta nuevos descubrimientos que apoyan lo que se dice en _El libro de Urantia_ acerca de la ubicación de Dalamatia, la sede del gobierno del Príncipe Planetario que se encuentra actualmente bajo las aguas del golfo Pérsico.
@@ -142,7 +142,7 @@ Este interesantísimo [vídeo](https://www.youtube.com/watch?v=KU_S1xr00nw) del 
 ## Mi libro favorito – un blog para dar a conocer El libro de Urantia
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/10.jpg">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/10.jpg">
 </figure>
 
 Luis Coll, lector de hace muchos años, ha creado un blog cuya intención es, en sus propias palabras, «compartir comentarios y opiniones sobre diferentes temas de la vida diaria, como pueden ser: naturaleza, espiritualidad, libros, comentarios del día, así como fotos y comentarios del lugar donde vivo».
@@ -159,7 +159,7 @@ Esta es la dirección de su blog:
 Jan Herca
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/11.jpg">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/11.jpg">
 </figure>
 
 Tengo el placer de comunicaros que por fin está accesible al público la web [https://urantiapedia.site](https://urantiapedia.site/), y os animo a que la visitéis.
@@ -174,7 +174,7 @@ El objetivo que me marqué al inicio era el de crear un sitio web que permitiera
 ## Asamblea extraordinaria del 16 de febrero de 2021
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/12.jpg" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/12.jpg" width="250">
 </figure>
 
 El pasado martes 16 de febrero se celebró una asamblea de socios en la sala Zoom de la Asociación Urantia de España, con motivo del cambio de composición de la junta directiva de la asociación.
@@ -187,7 +187,7 @@ En dicha asamblea se acordó el nombramiento de Eduardo Altuzarra (Miranda de Eb
 ## Charlas urantianas de los viernes
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_03/13.jpg" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_03/13.jpg" width="200">
 </figure>
 
 La Asociación ha decidido organizar unas charlas urantianas para que todos los que lo deseen puedan unirse y tratar sobre los temas que les interesen. La idea es que los moderadores propongan un tema de salida, al que después podrán seguir otros a propuesta de los asistentes.
@@ -202,7 +202,7 @@ Las dos primeras reuniones serán los viernes 5 y 19 de marzo a las 19h (hora pe
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

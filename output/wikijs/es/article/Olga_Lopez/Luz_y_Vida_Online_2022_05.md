@@ -32,8 +32,8 @@ Luz y Vida — mayo 2022
 
 M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1" width="250">
 </figure>
 
 La transformación en Dios
@@ -49,53 +49,56 @@ De esta peculiar metamorfosis, de este nuevo nacimiento ya habló hace bastantes
 Ante la perplejidad de Nicodemo, Jesús contestó:
 
 [Read more](https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/#more-1447)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Tiempo-material-morontial-espiritual.jpg" alt="Tiempo">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Tiempo-material-morontial-espiritual.jpg" alt="Tiempo" width="250">
 </figure>
 
 [**El tiempo material, el tiempo morontial y el tiempo espiritual (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tiempo2.pdf)
 
 A pesar de lo que el título podría indicar, más que una reflexión de lo que es el tiempo en sí, este artículo (publicado en la revista Le Lien Urantien, de la asociación de lectores franceses) hace un repaso a nuestra carrera ascendente y a la relación que tendremos en cada una de sus etapas con el espacio y el tiempo y a lo que significa trascender este último. Porque, como dice el autor: «el tiempo y el espacio se presentan como una especie de abcisas y de ordenadas de una construcción cósmica que no podrá ser superada más que por la consecución de lo absoluto. Y toda esta capacidad de numerar está inscrita en el interior de diez símbolos numéricos».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva" width="250">
 </figure>
 
 [**Adán y Eva (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf)
 
 Dice el autor al principio de este trabajo: «De acuerdo con _El Libro de Urantia_ (…), los primeros seres humanos (que se corresponden en su texto más o menos al conocido como _Homo erectus_) evolucionaron hace aproximadamente 1 000 000 de años. También narra que hace casi 38 000 años, Adán y Eva introdujeron algunas mejoras genéticas en nuestro conjunto de genes, lo que mejoró la función cerebral y la resistencia a la enfermedad (que se corresponde aproximadamente con el _Homo sapiens sapiens_)». Pues bien, este trabajo hace un repaso a los hallazgos científicos de mutaciones en el genoma humano que se remontan a la llegada de los Hijos Materiales, tal como afirman los reveladores.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Pablo y Abner">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Pablo y Abner" width="250">
 </figure>
 
 [**Pablo y Abner (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf)
 
 En este trabajo, la autora hace un repaso y compara las figuras de Abner y de Pablo de Tarso, pues personifican actitudes diferentes frente al evangelio de Jesús: una, la de Abner, que aun siendo mucho más fiel al mensaje inicial, cayó rápidamente en el olvido, frente a Pablo, que hizo muchas concesiones doctrinales para adaptarse a las creencias previas de otros pueblos. En palabras de la autora: «esta reflexión nos puede ser muy útil, pues la misión de Jesús supuso la cuarta revelación de época, y nosotros, los lectores de _El Libro de Urantia_, tenemos la responsabilidad de evitar que la quinta revelación se desvirtúe con el paso del tiempo».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="Sobre la personalidad">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="Sobre la personalidad" width="250">
 </figure>
 
 [**Sobre la personalidad (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
 
 Os presentamos aquí una reflexión muy personal de alguien que lleva décadas estudiando el libro y que fue presidente de la Fundación Urantia; una reflexión relacionada con uno de los conceptos más novedosos que aparecen en _El Libro de Urantia_. Seppo comienza así su presentación: «La personalidad es uno de los misterios no resueltos de los universos \[70:3\] (194:2, 1225:2). Así pues, si fuéramos capaces de resolver este “misterio de los universos” en un discurso de veintitantos minutos, estaríamos asistiendo a un milagro de unas proporciones que no sólo sacudiría a la Tierra, sino a todo el universo. ¡No temáis! No va a ocurrir nada de esa magnitud. En lugar de eso, lo que vais a oír es lo que entiende una persona perpleja que ha estudiado la cuestión y ha implorado, a la manera de un “de profundis exclamo a te, Domine”, para que la sabiduría sobrehumana guíe su mente mientras intenta comprender la cuestión y compartir su entendimiento con vosotros».
-
+<br style="clear:both" />
 
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Cronica-de-la-vida-de-Jesus-documento-133.jpg" alt="Crónica de la vida de Jesús - Doc 132">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Cronica-de-la-vida-de-Jesus-documento-133.jpg" alt="Crónica de la vida de Jesús - Doc 132" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -103,12 +106,12 @@ Os presentamos aquí una reflexión muy personal de alguien que lleva décadas e
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 133 (La vuelta de Roma). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 133](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/04/Documento-133.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Los padres de Jesús
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Los-padres-de-Jesus.png" alt="Los padres de Jesús">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Los-padres-de-Jesus.png" alt="Los padres de Jesús" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a los padres de Jesús, y comienza así:
@@ -116,12 +119,12 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «Antes del nacimiento de Jesús, un ángel visitó a su madre. El ángel le dijo que tendría un hijo muy especial y que lo llamara Jesús. También le dijo que Jesús sería grande y que llegaría a ser un especial maestro espiritual.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/04/Documento-133.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/9revelaciones.jpg" alt="Las nueve revelaciones">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/9revelaciones.jpg" alt="Las nueve revelaciones" width="130">
 </figure>
 
 Las nueve revelaciones (James Redfield)
@@ -136,11 +139,12 @@ Entre las ideas que contiene este libro tenemos las siguientes:
 - Debemos confiar no solo en lo que percibimos con nuestros cinco sentidos, sino también en nuestra intuición. El autor afirma en este libro que la Nueva Era llegará en todo su esplendor, sin necesidad de pasar por cambios traumáticos del tipo «desastres planetarios». El que sea realmente así, solo el Padre lo sabe.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-las-nueve-revelaciones-de-james-redfield/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Sacramentos.jpg" alt="Los sacramentos de la vida">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Sacramentos.jpg" alt="Los sacramentos de la vida" width="130">
 </figure>
 
 Los sacramentos de la vida (Leonardo Boff)
@@ -148,7 +152,7 @@ Los sacramentos de la vida (Leonardo Boff)
 En palabras del autor, la intención de este ensayo es «_despertar la dimensión sacramental dormida o profanizada en nuestra vida»._ A partir de pequeñas anécdotas reales, transidas de humanidad, Boff nos va desgranando el universo sacramental: el sacramento de la colilla, el sacramento del vaso, el sacramento del profesor de enseñanza primaria, que nos hacen caer en la cuenta de por qué el universo sacramental cristiano, que ha sufrido un proceso de momificación ritual, necesita ser explicado, y algo que necesita ser explicado es que habla poco de sí mismo, se ha esclerotizado, no es señal. 
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-los-sacramentos-de-la-vida-de-leonardo-boff/)
-
+<br style="clear:both" />
 
 ## Vídeo – nuestra recomendación del mes
 
@@ -159,12 +163,12 @@ En palabras del autor, la intención de este ensayo es «_despertar la dimensió
 [Línea de tiempo desde la Última Cena hasta la Crucifixión](https://vimeo.com/699561993) (Radio Urantia)
 
 Ahora que hace pocos días que pasó la Pascua y rememoramos los acontecimientos que precedieron a la muerte en la cruz de nuestro querido Jesús de Nazaret, no está de más repasar todo lo sucedido a la luz de las enseñanzas de El Libro de Urantia. Nuestros amigos de [Radio Urantia](https://vimeo.com/urantiatv) han creado un vídeo en formato mesa redonda donde los participantes desgranan y comentan los acontecimientos que ocurrieron en este periodo de tiempo.
-
+<br style="clear:both" />
 
 ## Navegando por la vida – La conexión
 
-<figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Navegando-por-la-vida-La-conexion.jpg" alt="La conexión">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Navegando-por-la-vida-La-conexion.jpg" alt="La conexión" width="250">
 </figure>
 
 Tengo una amistad que últimamente se encuentra triste, apagada. Ha tenido recientemente una serie de experiencias que la han llevado a ese estado.
@@ -190,7 +194,7 @@ No te hagas esclavo de ese ideal. No hagas caso a esa voz en tu cabeza que cree 
 La máxima paz que podemos obtener aquí es la consecuente de liberarnos de las mentiras de esa voz en nuestra cabeza que da lugar a las necesidades que creemos tener.
 
 Con una mente libre de deseos y por tanto de toda necesidad, ¿qué me impediría ser feliz o estar en paz en cualquier situación?
-
+<br style="clear:both" />
 
 ## Mi párrafo favorito
 
@@ -202,7 +206,7 @@ Jorge Nagore
 
 La riqueza de contenidos de _El Libro de Urantia_ aporta multitud de párrafos apasionantes y que sin duda nos han marcado a todos los lectores. Impresionado en general por el tema concreto de los Ajustadores del Pensamiento he elegido unas líneas, creo que únicas a lo largo de todo el libro, en las que un Ajustador toma la palabra y habla por sí mismo, al referirse a su asociado mortal.
 
-110:7.10 (1213. 6) …El Ajustador pedía entre otras cosas, “Que me conceda más fielmente su cooperación sincera, soporte más alegremente las tareas de mi posición, lleve a cabo más fielmente el programa planeado por mí, pase más pacientemente por las pruebas que he escogido, camine de manera más perseverante y alegre por el sendero que he elegido…Seré fiel a la personalidad que me ha sido confiada. Y le exhorto a sobrevivir, a que no me decepcione, a que no me prive de la recompensa de mi lucha paciente e intensa. Dependemos de la voluntad humana para conseguir la personalidad”.
+> …El Ajustador pedía entre otras cosas, “Que me conceda más fielmente su cooperación sincera, soporte más alegremente las tareas de mi posición, lleve a cabo más fielmente el programa planeado por mí, pase más pacientemente por las pruebas que he escogido, camine de manera más perseverante y alegre por el sendero que he elegido …Seré fiel a la personalidad que me ha sido confiada. Y le exhorto a sobrevivir, a que no me decepcione, a que no me prive de la recompensa de mi lucha paciente e intensa. Dependemos de la voluntad humana para conseguir la personalidad”. [LU 110:7.10](/es/The_Urantia_Book/110#p7_10)
 
 Lo que voy a expresar a continuación es únicamente una opinión basada en mi experiencia personal al respecto. Este párrafo supuso un fuerte impulso de cara a conocer mejor a ese ser maravilloso que habita en mí.
 
@@ -223,8 +227,8 @@ Y en esta relación con mí Ajustador, soy consciente de que me estoy relacionan
 
 ## Cuestionario urantiano: Gema Villa
 
-<figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Gema-Villa.jpg" alt="Gema Villa">
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Gema-Villa.jpg" alt="Gema Villa" width="200">
 </figure>
 
 Soy de Madrid, pero desde hace ya 3 años vivo en Murcia y la verdad es que estoy encantada con el cambio. He pasado de vivir en una gran ciudad a un pequeño pueblo de pescadores. Este cambio me ha aportado mucha paz y tranquilidad.
@@ -238,12 +242,12 @@ Lo cierto es que la primera vez que encontré buscando por internet una referenc
 Estoy convencida que _El Libro de Urantia_ me llegó en el momento en que más lo necesitaba.
 
 [Read more](https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa/#more-1470)
-
+<br style="clear:both" />
 
 ## Jubileo de Jubileos – 15 de mayo
 
-<figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Jubileo-de-Jubileos.jpg" alt="Jubileo de jubileos">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Jubileo-de-Jubileos.jpg" alt="Jubileo de jubileos" width="200">
 </figure>
 
 Miguel y la Madre, juntos en el gobierno del universo
@@ -263,7 +267,7 @@ Hora del Pacífico EE. UU: 10:00
 Hora de la costa este EE. UU: 13:00
 
 Argentina-Brasil: 12:00 (mediodía)
-
+<br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
 

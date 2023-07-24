@@ -59,51 +59,53 @@ Los niños y niñas carecían de cualquier tipo de consideración social en la �
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
 [**El Ser Supremo (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
 
 Este trabajo es más que una recopilación de citas sobre el Ser Supremo, una Deidad que no aparece en ninguna religión ni cosmovisión conocida, y a la que _El Libro de Urantia_ le dedica varios documentos de la tercera parte. En él, el autor intenta que comprendamos qué es el Ser Supremo aclarando y relacionando conceptos básicos que aparecen en el libro, y también utilizando símiles, del que destacaríamos el siguiente: «Algo así como la unificación de la WWW de la Internet global con poder de acción y decisión personal, como si de una sola inteligencia se tratara. Millones de individuos se valen de este sistema para comunicarse y obtener información. En realidad la suma y síntesis del conocimiento del planeta informático.»
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Supervivencia">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Supervivencia" width="250">
 </figure>
 
 [**¿Qué es lo que sobrevive en realidad? (Ken Glasziou)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
 
 El autor comienza su artículo con una reflexión y una pregunta, que es justamente la del título: «La mayoría de lectores de los documentos de Urantia experimentan un sentimiento de regocijo y alivio cuando conocen que incluso aquellos urantianos en los parpadea el más débil destello de fe tendrán la oportunidad de continuar hacia los mundos de las mansiones tras la muerte física. Podemos incluso tener la impresión de que, excepto por un cuerpo y una mente mejores, reanudamos nuestro camino en el primer mundo de las mansiones exactamente donde lo dejamos aquí en Urantia. Pero, ¿qué sobrevive realmente de nuestra vida en Urantia?» A continuación nos proporciona una serie de conceptos útiles y citas del libro para responder a lo que es espiritual; que es, al fin y al cabo, lo que tiene valor eterno y de supervivencia.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="Los 12 apóstoles">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="Los 12 apóstoles" width="250">
 </figure>
 
 [**Los doce apóstoles (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf)
 
 Esta presentación del autor comienza haciendo una «ficha» de cada uno de los apóstoles (esquematizando lo que _El Libro de Urantia_ nos presenta redactado de manera sistemática y exhaustiva), en la que aparece toda la información aportada por el documento 139. Por cierto, un documento en el que el Dr. Sadler, como psiquiatra que era, tuvo la certeza de que los documentos Urantia eran auténticos, dada su riqueza en la descripción de cada uno de esos tipos humanos tan distintos y a la vez tan unidos en una meta espiritual común. En este trabajo encontraréis incluso un gráfico con las edades de los apóstoles cuando empezaron su ministerio con Jesús.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Ciencia-filosofia-religion-revelacion.jpg" alt="Ciencia-filosofia-religion-revelacion">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Ciencia-filosofia-religion-revelacion.jpg" alt="Ciencia-filosofia-religion-revelacion" width="250">
 </figure>
 
 [**Ciencia, filosofía, religión y revelación (Jean Royer)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf)
 
 En este artículo, su autor hace un análisis sistemático de todos estos conceptos pues, para comprender mejor de qué trata cada uno de ellos y cuáles son sus diferencias, «es bueno definir lo que se entiende por términos básicos, y es lo que vamos a hacer previamente a su examen: 1) Fundamentos, 2) Método, 3) Objeto y 4) Campo de acción». Por último, el autor compara la manera en que cada una puede enfrentarse al problema de Dios. Todo ello apoyado en citas del libro, que tan magníficamente expresa cuál es el ámbito de aplicación de todas ellas y la importancia de no confundir esos ámbitos para evitar caer en el materialismo o en el panteísmo más flagrante.
-
----
+<br style="clear:both" />
 
  
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Documento-142.jpg" alt="Documento 142">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Documento-142.jpg" alt="Documento 142" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -111,12 +113,12 @@ En este artículo, su autor hace un análisis sistemático de todos estos concep
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 142 (La Pascua en Jerusalén). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 142](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/02/Documento-142.pdf)
-
+<br style="clear:both" />
  
 ## Guía de El Libro de Urantia para niños: Jesús a los doce años
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Jesus-a-los-12-anos.jpg" alt="Jesús a los 12 años">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Jesus-a-los-12-anos.jpg" alt="Jesús a los 12 años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía doce años, y comienza así:
@@ -124,23 +126,23 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «Cuando Jesús llego a los doce años conoció e hizo varias cosas. Santiago, que contaba ocho años de edad, estaba en la escuela. Jesús todavía estudiaba en la escuela, pero también enseñaba a sus hermanos. José de cinco años y Simón de cuatro, aprendían de Jesús el alfabeto y otras cosas.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/02/017-Jesus-a-los-doce-anos.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Reinventarse.jpg" alt="Reinventarse">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Reinventarse.jpg" alt="Reinventarse" width="130">
 </figure>
 
 Reinventarse: Tu segunda oportunidad (Dr. Mario Alonso Puig)
 
 El Dr. Mario Alonso Puig ha dedicado gran parte de su vida a estudiar el impacto que tienen los procesos mentales en el despliegue de nuestros talentos y en los niveles de salud, energía y bienestar que experimentamos. En este libro, el autor nos invita a caminar por un proceso de autodescubrimiento, para que nos demos cuenta de que «gran parte de la angustia y el sufrimiento que experimentamos en la vida es optativo y que nuestra naturaleza fundamental es fuente de Energía, Sabiduría, Serenidad, Alegría, Creatividad y Amor». Resulta muy interesante la referencia que hace a Jesús de Nazaret, ya al final del libro, que comienza así: «Nadie en la historia ha ejemplarizado de una manera tan sorprendente y hermosa lo que es tener una existencia humana y a la vez moverse en otro plano de la realidad como Jesús de Nazaret».
-
+<br style="clear:both" />
 
 ## Navegando por la vida – Propósitos de vida
 
-<figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Propositos-de-vida.png" alt="Propósitos de vida">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Propositos-de-vida.png" alt="Propósitos de vida" width="250">
 </figure>
 
 Nos hemos acostumbrado a tener una vida llena de metas, que se han convertido en nuestro aliciente y motor de vida. Tanto es así que, para muchas personas, es inconcebible no tenerlas, hasta el punto de que se preguntan: si ya no tengo metas, ¿qué hago? ¿Por qué vivo?
@@ -161,7 +163,7 @@ Para poder tener el propósito de ofrecer lo mejor, necesitamos haber desarrolla
 Cuando vivimos desde el propósito de ofrecer lo mejor de nosotros mismos, inmediatamente la vida se vuelve fácil.
 
 (Assumpció Salat Bertrán)
-
+<br style="clear:both" />
 
 ## Mi párrafo favorito
 
@@ -204,13 +206,14 @@ Francisco Segura Berenguel
 
 Eduardo Altuzarra
 
-<figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2" width="250">
 </figure>
 
 Todos poseemos una herencia genética, una biología que nos acompaña desde nuestro nacimiento. En ella se encuentran disfrazados credos de los cuales se producen comportamientos desafortunados, por lo que muchos de ellos conllevan nuestros infortunios. A eso le tenemos que añadir la educación recibida y el entorno social en el que nos hemos desenvuelto. Todo ello ha hecho posible sembrar, a lo largo de nuestra vida, en un terreno donde la planta que ha brotado no ha dado los frutos idóneos que representan la felicidad, la coherencia, el altruismo, la responsabilidad, la humildad, la comprensión, la empatía, etc.
 
 Tenemos que tener presente que, si no modificamos la semilla, que es algo así como el contenido de nuestros pensamientos, no podremos obtener buenos frutos, buenas palabras, diálogos sinceros, etc., y mucho menos vamos a variar nuestras acciones y sus resultados. Si no intentamos cambiar, nuestra vida no va a cambiar.
+<br style="clear:both" />
 
 > «Quien siembra vientos, cosecha tempestades.» (refrán popular)
 
@@ -218,10 +221,10 @@ Vivir en el error significa no beneficiarse de las dádivas que el Padre otorga 
 
 Hay que considerar que cuando nos introducimos en el agua cristalina, sucios del barro de los errores, seguramente ensuciaremos las aguas limpias y nunca terminemos de limpiarnos. No es fácil limpiarse de ese lodo, cuesta limpiarse antes de bañarte limpio de fango en la piscina transparente. Salir de nuestros errores es difícil de reconocer, porque hemos vivido durante un tiempo más o menos largo en la confusión, entre conflictos y ese modo de vida que se ha acomodado a vivir con nosotros. Es así y es algo establecido en nuestra vida. Es muy importante ir cambiando poco a poco el modo de pensar, la forma de expresarnos y las acciones de nuestro diario vivir.
 
-> Cuida tus pensamientos, porque se convertirán en tus palabras.
-> Cuida tus palabras, porque se convertirán en tus actos.
-> Cuida tus actos, porque se convertirán en tus hábitos.
-> Cuida tus hábitos, porque se convertirán en tu destino.
+> Cuida tus pensamientos, porque se convertirán en tus palabras.<br>
+> Cuida tus palabras, porque se convertirán en tus actos.<br>
+> Cuida tus actos, porque se convertirán en tus hábitos.<br>
+> Cuida tus hábitos, porque se convertirán en tu destino.<br>
 > (M. Gandhi)
 
 [Read more](https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/#more-1748)
@@ -229,8 +232,8 @@ Hay que considerar que cuando nos introducimos en el agua cristalina, sucios del
 
 ## Cuestionario urantiano: Martín Guzmán
 
-<figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Martin-Guzman.jpg" alt="Martín Guzmán">
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Martin-Guzman.jpg" alt="Martín Guzmán" width="200">
 </figure>
 
 Soy mexicano, vivo en la Ciudad de México. Trabajo como encargado en un almacén. Estoy casado, tengo una hija y dos nietos. Fui presidente de la Asociación Urantia México y actualmente participo en varios grupos de lectura y estudio de _El Libro de Urantia_.
@@ -250,7 +253,7 @@ Gracias al mensaje de _El Libro de Urantia_, ahora tengo fe en Dios y sé que É
 Cuando comencé a leer el libro experimenté muchos conflictos, pues su contenido chocaba con mis creencias. Eso me puso muy mal por varios días, incluso llegué a pensar en quemarlo. Pero dentro de mí algo me decía que esa era la respuesta a mi pedido de «conocer la verdad».
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman)
-
+<br style="clear:both" />
 
 ## Serie de presentaciones «En el foco» de la UBIS
 

@@ -34,8 +34,8 @@ M. José Sánchez Santamaría
 
 ### La sabiduría se postra ante la fragilidad
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1" width="350">
 </figure>
 
 «Esta es la historia de un joven que no podía dormir casi nunca, puesto que un fantasma se le aparecía en sueños y le angustiaba revelándole todos los secretos más íntimos que él albergaba. Así le demostraba que lo sabía todo acerca de él.
@@ -55,55 +55,57 @@ M. José Sánchez Santamaría
 Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchísimo a entender el poder que tiene nuestra mente, nuestros pensamientos y, sobre todo, nuestros miedos. Cómo nos podemos ahogar en un mar de emociones y de pensamientos recurrentes, repetitivos y agotadores. Pensamientos y emociones que, por su naturaleza muy cercana a la animal, no tendrán un desarrollo espiritual más allá de este mundo material. ¡Qué frágiles somos!
 
 [Read more](https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/#more-1679)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia" width="250">
 </figure>
 
 [**Los cuerpos espaciales de Monmatia (Craig Carmichael)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf)
 
 En _El Libro de Urantia_, se dice que Monmatia (nuestro sistema solar) tiene doce planetas, algo que nuestros astrónomos todavía no han reconocido. Después de repasar lo que se entiende por planeta y de la controversia que ha rodeado a Plutón (sobre si se puede considerar un planeta o no), parece que los astrónomos están dispuestos a reconocer que puede haber más planetas en nuestro sistema solar. Como señala el autor: «Los “doce planetas” que describen las revelaciones ya no parecen una cifra tan loca si consideramos el cinturón de asteroides como un planeta fallido, y si consideramos la posibilidad de otros planetas más allá de Neptuno, incluso descartando a Plutón como planeta. La cuenta actual podría estar en diez, y subiendo».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="Otorgamientos de Miguel">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="Otorgamientos de Miguel" width="250">
 </figure>
 
 [**Los otorgamientos de Cristo Miguel (Javier Martínez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf)
 
 Aquí tenemos un esquema en forma de tabla donde aparecen las características más destacadas de los siete otorgamientos que llevó a cabo Miguel de Nebadon, nuestro Hijo Creador, tales como: el momento del tiempo en el que se produjeron, el lugar, la duración, el tipo de ser en el que se otorgó, quién o quiénes se enteraron del otorgamiento, el puesto desempeñado, a qué voluntad se sometió, etc. Resulta muy útil para tener una visión de conjunto sobre los otorgamientos, y también para percibir las diferencias entre ellos.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
 </figure>
 
 [**De la tribu a la ciudadanía cósmica (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
 
 Este es el texto de una presentación que se dio durante la Urantiatón del 28 de noviembre de 2020, y que comienza así: «En _El Libro de Urantia_ aparece varias veces la expresión ciudadanía cósmica o ciudadanos cósmicos. Otra de las expresiones que va relacionada a la ciudadanía cósmica es sin duda la de consciencia cósmica. Leemos y entendemos lo que significan esas palabras por separado, pero ¿a qué se refieren exactamente cuando van juntas?». A partir de esta pregunta, la autora desarrolla un vínculo entre ciudadanía y consciencia cósmica, a la luz de las enseñanzas de _El Libro de Urantia_.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
 [**Estudio en profundidad del LU en los grupos de estudio (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
 
 En esta presentación, el fideicomisario y vicepresidente internacional de la Fundación Urantia, Georges Michelson Dupont, comparte su extensa experiencia como anfitrión de grupos de estudio y facilitador de seminarios, todos ellos basados en la pedagogía que despliegan los reveladores en El Libro de Urantia. También propone ejemplos prácticos y recomendaciones para que el grupo se desarrolle de manera eficaz y fomente la participación de sus miembros.
-
----
+<br style="clear:both" />
 
  
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-12-apostoles.jpg" alt="Los doce apóstoles">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-12-apostoles.jpg" alt="Los doce apóstoles" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -111,12 +113,12 @@ En esta presentación, el fideicomisario y vicepresidente internacional de la Fu
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 139 (Los doce apóstoles). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 139](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/11/Documento-139.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Jesús a los nueve años
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Jesus-a-los-9-anos.jpg" alt="Jesús a los nueve años">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Jesus-a-los-9-anos.jpg" alt="Jesús a los nueve años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía nueve años, y comienza así:
@@ -124,12 +126,12 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «Nació la segunda hermana de Jesús. La llamaron Marta. Los hijos de José y María eran seis, así: Jesús, Santiago, Miriam, José, Simón y Marta. La casa constaba de una sola pieza grande. Pero José construyó otra pieza junto a la casa. Ese cuarto servía de taller durante el día y de dormitorio durante la noche. Fabricó también un pequeño banco de carpintería para Jesús. Por primera vez Jesús contaba con herramientas propias. Con frecuencia trabajaba en el banco y llegó a ser muy hábil en la fabricación de yugos para animales.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/11/014-Jesus-a-los-9-anos.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Parabola-de-la-sal-Navegando-por-la-vida.jpg" alt="Conversaciones en la otra orilla">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Parabola-de-la-sal-Navegando-por-la-vida.jpg" alt="Conversaciones en la otra orilla" width="130">
 </figure>
 
 Conversaciones en la otra orilla con el viejo profesor (Florencio Bao)
@@ -137,11 +139,12 @@ Conversaciones en la otra orilla con el viejo profesor (Florencio Bao)
 Este libro contiene una serie de diálogos agrupados por temas entre el «viejo profesor» (Enrique Tierno-Galván) y el autor del libro, amigo y colega suyo, que firma por cierto con pseudónimo. Hasta aquí todo parece normal, si no fuera porque las conversaciones tuvieron lugar días después del fallecimiento de Tierno-Galván. Esto es, cuando se llevaron a cabo este se encontraba en la antesala de la otra vida. El libro es presentado como un «diálogo-ficción», dejando al lector la última palabra sobre su posible realidad. Lo que se dice en este libro es enormemente interesante, y se complementa de alguna forma con las enseñanzas de _El Libro de Urantia_.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-conversaciones-en-la-otra-orilla-con-el-viejo-profesor-de-florencio-bao/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Mi-parrafo-favorito.jpg" alt="El evangelio y los santos de las grandes religiones">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Mi-parrafo-favorito.jpg" alt="El evangelio y los santos de las grandes religiones" width="130">
 </figure>
 
 El Evangelio y los santos de las grandes religiones, de Miguel Ruiz de Ayúcar
@@ -149,7 +152,7 @@ El Evangelio y los santos de las grandes religiones, de Miguel Ruiz de Ayúcar
 Este libro contiene una serie de diálogos agrupados por temas entre el «viejo profesor» (Enrique Tierno-Galván) y el autor del libro, amigo y colega suyo, que firma por cierto con pseudónimo. Hasta aquí todo parece normal, si no fuera porque las conversaciones tuvieron lugar días después del fallecimiento de Tierno-Galván. Esto es, cuando se llevaron a cabo este se encontraba en la antesala de la otra vida. El libro es presentado como un «diálogo-ficción», dejando al lector la última palabra sobre su posible realidad. Lo que se dice en este libro es enormemente interesante, y se complementa de alguna forma con las enseñanzas de _El Libro de Urantia_.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-el-evangelio-y-los-santos-de-las-grandes-religiones-de-miguel-ruiz-de-ayucar/)
-
+<br style="clear:both" />
 
 ## Vídeo – nuestra recomendación del mes
 
@@ -199,7 +202,7 @@ David Carrera
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Tecnicas-transformativas.jpg" alt="Mi parrafo favorito - dic 2022">
 </figure>
 
-76:6.4 … _El pueblo hace la civilización; la civilización no hace al pueblo._
+> … _El pueblo hace la civilización; la civilización no hace al pueblo._ [LU 76:6.4](/es/The_Urantia_Book/76#p6_4)
 
 En esta era de demagogia y cursilería, donde se nos machaca insistentemente con el dogma de que todos somos iguales en todos los sentidos, párrafos como este suponen un bofetón bien dado a nuestras consciencias.
 
@@ -239,8 +242,8 @@ No todo lo anterior nos resulta fácil, pero el propio camino de la vida y el am
 
 ## Cuestionario urantiano: Christian Figueroa
 
-<figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa" width="200">
 </figure>
 
 Soy Christian Figueroa Colón, estudiante universitario en administración de sistemas de oficina, soltero, vivo en Puerto Rico. Colaboro en Radio Urantia y Urantia TV.
@@ -254,7 +257,7 @@ Siendo cristiano, mi curiosidad por mirar fuera del canon me llevo a leer difere
 La primera vez que lo leí un poco al azar fue en calidad de un creyente hostil (había caído en el documento de Juan el Bautista). Me decía que esto debía ser obra del mal, un texto _new age_, un texto hecho para competir con la _Biblia_, pero cuando me decidí a leerlo con otra mentalidad unos meses después, ahí fue que mi mente hizo «boom», toda esa muralla limitante y opresiva de ideas primitivas cayó y vi una enorme e inmensa realidad, un Dios realmente eterno e infinito, y a la vez tan cálido y cercano. Finalmente encontré el descanso después de largos conflictos internos.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa)
-
+<br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
 

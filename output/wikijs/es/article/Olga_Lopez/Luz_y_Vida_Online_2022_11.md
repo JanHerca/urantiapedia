@@ -34,8 +34,8 @@ María José Sánchez Santamaría
 
 ### Situados en nuestro centro
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1" width="350">
 </figure>
 
 Muchos en la escuela hemos aprendido a manejar el compás, ese curioso aparato que nos permite crear unos círculos perfectos. Si la aguja del compás está bien colocada, el otro polo del compás nos permite realizar unos dibujos hermosos y perfectos. Pero si la aguja no está bien colocada, el otro polo del compás hará dibujos deslavazados e imperfectos.
@@ -49,55 +49,57 @@ En _El Libro de Urantia_ encontramos diferentes episodios que nos muestran el en
 Si desmenuzamos el episodio, podemos ver cómo el «secuestro emocional» que sufrió Judá, con la mente nublada por un torrente desbordado de emociones, nos puede ocasionar graves problemas y nos desconecta de nuestra mejor esencia. Pero al mismo tiempo vemos cómo, ante esa misma problemática, Jesús no se deja inundar y arrastrar por las emociones. Actúa de forma serena y paciente.
 
 [Read more](https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/#more-1646)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/La-realidad-segun-el-LU.jpg" alt="La realidad según el LU">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/La-realidad-segun-el-LU.jpg" alt="La realidad según el LU" width="250">
 </figure>
 
 [**La realidad según _El Libro de Urantia_ (Juan Pomares)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/RealidadLU.jpg)
 
 Con un libro de la complejidad y abundancia de información como es _El Libro de Urantia_, muchas veces necesitamos una visión de conjunto que nos ayude a poner en perspectiva todo el conocimiento que ofrecen los reveladores. Por suerte, hay lectores que hacen esquemas muy útiles pues ayudan a satisfacer esa necesidad. En este caso el autor se centra en la realidad, sus niveles, la divinidad, las Deidades paradisiacas y otros seres divinos.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="Historia de Urantia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="Historia de Urantia" width="250">
 </figure>
 
 [**Historia de Urantia (Alberto Torre)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf)
 
 He aquí otro esquema, esta vez en forma de tabla, que nos ayuda también a tener una visión global de la extensa historia de nuestro planeta en forma de cronología agrupada según las eras geológicas y que va desde la llegada de los Portadores de Vida de Jerusem hasta el holoceno, la era en la que nos encontramos. En cada era geológica se especifican los hitos más importantes relacionados con nuestro planeta y la historia de la humanidad.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Cronologia-de-la-vida-de-Jesus.png" alt="Cronología de la vida de Jesús según el LU">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Cronologia-de-la-vida-de-Jesus.png" alt="Cronología de la vida de Jesús según el LU" width="250">
 </figure>
 
 [**Cronología de la vida de Jesús según _El Libro de Urantia_ (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
 
 Se han hecho muchas cronologías de la vida de Jesús según lo que se cuenta en el libro, pero esta es una de las más exhaustivas y completas. En palabras del autor, «todo dato cronológico que ofrece el libro se ha registrado aquí. En cuanto a algunas fechas o momentos de determinados sucesos han sido escogidas según criterios propios. Simplemente buscan situar en el calendario estos acontecimientos, y no pretenden ser rigurosos. De cualquier modo, todos los sucesos mencionados están extraídos del libro». Tiene como particularidad que aparece un calendario de cada año a la izquierda de cada hito de la vida de Jesús.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentación del LU">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
 [**Presentación de _El Libro de Urantia_ en “La Caja de Pandora” (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf)
 
 Este trabajo contiene el texto de la presentación que su autor realizó en 2014 para el canal de YouTube «La Caja de Pandora» (un canal que ya no existe). Está dirigido a los que no conocen el libro y se centra en el poder transformador de sus enseñanzas. Es toda una invitación para que los buscadores de la verdad que hay ahí fuera sepan del libro y se asomen a sus páginas.
-
----
+<br style="clear:both" />
 
 
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Documento-138.jpg" alt="Documento 138">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Documento-138.jpg" alt="Documento 138" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -105,12 +107,12 @@ Este trabajo contiene el texto de la presentación que su autor realizó en 2014
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 138 (La formación de los mensajeros del reino). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 138](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/10/Documento-138.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Jesús a los ocho años
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Jesus-a-los-8-anos.jpg" alt="Jesús a los ocho años">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Jesus-a-los-8-anos.jpg" alt="Jesús a los ocho años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía ocho años, y comienza así:
@@ -120,12 +122,12 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «A Jesús le gustaba la música. Vendía leche y queso a cambio de lecciones de arpa. Se sentía feliz tocando el arpa y cantando. Logró que sus amigos amaran el canto.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/10/013-Jesus-a-los-8-anos.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/DivinaGeometria_0.jpg" alt="La divina geometría">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/DivinaGeometria_0.jpg" alt="La divina geometría" width="130">
 </figure>
 
 La divina geometría (Juan Buhigas)
@@ -133,11 +135,12 @@ La divina geometría (Juan Buhigas)
 Jaime Buhigas nos inicia de manera sencilla y amena en la divina geometría, y nos ayuda a responder a todas esas cuestiones y enigmas históricos de gran interés. «_No entre quien no sepa geometría»_, se leía en la puerta de la Academia de Platón. Para entrar en este libro no hace falta saber nada. Basta con tener ganas de aprender.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-la-divina-geometria-de-jaime-buhigas/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/MasPlaton.jpg" alt="Más Platón y menos Prozac">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/MasPlaton.jpg" alt="Más Platón y menos Prozac" width="130">
 </figure>
 
 Más Platón y menos Prozac (Lou Marinoff)
@@ -145,18 +148,18 @@ Más Platón y menos Prozac (Lou Marinoff)
 _El Libro de Urantia_ nos dice en repetidas ocasiones que debemos reconciliar la ciencia, la filosofía y la religión si queremos desarrollarnos armónicamente. Sin embargo, vivimos unos tiempos de ensalzamiento de la ciencia, de modo que la filosofía y la religión han sido relegadas por no poder explicar la realidad mediante pruebas palpables según el método científico. Además, dado el utilitarismo imperante en la sociedad, todo aquello que no es útil no sirve, y tanto la filosofía como la religión se consideran «inútiles». Precisamente de rebatir esto se encarga Lou Marinoff en este libro.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-mas-platon-y-menos-prozac-de-lou-marinoff/)
-
+<br style="clear:both" />
 
 ## Audio – nuestra recomendación del mes
 
-<figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Audio-El-LU-una-revelacion-transformadora.png" alt="El LU, una revelación transformadora">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Audio-El-LU-una-revelacion-transformadora.png" alt="El LU, una revelación transformadora" width="130">
 </figure>
 
 _El Libro de Urantia_, una revelación transformadora (La Caja de Pandora)
 
 A propósito de la presentación de Carmelo que hemos incluido en los trabajos recomendados del mes, y puesto que el vídeo ya no está disponible en YouTube, incluimos [aquí](https://www.ivoox.com/libro-urantia-revelacion-transformadora-audios-mp3_rf_3536227_amp_1.html) el enlace al audio correspondiente, que sigue accesible en Internet en Ivoox. Tiene como particularidad que, además de la presentación inicial de Carmelo, incluye una parte final de preguntas y respuestas, que no están en el PDF.
-
+<br style="clear:both" />
 
 ## Navegando por la vida – Leyenda árabe
 
@@ -199,8 +202,8 @@ La voy a analizar por partes:
 
 ## Cuestionario urantiano: Cecilia Barreto
 
-<figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Cecilia-Barreto.jpg" alt="Cecilia Barreto">
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Cecilia-Barreto.jpg" alt="Cecilia Barreto" width="200">
 </figure>
 
 Blanca Cecilia Barreto de Anastasi es de Perú. Está viuda y tiene tres hijas de 40, 21 y 17 años.
@@ -252,6 +255,7 @@ No.
 12. **¿Hay algo más que quieras decir respecto a _El Libro de Urantia_?**
 
 No hay que tomarlo como una biblia, sino como un libro vivo y hacerlo vivo en uno.
+<br style="clear:both" />
 
 ## III Conferencia Europea de Lectores de El Libro de Urantia
 

@@ -33,8 +33,8 @@ Luz y Vida — febrero 2022
 
 M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022" width="350">
 </figure>
 
 Seguir a Jesús
@@ -56,53 +56,56 @@ Le volvieron a preguntar:
 Jamás se ha emborrachado nadie a base de comprender «intelectualmente» la palabra _VINO_.
 
 [Read more](https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/#more-1363)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Historia-de-la-Creacion.jpg" alt="Historia de la Creación">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Historia-de-la-Creacion.jpg" alt="Historia de la Creación" width="250">
 </figure>
 
 [**Historia de la Creación (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Texto.pdf)
 
 Este trabajo es una síntesis de otro trabajo más extenso que Bill Sadler escribió sobre los temas más densos de _El Libro de Urantia_ como es el origen del universo, titulado _[Estudio del universo maestro](https://aue.urantia-association.org/estudio-del-universo-maestro-de-william-s-sadler-jr/)_. Sin duda esta obra ayudará a los lectores del libro a tener más claros la secuencia de edades que culminaron en traer a la existencia el cosmos y las personalidades divinas implicadas. Como apoyo a este trabajo está [este otro con gráficos de apoyo](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Graficos.pdf).
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
 [**La fuerza de gravedad en el núcleo atómico profetizada en 1934 (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf)
 
 Este artículo, aun siendo breve, es muy esclarecedor sobre cómo la física se va acercando poco a poco a lo que los reveladores afirman en _El Libro de Urantia_ acerca del modelo atómico y las fuerzas que mantienen cohesionados los átomos. Recordemos que el ultimatón no ha sido descubierto como tal por la ciencia. ¿Por qué los reveladores nos hablaron de él, cuando parece estar todavía muy lejos de ser descubierto? Bueno, quizá ya haya científicos que estén en el camino correcto.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes" width="250">
 </figure>
 
 [**A los educadores y creyentes de la quinta revelación (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf)
 
 Este artículo es un análisis de la sección «Las instrucciones para los educadores y los creyentes» del documento 159 (La gira por la Decápolis). Estas instrucciones fueron parte de una charla que Jesús dio para expresar «los principios que deberían guiar a los que predican la verdad» e «impulsar a todos los que enseñan el evangelio del reino». Y eso es perfectamente aplicable a nosotros como lectores comprometidos con las enseñanzas de la quinta revelación.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Astronomia-y-superuniversos.jpg" alt="Astronomía y superuniversos">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Astronomia-y-superuniversos.jpg" alt="Astronomía y superuniversos" width="250">
 </figure>
 
 [**Astronomía y superuniversos (Troy R. Bishop)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf)
 
 En este trabajo de Troy R. Bishop, traducido por Jan Herca, se hace un repaso de la organización del universo maestro según _El Libro de Urantia_ y se intenta encajar con los conocimientos astronómicos actuales y las medidas usadas actualmente para calcular distancias astronómicas. También se exponen los desacuerdos que todavía existen entre la ciencia y la quinta revelación, por otra parte lógicos, ya que la ciencia debe avanzar siguiendo un método científico que está muy alejado de los métodos de la revelación.
-
+<br style="clear:both" />
 
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Cronica-de-Jesus-Documento-130.jpg" alt="Crónicas - documento 125">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Cronica-de-Jesus-Documento-130.jpg" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -110,12 +113,12 @@ En este trabajo de Troy R. Bishop, traducido por Jan Herca, se hace un repaso de
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 130. Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 130](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/01/Documento-130.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Ajustador del Pensamiento
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Ajustador-del-Pensamiento.jpg" alt="Vida eterna">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Ajustador-del-Pensamiento.jpg" alt="Vida eterna" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado al Ajustador del Pensamiento, y comienza así:
@@ -123,12 +126,12 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «El Padre reside muy distante y se necesita mucho tiempo para llegar al Paraíso, por lo cual Él nos envía un don especial a cada uno de nosotros. Cuando tenemos alrededor de cinco años y hacemos nuestra primera decisión moral el Padre nos envía su especial regalo.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/02/005-Ajustador-del-Pensamiento.pdf)
-
+<br style="clear:both" />
 
 ## Libros – nuestras recomendaciones del mes
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Ideario_-_Santiago_Flores_0000.jpg" alt="Ideario">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Ideario_-_Santiago_Flores_0000.jpg" alt="Ideario" width="130">
 </figure>
 
 Ideario (Santiago Flores)
@@ -136,11 +139,12 @@ Ideario (Santiago Flores)
 En palabras de su autor: «Ideario es el producto de tres factores principales: un contacto temprano con la poesía en un hogar donde, de niño, el Romancero Español, las Rimas de Bécquer, el Martín Fierro de José Hernández y Grillo Nochero de Osiris Rodríguez Castillos eran lectura cotidiana; una propensión heredada (de mi padre y de su padre) para escribir poesía; y finalmente más de quince años de contacto con la filosofía de _El Libro de Urantia_». En verdad no es muy frecuente encontrarse con poesía urantiana, y esta desde luego merece mucho la pena.
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/inspirado-en-el-lu-ideario-de-santiago-flores/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Jesus-de-Nazaret-Jan-Herca.jpg" alt="Jesús de Nazaret">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Jesus-de-Nazaret-Jan-Herca.jpg" alt="Jesús de Nazaret" width="130">
 </figure>
 
 Jesús de Nazaret (Jan Herca)
@@ -148,12 +152,12 @@ Jesús de Nazaret (Jan Herca)
 Todos los lectores del libro sentimos un especial cariño hacia la figura de Jesús, el protagonista de esta historia, de modo que es fácil para nosotros sumergirnos en la historia como si estuviéramos allí. Esta primera entrega de “Jesús de Nazaret” narra los hechos de la vida del Maestro desde su retiro en el monte Hermón, donde tuvo conciencia de su verdadera identidad por primera vez desde que llegó a nuestro mundo, hasta el arresto de Juan el Bautista, pasando por los hechos extraordinarios ocurridos durante el bautismo de Jesús en el Jordán. Todo según se cuenta en _El Libro de Urantia._
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/inspirado-en-el-lu-jesus-de-nazaret-de-jan-herca/)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/EncuentroRealidad.jpg" alt="El encuentro con la realidad">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/EncuentroRealidad.jpg" alt="El encuentro con la realidad" width="130">
 </figure>
 
 El encuentro con la realidad (Vicente Ferrer)
@@ -161,11 +165,12 @@ El encuentro con la realidad (Vicente Ferrer)
 Creo que a estas alturas todos conocemos a Vicente Ferrer, exjesuita afincado en el sur de la India (ya fallecido) que dedicó buena parte de su vida a ayudar a mejorar la situación de los _dalith_, los más pobres entre los pobres de la India. Basando su exposición en «los cuatro pilares existenciales del Universo»: el hombre, Dios, la humanidad y «el mundo tal cual es», Vicente Ferrer se dedica a explicar su sencilla filosofía de vida, huyendo de toda pretensión de verdad absoluta y de todo dogmatismo, con términos a veces que resultan asombrosamente coincidentes con lo que se dice en _El Libro de Urantia_. Cosa que no es de extrañar, pues nos consta que lo leyó y mostró un gran interés por lo que contenía.
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/libros-el-encuentro-con-la-realidad-de-vicente-ferrer/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/ProyectoEticaM.gif" alt="Proyecto de una ética mundial">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/ProyectoEticaM.gif" alt="Proyecto de una ética mundial" width="130">
 </figure>
 
 Proyecto de una ética mundial (Hans Küng)
@@ -177,6 +182,7 @@ De esta forma comienza este libro de Hans Küng, teólogo católico ya fallecido
 Küng afirma en este libro que la ética debe estar basada en “lo Incondicionado”; toda ética que no esté basada en valores trascendentes (religiosos) no sirve, no es fuente de sentido para nuestra vida. Si además tenemos en cuenta que la falta de valores que aqueja a la sociedad occidental nos está llevando a un callejón sin salida; es más, está haciendo peligrar la propia supervivencia de la humanidad, la única solución para evitar nuestra autodestrucción es la creación de una ética mundial que rija todos los ámbitos de nuestra sociedad (cultura, economía, política, relaciones humanas, etc.)
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/libros-proyecto-de-una-etica-mundial-de-hans-kung/)
+<br style="clear:both" />
 
 ---
 
@@ -264,8 +270,8 @@ Desde que lo leí por primera vez me impactó, pero cuando lo volví a leer me d
 
 ## Cuestionario urantiano: Victoriano Izquierdo
 
-<figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.png" alt="Victoriano Izquierdo">
+<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.jpg" alt="Victoriano Izquierdo" width="200">
 </figure>
 
 Soy Victoriano Izquierdo Ramírez. Resido en Sevilla y estoy jubilado. Mi esposa y yo tenemos tres hijos y cuatro nietos y llevamos leyendo El Libro de Urantia desde el año 1992.
@@ -281,7 +287,7 @@ Al cabo de los años compré una revista MAS ALLA dedicada a la vida de Jesús. 
 La primera impresión fue muy impactante porque su temario era muy amplio y trataba de conceptos nuevos y desconocidos para la mayoría de los buscadores, que habíamos leído libros esotéricos, de espiritualidad y de autoayuda que estaban muy en boga en aquella época.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Victoriano_Izquierdo)
-
+<br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
 

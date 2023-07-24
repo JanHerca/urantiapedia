@@ -33,8 +33,8 @@ Luz y Vida — junio 2023
 
 M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1" width="350">
 </figure>
 
 La alegría perfecta
@@ -46,6 +46,7 @@ Ay, familia, ¡qué mundo en el que nos ha tocado vivir! Tan lleno de inmensas t
 A veces se nos hace duro mantener el ritmo, ¿verdad? ¿Debemos evadir nuestras responsabilidades, nuestra experiencia material a través de nuestra espiritualidad?
 
 ¡Todo lo contrario! No estamos aquí para evadirnos en el mundo espiritual, estamos aquí, en el mundo físico, para traer el mundo espiritual y hacer de este mundo un jardín del Edén.
+<br style="clear:both" />
 
 La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra palpable de ese deseo divino de enaltecer la vida material, de afrontar lo que supone vivir en la materia, no huir de ella. La oración que elaboró en Nazaret para sus hermanos nos lo muestra:
 
@@ -53,10 +54,10 @@ La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-2.jpg" alt="Editorial junio 2023-2">
 </figure>
 
-> Padre nuestro que estás en los cielos,
-> Santificado sea tu nombre.
-> Que venga tu reino; que se haga tu voluntad
-> En la tierra como en el cielo. 144:3.3
+> Padre nuestro que estás en los cielos,<br>
+> Santificado sea tu nombre.<br>
+> Que venga tu reino; que se haga tu voluntad<br>
+> En la tierra como en el cielo. [LU 144:3.3](/es/The_Urantia_Book/144#p3_3)
 
 Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno, con su partida física de nuestro planeta. Sus discípulos tenían la encomienda de seguir expandiendo esa elevación de la consciencia que era su mensaje, algo que «hará nuevo al viejo mundo».
 
@@ -87,50 +88,54 @@ Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su 
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico" width="250">
 </figure>
 
 [**Migraciones urantianas (M. José Gaete)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf)
 
 Tal como explica su autora en la introducción: «Este trabajo trata sobre las migraciones y asentamientos urantianos ocurridos desde los antecesores de los primeros seres humanos hasta el fin de las migraciones de las incipientes razas humanas y la participación de los descendientes de Adán en el progreso y avance racial planetario. Para esta recopilación ocupé y sinteticé los documentos 61, 62, 63, 64, 66, 67, 73, 74, 75, 76, 77, 78, 79. 80 y 96».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Ajustador">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Ajustador" width="250">
 </figure>
 
 [**Matrimonio y vida familiar (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf)
 
 La autora comienza con este párrafo del documento 84: «En los ideales del matrimonio en pareja la mujer ha obtenido por fin reconocimiento, dignidad, independencia, igualdad y educación; ¿se mostrará merecedora de todos estos nuevos logros sin precedentes? ¿Responderá la mujer moderna a su gran liberación social con pereza, indiferencia, esterilidad e infidelidad? ¡Hoy, en el siglo veinte, la mujer afronta la prueba crucial de su larga existencia en el mundo!» [LU 84:5.10](/es/The_Urantia_Book/84#p5_10). A partir de aquí, hace una breve reflexión sobre si las mujeres de nuestro tiempo nos estamos ganando el reconocimiento y la dignidad de la que se habla.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Jesús, inspiración y amigo">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Jesús, inspiración y amigo" width="250">
 </figure>
 
 [**Jesús, inspiración y amigo (Ann Bendall)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf)
 
 En este breve artículo, la autora realiza un rápido repaso por la gran variedad de experiencias por las que pasó Jesús en su corta vida en Urantia. Hay un párrafo en concreto de su exposición en el que creo que todos estaremos de acuerdo: «Observando la vida de Jesús, no creo que ningún otro ser humano haya estado sometido jamás durante una vida tan corta a tantas adversidades como las que él sufrió. Mis propias experiencias palidecen por insignificantes en comparación, y sé que, sin importar lo que yo haya pasado, él llegó más lejos que yo.»
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes" width="250">
 </figure>
 
 [**La vida, la muerte y la eternidad (Maurice Migneault)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf)
 
 Como dice su autor al inicio: «Este texto está dirigido a personas que no conocen _El Libro de Urantia_, y tiene como objetivo presentarles de manera suave y respetuosa con sus creencias algunos conceptos y enseñanzas que nos aporta este maravilloso libro. Siempre debemos ser conscientes de que primero hay que crear confianza antes de presentar el conocimiento. Es importante saber lo que alguien necesita antes de ofrecerle cualquier cosa». Está estructurado en tres partes, expuestas en el mismo título del artículo, donde ofrece breves pero valiosas pinceladas de cada uno de los tres temas, inspiradas en las enseñanzas del libro.
+<br style="clear:both" />
 
 ---
 
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Documento-145.jpg" alt="Documento 145">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Documento-145.jpg" alt="Documento 145" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -138,12 +143,12 @@ Como dice su autor al inicio: «Este texto está dirigido a personas que no cono
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 145 (Cuatro días intensos en Cafarnaúm). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 145](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/Documento-145.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Jesús en Jerusalén
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Jesus-en-Jerusalen.jpg" alt="Jesús en Jerusalén">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Jesus-en-Jerusalen.jpg" alt="Jesús en Jerusalén" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, que trata sobre la estancia de Jesús en Jerusalén por primera vez en su vida, y comienza así:
@@ -151,30 +156,31 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «Jesús estaba muy emocionado por ver el templo de Jerusalén. Pero tan pronto como penetró en él, se sintió contrariado y triste por muchas cosas. En primer lugar, no se permitía a su madre asistir a la ceremonia. Solamente se permitía a las mujeres permanecer en determinado lugar del templo. No se trataba bien a las mujeres.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/020-Jesus-en-Jerusalen.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Un-camino-a-la-libertad.jpg" alt="Un camino a la libertad">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Un-camino-a-la-libertad.jpg" alt="Un camino a la libertad" width="130">
 </figure>
 
 Un camino a la libertad (Víctor Creixell)
 
 Víctor Creixell es el sobrenombre de F. Javier L.M. Durante casi treinta años ha investigado en los campos de la antropología, la psicología y la epistemología. En este libro nos habla sobre cómo la exploración de los significados es un camino a la libertad, y analiza el sufrimiento y la influencia que tiene en nuestra visión de la realidad. Dice: «Pensamos lo que pensamos porque sufrimos. ¿Qué pensaríamos si no sufriésemos? ¿Sería la misma realidad la que verían nuestros ojos liberados del sufrimiento?». ¿Qué descubrimos cuando dejamos de sufrir, cuando vemos la realidad con los ojos de la libertad?
+<br style="clear:both" />
 
 ## Audio recomendado
 
 ### Reflexiones sobre la paz en Urantia, de Jaime Marco ([Espacio «Luz y Vida» de Radio Urantia](https://www.ivoox.com/podcast-luz-vida_sq_f11070301_1.html))
 
-<figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Paz.png" alt="Reflexiones sobre la paz en Urantia">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Paz.png" alt="Reflexiones sobre la paz en Urantia" width="250">
 </figure>
 
 En esta ocasión, os recomendamos una de las entregas del espacio «Luz y Vida» de Radio Urantia, de diez minutos de duración, en el que se incluyen los comentarios de Jaime Marco, lector veterano del libro, en los que transmite «su confianza en el triunfo final de la voluntad del Padre y la esperanza de lograr la armonía en nuestro mundo. Es inútil echar la culpa a los pecados de Lucifer, Caligastia o a la falta de Adán y Eva. Su locura y error ciertamente afectaron el desarrollo planetario normal, pero también nos bendijo con el otorgamiento de nuestro Hijo Creador, que hizo tan especial a Urantia en todo Nebadon».
 
 Enlace: [https://www.ivoox.com/reflexiones-sobre-paz-urantia-jaime-audios-mp3\_rf\_73605607\_1.html](https://www.ivoox.com/reflexiones-sobre-paz-urantia-jaime-audios-mp3_rf_73605607_1.html)
-
+<br style="clear:both" />
 
 ## Navegando por la vida: El universo
 
@@ -182,16 +188,16 @@ Enlace: [https://www.ivoox.com/reflexiones-sobre-paz-urantia-jaime-audios-mp3\_r
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/El-universo.jpg" alt="El universo">
 </figure>
 
-Imaginad
-el Universo bello
-y justo y
-perfecto.
-Convenceos luego
-de esto:
-Lo que es
-lo ha imaginado
-bastante mejor
-que vosotros.
+Imaginad<br>
+el Universo bello<br>
+y justo y<br>
+perfecto.<br>
+Convenceos luego<br>
+de esto:<br>
+Lo que es<br>
+lo ha imaginado<br>
+bastante mejor<br>
+que vosotros.<br>
 
 (Richard Bach)
 
@@ -200,15 +206,16 @@ que vosotros.
 
 Mónica Maldonado
 
-<figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Mi-parrafo-favorito-Monica-Maldonado.jpg" alt="Mi párrafo favorito - junio 2023">
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Mi-parrafo-favorito-Monica-Maldonado.jpg" alt="Mi párrafo favorito - junio 2023" width="250">
 </figure>
 
 El párrafo que he elegido es por la experiencia que actualmente me ha tocado vivir, al igual que mis hermanos del grupo ICSS y quienes conocieron en esta vida a Paula Padilla, que se graduó el pasado 13 de mayo (en Chile el 14 de mayo celebramos el día de las madres). Personalmente para mí esto fue de gran impacto; pensé mucho en lo que en ese momento estaban sintiendo su esposo, su madre, sus hijos y nietos, imaginando el dolor inmenso que su partida provocó en ellos y en todos los que la conocieron por años y trabajaron con ella. Yo solo la conocí y tuve la fortuna de trabajar algunos documentos de El Libro de Urantia, el año 2021, cuando ingresé en el ICSS (solo unos meses), como ven un periodo de tiempo muy acotado. Sin embargo, logré apreciar toda su bondad, comprensión, generosidad y amor al aportar y entregar sus conocimientos en su gran labor en la difusión de la quinta revelación. Agradezco infinitamente a mi amado Padre celestial por esta gran oportunidad de ser parte de esta difusión y de haber conocido a Paula, asimismo, haberme subido a este tren y viajar con todas las personas que he conocido hasta hoy, sabiendo que somos hijos del mismo PADRE.
+<br style="clear:both" />
 
 Por lo antes dicho y luego de darle muchas vueltas a muchos textos del libro, me he quedado con este, imaginando que esto es lo que está viviendo mi apreciada Paulita.
 
-> [LU 47:3.6](/es/The_Urantia_Book/47#p3_6) Desde las salas de resurrección os trasladáis al sector Melquisedek, donde os asignan una residencia permanente. Luego disponéis de diez días de libertad personal. Sois libres de explorar los alrededores inmediatos de vuestro nuevo hogar y de familiarizaros con el programa inminente que os espera. También tendréis tiempo para satisfacer vuestro deseo de consultar el registro y de visitar a vuestros seres queridos y a otros amigos terrestres que puedan haberos precedido en estos mundos. Al final de este período de diez días de tiempo libre empezáis la segunda etapa del viaje hacia el Paraíso, pues los mundos de las mansiones son auténticas esferas de formación, y no simplemente unos planetas donde os detenéis.
+> Desde las salas de resurrección os trasladáis al sector Melquisedek, donde os asignan una residencia permanente. Luego disponéis de diez días de libertad personal. Sois libres de explorar los alrededores inmediatos de vuestro nuevo hogar y de familiarizaros con el programa inminente que os espera. También tendréis tiempo para satisfacer vuestro deseo de consultar el registro y de visitar a vuestros seres queridos y a otros amigos terrestres que puedan haberos precedido en estos mundos. Al final de este período de diez días de tiempo libre empezáis la segunda etapa del viaje hacia el Paraíso, pues los mundos de las mansiones son auténticas esferas de formación, y no simplemente unos planetas donde os detenéis. [LU 47:3.6](/es/The_Urantia_Book/47#p3_6)
 
 Espero que cuando me gradúe pueda encontrarme con ella para decirle que estuve esperando con ansia el día que nos tocaba trabajar en la preparación del documento 43 junto a Wilson González, y que presentaríamos el jueves 25 de mayo. En fin, no pudo ser…
 
@@ -217,8 +224,8 @@ Como ven, todo puede cambiar en un instante, es por eso por lo que debemos disfr
 
 ## Cuestionario urantiano – Jan Herca
 
-<figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Jan-Herca.jpg" alt="Jan Herca">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Jan-Herca.jpg" alt="Jan Herca" width="200">
 </figure>
 
 Soy Jan Herca. Vivo en Valladolid, España. Me dedico a la cartografía digital. Estoy casado. Tengo tres hijos y un perrito.
@@ -240,7 +247,7 @@ Tengo profundas dudas de que _El Libro de Urantia_ sea lo que dice ser. Encuentr
 En primer lugar, me ha dado un nuevo propósito: quiero ayudar a divulgar y hacer más accesible el libro. En segundo lugar, me ha dado una perspectiva mucho más larga de la vida. Ahora veo esta vida como un principio de una siguiente en la que pienso muy a menudo, recordando a mis familiares que ya se han ido e imaginando la vida que estarán viviendo. Pero en el fondo, _El Libro de Urantia_ no ha cambiado mágicamente mi forma de ser. Sigo teniendo muchos defectos que me gustaría corregir, y el libro me ha hecho quizá más consciente de ellos, pero no solucionarlos fácilmente. _El Libro de Urantia_, por otra parte, me ha traído muchos conflictos en un entorno familiar muy tradicional.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca)
-
+<br style="clear:both" />
 
 ## XIX Encuentro de lectores de El Libro de Urantia en España
 

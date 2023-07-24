@@ -301,7 +301,7 @@ Entrada libre y gratuita.
 El próximo **viernes 5 de noviembre a las 19:00** nos volveremos a reunir en la sala Zoom de la Asociación Urantia de España para tratar el siguiente tema:
 
 
-### Amor versus Justicia: ¿cómo armoniza el Padre estas dos atribuciones? ¿Pensáis que puede existir un purgatorio?
+**Amor versus Justicia: ¿cómo armoniza el Padre estas dos atribuciones? ¿Pensáis que puede existir un purgatorio?**
 
 ## Acerca del boletín Luz y Vida
 

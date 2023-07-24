@@ -33,8 +33,8 @@ Luz y Vida — enero 2022
 
 María José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Editorial-enero-22.jpg" alt="Editorial enero 2022">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Editorial-enero-22.jpg" alt="Editorial enero 2022" width="250">
 </figure>
 
 Existe una hermosa leyenda de origen medieval que recoge la historia sobre un teólogo, más tarde identificado con san Agustín, que narra la siguiente anécdota:
@@ -51,53 +51,56 @@ Este problema, tratar de comprender con nuestra pequeña mente mortal el misteri
 > «…es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
 [Read more](https://aue.urantia-association.org/2021/12/31/editorial-luz-y-vida-enero-2022/#more-1329)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-origen-del-principio.jpg" alt="El origen del principio">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-origen-del-principio.jpg" alt="El origen del principio" width="250">
 </figure>
 
 [**El origen del principio (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Origen-Principio.ppt)
 
 En esta presentación de PowerPoint, el autor de este trabajo secundario ofrece una visión gráfica muy esquematizada de los conceptos más destacados del Prólogo. Muy recomendable y útil para los que tienen especial dificultad con este capítulo del libro, tan necesario para comprender el resto de su contenido.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Nuestras-deidades-creativas.jpg" alt="Nuestras Deidades creativas">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Nuestras-deidades-creativas.jpg" alt="Nuestras Deidades creativas" width="250">
 </figure>
 
 [**Nuestras Deidades creativas, una relación suprema (Linda Buselli)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf)
 
 Este trabajo es la transcripción de una presentación que la autora hizo en una conferencia Urantia en 2004 cuyo tema era el Espíritu Madre Creativo. En concreto, la autora trata de la relación que establecen el Hijo Creador con su Espíritu Creativo y la dualidad de atributos y funciones que existe entre ambos y el gran valor de esa dualidad en la organización del universo local.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-religion.jpg" alt="La nueva religión">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-religion.jpg" alt="La nueva religión" width="250">
 </figure>
 
 [**La nueva religión (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/05/LA-NUEVA-RELIGI%C3%93N-Presentaci%C3%B3n.pdf)
 
 En esta presentación, la autora hace un repaso de los conceptos más importantes que aparecen en los documentos del libro que tratan sobre la religión de una manera más específica: 100, 101, 102 y 103. Pues, tal como dice en la introducción de su trabajo: «La religión tal como se describe en _El Libro de Urantia_ contiene una nueva definición de religión que está hecha para ser vivida, pues trata de vivir nuestra relación con Dios de manera personal e intransferible. Este nuevo concepto de religión marca una gran diferencia y nos desafía a experimentar una nueva manera de progresar y de ser mejores de lo que somos.»
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-ciencia-no-puede-sustituir-a-la-religion.jpg" alt="Ciencia y religión">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-ciencia-no-puede-sustituir-a-la-religion.jpg" alt="Ciencia y religión" width="250">
 </figure>
 
 [**La ciencia no puede sustituir a la religión (Antti Roine)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Science_Spanish.pdf)
 
 Este trabajo de Antti Roine, lector finlandés, expone de manera muy clara por qué la ciencia no puede ser la fuente de sentido de nuestra existencia, que es una de las prerrogativas de la religión. Como él dice al principio de su artículo: «La ciencia no se manifiesta sobre las preguntas que tienen una importancia fundamental para el espíritu humano, concretamente, sobre el bien y el mal. Es la religión la que encuentra las respuestas a estas preguntas.»
-
+<br style="clear:both" />
 
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Crónicas - documento 125">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -106,11 +109,12 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 
 [Resumen del documento 129](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/12/Documento-129.pdf)
 
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Vida eterna
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Vida-eterna.jpg" alt="Vida eterna">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Vida-eterna.jpg" alt="Vida eterna" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la vida eterna, y comienza así:
@@ -119,11 +123,12 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/12/Vida-Eterna.pdf)
 
+<br style="clear:both" />
 
 ## Libros – nuestras recomendaciones del mes
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/NVETS-Portada.jpg" alt="Nos vemos en tus sueños">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/NVETS-Portada.jpg" alt="Nos vemos en tus sueños" width="130">
 </figure>
 
 Nos vemos en tus sueños (Olga López)
@@ -131,11 +136,12 @@ Nos vemos en tus sueños (Olga López)
 En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dice que el Ajustador del Pensamiento intenta comunicarse con nosotros por medio de los sueños, aunque el canal de transmisión se vea demasiado a menudo trastornado por nuestros propios pensamientos, miedos y obsesiones. Un buen día, me pregunté cómo sería esa comunicación si, por una circunstancia dada, estuviéramos obligados a “escuchar” al Ajustador. Y ahí nació mi segunda novela. En este ejercicio de imaginación creé a Ángel, un protagonista experto en huir hacia adelante, un joven profesional totalmente volcado en su trabajo al que, de repente, una circunstancia trágica le “obliga” a escuchar a su chispa divina, y ese hecho transforma por completo su vida y su visión de la existencia.»
 
 [Más información sobre el libro](https://aue.urantia-association.org/inspirado-en-el-lu-nos-vemos-en-tus-suenos-de-olga-lopez/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Para-todos-mis-hermanos.jpg" alt="Para todos mis hermanos">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Para-todos-mis-hermanos.jpg" alt="Para todos mis hermanos" width="130">
 </figure>
 
 Para todos mis hermanos (Gonzalo Vilar)
@@ -143,27 +149,29 @@ Para todos mis hermanos (Gonzalo Vilar)
 Es de agradecer, y es también una señal de que el movimiento Urantia goza de buena salud en nuestro país, que se publiquen ensayos y novelas relacionados con las enseñanzas de _El Libro de Urantia_. En este libro, es digno de destacar que, antes de cada capítulo o tema tratado, el autor da su punto de vista sobre el tema en particular, a la luz de las enseñanzas de _El Libro de Urantia_. Por último, se añade una recopilación de citas del libro, verdaderas perlas de sabiduría que brillan por sí solas.
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/inspirado-en-el-lu-para-todos-mis-hermanos-de-gonzalo-vilar/)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-caballero-de-la-armadura-oxidada.jpg" alt="El caballero de la armadura oxidada">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-caballero-de-la-armadura-oxidada.jpg" alt="El caballero de la armadura oxidada" width="130">
 </figure>
 
 El caballero de la armadura oxidada (Robert Fisher)
 
 Esta novela (o más bien deberíamos decir cuento) narra la historia de un caballero medieval que, para estar siempre allí donde se le necesita, lleva puesta su armadura las 24 horas del día. Un día intenta quitársela y le resulta imposible hacerlo. Inicia entonces un camino en el que, ayudado por diferentes amigos que se va encontrando, va comprendiendo paulatinamente qué es en realidad la armadura y cómo puede quitársela.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-psicologia-del-amor.jpg" alt="Nueva psicología">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-psicologia-del-amor.jpg" alt="Nueva psicología" width="130">
 </figure>
 
 La nueva psicología del amor (M. Scott Peck)
 
 Este libro es muy recomendable, pues nos hace pensar sobre cómo debemos amar a los demás, y nos hace preguntarnos cuáles son aquellos desajustes que arrastramos desde la infancia, desajustes que deberíamos arreglar para llegar a desarrollarnos espiritualmente en plenitud. El autor parte de la premisa de que la vida es difícil, y nos muestra cómo la mayoría de nosotros buscamos atajos ilegítimos para escapar de las dificultades en lugar de afrontarlas y vencerlas. Señala la pereza como la principal enemiga de nuestro desarrollo espiritual, pues tira de nosotros hacia una comodidad y bienestar ficticios.
+<br style="clear:both" />
 
 ---
 
@@ -233,7 +241,7 @@ M. Helena Bañas
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Mi-parrafo-favorito-ene-22.jpg" alt="Mi párrafo favorito - ene 2022">
 </figure>
 
-[LU 131:3.7](/es/The_Urantia_Book/131#p3_7) «… La inmortalidad es la meta de la sinceridad; … Los sinceros no mueren».
+> «… La inmortalidad es la meta de la sinceridad; … Los sinceros no mueren».[LU 131:3.7](/es/The_Urantia_Book/131#p3_7) 
 
 Al igual que muchos otros lectores, existen numerosas citas que podría haber elegido como favorita para comentar, pues _El l__ibro de Urantia_ está lleno de auténticas _perlas_ de sabiduría que a menudo nos cautivan y nos estremecen. Pero elegí esta de la **_sinceridad_** por la importancia de este valor en nuestra vida y en nuestra ascensión por el universo, y por la falta de sinceridad en el mundo.
 
@@ -241,19 +249,19 @@ _Sinceridad_ aparece tantas veces en el libro como _verdad o amor._ Deriva del l
 
 Como vemos, la sinceridad está en la raíz de muchas otras virtudes morales e implica nobleza en nuestras relaciones, tanto con los demás como con nosotros mismos. Y esto es muy importante y de gran liberación porque ser sinceros aumenta nuestra autoestima, hace que abandonemos muchas poses «fingidas» o el deseo de ser otra persona y, una vez nos aceptamos como somos con total honestidad, podemos comenzar a mejorar nuestros defectos y a alinearnos con nuestras acciones. Los demás nos verán también como alguien en quien poder confiar y aportaremos una base sólida para entablar cualquier amistad, incluida la amistad con Dios.
 
-Ser sinceros implica también un equilibrio en nuestras relaciones, ya que el exceso de sinceridad puede dañar al otro: «_…la sinceridad cumple su mejor función en el trabajo del reino cuando está_ _unida con la discreción__»__._ 181:2.21.
+Ser sinceros implica también un equilibrio en nuestras relaciones, ya que el exceso de sinceridad puede dañar al otro: «_…la sinceridad cumple su mejor función en el trabajo del reino cuando está unida con la discreción_» [LU 181:2.21](/es/The_Urantia_Book/181#p2_21)
 
 Discreción y sinceridad deben, pues, ir de la mano, y debemos estimular y conservar en los más pequeños esa cualidad tan innata que poseen, pero a la vez debemos advertirles pronto que no deben decir todo lo que piensen, aunque sea verdad, y que deben ser prudentes y actuar con los demás tal y como desearían que actuaran con ellos. Nosotros tampoco debemos olvidarlo.
 
 Y lo más importante: sin sinceridad, sin esa actitud de los niños pequeños que tanto elogiaba Jesús, no podremos conocer a Dios en nuestra experiencia personal, experimentarlo, sentirlo… tan solo podremos creer en Él por la fe; por eso la sinceridad es la llave del reino de los cielos dentro de nosotros, como nos dicen los Documentos.
 
-De ahí también que Jesús _«mucho valoraba la sinceridad_ _—__un corazón puro»_ 140:8.2, y que _«Dios nunca olvida la sinceridad»__._ [131:1:6](https://www.urantia.org/es/node/828?term=%22La%20sinceridad%22#U131_1_6) (1443.2)
+De ahí también que Jesús _«mucho valoraba la sinceridad —un corazón puro»_ [LU 140:8.2](/es/The_Urantia_Book/140#p8_2), y que _«Dios nunca olvida la sinceridad»_. [LU 131:1.6](/es/The_Urantia_Book/131#p1_6)
 
 
 ## Cuestionario urantiano: Gloria Andreu
 
-<figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Gloria-Santos.png" alt="Gloria Andreu">
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Gloria-Santos.jpg" alt="Gloria Andreu" width="200">
 </figure>
 
 Gloria Andreu de los Santos nació en Sevilla y reside en Castilleja de la Cuesta (Sevilla). Ha trabajado como administrativa en la empresa privada y actualmente está jubilada. Es madre de dos hijos, chico y chica, de 36 y 34 años. Es lectora de _El Libro de Urantia_ desde los años 80.
@@ -267,12 +275,12 @@ Llegué a _El Libro de Urantia_ por la ufología, desde muy joven, con 13 o 14 a
 Mi primera impresión fue que algo en mi interior me decía que lo que estaba escuchando tenía que ser la verdad, porque sentí que por primera vez tenía respuestas a tantas lagunas que tenía en mi mente y que hasta ahora nada ni nadie supo contestar.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gloria_Andreu)
-
+<br style="clear:both" />
 
 ## Ya está aquí la nueva revisión de la traducción al español de El Libro de Urantia
 
-<figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-Libro-de-Urantia-Revised-478x700-1.jpg" alt="El LU - edición internacional">
+<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-Libro-de-Urantia-Revised-478x700-1.jpg" alt="El LU - edición internacional" width="130">
 </figure>
 
 Desde el pasado 16 de diciembre, ya está disponible en formato electrónico el texto de la nueva revisión de la traducción al español de _El Libro de Urantia_.
@@ -282,7 +290,7 @@ Está disponible y accesible desde esta página web de la Fundación:
 [http://urantia.org/es/unidad](http://urantia.org/es/unidad)
 
 Ahora que comienza un nuevo año, ¿qué mejor que empezar la lectura de _El Libro de Urantia_ con un texto mejorado, que permitirá estudiar el libro con mayor profundidad y con la seguridad de que será fiel al original inglés?
-
+<br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
 

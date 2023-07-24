@@ -32,8 +32,8 @@ Luz y Vida — octubre 2022
 
 María José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-1.jpg" alt="Editorial oct 22-1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-1.jpg" alt="Editorial oct 22-1" width="250">
 </figure>
 
 Dos ángeles sobrevuelan el Berlín de la posguerra, la ciudad partida en dos: Damiel y Cassiell. Son invisibles, salvo para los niños. Se cubren con abrigos oscuros, vuelan. Son eternos, protectores y vagabundos. Miran la realidad de los humanos en sepia. Los acompañan, los adivinan, pueden escuchar sus pensamientos. No tienen la posibilidad de sentir como sienten los humanos y son sin embargo ángeles empáticos. Comparten fragmentos de la vida de las personas, los acarician con la mirada, los sostienen sin que ellos lo sepan.
@@ -49,53 +49,56 @@ Al igual que esta secuencia de la película, si pudiéramos estar presentes en l
 Ahora hablemos de ti, querido lector o lectora, que lees este editorial de nuestra revista. Ahora mismo, leyendo estas letras, estos garabatos negro sobre blanco en tu pantalla, estás realizando una actividad misteriosa e inquietante, aunque la fuerza de la costumbre te impide asombrarte por lo que haces. Piénsalo bien. Estás en silencio, recorriendo estas letras que te comunican ideas del mundo que te rodea ahora mismo. Te has retirado a una habitación interior donde te hablan personas lejanas en el tiempo o el espacio. Has creado una realidad paralela parecida a la ilusión cinematográfica, una realidad que depende solo de ti.
 
 [Read more](https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/#more-1607)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="La creación del fuego">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="La creación del fuego" width="250">
 </figure>
 
 [**La creación del fuego (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf)
 
 En este trabajo, el autor habla del momento en el que los seres humanos empezaron a utilizar el fuego de manera intencionada. Como sabemos, en el libro se dice que fueron Andón y Fonta, la primera pareja de seres humanos, los primeros que consiguieron hacer fuego a voluntad, pero la ciencia actual sitúa el inicio de esa habilidad varios cientos de miles de años después. Unos recientes descubrimientos han permitido retrasar considerablemente esa datación.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="El problema de Júpiter">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="El problema de Júpiter" width="250">
 </figure>
 
 [**El problema de Júpiter (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf)
 
 Júpiter, ese planeta gigante gaseoso de nuestro sistema solar, siempre ha fascinado a astrónomos y no astrónomos. De hecho parece que no suele ser habitual encontrar ese tipo de planetas en otros sistemas solares, lo que lleva al autor a considerar lo que nos dicen los reveladores sobre nuestro propio sistema solar, que ellos llaman Monmatia y que tiene numerosas particularidades que lo hacen alejarse de lo que suele ser habitual. De hecho, el problema de Júpiter que da título a este trabajo es que no debería estar donde está. En palabras del autor: «Según los modelos actuales, los planetas gigantes se forman en los confines exteriores de un sistema, luego migran hacia adentro y terminan muy cerca de su estrella. Pero esto no podría ser para Júpiter. Es un planeta enorme, de más del doble de masa que el resto de planetas combinados del sistema solar, pero que sin embargo, orbita en una zona muy interior».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comentarios al documento 179">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comentarios al documento 179" width="250">
 </figure>
 
 [**Comentarios al documento 179 (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf)
 
 En este artículo, el autor trata sobre la Última Cena (de la que justamente se habla en el documento 179) y las circunstancias que la rodearon, comparando lo que se dice en el libro con los evangelios. En palabras del autor: «Pocos se paran a pensar detenidamente en lo que Jesús hizo esa noche: ¡cambió los rituales antiguos! Pero Jesús no estaba inaugurando una nueva forma de celebrar la antigua pascua. Su intención no era la de coartar la libertad humana y obligar a un nuevo tipo de celebración. Jesús estaba, sencillamente, dando una lección de libertad y utilizando un ritual antiguo como medio para una enseñanza mayor y para establecer un nuevo tipo de conmemoración».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación" width="250">
 </figure>
 
 [**Los retos de los líderes de la quinta revelación (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf)
 
 En esta presentación, la autora hace un repaso de lo que para ella son las características deseables en los líderes que beben de las enseñanzas de _El Libro de Urantia_, que poco tienen que ver con el concepto de líder que hemos visto hasta ahora en la historia de las religiones y de la humanidad en general. También incluye ejemplos de verdaderos líderes que aparecen en el libro en cada una de las revelaciones de época anteriores, y por último enumera las características que hacen que la comunidad de lectores del libro sea distinta a las comunidades que se han creado a partir de las religiones evolutivas.
-
+<br style="clear:both" />
  
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Cronica-de-la-vida-de-Jesus-oct-22.png" alt="Crónica de la vida de Jesús-oct 22">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Cronica-de-la-vida-de-Jesus-oct-22.png" alt="Crónica de la vida de Jesús-oct 22" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -103,12 +106,12 @@ En esta presentación, la autora hace un repaso de lo que para ella son las cara
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 137 (La espera en Galilea). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 137](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/09/Documento-137.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: Los días escolares de Jesús en Nazaret
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Los-dias-escolares-de-Jesus-en-Nazaret.jpg" alt="Jesús a los 7">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Los-dias-escolares-de-Jesus-en-Nazaret.jpg" alt="Jesús a los 7" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a los días escolares de Jesús de Nazaret, y comienza así:
@@ -116,32 +119,33 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «Todos los niños judíos a los siete años iban a la escuela. En esa época las niñas no concurrían a la escuela. Jesús, junto con los demás niños judíos, fue a la escuela.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/09/012-Sus-dias-escolares-en-Nazaret.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-cristianismo-es-Amor.jpg" alt="Más Platón y menos Prozac">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-cristianismo-es-Amor.jpg" alt="Más Platón y menos Prozac" width="130">
 </figure>
 
-El cristianismo es Amor (Miguel Ruiz de Ayúcar)
+**El cristianismo es Amor (Miguel Ruiz de Ayúcar)**
 
 El libro es una iniciación al verdadero cristianismo, a la palabra y obras de Jesús, basado en los cuatro evangelios en cartas de San Pablo, San Agustín, etc. Está escrito para su fácil entendimiento, con citas del evangelio, de las cartas de San Pablo, de San Agustín, de partes del antiguo testamento, de los salmos. También tiene comentarios sobre la vida de Jesús y sobre algunas de sus parábolas.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-el-cristianismo-es-amor-de-miguel-ruiz-de-ayucar/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Las-siete-leyes-espirituales-del-exito-deepak-chopra.jpg" alt="Dios existe">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Las-siete-leyes-espirituales-del-exito-deepak-chopra.jpg" alt="Dios existe" width="130">
 </figure>
 
-Las siete leyes espirituales del éxito (Deepak Chopra)
+**Las siete leyes espirituales del éxito (Deepak Chopra)**
 
 Deepak Chopra es un especialista en la medicina mente-cuerpo, autor de numerosos libros. En este desarrolla siete principios, con la base de que «el éxito es un viaje y no un destino». Libro práctico (cómo no podía ser menos siendo de autoayuda) pero de un profundidad tremenda: «_No somos unos seres humanos que tenemos experiencias espirituales de cuando en cuando. Es al contrario: somos unos seres espirituales que tenemos experiencias humanas de cuando en cuando»._
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-las-siete-leyes-espirituales-del-exito-de-deepak-chopra/)
-
+<br style="clear:both" />
 
 ## Vídeo – nuestra recomendación del mes
 
@@ -219,8 +223,8 @@ La gran pregunta es: ¿qué forma parte de ese sistema y cómo lo mantenemos en 
 
 ## Cuestionario urantiano: Jeannie Vázquez de Abreu
 
-<figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Jeannie-Vazquez.jpg" alt="Jeannie Vázquez">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Jeannie-Vazquez.jpg" alt="Jeannie Vázquez" width="200">
 </figure>
 
 Soy Jeannie Vázquez, vivo en Montevideo, Uruguay. Me dedico a estudiar y servir a la revelación de _El Libro de Urantia_.
@@ -240,7 +244,7 @@ Lo primero que leí fue el índice, mientras caminaba despacio de regreso a mi c
 Desde el principio lo acepté como verdad, no dudé de que es una revelación divina real. La revelación respondió a todas mis preguntas y dudas, satisfizo mi hambre de verdad.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jeannie_Vazquez)
-
+<br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
 

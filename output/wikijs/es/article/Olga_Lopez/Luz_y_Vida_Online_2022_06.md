@@ -34,8 +34,8 @@ Luz y Vida — junio 2022
 
 M. José Sánchez Santamaría
 
-<figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1" width="350">
 </figure>
 
 «Cuenta una vieja historia que en un pequeño pueblo se desató una tormenta tal que el río se desbordó y lo inundó todo por completo. Los habitantes escapaban como podían, pero el sacerdote, que siempre había sido un hombre de gran fe, permanecía en la entrada de la parroquia rezando a Dios para que lo sacase de allí.
@@ -63,55 +63,57 @@ Sin embargo, el agua continuaba cayendo y el sacerdote terminó ahogándose y ll
 –¿Pero de qué abandono me hablas? –le respondió Dios– ¡Te envié una camioneta, te envié un bote y te envié un helicóptero!»
 
 [Read more](https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/#more-1516)
-
+<br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas" width="250">
 </figure>
 
 [**Técnicas transformativas (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
 
 Este trabajo es en realidad un resumen de uno de los apéndices de la obra de William Sadler Jr. _Estudio del universo maestro_, que puede leerse en [este enlace](http://www.urantia.org/es/apendices-de-estudio-del-universo-maestro/apendice-viii-tecnicas-transformadoras). En palabras de su autor, uno de los lectores más brillantes del libro: «Hay más de una forma en que las cosas y los seres surgen de los potenciales para convertirse en reales -para volverse actuales- pero, en todos los casos, es un proceso transformativo (…) Hay otras diversas técnicas transformativas (además de la evolución y la creación) en virtud de las cuales las cosas y los seres son traídos a la existencia, y a través de las cuales se forjan los cambios y las modificaciones en las cosas y los seres ya existentes». En este resumen se hace un repaso justamente a esas técnicas.
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Libertad">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Libertad" width="250">
 </figure>
 
 [**Libertad (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
 
 En este breve artículo, que el autor define como un himno a la libertad, se analiza esta cita de _El Libro de Urantia_: «A medida que ascendéis por la escala de la personalidad, aprendéis primero a ser leales, después a amar, después a ser filiales, y entonces podréis ser libres» [LU 39:4.11](/es/The_Urantia_Book/39#p4_11). El autor expone cada uno de los puntos que nos lleva a ser libres (ser leales, amar, ser filiales) apoyándose en otras citas del libro, así como las reflexiones que le provoca cada una de esas etapas. En palabras del autor, ser libre «es vivir en la seguridad más total. Es saber que nada malo nos puede suceder y que todas las fuerzas suprahumanas y personales contribuyen a nuestra felicidad. Todos nuestros miedos físicos o mentales desaparecen, incluso el último miedo que puede quedar tras los otros: el miedo de no ser capaz de amar».
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Pangea.png" alt="Pangea">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Pangea.png" alt="Pangea" width="250">
+<figcaption><em>User:Kieff – File:Pangaea continents.png, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=8161694">Wikimedia</a></em></figcaption>
 </figure>
 
 [**De Pangea a las placas tectónicas (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf)
 
 En otro de los trabajos de Halbert Katzen dedicados a comparar las afirmaciones de _El Libro de Urantia_ con lo que la ciencia conoce hasta el momento, el autor aborda la deriva continental y la teoría de la tectónica de placas. Nos dice: «_El Libro de Urantia_ no solo dice que los continentes estuvieron al principio todos ellos conectados como una masa terrestre y que luego se rompieron y se separaron, sino que también proporciona detalles sobre cómo sucedió esto. Además, aborda cuestiones relacionadas con la forma en que diversas presiones afectan la interrelación de los océanos, los continentes, la corteza terrestre, los volcanes, los terremotos y la formación de montañas. Aunque la teoría de la deriva continental había existido durante mucho tiempo y se habían desarrollado algunas pruebas en apoyo de esta teoría antes de la publicación de _El Libro de Urantia_ en 1955, la teoría de la deriva continental era muy impopular en el momento de la publicación porque los científicos no habían obtenido una explicación adecuada de cómo los continentes podían moverse». De hecho, no se aceptó plenamente hasta los años 60 y 70. Este es un ejemplo más de que la ciencia va llegando a las mismas conclusiones que ya aparecen en _El Libro de Urantia_.
-
-Crédito imagen: De User:Kieff – File:Pangaea continents.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8161694
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Jesus-y-las-mujeres.jpg" alt="Jesús y las mujeres">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Jesus-y-las-mujeres.jpg" alt="Jesús y las mujeres" width="250">
 </figure>
 
 [**Jesús y las mujeres (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/Jes%C3%BAs-y-las-mujeres.pdf)
 
 En palabras de la autora: «A la luz de las enseñanzas de _El Libro de Urantia_, encontramos a un Jesús más cercano e incluso más poderoso que el que aparece en los evangelios. Y hay un aspecto de su vida en el que normalmente no suele hacerse hincapié, y es justamente el de su actitud hacia las mujeres (…) En esta presentación, vamos a abordar esta interesante faceta del Maestro. En primer lugar, veremos cómo se comportó con las mujeres de su propia familia y, en segundo lugar, cuál fue su actitud ante las mujeres en general».
-
+<br style="clear:both" />
 
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
-<figure id="Figure_6" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Cronica-de-la-vida-de-Jesus-Michael-Dudash-Follow-Me-525.jpg" alt="Crónica de la vida de Jesús - Doc 134">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Cronica-de-la-vida-de-Jesus-Michael-Dudash-Follow-Me-525.jpg" alt="Crónica de la vida de Jesús - Doc 134" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -119,12 +121,12 @@ En palabras de la autora: «A la luz de las enseñanzas de _El Libro de Urantia_
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 134 (Los años de transición). Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
 
 [Resumen del documento 134](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/05/Documento-134.pdf)
-
+<br style="clear:both" />
 
 ## Guía de El Libro de Urantia para niños: nacimiento de Jesús
 
-<figure id="Figure_7" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Guia-del-LU-para-ninos-El-nacimiento-de-Jesus.png" alt="El nacimiento de Jesús">
+<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Guia-del-LU-para-ninos-El-nacimiento-de-Jesus.png" alt="El nacimiento de Jesús" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado al nacimiento de Jesús, y comienza así:
@@ -132,12 +134,12 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 «María y José vivían en Nazaret. José necesitó viajar a Belén. Le dijo a María que ella no podía viajar pues iba a tener un hijo. Pues bien, María rehusó quedarse en casa y resolvió viajar también, ¡le gustaba la aventura! Empacó lo necesario para ambos y logró que José le permitiera viajar también.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/05/009-Nacimiento-de-Jesus.pdf)
-
+<br style="clear:both" />
 
 ## Otros libros de crecimiento espiritual
 
-<figure id="Figure_8" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/porquesoycristiano.jpg" alt="Por qué soy cristiano">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/porquesoycristiano.jpg" alt="Por qué soy cristiano" width="130">
 </figure>
 
 Por qué soy cristiano (José Antonio Marina)
@@ -145,22 +147,23 @@ Por qué soy cristiano (José Antonio Marina)
 El autor explora la caudalosa corriente de la experiencia cristiana, que tiene su origen en un enigmático judío que vivió hace veinte siglos. Los seguidores de Jesús de Nazaret debieron enfrentarse con el complejo mundo helenístico, y elegir entre una interpretación _gnóstica_, filosófica, y una interpretación moral; entre una concepción carismática y una institucional. De estas decisiones deriva parte de nuestra cultura. Es muy interesante leer acerca de la visión de uno de los principales filósofos españoles de la actualidad sobre este tema y sobre la figura de Jesús.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-por-que-soy-cristiano-de-jose-antonio-marina/)
+<br style="clear:both" />
 
 ---
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/La-compasion-en-un-mundo-injusto.jpg" alt="La compasión en un mundo injusto">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/La-compasion-en-un-mundo-injusto.jpg" alt="La compasión en un mundo injusto" width="130">
 </figure>
 
 La compasión en un mundo injusto (Juan José Tamayo)
 
 En su uso normal, la palabra compasión suena a sentimentalismo alejado de la praxis, ajeno a la vida política; a comportamiento moralista que viene a encubrir las causas de la injusticia; a una vaga simpatía que se siente desde fuera o desde arriba con cierto complejo de superioridad. Sin embargo, el verdadero sentido de la compasión es ponerse en el lugar de los sufrientes en una relación de igualdad y empatía, asumir el dolor de las otras personas como propio, interiorizar a la otra persona dentro de nosotros y nosotras, sufrir no solo con los otros, sino en los otros, hasta identificarse con quien sufre y con sus sufrimientos, cuestión que no resulta fácil pero que es necesaria. Para ser una persona compasiva no es necesario que exista un afecto previo, es suficiente con que consideremos a quienes sufren como iguales. Ese es el verdadero significado de la compasión como principio y virtud.
-
+<br style="clear:both" />
 
 ## Vídeo – Nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/2030.jpg" alt="2030">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/2030.jpg" alt="2030" width="350">
 </figure>
 
 [2030](https://www.youtube.com/watch?v=BjHQiu8yHdo&ab_channel=EstudiosdelosEscritosdeUrantia) ([Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ))
@@ -170,8 +173,8 @@ En este vídeo, el autor lleva a cabo una reflexión muy interesante acerca de l
 
 ## Navegando por la vida – Las tres rejas
 
-<figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Navegando-por-la-vida-Las-tres-rejas.jpg" alt="Las tres rejas">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Navegando-por-la-vida-Las-tres-rejas.jpg" alt="Las tres rejas" width="250">
 </figure>
 
 El joven discípulo de un filósofo sabio llega a casa de este y le dice:
@@ -195,7 +198,7 @@ El joven discípulo de un filósofo sabio llega a casa de este y le dice:
 –A decir verdad, no.
 
 –Entonces –dijo el sabio sonriendo–, si no sabemos si es verdad, ni bueno ni necesario, sepultémoslo en el olvido.
-
+<br style="clear:both" />
 
 ## Mi párrafo favorito
 
@@ -218,8 +221,8 @@ Pero no creo que esto sea suficiente. Pretender explicar las eternas cuestiones 
 
 ## Cuestionario urantiano: Alberto Tapiz
 
-<figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Alberto-Tapiz.jpg" alt="Alberto Tapiz">
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Alberto-Tapiz.jpg" alt="Alberto Tapiz" width="200">
 </figure>
 
 Mi nombre es Alberto Tapiz Merino, resido en Miranda de Arga (Navarra). Soy ingeniero cartógrafo, soltero y sin hijos. Estoy leyendo _El Libro de Urantia_ desde hace 12 años.
@@ -233,12 +236,12 @@ Por medio de los _Caballo de Troya_ de Juan José Benítez. Tras leer varios lib
 Comencé la lectura por la parte de la historia y evolución del planeta Urantia, como geógrafo e ingeniero era una parte muy interesante para mí. Luego vino la parte referida a la estructura y organización del universo, y por última la referente a Jesús de Nazaret. Tras una primera lectura la impresión fue la de «esto es lo que mejor ha respondido a las preguntas buscadas durante años», a pesar de no entender muchos conceptos y pasajes del libro.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Alberto_Tapiz)
-
+<br style="clear:both" />
 
 ## III Encuentro Europeo de lectores de El Libro de Urantia
 
-<figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Cartel-III-Encuentro-Europeo.png" alt="III Encuentro Europeo">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Cartel-III-Encuentro-Europeo.png" alt="III Encuentro Europeo" width="200">
 </figure>
 
 La [Asociación Urantia de España](http://www.urantia.es/), la [Asociación Urantia Internacional](http://urantia-association.org/) y el comité europeo de organización tienen a bien anunciar que se va a celebrar el ENCUENTRO EUROPEO **del 20 al 23 de octubre de 2022** en el Complejo Sol Torremolinos (Torremolinos, Costa del Sol, Málaga), un complejo hotelero de tres hoteles.
@@ -251,7 +254,7 @@ El alojamiento incluye:
 - Es posible alojarse días antes y días después de las fechas previstas para el ENCUENTRO.
 
 En [este enlace](https://aue.urantia-association.org/iii-encuentro-europeo-de-lectores-de-el-libro-de-urantia/) se irá poniendo toda la información necesaria para inscribirse en el evento. ¡No dejéis pasar la oportunidad de acudir a este encuentro presencial, después de más de tres años sin la oportunidad de reunirnos cara a cara!
-
+<br style="clear:both" />
 
 ## III Simposio Científico de la Fundación Urantia
 
