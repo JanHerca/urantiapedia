@@ -33,7 +33,7 @@ Luz y Vida — septiembre 2022
 
 M. José Sánchez Santamaría
 
-## Conócete a ti mismo
+**Conócete a ti mismo**
 
 Durante las vacaciones veraniegas, con el trasiego de viajes, excursiones, salidas que muchas personas solemos realizar, podemos hacer esta reflexión:
 
@@ -51,7 +51,7 @@ Pero espera un momento, te pregunto:
 
 ¿Te das cuenta de lo maravilloso que es estar vivo, movernos con este cuerpo, crear una simple receta de cocina? ¿Nos admiramos, en alguna pausa que hagamos en nuestra vida, de algo tan cercano como nuestro cuerpo o nuestra mente? ¿Nos admira el hecho de EXISTIR?
 
-[Read more](https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/#more-1578)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

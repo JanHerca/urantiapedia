@@ -55,7 +55,7 @@ Le volvieron a preguntar:
 
 Jamás se ha emborrachado nadie a base de comprender «intelectualmente» la palabra _VINO_.
 
-[Read more](https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/#more-1363)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -244,7 +244,7 @@ A causa de todas estas falsedades, hipocresías, dogmas, mitos, rituales, etc. q
 
 Es triste que, siendo como somos una civilización tecnológica y científicamente adelantada, las religiones en general hayan conseguido un preocupante distanciamiento entre ciencia y filosofía espiritual. Han conseguido que valores como crecimiento interior y despertar de consciencia apenas tengan significado; un preocupante desajuste social bastante peligroso, porque la ciencia, con todos sus adelantos tecnológicos, y sin una sólida base ético-moral que armonice esas grandes diferencias entre ambas, podrían llevarnos al caos y hasta nuestra posible aniquilación como civilización.
 
-[Read more](https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/#more-1359)
+[Read more](/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas)
 
 
 ## Mi párrafo favorito

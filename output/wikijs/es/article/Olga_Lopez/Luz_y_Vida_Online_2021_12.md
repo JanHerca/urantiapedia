@@ -45,7 +45,7 @@ Si los lectores de _El Libro de Urantia_ queremos hacer una lectura más recogid
 
 Para ello, os propongo saltar por encima de la avalancha de las noticias, de la vorágine de la «actualidad», pues esta no tiene grosor: la actualidad es plana, corta, llena de datos, informaciones inconexas que nos embarullan la mente.
 
-[Read more](https://aue.urantia-association.org/2021/11/29/editorial-luz-y-vida-diciembre-2021/#more-1297)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -248,7 +248,7 @@ Otra de las cosas curiosas del agua es que contiene **hidrógeno y oxígeno;**�
 
 > El análisis técnico no revela lo que una persona o una cosa pueden hacer. Por ejemplo: el agua se emplea eficazmente para apagar el fuego. Que el agua apaga el fuego es un hecho de la experiencia cotidiana, pero ningún análisis del agua podría haber revelado nunca que posee esta propiedad. El análisis determina que el agua está compuesta de hidrógeno y de oxígeno; un estudio adicional de estos elementos revelaría que el oxígeno es el verdadero soporte de la combustión y que el hidrógeno mismo arde libremente. [LU 12:9.4](/es/The_Urantia_Book/12#p9_4)
 
-[Read more](https://aue.urantia-association.org/2021/11/29/los-secretos-del-agua/#more-1282)
+[Read more](/es/article/Luis_Coll/Los_secretos_del_agua)
 
 
 ## Cuestionario urantiano: Paco Morón

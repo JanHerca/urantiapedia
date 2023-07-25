@@ -53,7 +53,7 @@ Nos decía cientos de años atrás Agustín de Hipona estas maravillosas palabra
 _«Tarde te amé, hermosura tan antigua, y tan nueva, tarde te amé. Y he aquí que Tú estabas dentro de mí, y yo fuera; y fuera te buscaba yo, y me arrojaba sobre esas hermosuras que Tú creaste._
 _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían.»_
 
-[Read more](https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/#more-1442)
+º[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -217,7 +217,7 @@ En este nivel lo natural es que la emoción se exprese; ahora bien, como somos s
 
 Este es el primer nivel, es decir, un punto evolutivo de nuestro camino de vida, donde podemos encontrar emociones de las que a menudo no somos conscientes; están escondidas en una parte de nuestra mente inconsciente, aunque esto no significa que no afecten. De hecho suelen condicionar nuestras conductas, nuestras relaciones e incluso nuestra salud.
 
-[Read more](https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/#more-1424)
+[Read more](/es/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos)
 
 
 ## Reflexiones urantianas: El Padre Nuestro y sus cambios nada inocentes

@@ -36,7 +36,7 @@ M. José Sánchez Santamaría
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-1.jpg" alt="Editorial marzo 2023-1">
 </figure>
 
-Ser como niños
+**Ser como niños**
 
 Un nuevo mes se inaugura, y con él la primavera se nos muestra una vez más, espléndida en su energía y renovación (al menos en el hemisferio en el que nos encontramos). Un nuevo mes y un nuevo número de nuestro boletín mensual, con el que queremos ir soltando semillas de una manera algo más consciente de ver y actuar, siempre inspirándonos en el libro azul, pero también buscando encontrar perlas de verdad dondequiera que se nos muestren.
 
@@ -54,7 +54,7 @@ Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir l
 
 Los niños y niñas carecían de cualquier tipo de consideración social en la época en la que vivió Jesús de Nazaret. Por ello, no puede extrañar que los discípulos les regañasen cuando alborotaban cerca del maestro. Para sorpresa de todos, sin embargo, Jesús los encumbra y da a entender que la pequeñez, la simplicidad, es el criterio definitivo del reino.
 
-[Read more](https://aue.urantia-association.org/2023/02/27/editorial-marzo-2023/#more-1773)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03)
 
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -227,7 +227,7 @@ Hay que considerar que cuando nos introducimos en el agua cristalina, sucios del
 > Cuida tus hábitos, porque se convertirán en tu destino.<br>
 > (M. Gandhi)
 
-[Read more](https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/#more-1748)
+[Read more](/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_2)
 
 
 ## Cuestionario urantiano: Martín Guzmán

@@ -39,18 +39,17 @@ María José Sánchez Santamaría
 
 Existe una hermosa leyenda de origen medieval que recoge la historia sobre un teólogo, más tarde identificado con san Agustín, que narra la siguiente anécdota:
 
-«Un día, san Agustín paseaba por la orilla del mar dando vueltas en su cabeza a muchas de las doctrinas sobre la realidad de Dios, una de ellas, la doctrina de la Trinidad. De repente, alzó la vista y vio a un hermoso niño que estaba jugando en la arena, a la orilla del mar. Lo observó más de cerca y vio que el niño corría hacia el mar, llenaba el cubo de agua del mar y volvía donde estaba antes vaciando el agua en un agujero en la arena. Así el niño lo hacía una y otra vez.
+«Un día, san Agustín paseaba por la orilla del mar dando vueltas en su cabeza a muchas de las doctrinas sobre la realidad de Dios, una de ellas, la doctrina de la Trinidad. De repente, alzó la vista y vio a un hermoso niño que estaba jugando en la arena, a la orilla del mar. Lo observó más de cerca y vio que el niño corría hacia el mar, llenaba el cubo de agua del mar y volvía donde estaba antes vaciando el agua en un agujero en la arena. Así el niño lo hacía una y otra vez.»
 
-»Hasta que ya san Agustín, sumido en gran curiosidad se acercó al niño y le preguntó “Oye, niño, ¿qué haces?” Y el niño le respondió: “Estoy sacando toda el agua del mar y la voy a poner en este hoyo”. Y san Agustín dice: “Pero eso es imposible”.
+«Hasta que ya san Agustín, sumido en gran curiosidad se acercó al niño y le preguntó “‘Oye, niño, ¿qué haces?’ Y el niño le respondió: ‘Estoy sacando toda el agua del mar y la voy a poner en este hoyo’. Y san Agustín dice: ‘Pero eso es imposible’.»
 
-»Y el niño responde: “Más imposible es tratar de hacer lo que tú estás haciendo: tratar de comprender en tu mente pequeña el misterio de Dios”».
+«Y el niño responde: ‘Más imposible es tratar de hacer lo que tú estás haciendo: tratar de comprender en tu mente pequeña el misterio de Dios’.»
 
 Este problema, tratar de comprender con nuestra pequeña mente mortal el misterio de Dios, fue un auténtico reto para los reveladores que estuvieron laborando durante años en la redacción de _El Libro de Urantia_. En el mismo inicio del libro, el Prólogo, ya nos lo anuncia:
 
-
 > «…es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
-[Read more](https://aue.urantia-association.org/2021/12/31/editorial-luz-y-vida-enero-2022/#more-1329)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

@@ -33,7 +33,7 @@ Luz y Vida — febrero 2023
 
 M. José Sánchez Santamaría
 
-### La mirada
+**La mirada**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-1.jpg" alt="Editorial feb 2023-1" width="350">
@@ -63,7 +63,7 @@ Cómo cambia la realidad según con qué ojos la veamos, ¿verdad?
 
 Y nosotros, lectores de _El Libro de Urantia_, ¿con qué ojos miramos la realidad? ¿Tenemos la mirada de Dios, su enfoque, su acercamiento a la realidad? ¿Una mirada que hace presente lo que tenemos justo delante, sin evasiones o pantallas?
 
-[Read more](https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/#more-1722)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -249,7 +249,7 @@ Cuando esto sucede, más allá del cerebro, en la mente del ser humano, en el co
 > La mente que se abre ante una nueva idea jamás volverá a su tamaño original.
 > Albert Einstein
 
-[Read more](https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/#more-1735)
+[Read more](/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_1)
 
 ## Cuestionario urantiano: Javier Martínez
 

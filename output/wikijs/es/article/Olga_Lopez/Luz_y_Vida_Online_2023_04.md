@@ -55,7 +55,7 @@ Pero una mañana hubo un silencio curioso y extraño. Uno a uno, los cerdos fuer
 
 > Durante sus años de enseñanza Jesús contó y volvió a contar muchísimas veces la historia del hijo pródigo. Esta parábola y la del buen samaritano eran sus medios preferidos de enseñar el amor del Padre y las buenas relaciones entre los hombres. [LU 169:1.16](/es/The_Urantia_Book/169#p1_16)
 
-[Read more](https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/#more-1801)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04)
 
 
 ## Trabajos – nuestras recomendaciones del mes

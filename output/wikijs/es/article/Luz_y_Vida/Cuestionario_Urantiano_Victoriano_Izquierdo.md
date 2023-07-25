@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.png" alt="Victoriano Izquierdo">
 </figure>
 
-Soy Victoriano Izquierdo Ramírez. Resido en Sevilla y estoy jubilado. Mi esposa y yo tenemos tres hijos y cuatro nietos y llevamos leyendo El libro de Urantia desde el año 1992.
+Soy Victoriano Izquierdo Ramírez. Resido en Sevilla y estoy jubilado. Mi esposa y yo tenemos tres hijos y cuatro nietos y llevamos leyendo El Libro de Urantia desde el año 1992.
 
 ## 1. ¿Cómo llegaste hasta «El Libro de Urantia» y por qué crees que lo encontraste?
 

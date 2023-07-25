@@ -48,7 +48,7 @@ Al igual que esta secuencia de la película, si pudiéramos estar presentes en l
 
 Ahora hablemos de ti, querido lector o lectora, que lees este editorial de nuestra revista. Ahora mismo, leyendo estas letras, estos garabatos negro sobre blanco en tu pantalla, estás realizando una actividad misteriosa e inquietante, aunque la fuerza de la costumbre te impide asombrarte por lo que haces. Piénsalo bien. Estás en silencio, recorriendo estas letras que te comunican ideas del mundo que te rodea ahora mismo. Te has retirado a una habitación interior donde te hablan personas lejanas en el tiempo o el espacio. Has creado una realidad paralela parecida a la ilusión cinematográfica, una realidad que depende solo de ti.
 
-[Read more](https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/#more-1607)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -218,7 +218,7 @@ Y fue a través de la introducción (o intensificación) de estas prácticas que
 
 La gran pregunta es: ¿qué forma parte de ese sistema y cómo lo mantenemos en funcionamiento? _El Libro de Urantia_ parece ofrecer algunas pistas sobre cómo activarlo y mantenerlo sanamente funcional (generador de morontia, si se quiere).
 
-[Read more](https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/#more-1603)
+[Read more](/es/article/Luis_Garcia_Bory/Reflexiones_urantianas)
 
 
 ## Cuestionario urantiano: Jeannie Vázquez de Abreu

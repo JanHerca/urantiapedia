@@ -32,7 +32,7 @@ Luz y Vida — noviembre 2022
 
 María José Sánchez Santamaría
 
-### Situados en nuestro centro
+**Situados en nuestro centro**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1" width="350">
@@ -48,7 +48,7 @@ En _El Libro de Urantia_ encontramos diferentes episodios que nos muestran el en
 
 Si desmenuzamos el episodio, podemos ver cómo el «secuestro emocional» que sufrió Judá, con la mente nublada por un torrente desbordado de emociones, nos puede ocasionar graves problemas y nos desconecta de nuestra mejor esencia. Pero al mismo tiempo vemos cómo, ante esa misma problemática, Jesús no se deja inundar y arrastrar por las emociones. Actúa de forma serena y paciente.
 
-[Read more](https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/#more-1646)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -197,7 +197,7 @@ Esta es una de las citas a las que llamo «consejos». Tenemos en el libro canti
 
 La voy a analizar por partes:
 
-[Read more](https://aue.urantia-association.org/2022/10/30/mi-parrafo-favorito-13/#more-1640)
+[Read more](/es/article/Carlos_Rubinsky/Mi_parrafo_favorito)
 
 
 ## Cuestionario urantiano: Cecilia Barreto

@@ -18,7 +18,7 @@ _LA ERA de luz y de vida es el logro evolutivo final de un mundo del tiempo y de
 
 Estrenamos el mes de marzo de 2021 con la esperanza latiendo en nuestros corazones y con el ánimo de contribuir, modestamente, a la llegada imparable de la maravillosa edad de LUZ y VIDA en nuestro planeta.
 
-Las personas que hemos leído _El libro de Urantia_ y profundizado en él sabemos que nuestro planeta, Urantia, es diferente a los demás de nuestro sistema e incluso de Nebadón, nuestro universo. Pero también sabemos por el propio libro que no estamos olvidados y dejados por los consejos del universo.
+Las personas que hemos leído _El Libro de Urantia_ y profundizado en él sabemos que nuestro planeta, Urantia, es diferente a los demás de nuestro sistema e incluso de Nebadón, nuestro universo. Pero también sabemos por el propio libro que no estamos olvidados y dejados por los consejos del universo.
 
 No estamos solos. No estamos abandonados y destinados al desastre final.
 

@@ -18,7 +18,7 @@ Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nieto
 
 ## 1. ¿Cómo llegaste a «El Libro de Urantia» y por qué crees que lo encontraste?
 
-En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El testamento de san Juan_ de Benítez, pero casualmente no miré la contraportada donde había una referencia a _El Libro de Urantia_. En 2014, haciendo limpieza en el trastero, al quitarle el polvo le di la vuelta a dicho libro y allí apareció: «basado en El libro de Urantia».  Lo demás fue sencillo: bajarme el libro, comprarlo, asistir a un encuentro y engancharme a esta comunidad de lectores a la que tanto debo.
+En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El testamento de san Juan_ de Benítez, pero casualmente no miré la contraportada donde había una referencia a _El Libro de Urantia_. En 2014, haciendo limpieza en el trastero, al quitarle el polvo le di la vuelta a dicho libro y allí apareció: «basado en El Libro de Urantia».  Lo demás fue sencillo: bajarme el libro, comprarlo, asistir a un encuentro y engancharme a esta comunidad de lectores a la que tanto debo.
 
 Pienso que lo encontré porque seguramente me estaba esperando, posiblemente porque lo necesitara. La pregunta es: ¿por qué en 2014 y no en 1994? Creo que en esos veinte años de distancia maduré un poco más en mi búsqueda y evolución, al menos lo suficiente como para acoger ese regalo con un poco más de capacidad.
 

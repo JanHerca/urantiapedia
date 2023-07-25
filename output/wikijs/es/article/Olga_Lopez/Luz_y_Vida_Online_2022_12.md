@@ -32,29 +32,29 @@ Luz y Vida — diciembre 2022
 
 M. José Sánchez Santamaría
 
-### La sabiduría se postra ante la fragilidad
+**La sabiduría se postra ante la fragilidad**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1" width="350">
 </figure>
 
-«Esta es la historia de un joven que no podía dormir casi nunca, puesto que un fantasma se le aparecía en sueños y le angustiaba revelándole todos los secretos más íntimos que él albergaba. Así le demostraba que lo sabía todo acerca de él.
+«Esta es la historia de un joven que no podía dormir casi nunca, puesto que un fantasma se le aparecía en sueños y le angustiaba revelándole todos los secretos más íntimos que él albergaba. Así le demostraba que lo sabía todo acerca de él.»
 
 «El joven estaba desesperado, hasta el punto que llegó a detestar el momento de acostarse, pese al cansancio acumulado. Había visitado doctores y psicólogos, había confesado su problema a amigos, lo había intentado todo, pero sin resultados: el fantasma seguía presentándose cada noche y le recordaba todos los rincones más íntimos y dolorosos.»
 
-«Ya al borde de un colapso nervioso, decidió pedir auxilio a un célebre maestro zen. Tras haberle explicado el dilema, el joven añadió: “ese fantasma lo sabe todo, absolutamente todo acerca de mí, ¡incluso conoce mis pensamientos! No puedo sustraerme a su dominio”.»
+«Ya al borde de un colapso nervioso, decidió pedir auxilio a un célebre maestro zen. Tras haberle explicado el dilema, el joven añadió: ‘ese fantasma lo sabe todo, absolutamente todo acerca de mí, ¡incluso conoce mis pensamientos! No puedo sustraerme a su dominio’.»
 
-«El maestro pensó que la solución no estaba fuera del alcance del chico y le sugirió que hiciera un trato con el fantasma. “Esta noche, antes de acostarte, coge un puñado de lentejas al azar y no las sueltes. Luego acuéstate y espera. Cuando el fantasma se presente, proponle un trato. Dile que, si adivina cuántas lentejas tienes en la mano, será para siempre tu dueño y que, si no lo adivina, deberá desaparecer para siempre. Vamos a ver qué pasa”.»
+«El maestro pensó que la solución no estaba fuera del alcance del chico y le sugirió que hiciera un trato con el fantasma. ‘Esta noche, antes de acostarte, coge un puñado de lentejas al azar y no las sueltes. Luego acuéstate y espera. Cuando el fantasma se presente, proponle un trato. Dile que, si adivina cuántas lentejas tienes en la mano, será para siempre tu dueño y que, si no lo adivina, deberá desaparecer para siempre. Vamos a ver qué pasa’.»
 
-«El chico procedió del modo que le aconsejó el maestro. Poco después de acostarse el fantasma apareció y le dijo: “Sé que intentas librarte de mí. También sé que te has ido a ver aquel bobo del monje zen para que te ayude a echarme, pero tus esfuerzos no te servirán para nada”.»
+«El chico procedió del modo que le aconsejó el maestro. Poco después de acostarse el fantasma apareció y le dijo: ‘Sé que intentas librarte de mí. También sé que te has ido a ver aquel bobo del monje zen para que te ayude a echarme, pero tus esfuerzos no te servirán para nada’.»
 
-«“Bueno”, respondió el joven, “ya sabía que me habrías descubierto, así como supongo que indudablemente sabrás cuántas lentejas tengo en el puño”. Se hizo el silencio.
+«‘Bueno’, respondió el joven, ‘ya sabía que me habrías descubierto, así como supongo que indudablemente sabrás cuántas lentejas tengo en el puño’. Se hizo el silencio.»
 
 «El fantasma desapareció para no volver nunca más. Lo que no sabía el chico no lo podía saber su fantasma.»
 
 Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchísimo a entender el poder que tiene nuestra mente, nuestros pensamientos y, sobre todo, nuestros miedos. Cómo nos podemos ahogar en un mar de emociones y de pensamientos recurrentes, repetitivos y agotadores. Pensamientos y emociones que, por su naturaleza muy cercana a la animal, no tendrán un desarrollo espiritual más allá de este mundo material. ¡Qué frágiles somos!
 
-[Read more](https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/#more-1679)
+[Read more](//es/article/M_Jose_Sanchez\Editorial_Luz_y_Vida_2022_12)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

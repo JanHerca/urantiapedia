@@ -156,7 +156,7 @@ Después de la comida, despedidas y para casa.
 <img src="/image/article/Luz_y_Vida/LyV32/10.jpg">
 </figure>
 
-El próximo viernes 15 de marzo, de 7 a 8:30 de la tarde, Jaime Marco (vicepresidente de la Asociación Urantia de España) dará una presentación de El libro de Urantia en el Foro de la FNAC del centro comercial Diagonal Mar (Avenida Diagonal 3, 08019 Barcelona). Esperamos que muchos lectores de Barcelona y alrededores se animen a asistir, así como que asistan aquellas personas que puedan estar interesadas en las enseñanzas del libro.
+El próximo viernes 15 de marzo, de 7 a 8:30 de la tarde, Jaime Marco (vicepresidente de la Asociación Urantia de España) dará una presentación de El Libro de Urantia en el Foro de la FNAC del centro comercial Diagonal Mar (Avenida Diagonal 3, 08019 Barcelona). Esperamos que muchos lectores de Barcelona y alrededores se animen a asistir, así como que asistan aquellas personas que puedan estar interesadas en las enseñanzas del libro.
 
 ## Referencias
 

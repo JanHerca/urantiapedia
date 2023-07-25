@@ -73,7 +73,7 @@ Los viejos libros polvorientos y arrinconados ya tuvieron su momento de esplendo
 
 _El Libro de Urantia_ exalta precisamente esta transformación interior, pues busca «ampliar la conciencia cósmica y elevar la percepción espiritual» (0.0.2):
 
-[LU 100:2.6](/es/The_Urantia_Book/100#p2_6) El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas.
+El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas. [LU 100:2.6](/es/The_Urantia_Book/100#p2_6)
 
 Y se trata de fomentar este magnífico objetivo para nuestras vidas con la nueva revisión de la traducción de _El Libro de Urantia_ al español. Un elemento simple: el libro. Una lección extraordinaria dentro: el encuentro personal con Dios.
 
@@ -245,7 +245,7 @@ En _El Libro de Urantia_, que yo leo desde hace varios años, tengo muchos párr
 
 Han pasado muchos años de lectura y estudio para darme cuenta en esta «esfera» de mi existencia que ese párrafo conlleva una verdad muy importante.
 
-[Read more](https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/#more-1222)
+[Read more](/es/article/Eduardo_Altuzarra/Mi_parrafo_favorito)
 
 
 ## Cuestionario urantiano: Luis Coll

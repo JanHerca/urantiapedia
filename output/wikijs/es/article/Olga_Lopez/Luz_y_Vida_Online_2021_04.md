@@ -42,7 +42,7 @@ María José Sánchez Santamaría
 
 La recién estrenada primavera en el hemisferio Norte está aquí, con todo su alarde de frescura, vida y colores. Y con ella viene el recuerdo de la Resurrección de nuestro amado Jesús de Nazaret. Una oportunidad maravillosa para reflexionar sobre su vida y ejemplo divino, y para procurar que su ejemplo guíe nuestros esfuerzos por «resucitar» nuestra conciencia, por poner de manifiesto en nuestras vidas los altos ideales y la libertad verdadera que nuestro Ajustador ansían profundamente.
 
-Seguir la actualidad pormenorizada que nos sirven los medios de comunicación es un ejercicio que nos puede ir vaciando de ilusión, de esperanza en el futuro. Pero los lectores/as de _El libro de Urantia_ tenemos la suficiente perspectiva cósmica como para nutrir esa esperanza y sabemos que lo mejor está por venir.
+Seguir la actualidad pormenorizada que nos sirven los medios de comunicación es un ejercicio que nos puede ir vaciando de ilusión, de esperanza en el futuro. Pero los lectores/as de _El Libro de Urantia_ tenemos la suficiente perspectiva cósmica como para nutrir esa esperanza y sabemos que lo mejor está por venir.
 
 Con este número de abril del Boletín Luz y Vida que tienes entre manos, querido lector/a, tienes suficiente «alimento espiritual» para encauzar tu mente y tu alma hacia ideales elevados e inspiradores:
 
@@ -66,7 +66,7 @@ Todo ello nos muestra un MOVIMIENTO URANTIA vibrante, dinámico, cada vez más i
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_04/02.jpg" width="250">
 </figure>
 
-**[El sr. Hubble y _El libro de Urantia_ (Dick Bain, con comentarios de Jan Herca)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf)**
+**[El sr. Hubble y _El Libro de Urantia_ (Dick Bain, con comentarios de Jan Herca)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf)**
 
 En este trabajo, Dick Bain (con comentarios adicionales de Jan Herca, el traductor del artículo) compara la teoría de Hubble de que el universo está en expansión constante frente a las afirmaciones del libro a esta percepción, sobre todo centradas en la respiración del espacio, lo que le lleva a reflexionar sobre la cosmología del libro y las posibles críticas que puede tener por parte de no lectores relacionadas con la necesidad de revisarla.
 
@@ -130,9 +130,9 @@ John B. Parkinson
 
 ### Antecedentes
 
-El siguiente artículo es una breve introducción a mi principal proyecto de investigación y escritura, que tiene que ver con la búsqueda astronómica y la identificación de aquellas estrellas, asterismos y constelaciones asociados con los mundos celestiales de nuestro universo local de Nebadón, tal como se revela en la publicación de 1955 conocida como _El libro de Urantia_. En concreto, esos cúmulos de esferas arquitectónicas creadas de forma divina y conocidas en _El libro de Urantia_ como Jerusem, Edentia y Salvingtón.
+El siguiente artículo es una breve introducción a mi principal proyecto de investigación y escritura, que tiene que ver con la búsqueda astronómica y la identificación de aquellas estrellas, asterismos y constelaciones asociados con los mundos celestiales de nuestro universo local de Nebadón, tal como se revela en la publicación de 1955 conocida como _El Libro de Urantia_. En concreto, esos cúmulos de esferas arquitectónicas creadas de forma divina y conocidas en _El Libro de Urantia_ como Jerusem, Edentia y Salvingtón.
 
-Dado que _El libro de Urantia_ no revela de manera explícita la ubicación de estos lugares, debemos recurrir a otras fuentes de información tanto antiguas como modernas para intentar desvelar estos secretos. Tras años de estudio de _El libro de Urantia_ he identificado al menos un pasaje clave que nos da una pista indispensable que acota enormemente la búsqueda de Edentia, el cielo de la constelación. He aquí la historia.
+Dado que _El Libro de Urantia_ no revela de manera explícita la ubicación de estos lugares, debemos recurrir a otras fuentes de información tanto antiguas como modernas para intentar desvelar estos secretos. Tras años de estudio de _El Libro de Urantia_ he identificado al menos un pasaje clave que nos da una pista indispensable que acota enormemente la búsqueda de Edentia, el cielo de la constelación. He aquí la historia.
 
 [Read more](/es/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky)
 
@@ -145,7 +145,7 @@ Dado que _El libro de Urantia_ no revela de manera explícita la ubicación de e
 
 **Cuentos de Josué (Bob Slagle)**
 
-_Cuentos de Josué_ es un excelente relato de la infancia de Jesús de Nazaret, tal como se narra en _El libro de Urantia_, expresado en un lenguaje muy sencillo y con numerosas ilustraciones, que lo hace especialmente apto para el público infantil.
+_Cuentos de Josué_ es un excelente relato de la infancia de Jesús de Nazaret, tal como se narra en _El Libro de Urantia_, expresado en un lenguaje muy sencillo y con numerosas ilustraciones, que lo hace especialmente apto para el público infantil.
 
 [Enlace con más información sobre el libro y su descarga](https://aue.urantia-association.org/inspirado-en-el-lu-cuentos-de-josue/)
 
@@ -159,7 +159,7 @@ _Cuentos de Josué_ es un excelente relato de la infancia de Jesús de Nazaret, 
 
 **Sala de Resurrección (Rick Warren)**
 
-_Sala de Resurrección_ es una hermosa historia que da rienda suelta a la imaginación pero teniendo muy en cuenta lo que se cuenta en _El libro de Urantia_ sobre la vida en los mundos mansión, desde que despertamos en las salas de resurrección hasta que nos fusionamos con el Ajustador. Una historia llena de esperanza y que muy bien podría ser bastante aproximada a lo que es realmente la vida en la moroncia.
+_Sala de Resurrección_ es una hermosa historia que da rienda suelta a la imaginación pero teniendo muy en cuenta lo que se cuenta en _El Libro de Urantia_ sobre la vida en los mundos mansión, desde que despertamos en las salas de resurrección hasta que nos fusionamos con el Ajustador. Una historia llena de esperanza y que muy bien podría ser bastante aproximada a lo que es realmente la vida en la moroncia.
 
 [Enlace con más información sobre el libro y la lectura gratuita del primer capítulo](https://aue.urantia-association.org/inspirado-en-el-lu-sala-de-resurreccion/)
 
@@ -178,18 +178,18 @@ Este blog de Jan Herca, un lector de Valladolid, contiene mucho material interes
 
 ## Vídeo – nuestra recomendación del mes
 
-**Los Anunnakis y _El libro de Urantia_**
+**Los Anunnakis y _El Libro de Urantia_**
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_04/10.jpg">
 </figure>
 
-En [este vídeo](https://www.youtube.com/watch?v=m67qNM25gs0) del canal [Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ) se expone uno de los trabajos de Jael González, veterano lector que ha profundizado entre otros temas en los paralelismos de la historia de la humanidad con lo que se afirma en las enseñanzas de _El libro de Urantia_. Aquí postula una interesante teoría sobre la verdadera identidad de los Anunnakis, esos misteriosos dioses de los sumerios.
+En [este vídeo](https://www.youtube.com/watch?v=m67qNM25gs0) del canal [Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ) se expone uno de los trabajos de Jael González, veterano lector que ha profundizado entre otros temas en los paralelismos de la historia de la humanidad con lo que se afirma en las enseñanzas de _El Libro de Urantia_. Aquí postula una interesante teoría sobre la verdadera identidad de los Anunnakis, esos misteriosos dioses de los sumerios.
 
 
 ## Cuestionario urantiano: Ginés Avilés
 
-_Nota de la redacción: comenzamos una nueva sección, en la que un lector destacado responderá a unas preguntas sobre cómo llegó a_ El libro de Urantia _y por qué le resulta tan inspirador. En esta ocasión responderá a nuestro cuestionario Ginés Avilés, actual presidente de la Asociación Urantia de España._
+_Nota de la redacción: comenzamos una nueva sección, en la que un lector destacado responderá a unas preguntas sobre cómo llegó a_ El Libro de Urantia _y por qué le resulta tan inspirador. En esta ocasión responderá a nuestro cuestionario Ginés Avilés, actual presidente de la Asociación Urantia de España._
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left" style="display:block;">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_04/Gines.jpg" width="200">
@@ -199,7 +199,7 @@ _Nota de la redacción: comenzamos una nueva sección, en la que un lector desta
 
 Además, estoy casado con dos preciosos hijos y resido felizmente en la ciudad de Murcia. Tengo una vida variada pero principalmente soy empleado público en el Banco de España y, como todos sabéis, participo de la Asociación Urantia de España.
 
-Desde bien pequeño era curioso y abierto, estaba interesado en casi todo, quería saber más de las personas en general… y creo que esa misma actitud con sus idas y venidas fue la que me llevo a esta nueva espiritualidad que representa _El libro de Urantia_.
+Desde bien pequeño era curioso y abierto, estaba interesado en casi todo, quería saber más de las personas en general… y creo que esa misma actitud con sus idas y venidas fue la que me llevo a esta nueva espiritualidad que representa _El Libro de Urantia_.
 
 [Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles)
 

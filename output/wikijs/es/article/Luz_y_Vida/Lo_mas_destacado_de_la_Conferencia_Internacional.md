@@ -52,7 +52,7 @@ La Fundación trajo a la conferencia 100 ejemplares de esta nueva traducción, d
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV17/09.jpg">
-<figcaption><em>Ejemplares de la edición europea de El libro de Urantia, expuestos para su venta durante la conferencia</em></figcaption>
+<figcaption><em>Ejemplares de la edición europea de El Libro de Urantia, expuestos para su venta durante la conferencia</em></figcaption>
 </figure>
 
 Tras un paréntesis para comer y para descansar un poco, a las cuatro y media comenzaron de nuevo las presentaciones. Antonio Moya dio una presentación cuyo título era «Tendiendo puentes... lingüísticos», en la que proponía el esperanto como lengua universal, dadas las características con las que fue creada.
@@ -132,7 +132,7 @@ Por último, la ronda de conferencias se cerró con la tercera presentación de 
 <figcaption><em>Carmelo Martínez (España)</em></figcaption>
 </figure>
 
-> _El libro de Urantia está aquí para semir de puente hacia el futuro de nuestra humanidad, para facilitar el paso a la siguiente edad del planeta. Y en esta función entramos nosotros_ (Carmelo Martínez)
+> _El Libro de Urantia está aquí para semir de puente hacia el futuro de nuestra humanidad, para facilitar el paso a la siguiente edad del planeta. Y en esta función entramos nosotros_ (Carmelo Martínez)
 
 Por la noche, después de la cena, tuvo lugar la actuación musical dirigida por Alfons Halsema, en la que hubo tanto una parte participativa (la que se ensayó la tarde anterior) como una parte de escucha, correspondiente a un concierto convencional, con acompañamiento al piano y coro de voces. Esta fue otra actividad que gustó mucho a los asistentes.
 

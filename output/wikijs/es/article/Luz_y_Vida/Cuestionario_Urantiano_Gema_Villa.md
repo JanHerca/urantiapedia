@@ -38,7 +38,7 @@ _El Libro de Urantia_ ha cambiado mi vida en muchísimos aspectos. Perdí el mie
 
 ## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 
-¡Ha cambiado completamente! Antes de descubrir _El libro de Urantia,_ aunque era una persona inquieta espiritualmente hablando y buscadora, no tenía una idea clara sobre Dios, incluso dudaba de su existencia. Ahora sé que el Padre existe y que una parte de él está en mí y en cada uno de nosotros.
+¡Ha cambiado completamente! Antes de descubrir _El Libro de Urantia,_ aunque era una persona inquieta espiritualmente hablando y buscadora, no tenía una idea clara sobre Dios, incluso dudaba de su existencia. Ahora sé que el Padre existe y que una parte de él está en mí y en cada uno de nosotros.
 
 ## 6. ¿Hay algún punto (o puntos) de la revelación que te cueste aceptar?
 

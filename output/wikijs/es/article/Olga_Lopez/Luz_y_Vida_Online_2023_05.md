@@ -36,7 +36,7 @@ M. José Sánchez Santamaría
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4" width="350">
 </figure>
 
-Llegar a ser tú mismo
+**Llegar a ser tú mismo**
 
 Queridos amigos lectores de este boletín mensual: bienvenidos un mes más a este espacio para analizar, debatir, difundir y compartir las extensas enseñanzas del libro azul.
 
@@ -58,7 +58,7 @@ _Entonces me tranquilicé, y me sentí vivo. Y ¡oh, maravilla!, cambié. Ahora 
 
 Este hermoso cuento nos habla de la faceta que más nos puede conmover: el amor incondicional hacia nosotros. Un amor que nos permite llegar a ser nosotros mismos. Amarnos y respetarnos a nosotros mismos. Algo heroico en estos tiempos de grandes corporaciones multinacionales a las que les interesa difuminar nuestras personalidades, asimilarnos a una identidad de masa.
 
-[Read more](https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/#more-1834)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

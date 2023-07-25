@@ -88,7 +88,7 @@ Por último, y antes de comer, se celebró la asamblea de la Asociación Urantia
 - Hay vida más allá, tu destino es la perfección.
 - La religión es entre tú y Dios, no hay intermediarios. 
 
-**¿Qué marca la diferencia en El libro de Urantia respecto a otras doctrinas o cosmovisiones?**
+**¿Qué marca la diferencia en El Libro de Urantia respecto a otras doctrinas o cosmovisiones?**
 
 - Separación de lo religioso y lo seglar en lo social.
 - La religión es entre tú y Dios, no hay intermediarios.

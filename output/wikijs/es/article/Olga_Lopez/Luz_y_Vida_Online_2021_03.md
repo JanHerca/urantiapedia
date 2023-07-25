@@ -21,8 +21,8 @@ Luz y Vida — marzo 2021
 - Trabajos – nuestras recomendaciones del mes
 - Libros – nuestras recomendaciones del mes
 - Vídeo – nuestra recomendación del mes
-- Mi libro favorito – un blog para dar a conocer El libro de Urantia
-- Urantiapedia, una Wikipedia de El libro de Urantia – Jan Herca
+- Mi libro favorito – un blog para dar a conocer El Libro de Urantia
+- Urantiapedia, una Wikipedia de El Libro de Urantia – Jan Herca
 - Asamblea extraordinaria del 16 de febrero de 2021
 - Charlas urantianas de los viernes
 - Acerca del boletín Luz y Vida
@@ -40,7 +40,7 @@ María José Sánchez Santamaría
 
 Estrenamos el mes de marzo de 2021 con la esperanza latiendo en nuestros corazones y con el ánimo de contribuir, modestamente, a la llegada imparable de la maravillosa edad de LUZ y VIDA en nuestro planeta.
 
-Las personas que hemos leído _El libro de Urantia_ y profundizado en él sabemos que nuestro planeta, Urantia, es diferente a los demás de nuestro sistema e incluso de Nebadón, nuestro universo. Pero también sabemos por el propio libro que no estamos olvidados y dejados por los consejos del universo.
+Las personas que hemos leído _El Libro de Urantia_ y profundizado en él sabemos que nuestro planeta, Urantia, es diferente a los demás de nuestro sistema e incluso de Nebadón, nuestro universo. Pero también sabemos por el propio libro que no estamos olvidados y dejados por los consejos del universo.
 
 No estamos solos. No estamos abandonados y destinados al desastre final.
 
@@ -102,7 +102,7 @@ Santiago Rodríguez es lector veterano y astrónomo aficionado. Hace unos años 
 
 **[Un día en la vida de un estudiante de los mundos mansión (Tom Maringer)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Un-d%C3%ADa-en-la-vida-de-un-estudiante-de-los-mundos-mansi%C3%B3n.pdf)**
 
-En los últimos años se han publicado muchos trabajos de ficción relacionados con las enseñanzas de _El libro de Urantia_, pero este es un relato que fue escrito cuando todavía había pocos trabajos secundarios en forma de ficción (1994) y que Carmelo Martínez tradujo al español en 2011. Como su título muy bien indica, es un relato de alguien que despierta en la sala de resurrección del primer mundo mansión debido a un accidente. Una vez allí, va experimentando lo que _El libro de Urantia_ explica como la vida moroncial en toda su extensión.
+En los últimos años se han publicado muchos trabajos de ficción relacionados con las enseñanzas de _El Libro de Urantia_, pero este es un relato que fue escrito cuando todavía había pocos trabajos secundarios en forma de ficción (1994) y que Carmelo Martínez tradujo al español en 2011. Como su título muy bien indica, es un relato de alguien que despierta en la sala de resurrección del primer mundo mansión debido a un accidente. Una vez allí, va experimentando lo que _El Libro de Urantia_ explica como la vida moroncial en toda su extensión.
 <br style="clear:both" />
 
 ## Libros – nuestras recomendaciones del mes
@@ -113,7 +113,7 @@ En los últimos años se han publicado muchos trabajos de ficción relacionados 
 
 **Las tres visitas (Olga López)**
 
-En esta novela, la autora realiza un repaso a las enseñanzas de _El libro de Urantia_ de acuerdo con una tríada fundamental para comprender cualquier asunto en el universo: origen, historia y destino. Para ello, expone al protagonista de la historia (David, un hombre de mediana edad que afirma no creer en Dios) a una experiencia sobrenatural donde se le muestran las enseñanzas de acuerdo con estas tres grandes líneas.
+En esta novela, la autora realiza un repaso a las enseñanzas de _El Libro de Urantia_ de acuerdo con una tríada fundamental para comprender cualquier asunto en el universo: origen, historia y destino. Para ello, expone al protagonista de la historia (David, un hombre de mediana edad que afirma no creer en Dios) a una experiencia sobrenatural donde se le muestran las enseñanzas de acuerdo con estas tres grandes líneas.
 
 Como con todas las novelas de la autora, puede descargarse gratuitamente en formato PDF. En [este enlace](https://aue.urantia-association.org/inspirado-en-el-lu-las-tres-visitas/) tenéis la información para obtenerla.
 <br style="clear:both" />
@@ -124,9 +124,9 @@ Como con todas las novelas de la autora, puede descargarse gratuitamente en form
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/08.jpg" width="130">
 </figure>
 
-**Introducción a _El libro de Urantia_ (Marcelino Ramírez)**
+**Introducción a _El Libro de Urantia_ (Marcelino Ramírez)**
 
-Marcelino Ramírez es un lector veterano de Venezuela que ha dedicado los últimos años a diseminar las enseñanzas del libro organizando grupos de estudio y conferencias en su país, muchas veces contra viento y marea. Poco a poco fue confeccionando una especie de resumen de las enseñanzas más importantes de _El libro de Urantia_, que finalmente tomó forma de libro. Esta introducción puede ser especialmente útil para los lectores noveles que quieran una visión general de las enseñanzas, expresadas de manera muy sencilla pero rigurosa y con el apoyo de citas del libro.
+Marcelino Ramírez es un lector veterano de Venezuela que ha dedicado los últimos años a diseminar las enseñanzas del libro organizando grupos de estudio y conferencias en su país, muchas veces contra viento y marea. Poco a poco fue confeccionando una especie de resumen de las enseñanzas más importantes de _El Libro de Urantia_, que finalmente tomó forma de libro. Esta introducción puede ser especialmente útil para los lectores noveles que quieran una visión general de las enseñanzas, expresadas de manera muy sencilla pero rigurosa y con el apoyo de citas del libro.
 
 En [este enlace](https://aue.urantia-association.org/inspirado-en-el-lu-introduccion-a-el-libro-de-urantia/) tenéis más información sobre el libro y cómo conseguirlo.
 <br style="clear:both" />
@@ -137,9 +137,9 @@ En [este enlace](https://aue.urantia-association.org/inspirado-en-el-lu-introduc
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/09.jpg">
 </figure>
 
-Este interesantísimo [vídeo](https://www.youtube.com/watch?v=KU_S1xr00nw) del canal [Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ) aporta nuevos descubrimientos que apoyan lo que se dice en _El libro de Urantia_ acerca de la ubicación de Dalamatia, la sede del gobierno del Príncipe Planetario que se encuentra actualmente bajo las aguas del golfo Pérsico.
+Este interesantísimo [vídeo](https://www.youtube.com/watch?v=KU_S1xr00nw) del canal [Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ) aporta nuevos descubrimientos que apoyan lo que se dice en _El Libro de Urantia_ acerca de la ubicación de Dalamatia, la sede del gobierno del Príncipe Planetario que se encuentra actualmente bajo las aguas del golfo Pérsico.
 
-## Mi libro favorito – un blog para dar a conocer El libro de Urantia
+## Mi libro favorito – un blog para dar a conocer El Libro de Urantia
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/10.jpg">
@@ -154,7 +154,7 @@ Esta es la dirección de su blog:
 ¡Echadle un vistazo!
 
 
-## Urantiapedia, una Wikipedia de El libro de Urantia
+## Urantiapedia, una Wikipedia de El Libro de Urantia
 
 Jan Herca
 
@@ -166,7 +166,7 @@ Tengo el placer de comunicaros que por fin está accesible al público la web [
 
 Este proyecto me surgió como idea hace un año y está, por supuesto, muy lejos de estar terminado. Pero contiene un buen puñado de contenido suficiente para mostrar lo que se pretende con él y atraer la atención de más colaboradores.
 
-El objetivo que me marqué al inicio era el de crear un sitio web que permitiera estudiar _El libro de Urantia_ de un modo mucho más coordinado, donde las referencias a otros libros, a las fuentes de _El libro de Urantia_, a otro contenido general, estuviera todo enlazado entre sí y no resultara necesario acudir a multitud de webs o libros para tener todo a mano.
+El objetivo que me marqué al inicio era el de crear un sitio web que permitiera estudiar _El Libro de Urantia_ de un modo mucho más coordinado, donde las referencias a otros libros, a las fuentes de _El Libro de Urantia_, a otro contenido general, estuviera todo enlazado entre sí y no resultara necesario acudir a multitud de webs o libros para tener todo a mano.
 
 [Read more](/es/article/Jan_Herca/Urantiapedia_una_Wikipedia_de_El_Libro_de_Urantia)
 

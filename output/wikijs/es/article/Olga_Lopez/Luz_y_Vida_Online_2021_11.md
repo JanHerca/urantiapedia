@@ -46,7 +46,7 @@ El arte de la vida interior es sutil y extenso. Como lo entiende _El Libro de Ur
 
 El desarrollo de esta vida interior tan preciada desemboca en algo inefable que está en nuestro interior, un vacío, algo innombrable, lo no abarcable… pero que da sentido a nuestra vida: la divinidad.
 
-[Read more](https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/#more-1258)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

@@ -37,7 +37,7 @@ M. José Sánchez Santamaría
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1" width="350">
 </figure>
 
-La alegría perfecta
+**La alegría perfecta**
 
 Bienvenidos, bienvenidas, un mes más a este punto de encuentro que es el boletín Luz y Vida. Siéntete como en tu casa, entra y descansa de las incesantes tareas y toma contacto con tu ser más interno a través de todo un abanico de contenidos muy interesantes. No estamos solos en el proceso de crecimiento espiritual, únete a nosotros y disfrutaremos juntos de este fascinante viaje que es la vida en este planeta.
 
@@ -83,7 +83,7 @@ Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su 
 
 > El progreso espiritual está fundamentado en el reconocimiento intelectual de la pobreza espiritual unido a la autoconsciencia del hambre de perfección, el deseo de conocer a Dios y ser como él, el propósito entusiasta de hacer la voluntad del Padre del cielo. [LU 100:2.1](/es/The_Urantia_Book/100#p2_1)
 
-[Read more](https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/#more-1866)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_06)
 
 
 ## Trabajos – nuestras recomendaciones del mes

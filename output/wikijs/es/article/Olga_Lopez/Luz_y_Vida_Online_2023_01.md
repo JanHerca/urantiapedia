@@ -31,7 +31,7 @@ Luz y Vida — enero 2023
 
 M. José Sánchez Santamaría
 
-### La imagen de Dios
+**La imagen de Dios**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-4.jpg" alt="Editorial ene 23-4" width="350">
@@ -85,7 +85,7 @@ Y ahora, en la noche, mientras su hijo duerme, él recuerda esa escena., vuelve 
 
 ¡Qué difícil es hablar de Dios! Cualquiera que lo quiera hacer tiene que saber que seguramente está desvariando un poco, y probablemente Dios se sonríe ante nuestros intentos de entenderlo y describirlo.
 
-[Read more](https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/#more-1702)
+[Read more](/es/articles/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

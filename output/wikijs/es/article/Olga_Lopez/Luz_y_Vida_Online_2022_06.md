@@ -38,31 +38,31 @@ M. José Sánchez Santamaría
 <img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1" width="350">
 </figure>
 
-«Cuenta una vieja historia que en un pequeño pueblo se desató una tormenta tal que el río se desbordó y lo inundó todo por completo. Los habitantes escapaban como podían, pero el sacerdote, que siempre había sido un hombre de gran fe, permanecía en la entrada de la parroquia rezando a Dios para que lo sacase de allí.
+«Cuenta una vieja historia que en un pequeño pueblo se desató una tormenta tal que el río se desbordó y lo inundó todo por completo. Los habitantes escapaban como podían, pero el sacerdote, que siempre había sido un hombre de gran fe, permanecía en la entrada de la parroquia rezando a Dios para que lo sacase de allí.»
 
-En ese momento, pasaba por allí un hombre conduciendo una camioneta que le gritó:
+«En ese momento, pasaba por allí un hombre conduciendo una camioneta que le gritó:»
 
-– ¡Padre, venga, que el agua sigue subiendo!
+«– ¡Padre, venga, que el agua sigue subiendo!»
 
-– No te preocupes, hijo. –respondió el sacerdote– Dios me salvará.
+«– No te preocupes, hijo. –respondió el sacerdote– Dios me salvará.»
 
-El nivel del agua seguía creciendo y el sacerdote, con el agua hasta la cintura, continuaba rezando. Pasó entonces un bote de remos con varios hombres, que le gritaron que subiera.
+«El nivel del agua seguía creciendo y el sacerdote, con el agua hasta la cintura, continuaba rezando. Pasó entonces un bote de remos con varios hombres, que le gritaron que subiera.»
 
-El sacerdote respondió con firmeza:
+«El sacerdote respondió con firmeza:»
 
-– Id vosotros, no os preocupéis más por mí, que Dios me salvará.
+«– Id vosotros, no os preocupéis más por mí, que Dios me salvará.»
 
-Los hombres se alejaron mientras la tormenta no cesaba y el agua seguía subiendo; tanto que el sacerdote tuvo que trepar al techo de la parroquia. Cuando el agua estaba a punto de cubrirlo todo, se acercó al sacerdote un helicóptero desde donde le hicieron señales para que cogiera la cuerda de rescate, pero éste se negó:
+«Los hombres se alejaron mientras la tormenta no cesaba y el agua seguía subiendo; tanto que el sacerdote tuvo que trepar al techo de la parroquia. Cuando el agua estaba a punto de cubrirlo todo, se acercó al sacerdote un helicóptero desde donde le hicieron señales para que cogiera la cuerda de rescate, pero éste se negó:»
 
-–¡Yo soy un hombre de fe! –gritó al helicóptero– ¡Dios me salvará!
+«–¡Yo soy un hombre de fe! –gritó al helicóptero– ¡Dios me salvará!»
 
-Sin embargo, el agua continuaba cayendo y el sacerdote terminó ahogándose y llegó a las puertas del cielo. Cuando se encontró cara a cara con Dios, no pudo sino recriminarle que lo hubiese dejado morir de ese modo.
+«Sin embargo, el agua continuaba cayendo y el sacerdote terminó ahogándose y llegó a las puertas del cielo. Cuando se encontró cara a cara con Dios, no pudo sino recriminarle que lo hubiese dejado morir de ese modo.»
 
-–Mi Señor –le dijo el sacerdote con tristeza–, ¿por qué me abandonaste?
+«–Mi Señor –le dijo el sacerdote con tristeza–, ¿por qué me abandonaste?»
 
-–¿Pero de qué abandono me hablas? –le respondió Dios– ¡Te envié una camioneta, te envié un bote y te envié un helicóptero!»
+«–¿Pero de qué abandono me hablas? –le respondió Dios– ¡Te envié una camioneta, te envié un bote y te envié un helicóptero!»
 
-[Read more](https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/#more-1516)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -216,7 +216,7 @@ Buscando alternativas a esas fórmulas obsoletas, algunos hemos llegado al encue
 
 Pero no creo que esto sea suficiente. Pretender explicar las eternas cuestiones de la filosofía a través de la razón impide que lleguemos a asimilarlas por vía «cordial», esto es, a través del corazón. Estamos tratando nada menos de quién es o pueda ser Dios, del propósito del cosmos, de nuestro lugar dentro de él. Y tales preguntas no pueden tener una respuesta satisfactoria reduciéndolas al ámbito de las ideas, sin dejar paso al de los sentimientos.
 
-[Read more](https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/#more-1504)
+[Read more](/es/article/Juan_Jose_Lopez/Mi_parrafo_favorito)
 
 
 ## Cuestionario urantiano: Alberto Tapiz

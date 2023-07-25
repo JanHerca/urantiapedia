@@ -48,7 +48,7 @@ De esta peculiar metamorfosis, de este nuevo nacimiento ya habló hace bastantes
 
 Ante la perplejidad de Nicodemo, Jesús contestó:
 
-[Read more](https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/#more-1447)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

@@ -193,7 +193,7 @@ El estado del mundo es patético y lamentable, pero todas las cosas tienen sus c
 
 Hay demasiada tendencia a echarle la culpa siempre a los demás: al político de turno, a los problemas económicos, a los medios de comunicación, a conspiraciones, etc. Este mundo no va a progresar hasta que cada individuo aprenda a ser responsable de sí mismo y comprenda que la calidad de una sociedad mejor la tiene que poner en práctica él mismo en primer lugar y en su propia vida.
 
-[Read more](https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/#more-1110)
+[Read more](/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor)
 
 
 ## Cuestionario urantiano: José Luis Navarro
