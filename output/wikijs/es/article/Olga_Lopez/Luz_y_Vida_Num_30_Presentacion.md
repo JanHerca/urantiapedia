@@ -16,7 +16,6 @@ Luz y Vida núm. 30 — Septiembre 2012
 
 ## En este número:
 
-- La evolución espiritual del hombre para el logro de la sobrevivencia mortal,de Jesús Rodríguez
 - La evolución espiritual del hombre para el logro de la sobrevivencia mortal (última parte), de Jesús Rodríguez
 - _El Libro de Urantia_ y la reencarnación, de L. Coll.
 - El aborto, de varios autores

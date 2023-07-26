@@ -23,7 +23,7 @@ Luz y Vida núm. 25 — Junio 2011
 - Los debates, de David Carrera y Olga López
 - Presentación de _El Libro de Urantia_ en la Feria del Libro de Sevilla, de Olga López
 
-## editorial
+## Editorial
 
 Queridos amigos: una vez más por estas fechas, os ofrecemos un monográfico de nuestro encuentro nacional. En este último encuentro, el décimo que se celebra en nuestro país, realizamos un taller-seminario inspirado en el formato empleado en la Escuela en Internet de _El Libro de Urantia_ (Urantia Book Internet School, UBIS) La finalidad de esta escuela es la de formar a instructores y ayudar a los lectores de _El Libro de Urantia_ a mejorar la comprensión de las enseñanzas del libro.
 
