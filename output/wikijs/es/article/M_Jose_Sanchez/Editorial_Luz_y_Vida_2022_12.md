@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ## La sabiduría se postra ante la fragilidad
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1">
 </figure>
 
 «Esta es la historia de un joven que no podía dormir casi nunca, puesto que un fantasma se le aparecía en sueños y le angustiaba revelándole todos los secretos más íntimos que él albergaba. Así le demostraba que lo sabía todo acerca de él.»
@@ -35,7 +35,7 @@ Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchí
 Todos nos podemos reconocer en situaciones en las cuales la mente nos hace pasar un mal momento y no nos sentimos orgullosos del resultado. ¿Quién no ha sufrido de insomnio antes de un examen importante? ¿Acaso no hemos tenido discusiones y peleas con nuestros padres o hermanos, con el consabido malestar que esto ocasiona en la convivencia? ¿Y qué decir de un padre o madre que se siente desbordado o avergonzado por un berrinche de su hijo o hija? Situaciones estresantes, en fin, que son corrientes en la vida material y temporal aquí en la Tierra.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-2.jpg" alt="Editorial dic 2022-2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-2.jpg" alt="Editorial dic 2022-2">
 </figure>
 
 Frente a esta realidad, nos llega a nuestro planeta hace más de dos mil años un ser que nos plantea un discurso y un estilo de vida sorprendente, que rompe paradigmas centenarios, milenarios, de pensamiento. Nos libera de esta recurrencia en el sufrimiento, nos salva de nosotros mismos, apostando por el Amor:
@@ -63,7 +63,7 @@ Ahora, en estas navidades, se nos abre una ventana de reflexión. Un momento de 
 _El Libro de Urantia_ nos puede ayudar a ello. Veamos una anécdota de su nacimiento en la Tierra:
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-3.jpg" alt="Editorial dic 2022-3">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-3.jpg" alt="Editorial dic 2022-3">
 </figure>
 
 > Un extraño maestro religioso de Mesopotamia comunicó tiempo atrás a estos sacerdotes de su país que le había sido revelado en sueños que la «luz de vida» estaba a punto de aparecer en la tierra como niño recién nacido entre los judíos. Y allá fueron los tres maestros buscando esa «luz de vida». Después de buscarla inútilmente por todo Jerusalén durante varias semanas, estaban a punto de regresar a Ur cuando se encontraron con Zacarías. Tras manifestarles su convicción de que Jesús era el niño a quien buscaban, Zacarías los envió a Belén donde encontraron al bebé y dejaron sus regalos en manos de María, su madre en la tierra. [LU 122:8.6](/es/The_Urantia_Book/122#p8_6)
@@ -91,7 +91,7 @@ Feliz Navidad.
 Feliz Año 2023.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-4.jpg" alt="Editorial dic 2022-4">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-4.jpg" alt="Editorial dic 2022-4">
 </figure>
 
 ## Referencias

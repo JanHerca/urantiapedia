@@ -33,7 +33,7 @@ Luz y Vida — marzo 2023
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-1.jpg" alt="Editorial marzo 2023-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-1.jpg" alt="Editorial marzo 2023-1">
 </figure>
 
 **Ser como niños**
@@ -45,7 +45,7 @@ Un nuevo mes se inaugura, y con él la primavera se nos muestra una vez más, es
 Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir leyendo nuestro número de marzo de 2023. Os ofrecemos nuestra mano, tomadla y venid con nosotros a seguir explorando, imaginando, creciendo… en una aventura sin fin.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
 > … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». [LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
@@ -60,7 +60,7 @@ Los niños y niñas carecían de cualquier tipo de consideración social en la �
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
 [**El Ser Supremo (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
@@ -71,7 +71,7 @@ Este trabajo es más que una recopilación de citas sobre el Ser Supremo, una De
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Supervivencia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Supervivencia" width="250">
 </figure>
 
 [**¿Qué es lo que sobrevive en realidad? (Ken Glasziou)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
@@ -82,7 +82,7 @@ El autor comienza su artículo con una reflexión y una pregunta, que es justame
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="Los 12 apóstoles" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Los-12-apostoles.jpg" alt="Los 12 apóstoles" width="250">
 </figure>
 
 [**Los doce apóstoles (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/presentacion-12-apostoles-ver1.-2.pdf)
@@ -93,7 +93,7 @@ Esta presentación del autor comienza haciendo una «ficha» de cada uno de los 
 ---
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Ciencia-filosofia-religion-revelacion.jpg" alt="Ciencia-filosofia-religion-revelacion" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Ciencia-filosofia-religion-revelacion.jpg" alt="Ciencia-filosofia-religion-revelacion" width="250">
 </figure>
 
 [**Ciencia, filosofía, religión y revelación (Jean Royer)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Ciencia-filosofia-religion-revelacion.pdf)
@@ -105,7 +105,7 @@ En este artículo, su autor hace un análisis sistemático de todos estos concep
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Documento-142.jpg" alt="Documento 142" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Documento-142.jpg" alt="Documento 142" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -118,7 +118,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los doce años
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Jesus-a-los-12-anos.jpg" alt="Jesús a los 12 años" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Jesus-a-los-12-anos.jpg" alt="Jesús a los 12 años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía doce años, y comienza así:
@@ -131,7 +131,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Reinventarse.jpg" alt="Reinventarse" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Reinventarse.jpg" alt="Reinventarse" width="130">
 </figure>
 
 Reinventarse: Tu segunda oportunidad (Dr. Mario Alonso Puig)
@@ -142,7 +142,7 @@ El Dr. Mario Alonso Puig ha dedicado gran parte de su vida a estudiar el impacto
 ## Navegando por la vida – Propósitos de vida
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Propositos-de-vida.png" alt="Propósitos de vida" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Propositos-de-vida.png" alt="Propósitos de vida" width="250">
 </figure>
 
 Nos hemos acostumbrado a tener una vida llena de metas, que se han convertido en nuestro aliciente y motor de vida. Tanto es así que, para muchas personas, es inconcebible no tenerlas, hasta el punto de que se preguntan: si ya no tengo metas, ¿qué hago? ¿Por qué vivo?
@@ -170,7 +170,7 @@ Cuando vivimos desde el propósito de ofrecer lo mejor de nosotros mismos, inmed
 Francisco Segura Berenguel
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/El-mundo-de-la-cruz.jpg" alt="Mi párrafo favorito - mar 2023">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/El-mundo-de-la-cruz.jpg" alt="Mi párrafo favorito - mar 2023">
 </figure>
 
 > La cruz es el gran símbolo del servicio sagrado que consiste en dedicar nuestra vida al bienestar y la salvación de nuestros semejantes. La cruz no simboliza el sacrificio del Hijo de Dios inocente que es castigado en lugar de los pecadores culpables para aplacar la cólera de un Dios ofendido; la cruz se alza para siempre en el planeta y en todo un vasto universo como símbolo sagrado de los buenos que se otorgan a los malos y los salvan mediante esa misma entrega de amor. La cruz es el signo de la manifestación más alta de servicio generoso: la entrega suprema y total de una vida recta al servicio incondicional de los demás incluso en la muerte, la muerte en la cruz. La sola visión de este gran símbolo de la vida de otorgamiento de Jesús inspira verdaderamente en todos nosotros el deseo de hacer como él. [LU 188:5.9](/es/The_Urantia_Book/188#p5_9)
@@ -207,7 +207,7 @@ Francisco Segura Berenguel
 Eduardo Altuzarra
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2" width="250">
 </figure>
 
 Todos poseemos una herencia genética, una biología que nos acompaña desde nuestro nacimiento. En ella se encuentran disfrazados credos de los cuales se producen comportamientos desafortunados, por lo que muchos de ellos conllevan nuestros infortunios. A eso le tenemos que añadir la educación recibida y el entorno social en el que nos hemos desenvuelto. Todo ello ha hecho posible sembrar, a lo largo de nuestra vida, en un terreno donde la planta que ha brotado no ha dado los frutos idóneos que representan la felicidad, la coherencia, el altruismo, la responsabilidad, la humildad, la comprensión, la empatía, etc.
@@ -233,7 +233,7 @@ Hay que considerar que cuando nos introducimos en el agua cristalina, sucios del
 ## Cuestionario urantiano: Martín Guzmán
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Martin-Guzman.jpg" alt="Martín Guzmán" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Martin-Guzman.jpg" alt="Martín Guzmán" width="200">
 </figure>
 
 Soy mexicano, vivo en la Ciudad de México. Trabajo como encargado en un almacén. Estoy casado, tengo una hija y dos nietos. Fui presidente de la Asociación Urantia México y actualmente participo en varios grupos de lectura y estudio de _El Libro de Urantia_.
@@ -258,7 +258,7 @@ Cuando comencé a leer el libro experimenté muchos conflictos, pues su contenid
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/UBIS-En-el-foco.png" alt="UBIS En el foco">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/UBIS-En-el-foco.png" alt="UBIS En el foco">
 </figure>
 
 La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) comienza este año un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
@@ -279,7 +279,7 @@ Sala Zoom: [https://urantia-org.zoom.us/j/4457962840](https://urantia-org.zoom.u
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

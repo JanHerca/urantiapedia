@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Eduardo Altuzarra<br>© 2021 Asociación Urantia de España</p>
 
 > <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
 > La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana; sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible (recomendable) para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. [LU 1:2.7](/es/The_Urantia_Book/1#p2_7)

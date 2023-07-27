@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Assumpció Salat Bertran<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Los-niveles-evolutivos-de-las-emociones.jpg" alt="Los niveles evolutivos de las emociones">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Los-niveles-evolutivos-de-las-emociones.jpg" alt="Los niveles evolutivos de las emociones">
 </figure>
 
 De la misma manera que todos vamos aprendiendo y evolucionando en nuestra vida, también lo podemos hacer en la vivencia de nuestro mundo emocional.

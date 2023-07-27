@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 María José Sánchez Santamaría<br>© 2021 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Editorial-diciembre-2021.jpg" alt="Editorial noviembre 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Editorial-diciembre-2021.jpg" alt="Editorial noviembre 2021">
 </figure>
 
 > _«Aquello que sucede en la vida de Cristo sucede siempre y en todas partes.»_ C. G. Jung

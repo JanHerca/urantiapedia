@@ -35,7 +35,7 @@ Luz y Vida — noviembre 2021
 María José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Editorial-nov-21.jpg" alt="Editorial noviembre 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Editorial-nov-21.jpg" alt="Editorial noviembre 2021" width="250">
 </figure>
 
 Inigualables familias
@@ -52,7 +52,7 @@ El desarrollo de esta vida interior tan preciada desemboca en algo inefable que 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Cosmologia-del-universo-de-universos.jpg" alt="Cosmología del universo de universos" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Cosmologia-del-universo-de-universos.jpg" alt="Cosmología del universo de universos" width="250">
 </figure>
 
 [**Cosmología del universo de universos (Tamila Ragimova)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Cosmologia.pdf)
@@ -63,7 +63,7 @@ La autora, doctora en Física y profesora universitaria ya retirada, aborda la c
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Neutrinos-neutrones.jpg" alt="Neutrinos y neutrones" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Neutrinos-neutrones.jpg" alt="Neutrinos y neutrones" width="250">
 </figure>
 
 [**Neutrinos, neutrones y estrellas de neutrones (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Neutrinos-neutrones-y-estrellas-de-neutrones.pdf)
@@ -74,7 +74,7 @@ En este trabajo, traducido al español por Jan Herca, se compara lo que se dice 
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/El-paseo-de-un-hombre-por-el-debate-evolucionista2-1.jpg" alt="Paseo por el debate evolucionista" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/El-paseo-de-un-hombre-por-el-debate-evolucionista2-1.jpg" alt="Paseo por el debate evolucionista" width="250">
 </figure>
 
 [**El paseo de un hombre por la aventura evolucionista (anónimo)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-paseo-de-un-hombre-por-el-debate-evolucionista.pdf)
@@ -85,7 +85,7 @@ Este extenso trabajo fue publicado por la revista _The Fellowship Herald_, de la
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/El-Coran-y-el-LU.jpg" alt="El Corán y el LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/El-Coran-y-el-LU.jpg" alt="El Corán y el LU" width="250">
 </figure>
 
 [**El Corán bajo las luces espirituales de _El Libro de Urantia_ (Omar Delgado)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/08/EL-CORAN-BAJO-LAS-LUCES-ESPIRITUALES-DEL-LU.pdf)
@@ -96,7 +96,7 @@ Nos encontramos aquí con un interesante trabajo, que aborda un tema que no abun
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Cronicas-de-Jesus-documento-127.jpg" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Cronicas-de-Jesus-documento-127.jpg" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -109,7 +109,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Libre albedrío y fe
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/El-LU-para-ninos-nov-21.jpg" alt="Niños" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/El-LU-para-ninos-nov-21.jpg" alt="Niños" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a los temas del libre albedrío y la fe, y comienza así:
@@ -122,7 +122,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/LVDLP_web.jpg" alt="UTALP" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/LVDLP_web.jpg" alt="UTALP" width="130">
 </figure>
 
 La voz de los pioneros (Olga López)
@@ -135,7 +135,7 @@ En palabras de su autora, «_La voz de los pioneros_ surgió cuando desarrollé 
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Replica-al-libro-de-Martin-Gardner-titulado-Urantia-Revelacion-o-negocio-editorial.jpg" alt="Réplica al libro de Gardner" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Replica-al-libro-de-Martin-Gardner-titulado-Urantia-Revelacion-o-negocio-editorial.jpg" alt="Réplica al libro de Gardner" width="130">
 </figure>
 
 Réplica al libro de Gardner (David Carrera)
@@ -148,7 +148,7 @@ El título de este breve ensayo no deja lugar a la duda acerca de su contenido. 
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/JSG.jpg" alt="Juan Salvador Gaviota" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/JSG.jpg" alt="Juan Salvador Gaviota" width="130">
 </figure>
 
 Juan Salvador Gaviota (Richard Bach)
@@ -159,7 +159,7 @@ Juan Gaviota era una gaviota normal, como tantas otras, que, harta de la vida mo
 ---
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Filosofiaperenne.jpg" alt="La filosofía perenne" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Filosofiaperenne.jpg" alt="La filosofía perenne" width="130">
 </figure>
 
 La filosofía perenne (Aldous Huxley)
@@ -170,7 +170,7 @@ Hay quien dice que, si no existiera _El Libro de Urantia_, este sería el indisc
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Video-nov-2021.jpg" alt="Entrevista a Nélida Oliver">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Video-nov-2021.jpg" alt="Entrevista a Nélida Oliver">
 </figure>
 
 [_El Libro de Urantia –_ Entrevista a Nélida Oliver](https://www.youtube.com/watch?v=y5MdIRWhbBY)
@@ -180,7 +180,7 @@ En este vídeo del canal [Navegantes del Cosmos Plus](https://www.youtube.com/ch
 ## Navegando por la vida – La parábola de la sal
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Parabola-de-la-sal-Navegando-por-la-vida.jpg" alt="La parábola de la sal" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Parabola-de-la-sal-Navegando-por-la-vida.jpg" alt="La parábola de la sal" width="250">
 </figure>
 
 La parábola de la sal
@@ -219,7 +219,7 @@ El maestro y el discípulo se sentaron y contemplaron el bonito paisaje. Despué
 Santiago Rodríguez
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Mi-parrafo-favorito-nov-21.jpg" alt="Mi párrafo favorito - noviembre 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Mi-parrafo-favorito-nov-21.jpg" alt="Mi párrafo favorito - noviembre 2021">
 </figure>
 
 Más allá de cualquier tipo de creencia (incluso el ateísmo es una creencia), nuestra sociedad nos impulsa a buscar la felicidad.
@@ -243,7 +243,7 @@ Simple y fácil, ¿no?
 ## Cuestionario urantiano: Antonio Moya
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Antonio-Moya-LyVnov21.png" alt="Antonio Moya" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Antonio-Moya-LyVnov21.png" alt="Antonio Moya" width="200">
 </figure>
 
 Antonio Moya Cerpa reside en Sevilla. Está jubilado y tiene tres hijos. Lleva 43 años leyendo _El Libro de Urantia_. Fue miembro fundador del grupo de estudio de Sevilla y traductor de la edición europea de _El Libro de Urantia_.
@@ -262,7 +262,7 @@ Hace tanto tiempo que apenas me acuerdo. Pero enseguida noté o percibí que se 
 ## Urantiatón Iberoamericana – 20 y 21 de noviembre
 
 <figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Urantiaton-Iberoamericana.jpg" alt="Urantiatón Iberoamericana">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Urantiaton-Iberoamericana.jpg" alt="Urantiatón Iberoamericana">
 </figure>
 
 La Asociación Urantia Internacional ofrecerá su segunda Urantiatón Iberoamericana sobre el tema «Liderazgo y Espiritualidad». El evento se realizará los días **sábado 20 y domingo 21 de noviembre de 2021** durante 8 horas cada día. Las exposiciones se presentarán en español o portugués, con traducción simultánea al inglés, español y portugués.
@@ -295,7 +295,7 @@ Entrada libre y gratuita.
 ## Vuelven las charlas urantianas
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_11/Charlas-urantianas-nov21.png" alt="Charlas urantianas - noviembre 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Charlas-urantianas-nov21.png" alt="Charlas urantianas - noviembre 2021">
 </figure>
 
 El próximo **viernes 5 de noviembre a las 19:00** nos volveremos a reunir en la sala Zoom de la Asociación Urantia de España para tratar el siguiente tema:
@@ -306,7 +306,7 @@ El próximo **viernes 5 de noviembre a las 19:00** nos volveremos a reunir en la
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_18" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

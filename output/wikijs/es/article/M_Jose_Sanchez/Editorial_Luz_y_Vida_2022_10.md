@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-1.jpg" alt="Editorial oct 22-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-1.jpg" alt="Editorial oct 22-1">
 </figure>
 
 Dos ángeles sobrevuelan el Berlín de la posguerra, la ciudad partida en dos: Damiel y Cassiell. Son invisibles, salvo para los niños. Se cubren con abrigos oscuros, vuelan. Son eternos, protectores y vagabundos. Miran la realidad de los humanos en sepia. Los acompañan, los adivinan, pueden escuchar sus pensamientos. No tienen la posibilidad de sentir como sienten los humanos y son sin embargo ángeles empáticos. Comparten fragmentos de la vida de las personas, los acarician con la mirada, los sostienen sin que ellos lo sepan.
@@ -41,7 +41,7 @@ Precisamente ahora, en octubre, celebramos los 67 años de la publicación de _E
 > En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. [LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-2.jpg" alt="Editorial oct 22-2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-2.jpg" alt="Editorial oct 22-2">
 </figure>
 
 Esta labor tan crucial que formula el libro azul en sus comienzos no sería posible si no estuviera fijado en un texto miles de ideas nuevas, rompedoras, expansivas. Un texto que puede ser releído cientos de veces, subrayado, resaltado en el papel. Un texto que, cada vez que es leído en ese diálogo silencioso a que hacía alusión antes, es comprendido mejor, es captado en mayores matices no vislumbrados en la primera lectura.
@@ -57,7 +57,7 @@ Los reveladores saben que esta comunicación tan inusual va a ser posible no só
 > Aunque para acercaros a la presencia paradisíaca del Padre tengáis que esperar a alcanzar los niveles finitos más altos de progresión espiritual, deberíais regocijaros al reconocer la posibilidad siempre presente de comunión inmediata con el espíritu otorgado del Padre que tan íntimamente se asocia con vuestra alma interior y con vuestro yo en espiritualización. [LU 5:1.3](/es/The_Urantia_Book/5#p1_3)
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-3.jpg" alt="Editorial oct 22-3">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-3.jpg" alt="Editorial oct 22-3">
 </figure>
 
 El texto escrito hace ya 67 años es una puerta que, una vez abierta, una vez pasamos al otro lado, nos damos cuenta de que es un instrumento que nos lleva a descubrir que lo más importante de todo es el AMOR. Pero, realmente, todo es una puerta, todo está abierto para llegar a nuestra esencia fundamental… que es amorosa.

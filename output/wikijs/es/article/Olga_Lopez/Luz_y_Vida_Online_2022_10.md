@@ -33,7 +33,7 @@ Luz y Vida — octubre 2022
 María José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-1.jpg" alt="Editorial oct 22-1" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-1.jpg" alt="Editorial oct 22-1" width="250">
 </figure>
 
 Dos ángeles sobrevuelan el Berlín de la posguerra, la ciudad partida en dos: Damiel y Cassiell. Son invisibles, salvo para los niños. Se cubren con abrigos oscuros, vuelan. Son eternos, protectores y vagabundos. Miran la realidad de los humanos en sepia. Los acompañan, los adivinan, pueden escuchar sus pensamientos. No tienen la posibilidad de sentir como sienten los humanos y son sin embargo ángeles empáticos. Comparten fragmentos de la vida de las personas, los acarician con la mirada, los sostienen sin que ellos lo sepan.
@@ -54,7 +54,7 @@ Ahora hablemos de ti, querido lector o lectora, que lees este editorial de nuest
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="La creación del fuego" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/El-origen-del-fuego.jpg" alt="La creación del fuego" width="250">
 </figure>
 
 [**La creación del fuego (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/La-creaci%C3%B3n-del-fuego.pdf)
@@ -65,7 +65,7 @@ En este trabajo, el autor habla del momento en el que los seres humanos empezaro
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="El problema de Júpiter" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/El-problema-de-Jupiter.jpg" alt="El problema de Júpiter" width="250">
 </figure>
 
 [**El problema de Júpiter (Dick Bain)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf)
@@ -76,7 +76,7 @@ Júpiter, ese planeta gigante gaseoso de nuestro sistema solar, siempre ha fasci
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comentarios al documento 179" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Comentarios-al-documento-179.jpg" alt="Comentarios al documento 179" width="250">
 </figure>
 
 [**Comentarios al documento 179 (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/comentarios179.pdf)
@@ -87,7 +87,7 @@ En este artículo, el autor trata sobre la Última Cena (de la que justamente se
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Los retos de los líderes de la quinta revelación" width="250">
 </figure>
 
 [**Los retos de los líderes de la quinta revelación (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Los-retos-de-los-lideres-de-la-quinta-revelacion.pdf)
@@ -98,7 +98,7 @@ En esta presentación, la autora hace un repaso de lo que para ella son las cara
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Cronica-de-la-vida-de-Jesus-oct-22.png" alt="Crónica de la vida de Jesús-oct 22" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Cronica-de-la-vida-de-Jesus-oct-22.png" alt="Crónica de la vida de Jesús-oct 22" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -111,7 +111,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Los días escolares de Jesús en Nazaret
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Los-dias-escolares-de-Jesus-en-Nazaret.jpg" alt="Jesús a los 7" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Los-dias-escolares-de-Jesus-en-Nazaret.jpg" alt="Jesús a los 7" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a los días escolares de Jesús de Nazaret, y comienza así:
@@ -124,7 +124,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/El-cristianismo-es-Amor.jpg" alt="Más Platón y menos Prozac" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/El-cristianismo-es-Amor.jpg" alt="Más Platón y menos Prozac" width="130">
 </figure>
 
 **El cristianismo es Amor (Miguel Ruiz de Ayúcar)**
@@ -137,7 +137,7 @@ El libro es una iniciación al verdadero cristianismo, a la palabra y obras de J
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Las-siete-leyes-espirituales-del-exito-deepak-chopra.jpg" alt="Dios existe" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Las-siete-leyes-espirituales-del-exito-deepak-chopra.jpg" alt="Dios existe" width="130">
 </figure>
 
 **Las siete leyes espirituales del éxito (Deepak Chopra)**
@@ -150,7 +150,7 @@ Deepak Chopra es un especialista en la medicina mente-cuerpo, autor de numerosos
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/La-Ultima-Cena.png" alt="La Última Cena">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/La-Ultima-Cena.png" alt="La Última Cena">
 </figure>
 
 [La Última Cena por Javier Martínez](https://www.youtube.com/watch?v=8a8I-vH7UIg&t=2s) ([Estudio del Libro de Urantia](https://www.youtube.com/c/JaimeEduardoReyAlbornoz))
@@ -161,7 +161,7 @@ En este vídeo se incluye una de las sesiones de estudio del grupo de estudio IC
 ## Navegando por la vida – El valor de una sonrisa
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Navegando-por-la-vida-El-valor-de-una-sonrisa.jpg" alt="El valor de una sonrisa">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Navegando-por-la-vida-El-valor-de-una-sonrisa.jpg" alt="El valor de una sonrisa">
 </figure>
 
 No cuesta nada, pero crea mucho.
@@ -187,7 +187,7 @@ Porque nadie necesita tanto una sonrisa como aquel a quien no le queda ninguna q
 Víctor Manuel Fernández Martín
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Mi-parrafo-favorito.jpg" alt="Mi párrafo favorito - oct 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Mi-parrafo-favorito.jpg" alt="Mi párrafo favorito - oct 2022">
 </figure>
 
 Para mí es muy importante ya que, si se entendiera correctamente, se aclararía el problema «espíritu-materia», que ha sido causa de tantos enfrentamientos entre posturas excesivamente espiritualistas y posturas excesivamente materialistas. Creo que, en este aspecto, _El Libro de Urantia_ nos invita a una reflexión pausada y sosegada sobre la realidad que se traduciría en una mayor dignidad del ser humano. La cita es la siguiente:
@@ -201,7 +201,7 @@ Saludos fraternos.
 Luis García Bory
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Reflexiones-urantianas-LGB.jpg" alt="Reflexiones urantianas - LGB">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Reflexiones-urantianas-LGB.jpg" alt="Reflexiones urantianas - LGB">
 </figure>
 
 Parece que sabemos mucho sobre el cuerpo humano, pero nuestro conocimiento actual y la experiencia documentada sobre el funcionamiento de nuestros circuitos mentales junto con el cerebro y el sistema nervioso (y los otros ocho sistemas corporales que tenemos) parecen estar en una fase muy temprana de desarrollo.
@@ -224,7 +224,7 @@ La gran pregunta es: ¿qué forma parte de ese sistema y cómo lo mantenemos en 
 ## Cuestionario urantiano: Jeannie Vázquez de Abreu
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Jeannie-Vazquez.jpg" alt="Jeannie Vázquez" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Jeannie-Vazquez.jpg" alt="Jeannie Vázquez" width="200">
 </figure>
 
 Soy Jeannie Vázquez, vivo en Montevideo, Uruguay. Me dedico a estudiar y servir a la revelación de _El Libro de Urantia_.
@@ -249,7 +249,7 @@ Desde el principio lo acepté como verdad, no dudé de que es una revelación di
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

@@ -35,7 +35,7 @@ M. José Sánchez Santamaría
 **La sabiduría se postra ante la fragilidad**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-1.jpg" alt="Editorial dic 2022-1" width="350">
 </figure>
 
 «Esta es la historia de un joven que no podía dormir casi nunca, puesto que un fantasma se le aparecía en sueños y le angustiaba revelándole todos los secretos más íntimos que él albergaba. Así le demostraba que lo sabía todo acerca de él.»
@@ -60,7 +60,7 @@ Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchí
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-cuerpos-espaciales-de-Monmatia.jpg" alt="Monmatia" width="250">
 </figure>
 
 [**Los cuerpos espaciales de Monmatia (Craig Carmichael)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Los-cuerpos-espaciales-de-Monmatia.pdf)
@@ -71,7 +71,7 @@ En _El Libro de Urantia_, se dice que Monmatia (nuestro sistema solar) tiene doc
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="Otorgamientos de Miguel" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-otorgamientos-de-Cristo-Miguel.jpg" alt="Otorgamientos de Miguel" width="250">
 </figure>
 
 [**Los otorgamientos de Cristo Miguel (Javier Martínez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/OTORGAMIENTOS-CRISTO-MICAEL-JM.pdf)
@@ -82,7 +82,7 @@ Aquí tenemos un esquema en forma de tabla donde aparecen las características m
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
 </figure>
 
 [**De la tribu a la ciudadanía cósmica (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
@@ -93,7 +93,7 @@ Este es el texto de una presentación que se dio durante la Urantiatón del 28 d
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
 [**Estudio en profundidad del LU en los grupos de estudio (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
@@ -105,7 +105,7 @@ En esta presentación, el fideicomisario y vicepresidente internacional de la Fu
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Los-12-apostoles.jpg" alt="Los doce apóstoles" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Los-12-apostoles.jpg" alt="Los doce apóstoles" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -118,7 +118,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los nueve años
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Jesus-a-los-9-anos.jpg" alt="Jesús a los nueve años" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Jesus-a-los-9-anos.jpg" alt="Jesús a los nueve años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía nueve años, y comienza así:
@@ -131,7 +131,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Parabola-de-la-sal-Navegando-por-la-vida.jpg" alt="Conversaciones en la otra orilla" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Parabola-de-la-sal-Navegando-por-la-vida.jpg" alt="Conversaciones en la otra orilla" width="130">
 </figure>
 
 Conversaciones en la otra orilla con el viejo profesor (Florencio Bao)
@@ -144,7 +144,7 @@ Este libro contiene una serie de diálogos agrupados por temas entre el «viejo 
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Mi-parrafo-favorito.jpg" alt="El evangelio y los santos de las grandes religiones" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Mi-parrafo-favorito.jpg" alt="El evangelio y los santos de las grandes religiones" width="130">
 </figure>
 
 El Evangelio y los santos de las grandes religiones, de Miguel Ruiz de Ayúcar
@@ -157,7 +157,7 @@ Este libro contiene una serie de diálogos agrupados por temas entre el «viejo 
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Agora-Nostra-La-religion-personal.jpg" alt="Ágora Nostra - La religión personal">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Agora-Nostra-La-religion-personal.jpg" alt="Ágora Nostra - La religión personal">
 </figure>
 
 ### Ágora Nostra: La religión personal ([Asociación Urantia de España](https://www.youtube.com/channel/UCTXLLynKr61xQSPbZnxBSPQ))
@@ -168,7 +168,7 @@ Este libro contiene una serie de diálogos agrupados por temas entre el «viejo 
 ## Navegando por la vida – La paz
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/La-paz.jpg" alt="La paz">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/La-paz.jpg" alt="La paz">
 </figure>
 
 Somos los arquitectos constructores de lo que sucede en nuestra vida, si estamos en paz con nosotros y con la vida crearemos un presente y un futuro más fácil de gestionar.
@@ -199,7 +199,7 @@ RECUERDA: ¡con paz se superan todas las dificultades!
 David Carrera
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Tecnicas-transformativas.jpg" alt="Mi parrafo favorito - dic 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Tecnicas-transformativas.jpg" alt="Mi parrafo favorito - dic 2022">
 </figure>
 
 > … _El pueblo hace la civilización; la civilización no hace al pueblo._ [LU 76:6.4](/es/The_Urantia_Book/76#p6_4)
@@ -216,7 +216,7 @@ Si ya estamos condenados, disfrutemos al menos del espectáculo.
 Luis García Bory
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Reflexiones-urantianas-dic-2022.jpg" alt="Reflexiones urantianas - dic 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Reflexiones-urantianas-dic-2022.jpg" alt="Reflexiones urantianas - dic 2022">
 </figure>
 
 Un análisis de parte de la información disponible sobre los principales acontecimientos de los últimos dos mil años aproximadamente, desde el otorgamiento de Miguel de Nebadon, sugiere que el planeta sigue estancado espiritualmente. Incluso cuando al mismo tiempo disfrutamos de niveles de progreso y estabilidad planetaria sin precedentes.
@@ -243,7 +243,7 @@ No todo lo anterior nos resulta fácil, pero el propio camino de la vida y el am
 ## Cuestionario urantiano: Christian Figueroa
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa" width="200">
 </figure>
 
 Soy Christian Figueroa Colón, estudiante universitario en administración de sistemas de oficina, soltero, vivo en Puerto Rico. Colaboro en Radio Urantia y Urantia TV.
@@ -262,7 +262,7 @@ La primera vez que lo leí un poco al azar fue en calidad de un creyente hostil 
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

@@ -33,7 +33,7 @@ Luz y Vida — mayo 2022
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1" width="250">
 </figure>
 
 La transformación en Dios
@@ -54,7 +54,7 @@ Ante la perplejidad de Nicodemo, Jesús contestó:
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Tiempo-material-morontial-espiritual.jpg" alt="Tiempo" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Tiempo-material-morontial-espiritual.jpg" alt="Tiempo" width="250">
 </figure>
 
 [**El tiempo material, el tiempo morontial y el tiempo espiritual (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tiempo2.pdf)
@@ -65,7 +65,7 @@ A pesar de lo que el título podría indicar, más que una reflexión de lo que 
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Adan-y-Eva.png" alt="Adán y Eva" width="250">
 </figure>
 
 [**Adán y Eva (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Ad%C3%A1n-y-Eva.pdf)
@@ -76,7 +76,7 @@ Dice el autor al principio de este trabajo: «De acuerdo con _El Libro de Uranti
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Pablo y Abner" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Pablo-de-Tarso-2.jpg" alt="Pablo y Abner" width="250">
 </figure>
 
 [**Pablo y Abner (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/PabloyAbner.pdf)
@@ -87,7 +87,7 @@ En este trabajo, la autora hace un repaso y compara las figuras de Abner y de Pa
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="Sobre la personalidad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Sobre-la-personalidad.jpg" alt="Sobre la personalidad" width="250">
 </figure>
 
 [**Sobre la personalidad (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
@@ -98,7 +98,7 @@ Os presentamos aquí una reflexión muy personal de alguien que lleva décadas e
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Cronica-de-la-vida-de-Jesus-documento-133.jpg" alt="Crónica de la vida de Jesús - Doc 132" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Cronica-de-la-vida-de-Jesus-documento-133.jpg" alt="Crónica de la vida de Jesús - Doc 132" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -111,7 +111,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Los padres de Jesús
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Los-padres-de-Jesus.png" alt="Los padres de Jesús" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Los-padres-de-Jesus.png" alt="Los padres de Jesús" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a los padres de Jesús, y comienza así:
@@ -124,7 +124,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/9revelaciones.jpg" alt="Las nueve revelaciones" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/9revelaciones.jpg" alt="Las nueve revelaciones" width="130">
 </figure>
 
 Las nueve revelaciones (James Redfield)
@@ -144,7 +144,7 @@ Entre las ideas que contiene este libro tenemos las siguientes:
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Sacramentos.jpg" alt="Los sacramentos de la vida" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Sacramentos.jpg" alt="Los sacramentos de la vida" width="130">
 </figure>
 
 Los sacramentos de la vida (Leonardo Boff)
@@ -157,7 +157,7 @@ En palabras del autor, la intención de este ensayo es «_despertar la dimensió
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Video-mayo-2022.jpg" alt="No temamos al Armagedon nuclear">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Video-mayo-2022.jpg" alt="No temamos al Armagedon nuclear">
 </figure>
 
 [Línea de tiempo desde la Última Cena hasta la Crucifixión](https://vimeo.com/699561993) (Radio Urantia)
@@ -168,7 +168,7 @@ Ahora que hace pocos días que pasó la Pascua y rememoramos los acontecimientos
 ## Navegando por la vida – La conexión
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Navegando-por-la-vida-La-conexion.jpg" alt="La conexión" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Navegando-por-la-vida-La-conexion.jpg" alt="La conexión" width="250">
 </figure>
 
 Tengo una amistad que últimamente se encuentra triste, apagada. Ha tenido recientemente una serie de experiencias que la han llevado a ese estado.
@@ -201,7 +201,7 @@ Con una mente libre de deseos y por tanto de toda necesidad, ¿qué me impedirí
 Jorge Nagore
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Mi-parrafo-favorito-Jorge-Nagore.jpg" alt="Mi párrafo favorito - Jorge Nagore">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Mi-parrafo-favorito-Jorge-Nagore.jpg" alt="Mi párrafo favorito - Jorge Nagore">
 </figure>
 
 La riqueza de contenidos de _El Libro de Urantia_ aporta multitud de párrafos apasionantes y que sin duda nos han marcado a todos los lectores. Impresionado en general por el tema concreto de los Ajustadores del Pensamiento he elegido unas líneas, creo que únicas a lo largo de todo el libro, en las que un Ajustador toma la palabra y habla por sí mismo, al referirse a su asociado mortal.
@@ -228,7 +228,7 @@ Y en esta relación con mí Ajustador, soy consciente de que me estoy relacionan
 ## Cuestionario urantiano: Gema Villa
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Gema-Villa.jpg" alt="Gema Villa" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Gema-Villa.jpg" alt="Gema Villa" width="200">
 </figure>
 
 Soy de Madrid, pero desde hace ya 3 años vivo en Murcia y la verdad es que estoy encantada con el cambio. He pasado de vivir en una gran ciudad a un pequeño pueblo de pescadores. Este cambio me ha aportado mucha paz y tranquilidad.
@@ -247,7 +247,7 @@ Estoy convencida que _El Libro de Urantia_ me llegó en el momento en que más l
 ## Jubileo de Jubileos – 15 de mayo
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Jubileo-de-Jubileos.jpg" alt="Jubileo de jubileos" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Jubileo-de-Jubileos.jpg" alt="Jubileo de jubileos" width="200">
 </figure>
 
 Miguel y la Madre, juntos en el gobierno del universo
@@ -272,7 +272,7 @@ Argentina-Brasil: 12:00 (mediodía)
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

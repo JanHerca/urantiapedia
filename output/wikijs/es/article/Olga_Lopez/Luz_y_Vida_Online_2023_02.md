@@ -36,7 +36,7 @@ M. José Sánchez Santamaría
 **La mirada**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-1.jpg" alt="Editorial feb 2023-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-1.jpg" alt="Editorial feb 2023-1" width="350">
 </figure>
 
 «Hace mucho tiempo, hubo un hombre que decidió mudarse a un nuevo pueblo. Preguntándose si le gustaría su nuevo hogar, fue a consultar al maestro zen del lugar:
@@ -69,7 +69,7 @@ Y nosotros, lectores de _El Libro de Urantia_, ¿con qué ojos miramos la realid
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Repaso-a-la-organizacion-del-universo.jpg" alt="Orvonton y la Vía Láctea" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Repaso-a-la-organizacion-del-universo.jpg" alt="Orvonton y la Vía Láctea" width="250">
 </figure>
 
 [**¿Es Orvonton la Vía Láctea? (Dan Massey)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Es-Orvonton-la-Via-Lactea.pdf)
@@ -80,7 +80,7 @@ Este breve artículo es un aporte más a la controversia sobre a qué realidad a
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Eugenesia-razas-y-LU.png" alt="Eugenesia ética" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Eugenesia-razas-y-LU.png" alt="Eugenesia ética" width="250">
 </figure>
 
 [**Eugenesia ética (Charles Montgomery)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf)
@@ -91,7 +91,7 @@ La eugenesia y cómo ponerla en práctica en nuestras sociedades es un tema cont
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Urartu.jpg" alt="Urartu" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Urartu.jpg" alt="Urartu" width="250">
 </figure>
 
 [**Urartu, el reino perdido de Van (Troy R. Bishop)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf)
@@ -102,7 +102,7 @@ En este interesante artículo se nos habla sobre el reino de Urartu y cuál fue 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/caballo-web.jpg" alt="El LU y JJ Benítez" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/caballo-web.jpg" alt="El LU y JJ Benítez" width="130">
 </figure>
 
 [**_El Libro de Urantia_ en los libros de J.J. Benítez (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LUyJJBen%C3%ADtez.pdf)
@@ -115,7 +115,7 @@ El contenido del artículo puede verse también en formato página web [aquí](h
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Cronica-de-la-vida-de-Jesus-doc-141.jpg" alt="Documento 141" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Cronica-de-la-vida-de-Jesus-doc-141.jpg" alt="Documento 141" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -128,7 +128,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los once años
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Jesus-a-los-11-anos.jpg" alt="Jesús a los 11 años" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Jesus-a-los-11-anos.jpg" alt="Jesús a los 11 años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía once años, y comienza así:
@@ -141,7 +141,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Alcanzando-las-alturas.jpg" alt="Alcanzando las alturas" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Alcanzando-las-alturas.jpg" alt="Alcanzando las alturas" width="130">
 </figure>
 
 Alcanzando las alturas: la psicología de la vida espiritual (Marvin Gawryn)
@@ -152,7 +152,7 @@ En palabras de su autor, lector veterano de _El Libro de Urantia_: «Desde hace 
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/El-origen-del-libro-de-Urantia.jpg" alt="Vídeo recomendado feb-23" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/El-origen-del-libro-de-Urantia.jpg" alt="Vídeo recomendado feb-23" width="350">
 </figure>
 
 ### El origen del libro de Urantia (Asociación Urantia de España)
@@ -163,7 +163,7 @@ En palabras de su autor, lector veterano de _El Libro de Urantia_: «Desde hace 
 ## Navegando por la vida – Se busca gente
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Navegando-por-la-vida-Se-busca.jpg" alt="Se busca gente">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Navegando-por-la-vida-Se-busca.jpg" alt="Se busca gente">
 </figure>
 
 Se busca gente con poco ego<br>
@@ -211,7 +211,7 @@ Solo hace falta decir «¡presente!»<br>
 Romualdo Soler González
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Slawa_Radziszewska_Studying_at_the_Alexandrian_Library_525.jpg" alt="Jesús y Ganid en la biblioteca de Alejandría">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Slawa_Radziszewska_Studying_at_the_Alexandrian_Library_525.jpg" alt="Jesús y Ganid en la biblioteca de Alejandría">
 </figure>
 
 Un personaje que me fascina de _El Libro de Urantia_ es el joven indio Ganid. Me siento muy identificado con él porque le veo asombrarse con lo que va descubriendo de sus charlas con Jesús. Lo veo esforzarse por seguir sus enseñanzas, algunas las entiende en seguida y otras le cuestan. Y varias de sus «conclusiones» de estas charlas son para hablar de sus semejantes y de cómo ve que se les ha de tratar. Aquí van algunas que se encuentran a partir del párrafo 131:10.1:
@@ -234,7 +234,7 @@ Es esta una excelente manera de cumplir con la voluntad del Padre: revelar a Dio
 Eduardo Altuzarra
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Mi-parrafo-favorito.jpg" alt="Despertar a una nueva consciencia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Mi-parrafo-favorito.jpg" alt="Despertar a una nueva consciencia" width="250">
 </figure>
 
 En este mundo, muchas personas viven de espaldas a la realidad, aunque no por ello dejan de evolucionar para un futuro mejor. La única diferencia se encuentra en que unos viven entre lo subconsciente y lo consciente y otros viven entre los niveles de lo consciente y lo superconsciente.
@@ -254,7 +254,7 @@ Cuando esto sucede, más allá del cerebro, en la mente del ser humano, en el co
 ## Cuestionario urantiano: Javier Martínez
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Javier-Martinez.jpg" alt="Javier Martínez" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Javier-Martinez.jpg" alt="Javier Martínez" width="200">
 </figure>
 
 Javier vive en Madrid oficialmente, aunque reside en Almería gran parte del año. Es funcionario jubilado e ingeniero técnico de telecomunicaciones. Divorciado, lleva conviviendo con su actual pareja más de 18 años. Tiene dos hijos, y tres de su actual pareja. Dedica mucho tiempo a colaborar con otros grupos de lectura del libro (Grupo ICSS, Colombia, Toronto, Brasil y España). También colabora con el grupo Ágora 2.0 y administra una plataforma en FaceBook denominada «Descifrando Urantia».
@@ -275,7 +275,7 @@ Inicialmente lo leí como si de una novela ficcionada se tratase. Comencé por l
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/En-el-foco.jpg" alt="En el foco" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/En-el-foco.jpg" alt="En el foco" width="250">
 </figure>
 
 La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) comienza este año un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
@@ -297,7 +297,7 @@ Sala Zoom: [https://urantia-org.zoom.us/j/4457962840](https://urantia-org.zoom.u
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

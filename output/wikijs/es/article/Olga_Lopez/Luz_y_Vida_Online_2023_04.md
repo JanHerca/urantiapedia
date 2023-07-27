@@ -35,7 +35,7 @@ Luz y Vida — abril 2023
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-1.jpg" alt="Editorial abr 23-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-1.jpg" alt="Editorial abr 23-1" width="350">
 </figure>
 
 Una vez más, queridos lectores y lectoras de este boletín, nos encontramos y reflexionamos juntos sobre _El Libro de Urantia_ y sus sorprendentes enseñanzas. Y una vez más nos acercamos a las celebraciones de la semana santa. Unos días de vacaciones, festivos, con diversas procesiones por España, oficios religiosos, etc. En el calendario solar judío ahora ya ha comenzado el hermoso mes de Nissán, el primero del año y, con él, la primavera. Los comienzos se exteriorizan y brotan, se van las brumas invernales… Es un momento estupendo para renovarnos por dentro.
@@ -61,7 +61,7 @@ Pero una mañana hubo un silencio curioso y extraño. Uno a uno, los cerdos fuer
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Dualidad.jpg" alt="Dualidad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Dualidad.jpg" alt="Dualidad" width="250">
 </figure>
 
 [**La naturaleza dual de la Supremacía (Linda Buselli)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-naturaleza-dual-de-la-Supremac%C3%ADa.pdf)
@@ -72,7 +72,7 @@ En palabras de la autora, «la supremacía debe comprender todas las posibilidad
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Neutrinos.jpg" alt="Neutrinos" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Neutrinos.jpg" alt="Neutrinos" width="250">
 </figure>
 
 [**Neutrinos (autor desconocido)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
@@ -83,7 +83,7 @@ A pesar de que la ciencia que aparece en _El Libro de Urantia_ está muy restrin
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Semilla-de-mostaza.png" alt="Semilla de mostaza" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Semilla-de-mostaza.png" alt="Semilla de mostaza" width="250">
 </figure>
 
 [**Reflexiones sobre la parábola de la semilla de mostaza (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
@@ -106,7 +106,7 @@ Los orígenes de los documentos que dieron lugar a _El Libro de Urantia_ son mot
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Documento-143.jpg" alt="Documento 143" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Documento-143.jpg" alt="Documento 143" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -119,7 +119,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los trece años
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Jesus-a-los-13-anos.jpg" alt="Jesús a los 13 años" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Jesus-a-los-13-anos.jpg" alt="Jesús a los 13 años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía trece años, y comienza así:
@@ -132,7 +132,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Fragmentos-de-esperanza.jpg" alt="Esperanza" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Fragmentos-de-esperanza.jpg" alt="Esperanza" width="130">
 </figure>
 
 Fragmentos de esperanza (Manuel Fraijó)
@@ -143,7 +143,7 @@ El autor, doctor en filosofía y teología, vincula en este libro esperanza con 
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Video-abr-2023.jpg" alt="La confirmación del LU" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Video-abr-2023.jpg" alt="La confirmación del LU" width="350">
 </figure>
 
 [La confirmación del Libro de Urantia](https://youtu.be/SeCqoqSL2vg) (Estudios de los Escritos de Urantia)
@@ -154,7 +154,7 @@ Muchas son las sorpresas que han traído los datos aportados por el telescopio J
 ## Navegando por la vida – Inteligencia infinita
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Triangulo-Inteligencia-infinita.png" alt="Inteligencia infinita" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Triangulo-Inteligencia-infinita.png" alt="Inteligencia infinita" width="250">
 </figure>
 
 ¿Qué es una inteligencia infinita?
@@ -171,7 +171,7 @@ Esa figura (acaso) tiene su determinada función en la economía del universo.
 Montserrat Blanco
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Misericordia.jpg" alt="Misericordia">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Misericordia.jpg" alt="Misericordia">
 </figure>
 
 No hay frase de _El Libro de Urantia_ que no contenga una perla. Algunas veces esa perla está oculta y hay que rascar para poder encontrarla; otras, como es el caso, esa perla brilla como un sol y es imposible ocultar tanta luz y tantísima belleza.
@@ -200,7 +200,7 @@ Querer hacer la voluntad del Padre, querer ser como Él, es también despertar a
 ## Cuestionario urantiano: Omar Delgado
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Omar-Delgado.jpg" alt="Omar Delgado" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Omar-Delgado.jpg" alt="Omar Delgado" width="200">
 </figure>
 
 Omar Delgado es un lector colombiano que reside actualmente en Suecia. Tiene 34 años, de profesión auxiliar de enfermería. Estado civil: unión libre.
@@ -227,7 +227,7 @@ Mi visión de la vida ha cambiado.
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/UBIS-En-el-foco.png" alt="UBIS En el foco">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/UBIS-En-el-foco.png" alt="UBIS En el foco">
 </figure>
 
 La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
@@ -248,7 +248,7 @@ Podéis ver el vídeo de la sesión anterior [en este enlace](https://www.youtub
 ## Nuevos cursos de la Escuela Internacional de El Libro de Urantia (UBIS)
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/estudioLU-abr21.jpg" alt="Estudio LU">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/estudioLU-abr21.jpg" alt="Estudio LU">
 </figure>
 
 En abril comienza un nuevo trimestre en la Escuela Internacional de _El Libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 17 de abril** y finaliza el **domingo 30**. Los cursos comienzan el **lunes 24** con la semana de orientación.
@@ -273,7 +273,7 @@ Los cupos son limitados, ¡así que inscribíos lo antes posible!
 Olga López
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Seppo_Kanerva.jpg" alt="Seppo Kanerva" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Seppo_Kanerva.jpg" alt="Seppo Kanerva" width="200">
 </figure>
 
 Seppo Kanerva (Finlandia), expresidente de la Fundación Urantia, partió hacia los mundos morontiales el pasado martes 28 de marzo, a la edad de 79 años. Seppo fue el traductor al finlandés de _El Libro de Urantia_, publicada en 1993, y estuvo muy implicado en el desarrollo de la comunidad Urantia en todo el mundo como presidente de la Fundación Urantia, cargo al que renunció en noviembre de 2008 para descansar y disfrutar de la vida familiar.
@@ -286,7 +286,7 @@ Como responsable de traducciones de la Fundación, siempre estuvo muy implicado 
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

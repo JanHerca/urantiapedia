@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Mi-parrafo-favorito.jpg" alt="Despertar a una nueva consciencia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Mi-parrafo-favorito.jpg" alt="Despertar a una nueva consciencia" width="250">
 </figure>
 
 En este mundo, muchas personas viven de espaldas a la realidad, aunque no por ello dejan de evolucionar para un futuro mejor. La única diferencia se encuentra en que unos viven entre lo subconsciente y lo consciente y otros viven entre los niveles de lo consciente y lo superconsciente.

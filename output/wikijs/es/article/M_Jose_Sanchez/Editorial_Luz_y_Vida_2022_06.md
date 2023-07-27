@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1">
 </figure>
 
 «Cuenta una vieja historia que en un pequeño pueblo se desató una tormenta tal que el río se desbordó y lo inundó todo por completo. Los habitantes escapaban como podían, pero el sacerdote, que siempre había sido un hombre de gran fe, permanecía en la entrada de la parroquia rezando a Dios para que lo sacase de allí.»
@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 «–¿Pero de qué abandono me hablas? –le respondió Dios– ¡Te envié una camioneta, te envié un bote y te envié un helicóptero!»
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-2.jpg" alt="Editorial junio 2022-2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-2.jpg" alt="Editorial junio 2022-2">
 </figure>
 
 Esta historia me la contaban en formato chiste cuando era pequeña y al cabo de los años me di cuenta de que tenía más enseñanzas, pues todos tenemos muy cerca, a mano, a Dios y no sabemos verlo. Necesitamos _despertar_ a la auténtica realidad, pues ello dará un sentido radicalmente distinto y maravilloso a nuestra existencia.

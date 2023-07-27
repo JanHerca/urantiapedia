@@ -34,7 +34,7 @@ Luz y Vida — diciembre 2021
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Editorial-diciembre-2021.jpg" alt="Editorial diciembre 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Editorial-diciembre-2021.jpg" alt="Editorial diciembre 2021" width="250">
 </figure>
 
 _«Aquello que sucede en la vida de Cristo sucede siempre y en todas partes.»_ C. G. Jung
@@ -51,7 +51,7 @@ Para ello, os propongo saltar por encima de la avalancha de las noticias, de la 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Surf-por-los-rayos-de-sol.jpg" alt="Surf por los rayos de sol" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Surf-por-los-rayos-de-sol.jpg" alt="Surf por los rayos de sol" width="250">
 </figure>
 
 [**Haciendo surf por los rayos de sol (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf)
@@ -62,7 +62,7 @@ Este trabajo comienza preguntando al lector: «¿Cuántos de nosotros nos hemos 
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Instituciones-humanas.jpg" alt="Instituciones humanas" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Instituciones-humanas.jpg" alt="Instituciones humanas" width="250">
 </figure>
 
 [**Reflexiones urantianas sobre las instituciones humanas (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/08/REFLEXIONES-URANTIANAS-SOBRE-LAS-INSTITUCIONES-HUMANAS.pdf)
@@ -73,7 +73,7 @@ Este trabajo es la transcripción de una presentación hecha en Zoom en agosto d
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Quien-era-Jesus-1.jpg" alt="¿Quién era Jesús?" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Quien-era-Jesus-1.jpg" alt="¿Quién era Jesús?" width="250">
 </figure>
 
 [**¿Quién era Jesús? (Chris M. Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Quien-era-Jesus.pdf)
@@ -84,7 +84,7 @@ Este trabajo se publicó originalmente en francés en la revista _Le Lien Uranti
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/La-vida-interior-hacia-fuera.jpg" alt="La vida interior: hacia fuera" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/La-vida-interior-hacia-fuera.jpg" alt="La vida interior: hacia fuera" width="250">
 </figure>
 
 [**La vida interior: hacia fuera (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/La-vida-interior-hacia-fuera.pdf)
@@ -95,7 +95,7 @@ Este trabajo se presentó en la última conferencia de lectores en España, en a
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Cronica-de-Jesus-doc-128.png" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Cronica-de-Jesus-doc-128.png" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -108,7 +108,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Oración
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/LU-para-ninos-Oracion.jpg" alt="Oración" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/LU-para-ninos-Oracion.jpg" alt="Oración" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la oración, y comienza así:
@@ -121,7 +121,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/el-predicador-jan-herca-1.jpg" alt="El predicador" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/el-predicador-jan-herca-1.jpg" alt="El predicador" width="130">
 </figure>
 
 El predicador (Jan Herca)
@@ -134,7 +134,7 @@ Es el año 1204. Es tiempo de herejes. De coloquios religiosos, lóbregas abadí
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Tropiezos-con-la-Verdad-1.jpg" alt="Tropiezos con la Verdad" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Tropiezos-con-la-Verdad-1.jpg" alt="Tropiezos con la Verdad" width="130">
 </figure>
 
 Tropiezos con la Verdad (Miguel Ángel Antúnez)
@@ -147,7 +147,7 @@ Los que sean lectores de _El Libro de Urantia_ se sonreirán al advertir en es
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/El-poder-del-ahora.jpg" alt="El poder del ahora" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/El-poder-del-ahora.jpg" alt="El poder del ahora" width="130">
 </figure>
 
 El poder del ahora (Eckhart Tolle)
@@ -160,7 +160,7 @@ _El poder del ahora_ es una guía, un curso completo de meditación y de desarro
 ---
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Consciencia-cosmica.jpg" alt="Consciencia cósmica" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Consciencia-cosmica.jpg" alt="Consciencia cósmica" width="130">
 </figure>
 
 Consciencia cósmica: un estudio de la evolución de la mente humana (Richard M. Bucke)
@@ -173,7 +173,7 @@ Este libro (en el original en inglés _Cosmic Consciousness: A Study in the E
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Video-Trinity-of-the-Fallen.png" alt="Trinity of the Fallen">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Video-Trinity-of-the-Fallen.png" alt="Trinity of the Fallen">
 </figure>
 
 [Trinity of the Fallen – Kelly Andrew (Gary Tonge)](https://www.youtube.com/watch?v=qZJpAu-FP9M)
@@ -184,7 +184,7 @@ En este caso, vamos a recomendar un vídeo diferente, en el que no hay palabras 
 ## Navegando por la vida – ¿Qué te puedo pedir, Señor?
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Navegando-por-la-vida-dic-21.jpg" alt="¿Qué te puedo pedir, Señor?" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Navegando-por-la-vida-dic-21.jpg" alt="¿Qué te puedo pedir, Señor?" width="250">
 </figure>
 
 ¿Qué te puedo pedir, Señor?
@@ -207,7 +207,7 @@ Gracias, Dios mío.
 Miguel Bustos
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Impactos-en-mi-vida-del-LU.jpg" alt="Impactos en mi vida del LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Impactos-en-mi-vida-del-LU.jpg" alt="Impactos en mi vida del LU">
 </figure>
 
 Para mí, un gran impacto fue tener la «suerte» o privilegio de encontrarme con _El Libro de Urantia_ hace más de 20 años, leerlo «completo» en ocho meses (no entendí ni la mitad), y contrastarlo con la lectura y mi conocimiento bíblico.
@@ -234,7 +234,7 @@ Miguel Bustos (Miguel Mallorca)
 L. Coll
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Masaru-emoto-agua.jpg" alt="Los secretos del agua">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Masaru-emoto-agua.jpg" alt="Los secretos del agua">
 </figure>
 
 El agua tiene sus secretos.
@@ -254,7 +254,7 @@ Otra de las cosas curiosas del agua es que contiene **hidrógeno y oxígeno;**�
 ## Cuestionario urantiano: Paco Morón
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Paco-Morbe.jpg" alt="Paco Morón" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Paco-Morbe.jpg" alt="Paco Morón" width="200">
 </figure>
 
 Francisco (Paco) vive en Sevilla. Está jubilado, anteriormente fue técnico de Gestión de la Función Administrativa. Está casado y tiene dos hijos. Es lector del libro desde el año 1977.
@@ -277,7 +277,7 @@ Pienso que lo acepté prácticamente desde el principio. Dado que las lecturas q
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

@@ -32,7 +32,7 @@ Luz y Vida — junio 2021
 María José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Editorial-junio21.jpg" alt="Editorial junio 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Editorial-junio21.jpg" alt="Editorial junio 2021" width="250">
 </figure>
 
 Una característica llamativa del movimiento Urantia es que muchos llegamos a este libro revelado tras haber buscado respuestas en fuentes diversas. Hablamos de una gran cantidad de personas que muestran curiosidad por descubrir el sentido que tiene nuestra existencia en este planeta azul.
@@ -71,7 +71,7 @@ Dios escucha el llamado de nuestro corazón y nos ha proporcionado este hermoso 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Carta-para-astronomos-y-astrofisicos.jpg" alt="Carta para astrónomos y astrofísicos" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Carta-para-astronomos-y-astrofisicos.jpg" alt="Carta para astrónomos y astrofísicos" width="250">
 </figure>
 
 [**Carta para astrónomos y astrofísicos (autor desconocido)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf)
@@ -82,7 +82,7 @@ En este extenso e interesantísimo trabajo, traducido por Jan Herca, el autor ab
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/El-Sol-y-su-destino.jpg" alt="El Sol y su destino" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-Sol-y-su-destino.jpg" alt="El Sol y su destino" width="250">
 </figure>
 
 [**El Sol y su destino (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf)
@@ -97,7 +97,7 @@ A título de introducción de este interesante y ameno trabajo, qué mejor que r
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/El-gobierno-de-un-planeta-vecino.jpg" alt="El gobierno de un planeta vecino" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-gobierno-de-un-planeta-vecino.jpg" alt="El gobierno de un planeta vecino" width="250">
 </figure>
 
 [**El gobierno de un planeta vecino: la utopía posible (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
@@ -108,7 +108,7 @@ El documento 72 es fuente de muchas ideas útiles para desarrollar sociedades sa
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/El-mundo-de-la-cruz.jpg" alt="El mundo de la cruz" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-mundo-de-la-cruz.jpg" alt="El mundo de la cruz" width="250">
 </figure>
 
 [**El mundo de la cruz (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf)
@@ -121,7 +121,7 @@ En este trabajo, el autor aborda el interesante ejercicio de ubicar los lugares 
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Vida-y-ensenanza-de-Jesus.jpg" alt="Crónicas de la vida de Jesús - junio 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Vida-y-ensenanza-de-Jesus.jpg" alt="Crónicas de la vida de Jesús - junio 2021" width="250">
 </figure>
 
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 123. Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
@@ -132,7 +132,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/VEVBB.jpg" alt="Vivir en Verdad, Belleza y Bondad" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/VEVBB.jpg" alt="Vivir en Verdad, Belleza y Bondad" width="130">
 </figure>
 
 Vivir en verdad, belleza y bondad (Jeffrey Wattles)
@@ -145,7 +145,7 @@ Este ensayo desarrolla en sus páginas cuál debería ser la filosofía del vivi
 ---
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Los-Jardines-del-Eden.jpg" alt="Los Jardines del Edén" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Los-Jardines-del-Eden.jpg" alt="Los Jardines del Edén" width="130">
 </figure>
 
 Los Jardines del Edén: la vida y los tiempos de Adán y Eva (Richard Warren)
@@ -158,7 +158,7 @@ Esta novela del lector y escritor Richard (Rick) Warren se centra en un episodio
 ## Blog recomendado: Ágora 2.0
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/LOGOAGORA2.0-web.png" alt="Ágora 2.0">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/LOGOAGORA2.0-web.png" alt="Ágora 2.0">
 </figure>
 
 En junio de 2020, un grupo de seis lectores hispanohablantes (tres hombres y tres mujeres) quisieron recuperar el espíritu de Urmia y crear un espacio de confluencia y de fraternidad con otras religiones, manteniéndose neutrales y sin manifestar sus creencias personales. Ese espacio se llama Ágora 2.0 (en honor del ágora o plaza de la antigua Atenas donde los atenienses se reunían para discutir sus leyes y decidir el futuro político de su ciudad).
@@ -173,7 +173,7 @@ El grupo Ágora 2.0 organiza conferencias virtuales quincenales en los que propo
 ### El origen de _El Libro de Urantia_. ¿Es una revelación?
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Video-El-origen-del-LU.jpg" alt="Vídeo recomendado: El origen del LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Video-El-origen-del-LU.jpg" alt="Vídeo recomendado: El origen del LU">
 </figure>
 
 En [este vídeo](https://www.youtube.com/watch?v=iiMnChTrRm4) del canal [Proyecto Orión](https://www.youtube.com/channel/UCg_5tFnukLHZHd5KuWvfUVA) hay una interesante explicación sobre cómo llegó la quinta revelación hasta nosotros, tomando como fuentes los escritos que en su día hicieron lectores destacados de _El Libro de Urantia_. En el vídeo aparece detallado el transcurso de los acontecimientos a lo largo de los años y quedan aclaradas muchas confusiones sobre el origen de los documentos de Urantia.
@@ -183,7 +183,7 @@ En [este vídeo](https://www.youtube.com/watch?v=iiMnChTrRm4) del canal [Proyect
 L.Coll
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/La-calidad-de-una-sociedad-FOTO.jpg" alt="La calidad de una sociedad mejor">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/La-calidad-de-una-sociedad-FOTO.jpg" alt="La calidad de una sociedad mejor">
 </figure>
 
 
@@ -199,7 +199,7 @@ Hay demasiada tendencia a echarle la culpa siempre a los demás: al político de
 ## Cuestionario urantiano: José Luis Navarro
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Jose-Luis-Navarro.jpg" alt="José Luis Navarro" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Jose-Luis-Navarro.jpg" alt="José Luis Navarro" width="200">
 </figure>
 
 José Luis Navarro nació en Vitoria en 1977 y actualmente reside en un pueblo de Huesca situado a medio camino de Huesca capital y Zaragoza. Es delineante de profesión y diseña muebles para el comercio. Está casado y tiene un hijo de 8 años. Actualmente es secretario de la junta directiva de la Asociación Urantia de España.
@@ -218,7 +218,7 @@ Los primeros días lo ojee a saltos. Estaba asombrado de la cantidad de informac
 ## Charlas urantianas del mes de junio
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/Charlas-urantianas-junio.jpg" alt="Charlas urantianas junio 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Charlas-urantianas-junio.jpg" alt="Charlas urantianas junio 2021">
 </figure>
 
 La Asociación está organizando unas charlas urantianas para que todos los que lo deseen puedan unirse y tratar sobre los temas que les interesen. La idea es que los moderadores propongan un tema de salida, al que después podrán seguir otros a propuesta de los asistentes.
@@ -233,7 +233,7 @@ Este mes, las reuniones serán los viernes **4 y 18 de junio a las 19h** (hora p
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

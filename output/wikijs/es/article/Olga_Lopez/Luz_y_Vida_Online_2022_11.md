@@ -35,7 +35,7 @@ María José Sánchez Santamaría
 **Situados en nuestro centro**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1" width="350">
 </figure>
 
 Muchos en la escuela hemos aprendido a manejar el compás, ese curioso aparato que nos permite crear unos círculos perfectos. Si la aguja del compás está bien colocada, el otro polo del compás nos permite realizar unos dibujos hermosos y perfectos. Pero si la aguja no está bien colocada, el otro polo del compás hará dibujos deslavazados e imperfectos.
@@ -54,7 +54,7 @@ Si desmenuzamos el episodio, podemos ver cómo el «secuestro emocional» que su
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/La-realidad-segun-el-LU.jpg" alt="La realidad según el LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/La-realidad-segun-el-LU.jpg" alt="La realidad según el LU" width="250">
 </figure>
 
 [**La realidad según _El Libro de Urantia_ (Juan Pomares)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/RealidadLU.jpg)
@@ -65,7 +65,7 @@ Con un libro de la complejidad y abundancia de información como es _El Libro de
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="Historia de Urantia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Historia-de-Urantia.png" alt="Historia de Urantia" width="250">
 </figure>
 
 [**Historia de Urantia (Alberto Torre)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/HISTORIA-DE-URANTIA.pdf)
@@ -76,7 +76,7 @@ He aquí otro esquema, esta vez en forma de tabla, que nos ayuda también a tene
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Cronologia-de-la-vida-de-Jesus.png" alt="Cronología de la vida de Jesús según el LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Cronologia-de-la-vida-de-Jesus.png" alt="Cronología de la vida de Jesús según el LU" width="250">
 </figure>
 
 [**Cronología de la vida de Jesús según _El Libro de Urantia_ (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
@@ -87,7 +87,7 @@ Se han hecho muchas cronologías de la vida de Jesús según lo que se cuenta en
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
 [**Presentación de _El Libro de Urantia_ en “La Caja de Pandora” (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf)
@@ -99,7 +99,7 @@ Este trabajo contiene el texto de la presentación que su autor realizó en 2014
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Documento-138.jpg" alt="Documento 138" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Documento-138.jpg" alt="Documento 138" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -112,7 +112,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los ocho años
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Jesus-a-los-8-anos.jpg" alt="Jesús a los ocho años" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Jesus-a-los-8-anos.jpg" alt="Jesús a los ocho años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía ocho años, y comienza así:
@@ -127,7 +127,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/DivinaGeometria_0.jpg" alt="La divina geometría" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/DivinaGeometria_0.jpg" alt="La divina geometría" width="130">
 </figure>
 
 La divina geometría (Juan Buhigas)
@@ -140,7 +140,7 @@ Jaime Buhigas nos inicia de manera sencilla y amena en la divina geometría, y n
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/MasPlaton.jpg" alt="Más Platón y menos Prozac" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/MasPlaton.jpg" alt="Más Platón y menos Prozac" width="130">
 </figure>
 
 Más Platón y menos Prozac (Lou Marinoff)
@@ -153,7 +153,7 @@ _El Libro de Urantia_ nos dice en repetidas ocasiones que debemos reconciliar la
 ## Audio – nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Audio-El-LU-una-revelacion-transformadora.png" alt="El LU, una revelación transformadora" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Audio-El-LU-una-revelacion-transformadora.png" alt="El LU, una revelación transformadora" width="130">
 </figure>
 
 _El Libro de Urantia_, una revelación transformadora (La Caja de Pandora)
@@ -164,7 +164,7 @@ A propósito de la presentación de Carmelo que hemos incluido en los trabajos r
 ## Navegando por la vida – Leyenda árabe
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Navegando-por-la-vida-leyenda-arabe.jpg" alt="Navegando por la vida-leyenda árabe">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Navegando-por-la-vida-leyenda-arabe.jpg" alt="Navegando por la vida-leyenda árabe">
 </figure>
 
 Dice una leyenda árabe que dos amigos viajaban por el desierto y discutieron. Uno acabó dando al otro una bofetada. El ofendido se agachó y escribió con sus dedos en la arena: «Hoy mi mejor amigo me ha dado una fuerte bofetada en la cara».
@@ -185,7 +185,7 @@ Sonriente, el otro respondió:
 Carlos Rubinsky
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Mi-parrafo-favorito-nov-22.jpg" alt="Mi párrafo favorito - nov 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Mi-parrafo-favorito-nov-22.jpg" alt="Mi párrafo favorito - nov 2022">
 </figure>
 
 Elegir una cita favorita para comentar con ustedes es realmente muy difícil, ya que son muchas las «favoritas» que me han ido surgiendo a lo largo de los años al leer y releer esta maravillosa Revelación, pero hoy elijo la siguiente:
@@ -203,7 +203,7 @@ La voy a analizar por partes:
 ## Cuestionario urantiano: Cecilia Barreto
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Cecilia-Barreto.jpg" alt="Cecilia Barreto" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Cecilia-Barreto.jpg" alt="Cecilia Barreto" width="200">
 </figure>
 
 Blanca Cecilia Barreto de Anastasi es de Perú. Está viuda y tiene tres hijas de 40, 21 y 17 años.
@@ -262,7 +262,7 @@ No hay que tomarlo como una biblia, sino como un libro vivo y hacerlo vivo en un
 ### Superar el materialismo, iluminar Europa
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/III-Conferencia-Europea-1.jpg" alt="III Conferencia Europea-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/III-Conferencia-Europea-1.jpg" alt="III Conferencia Europea-1">
 </figure>
 
 Del 20 al 23 de octubre se celebró la III Conferencia Europea de lectores de _El Libro de Urantia_, que reunió a casi 70 lectores de diferentes lugares de Europa y del resto del mundo (desde Georgia en el este de Europa hasta Estados Unidos y Argentina en el continente americano) en el hotel Sol Don Pablo de Torremolinos (Málaga). Con una temperatura prácticamente veraniega, pudimos disfrutar no solo del clima, sino también de la buena compañía de otros lectores y de unas actividades relacionadas con el tema de la conferencia y con el tema del autodominio, al que se dedicaron varios talleres.
@@ -270,7 +270,7 @@ Del 20 al 23 de octubre se celebró la III Conferencia Europea de lectores de _E
 En esta tercera edición, se pretendió que la conferencia tuviera un enfoque práctico, de modo que los asistentes volvieran a su casa con nuevas ideas y herramientas para mejorar el arte del dominio de sí mismo. De ahí que los talleres de la llamada «ruta del autodominio» tuvieran una parte teórica y una parte práctica, en la que la participación de los asistentes era fundamental. Para facilitar la organización, se hicieron dos rutas por idiomas: inglés y español, que funcionaron de manera independiente pero siempre centrados en el mismo tema: el autodominio bajo la luz de las enseñanzas de _El Libro de Urantia_.
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/III-Conferencia-Europea-3.jpg" alt="III Conferencia Europea-3">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/III-Conferencia-Europea-3.jpg" alt="III Conferencia Europea-3">
 </figure>
 
 Además de los talleres centrados en el autodominio, hubo otras presentaciones de otros temas igualmente interesantes, como por ejemplo:
@@ -282,7 +282,7 @@ Además de los talleres centrados en el autodominio, hubo otras presentaciones d
 - Diferentes sesiones de meditación, para ayudarnos a sintonizar con nuestra chispa divina.
 
 <figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/III-Conferencia-Europea-2.jpg" alt="III Conferencia Europea-2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/III-Conferencia-Europea-2.jpg" alt="III Conferencia Europea-2">
 </figure>
 
 Puesto que era la primera conferencia presencial de tipo internacional que se celebró desde el estallido de la pandemia del COVID-19, todo el mundo tenía muchas ganas de verse de nuevo cara a cara y de ponerse al día. Por ese motivo los organizadores quisieron fomentar las interacciones sociales incluyendo dos excursiones en el programa: la primera el viernes 21, en la que se visitaron los Dólmenes de Antequera, unos monumentos megalíticos más antiguos que Stonehenge y las pirámides de Egipto; y la segunda el sábado 22, en la que dimos un paseo por la ciudad de Málaga acompañados de un guía que hizo un repaso por la historia milenaria de la ciudad (fundada por los fenicios) y contó anécdotas divertidas de ciertos rincones y del carácter de los malagueños. Esa noche todos los asistentes disfrutamos de una cena típica en el restaurante El Tintero, situado junto a una de las playas de Málaga.
@@ -293,7 +293,7 @@ Como novedad respecto a otros eventos, se creó un grupo de WhatsApp en el que s
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

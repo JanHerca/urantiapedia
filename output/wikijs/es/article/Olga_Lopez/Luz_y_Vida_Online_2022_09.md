@@ -38,7 +38,7 @@ M. José Sánchez Santamaría
 Durante las vacaciones veraniegas, con el trasiego de viajes, excursiones, salidas que muchas personas solemos realizar, podemos hacer esta reflexión:
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-2.jpg" alt="Editorial sep-22-2" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-2.jpg" alt="Editorial sep-22-2" width="350">
 </figure>
 
 _¿Cómo es que viajamos para maravillarnos de la grandeza de las montañas, la ondulación de los mares, el devenir de los ríos, la magnificencia de los océanos, las evoluciones de las estrellas… mientras pasamos junto a nosotros mismos sin maravillarnos jamás?_
@@ -57,7 +57,7 @@ Pero espera un momento, te pregunto:
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Registro-uversano.png" alt="Registro uversano de personalidades" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Registro-uversano.png" alt="Registro uversano de personalidades" width="250">
 </figure>
 
 [**Registro uversano de personalidades (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Registro-Uversano-de-Personalidades-I.pdf)
@@ -70,7 +70,7 @@ Aquí están los enlaces a la [segunda](https://aue.urantia-association.org/wp-c
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/De-la-materia-al-espiritu.png" alt="De la materia al espíritu" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/De-la-materia-al-espiritu.png" alt="De la materia al espíritu" width="250">
 </figure>
 
 [**De la materia al espíritu pasando por la mente (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Materia-espiritu.pdf)
@@ -81,7 +81,7 @@ En este trabajo, su autor hace un repaso por la evolución de las especies y en 
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Eugenesia-razas-y-LU.png" alt="Eugenesia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Eugenesia-razas-y-LU.png" alt="Eugenesia" width="250">
 </figure>
 
 [**Eugenesia, razas y _El Libro de Urantia_ (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Eugenesia-razas-y-el-LU.pdf)
@@ -92,7 +92,7 @@ El tema de la eugenesia y de las razas es sin duda un tema controvertido que no 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Maria-madre-de-Jesus.png" alt="María" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Maria-madre-de-Jesus.png" alt="María" width="250">
 </figure>
 
 [**María, la madre de Jesús (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/10/Maria-madre-Jesus.pdf)
@@ -103,7 +103,7 @@ Este es el PowerPoint de la presentación que dio el autor sobre la figura de Ma
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Juan-el-Bautista.jpg" alt="Crónica de la vida de Jesús - Doc 135" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Juan-el-Bautista.jpg" alt="Crónica de la vida de Jesús - Doc 135" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -116,7 +116,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los siete años
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Guia-del-LU-para-ninos-Jesus-a-los-7.jpg" alt="Jesús a los 7" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Guia-del-LU-para-ninos-Jesus-a-los-7.jpg" alt="Jesús a los 7" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía siete años, y comienza así:
@@ -129,7 +129,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/MasPlaton.jpg" alt="Más Platón y menos Prozac" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/MasPlaton.jpg" alt="Más Platón y menos Prozac" width="130">
 </figure>
 
 Más Platón y menos Prozac (Lou Marinoff)
@@ -142,7 +142,7 @@ _El Libro de Urantia_ nos dice en repetidas ocasiones que debemos reconciliar l
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Dios-existe-yo-me-lo-encontre.jpg" alt="Dios existe" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Dios-existe-yo-me-lo-encontre.jpg" alt="Dios existe" width="130">
 </figure>
 
 Dios existe, yo me lo encontré (André Frossard)
@@ -153,7 +153,7 @@ Este libro es el relato de una conversión escrito en primera persona. Describe 
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/La-glandula-pineal-y-el-LU.png" alt="La glándula pineal y el LU">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/La-glandula-pineal-y-el-LU.png" alt="La glándula pineal y el LU">
 </figure>
 
 [La glándula pineal y _El Libro de Urantia_](https://www.youtube.com/watch?v=OkxY40No_YA&list=WL&index=8) ([Estudio de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ))
@@ -164,7 +164,7 @@ En este vídeo, se recogen las referencias a la glándula pineal en _El Libro de
 ## Navegando por la vida – Globos
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Globos-Navegando-por-la-vida.jpg" alt="Globos" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Globos-Navegando-por-la-vida.jpg" alt="Globos" width="200">
 </figure>
 
 Un profesor le dio un globo a cada estudiante, que tuvo que inflarlo, escribir su nombre en él y tirarlo en el pasillo.
@@ -181,7 +181,7 @@ El profesor dijo a los estudiantes: «Estos globos son como la felicidad. Nunca 
 Jael González
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Mi-parrafo-favorito-amor.jpg" alt="Mi párrafo favorito-sep 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Mi-parrafo-favorito-amor.jpg" alt="Mi párrafo favorito-sep 2022">
 </figure>
 
 Esta cita es mi favorita:
@@ -196,7 +196,7 @@ Y el contexto coloca un ejemplo brillante. Podemos incluso amar a quienes nos de
 ## Cuestionario urantiano: Juan José López Vallejos
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/JuanjoLopez.jpg" alt="Juan José López" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/JuanjoLopez.jpg" alt="Juan José López" width="200">
 </figure>
 
 Juan José reside en Pamplona. Está casado y tiene 5 hijos. Es doctor ingeniero I.C.A.I. Conoce _El Libro de Urantia_ desde hace unos 30 años. Participa en el grupo de estudio de la zona norte.
@@ -219,7 +219,7 @@ Dado el tiempo trascurrido, me resulta difícil puntualizar este aspecto. Recuer
 ## Novedades sobre la III Conferencia Europea
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/ESP-Logo-Overcome-materialism-through-enlightenment.png" alt="Logo III Conferencia Europea" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/ESP-Logo-Overcome-materialism-through-enlightenment.png" alt="Logo III Conferencia Europea" width="250">
 </figure>
 
 Sigue abierto el periodo de inscripción para la III Conferencia Europea de Lectores de _El Libro de Urantia_, que se celebrará del **20 al 23 de octubre** en la localidad malagueña de Torremolinos. En [este enlace](https://urantia-association.org/iii-conferencia-urantia-europea-en-espana/?lang=es) está toda la información sobre la conferencia. ¡No os perdáis la oportunidad de estar presentes en la primera conferencia Urantia desde el inicio de la pandemia!
@@ -241,7 +241,7 @@ El propósito de los talleres es fundamentalmente práctico, por ese motivo se h
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
 <a href="http://urantiaevents.com/">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Registrate-ahora.png" alt="Regístrate ahora" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Registrate-ahora.png" alt="Regístrate ahora" width="250">
 </a>
 </figure>
 <br style="clear:both" />
@@ -249,7 +249,7 @@ El propósito de los talleres es fundamentalmente práctico, por ese motivo se h
 ## Más artículos traducidos al español en la web de la AUI
 
 <figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Web-AUI.png" alt="Web AUI">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Web-AUI.png" alt="Web AUI">
 </figure>
 
 Recientemente se han traducido al español muchos artículos de la web de la Asociación Urantia Internacional que contienen material muy interesante sobre grupos de estudio, presentaciones que se dieron en conferencias internacionales, y mucho más. Os animamos a que visitéis la sección [Artículos de presentación](https://urantia-association.org/category/actividades-de-lectores-es/presentaciones-de-conferencias/?lang=es), así como otros trabajos relacionados con los grupos de estudio, como por ejemplo:
@@ -266,7 +266,7 @@ También tenéis la posibilidad de leer artículos publicados en las revistas Jo
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

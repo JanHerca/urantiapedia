@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ## La mirada
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-1.jpg" alt="Editorial feb 2023-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-1.jpg" alt="Editorial feb 2023-1">
 </figure>
 
 «Hace mucho tiempo, hubo un hombre que decidió mudarse a un nuevo pueblo. Preguntándose si le gustaría su nuevo hogar, fue a consultar al maestro zen del lugar:
@@ -59,7 +59,7 @@ Nuestra mirada, por tanto, puede observar un panorama de un planeta en crisis y 
 Lo cierto es que esta realidad inquietante ya está anunciada. Esta gran crisis planetaria la leemos en _El Libro de Urantia_:
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-3.jpg" alt="Editorial feb 2023-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-3.jpg" alt="Editorial feb 2023-3">
 </figure>
 
 Hablamos de un sistema global en crisis que no va a perdurar en el tiempo, pues le falta el sustento espiritual:
@@ -85,7 +85,7 @@ También podemos utilizar el símil de la casa: concebir el sistema sociopolíti
 Actualmente, los sobresaltos que nos rodean (que si una guerra en Europa, que si subida de precios…), estos «calentones» que nos ofrece ahora la vida, nos pueden hacer ver lo necesario de saltar, cambiar de una vida superficial, entretenida, material, a algo trascendente. Esta distopía tremenda que nos rodea (enfermedad, hambre, guerras, «noches oscuras» que vivimos ahora), todo es como si estuviéramos viviendo o chapoteando en una olla hirviente. Este malestar nos puede ayudar a saltar, crecer y mejorar en consciencia.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-2.jpg" alt="Editorial feb 2023-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-2.jpg" alt="Editorial feb 2023-2">
 </figure>
 
 Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen en modo alguno el concepto de la soberanía universal de Dios. La vida de toda criatura evolutiva se ve acosada por ciertas inevitabilidades. Considerad las siguientes:
@@ -103,7 +103,7 @@ Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen 
 Sabiendo que nada es azaroso, el panorama del mundo distópico que observamos es una portentosa escuela de crecimiento en consciencia, una universidad que podemos aprovechar para abrir la mente y el corazón, para forjar almas más plenas. Al crecer y aspirar a más, podremos mirar la realidad con la perspectiva espiritual adecuada, completa y no desconectada de la trascendencia.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-4.jpg" alt="Editorial feb 2023-4">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-4.jpg" alt="Editorial feb 2023-4">
 </figure>
 
 ¿Recordáis la frase de Machado: «soy, en el buen sentido de la palabra, bueno»? Pues eso es lo que deberíamos hacer ante el panorama actual que nos rodea: ser buenos. ¿Tan difícil es hacer el bien como decía Machado? Realizar prácticas de vida sencillas y humildes, escuchar con atención, confiar en la vida, sonreír, estudiar, respetar…

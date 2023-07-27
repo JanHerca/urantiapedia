@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022">
 </figure>
 
 ### Seguir a Jesús
@@ -109,7 +109,7 @@ Si de verdad buscamos difundir el libro, ampliar el movimiento Urantia, expandir
 > «Jesús hacía que los hombres se sintieran en el mundo como en casa; los liberaba de la esclavitud de los tabúes y les enseñaba que el mundo no es fundamentalmente malo. No anhelaba escapar de su vida terrenal; dominó la práctica de hacer aceptablemente la voluntad del Padre mientras vivía en la carne.» [LU 196:2.9](/es/The_Urantia_Book/196#p2_9)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-1.jpg" alt="Editorial - febrero 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-1.jpg" alt="Editorial - febrero 2022">
 </figure>
 
 Ahora podemos captar mejor esta impactante frase de _El Libro de Urantia_, que seguramente hemos leído más de una vez, cuando nos anima a «seguir a Jesús»:

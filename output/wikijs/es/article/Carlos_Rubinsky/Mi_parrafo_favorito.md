@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Carlos Rubinsky<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Mi-parrafo-favorito-nov-22.jpg" alt="Mi párrafo favorito - nov 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Mi-parrafo-favorito-nov-22.jpg" alt="Mi párrafo favorito - nov 2022">
 </figure>
 
 Elegir una cita favorita para comentar con ustedes es realmente muy difícil, ya que son muchas las «favoritas» que me han ido surgiendo a lo largo de los años al leer y releer esta maravillosa Revelación, pero hoy elijo la siguiente:

@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1">
 </figure>
 
 ## Llegar a ser tú mismo
@@ -27,7 +27,7 @@ A veces se nos hace duro mantener el ritmo, ¿verdad? ¿Debemos evadir nuestras 
 La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra palpable de ese deseo divino de enaltecer la vida material, de afrontar lo que supone vivir en la materia, no huir de ella. La oración que elaboró en Nazaret para sus hermanos nos lo muestra:
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-2.jpg" alt="Editorial junio 2023-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-2.jpg" alt="Editorial junio 2023-2">
 </figure>
 
 > Padre nuestro que estás en los cielos,  
@@ -38,7 +38,7 @@ La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra
 Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno, con su partida física de nuestro planeta. Sus discípulos tenían la encomienda de seguir expandiendo esa elevación de la consciencia que era su mensaje, algo que «hará nuevo al viejo mundo». 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
 </figure>
 
 > «No solo me habéis elegido vosotros a mí sino que yo también os elegí a vosotros, y os he ordenado para que salgáis al mundo a servir a vuestros semejantes por amor igual que yo he vivido entre vosotros y os he revelado al Padre. El Padre y yo trabajaremos con vosotros y vosotros experimentaréis la plenitud divina de la alegría solo con que obedezcáis mi mandamiento de amaros los unos a los otros como yo os he amado.» [LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
@@ -78,13 +78,13 @@ Esta sociedad potencia la distracción y la evasión como método para ser feliz
 ## Aprendamos de nuestro Maestro
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-4.jpg" alt="Editorial junio 2023-4">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-4.jpg" alt="Editorial junio 2023-4">
 </figure>
 
 Ciertamente la alegría, el sentido del humor, «cambian el carácter de nuestros pensamientos», como decía el pensador y escritor chino Li Yutang. Eleva la calidad de nuestros pensamientos, es un antidepresivo natural. Nos regala una bocanada de esperanza, elimina barreras entre los humanos, nos ayuda a llevar de forma más ligera las cargas de la vida cotidiana… pero hablamos de una alegría en nuestro ser profundo, la alegría que se consigue como fruto del espíritu por afinidad con la divinidad, por estar unidos a Él.
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-5.jpg" alt="Editorial junio 2023-5">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-5.jpg" alt="Editorial junio 2023-5">
 </figure>
 
 A este respecto es muy útil que recordemos un pasaje de la vida de san Francisco de Asís, una de las **florecillas de san Francisco**.

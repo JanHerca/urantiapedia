@@ -34,7 +34,7 @@ M. José Sánchez Santamaría
 **La imagen de Dios**
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-4.jpg" alt="Editorial ene 23-4" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-4.jpg" alt="Editorial ene 23-4" width="350">
 </figure>
 
 José entra en la casa, cansado de un día de trabajo en Séforis. Su saludo, como siempre, es lacónico. No es hombre de muchas palabras. María responde como de costumbre: una palabra de bienvenida, una pregunta sobre su jornada, y cuando él se ha acercado a la mesa de piedra, entonces un gesto que, en ese ambiente de risas y parloteos infantiles, establece entre ellos una corriente de complicidad: una mano que se apoya en el hombro, una palmada cariñosa en la cabeza, un trapo de agua fría con el que se refresca y limpia el polvo del camino acumulado en ese rostro aún joven, pero que empieza a mostrar los primeros surcos.
@@ -91,7 +91,7 @@ Y ahora, en la noche, mientras su hijo duerme, él recuerda esa escena., vuelve 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Meditacion-y-adoracion.jpg" alt="Meditación y adoración" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Meditacion-y-adoracion.jpg" alt="Meditación y adoración" width="250">
 </figure>
 
 [**Charla sobre meditación y adoración (Mariano Pérez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Charla-Adoraci%C3%B3n-y-meditaci%C3%B3n-14-9-14.pdf)
@@ -102,7 +102,7 @@ En este trabajo, que se ofreció como presentación en una sala virtual, el auto
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/El-Ser-Supremo.jpg" alt="El Ser Supremo" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/El-Ser-Supremo.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
 [**El Ser Supremo y conceptos previos (Rafael Mondéjar)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-SER-SUPREMO-Y-CONCEPTOS-PREVIOS.pdf)
@@ -113,7 +113,7 @@ Al inicio de este trabajo, el autor nos dice: « Cuando comencé a informarme so
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Hijas-de-Dios.jpg" alt="Hijas de Dios" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Hijas-de-Dios.jpg" alt="Hijas de Dios" width="250">
 </figure>
 
 [**¿Dónde están las Hijas de Dios? (Marion Steward)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf)
@@ -124,7 +124,7 @@ Como nos dice la autora: «El Universo está a rebosar de Hijos de Dios, comenza
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/La-busqueda-de-la-felicidad.jpg" alt="La búsqueda de la felicidad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/La-busqueda-de-la-felicidad.jpg" alt="La búsqueda de la felicidad" width="250">
 </figure>
 
 [**La búsqueda de la felicidad a la luz de las enseñanzas de _El Libro de Urantia_ (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/LA-B%C3%9ASQUEDA-DE-LA-FELICIDAD-A-LA-LUZ-DEL-LU.pdf)
@@ -136,7 +136,7 @@ El trabajo comienza con estas observaciones de la autora: «Vivimos en unos tiem
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/La-ordenacion-de-los-doce-Duccio_di_Buoninsegna_The_sending_of_the_Twelve.jpg" alt="La ordenación de los doce" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/La-ordenacion-de-los-doce-Duccio_di_Buoninsegna_The_sending_of_the_Twelve.jpg" alt="La ordenación de los doce" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -149,7 +149,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús a los diez años
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Jesus-a-los-10-anos.jpg" alt="Jesús a los 10 años" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Jesus-a-los-10-anos.jpg" alt="Jesús a los 10 años" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús tenía diez años, y comienza así:
@@ -162,7 +162,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/El-cielo-no-es-la-ultima-parada.jpg" alt="El cielo no es la última parada" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/El-cielo-no-es-la-ultima-parada.jpg" alt="El cielo no es la última parada" width="130">
 </figure>
 
 El cielo no es la última parada (Sheila Keene-Lund)
@@ -173,7 +173,7 @@ Sheila Keene-Lund, la autora, es una lectora veterana de _El Libro de Urantia_ q
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Reencarnacion-y-LU-video-recomendado.jpg" alt="Vídeo recomendado ene-23" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Reencarnacion-y-LU-video-recomendado.jpg" alt="Vídeo recomendado ene-23" width="350">
 </figure>
 
 ### Los fenómenos de reencarnación explicados a la luz de _El Libro de Urantia_ ([Estudios de los Escritos de Urantia](https://www.youtube.com/@estudiosdelosescritosdeura2478))
@@ -184,7 +184,7 @@ El tema de la reencarnación siempre resulta controvertido entre los lectores de
 ## Navegando por la vida – El cambio cuesta
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/El-cambio-cuesta.jpg" alt="El cambio cuesta">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/El-cambio-cuesta.jpg" alt="El cambio cuesta">
 </figure>
 
 Podemos ver en nuestra naturaleza humana que el cambio nos cuesta, vemos como muchas personas no hacen un cambio y buscan evitarlo hasta que las cosas se ponen tan feas y se sienten tan mal que ya no pueden seguir como de costumbre.
@@ -211,7 +211,7 @@ Ojalá queramos transitar este cambio de paradigma, este cambio de visión de la
 Luis García Bory
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Mi-parrrafo-favorito-altruismo.png" alt="Altruismo">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Mi-parrrafo-favorito-altruismo.png" alt="Altruismo">
 </figure>
 
 Altruismo
@@ -231,7 +231,7 @@ Ello nos llevaría a concluir que construir un carácter espiritualmente fuerte 
 ## Cuestionario urantiano: Marisé Cantero
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Marise-Castro.jpg" alt="Marisé Castro" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Marise-Castro.jpg" alt="Marisé Castro" width="200">
 </figure>
 
 Vivo en una ciudad pequeña de la provincia de La Coruña llamada Narón y que está pegada a Ferrol, ciudad en la que nací. Aunque nací en Ferrol, me crie en Las Palmas de Gran Canaria y en San Fernando (Cádiz). Cuando volví a Ferrol con 17 años me sentí tremendamente desgraciada porque mis amigos de la juventud quedaron en San Fernando. Tengo pareja y un hijo de 13 años.
@@ -250,7 +250,7 @@ En ese momento estaba en un mal momento personal y sentí al leerlo que era la r
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

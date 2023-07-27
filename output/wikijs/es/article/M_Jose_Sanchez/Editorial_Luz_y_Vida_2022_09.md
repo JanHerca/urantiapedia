@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-2.jpg" alt="Editorial sep-22-2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-2.jpg" alt="Editorial sep-22-2">
 </figure>
 
 ## Conócete a ti mismo
@@ -53,7 +53,7 @@ Estos dos sencillos ejemplos que nos recuerdan lo que somos, que nos exhortan a 
 > El gran Dios se pone en contacto directo con el hombre mortal y da una parte de su ser infinito y eterno e incomprensible para que viva y more dentro de él. Dios se ha embarcado en la aventura eterna con el hombre. Si os sometéis a las directrices de las fuerzas espirituales que están dentro y alrededor de vosotros, no podréis dejar de alcanzar el alto destino que un Dios amoroso ha establecido como meta en el universo para sus criaturas ascendentes de los mundos evolutivos del espacio. [LU 5:1.12](/es/The_Urantia_Book/5#p1_12)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-3.jpg" alt="Editorial sep-22-3">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-3.jpg" alt="Editorial sep-22-3">
 </figure>
 
 Esta gran promesa que nos puede impulsar en nuestra vida, que nos muestra lo que somos realmente ¿está difundida y aceptada mayoritariamente? La respuesta es obvia; más bien vivimos en muchos aspectos una realidad distópica. La humanidad contemporánea sufre los males de siempre (injusticias, alienación, guerras, hambre, daños a la Madre Tierra, etc.) pero con más intensidad que nunca y además nuevos males (como el almacenamiento y tratamiento masivo de la información para el dominio y control social, o la manipulación genética), nuevos problemas que nunca antes habíamos conocido.
@@ -103,7 +103,7 @@ Iluminar Europa y por ende el mundo, volviendo hacia nuestro interior antes que 
 > _—Pues porque aquí hay más luz y mi casa está muy oscura._
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-1.jpg" alt="Editorial sep-22-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-1.jpg" alt="Editorial sep-22-1">
 </figure>
 
 ¿Estamos buscando soluciones en el sitio correcto? El mismo Jesús nos orienta en nuestra búsqueda, hacia dentro, hacia nuestro núcleo. Ahí está la respuesta a nuestros problemas e inquietudes actuales.

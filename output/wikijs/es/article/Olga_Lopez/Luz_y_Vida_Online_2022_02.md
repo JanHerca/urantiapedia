@@ -34,7 +34,7 @@ Luz y Vida — febrero 2022
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022" width="350">
 </figure>
 
 Seguir a Jesús
@@ -61,7 +61,7 @@ Jamás se ha emborrachado nadie a base de comprender «intelectualmente» la pal
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Historia-de-la-Creacion.jpg" alt="Historia de la Creación" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Historia-de-la-Creacion.jpg" alt="Historia de la Creación" width="250">
 </figure>
 
 [**Historia de la Creación (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HistoriaCreacion-Texto.pdf)
@@ -72,7 +72,7 @@ Este trabajo es una síntesis de otro trabajo más extenso que Bill Sadler escri
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
 [**La fuerza de gravedad en el núcleo atómico profetizada en 1934 (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf)
@@ -83,7 +83,7 @@ Este artículo, aun siendo breve, es muy esclarecedor sobre cómo la física se 
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/A-los-educadores-y-creyentes-de-la-5-revelacion.jpg" alt="A los educadores y creyentes" width="250">
 </figure>
 
 [**A los educadores y creyentes de la quinta revelación (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/A-los-educadores-y-creyentes-de-la-quinta-revelaci%C3%B3n.pdf)
@@ -94,7 +94,7 @@ Este artículo es un análisis de la sección «Las instrucciones para los educa
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Astronomia-y-superuniversos.jpg" alt="Astronomía y superuniversos" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Astronomia-y-superuniversos.jpg" alt="Astronomía y superuniversos" width="250">
 </figure>
 
 [**Astronomía y superuniversos (Troy R. Bishop)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Astronom%C3%ADa-y-superuniversos.pdf)
@@ -105,7 +105,7 @@ En este trabajo de Troy R. Bishop, traducido por Jan Herca, se hace un repaso de
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Cronica-de-Jesus-Documento-130.jpg" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Cronica-de-Jesus-Documento-130.jpg" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -118,7 +118,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Ajustador del Pensamiento
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Ajustador-del-Pensamiento.jpg" alt="Vida eterna" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Ajustador-del-Pensamiento.jpg" alt="Vida eterna" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado al Ajustador del Pensamiento, y comienza así:
@@ -131,7 +131,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Ideario_-_Santiago_Flores_0000.jpg" alt="Ideario" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Ideario_-_Santiago_Flores_0000.jpg" alt="Ideario" width="130">
 </figure>
 
 Ideario (Santiago Flores)
@@ -144,7 +144,7 @@ En palabras de su autor: «Ideario es el producto de tres factores principales: 
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Jesus-de-Nazaret-Jan-Herca.jpg" alt="Jesús de Nazaret" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Jesus-de-Nazaret-Jan-Herca.jpg" alt="Jesús de Nazaret" width="130">
 </figure>
 
 Jesús de Nazaret (Jan Herca)
@@ -157,7 +157,7 @@ Todos los lectores del libro sentimos un especial cariño hacia la figura de Jes
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/EncuentroRealidad.jpg" alt="El encuentro con la realidad" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/EncuentroRealidad.jpg" alt="El encuentro con la realidad" width="130">
 </figure>
 
 El encuentro con la realidad (Vicente Ferrer)
@@ -170,7 +170,7 @@ Creo que a estas alturas todos conocemos a Vicente Ferrer, exjesuita afincado en
 ---
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/ProyectoEticaM.gif" alt="Proyecto de una ética mundial" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/ProyectoEticaM.gif" alt="Proyecto de una ética mundial" width="130">
 </figure>
 
 Proyecto de una ética mundial (Hans Küng)
@@ -189,7 +189,7 @@ Küng afirma en este libro que la ética debe estar basada en “lo Incondiciona
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Anditas-en-Egipto.png" alt="Anditas en Egipto">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Anditas-en-Egipto.png" alt="Anditas en Egipto">
 </figure>
 
 [Anditas en Egipto (Estudios de los Escritos de Urantia)](https://www.youtube.com/watch?v=YFJwTqkJqdA)
@@ -200,7 +200,7 @@ Küng afirma en este libro que la ética debe estar basada en “lo Incondiciona
 ## Navegando por la vida – El cuento del bambú japonés
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/El-cuento-del-bambu.jpg" alt="El cuento del bambú japonés">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/El-cuento-del-bambu.jpg" alt="El cuento del bambú japonés">
 </figure>
 
 Cuenta la leyenda que hace mucho, mucho tiempo, dos agricultores caminaban por un mercadillo cuando se pararon justo ante el puesto de un hombre que vendía semillas. Se sorprendieron cuando vieron unas que nunca habían visto.
@@ -235,7 +235,7 @@ Fuente: [https://www.natursan.net/conoces-el-cuento-del-bambu-japones/](https://
 Miguel Mallorca
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Verdad-universal-sin-dogmas.jpg" alt="Verdad universal, sin dogmas">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Verdad-universal-sin-dogmas.jpg" alt="Verdad universal, sin dogmas">
 </figure>
 
 El ser humano, en su continua evolución, se ha visto condicionado y sometido por el poder religioso; un poder religioso de tal influencia social que, a lo largo de la historia, y con la excusa de su espiritualización, pero con ocultas intenciones de control manipulador y político, le han convertido en un ser escéptico con un rechazo casi total a dichas religiones «salvadoras».
@@ -252,7 +252,7 @@ Es triste que, siendo como somos una civilización tecnológica y científicamen
 Gloria Andreu
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Mi-parrafo-favorito-Gloria-Andreu.jpg" alt="Mi párrafo favorito - feb 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Mi-parrafo-favorito-Gloria-Andreu.jpg" alt="Mi párrafo favorito - feb 2022">
 </figure>
 
 Elegir un sólo párrafo de _El Libro de Urantia_ es una labor un tanto difícil, pues si abro el primer libro creo que no hay un solo documento, apartado o página que no esté subrayado.  Unos párrafos son verdaderas joyas, por no decir todos; otros destacan por su belleza; otros son pura filosofía; otros son para debatir durante mucho tiempo, por eso es muy difícil para mí elegir uno.
@@ -271,7 +271,7 @@ Desde que lo leí por primera vez me impactó, pero cuando lo volví a leer me d
 ## Cuestionario urantiano: Victoriano Izquierdo
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.jpg" alt="Victoriano Izquierdo" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.jpg" alt="Victoriano Izquierdo" width="200">
 </figure>
 
 Soy Victoriano Izquierdo Ramírez. Resido en Sevilla y estoy jubilado. Mi esposa y yo tenemos tres hijos y cuatro nietos y llevamos leyendo El Libro de Urantia desde el año 1992.
@@ -292,7 +292,7 @@ La primera impresión fue muy impactante porque su temario era muy amplio y trat
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

@@ -33,7 +33,7 @@ Luz y Vida — mayo 2023
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4" width="350">
 </figure>
 
 **Llegar a ser tú mismo**
@@ -64,7 +64,7 @@ Este hermoso cuento nos habla de la faceta que más nos puede conmover: el amor 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Arbol-genealogico.png" alt="Árbol genealógico" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Arbol-genealogico.png" alt="Árbol genealógico" width="250">
 </figure>
 
 [**Árbol genealógico de las razas (Oly Tartakowsky)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Arbol_genealogico_razas.jpg)
@@ -75,7 +75,7 @@ Este trabajo es en realidad un gráfico donde se nos muestra de manera muy gráf
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Ajustador-del-Pensamiento.jpg" alt="Ajustador" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Ajustador-del-Pensamiento.jpg" alt="Ajustador" width="250">
 </figure>
 
 [**En comunicación con nuestro Ajustador del Pensamiento (autor desconocido)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComunicacionAjustador.pdf)
@@ -86,7 +86,7 @@ El autor comienza el trabajo con una cita del libro que expresa que justamente e
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Vida-y-ensenanza-de-Jesus.jpg" alt="Cronología" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Vida-y-ensenanza-de-Jesus.jpg" alt="Cronología" width="250">
 </figure>
 
 [**Cronología de la vida de Jesús en Urantia (Jimmer Prieto)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CronoJesusUrantia.pdf)
@@ -97,7 +97,7 @@ No escasean los trabajos hechos por lectores que hacen una cronología de los he
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Historia-de-Urantia.png" alt="Amigos y residentes" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Historia-de-Urantia.png" alt="Amigos y residentes" width="250">
 </figure>
 
 [**Amigos y residentes en Urantia (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/AMIGOS-Y-RESIDENTES-EN-URANTIA.pdf)
@@ -108,7 +108,7 @@ En muchos pasajes del libro, los reveladores nos hablan de seres que residen nue
 ## Historia y enseñanzas: Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Documento-144.jpg" alt="Documento 144">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Documento-144.jpg" alt="Documento 144">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -121,7 +121,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús va a Jerusalén con sus padres
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Jesus-en-Jerusalen-con-sus-padres.jpg" alt="Jesús en Jerusalén con sus padres" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Jesus-en-Jerusalen-con-sus-padres.jpg" alt="Jesús en Jerusalén con sus padres" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la época en la que Jesús va a Jerusalén con sus padres por primera vez, y comienza así:
@@ -134,7 +134,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/La-fuerza-del-optimismo.jpg" alt="La fuerza del optimismo" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/La-fuerza-del-optimismo.jpg" alt="La fuerza del optimismo" width="130">
 </figure>
 
 La fuerza del optimismo (Luis Rojas Marcos)
@@ -145,7 +145,7 @@ Aprender a sentir y pensar en positivo es una inversión sumamente rentable para
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/La-verdad-de-la-muerte-y-la-resurreccion-de-Jesus.jpg" alt="La verdad de la muerte y resurrección de Jesús" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/La-verdad-de-la-muerte-y-la-resurreccion-de-Jesus.jpg" alt="La verdad de la muerte y resurrección de Jesús" width="350">
 </figure>
 
 [La verdad de la muerte y resurrección de Jesús](https://youtu.be/amgA2q20p6U) ([Citas en audio-vídeo del Libro de Urantia](https://www.youtube.com/@CITASENAUDIODELLIBRODEURANTIA))
@@ -156,7 +156,7 @@ Ahora que hace relativamente poco hemos dejado atrás la semana santa siempre vi
 ## Navegando por la vida: el autodominio
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Navegando-por-la-vida-Autodominio.jpg" alt="Autodominio">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Navegando-por-la-vida-Autodominio.jpg" alt="Autodominio">
 </figure>
 
 Si un hombre conquistara,
@@ -175,7 +175,7 @@ el mayor de los conquistadores.
 Mar Alférez
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Mi-parrafo-favorito-Mar-Alferez.png" alt="Mi párrafo favorito-Mar Alférez">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Mi-parrafo-favorito-Mar-Alferez.png" alt="Mi párrafo favorito-Mar Alférez">
 </figure>
 
 > El Padre Universal ha decretado: «Sed perfectos, así como yo soy perfecto». [LU 26:4.12](/es/The_Urantia_Book/26#p4_12)
@@ -204,7 +204,7 @@ He escogido la imagen de una dehesa porque creo que representa bien cómo nos am
 ## Cuestionario urantiano – Mairam Durand
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Mairam-Durand.jpg" alt="Mairam Durand" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Mairam-Durand.jpg" alt="Mairam Durand" width="200">
 </figure>
 
 Mairam Durand es una lectora de Lima (Perú), que se considera buscadora de la Verdad desde siempre.
@@ -261,7 +261,7 @@ _El Libro de Urantia_ o los Documentos de Urantia son profundos, reflexivos y la
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/UBIS-En-el-foco.png" alt="UBIS En el foco">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/UBIS-En-el-foco.png" alt="UBIS En el foco">
 </figure>
 
 La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
@@ -282,7 +282,7 @@ Podéis ver el vídeo de la sesión anterior [en este enlace](https://www.youtub
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

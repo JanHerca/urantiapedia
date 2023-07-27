@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-1.jpg" alt="Editorial marzo 2023-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-1.jpg" alt="Editorial marzo 2023-1">
 </figure>
 
 ## Ser como niños
@@ -23,7 +23,7 @@ Un nuevo mes se inaugura, y con él la primavera se nos muestra una vez más, es
 Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir leyendo nuestro número de marzo de 2023. Os ofrecemos nuestra mano, tomadla y venid con nosotros a seguir explorando, imaginando, creciendo… en una aventura sin fin.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
 > … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». [LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
@@ -83,7 +83,7 @@ A menudo utilizaba el humor como una forma de aliviar la tensión y promover la 
 > Estaban todos sentados en el jardín hacia el mediodía cuando apareció el Maestro. Los doce habían adoptado una actitud de solemne dignidad, y todos se pusieron en pie cuando se les acercó. Jesús relajó la tensión con esa sonrisa amistosa y fraternal tan característica suya siempre que sus seguidores se tomaban a sí mismos o a algo relacionado con ellos demasiado en serio. [LU 157:4.3](/es/The_Urantia_Book/157#p4_3)
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-4.jpg" alt="Editorial marzo 2023-4">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-4.jpg" alt="Editorial marzo 2023-4">
 </figure>
 
 También descubrimos, con sorpresa, que existen seres celestiales como las ángeles de la diversión que se interesan por nuestro humor y trabajan para mejorarlo:
@@ -101,7 +101,7 @@ Miremos la fragilidad de los niños y niñas para darnos cuenta de que todos ten
 ¿Y eso en qué consiste? En ver el bien en el mundo y permanecer lo más posible en esa mirada. En trabajar con la disposición del juego. En escuchar sin perder el asombro. En volver al cuerpo, que es lo primordial. En contactar con la naturaleza y los animales.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-3.jpg" alt="Editorial marzo 2023-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-3.jpg" alt="Editorial marzo 2023-3">
 </figure>
 
 Los más pequeños son nuestros maestros a la hora de poder encontrar equilibrio en la vida:

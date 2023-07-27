@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Luis Coll<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_06/La-calidad-de-una-sociedad-FOTO" alt="Editorial junio 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/La-calidad-de-una-sociedad-FOTO" alt="Editorial junio 2021" width="250">
 </figure>
 
 El estado del mundo es patético y lamentable, pero todas las cosas tienen sus causas y efectos. Las malas acciones del mundo y las personas en general traen sus consecuencias y eso lo vemos claramente en guerras, corrupción política, desigualdades económicas tremendas, nacionalismos corruptos, ceguera política… y todas estas cosas se basan en el egoísmo y los intereses propios.

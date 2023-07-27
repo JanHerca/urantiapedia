@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1">
 </figure>
 
 ## La transformación en Dios
@@ -61,7 +61,7 @@ La conexión con la divinidad es totalmente necesaria, pues si no, la actividad 
 > Mientras Marta se atareaba en todos esos supuestos deberes le molestaba que María no hiciera nada por ayudarla, por eso se dirigió hacia Jesús y le dijo: «Maestro, ¿no te importa que mi hermana me deje servir sola? ¿No le pedirás que me ayude?». Jesús contestó: «Marta, Marta, ¿por qué estás siempre inquieta por tantas cosas y preocupada por tantas pequeñeces? Solo hay una cosa que vale realmente la pena, y puesto que María ha elegido esa parte buena y necesaria, no se la quitaré. Pero, ¿cuándo aprenderéis las dos a vivir como os he enseñado, cooperando en el trabajo y refrescando vuestras almas al unísono? ¿No podéis aprender que hay un tiempo para cada cosa, que los asuntos menores de la vida deberían dejar paso a las cosas más grandes del reino celestial?» [LU 162:8.3](/es/The_Urantia_Book/162#p8_3)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-2.jpg" alt="Editorial mayo 22 - 2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-2.jpg" alt="Editorial mayo 22 - 2">
 </figure>
 
 El mismo Jesús nos dice que tanto **la acción como la meditación** son necesarias, pero tienen su momento, deberíamos saber qué es lo que corresponde hacer aquí y ahora. En ese momento de encuentro de Jesús en Betania con los queridos tres hermanos, tocaba el encuentro amable, la paz y la conexión espiritual. Ya habría lugar para las demás actividades que conllevaba la hospitalidad judía. Habría momentos para la cooperación en el trabajo y momentos para refrescar las almas.

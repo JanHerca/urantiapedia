@@ -35,7 +35,7 @@ Luz y Vida — junio 2022
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1" width="350">
 </figure>
 
 «Cuenta una vieja historia que en un pequeño pueblo se desató una tormenta tal que el río se desbordó y lo inundó todo por completo. Los habitantes escapaban como podían, pero el sacerdote, que siempre había sido un hombre de gran fe, permanecía en la entrada de la parroquia rezando a Dios para que lo sacase de allí.»
@@ -68,7 +68,7 @@ M. José Sánchez Santamaría
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas" width="250">
 </figure>
 
 [**Técnicas transformativas (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
@@ -79,7 +79,7 @@ Este trabajo es en realidad un resumen de uno de los apéndices de la obra de Wi
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Libertad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Libertad.png" alt="Libertad" width="250">
 </figure>
 
 [**Libertad (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
@@ -90,7 +90,7 @@ En este breve artículo, que el autor define como un himno a la libertad, se ana
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Pangea.png" alt="Pangea" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Pangea.png" alt="Pangea" width="250">
 <figcaption><em>User:Kieff – File:Pangaea continents.png, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=8161694">Wikimedia</a></em></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ En otro de los trabajos de Halbert Katzen dedicados a comparar las afirmaciones 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Jesus-y-las-mujeres.jpg" alt="Jesús y las mujeres" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Jesus-y-las-mujeres.jpg" alt="Jesús y las mujeres" width="250">
 </figure>
 
 [**Jesús y las mujeres (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/Jes%C3%BAs-y-las-mujeres.pdf)
@@ -113,7 +113,7 @@ En palabras de la autora: «A la luz de las enseñanzas de _El Libro de Urantia_
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Cronica-de-la-vida-de-Jesus-Michael-Dudash-Follow-Me-525.jpg" alt="Crónica de la vida de Jesús - Doc 134" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Cronica-de-la-vida-de-Jesus-Michael-Dudash-Follow-Me-525.jpg" alt="Crónica de la vida de Jesús - Doc 134" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -126,7 +126,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: nacimiento de Jesús
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Guia-del-LU-para-ninos-El-nacimiento-de-Jesus.png" alt="El nacimiento de Jesús" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Guia-del-LU-para-ninos-El-nacimiento-de-Jesus.png" alt="El nacimiento de Jesús" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado al nacimiento de Jesús, y comienza así:
@@ -139,7 +139,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/porquesoycristiano.jpg" alt="Por qué soy cristiano" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/porquesoycristiano.jpg" alt="Por qué soy cristiano" width="130">
 </figure>
 
 Por qué soy cristiano (José Antonio Marina)
@@ -152,7 +152,7 @@ El autor explora la caudalosa corriente de la experiencia cristiana, que tiene s
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/La-compasion-en-un-mundo-injusto.jpg" alt="La compasión en un mundo injusto" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/La-compasion-en-un-mundo-injusto.jpg" alt="La compasión en un mundo injusto" width="130">
 </figure>
 
 La compasión en un mundo injusto (Juan José Tamayo)
@@ -163,7 +163,7 @@ En su uso normal, la palabra compasión suena a sentimentalismo alejado de la pr
 ## Vídeo – Nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/2030.jpg" alt="2030" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/2030.jpg" alt="2030" width="350">
 </figure>
 
 [2030](https://www.youtube.com/watch?v=BjHQiu8yHdo&ab_channel=EstudiosdelosEscritosdeUrantia) ([Estudios de los Escritos de Urantia](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ))
@@ -174,7 +174,7 @@ En este vídeo, el autor lleva a cabo una reflexión muy interesante acerca de l
 ## Navegando por la vida – Las tres rejas
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Navegando-por-la-vida-Las-tres-rejas.jpg" alt="Las tres rejas" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Navegando-por-la-vida-Las-tres-rejas.jpg" alt="Las tres rejas" width="250">
 </figure>
 
 El joven discípulo de un filósofo sabio llega a casa de este y le dice:
@@ -205,7 +205,7 @@ El joven discípulo de un filósofo sabio llega a casa de este y le dice:
 Juan José López Vallejos
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Mi-parrafo-favorito-jun-2022.jpg" alt="Mi párrafo favorito - junio 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Mi-parrafo-favorito-jun-2022.jpg" alt="Mi párrafo favorito - junio 2022">
 </figure>
 
 No podría afirmar que el texto incluido abajo sea mi preferido, pues hay muchos otros que resuenan particularmente según mi ánimo en diversas circunstancias. Pero una fuerte tendencia a la racionalización, que me lleva a pasar por el filtro de la mente todo aquello que me concierne de modo especial, pone en evidencia mis limitaciones en lo que respecta a la fe.
@@ -222,7 +222,7 @@ Pero no creo que esto sea suficiente. Pretender explicar las eternas cuestiones 
 ## Cuestionario urantiano: Alberto Tapiz
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Alberto-Tapiz.jpg" alt="Alberto Tapiz" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Alberto-Tapiz.jpg" alt="Alberto Tapiz" width="200">
 </figure>
 
 Mi nombre es Alberto Tapiz Merino, resido en Miranda de Arga (Navarra). Soy ingeniero cartógrafo, soltero y sin hijos. Estoy leyendo _El Libro de Urantia_ desde hace 12 años.
@@ -241,7 +241,7 @@ Comencé la lectura por la parte de la historia y evolución del planeta Urantia
 ## III Encuentro Europeo de lectores de El Libro de Urantia
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Cartel-III-Encuentro-Europeo.png" alt="III Encuentro Europeo" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Cartel-III-Encuentro-Europeo.png" alt="III Encuentro Europeo" width="200">
 </figure>
 
 La [Asociación Urantia de España](http://www.urantia.es/), la [Asociación Urantia Internacional](http://urantia-association.org/) y el comité europeo de organización tienen a bien anunciar que se va a celebrar el ENCUENTRO EUROPEO **del 20 al 23 de octubre de 2022** en el Complejo Sol Torremolinos (Torremolinos, Costa del Sol, Málaga), un complejo hotelero de tres hoteles.
@@ -259,7 +259,7 @@ En [este enlace](https://aue.urantia-association.org/iii-encuentro-europeo-de-le
 ## III Simposio Científico de la Fundación Urantia
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/III-Simposio-Cientifico.jpg" alt="III Simposio Científico">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/III-Simposio-Cientifico.jpg" alt="III Simposio Científico">
 </figure>
 
 La Fundación Urantia celebrará del 16 al 18 de junio su III Simposio Científico, sobre el tema: **Ciencia: la interfaz entre evolución y revelación**. En esta ocasión, se retransmitirá en vivo por Internet, para ofrecer la posibilidad de seguir las presentaciones en directo.
@@ -289,7 +289,7 @@ Enlace para preinscribirse: [https://docs.google.com/forms/d/14UtKc3jHd9HyvtuGvE
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

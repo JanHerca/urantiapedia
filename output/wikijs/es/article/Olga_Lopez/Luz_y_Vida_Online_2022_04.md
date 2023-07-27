@@ -36,7 +36,7 @@ Luz y Vida — abril 2021
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-1.jpg" alt="Editorial abril 2022-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-1.jpg" alt="Editorial abril 2022-1" width="350">
 </figure>
 
 Comencemos contando una antigua historia:
@@ -59,7 +59,7 @@ _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aque
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
 </figure>
 
 [**Repaso a la organización general del universo (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
@@ -70,7 +70,7 @@ Este trabajo, como su nombre indica, es un breve repaso a la organización del u
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/La-familia-del-universo-local.jpg" alt="La familia del universo local" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/La-familia-del-universo-local.jpg" alt="La familia del universo local" width="250">
 </figure>
 
 [**La familia del universo local (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Familia-del-Universo-Local.pdf)
@@ -81,7 +81,7 @@ Este trabajo consiste en un diagrama con los diferentes seres que pueblan el uni
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña" width="250">
 </figure>
 
 [**Primera migración a Bretaña (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
@@ -92,7 +92,7 @@ En este artículo aparece uno de los ejemplos en los que la ciencia parece corro
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Maria-Magdalena.jpg" alt="María Magdalena" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Maria-Magdalena.jpg" alt="María Magdalena" width="250">
 </figure>
 
 [**María Magdalena (Javier Martínez)**](https://drive.google.com/open?id=19wdzJHc27bQJWSi3lzduiHssIzCnzSpm)
@@ -103,7 +103,7 @@ Aquí tenemos la presentación que dio su autor el año 2019 sobre esta figura f
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Slawa_Radziszewska_Jesus_Meets_Tiberius_525.jpg" alt="Crónica de la vida de Jesús - Doc 132" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Slawa_Radziszewska_Jesus_Meets_Tiberius_525.jpg" alt="Crónica de la vida de Jesús - Doc 132" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -116,7 +116,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Miguel de Nebadon
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús de Nazaret" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Vida-y-ensenanza-de-Jesus.jpg" alt="Jesús de Nazaret" width="250">
 </figure>
 
 Este es el siguiente capítulo, dedicado nuestro Hijo Creador, Miguel de Nebadon, y comienza así:
@@ -129,7 +129,7 @@ Este es el siguiente capítulo, dedicado nuestro Hijo Creador, Miguel de Nebadon
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/ELVE.jpg" alt="El largo viaje a Edén" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/ELVE.jpg" alt="El largo viaje a Edén" width="130">
 </figure>
 
 El largo viaje a Edén (Olga López)
@@ -144,7 +144,7 @@ Aquellos que han leído _El Libro de Urantia_ podrán apreciar muchos detalles y
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-Principe-Planetario.jpg" alt="El Príncipe Planetario" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/El-Principe-Planetario.jpg" alt="El Príncipe Planetario" width="130">
 </figure>
 
 El Príncipe Planetario y Van el Inquebrantable (Rick Warren)
@@ -159,7 +159,7 @@ Pero hubo héroes humanos y superhumanos que mantuvieron la luz de la verdad y r
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/CuartoCamino.jpg" alt="El cuarto camino" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/CuartoCamino.jpg" alt="El cuarto camino" width="130">
 </figure>
 
 El cuarto camino (P.D. Ouspensky)
@@ -174,7 +174,7 @@ P.D. Ouspensky fue alumno del conocido maestro místico George Ivanovich Gurjief
 ---
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-arte-de-bendecir.jpg" alt="El arte de bendecir" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/El-arte-de-bendecir.jpg" alt="El arte de bendecir" width="130">
 </figure>
 
 El arte de bendecir (Pierre Pradervand)
@@ -191,7 +191,7 @@ Partiendo de una experiencia espiritual personal, el autor subraya la existencia
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Video-No-temamos-al-Armagedon-nuclear.jpg" alt="No temamos al Armagedon nuclear">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Video-No-temamos-al-Armagedon-nuclear.jpg" alt="No temamos al Armagedon nuclear">
 </figure>
 
 [No temamos al Armagedón nuclear](https://www.youtube.com/watch?v=w_nD01ArlEw&list=WL&index=10) (Estudios de los Escritos de Urantia)
@@ -202,7 +202,7 @@ Justamente estos días que estamos con el corazón encogido debido a la guerra e
 ## Navegando por la vida – Los niveles evolutivos de las emociones
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Los-niveles-evolutivos-de-las-emociones.jpg" alt="Los niveles evolutivos de las emociones">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Los-niveles-evolutivos-de-las-emociones.jpg" alt="Los niveles evolutivos de las emociones">
 </figure>
 
 De la misma manera que todos vamos aprendiendo y evolucionando en nuestra vida, también lo podemos hacer en la vivencia de nuestro mundo emocional.
@@ -225,7 +225,7 @@ Este es el primer nivel, es decir, un punto evolutivo de nuestro camino de vida,
 Olga López
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/El-Padre-Nuestro-y-sus-cambios-nada-inocentes.jpg" alt="El Padre Nuestro y sus cambios">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/El-Padre-Nuestro-y-sus-cambios-nada-inocentes.jpg" alt="El Padre Nuestro y sus cambios">
 </figure>
 
 En un blog que visito de vez en cuando hay una entrada muy interesante acerca de las palabras del Padre Nuestro y sus cambios, que me ha hecho pensar en que estos cambios nunca son inocentes y obedecen a un propósito.
@@ -297,7 +297,7 @@ Espero que el mundo (todo el mundo, no solo unos cuantos como ahora) conozcan la
 Jordi Prat
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="Mi párrafo favorito-Jordi Prat">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="Mi párrafo favorito-Jordi Prat">
 </figure>
 
 _Las transcripciones de la mente del mortal y los patrones activos de la memoria de la criatura, transformados de los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento que se ha desligado. Esos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador. La matriz-mente de la criatura y sus potenciales pasivos de identidad están presentes en el alma de morontia confiada al cuidado de las guardianas seráficas del destino. Y es la reunión del alma-morontia confiada a las serafines y la mente-espíritu confiada al Ajustador lo que reensambla la personalidad de la criatura y supone la resurrección de un superviviente durmiente_. [LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
@@ -312,7 +312,7 @@ En resumen: lo que es de Dios va con el Padre: el Ajustador y la personalidad. L
 ## Cuestionario urantiano: Esteban Cotán
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Esteban-Cotan.png" alt="Esteban Cotán" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Esteban-Cotan.png" alt="Esteban Cotán" width="200">
 </figure>
 
 Esteban Cotán vive en Olivares (Sevilla). Está jubilado, trabajó en la hostelería y de corredor de seguros. Es viudo y ha tenido cuatro hijos y diez nietos.
@@ -331,7 +331,7 @@ Cuando comencé a leerlo dije para mí: creo haber encontrado lo que toda mi vid
 ## Charlas urantianas del mes de abril
 
 <figure id="Figure_17" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Charla-urantiana-01-04-22.jpg" alt="Charlas urantianas abril 2022" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Charla-urantiana-01-04-22.jpg" alt="Charlas urantianas abril 2022" width="250">
 </figure>
 
 Nos complace invitaros a nuestra próxima charla urantiana sobre el tema: «**¿Dios ha muerto? El secularismo**».
@@ -348,7 +348,7 @@ La siguiente charla urantiana se celebrará el **viernes 22 de abril**.
 ## Nuevos cursos de la UBIS – trimestre de abril
 
 <figure id="Figure_18" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/estudioLU-abr21.jpg" alt="Estudio LU">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/estudioLU-abr21.jpg" alt="Estudio LU">
 </figure>
 
 El **lunes 18 de abril** comienza la inscripción a los cursos del trimestre de abril de la UBIS, que ofrece cinco cursos en español (uno de ellos en formato grupo de estudio). ¡Date prisa, que las plazas son limitadas y los cursos se llenan muy pronto!
@@ -363,7 +363,7 @@ Aquí está la lista de cursos que se darán en abril: [https://www.urantia.org/
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_19" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

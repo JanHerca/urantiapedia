@@ -34,7 +34,7 @@ Luz y Vida — enero 2022
 María José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Editorial-enero-22.jpg" alt="Editorial enero 2022" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Editorial-enero-22.jpg" alt="Editorial enero 2022" width="250">
 </figure>
 
 Existe una hermosa leyenda de origen medieval que recoge la historia sobre un teólogo, más tarde identificado con san Agustín, que narra la siguiente anécdota:
@@ -55,7 +55,7 @@ Este problema, tratar de comprender con nuestra pequeña mente mortal el misteri
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-origen-del-principio.jpg" alt="El origen del principio" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/El-origen-del-principio.jpg" alt="El origen del principio" width="250">
 </figure>
 
 [**El origen del principio (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Origen-Principio.ppt)
@@ -66,7 +66,7 @@ En esta presentación de PowerPoint, el autor de este trabajo secundario ofrece 
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Nuestras-deidades-creativas.jpg" alt="Nuestras Deidades creativas" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Nuestras-deidades-creativas.jpg" alt="Nuestras Deidades creativas" width="250">
 </figure>
 
 [**Nuestras Deidades creativas, una relación suprema (Linda Buselli)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/NuestrasDeidadesCreativas.pdf)
@@ -77,7 +77,7 @@ Este trabajo es la transcripción de una presentación que la autora hizo en una
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-religion.jpg" alt="La nueva religión" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-religion.jpg" alt="La nueva religión" width="250">
 </figure>
 
 [**La nueva religión (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/05/LA-NUEVA-RELIGI%C3%93N-Presentaci%C3%B3n.pdf)
@@ -88,7 +88,7 @@ En esta presentación, la autora hace un repaso de los conceptos más importante
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-ciencia-no-puede-sustituir-a-la-religion.jpg" alt="Ciencia y religión" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/La-ciencia-no-puede-sustituir-a-la-religion.jpg" alt="Ciencia y religión" width="250">
 </figure>
 
 [**La ciencia no puede sustituir a la religión (Antti Roine)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Science_Spanish.pdf)
@@ -99,7 +99,7 @@ Este trabajo de Antti Roine, lector finlandés, expone de manera muy clara por q
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -113,7 +113,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Vida eterna
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Vida-eterna.jpg" alt="Vida eterna" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Vida-eterna.jpg" alt="Vida eterna" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, dedicado a la vida eterna, y comienza así:
@@ -127,7 +127,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/NVETS-Portada.jpg" alt="Nos vemos en tus sueños" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/NVETS-Portada.jpg" alt="Nos vemos en tus sueños" width="130">
 </figure>
 
 Nos vemos en tus sueños (Olga López)
@@ -140,7 +140,7 @@ En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dic
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Para-todos-mis-hermanos.jpg" alt="Para todos mis hermanos" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Para-todos-mis-hermanos.jpg" alt="Para todos mis hermanos" width="130">
 </figure>
 
 Para todos mis hermanos (Gonzalo Vilar)
@@ -153,7 +153,7 @@ Es de agradecer, y es también una señal de que el movimiento Urantia goza de b
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-caballero-de-la-armadura-oxidada.jpg" alt="El caballero de la armadura oxidada" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/El-caballero-de-la-armadura-oxidada.jpg" alt="El caballero de la armadura oxidada" width="130">
 </figure>
 
 El caballero de la armadura oxidada (Robert Fisher)
@@ -164,7 +164,7 @@ Esta novela (o más bien deberíamos decir cuento) narra la historia de un cabal
 ---
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-psicologia-del-amor.jpg" alt="Nueva psicología" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/La-nueva-psicologia-del-amor.jpg" alt="Nueva psicología" width="130">
 </figure>
 
 La nueva psicología del amor (M. Scott Peck)
@@ -177,7 +177,7 @@ Este libro es muy recomendable, pues nos hace pensar sobre cómo debemos amar a 
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Video-Es-real-la-evolucion.jpg" alt="Trinity of the Fallen">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Video-Es-real-la-evolucion.jpg" alt="Trinity of the Fallen">
 </figure>
 
 [¿Es real la evolución? (Estudios de los Escritos de Urantia)](https://www.youtube.com/watch?v=TU-KAkig7j4)
@@ -188,7 +188,7 @@ Este mes os recomendamos otro de los vídeos del canal [Estudios de los Escritos
 ## Navegando por la vida – Danzar y sanar siempre
 
 <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Navegando-por-la-vida-Danzar-y-sanar.jpg" alt="Danzar y sanar">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Navegando-por-la-vida-Danzar-y-sanar.jpg" alt="Danzar y sanar">
 </figure>
 
 Un joven de la tribu llega hasta el anciano y le dice:
@@ -237,7 +237,7 @@ Libérense del prejuicio, de la opinión de los demás, de fijarse en los demás
 M. Helena Bañas
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Mi-parrafo-favorito-ene-22.jpg" alt="Mi párrafo favorito - ene 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Mi-parrafo-favorito-ene-22.jpg" alt="Mi párrafo favorito - ene 2022">
 </figure>
 
 > «… La inmortalidad es la meta de la sinceridad; … Los sinceros no mueren».[LU 131:3.7](/es/The_Urantia_Book/131#p3_7) 
@@ -260,7 +260,7 @@ De ahí también que Jesús _«mucho valoraba la sinceridad —un corazón puro�
 ## Cuestionario urantiano: Gloria Andreu
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/Gloria-Santos.jpg" alt="Gloria Andreu" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Gloria-Santos.jpg" alt="Gloria Andreu" width="200">
 </figure>
 
 Gloria Andreu de los Santos nació en Sevilla y reside en Castilleja de la Cuesta (Sevilla). Ha trabajado como administrativa en la empresa privada y actualmente está jubilada. Es madre de dos hijos, chico y chica, de 36 y 34 años. Es lectora de _El Libro de Urantia_ desde los años 80.
@@ -279,7 +279,7 @@ Mi primera impresión fue que algo en mi interior me decía que lo que estaba es
 ## Ya está aquí la nueva revisión de la traducción al español de El Libro de Urantia
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_01/El-Libro-de-Urantia-Revised-478x700-1.jpg" alt="El LU - edición internacional" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/El-Libro-de-Urantia-Revised-478x700-1.jpg" alt="El LU - edición internacional" width="130">
 </figure>
 
 Desde el pasado 16 de diciembre, ya está disponible en formato electrónico el texto de la nueva revisión de la traducción al español de _El Libro de Urantia_.
@@ -294,7 +294,7 @@ Ahora que comienza un nuevo año, ¿qué mejor que empezar la lectura de _El Lib
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

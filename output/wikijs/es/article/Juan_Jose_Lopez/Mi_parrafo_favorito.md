@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Juan José López Vallejos<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_06/Mi-parrafo-favorito-jun-2022.jpg" alt="Mi párrafo favorito - junio 2022">
+<img src="/image/article/Luz_y_Vida/LyV_2022_06/Mi-parrafo-favorito-jun-2022.jpg" alt="Mi párrafo favorito - junio 2022">
 </figure>
 
 No podría afirmar que el texto incluido abajo sea mi preferido, pues hay muchos otros que resuenan particularmente según mi ánimo en diversas circunstancias. Pero una fuerte tendencia a la racionalización, que me lleva a pasar por el filtro de la mente todo aquello que me concierne de modo especial, pone en evidencia mis limitaciones en lo que respecta a la fe.

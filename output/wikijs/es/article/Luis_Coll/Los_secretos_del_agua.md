@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Luis Coll<br>© 2021 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_12/Masaru-emoto-agua.jpg" alt="Los secretos del agua">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Masaru-emoto-agua.jpg" alt="Los secretos del agua">
 </figure>
 
 El agua tiene sus secretos.

@@ -33,7 +33,7 @@ Luz y Vida — septiembre 2021
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Foto-editorial-septiembre.jpg" alt="Editorial septiembre 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Foto-editorial-septiembre.jpg" alt="Editorial septiembre 2021" width="250">
 </figure>
 
 Aprender y crecer como los niños
@@ -102,7 +102,7 @@ Ahora, en este momento, y cada día de nuestra existencia, comienza el juego del
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Arquitectos-UM.jpg" alt="Arquitectos del Universo Maestro" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Arquitectos-UM.jpg" alt="Arquitectos del Universo Maestro" width="250">
 </figure>
 
 [**Los Arquitectos del Universo Maestro (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
@@ -113,7 +113,7 @@ Este trabajo toma como puntos de partida otros trabajos secundarios del autor (r
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravedad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravedad" width="250">
 </figure>
 
 [**La gravedad, Newton, Einstein y el LU (autor desconocido)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
@@ -124,7 +124,7 @@ En este trabajo, el autor reflexiona sobre el hecho de que los reveladores parec
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Gobekli-Tepe.jpg" alt="Gobekli Tepe" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Gobekli-Tepe.jpg" alt="Gobekli Tepe" width="250">
 </figure>
 
 [**Gobekli Tepe (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/04/Gobekli-Tepe.pdf)
@@ -135,7 +135,7 @@ En este interesantísimo trabajo que hará las delicias de los lectores aficiona
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/El-arte-de-vivir.jpg" alt="El arte de vivir" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/El-arte-de-vivir.jpg" alt="El arte de vivir" width="250">
 </figure>
 
 [**El arte de vivir (Hubert Gallet)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-arte-de-vivir.pdf)
@@ -146,7 +146,7 @@ En palabras de su autor, un lector canadiense, «Jesús no vino a la tierra para
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Cronicas-documento-125.jpg" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Cronicas-documento-125.jpg" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -159,7 +159,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/DCS.jpg" alt="DCS" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/DCS.jpg" alt="DCS" width="130">
 </figure>
 
 **Diálogos con Sofía (Olga López)**
@@ -172,7 +172,7 @@ En palabras de su autora, «este libro surgió a raíz de plantearme cómo darí
 ---
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Isla-Kietud-Paula-Requejo-web.jpg" alt="Isla Kietud" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Isla-Kietud-Paula-Requejo-web.jpg" alt="Isla Kietud" width="130">
 </figure>
 
 **Isla Kietud (Paula Requejo)**
@@ -185,7 +185,7 @@ Según dice su autora, «Isla Kietud nació cuando la autora buscaba respuesta, 
 ## Blog recomendado: Confirmando El Libro de Urantia
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Confirmando-El-libro-de-Urantia-blog.jpg" alt="Confirmando el LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Confirmando-El-libro-de-Urantia-blog.jpg" alt="Confirmando el LU">
 </figure>
 
 [https://confirmandoellibrodeurantia.blogspot.com](https://confirmandoellibrodeurantia.blogspot.com/)
@@ -195,7 +195,7 @@ En este blog de Christian Figueroa, lector de Puerto Rico y colaborador de Radio
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Las-naves-seraficas-video.jpg" alt="Las naves seráficas">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Las-naves-seraficas-video.jpg" alt="Las naves seráficas">
 </figure>
 
 [Las naves seráficas](https://www.youtube.com/user/UFOwga/videos)
@@ -205,7 +205,7 @@ En este vídeo del canal [Estudio de los Escritos de Urantia](https://www.youtub
 ## Navegando por la vida – Dios es de azúcar
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Navegando-por-la-vida-sep21.jpg" alt="Dios es de azúcar" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Navegando-por-la-vida-sep21.jpg" alt="Dios es de azúcar" width="250">
 </figure>
 
 Dios es de azúcar (anónimo)
@@ -240,7 +240,7 @@ Tenla siempre a mano, y que nunca te falte ese buen azúcar que es Dios.
 Olga López
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/Mi-parrafo-favorito-sep21.jpg" alt="Mi párrafo favorito - sep 21">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Mi-parrafo-favorito-sep21.jpg" alt="Mi párrafo favorito - sep 21">
 </figure>
 
 
@@ -256,7 +256,7 @@ Estas palabras nos animan a no perder la fe, a vivir la vida plenamente convenci
 ## Cuestionario urantiano: Jorge Nagore
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/JORGE-NAGORE.jpg" alt="Jorge Nagore" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/JORGE-NAGORE.jpg" alt="Jorge Nagore" width="200">
 </figure>
 
 Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nietos. Ejerce de jubilado activo después de 35 años dedicados al periodismo. Estudió con los Jesuitas y en la universidad del Opus Dei. Siempre ha vivido en Pamplona, España, la ciudad de los encierros de toros, y ahí sigue. Tras una «experiencia cercana a la muerte», fruto de un accidente de tráfico a los 17 años, surgió en él un empujón hacia la búsqueda de mí mismo y la relación con la existencia superior.
@@ -274,7 +274,7 @@ Pienso que lo encontré porque seguramente me estaba esperando, posiblemente por
 ## Se reanudan los cursos en la Escuela de El Libro de Urantia en Internet (UBIS)
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_09/UBIS-septiembre-2021.jpg" alt="UBIS - Septiembre 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/UBIS-septiembre-2021.jpg" alt="UBIS - Septiembre 2021">
 </figure>
 
 El mes de septiembre se reanudan los cursos en la [Escuela de _El Libro de Urantia_ en Internet](http://ubis.urantia.org/). La escuela ofrece cinco cursos en español, de los cuales tres se impartirán por primera vez. Los cursos son de diez semanas de duración, excepto los que constan como cursos reducidos, que duran seis semanas.
@@ -287,7 +287,7 @@ Muchos cursos se completan los primeros días, ¡así que inscribíos lo antes p
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

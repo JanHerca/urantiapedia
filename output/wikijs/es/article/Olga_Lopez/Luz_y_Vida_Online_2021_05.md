@@ -32,7 +32,7 @@ Luz y Vida — mayo 2021
 María José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/ViaLactea-abr21.jpg" alt="Editorial - mayo 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/ViaLactea-abr21.jpg" alt="Editorial - mayo 2021" width="250">
 </figure>
 
 Llegamos al mes de MAYO con un extraordinario y valioso equipaje en nuestras manos.
@@ -68,7 +68,7 @@ Bienvenidos/as pues a la aventura asombrosa y eterna que se abre con la lectura 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/Lamateriaylaenergia.jpg" alt="La materia y la energía" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Lamateriaylaenergia.jpg" alt="La materia y la energía" width="250">
 </figure>
 
 [La materia y la energía. La física y _El Libro de Urantia_ (Carmelo Martínez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-materia-y-la-energ%C3%ADa.-La-f%C3%ADsica-y-El-libro-de-Urantia.pdf)
@@ -81,7 +81,7 @@ En este extenso trabajo, Carmelo Martínez (ya graduado de este mundo) trata sob
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/Indemostrabilidad-de-la-existencia-de-Dios.jpg" alt="Indemostrabilidad de la existencia de Dios" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Indemostrabilidad-de-la-existencia-de-Dios.jpg" alt="Indemostrabilidad de la existencia de Dios" width="250">
 </figure>
 
 [Indemostrabilidad de la existencia de Dios (Santiago Rodríguez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Indemostrabilidad.pdf)
@@ -92,7 +92,7 @@ En este extenso trabajo, Carmelo Martínez (ya graduado de este mundo) trata sob
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/ElescribadeDamasco.jpg" alt="El escriba de Damasco" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/ElescribadeDamasco.jpg" alt="El escriba de Damasco" width="250">
 </figure>
 
 [El escriba de Damasco (Demetrio Gómez)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-ESCRIBA-DE-DAMASCO.pdf)
@@ -105,7 +105,7 @@ En este trabajo, que se expuso en uno de los Encuentros nacionales de la Asociac
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/Elfuturodenuestroplaneta.jpg" alt="El futuro de nuestro planeta" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Elfuturodenuestroplaneta.jpg" alt="El futuro de nuestro planeta" width="250">
 </figure>
 
 [El futuro de nuestro planeta (Javier Martínez)](https://drive.google.com/open?id=1Jzywq0r7btQ5gxgTiATyH7P2QApyywI9)
@@ -118,7 +118,7 @@ En este trabajo (que es el texto de base para una presentación dada en sala vir
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/CronicasdelavidadeJesus-mayo21.jpg" alt="Crónicas de la vida de Jesús - mayo 21" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/CronicasdelavidadeJesus-mayo21.jpg" alt="Crónicas de la vida de Jesús - mayo 21" width="250">
 </figure>
 
 Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que en esta ocasión contiene lo que nos cuentan los reveladores en el documento 122. Dentro del PDF veréis un botón desde donde acceder al texto del documento desde el sitio web de la Fundación Urantia.
@@ -129,7 +129,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/Levoileseleve.jpg" alt="Caen los velos" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Levoileseleve.jpg" alt="Caen los velos" width="130">
 </figure>
 
 Caen los velos (Joseph Servant)
@@ -142,7 +142,7 @@ _Caen los velos_ es la traducción al español de la novela del lector francés
 ---
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/CirculosVerdad.jpg" alt="Los círculos de la Verdad" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/CirculosVerdad.jpg" alt="Los círculos de la Verdad" width="130">
 </figure>
 
 Los círculos de la Verdad (Cristian Liur)
@@ -155,7 +155,7 @@ Los círculos de la verdad es la primera y de momento única novela de Cristian 
 ## Blog recomendado: Estudio de los Escritos de Urantia, de Jael González
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/EstudiosdelasEscrituras.jpg" alt="Estudios de los Escritos de Urantia">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/EstudiosdelasEscrituras.jpg" alt="Estudios de los Escritos de Urantia">
 </figure>
 
 Este blog de Jael González, lector de muchos años residente en Argentina, ayuda mucho a aclarar ciertos temas de _El Libro de Urantia_, en especial aquellos que tienen que ver con la historia antigua de nuestro planeta y con temas científicos. Es muy interesante además pues compara el saber actual con las enseñanzas del libro, de manera que el lector puede ver cómo poco a poco las afirmaciones del libro se van viendo confirmadas por los descubrimientos científicos recientes.
@@ -169,7 +169,7 @@ En las últimas semanas muchos de sus trabajos se están pasando a vídeos de Yo
 ### La religión del Espíritu con Ginés Avilés
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/La-religion-del-espiritu.jpg" alt="La religión del Espíritu">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/La-religion-del-espiritu.jpg" alt="La religión del Espíritu">
 </figure>
 
 En [este vídeo](https://www.youtube.com/watch?v=aQxRJcHeXlY&t=56s) del canal [Mundo Azul](https://www.youtube.com/channel/UCER3u8u-4jR6u-j1U69qSpg) hay una interesante entrevista/diálogo con Ginés Avilés, el presidente de la Asociación Urantia de España, a propósito de la religión del espíritu y de su importancia a la hora de aplicar las enseñanzas de _El Libro de Urantia_ en nuestra vida cotidiana.
@@ -177,7 +177,7 @@ En [este vídeo](https://www.youtube.com/watch?v=aQxRJcHeXlY&t=56s) del canal [M
 ## Conferencia virtual de la Asociación Urantia Internacional – 24 y 25 de abril
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/ConferenciaPeru2021.jpg" alt="Conferencia AUI Perú 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/ConferenciaPeru2021.jpg" alt="Conferencia AUI Perú 2021">
 </figure>
 
 El pasado fin de semana del 24 y el 25 de abril tuvo lugar la primera conferencia de la Asociación Urantia Internacional de carácter virtual, a la que se inscribieron más de 1.900 personas de todos los continentes. El evento se transmitió en cuatro idiomas (inglés, español, portugués y francés) y estuvo dividido en dos partes: en la primera se dieron las charlas plenarias y en las dos últimas horas se ofrecieron talleres simultáneos.
@@ -193,7 +193,7 @@ Nuestra felicitación al equipo organizador de la Asociación Urantia Perú por 
 ## Cuestionario urantiano: Ana María García
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/Ana-Maria-Garcia.jpg" alt="Ana María García" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Ana-Maria-Garcia.jpg" alt="Ana María García" width="200">
 </figure>
 
 Ana María García Simón, natural de Estepona (Málaga), de profesión, auxiliar administrativa en una administración pública desde hace ahora 28 años. Madre de dos hijas de un primer matrimonio y desde hace muy poco lamentablemente viuda de mi segundo marido con el cual tuve la experiencia de compartir las enseñanzas de _El Libro de Urantia_. Soy la tesorera de la Asociación Urantia de España.
@@ -212,7 +212,7 @@ Hubo partes del libro que llegaron a impactarme y aún hoy me causa esa sensaci�
 ## Charlas urantianas del mes de mayo
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_05/Charlas-urantianas-mayo-21.jpg" alt="Charlas urantianas mayo 21" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Charlas-urantianas-mayo-21.jpg" alt="Charlas urantianas mayo 21" width="200">
 </figure>
 
 La Asociación está organizando unas charlas urantianas para que todos los que lo deseen puedan unirse y tratar sobre los temas que les interesen. La idea es que los moderadores propongan un tema de salida, al que después podrán seguir otros a propuesta de los asistentes.
@@ -227,7 +227,7 @@ Las reuniones del mes de mayo serán los viernes **7 y 21 a las 19h** (hora peni
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

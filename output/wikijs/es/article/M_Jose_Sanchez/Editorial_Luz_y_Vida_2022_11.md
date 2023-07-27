@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ## Situados en nuestro centro
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-1.jpg" alt="Editorial nov 2022-1">
 </figure>
 
 Muchos en la escuela hemos aprendido a manejar el compás, ese curioso aparato que nos permite crear unos círculos perfectos. Si la aguja del compás está bien colocada, el otro polo del compás nos permite realizar unos dibujos hermosos y perfectos. Pero si la aguja no está bien colocada, el otro polo del compás hará dibujos deslavazados e imperfectos.
@@ -63,7 +63,7 @@ Veamos otro pasaje muy curioso y llamativo. Otro pasaje donde las emociones desb
 > Jesús bajó la mirada hacia el hombre agazapado como un animal a sus pies, se inclinó, lo tomó de la mano, lo levantó y le dijo: «Amós, no estás poseído por ningún demonio; ya has oído la buena nueva de que eres hijo de Dios. Te ordeno que salgas de esta crisis». Cuando Amós oyó a Jesús decir estas palabras, se produjo tal transformación en su intelecto que recobró inmediatamente el juicio y el control normal de sus emociones. [LU 151:6.2-5](/es/The_Urantia_Book/151#p6_2)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-2.jpg" alt="Editorial nov 2022-2">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-2.jpg" alt="Editorial nov 2022-2">
 </figure>
 
 En este pasaje del lunático de Queresa, su protagonista habita reveladoramente en un cementerio, lugar de muerte. Allí da voces, está desnudo, se autolesiona, está completamente fuera de sí. Ha perdido el control, está desbordado, desparramado. Se derrumba por dentro y pelea contra sus fantasmas.
@@ -89,7 +89,7 @@ Y donde abunda la enfermedad, el desbordamiento, es razonable preguntarse si es 
 > Jesús dijo a Amós: «No olvides que eres hijo de Dios. Vuelve con tu gente y muéstrales las grandes cosas que Dios ha hecho por ti». [LU 151:6.8](/es/The_Urantia_Book/151#p6_8)
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-3.jpg" alt="Editorial nov 2022-3">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-3.jpg" alt="Editorial nov 2022-3">
 </figure>
 
 Aquel Hombre que devolvió la sensatez en Queresa a un pobre lunático, ese Hombre existe. Ese Hombre está a nuestro lado, dispuesto a ayudarnos, ayudarnos a sacar nuestra mejor versión, a seguir su ejemplo de equilibrio mente-emoción en nuestras vidas cotidianas. A vivir como un hermoso compás, centrados en nuestro Ser.

@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2" width="250">
 </figure>
 
 Todos poseemos una herencia genética, una biología que nos acompaña desde nuestro nacimiento. En ella se encuentran disfrazados credos de los cuales se producen comportamientos desafortunados, por lo que muchos de ellos conllevan nuestros infortunios. A eso le tenemos que añadir la educación recibida y el entorno social en el que nos hemos desenvuelto. Todo ello ha hecho posible sembrar, a lo largo de nuestra vida, en un terreno donde la planta que ha brotado no ha dado los frutos idóneos que representan la felicidad, la coherencia, el altruismo, la responsabilidad, la humildad, la comprensión, la empatía, etc.

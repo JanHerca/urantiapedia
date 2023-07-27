@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ### La imagen de Dios
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-4.jpg" alt="Editorial ene 23-4">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-4.jpg" alt="Editorial ene 23-4">
 </figure>
 
 José entra en la casa, cansado de un día de trabajo en Séforis. Su saludo, como siempre, es lacónico. No es hombre de muchas palabras. María responde como de costumbre: una palabra de bienvenida, una pregunta sobre su jornada, y cuando él se ha acercado a la mesa de piedra, entonces un gesto que, en ese ambiente de risas y parloteos infantiles, establece entre ellos una corriente de complicidad: una mano que se apoya en el hombro, una palmada cariñosa en la cabeza, un trapo de agua fría con el que se refresca y limpia el polvo del camino acumulado en ese rostro aún joven, pero que empieza a mostrar los primeros surcos.
@@ -73,7 +73,7 @@ Qué importante es la imagen que tenemos de Dios, una imagen que muestra nuestra
 Y según cómo creamos lo que es Dios, viviremos la fe de una forma o de otra. No es lo mismo entender a un Dios que espera con brazos abiertos a justos e injustos, o imaginarlo con un martillo descomunal, dispuesto a fulminar al personal que se salga del guion. No es lo mismo hablar de un Dios del Amor que de un Dios de la Ley, de un Ser que nos ha originado y pensado de forma personal a creer que es un Ser impersonal y abstracto que se rige por leyes mecánicas.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-1.jpg" alt="Editorial ene 23-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-1.jpg" alt="Editorial ene 23-1">
 </figure>
 
 Los lectores de _El Libro de Urantia_ tenemos la gran suerte de poder leer decenas de documentos que describen cómo es Dios y cómo Jesús de Nazaret lo manifestó. Por ejemplo, conocemos que Jesús no renunció a sus raíces, sino que expandió y mejoró la imagen que tenían de la Divinidad sus contemporáneos:
@@ -87,7 +87,7 @@ Es más, Jesús se sentía totalmente unido a la Divinidad, al Padre o Fuente de
 Jesús, por tanto, nos da una imagen nueva de Dios. En Jesús se manifestó la imagen más plena de Dios, se mostró el auténtico ser humano. En su manera de hablar de Dios y en su manera de ser humano descubrimos el rostro humano de Dios. Dios y Hombre unidos.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-2.jpg" alt="Editorial ene 23-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-2.jpg" alt="Editorial ene 23-2">
 </figure>
 
 Nos sorprende y agrada conocer que Jesús, que Dios, no solo se mostró profundo en sus reflexiones y serio, sino también amoroso y sonriente. Juguetón con los más pequeños y analítico con los adultos.
@@ -99,7 +99,7 @@ A sus amigos les costaba comprender la variedad y amplitud de sus actividades in
 ¡¡Qué ser más maravilloso es este Dios que atisbamos en Jesús de Nazaret!! Un ser tan equilibrado que supo morir tan magníficamente como vivió, entero y con una sonrisa.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-3.jpg" alt="Editorial ene 23-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-3.jpg" alt="Editorial ene 23-3">
 </figure>
 
 Necesitamos tanto en estos tiempos que nuestra imagen de Dios no sea solo una noción teórica, un concepto, sino una manera real de sentir y vivir a Dios, de actuar y amar, al igual que Jesús lo sentía.

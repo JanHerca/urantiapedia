@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-1.jpg" alt="Editorial abr 23-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-1.jpg" alt="Editorial abr 23-1">
 </figure>
 
 Una vez más, queridos lectores y lectoras de este boletín, nos encontramos y reflexionamos juntos sobre _El Libro de Urantia_ y sus sorprendentes enseñanzas. Y una vez más nos acercamos a las celebraciones de la semana santa. Unos días de vacaciones, festivos, con diversas procesiones por España, oficios religiosos, etc. En el calendario solar judío ahora ya ha comenzado el hermoso mes de Nissán, el primero del año y, con él, la primavera. Los comienzos se exteriorizan y brotan, se van las brumas invernales… Es un momento estupendo para renovarnos por dentro.
@@ -41,7 +41,7 @@ El joven y pensativo Jesús de Nazaret, con su perspicacia, fue descubriendo tam
 También sabía Jesús que era imprescindible saber situarse en el punto justo, en la humildad de lo pequeños que somos (en este inmenso e inabarcable universo), pero también es cierto que podemos descubrir también las grandes posibilidades que se nos pueden abrir a continuación:
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-3.jpg" alt="Editorial abr 23-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-3.jpg" alt="Editorial abr 23-3">
 </figure>
 
 > Dichosos los pobres de espíritu, los humildes, porque de ellos son los tesoros del reino de los cielos. [LU 140:3.3](/es/The_Urantia_Book/140#p3_3)
@@ -49,7 +49,7 @@ También sabía Jesús que era imprescindible saber situarse en el punto justo, 
 El joven vividor volvió a casa por la experiencia de vacío, de saberse que era nada, por la que tuvo que pasar. Tuvo que pasar por la experiencia de disfrutar las vanidades del mundo, conocer los placeres de los sentidos, vivir en el exterior de tu cuerpo para ponerse en camino hacia el verdadero mundo. Tras un golpe de la vida, tras un vacío, tras sufrir y ver con humildad nuestros límites y sentir la soledad, las personas, entonces, queremos volver a Dios. Sin el vacío, nunca regresamos al encuentro de Dios, del Padre. Es lógico: a nadie le cuesta desprenderse de una menudencia cuando encuentra un tesoro.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-2.jpg" alt="Editorial abr 23-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-2.jpg" alt="Editorial abr 23-2">
 </figure>
 
 Pero esta preciosa historia del hijo pródigo tiene muchos matices. Las parábolas eran utilizadas por Jesús precisamente por eso, por ser tesoros de múltiples enseñanzas espirituales.
@@ -73,7 +73,7 @@ Al amor paternal le llena de alegría devolver bien por mal, responder a la inju
 Esta manera tan elevada de comportamiento nos sorprende, va a contracorriente de lo que observamos muchas veces, pero así es Dios; así es nuestro creador, Miguel.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-4.jpg" alt="Editorial abr 23-4">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-4.jpg" alt="Editorial abr 23-4">
 </figure>
 
 > Después de este encuentro, el hijo levantó los ojos hacia el rostro bañado en lágrimas de su padre y dijo: ‘Padre, he pecado contra el cielo y a tus ojos, ya no soy digno de ser llamado hijo tuyo…’, pero el muchacho no pudo terminar su confesión porque el padre rebosante de alegría dijo a los criados que habían llegado corriendo: ‘Traed enseguida su mejor túnica, la que yo guardé, y ponédsela, poned en su mano el anillo de hijo e id a buscar unas sandalias para sus pies’. [LU 169:1.9](/es/The_Urantia_Book/169#p1_9)

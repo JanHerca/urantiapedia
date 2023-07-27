@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Luis García Bory<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_10/Reflexiones-urantianas-LGB.jpg" alt="Reflexiones urantianas - LGB">
+<img src="/image/article/Luz_y_Vida/LyV_2022_10/Reflexiones-urantianas-LGB.jpg" alt="Reflexiones urantianas - LGB">
 </figure>
 
 Parece que sabemos mucho sobre el cuerpo humano, pero nuestro conocimiento actual y la experiencia documentada sobre el funcionamiento de nuestros circuitos mentales junto con el cerebro y el sistema nervioso (y los otros ocho sistemas corporales que tenemos) parecen estar en una fase muy temprana de desarrollo.

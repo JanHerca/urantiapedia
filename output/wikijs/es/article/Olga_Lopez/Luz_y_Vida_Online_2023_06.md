@@ -34,7 +34,7 @@ Luz y Vida — junio 2023
 M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1" width="350">
 </figure>
 
 **La alegría perfecta**
@@ -51,7 +51,7 @@ A veces se nos hace duro mantener el ritmo, ¿verdad? ¿Debemos evadir nuestras 
 La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra palpable de ese deseo divino de enaltecer la vida material, de afrontar lo que supone vivir en la materia, no huir de ella. La oración que elaboró en Nazaret para sus hermanos nos lo muestra:
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-2.jpg" alt="Editorial junio 2023-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-2.jpg" alt="Editorial junio 2023-2">
 </figure>
 
 > Padre nuestro que estás en los cielos,<br>
@@ -62,7 +62,7 @@ La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra
 Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno, con su partida física de nuestro planeta. Sus discípulos tenían la encomienda de seguir expandiendo esa elevación de la consciencia que era su mensaje, algo que «hará nuevo al viejo mundo».
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
 </figure>
 
 > «No solo me habéis elegido vosotros a mí sino que yo también os elegí a vosotros, y os he ordenado para que salgáis al mundo a servir a vuestros semejantes por amor igual que yo he vivido entre vosotros y os he revelado al Padre. El Padre y yo trabajaremos con vosotros y vosotros experimentaréis la plenitud divina de la alegría solo con que obedezcáis mi mandamiento de amaros los unos a los otros como yo os he amado.» [LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
@@ -89,7 +89,7 @@ Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su 
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Neutrinos-neutrones.jpg" alt="Árbol genealógico" width="250">
 </figure>
 
 [**Migraciones urantianas (M. José Gaete)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/MIGRACIONES-URANTIANAS.pdf)
@@ -100,7 +100,7 @@ Tal como explica su autora en la introducción: «Este trabajo trata sobre las m
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Ajustador" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Matrimonio-y-vida-familiar.jpg" alt="Ajustador" width="250">
 </figure>
 
 [**Matrimonio y vida familiar (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf)
@@ -111,7 +111,7 @@ La autora comienza con este párrafo del documento 84: «En los ideales del matr
 ---
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Jesús, inspiración y amigo" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Cronica-de-la-vida-de-Jesus-doc-129.jpg" alt="Jesús, inspiración y amigo" width="250">
 </figure>
 
 [**Jesús, inspiración y amigo (Ann Bendall)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Jesus-Inspiracion-y-amigo.pdf)
@@ -122,7 +122,7 @@ En este breve artículo, la autora realiza un rápido repaso por la gran varieda
 ---
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/ab338b23-7c06-4afd-8d98-db3f50d04138.jpg" alt="Amigos y residentes" width="250">
 </figure>
 
 [**La vida, la muerte y la eternidad (Maurice Migneault)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/vida-muerte-eternidad.pdf)
@@ -135,7 +135,7 @@ Como dice su autor al inicio: «Este texto está dirigido a personas que no cono
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Documento-145.jpg" alt="Documento 145" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Documento-145.jpg" alt="Documento 145" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -148,7 +148,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Jesús en Jerusalén
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Jesus-en-Jerusalen.jpg" alt="Jesús en Jerusalén" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Jesus-en-Jerusalen.jpg" alt="Jesús en Jerusalén" width="250">
 </figure>
 
 Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el siguiente capítulo, que trata sobre la estancia de Jesús en Jerusalén por primera vez en su vida, y comienza así:
@@ -161,7 +161,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Un-camino-a-la-libertad.jpg" alt="Un camino a la libertad" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Un-camino-a-la-libertad.jpg" alt="Un camino a la libertad" width="130">
 </figure>
 
 Un camino a la libertad (Víctor Creixell)
@@ -174,7 +174,7 @@ Víctor Creixell es el sobrenombre de F. Javier L.M. Durante casi treinta años 
 ### Reflexiones sobre la paz en Urantia, de Jaime Marco ([Espacio «Luz y Vida» de Radio Urantia](https://www.ivoox.com/podcast-luz-vida_sq_f11070301_1.html))
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Paz.png" alt="Reflexiones sobre la paz en Urantia" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Paz.png" alt="Reflexiones sobre la paz en Urantia" width="250">
 </figure>
 
 En esta ocasión, os recomendamos una de las entregas del espacio «Luz y Vida» de Radio Urantia, de diez minutos de duración, en el que se incluyen los comentarios de Jaime Marco, lector veterano del libro, en los que transmite «su confianza en el triunfo final de la voluntad del Padre y la esperanza de lograr la armonía en nuestro mundo. Es inútil echar la culpa a los pecados de Lucifer, Caligastia o a la falta de Adán y Eva. Su locura y error ciertamente afectaron el desarrollo planetario normal, pero también nos bendijo con el otorgamiento de nuestro Hijo Creador, que hizo tan especial a Urantia en todo Nebadon».
@@ -185,7 +185,7 @@ Enlace: [https://www.ivoox.com/reflexiones-sobre-paz-urantia-jaime-audios-mp3\_r
 ## Navegando por la vida: El universo
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/El-universo.jpg" alt="El universo">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/El-universo.jpg" alt="El universo">
 </figure>
 
 Imaginad<br>
@@ -207,7 +207,7 @@ que vosotros.<br>
 Mónica Maldonado
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Mi-parrafo-favorito-Monica-Maldonado.jpg" alt="Mi párrafo favorito - junio 2023" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Mi-parrafo-favorito-Monica-Maldonado.jpg" alt="Mi párrafo favorito - junio 2023" width="250">
 </figure>
 
 El párrafo que he elegido es por la experiencia que actualmente me ha tocado vivir, al igual que mis hermanos del grupo ICSS y quienes conocieron en esta vida a Paula Padilla, que se graduó el pasado 13 de mayo (en Chile el 14 de mayo celebramos el día de las madres). Personalmente para mí esto fue de gran impacto; pensé mucho en lo que en ese momento estaban sintiendo su esposo, su madre, sus hijos y nietos, imaginando el dolor inmenso que su partida provocó en ellos y en todos los que la conocieron por años y trabajaron con ella. Yo solo la conocí y tuve la fortuna de trabajar algunos documentos de El Libro de Urantia, el año 2021, cuando ingresé en el ICSS (solo unos meses), como ven un periodo de tiempo muy acotado. Sin embargo, logré apreciar toda su bondad, comprensión, generosidad y amor al aportar y entregar sus conocimientos en su gran labor en la difusión de la quinta revelación. Agradezco infinitamente a mi amado Padre celestial por esta gran oportunidad de ser parte de esta difusión y de haber conocido a Paula, asimismo, haberme subido a este tren y viajar con todas las personas que he conocido hasta hoy, sabiendo que somos hijos del mismo PADRE.
@@ -225,7 +225,7 @@ Como ven, todo puede cambiar en un instante, es por eso por lo que debemos disfr
 ## Cuestionario urantiano – Jan Herca
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Jan-Herca.jpg" alt="Jan Herca" width="200">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Jan-Herca.jpg" alt="Jan Herca" width="200">
 </figure>
 
 Soy Jan Herca. Vivo en Valladolid, España. Me dedico a la cartografía digital. Estoy casado. Tengo tres hijos y un perrito.
@@ -258,7 +258,7 @@ Asociación Urantia de España
 **Tema:** El compromiso de ser creyente. Prácticas de vida a la luz de _El Libro de Urantia_
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/XIX-Encuentro-El-compromiso-de-ser-creyente.jpg" alt="XIX Encuentro - El compromiso de ser creyente">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/XIX-Encuentro-El-compromiso-de-ser-creyente.jpg" alt="XIX Encuentro - El compromiso de ser creyente">
 </figure>
 
 ### Reserva de habitaciones
@@ -268,7 +268,7 @@ Conjuntamente con el hotel se ha acordado crear un paquete estándar denominado 
 Recomendamos hacer la reserva lo antes posible para garantizar el precio económico ofertado.
 
 <figure id="Figure_16" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/Precios-XIX-Encuentro.jpg" alt="Precios XIX Encuentro">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Precios-XIX-Encuentro.jpg" alt="Precios XIX Encuentro">
 </figure>
 
 Cada persona que desee asistir al evento deberá formalizar la correspondiente reserva en el modo y la forma que se describe a
@@ -322,7 +322,7 @@ C/ JOSE ECHEGARAY 5
 ## Serie de presentaciones «En el foco» de la UBIS
 
 <figure id="Figure_17" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_06/UBIS-En-el-foco.png" alt="UBIS En el foco">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/UBIS-En-el-foco.png" alt="UBIS En el foco">
 </figure>
 
 La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
@@ -343,7 +343,7 @@ Podéis ver el vídeo de la sesión anterior [en este enlace](https://www.youtub
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_18" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

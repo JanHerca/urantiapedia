@@ -33,7 +33,7 @@ Luz y Vida — octubre 2021
 María José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Editorial-oct-2021.jpg" alt="Editorial octubre 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Editorial-oct-2021.jpg" alt="Editorial octubre 2021" width="250">
 </figure>
 
 Elogio de la sencillez… de la lectura
@@ -85,7 +85,7 @@ Cuando el maestro zen alcanzó la iluminación, escribió lo siguiente para cele
 ## Trabajos – nuestras recomendaciones del mes
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/La-contraccion-del-espacio-y-el-tiempo.jpg" alt="Contracción del espacio-tiempo" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/La-contraccion-del-espacio-y-el-tiempo.jpg" alt="Contracción del espacio-tiempo" width="250">
 </figure>
 
 [**La contracción del espacio y el tiempo (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Contraccion.pdf)
@@ -96,7 +96,7 @@ La intención del autor de este trabajo es, en sus propias palabras, «ir más a
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Quehacerconlaevolucion-abr21.jpg" alt="Evolución o creación" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Quehacerconlaevolucion-abr21.jpg" alt="Evolución o creación" width="250">
 </figure>
 
 [**Evolución y creación (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Evolucionycreacion.pdf)
@@ -107,7 +107,7 @@ Tal como expresa Carmelo en la introducción a este trabajo: «¿Evolución o cr
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Juan-el-Bautista-3.jpg" alt="Juan el Bautista" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Juan-el-Bautista-3.jpg" alt="Juan el Bautista" width="250">
 </figure>
 
 [**Juan el Bautista (Javier Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/11/Juan-Bautista-Javier-Martinez.pdf)
@@ -120,7 +120,7 @@ Aquí tenéis una presentación exhaustiva de la figura de Juan el Bautista, pre
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Respuestas-para-los-que-no-creen.png" alt="Para los que no creen" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Respuestas-para-los-que-no-creen.png" alt="Para los que no creen" width="250">
 </figure>
 
 [**Respuestas para los que no creen (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/09/RESPUESTAS-PARA-LOS-QUE-NO-CREEN.pdf)
@@ -131,7 +131,7 @@ En este trabajo, la autora repasa y responde a una serie de afirmaciones adoptad
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Cronica-de-Jesus-doc-126.png" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Cronica-de-Jesus-doc-126.png" alt="Crónicas - documento 125" width="250">
 </figure>
 
 **RELATO PERIODÍSTICO DE LA VIDA Y ENSEÑANZAS DE JESÚS SEGÚN _EL LIBRO DE URANTIA_**
@@ -144,7 +144,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 ## Guía de El Libro de Urantia para niños: Dios
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/girls-462072_640.jpg" alt="Niñas" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/girls-462072_640.jpg" alt="Niñas" width="250">
 </figure>
 
 Iniciamos aquí una nueva sección que contiene material para niños relacionado con _El Libro de Urantia_, que hemos tomado del trabajo secundario _Una guía infantil hacia El Libro de Urantia_, de Mary Livingston. Este es el primer capítulo, dedicado a Dios, y comienza así:
@@ -157,7 +157,7 @@ Iniciamos aquí una nueva sección que contiene material para niños relacionado
 ## Libros – nuestras recomendaciones del mes
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/UTALP.jpg" alt="UTALP" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/UTALP.jpg" alt="UTALP" width="130">
 </figure>
 
 Urantia te abre la puerta (Yolanda Silva Solano)
@@ -172,7 +172,7 @@ En palabras de su autora, «consciente de la prisa y la vorágine en que hoy en 
 ---
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/La-mision-de-Melquisedec.jpg" alt="Melquisedec" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/La-mision-de-Melquisedec.jpg" alt="Melquisedec" width="130">
 </figure>
 
 La misión de Melquisedec (Rick Warren)
@@ -185,7 +185,7 @@ En este libro, la cuarta novela escrita por el autor, se explica quién fue Maqu
 ## Blog recomendado: Urantianos.com
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Urantianos-blog.jpg" alt="Urantianos">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Urantianos-blog.jpg" alt="Urantianos">
 </figure>
 
 [http://urantianos.com](http://urantianos.com/)
@@ -195,7 +195,7 @@ Aunque no está muy actualizado, merece la pena visitar este blog y leer sobre t
 ## Vídeo – nuestra recomendación del mes
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Como-entender-el-LU.jpg" alt="Entender el LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Como-entender-el-LU.jpg" alt="Entender el LU">
 </figure>
 
 [Cómo entender _El Libro de Urantia_](https://www.youtube.com/watch?v=LNbYPH3CFnQ&list=WL&index=1)
@@ -205,7 +205,7 @@ En este vídeo del canal [Estudio de los Escritos de Urantia](https://www.youtub
 ## Navegando por la vida – La posada de «Las cinco campanas»
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Campanas-Navegando-por-la-vida.jpg" alt="" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Campanas-Navegando-por-la-vida.jpg" alt="" width="250">
 </figure>
 
 La posada de «Las cinco campanas»
@@ -234,7 +234,7 @@ Hay pocas cosas que satisfagan más nuestro ego que el corregir los errores de l
 Eduardo Altuzarra
 
 > <figure id="Figure_13" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
 > La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana; sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible (recomendable) para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. [LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
@@ -251,7 +251,7 @@ Han pasado muchos años de lectura y estudio para darme cuenta en esta «esfera�
 ## Cuestionario urantiano: Luis Coll
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2021_10/Luis-Coll-300x240.jpg" alt="" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Luis-Coll-300x240.jpg" alt="" width="250">
 </figure>
 
 Luis Coll es un lector que vive en Planolas, provincia de Girona. Tiene 67, trabajó de jardinero pero ya está jubilado. Es padre de cinco hijos ya mayores que viven en España y Bélgica.
@@ -274,7 +274,7 @@ Me gustó en especial la primera parte, la descripción tan amplia que da sobre 
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
 </figure>
 
 Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.

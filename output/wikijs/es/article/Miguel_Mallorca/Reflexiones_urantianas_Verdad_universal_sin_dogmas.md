@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Miguel Mallorca<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_02/Verdad-universal-sin-dogmas.jpg" alt="Verdad universal, sin dogmas">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Verdad-universal-sin-dogmas.jpg" alt="Verdad universal, sin dogmas">
 </figure>
 
 El ser humano, en su continua evolución, se ha visto condicionado y sometido por el poder religioso; un poder religioso de tal influencia social que, a lo largo de la historia, y con la excusa de su espiritualización, pero con ocultas intenciones de control manipulador y político, le han convertido en un ser escéptico con un rechazo casi total a dichas religiones «salvadoras».

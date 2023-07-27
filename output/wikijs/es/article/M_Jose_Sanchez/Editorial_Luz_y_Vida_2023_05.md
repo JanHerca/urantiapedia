@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4">
 </figure>
 
 ## Llegar a ser tú mismo
@@ -51,7 +51,7 @@ Cuando una ideología ofrece la solución a tus problemas, te protege, te apoya,
 _El Libro de Urantia_ nos habla de forma diametralmente opuesta a estas propuestas salvadoras materialistas que nos traen soluciones desde fuera de nosotros mismos. Reflexionemos por un momento en esta idea tan espectacular del libro: la creación es prácticamente infinita y hay cabida para infinidad de seres. El Paraíso (centro de todo) podrá sustentar un universo infinito en incesante crecimiento:
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-1.jpg" alt="Editorial mayo-23-1">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-1.jpg" alt="Editorial mayo-23-1">
 </figure>
 
 > En principio, es decir, en potencial eterno, concebimos la creación material como infinita porque el Padre Universal es de hecho infinito. [LU 12:0.2](/es/The_Urantia_Book/12#p0_2)
@@ -69,7 +69,7 @@ Nadie sobra en una creación infinita, todos aportamos talentos en su desarrollo
 ¡Qué lejos se encuentra esta visión que aporta el libro azul de las ideas empobrecedoras y limitantes que tienen sobre nuestro planeta y sobre la vida unas minorías poderosas en nuestro planeta actual! ¡Qué lejos están del valor inmenso que tiene el ser humano! ¡Qué bien le viene a esa minoría que los humanos nos minusvaloremos y no sepamos quiénes somos!
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-2.jpg" alt="Editorial mayo-23-2">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-2.jpg" alt="Editorial mayo-23-2">
 </figure>
 
 Si en el planeta, ahora mismo, los millones de humanos que lo poblamos descubriéramos nuestra fuerza interior, nuestra propia luz, nuestro valor, ¿no cambiarían mucho las cosas? ¿Os imagináis millones de personas unidas a su Ajustador del Pensamiento, realizando la voluntad divina en la tierra, desplegando en la materia los valores eternos que proclamó Jesús de Nazaret? Un Jesús que tenía una gran fe en el ser humano, en sus grandes posibilidades.
@@ -77,7 +77,7 @@ Si en el planeta, ahora mismo, los millones de humanos que lo poblamos descubri�
 > La religión de Jesús fomenta el tipo más alto de civilización humana porque crea el tipo más alto de personalidad espiritual y proclama la condición sagrada de esa persona. [LU 194:3.7](/es/The_Urantia_Book/194#p3_7)
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-3.jpg" alt="Editorial mayo-23-3">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-3.jpg" alt="Editorial mayo-23-3">
 </figure>
 
 Este hermoso ideal ocurrirá en la Tierra. Esa es nuestra esperanza. Es el horizonte hacia el que caminamos, sin duda. Esa es la buena noticia que falta en tantos medios de comunicación.
@@ -87,7 +87,7 @@ Este hermoso ideal ocurrirá en la Tierra. Esa es nuestra esperanza. Es el horiz
 La solución a todo está en la vuelta a nosotros mismos. Un camino infinito hacia dentro. Una invitación a ser nosotros mismos.
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-5.jpg">
+<img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-5.jpg">
 </figure>
 
 Tomar consciencia de Dios en nosotros, dentro de nosotros y con nosotros nos hace valorar y amar a la humanidad, pero sobre todo amarnos a nosotros mismos y juntos hacer la gran familia celestial:

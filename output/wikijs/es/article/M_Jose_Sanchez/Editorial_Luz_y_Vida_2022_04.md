@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-1.jpg" alt="Editorial abril 2022-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-1.jpg" alt="Editorial abril 2022-1">
 </figure>
 
 Comencemos contando una antigua historia:
@@ -51,7 +51,7 @@ No es de extrañar que esta consideración del ser humano haya promovido extremo
 Actualmente, la joya de la corona del transhumanismo es su idea de descargar la conciencia humana a una computadora y permitir que viva para siempre o casi para siempre experimentando un paraíso artificial de puro placer digital dentro de un soporte de silicio. Los transhumanistas buscan escapar hacia la pura conciencia, pero a través de la misma materia, bajo la premisa de que ni el espíritu ni un plano trascendente existen, solo existe la información: la realidad es información y el ser humano una computadora. Su tesis se basa en una conjetura no demostrada hasta el momento: que la conciencia es un fenómeno emergente, algo que brota del cerebro y que puede reducirse a puros procesos materiales y por lo tanto puede imitarse y trasladarse de un soporte a otro.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../output/wikijs/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-2.jpg" alt="Editorial abril 2022-1">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Editorial-abr-22-2.jpg" alt="Editorial abril 2022-1">
 </figure>
 
 Frente a esta visión tan plana del ser humano, frente a una visión que promueve la digitalización de todos los aspectos de nuestras vidas, tenemos el valioso aporte de _El Libro de Urantia_:
