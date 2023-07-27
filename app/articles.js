@@ -8,7 +8,7 @@ const markdownIt = require('markdown-it')({
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
 	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags,
-	fixWikijsHeader, getWikijsArticleLinks, getFiles} = require('./utils');
+	fixWikijsHeader, getWikijsArticleLinks, getFiles, autoCorrect} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -224,6 +224,21 @@ class Articles {
 		const baseName = path.basename(filePath);
 		const baseName2 = path.basename(filePath, '.tsv');
 		const indexPath = `/${this.language}/index/${baseName2}`;
+		const correction = {
+			"\\.": "",
+			" ": "_",
+			"-": "_",
+			"á": "a",
+			"é": "e",
+			"í": "i",
+			"ó": "o",
+			"ú": "u",
+			"ñ": "n"
+		};
+		const correction2 = {
+			"[\\.,\\(\\)—\\-]": "",
+			"( +)": "-"
+		};
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
 				this.onProgressFn(baseName);
@@ -247,13 +262,13 @@ class Articles {
 				let currentIssue = null;
 				let currentArticle = null;
 				let issueAnchor = null;
-				const len = lines[0].trim().split('\t').length;
+				const len = lines[0].split('\t').length;
 				if (len != 2 && len != 4) {
 					reject([this.getError('article_index_missing_data', 1)]);
 					return;
 				}
 				const errIndex = lines.findIndex(line => {
-					return (line.trim().split('\t').length != len);
+					return (line.split('\t').length != len);
 				});
 				if (errIndex != -1) {
 					reject([this.getError('article_index_missing_data', 
@@ -262,8 +277,7 @@ class Articles {
 				}
 				if (len === 2) {
 					lines.forEach((line, i) => {
-						const [title, translation] =
-							line.trim().split('\t');
+						const [title, translation] = line.split('\t');
 						if (i === 0) {
 							this.index.title = translation;
 							return;
@@ -273,9 +287,7 @@ class Articles {
 							item.title = translation;
 						}
 						if (item.articles) {
-							issueAnchor = translation
-								.replace(/[\.,\(\)—\-]/g, '')
-								.replace(/( +)/g, '-')
+							issueAnchor = autoCorrect(translation, correction2)
 								.toLowerCase();
 							item.path = indexPath + '#' + issueAnchor;
 						} else if (item.path) {
@@ -289,16 +301,15 @@ class Articles {
 					});
 				} else {
 					lines.forEach((line, i) => {
-						const [title, path, author, tags] = 
-							line.trim().split('\t');
+						const [title, path, author, tags] = line.split('\t');
 						const author2 = (author != '' && 
-							!author.startsWith('-') ? 
-							author.replace(/\./g, '')
-							.replace(/ |-/g, '_') : '');
+							!author.startsWith('-') &&
+							!author.startsWith('is-') ? 
+							autoCorrect(author, correction) : '');
 						const authorLink = (author ? 
 							`/${lan}/article/${author2}` : '');
 						if (author === 'is-title') {
-							this.index.title = title;
+							this.index.title = title.trim();
 							this.index.link = path;
 							this.index.tags = ['Index', 'Article', tags];
 							this.index.sourceText = 
@@ -312,9 +323,7 @@ class Articles {
 							this.index.volumes.push(currentVolume);
 							this.items.push(currentVolume);
 						} else if (this.index.title && author === 'is-issue') {
-							issueAnchor = title
-								.replace(/[\.,\(\)—\-]/g, '')
-								.replace(/( +)/g, '-')
+							issueAnchor = autoCorrect(title, correction2)
 								.toLowerCase();
 							currentIssue = {
 								title: title,
@@ -845,7 +854,8 @@ class Articles {
 				});
 			};
 
-			html2 += getWikijsHeader(this.index.title, this.index.tags);
+			html2 += getWikijsHeader(this.index.title.trim(), 
+				this.index.tags.map(t=>t.trim()));
 			html2 += '\r\n';
 			html = this.createIndexFn(this.index);
 

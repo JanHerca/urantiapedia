@@ -85,7 +85,7 @@ Y ahora, en la noche, mientras su hijo duerme, él recuerda esa escena., vuelve 
 
 ¡Qué difícil es hablar de Dios! Cualquiera que lo quiera hacer tiene que saber que seguramente está desvariando un poco, y probablemente Dios se sonríe ante nuestros intentos de entenderlo y describirlo.
 
-[Read more](/es/articles/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

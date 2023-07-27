@@ -203,6 +203,7 @@ Nebadon
 Order
 Paleontology
 Pattern
+Patience
 Peace
 Pedagogy
 Person

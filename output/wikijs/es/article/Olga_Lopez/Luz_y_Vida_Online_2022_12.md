@@ -54,7 +54,7 @@ M. José Sánchez Santamaría
 
 Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchísimo a entender el poder que tiene nuestra mente, nuestros pensamientos y, sobre todo, nuestros miedos. Cómo nos podemos ahogar en un mar de emociones y de pensamientos recurrentes, repetitivos y agotadores. Pensamientos y emociones que, por su naturaleza muy cercana a la animal, no tendrán un desarrollo espiritual más allá de este mundo material. ¡Qué frágiles somos!
 
-[Read more](//es/article/M_Jose_Sanchez\Editorial_Luz_y_Vida_2022_12)
+[Read more](//es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes

@@ -17,6 +17,18 @@ exports.strformat = (...params) => {
 };
 
 /**
+ * Corrects a string with some replacements.
+ * @param {string} text Text to correct.
+ * @param {Object} correction Object with strings to search as keys and strings
+ * to use instead as values.
+ * @return {string}
+ */
+exports.autoCorrect = (text, correction) => {
+	const reg = new RegExp(Object.keys(correction).join("|"), "g");
+	return text.replace(reg, (matched) => correction[matched]);
+};
+
+/**
  * Extracts part of a text enclosed in two other texts. It is extracted the 
  * first appearance, the rest are ignored.
  * @param {string} content Text from which extract.
