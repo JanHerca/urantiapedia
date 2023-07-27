@@ -137,7 +137,7 @@ Fuente: https://urantia-book.org/index_spiritual_fellowship_journal.html
 
 Luz y Vida es una publicación trimestral (ahora mensual) de la Asociación Urantia de España en activo desde 2005. Contiene noticias y artículos que resultan de utilidad para todos los hablantes de lengua hispana.
 
-Pronto disponible en Urantiapedia.
+El índice de todos los números disponibles está aquí: [Índice de los artículos de «Luz y Vida»](/es/index/articles_luz_y_vida).
 
 Fuente: https://aue.urantia-association.org/luz-y-vida/
 
