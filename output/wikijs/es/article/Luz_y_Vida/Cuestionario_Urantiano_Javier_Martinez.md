@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2023_02/Javier-Martinez.jpg" alt="Javier Martínez">
+<img src="/image/article/Luz_y_Vida/LyV_2023_02/Javier-Martinez.jpg" alt="Javier Martínez" width="200">
 </figure>
 
 Javier vive en Madrid oficialmente, aunque reside en Almería gran parte del año. Es funcionario jubilado e ingeniero técnico de telecomunicaciones. Divorciado, lleva conviviendo con su actual pareja más de 18 años. Tiene dos hijos, y tres de su actual pareja. Dedica mucho tiempo a colaborar con otros grupos de lectura del libro (Grupo ICSS, Colombia, Toronto, Brasil y España). También colabora con el grupo Ágora 2.0 y administra una plataforma en FaceBook denominada «Descifrando Urantia».

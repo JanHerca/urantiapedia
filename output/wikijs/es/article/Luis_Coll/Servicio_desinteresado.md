@@ -40,7 +40,7 @@ Composición de L. Coll
 En los mundos celestiales mas avanzados las palabras como; odio, guerra, orgullo, egoísmo, maldad... ya han sido borradas del diccionario.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/Ly23/11.jpg">
+<img src="/image/article/Luz_y_Vida/LyV23/11.jpg">
 </figure>
 
 Pero las palabras: Amor , Altruismo, Amistad, Bondad Fe, Lealtad Servicio desinteresado...están escritas en mayúscula.

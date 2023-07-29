@@ -73,14 +73,12 @@ A partir de aquí y ahora, ya estamos preparados para posicionarnos en la línea
 No obstante, no esperemos grandes acontecimientos, no nos imaginemos ni por un momento que las experiencias que vamos a vivir va a ser espectaculares, para nada vamos a sentir de un modo especial esa relación con el espíritu. Eso sucede de un modo silencioso, sin ruidos, sin sobresaltos u otras formas o modos de advenimiento.
 
 $$
-{\footnotesize
 \text{LA MENTE HUMANA—NIVELES} 
 \begin{cases}
 \text{SUPERCONSCIENTE} \begin{cases} \text{ESPIRITU DE LA VERDAD} \\ \text{ESPIRITU SANTO} \\ \text{AJUSTADOR DEL PENSAMIENTO}\end{cases} \\
 \text{CONSCIENTE}\\ \\
 \text{SUBCONSCIENTE}
 \end{cases}
-}
 $$
 
 Lo primero que vamos a percibir de su presencia es una paz, una armonía y una felicidad que anteriormente nunca habíamos experimentado. Él ya se encuentra dentro: bueno, mejor dicho, ya se encontraba, digamos que la señal lo ha «activado».

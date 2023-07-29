@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_11/Antonio-Moya-LyVnov21.png" alt="Antonio Moya">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/Antonio-Moya-LyVnov21.png" alt="Antonio Moya" width="200">
 </figure>
 
 Antonio Moya Cerpa reside en Sevilla. Está jubilado y tiene tres hijos. Lleva 43 años leyendo _El Libro de Urantia_. Fue miembro fundador del grupo de estudio de Sevilla y traductor de la edición europea de _El Libro de Urantia_.

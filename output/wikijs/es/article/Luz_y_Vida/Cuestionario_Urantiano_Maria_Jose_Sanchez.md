@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Núm. 41 — Presentación"
+title: "Cuestionario Urantiano: María José Sánchez"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV41/13.jpg">
+<img src="/image/article/Luz_y_Vida/LyV41/13.jpg" width="200">
 </figure>
 
 Maria José es una lectora de _El Libro de Urantia_ muy comprometida con la difusión de las enseñanzas de la quinta revelación. Maestra de profesión y madre de tres hijos, reside en Málaga y es la anfitriona del grupo de estudio que se reúne periódicamente en esa provincia desde hace unos años.

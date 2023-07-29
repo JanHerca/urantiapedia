@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_10/Luis-Coll-300x240.jpg" alt="">
+<img src="/image/article/Luz_y_Vida/LyV_2021_10/Luis-Coll-300x240.jpg" alt="" width="200">
 </figure>
 
 Luis Coll es un lector que vive en Planolas, provincia de Girona. Tiene 67, trabajó de jardinero pero ya está jubilado. Es padre de cinco hijos ya mayores que viven en España y Bélgica.

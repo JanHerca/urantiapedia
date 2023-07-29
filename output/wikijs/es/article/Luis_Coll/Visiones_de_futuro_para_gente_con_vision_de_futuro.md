@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
-          <span class="pr-2">La Escuela de _El Libro de Urantia_ en Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Escuela de El Libro de Urantia en Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -96,7 +96,7 @@ Todos sabemos amigos/as que estas cosas son aún muy utópicas en nuestro mundo,
         </td>
         <td>
         <a href="/es/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
-          <span class="pr-2">La Escuela de _El Libro de Urantia_ en Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Escuela de El Libro de Urantia en Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

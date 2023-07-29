@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_05/Ana-Maria-Garcia.jpg" alt="Ana María García">
+<img src="/image/article/Luz_y_Vida/LyV_2021_05/Ana-Maria-Garcia.jpg" alt="Ana María García" width="200">
 </figure>
 
 Ana María García Simón, natural de Estepona (Málaga), de profesión, auxiliar administrativa en una administración pública desde hace ahora 28 años. Madre de dos hijas de un primer matrimonio y desde hace muy poco lamentablemente viuda de mi segundo marido con el cual tuve la experiencia de compartir las enseñanzas de _El Libro de Urantia_. Soy la tesorera de la Asociación Urantia de España.

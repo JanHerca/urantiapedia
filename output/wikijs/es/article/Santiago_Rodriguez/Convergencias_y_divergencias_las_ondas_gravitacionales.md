@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia para estos tiempos">
+        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenesia para estos tiempos</span>
         </a>
         </td>
@@ -117,7 +117,7 @@ Seguro que las nuevas posibilidades que se abren con el estudio de las ondas gra
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia para estos tiempos">
+        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenesia para estos tiempos</span>
         </a>
         </td>

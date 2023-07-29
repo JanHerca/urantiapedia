@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV38/07.jpg">
+<img src="/image/article/Luz_y_Vida/LyV38/07.jpg" width="200">
 </figure>
 
 Eduardo Altuzarra es miembro fundador de la Asociación Urantia de España, legalmente constituida en el año 2007. Ocupo el cargo de vicepresidente en su primera Junta Directiva y actualmente es tesorero. Lector de _El Libro de Urantia_ desde la primavera de 1994. Tiene 63 años, está casado, tiene dos hijos y dos nietos. Es jubilado de empresa ferroviaria y vive en la ciudad de Miranda de Ebro (Burgos).

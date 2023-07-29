@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2023_04/Omar-Delgado.jpg" alt="Omar Delgado">
+<img src="/image/article/Luz_y_Vida/LyV_2023_04/Omar-Delgado.jpg" alt="Omar Delgado" width="200">
 </figure>
 
 Omar Delgado es un lector colombiano que reside actualmente en Suecia. Tiene 34 años, de profesión auxiliar de enfermería. Estado civil: unión libre.

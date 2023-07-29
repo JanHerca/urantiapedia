@@ -66,7 +66,7 @@ A la vuelta, nos reunimos todos para poner en común lo que habíamos tratado en
 Después de la cena, volvimos con la segunda sesión del «territorio comanche». En esta ocasión, estuvo precedida por el canto del himno «oficioso» de los lectores de Urantia, «Pray, tell me how», en versión española («Enséñame»), gracias a la aportación de Erwin y Nils, los lectores alemanes que nos acompañaron. ¡Nuestro agradecimiento a ambos! Por lo demás, esta segunda sesión de debate libre fue tan intensa o más que la anterior. Hubo que moderar el debate, pues había muchas personas y se hacía difícil mantener una conversación participativa. También, como la noche anterior, terminamos muy tarde. ¡Parecía que no veíamos el momento de irnos a la cama!
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV33/XXXX.jpg">
+<img src="/image/article/Luz_y_Vida/LyV33/03.jpg">
 <figcaption><em>La junta, de izq. a dcha.: Mariano, Jaime, Eduardo, Ismael y Carmelo</em></figcaption>
 </figure>
 

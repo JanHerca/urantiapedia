@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2023_06/Jan-Herca.jpg" alt="Jan Herca">
+<img src="/image/article/Luz_y_Vida/LyV_2023_06/Jan-Herca.jpg" alt="Jan Herca" width="200">
 </figure>
 
 Soy Jan Herca. Vivo en Valladolid, España. Me dedico a la cartografía digital. Estoy casado. Tengo tres hijos y un perrito.

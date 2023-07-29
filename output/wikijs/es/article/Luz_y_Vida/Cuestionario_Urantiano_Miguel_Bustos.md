@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV45/12.jpg">
+<img src="/image/article/Luz_y_Vida/LyV45/12.jpg" width="200">
 </figure>
 
 _Me llamo Miguel Bustos y vivo en una preciosa isla llamada Mallorca donde naci hace exactamente 66 años. He sido funcionario de la Seguridad Social hasta que me hicieron pensionista debido a un accidente. Actualmente ya he pasado a formar parte de esa hucha de jubilados que espero dure más allá de mis tiempos para que las generaciones venideras tengan los mismos derechos que yo estoy disfrutando._

@@ -88,15 +88,15 @@ Ahora vayamos un paso más allá y digamos que, en cada uno de los agrupamientos
 
 * 0 de 4. No hay planetas decimales aquí, pues esta categoría (de cuatro mundos por sistema solar) no ha llegado a los diez mundos.
 
-Sumados todos (51, 9 y 1) llegamos exactamente a 61 mundos decimales, ¡así que vamos por buen camino! Esto nos resuelve el problema de 61 mundos decimales de 619. Contar números, como vimos antes, nos dio un número de 62. Son importantes aquí, y clave para saber por qué Urantia termina en 6, los mundos restantes de cada categoría. Señalaré aquí que, en la categoría de 511 (__O__), el mundo 510 es el mundo decimal 51 y que _queda un planeta más_. Hay que señalar especialmente el planeta que queda, pues estos planetas _restantes_, como les llamaré a partir de ahora, ¡son cruciales!
+Sumados todos (51, 9 y 1) llegamos exactamente a 61 mundos decimales, ¡así que vamos por buen camino! Esto nos resuelve el problema de 61 mundos decimales de 619. Contar números, como vimos antes, nos dio un número de 62. Son importantes aquí, y clave para saber por qué Urantia termina en 6, los mundos restantes de cada categoría. Señalaré aquí que, en la categoría de 511 (__O__), el mundo 510 es el mundo decimal 51 y que _queda un planeta más_. \{Hay que señalar especialmente el planeta que queda, pues estos planetas _restantes_, como les llamaré a partir de ahora, ¡son cruciales!
 
 Como se dijo anteriormente, postularemos aquí que estas cuatro agrupaciones son de hecho series de parentesco y son parte de lo que quiere decir «_variables que salpican la procesión de las esferas evolutivas_». Ahora se nos dice que «_Satania misma es un sistema inacabado que sólo contiene 619 mundos habitados. Estos planetas están numerados de forma secuencial con arreglo a su inscripción como mundos habitados._» <a id="a92_419"></a>[[LU 49:0.3](/es/The_Urantia_Book/49#p0_3)] Acabamos de ordenar estas series de parentesco en categorías separadas, pero no podemos olvidar su procesión en serie. Para contar esta procesión una vez más de 1 a 619, después de haber separado y ordenado Satania en agrupaciones de parentesco, debemos, como en una baraja de cartas, _barajar las categorías de nuevo_.
 
-## 7. $O^{1} O^{2} O^{3} O^{4} O^{5} O^{6} O^{7} O^{8} O^{9} \underline{O}^{10} O^{11} O^{12}$
+**O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ O^10^ O^11^ O^12^**
 
 El diagrama anterior muestra una procesión de mundos O, uno por sistema solar, y la llegada normal de un planeta decimal con el número 10 (que he puesto en cursiva y subrayado para hacerlo más fácil de identificar). ¡Pero atención! ¡Algo sucede cuando barajamos las categorías de nuevo!
 
-## 8. $O^{1} O^{2} O^{3} O^{4} O^{5}\left(X^{6} X^{7}\right) O^{8} O^{9} O^{10} O^{11} \underline{O}^{12}$
+**O^1^ O^2^ O^3 O^4^ O^5 (X^6^ X^7^) O^8^ O^9^ O^10^ O^11^ O^12^**
 
 Habréis advertido que, al incluir la categoría __XX__, ambos en el mismo sistema solar, jel mundo decimal de la primera categoría (__O__) se desplaza dos lugares! Contando todos los mundos en serie, el primer mundo decimal (__O__) se convierte en el planeta número 12 , mientras que los planetas X^1^ X^2^;se cuentan en la serie como los mundos X^6^ y X^7^ ¡Tomaos un respiro! Captad este concepto antes de avanzar.
 

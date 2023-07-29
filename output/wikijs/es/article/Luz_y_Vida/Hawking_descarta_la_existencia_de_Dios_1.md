@@ -124,7 +124,7 @@ Después de esta introducción (justificada por lo que diré al final), vayamos 
 
 	El LU por su parte, nos habla de cambios repentinos, de grandes saltos más o menos bruscos sin «eslabones perdidos», una revelación realmente sorprendente, y nos dice además que la evolución tiene un propósito: producir seres humanos, o sea, animales con capacidad de conocer y de adorar al Padre. Los planetas son los viveros y las cunas de ciertos seres espirituales que empiezan siendo materiales, después son de moroncia y finalmente espirituales, para acabar en el Cuerpo de la Finalidad. Unos seres (nosotros) de cuya trascendencia e importancia en el plan del Padre no tenemos aún ni idea.
 
-2- El evolucionismo científico de hoy en día acepta que la vida surgió espontáneamente en cuanto la química marina produjo la primera célula compleja capaz de reproducirse, de relacionarse y de alimentarse por sí misma (de seguir viviendo y manteniendo así su estructura química) La ciencia asegura que la vida es producto de la evolución misma.
+2. El evolucionismo científico de hoy en día acepta que la vida surgió espontáneamente en cuanto la química marina produjo la primera célula compleja capaz de reproducirse, de relacionarse y de alimentarse por sí misma (de seguir viviendo y manteniendo así su estructura química) La ciencia asegura que la vida es producto de la evolución misma.
 
 	El LU dice clara y categóricamente que la vida se planta en los planetas y que es otorgamiento del Espíritu. Asegura que la vida es algo especial y diferente de la materia y que no puede surgir de ésta de ninguna manera. Sólo la Deidad tiene vida por sí misma y por lo tanto, es la única que puede transmitirla.
 

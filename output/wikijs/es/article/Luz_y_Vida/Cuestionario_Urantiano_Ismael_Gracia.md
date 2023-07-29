@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV36/08.jpg">
+<img src="/image/article/Luz_y_Vida/LyV36/08.jpg" width="200">
 </figure>
 
 Juan Ismael Gracia Josa es secretario de la Asociación Urantia España desde el año 2012. Nacido en 1971, este aragonés está afincado en Tortosa (Tarragona) desde 1995. Tras una variada y diversa experiencia laboral, desde 2007 regenta una tienda/almacén dedicada a la distribución de pinturas de decoración tanto para profesionales como para el público en general. Está casado y es padre de dos niñas. Comenzó a leer _El Libro de Urantia_ el 1 de enero de 2009.

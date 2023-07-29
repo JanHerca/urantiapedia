@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_09/JORGE-NAGORE.jpg" alt="Jorge Nagore">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/JORGE-NAGORE.jpg" alt="Jorge Nagore" width="200">
 </figure>
 
 Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nietos. Ejerce de jubilado activo después de 35 años dedicados al periodismo. Estudió con los Jesuitas y en la universidad del Opus Dei. Siempre ha vivido en Pamplona, España, la ciudad de los encierros de toros, y ahí sigue. Tras una «experiencia cercana a la muerte», fruto de un accidente de tráfico a los 17 años, surgió en él un empujón hacia la búsqueda de mí mismo y la relación con la existencia superior.

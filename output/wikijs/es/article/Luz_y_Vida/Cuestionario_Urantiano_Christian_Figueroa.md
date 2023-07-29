@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa">
+<img src="/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa" width="200">
 </figure>
 
 Soy Christian Figueroa Colón, estudiante universitario en administración de sistemas de oficina, soltero, vivo en Puerto Rico. Colaboro en Radio Urantia y Urantia TV.

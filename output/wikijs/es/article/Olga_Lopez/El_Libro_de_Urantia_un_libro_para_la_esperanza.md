@@ -45,6 +45,8 @@ De vez en cuando, como presidenta de la asociación, me llegan preguntas de lect
 
 Ante todo, hay que dejar claro que _El Libro de Urantia_ no es un libro de profecías; eso no quiere decir que no haya algunas afirmaciones que puedan tomarse como algo que sucederá en el futuro. También es cierto que ninguna de ellas está situada en un momento concreto; no sabemos cuándo van a producirse. Es más; no siempre queda claro si es una «profecía» o simplemente la expresión abierta de un deseo. Veamos aquí un par de ejemplos:
 
+<br style="clear:both;"/>
+
 > «_Tarde o temprano deberá surgir otro Juan el Bautista más grande, que proclamará que «el reino de Dios está cerca»-que propondrá un retorno al elevado concepto espiritual de Jesús, el cual proclamó que el reino es la voluntad de su Padre celestial, dominante y trascendente, en el corazón del creyente $-y$ hará todo esto sin referirse para nada a la iglesia visible en la Tierra, ni a la esperada segunda venida de Cristo_». <a id="a47_429"></a>[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)
 
 > «_...algún día puede aparecer en Urantia un verdadero músico, y pueblos enteros se sentirán cautivados por los magníficos acordes de sus melodías. Un ser humano así podría cambiar para siempre el curso de una nación entera, e incluso de todo el mundo civilizado..._» <a id="a49_269"></a>[LU 44:1.15](/es/The_Urantia_Book/44#p1_15)

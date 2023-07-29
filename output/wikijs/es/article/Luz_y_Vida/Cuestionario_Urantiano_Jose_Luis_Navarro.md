@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/Jose-Luis-Navarro.jpg" alt="José Luis Navarro">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Jose-Luis-Navarro.jpg" alt="José Luis Navarro" width="200">
 </figure>
 
 José Luis Navarro nació en Vitoria en 1977 y actualmente reside en un pueblo de Huesca situado a medio camino de Huesca capital y Zaragoza. Es delineante de profesión y diseña muebles para el comercio. Está casado y tiene un hijo de 8 años. Actualmente es secretario de la junta directiva de la Asociación Urantia de España.

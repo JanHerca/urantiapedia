@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV34/10.jpg">
+<img src="/image/article/Luz_y_Vida/LyV34/10.jpg" width="200">
 </figure>
 
 Carmelo Martínez es presidente de la Asociación Urantia de España. Es ingeniero industrial y licenciado en Ciencias Económicas. Está casado y tiene tres hijos y un nieto. Actualmente está jubilado y vive en Getxo (Vizcaya).

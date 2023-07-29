@@ -41,11 +41,7 @@ Desde el 18 de mayo de 2009, la nueva edición de _El Libro de Urantia_ ya está
 
 Si tenéis algún problema en conseguir un ejemplar de la edición europea, hacédnoslo saber mediante un correo a urantiaesp@gmail.com, o por correo postal en el apartado de correos 272, 08800 Vilanova i la Geltrú (Barcelona) Uno de nuestros objetivos es que _El Libro de Urantia_ esté disponible para todos aquellos que estén interesados en comprarlo.
 
-<br>
-
-<br>
-
-<br>
+<br style="clear:both;"/>
 
 ## Ejemplares de Le Livre D'urantia
 
@@ -57,11 +53,7 @@ La Asociación Urantia de España tiene en reserva tres ejemplares de Le Livre d
 
 Los libros se venden a **15 euros** cada uno (gastos de envío aparte), el mismo precio especial al que estuvieron en la conferencia internacional. Si alguien está interesado en adquirir uno o más ejemplares, puede ponerse en contacto con nosotros enviando un correo a urantiaesp@gmail.com, o por correo postal en el apartado de correos antes mencionado.
 
-<br>
-
-<br>
-
-<br>
+<br style="clear:both;"/>
 
 
 ## Referencias

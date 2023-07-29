@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.png" alt="Victoriano Izquierdo">
+<img src="/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.jpg" alt="Victoriano Izquierdo" width="200">
 </figure>
 
 Soy Victoriano Izquierdo Ramírez. Resido en Sevilla y estoy jubilado. Mi esposa y yo tenemos tres hijos y cuatro nietos y llevamos leyendo El Libro de Urantia desde el año 1992.

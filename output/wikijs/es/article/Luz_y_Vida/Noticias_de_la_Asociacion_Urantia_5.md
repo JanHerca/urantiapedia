@@ -43,11 +43,7 @@ Si estáis interesados en ayudarnos a repartir este folleto en librerías, bibli
 
 ¡Ayúdanos a dar a conocer _El Libro de Urantia_ y nuestra asociación!
 
-<br>
-
-<br>
-
-<br>
+<br style="clear:both;"/>
 
 ## Charlas sobre El Libro De Urantia
 
@@ -57,11 +53,7 @@ Si estáis interesados en ayudarnos a repartir este folleto en librerías, bibli
 
 Desde la asociación, estamos dispuestos a dar charlas ante grupos reducidos para dar a conocer _El Libro de Urantia_. Si creéis que en vuestra zona puede haber personas interesadas en esta charla y conocéis alguna librería, biblioteca o centro público que ofrezca un aforo a un precio razonable (o incluso gratis), no dudéis en contactar con nosotros. Nadie mejor que vosotros para saber cuáles son las posibilidades de dar una charla en vuestra zona.
 
-<br>
-
-<br>
-
-<br>
+<br style="clear:both;"/>
 
 ## Referencias
 

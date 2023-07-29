@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV42/15.jpg">
+<img src="/image/article/Luz_y_Vida/LyV42/15.jpg" width="200">
 </figure>
 
 Santiago Rodríguez es de Salamanca pero reside en Reus (Tarragona). Químico de profesión, está casado y es padre de dos hijas. Fue secretario de la Asociación Urantia de España de 2004 a 2012. Es miembro del grupo de estudio de Barcelona desde su creación en 2004.

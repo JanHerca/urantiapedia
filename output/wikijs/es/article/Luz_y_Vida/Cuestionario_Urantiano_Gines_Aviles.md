@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 _Nota de la redacción: comenzamos una nueva sección, en la que un lector destacado responderá a unas preguntas sobre cómo llegó a_ El Libro de Urantia _y por qué le resulta tan inspirador. En esta ocasión responderá a nuestro cuestionario Ginés Avilés, actual presidente de la Asociación Urantia de España._
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_04/Gines.jpg">
+<img src="/image/article/Luz_y_Vida/LyV_2021_04/Gines.jpg" width="200">
 </figure>
 
 ¡Hola, hermanos! Soy Ginés y soy un buscador de la Verdad, eso es lo más importante que puedo decir de mí mismo, mi mejor currículum.

@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ## Portada
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV43/01.jpg">
+<img src="/image/article/Luz_y_Vida/LyV44/01.jpg">
 </figure>
 
 Boletín de la Asociación Urantia de España

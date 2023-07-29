@@ -38,7 +38,7 @@ A continuación, mi labor tenía que encauzarse en tratar de reunir a los lector
 La primera zona en la que me puse manos a la obra, es la que, para mi sorpresa, no tenía un grupo formal formado, aunque si lectores suficientes; hablo de Sevilla y sus alrededores. La cuna del nacimiento del movimiento de Urantia en España no tenía grupo como tal, y es que tras la ardua labor de traducción, que llevó años, el grupo de trabajo se disipó.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV26/05.jpg">
+<img src="/image/article/Luz_y_Vida/LyV27/05.jpg">
 </figure>
 
 Después de hablar con unos y con otros -algunos buenos amigos-, y después de mandar cartas y correos electrónicos a cuantos contactos teníamos de la zona, concretamos hacer una reunión el día 26 de noviembre en Camas (Sevilla).

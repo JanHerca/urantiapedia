@@ -54,7 +54,7 @@ Con los ojos brillantes, el niño agarró la vela que todavía ardía y encendi�
 </p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV1/03.jpg">
+<img src="/image/article/Luz_y_Vida/LyV18/03.jpg">
 </figure>
 
 <figure class="table chapter-navigator">

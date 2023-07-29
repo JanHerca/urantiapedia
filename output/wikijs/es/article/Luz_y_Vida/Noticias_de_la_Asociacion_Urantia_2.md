@@ -62,6 +62,8 @@ Más información en
 
 http://www.urantia.es/uai2009
 
+<br style="clear:both;"/>
+
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

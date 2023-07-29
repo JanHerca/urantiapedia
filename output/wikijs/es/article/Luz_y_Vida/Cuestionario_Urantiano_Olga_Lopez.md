@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV43/11.jpg">
+<img src="/image/article/Luz_y_Vida/LyV43/11.jpg" width="200">
 </figure>
 
 Olga es lectora del libro desde 1996. Casada y con dos hijas, es ingeniera informática y licenciada en Filosofía. Reside en Vilanova i la Geltrú (Barcelona). Fue presidenta de la Asociación Urantia de España de 2004 a 2012. Actualmente es la directora de la UBIS (Escuela de _El Libro de Urantia_ en Internet) para los cursos en español.

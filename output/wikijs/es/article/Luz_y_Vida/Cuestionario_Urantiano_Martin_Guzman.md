@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2023_03/Martin-Guzman.jpg" alt="Martín Guzmán">
+<img src="/image/article/Luz_y_Vida/LyV_2023_03/Martin-Guzman.jpg" alt="Martín Guzmán" width="200">
 </figure>
 
 Soy mexicano, vivo en la Ciudad de México. Trabajo como encargado en un almacén. Estoy casado, tengo una hija y dos nietos. Fui presidente de la Asociación Urantia México y actualmente participo en varios grupos de lectura y estudio de _El Libro de Urantia_.

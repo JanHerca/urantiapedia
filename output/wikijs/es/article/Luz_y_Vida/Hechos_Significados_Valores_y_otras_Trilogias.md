@@ -170,7 +170,7 @@ Cuando hablamos de la verdad, la belleza y la bondad, me llaman la atención est
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV26/03.jpg">
+<img src="/image/article/Luz_y_Vida/LyV27/03.jpg">
 </figure>
 
 ## Antonio

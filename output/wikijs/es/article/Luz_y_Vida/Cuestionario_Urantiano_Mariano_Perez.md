@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV39/14.jpg">
+<img src="/image/article/Luz_y_Vida/LyV39/14.jpg" width="200">
 </figure>
 
 Mariano vive en Torrejón de Ardoz (Madrid). Tiene 54 años, está casado y tiene tres hijas. Trabaja en una empresa de transporte ferroviario madrileño, donde ejerce como instructor de formación desde los 24 años. Empezó a leer _El Libro de Urantia_ hacia el año 2000, y le enganchó rápidamente. En 2004 organizó el grupo de estudio de Madrid. Poco tiempo después, comprometido en dar a conocer _El Libro de Urantia_, escribió la novela Los Círculos de la Verdad (en español e inglés). Después de asistir al Simposio de Liderazgo de Chicago en 2011, se le nombró Responsable para los grupos de estudio de la Asociación Urantia de España. Desde el año 2013 lleva moderando, junto a otros miembros de la Junta de la AUE, el Grupo de Estudio Virtual en español en las tardes dominicales.

@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_12/Paco-Morbe.jpg" alt="Paco Morón">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Paco-Morbe.jpg" alt="Paco Morón" width="200">
 </figure>
 
 Francisco (Paco) vive en Sevilla. Está jubilado, anteriormente fue técnico de Gestión de la Función Administrativa. Está casado y tiene dos hijos. Es lector del libro desde el año 1977.

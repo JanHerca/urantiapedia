@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2023_01/Marise-Castro.jpg" alt="Marisé Castro">
+<img src="/image/article/Luz_y_Vida/LyV_2023_01/Marise-Castro.jpg" alt="Marisé Castro" width="200">
 </figure>
 
 Vivo en una ciudad pequeña de la provincia de La Coruña llamada Narón y que está pegada a Ferrol, ciudad en la que nací. Aunque nací en Ferrol, me crie en Las Palmas de Gran Canaria y en San Fernando (Cádiz). Cuando volví a Ferrol con 17 años me sentí tremendamente desgraciada porque mis amigos de la juventud quedaron en San Fernando. Tengo pareja y un hijo de 13 años.

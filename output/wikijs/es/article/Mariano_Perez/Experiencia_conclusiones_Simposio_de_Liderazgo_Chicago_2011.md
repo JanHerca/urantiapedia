@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones_del_XI_Encuentro">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El liderazgo en el movimiento Urantia</span>
         </a>
         </td>
@@ -97,7 +97,7 @@ En este sentido, el Simposio de Liderazgo, (esta a veces malinterpretada palabra
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones_del_XI_Encuentro">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El liderazgo en el movimiento Urantia</span>
         </a>
         </td>

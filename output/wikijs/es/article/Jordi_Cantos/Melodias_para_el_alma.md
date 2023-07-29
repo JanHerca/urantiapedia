@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Santiago_Rodriguez_and_Olga_Lopez/Las Preguntas">
+        <a href="/es/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
           <span class="pr-2">Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -67,7 +67,7 @@ JC
         </a>
         </td>
         <td>
-        <a href="/es/article/Santiago_Rodriguez_and_Olga_Lopez/Las Preguntas">
+        <a href="/es/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
           <span class="pr-2">Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

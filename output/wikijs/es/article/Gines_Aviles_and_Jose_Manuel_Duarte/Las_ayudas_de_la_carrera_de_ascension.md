@@ -130,7 +130,7 @@ Sin embargo, cuando nos referimos a las ayudas materiales en la carrera de ascen
 Todo el universo es una inmensa escuela destinada a formar la mente y a educar el espíritu de las criaturas ascendentes. La mente y el espíritu reciben oportunidades semejantes para formarse y avanzar. Los universos del espacio son como enormes escuelas formativas, unas escuelas donde los peregrinos del tiempo avanzan de vida en vida y de mundo en mundo, hasta que son enviados con amor desde las fronteras de su universo de origen hacia el régimen educativo superior del superuniverso, y desde allí hacia los mundos de formación espiritual de Havona, y finalmente hacia el Paraíso y el elevado destino de los finalitarios - la asignación eterna a misiones aún no reveladas a los universos del tiempo y del espacio.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV44/XXXX.jpg">
+<img src="/image/article/Luz_y_Vida/LyV44/27.jpg">
 </figure>
 
 Esta formación de la mente y esta educación del espíritu se llevan a cabo desde los mundos de origen humano, pasando por los mundos de las mansiones del sistema y las otras esferas de progreso asociadas a Jerusem, hasta los setenta reinos de vida social vinculados a Edentia y las cuatrocientas noventa esferas de progreso espiritual que rodean a Salvington. 
@@ -198,7 +198,7 @@ En el séptimo mundo recibiremos la enseñanza de muchos educadores, y todos coo
 Llegados a Jerusem las actividades son de tres tipos distintos: trabajo, progreso y entretenimiento. Dicho de otra manera: servicio, estudio y distracción. Las actividades compuestas consisten en relaciones sociales, diversiones colectivas y adoración divina. El hecho de mezclarse con grupos distintos de personalidades, con órdenes muy diferentes a la de uno mismo, tiene un gran valor educativo.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV44/XXXX.jpg">
+<img src="/image/article/Luz_y_Vida/LyV44/28.jpg">
 </figure>
 
 Los supervivientes mortales pasan una gran parte de su tiempo libre en la capital del sistema observando y estudiando los hábitos de vida y la conducta de los Hijos e Hijas Materiales. Todos los supervivientes mortales que no han experimentado la paternidad en los mundos evolutivos deben adquirir esta formación necesaria mientras residen en los hogares de los Hijos Materiales de Jerusem como asociados parentales de estos magníficos padres y madres. Esto es así, salvo en la medida en que dichos mortales hayan sido capaces de compensar sus deficiencias en la guardería infantil del sistema, situada en el primer mundo de cultura de transición de Jerusem.

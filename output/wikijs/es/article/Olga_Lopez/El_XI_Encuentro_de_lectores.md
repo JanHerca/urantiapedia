@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones_del_XI_Encuentro">
           <span class="pr-2">El liderazgo en el movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -111,7 +111,7 @@ A la mañana siguiente, nos despedimos de los amigos con los que habíamos coinc
         </a>
         </td>
         <td>
-        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones_del_XI_Encuentro">
           <span class="pr-2">El liderazgo en el movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

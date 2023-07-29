@@ -78,7 +78,7 @@ El hecho de disponer de mente (aunque sea mente material), nos dota de conscienc
 La mente es el don estándar, por ser criatura, cuando anhelamos la supervivencia y adquirimos la habilidad de adorar, es decir, cuando hay respuesta espiritual en la criatura, la mente se transforma en «supermente», ya no es algo meramente material, comienza el proceso de espiritualizarse (<a id="a77_291"></a>[LU 36:5.15](/es/The_Urantia_Book/36#p5_15)), comienza la posibilidad de trascender la muerte (entiendo que todo esto puede ser anterior a la llegada del Ajustador)
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV26/06.jpg">
+<img src="/image/article/Luz_y_Vida/LyV27/06.jpg">
 </figure>
 
 Bajo mi punto de vista, el Ajustador trabaja 24 horas al día todos los días. Otra cosa es que su tarea sea más fácil durante nuestro sueño, pues le hacemos menos interferencias, no aparecen los temores y ansiedades que obstaculizan su trabajo.

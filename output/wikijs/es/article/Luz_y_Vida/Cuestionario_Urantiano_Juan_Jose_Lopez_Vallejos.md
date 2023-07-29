@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_09/JuanjoLopez.jpg" alt="Juan José López">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/JuanjoLopez.jpg" alt="Juan José López" width="200">
 </figure>
 
 Juan José reside en Pamplona. Está casado y tiene 5 hijos. Es doctor ingeniero I.C.A.I. Conoce _El Libro de Urantia_ desde hace unos 30 años. Participa en el grupo de estudio de la zona norte.

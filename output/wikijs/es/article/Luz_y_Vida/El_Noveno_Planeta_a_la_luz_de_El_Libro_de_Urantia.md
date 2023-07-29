@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia para estos tiempos">
+        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
           <span class="pr-2">Eugenesia para estos tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -177,7 +177,7 @@ He leído las noticias y ¿es un planeta gaseoso? Eso creo que significa que pro
         </a>
         </td>
         <td>
-        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia para estos tiempos">
+        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
           <span class="pr-2">Eugenesia para estos tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

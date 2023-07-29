@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV35/11.jpg">
+<img src="/image/article/Luz_y_Vida/LyV35/11.jpg" width="200">
 </figure>
 
 Jaime Marco es vicepresidente de la Asociación Urantia de España y responsable del grupo de estudio de Murcia. Es Ingeniero de Sistemas en activo y tiene las titulaciones de postgrado de Master en telemática avanzada y Master en matemáticas aplicadas a la ciencia e ingeniería por la universidad de Murcia. Tiene 50 años, está casado y tiene un hijo. Vive en Lorquí (Murcia).

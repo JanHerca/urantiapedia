@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_05/Gema-Villa.jpg" alt="Gema Villa">
+<img src="/image/article/Luz_y_Vida/LyV_2022_05/Gema-Villa.jpg" alt="Gema Villa" width="200">
 </figure>
 
 Soy de Madrid, pero desde hace ya 3 años vivo en Murcia y la verdad es que estoy encantada con el cambio. He pasado de vivir en una gran ciudad a un pequeño pueblo de pescadores. Este cambio me ha aportado mucha paz y tranquilidad.

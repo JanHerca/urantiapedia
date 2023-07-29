@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_04/Esteban-Cotan.png" alt="Esteban Cotán">
+<img src="/image/article/Luz_y_Vida/LyV_2022_04/Esteban-Cotan.png" alt="Esteban Cotán" width="200">
 </figure>
 
 Esteban Cotán vive en Olivares (Sevilla). Está jubilado, trabajó en la hostelería y de corredor de seguros. Es viudo y ha tenido cuatro hijos y diez nietos.

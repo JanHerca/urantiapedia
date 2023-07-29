@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-26<img src="/image/article/Luz_y_Vida/LyV1/04.jpg">
+26<img src="/image/article/Luz_y_Vida/LyV26/04.jpg">
 </figure>
 
 ## Olga López

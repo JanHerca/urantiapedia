@@ -41,7 +41,7 @@ En esta segunda entrega de «Convergencias y Divergencias» abordaremos un tema 
 De la lectura de este texto, lo primero que me acude a la mente es que los Reveladores (en este caso un Hijo Vorondadek) están aludiendo a lo que hoy comúnmente denominamos «cromosomas»... ¿o no os lo parece así?
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Luz_y_Vida/LyV26/04.jpg">
+<img src="/image/article/Luz_y_Vida/LyV27/04.jpg">
 </figure>
 
 Acerquémonos al concepto de cromosoma, entremos en materia y surge el primer escollo:

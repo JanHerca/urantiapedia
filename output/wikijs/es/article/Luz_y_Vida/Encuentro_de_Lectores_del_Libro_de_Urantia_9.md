@@ -231,7 +231,7 @@ En fin, cómo me explicaba Eduardo en una charla que tuvimos el primer día, cua
 Este IX Encuentro ha sido una experiencia excelente para mí y desde aquí animo a todo aquel lector del LU que pueda a que acuda a futuros encuentros. Esta forma de hermanamiento la considero altamente positiva y siempre rinde frutos personales.
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV21/XXXX.jpg">
+<img src="/image/article/Luz_y_Vida/LyV21/10.jpg">
 <figcaption><em>De izquierda a derecha: Mariano Pérez, Ismael Gracia y Carmelo Martínez.</em></figcaption>
 </figure>
 

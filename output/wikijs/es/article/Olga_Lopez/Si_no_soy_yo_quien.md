@@ -92,7 +92,7 @@ Así pues, no nos estorbemos mutuamente. Hay mucho trabajo que hacer, y de mucho
 
 > _Las matemáticas afirman que si una persona representa cierta unidad de valor intelectual y moral, diez personas representarían diez veces ese valor. Pero al tratar de la personalidad humana, sería más exacto decir que una asociación semejante de personalidades es igual al cuadrado del número de personalidades que figuran en la ecuación, en lugar de su simple suma aritmética. Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes._ <a id="a92_527"></a>[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)
 
-O sea que, al hablar de personalidades, $(a+b+c+\ldots +n) = (a+b+c+\ldots+n)^{2}$
+O sea que, al hablar de personalidades, (a + b + c + ... + n) = (a + b + c + ... + n)^2^
 
 El grupo es mucho más que la suma de las personas que lo conforman. Luego manejémoslo bien porque entonces no solo sumaremos: multiplicaremos.
 

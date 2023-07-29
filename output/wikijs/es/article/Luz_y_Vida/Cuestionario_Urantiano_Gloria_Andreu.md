@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_01/Gloria-Santos.png" alt="Gloria Andreu">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/Gloria-Santos.jpg" alt="Gloria Andreu" width="200">
 </figure>
 
 Gloria Andreu de los Santos nació en Sevilla y reside en Castilleja de la Cuesta (Sevilla). Ha trabajado como administrativa en la empresa privada y actualmente está jubilada. Es madre de dos hijos, chico y chica, de 36 y 34 años. Es lectora de _El Libro de Urantia_ desde los años 80.
