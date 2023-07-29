@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_las_ondas_gravitacionales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: las ondas gravitacionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-43-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 43 — Marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_22">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV43/11.jpg">
@@ -69,3 +93,27 @@ _El Libro de Urantia_ es una revelación para toda la humanidad, pero no todo el
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_las_ondas_gravitacionales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: las ondas gravitacionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-43-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 43 — Marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_22">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

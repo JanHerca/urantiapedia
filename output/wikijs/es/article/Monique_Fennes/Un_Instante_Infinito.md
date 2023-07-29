@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Monique Fennes<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/El_Dato">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El dato</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-4-febrero-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 4 — Febrero 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+          <span class="pr-2">Discernimiento y libre albedrío</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
@@ -40,3 +64,27 @@ Todo el esplendor y luz del firmamento.<br>
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/El_Dato">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El dato</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-4-febrero-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 4 — Febrero 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+          <span class="pr-2">Discernimiento y libre albedrío</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

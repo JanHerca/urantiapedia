@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Carmelo Martínez, Santiago Rodríguez, Antonio Moya, L. Coll<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo actúa el Ajustador del Pensamiento?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-27-diciembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 27 — Diciembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="pr-2">Ni laicismo ni religión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Participantes:**
 
@@ -21,7 +45,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Respecto a estas trilogías he encontrado otro párrafo interesante que puede ayudar a aclarar los conceptos; es el 196:3.2. Dice así:
 
-> «_Hay exactamente tres elementos en la realidad universal: hechos, ideas y relaciones. La conciencia religiosa identifica estas realidades como ciencia, filosofía y verdad. La filosofía se sentiría inclinada a considerar estas actividades como razón, sabiduría y fe — realidad física, realidad intelectual y realidad espiritual-. Nosotros tenemos la costumbre de designar estas realidades como cosas, significados y valores.»_» [LU 196:3.2](/es/The_Urantia_Book/196#p3_2)
+> «_Hay exactamente tres elementos en la realidad universal: hechos, ideas y relaciones. La conciencia religiosa identifica estas realidades como ciencia, filosofía y verdad. La filosofía se sentiría inclinada a considerar estas actividades como razón, sabiduría y fe — realidad física, realidad intelectual y realidad espiritual-. Nosotros tenemos la costumbre de designar estas realidades como cosas, significados y valores.»_» <a id="a47_430"></a>[LU 196:3.2](/es/The_Urantia_Book/196#p3_2)
 
 Reconozco que no lo tengo muy claro, pero voy a plantear, así y todo, algunos ejemplos para abrir el debate. No estoy seguro pero quizá sea:
 
@@ -125,7 +149,7 @@ Lo material, lo mental y lo espiritual. Seguramente se podrían añadir algunos 
 
 Y este párrafo de los intermedios es muy esclarecedor:
 
-> **Hay exactamente <ins>tres</ins> elementos en la realidad universal**: _los hechos, las ideas y las relaciones. La conciencia religiosa identifica estas realidades como ciencia, filosofia y verdad. La filosofía se siente inclinada a considerar estas actividades como razón, sabiduría y fe-la realidad física, la realidad intelectual y la realidad espiritual. Nosotros (los intermedios) tenemos la costumbre de distinguir estas realidades como cosas, significados y valores._ ([LU 196:3.2](/es/The_Urantia_Book/196#p3_2))
+> **Hay exactamente <ins>tres</ins> elementos en la realidad universal**: _los hechos, las ideas y las relaciones. La conciencia religiosa identifica estas realidades como ciencia, filosofia y verdad. La filosofía se siente inclinada a considerar estas actividades como razón, sabiduría y fe-la realidad física, la realidad intelectual y la realidad espiritual. Nosotros (los intermedios) tenemos la costumbre de distinguir estas realidades como cosas, significados y valores._ (<a id="a151_479"></a>[LU 196:3.2](/es/The_Urantia_Book/196#p3_2))
 
 Están por un lado las cosas (el Paraíso) y en las antípodas los valores (el Hijo Eterno). Los significados (el Espíritu Infinito) tratan de relacionar las cosas con los valores y/o viceversa.
 
@@ -137,11 +161,11 @@ Cuando Dios unifica de esta manera una parte de la Realidad Manifestada (y exclu
 
 Cuando hablamos de la verdad, la belleza y la bondad, me llaman la atención estos párrafos del libro:
 
-> _La verdad se conoce mejor por su sabor espiritual._ [LU 2:7.6](/es/The_Urantia_Book/2#p7_6)
+> _La verdad se conoce mejor por su sabor espiritual._ <a id="a163_55"></a>[LU 2:7.6](/es/The_Urantia_Book/2#p7_6)
 > 
-> _Toda verdad-material, filosófica o espirituales a la vez bella y buena. Toda autentica belleza-arte material o simetría espiritual-es la vez verdadera y buena. Toda bondad genuina -ya sea moralidad personal, equidad social o ministerio divino es igualmente verdadera y bella._ [LU 2:7.11](/es/The_Urantia_Book/2#p7_11)
+> _Toda verdad-material, filosófica o espirituales a la vez bella y buena. Toda autentica belleza-arte material o simetría espiritual-es la vez verdadera y buena. Toda bondad genuina -ya sea moralidad personal, equidad social o ministerio divino es igualmente verdadera y bella._ <a id="a165_280"></a>[LU 2:7.11](/es/The_Urantia_Book/2#p7_11)
 
-> _La verdad la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de vivir espiritualmente esas cualidades supremas del Eterno se hacen cada vez mas coordinadas y unificadas en Dios que es Amor._ ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> _La verdad la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de vivir espiritualmente esas cualidades supremas del Eterno se hacen cada vez mas coordinadas y unificadas en Dios que es Amor._ (<a id="a167_235"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 
 
@@ -173,8 +197,32 @@ Por si ayuda en algo, ahí va este texto del Documento 102, sección 3:
 
 > _En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios._ 
 > 
-> _La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema, y la filosofia con la unidad. La revelación afirma que las tres son una sola, y que todas son buenas. Lo real eterno es el bien del universo, y no las ilusiones temporales del mal espacial. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es el bien y que el bien es lo real._ [LU 102:3.5-14](/es/The_Urantia_Book/102#p3_5)
+> _La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema, y la filosofia con la unidad. La revelación afirma que las tres son una sola, y que todas son buenas. Lo real eterno es el bien del universo, y no las ilusiones temporales del mal espacial. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es el bien y que el bien es lo real._ <a id="a199_414"></a>[LU 102:3.5-14](/es/The_Urantia_Book/102#p3_5)
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo actúa el Ajustador del Pensamiento?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-27-diciembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 27 — Diciembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="pr-2">Ni laicismo ni religión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

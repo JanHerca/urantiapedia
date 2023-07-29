@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12">
+          <span class="pr-2">Luz y Vida — Diciembre 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -246,7 +267,7 @@ El agua es imprescindible para la vida y también se adapta a todo. Una de las c
 Otra de las cosas curiosas del agua es que contiene **hidrógeno y oxígeno;** el oxígeno es el principal ingrediente para el fuego y sin embargo **el agua apaga el fuego.** Otro de los misterios difíciles de entender.
 
 
-> El análisis técnico no revela lo que una persona o una cosa pueden hacer. Por ejemplo: el agua se emplea eficazmente para apagar el fuego. Que el agua apaga el fuego es un hecho de la experiencia cotidiana, pero ningún análisis del agua podría haber revelado nunca que posee esta propiedad. El análisis determina que el agua está compuesta de hidrógeno y de oxígeno; un estudio adicional de estos elementos revelaría que el oxígeno es el verdadero soporte de la combustión y que el hidrógeno mismo arde libremente. [LU 12:9.4](/es/The_Urantia_Book/12#p9_4)
+> El análisis técnico no revela lo que una persona o una cosa pueden hacer. Por ejemplo: el agua se emplea eficazmente para apagar el fuego. Que el agua apaga el fuego es un hecho de la experiencia cotidiana, pero ningún análisis del agua podría haber revelado nunca que posee esta propiedad. El análisis determina que el agua está compuesta de hidrógeno y de oxígeno; un estudio adicional de estos elementos revelaría que el oxígeno es el verdadero soporte de la combustión y que el hidrógeno mismo arde libremente. <a id="a269_517"></a>[LU 12:9.4](/es/The_Urantia_Book/12#p9_4)
 
 [Read more](/es/article/Luis_Coll/Los_secretos_del_agua)
 
@@ -289,3 +310,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12">
+          <span class="pr-2">Luz y Vida — Diciembre 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

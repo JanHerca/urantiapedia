@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_1">
+          <span class="pr-2">Reflexiones urantianas: Despertar a una nueva consciencia (primera parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La mirada
 
@@ -64,11 +88,11 @@ Lo cierto es que esta realidad inquietante ya está anunciada. Esta gran crisis 
 
 Hablamos de un sistema global en crisis que no va a perdurar en el tiempo, pues le falta el sustento espiritual:
 
-> Un sistema social duradero sin una moral basada en realidades espirituales es tan imposible de mantener como el sistema solar sin gravedad. ([LU 195:5.9](/es/The_Urantia_Book/195#p5_9))
+> Un sistema social duradero sin una moral basada en realidades espirituales es tan imposible de mantener como el sistema solar sin gravedad. (<a id="a90_143"></a>[LU 195:5.9](/es/The_Urantia_Book/195#p5_9))
 > 
-> Ningún sistema social ni régimen político que niegue la realidad de Dios puede contribuir de forma constructiva y duradera al progreso de la civilización humana. ([LU 195:10.7](/es/The_Urantia_Book/195#p10_7))
+> Ningún sistema social ni régimen político que niegue la realidad de Dios puede contribuir de forma constructiva y duradera al progreso de la civilización humana. (<a id="a92_165"></a>[LU 195:10.7](/es/The_Urantia_Book/195#p10_7))
 
-Por otra parte, podréis saber que una edad está madurando si sois sabios y estáis alerta para percibir los signos de los tiempos. Aprended de la higuera: cuando ya sus ramas se ponen tiernas y echa las hojas, sabéis que el verano está cerca. Así también vosotros, cuando el mundo haya pasado por el largo invierno de la mentalidad materialista y percibáis la llegada de la primavera espiritual de una nueva dispensación, deberíais saber que se acerca el verano de una nueva visitación. [LU 176:2.6](/es/The_Urantia_Book/176#p2_6)
+Por otra parte, podréis saber que una edad está madurando si sois sabios y estáis alerta para percibir los signos de los tiempos. Aprended de la higuera: cuando ya sus ramas se ponen tiernas y echa las hojas, sabéis que el verano está cerca. Así también vosotros, cuando el mundo haya pasado por el largo invierno de la mentalidad materialista y percibáis la llegada de la primavera espiritual de una nueva dispensación, deberíais saber que se acerca el verano de una nueva visitación. <a id="a94_486"></a>[LU 176:2.6](/es/The_Urantia_Book/176#p2_6)
 
 Como dijo el escritor Emilio Carrillo en una conferencia reciente: actualmente, esta sociedad ha aportado todo lo que tenía que aportar; el «traje» de esta humanidad se nos está quedando estrecho. ¿No sentís que este sistema de cosas se nos está quedando pequeño? ¿No estáis incómodos? Y es que muchas personas han crecido, madurado, y ya no nos convence la actual sociedad.
 
@@ -98,7 +122,7 @@ Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen 
 > 6. ¿Es el idealismo —el concepto de lo divino que se aproxima— deseable? Entonces el hombre debe luchar en un ambiente de bondad y belleza relativa, en entornos que estimulen la tendencia irreprimible hacia cosas mejores.
 > 7. ¿Es la lealtad —la entrega al deber más alto— deseable? Entonces el hombre debe avanzar entre posibilidades de traición y de abandono. El valor de la entrega al deber consiste en el peligro implícito de su incumplimiento.
 > 8. ¿Es la falta de egoísmo —el olvido de uno mismo— deseable? Entonces el hombre mortal debe vivir cara a cara con el clamar incesante de un ego ineludible que busca reconocimiento y honor. El hombre no podría elegir activamente la vida divina si no hubiera una vida propia a la que renunciar. El hombre no podría depositar nunca su confianza de salvación en la rectitud si no hubiera un mal potencial que exaltar y un bien que diferenciar por contraste.
-> 9. ¿Es el placer —la satisfacción de la felicidad— deseable? Entonces el hombre debe vivir en un mundo en el que la alternativa del dolor y la probabilidad de sufrir sean posibilidades experienciales siempre presentes. ([LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
+> 9. ¿Es el placer —la satisfacción de la felicidad— deseable? Entonces el hombre debe vivir en un mundo en el que la alternativa del dolor y la probabilidad de sufrir sean posibilidades experienciales siempre presentes. (<a id="a124_222"></a>[LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
 
 Sabiendo que nada es azaroso, el panorama del mundo distópico que observamos es una portentosa escuela de crecimiento en consciencia, una universidad que podemos aprovechar para abrir la mente y el corazón, para forjar almas más plenas. Al crecer y aspirar a más, podremos mirar la realidad con la perspectiva espiritual adecuada, completa y no desconectada de la trascendencia.
 
@@ -119,3 +143,27 @@ Abramos los ojos y miremos…
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_1">
+          <span class="pr-2">Reflexiones urantianas: Despertar a una nueva consciencia (primera parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

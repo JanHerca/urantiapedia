@@ -148,16 +148,16 @@ Así pudimos experimentar _El Libro de Urantia_ en Colombia, ya que se está apl
 
 Las siguientes preguntas están diseñadas para entretenerte y desafiarte con respecto a tu conocimiento de _El Libro de Urantia_. Las respuestas se dan por número de artículo, sección y párrafo. ¡Disfruta! ¡Y sin mirar de antemano!
 1. ¿Cuándo operó por primera vez el circuito de los arcángeles desde Urantia? (<a id="a149_79"></a>[LU 189:3.2](/es/The_Urantia_Book/189#p3_2))
-2. Complete los espacios en blanco «<u>        </u> <u>          </u> <u>         </u> favorecerán la paz en Urantia mucho más que toda la sofistería sensiblera de los planes quiméricos de paz.» (<a id="a150_212"></a>[LU 70:3.4](/es/The_Urantia_Book/70#p3_4))
+2. Complete los espacios en blanco «<u>        </u> <u>          </u> <u>         </u> favorecerán la paz en Urantia mucho más que toda la sofistería sensiblera de los planes quiméricos de paz.» (<a id="a150_196"></a>[LU 70:3.4](/es/The_Urantia_Book/70#p3_4))
 3. ¿Cuántas apariciones morontiales hizo Jesús? (<a id="a151_49"></a>[LU 193:3.1](/es/The_Urantia_Book/193#p3_1))
 4. Nombre los siete espíritus ayudantes de la mente. (<a id="a152_54"></a>[LU 36:5.5-12](/es/The_Urantia_Book/36#p5_5))
 5. ¿Cuántas huestes angelicales componen un ejército angelical? (<a id="a153_65"></a>[LU 38:6.2](/es/The_Urantia_Book/38#p6_2))
 6. ¿Quién es Gavalia? (<a id="a154_23"></a>[LU 37:2.6](/es/The_Urantia_Book/37#p2_6))
-7. ¿Cuántos cambios experimentarás en tu forma morontial a medida que progreses a través de la vida morontial de Nebadon? (<a id="a155_121"></a>[LU 48:1.5](/es/The_Urantia_Book/48#p1_5))
+7. ¿Cuántos cambios experimentarás en tu forma morontial a medida que progreses a través de la vida morontial de Nebadon? (<a id="a155_123"></a>[LU 48:1.5](/es/The_Urantia_Book/48#p1_5))
 8. «<u>         </u> es el antídoto divino para la exaltación del ego.» (<a id="a156_73"></a>[LU 48:4.15](/es/The_Urantia_Book/48#p4_15))
 9. ¿A quién se refirieron los apóstoles como «Jefe»? (<a id="a157_54"></a>[LU 139:1.2](/es/The_Urantia_Book/139#p1_2))
-10. Nombra tantas como puedas de las diez mujeres seleccionadas y comisionadas por Jesús como las primeras miembros del cuerpo evangelístico de mujeres. (<a id="a158_153"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1))
-11. «Solo un <u>         </u> <u>          ;</u> puede restablecer las líneas de comunicación interplanetarias de ese mundo espiritualmente aislado.» (<a id="a159_150"></a>[LU 35:9.9](/es/The_Urantia_Book/35#p9_9))
+10. Nombra tantas como puedas de las diez mujeres seleccionadas y comisionadas por Jesús como las primeras miembros del cuerpo evangelístico de mujeres. (<a id="a158_154"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1))
+11. «Solo un <u>         </u> <u>          ;</u> puede restablecer las líneas de comunicación interplanetarias de ese mundo espiritualmente aislado.» (<a id="a159_151"></a>[LU 35:9.9](/es/The_Urantia_Book/35#p9_9))
 12. Defina un «agondontero». (<a id="a160_30"></a>[LU 50:7.2](/es/The_Urantia_Book/50#p7_2))
 
 

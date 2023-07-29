@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ginés Avilés y José Manuel Duarte<br>© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La carrera de ascensión a vista de pájaro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-44-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 44 — Junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="pr-2">La supervivencia de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Ayudas Internas
 
@@ -35,10 +59,10 @@ La adoración se entiende como una especie de admiración exaltada y puede ser r
 > **Adoración**
 > 
 > DEFINICIONES:
-> - Adorar = Admirar, poner en alta estima o grado alyún valor/-es divinos de Dios o Jesús [LU 143:7.3](/es/The_Urantia_Book/143#p7_3) [LU 143:7.7](/es/The_Urantia_Book/143#p7_7) [LU 143:7.8](/es/The_Urantia_Book/143#p7_8)
-> - Reacción natural y espontanea ante el reconocimiento de la personalidad del Padre y de su naturaleza de amor y sus atributos dignos de veneración. [LU 5:3.3](/es/The_Urantia_Book/5#p3_3)
-> - Perseguir los valores divinos y amar al Dador de esos Valores [LU 16:8.14](/es/The_Urantia_Book/16#p8_14)
-> - Contemplación de lo espiritual [LU 143:7.3](/es/The_Urantia_Book/143#p7_3)
+> - Adorar = Admirar, poner en alta estima o grado alyún valor/-es divinos de Dios o Jesús <a id="a61_91"></a>[LU 143:7.3](/es/The_Urantia_Book/143#p7_3) <a id="a61_135"></a>[LU 143:7.7](/es/The_Urantia_Book/143#p7_7) <a id="a61_179"></a>[LU 143:7.8](/es/The_Urantia_Book/143#p7_8)
+> - Reacción natural y espontanea ante el reconocimiento de la personalidad del Padre y de su naturaleza de amor y sus atributos dignos de veneración. <a id="a62_151"></a>[LU 5:3.3](/es/The_Urantia_Book/5#p3_3)
+> - Perseguir los valores divinos y amar al Dador de esos Valores <a id="a63_66"></a>[LU 16:8.14](/es/The_Urantia_Book/16#p8_14)
+> - Contemplación de lo espiritual <a id="a64_35"></a>[LU 143:7.3](/es/The_Urantia_Book/143#p7_3)
 {.is-info}
 
 Esta técnica hace posible la religión del espíritu que Jesús nos enseña, donde lo importante es Ser frente a la religión tradicional o de la mente donde, independientemente de cómo uno sea, lo importante es Hacer. El dinamismo intelectual frente al asentamiento intelectual, las cadenas a las que se refería Jesús.
@@ -47,7 +71,7 @@ Esta técnica hace posible la religión del espíritu que Jesús nos enseña, do
 > 
 > ¿qué pasa cuando adoramos?
 > 
-> - Al adorar ponemos en alto valor una o varias características divinas y eso nos induce naturalmente, consciente o inconscientemente, a transformarnos a nosotros mismos como personas más cercanas a ese ideal, a identificarnos a nosotros mismos con ello. [LU 143:7.5](/es/The_Urantia_Book/143#p7_5); [LU 143:7.6](/es/The_Urantia_Book/143#p7_6); [LU 92:0.4](/es/The_Urantia_Book/92#p0_4); [LU 5:4.5](/es/The_Urantia_Book/5#p4_5) [LU 36:5.17](/es/The_Urantia_Book/36#p5_17) [LU 160:5.3](/es/The_Urantia_Book/160#p5_3); [LU 91:5.1](/es/The_Urantia_Book/91#p5_1); [LU 196:3.22](/es/The_Urantia_Book/196#p3_22); [LU 102:4.5](/es/The_Urantia_Book/102#p4_5); [LU 146:2.17](/es/The_Urantia_Book/146#p2_17) Jesús enseñó que la adoración hace al adorador cada vez más semejante al ser que adora ( FE ??)
+> - Al adorar ponemos en alto valor una o varias características divinas y eso nos induce naturalmente, consciente o inconscientemente, a transformarnos a nosotros mismos como personas más cercanas a ese ideal, a identificarnos a nosotros mismos con ello. <a id="a73_256"></a>[LU 143:7.5](/es/The_Urantia_Book/143#p7_5); <a id="a73_301"></a>[LU 143:7.6](/es/The_Urantia_Book/143#p7_6); <a id="a73_346"></a>[LU 92:0.4](/es/The_Urantia_Book/92#p0_4); <a id="a73_389"></a>[LU 5:4.5](/es/The_Urantia_Book/5#p4_5) <a id="a73_429"></a>[LU 36:5.17](/es/The_Urantia_Book/36#p5_17) <a id="a73_473"></a>[LU 160:5.3](/es/The_Urantia_Book/160#p5_3); <a id="a73_518"></a>[LU 91:5.1](/es/The_Urantia_Book/91#p5_1); <a id="a73_561"></a>[LU 196:3.22](/es/The_Urantia_Book/196#p3_22); <a id="a73_608"></a>[LU 102:4.5](/es/The_Urantia_Book/102#p4_5); <a id="a73_653"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17) Jesús enseñó que la adoración hace al adorador cada vez más semejante al ser que adora ( FE ??)
 > - Capacidad distintiva respecto animales, de ser un corredor de la
 > - Evita el male impide el pecado + Acción salvadora de los peligros del materialismo
 {.is-info}
@@ -59,10 +83,10 @@ Esta técnica hace posible la religión del espíritu que Jesús nos enseña, do
 > 
 > 
 > - Libre albedrío: nada nos impide adorar y realizarde alguna forma los ideales divinos
-> - Pto de inicio antes de adorar: relajación + cualquier otro contacto con el espiritu [LU 103:4.1](/es/The_Urantia_Book/103#p4_1); [LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
-> - La iniquidad corta esta y otras formas de contacto con el espíritu [LU 146:2.2](/es/The_Urantia_Book/146#p2_2)
-> - Cuanto más y mejor lo conocemos a Él, más calidad tiene la adoración [LU 27:7.1](/es/The_Urantia_Book/27#p7_1); [LU 144:3.23](/es/The_Urantia_Book/144#p3_23)
-> - Visión Amplia: Adoramos a Dios cuando hacemos su Voluntad [LU 131:5.3](/es/The_Urantia_Book/131#p5_3); [LU 131:10.5](/es/The_Urantia_Book/131#p10_5)
+> - Pto de inicio antes de adorar: relajación + cualquier otro contacto con el espiritu <a id="a85_88"></a>[LU 103:4.1](/es/The_Urantia_Book/103#p4_1); <a id="a85_133"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
+> - La iniquidad corta esta y otras formas de contacto con el espíritu <a id="a86_71"></a>[LU 146:2.2](/es/The_Urantia_Book/146#p2_2)
+> - Cuanto más y mejor lo conocemos a Él, más calidad tiene la adoración <a id="a87_73"></a>[LU 27:7.1](/es/The_Urantia_Book/27#p7_1); <a id="a87_116"></a>[LU 144:3.23](/es/The_Urantia_Book/144#p3_23)
+> - Visión Amplia: Adoramos a Dios cuando hacemos su Voluntad <a id="a88_62"></a>[LU 131:5.3](/es/The_Urantia_Book/131#p5_3); <a id="a88_107"></a>[LU 131:10.5](/es/The_Urantia_Book/131#p10_5)
 {.is-info}
 
 Hay otras formas de contacto con el espíritu en la mente relacionadas con la adoración. En primer lugar, la oración de acción de gracias es presentada como la oración ideal u otra forma de adoración, igualándola con ésta. Y por último, tenemos la meditación reflexiva adoradora.
@@ -77,23 +101,23 @@ He aquí algunas citas de donde las ideas han sido obtenidas, así como las bús
 
 > **Oración de Acción de Gracias**
 > 
-> - La oración de acción de gracias es igual a la adoración. [LU 131:1.8](/es/The_Urantia_Book/131#p1_8)
-> - La adoración es el rezo ideal. [LU 144:2.2](/es/The_Urantia_Book/144#p2_2)
+> - La oración de acción de gracias es igual a la adoración. <a id="a103_61"></a>[LU 131:1.8](/es/The_Urantia_Book/131#p1_8)
+> - La adoración es el rezo ideal. <a id="a104_35"></a>[LU 144:2.2](/es/The_Urantia_Book/144#p2_2)
 {.is-info}
 
 > **Meditación Reflexiva Adoradora**
 > 
 > - Necesitamos un cuerpo normal y una salud razonablemente buena
 > - Reposo o relajación (determina la capacidad de receptividad espiritual)
-> - Mejor a solas  [LU 160:1.10](/es/The_Urantia_Book/160#p1_10) [LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
+> - Mejor a solas  <a id="a111_19"></a>[LU 160:1.10](/es/The_Urantia_Book/160#p1_10) <a id="a111_65"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
 > - Meditación pone en contacto mente con espiritu. (Sensación de contacto íntimo y de paz mental)
 > - Dirección u Objetivo
 > 	- Meditación Reflexiva=encuesta solitaria de los problemas del vivir
 > 	- Meditación Reflexiva y más allá Adoradora. En mi opinión resolver los conflictos en la base de adorar (=realizar) a Dios o las características que lo definen (valores divinos = atracciones que despierten las durmientes fuerzas espirituales del hombre)
-> 	- Hacerla un hábito de crecimiento espiritual (junto con la devoción religiosa) [LU 100:1.8](/es/The_Urantia_Book/100#p1_8)
+> 	- Hacerla un hábito de crecimiento espiritual (junto con la devoción religiosa) <a id="a116_83"></a>[LU 100:1.8](/es/The_Urantia_Book/100#p1_8)
 {.is-info}
 
-En conclusión, el objetivo general de la presentación fue resaltar algunas guías que nos da el libro y que nos sirven para crecer y avanzar en la carrera ascendente, nuestra auténtica misión y objetivo espiritual en la eternidad. Pero advertencia a navengantes: _No puede haber paz en el corazón ni progreso en la mente, a menos que os enamoréis de todo corazón de la verdad, de los ideales de las realidades eternas_ ([LU 157:2.2](/es/The_Urantia_Book/157#p2_2)). El amor a la Verdad es la energía que nos lleva hacia el Padre, ¿amamos suficientemente la Verdad para realizar este gratificante pero tortuoso camino?
+En conclusión, el objetivo general de la presentación fue resaltar algunas guías que nos da el libro y que nos sirven para crecer y avanzar en la carrera ascendente, nuestra auténtica misión y objetivo espiritual en la eternidad. Pero advertencia a navengantes: _No puede haber paz en el corazón ni progreso en la mente, a menos que os enamoréis de todo corazón de la verdad, de los ideales de las realidades eternas_ (<a id="a119_419"></a>[LU 157:2.2](/es/The_Urantia_Book/157#p2_2)). El amor a la Verdad es la energía que nos lleva hacia el Padre, ¿amamos suficientemente la Verdad para realizar este gratificante pero tortuoso camino?
 
 ## Ayudas Físicas y Materiales 
 
@@ -261,3 +285,27 @@ Uversa, la sede de Orvonton, nuestro superuniverso, está rodeada directamente p
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La carrera de ascensión a vista de pájaro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-44-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 44 — Junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="pr-2">La supervivencia de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

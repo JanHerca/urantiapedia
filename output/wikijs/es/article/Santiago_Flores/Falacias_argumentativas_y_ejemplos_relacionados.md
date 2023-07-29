@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Santiago Flores<br>© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_45_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 45 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-45-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 45 — Septiembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="pr-2">El gobierno de un planeta vecino: la utopía posible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (_Expuesto en la lista «El rincón de Urantia» en junio 2015_)
 
@@ -104,7 +128,7 @@ Como _El Libro de Urantia_ no niega la posibilidad de que los dinosaurios hayan 
 
 Si, si, ya sé que me dirán que _El Libro de Urantia_ dice que la voluntad no apareció hasta que nacieron Andón y Fonta, pero eso es un caso general... y esto es un caso particular. Este es un planeta decimal, además, ¿no notaron que el Príncipe Planetario tardó medio millón de años en venir luego de aparecer la voluntad de Andón y Fonta? Eso es porque la voluntad ya se había desarrollado entre los dinosaurios, pero no cundió porque casi se extinguieron poco después, entonces los Altísimos quisieron asegurarse de que los descendientes de Andón y Fonta no se extinguirían antes de enviar al Príncipe, además segregaron las dos razas porque es una rareza del universo que se hayan desarrollado saurios inteligentes y la economía universal no iba a desperdiciar esa oportunidad, claro que no.
 
-En [LU 49:2.18](/es/The_Urantia_Book/49#p2_18), dice claramente «_Pero estas modificaciones de las criaturas inteligentes primitivas no son ni peces humanos ni pájaros humanos. Son de los tipos humanos y prehumanos, ni superpeces ni pájaros glorificados sino claramente mortales._» ¡Aquí está la prueba! Dice: «_ni superpeces ni pájaros glorificados_» pero ni menciona a los dinosaurios, ¿lo notaron? Por eso aquí deja abierta la posibilidad de que los dinosaurios (que no son ni peces ni pájaros) puedan desarrollar inteligencia.
+En <a id="a130_3"></a>[LU 49:2.18](/es/The_Urantia_Book/49#p2_18), dice claramente «_Pero estas modificaciones de las criaturas inteligentes primitivas no son ni peces humanos ni pájaros humanos. Son de los tipos humanos y prehumanos, ni superpeces ni pájaros glorificados sino claramente mortales._» ¡Aquí está la prueba! Dice: «_ni superpeces ni pájaros glorificados_» pero ni menciona a los dinosaurios, ¿lo notaron? Por eso aquí deja abierta la posibilidad de que los dinosaurios (que no son ni peces ni pájaros) puedan desarrollar inteligencia.
 
 Como no hemos visto saurios inteligentes por ahí, es obvio que deben haberse escondido en algún lugar, y como son tantos y tan grandes solo podemos explicar su escondite con la teoría de la Tierra hueca, que debe ser cierta además porque una gran cantidad de gente la cree.
 
@@ -123,3 +147,27 @@ Busquen en internet «El escándalo Bogdanov» y verán cómo un largo escrito c
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_45_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 45 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-45-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 45 — Septiembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="pr-2">El gobierno de un planeta vecino: la utopía posible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

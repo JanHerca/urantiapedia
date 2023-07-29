@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Víctor Izquierdo<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los mundos de estancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="pr-2">La evolución de la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introducción de Víctor Izquierdo
@@ -39,7 +63,7 @@ Cualquier mundo puede lograr los valores planetarios de cualquier etapa de forma
 
 _El templo morontial_: la presencia del templo morontial es el certificado de admisión en las edades de luz y vida. Los Hijos Instructores presiden el día en que el santo templo desciende a la tierra, antes de que abandonen ese mundo al fin de su misión.
 
-Este acontecimiento se ve siempre honrado con la presencia del Hijo Paradisíaco de Efusión en dicho planeta, y marca el principio de la Era de Luz y Vida. Este Hijo proclama al Príncipe Planetario como nuevo Soberano Planetario, otorgando a este Hijo Lanonandec nuevos poderes y mayor autoridad sobre los asuntos planetarios. El Soberano del Sistema también está presente y confirma estas declaraciones ([LU 45:2.2](/es/The_Urantia_Book/45#p2_2)).
+Este acontecimiento se ve siempre honrado con la presencia del Hijo Paradisíaco de Efusión en dicho planeta, y marca el principio de la Era de Luz y Vida. Este Hijo proclama al Príncipe Planetario como nuevo Soberano Planetario, otorgando a este Hijo Lanonandec nuevos poderes y mayor autoridad sobre los asuntos planetarios. El Soberano del Sistema también está presente y confirma estas declaraciones (<a id="a65_404"></a>[LU 45:2.2](/es/The_Urantia_Book/45#p2_2)).
 
 El templo morontial está constituido de 3 partes:
 - Central: Santuario del Hijo Paradisíaco de Efusión
@@ -144,3 +168,27 @@ Tal y como nos dice el Libro, la verdadera religión es una manera de vivir. La 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los mundos de estancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="pr-2">La evolución de la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

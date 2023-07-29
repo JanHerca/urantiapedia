@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Luis Coll<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Carrera/Trinizando">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinizando</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-20-marzo-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 20 — Marzo 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_6">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El tema de los ovnis y alienígenas es un tema bastante de actualidad, a veces tanto que podemos encontrarnos «ovnis» y alienígenas hasta en la sopa.
 
@@ -18,7 +42,7 @@ El universo es un lugar de paz y orden, no existen «Guerras de la galaxias». E
 
 El tema de los ovnis no es nada nuevo y es tan antiguo como la humanidad misma. En diferentes culturas y países podemos encontrar «rastros» de ellos, también en libros y escritos muy antiguos. En la Biblia por ejemplo «_la columna de fuego que guiaba a Moisés y los hijos de Israel_» ([Éxodo 13:21,22](/es/Bible/Exodus/13#v21)). La visión del profeta Ezequiel de «_una gran nube con un fuego envolvente_» y «_su apariencia como rueda en medio de rueda_» ([Ezequiel 1](/es/Bible/Ezekiel/1)) Hoy en día a eso lo llamaríamos platillos volantes. Los investigadores sobre este asunto muy bien nos podrían decir que han encontrado «pistas» de esos objetos en diferentes culturas, libros y testimonios en persona de la propia gente que los ha visto.
 
-En algunos libros históricos y en escritos de diferentes culturas y en _El Libro de Urantia_ que fue dado en 1955, también podemos encontrar algunas pistas sobre las actividades de esos seres: «_los dos transportes seráficos_» ([LU 74:0.1](/es/The_Urantia_Book/74#p0_1)), «_llegada transportes seráficos_» ([LU 75:6.3](/es/The_Urantia_Book/75#p6_3)) «_una nube plateada se les acercó y ensombreció a los cuatro._» ([LU 158:1.10](/es/The_Urantia_Book/158#p1_10)) ángeles, Mensajeros, atravesadores del espacio etc. ([LU 39:3.8](/es/The_Urantia_Book/39#p3_8))
+En algunos libros históricos y en escritos de diferentes culturas y en _El Libro de Urantia_ que fue dado en 1955, también podemos encontrar algunas pistas sobre las actividades de esos seres: «_los dos transportes seráficos_» (<a id="a44_228"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)), «_llegada transportes seráficos_» (<a id="a44_307"></a>[LU 75:6.3](/es/The_Urantia_Book/75#p6_3)) «_una nube plateada se les acercó y ensombreció a los cuatro._» (<a id="a44_415"></a>[LU 158:1.10](/es/The_Urantia_Book/158#p1_10)) ángeles, Mensajeros, atravesadores del espacio etc. (<a id="a44_515"></a>[LU 39:3.8](/es/The_Urantia_Book/39#p3_8))
 
 > **_El Libro de Urantia_ no es un libro de ovnis, ni se dedica en particular a este tema. Para eso ya hay investigadores y ufólogos que se dedican a ese asunto.**
 {.is-info}
@@ -45,7 +69,7 @@ Casi todas las personas, desde campesinos hasta militares y pilotos de aviones q
 
 El propio Comandante de los Ángeles y las Huestes Seráficas, Gabriel (lo que hoy en día llamaríamos comúnmente ET), cuando se apareció a María para darle la noticia del nacimiento de Jesús, lo hizo de la forma más normal y natural. María no se había preparado en absoluto para ese encuentro y se asustó bastante, menos mal que las tranquilizadoras palabras de Gabriel la calmaron.
 
-También otro elevado ser que estuvo en este mundo para cumplir una misión, Melquisedek, vino de la forma más natural y normal manifestándose por primera vez a un pastor caldeo en la antigua Salem (Palestina). «_Su llegada no fue espectacular, su materialización no fue contemplada por los ojos humanos. La primera vez que un hombre mortal lo observó fue el día memorable en que entró en la tienda de Amdón un pastor caldeo de origen sumerio._» ([LU 93:2.1](/es/The_Urantia_Book/93#p2_1))
+También otro elevado ser que estuvo en este mundo para cumplir una misión, Melquisedek, vino de la forma más natural y normal manifestándose por primera vez a un pastor caldeo en la antigua Salem (Palestina). «_Su llegada no fue espectacular, su materialización no fue contemplada por los ojos humanos. La primera vez que un hombre mortal lo observó fue el día memorable en que entró en la tienda de Amdón un pastor caldeo de origen sumerio._» (<a id="a71_445"></a>[LU 93:2.1](/es/The_Urantia_Book/93#p2_1))
 
 ## El futuro
 
@@ -72,3 +96,27 @@ En resumen: el tema de los «ovnis» es un tema bastante complejo y hay muy dive
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Carrera/Trinizando">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinizando</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-20-marzo-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 20 — Marzo 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_6">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

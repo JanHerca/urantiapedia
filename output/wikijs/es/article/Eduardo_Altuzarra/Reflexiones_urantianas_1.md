@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Javier_Martinez">
+          <span class="pr-2">Cuestionario Urantiano: Javier Martínez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Mi-parrafo-favorito.jpg" alt="Despertar a una nueva consciencia" width="250">
@@ -58,3 +82,27 @@ Se puede decir que atreverse a iniciarse en esta aventura interminable es para r
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Javier_Martinez">
+          <span class="pr-2">Cuestionario Urantiano: Javier Martínez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

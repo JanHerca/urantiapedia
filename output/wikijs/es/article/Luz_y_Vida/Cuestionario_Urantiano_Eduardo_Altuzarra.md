@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_aparicion_de_materia_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: aparición en la escena cósmica de la materia-energía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-38-diciembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 38 — Diciembre 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_18">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV38/07.jpg">
@@ -26,7 +50,7 @@ Cierto es que, quizás principalmente debido a mi educación religiosa en mi inf
 
 Ni qué decir tiene que nada de lo vivido durante todo ese largo periodo pudo darme una explicación convincente. En honor a la verdad, tengo que manifestar que no soy persona que se deje convencer fácilmente.
 
-En un momento dado, allá por la primavera de 1994, seguramente después de «desempacharme», harto de buscar y perder el tiempo en triquiñuelas del tres al cuarto, un buen día me acerqué a las estanterías de mi biblioteca, acaricié el pesado libro, lo tomé en mis manos y dejé que se abriera al azar... ¡Eureka! Se desplegó por [4:5](/es/The_Urantia_Book/4#p5) y leí: 5. LAS IDEAS ERRONEAS DE DIOS. A continuación comencé a leer y tanto me agradó lo que iba leyendo que hoy es la fecha en la que continúo con esa lectura, con esa historia que para mí, hoy por hoy, es interminable.
+En un momento dado, allá por la primavera de 1994, seguramente después de «desempacharme», harto de buscar y perder el tiempo en triquiñuelas del tres al cuarto, un buen día me acerqué a las estanterías de mi biblioteca, acaricié el pesado libro, lo tomé en mis manos y dejé que se abriera al azar... ¡Eureka! Se desplegó por <a id="a52_326"></a>[4:5](/es/The_Urantia_Book/4#p5) y leí: 5. LAS IDEAS ERRONEAS DE DIOS. A continuación comencé a leer y tanto me agradó lo que iba leyendo que hoy es la fecha en la que continúo con esa lectura, con esa historia que para mí, hoy por hoy, es interminable.
 
 ## 2. ¿Cuál fue tu primera impresión al leerlo?
 
@@ -107,3 +131,27 @@ Al final creo que Dios creó la eternidad para tenernos eternamente entretenidos
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_aparicion_de_materia_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: aparición en la escena cósmica de la materia-energía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-38-diciembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 38 — Diciembre 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_18">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Carmelo Martínez, L. Coll, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_23_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 23 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-23-diciembre-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 23 — Diciembre 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Morning_star">
+          <span class="pr-2">Lucero de la mañana (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Participantes:**
 
@@ -32,11 +56,11 @@ Se dice también que Hawking piensa que pronto se llegará a completar la famosa
 
 Ante esto caben dos comentarios:
 
-1- No es la primera vez que la ciencia cree que ha llegado al final de su desarrollo, que tiene teorías para explicarlo todo. Pasó ya en el siglo XVIII, y resulta que los grandes avances de la ciencia moderna se han dado justo después. («_... Cuanto más ciencia sabéis, menos seguros podéis estar_» [LU 102:1.3](/es/The_Urantia_Book/102#p1_3)) («_El conocimiento es una búsqueda eterna; siempre estáis aprendiendo, pero no tenéis nunca la posibilidad de llegar al conocimiento pleno de la verdad absoluta. Con el solo conocimiento no puede haber nunca certeza absoluta,..._» [LU 102:2.4](/es/The_Urantia_Book/102#p2_4))
+1- No es la primera vez que la ciencia cree que ha llegado al final de su desarrollo, que tiene teorías para explicarlo todo. Pasó ya en el siglo XVIII, y resulta que los grandes avances de la ciencia moderna se han dado justo después. («_... Cuanto más ciencia sabéis, menos seguros podéis estar_» <a id="a58_299"></a>[LU 102:1.3](/es/The_Urantia_Book/102#p1_3)) («_El conocimiento es una búsqueda eterna; siempre estáis aprendiendo, pero no tenéis nunca la posibilidad de llegar al conocimiento pleno de la verdad absoluta. Con el solo conocimiento no puede haber nunca certeza absoluta,..._» <a id="a58_575"></a>[LU 102:2.4](/es/The_Urantia_Book/102#p2_4))
 
-2- La ciencia y la religión son dos disciplinas que tratan de áreas totalmente diferentes del pensamiento humano; y por supuesto no son incompatibles. («_La ciencia trata de hechos; la religión se ocupa sólo de valores_» [LU 101:5.2](/es/The_Urantia_Book/101#p5_2)) Es posible que la ciencia llegue a explicar algún día todos los _hechos_ físicos, pero con ello no dirá nada (ni podrá decir nada) sobre el significado del universo y sobre los _valores_ que hay detrás de esos hechos: el plan del Padre. Nunca se podrá demostrar, ni siquiera concluir o atisbar, que Dios no existe (o que existe) con razonamientos de la ciencia o de cualquier otra disciplina humana. Para esto sólo vale la fe, y la fe es personal e intransferible; es una «parajoda» que la fe sea la única demostración posible de la existencia de Dios y que tal demostración valga sólo para la persona que tiene fe.
+2- La ciencia y la religión son dos disciplinas que tratan de áreas totalmente diferentes del pensamiento humano; y por supuesto no son incompatibles. («_La ciencia trata de hechos; la religión se ocupa sólo de valores_» <a id="a60_221"></a>[LU 101:5.2](/es/The_Urantia_Book/101#p5_2)) Es posible que la ciencia llegue a explicar algún día todos los _hechos_ físicos, pero con ello no dirá nada (ni podrá decir nada) sobre el significado del universo y sobre los _valores_ que hay detrás de esos hechos: el plan del Padre. Nunca se podrá demostrar, ni siquiera concluir o atisbar, que Dios no existe (o que existe) con razonamientos de la ciencia o de cualquier otra disciplina humana. Para esto sólo vale la fe, y la fe es personal e intransferible; es una «parajoda» que la fe sea la única demostración posible de la existencia de Dios y que tal demostración valga sólo para la persona que tiene fe.
 
-¡Qué poco se conoce en Urantia al verdadero Dios, a nuestro Padre del cielo! El Dios del que habla Hawking y otros es el de las religiones institucionales que no han conseguido aún captar plenamente la idea y asumir el ideal del Dios real y verdadero, el único que satisface cierta y totalmente las ansias de la mente humana. («_La eliminación fílosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortalidad de los falsos dioses; y aun cuando estas bajas que se producen en las deidades hechas por el hombre puedan nublar momentáneamente la visión espiritual, destruyen a la larga la ignorancia y la superstición que durante tanto tiempo oscurecieron al Dios vivo del amor eterno._» [LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
+¡Qué poco se conoce en Urantia al verdadero Dios, a nuestro Padre del cielo! El Dios del que habla Hawking y otros es el de las religiones institucionales que no han conseguido aún captar plenamente la idea y asumir el ideal del Dios real y verdadero, el único que satisface cierta y totalmente las ansias de la mente humana. («_La eliminación fílosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortalidad de los falsos dioses; y aun cuando estas bajas que se producen en las deidades hechas por el hombre puedan nublar momentáneamente la visión espiritual, destruyen a la larga la ignorancia y la superstición que durante tanto tiempo oscurecieron al Dios vivo del amor eterno._» <a id="a62_722"></a>[LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
 
 ## Coll
 
@@ -154,9 +178,9 @@ De los dos últimos enlaces que Carmelo nos ha indicado, extraigo lo siguiente:
 
 Y ahora observad lo que dice el LU:
 
-> _Pero el mecanismo divino del universo de universos es demasiado perfecto como para que los métodos científicos de la mente finita del hombre puedan discernir siquiera una huella de la dominación de la mente infinita._ [LU 42:11.2](/es/The_Urantia_Book/42#p11_2)
+> _Pero el mecanismo divino del universo de universos es demasiado perfecto como para que los métodos científicos de la mente finita del hombre puedan discernir siquiera una huella de la dominación de la mente infinita._ <a id="a180_221"></a>[LU 42:11.2](/es/The_Urantia_Book/42#p11_2)
 
-> _Unos mecanismos cósmicos extremadamente complejos y que parecen ampliamente automáticos tienden siempre a ocultar la presencia de la mente interna originadora o creativa a todas y cada una de las inteligencias situadas muy por debajo de los niveles universales de la naturaleza y de la capacidad del mecanismo mismo. Por eso es inevitable que los mecanismos superiores del universo parezcan desprovistos de inteligencia a las órdenes inferiores decriaturas._ [LU 42:11.6](/es/The_Urantia_Book/42#p11_6)
+> _Unos mecanismos cósmicos extremadamente complejos y que parecen ampliamente automáticos tienden siempre a ocultar la presencia de la mente interna originadora o creativa a todas y cada una de las inteligencias situadas muy por debajo de los niveles universales de la naturaleza y de la capacidad del mecanismo mismo. Por eso es inevitable que los mecanismos superiores del universo parezcan desprovistos de inteligencia a las órdenes inferiores decriaturas._ <a id="a182_462"></a>[LU 42:11.6](/es/The_Urantia_Book/42#p11_6)
 
 También me ha gustado esta otra opinión:
 
@@ -225,3 +249,27 @@ Me ha parecido muy interesante esa diferencia entre fe y don de Dios que ha come
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_23_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 23 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-23-diciembre-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 23 — Diciembre 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Morning_star">
+          <span class="pr-2">Lucero de la mañana (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

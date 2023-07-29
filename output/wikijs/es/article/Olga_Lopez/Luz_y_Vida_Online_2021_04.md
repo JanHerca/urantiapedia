@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="pr-2">Los secretos astronómicos del cielo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -58,7 +79,7 @@ Todo ello nos muestra un MOVIMIENTO URANTIA vibrante, dinámico, cada vez más i
 
 <br style="clear:both" />
 
-> «Deja de temer a los hombres, no tengas temor de predicar la buena nueva de la vida eterna a tus semejantes que languidecen en las tinieblas y tienen hambre de la luz de la verdad» [LU 192:2.11](/es/The_Urantia_Book/192#p2_11)
+> «Deja de temer a los hombres, no tengas temor de predicar la buena nueva de la vida eterna a tus semejantes que languidecen en las tinieblas y tienen hambre de la luz de la verdad» <a id="a81_183"></a>[LU 192:2.11](/es/The_Urantia_Book/192#p2_11)
 
 ## Trabajos – nuestras recomendaciones del mes
 
@@ -267,3 +288,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="pr-2">Los secretos astronómicos del cielo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

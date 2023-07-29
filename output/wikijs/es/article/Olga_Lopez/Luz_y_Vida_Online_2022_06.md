@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="pr-2">Luz y Vida — Junio 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -84,7 +105,7 @@ Este trabajo es en realidad un resumen de uno de los apéndices de la obra de Wi
 
 [**Libertad (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
 
-En este breve artículo, que el autor define como un himno a la libertad, se analiza esta cita de _El Libro de Urantia_: «A medida que ascendéis por la escala de la personalidad, aprendéis primero a ser leales, después a amar, después a ser filiales, y entonces podréis ser libres» [LU 39:4.11](/es/The_Urantia_Book/39#p4_11). El autor expone cada uno de los puntos que nos lleva a ser libres (ser leales, amar, ser filiales) apoyándose en otras citas del libro, así como las reflexiones que le provoca cada una de esas etapas. En palabras del autor, ser libre «es vivir en la seguridad más total. Es saber que nada malo nos puede suceder y que todas las fuerzas suprahumanas y personales contribuyen a nuestra felicidad. Todos nuestros miedos físicos o mentales desaparecen, incluso el último miedo que puede quedar tras los otros: el miedo de no ser capaz de amar».
+En este breve artículo, que el autor define como un himno a la libertad, se analiza esta cita de _El Libro de Urantia_: «A medida que ascendéis por la escala de la personalidad, aprendéis primero a ser leales, después a amar, después a ser filiales, y entonces podréis ser libres» <a id="a107_281"></a>[LU 39:4.11](/es/The_Urantia_Book/39#p4_11). El autor expone cada uno de los puntos que nos lleva a ser libres (ser leales, amar, ser filiales) apoyándose en otras citas del libro, así como las reflexiones que le provoca cada una de esas etapas. En palabras del autor, ser libre «es vivir en la seguridad más total. Es saber que nada malo nos puede suceder y que todas las fuerzas suprahumanas y personales contribuyen a nuestra felicidad. Todos nuestros miedos físicos o mentales desaparecen, incluso el último miedo que puede quedar tras los otros: el miedo de no ser capaz de amar».
 <br style="clear:both" />
 
 ---
@@ -301,3 +322,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="pr-2">Luz y Vida — Junio 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

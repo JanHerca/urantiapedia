@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Antonio Moya, Carmelo Martínez, Santiago Rodríguez<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_26_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 26 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-26-septiembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 26 — Septiembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="pr-2">La unificación de la personalidad (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Participantes:**
 
@@ -26,7 +50,7 @@ Y el LU (que no dice nada de lo que sucedió hace 14.000 millones de años, pasa
 
 > _Hace 25.000.000.000 de años se pudo contemplar la finalización del ciclo terciario de la vida nebular, lo que produjo la organización y la estabilización relativa de los extensos sistemas estelares derivados de esta nebulosa madre. Pero el proceso de contracción física y de creciente producción de calor continuó en la masa central del remanente nebular._
 > 
-> _Hace 10.000.000.000 de años empezó el ciclo cuaternario de Andronover. La masa nuclear había alcanzado el máximo de temperatura; se acercaba el punto crítico de condensación. El núcleo madre original se convulsionaba bajo la presión combinada de la tensión de la condensación de su propio calor interno y la creciente atracción gravitatoria mareomotriz del enjambre de sistemas solares liberados que lo rodeaban. Las erupciones nucleares que iban a inaugurar el segundo ciclo nebular de dispersión solar eran inminentes. El ciclo cuaternario de existencia nebular estaba a punto de empezar._ [LU 57:4.4-5](/es/The_Urantia_Book/57#p4_4)
+> _Hace 10.000.000.000 de años empezó el ciclo cuaternario de Andronover. La masa nuclear había alcanzado el máximo de temperatura; se acercaba el punto crítico de condensación. El núcleo madre original se convulsionaba bajo la presión combinada de la tensión de la condensación de su propio calor interno y la creciente atracción gravitatoria mareomotriz del enjambre de sistemas solares liberados que lo rodeaban. Las erupciones nucleares que iban a inaugurar el segundo ciclo nebular de dispersión solar eran inminentes. El ciclo cuaternario de existencia nebular estaba a punto de empezar._ <a id="a52_595"></a>[LU 57:4.4-5](/es/The_Urantia_Book/57#p4_4)
 
 El LU le da MUCHA más edad al universo, pues solo la nebulosa de Andronover empezó mucho antes: Hace 875.000.000.000 de años, la enorme nebulosa de Andronover, número 876.926, fue debidamente iniciada. ¿Qué pasó hace 14.000 millones de años, para que los científicos crean que EN ESE MOMENTO nació el universo?
 
@@ -158,3 +182,27 @@ Posiblemente se llegue a encontrar que las tres leyes de la termodinámica son a
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_26_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 26 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-26-septiembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 26 — Septiembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="pr-2">La unificación de la personalidad (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

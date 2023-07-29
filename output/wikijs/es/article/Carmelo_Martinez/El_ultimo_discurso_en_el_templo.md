@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Carmelo Martínez<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parábola de las minas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV37/10.jpg">
@@ -26,9 +47,9 @@ Después del bautismo, y para completar una vida humana, sólo le faltaba pasar 
 
 2\. _Revelar la voluntad del Padre_, lo que realizó en particular durante la llamada «vida pública».
 
-3\. _Poner «fin técnicamente a la rebelión de Lucifer en el sistema de Satania_, y que hagas todo esto como Hijo del Hombre» ([LU 120:2.2](/es/The_Urantia_Book/120#p2_2)).
+3\. _Poner «fin técnicamente a la rebelión de Lucifer en el sistema de Satania_, y que hagas todo esto como Hijo del Hombre» (<a id="a49_126"></a>[LU 120:2.2](/es/The_Urantia_Book/120#p2_2)).
 
-No se nos dan muchos detalles de lo que esto significa, pero lo hizo en el monte Hermón en septiembre del año 25 cuando, sin la ayuda de su guardiana personal y como Hijo del Hombre, se enfrentó a los rebeldes ([LU 134:8.9](/es/The_Urantia_Book/134#p8_9)).
+No se nos dan muchos detalles de lo que esto significa, pero lo hizo en el monte Hermón en septiembre del año 25 cuando, sin la ayuda de su guardiana personal y como Hijo del Hombre, se enfrentó a los rebeldes (<a id="a51_211"></a>[LU 134:8.9](/es/The_Urantia_Book/134#p8_9)).
 
 El trabajo público empezó realmente en enero del año 27. Durante todo el año 26, Jesús eligió a sus apóstoles y les estuvo formando.
 
@@ -73,3 +94,24 @@ Aparte de analizar el contenido mismo del discurso, nos podemos plantear pregunt
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parábola de las minas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

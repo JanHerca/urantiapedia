@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03">
+          <span class="pr-2">Luz y Vida — Marzo 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -32,7 +53,7 @@ Luz y Vida — marzo 2021
 
 María José Sánchez Santamaría
 
-> _LA ERA de luz y de vida es el logro evolutivo final de un mundo del tiempo y del espacio…_ [LU 55:0.1](/es/The_Urantia_Book/55#p0_1)
+> _LA ERA de luz y de vida es el logro evolutivo final de un mundo del tiempo y del espacio…_ <a id="a55_94"></a>[LU 55:0.1](/es/The_Urantia_Book/55#p0_1)
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/01.jpg" width="250">
@@ -214,3 +235,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03">
+          <span class="pr-2">Luz y Vida — Marzo 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

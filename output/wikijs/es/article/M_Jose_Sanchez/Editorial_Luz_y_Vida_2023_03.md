@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_2">
+          <span class="pr-2">Reflexiones urantianas: Despertar a una nueva consciencia (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-1.jpg" alt="Editorial marzo 2023-1">
@@ -26,21 +50,21 @@ Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir l
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
-> … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». [LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
+> … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». <a id="a52_372"></a>[LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
 > 
-> Muchas veces lo sagrado se presenta como lo más sencillo, y así aquel día ni los niños ni sus madres se dieron cuenta de que las inteligencias espectadoras de Nebadon estaban contemplando cómo jugaban los niños de Jericó con el Creador de un universo. [LU 167:6.3](/es/The_Urantia_Book/167#p6_3)
+> Muchas veces lo sagrado se presenta como lo más sencillo, y así aquel día ni los niños ni sus madres se dieron cuenta de que las inteligencias espectadoras de Nebadon estaban contemplando cómo jugaban los niños de Jericó con el Creador de un universo. <a id="a54_254"></a>[LU 167:6.3](/es/The_Urantia_Book/167#p6_3)
 
 Los niños y niñas carecían de cualquier tipo de consideración social en la época en la que vivió Jesús de Nazaret. Por ello, no puede extrañar que los discípulos les regañasen cuando alborotaban cerca del maestro. Para sorpresa de todos, sin embargo, Jesús los encumbra y da a entender que la pequeñez, la simplicidad, es el criterio definitivo del reino.
 
-> … el Maestro dijo: «Quiero liberar a los hombres para que puedan empezar de nuevo como niños pequeños una vida nueva y mejor». [LU 140:8.26](/es/The_Urantia_Book/140#p8_26)
+> … el Maestro dijo: «Quiero liberar a los hombres para que puedan empezar de nuevo como niños pequeños una vida nueva y mejor». <a id="a58_129"></a>[LU 140:8.26](/es/The_Urantia_Book/140#p8_26)
 
 Es más, Jesús llega a identificarse con ellos:
 
-> En su gigantesco intelecto adulto la fe del niño reinaba suprema sobre todos los asuntos relacionados con la consciencia religiosa. No es de extrañar que una vez dijera: «Si no os hacéis como niños, no entraréis en el reino». A pesar de que la fe de Jesús era como la de un niño, no era en ningún sentido infantil. [LU 196:0.12](/es/The_Urantia_Book/196#p0_12)
+> En su gigantesco intelecto adulto la fe del niño reinaba suprema sobre todos los asuntos relacionados con la consciencia religiosa. No es de extrañar que una vez dijera: «Si no os hacéis como niños, no entraréis en el reino». A pesar de que la fe de Jesús era como la de un niño, no era en ningún sentido infantil. <a id="a62_317"></a>[LU 196:0.12](/es/The_Urantia_Book/196#p0_12)
 
 Incluso leemos esta declaración que nos debe hacer reflexionar:
 
-> «Parece que el Padre del cielo ha ocultado algunas de estas verdades a los sabios y altivos, y las ha revelado a los niños pequeños…» [LU 144:8.8](/es/The_Urantia_Book/144#p8_8)
+> «Parece que el Padre del cielo ha ocultado algunas de estas verdades a los sabios y altivos, y las ha revelado a los niños pequeños…» <a id="a66_136"></a>[LU 144:8.8](/es/The_Urantia_Book/144#p8_8)
 
 Qué sorprendente es ver que una de las condiciones para seguir a Jesús, algo que reiteró bastante a sus discípulos de entonces (y a los de ahora, por supuesto) es «ser como niños». Un Maestro religioso de hace más de 2000 años tiene esa idea curiosa y extraña para lo que se estilaba entonces, y nos podemos preguntar: ¿por qué nos pone de modelo a los niños?
 
@@ -68,7 +92,7 @@ Pero la razón última por la que los adultos no jugamos es por el temor a hacer
 
 Precisamente, en _El Libro de Urantia_ observamos que Jesús jugaba con cierta frecuencia con los más pequeños, sin complejos y disfrutando. Algo de lo que podemos tomar nota los que decimos ser sus seguidores:
 
-> El ambiente del banquete era alegre y normal, salvo que todos los apóstoles estaban más serios que de costumbre. Jesús estaba excepcionalmente alegre y había jugado con los niños hasta el momento de sentarse a la mesa. [LU 172:1.4](/es/The_Urantia_Book/172#p1_4)
+> El ambiente del banquete era alegre y normal, salvo que todos los apóstoles estaban más serios que de costumbre. Jesús estaba excepcionalmente alegre y había jugado con los niños hasta el momento de sentarse a la mesa. <a id="a94_221"></a>[LU 172:1.4](/es/The_Urantia_Book/172#p1_4)
 
 - **La RISA**
 
@@ -76,11 +100,11 @@ Saber reírse, carcajearse, es algo raro entre los mayores: supone soltar el cue
 
 En _El Libro de Urantia_ observamos que el Maestro era conocido por su gran sentido del humor:
 
-> A Jesús le costó siempre comprender qué podían tener de malo ciertos juegos que estaban prohibidos durante el sabbat, aunque no dejó nunca de conformarse a los deseos de sus padres. Tenía una capacidad para el juego y el humor que encontró pocas oportunidades de expresarse en el entorno de su tiempo y generación… [LU 123:4.3](/es/The_Urantia_Book/123#p4_3)
+> A Jesús le costó siempre comprender qué podían tener de malo ciertos juegos que estaban prohibidos durante el sabbat, aunque no dejó nunca de conformarse a los deseos de sus padres. Tenía una capacidad para el juego y el humor que encontró pocas oportunidades de expresarse en el entorno de su tiempo y generación… <a id="a102_317"></a>[LU 123:4.3](/es/The_Urantia_Book/123#p4_3)
 
 A menudo utilizaba el humor como una forma de aliviar la tensión y promover la relajación y la armonía entre sus compañeros:
 
-> Estaban todos sentados en el jardín hacia el mediodía cuando apareció el Maestro. Los doce habían adoptado una actitud de solemne dignidad, y todos se pusieron en pie cuando se les acercó. Jesús relajó la tensión con esa sonrisa amistosa y fraternal tan característica suya siempre que sus seguidores se tomaban a sí mismos o a algo relacionado con ellos demasiado en serio. [LU 157:4.3](/es/The_Urantia_Book/157#p4_3)
+> Estaban todos sentados en el jardín hacia el mediodía cuando apareció el Maestro. Los doce habían adoptado una actitud de solemne dignidad, y todos se pusieron en pie cuando se les acercó. Jesús relajó la tensión con esa sonrisa amistosa y fraternal tan característica suya siempre que sus seguidores se tomaban a sí mismos o a algo relacionado con ellos demasiado en serio. <a id="a106_377"></a>[LU 157:4.3](/es/The_Urantia_Book/157#p4_3)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-4.jpg" alt="Editorial marzo 2023-4">
@@ -88,13 +112,13 @@ A menudo utilizaba el humor como una forma de aliviar la tensión y promover la 
 
 También descubrimos, con sorpresa, que existen seres celestiales como las ángeles de la diversión que se interesan por nuestro humor y trabajan para mejorarlo:
 
-> Las ángeles de la diversión. Son las serafines que fomentan los valores del juego, el humor y el descanso. Buscan siempre elevar las diversiones recreativas del hombre y promover así una utilización más provechosa del ocio humano. [LU 114:6.15](/es/The_Urantia_Book/114#p6_15)
+> Las ángeles de la diversión. Son las serafines que fomentan los valores del juego, el humor y el descanso. Buscan siempre elevar las diversiones recreativas del hombre y promover así una utilización más provechosa del ocio humano. <a id="a114_233"></a>[LU 114:6.15](/es/The_Urantia_Book/114#p6_15)
 
 Esta pequeña reflexión sobre esta faceta del evangelio nos hace ver lo importante que es no impedir que tu niño o niña se acerque a ti cuando meditas o rezas. Ponlo en el centro, como hizo el mismo Jesús con los niños y niñas que se le acercaban tantas veces.
 
 Esa ligereza, confianza, buen humor, ganas de jugar y aprender, receptividad… que poseen los más pequeños, las admiraba Jesús entonces y nos debe admirar a nosotros también.
 
-> Cuando llegó al jardín reunió a los apóstoles a su alrededor y prosiguió así su enseñanza: «Os resulta difícil recibir mi mensaje porque intentáis construir la nueva enseñanza directamente sobre la antigua, pero yo os digo que debéis renacer. Tenéis que empezar de nuevo como niños pequeños y estar dispuestos a confiar en mi enseñanza y a creer en Dios. [LU 140:6.2](/es/The_Urantia_Book/140#p6_2)
+> Cuando llegó al jardín reunió a los apóstoles a su alrededor y prosiguió así su enseñanza: «Os resulta difícil recibir mi mensaje porque intentáis construir la nueva enseñanza directamente sobre la antigua, pero yo os digo que debéis renacer. Tenéis que empezar de nuevo como niños pequeños y estar dispuestos a confiar en mi enseñanza y a creer en Dios. <a id="a120_357"></a>[LU 140:6.2](/es/The_Urantia_Book/140#p6_2)
 
 Miremos la fragilidad de los niños y niñas para darnos cuenta de que todos tenemos dentro, a mayor o menor profundidad, el niño o niña que fuimos un día. Pero no se trata de volver a ser otra vez esa niña o niño que fuimos, sino de serlo después de haber dejado atrás esa etapa de la vida. «La vida espiritual no invita a una ingenuidad infantil, sino consciente. No a un candor ignorante, sino sabio. Te invita a la inocencia desde la experiencia», afirma el sacerdote Pablo d’Ors.
 
@@ -106,14 +130,38 @@ Miremos la fragilidad de los niños y niñas para darnos cuenta de que todos ten
 
 Los más pequeños son nuestros maestros a la hora de poder encontrar equilibrio en la vida:
 
-> La adoración —la contemplación de lo espiritual— debe alternar con el servicio, el contacto con la realidad material. El trabajo debería alternar con el juego; la religión debería estar contrapesada por el humor. [LU 143:7.3](/es/The_Urantia_Book/143#p7_3)
+> La adoración —la contemplación de lo espiritual— debe alternar con el servicio, el contacto con la realidad material. El trabajo debería alternar con el juego; la religión debería estar contrapesada por el humor. <a id="a132_215"></a>[LU 143:7.3](/es/The_Urantia_Book/143#p7_3)
 
 Nuestro querido Maestro amaba y respetaba a los niños y niñas, los tuvo en cuenta en su vida y su mensaje. Incluso en los mensajes finales no se olvidó de ellos:
 
-> Este evangelio del reino pertenece tanto a los judíos como a los gentiles, a los ricos como a los pobres, a los libres como a los esclavos, a los hombres como a las mujeres, **incluso a los niños pequeños**. Y **todos** habéis de proclamar este evangelio de amor y verdad mediante la vida que vivís en la carne. [LU 191:6.2](/es/The_Urantia_Book/191#p6_2), negrita añadida
+> Este evangelio del reino pertenece tanto a los judíos como a los gentiles, a los ricos como a los pobres, a los libres como a los esclavos, a los hombres como a las mujeres, **incluso a los niños pequeños**. Y **todos** habéis de proclamar este evangelio de amor y verdad mediante la vida que vivís en la carne. <a id="a136_314"></a>[LU 191:6.2](/es/The_Urantia_Book/191#p6_2), negrita añadida
 
 Así de desconcertante, antisistema, asombroso es nuestro Dios: un Dios que se hace pequeño y convive con nosotros en la Tierra, y que también nos aconseja no desconectarnos de los más pequeños en nuestro crecimiento espiritual. ¿Seguiremos a Jesús, también en su amor por los más pequeños? ¿En su confianza hacia Dios, como un niño hacia su madre o padre? Esa puede ser nuestra decisión y el comienzo de una maravillosa aventura que nunca tendrá fin.
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/02/27/editorial-marzo-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_2">
+          <span class="pr-2">Reflexiones urantianas: Despertar a una nueva consciencia (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

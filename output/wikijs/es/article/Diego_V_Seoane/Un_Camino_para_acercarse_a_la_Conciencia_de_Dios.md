@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Diego V. Seoane<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton y la Vía Láctea (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-7-diciembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 7 — Diciembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_Alberto_Wonsover/La_Aventura_de_Vivir">
+          <span class="pr-2">La aventura de vivir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¡En el nombre de Dios, el Compasivo, el Misericordioso! Alabado sea Dios, señor de los Universos.
 
@@ -75,3 +99,27 @@ La Paz de Dios sea con vosotros.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton y la Vía Láctea (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-7-diciembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 7 — Diciembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_Alberto_Wonsover/La_Aventura_de_Vivir">
+          <span class="pr-2">La aventura de vivir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

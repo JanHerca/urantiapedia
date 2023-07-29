@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 M. José Sánchez<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Xavier_Francisco/Los_Siete_Superuniversos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los siete superuniversos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="pr-2">Los mundos de estancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introducción de M. José Sánchez
@@ -51,10 +75,34 @@ Como humanidad debemos evolucionar en todos los niveles: material, intelectual y
 
 Ante esto es inevitable cuestionarse por la naturaleza del mal y su existencia. El Libro distingue claramente entre el mal por error y el mal deliberado. Es un hecho que el mal nos hace aprender. Nada sucede en vano. Los Mensajeros Poderosos eran mortales de mundos en rebelión, luego ellos son un ejemplo viviente de que toda experiencia se aprovecha para dar lugar a un bien mayor y (por supuesto) mejor.
 
-Recordamos aquí las «inevitabilidades» del [documento 3, p.51](/es/The_Urantia_Book/3#p51). ¿Cómo podríamos crecer sin libre albedrío? Necesitamos capacidad de elección. En todo momento no podemos asumir las responsabilidades de otros, sino las nuestras. La necesidad, y no el bienestar, es lo que nos agudiza el ingenio.
+Recordamos aquí las «inevitabilidades» del <a id="a77_43"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5). ¿Cómo podríamos crecer sin libre albedrío? Necesitamos capacidad de elección. En todo momento no podemos asumir las responsabilidades de otros, sino las nuestras. La necesidad, y no el bienestar, es lo que nos agudiza el ingenio.
 
 Comparándonos con los seres de Havona, podemos afirmar que éstos son perfectos por el amor **de** Dios, y los mortales ascendentes serán perfectos por el amor **a** Dios.
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Xavier_Francisco/Los_Siete_Superuniversos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los siete superuniversos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="pr-2">Los mundos de estancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Santiago Rodríguez, Eduardo Altuzarra, Andrés Pérez<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La estrella de Belén</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-10-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 10 — Septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -22,7 +43,7 @@ De varios autores
 
 **Antonio:** Queridos amigos: permitidme que haga sonar suavemente el despertador: documento 112, punto 3, último párrafo:
 
-> «A aquellos que van a los mundos de las mansiones no se les permite enviar mensajes de vuelta a sus seres queridos. En todos los universos existe la politica de probibir este tipo de comunicaciones durante el período de la dispensación en curso.» [LU 112:3.7](/es/The_Urantia_Book/112#p3_7)
+> «A aquellos que van a los mundos de las mansiones no se les permite enviar mensajes de vuelta a sus seres queridos. En todos los universos existe la politica de probibir este tipo de comunicaciones durante el período de la dispensación en curso.» <a id="a45_249"></a>[LU 112:3.7](/es/The_Urantia_Book/112#p3_7)
 
 Comentarios: No hay manera de saber a ciencia cierta si hay vida después de la muerte. ¿Por qué prohiben este tipo de comunicaciones? ¿Cuál es la razón DE PESO para prohibirlo? Fijaos bien que dice que está prohibido EN TODOS LOS UNIVERSOS... durante el período de la dispensación en curso (es decir, mientras vivimos). Pero, ¿durante la siguiente dispensación sí lo autorizan? Lo dudo. Insisto: Según ustedes, ¿Cuál es la razón de peso que tienen los Creadores para PROHIBIR este tipo de mensajes de nuestros familiares o amigos que se han ido?
 
@@ -67,7 +88,7 @@ En cuanto a los extraterrestres, pienso que ese tema tiene mucha «miga», ¿no?
 
 **Antonio:** Querido Eduardo, queridos amigos:
 
-«_En todos los universos existe la política de probibir este tipo de comunicaciones durante el periodo de la dispensación en curso_». [LU 112:3.7](/es/The_Urantia_Book/112#p3_7) Nuestra dispensación en curso (la actual) es desde que vino Jesús hasta... cuando sea. Se prohiben las comunicaciones entre la gente de esta era. Pero, ¿y entre la gente de la era anterior y la de la era siguiente? Pues de hecho también está prohibido. A Andón y Fonta les prohibieron que nos enviaran un mensaje ([Doc. 63, penúltimo párrafo](/es/The_Urantia_Book/63#p7_3)) cuando se enteraron de que nos iban a largar esta revelación. Lo dicen «ellos», pues si no lo hubieran dicho, no lo sabríamos. Me huelo que la prohibición es permanente, durante todas las eras de un planeta. ¿Por qué? Pues no tengo ni idea, querido Eduardo.
+«_En todos los universos existe la política de probibir este tipo de comunicaciones durante el periodo de la dispensación en curso_». <a id="a90_134"></a>[LU 112:3.7](/es/The_Urantia_Book/112#p3_7) Nuestra dispensación en curso (la actual) es desde que vino Jesús hasta... cuando sea. Se prohiben las comunicaciones entre la gente de esta era. Pero, ¿y entre la gente de la era anterior y la de la era siguiente? Pues de hecho también está prohibido. A Andón y Fonta les prohibieron que nos enviaran un mensaje (<a id="a90_492"></a>[Doc. 63, penúltimo párrafo](/es/The_Urantia_Book/63#p7_3)) cuando se enteraron de que nos iban a largar esta revelación. Lo dicen «ellos», pues si no lo hubieran dicho, no lo sabríamos. Me huelo que la prohibición es permanente, durante todas las eras de un planeta. ¿Por qué? Pues no tengo ni idea, querido Eduardo.
 
 En los mundos «normales», tienen a los 100 del Príncipe Planetario, a Adán y Eva, y a toda su progenie, viviendo allí durante <ins>miles</ins> de años. Al menos tienen <ins>la evidencia</ins> allí presente de unos seres extraplanetarios e «inmortales», aparte de que aquellos humanos tienen más preparación cultural y espiritual. Yo no creo (como dice Carmelo) que esos humanos se comuniquen habitualmente con los intermedios y los seres celestiales asignados al planeta. No lo creo. Pero da lo mismo...
 
@@ -124,3 +145,24 @@ Amigo Antonio, probablemente y según mi experiencia vivida, a lo mejor esos ser
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La estrella de Belén</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-10-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 10 — Septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

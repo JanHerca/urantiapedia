@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Texto: Olga López. Fotos: Demetrio Gómez y Paco Ruiz<br>© 2009 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Genesis_de_la_Conferencia_Internacional">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Génesis de la Conferencia Internacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-17-mayo-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 17 — Mayo 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A pesar de que parte de los asistentes ya se encontraban en el hotel desde hacía un par de días, la conferencia internacional comenzó oficialmente el viernes 17 de abril a las diez de la noche (un poco tarde según los estándares europeos, pero ya se sabe, «esto es España») Se dio un cóctel de bienvenida, en el que los asistentes tuvieron ocasión de charlar animadamente, de reencontrarse con viejos amigos y de conocer a otros nuevos.
 
@@ -263,8 +284,29 @@ Fue un bonito broche final para la conferencia. La velada terminó tarde por la 
 
 Muy pronto pondremos en nuestra página web material multimedia relacionado con la conferencia internacional, así como el texto de las presentaciones. Visiten periódicamente nuestra web, http://www.urantia.es
 
-> «Todas las cosas valiosas (...) que tenian un valor de supervivencia (...) se conservan como parte de la memoria personal durante toda la carrera ascendente. Tendréis conciencia de todas vuestras experiencias valiosas a medida que avancéis de un mundo de las mansiones a otro y de una sección del universo a otra - incluso hasta el Paraíso» ([LU 47:4.5](/es/The_Urantia_Book/47#p4_5))
+> «Todas las cosas valiosas (...) que tenian un valor de supervivencia (...) se conservan como parte de la memoria personal durante toda la carrera ascendente. Tendréis conciencia de todas vuestras experiencias valiosas a medida que avancéis de un mundo de las mansiones a otro y de una sección del universo a otra - incluso hasta el Paraíso» (<a id="a286_344"></a>[LU 47:4.5](/es/The_Urantia_Book/47#p4_5))
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Genesis_de_la_Conferencia_Internacional">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Génesis de la Conferencia Internacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-17-mayo-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 17 — Mayo 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

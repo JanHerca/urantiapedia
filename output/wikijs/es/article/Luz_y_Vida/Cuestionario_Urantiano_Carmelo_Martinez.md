@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_los_mamiferos_placentarios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: los mamíferos placentarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-34-septiembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 34 — Septiembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV34/10.jpg">
@@ -91,3 +112,24 @@ Sí. Yo considero que las enseñanzas de ELU son hoy la diminuta semilla de una 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_los_mamiferos_placentarios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: los mamíferos placentarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-34-septiembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 34 — Septiembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

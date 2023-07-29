@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Antonio Moya y Carmelo Martínez<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La unificación de la personalidad (primera parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-24-marzo-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 24 — Marzo 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_9">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Antonio
 
@@ -22,29 +46,29 @@ Medio millón de años es tela de tiempo.
 
 Los extractos que he encontrado para dilucidar este asunto son los siguientes:
 
-> _La señal para que el Soberano de un Sistema actúe en el asunto de asignar un gobernante a un planeta dado se produce cuando recibe la solicitud de los Portadores de Vida para que envíe a un jefe administrativo que ejerza su actividad en ese planeta donde han establecido la vida y han desarrollado seres evolutivos inteligentes._ ([LU 50:0.2](/es/The_Urantia_Book/50#p0_2))
+> _La señal para que el Soberano de un Sistema actúe en el asunto de asignar un gobernante a un planeta dado se produce cuando recibe la solicitud de los Portadores de Vida para que envíe a un jefe administrativo que ejerza su actividad en ese planeta donde han establecido la vida y han desarrollado seres evolutivos inteligentes._ (<a id="a48_334"></a>[LU 50:0.2](/es/The_Urantia_Book/50#p0_2))
 
-> _La razón principal para traer a unos ascendentes mortales desde la capital del sistema, como parte del estado mayor del Príncipe Planetario, es facilitar la comunicación con los habitantes del reino._ ([LU 50:2.7](/es/The_Urantia_Book/50#p2_7))
+> _La razón principal para traer a unos ascendentes mortales desde la capital del sistema, como parte del estado mayor del Príncipe Planetario, es facilitar la comunicación con los habitantes del reino._ (<a id="a50_205"></a>[LU 50:2.7](/es/The_Urantia_Book/50#p2_7))
 
-> _En un planeta evolutivo medio, las seis razas evolutivas de color aparecen de una en una; el hombre rojo es el primero que evoluciona, y vaga por el mundo durante épocas enteras antes de que aparezcan las siguientes razas de color. La aparición simultánea de las seis razas en Urantia, y dentro de una sola familia, fue totalmente excepcional._([LU 64:6.1](/es/The_Urantia_Book/64#p6_1)) 
+> _En un planeta evolutivo medio, las seis razas evolutivas de color aparecen de una en una; el hombre rojo es el primero que evoluciona, y vaga por el mundo durante épocas enteras antes de que aparezcan las siguientes razas de color. La aparición simultánea de las seis razas en Urantia, y dentro de una sola familia, fue totalmente excepcional._(<a id="a52_348"></a>[LU 64:6.1](/es/The_Urantia_Book/64#p6_1)) 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV24/12.jpg">
 </figure>
 
-> _La temprana aparición de los andonitas en Urantia fue también algo nuevo en Satania. En ningún otro mundo del sistema local se ha desarrollado una raza así de criaturas volitivas con antelación a las razas evolutivas de color._ ([LU 64:6.2](/es/The_Urantia_Book/64#p6_2))
+> _La temprana aparición de los andonitas en Urantia fue también algo nuevo en Satania. En ningún otro mundo del sistema local se ha desarrollado una raza así de criaturas volitivas con antelación a las razas evolutivas de color._ (<a id="a58_232"></a>[LU 64:6.2](/es/The_Urantia_Book/64#p6_2))
 
-> _Hubo muchas características excepcionales en el experimento con la vida en Urantia, pero los dos episodios más sobresalientes fueron la aparición de la raza andónica antes de la evolución de los seis pueblos de color y, más tarde, la aparición simultánea de los mutantes sangiks en una sola familia. Urantia es el primer mundo de Satania donde las seis razas de color nacieron de la misma familia humana. Normalmente suelen surgir, en linajes diversos, a partir de mutaciones independientes dentro de la cepa animal prehumana, y generalmente aparecen en el mundo de una en una y de manera sucesiva a lo largo de grandes períodos de tiempo, empezando por el hombre rojo y pasando por todos los colores hasta llegar al índigo._ ([LU 65:4.7](/es/The_Urantia_Book/65#p4_7))
+> _Hubo muchas características excepcionales en el experimento con la vida en Urantia, pero los dos episodios más sobresalientes fueron la aparición de la raza andónica antes de la evolución de los seis pueblos de color y, más tarde, la aparición simultánea de los mutantes sangiks en una sola familia. Urantia es el primer mundo de Satania donde las seis razas de color nacieron de la misma familia humana. Normalmente suelen surgir, en linajes diversos, a partir de mutaciones independientes dentro de la cepa animal prehumana, y generalmente aparecen en el mundo de una en una y de manera sucesiva a lo largo de grandes períodos de tiempo, empezando por el hombre rojo y pasando por todos los colores hasta llegar al índigo._ (<a id="a60_730"></a>[LU 65:4.7](/es/The_Urantia_Book/65#p4_7))
 
-> _Otra variación sobresaliente de procedimiento fue la llegada tardía del Príncipe Planetario. Por regla general, el príncipe aparece en un planeta aproximadamente en el momento en que se desarrolla la voluntad; si este plan se hubiera seguido, Caligastia podría haber llegado a Urantia incluso durante la vida de Andón y Fonta, en lugar de hacerlo casi quinientos mil años después, simultáneamente con la aparición de las seis razas sangiks._ ([LU 65:4.8](/es/The_Urantia_Book/65#p4_8))
+> _Otra variación sobresaliente de procedimiento fue la llegada tardía del Príncipe Planetario. Por regla general, el príncipe aparece en un planeta aproximadamente en el momento en que se desarrolla la voluntad; si este plan se hubiera seguido, Caligastia podría haber llegado a Urantia incluso durante la vida de Andón y Fonta, en lugar de hacerlo casi quinientos mil años después, simultáneamente con la aparición de las seis razas sangiks._ (<a id="a62_446"></a>[LU 65:4.8](/es/The_Urantia_Book/65#p4_8))
 
-> _En un mundo habitado normal, un Príncipe Planetario habría sido concedido a petición de los Portadores de Vida en el momento de la aparición de Andón y Fonta, o poco tiempo después. Pero como Urantia había sido designada como planeta de modificación de la vida, los observadores Melquisedeks, doce en total, fueron enviados por acuerdo previo como consejeros de los Portadores de Vida y como supervisores del planeta hasta la llegada posterior del Príncipe Planetario. Estos Melquisedeks llegaron en el momento en que Andón y Fonta tomaron las decisiones que permitieron a los Ajustadores del Pensamiento venir a residir en su mente mortal._ ([LU 65:4.9](/es/The_Urantia_Book/65#p4_9))
+> _En un mundo habitado normal, un Príncipe Planetario habría sido concedido a petición de los Portadores de Vida en el momento de la aparición de Andón y Fonta, o poco tiempo después. Pero como Urantia había sido designada como planeta de modificación de la vida, los observadores Melquisedeks, doce en total, fueron enviados por acuerdo previo como consejeros de los Portadores de Vida y como supervisores del planeta hasta la llegada posterior del Príncipe Planetario. Estos Melquisedeks llegaron en el momento en que Andón y Fonta tomaron las decisiones que permitieron a los Ajustadores del Pensamiento venir a residir en su mente mortal._ (<a id="a64_646"></a>[LU 65:4.9](/es/The_Urantia_Book/65#p4_9))
 
-> _Teníamos la intención de producir una temprana manifestación de la voluntad en la vida evolutiva de Urantia, y lo conseguimos. La voluntad no surge habitualmente hasta mucho tiempo después del nacimiento de las razas de color, y generalmente aparece por primera vez entre los tipos superiores del hombre rojo. Vuestro mundo es el único planeta de Satania donde el tipo humano de voluntad ha aparecido en una raza anterior a las de color._ ([LU 65:4.11](/es/The_Urantia_Book/65#p4_11))
+> _Teníamos la intención de producir una temprana manifestación de la voluntad en la vida evolutiva de Urantia, y lo conseguimos. La voluntad no surge habitualmente hasta mucho tiempo después del nacimiento de las razas de color, y generalmente aparece por primera vez entre los tipos superiores del hombre rojo. Vuestro mundo es el único planeta de Satania donde el tipo humano de voluntad ha aparecido en una raza anterior a las de color._ (<a id="a66_443"></a>[LU 65:4.11](/es/The_Urantia_Book/65#p4_11))
 
 Pero el Príncipe Planetario llegó a Urantia casi medio millón de años después de la aparición de la voluntad humana.
 
-> _Caligastia, el Príncipe Planetario, llegó a Urantia hace unos quinientos mil años, coincidiendo con la aparición de las seis razas de color o razas sangiks. En el momento de llegar el Príncipe había en la Tierra cerca de quinientos millones de seres humanos primitivos, muy dispersos por Europa, Asia y África._ ([LU 66:0.2](/es/The_Urantia_Book/66#p0_2))
+> _Caligastia, el Príncipe Planetario, llegó a Urantia hace unos quinientos mil años, coincidiendo con la aparición de las seis razas de color o razas sangiks. En el momento de llegar el Príncipe había en la Tierra cerca de quinientos millones de seres humanos primitivos, muy dispersos por Europa, Asia y África._ (<a id="a70_316"></a>[LU 66:0.2](/es/The_Urantia_Book/66#p0_2))
 
 <ins>Proceso en un mundo normal:</ins>
 
@@ -108,3 +132,27 @@ se aprovecha todo. Seguro que de todo lo que aprendieron con nosotros, de nuestr
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La unificación de la personalidad (primera parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-24-marzo-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 24 — Marzo 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_9">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

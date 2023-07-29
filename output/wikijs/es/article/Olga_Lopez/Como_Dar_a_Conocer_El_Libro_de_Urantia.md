@@ -9,18 +9,42 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Olga López<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_5_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 5 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-5-mayo-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 5 — Mayo 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Los_Grupos_de_Estudio">
+          <span class="pr-2">Los grupos de estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Introducción de Olga López
 
-En el [documento 92](/es/The_Urantia_Book/92#p3_5) se nos dice que existen dos influencias que pueden modificar y elevar los dogmas de la religión natural: la presión de las costumbres que progresan lentamente y la iluminación periódica de las revelaciones de época. La religión revelada permite compensar los defectos de la religión evolutiva, elevándola hacia metas espirituales más altas, pero sin presentar unas enseñanzas demasiado alejadas de las ideas de la época en que se presentan. La revelación debe mantenerse siempre en contacto con la evolución, y de hecho lo hace. La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla.
+En el <a id="a38_6"></a>[documento 92](/es/The_Urantia_Book/92#p3_5) se nos dice que existen dos influencias que pueden modificar y elevar los dogmas de la religión natural: la presión de las costumbres que progresan lentamente y la iluminación periódica de las revelaciones de época. La religión revelada permite compensar los defectos de la religión evolutiva, elevándola hacia metas espirituales más altas, pero sin presentar unas enseñanzas demasiado alejadas de las ideas de la época en que se presentan. La revelación debe mantenerse siempre en contacto con la evolución, y de hecho lo hace. La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla.
 
 Siempre es difícil inducir a la mente evolutiva a que acepte de buen grado una verdad revelada avanzada. Como criaturas evolutivas, los seres humanos deben conseguir su religión mediante técnicas evolutivas. La religión siempre será evolutiva, revelada o una combinación de las dos.
 
-_El Libro de Urantia_ contiene unas enseñanzas reveladas destinadas a elevar espiritualmente a la humanidad, que forman lo que los reveladores llaman la quinta revelación de época. En este mismo [documento 92](/es/The_Urantia_Book/92#p4_4) se nos habla de las revelaciones anteriores, que todos ya conocéis, representadas por personalidades bien definidas: el Príncipe Planetario, Adán y Eva, Maquiventa Melquisedek y Jesús de Nazaret. Esta quinta revelación, sin embargo, no tiene un nombre ni una personalidad tangible detrás, sino que es el resultado del trabajo conjunto de una serie de personalidades celestiales que permanecen en segundo plano.
+_El Libro de Urantia_ contiene unas enseñanzas reveladas destinadas a elevar espiritualmente a la humanidad, que forman lo que los reveladores llaman la quinta revelación de época. En este mismo <a id="a42_195"></a>[documento 92](/es/The_Urantia_Book/92#p4_4) se nos habla de las revelaciones anteriores, que todos ya conocéis, representadas por personalidades bien definidas: el Príncipe Planetario, Adán y Eva, Maquiventa Melquisedek y Jesús de Nazaret. Esta quinta revelación, sin embargo, no tiene un nombre ni una personalidad tangible detrás, sino que es el resultado del trabajo conjunto de una serie de personalidades celestiales que permanecen en segundo plano.
 
 Respecto a esta quinta revelación, hay dos rasgos que me gustaría destacar: 
 1. Esta revelación se nos ha dado antes de que fructifique plenamente. Es decir, nuestro tiempo actual no es el tiempo en el que esta revelación va a ser ampliamente conocida. Los lectores de las primeras generaciones vamos a estar en minoría.
-2. En los planetas normales, la mayor parte de las enseñanzas de la quinta revelación se ofrecen a los habitantes de estos mundos en eras muy posteriores a la que nos encontramos actualmente ([LU 52:7.3](/es/The_Urantia_Book/52#p7_3)). En el Libro se nos habla, por ejemplo, incluso del Paraíso y Havona; en otros planetas esta revelación se hace sólo en la era posterior al Hijo Instructor. Y todo esto contando con el hecho de que estas revelaciones fueron dadas a una humanidad que está atrasada una dispensación o más respecto al plan planetario promedio ([LU 52:3.6](/es/The_Urantia_Book/52#p3_6)).
+2. En los planetas normales, la mayor parte de las enseñanzas de la quinta revelación se ofrecen a los habitantes de estos mundos en eras muy posteriores a la que nos encontramos actualmente (<a id="a46_192"></a>[LU 52:7.3](/es/The_Urantia_Book/52#p7_3)). En el Libro se nos habla, por ejemplo, incluso del Paraíso y Havona; en otros planetas esta revelación se hace sólo en la era posterior al Hijo Instructor. Y todo esto contando con el hecho de que estas revelaciones fueron dadas a una humanidad que está atrasada una dispensación o más respecto al plan planetario promedio (<a id="a46_560"></a>[LU 52:3.6](/es/The_Urantia_Book/52#p3_6)).
 
 Podríamos preguntarnos entonces por qué se nos ha dado esta revelación, si parece ser prematura la miremos por donde la miremos. Pero la cuestión es que se nos ha dado, que no ha llegado a nuestro aquí y ahora por pura casualidad, que si se nos ha dado es porque podemos hacer algo de provecho con ella, que es sin duda lo que los reveladores esperan de nosotros. Echando mano de la parábola de los talentos, hemos de sacar beneficio al talento que se nos ha entregado, en lugar de esconderlo para que nadie lo vea ni nos lo robe.
 
@@ -114,3 +138,27 @@ Jesús de Nazaret es un ejemplo vivo en el LU. Él es nuestro Maestro. Si trabaj
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_5_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 5 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-5-mayo-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 5 — Mayo 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Los_Grupos_de_Estudio">
+          <span class="pr-2">Los grupos de estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

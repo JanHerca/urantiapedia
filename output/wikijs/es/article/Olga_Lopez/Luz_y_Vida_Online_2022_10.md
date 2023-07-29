@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10">
+          <span class="pr-2">Luz y Vida — Octubre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -192,7 +213,7 @@ Víctor Manuel Fernández Martín
 
 Para mí es muy importante ya que, si se entendiera correctamente, se aclararía el problema «espíritu-materia», que ha sido causa de tantos enfrentamientos entre posturas excesivamente espiritualistas y posturas excesivamente materialistas. Creo que, en este aspecto, _El Libro de Urantia_ nos invita a una reflexión pausada y sosegada sobre la realidad que se traduciría en una mayor dignidad del ser humano. La cita es la siguiente:
 
-> [LU 11:0.1](/es/The_Urantia_Book/11#p0_1) EL PARAÍSO es el centro eterno del universo de universos y el lugar de residencia del Padre Universal, el Hijo Eterno, el Espíritu Infinito y sus iguales en rango y compañeros divinos. Esta Isla central es el cuerpo organizado de realidad cósmica más gigantesco de todo el universo maestro. El Paraíso es una esfera material así como una morada espiritual. Toda la creación inteligente del Padre Universal se domicilia en moradas materiales; de ahí que el centro de control absoluto deba ser también material en el sentido literal de la palabra. Y debe reiterarse de nuevo que las cosas de espíritu y los seres espirituales son reales.
+> <a id="a215_2"></a>[LU 11:0.1](/es/The_Urantia_Book/11#p0_1) EL PARAÍSO es el centro eterno del universo de universos y el lugar de residencia del Padre Universal, el Hijo Eterno, el Espíritu Infinito y sus iguales en rango y compañeros divinos. Esta Isla central es el cuerpo organizado de realidad cósmica más gigantesco de todo el universo maestro. El Paraíso es una esfera material así como una morada espiritual. Toda la creación inteligente del Padre Universal se domicilia en moradas materiales; de ahí que el centro de control absoluto deba ser también material en el sentido literal de la palabra. Y debe reiterarse de nuevo que las cosas de espíritu y los seres espirituales son reales.
 
 Saludos fraternos.
 
@@ -261,3 +282,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10">
+          <span class="pr-2">Luz y Vida — Octubre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

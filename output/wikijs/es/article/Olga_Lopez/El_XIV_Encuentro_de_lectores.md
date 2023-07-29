@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Olga López<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_40_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 40 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Aparicion_de_la_materia_y_de_la_energia">
+          <span class="pr-2">Aparición en el escenario cósmico de la materia y de la energía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El XIV Encuentro de lectores comenzó a las 6 de la tarde del jueves 30 de abril en el hotel Los Habaneros de Cartagena. Este año hemos tenido la inestimable ayuda del grupo de estudio de Murcia para organizar el Encuentro en este rincón del Levante peninsular. Nuestro agradecimiento especial va hacia todos los que han ayudado a que nos sintiéramos cómodos y arropados en todo momento.
 
@@ -59,3 +83,27 @@ A continuación, y después de la comida, nos despedimos (no sin un poquito de t
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_40_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 40 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Aparicion_de_la_materia_y_de_la_energia">
+          <span class="pr-2">Aparición en el escenario cósmico de la materia y de la energía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

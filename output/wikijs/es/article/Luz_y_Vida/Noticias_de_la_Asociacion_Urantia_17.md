@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ismael_Gracia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuestionario urantiano: Ismael Gracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-36-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 36 — Marzo 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Encuentro de Lectores de El Libro De Urantia en España
 
@@ -30,10 +51,10 @@ El hotel está situado cerca de la Avenida del Puerto, que enlaza el centro hist
 
 El tema de este Encuentro es «**Discursos y parábolas de Jesús**». De entre todos los discursos y parábolas que dio Jesús de Nazaret en su vida pública, se trabajará con dos discursos y dos parábolas. Los asistentes formarán grupos en los que considerar cuáles son las enseñanzas más importantes de estos discursos y parábolas, y a continuación se pondrán en común los resultados con todos los asistentes. Estos son los textos sobre los que se trabajará en grupos:
 
-1. Discurso sobre la verdadera religión (Documento 155, [LU 155:5.6](/es/The_Urantia_Book/155#p5_6) - [LU 155:5.13](/es/The_Urantia_Book/155#p5_13)).
-2. La parábola del propietario de las viñas (Documento 163, [LU 163:3.5](/es/The_Urantia_Book/163#p3_5) - [LU 163:3.7](/es/The_Urantia_Book/163#p3_7))
-3. La parábola de las minas (Documento 171, [LU 171:8.3](/es/The_Urantia_Book/171#p8_3) - [LU 171:8.6](/es/The_Urantia_Book/171#p8_6))
-4. El último discurso en el templo (Documento 175, [LU 175:1.1](/es/The_Urantia_Book/175#p1_1) - [LU 175:1.24](/es/The_Urantia_Book/175#p1_24))
+1. Discurso sobre la verdadera religión (Documento 155, <a id="a53_56"></a>[LU 155:5.6](/es/The_Urantia_Book/155#p5_6) - <a id="a53_102"></a>[LU 155:5.13](/es/The_Urantia_Book/155#p5_13)).
+2. La parábola del propietario de las viñas (Documento 163, <a id="a54_60"></a>[LU 163:3.5](/es/The_Urantia_Book/163#p3_5) - <a id="a54_106"></a>[LU 163:3.7](/es/The_Urantia_Book/163#p3_7))
+3. La parábola de las minas (Documento 171, <a id="a55_44"></a>[LU 171:8.3](/es/The_Urantia_Book/171#p8_3) - <a id="a55_90"></a>[LU 171:8.6](/es/The_Urantia_Book/171#p8_6))
+4. El último discurso en el templo (Documento 175, <a id="a56_51"></a>[LU 175:1.1](/es/The_Urantia_Book/175#p1_1) - <a id="a56_97"></a>[LU 175:1.24](/es/The_Urantia_Book/175#p1_24))
 
 Dado el éxito que tuvo en el Encuentro pasado, el último día habrá una sesión de respuestas a preguntas que los asistentes quieran plantear para resolver entre todos. También habrá meditación guiada por la noche después de cenar, para aquellos que deseen participar.
 
@@ -102,3 +123,24 @@ Precios totales **para acompañantes que no participen** en el Encuentro:
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ismael_Gracia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuestionario urantiano: Ismael Gracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-36-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 36 — Marzo 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Olga López<br>© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_44_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 44 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-44-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 44 — Junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="pr-2">La carrera de ascensión a vista de pájaro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El XV Encuentro de lectores comenzó la tarde del jueves 28 de abril en el hotel Conde Duque de Bilbao, situado junto a la ría del Nervión y a pocos metros del museo Guggenheim. Hay que decir que Bilbao fue elegida prácticamente por unanimidad en el encuentro anterior, que se celebró justo un año antes en Cartagena. Y por supuesto, la junta atendió a esta petición generalizada. Siempre el norte de España había quedado un tanto al margen de la celebración de los Encuentros, así que era hora de compensar esa ausencia.
 
@@ -92,3 +116,27 @@ Después de la comida tocó la parte más triste, que es la de las despedidas, a
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_44_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 44 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-44-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 44 — Junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="pr-2">La carrera de ascensión a vista de pájaro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca">
+          <span class="pr-2">Cuestionario Urantiano: Jan Herca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-1.jpg" alt="Editorial junio 2023-1">
@@ -33,7 +57,7 @@ La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra
 > Padre nuestro que estás en los cielos,  
 > Santificado sea tu nombre.  
 > Que venga tu reino; que se haga tu voluntad  
-> En la tierra como en el cielo. [LU 144:3.3](/es/The_Urantia_Book/144#p3_3)
+> En la tierra como en el cielo. <a id="a59_33"></a>[LU 144:3.3](/es/The_Urantia_Book/144#p3_3)
 
 Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno, con su partida física de nuestro planeta. Sus discípulos tenían la encomienda de seguir expandiendo esa elevación de la consciencia que era su mensaje, algo que «hará nuevo al viejo mundo». 
 
@@ -41,29 +65,29 @@ Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno,
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
 </figure>
 
-> «No solo me habéis elegido vosotros a mí sino que yo también os elegí a vosotros, y os he ordenado para que salgáis al mundo a servir a vuestros semejantes por amor igual que yo he vivido entre vosotros y os he revelado al Padre. El Padre y yo trabajaremos con vosotros y vosotros experimentaréis la plenitud divina de la alegría solo con que obedezcáis mi mandamiento de amaros los unos a los otros como yo os he amado.» [LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
+> «No solo me habéis elegido vosotros a mí sino que yo también os elegí a vosotros, y os he ordenado para que salgáis al mundo a servir a vuestros semejantes por amor igual que yo he vivido entre vosotros y os he revelado al Padre. El Padre y yo trabajaremos con vosotros y vosotros experimentaréis la plenitud divina de la alegría solo con que obedezcáis mi mandamiento de amaros los unos a los otros como yo os he amado.» <a id="a67_424"></a>[LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
 
 ¿Recordáis el pasaje de la vuelta de los setenta predicadores ordenados en Magadán? El regreso de los discípulos está marcado por el gozo tras haber experimentado su propio poder sobre las fuerzas del mal: «hasta los demonios se nos someten en tu nombre». Estaban exultantes de alegría, eufóricos, deseosos de hablar de sus logros.
 
-> El viernes 30 de diciembre mientras Jesús estaba en las colinas cercanas con Pedro, Santiago y Juan, los setenta mensajeros fueron llegando de dos en dos al cuartel general de Pella acompañados por numerosos creyentes. Cuando Jesús volvió al campamento hacia las cinco de la tarde, los setenta estaban reunidos en el lugar dedicado a la enseñanza. La cena se retrasó más de una hora mientras estos entusiastas del evangelio del reino terminaban de contar sus experiencias. Los mensajeros de David habían traído a los apóstoles muchas de estas noticias durante las semanas anteriores, pero fue realmente inspirador oír a estos maestros del evangelio recién ordenados contar personalmente cómo había sido recibido su mensaje por una audiencia hambrienta tanto de judíos como de gentiles. Por fin Jesús podía ver a unos hombres que salían a difundir la buena nueva sin su presencia personal. El Maestro supo entonces que podría dejar este mundo sin dificultar demasiado el progreso del reino. [LU 163:6.1](/es/The_Urantia_Book/163#p6_1)
+> El viernes 30 de diciembre mientras Jesús estaba en las colinas cercanas con Pedro, Santiago y Juan, los setenta mensajeros fueron llegando de dos en dos al cuartel general de Pella acompañados por numerosos creyentes. Cuando Jesús volvió al campamento hacia las cinco de la tarde, los setenta estaban reunidos en el lugar dedicado a la enseñanza. La cena se retrasó más de una hora mientras estos entusiastas del evangelio del reino terminaban de contar sus experiencias. Los mensajeros de David habían traído a los apóstoles muchas de estas noticias durante las semanas anteriores, pero fue realmente inspirador oír a estos maestros del evangelio recién ordenados contar personalmente cómo había sido recibido su mensaje por una audiencia hambrienta tanto de judíos como de gentiles. Por fin Jesús podía ver a unos hombres que salían a difundir la buena nueva sin su presencia personal. El Maestro supo entonces que podría dejar este mundo sin dificultar demasiado el progreso del reino. <a id="a71_992"></a>[LU 163:6.1](/es/The_Urantia_Book/163#p6_1)
 
 Jesús mismo se sintió eufórico ante estos hechos, pleno de esperanza hacia sus seguidores.
 
-> … justo antes de compartir la cena, cuando Jesús experimentó uno de los pocos momentos de éxtasis emocional que sus seguidores tuvieron la ocasión de presenciar. Dijo: «Te doy gracias, Padre, Señor del cielo y de la tierra, porque aunque este evangelio maravilloso se oculta a los sabios y engreídos, el espíritu ha revelado estas glorias espirituales a estos hijos del reino. [LU 163:6.4](/es/The_Urantia_Book/163#p6_4)
+> … justo antes de compartir la cena, cuando Jesús experimentó uno de los pocos momentos de éxtasis emocional que sus seguidores tuvieron la ocasión de presenciar. Dijo: «Te doy gracias, Padre, Señor del cielo y de la tierra, porque aunque este evangelio maravilloso se oculta a los sabios y engreídos, el espíritu ha revelado estas glorias espirituales a estos hijos del reino. <a id="a75_379"></a>[LU 163:6.4](/es/The_Urantia_Book/163#p6_4)
 
 Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su perspicacia espiritual, por lo que al día siguiente reunió a los setenta y les dio una clave muy importante para ellos (y también para nosotros):
 
-> Y ahora, sin querer enfriar el regocijo de vuestro espíritu, quiero preveniros seriamente contra las sutilezas del orgullo, del orgullo espiritual. [LU 166:6.6](/es/The_Urantia_Book/166#p6_6)
+> Y ahora, sin querer enfriar el regocijo de vuestro espíritu, quiero preveniros seriamente contra las sutilezas del orgullo, del orgullo espiritual. <a id="a79_150"></a>[LU 163:6.6](/es/The_Urantia_Book/163#p6_6)
 
 ¡Qué razón tenía Jesús al advertirles sobre ello! Supo señalar con certeza el origen de la caída de un ser espiritual elevado, pleno de entusiasmo, vanagloriado de sí mismo y sobredimensionado en su ego.
 
-> El progreso espiritual está fundamentado en el reconocimiento intelectual de la pobreza espiritual unido a la autoconsciencia del hambre de perfección, el deseo de conocer a Dios y ser como él, el propósito entusiasta de hacer la voluntad del Padre del cielo. [LU 100:2.1](/es/The_Urantia_Book/100#p2_1)
+> El progreso espiritual está fundamentado en el reconocimiento intelectual de la pobreza espiritual unido a la autoconsciencia del hambre de perfección, el deseo de conocer a Dios y ser como él, el propósito entusiasta de hacer la voluntad del Padre del cielo. <a id="a83_262"></a>[LU 100:2.1](/es/The_Urantia_Book/100#p2_1)
 
 De estos pasajes se pueden extraer múltiples enseñanzas, pero hoy, en esta reflexión, vamos a centrarnos en una.
 
 ¿Estamos plenos de entusiasmo por la tarea que hemos «emprendido de enseñar al hombre mortal que es un hijo de Dios? ¿Seguimos a Jesús en su forma de relacionarse con los demás, como nos recuerda este pasaje?:
 
-> Jesús iba sembrando **alegría a su paso**. Estaba lleno de gracia y de verdad. Sus compañeros nunca dejaron de sentirse maravillados por la benevolencia de sus palabras. La amabilidad se puede cultivar, pero la benevolencia, que es el aroma de la amistad, emana de un alma saturada de amor. [LU 171:7.1](/es/The_Urantia_Book/171#p7_1) \[negrita añadida\]
+> Jesús iba sembrando **alegría a su paso**. Estaba lleno de gracia y de verdad. Sus compañeros nunca dejaron de sentirse maravillados por la benevolencia de sus palabras. La amabilidad se puede cultivar, pero la benevolencia, que es el aroma de la amistad, emana de un alma saturada de amor. <a id="a89_293"></a>[LU 171:7.1](/es/The_Urantia_Book/171#p7_1) \[negrita añadida\]
 
 Jesús, de forma natural y no calculada, dispensaba salud y repartía felicidad mientras viajaba por la vida. Hacía el bien y se mostraba alegre mientras atendía sus obligaciones diarias. Su impulso vital no provenía de una exaltación de orgullo personal.
 
@@ -134,3 +158,27 @@ Y con esa alegría perfecta, podremos realmente traer el Cielo a la Tierra.
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca">
+          <span class="pr-2">Cuestionario Urantiano: Jan Herca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

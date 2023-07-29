@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 John B. Parkinson<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2021_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Abril 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles">
+          <span class="pr-2">Cuestionario Urantiano: Ginés Avilés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Antecedentes
 
@@ -35,7 +59,7 @@ Pero puedo decir una cosa con seguridad sobre esta búsqueda: no hay ninguna fue
 
 El pasaje de _El Libro de Urantia_ que es esa llave procede del documento 41, «Los aspectos físicos del universo local»:
 
-> Diez Centros Supremos de Poder de la quinta orden están asignados a cada una de las subdivisiones primarias de Nebadon, a las cien constelaciones. En vuestra constelación, Norlatiadek, no están estacionados en la esfera sede, sino que están situados en el centro del enorme sistema estelar que constituye el núcleo físico de la constelación. En Edentia hay diez controladores maquinales asociados y diez frandalanks que están en conexión perfecta y constante con los centros de poder cercanos. [LU 41:1.4](/es/The_Urantia_Book/41#p1_4)
+> Diez Centros Supremos de Poder de la quinta orden están asignados a cada una de las subdivisiones primarias de Nebadon, a las cien constelaciones. En vuestra constelación, Norlatiadek, no están estacionados en la esfera sede, sino que están situados en el centro del enorme sistema estelar que constituye el núcleo físico de la constelación. En Edentia hay diez controladores maquinales asociados y diez frandalanks que están en conexión perfecta y constante con los centros de poder cercanos. <a id="a61_496"></a>[LU 41:1.4](/es/The_Urantia_Book/41#p1_4)
 
 Cuando pensamos en las docenas, e incluso cientos, de pasajes potenciales que servirían para desvelar estos misterios, naturalmente te preguntarás ¿por qué este? Las tres palabras clave anteriores son «enorme sistema estelar», lo que nos indica que el cielo de la constelación de Edentia se encuentra en un cúmulo de estrellas. Las siguientes preguntas son: ¿qué tipo de cúmulo estelar y cuál?
 
@@ -49,11 +73,11 @@ De los dos tipos, los cúmulos estelares globulares son una variedad especial qu
 
 En la época en que se publicó _El Libro de Urantia_, en 1955, no se conocían localizaciones astronómicas o estructuras astrofísicas que pudieran correlacionarse con el conocimiento impartido sobre las unidades administrativas básicas conocidas como el «sistema» o la «Constelación», tal como se define en los siguientes pasajes:
 
-> 1. _El sistema._ La unidad básica del supergobierno está compuesta de unos mil mundos habitados o habitables. Los soles resplandecientes, los mundos fríos, los planetas demasiado cercanos a los soles calientes y otras esferas no adecuadas como moradas para las criaturas no están incluidos en este grupo. A estos mil mundos adaptados para mantener la vida se les llama un sistema, pero en los sistemas más jóvenes, sólo un número relativamente pequeño de estos mundos puede ser habitado. Cada planeta habitado está dirigido por un Príncipe Planetario, y cada sistema local tiene una esfera arquitectónica como sede central, estando gobernada por un Soberano del Sistema. [LU 15:2.3](/es/The_Urantia_Book/15#p2_3)
+> 1. _El sistema._ La unidad básica del supergobierno está compuesta de unos mil mundos habitados o habitables. Los soles resplandecientes, los mundos fríos, los planetas demasiado cercanos a los soles calientes y otras esferas no adecuadas como moradas para las criaturas no están incluidos en este grupo. A estos mil mundos adaptados para mantener la vida se les llama un sistema, pero en los sistemas más jóvenes, sólo un número relativamente pequeño de estos mundos puede ser habitado. Cada planeta habitado está dirigido por un Príncipe Planetario, y cada sistema local tiene una esfera arquitectónica como sede central, estando gobernada por un Soberano del Sistema. <a id="a75_673"></a>[LU 15:2.3](/es/The_Urantia_Book/15#p2_3)
 > 
-> 2. _La constelación._ Cien sistemas (unos 100.000 planetas habitables) forman una constelación. Cada constelación tiene una esfera sede arquitectónica y está presidida por tres Hijos Vorondadeks, los Altísimos. Cada constelación tiene también como observador a un Fiel de los Días, el embajador de la Trinidad del Paraíso. [LU 15:2.4](/es/The_Urantia_Book/15#p2_4)
+> 2. _La constelación._ Cien sistemas (unos 100.000 planetas habitables) forman una constelación. Cada constelación tiene una esfera sede arquitectónica y está presidida por tres Hijos Vorondadeks, los Altísimos. Cada constelación tiene también como observador a un Fiel de los Días, el embajador de la Trinidad del Paraíso. <a id="a77_325"></a>[LU 15:2.4](/es/The_Urantia_Book/15#p2_4)
 > 
-> 3. _El universo local._ Cien constelaciones (unos 10.000.000 de planetas habitables) constituyen un universo local. Cada universo local tiene un magnífico mundo sede arquitectónico y está gobernado por uno de los Hijos de Dios Creadores coordinados de la orden de los Migueles. Cada universo está bendecido por la presencia de un Unión de los Días, el representante de la Trinidad del Paraíso. [LU 15:2.5](/es/The_Urantia_Book/15#p2_5)
+> 3. _El universo local._ Cien constelaciones (unos 10.000.000 de planetas habitables) constituyen un universo local. Cada universo local tiene un magnífico mundo sede arquitectónico y está gobernado por uno de los Hijos de Dios Creadores coordinados de la orden de los Migueles. Cada universo está bendecido por la presencia de un Unión de los Días, el representante de la Trinidad del Paraíso. <a id="a79_396"></a>[LU 15:2.5](/es/The_Urantia_Book/15#p2_5)
 
 Aparte de nuestro sistema solar y luego subiendo a estructuras mucho más grandes como el cinturón de Gould y el brazo de Orión a escala galáctica, gran parte del nivel intermedio de detalles astronómicos que podríamos identificar como parte de un «sistema» o «constelación» según la revelación faltaba hasta hace unos veinte años cuando se descubrieron los detalles de la Burbuja Astrofísica Local y la red de nubes interestelares que pueblan esta enorme burbuja.
 
@@ -76,7 +100,7 @@ Veamos en detalle un pasaje concreto de _El Libro de Urantia_ que solo puede ent
 
 He aquí la cita:
 
-> Urantia está relativamente aislada en las afueras de Satania, pues vuestro sistema solar, con una sola excepción, es el que se encuentra más lejos de Jerusem, mientras que Satania misma está cerca del sistema más exterior de Norlatiadek, y esta constelación está atravesando ahora la periferia exterior de Nebadón. Figurabais realmente entre los más pequeños de toda la creación, hasta que la donación de Miguel elevó vuestro planeta a una posición de honor y de gran interés para el universo. A veces el último es el primero, mientras que el más pequeño se convierte realmente en el más grande. [LU 41:10.5](/es/The_Urantia_Book/41#p10_5)
+> Urantia está relativamente aislada en las afueras de Satania, pues vuestro sistema solar, con una sola excepción, es el que se encuentra más lejos de Jerusem, mientras que Satania misma está cerca del sistema más exterior de Norlatiadek, y esta constelación está atravesando ahora la periferia exterior de Nebadón. Figurabais realmente entre los más pequeños de toda la creación, hasta que la donación de Miguel elevó vuestro planeta a una posición de honor y de gran interés para el universo. A veces el último es el primero, mientras que el más pequeño se convierte realmente en el más grande. <a id="a102_598"></a>[LU 41:10.5](/es/The_Urantia_Book/41#p10_5)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky/TASOFH4.jpg">
@@ -105,3 +129,27 @@ Tras el examen de las Híades, pasaremos a mi descubrimiento de Jerusem, cuyo si
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2021_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Abril 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles">
+          <span class="pr-2">Cuestionario Urantiano: Ginés Avilés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Doris Calmel<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_39_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 39 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/Homenaje_a_David_Zebedeo">
+          <span class="pr-2">Homenaje a David Zebedeo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Presentación ofrecida en la Conferencia de lectores europeos de _El Libro de Urantia_ celebrada en Berlín (Alemania) en agosto de 2014)
 
-> _La verdadera religión debe ser siempre y al mismo tiempo el eterno fundamento y la estrella orientadora de todas las civilizaciones duraderas._ [LU 92:7.15](/es/The_Urantia_Book/92#p7_15)
+> _La verdadera religión debe ser siempre y al mismo tiempo el eterno fundamento y la estrella orientadora de todas las civilizaciones duraderas._ <a id="a38_147"></a>[LU 92:7.15](/es/The_Urantia_Book/92#p7_15)
 
 La lectura de _El Libro de Urantia_ permite al hombre encontrar su esencia, vivirla y transmitirla. ¿Cómo?
 
@@ -32,11 +56,11 @@ Todo encajaba con el fin de poder estudiar en compañía de varias personas, ent
 
 Ya en LU 0:5.11, en el Prólogo del libro, tenemos esta magnífica frase:
 
-> _La personalidad es el don incomparable que el Padre Universal confiere a las energías vivientes y asociadas de la materia, la mente y el espíritu, y que sobrevive al sobrevivir el alma morontial._ [LU 0:5.11](/es/The_Urantia_Book/0#p5_11)
+> _La personalidad es el don incomparable que el Padre Universal confiere a las energías vivientes y asociadas de la materia, la mente y el espíritu, y que sobrevive al sobrevivir el alma morontial._ <a id="a58_200"></a>[LU 0:5.11](/es/The_Urantia_Book/0#p5_11)
 
 Lo que quiere decir:
 
-> _El amor del Padre individualiza de manera absoluta a cada personalidad como hijo único del Padre Universal, un hijo sin duplicado en la infinidad, una criatura volitiva irreemplazable en toda la eternidad._ [LU 12:7.9](/es/The_Urantia_Book/12#p7_9)
+> _El amor del Padre individualiza de manera absoluta a cada personalidad como hijo único del Padre Universal, un hijo sin duplicado en la infinidad, una criatura volitiva irreemplazable en toda la eternidad._ <a id="a62_210"></a>[LU 12:7.9](/es/The_Urantia_Book/12#p7_9)
 
 La importancia del comienzo de la frase apareció ante mí sobre todo durante sesiones de psicoanálisis que incluían la concepción del ser humano. El análisis realizado durante esas sesiones se unió a su memoria celular. Ese momento les procura una felicidad única de amor.
 
@@ -62,7 +86,7 @@ Llegamos a un estadio en el que podemos evaluar la progresión de este ideal.
 
 Finalmente, nos gusta compartir nuestro ideal y encontramos personas a nuestro alrededor que colaboran para hacerlo realidad. En el Prólogo de _El Libro de Urantia_, en la página 9, encontramos también esta frase:
 
-> _La personalidad es la única realidad invariable en la experiencia por lo demás siempre cambiante de una criatura, y unifica todos los otros factores asociados de la individualidad._ [LU 0:5.11](/es/The_Urantia_Book/0#p5_11)
+> _La personalidad es la única realidad invariable en la experiencia por lo demás siempre cambiante de una criatura, y unifica todos los otros factores asociados de la individualidad._ <a id="a88_185"></a>[LU 0:5.11](/es/The_Urantia_Book/0#p5_11)
 
 La personalidad que Dios da a todo hombre está destinada a ser eterna, ipero es preciso que el hombre la quiera y la pida! La personalidad está dotada de poderes adaptados al marco de vida en el que el hombre vive. Los poderes de la personalidad no son estáticos; evolucionan en función de las necesidades para la supervivencia del ser humano.
 
@@ -96,7 +120,7 @@ Sé que lo que afirmo no es muy científico.
 
 Con las enseñanzas de _El Libro de Urantia_, aprendemos también que cada ser humano tiene una relación individual con Dios gracias a su Ajustador. Al hablar del Ajustador, voy a desarrollar también de manera simple su magnífica contribución al ser humano:
 
-> _Los Ajustadores son la realidad del amor del Padre, encarnado en el alma de los hombres; son la verdadera promesa de la carrera eterna del hombre, encarcelada dentro de la mente mortal._ [LU 107:0.2](/es/The_Urantia_Book/107#p0_2)
+> _Los Ajustadores son la realidad del amor del Padre, encarnado en el alma de los hombres; son la verdadera promesa de la carrera eterna del hombre, encarcelada dentro de la mente mortal._ <a id="a122_190"></a>[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)
 
 Esta frase contiene tres fases muy importantes:
 
@@ -110,7 +134,7 @@ Encerrados en la mente de los moratales, con tanto tiempo sin que el ser humano 
 
 La verdadera promesa de la carrera eterna de los hombres es ese fragmento que nos acompaña después de la muerte material para enviarnos a través de múltiples carreras espirituales hacia la eternidad, hacia la perfección divina. Pero, hay un pero: ¡hay que pedirlo!
 
-> _¿Podéis daros cuenta realmente del verdadero significado que tiene la presencia interior del Ajustador? ¿Podéis comprender realmente lo que significa tener un fragmento absoluto de la Deidad absoluta e infinita, el Padre Universal, que reside en vosotros y que fusiona con vuestra naturaleza mortal finita?_ [LU 107:4.7](/es/The_Urantia_Book/107#p4_7)
+> _¿Podéis daros cuenta realmente del verdadero significado que tiene la presencia interior del Ajustador? ¿Podéis comprender realmente lo que significa tener un fragmento absoluto de la Deidad absoluta e infinita, el Padre Universal, que reside en vosotros y que fusiona con vuestra naturaleza mortal finita?_ <a id="a136_311"></a>[LU 107:4.7](/es/The_Urantia_Book/107#p4_7)
 
 Lo habéis entendido bien; la meta del Ajustador, que representa al mismo Dios, es fusionarse con nosotros con el fin de que nos lleve hasta ÉL, ipero ÉL debe esperar a que queramos!
 
@@ -165,3 +189,27 @@ Con el fin de que estemos todos reunidos...<br>
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_39_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 39 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/Homenaje_a_David_Zebedeo">
+          <span class="pr-2">Homenaje a David Zebedeo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

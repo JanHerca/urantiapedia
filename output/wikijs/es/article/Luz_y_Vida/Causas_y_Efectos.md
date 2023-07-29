@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Andrés Pérez, Santiago Rodríguez<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_14_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 14 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-14-septiembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 14 — Septiembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeannette_Francis/Oracion_para_todas_las_noches">
+          <span class="pr-2">Oración para todas las noches</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -19,13 +43,13 @@ De varios autores
 - Andrés Pérez
 - Santiago Rodríguez
 
-**Antonio:** he aquí una buena duda: «_Las causas universales (o del universo) no pueden ser inferiores a los efectos universales (o del universo)_» ([LU 3:6.3](/es/The_Urantia_Book/3#p6_3))
+**Antonio:** he aquí una buena duda: «_Las causas universales (o del universo) no pueden ser inferiores a los efectos universales (o del universo)_» (<a id="a45_150"></a>[LU 3:6.3](/es/The_Urantia_Book/3#p6_3))
 
 ¿Por qué un efecto no puede ser superior a su causa? Me lo explique, por fa. Uno es un poco torpe, y no acaba de vislumbrar buenos ejemplos de esta afirmación. Me gustan los ejemplos para niños de babero, pues si no, sigo sin captar nada. ¿Alguien tendría la bondad de hacer un poco de luz en mi dura cabeza? Gracias de antemano.
 
-> «_Todos los efectos están precedidos por unas causas definidas_» ([LU 86:2.5](/es/The_Urantia_Book/86#p2_5))
+> «_Todos los efectos están precedidos por unas causas definidas_» (<a id="a49_68"></a>[LU 86:2.5](/es/The_Urantia_Book/86#p2_5))
 
-> «_No se pueden obtener efectos sin causas_» ([LU 102:7.3](/es/The_Urantia_Book/102#p7_3))
+> «_No se pueden obtener efectos sin causas_» (<a id="a51_47"></a>[LU 102:7.3](/es/The_Urantia_Book/102#p7_3))
 
 **Carmelo:** Las preguntas de Antonio... como siempre, agudas, profundas y difíciles de contestar.
 
@@ -75,3 +99,27 @@ El intentar comprender los pensamientos de Dios, para nosotros los mortales es u
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_14_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 14 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-14-septiembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 14 — Septiembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeannette_Francis/Oracion_para_todas_las_noches">
+          <span class="pr-2">Oración para todas las noches</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

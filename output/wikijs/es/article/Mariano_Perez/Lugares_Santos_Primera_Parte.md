@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Mariano Pérez<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_11_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 11 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-11-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 11 — Diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuantos_Sobreviven">
+          <span class="pr-2">¿Cuántos sobreviven?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Estimados amigos: hace pocos meses, cinco miembros del grupo de estudio de de Madrid tuvimos la fortuna (y estoy convencido de que el acierto también) de viajar a Israel, también llamado «Tierra Santa» por otros. Fue un viaje corto pero intenso, y en el que al final del mismo, todos nos quedamos con ganas de más. Fueron varios los tipos de experiencias vividas: por un lado, conocer de primera mano el problema político y social, en buena parte gracias a nuestro guía; por otro lado, ver la convivencia de las diferentes culturas y religiones del país, que aunque parezca mentira conviven en paz, a nivel de ciudadanía, respetando cada uno lo de los otros. También fue una experiencia enriquecedora en cuanto a conocer geográficamente la zona. Ver los lugares donde sin duda estuvo nuestro Soberano Miguel de Nebadón nos hacía vivir todo ello con mucha más intensidad.
 
@@ -36,7 +60,7 @@ La selección es la siguiente:
 
 ## Anunciación de Gabriel a María
 
-La tradición cristiana parece que no identifica el lugar donde tuvo lugar la anunciación con el hogar de la familia de Jesús; simplemente este último no figura en ningún lugar que sepamos. Si nos atenemos al LU sacamos la conclusión de que ambos lugares son el mismo. La actual Iglesia de la Anunciación es el principal lugar de visita, aunque hay otra ortodoxa, lo cual ya nos da que pensar. También muy cerca de allí se encuentran unas excavaciones donde encontraron restos de herramientas y útiles de carpintería de la época, y lo presentan como el posible taller de José. El LU nos da algunas pistas sobre la ubicación del hogar de Jesús -[LU 122:5.9](/es/The_Urantia_Book/122#p5_9)- y el taller -[LU 123:1.6](/es/The_Urantia_Book/123#p1_6)-. Lo primero que hay que localizar es el monte más alto al norte de la ciudad, y aquí ya viene la primera dificultad. El más alto al norte queda un poco a las afueras de Nazaret, aunque es posible ( y es una hipótesis) que la ciudad vieja no estuviera exactamente donde el núcleo principal actual, o que las distancias sean más largas de lo que nos imaginamos. Si tomamos el monte Har Nadav (de 1.600 pies) que enlaza con el Har Yona (de 1.812 pies) como el mismo monte, o incluso por separado contemplando las dos hipótesis, tendríamos que la casa de Jesús estaría bastante alejada del lugar tradicional, es decir, más al noreste, y no en pleno centro, ya que nos dice que se encontraba al sureste del promontorio de esta colina, en el medio entre la carretera a Caná y la base de la colina, y en cualquier caso a las afueras de la ciudad. En cuanto a la referencia de la fuente, solo sé que hay una «Fuente de Maria» cerca de allí; pero no quiere decir que fuera la fuente de antaño y al parecer plaza de paso de caravanas. Ciertamente es uno de los lugares en que he indagado más posteriormente -el Google Earth es maravilloso- y más frustrado me he quedado, y con ganas de ir a quedarme unos días allí a analizar sobre el terreno toda esta información.
+La tradición cristiana parece que no identifica el lugar donde tuvo lugar la anunciación con el hogar de la familia de Jesús; simplemente este último no figura en ningún lugar que sepamos. Si nos atenemos al LU sacamos la conclusión de que ambos lugares son el mismo. La actual Iglesia de la Anunciación es el principal lugar de visita, aunque hay otra ortodoxa, lo cual ya nos da que pensar. También muy cerca de allí se encuentran unas excavaciones donde encontraron restos de herramientas y útiles de carpintería de la época, y lo presentan como el posible taller de José. El LU nos da algunas pistas sobre la ubicación del hogar de Jesús -<a id="a62_643"></a>[LU 122:5.9](/es/The_Urantia_Book/122#p5_9)- y el taller -<a id="a62_701"></a>[LU 123:1.6](/es/The_Urantia_Book/123#p1_6)-. Lo primero que hay que localizar es el monte más alto al norte de la ciudad, y aquí ya viene la primera dificultad. El más alto al norte queda un poco a las afueras de Nazaret, aunque es posible ( y es una hipótesis) que la ciudad vieja no estuviera exactamente donde el núcleo principal actual, o que las distancias sean más largas de lo que nos imaginamos. Si tomamos el monte Har Nadav (de 1.600 pies) que enlaza con el Har Yona (de 1.812 pies) como el mismo monte, o incluso por separado contemplando las dos hipótesis, tendríamos que la casa de Jesús estaría bastante alejada del lugar tradicional, es decir, más al noreste, y no en pleno centro, ya que nos dice que se encontraba al sureste del promontorio de esta colina, en el medio entre la carretera a Caná y la base de la colina, y en cualquier caso a las afueras de la ciudad. En cuanto a la referencia de la fuente, solo sé que hay una «Fuente de Maria» cerca de allí; pero no quiere decir que fuera la fuente de antaño y al parecer plaza de paso de caravanas. Ciertamente es uno de los lugares en que he indagado más posteriormente -el Google Earth es maravilloso- y más frustrado me he quedado, y con ganas de ir a quedarme unos días allí a analizar sobre el terreno toda esta información.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV11/02.jpg">
@@ -53,7 +77,7 @@ En este suceso se ve con mucha más claridad el error, si es que se puede llamar
 </em></figcaption>
 </figure>
 
-El lugar tradicional está a unos kilómetros al norte del Mar Muerto, donde desemboca el río, y cerca de Jerico, que queda al este. Según _El Libro de Urantia_-[LU 135:8.1](/es/The_Urantia_Book/135#p8_1)- el lugar estaría a la altura de la ciudad de Pella en Jordania, es decir, unos 70 kilómetros al norte del lugar marcado por la tradición. Como podéis ver, hay una distancia considerable; pero no será el único caso.
+El lugar tradicional está a unos kilómetros al norte del Mar Muerto, donde desemboca el río, y cerca de Jerico, que queda al este. Según _El Libro de Urantia_-<a id="a79_159"></a>[LU 135:8.1](/es/The_Urantia_Book/135#p8_1)- el lugar estaría a la altura de la ciudad de Pella en Jordania, es decir, unos 70 kilómetros al norte del lugar marcado por la tradición. Como podéis ver, hay una distancia considerable; pero no será el único caso.
 
 ## La Transfiguración
 
@@ -79,3 +103,27 @@ La ubicación errónea de este último, es lo que hace que gran parte del recorr
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_11_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 11 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-11-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 11 — Diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuantos_Sobreviven">
+          <span class="pr-2">¿Cuántos sobreviven?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

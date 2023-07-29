@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Jesús Rodríguez<br>© 2013 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Nuestro_Transito_a_Moroncia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro tránsito a moroncia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-32-marzo-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 32 — Marzo 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Las_Verdades_Relativas">
+          <span class="pr-2">Las verdades relativas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Prólogo
 
@@ -36,7 +60,7 @@ Jesús no requiere que sus seguidores crean en él, sino más bien que crean com
 
 El mismo tipo de fe que todos debemos de desarrollar para alcanzar el reconocimiento como verdaderos HIJOS DE DIOS POR LA FE por parte del «Padre Universal».
 
-Por eso, Jesús siempre desafiaba en forma enternecedora a sus seguidores para que no sólo «creyeran lo que él creía» sino también a que «creyeran como él creía». Este es el verdadero significado del requisito supremo que exige Jesús a todos los creyentes del cristianismo a través de su máxima «SÍGANME». [LU 196:0.10](/es/The_Urantia_Book/196#p0_10) [LU 196:0.13](/es/The_Urantia_Book/196#p0_13).
+Por eso, Jesús siempre desafiaba en forma enternecedora a sus seguidores para que no sólo «creyeran lo que él creía» sino también a que «creyeran como él creía». Este es el verdadero significado del requisito supremo que exige Jesús a todos los creyentes del cristianismo a través de su máxima «SÍGANME». <a id="a62_305"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10) <a id="a62_351"></a>[LU 196:0.13](/es/The_Urantia_Book/196#p0_13).
 
 ¿Quién de nosotros se atreve a seguir a Jesús?
 
@@ -53,7 +77,7 @@ Todos los mundos materiales evolutivos son habitados por estos «hijos de Dios p
 3. Sois hijos porque el espíritu de un «Hijo divino» (el espíritu de la verdad) ha sido derramado sobre todos las razas mortales de Urantia y este espíritu por siempre os atraerá hacia el «Hijo Creador» que es la fuente que os llevará hacia el Padre Celestial.
 4. Por su divino «libre albedrío», el Padre Universal os ha otorgado vuestra personalidad de criatura, habéis sido dotados con una medida de esa espontaneidad divina de «libre albedrío» que el Padre Celestial comparte con todos aquellos que pueden ser sus auténticos «hijos espirituales» con potencialidad de ascensión, los cuales podrán alcanzar las más elevadas alturas de gloria y de divinidad.
 
-Estos son los mortales a quienes ha mandado el Padre Universal: «Sed perfectos, así como Yo soy perfecto». El Padre se os ha otorgado a sí mismo, ha colocado dentro de vosotros un fragmento de su espíritu divino (el ajustador del pensamiento), por lo tanto exige perfección última de todos vosotros. [LU 40:6.3](/es/The_Urantia_Book/40#p6_3), [LU 40:6.4-7](/es/The_Urantia_Book/40#p6_4), [LU 40:7.4](/es/The_Urantia_Book/40#p7_4).
+Estos son los mortales a quienes ha mandado el Padre Universal: «Sed perfectos, así como Yo soy perfecto». El Padre se os ha otorgado a sí mismo, ha colocado dentro de vosotros un fragmento de su espíritu divino (el ajustador del pensamiento), por lo tanto exige perfección última de todos vosotros. <a id="a79_300"></a>[LU 40:6.3](/es/The_Urantia_Book/40#p6_3), <a id="a79_343"></a>[LU 40:6.4-7](/es/The_Urantia_Book/40#p6_4), <a id="a79_388"></a>[LU 40:7.4](/es/The_Urantia_Book/40#p7_4).
 
 Los mortales de Urantia gozamos del privilegio de ser HIJOS DE DIOS POR LA FE desde el momento mismo en que «el Jesús morontial» (después de su muerte) derramó su espíritu sobre la humanidad: «el espíritu de la verdad», esa dote espiritual que fue otorgada a todos los mortales de mente normal, ese nuevo Maestro que ayudará a los hombres de corazón sincero a comprender y a discernir correctamente sus incomparables enseñanzas de verdad espiritual.
 
@@ -61,7 +85,7 @@ Jesús enseñó un evangelio que redimía al hombre de la superstición de que e
 
 Las verdades espirituales que Jesús vivió y predicó en su época fueron una solución eficaz a las dificultades espirituales de los hombres de ese tiempo y puesto que como persona se ha ido de este mundo, nos ha dejado en su lugar al «espíritu de la verdad», el cual está destinado a vivir en la mente del hombre, para que así cada nuevo grupo o generación de mortales que aparezca a futuro sobre la faz de la tierra, tengan una visión nueva y actualizada de su evangelio, un esclarecimiento personal y una guía colectiva que sea la solución eficaz a las siempre cambiantes y variadas dificultades espirituales del hombre de todas las épocas.
 
-Así pues, «el Espíritu de la Verdad» dotó al hombre de la fuerza espiritual más poderosa que puede existir en este mundo. Y también sirve para que la mente de los mortales recuerde y comprenda la vida de «perfección humana» que desarrolló Jesús durante el transcurso de su vida terrenal. [LU 194:2.1](/es/The_Urantia_Book/194#p2_1), [LU 194:3.4](/es/The_Urantia_Book/194#p3_4)
+Así pues, «el Espíritu de la Verdad» dotó al hombre de la fuerza espiritual más poderosa que puede existir en este mundo. Y también sirve para que la mente de los mortales recuerde y comprenda la vida de «perfección humana» que desarrolló Jesús durante el transcurso de su vida terrenal. <a id="a87_288"></a>[LU 194:2.1](/es/The_Urantia_Book/194#p2_1), <a id="a87_333"></a>[LU 194:3.4](/es/The_Urantia_Book/194#p3_4)
 
 Ahora bien, aunque el mortal común de Urantia no pueda alcanzar la alta «perfección humana» que desarrollo Jesús a través de su genuina «fe espiritual», a cada creyente sincero sí le será posible desarrollar, a través de una auténtica fe, una personalidad fuerte y unificada que vaya de acuerdo con la personalidad perfeccionada de Jesús. Y así como verdaderos «hijos de Dios por la Fe» pueden reconocer su lugar dentro de esa gran familia de filiación divina. Un hijo liberado por su fe que ya no será esclavo de un mundo materialista; ya no luchará solo contra las adversidades de la vida ni contra el destino inexorable de la terminación de la existencia temporal, y se unirá con todos «los hijos del reino de DIOS» en el triunfo de su realidad espiritual, donde finalmente las criaturas se vuelven conscientes del hecho de que jamás han estado solas y que DIOS y las huestes celestiales de su vasto universo estarán siempre a su lado durante su carrera mortal evolutiva por alcanzar su verdadero estado como HIJOS DE DIOS POR SUFE.
 
@@ -69,7 +93,7 @@ No debe de ser el objetivo principal de los seguidores de Jesús imitar de maner
 
 Y así como Jesús ascendió de la naturaleza del hombre a la conciencia de la naturaleza de DIOS a través de la acción conjunta de su fe y de la guía espiritual de su ajustador del pensamiento, así también los hombres deben progresar de la conciencia de lo humano a la realización de lo divino, por medio de su fe y a través de la guía de su ajustador residente. Ya que la tarea del ajustador del pensamiento consiste en fortalecer el alma del hombre evolutivo, para que a través de su fe alcance una conciencia más elevada de las realidades espirituales eternas.
 
-La razón de la ciencia se basa en los hechos observables en el tiempo, la fe de la religión se basa en el programa espiritual de la eternidad. Y lo que el conocimiento y la razón no pueden hacer por nosotros, «la verdadera fe» lo consigue a través de la visión religiosa y de la transformación espiritual personal. [LU 102:1.2](/es/The_Urantia_Book/102#p1_2)
+La razón de la ciencia se basa en los hechos observables en el tiempo, la fe de la religión se basa en el programa espiritual de la eternidad. Y lo que el conocimiento y la razón no pueden hacer por nosotros, «la verdadera fe» lo consigue a través de la visión religiosa y de la transformación espiritual personal. <a id="a95_315"></a>[LU 102:1.2](/es/The_Urantia_Book/102#p1_2)
 
 La creencia llega al nivel de fe cuando motiva la vida y da forma a la manera de vivir; la aceptación de una enseñanza como verdadera no es fe, es meramente creencia. Un estado mental llega a los niveles de fe sólo cuando domina efectivamente la manera del vivir. La fe es un atributo vivo de la experiencia religiosa personal, la creencia es limitadora y restringente. La fe es expansiva y liberadora. La creencia es fija, la fe es viva.
 
@@ -77,7 +101,7 @@ Más que una asociación de creencias nobles, la fe es un sistema exaltado que c
 
 Las creencias pueden volverse posesiones de grupo, pero la fe ha de ser personal. Se pueden sugerir las creencias teológicas a un grupo, pero la fe únicamente puede surgir en el corazón de la persona religiosa individual. La fe nunca escapa del deber de solucionar los problemas del vivir mortal, ya que la autentica fe espiritual va a mover montañas, pero montañas de problemas materiales que agobian a los hombres.
 
-La fe revitaliza la religión y obliga al hombre a vivir heroicamente de acuerdo con el conocimiento religioso; por lo cual sus impulsos espirituales son el preludio para disfrutar de una paz sublime. [LU 101:8.2](/es/The_Urantia_Book/101#p8_2) [LU 101:8.4](/es/The_Urantia_Book/101#p8_4)
+La fe revitaliza la religión y obliga al hombre a vivir heroicamente de acuerdo con el conocimiento religioso; por lo cual sus impulsos espirituales son el preludio para disfrutar de una paz sublime. <a id="a103_200"></a>[LU 101:8.2](/es/The_Urantia_Book/101#p8_2) <a id="a103_244"></a>[LU 101:8.4](/es/The_Urantia_Book/101#p8_4)
 
 A través de la fe, el alma del hombre se revela así misma y demuestra su potencial eterno y divino.
 
@@ -106,13 +130,13 @@ Y puesto que vosotros ya sois conocedores de DIOS y que ya habéis recibido la c
 
 Qué importancia tiene para vosotros que creéis en el evangelio del reino que caigan las naciones, que termine una era, que todas las cosas materiales se destruyan, en vista de que sabéis que vuestras vidas son el «Don del Hijo Creador» y que su existencia está eternamente segura en el Padre.
 
-Y habiendo vivido «la vida terrenal por la fe» y habiendo rendido los frutos del espíritu en forma recta a través del servicio amoroso para con vuestros semejantes, podéis contemplar con confianza el próximo paso en la carrera eterna, con la misma «Fe de sobrevivencia» que os ha llevado a través de vuestra primera y terrenal aventura como un HIJO DE DIOS POR LAFE. [LU 176:3.2](/es/The_Urantia_Book/176#p3_2) [LU 176:3.2](/es/The_Urantia_Book/176#p3_2).
+Y habiendo vivido «la vida terrenal por la fe» y habiendo rendido los frutos del espíritu en forma recta a través del servicio amoroso para con vuestros semejantes, podéis contemplar con confianza el próximo paso en la carrera eterna, con la misma «Fe de sobrevivencia» que os ha llevado a través de vuestra primera y terrenal aventura como un HIJO DE DIOS POR LAFE. <a id="a132_367"></a>[LU 176:3.2](/es/The_Urantia_Book/176#p3_2) <a id="a132_411"></a>[LU 176:3.2](/es/The_Urantia_Book/176#p3_2).
 
 Así era la fe que Jesús vivió durante su «ministerio personal» y que predicó durante su «ministerio público».
 
-Así pues, «los hijos de DIOS por la fe» que obtienen tal logro espiritual son capaces de presenciar con calma la vista del arruinamiento de sus ambiciones más queridas, el derrumbamiento de sus anhelos y la destrucción de sus esperanzas más profundas, ya que saben categóricamente que tales catástrofes no son otra cosa más que cataclismos redireccionales que estropean las creaciones temporales del creyente del reino, previo al inicio de la posesión de realidades más nobles y perdurables de un nivel espiritual más sublime de logro universal. [LU 100:2.8](/es/The_Urantia_Book/100#p2_8)
+Así pues, «los hijos de DIOS por la fe» que obtienen tal logro espiritual son capaces de presenciar con calma la vista del arruinamiento de sus ambiciones más queridas, el derrumbamiento de sus anhelos y la destrucción de sus esperanzas más profundas, ya que saben categóricamente que tales catástrofes no son otra cosa más que cataclismos redireccionales que estropean las creaciones temporales del creyente del reino, previo al inicio de la posesión de realidades más nobles y perdurables de un nivel espiritual más sublime de logro universal. <a id="a136_546"></a>[LU 100:2.8](/es/The_Urantia_Book/100#p2_8)
 
-Y precisamente lo que hoy en día necesita la religión de Jesús; es ese tipo de «hombres y mujeres espirituales» que se atrevan a depender solamente del espíritu de Jesús que mora en ellos (el espíritu de la verdad), los cuales a través de una renovada «fe espiritual» serán capaces de discernir de manera correcta todo aquello que constituye la suma y la substancia de la misión del hijo autootorgador «Cristo Miguel» aquí en Urantia. [LU 34:5.5-6](/es/The_Urantia_Book/34#p5_5)
+Y precisamente lo que hoy en día necesita la religión de Jesús; es ese tipo de «hombres y mujeres espirituales» que se atrevan a depender solamente del espíritu de Jesús que mora en ellos (el espíritu de la verdad), los cuales a través de una renovada «fe espiritual» serán capaces de discernir de manera correcta todo aquello que constituye la suma y la substancia de la misión del hijo autootorgador «Cristo Miguel» aquí en Urantia. <a id="a138_435"></a>[LU 34:5.5-6](/es/The_Urantia_Book/34#p5_5)
 
 ¿Qué despertar espiritual experimentaría la humanidad si tan solo pudiera ver cómo vivió realmente Jesús su «vida terrenal» dependiendo siempre de su invencible «fe espiritual»!
 
@@ -129,3 +153,27 @@ GRACIAS, HERMANOS.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Nuestro_Transito_a_Moroncia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro tránsito a moroncia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-32-marzo-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 32 — Marzo 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Las_Verdades_Relativas">
+          <span class="pr-2">Las verdades relativas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

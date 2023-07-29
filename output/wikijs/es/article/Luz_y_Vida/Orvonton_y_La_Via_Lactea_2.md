@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Carmelo Martínez, Antonio Moya, Eduardo Altuzarra<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_7_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 7 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-7-diciembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 7 — Diciembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Diego_V_Seoane/Un_Camino_para_acercarse_a_la_Conciencia_de_Dios">
+          <span class="pr-2">Un camino para acercarse a la conciencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -30,11 +54,11 @@ Le he dado vueltas y sigo pensando que todos los superuniversos tienen un mismo 
 
 Me explicaré. Para ello empiezo con tres citas del apartado 7 del documento 11 (todo el apartado es interesante).
 
-> Cita 1: «_Un corte vertical del espacio total se parecería un poco a una cruz de Malta en la que los brazos horizontales representarian el espacio impregnado (universo) y los brazos verticales representarian el espacio no impregnado (depósito). Las áreas entre los cuatro brazos les separarían algo asi a como las zonas de espacio intermedio separan el espacio impregnado del no impregnado. Estas zonas inactivas de espacio intermedio se van haciendo más grandes a medida que aumenta la distancia al Paraíso, abarcando finalmente las fronteras de todo el espacio y encapsulando completamente tanto los depósitos espaciales como toda la extensión horizontal del espacio impregnado_». [LU 11:7.3](/es/The_Urantia_Book/11#p7_3)
+> Cita 1: «_Un corte vertical del espacio total se parecería un poco a una cruz de Malta en la que los brazos horizontales representarian el espacio impregnado (universo) y los brazos verticales representarian el espacio no impregnado (depósito). Las áreas entre los cuatro brazos les separarían algo asi a como las zonas de espacio intermedio separan el espacio impregnado del no impregnado. Estas zonas inactivas de espacio intermedio se van haciendo más grandes a medida que aumenta la distancia al Paraíso, abarcando finalmente las fronteras de todo el espacio y encapsulando completamente tanto los depósitos espaciales como toda la extensión horizontal del espacio impregnado_». <a id="a56_685"></a>[LU 11:7.3](/es/The_Urantia_Book/11#p7_3)
 
-> Cita 2: «_Si imagináis un plano en forma de V, finito pero inconcebiblemente grande, situado en ángulos rectos con respecto tanto a la superficie superior como a la inferior del Paraíso, y con el vértice casi tangente al Paraíso Periférico, y luego visualizáis este plano en revolución eliptica alrededor del Paraíso, su revolución bosquejaria aproximadamente el volumen del espacio impregnador._» [LU 11:7.5](/es/The_Urantia_Book/11#p7_5)
+> Cita 2: «_Si imagináis un plano en forma de V, finito pero inconcebiblemente grande, situado en ángulos rectos con respecto tanto a la superficie superior como a la inferior del Paraíso, y con el vértice casi tangente al Paraíso Periférico, y luego visualizáis este plano en revolución eliptica alrededor del Paraíso, su revolución bosquejaria aproximadamente el volumen del espacio impregnador._» <a id="a58_400"></a>[LU 11:7.5](/es/The_Urantia_Book/11#p7_5)
 
-> Cita 3: «_Hay un limite superior e inferior del espacio borizontal en relación a cualquier posición dada en los universos. Si nos pudiéramos trasladar lo suficientemente lejos en ángulos rectos respecto al plano de Órvonton, bien sea hacia arriba o hacia abajo, encontrariamos finalmente el limite superior o inferior del espacio impregnado. Dentro de las dimensiones conocidas del universo maestro, estos limites se alejan cada vez más al aumentar las distancias al Paraíso; el espacio engorda, y engorda algo más rápidamente que lo hace el plano de la creación, los universos._» [LU 11:7.6](/es/The_Urantia_Book/11#p7_6)
+> Cita 3: «_Hay un limite superior e inferior del espacio borizontal en relación a cualquier posición dada en los universos. Si nos pudiéramos trasladar lo suficientemente lejos en ángulos rectos respecto al plano de Órvonton, bien sea hacia arriba o hacia abajo, encontrariamos finalmente el limite superior o inferior del espacio impregnado. Dentro de las dimensiones conocidas del universo maestro, estos limites se alejan cada vez más al aumentar las distancias al Paraíso; el espacio engorda, y engorda algo más rápidamente que lo hace el plano de la creación, los universos._» <a id="a60_583"></a>[LU 11:7.6](/es/The_Urantia_Book/11#p7_6)
 
 Estos límites que nos «encontraríamos finalmente» están cercanos (relativamente) en Havona y muy alejados en el final del cuarto nivel del espacio exterior. Esto me hace pensar que en el nivel espacial de los superuniversos, especialmente cerca de las fronteras del universo central, no hay demasiado espacio hacia arriba y hacia abajo del «plano del la creación». Desde luego a una determinada distancia de Havona esta anchura del espacio es la misma independientemente de en que superuniverso nos encontremos. Cuanto más cerca de Havona menos dispersión vertical hay. Dentro de Havona esta dispersión es aún menor; de hecho, todas las esferas del universo central se mueven en circuitos que están en el mismo plano, que yo creo que es el plano de los siete superuniversos.
 
@@ -99,3 +123,27 @@ En fin, que son líneas de trabajo paralelas como ya he dicho y que de las dos p
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_7_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 7 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-7-diciembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 7 — Diciembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Diego_V_Seoane/Un_Camino_para_acercarse_a_la_Conciencia_de_Dios">
+          <span class="pr-2">Un camino para acercarse a la conciencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

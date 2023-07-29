@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones urantianas: Verdad universal, sin dogmas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Victor-Izquierdo.png" alt="Victoriano Izquierdo">
@@ -69,3 +90,24 @@ Ha sido una experiencia maravillosa y me ha llevado a conocer e integrarme con l
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones urantianas: Verdad universal, sin dogmas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

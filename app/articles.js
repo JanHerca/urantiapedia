@@ -277,7 +277,7 @@ class Articles {
 				}
 				if (len === 2) {
 					lines.forEach((line, i) => {
-						const [title, translation] = line.split('\t');
+						const [title, translation] = line.trim().split('\t');
 						if (i === 0) {
 							this.index.title = translation;
 							return;

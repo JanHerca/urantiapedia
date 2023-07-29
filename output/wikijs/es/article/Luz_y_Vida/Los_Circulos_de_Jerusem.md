@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Carmelo Martínez, Eduardo Altuzarra<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_10_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 10 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-10-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 10 — Septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_Alberto_Wonsover/Vivir_una_nueva_vida">
+          <span class="pr-2">Vivir una nueva vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -19,9 +43,9 @@ De varios autores
 
 **Eduardo:** Cuado leí por primera vez el documento 46 me quedaron muchas dudas de interpretación y me dije: bueno, como está tan mal traducido, vete tú a saber. Cuando desarrollé los esquemas, también tuve que invertir tiempo y tampoco llegué a comprender muy bien ciertas cosas. Ahora he dedicado mucho más tiempo y ahí van mis incógnitas.
 
-No comprendo muy bien lo del Monte Serafín o Seraf, por lo que os invito a leerlo y me aconsejéis al respecto. Entiendo que es el lugar de donde parten los serafines en sus transportes. A continuación dice: «_Los transportes llegan al campo de vidrio, al llamado mar de cristal_». [LU 46:2.9](/es/The_Urantia_Book/46#p2_9) ¿Es el mismo monte? ¿Entran y salen por el mismo lugar? Yo interpreto que son el mismo.
+No comprendo muy bien lo del Monte Serafín o Seraf, por lo que os invito a leerlo y me aconsejéis al respecto. Entiendo que es el lugar de donde parten los serafines en sus transportes. A continuación dice: «_Los transportes llegan al campo de vidrio, al llamado mar de cristal_». <a id="a45_281"></a>[LU 46:2.9](/es/The_Urantia_Book/46#p2_9) ¿Es el mismo monte? ¿Entran y salen por el mismo lugar? Yo interpreto que son el mismo.
 
-Pero claro, a posteriori dice: «_Alrededor de esta zona se encuentran las estaciones receptoras para las diversas órdenes de seres que atraviesan el espacio mediante el transporte seráfico. ***Cerca de la estación polar receptora de cristal***,_» [LU 46:2.9](/es/The_Urantia_Book/46#p2_9) <ins>¿Qué estación es esa, si dice que son varias?</ins> ¿O el monte seráfico sólo sirve para que «salgan» y este tipo de estaciones sirven para la «llegada» y se encuentran en otro lugar?
+Pero claro, a posteriori dice: «_Alrededor de esta zona se encuentran las estaciones receptoras para las diversas órdenes de seres que atraviesan el espacio mediante el transporte seráfico. ***Cerca de la estación polar receptora de cristal***,_» <a id="a47_247"></a>[LU 46:2.9](/es/The_Urantia_Book/46#p2_9) <ins>¿Qué estación es esa, si dice que son varias?</ins> ¿O el monte seráfico sólo sirve para que «salgan» y este tipo de estaciones sirven para la «llegada» y se encuentran en otro lugar?
 
 **Carmelo:** Es curioso pero en ingles «seraphim» es plural; el singular es «seraph». Aunque algunos diccionarios dicen que se puede considerar tanto singular como plural. Sin embargo sólo hay un sitio en todo el texto en que se utiliza la expresión singular y es precisamente para darle nombre al citado monte. Así, el nombre en castellano es «monte Serafín». Muchas de las 324 veces que aparece la palabra «seraphim» en el texto inglés pueden leerse en singular y en plural sin que cambie demasiado el significado, pero hay varias que deben ser necesariamente singular o necesariamente plural, y sin embargo se usa siempre la expresión plural. ¿Por qué?
 
@@ -29,13 +53,13 @@ Dos ejemplos (pongo el texto inglés seguido de la traducción de 2002) (el subr
 
 > «_If an ascending pilgrim met defeat in the Deity adventure while traversing Havona <ins>in the company of an ascending seraphim</ins>, the guardian angel of the mortal career, she would elect to accompany her mortal associate. These seraphim always volunteer and are permitted to accompany their long-time mortal comrades back to the service of time and space._»
 > 
-> «_Si un peregrino ascendente fuera rechazado en la aventura de la Deidad mientras atraviesa Havona <ins>en compañía de un serafín ascendente</ins>, el ángel guardián de su carrera como mortal, este ángel escogería acompañar a su asociado mortal. Estos serafines se ofrecen siempre como voluntarios y se les permite acompañar a sus camaradas mortales de tantos años que regresan al servicio del tiempo y del espacio._» [LU 25:8.10](/es/The_Urantia_Book/25#p8_10)
+> «_Si un peregrino ascendente fuera rechazado en la aventura de la Deidad mientras atraviesa Havona <ins>en compañía de un serafín ascendente</ins>, el ángel guardián de su carrera como mortal, este ángel escogería acompañar a su asociado mortal. Estos serafines se ofrecen siempre como voluntarios y se les permite acompañar a sus camaradas mortales de tantos años que regresan al servicio del tiempo y del espacio._» <a id="a55_420"></a>[LU 25:8.10](/es/The_Urantia_Book/25#p8_10)
 
 La traducción literal del trozo subrayado sería «_en compañía de un serafines ascendente_» algo claramente incorrecto en español,... y sin embargo en inglés está en el límite; es extraño, forzado, pero correcto.
 
 > «_These headquarters worlds are among the magnificent realms of Nebadon; the seraphic estates are characterized by both beauty and vastness. Here <ins>each seraphim</ins> has a real home, and ‘home’ means the domicile of <ins>two seraphim</ins>; they live in pairs._»
 > 
-> «_Estos mundos sede se cuentan entre los reinos más magníficos de Nebadon; las residencias seráficas están caracterizadas tanto por su belleza como por su inmensidad. Aquí <ins>cada serafín</ins> tiene un verdadero hogar, y «hogar» significa el domicilio de <ins>dos serafines</ins>; viven en parejas._» [LU 38:4.2](/es/The_Urantia_Book/38#p4_2)
+> «_Estos mundos sede se cuentan entre los reinos más magníficos de Nebadon; las residencias seráficas están caracterizadas tanto por su belleza como por su inmensidad. Aquí <ins>cada serafín</ins> tiene un verdadero hogar, y «hogar» significa el domicilio de <ins>dos serafines</ins>; viven en parejas._» <a id="a61_306"></a>[LU 38:4.2](/es/The_Urantia_Book/38#p4_2)
 
 Nuevamente la traducción sería «cada serafines», que es como les sonará a los ingleses.
 
@@ -49,7 +73,7 @@ Pero volvamos a lo que plantea Eduardo. Para mí los transportes salen del monte
 > 
 > «Cerca de la estación polar receptora de cristal, destinada a los visitantes estudiantiles...»
 > 
-> «Cerca de la estación de recepción del vidrio polar correspondiente a los estudiantes visitantes...» [LU 46:2.9](/es/The_Urantia_Book/46#p2_9)
+> «Cerca de la estación de recepción del vidrio polar correspondiente a los estudiantes visitantes...» <a id="a75_103"></a>[LU 46:2.9](/es/The_Urantia_Book/46#p2_9)
 
 Lo polar es el vidrio, no la estación, que es la que se dedica a la recepción y desenserafinación de los estudiantes visitantes. El mar de cristal está en uno de los polos del planeta. Volveré a este tema después.
 
@@ -59,11 +83,11 @@ Mas hay un detalle que no pasa desapercibido. En ese mismo apartado se nombran l
 
 **Carmelo:** Yo entiendo que estas estaciones son receptoras de mensajes y difusiones en general (vamos, la tele). Son distintas de las anteriores de recepción de transportes. Y entiendo que es necesario el mar de cristal para recibir estas difusiones y que, por lo tanto, las estaciones receptoras de difusiones están en el propio mar de cristal (no rodeándolo como antes). Entiendo también que hay, además de diferentes cacharros para recibir lo que viene de fuera del universo local, tres grupos de estaciones para recibir lo que viene de dentro del universo local (mundos, sede central de la constelación y sede central del universo). Todo ello (cacharros más estaciones) está en el mar de cristal, posiblemente en su centro (¿en el polo?) y está rodeado por un inmenso anfiteatro. Eduardo, yo creo que el dibujo que has hecho refleja bastante lo que quiero decir. No hay un anfiteatro para cada estación receptora, sino uno único enorme, y en su centro las estaciones y los cacharros. Entiendo también que lo que son tricirculares son las propias estaciones receptoras.
 
-Lo de los polos está reforzado por lo que se dice en [LU 46:3.4](/es/The_Urantia_Book/46#p3_4): «_La estación de envío de Jerusem está ubicada en el polo opuesto de la esfera_». Todo ello da a entender que hay varias estaciones de recepción en un polo (en el que está el mar de cristal y el inmenso anfiteatro) y una estación de envío en el polo opuesto.
+Lo de los polos está reforzado por lo que se dice en <a id="a85_53"></a>[LU 46:3.4](/es/The_Urantia_Book/46#p3_4): «_La estación de envío de Jerusem está ubicada en el polo opuesto de la esfera_». Todo ello da a entender que hay varias estaciones de recepción en un polo (en el que está el mar de cristal y el inmenso anfiteatro) y una estación de envío en el polo opuesto.
 
-**Eduardo:** Bueno, ahora vienen las famosas zonas, que por cierto la traducción del 93 denomina «arreglos». Como sabéis están diseñadas de cuatro formas diferentes. Los círculos yo no termino de interpretar qué forma tienen, pues habla de estilo y tamaño pero no de forma. ¿Qué forma pueden tener esos edificios circulares? En el resto no creo tener dudas salvo en qué tipo de diseño podrían tener esos «muros» que sirven de paseo público. Hay una cosa muy curiosa escrita en [LU 46:5.22](/es/The_Urantia_Book/46#p5_22) en la que dice: «_El séptimo círculo es la <ins>esfera</ins>..._» ¿Qué pasa, que la forma de los edificios en círculos concéntricos es esférica? Yo personalmente, como no sabía que forma darle, he diseñado esferas, pero bien pueden tener otra forma.
+**Eduardo:** Bueno, ahora vienen las famosas zonas, que por cierto la traducción del 93 denomina «arreglos». Como sabéis están diseñadas de cuatro formas diferentes. Los círculos yo no termino de interpretar qué forma tienen, pues habla de estilo y tamaño pero no de forma. ¿Qué forma pueden tener esos edificios circulares? En el resto no creo tener dudas salvo en qué tipo de diseño podrían tener esos «muros» que sirven de paseo público. Hay una cosa muy curiosa escrita en <a id="a87_477"></a>[LU 46:5.22](/es/The_Urantia_Book/46#p5_22) en la que dice: «_El séptimo círculo es la <ins>esfera</ins>..._» ¿Qué pasa, que la forma de los edificios en círculos concéntricos es esférica? Yo personalmente, como no sabía que forma darle, he diseñado esferas, pero bien pueden tener otra forma.
 
-**Carmelo:** La palabra «arreglos» quiere ser la traducción (mala) de «arrangements», pero para mí son «disposiciones». Ésta es mi traducción de [LU 46:4.6](/es/The_Urantia_Book/46#p4_6):
+**Carmelo:** La palabra «arreglos» quiere ser la traducción (mala) de «arrangements», pero para mí son «disposiciones». Ésta es mi traducción de <a id="a89_145"></a>[LU 46:4.6](/es/The_Urantia_Book/46#p4_6):
 
 > «_Esta disposición de las actividades del sistema en círculos, cuadrados, rectángulos y triángulos es común a todas las capitales de sistema de Nébadon. En otro universo podría predominar una disposición totalmente diferente. Estos son asuntos establecidos por los variados planes de los Hijos Creadores._»
 
@@ -103,7 +127,7 @@ Lo de los polos está reforzado por lo que se dice en [LU 46:3.4](/es/The_Uranti
 
 Todos los diferentes círculos están rodeados por un inmenso paseo, y en particular el grupo de siete círculos de los ángeles. El párrafo 46:5.23 dice:
 
-> «_Estos siete círculos están rodeados por la exposición panorámica de Jerusem, con una circunferencia de cinco mil kilómetros estándar, que está dedicada a la presentación del estado de avance de los mundos poblados de Satania, y que se revisa constantemente para que represente realmente las condiciones actualizadas de cada uno de los planetas. No dudo de que este inmenso paseo, desde el que se dominan los círculos de los ángeles, será el primer lugar de interés de Jerusem que reclamará vuestra atención cuando se os permita disfrutar de un amplio tiempo libre en vuestras primeras visitas._» [LU 46:5.23](/es/The_Urantia_Book/46#p5_23)
+> «_Estos siete círculos están rodeados por la exposición panorámica de Jerusem, con una circunferencia de cinco mil kilómetros estándar, que está dedicada a la presentación del estado de avance de los mundos poblados de Satania, y que se revisa constantemente para que represente realmente las condiciones actualizadas de cada uno de los planetas. No dudo de que este inmenso paseo, desde el que se dominan los círculos de los ángeles, será el primer lugar de interés de Jerusem que reclamará vuestra atención cuando se os permita disfrutar de un amplio tiempo libre en vuestras primeras visitas._» <a id="a129_600"></a>[LU 46:5.23](/es/The_Urantia_Book/46#p5_23)
 
 Cinco mil kilómetros estándar de circunferencia suponen un diámetro de unos 1.590 kilómetros estándar, o sea, unos 17.500 kilómetros de los nuestros. Recordad que el diámetro de la Tierra es de unos 12.700 kilómetros.
 
@@ -112,3 +136,27 @@ En cuanto a lo de ‘esfera’, quizá no deba interpretarse literalmente. El DR
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_10_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 10 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-10-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 10 — Septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_Alberto_Wonsover/Vivir_una_nueva_vida">
+          <span class="pr-2">Vivir una nueva vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

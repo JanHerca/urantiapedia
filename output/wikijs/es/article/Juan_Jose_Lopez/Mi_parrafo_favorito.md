@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Juan José López Vallejos<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Mi-parrafo-favorito-jun-2022.jpg" alt="Mi párrafo favorito - junio 2022">
@@ -24,7 +45,7 @@ Pero no creo que esto sea suficiente. Pretender explicar las eternas cuestiones 
 
 El hombre es un ser complejo, en el que sus componentes más valiosos son los que tienen vocación de trascendencia: su espíritu y su mente. El primero tiene una especial conexión con la Divinidad, e incluso forma parte sustancial de ella; es el encargado de insinuar a la mente (la razón) el mejor camino a seguir en cada momento. Por su parte, esta recibe sus recomendaciones; las medita y finalmente decide. El problema radica en cuál de estas dos fases tiene mayor peso en nuestras decisiones habituales. Y ocurre con frecuencia que en las personas «razonadoras» es la última quien sale vencedora.
 
-¿Cómo superar este inconveniente? La solución la señaló el propio Jesús a Nicodemo, el influyente fariseo miembro del Sanedrín, intelectual honrado atraído por las doctrinas de Jesús, pero incapaz de abandonar su cómoda situación social y su apego a creencias seculares. Jesús le pide nacer de nuevo; debía dar un entero revolcón a su vida. ([LU 142:6.1](/es/The_Urantia_Book/142#p6_1) y siguientes)
+¿Cómo superar este inconveniente? La solución la señaló el propio Jesús a Nicodemo, el influyente fariseo miembro del Sanedrín, intelectual honrado atraído por las doctrinas de Jesús, pero incapaz de abandonar su cómoda situación social y su apego a creencias seculares. Jesús le pide nacer de nuevo; debía dar un entero revolcón a su vida. (<a id="a47_342"></a>[LU 142:6.1](/es/The_Urantia_Book/142#p6_1) y siguientes)
 
 Nicodemo se marchó perplejo: ¿qué significa «nacer de nuevo»?
 
@@ -36,8 +57,29 @@ Es de esta manera cuando se siente plenamente el valor vivificante y liberador d
 
 > La creencia ha alcanzado el nivel de la fe cuando motiva la vida y da forma al modo de vivir. La aceptación de una enseñanza como verdadera no es fe, es mera creencia. Tampoco la certeza ni el convencimiento son fe. Una actitud mental no alcanza los niveles de la fe hasta que domina efectivamente la manera de vivir. La fe es un atributo vivo de la auténtica experiencia religiosa personal. La persona cree en la verdad, admira la belleza y venera la bondad, pero no las adora. La actitud de fe salvadora se dirige solo a Dios, que es la personificación de todo esto e infinitamente más.
 > 
-> La creencia es siempre limitadora y vinculante; la fe es expansiva y liberadora. La creencia fija, la fe libera. Pero la fe religiosa viva es más que una asociación de creencias nobles; es más que un sistema enaltecido de filosofía; es una experiencia viva sobre significados espirituales, ideales divinos y valores supremos; es conocedora de Dios y servidora del hombre. Las creencias pueden llegar a ser posesión colectiva, en cambio la fe tiene que ser personal. Se pueden proponer creencias teológicas a un grupo, pero la fe solo puede surgir en el corazón de cada persona religiosa individual. [LU 101:8.1-2](/es/The_Urantia_Book/101#p8_1)
+> La creencia es siempre limitadora y vinculante; la fe es expansiva y liberadora. La creencia fija, la fe libera. Pero la fe religiosa viva es más que una asociación de creencias nobles; es más que un sistema enaltecido de filosofía; es una experiencia viva sobre significados espirituales, ideales divinos y valores supremos; es conocedora de Dios y servidora del hombre. Las creencias pueden llegar a ser posesión colectiva, en cambio la fe tiene que ser personal. Se pueden proponer creencias teológicas a un grupo, pero la fe solo puede surgir en el corazón de cada persona religiosa individual. <a id="a59_601"></a>[LU 101:8.1-2](/es/The_Urantia_Book/101#p8_1)
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Olga López<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_25_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 25 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-25-junio-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 25 — Junio 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jordi_Cantos/Melodias_para_el_alma">
+          <span class="pr-2">Melodías para el alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nuestro X Encuentro de lectores comenzó oficialmente a las 7 de la tarde del jueves 5 de mayo. En total nos reunimos unas 24 personas procedentes de Sevilla, Málaga, Alicante, Valencia, Vizcaya, Burgos, Tarragona, Gerona y Barcelona. En nuestra primera sesión, entregamos el material que iba a ser utilizado en el Encuentro, y explicamos cuál iba a ser la mecánica de los talleres. Después de la cena, y como actividad complementaria, vimos uno de los capítulos de la serie de J.J. Benitez «Planeta encantado», de
 
@@ -50,7 +74,7 @@ Y, ya para acabar, incluimos aquí el último párrafo del último documento est
 <img src="/image/article/Luz_y_Vida/LyV25/03.jpg">
 </figure>
 
-> _Ahora, los hijos de Dios se han alistado juntos para librar la batalla del triunfo de la realidad sobre las sombras parciales de la existencia. Por fin todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha celestial por alcanzar la vida eterna y el estado divino. Por supuesto, estos hijos liberados por la fe se han alistado en las luchas del tiempo al lado de las fuerzas supremas y de las personalidades divinas de la eternidad; incluso las estrellas en su trayectoria combaten ahora por ellos; por fin contemplan el universo desde dentro, desde el punto de vista de Dios, y las incertidumbres del aislamiento material se transforman en las certezas de la progresión espiritual eterna. Incluso el tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio._ [LU 101:10.9](/es/The_Urantia_Book/101#p10_9)
+> _Ahora, los hijos de Dios se han alistado juntos para librar la batalla del triunfo de la realidad sobre las sombras parciales de la existencia. Por fin todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha celestial por alcanzar la vida eterna y el estado divino. Por supuesto, estos hijos liberados por la fe se han alistado en las luchas del tiempo al lado de las fuerzas supremas y de las personalidades divinas de la eternidad; incluso las estrellas en su trayectoria combaten ahora por ellos; por fin contemplan el universo desde dentro, desde el punto de vista de Dios, y las incertidumbres del aislamiento material se transforman en las certezas de la progresión espiritual eterna. Incluso el tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio._ <a id="a76_937"></a>[LU 101:10.9](/es/The_Urantia_Book/101#p10_9)
 
 ## FOTOS
 
@@ -63,3 +87,27 @@ X Encuentro de lectores de _El Libro de Urantia_
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_25_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 25 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-25-junio-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 25 — Junio 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jordi_Cantos/Melodias_para_el_alma">
+          <span class="pr-2">Melodías para el alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

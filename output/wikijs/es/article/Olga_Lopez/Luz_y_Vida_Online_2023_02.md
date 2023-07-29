@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="pr-2">Luz y Vida — Febrero 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -217,13 +238,13 @@ Romualdo Soler González
 Un personaje que me fascina de _El Libro de Urantia_ es el joven indio Ganid. Me siento muy identificado con él porque le veo asombrarse con lo que va descubriendo de sus charlas con Jesús. Lo veo esforzarse por seguir sus enseñanzas, algunas las entiende en seguida y otras le cuestan. Y varias de sus «conclusiones» de estas charlas son para hablar de sus semejantes y de cómo ve que se les ha de tratar. Aquí van algunas que se encuentran a partir del párrafo 131:10.1:
 
 
-> Aunque no podemos ver a Dios podemos conocerlo, y podemos revelarlo a nuestros semejantes viviendo diariamente la voluntad del Padre del cielo. [LU 131:10.2](/es/The_Urantia_Book/131#p10_2)
+> Aunque no podemos ver a Dios podemos conocerlo, y podemos revelarlo a nuestros semejantes viviendo diariamente la voluntad del Padre del cielo. <a id="a240_146"></a>[LU 131:10.2](/es/The_Urantia_Book/131#p10_2)
 
-> … voy a hacer todo lo posible por tratar a cada uno de mis compañeros mortales como creo que a Dios le gustaría que los tratara (…) y Él nos concederá los deseos de nuestro corazón para que estemos mejor preparados para servir a nuestros semejantes. [LU 131:10.5](/es/The_Urantia_Book/131#p10_5)
+> … voy a hacer todo lo posible por tratar a cada uno de mis compañeros mortales como creo que a Dios le gustaría que los tratara (…) y Él nos concederá los deseos de nuestro corazón para que estemos mejor preparados para servir a nuestros semejantes. <a id="a242_252"></a>[LU 131:10.5](/es/The_Urantia_Book/131#p10_5)
 
-> Haré a mis semejantes todo lo que quisiera que me hicieran a mí. Sé por esta nueva fe que el hombre puede convertirse en hijo de Dios, aunque a veces me aterra pararme a pensar que todos los hombres son mis hermanos. Y sin embargo debe ser verdad. No veo cómo podría regocijarme en la paternidad de Dios y negarme a aceptar la hermandad del hombre. [LU 131:10.7](/es/The_Urantia_Book/131#p10_7)
+> Haré a mis semejantes todo lo que quisiera que me hicieran a mí. Sé por esta nueva fe que el hombre puede convertirse en hijo de Dios, aunque a veces me aterra pararme a pensar que todos los hombres son mis hermanos. Y sin embargo debe ser verdad. No veo cómo podría regocijarme en la paternidad de Dios y negarme a aceptar la hermandad del hombre. <a id="a244_351"></a>[LU 131:10.7](/es/The_Urantia_Book/131#p10_7)
 
-> No juzgaré, porque no quiero ser injusto con mis semejantes. [LU 131:10.8](/es/The_Urantia_Book/131#p10_8)
+> No juzgaré, porque no quiero ser injusto con mis semejantes. <a id="a246_63"></a>[LU 131:10.8](/es/The_Urantia_Book/131#p10_8)
 
 
 Es esta una excelente manera de cumplir con la voluntad del Padre: revelar a Dios, ver a los demás como tus hermanos y hermanas, tratarlos con amor. Y algo importantísimo: no juzgar a tu hermano o hermana. Cada ser humano elige su vida y tiene razones sobradas para hacerlo. Pero esas «razones» no son conocidas por nadie, excepto por esa persona en concreto y por el Padre celestial.
@@ -309,3 +330,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="pr-2">Luz y Vida — Febrero 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

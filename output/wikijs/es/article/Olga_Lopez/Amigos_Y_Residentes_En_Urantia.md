@@ -9,48 +9,72 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Olga López<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un panorama personal, tercera parte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-4-febrero-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 4 — Febrero 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Antonio_Moya/Para_Que_Sirven_Los_Siete_Mundos_De_Las_Mansiones">
+          <span class="pr-2">¿Para qué sirven los siete mundos de las mansiones?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En muchos pasajes del Libro los reveladores nos hablan de seres que residen nuestro planeta y que no son mortales ascendentes como nosotros. Algunos de ellos están aquí pues eso es lo habitual en todos los mundos del tiempo y del espacio (como por ejemplo los seres intermedios, ciudadanos permanentes de los mundos evolutivos, y los Portadores de Vida, que pueden elegir quedarse en el mundo donde sembraron la vida, una vez concluida su misión). Otros están aquí por nuestra peculiar condición de mundo elegido para albergar la séptima donación de nuestro Hijo Creador, y algunos más residen aquí como consecuencia de la rebelión de Lucifer, como por ejemplo el hijo Vorondadek que tenemos aquí en Urantia. He pensado que sería interesante hacer un recuento, una lista de «otros moradores de Urantia», pues quizá nos ayudaría a ser conscientes de que no estamos tan dejados de la mano de Dios como pensamos.
 
 En este recuento he considerado sólo aquellos seres que residen en nuestro planeta de forma permanente o por un tiempo prolongado, al menos mientras dure esta era del universo. Por orden de aparición en el Libro, éstos son los «otros moradores» que he encontrado:
 
-1. **Conciliadores**: grupo perteneciente a las huestes de mensajeros del espacio. No están de forma permanente en un mundo, pero empiezan su servicio en mundos como el nuestro. Por lo tanto es bastante probable que haya alguno de estos seres en nuestro mundo ahora mismo ([LU 25:3.3](/es/The_Urantia_Book/25#p3_3)).
-2. **Ángeles registradores de los planetas habitados**: pertenecen también a las huestes de mensajeros del espacio. ([LU 25:5.2](/es/The_Urantia_Book/25#p5_2))
-3. **Supernafines primarios**: el actual «jefe de los serafines» de Urantia es un supernafín primario con origen en el Paraíso ([LU 27:0.2](/es/The_Urantia_Book/27#p0_2); [LU 37:8.10](/es/The_Urantia_Book/37#p8_10); [LU 114:7.2](/es/The_Urantia_Book/114#p7_2)). 
-4. **Controladores maquinales**, pertenecientes al grupo de los Controladores Físicos Maestros: actualmente hay diez estacionados en Urantia ([LU 29:4.19](/es/The_Urantia_Book/29#p4_19); [LU 39:5.14](/es/The_Urantia_Book/39#p5_14))
-5. **Transmisores de energía**: hay mil en Urantia, que proporcionan el impulso inicial para la partida seráfica ([LU 29:4.19](/es/The_Urantia_Book/29#p4_19); [LU 39:5.14](/es/The_Urantia_Book/39#p5_14)).
-6. **Finalitarios mortales**: se nos dice que hay una o más compañías en nuestro planeta ([LU 31:0.11](/es/The_Urantia_Book/31#p0_11)).
-7. **Portadores de Vida y asociados**: actualmente hay en Urantia dos Portadores y doce asociados ([LU 36:3.9](/es/The_Urantia_Book/36#p3_9); [LU 62:7.3](/es/The_Urantia_Book/62#p7_3)).
-8. **Hijo Vorondadek**: estacionado en Urantia como observador desde la traición de Caligastia. El actual hace el número 23 que sirve en Urantia ([LU 36:6.8](/es/The_Urantia_Book/36#p6_8); [LU 43:5.17](/es/The_Urantia_Book/43#p5_17); [LU 114:6.2](/es/The_Urantia_Book/114#p6_2)).
-9. **Arcángeles**: hay una sede divisionaria en Urantia, y esto es algo bastante excepcional ([LU 37:3.3](/es/The_Urantia_Book/37#p3_3)).
-10. **Intermedios**: ciudadanos permanentes de Urantia ([LU 37:9.11](/es/The_Urantia_Book/37#p9_11); [LU 38:9.1](/es/The_Urantia_Book/38#p9_1); [LU 77:8.10](/es/The_Urantia_Book/77#p8_10)).
+1. **Conciliadores**: grupo perteneciente a las huestes de mensajeros del espacio. No están de forma permanente en un mundo, pero empiezan su servicio en mundos como el nuestro. Por lo tanto es bastante probable que haya alguno de estos seres en nuestro mundo ahora mismo (<a id="a41_273"></a>[LU 25:3.3](/es/The_Urantia_Book/25#p3_3)).
+2. **Ángeles registradores de los planetas habitados**: pertenecen también a las huestes de mensajeros del espacio. (<a id="a42_117"></a>[LU 25:5.2](/es/The_Urantia_Book/25#p5_2))
+3. **Supernafines primarios**: el actual «jefe de los serafines» de Urantia es un supernafín primario con origen en el Paraíso (<a id="a43_128"></a>[LU 27:0.2](/es/The_Urantia_Book/27#p0_2); <a id="a43_171"></a>[LU 37:8.10](/es/The_Urantia_Book/37#p8_10); <a id="a43_216"></a>[LU 114:7.2](/es/The_Urantia_Book/114#p7_2)). 
+4. **Controladores maquinales**, pertenecientes al grupo de los Controladores Físicos Maestros: actualmente hay diez estacionados en Urantia (<a id="a44_142"></a>[LU 29:4.19](/es/The_Urantia_Book/29#p4_19); <a id="a44_187"></a>[LU 39:5.14](/es/The_Urantia_Book/39#p5_14))
+5. **Transmisores de energía**: hay mil en Urantia, que proporcionan el impulso inicial para la partida seráfica (<a id="a45_114"></a>[LU 29:4.19](/es/The_Urantia_Book/29#p4_19); <a id="a45_159"></a>[LU 39:5.14](/es/The_Urantia_Book/39#p5_14)).
+6. **Finalitarios mortales**: se nos dice que hay una o más compañías en nuestro planeta (<a id="a46_90"></a>[LU 31:0.11](/es/The_Urantia_Book/31#p0_11)).
+7. **Portadores de Vida y asociados**: actualmente hay en Urantia dos Portadores y doce asociados (<a id="a47_99"></a>[LU 36:3.9](/es/The_Urantia_Book/36#p3_9); <a id="a47_142"></a>[LU 62:7.3](/es/The_Urantia_Book/62#p7_3)).
+8. **Hijo Vorondadek**: estacionado en Urantia como observador desde la traición de Caligastia. El actual hace el número 23 que sirve en Urantia (<a id="a48_146"></a>[LU 36:6.8](/es/The_Urantia_Book/36#p6_8); <a id="a48_189"></a>[LU 43:5.17](/es/The_Urantia_Book/43#p5_17); <a id="a48_234"></a>[LU 114:6.2](/es/The_Urantia_Book/114#p6_2)).
+9. **Arcángeles**: hay una sede divisionaria en Urantia, y esto es algo bastante excepcional (<a id="a49_94"></a>[LU 37:3.3](/es/The_Urantia_Book/37#p3_3)).
+10. **Intermedios**: ciudadanos permanentes de Urantia (<a id="a50_56"></a>[LU 37:9.11](/es/The_Urantia_Book/37#p9_11); <a id="a50_101"></a>[LU 38:9.1](/es/The_Urantia_Book/38#p9_1); <a id="a50_144"></a>[LU 77:8.10](/es/The_Urantia_Book/77#p8_10)).
 11. **Serafines**: éstos son los distintos grupos de serafines que podemos encontrar en Urantia, sin contar a los serafines guardianes:
-    - **Serafines supremos**, como Manotia, el jefe asociado de los serafines en Urantia ([LU 39:0.9](/es/The_Urantia_Book/39#p0_9); [LU 53:6.6](/es/The_Urantia_Book/53#p6_6)).
-    - **Educadores asistentes**: un cuerpo de esta orden ejerce aquí su actividad ([LU 39:2.7](/es/The_Urantia_Book/39#p2_7)).
-    - **Asistentes administrativos**: hay en Urantia un cuerpo formado por 1000 serafines de esta orden ([LU 39:4.3](/es/The_Urantia_Book/39#p4_3)).
-	En [LU 39:5.2-7](/es/The_Urantia_Book/39#p5_2) se nos habla sobre los ayudantes planetarios que suele haber en los mundos habitados, todos serafines. Aunque muchos fueron retirados de nuestro planeta tras la falta adánica, todavía tenemos aquí serafines de estos grupos:
+    - **Serafines supremos**, como Manotia, el jefe asociado de los serafines en Urantia (<a id="a52_90"></a>[LU 39:0.9](/es/The_Urantia_Book/39#p0_9); <a id="a52_133"></a>[LU 53:6.6](/es/The_Urantia_Book/53#p6_6)).
+    - **Educadores asistentes**: un cuerpo de esta orden ejerce aquí su actividad (<a id="a53_83"></a>[LU 39:2.7](/es/The_Urantia_Book/39#p2_7)).
+    - **Asistentes administrativos**: hay en Urantia un cuerpo formado por 1000 serafines de esta orden (<a id="a54_105"></a>[LU 39:4.3](/es/The_Urantia_Book/39#p4_3)).
+	En <a id="a55_4"></a>[LU 39:5.2-7](/es/The_Urantia_Book/39#p5_2) se nos habla sobre los ayudantes planetarios que suele haber en los mundos habitados, todos serafines. Aunque muchos fueron retirados de nuestro planeta tras la falta adánica, todavía tenemos aquí serafines de estos grupos:
 	- **Voces del Jardín**
 	- **Espíritus de la Fraternidad**
 	- **Almas de la Paz**: su jefe es Vevona
 	- **Espíritus de la Confianza**.
-	- **Transportadores**: hay un gran número de ellos estacionados en Urantia ([LU 39:5.10](/es/The_Urantia_Book/39#p5_10)).
-	Según el Libro, durante los días en que se transmitió la revelación había unas 501.234.619 parejas de serafines ([LU 114:0.2](/es/The_Urantia_Book/114#p0_2)).
-12. **Asesores de los transportes**: un cuerpo de 70 de esta clase de artesanos celestiales está sirviendo en Urantia ([LU 44:5.6](/es/The_Urantia_Book/44#p5_6)). 
-13. **Expertos en comunicaciones**: doce de esta clase de artesanos celestiales están de servicio en Urantia ([LU 44:5.7](/es/The_Urantia_Book/44#p5_7)).
-14. **Intérpretes raciales**: se hace referencia a ellos en [LU 48:6.22](/es/The_Urantia_Book/48#p6_22).
-15. **Planificadores de la mente**: se hace referencia a ellos en [LU 48:6.24](/es/The_Urantia_Book/48#p6_24).
-16. **Hijo Lanonandek**: Caligastia, aunque desprovisto de toda autoridad, sigue en Urantia ([LU 66:8.6](/es/The_Urantia_Book/66#p8_6)).
-17. **Ajustadores personalizados**: tres de ellos aparecieron ante el Vorondadek planetario de Urantia sin haber sido llamados, y continúan de servicio aquí ([LU 109:7.7](/es/The_Urantia_Book/109#p7_7)).
-18. **Gobernador general residente**: poca información se nos da sobre él; los reveladores no quieren que sepamos quién es el gobernador actual para evitar que le veneremos. Es miembro de la comisión de 24 antiguos urantianos instalada en Jerusem y desde que fue nombrado gobernador general reside permanentemente en Urantia. Estos gobernadores se van turnando cada cien años urantianos. La referencia más extensa está en el Doc.114, pero en documentos anteriores también se le menciona ([LU 39:4.3](/es/The_Urantia_Book/39#p4_3) y [LU 39:5.5](/es/The_Urantia_Book/39#p5_5)).
+	- **Transportadores**: hay un gran número de ellos estacionados en Urantia (<a id="a60_77"></a>[LU 39:5.10](/es/The_Urantia_Book/39#p5_10)).
+	Según el Libro, durante los días en que se transmitió la revelación había unas 501.234.619 parejas de serafines (<a id="a61_114"></a>[LU 114:0.2](/es/The_Urantia_Book/114#p0_2)).
+12. **Asesores de los transportes**: un cuerpo de 70 de esta clase de artesanos celestiales está sirviendo en Urantia (<a id="a62_119"></a>[LU 44:5.6](/es/The_Urantia_Book/44#p5_6)). 
+13. **Expertos en comunicaciones**: doce de esta clase de artesanos celestiales están de servicio en Urantia (<a id="a63_110"></a>[LU 44:5.7](/es/The_Urantia_Book/44#p5_7)).
+14. **Intérpretes raciales**: se hace referencia a ellos en <a id="a64_60"></a>[LU 48:6.22](/es/The_Urantia_Book/48#p6_22).
+15. **Planificadores de la mente**: se hace referencia a ellos en <a id="a65_66"></a>[LU 48:6.24](/es/The_Urantia_Book/48#p6_24).
+16. **Hijo Lanonandek**: Caligastia, aunque desprovisto de toda autoridad, sigue en Urantia (<a id="a66_93"></a>[LU 66:8.6](/es/The_Urantia_Book/66#p8_6)).
+17. **Ajustadores personalizados**: tres de ellos aparecieron ante el Vorondadek planetario de Urantia sin haber sido llamados, y continúan de servicio aquí (<a id="a67_158"></a>[LU 109:7.7](/es/The_Urantia_Book/109#p7_7)).
+18. **Gobernador general residente**: poca información se nos da sobre él; los reveladores no quieren que sepamos quién es el gobernador actual para evitar que le veneremos. Es miembro de la comisión de 24 antiguos urantianos instalada en Jerusem y desde que fue nombrado gobernador general reside permanentemente en Urantia. Estos gobernadores se van turnando cada cien años urantianos. La referencia más extensa está en el Doc.114, pero en documentos anteriores también se le menciona (<a id="a68_488"></a>[LU 39:4.3](/es/The_Urantia_Book/39#p4_3) y <a id="a68_532"></a>[LU 39:5.5](/es/The_Urantia_Book/39#p5_5)).
 
-Curiosamente Maquiventa Melquisedek, el Príncipe Planetario vicegerente de Urantia, no reside en nuestro planeta. En [LU 55:7.3](/es/The_Urantia_Book/55#p7_3) se dice que ocupará el asiento de Soberano Planetario cuando el planeta alcance la etapa de luz y vida. Mientras tanto el gobernador general residente es el que le representa. Otros que deberían estar y no están a causa de su falta son nuestros Hijos Materiales. Aunque, como pertenecen al consejo de los 24 de Jerusem ([LU 76:6.3](/es/The_Urantia_Book/76#p6_3)), es posible que les haya tocado hacer de gobernadores residentes durante cien años.
+Curiosamente Maquiventa Melquisedek, el Príncipe Planetario vicegerente de Urantia, no reside en nuestro planeta. En <a id="a70_117"></a>[LU 55:7.3](/es/The_Urantia_Book/55#p7_3) se dice que ocupará el asiento de Soberano Planetario cuando el planeta alcance la etapa de luz y vida. Mientras tanto el gobernador general residente es el que le representa. Otros que deberían estar y no están a causa de su falta son nuestros Hijos Materiales. Aunque, como pertenecen al consejo de los 24 de Jerusem (<a id="a70_479"></a>[LU 76:6.3](/es/The_Urantia_Book/76#p6_3)), es posible que les haya tocado hacer de gobernadores residentes durante cien años.
 
 ## ¿Dónde residen «los otros moradores»?
 
-Una vez se ha hecho el recuento de diferentes seres que residen en Urantia de forma permanente, la pregunta que surge inmediatamente es: ¿dónde están? Dado que en el documento 44 se dice que los seres espirituales y morontiales no sólo viven en esferas físicas (materiales), sino que también tienen residencias y comodidades espirituales ([LU 44:3.1](/es/The_Urantia_Book/44#p3_1)), parece lógico deducir que aquellos seres no materiales que residen en nuestro planeta deben tener algún sitio donde morar, residencias espirituales o morontiales no visibles a nuestros ojos humanos. Además, tenemos en el Libro el ejemplo de Caligastia, nuestro Príncipe Planetario rebelde, que a su llegada a Urantia residía en Dalamatia aun cuando no era visible por los humanos.
+Una vez se ha hecho el recuento de diferentes seres que residen en Urantia de forma permanente, la pregunta que surge inmediatamente es: ¿dónde están? Dado que en el documento 44 se dice que los seres espirituales y morontiales no sólo viven en esferas físicas (materiales), sino que también tienen residencias y comodidades espirituales (<a id="a74_339"></a>[LU 44:3.1](/es/The_Urantia_Book/44#p3_1)), parece lógico deducir que aquellos seres no materiales que residen en nuestro planeta deben tener algún sitio donde morar, residencias espirituales o morontiales no visibles a nuestros ojos humanos. Además, tenemos en el Libro el ejemplo de Caligastia, nuestro Príncipe Planetario rebelde, que a su llegada a Urantia residía en Dalamatia aun cuando no era visible por los humanos.
 
-Buscando en el Libro a los seres antes mencionados, aparecieron varias referencias al «_polo energético universal del planeta_» ([LU 39:5.13](/es/The_Urantia_Book/39#p5_13)), al «_polo planetario de las comunicaciones espaciales_» ([LU 62:7.2](/es/The_Urantia_Book/62#p7_2)), al «_lugar de la polarización espiritual del planeta_» ([LU 189:3.2](/es/The_Urantia_Book/189#p3_2)). Es probable que haya alguna referencia más. Entiendo que a ese «polo» le corresponde una ubicación física, una localización geográfica en nuestro planeta, y supongo que las tres referencias anteriores se refieren al mismo lugar.
+Buscando en el Libro a los seres antes mencionados, aparecieron varias referencias al «_polo energético universal del planeta_» (<a id="a76_129"></a>[LU 39:5.13](/es/The_Urantia_Book/39#p5_13)), al «_polo planetario de las comunicaciones espaciales_» (<a id="a76_232"></a>[LU 62:7.2](/es/The_Urantia_Book/62#p7_2)), al «_lugar de la polarización espiritual del planeta_» (<a id="a76_332"></a>[LU 189:3.2](/es/The_Urantia_Book/189#p3_2)). Es probable que haya alguna referencia más. Entiendo que a ese «polo» le corresponde una ubicación física, una localización geográfica en nuestro planeta, y supongo que las tres referencias anteriores se refieren al mismo lugar.
 
 ¿Será este «polo» el lugar donde residen «los otros moradores»?
 
@@ -65,3 +89,27 @@ Por supuesto, todo esto no son más que conjeturas. Pero quizá esto explique lo
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un panorama personal, tercera parte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-4-febrero-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 4 — Febrero 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Antonio_Moya/Para_Que_Sirven_Los_Siete_Mundos_De_Las_Mansiones">
+          <span class="pr-2">¿Para qué sirven los siete mundos de las mansiones?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

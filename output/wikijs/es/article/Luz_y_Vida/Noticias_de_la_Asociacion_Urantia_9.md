@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Antonio_Moya_and_Carmelo_Martinez/Nos_dejaron_solos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nos dejaron solos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-24-marzo-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 24 — Marzo 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## X Encuentro de lectores de El Libro de Urantia
 
@@ -103,3 +124,24 @@ O bien puede enviar el formulario por correo electrónico a la dirección uranti
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Antonio_Moya_and_Carmelo_Martinez/Nos_dejaron_solos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nos dejaron solos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-24-marzo-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 24 — Marzo 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

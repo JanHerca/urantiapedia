@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore">
+          <span class="pr-2">Cuestionario Urantiano: Jorge Nagore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -54,12 +75,12 @@ Os ofrecemos material muy variado de carácter «urantiano» ya que el Movimient
 > el impulso a la exploración,<br>
 > es parte de la dote innata y<br>
 > divina de las criaturas evolutivas del espacio.<br>
-> ([LU 14:5.11](/es/The_Urantia_Book/14#p5_11))
+> (<a id="a77_3"></a>[LU 14:5.11](/es/The_Urantia_Book/14#p5_11))
 
 Así es como podemos comprender los sorprendentes encuentros de Jesús de Nazaret con los niños. Jesús recrimina a sus apóstoles cuando no permiten que los niños se le acerquen a Él. Jesús los nombra como modelo para todos, es decir, para sus paisanos, discípulos… y para nosotros que vivimos en el siglo XXI.
 
 > «De cierto, de cierto os digo que el que no reciba el reino de Dios como un niño, difícilmente podrá entrar en él y crecer hasta la estatura plena de la hombría espiritual».
-> ([LU 167:6.1](/es/The_Urantia_Book/167#p6_1))
+> (<a id="a82_3"></a>[LU 167:6.1](/es/The_Urantia_Book/167#p6_1))
 
 ¿Imaginamos cómo serían nuestras vidas en Urantia si estas se orientaran según una serie de actitudes que manifiestan los más pequeños?
 
@@ -88,11 +109,11 @@ Aprender jugando, descubriendo por nosotros mismos las grandes verdades o valore
 Ahora comprendemos mejor este juego eterno que es nuestra vida.
 
 
-> Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen de ninguna manera el concepto de la soberanía universal de Dios. [LU 3:5.5](/es/The_Urantia_Book/3#p5_5)
+> Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen de ninguna manera el concepto de la soberanía universal de Dios. <a id="a111_147"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)
 > 
-> Una inteligencia libre e inexperimentada no puede ser de ninguna manera uniformemente sabia al principio. [LU 3:5.15](/es/The_Urantia_Book/3#p5_15)
+> Una inteligencia libre e inexperimentada no puede ser de ninguna manera uniformemente sabia al principio. <a id="a113_108"></a>[LU 3:5.15](/es/The_Urantia_Book/3#p5_15)
 > 
-> Todas las cosas divinas que la mente humana capta y que el alma humana consigue son consecuciones experienciales; son _realidades_ de la experiencia personal y son, por lo tanto, posesiones únicas. [LU 3:5.16](/es/The_Urantia_Book/3#p5_16)
+> Todas las cosas divinas que la mente humana capta y que el alma humana consigue son consecuciones experienciales; son _realidades_ de la experiencia personal y son, por lo tanto, posesiones únicas. <a id="a115_200"></a>[LU 3:5.16](/es/The_Urantia_Book/3#p5_16)
 
 Vemos, pues, que todo está cuidadosamente planificado para que busquemos y descubramos por nosotros mismos las perlas de la Vida.
 
@@ -244,7 +265,7 @@ Olga López
 </figure>
 
 
-> _Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal._ [LU 102:7.10](/es/The_Urantia_Book/102#p7_10)
+> _Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal._ <a id="a267_287"></a>[LU 102:7.10](/es/The_Urantia_Book/102#p7_10)
 
 He elegido este párrafo del documento 102 como mi favorito, aunque podría decir que son muchos los párrafos del libro que resuenan fuertemente en mi interior y que me parecen tan hermosos en la forma como en el fondo.
 
@@ -299,3 +320,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore">
+          <span class="pr-2">Cuestionario Urantiano: Jorge Nagore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

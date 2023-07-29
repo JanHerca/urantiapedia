@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01">
+          <span class="pr-2">Luz y Vida — Enero 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -47,7 +68,7 @@ Existe una hermosa leyenda de origen medieval que recoge la historia sobre un te
 
 Este problema, tratar de comprender con nuestra pequeña mente mortal el misterio de Dios, fue un auténtico reto para los reveladores que estuvieron laborando durante años en la redacción de _El Libro de Urantia_. En el mismo inicio del libro, el Prólogo, ya nos lo anuncia:
 
-> «…es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
+> «…es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» (<a id="a70_321"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
 [Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01)
 <br style="clear:both" />
@@ -240,7 +261,7 @@ M. Helena Bañas
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/Mi-parrafo-favorito-ene-22.jpg" alt="Mi párrafo favorito - ene 2022">
 </figure>
 
-> «… La inmortalidad es la meta de la sinceridad; … Los sinceros no mueren».[LU 131:3.7](/es/The_Urantia_Book/131#p3_7) 
+> «… La inmortalidad es la meta de la sinceridad; … Los sinceros no mueren».<a id="a263_76"></a>[LU 131:3.7](/es/The_Urantia_Book/131#p3_7) 
 
 Al igual que muchos otros lectores, existen numerosas citas que podría haber elegido como favorita para comentar, pues _El l__ibro de Urantia_ está lleno de auténticas _perlas_ de sabiduría que a menudo nos cautivan y nos estremecen. Pero elegí esta de la **_sinceridad_** por la importancia de este valor en nuestra vida y en nuestra ascensión por el universo, y por la falta de sinceridad en el mundo.
 
@@ -248,13 +269,13 @@ _Sinceridad_ aparece tantas veces en el libro como _verdad o amor._ Deriva del l
 
 Como vemos, la sinceridad está en la raíz de muchas otras virtudes morales e implica nobleza en nuestras relaciones, tanto con los demás como con nosotros mismos. Y esto es muy importante y de gran liberación porque ser sinceros aumenta nuestra autoestima, hace que abandonemos muchas poses «fingidas» o el deseo de ser otra persona y, una vez nos aceptamos como somos con total honestidad, podemos comenzar a mejorar nuestros defectos y a alinearnos con nuestras acciones. Los demás nos verán también como alguien en quien poder confiar y aportaremos una base sólida para entablar cualquier amistad, incluida la amistad con Dios.
 
-Ser sinceros implica también un equilibrio en nuestras relaciones, ya que el exceso de sinceridad puede dañar al otro: «_…la sinceridad cumple su mejor función en el trabajo del reino cuando está unida con la discreción_» [LU 181:2.21](/es/The_Urantia_Book/181#p2_21)
+Ser sinceros implica también un equilibrio en nuestras relaciones, ya que el exceso de sinceridad puede dañar al otro: «_…la sinceridad cumple su mejor función en el trabajo del reino cuando está unida con la discreción_» <a id="a271_222"></a>[LU 181:2.21](/es/The_Urantia_Book/181#p2_21)
 
 Discreción y sinceridad deben, pues, ir de la mano, y debemos estimular y conservar en los más pequeños esa cualidad tan innata que poseen, pero a la vez debemos advertirles pronto que no deben decir todo lo que piensen, aunque sea verdad, y que deben ser prudentes y actuar con los demás tal y como desearían que actuaran con ellos. Nosotros tampoco debemos olvidarlo.
 
 Y lo más importante: sin sinceridad, sin esa actitud de los niños pequeños que tanto elogiaba Jesús, no podremos conocer a Dios en nuestra experiencia personal, experimentarlo, sentirlo… tan solo podremos creer en Él por la fe; por eso la sinceridad es la llave del reino de los cielos dentro de nosotros, como nos dicen los Documentos.
 
-De ahí también que Jesús _«mucho valoraba la sinceridad —un corazón puro»_ [LU 140:8.2](/es/The_Urantia_Book/140#p8_2), y que _«Dios nunca olvida la sinceridad»_. [LU 131:1.6](/es/The_Urantia_Book/131#p1_6)
+De ahí también que Jesús _«mucho valoraba la sinceridad —un corazón puro»_ <a id="a277_75"></a>[LU 140:8.2](/es/The_Urantia_Book/140#p8_2), y que _«Dios nunca olvida la sinceridad»_. <a id="a277_163"></a>[LU 131:1.6](/es/The_Urantia_Book/131#p1_6)
 
 
 ## Cuestionario urantiano: Gloria Andreu
@@ -306,3 +327,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01">
+          <span class="pr-2">Luz y Vida — Enero 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

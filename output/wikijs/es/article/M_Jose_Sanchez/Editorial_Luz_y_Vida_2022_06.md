@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Juan_Jose_Lopez/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1">
@@ -58,13 +82,13 @@ Todos necesitamos relatos así, transparentes, que nos ayuden a ver las cosas co
 
 > Jesús era particularmente reacio a orar en público; los doce le habían oído orar muy pocas veces hasta ese momento. Observaban que pasaba noches enteras orando o adorando y tenían mucha curiosidad por conocer su método o su forma de orar.
 > 
-> Jesús enseñó a los doce a orar siempre en secreto; a apartarse para orar en algún lugar tranquilo de la naturaleza o a solas en sus habitaciones con la puerta cerrada. [LU 144:3.14-15](/es/The_Urantia_Book/144#p3_14)
+> Jesús enseñó a los doce a orar siempre en secreto; a apartarse para orar en algún lugar tranquilo de la naturaleza o a solas en sus habitaciones con la puerta cerrada. <a id="a84_170"></a>[LU 144:3.14-15](/es/The_Urantia_Book/144#p3_14)
 
 Nos dice el sacerdote Pablo D’Ors que uno de los rasgos más característicos de Jesús era su gran voluntad pedagógica, de ser un Maestro. Él entendió muy pronto que, además de anunciar, debía enseñar. Su forma de ser Maestro, sus enseñanzas, buscaron ser sencillas y breves, casi todos podían entender lo que decía, si bien a distintos niveles de profundidad. No solía argumentar o elaborar teorías, más bien al contrario. Partía siempre de una imagen, era una artista: los lirios del campo, la moneda perdida, la levadura, el manto, los pájaros… todas sus palabras eran imágenes. Por ello su predicación no se olvidaba y ha pasado a la posteridad.
 
 Notemos este ejemplo, un poco jocoso, de un vecino pesado y molesto, que Jesús utiliza para aclararnos la importancia de la persistencia y el enfoque. Todas las cosas que le rodeaban podían traslucir Verdad, todas las imágenes le servían:
 
-> Si alguno de vosotros llama a casa de su vecino a media noche diciendo: ‘Amigo, préstame tres panes porque ha venido a verme un amigo mío que está de viaje y no tengo nada que ofrecerle’, y vuestro vecino responde: ‘No me molestes, la puerta ya está cerrada, mis hijos y yo estamos acostados y no puedo levantarme a darte pan’, vosotros insistiréis explicándole que vuestro amigo tiene hambre y que no tenéis nada que darle. Os digo que aunque vuestro vecino no se levante para daros el pan por ser amigo vuestro, se levantará para que dejéis de molestarlo y os dará tantos panes como necesitéis. Por lo tanto, si la insistencia consigue los favores incluso del hombre mortal, cuánto más vuestra insistencia en el espíritu conseguirá para vosotros el pan de vida de las manos generosas del Padre del cielo. Os lo repito: pedid y se os dará, buscad y encontraréis, llamad y se os abrirá. Porque todo el que pide recibe, el que busca encuentra y al que llama a la puerta de la salvación se le abrirá. [LU 144:2.3](/es/The_Urantia_Book/144#p2_3)
+> Si alguno de vosotros llama a casa de su vecino a media noche diciendo: ‘Amigo, préstame tres panes porque ha venido a verme un amigo mío que está de viaje y no tengo nada que ofrecerle’, y vuestro vecino responde: ‘No me molestes, la puerta ya está cerrada, mis hijos y yo estamos acostados y no puedo levantarme a darte pan’, vosotros insistiréis explicándole que vuestro amigo tiene hambre y que no tenéis nada que darle. Os digo que aunque vuestro vecino no se levante para daros el pan por ser amigo vuestro, se levantará para que dejéis de molestarlo y os dará tantos panes como necesitéis. Por lo tanto, si la insistencia consigue los favores incluso del hombre mortal, cuánto más vuestra insistencia en el espíritu conseguirá para vosotros el pan de vida de las manos generosas del Padre del cielo. Os lo repito: pedid y se os dará, buscad y encontraréis, llamad y se os abrirá. Porque todo el que pide recibe, el que busca encuentra y al que llama a la puerta de la salvación se le abrirá. <a id="a90_1001"></a>[LU 144:2.3](/es/The_Urantia_Book/144#p2_3)
 
 La primera conclusión de todo este planteamiento innovador de Jesús es que la oración no necesita templos o iglesias, puesto que el templo somos nosotros mismos: nuestro cuerpo es el santuario donde se produce eso que llamamos oración. La aventura del alma se verifica en nuestro cuerpo.
 
@@ -72,7 +96,7 @@ De ahí llegamos a otra conclusión revolucionaria: si para orar no es preciso e
 
 Otra clave también se refiere a una advertencia que hizo Jesús, importante:
 
-> Jesús advirtió a sus seguidores que sus oraciones no se volverían más eficaces mediante repeticiones floridas, frases elocuentes, ayunos, sacrificios o penitencias. [LU 146:2.15](/es/The_Urantia_Book/146#p2_15)
+> Jesús advirtió a sus seguidores que sus oraciones no se volverían más eficaces mediante repeticiones floridas, frases elocuentes, ayunos, sacrificios o penitencias. <a id="a98_167"></a>[LU 146:2.15](/es/The_Urantia_Book/146#p2_15)
 
 Orar no consiste en hablar mucho, pedir con elocuencia cosas, porque las palabras, cuando no nacen de lo profundo, tienden a interferir en el flujo de la vida hasta bloquearlo; y porque cuando pedimos es siempre porque tenemos algún interés personal. La oración, realmente, no va por ahí. Es así como en lugar de ser un medio, las palabras puedan convertirse a menudo en un obstáculo.
 
@@ -80,10 +104,34 @@ El silencio, por contrapartida, carente de ideas y de emociones, es el marco en 
 
 El silencio nunca puede ser un obstáculo, es demasiado discreto, humilde y desnudo como para obstaculizar nada. Nadie se puede enorgullecer por callar mejor que otro. Por ello, el silencio es el ámbito en el que el espíritu puede revelarse con más claridad.
 
-> Una de las razones por las cuales Pedro, Santiago y Juan, que acompañaron tantas veces a Jesús en sus largas noches de vigilia, nunca le oyeron rezar es que su Maestro casi nunca ponía sus oraciones en palabras habladas. Jesús hacía casi toda su oración en silencio: en su espíritu y en su corazón. [LU 144:4.10](/es/The_Urantia_Book/144#p4_10)
+> Una de las razones por las cuales Pedro, Santiago y Juan, que acompañaron tantas veces a Jesús en sus largas noches de vigilia, nunca le oyeron rezar es que su Maestro casi nunca ponía sus oraciones en palabras habladas. Jesús hacía casi toda su oración en silencio: en su espíritu y en su corazón. <a id="a106_301"></a>[LU 144:4.10](/es/The_Urantia_Book/144#p4_10)
 
 Así pues, hagamos como nuestro querido Maestro: entremos en nuestro aposento, entremos en nuestro cuerpo, cerremos la puerta a los sentidos, apartando los estímulos externos y sosegando nuestra mente, para escuchar y mirar hacia dentro, hacia Él. Porque en la habitación silenciosa de nuestro cuerpo aquietado y de nuestra mente silenciada está esa Fuente y Centro que nos saciará para siempre. Ahí estará por fin nuestro corazón saciado. Sentiremos que, por fin, estamos despiertos.
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Juan_Jose_Lopez/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

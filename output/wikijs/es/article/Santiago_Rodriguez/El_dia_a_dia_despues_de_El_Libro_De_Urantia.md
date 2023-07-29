@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Santiago Rodríguez<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Aborto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El aborto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-30-septiembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 30 — Septiembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_13">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Durante todos estos años de trabajo en el grupo de estudio, hemos ido desgranando sus contenidos, tratando de comprenderlos y (por qué no) también de interpretarlos, y yo personalmente estoy más que satisfecho de lo aprendido. Creo que todo este trabajo en común ha dado sus frutos. Nos ha enseñado sobre el cómo y por qué de las cosas. Cómo está todo organizado y cuál es su finalidad, qué podemos esperar en un futuro, tanto próximo como remoto. Incluso nos han explicado que tenemos un porvenir fuera del tiempo, lo cual no deja de ser, cuando menos, sorprendente.
@@ -47,7 +71,7 @@ Un día, Zoilo se topa con el LU, lo lee...y aquí estamos. Somos un Zoilo cualq
 
 ¿Pensáis que la vida de Zoilo podría o debería cambiar? ¿De qué manera? ¿O, por el contrario, lo único que puede pasarle a Zoilo es que atesorará nuevos conocimientos y continuará con su vida como hasta ahora? De hecho, él ya era «bueno» antes de la lectura del LU. Quizá no necesite nada más. Ahora ya conoee muchas más cosas que antes de su lectura, muchas de sus preguntas existenciales las tiene respondidas y podría comunicar a otras personas lo aprendido y hacerlo con entusiasmo. Es maravilloso tener respuestas (y poder compartirlas con otros seres humanos): ¿Cuál es el destino que nos espera? ¿Qué sentido tiene nuestra existencia? ¿De dónde venimos? ¿Cómo enfrentarnos a los reveses que de uno u otro tipo nos puede traer la existencia? ¿Qué esperar y qué no de nuestro Creador? ¿Qué esperar de nuestros semejantes, de las instituciones? ¿Por qué el universo es tan grande? ¿Existe vida después de la muerte? ¿Existen los ángeles y cómo son? ¿Existe Satanás? ¿Existe el cielo y el infierno? ¿Somos algo más de lo que vemos? ¿De qué estamos hechos?
 
-Incluso hemos podido obtener respuesta a la manera de comportarnos frente a situaciones que podríamos considerar como de alta intensidad emocional, porque de hecho nos explican por qué es interesante y en cierto modo inevitable vivirlas; recordemos el apartado de las inevitabilidades ([LU 3:5.5](/es/The_Urantia_Book/3#p5_5)).
+Incluso hemos podido obtener respuesta a la manera de comportarnos frente a situaciones que podríamos considerar como de alta intensidad emocional, porque de hecho nos explican por qué es interesante y en cierto modo inevitable vivirlas; recordemos el apartado de las inevitabilidades (<a id="a73_286"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)).
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV30/09.jpg">
@@ -73,7 +97,7 @@ Aunque pueda resultar interesante e inspirador tratar de practicar con este proc
 
 Pero esta situación no me deja del todo satisfecho. Es cierto que parece que hemos resuelto una situación concreta, pero aún me falta encontrar una línea de actuación. Creo que, aunque sea interesante el hecho de lograr uno u otro objetivo, también lo ha de ser tanto o más el hecho de encontrar, adivinar o intuir una línea de acción que me sirva de guía para mi actividad cotidiana. De hecho, no nos podemos pasar el día interrogándonos en cada instante como si de una decisión vital se tratara.
 
-El LU me debería proporcionar información al respecto...y efectivamente me lo expresa literalmente al menos 11 veces en 9 documentos diferentes, incluyéndolo expresamente en la oración que Jesús dio a sus hermanos en Nazaret ([LU 144:3.1-12](/es/The_Urantia_Book/144#p3_1)).
+El LU me debería proporcionar información al respecto...y efectivamente me lo expresa literalmente al menos 11 veces en 9 documentos diferentes, incluyéndolo expresamente en la oración que Jesús dio a sus hermanos en Nazaret (<a id="a99_226"></a>[LU 144:3.1-12](/es/The_Urantia_Book/144#p3_1)).
 
 Hay un plan universal para la ascensión de las criaturas y, sobre este plan, el Padre promulgó el mandato universal: «_Sed perfectos, así como yo soy perfecto_». Esto expresa su voluntad para con nosotros. Dado este mandato, en nuestras manos queda el asunto de traducir esto a nuestra vida diaria.
 
@@ -87,7 +111,7 @@ Por otro lado, el Padre quiere que vivamos con alegría. La obligación de crece
 
 Recordemos otro pasaje del LU en el que se nos dice explícitamente que, a nuestra llegada como peregrinos a Havona, sólo llegaremos con una dote de perfección, algo que personalmente interpreto como que se nos pide que hayamos alcanzado la perfección en una de las facetas, y la perfección que se espera de nosotros es la «perfección de propósito»:
 
-> _Cuando, mediante y a través del ministerio de todas las huestes de ayudantes del esquema universal de supervivencia, finalmente sois depositados sobre el mundo de recepción de Havona, llegáis tan sólo con un tipo de perfección: perfección de propósito._ [LU 26:4.13](/es/The_Urantia_Book/26#p4_13)
+> _Cuando, mediante y a través del ministerio de todas las huestes de ayudantes del esquema universal de supervivencia, finalmente sois depositados sobre el mundo de recepción de Havona, llegáis tan sólo con un tipo de perfección: perfección de propósito._ <a id="a113_257"></a>[LU 26:4.13](/es/The_Urantia_Book/26#p4_13)
 
 Si tenemos en cuenta nuestro origen racial, que somos poco más que animales, nuestro camino inmediato está claro: hemos de ir «desanimalizándonos» progresivamente, y aquí en nuestro mundo y en nuestra vida actual. Si somos capaces de marcar las diferencias con el resto de mamíferos, formará parte de nuestra obligación ir incrementando esas diferencias tanto cualitativa como cuantitativamente.
 
@@ -122,7 +146,7 @@ Lo que pienso que puede diferenciar a Zoilo, antes y después de leer el LU, es 
 
 1. Su origen y su destino.
 2. De la existencia del Padre Universal, conocer su relación con nosotros y lo que Él espera de nosotros: hacer su Voluntad. Esta afirmación, válida para cualquier criatura de cualquier lugar y cualquier momento de su existencia, supone en nuestro caso aceptar el camino evolutivo con la mirada puesta en perfeccionarnos. Para ello se nos exhorta a no buscar atajos; hemos de dar tiempo al tiempo. De hecho, en toda una edad universal se nos va a pedir solamente «perfección de propósito».
-3. Hemos de evitar el error de Caligastia ([LU 136:8.5](/es/The_Urantia_Book/136#p8_5)). No olvidemos que estos cambios han de ser sin violencia. Hemos de mantener una velocidad adecuada y recordar que, en el camino de perfección evolutiva, no valen atajos.
+3. Hemos de evitar el error de Caligastia (<a id="a148_43"></a>[LU 136:8.5](/es/The_Urantia_Book/136#p8_5)). No olvidemos que estos cambios han de ser sin violencia. Hemos de mantener una velocidad adecuada y recordar que, en el camino de perfección evolutiva, no valen atajos.
 4. Conocido que esto es lo que el Padre quiere, Zoilo lo desea porque cree que es adecuado y porque voluntariamente decide que, si es la voluntad del Padre, basta para aceptarlo.
 
 La forma de abordarlo en el día a día es estar atento a nuestras emociones y sentimientos (estados de ánimo), observarlos para comprenderlos, diferenciar los que provienen de la respuesta rápida automática, evaluarlos y tratar de dejar en nuestra memoria selectiva la forma adecuada de respuesta a esos estímulos, para tratar de adecuarlos a nuestro programa personal de «desanimalización». Igualmente y con mayor motivo ante la situación de respuesta diferida por el pensamiento reflexivo.
@@ -132,3 +156,27 @@ La educación de nuestra mente (en hábitos de respuesta cada vez más elevados 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Aborto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El aborto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-30-septiembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 30 — Septiembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_13">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01">
+          <span class="pr-2">Luz y Vida — Enero 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -216,7 +237,7 @@ Luis García Bory
 
 Altruismo
 
-> «Un carácter fuerte no se forma a base de no obrar mal, sino de obrar bien. El altruismo es el distintivo de la grandeza humana. Los niveles más altos de autorrealización se alcanzan mediante la adoración y el servicio. La persona feliz y eficaz no está motivada por el temor a obrar mal, sino por el amor a obrar bien.» ([LU 140:4.6](/es/The_Urantia_Book/140#p4_6))
+> «Un carácter fuerte no se forma a base de no obrar mal, sino de obrar bien. El altruismo es el distintivo de la grandeza humana. Los niveles más altos de autorrealización se alcanzan mediante la adoración y el servicio. La persona feliz y eficaz no está motivada por el temor a obrar mal, sino por el amor a obrar bien.» (<a id="a239_324"></a>[LU 140:4.6](/es/The_Urantia_Book/140#p4_6))
 
 Esta es mi sección favorita de _El Libro de Urantia_, por tres razones:
 
@@ -262,3 +283,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01">
+          <span class="pr-2">Luz y Vida — Enero 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jaime Marco<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parábola del propietario de las viñas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carmelo_Martinez/El_ultimo_discurso_en_el_templo">
+          <span class="pr-2">El último discurso en el templo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La parábola de las minas la encontramos en el [documento 171](/es/The_Urantia_Book/171). Como todas las parábolas hemos de ponerla en su contexto para poder entenderla de forma plena.
 
@@ -51,3 +75,27 @@ Las conclusiones de Natanael de las cuales se valió para explicar estas parábo
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parábola del propietario de las viñas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carmelo_Martinez/El_ultimo_discurso_en_el_templo">
+          <span class="pr-2">El último discurso en el templo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

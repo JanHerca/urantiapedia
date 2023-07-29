@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="pr-2">Reflexiones urantianas: Verdad universal, sin dogmas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022">
@@ -80,7 +104,7 @@ Y el antiguo salmista también nos pide alejarnos del miedo para estar bien cent
 
 Libres de miedos, abiertos, unidos… así nos quiere nuestro Padre celestial.
 
-> «La religión de Jesús es la influencia unificadora más poderosa que el mundo haya conocido jamás.» ([LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
+> «La religión de Jesús es la influencia unificadora más poderosa que el mundo haya conocido jamás.» (<a id="a106_102"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
 
 Pero nuestro Padre nos pide más…
 
@@ -100,13 +124,13 @@ Descubrió Jalics que no se trata tan solo de comprender al otro y de aconsejarl
 
 Una actitud sanadora que precisamente utilizó con sus contemporáneos nuestro Creador, Miguel de Nebadon, mientras convivió físicamente con nosotros en este planeta:
 
-> «Por regla general enseñaba más a quienes menos decía. Quienes más se beneficiaron de su ministerio personal eran personas agobiadas, preocupadas y abatidas que encontraron mucho alivio en la oportunidad de desahogarse con un oyente amable y comprensivo. Él era todo eso y mucho más.» ([LU 132:4.2](/es/The_Urantia_Book/132#p4_2))
+> «Por regla general enseñaba más a quienes menos decía. Quienes más se beneficiaron de su ministerio personal eran personas agobiadas, preocupadas y abatidas que encontraron mucho alivio en la oportunidad de desahogarse con un oyente amable y comprensivo. Él era todo eso y mucho más.» (<a id="a126_288"></a>[LU 132:4.2](/es/The_Urantia_Book/132#p4_2))
 > 
-> «A la gente le gustaba escucharlo porque era uno de ellos, un laico sin pretensiones. El maestro religioso más grande del mundo era un laico.» ([LU 196:1.4](/es/The_Urantia_Book/196#p1_4))
+> «A la gente le gustaba escucharlo porque era uno de ellos, un laico sin pretensiones. El maestro religioso más grande del mundo era un laico.» (<a id="a128_146"></a>[LU 196:1.4](/es/The_Urantia_Book/196#p1_4))
 
 Si de verdad buscamos difundir el libro, ampliar el movimiento Urantia, expandir las mentes con el evangelio, se trataría de seguir de verdad al Maestro y su manera de SER: escuchar a las personas de una manera distinta, más profunda, más honda, al estilo de Jesús de Nazaret, que confiaba en los seres humanos y les dedicaba tiempo.
 
-> «Jesús hacía que los hombres se sintieran en el mundo como en casa; los liberaba de la esclavitud de los tabúes y les enseñaba que el mundo no es fundamentalmente malo. No anhelaba escapar de su vida terrenal; dominó la práctica de hacer aceptablemente la voluntad del Padre mientras vivía en la carne.» [LU 196:2.9](/es/The_Urantia_Book/196#p2_9)
+> «Jesús hacía que los hombres se sintieran en el mundo como en casa; los liberaba de la esclavitud de los tabúes y les enseñaba que el mundo no es fundamentalmente malo. No anhelaba escapar de su vida terrenal; dominó la práctica de hacer aceptablemente la voluntad del Padre mientras vivía en la carne.» <a id="a132_306"></a>[LU 196:2.9](/es/The_Urantia_Book/196#p2_9)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-1.jpg" alt="Editorial - febrero 2022">
@@ -114,7 +138,7 @@ Si de verdad buscamos difundir el libro, ampliar el movimiento Urantia, expandir
 
 Ahora podemos captar mejor esta impactante frase de _El Libro de Urantia_, que seguramente hemos leído más de una vez, cuando nos anima a «seguir a Jesús»:
 
-> «‘Seguir a Jesús’ significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes del vivir humano es averiguar lo que Jesús creía, descubrir sus ideales y esforzarse por alcanzar el elevado objetivo de su vida. Lo más valioso de todo el saber humano es conocer la vida religiosa de Jesús y su manera de vivirla.» [LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
+> «‘Seguir a Jesús’ significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes del vivir humano es averiguar lo que Jesús creía, descubrir sus ideales y esforzarse por alcanzar el elevado objetivo de su vida. Lo más valioso de todo el saber humano es conocer la vida religiosa de Jesús y su manera de vivirla.» <a id="a140_435"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
 
 «Seguir a Jesús» en su escucha.
 
@@ -127,3 +151,27 @@ Ahora podemos captar mejor esta impactante frase de _El Libro de Urantia_, que s
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="pr-2">Reflexiones urantianas: Verdad universal, sin dogmas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

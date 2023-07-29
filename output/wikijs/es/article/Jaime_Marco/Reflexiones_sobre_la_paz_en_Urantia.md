@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Jaime Marco<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_el_modelo_estandar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: el modelo estándar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-31-diciembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 31 — Diciembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agustin_Barajas/La_luz_esta_en_ti">
+          <span class="pr-2">La luz está en ti</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Queridos lectores:
 
@@ -29,3 +53,27 @@ La paz debe comenzar con el individuo. En primer lugar, debemos pacificarnos a n
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_el_modelo_estandar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: el modelo estándar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-31-diciembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 31 — Diciembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agustin_Barajas/La_luz_esta_en_ti">
+          <span class="pr-2">La luz está en ti</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

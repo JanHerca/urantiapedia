@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Santiago Rodríguez, Carmelo Martínez<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_8_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 8 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-8-febrero-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 8 — Febrero 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso">
+          <span class="pr-2">Camino del Paraíso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -18,15 +42,15 @@ De varios autores
 
 ### Sobre El Paraíso:
 
-> _Esta Isla central es el cuerpo más gigantesco organizado de realidad cósmica en todo el universo maestro. El Paraíso es una esfera material así como también una morada espiritual. Toda la creación inteligente del Padre Universal reside en moradas materiales._ [LU 11:0.1](/es/The_Urantia_Book/11#p0_1)
+> _Esta Isla central es el cuerpo más gigantesco organizado de realidad cósmica en todo el universo maestro. El Paraíso es una esfera material así como también una morada espiritual. Toda la creación inteligente del Padre Universal reside en moradas materiales._ <a id="a44_263"></a>[LU 11:0.1](/es/The_Urantia_Book/11#p0_1)
 
-> _Asimismo, si tuvieras el tiempo, los medios de viaje y estuvieras calificado espiritualmente, y contaras con la guía necesaria, podrías pilotear de universo en universo y de circuito en circuito, viajando siempre hacia el interior a través de los dominios estelares, hasta que por fin te ballarias ante el resplandor central de la gloria espiritual del Padre Universal._ [LU 11:1.3](/es/The_Urantia_Book/11#p1_3)
+> _Asimismo, si tuvieras el tiempo, los medios de viaje y estuvieras calificado espiritualmente, y contaras con la guía necesaria, podrías pilotear de universo en universo y de circuito en circuito, viajando siempre hacia el interior a través de los dominios estelares, hasta que por fin te ballarias ante el resplandor central de la gloria espiritual del Padre Universal._ <a id="a46_374"></a>[LU 11:1.3](/es/The_Urantia_Book/11#p1_3)
 
 Si la isla del Paraíso es la fuente y la sustancia de la Gravedad Física, aunque no esté en el espacio, sí está localizable en una región del mismo, en esta región deberíamos encontrar características diferentes. Además, las líneas de gravedad física de alguna manera nos deberían conducir hasta allí.
 
-> _El Paraíso difiere en su forma de los cuerpos espaciales habitados: no es esférico. Es definidamente elipsoide, siendo un sexto más largo en su diámetro norte-sur que en su diámetro este-oeste. La Isla central es esencialmente plana, y la distancia desde la superficie superior hasta la superficie inferior es un décimo del diámetro este-oeste._ [LU 11:2.2](/es/The_Urantia_Book/11#p2_2)
+> _El Paraíso difiere en su forma de los cuerpos espaciales habitados: no es esférico. Es definidamente elipsoide, siendo un sexto más largo en su diámetro norte-sur que en su diámetro este-oeste. La Isla central es esencialmente plana, y la distancia desde la superficie superior hasta la superficie inferior es un décimo del diámetro este-oeste._ <a id="a50_349"></a>[LU 11:2.2](/es/The_Urantia_Book/11#p2_2)
 
-> _Estas diferencias en dimensiones, consideradas juntamente con su estado estacionario y la mayor presión exterior de fuerza-energía en el extremo norte de la Isla, permiten establecer dirección absoluta en el universo maestro_ [LU 11:2.3](/es/The_Urantia_Book/11#p2_3)
+> _Estas diferencias en dimensiones, consideradas juntamente con su estado estacionario y la mayor presión exterior de fuerza-energía en el extremo norte de la Isla, permiten establecer dirección absoluta en el universo maestro_ <a id="a52_229"></a>[LU 11:2.3](/es/The_Urantia_Book/11#p2_3)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV8/01.jpg">
@@ -35,31 +59,31 @@ Si la isla del Paraíso es la fuente y la sustancia de la Gravedad Física, aunq
 
 ### Sobre El Espacio:
 
-> _No conocemos el mecanismo mismo de la respiración espacial; meramente observamos que el entero espacio se contrae y se expande alternativamente. Esta respiración afecta tanto la extensión horizontal del espacio ocupado como las extensiones verticales del espacio desocupado que existen en los vastos depósitos de espacio por encima y por debajo del Paraíso. Para intentar imaginar el perfil de volumen de estas reservas espaciales, podríais pensar en un reloj de arena._ [LU 11:6.1](/es/The_Urantia_Book/11#p6_1)
+> _No conocemos el mecanismo mismo de la respiración espacial; meramente observamos que el entero espacio se contrae y se expande alternativamente. Esta respiración afecta tanto la extensión horizontal del espacio ocupado como las extensiones verticales del espacio desocupado que existen en los vastos depósitos de espacio por encima y por debajo del Paraíso. Para intentar imaginar el perfil de volumen de estas reservas espaciales, podríais pensar en un reloj de arena._ <a id="a61_474"></a>[LU 11:6.1](/es/The_Urantia_Book/11#p6_1)
 
-> _Espacio «desocupado» significa: no ocupado por aquellas fuerzas, energias, poderes y presencias que se sabe existen en el espacio oсирado._ [LU 11:6.3](/es/The_Urantia_Book/11#p6_3)
+> _Espacio «desocupado» significa: no ocupado por aquellas fuerzas, energias, poderes y presencias que se sabe existen en el espacio oсирado._ <a id="a63_143"></a>[LU 11:6.3](/es/The_Urantia_Book/11#p6_3)
 
-> _Los ciclos de respiración del espacio duran en cada fase por poco más de mil millones de años urantianos. Durante una fase los universos se expanden; durante la siguiente, se contraen. El espacio ocupado se está aproximando abora a un punto medio de la fase de expansión, en tanto el espacio desocupado se aproxima al punto medio de la fase de contracción, y se nos ha informado de que los limites extremos de ambas extensiones espaciales están abora, en teoría, aproximadamente equidistantes del Paraíso._ [LU 11:6.4](/es/The_Urantia_Book/11#p6_4)
+> _Los ciclos de respiración del espacio duran en cada fase por poco más de mil millones de años urantianos. Durante una fase los universos se expanden; durante la siguiente, se contraen. El espacio ocupado se está aproximando abora a un punto medio de la fase de expansión, en tanto el espacio desocupado se aproxima al punto medio de la fase de contracción, y se nos ha informado de que los limites extremos de ambas extensiones espaciales están abora, en teoría, aproximadamente equidistantes del Paraíso._ <a id="a65_510"></a>[LU 11:6.4](/es/The_Urantia_Book/11#p6_4)
 
 Lo que nos indica que la cruz de malta en la actualidad es bastante regular (parte ocupada y parte desocupada).
 
 Si, como dice Carmelo, el plano de la Vía Láctea es el mismo que el del Paraíso significaría que, si miramos perpendicularmente a este plano, deberíamos encontrar la irregularidad cosmológica del fin del espacio ocupado. Hasta ahora no sabemos nada de ello, lo que implicaría que está tan lejos que no lo podemos percibir, por lo que el «espesor» de la Vía Láctea y su longitud serían comparativamente tan pequeños que nos daría igual decir que es coplanaria al Paraíso o no. 
 
-> _Cuando los universos de la extensión horizontal del espacio ocupado se expanden, los depósitos de la extensión vertical del espacio no ocupado se contraen, y viceversa. Hay una confluencia de espacio ocupado y no ocupado justo debajo del Paraíso bajo. Ambos tipos de espacio confluyen alli a través de los canales que regulany trasmutan, donde se operan cambios que hacen no ocupable el espacio ocupable, y viceversa, en los ciclos de contracción y expansión del cosmos._ [LU 11:6.2](/es/The_Urantia_Book/11#p6_2)
+> _Cuando los universos de la extensión horizontal del espacio ocupado se expanden, los depósitos de la extensión vertical del espacio no ocupado se contraen, y viceversa. Hay una confluencia de espacio ocupado y no ocupado justo debajo del Paraíso bajo. Ambos tipos de espacio confluyen alli a través de los canales que regulany trasmutan, donde se operan cambios que hacen no ocupable el espacio ocupable, y viceversa, en los ciclos de contracción y expansión del cosmos._ <a id="a71_475"></a>[LU 11:6.2](/es/The_Urantia_Book/11#p6_2)
 
 Me queda pendiente saber qué es lo que rodea al Gran Universo (la parte de los 7 Superuniversos). Hacia adentro está claro que nos limita el Universo Central, y hacia fuera lo hace el primer nivel del espacio exterior, tras la zona de unos 400 000 años luz, pero hacia arriba, hacia abajo, caben al menos dos posibilidades: en el primer nivel del espacio e, caben al menos dos posibilidades: es el primer nivel del espacio exterior, o bien el espacio desocupado.
 
-> _Un corte vertical del espacio total se asemejaría ligeramente a una cruz maltesa, donde los brazos horizontales representan el espacio ocupado (universo) y los brazos verticales representan el espacio desocupado (depósito). Las áreas entre los cuatro brazos los separarian en forma semejante a como las zonas del espacio intermedio separan el espacio ocupado del desocupado. Estas zonas quietas del espacio intermedio se van agrandando cada ver, más a medida que aumenta la distancia del Paraíso y finalmente abarcan las fronteras de todo el espacio y encierran completamente tanto los depósitos espaciales como toda la extensión horizontal del espacio ocupado. Desde un acceso cercano al Paraíso periférico, este espacio ocupado se extiende horizontalmente hacia afuera a través del cuarto nivel espacialy más alla de la periferia del universo maestro, pero no sabemos cuánto más._ [LU 11:7.3](/es/The_Urantia_Book/11#p7_3)
+> _Un corte vertical del espacio total se asemejaría ligeramente a una cruz maltesa, donde los brazos horizontales representan el espacio ocupado (universo) y los brazos verticales representan el espacio desocupado (depósito). Las áreas entre los cuatro brazos los separarian en forma semejante a como las zonas del espacio intermedio separan el espacio ocupado del desocupado. Estas zonas quietas del espacio intermedio se van agrandando cada ver, más a medida que aumenta la distancia del Paraíso y finalmente abarcan las fronteras de todo el espacio y encierran completamente tanto los depósitos espaciales como toda la extensión horizontal del espacio ocupado. Desde un acceso cercano al Paraíso periférico, este espacio ocupado se extiende horizontalmente hacia afuera a través del cuarto nivel espacialy más alla de la periferia del universo maestro, pero no sabemos cuánto más._ <a id="a75_886"></a>[LU 11:7.3](/es/The_Urantia_Book/11#p7_3)
 
-> _Si imagináis un plano en forma de V, finito pero inconcebiblemente grande, ubicado en ángulo recto respecto de las superficies superior e inferior del Paraíso, con la punta casi tangente al Paraíso Periférico, y luego imaginad ese plano en revolución elíptica alrededor del Paraíso, su revolución esbozaria aproximadamente el volumen del espacio ocupado._ [LU 11:7.5](/es/The_Urantia_Book/11#p7_5)
+> _Si imagináis un plano en forma de V, finito pero inconcebiblemente grande, ubicado en ángulo recto respecto de las superficies superior e inferior del Paraíso, con la punta casi tangente al Paraíso Periférico, y luego imaginad ese plano en revolución elíptica alrededor del Paraíso, su revolución esbozaria aproximadamente el volumen del espacio ocupado._ <a id="a77_359"></a>[LU 11:7.5](/es/The_Urantia_Book/11#p7_5)
 
-> _Hay un limite superior y un limite inferior del espacio borizontal con referencia a cualquier lugar dado en los universos. Si uno pudiera moverse lo bastante lejos en ángulo recto respecto del plano de Orvontón, ya sea hacia arriba o hacia abajo, podría uno encontrar finalmente el limite superior o inferior del espacio ocupado. Dentro de las dimensiones conocidas del universo maestro estos limites se separan cada vez más del Paraíso; el espacio se espesa, y se espesa un poco más rápidamente que el plano de la creación, los universos._ [LU 11:7.6](/es/The_Urantia_Book/11#p7_6)
+> _Hay un limite superior y un limite inferior del espacio borizontal con referencia a cualquier lugar dado en los universos. Si uno pudiera moverse lo bastante lejos en ángulo recto respecto del plano de Orvontón, ya sea hacia arriba o hacia abajo, podría uno encontrar finalmente el limite superior o inferior del espacio ocupado. Dentro de las dimensiones conocidas del universo maestro estos limites se separan cada vez más del Paraíso; el espacio se espesa, y se espesa un poco más rápidamente que el plano de la creación, los universos._ <a id="a79_544"></a>[LU 11:7.6](/es/The_Urantia_Book/11#p7_6)
 
 Esto me hace pensar que estamos hablando de dimensiones colosales comparadas con el Universo observable, pues lo observable, por muy lejos que esté, siempre estará «dentro» de la zona más alejada del 4 nivel espacial. Pero fijaos que desconocen cuánto espacio hay más allá, hasta las presuntas zonas quiescentes del fin del espacio ocupado.
 
 Hasta ahora lo que parece que la ciencia nos muestra es cierta homogeneidad, es decir ni atisbos del presunto espacio desocupado, que en nuestra época debe de ser de un tamaño similar al ocupado, además podríamos no observarlo si fuera transparente, y estuviéramos mirando a su través, pero esto estaría en contra de su definición que
 
-> _Espacio «desocupado» significa: no ocupado por aquellas fuerzas, energias, poderes y presencias que se sabe existen en el espacio ocupado._ [LU 11:6.3](/es/The_Urantia_Book/11#p6_3)
+> _Espacio «desocupado» significa: no ocupado por aquellas fuerzas, energias, poderes y presencias que se sabe existen en el espacio ocupado._ <a id="a85_143"></a>[LU 11:6.3](/es/The_Urantia_Book/11#p6_3)
 
 Puede que el hecho de no ser transparente no nos impida ver lo que hay al otro lado, puesto que puede que la luz no pueda penetrarlo, pero que sí que pueda circundarlo, lo que por otro lado alteraría el concepto del viaje en línea recta euclídea. En realidad trazaríamos la distancia más corta en esa superficie con esa geometría, que desde luego no sería plana.
 
@@ -69,7 +93,7 @@ Además, con esta concepción de universo está claro que todo lo que tengamos �
 
 Respecto al tamaño en función de los datos sobre estrellas que aparecen en el LU yo entreveo lo siguiente:
 
-> _El superuniverso de Orvonton está iluminado y calentado por más de diez billones de soles flameantes. Estos soles son estrellas observables en vuestro sistema astronómico. Más de dos billones están demasiado distantes y son demasiado pequeños como para ser vistos desde Urantia. Pero en el universo maestro existen tantos soles como vasos de agua hay en los océanos de vuestro mundo._ [LU 16:6.5](/es/The_Urantia_Book/16#p6_5)
+> _El superuniverso de Orvonton está iluminado y calentado por más de diez billones de soles flameantes. Estos soles son estrellas observables en vuestro sistema astronómico. Más de dos billones están demasiado distantes y son demasiado pequeños como para ser vistos desde Urantia. Pero en el universo maestro existen tantos soles como vasos de agua hay en los océanos de vuestro mundo._ <a id="a95_388"></a>[LU 16:6.5](/es/The_Urantia_Book/16#p6_5)
 
 Deducciones:
 
@@ -77,55 +101,55 @@ Deducciones:
 - A la hora de establecer el tamaño astronómico de nuestro superuniverso hemos de buscar un entorno en el que, siendo el núcleo la Vía Láctea, el radio que le demos englobe aproximadamente 10 billones europeos de soles, y si como dice, más de 2 billones son demasiado pequeños o están demasiado distantes como para ser vistos desde aquí, podemos centrar la búsqueda en un conjunto de aproximadamente 7-8 billones europeos de estrellas.
 - Recordemos que el universo maestro comprende al Gran Universo (la parte del universo total que actualmente se considera organizada y habitada) más los 4 niveles del espacio exterior en proceso de formación. Lo que sí podemos es estimar el orden del número de estrellas en el universo maestro (todo lo creado), puesto que el volumen de nuestros océanos y mares es del orden de 1370,4 x 10^6^ km^3^, y dado que podemos asignar un volumen de 250 ml. es fácil calcular que en ese volumen de mares y océanos hay 5.48 x 10^21^ estrellas que serían aproximadamente 550 millones de superuniversos como Orvontón.
 
-> _Aunque cada gobierno superuniversal preside cerca del centro de los universos evolucionarios de su segmento espacial, éste ocupa un mundo hecho a medida y poblado por personalidades acreditadas. Estos mundos sede central son esferas arquitectónicas, cuerpos espaciales especificamente construidos para su propósito especial. Aunque comparten la luz de los soles cercanos, estas esferas están iluminadas y calentadas independientemente. Cada una tiene un sol que emite luz sin calor, como los satélites del Paraiso, y se calientan por la circulación de ciertas corrientes de energía cerca de la superficie de la esfera. ***Estos mundos de sede central pertenecen a uno de los sistemas más grandes situados cerca del centro astronómico de sus superuniversos respectivos***._ [LU 15:7.1](/es/The_Urantia_Book/15#p7_1)
+> _Aunque cada gobierno superuniversal preside cerca del centro de los universos evolucionarios de su segmento espacial, éste ocupa un mundo hecho a medida y poblado por personalidades acreditadas. Estos mundos sede central son esferas arquitectónicas, cuerpos espaciales especificamente construidos para su propósito especial. Aunque comparten la luz de los soles cercanos, estas esferas están iluminadas y calentadas independientemente. Cada una tiene un sol que emite luz sin calor, como los satélites del Paraiso, y se calientan por la circulación de ciertas corrientes de energía cerca de la superficie de la esfera. ***Estos mundos de sede central pertenecen a uno de los sistemas más grandes situados cerca del centro astronómico de sus superuniversos respectivos***._ <a id="a103_776"></a>[LU 15:7.1](/es/The_Urantia_Book/15#p7_1)
 
 Es decir, la sede central del superuniverso no la hemos de buscar en el centro físico.
 
-> _Los centros de poder superuniversales y los controladores físicos, entidades inteligentes vivientes y semivivientes constituidas para este propósito explícito realizan otras funciones de regulación. Estos centros y controladores del poder son de difícil comprensión; las órdenes más bajas no son volitivas, no poseen voluntad, no eligen, sus funciones son muy inteligentes pero aparentemente automáticas e inherentes a su organización altamente especializada. Los centros de poder y controladores físicos de los superuniversos toman la dirección y el control parcial de los treinta sistemas de energía que comprenden el dominio de la gravita. Los circuitos de la energía física administrados por los centros de poder de Uversa requieren un poco más de ***968 millones de años para completar el circuito del superuniverso***._ [LU 15:8.2](/es/The_Urantia_Book/15#p8_2)
+> _Los centros de poder superuniversales y los controladores físicos, entidades inteligentes vivientes y semivivientes constituidas para este propósito explícito realizan otras funciones de regulación. Estos centros y controladores del poder son de difícil comprensión; las órdenes más bajas no son volitivas, no poseen voluntad, no eligen, sus funciones son muy inteligentes pero aparentemente automáticas e inherentes a su organización altamente especializada. Los centros de poder y controladores físicos de los superuniversos toman la dirección y el control parcial de los treinta sistemas de energía que comprenden el dominio de la gravita. Los circuitos de la energía física administrados por los centros de poder de Uversa requieren un poco más de ***968 millones de años para completar el circuito del superuniverso***._ <a id="a107_829"></a>[LU 15:8.2](/es/The_Urantia_Book/15#p8_2)
 
 ¿Nos está indicando la longitud del superuniverso?
 
 Si hacemos la aproximación de un universo circular, siendo c la velocidad de la luz en el vacío (aprox. 300000 Km./s), si supusiéramos que 968 millones de años luz es precisamente la longitud del círculo, aplicando $L = 2 \pi r$, nos daría un radio de aprox. 154 millones de años luz o, lo que es lo mismo, 308 millones de años luz de diámetro.
 
-En [LU 32:2.11](/es/The_Urantia_Book/32#p2_11), el LU nos dice que desde Jerusem hasta el centro físico del superuniverso de Orvonton hay más de 200000 a.l. (que nos daría un diámetro de 400000 a.l.) lo que parecería que dista mucho de los 154 millones de antes (385 veces menos), salvo que abundemos en la idea de que, aunque el universo sea de 154 millones de a.l. de diámetro, la mayoría de la masa de las creaciones materiales se concentra en un diámetro de esos 400000 a.l. , lo que nos daría un modelo de distribución de espacio asignado como porciones de quesitos, pero de creaciones materiales más bien concentradas.
+En <a id="a113_3"></a>[LU 32:2.11](/es/The_Urantia_Book/32#p2_11), el LU nos dice que desde Jerusem hasta el centro físico del superuniverso de Orvonton hay más de 200000 a.l. (que nos daría un diámetro de 400000 a.l.) lo que parecería que dista mucho de los 154 millones de antes (385 veces menos), salvo que abundemos en la idea de que, aunque el universo sea de 154 millones de a.l. de diámetro, la mayoría de la masa de las creaciones materiales se concentra en un diámetro de esos 400000 a.l. , lo que nos daría un modelo de distribución de espacio asignado como porciones de quesitos, pero de creaciones materiales más bien concentradas.
 
 Aquí me surge otra cuestión: si en ese desplazamiento en ángulo recto hacia arriba y/o hacia abajo acabaríamos encontrando el final del espacio ocupado, en esas direcciones no cabría esperar encontrar galaxias, puesto que estaríamos dentro del primer nivel, y la materia se concentra en el plano ecuatorial del superuniverso con relación a Havona.
 
-> _Los seres de origen trinitario tienen prerrogativas de tránsito que los independizan de las personalidades especializadas en transporte, como por ejemplo los serafines. Todos nosotros tenemos el poder de movernos libre y rápidamente en el universo de los universos. A excepción de los Espiritus Trinitarios Inspirados, no podemos alcanzar la casi increíble velocidad de los Mensajeros Solitarios, pero podemos hacer uso de la totalidad de los medios de transporte disponibles en el espacio para llegar a cualquier punto en un superuniverso, desde su sede de gobierno, en menos de un año medido en el tiempo de Urantia. Me llevó 109 días de vuestro tiempo viajar de Uversa a Urantia._ [LU 19:7.4](/es/The_Urantia_Book/19#p7_4)
+> _Los seres de origen trinitario tienen prerrogativas de tránsito que los independizan de las personalidades especializadas en transporte, como por ejemplo los serafines. Todos nosotros tenemos el poder de movernos libre y rápidamente en el universo de los universos. A excepción de los Espiritus Trinitarios Inspirados, no podemos alcanzar la casi increíble velocidad de los Mensajeros Solitarios, pero podemos hacer uso de la totalidad de los medios de transporte disponibles en el espacio para llegar a cualquier punto en un superuniverso, desde su sede de gobierno, en menos de un año medido en el tiempo de Urantia. Me llevó 109 días de vuestro tiempo viajar de Uversa a Urantia._ <a id="a117_687"></a>[LU 19:7.4](/es/The_Urantia_Book/19#p7_4)
 
 _(Lo presenta un Consejero Divino de Uversa)._
 
 De aquí se deduce que Urantia está a aproximadamente 1 / 3 de distancia de Uversa, lo que hace que cuando se refieren a su localización en las afueras del superuniverso, sea no hacia la parte más alejada del centro sino quizá hacia «arriba o abajo» (?) Además, esto nos daría como radio de la parte materializada del superuniverso de unos 600000 a.l. Sin embargo, la parte habitada se correspondería con unos 250000 a.l.
 
-> _Todos estos cálculos son a lo sumo aproximaciones, porque nuevos sistemas están evolucionando constantemente, mientras ***que otras organizaciones pasan temporalmente fuera de la existencia material***._ (¿Qué quiere decir esto?) [LU 15:2.12](/es/The_Urantia_Book/15#p2_12)
+> _Todos estos cálculos son a lo sumo aproximaciones, porque nuevos sistemas están evolucionando constantemente, mientras ***que otras organizaciones pasan temporalmente fuera de la existencia material***._ (¿Qué quiere decir esto?) <a id="a123_233"></a>[LU 15:2.12](/es/The_Urantia_Book/15#p2_12)
 
-> _Los astrónomos de Urantia han identificado aproximadamente ocho de las diez divisiones mayores de Orvonton. Es dificil reconocer separadamente las otras dos porque estáis obligados a visualizar estos fenómenos desde el interior. Si pudierais observar el superuniverso de Orvonton desde una ubicación vastamente distante en el espacio, inmediatamente reconoceríais los diez. sectores principales de ***la séptima galaxia***._ [LU 15:3.4](/es/The_Urantia_Book/15#p3_4)
+> _Los astrónomos de Urantia han identificado aproximadamente ocho de las diez divisiones mayores de Orvonton. Es dificil reconocer separadamente las otras dos porque estáis obligados a visualizar estos fenómenos desde el interior. Si pudierais observar el superuniverso de Orvonton desde una ubicación vastamente distante en el espacio, inmediatamente reconoceríais los diez. sectores principales de ***la séptima galaxia***._ <a id="a125_428"></a>[LU 15:3.4](/es/The_Urantia_Book/15#p3_4)
 
 Es la primera vez que hace una similitud entre superuniverso y galaxia.
 
-> _UN UNIVERSO local es la obra individual de un Hijo Creador de la orden paradisiaca de los Michaeles. Reúne cien constelaciones, cada una de ellas compuesta por cien sistemas de mundos habitados. Con el tiempo, cada sistema contendrá aproximadamente mil esferas habitadas._ [LU 32:0.1](/es/The_Urantia_Book/32#p0_1)
+> _UN UNIVERSO local es la obra individual de un Hijo Creador de la orden paradisiaca de los Michaeles. Reúne cien constelaciones, cada una de ellas compuesta por cien sistemas de mundos habitados. Con el tiempo, cada sistema contendrá aproximadamente mil esferas habitadas._ <a id="a129_276"></a>[LU 32:0.1](/es/The_Urantia_Book/32#p0_1)
 
 Luego, con el tiempo, en nuestro universo local seremos del orden de 1000 x 100 x 100 mundos habitados. Es decir, aproximadamente 10^7^, 10 millones de mundos. Luego ¿podríamos hablar del orden de 100 millones de estrellas?
 
-> _En Nebadon la organización de las residencias planetarias sigue su curso. Este universo es en realidad un grupo joven entre los reinos estelares y planetarios de Orvonton. Según el último registro había 3.840 .101 planetas habitados en Nebadon; y Satania, que es el sistema local de vuestro mundo, es relativamente típico respecto a otros sistemas._ [LU 32:2.9](/es/The_Urantia_Book/32#p2_9)
+> _En Nebadon la organización de las residencias planetarias sigue su curso. Este universo es en realidad un grupo joven entre los reinos estelares y planetarios de Orvonton. Según el último registro había 3.840 .101 planetas habitados en Nebadon; y Satania, que es el sistema local de vuestro mundo, es relativamente típico respecto a otros sistemas._ <a id="a133_353"></a>[LU 32:2.9](/es/The_Urantia_Book/32#p2_9)
 
-> _Satania no es un sistema físico uniforme, una unidad u organización astronómica única. Sus 619 mundos habitados están ubicados en más de quinientos sistemas físicos diferentes. Sólo cinco tienen más de dos mundos habitados, y de ellos solamente uno tiene cuatro planetas habitados, mientras que hay cuarentay seis con dos mundos habitados._ [LU 32:2.10](/es/The_Urantia_Book/32#p2_10)
+> _Satania no es un sistema físico uniforme, una unidad u organización astronómica única. Sus 619 mundos habitados están ubicados en más de quinientos sistemas físicos diferentes. Sólo cinco tienen más de dos mundos habitados, y de ellos solamente uno tiene cuatro planetas habitados, mientras que hay cuarentay seis con dos mundos habitados._ <a id="a135_344"></a>[LU 32:2.10](/es/The_Urantia_Book/32#p2_10)
 
-> _El sistema Satania de mundos habitados está considerablemente alejado de Uversa y de ese gran grupo de soles que funciona como centro fisico o astronómico del séptimo superuniverso. Desde Jerusem, la sede central de Satania, hay más de doscientos mil años luz. basta el centro físico del superuniverso de Orvonton, lejos, muy lejos en el denso diámetro de la Via Láctea. Satania está en la periferia del universo local, y Nebadon está abora bien afuera, hacia los limites de Orvonton. Desde el sistema más alejado de mundos habitados hasta el centro del superuniverso hay un poco menos de doscientos cincuenta mil años luz._ [LU 32:2.11](/es/The_Urantia_Book/32#p2_11)
+> _El sistema Satania de mundos habitados está considerablemente alejado de Uversa y de ese gran grupo de soles que funciona como centro fisico o astronómico del séptimo superuniverso. Desde Jerusem, la sede central de Satania, hay más de doscientos mil años luz. basta el centro físico del superuniverso de Orvonton, lejos, muy lejos en el denso diámetro de la Via Láctea. Satania está en la periferia del universo local, y Nebadon está abora bien afuera, hacia los limites de Orvonton. Desde el sistema más alejado de mundos habitados hasta el centro del superuniverso hay un poco menos de doscientos cincuenta mil años luz._ <a id="a137_628"></a>[LU 32:2.11](/es/The_Urantia_Book/32#p2_11)
 
-> _Una o más —aun muchas- de estas nebulosas pueden estar comprendidas dentro del dominio de un universo local, asi como Nebadon fue formado físicamente a partir de la progenie estelar y planetaria de Andrónover y de otras nebulosas._ [LU 41:0.3](/es/The_Urantia_Book/41#p0_3)
+> _Una o más —aun muchas- de estas nebulosas pueden estar comprendidas dentro del dominio de un universo local, asi como Nebadon fue formado físicamente a partir de la progenie estelar y planetaria de Andrónover y de otras nebulosas._ <a id="a139_235"></a>[LU 41:0.3](/es/The_Urantia_Book/41#p0_3)
 
 Queda claro que Nebadon no se formó sólo con lo aportado por Andronover.
 
-> _Tal es la constitución de la nube estelar local de Nebadon, que boy en día gira en una órbita cada vez más establecida alrededor del centro Sagitario de ese sector menor en Orvonton al cual pertenece nuestra creación local._ [LU 41:0.4](/es/The_Urantia_Book/41#p0_4)
+> _Tal es la constitución de la nube estelar local de Nebadon, que boy en día gira en una órbita cada vez más establecida alrededor del centro Sagitario de ese sector menor en Orvonton al cual pertenece nuestra creación local._ <a id="a143_228"></a>[LU 41:0.4](/es/The_Urantia_Book/41#p0_4)
 
 En la dirección de la constelación de Sagitario está la región central de la galaxia. Está repleta de nebulosas y cúmulos...nada clarifica la situación. Un tercer brazo situado entre el brazo de Orión y el centro galáctico se llama brazo de Sagitario
 
-> _Satania misma se compone de más de siete mil grupos astronómicos, o sistemas físicos, muy pocos de los cuales twvieron un origen similar al de vuestro sistema solar. El centro astronómico de Satania es una enorme isla oscura del espacio que, con sus esferas conjuntas, está situada no lejos de la sede central del gobierno del sistema._ [LU 41:2.2](/es/The_Urantia_Book/41#p2_2)
+> _Satania misma se compone de más de siete mil grupos astronómicos, o sistemas físicos, muy pocos de los cuales twvieron un origen similar al de vuestro sistema solar. El centro astronómico de Satania es una enorme isla oscura del espacio que, con sus esferas conjuntas, está situada no lejos de la sede central del gobierno del sistema._ <a id="a147_340"></a>[LU 41:2.2](/es/The_Urantia_Book/41#p2_2)
 
 Quiero interpretar que se refiere a más de 7000 estrellas o agrupaciones (dobles, múltiples) de estrellas.
 
-> Los soles de Nebadon no son distintos de los de otros universos. La composición material de todos los soles, islas oscuras, planetas y satélites, aún los meteoros, es muy idéntica. Estos soles tienen un diámetro medio de alrededor de un millón setecientos mil kilómetros, siendo el de vuestro propio globo solar ligeramente más corto. La estrella más grande en el universo, la nube estelar Antares, tiene un diámetro cuatrocientas cincuenta veces mayor que el de vuestro soly su volumen es sesenta millones de veces mayor. Pero hay abundante espacio para albergar a todos estos enormes soles. Tienen tanto espacio, comparativamente, como el que tendria una docena de naranjas circulando a través del interior de Urantia, si el planeta fuera un globo vacío. [LU 41:3.2](/es/The_Urantia_Book/41#p3_2)
+> Los soles de Nebadon no son distintos de los de otros universos. La composición material de todos los soles, islas oscuras, planetas y satélites, aún los meteoros, es muy idéntica. Estos soles tienen un diámetro medio de alrededor de un millón setecientos mil kilómetros, siendo el de vuestro propio globo solar ligeramente más corto. La estrella más grande en el universo, la nube estelar Antares, tiene un diámetro cuatrocientas cincuenta veces mayor que el de vuestro soly su volumen es sesenta millones de veces mayor. Pero hay abundante espacio para albergar a todos estos enormes soles. Tienen tanto espacio, comparativamente, como el que tendria una docena de naranjas circulando a través del interior de Urantia, si el planeta fuera un globo vacío. <a id="a151_759"></a>[LU 41:3.2](/es/The_Urantia_Book/41#p3_2)
 
 Si establecemos la anterior comparativa.
 
@@ -165,7 +189,7 @@ Un dato más: según mis cálculos, Havona estaría a eso de un millón de años
 
 Esto del espacio impregnado (ocupado) y no impregnado es una de las cosas más misteriosas para mí de todo este asunto. Me hace pensar si debemos interpretarlo literalmente o no. De momento, estoy enfocándome en la primera opción, esto es, que si viajamos perpendicularmente al plano de la creación (que para mí coincide con el de la Vía Láctea) llegaríamos a un final de que no podríamos pasar. ¿Significa esto que hay alguna irregularidad observable? No lo sé. Para mí, la anchura del plano de la creación en nuestra zona no es «demasiado grande» (¿200.000 años luz?). Eso significa que a unos 100.000 años luz en dirección perpendicular a la Vía Láctea deberíamos observar «algo» (si es que pasar del espacio impregnado al intermedio implica la existencia de algún fenómeno observable). Que yo sepa no se ha observado nada a pesar de que esa dirección es mucho más favorable, pues no tenemos en medio toda la concentración de la galaxia.
 
-De todas formas habría que distinguir en espacio no impregnado y espacio intermedio inactivo. Estoy de acuerdo con Santi en que en el espacio no impregnado no hay materia ni energía ni nada de lo que impregna el espacio en que estamos. La luz no podría penetrar ese espacio, aunque quizá si podría rodearlo. Sin embargo parece que no sucede lo mismo con el espacio intermedio. No hay que olvidar que este espacio nos separa del primer nivel exterior, y vemos de hecho las estrellas y galaxias que están allí. A este respecto os copio el párrafo [LU 11:7.2](/es/The_Urantia_Book/11#p7_2):
+De todas formas habría que distinguir en espacio no impregnado y espacio intermedio inactivo. Estoy de acuerdo con Santi en que en el espacio no impregnado no hay materia ni energía ni nada de lo que impregna el espacio en que estamos. La luz no podría penetrar ese espacio, aunque quizá si podría rodearlo. Sin embargo parece que no sucede lo mismo con el espacio intermedio. No hay que olvidar que este espacio nos separa del primer nivel exterior, y vemos de hecho las estrellas y galaxias que están allí. A este respecto os copio el párrafo <a id="a191_545"></a>[LU 11:7.2](/es/The_Urantia_Book/11#p7_2):
 
 > «_El Paraíso es el núcleo realmente inmóvil de las zonas relativamente inactivas que existen entre el espacio impregnado y el no impregnado. Geográficamente, estas zonas parecen ser una extensión relativa del Paraiso, pero hay probablemente algún movimiento en ellas. Sabemos muy poco sobre ellas, pero observamos que estas zonas de movimiento espacial reducido separan el espacio impregnado del no impregnado. Zonas similares existieron una ver. entre los niveles del espacio impregnado, pero son abora menos inactivas._» 
 
@@ -175,7 +199,7 @@ No he entendido lo que quiere decir Santi con «centro físico» y «centro astr
 
 No veo como encajar que nuestro superuniverso tenga varios cientos de millones de años luz de diámetro con que Uversa esté a 200.000 años luz de nosotros. Para mí no tiene sentido tal cantidad de espacio vacío, así que habría que interpretar el dato del circuito de 968 millones de años de otra manera. No es difícil imaginar un recorrido muy sinuoso, y tampoco es difícil pensar que esa energía no viaja a la velocidad de la luz. También podría suponerse que es espacio que habrá que ocupar en el futuro pero me suena que los siete superuniversos están como a un 70% de su desarrollo. Órvonton es el más joven y por lo tanto menos desarrollado pero no como para estar a un (digamos) 1% o menos que es lo que sugiere toda esa cantidad de espacio vacío.
 
-Esa cita de [LU 15:2.25](/es/The_Urantia_Book/15#p2_25) siempre ha sido un misterio para mí. Cuando tuve que traducirla me pasé mucho tiempo buscándole el sentido y no lo encontré, aunque sí encontré el equivalente en español. Copio mi traducción y el original en inglés; en ambos casos subrayo el verbo donde está el problema.
+Esa cita de <a id="a201_12"></a>[LU 15:2.25](/es/The_Urantia_Book/15#p2_25) siempre ha sido un misterio para mí. Cuando tuve que traducirla me pasé mucho tiempo buscándole el sentido y no lo encontré, aunque sí encontré el equivalente en español. Copio mi traducción y el original en inglés; en ambos casos subrayo el verbo donde está el problema.
 
 > «_Todas estos cálculos son, en el mejor de los casos, aproximaciones, pues evolucionan constantemente nuevos sistemas mientras que otras organizaciones dejan temporalmente la existencia material._»
 
@@ -207,3 +231,27 @@ Todos estos trabajos están disponibles en la página web de la Asociación, htt
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_8_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 8 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-8-febrero-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 8 — Febrero 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso">
+          <span class="pr-2">Camino del Paraíso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

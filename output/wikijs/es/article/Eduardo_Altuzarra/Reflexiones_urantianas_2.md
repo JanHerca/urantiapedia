@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman">
+          <span class="pr-2">Cuestionario Urantiano: Martín Guzmán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/De-la-materia-al-espiritu.png" alt="Despertar a una nueva consciencia-2" width="250">
@@ -42,7 +66,7 @@ Por último, si depositamos toda nuestra esperanza y confianza en ese poder que 
 
 No tengamos vergüenza en reconocer su poder y su valía, aceptemos de buen grado que puede transmitirnos su divinidad a lo largo de nuestra andadura junto a Él. No nos escandalicemos al pensar si podemos resultar pesados solicitándole sus servicios para que nos ilumine en los oscuros momentos en los que nos toca tomar decisiones con cierta responsabilidad. Acudamos a Él agradeciéndole nuestras buenas situaciones y solicitándole perdón por los errores cometidos. Depositemos en Él nuestros asuntos para que, con su magnificencia, los establezca en el orden correspondiente.
 
-> La existencia de Dios no podrá probarse nunca mediante experimentos científicos ni mediante la razón pura de la deducción lógica. Dios solo se puede comprender en el ámbito de la experiencia humana. Sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. [LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
+> La existencia de Dios no podrá probarse nunca mediante experimentos científicos ni mediante la razón pura de la deducción lógica. Dios solo se puede comprender en el ámbito de la experiencia humana. Sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. <a id="a68_421"></a>[LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
 
 A partir de aquí y ahora, ya estamos preparados para posicionarnos en la línea de salida. Estamos preparados para iniciar la carrera más importante y de mayor trascendencia de nuestra vida, además de que posiblemente sea la única, pues quizás no haya oportunidad, por lo menos en esta vida y en este mundo.
 
@@ -78,3 +102,27 @@ Un libro revelado a la humanidad para su transformación.
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman">
+          <span class="pr-2">Cuestionario Urantiano: Martín Guzmán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 David Carrera<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Lo_Absonito_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo absonito (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-20-marzo-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 20 — Marzo 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/OVNIs_Un_enfoque_positivo_del_asunto">
+          <span class="pr-2">OVNIS, un enfoque positivo del asunto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Nota: Este mensaje fue publicado en el grupo de discusión librourantia de Google (http://groups.google.es/group/librourantia?lnk=srg),  y por su interés lo publicamos aquí. Como todos los artículos de esta revista, quiere servir de espacio de reflexión y, cómo no, de participación.
 {.is-info}
@@ -23,7 +47,7 @@ Con esta perspectiva, unos padres conscientes agradecen tener sólo una parte de
 
 Y, en este mundo, nuestro grado de libertad para CREAR, verdaderamente CREAR algo nosotros «solitos», se limita a grandes edificios, inspiradores libros, bellas danzas, seguros puentes, perspicaz filosofía, automatizadas máquinas, sugerente música, funcionales muebles, justas leyes, grandioso arte, maravillosa poesía... y algunas pocas cosas más, que tienen en común ceñirse al dominio de lo material o de lo mental.
 
-A medida que prosiga nuestro avance, acumulemos experiencias y salgamos airosos de pruebas diversas que nos esperan, es decir, que hayamos demostrado un grado mayor de consciencia y responsabilidad, irán aumentando nuestros grados de libertad para intervenir en la creación de nuevas realidades. Y cuando ya estemos en el Paraíso, bien fusionados con el Ajustador y nos distingamos en el Cuerpo Finalitario, tendremos oportunidad de CREAR o al menos intervenir con un enorme grado de implicación en la creación de unos seres muy especiales que se llamarán Hijos Trinizados de Perfección ([LU 22:1.12](/es/The_Urantia_Book/22#p1_12)), de los cuales CADA UNO de ellos será la PERSONIFICACIÓN de un CONCEPTO ORIGINAL Y SELECTO hasta entonces $\sin$ trinizar.
+A medida que prosiga nuestro avance, acumulemos experiencias y salgamos airosos de pruebas diversas que nos esperan, es decir, que hayamos demostrado un grado mayor de consciencia y responsabilidad, irán aumentando nuestros grados de libertad para intervenir en la creación de nuevas realidades. Y cuando ya estemos en el Paraíso, bien fusionados con el Ajustador y nos distingamos en el Cuerpo Finalitario, tendremos oportunidad de CREAR o al menos intervenir con un enorme grado de implicación en la creación de unos seres muy especiales que se llamarán Hijos Trinizados de Perfección (<a id="a49_588"></a>[LU 22:1.12](/es/The_Urantia_Book/22#p1_12)), de los cuales CADA UNO de ellos será la PERSONIFICACIÓN de un CONCEPTO ORIGINAL Y SELECTO hasta entonces $\sin$ trinizar.
 
 Serán mucho más que los «corrientes» «proyectos fin de carrera» o «doctorados» que conocemos aquí, implicarán un esfuerzo y determinación enorme en un proyecto escogido por nosotros y sin garantías de éxito, hasta el punto de que si fracasamos pasaremos a formar parte de un grupo especial de finalitarios, «_los que han hecho el esfuerzo supremo y soportado la suprema decepción_»
 
@@ -49,7 +73,7 @@ Porque... algún ideal de los que se nos pudieran ocurrir en esta vida habrá si
 
 Por ejemplo; hoy día, un ideal clave del ser humano es «la Paz». Pero «la Paz» es algo muy genérico. ¿Habrá en todo el gran Universo un solo Hijo Trinizado que represente la Paz? O ¿habrá un Hijo Trinizado que represente la Paz por cada universo local, o por cada mundo, o por cada relación entre pueblos/etnias/razas?
 
-La condición parece ser que sea una <ins>idea divina</ins>, o algún <ins>ideal universal</ins>, que nunca antes haya sido concebido, expresado o trinizado. ([LU 22:10.4](/es/The_Urantia_Book/22#p10_4)) Por lo tanto, no serían trinizables proyectos materiales del tipo:
+La condición parece ser que sea una <ins>idea divina</ins>, o algún <ins>ideal universal</ins>, que nunca antes haya sido concebido, expresado o trinizado. (<a id="a75_157"></a>[LU 22:10.4](/es/The_Urantia_Book/22#p10_4)) Por lo tanto, no serían trinizables proyectos materiales del tipo:
 
 - Idoneidad de materiales semiconductores en mundos materiales.
 
@@ -87,7 +111,7 @@ Abierto queda, pues, el debate sobre un tema fascinante.
 
 **Notas del autor:**
 
-- Las referencias principales están en [LU 22:7.1](/es/The_Urantia_Book/22#p7_1) a [LU 22:8.6](/es/The_Urantia_Book/22#p8_6), contenidas en el documento 22, «Los Hijos Trini(ti)zados de Dios» 
+- Las referencias principales están en <a id="a113_39"></a>[LU 22:7.1](/es/The_Urantia_Book/22#p7_1) a <a id="a113_83"></a>[LU 22:8.6](/es/The_Urantia_Book/22#p8_6), contenidas en el documento 22, «Los Hijos Trini(ti)zados de Dios» 
 - Para encontrarme cómodo escribiéndolo, perdonadme pero he utilizado el verbo «trinizan», opción que justifico en las páginas de nuestro grupo de debate.
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -97,3 +121,27 @@ Abierto queda, pues, el debate sobre un tema fascinante.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Lo_Absonito_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo absonito (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-20-marzo-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 20 — Marzo 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/OVNIs_Un_enfoque_positivo_del_asunto">
+          <span class="pr-2">OVNIS, un enfoque positivo del asunto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

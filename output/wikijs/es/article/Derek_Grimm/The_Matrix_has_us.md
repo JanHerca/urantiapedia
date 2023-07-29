@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Derek Grimm<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_42_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 42 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-42-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 42 — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="pr-2">Visiones de futuro para gente con visión de futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En mi [último artículo](http://perthubsg.com/2015/08/aliens-and-the-urantia-book-some-thoughts-more-questions/), me he quejado de que la descripción de los alienígenas que hace Hollywood ha arruinado muchas películas de ciencia ficción. Sin embargo, hay grandes películas de ciencia ficción. Las dos que me vienen inmediatamente a la mente son [Avatar](http://www.imdb.com/title/tt0499549/) y [Matrix](http://www.imdb.com/title/tt0133093/). Animo a todos los estudiantes de _El Libro de Urantia_ a que vean estas películas con las «gafas urantianas» puestas.
 
@@ -159,7 +183,7 @@ Entonces, ¿la mayoría tiene siempre la razón? Piensen por un momento que, de 
 
 En el caso de Lucifer, utilizó la falsa promesa del gobierno de la mayoría para animar a sus filas contra Miguel y los Ancianos de los Días. Esperaba que, si se enfrentaban a una oposición abrumadora, los Ancianos de los Días cederían a sus exigencias.
 
-Todo esto lleva al final a tratar sobre la libertad y el libre albedrío. Del mismo modo que los gobiernos nacionales y las empresas de todo el planeta esparcen palabras en boga como libertad para justificar la explotación a otras personas, necesitamos mirar por detrás de estas palabras para descubrir lo que dicen realmente. Se nos dice que, de todos los problemas desconcertantes que surgieron de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros para distinguir entre la verdadera y la falsa libertad. He aquí una cita: «_La verdadera libertad es la búsqueda de los siglos y la recompensa del progreso evolutivo. La falsa libertad es (...) La voluntad personal sin frenos y la expresión desordenada del yo equivalen a un egoísmo total, al súmmum de la impiedad. La libertad, sin una conquista asociada y cada vez mayor del yo, es un producto de la imaginación humana egoísta (...) La verdadera libertad es la asociada de la auténtica autoestima; la falsa libertad es la consorte de la admiración de sí mismo (...) El autocontrol conduce al servicio altruista; la admiración de símismo tiende a explotar a los demás._» [LU 54:1.2](/es/The_Urantia_Book/54#p1_2), [LU 54:1.5-6](/es/The_Urantia_Book/54#p1_5)
+Todo esto lleva al final a tratar sobre la libertad y el libre albedrío. Del mismo modo que los gobiernos nacionales y las empresas de todo el planeta esparcen palabras en boga como libertad para justificar la explotación a otras personas, necesitamos mirar por detrás de estas palabras para descubrir lo que dicen realmente. Se nos dice que, de todos los problemas desconcertantes que surgieron de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros para distinguir entre la verdadera y la falsa libertad. He aquí una cita: «_La verdadera libertad es la búsqueda de los siglos y la recompensa del progreso evolutivo. La falsa libertad es (...) La voluntad personal sin frenos y la expresión desordenada del yo equivalen a un egoísmo total, al súmmum de la impiedad. La libertad, sin una conquista asociada y cada vez mayor del yo, es un producto de la imaginación humana egoísta (...) La verdadera libertad es la asociada de la auténtica autoestima; la falsa libertad es la consorte de la admiración de sí mismo (...) El autocontrol conduce al servicio altruista; la admiración de símismo tiende a explotar a los demás._» <a id="a185_1190"></a>[LU 54:1.2](/es/The_Urantia_Book/54#p1_2), <a id="a185_1233"></a>[LU 54:1.5-6](/es/The_Urantia_Book/54#p1_5)
 
 El tercer cargo de Lucifer iba dirigido a la autodeterminación de los mortales ascendentes. Ahora vemos que la verdadera libertad se ha de ganar.
 
@@ -211,3 +235,27 @@ Déjenme terminar compartiendo algo que he comprendido acerca de la valentía. _
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 - Artículo original en: http://perthubsg.com/2015/08/the-matrix-has-us/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_42_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 42 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-42-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 42 — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="pr-2">Visiones de futuro para gente con visión de futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Mariano Pérez<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Ser Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/La_Fe_De_Jesus">
+          <span class="pr-2">La fe de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Introducción de Mariano Pérez
 
@@ -119,3 +143,27 @@ El Libro nos fue revelado para preparar el terreno de una época futura. Por ell
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Ser Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/La_Fe_De_Jesus">
+          <span class="pr-2">La fe de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

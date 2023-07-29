@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/image/article/Luz_y_Vida/Luz_y_Vida_covers/LyV2022_05.jpg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Mayo 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gema_Villa">
+          <span class="pr-2">Cuestionario Urantiano: Gema Villa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-1.jpg" alt="Editorial mayo 22 - 1">
@@ -28,7 +52,7 @@ Ante la perplejidad de Nicodemo, Jesús contestó:
 
 > «El espíritu del Padre del cielo mora ya dentro de ti. Si te dejas conducir por este espíritu que viene de arriba, empezarás muy pronto a ver con los ojos del espíritu. Cuando esto ocurra y tú elijas de todo corazón seguir la guía del espíritu, nacerás del espíritu, puesto que el único propósito de tu vida será hacer la voluntad de tu Padre que está en el cielo. Y al verte nacido así del espíritu y feliz en el reino de Dios, empezarás a producir los frutos abundantes del espíritu en tu vida diaria».
 > 
-> Nicodemo estaba profundamente impresionado, pero se marchó perplejo. Había logrado un buen desarrollo personal, dominio de sí mismo e incluso altas cualidades morales. Era refinado, egocéntrico y altruista, pero **no sabía cómo someter su voluntad a la voluntad del Padre divino como un niño pequeño acepta someterse a la guía y la dirección de un padre terrenal sensato y amoroso, y convertirse así realmente en hijo de Dios y heredero progresivo del reino eterno.** [LU 142:6.7-8](/es/The_Urantia_Book/142#p6_7)
+> Nicodemo estaba profundamente impresionado, pero se marchó perplejo. Había logrado un buen desarrollo personal, dominio de sí mismo e incluso altas cualidades morales. Era refinado, egocéntrico y altruista, pero **no sabía cómo someter su voluntad a la voluntad del Padre divino como un niño pequeño acepta someterse a la guía y la dirección de un padre terrenal sensato y amoroso, y convertirse así realmente en hijo de Dios y heredero progresivo del reino eterno.** <a id="a54_470"></a>[LU 142:6.7-8](/es/The_Urantia_Book/142#p6_7)
 
 Este cambio tan radical que implica someter nuestra voluntad a una instancia mayor (nos lo muestra la tozuda realidad con contundencia) suele ser promovido por las experiencias de **sufrimiento**; estas son las que **más promueven** la toma de consciencia y la evolución espiritual. Esto es así a causa de los removimientos (a veces, auténticos movimientos sísmicos) que nos hacen experimentar. Estos removimientos tienen la virtud de sacarnos de la zona de confort, de la distracción estéril, del apego al confort material.
 
@@ -58,7 +82,7 @@ Esa cercanía con la chispa divina hace decir a este gran poeta algo tan hermoso
 
 La conexión con la divinidad es totalmente necesaria, pues si no, la actividad se convierte en torbellino incesante que nos mantiene atrapados en lo meramente mundano o material, distraídos como Marta (la hermana de Lázaro y María), que según afirma el LU, tenía tendencia a “dispersarse con numerosas tareas innecesarias y a agobiarse con preocupaciones triviales”.
 
-> Mientras Marta se atareaba en todos esos supuestos deberes le molestaba que María no hiciera nada por ayudarla, por eso se dirigió hacia Jesús y le dijo: «Maestro, ¿no te importa que mi hermana me deje servir sola? ¿No le pedirás que me ayude?». Jesús contestó: «Marta, Marta, ¿por qué estás siempre inquieta por tantas cosas y preocupada por tantas pequeñeces? Solo hay una cosa que vale realmente la pena, y puesto que María ha elegido esa parte buena y necesaria, no se la quitaré. Pero, ¿cuándo aprenderéis las dos a vivir como os he enseñado, cooperando en el trabajo y refrescando vuestras almas al unísono? ¿No podéis aprender que hay un tiempo para cada cosa, que los asuntos menores de la vida deberían dejar paso a las cosas más grandes del reino celestial?» [LU 162:8.3](/es/The_Urantia_Book/162#p8_3)
+> Mientras Marta se atareaba en todos esos supuestos deberes le molestaba que María no hiciera nada por ayudarla, por eso se dirigió hacia Jesús y le dijo: «Maestro, ¿no te importa que mi hermana me deje servir sola? ¿No le pedirás que me ayude?». Jesús contestó: «Marta, Marta, ¿por qué estás siempre inquieta por tantas cosas y preocupada por tantas pequeñeces? Solo hay una cosa que vale realmente la pena, y puesto que María ha elegido esa parte buena y necesaria, no se la quitaré. Pero, ¿cuándo aprenderéis las dos a vivir como os he enseñado, cooperando en el trabajo y refrescando vuestras almas al unísono? ¿No podéis aprender que hay un tiempo para cada cosa, que los asuntos menores de la vida deberían dejar paso a las cosas más grandes del reino celestial?» <a id="a84_771"></a>[LU 162:8.3](/es/The_Urantia_Book/162#p8_3)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-2.jpg" alt="Editorial mayo 22 - 2">
@@ -70,7 +94,7 @@ Estos dos aspectos, lo interior y lo exterior, tienen su sitio en la vida; y deb
 
 Este aspecto está muy ligado al célebre mandato de la última cena de Jesús:
 
-> Por eso os doy un nuevo mandamiento: que os améis los unos a los otros como yo os he amado. Y si os amáis así los unos a los otros, en eso conocerán todos que sois mis discípulos. [LU 180:1.1](/es/The_Urantia_Book/180#p1_1)
+> Por eso os doy un nuevo mandamiento: que os améis los unos a los otros como yo os he amado. Y si os amáis así los unos a los otros, en eso conocerán todos que sois mis discípulos. <a id="a96_182"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1)
 
 Jesús nos ha amado tan profundamente, sabiendo el gran valor que tenemos los seres humanos, con una chispa divina y un alma desplegándose en nuestro pensamiento, que nos invita también a percatarnos de su existencia en los todos los demás seres humanos, como existen en nosotros mismos.
 
@@ -90,10 +114,34 @@ Vivir derramando el bien está a nuestro alcance, está a tu alcance… porque e
 
 Adquiramos el compromiso con nosotros mismos de no vivir de otra forma, de vivir nuestros instantes de la manera que nos mostró **Jesús de Nazaret:**
 
-> La esencia misma de la oración que enseñó a sus discípulos fue: «Que venga tu reino; que se haga tu voluntad». [LU 196:0.8](/es/The_Urantia_Book/196#p0_8)
+> La esencia misma de la oración que enseñó a sus discípulos fue: «Que venga tu reino; que se haga tu voluntad». <a id="a116_113"></a>[LU 196:0.8](/es/The_Urantia_Book/196#p0_8)
 
 Una vez que concibió así que el reino consistía en la voluntad de Dios, se entregó a la causa de hacerlo realidad con admirable olvido de sí mismo y entusiasmo sin límites.
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/image/article/Luz_y_Vida/Luz_y_Vida_covers/LyV2022_05.jpg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Mayo 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gema_Villa">
+          <span class="pr-2">Cuestionario Urantiano: Gema Villa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

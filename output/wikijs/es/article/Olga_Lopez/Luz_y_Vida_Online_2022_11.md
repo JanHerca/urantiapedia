@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11">
+          <span class="pr-2">Luz y Vida — Noviembre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -191,7 +212,7 @@ Carlos Rubinsky
 Elegir una cita favorita para comentar con ustedes es realmente muy difícil, ya que son muchas las «favoritas» que me han ido surgiendo a lo largo de los años al leer y releer esta maravillosa Revelación, pero hoy elijo la siguiente:
 
 
-> No intentéis satisfacer la curiosidad o contentar todas las aventuras latentes que surgen dentro del alma, en una corta vida en la carne. ¡Tened paciencia! No caigáis en la tentación de zambulliros de manera desordenada en aventuras baratas y sórdidas. Aprovechad vuestras energías y refrenad vuestras pasiones; permaneced tranquilos mientras esperáis el desarrollo majestuoso de una carrera sin fin de aventuras progresivas y de descubrimientos emocionantes. [LU 195:5.10](/es/The_Urantia_Book/195#p5_10)
+> No intentéis satisfacer la curiosidad o contentar todas las aventuras latentes que surgen dentro del alma, en una corta vida en la carne. ¡Tened paciencia! No caigáis en la tentación de zambulliros de manera desordenada en aventuras baratas y sórdidas. Aprovechad vuestras energías y refrenad vuestras pasiones; permaneced tranquilos mientras esperáis el desarrollo majestuoso de una carrera sin fin de aventuras progresivas y de descubrimientos emocionantes. <a id="a214_462"></a>[LU 195:5.10](/es/The_Urantia_Book/195#p5_10)
 
 Esta es una de las citas a las que llamo «consejos». Tenemos en el libro cantidad de información; una nueva cosmología, nuevos paradigmas, nuevas formas de pensar la Deidad y de cómo ir acercándonos cada vez más al Padre Universal y a su extensa familia celestial; también información sobre ciencia, historia, filosofía, y demás aspectos de la Revelación. Y tenemos pensamientos que nos brindan consejos para aplicar hoy en el aquí y ahora. Como la cita que acabo de copiar.
 
@@ -305,3 +326,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11">
+          <span class="pr-2">Luz y Vida — Noviembre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

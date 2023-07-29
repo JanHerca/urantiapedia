@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Carmelo Martíne, Olga López, Eduardo Altuzarra, Santiago Rodríguez y Andrés Pérez<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_36_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 36 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-36-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 36 — Marzo 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="pr-2">La muerte según El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Carmelo
 
@@ -16,7 +40,7 @@ En el diccionario de la RAE se define la eugenesia como la: «Aplicación de las
 
 El LU habla de razas superiores e inferiores y de la necesidad de mejorar las razas humanas sin ningún pudor ni prejuicio, hasta el punto de que sorprende e incluso escandaliza a algunos.
 
-He buscado y seleccionado algunas citas al respecto. Son estas: [LU 49:1.7](/es/The_Urantia_Book/49#p1_7), [LU 51:4.8](/es/The_Urantia_Book/51#p4_8), [LU 52:2.11](/es/The_Urantia_Book/52#p2_11), [LU 52:2.12](/es/The_Urantia_Book/52#p2_12), [LU 52:3.4](/es/The_Urantia_Book/52#p3_4), [LU 55:4.11](/es/The_Urantia_Book/55#p4_11), [LU 55:6.3](/es/The_Urantia_Book/55#p6_3), [LU 65:3.6](/es/The_Urantia_Book/65#p3_6), [LU 70:8.15](/es/The_Urantia_Book/70#p8_15), [LU 71:3.8](/es/The_Urantia_Book/71#p3_8), [LU 82:6.5](/es/The_Urantia_Book/82#p6_5). (La cifra entre paréntesis es el número del documento.) Seguro que se me han escapado otras.
+He buscado y seleccionado algunas citas al respecto. Son estas: <a id="a42_64"></a>[LU 49:1.7](/es/The_Urantia_Book/49#p1_7), <a id="a42_107"></a>[LU 51:4.8](/es/The_Urantia_Book/51#p4_8), <a id="a42_150"></a>[LU 52:2.11](/es/The_Urantia_Book/52#p2_11), <a id="a42_195"></a>[LU 52:2.12](/es/The_Urantia_Book/52#p2_12), <a id="a42_240"></a>[LU 52:3.4](/es/The_Urantia_Book/52#p3_4), <a id="a42_283"></a>[LU 55:4.11](/es/The_Urantia_Book/55#p4_11), <a id="a42_328"></a>[LU 55:6.3](/es/The_Urantia_Book/55#p6_3), <a id="a42_371"></a>[LU 65:3.6](/es/The_Urantia_Book/65#p3_6), <a id="a42_414"></a>[LU 70:8.15](/es/The_Urantia_Book/70#p8_15), <a id="a42_459"></a>[LU 71:3.8](/es/The_Urantia_Book/71#p3_8), <a id="a42_502"></a>[LU 82:6.5](/es/The_Urantia_Book/82#p6_5). (La cifra entre paréntesis es el número del documento.) Seguro que se me han escapado otras.
 
 ¿Qué opináis de esta insistencia en que eliminemos a los inferiores? ¿Qué pensáis que esto supone en la práctica? ¿Por qué nos sorprende esta actitud de los reveladores? ¿Puede divulgarse algo así sin más preparación? ¿Por qué somos tan sensibles a los planteamientos eugenésicos? ¿Es moralmente aceptable la eugenesia? ¿Hay alguna forma de eugenesia que sea más aceptable moralmente que otras?
 
@@ -48,7 +72,7 @@ Es un tema difícil y delicado. Esperemos que el análisis del genoma y la tecno
 
 Sin embargo, hoy por hoy, yo también lo veo difícil, especialmente porque ¿quién juzgará lo que se debe o no se debe hacer? ¿O quién decidirá a quienes aplicarlo? Con lo defectuosos que son aún nuestros sistemas judiciales y lo mucho que falta para que los políticos sean los ciudadanos mejores, más leales y dispuestos a servir (y no a servirse), ¡como para confiarles semejantes decisiones!
 
-Los reveladores ya nos lo dicen en el párrafo [LU 51:4.8](/es/The_Urantia_Book/51#p4_8).
+Los reveladores ya nos lo dicen en el párrafo <a id="a74_46"></a>[LU 51:4.8](/es/The_Urantia_Book/51#p4_8).
 
 ## Santiago
 
@@ -159,3 +183,27 @@ Me parece genial, y quizá sea una buena forma de abordar el espinoso tema. Pero
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_36_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 36 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-36-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 36 — Marzo 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="pr-2">La muerte según El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

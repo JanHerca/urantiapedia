@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="pr-2">Luz y Vida — Diciembre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -202,7 +223,7 @@ David Carrera
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Tecnicas-transformativas.jpg" alt="Mi parrafo favorito - dic 2022">
 </figure>
 
-> … _El pueblo hace la civilización; la civilización no hace al pueblo._ [LU 76:6.4](/es/The_Urantia_Book/76#p6_4)
+> … _El pueblo hace la civilización; la civilización no hace al pueblo._ <a id="a225_73"></a>[LU 76:6.4](/es/The_Urantia_Book/76#p6_4)
 
 En esta era de demagogia y cursilería, donde se nos machaca insistentemente con el dogma de que todos somos iguales en todos los sentidos, párrafos como este suponen un bofetón bien dado a nuestras consciencias.
 
@@ -226,12 +247,12 @@ Esta parece haber sido la razón misma por la que la quinta revelación de époc
 Este párrafo del documento 114 habla, en efecto, de una configuración de gobierno planetario bastante extraordinaria en respuesta a nuestra peculiar historia reciente (además de la rebelión, el único éxito parcial de las cuatro revelaciones de época anteriores):
 
 
-> La administración que existe en Urantia es francamente difícil de describir. No tiene un gobierno formal según el esquema organizativo del universo, con separación de los departamentos legislativo, ejecutivo y judicial. Los veinticuatro consejeros son lo más parecido a la rama legislativa del gobierno planetario. El gobernador general es un jefe ejecutivo provisional y consultivo, limitado por el poder de veto del observador Altísimo. Y no hay ningún poder judicial con autoridad absoluta en el planeta, solo comisiones de conciliación. [LU 114:5.1](/es/The_Urantia_Book/114#p5_1)
+> La administración que existe en Urantia es francamente difícil de describir. No tiene un gobierno formal según el esquema organizativo del universo, con separación de los departamentos legislativo, ejecutivo y judicial. Los veinticuatro consejeros son lo más parecido a la rama legislativa del gobierno planetario. El gobernador general es un jefe ejecutivo provisional y consultivo, limitado por el poder de veto del observador Altísimo. Y no hay ningún poder judicial con autoridad absoluta en el planeta, solo comisiones de conciliación. <a id="a249_543"></a>[LU 114:5.1](/es/The_Urantia_Book/114#p5_1)
 
 El mismo documento nos recuerda lo siguiente:
 
 
-> Este gobierno planetario de organización bastante imprecisa y administración un tanto personal es más eficaz de lo esperado gracias al ahorro de tiempo que supone la asistencia de los arcángeles, cuyo circuito siempre operativo se utiliza con frecuencia en las emergencias planetarias y las dificultades administrativas. El planeta sigue estando aislado espiritualmente de los circuitos de Norlatiadek, pero ahora se puede sortear este impedimento en caso de emergencia utilizando el circuito de los arcángeles. Por otra parte, el aislamiento planetario afecta poco a los mortales individuales desde que se derramara el Espíritu de la Verdad sobre toda carne hace mil novecientos años. [LU 114:5.4](/es/The_Urantia_Book/114#p5_4)
+> Este gobierno planetario de organización bastante imprecisa y administración un tanto personal es más eficaz de lo esperado gracias al ahorro de tiempo que supone la asistencia de los arcángeles, cuyo circuito siempre operativo se utiliza con frecuencia en las emergencias planetarias y las dificultades administrativas. El planeta sigue estando aislado espiritualmente de los circuitos de Norlatiadek, pero ahora se puede sortear este impedimento en caso de emergencia utilizando el circuito de los arcángeles. Por otra parte, el aislamiento planetario afecta poco a los mortales individuales desde que se derramara el Espíritu de la Verdad sobre toda carne hace mil novecientos años. <a id="a254_688"></a>[LU 114:5.4](/es/The_Urantia_Book/114#p5_4)
 
 Además del maravilloso servicio de los arcángeles, tenemos, por supuesto, los bastante efectivos cuerpos ciudadanos permanentes de apoyo en el cuerpo de leales intermedios planetarios, y finalmente nos puede animar el hecho de que el Espíritu de la Verdad de nuestro Hijo Maestro está trabajando activamente junto con el Espíritu Santo de nuestra Hija Creativa y nuestros Ajustadores del Pensamiento, para ayudar a que nuestro nivel de consciencia de Dios continúe aumentando y nos lleve hacia adelante espiritualmente.
 
@@ -274,3 +295,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="pr-2">Luz y Vida — Diciembre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

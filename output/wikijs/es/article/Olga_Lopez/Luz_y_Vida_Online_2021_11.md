@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="pr-2">Luz y Vida — Noviembre 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -233,7 +254,7 @@ Y en nuestra búsqueda nos gustaría recibir alguna indicación, alguna pista de
 Permitidme proponeros este párrafo de _El Libro de Urantia_, que nos regala una magnífica receta para conseguir nuestros propósitos:
 
 
-> _Una vez que mis hijos se hagan conscientes de la certeza de la presencia divina, esa fe abrirá su mente, ennoblecerá su alma, fortalecerá su personalidad, aumentará su felicidad, intensificará su percepción espiritual y realzará su poder para amar y ser amados._ [LU 159:3.12](/es/The_Urantia_Book/159#p3_12)
+> _Una vez que mis hijos se hagan conscientes de la certeza de la presencia divina, esa fe abrirá su mente, ennoblecerá su alma, fortalecerá su personalidad, aumentará su felicidad, intensificará su percepción espiritual y realzará su poder para amar y ser amados._ <a id="a256_266"></a>[LU 159:3.12](/es/The_Urantia_Book/159#p3_12)
 
 Nos invitan a un trueque, a un intercambio: si tomamos la decisión de aceptar la revelación de que hay una presencia divina en nosotros y en nuestros semejantes, y decidimos consciente y libremente dejar que esta fe (creencia en acción) trabaje en nuestra vida, a cambio tendremos no solo esa felicidad que tanto deseamos como seres individuales y como sociedad, sino un montón de beneficios extra.
 
@@ -318,3 +339,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="pr-2">Luz y Vida — Noviembre 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

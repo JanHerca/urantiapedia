@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09">
+          <span class="pr-2">Luz y Vida — Septiembre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -186,7 +207,7 @@ Jael González
 
 Esta cita es mi favorita:
 
-> No puedes realmente amar a tus semejantes por un simple acto de tu voluntad. El amor tan sólo nace de la comprensión completa de las motivaciones y sentimientos de tus semejantes. [LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
+> No puedes realmente amar a tus semejantes por un simple acto de tu voluntad. El amor tan sólo nace de la comprensión completa de las motivaciones y sentimientos de tus semejantes. <a id="a209_182"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
 
 El amor es una palabra tan utilizada por nuestra humanidad. En canciones, libros y poemas aparece millones de veces, desde hace miles de años. Pero no sabemos realmente cómo amar. Vemos el amor como un simple estado de ánimo, una pulsión cambiante. En cambio, esta frase de _El Libro de Urantia_ explica cómo amar realmente a los demás. Nos enseña a amar.
 
@@ -226,9 +247,9 @@ Sigue abierto el periodo de inscripción para la III Conferencia Europea de Lect
 
 **Presentación del programa**
 
-Según los reveladores, «ya ha pasado lo peor de la edad materialista y empieza a alborear el día de una comprensión mejor» [LU 195:6.4](/es/The_Urantia_Book/195#p6_4) y «El mundo necesita ver a Jesús viviendo de nuevo en la tierra en la experiencia de los mortales nacidos del espíritu que revelan efectivamente al Maestro a todos los hombres» [LU 195:10.1](/es/The_Urantia_Book/195#p10_1).
+Según los reveladores, «ya ha pasado lo peor de la edad materialista y empieza a alborear el día de una comprensión mejor» <a id="a249_123"></a>[LU 195:6.4](/es/The_Urantia_Book/195#p6_4) y «El mundo necesita ver a Jesús viviendo de nuevo en la tierra en la experiencia de los mortales nacidos del espíritu que revelan efectivamente al Maestro a todos los hombres» <a id="a249_344"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1).
 
-Pero, ¿cómo podemos realmente dejar atrás el materialismo y nacer del espíritu? ¿Cómo podemos desarrollarnos espiritualmente? El mismo Jesús dijo que «el dominio propio es la medida de la naturaleza moral del hombre y el indicador de su desarrollo espiritual» [LU 143:2.3](/es/The_Urantia_Book/143#p2_3), luego aprender el arte del autodominio parece fundamental para progresar tanto moral como espiritualmente. Por ese motivo, en la III Conferencia Europea vamos a explorar las facetas que nos parecen más importantes para gobernar nuestro propio yo, y con esa intención se ha planteado una serie de talleres bajo el título común de «La ruta del autodominio».
+Pero, ¿cómo podemos realmente dejar atrás el materialismo y nacer del espíritu? ¿Cómo podemos desarrollarnos espiritualmente? El mismo Jesús dijo que «el dominio propio es la medida de la naturaleza moral del hombre y el indicador de su desarrollo espiritual» <a id="a251_260"></a>[LU 143:2.3](/es/The_Urantia_Book/143#p2_3), luego aprender el arte del autodominio parece fundamental para progresar tanto moral como espiritualmente. Por ese motivo, en la III Conferencia Europea vamos a explorar las facetas que nos parecen más importantes para gobernar nuestro propio yo, y con esa intención se ha planteado una serie de talleres bajo el título común de «La ruta del autodominio».
 
 Teniendo en cuenta la parte física, mental y espiritual de nosotros mismos, hemos diseñado los talleres con la intención de examinar todos los aspectos y herramientas que nos permitan dominar el gobierno de nuestro yo:
 
@@ -278,3 +299,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09">
+          <span class="pr-2">Luz y Vida — Septiembre 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

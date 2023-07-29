@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Javier García-Alcaide<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las esferas de luz y vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="pr-2">El Ser Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introducción de Javier García-Alcaide
 
-La introducción se centró en los capítulos 8 ([La oración como experiencia personal](/es/The_Urantia_Book/91#p8)) y 9 ([Condiciones para que la oración sea eficaz](/es/The_Urantia_Book/91#p9)) del documento 91. Éstos son los capítulos que resumen mejor las características de la oración.
+La introducción se centró en los capítulos 8 (<a id="a39_46"></a>[La oración como experiencia personal](/es/The_Urantia_Book/91#p8)) y 9 (<a id="a39_119"></a>[Condiciones para que la oración sea eficaz](/es/The_Urantia_Book/91#p9)) del documento 91. Éstos son los capítulos que resumen mejor las características de la oración.
 
 La oración puede adoptar múltiples formas, pero si es verdadera se tratará siempre de un acto de comunión con el Creador.
 
@@ -58,3 +82,27 @@ En el documento que habla sobre el Hijo Eterno se habla sobre los espíritus afi
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las esferas de luz y vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="pr-2">El Ser Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

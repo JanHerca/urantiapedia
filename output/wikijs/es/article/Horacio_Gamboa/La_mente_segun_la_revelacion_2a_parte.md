@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Horacio Gamboa<br>© 2009 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_16_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 16 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-16-febrero-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 16 — Febrero 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Siempre_hay_un_comienzo">
+          <span class="pr-2">Siempre hay un comienzo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Mente Cósmica
 
@@ -24,25 +48,25 @@ En las asociaciones de personalidades de la mente cósmica hay una cualidad que 
 > 
 > _1. CAUSACION: La realidad de los sentidos físicos. Los ámbitos científicos de la uniformidad lógica, la diferencia de lo factual y lo no factual, las conclusiones reflexivas basadas en la reacción cósmica. Esta es la forma matemática de la discriminación cósmica._
 > _2. DEBER: El ámbito de la realidad de la moral y del reino filosófico, el campo de la razón, el reconocimiento del bien y del mal relativos. Esta es la forma judicial de la discriminación cósmica._
-> _3. ADORACION: El ámbito espiritual de la experiencia religiosa, la comprensión personal de la fraternidad divina, el reconocimiento de los valores espirituales, la seguridad de la sobrevivencia eterna, la ascensión del estado de siervos de Dios al regocijo y libertad de los hijos de Dios. Este es el discernimiento más elevado de la mente cósmica, la forma reverencial y adoradora de la discriminación cósmica._ [LU 16:6.5-8](/es/The_Urantia_Book/16#p6_5)
+> _3. ADORACION: El ámbito espiritual de la experiencia religiosa, la comprensión personal de la fraternidad divina, el reconocimiento de los valores espirituales, la seguridad de la sobrevivencia eterna, la ascensión del estado de siervos de Dios al regocijo y libertad de los hijos de Dios. Este es el discernimiento más elevado de la mente cósmica, la forma reverencial y adoradora de la discriminación cósmica._ <a id="a50_416"></a>[LU 16:6.5-8](/es/The_Urantia_Book/16#p6_5)
 
-Estas 3 dotaciones de mente a los universos locales, los 3 discernimientos científicos, morales y espirituales, son innatos en la mente cósmica que dota a todas las criaturas volitivas. La experiencia del vivir no deja nunca de desarrollar estas 3 intuiciones cósmicas; constituyen la AUTOCONCIENCIA DEL PENSAMIENTO REFLEXIVO. Pero es triste ver que aquí en Urantia tan pocas personas se regocijan en cultivar estas cualidades de pensamiento cósmico valiente e independiente. En las dotaciones de mente donadas a los universos locales, estos 3 discernimientos de la mente cósmica son las premisas que permiten al hombre funcionar como una personalidad racional y autoconsciente en los ámbitos de la ciencia, la filosofía y la religión. Se reconocen estas 3 realidades del infinito mediante una técnica cósmica de autorrevelación: la materia-energía se conoce por la lógica matemática de los sentidos; la mente-razón intuitivamente conoce su deber moral; la fe-espíritu (adoración) es la religión de la realidad de la experiencia espiritual. [LU 16:6.9-10](/es/The_Urantia_Book/16#p6_9)
+Estas 3 dotaciones de mente a los universos locales, los 3 discernimientos científicos, morales y espirituales, son innatos en la mente cósmica que dota a todas las criaturas volitivas. La experiencia del vivir no deja nunca de desarrollar estas 3 intuiciones cósmicas; constituyen la AUTOCONCIENCIA DEL PENSAMIENTO REFLEXIVO. Pero es triste ver que aquí en Urantia tan pocas personas se regocijan en cultivar estas cualidades de pensamiento cósmico valiente e independiente. En las dotaciones de mente donadas a los universos locales, estos 3 discernimientos de la mente cósmica son las premisas que permiten al hombre funcionar como una personalidad racional y autoconsciente en los ámbitos de la ciencia, la filosofía y la religión. Se reconocen estas 3 realidades del infinito mediante una técnica cósmica de autorrevelación: la materia-energía se conoce por la lógica matemática de los sentidos; la mente-razón intuitivamente conoce su deber moral; la fe-espíritu (adoración) es la religión de la realidad de la experiencia espiritual. <a id="a52_1041"></a>[LU 16:6.9-10](/es/The_Urantia_Book/16#p6_9)
 
 Estos 3 factores del pensamiento reflexivo pueden coordinarse en el desarrollo de la personalidad o volverse desproporcionados y no relacionados en sus funciones respectivas. Pero si se unifican producen un carácter fuerte, que consiste en la correlación de una ciencia factual, una filosofía moral y una experiencia religiosa genuina. Estas 3 intuiciones cósmicas dan validez objetiva (realidad) a la experiencia humana en y con las cosas, los significados y los valores.
 
-Es propósito de la enseñanza agudizar estas dotaciones innatas de la mente humana; de la civilización, expresarlas; de la experiencia de vida, comprenderlas; de la religión, ennoblecerlas; y de la personalidad unificarlas. [LU 16:6.11](/es/The_Urantia_Book/16#p6_11)
+Es propósito de la enseñanza agudizar estas dotaciones innatas de la mente humana; de la civilización, expresarlas; de la experiencia de vida, comprenderlas; de la religión, ennoblecerlas; y de la personalidad unificarlas. <a id="a56_223"></a>[LU 16:6.11](/es/The_Urantia_Book/16#p6_11)
 
-La mente cósmica es la mente séptuple diversificada del espacio y el tiempo, cada fase de la cual es ministrada por cada uno de los Siete Espíritus Rectores de uno de los 7 súper universos. La mente cósmica comprende todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolucionaria de la Mente Suprema y trascendentalmente con los niveles existenciales de la mente absoluta: los circuitos directos del Actor Conjunto. En el Paraíso, la mente es absoluta; en Havona, es absonita; en Orvonton, es finita. La mente siempre connota la presencia-actividad del ministerio viviente además de variados sistemas de energía, y esto es verdad en todos los niveles y en todos los tipos de mente. Pero más allá de la mente cósmica se vuelve cada vez más difícil describir las relaciones de la mente con la energía no espiritual. La mente havonera es subabsoluta pero superevolucionaria; siendo existencialexperiencial, esta más cerca de lo absonito que de cualquier concepto revelado a vosotros. La mente paradisíaca esta más allá de la comprensión humana; es existencial, no espacial, y no temporal. Sin embargo, todos estos niveles de mente están bajo la égida de la presencia universal del Actor Conjunto, la atracción de la gravedad mental del Dios de la mente en el Paraíso. [LU 42:10.6](/es/The_Urantia_Book/42#p10_6)
+La mente cósmica es la mente séptuple diversificada del espacio y el tiempo, cada fase de la cual es ministrada por cada uno de los Siete Espíritus Rectores de uno de los 7 súper universos. La mente cósmica comprende todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolucionaria de la Mente Suprema y trascendentalmente con los niveles existenciales de la mente absoluta: los circuitos directos del Actor Conjunto. En el Paraíso, la mente es absoluta; en Havona, es absonita; en Orvonton, es finita. La mente siempre connota la presencia-actividad del ministerio viviente además de variados sistemas de energía, y esto es verdad en todos los niveles y en todos los tipos de mente. Pero más allá de la mente cósmica se vuelve cada vez más difícil describir las relaciones de la mente con la energía no espiritual. La mente havonera es subabsoluta pero superevolucionaria; siendo existencialexperiencial, esta más cerca de lo absonito que de cualquier concepto revelado a vosotros. La mente paradisíaca esta más allá de la comprensión humana; es existencial, no espacial, y no temporal. Sin embargo, todos estos niveles de mente están bajo la égida de la presencia universal del Actor Conjunto, la atracción de la gravedad mental del Dios de la mente en el Paraíso. <a id="a58_1314"></a>[LU 42:10.6](/es/The_Urantia_Book/42#p10_6)
 
 ## Premente
 
-La mente del Hijo Eterno es como la del Padre, pero distinta de cualquier otra mente del universo, y con la mente del Padre es antepasada con relación a las mentes diversas y vastas del Actor Conjunto. La mente del Padre y del Hijo, ese intelecto que es ancestral de la Mente Absoluta de la Tercera Fuente y Centro, tal vez sea mejor ilustrada en la Premente del Ajustador del Pensamiento porque, aunque estos fragmentos del Padre están completamente fuera de los circuitos de la mente del Actor Conjunto, tienen alguna forma de Premente; conocen y son conocidos, disfrutan el equivalente del pensamiento humano. [LU 6:6.3](/es/The_Urantia_Book/6#p6_3)
+La mente del Hijo Eterno es como la del Padre, pero distinta de cualquier otra mente del universo, y con la mente del Padre es antepasada con relación a las mentes diversas y vastas del Actor Conjunto. La mente del Padre y del Hijo, ese intelecto que es ancestral de la Mente Absoluta de la Tercera Fuente y Centro, tal vez sea mejor ilustrada en la Premente del Ajustador del Pensamiento porque, aunque estos fragmentos del Padre están completamente fuera de los circuitos de la mente del Actor Conjunto, tienen alguna forma de Premente; conocen y son conocidos, disfrutan el equivalente del pensamiento humano. <a id="a62_613"></a>[LU 6:6.3](/es/The_Urantia_Book/6#p6_3)
 
-Veremos cómo sigue esto, pues en el Doc. 107, en [LU 107:5.1](/es/The_Urantia_Book/107#p5_1), el título del punto 5 es: LOS AJUSTADORES TIENEN MENTE. Y así es, y dicen: _Los mortales evolucionarios tienden a considerar la mente una mediación cósmica entre el espíritu y la materia, puesto que ese es el ministerio principal de la mente. Por lo tanto es muy difícil para nosotros discernir que los Ajustadores tengan mente, puesto que son fragmentaciones de Dios en un nivel absoluto de realidad, que no es solo prepersonal sino previo a toda divergencia entre la energía y el espíritu. En esos niveles (monista) que es antecedente de la diferenciación entre la energía y el espíritu, no podría existir ninguna función mediadora de la mente, porque no habría divergencias que necesitaran ser mediadas._
+Veremos cómo sigue esto, pues en el Doc. 107, en <a id="a64_49"></a>[LU 107:5.1](/es/The_Urantia_Book/107#p5_1), el título del punto 5 es: LOS AJUSTADORES TIENEN MENTE. Y así es, y dicen: _Los mortales evolucionarios tienden a considerar la mente una mediación cósmica entre el espíritu y la materia, puesto que ese es el ministerio principal de la mente. Por lo tanto es muy difícil para nosotros discernir que los Ajustadores tengan mente, puesto que son fragmentaciones de Dios en un nivel absoluto de realidad, que no es solo prepersonal sino previo a toda divergencia entre la energía y el espíritu. En esos niveles (monista) que es antecedente de la diferenciación entre la energía y el espíritu, no podría existir ninguna función mediadora de la mente, porque no habría divergencias que necesitaran ser mediadas._
 
 Los Ajustadores planifican, trabajan, aman, se comunican entre ellos. Los Reveladores nos dicen que poco saben de su propósito, naturaleza y contacto. Nos dicen que tienen que tener algún tipo de mente, porque si no, no podrían jamás ser personalizados. En este punto, la mente de los Ajustadores, dicen debe ser como la de varias otras órdenes de entidades prepersonales, originarias también de la Primera Fuente y Centro, no reveladas en Urantia, pero todas tienen mente. Estas entidades se unifican con seres no mortales y otros no evolucionarios, pero que hayan desarrollado una capacidad para la fusión con esos fragmentos de la Deidad.
 
-> _Cuando un Ajustador del Pensamiento se fusiona con el alma moroncial inmortal en evolución del humano sobreviviente, la mente del Ajustador tan solo puede ser identificada como persistiendo separada de la mente de la criatura, hasta que el mortal ascendente alcanza los niveles espirituales de progresión universal._ [LU 107:5.5](/es/The_Urantia_Book/107#p5_5)
+> _Cuando un Ajustador del Pensamiento se fusiona con el alma moroncial inmortal en evolución del humano sobreviviente, la mente del Ajustador tan solo puede ser identificada como persistiendo separada de la mente de la criatura, hasta que el mortal ascendente alcanza los niveles espirituales de progresión universal._ <a id="a68_320"></a>[LU 107:5.5](/es/The_Urantia_Book/107#p5_5)
 
 Como vemos hay otros seres totalmente desconocidos para nosotros, inclusive no evolucionarios, pero que se fusionan en algún momento con fragmentos de la Deidad. Y como dice el punto citado, la mente del Ajustador y la mente del humano ascendente actúan por separado hasta la espiritualización plena del ascendente. Aquí nos dicen también que la mente del Ajustador es como la dote de mente del Padre Universal y del Hijo Eterno, que es ancestral a las mentes del Actor Conjunto.
 
@@ -56,7 +80,7 @@ Nosotros no rendimos pasivamente nuestra voluntad a los Ajustadores, más bien e
 
 Los Ajustadores manipulan pero nunca dominan la mente del hombre contra su voluntad, para ellos la voluntad humana es suprema. Tanto respetan y reverencian la voluntad humana, que trabajan para el logro de sus objetivos espirituales de ajuste de pensamiento y transformación del carácter en la arena casi sin límites del intelecto humano en evolución. No olvidemos que el intelecto es dominio del Actor Conjunto, por lo tanto también es su dotación para las razas evolucionarias del tiempo y del espacio. 
 
-> _La mente es tu buque, el Ajustador es tu piloto, la voluntad humana es el capitán. El dueño del barco mortal debería tener la sabiduría de confiar en el piloto divino para guiar su alma ascendente a los puertos moronciales de la supervivencia eterna. Solo mediante el egoísmo, la pereza y el pecado puede la voluntad del hombre rechazar la guía de un piloto tan amante y finalmente naufragar su carrera mortal en los acantilados malignos de la misericordia rechazada y contra las rocas del pecado aceptado. Con tu consentimiento, este piloto fiel te conducirá con seguridad a través de las barreras del tiempo y de los obstáculos del espacio a la fuente misma de la mente divina y aún mas allá, aún hasta el Padre Paradisíaco de los Ajustadores._ [LU 111:1.9](/es/The_Urantia_Book/111#p1_9)
+> _La mente es tu buque, el Ajustador es tu piloto, la voluntad humana es el capitán. El dueño del barco mortal debería tener la sabiduría de confiar en el piloto divino para guiar su alma ascendente a los puertos moronciales de la supervivencia eterna. Solo mediante el egoísmo, la pereza y el pecado puede la voluntad del hombre rechazar la guía de un piloto tan amante y finalmente naufragar su carrera mortal en los acantilados malignos de la misericordia rechazada y contra las rocas del pecado aceptado. Con tu consentimiento, este piloto fiel te conducirá con seguridad a través de las barreras del tiempo y de los obstáculos del espacio a la fuente misma de la mente divina y aún mas allá, aún hasta el Padre Paradisíaco de los Ajustadores._ <a id="a82_750"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9)
 
 A todo lo largo y ancho de las funciones mentales de la inteligencia cósmica, la mente domina las partes de la función intelectual. (No nos olvidemos que también el intelecto procede, igual que la mente, del Espíritu Infinito)
 
@@ -76,17 +100,17 @@ Los seres intermedios denominan esta alma evolutiva como mente intermedia, para 
 
 El potencial de la evolución moroncial es inherente en los dos impulsos universales de la mente: el impulso de la mente finita de la criatura de conocer a Dios y alcanzar la divinidad del Creador, y el impulso de la mente infinita del Creador de conocer al hombre y alcanzar la experiencia de la criatura. 
 
-En esencia, nos debe quedar claro que nuestros Ajustadores, desde su llegada a la mente humana, ([LU 133:6.5](/es/The_Urantia_Book/133#p6_5)) a la edad entre los 5 y los 6 años se pone a trabajar en el alma, en ese momento nace el alma. Y el alma, esa mente intermedia y moroncial, es lo que nos llevaremos de aquí, y es en definitiva en nuestras almas donde el Creador nos conoce y alcanza nuestra experiencia, y donde nosotros comenzamos nuestra evolución a la espiritualidad.
+En esencia, nos debe quedar claro que nuestros Ajustadores, desde su llegada a la mente humana, (<a id="a102_97"></a>[LU 133:6.5](/es/The_Urantia_Book/133#p6_5)) a la edad entre los 5 y los 6 años se pone a trabajar en el alma, en ese momento nace el alma. Y el alma, esa mente intermedia y moroncial, es lo que nos llevaremos de aquí, y es en definitiva en nuestras almas donde el Creador nos conoce y alcanza nuestra experiencia, y donde nosotros comenzamos nuestra evolución a la espiritualidad.
 
 Por ahora estamos aquí.
 
-Así, la realidad material y mortal del yo trasciende las limitaciones temporales de la máquina de vida física y alcanza una nueva expresión y una nueva identificación en el vehiculo en evolución para la continuidad del yo: EL ALMA MORONCIAL E INMORTAL ([LU 111:2.10](/es/The_Urantia_Book/111#p2_10))
+Así, la realidad material y mortal del yo trasciende las limitaciones temporales de la máquina de vida física y alcanza una nueva expresión y una nueva identificación en el vehiculo en evolución para la continuidad del yo: EL ALMA MORONCIAL E INMORTAL (<a id="a106_253"></a>[LU 111:2.10](/es/The_Urantia_Book/111#p2_10))
 
 Los errores de la mente mortal, las equivocaciones de la conducta humana retrasan la evolución del alma, aunque no se para dicho proceso moroncial cuando este se inicia por el Ajustador residente con el consentimiento de la voluntad humana. Pero la misma voluntad y previamente a la muerte mortal, tiene el poder de decidir rechazar la supervivencia. Incluso después de la muerte y durante el ascenso, antes de la fusión con el Ajustador, puedes rechazar la supervivencia.
 
 ## Fin de la Mente
 
-En el momento de la muerte, la identidad funcional asociada con la personalidad humana se interrumpe a través de la cesación del movimiento vital. La personalidad humana, aunque trascienda sus partes constituyentes, depende de ellas para su identidad funcional. La interrupción de la vida destruye los esquemas cerebrales físicos para la dote mental, y la destrucción de la mente termina la conciencia mental. La conciencia de esa criatura no puede posteriormente volver a aparecer hasta que no se haya establecido una situación cósmica que permita que esa misma personalidad humana pueda funcionar nuevamente en relación con la energía viva. [LU 112:5.14](/es/The_Urantia_Book/112#p5_14)
+En el momento de la muerte, la identidad funcional asociada con la personalidad humana se interrumpe a través de la cesación del movimiento vital. La personalidad humana, aunque trascienda sus partes constituyentes, depende de ellas para su identidad funcional. La interrupción de la vida destruye los esquemas cerebrales físicos para la dote mental, y la destrucción de la mente termina la conciencia mental. La conciencia de esa criatura no puede posteriormente volver a aparecer hasta que no se haya establecido una situación cósmica que permita que esa misma personalidad humana pueda funcionar nuevamente en relación con la energía viva. <a id="a112_643"></a>[LU 112:5.14](/es/The_Urantia_Book/112#p5_14)
 
 Aquí nos dicen con absoluta claridad que, luego de morir nosotros acá, nuestro aparato organismal, la mente, esa unidad funcional que nos describen anteriormente, deja de funcionar, o sea que solo nos sirve en esta vida. Y además queda claro que, mientras no exista una nueva identidad (moroncial en este caso), no volveremos a tener ni la conciencia ni la personalidad.
 
@@ -95,3 +119,27 @@ Aquí nos dicen con absoluta claridad que, luego de morir nosotros acá, nuestro
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_16_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 16 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-16-febrero-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 16 — Febrero 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Siempre_hay_un_comienzo">
+          <span class="pr-2">Siempre hay un comienzo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

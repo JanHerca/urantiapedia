@@ -9,8 +9,32 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 José Alberto Wonsover<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Los_Circulos_de_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los círculos de Jerusem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-10-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 10 — Septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="pr-2">La estrella de Belén</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> _Como criaturas nuevas renacidas del espíritu, se os enseña a creer y a regocijaros. En el reino del Padre, debéis convertiros en criaturas nuevas; las cosas viejas deben desaparecer; observad que os muestro cómo todas las cosas deben renovarse._ [LU 143:2.3](/es/The_Urantia_Book/143#p2_3)
+
+> _Como criaturas nuevas renacidas del espíritu, se os enseña a creer y a regocijaros. En el reino del Padre, debéis convertiros en criaturas nuevas; las cosas viejas deben desaparecer; observad que os muestro cómo todas las cosas deben renovarse._ <a id="a36_249"></a>[LU 143:2.3](/es/The_Urantia_Book/143#p2_3)
 
 Todas las cosas deben renovarse. ;Y en la vida misma así es!... Cada día y cada mañana es un nuevo día, con nuevas oportunidades y nuevos desafíos. No es el mismo día de ayer. Es uno completamente nuevo. Es más, cada segundo que pasa es completamente nuevo. Pero la monotonía es la causante de que «todo» lo veamos igual. Vamos a nuestros trabajos o a nuestros estudios y vemos como que nada cambia. Y lógicamente nada va a cambiar si nosotros no cambiamos _<ins>primero</ins>_. Debemos renovarnos, debemos ser nuevas criaturas. No es que «podríamos ser...» es que _<ins>debemos</ins>_ ser.
 
@@ -18,11 +42,11 @@ Una mariposa antes de ser una mariposa es una oruga. Debe serlo. Porque así es 
 
 El Maestro siempre repartía buenas Nuevas, siempre eran Nuevas. Por ejemplo cuando se encontró con Nalda, la samaritana en el pozo de Jacob le dijo:
 
-> «_Mujer, continúa tu camino; Dios te ha perdonado. De ahora en adelante <ins>vivirás una nueva vida</ins>. Has recibido el agua viva; <ins>una nueva alegría brotará dentro de tu alma</ins>, y te convertirás en una hija del Altísimo._» [LU 143:5.9](/es/The_Urantia_Book/143#p5_9)
+> «_Mujer, continúa tu camino; Dios te ha perdonado. De ahora en adelante <ins>vivirás una nueva vida</ins>. Has recibido el agua viva; <ins>una nueva alegría brotará dentro de tu alma</ins>, y te convertirás en una hija del Altísimo._» <a id="a44_237"></a>[LU 143:5.9](/es/The_Urantia_Book/143#p5_9)
 
 ¡Todo nuevo! ¡Una nueva vida y una nueva alegría! No la alegría normal que normalmente conocemos, no la vida normal que normalmente vivimos... ¡Una nueva vida y una nueva alegría!
 
-> _Os amaréis los unos a los otros con un afecto <ins>nuevo y sorprendente</ins>, tal como yo os he amado. Serviréis a la humanidad con una devoción <ins>nueva y extraordinaria</ins>, tal como yo os he servido._ [LU 191:6.2](/es/The_Urantia_Book/191#p6_2)
+> _Os amaréis los unos a los otros con un afecto <ins>nuevo y sorprendente</ins>, tal como yo os he amado. Serviréis a la humanidad con una devoción <ins>nueva y extraordinaria</ins>, tal como yo os he servido._ <a id="a48_212"></a>[LU 191:6.2](/es/The_Urantia_Book/191#p6_2)
 
 No es simplemente una sensación de algo nuevo y después seguir todo igual... ¡Es algo que de verdad es NUEVO! Ha nacido dentro de nosotros. Esa nueva vida y esa nueva alegría han nacido.
 
@@ -64,7 +88,7 @@ Las aguas de un río nunca son igual. El río puede tener el mismo «nombre», p
 
 En la religión es así. La misma religión que nos mostró el Maestro es una religión personal, pero sobre todo una religión de AMOR, de alegría, de gozo y de felicidad.
 
-> _La religión de Jesús exige una experiencia viviente y espiritual. Otras religiones podrán consistir en creencias tradicionales, sentimientos emotivos, conciencias filosóficas, y todo eso junto, pero la enseñanza del Maestro implica alcanzar los niveles reales de progreso espiritual verdadero._ [LU 160:5.12](/es/The_Urantia_Book/160#p5_12)
+> _La religión de Jesús exige una experiencia viviente y espiritual. Otras religiones podrán consistir en creencias tradicionales, sentimientos emotivos, conciencias filosóficas, y todo eso junto, pero la enseñanza del Maestro implica alcanzar los niveles reales de progreso espiritual verdadero._ <a id="a90_298"></a>[LU 160:5.12](/es/The_Urantia_Book/160#p5_12)
 
 Cortar con lo «tradicional» es cortar con el pasado y dar la bienvenida a algo NUEVO y mejor. Es duro, un proceso arduo, porque la mente se «acostumbra» a lo tradicional. Y dar paso a algo nuevo es dar paso a algo desconocido. ¡Nos asusta! Por supuesto que sí. No conocemos lo que va a pasar. No conocemos que la oruga se _<ins>transformará</ins>_ en una mariposa. Conocemos la oruga, pero no la mariposa.
 
@@ -72,10 +96,34 @@ Nos «acostumbramos» a lo que conocemos, nos «asusta» lo que no conocemos.
 
 Y aún así, conocemos quizás _<ins>el mejor</ins>_ de los ejemplos. Al principio nos cuesta aceptarlo, es verdad, pero conocemos a alguien que pasó por lo que nosotros pasamos... La vida del Maestro. Esto no significa «imitar» la vida que vivió el Maestro. Esto significa aceptar lo que él acepto y vivir nuestra propia vida de acuerdo a eso.
 
-> «_Si queréis seguir mis pasos cuando os haya dejado, esforzaos seriamente por vivir de acuerdo con el espíritu de mis enseñanzas y el ideal de mi vida - <ins>hacer la voluntad de mi Padre</ins>. Haced esto, en lugar de intentar imitar mi vida sencilla en la carne tal como me he visto obligado a vivirla, necesariamente, en este mundo._» [LU 181:1.3](/es/The_Urantia_Book/181#p1_3)
+> «_Si queréis seguir mis pasos cuando os haya dejado, esforzaos seriamente por vivir de acuerdo con el espíritu de mis enseñanzas y el ideal de mi vida - <ins>hacer la voluntad de mi Padre</ins>. Haced esto, en lugar de intentar imitar mi vida sencilla en la carne tal como me he visto obligado a vivirla, necesariamente, en este mundo._» <a id="a98_340"></a>[LU 181:1.3](/es/The_Urantia_Book/181#p1_3)
 
 Incluso imitar una vida exactamente como la vivió el Maestro se vuelve algo tradicional y monótono. Cada uno vive su vida diferente. Jamás un cristal de nieve es siempre el mismo, nunca hay dos que sean idénticos. Incluso cada persona es diferente, jamás hay dos huellas digitales que sean exactamente iguales. Todo siempre es algo nuevo. No podemos vivir la vida del Maestro porque él la vivió a su manera. Pero sí podemos vivir nuestra vida con sus mismos principios y sus mismos ideales. Esos ideales nos ayudarán y nos confortarán siempre.
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Los_Circulos_de_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los círculos de Jerusem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-10-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 10 — Septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="pr-2">La estrella de Belén</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

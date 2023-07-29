@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Rafael Mondéjar<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Hijos de Dios trinidizados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="pr-2">Las esferas de luz y vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introducción de Rafael Mondéjar
@@ -263,8 +287,32 @@ Tenemos otra referencia muy interesante a la resurrección en las apariciones mo
 
 Hay diferencias de interpretación respecto al mundo de estancia en el que iniciamos nuestra etapa morontial: ¿pasamos siempre por el primero, aunque sea por un breve lapso de tiempo hasta alcanzar el mundo que nos correspondería según nuestro estado espiritual? No parece que sea así, no al menos cuando se habla de los mortales en general. En el documento que trata sobre los mundos en luz y vida se dice que muchos de los seres humanos que habitan estos mundos ni siquiera pasan por los mundos de estancia, sino que desde su planeta se dirigen directamente hacia Jerusem.
 
-En [LU 47:3.5](/es/The_Urantia_Book/47#p3_5) hay unas observaciones muy interesantes acerca de las dispensaciones planetarias, y en [LU 49:5.32](/es/The_Urantia_Book/49#p5_32) tenemos referencias acerca de las técnicas de escape terrestre. Otra de las cuestiones que se plantearon fue ésta: si en el cuarto mundo de estancia hay que dominar ya la lengua del universo local, y teniendo en cuenta que hay seres humanos que pueden pasar directamente a este cuarto mundo, ¿cómo pueden aprender el idioma en tan poco tiempo, si los reveladores nos dicen además que la técnica para aprender el idioma es bastante semejante a la que se emplea en Urantia? Bien es cierto que ya en los mundos en luz y vida se llega a aprender el idioma del universo local. También hay que destacar el caso de mortales que se fusionan con su Ajustador ya en el mundo material, lo que les supone ir a los mundos de estancia más avanzados ([LU 49:6.19](/es/The_Urantia_Book/49#p6_19)). Estos mortales no tienen por qué proceder necesariamente de un mundo en luz y vida, pero en general sucede en los mundos más avanzados espiritualmente.
+En <a id="a289_3"></a>[LU 47:3.5](/es/The_Urantia_Book/47#p3_5) hay unas observaciones muy interesantes acerca de las dispensaciones planetarias, y en <a id="a289_132"></a>[LU 49:5.32](/es/The_Urantia_Book/49#p5_32) tenemos referencias acerca de las técnicas de escape terrestre. Otra de las cuestiones que se plantearon fue ésta: si en el cuarto mundo de estancia hay que dominar ya la lengua del universo local, y teniendo en cuenta que hay seres humanos que pueden pasar directamente a este cuarto mundo, ¿cómo pueden aprender el idioma en tan poco tiempo, si los reveladores nos dicen además que la técnica para aprender el idioma es bastante semejante a la que se emplea en Urantia? Bien es cierto que ya en los mundos en luz y vida se llega a aprender el idioma del universo local. También hay que destacar el caso de mortales que se fusionan con su Ajustador ya en el mundo material, lo que les supone ir a los mundos de estancia más avanzados (<a id="a289_912"></a>[LU 49:6.19](/es/The_Urantia_Book/49#p6_19)). Estos mortales no tienen por qué proceder necesariamente de un mundo en luz y vida, pero en general sucede en los mundos más avanzados espiritualmente.
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Hijos de Dios trinidizados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="pr-2">Las esferas de luz y vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

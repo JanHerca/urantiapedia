@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 David Carrera y Santiago Flores<br>© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Noveno_Planeta_a_la_luz_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El noveno planeta a la luz de El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-43-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 43 — Marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_las_ondas_gravitacionales">
+          <span class="pr-2">Convergencias y divergencias: las ondas gravitacionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## David Carrera Ibáñez
 
@@ -191,7 +215,7 @@ Los «poderes psíquicos» o «poderes mentales» son, para mí, los poderes de 
 <img src="/image/article/Luz_y_Vida/LyV43/07.jpg">
 </figure>
 
-El ser material contiene tres niveles de existencia (unos propios, otros generosamente provistos por la Deidad): la materia, a cuyo estado de equilibrio llamamos ‘salud’; la mente, cuyo equilibrio llamamos ‘cordura’ y el espíritu cuyo equilibrio llamamos ‘felicidad’. ([LU 100:4.3](/es/The_Urantia_Book/100#p4_3) y [LU 2:7.11](/es/The_Urantia_Book/2#p7_11))
+El ser material contiene tres niveles de existencia (unos propios, otros generosamente provistos por la Deidad): la materia, a cuyo estado de equilibrio llamamos ‘salud’; la mente, cuyo equilibrio llamamos ‘cordura’ y el espíritu cuyo equilibrio llamamos ‘felicidad’. (<a id="a217_269"></a>[LU 100:4.3](/es/The_Urantia_Book/100#p4_3) y <a id="a217_315"></a>[LU 2:7.11](/es/The_Urantia_Book/2#p7_11))
 
 Una mente normal y sana, motivada por el espíritu, hace mucho para evitar o corregir dolencias sicosomáticas, pero sólo puede dar un estoicismo sólido ante las enfermedades o dolencias exclusivamente físicas.
 
@@ -203,10 +227,34 @@ La eugenesia no implica necesariamente manipulación genética. La eugenesia bie
 
 Finalmente, yo también quiero traer a colación un párrafo de _El Libro de Urantia_:
 
-> _Desde la perspectiva mundial, la sobrepoblación no ha sido nunca un problema grave en el pasado, pero si disminuyen las guerras y la ciencia va controlando en creciente escala todas las enfermedades humanas, puede llegar a ser un grave problema en un futuro próximo. En tal momento se someterá a prueba la sabiduría de los mandatarios del mundo. ***¿Tendrán los dirigentes de Urantia la perspicacia y la valentía para fomentar la multiplicación del ser humano medio o estable en vez de los extremos de los supernormales y los grupos cada vez mayores de subnormales? Se debe fomentar al hombre normal; él es la espina dorsal de la civilización y la fuente de los genios mutantes de la raza. Se deberá mantener al hombre subnormal bajo el control de la sociedad; no se deben producir más de los que se requieran para atender a los niveles inferiores de la industria, aquellas tareas que requieren inteligencia por encima del nivel animal pero de exigencias tan exiguas como para dar constancia de verdadera esclavitud y subyugación a los tipos superiores de la humanidad***._ [LU 68:6.11](/es/The_Urantia_Book/68#p6_11)
+> _Desde la perspectiva mundial, la sobrepoblación no ha sido nunca un problema grave en el pasado, pero si disminuyen las guerras y la ciencia va controlando en creciente escala todas las enfermedades humanas, puede llegar a ser un grave problema en un futuro próximo. En tal momento se someterá a prueba la sabiduría de los mandatarios del mundo. ***¿Tendrán los dirigentes de Urantia la perspicacia y la valentía para fomentar la multiplicación del ser humano medio o estable en vez de los extremos de los supernormales y los grupos cada vez mayores de subnormales? Se debe fomentar al hombre normal; él es la espina dorsal de la civilización y la fuente de los genios mutantes de la raza. Se deberá mantener al hombre subnormal bajo el control de la sociedad; no se deben producir más de los que se requieran para atender a los niveles inferiores de la industria, aquellas tareas que requieren inteligencia por encima del nivel animal pero de exigencias tan exiguas como para dar constancia de verdadera esclavitud y subyugación a los tipos superiores de la humanidad***._ <a id="a229_1077"></a>[LU 68:6.11](/es/The_Urantia_Book/68#p6_11)
 
 Abrazos
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Noveno_Planeta_a_la_luz_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El noveno planeta a la luz de El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-43-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 43 — Marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_las_ondas_gravitacionales">
+          <span class="pr-2">Convergencias y divergencias: las ondas gravitacionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

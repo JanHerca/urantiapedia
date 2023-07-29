@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Ernesto Veloso<br>© 2009 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_mente_segun_la_revelacion_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente según la revelación (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-16-febrero-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 16 — Febrero 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/La_alquimia_de_la_creacion">
+          <span class="pr-2">La Alquimia de la Creación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Siempre hay un comienzo, un instante en el tiempo en el que uno se pregunta por primera vez: ¿Cuál es el sentido de la vida? ¿De donde vengo? ¿Quién soy y hacia dónde voy? ¿Qué me espera al final de esto que llamamos vida? Estas preguntas me las hice una noche mientras caminaba a solas por una desierta calle de mi ciudad. Esa noche no tuve respuestas y en verdad pensé que nunca las tendría. El misterio de lo desconocido me envolvía con un manto de miedo y desesperanza, porque ¿qué futuro puede haber para el hombre que camina por la vida, divorciado del conocimiento de Dios? Un hombre así es huérfano no sólo de esperanza, es huérfano también de presente y de cualquier perspectiva de realidad cósmica.
 
@@ -34,3 +58,27 @@ Todas estas reflexiones me sirven de acicate a mi espiritualización. Por cada n
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_mente_segun_la_revelacion_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente según la revelación (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-16-febrero-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 16 — Febrero 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/La_alquimia_de_la_creacion">
+          <span class="pr-2">La Alquimia de la Creación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

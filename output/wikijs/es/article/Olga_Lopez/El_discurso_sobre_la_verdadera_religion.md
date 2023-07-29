@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Olga López<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Otorgamiento de Miguel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="pr-2">La parábola del propietario de las viñas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Éste es el primero de los dos discursos sobre los que vamos a reflexionar y profundizar. Está en el Documento 155, «La huida por el norte de Galilea».
 
@@ -20,7 +44,7 @@ Aquella época fue una prueba de fe para los seguidores de Jesús. Muchos fueron
 
 En el camino a Fenicia, adonde se dirigían para enfriar los ánimos de las autoridades judías, Jesús iba acompañado únicamente de doce evangelistas y de los doce apóstoles. Sus compañeros estaban preocupados por la actitud de los enemigos de Jesús, y Tomás, en una pausa que hicieron para almorzar, expresó esa inquietud con la siguiente pregunta:
 
-> «_Maestro, me gustaría saber realmente qué hay exactamente de erróneo en la religión de nuestros enemigos de Jerusalén. ¿Cuál es la diferencia real entre su religión y la nuestra? ¿Cómo puede ser que tengamos tanta diversidad de creencias si todos profesamos servir al mismo Dios?_» [LU 155:4.2](/es/The_Urantia_Book/155#p4_2)
+> «_Maestro, me gustaría saber realmente qué hay exactamente de erróneo en la religión de nuestros enemigos de Jerusalén. ¿Cuál es la diferencia real entre su religión y la nuestra? ¿Cómo puede ser que tengamos tanta diversidad de creencias si todos profesamos servir al mismo Dios?_» <a id="a46_285"></a>[LU 155:4.2](/es/The_Urantia_Book/155#p4_2)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV37/07.jpg">
@@ -58,7 +82,7 @@ Al leer este discurso, me vino a la mente una historia que aparece en «Ilusione
 
 Así pues, muy bien nos podríamos plantear las preguntas que Jesús hizo a sus apóstoles al finalizar este discurso:
 
-> _¿Sois miedosos, blandos y buscáis la facilidad? ¿Tenéis miedo de confiar vuestro futuro entre las manos del Dios de la verdad, de quien sois hijos? ¿Desconfiáis del Padre, de quien sois hijos? ¿Vais a retroceder al sendero fácil de la certidumbre y de la estabilidad intelectual de la religión de autoridad tradicional, o vais a ceñiros para avanzar conmigo en el futuro incierto y agitado en el que proclamaremos las verdades nuevas de la religión del espíritu, el reino de los cielos en el corazón de los hombres?_ [LU 155:5.13](/es/The_Urantia_Book/155#p5_13)
+> _¿Sois miedosos, blandos y buscáis la facilidad? ¿Tenéis miedo de confiar vuestro futuro entre las manos del Dios de la verdad, de quien sois hijos? ¿Desconfiáis del Padre, de quien sois hijos? ¿Vais a retroceder al sendero fácil de la certidumbre y de la estabilidad intelectual de la religión de autoridad tradicional, o vais a ceñiros para avanzar conmigo en el futuro incierto y agitado en el que proclamaremos las verdades nuevas de la religión del espíritu, el reino de los cielos en el corazón de los hombres?_ <a id="a84_520"></a>[LU 155:5.13](/es/The_Urantia_Book/155#p5_13)
 
 Nuestro soberano del universo, Miguel de Nebadon, vino a este mundo a enseñarnos que solo necesitamos la fe incondicional de un niño para entrar en el reino de los cielos, y que por lo tanto los intermediarios no son necesarios. En aquel entonces, su mensaje no caló lo bastante hondo y el cristianismo posterior olvidó esa enseñanza fundamental, aun cuando sigue latente dentro de él.
 
@@ -95,3 +119,27 @@ Hasta ahora, el mundo no ha puesto en práctica de manera generalizada la religi
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Otorgamiento de Miguel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="pr-2">La parábola del propietario de las viñas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

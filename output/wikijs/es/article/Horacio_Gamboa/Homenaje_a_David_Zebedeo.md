@@ -9,12 +9,36 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Horacio Gamboa<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Doris_Calmel/The_reading_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lectura de El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="pr-2">El universo es un lugar increíblemente grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Es imposible que ningún gobierno, u operación política o militar se pueda llevar a cabo, menos aún como fue la del Maestro Jesús en la tierra, de proselitismo desafiante a la autoridad religiosa establecida, pueda funcionar sin un sistema y un Jefe de Inteligencia y su respectivo equipo de agentes que reúnan la información necesaria para poder dar los pasos adecuadamente. No olvidemos que la información es poder. Los movimientos de Jesús, si bien es cierto que el sabia el fin desde el principio, pero nunca uso esa prerrogativa por su propia decisión, en el sentido de solo atenerse a su mente puramente humana, fueron asesorados con gran precisión, dedicación y lealtad por David Zebedeo, propio hermano de Santiago y Juan Zebedeo. David era uno de los Hermanos del Trueno, como llamaba Jesús a Santiago y Juan. David no fue apóstol, ni tampoco fue llamado por el Maestro sino que fue él, solo, lentamente tomando la responsabilidad de mantener informado a Jesús con el cuerpo de mensajeros, y de prestarle protección mediante una vigilancia permanente, de ayudarlo con la logística de los viajes, tiendas, alimentación y de informarle el estado de los lugares donde se dirigía, y los avances que iban logrando los evangelistas. 
 
 ESTE ES MI HOMENAJE A ESTE GRAN HOMBRE, «MI HÉROE DE EL LIBRO DE URANTIA»
 
-La primera mención de David Zebedeo está relacionada con la redada de los peces en [LU 145:1.1](/es/The_Urantia_Book/145#p1_1). A Jesús, luego de una intensa instrucción a la multitud, lo fueron cercando y empujando hacia la orilla del mar donde estaba la barca de David, que llevaba el nombre de Simón, ya que había sido de Simón Pedro anteriormente y había sido construida por el Maestro mismo. Estaban David y un tal Simón (ayudante de él) limpiando las redes luego de una larga noche sin resultados. Jesús, después de haber interrumpido su trabajo para hablar a la multitud desde la barca, lo invitó a navegar y volver a tirar las redes. Simón, el ayudante de David, le dijo a Jesús que no valía la pena, pero estuvo dispuesto a seguir las instrucciones del Maestro porque David así se lo indicó. Tiraron las redes en el lugar que Jesús le dijo, y fue tanta la pesca que lograron que tuvieron que llamar a sus socios que estaban en tierra y trajeron tres barcas más, que llenaron hasta sus bordas. Desde ese día, David Zebedeo y este Simón dejaron sus redes y siguieron al Maestro.
+La primera mención de David Zebedeo está relacionada con la redada de los peces en <a id="a40_83"></a>[LU 145:1.1](/es/The_Urantia_Book/145#p1_1). A Jesús, luego de una intensa instrucción a la multitud, lo fueron cercando y empujando hacia la orilla del mar donde estaba la barca de David, que llevaba el nombre de Simón, ya que había sido de Simón Pedro anteriormente y había sido construida por el Maestro mismo. Estaban David y un tal Simón (ayudante de él) limpiando las redes luego de una larga noche sin resultados. Jesús, después de haber interrumpido su trabajo para hablar a la multitud desde la barca, lo invitó a navegar y volver a tirar las redes. Simón, el ayudante de David, le dijo a Jesús que no valía la pena, pero estuvo dispuesto a seguir las instrucciones del Maestro porque David así se lo indicó. Tiraron las redes en el lugar que Jesús le dijo, y fue tanta la pesca que lograron que tuvieron que llamar a sus socios que estaban en tierra y trajeron tres barcas más, que llenaron hasta sus bordas. Desde ese día, David Zebedeo y este Simón dejaron sus redes y siguieron al Maestro.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV39/04.jpg">
@@ -147,3 +171,27 @@ Horacio Gamboa Verdugo.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Doris_Calmel/The_reading_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lectura de El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="pr-2">El universo es un lugar increíblemente grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

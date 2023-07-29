@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Efraín Vivanco<br>© 2013 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jesus_Rodriguez/Padre_Nuestro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Padre Nuestro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-35-diciembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 35 — Diciembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="pr-2">Canalizaciones: error, verdad, ilusión o inocencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El Dr. S.W. Sadler, hijo del Dr. Sadler, principal participante en la recepción de los documentos que dieron origen a _El Libro de Urantia_, dice en su _Estudio del Universo Maestro_: «_El Libro de Urantia_ no está escrito como un libro de texto, sino como una sinfonía. Los temas maravillosos de conceptos y movimientos de reveladora verdad aparecen y reaparecen como la larga historia revelada. Las partes de esta historia son muy melodiosas. La melodía se desarrolla con tal simplicidad encantadora que el lector se mantiene extasiado». [Prefacio, párrafo 6](/es/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword)
 
@@ -70,11 +94,11 @@ Los Ajustadores del Pensamiento poseen un sinnúmero de cualidades; como analiza
 8. Son espíritus puros y energía pura.
 9. Están llenos de amor para el humano donde residen y llenos de sabiduría para conducir la mente y el alma humana hacia el Padre Universal.
 
-Entonces, ¿podemos realmente comprender el verdadero significado de que un Ajustador resida en nosotros? ¿Podemos realmente imaginar qué significa tener un fragmento absoluto de la Deidad absoluta e infinita, el Padre Universal, que reside en nosotros y se fusiona con nuestra naturaleza mortal finita? Cuando el hombre mortal se fusiona con un fragmento real de la Causa existencial del cosmos total, no se puede colocar límite alguno sobre el destino de tal asociación sin precedentes e inimaginable. ([LU 107:4.7](/es/The_Urantia_Book/107#p4_7))
+Entonces, ¿podemos realmente comprender el verdadero significado de que un Ajustador resida en nosotros? ¿Podemos realmente imaginar qué significa tener un fragmento absoluto de la Deidad absoluta e infinita, el Padre Universal, que reside en nosotros y se fusiona con nuestra naturaleza mortal finita? Cuando el hombre mortal se fusiona con un fragmento real de la Causa existencial del cosmos total, no se puede colocar límite alguno sobre el destino de tal asociación sin precedentes e inimaginable. (<a id="a96_504"></a>[LU 107:4.7](/es/The_Urantia_Book/107#p4_7))
 
 Permítanme ahora registrar textualmente las palabras que un Ajustador del Pensamiento le hizo llegar al sujeto de su residencia:
 
-«_Durante la realización y ruptura de un contacto entre la mente mortal de un reservista del destino y los supervisores planetarios, a veces el Ajustador residente está situado de tal manera que se hace posible trasmitir un mensaje al socio mortal. No hace mucho, en Urantia, un Ajustador autoactuante trasmitió tal mensaje a su asociado humano, un miembro del cuerpo de reserva del destino. Este mensaje comenzaba con estas palabras: «Ahora, sin injuria ni peligro para el sujeto de mi devoción solícita y sin intento de desalentar ni castigar, para mí, registrad mi súplica». A continuación se oyó una admonición bellamente conmovedora y emotiva. Entre otras cosas, el Ajustador imploró, «que me otorgue más fielmente su cooperación sincera, que tolere más alegremente las tareas de mi emplazamiento, que lleve a cabo más fielmente el programa de mi arreglo, que pase más pacientemente las pruebas de mi selección, que camine más persistente y alegremente por el camino de mi elección, que reciba más humildemente crédito para que se acumule como resultado de mis esfuerzos incesantes. Trasmitid esta mi súplica al hombre en quien resido. En él vierto la devoción suprema y el afecto de un espíritu divino_».» ([LU 110:7.10](/es/The_Urantia_Book/110#p7_10))
+«_Durante la realización y ruptura de un contacto entre la mente mortal de un reservista del destino y los supervisores planetarios, a veces el Ajustador residente está situado de tal manera que se hace posible trasmitir un mensaje al socio mortal. No hace mucho, en Urantia, un Ajustador autoactuante trasmitió tal mensaje a su asociado humano, un miembro del cuerpo de reserva del destino. Este mensaje comenzaba con estas palabras: «Ahora, sin injuria ni peligro para el sujeto de mi devoción solícita y sin intento de desalentar ni castigar, para mí, registrad mi súplica». A continuación se oyó una admonición bellamente conmovedora y emotiva. Entre otras cosas, el Ajustador imploró, «que me otorgue más fielmente su cooperación sincera, que tolere más alegremente las tareas de mi emplazamiento, que lleve a cabo más fielmente el programa de mi arreglo, que pase más pacientemente las pruebas de mi selección, que camine más persistente y alegremente por el camino de mi elección, que reciba más humildemente crédito para que se acumule como resultado de mis esfuerzos incesantes. Trasmitid esta mi súplica al hombre en quien resido. En él vierto la devoción suprema y el afecto de un espíritu divino_».» (<a id="a100_1213"></a>[LU 110:7.10](/es/The_Urantia_Book/110#p7_10))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV35/06.jpg">
@@ -87,3 +111,27 @@ Y finalmente, recordemos que los frutos de la unión espiritual con el Ajustador
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jesus_Rodriguez/Padre_Nuestro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Padre Nuestro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-35-diciembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 35 — Diciembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="pr-2">Canalizaciones: error, verdad, ilusión o inocencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

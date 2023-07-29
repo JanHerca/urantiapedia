@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 De Santiago Rodríguez<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_XIV_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El XIV Encuentro de lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Demetrio_Gomez/El_Escriba_de_Damasco">
+          <span class="pr-2">El escriba de Damasco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [Nota de la redacción: debido a la extensión de este artículo, lo que aparece aqui es un resumen. Podéis leer el artículo completo en la sección «Trabajos», «primera parte»: http://urantia.es/node/46.]
 
@@ -81,13 +105,13 @@ Se espera que, en los próximos años, los aceleradores de partículas orienten 
 
 La visión de la realidad desde la perspectiva de _El Libro de Urantia_ es mucho más compleja y presenta escenarios que interactúan entre ellos y están más allá de la comprensión científica actual. No entraremos en el estudio de los diferentes niveles de realidad y sus relaciones, sino que nos conformaremos con el inmediato nivel físico material de las creaciones del tiempo y del espacio.
 
-En cuanto al tiempo y al espacio, _El Libro de Urantia_ los define de una manera muy cercana a nuestra forma de pensar: «_...el tiempo es una sucesión de instantes, mientras que el espacio es un sistema de puntos asociados..._» [LU 118:3.1](/es/The_Urantia_Book/118#p3_1). Las cosas están en el espacio y el espacio está contenido en las cosas [LU 118:3.6](/es/The_Urantia_Book/118#p3_6). De manera que todas las formas de la realidad ocupan espacio en los niveles materiales, pero las formas espirituales ni lo ocupan ni lo desplazan ni lo contienen.
+En cuanto al tiempo y al espacio, _El Libro de Urantia_ los define de una manera muy cercana a nuestra forma de pensar: «_...el tiempo es una sucesión de instantes, mientras que el espacio es un sistema de puntos asociados..._» <a id="a107_228"></a>[LU 118:3.1](/es/The_Urantia_Book/118#p3_1). Las cosas están en el espacio y el espacio está contenido en las cosas <a id="a107_344"></a>[LU 118:3.6](/es/The_Urantia_Book/118#p3_6). De manera que todas las formas de la realidad ocupan espacio en los niveles materiales, pero las formas espirituales ni lo ocupan ni lo desplazan ni lo contienen.
 
-Sin embargo, introduce la idea de que hay un supertiempo y un espacio transcendido [LU 0:7.1](/es/The_Urantia_Book/0#p7_1); [LU 118:2.4](/es/The_Urantia_Book/118#p2_4); [LU 0:9.2](/es/The_Urantia_Book/0#p9_2); [LU 0:2.17](/es/The_Urantia_Book/0#p2_17), de los que la ciencia no tiene constancia, salvo que pudieran resultar a tener en cuenta como una posible evolución y aceptación experimental de modelos teóricos como la teoría de cuerdas, que pasaría por asumir que el espacio y el tiempo no tienen 4 dimensiones sino 10 ó 11 , aunque estas teorías postulan que estas dimensiones adicionales estarían enrolladas sobre sí mismas y no tendrían relevancia en el mundo macroscópico sino sólo en el microscópico.
+Sin embargo, introduce la idea de que hay un supertiempo y un espacio transcendido <a id="a109_83"></a>[LU 0:7.1](/es/The_Urantia_Book/0#p7_1); <a id="a109_124"></a>[LU 118:2.4](/es/The_Urantia_Book/118#p2_4); <a id="a109_169"></a>[LU 0:9.2](/es/The_Urantia_Book/0#p9_2); <a id="a109_210"></a>[LU 0:2.17](/es/The_Urantia_Book/0#p2_17), de los que la ciencia no tiene constancia, salvo que pudieran resultar a tener en cuenta como una posible evolución y aceptación experimental de modelos teóricos como la teoría de cuerdas, que pasaría por asumir que el espacio y el tiempo no tienen 4 dimensiones sino 10 ó 11 , aunque estas teorías postulan que estas dimensiones adicionales estarían enrolladas sobre sí mismas y no tendrían relevancia en el mundo macroscópico sino sólo en el microscópico.
 
-_El Libro de Urantia_ establece que existen 7 dimensiones en el universo en el nivel morontial de la existencia. [LU 130:7.7](/es/The_Urantia_Book/130#p7_7). La creación física en su conjunto no es infinita: en un momento dado está limitada, aunque nos parezca sin confines. [LU 12:0.2](/es/The_Urantia_Book/12#p0_2). El espacio debe de existir desde siempre, puesto que Havona está en el espacio.
+_El Libro de Urantia_ establece que existen 7 dimensiones en el universo en el nivel morontial de la existencia. <a id="a111_113"></a>[LU 130:7.7](/es/The_Urantia_Book/130#p7_7). La creación física en su conjunto no es infinita: en un momento dado está limitada, aunque nos parezca sin confines. <a id="a111_275"></a>[LU 12:0.2](/es/The_Urantia_Book/12#p0_2). El espacio debe de existir desde siempre, puesto que Havona está en el espacio.
 
-El espacio rodea, envuelve el universo maestro, luego parece haber espacio sin contenido material [LU 12:1.16](/es/The_Urantia_Book/12#p1_16). De una manera análoga a antes de la aparición en el escenario físico, antes de los 7 superuniversos, posiblemente solo existía Havona y una porción de espacio vacío de materia.
+El espacio rodea, envuelve el universo maestro, luego parece haber espacio sin contenido material <a id="a113_98"></a>[LU 12:1.16](/es/The_Urantia_Book/12#p1_16). De una manera análoga a antes de la aparición en el escenario físico, antes de los 7 superuniversos, posiblemente solo existía Havona y una porción de espacio vacío de materia.
 
 Del Paraíso surge energía para abastecer y cubrir todas las necesidades de los mundos del espacio- tiempo y de Havona. Los diferentes seres pueden manipularla para hacerla útil y práctica en cada uno de los niveles de la realidad. Todo lo que temporalmente no se ha dedicado a construir la realidad retorna al Paraíso, de donde vuelve a surgir renovada para poder volver a ser útil, aparentemente en ciclos eternos. 
 
@@ -98,33 +122,33 @@ Del Paraíso surge energía para abastecer y cubrir todas las necesidades de los
 
 Mi impresión general es que lo que nuestra ciencia denomina materia-energía forma parte de una fracción de las 21 fases de la energía que manipulan habitualmente los Directores del Poder Universal y sus asociados.
 
-Las creaciones del tiempo y del espacio, que se ubican dentro del nivel finito de realidad, coexisten de alguna manera con los niveles absonito y absoluto. Podría ser que estos dos niveles de realidad sean puramente espirituales y no dispongan de espacio-tiempo para sus actividades. Sin embargo, esta posibilidad es algo que cuesta de admitir, y más teniendo en cuenta que hasta el Paraíso es material ([LU 11:0.1](/es/The_Urantia_Book/11#p0_1)).
+Las creaciones del tiempo y del espacio, que se ubican dentro del nivel finito de realidad, coexisten de alguna manera con los niveles absonito y absoluto. Podría ser que estos dos niveles de realidad sean puramente espirituales y no dispongan de espacio-tiempo para sus actividades. Sin embargo, esta posibilidad es algo que cuesta de admitir, y más teniendo en cuenta que hasta el Paraíso es material (<a id="a124_404"></a>[LU 11:0.1](/es/The_Urantia_Book/11#p0_1)).
 
-Pero el nivel morontial sí que está en nuestro marco espaciotemporal y también dispone de la materia y energía que nosotros podemos aprovechar, así como posiblemente otras fases de energía y materia diferente de la que nosotros aún no sabemos nada a nivel científico, entre otras cosas porque parece estar limitada a los mundos arquitectónicos. [LU 48:1.3](/es/The_Urantia_Book/48#p1_3)
+Pero el nivel morontial sí que está en nuestro marco espaciotemporal y también dispone de la materia y energía que nosotros podemos aprovechar, así como posiblemente otras fases de energía y materia diferente de la que nosotros aún no sabemos nada a nivel científico, entre otras cosas porque parece estar limitada a los mundos arquitectónicos. <a id="a126_345"></a>[LU 48:1.3](/es/The_Urantia_Book/48#p1_3)
 
 _El Libro de Urantia_ postula que existe una carga espacial de energía. El espacio está impregnado de esta carga homogénea de energía que no está diferenciada, es esencialmente la misma en todo el universo. Esta energía evoluciona por la actividad de los seres que la hacen transmutarse, como las distintas órdenes de los Organizadores de la Fuerza y, cuando ya se ha transformado en Gravita, reacciona a la presencia y actividades de los Directores del Poder Universal. La energía se ha organizado, se ha concentrado en distintas masas de dimensiones y pesos establecidos. Es decir, reacciona a la gravedad lineal de una manera precisa. 
 
-La creación de cada universo establece una nueva carga de materia que influye y es influida por la gravedad circundante. Por ello se necesita un reajuste constante y continuado hasta que el universo se establece. [LU 3:4.2](/es/The_Urantia_Book/3#p4_2) La creación y organización de un universo están siempre controlados por los Creadores. Siempre se desarrolla acorde a las leyes gravitatorias de la fuerza de la energía y de la materia [LU 15:4.1](/es/The_Urantia_Book/15#p4_1)
+La creación de cada universo establece una nueva carga de materia que influye y es influida por la gravedad circundante. Por ello se necesita un reajuste constante y continuado hasta que el universo se establece. <a id="a130_213"></a>[LU 3:4.2](/es/The_Urantia_Book/3#p4_2) La creación y organización de un universo están siempre controlados por los Creadores. Siempre se desarrolla acorde a las leyes gravitatorias de la fuerza de la energía y de la materia <a id="a130_438"></a>[LU 15:4.1](/es/The_Urantia_Book/15#p4_1)
 
-Los propios reveladores comprenden perfectamente la evolución y las transmutaciones que se dan desde la etapa ultimatónica en adelante, pero no de la fuerza que es la ascendencia cósmica de los ultimatones. [LU 15:4.1](/es/The_Urantia_Book/15#p4_1) La materia física hace su aparición como preludio a la inauguración de un universo, y es debida a las manipulaciones de los directores del poder y de sus asociados, sobre una energía que es sensible a la gravedad después de haber sido transmutada por los organizadores paradisíacos de la fuerza, que han transmutado la potencia espacial en fuerza primordial [LU 15:4.2](/es/The_Urantia_Book/15#p4_2)
+Los propios reveladores comprenden perfectamente la evolución y las transmutaciones que se dan desde la etapa ultimatónica en adelante, pero no de la fuerza que es la ascendencia cósmica de los ultimatones. <a id="a132_207"></a>[LU 15:4.1](/es/The_Urantia_Book/15#p4_1) La materia física hace su aparición como preludio a la inauguración de un universo, y es debida a las manipulaciones de los directores del poder y de sus asociados, sobre una energía que es sensible a la gravedad después de haber sido transmutada por los organizadores paradisíacos de la fuerza, que han transmutado la potencia espacial en fuerza primordial <a id="a132_607"></a>[LU 15:4.2](/es/The_Urantia_Book/15#p4_2)
 
 Los organizadores paradisíacos de la fuerza originan la nebulosas, iniciando a su alrededor enormes ciclones de fuerza que acaban desencadenando la aparición de las unidades ultimatónicas de la materia universal.
 
-La aparición de la masa, se da como reacciones a los organizadores paradisíacos de la fuerza, una pequeña porción aparece por los Directores del Poder Universal (como la construcción de las esferas arquitectónicas), y una cantidad variable se forma en el espacio abierto. [LU 15:5.1](/es/The_Urantia_Book/15#p5_1)
+La aparición de la masa, se da como reacciones a los organizadores paradisíacos de la fuerza, una pequeña porción aparece por los Directores del Poder Universal (como la construcción de las esferas arquitectónicas), y una cantidad variable se forma en el espacio abierto. <a id="a136_272"></a>[LU 15:5.1](/es/The_Urantia_Book/15#p5_1)
 
-A pesar de todas las transformaciones que ocurren, a pesar de que las nebulosas se dispersen los soles se consuman y los planetas puedan perecer, los universos no se agotan. [LU 15:8.10](/es/The_Urantia_Book/15#p8_10)
+A pesar de todas las transformaciones que ocurren, a pesar de que las nebulosas se dispersen los soles se consuman y los planetas puedan perecer, los universos no se agotan. <a id="a138_174"></a>[LU 15:8.10](/es/The_Urantia_Book/15#p8_10)
 
-Los Hijos Creadores materializan la materia visible a partir de la energía preexistente (reactiva a la gravedad lineal) que ha sido preparada previamente por los Directores del Poder. Hasta que no ha habido una suficiente materialización de masa que permita a los circuitos y los sistemas mantenerse en equilibrio gravitatorio mutuo, los Hijos Creadores no pueden abandonar la esfera capital de su universo local. [LU 32:2.5](/es/The_Urantia_Book/32#p2_5)
+Los Hijos Creadores materializan la materia visible a partir de la energía preexistente (reactiva a la gravedad lineal) que ha sido preparada previamente por los Directores del Poder. Hasta que no ha habido una suficiente materialización de masa que permita a los circuitos y los sistemas mantenerse en equilibrio gravitatorio mutuo, los Hijos Creadores no pueden abandonar la esfera capital de su universo local. <a id="a140_414"></a>[LU 32:2.5](/es/The_Urantia_Book/32#p2_5)
 
-Hay un trasiego constante entre materia y energía, y así se mantiene el equilibrio universal entre ambas. La gravedad tiende a convertir la energía en materia. La materia organizada tiende a desintegrarse bajo ciertas condiciones que se dan en estrellas muy calientes y en las proximidades de los cuerpos fríos de materia condensada muy cargados de energía (¿agujeros negros?) De las colisiones entre gigantes muertos del espacio, hay una transformación de materia en energía [LU 15:8.5](/es/The_Urantia_Book/15#p8_5)
+Hay un trasiego constante entre materia y energía, y así se mantiene el equilibrio universal entre ambas. La gravedad tiende a convertir la energía en materia. La materia organizada tiende a desintegrarse bajo ciertas condiciones que se dan en estrellas muy calientes y en las proximidades de los cuerpos fríos de materia condensada muy cargados de energía (¿agujeros negros?) De las colisiones entre gigantes muertos del espacio, hay una transformación de materia en energía <a id="a142_476"></a>[LU 15:8.5](/es/The_Urantia_Book/15#p8_5)
 
-Los dos fenómenos se observan y se deja que actúen para mantener el equilibrio necesario, pero los Directores del Poder tienen la capacidad de condensar y detener o de dilatar y liberar cantidades variables de energía [LU 15:8.4](/es/The_Urantia_Book/15#p8_4) A pesar de su conocimiento, cuanto más se alejan sus observaciones del Paraíso hacia el espacio exterior, más difícil les resulta realizar los cálculos y predecir resultados y comportamientos, que los reveladores atribuyen a las actividades y presencias de los Absolutos y de las Deidades experienciales.
+Los dos fenómenos se observan y se deja que actúen para mantener el equilibrio necesario, pero los Directores del Poder tienen la capacidad de condensar y detener o de dilatar y liberar cantidades variables de energía <a id="a144_218"></a>[LU 15:8.4](/es/The_Urantia_Book/15#p8_4) A pesar de su conocimiento, cuanto más se alejan sus observaciones del Paraíso hacia el espacio exterior, más difícil les resulta realizar los cálculos y predecir resultados y comportamientos, que los reveladores atribuyen a las actividades y presencias de los Absolutos y de las Deidades experienciales.
 
-_El Libro de Urantia_ aboga por la naturaleza corpuscular de la luz, y la observación como fenómeno ondulatorio no es debida a su naturaleza en sí misma sino a la interacción de esas partículas con las acciones de otras energías que impregnan todo el espacio. Aunque a efectos prácticos indican que esto es lo que sucede. [LU 41:5.7](/es/The_Urantia_Book/41#p5_7)
+_El Libro de Urantia_ aboga por la naturaleza corpuscular de la luz, y la observación como fenómeno ondulatorio no es debida a su naturaleza en sí misma sino a la interacción de esas partículas con las acciones de otras energías que impregnan todo el espacio. Aunque a efectos prácticos indican que esto es lo que sucede. <a id="a146_322"></a>[LU 41:5.7](/es/The_Urantia_Book/41#p5_7)
 
-> _Los átomos y los electrones están sometidos a la gravedad. Los ultimatones no están sometidos a la gravedad local, a la interacción de la atracción material, pero obedecen plenamente a la gravedad absoluta o gravedad del Paraiso, a la dirección, al recorrido del círculo universal y eterno del universo de universos. La energía ultimatónica no obedece a la atracción gravitatoria lineal o directa de las masas materiales cercanas o lejanas, pero siempre gira fielmente en el circuito de la gran elipse de la extensa creación._ [LU 41:9.2](/es/The_Urantia_Book/41#p9_2)
+> _Los átomos y los electrones están sometidos a la gravedad. Los ultimatones no están sometidos a la gravedad local, a la interacción de la atracción material, pero obedecen plenamente a la gravedad absoluta o gravedad del Paraiso, a la dirección, al recorrido del círculo universal y eterno del universo de universos. La energía ultimatónica no obedece a la atracción gravitatoria lineal o directa de las masas materiales cercanas o lejanas, pero siempre gira fielmente en el circuito de la gran elipse de la extensa creación._ <a id="a148_530"></a>[LU 41:9.2](/es/The_Urantia_Book/41#p9_2)
 
-> _La luz, el calor, la electricidad, el magnetismo, la química, la energía y la materia son en su origen, su naturaleza y su destino - una sola y misma cosa, junto con otras realidades materiales aún no descubiertas en Urantia._ [LU 42:4.1](/es/The_Urantia_Book/42#p4_1)
+> _La luz, el calor, la electricidad, el magnetismo, la química, la energía y la materia son en su origen, su naturaleza y su destino - una sola y misma cosa, junto con otras realidades materiales aún no descubiertas en Urantia._ <a id="a150_230"></a>[LU 42:4.1](/es/The_Urantia_Book/42#p4_1)
 
 ¿La revelación y la ciencia han de ser rivales? ¿No pueden crecer juntas? ¿Hemos de elegir creer en una o en la otra?
 
@@ -133,3 +157,27 @@ El aumento de científicos creyentes no hará otra ciencia, pero sí avanzarán 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_XIV_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El XIV Encuentro de lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Demetrio_Gomez/El_Escriba_de_Damasco">
+          <span class="pr-2">El escriba de Damasco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

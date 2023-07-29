@@ -104,7 +104,7 @@ Los más altos sentimientos de lealtad, de amor, de paz y de progreso, muchas ve
 
 > **Si te encuentras con el éxito y el fracaso y tratas por igual a estos dos impostores, ¡entonces serás un hombre, hijo mío!** (Rudyard Kipling)
 
-> Las dificultades pueden desafiar la mediocridad y derrotar al temeroso pero sirven de estímulo para los verdaderos hijos de los Altísimos ([LU 48:7.7](/es/The_Urantia_Book/48#p7_7))
+> Las dificultades pueden desafiar la mediocridad y derrotar al temeroso pero sirven de estímulo para los verdaderos hijos de los Altísimos (<a id="a106_141"></a>[LU 48:7.7](/es/The_Urantia_Book/48#p7_7))
 
 ## Referencias
 

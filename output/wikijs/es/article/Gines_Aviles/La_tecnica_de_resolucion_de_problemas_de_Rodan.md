@@ -9,8 +9,29 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Ginés Avilés<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro universo y el universo de El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-Según _El Libro de Urantia_, documento 160: «_El éxito en la vida no es ni más ni menos que el arte de dominar las técnicas fiables para solucionar problemas ordinarios_». [LU 160:1.7](/es/The_Urantia_Book/160#p1_7) Este documento o los extractos de la filosofía de Rodán nos presentan dos técnicas para resolver problemas: una técnica es la que el propio Rodán propone y otra la que surge de la observación de lo que hace el Maestro Jesús: «la meditación adoradora en solitario».
+
+Según _El Libro de Urantia_, documento 160: «_El éxito en la vida no es ni más ni menos que el arte de dominar las técnicas fiables para solucionar problemas ordinarios_». <a id="a33_172"></a>[LU 160:1.7](/es/The_Urantia_Book/160#p1_7) Este documento o los extractos de la filosofía de Rodán nos presentan dos técnicas para resolver problemas: una técnica es la que el propio Rodán propone y otra la que surge de la observación de lo que hace el Maestro Jesús: «la meditación adoradora en solitario».
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV40/14.jpg">
@@ -36,7 +57,7 @@ Tampoco esta técnica ni ninguna compensará «_los defectos inherentes a la per
 
 > DOC. 160 RODÁN DE ALEJANDRÍA: TÉCNICAS DE RESOLUCIÓN DE PROBLEMAS
 > 
-> «_El éxito en la vida no es ni más ni menos que el arte de dominar las técnicas fiables para solucionar problemas ordinarios_» ([LU 160:1.7](/es/The_Urantia_Book/160#p1_7))
+> «_El éxito en la vida no es ni más ni menos que el arte de dominar las técnicas fiables para solucionar problemas ordinarios_» (<a id="a59_130"></a>[LU 160:1.7](/es/The_Urantia_Book/160#p1_7))
 
 ## La técnica de Rodán
 
@@ -49,7 +70,7 @@ Bien ahora vamos con la técnica de Rodán de Alejandría que se nos presenta. P
 	Por último, hay que considerar su gravedad o relevancia: ¿cómo de grave es el problema? A veces, puede suceder que de nuestro análisis se descubre que el asunto es muy menor o muy poco importante, es decir, no tiene ninguna gravedad. Entonces simplemente lo aceptamos tal como es y no necesitamos actuar.
 	De acuerdo, ya tenemos un dictamen de lo que ha pasado. Ahora toca actuar pero sobre qué base y cómo actuamos. La primera pregunta no la resuelve el documento pero el requisito de tener «_hambre y sed de verdadera rectitud_» nos puede servir de punto de apoyo:
 3. Mi respuesta, o la respuesta que a mí más me ha convencido, es la de buscar un lema o pregunta que me inspire y sirva de guía, mi ejemplo: lo mejor para todos los implicados. Pero también hay otros posibles lemas o frases que nos pueden servir a la luz del punto de apoyo, por ejemplo: «amaros los unos a los otros como yo os he amado», o preguntas: ¿qué haría Jesús en mi lugar? Siempre considerad que, por el libre albedrío, podríamos ir a fastidiar al otro o tomar cualquier decisión posible positiva o negativa sobre el otro o sobre nosotros mismos... ¡es nuestra elección!
-4. Sobre el cómo, Rodán nos da más pistas: «_Tacto y tolerancia_». «_Aunque estéis eficazmente preparados para afrontar las situaciones dificiles de la vida, no podéis esperar mucho éxito a menos que estéis provistos de esa sabiduría de la mente y de ese encanto de la personalidad que os permita conseguir el apoyo y la cooperación sincera de vuestros semejantes_» [LU 160:1.9](/es/The_Urantia_Book/160#p1_9)
+4. Sobre el cómo, Rodán nos da más pistas: «_Tacto y tolerancia_». «_Aunque estéis eficazmente preparados para afrontar las situaciones dificiles de la vida, no podéis esperar mucho éxito a menos que estéis provistos de esa sabiduría de la mente y de ese encanto de la personalidad que os permita conseguir el apoyo y la cooperación sincera de vuestros semejantes_» <a id="a72_366"></a>[LU 160:1.9](/es/The_Urantia_Book/160#p1_9)
 
 En resumen, la técnica por pasos sería:
 - PTO1: ¿cuál es el problema?
@@ -119,13 +140,13 @@ Bien a base de repetir y de darnos cuenta cuál es la verdad o la realidad del a
 
 Por último, me gustaría recordar con vosotros estas frases que me resuenan sobre la validez de esta técnica:
 
-> «_Conoceréis la verdad, y la verdad os hará libres_» [LU 162:7.2](/es/The_Urantia_Book/162#p7_2) ¡libres del miedo que aprisiona el alma!
+> «_Conoceréis la verdad, y la verdad os hará libres_» <a id="a142_55"></a>[LU 162:7.2](/es/The_Urantia_Book/162#p7_2) ¡libres del miedo que aprisiona el alma!
 
-> «_Si mis palabras permanecen en vosotros y estáis dispuestos a hacer la voluntad de mi Padre, entonces sois realmente mis discípulos. Conoceréis la verdad, y la verdad os hará libres. Sé que vais a contestarme: Somos los hijos de Abraham, y no somos esclavos de nadie; ¿cómo vamos pues a ser liberados? Pero no os hablo de una servidumbre exterior a la autoridad de otro; me refiero a las libertades del alma. En verdad, en verdad os digo que todo aquel que comete pecado es esclavo del pecado. Y sabéis que no es probable que el esclavo resida para siempre en la casa del amo. También sabéis que el hijo permanece en la casa de su padre. Por consiguiente, si el Hijo os libera, y os convierte en hijos, seréis verdaderamente libres_» [LU 162:7.2](/es/The_Urantia_Book/162#p7_2)
+> «_Si mis palabras permanecen en vosotros y estáis dispuestos a hacer la voluntad de mi Padre, entonces sois realmente mis discípulos. Conoceréis la verdad, y la verdad os hará libres. Sé que vais a contestarme: Somos los hijos de Abraham, y no somos esclavos de nadie; ¿cómo vamos pues a ser liberados? Pero no os hablo de una servidumbre exterior a la autoridad de otro; me refiero a las libertades del alma. En verdad, en verdad os digo que todo aquel que comete pecado es esclavo del pecado. Y sabéis que no es probable que el esclavo resida para siempre en la casa del amo. También sabéis que el hijo permanece en la casa de su padre. Por consiguiente, si el Hijo os libera, y os convierte en hijos, seréis verdaderamente libres_» <a id="a144_737"></a>[LU 162:7.2](/es/The_Urantia_Book/162#p7_2)
 
-> O la consigna del propio Jesús: «_No temáis_» [LU 140:8.20](/es/The_Urantia_Book/140#p8_20) («_Fear not_»)
+> O la consigna del propio Jesús: «_No temáis_» <a id="a146_48"></a>[LU 140:8.20](/es/The_Urantia_Book/140#p8_20) («_Fear not_»)
 
-> _... Su consigna era «No temáis», y el aguante paciente era su ideal de la fuerza de carácter. Las enseñanzas de Jesús constituyen una religión de valor, de coraje y de heroísmo. Y precisamente por eso escogió, como representantes personales suyos, a doce hombres corrientes que eran en su mayoría pescadores toscos, viriles y valerosos._ [LU 140:8.20](/es/The_Urantia_Book/140#p8_20)
+> _... Su consigna era «No temáis», y el aguante paciente era su ideal de la fuerza de carácter. Las enseñanzas de Jesús constituyen una religión de valor, de coraje y de heroísmo. Y precisamente por eso escogió, como representantes personales suyos, a doce hombres corrientes que eran en su mayoría pescadores toscos, viriles y valerosos._ <a id="a148_341"></a>[LU 140:8.20](/es/The_Urantia_Book/140#p8_20)
 
 Después de un periodo de tiempo, creo haber descubierto que esta técnica tiene las cualidades divinas de la verdad (análisis imparcial), la bondad (tolerancia) y la belleza (tacto). Y hasta donde sé, esta técnica de Rodán es complementaria con la técnica que Jesús propone.
 
@@ -134,3 +155,24 @@ Después de un periodo de tiempo, creo haber descubierto que esta técnica tiene
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro universo y el universo de El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

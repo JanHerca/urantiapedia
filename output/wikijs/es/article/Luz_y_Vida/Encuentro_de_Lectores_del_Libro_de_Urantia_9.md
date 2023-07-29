@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Texto: Olga López. Fotos: Demetrio Gómez, Paco Ruiz y David Carrera.<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_21_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 21 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-21-junio-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 21 — Junio 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_7">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## El Encuentro
 
@@ -63,7 +87,7 @@ Al final de la primera sesión, hicimos un ejercicio de _lectio divina_. Nos pus
 
 Este fue el párrafo empleado en la _lectio divina_:
 
-> «_Mientras Marta estaba ocupada con todos estos supuestos deberes, se sentía inquieta porque María no bacía nada por ayudarla. Por eso se acercó a Jesús y le dijo: «Maestro, ¿no te importa que mi hermana me haya dejado hacer sola todo el servicio? ¿No quisieras pedirle que venga a ayudarme?» Jesús respondió: «Marta, Marta, ¿por qué te inquietas siempre por tantas cosas, y te preocupas por tantas bagatelas? Sólo hay una cosa que vale realmente la pena, y puesto que María ha escogido esta parte buena y necesaria, no se la voy a quitar. Pero, zcuándo aprenderéis las dos a vivir como os he enseñado: a servir en cooperación y a refrescar vuestras almas al unisono? ¿No podéis aprender que hay un tiempo para cada cosa - que las cuestiones secundarias de la vida deben dejar paso a las cosas más grandes del reino celestial?»_» [LU 162:8.3](/es/The_Urantia_Book/162#p8_3)
+> «_Mientras Marta estaba ocupada con todos estos supuestos deberes, se sentía inquieta porque María no bacía nada por ayudarla. Por eso se acercó a Jesús y le dijo: «Maestro, ¿no te importa que mi hermana me haya dejado hacer sola todo el servicio? ¿No quisieras pedirle que venga a ayudarme?» Jesús respondió: «Marta, Marta, ¿por qué te inquietas siempre por tantas cosas, y te preocupas por tantas bagatelas? Sólo hay una cosa que vale realmente la pena, y puesto que María ha escogido esta parte buena y necesaria, no se la voy a quitar. Pero, zcuándo aprenderéis las dos a vivir como os he enseñado: a servir en cooperación y a refrescar vuestras almas al unisono? ¿No podéis aprender que hay un tiempo para cada cosa - que las cuestiones secundarias de la vida deben dejar paso a las cosas más grandes del reino celestial?»_» <a id="a89_832"></a>[LU 162:8.3](/es/The_Urantia_Book/162#p8_3)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV21/04.jpg">
@@ -117,15 +141,15 @@ Para esta actividad, nos reunimos en grupos de 3 ó 4 personas. Sheila nos asign
 
 Por ejemplo, a nuestro grupo le tocó el tema «Desarrollar la conciencia moral», y estas fueron las citas que Sheila nos dio para nuestra reflexión:
 
-> «_En la vida física, los sentidos comunican la existencia de las cosas; la mente descubre la realidad de los significados; pero la experiencia espiritual revela al individuo los verdaderos valores de la vida. Estos niveles elevados de vida humana se alcanzan mediante el amor supremo a Dios y el amor desinteresado a los hombres. Si amáis a vuestros semejantes, es porque habéis descubierto sus valores. Jesús amaba tanto a los hombres porque les atribuia un alto valor. Podéis descubrir mejor los valores de vuestros compañeros descubriendo sus motivaciones. Si alguien os irrita, os produce sentimientos de rencor, deberíais tratar de discernir con simpatía su punto de vista, las razones de su comportamiento censurable. En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistady madura en amor._» ([LU 100:4.4](/es/The_Urantia_Book/100#p4_4))
+> «_En la vida física, los sentidos comunican la existencia de las cosas; la mente descubre la realidad de los significados; pero la experiencia espiritual revela al individuo los verdaderos valores de la vida. Estos niveles elevados de vida humana se alcanzan mediante el amor supremo a Dios y el amor desinteresado a los hombres. Si amáis a vuestros semejantes, es porque habéis descubierto sus valores. Jesús amaba tanto a los hombres porque les atribuia un alto valor. Podéis descubrir mejor los valores de vuestros compañeros descubriendo sus motivaciones. Si alguien os irrita, os produce sentimientos de rencor, deberíais tratar de discernir con simpatía su punto de vista, las razones de su comportamiento censurable. En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistady madura en amor._» (<a id="a143_852"></a>[LU 100:4.4](/es/The_Urantia_Book/100#p4_4))
 
-> «_La conciencia espiritual iluminada del hombre civilizado no se interesa tanto por una creencia intelectual específica, o por una manera particular de vivir, como por descubrir la verdad de la vida, la técnica buena y correcta de reaccionar ante las situaciones constantemente recurrentes de la existencia mortal. La conciencia moral es simplemente un nombre que se aplica al reconocimiento y al conocimiento humanos de esos valores éticos y de esos valores morontiales emergentes respecto a los cuales el sentido del deber exige que el hombre se atenga a ellos para controlar y dirigir su conducta diaria._» ([LU 101:9.5](/es/The_Urantia_Book/101#p9_5))
+> «_La conciencia espiritual iluminada del hombre civilizado no se interesa tanto por una creencia intelectual específica, o por una manera particular de vivir, como por descubrir la verdad de la vida, la técnica buena y correcta de reaccionar ante las situaciones constantemente recurrentes de la existencia mortal. La conciencia moral es simplemente un nombre que se aplica al reconocimiento y al conocimiento humanos de esos valores éticos y de esos valores morontiales emergentes respecto a los cuales el sentido del deber exige que el hombre se atenga a ellos para controlar y dirigir su conducta diaria._» (<a id="a145_613"></a>[LU 101:9.5](/es/The_Urantia_Book/101#p9_5))
 
-> «_Incluso la educación laica podría ayudar a este gran renacimiento espiritual, si prestara más atención a la tarea de enseñar a los jóvenes cómo acometer la planificación de la vida y el desarrollo del carácter. La meta de toda educación debería consistir en fomentar y promover el objetivo supremo de la vida, el desarrollo de una personalidad majestuosa y bien equilibrada. Existe una gran necesidad de enseñar la disciplina moral en lugar de tantas satisfacciones egoistas. Sobre esta base, la religión puede aportar su estimulo espiritual para ampliar y enriquecer la vida humana, e incluso para asegurar y realzar la vida eterna._» ([LU 195:10.17](/es/The_Urantia_Book/195#p10_17))
+> «_Incluso la educación laica podría ayudar a este gran renacimiento espiritual, si prestara más atención a la tarea de enseñar a los jóvenes cómo acometer la planificación de la vida y el desarrollo del carácter. La meta de toda educación debería consistir en fomentar y promover el objetivo supremo de la vida, el desarrollo de una personalidad majestuosa y bien equilibrada. Existe una gran necesidad de enseñar la disciplina moral en lugar de tantas satisfacciones egoistas. Sobre esta base, la religión puede aportar su estimulo espiritual para ampliar y enriquecer la vida humana, e incluso para asegurar y realzar la vida eterna._» (<a id="a147_641"></a>[LU 195:10.17](/es/The_Urantia_Book/195#p10_17))
 
-> _Muchos nobles impulsos humanos perecen porque no hay nadie que escuche su expresión. En verdad, no es bueno que el hombre esté solo. Cierto grado de reconocimiento y cierta cantidad de aprecio son esenciales para el desarrollo del carácter humano. Sin el amor auténtico del hogar, ningún niño puede alcanzar el pleno desarrollo de un carácter normal. El carácter es algo más que la mera mente y la mera moralidad. De todas las relaciones sociales pensadas para desarrollar el carácter, la más eficar e ideal es la amistad afectuosa y comprensiva de un hombre y una mujer en el abrazo mutuo de una vida conyugal inteligente. El matrimonio, con sus múltiples relaciones, es el que está mejor destinado a hacer surgir esos preciosos impulsos y esos motivos elevados que son indispensables para el desarrollo de un carácter fuerte. No dudo en glorificar asi la vida familiar, porque vuestro Maestro ha elegido sabiamente la relación de padre a hijo como la piedra angular misma de este nuevo evangelio del reino. Esta comunidad incomparable de relaciones, un hombre y una mijer en el abrazo afectuoso de los ideales superiores del tiempo, es una experiencia tan valiosa y satisfactoria que vale cualquier precio, cualquier sacrificio que sea necesario para poseerla._ ([LU 160:2.6](/es/The_Urantia_Book/160#p2_6))
+> _Muchos nobles impulsos humanos perecen porque no hay nadie que escuche su expresión. En verdad, no es bueno que el hombre esté solo. Cierto grado de reconocimiento y cierta cantidad de aprecio son esenciales para el desarrollo del carácter humano. Sin el amor auténtico del hogar, ningún niño puede alcanzar el pleno desarrollo de un carácter normal. El carácter es algo más que la mera mente y la mera moralidad. De todas las relaciones sociales pensadas para desarrollar el carácter, la más eficar e ideal es la amistad afectuosa y comprensiva de un hombre y una mujer en el abrazo mutuo de una vida conyugal inteligente. El matrimonio, con sus múltiples relaciones, es el que está mejor destinado a hacer surgir esos preciosos impulsos y esos motivos elevados que son indispensables para el desarrollo de un carácter fuerte. No dudo en glorificar asi la vida familiar, porque vuestro Maestro ha elegido sabiamente la relación de padre a hijo como la piedra angular misma de este nuevo evangelio del reino. Esta comunidad incomparable de relaciones, un hombre y una mijer en el abrazo afectuoso de los ideales superiores del tiempo, es una experiencia tan valiosa y satisfactoria que vale cualquier precio, cualquier sacrificio que sea necesario para poseerla._ (<a id="a149_1268"></a>[LU 160:2.6](/es/The_Urantia_Book/160#p2_6))
 
-> _La elección del hombre entre el bien y el mal no está influida solamente por la agudeza de su naturaleza moral, sino también por otras influencias tales como la ignorancia, la inmadurez y las ilusiones. Cierto sentido de la proporción también está implicado en el ejercicio de la virtud, porque se puede cometer el mal cuando se elige lo menor en lugar delo mayor, a consecuencia de la deformación o del engaño. El arte de la valoración relativa o de la medida comparativa entra en la práctica de las virtudes del ámbito moral._ ([LU 16:7.7](/es/The_Urantia_Book/16#p7_7))
+> _La elección del hombre entre el bien y el mal no está influida solamente por la agudeza de su naturaleza moral, sino también por otras influencias tales como la ignorancia, la inmadurez y las ilusiones. Cierto sentido de la proporción también está implicado en el ejercicio de la virtud, porque se puede cometer el mal cuando se elige lo menor en lugar delo mayor, a consecuencia de la deformación o del engaño. El arte de la valoración relativa o de la medida comparativa entra en la práctica de las virtudes del ámbito moral._ (<a id="a151_533"></a>[LU 16:7.7](/es/The_Urantia_Book/16#p7_7))
 
 La noche del sábado, después de la cena, tuvo lugar una presentación de Eduardo Altuzarra sobre la Vía Láctea respecto al superuniverso de Orvonton. Debemos decir que la presentación, aunque rigurosa, tuvo lugar entre grandes dosis de humor, debido a las discrepancias ya históricas entre los que defienden que la Vía Láctea equivale prácticamente al superuniverso de Orvonton (que es la tesis de Eduardo), frente a los que creen que la Vía Láctea es una parte mucho menor. Eduardo ilustró su presentación con un gran número de fotografías de las nebulosas más famosas, así como de galaxias que, según el LU, estarían en el primer nivel del espacio exterior. Fue una presentación muy instructiva pues, aunque no surgió ninguna conclusión respecto a lo que es en realidad la Vía Láctea según el LU, nos permitió hacernos una idea de cuál es nuestra ubicación en el gran universo, y reflexionar sobre las «pistas» que el LU nos ofrece respecto a este tema.
 
@@ -147,7 +171,7 @@ El encuentro terminó oficialmente después del almuerzo, al que siguió el caf�
 <figcaption><em>Todo el grupo (o casi)</em></figcaption>
 </figure>
 
-> _Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada. La presentación más eficaz de Jesús consiste en seguir el ejemplo de aquel que dijo, mientras hacia un gesto hacia el Maestro que permanecia de pie delante de sus acusadores: «¡He aqui al hombre!»_ ([LU 100:7.1](/es/The_Urantia_Book/100#p7_1))
+> _Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada. La presentación más eficaz de Jesús consiste en seguir el ejemplo de aquel que dijo, mientras hacia un gesto hacia el Maestro que permanecia de pie delante de sus acusadores: «¡He aqui al hombre!»_ (<a id="a173_659"></a>[LU 100:7.1](/es/The_Urantia_Book/100#p7_1))
 
 ## Impresiones
 
@@ -235,7 +259,7 @@ Eso sí, me quedan las fotos de los «reporteros oficiales» (Paco, Demetrio y e
 
 A ver, Junta Directiva, jya estáis tardando en anunciar el siguiente!
 
-> _La atracción de la gravedad espiritual, y la respuesta a la misma, funcionan como un todo no solamente en el universo, sino también entre los individuos y los grupos de individuos. Existe una conexión espiritual entre las personalidades espirituales y espiritualizadas de cualquier mundo, rąa, nación o grupo de idades creyentes. Existe una atracción directa de naturalę̧a espiritual entre las personas con mentalidad espiritual que tienen gustos y anbelos semejantes. El término almas gemelas no es enteramente una figura retórica._ ([LU 7:1.6](/es/The_Urantia_Book/7#p1_6))
+> _La atracción de la gravedad espiritual, y la respuesta a la misma, funcionan como un todo no solamente en el universo, sino también entre los individuos y los grupos de individuos. Existe una conexión espiritual entre las personalidades espirituales y espiritualizadas de cualquier mundo, rąa, nación o grupo de idades creyentes. Existe una atracción directa de naturalę̧a espiritual entre las personas con mentalidad espiritual que tienen gustos y anbelos semejantes. El término almas gemelas no es enteramente una figura retórica._ (<a id="a261_538"></a>[LU 7:1.6](/es/The_Urantia_Book/7#p1_6))
 
 ## Las Fotos
 
@@ -304,3 +328,27 @@ A ver, Junta Directiva, jya estáis tardando en anunciar el siguiente!
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_21_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 21 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-21-junio-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 21 — Junio 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_7">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

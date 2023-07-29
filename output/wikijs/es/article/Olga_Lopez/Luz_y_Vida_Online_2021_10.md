@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -73,7 +94,7 @@ Los viejos libros polvorientos y arrinconados ya tuvieron su momento de esplendo
 
 _El Libro de Urantia_ exalta precisamente esta transformación interior, pues busca «ampliar la conciencia cósmica y elevar la percepción espiritual» (0.0.2):
 
-El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas. [LU 100:2.6](/es/The_Urantia_Book/100#p2_6)
+El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas. <a id="a96_159"></a>[LU 100:2.6](/es/The_Urantia_Book/100#p2_6)
 
 Y se trata de fomentar este magnífico objetivo para nuestras vidas con la nueva revisión de la traducción de _El Libro de Urantia_ al español. Un elemento simple: el libro. Una lección extraordinaria dentro: el encuentro personal con Dios.
 
@@ -237,7 +258,7 @@ Eduardo Altuzarra
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
-> La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana; sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible (recomendable) para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. [LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
+> La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana; sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible (recomendable) para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. <a id="a260_438"></a>[LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
 
 La mayoría de las personas que nos dedicamos a la lectura de libros casi siempre señalamos, subrayamos, copiamos, referenciamos una serie párrafos porque los consideramos interesantes, esclarecedores o transcendentales.
 
@@ -286,3 +307,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

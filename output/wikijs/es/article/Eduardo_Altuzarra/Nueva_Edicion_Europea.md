@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Eduardo Altuzarra<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kurtz/Reflexion_Personal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión personal (verdadero, falso, no lo sé)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_8">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por primera vez con motivo de celebrarse la Conferencia Internacional de lectores de _El Libro de Urantia_ en España en Mayo de 2009, se hizo pública la noticia y fue presentado el nuevo Libro de Urantia, Edición Europea. Muchos lectores españoles 10 celebraron con entusiasmo.
 
@@ -31,3 +55,27 @@ Una vez más se demuestra que la unión, el esfuerzo, la constancia y la pacienc
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kurtz/Reflexion_Personal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión personal (verdadero, falso, no lo sé)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_8">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05">
+          <span class="pr-2">Luz y Vida — Mayo 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -178,7 +199,7 @@ Mar Alférez
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Mi-parrafo-favorito-Mar-Alferez.png" alt="Mi párrafo favorito-Mar Alférez">
 </figure>
 
-> El Padre Universal ha decretado: «Sed perfectos, así como yo soy perfecto». [LU 26:4.12](/es/The_Urantia_Book/26#p4_12)
+> El Padre Universal ha decretado: «Sed perfectos, así como yo soy perfecto». <a id="a201_78"></a>[LU 26:4.12](/es/The_Urantia_Book/26#p4_12)
 
 Muchas veces he pensado lo difícil que resulta este decreto. ¿Y cómo se es perfecto? ¿En qué consiste esa perfección que se nos requiere? Reflexionando sobre este mandato, he necesitado profundizar en ello y comprender, de algún modo, qué quiere decir. Entender qué quiere el Padre de mí, de nosotros. Porque me sé imperfecta y porque la humanidad es imperfecta. Incluso la naturaleza es imperfecta.
 
@@ -186,9 +207,9 @@ Es Jesús quien me ha dado una pista:
 
 El amor fraterno significa amar al prójimo como a uno mismo, y esto sería el cumplimiento adecuado de la «regla de oro». Pero el afecto paterno requiere que ames a tus semejantes como Jesús te ama a ti. 140:5:1 (1573.3)
 
-Yo os digo: amad a vuestros enemigos, haced bien a los que os odian, bendecid a los que os maldicen y orad por los que os ultrajan. Y todo lo que vosotros creáis que haría yo para los hombres, hacedlo vosotros. [LU 140:3.15](/es/The_Urantia_Book/140#p3_15)
+Yo os digo: amad a vuestros enemigos, haced bien a los que os odian, bendecid a los que os maldicen y orad por los que os ultrajan. Y todo lo que vosotros creáis que haría yo para los hombres, hacedlo vosotros. <a id="a209_211"></a>[LU 140:3.15](/es/The_Urantia_Book/140#p3_15)
 
-Vuestro Padre en los cielos hace brillar el sol sobre malvados al igual que sobre buenos; del mismo modo él envía lluvia sobre justos e injustos. Vosotros sois los hijos de Dios; aún más, sois ahora los embajadores del reino de mi Padre. Sed misericordiosos, así como Dios es misericordioso, y en el eterno futuro del reino seréis perfectos, así como vuestro Padre celeste es perfecto. [LU 140:3.16](/es/The_Urantia_Book/140#p3_16)
+Vuestro Padre en los cielos hace brillar el sol sobre malvados al igual que sobre buenos; del mismo modo él envía lluvia sobre justos e injustos. Vosotros sois los hijos de Dios; aún más, sois ahora los embajadores del reino de mi Padre. Sed misericordiosos, así como Dios es misericordioso, y en el eterno futuro del reino seréis perfectos, así como vuestro Padre celeste es perfecto. <a id="a211_386"></a>[LU 140:3.16](/es/The_Urantia_Book/140#p3_16)
 
 Es verdad que parece que Jesús nos pide un amor desproporcionado, pero en realidad no es así. Es sencillo y es proporcionado. Es dar de comer al que tiene hambre y agua al que tiene sed. Es tender mi mano a quien lo necesita.  Si la palabra _prójimo_ significa _próximo_, es estar al lado de quien está próximo y amarlo. Pero aún más allá, no se trata de ver quién es el prójimo, sino de ser uno mismo prójimo. Prójimo de quien está cerca, y lejos, incluso de mis enemigos. No tengo por qué ir al cine con mi enemigo, ni acercarme a quien me hace daño, pero sí puedo rezar por él y desearle el bien.
 
@@ -294,3 +315,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05">
+          <span class="pr-2">Luz y Vida — Mayo 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

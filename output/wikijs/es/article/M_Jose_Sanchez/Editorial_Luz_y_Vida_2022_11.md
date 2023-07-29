@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Noviembre 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carlos_Rubinsky/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Situados en nuestro centro
 
@@ -26,29 +50,29 @@ En _El Libro de Urantia_ encontramos diferentes episodios que nos muestran el en
 
 Si desmenuzamos el episodio, podemos ver cómo el «secuestro emocional» que sufrió Judá, con la mente nublada por un torrente desbordado de emociones, nos puede ocasionar graves problemas y nos desconecta de nuestra mejor esencia. Pero al mismo tiempo vemos cómo, ante esa misma problemática, Jesús no se deja inundar y arrastrar por las emociones. Actúa de forma serena y paciente.
 
-> Llegaron a Jerusalén a la hora prevista, y al divisar el templo Judá se emocionó y se conmovió hasta lo más profundo de su alma. [LU 128:6.5](/es/The_Urantia_Book/128#p6_5)
+> Llegaron a Jerusalén a la hora prevista, y al divisar el templo Judá se emocionó y se conmovió hasta lo más profundo de su alma. <a id="a52_131"></a>[LU 128:6.5](/es/The_Urantia_Book/128#p6_5)
 
 Nos podemos imaginar perfectamente a un jovencito Judá, un entusiasta patriota, conmovido por la visión magnífica de Jerusalén.
 
-> Cuando se acercaban para hacer su primera visita se encontraron por casualidad con Lázaro de Betania. Jesús se paró a hablar con su amigo, y mientras se organizaban para celebrar la Pascua juntos, Judá provocaba un desafortunado incidente que trastocó todos los planes. Un guardia romano que se encontraba cerca de ellos hizo algunos comentarios indecorosos sobre una muchacha judía que pasaba, y a Judá, rojo de ira, le faltó tiempo para expresar en alto su indignación por la grosería para que llegara claramente a oídos del soldado. Es bien sabido que los legionarios romanos eran muy sensibles a todo lo que rayara en falta de respeto por parte de los judíos, así que el guardia arrestó inmediatamente a Judá. [LU 128:6.5](/es/The_Urantia_Book/128#p6_5)
+> Cuando se acercaban para hacer su primera visita se encontraron por casualidad con Lázaro de Betania. Jesús se paró a hablar con su amigo, y mientras se organizaban para celebrar la Pascua juntos, Judá provocaba un desafortunado incidente que trastocó todos los planes. Un guardia romano que se encontraba cerca de ellos hizo algunos comentarios indecorosos sobre una muchacha judía que pasaba, y a Judá, rojo de ira, le faltó tiempo para expresar en alto su indignación por la grosería para que llegara claramente a oídos del soldado. Es bien sabido que los legionarios romanos eran muy sensibles a todo lo que rayara en falta de respeto por parte de los judíos, así que el guardia arrestó inmediatamente a Judá. <a id="a56_716"></a>[LU 128:6.5](/es/The_Urantia_Book/128#p6_5)
 
 Tras un arrebato de ira, Judá le suelta graves insultos al soldado… con la consecuencia de su arresto. Y para empeorar la situación, sigue insultando a los romanos mientras lo llevan a prisión:
 
-> Esto fue demasiado para el joven patriota, y antes de que Jesús pudiera advertirle prudencia con la mirada, dio rienda suelta a una perorata de sentimientos antirromanos acumulados que solo consiguió empeorar las cosas. [LU 128:6.5](/es/The_Urantia_Book/128#p6_5)
+> Esto fue demasiado para el joven patriota, y antes de que Jesús pudiera advertirle prudencia con la mirada, dio rienda suelta a una perorata de sentimientos antirromanos acumulados que solo consiguió empeorar las cosas. <a id="a60_222"></a>[LU 128:6.5](/es/The_Urantia_Book/128#p6_5)
 
 Por contraste, el propio Jesús actuó con gran serenidad buscando una solución al problema del arresto, problema que no se pudo resolver en ese momento. Los dos tuvieron que permanecer en la cárcel mientras en Jerusalén se celebraba la Pascua y se quedaron sin participar en las ceremonias del Templo, como tenían previsto.
 
-> Jesús hizo todo lo que pudo por conseguir una audiencia inmediata para Judá o al menos que lo liberaran a tiempo para la celebración pascual de esa noche, pero fue inútil. Dado que el día siguiente era de «santa asamblea» en Jerusalén, ni siquiera los romanos se atrevían a oír cargos contra un judío, así que Judá siguió preso hasta la mañana del segundo día después de su arresto y Jesús se quedó con él en la cárcel. [LU 128:6.6](/es/The_Urantia_Book/128#p6_6)
+> Jesús hizo todo lo que pudo por conseguir una audiencia inmediata para Judá o al menos que lo liberaran a tiempo para la celebración pascual de esa noche, pero fue inútil. Dado que el día siguiente era de «santa asamblea» en Jerusalén, ni siquiera los romanos se atrevían a oír cargos contra un judío, así que Judá siguió preso hasta la mañana del segundo día después de su arresto y Jesús se quedó con él en la cárcel. <a id="a64_422"></a>[LU 128:6.6](/es/The_Urantia_Book/128#p6_6)
 
 ¿Cómo se soluciona este grave problema? La entereza y serenidad de mente de Jesús consigue zanjar este engorroso tema:
 
-> Después de dos días de cárcel, Jesús compareció a la mañana siguiente ante el juez militar instructor en nombre de Judá. Tras pedir disculpas por la juventud de su hermano y aludir prudente y razonadamente a la provocación que había originado el incidente, Jesús manejó el caso con tal pericia que el juez instructor acabó admitiendo que el joven judío podría haber tenido alguna excusa para su violento arrebato. [LU 128:6.7](/es/The_Urantia_Book/128#p6_7)
+> Después de dos días de cárcel, Jesús compareció a la mañana siguiente ante el juez militar instructor en nombre de Judá. Tras pedir disculpas por la juventud de su hermano y aludir prudente y razonadamente a la provocación que había originado el incidente, Jesús manejó el caso con tal pericia que el juez instructor acabó admitiendo que el joven judío podría haber tenido alguna excusa para su violento arrebato. <a id="a68_416"></a>[LU 128:6.7](/es/The_Urantia_Book/128#p6_7)
 
 La cárcel no tuvo como consecuencia que Jesús se desenvolviera con una actitud de derrota, pues podría haber reaccionado hundiéndose en su estado anímico y, como consecuencia, podría haberse encontrado sin fuerzas para poder solucionar el encarcelamiento. Tampoco se deja arrastrar por la ira y la furia, como hizo su hermano pequeño. Sorprendentemente para nosotros, sabe manejar su mente con brillantez y utilizar las palabras adecuadas para que el juez sea misericordioso.
 
 Con esa misma serenidad de ánimo, Jesús se condujo en relación con su familia en Nazaret. La exaltación de ánimo no le nubló la mente y supo ser paciente, esperando a que las emociones se tranquilizaran antes de tener una larga conversación con su hermano, una vez en casa. Como padres o madres, podemos ponernos en la piel de Jesús y admirarnos de su entereza ante este grave problema con su hermano/hijo Judas. Supo esperar hasta tres semanas para que la mente de Judá pudiera entender y comprender la gravedad de su conducta, para que pudiera escuchar realmente lo que Jesús quería comunicarle:
 
-> Jesús no dijo nada a la familia sobre el arresto de su hermano en Jerusalén, pero tres semanas más tarde tuvo una larga conversación con él sobre lo ocurrido. Después de esta conversación con Jesús el propio Judá se lo contó a la familia, y no olvidaría jamás la paciencia y la tolerancia que su padre-hermano tuvo con él durante aquella penosa experiencia. [LU 128:6.8](/es/The_Urantia_Book/128#p6_8)
+> Jesús no dijo nada a la familia sobre el arresto de su hermano en Jerusalén, pero tres semanas más tarde tuvo una larga conversación con él sobre lo ocurrido. Después de esta conversación con Jesús el propio Judá se lo contó a la familia, y no olvidaría jamás la paciencia y la tolerancia que su padre-hermano tuvo con él durante aquella penosa experiencia. <a id="a74_360"></a>[LU 128:6.8](/es/The_Urantia_Book/128#p6_8)
 
 Qué admirable uso de la mente y del lenguaje encontramos en este episodio familiar, en donde se contraponen muy claramente dos maneras de actuar en la vida. Por un lado, comprobamos el daño que nos puede ocasionar actuar cuando no podemos razonar pues nuestra mente está inundada por emociones incontrolables, cuando nuestra «amígdala cerebral» está dirigiendo nuestra conducta. Por contra, vemos cómo se puede solucionar un grave problema cuando actuamos con espíritu sereno y diálogo, cuando nuestra mente está inundada de paz y paciencia, como la mente de aquel joven Jesús de Nazaret.  Una mente consagrada a hacer la voluntad del Padre, una mente enfocada en su Centro.
 
@@ -60,7 +84,7 @@ Veamos otro pasaje muy curioso y llamativo. Otro pasaje donde las emociones desb
 > 
 > Cuando Amós reconoció a Jesús cayó a sus pies y exclamó: «Te conozco, Jesús, pero estoy poseído por muchos demonios y te suplico que no me atormentes». Este hombre estaba convencido de que sus crisis mentales periódicas se debían a la acción de espíritus malignos o impuros que entraban en él y dominaban su mente y su cuerpo. Pero sus trastornos eran más que nada emocionales, su cerebro no estaba gravemente enfermo.
 > 
-> Jesús bajó la mirada hacia el hombre agazapado como un animal a sus pies, se inclinó, lo tomó de la mano, lo levantó y le dijo: «Amós, no estás poseído por ningún demonio; ya has oído la buena nueva de que eres hijo de Dios. Te ordeno que salgas de esta crisis». Cuando Amós oyó a Jesús decir estas palabras, se produjo tal transformación en su intelecto que recobró inmediatamente el juicio y el control normal de sus emociones. [LU 151:6.2-5](/es/The_Urantia_Book/151#p6_2)
+> Jesús bajó la mirada hacia el hombre agazapado como un animal a sus pies, se inclinó, lo tomó de la mano, lo levantó y le dijo: «Amós, no estás poseído por ningún demonio; ya has oído la buena nueva de que eres hijo de Dios. Te ordeno que salgas de esta crisis». Cuando Amós oyó a Jesús decir estas palabras, se produjo tal transformación en su intelecto que recobró inmediatamente el juicio y el control normal de sus emociones. <a id="a86_432"></a>[LU 151:6.2-5](/es/The_Urantia_Book/151#p6_2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-2.jpg" alt="Editorial nov 2022-2">
@@ -86,7 +110,7 @@ Y donde abunda la enfermedad, el desbordamiento, es razonable preguntarse si es 
 
 «Yo era un descerebrado, pura emoción, y este hombre me ha devuelto la sensatez». Poco más o menos era eso lo que decía aquel loco furioso cuando relataba su restablecimiento. «Estaba hundido y me sacó del agujero. Estaba arrojado en una cuneta y me puso de nuevo en el camino. Vivía en el desorden más absoluto y con sus palabras me devolvió a mí mismo».
 
-> Jesús dijo a Amós: «No olvides que eres hijo de Dios. Vuelve con tu gente y muéstrales las grandes cosas que Dios ha hecho por ti». [LU 151:6.8](/es/The_Urantia_Book/151#p6_8)
+> Jesús dijo a Amós: «No olvides que eres hijo de Dios. Vuelve con tu gente y muéstrales las grandes cosas que Dios ha hecho por ti». <a id="a112_134"></a>[LU 151:6.8](/es/The_Urantia_Book/151#p6_8)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-3.jpg" alt="Editorial nov 2022-3">
@@ -94,12 +118,36 @@ Y donde abunda la enfermedad, el desbordamiento, es razonable preguntarse si es 
 
 Aquel Hombre que devolvió la sensatez en Queresa a un pobre lunático, ese Hombre existe. Ese Hombre está a nuestro lado, dispuesto a ayudarnos, ayudarnos a sacar nuestra mejor versión, a seguir su ejemplo de equilibrio mente-emoción en nuestras vidas cotidianas. A vivir como un hermoso compás, centrados en nuestro Ser.
 
-> ¿Estamos dispuestos a nacer de nuevo, a ser rehechos? ¿Estamos dispuestos a someternos al proceso duro y exigente de destrucción del yo y reconstrucción del alma? ¿Acaso no ha dicho el Maestro: «Quien quiera salvar su vida debe perderla. No penséis que he venido a traer la paz, sino más bien una lucha del alma»? [LU 160:5.10](/es/The_Urantia_Book/160#p5_10)
+> ¿Estamos dispuestos a nacer de nuevo, a ser rehechos? ¿Estamos dispuestos a someternos al proceso duro y exigente de destrucción del yo y reconstrucción del alma? ¿Acaso no ha dicho el Maestro: «Quien quiera salvar su vida debe perderla. No penséis que he venido a traer la paz, sino más bien una lucha del alma»? <a id="a120_316"></a>[LU 160:5.10](/es/The_Urantia_Book/160#p5_10)
 
 Nadie dijo que la vida fuera fácil, pero aquí estamos… y estamos acompañados por el mejor Compañero de viaje.
 
-> Pero también es cierto que después de pagar el precio de la dedicación a la voluntad del Padre experimentamos una gran paz, siempre que sigamos caminando por los senderos espirituales de la vida consagrada. [LU 160:5.10](/es/The_Urantia_Book/160#p5_10)
+> Pero también es cierto que después de pagar el precio de la dedicación a la voluntad del Padre experimentamos una gran paz, siempre que sigamos caminando por los senderos espirituales de la vida consagrada. <a id="a124_209"></a>[LU 160:5.10](/es/The_Urantia_Book/160#p5_10)
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Noviembre 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carlos_Rubinsky/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

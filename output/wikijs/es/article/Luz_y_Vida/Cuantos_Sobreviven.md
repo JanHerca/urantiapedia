@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra, Andrés Pérez, Santiago Rodríguez<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mariano_Perez/Lugares_Santos_Primera_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Lugares Santos? (primera parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-11-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 11 — Diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009_y_Asociacion">
+          <span class="pr-2">Noticias sobre la Conferencia Internacional 2009 y la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -40,7 +64,7 @@ Creo que sí hay alguna información. Lo que sigue es del Doc. 112-5:
 > 
 > _Los gobiernos de Orvonton y de Nebadon no pretenden haber alcanzado una perfección absoluta en el funcionamiento detallado del plan universal de repersonalización de los mortales, pero sí pretenden manifestar paciencia, tolerancia, comprensión y una compasión misericordiosa, y lo hacen realmente. <ins>Preferimos asumir el riesgo de una rebelión en un sistema</ins> antes que correr el peligro de privar a un solo mortal, que lucha en cualquier mundo evolutivo, de la alegría eterna de continuar la carrera ascendente._
 > 
-> _Esto no significa en absoluto que los seres humanos tengan que disfrutar de <ins>una segunda oportunidad</ins> después de haber <ins>rechazado la primera</ins>. Pero sí significa que todas las criaturas volitivas han de tener <ins>una verdadera oportunidad</ins> para efectuar <ins>una elección indudable, consciente y definitiva</ins>. Los Jueces soberanos de los universos no privarán del estado de personalidad a ningún ser que no haya hecho su elección eterna de <ins>manera plena y definitiva</ins>; el alma del hombre debe recibir, y recibirá, una plena y amplia oportunidad para revelar su verdadera intención y su propósito real._ [LU 112:5.6-9](/es/The_Urantia_Book/112#p5_6)
+> _Esto no significa en absoluto que los seres humanos tengan que disfrutar de <ins>una segunda oportunidad</ins> después de haber <ins>rechazado la primera</ins>. Pero sí significa que todas las criaturas volitivas han de tener <ins>una verdadera oportunidad</ins> para efectuar <ins>una elección indudable, consciente y definitiva</ins>. Los Jueces soberanos de los universos no privarán del estado de personalidad a ningún ser que no haya hecho su elección eterna de <ins>manera plena y definitiva</ins>; el alma del hombre debe recibir, y recibirá, una plena y amplia oportunidad para revelar su verdadera intención y su propósito real._ <a id="a66_642"></a>[LU 112:5.6-9](/es/The_Urantia_Book/112#p5_6)
 
 Estaréis de acuerdo en que esta elección «plena y definitiva» difícilmente se puede hacer aquí. Ni siquiera nosotros, que conocemos algo del asunto, podemos hacer esta elección eterna «plena y definitiva». ¡Cuánto menos quien no sabe siquiera que tiene que hacer una elección!
 
@@ -48,7 +72,7 @@ Aquí nadie sabe casi nada, y los que sabemos algo estamos llenos de dudas. Los 
 
 Siempre me acuerdo de los dictadores. ¿Cómo un individuo puede tener la desfachatez de acaparar todo el poder para sí, todo el dinero para sí, encarcelar o matar a sus oponentes, privilegiar sólo a su familia, y dejar que se muera de asco y en la miseria toda la población de su país? Uno puede ser ignorante, pero ¿ha de ser necesariamente malo (malo en el sentido de hacer mal a los demás)? Toda maldad humana se hace por egoísmo: se persigue poder y o riquezas para uno mismo. No sé cómo un dictador puede hablar de Dios y masacrar a su pueblo (Sadam, Franco, Pinochet). Y así podemos ir bajando en maldades humanas hasta llegar al hombre de la calle. El albañil que te engaña en el precio, cobrándote más de lo que vale la obra de tu cuarto de baño. El empresario que paga lo justo y mal a sus asalariados, pero luego tiene un BMW y un chalé con piscina en la playa. Y así sucesivamente. Estas son las consecuencias del ateísmo y de la falta total de valores (valores divinos, pues los valores humanos (poder y dinero) todos los persiguen).
 
-A lo que íbamos: ¿Cuántos sobreviven? No tengo ni idea. La misma maldad humana es, o puede ser, consecuencia de la misma ignorancia. ¿Y qué puedes hacer con un ignorante (de las cosas cósmicas)? ¿Lo vas a condenar eternamente? No lo creo en absoluto. Releed [LU 28:6.2](/es/The_Urantia_Book/28#p6_2): «_la importancia del origen..._», «_el origen es la base de la reacción de los Dioses..._», «_El Actor Conjunto siempre toma nota del hombre, de la manera en que ha nacido_». Y releed también [LU 40:5.11](/es/The_Urantia_Book/40#p5_11): «_Los Dioses que han ordenado que el hombre mortal se eleve... toman nota de su estado y de sus necesidades..._»
+A lo que íbamos: ¿Cuántos sobreviven? No tengo ni idea. La misma maldad humana es, o puede ser, consecuencia de la misma ignorancia. ¿Y qué puedes hacer con un ignorante (de las cosas cósmicas)? ¿Lo vas a condenar eternamente? No lo creo en absoluto. Releed <a id="a74_258"></a>[LU 28:6.2](/es/The_Urantia_Book/28#p6_2): «_la importancia del origen..._», «_el origen es la base de la reacción de los Dioses..._», «_El Actor Conjunto siempre toma nota del hombre, de la manera en que ha nacido_». Y releed también <a id="a74_493"></a>[LU 40:5.11](/es/The_Urantia_Book/40#p5_11): «_Los Dioses que han ordenado que el hombre mortal se eleve... toman nota de su estado y de sus necesidades..._»
 
 Por lo tanto, la misericordia de Dios puede ser tal, que el que no sobreviva es porque es un cazurro. Para no sobrevivir hay que estar EN CONTRA del progreso espiritual. En nuestro mundo, ¿quién lo está conscientemente?
 
@@ -62,7 +86,7 @@ En este mundo a todos nosotros, gracias a Dios, nos han ensañado desde muy pequ
 
 Os cuento una cosa. Desde que yo me hice medianamente consciente del texto del LU siempre me preocupo si un tipo como yo llegaría algún día a sobrevivir por esos mundos de Dios.
 
-Cuando leía el Dto. 2 - párrafo 3º [«La justicia y la rectitud»](/es/The_Urantia_Book/2#p3) ya quedé algo afectado. Más adelante me tropecé con las «inevitabilidades», se me heló la sangre. Posteriormente con el concepto de pecado e iniquidad, llegue a decirme a mi mismo: «¡joder, amigo! para ti que eres un rebelde, esto te va a resultar más difícil que subir la mítica montaña de Tourmalet en bici.»
+Cuando leía el Dto. 2 - párrafo 3º <a id="a88_35"></a>[«La justicia y la rectitud»](/es/The_Urantia_Book/2#p3) ya quedé algo afectado. Más adelante me tropecé con las «inevitabilidades», se me heló la sangre. Posteriormente con el concepto de pecado e iniquidad, llegue a decirme a mi mismo: «¡joder, amigo! para ti que eres un rebelde, esto te va a resultar más difícil que subir la mítica montaña de Tourmalet en bici.»
 
 Pues bien, consecutivamente a medida que fui leyendo y tratando de comprender, llegó a mí una idea bastante clara de mi «compañero invisible», de los círculos psíquicos o niveles cósmicos, de la misericordia de Dios, etc. y llegue a la conclusión de que con un poco de tiempo, paciencia y fe, pues yo creo que he llegado a creerme casi todo lo que dice el LU, menos aquello que no comprendo. Así que bien podría no sólo llegar a subir el Tourmalet, sino el Montblanc o si hiciera falta el Everest en la puta bici.
 
@@ -72,7 +96,7 @@ Así que, amigos míos: hoy por hoy, estoy totalmente convencido que YO voy a so
 
 Deseo saber vuestra opinión sobre lo que os expongo a continuación.
 
-> «_La mayor parte de los Ajustadores que han trasladado a sus sujetos fuera de Urantia eran muy experimentados y hay constancia de que habían residido anteriormente en ***numerosos mortales*** de otras esferas_ (que no sobrevivieron). _Recordad que los Ajustadores adquieren una valiosa experiencia como habitantes interiores en los planetas donde sólo son prestados; de esto no hay que deducir que los Ajustadores ***<ins>sólo</ins>*** adquieren experiencia, para realizar un trabajo avanzado, ***en aquellos sujetos mortales que no logran sobrevivir***._» [LU 110:7.3](/es/The_Urantia_Book/110#p7_3)
+> «_La mayor parte de los Ajustadores que han trasladado a sus sujetos fuera de Urantia eran muy experimentados y hay constancia de que habían residido anteriormente en ***numerosos mortales*** de otras esferas_ (que no sobrevivieron). _Recordad que los Ajustadores adquieren una valiosa experiencia como habitantes interiores en los planetas donde sólo son prestados; de esto no hay que deducir que los Ajustadores ***<ins>sólo</ins>*** adquieren experiencia, para realizar un trabajo avanzado, ***en aquellos sujetos mortales que no logran sobrevivir***._» <a id="a98_559"></a>[LU 110:7.3](/es/The_Urantia_Book/110#p7_3)
 
 Yo entiendo que, cuando un Ajustador anda vagando por los mundos de Dios, acumulando experiencia, en primer lugar es porque ha «perdido» a su «inquilino». Deduzco que posteriormente puede obtener más práctica con otros mortales «prestados». ¿'Me equivoco? Habla de «la mayor parte de los Ajustadores». ¿Habrán sido muchos o pocos?
 
@@ -92,7 +116,7 @@ Eduardo, no creo que el amigo interior ayude a demasiada gente en este tiempo. H
 
 El párrafo se refiere a las esperanzas de vida eterna de una de las prostitutas que se encontraron Jesús y Ganid estando en Corinto a su vuelta de Roma. Es del documento 133. Dice así (¿me perdonáis que ponga mi traducción?):
 
-> «_Jesús y Ganid se despidieron así de las mujeres. Hasta ese momento, las dos prostitutas no habían dicho nada; Ganid se había quedado igualmente sin habla. Y durante unos breves instantes a Marta le sucedió lo mismo, pero pronto se puso a la altura de las circunstancias e hizo por aquellas extrañas todo lo que Jesús había esperado. La mayor de estas dos mujeres murió poco tiempo después, <ins>con prometedoras posibilidades de supervivencia eterna</ins>, y la más joven trabajó en el negocio de Justo y más tarde se hizo miembro de por vida de la primera iglesia cristiana de Corinto._» [LU 133:3.10](/es/The_Urantia_Book/133#p3_10)
+> «_Jesús y Ganid se despidieron así de las mujeres. Hasta ese momento, las dos prostitutas no habían dicho nada; Ganid se había quedado igualmente sin habla. Y durante unos breves instantes a Marta le sucedió lo mismo, pero pronto se puso a la altura de las circunstancias e hizo por aquellas extrañas todo lo que Jesús había esperado. La mayor de estas dos mujeres murió poco tiempo después, <ins>con prometedoras posibilidades de supervivencia eterna</ins>, y la más joven trabajó en el negocio de Justo y más tarde se hizo miembro de por vida de la primera iglesia cristiana de Corinto._» <a id="a118_593"></a>[LU 133:3.10](/es/The_Urantia_Book/133#p3_10)
 
 El subrayado es mío.
 
@@ -104,7 +128,7 @@ En cuanto a la supervivencia de todo el mundo... siempre me acuerdo de que el L.
 
 **Carmelo:** Me sorprende, no porque se refiera a una prostituta ni por ninguna otra condición personal (no tengo ningún prejuicio al respecto, y hay que recordar la actitud de Jesús de Nazaret en este asunto), sino porque se puedan saber o prever de alguna manera las posibilidades de supervivencia de una persona. En este caso me sorprende pues se dice, indirectamente, que los intermedios tienen algún medio de prever las posibilidades de supervivencia de los terrestres.
 
-En cuanto al mal, tienes razón, las consecuencias son sociales. Sin embargo, el LU también nos enseña que en la maldad hay oportunidades, y hasta ventajas, para crecer como personas. El Padre no es nunca el origen del mal, pero no tengo muy clara su relación con él, precisamente porque parece que del mal se obtiene bien y además en mucha mayor cantidad. Releed los párrafos [LU 54:6.6](/es/The_Urantia_Book/54#p6_6) y [LU 54:6.7](/es/The_Urantia_Book/54#p6_7) del apartado 6 del documento 54.
+En cuanto al mal, tienes razón, las consecuencias son sociales. Sin embargo, el LU también nos enseña que en la maldad hay oportunidades, y hasta ventajas, para crecer como personas. El Padre no es nunca el origen del mal, pero no tengo muy clara su relación con él, precisamente porque parece que del mal se obtiene bien y además en mucha mayor cantidad. Releed los párrafos <a id="a130_376"></a>[LU 54:6.6](/es/The_Urantia_Book/54#p6_6) y <a id="a130_420"></a>[LU 54:6.7](/es/The_Urantia_Book/54#p6_7) del apartado 6 del documento 54.
 
 **Santiago:** Yo creo que la relación del Padre con el MAL es nula. Es decir, en cuanto a su origen y aparición, se produce inevitablemente de la existencia del libre albedrío en seres que tienen unas miras muy cortas, haciendo gala a su nombre de DIOS, no lo impide, que no es lo mismo que permitirlo (¿Ocurre en contra de su voluntad? ¿Es posible que algo ocurra en contra de su voluntad?). Pero inmediatamente pone mecanismos para paliar los efectos devastadores del mal.
 
@@ -112,7 +136,7 @@ El Hecho de que hoy el mal producido por la rebelión de Lucifer se haya convert
 
 ¿Cuántos sobreviven?
 
-Yo deseo pensar que todos tendremos otra oportunidad, que esperarán a que realmente digamos NO de una manera plenamente conscientes, pero me preocupa lo que leo en [LU 112:3.1](/es/The_Urantia_Book/112#p3_1).
+Yo deseo pensar que todos tendremos otra oportunidad, que esperarán a que realmente digamos NO de una manera plenamente conscientes, pero me preocupa lo que leo en <a id="a138_164"></a>[LU 112:3.1](/es/The_Urantia_Book/112#p3_1).
 
 Advierte claramente de una muerte espiritual en la vida en la carne. Parece que no queda más remedio que admitir que eso está ahí, luego seguro que ocurre.
 
@@ -138,7 +162,7 @@ Creo, Santi, que la bondad y la misericordia de Dios (su amor como padre) está 
 
 La muerte espiritual que tú comentas a lo mejor es válida en los mundos «normales» e iluminados. Pero, ¿en éste?...
 
-**Andrés:** Queridos amigos, Santi, en [LU 112:3.2](/es/The_Urantia_Book/112#p3_2) dice muerte espiritual (del alma) cuando el hombre mortal rechaza «finalmente» la supervivencia; si ha sido pronunciado espiritualmente insolvente, «moroncialmente» en bancarrota etc, etc. Digo yo, que «finalmente» será después de muchas experiencias, y «moroncialmente» después de muchas vivencias en la vida moroncial, es decir después de muerto digo yo. De lo cual deduzco que tiene que pasar muchas existencias vividas para que la muerte espiritual sea llevada a cabo si es que la personalidad decide no sobrevivir.
+**Andrés:** Queridos amigos, Santi, en <a id="a164_39"></a>[LU 112:3.2](/es/The_Urantia_Book/112#p3_2) dice muerte espiritual (del alma) cuando el hombre mortal rechaza «finalmente» la supervivencia; si ha sido pronunciado espiritualmente insolvente, «moroncialmente» en bancarrota etc, etc. Digo yo, que «finalmente» será después de muchas experiencias, y «moroncialmente» después de muchas vivencias en la vida moroncial, es decir después de muerto digo yo. De lo cual deduzco que tiene que pasar muchas existencias vividas para que la muerte espiritual sea llevada a cabo si es que la personalidad decide no sobrevivir.
 
 **Santiago:** Sí, Andrés, hasta ahí todo estaría bien, pero lo que me preocupaba está en la página siguiente. Pero, como bien dice Antonio, quizá el concepto de «mortal» tenga que ampliarlo para incluir no sólo a los habitantes del primer mundo (material), y quizá debamos seguir considerándonos «mortales» aún en los mundos moronciales, hasta que el Ajsutador y la personalidad estén fusionados.
 
@@ -171,3 +195,27 @@ Aunque esto ahora no está nada claro para nosotros, lo acabará estando. Hay qu
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mariano_Perez/Lugares_Santos_Primera_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Lugares Santos? (primera parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-11-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 11 — Diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009_y_Asociacion">
+          <span class="pr-2">Noticias sobre la Conferencia Internacional 2009 y la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

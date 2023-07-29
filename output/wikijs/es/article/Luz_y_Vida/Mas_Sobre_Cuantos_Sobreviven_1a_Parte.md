@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez, Andrés Pérez, Antonio Moya<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Que_se_espera_de_nosotros">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué se espera de nosotros?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-12-febrero-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 12 — Febrero 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009">
+          <span class="pr-2">Noticias sobre la Conferencia Internacional UAI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -20,7 +44,7 @@ De varios autores
 - Andrés Pérez
 - Antonio Moya
 
-**Carmelo:** He releído estos días en Luz y Vida la discusión que tuvimos en este mismo foro sobre cuántos sobreviven. Y acabo de leer una frase clara y contundente al respecto. Está al final del segundo párrafo completo de [LU 110:3.5](/es/The_Urantia_Book/110#p3_5) y dice así:
+**Carmelo:** He releído estos días en Luz y Vida la discusión que tuvimos en este mismo foro sobre cuántos sobreviven. Y acabo de leer una frase clara y contundente al respecto. Está al final del segundo párrafo completo de <a id="a46_224"></a>[LU 110:3.5](/es/The_Urantia_Book/110#p3_5) y dice así:
 
 > «_Sólo la resistencia consciente a la guía del Ajustador puede impedir la supervivencia del alma inmortal en evolución._»
 
@@ -63,13 +87,13 @@ Conscientemente significa sabiendo lo que hacemos; ¿lo podemos saber en esta vi
 
 Estamos de acuerdo en la primera parte, sobre lo que estoy reflexionando, porque no tengo tan claro es que ese rechazo no sea consciente, aunque evidentemente habrá grados y habrá, atenuantes, pero creo que pudiera darse con cierta frecuencia, lo que igual no es definitivo del todo, veremos... Estamos de acuerdo en la primera parte, sobre lo que estoy reflexionando, porque no tengo tan claro es que ese rechazo no sea consciente, aunque evidentemente habrá grados y habrá, atenuantes, pero creo que pudiera darse con cierta frecuencia, lo que igual no es definitivo del todo, veremos...
 
-**Eduardo:** Parece ser que todos mantenemos dudas acerca de cómo se sobrevive. Yo en su día comente que se me quedó la sangre helada cuando leía, en el principio, los primeros documentos del LU. Yo he comenzado desde el principio y me ha llamado la atención el párrafo siguiente que se encuentra en el [Dto. 2, Apartado 3, párrafo 3](/es/The_Urantia_Book/2#p3_3). De hecho no tiene desperdicio todo él.
+**Eduardo:** Parece ser que todos mantenemos dudas acerca de cómo se sobrevive. Yo en su día comente que se me quedó la sangre helada cuando leía, en el principio, los primeros documentos del LU. Yo he comenzado desde el principio y me ha llamado la atención el párrafo siguiente que se encuentra en el <a id="a89_303"></a>[Dto. 2, Apartado 3, párrafo 3](/es/The_Urantia_Book/2#p3_3). De hecho no tiene desperdicio todo él.
 
 > _El cese de la existencia se decreta habitualmente en el momento del juicio dispensación, o juicio de época, del planeta o de los planetas. ***En un mundo como Urantia tiene lugar al final de una dispensación planetaria***. El cese de la existencia se puede decretar en esos momentos mediante la acción coordinada de todos los tribunales con jurisdicción que se extienden desde el consejo planetario, pasando por las cortes del Hijo Creador, hasta los tribunales de juicio de los Ancianos de los Días. El mandato de disolución parte de las cortes superiores del súper después de una confirmación ininterrumpida de la acusación que se originó en la esfera de residencia del malhechor; luego, cuando la sentencia de extinción ha sido confirmada en las alturas, la ejecución se lleva a cabo mediante la acción directa de aquellos jueces que residen en la sede del súpery que actuan desde allí._
 
 Más adelante dice:
 
-> _Es falso pensar que los sacrificios de sus Hijos o la intercesión de sus criaturas subordinadas convenzan a Dios para que ame a sus hijos, «porque el Padre mismo os ama». En respuesta a este afecto paternal, ***Dios envia a los maravillosos Ajustadores*** para que residan en la mente de los hombres. El amor de Dios es universal; «cualquiera que lo desee puede venir». ***El querría*** «que todos los hombres se salvaran por medio del conocimiento de la verdad». «No desea que ninguno perezca.»_ [LU 2:5.2](/es/The_Urantia_Book/2#p5_2)
+> _Es falso pensar que los sacrificios de sus Hijos o la intercesión de sus criaturas subordinadas convenzan a Dios para que ame a sus hijos, «porque el Padre mismo os ama». En respuesta a este afecto paternal, ***Dios envia a los maravillosos Ajustadores*** para que residan en la mente de los hombres. El amor de Dios es universal; «cualquiera que lo desee puede venir». ***El querría*** «que todos los hombres se salvaran por medio del conocimiento de la verdad». «No desea que ninguno perezca.»_ <a id="a95_500"></a>[LU 2:5.2](/es/The_Urantia_Book/2#p5_2)
 
 Parece ser que el deseo del Padre es que todos se salven, pero que si alguno no «llega» yo interpreto que tampoco le va a dar un «infarto». Vamos, que es real, por lo menos para mí, que si no tienes en cuenta la existencia de Dios y no te interesa conocer su plan corres el riesgo de perderte la ascensión al Paraíso.
 
@@ -77,11 +101,11 @@ Amigos, se trata de entender lo que nos dicen los reveladores. Yo pienso que deb
 
 Leed el documento 34, Apartados 5, 6 y 7. Ahí envío algo de ellos:
 
-> _En todo mortal existe una naturaleza doble: la herencia de las tendencias animales y el impulso elevado del don espiritual. ***Durante la corta vida que vivís en Urantia***, estos dos impulsos opuestos y diferentes rara vez se pueden conciliar plenamente; dificilmente se pueden armonizar y unificar; pero durante toda vuestra vida, el Espiritu combinado aporta siempre su ministerio para ayudaros a someter la carne cada vez más a la guía del Espiritu. Aunque tenéis que vivir vuestra vida material basta el fin, aunque no podéis escapar del cuerpo ni de sus necesidades, sin embargo, en lo que se refiere a vuestros propósitos e ideales, tenéis la facultad de someter cada vez más la naturaleza animal al dominio del Espiritu. Existe en verdad dentro de vosotros una conspiración de fuerzas espirituales, una confederación de poderes divinos, cuyo propósito exclusivo consiste en liberaros definitivamente de la esclavitud materialy de los obstáculos finitos._ [LU 34:6.9](/es/The_Urantia_Book/34#p6_9)
+> _En todo mortal existe una naturaleza doble: la herencia de las tendencias animales y el impulso elevado del don espiritual. ***Durante la corta vida que vivís en Urantia***, estos dos impulsos opuestos y diferentes rara vez se pueden conciliar plenamente; dificilmente se pueden armonizar y unificar; pero durante toda vuestra vida, el Espiritu combinado aporta siempre su ministerio para ayudaros a someter la carne cada vez más a la guía del Espiritu. Aunque tenéis que vivir vuestra vida material basta el fin, aunque no podéis escapar del cuerpo ni de sus necesidades, sin embargo, en lo que se refiere a vuestros propósitos e ideales, tenéis la facultad de someter cada vez más la naturaleza animal al dominio del Espiritu. Existe en verdad dentro de vosotros una conspiración de fuerzas espirituales, una confederación de poderes divinos, cuyo propósito exclusivo consiste en liberaros definitivamente de la esclavitud materialy de los obstáculos finitos._ <a id="a103_966"></a>[LU 34:6.9](/es/The_Urantia_Book/34#p6_9)
 
 En otro párrafo dice:
 
-> _Los mortales de un mundo normal no experimentan una guerra constante entre su naturaleza física y su naturaleza espiritual. Tienen que enfrentarse a la necesidad de elevarse desde los niveles de existencia animal hasta los planos superiores de la vida espiritual, pero esta ascensión se parece más a un entrenamiento educativo cuando se la compara con los ***intensos conflictos que sufren los mortales de Urantia*** en este terreno de las naturalezas material y espiritual divergentes._ [LU 34:7.3](/es/The_Urantia_Book/34#p7_3)
+> _Los mortales de un mundo normal no experimentan una guerra constante entre su naturaleza física y su naturaleza espiritual. Tienen que enfrentarse a la necesidad de elevarse desde los niveles de existencia animal hasta los planos superiores de la vida espiritual, pero esta ascensión se parece más a un entrenamiento educativo cuando se la compara con los ***intensos conflictos que sufren los mortales de Urantia*** en este terreno de las naturalezas material y espiritual divergentes._ <a id="a107_491"></a>[LU 34:7.3](/es/The_Urantia_Book/34#p7_3)
 
 **Santiago:** Pienso que la decisión de continuidad (que no es la que te lleva inmediatamente a la fusión con el Ajustador) se da en la mayoría de los casos en la vida aquí en Urantia.
 
@@ -93,11 +117,11 @@ Cierto es que la decisión del cese de las personalidades no sobrevivientes se d
 
 En algunos apartados dice:
 
-> _Cuando los mortales del tiempo no consiguen la supervivencia eterna de su alma en asociación planetaria con el don espiritual del Padre Universal, este fracaso nunca se debe de ninguna manera a una negligencia en el deber, el ministerio, el servicio o la devoción del Ajustador. En el momento de la muerte física, estos Monitores abandonados regresan a Divinington y, ***posteriormente, después del juicio del no sobreviviente***, pueden ser destinados de nuevo a los mundos del tiempo y del espacio. A veces, después de repetidos servicios de este tipo o con posterioridad a alguna experiencia excepcional, como por ejemplo trabajar como Ajustador interior de un Hijo donador encarnado, estos eficaces Ajustadores son personalizados por el Padre Universal._ [LU 40:4.1](/es/The_Urantia_Book/40#p4_1)
+> _Cuando los mortales del tiempo no consiguen la supervivencia eterna de su alma en asociación planetaria con el don espiritual del Padre Universal, este fracaso nunca se debe de ninguna manera a una negligencia en el deber, el ministerio, el servicio o la devoción del Ajustador. En el momento de la muerte física, estos Monitores abandonados regresan a Divinington y, ***posteriormente, después del juicio del no sobreviviente***, pueden ser destinados de nuevo a los mundos del tiempo y del espacio. A veces, después de repetidos servicios de este tipo o con posterioridad a alguna experiencia excepcional, como por ejemplo trabajar como Ajustador interior de un Hijo donador encarnado, estos eficaces Ajustadores son personalizados por el Padre Universal._ <a id="a119_762"></a>[LU 40:4.1](/es/The_Urantia_Book/40#p4_1)
 
 En otro se dice:
 
-> _En cuanto a las posibilidades de supervivencia de los mortales, ***que quede claro para siempre***: todas las almas pertenecientes a cada fase posible de la existencia mortal sobrevivirán a condición de que manifiesten la buena voluntad de cooperar con su Ajustador interior y muestren el deseo de encontrar a Dios y de alcanzar la perfección divina, aunque estos deseos sólo sean los primeros débiles parpadeos de la comprensión primitiva de esa «verdadera luz que ilumina a todo hombre que entra en el mundo»._ [LU 40:5.19](/es/The_Urantia_Book/40#p5_19)
+> _En cuanto a las posibilidades de supervivencia de los mortales, ***que quede claro para siempre***: todas las almas pertenecientes a cada fase posible de la existencia mortal sobrevivirán a condición de que manifiesten la buena voluntad de cooperar con su Ajustador interior y muestren el deseo de encontrar a Dios y de alcanzar la perfección divina, aunque estos deseos sólo sean los primeros débiles parpadeos de la comprensión primitiva de esa «verdadera luz que ilumina a todo hombre que entra en el mundo»._ <a id="a123_516"></a>[LU 40:5.19](/es/The_Urantia_Book/40#p5_19)
 
 Fijaos que cosas más bonitas y que «piropos» nos dedican. De todas formas, aquí son bien claros y hablan precisamente de nosotros:
 
@@ -110,23 +134,23 @@ Fijaos que cosas más bonitas y que «piropos» nos dedican. De todas formas, aq
 > _2\. Un Hijo Creador surgido de Dios se volvió uno de vosotros; es de hecho vuestro hermano mayor; y si os convertis, en espiritu, en bermanos verdaderamente emparentados con Cristo, el victorioso Miguel, entonces también debéis ser, en espiritu, los hijos de ese Padre que tenéis en comun, el mismo Padre Universal de todos._
 > _3\. Sois hijos porque el espiritu de un Hijo ha sido derramado sobre vosotros, ha sido conferido de manera gratuita y segura a todas las razas de Urantia. Este espiritu siempre os atrae hacia el Hijo divino, que es su fuente, y hacia el Padre Paradisiaco, que es la fuente de ese Hijo divino._
 > _4\. El Padre Universal os ha dado, por su libre albedrío divino, vuestra personalidad de criatura. Habéis sido dotados de una parte de esa divina espontaneidad de acción, basada en el libre albedrio, que Dios comparte con todos aquellos que pueden convertirse en sus hijos._
-> _5\. Dentro de vosotros reside un fragmento del Padre Universal, y estáis así directamente emparentados con el Padre divino de todos los Hijos de Dios._ [LU 40:6.1-8](/es/The_Urantia_Book/40#p6_1)
+> _5\. Dentro de vosotros reside un fragmento del Padre Universal, y estáis así directamente emparentados con el Padre divino de todos los Hijos de Dios._ <a id="a136_155"></a>[LU 40:6.1-8](/es/The_Urantia_Book/40#p6_1)
 
 **Santiago:** Todas estas valiosas reseñas me hace abundar más en la idea de que «no todos sobreviven», porque parece cierto y evidente que el mínimo necesario puede estar muy bajo, pero hay un mínimo, y siempre se requiere no el conocimiento del ser humano, pero sí la voluntad de querer aspirar a Dios (de alguna manera más o menos rudimentaria), pero la constante y continuada postura de "no me interesan esos temas, eso no me preocupa, o yo no necesito nada de eso, es para mentes débiles, yo soy autosuficente, el orgullo es el comienzo del pecado...
 
 **Eduardo:** Os envío un párrafo sacado del Dto. 49, Apartado 6. Considero que este apartado es esclarecedor para el tema:
 
-> _Los supervivientes dormidos de una era planetaria son repersonalizados así en los llamamientos dispensacionales. Pero en cuanto a las personalidades no salvables de un reino, ningún espiritu inmortal se encuentra presente para actuar con los guardianes colectivos del destino, y esto representa el cese de la existencia de la criatura. Aunque algunos de vuestros relatos han descrito que estos acontecimientos tienen lugar en los planetas de la muerte física, ***todos se producen en realidad en los mundos de las mansiones***. [LU 112:4.3](/es/The_Urantia_Book/112#p4_3)_
+> _Los supervivientes dormidos de una era planetaria son repersonalizados así en los llamamientos dispensacionales. Pero en cuanto a las personalidades no salvables de un reino, ningún espiritu inmortal se encuentra presente para actuar con los guardianes colectivos del destino, y esto representa el cese de la existencia de la criatura. Aunque algunos de vuestros relatos han descrito que estos acontecimientos tienen lugar en los planetas de la muerte física, ***todos se producen en realidad en los mundos de las mansiones***. <a id="a142_531"></a>[LU 112:4.3](/es/The_Urantia_Book/112#p4_3)_
 
 También dice, aunque no bien al caso (recuerdo que en este foro lo hemos tratado anteriormente) que:
 
 > _2\. ***Los mortales de las órdenes individuales de ascensión***. El progreso individual de los seres humanos se mide por la conquista y la travesía sucesivas ***(el dominio) de los siete círculos cósmicos***. Estos círculos de progresión humana son unos niveles de valores intelectuales, sociales, espirituales y de perspicacia cósmica asociados. Empezando por el séptimo círculo, los mortales se esfuerzan por alcanziar el primero, y a todos los que han llegado al tercero se les asignan de inmediato unos guardianes personales del destino. Estos mortales pueden ser repersonalizados en la vida morontial, independientemente de los juicios dispensacionales o de otro tipo._
 > 
-> Durante las épocas primitivas de un mundo evolutivo, pocos mortales van a juicio al tercer día. Pero a medida que pasan las eras, a los mortales que progresan se les asignan cada ver más guardianes personales del destino, y un numero creciente de estas criaturas evolutivas son repersonalizadas asi en el primer mundo de las mansiones al tercer día después de su muerte natural. En tales ocasiones, el regreso del Ajustador señala el despertar del alma humana, y esto supone la repersonalización de los muertos tan literalmente como cuando se pasa lista en masa al final de una dispensación en los mundos evolutivos. [LU 49:6.8-9](/es/The_Urantia_Book/49#p6_8)
+> Durante las épocas primitivas de un mundo evolutivo, pocos mortales van a juicio al tercer día. Pero a medida que pasan las eras, a los mortales que progresan se les asignan cada ver más guardianes personales del destino, y un numero creciente de estas criaturas evolutivas son repersonalizadas asi en el primer mundo de las mansiones al tercer día después de su muerte natural. En tales ocasiones, el regreso del Ajustador señala el despertar del alma humana, y esto supone la repersonalización de los muertos tan literalmente como cuando se pasa lista en masa al final de una dispensación en los mundos evolutivos. <a id="a148_619"></a>[LU 49:6.8-9](/es/The_Urantia_Book/49#p6_8)
 
-He estado leyendo los documentos relacionados con el Ajustador del Pensamiento (documentos 107, 108, 109, 110 y 111) en los que se encuentran «La tarea del Ajustador en la mente humana» ([LU 110:4](/es/The_Urantia_Book/110#p4)) y «Los siete círculos psíquicos» ([110-6](/es/The_Urantia_Book/110#p6)). Todos ellos son importantes para el tema que nos ocupa, tienen alguna relación con la sobrevivencia y desde luego las grandes dificultades que tienen para podernos «chivar» alguna idea. Pero el que más me ha esclarecido ideas ha sido el documento 112 con todos sus apartados. Un párrafo dice:
+He estado leyendo los documentos relacionados con el Ajustador del Pensamiento (documentos 107, 108, 109, 110 y 111) en los que se encuentran «La tarea del Ajustador en la mente humana» (<a id="a150_187"></a>[LU 110:4](/es/The_Urantia_Book/110#p4)) y «Los siete círculos psíquicos» (<a id="a150_262"></a>[110-6](/es/The_Urantia_Book/110#p6)). Todos ellos son importantes para el tema que nos ocupa, tienen alguna relación con la sobrevivencia y desde luego las grandes dificultades que tienen para podernos «chivar» alguna idea. Pero el que más me ha esclarecido ideas ha sido el documento 112 con todos sus apartados. Un párrafo dice:
 
-> _En los mundos evolutivos, la individualidad es material; es una cosa en el universo y, como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo. ***Las decisiones sobre la supervivencia han de ser expresadas aquí.*** En el estado morontial, el yo se ha convertido en una realidad universal nueva y más duradera, y su crecimiento continuo está basado en una sintonización creciente con los circuitos mentales y espirituales de los universos. ***Las decisiones sobre la supervivencia deben confirmarse ahora.*** Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y este nuevo valor está basado en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que está atestiguado por la fusión eterna con el Ajustador del Pensamiento. Después de baber alcanzado el estado de un verdadero valor en el universo, la criatura se vuelve potencialmente libre de buscar el valor universal más elevado-Dios._ [LU 112:7.6](/es/The_Urantia_Book/112#p7_6)
+> _En los mundos evolutivos, la individualidad es material; es una cosa en el universo y, como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo. ***Las decisiones sobre la supervivencia han de ser expresadas aquí.*** En el estado morontial, el yo se ha convertido en una realidad universal nueva y más duradera, y su crecimiento continuo está basado en una sintonización creciente con los circuitos mentales y espirituales de los universos. ***Las decisiones sobre la supervivencia deben confirmarse ahora.*** Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y este nuevo valor está basado en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que está atestiguado por la fusión eterna con el Ajustador del Pensamiento. Después de baber alcanzado el estado de un verdadero valor en el universo, la criatura se vuelve potencialmente libre de buscar el valor universal más elevado-Dios._ <a id="a152_1033"></a>[LU 112:7.6](/es/The_Urantia_Book/112#p7_6)
 
 Os comento que el documento 113 tampoco tiene desperdicio, es muy orientativo. La Cuarta Parte la dejo en vuestras manos.
 
@@ -146,7 +170,7 @@ El último párrafo que cita Eduardo es sumamente interesante y de los que hay q
 
 > «_On the evolutionary worlds, selfhood is material; it is a thing in the universe and as such is subject to the laws of material existence. It is a fact in time and is responsive to the vicissitudes thereof. ***Survival decisions must here be formulated.*** In the morontia state the self has become a new and more enduring universe reality, and its continuing growth is predicated on its increasing attunement to the mind and spirit circuits of universe. ***Survival decisions are now being confirmed.*** When the self attains the spiritual level, it has become a secure value in the universe, and this new value is predicated upon the fact that ***survival decisions have been made***, which fact has been witnessed by eternal fusion with the Though Adjuster. And baving achieved the status of a true universe value, the creature becomes liberated in potencial for the seeking of the bighest universe value -God._»
 > 
-> «_En los mundos evolutivos, la individualidad es material; es una cosa en el universo y como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo. ***Las decisiones sobre la supervivencia deben formularse aquí.*** En el estado moroncial, el yo se ha convertido en una realidad del universo nueva y más duradera y su crecimiento continuado está basado en su sintonización creciente con los circuitos de mente y espiritu del universo. ***Las decisiones sobre la supervivencia se confirman ahora.*** Cuando el yo alcanæa el nivel espiritual, se ha convertido en un valor seguro en el universo y este valor nuevo se basa en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que se atestigua por la fusión eterna con el Ajustador del Pensamiento. Y babiendo logrado el estatus de un valor verdadero del universo, la criatura resulta liberada en potencial para buscar el valor más alto del universo -Dios._» [LU 112:7.6](/es/The_Urantia_Book/112#p7_6)
+> «_En los mundos evolutivos, la individualidad es material; es una cosa en el universo y como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo. ***Las decisiones sobre la supervivencia deben formularse aquí.*** En el estado moroncial, el yo se ha convertido en una realidad del universo nueva y más duradera y su crecimiento continuado está basado en su sintonización creciente con los circuitos de mente y espiritu del universo. ***Las decisiones sobre la supervivencia se confirman ahora.*** Cuando el yo alcanæa el nivel espiritual, se ha convertido en un valor seguro en el universo y este valor nuevo se basa en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que se atestigua por la fusión eterna con el Ajustador del Pensamiento. Y babiendo logrado el estatus de un valor verdadero del universo, la criatura resulta liberada en potencial para buscar el valor más alto del universo -Dios._» <a id="a172_1010"></a>[LU 112:7.6](/es/The_Urantia_Book/112#p7_6)
 
 El texto marca una decisión en tres etapas: 1) vida material, formulación; 2) vida moroncial, ratificación; 3) llegada al estado espiritual, fusión. Y en este momento, libertad. ¿Qué pasa, que antes no éramos libres?
 
@@ -170,7 +194,7 @@ A lo dicho y redicho sobre «quiénes sobrevivirán», habría que añadir dos c
 > 
 > ***El plan divino preveía*** _que las razas mortales de Urantia tuvieran ***una naturaleza física más sensible al espíritu*** de manera natural._
 > 
-> _A pesar de este ***doble desastre para la naturaleza del hombre y su entorno***..._ ([LU 34:7.4-6](/es/The_Urantia_Book/34#p7_4))
+> _A pesar de este ***doble desastre para la naturaleza del hombre y su entorno***..._ (<a id="a196_88"></a>[LU 34:7.4-6](/es/The_Urantia_Book/34#p7_4))
 
 Padecemos, de entrada, sólo por nacer aquí, un doble desastre: una sociedad MAL ordenada (gracias a Caligastia) y una naturaleza física NADA sensible al espíritu (gracias a Adán) En un entorno semejante, y con una naturaleza semejante, ¿qué quieren Vds. que hagan estos desgraciados? ¿Encima no van a sobrevivir, porque son malos O inconscientes o consumistas? 
 
@@ -213,3 +237,27 @@ Como indiqué antes, el proceso pasa por las siguientes etapas:
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Que_se_espera_de_nosotros">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué se espera de nosotros?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-12-febrero-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 12 — Febrero 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009">
+          <span class="pr-2">Noticias sobre la Conferencia Internacional UAI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

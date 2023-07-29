@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Luis Coll<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Paradise_and_the_Topology_of_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Paraíso y la topología del espacio: una teoría de la materia última</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_Libro_de_Urantia_un_libro_para_la_esperanza">
+          <span class="pr-2">El Libro de Urantia, un libro para la esperanza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ágora es una película muy acertada sobre algunas realidades históricas Idel pasado, la religión, la ciencia y la astronomía. En esta película, basada en hechos históricos, se puede aprender mucho acerca de la eterna lucha entre Ciencia y Religión. Dos puntos de vista que casi siempre han sido difíciles de conciliar.
 
@@ -16,9 +40,9 @@ Hypatia, la astrónoma, representa la imagen de la ciencia, la filosofía, que s
 
 Las religiones dogmáticas e institucionalizadas casi siempre han luchado contra eso. Es un hecho histórico que el cristianismo abandonó muy pronto las enseñanzas originales de Jesús y se comprometió con la política y el poder. Al mismo tiempo la política tuvo que pagar un gran precio y compromiso bajo una Iglesia autoritaria que rápidamente tomaba el poder bajo un Evangelio deformado y amoldado a los intereses egoístas de los hombres que rápidamente empezaron a llamarlo «palabra de Dios».
 
-> «_Pero la implicación de la Iglesia en el comercio y la política no tiene excusa; estas alianzas profanas son una flagrante traición al Maestro_»([LU 195:10.13](/es/The_Urantia_Book/195#p10_13))
+> «_Pero la implicación de la Iglesia en el comercio y la política no tiene excusa; estas alianzas profanas son una flagrante traición al Maestro_»(<a id="a42_148"></a>[LU 195:10.13](/es/The_Urantia_Book/195#p10_13))
 
-> «_El cristianismo se ha atrevido a rebajar sus ideales ante el desafío de la avidez humana, la locura de la guerra, y la codicia del poder._»([LU 195:9.9](/es/The_Urantia_Book/195#p9_9))
+> «_El cristianismo se ha atrevido a rebajar sus ideales ante el desafío de la avidez humana, la locura de la guerra, y la codicia del poder._»(<a id="a44_144"></a>[LU 195:9.9](/es/The_Urantia_Book/195#p9_9))
 
 Es totalmente intolerable que unos supuestos ministros de Dios se hayan atrevido a bendecir armas que después iban a destruir a otros seres humanos; no importa la religión que haya practicado eso.
 
@@ -34,7 +58,7 @@ También podemos ver en la religión dogmática y de miras estrechas la vergonzo
 <img src="/image/article/Luz_y_Vida/LyV22/05.jpg">
 </figure>
 
-> «_En una época como esta en la que ni siquiera se permitía a las mujeres permanecer en el piso principal de la sinagoga (estaban confinadas a la galería de las mujeres), era más que sorprendente observar que se las reconocía como instructoras autorizadas del nuevo evangelio del reino. El encargo que Jesús confió a estas diez mujeres al seleccionarlas para la enseñanza y el ministerio del evangelio fue la proclamación de emancipación que liberaba a todas las mujeres para todos los tiempos. Los hombres ya no debian considerar a las mujeres como espiritualmente inferiores........después de la partida del Maestro los apóstoles pusieron en práctica esta liberación de las mujeres, las generaciones posteriores volvieron a caer en las antiguas costumbres. ....Pero Pablo a pesar del hecho que admitía esto en teoría nunca lo incorporó realmente en su propia actitud y le resultó personalmente difícil ponerlo en práctica._» ([LU 150:1.3](/es/The_Urantia_Book/150#p1_3))
+> «_En una época como esta en la que ni siquiera se permitía a las mujeres permanecer en el piso principal de la sinagoga (estaban confinadas a la galería de las mujeres), era más que sorprendente observar que se las reconocía como instructoras autorizadas del nuevo evangelio del reino. El encargo que Jesús confió a estas diez mujeres al seleccionarlas para la enseñanza y el ministerio del evangelio fue la proclamación de emancipación que liberaba a todas las mujeres para todos los tiempos. Los hombres ya no debian considerar a las mujeres como espiritualmente inferiores........después de la partida del Maestro los apóstoles pusieron en práctica esta liberación de las mujeres, las generaciones posteriores volvieron a caer en las antiguas costumbres. ....Pero Pablo a pesar del hecho que admitía esto en teoría nunca lo incorporó realmente en su propia actitud y le resultó personalmente difícil ponerlo en práctica._» (<a id="a60_929"></a>[LU 150:1.3](/es/The_Urantia_Book/150#p1_3))
 
 Durante estos siglos pasados los hombres y mujeres de mente progresista no han perdonado a Pablo este garrafal error.
 
@@ -42,16 +66,40 @@ Una de las conclusiones que podemos sacar de esta película es: ¿La religión d
 
 Las personas que conocen a Dios, y quieran prestar algún servicio en el terreno religioso, están llamadas a ser embajadores de un país celestial, que poco o nada tiene que ver con las cosas de este mundo.
 
-> «_...habéis sido llamados a representarme en el mundo como yo represento a mi Padre. Sois los embajadores espirituales de un reino espiritual, los representantes especiales del Padre del espíritu_». ([LU 142:7.17](/es/The_Urantia_Book/142#p7_17))
+> «_...habéis sido llamados a representarme en el mundo como yo represento a mi Padre. Sois los embajadores espirituales de un reino espiritual, los representantes especiales del Padre del espíritu_». (<a id="a68_202"></a>[LU 142:7.17](/es/The_Urantia_Book/142#p7_17))
 
-> «_Melquisedek......el Hijo visible de Dios, persuadió a Abraham para que abandonara su proyecto de conquistas materiales y de reinado temporal a favor del concepto espiritual del reino de los cielos_». ([LU 93:6.1](/es/The_Urantia_Book/93#p6_1))
+> «_Melquisedek......el Hijo visible de Dios, persuadió a Abraham para que abandonara su proyecto de conquistas materiales y de reinado temporal a favor del concepto espiritual del reino de los cielos_». (<a id="a70_205"></a>[LU 93:6.1](/es/The_Urantia_Book/93#p6_1))
 
 Sin duda Alejandro Amenábar ha estado muy acertado en estos hechos históricos del pasado. Puede ser que, como ocurre en todas las películas, haya algunas escenas exageradas, pero la cruda realidad de la historia muchas veces a ha sido así.
 
 En esta época más adelantada en la que vivimos, es una buena película como punto de referencia para las personas religiosas, para no cometer los mismos errores del pasado.
 
-> «_La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido-la vida y enseñanzas reales de Jesús._» ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> «_La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido-la vida y enseñanzas reales de Jesús._» (<a id="a76_344"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Paradise_and_the_Topology_of_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Paraíso y la topología del espacio: una teoría de la materia última</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_Libro_de_Urantia_un_libro_para_la_esperanza">
+          <span class="pr-2">El Libro de Urantia, un libro para la esperanza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

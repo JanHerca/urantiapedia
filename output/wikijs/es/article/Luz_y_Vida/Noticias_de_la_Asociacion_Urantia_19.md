@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuestionario urantiano: Mariano Pérez</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## XIV Encuentro de Lectores de El Libro De Urantia — “Ágora Nostra”
 
@@ -126,3 +147,24 @@ Hemos trabajado y negociado para poder brindaros este acto, ahora coged vosotros
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuestionario urantiano: Mariano Pérez</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

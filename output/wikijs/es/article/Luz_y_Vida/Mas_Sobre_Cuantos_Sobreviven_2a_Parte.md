@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez, Olga López, Andrés Pérez, Antonio Moya<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_13_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 13 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-13-mayo-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 13 — Mayo 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Poema_al_Ajustador">
+          <span class="pr-2">Poema al Ajustador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -29,9 +53,9 @@ Santi ha dado a entender, en el hilo sobre cuántos sobreviven, que el alma no n
 
 La primera decisión moral trae al Ajustador precisamente para recoger ese valor universal para siempre, y comienza la espiritualización del yo. Esta espiritualización del yo hace nacer el alma. Os copio dos párrafos de 111:2. 
 
-> «_Esta transacción sublime de hacer evolucionar el alma inmortal resulta posible porque la mente mortal es primero personal, y segundo está en contacto con realidades superanimales; posee una dotación supermaterial de ministerio cósmico que asegura la evolución de una naturaleza mortal capaz de tomar decisiones morales, llevando a cabo por ello un contacto creativo auténtico con los ministros espirituales asociados y con el Ajustador del Pensamiento residente._» [LU 111:2.9](/es/The_Urantia_Book/111#p2_9)
+> «_Esta transacción sublime de hacer evolucionar el alma inmortal resulta posible porque la mente mortal es primero personal, y segundo está en contacto con realidades superanimales; posee una dotación supermaterial de ministerio cósmico que asegura la evolución de una naturaleza mortal capaz de tomar decisiones morales, llevando a cabo por ello un contacto creativo auténtico con los ministros espirituales asociados y con el Ajustador del Pensamiento residente._» <a id="a55_469"></a>[LU 111:2.9](/es/The_Urantia_Book/111#p2_9)
 
-> «_El resultado inevitable de tal espiritualización contactual de la mente humana es el nacimiento gradual de un alma, el vástago conjunto de una mente ayudante dominada por una voluntad humana que ansía conocer a Dios, trabajando en unión con las fuerzas espirituales del universo que están bajo el sobrecontrol de un fragmento propiamente dicho del Dios mismo de toda creación —el Monitor de Misterio-. Y así, la realidad material y mortal del yo trasciende las limitaciones temporales de la máquina de vida física y alcanza una expresión nueva y una identificación nueva en el vebiculo en evolución de la continuidad de la individualidad, el alma moroncial e inmortal._» [LU 111:2.10](/es/The_Urantia_Book/111#p2_10)
+> «_El resultado inevitable de tal espiritualización contactual de la mente humana es el nacimiento gradual de un alma, el vástago conjunto de una mente ayudante dominada por una voluntad humana que ansía conocer a Dios, trabajando en unión con las fuerzas espirituales del universo que están bajo el sobrecontrol de un fragmento propiamente dicho del Dios mismo de toda creación —el Monitor de Misterio-. Y así, la realidad material y mortal del yo trasciende las limitaciones temporales de la máquina de vida física y alcanza una expresión nueva y una identificación nueva en el vebiculo en evolución de la continuidad de la individualidad, el alma moroncial e inmortal._» <a id="a57_675"></a>[LU 111:2.10](/es/The_Urantia_Book/111#p2_10)
 
 A ver qué os parece.
 
@@ -41,7 +65,7 @@ Carmelo, si el individuo no «ansía» conocer a Dios, no tiene voluntad o ganas
 
 Como el párrafo mismo indica, la llegada del Ajustador comienza la espiritualización del individuo, y el alma se originará después. Perdonad mi insistencia, pero yo no puedo menos de interpretarlo así.
 
-Y vuelvo a insistir, uno de los pasajes más claros es [LU 112:3.2-4](/es/The_Urantia_Book/112#p3_2), cuando describen los tres tipos de muerte (de supervivencia de la personalidad) ¿Qué sentido tendría facilitarnos información sobre posibilidades teóricas, que si no se llegan a dar nunca, dejarían de ser posibilidades?
+Y vuelvo a insistir, uno de los pasajes más claros es <a id="a67_54"></a>[LU 112:3.2-4](/es/The_Urantia_Book/112#p3_2), cuando describen los tres tipos de muerte (de supervivencia de la personalidad) ¿Qué sentido tendría facilitarnos información sobre posibilidades teóricas, que si no se llegan a dar nunca, dejarían de ser posibilidades?
 
 Si se dieran «anecdóticamente» alguna vez de muy tarde en tarde, pienso que no sería relevante incluirlo en una revelación, cuando por otro lado cada vez nos convencemos más de que TODO lo que está escrito tiene un buen motivo. ¿No os parece?
 
@@ -63,7 +87,7 @@ Santi, me has hecho dudar. Tengo que reflexionar más sobre el asunto del alma. 
 
 **Antonio:** He encontrado este párrafo en el Doc.5, último párrafo del punto 5. No sé si clarificará algo el debate.
 
-> «_La capacidad de los padres mortales para procrear no está basada en su nivel educativo, cultural, social o económico. <ins>***La unión de los factores parentales***</ins> en condiciones naturales es completamente suficiente para dar comienzo a una descendencia. Una mente humana que discierne el bien y el maly que posee la capacidad de adorar a Dios, en unión con un Ajustador divino, <ins>***es todo lo que necesita ese mortal para dar comienzo y fomentar el nacimiento de su alma inmortal***</ins> con sus cualidades de supervivencia, si ese individuo dotado de espiritu busca a Dios y desea sinceramente volverse como él, elige bonradamente hacer la voluntad del Padre que está en los cielos._» [LU 5:5.14](/es/The_Urantia_Book/5#p5_14)
+> «_La capacidad de los padres mortales para procrear no está basada en su nivel educativo, cultural, social o económico. <ins>***La unión de los factores parentales***</ins> en condiciones naturales es completamente suficiente para dar comienzo a una descendencia. Una mente humana que discierne el bien y el maly que posee la capacidad de adorar a Dios, en unión con un Ajustador divino, <ins>***es todo lo que necesita ese mortal para dar comienzo y fomentar el nacimiento de su alma inmortal***</ins> con sus cualidades de supervivencia, si ese individuo dotado de espiritu busca a Dios y desea sinceramente volverse como él, elige bonradamente hacer la voluntad del Padre que está en los cielos._» <a id="a89_703"></a>[LU 5:5.14](/es/The_Urantia_Book/5#p5_14)
 
 Carmelo, lo que expones me parece perfectamente razonable, y estoy contigo.
 
@@ -89,7 +113,7 @@ Pero, ¡caramba! hemos de cubrir ese mínimo, que repito no lo veo relacionado c
 
 **Antonio:** He aquí otro párrafo, esta vez de la vida de Jesús (Doc. 133:6):
 
-> «_El espiritu divino llega al mismo tiempo que la mente humana efectua su primera actividad moral, <ins>y en esa ocasión es cuando nace el alma</ins>._» [LU 133:6.5](/es/The_Urantia_Book/133#p6_5)
+> «_El espiritu divino llega al mismo tiempo que la mente humana efectua su primera actividad moral, <ins>y en esa ocasión es cuando nace el alma</ins>._» <a id="a115_155"></a>[LU 133:6.5](/es/The_Urantia_Book/133#p6_5)
 
 En cuanto al párrafo que envié anteriormente, he aquí el original en inglés:
 
@@ -101,7 +125,7 @@ Pudiera ser que la condición de «buscar a Dios» se necesite para <ins>FOMENTA
 
 **Santiago:** Antonio expresa perfectamente lo que estamos comentando, sólo que yo subrayaría también donde pone:
 
-> «_..Si ese individuo dotado de espiritu busca a Dios y desea sinceramente volverse como él, elige honradamente hacer la voluntad del Padre que está en los cielos_». [LU 5:5.14](/es/The_Urantia_Book/5#p5_14)
+> «_..Si ese individuo dotado de espiritu busca a Dios y desea sinceramente volverse como él, elige honradamente hacer la voluntad del Padre que está en los cielos_». <a id="a127_167"></a>[LU 5:5.14](/es/The_Urantia_Book/5#p5_14)
 
 Carmelo, es cierto que hacer el bien es hacer la voluntad del Padre, siempre que ese bien sea BIEN. El problema está en que a veces lo que nos parece el bien no lo es tanto...
 
@@ -187,7 +211,7 @@ Pero este problema ha sido aliviado por Jesús de Nazaret, que nos mostró el ca
 
 Pero tenemos el Espíritu de la Verdad, el espíritu de la vida de Cristo Jesús que nos ha liberado (si queremos) de la ley del vivir animal, nos ha mostrado el camino de esta liberación. El párrafo siguiente al que cita Santi es claro:
 
-> «_Aquellos hombres y mujeres conocedores de Dios que han nacido del Espiritu, no experimentan más conflictos con sus naturalezas mortales que los habitantes de los mundos más normales, planetas que nunca han sido manchados por el pecado ni tocados por la rebelión. Los hijos de la fe trabajan en niveles intelectuales y viven en planos espirituales muy por encima de los conflictos producidos por deseos físicos desenfrenados o antinaturales. Los deseos normales de los seres animales y los apetitos e impulsos naturales de la naturaleza física no están en conflicto con los logros espirituales incluso más altos excepto en las mentes de personas ignorantes, mal instruidas o lamentablemente escrupulosas._» [LU 34:7.7](/es/The_Urantia_Book/34#p7_7)
+> «_Aquellos hombres y mujeres conocedores de Dios que han nacido del Espiritu, no experimentan más conflictos con sus naturalezas mortales que los habitantes de los mundos más normales, planetas que nunca han sido manchados por el pecado ni tocados por la rebelión. Los hijos de la fe trabajan en niveles intelectuales y viven en planos espirituales muy por encima de los conflictos producidos por deseos físicos desenfrenados o antinaturales. Los deseos normales de los seres animales y los apetitos e impulsos naturales de la naturaleza física no están en conflicto con los logros espirituales incluso más altos excepto en las mentes de personas ignorantes, mal instruidas o lamentablemente escrupulosas._» <a id="a213_710"></a>[LU 34:7.7](/es/The_Urantia_Book/34#p7_7)
 
 La pregunta ahora es: si tenemos el mensaje de Jesús, ¿hay excusa para alegar desconocimiento? Y yo respondo a la gallega ¿tenemos todos realmente el mensaje de Jesús?
 
@@ -208,3 +232,27 @@ Por eso pienso que a Dios nada le sobra ni le falta, y con el tiempo y una caña
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_13_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 13 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-13-mayo-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 13 — Mayo 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Poema_al_Ajustador">
+          <span class="pr-2">Poema al Ajustador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

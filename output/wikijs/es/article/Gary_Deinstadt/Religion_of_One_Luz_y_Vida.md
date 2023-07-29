@@ -9,12 +9,36 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Rev. Gary Deinstadt<br>© 2014 Olga López, por la traducción<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_38_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 38 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-38-diciembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 38 — Diciembre 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="pr-2">Reflexiones para los lectores de El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Del rev. Gary Deinstadt (Somers, Nueva York)
 
 (Publicado en el número de verano de 2013 del Fellowship Herald)
 
-> La verdadera religión debe ser siempre y al mismo tiempo el eterno fundamento y la estrella orientadora de todas las civilizaciones duraderas. (Melquisedec de Nebadon) [LU 92:7.15](/es/The_Urantia_Book/92#p7_15)
+> La verdadera religión debe ser siempre y al mismo tiempo el eterno fundamento y la estrella orientadora de todas las civilizaciones duraderas. (Melquisedec de Nebadon) <a id="a40_170"></a>[LU 92:7.15](/es/The_Urantia_Book/92#p7_15)
 
 La evolución y el estatus de la civilización progresiva determinan el tiempo y el lugar de las misiones planetarias de los Hijos divinos. _El Libro de Urantia_ nos dice que la revelación religiosa es esencial para que la hermandad se haga realidad, que no sólo requiere algo de presión espiritual desde arriba, sino algunos actos progresivos por nuestra parte. Entonces, ¿cómo comenzamos en el presente a considerar maneras en las que podamos trabajar mejor juntos, junto con la revelación, para llevar a cabo la meta final de la sociedad de «una» religión?
 
@@ -35,7 +59,7 @@ El Dios como «uno» se despojó amorosamente de todo él para su creación en a
 > 2. *La fecundación intelectual cruzada*. La fraternidad es imposible en un mundo cuyos habitantes son tan primitivos que no logran reconocer la locura del egoismo sin freno. Debe producirse un intercambio de literatura nacional y racial. Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. La ignorancia engendra la desconfianza, y la desconfianza es incompatible con la actitud esencial de simpatía y de amor.
 > 3. *El despertar ético*. Sólo una conciencia ética puede desenmascarar la inmoralidad de la intolerancia humana y lo pecaminoso de las luchas fratricidas. Sólo una conciencia moral puede condenar los males de la envidia nacional y de los celos raciales. Sólo unos seres morales buscarán siempre esa perspicacia espiritual que es esencial para vivir la regla de oro.
 > 4. *La sabiduría política*. La madurez emocional es esencial para el dominio de sí mismo. Sólo la madurez emocional puede asegurar que las técnicas internacionales del juicio civilizado sustituirán al arbitraje bárbaro de la guerra. Los estadistas sabios trabajarán algún día por el bienestar de la humanidad aunque sigan esforzándose por promover el interés de sus grupos nacionales o raciales. La sagacidad política egoista es finalmente suicida —perjudicial para todas aquellas cualidades duraderas que aseguran la supervivencia colectiva planetaria.
-> 5. *La perspicacia espiritual*. La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de **aplicar una presión espiritual desde arriba**, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres. [LU 52:6.2-7](/es/The_Urantia_Book/52#p6_2) (Negrita añadida)
+> 5. *La perspicacia espiritual*. La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de **aplicar una presión espiritual desde arriba**, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres. <a id="a61_744"></a>[LU 52:6.2-7](/es/The_Urantia_Book/52#p6_2) (Negrita añadida)
 
 Entonces, hoy en Urantia, ¿cómo trabajamos con la presión espiritual desde arriba a la vez que elevamos la capacidad del alma de amar y de comprendernos mejor? Al parecer, necesitaremos abrazar las transformaciones personales antes mencionadas, la multiplicación del comercio y del contacto internacional, que cada raza y cada religión estén familiarizadas con los pensamientos y sentimientos de todas las razas y religiones. Con todas las religiones organizadas que tenemos en el mundo hoy día, ¿cómo comenzamos a construir una a partir de tantas? Probablemente, la respuesta común de la mayoría de comunidades religiosas, incluyendo la nuestra, sería que la mejor manera de poder conseguir dicha unidad es concentrarnos en nuestros puntos en común. Creo que hay parte de verdad en ello. Sí que nos pone en el punto de partida para llegar a conocernos y trabajar más eficazmente entre nosotros. Nos da un lugar desde el que comenzar, pero veo que centrarnos en los puntos en común nos limita mucho. Es mirar a nuestra realidad desde las limitaciones de nuestra perspectiva y nuestras experiencias.
 
@@ -49,9 +73,9 @@ Apoyarnos solamente en los puntos comunes de las religiones del mundo no nos lle
 
 Cuando consideramos los éxitos y fracasos de revelaciones pasadas, podemos determinar que la quinta revelación de época por sí sola difícilmente dará lugar a una raza, un idioma o una religión. Dalamatia sólo duró 300.000 años y pronto se desvió una vez estalló la rebelión. La misión de Adán y Eva básicamente fracasó. El otorgamiento de Maquiventa fue una misión de emergencia. Acabamos crucificando a nuestro propio Hijo Creador y parece demasiado pronto para predecir lo lejos que nos llevarán los Documentos Urantia. Parece que, antes de que podamos acercarnos a tener una única religión, un único idioma, etc., se va a necesitar más revelación y más presión espiritual desde arriba.
 
-_El Libro de Urantia_ nos dice que, si nos comparamos con un mundo evolutivo normal, probablemente estemos más cerca de parecernos a la edad posadánica. «_Un gran progreso ético caracteriza a esta era; la fraternidad entre los hombres es la meta de su sociedad._» [LU 52:3.12](/es/The_Urantia_Book/52#p3_12) También en la edad posadánica, se dice que esas edades se caracterizan por nuevas revelaciones de la verdad, y que «_los Altísimos de las constelaciones empiezan a gobernar en los asuntos de los hombres. La verdad es revelada hasta englobar la administración de las constelaciones._» [LU 52:3.11](/es/The_Urantia_Book/52#p3_11)
+_El Libro de Urantia_ nos dice que, si nos comparamos con un mundo evolutivo normal, probablemente estemos más cerca de parecernos a la edad posadánica. «_Un gran progreso ético caracteriza a esta era; la fraternidad entre los hombres es la meta de su sociedad._» <a id="a75_264"></a>[LU 52:3.12](/es/The_Urantia_Book/52#p3_12) También en la edad posadánica, se dice que esas edades se caracterizan por nuevas revelaciones de la verdad, y que «_los Altísimos de las constelaciones empiezan a gobernar en los asuntos de los hombres. La verdad es revelada hasta englobar la administración de las constelaciones._» <a id="a75_592"></a>[LU 52:3.11](/es/The_Urantia_Book/52#p3_11)
 
-Casi al final de la siguiente edad magisterial de un planeta normal, se lee: «_No hay problemas de razas ni de color; todas las naciones y todas las razas son literalmente de una sola sangre. La fraternidad entre los hombres florece y las naciones aprenden a vivir en el mundo en paz y tranquilidad._» [LU 52:4.1](/es/The_Urantia_Book/52#p4_1) En la edad posterior al Hijo otorgador, se dice: «_Bajo la influencia espiritual de estas épocas, el carácter humano sufre unas transformaciones enormes y experimenta un desarrollo espectacular. Resulta posible poner en práctica la regla de oro._» [LU 52:5.8](/es/The_Urantia_Book/52#p5_8) «_Hay muchas naciones, determinadas principalmente por la distribución de las tierras, pero sólo hay una raza, un idioma y una religión._» [LU 52:5.10](/es/The_Urantia_Book/52#p5_10) ¿Justo ahora resulta posible poner en práctica la regla de oro?
+Casi al final de la siguiente edad magisterial de un planeta normal, se lee: «_No hay problemas de razas ni de color; todas las naciones y todas las razas son literalmente de una sola sangre. La fraternidad entre los hombres florece y las naciones aprenden a vivir en el mundo en paz y tranquilidad._» <a id="a77_302"></a>[LU 52:4.1](/es/The_Urantia_Book/52#p4_1) En la edad posterior al Hijo otorgador, se dice: «_Bajo la influencia espiritual de estas épocas, el carácter humano sufre unas transformaciones enormes y experimenta un desarrollo espectacular. Resulta posible poner en práctica la regla de oro._» <a id="a77_592"></a>[LU 52:5.8](/es/The_Urantia_Book/52#p5_8) «_Hay muchas naciones, determinadas principalmente por la distribución de las tierras, pero sólo hay una raza, un idioma y una religión._» <a id="a77_773"></a>[LU 52:5.10](/es/The_Urantia_Book/52#p5_10) ¿Justo ahora resulta posible poner en práctica la regla de oro?
 
 ### Como preparación para la segunda revelación en Urantia, ¿qué tuvo que suceder o estar en su lugar antes de que llegaran Adán y Eva?
 
@@ -69,7 +93,7 @@ El monoteísmo era la creencia general. La ubicación estaba centrada en Jerusal
 
 > _La centralización del culto judio en el templo de Jerusalén constituyó tanto el secreto de la supervivencia de su monoteísmo como la promesa de que alimentaría y difundiría por el mundo un nuevo concepto ampliado de ese Dios único de todas las naciones y Padre de todos los mortales. El servicio del templo en Jerusalén representaba la supervivencia de un concepto cultural religioso en presencia de la caída de una serie de jefes nacionales y perseguidores raciales gentiles._
 >
-> _Aunque el pueblo judio de esta época estuviera bajo la soberanía romana, gozaba de una gran autonomía gubernamental. Y cuando recordaba los actos heroicos de liberación, entonces recientes, de Judas Macabeo y de sus sucesores inmediatos, vibraba con la expectativa de la aparición inminente de un libertador aún más grande, el tan esperado Mesías._ [LU 121:2.6-7](/es/The_Urantia_Book/121#p2_6)
+> _Aunque el pueblo judio de esta época estuviera bajo la soberanía romana, gozaba de una gran autonomía gubernamental. Y cuando recordaba los actos heroicos de liberación, entonces recientes, de Judas Macabeo y de sus sucesores inmediatos, vibraba con la expectativa de la aparición inminente de un libertador aún más grande, el tan esperado Mesías._ <a id="a95_352"></a>[LU 121:2.6-7](/es/The_Urantia_Book/121#p2_6)
 
 Al revelarse, obviamente, Dios nos necesita tanto como nosotros a él.
 
@@ -89,13 +113,13 @@ Un domingo, un pastor presbiteriano comenzó su sermón diciendo: «Cuando me le
 
 Seguiremos cometiendo el error de revelar demasiado o demasiado poco si no aprendemos más sobre las experiencias religiosas y el trasfondo religioso de nuestros semejantes. Se necesita mucho más que simplemente saber en qué creen. Ustedes necesitan una mayor conciencia de la base religiosa de cada uno antes de poder intentar construir sobre ella. También es importante tener en cuenta que la persona a la que le revelan algo tiene lo mismo que darles, tanto como ustedes tienen que darle. No cometan el error de pensar que tienen algo más que ofrecer que él o ella. Esta actitud puede llevar a un sentido exagerado del yo y dificultar llegar adonde están los demás. Cuando llegamos adonde los demás están en realidad, podemos comprender mejor lo que realmente necesitan, en lugar de darles lo que pensamos que necesitan. Dentro del acto de dar, de ayudar o de enseñar, vive la oportunidad de un nuevo crecimiento. Al aprender descubrimos, ¿y no es interesante lo que sigue a cada descubrimiento? Lo que sigue es la comprensión de cuánto queda por aprender. Aprender más crea la oportunidad de dar más, ¿y quién nos comprendió y nos dio más que Jesús?
 
-> _Mientras que Jesús y los siete se demoraban así antes de lanzarse a su predicación pública activa, pasaban dos noches por semana en la sinagoga estudiando las escrituras hebreas. Años más tarde, después de intensos períodos de trabajo público, los apóstoles recordarían estos cuatro meses como los más preciosos y provechosos de toda su asociación con el Maestro. Jesús enseñó a estos hombres todo lo que podían asimilar. No cometió el error de enseñarles con exceso. No los precipitó en la confusión presentándoles una verdad que sobrepasara demasiado su capacidad de comprensión._ [LU 137:7.14](/es/The_Urantia_Book/137#p7_14)
+> _Mientras que Jesús y los siete se demoraban así antes de lanzarse a su predicación pública activa, pasaban dos noches por semana en la sinagoga estudiando las escrituras hebreas. Años más tarde, después de intensos períodos de trabajo público, los apóstoles recordarían estos cuatro meses como los más preciosos y provechosos de toda su asociación con el Maestro. Jesús enseñó a estos hombres todo lo que podían asimilar. No cometió el error de enseñarles con exceso. No los precipitó en la confusión presentándoles una verdad que sobrepasara demasiado su capacidad de comprensión._ <a id="a115_586"></a>[LU 137:7.14](/es/The_Urantia_Book/137#p7_14)
 
 Una de las mejores maneras en que podemos revelar a los demás es convertirnos en uno de ellos, justo como hicieron Melquisedec, Adán y Eva, y Jesús. Por supuesto que es un poco diferente para nosotros, pero el principio es el mismo. De alguna forma, ¿no es lo que los autores se esforzaron por hacer con los Documentos Urantia llegar hasta donde estábamos?
 
-> _La gente corriente escuchaba a Jesús con placer, y responderán de nuevo a la presentación de su vida humana sincera de motivación religiosa consagrada, si estas verdades se proclaman de nuevo en el mundo. La gente lo escuchaba con placer porque era uno de ellos, un laico sin pretensiones; el instructor religioso más grande del mundo fue en verdad un laico._ [LU 196:1.4](/es/The_Urantia_Book/196#p1_4)
+> _La gente corriente escuchaba a Jesús con placer, y responderán de nuevo a la presentación de su vida humana sincera de motivación religiosa consagrada, si estas verdades se proclaman de nuevo en el mundo. La gente lo escuchaba con placer porque era uno de ellos, un laico sin pretensiones; el instructor religioso más grande del mundo fue en verdad un laico._ <a id="a119_363"></a>[LU 196:1.4](/es/The_Urantia_Book/196#p1_4)
 >
-> _El Maestro procedió entonces a prevenir a sus oyentes contra el mantenimiento de la idea de que todas las antiguas enseñanzas tenían que ser totalmente reemplazadas por las nuevas doctrinas. Jesús dijo: «Lo que es antiguo, pero también *verdadero*, debe permanecer. De la misma manera, lo que es nuevo, pero falso, debe ser rechazado. Tened la fe y el valor de aceptar lo que es nuevo y también verdadero. Recordad que está escrito: ‘No abandonéis a un viejo amigo, porque el nuevo no es comparable con él. Un amigo nuevo es como el vino nuevo; si se vuelve viejo, lo beberéis con alegría’.»_ [LU 147:7.3](/es/The_Urantia_Book/147#p7_3)
+> _El Maestro procedió entonces a prevenir a sus oyentes contra el mantenimiento de la idea de que todas las antiguas enseñanzas tenían que ser totalmente reemplazadas por las nuevas doctrinas. Jesús dijo: «Lo que es antiguo, pero también *verdadero*, debe permanecer. De la misma manera, lo que es nuevo, pero falso, debe ser rechazado. Tened la fe y el valor de aceptar lo que es nuevo y también verdadero. Recordad que está escrito: ‘No abandonéis a un viejo amigo, porque el nuevo no es comparable con él. Un amigo nuevo es como el vino nuevo; si se vuelve viejo, lo beberéis con alegría’.»_ <a id="a121_596"></a>[LU 147:7.3](/es/The_Urantia_Book/147#p7_3)
 
 ¡Hay revelación por todas partes y no es necesario escarbar muy lejos para encontrarla! Las religiones del mundo inspiran y motivan continuamente. Todas nos piden que busquemos a Dios, que busquemos la perfección. Todas nos piden que practiquemos la «regla de oro». Continúan proporcionando terreno fértil para obtener los frutos finales de la revelación futura, lo bastante fértil para que la quinta revelación de época eche raíces. Por ejemplo: 
 
@@ -136,7 +160,7 @@ Los sufíes, que estaban alarmados por la mundanidad que veían que se estaba ap
 
 ¿Sabían que la profusión de dioses del hinduismo es simplemente las muchas caras y papeles del único Dios? 
 
-En el confucianismo, «_La ley moral comienza en la relación entre el hombre y la mujer, pero termina en el vasto alcance del universo_».[^13] Define la manera en que las acciones presentes se propagan en un vasto universo de posibilidades infinitas. Un poco más allá: «_El acto es nuestro; las consecuencias, de Dios_» [LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
+En el confucianismo, «_La ley moral comienza en la relación entre el hombre y la mujer, pero termina en el vasto alcance del universo_».[^13] Define la manera en que las acciones presentes se propagan en un vasto universo de posibilidades infinitas. Un poco más allá: «_El acto es nuestro; las consecuencias, de Dios_» <a id="a162_319"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
 
 En el taoísmo —el camino de la realidad definitiva— todo está habitado en el interior. Resalta la importancia de alcanzar la armonía interior con lo definitivo de la realidad.
 
@@ -150,10 +174,35 @@ Aquí sólo estoy rascando la superficie. Obviamente, hay teología pasada de mo
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 - Original de la [Fellowship Herald, número de verano de 2013](/es/article/Gary_Deinstadt/Religion_of_One).
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_38_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 38 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-38-diciembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 38 — Diciembre 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="pr-2">Reflexiones para los lectores de El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notas
 
 [^1]: Bill Watson, _Calvin & Hobbes_, Universal Press Syndicate, 1987
-[^2]: Para obtener más información, consulte [Documento 38: sección 5, párrafos 1-4](/es/The_Urantia_Book/38#p5_1)
+[^2]: Para obtener más información, consulte <a id="a204_45"></a>[Documento 38: sección 5, párrafos 1-4](/es/The_Urantia_Book/38#p5_1)
 [^3]: Entre 1955 y 2010, la Constitución de la Fellowship requería que el Comité de Educación capacitara a instructores y líderes. Desde entonces se ha cambiado.
 [^4]: [Deuteronomio 6:4-8 NVI](/es/Bible/Deuteronomy/6#v4)
 [^5]: [Marcos 12:29-1 NVI](/es/Bible/Mark/12#v29)

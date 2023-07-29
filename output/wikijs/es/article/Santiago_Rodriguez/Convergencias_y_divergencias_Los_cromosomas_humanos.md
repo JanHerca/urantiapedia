@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Santiago Rodríguez<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ni laicismo ni religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-27-diciembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 27 — Diciembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_10">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-En esta segunda entrega de «Convergencias y Divergencias» abordaremos un tema curiosamente controvertido. En el Documento 36, «Los Portadores de Vida», sección 2, **LOS MUNDOS DE LOS PORTADORES DE VIDA**, [LU 36:2](/es/The_Urantia_Book/36#p2), podemos leer, y copio literalmente:
 
-> _...Hay también siete tipos arquitectónicos de diseño de vida, las combinaciones fundamentales de las configuraciones reproductoras de la materia viviente. Los modelos de vida de Orvonton están configurados bajo la forma de doce portadores de la herencia. Las diferentes órdenes de criaturas volitivas están configuradas según los números 12, 24, 48, 96, 192, 384 y 768. En Urantia hay cuarentay ocho unidades de control arquetípico - de determinadores de las características- en las células sexuales de la reproducción humana..._ [LU 36:2.11](/es/The_Urantia_Book/36#p2_11)
+En esta segunda entrega de «Convergencias y Divergencias» abordaremos un tema curiosamente controvertido. En el Documento 36, «Los Portadores de Vida», sección 2, **LOS MUNDOS DE LOS PORTADORES DE VIDA**, <a id="a36_205"></a>[LU 36:2](/es/The_Urantia_Book/36#p2), podemos leer, y copio literalmente:
+
+> _...Hay también siete tipos arquitectónicos de diseño de vida, las combinaciones fundamentales de las configuraciones reproductoras de la materia viviente. Los modelos de vida de Orvonton están configurados bajo la forma de doce portadores de la herencia. Las diferentes órdenes de criaturas volitivas están configuradas según los números 12, 24, 48, 96, 192, 384 y 768. En Urantia hay cuarentay ocho unidades de control arquetípico - de determinadores de las características- en las células sexuales de la reproducción humana..._ <a id="a38_533"></a>[LU 36:2.11](/es/The_Urantia_Book/36#p2_11)
 
 De la lectura de este texto, lo primero que me acude a la mente es que los Reveladores (en este caso un Hijo Vorondadek) están aludiendo a lo que hoy comúnmente denominamos «cromosomas»... ¿o no os lo parece así?
 
@@ -71,3 +95,27 @@ En sucesivas entregas de esta sección tendremos la oportunidad de comentar situ
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ni laicismo ni religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-27-diciembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 27 — Diciembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_10">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

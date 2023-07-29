@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mariano_Perez/Lugares_Santos_Segunda_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Lugares Santos? (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-12-febrero-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 12 — Febrero 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_1a_Parte">
+          <span class="pr-2">Más sobre cuántos sobreviven (primera parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -57,7 +81,7 @@ Con esto quizá de manera «teórica» responda a mi pregunta, y quizá lo que s
 
 Es una sensación que afortunadamente casi he superado. Hago lo que creo que debo hacer y dejo el resto al «destino». Esa sensación es una trampa de nuestra mente. Pensamos que hay cosas que dependen exclusivamente de nosotros y que no podemos fallar. Pero las cosas no son así; hay una providencia.
 
-Copio una cita que creo viene al caso; está en [LU 39:4.13](/es/The_Urantia_Book/39#p4_13) (documento 39). Dice así: «_...es la experiencia de vivir esta vida lo importante. Incluso el trabajo en este mundo, aunque es primordial, no es ni con mucho tan importante como la manera en que haces este trabajo..._». Nuestro trabajo efectivo para la creación, para el desarrollo del Supremo, en este mundo y en esta vida es nulo o casi, excepto por el crecimiento personal que somos capaces de hacer por nosotros mismos y en nosotros mismos. A mi entender, esto es lo que se espera de nosotros, como te decía Antonio.
+Copio una cita que creo viene al caso; está en <a id="a83_47"></a>[LU 39:4.13](/es/The_Urantia_Book/39#p4_13) (documento 39). Dice así: «_...es la experiencia de vivir esta vida lo importante. Incluso el trabajo en este mundo, aunque es primordial, no es ni con mucho tan importante como la manera en que haces este trabajo..._». Nuestro trabajo efectivo para la creación, para el desarrollo del Supremo, en este mundo y en esta vida es nulo o casi, excepto por el crecimiento personal que somos capaces de hacer por nosotros mismos y en nosotros mismos. A mi entender, esto es lo que se espera de nosotros, como te decía Antonio.
 
 La sensación que describes es el resultado de una mente sobre-responsable (y en mi caso, a veces, también de la mala conciencia por no haber hecho todo lo que debía y podía), algo que es malo sin duda. Sé sincero y leal contigo mismo, haz todo lo que tu mente y tu espíritu te dicten... y abandónate en brazos del Padre. No te agobies con «posibilidades»; actúa y confía.
 
@@ -73,3 +97,27 @@ Bueno, pues yo os comento que cuando tengáis incertidumbres os leáis las inevi
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mariano_Perez/Lugares_Santos_Segunda_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Lugares Santos? (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-12-febrero-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 12 — Febrero 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_1a_Parte">
+          <span class="pr-2">Más sobre cuántos sobreviven (primera parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

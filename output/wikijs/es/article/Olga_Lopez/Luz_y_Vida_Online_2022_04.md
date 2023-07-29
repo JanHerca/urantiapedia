@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04">
+          <span class="pr-2">Luz y Vida — Abril 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -283,7 +304,7 @@ Está en el documento 144 y dice así:
 > Y perdónanos nuestras deudas<br>
 > Como nosotros también hemos perdonado a nuestros deudores.<br>
 > Sálvanos de la tentación, líbranos del mal,<br>
-> Y haznos cada vez más perfectos como tú mismo. [LU 144:3.3-12](/es/The_Urantia_Book/144#p3_3) 
+> Y haznos cada vez más perfectos como tú mismo. <a id="a306_49"></a>[LU 144:3.3-12](/es/The_Urantia_Book/144#p3_3) 
 
 Pues sí, en _El Libro de Urantia_ aparecen las palabras deudas/deudores, igual que el Padre nuestro anterior a 1986 (en el original inglés, _debt_/_debtors_). Además, aparecen frases que no aparece en el Padre nuestro católico: Vivifica nuestra alma con el agua de la vida y Haznos cada vez más perfectos como tú mismo.
 
@@ -300,7 +321,7 @@ Jordi Prat
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="Mi párrafo favorito-Jordi Prat">
 </figure>
 
-_Las transcripciones de la mente del mortal y los patrones activos de la memoria de la criatura, transformados de los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento que se ha desligado. Esos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador. La matriz-mente de la criatura y sus potenciales pasivos de identidad están presentes en el alma de morontia confiada al cuidado de las guardianas seráficas del destino. Y es la reunión del alma-morontia confiada a las serafines y la mente-espíritu confiada al Ajustador lo que reensambla la personalidad de la criatura y supone la resurrección de un superviviente durmiente_. [LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
+_Las transcripciones de la mente del mortal y los patrones activos de la memoria de la criatura, transformados de los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento que se ha desligado. Esos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador. La matriz-mente de la criatura y sus potenciales pasivos de identidad están presentes en el alma de morontia confiada al cuidado de las guardianas seráficas del destino. Y es la reunión del alma-morontia confiada a las serafines y la mente-espíritu confiada al Ajustador lo que reensambla la personalidad de la criatura y supone la resurrección de un superviviente durmiente_. <a id="a323_743"></a>[LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
 
 En este párrafo explica claramente que en el momento de la muerte, el Ajustador custodia la personalidad («son posesión individual del Ajustador del Pensamiento que se ha desligado. Estos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador»).
 
@@ -375,3 +396,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04">
+          <span class="pr-2">Luz y Vida — Abril 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

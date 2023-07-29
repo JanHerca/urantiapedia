@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jose A. Rodríguez Jorge<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_Libro_de_Urantia_un_libro_para_la_esperanza">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia, un libro para la esperanza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kurtz/Reflexion_Personal">
+          <span class="pr-2">Reflexión personal (verdadero, falso, no lo sé)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Del Sol vengo
 Y mientras vivo
@@ -44,3 +68,27 @@ Al Amor regreso.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_Libro_de_Urantia_un_libro_para_la_esperanza">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia, un libro para la esperanza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kurtz/Reflexion_Personal">
+          <span class="pr-2">Reflexión personal (verdadero, falso, no lo sé)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

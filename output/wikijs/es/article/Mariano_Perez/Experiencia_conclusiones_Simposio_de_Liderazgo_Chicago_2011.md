@@ -9,16 +9,40 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Mariano Pérez<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El liderazgo en el movimiento Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Si_no_soy_yo_quien">
+          <span class="pr-2">Si no soy yo, ¿quién?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 OPORTUNIDAD DE COMPROBAR LA HERMANDAD A NIVEL MUNDIAL DEL MOVIMIENTO SOBRE EL LIBRO DE URANTIA.
 
-> «_...La persona religiosa sincera tiene conciencia de ser ciudadana del universo y se da cuenta de que se pone en contacto con unas fuentes de poder sobrehumano. Se siente emocionada y estimulada ante la seguridad de pertenecer a una hermandad superior y ennoblecida de hijos de Dios..._» ([LU 100:6.3](/es/The_Urantia_Book/100#p6_3))
+> «_...La persona religiosa sincera tiene conciencia de ser ciudadana del universo y se da cuenta de que se pone en contacto con unas fuentes de poder sobrehumano. Se siente emocionada y estimulada ante la seguridad de pertenecer a una hermandad superior y ennoblecida de hijos de Dios..._» (<a id="a38_292"></a>[LU 100:6.3](/es/The_Urantia_Book/100#p6_3))
 
 CONDUCTA, ACTITUD, COMPROMISO DE LOS PARTICIPANTES ANTE LA 5ª REVELACIÓN. CASI TODOS LOS PARTICIPANTES DESARROLLABAN ALGUNA LABOR PARA LA CONTRIBUCION DEL CONOCIMIENTO DEL LIBRO Y SUS ENSEÑANZAS.
 
-> «_El yo se ha abandonado al impulso misterioso de una motivación que lo abarca todo, que impone una autodisciplina más intensa, disminuye los conflictos emocionales y hace que la vida mortal sea digna de ser vivida..._» ([LU 100:6.4](/es/The_Urantia_Book/100#p6_4))
+> «_El yo se ha abandonado al impulso misterioso de una motivación que lo abarca todo, que impone una autodisciplina más intensa, disminuye los conflictos emocionales y hace que la vida mortal sea digna de ser vivida..._» (<a id="a42_223"></a>[LU 100:6.4](/es/The_Urantia_Book/100#p6_4))
 
-> «_La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres..._» ([LU 100:3.1](/es/The_Urantia_Book/100#p3_1))
+> «_La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres..._» (<a id="a44_262"></a>[LU 100:3.1](/es/The_Urantia_Book/100#p3_1))
 
 Para mí, el Simposio de Liderazgo de Chicago fue la manifestación más numerosa de almas leales a los objetivos y a los principios de los reveladores. A buen seguro nos observaban con satisfacción, convencidos de que la semilla que sembraron en las primeras décadas del siglo pasado en la ciudad de Chicago estaba dando sus frutos. Pero sería injusto enaltecer este encuentro a nivel mundial y menospreciar cualquier otro tipo de evento relacionado con la 5ª revelación.
 
@@ -34,9 +58,9 @@ Pero los que no pertenecen a ningún grupo de estudio se pueden preguntar: ¿Y c
 
 En primer lugar, para contestar a esto habría que preguntar al que así piensa: ¿Tú quieres hacer la voluntad del Padre? ¿Tú quieres llegar a ser como Él? Entonces tendrás que desarrollar una de sus cualidades amorosas: COMPARTIR.
 
-> «_La personalidad divina no es egocéntrica; la distribución de sí misma y el compartir la personalidad caracterizan la individualidad divina con libre albedrío. Las criaturas anhelan asociarse con otras criaturas personales; los Creadores se sienten inducidos a compartir la divinidad con sus hijos del universo; la personalidad del Infinito se revela bajo la forma de Padre Universal, el cual comparte la realidad de su ser y la igualdad de su yo con dos personalidades coordinadas, el Hijo Eterno y el Actor Conjunto._» ([LU 10:1.3](/es/The_Urantia_Book/10#p1_3))
+> «_La personalidad divina no es egocéntrica; la distribución de sí misma y el compartir la personalidad caracterizan la individualidad divina con libre albedrío. Las criaturas anhelan asociarse con otras criaturas personales; los Creadores se sienten inducidos a compartir la divinidad con sus hijos del universo; la personalidad del Infinito se revela bajo la forma de Padre Universal, el cual comparte la realidad de su ser y la igualdad de su yo con dos personalidades coordinadas, el Hijo Eterno y el Actor Conjunto._» (<a id="a60_525"></a>[LU 10:1.3](/es/The_Urantia_Book/10#p1_3))
 
-> «_Los seres morontiales ascendentes aprenden a socializar sus anhelos y ambiciones, que fueran antes puramente egoistas y egocéntricos_». [LU 44:8.4](/es/The_Urantia_Book/44#p8_4)
+> «_Los seres morontiales ascendentes aprenden a socializar sus anhelos y ambiciones, que fueran antes puramente egoistas y egocéntricos_». <a id="a62_140"></a>[LU 44:8.4](/es/The_Urantia_Book/44#p8_4)
 
 Compartir es una virtud o cualidad divina, sin lugar a dudas, y cuando se trata de compartir los conocimientos de la revelación de la Verdad, aunque sea una Verdad parcial, hacen que ese acto sea supremo. Pero no solo por el hecho de compartir sin mas, que ya es positivo de por sí, sino porque en los grupos de estudio, en sus reuniones, todos aprendemos unos de otros. Se estudia el libro en verdad, se analiza, se intercambian opiniones, diferentes puntos de vista, que hacen que nos enriquezcamos con los demás. En mi andadura por el grupo de estudio al que pertenezco, he comprobado en multitud de ocasiones esto que acabo de decir. Por ejemplo: Tenía una idea propia sobre cualquier concepto o frase del libro, y después de oír las distintas intervenciones he cambiado mi forma de ver la idea que tenia preconcebida, o incluso la he comprendido porque no la comprendía bien, o en otros casos la he ampliado.
 
@@ -67,3 +91,27 @@ En este sentido, el Simposio de Liderazgo, (esta a veces malinterpretada palabra
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El liderazgo en el movimiento Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Si_no_soy_yo_quien">
+          <span class="pr-2">Si no soy yo, ¿quién?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

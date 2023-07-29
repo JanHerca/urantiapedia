@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Olga López<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_37_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 37 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="pr-2">El Otorgamiento de Miguel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El XIII Encuentro de lectores comenzó a las 6 de la tarde del viernes 23 de mayo en el hotel Abba Acteón de Valencia. Este año se ha querido celebrar allí el Encuentro como una manera de reconocer el gran trabajo que están haciendo un entusiasta grupo de lectores valencianos, que han creado un grupo de estudio que se reúne todos los domingos en la capital del Turia y cuyo número va en aumento.
 
@@ -22,10 +46,10 @@ En la reunión inaugural, se repartió el material que iba a ser utilizado en el
 
 El sábado 24 fue el día de los talleres. Los asistentes formaron grupos de 5 ó 6 personas alrededor de los facilitadores. Estos fueron los pasajes sobre los que se pidió a los asistentes que profundizaran:
 
-- Discurso sobre la verdadera religión (Documento 155, [LU 155:5.6](/es/The_Urantia_Book/155#p5_6) - [LU 155:5.13](/es/The_Urantia_Book/155#p5_13)).
-- La parábola del propietario de las viñas (Documento 163, [LU 163:3.5](/es/The_Urantia_Book/163#p3_5) - [LU 163:3.7](/es/The_Urantia_Book/163#p3_7))
-- La parábola de las minas (Documento 171, [LU 171:8.3](/es/The_Urantia_Book/171#p8_3) - [LU 171:8.6](/es/The_Urantia_Book/171#p8_6))
-- El último discurso en el templo (Documento 175, [LU 175:1.1](/es/The_Urantia_Book/175#p1_1) - [LU 175:1.24](/es/The_Urantia_Book/175#p1_24))
+- Discurso sobre la verdadera religión (Documento 155, <a id="a48_55"></a>[LU 155:5.6](/es/The_Urantia_Book/155#p5_6) - <a id="a48_101"></a>[LU 155:5.13](/es/The_Urantia_Book/155#p5_13)).
+- La parábola del propietario de las viñas (Documento 163, <a id="a49_59"></a>[LU 163:3.5](/es/The_Urantia_Book/163#p3_5) - <a id="a49_105"></a>[LU 163:3.7](/es/The_Urantia_Book/163#p3_7))
+- La parábola de las minas (Documento 171, <a id="a50_43"></a>[LU 171:8.3](/es/The_Urantia_Book/171#p8_3) - <a id="a50_89"></a>[LU 171:8.6](/es/The_Urantia_Book/171#p8_6))
+- El último discurso en el templo (Documento 175, <a id="a51_50"></a>[LU 175:1.1](/es/The_Urantia_Book/175#p1_1) - <a id="a51_96"></a>[LU 175:1.24](/es/The_Urantia_Book/175#p1_24))
 
 Para hacer más ágil esta actividad, se hizo siguiendo el siguiente proceso para cada uno de los discursos y parábolas.
 
@@ -77,3 +101,27 @@ El Encuentro ya es historia, pero su recuerdo nos da fuerzas para continuar con 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_37_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 37 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="pr-2">El Otorgamiento de Miguel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

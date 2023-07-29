@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="pr-2">Luz y Vida — Febrero 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -262,7 +283,7 @@ Me he decantado por uno que más que un párrafo para mí es como un mantra, pue
 Lo he elegido por su sencillez, y porque no se puede decir más en tan pocas palabras, el párrafo es:
 
 
-> «Con Dios todo es posible.» [LU 163:3.2](/es/The_Urantia_Book/163#p3_2)
+> «Con Dios todo es posible.» <a id="a285_30"></a>[LU 163:3.2](/es/The_Urantia_Book/163#p3_2)
 > 
 
 Desde que lo leí por primera vez me impactó, pero cuando lo volví a leer me di cuenta de que engloba la verdad, la belleza y la bondad, siempre hablo de una forma subjetiva.  Verdad porque solo hay que leer la frase para comprender que es absoluta verdad. La belleza está en su sencillez, pues para mí la sencillez es belleza; y la bondad porque el Padre por amor a todas sus criaturas nos dice que, si creemos y confiamos en Él, nos ayudará a levantarnos sin pedir nada a cambio ante cualquier obstáculo que se nos presente en el camino. Y si todo esto no fuese suficiente, también engloba algo que para todos los seres evolutivos ascendentes es tan importante para poder llegar hasta el Padre Universal como es la _fe_, porque hay que tener fe para creer que «con Dios todo es posible».
@@ -304,3 +325,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="pr-2">Luz y Vida — Febrero 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

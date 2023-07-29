@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La calidad de una sociedad mejor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/Jose-Luis-Navarro.jpg" alt="José Luis Navarro">
@@ -67,3 +88,24 @@ Es el regalo más hermoso que se haya hecho al ser humano. Solo hace falta que v
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La calidad de una sociedad mejor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López, María José Sánchez Santamaría<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia">
+          <span class="pr-2">Cuestionario Urantiano: Ana María García</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -41,7 +62,7 @@ Por un lado, tenemos la dicha del encuentro entre hermanos/as de diferentes raza
 
 Este fogonazo de luz y vida que la XI Conferencia Internacional de Urantia en Perú ha mostrado al mundo nos permite tener más esperanza para sobrellevar nuestras vidas cotidianas. Tenemos ahora una mayor certeza de que no estamos solos en nuestro deseo de expandir la Bondad, Verdad y Belleza en nuestro planeta azul. Existen personas en múltiples partes del planeta que están guiadas por su maravilloso Ajustador, con las que estamos en sintonía, y estamos protegidos sin duda por infinidad de presencias celestiales o hermanos mayores.
 
-> «Todo esto es por siempre verdad, porque toda vez que se reúnan dos o tres creyentes, allí estaré yo entre ellos.» [LU 159:1.3](/es/The_Urantia_Book/159#p1_3)
+> «Todo esto es por siempre verdad, porque toda vez que se reúnan dos o tres creyentes, allí estaré yo entre ellos.» <a id="a64_117"></a>[LU 159:1.3](/es/The_Urantia_Book/159#p1_3)
 
 Pero también tenemos otra buena nueva: nuestro querido Libro de Urantia sale más espléndido y pulcro que nunca antes con la nueva traducción o revisión en español. Una traducción de alta calidad, a la altura de los tiempos que vivimos y que permitirá captar y aprender mejor las enseñanzas de _El Libro de Urantia_ a partir del 2021.
 
@@ -239,3 +260,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia">
+          <span class="pr-2">Cuestionario Urantiano: Ana María García</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

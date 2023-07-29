@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Olga López, Ismael García y Mariano Pérez<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_No_somos_el_unico_planeta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: No somos el único planeta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-26-septiembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 26 — Septiembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 26<img src="/image/article/Luz_y_Vida/LyV1/04.jpg">
@@ -95,3 +116,24 @@ No se nos dio ninguna pauta concreta, no se nos dijo qué hacer o cómo debíamo
 Mariano Pérez, responsable de los grupos de estudio
 
 Recientemente se ha incorporado a la junta directiva de la asociación Mariano Pérez, lector de Madrid, en calidad de responsable de los grupos de estudio, con el fin de mantener y reforzar un contacto continuado con los grupos de estudio existentes y ayudar a crear grupos nuevos en nuestro país. ¡Bienvenido al equipo, Mariano!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_No_somos_el_unico_planeta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencias y divergencias: No somos el único planeta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-26-septiembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 26 — Septiembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

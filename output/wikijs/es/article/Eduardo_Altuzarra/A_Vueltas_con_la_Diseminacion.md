@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Eduardo Altuzarra<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_6_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 6 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-6-septiembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 6 — Septiembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="pr-2">Orvonton y La Vía Láctea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Últimamente he leído mucho en torno a la divulgación de los Documentos Revelados. He tratado de comprender todos y cada uno de los temas expuestos y, hoy por hoy, he llegado a la conclusión, en mi modesta opinión, de que tiene que ser un ambicioso macroproyecto basado principalmente en la unión del conocimiento, en la paciencia y perspicacia de las personas implicadas y en la certeza de su proyección. Además tiene que ir relacionado con el tiempo, ya que no se va a desarrollar ni en un solo día, ni en todo un año.
 
@@ -22,7 +46,7 @@ Después de un tiempo, se piensa de otra manera y una de las primeras ideas que 
 
 Lo más sensato y adecuado es compartir las relaciones y los sentimientos con otros lectores que se encuentren cerca de nosotros. Formar pequeños grupos e interrelacionarse de un modo homogéneo y flexible donde no existan las normas estrictas, los dogmas o las trabas, que sea susceptible a cambios o variaciones según las circunstancias o necesidades, pues todo ello ayuda en el compromiso y la coherencia. Este modo de cooperar lleva a tomar acuerdos y alcanzar la unanimidad en ideas y proyectos; aspectos muy importantes a tener en cuenta dentro de la actividad del macroproyecto.
 
-> «_La asociación con los semejantes, es esencial para mantener el entusiasmo por la vida, e indispensable para alimentar la valentía necesaria en las batallas inherentes a la ascensión a los niveles más altos del vivir humano. La amistad intensifica el gozo y glorifica los triunfos de la vida. Las asociaciones humanas amantes e íntimas tienden a liberar al sufrimiento de su pesadumbre y a la dificultad de su pesadumbre._» [LU 160:2.8](/es/The_Urantia_Book/160#p2_8)
+> «_La asociación con los semejantes, es esencial para mantener el entusiasmo por la vida, e indispensable para alimentar la valentía necesaria en las batallas inherentes a la ascensión a los niveles más altos del vivir humano. La amistad intensifica el gozo y glorifica los triunfos de la vida. Las asociaciones humanas amantes e íntimas tienden a liberar al sufrimiento de su pesadumbre y a la dificultad de su pesadumbre._» <a id="a48_427"></a>[LU 160:2.8](/es/The_Urantia_Book/160#p2_8)
 
 Organizarse en grupos representa dentro del macroproyecto, entre otras muchas cosas, ocuparse y comprometerse en agrupar ideas, definir prioridades, saber escuchar, hacer partícipes a sus miembros de comentarios y debates, colaborar en las variadas tareas de recopilación de datos actuales en torno a la divulgación y la publicidad, y trabajar conjuntamente. Puede llegar a existir lo que se viene a llamar la «conflictividad creativa» entre los miembros y entre los grupos, pero tenemos que ser muy conscientes y comprensivos para saber que todo lo estamos desarrollando con la sana intención de cooperar desde diferentes ideas.
 
@@ -65,3 +89,27 @@ Establezcamos las bases generales y pongámonos a trabajar en el proyecto. Aunem
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_6_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 6 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-6-septiembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 6 — Septiembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="pr-2">Orvonton y La Vía Láctea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

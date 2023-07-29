@@ -24,8 +24,12 @@ exports.strformat = (...params) => {
  * @return {string}
  */
 exports.autoCorrect = (text, correction) => {
-	const reg = new RegExp(Object.keys(correction).join("|"), "g");
-	return text.replace(reg, (matched) => correction[matched]);
+	let result = text;
+	Object.keys(correction).forEach(c => {
+		const reg = new RegExp(c, 'g');
+		result = result.replace(reg, correction[c]);
+	});
+	return result;
 };
 
 /**

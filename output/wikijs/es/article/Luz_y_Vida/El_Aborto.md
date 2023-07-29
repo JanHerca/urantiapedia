@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Juan José López, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra, Carmelo Martínez<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/El_Libro_de_Urantia_y_la_reencarnacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia y la reencarnación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-30-septiembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 30 — Septiembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/El_dia_a_dia_despues_de_El_Libro_De_Urantia">
+          <span class="pr-2">El día a día después de El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Participantes:**
 
@@ -62,7 +86,7 @@ Una vez más, entiendo que en el hecho en sí se ha de tener en cuenta a dos afe
 
 Problema 1: con respecto a quien toma la decisión, una vez más, la clave está en lo que te motiva a hacerlo, los verdaderos y profundos motivos, son los que presentarán el hecho como aceptable o no a los ojos del Padre.
 
-Problema 2: con respecto al embrión/niño, yo me dirijo a [LU 49:6.12](/es/The_Urantia_Book/49#p6_12), al comienzo de la página en el primer párrafo: «_Los niños que mueren antes de haber llegado a edad de tener un Ajustador del Pensamiento son repersonalizados en el mundo finalista de los sistemas locales concomitantemente con la llegada de cualquiera de los dos progenitores en los mundos de estancia. Un niño adquiere identidad física en el momento de su nacimiento mortal, pero en el asunto de la supervivencia todos los niños sin Ajustador se consideran aún como parte de sus padres._»
+Problema 2: con respecto al embrión/niño, yo me dirijo a <a id="a88_57"></a>[LU 49:6.12](/es/The_Urantia_Book/49#p6_12), al comienzo de la página en el primer párrafo: «_Los niños que mueren antes de haber llegado a edad de tener un Ajustador del Pensamiento son repersonalizados en el mundo finalista de los sistemas locales concomitantemente con la llegada de cualquiera de los dos progenitores en los mundos de estancia. Un niño adquiere identidad física en el momento de su nacimiento mortal, pero en el asunto de la supervivencia todos los niños sin Ajustador se consideran aún como parte de sus padres._»
 
 Salvo que la traducción no sea lo suficientemente fiel, to que yo entiendo de este párrafo es que, sólo después del nacimiento, ese ser es un individuo (adquiere identidad física), y mientras no tenga Ajustador, sólo tendrá opciones de supervivencia, si sobrevive al menos uno de los progenitores.
 
@@ -80,7 +104,7 @@ Este tema tiene cuestiones de mucho fondo. El LU no es muy explicito en esta cue
 
 Sobre cuándo ha tenido origen esa vida, el LU dice textualmente:
 
-> _La religión es funcional en la mente humana y se ha realizado en la experiencia previamente a su aparición en la conciencia humana. <ins>Un niño ya existe alrededor de nueve meses antes de experimentar el nacimiento</ins>._ [LU 103:2.1](/es/The_Urantia_Book/103#p2_1)
+> _La religión es funcional en la mente humana y se ha realizado en la experiencia previamente a su aparición en la conciencia humana. <ins>Un niño ya existe alrededor de nueve meses antes de experimentar el nacimiento</ins>._ <a id="a106_227"></a>[LU 103:2.1](/es/The_Urantia_Book/103#p2_1)
 
 ## Carmelo
 
@@ -112,7 +136,7 @@ Antonio, encontré esa página hace algunos años porque alguien en otro foro co
 
 Desde luego, como muy bien expresáis, creo que esto es más de ética, moral, sentimientos, puntos de vista, costumbres de vivir, etc. Si hoy por hoy somos más primitivos que evolucionados por cómo vivimos y nos comportamos, el LU lo dice varias veces, creo que tienen que existir ese tipo de «controversias» a la hora de decidir qué hacer con la vida, y debemos tener en cuenta que un poco más abajo del fragmento que os he enviado dice:
 
-> _Sin embargo, tarde o temprano hay un «dia de nacimiento». No entráis en el reino de los cielos a menos que hayáis «nacido de nuevo»—nacido del Espíritu. Muchos nacimientos espirituales van acompañados de una gran angustia espiritual y de perturbaciones psicológicas acentuadas, al igual que muchos nacimientos físicos están caracterizados por un «parto dificil» y otras anormalidades del «alumbramiento»._ [LU 103:2.1](/es/The_Urantia_Book/103#p2_1)
+> _Sin embargo, tarde o temprano hay un «dia de nacimiento». No entráis en el reino de los cielos a menos que hayáis «nacido de nuevo»—nacido del Espíritu. Muchos nacimientos espirituales van acompañados de una gran angustia espiritual y de perturbaciones psicológicas acentuadas, al igual que muchos nacimientos físicos están caracterizados por un «parto dificil» y otras anormalidades del «alumbramiento»._ <a id="a138_409"></a>[LU 103:2.1](/es/The_Urantia_Book/103#p2_1)
 
 ¿Podría entrar aquí, en esta parte última del párrafo, el aborto prematuro bien natural o provocado? Me gustaría que opinaseis al respecto, ya que según yo opino es por ahí por la única parte que (parece ser) tendría «justificación» un aborto por decisión propia o humana.
 
@@ -140,12 +164,36 @@ Carmelo se despacha a gusto contra la iglesia; yo también he tenido -y aún ten
 
 Respondo a una pregunta de -Juanjo comento otros asuntos. 
 
-¿Dónde dice el LU que un feto no es un ser humano? —Juanjo, no lo dice exactamente con esas palabras (hasta donde yo recuerdo ahora), pero sí dice en [LU 49:6.12](/es/The_Urantia_Book/49#p6_12) que un niño adquiere «identidad física» con su nacimiento como mortal y adquiere «identidad a los ojos del universo» con la «llegada de un Ajustador». Yo creo que es fácil deducir que el niño no es ni siquiera un ser antes de nacer, y no es un ser humano antes de la llegada del ajustador. Se puede deducir además que así como un feto está unido a su madre, un niño sin ajustador se considera unido a sus padres. En el primer caso no es independiente físicamente; en el segundo, no es independiente «a los ojos del universo», o sea, humanamente.
+¿Dónde dice el LU que un feto no es un ser humano? —Juanjo, no lo dice exactamente con esas palabras (hasta donde yo recuerdo ahora), pero sí dice en <a id="a166_150"></a>[LU 49:6.12](/es/The_Urantia_Book/49#p6_12) que un niño adquiere «identidad física» con su nacimiento como mortal y adquiere «identidad a los ojos del universo» con la «llegada de un Ajustador». Yo creo que es fácil deducir que el niño no es ni siquiera un ser antes de nacer, y no es un ser humano antes de la llegada del ajustador. Se puede deducir además que así como un feto está unido a su madre, un niño sin ajustador se considera unido a sus padres. En el primer caso no es independiente físicamente; en el segundo, no es independiente «a los ojos del universo», o sea, humanamente.
 
-Tiene razón Santi en que no se afirma en el LU que la pena de muerte es deseable; el LU no promueve o aboga por la pena de muerte. Pero sorprendentemente, para mí al menos, sí la acepta. Os copio una cita de algo que le dijo Jesús a un condenado a muerte en Corinto ([LU 133:4.12](/es/The_Urantia_Book/133#p4_12)): «_... Pero sí hiciste este mal y tus semejantes te han declarado culpable; han determinado que debes morir. Ni tú ni yo podemos negarle al Estado este derecho a defenderse de la manera que elija..._».
+Tiene razón Santi en que no se afirma en el LU que la pena de muerte es deseable; el LU no promueve o aboga por la pena de muerte. Pero sorprendentemente, para mí al menos, sí la acepta. Os copio una cita de algo que le dijo Jesús a un condenado a muerte en Corinto (<a id="a168_267"></a>[LU 133:4.12](/es/The_Urantia_Book/133#p4_12)): «_... Pero sí hiciste este mal y tus semejantes te han declarado culpable; han determinado que debes morir. Ni tú ni yo podemos negarle al Estado este derecho a defenderse de la manera que elija..._».
 
 Nos citaba Eduardo: «Un niño ha existido unos nueve meses antes de experimentar el _nacimiento»_. Pero esta frase no afirma nada respecto a la forma en que ha existido; dice que ha sido una realidad, no dice que fuera de hecho un niño durante esos nueve meses. La cita, vista en su contexto, es una comparación para destacar que la religión no nace de repente en la conciencia humana, sino que previamente ya tenía alguna realidad en la mente. O sea, que la religión antes de ser un niño (una religión propiamente dicha) en la conciencia humana, era ya un feto (algo así como una prerreligión), una realidad de algún tipo que funcionaba inconscientemente, en la mente.
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/El_Libro_de_Urantia_y_la_reencarnacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia y la reencarnación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-30-septiembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 30 — Septiembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/El_dia_a_dia_despues_de_El_Libro_De_Urantia">
+          <span class="pr-2">El día a día después de El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 María José Sánchez Santamaría<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Noviembre 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Antonio_Moya">
+          <span class="pr-2">Cuestionario Urantiano: Antonio Moya</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/Editorial-nov-21.jpg" alt="Editorial noviembre 2021">
@@ -22,7 +46,7 @@ El arte de la vida interior es sutil y extenso. Como lo entiende _El Libro de Ur
 
 El desarrollo de esta vida interior tan preciada desemboca en algo inefable que está en nuestro interior, un vacío, algo innombrable, lo no abarcable… pero que da sentido a nuestra vida: la divinidad.
 
-> «La aventura más grande del hombre en la carne consiste en un esfuerzo bien balanceado y sano por avanzar los límites de la autoconciencia hasta los ocultos reinos de la conciencia embriónica del alma en un esfuerzo sincero por alcanzar el terreno que linda con la conciencia espiritual —al contacto con la presencia divina.» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «La aventura más grande del hombre en la carne consiste en un esfuerzo bien balanceado y sano por avanzar los límites de la autoconciencia hasta los ocultos reinos de la conciencia embriónica del alma en un esfuerzo sincero por alcanzar el terreno que linda con la conciencia espiritual —al contacto con la presencia divina.» (<a id="a48_329"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 El viaje de la vida interior nos permite entrar en contacto y unirnos a este centro en nuestro interior, que es llamado por Jesús de Nazaret con términos como «reino dentro de vosotros», «perla», «tesoro», «semilla», «luz»…
 
@@ -77,27 +101,27 @@ Resaltamos por encima de todas, estas dos:
 
 _El Libro de Urantia_ resalta:
 
-> «La familia es la unidad fundamental de la fraternidad en la que padres e hijos aprenden esas lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para la realización de la hermandad entre los hombres.» [LU 84:7.28](/es/The_Urantia_Book/84#p7_28)
+> «La familia es la unidad fundamental de la fraternidad en la que padres e hijos aprenden esas lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para la realización de la hermandad entre los hombres.» <a id="a103_235"></a>[LU 84:7.28](/es/The_Urantia_Book/84#p7_28)
 
 Es válido que podamos especular y preguntarnos: el fallecimiento de José, el padre de Jesús de Nazaret, ¿estuvo «programado» para que también nuestro creador se desempeñara como padre de familia? _El Libro de Urantia_ nos recuerda que el mismo Jesús valoraba extraordinariamente la familia, pues era el núcleo de su mensaje: la fraternidad universal, cósmica, de los hijos e hijas de un mismo Padre.
 
-> La familia ocupaba el centro mismo de la filosofía de la vida de Jesús —aquí y en lo sucesivo. Las enseñanzas sobre Dios las basaba en la familia, tratando al mismo tiempo de corregir la tendencia judía de honrar excesivamente a los antepasados. Exaltaba la vida familiar como el deber más alto de la humanidad, pero decía claramente que las relaciones familiares no deben interferir con las obligaciones religiosas. Llamaba la atención sobre el hecho de que la familia es una institución temporal; que no sobrevive a la muerte. Jesús no vaciló en dejar a su familia cuando la familia fue en contra de la voluntad del Padre. Enseñó la nueva y más amplia hermandad del hombre —la de los hijos de Dios. [LU 140:8.14](/es/The_Urantia_Book/140#p8_14)
+> La familia ocupaba el centro mismo de la filosofía de la vida de Jesús —aquí y en lo sucesivo. Las enseñanzas sobre Dios las basaba en la familia, tratando al mismo tiempo de corregir la tendencia judía de honrar excesivamente a los antepasados. Exaltaba la vida familiar como el deber más alto de la humanidad, pero decía claramente que las relaciones familiares no deben interferir con las obligaciones religiosas. Llamaba la atención sobre el hecho de que la familia es una institución temporal; que no sobrevive a la muerte. Jesús no vaciló en dejar a su familia cuando la familia fue en contra de la voluntad del Padre. Enseñó la nueva y más amplia hermandad del hombre —la de los hijos de Dios. <a id="a107_703"></a>[LU 140:8.14](/es/The_Urantia_Book/140#p8_14)
 
 **2) El Amor es la clave que une a los individuos que conforman la familia.**
 
 Andón y Fonta, Eva y Adán, María y José se amaban profundamente y querían estar juntos. Adán llegó al extremo de faltar voluntariamente a su deber antes que permanecer miles de años en la Tierra sin su compañera.
 
-> «El amor es la motivación más alta que el hombre pueda utilizar en su ascensión en el universo. Pero el amor, si se lo despoja de la verdad, la belleza y la bondad, es tan sólo un sentimiento, una distorsión filosófica, una ilusión psíquica, una decepción espiritual.» ([LU 196:3.29](/es/The_Urantia_Book/196#p3_29))
+> «El amor es la motivación más alta que el hombre pueda utilizar en su ascensión en el universo. Pero el amor, si se lo despoja de la verdad, la belleza y la bondad, es tan sólo un sentimiento, una distorsión filosófica, una ilusión psíquica, una decepción espiritual.» (<a id="a113_272"></a>[LU 196:3.29](/es/The_Urantia_Book/196#p3_29))
 
 Un amor que tiene un origen divino que nos trasciende y nos une a la gran familia cósmica de seres únicos e inigualables:
 
-> El amor del Padre individualiza absolutamente cada personalidad como un hijo único del Padre Universal, un hijo sin duplicado en el infinito, una criatura volitiva irremplazable en toda la eternidad. El amor del Padre glorifica a cada hijo de Dios, iluminando a cada miembro de la familia celestial, perfilando agudamente la naturaleza única de cada ser personal frente a los niveles impersonales que se hallan fuera del círculo fraterno del Padre de todos. El amor de Dios retrata vivamente el valor trascendente de cada criatura volitiva, inequívocamente revela el altísimo valor que el Padre Universal ha colocado sobre todos y cada uno de sus hijos, desde la más elevada personalidad creadora de estado paradisiaco hasta la personalidad más inferior de dignidad volitiva entre las tribus de los hombres salvajes en los albores de las especies humanas, en algún mundo evolutivo del tiempo y el espacio. [LU 12:7.9](/es/The_Urantia_Book/12#p7_9)
+> El amor del Padre individualiza absolutamente cada personalidad como un hijo único del Padre Universal, un hijo sin duplicado en el infinito, una criatura volitiva irremplazable en toda la eternidad. El amor del Padre glorifica a cada hijo de Dios, iluminando a cada miembro de la familia celestial, perfilando agudamente la naturaleza única de cada ser personal frente a los niveles impersonales que se hallan fuera del círculo fraterno del Padre de todos. El amor de Dios retrata vivamente el valor trascendente de cada criatura volitiva, inequívocamente revela el altísimo valor que el Padre Universal ha colocado sobre todos y cada uno de sus hijos, desde la más elevada personalidad creadora de estado paradisiaco hasta la personalidad más inferior de dignidad volitiva entre las tribus de los hombres salvajes en los albores de las especies humanas, en algún mundo evolutivo del tiempo y el espacio. <a id="a117_908"></a>[LU 12:7.9](/es/The_Urantia_Book/12#p7_9)
 > 
-> El amor mismo de Dios por el individuo crea la familia divina de todos los individuos, la fraternidad universal de los hijos del libre albedrío del Padre del Paraíso. [LU 12:7.10](/es/The_Urantia_Book/12#p7_10)
+> El amor mismo de Dios por el individuo crea la familia divina de todos los individuos, la fraternidad universal de los hijos del libre albedrío del Padre del Paraíso. <a id="a119_169"></a>[LU 12:7.10](/es/The_Urantia_Book/12#p7_10)
 
 _El Libro de Urantia_ nos inspira a crear lazos de familia, cierto, pero sabiendo que la familia terrenal crece y se expande abarcando la fraternidad universal de todos los hijos/as de Dios, de todos los habitantes de este inconmensurable gran universo:
 
-> Dijo Jesús: «Los pueblos de otra era comprenderán mejor el evangelio del reino cuando se lo presente en términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y de la hermandad de los hombres, la filiación con Dios». Luego el Maestro discurrió con cierta amplitud sobre la familia terrestre como ilustración de la familia celestial, volviendo a declarar las dos leyes fundamentales del vivir: el primer mandamiento de amor al padre, el jefe de la familia, y el segundo mandamiento de amor mutuo entre los hijos, de amar a tu hermano como a ti mismo. [LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
+> Dijo Jesús: «Los pueblos de otra era comprenderán mejor el evangelio del reino cuando se lo presente en términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y de la hermandad de los hombres, la filiación con Dios». Luego el Maestro discurrió con cierta amplitud sobre la familia terrestre como ilustración de la familia celestial, volviendo a declarar las dos leyes fundamentales del vivir: el primer mandamiento de amor al padre, el jefe de la familia, y el segundo mandamiento de amor mutuo entre los hijos, de amar a tu hermano como a ti mismo. <a id="a123_623"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
 
 En consecuencia, los que somos padres/madres de familia, sabemos las duras y apasionantes tareas y responsabilidades que debemos ejercer con nuestros hijos/as, pero sin olvidar que estos son compañeros/as de viaje que crecerán para tener su propio papel en la gran familia celestial, pero no son nuestras pertenencias. Como diría el poeta: son tus hijos, pero no son tuyos.
 
@@ -133,3 +157,27 @@ El mundo necesita estos ejemplos de familias que hemos resaltado más arriba. Ah
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Noviembre 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Antonio_Moya">
+          <span class="pr-2">Cuestionario Urantiano: Antonio Moya</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

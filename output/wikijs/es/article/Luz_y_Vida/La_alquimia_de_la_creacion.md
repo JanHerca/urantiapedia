@@ -11,6 +11,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <!-- The diagram at the end needs to add new functionality in the general script to add interactivy and scalability. See /es/tests/JanTest -->
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2009 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Siempre_hay_un_comienzo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Siempre hay un comienzo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-16-febrero-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 16 — Febrero 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_3">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -26,7 +50,7 @@ Mi opinión es que la alquimia encierra un conocimiento realmente poderoso que e
 
 Un preámbulo un poco largo; disculpadme si os ha resultado pesado, pero me ha parecido necesario para seguir con mi exposición.
 
-Alguien se preguntó una vez si la alquimia era una superciencia extraterrestre. Para mí la respuesta es un rotundo sí. Leyendo el Libro me he encontrado sin buscarlo, o sea me he tropezado, con muchas pistas sobre esta ciencia, especialmente en las descripciones de las diferentes fases de la energía-materia, y en la descripción de la formación de las nebulosas. Algo que yo llamo alquimia de la creación y que me fascina. Los textos que voy a usar están en el documento 42, especialmente en [LU 42:2.8](/es/The_Urantia_Book/42#p2_8) y [LU 42:3.3-12](/es/The_Urantia_Book/42#p3_3) , en el documento 57 hasta la página 655 inclusive y en el Prólogo, [LU 0:6.4-7](/es/The_Urantia_Book/0#p6_4).
+Alguien se preguntó una vez si la alquimia era una superciencia extraterrestre. Para mí la respuesta es un rotundo sí. Leyendo el Libro me he encontrado sin buscarlo, o sea me he tropezado, con muchas pistas sobre esta ciencia, especialmente en las descripciones de las diferentes fases de la energía-materia, y en la descripción de la formación de las nebulosas. Algo que yo llamo alquimia de la creación y que me fascina. Los textos que voy a usar están en el documento 42, especialmente en <a id="a52_493"></a>[LU 42:2.8](/es/The_Urantia_Book/42#p2_8) y <a id="a52_537"></a>[LU 42:3.3-12](/es/The_Urantia_Book/42#p3_3) , en el documento 57 hasta la página 655 inclusive y en el Prólogo, <a id="a52_650"></a>[LU 0:6.4-7](/es/The_Urantia_Book/0#p6_4).
 
 Precisamente en este último texto clasifica la energía física en tres grandes grupos:
 
@@ -42,7 +66,7 @@ El paso de prerrealidad a realidad se provoca con la sola presencia de los Organ
 
 Una primera característica que destacar: La evolución de la materia-energía no es «espontánea»; requiere la intervención de la mente. En algún sitio del Libro, no recuerdo ahora dónde, se dice que el espíritu a través de la mente es quien controla la materia.
 
-Hay diez manifestaciones diferentes del poder como se describe en [LU 42:3.3-12](/es/The_Urantia_Book/42#p3_3). Yo quiero fijarme en seis que son a mi entender las diferentes etapas de construcción de edificio de la materia (las otras me perecen estados especiales o degradados):
+Hay diez manifestaciones diferentes del poder como se describe en <a id="a68_66"></a>[LU 42:3.3-12](/es/The_Urantia_Book/42#p3_3). Yo quiero fijarme en seis que son a mi entender las diferentes etapas de construcción de edificio de la materia (las otras me perecen estados especiales o degradados):
 
 - Materia ultimatónica, la primerísima manifestación de la materia, el componente único y esencial de todas las partículas.
 - Materia subelectrónica; al parecer entre los ultimatones y las partículas (hoy llamadas) fundamentales hay otro estado previo.
@@ -61,7 +85,7 @@ Y con la visibilidad empieza la etapa secundaria de la nebulosa que toma la form
 
 Se pasa ahora a las etapas terciaria y cuaternaria, las etapas constructivas, las etapas de formación masiva de soles y planetas, y de dispersión de éstos. La materia ha completado su ciclo creativo; se trata ahora de agruparla formando cuerpos espaciales, soles y sus planetas, algunos preparados para sostener la vida.
 
-Por cierto, los párrafos [LU 57:4.6](/es/The_Urantia_Book/57#p4_6) y [LU 57:4.7](/es/The_Urantia_Book/57#p4_7) son algo misteriosos para mí. ¿Provoca la desintegración terminal de una nebulosa la destrucción de planetas ya habitados? Sabemos que si esto ocurre se desmaterializa a todos los habitantes y se les traslada por transporte seráfico a otro planeta donde son rematerializados.
+Por cierto, los párrafos <a id="a87_25"></a>[LU 57:4.6](/es/The_Urantia_Book/57#p4_6) y <a id="a87_69"></a>[LU 57:4.7](/es/The_Urantia_Book/57#p4_7) son algo misteriosos para mí. ¿Provoca la desintegración terminal de una nebulosa la destrucción de planetas ya habitados? Sabemos que si esto ocurre se desmaterializa a todos los habitantes y se les traslada por transporte seráfico a otro planeta donde son rematerializados.
 
 Como he dicho al principio, ésta es una parte del proceso creativo que me fascina. Como con el resto de actividades creativas, el Padre la ha delegado en algunos de sus hijos. Y algún día parece que también la delegará en nosotros en los mundos de espacio exterior. Supongo que en esta delegación habrá partes que tengan que ver con la creación material en sí misma, y para eso tendremos que saber «ciencia celestial», tendremos que ser alquimistas. ¿Será esto lo que descubren los adeptos y les asombra hasta extremos difícilmente imaginables? ¿Lo que les transforma totalmente?
 
@@ -112,3 +136,27 @@ Se cree que este supuesto alquimista era alguien conocido por Fulcanelli, el ade
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Siempre_hay_un_comienzo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Siempre hay un comienzo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-16-febrero-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 16 — Febrero 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_3">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

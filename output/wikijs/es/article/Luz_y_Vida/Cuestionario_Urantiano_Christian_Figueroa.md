@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Christian-Figueroa.jpg" alt="Christian Figueroa">
@@ -70,12 +91,33 @@ Creo que _El Libro de Urantia_ no es para todos, al menos el libro (el mensaje e
 
 Quiero compartir tres citas que se han hecho parte de mí y de mi visión, y que también pueden servir a los demás:
 
-> la verdad no tiene nada que temer de un examen honrado [LU 153:2.11](/es/The_Urantia_Book/153#p2_11)
+> la verdad no tiene nada que temer de un examen honrado <a id="a93_57"></a>[LU 153:2.11](/es/The_Urantia_Book/153#p2_11)
 
-> Pero el fetiche de la verdad factualizada, de la verdad fosilizada, la mordaza de hierro de la llamada verdad inmutable, nos retiene ciegamente en un círculo cerrado de hechos fríos. Es posible tener razón formal en cuanto a los hechos y errar eternamente en cuanto a la verdad. [LU 48:6.33](/es/The_Urantia_Book/48#p6_33)
+> Pero el fetiche de la verdad factualizada, de la verdad fosilizada, la mordaza de hierro de la llamada verdad inmutable, nos retiene ciegamente en un círculo cerrado de hechos fríos. Es posible tener razón formal en cuanto a los hechos y errar eternamente en cuanto a la verdad. <a id="a95_281"></a>[LU 48:6.33](/es/The_Urantia_Book/48#p6_33)
 
-> Jesús hacía que los hombres se sintieran en el mundo como en casa; los liberaba de la esclavitud de los tabúes y les enseñaba que el mundo no es fundamentalmente malo. No anhelaba escapar de su vida terrenal; dominó la práctica de hacer aceptablemente la voluntad del Padre mientras vivía en la carne. Logró una vida religiosa idealista en medio de un mundo realista. Jesús no compartía la opinión pesimista de Pablo sobre la humanidad. El Maestro consideraba a los hombres como hijos de Dios y preveía un magnífico futuro eterno para los que eligieran sobrevivir. No era un escéptico moral; miraba al hombre con ojos positivos, no negativos. Veía que la mayoría de los hombres eran más débiles que perversos, más inseguros que depravados. Pero fuera cual fuera su condición, todos eran hijos de Dios y hermanos suyos. [LU 196:2.9](/es/The_Urantia_Book/196#p2_9)
+> Jesús hacía que los hombres se sintieran en el mundo como en casa; los liberaba de la esclavitud de los tabúes y les enseñaba que el mundo no es fundamentalmente malo. No anhelaba escapar de su vida terrenal; dominó la práctica de hacer aceptablemente la voluntad del Padre mientras vivía en la carne. Logró una vida religiosa idealista en medio de un mundo realista. Jesús no compartía la opinión pesimista de Pablo sobre la humanidad. El Maestro consideraba a los hombres como hijos de Dios y preveía un magnífico futuro eterno para los que eligieran sobrevivir. No era un escéptico moral; miraba al hombre con ojos positivos, no negativos. Veía que la mayoría de los hombres eran más débiles que perversos, más inseguros que depravados. Pero fuera cual fuera su condición, todos eran hijos de Dios y hermanos suyos. <a id="a97_821"></a>[LU 196:2.9](/es/The_Urantia_Book/196#p2_9)
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

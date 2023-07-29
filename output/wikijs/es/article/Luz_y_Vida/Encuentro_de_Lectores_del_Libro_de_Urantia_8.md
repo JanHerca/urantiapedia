@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Poema_al_Ajustador">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poema al Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-13-mayo-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 13 — Mayo 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_AUI_2009">
+          <span class="pr-2">Noticias sobre la Conferencia Internacional AUI 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Asociación Urantia de España**
 
@@ -70,3 +94,27 @@ Las enseñanzas del LU pueden ser esa «capa superior» que se coloque encima de
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Poema_al_Ajustador">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poema al Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-13-mayo-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 13 — Mayo 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_AUI_2009">
+          <span class="pr-2">Noticias sobre la Conferencia Internacional AUI 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

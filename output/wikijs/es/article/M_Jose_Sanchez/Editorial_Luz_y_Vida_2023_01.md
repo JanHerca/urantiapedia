@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Enero 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero">
+          <span class="pr-2">Cuestionario Urantiano: Marisé Cantero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ### La imagen de Dios
 
@@ -78,11 +102,11 @@ Y según cómo creamos lo que es Dios, viviremos la fe de una forma o de otra. N
 
 Los lectores de _El Libro de Urantia_ tenemos la gran suerte de poder leer decenas de documentos que describen cómo es Dios y cómo Jesús de Nazaret lo manifestó. Por ejemplo, conocemos que Jesús no renunció a sus raíces, sino que expandió y mejoró la imagen que tenían de la Divinidad sus contemporáneos:
 
-> El Jesús humano veía a Dios como santo, justo y grande, así como verdadero, bello y bueno. Todos estos atributos de la divinidad los concentraba en su mente como «la voluntad del Padre del cielo». El Dios de Jesús era al mismo tiempo «el Santo de Israel» y «el Padre vivo y amoroso del cielo». El concepto de Dios como Padre no era original de Jesús, pero él exaltó y elevó la idea hasta hacer de ella una experiencia sublime al lograr una nueva revelación de Dios y proclamar que toda criatura mortal es un niño de este Padre de amor, un hijo de Dios. [LU 196:0.2](/es/The_Urantia_Book/196#p0_2)
+> El Jesús humano veía a Dios como santo, justo y grande, así como verdadero, bello y bueno. Todos estos atributos de la divinidad los concentraba en su mente como «la voluntad del Padre del cielo». El Dios de Jesús era al mismo tiempo «el Santo de Israel» y «el Padre vivo y amoroso del cielo». El concepto de Dios como Padre no era original de Jesús, pero él exaltó y elevó la idea hasta hacer de ella una experiencia sublime al lograr una nueva revelación de Dios y proclamar que toda criatura mortal es un niño de este Padre de amor, un hijo de Dios. <a id="a104_555"></a>[LU 196:0.2](/es/The_Urantia_Book/196#p0_2)
 
 Es más, Jesús se sentía totalmente unido a la Divinidad, al Padre o Fuente de Todo. Lo dijo en repetidas ocasiones:
 
-> Jesús le respondió así: «¿Tanto tiempo he estado con vosotros y todavía no me conoces, Felipe? Vuelvo a repetiros que el que me ha visto a mí ha visto al Padre. ¿Cómo puedes decir entonces: muéstranos al Padre? ¿No crees que yo estoy en el Padre y el Padre en mí? ¿No os he enseñado que las palabras que digo no son mis palabras sino las palabras del Padre? Hablo por el Padre y no por mí. Estoy en este mundo para hacer la voluntad del Padre, y eso es lo que he hecho. Mi Padre mora en mí y obra a través de mí.». [LU 180:3.9](/es/The_Urantia_Book/180#p3_9)
+> Jesús le respondió así: «¿Tanto tiempo he estado con vosotros y todavía no me conoces, Felipe? Vuelvo a repetiros que el que me ha visto a mí ha visto al Padre. ¿Cómo puedes decir entonces: muéstranos al Padre? ¿No crees que yo estoy en el Padre y el Padre en mí? ¿No os he enseñado que las palabras que digo no son mis palabras sino las palabras del Padre? Hablo por el Padre y no por mí. Estoy en este mundo para hacer la voluntad del Padre, y eso es lo que he hecho. Mi Padre mora en mí y obra a través de mí.». <a id="a108_517"></a>[LU 180:3.9](/es/The_Urantia_Book/180#p3_9)
 
 Jesús, por tanto, nos da una imagen nueva de Dios. En Jesús se manifestó la imagen más plena de Dios, se mostró el auténtico ser humano. En su manera de hablar de Dios y en su manera de ser humano descubrimos el rostro humano de Dios. Dios y Hombre unidos.
 
@@ -92,7 +116,7 @@ Jesús, por tanto, nos da una imagen nueva de Dios. En Jesús se manifestó la i
 
 Nos sorprende y agrada conocer que Jesús, que Dios, no solo se mostró profundo en sus reflexiones y serio, sino también amoroso y sonriente. Juguetón con los más pequeños y analítico con los adultos.
 
-> Los niños eran siempre bienvenidos en el taller de reparaciones. Jesús les ponía arena, trozos de madera y piedras junto al taller, y allí acudían en tropel a entretenerse. Cuando se cansaban de jugar, los más intrépidos se asomaban al taller y si veían a Jesús desocupado, se atrevían a entrar diciendo: «Tío Josué, sal a contarnos un cuento largo». Lo sacaban tirándole de las manos hasta que se sentaba en su piedra favorita junto a la esquina del taller con los niños sentados en semicírculo en el suelo delante de él. Y cuánto disfrutaban los pequeños a su tío Josué. Aprendían a reír, y a reír con ganas. Uno o dos de los más pequeños solían trepar hasta sus rodillas y, sentados sobre ellas, contemplaban maravillados sus facciones expresivas cuando contaba sus historias. Los niños amaban a Jesús y Jesús amaba a los niños. [LU 128:6.11](/es/The_Urantia_Book/128#p6_11)
+> Los niños eran siempre bienvenidos en el taller de reparaciones. Jesús les ponía arena, trozos de madera y piedras junto al taller, y allí acudían en tropel a entretenerse. Cuando se cansaban de jugar, los más intrépidos se asomaban al taller y si veían a Jesús desocupado, se atrevían a entrar diciendo: «Tío Josué, sal a contarnos un cuento largo». Lo sacaban tirándole de las manos hasta que se sentaba en su piedra favorita junto a la esquina del taller con los niños sentados en semicírculo en el suelo delante de él. Y cuánto disfrutaban los pequeños a su tío Josué. Aprendían a reír, y a reír con ganas. Uno o dos de los más pequeños solían trepar hasta sus rodillas y, sentados sobre ellas, contemplaban maravillados sus facciones expresivas cuando contaba sus historias. Los niños amaban a Jesús y Jesús amaba a los niños. <a id="a118_834"></a>[LU 128:6.11](/es/The_Urantia_Book/128#p6_11)
 
 A sus amigos les costaba comprender la variedad y amplitud de sus actividades intelectuales, su capacidad para pasar plenamente y sin transición de los profundos debates políticos, filosóficos o religiosos a los juegos alegres y despreocupados de los chiquillos de cinco a diez años.
 
@@ -132,3 +156,27 @@ Hermoso reto este, escuchar de verdad a quien está dentro, para este principio 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Enero 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero">
+          <span class="pr-2">Cuestionario Urantiano: Marisé Cantero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

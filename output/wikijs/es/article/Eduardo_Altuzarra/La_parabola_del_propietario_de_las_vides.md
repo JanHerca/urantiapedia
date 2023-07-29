@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Eduardo Altuzarra<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_discurso_sobre_la_verdadera_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El discurso sobre la verdadera religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="pr-2">La parábola de las minas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Para entender la parábola del propietario de la viña y los denarios, o sea «La discusión sobre la riqueza», hay que retomar la lectura de todo el [Documento 163](/es/The_Urantia_Book/163).
 
@@ -24,13 +48,13 @@ Andrés presenta a Jesús a cierto joven rico que era un fervoroso creyente y qu
 
 Dice el documento que:
 
-> _Siempre ha sido así y siempre será así: Los hombres deben tomar sus propias decisiones. Los mortales pueden hacer uso de cierta gama de posibilidades dentro de la libertad de elección. Las fuerzas del mundo espiritual no desean coaccionar al hombre; le permiten seguir el camino que él mismo ha elegido._ [LU 163:2.8](/es/The_Urantia_Book/163#p2_8)
+> _Siempre ha sido así y siempre será así: Los hombres deben tomar sus propias decisiones. Los mortales pueden hacer uso de cierta gama de posibilidades dentro de la libertad de elección. Las fuerzas del mundo espiritual no desean coaccionar al hombre; le permiten seguir el camino que él mismo ha elegido._ <a id="a50_308"></a>[LU 163:2.8](/es/The_Urantia_Book/163#p2_8)
 
 Parece ser que, años después, este muchacho pudo realizar el sueño que anteriormente no se atrevió a seguir debido a su apego por lo material.
 
 El documento también dice:
 
-> _Las riquezas no tienen ninguna relación directa con la entrada en el reino de los cielos, pero el amor a la riqueza sí tiene que ver. Las lealtades espirituales hacia el reino son incompatibles con la servidumbre a la codicia materialista. El hombre no puede compartir su lealtad suprema a un ideal espiritual con una devoción material._ [LU 163:2.10](/es/The_Urantia_Book/163#p2_10)
+> _Las riquezas no tienen ninguna relación directa con la entrada en el reino de los cielos, pero el amor a la riqueza sí tiene que ver. Las lealtades espirituales hacia el reino son incompatibles con la servidumbre a la codicia materialista. El hombre no puede compartir su lealtad suprema a un ideal espiritual con una devoción material._ <a id="a56_341"></a>[LU 163:2.10](/es/The_Urantia_Book/163#p2_10)
 
 Jesús expuso que, si la riqueza que uno posee no invade los recintos del alma, eso no tiene ninguna consecuencia sobre la vida espiritual de los que desean entrar en el reino de los cielos. Dice que el Padre trata a todas sus criaturas según sus necesidades y siempre de acuerdo con las justas leyes de la consideración misericordiosa y amorosa por el bienestar del universo.
 
@@ -50,3 +74,27 @@ Jesús expuso que, si la riqueza que uno posee no invade los recintos del alma, 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_discurso_sobre_la_verdadera_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El discurso sobre la verdadera religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-37-junio-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 37 — Junio 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="pr-2">La parábola de las minas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

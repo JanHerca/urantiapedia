@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Mark Kurtz<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sol verdadero (poema)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Nueva_Edicion_Europea">
+          <span class="pr-2">El movimiento Urantia en España con la nueva edición europea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La encuesta «Reflexión personal: verdadero, falso o ‘no lo sé’» pretende ser una herramienta para la encuesta personal del alma, por así decir. Se respeta la privacidad y unicidad de cada persona que realiza la encuesta, esto es, la relación personal con su concepto del Supremo (Dios, Yahvé, Brahma, etc.) La encuesta pretende ser neutral respecto a la religión. No se pide que nadie entregue los resultados ni comparta sus respuestas, aunque puedes hacerlo si lo deseas.
 
@@ -70,3 +94,27 @@ Elige una opción (Verdadero, Falso, No lo sé)
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sol verdadero (poema)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-22-agosto-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 22 — Agosto 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Nueva_Edicion_Europea">
+          <span class="pr-2">El movimiento Urantia en España con la nueva edición europea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Santiago Rodríguez<br>© 2014 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Solo_la_vida_interior_es_realmente_creativa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sólo la vida interior es realmente creativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-36-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 36 — Marzo 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ismael_Gracia">
+          <span class="pr-2">Cuestionario urantiano: Ismael Gracia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Durante la elaboración de un trabajo en eI que trato de investigar este punto (¿cuánto se tarda en llegar al Paraíso?), me he encontrado con una divergencia dentro del propio libro
 
@@ -20,13 +44,13 @@ La estimación de los 200.000 millones de años provienen de dos citas del libro
 
 En el documento 22 «Los Hijos de Dios Trinitizados», en la sección 2, que describe a los Mensajeros Poderosos dice:
 
-> _Los Mensajeros Poderosos más antiguos fueron escogidos entre los mortales ascendentes del tiempo y del espacio que llegaron primero al Paraíso; muchos de ellos habían atravesado Havona en la época de Grandfanda. Pero la primera trinitización de Mensajeros Poderosos no se llevó a cabo hasta que el grupo de candidatos no contuvo representantes de cada uno de los siete superuniversos. El último grupo de esta orden que se capacitó en el Paraíso contenía peregrinos ascendentes del universo local de Nebadon._ [LU 22:2.4](/es/The_Urantia_Book/22#p2_4)
+> _Los Mensajeros Poderosos más antiguos fueron escogidos entre los mortales ascendentes del tiempo y del espacio que llegaron primero al Paraíso; muchos de ellos habían atravesado Havona en la época de Grandfanda. Pero la primera trinitización de Mensajeros Poderosos no se llevó a cabo hasta que el grupo de candidatos no contuvo representantes de cada uno de los siete superuniversos. El último grupo de esta orden que se capacitó en el Paraíso contenía peregrinos ascendentes del universo local de Nebadon._ <a id="a46_512"></a>[LU 22:2.4](/es/The_Urantia_Book/22#p2_4)
 
 Sabemos inequívocamente que hoy ya hay «peregrinos ascendentes» de nuestro universo local, que han llegado al Paraíso y se han graduado en él, además de haberse enrolado en el Cuerpo de la Finalidad, y que ya han disfrutado de la experiencia de ser trinitizados por el abrazo secreto de la Trinidad del Paraíso... sea lo que sea que esto quiera decir.
 
 La otra pista se encuentra en el Documento 57 «El origen de Urantia», sección 3 («La etapa nebular secundaria») y dice así:
 
-> _Hace 200.000.000.000 de años se pudo presenciar el avance de la contracción y la condensación de Andronover, con una enorme generación de calor en su cúmulo central o masa nuclear. El espacio relativo apareció incluso en las regiones cercanas a la rueda madre solar central. Las regiones exteriores se volvían más estables y mejor organizadas; algunos planetas que giraban alrededor de los soles recién nacidos se habían enfriado lo suficiente como para ser idóneos para la implantación de la vida. Los planetas habitados más antiguos de Nebadon datan de estos tiempos._ [LU 57:3.10](/es/The_Urantia_Book/57#p3_10)
+> _Hace 200.000.000.000 de años se pudo presenciar el avance de la contracción y la condensación de Andronover, con una enorme generación de calor en su cúmulo central o masa nuclear. El espacio relativo apareció incluso en las regiones cercanas a la rueda madre solar central. Las regiones exteriores se volvían más estables y mejor organizadas; algunos planetas que giraban alrededor de los soles recién nacidos se habían enfriado lo suficiente como para ser idóneos para la implantación de la vida. Los planetas habitados más antiguos de Nebadon datan de estos tiempos._ <a id="a52_574"></a>[LU 57:3.10](/es/The_Urantia_Book/57#p3_10)
 
 De donde parece desprenderse que la vida más antigua de Nebadon data de hace unos 200.000 millones de años. La conclusión obvia es que, en el peor de los casos, el tiempo de espera más largo serían esos 200.000 millones de años.
 
@@ -42,11 +66,11 @@ Y hasta aquí todo iría bien si, tal y como hizo Sadler, no tenemos en cuenta l
 
 En el documento 53 (“La rebelión de Lucifer”), sección 4, podemos leer:
 
-> _El manifiesto de Lucifer se publicó en el cónclave anual de Satania celebrado en el mar de cristal, en presencia de las huestes reunidas de Jerusem, el último día del año hace unos doscientos mil años del tiempo de Urantia._ [LU 53:4.1](/es/The_Urantia_Book/53#p4_1)
+> _El manifiesto de Lucifer se publicó en el cónclave anual de Satania celebrado en el mar de cristal, en presencia de las huestes reunidas de Jerusem, el último día del año hace unos doscientos mil años del tiempo de Urantia._ <a id="a68_228"></a>[LU 53:4.1](/es/The_Urantia_Book/53#p4_1)
 
 Más adelante, en el documento 54 (“Los problemas de la rebelión de Lucifer”), sección 5:
 
-> _12. El tiempo, incluso en un universo temporal, es relativo: si un mortal de Urantia con una vida de duración media cometiera un crimen que provocara un pandemonio mundial, y si fuera detenido, juzgado y ejecutado a los dos o tres días de haber perpetrado el crimen, ¿os parecería un tiempo muy largo? Y sin embargo, esta comparación es la más cercana teniendo en cuenta la duración de la vida de Lucifer, aunque su juicio, ya iniciado, no finalice hasta dentro de cien mil años de Urantia. Desde el punto de vista de Uversa, donde el litigio está pendiente, este período relativo de tiempo podría ser indicado diciendo que el crimen de Lucifer fue llevado a juicio a los dos segundos y medio de haberse cometido. Desde el punto de vista del Paraíso, el juicio es simultáneo con el acto._ [LU 54:5.13](/es/The_Urantia_Book/54#p5_13)
+> _12. El tiempo, incluso en un universo temporal, es relativo: si un mortal de Urantia con una vida de duración media cometiera un crimen que provocara un pandemonio mundial, y si fuera detenido, juzgado y ejecutado a los dos o tres días de haber perpetrado el crimen, ¿os parecería un tiempo muy largo? Y sin embargo, esta comparación es la más cercana teniendo en cuenta la duración de la vida de Lucifer, aunque su juicio, ya iniciado, no finalice hasta dentro de cien mil años de Urantia. Desde el punto de vista de Uversa, donde el litigio está pendiente, este período relativo de tiempo podría ser indicado diciendo que el crimen de Lucifer fue llevado a juicio a los dos segundos y medio de haberse cometido. Desde el punto de vista del Paraíso, el juicio es simultáneo con el acto._ <a id="a72_792"></a>[LU 54:5.13](/es/The_Urantia_Book/54#p5_13)
 
 Quiero llamar la atención sobre el dato de que, contando con que el juicio finalice dentro de 100.000 años, y dado que la rebelión comenzó hace 200.000 años, en total estamos ante un proceso que podría durar 300.000 años. Y, según se desprende del texto, esos 300.000 años en la vida de Lucifer serán comparables a digamos 2 ó 3 días en la vida de un mortal de Urantia.
 
@@ -65,3 +89,27 @@ Soy de la opinión de que no hay datos erróneos en el libro, sino interpretacio
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Solo_la_vida_interior_es_realmente_creativa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sólo la vida interior es realmente creativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-36-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 36 — Marzo 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ismael_Gracia">
+          <span class="pr-2">Cuestionario urantiano: Ismael Gracia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

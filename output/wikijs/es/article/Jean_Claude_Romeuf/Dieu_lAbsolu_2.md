@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Olga López, por la traducción<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton y La Vía Láctea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-6-septiembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 6 — Septiembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Mas_Alla_de_las_Matematicas">
+          <span class="pr-2">Más Allá de las Matemáticas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hemos escogido hablar de Dios el Absoluto, pues la comprensión relativa que podamos alcanzar hace referencia a los conceptos mentales más difíciles del _Libro de Urantia_. Somos conscientes de que la mente humana es limitada y finita, pero ¿no es acaso nuestra meta evolutiva alcanzar los límites superiores de la perfección? ¿No es esta misma meta que nos hemos fijado la que nos permite experimentar y actualizar en el Supremo nuestra divinidad potencial e imperfecta?
 
@@ -67,3 +91,27 @@ Publicado en el nº 34 del boletín «Le Lien Urantien» de la AFFLU. Traducció
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton y La Vía Láctea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-6-septiembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 6 — Septiembre 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Mas_Alla_de_las_Matematicas">
+          <span class="pr-2">Más Allá de las Matemáticas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

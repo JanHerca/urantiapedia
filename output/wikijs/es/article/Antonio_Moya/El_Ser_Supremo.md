@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Antonio Moya<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evolución de la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mariano_Perez/Despues_De_Pentecostes">
+          <span class="pr-2">Después de Pentecostés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introducción de Antonio Moya
@@ -30,7 +54,7 @@ Para mí, el Ser Supremo es el Infinito YO SOY, pero trabajando en los niveles e
 
 El L.d.U. nos dice: «En la Deidad del Supremo, el Padre-YO SOY ha conseguido una liberación relativamente completa de las limitaciones inherentes al estado infinito, a la existencia eterna y a la naturaleza absoluta... al lograr liberarse de la eternidad, el Todopoderoso se encuentra con las barreras del tiempo...»
 
-«Todo esto debe ser conforme con el plan del Padre, que ha basado el progreso finito en el esfuerzo, los logros de la criatura en la perseverancia, y el desarrollo de la personalidad en la fe. Al ordenar así la evolución experiencial del Supremo, el Padre ha hecho posible que las criaturas finitas puedan existir en los universos...» ([Doc.115-7](/es/The_Urantia_Book/115#p7))
+«Todo esto debe ser conforme con el plan del Padre, que ha basado el progreso finito en el esfuerzo, los logros de la criatura en la perseverancia, y el desarrollo de la personalidad en la fe. Al ordenar así la evolución experiencial del Supremo, el Padre ha hecho posible que las criaturas finitas puedan existir en los universos...» (<a id="a56_336"></a>[Doc.115-7](/es/The_Urantia_Book/115#p7))
 
 Cuando el Infinito YO SOY diferenció la Realidad, lo hizo separando por un lado lo Potencial y por otro lado lo Manifestado. Lo potencial está aún sin expresarse, y está contenido en los tres Absolutos de potencialidad. Lo manifestado es lo que ya está expresado, y se encuentra expresado en el universo de tres maneras: la cosa absoluta (Isla del Paraíso), la personalidad absoluta (Hijo Eterno) y la mente absoluta (Espíritu Infinito). Estos tres Absolutos manifestados son los que dan origen a toda la realidad que conocemos.
 
@@ -40,7 +64,7 @@ El L.d.U. dice al respecto: «Todo el proyecto de la creación y de la evolució
 
 «La dinámica final del cosmos consiste en trasvasar continuamente la realidad desde el estado potencial al estado manifestado». ([Doc. 115](/es/The_Urantia_Book/115#))
 
-«La gran lucha de esta era del universo tiene lugar entre lo potencial y lo manifestado -todo lo que hasta ahora no se ha expresado, trata de manifestarse». ([Doc.117-4](/es/The_Urantia_Book/117#p4))
+«La gran lucha de esta era del universo tiene lugar entre lo potencial y lo manifestado -todo lo que hasta ahora no se ha expresado, trata de manifestarse». (<a id="a66_158"></a>[Doc.117-4](/es/The_Urantia_Book/117#p4))
 
 Deduzco que, cuando en la eternidad del pasado el Infinito YO SOY dividió la realidad en Potencial y Manifestada, lo hizo así porque ya tenía «in mente» crear el nivel finito, donde los potenciales se irían convirtiendo con el tiempo en realidades.
 
@@ -58,12 +82,36 @@ El Ser Supremo está destinado a alcanzar el máximo del nivel finito. Nosotros 
 
 El Ser Supremo estará completo cuando los siete superuniversos estén establecidos en luz y vida. Tendremos entonces en la creación la perfección existencial (Havona) y la experiencial (superuniversos).
 
-En el documento 117, [LU 117:7.12](/es/The_Urantia_Book/117#p7_12), se habla sobre el futuro del Supremo. De modo parecido, nosotros los mortales estaremos ocupados durante toda la eternidad. La eternidad no puede ser una siesta eterna, en contra de lo que pretenden otras religiones.
+En el documento 117, <a id="a84_21"></a>[LU 117:7.12](/es/The_Urantia_Book/117#p7_12), se habla sobre el futuro del Supremo. De modo parecido, nosotros los mortales estaremos ocupados durante toda la eternidad. La eternidad no puede ser una siesta eterna, en contra de lo que pretenden otras religiones.
 
-Nosotros tenemos una obligación para con el Supremo, y es la de desarrollar nuestros potenciales. Somos personalidades únicas e insustituibles. Si no elegimos sobrevivir, el Supremo experimentará un retraso en su desarrollo ([LU 117:4.2](/es/The_Urantia_Book/117#p4_2)). Cuando hacemos algo contra alguien vamos en contra de la unidad. Lo que una personalidad puede aportar no se pierde; los valores se mantienen en los ajustadores y en el Supremo, aunque lo potencial seguirá siendo potencial si no se desarrolla.
+Nosotros tenemos una obligación para con el Supremo, y es la de desarrollar nuestros potenciales. Somos personalidades únicas e insustituibles. Si no elegimos sobrevivir, el Supremo experimentará un retraso en su desarrollo (<a id="a86_225"></a>[LU 117:4.2](/es/The_Urantia_Book/117#p4_2)). Cuando hacemos algo contra alguien vamos en contra de la unidad. Lo que una personalidad puede aportar no se pierde; los valores se mantienen en los ajustadores y en el Supremo, aunque lo potencial seguirá siendo potencial si no se desarrolla.
 
 Resulta inevitable preguntarse cómo serán los habitantes del espacio exterior, aunque poco nos podemos imaginar al respecto. Desde luego no tiene sentido decir que tendrán más privilegios que nosotros, o viceversa. Tampoco sabemos si existen o no; está claro que no existen en nuestro espacio-tiempo, en nuestra «burbuja», pero seguro que existen en su «burbuja» absonita, donde se trasciende el espacio y el tiempo.
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evolución de la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-1-mayo-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 1 — Mayo 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mariano_Perez/Despues_De_Pentecostes">
+          <span class="pr-2">Después de Pentecostés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

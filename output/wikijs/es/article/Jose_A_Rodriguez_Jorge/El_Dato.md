@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 José A. Rodríguez Jorge<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Antonio_Moya/Para_Que_Sirven_Los_Siete_Mundos_De_Las_Mansiones">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Para qué sirven los siete mundos de las mansiones?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-4-febrero-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 4 — Febrero 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Monique_Fennes/Un_Instante_Infinito">
+          <span class="pr-2">Un instante infinito (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La primera vez que leí _El Libro de Urantia_ tenía la impresión de no estar entendiendo nada, como que todavía sé que hay muchas cosas en este misterioso libro que no entiendo. Podía caer en el error de quedarme en el dato. Por ejemplo, son tantos o cuantos los mundos celestiales del superuniverso o de Havona, y perder de vista la importancia del hecho de que hay un cielo y un paraíso. Realmente es un texto extenso, pero creo que no hay que sentirse abrumado por ello. Es importante que, en un mundo como el nuestro, tan dado al agnosticismo, alguien deje las cosas claras: Dios existe, es el «arquitecto» del universo, y el ser humano transciende la naturaleza material.
@@ -28,3 +52,27 @@ Creo que con fe, sencillamente, se vive mejor.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Antonio_Moya/Para_Que_Sirven_Los_Siete_Mundos_De_Las_Mansiones">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Para qué sirven los siete mundos de las mansiones?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-4-febrero-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 4 — Febrero 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Monique_Fennes/Un_Instante_Infinito">
+          <span class="pr-2">Un instante infinito (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

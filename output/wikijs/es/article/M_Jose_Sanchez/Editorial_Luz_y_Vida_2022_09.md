@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Septiembre 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos">
+          <span class="pr-2">Cuestionario Urantiano: Juan José López Vallejos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-2.jpg" alt="Editorial sep-22-2">
@@ -30,15 +54,15 @@ Pero espera un momento, te pregunto:
 
 No se trata de prepotencia o falta de humildad, para nada. Se trata de valorarnos por lo que somos, de reconocer nuestra más profunda verdad. Porque con frecuencia actuamos con bastante inconsistencia, como si condujéramos nuestra vida en «piloto automático» y nos olvidamos únicas de lo que somos: unos maravillosos hijos de una divinidad, unas criaturas traídas a la existencia en este universo, a este plano material por amor del Creador de todas las cosas.
 
-> Dios vive en cada uno de sus hijos nacidos del espíritu. [LU 5:2.2](/es/The_Urantia_Book/5#p2_2)
+> Dios vive en cada uno de sus hijos nacidos del espíritu. <a id="a56_59"></a>[LU 5:2.2](/es/The_Urantia_Book/5#p2_2)
 
 Somos unas criaturas peculiares, pues curiosamente somos al mismo tiempo coche y conductor, nave y piloto, caballo y jinete; es decir, somos un mecanismo electroquímico que nos permite manejarnos en la realidad material pero también somos un ente autoconsciente, creativo y capaz de trascender la materia.
 
-> Hay, por lo tanto, dos realidades que inciden y están centradas en los circuitos de la mente humana: una es el yo mortal que ha evolucionado según los planes originales de los Portadores de Vida, la otra es una entidad inmortal procedente de las altas esferas de Divinington, un don de Dios que mora en el interior de ese yo. [LU 110:2.4](/es/The_Urantia_Book/110#p2_4)
+> Hay, por lo tanto, dos realidades que inciden y están centradas en los circuitos de la mente humana: una es el yo mortal que ha evolucionado según los planes originales de los Portadores de Vida, la otra es una entidad inmortal procedente de las altas esferas de Divinington, un don de Dios que mora en el interior de ese yo. <a id="a60_328"></a>[LU 110:2.4](/es/The_Urantia_Book/110#p2_4)
 
 Este asunto de nuestra identidad, de nuestro verdadero ser, se lleva reflexionando hace ya muchos siglos:
 
-> Muchas religiones orientales y algunas occidentales han percibido que el hombre posee un legado divino además de una herencia humana… Los hombres llevan creyendo durante siglos que hay algo que crece dentro de la naturaleza humana, algo vital que está destinado a perdurar más allá del breve lapso de la vida temporal. [LU 111:0.2](/es/The_Urantia_Book/111#p0_2)
+> Muchas religiones orientales y algunas occidentales han percibido que el hombre posee un legado divino además de una herencia humana… Los hombres llevan creyendo durante siglos que hay algo que crece dentro de la naturaleza humana, algo vital que está destinado a perdurar más allá del breve lapso de la vida temporal. <a id="a64_321"></a>[LU 111:0.2](/es/The_Urantia_Book/111#p0_2)
 
 Todos conocemos la sencilla expresión de saludo _aloha_, utilizada para los saludos y como expresión de amor, compasión y generosidad. Etimológicamente se compone de los términos _alo_ (presencia o estar presente) y _ha_ (aliento o inspiración divina). Es decir, el saludo aloha significa que se da la bienvenida y reconoce la esencia divina de la otra persona. Este respeto repercute en la forma amorosa y alegre de relacionarse con los demás seres humanos.
 
@@ -50,7 +74,7 @@ Ahora bien, en la sala donde se hallaba la sibila (esa sabia mujer entrenada des
 
 Estos dos sencillos ejemplos que nos recuerdan lo que somos, que nos exhortan a buscar el mejor autoconocimiento, nos impulsan a ser buscadores, en una carrera sin fin, de progresión y expansión sin límites.
 
-> El gran Dios se pone en contacto directo con el hombre mortal y da una parte de su ser infinito y eterno e incomprensible para que viva y more dentro de él. Dios se ha embarcado en la aventura eterna con el hombre. Si os sometéis a las directrices de las fuerzas espirituales que están dentro y alrededor de vosotros, no podréis dejar de alcanzar el alto destino que un Dios amoroso ha establecido como meta en el universo para sus criaturas ascendentes de los mundos evolutivos del espacio. [LU 5:1.12](/es/The_Urantia_Book/5#p1_12)
+> El gran Dios se pone en contacto directo con el hombre mortal y da una parte de su ser infinito y eterno e incomprensible para que viva y more dentro de él. Dios se ha embarcado en la aventura eterna con el hombre. Si os sometéis a las directrices de las fuerzas espirituales que están dentro y alrededor de vosotros, no podréis dejar de alcanzar el alto destino que un Dios amoroso ha establecido como meta en el universo para sus criaturas ascendentes de los mundos evolutivos del espacio. <a id="a76_494"></a>[LU 5:1.12](/es/The_Urantia_Book/5#p1_12)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-3.jpg" alt="Editorial sep-22-3">
@@ -108,10 +132,34 @@ Iluminar Europa y por ende el mundo, volviendo hacia nuestro interior antes que 
 
 ¿Estamos buscando soluciones en el sitio correcto? El mismo Jesús nos orienta en nuestra búsqueda, hacia dentro, hacia nuestro núcleo. Ahí está la respuesta a nuestros problemas e inquietudes actuales.
 
-> La religión griega tenía un lema: «Conócete a ti mismo». Los hebreos centraban su enseñanza en «conoce a tu Dios». Los cristianos predican un evangelio dirigido al «conocimiento del Señor Jesucristo». Jesús proclamó la buena nueva de «conocer a Dios y conocerte a ti mismo como hijo de Dios». [LU 5:4.8](/es/The_Urantia_Book/5#p4_8)
+> La religión griega tenía un lema: «Conócete a ti mismo». Los hebreos centraban su enseñanza en «conoce a tu Dios». Los cristianos predican un evangelio dirigido al «conocimiento del Señor Jesucristo». Jesús proclamó la buena nueva de «conocer a Dios y conocerte a ti mismo como hijo de Dios». <a id="a134_295"></a>[LU 5:4.8](/es/The_Urantia_Book/5#p4_8)
 
 Grande y hermosa nuestra buena nueva, la que nos invita Jesús a realizar en estos tiempos, en este encuentro europeo.
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Septiembre 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos">
+          <span class="pr-2">Cuestionario Urantiano: Juan José López Vallejos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

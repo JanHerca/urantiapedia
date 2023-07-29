@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Santiago Rodríguez<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El universo es un lugar increíblemente grande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="pr-2">Cuestionario urantiano: Mariano Pérez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Por qué el universo es tal y como lo contemplamos?. La respuesta que se estilaba hace 500 ó 600 años, y que a la luz de los conocimientos de hoy nos resultaría infantil y completamente superada, sería algo así: «Dios lo ha creado así». O dicho de otro modo, hay un Dios que lo hace todo y todo lo hace perfecto. No necesito preguntarme nada porque todo lo ha diseñado y creado Él.
 
@@ -26,7 +50,7 @@ Existen una serie de parámetros físicos cuyos valores no son predichos en modo
 <img src="/image/article/Luz_y_Vida/LyV39/13.jpg">
 </figure>
 
-En nuestra concepción actual del universo, consideramos un «principio cosmológico» en la que no nos queda más remedio que suponer que en todo el universo existen las mismas propiedades locales. Es decir, que lo que aquí conocemos funciona exactamente igual en todas las partes del cosmos observable. Y puede que así sea. [LU 2:7.2](/es/The_Urantia_Book/2#p7_2) Los hechos físicos son bastante uniformes...
+En nuestra concepción actual del universo, consideramos un «principio cosmológico» en la que no nos queda más remedio que suponer que en todo el universo existen las mismas propiedades locales. Es decir, que lo que aquí conocemos funciona exactamente igual en todas las partes del cosmos observable. Y puede que así sea. <a id="a52_321"></a>[LU 2:7.2](/es/The_Urantia_Book/2#p7_2) Los hechos físicos son bastante uniformes...
 
 La ciencia de hoy día está sorprendida, pues se ha dado cuenta de que, si alguno de esos valores fueran ligeramente diferentes a lo que son, el universo tal y como lo observamos no podría existir...y nosotros como sus observadores tampoco existiríamos. ¿Cómo es posible que esos valores estén tan afinados, y sean los que son, de manera que el universo sea tal y como lo contemplamos y permita nuestra misma existencia? ¿Cómo han podido confabularse de esta manera?
 
@@ -34,7 +58,7 @@ Una vez más, estamos ante otra versión de la misma pregunta inicial. La respue
 
 ¿Pero realmente se está respondiendo a la pregunta inicial? Tanto la respuesta de hace varios siglos como la actual, ¿no dan la impresión de que tratan de soslayar algo? Quizá ha llegado el momento de que la ciencia vuelva los ojos a la realidad de que el universo ha sido diseñado con un propósito...de que hay unas mentes que diseñan y organizan de una manera tan magistral que todo parece funcionar de una manera automática, de alguna forma mecanicista.
 
-> _La soberanía de Dios es ilimitada; es el hecho fundamental de toda la creación. El universo no era inevitable. El universo no es un accidente, ni existe por sí mismo. El universo es un trabajo de creación y por eso está totalmente sujeto a la voluntad del Creador._ [LU 3:6.2](/es/The_Urantia_Book/3#p6_2)
+> _La soberanía de Dios es ilimitada; es el hecho fundamental de toda la creación. El universo no era inevitable. El universo no es un accidente, ni existe por sí mismo. El universo es un trabajo de creación y por eso está totalmente sujeto a la voluntad del Creador._ <a id="a60_269"></a>[LU 3:6.2](/es/The_Urantia_Book/3#p6_2)
 
 Si nos negamos a admitir que los valores de las constantes son los que son porque así reproducen el cosmos en el que nos encontramos y han sido elegidos de una manera muy cuidadosa; si nos negamos a admitir una intervención mental con voluntad y propósito, eso nos lleva a tener que especular con un sinfín de suposiciones enormemente fantasiosas, como sería admitir infinitos universos paralelos al nuestro en el que cada uno difiere en un valor infinitesimal de una de las características de cada una de las partículas que lo componen. Universos que, por otro lado, no tendríamos ninguna posibilidad de contactar. O bien tendríamos que buscar alternativas de que en otros sitios (a los que no tenemos acceso) se han formado y han evolucionado según sus propios parámetros infinidad de universos, cada uno con valores diferentes de las distintas constantes físicas universales. Nosotros estamos en uno de ellos y es el que nos es dado observar. O bien, a lo largo de eras interminables, se han ido sucediendo universos alternativos hasta que la casualidad ha permitido que confabulen esos valores para traer a la existencia el universo que conocemos.
 
@@ -44,12 +68,36 @@ Creo que la humanidad daría un gran salto evolutivo si se alejara de una vez de
 
 _El Libro de Urantia_ nos revela que el universo no es un accidente, sino algo generado por la voluntad del Creador, y este mismo Creador controla el «poder», es decir, todas las formas de energía que son sensibles a la gravedad lineal, a la gravedad que nosotros conocemos.
 
-> _Dios controla todo el poder; ha trazado «un camino para el rayo»; ha ordenado los circuitos de todas las energías. Ha decretado el momento y la manera de manifestarse de todas las formas de energía materia._ [LU 3:2.4](/es/The_Urantia_Book/3#p2_4)
+> _Dios controla todo el poder; ha trazado «un camino para el rayo»; ha ordenado los circuitos de todas las energías. Ha decretado el momento y la manera de manifestarse de todas las formas de energía materia._ <a id="a70_211"></a>[LU 3:2.4](/es/The_Urantia_Book/3#p2_4)
 
-> _3. El poder del universo incluye todas las formas de energía que son directamente sensibles a la gravedad lineal, aunque todavía responden a la gravedad del Paraíso. Es el nivel electrónico de la energía-materia y de todas sus evoluciones posteriores._ [LU 0:6.3](/es/The_Urantia_Book/0#p6_3)
+> _3. El poder del universo incluye todas las formas de energía que son directamente sensibles a la gravedad lineal, aunque todavía responden a la gravedad del Paraíso. Es el nivel electrónico de la energía-materia y de todas sus evoluciones posteriores._ <a id="a72_256"></a>[LU 0:6.3](/es/The_Urantia_Book/0#p6_3)
 
 Esperemos que la ciencia vuelva poco a poco a colocar y permitir que las cosas estén en su sitio. Colocar a Dios detrás de cada interrogante supuso un estancamiento del progreso. De la misma manera, ignorar que hay un propósito inteligente en el diseño del universo retrasará nuestro conocimiento profundo de él.
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El universo es un lugar increíblemente grande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-39-marzo-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 39 — Marzo 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="pr-2">Cuestionario urantiano: Mariano Pérez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

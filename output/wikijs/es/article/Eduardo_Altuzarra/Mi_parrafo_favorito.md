@@ -9,12 +9,36 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Eduardo Altuzarra<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2021_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Octubre 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Coll">
+          <span class="pr-2">Cuestionario Urantiano: Luis Coll</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > <figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
-> La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana; sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible (recomendable) para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. [LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
+> La existencia de Dios nunca se podrá demostrar mediante los experimentos científicos ni las deducciones lógicas de la razón pura. Dios sólo se puede comprender en las esferas de la experiencia humana; sin embargo, el verdadero concepto de la realidad de Dios es razonable para la lógica, plausible (recomendable) para la filosofía, esencial para la religión e indispensable para cualquier esperanza de supervivencia de la personalidad. <a id="a40_438"></a>[LU 1:2.7](/es/The_Urantia_Book/1#p2_7)
 
 La mayoría de las personas que nos dedicamos a la lectura de libros casi siempre señalamos, subrayamos, copiamos, referenciamos una serie párrafos porque los consideramos interesantes, esclarecedores o transcendentales.
 
@@ -52,10 +76,34 @@ Y termino este articulo diciendo que Albert Einstein tenía un concepto muy prof
 > «Mi religiosidad consiste en una humilde admiración del espíritu infinitamente superior que se revela en los pequeños detalles que podemos percibir con nuestras mentes frágiles y débiles. Esa convicción profundamente emocional de la presencia de un poder de razonamiento superior, que se revela en el universo incomprensible, forma mi idea de Dios.»  
 > Fuente: https://frases.top/frases-celebres/frases-albert-einstein/#Frases_de_Einstein_sobre_Dios
 
-> Una vez que mis hijos se hagan conscientes de la certeza de la presencia divina, esa fe abrirá su mente, ennoblecerá su alma, fortalecerá su personalidad, aumentará su felicidad, intensificará su percepción espiritual y realzará su poder para amar y ser amados. [LU 159:3.12](/es/The_Urantia_Book/159#p3_12)
+> Una vez que mis hijos se hagan conscientes de la certeza de la presencia divina, esa fe abrirá su mente, ennoblecerá su alma, fortalecerá su personalidad, aumentará su felicidad, intensificará su percepción espiritual y realzará su poder para amar y ser amados. <a id="a78_264"></a>[LU 159:3.12](/es/The_Urantia_Book/159#p3_12)
 
 Otro párrafo favorito…
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2021_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Octubre 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Coll">
+          <span class="pr-2">Cuestionario Urantiano: Luis Coll</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

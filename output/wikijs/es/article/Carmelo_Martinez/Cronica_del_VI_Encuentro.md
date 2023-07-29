@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Carmelo Martínez<br>© 2006 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo vivir las enseñanzas del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-5-mayo-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 5 — Mayo 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No voy a describir el VI Encuentro con una sola palabra, pero si tuviera que hacerlo ésta sería sin duda «unidad». Unidad en el desarrollo de los debates, si bien no unanimidad de criterios, y unidad en el ambiente y las relaciones de los asistentes.
 
@@ -55,3 +76,25 @@ La despedida del lunes tras el desayuno fue, como siempre, prolongada; tratábam
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo vivir las enseñanzas del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-5-mayo-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 5 — Mayo 2006 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

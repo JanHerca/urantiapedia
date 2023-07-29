@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="pr-2">Luz y Vida — Marzo 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -48,9 +69,9 @@ Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir l
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
-> … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». [LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
+> … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». <a id="a71_372"></a>[LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
 
-> Muchas veces lo sagrado se presenta como lo más sencillo, y así aquel día ni los niños ni sus madres se dieron cuenta de que las inteligencias espectadoras de Nebadon estaban contemplando cómo jugaban los niños de Jericó con el Creador de un universo. [LU 167:6.3](/es/The_Urantia_Book/167#p6_3)
+> Muchas veces lo sagrado se presenta como lo más sencillo, y así aquel día ni los niños ni sus madres se dieron cuenta de que las inteligencias espectadoras de Nebadon estaban contemplando cómo jugaban los niños de Jericó con el Creador de un universo. <a id="a73_254"></a>[LU 167:6.3](/es/The_Urantia_Book/167#p6_3)
 
 Los niños y niñas carecían de cualquier tipo de consideración social en la época en la que vivió Jesús de Nazaret. Por ello, no puede extrañar que los discípulos les regañasen cuando alborotaban cerca del maestro. Para sorpresa de todos, sin embargo, Jesús los encumbra y da a entender que la pequeñez, la simplicidad, es el criterio definitivo del reino.
 
@@ -173,14 +194,14 @@ Francisco Segura Berenguel
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/El-mundo-de-la-cruz.jpg" alt="Mi párrafo favorito - mar 2023">
 </figure>
 
-> La cruz es el gran símbolo del servicio sagrado que consiste en dedicar nuestra vida al bienestar y la salvación de nuestros semejantes. La cruz no simboliza el sacrificio del Hijo de Dios inocente que es castigado en lugar de los pecadores culpables para aplacar la cólera de un Dios ofendido; la cruz se alza para siempre en el planeta y en todo un vasto universo como símbolo sagrado de los buenos que se otorgan a los malos y los salvan mediante esa misma entrega de amor. La cruz es el signo de la manifestación más alta de servicio generoso: la entrega suprema y total de una vida recta al servicio incondicional de los demás incluso en la muerte, la muerte en la cruz. La sola visión de este gran símbolo de la vida de otorgamiento de Jesús inspira verdaderamente en todos nosotros el deseo de hacer como él. [LU 188:5.9](/es/The_Urantia_Book/188#p5_9)
+> La cruz es el gran símbolo del servicio sagrado que consiste en dedicar nuestra vida al bienestar y la salvación de nuestros semejantes. La cruz no simboliza el sacrificio del Hijo de Dios inocente que es castigado en lugar de los pecadores culpables para aplacar la cólera de un Dios ofendido; la cruz se alza para siempre en el planeta y en todo un vasto universo como símbolo sagrado de los buenos que se otorgan a los malos y los salvan mediante esa misma entrega de amor. La cruz es el signo de la manifestación más alta de servicio generoso: la entrega suprema y total de una vida recta al servicio incondicional de los demás incluso en la muerte, la muerte en la cruz. La sola visión de este gran símbolo de la vida de otorgamiento de Jesús inspira verdaderamente en todos nosotros el deseo de hacer como él. <a id="a196_818"></a>[LU 188:5.9](/es/The_Urantia_Book/188#p5_9)
 
 Esta parte de los doc.188:4 y sección 5 me han ayudado a entender mejor y desde otro punto de vista más real el significado del símbolo de la cruz. En otro tiempo atrás, cuando pertenecía como miembro de una iglesia evangélica, veía grotesco el simple hecho de observar a Jesús de Nazaret colgado en la cruz, recordando el sufrimiento infligido por sus agresores y la mansedumbre de su actitud hacia ellos.
 
 Se me enseñó durante mi membresía que este signo era como ver a alguien en el que, en otra circunstancia diferente en su muerte, se utilizara el arma homicida como imagen y signo en su propio cuerpo. Por lo cual entendí de esa manera que debía desprenderme de las cruces que tenía en mi poder, algunas de ellas regalos de mis padres y otras adquiridas por mí. Y así lo hice al verlo y entenderlo en esos momentos de esa manera tan primitiva e incluso bárbara:
 
 
-> Al contemplar la cruz como una revelación de Dios, no la veáis con los ojos del hombre primitivo ni desde el punto de vista de los bárbaros posteriores… [LU 188:5.11](/es/The_Urantia_Book/188#p5_11)
+> Al contemplar la cruz como una revelación de Dios, no la veáis con los ojos del hombre primitivo ni desde el punto de vista de los bárbaros posteriores… <a id="a203_155"></a>[LU 188:5.11](/es/The_Urantia_Book/188#p5_11)
 
 Desde que llegó a mis manos _El Libro de Urantia_ ha transformado mi vida y cambiado la perspectiva que anteriormente tenía sobre la vida, el mensaje original de Jesús de Nazaret y, sobre todo, el signo y significado de la cruz.
 
@@ -191,7 +212,7 @@ No es mi intención modificar ni cambiar, en ninguno de ustedes, su perspectiva 
 También en estos mismos documentos, desde que leí esta sección, tengo muy presente este otro párrafo en mi día a día que comparto con ustedes y seguro han recordado en ocasiones:
 
 
-> … Jesús ama tanto a los hombres que su amor despierta una respuesta de amor en el corazón humano. El amor es realmente contagioso y eternamente creativo. [LU 188:5.2](/es/The_Urantia_Book/188#p5_2)
+> … Jesús ama tanto a los hombres que su amor despierta una respuesta de amor en el corazón humano. El amor es realmente contagioso y eternamente creativo. <a id="a214_156"></a>[LU 188:5.2](/es/The_Urantia_Book/188#p5_2)
 
 Personalmente no entendería el mundo sin el amor al que hace referencia _El Libro de Urantia_. Ese amor que hace que vivamos por y para alguien, nuestros hijos, hermanos, padres, familiares y amigos. Vivir y mostrar al resto de nuestros seres queridos la forma en que llevamos y mostramos que somos todos hijos del mismo Padre y por ende a la hermandad fraterna y espiritual que, el Maestro nos enseñó.
 
@@ -291,3 +312,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="pr-2">Luz y Vida — Marzo 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

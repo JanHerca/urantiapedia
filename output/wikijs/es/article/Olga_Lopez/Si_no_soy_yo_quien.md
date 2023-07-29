@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Olga López<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiencia y conclusiones del Simposio de Liderazgo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_12">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Soy consciente de que esta presentación se centra Dprincipalmente en el liderazgo dentro del movimiento Urantia, y que esta puede parecer una perspectiva muy limitada. Siempre he dicho que hay muchas trincheras desde las que luchar para hacer de este mundo un lugar mejor, donde reine la paz y la armonía y el progreso espiritual sea mucho más palpable de lo que lo es hoy día, y todo esfuerzo que se dedique a este encomiable fin me parece útil y valioso, aunque no esté directamente relacionado con las enseñanzas de Urantia.
 
@@ -18,7 +42,7 @@ En estos últimos años, se ha hablado mucho en el movimiento Urantia de los «l
 
 Y, sin embargo, creo que todos lo somos. La pregunta «¿soy un líder?» es innecesaria. Si estamos aquí es porque YA lo somos. Hay una afirmación muy conocida del LU, que me gustaría recordar aquí. Aparece en el documento 81 y dice lo siguiente:
 
-> El liderazgo es vital para el progreso. La sabiduría, la perspicacia y la previsión son indispensables para que duren las naciones. La civilización nunca está realmente en peligro hasta que sus dirigentes capaces empiezan a desaparecer. Y la cantidad de estos jefes sabios nunca ha sobrepasado el uno por ciento de la población. [LU 81:6.42](/es/The_Urantia_Book/81#p6_42)
+> El liderazgo es vital para el progreso. La sabiduría, la perspicacia y la previsión son indispensables para que duren las naciones. La civilización nunca está realmente en peligro hasta que sus dirigentes capaces empiezan a desaparecer. Y la cantidad de estos jefes sabios nunca ha sobrepasado el uno por ciento de la población. <a id="a44_331"></a>[LU 81:6.42](/es/The_Urantia_Book/81#p6_42)
 
 Hace ya unos años, leí un artículo muy interesante en el _Journal_, que desarrollaba sus argumentos justamente a partir de este párrafo. El título era muy sugerente: _¿Dónde están mis 99?_ Este título, como podéis ver, da por supuesto que quien formula esa pregunta se incluye en el uno por ciento de líderes de la población. Creo que la pregunta formula una afirmación muy valiente y desacomplejada, que creo que deberíamos hacer nuestra para asegurar el éxito futuro de la quinta revelación.
 
@@ -29,7 +53,7 @@ Hace ya unos años, leí un artículo muy interesante en el _Journal_, que desar
 
 Según el diccionario de la RAE, líder es una «persona a la que un grupo sigue, reconociéndola como jefe u orientadora». Personalmente, creo que esta definición debería ampliarse para recoger otro tipo de líder: lo que otros lectores del libro definen como «líder-servidor». Lo que fue, por ejemplo, Jesús de Nazaret. Recordemos sus palabras:
 
-> «_Aquél de vosotros que quiera ser el más grande, que sea el servidor de todos_». [LU 56:10.14](/es/The_Urantia_Book/56#p10_14)
+> «_Aquél de vosotros que quiera ser el más grande, que sea el servidor de todos_». <a id="a55_84"></a>[LU 56:10.14](/es/The_Urantia_Book/56#p10_14)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/22.jpg">
@@ -62,17 +86,17 @@ Moraleja: pensad que no solo podéis marcar la diferencia para un buscador de la
 
 Otro de los aspectos del liderazgo sobre los que me gustaría hacer hincapié es su lazo vital con el grupo del cual forma parte. Para que la diseminación del libro funcione, es vital que el grupo funcione satisfactoriamente. Pensad en un grupo cualquiera: un grupo de estudio, una asociación local, una asociación nacional. Una de las tareas del líder es que el grupo funcione correctamente y, en mi opinión, eso se consigue haciendo que todos los miembros saquen el máximo de su potencial en bien del grupo. Esa justamente sería una de las tareas del líder. Pero no solo eso: el líder debería estar siempre con los ojos y oídos bien abiertos a cualquier otro posible líder que aparezca en escena. En este movimiento no se trata de  competir entre nosotros, sino de cooperar. En este punto, quiero recordaros otra cita del libro:
 
-> _La aritmética dice que si un hombre puede esquilar una oveja en diez minutos, diez hombres pueden hacerlo en un minuto. Es un cálculo exacto, pero no es cierto, porque los diez hombres no podrian hacerlo; se estorbarian tanto los unos a los otros que el trabajo se retrasaría considerablemente._ [LU 133:5.5](/es/The_Urantia_Book/133#p5_5)
+> _La aritmética dice que si un hombre puede esquilar una oveja en diez minutos, diez hombres pueden hacerlo en un minuto. Es un cálculo exacto, pero no es cierto, porque los diez hombres no podrian hacerlo; se estorbarian tanto los unos a los otros que el trabajo se retrasaría considerablemente._ <a id="a88_299"></a>[LU 133:5.5](/es/The_Urantia_Book/133#p5_5)
 
 Así pues, no nos estorbemos mutuamente. Hay mucho trabajo que hacer, y de muchos tipos: coordinémonos y repartámoslo. Además, recordemos esta otra afirmación del libro:
 
-> _Las matemáticas afirman que si una persona representa cierta unidad de valor intelectual y moral, diez personas representarían diez veces ese valor. Pero al tratar de la personalidad humana, sería más exacto decir que una asociación semejante de personalidades es igual al cuadrado del número de personalidades que figuran en la ecuación, en lugar de su simple suma aritmética. Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes._ [LU 133:5.6](/es/The_Urantia_Book/133#p5_6)
+> _Las matemáticas afirman que si una persona representa cierta unidad de valor intelectual y moral, diez personas representarían diez veces ese valor. Pero al tratar de la personalidad humana, sería más exacto decir que una asociación semejante de personalidades es igual al cuadrado del número de personalidades que figuran en la ecuación, en lugar de su simple suma aritmética. Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes._ <a id="a92_527"></a>[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)
 
 O sea que, al hablar de personalidades, $(a+b+c+\ldots +n) = (a+b+c+\ldots+n)^{2}$
 
 El grupo es mucho más que la suma de las personas que lo conforman. Luego manejémoslo bien porque entonces no solo sumaremos: multiplicaremos.
 
-> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._ [LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
+> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._ <a id="a98_652"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/23.jpg">
@@ -88,3 +112,27 @@ Si no es ahora... ¿cuándo?
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiencia y conclusiones del Simposio de Liderazgo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_12">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

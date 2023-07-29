@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Olga López<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visiones de futuro para gente con visión de futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-42-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 42 — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_tambien_de_valores">
+          <span class="pr-2">Convergencias y divergencias también de valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De Olga López 
 Directora de la UBIS-ES
@@ -37,3 +61,27 @@ Creo sinceramente que, con el equipo que tenemos, esa meta se alcanzará dentro 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visiones de futuro para gente con visión de futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-42-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 42 — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_tambien_de_valores">
+          <span class="pr-2">Convergencias y divergencias también de valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

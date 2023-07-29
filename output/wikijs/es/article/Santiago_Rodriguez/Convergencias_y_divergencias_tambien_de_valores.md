@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 De Santiago Rodríguez<br>© 2015 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Escuela de _El Libro de Urantia_ en Internet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-42-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 42 — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Santiago_Rodriguez">
+          <span class="pr-2">Cuestionario urantiano: Santiago Rodríguez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hasta ahora, los temas tratados en esta sección tenían que ver con hechos que presentaban convergencias o divergencias entre lo aceptado por una mayoría de especialistas sobre el conocimiento actual y esos mismos hechos descritos por el propio libro de Urantia.
 
@@ -28,23 +52,23 @@ La diferencia evolutiva entre individuos y entre grupos manifestada a través de
 
 Expresada la situación actual, tremendamente divergente en lo social y en lo cultural, quiero ahora llamar la atención sobre algunos aspectos desgranados de la lectura de _El Libro de Urantia_.
 
-El primero de ellos es recordar que nuestro personal recorrido por Urantia nos permitirá llevarnos una sola cosa, y es la consecuencia que sobre nuestro carácter tenga la experiencia de haber utilizado los circuitos mentales y espirituales que están a nuestra disposición durante todo el recorrido por el gran universo [LU 117:5.13](/es/The_Urantia_Book/117#p5_13), y ese recorrido ya lo hemos comenzado aquí en Urantia.
+El primero de ellos es recordar que nuestro personal recorrido por Urantia nos permitirá llevarnos una sola cosa, y es la consecuencia que sobre nuestro carácter tenga la experiencia de haber utilizado los circuitos mentales y espirituales que están a nuestra disposición durante todo el recorrido por el gran universo <a id="a54_319"></a>[LU 117:5.13](/es/The_Urantia_Book/117#p5_13), y ese recorrido ya lo hemos comenzado aquí en Urantia.
 
-Para el hombre mortal, existir equivale a crecer [LU 117:2.2](/es/The_Urantia_Book/117#p2_2). Si no hay crecimiento, hay muerte. Y hablamos de un crecimiento experiencial, es decir, sucesivos cambios de estado motivados por _las decisiones llevadas a la acción_, puesto que por «experiencia» debemos entender la acción que voluntariamente realizamos tras tomar una decisión. [LU 117:5.13](/es/The_Urantia_Book/117#p5_13)
+Para el hombre mortal, existir equivale a crecer <a id="a56_49"></a>[LU 117:2.2](/es/The_Urantia_Book/117#p2_2). Si no hay crecimiento, hay muerte. Y hablamos de un crecimiento experiencial, es decir, sucesivos cambios de estado motivados por _las decisiones llevadas a la acción_, puesto que por «experiencia» debemos entender la acción que voluntariamente realizamos tras tomar una decisión. <a id="a56_375"></a>[LU 117:5.13](/es/The_Urantia_Book/117#p5_13)
 
 Estamos llamados al servicio, al trabajo desinteresado por el bienestar de los propios compañeros terrenales, en particular por los seres dignos que están necesitados y en apuros.
 
-Tenemos un reto, un mandato como individuos, y sabemos que la manifestación de la grandeza en un mundo como Urantia es la demostración del control de sí mismo. [LU 28:6.20](/es/The_Urantia_Book/28#p6_20). Además, somos conscientes de que la cultura planetaria se elevará si se eleva la calidad de la mente. [LU 50:6.4](/es/The_Urantia_Book/50#p6_4). Y hemos de estar muy atentos a los ideales, puesto que los ideales de una generación labran los canales del destino para la posteridad inmediata. [LU 81:6.26](/es/The_Urantia_Book/81#p6_26) 
+Tenemos un reto, un mandato como individuos, y sabemos que la manifestación de la grandeza en un mundo como Urantia es la demostración del control de sí mismo. <a id="a60_160"></a>[LU 28:6.20](/es/The_Urantia_Book/28#p6_20). Además, somos conscientes de que la cultura planetaria se elevará si se eleva la calidad de la mente. <a id="a60_307"></a>[LU 50:6.4](/es/The_Urantia_Book/50#p6_4). Y hemos de estar muy atentos a los ideales, puesto que los ideales de una generación labran los canales del destino para la posteridad inmediata. <a id="a60_496"></a>[LU 81:6.26](/es/The_Urantia_Book/81#p6_26) 
 
-> _Al principio, la vida era una lucha por la existencia; hoy es una lucha por el nivel de vida, y en el futuro lo será por la calidad del pensamiento, la próxima meta terrestre de la existencia humana._ [LU 81:6.28](/es/The_Urantia_Book/81#p6_28) 
+> _Al principio, la vida era una lucha por la existencia; hoy es una lucha por el nivel de vida, y en el futuro lo será por la calidad del pensamiento, la próxima meta terrestre de la existencia humana._ <a id="a62_204"></a>[LU 81:6.28](/es/The_Urantia_Book/81#p6_28) 
 
-Como los valores no han de ser estáticos, hemos de promover aquellos cambios que conlleven crecimiento. Los significados se han de expandir y los valores se han de exaltar. [LU 100:3.5](/es/The_Urantia_Book/100#p3_5)
+Como los valores no han de ser estáticos, hemos de promover aquellos cambios que conlleven crecimiento. Los significados se han de expandir y los valores se han de exaltar. <a id="a64_173"></a>[LU 100:3.5](/es/The_Urantia_Book/100#p3_5)
 
-La imaginación creativa ha de producir resultados valiosos y esto será así si el escenario sobre el que actúa esa imaginación no está ocupado por prejuicios, odio, miedos, resentimientos, venganza y fanatismos. [LU 111:4.9](/es/The_Urantia_Book/111#p4_9)
+La imaginación creativa ha de producir resultados valiosos y esto será así si el escenario sobre el que actúa esa imaginación no está ocupado por prejuicios, odio, miedos, resentimientos, venganza y fanatismos. <a id="a66_211"></a>[LU 111:4.9](/es/The_Urantia_Book/111#p4_9)
 
-Una vida humana dominada por el espíritu se manifiesta en el incremento en cantidad y calidad de los frutos del espíritu (381.7) 34:6.13, que modelan el carácter de la personalidad y logran un autocontrol agradable y ennoblecedor. [LU 143:2.8](/es/The_Urantia_Book/143#p2_8).
+Una vida humana dominada por el espíritu se manifiesta en el incremento en cantidad y calidad de los frutos del espíritu (381.7) 34:6.13, que modelan el carácter de la personalidad y logran un autocontrol agradable y ennoblecedor. <a id="a68_231"></a>[LU 143:2.8](/es/The_Urantia_Book/143#p2_8).
 
-Los frutos del espíritu, el servicio sincero y amoroso, son la palanca social que eleva a las razas que están en las tinieblas. [LU 178:1.6](/es/The_Urantia_Book/178#p1_6). Los venenos mentales: miedo, cólera, envidia, celos, desconfianza, intolerancia, dificultan el progreso espiritual del alma evolutiva [LU 110:1.5](/es/The_Urantia_Book/110#p1_5) 
+Los frutos del espíritu, el servicio sincero y amoroso, son la palanca social que eleva a las razas que están en las tinieblas. <a id="a70_128"></a>[LU 178:1.6](/es/The_Urantia_Book/178#p1_6). Los venenos mentales: miedo, cólera, envidia, celos, desconfianza, intolerancia, dificultan el progreso espiritual del alma evolutiva <a id="a70_307"></a>[LU 110:1.5](/es/The_Urantia_Book/110#p1_5) 
 
 Conocida nuestra realidad, y si en este mundo de grandes divergencias queremos converger hacia un crecimiento espiritual adecuado como individuos y como grupo, no nos queda más remedio que no solo _tomar conciencia y decidir_, sino que también _hemos de hacer_; hemos de hacer frente a las tremendas divergencias de desigualdad social y de valores y principios de los diferentes grupos sociales, grupos de extraordinaria violencia unos con el propio género humano, otros con el medio ambiente.
 
@@ -57,3 +81,27 @@ Conocida nuestra realidad, y si en este mundo de grandes divergencias queremos c
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Escuela de _El Libro de Urantia_ en Internet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-42-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 42 — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Santiago_Rodriguez">
+          <span class="pr-2">Cuestionario urantiano: Santiago Rodríguez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

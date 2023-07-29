@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Santiago Rodríguez<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_9_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 9 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-9-mayo-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 9 — Mayo 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carmelo_Martinez/Futuro_de_Urantia_segun_el_LU">
+          <span class="pr-2">Futuro de Urantia según el LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Buenos días a todos, quisiera realizar esta introducción a un tema como es el «Presente de Urantia» haciendo hincapié en que es enormemente amplio y complejo, de hecho nuestro presente se ha venido forjando a lo largo de miles, de millones de años, al menos desde que se decidió que en nuestro planeta se implantaría la vida y de esto hace ahora unos 900 millones de años.
 
@@ -55,7 +79,7 @@ De esta manera llegamos a nuestro presente.
 
 Hay un párrafo que define nuestra situación de manera inequívoca:
 
-> «_Durante los tiempos psicológicamente agitados del siglo veinte, en el medio de los trastornos económicos, las corrientes encontradas de la moral y las mareas sociológicas de las transiciones ciclónicas de la era cientifica, miles y miles de hombres y mujeres se han dislocado humanamente; están ansiosos, desapacibles, temerosos, inseguros e inestables; como nunca antes en la bistoria del mundo, necesitan el consuelo y la estabilización de una religión sólida. Frente a los logros cientificos y al desarrollo mecánico sin precedentes existe un estancamiento espiritualy un caos filosófico._» [LU 99:4.6](/es/The_Urantia_Book/99#p4_6)
+> «_Durante los tiempos psicológicamente agitados del siglo veinte, en el medio de los trastornos económicos, las corrientes encontradas de la moral y las mareas sociológicas de las transiciones ciclónicas de la era cientifica, miles y miles de hombres y mujeres se han dislocado humanamente; están ansiosos, desapacibles, temerosos, inseguros e inestables; como nunca antes en la bistoria del mundo, necesitan el consuelo y la estabilización de una religión sólida. Frente a los logros cientificos y al desarrollo mecánico sin precedentes existe un estancamiento espiritualy un caos filosófico._» <a id="a81_598"></a>[LU 99:4.6](/es/The_Urantia_Book/99#p4_6)
 
 Hoy por hoy, poseemos una sociedad que se tambalea al tolerar una ciencia sin idealismo, una política sin principios, una riqueza sin trabajo, un placer sin restricción, un conocimiento sin carácter, un poder sin conciencia y una industria sin moral.
 
@@ -101,11 +125,11 @@ Por ello nos instan a establecer un sistema educativo inteligente, ya que el pro
 
 El enorme crecimiento en el aspecto material nos debería obligar a buscar las realidades del cielo en todos nuestros esfuerzos por estabilizar la sociedad y para facilitar la solución de los problemas materiales.
 
-> «_La religión descubre para el alma aquellos valores supremos que contrastan con los valores relativos descubiertos por la mente. Esta perspicacia sobrehumana sólo se puede obtener mediante una experiencia religiosa auténtica._» [LU 195:5.8](/es/The_Urantia_Book/195#p5_8)
+> «_La religión descubre para el alma aquellos valores supremos que contrastan con los valores relativos descubiertos por la mente. Esta perspicacia sobrehumana sólo se puede obtener mediante una experiencia religiosa auténtica._» <a id="a127_231"></a>[LU 195:5.8](/es/The_Urantia_Book/195#p5_8)
 
 Pero en esta época de cambios y ajustes en la que estamos inmersos hemos de tener mucha precaución: el gran error de Lucifer y después el mismo error que llevó al fracaso a Adán y Eva fue precisamente la impaciencia.
 
-> «_No debe intentarse ningún cambio social o económico grande en forma repentina. El tiempo es esencial para todo tipo de ajuste humano: físico, social o económico. Sólo los ajustes morales y espirituales pueden hacerse en el instante, y aun estos requieren el paso del tiempo para el pleno desarrollo de sus repercusiones sociales y materiales_» [LU 81:6.40](/es/The_Urantia_Book/81#p6_40)
+> «_No debe intentarse ningún cambio social o económico grande en forma repentina. El tiempo es esencial para todo tipo de ajuste humano: físico, social o económico. Sólo los ajustes morales y espirituales pueden hacerse en el instante, y aun estos requieren el paso del tiempo para el pleno desarrollo de sus repercusiones sociales y materiales_» <a id="a131_348"></a>[LU 81:6.40](/es/The_Urantia_Book/81#p6_40)
 
 Esta nueva era en nuestro mundo tardará un milenio en completarse. Estamos en marcha hacia un nuevo destino planetario no revelado.
 
@@ -113,7 +137,7 @@ Esta nueva era en nuestro mundo tardará un milenio en completarse. Estamos en m
 
 A pesar de las circunstancias tan complicadas, nos dan la pauta para afrontar esta época de cambios, de transición de una civilización a otra y es ni más ni menos que una vuelta a la espiritualidad, rescatar la presencia de la auténtica religión en las diferentes facetas de la vida.
 
-> «_Uno de los grandes problemas de la vida moderna es que el hombre se cree demasiado ocupado como para encontrar tiempo para la meditación espiritual y la devoción religiosa._» [LU 195:6.7](/es/The_Urantia_Book/195#p6_7)
+> «_Uno de los grandes problemas de la vida moderna es que el hombre se cree demasiado ocupado como para encontrar tiempo para la meditación espiritual y la devoción religiosa._» <a id="a139_179"></a>[LU 195:6.7](/es/The_Urantia_Book/195#p6_7)
 
 De hecho la misión principal de la religión como influencia social consiste en estabilizar los ideales de la humanidad. Para ello la religión ha de hacer acopio de lemas nuevos y actualizados.
 
@@ -121,11 +145,11 @@ Una revelación nueva y más completa de la religión de Jesús está destinada 
 
 Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual.
 
-> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesus y de sus enseñanzas incomparables de servicio libre y de devoción amante de la libertad._ [LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
+> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesus y de sus enseñanzas incomparables de servicio libre y de devoción amante de la libertad._ <a id="a147_210"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
 
 Incluso la educación laica sería de gran ayuda al renacer y despertar espiritual si prestara más atención a la educación, enseñando a los jóvenes convenientemente, siendo la meta de la educación el desarrollo de una personalidad majestuosa y bien equilibrada, para poder afrontar con éxito las épocas tan cambiantes. La importancia del individualismo se pone de manifiesto en el mero hecho de presentar la 5ª Revelación en forma escrita, huyendo de líderes tipo «gurú», presentando una religión que nos una en objetivos y no necesariamente en interpretaciones ni credos.
 
-> _Los religionistas deben funcionar en la sociedad, en la industria y en la política como individuos, no como grupos, partidos ni instituciones. Un grupo religioso que tiene la presunción de funcionar como tal, aparte de las actividades religiosas, se torna inmediatamente un partido político, una organización económica o una institución social. El colectivismo religioso debe limitar sus esfuerzos al progreso de la causa religiosa._ [LU 99:2.3](/es/The_Urantia_Book/99#p2_3)
+> _Los religionistas deben funcionar en la sociedad, en la industria y en la política como individuos, no como grupos, partidos ni instituciones. Un grupo religioso que tiene la presunción de funcionar como tal, aparte de las actividades religiosas, se torna inmediatamente un partido político, una organización económica o una institución social. El colectivismo religioso debe limitar sus esfuerzos al progreso de la causa religiosa._ <a id="a151_437"></a>[LU 99:2.3](/es/The_Urantia_Book/99#p2_3)
 
 Bajo mi punto de vista esto nos conduce a:
 
@@ -164,3 +188,27 @@ El libre albedrío será clave en la transformación de la sociedad. Los cambios
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_9_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 9 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-9-mayo-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 9 — Mayo 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carmelo_Martinez/Futuro_de_Urantia_segun_el_LU">
+          <span class="pr-2">Futuro de Urantia según el LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

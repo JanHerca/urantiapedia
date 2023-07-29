@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Carmelo Martínez<br>© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La supervivencia de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-44-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 44 — Junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Os pregunto: ¿Qué es el ser humano? ¿Qué lo diferencia de los animales? ¿Cuál es su característica principal?
 
@@ -46,7 +67,7 @@ Y cuando lo logréis, porque lo lograréis, no penséis que habéis terminado. T
 
 Y aquí estamos, empezando ese recorrido de trabajar para hacernos perfectos y prepararnos para hacer perfecto el gran universo. Las llaves para ello son «sinceridad, más sinceridad y más sinceridad», y se usan con «decisiones, más decisiones y más decisiones». Lo dice el libro:
 
-> «_Las llaves del reino de los cielos son: sinceridad, más sinceridad y más sinceridad. Todos los hombres tienen estas llaves. Los hombres las usan - avanzan en estatus de espíritu- mediante decisiones, más decisiones y más decisiones. La elección moral más alta es la elección del valor más alto posible, y esta es siempre - en cualquier esfera, en todas ellaselegir hacer la voluntad de Dios. Si el hombre elige hacerla, es grande, aunque sea el ciudadano más humilde de Jerusem, o incluso el más pequeño de los mortales de Urantia._» [[LU 39:4.14](/es/The_Urantia_Book/39#p4_14)]
+> «_Las llaves del reino de los cielos son: sinceridad, más sinceridad y más sinceridad. Todos los hombres tienen estas llaves. Los hombres las usan - avanzan en estatus de espíritu- mediante decisiones, más decisiones y más decisiones. La elección moral más alta es la elección del valor más alto posible, y esta es siempre - en cualquier esfera, en todas ellaselegir hacer la voluntad de Dios. Si el hombre elige hacerla, es grande, aunque sea el ciudadano más humilde de Jerusem, o incluso el más pequeño de los mortales de Urantia._» <a id="a69_538"></a>[[LU 39:4.14](/es/The_Urantia_Book/39#p4_14)]
 
 Así pues con esa herramienta fabricamos decisiones sinceramente, y esas decisiones nos llevan a acciones. Acciones que pueden ir en favor del desarrollo del plan del Padre, cuando elegimos hacer la voluntad de Dios, o en contra. Se trata entonces de elegir para construirnos a nosotros mismos y hacernos cada vez más perfectos, para transformar nuestra imperfección inicial en perfección final, para avanzar en «estatus de espíritu». Pero para elegir tiene que haber alternativas, y las alternativas son el bien y el mal. El bien es elegir la voluntad del Padre, seguir su plan para la creación. El mal, ir en sentido contrario. Los seres perfectos de los mundos perfectos no tienen que elegir de esta forma, pero nosotros, sí. 
 
@@ -84,7 +105,7 @@ Cuando se produce la fusión con el Ajustador, cuerpo y espíritu son indistingu
 
 En resumen, hay un plan para la creación y este plan define el bien y el mal. Los humanos estamos invitados a colaborar en ese plan para lo que el Padre nos da una herramienta única de decisión que lleva en sí misma la capacidad de conocer el bien y el mal. El plan es no solo perfeccionar la creación imperfecta, sino perfeccionarnos a nosotros mismos al hacerlo. O sea, tenemos la capacidad de, junto con el espíritu del Padre, crearnos a nosotros mismos como hijos ascendentes de Dios; somos por lo tanto seres cocreativos. Y al ejercer esa capacidad nos hacemos seres cocreadores (de nosotros mismos y, en parte, de la creación). 
 
-Como se dice en 103:5.10 [LU 103:5.10](/es/The_Urantia_Book/103#p5_10): «_El hombre es, muy ciertamente, el arquitecto de su propio destino eterno._». Y esa maravillosa posibilidad resulta de la posesión de una herramienta que el Padre nos regala para que sea solo nuestra, una herramienta que nos convierte en humanos y que se llama LIBRE ALBEDRÍO.
+Como se dice en 103:5.10 <a id="a107_25"></a>[LU 103:5.10](/es/The_Urantia_Book/103#p5_10): «_El hombre es, muy ciertamente, el arquitecto de su propio destino eterno._». Y esa maravillosa posibilidad resulta de la posesión de una herramienta que el Padre nos regala para que sea solo nuestra, una herramienta que nos convierte en humanos y que se llama LIBRE ALBEDRÍO.
 
 Y antes de terminar, un par de matizaciones. El libre albedrío nos da la capacidad de elegir, pero no de elegir cualquier cosa: solo de elegir entre el bien y el mal. En esta elección entre el bien y el mal, el libre albedrío es absoluto, nada puede coartarlo por voluntad del mismísimo Padre; pero, en todo lo demás, no tenemos libre albedrío. No podemos elegir ser pájaros, por ejemplo. Nuestro libre albedrío es relativo porque se refiere al bien y el mal, y el moral porque tiene que ver con nuestro concepto del bien y del mal, y se aplica precisamente a elegir uno de ellos.
 
@@ -93,3 +114,24 @@ Y antes de terminar, un par de matizaciones. El libre albedrío nos da la capaci
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La supervivencia de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-44-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 44 — Junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

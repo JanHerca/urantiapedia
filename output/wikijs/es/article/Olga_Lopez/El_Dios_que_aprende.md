@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Olga López<br>© 2010 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Servicio_desinteresado">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio desinteresado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-23-diciembre-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 23 — Diciembre 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Ecoaltea_Nuestra_Primera_Feria">
+          <span class="pr-2">EcoAltea: nuestra primera feria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Fragmento de «Diálogos con Sofía», de Olga López
 
@@ -135,3 +159,27 @@ Los dos rieron y, sin decir nada más, dieron media vuelta y emprendieron el cam
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Coll/Servicio_desinteresado">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio desinteresado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-23-diciembre-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 23 — Diciembre 2010 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Ecoaltea_Nuestra_Primera_Feria">
+          <span class="pr-2">EcoAltea: nuestra primera feria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

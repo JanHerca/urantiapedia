@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Carmelo Martínez, L. Coll, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_24_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 24 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-24-marzo-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 24 — Marzo 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Mientras_tanto">
+          <span class="pr-2">Mientras tanto (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Participantes:**
 
@@ -56,7 +80,7 @@ Este grupo de científicos casi siempre lo forman una minoría de las minorías,
 
 Estos científicos están destinados a construir una ciencia falsa y atea, sin Dios y sin sabiduría.
 
-Sobre Stephen Hawking, un día afirma la existencia de un Creador y al otro día duda o niega la existencia de Dios en el origen de todo. Yo creo que el pobre hombre está hecho un lío. «_1. Una demostración de habilidad especializada no significa que se posea capacidad espiritual. El ingenio no sustituye al verdadero carácter_» (28 afirmaciones de la filosofía humana, [LU 48:7.3](/es/The_Urantia_Book/48#p7_3))
+Sobre Stephen Hawking, un día afirma la existencia de un Creador y al otro día duda o niega la existencia de Dios en el origen de todo. Yo creo que el pobre hombre está hecho un lío. «_1. Una demostración de habilidad especializada no significa que se posea capacidad espiritual. El ingenio no sustituye al verdadero carácter_» (28 afirmaciones de la filosofía humana, <a id="a82_369"></a>[LU 48:7.3](/es/The_Urantia_Book/48#p7_3))
 
 No sé cuántos años tiene Stephen Hawking, pero pronto se dará cuenta de la verdadera realidad del universo.
 
@@ -120,9 +144,9 @@ A mi inteligencia le repugna esta idea quizás por una sola razón, la cual expl
 
 Me parece mucho más verosímil que una Inteligencia sin causa invente y cree el universo, a que el universo surja de forma espontánea (no sé de dónde) y cree, posteriormente, la inteligencia.
 
-Como dice el LU: _La ciencia supone que los dones intelectuales y filosóficos del hombre surgieron de unas inteligencias cada vez menores a medida que se alejan más en el pasado, teniendo finalmente su origen en la vida primitiva que estaba totalmente desprovista de todo pensamiento y de todo sentimiento._ ([LU 102:6.8](/es/The_Urantia_Book/102#p6_8))
+Como dice el LU: _La ciencia supone que los dones intelectuales y filosóficos del hombre surgieron de unas inteligencias cada vez menores a medida que se alejan más en el pasado, teniendo finalmente su origen en la vida primitiva que estaba totalmente desprovista de todo pensamiento y de todo sentimiento._ (<a id="a146_309"></a>[LU 102:6.8](/es/The_Urantia_Book/102#p6_8))
 
-_El materialismo científico achaca aquello que está admitido como superior a aquello que está admitido como inferior._ ([LU 102:6.9](/es/The_Urantia_Book/102#p6_9)).
+_El materialismo científico achaca aquello que está admitido como superior a aquello que está admitido como inferior._ (<a id="a148_120"></a>[LU 102:6.9](/es/The_Urantia_Book/102#p6_9)).
 
 Como parece ser que este debate ha quedado en tablas, permitidme (para seguir pinchando) tratar de enfocarlo desde otro ángulo:
 
@@ -174,15 +198,15 @@ Sé perfectamente que podéis tener vuestras opiniones y discrepancias sobre est
 
 Todos sabemos que hay personas ateas o indiferentes que son magníficas personas y están buscando las respuestas y la verdad en sus vidas, y lo mismo la Ciencia y los científicos. El científico honrado no tiene por qué creer en Dios, puede hacer un gran bien para la sociedad con sus descubrimientos siempre que los use para bien.
 
-En vez de daros otro sermón, os invito a leer estas páginas en el libro sobre la ciencia, la religión y el laicismo: «EL MATERIALISMO - LA VULNERABILIDAD DEL MATERIALISMO» [LU 195:6.1](/es/The_Urantia_Book/195#p6_1) a [LU 195:7.23](/es/The_Urantia_Book/195#p7_23). Creo que aclaran bastante estos 3 puntos que he compartido con vosotros.
+En vez de daros otro sermón, os invito a leer estas páginas en el libro sobre la ciencia, la religión y el laicismo: «EL MATERIALISMO - LA VULNERABILIDAD DEL MATERIALISMO» <a id="a200_172"></a>[LU 195:6.1](/es/The_Urantia_Book/195#p6_1) a <a id="a200_218"></a>[LU 195:7.23](/es/The_Urantia_Book/195#p7_23). Creo que aclaran bastante estos 3 puntos que he compartido con vosotros.
 
 A mí me llaman la atención de manera especial estos dos pasajes:
 
-> «_Los valores paradisíacos de eternidad e infinidad, de verdad, belleza y bondad están escondidos dentro de los hechos de los fenómenos de los universos del tiempo y del espacio. Pero es necesario el ojo de la fe de un mortal nacido del espíritu para detectar y discernir estos valores espirituales_ ([LU 195:7.4](/es/The_Urantia_Book/195#p7_4)) 
+> «_Los valores paradisíacos de eternidad e infinidad, de verdad, belleza y bondad están escondidos dentro de los hechos de los fenómenos de los universos del tiempo y del espacio. Pero es necesario el ojo de la fe de un mortal nacido del espíritu para detectar y discernir estos valores espirituales_ (<a id="a204_303"></a>[LU 195:7.4](/es/The_Urantia_Book/195#p7_4)) 
 
-> _A la religión la ciencia le resulta sencillamente indiferente, aunque es comprensiva con ella, mientras que se interesa supremamente por el científico_» ([LU 195:6.2](/es/The_Urantia_Book/195#p6_2))
+> _A la religión la ciencia le resulta sencillamente indiferente, aunque es comprensiva con ella, mientras que se interesa supremamente por el científico_» (<a id="a206_157"></a>[LU 195:6.2](/es/The_Urantia_Book/195#p6_2))
 
-> «_El laicismo del siglo veinte tiende a afirmar que el hombre no necesita a Dios ¡Pero cuidado! Esta filosofía atea de la sociedad humana solo conducirá a la inquietud, a la animosidad, a la infelicidad, a la guerra y a un desastre mundial. El gran error del laicismo fue el siguiente: Al sublevarse contra el control casi total de la vida por parte de la autoridad religiosa, y después de conseguir liberarse de esta tiranía eclesiástica, los laicos continuaron adelante iniciando una sublevación contra el mismo Dios, a veces tácitamente y a veces de manera manifiesta. (2081) No es necesario sacrificar la fe en Dios para disfrutar de las bendiciones de la sublevación laica moderna..._» ([LU 195:8.6](/es/The_Urantia_Book/195#p8_6))
+> «_El laicismo del siglo veinte tiende a afirmar que el hombre no necesita a Dios ¡Pero cuidado! Esta filosofía atea de la sociedad humana solo conducirá a la inquietud, a la animosidad, a la infelicidad, a la guerra y a un desastre mundial. El gran error del laicismo fue el siguiente: Al sublevarse contra el control casi total de la vida por parte de la autoridad religiosa, y después de conseguir liberarse de esta tiranía eclesiástica, los laicos continuaron adelante iniciando una sublevación contra el mismo Dios, a veces tácitamente y a veces de manera manifiesta. (2081) No es necesario sacrificar la fe en Dios para disfrutar de las bendiciones de la sublevación laica moderna..._» (<a id="a208_694"></a>[LU 195:8.6](/es/The_Urantia_Book/195#p8_6))
 
 ## Carmelo
 
@@ -190,7 +214,7 @@ Al final no voy a estar tan en desacuerdo con Luis.
 
 Os copio varios párrafos del documento 195, que vienen al caso y nos pueden aclarar alguna idea.
 
-[LU 195:5.3-7](/es/The_Urantia_Book/195#p5_3):
+<a id="a216_0"></a>[LU 195:5.3-7](/es/The_Urantia_Book/195#p5_3):
 
 > _La religión es la revelación al hombre de su destino divino y eterno. La religión es una experiencia puramente personal y espiritual, y debe distinguirse siempre de otras altas formas del pensamiento humano, tales como:_
 > 
@@ -200,22 +224,46 @@ Os copio varios párrafos del documento 195, que vienen al caso y nos pueden acl
 > 
 > _3. El reconocimiento ético por parte del hombre de las obligaciones sociales y del deber político._
 > 
-> _4. Ni siquiera el sentido de la moralidad humana en el hombre es, en sí mismo y por sí mismo, religioso._ [LU 195:5.3-7](/es/The_Urantia_Book/195#p5_3)
+> _4. Ni siquiera el sentido de la moralidad humana en el hombre es, en sí mismo y por sí mismo, religioso._ <a id="a226_109"></a>[LU 195:5.3-7](/es/The_Urantia_Book/195#p5_3)
 
-[LU 195:6.1](/es/The_Urantia_Book/195#p6_1) en el apartado del materialismo:
+<a id="a228_0"></a>[LU 195:6.1](/es/The_Urantia_Book/195#p6_1) en el apartado del materialismo:
 
 > _Los científicos han precipitado involuntariamente a la humanidad hacia un pánico materialista; han desencadenado un asedio irreflexivo al banco moral de las edades, pero este banco de la experiencia humana tiene inmensos recursos espirituales; puede soportar las demandas que se le hagan. Sólo los hombres irreflexivos se dejan llevar por el pánico respecto a los activos espirituales de la raza humana. Cuando el pánico laico-materialista haya pasado, la religión de Jesús no se encontrará en bancarrota. El banco espiritual del reino de los cielos pagará con fe, esperanza y seguridad moral a todos los que retiren fondos en él «en Su nombre»_.
 
-> _Cualquiera que sea el conflicto aparente entre el materialismo y las enseñanzas de Jesús, podéis estar seguros de que las enseñanzas del Maestro triunfarán plenamente en las edades por venir. En realidad, la verdadera religión no puede involucrarse en ninguna controversia con la ciencia; no se ocupa en modo alguno de las cosas materiales. La religión es sencillamente indiferente a la ciencia, aunque es comprensiva con ella, mientras que se interesa de forma suprema por el científico._ [LU 195:6.2](/es/The_Urantia_Book/195#p6_2)
+> _Cualquiera que sea el conflicto aparente entre el materialismo y las enseñanzas de Jesús, podéis estar seguros de que las enseñanzas del Maestro triunfarán plenamente en las edades por venir. En realidad, la verdadera religión no puede involucrarse en ninguna controversia con la ciencia; no se ocupa en modo alguno de las cosas materiales. La religión es sencillamente indiferente a la ciencia, aunque es comprensiva con ella, mientras que se interesa de forma suprema por el científico._ <a id="a232_493"></a>[LU 195:6.2](/es/The_Urantia_Book/195#p6_2)
 
 Y un toque optimista al final de esa página:
 
-> «_En el momento de este escrito, lo peor de la edad materialista ha pasado; ha empezando ya a alborear el día de un mejor entendimiento. Las mentes más altas del mundo científico ya no son completamente materialistas en su filosofía, pero las masas siguen inclinándose en esa dirección a consecuencia de las enseñanzas anteriores. Pero esta edad de realismo físico es sólo un episodio pasajero en la vida del hombre en la Tierra. La ciencia moderna ha dejado intacta la verdadera religión - las enseñanzas de Jesús tal como se traducen en las vidas de sus creyentes-. Todo lo que la ciencia ha hecho es destruir las ilusiones infantiles de las falsas interpretaciones de la vida._» [LU 195:6.4](/es/The_Urantia_Book/195#p6_4)
+> «_En el momento de este escrito, lo peor de la edad materialista ha pasado; ha empezando ya a alborear el día de un mejor entendimiento. Las mentes más altas del mundo científico ya no son completamente materialistas en su filosofía, pero las masas siguen inclinándose en esa dirección a consecuencia de las enseñanzas anteriores. Pero esta edad de realismo físico es sólo un episodio pasajero en la vida del hombre en la Tierra. La ciencia moderna ha dejado intacta la verdadera religión - las enseñanzas de Jesús tal como se traducen en las vidas de sus creyentes-. Todo lo que la ciencia ha hecho es destruir las ilusiones infantiles de las falsas interpretaciones de la vida._» <a id="a236_684"></a>[LU 195:6.4](/es/The_Urantia_Book/195#p6_4)
 
 Y podéis seguir leyendo porque lo que sigue tampoco tiene desperdicio. Por ejemplo, este contundente párrafo del final de la página 2077 :
 
-> «_Decir que la mente «emergió» de la materia no explica nada. Si el universo fuera meramente un mecanismo y la mente no existiera aparte de la materia, no tendríamos nunca dos interpretaciones diferentes de cualquier fenómeno observado. Los conceptos de la verdad, de la belleza y de la bondad no son inherentes ni a la física ni a la química. Una máquina no puede conocer, y mucho menos conocer la verdad, tener hambre de rectitud y apreciar la bondad._» [LU 195:6.11](/es/The_Urantia_Book/195#p6_11)
+> «_Decir que la mente «emergió» de la materia no explica nada. Si el universo fuera meramente un mecanismo y la mente no existiera aparte de la materia, no tendríamos nunca dos interpretaciones diferentes de cualquier fenómeno observado. Los conceptos de la verdad, de la belleza y de la bondad no son inherentes ni a la física ni a la química. Una máquina no puede conocer, y mucho menos conocer la verdad, tener hambre de rectitud y apreciar la bondad._» <a id="a240_458"></a>[LU 195:6.11](/es/The_Urantia_Book/195#p6_11)
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_24_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 24 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-24-marzo-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 24 — Marzo 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Mientras_tanto">
+          <span class="pr-2">Mientras tanto (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor es la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-32-marzo-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 32 — Marzo 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_15">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Posible espaldarazo al Modelo Estándar de Partículas y posible divergencia con el LU_
 
@@ -18,7 +42,7 @@ Nos describen un mundo físico que tiene ciertas limitaciones, y los seres que a
 
 El LU describe un fenómeno ciertamente sorprendente que, aunque opera a nivel mental y espiritual, también lo hace en el nivel material:
 
-> _El Actor Conjunto es capaz de coordinar todos los niveles de la realidad universal de tal manera que hace posible el reconocimiento simultáneo de lo mental, lo material y lo espiritual. Éste es el fenómeno de la reflectividad universal, ese poder único e inexplicable para ver, oír, sentir y conocer todas las cosas a medida que suceden en todo un superuniverso, y luego focalizar por reflectividad toda esta información y todo este conocimiento en un punto deseado cualquiera. La acción de la reflectividad se manifiesta a la perfección en cada uno de los mundos sede de los siete superuniversos. Funciona también en todos los sectores de los superuniversos._ [LU 9:7.1](/es/The_Urantia_Book/9#p7_1)
+> _El Actor Conjunto es capaz de coordinar todos los niveles de la realidad universal de tal manera que hace posible el reconocimiento simultáneo de lo mental, lo material y lo espiritual. Éste es el fenómeno de la reflectividad universal, ese poder único e inexplicable para ver, oír, sentir y conocer todas las cosas a medida que suceden en todo un superuniverso, y luego focalizar por reflectividad toda esta información y todo este conocimiento en un punto deseado cualquiera. La acción de la reflectividad se manifiesta a la perfección en cada uno de los mundos sede de los siete superuniversos. Funciona también en todos los sectores de los superuniversos._ <a id="a44_664"></a>[LU 9:7.1](/es/The_Urantia_Book/9#p7_1)
 
 Desde luego, no creo que ni siquiera podamos atisbar los mecanismos de este extraordinario proceso. Pero también es cierto que en la naturaleza, en su sentido más amplio, las cosas se dan de manera gradual; suele haber una estrecha relación entre todo lo que existe. De alguna manera no son mecanismos aislados, sino que están interrelacionados, por lo que quizá podríamos toparnos con fenómenos materiales que de alguna manera compartan parte de los mecanismos de estos extraños y extraordinarios (al menos para nosotros) fenómenos de reflectividad.
 
@@ -53,3 +77,27 @@ Y no puedo menos que recordar que este fenómeno de transmisión instantánea de
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor es la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-32-marzo-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 32 — Marzo 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_15">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

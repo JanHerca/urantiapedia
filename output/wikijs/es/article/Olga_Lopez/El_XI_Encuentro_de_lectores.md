@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Olga López<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_29_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 29 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+          <span class="pr-2">El liderazgo en el movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El XI Encuentro de lectores comenzó a las 45 y media de la tarde del viernes 11 de mayo. Fuera en la calle se sufrían los efectos de una ola de calor procedente de África, que hizo que la temperatura subiera hasta unos inusuales 40 grados en esa época del año. En total nos reunimos unas 33 personas procedentes de Sevilla, Málaga, Madrid, Vizcaya, Burgos, Tarragona, Gerona y Barcelona. A ellos hay que incluir visitantes de otros países: Alemania, Finlandia, Francia, Portugal y Canadá, que quisieron compartir con nosotros estos momentos de confraternización alrededor de las enseñanzas del libro. Mi más sincero agradecimiento hacia todos ellos.
 
@@ -50,13 +74,13 @@ Después de esa reunión conjunta para compartir lo tratado en los talleres, se 
 
 Después de aquello, y tras la cena, continuamos con la confraternización. A las diez de la noche celebramos un breve momento de oración/adoración, en el que cada persona que quiso unirse a ella escribió en un papel sus deseos para el año que viene. Los papeles se pusieron en un recipiente, alrededor del cual nos reunimos todos en círculo dándonos la mano. Durante unos breve minutos estuvimos e silencio, para terminar, se leyeron estos pasajes de _El Libro de Urantia_:
 
-> _Durante los tiempos psicológicamente agitados del siglo veinte, en medio de los trastornos económicos, las contracorrientes morales y las mareas sociológicas desgarradoras de las transiciones ciclónicas de una era científica, miles y miles de hombres y de mujeres se han dislocado humanamente; están ansiosos, inquietos, temerosos, inseguros e inestables; necesitan, más que nunca en la historia del mundo, el consuelo y la estabilidad de una religión sana. Existe un estancamiento espiritual y un caos filosófico en presencia de unos logros científicos y de unos desarrollos mecánicos sin precedentes._ [LU 99:4.6](/es/The_Urantia_Book/99#p4_6)
+> _Durante los tiempos psicológicamente agitados del siglo veinte, en medio de los trastornos económicos, las contracorrientes morales y las mareas sociológicas desgarradoras de las transiciones ciclónicas de una era científica, miles y miles de hombres y de mujeres se han dislocado humanamente; están ansiosos, inquietos, temerosos, inseguros e inestables; necesitan, más que nunca en la historia del mundo, el consuelo y la estabilidad de una religión sana. Existe un estancamiento espiritual y un caos filosófico en presencia de unos logros científicos y de unos desarrollos mecánicos sin precedentes._ <a id="a76_607"></a>[LU 99:4.6](/es/The_Urantia_Book/99#p4_6)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/04.jpg">
 </figure>
 
-> _Ahora, los hijos de Dios se han alistado juntos para librar la batalla del triunfo de la realidad sobre las sombras parciales de la existencia. Por fin todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha celestial por alcanzar la vida eterna y el estado divino. Por supuesto, estos hijos liberados por la fe se han alistado en las luchas del tiempo al lado de las fuerzas supremas y de las personalidades divinas de la eternidad; incluso las estrellas en su trayectoria combaten ahora por ellos; por fin contemplan el universo desde dentro, desde el punto de vista de Dios, y las incertidumbres del aislamiento material se transforman en las certezas de la progresión espiritual eterna. Incluso el tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio._ [LU 101:10.9](/es/The_Urantia_Book/101#p10_9)
+> _Ahora, los hijos de Dios se han alistado juntos para librar la batalla del triunfo de la realidad sobre las sombras parciales de la existencia. Por fin todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha celestial por alcanzar la vida eterna y el estado divino. Por supuesto, estos hijos liberados por la fe se han alistado en las luchas del tiempo al lado de las fuerzas supremas y de las personalidades divinas de la eternidad; incluso las estrellas en su trayectoria combaten ahora por ellos; por fin contemplan el universo desde dentro, desde el punto de vista de Dios, y las incertidumbres del aislamiento material se transforman en las certezas de la progresión espiritual eterna. Incluso el tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio._ <a id="a82_937"></a>[LU 101:10.9](/es/The_Urantia_Book/101#p10_9)
 
 Acto seguido, subimos afuera a quemar los papeles con los deseos. Después, regresamos a la sala de reuniones, para iniciar otra vibrante reunión espontánea en la que tratar sobre temas del libro, que se prolongó hasta casi las dos de la madrugada.
 
@@ -71,3 +95,27 @@ A la mañana siguiente, nos despedimos de los amigos con los que habíamos coinc
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_29_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 29 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eduardo_Altuzarra/Las_presentaciones _del_XI_Encuentro">
+          <span class="pr-2">El liderazgo en el movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

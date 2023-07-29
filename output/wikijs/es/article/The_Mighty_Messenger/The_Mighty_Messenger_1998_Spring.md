@@ -160,7 +160,7 @@ John fue lector durante 20 años y tomó una parte muy activa en los asuntos de 
 
 John era Coordinador de Área y se mantuvo en contacto con decenas de lectores, compartiendo con ellos su amplio conocimiento del libro. Su sueño era llevar el libro al pueblo ruso. Él y su esposa, Natasha, y sus hijos planeaban mudarse a Rusia en diciembre de este año para comenzar este trabajo.
 
-Su cita favorita es indicativa de su fe: «...la incertidumbre es el secreto de la continuidad satisfecha....cuando la ignorancia es esencial para el éxito, sería un error colosal que la criatura conociera el futuro». ([LU 39:5.9](/es/The_Urantia_Book/39#p5_9))
+Su cita favorita es indicativa de su fe: «...la incertidumbre es el secreto de la continuidad satisfecha....cuando la ignorancia es esencial para el éxito, sería un error colosal que la criatura conociera el futuro». (<a id="a162_218"></a>[LU 39:5.9](/es/The_Urantia_Book/39#p5_9))
 
 Afectuosos amigos de Oklahoma asistieron y honraron la doble ocasión con arreglos musicales especiales.
 

@@ -9,12 +9,36 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 David Carrera y Olga López<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez_and_Olga_Lopez/Las Preguntas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-25-junio-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 25 — Junio 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Presentacion_de_El_Libro_de_Urantia_Sevilla">
+          <span class="pr-2">Presentación de El Libro de Urantia en la Feria del Libro de Sevilla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Tras poner en común las respuestas a las preguntas de cada uno de los documentos, había un debate libre sobre los temas planteados en esas preguntas, así como sobre otros temas, tuvieran o no relación directa con ellas.
 
 En el debate correspondiente al documento 92, y en referencia a la pregunta número 3 (¿en qué lugar debe quedar, o qué consideración merece nuestra propia conciencia?), se apuntó que en el documento 16 se alude también al tema de la conciencia. Más concretamente en la sección 9, «La realidad de la conciencia humana», donde, entre otras cosas, se dice lo siguiente:
 
-> _La conciencia social desinteresada ha de ser, en el fondo, una conciencia religiosa; es decir, si es objetiva; de otra manera es una abstracción filosófica puramente subjetiva y, en consecuencia, desprovista de amor. Sólo un individuo que conoce a Dios puede amar a otra persona del mismo modo que se ama a sí mismo._ [LU 16:9.8](/es/The_Urantia_Book/16#p9_8)
+> _La conciencia social desinteresada ha de ser, en el fondo, una conciencia religiosa; es decir, si es objetiva; de otra manera es una abstracción filosófica puramente subjetiva y, en consecuencia, desprovista de amor. Sólo un individuo que conoce a Dios puede amar a otra persona del mismo modo que se ama a sí mismo._ <a id="a40_321"></a>[LU 16:9.8](/es/The_Urantia_Book/16#p9_8)
 
 También debatimos alrededor de esta cuestión: ¿Influye la genética en la disposición espiritual? A partir de aquí comparamos la influencia que ejerce la genética y la que ejerce el medio. Finalmente llegamos a la conclusión de que la genética dispone, y depende de ella que tengamos más o menos esfuerzo en superar las limitaciones que impone. La parte evolutiva tiene un límite máximo, tanto en la parte física como en nuestra predisposición hacia la religión. En este sentido, el LU supone un salto cualitativo en la religión evolutiva actual.
 
@@ -76,7 +100,7 @@ Y antes de que se enseñe «eso», habrá otro nivel de transición en el que ha
 
 La simple comparación entre religiones ya sirve de crítica y desafío intelectual. Las referencias diversas se convierten así en herramientas con las que el niño o adolescente puede empezar a desarrollar su religión personal, que sabemos que es la que cuenta, y, por tanto, la que después da frutos sociales.
 
-En el debate correspondiente al documento 101, se amplió la pregunta correspondiente a la sección «Los límites de la revelación», en [LU 101:4.1](/es/The_Urantia_Book/101#p4_1) de _El Libro de Urantia_. Uno de los asistentes planteó la pregunta: ¿Se puede admitir que haya datos en _El Libro de Urantia_ que sean inexactos? Quizá la respuesta a esa pregunta sea otra pregunta que nos obligue a meditar y nos ayude a comprender la verdadera cuestión de fondo, que es la siguiente: ¿Cuenta la ciencia actual con cifras exactas?
+En el debate correspondiente al documento 101, se amplió la pregunta correspondiente a la sección «Los límites de la revelación», en <a id="a102_133"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1) de _El Libro de Urantia_. Uno de los asistentes planteó la pregunta: ¿Se puede admitir que haya datos en _El Libro de Urantia_ que sean inexactos? Quizá la respuesta a esa pregunta sea otra pregunta que nos obligue a meditar y nos ayude a comprender la verdadera cuestión de fondo, que es la siguiente: ¿Cuenta la ciencia actual con cifras exactas?
 
 La respuesta a la primera pregunta es afirmativa. Los Reveladores nos advierten claramente en la página que la cosmología del libro _no ha sido inspirada_. La respuesta a la segunda pregunta es negativa. Las cifras, las mediciones o teorías enteras se van afinando permanentemente con el paso del tiempo y con el uso de instrumentos más precisos.
 
@@ -98,7 +122,7 @@ Por tanto, si se es honesto, la posible inquietud que genere _El Libro de Uranti
 
 Por último, cabe preguntarse honestamente: ¿Influye mucho en nuestra vida y en nuestra progresión personal que la distancia entre nosotros y Andrómeda sea de un millón de años luz o de dos coma cinco millones? ¿Somos capaces de imaginarnos realmente _alguno_ de los dos números?
 
-Contextualizando el dato en concreto que aparece en [LU 15:4.7](/es/The_Urantia_Book/15#p4_7), se ve que la intención real de los Reveladores no es puntualizar la distancia exacta entre Andrómeda y nosotros, sino hacernos pensar que la luz que nos llega hasta nosotros ahora misma desvela sólo el estado de esa nebulosa que tenía hace un millón de años.
+Contextualizando el dato en concreto que aparece en <a id="a124_52"></a>[LU 15:4.7](/es/The_Urantia_Book/15#p4_7), se ve que la intención real de los Reveladores no es puntualizar la distancia exacta entre Andrómeda y nosotros, sino hacernos pensar que la luz que nos llega hasta nosotros ahora misma desvela sólo el estado de esa nebulosa que tenía hace un millón de años.
 
 Por tanto: ¿El mensaje está mal, o se cumple el objetivo? ¿Tendrían que habernos dicho, para no errar ante los ojos de algunos, «de hace mucho tiempo»? ¿Nos hubiéramos hecho la misma idea?
 
@@ -123,3 +147,27 @@ Recordando las parábolas de Jesús, rememorábamos cómo, al finalizar la pará
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez_and_Olga_Lopez/Las Preguntas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-25-junio-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 25 — Junio 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Presentacion_de_El_Libro_de_Urantia_Sevilla">
+          <span class="pr-2">Presentación de El Libro de Urantia en la Feria del Libro de Sevilla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

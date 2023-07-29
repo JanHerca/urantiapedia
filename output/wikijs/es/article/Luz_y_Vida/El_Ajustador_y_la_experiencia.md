@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Santiago Rodríguez, Andrés Pérez<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Jesus_y_la_samaritana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús y la samaritana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-15-diciembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 15 — Diciembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/El_Libro_de_Urantia_y_su_difusion">
+          <span class="pr-2">El Libro de Urantia y su difusión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -19,9 +43,9 @@ De varios autores
 - Santiago Rodríguez
 - Andrés Pérez
 
-**Andrés:** Quisiera preguntaros: ¿cómo es posible que si Dios es todopoderoso y ha depositado un fragmento suyo en cada uno de nosotros, ese Ajustador que mora en nosotros no tenga experiencias? Entonces ¿qué nos puede aportar? o ¿para qué las quiere? Y si es así, ¿para qué las necesita, si es un fragmento de Dios? No llego a comprender para qué acumula experiencias de unos seres que están empezando a tenerlas. En [LU 16:9.3](/es/The_Urantia_Book/16#p9_3) se dice «_si el hombre mortal no logra sobrevivir a la muerte natural, los valores espirituales reales de su experiencia humana sobreviven como una parte de la experiencia continua del Ajustador del pensamiento_». Y digo yo para qué la quiere, si tengo que suponer que ese fragmento de Dios debería ser «todopoderoso» (en esto incluyo todos los valores que sé que Dios tiene)
+**Andrés:** Quisiera preguntaros: ¿cómo es posible que si Dios es todopoderoso y ha depositado un fragmento suyo en cada uno de nosotros, ese Ajustador que mora en nosotros no tenga experiencias? Entonces ¿qué nos puede aportar? o ¿para qué las quiere? Y si es así, ¿para qué las necesita, si es un fragmento de Dios? No llego a comprender para qué acumula experiencias de unos seres que están empezando a tenerlas. En <a id="a45_419"></a>[LU 16:9.3](/es/The_Urantia_Book/16#p9_3) se dice «_si el hombre mortal no logra sobrevivir a la muerte natural, los valores espirituales reales de su experiencia humana sobreviven como una parte de la experiencia continua del Ajustador del pensamiento_». Y digo yo para qué la quiere, si tengo que suponer que ese fragmento de Dios debería ser «todopoderoso» (en esto incluyo todos los valores que sé que Dios tiene)
 
-Desearía que me comentaseis vuestra opinión, la que cada uno de vosotros tengáis al respecto, pues no es que no intuya algunos conceptos de ese Ajustador pero estos apartados me son extraños, pues hay varios de este tema que expongo, y a mi entender no llego a «pillar» cómo estos seres celestiales no tienen experiencias viniendo de Dios, así como en otro párrafo dice [LU 110:2.3](/es/The_Urantia_Book/110#p2_3): «_los Ajustadores se dedican a mejorar, modificar, ajustar y coordinar vuestros procesos mentales_» etc.
+Desearía que me comentaseis vuestra opinión, la que cada uno de vosotros tengáis al respecto, pues no es que no intuya algunos conceptos de ese Ajustador pero estos apartados me son extraños, pues hay varios de este tema que expongo, y a mi entender no llego a «pillar» cómo estos seres celestiales no tienen experiencias viniendo de Dios, así como en otro párrafo dice <a id="a47_370"></a>[LU 110:2.3](/es/The_Urantia_Book/110#p2_3): «_los Ajustadores se dedican a mejorar, modificar, ajustar y coordinar vuestros procesos mentales_» etc.
 
 Y digo yo, si no tienen experiencias, cómo nos pueden ayudar en este complicado mundo en el cual casi todos los que han venido han fracasado, si no totalmente, sí parcialmente. 
 
@@ -47,9 +71,9 @@ Yo tiendo a pensar que en la eternidad futura se habrá logrado el mandato del P
 
 ¿Qué más podemos pedir?
 
-**Antonio:** En el universo, nos dice el Libro, no hay NADA que pueda sustituir a la experiencia. «_Simplemente no hay nada en toda la existencia universal que pueda sustituir a la verdadera experiencia personal_» ([LU 22:9.7](/es/The_Urantia_Book/22#p9_7)). «_No hay nada, en todo el universo, que pueda sustituir al hecho de la experiencia en los niveles no existenciales_» ([LU 108:0.2](/es/The_Urantia_Book/108#p0_2))
+**Antonio:** En el universo, nos dice el Libro, no hay NADA que pueda sustituir a la experiencia. «_Simplemente no hay nada en toda la existencia universal que pueda sustituir a la verdadera experiencia personal_» (<a id="a73_215"></a>[LU 22:9.7](/es/The_Urantia_Book/22#p9_7)). «_No hay nada, en todo el universo, que pueda sustituir al hecho de la experiencia en los niveles no existenciales_» (<a id="a73_377"></a>[LU 108:0.2](/es/The_Urantia_Book/108#p0_2))
 
-Dios es existencial, no experiencial. Es el alfa y la omega, conoce el final desde el principio, por lo tanto «_Dios no adquiere experiencia_» ([LU 1:5.14](/es/The_Urantia_Book/1#p5_14)) «_Dios, como es eterno, universal, absoluto e infinito, no crece en conocimiento ni aumenta en sabiduría_» (misma página y párrafo) «_Dios es eterna e infinitamente perfecto, no puede conocer personalmente la imperfección como experiencia propia_» ([LU 2:2.6](/es/The_Urantia_Book/2#p2_6)), pero participa realmente en la experiencia con la inmadurez y la imperfección... a través de los Ajustadores del Pensamiento.
+Dios es existencial, no experiencial. Es el alfa y la omega, conoce el final desde el principio, por lo tanto «_Dios no adquiere experiencia_» (<a id="a75_144"></a>[LU 1:5.14](/es/The_Urantia_Book/1#p5_14)) «_Dios, como es eterno, universal, absoluto e infinito, no crece en conocimiento ni aumenta en sabiduría_» (misma página y párrafo) «_Dios es eterna e infinitamente perfecto, no puede conocer personalmente la imperfección como experiencia propia_» (<a id="a75_436"></a>[LU 2:2.6](/es/The_Urantia_Book/2#p2_6)), pero participa realmente en la experiencia con la inmadurez y la imperfección... a través de los Ajustadores del Pensamiento.
 
 Los Ajustadores son pre-personales, es decir, proceden del nivel de Dios en el que aún no ha aparecido la personalidad. Son, por decirlo así, anteriores al Hijo Eterno. Son pre-personales. Y salen «vírgenes» de ese nivel de Dios, es decir, sin experiencia (recordad que a esos niveles la experiencia -el nivel finito- no existe, ni Dios la necesita)
 
@@ -72,3 +96,27 @@ Si sobrevivimos, el Ajustador volverá y fusionará con nosotros. Si no sobreviv
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernesto_Veloso/Jesus_y_la_samaritana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús y la samaritana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-15-diciembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 15 — Diciembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/El_Libro_de_Urantia_y_su_difusion">
+          <span class="pr-2">El Libro de Urantia y su difusión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

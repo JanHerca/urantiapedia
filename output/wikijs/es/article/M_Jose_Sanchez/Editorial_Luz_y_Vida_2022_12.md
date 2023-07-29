@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa">
+          <span class="pr-2">Cuestionario Urantiano: Christian Figueroa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La sabiduría se postra ante la fragilidad
 
@@ -40,21 +64,21 @@ Todos nos podemos reconocer en situaciones en las cuales la mente nos hace pasar
 
 Frente a esta realidad, nos llega a nuestro planeta hace más de dos mil años un ser que nos plantea un discurso y un estilo de vida sorprendente, que rompe paradigmas centenarios, milenarios, de pensamiento. Nos libera de esta recurrencia en el sufrimiento, nos salva de nosotros mismos, apostando por el Amor:
 
-> Aunque no es acertado considerar a Jesús como víctima sacrificial, como rescatador o como redentor, sí lo es, y mucho, referirse a él como salvador. Hizo que el camino de la salvación (de la supervivencia) fuera para siempre más cierto y más claro. Mostró de una forma mejor y más segura el camino de la salvación a todos los mortales de todos los mundos del universo de Nebadon. [LU 188:4.7](/es/The_Urantia_Book/188#p4_7)
+> Aunque no es acertado considerar a Jesús como víctima sacrificial, como rescatador o como redentor, sí lo es, y mucho, referirse a él como salvador. Hizo que el camino de la salvación (de la supervivencia) fuera para siempre más cierto y más claro. Mostró de una forma mejor y más segura el camino de la salvación a todos los mortales de todos los mundos del universo de Nebadon. <a id="a66_382"></a>[LU 188:4.7](/es/The_Urantia_Book/188#p4_7)
 
 _El Libro de Urantia_ precisa todavía más:
 
-> Todo este concepto de expiación y salvación mediante el sacrificio radica y se fundamenta en el egoísmo. Jesús enseñó que el servicio a nuestro prójimo es el concepto más alto de la hermandad de los creyentes en el espíritu. Los que creen en la paternidad de Dios deberían dar por sentada la salvación. La preocupación principal del creyente no debería ser la búsqueda egoísta de su propia salvación personal, sino más bien el impulso desinteresado de amar y servir a sus semejantes como Jesús amó y sirvió a los hombres mortales. [LU 188:4.9](/es/The_Urantia_Book/188#p4_9)
+> Todo este concepto de expiación y salvación mediante el sacrificio radica y se fundamenta en el egoísmo. Jesús enseñó que el servicio a nuestro prójimo es el concepto más alto de la hermandad de los creyentes en el espíritu. Los que creen en la paternidad de Dios deberían dar por sentada la salvación. La preocupación principal del creyente no debería ser la búsqueda egoísta de su propia salvación personal, sino más bien el impulso desinteresado de amar y servir a sus semejantes como Jesús amó y sirvió a los hombres mortales. <a id="a70_533"></a>[LU 188:4.9](/es/The_Urantia_Book/188#p4_9)
 > 
-> … La salvación humana es real y está basada en dos realidades que las criaturas pueden captar por la fe e incorporar así a su experiencia humana individual: el hecho de la paternidad de Dios y su verdad correlacionada, la hermandad de los hombres. [LU 188:4.13](/es/The_Urantia_Book/188#p4_13)
+> … La salvación humana es real y está basada en dos realidades que las criaturas pueden captar por la fe e incorporar así a su experiencia humana individual: el hecho de la paternidad de Dios y su verdad correlacionada, la hermandad de los hombres. <a id="a72_250"></a>[LU 188:4.13](/es/The_Urantia_Book/188#p4_13)
 
 Es sorprendente que Alguien nos informe de que estamos aquí, sobre la Tierra, por Amor, por pura bondad de un Padre que nos ha pensado y llevado a la existencia. Es maravilloso que nos expliquen lo que ya intuíamos: todos los seres humanos tenemos un mismo origen, tenemos lazos que nos unen y hermanan, por lo que nos podríamos sentir acompañados, acogidos y hermanados con todos los habitantes de Urantia, nuestros afines. Nadie es realmente un extraño sino un compañero de viaje, aunque algunos compañeros nos resulten reprensibles y lejanos. En ellos, precisamente, está el reto de vislumbrar también la mano divina de su origen, de sobreponernos a la animadversión, odio, rencor o envidia que nos suscitan. ¿Podremos llegar a una altura espiritual como la que nos demostró en su vida Jesús de Nazaret, nuestro Creador y Hermano?
 
-> La cruz muestra para siempre que la actitud de Jesús hacia los pecadores no era ni de condena ni de condonación sino más bien de salvación eterna y por amor. Jesús es un verdadero salvador porque su vida y su muerte atraen a los hombres hacia la bondad y la justa supervivencia. Jesús ama tanto a los hombres que su amor despierta una respuesta de amor en el corazón humano. El amor es realmente contagioso y eternamente creativo. La muerte de Jesús en la cruz representa un amor tan fuerte y tan divino como para perdonar el pecado y absorber toda maldad. [LU 188:5.2](/es/The_Urantia_Book/188#p5_2)
+> La cruz muestra para siempre que la actitud de Jesús hacia los pecadores no era ni de condena ni de condonación sino más bien de salvación eterna y por amor. Jesús es un verdadero salvador porque su vida y su muerte atraen a los hombres hacia la bondad y la justa supervivencia. Jesús ama tanto a los hombres que su amor despierta una respuesta de amor en el corazón humano. El amor es realmente contagioso y eternamente creativo. La muerte de Jesús en la cruz representa un amor tan fuerte y tan divino como para perdonar el pecado y absorber toda maldad. <a id="a76_559"></a>[LU 188:5.2](/es/The_Urantia_Book/188#p5_2)
 
 > Todo el triunfo de la muerte en la cruz está resumido en el espíritu de la actitud de Jesús hacia sus verdugos. Hizo de la cruz un símbolo eterno del triunfo del amor sobre el odio y de la victoria de la verdad sobre el mal cuando oró diciendo: «Padre, perdónalos porque no saben lo que hacen». Esta entrega de amor se contagió a todo un inmenso universo; los discípulos se contagiaron de su Maestro. El primer maestro de su evangelio que fue llamado a dar la vida por él dijo mientras lo lapidaban: «No les tomes en cuenta este pecado».
 > 
-> La cruz hace una apelación suprema a lo mejor que hay en el hombre porque nos muestra a aquel que estuvo dispuesto a entregar la vida por sus semejantes. Nadie puede tener mayor amor que quien da la vida por sus amigos, pero tal era el amor de Jesús que estaba dispuesto a dar la vida por sus enemigos. Ese era el amor más grande que se había visto nunca en la tierra. [LU 188:5.6-7](/es/The_Urantia_Book/188#p5_6)
+> La cruz hace una apelación suprema a lo mejor que hay en el hombre porque nos muestra a aquel que estuvo dispuesto a entregar la vida por sus semejantes. Nadie puede tener mayor amor que quien da la vida por sus amigos, pero tal era el amor de Jesús que estaba dispuesto a dar la vida por sus enemigos. Ese era el amor más grande que se había visto nunca en la tierra. <a id="a80_371"></a>[LU 188:5.6-7](/es/The_Urantia_Book/188#p5_6)
 
 Esa pequeña reflexión acerca de nuestro Padre Creador y, por supuesto, Salvador, y su forma de comportarse tan deslumbrante y sorprendente viene a colación de la celebración de las próximas fiestas navideñas. Una excusa social que nos puede ayudar a refrescar a los lectores de _El Libro de Urantia_ el hecho de que nos viene a nacer un ser maravilloso, un ser que disfrutará como nosotros de alegrías y sufrimientos, que será frágil pero también extraordinariamente poderoso y, sobre todo, un ser imbuido de Amor en su comportamiento.
 
@@ -66,7 +90,7 @@ _El Libro de Urantia_ nos puede ayudar a ello. Veamos una anécdota de su nacimi
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-3.jpg" alt="Editorial dic 2022-3">
 </figure>
 
-> Un extraño maestro religioso de Mesopotamia comunicó tiempo atrás a estos sacerdotes de su país que le había sido revelado en sueños que la «luz de vida» estaba a punto de aparecer en la tierra como niño recién nacido entre los judíos. Y allá fueron los tres maestros buscando esa «luz de vida». Después de buscarla inútilmente por todo Jerusalén durante varias semanas, estaban a punto de regresar a Ur cuando se encontraron con Zacarías. Tras manifestarles su convicción de que Jesús era el niño a quien buscaban, Zacarías los envió a Belén donde encontraron al bebé y dejaron sus regalos en manos de María, su madre en la tierra. [LU 122:8.6](/es/The_Urantia_Book/122#p8_6)
+> Un extraño maestro religioso de Mesopotamia comunicó tiempo atrás a estos sacerdotes de su país que le había sido revelado en sueños que la «luz de vida» estaba a punto de aparecer en la tierra como niño recién nacido entre los judíos. Y allá fueron los tres maestros buscando esa «luz de vida». Después de buscarla inútilmente por todo Jerusalén durante varias semanas, estaban a punto de regresar a Ur cuando se encontraron con Zacarías. Tras manifestarles su convicción de que Jesús era el niño a quien buscaban, Zacarías los envió a Belén donde encontraron al bebé y dejaron sus regalos en manos de María, su madre en la tierra. <a id="a92_635"></a>[LU 122:8.6](/es/The_Urantia_Book/122#p8_6)
 
 ¿Qué podemos extraer de esta conocida historia? Estos sacerdotes, estos «magos», representan la búsqueda espiritual de todos los pueblos. Son unos paganos, no unos judíos, los que muestran la incesante búsqueda de la Verdad que muchos deseamos encontrar.
 
@@ -97,3 +121,27 @@ Feliz Año 2023.
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa">
+          <span class="pr-2">Cuestionario Urantiano: Christian Figueroa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

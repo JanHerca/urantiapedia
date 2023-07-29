@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_15_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 15 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-15-diciembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 15 — Diciembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Ajustador_y_la_experiencia">
+          <span class="pr-2">El Ajustador y la experiencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La vida de Jesús en pletórica en su dimensión tanto espiritual como humana. Cada una de sus enseñanzas encierra un universo de respuestas válidas para un sinfín de situaciones, aunque por regla general se enfatice su misión redentora, dejándose así algo relegadas otras facetas no menos importantes, que de una forma u otra nos ayudan al desarrollo espiritual de nuestras vidas.
 
@@ -24,7 +48,7 @@ Aunque Cristo no fue un reformador social, sí elevó el sentimiento de dignidad
 
 La misión de Jesús fue la de proclamar la paternidad de Dios y por tanto la hermandad. Tenemos un solo padre y eso nos hace hermanos, hermanos por la fe y por el deseo de perfección, que no es otra cosa que vivir según la voluntad del Padre. Jesús no vino para traer una nueva religión; su empeño más bien está en demostrar cómo se tiene que vivir la religión, redefinida como la experiencia del hombre con las realidades espirituales. Por eso tiene un valor cósmico y universal. Jesús recibió a personas de todas las razas y estratos sociales. Nuestro Padre nos da la oportunidad a cada hombre por igual; es a nosotros a quien toca decidir si aceptar o rechazar tan sublime propuesta. Esto es lo único que determina si trascendemos o nos perdemos.
 
-El agua de vida sigue fluyendo de ese inagotable manantial que es el evangelio del reino. Quien tenga sed no tiene otra cosa que hacer que pedirla y, como aseguró el Maestro, será saciado para siempre. Esa es mi experiencia y la de todos los que hemos probado el agua de vida y, al igual que [la mujer de Sicar](/es/The_Urantia_Book/143#p5_2), nuestras vidas han sido transformadas. Y, si nuestras vidas han sido transformadas, quiere decir que las de otros también lo serán.
+El agua de vida sigue fluyendo de ese inagotable manantial que es el evangelio del reino. Quien tenga sed no tiene otra cosa que hacer que pedirla y, como aseguró el Maestro, será saciado para siempre. Esa es mi experiencia y la de todos los que hemos probado el agua de vida y, al igual que <a id="a50_292"></a>[la mujer de Sicar](/es/The_Urantia_Book/143#p5_2), nuestras vidas han sido transformadas. Y, si nuestras vidas han sido transformadas, quiere decir que las de otros también lo serán.
 
 «Heme aquí, yo estoy a las puertas y llamo». Esta invitación sigue vigente, no hay más condición que la de aceptar. Nuestro Padre espera que el hombre abra la puerta de su corazón y que tengamos la disposición de entregar nuestra voluntad a Él, y entregar nuestra voluntad al Padre no es más que la disposición interior de hacer todo lo que es ético, todo lo que es bello y todo lo que denote bondad y amor. Esta entrega nunca es un sacrificio, es más bien un regocijo que sublima el alma e impulsa al hombre a metas cada vez más altas en una búsqueda de valores supremos. Cuando esto ocurre se realiza el milagro del nuevo nacimiento.
 
@@ -37,3 +61,27 @@ Este llamado de amor no está limitado a un grupo específico racial ni social, 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_15_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 15 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-15-diciembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 15 — Diciembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Ajustador_y_la_experiencia">
+          <span class="pr-2">El Ajustador y la experiencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

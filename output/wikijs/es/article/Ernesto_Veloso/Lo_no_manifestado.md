@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Ernesto Veloso<br>© 2009 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_mente_segun_la_revelacion_3a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente según la revelación (última parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-18-septiembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 18 — Septiembre 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="pr-2">Cuántos mortales sobreviven</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hace varias semanas, durante un encuentro del grupo, un invitado nos pidió que le explicáramos qué cosa era Dios. Esta pregunta me hizo recordar la vez que un amigo me invitó a una conferencia donde él hablaría sobre lo no manifestado. Yo quedé totalmente asombrado por la sencilla razón de que nadie puede hablar sobre lo que no conoce. Querer decir algo sobre lo no manifestado es como querer explicar a Dios. A Dios no se le explica, a Dios se le vive y se le conoce sólo a través de la experiencia personal. A Dios hay que irle descubriendo cada día en los pequeños actos de la vida, porque cada minuto que vivamos es un nuevo descubrimiento por la fe de la existencia de Dios en nuestras vidas. Lo no manifestado puede ser lo más grande y a la vez lo más simple, como el día de mañana o el minuto que está por venir.
 
@@ -20,7 +44,7 @@ Lo finito jamás podrá conocer lo infinito y mucho menos contenerlo, de este he
 
 Pero lo no manifestado no es algo que pertenezca sólo al futuro, lo no manifestado puede estar ocurriendo ahora. ¿Acaso comprendemos o sabemos cómo ocurren miles de fenómenos físicos y mentales? Disfrutamos de la electricidad, el agua es una bendición y la gravedad, aunque puede matarnos en ocasiones, es algo imprescindible para la permanencia en nuestro mundo. Y yo pregunto: ¿Quién ha visto formar una gota de agua? ¿Qué cosa verdaderamente es la electricidad? ¿Cómo Dios controla la gravedad? Estas tres cosas forman parte de nuestra vida cotidiana, las hemos visto desde niños y quizás por ser tan comunes no nos damos cuenta de que en ellas están patentes parte de esos atributos desconocidos de Dios que tienen que ver con el control de la materia física en los mundos materiales como el nuestro.
 
-Es bueno alzar la vista y extender nuestra mirada allende la inmensidad del futuro y de las estrellas, tratando de darnos respuestas y de saber qué y cómo es Dios, pero olvidamos que Nuestro Padre es tan grande que no cabe en el universo y que a la vez su presencia está en la más insignificante flor que sólo dura unas horas en la primavera. El misterio de Dios nos envuelve, y un consejero Divino en el LU, [LU 3:4.5](/es/The_Urantia_Book/3#p4_5) nos dice: «_Aunque provengo de la morada muy cerca de la Deidad, no puedo presumir bablar con perfección de entendimiento respecto a la infinidad de muchos atributos Divinos. Tan sólo la infinidad de mente puede comprenderplenamente la infinidad de existencia y la eternidad de acción_»
+Es bueno alzar la vista y extender nuestra mirada allende la inmensidad del futuro y de las estrellas, tratando de darnos respuestas y de saber qué y cómo es Dios, pero olvidamos que Nuestro Padre es tan grande que no cabe en el universo y que a la vez su presencia está en la más insignificante flor que sólo dura unas horas en la primavera. El misterio de Dios nos envuelve, y un consejero Divino en el LU, <a id="a46_409"></a>[LU 3:4.5](/es/The_Urantia_Book/3#p4_5) nos dice: «_Aunque provengo de la morada muy cerca de la Deidad, no puedo presumir bablar con perfección de entendimiento respecto a la infinidad de muchos atributos Divinos. Tan sólo la infinidad de mente puede comprenderplenamente la infinidad de existencia y la eternidad de acción_»
 
 Esto lo dice un consejero Divino cuya sabiduría, conocimiento y espiritualidad excede con mucho a la nuestra. Excepto el universo central de Havona, los restantes siete superuniversos están en vía de perfección. Es lógico pensar que, a medida que se avance hacia la etapa de Luz y Vida, nuevos atributos de la Deidad se vayan revelando. Ahora, hablar sobre cuáles serán esos atributos y en qué facetas de la vida se pondrán de manifiesto es algo que nadie puede hacer, aun cuando se trate de un Consejero Divino. Por otro lado, si la creación material sigue expandiéndose, significa que nuevos poderes de control por parte de la Deidad se pondrán de manifiesto con relación a estas nuevas creaciones, es obvio. Pero hablar de dichas manifestaciones sería como ponerse a describir los automóviles del año 3000.
 
@@ -35,3 +59,27 @@ La vida moderna, con su alto nivel de tecnología y ciencia, a la vez que ha ele
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_mente_segun_la_revelacion_3a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente según la revelación (última parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-18-septiembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 18 — Septiembre 2009 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="pr-2">Cuántos mortales sobreviven</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

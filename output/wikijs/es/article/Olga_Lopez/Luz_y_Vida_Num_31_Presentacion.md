@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Olga López<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-31-diciembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 31 — Diciembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jesus_Rodriguez/La_evolucion_organica_del_Hombre">
+          <span class="pr-2">La evolución orgánica del hombre a través de los niveles evolucionarios de la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -48,3 +69,24 @@ Olga López
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-31-diciembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 31 — Diciembre 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jesus_Rodriguez/La_evolucion_organica_del_Hombre">
+          <span class="pr-2">La evolución orgánica del hombre a través de los niveles evolucionarios de la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

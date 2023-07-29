@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Eduardo Altuzarra<br>© 2012 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_XI_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El XI Encuentro de lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="pr-2">Experiencia y conclusiones del Simposio de Liderazgo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## El Liderazgo en el movimiento Urantia
 
@@ -26,7 +50,7 @@ _Era razonable, accesible, práctico y con un correcto sentido común. Era amabl
 
 _Estaba sobrecargado de entusiasmo divino, pero nunca se volvió fanático. Era emocionalmente activo, pero nunca caprichoso. Era imaginativo pero siempre práctico. Se enfrentaba con franqueza a las realidades de la vida, pero nunca era insulso ni prosaico. Era valiente pero nunca temerario; prudente, pero nunca cobarde. Era compasivo pero no sensiblero; excepcional pero no excéntrico. Era piadoso pero no beato. Estaba tan bien equilibrado porque estaba perfectamente unificado._
 
-_Jesús no tenía miedo. No era extravagante, errático ni excéntrico. No era caprichoso, antojadizo o histérico. En toda su enseñanza y en todas las cosas que hacía siempre había una discriminación exquisita, asociada a un extraordinario sentido de la corrección._ [LU 100:7.3-4](/es/The_Urantia_Book/100#p7_3)
+_Jesús no tenía miedo. No era extravagante, errático ni excéntrico. No era caprichoso, antojadizo o histérico. En toda su enseñanza y en todas las cosas que hacía siempre había una discriminación exquisita, asociada a un extraordinario sentido de la corrección._ <a id="a52_263"></a>[LU 100:7.3-4](/es/The_Urantia_Book/100#p7_3)
 
 La diseminación de _El Libro de Urantia_ no debe ser lenta ni demasiado rápida, sería un acto suicida. Tiene que desarrollarse a un ritmo de crecimiento progresivo y constante. La publicidad no debe ser ni excesiva ni subversiva. Con el tiempo, _El Libro de Urantia_ estará a disposición de miles de personas.
 
@@ -147,7 +171,7 @@ Las experiencias son lo más importante en el progreso y evolución de nuestra v
 
 Hay que prestar mucha atención a los actos y a las consecuencias.
 
-En [LU 2:7.11](/es/The_Urantia_Book/2#p7_11) se dice que:
+En <a id="a173_3"></a>[LU 2:7.11](/es/The_Urantia_Book/2#p7_11) se dice que:
 
 > _***La salud, la cordura y la felicidad*** son integraciones de la verdad, la belleza y la bondad tal como se encuentran combinadas en la experiencia humana. Estos niveles de vida eficaz llegan a conseguirse mediante la unificación de los ***sistemas energéticos, los sistemas de las ideas y los sistemas del espíritu***._
 
@@ -173,3 +197,27 @@ Los seres humanos que logren desarrollar, en el tiempo, todos los propósitos pe
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/El_XI_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El XI Encuentro de lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-29-junio-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 29 — Junio 2012 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="pr-2">Experiencia y conclusiones del Simposio de Liderazgo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

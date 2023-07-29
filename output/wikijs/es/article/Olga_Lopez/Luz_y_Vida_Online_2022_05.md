@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="pr-2">Luz y Vida — Mayo 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -206,7 +227,7 @@ Jorge Nagore
 
 La riqueza de contenidos de _El Libro de Urantia_ aporta multitud de párrafos apasionantes y que sin duda nos han marcado a todos los lectores. Impresionado en general por el tema concreto de los Ajustadores del Pensamiento he elegido unas líneas, creo que únicas a lo largo de todo el libro, en las que un Ajustador toma la palabra y habla por sí mismo, al referirse a su asociado mortal.
 
-> …El Ajustador pedía entre otras cosas, “Que me conceda más fielmente su cooperación sincera, soporte más alegremente las tareas de mi posición, lleve a cabo más fielmente el programa planeado por mí, pase más pacientemente por las pruebas que he escogido, camine de manera más perseverante y alegre por el sendero que he elegido …Seré fiel a la personalidad que me ha sido confiada. Y le exhorto a sobrevivir, a que no me decepcione, a que no me prive de la recompensa de mi lucha paciente e intensa. Dependemos de la voluntad humana para conseguir la personalidad”. [LU 110:7.10](/es/The_Urantia_Book/110#p7_10)
+> …El Ajustador pedía entre otras cosas, “Que me conceda más fielmente su cooperación sincera, soporte más alegremente las tareas de mi posición, lleve a cabo más fielmente el programa planeado por mí, pase más pacientemente por las pruebas que he escogido, camine de manera más perseverante y alegre por el sendero que he elegido …Seré fiel a la personalidad que me ha sido confiada. Y le exhorto a sobrevivir, a que no me decepcione, a que no me prive de la recompensa de mi lucha paciente e intensa. Dependemos de la voluntad humana para conseguir la personalidad”. <a id="a229_569"></a>[LU 110:7.10](/es/The_Urantia_Book/110#p7_10)
 
 Lo que voy a expresar a continuación es únicamente una opinión basada en mi experiencia personal al respecto. Este párrafo supuso un fuerte impulso de cara a conocer mejor a ese ser maravilloso que habita en mí.
 
@@ -284,3 +305,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="pr-2">Luz y Vida — Mayo 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

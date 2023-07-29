@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Mayo 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-4.jpg" alt="Editorial mayo-23-4">
@@ -54,17 +75,17 @@ _El Libro de Urantia_ nos habla de forma diametralmente opuesta a estas propuest
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-1.jpg" alt="Editorial mayo-23-1">
 </figure>
 
-> En principio, es decir, en potencial eterno, concebimos la creación material como infinita porque el Padre Universal es de hecho infinito. [LU 12:0.2](/es/The_Urantia_Book/12#p0_2)
+> En principio, es decir, en potencial eterno, concebimos la creación material como infinita porque el Padre Universal es de hecho infinito. <a id="a77_141"></a>[LU 12:0.2](/es/The_Urantia_Book/12#p0_2)
 
 El universo no está terminado y puede sustentar infinitos hijos e hijas de Dios, únicos, originales, irrepetibles. Todos amados.
 
-> Todas las miríadas de sistemas planetarios se hicieron para que las habitaran con el tiempo muchos tipos diferentes de criaturas inteligentes, seres que pudieran conocer a Dios, recibir el afecto divino y amarlo a cambio. [LU 1:0.2](/es/The_Urantia_Book/1#p0_2)
+> Todas las miríadas de sistemas planetarios se hicieron para que las habitaran con el tiempo muchos tipos diferentes de criaturas inteligentes, seres que pudieran conocer a Dios, recibir el afecto divino y amarlo a cambio. <a id="a81_224"></a>[LU 1:0.2](/es/The_Urantia_Book/1#p0_2)
 > 
-> Por lo tanto, asentad en vuestra filosofía ahora y para siempre que, para cada uno de vosotros y para todos nosotros, Dios es accesible, el Padre es alcanzable, el camino está abierto. Las fuerzas del amor divino y los caminos y medios de la administración divina están todos conectados entre sí en un esfuerzo por facilitar que todas las inteligencias de todos los universos que sean dignas de ello avancen hasta la presencia del Padre Universal en el Paraíso. [LU 5:1.8](/es/The_Urantia_Book/5#p1_8)
+> Por lo tanto, asentad en vuestra filosofía ahora y para siempre que, para cada uno de vosotros y para todos nosotros, Dios es accesible, el Padre es alcanzable, el camino está abierto. Las fuerzas del amor divino y los caminos y medios de la administración divina están todos conectados entre sí en un esfuerzo por facilitar que todas las inteligencias de todos los universos que sean dignas de ello avancen hasta la presencia del Padre Universal en el Paraíso. <a id="a83_464"></a>[LU 5:1.8](/es/The_Urantia_Book/5#p1_8)
 
 Nadie sobra en una creación infinita, todos aportamos talentos en su desarrollo. Las infinitas manos de los obreros son necesarias en este trabajo sin fin.
 
-> En verdad la mies es mucha pero los obreros pocos; rogad por tanto al Señor de la mies que envíe obreros a su mies. [LU 163:1.3](/es/The_Urantia_Book/163#p1_3)
+> En verdad la mies es mucha pero los obreros pocos; rogad por tanto al Señor de la mies que envíe obreros a su mies. <a id="a87_118"></a>[LU 163:1.3](/es/The_Urantia_Book/163#p1_3)
 
 ¡Qué lejos se encuentra esta visión que aporta el libro azul de las ideas empobrecedoras y limitantes que tienen sobre nuestro planeta y sobre la vida unas minorías poderosas en nuestro planeta actual! ¡Qué lejos están del valor inmenso que tiene el ser humano! ¡Qué bien le viene a esa minoría que los humanos nos minusvaloremos y no sepamos quiénes somos!
 
@@ -74,7 +95,7 @@ Nadie sobra en una creación infinita, todos aportamos talentos en su desarrollo
 
 Si en el planeta, ahora mismo, los millones de humanos que lo poblamos descubriéramos nuestra fuerza interior, nuestra propia luz, nuestro valor, ¿no cambiarían mucho las cosas? ¿Os imagináis millones de personas unidas a su Ajustador del Pensamiento, realizando la voluntad divina en la tierra, desplegando en la materia los valores eternos que proclamó Jesús de Nazaret? Un Jesús que tenía una gran fe en el ser humano, en sus grandes posibilidades.
 
-> La religión de Jesús fomenta el tipo más alto de civilización humana porque crea el tipo más alto de personalidad espiritual y proclama la condición sagrada de esa persona. [LU 194:3.7](/es/The_Urantia_Book/194#p3_7)
+> La religión de Jesús fomenta el tipo más alto de civilización humana porque crea el tipo más alto de personalidad espiritual y proclama la condición sagrada de esa persona. <a id="a97_175"></a>[LU 194:3.7](/es/The_Urantia_Book/194#p3_7)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-3.jpg" alt="Editorial mayo-23-3">
@@ -82,7 +103,7 @@ Si en el planeta, ahora mismo, los millones de humanos que lo poblamos descubri�
 
 Este hermoso ideal ocurrirá en la Tierra. Esa es nuestra esperanza. Es el horizonte hacia el que caminamos, sin duda. Esa es la buena noticia que falta en tantos medios de comunicación.
 
-> Y entonces esas almas nacidas del espíritu proporcionarán rápidamente el liderazgo y la inspiración que se necesitan para la reorganización social, moral, económica y política del mundo. [LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
+> Y entonces esas almas nacidas del espíritu proporcionarán rápidamente el liderazgo y la inspiración que se necesitan para la reorganización social, moral, económica y política del mundo. <a id="a105_189"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
 
 La solución a todo está en la vuelta a nosotros mismos. Un camino infinito hacia dentro. Una invitación a ser nosotros mismos.
 
@@ -92,10 +113,31 @@ La solución a todo está en la vuelta a nosotros mismos. Un camino infinito hac
 
 Tomar consciencia de Dios en nosotros, dentro de nosotros y con nosotros nos hace valorar y amar a la humanidad, pero sobre todo amarnos a nosotros mismos y juntos hacer la gran familia celestial:
 
-> … volvió a recordar las dos leyes fundamentales del vivir: el primer mandamiento de amor al padre, al cabeza de familia, y el segundo mandamiento de amor mutuo entre los hijos, de amar a tu hermano como a ti mismo. [LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
+> … volvió a recordar las dos leyes fundamentales del vivir: el primer mandamiento de amor al padre, al cabeza de familia, y el segundo mandamiento de amor mutuo entre los hijos, de amar a tu hermano como a ti mismo. <a id="a115_217"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
 
 Luchemos por ser cada día nosotros mismos, vayamos contra corriente, pues hacerse consciente de lo que somos realmente es el mayor regalo que cualquiera puede ofrecer al mundo. Cualquier incremento de consciencia individual también eleva la consciencia colectiva del planeta. Se produjo esta elevación hace más de dos mil años con la vida de Jesús y puede seguir ocurriendo ahora con nosotros, sus criaturas.
 
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Mayo 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

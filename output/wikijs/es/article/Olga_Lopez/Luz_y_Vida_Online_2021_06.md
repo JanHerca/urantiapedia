@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Olga López<br>© 2021 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor">
+          <span class="pr-2">La calidad de una sociedad mejor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -61,7 +82,7 @@ Sirva esta reflexión personal que planteamos desde nuestro boletín mensual par
 Existen cientos de trabajos que diseccionan _El Libro de Urantia_ en múltiples detalles. En este boletín mensual de la Asociación Urantia os vamos a ir mostrando muchos de ellos, pero nada de esto tendría sentido si a ti, querido lector o lectora que lees estas líneas, no te incitamos a conectarte con quien nos nutre y hace posible nuestra existencia, tal como vivió su existencia Jesús de Nazaret:
 
 
-> «Al enfrentarse con todas las dificultades naturales y las contradicciones temporales de la existencia mortal, él experimentó la tranquilidad de la confianza suprema y indiscutida en Dios y sintió la tremenda emoción de vivir, por la fe, en la presencia misma del Padre celestial.» [LU 196:0.3](/es/The_Urantia_Book/196#p0_3)
+> «Al enfrentarse con todas las dificultades naturales y las contradicciones temporales de la existencia mortal, él experimentó la tranquilidad de la confianza suprema y indiscutida en Dios y sintió la tremenda emoción de vivir, por la fe, en la presencia misma del Padre celestial.» <a id="a84_284"></a>[LU 196:0.3](/es/The_Urantia_Book/196#p0_3)
 
 Ánimo pues, en esta singladura de la vida y en la que te queremos acompañar con nuestro boletín. Descubre los pequeños tesoros que te ofrecemos y que esperamos te permitan descubrir las maravillas del plan divino en nuestro universo: desde descubrir aspectos inéditos del Sol, características de la vida planetaria en otro mundo habitado, hermosos libros o un original vídeo sobre el origen de _El Libro de Urantia_.
 
@@ -245,3 +266,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor">
+          <span class="pr-2">La calidad de una sociedad mejor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

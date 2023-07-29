@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre cuántos sobreviven (última parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-14-septiembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 14 — Septiembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_1">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sobrevivir es una idea que siempre ocupó mi mente, aun antes de conocer sobre el evangelio de Jesús, porque en realidad, si todo acaba con la muerte, la vida no solo sería absurda sino hasta cruel. Pero creo que el milagro no está en la continuidad sino en nuestra existencia misma. Estar aquí es el verdadero milagro y, si hoy vivo, ¿por qué no viviré mañana? Jesús demostró la falacia de la muerte, su resurrección es nuestra garantía pero, ¿sobreviviremos todos?
 
@@ -24,7 +48,7 @@ Ahora, yo me pregunto: si la doctrina de la salvación universal es cierta, ¿qu
 
 Todas las religiones serias nos advierten sobre la posibilidad de una pérdida del alma. Por otra parte, si existe un verdadero libre albedrío, quiere decir que el hombre puede decidir cómo usarlo, ya sea para bien o para mal. Dios no condena al hombre; es el hombre a través de sus actos quien elige salvarse o perderse.
 
-Para terminar con mi idea, quiero hacerlo con una cita que se encuentra en el documento 49, [LU 49:6.7](/es/The_Urantia_Book/49#p6_7): «_Los supervivientes dormidos de una era planetaria son repersonalizados asi en los llamamientos dispensacionales. Pero en cuanto a las personalidades no salvables de un reino, ningún espiritu inmortal se encuentra presente para actuar con los guardianes colectivos del destino, y esto representa el cese de la existencia de la criatura_». Quiere esto decir claramente que hay personas que se van a perder. En definitiva, que para que exista un verdadero libre albedrío el hombre tiene que tener potencialmente la posibilidad de elección, tanto para sobrevivir como para perderse porque, si todos vamos a sobrevivir, el tal libre albedrío sería un mito y el hombre estaría condenado a sobrevivir.
+Para terminar con mi idea, quiero hacerlo con una cita que se encuentra en el documento 49, <a id="a50_92"></a>[LU 49:6.7](/es/The_Urantia_Book/49#p6_7): «_Los supervivientes dormidos de una era planetaria son repersonalizados asi en los llamamientos dispensacionales. Pero en cuanto a las personalidades no salvables de un reino, ningún espiritu inmortal se encuentra presente para actuar con los guardianes colectivos del destino, y esto representa el cese de la existencia de la criatura_». Quiere esto decir claramente que hay personas que se van a perder. En definitiva, que para que exista un verdadero libre albedrío el hombre tiene que tener potencialmente la posibilidad de elección, tanto para sobrevivir como para perderse porque, si todos vamos a sobrevivir, el tal libre albedrío sería un mito y el hombre estaría condenado a sobrevivir.
 
 Este es mi modesto criterio. Puede que esté equivocado, pero eso es también parte del plan universal.
 
@@ -36,3 +60,27 @@ Este es mi modesto criterio. Puede que esté equivocado, pero eso es también pa
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre cuántos sobreviven (última parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-14-septiembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 14 — Septiembre 2008 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_1">
+          <span class="pr-2">Noticias de la Asociación Urantia de España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

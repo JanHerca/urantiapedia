@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Santiago Rodríguez<br>© 2011 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La unificación de la personalidad (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-26-septiembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 26 — Septiembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Simposio_de_Liderazgo_de_la_AUI">
+          <span class="pr-2">Simposio de Liderazgo de la AUI y Noticias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Quisiera inaugurar esta sección, en la que iré colocando reseñas científicas, sociológicas o de otra cualquier índole, y donde trataremos de localizar avances en el conocimiento en los que de alguna manera se ve reflejada la dirección apuntada por el propio LU.
 
-No es mi intención que la verosimilitud de los contenidos expresados en el LU estén supeditados a que el avance del saber, del conocimiento humano ponga d e manifiesto ideas que concuerden con las ideas de índole científico que salpican esos contenidos. Me remito a este respecto a la propia declaración de las limitaciones de la revelación ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2) «Las limitaciones de la revelación, Doc. 101, «La verdadera naturaleza de la religión»).
+No es mi intención que la verosimilitud de los contenidos expresados en el LU estén supeditados a que el avance del saber, del conocimiento humano ponga d e manifiesto ideas que concuerden con las ideas de índole científico que salpican esos contenidos. Me remito a este respecto a la propia declaración de las limitaciones de la revelación (<a id="a38_342"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2) «Las limitaciones de la revelación, Doc. 101, «La verdadera naturaleza de la religión»).
 
 Tampoco tiene sentido, y por tanto no lo pretendo, especular sobre datos concretos que con el paso del tiempo pueden verse alterados de una manera considerable; sólo esbozaré ideas o generalidades de diversas facetas del conocimiento que de una u otra manera van encajando en las ideas y filosofía mostradas en los contenidos del LU.
 
@@ -48,3 +72,27 @@ Este es el primer paso inevitable en la búsqueda de vida extraterrestre. Hemos 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La unificación de la personalidad (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-26-septiembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 26 — Septiembre 2011 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Simposio_de_Liderazgo_de_la_AUI">
+          <span class="pr-2">Simposio de Liderazgo de la AUI y Noticias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

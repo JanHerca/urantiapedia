@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04">
+          <span class="pr-2">Luz y Vida — Abril 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -53,7 +74,7 @@ De esta forma pasaban los días: trabajaba, dormía, comía algo, lloraba… Poc
 Pero una mañana hubo un silencio curioso y extraño. Uno a uno, los cerdos fueron dejando de gruñir, hocicar y tragar y se lo quedaron mirando. Miraban a este hombre extraño, desgreñado y de triste silueta. Y con ese silencio su mente hizo un «clic», una parada. El joven se puso a pensar. Hacía tiempo que no lo hacía, pero en el instante en que pudo pensar, se dio cuenta de algo que no se le había ocurrido antes: «volveré a la casa de mi padre». Se puso en marcha de inmediato. Atrás dejaba el hedor, los insultos del patrón, el cuchitril donde había vivido esos años. Partía hacia su casa, a la libertad, a ser de nuevo él mismo.
 <br style="clear:both" />
 
-> Durante sus años de enseñanza Jesús contó y volvió a contar muchísimas veces la historia del hijo pródigo. Esta parábola y la del buen samaritano eran sus medios preferidos de enseñar el amor del Padre y las buenas relaciones entre los hombres. [LU 169:1.16](/es/The_Urantia_Book/169#p1_16)
+> Durante sus años de enseñanza Jesús contó y volvió a contar muchísimas veces la historia del hijo pródigo. Esta parábola y la del buen samaritano eran sus medios preferidos de enseñar el amor del Padre y las buenas relaciones entre los hombres. <a id="a76_247"></a>[LU 169:1.16](/es/The_Urantia_Book/169#p1_16)
 
 [Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04)
 
@@ -77,7 +98,7 @@ En palabras de la autora, «la supremacía debe comprender todas las posibilidad
 
 [**Neutrinos (autor desconocido)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
 
-A pesar de que la ciencia que aparece en _El Libro de Urantia_ está muy restringida a los conocimientos de la década de los 30 del siglo pasado, sí que contiene conocimientos que los científicos de la época no conocían, pero que se descubrieron décadas más tarde. Un ejemplo de esto es la existencia de los neutrinos a los que se refieren en este fragmento: «Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de pequeñas partículas desprovistas de potencial eléctrico y que escapan rápidamente del interior solar» [LU 41:8.3](/es/The_Urantia_Book/41#p8_3). No solo eso: en el libro los reveladores nos dicen que estas partículas pueden provocar « el desmoronamiento de un sol gigantesco en pocos días», algo que solo se pudo observar hasta 1987. En este artículo, el autor hace un repaso de cómo llegó la ciencia a confirmar lo que los reveladores nos dicen en _El Libro de Urantia_ al respecto.
+A pesar de que la ciencia que aparece en _El Libro de Urantia_ está muy restringida a los conocimientos de la década de los 30 del siglo pasado, sí que contiene conocimientos que los científicos de la época no conocían, pero que se descubrieron décadas más tarde. Un ejemplo de esto es la existencia de los neutrinos a los que se refieren en este fragmento: «Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de pequeñas partículas desprovistas de potencial eléctrico y que escapan rápidamente del interior solar» <a id="a100_533"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3). No solo eso: en el libro los reveladores nos dicen que estas partículas pueden provocar « el desmoronamiento de un sol gigantesco en pocos días», algo que solo se pudo observar hasta 1987. En este artículo, el autor hace un repaso de cómo llegó la ciencia a confirmar lo que los reveladores nos dicen en _El Libro de Urantia_ al respecto.
 <br style="clear:both" />
 
 ---
@@ -88,7 +109,7 @@ A pesar de que la ciencia que aparece en _El Libro de Urantia_ está muy restrin
 
 [**Reflexiones sobre la parábola de la semilla de mostaza (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
 
-En palabras de la autora: «Las parábolas de Jesús no tienen una interpretación única, sino que sirven para evocar en nosotros imágenes e ideas elevadas, y nos ayudan a discernir la manera de progresar espiritualmente… La parábola del grano de mostaza es una de las más conocidas que utilizó Jesús al referirse al desarrollo del reino de los cielos en el corazón de los hombres». Precisamente para profundizar en los significados que nos evoca esta parábola, la autora recorre todas las referencias que podemos encontrar en la cuarta parte de _El Libro de Urantia_ y hace un repaso de las afirmaciones que van vinculadas a la comparación del reino de los cielos con la semilla de mostaza. Porque «La semilla de mostaza es en verdad la más pequeña de todas las simientes, pero cuando ha crecido es la mayor de las hortalizas, y se hace árbol». [LU 151:4.2](/es/The_Urantia_Book/151#p4_2)
+En palabras de la autora: «Las parábolas de Jesús no tienen una interpretación única, sino que sirven para evocar en nosotros imágenes e ideas elevadas, y nos ayudan a discernir la manera de progresar espiritualmente… La parábola del grano de mostaza es una de las más conocidas que utilizó Jesús al referirse al desarrollo del reino de los cielos en el corazón de los hombres». Precisamente para profundizar en los significados que nos evoca esta parábola, la autora recorre todas las referencias que podemos encontrar en la cuarta parte de _El Libro de Urantia_ y hace un repaso de las afirmaciones que van vinculadas a la comparación del reino de los cielos con la semilla de mostaza. Porque «La semilla de mostaza es en verdad la más pequeña de todas las simientes, pero cuando ha crecido es la mayor de las hortalizas, y se hace árbol». <a id="a111_842"></a>[LU 151:4.2](/es/The_Urantia_Book/151#p4_2)
 <br style="clear:both" />
 
 ---
@@ -177,14 +198,14 @@ Montserrat Blanco
 No hay frase de _El Libro de Urantia_ que no contenga una perla. Algunas veces esa perla está oculta y hay que rascar para poder encontrarla; otras, como es el caso, esa perla brilla como un sol y es imposible ocultar tanta luz y tantísima belleza.
 
 
-> La misericordia es el fruto natural e inevitable de la bondad y el amor. La naturaleza bondadosa de un Padre amoroso no podría negar en modo alguno el sabio ministerio de misericordia a todos y cada uno de los miembros de todos los grupos de sus hijos del universo. La unión de la justicia eterna y la misericordia divina constituye lo que en la experiencia humana se llamaría equidad. [LU 2:4.4](/es/The_Urantia_Book/2#p4_4)
+> La misericordia es el fruto natural e inevitable de la bondad y el amor. La naturaleza bondadosa de un Padre amoroso no podría negar en modo alguno el sabio ministerio de misericordia a todos y cada uno de los miembros de todos los grupos de sus hijos del universo. La unión de la justicia eterna y la misericordia divina constituye lo que en la experiencia humana se llamaría equidad. <a id="a200_388"></a>[LU 2:4.4](/es/The_Urantia_Book/2#p4_4)
 
 MISERICORDIA es una palabra que encierra una grandeza que muy pocos llegan a vislumbrar. Pasamos por encima de ella de puntillas, pero hay que tener en cuenta que la misericordia es el fruto natural de la unión entre la bondad y el amor, y debemos ofrecer esa misericordia en función del daño obtenido, independientemente de dónde provenga.
 
 ¡Pero cuidado! No confundamos _misericordia_ con _pena_ o _lástima_.
 
 
-> La misericordia es simplemente justicia atemperada por esa sabiduría que surge de la perfección del conocimiento y del reconocimiento pleno de la debilidad natural y de los obstáculos ambientales de las criaturas finitas. [LU 2:4.1](/es/The_Urantia_Book/2#p4_1)
+> La misericordia es simplemente justicia atemperada por esa sabiduría que surge de la perfección del conocimiento y del reconocimiento pleno de la debilidad natural y de los obstáculos ambientales de las criaturas finitas. <a id="a207_224"></a>[LU 2:4.1](/es/The_Urantia_Book/2#p4_1)
 
 La misericordia es la suprema cualidad fraternal. ¡Qué no haría un padre amoroso por su amado hijo!
 
@@ -298,3 +319,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2023/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04">
+          <span class="pr-2">Luz y Vida — Abril 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

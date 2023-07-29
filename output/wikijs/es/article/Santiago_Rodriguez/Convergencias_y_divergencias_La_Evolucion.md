@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalizaciones: error, verdad, ilusión o inocencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-35-diciembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 35 — Diciembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco">
+          <span class="pr-2">Cuestionario urantiano: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aunque hoy en día está ampliamente aceptado el hecho de la evolución, como manera en la que han llegado a existir las especies de seres vivos que conocemos, y ciertamente _El Libro de Urantia_ y la ciencia establecida convergen en la idea, también convergen en el hecho de que la evolución está dirigida por una adaptación al medio y por una selección favorecida por mutaciones adecuadas, lo que implica que todos los seres vivos tenemos un «LUCA», es decir, un antepasado común universal.
 
@@ -38,3 +62,27 @@ En el siguiente esquema, aparecen una serie de hitos en la historia evolutiva, a
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalizaciones: error, verdad, ilusión o inocencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-35-diciembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 35 — Diciembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco">
+          <span class="pr-2">Cuestionario urantiano: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

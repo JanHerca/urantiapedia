@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Horacio Gamboa<br>© 2013 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Ajustadores del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-35-diciembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 35 — Diciembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_Evolucion">
+          <span class="pr-2">Convergencias y divergencias: la evolución</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV35/07.jpg">
@@ -44,7 +68,7 @@ Individuos abandonados por sus Ajustadores pueden seguir trabajando, incluso en 
 
 De seguro es muy astuto seleccionando humanos de inteligencia superior que estén dispuestos desligarse de sus Ajustadores, darle la espalda a Dios y unirse a la rebelión. Darle la espalda a Dios, casi se podría decir que está de moda en estos días. Ese pequeño grupo podría ser el que hiciera el enlace con mayor número de humanos. Ojo, seguramente que el secreto seria clave para llevar adelante sus perversas intenciones, y a los humanos les gustan mucho los secretos y pertenecer a grupos secretos y él lo sabe, pues lleva miles de años conociendo a los humanos. Además de estos métodos directos de influencia, también nos advierten sobre la habilidad de Caligastia para trabajar con «AGENTES CIEGOS», individuos sinceros que creen estar haciendo lo correcto, como el caso de Serapatatia. Serapatatia era totalmente correcto, honrado y competente, sincero en todas sus actividades, y nunca fue consciente, ni siquiera posteriormente, que el astuto Caligastia lo estaba usando como instrumento accesorio. Por lo tanto, hay que ser muy sagaces y despiertos para no caer en una trampa de este contumaz personaje, que tiene que ser impresionante, luminoso y poderoso. ASTUTOS COMO SERPIENTES E INOCUOS COMO PALOMAS. 
 
-> «Caligastia, vuestro Príncipe Planetario apostata, sigue siendo libre en Urantia». [LU 53:8.6](/es/The_Urantia_Book/53#p8_6)
+> «Caligastia, vuestro Príncipe Planetario apostata, sigue siendo libre en Urantia». <a id="a70_85"></a>[LU 53:8.6](/es/The_Urantia_Book/53#p8_6)
 
 Para mantener abiertas las puertas de la ascensión al Paraíso a los seres de Norlatiadec era necesario facilitar el desarrollo completo de la rebelión, y asegurar la plena definición de la actitud de todos los seres implicados de alguna manera en ella. «Plena Definición de la Actitud» no deja lugar a matices. «Todos los seres involucrados de alguna manera en ella» incluiría de nuevo a todos los mortales, presentes y futuros.
 
@@ -52,13 +76,13 @@ Está plenamente finiquitada la rebelión en términos superhumanos, pero no en 
 
 ¿Cuánto tiempo pasara antes que el pecado y la iniquidad no se encuentren en Urantia?
 
-Este pasaje sugiere 100.000 años de nuestro tiempo: _Y sin embargo esta comparación es la más cercana teniendo en cuenta la duración de la vida de Lucifer, aunque su juicio, ya iniciado, no finalice hasta 100.000 años de Urantia..._ [LU 54:5.13](/es/The_Urantia_Book/54#p5_13)
+Este pasaje sugiere 100.000 años de nuestro tiempo: _Y sin embargo esta comparación es la más cercana teniendo en cuenta la duración de la vida de Lucifer, aunque su juicio, ya iniciado, no finalice hasta 100.000 años de Urantia..._ <a id="a78_233"></a>[LU 54:5.13](/es/The_Urantia_Book/54#p5_13)
 
 Los dos pasajes siguientes, cuando se combinan, sugieren 800.000 años:
 
-> _Todo el cuerpo de Consejeros de Uversa coincidió en aconsejar a Gabriel que permitiera que la rebelión siguiera plenamente su curso natural, aunque se necesitara un millón de años para acabar con las consecuencias._ [LU 54:5.12](/es/The_Urantia_Book/54#p5_12)
+> _Todo el cuerpo de Consejeros de Uversa coincidió en aconsejar a Gabriel que permitiera que la rebelión siguiera plenamente su curso natural, aunque se necesitara un millón de años para acabar con las consecuencias._ <a id="a82_219"></a>[LU 54:5.12](/es/The_Urantia_Book/54#p5_12)
 
-> _...el caso de Gabriel contra Lucifer, inscrito en los registros del tribunal supremo de Uversa hace cerca de 200.000 años tal como vosotros calculáis el tiempo._ [LU 53:9.3](/es/The_Urantia_Book/53#p9_3)
+> _...el caso de Gabriel contra Lucifer, inscrito en los registros del tribunal supremo de Uversa hace cerca de 200.000 años tal como vosotros calculáis el tiempo._ <a id="a84_165"></a>[LU 53:9.3](/es/The_Urantia_Book/53#p9_3)
 
 1.000.000 de años (estimación del tiempo total) menos 200.000 años (Tiempo transcurrido hasta ahora) = 800.000 años.
 
@@ -79,3 +103,27 @@ Puerto Varas, Patagonia chilena.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Ajustadores del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-35-diciembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 35 — Diciembre 2013 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_Evolucion">
+          <span class="pr-2">Convergencias y divergencias: la evolución</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

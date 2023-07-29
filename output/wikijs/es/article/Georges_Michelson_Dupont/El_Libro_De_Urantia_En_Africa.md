@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Georges Michelson-Dupont<br>© 2005 Olga López, de la traducción<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Centro_De_Atencion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El centro de atención</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-2-septiembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 2 — Septiembre 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_1a_Parte">
+          <span class="pr-2">Encuentro del 14 de mayo de 1999 en Dakar (Senegal), primera parte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Siempre nos habíamos preguntado cómo recibiría el mundo musulmán _El Libro de Urantia_ y sus enseñanzas. Parte de la respuesta la obtuvimos en nuestro viaje a Dakar (Senegal).
@@ -29,11 +53,11 @@ Jesús se interesaba por el individuo y a él se dirigía su enseñanza. Un sond
 
 La técnica de Moussa es universal: es la de Jesús. Ésta puede ser adaptada para cada uno de nosotros en función de las circunstancias, de las realidades religiosas, sociales y culturales, pero comporta invariablemente dos fases: primera, la preparación inteligente, amante y no invasora de la mente humana para recibir las verdades contenidas en estas enseñanzas; y segunda, su presentación posterior. El Ajustador Interior, el Espíritu de la Verdad y los ángeles asociados harán el resto.
 
-> «_...Pero sabemos que reside dentro de la mente humana un fragmento de Dios y que permanece con el alma humana el Espiritu de la Verdad; también sabemos que estas fuerzas espirituales se conjuran en facilitar al hombre material para que capte la realidad de los valores espirituales y entienda la filosofía de los significados universales. Pero con certeza aún mayor, sabemos que estos espíritus de la Presencia Divina son capaces de ayudar al hombre en la apropiación espiritual de toda verdad que contribuya al mejoramiento de la realidad en constante progreso de la experiencia religiosa personal - la conciencia de Dios._» [LU 0:12.13](/es/The_Urantia_Book/0#p12_13)
+> «_...Pero sabemos que reside dentro de la mente humana un fragmento de Dios y que permanece con el alma humana el Espiritu de la Verdad; también sabemos que estas fuerzas espirituales se conjuran en facilitar al hombre material para que capte la realidad de los valores espirituales y entienda la filosofía de los significados universales. Pero con certeza aún mayor, sabemos que estos espíritus de la Presencia Divina son capaces de ayudar al hombre en la apropiación espiritual de toda verdad que contribuya al mejoramiento de la realidad en constante progreso de la experiencia religiosa personal - la conciencia de Dios._» <a id="a55_629"></a>[LU 0:12.13](/es/The_Urantia_Book/0#p12_13)
 
 Se nos ha dado esta prueba a condición de que sea presentada inteligentemente, con respeto y amor; las enseñanzas de este libro pueden ser aceptadas por cualquier religión, en cualquier lugar del mundo, y liberar a las almas en tinieblas, cautivas de la esclavitud de las tradiciones y de las creencias.
 
-> Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanas del reino, que son las siguientes: conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. ‘Conoceréis la verdad y la verdad os hará libres’.» [LU 141:7.6](/es/The_Urantia_Book/141#p7_6)
+> Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanas del reino, que son las siguientes: conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. ‘Conoceréis la verdad y la verdad os hará libres’.» <a id="a59_380"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6)
 
 Al preguntarle a Fatou, una estudiante de Moussa, lo que _El Libro de Urantia_ le había aportado, nos respondió: «Me ha convertido en una mejor musulmana».
 
@@ -43,3 +67,27 @@ Os invito a meditar sobre esta respuesta.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/El_Centro_De_Atencion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El centro de atención</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-2-septiembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 2 — Septiembre 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_1a_Parte">
+          <span class="pr-2">Encuentro del 14 de mayo de 1999 en Dakar (Senegal), primera parte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

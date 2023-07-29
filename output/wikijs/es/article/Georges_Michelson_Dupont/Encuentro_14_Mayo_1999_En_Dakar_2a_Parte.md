@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Georges Michelson-Dupont<br>© 2005 Mercedes Delgado, de la traducción<br>© 2005 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Los_Sustitutos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los sustitutos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-3-diciembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 3 — Diciembre 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Somos_Hijos_Del_Supremo">
+          <span class="pr-2">Somos hijos del Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Acta Del Encuentro Del 16 De Mayo De 1999
 
@@ -277,3 +301,27 @@ La sesión se levantó a las 18:00 y fue seguida de la última reunión de los m
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Los_Sustitutos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los sustitutos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-3-diciembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 3 — Diciembre 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Somos_Hijos_Del_Supremo">
+          <span class="pr-2">Somos hijos del Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Demetrio_Gomez/El_Escriba_de_Damasco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El escriba de Damasco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gines_Aviles/La_tecnica_de_resolucion_de_problemas_de_Rodan">
+          <span class="pr-2">La técnica de resolución de problemas de Rodán de Alejandría</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <br>© 2015 Asociación Urantia de España</p>
 
 Vivimos en un único Universo, uno solo, no en siete universos o «superuniversos». Cosa distinta es que nuestro Universo tenga otras dimensiones además de las tres conocidas por nosotros más el tiempo (que seguro que las tiene). Pero lo primero que hay que evitar es pensar que con nuestros potentes telescopios solo vemos nuestro superuniverso y hay otros 6 como el nuestro. El que somos capaces de ver es ya de por sí inimaginable. Cuando veis un documental sobre el Universo, se está hablando del que parece único que hay, que nadie piense en otros 6 como este. El problema es de nomenclatura, de definición, y anticipamos que es una pena que el libro haya utilizado tal denominación tan pronto sobrepasada por la ciencia. Lo veremos más adelante.
@@ -62,7 +86,7 @@ Los cúmulos globulares son compactos grupos de estrellas con una densidad 1.000
 
 A una distancia de 169.000 años-luz (169 metros de nuestra Via Láctea) se encuentra la Gran Nube de Magallanes (tamaño 30 m.) y la Pequeña Nube de Magallanes (tamaño 16 m.).
 
-La galaxia de Andrómeda (la más cercana) está a 2,2 kilómetros de distancia de nuestro campo de fútbol y es otro campo de fútbol de 130 metros de largo. _El Libro de Urantia_ dice claramente en [LU 15:4.7](/es/The_Urantia_Book/15#p4_7) que Andrómeda está fuera del superuniverso habitado y a una distancia de un millón de años (en clara discrepancia con los 2,2 de nuestra astronomía)...Pues sí, es sorprendente que la Galaxia más cercana a nosotros esté deshabitada, se entiende que, como poco, vacía de seres vivos inteligentes ascendentes. Así pues, no imaginéis que cuando veis una fotografía de dicha galaxia (Andrómeda) haya planetas habitados, al menos de acuerdo con lo dice el libro.
+La galaxia de Andrómeda (la más cercana) está a 2,2 kilómetros de distancia de nuestro campo de fútbol y es otro campo de fútbol de 130 metros de largo. _El Libro de Urantia_ dice claramente en <a id="a88_194"></a>[LU 15:4.7](/es/The_Urantia_Book/15#p4_7) que Andrómeda está fuera del superuniverso habitado y a una distancia de un millón de años (en clara discrepancia con los 2,2 de nuestra astronomía)...Pues sí, es sorprendente que la Galaxia más cercana a nosotros esté deshabitada, se entiende que, como poco, vacía de seres vivos inteligentes ascendentes. Así pues, no imaginéis que cuando veis una fotografía de dicha galaxia (Andrómeda) haya planetas habitados, al menos de acuerdo con lo dice el libro.
 
 A una distancia de 3 Km de nuestro campo de futbol está M33 (tamaño 60.000 años- luz) y es otro campo de futbol de 60 m. de largo.
 
@@ -93,9 +117,9 @@ Materia, gravedad, tiempo, espacio, todo está interconectado, si tocas uno, mod
 
 Un rayo de luz (un fotón) da 7,5 veces la vuelta a la Tierra por el ecuador en ausencia de atmósfera en un segundo. Es una velocidad muy grande, enorme para nosotros... pero no es nada para un universo. La luz del Sol tarda en llegarnos 8 minutos y nos lleva casi 4 años llegar, a la velocidad de la luz, a la estrella más cercana a nosotros, Próxima Centauri. ¿Es posible gobernar un universo a esa velocidad? ¿Le hubiera resultado posible al Imperio Romano gobernar casi todo el mundo occidental conocido entonces sin sus fabulosas calzadas que permitían a sus legiones desplazarse de un punto u otro del imperio en poco tiempo?
 
-Los astrónomos dicen que el universo tiene 13.700 millones de años y que las galaxias más lejanas se alejan a velocidades crecientes, más deprisa cuanto más lejos. Pero el libro advierte en [LU 12:4.12](/es/The_Urantia_Book/12#p4_12) de que es un error consecuencia de medir mal: «_But such is not the case..._» «_Pero este no es el caso, falláis en reconocer el presente momento uniforme de expansión...etc_» No deja lugar a dudas. Creo sinceramente que el libro tiene razón en este punto. El proceso de expansión del universo (y de contracción cuando es así, en una especie de respiración cada 2.000 millones de años) no requiere de aceleraciones cada vez mayores cuanto más grandes sean las distancias desde nuestro punto de observación.
+Los astrónomos dicen que el universo tiene 13.700 millones de años y que las galaxias más lejanas se alejan a velocidades crecientes, más deprisa cuanto más lejos. Pero el libro advierte en <a id="a119_190"></a>[LU 12:4.12](/es/The_Urantia_Book/12#p4_12) de que es un error consecuencia de medir mal: «_But such is not the case..._» «_Pero este no es el caso, falláis en reconocer el presente momento uniforme de expansión...etc_» No deja lugar a dudas. Creo sinceramente que el libro tiene razón en este punto. El proceso de expansión del universo (y de contracción cuando es así, en una especie de respiración cada 2.000 millones de años) no requiere de aceleraciones cada vez mayores cuanto más grandes sean las distancias desde nuestro punto de observación.
 
-El libro señala también que «_hace 875.000 años la enorme nebulosa de Andronover número 876.926 fue iniciada_» ([LU 57:1.6](/es/The_Urantia_Book/57#p1_6)). Si consideráramos solo esta cifra, significaría que el universo es como mínimo 63 veces más antiguo de lo que dicen nuestros astrónomos. Tiene sentido, la cifra que da la ciencia es muy baja, algo así como decir que nuestro Sol solo tiene padre, madre y abuelo como árbol genealógico (soles previos) dado que se cifra en 4.500 o 5.000 millones de años de antigüedad. Hay que considerar que todos los elementos de la tabla periódica se han producido previamente en los núcleos de soles primigenios con sus enormes presiones y altísimas temperaturas. El hierro de las vigas que sostienen nuestros edificios, el aluminio de nuestros coches, el oxígeno que forma parte del aire que respiramos se formaron en núcleos de soles que se colapsaron antes de que se formara el nuestro. ¿Solo 3 antes que el nuestro? ¡Demasiado poco!
+El libro señala también que «_hace 875.000 años la enorme nebulosa de Andronover número 876.926 fue iniciada_» (<a id="a121_112"></a>[LU 57:1.6](/es/The_Urantia_Book/57#p1_6)). Si consideráramos solo esta cifra, significaría que el universo es como mínimo 63 veces más antiguo de lo que dicen nuestros astrónomos. Tiene sentido, la cifra que da la ciencia es muy baja, algo así como decir que nuestro Sol solo tiene padre, madre y abuelo como árbol genealógico (soles previos) dado que se cifra en 4.500 o 5.000 millones de años de antigüedad. Hay que considerar que todos los elementos de la tabla periódica se han producido previamente en los núcleos de soles primigenios con sus enormes presiones y altísimas temperaturas. El hierro de las vigas que sostienen nuestros edificios, el aluminio de nuestros coches, el oxígeno que forma parte del aire que respiramos se formaron en núcleos de soles que se colapsaron antes de que se formara el nuestro. ¿Solo 3 antes que el nuestro? ¡Demasiado poco!
 
 Nuestros errores de medición se producen porque si el universo se expande y se contrae cada 2.000 millones de años, nos resulta imposible calcular la edad del universo actual, salvo que se nos diga cuándo fue la primera vez que lo hizo. De la misma manera que sería imposible conocer la edad de una persona si a lo largo de su vida ha tenido varios episodios de rejuvenecimiento en lugar de un lento envejecer. Resulta bastante evidente.
 
@@ -103,25 +127,25 @@ La velocidad de la luz, con todo lo rápida que es, es insuficiente para recorre
 
 Lo hay. El libro lo explica en LU 23:3.2 del Documento 23:
 
-> _... Un ser enserafinado no puede sobrepasar de ninguna manera la velocidad de 899.370 kilómetros de Urantia por segundo de vuestro tiempo. Las estrellas masivas, las corrientes contrarias y los desvíos, así como las tangentes de atracción, tienden todas a retrasar esta velocidad, de manera que durante un largo viaje la velocidad alcanzará una media de unos 885.000 kilómetros por segundo._ [LU 23:3.2](/es/The_Urantia_Book/23#p3_2)
+> _... Un ser enserafinado no puede sobrepasar de ninguna manera la velocidad de 899.370 kilómetros de Urantia por segundo de vuestro tiempo. Las estrellas masivas, las corrientes contrarias y los desvíos, así como las tangentes de atracción, tienden todas a retrasar esta velocidad, de manera que durante un largo viaje la velocidad alcanzará una media de unos 885.000 kilómetros por segundo._ <a id="a129_395"></a>[LU 23:3.2](/es/The_Urantia_Book/23#p3_2)
 
-> _Cuando se pone de manifiesto que se necesitarán cientos de años para que un embajador nativo llegue a un universo local muy lejano, se pide con frecuencia a un Mensajero Solitario que se dirija inmediatamente allí para actuar como embajador interino. Los Mensajeros Solitarios pueden desplazarse muy rápidamente, no con independencia del tiempo y del espacio como lo hacen los Mensajeros de Gravedad, pero casi igual que ellos..._ [LU 23:2.23](/es/The_Urantia_Book/23#p2_23)
+> _Cuando se pone de manifiesto que se necesitarán cientos de años para que un embajador nativo llegue a un universo local muy lejano, se pide con frecuencia a un Mensajero Solitario que se dirija inmediatamente allí para actuar como embajador interino. Los Mensajeros Solitarios pueden desplazarse muy rápidamente, no con independencia del tiempo y del espacio como lo hacen los Mensajeros de Gravedad, pero casi igual que ellos..._ <a id="a131_434"></a>[LU 23:2.23](/es/The_Urantia_Book/23#p2_23)
 
-> _El universo está bien provisto de espiritus que utilizan la gravedad a fin de desplazarse; pueden ir a cualquier parte en cualquier momento —instantáneamente— pero no son personas. Algunos otros que se desplazan utilizando la gravedad son seres personales, tales como los Mensajeros de Gravedad y los Registradores Trascendentales, pero no están a la disposición de los administradores de los superuniversos o de los universos locales. Los mundos pululan de ángeles, de hombres y de otros seres extremadamente personales, pero están obstaculizados por el tiempo y el espacio: el límite de velocidad para la mayoría de los seres no enserafinados es de 299.790 kilómetros de vuestro mundo por segundo de vuestro tiempo; las criaturas intermedias y algunas otras pueden alcanzar una velocidad doble 599.580 kilómetros por segundo —y a menudo lo consiguen, mientras que los serafines y otros pueden atravesar el espacio a una velocidad triple, en torno a los 899.370 kilómetros por segundo. Sin embargo, no existen personalidades mensajeras o de transporte, a excepción de los Mensajeros Solitarios, que circulen entre las velocidades instantáneas de aquellos que utilizan la gravedad para desplazarse y las velocidades relativamente lentas de los serafines..._ [LU 23:3.2](/es/The_Urantia_Book/23#p3_2)
+> _El universo está bien provisto de espiritus que utilizan la gravedad a fin de desplazarse; pueden ir a cualquier parte en cualquier momento —instantáneamente— pero no son personas. Algunos otros que se desplazan utilizando la gravedad son seres personales, tales como los Mensajeros de Gravedad y los Registradores Trascendentales, pero no están a la disposición de los administradores de los superuniversos o de los universos locales. Los mundos pululan de ángeles, de hombres y de otros seres extremadamente personales, pero están obstaculizados por el tiempo y el espacio: el límite de velocidad para la mayoría de los seres no enserafinados es de 299.790 kilómetros de vuestro mundo por segundo de vuestro tiempo; las criaturas intermedias y algunas otras pueden alcanzar una velocidad doble 599.580 kilómetros por segundo —y a menudo lo consiguen, mientras que los serafines y otros pueden atravesar el espacio a una velocidad triple, en torno a los 899.370 kilómetros por segundo. Sin embargo, no existen personalidades mensajeras o de transporte, a excepción de los Mensajeros Solitarios, que circulen entre las velocidades instantáneas de aquellos que utilizan la gravedad para desplazarse y las velocidades relativamente lentas de los serafines..._ <a id="a133_1261"></a>[LU 23:3.2](/es/The_Urantia_Book/23#p3_2)
 
-> [Los Mensajeros Solitarios] _son los únicos seres claramente personalizados que pueden sincronizarse con las corrientes universales combinadas del gran universo. Su velocidad para atravesar el espacio es variable y depende de una gran variedad de influencias interferentes, pero los registros demuestran que durante su viaje para llevar a cabo esta misión, mi mensajero asociado se desplazó a razón de 1.354.458.739.000 kilómetros vuestros por segundo de vuestro tiempo..._ [LU 23:3.3](/es/The_Urantia_Book/23#p3_3)
+> [Los Mensajeros Solitarios] _son los únicos seres claramente personalizados que pueden sincronizarse con las corrientes universales combinadas del gran universo. Su velocidad para atravesar el espacio es variable y depende de una gran variedad de influencias interferentes, pero los registros demuestran que durante su viaje para llevar a cabo esta misión, mi mensajero asociado se desplazó a razón de 1.354.458.739.000 kilómetros vuestros por segundo de vuestro tiempo..._ <a id="a135_476"></a>[LU 23:3.3](/es/The_Urantia_Book/23#p3_3)
 
-> _Me siento totalmente incapaz de explicar al tipo de mente material cómo un espiritu puede ser una persona real y al mismo tiempo atravesar el espacio a esas velocidades asombrosas. Pero estos mismos Mensajeros Solitarios vienen efectivamente a Urantia, y parten de aqui, a estas velocidades incomprensibles; si esto no fuera un hecho, toda la economía de la administración universal estaría en verdad ampliamente privada de su elemento personal._ [LU 23:3.4](/es/The_Urantia_Book/23#p3_4)
+> _Me siento totalmente incapaz de explicar al tipo de mente material cómo un espiritu puede ser una persona real y al mismo tiempo atravesar el espacio a esas velocidades asombrosas. Pero estos mismos Mensajeros Solitarios vienen efectivamente a Urantia, y parten de aqui, a estas velocidades incomprensibles; si esto no fuera un hecho, toda la economía de la administración universal estaría en verdad ampliamente privada de su elemento personal._ <a id="a137_450"></a>[LU 23:3.4](/es/The_Urantia_Book/23#p3_4)
 
-> _De las miríadas de seres que cooperan con nosotros en la dirección de los asuntos del superuniverso, ninguno es más importante en utilidad práctica y en ayudarnos a ahorrar tiempo. En los universos del espacio tenemos que contar con los obstáculos del tiempo; de ahi el gran servicio que prestan los Mensajeros Solitarios, los cuales, gracias a sus prerrogativas personales de comunicación, son en cierto modo independientes del espacio, y en virtud de sus enormes velocidades de tránsito, son casi independientes del tiempo._ [LU 23:3.6](/es/The_Urantia_Book/23#p3_6)
+> _De las miríadas de seres que cooperan con nosotros en la dirección de los asuntos del superuniverso, ninguno es más importante en utilidad práctica y en ayudarnos a ahorrar tiempo. En los universos del espacio tenemos que contar con los obstáculos del tiempo; de ahi el gran servicio que prestan los Mensajeros Solitarios, los cuales, gracias a sus prerrogativas personales de comunicación, son en cierto modo independientes del espacio, y en virtud de sus enormes velocidades de tránsito, son casi independientes del tiempo._ <a id="a139_530"></a>[LU 23:3.6](/es/The_Urantia_Book/23#p3_6)
 
-> _Por mucho que el universo pueda agrandarse, es probable que nunca se creen más Mensajeros Solitarios. A medida que crecen los universos, la mayor cantidad de trabajo de la administración deberá ser efectuada cada vez más por otros tipos de ministros espirituales..._ [LU 23:3.9](/es/The_Urantia_Book/23#p3_9)
+> _Por mucho que el universo pueda agrandarse, es probable que nunca se creen más Mensajeros Solitarios. A medida que crecen los universos, la mayor cantidad de trabajo de la administración deberá ser efectuada cada vez más por otros tipos de ministros espirituales..._ <a id="a141_270"></a>[LU 23:3.9](/es/The_Urantia_Book/23#p3_9)
 
-Por supuesto, todo ello es perfectamente compatible con la posible existencia de otras dimensiones además de las cuatro conocidas por nosotros (las tres físicas más el tiempo). [LU 130:7.6](/es/The_Urantia_Book/130#p7_6) del documento 129: «_cuanto más se aproxima la conciencia a la noción de las siete dimensiones cósmicas, el concepto del espacio potencial se aproxima más a la ultimicidad, finalmente los mortales sobrevivientes alcanzan la identidad en un universo de siete dimensiones..._» La Teoría de Cuerdas, en fase de formulación por nuestros físicos, ya tiene un modelo matemático coherente con 7 a 11 dimensiones. La existencia de otras dimensiones espaciales parece casi de sentido común.
+Por supuesto, todo ello es perfectamente compatible con la posible existencia de otras dimensiones además de las cuatro conocidas por nosotros (las tres físicas más el tiempo). <a id="a143_177"></a>[LU 130:7.6](/es/The_Urantia_Book/130#p7_6) del documento 129: «_cuanto más se aproxima la conciencia a la noción de las siete dimensiones cósmicas, el concepto del espacio potencial se aproxima más a la ultimicidad, finalmente los mortales sobrevivientes alcanzan la identidad en un universo de siete dimensiones..._» La Teoría de Cuerdas, en fase de formulación por nuestros físicos, ya tiene un modelo matemático coherente con 7 a 11 dimensiones. La existencia de otras dimensiones espaciales parece casi de sentido común.
 
-_El Libro de Urantia_ nos dice que Orvontón tiene un diámetro de 500.000 años luz, con 10 billones de soles y 1 billón de mundos habitados (una media por tanto de un planeta habitado por cada 10 soles) y la Via Láctea, nuestra galaxia, es el centro de Orvontón (casi todo lo que se puede ver con el ojo desnudo). Nuestro número de registro como planeta en Uversa y en el Paraíso es 5.342.482.337.666. Para seguir teniendo una idea de la proporción de las cosas que nos rodean, recordemos que el Documento 32 nos recuerda que nuestro universo local «_es obra de un Hijo Creador (nuestro Miguel de Nebadón o Jesús de Nazaret)...y que consta de 100 constelaciones cada una de ellas con 100 sistemas de mundos habitados. Cada sistema contendrá finalmente unas mil esferas habitadas...en el momento del último registro había en Nebadón 3.840.101 planetas habitados... los 619 mundos habitados estás situados en más de 500 sistemas físicos diferentes, sólo 5 tienen más de 2 mundos habitados, de éstos 5 sólo uno tiene 4 planetas poblados, mientras que 46 tienen 2 mundos habitados..._» [LU 32:2.9](/es/The_Urantia_Book/32#p2_9)
+_El Libro de Urantia_ nos dice que Orvontón tiene un diámetro de 500.000 años luz, con 10 billones de soles y 1 billón de mundos habitados (una media por tanto de un planeta habitado por cada 10 soles) y la Via Láctea, nuestra galaxia, es el centro de Orvontón (casi todo lo que se puede ver con el ojo desnudo). Nuestro número de registro como planeta en Uversa y en el Paraíso es 5.342.482.337.666. Para seguir teniendo una idea de la proporción de las cosas que nos rodean, recordemos que el Documento 32 nos recuerda que nuestro universo local «_es obra de un Hijo Creador (nuestro Miguel de Nebadón o Jesús de Nazaret)...y que consta de 100 constelaciones cada una de ellas con 100 sistemas de mundos habitados. Cada sistema contendrá finalmente unas mil esferas habitadas...en el momento del último registro había en Nebadón 3.840.101 planetas habitados... los 619 mundos habitados estás situados en más de 500 sistemas físicos diferentes, sólo 5 tienen más de 2 mundos habitados, de éstos 5 sólo uno tiene 4 planetas poblados, mientras que 46 tienen 2 mundos habitados..._» <a id="a145_1081"></a>[LU 32:2.9](/es/The_Urantia_Book/32#p2_9)
 
-Para concluir, conviene contrastar dos afirmaciones sobre la enormidad del Cosmos: la afirmación del libro contenida en [LU 15:6.10](/es/The_Urantia_Book/15#p6_10): «_En el universo maestro (la Creación entera, incluido el espacio exterior no habitado y en proceso de creación) hay más estrellas que vasos de agua se podrían sacar de todos los océanos de la Tierra_», y la afirmación del conocido cosmólogo Carl Sagan: «_hay más estrellas en el Universo que granos de arena de todas las playas del mundo_».
+Para concluir, conviene contrastar dos afirmaciones sobre la enormidad del Cosmos: la afirmación del libro contenida en <a id="a147_120"></a>[LU 15:6.10](/es/The_Urantia_Book/15#p6_10): «_En el universo maestro (la Creación entera, incluido el espacio exterior no habitado y en proceso de creación) hay más estrellas que vasos de agua se podrían sacar de todos los océanos de la Tierra_», y la afirmación del conocido cosmólogo Carl Sagan: «_hay más estrellas en el Universo que granos de arena de todas las playas del mundo_».
 
 ## Conclusiones
 
@@ -154,3 +178,27 @@ Francisco Fuentes.
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Demetrio_Gomez/El_Escriba_de_Damasco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El escriba de Damasco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-40-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 40 — Junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gines_Aviles/La_tecnica_de_resolucion_de_problemas_de_Rodan">
+          <span class="pr-2">La técnica de resolución de problemas de Rodán de Alejandría</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

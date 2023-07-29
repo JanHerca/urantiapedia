@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jan Herca, Santiago Rodríguez, Efraín Vivanco, Josep Bosch, Carmelo Martínez, Iván Înigo<br>© 2016 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_43_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 43 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-43-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 43 — Marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia para estos tiempos">
+          <span class="pr-2">Eugenesia para estos tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -32,7 +56,7 @@ http://www.elmundo.es/ciencia/2016/01/20/569fbdae268e3eab3f8b4596.html
 
 Estamos ante una noticia de proporciones increíbles para la comunidad científica, no solo por el hecho del descubrimiento en sí, sino por el tipo de planeta que se ha descubierto, que destroza literalmente todo lo que se conocía acerca de cómo era nuestro sistema solar y cómo se había formado.
 
-Recomiendo encarecidamente leer las secciones [LU 57:5](/es/The_Urantia_Book/57#p5) y [LU 57:6](/es/The_Urantia_Book/57#p6) del libro, porque una de las cosas que llevo oyendo desde hace mucho a detractores del libro es que algunas partes de su material científico son claros errores. El libro dice claramente que el sistema solar tenía originalmente doce planetas, y que incluso robó tres planetas más a otro sistema solar cercano (el auténtico culpable de la formación del nuestro). Durante mucho tiempo esa cifra no encajaba con los ocho / nueve planetas máximo que la ciencia había descubierto.
+Recomiendo encarecidamente leer las secciones <a id="a58_46"></a>[LU 57:5](/es/The_Urantia_Book/57#p5) y <a id="a58_86"></a>[LU 57:6](/es/The_Urantia_Book/57#p6) del libro, porque una de las cosas que llevo oyendo desde hace mucho a detractores del libro es que algunas partes de su material científico son claros errores. El libro dice claramente que el sistema solar tenía originalmente doce planetas, y que incluso robó tres planetas más a otro sistema solar cercano (el auténtico culpable de la formación del nuestro). Durante mucho tiempo esa cifra no encajaba con los ocho / nueve planetas máximo que la ciencia había descubierto.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV43/02.jpg">
@@ -98,7 +122,7 @@ Muchas veces el problema de contraste de la información científica de _El Libr
 
 La definición de planeta que hace la UAI (Unión Astronómica Internacional), no confundir con la AIU (Asociación Internacional Urantia) y las dudas y cambios los podéis ver aquí https://es.wikipedia.org/wiki/Redefinici%C3%B3n_de_planeta_de_2006.
 
-Lo más parecido a una definición de planeta que podemos encontrar en _El Libro de Urantia_ está en [LU 15:6.14](/es/The_Urantia_Book/15#p6_14).
+Lo más parecido a una definición de planeta que podemos encontrar en _El Libro de Urantia_ está en <a id="a124_99"></a>[LU 15:6.14](/es/The_Urantia_Book/15#p6_14).
 
 Si las definiciones no coinciden, la clasificación de esferas puede perfectamente ser diferente sin que por eso las informaciones sean contradictorias.
 
@@ -106,9 +130,9 @@ El sistema solar es como es, y los reveladores lo conocen «de primera mano» o 
 
 Lo que tiene de trascendente este descubrimiento, en mi modesta opinión, es que marca (una vez más) una línea. Los que ven contradicción entre la ciencia y _El Libro de Urantia_ deberían ser más prudentes y aceptar que la ciencia humana es una materia en desarrollo y que, crean o no crean en la veracidad de lo que nos dice el libro, se pueden esperar nuevos descubrimientos que «pongan patas arriba», o al menos desmientan o maticen, algunas verdades aceptadas (incluso como absolutas) en un momento dado.
 
-Tampoco los lectores debemos echar las campanas al vuelo. _El Libro de Urantia_ no es un libro científico, y los que esperen convencerse de su verdad por su información sobre ciencia lo tienen crudo. En este sentido, no está de más releer la [sección 4 del documento 101](/es/The_Urantia_Book/101#p4). Como bien habéis dicho algunos, lo que convence (y transforma) del libro es la experiencia personal, que en esencia es descubrir al Padre en nosotros.
+Tampoco los lectores debemos echar las campanas al vuelo. _El Libro de Urantia_ no es un libro científico, y los que esperen convencerse de su verdad por su información sobre ciencia lo tienen crudo. En este sentido, no está de más releer la <a id="a132_242"></a>[sección 4 del documento 101](/es/The_Urantia_Book/101#p4). Como bien habéis dicho algunos, lo que convence (y transforma) del libro es la experiencia personal, que en esencia es descubrir al Padre en nosotros.
 
-PD. Por cierto, Josep, puedes leer en el párrafo [LU 57:6.5](/es/The_Urantia_Book/57#p6_5) que el cinturón de asteroides fue inicialmente un planeta, el quinto de Monmatia.
+PD. Por cierto, Josep, puedes leer en el párrafo <a id="a134_49"></a>[LU 57:6.5](/es/The_Urantia_Book/57#p6_5) que el cinturón de asteroides fue inicialmente un planeta, el quinto de Monmatia.
 
 ## Jan
 
@@ -137,3 +161,27 @@ He leído las noticias y ¿es un planeta gaseoso? Eso creo que significa que pro
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Num_43_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Núm. 43 — Presentación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-43-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 43 — Marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Carrera_and_Santiago_Flores/Eugenesia para estos tiempos">
+          <span class="pr-2">Eugenesia para estos tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

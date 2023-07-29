@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra<br>© 2007 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Camino del Paraíso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-8-febrero-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 8 — Febrero 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De varios autores
 
@@ -17,7 +38,7 @@ Participantes:
 - Carmelo Martínez
 - Eduardo Altuzarra
 
-**Carmelo:** En el apartado 6 del documento 49 ([LU 49:6.3-15](/es/The_Urantia_Book/49#p6_3)) se clasifica a los mortales en cinco grupos:
+**Carmelo:** En el apartado 6 del documento 49 (<a id="a40_48"></a>[LU 49:6.3-15](/es/The_Urantia_Book/49#p6_3)) se clasifica a los mortales en cinco grupos:
 
 1. Mortales de supervivencia dispensacional o grupal.
 2. Mortales de ascensión individual.
@@ -29,31 +50,31 @@ Del primer tipo (los que tienen guardianes seráficos colectivos) no se especifi
 
 Refiriéndose a los mortales de ascensión individual, los que han alcanzado el tercer círculo cósmico y otros que tienen asignada una pareja de guardianes personales (por ejemplo, los reservistas), se dice:
 
-> «Durante las primeras etapas de un mundo evolutivo, pocos mortales van a juicio al tercer día. Pero con el paso de las edades, se asignan cada vez más guardianes personales del destino a los mortales en avance, y de este modo un número creciente de estas criaturas en evolución se repersonalizan en el primer mundo mansión al tercer día tras la muerte natural. En tales ocasiones, el regreso del Ajustador señala el despertar del alma humana, y esto es la repersonalización de los muertos tan literalmente como cuando se pasa lista en masa al final de una dispensación en los mundos evolutivos.» [LU 49:6.9](/es/The_Urantia_Book/49#p6_9)
+> «Durante las primeras etapas de un mundo evolutivo, pocos mortales van a juicio al tercer día. Pero con el paso de las edades, se asignan cada vez más guardianes personales del destino a los mortales en avance, y de este modo un número creciente de estas criaturas en evolución se repersonalizan en el primer mundo mansión al tercer día tras la muerte natural. En tales ocasiones, el regreso del Ajustador señala el despertar del alma humana, y esto es la repersonalización de los muertos tan literalmente como cuando se pasa lista en masa al final de una dispensación en los mundos evolutivos.» <a id="a52_598"></a>[LU 49:6.9](/es/The_Urantia_Book/49#p6_9)
 
-> «Hay tres grupos de ascendentes individuales: los menos avanzados aterrizan en el mundo mansión inicial o primero. El grupo más avanzado puede empezar la carrera moroncial en alguno de los mundos mansión intermedios de acuerdo con su progresión planetaria previa. Los más avanzados de estos órdenes empiezan realmente su experiencia moroncial en el séptimo mundo mansión» [LU 49:6.10](/es/The_Urantia_Book/49#p6_10)
+> «Hay tres grupos de ascendentes individuales: los menos avanzados aterrizan en el mundo mansión inicial o primero. El grupo más avanzado puede empezar la carrera moroncial en alguno de los mundos mansión intermedios de acuerdo con su progresión planetaria previa. Los más avanzados de estos órdenes empiezan realmente su experiencia moroncial en el séptimo mundo mansión» <a id="a54_374"></a>[LU 49:6.10](/es/The_Urantia_Book/49#p6_10)
 
 Los del cuarto tipo, los define como:
 
-> «... los seres humanos progresivos de los mundos evolutivos intermedios. Como regla general no son inmunes a la muerte natural, pero están exentos de pasar por los siete mundos mansión» [LU 49:6.15](/es/The_Urantia_Book/49#p6_15)
+> «... los seres humanos progresivos de los mundos evolutivos intermedios. Como regla general no son inmunes a la muerte natural, pero están exentos de pasar por los siete mundos mansión» <a id="a58_188"></a>[LU 49:6.15](/es/The_Urantia_Book/49#p6_15)
 
 Y sigue:
 
-> «El grupo menos perfeccionado se vuelve a despertar en la sede central de su sistema local, saltándose únicamente los mundos mansión. El grupo intermedio va a los mundos de capacitación de la constelación; se salta todo el régimen moroncial del sistema local. Avanzando aún más en las edades planetarias de lucha espiritual, muchos supervivientes se despiertan en la sede central de la constelación donde comienzan la ascensión al Paraíso.» [LU 49:6.16](/es/The_Urantia_Book/49#p6_16)
+> «El grupo menos perfeccionado se vuelve a despertar en la sede central de su sistema local, saltándose únicamente los mundos mansión. El grupo intermedio va a los mundos de capacitación de la constelación; se salta todo el régimen moroncial del sistema local. Avanzando aún más en las edades planetarias de lucha espiritual, muchos supervivientes se despiertan en la sede central de la constelación donde comienzan la ascensión al Paraíso.» <a id="a62_443"></a>[LU 49:6.16](/es/The_Urantia_Book/49#p6_16)
 
 Los del quinto tipo se definen como:
 
-> «... Estos mortales pertenecen al tipo Ajustador-fusionado de vida evolutiva, pero son muy frecuentemente representantes de las fases finales del desarrollo humano en un mundo en evolución. Estos seres glorificados están exentos de pasar por las puertas de la muerte; se someten al asimiento del Hijo; son trasladados de entre los vivos y aparecen inmediatamente en la presencia del Hijo Soberano en la sede central del universo local.» [LU 49:6.18](/es/The_Urantia_Book/49#p6_18)
+> «... Estos mortales pertenecen al tipo Ajustador-fusionado de vida evolutiva, pero son muy frecuentemente representantes de las fases finales del desarrollo humano en un mundo en evolución. Estos seres glorificados están exentos de pasar por las puertas de la muerte; se someten al asimiento del Hijo; son trasladados de entre los vivos y aparecen inmediatamente en la presencia del Hijo Soberano en la sede central del universo local.» <a id="a66_439"></a>[LU 49:6.18](/es/The_Urantia_Book/49#p6_18)
 
 Y sigue:
 
-> «Son los mortales que se fusionan con sus Ajustadores durante la vida mortal, y estas personalidades Ajustadorfusionadas atraviesan el espacio libremente antes de ser vestidas con las formas moronciales. Estas almas fusionadas van por tránsito directo del Ajustador a las salas de resurrección de las esferas moronciales superiores, donde reciben su investidura moroncial inicial exactamente igual que hacen los demás mortales que llegan de los mundos evolutivos.» [LU 49:6.19](/es/The_Urantia_Book/49#p6_19)
+> «Son los mortales que se fusionan con sus Ajustadores durante la vida mortal, y estas personalidades Ajustadorfusionadas atraviesan el espacio libremente antes de ser vestidas con las formas moronciales. Estas almas fusionadas van por tránsito directo del Ajustador a las salas de resurrección de las esferas moronciales superiores, donde reciben su investidura moroncial inicial exactamente igual que hacen los demás mortales que llegan de los mundos evolutivos.» <a id="a70_467"></a>[LU 49:6.19](/es/The_Urantia_Book/49#p6_19)
 
-Está claro que estos mortales de los «órdenes modificados» no pasan por los mundos mansión aunque «...antes de que cualquiera de estos grupos pueda avanzar, deben regresar como profesores a los mundos que omitieron, obteniendo como instructores en esos reinos muchas experiencias que se saltaron como estudiantes...» ([LU 49:6.17](/es/The_Urantia_Book/49#p6_17)).
+Está claro que estos mortales de los «órdenes modificados» no pasan por los mundos mansión aunque «...antes de que cualquiera de estos grupos pueda avanzar, deben regresar como profesores a los mundos que omitieron, obteniendo como instructores en esos reinos muchas experiencias que se saltaron como estudiantes...» (<a id="a72_318"></a>[LU 49:6.17](/es/The_Urantia_Book/49#p6_17)).
 
 La duda está en los de ascensión individual porque en el documento 47 apartado 3 se dice:
 
-> «Si no tenéis que deteneros en el mundo mansión número uno, al final de los diez días entraréis en el sueño del traslado y os dirigiréis al mundo número dos, y cada diez días de aquí en adelante, avanzaréis de esta manera hasta que lleguéis al mundo que tenéis asignado.» [LU 47:3.10](/es/The_Urantia_Book/47#p3_10)
+> «Si no tenéis que deteneros en el mundo mansión número uno, al final de los diez días entraréis en el sueño del traslado y os dirigiréis al mundo número dos, y cada diez días de aquí en adelante, avanzaréis de esta manera hasta que lleguéis al mundo que tenéis asignado.» <a id="a76_274"></a>[LU 47:3.10](/es/The_Urantia_Book/47#p3_10)
 
 Se refiere como sabéis a los diez días de «relajo» que se tienen nada más despertar. Y un poco antes se dice: 533:5 «En el mundo mansión número uno ( o en otro en caso de condición avanzada) reanudaréis vuestra capacitación intelectual y desarrollo espiritual en el nivel exacto en que fueron interrumpidos por la muerte...»
 
@@ -63,7 +84,7 @@ Este dilema de pasar por todos los mundos o ir directamente al de destino me sur
 
 Surgió también en ese encuentro una duda sobre el aprendizaje del idioma del universo local. Recordad que:
 
-> «Tras haber dominado el idioma del universo local antes de dejar el cuarto mundo mansión, dedicáis ahora más tiempo al perfeccionamiento de la lengua de Uversa, con el fin de poder tener un gran dominio de ambos idiomas antes de llegar a Jerusem con la condición de residente. Todos los mortales ascendentes son bilingües desde la sede central del sistema hasta Havona. Y entonces sólo es necesario ampliar el vocabulario del superuniverso, y se necesita aún una ampliación adicional para residir en el Paraíso.» [LU 47:7.2](/es/The_Urantia_Book/47#p7_2)
+> «Tras haber dominado el idioma del universo local antes de dejar el cuarto mundo mansión, dedicáis ahora más tiempo al perfeccionamiento de la lengua de Uversa, con el fin de poder tener un gran dominio de ambos idiomas antes de llegar a Jerusem con la condición de residente. Todos los mortales ascendentes son bilingües desde la sede central del sistema hasta Havona. Y entonces sólo es necesario ampliar el vocabulario del superuniverso, y se necesita aún una ampliación adicional para residir en el Paraíso.» <a id="a86_515"></a>[LU 47:7.2](/es/The_Urantia_Book/47#p7_2)
 
 ¿Qué pasa con los que empiezan su carrera en el quinto, sexto o séptimo mundo mansión? Y los que empiezan incluso después de la sede central del sistema, ¿cómo aprenden el idioma del superuniverso? 
 
@@ -89,7 +110,7 @@ En su día escribí un articulo que ha quedado colgado en nuestra página web qu
 
 Y terminamos copiando una parte de primer párrafo del Dto. 55 con el fin de darnos ánimos.
 
-> «Las limitaciones del entorno, **ni siquiera en un mundo aislado**, tampoco pueden frustrar los logros personales del mortal individual; Jesús de Nazaret, **como hombre** entre los hombres, alcanzó personalmente el estado de luz y de vida en Urantia hace más de mil novecientos años» [LU 55:11.7](/es/The_Urantia_Book/55#p11_7)
+> «Las limitaciones del entorno, **ni siquiera en un mundo aislado**, tampoco pueden frustrar los logros personales del mortal individual; Jesús de Nazaret, **como hombre** entre los hombres, alcanzó personalmente el estado de luz y de vida en Urantia hace más de mil novecientos años» <a id="a112_286"></a>[LU 55:11.7](/es/The_Urantia_Book/55#p11_7)
 
 **Carmelo:** No es que me interese especialmente cuándo o cómo se estudian los idiomas del universo. Lo que me interesa en entender cómo son las cosas, aunque estén lejos de nosotros en el tiempo. Quería, y quiero, saber qué son y cuándo aparecen los ascendentes de los órdenes modificados de ascensión, y lo de los idiomas me parecía, y me parece, una pista a seguir.
 
@@ -116,3 +137,24 @@ Preguntas, ¿¿no se merecen nada?... (¿?)... ¡Claro que sí! Cada cual recibi
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Camino del Paraíso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-8-febrero-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 8 — Febrero 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
