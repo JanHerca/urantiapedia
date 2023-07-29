@@ -32,6 +32,7 @@ Kami meminta Anda meninjau ketentuan [Kebijakan Privasi](/id/help/privacy_policy
 ## 3. Konten yang Kami Host
 
 Anda mungkin menemukan beberapa materi yang tidak pantas atau salah: Karena kami menyediakan beragam konten spiritual dan religius yang diproduksi atau dikumpulkan oleh pembaca _Urantia Book_, Anda mungkin menemukan materi yang menurut Anda menyinggung, salah, menyesatkan, salah label, atau tidak menyenangkan. Karena itu kami meminta Anda menggunakan akal sehat dan penilaian yang tepat saat menggunakan layanan kami.
+
 Konten kami hanya untuk tujuan pencerahan spiritual: Kami sama sekali tidak menyimpan informasi yang berkaitan dengan topik profesional, termasuk masalah medis, hukum, atau keuangan. Tidak ada konten yang boleh dianggap sebagai saran profesional.
 
 ## 4. Menahan diri dari Aktivitas Tertentu

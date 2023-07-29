@@ -32,6 +32,7 @@ Wir bitten Sie, die Bedingungen unserer [Datenschutzrichtlinie](/de/help/privacy
 ## 3. Inhalte, die wir hosten 
 
 Möglicherweise finden Sie einige Inhalte anstößig oder fehlerhaft: Da wir ein breites Spektrum an spirituellen und religiösen Inhalten anbieten, die von Lesern des „Urantia-Buches“ erstellt oder gesammelt werden, können Sie auf Material stoßen, das Sie als anstößig, fehlerhaft, irreführend, falsch beschriftet oder auf andere Weise anstößig empfinden. Wir bitten Sie daher, bei der Nutzung unserer Dienste Ihren gesunden Menschenverstand und Ihr Urteilsvermögen zu walten.
+
 Unsere Inhalte dienen ausschließlich spirituellen Aufklärungszwecken: Wir hosten keinerlei Informationen, die sich auf berufliche Themen beziehen, einschließlich medizinischer, rechtlicher oder finanzieller Themen. Kein Inhalt sollte als professioneller Rat verstanden werden.
 
 ## 4. Unterlassung bestimmter Aktivitäten
@@ -85,7 +86,7 @@ Wenn Sie als Mitwirkender akzeptiert werden, werden Sie von einem Administrator 
 
 ## 6. Name und Logo
 
-Obwohl Sie bei der Wiederverwendung der Inhalte auf Urantiapedia über beträchtliche Freiheiten verfügen, ist es wichtig, dass wir unsere Namen und unser Logo schützen, damit wir unsere Benutzer vor betrügerischen Nachahmern schützen können. Aus diesem Grund bitten wir Sie, unseren Namen („Urantiapedia“) und unser Logo („U“- und „p“-Buchstaben in [Homepage](/en/home)) zu respektieren. Jede Nutzung unseres Namens und Logos muss im Einklang mit diesen Nutzungsbedingungen erfolgen.
+Obwohl Sie bei der Wiederverwendung der Inhalte auf Urantiapedia über beträchtliche Freiheiten verfügen, ist es wichtig, dass wir unsere Namen und unser Logo schützen, damit wir unsere Benutzer vor betrügerischen Nachahmern schützen können. Aus diesem Grund bitten wir Sie, unseren Namen („Urantiapedia“) und unser Logo („U“- und „p“-Buchstaben in [Homepage](/de/home)) zu respektieren. Jede Nutzung unseres Namens und Logos muss im Einklang mit diesen Nutzungsbedingungen erfolgen.
 
 ## 7. Lizenzierung von Inhalten
 

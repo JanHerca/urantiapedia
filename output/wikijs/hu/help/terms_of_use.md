@@ -11,13 +11,13 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 ## Áttekintés
 
-Ezek a felhasználási feltételek az Urantiapedia közszolgáltatásainkról, az Önhöz mint felhasználóhoz fűződő kapcsolatunkról, valamint a mindkettőnket irányadó jogokról és kötelezettségekről szólnak. Szeretnénk, ha tudná, hogy spirituális és vallási tartalommal szolgálunk, és mindezt az _Urantia könyv_ olvasói, hozzád hasonlóan hozzájárulnak és teszik lehetővé. Általában nem adunk hozzá, nem figyelünk és nem törölünk tartalmat (a jelen Felhasználási feltételekhez hasonló irányelvek kivételével). Ez azt jelenti, hogy a szerkesztői irányítás Ön és az _Urantia Book_ többi olvasója kezében van, akik létrehozzák és kezelik a tartalmat. Ezt a tartalmat csak mi tároljuk.
+Ezek a Felhasználási Feltételek az Urantiapedia közszolgáltatásainkról, az Önhöz mint felhasználóhoz fűződő kapcsolatunkról, valamint a mindkettőnket irányadó jogokról és kötelezettségekről szólnak. Szeretnénk, ha tudná, hogy spirituális és vallási tartalommal szolgálunk, és mindezt az _Urantia könyv_ olvasói, hozzád hasonlóan hozzájárulnak és teszik lehetővé. Általában nem adunk hozzá, nem figyelünk és nem törölünk tartalmat (a jelen Felhasználási feltételekhez hasonló irányelvek kivételével). Ez azt jelenti, hogy a szerkesztői irányítás Ön és az _Urantia Book_ többi olvasója kezében van, akik létrehozzák és kezelik a tartalmat. Ezt a tartalmat csak mi tároljuk.
 
-A közösség – az _Urantia Könyv_ olvasóinak csoportja, akik folyamatosan építik ezt a honlapot – a legfőbb eszköz a küldetés céljainak eléréséhez. A közösség hozzájárul és segíti az Urantiapedia irányítását. A közösség vállalja a tartalomra vonatkozó irányelvek létrehozásának és betartatásának kritikus funkcióját.
+A közösség – az _Urantia Könyv_ olvasóinak csoportja, akik folyamatosan építik ezt a weboldalt – a legfőbb eszköz a küldetés céljainak eléréséhez. A közösség hozzájárul és segíti az Urantiapedia irányítását. A közösség vállalja a tartalomra vonatkozó irányelvek létrehozásának és betartatásának kritikus funkcióját.
 
 Szívesen csatlakozhat közreműködőként, szerkesztőként vagy szerzőként, de követnie kell az Urantiapédiát szabályozó irányelveket. Az Urantiapedia közreműködőkből, szerkesztőkből vagy szerzőkből álló csapattal rendelkezik, akik együtt dolgoznak a tartalom létrehozásán és kezelésén. Szívesen csatlakozhatsz a csapathoz, és dolgozhatsz vele a projekt fejlesztésén. Mivel elkötelezettek vagyunk a tartalom nyilvános hozzáférhetővé tétele mellett, általában megköveteljük, hogy az Ön által hozzáadott összes tartalom ingyenes licenc alatt vagy nyilvánosan elérhető legyen.
 
-Kérjük, vegye figyelembe, hogy Ön jogilag felelős minden hozzájárulásáért, szerkesztéséért és az Urantiapedia-tartalom újrafelhasználásáért Spanyolország törvényei és más vonatkozó törvények értelmében (amelyek magukban foglalhatják az Ön lakóhelyének, illetve a tartalom megtekintésének vagy szerkesztésének helye szerinti törvényeket). Ez azt jelenti, hogy fontos, hogy körültekintően járjon el a tartalom közzétételekor. Ennek a felelősségnek a fényében van néhány szabályunk arra vonatkozóan, hogy mit nem tehet közzé, amelyek többsége vagy saját, vagy más, hozzá hasonló _Urantia könyv_ olvasói védelmét szolgálja. Kérjük, ne feledje, hogy az általunk tárolt tartalom kizárólag spirituális megvilágosodási célokat szolgál, ezért ez az oldal nem tartalmaz olyan orvosi, jogi vagy pénzügyi információkat, amelyekhez engedéllyel rendelkező vagy képzett szakember segítségére lenne szükség. Egyéb fontos megjegyzéseket és felelősségkizárásokat is tartalmazunk, ezért kérjük, olvassa el a jelen Felhasználási feltételeket teljes egészében.
+Kérjük, vegye figyelembe, hogy a spanyol törvények és más vonatkozó törvények értelmében jogilag Ön felelős minden hozzájárulásáért, szerkesztéséért és az Urantiapedia-tartalom újrafelhasználásáért (amelyek magukban foglalhatják az Ön lakóhelyének vagy a tartalom megtekintésének vagy szerkesztésének helye szerinti törvényeket). Ez azt jelenti, hogy fontos, hogy körültekintően járjon el a tartalom közzétételekor. Ennek a felelősségnek a fényében van néhány szabályunk arra vonatkozóan, hogy mit nem tehet közzé, amelyek többsége vagy saját, vagy más, hozzá hasonló _Urantia könyv_ olvasók védelmét szolgálja. Kérjük, ne feledje, hogy az általunk tárolt tartalom kizárólag spirituális megvilágosodási célokat szolgál, ezért ez az oldal nem tartalmaz olyan orvosi, jogi vagy pénzügyi információkat, amelyekhez engedéllyel rendelkező vagy képzett szakember segítségére lenne szükség. Egyéb fontos megjegyzéseket és felelősségkizárásokat is tartalmazunk, ezért kérjük, olvassa el a jelen Felhasználási feltételeket teljes egészében.
 
 ## 1. Szolgáltatásaink
 
@@ -27,11 +27,12 @@ Az Urantiapedia az _Urantia könyv_ kinyilatkoztatásainak terjesztésének szen
 
 ## 2. Adatvédelmi szabályzat
 
-Kérjük, tekintse át [Adatvédelmi irányelveink] (/en/help/privacy_policy) feltételeit, hogy tisztában legyen azzal, hogyan gyűjtjük és használjuk fel adatait. Mivel szolgáltatásainkat emberek használják szerte a világon, az általunk gyűjtött személyes adatokat létesítményeinkben tárolhatjuk és feldolgozhatjuk. Szolgáltatásaink használatával Ön hozzájárul az ilyen jellegű információk országán kívülre történő továbbításához.
+Kérjük, tekintse át [Adatvédelmi irányelveink](/hu/help/privacy_policy) feltételeit, hogy tisztában legyen azzal, hogyan gyűjtjük és használjuk fel adatait. Mivel szolgáltatásainkat emberek használják szerte a világon, az általunk gyűjtött személyes adatokat létesítményeinkben tárolhatjuk és feldolgozhatjuk. Szolgáltatásaink használatával Ön hozzájárul az ilyen jellegű információk országán kívülre történő továbbításához.
 
 ## 3. Tartalom, amit mi tárolunk
 
-Előfordulhat, hogy bizonyos anyagokat kifogásolhatónak vagy hibásnak találhat: Mivel az _Urantia Könyv_ olvasói által készített vagy összegyűjtött spirituális és vallási tartalmak széles skáláját kínáljuk, találkozhat olyan anyagokkal, amelyeket sértőnek, hibásnak, félrevezetőnek, rosszul felcímkézettnek vagy egyéb módon kifogásolhatónak talál. Ezért kérjük, hogy használja a józan észt és a megfelelő ítélőképességet szolgáltatásaink használata során.
+Előfordulhat, hogy bizonyos anyagokat kifogásolhatónak vagy hibásnak találhat: Mivel az _Urantia könyv_ olvasói által készített vagy összegyűjtött spirituális és vallási tartalmak széles skáláját kínáljuk, találkozhat olyan anyagokkal, amelyeket sértőnek, hibásnak, félrevezetőnek, rosszul felcímkézettnek vagy egyéb módon kifogásolhatónak talál. Ezért kérjük, hogy használja a józan észt és a megfelelő ítélőképességet szolgáltatásaink használata során.
+
 Tartalmunk kizárólag spirituális megvilágosodási célokat szolgál: Egyáltalán nem tárolunk olyan információkat, amelyek szakmai témákkal kapcsolatosak, beleértve az orvosi, jogi vagy pénzügyi kérdéseket. Egyetlen tartalom sem tekinthető szakmai tanácsnak.
 
 ## 4. Bizonyos tevékenységektől való tartózkodás
@@ -77,15 +78,15 @@ Fenntartjuk magunknak a jogot, hogy a fenti feltételek tekintetében gyakorolju
 
 ## 5. Regisztráció és jelszavas biztonság
 
-Az _Urantia könyv_ olvasóit, akik az Urantiapedia közreműködői szeretnének lenni, a rendszergazdáknak bizonyos kommunikációs eszközökön, például e-mailen vagy chaten keresztül hitelesnek kell lenniük. Az Urantiapedia adminisztrátoraival való kapcsolatfelvételhez az alábbi eljárások bármelyikét használhatja:
+Azok az _Urantia könyv_ olvasói, akik az Urantiapedia közreműködői szeretnének lenni, a rendszeradminisztrátoroknak bizonyos kommunikációs eszközökön, például e-mailen vagy chaten keresztül hitelesnek kell lenniük. Az Urantiapedia adminisztrátoraival való kapcsolatfelvételhez az alábbi eljárások bármelyikét használhatja:
 - E-mail küldése az urantiapedia@gmail.com címre
-- Regisztráljon a [Blue Fields](https://blue-fields.netlify.app/) weboldalon, amely egy olyan webhely, amely az *Urantia Book* olvasóinak csatlakozására és szervezésére jött létre világszerte, akik intelligens projektekben szeretnének részt venni, jó előfizetéssel cél és altruizmus. A regisztrációt követően a projekt adminisztrációja felveszi Önnel a kapcsolatot.
+- Regisztráljon a [Blue Fields](https://blue-fields.netlify.app/) weboldalon, amely egy olyan webhely, amely az *Urantia Book* olvasóinak csatlakozására és szervezésére szolgál világszerte, akik intelligens projektekben szeretnének részt venni, jó előfizetéssel cél és altruizmus. A regisztrációt követően a projekt adminisztrációja felveszi Önnel a kapcsolatot.
 
 Ha Önt elfogadják közreműködőnek, a rendszergazda regisztrálja a rendszerbe, aki ideiglenes jelszót ad a felhasználónévhez vagy az álnevéhez. Javasoljuk, hogy ezt az ideiglenes jelszót a lehető leghamarabb állandóra cserélje. Ön felelős saját jelszavának megőrzéséért, és soha nem fedheti fel harmadik félnek.
 
 ## 6. Név és logó
 
-Noha jelentős szabadságjogai vannak az Urantiapedia tartalmainak újrafelhasználására, fontos, hogy védjük nevünket és logónkat, hogy megvédhessük felhasználóinkat a csaló megszemélyesítőktől. Emiatt kérjük, tartsa tiszteletben nevünket („Urantiapedia”) és logónkat („U” és „p” betűk a [főoldalon](/hu/home)). Nevünk és logónk minden használatának meg kell felelnie a jelen Felhasználási feltételeknek.
+Noha jelentős szabadságot élvezhet az Urantiapedia tartalmainak újrafelhasználására vonatkozóan, fontos, hogy megvédjük nevünket és logónkat, hogy megvédhessük felhasználóinkat a csaló megszemélyesítőktől. Emiatt arra kérjük, hogy tartsa tiszteletben nevünket („Urantiapedia”) és logónkat („U” és „p” betűk a [főoldalon](/hu/home)). Nevünk és logónk használatának meg kell felelnie a jelen Felhasználási feltételeknek.
 
 ## 7. Tartalom engedélyezése
 

@@ -29,10 +29,11 @@ Urantiapedia se věnuje šíření odhalení _The Urantia Book_, největšího a
 
 Žádáme vás, abyste si přečetli podmínky našich [zásad ochrany soukromí](/cs/help/privacy_policy), abyste věděli, jak shromažďujeme a používáme vaše údaje. Protože naše služby využívají lidé po celém světě, osobní údaje, které shromažďujeme, mohou být uchovávány a zpracovávány v našich zařízeních. Používáním našich služeb souhlasíte s jakýmkoli takovým přenosem informací mimo vaši zemi. 
 
-## 3. Obsah 
- 
-, který hostujeme Některé materiály můžete považovat za závadné nebo chybné: Protože poskytujeme širokou škálu duchovního a náboženského obsahu, který vytvářejí nebo shromažďují čtenáři _Urantia Book_, můžete se setkat s materiálem, který považujete za urážlivý, chybný, zavádějící, špatně označené nebo jinak závadné. Žádáme vás proto, abyste při používání našich služeb používali zdravý rozum a správný úsudek.
-, který hostujeme Náš obsah slouží pouze pro účely duchovního osvícení: Nehostujeme žádné informace, které se týkají odborných témat, včetně lékařských, právních nebo finančních záležitostí. Žádný obsah by neměl být považován za odbornou radu. 
+## 3. Obsah, který hostujeme
+
+Některé materiály můžete považovat za závadné nebo chybné: Protože poskytujeme širokou škálu duchovního a náboženského obsahu, který je vytvářen nebo shromažďován čtenáři _Urantia Book_, můžete se setkat s materiálem, který považujete za urážlivý, chybný, zavádějící, nesprávně označený nebo jinak nevhodný. Žádáme vás proto, abyste při používání našich služeb používali zdravý rozum a správný úsudek.
+
+Náš obsah slouží pouze pro účely duchovního osvícení: Nehostujeme žádné informace, které se týkají odborných témat, včetně lékařských, právních nebo finančních záležitostí. Žádný obsah by neměl být považován za odbornou radu.
 
 ## 4. Zdržení se určitých činností
  
@@ -121,10 +122,10 @@ Uvědomujeme si však také, že ne každé oznámení o zastavení šíření j
 Pokud jste vlastníkem obsahu, který je na Urantiapedii neoprávněně používán bez vašeho svolení, můžete požádat o odstranění obsahu podle zákonů o autorských právech. Chcete-li takovou žádost podat, zašlete nám e-mail na adresu urantiapedia@gmail.com. 
 
 ## 9. Webové stránky a zdroje třetích stran Za
+
+Jste výhradně odpovědní za své používání jakýchkoli webových stránek nebo zdrojů třetích stran. Přestože Urantiapedia obsahuje odkazy na webové stránky a zdroje třetích stran, nepodporujeme a neneseme odpovědnost ani neručíme za jejich dostupnost, přesnost nebo související obsah, produkty nebo služby (včetně, bez omezení, jakýchkoli virů nebo jiných deaktivačních funkcí) ani nemáme žádnou povinnost takový obsah třetích stran monitorovat.
+
 ## 10. Správa webových stránek
-
-Jste výhradně odpovědní za své používání jakýchkoli webových stránek nebo zdrojů třetích stran. Přestože Urantiapedia obsahuje odkazy na webové stránky a zdroje třetích stran, nepodporujeme a neneseme odpovědnost za jejich dostupnost, přesnost nebo související obsah, produkty nebo služby (včetně, bez omezení, jakýchkoli virů nebo jiných deaktivačních funkcí) ani nemáme žádnou povinnost takový obsah třetích stran monitorovat. 
-
 
 Komunita přispěvatelů Urantiapedia má primární roli při vytváření a prosazování politik, které se na ni vztahují. V neobvyklém případě můžeme oslovit zvláště problematického uživatele přispěvatele z důvodu výrazného rušení nebo nebezpečného chování. V takových případech si vyhrazujeme právo, ale nejsme povinni:
 - Prošetřovat přispěvatele, jak službu používají (a) za účelem zjištění, zda došlo k porušení těchto Podmínek použití nebo jiného platného zákona či zásad, nebo (b) za účelem dodržení jakéhokoli platného zákona, právního procesu nebo příslušného vládního požadavku; 
@@ -168,9 +169,9 @@ Urantiapedia nenese odpovědnost vůči vám ani žádné jiné straně za žád
 
 ## 16. Úpravy těchto Podmínek použití
 
-Stejně jako je příspěvek komunity Urantiapedia nezbytný pro růst a údržbu projektu, věříme, že příspěvek komunity je nezbytný pro to, aby tyto Podmínky použití řádně sloužily našim uživatelům. To je také nezbytné pro férovou smlouvu. Proto poskytneme tyto Podmínky použití, stejně jako jakékoli podstatné budoucí revize těchto podmínek použití, komunitě k vyjádření nejméně třicet (30) dní před koncem období pro komentáře. Pokud je budoucí navrhovaná revize podstatná, poskytneme dalších 30 dní na připomínky po zveřejnění překladu navrhované revize alespoň ve třech jazycích (vybrané podle našeho uvážení). Komunita bude vyzvána, aby přeložila navrhovanou revizi podle potřeby do jiných jazyků. Pro změny z právních nebo administrativních důvodů, pro opravu nepřesného prohlášení,
+Stejně jako je příspěvek komunity Urantiapedia nezbytný pro růst a údržbu projektu, věříme, že příspěvek komunity je nezbytný pro to, aby tyto Podmínky použití řádně sloužily našim uživatelům. To je také nezbytné pro férovou smlouvu. Proto poskytneme tyto Podmínky použití, stejně jako jakékoli podstatné budoucí revize těchto podmínek použití, komunitě k vyjádření nejméně třicet (30) dní před koncem období pro komentáře. Pokud je budoucí navrhovaná revize podstatná, poskytneme dalších 30 dní na připomínky po zveřejnění překladu navrhované revize alespoň ve třech jazycích (vybrané podle našeho uvážení). Komunita bude vyzvána, aby přeložila navrhovanou revizi podle potřeby do jiných jazyků. V případě změn z právních nebo administrativních důvodů, za účelem opravy nepřesného prohlášení nebo změn v reakci na komentáře komunity vás budeme informovat alespoň tři (3) dny předem.
 
-Vzhledem k tomu, že může být nutné čas od času upravit tyto Podmínky použití, poskytneme upozornění na takové úpravy a možnost vyjádřit se k nim prostřednictvím webové stránky projektu. Žádáme vás však, abyste si pravidelně prohlíželi nejaktuálnější verzi těchto Podmínek použití. Vaše další používání našich služeb poté, co se nové Podmínky použití stanou oficiálními po období upozornění a kontroly, představuje z vaší strany přijetí těchto Podmínek použití. Pro ochranu Urantiapedie a dalších uživatelů, jako jste vy, pokud nesouhlasíte s našimi Podmínkami použití, nemůžete naše služby používat. 
+Vzhledem k tomu, že může být nutné čas od času upravit tyto Podmínky použití, poskytneme upozornění na takové úpravy a možnost vyjádřit se k nim prostřednictvím webové stránky projektu. Žádáme vás však, abyste si pravidelně prohlíželi nejaktuálnější verzi těchto Podmínek použití. Vaše další používání našich služeb poté, co se nové Podmínky použití stanou oficiálními po období upozornění a kontroly, představuje z vaší strany přijetí těchto Podmínek použití. Pro ochranu Urantiapedie a dalších uživatelů, jako jste vy, pokud nesouhlasíte s našimi Podmínkami použití, nemůžete naše služby používat.
 
 ## 17. Další podmínky
 
