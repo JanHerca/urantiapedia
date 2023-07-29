@@ -38,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Introducción de Antonio Moya
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV1/004.jpg">
+<img src="/image/article/Luz_y_Vida/LyV1/04.jpg">
 <figcaption><em>El diagrama dice: Arriba, Dios Absoluto INFINIDAD; izquierda, Trascendental ABSONITO; debajo: Ser Supremo FINITO; derecha: Dios Último. La flecha de la derecha es «Nuestra dirección» y la de la izquierda la dirección de YO SOY.</em></figcaption>
 </figure>
 

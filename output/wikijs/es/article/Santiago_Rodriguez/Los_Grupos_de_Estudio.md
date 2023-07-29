@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Núm. 5 — Presentación"
+title: "Los Grupos de Estudio"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

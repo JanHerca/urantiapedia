@@ -48,7 +48,7 @@ El periodo de inscripción finalizará el **15 de diciembre** de este año, así
 
 También queremos informar que tenemos ya una lista de personas procedentes de todo el mundo (principalmente de Latinoamérica y África) que han solicitado ayuda económica para asistir a la conferencia. Puesto que su asistencia depende de las donaciones de lectores desinteresados, apelo a su generosidad para poder ayudar a estas personas a que asistan a la conferencia internacional. Estamos seguros de que muchos de ellos impulsarán el movimiento Urantia cuando regresen a sus países, así que esta es una manera de ayudar a la diseminación de las enseñanzas del LU. Las donaciones en concepto de patrocinio deben hacerse a la cuenta indicada más arriba (esto es, donde se ingresa el importe de la inscripción)
 
-Más información en: http://www:urantia.es/uai2009
+Más información en: http://www.urantia.es/uai2009
 
 ## Referencias
 

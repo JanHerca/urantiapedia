@@ -144,8 +144,8 @@ No olvidemos que «**HAY QUE CONOCER LAS COSAS HUMANAS PARA PODERLAS AMAR, PERO 
 
 ## Referencias
 
-- [Un panorama personal, Primera parte](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
-- [Un panorama personal, Tercera parte](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
+- [Un panorama personal, Primera parte](/es/article/Santiago_Rodriguez/Un_Panorama_Personal_1a_Parte)
+- [Un panorama personal, Tercera parte](/es/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
 <figure class="table chapter-navigator">

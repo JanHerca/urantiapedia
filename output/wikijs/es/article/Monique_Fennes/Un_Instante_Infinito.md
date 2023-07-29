@@ -61,6 +61,8 @@ Pero hoy, he sentido durante un momento.<br>
 Todo el esplendor y luz del firmamento.<br>
 </p>
 
+<br style="clear:both;"/>
+
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/

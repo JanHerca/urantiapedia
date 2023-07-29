@@ -199,3 +199,5 @@ dateCreated: 2023-02-19T14:02:03.086Z
 image-style-align-right
 
 How to preview images in a Markdown: replace `src="/image` with `src="../../../output/wikijs/image` using as many `../` as needed. Do not forget to remove later.
+
+<br style="clear:both;"/>
