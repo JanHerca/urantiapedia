@@ -61,14 +61,14 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 - کتاب اورنشیا (همه ترجمه‌ها از انگلیسی)، حق نشر [بنیاد اورانتیا](https://www.urantia.org/) است.
 - _Paramony_، فهرست مرجع متقابل بین کتاب مقدس و _کتاب یورنشیا_ که به عنوان پاورقی در _کتاب یورنشیا_ و صفحات کتاب مقدس (در همه زبان‌ها) ظاهر می‌شود، حق نشر [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/) است .
-- مقالات از [Innerface International](/fa/index/articles_innerface) (به همه زبان‌ها) حق نشر هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
-- حق چاپ مقالات [Urantian Journal](/fa/index/articles_the_urantian) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
-- حق چاپ مقالات [Followship Journal](/fa/index/articles_spirtual_fellowship_journal) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
-- مقالات از [Fellowship Herald](/fa/index/articles_herald) (به همه زبان‌ها) حق چاپ متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
-- حق نشر مقالات [UB Annotated & UBTheNews](/fa/index/articles#ub-annotaded-ubthenews) (به همه زبان‌ها) متعلق به [Halbert Katzen](https://ubannotated.com/) است .
-- مقالات از [Jan Herca](/fa/index/articles#articles-from-jan-herca) (در همه زبان‌ها) متعلق به [Jan Herca](https://buscandoajesus.wordpress.com) هستند و در زیر موجود هستند [مجوز Creative Commons Attribution-ShareAlike] (https://creativecommons.org/licenses/by-sa/4.0/).
+- مقالات از [Innerface International](/en/index/articles_innerface) (به همه زبان‌ها) حق نشر هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
+- حق چاپ مقالات [Urantian Journal](/en/index/articles_the_urantian) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
+- حق چاپ مقالات [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
+- مقالات از [Fellowship Herald](/en/index/articles_herald) (به همه زبان‌ها) حق چاپ متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
+- حق نشر مقالات [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (به همه زبان‌ها) متعلق به [Halbert Katzen](https://ubannotated.com/) است .
+- مقالات از [Jan Herca](/en/index/articles#articles-from-jan-herca) (در همه زبان‌ها) متعلق به [Jan Herca](https://buscandoajesus.wordpress.com) هستند و در زیر موجود هستند [مجوز Creative Commons Attribution-ShareAlike] (https://creativecommons.org/licenses/by-sa/4.0/).
 - سایر مقالات غیر متعلق به گروه های قبلی (در همه زبان ها) متعلق به نویسندگان ذکر شده است.
-- کمک های تحصیلی از [William S. Sadler](/fa/article/William_S_Sadler) و [William S. Sadler Jr.](/fa/article/William_S_Sadler_Jr) (به همه زبان ها) حق نسخه برداری [بنیاد اورانتیا] است (https: //www.urantia.org/).
+- کمک های تحصیلی از [William S. Sadler](/en/article/William_S_Sadler) و [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (به همه زبان ها) حق نسخه برداری [بنیاد اورانتیا] است (https: //www.urantia.org/).
 - سایر وسایل کمک آموزشی که به گروه های قبلی تعلق ندارند (در همه زبان ها) متعلق به نویسندگان ذکر شده است.
 - حق چاپ برخی از تصاویر کتاب یورنشیا متعلق به  [گری تونگ](https://visionafar.com) است.
 
@@ -76,7 +76,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 - کتاب اورنشیا (به زبان انگلیسی) از سال 2006 در دامنه عمومی قرار دارد.
 - کتاب مقدس، تمام ترجمه های استفاده شده، از نسخه های موجود در دامنه عمومی است. اطلاعات نسخه عمومی دامنه مورد استفاده برای هر زبان را می توان در صفحه اول هر کتاب مقدس یافت.
-- کتاب‌هایی که به‌عنوان  [منابع فرضی کتاب اورنشیا](/fa/book#books-supposed-to-be-sources) فهرست شده‌اند، همه به زبان انگلیسی و در دامنه عمومی هستند. ترجمه های ارائه شده تحت مجوز عمومی CC-BY-SA-4.0 سایت در دسترس هستند.
+- کتاب‌هایی که به‌عنوان  [منابع فرضی کتاب اورنشیا](/en/book#books-supposed-to-be-sources) فهرست شده‌اند، همه به زبان انگلیسی و در دامنه عمومی هستند. ترجمه های ارائه شده تحت مجوز عمومی CC-BY-SA-4.0 سایت در دسترس هستند.
 - برخی از تصاویر برای _The Urantia Book_ در دامنه عمومی هستند.
 
 ### شرایط استفاده
@@ -172,4 +172,3 @@ Urantiapedia حاوی مطالبی است که ممکن است یک فرد قا�
 #### مشاوره حرفه ای نیست
 
 اگر به مشاوره خاصی نیاز دارید (مثلاً پزشکی، حقوقی، مالی یا مدیریت ریسک)، لطفاً به دنبال متخصصی باشید که دارای مجوز یا دانش در آن زمینه باشد.
-

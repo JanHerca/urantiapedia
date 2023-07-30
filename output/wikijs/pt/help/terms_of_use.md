@@ -29,103 +29,123 @@ A Urantiapedia dedica-se à divulgação das revelações _O Livro de Urântia_,
 
 Pedimos que você revise os termos de nossa [Política de Privacidade](/pt/help/privacy_policy), para que você esteja ciente de como coletamos e usamos suas informações. Como nossos serviços são usados ​​por pessoas em todo o mundo, as informações pessoais que coletamos podem ser armazenadas e processadas em nossas instalações. Ao usar nossos serviços, você concorda com qualquer transferência de informações para fora do seu país. 
 
-## 3. Conteúdo que hospedamos 
+## 3. Conteúdo que hospedamos
 
-Nosso conteúdo é apenas para fins de iluminação espiritual: Não hospedamos informações relacionadas a tópicos profissionais, incluindo questões médicas, jurídicas ou financeiras. Nenhum conteúdo deve ser tomado como aconselhamento profissional. 
+Você pode achar algum material censurável ou errôneo: Como fornecemos uma ampla gama de conteúdo espiritual e religioso que é produzido ou reunido por leitores do _Urantia Book_, você pode encontrar material que considera ofensivo, errôneo, enganoso, rotulado erroneamente ou de outra forma censurável. Portanto, pedimos que você use o bom senso e o julgamento adequado ao usar nossos serviços.
+
+Nosso conteúdo é apenas para fins de iluminação espiritual: não hospedamos nenhuma informação relacionada a tópicos profissionais, incluindo questões médicas, jurídicas ou financeiras. Nenhum conteúdo deve ser tomado como aconselhamento profissional.
 
 ## 4. Abster-se de certas atividades
 
+A Urantiapedia só existe por causa de uma comunidade de leitores de _Urantia Book_ como você, que colaboram para escrever, editar e organizar o conteúdo. Congratulamo-nos com a sua participação nesta comunidade. Incentivamos você a ser civilizado e educado em suas interações com outras pessoas da comunidade, a agir de boa fé e a fazer edições e contribuições destinadas a promover a missão da Urantiapedia.
 
-Certas atividades, legais ou ilegais, podem ser prejudiciais a outros usuários e violar nossas regras, e algumas atividades também podem sujeitar você a responsabilidades. Portanto, para sua própria proteção e de outros usuários, você não pode se envolver em tais atividades em nosso site. Essas atividades incluem: 
+Certas atividades, legais ou ilegais, podem ser prejudiciais a outros usuários e violar nossas regras, e algumas atividades também podem sujeitar você a responsabilidades. Portanto, para sua própria proteção e de outros usuários, você não pode se envolver em tais atividades em nosso site. Essas atividades incluem:
 
-- **Assediar e abusar de outras pessoas** 
-	- Transmitir correntes, lixo eletrônico ou spam para outros usuários. 
-- **Violar a privacidade de terceiros** 
-	- Infringir os direitos de privacidade de terceiros de acordo com as leis da Espanha ou outras leis aplicáveis ​​(que podem incluir as leis de onde você mora ou onde você visualiza ou edita o conteúdo);
-	- Solicitar informações pessoalmente identificáveis ​​para fins de assédio, exploração, violação de privacidade ou qualquer finalidade promocional ou comercial não explicitamente aprovada pela Urantiapedia; e 
-	- Solicitar informações de identificação pessoal de qualquer pessoa com menos de 18 anos para fins ilegais ou violar qualquer lei aplicável em relação à saúde ou bem-estar de menores. 
-- **Envolver-se em declarações falsas, representação ou fraude** 
-	- Publicar intencional ou conscientemente conteúdo que constitua calúnia ou difamação; 
-	- Tentar se passar por outro usuário ou indivíduo, deturpar sua afiliação com qualquer indivíduo ou entidade ou usar o nome de usuário de outro usuário com a intenção de enganar; e 
+- **Assediar e abusar de outras pessoas**
+	- Envolver-se em assédio, ameaças, perseguição, spam ou vandalismo; e
+	- Transmitir correntes, lixo eletrônico ou spam para outros usuários.
+- **Violar a privacidade de terceiros**
+	- Infringir os direitos de privacidade de terceiros sob as leis da Espanha ou outras leis aplicáveis (que podem incluir as leis de onde você mora ou onde você visualiza ou edita o conteúdo);
+	- Solicitar informações pessoalmente identificáveis para fins de assédio, exploração, violação de privacidade ou qualquer finalidade promocional ou comercial não explicitamente aprovada pela Urantiapedia; e
+	- Solicitar informações de identificação pessoal de qualquer pessoa com menos de 18 anos para fins ilegais ou violar qualquer lei aplicável em relação à saúde ou bem-estar de menores.
+- **Envolver-se em declarações falsas, representação ou fraude**
+	- Postar intencionalmente ou conscientemente conteúdo que constitua calúnia ou difamação;
+	- Com a intenção de enganar, postando conteúdo falso ou inexato;
+	- Tentar se passar por outro usuário ou indivíduo, deturpar sua afiliação com qualquer indivíduo ou entidade ou usar o nome de usuário de outro usuário com a intenção de enganar; e
+	- Envolver-se em fraudes.
 - **Cometendo infração**
-	- Infringir direitos autorais, marcas registradas, patentes ou outros direitos de propriedade sob a lei aplicável. 
-- **Uso indevido de nossos serviços para outros fins ilegais** 
-	- Publicação de pornografia infantil ou qualquer outro conteúdo que viole a lei aplicável relativa à pornografia infantil; 
-	- Postar ou traficar material obsceno que seja ilegal de acordo com a lei aplicável; e 
-	- Usar os serviços de maneira inconsistente com a lei aplicável. 
-- **Envolver-se em uso indevido e perturbador das instalações** 
-	- Envolver-se em usos automatizados do site que sejam abusivos ou perturbadores dos serviços e não tenham sido aprovados pela Urantiapedia; 
+	- Infringir direitos autorais, marcas registradas, patentes ou outros direitos de propriedade sob a lei aplicável.
+- **Uso indevido de nossos serviços para outros fins ilegais**
+	- Postar pornografia infantil ou qualquer outro conteúdo que viole a lei aplicável relativa à pornografia infantil;
+	- Postar ou traficar material obsceno que seja ilegal de acordo com a lei aplicável; e
+	- Usar os serviços de maneira inconsistente com a lei aplicável.
+- **Engajar-se no uso indevido e ilegal de instalações**
+	- Postar ou distribuir conteúdo que contenha qualquer vírus, malware, worms, cavalos de Tróia, código malicioso ou outro dispositivo que possa prejudicar nossa infraestrutura ou sistema técnico ou de nossos usuários;
+	- Engajar-se em usos automatizados do site que sejam abusivos ou perturbadores dos serviços e não tenham sido aprovados pela Urantiapedia;
 	- Interromper os serviços colocando uma carga indevida no site ou nas redes ou servidores conectados ao site;
-	- Interromper os serviços inundando a Urantiapedia com comunicações ou outro tráfego que sugira nenhuma intenção séria de usar o site para o propósito declarado; 
-	- Sondagem, varredura ou teste da vulnerabilidade de qualquer um de nossos sistemas ou redes técnicas, a menos que todas as seguintes condições sejam atendidas: 
-		- tais ações não abusem indevidamente ou interrompam nossos sistemas ou redes técnicas; 
-		- tais ações não são para ganho pessoal (exceto para crédito pelo seu trabalho); 
-		- você relata quaisquer vulnerabilidades aos desenvolvedores da Urantiapedia (ou corrige você mesmo); e 
-		- você não realiza tais ações com intenção maliciosa ou destrutiva. 
+	- Interromper os serviços inundando a Urantiapedia com comunicações ou outro tráfego que sugira nenhuma intenção séria de usar o site para o propósito declarado;
+	- Acessar, adulterar ou usar intencionalmente qualquer uma de nossas áreas não públicas em nossos sistemas de computador sem autorização; e
+	- Sondagem, varredura ou teste de vulnerabilidade de qualquer um de nossos sistemas técnicos ou redes, a menos que todas as seguintes condições sejam atendidas:
+		- tais ações não abusam indevidamente ou interrompem nossos sistemas técnicos ou redes;
+		- tais ações não são para ganho pessoal (exceto para crédito pelo seu trabalho);
+		- você relata quaisquer vulnerabilidades aos desenvolvedores da Urantiapedia (ou corrige você mesmo); e
+		- você não realiza tais ações com intenção maliciosa ou destrutiva.
 - **Contribuições pagas sem divulgação**
-	- A lei aplicável, como a lei que trata de conflitos de interesse, pode limitar ainda mais as contribuições pagas ou exigir uma divulgação mais detalhada. 
+	- Estes Termos de Uso proíbem o envolvimento em atividades enganosas, incluindo deturpação de afiliação, representação e fraude. Como parte dessas obrigações, você deve divulgar seu empregador, cliente e afiliação com relação a qualquer contribuição pela qual receba ou espere receber remuneração. Você deve fazer essa divulgação em uma declaração na seção de comentários que acompanha quaisquer contribuições pagas.
+	- A lei aplicável, como a lei que trata de conflitos de interesse, pode limitar ainda mais as contribuições pagas ou exigir uma divulgação mais detalhada.
 
-Reservamo-nos o direito de exercer nossa discrição de execução com relação aos termos acima. 
+Reservamo-nos o direito de exercer nossa discrição de execução com relação aos termos acima.
 
-## 5. Registro e segurança por senha Os 
+## 5. Registering and Password Security
 
-leitores do _Urantia Book_ que desejam ser colaboradores da Urantiapedia precisam ser validados como confiáveis ​​pelos administradores do sistema por meio de alguns meios de comunicação, como e-mail ou bate-papo. Para entrar em contato com os administradores da Urantiapedia, você pode usar qualquer um destes procedimentos: 
-- Enviando um e-mail para urantiapedia@gmail.com
-- Inscrever-se na página [Blue Fields](https://blue-fields.netlify.app/), que é um site criado para reunir e organizar leitores do *Livro de Urântia* em todo o mundo que desejam participar de projetos inteligentes, com um bom propósito e altruísmo. Uma vez registrado, a administração do projeto entrará em contato com você. 
+_Urantia Book_ readers who want to be Urantiapedia contributors need to be validated as trustworthy by system administrators through some means of communication such as email or chat. To contact administrators of Urantiapedia you can use any of this procedures:
+- Sending an email to urantiapedia@gmail.com
+- Signing up in [Blue Fields](https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered a project administration will contact you.
 
-Se você for aceito como colaborador, será cadastrado no sistema por um administrador, que fornecerá uma senha temporária para seu nome de usuário ou alias. É recomendável que você altere essa senha temporária o mais rápido possível para uma senha permanente. Você é responsável por proteger sua própria senha e nunca deve revelá-la a terceiros. 
+If you are accepted as contributor you will be registered in the system by an administrator, who will provide a temporary password for your username or alias. It is recommended that you change this temporary password as soon as possible to a permanent one. You are responsible for safeguarding your own password and should never disclose it to any third party.
 
-## 6. Nome e logotipo
+## 6. Name and logo
 
+Although you have considerable freedoms for re-use of the content on Urantiapedia, it is important that we protect our names and logo so that we can protect our users from fraudulent impersonators. Because of this, we ask that you please respect our name (“Urantiapedia”) and logo (“U” and “p” letters in [home page](/pt/home)). All use of our name and logo must be in compliance with these Terms of Use.
 
+## 7. Licenciamento de Conteúdo
 
 Para aumentar o conhecimento espiritual gratuito e a cultura livre, todos os leitores do _Urantia Book_ que contribuem para a Urantiapedia são encorajados a conceder amplas permissões ao público em geral para redistribuir e reutilizar suas contribuições livremente, desde que esse uso seja devidamente atribuído e a mesma liberdade de reutilização e redistribuição é concedida a quaisquer trabalhos derivados.
 
 Não exigimos que todo o conteúdo enviado seja licenciado para que seja reutilizável livremente por qualquer pessoa. Os contribuidores que desejam proteger seu conteúdo de ser redistribuído e reutilizado livremente podem indicar isso em um aviso de direitos autorais em cada página do conteúdo enviado. Os colaboradores podem solicitar aos administradores da Urantiapedia que seu conteúdo seja limitado para edição a um grupo selecionado de usuários ou apenas a um usuário. Os administradores do sistema Urantiapedia fornecerão essas limitações para a edição ampla de tal conteúdo, a menos que seja claramente constatado que a limitação solicitada se aplica a conteúdo de Domínio Público ou conteúdo disponível em licença que permite redistribuição pública e reutilização.
 
-- a. **Texto do qual você detém os direitos autorais**: Ao enviar um texto do qual você detém os direitos autorais, você concorda em licenciá-lo sob [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) (“CC BY-SA 4.0”). Os reutilizadores podem cumprir a mesma licença. Observe que esta licença permite usos comerciais de suas contribuições, desde que tais usos estejam em conformidade com os termos. 
+Caso você concorde em conceder permissão ampla para a reutilização de seu conteúdo, você deve concordar com os seguintes requisitos de licenciamento:
+- a. **Texto do qual você detém os direitos autorais**: Ao enviar um texto do qual você detém os direitos autorais, você concorda em licenciá-lo sob [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) (“CC BY-SA 4.0”). Os reutilizadores podem cumprir a mesma licença. Observe que esta licença permite usos comerciais de suas contribuições, desde que tais usos estejam em conformidade com os termos.
+- b. **Atribuição**: A atribuição é uma parte importante da licença. Consideramos dar crédito onde o crédito é devido – a autores como você. Ao contribuir com texto, você concorda em ser atribuído de qualquer uma das seguintes formas:
 	- Através de hiperlink (quando possível) ou URL para o artigo para o qual você contribuiu (já que cada artigo possui uma página de histórico que lista todos os autores e editores);
+	- Através de hiperlink (quando possível) ou URL para uma cópia alternativa no GitHub ([Projeto principal do Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Projeto de backup do Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)), cópias estáveis on-line que são de livre acesso, que estão em conformidade com a licença e que fornecem crédito aos autores de maneira equivalente ao crédito dado no site da Urantiapedia.
 - c. **Importando texto**: Você pode importar texto que encontrou em outro lugar ou que tenha escrito em coautoria com outras pessoas, mas, nesse caso, você garante que o texto está disponível sob termos compatíveis com a licença CC BY-SA 4.0 . Você concorda que, se importar texto sob uma licença CC BY-SA que exija atribuição, você deve creditar o(s) autor(es) de maneira razoável. 
 - d. **Mídia não textual**: A mídia não textual na Urantiapedia está disponível sob uma variedade de licenças diferentes que suportam o objetivo geral de permitir a reutilização e redistribuição irrestrita. Ao contribuir com mídia que não seja texto, você concorda em cumprir os requisitos de tais licenças.
 - e. **Sem revogação de licença**: Exceto conforme consistente com sua licença, você concorda que não revogará unilateralmente ou buscará a invalidação de qualquer licença concedida sob estes Termos de Uso para conteúdo de texto ou mídia não textual contribuída para a Urantiapedia , mesmo se você encerrar o uso de nossos serviços. 
 - f. **Conteúdo de domínio público**: Conteúdo de domínio público é bem-vindo! É importante, no entanto, que você confirme o status de domínio público do conteúdo sob a lei da Espanha, bem como as leis de quaisquer outros países. Ao contribuir com conteúdo de domínio público, você garante que o material é realmente de domínio público e concorda em rotulá-lo adequadamente.
-- g. **Reutilização**: A reutilização do conteúdo que hospedamos é bem-vinda, embora existam exceções para conteúdo contribuído sob "uso justo" ou isenções semelhantes sob a lei de direitos autorais. Qualquer reutilização deve estar em conformidade com a(s) licença(s) subjacente(s). Ao reutilizar ou redistribuir uma página de texto desenvolvida pela comunidade Urantiapedia, você concorda em atribuir os autores de qualquer uma das seguintes formas: 
-	- Através de hiperlink (quando possível) ou URL para a página ou páginas que você está re- usando (já que cada página tem uma página de histórico que lista todos os autores e editores);
-	- Através de hiperlink (quando possível) ou URL para uma cópia alternativa no GitHub ([Projeto principal do Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Projeto de backup do Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)), cópias estáveis ​​on-line que são de livre acesso, que estão em conformidade com a licença e que fornecem crédito aos autores de maneira equivalente ao crédito dado no site da Urantiapedia.
+- g. **Reutilização**: A reutilização do conteúdo que hospedamos é bem-vinda, embora existam exceções para conteúdo contribuído sob "uso justo" ou isenções semelhantes sob a lei de direitos autorais. Qualquer reutilização deve estar em conformidade com a(s) licença(s) subjacente(s). Ao reutilizar ou redistribuir uma página de texto desenvolvida pela comunidade Urantiapedia, você concorda em atribuir os autores de qualquer uma das seguintes formas:
+	- Através de hyperlink (quando possível) ou URL para a página ou páginas que você está reutilizando (uma vez que cada página possui uma página de histórico que lista todos os autores e editores);
+	- Através de hiperlink (quando possível) ou URL para uma cópia alternativa no GitHub ([Projeto principal do Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Projeto de backup do Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)), cópias estáveis on-line que são de livre acesso, que estão em conformidade com a licença e que fornecem crédito aos autores de maneira equivalente ao crédito dado no site da Urantiapedia.
+	Se o conteúdo do texto foi importado de outra fonte, é possível que o conteúdo esteja licenciado sob uma licença CC BY-SA compatível (conforme descrito em “Importação de texto”, acima). Nesse caso, você concorda em cumprir a licença CC BY-SA compatível. Para determinar a licença que se aplica ao conteúdo que você deseja reutilizar ou redistribuir, você deve revisar o cabeçalho da página.
 	Além disso, esteja ciente de que o texto originado de fontes externas e importado para a Urantiapedia pode estar sob uma licença que inclui requisitos de atribuição adicionais. Os usuários concordam em indicar claramente esses requisitos de atribuição adicionais. Tais requisitos podem aparecer nas notações _Referências_ do cabeçalho ou rodapé de uma página indicando que parte ou todo o conteúdo foi originalmente publicado em outro lugar. Onde houver tais notações visíveis, os reutilizadores devem preservá-las.
-	Para qualquer mídia não textual, você concorda em cumprir qualquer licença sob a qual o trabalho foi disponibilizado (que pode ser descoberto clicando no link que deve aparecer na legenda de qualquer mídia não textual e procurando as informações de licenciamento ). Ao reutilizar qualquer conteúdo que hospedamos, você concorda em cumprir os requisitos de atribuição relevantes no que se refere à licença ou licenças subjacentes. 
+	Para qualquer mídia não textual, você concorda em cumprir qualquer licença sob a qual o trabalho foi disponibilizado (que pode ser descoberto clicando no link que deve aparecer na legenda de qualquer mídia não textual e procurando as informações de licenciamento ). Ao reutilizar qualquer conteúdo que hospedamos, você concorda em cumprir os requisitos de atribuição relevantes no que se refere à licença ou licenças subjacentes.
 - h. **Modificações ou adições ao material que você reutiliza**: Ao modificar ou fazer adições ao texto que você obteve da Urantiapedia, você concorda em licenciar o conteúdo modificado ou adicionado sob CC BY-SA 4.0 ou posterior.
+	Ao modificar ou fazer adições a qualquer mídia não textual que você obteve da Urantiapedia, você concorda em licenciar o conteúdo modificado ou adicionado de acordo com qualquer licença sob a qual o trabalho foi disponibilizado.
 	Com conteúdo de texto e mídia não textual, você concorda em indicar claramente que o trabalho original foi modificado. Se você estiver reutilizando conteúdo de texto em um wiki, basta indicar no histórico da página que você fez uma alteração no texto importado. Para cada cópia ou versão modificada que você distribuir, você concorda em incluir um aviso de licenciamento declarando sob qual licença o trabalho foi lançado, junto com um hiperlink ou URL para o texto da licença ou uma cópia da própria licença.
 
+## 8. Conformidade com direitos autorais
 
-A Urantiapedia quer garantir que o conteúdo que hospedamos possa ser reutilizado por outros usuários sem medo de responsabilidade e que não infrinja os direitos autorais de terceiros. Para ser justo com nossos usuários, bem como com outros criadores e detentores de direitos autorais, nossa política é responder a notificações de suposta violação das leis de direitos autorais. De acordo com as leis de direitos autorais, encerraremos, em circunstâncias apropriadas, usuários e titulares de contas de nosso sistema que sejam infratores reincidentes. 
+A Urantiapedia quer garantir que o conteúdo que hospedamos possa ser reutilizado por outros usuários sem medo de responsabilidade e que não infrinja os direitos autorais de terceiros. Para ser justo com nossos usuários, bem como com outros criadores e detentores de direitos autorais, nossa política é responder a notificações de suposta violação das leis de direitos autorais. De acordo com as leis de direitos autorais, encerraremos, em circunstâncias apropriadas, usuários e titulares de contas de nosso sistema que sejam infratores reincidentes.
 
 No entanto, também reconhecemos que nem todo aviso de remoção é válido ou de boa fé. Nesses casos, recomendamos fortemente que os usuários enviem contranotificações quando acreditarem que uma solicitação de remoção por direitos autorais é inválida ou imprópria.
 
-Se você for o proprietário do conteúdo que está sendo usado indevidamente na Urantiapedia sem sua permissão, você pode solicitar que o conteúdo seja removido de acordo com as leis de direitos autorais. Para fazer tal solicitação, envie um email para urantiapedia@gmail.com. 
+Se você for o proprietário do conteúdo que está sendo usado indevidamente na Urantiapedia sem sua permissão, você pode solicitar que o conteúdo seja removido de acordo com as leis de direitos autorais. Para fazer tal solicitação, envie um email para urantiapedia@gmail.com.
 
-## 9. Sites e recursos de terceiros 
+## 9. Sites e recursos de terceiros
 
-Você é o único responsável pelo uso de sites ou recursos de terceiros. Embora a Urantiapedia contenha links para sites e recursos de terceiros, não endossamos e não somos responsáveis ​​por sua disponibilidade, precisão ou conteúdo, produtos ou serviços relacionados (incluindo, sem limitação, quaisquer vírus ou outros recursos incapacitantes) , nem temos qualquer obrigação de monitorar tal conteúdo de terceiros.
+Você é o único responsável pelo uso de quaisquer sites ou recursos de terceiros. Embora a Urantiapedia contenha links para sites e recursos de terceiros, não endossamos e não somos responsáveis por sua disponibilidade, precisão ou conteúdo, produtos ou serviços relacionados (incluindo, sem limitação, quaisquer vírus ou outros recursos incapacitantes) , nem temos qualquer obrigação de monitorar tal conteúdo de terceiros.
 
+## 10. Gestão de Sites
 
-A comunidade de colaboradores da Urantiapedia tem o papel principal de criar e fazer cumprir as políticas que se aplicam a ela. Em um caso incomum, podemos abordar um usuário colaborador especialmente problemático por causa de perturbação significativa ou comportamento perigoso. Nesses casos, reservamo-nos o direito, mas não temos a obrigação de: 
-- Investigar o uso do serviço pelos contribuidores (a) para determinar se ocorreu uma violação destes Termos de Uso ou outra lei ou política aplicável, ou (b) para cumprir qualquer lei aplicável, processo legal ou solicitação governamental apropriada; 
+A comunidade de colaboradores da Urantiapedia tem o papel principal de criar e fazer cumprir as políticas que se aplicam a ela. Em um caso incomum, podemos abordar um usuário colaborador especialmente problemático por causa de perturbação significativa ou comportamento perigoso. Nesses casos, reservamo-nos o direito, mas não temos a obrigação de:
+- Investigar o uso do serviço pelos contribuidores (a) para determinar se ocorreu uma violação destes Termos de Uso ou outra lei ou política aplicável, ou (b) para cumprir qualquer lei aplicável, processo legal ou solicitação governamental apropriada;
+- Detectar, prevenir ou resolver problemas de fraude, segurança ou técnicos ou responder a solicitações de suporte do usuário;
+- Recusar, desabilitar ou restringir o acesso à contribuição de qualquer usuário que viole estes Termos de Uso;
 - Proibir um usuário de editar ou contribuir ou bloquear a conta ou o acesso de um usuário por ações que violem estes Termos de Uso, incluindo violação repetida de direitos autorais;
-- Tomar medidas legais contra usuários que violarem estes Termos de Uso (incluindo denúncias às autoridades policiais); e 
-- Gerir de outra forma a Urantiapedia de uma forma concebida para facilitar o seu funcionamento adequado e proteger os direitos, propriedade e segurança de nós próprios e dos nossos utilizadores, licenciantes, parceiros e do público. 
+- Tomar medidas legais contra usuários que violarem estes Termos de Uso (incluindo denúncias às autoridades policiais); e
+- Administrar de outra forma a Urantiapedia de maneira a facilitar seu funcionamento adequado e proteger os direitos, propriedade e segurança de nós mesmos e de nossos usuários, licenciadores, parceiros e do público.
 
-No interesse de nossos usuários e do projeto, na circunstância extrema de qualquer indivíduo ter sua conta ou acesso bloqueado sob esta disposição, ele ou ela está proibido de criar ou usar outra conta ou buscar acesso ao projeto, a menos que nós fornecemos permissão explícita. 
+No interesse de nossos usuários e do projeto, na circunstância extrema de qualquer indivíduo ter sua conta ou acesso bloqueado sob esta disposição, ele ou ela está proibido de criar ou usar outra conta ou buscar acesso ao projeto, a menos que nós fornecemos permissão explícita.
 
 O bloqueio de uma conta ou acesso ou o banimento de um usuário sob esta disposição deve estar de acordo com a Seção 12 destes Termos de Uso.
 
-## 11. Políticas 
+## 11. Políticas da Urantiapedia
 
-da Urantiapedia O conselho da Urantiapedia pode lançar novas políticas oficiais de tempos em tempos. Você concorda em cumpri-los conforme aplicável. 
+O conselho da Urantiapedia pode lançar novas políticas oficiais de tempos em tempos. Você concorda em cumpri-los conforme aplicável.
 
 ## 12. Rescisão
 
-Embora esperemos que você fique e continue a contribuir com a Urantiapedia, você pode parar de usar nossos serviços a qualquer momento. Em certas circunstâncias (espero improváveis), pode ser necessário para nós mesmos encerrar parte ou todos os nossos serviços, rescindir estes Termos de Uso, bloquear sua conta ou acesso ou banir você como usuário. Se sua conta ou acesso for bloqueado ou encerrado por qualquer motivo, suas contribuições públicas permanecerão disponíveis ao público (sujeito às políticas aplicáveis) e, a menos que o notifiquemos de outra forma, você ainda poderá acessar nossas páginas públicas com o único propósito de ler publicamente conteúdos disponíveis no site. Em tais circunstâncias, no entanto, você pode não conseguir acessar sua conta ou configurações. Reservamo-nos o direito de suspender ou encerrar os serviços a qualquer momento, com ou sem justa causa e com ou sem aviso prévio.
+Embora esperemos que você fique e continue a contribuir com a Urantiapedia, você pode parar de usar nossos serviços a qualquer momento. Em certas circunstâncias (espero improváveis), pode ser necessário para nós mesmos encerrar parte ou todos os nossos serviços, rescindir estes Termos de Uso, bloquear sua conta ou acesso ou banir você como usuário. Se sua conta ou acesso for bloqueado ou encerrado por qualquer motivo, suas contribuições públicas permanecerão disponíveis ao público (sujeito às políticas aplicáveis) e, a menos que o notifiquemos de outra forma, você ainda poderá acessar nossas páginas públicas com o único propósito de ler publicamente conteúdos disponíveis no site. Em tais circunstâncias, no entanto, você pode não conseguir acessar sua conta ou configurações. Reservamo-nos o direito de suspender ou encerrar os serviços a qualquer momento, com ou sem justa causa e com ou sem aviso prévio. Mesmo depois que seu uso e participação forem banidos, bloqueados ou suspensos, estes Termos de Uso permanecerão em vigor com relação às disposições relevantes, incluindo as Seções 1, 3, 4, 6, 7, 9-15 e 17.
 
 ## 13. Disputas e Jurisdição 
 

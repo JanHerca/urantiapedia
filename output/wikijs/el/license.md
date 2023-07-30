@@ -60,14 +60,14 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 - Το βιβλίο Urantia (όλες οι μεταφράσεις από τα αγγλικά), είναι πνευματικά δικαιώματα του [Urantia Foundation](https://www.urantia.org/).
 - Το _Paramony_, το ευρετήριο παραπομπής μεταξύ της Βίβλου και του _The Urantia Book_ που εμφανίζεται ως υποσημειώσεις στο _The Urantia Book_ και στις σελίδες της Βίβλου (σε όλες τις γλώσσες), αποτελεί πνευματική ιδιοκτησία του [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
-- Τα άρθρα από το [Innerface International](/el/index/articles_innerface) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
-- Τα άρθρα από το [Urantian Journal](/el/index/articles_the_urantian) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
-- Τα άρθρα από το [Followship Journal](/el/index/articles_spirtual_fellowship_journal) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
-- Τα άρθρα από το [Fellowship Herald](/el/index/articles_herald) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
-- Τα άρθρα από το [UB Annotated & UBTheNews](/el/index/articles#ub-annotaded-ubthenews) (σε όλες τις γλώσσες) αποτελούν πνευματικά δικαιώματα του [Halbert Katzen](https://ubannotated.com/).
-- Τα άρθρα από [Jan Herca](/el/index/articles#articles-from-jan-herca) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία του [Jan Herca](https://buscandoajesus.wordpress.com) και είναι διαθέσιμα στο την [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Τα άρθρα από το [Innerface International](/en/index/articles_innerface) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
+- Τα άρθρα από το [Urantian Journal](/en/index/articles_the_urantian) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
+- Τα άρθρα από το [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
+- Τα άρθρα από το [Fellowship Herald](/en/index/articles_herald) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
+- Τα άρθρα από το [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (σε όλες τις γλώσσες) αποτελούν πνευματικά δικαιώματα του [Halbert Katzen](https://ubannotated.com/).
+- Τα άρθρα από [Jan Herca](/en/index/articles#articles-from-jan-herca) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία του [Jan Herca](https://buscandoajesus.wordpress.com) και είναι διαθέσιμα στο την [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Άλλα άρθρα που δεν ανήκουν σε προηγούμενες ομάδες (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία των αναφερόμενων συγγραφέων.
-- Τα Βοηθήματα Σπουδών από τον [William S. Sadler](/el/article/William_S_Sadler) και τον [William S. Sadler Jr.](/el/article/William_S_Sadler_Jr) (σε όλες τις γλώσσες) αποτελούν πνευματικά δικαιώματα του [Urantia Foundation](https: //www.urantia.org/).
+- Τα Βοηθήματα Σπουδών από τον [William S. Sadler](/en/article/William_S_Sadler) και τον [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (σε όλες τις γλώσσες) αποτελούν πνευματικά δικαιώματα του [Urantia Foundation](https: //www.urantia.org/).
 - Άλλα βοηθήματα μελέτης που δεν ανήκουν σε προηγούμενες ομάδες (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία των αναφερόμενων συγγραφέων.
 - Ορισμένες εικονογραφήσεις για το _The Urantia Book_ είναι πνευματικά δικαιώματα του [Gary Tonge](https://visionafar.com).
 
@@ -75,7 +75,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 - Το βιβλίο Urantia (στα Αγγλικά) βρίσκεται στον Δημόσιο Τομέα από το 2006.
 - Η Βίβλος, όλες οι μεταφράσεις που χρησιμοποιούνται, προέρχονται από εκδόσεις του Δημόσιου Τομέα. Οι πληροφορίες της έκδοσης του Δημόσιου Τομέα που χρησιμοποιείται για κάθε γλώσσα βρίσκονται στην πρώτη σελίδα κάθε βιβλίου της Βίβλου.
-- Τα βιβλία που αναφέρονται ως [υποτιθέμενες πηγές του Βιβλίου Urantia](/el/book#books-supposed-to-be-sources) είναι όλα στα Αγγλικά και στον Δημόσιο Τομέα. Οι μεταφράσεις που παρέχονται είναι διαθέσιμες με τη γενική άδεια CC-BY-SA-4.0 του ιστότοπου.
+- Τα βιβλία που αναφέρονται ως [υποτιθέμενες πηγές του Βιβλίου Urantia](/en/book#books-supposed-to-be-sources) είναι όλα στα Αγγλικά και στον Δημόσιο Τομέα. Οι μεταφράσεις που παρέχονται είναι διαθέσιμες με τη γενική άδεια CC-BY-SA-4.0 του ιστότοπου.
 - Μερικές εικονογραφήσεις για το _The Urantia Book_ βρίσκονται στον Δημόσιο Τομέα.
 
 ### Οροι χρήσης
@@ -171,4 +171,3 @@ dateCreated: 2023-02-03T13:55:38.362Z
 #### Όχι επαγγελματική συμβουλή
 
 Εάν χρειάζεστε συγκεκριμένες συμβουλές (για παράδειγμα, ιατρικές, νομικές, οικονομικές ή διαχείριση κινδύνων), αναζητήστε έναν επαγγελματία που έχει άδεια ή έχει γνώση σε αυτόν τον τομέα.
-

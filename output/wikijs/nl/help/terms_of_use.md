@@ -29,103 +29,123 @@ Urantiapedia is toegewijd aan de verspreiding van _Het Urantia Boek_ onthullinge
 
 We vragen u de voorwaarden van ons [Privacybeleid](/nl/help/privacy_policy) door te nemen, zodat u weet hoe we uw informatie verzamelen en gebruiken. Omdat onze diensten door mensen over de hele wereld worden gebruikt, kunnen persoonlijke gegevens die we verzamelen in onze faciliteiten worden opgeslagen en verwerkt. Door onze diensten te gebruiken, stemt u in met een dergelijke overdracht van informatie buiten uw land. 
 
-## 3. Inhoud die we 
+## 3. Inhoud die we hosten
 
-hosten Onze inhoud is alleen bedoeld voor spirituele verlichting: we hosten helemaal geen informatie die betrekking heeft op professionele onderwerpen, inclusief medische, juridische of financiële kwesties. Geen enkele inhoud mag worden opgevat als professioneel advies. 
+U kunt materiaal aanstootgevend of foutief vinden: Omdat we een breed scala aan spirituele en religieuze inhoud bieden die is geproduceerd of verzameld door lezers van het Urantia Boek, kunt u materiaal tegenkomen dat u beledigend, foutief, misleidend, verkeerd gelabeld of anderszins aanstootgevend vindt. We vragen u daarom uw gezond verstand en een goed beoordelingsvermogen te gebruiken bij het gebruik van onze diensten.
+
+Onze inhoud is alleen voor spirituele verlichtingsdoeleinden: we hosten helemaal geen informatie die betrekking heeft op professionele onderwerpen, inclusief medische, juridische of financiële kwesties. Geen enkele inhoud mag worden opgevat als professioneel advies.
 
 ## 4. Afzien van bepaalde activiteiten
 
+Urantiapedia bestaat alleen dankzij de gemeenschap van _Urantia Book_-lezers zoals u die samenwerken om de inhoud te schrijven, te bewerken en samen te stellen. We zijn blij met uw deelname aan deze community. We moedigen u aan beleefd en beleefd te zijn in uw interacties met anderen in de gemeenschap, te goeder trouw te handelen en bewerkingen en bijdragen te maken die gericht zijn op het bevorderen van de missie van Urantiapedia.
 
-Bepaalde activiteiten, legaal of illegaal, kunnen schadelijk zijn voor andere gebruikers en in strijd zijn met onze regels, en voor sommige activiteiten kunt u ook aansprakelijk worden gesteld. Daarom mag u, voor uw eigen bescherming en die van andere gebruikers, niet deelnemen aan dergelijke activiteiten op onze site. Deze activiteiten omvatten: 
+Bepaalde activiteiten, legaal of illegaal, kunnen schadelijk zijn voor andere gebruikers en in strijd zijn met onze regels, en voor sommige activiteiten kunt u ook aansprakelijk worden gesteld. Daarom mag u, voor uw eigen bescherming en die van andere gebruikers, niet deelnemen aan dergelijke activiteiten op onze site. Deze activiteiten omvatten:
 
-- **Anderen lastigvallen en misbruiken** 
-	- Het verzenden van kettingmail, junkmail of spam naar andere gebruikers. 
-- **Schending van de privacy van anderen** 
-	- Schending van de privacyrechten van anderen onder de wetten van Spanje of andere toepasselijke wetten (waaronder mogelijk de wetten waar u woont of waar u inhoud bekijkt of bewerkt);
-	- Het opvragen van persoonlijk identificeerbare informatie met het oog op intimidatie, uitbuiting, schending van de privacy of enig ander promotioneel of commercieel doel dat niet expliciet is goedgekeurd door Urantiapedia; en 
-	- Het vragen van persoonlijk identificeerbare informatie van iemand onder de 18 jaar voor een onwettig doel of het overtreden van toepasselijke wetgeving met betrekking tot de gezondheid of het welzijn van minderjarigen. 
-- **Begaan met valse verklaringen, nabootsing van identiteit of fraude** 
-	- Opzettelijk of bewust inhoud plaatsen die neerkomt op smaad of laster; 
-	- Pogingen om zich voor te doen als een andere gebruiker of persoon, een verkeerde voorstelling te geven van uw band met een persoon of entiteit, of de gebruikersnaam van een andere gebruiker gebruiken met de bedoeling te misleiden; en 
+- **Anderen lastigvallen en misbruiken**
+	- Intimidatie, bedreiging, stalking, spammen of vandalisme; En
+	- Het verzenden van kettingmail, ongewenste e-mail of spam naar andere gebruikers.
+- **Schending van de privacy van anderen**
+	- Het schenden van de privacyrechten van anderen volgens de wetten van Spanje of andere toepasselijke wetten (waaronder mogelijk de wetten waar u woont of waar u inhoud bekijkt of bewerkt);
+	- Het opvragen van persoonlijk identificeerbare informatie met het oog op intimidatie, uitbuiting, schending van de privacy of enig ander promotioneel of commercieel doel dat niet expliciet is goedgekeurd door Urantiapedia; En
+	- Het vragen van persoonlijk identificeerbare informatie van iemand onder de 18 jaar voor een onwettig doel of het overtreden van toepasselijke wetgeving met betrekking tot de gezondheid of het welzijn van minderjarigen.
+- **Begaan met valse verklaringen, nabootsing van identiteit of fraude**
+	- Opzettelijk of bewust inhoud plaatsen die smaad of laster inhoudt;
+	- Met de bedoeling om te misleiden, inhoud plaatsen die onjuist of onnauwkeurig is;
+	- Pogingen om zich voor te doen als een andere gebruiker of persoon, een verkeerde voorstelling te geven van uw band met een persoon of entiteit, of de gebruikersnaam van een andere gebruiker gebruiken met de bedoeling te misleiden; En
+	- Betrokkenheid bij fraude.
 - **Inbreuk plegen**
-	- Inbreuk maken op auteursrechten, handelsmerken, patenten of andere eigendomsrechten onder toepasselijk recht. 
-- **Misbruik maken van onze diensten voor andere illegale doeleinden** 
-	- Het plaatsen van kinderpornografie of enige andere inhoud die in strijd is met de toepasselijke wetgeving met betrekking tot kinderpornografie; 
-	- Het plaatsen of verhandelen van obsceen materiaal dat onwettig is volgens de toepasselijke wetgeving; en 
-	- De services gebruiken op een manier die niet in overeenstemming is met de toepasselijke wetgeving. 
-- **Het zich bezighouden met storend en onwettig misbruik van faciliteiten** 
-	- Het deelnemen aan geautomatiseerd gebruik van de site dat de diensten beledigt of verstoort en niet is goedgekeurd door Urantiapedia; 
+	- Inbreuk maken op auteursrechten, handelsmerken, patenten of andere eigendomsrechten onder toepasselijk recht.
+- **Onze services misbruiken voor andere illegale doeleinden**
+	- Het plaatsen van kinderpornografie of enige andere inhoud die in strijd is met de toepasselijke wetgeving met betrekking tot kinderpornografie;
+	- Het plaatsen of verhandelen van obsceen materiaal dat onwettig is volgens de toepasselijke wetgeving; En
+	- De services gebruiken op een manier die niet in overeenstemming is met de toepasselijke wetgeving.
+- **Betrokkenheid bij verstorend en illegaal misbruik van faciliteiten**
+	- Het plaatsen of verspreiden van inhoud die virussen, malware, wormen, Trojaanse paarden, kwaadaardige code of andere apparaten bevat die onze technische infrastructuur of ons systeem of die van onze gebruikers kunnen schaden;
+	- Zich bezighouden met geautomatiseerd gebruik van de site dat de diensten beledigt of verstoort en niet is goedgekeurd door Urantiapedia;
 	- Het verstoren van de dienstverlening door de website of de met de website verbonden netwerken of servers onnodig te belasten;
-	- Het verstoren van de diensten door Urantiapedia te overspoelen met berichten of ander verkeer dat geen serieuze intentie suggereert om de website te gebruiken voor het aangegeven doel; 
-	- Het onderzoeken, scannen of testen van de kwetsbaarheid van een van onze technische systemen of netwerken, tenzij aan alle volgende voorwaarden is voldaan: 
-		- dergelijke acties maken geen onnodig misbruik van of verstoren onze technische systemen of netwerken; 
-		- dergelijke acties zijn niet voor persoonlijk gewin (behalve voor krediet voor uw werk); 
-		- je meldt eventuele kwetsbaarheden aan de ontwikkelaars van Urantiapedia (of repareert het zelf); en 
-		- u dergelijke acties niet onderneemt met kwaadaardige of destructieve bedoelingen. 
+	- Het verstoren van de diensten door Urantiapedia te overspoelen met communicatie of ander verkeer dat geen serieuze intentie suggereert om de website te gebruiken voor het aangegeven doel;
+	- Bewust toegang krijgen tot, knoeien met of gebruik maken van een van onze niet-openbare gebieden in onze computersystemen zonder toestemming; En
+	- Het onderzoeken, scannen of testen van de kwetsbaarheid van een van onze technische systemen of netwerken, tenzij aan alle volgende voorwaarden is voldaan:
+		- dergelijke acties maken geen onnodig misbruik van of verstoren onze technische systemen of netwerken;
+		- dergelijke acties zijn niet voor persoonlijk gewin (behalve voor krediet voor uw werk);
+		- je meldt eventuele kwetsbaarheden aan de ontwikkelaars van Urantiapedia (of repareert het zelf); En
+		- u dergelijke acties niet met kwaadwillige of destructieve bedoelingen onderneemt.
 - **Betaalde bijdragen zonder openbaarmaking**
-	- Toepasselijke wetgeving, zoals wetgeving inzake belangenconflicten, kan betaalde bijdragen verder beperken of meer gedetailleerde openbaarmaking vereisen. 
+	- Deze Gebruiksvoorwaarden verbieden het deelnemen aan misleidende activiteiten, waaronder een verkeerde voorstelling van zaken van affiliatie, nabootsing van identiteit en fraude. Als onderdeel van deze verplichtingen moet u uw werkgever, klant en aangeslotene bekendmaken met betrekking tot elke bijdrage waarvoor u een vergoeding ontvangt of verwacht te ontvangen. U moet die melding doen in een verklaring op het opmerkingenveld bij eventuele betaalde bijdragen.
+	- Toepasselijke wetgeving, zoals wetgeving inzake belangenconflicten, kan betaalde bijdragen verder beperken of meer gedetailleerde openbaarmaking vereisen.
 
-We behouden ons het recht voor om onze handhavingsdiscretie uit te oefenen met betrekking tot de bovenstaande voorwaarden. 
+We behouden ons het recht voor om onze handhavingsdiscretie uit te oefenen met betrekking tot de bovenstaande voorwaarden.
 
-## 5. Registreren en wachtwoordbeveiliging 
+## 5. Registreren en wachtwoordbeveiliging
 
-Lezers van het _Urantia Book_ die Urantiapedia-bijdragers willen zijn, moeten door systeembeheerders als betrouwbaar worden gevalideerd via een communicatiemiddel zoals e-mail of chat. Om contact op te nemen met beheerders van Urantiapedia kunt u een van deze procedures gebruiken: 
+Lezers van het _Urantia Boek_ die Urantiapedia-bijdragers willen zijn, moeten door systeembeheerders als betrouwbaar worden gevalideerd via een communicatiemiddel zoals e-mail of chat. Om contact op te nemen met beheerders van Urantiapedia kunt u een van deze procedures gebruiken:
 - Een e-mail sturen naar urantiapedia@gmail.com
-- Aanmelden op de [Blue Fields](https://blue-fields.netlify.app/) webpagina, dat is een site die is gemaakt om *Urantia Book*-lezers over de hele wereld die willen deelnemen aan slimme projecten samen te brengen en te organiseren, met een goede doelgerichtheid en altruïsme. Na aanmelding neemt een projectadministratie contact met u op. 
+- Aanmelden op de [Blue Fields](https://blue-fields.netlify.app/) webpagina, dat is een site die is gemaakt om *Urantia Book*-lezers over de hele wereld die willen deelnemen aan slimme projecten samen te brengen en te organiseren, met een goede doelgerichtheid en altruïsme. Na aanmelding neemt een projectadministratie contact met u op.
 
-Als u wordt geaccepteerd als bijdrager, wordt u in het systeem geregistreerd door een beheerder, die een tijdelijk wachtwoord voor uw gebruikersnaam of alias zal verstrekken. Het wordt aanbevolen om dit tijdelijke wachtwoord zo snel mogelijk te wijzigen in een permanent wachtwoord. U bent verantwoordelijk voor het beschermen van uw eigen wachtwoord en mag dit nooit bekendmaken aan derden. 
+Als u wordt geaccepteerd als bijdrager, wordt u in het systeem geregistreerd door een beheerder, die een tijdelijk wachtwoord voor uw gebruikersnaam of alias zal verstrekken. Het wordt aanbevolen om dit tijdelijke wachtwoord zo snel mogelijk te wijzigen in een permanent wachtwoord. U bent verantwoordelijk voor het beschermen van uw eigen wachtwoord en mag dit nooit bekendmaken aan derden.
 
 ## 6. Naam en logo
 
+Hoewel u aanzienlijke vrijheden heeft voor het hergebruik van de inhoud op Urantiapedia, is het belangrijk dat we onze namen en ons logo beschermen, zodat we onze gebruikers kunnen beschermen tegen frauduleuze nabootsers. Daarom vragen we u onze naam (“Urantiapedia”) en ons logo (“U” en “p” letters in [home page](/nl/home)) te respecteren. Elk gebruik van onze naam en ons logo moet in overeenstemming zijn met deze Gebruiksvoorwaarden.
 
+## 7. Licentieverlening voor inhoud
 
 Om de commons van vrije spirituele kennis en vrije cultuur te laten groeien, worden alle lezers van het Urantia Boek die bijdragen aan Urantiapedia aangemoedigd om brede toestemming te verlenen aan het grote publiek om hun bijdragen vrijelijk te herdistribueren en te hergebruiken, zolang dat gebruik correct wordt toegeschreven en dezelfde vrijheid van hergebruik en herdistributie wordt verleend aan alle afgeleide werken.
 
-We vereisen niet dat alle ingediende inhoud een licentie heeft, zodat deze door iedereen vrij kan worden hergebruikt. Bijdragers die hun inhoud willen beschermen tegen herdistributie en vrijelijk hergebruik, kunnen dit aangeven in een copyrightmelding op elke pagina van hun ingediende inhoud. Bijdragers mogen de beheerders van Urantiapedia verzoeken hun inhoud te beperken tot een geselecteerde groep gebruikers of slechts tot één gebruiker. De systeembeheerders van Urantiapedia zullen die beperkingen voorzien voor de brede editie van dergelijke inhoud, tenzij duidelijk wordt vastgesteld dat de gevraagde beperking van toepassing is op inhoud uit het Publieke Domein of inhoud die beschikbaar is in een licentie die openbare herdistributie en hergebruik toestaat.
+We vereisen niet dat alle ingediende inhoud een licentie heeft, zodat deze door iedereen vrij kan worden hergebruikt. Bijdragers die hun inhoud willen beschermen tegen herdistributie en vrij hergebruik, kunnen dit aangeven in een copyrightmelding op elke pagina van hun ingediende inhoud. Bijdragers mogen Urantiapedia-beheerders verzoeken hun inhoud te beperken tot een geselecteerde groep gebruikers of slechts tot één gebruiker. De systeembeheerders van Urantiapedia zullen die beperkingen voorzien voor de brede editie van dergelijke inhoud, tenzij duidelijk wordt vastgesteld dat de gevraagde beperking van toepassing is op inhoud uit het Publieke Domein of inhoud die beschikbaar is in een licentie die openbare herdistributie en hergebruik toestaat.
 
-- A. **Tekst waarop u het copyright bezit**: Wanneer u tekst indient waarop u het copyright bezit, stemt u ermee in deze in licentie te geven onder [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) (“CC BY-SA 4.0”). Hergebruikers kunnen aan dezelfde licentie voldoen. Houd er rekening mee dat deze licentie commercieel gebruik van uw bijdragen toestaat, zolang dergelijk gebruik in overeenstemming is met de voorwaarden. 
+Als u ermee instemt brede toestemming te geven voor herbruikbaarheid van uw inhoud, moet u akkoord gaan met de volgende licentievereisten:
+- A. **Tekst waarop u het copyright bezit**: Wanneer u tekst indient waarop u het copyright bezit, stemt u ermee in deze in licentie te geven onder [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) (“CC BY-SA 4.0”). Hergebruikers kunnen aan dezelfde licentie voldoen. Houd er rekening mee dat deze licentie commercieel gebruik van uw bijdragen toestaat, zolang dergelijk gebruik in overeenstemming is met de voorwaarden.
+- B. **Naamsvermelding**: Naamsvermelding is een belangrijk onderdeel van de licentie. We beschouwen het als krediet geven wie ere toekomt - aan auteurs zoals jij. Wanneer u tekst bijdraagt, gaat u ermee akkoord om op een van de volgende manieren te worden toegeschreven:
 	- Via een hyperlink (waar mogelijk) of URL naar het artikel waaraan u hebt bijgedragen (aangezien elk artikel een geschiedenispagina heeft met alle auteurs en redacteuren);
+	- Via een hyperlink (waar mogelijk) of URL naar een alternatieve kopie in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), stabiele online kopieën die vrij toegankelijk zijn, die voldoen aan de licentie, en die de auteurs vermelden op een manier die gelijkwaardig is aan de vermelding op de website van Urantiapedia.
 - C. **Tekst importeren**: Je mag tekst importeren die je elders hebt gevonden of die je samen met anderen hebt geschreven, maar in dat geval garandeer je dat de tekst beschikbaar is onder voorwaarden die compatibel zijn met de CC BY-SA 4.0-licentie . U stemt ermee in dat u, als u tekst importeert onder een CC BY-SA-licentie waarvoor bronvermelding vereist is, de auteur(s) op een redelijke manier moet vermelden. 
 - D. **Niet-tekstuele media**: Niet-tekstuele media op Urantiapedia zijn beschikbaar onder verschillende licenties die het algemene doel ondersteunen om onbeperkt hergebruik en herdistributie toe te staan. Wanneer u niet-tekstuele media bijdraagt, stemt u ermee in te voldoen aan de vereisten voor dergelijke licenties.
-- e. **Geen intrekking van de licentie**: Behalve indien in overeenstemming met uw licentie, stemt u ermee in dat u niet eenzijdig enige licentie die u onder deze Gebruiksvoorwaarden hebt verleend voor tekstinhoud of niet-tekstuele media die zijn bijgedragen aan Urantiapedia, zal intrekken of ongeldig zal maken. , ook als u het gebruik van onze diensten beëindigt. 
+- E. **Geen intrekking van de licentie**: Behalve indien in overeenstemming met uw licentie, stemt u ermee in dat u niet eenzijdig enige licentie die u onder deze Gebruiksvoorwaarden hebt verleend voor tekstinhoud of niet-tekstuele media die zijn bijgedragen aan Urantiapedia, zal intrekken of ongeldig zal maken. , ook als u het gebruik van onze diensten beëindigt. 
 - F. **Inhoud in het publieke domein**: inhoud in het publieke domein is welkom! Het is echter belangrijk dat u de status van het publieke domein van de inhoud onder de wet van Spanje en de wetten van andere landen bevestigt. Wanneer u inhoud toevoegt die zich in het publieke domein bevindt, garandeert u dat het materiaal zich daadwerkelijk in het publieke domein bevindt en stemt u ermee in het op de juiste manier te labelen.
-- G. **Hergebruik**: Hergebruik van inhoud die we hosten is welkom, hoewel er uitzonderingen zijn voor inhoud die is bijgedragen onder "redelijk gebruik" of soortgelijke vrijstellingen onder de auteursrechtwetgeving. Elk hergebruik moet voldoen aan de onderliggende licentie(s). Wanneer u een tekstpagina die is ontwikkeld door de Urantiapedia-gemeenschap hergebruikt of herdistribueert, gaat u ermee akkoord de auteurs op een van de volgende manieren toe te kennen: 
-	- Via een hyperlink (waar mogelijk) of URL naar de pagina of pagina's waarnaar u verwijst gebruiken (aangezien elke pagina een geschiedenispagina heeft met alle auteurs en redacteuren);
-	- Via een hyperlink (waar mogelijk) of URL naar een alternatieve kopie in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), stabiele online kopieën die vrij toegankelijk zijn, die in overeenstemming zijn met de licentie, en die de auteurs vermelden op een manier die gelijkwaardig is aan de vermelding op de website van Urantiapedia.
+- G. **Hergebruik**: Hergebruik van inhoud die we hosten is welkom, hoewel er uitzonderingen zijn voor inhoud die is bijgedragen onder "redelijk gebruik" of soortgelijke vrijstellingen onder de auteursrechtwetgeving. Elk hergebruik moet voldoen aan de onderliggende licentie(s). Wanneer u een tekstpagina die is ontwikkeld door de Urantiapedia-gemeenschap hergebruikt of verspreidt, stemt u ermee in de auteurs op een van de volgende manieren toe te schrijven:
+	- Via een hyperlink (waar mogelijk) of URL naar de pagina of pagina's die u hergebruikt (aangezien elke pagina een geschiedenispagina heeft met alle auteurs en redacteuren);
+	- Via een hyperlink (waar mogelijk) of URL naar een alternatieve kopie in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) en [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), stabiele online kopieën die vrij toegankelijk zijn, die voldoen aan de licentie, en die de auteurs vermelden op een manier die gelijkwaardig is aan de vermelding op de website van Urantiapedia.
+	Als de tekstinhoud is geïmporteerd uit een andere bron, is het mogelijk dat de inhoud is gelicentieerd onder een compatibele CC BY-SA-licentie (zoals beschreven in "Tekst importeren" hierboven). In dat geval stemt u ermee in te voldoen aan de compatibele CC BY-SA-licentie. Om te bepalen welke licentie van toepassing is op de inhoud die u opnieuw wilt gebruiken of verspreiden, dient u de paginakoptekst te bekijken.
 	Houd er bovendien rekening mee dat tekst die afkomstig is van externe bronnen en is geïmporteerd in Urantiapedia mogelijk onder een licentie valt die aanvullende attributievereisten met zich meebrengt. Gebruikers gaan ermee akkoord deze aanvullende attributievereisten duidelijk aan te geven. Dergelijke vereisten kunnen voorkomen in de kop- of voettekst _Referenties_ notaties van een pagina om erop te wijzen dat een deel of alle inhoud oorspronkelijk elders is gepubliceerd. Als er dergelijke zichtbare aantekeningen zijn, moeten hergebruikers deze bewaren.
-	Voor alle niet-tekstuele media stemt u ermee in te voldoen aan de licentie waaronder het werk beschikbaar is gemaakt (die kan worden ontdekt door op de link te klikken die in het bijschrift van alle niet-tekstuele media zou moeten verschijnen en de licentie-informatie te zoeken ). Bij het hergebruiken van inhoud die we hosten, stemt u ermee in te voldoen aan de relevante attributievereisten zoals deze betrekking hebben op de onderliggende licentie of licenties. 
-- H. **Wijzigingen of toevoegingen aan materiaal dat u hergebruikt**: Bij het wijzigen of toevoegen aan tekst die u van Urantiapedia hebt verkregen, stemt u ermee in de gewijzigde of toegevoegde inhoud in licentie te geven onder CC BY-SA 4.0 of hoger.
+	Voor alle niet-tekstuele media stemt u ermee in te voldoen aan de licentie waaronder het werk beschikbaar is gemaakt (die kan worden ontdekt door op de link te klikken die in het bijschrift van alle niet-tekstuele media zou moeten verschijnen en de licentie-informatie te zoeken ). Bij het hergebruiken van inhoud die we hosten, stemt u ermee in te voldoen aan de relevante attributievereisten zoals deze betrekking hebben op de onderliggende licentie of licenties.
+- H. **Wijzigingen of toevoegingen aan materiaal dat u hergebruikt**: Bij het wijzigen of toevoegen aan tekst die u van Urantiapedia hebt verkregen, stemt u ermee in de gewijzigde of toegevoegde inhoud onder CC BY-SA 4.0 of hoger te licentiëren.
+	Bij het wijzigen of toevoegen van niet-tekstuele media die u van Urantiapedia hebt verkregen, stemt u ermee in de gewijzigde of toegevoegde inhoud in licentie te geven in overeenstemming met de licentie waaronder het werk beschikbaar is gesteld.
 	Bij zowel tekstinhoud als niet-tekstuele media stemt u ermee in duidelijk aan te geven dat het originele werk is gewijzigd. Als u tekstinhoud in een wiki hergebruikt, volstaat het om in de paginageschiedenis aan te geven dat u een wijziging in de geïmporteerde tekst heeft aangebracht. Voor elke kopie of gewijzigde versie die u verspreidt, stemt u ermee in een licentiekennisgeving op te nemen waarin staat onder welke licentie het werk is vrijgegeven, samen met een hyperlink of URL naar de tekst van de licentie of een kopie van de licentie zelf.
 
+## 8. Naleving van auteursrechten
 
-Urantiapedia wil ervoor zorgen dat de inhoud die we hosten kan worden hergebruikt door andere gebruikers zonder angst voor aansprakelijkheid en dat het geen inbreuk maakt op eigendomsrechten van anderen. Om eerlijk te zijn tegenover onze gebruikers, maar ook tegenover andere makers en auteursrechthouders, is het ons beleid om te reageren op meldingen van vermeende inbreuk op auteursrechtwetten. In overeenstemming met de auteursrechtwetten zullen we, in de juiste omstandigheden, gebruikers en accounthouders van ons systeem beëindigen die herhaaldelijk inbreuk maken. 
+Urantiapedia wil ervoor zorgen dat de inhoud die we hosten kan worden hergebruikt door andere gebruikers zonder angst voor aansprakelijkheid en dat het geen inbreuk maakt op eigendomsrechten van anderen. Om eerlijk te zijn tegenover onze gebruikers, maar ook tegenover andere makers en auteursrechthouders, is het ons beleid om te reageren op meldingen van vermeende inbreuk op auteursrechtwetten. In overeenstemming met de auteursrechtwetten zullen we, in de juiste omstandigheden, gebruikers en accounthouders van ons systeem beëindigen die herhaaldelijk inbreuk maken.
 
 We erkennen echter ook dat niet elk verwijderingsverzoek geldig of te goeder trouw is. In dergelijke gevallen raden we gebruikers ten zeerste aan om tegenmeldingen in te dienen wanneer ze terecht van mening zijn dat een verwijderingsverzoek wegens auteursrechtschending ongeldig of ongepast is.
 
-Als u de eigenaar bent van inhoud die ongepast wordt gebruikt op Urantiapedia zonder uw toestemming, kunt u verzoeken om de inhoud te verwijderen onder de auteursrechtwetten. Om een ​​dergelijk verzoek in te dienen, kunt u ons een e-mail sturen op urantiapedia@gmail.com. 
+Als u de eigenaar bent van inhoud die ongepast wordt gebruikt op Urantiapedia zonder uw toestemming, kunt u verzoeken om de inhoud te verwijderen onder de auteursrechtwetten. Om een dergelijk verzoek in te dienen, kunt u ons een e-mail sturen op urantiapedia@gmail.com.
 
-## 9. Websites en bronnen van derden 
+## 9. Websites en bronnen van derden
 
 U bent als enige verantwoordelijk voor uw gebruik van websites of bronnen van derden. Hoewel Urantiapedia links bevat naar websites en bronnen van derden, onderschrijven wij deze niet en zijn wij niet verantwoordelijk of aansprakelijk voor hun beschikbaarheid, nauwkeurigheid of de gerelateerde inhoud, producten of diensten (inclusief, maar niet beperkt tot, eventuele virussen of andere uitschakelende functies). , noch hebben we enige verplichting om dergelijke inhoud van derden te controleren.
 
+## 10. Beheer van websites
 
-De Urantiapedia-gemeenschap van bijdragers speelt de primaire rol bij het opstellen en afdwingen van beleid dat op haar van toepassing is. In een ongebruikelijk geval kunnen we een bijzonder problematische bijdragende gebruiker aanspreken vanwege aanzienlijke overlast of gevaarlijk gedrag. In dergelijke gevallen behouden we ons het recht voor, maar zijn niet verplicht om: 
-- Het gebruik van de service door bijdragers te onderzoeken (a) om te bepalen of er een schending van deze Gebruiksvoorwaarden of andere toepasselijke wetgeving of beleid heeft plaatsgevonden, of (b) om te voldoen aan toepasselijke wetgeving, juridische procedures of passend overheidsverzoeken; 
-- Een gebruiker verbieden om het account of de toegang van een gebruiker te bewerken of bij te dragen of te blokkeren voor acties die in strijd zijn met deze Gebruiksvoorwaarden, inclusief herhaalde inbreuk op het auteursrecht;
-- Juridische stappen ondernemen tegen gebruikers die deze Gebruiksvoorwaarden schenden (inclusief meldingen aan wetshandhavingsinstanties); en 
-- anderszins Urantiapedia beheren op een manier die is ontworpen om de goede werking ervan te vergemakkelijken en de rechten, eigendommen en veiligheid van onszelf en onze gebruikers, licentiegevers, partners en het publiek te beschermen. 
+De Urantiapedia-gemeenschap van bijdragers speelt de primaire rol bij het opstellen en afdwingen van beleid dat op haar van toepassing is. In een ongebruikelijk geval kunnen we een bijzonder problematische bijdragende gebruiker aanspreken vanwege aanzienlijke overlast of gevaarlijk gedrag. In dergelijke gevallen behouden wij ons het recht voor, maar zijn niet verplicht om:
+- Het gebruik van de service door bijdragers onderzoeken (a) om te bepalen of er een schending van deze Gebruiksvoorwaarden of andere toepasselijke wetgeving of beleid heeft plaatsgevonden, of (b) om te voldoen aan toepasselijke wetgeving, juridische procedures of passend overheidsverzoek;
+- Opsporen, voorkomen of anderszins aanpakken van fraude, beveiligings- of technische problemen of reageren op verzoeken om gebruikersondersteuning;
+- Weigeren, uitschakelen of beperken van de toegang tot de bijdrage van een gebruiker die deze Gebruiksvoorwaarden schendt;
+- Een gebruiker verbannen van het bewerken of bijdragen of het account of de toegang van een gebruiker blokkeren voor acties die in strijd zijn met deze Gebruiksvoorwaarden, inclusief herhaalde inbreuk op het auteursrecht;
+- Juridische stappen ondernemen tegen gebruikers die deze Gebruiksvoorwaarden schenden (inclusief meldingen aan wetshandhavingsinstanties); En
+- Urantiapedia anderszins beheren op een manier die is ontworpen om de goede werking ervan te vergemakkelijken en de rechten, eigendommen en veiligheid van onszelf en onze gebruikers, licentiegevers, partners en het publiek te beschermen.
 
-In het belang van onze gebruikers en het project, in de extreme omstandigheid dat een persoon zijn of haar account of toegang heeft geblokkeerd op grond van deze bepaling, is het hem of haar verboden om een ​​ander account aan te maken of te gebruiken op of toegang te vragen tot het project, tenzij wij geven uitdrukkelijk toestemming. 
+In het belang van onze gebruikers en het project, in de extreme omstandigheid dat een persoon zijn of haar account of toegang heeft geblokkeerd op grond van deze bepaling, is het hem of haar verboden om een ander account aan te maken of te gebruiken op of toegang te vragen tot het project, tenzij wij geven uitdrukkelijk toestemming.
 
 Het blokkeren van een account of toegang of het verbannen van een gebruiker op grond van deze bepaling is in overeenstemming met artikel 12 van deze Gebruiksvoorwaarden.
 
-## 11. Beleid 
+## 11. Urantiapedia-beleid
 
-van Urantiapedia Het bestuur van Urantiapedia kan van tijd tot tijd nieuw officieel beleid vrijgeven. U stemt ermee in zich hieraan te houden, voor zover van toepassing. 
+Het bestuur van Urantiapedia kan van tijd tot tijd nieuw officieel beleid vrijgeven. U stemt ermee in zich hieraan te houden, voor zover van toepassing.
 
 ## 12. Beëindiging
 
-Hoewel we hopen dat u blijft en blijft bijdragen aan Urantiapedia, kunt u op elk moment stoppen met het gebruik van onze diensten. In bepaalde (hopelijk onwaarschijnlijke) omstandigheden kan het nodig zijn dat wij onze diensten geheel of gedeeltelijk beëindigen, deze Gebruiksvoorwaarden beëindigen, uw account of toegang blokkeren of u als gebruiker verbannen. Als uw account of toegang om welke reden dan ook wordt geblokkeerd of anderszins wordt beëindigd, blijven uw openbare bijdragen openbaar beschikbaar (afhankelijk van het toepasselijke beleid), en, tenzij we u anders informeren, kunt u nog steeds toegang krijgen tot onze openbare pagina's met als enig doel om openbaar te lezen beschikbare inhoud op de site. In dergelijke omstandigheden heeft u echter mogelijk geen toegang tot uw account of instellingen. We behouden ons het recht voor om de services op elk moment op te schorten of te beëindigen, met of zonder reden en met of zonder kennisgeving.
+Hoewel we hopen dat u blijft en blijft bijdragen aan Urantiapedia, kunt u op elk moment stoppen met het gebruik van onze diensten. In bepaalde (hopelijk onwaarschijnlijke) omstandigheden kan het nodig zijn dat wij onze diensten geheel of gedeeltelijk beëindigen, deze Gebruiksvoorwaarden beëindigen, uw account of toegang blokkeren of u als gebruiker verbannen. Als uw account of toegang om welke reden dan ook wordt geblokkeerd of anderszins wordt beëindigd, blijven uw openbare bijdragen openbaar beschikbaar (afhankelijk van het toepasselijke beleid), en kunt u, tenzij we u anders informeren, nog steeds toegang krijgen tot onze openbare pagina's met als enig doel om openbaar te lezen beschikbare inhoud op de site. In dergelijke omstandigheden heeft u mogelijk geen toegang tot uw account of instellingen. We behouden ons het recht voor om de services op elk moment op te schorten of te beëindigen, met of zonder reden en met of zonder kennisgeving. Zelfs nadat uw gebruik en deelname zijn verbannen, geblokkeerd of anderszins opgeschort, blijven deze Gebruiksvoorwaarden van kracht met betrekking tot de relevante bepalingen, waaronder secties 1, 3, 4, 6, 7, 9-15 en 17.
 
 ## 13. Geschillen en jurisdictie 
 

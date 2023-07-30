@@ -171,5 +171,3 @@ Publication of information found in Urantiapedia may be in violation of the laws
 #### Not professional advice
 
 If you need specific advice (for example, medical, legal, financial, or risk management), please seek a professional who is licensed or knowledgeable in that area.
-
-

@@ -28,43 +28,54 @@ Fordi alle (ikke kun advokater) nemt skal kunne forstå, hvordan og hvorfor dere
 
 Når vi siger... | …vi mener: 
 --- | --- 
-"Urantiapedia" / "vi" / "os" / "vores" | Teamlederne for Urantiapedia-projektet.
-"Urantiapedia site" / "vores tjenester" | Urantiapedia-webstedet og -tjenester (uanset sprog) for Urantiapedia-projektet, herunder [primær Urantiapedia-websted](https://urantiapedia.org) og de alternative kopier i GitHub ([Urantiapedia Main projekt](https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup)), samt Application Programming Interfaces (API'er), e-mails og meddelelser; dog med undtagelse af websteder og tjenester, der er anført i afsnittet "Hvad denne privatlivspolitik ikke dækker" nedenfor.
+"Urantiapedia" / "vi" / "os" / "vores" | Teamlederne for Urantiapedia-projektet. 
+"Urantiapedia site" / "vores tjenester" | Urantiapedia-webstedet og -tjenester (uanset sprog) for Urantiapedia-projektet, inklusive [primær Urantiapedia-websted](https://urantiapedia.org) og de alternative kopier i GitHub ([Urantiapedia-hovedprojekt](https://github. com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup)), samt applikationsprogrammeringsgrænseflader (API'er), e-mails og meddelelser; dog med undtagelse af websteder og tjenester, der er anført i afsnittet "Hvad denne privatlivspolitik ikke dækker" nedenfor.
 "dig" / "din" / "mig" | Dig, uanset om du er en enkeltperson, gruppe eller organisation, og uanset om du bruger Urantiapedia eller vores tjenester på vegne af dig selv eller en anden.
+"denne politik" / "denne privatlivspolitik" | Dette dokument med titlen "Urantiapedia Privatlivspolitik". 
+"bidrag" | Indhold, du tilføjer, eller ændringer, du foretager på Urantiapedia.
 "Personlige oplysninger" | Oplysninger, du giver os, eller oplysninger, vi indsamler, som kan bruges til at identificere dig personligt. For at være klar, selvom vi ikke nødvendigvis indsamler alle de følgende typer oplysninger, anser vi i det mindste følgende for at være "personlige oplysninger", hvis de ellers er ikke-offentlige og kan bruges til at identificere dig:<br/>(a) dit rigtige navn, adresse, telefonnummer, e-mailadresse, adgangskode, identifikationsnummer på offentligt udstedt ID, IP-adresse, brugeragentoplysninger, betalingskontonummer;<br/>(b) når det er forbundet med et af punkterne i underafsnit (a), alle følsomme data såsom fødselsdato, køn, seksuel orientering, race eller etnisk oprindelse, ægteskabelig eller familiær status, medicinske tilstande eller handicap, politisk tilhørsforhold og religion.
-"tredje part" / "tredje part" | Enkeltpersoner, enheder, websteder, tjenester, produkter og applikationer, der ikke kontrolleres, administreres eller drives af Urantiapedia. Dette inkluderer andre Urantiapedia-brugere og uafhængige organisationer eller grupper, der hjælper med at fremme Urantiapedia-bevægelsen, såsom Urantia Book-organisationer, og brugergrupper såvel som frivillige, ansatte, direktører, officerer, bevillingsmodtagere og kontrahenter for disse organisationer eller grupper. 
+"tredje part" / "tredje part" | Enkeltpersoner, enheder, websteder, tjenester, produkter og applikationer, der ikke kontrolleres, administreres eller drives af Urantiapedia. Dette inkluderer andre Urantiapedia-brugere og uafhængige organisationer eller grupper, der hjælper med at fremme Urantiapedia-bevægelsen, såsom _Urantia Book_-organisationer, og brugergrupper samt frivillige, ansatte, direktører, officerer, bevillingsmodtagere og kontrahenter for disse organisationer eller grupper. 
 
+### Hvad denne privatlivspolitik dækker og ikke dækker
 
 Bortset fra som forklaret nedenfor, gælder denne fortrolighedspolitik for vores indsamling og håndtering af oplysninger om dig, som vi modtager som følge af din brug af Urantiapedia-webstedet. Denne politik gælder også for oplysninger, som vi modtager fra vores partnere eller andre tredjeparter. For at forstå mere om, hvad denne privatlivspolitik dækker, se venligst nedenfor.
 
 #### Eksempler på, hvad denne privatlivspolitik dækker 
 
 For overskuelighedens skyld dækker denne privatlivspolitik, uanset sprog: 
-
-- Vores alternative kopier i GitHub, [Urantiapedia hovedprojekt](https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup). 
+ 
+- [Vores hovedwebsted](https://urantiapedia.org). 
+- Vores alternative kopier i GitHub, [Urantiapedia Hovedprojekt](https://github.com/JanHerca/urantiapedia) og [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup).
 - Vores API'er (medmindre vi har angivet en separat politik for disse tjenester). 
-- E-mails, SMS og notifikationer fra os eller sendt til os fra dig.
+- E-mails, SMS og notifikationer fra os eller sendt til os fra dig. 
 
 Denne privatlivspolitik dækker dog ikke nogle situationer, hvor vi kan indsamle eller behandle oplysninger. For eksempel websteder eller tjenester, der drives af tredjeparter. For at forstå mere om, hvad denne privatlivspolitik ikke dækker, se venligst nedenfor. 
 
+#### Mere om, hvad denne privatlivspolitik ikke dækker. 
 
-Dette afsnit er en del af fortrolighedspolitikken og er beregnet til at forklare detaljeret, hvilke situationer der ikke er dækket af vores privatlivspolitik. 
+Dette afsnit er en del af fortrolighedspolitikken og har til formål at forklare detaljeret, hvilke situationer der ikke er dækket af vores privatlivspolitik. 
 
-##### Fællesskabsmedlemmer 
+##### Fællesskabsmedlemmer
 
+Urantiapedia-webstedet er et samarbejde om kærlighed, der konstant vedligeholdes og opdateres af et globalt samfund af frivillige. Dette globale samfund af frivillige kan nogle gange have adgang til personlige oplysninger for at sikre, at Urantiapedia-webstedet fungerer. 
 - **Administrative frivillige**. Disse er frivillige, der håndhæver Urantiapedia-webstedets politikker og sikrer sikkerheden på Urantiapedia-webstedet. Når disse administratorer får adgang til personlige oplysninger, der er ikke-offentlige, er de forpligtet til at overholde vores politik om adgang til ikke-offentlige oplysninger samt andre værktøjsspecifikke politikker.
 - **Andre brugere**. Vi tilbyder flere værktøjer, der giver brugerne mulighed for at kommunikere med hinanden. Kommunikationen kan være dækket af denne politik, mens de passerer gennem vores systemer, men de brugere, der modtager denne kommunikation, og hvad de gør med kommunikationen, når de modtager dem, er ikke dækket af denne politik. Eksempler inkluderer: 
     - udstationering af beskeder i WhatsApp Urantiapedia-grupper; 
     - ved at bruge [Trello](https://trello.com/) til projektplanlægning og -styring. 
 
-##### Tredjeparter 
+##### Tredje partier
 
-Denne privatlivspolitik dækker kun den måde, Urantiapedia indsamler, bruger og videregiver personlige oplysninger og omhandler ikke tredjeparters praksis. For eksempel omhandler denne privatlivspolitik ikke praksis for:
+Denne privatlivspolitik dækker kun den måde, Urantiapedia indsamler, bruger og videregiver personlige oplysninger og omhandler ikke tredjeparters praksis. For eksempel omhandler denne privatlivspolitik ikke praksisser for:
+- **Mobilapplikationer leveret af andre organisationer eller enkeltpersoner**. Disse organisationer eller enkeltpersoner kan modtage information fra dig, hvis du bruger disse applikationer til at få adgang til Urantiapedia-webstedets indhold. De er styret af deres egne privatlivspolitikker.
+- **Websteder drevet af andre organisationer**, f.eks. websteder, der linkes til fra "Referencer"-sektionerne på Urantiapedia, eller drevet af andre bevægelsesorganisationer. Disse organisationer kan modtage information fra dig, hvis du besøger deres websteder efter at have brugt Urantiapedia. De er styret af deres egne privatlivspolitikker. 
 
+## Indsamling og brug af oplysninger 
 
+### Typer af oplysninger, vi modtager fra dig, og hvordan vi får dem 
 
-
-Når du giver et bidrag til Urantiapedia-webstedet, herunder på kommentarsektioner, opretter du en permanent, offentlig registrering af hvert stykke indhold, der tilføjes, fjernes eller ændres af dig. Sidehistorikken vil vise, hvornår dit bidrag eller sletning blev foretaget, samt dit brugernavn. Vi kan bruge dine offentlige bidrag, enten samlet med andres offentlige bidrag eller individuelt, til at skabe nye funktioner eller datarelaterede produkter til dig eller for at lære mere om, hvordan Urantiapedia-webstedet bruges, som yderligere forklaret nedenfor i "Sådan bruger vi Oplysninger, vi modtager fra dig" i denne privatlivspolitik. 
+#### Dine offentlige bidrag
+ 
+Når du giver et bidrag til Urantiapedia-webstedet, herunder på kommentarsektioner, opretter du en permanent, offentlig registrering af hvert stykke indhold tilføjet, fjernet eller ændret af dig. Sidehistorikken vil vise, hvornår dit bidrag eller sletning blev foretaget, samt dit brugernavn. Vi kan bruge dine offentlige bidrag, enten samlet med andres offentlige bidrag eller individuelt, til at skabe nye funktioner eller datarelaterede produkter til dig eller for at lære mere om, hvordan Urantiapedia-webstedet bruges, som yderligere forklaret nedenfor i "Sådan bruger vi Oplysninger, vi modtager fra dig" i denne privatlivspolitik. 
 
 #### Offentligt synlig information
 
@@ -86,13 +97,13 @@ Hvis du giver dit samtykke, kan vi bruge GPS (og andre teknologier, der almindel
 
 ### Oplysninger relateret til din brug af Urantiapedia-webstedet
 
-Vi ønsker at gøre Urantiapedia-webstedet bedre for dig ved at lære mere om, hvordan du bruger dem. Eksempler på dette kan omfatte, hvor ofte du besøger Urantiapedia-webstedet, hvad du kan lide, hvad du finder nyttigt, hvordan du kommer til Urantiapedia-webstedet, og om du ville bruge en nyttig funktion mere, hvis vi forklarede det anderledes. Vi ønsker også, at denne politik og vores praksis skal afspejle vores samfunds værdier. Af denne grund holder vi oplysninger relateret til din brug af Urantiapedia-webstedet fortrolige, undtagen som angivet i denne politik. 
+Vi ønsker at gøre Urantiapedia-webstedet bedre for dig ved at lære mere om, hvordan du bruger dem. Eksempler på dette kan omfatte, hvor ofte du besøger Urantiapedia-webstedet, hvad du kan lide, hvad du finder nyttigt, hvordan du kommer til Urantiapedia-webstedet, og om du ville bruge en nyttig funktion mere, hvis vi forklarede det anderledes. Vi ønsker også, at denne politik og vores praksis skal afspejle vores samfunds værdier. Af denne grund holder vi oplysninger relateret til din brug af Urantiapedia-webstedet fortrolige, undtagen som angivet i denne politik.
 
 #### Oplysninger, vi modtager automatisk
 
 På grund af hvordan browsere fungerer, modtager vi nogle oplysninger automatisk, når du besøger Urantiapedia-webstedet. Dette inkluderer, når du bruger et onlineværktøj på et tredjepartswebsted, der indlæser oplysninger, der kommer fra Urantiapedia-webstedet. Disse oplysninger omfatter den type enhed, du bruger, typen og versionen af ​​din browser, din browsers sprogpræference, typen og versionen af ​​din enheds operativsystem, i nogle tilfælde navnet på din internetudbyder eller mobiludbyder, webstedet der henviste dig til Urantiapedia-webstedet, hvilke sider du anmoder om og besøger, og datoen og klokkeslættet for hver anmodning, du foretager til Urantiapedia-webstedet.
 
-Kort sagt bruger vi disse oplysninger til at forbedre din oplevelse med Urantiapedia-webstedet. For eksempel bruger vi disse oplysninger til at administrere siden, give større sikkerhed og bekæmpe hærværk; optimere mobilapplikationer, tilpasse indhold og indstille sprogpræferencer, teste funktioner for at se, hvad der virker, og forbedre ydeevnen; forstå, hvordan brugere interagerer med Urantiapedia-webstedet, spore og studere brugen af ​​forskellige funktioner, få forståelse for demografien på Urantiapedia-webstedet og analysere tendenser. 
+Kort sagt bruger vi disse oplysninger til at forbedre din oplevelse med Urantiapedia-webstedet. For eksempel bruger vi disse oplysninger til at administrere siden, give større sikkerhed og bekæmpe hærværk; optimere mobilapplikationer, tilpasse indhold og indstille sprogpræferencer, teste funktioner for at se, hvad der virker, og forbedre ydeevnen; forstå, hvordan brugere interagerer med Urantiapedia-webstedet, spore og studere brugen af ​​forskellige funktioner, få forståelse for demografien på Urantiapedia-webstedet og analysere tendenser.
 
 #### Oplysninger, vi indsamler
 
@@ -109,15 +120,17 @@ Vi bruger disse oplysninger til at gøre din oplevelse med Urantiapedia-webstede
 Vi og vores tjenesteudbydere bruger dine oplysninger til det legitime formål at forfølge vores velgørende mission, herunder: 
 - Drift af Urantiapedia-webstedet, deling af dine bidrag og administration af vores tjenester. 
     - For at hjælpe dig med at dele din _Urantia Book_ viden med verden og tilføje nye funktioner til vores tjenester. 
-    - At arrangere adgang til din konto og give dig relaterede tjenester. 
+    - At arrangere adgang til din konto og give dig relaterede tjenester.
     - For at sende administrative oplysninger til dig, såsom ændringer i vores politikker. 
-    Vi deltager i disse aktiviteter for at administrere vores forhold til dig, fordi vi har en legitim interesse og/eller for at overholde vores juridiske forpligtelser.
+    Vi deltager i disse aktiviteter for at administrere vores forhold til dig, fordi vi har en legitim interesse og/eller for at overholde vores juridiske forpligtelser. 
+- Levering af skræddersyede tjenester.
     - For at give dig tilpasset indhold, meddelelser og indstillinger og for at forbedre din oplevelse med Urantiapedia-webstedet. 
     Vi vil tilpasse Tjenesterne, i nogle tilfælde, med dit samtykke; eller i overensstemmelse med vores legitime interesse. 
 - Sende e-mails med nyhedsopdateringer og kommunikation om emner, som vi mener kan være interessante for dig. 
     - At fortælle dig om ting, der sker med Urantiapedia-webstedet eller Urantiapedia-bevægelsen. 
     Vi sender kun disse typer e-mails til dig med dit samtykke, medmindre andet er tilladt i henhold til gældende lovgivning. Vi hverken sælger, udlejer eller bruger din e-mailadresse til at reklamere for tredjepartsprodukter eller -tjenester til dig.
-    - At bruge dine offentlige bidrag, enten aggregeret med andres offentlige bidrag eller individuelt, til at skabe nye funktioner eller datarelaterede produkter til dig eller for at lære mere om, hvordan Urantiapedia-webstedet bruges. 
+- Forbedring af Urantiapedia-webstedet og gør din brugeroplevelse sikrere og bedre. 
+    - At bruge dine offentlige bidrag, enten aggregeret med andres offentlige bidrag eller individuelt, til at skabe nye funktioner eller datarelaterede produkter til dig eller for at lære mere om, hvordan Urantiapedia-webstedet bruges.
     - For at bekæmpe spam, identitetstyveri, malware og andre former for misbrug. 
     - At optimere mobil og andre applikationer. 
     - For at teste funktioner for at se, hvad der virker, forstå, hvordan brugere interagerer med Urantiapedia-webstedet, spore og studere brugen af ​​forskellige funktioner, få forståelse for demografien på Urantiapedia-webstedet og analysere tendenser. 
@@ -190,8 +203,9 @@ Vi er stærkt forpligtet til at beskytte brugernes personlige oplysninger. I hen
 
 Fordi vi beskytter alle brugere i overensstemmelse med denne privatlivspolitik, ændrer vi ikke vores adfærd som svar på en webbrowsers "spor ikke"-signal. 
 
-### Ændringer til denne fortrolighedspolitik
+### Ændringer i denne privatlivspolitik 
 
+Fordi tingene naturligt ændrer sig over tid, og vi ønsker at sikre, at vores privatlivspolitik nøjagtigt afspejler vores praksis og loven, kan det være nødvendigt at ændre denne fortrolighedspolitik fra tid til anden. Vi forbeholder os retten til at gøre det på følgende måde:
 - I tilfælde af væsentlige ændringer vil vi levere de foreslåede ændringer til vores brugere på mindst tre (3) sprog (valgt efter vores skøn) i en åben kommentarperiode, der varer mindst tredive (30) kalenderdage. Forud for starten af ​​enhver kommentarperiode vil vi give meddelelse om sådanne ændringer og mulighed for at kommentere via en meddelelse på urantiapedia@gmail.com. 
 - For mindre ændringer, såsom grammatiske rettelser, administrative eller juridiske ændringer eller rettelser af unøjagtige udsagn, vil vi offentliggøre ændringerne og, når det er muligt, give mindst tre (3) kalenderdages forudgående varsel via meddelelse til bidragyderes e-mail eller bidragydere WhatsApp-chatgrupper.
 
@@ -205,8 +219,8 @@ Hvis du har spørgsmål eller forslag til denne privatlivspolitik eller de oplys
 
 Tak, fordi du læste vores privatlivspolitik. Vi håber, du nyder at bruge Urantiapedia-webstedet og værdsætter din deltagelse i at skabe, vedligeholde og konstant arbejde på at forbedre dette gratis videnlager om **The Fifth Epochal Revelation of the World**.
 
-**Bemærk venligst, at i tilfælde af forskelle i betydning eller fortolkning mellem den originale engelske version af denne fortrolighedspolitik og en oversættelse, har den originale engelske version forrang.** 
+**Bemærk venligst, at i tilfælde af forskelle i betydning eller fortolkning mellem den originale engelske version af denne fortrolighedspolitik og en oversættelse, har den originale engelske version forrang.** --- Vend tilbage til siden med resumé 
 
---- 
+om 
 
-Vend tilbage til siden med resumé om [Licens, Vilkår af brug og andre juridiske oplysninger](/da/license).
+[Licens, Vilkår af brug og andre juridiske oplysninger](/da/license).

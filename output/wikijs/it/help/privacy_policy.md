@@ -29,12 +29,12 @@ Poiché tutti (non solo gli avvocati) dovrebbero essere in grado di comprendere 
 Quando diciamo… | …noi intendiamo:
 --- | ---
 "Urantiapedia" / "noi" / "noi" / "nostro" | I capisquadra del progetto Urantiapedia.
-"Sito Urantiapedia" / "i nostri servizi" | Sito web e servizi di Urantiapedia (indipendentemente dalla lingua) del progetto Urantiapedia, incluso il [sito web principale di Urantiapedia](https://urantiapedia.org), e le copie alternative in GitHub ([progetto principale di Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Progetto Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup)), così come le interfacce di programmazione dell'applicazione (API), e-mail e notifiche; esclusi, tuttavia, i siti e i servizi elencati nella sezione "Cosa non copre questa informativa sulla privacy" di seguito.
+"Sito Urantiapedia" / "i nostri servizi" | Sito web e servizi di Urantiapedia (indipendentemente dalla lingua) del progetto Urantiapedia, incluso il [sito web principale di Urantiapedia](https://urantiapedia.org), e le copie alternative in GitHub ([progetto principale di Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Progetto Urantiapedia Backup](https://github.com/JanHerca/urantiapedia-backup)), così come API, e-mail e notifiche; esclusi, tuttavia, i siti e i servizi elencati nella sezione "Cosa non copre questa informativa sulla privacy" di seguito.
 "tu" / "tuo" / "me" | Tu, indipendentemente dal fatto che tu sia un individuo, un gruppo o un'organizzazione, e indipendentemente dal fatto che tu stia usando Urantiapedia oi nostri servizi per conto tuo o di qualcun altro.
 "questa politica" / "questa politica sulla privacy" | Questo documento, intitolato "Politica sulla privacy di Urantiapedia".
 "contributi" | Contenuti che aggiungete o modifiche che apportate a Urantiapedia.
 "Informazioni personali" | Informazioni che ci fornisci o informazioni che raccogliamo che potrebbero essere utilizzate per identificarti personalmente. Per essere chiari, anche se non raccogliamo necessariamente tutti i seguenti tipi di informazioni, consideriamo almeno le seguenti "informazioni personali" se sono altrimenti non pubbliche e possono essere utilizzate per identificarti:<br/>(a) il tuo vero nome, indirizzo, numero di telefono, indirizzo e-mail, password, numero di identificazione su documento d'identità rilasciato dal governo, indirizzo IP, informazioni sullo user-agent, numero di conto di pagamento;<br/>(b) se associato a uno degli elementi nella sottosezione (a), qualsiasi dato sensibile come data di nascita, sesso, orientamento sessuale, origini razziali o etniche, stato civile o familiare, condizioni mediche o disabilità, affiliazione politica e religione.
-"terze parti" / "terze parti" | Individui, entità, siti web, servizi, prodotti e applicazioni che non sono controllati, gestiti o operati da Urantiapedia. Ciò include altri utenti di Urantiapedia e organizzazioni o gruppi indipendenti che aiutano a promuovere il movimento di Urantiapedia come le organizzazioni del Libro di Urantia e gruppi di utenti così come volontari, impiegati, direttori, funzionari, beneficiari di sovvenzioni e appaltatori di tali organizzazioni o gruppi.
+"terze parti" / "terze parti" | Individui, entità, siti web, servizi, prodotti e applicazioni che non sono controllati, gestiti o operati da Urantiapedia. Ciò include altri utenti di Urantiapedia e organizzazioni o gruppi indipendenti che aiutano a promuovere il movimento di Urantiapedia come organizzazioni del _Libro di Urantia_ e gruppi di utenti così come volontari, impiegati, direttori, funzionari, beneficiari di sovvenzioni e appaltatori di tali organizzazioni o gruppi.
 
 ### Cosa copre e cosa non copre questa politica sulla privacy
 
@@ -44,7 +44,7 @@ Ad eccezione di quanto spiegato di seguito, questa politica sulla privacy si app
 
 Per motivi di chiarezza, la presente Informativa sulla privacy copre, indipendentemente dalla lingua:
 
-- Il nostro sito [web principale](https://urantiapedia.org).
+- [Il nostro sito web principale](https://urantiapedia.org).
 - Le nostre copie alternative in GitHub, [Progetto principale di Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Progetto di backup di Urantiapedia](https://github.com/JanHerca/urantiapedia-backup).
 - Le nostre API (a meno che non abbiamo fornito una politica separata per tali servizi).
 - E-mail, SMS e notifiche da noi o inviateci da te.

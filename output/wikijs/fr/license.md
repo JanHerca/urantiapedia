@@ -60,13 +60,13 @@ Le contenu soumis à des restrictions dues aux droits d'auteur est identifié pa
 
 
 - Le Livre d'Urantia (toutes les traductions de l'anglais) est la propriété de la [Fondation Urantia](https://www.urantia.org/). 
-- _Paramony_, l'index de références croisées entre la Bible et _Le Livre d'Urantia_ qui apparaît en notes de bas de page dans _Le Livre d'Urantia_ et les pages de la Bible (dans toutes les langues), est la propriété de [Duane L. Faw and The Urantia Book Fellowship](https:// urantia-book.org/urantiabook/paramony/). 
-- Les articles de [Innerface International](/fr/index/articles_innerface) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
-- Les articles du [Journal Urantian](/fr/index/articles_the_urantian) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Les articles du [Followship Journal](/fr/index/articles_spirtual_fellowship_journal) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
-- Les articles de [Fellowship Herald](/fr/index/articles_herald) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Les articles de [UB Annotated & UBTheNews](/fr/index/articles#ub-annotaded-ubthenews) (dans toutes les langues) sont la propriété de [Halbert Katzen](https://ubannotated.com/).
-- Les articles de [Jan Herca](/fr/index/articles#articles-from-jan-herca) (dans toutes les langues) sont la propriété de [Jan Herca](https://buscandoajesus.wordpress.com) et sont disponibles sous la [licence Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).  
+- _Paramony_, l'index de références croisées entre la Bible et _Le Livre d'Urantia_ qui apparaît en notes de bas de page dans _Le Livre d'Urantia_ et les pages de la Bible (dans toutes les langues), est la propriété de [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/). 
+- Les articles de [Innerface International](/en/index/articles_innerface) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
+- Les articles du [Journal Urantian](/en/index/articles_the_urantian) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Les articles du [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
+- Les articles de [Fellowship Herald](/en/index/articles_herald) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Les articles de [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (dans toutes les langues) sont la propriété de [Halbert Katzen](https://ubannotated.com/).
+- Les articles de [Jan Herca](/en/index/articles#articles-from-jan-herca) (dans toutes les langues) sont la propriété de [Jan Herca](https://buscandoajesus.wordpress.com) et sont disponibles sous la [licence Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).  
 - La Bible, toutes les traductions utilisées, proviennent de versions du domaine public. Les informations sur la version du domaine public utilisée pour chaque langue se trouvent sur la première page de chaque livre de la Bible.
 - Les autres articles n'appartenant pas aux groupes précédents (dans toutes les langues) sont la propriété des auteurs indiqués. 
 - Les aides à l'étude de [William S. Sadler](/fr/article/William_S_Sadler) et [William S. Sadler Jr.](/fr/article/William_S_Sadler_Jr) (dans toutes les langues) sont la propriété de la [Fondation Urantia](https : //www.urantia.org/).
@@ -77,7 +77,7 @@ Le contenu soumis à des restrictions dues aux droits d'auteur est identifié pa
 
 - Le Livre d'Urantia (en anglais) est dans le domaine public depuis 2006. 
 Il s'agit d'un résumé lisible par l'homme des conditions d'utilisation. Pour lire l'intégralité des conditions, vous pouvez les consulter ici : [Conditions d'utilisation](/fr/help/terms_of_use).
-- Les livres répertoriés comme [sources supposées du Livre d'Urantia](/fr/book#books-supposed-to-be-sources) sont tous en anglais et dans le domaine public. Les traductions fournies sont mises à disposition sous la licence générale CC-BY-SA-4.0 du site. 
+- Les livres répertoriés comme [sources supposées du Livre d'Urantia](/en/book#books-supposed-to-be-sources) sont tous en anglais et dans le domaine public. Les traductions fournies sont mises à disposition sous la licence générale CC-BY-SA-4.0 du site. 
 - Certaines illustrations pour _Le Livre d'Urantia_ sont dans le domaine public. 
 
 ### Conditions d'utilisation 
@@ -172,4 +172,3 @@ La publication d'informations trouvées dans Urantiapedia peut être en violatio
 #### Conseils non professionnels 
 
 Si vous avez besoin de conseils spécifiques (par exemple, médicaux, juridiques, financiers ou de gestion des risques), veuillez consulter un professionnel agréé ou compétent dans ce domaine.
-

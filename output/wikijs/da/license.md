@@ -60,15 +60,15 @@ Indholdet med begrænsninger på grund af ophavsret er identificeret af en [opha
 #### Ophavsretligt beskyttet indhold
 
 - Urantia-bogen (alle oversættelser fra engelsk) er copyright tilhørende [Urantia Foundation](https://www.urantia.org/).
-- _Paramony_, krydsreferenceindekset mellem Bibelen og _The Urantia Book_, der vises som fodnoter i _The Urantia Book_ og bibelsider (på alle sprog), er copyright af [Duane L. Faw og The Urantia Book Fellowship](https:// urantia-book.org/urantiabook/paramony/).
-- Artikler fra [Innerface International](/da/index/articles_innerface) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikler fra [Urantian Journal](/da/index/articles_the_urantian) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikler fra [Followship Journal](/da/index/articles_spirtual_fellowship_journal) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikler fra [Fellowship Herald](/da/index/articles_herald) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikler fra [UB Annotated & UBTheNews](/da/index/articles#ub-annotaded-ubthenews) (på alle sprog) er copyright tilhørende [Halbert Katzen](https://ubannotated.com/).
-- Artikler fra [Jan Herca](/da/index/articles#articles-from-jan-herca) (på alle sprog) er copyright tilhørende [Jan Herca](https://buscandoajesus.wordpress.com) og er tilgængelige under [Creative Commons Attribution-ShareAlike-licensen](https://creativecommons.org/licenses/by-sa/4.0/).
+- _Paramony_, krydsreferenceindekset mellem Bibelen og _The Urantia Book_, der vises som fodnoter i _The Urantia Book_ og bibelsider (på alle sprog), er copyright af [Duane L. Faw og The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
+- Artikler fra [Innerface International](/en/index/articles_innerface) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikler fra [Urantian Journal](/en/index/articles_the_urantian) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikler fra [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikler fra [Fellowship Herald](/en/index/articles_herald) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikler fra [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (på alle sprog) er copyright tilhørende [Halbert Katzen](https://ubannotated.com/).
+- Artikler fra [Jan Herca](/en/index/articles#articles-from-jan-herca) (på alle sprog) er copyright tilhørende [Jan Herca](https://buscandoajesus.wordpress.com) og er tilgængelige under [Creative Commons Attribution-ShareAlike-licensen](https://creativecommons.org/licenses/by-sa/4.0/).
 - Andre artikler, der ikke tilhører tidligere grupper (på alle sprog), er ophavsret til de angivne forfattere.
-- Studiehjælpemidler fra [William S. Sadler](/da/article/William_S_Sadler) og [William S. Sadler Jr.](/da/article/William_S_Sadler_Jr) (på alle sprog) er copyright tilhørende [Urantia Foundation](https://www.urantia.org/).
+- Studiehjælpemidler fra [William S. Sadler](/en/article/William_S_Sadler) og [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (på alle sprog) er copyright tilhørende [Urantia Foundation](https://www.urantia.org/).
 - Andre studiehjælpemidler, der ikke tilhører tidligere grupper (på alle sprog), er ophavsret til de angivne forfattere.
 - Nogle illustrationer til _The Urantia Book_ er copyright tilhørende [Gary Tonge](https://visionafar.com).
 
@@ -76,7 +76,7 @@ Indholdet med begrænsninger på grund af ophavsret er identificeret af en [opha
 
 - Urantia-bogen (på engelsk) er i Public Domain fra 2006.
 - Bibelen, alle anvendte oversættelser, er fra versioner i Public Domain. Oplysningerne om Public Domain-versionen, der bruges til hvert sprog, kan findes på forsiden af ​​hver bibelbog.
-- Bøger opført som [formodede kilder til Urantia Book](/da/book#books-supposed-to-be-sources) er alle på engelsk og i det offentlige område. Oversættelser stilles til rådighed under webstedets generelle CC-BY-SA-4.0-licens.
+- Bøger opført som [formodede kilder til Urantia Book](/en/book#books-supposed-to-be-sources) er alle på engelsk og i det offentlige område. Oversættelser stilles til rådighed under webstedets generelle CC-BY-SA-4.0-licens.
 - Nogle illustrationer til _The Urantia Book_ er i det offentlige område.
 
 ### Vilkår for brug
@@ -172,4 +172,3 @@ Offentliggørelse af oplysninger fundet i Urantiapedia kan være i strid med lov
 #### Ikke professionel rådgivning
 
 Hvis du har brug for specifik rådgivning (f.eks. medicinsk, juridisk, finansiel eller risikostyring), bedes du søge en professionel, der er autoriseret eller vidende på dette område.
-

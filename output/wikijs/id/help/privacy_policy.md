@@ -34,7 +34,7 @@ Ketika kita mengatakan… | … maksud kami:
 "Kebijakan ini" / "Kebijakan Privasi ini" | Dokumen ini berjudul "Kebijakan Privasi Urantiapedia".
 "kontribusi" | Konten yang Anda tambahkan atau perubahan yang Anda buat di Urantiapedia.
 "Informasi pribadi" | Informasi yang Anda berikan kepada kami atau informasi yang kami kumpulkan yang dapat digunakan untuk mengidentifikasi Anda secara pribadi. Agar jelas, meskipun kami tidak selalu mengumpulkan semua jenis informasi berikut, kami menganggap setidaknya informasi berikut ini sebagai "informasi pribadi" jika tidak bersifat publik dan dapat digunakan untuk mengidentifikasi Anda:<br/>(a) nama asli, alamat, nomor telepon, alamat email, kata sandi, nomor identifikasi pada tanda pengenal yang dikeluarkan pemerintah, alamat IP, informasi agen pengguna, nomor rekening pembayaran;<br/>(b) jika dikaitkan dengan salah satu item dalam subbagian (a), setiap data sensitif seperti tanggal lahir, jenis kelamin, orientasi seksual, asal ras atau etnis, status perkawinan atau keluarga, kondisi atau kecacatan medis, afiliasi politik, dan agama.
-"pihak ketiga" / "pihak ketiga" | Individu, entitas, situs web, layanan, produk, dan aplikasi yang tidak dikendalikan, dikelola, atau dioperasikan oleh Urantiapedia. Ini termasuk pengguna Urantiapedia lain dan organisasi atau kelompok independen yang membantu mempromosikan gerakan Urantiapedia seperti organisasi Buku Urantia, dan kelompok pengguna serta sukarelawan, karyawan, direktur, pejabat, penerima hibah, dan kontraktor dari organisasi atau kelompok tersebut.
+"pihak ketiga" / "pihak ketiga" | Individu, entitas, situs web, layanan, produk, dan aplikasi yang tidak dikendalikan, dikelola, atau dioperasikan oleh Urantiapedia. Ini termasuk pengguna Urantiapedia lain dan organisasi atau kelompok independen yang membantu mempromosikan gerakan Urantiapedia seperti organisasi _Urantia Book_, dan kelompok pengguna serta sukarelawan, karyawan, direktur, pejabat, penerima hibah, dan kontraktor dari organisasi atau kelompok tersebut.
 
 ### Apa yang Dicakup & Tidak Dicakup oleh Kebijakan Privasi Ini
 
@@ -44,8 +44,8 @@ Kecuali seperti yang dijelaskan di bawah ini, Kebijakan Privasi ini berlaku untu
 
 Demi kejelasan, Kebijakan Privasi ini mencakup, apa pun bahasanya:
 
-- Website utama kami (https://urantiapedia.org).
-- Salinan alternatif kami di GitHub, [Proyek Utama Urantiapedia](https://github.com/JanHerca/urantiapedia) dan [Proyek Pencadangan Urantiapedia](https://github.com/JanHerca/urantiapedia-backup)).
+- [Situs web utama kami](https://urantiapedia.org).
+- Salinan alternatif kami di GitHub, [Proyek Utama Urantiapedia](https://github.com/JanHerca/urantiapedia) dan [Proyek Pencadangan Urantiapedia](https://github.com/JanHerca/urantiapedia-backup).
 - API kami (kecuali kami telah menyediakan kebijakan terpisah untuk layanan tersebut).
 - Email, SMS, dan pemberitahuan dari kami atau dikirimkan kepada kami dari Anda.
 
@@ -59,7 +59,7 @@ Bagian ini adalah bagian dari Kebijakan Privasi dan dimaksudkan untuk menjelaska
 
 Situs Urantiapedia adalah kerja kolaboratif cinta yang terus dipelihara dan diperbarui oleh komunitas sukarelawan global. Komunitas sukarelawan global ini terkadang memiliki akses ke Informasi pribadi untuk memastikan berfungsinya situs Urantiapedia.
 - **Relawan Administratif**. Ini adalah sukarelawan yang menegakkan kebijakan situs Urantiapedia dan memastikan keamanan situs Urantiapedia. Saat administrator ini mengakses Informasi Pribadi nonpublik, mereka harus mematuhi Kebijakan Akses ke Informasi Nonpublik kami, serta kebijakan khusus alat lainnya.
-- **Pengguna lain**. Kami menyediakan beberapa alat yang memungkinkan pengguna untuk berkomunikasi satu sama lain. Komunikasi mungkin dicakup oleh Kebijakan ini saat mereka melewati sistem kami, tetapi pengguna yang menerima komunikasi ini, dan apa yang mereka lakukan dengan komunikasi tersebut setelah mereka menerimanya, tidak dicakup oleh Kebijakan ini. Contohnya meliputi:
+- **Pengguna lain**. Kami menyediakan beberapa alat yang memungkinkan pengguna untuk berkomunikasi satu sama lain. Komunikasi mungkin dicakup oleh Kebijakan ini saat mereka melewati sistem kami, tetapi pengguna yang menerima komunikasi ini, dan apa yang mereka lakukan dengan komunikasi tersebut setelah mereka menerimanya, tidak dicakup oleh Kebijakan ini. Contohnya termasuk:
     - memposting pesan di grup WhatsApp Urantiapedia;
     - menggunakan [Trello](https://trello.com/) untuk perencanaan dan manajemen proyek.
 

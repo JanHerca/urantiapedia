@@ -29,103 +29,123 @@ Urantiapedia este dedicată diseminării revelațiilor din _Cartea Urantia_, cea
 
 Vă rugăm să examinați termenii [Politicii noastre de confidențialitate](/ro/help/privacy_policy), astfel încât să aflați cum colectăm și folosim informațiile dvs. Deoarece serviciile noastre sunt folosite de oameni din întreaga lume, informațiile personale pe care le colectăm pot fi stocate și procesate în facilitățile noastre. Prin utilizarea serviciilor noastre, sunteți de acord cu orice astfel de transfer de informații în afara țării dumneavoastră. 
 
-## 3. Conținutul pe care îl găzduim Conținutul 
+## 3. Conținutul pe care îl găzduim
 
-nostru este doar în scopuri de iluminare spirituală: nu găzduim deloc informații care se referă la subiecte profesionale, inclusiv probleme medicale, juridice sau financiare. Niciun conținut nu trebuie luat ca un sfat profesional. 
+S-ar putea să găsiți unele materiale inacceptabile sau eronate: deoarece oferim o gamă largă de conținut spiritual și religios care este produs sau adunat de cititorii _Urantia Book_, este posibil să întâlniți materiale pe care le găsiți jignitor, eronat, înșelător, etichetat greșit sau în orice alt mod contestabil. Prin urmare, vă rugăm să folosiți bunul simț și judecata adecvată atunci când utilizați serviciile noastre.
+
+Conținutul nostru este doar în scopuri de iluminare spirituală: nu găzduim deloc informații care se referă la subiecte profesionale, inclusiv probleme medicale, juridice sau financiare. Niciun conținut nu trebuie luat ca un sfat profesional.
 
 ## 4. Abținerea de la Anumite Activități
 
+Urantiapedia există doar datorită unei comunități de cititori de _Urantia Book_ ca tine, care colaborează pentru a scrie, edita și curata conținutul. Salutăm cu bucurie participarea dumneavoastră în această comunitate. Vă încurajăm să fiți civilizat și politicos în interacțiunile voastre cu ceilalți din comunitate, să acționați cu bună credință și să faceți editări și contribuții menite să promoveze misiunea Urantiapedia.
 
-Anumite activități, fie că sunt legale sau ilegale, pot fi dăunătoare altor utilizatori și pot încălca regulile noastre, iar unele activități vă pot expune și la răspundere. Prin urmare, pentru propria dumneavoastră protecție și pentru cea a altor utilizatori, este posibil să nu vă implicați în astfel de activități pe site-ul nostru. Aceste activități includ: 
+Anumite activități, fie că sunt legale sau ilegale, pot fi dăunătoare altor utilizatori și pot încălca regulile noastre, iar unele activități vă pot expune și la răspundere. Prin urmare, pentru propria dumneavoastră protecție și pentru cea a altor utilizatori, este posibil să nu vă implicați în astfel de activități pe site-ul nostru. Aceste activități includ:
 
-- **Hărțuirea și abuzarea altora** 
-	- Transmiterea de corespondență în lanț, mesaje nedorite sau spam către alți utilizatori. 
-- **Încălcarea confidențialității altora** 
+- **Hărțuirea și abuzarea altora**
+	- Angajarea în hărțuire, amenințări, urmărire, spam sau vandalism; și
+	- Transmiterea de corespondență în lanț, mesaje nedorite sau spam către alți utilizatori.
+- **Încălcarea confidențialității altora**
 	- Încălcarea drepturilor de confidențialitate ale altora în conformitate cu legile Spaniei sau alte legi aplicabile (care pot include legile în care locuiți sau unde vizualizați sau editați conținut);
-	- Solicitarea de informații de identificare personală în scopuri de hărțuire, exploatare, încălcare a confidențialității sau orice scop promoțional sau comercial neaprobat în mod explicit de Urantiapedia; și 
-	- Solicitarea de informații de identificare personală de la oricine cu vârsta sub 18 ani în scop ilegal sau încălcarea oricărei legi aplicabile privind sănătatea sau bunăstarea minorilor. 
-- **Angajarea în declarații false, uzurpare a identității sau fraudă** 
-	- Publicarea intenționată sau cu bună știință de conținut care constituie calomnie sau defăimare; 
-	- Încercarea de a uzurpa identitatea unui alt utilizator sau persoană, denaturarea afilierii dumneavoastră cu orice persoană fizică sau entitate sau utilizarea numelui de utilizator al altui utilizator cu intenția de a înșela; și 
-- **Comiterea încălcării**
-	- Încălcarea drepturilor de autor, mărci comerciale, brevete sau alte drepturi de proprietate conform legislației în vigoare. 
-- **Folosirea abuzivă a Serviciilor noastre în alte scopuri ilegale** 
-	- Postarea de pornografie infantilă sau orice alt conținut care încalcă legea aplicabilă privind pornografia infantilă; 
-	- Postarea sau traficul de materiale obscene care sunt ilegale conform legislației în vigoare; și 
-	- Utilizarea serviciilor într-o manieră care nu este conformă cu legea aplicabilă. 
-- **Angajarea în utilizarea greșită și ilegală a instalațiilor** 
-	- Angajarea în utilizări automate ale site-ului care sunt abuzive sau perturbatoare ale serviciilor și care nu au fost aprobate de Urantiapedia; 
+	- Solicitarea de informații de identificare personală în scopuri de hărțuire, exploatare, încălcare a confidențialității sau orice scop promoțional sau comercial neaprobat în mod explicit de Urantiapedia; și
+	- Solicitarea de informații de identificare personală de la oricine cu vârsta sub 18 ani în scop ilegal sau încălcarea oricărei legi aplicabile privind sănătatea sau bunăstarea minorilor.
+- **Angajarea în declarații false, uzurpare a identității sau fraudă**
+	- Postarea intenționată sau cu bună știință de conținut care constituie calomnie sau defăimare;
+	- Cu intenția de a înșela, postând conținut fals sau inexact;
+	- Încercarea de a uzurpa identitatea unui alt utilizator sau persoană, denaturarea afilierii dumneavoastră cu orice persoană fizică sau entitate sau utilizarea numelui de utilizator al altui utilizator cu intenția de a înșela; și
+	- Angajarea în fraudă.
+- **Comiterea unei încălcări**
+	- Încălcarea drepturilor de autor, mărci comerciale, brevete sau alte drepturi de proprietate conform legislației în vigoare.
+- **Folosirea greșită a serviciilor noastre în alte scopuri ilegale**
+	- Postarea de pornografie infantilă sau orice alt conținut care încalcă legea aplicabilă privind pornografia infantilă;
+	- Postarea sau traficul de materiale obscene care sunt ilegale conform legislației în vigoare; și
+	- Utilizarea serviciilor într-o manieră care nu este conformă cu legea aplicabilă.
+- **Angajarea în utilizarea abuzivă perturbatoare și ilegală a instalațiilor**
+	- Postarea sau distribuirea de conținut care conține viruși, malware, viermi, cai troieni, cod rău intenționat sau alt dispozitiv care ar putea dăuna infrastructurii sau sistemului nostru tehnic sau pe cel al utilizatorilor noștri;
+	- Angajarea în utilizări automate ale site-ului care sunt abuzive sau perturbatoare ale serviciilor și care nu au fost aprobate de Urantiapedia;
 	- Întreruperea serviciilor prin plasarea unei sarcini nejustificate asupra site-ului sau a rețelelor sau serverelor conectate cu site-ul;
-	- Întreruperea serviciilor prin inundarea Urantiapedia cu comunicații sau alt trafic care sugerează nicio intenție serioasă de a utiliza site-ul în scopul declarat; 
-	- Sondarea, scanarea sau testarea vulnerabilității oricăruia dintre sistemele sau rețelele noastre tehnice, cu excepția cazului în care sunt îndeplinite următoarele condiții: 
-		- astfel de acțiuni nu abuzează sau perturbă în mod nejustificat sistemele sau rețelele noastre tehnice; 
-		- astfel de acțiuni nu sunt pentru câștig personal (cu excepția creditului pentru munca dvs.); 
-		- raportați orice vulnerabilități dezvoltatorilor Urantiapedia (sau reparați-o singur); și 
-		- nu întreprindeți astfel de acțiuni cu intenții rău intenționate sau distructive. 
+	- Întreruperea serviciilor prin inundarea Urantiapedia cu comunicații sau alt trafic care sugerează nicio intenție serioasă de a utiliza site-ul în scopul declarat;
+	- Accesarea, modificarea sau folosirea în cunoștință de cauză a oricăreia dintre zonele noastre non-publice din sistemele noastre informatice fără autorizație; și
+	- Sondarea, scanarea sau testarea vulnerabilității oricăruia dintre sistemele sau rețelele noastre tehnice, cu excepția cazului în care sunt îndeplinite toate următoarele condiții:
+		- astfel de acțiuni nu abuzează sau perturbă în mod nejustificat sistemele sau rețelele noastre tehnice;
+		- astfel de acțiuni nu sunt pentru câștig personal (cu excepția creditului pentru munca dvs.);
+		- raportați orice vulnerabilități dezvoltatorilor Urantiapedia (sau remediați singur); și
+		- nu întreprindeți astfel de acțiuni cu intenție rău intenționată sau distructivă.
 - **Contribuții plătite fără dezvăluire**
-	- Legea aplicabilă, cum ar fi legea care abordează conflictele de interese, poate limita și mai mult contribuțiile plătite sau poate solicita o dezvăluire mai detaliată. 
+	- Acești Termeni de utilizare interzic angajarea în activități înșelătoare, inclusiv denaturarea afilierei, uzurparea identității și frauda. Ca parte a acestor obligații, trebuie să dezvăluiți angajatorul, clientul și afilierea dumneavoastră cu privire la orice contribuție pentru care primiți sau așteptați să primiți compensație. Trebuie să faceți această dezvăluire într-o declarație în secțiunea de comentarii care însoțește orice contribuție plătită.
+	- Legea aplicabilă, cum ar fi legea care abordează conflictele de interese, poate limita și mai mult contribuțiile plătite sau poate solicita o dezvăluire mai detaliată.
 
-Ne rezervăm dreptul de a ne exercita discreția de aplicare cu privire la termenii de mai sus. 
+Ne rezervăm dreptul de a ne exercita discreția de aplicare cu privire la termenii de mai sus.
 
-## 5. Înregistrarea și securitatea 
+## 5. Înregistrare și securitate prin parolă
 
-parolei Cititorii _Cartea Urantia_ care doresc să fie colaboratori Urantiapedia trebuie să fie validați ca demni de încredere de către administratorii de sistem prin intermediul unor mijloace de comunicare, cum ar fi e-mailul sau chatul. Pentru a contacta administratorii Urantiapedia puteți utiliza oricare dintre aceste proceduri: 
+Cititorii _Urantia Book_ care doresc să fie colaboratori Urantiapedia trebuie să fie validați ca demni de încredere de către administratorii de sistem prin intermediul unor mijloace de comunicare, cum ar fi e-mailul sau chatul. Pentru a contacta administratorii Urantiapedia puteți utiliza oricare dintre aceste proceduri:
 - Trimiterea unui e-mail la urantiapedia@gmail.com
-- Înregistrarea pe pagina web [Blue Fields](https://blue-fields.netlify.app/), adică un site creat pentru a se alătura și a organiza cititorii *Urantia Book* din întreaga lume care doresc să participe la proiecte inteligente, cu o bună scop și altruism. Odată înregistrat, o administrație de proiect vă va contacta. 
+- Înregistrarea pe pagina web [Blue Fields](https://blue-fields.netlify.app/), adică un site creat pentru a se alătura și a organiza cititorii *Urantia Book* din întreaga lume care doresc să participe la proiecte inteligente, cu o bună scop și altruism. Odată înregistrat, o administrație de proiect vă va contacta.
 
-Dacă sunteți acceptat ca colaborator, veți fi înregistrat în sistem de către un administrator, care va furniza o parolă temporară pentru numele dvs. de utilizator sau alias. Este recomandat să schimbați această parolă temporară cât mai curând posibil cu una permanentă. Sunteți responsabil pentru protejarea propriei parole și nu trebuie să o dezvăluiți niciodată unei terțe părți. 
+Dacă sunteți acceptat ca colaborator, veți fi înregistrat în sistem de către un administrator, care va furniza o parolă temporară pentru numele dvs. de utilizator sau alias. Este recomandat să schimbați această parolă temporară cât mai curând posibil cu una permanentă. Sunteți responsabil pentru protejarea propriei parole și nu ar trebui să o dezvăluiți niciodată unei terțe părți.
 
 ## 6. Nume și logo
 
+Deși aveți libertăți considerabile pentru reutilizarea conținutului de pe Urantiapedia, este important să ne protejăm numele și logo-ul, astfel încât să ne putem proteja utilizatorii de imitatorii frauduloși. Din acest motiv, vă rugăm să ne respectați numele („Urantiapedia”) și sigla („Literele „U” și „p” din [pagina principală](/ro/home)). Orice utilizare a numelui și a siglei noastre trebuie să fie în conformitate cu acești Termeni de utilizare.
 
+## 7. Licențierea conținutului
 
 Pentru a crește comunitatea cunoașterii spirituale libere și a culturii libere, toți cititorii _Urantia Book_ care contribuie la Urantiapedia sunt încurajați să acorde permisiuni largi publicului larg pentru a redistribui și reutiliza contribuțiile lor în mod liber, atâta timp cât această utilizare este atribuită în mod corespunzător și aceeași libertate de reutilizare și redistribuire este acordată oricăror lucrări derivate.
 
 Nu solicităm ca tot conținutul trimis să fie licențiat, astfel încât să poată fi reutilizat în mod liber de către oricine. Colaboratorii care doresc să-și protejeze conținutul împotriva redistribuirii și reutilizarii libere pot indica acest lucru într-o notificare privind drepturile de autor din fiecare pagină a conținutului trimis. Colaboratorii au voie să solicite administratorilor Urantiapedia ca conținutul lor să fie limitat pentru editare la un grup selectat de utilizatori sau doar la un singur utilizator. Administratorii de sistem Urantiapedia vor prevede aceste limitări pentru ediția largă a unui astfel de conținut, cu excepția cazului în care se constată în mod clar că limitarea solicitată se aplică conținutului din domeniul public sau conținutului disponibil în licență care permite redistribuirea și reutilizarea publică.
 
-- A. **Text asupra căruia dețineți drepturile de autor**: atunci când trimiteți text pentru care dețineți drepturile de autor, sunteți de acord să-l acordați sub licența [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) („CC BY-SA 4.0”). Reutilizatorii pot respecta aceeași licență. Vă rugăm să rețineți că această licență permite utilizări comerciale ale contribuțiilor dvs., atâta timp cât aceste utilizări sunt conforme cu termenii. 
+În cazul în care sunteți de acord să acordați o permisiune largă pentru reutilizarea conținutului dvs., trebuie să fiți de acord cu următoarele cerințe de licență:
+- a. **Text asupra căruia dețineți drepturile de autor**: atunci când trimiteți text pentru care dețineți drepturile de autor, sunteți de acord să-l acordați sub licența [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) („CC BY-SA 4.0”). Reutilizatorii pot respecta aceeași licență. Vă rugăm să rețineți că această licență permite utilizări comerciale ale contribuțiilor dvs., atâta timp cât aceste utilizări sunt conforme cu termenii.
+- b. **Atribuire**: Atribuirea este o parte importantă a licenței. Considerăm că acordă credit acolo unde meritul se datorează – autorilor ca tine. Când contribuiți cu text, sunteți de acord să fiți atribuit în oricare dintre următoarele moduri:
 	- Prin hyperlink (acolo unde este posibil) sau URL către articolul la care ați contribuit (deoarece fiecare articol are o pagină de istorie care listează toți autorii și editorii);
+	- Prin hyperlink (acolo unde este posibil) sau URL către o copie alternativă în GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) și [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), copii stabile online, care sunt liber accesibile, care sunt conforme cu licența și care oferă credit autorilor într-un mod echivalent cu creditul acordat pe site-ul Urantiapedia.
 - c. **Importarea textului**: puteți importa text pe care l-ați găsit în altă parte sau pe care l-ați creat împreună cu alții, dar în acest caz garantați că textul este disponibil în condiții care sunt compatibile cu licența CC BY-SA 4.0 . Sunteți de acord că, dacă importați text sub o licență CC BY-SA care necesită atribuire, trebuie să creditați autor(i) într-un mod rezonabil. 
 - d. **Media non-text**: Media non-text de pe Urantiapedia este disponibil sub o varietate de licențe diferite care sprijină obiectivul general de a permite reutilizarea și redistribuirea fără restricții. Când contribuiți cu conținut media non-text, sunteți de acord să respectați cerințele pentru astfel de licențe.
 - e. **Fără revocare a licenței**: Cu excepția cazului în care este conform cu licența dvs., sunteți de acord că nu veți revoca unilateral sau nu veți solicita invalidarea vreunei licențe pe care ați acordat-o în temeiul acestor Termeni de utilizare pentru conținutul text sau media non-text contribuit la Urantiapedia , chiar dacă încetați utilizarea serviciilor noastre. 
 - f. **Conținut din domeniul public**: conținutul care este în domeniul public este binevenit! Cu toate acestea, este important să confirmați statutul de domeniul public al conținutului în conformitate cu legea Spaniei, precum și cu legile oricăror alte țări. Când contribuiți cu conținut care se află în domeniul public, garantați că materialul este de fapt în domeniul public și sunteți de acord să-l etichetați corespunzător.
-- g. **Reutilizare**: reutilizarea conținutului pe care îl găzduim este binevenită, deși există excepții pentru conținutul contribuit în conformitate cu „utilizarea loială” sau scutiri similare conform legii drepturilor de autor. Orice reutilizare trebuie să respecte licența (licențele) subiacente. Când reutilizați sau redistribuiți o pagină de text dezvoltată de comunitatea Urantiapedia, sunteți de acord să atribuiți autorii în oricare dintre următoarele moduri: 
-	- Prin hyperlink (acolo unde este posibil) sau URL către pagina sau paginile pe care le re- folosind (deoarece fiecare pagină are o pagină de istorie care listează toți autorii și editorii);
+- g. **Reutilizare**: reutilizarea conținutului pe care îl găzduim este binevenită, deși există excepții pentru conținutul contribuit în conformitate cu „utilizarea loială” sau scutiri similare conform legii drepturilor de autor. Orice reutilizare trebuie să respecte licențele subiacente. Când reutilizați sau redistribuiți o pagină de text dezvoltată de comunitatea Urantiapedia, sunteți de acord să atribuiți autorii în oricare dintre următoarele moduri:
+	- Prin hyperlink (acolo unde este posibil) sau URL către pagina sau paginile pe care le reutilizați (deoarece fiecare pagină are o pagină de istoric care listează toți autorii și editorii);
 	- Prin hyperlink (acolo unde este posibil) sau URL către o copie alternativă în GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) și [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), copii stabile online, care sunt liber accesibile, care sunt conforme cu licența și care oferă credit autorilor într-un mod echivalent cu creditul acordat pe site-ul Urantiapedia.
+	Dacă conținutul text a fost importat dintr-o altă sursă, este posibil ca conținutul să fie licențiat sub o licență compatibilă CC BY-SA (așa cum este descris în „Importarea textului”, mai sus). În acest caz, sunteți de acord să respectați licența compatibilă CC BY-SA. Pentru a determina licența care se aplică conținutului pe care doriți să-l reutilizați sau redistribuiți, ar trebui să examinați antetul paginii.
 	În plus, vă rugăm să rețineți că textul care provine din surse externe și a fost importat în Urantiapedia poate fi sub o licență care atașează cerințe suplimentare de atribuire. Utilizatorii sunt de acord să indice clar aceste cerințe suplimentare de atribuire. Asemenea cerințe pot apărea în notațiile _Referințe_ de antet sau de subsol ale unei pagini care indică faptul că o parte sau tot conținutul a fost publicat inițial în altă parte. Acolo unde există astfel de notații vizibile, reutilizatorii ar trebui să le păstreze.
-	Pentru orice suport non-text, sunteți de acord să respectați orice licență sub care lucrarea a fost pusă la dispoziție (care poate fi descoperită făcând clic pe linkul care ar trebui să apară în legenda oricărui media non-text și căutând informațiile de licențiere ). Atunci când reutilizați orice conținut pe care îl găzduim, sunteți de acord să respectați cerințele relevante de atribuire, deoarece acestea se referă la licența sau licențele subiacente. 
+	Pentru orice suport non-text, sunteți de acord să respectați orice licență sub care lucrarea a fost pusă la dispoziție (care poate fi descoperită făcând clic pe linkul care ar trebui să apară în legenda oricărui media non-text și căutând informațiile de licențiere ). Atunci când reutilizați orice conținut pe care îl găzduim, sunteți de acord să respectați cerințele relevante de atribuire, deoarece acestea se referă la licența sau licențele subiacente.
 - h. **Modificări sau completări la materialul pe care îl reutilizați**: Când modificați sau faceți completări la textul pe care l-ați obținut de la Urantiapedia, sunteți de acord să acordați licență pentru conținutul modificat sau adăugat sub CC BY-SA 4.0 sau o versiune ulterioară.
+	Când modificați sau faceți completări la orice conținut media non-text pe care l-ați obținut de la Urantiapedia, sunteți de acord să acordați licență pentru conținutul modificat sau adăugat în conformitate cu orice licență sub care lucrarea a fost pusă la dispoziție.
 	Atât pentru conținut text, cât și pentru medii non-text, sunteți de acord să indicați în mod clar că lucrarea originală a fost modificată. Dacă reutilizați conținut text într-un wiki, este suficient să indicați în istoricul paginii că ați făcut o modificare textului importat. Pentru fiecare copie sau versiune modificată pe care o distribuiți, sunteți de acord să includeți o notificare de licență care să precizeze în ce licență este lansată lucrarea, împreună cu un hyperlink sau adresa URL către textul licenței sau o copie a licenței în sine.
 
+## 8. Conformitatea drepturilor de autor
 
-Urantiapedia dorește să se asigure că conținutul pe care îl găzduim poate fi reutilizat de alți utilizatori fără teamă de răspundere și că nu încalcă drepturile de autor ale altora. Pentru a fi corecți față de utilizatorii noștri, precum și față de alți creatori și deținători de drepturi de autor, politica noastră este să răspundem la notificările de presupusă încălcare a legilor drepturilor de autor. În conformitate cu legile drepturilor de autor, vom desființa, în circumstanțe adecvate, utilizatorii și deținătorii de conturi ai sistemului nostru care au încălcat în mod repetat. 
+Urantiapedia dorește să se asigure că conținutul pe care îl găzduim poate fi reutilizat de alți utilizatori fără teamă de răspundere și că nu încalcă drepturile de autor ale altora. Pentru a fi corecți față de utilizatorii noștri, precum și față de alți creatori și deținători de drepturi de autor, politica noastră este să răspundem la notificările de presupusă încălcare a legilor drepturilor de autor. În conformitate cu legile drepturilor de autor, vom desființa, în circumstanțe adecvate, utilizatorii și deținătorii de conturi ai sistemului nostru care au încălcat în mod repetat.
 
 Cu toate acestea, recunoaștem, de asemenea, că nu toate notificările de eliminare sunt valide sau de bună-credință. În astfel de cazuri, încurajăm cu tărie utilizatorii să depună contranotificări atunci când consideră în mod corespunzător că o cerere de eliminare a drepturilor de autor este nevalidă sau necorespunzătoare.
 
-Dacă sunteți proprietarul conținutului care este utilizat în mod necorespunzător pe Urantiapedia fără permisiunea dvs., puteți solicita ca conținutul să fie eliminat în conformitate cu legile drepturilor de autor. Pentru a face o astfel de solicitare, vă rugăm să ne trimiteți un e-mail la urantiapedia@gmail.com. 
+Dacă sunteți proprietarul conținutului care este utilizat în mod necorespunzător pe Urantiapedia fără permisiunea dvs., puteți solicita ca conținutul să fie eliminat în conformitate cu legile drepturilor de autor. Pentru a face o astfel de solicitare, vă rugăm să ne trimiteți un e-mail la urantiapedia@gmail.com.
 
-## 9. Site-uri web și resurse ale terților 
+## 9. Site-uri web și resurse ale terților
 
-Sunteți singurul responsabil pentru utilizarea de către dumneavoastră a oricăror site-uri web sau resurse ale terților. Deși Urantiapedia conține link-uri către site-uri web și resurse ale terților, nu aprobăm și nu suntem responsabili sau răspunzători pentru disponibilitatea, acuratețea sau conținutul, produsele sau serviciile aferente acestora (inclusiv, fără limitare, orice viruși sau alte caracteristici de dezactivare) , și nici nu avem nicio obligație de a monitoriza astfel de conținut de la terți.
+Sunteți singurul responsabil pentru utilizarea de către dvs. a oricăror site-uri web sau resurse ale unor terțe părți. Deși Urantiapedia conține link-uri către site-uri web și resurse ale terților, nu aprobăm și nu suntem responsabili sau răspunzători pentru disponibilitatea, acuratețea sau conținutul, produsele sau serviciile aferente acestora (inclusiv, fără limitare, orice viruși sau alte caracteristici de dezactivare) și nici nu avem nicio obligație de a monitoriza astfel de conținut de la terți.
 
+## 10. Managementul site-urilor web
 
-Comunitatea de colaboratori Urantiapedia are rolul principal în crearea și aplicarea politicilor aplicabile acesteia. Într-un caz neobișnuit, ne putem adresa unui utilizator colaborator deosebit de problematic din cauza tulburărilor semnificative sau a comportamentului periculos. În astfel de cazuri, ne rezervăm dreptul, dar nu avem obligația de a: 
-- Investigați utilizarea serviciului de către colaboratori (a) pentru a determina dacă a avut loc o încălcare a acestor Termeni de utilizare sau a altor legi sau politici aplicabile sau (b) pentru a respecta orice lege aplicabilă, proces legal sau cerere guvernamentală corespunzătoare; 
+Comunitatea de colaboratori Urantiapedia are rolul principal în crearea și aplicarea politicilor aplicabile acesteia. Într-un caz neobișnuit, ne putem adresa unui utilizator colaborator deosebit de problematic din cauza tulburărilor semnificative sau a comportamentului periculos. În astfel de cazuri, ne rezervăm dreptul, dar nu avem obligația de a:
+- Investigați utilizarea serviciului de către colaboratori (a) pentru a determina dacă a avut loc o încălcare a acestor Termeni de utilizare sau a altor legi sau politici aplicabile sau (b) pentru a respecta orice lege aplicabilă, proces legal sau cerere guvernamentală corespunzătoare;
+- Detectați, preveniți sau abordați în alt mod frauda, securitatea sau problemele tehnice sau răspundeți la solicitările de asistență ale utilizatorilor;
+- Refuzați, dezactivați sau restricționați accesul la contribuția oricărui utilizator care încalcă acești Termeni de utilizare;
 - Interziceți unui utilizator să editeze sau să contribuie sau să blocați contul sau accesul unui utilizator pentru acțiuni care încalcă acești Termeni de utilizare, inclusiv încălcarea repetată a drepturilor de autor;
-- Luați măsuri legale împotriva utilizatorilor care încalcă acești Termeni de utilizare (inclusiv rapoarte către autoritățile de aplicare a legii); și 
-- Gestionați altfel Urantiapedia într-o manieră concepută pentru a facilita funcționarea sa corectă și pentru a proteja drepturile, proprietatea și siguranța noastră și a utilizatorilor, licențiatorilor, partenerilor și publicului. 
+- Luați măsuri legale împotriva utilizatorilor care încalcă acești Termeni de utilizare (inclusiv rapoarte către autoritățile de aplicare a legii); și
+- Gestionați altfel Urantiapedia într-o manieră concepută pentru a facilita funcționarea sa corectă și pentru a proteja drepturile, proprietatea și siguranța noastră și a utilizatorilor, licențiatorilor, partenerilor și publicului.
 
-În interesul utilizatorilor noștri și al proiectului, în situația extremă în care oricărei persoane i-au fost blocate contul sau accesul în temeiul acestei prevederi, i se interzice să creeze sau să utilizeze un alt cont sau să caute acces la proiect, cu excepția cazului în care oferim permisiunea explicită. 
+În interesul utilizatorilor noștri și al proiectului, în situația extremă în care oricărei persoane i-au fost blocate contul sau accesul în temeiul acestei prevederi, i se interzice să creeze sau să utilizeze un alt cont sau să caute acces la proiect, cu excepția cazului în care oferim permisiunea explicită.
 
 Blocarea unui cont sau accesul sau interzicerea unui utilizator în temeiul acestei prevederi va fi în conformitate cu Secțiunea 12 din acești Termeni de utilizare.
 
-## 11. Politici 
+## 11. Politici Urantiapedia
 
-Urantiapedia Consiliul Urantiapedia poate lansa noi politici oficiale din când în când. Sunteți de acord să le respectați după caz. 
+Consiliul Urantiapedia ar putea lansa noi politici oficiale din când în când. Sunteți de acord să le respectați după caz.
 
 ## 12. Încetarea
 
-Deși sperăm că vei rămâne și vei continua să contribui la Urantiapedia, poți înceta să folosești serviciile noastre oricând. În anumite circumstanțe (sperăm puțin probabil) poate fi necesar fie pentru noi înșine să reziliem o parte sau toate serviciile noastre, să reziliem acești Termeni de utilizare, să vă blocăm contul sau accesul sau să vă interzicem ca utilizator. În cazul în care contul sau accesul dvs. este blocat sau închis în alt motiv din orice motiv, contribuțiile dvs. publice vor rămâne disponibile public (sub rezerva politicilor aplicabile) și, cu excepția cazului în care vă anunțăm altfel, puteți accesa în continuare paginile noastre publice cu unicul scop de a citi public. conținut disponibil pe site. În astfel de circumstanțe, totuși, este posibil să nu vă puteți accesa contul sau setările. Ne rezervăm dreptul de a suspenda sau de a opri serviciile în orice moment, cu sau fără motiv și cu sau fără notificare.
+Deși sperăm că vei rămâne și vei continua să contribui la Urantiapedia, poți înceta să folosești serviciile noastre oricând. În anumite circumstanțe (sperăm puțin probabil) poate fi necesar fie pentru noi înșine să reziliem o parte sau toate serviciile noastre, să reziliem acești Termeni de utilizare, să vă blocăm contul sau accesul sau să vă interzicem ca utilizator. În cazul în care contul sau accesul dvs. este blocat sau anulat în alt mod din orice motiv, contribuțiile dvs. publice vor rămâne disponibile public (sub rezerva politicilor aplicabile) și, cu excepția cazului în care vă anunțăm altfel, puteți accesa în continuare paginile noastre publice cu unicul scop de a citi public. conținut disponibil pe site. În astfel de circumstanțe, totuși, este posibil să nu vă puteți accesa contul sau setările. Ne rezervăm dreptul de a suspenda sau de a opri serviciile în orice moment, cu sau fără motiv și cu sau fără notificare. Chiar și după ce utilizarea și participarea dvs. sunt interzise, blocate sau suspendate în alt mod, acești Termeni de utilizare vor rămâne în vigoare în ceea ce privește prevederile relevante, inclusiv Secțiunile 1, 3, 4, 6, 7, 9-15 și 17.
 
 ## 13. Litigii și jurisdicție 
 

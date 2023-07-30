@@ -29,12 +29,12 @@ Mivel mindenkinek (nem csak az ügyvédeknek) könnyen meg kell tudnia érteni, 
 Amikor azt mondjuk… | …úgy értjük:
 --- | ---
 "Urantiapedia" / "mi" / "mi" / "mieink" | Az Urantiapedia projekt csapatvezetői.
-"Urantiapedia webhely" / "szolgáltatásaink" | Az Urantiapedia projekt Urantiapedia webhelye és szolgáltatásai (a nyelvtől függetlenül), beleértve a [fő Urantiapedia webhelyet](https://urantiapedia.org), valamint a GitHub ([Urantiapedia fő projekt](https://github.com/JanHerca/urantiapedia) és [Urantiapedia Backup projekt](https://github.com/JanHerca/urantiapedia-backup)), valamint alkalmazásprogramozási felületek (API-k), e-mailek és értesítések; kivéve azonban az alábbi „Mire nem terjed ki ez az adatvédelmi szabályzat” részben felsorolt ​​webhelyeket és szolgáltatásokat.
+"Urantiapedia webhely" / "szolgáltatásaink" | Az Urantiapedia projekt Urantiapedia webhelye és szolgáltatásai (a nyelvtől függetlenül), beleértve a [fő Urantiapedia webhelyet](https://urantiapedia.org), valamint a GitHub ([Urantiapedia fő projekt alternatív másolatait](https://github.com/JanHerca/urantiapedia) és [Urantiapedia Backup projekt](https://github.com/JanHerca/urantiapedia-backup)), valamint alkalmazásprogramozási felületek (API-k), e-mailek és értesítések; kivéve azonban az alábbi „Mire nem terjed ki ez az adatvédelmi szabályzat” részben felsorolt ​​webhelyeket és szolgáltatásokat.
 "te" / "te" / "én" | Ön, függetlenül attól, hogy magánszemély, csoport vagy szervezet, és függetlenül attól, hogy saját maga vagy valaki más nevében használja-e az Urantiapediát vagy a szolgáltatásainkat.
 "ez a szabályzat" / "ez az adatvédelmi szabályzat" | Ez az „Urantiapedia adatvédelmi szabályzata” című dokumentum.
 "hozzájárulások" | Az Urantiapediához hozzáadott tartalom vagy módosítások.
 "Személyes adatok" | Az Ön által megadott információk vagy az általunk gyűjtött információk, amelyek felhasználhatók az Ön személyes azonosítására. Az egyértelműség kedvéért, bár nem feltétlenül gyűjtjük össze az alábbi típusú információkat, legalább a következőket tekintjük "személyes adatoknak", ha azok egyébként nem nyilvánosak, és felhasználhatók az Ön azonosítására:<br/>(a) az Ön valódi neve, címe, telefonszáma, e-mail címe, jelszava, államilag kibocsátott személyazonosító azonosítószáma, IP-címe, felhasználói ügynök adatai, fizetési számlaszáma;<br/>(b) ha az alszakasz egyik eleméhez kapcsolódik (a) minden olyan érzékeny adatot, mint a születési dátum, nem, szexuális irányultság, faji vagy etnikai származás, családi vagy családi állapot, egészségügyi állapotok vagy fogyatékosságok, politikai hovatartozás és vallás.
-"harmadik fél" / "harmadik fél" | Magánszemélyek, entitások, webhelyek, szolgáltatások, termékek és alkalmazások, amelyeket nem az Urantiapedia irányít, kezel vagy üzemeltet. Ez magában foglalja a többi Urantiapedia-felhasználót és független szervezeteket vagy csoportokat, amelyek segítenek előmozdítani az Urantiapedia mozgalmat, például az Urantia könyv szervezeteit és felhasználói csoportjait, valamint ezen szervezetek vagy csoportok önkénteseit, alkalmazottait, igazgatóit, tisztségviselőit, támogatási kedvezményezettjeit és vállalkozóit.
+"harmadik fél" / "harmadik fél" | Magánszemélyek, entitások, webhelyek, szolgáltatások, termékek és alkalmazások, amelyeket nem az Urantiapedia irányít, kezel vagy üzemeltet. Ez magában foglalja a többi Urantiapedia-felhasználót és független szervezeteket vagy csoportokat, amelyek segítenek előmozdítani az Urantiapedia mozgalmát, például az _Urantia Book_ szervezeteket és felhasználói csoportokat, valamint az ilyen szervezetek vagy csoportok önkénteseit, alkalmazottait, igazgatóit, tisztviselőit, támogatásban részesülőit és szerződő feleit.
 
 ### Mire terjed ki és nem vonatkozik ez az adatvédelmi szabályzat
 
@@ -44,8 +44,8 @@ Az alábbiakban részletezettek kivételével ez az adatvédelmi szabályzat von
 
 Az egyértelműség kedvéért ez az adatvédelmi szabályzat a nyelvtől függetlenül a következőkre terjed ki:
 
-- Fő weboldalunk (https://urantiapedia.org).
-- Alternatív másolataink a GitHubban, az [Urantiapedia főprojektben](https://github.com/JanHerca/urantiapedia) és az [Urantiapedia Backup projektben](https://github.com/JanHerca/urantiapedia-backup).
+- [Fő webhelyünk](https://urantiapedia.org).
+- Alternatív másolataink a GitHubban, az [Urantiapedia fő projekt](https://github.com/JanHerca/urantiapedia) és az [Urantiapedia Backup projekt](https://github.com/JanHerca/urantiapedia-backup).
 - API-jaink (kivéve, ha ezekhez a szolgáltatásokhoz külön szabályzatot adtunk).
 - E-mailek, SMS-ek és értesítések tőlünk, vagy Öntől.
 
@@ -66,7 +66,7 @@ Az Urantiapedia oldal a szeretet közös munkája, amelyet önkéntesek globáli
 ##### Harmadik felek
 
 Ez az adatvédelmi szabályzat csak arra vonatkozik, ahogyan az Urantiapedia gyűjti, használja és nyilvánosságra hozza a személyes adatokat, és nem foglalkozik harmadik felek gyakorlatával. Például ez az adatvédelmi szabályzat nem foglalkozik a következők gyakorlatával:
-- **Más szervezetek által üzemeltetett webhelyek**, például olyan webhelyek, amelyekre az Urantiapedia „Referenciák” részében hivatkoznak, vagy más mozgalmi szervezetek által üzemeltetett webhelyek. Ezek a szervezetek információkat kaphatnak Öntől, ha az Urantiapedia használata után felkeresi webhelyeiket. Ezeket saját adatvédelmi szabályzataik szabályozzák.
+- **Más szervezetek által üzemeltetett webhelyek**, például olyan webhelyek, amelyekre az Urantiapedia „Referenciák” szakaszában hivatkoznak, vagy más mozgalmi szervezetek által üzemeltetett webhelyek. Ezek a szervezetek információkat kaphatnak Öntől, ha az Urantiapedia használata után felkeresi webhelyeiket. Ezeket saját adatvédelmi szabályzataik szabályozzák.
 - **Más szervezetek vagy magánszemélyek által biztosított mobil alkalmazások**. Ezek a szervezetek vagy egyének információkat kaphatnak Öntől, ha ezeket az alkalmazásokat az Urantiapedia webhely tartalmához való hozzáférésre használja. Ezeket saját adatvédelmi szabályzataik szabályozzák.
 
 ## Információgyűjtés és -használat
@@ -140,7 +140,7 @@ Mi és szolgáltatóink az Ön adatait a jótékonysági küldetésünk teljesí
 
 ##### Helyinformáció
 
-Ahogy fentebb említettük, az általánosan használt helymeghatározási technológiákat használhatjuk relevánsabb tartalom megjelenítésére. Emlékeztetőül: Ön bármikor hozzájárulhat és/vagy deaktiválhatja hozzáférésünket ezekhez a helymeghatározó technológiákhoz, például a mobileszközén lévő natív operációs rendszer funkcióin keresztül, és továbbra is használhatja az Urantiapedia webhelyet.
+Ahogy fentebb említettük, az általánosan használt helymeghatározási technológiákat használhatjuk relevánsabb tartalom megjelenítésére. Emlékeztetőül: Ön bármikor hozzájárulhat és/vagy deaktiválhatja a hozzáférésünket ezekhez a helymeghatározó technológiákhoz, például a mobileszközén lévő natív operációs rendszer funkcióin keresztül, és továbbra is használhatja az Urantiapedia webhelyet.
 
 ##### IP-címek
 

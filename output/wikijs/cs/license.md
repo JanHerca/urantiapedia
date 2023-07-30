@@ -60,15 +60,15 @@ Obsah s omezeními kvůli autorským právům je označen [upozorněním na auto
 #### Obsah chráněný autorským právem
 
 - Kniha Urantia (všechny překlady z angličtiny) je chráněna autorským právem [Urantia Foundation](https://www.urantia.org/).
-- _Paramony_, index křížových odkazů mezi Biblí a _The Urantia Book_, který se objevuje jako poznámky pod čarou na _The Urantia Book_ a na stránkách Bible (ve všech jazycích), je chráněn autorským právem [Duane L. Faw and The Urantia Book Fellowship](https:// urantia-book.org/urantiabook/paramony/).
-– Články z [Innerface International](/cs/index/articles_innerface) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
-– Články z [Urantian Journal](/cs/index/articles_the_urantian) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
-– Články z [Followship Journal](/cs/index/articles_spirtual_fellowship_journal) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
-- Články z [Fellowship Herald](/cs/index/articles_herald) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
-- Články z [UB Annotated & UBTheNews](/cs/index/articles#ub-annotaded-ubthenews) (ve všech jazycích) jsou chráněny autorským právem [Halbert Katzen](https://ubannotated.com/).
-- Články od [Jan Herca](/cs/index/articles#articles-from-jan-herca) (ve všech jazycích) jsou chráněny autorským právem [Jan Herca](https://buscandoajesus.wordpress.com) a jsou dostupné pod [licence Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
+- _Paramony_, index křížových odkazů mezi Biblí a _The Urantia Book_, který se objevuje jako poznámky pod čarou na _The Urantia Book_ a na stránkách Bible (ve všech jazycích), je chráněn autorským právem [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
+– Články z [Innerface International](/en/index/articles_innerface) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
+– Články z [Urantian Journal](/en/index/articles_the_urantian) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
+– Články z [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
+- Články z [Fellowship Herald](/en/index/articles_herald) (ve všech jazycích) jsou chráněny autorským právem každého autora a [The Urantia Book Fellowship](https://urantiabook.org/).
+- Články z [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (ve všech jazycích) jsou chráněny autorským právem [Halbert Katzen](https://ubannotated.com/).
+- Články od [Jan Herca](/en/index/articles#articles-from-jan-herca) (ve všech jazycích) jsou chráněny autorským právem [Jan Herca](https://buscandoajesus.wordpress.com) a jsou dostupné pod [licence Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
 - Ostatní články, které nepatří do předchozích skupin (ve všech jazycích), jsou chráněny autorským právem uvedených autorů.
-– Studijní pomůcky od [William S. Sadler](/cs/article/William_S_Sadler) a [William S. Sadler Jr.](/cs/article/William_S_Sadler_Jr) (ve všech jazycích) jsou chráněny autorským právem [Urantia Foundation](https://www.urantia.org/).
+– Studijní pomůcky od [William S. Sadler](/en/article/William_S_Sadler) a [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (ve všech jazycích) jsou chráněny autorským právem [Urantia Foundation](https://www.urantia.org/).
 - Ostatní studijní opory, které nepatří do předchozích skupin (ve všech jazycích), jsou chráněny autorským právem uvedených autorů.
 - Některé ilustrace pro _The Urantia Book_ jsou chráněny autorským právem [Gary Tonge](https://visionafar.com).
 
@@ -76,7 +76,7 @@ Obsah s omezeními kvůli autorským právům je označen [upozorněním na auto
 
 - Kniha Urantia (v angličtině) je od roku 2006 ve veřejném vlastnictví.
 - Bible, všechny použité překlady, jsou z verzí ve veřejné doméně. Informace o verzi Public Domain použité pro každý jazyk lze nalézt na přední straně každé biblické knihy.
-– Knihy uvedené jako [předpokládané zdroje knihy Urantia](/cs/book#books-suposed-to-be-sources) jsou všechny v angličtině a jsou ve veřejné doméně. Poskytnuté překlady jsou k dispozici pod obecnou licencí CC-BY-SA-4.0 webu.
+– Knihy uvedené jako [předpokládané zdroje knihy Urantia](/en/book#books-suposed-to-be-sources) jsou všechny v angličtině a jsou ve veřejné doméně. Poskytnuté překlady jsou k dispozici pod obecnou licencí CC-BY-SA-4.0 webu.
 - Některé ilustrace pro _The Urantia Book_ jsou ve veřejné doméně.
 
 ### Podmínky použití
@@ -172,4 +172,3 @@ Zveřejnění informací nalezených v Urantiapedia může být v rozporu se zá
 #### Ne profesionální poradenství
 
 Pokud potřebujete konkrétní radu (například lékařskou, právní, finanční nebo řízení rizik), vyhledejte odborníka, který má licenci nebo má znalosti v dané oblasti.
-

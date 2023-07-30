@@ -61,14 +61,14 @@ Tekijänoikeuksista johtuvia rajoituksia sisältävä sisältö tunnistetaan kun
 
 - Urantia-kirja (kaikki englanninkieliset käännökset) on [Urantia-säätiön](https://www.urantia.org/) tekijänoikeus.
 - _Paramony_, Raamatun ja _Urantia-kirjan_ välinen ristiviittaushakemisto, joka näkyy alaviitteinä _Urantia-kirjassa_ ja Raamatun sivuilla (kaikilla kielillä), on [Duane L. Faw and The Urantia Book Fellowshipin](https://urantia-book.org/urantiabook/paramony/) tekijänoikeus.
-- [Innerface Internationalin](/fi/index/articles_innerface) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin] (https://urantiabook.org/) tekijänoikeuksiin.
-- [Urantian Journalin](/fi/index/articles_the_urantian) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
-- [Followship Journalin](/fi/index/articles_spirtual_fellowship_journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
-- [Fellowship Heraldin](/fi/index/articles_herald) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
-- [UB Annotated & UBTheNews](/fi/index/articles#ub-annotaded-ubthenews) artikkelit (kaikilla kielillä) ovat [Halbert Katzenin](https://ubannotated.com/) tekijänoikeuksia.
-- [Jan Hercan](/fi/index/articles#articles-from-jan-herca) artikkelit (kaikilla kielillä) ovat [Jan Hercan](https://buscandoajesus.wordpress.com) tekijänoikeuksia ja ne ovat saatavilla osoitteessa [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Innerface Internationalin](/en/index/articles_innerface) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin] (https://urantiabook.org/) tekijänoikeuksiin.
+- [Urantian Journalin](/en/index/articles_the_urantian) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [Followship Journalin](/en/index/articles_spirtual_fellowship_journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [Fellowship Heraldin](/en/index/articles_herald) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) artikkelit (kaikilla kielillä) ovat [Halbert Katzenin](https://ubannotated.com/) tekijänoikeuksia.
+- [Jan Hercan](/en/index/articles#articles-from-jan-herca) artikkelit (kaikilla kielillä) ovat [Jan Hercan](https://buscandoajesus.wordpress.com) tekijänoikeuksia ja ne ovat saatavilla osoitteessa [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Muut artikkelit, jotka eivät kuulu aikaisempiin ryhmiin (kaikilla kielillä), ovat ilmoitettujen tekijöiden tekijänoikeuksia.
-- [William S. Sadler](/fi/article/William_S_Sadler) ja [William S. Sadler Jr.](/fi/article/William_S_Sadler_Jr) (kaikilla kielillä) ovat [Urantia Foundationin] tekijänoikeuksia (https: //www.urantia.org/).
+- [William S. Sadler](/en/article/William_S_Sadler) ja [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (kaikilla kielillä) ovat [Urantia Foundationin](https://www.urantia.org/) tekijänoikeuksia .
 - Muut oppimateriaalit, jotka eivät kuulu aikaisempiin ryhmiin (kaikilla kielillä), ovat merkittyjen tekijöiden tekijänoikeuksia.
 - Jotkut _Urantia-kirjan_ kuvista ovat [Gary Tongen](https://visionafar.com) tekijänoikeuksia.
 
@@ -76,7 +76,7 @@ Tekijänoikeuksista johtuvia rajoituksia sisältävä sisältö tunnistetaan kun
 
 - Urantia-kirja (englanniksi) on julkisessa käytössä vuodesta 2006.
 - Raamattu, kaikki käytetyt käännökset, ovat julkisessa käytössä olevista versioista. Kullekin kielelle käytetyn Public Domain -version tiedot löytyvät jokaisen Raamattukirjan etusivulta.
-- Kirjat, jotka on lueteltu [Urantia-kirjan oletetuiksi lähteiksi](/fi/book#books-supposed-to-be-sources), ovat kaikki englanniksi ja julkisessa käytössä. Tarjotut käännökset ovat saatavilla sivuston yleisen CC-BY-SA-4.0 -lisenssin alaisena.
+- Kirjat, jotka on lueteltu [Urantia-kirjan oletetuiksi lähteiksi](/en/book#books-supposed-to-be-sources), ovat kaikki englanniksi ja julkisessa käytössä. Tarjotut käännökset ovat saatavilla sivuston yleisen CC-BY-SA-4.0 -lisenssin alaisena.
 - Jotkut _Urantia-kirjan_ kuvitukset ovat julkisessa käytössä.
 
 ### Käyttöehdot
@@ -172,4 +172,3 @@ Urantiapediasta löydettyjen tietojen julkaiseminen saattaa olla sen maan tai la
 #### Ei ammattiapua
 
 Jos tarvitset erityisiä neuvoja (esimerkiksi lääketieteellistä, oikeudellista, taloudellista tai riskienhallintaa), ota yhteyttä ammattilaiseen, jolla on lisensoitu tai asiantunteva ala.
-

@@ -8,171 +8,219 @@ editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
 
+## Įvadas
 
-## Apžvalga
+### Sveiki atvykę!
 
-Šiose naudojimo sąlygose pasakojama apie mūsų viešąsias Urantiapedia paslaugas, mūsų santykius su jumis, kaip vartotoju, ir teises bei pareigas, kuriomis vadovaujamės abu. Norime, kad žinotumėte, jog mes talpiname dvasinį ir religinį turinį, prie kurio prisidėjo ir įgalina tokie _Urantijos knygos_ skaitytojai, kaip jūs. Paprastai mes nepridedame, nestebime ir neištriname turinio (išskyrus retą politiką, tokią kaip šios naudojimo sąlygos). Tai reiškia, kad redakcinė kontrolė priklauso jums ir kitiems _Urantia Book_ skaitytojams, kurie kuria ir tvarko turinį. Mes tik talpiname šį turinį.
+Urantiapedija yra pagrįsta paprastu, bet galingu principu: kartu galime nuveikti daugiau nei kiekvienas iš mūsų vienas. Negalime dirbti kolektyviai, nerinkdami, nesidalindami ir neanalizuodami informacijos apie savo vartotojus, nes ieškome naujų būdų, kaip padaryti Urantiapediją patogesnę, saugesnę ir naudingesnę.
 
-Bendruomenė – _Urantijos knygos_ skaitytojų grupė, kuri nuolat kuria šią svetainę – yra pagrindinė priemonė, padedanti pasiekti misijos tikslus. Bendruomenė prisideda prie Urantiapedijos ir padeda ją valdyti. Bendruomenė atlieka esminę turinio politikos kūrimo ir vykdymo funkciją. 
+Manome, kad informacijos rinkimas ir naudojimas turi vykti kartu su skaidrumu. Šioje privatumo politikoje paaiškinama, kaip Urantiapedia renka, naudoja ir dalijasi informacija, kurią gauname iš jūsų, kai naudojatės svetaine. Labai svarbu suprasti, kad naudodamiesi Urantiapedia svetaine sutinkate su jūsų informacijos rinkimu, perdavimu, apdorojimu, saugojimu, atskleidimu ir naudojimu, kaip aprašyta šioje privatumo politikoje. Tai reiškia, kad svarbu atidžiai perskaityti šią politiką.
 
-Kviečiame prisijungti kaip bendradarbis, redaktorius ar autorius, tačiau turėtumėte laikytis Urantiapedijos taisyklių. Urantiapedijoje yra bendraautorių, redaktorių ar autorių komanda, kuri kartu kuria ir tvarko turinį. Kviečiame prisijungti prie komandos ir dirbti su ja tobulinant projektą. Kadangi esame pasiryžę padaryti turinį laisvai prieinamą visuomenei, paprastai reikalaujame, kad visas jūsų teikiamas turinys būtų prieinamas pagal nemokamą licenciją arba viešasis domenas.
+Manome, kad jums nereikėtų teikti neviešos asmeninės informacijos, kad galėtumėte dalyvauti Urantiapedijos judėjime. Norint prisiregistruoti gauti standartinę paskyrą arba pateikti turinį Urantiapedijoje, nereikia pateikti tokių dalykų kaip tikrasis vardas, adresas ar gimimo data.
 
-Atminkite, kad pagal Ispanijos įstatymus ir kitus galiojančius įstatymus (įskaitant įstatymus, kuriuose gyvenate arba kur žiūrite ar redaguojate turinį) esate teisiškai atsakingi už visą savo įnašą, redagavimą ir Urantiapedia turinio pakartotinį naudojimą. Tai reiškia, kad skelbdami turinį svarbu būti atsargiems. Atsižvelgdami į šią atsakomybę, turime tam tikras taisykles dėl to, ko negalite skelbti. Dauguma jų yra skirtos jūsų pačių arba kitų _Urantijos knygos_ skaitytojų, tokių kaip jūs, apsaugai. Atminkite, kad mūsų talpinamas turinys yra skirtas tik dvasinio nušvitimo tikslams, todėl šioje svetainėje nėra medicininės, teisinės ar finansinės informacijos, kuriai turėtų būti reikalinga licencijuoto ar kvalifikuoto specialisto pagalba. Taip pat įtraukiame kitus svarbius pranešimus ir atsisakymus, todėl perskaitykite visas šias naudojimo sąlygas.
+Mes neparduodame ir neišnuomojame jūsų asmeninės informacijos ir neteikiame jos kitiems, kad galėtume ką nors parduoti. Naudojame jį norėdami išsiaiškinti, kaip padaryti Urantiapediją patrauklesnę ir prieinamesnę, kad pamatytume, kurios idėjos pasiteisina, ir kad mokymasis bei dalyvavimas būtų smagiau. Paprasčiau tariant: mes naudojame šią informaciją, kad pagerintume Urantiapediją jums.
 
-## 1. Mūsų paslaugos 
+Juk būtent tokie žmonės kaip jūs, _Urantijos knygos_ studentų čempionai, leidžia Urantiapedijai ne tik egzistuoti, bet ir augti bei klestėti.
 
-Urantiapedia skirta _Urantijos knygos_ apreiškimams, didžiausiam ir naujausiam tiesos apreiškimui Žemėje, skleisti. Dėl to mes skatiname nemokamo daugiakalbio turinio augimą, plėtrą ir platinimą bei nemokamai talpiname visą šio wiki turinio turinį visuomenei. Mūsų užduotis – talpinti didžiausią bendradarbiaujant redaguojamą _Urantia Book_ nuorodą, kurią galite rasti čia. Tačiau mes veikiame tik kaip prieglobos paslauga, palaikome infrastruktūrą ir organizacinę sistemą, leidžiančią _Urantia knygos_ skaitytojams kurti Urantiapediją patiems prisidedant ir redaguojant turinį. Dėl mūsų unikalaus vaidmens yra keletas dalykų, kuriuos turėtumėte žinoti, kai svarstote mūsų santykius su jumis, Urantiapedia ir kitais vartotojais:
-- a. **Mes neprisiimame redakcinio vaidmens**: kadangi Urantiapedia redaguojama bendradarbiaujant, visą mūsų talpinamą turinį pateikia _Urantia Book_ skaitytojai, tokie kaip jūs, ir mes neprisiimame redakcinio vaidmens. Tai reiškia, kad mes paprastai nestebime ir neredaguojame turinio ir neprisiimame už šį turinį jokios atsakomybės. Taip pat mes nepatvirtiname jokios nuomonės, išsakytos per mūsų paslaugas, ir negarantuojame jokio pateikto bendruomenės turinio teisingumo, tikslumo ar patikimumo. Vietoj to mes tiesiog suteikiame prieigą prie turinio, kurį _Urantia knygos_ skaitytojai pateikė ir redagavo.
-- b. **Esate atsakingi už savo veiksmus**: esate teisiškai atsakingas už savo redagavimus ir indėlius Urantiapedijoje, todėl, siekdami apsaugoti save, turėtumėte būti atsargūs ir vengti pateikti bet kokį turinį, kuris gali užtraukti baudžiamąją ar civilinę atsakomybę pagal galiojančius įstatymus. . Siekiant aiškumo, taikoma teisė apima bent Ispanijos įstatymus. Nors galime nesutikti su tokiais veiksmais, įspėjame redaktorius ir bendradarbius, kad valdžios institucijos gali siekti jums taikyti kitų šalių įstatymus, įskaitant vietinius, kur gyvenate arba kur žiūrite ar redaguojate turinį, įstatymus. Urantiapedija paprastai negali pasiūlyti jokios apsaugos, garantijos, imuniteto ar žalos atlyginimo. 
+### Apibrėžimai
 
-## 2. Privatumo politika
+Kadangi visi (ne tik teisininkai) turėtų lengvai suprasti, kaip ir kodėl jų informacija renkama ir naudojama, šioje Politikoje vartojame bendrą kalbą, o ne formalesnius terminus. Kad suprastumėte kai kuriuos konkrečius pagrindinius terminus, pateikiama vertimų lentelė:
 
-Prašome peržiūrėti mūsų [privatumo politikos] (/en/help/privacy_policy) sąlygas, kad žinotumėte, kaip renkame ir naudojame jūsų informaciją. Kadangi mūsų paslaugomis naudojasi žmonės visame pasaulyje, mūsų renkama asmeninė informacija gali būti saugoma ir tvarkoma mūsų patalpose. Naudodamiesi mūsų paslaugomis sutinkate su bet kokiu tokiu informacijos perdavimu už savo šalies ribų. 
+Kai sakome… | ...turime omenyje:
+--- | ---
+„Urantiapedija“ / „mes“ / „mus“ / „mūsų“ | Urantiapedia projekto komandos vadovai.
+"Urantiapedijos svetainė" / "mūsų paslaugos" | Urantiapedia svetainė ir Urantiapedia projekto paslaugos (nepriklausomai nuo kalbos), įskaitant [pagrindinę Urantiapedia svetainę](https://urantiapedia.org) ir alternatyvias kopijas GitHub ([Urantiapedia pagrindinis projektas](https://github.com/JanHerca/urantiapedia) ir [Urantiapedia Backup projektas](https://github.com/JanHerca/urantiapedia-backup)), taip pat taikomųjų programų sąsajos (API), el. laiškai ir pranešimai; tačiau neįskaitant svetainių ir paslaugų, išvardytų toliau esančiame skyriuje „Ko ši privatumo politika neapima“.
+„tu“ / „tavo“ / „aš“ | Jūs, nepaisant to, ar esate asmuo, grupė ar organizacija, ir nesvarbu, ar naudojatės Urantiapedia ar mūsų paslaugomis savo ar kieno nors kito vardu.
+„ši politika“ / „ši privatumo politika“ | Šis dokumentas, pavadintas „Urantiapedijos privatumo politika“.
+"įnašai" | Turinys, kurį pridedate arba keičiate Urantiapediją.
+"Asmeninė informacija" | Informacija, kurią mums pateikiate arba mūsų renkama informacija, kuri galėtų būti naudojama jūsų tapatybei nustatyti. Kad būtų aišku, nors mes nebūtinai renkame visų toliau nurodytų tipų informaciją, bent jau toliau nurodytą informaciją laikome „asmenine informacija“, jei ji nėra vieša ir gali būti naudojama jūsų tapatybei nustatyti:<br/>a) jūsų tikrasis vardas, adresas, telefono numeris, el. pašto adresas, slaptažodis, valstybės išduoto asmens tapatybės dokumento identifikavimo numeris, IP adresas, vartotojo agento informacija, mokėjimo sąskaitos numeris;<br/>(b) kai yra susijęs su vienu iš poskyryje nurodytų elementų a) bet kokius neskelbtinus duomenis, tokius kaip gimimo data, lytis, seksualinė orientacija, rasinė ar etninė kilmė, šeimyninė arba šeiminė padėtis, sveikatos būklė arba negalia, politinė priklausomybė ir religija.
+"trečioji šalis" / "trečioji šalis" | Asmenys, subjektai, svetainės, paslaugos, produktai ir taikomosios programos, kurių Urantiapedia nevaldo, nevaldo ir nevaldo. Tai apima kitus Urantiapedijos vartotojus ir nepriklausomas organizacijas ar grupes, padedančias skatinti Urantiapedijos judėjimą, pvz., _Urantia Book_ organizacijas, ir vartotojų grupes, taip pat savanorius, darbuotojus, direktorius, pareigūnus, dotacijų gavėjus ir tų organizacijų ar grupių rangovus.
 
-## 3. Mūsų talpinamas turinys 
+### Ką ši privatumo politika apima ir ko neapima
 
-Mūsų turinys skirtas tik dvasinio nušvitimo tikslams: mes netalpiname jokios informacijos, susijusios su profesinėmis temomis, įskaitant medicinines, teisines ar finansines problemas. Joks turinys neturėtų būti laikomas profesionaliu patarimu. 
+Išskyrus tai, kas paaiškinta toliau, ši privatumo politika taikoma renkant ir tvarkant informaciją apie jus, kurią gauname jums naudojantis Urantiapedia svetaine. Ši Politika taip pat taikoma informacijai, kurią gauname iš savo partnerių ar kitų trečiųjų šalių. Norėdami sužinoti daugiau apie tai, ką apima ši privatumo politika, žr. toliau.
 
-## 4. Susilaikymas nuo tam tikros veiklos
+#### Pavyzdžiai, ką apima ši privatumo politika
 
+Siekiant aiškumo, ši privatumo politika apima, nepaisant kalbos:
 
-Tam tikra veikla, tiek teisėta, tiek neteisėta, gali būti žalinga kitiems vartotojams ir pažeisti mūsų taisykles, o už tam tikrą veiklą taip pat galite būti atsakingi. Todėl dėl savo ir kitų vartotojų apsaugos negalite užsiimti tokia veikla mūsų svetainėje. Ši veikla apima: 
+- [Mūsų pagrindinė svetainė](https://urantiapedia.org).
+– Mūsų alternatyvios kopijos „GitHub“, [Urantiapedia pagrindinis projektas](https://github.com/JanHerca/urantiapedia) ir [Urantiapedia Backup projektas](https://github.com/JanHerca/urantiapedia-backup).
+– Mūsų API (nebent toms paslaugoms pateikėme atskirą politiką).
+- El. laiškai, SMS ir pranešimai iš mūsų arba išsiųsti mums iš jūsų.
 
-- **Priekabiavimą prie kitų ir priekabiavimą prie kitų** 
-	- Grandininio pašto, nepageidaujamo pašto ar šlamšto siuntimą kitiems naudotojams. 
-– **Kitų asmenų privatumo pažeidimas** 
-	– kitų asmenų privatumo teisių pažeidimas pagal Ispanijos įstatymus arba kitus taikomus įstatymus (įskaitant įstatymus, kuriuose gyvenate arba kur žiūrite ar redaguojate turinį);
-	- Asmenį identifikuojančios informacijos prašymas priekabiavimo, išnaudojimo, privatumo pažeidimo arba bet kokiais reklamos ar komerciniais tikslais, kurių Urantiapedia aiškiai nepatvirtino; ir 
-	– Asmenį identifikuojančios informacijos prašymas iš jaunesnių nei 18 metų asmenų neteisėtais tikslais arba pažeidžiant bet kokius galiojančius įstatymus, susijusius su nepilnamečių sveikata ar gerove. 
-– **Klaidingi pareiškimai, apsimetinėjimas ar sukčiavimas** 
-	– tyčia arba sąmoningai skelbiamas turinys, kuris yra šmeižtas arba šmeižtas; 
-	– Bandymas apsimesti kitu naudotoju ar asmeniu, klaidingai pristatyti savo ryšį su kokiu nors asmeniu ar subjektu arba naudoti kito naudotojo naudotojo vardą, siekiant apgauti; ir 
-– **Pažeidimo padarymas**
-	– Autorių teisių, prekių ženklų, patentų ar kitų nuosavybės teisių pažeidimas pagal galiojančius įstatymus. 
-– **Piktnaudžiavimas mūsų paslaugomis kitais neteisėtais tikslais** 
-	– vaikų pornografijos ar bet kokio kito turinio, kuris pažeidžia galiojančius vaikų pornografijos įstatymus, skelbimas; 
-	- Neteisėtos pagal galiojančius įstatymus nepadorios medžiagos skelbimas arba prekyba ja; ir 
-	– Paslaugų naudojimas nederančiu su galiojančiais teisės aktais. 
-– **Įsitraukimas į trikdantį ir neteisėtą piktnaudžiavimą įrenginiais** 
-	– įsitraukimas į automatinį svetainės naudojimą, kuris piktnaudžiauja paslaugomis arba jas trikdo ir nepatvirtino Urantiapedia; 
-	- Paslaugų teikimo sutrikdymas, pernelyg apkraunant svetainę arba su svetaine susijusius tinklus ar serverius;
-	- Paslaugų teikimo sutrikdymas užtvindant Urantiapedia komunikacijomis ar kitu srautu, kuris nerodo rimto ketinimo naudoti svetainę pagal nurodytą paskirtį; 
-	- Bet kurios iš mūsų techninių sistemų ar tinklų pažeidžiamumo tikrinimas, nuskaitymas arba bandymas, nebent tenkinamos visos šios sąlygos: 
-		- tokiais veiksmais nepiktnaudžiaujama mūsų techninėmis sistemomis ar tinklais arba jie nesutrikdo; 
-		- tokiais veiksmais nesiekiama asmeninės naudos (išskyrus atsiskaitymą už jūsų darbą); 
-		- pranešate apie visus pažeidžiamumus Urantiapedia kūrėjams (arba pataisote patys); ir 
-		- jūs nesiimate tokių veiksmų turėdami piktų ar destruktyvių tikslų. 
-– **Sumokėtos įmokos neatskleidžiant informacijos**
-	- Taikomi įstatymai, pvz., interesų konfliktus reglamentuojantys įstatymai, gali dar labiau apriboti mokamas įmokas arba reikalauti atskleisti išsamesnę informaciją. 
+Tačiau ši privatumo politika neapima kai kurių situacijų, kai galime rinkti ar apdoroti informaciją. Pavyzdžiui, trečiųjų šalių valdomos svetainės ar paslaugos. Norėdami sužinoti daugiau apie tai, ko ši privatumo politika neapima, žr. toliau.
 
-Mes pasiliekame teisę įgyvendinti savo nuožiūra pirmiau nurodytas sąlygas. 
+#### Daugiau apie tai, ko ši privatumo politika neapima
 
-## 5. Registracija ir slaptažodžio sauga 
+Šis skyrius yra Privatumo politikos dalis ir skirtas išsamiai paaiškinti, kokioms situacijoms mūsų privatumo politika netaikoma.
 
-_Urantia Book_ skaitytojai, norintys būti Urantiapedia bendradarbiais, turi būti patvirtinti kaip patikimi sistemos administratorių tam tikromis ryšio priemonėmis, pavyzdžiui, el. paštu arba pokalbiais. Norėdami susisiekti su Urantiapedia administratoriais, galite naudoti bet kurią iš šių procedūrų: 
-- Siųsti el. laišką adresu urantiapedia@gmail.com
-– Prisiregistruokite [Blue Fields](https://blue-fields.netlify.app/) tinklalapyje, kuris yra svetainė, sukurta norint prisijungti ir organizuoti *Urantia knygos* skaitytojus visame pasaulyje, norinčius dalyvauti išmaniuosiuose projektuose su gera tikslas ir altruizmas. Užsiregistravus su jumis susisieks projekto administracija. 
+##### Bendruomenės nariai
 
-Jei būsite priimtas kaip bendradarbis, sistemoje jus užregistruos administratorius, kuris suteiks laikiną slaptažodį jūsų vartotojo vardui arba slapyvardžiui. Šį laikinąjį slaptažodį rekomenduojama kuo greičiau pakeisti į nuolatinį. Jūs esate atsakingi už savo slaptažodžio apsaugą ir niekada neturėtumėte jo atskleisti jokiai trečiajai šaliai. 
+Urantiapedijos svetainė yra bendras meilės darbas, kurį nuolat prižiūri ir atnaujina pasaulinė savanorių bendruomenė. Ši pasaulinė savanorių bendruomenė kartais gali turėti prieigą prie asmeninės informacijos, kad užtikrintų Urantiapedia svetainės veikimą.
+- **Administracijos savanoriai**. Tai savanoriai, kurie vykdo Urantiapedia svetainės politiką ir užtikrina Urantiapedia svetainės saugumą. Kai šie administratoriai pasiekia asmeninę informaciją, kuri yra nevieša, jie privalo laikytis mūsų prieigos prie neviešos informacijos politikos, taip pat kitos su įrankiu susijusios politikos.
+- **Kiti vartotojai**. Pateikiame keletą įrankių, leidžiančių vartotojams bendrauti vieniems su kitais. Pranešimams gali būti taikoma ši politika, kol jie eina per mūsų sistemas, tačiau naudotojams, kurie gauna šiuos pranešimus ir ką jie daro su pranešimais, kai jie juos gauna, ši politika netaikoma. Pavyzdžiai:
+    - pranešimų skelbimas WhatsApp Urantiapedia grupėse;
+    - naudojant [Trello](https://trello.com/) projektams planuoti ir valdyti.
 
-## 6. Pavadinimas ir logotipas
+##### Trečiosios šalys
 
+Ši privatumo politika apima tik tai, kaip Urantiapedia renka, naudoja ir atskleidžia asmeninę informaciją, ir neapima trečiųjų šalių veiklos. Pavyzdžiui, šioje privatumo politikoje neaptariama:
+– **Kitų organizacijų valdomos svetainės**, pvz., svetainės, į kurias pateikiamos nuorodos iš Urantiapedijos skilčių „Nuorodos“, arba kitos judėjimo organizacijos. Šios organizacijos gali gauti informacijos iš jūsų, jei apsilankysite jų svetainėse po Urantiapedia naudojimo. Jas reglamentuoja jų pačių privatumo politika.
+- **Kitų organizacijų ar asmenų teikiamos mobiliosios aplikacijos**. Šios organizacijos ar asmenys gali gauti informacijos iš jūsų, jei naudosite šias programas norėdami pasiekti Urantiapedia svetainės turinį. Jas reglamentuoja jų pačių privatumo politika.
 
+## Informacijos rinkimas ir naudojimas
 
-Norėdami plėsti nemokamų dvasinių žinių ir laisvos kultūros bendrumą, visi _Urantia knygos_ skaitytojai, prisidedantys prie Urantiapedijos, yra skatinami suteikti plačiajai visuomenei platų leidimą laisvai platinti ir pakartotinai naudoti savo indėlį, jei toks naudojimas yra tinkamai priskirtas ir ta pati laisvė pakartotinai naudoti ir platinti suteikiama bet kokiems išvestiniams kūriniams.
+### Informacijos, kurią gauname iš jūsų, tipai ir kaip ją gauname
 
-Nereikalaujame, kad visas pateiktas turinys būtų licencijuotas, kad bet kas galėtų jį laisvai pakartotinai naudoti. Pagalbininkai, norintys apsaugoti savo turinį nuo laisvo pakartotinio platinimo ir pakartotinio naudojimo, gali tai nurodyti pranešime apie autorių teises kiekviename savo pateikto turinio puslapyje. Bendraautoriai gali prašyti Urantiapedia administratorių, kad jų turinys būtų leidžiamas tik pasirinktai vartotojų grupei arba tik vienam vartotojui. Urantiapedia sistemos administratoriai nustatys tokius plataus tokio turinio leidimo apribojimus, nebent būtų aiškiai nustatyta, kad prašomas apribojimas taikomas viešojo domeno turiniui arba turiniui, prieinamam pagal licenciją, leidžiančią viešai platinti ir pakartotinai naudoti.
+#### Jūsų viešas indėlis
 
-- a. **Tekstas, kurio autorių teisės priklauso jums**: kai pateikiate tekstą, kurio autorių teisės priklauso jums, sutinkate jį licencijuoti pagal [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) („CC BY-SA 4.0“). Pakartotiniai naudotojai gali laikytis tos pačios licencijos. Atminkite, kad ši licencija leidžia komerciniais tikslais naudoti jūsų indėlį, jei toks naudojimas atitinka sąlygas. 
-	– per hipersaitą (jei įmanoma) arba URL į straipsnį, prie kurio prisidėjote (kadangi kiekvienas straipsnis turi istorijos puslapį, kuriame išvardyti visi autoriai ir redaktoriai);
-- c. **Teksto importavimas**: galite importuoti tekstą, kurį radote kitur arba kurį sukūrėte kartu su kitais, tačiau tokiu atveju garantuojate, kad tekstas pasiekiamas pagal sąlygas, suderinamas su CC BY-SA 4.0 licencija. . Sutinkate, kad jei importuojate tekstą pagal CC BY-SA licenciją, kuriai reikalingas priskyrimas, turite pagrįstai nurodyti autorių (-ius). 
-– d. **Netekstinė laikmena**: netekstinė laikmena Urantiapedijoje yra prieinama pagal įvairias skirtingas licencijas, kurios palaiko bendrą tikslą leisti neribotą pakartotinį naudojimą ir platinimą. Kai pateikiate netekstinę laikmeną, sutinkate laikytis tokių licencijų reikalavimų.
-- e. **Licencija neatšaukiama**: išskyrus atvejus, kai tai atitinka jūsų licenciją, jūs sutinkate, kad vienašališkai neatšauksite ar nesieksite pripažinti negaliojančia jokios licencijos, kurią suteikėte pagal šias naudojimo sąlygas tekstiniam turiniui ar netekstinei laikmenai, pateiktai Urantiapedia. , net jei nutrauksite naudojimąsi mūsų paslaugomis. 
-- f. **Viešojo domeno turinys**: viešajame domene esantis turinys yra laukiamas! Tačiau svarbu, kad patvirtintumėte turinio viešojo domeno būseną pagal Ispanijos įstatymus ir bet kurių kitų šalių įstatymus. Kai pateikiate turinį, kuris yra viešasis domenas, jūs garantuojate, kad medžiaga iš tikrųjų yra viešoji, ir sutinkate ją atitinkamai pažymėti.
-- g. **Pakartotinis naudojimas**: mūsų talpinamo turinio pakartotinis naudojimas yra sveikintinas, tačiau yra išimčių turiniui, pateiktam pagal „sąžiningą naudojimą“ arba panašias išimtis pagal autorių teisių įstatymą. Bet koks pakartotinis naudojimas turi atitikti pagrindinę (-es) licenciją (-as). Kai pakartotinai naudojate arba platinate Urantiapedia bendruomenės sukurtą tekstinį puslapį, sutinkate priskirti autorius bet kuriuo iš šių būdų: 
-	- Per hipersaitą (jei įmanoma) arba URL į puslapį ar puslapius, kuriuos iš naujo naudojant (kadangi kiekvienas puslapis turi istorijos puslapį, kuriame išvardyti visi autoriai ir redaktoriai);
-	– Per hipersaitą (jei įmanoma) arba URL į alternatyvias kopijas „GitHub“ ([Urantiapedia pagrindinis projektas](https://github.com/JanHerca/urantiapedia) ir [Urantiapedia atsarginės kopijos projektas](https://github.com/JanHerca) /urantiapedia-backup)), stabilios internetinės kopijos, kurios yra laisvai prieinamos, atitinkančios licenciją ir suteikiančios autoriams kreditą tokiu pat būdu, kaip ir Urantiapedia svetainėje.
-	Be to, atminkite, kad tekstas, kilęs iš išorinių šaltinių ir importuotas į Urantiapediją, gali būti pagal licenciją, kuriai taikomi papildomi priskyrimo reikalavimai. Naudotojai sutinka aiškiai nurodyti šiuos papildomus priskyrimo reikalavimus. Tokie reikalavimai gali būti rodomi puslapio antraštės arba poraštės _Nuorodų_ užrašuose, nurodant, kad dalis arba visas turinys iš pradžių buvo paskelbtas kitur. Jei yra tokių matomų užrašų, pakartotiniai naudotojai turėtų juos išsaugoti.
-	Naudodami bet kokią netekstinę laikmeną, sutinkate laikytis bet kokios licencijos, pagal kurią darbas buvo prieinamas (kurią galite rasti spustelėję nuorodą, kuri turėtų būti bet kokios netekstinės laikmenos antraštėje, ir ieškant licencijavimo informacijos ). Pakartotinai naudodami bet kokį mūsų talpinamą turinį, sutinkate laikytis atitinkamų priskyrimo reikalavimų, susijusių su pagrindine licencija ar licencijomis. 
-- h. **Medžiagos, kurią naudojate pakartotinai, pakeitimai arba papildymai**: keisdami arba papildydami tekstą, kurį gavote iš Urantiapedia, sutinkate licencijuoti pakeistą arba pridėtą turinį pagal CC BY-SA 4.0 ar naujesnę versiją.
-	Turėdami tekstinį turinį ir netekstinę laikmeną, sutinkate aiškiai nurodyti, kad originalus kūrinys buvo pakeistas. Jei wiki tekstinį turinį naudojate pakartotinai, puslapių istorijoje pakanka nurodyti, kad pakeitėte importuotą tekstą. Prie kiekvienos platinamos kopijos ar modifikuotos versijos sutinkate įtraukti pranešimą apie licenciją, nurodantį, pagal kokią licenciją kūrinys išleistas, kartu su hipersaitu arba URL į licencijos tekstą arba pačios licencijos kopiją.
+Kai prisidedate prie Urantiapedia svetainės, įskaitant komentarų skyrius, sukuriate nuolatinį viešą kiekvieno jūsų pridėto, pašalinto ar pakeisto turinio įrašą. Puslapio istorijoje bus rodomas jūsų indėlis arba ištrynimas, taip pat jūsų vartotojo vardas. Galime naudoti jūsų viešą indėlį, apibendrintą su kitų viešu indėliu arba atskirai, norėdami sukurti jums naujų funkcijų ar su duomenimis susijusių produktų arba sužinoti daugiau apie tai, kaip naudojama Urantiapedia svetainė, kaip toliau paaiškinta „Kaip mes naudojame Informacija, kurią gauname iš jūsų“ šios privatumo politikos skyrių.
 
+#### Viešai matoma informacija
 
-Urantiapedia nori užtikrinti, kad mūsų talpinamą turinį galėtų pakartotinai naudoti kiti vartotojai, nebijodami atsakomybės ir kad jis nepažeistų kitų asmenų nuosavybės teisių. Sąžiningai mūsų naudotojų, taip pat kitų kūrėjų ir autorių teisių turėtojų atžvilgiu, mūsų politika yra reaguoti į pranešimus apie tariamus autorių teisių įstatymų pažeidimus. Vadovaudamiesi autorių teisių įstatymais, atitinkamomis aplinkybėmis nutrauksime savo sistemos naudotojų ir paskyrų savininkus, kurie pakartotinai pažeidinėja. 
+Jei šioje Politikoje nenurodyta kitaip, turėtumėte manyti, kad informacija, kurią aktyviai teikiate Urantiapedia svetainėje, įskaitant asmeninę informaciją, yra viešai matoma ir ją gali rasti paieškos sistemos. Kaip ir daugumą dalykų internete, viską, ką bendrinate, kiti žmonės gali nukopijuoti ir perskirstyti visame internete. Nepateikite jokios informacijos, kurią nepatogiai viešinate visam laikui, pvz., neatskleiskite savo tikrojo vardo ar buvimo vietos.
 
-Tačiau taip pat pripažįstame, kad ne kiekvienas pranešimas apie pašalinimą yra galiojantis arba sąžiningas. Tokiais atvejais primygtinai raginame naudotojus pateikti priešinius pranešimus, kai jie tinkamai mano, kad panaikinimo dėl autorių teisių reikalavimas yra negaliojantis arba netinkamas.
+Turėtumėte žinoti, kad konkrečius jūsų paskelbtus duomenis arba mūsų paskelbtus apibendrintus duomenis kiekvienas gali naudoti analizei ir papildomai informacijai, pvz., iš kurios šalies yra vartotojas, politinei pažiūrai ir lyčiai, nustatyti.
 
-Jei esate turinio, kuris Urantiapedijoje netinkamai naudojamas be jūsų leidimo, savininkas, galite prašyti, kad turinys būtų pašalintas pagal autorių teisių įstatymus. Norėdami pateikti tokį prašymą, atsiųskite mums el. laišką adresu urantiapedia@gmail.com. 
+#### Sąskaitos informacija ir registracija
 
-## 9. Trečiųjų šalių svetainės ir ištekliai Tik 
+Norėdami prisidėti prie Urantipedia svetainės, turite pateikti užklausą sukurti paskyrą. Jūs negalite sukurti paskyrų patys.
 
-jūs esate atsakingi už bet kokių trečiųjų šalių svetainių ar išteklių naudojimą. Nors Urantiapedijoje yra nuorodų į trečiųjų šalių svetaines ir išteklius, mes nepritariame ir nesame atsakingi už jų prieinamumą, tikslumą ar susijusį turinį, produktus ar paslaugas (įskaitant, bet neapsiribojant, bet kokius virusus ar kitas išjungiančias funkcijas). , taip pat nesame įsipareigoję stebėti tokio trečiųjų šalių turinio.
+Jei norite pateikti užklausą sukurti bendraautorio paskyrą, mums reikia tik vartotojo vardo, slaptažodžio ir el. pašto adreso. Galite bet kada pakeisti vartotojo vardą ir slaptažodį, bet ne el.
 
+Mes niekada nereikalaujame asmeninės informacijos, tokios kaip lytis, amžius.
 
-Urantiapedijos bendradarbių bendruomenė atlieka pagrindinį vaidmenį kuriant ir įgyvendinant jai taikomą politiką. Neįprastu atveju galime kreiptis į ypač problemišką bendradarbio naudotoją dėl didelių trikdžių ar pavojingo elgesio. Tokiais atvejais pasiliekame teisę, bet neprivalome: 
-– ištirti, kaip bendradarbiai naudojasi paslauga (a) siekdami nustatyti, ar nebuvo pažeistos šios naudojimo sąlygos arba kiti taikomi įstatymai ar politika, arba (b) laikytis visų taikomų įstatymų, teisinių procesų ar atitinkamų vyriausybės reikalavimų; 
-- Uždrausti vartotojui redaguoti ar prisidėti arba blokuoti vartotojo paskyrą ar prieigą už veiksmus, pažeidžiančius šias Naudojimosi sąlygas, įskaitant pakartotinį autorių teisių pažeidimą;
-- Imtis teisinių veiksmų prieš naudotojus, kurie pažeidžia šias Naudojimosi sąlygas (įskaitant pranešimus teisėsaugos institucijoms); ir 
-– kitaip tvarkyti Urantiapedia taip, kad ji palengvintų tinkamą jos veikimą ir apsaugotų mūsų bei mūsų vartotojų, licencijų išdavėjų, partnerių ir visuomenės teises, nuosavybę ir saugumą. 
+#### Vietos informacija
 
-Mūsų naudotojų ir projekto labui, ekstremaliomis aplinkybėmis, kai bet kurio asmens paskyra arba prieiga buvo užblokuota pagal šią nuostatą, jam arba jai draudžiama kurti ar naudoti kitą paskyrą arba siekti prieigos prie projekto, nebent suteikiame aiškų leidimą. 
+Jei sutinkate, galime naudoti GPS (ir kitas technologijas, dažniausiai naudojamas vietai nustatyti), kad parodytume jums aktualesnį turinį. Šiomis technologijomis gautą informaciją laikome konfidencialia, išskyrus šioje Politikoje numatytus atvejus.
 
-Paskyros ar prieigos blokavimas arba vartotojo uždraudimas pagal šią nuostatą turi būti atliekamas pagal šių naudojimo sąlygų 12 skyrių.
+### Informacija, susijusi su jūsų naudojimusi Urantiapedia svetaine
 
-## 11. Urantiapedia politika 
+Mes norime, kad Urantiapedia svetainė būtų jums geresnė, sužinodami daugiau apie tai, kaip jas naudojate. To pavyzdžiai gali būti, kaip dažnai lankotės Urantiapedia svetainėje, kas jums patinka, kas jums atrodo naudinga, kaip patenkate į Urantiapedia svetainę ir ar naudotumėte naudingą funkciją, jei paaiškintume kitaip. Taip pat norime, kad ši politika ir mūsų praktika atspindėtų mūsų bendruomenės vertybes. Dėl šios priežasties informaciją, susijusią su Urantiapedia svetainės naudojimu, laikome konfidencialia, išskyrus šioje Politikoje nurodytus atvejus.
 
-Urantiapedia valdyba gali retkarčiais paskelbti naujas oficialias taisykles. Sutinkate jų laikytis, jei taikoma. 
+#### Informacija, kurią gauname automatiškai
 
-## 12. Nutraukimas
+Dėl to, kaip veikia naršyklės, kai kurią informaciją gauname automatiškai, kai lankotės Urantiapedia svetainėje. Tai apima, kai naudojate internetinį įrankį trečiosios šalies svetainėje, kuri įkelia informaciją iš Urantiapedia svetainės. Ši informacija apima naudojamo įrenginio tipą, naršyklės tipą ir versiją, naršyklės kalbos pasirinkimą, įrenginio operacinės sistemos tipą ir versiją, kai kuriais atvejais interneto paslaugų teikėjo arba mobiliojo ryšio operatoriaus pavadinimą, svetainę. kuris nukreipė jus į Urantiapedia svetainę, į kuriuos puslapius prašote ir kuriuose lankotės bei kiekvienos Urantiapedijos svetainėje pateiktos užklausos data ir laikas.
 
-Nors tikimės, kad liksite ir toliau prisidėsite prie Urantiapedijos, bet kada galite nustoti naudotis mūsų paslaugomis. Tam tikromis (tikiuosi, mažai tikėtinomis) aplinkybėmis mums gali prireikti nutraukti dalį arba visas mūsų paslaugas, nutraukti šias naudojimo sąlygas, užblokuoti jūsų paskyrą ar prieigą arba uždrausti jus kaip vartotoją. Jei jūsų paskyra arba prieiga dėl kokios nors priežasties bus užblokuota ar kitaip nutraukta, jūsų viešas indėlis liks viešai prieinamas (atsižvelgiant į taikomą politiką), ir, nebent mes jums pranešime kitaip, jūs vis tiek galėsite pasiekti mūsų viešuosius puslapius, kad galėtumėte skaityti viešai. turimą turinį svetainėje. Tačiau tokiomis aplinkybėmis gali nepavykti pasiekti savo paskyros ar nustatymų. Mes pasiliekame teisę sustabdyti arba nutraukti paslaugų teikimą bet kuriuo metu, su priežastimi ar be jos ir su įspėjimu arba be jo.
+Paprasčiau tariant, šią informaciją naudojame siekdami pagerinti jūsų patirtį dirbant su Urantiapedia svetaine. Pavyzdžiui, šią informaciją naudojame svetainei administruoti, užtikrinti didesnį saugumą ir kovoti su vandalizmu; optimizuoti programas mobiliesiems, tinkinti turinį ir nustatyti kalbos nuostatas, išbandyti funkcijas, kad pamatytumėte, kas veikia, ir pagerinti našumą; suprasti, kaip vartotojai sąveikauja su Urantiapedia svetaine, stebėti ir tyrinėti įvairių funkcijų naudojimą, suprasti Urantiapedia svetainės demografinius rodiklius ir analizuoti tendencijas.
 
-## 13. Ginčai ir jurisdikcija 
+#### Informacija, kurią renkame
 
-Tikimės, kad su jumis nekils rimtų nesutarimų, tačiau kilus ginčui raginame ieškoti sprendimo taikant Urantiapedijos pateiktas ginčų sprendimo procedūras arba mechanizmus. Jei norite pateikti mums teisinę pretenziją, sutinkate ją pateikti ir išspręsti tik Ispanijoje. Jūs taip pat sutinkate, kad Ispanijos įstatymai bus taikomi šioms naudojimo sąlygoms, taip pat bet kokiai teisinei pretenzijai, kuri gali kilti tarp jūsų ir mūsų (neatsižvelgiant į įstatymų kolizijos principus). Jūs sutinkate paklusti asmeninei Ispanijos teismų jurisdikcijai ir sutinkate, kad vieta būtų tinkama teismuose, susijusiuose su mumis arba šiomis naudojimo sąlygomis.
+Mes aktyviai renkame tam tikros rūšies informaciją naudodami įvairias dažniausiai naudojamas technologijas. Paprastai tai apima stebėjimo taškus, „JavaScript“ ir įvairias „vietoje saugomų duomenų“ technologijas, pvz., slapukus ir vietinę saugyklą. Tokio tipo technologijos taip pat gali būti naudojamos internetiniuose įrankiuose trečiosios šalies svetainėje, kuri įkelia informaciją iš Urantiapedia svetainės. Suprantame, kad kai kurios iš šių technologijų neturi geriausios reputacijos mieste ir gali būti naudojamos ne tokiems kilniems tikslams. Taigi norime kuo tiksliau paaiškinti, kodėl naudojame šiuos metodus ir kokios informacijos su jais renkame.
 
-Siekdami užtikrinti, kad ginčai būtų išspręsti netrukus po jų kilimo, sutinkate, kad nepaisant bet kokių įstatymų ar įstatymų, kurie prieštarauja priešingai, bet kokia pretenzija ar ieškinio pagrindas, galintis kilti dėl mūsų paslaugų ar šių naudojimo sąlygų arba susijusių su jomis turi būti paduotas per taikomą senaties terminą arba, jei anksčiau, per vienerius (1) metus nuo tos dienos, kai buvo galima pakankamai kruopščiai išsiaiškinti svarbius faktus, kuriais grindžiamas toks ieškinys arba ieškinio pagrindas (arba senaties terminas gali būti negrįžtamas). 
+Priklausomai nuo to, kokią technologiją naudojame, vietoje saugomi duomenys gali apimti tekstą, asmeninę informaciją (pvz., jūsų IP adresą) ir informaciją apie tai, kaip naudojatės Urantiapedia svetaine (pvz., naudotojo vardas arba apsilankymo laikas). Daugiau informacijos rasite toliau.
 
-## 14. Atsisakymas
+Šią informaciją naudojame siekdami, kad jūsų patirtis su Urantiapedia svetaine taptų saugesnė ir geresnė, geriau suprastume vartotojų nuostatas ir jų sąveiką su Urantiapedia svetaine bei apskritai patobulintume savo paslaugas. Mes niekada nenaudosime trečiųjų šalių slapukų, nebent gausime jūsų sutikimą tai daryti. Jei kada nors susidursite su trečiosios šalies duomenų rinkimo įrankiu, kuriam nesate įgaliotas (pvz., tokį, kurį per klaidą įdėjo kitas naudotojas arba administratorius), praneškite apie tai mums adresu urantiapedia@gmail.com.
 
-Urantiapedijoje mes darome viską, kad pateiktume dvasinį šviečiantį turinį labai plačiai auditorijai, tačiau jūs rizikuojate naudotis mūsų paslaugomis. Mes teikiame šias paslaugas „tokios, kokios yra“ ir „kaip prieinamos“, ir aiškiai atsisakome visų tiesioginių ar numanomų visų rūšių garantijų, įskaitant, bet neapsiribojant, numanomas perkamumo, tinkamumo tam tikram tikslui ir ne pažeidimas. Mes negarantuojame, kad mūsų paslaugos atitiks jūsų reikalavimus, bus saugios, saugios, nepertraukiamos, savalaikės, tikslios ar be klaidų, arba kad jūsų informacija bus saugi.
+### Kaip naudojame informaciją, kurią gauname iš jūsų
 
-Mes nesame atsakingi už trečiųjų šalių turinį, duomenis ar veiksmus, o jūs atleidžiate mus, mūsų direktorius, pareigūnus, darbuotojus ir agentus nuo bet kokių žinomų ir nežinomų pretenzijų ir žalos, kylančios iš ar kaip nors su ja susijusių. pretenziją, kurią turite bet kuriai tokiai trečiajai šaliai. Jokie patarimai ar informacija, žodinė ar rašytinė, kurią jūs gaunate iš mūsų arba per mūsų paslaugas, nesuteikia jokios garantijos, kuri nėra aiškiai nurodyta šiose naudojimo sąlygose.
+#### Bendra
 
-Bet kokia medžiaga, atsisiųsta ar kitaip gauta naudojantis mūsų paslaugomis, atliekama savo nuožiūra ir rizika, ir jūs būsite visiškai atsakingas už bet kokią žalą jūsų kompiuterinei sistemai arba duomenų praradimą, atsiradusį atsisiunčiant bet kokią tokią medžiagą. Jūs sutinkate, kad mes neprisiimame atsakomybės už bet kokio paslaugos palaikomo turinio ar komunikacijos ištrynimą, nesugebėjimą saugoti ar perduoti. Mes pasiliekame teisę savo nuožiūra nustatyti naudojimo ir saugojimo apribojimus bet kuriuo metu su įspėjimu arba be jo. 
+Mes ir mūsų paslaugų teikėjai naudojame jūsų informaciją teisėtam tikslui vykdyti savo labdaros misiją, įskaitant:
+- Urantiapedia svetainės valdymas, jūsų įnašų dalijimasis ir mūsų paslaugų administravimas.
+    - Padėti jums dalytis savo žiniomis apie Urantia knygą su pasauliu ir pridėti naujų funkcijų prie mūsų paslaugų.
+    - Sutvarkyti prieigą prie paskyros ir teikti susijusias paslaugas.
+    – Siųsti jums administracinę informaciją, pvz., mūsų politikos pakeitimus.
+    Šia veikla užsiimame siekdami valdyti savo santykius su jumis, nes turime teisėtą interesą ir (arba) laikydamiesi savo teisinių įsipareigojimų.
+- Individualių paslaugų teikimas.
+    - Pateikti jums tinkintą turinį, pranešimus ir nustatymus bei pagerinti jūsų patirtį naudojant Urantiapedia svetainę.
+    Kai kuriais atvejais mes pritaikysime Paslaugas jums sutikus; arba atsižvelgiant į mūsų teisėtą interesą.
+- El. laiškų siuntimas su naujienomis ir pranešimais apie elementus, kurie, mūsų nuomone, gali jus sudominti.
+    - Informuoti jus apie dalykus, kurie vyksta su Urantiapedia svetaine arba Urantiapedia judėjimu.
+    Tokio tipo el. laiškus siųsime jums tik gavę jūsų sutikimą, išskyrus atvejus, kai pagal galiojančius įstatymus leidžiama kitaip. Mes neparduodame, neišnuomojame ir nenaudojame jūsų el. pašto adreso trečiųjų šalių produktų ar paslaugų reklamai jums.
+- Urantiapedia svetainės tobulinimas ir saugesnė bei geresnė naudotojų patirtis.
+    - Naudoti savo viešuosius indėlius, suvestus su kitų viešu indėliu arba atskirai, kurti naujas funkcijas ar su duomenimis susijusius produktus arba sužinoti daugiau apie tai, kaip naudojama Urantiapedia svetainė.
+    - Kovoti su šlamštu, tapatybės vagystėmis, kenkėjiškomis programomis ir kitais piktnaudžiavimo būdais.
+    - optimizuoti mobiliąsias ir kitas programas.
+    - Išbandyti funkcijas, kad pamatytumėte, kas veikia, suprasti, kaip vartotojai sąveikauja su Urantiapedia svetaine, stebėti ir tyrinėti įvairių funkcijų naudojimą, įgyti supratimo apie Urantiapedia svetainės demografinius rodiklius ir analizuoti tendencijas.
+    Šia veikla užsiimame siekdami paremti savo teisėtus interesus ir (arba) vykdyti savo teisinius įsipareigojimus.
 
-Kai kuriose šalyse ar jurisdikcijose neleidžiami šiame skyriuje nurodytų atsisakymų tipai, todėl, atsižvelgiant į įstatymus, jie gali būti jums netaikomi nei iš dalies, nei visiškai. 
+#### Kita
 
-## 15. Atsakomybės apribojimas
+##### Vietos informacija
 
-Urantiapedia nebus atsakinga nei jums, nei jokiai kitai šaliai už jokius tiesioginius, netiesioginius, atsitiktinius, specialius, pasekminius ar pavyzdinius nuostolius, įskaitant, bet tuo neapsiribojant, nuostolius dėl prarasto pelno, prestižo, naudojimo, duomenų ar kitus nematerialius nuostolius, neatsižvelgiant į tai, ar buvome informuoti apie tokios žalos galimybę. Bendra mūsų atsakomybė jokiu būdu negali viršyti šimto eurų (100,00 EUR). Tuo atveju, kai taikomi įstatymai negali leisti apriboti ar pašalinti atsakomybės arba atsitiktinės ar pasekminės žalos, aukščiau nurodytas apribojimas arba išskyrimas jums gali būti netaikomas, nors mūsų atsakomybė bus apribota tiek, kiek leidžiama pagal taikomus įstatymus. 
+Kaip minėta pirmiau, galime naudoti dažniausiai naudojamas vietos nustatymo technologijas, kad parodytume jums aktualesnį turinį. Primename, kad galite bet kada sutikti ir (arba) išjungti mūsų prieigą prie šių vietos nustatymo technologijų, pavyzdžiui, naudodami savo mobiliojo įrenginio OS funkcijas, ir vis tiek naudotis Urantiapedia svetaine.
 
-## 16. Šių naudojimo sąlygų pakeitimai
+##### IP adresai
 
-Kaip ir Urantiapedia bendruomenės indėlis yra būtinas projekto augimui ir palaikymui, mes tikime, kad bendruomenės indėlis yra būtinas, kad šios naudojimo sąlygos tinkamai aptarnautų mūsų vartotojus. Tai taip pat būtina sąžiningai sutarčiai. Todėl mes pateiksime šias naudojimo sąlygas, taip pat bet kokius esminius būsimus šių naudojimo sąlygų pakeitimus, kad bendruomenė galėtų komentuoti likus mažiausiai trisdešimčiai (30) dienų iki komentavimo laikotarpio pabaigos. Jei būsimas siūlomas taisymas yra esminis, paskelbus siūlomo pataisymo vertimą į bent tris kalbas (pasirinktas mūsų nuožiūra), suteiksime papildomų 30 dienų komentarams pateikti. Bendruomenė bus skatinama, jei reikia, išversti siūlomą pataisą į kitas kalbas. Dėl pakeitimų dėl teisinių ar administracinių priežasčių, norėdami ištaisyti netikslų pareiškimą,
+Kai lankotės bet kurioje Urantiapedia svetainėje, mes automatiškai gauname įrenginio (arba tarpinio serverio), kurį naudojate prisijungdami prie interneto, IP adresą, kuris gali būti naudojamas jūsų geografinei vietai nustatyti. IP adresus laikome konfidencialiais, išskyrus šioje Politikoje numatytus atvejus. Jei lankotės Urantiapedia svetainėje naudodami savo mobilųjį įrenginį, galime naudoti jūsų IP adresą, kad paslaugų teikėjams teiktųme anoniminę arba apibendrintą informaciją apie naudojimo apimtį tam tikrose srityse.
 
-Kadangi gali prireikti retkarčiais keisti šias Naudojimosi sąlygas, mes pranešime apie tokius pakeitimus ir galimybę pateikti pastabas projekto svetainėje. Tačiau prašome periodiškai peržiūrėti naujausią šių naudojimo sąlygų versiją. Jūsų tolesnis naudojimasis mūsų paslaugomis po to, kai naujosios naudojimo sąlygos taps oficialios po įspėjimo ir peržiūros laikotarpio, reiškia, kad jūs sutinkate su šiomis naudojimo sąlygomis. Siekiant apsaugoti Urantiapedia ir kitus naudotojus, tokius kaip jūs, jei nesutinkate su mūsų naudojimo sąlygomis, negalite naudotis mūsų paslaugomis. 
+Šią vietos informaciją naudojame siekdami, kad jūsų patirtis su Urantiapedia svetaine taptų saugesnė ir geresnė, geriau suprastume vartotojų nuostatas ir jų sąveiką su Urantiapedia svetaine bei apskritai pagerintume savo paslaugas. Pavyzdžiui, šią informaciją naudojame siekdami užtikrinti didesnį saugumą, optimizuoti mobiliąsias programas ir sužinoti, kaip išplėsti ir geriau palaikyti Urantiapedia bendruomenę. Asmeninę informaciją taip pat naudojame taip, kaip aprašyta šios politikos skyriuose „Dėl teisinių priežasčių“ ir „Siekdami apsaugoti jus, save ir kitus“.
 
-## 17. Kitos sąlygos
+## Bendrinimas
 
-Šios naudojimo sąlygos nesukuria darbo, agentūros, partnerystės ar bendros įmonės santykių tarp jūsų ir mūsų, Urantiapedia. Jei nesate su mumis pasirašę atskiros sutarties, šios Naudojimo sąlygos yra visa sutartis tarp jūsų ir mūsų. Jei yra kokių nors prieštaravimų tarp šių naudojimo sąlygų ir tarp jūsų ir mūsų pasirašytos rašytinės sutarties, pasirašyta sutartis bus valdoma. 
+### Kada galėsime pasidalinti jūsų informacija?
 
-Jūs sutinkate, kad galėtume pateikti jums pranešimus, įskaitant tuos, kurie susiję su Naudojimosi sąlygų pakeitimais, el. paštu, paprastu paštu arba paskelbdami projekto svetainėje. 
+#### Su jūsų leidimu
 
-Jei kokiomis nors aplinkybėmis netaikome ar nevykdome kurios nors šių naudojimo sąlygų nuostatos, tai nėra tos nuostatos atsisakymas.
+Jei sutinkate, dalijamės jūsų asmenine informacija konkrečiam tikslui.
 
-Jūs suprantate, kad, nebent mes raštu susitartume kitaip, nesitikite kompensacijos už bet kokią veiklą, indėlį ar idėją, kurią pateikiate mums, Urantiapedijos bendruomenei ar Urantiapedijos valdybai. 
+#### Dėl teisinių priežasčių
 
-Nepaisant bet kokių priešingų nuostatų šiose naudojimo sąlygose, mes (Urantiapedia valdyba) ir jūs sutinkate nekeisti jokios projekte naudojamos nemokamos licencijos taikomų sąlygų ir reikalavimų, kai tokia nemokama licencija yra įgaliota pagal šias naudojimo sąlygas. 
+Pasieksime, naudosime, išsaugosime ir (arba) atskleisime jūsų asmeninę informaciją, jei pagrįstai manysime, kad tai būtina norint įvykdyti galiojantį ir teisiškai vykdytiną orderį, teismo šaukimą, teismo įsakymą, įstatymą ar reglamentą ar kitą teisminį ar administracinį nurodymą. Tačiau jei manome, kad konkretus prašymas atskleisti vartotojo informaciją yra teisiškai negaliojantis arba piktnaudžiavimas teisine sistema, o paveiktas vartotojas pats neketina prieštarauti atskleidimui, stengsimės su tuo kovoti. Esame įsipareigoję informuoti jus el. paštu bent dešimt (10) kalendorinių dienų, kai įmanoma, prieš atskleisdami jūsų asmeninę informaciją reaguodami į teisinį reikalavimą. Tačiau mes galime pateikti pranešimą tik tuo atveju, jei mums nėra teisiškai suvaržytas susisiekti su jumis, nėra jokios patikimos grėsmės gyvybei ar galūnei, kuri kyla arba padidėja atskleidus prašymą,
 
-Šios naudojimo sąlygos buvo parašytos anglų kalba (JAV). Nors tikimės, kad šių Naudojimo sąlygų vertimai yra tikslūs, jei originalios versijos anglų kalba ir vertimo reikšmė skiriasi, pirmenybė teikiama pirminei versijai anglų kalba.
+Nė viena šios privatumo politikos nuostata nėra skirta apriboti bet kokius teisinius prieštaravimus ar gynybą, kurios jums gali tekti dėl trečiosios šalies prašymo (ar tai būtų civilinė, baudžiamoji ar vyriausybinė) atskleisti jūsų asmeninę informaciją. Rekomenduojame nedelsiant kreiptis į teisininko patarimą, jei toks prašymas pateikiamas dėl jūsų.
 
-Jei kuri nors šių naudojimo sąlygų nuostata ar jos dalis pripažįstama neteisėta, negaliojančia arba neįgyvendinama, ta nuostata ar nuostatos dalis yra atskirta nuo šių naudojimo sąlygų ir bus vykdoma maksimaliai leistina apimtimi, o visa kita šių Naudojimosi sąlygų nuostatos galios ir galios. 
+#### Norėdami apsaugoti jus, save ir kitus
 
-## Ačiū!
+Mes arba konkretūs naudotojai, turintys tam tikras administracines teises, kaip aprašyta toliau, turime naudoti ir dalytis jūsų asmenine informacija, jei pagrįstai manoma, kad tai būtina siekiant užtikrinti arba ištirti galimus mūsų naudojimo sąlygų arba šios privatumo politikos pažeidimus. Mums taip pat gali tekti pasiekti ir dalytis Asmenine informacija, kad galėtume ištirti ir apsiginti nuo teisinių grėsmių ar veiksmų.
 
-Dėkojame, kad skyrėte laiko perskaityti šias naudojimo sąlygas, ir labai džiaugiamės, kad prisidedate prie Urantiapedijos ir naudojatės mūsų paslaugomis. Savo indėliais padedate sukurti [didžiulę žinių saugyklą](/lt/The_Urantia_Book/27#p5_5) apie **Penktąjį epochinį apreiškimą** Žemėje, kažką tikrai didelio – ne tik svarbią bendradarbiavimo kolekciją. redaguota nuoroda į _Urantia Book_ turinį, suteikiantį dvasinį ir religinį nušvitimą milijonams, kuriems kitu atveju gali trūkti prieigos, bet taip pat gyvybinga bendraminčių ir įsitraukusių bendraamžių bendruomenė, orientuota į labai kilnų tikslą. 
+Tikimės, kad tai niekada nepasitaikys, tačiau galime atskleisti jūsų asmeninę informaciją, jei manysime, kad tai pagrįstai būtina siekiant užkirsti kelią neišvengiamam ir sunkiam asmens sužalojimui ar asmens mirčiai arba apsaugoti mūsų organizaciją, darbuotojus, rangovus, vartotojus ar visuomenę. . Taip pat galime atskleisti jūsų asmeninę informaciją, jei pagrįstai manome, kad tai būtina norint aptikti, užkirsti kelią ar kitaip įvertinti ir spręsti galimą nepageidaujamą el. pašto adresą, kenkėjiškas programas, sukčiavimą, piktnaudžiavimą, neteisėtą veiklą ir saugumo ar techninius rūpesčius.
 
---- 
+## Apsauga
 
-Grįžti į puslapį su santrauka apie [licenciją, naudojimo sąlygas ir kitą teisinę informaciją](/lt/license).
+### Kaip apsaugome jūsų asmeninę informaciją?
+
+Stengiamės apsaugoti jūsų asmeninę informaciją nuo neteisėtos prieigos, naudojimo ar atskleidimo. Mes naudojame įvairias fizines ir technines priemones, politiką ir procedūras (pvz., prieigos kontrolės procedūras, tinklo užkardas ir fizinę apsaugą), skirtas apsaugoti mūsų sistemas ir jūsų asmeninę informaciją. Deja, nėra tokio dalyko kaip visiškai saugus duomenų perdavimas ar saugojimas, todėl negalime garantuoti, kad mūsų saugumas nebus pažeistas (dėl techninių priemonių arba pažeidžiant mūsų politiką ir procedūras).
+
+Mes niekada neprašome jūsų slaptažodžio el. paštu (tačiau galime atsiųsti jums laikiną slaptažodį el. paštu, jei paprašėte slaptažodžio nustatymo iš naujo). Jei kada nors gausite el. laišką, kuriame prašoma slaptažodžio, praneškite mums atsiųsdami jį adresu urantiapedia@gmail.com, kad galėtume ištirti el. laiško šaltinį.
+
+### Kiek laiko saugome jūsų duomenis?
+
+Gavę iš jūsų asmeninę informaciją, ją saugome kuo trumpesnį laiką, atitinkantį Urantiapedia svetainės priežiūrą, supratimą ir tobulinimą bei mūsų įsipareigojimus pagal galiojančius įstatymus. Daugeliu atvejų Asmeninė informacija ištrinama, sujungiama arba panaikinama po 90 dienų. Prireikus neasmeninė informacija gali būti saugoma neribotą laiką.
+
+Atminkite, kad kai prisidedate prie Urantiapedia svetainės, puslapio istorijoje bus rodomas jūsų indėlis ir vartotojo vardas. Projekto įnašų ir peržiūrų istorijos skaidrumas yra labai svarbus jo veiksmingumui ir patikimumui.
+
+## Jūsų teisės
+
+Jei norite prašyti prieigos, atnaujinti arba apriboti / prieštarauti Asmens informacijos tvarkymui arba gauti savo Asmeninės informacijos kopiją, kad galėtumėte ją perduoti kitai organizacijai, galite susisiekti su mumis. Mes atsakysime į jūsų užklausą pagal galiojančius įstatymus.
+
+Taip pat atkreipkite dėmesį, kad kai kuriomis iš šių teisių galite pasinaudoti be mūsų įsikišimo. Pavyzdžiui, jei esate registruotas vartotojas, savo paskyros puslapyje galite pasiekti ir atnaujinti tam tikrą asmeninę informaciją.
+
+## Svarbi informacija
+
+**Siekdami apsaugoti Urantiapedia ir kitus vartotojus, jei nesutinkate su šia privatumo politika, negalite naudotis Urantiapedia svetaine.**
+
+
+### Kur yra Urantiapedija ir ką tai reiškia man?
+
+„Urantiapedia“ yra ne organizacija, o paprastas projektas, sukurtas bendraautorių bendruomenės su serveriais, kurie gali būti skirtingose ​​šalyse, atsižvelgiant į mūsų prieglobos paslaugų teikėjo pasiekiamumą. Jei nuspręsite naudotis Urantiapedia svetaine, jūs suprantate, kad jūsų asmeninė informacija bus renkama, perduodama, saugoma, apdorojama, atskleidžiama ir kitaip naudojama šalyje, kurioje yra mūsų serveriai, kaip aprašyta šioje privatumo politikoje. Taip pat suprantate, kad mes galime perduoti jūsų informaciją iš šalių, kuriose yra mūsų serveriai, į kitas šalis, kuriose gali būti taikomi kitokie arba ne tokie griežti duomenų apsaugos įstatymai nei jūsų šalyje, teikdami jums paslaugas.
+
+### Mūsų atsakas į nesekimo (DNT) signalus
+
+Esame tvirtai įsipareigoję apsaugoti vartotojų asmeninę informaciją. Pagal šią politiką galime dalytis jūsų informacija tik tam tikromis aplinkybėmis, apie kurias galite sužinoti daugiau šios privatumo politikos skiltyje „Kada galime pasidalinti jūsų informacija“. Visų pirma, mes nesidaliname jūsų asmenine informacija rinkodaros tikslais.
+
+Kadangi saugome visus vartotojus pagal šią privatumo politiką, nekeičiame savo elgesio reaguodami į interneto naršyklės signalą „nesekti“.
+
+### Šios privatumo politikos pakeitimai
+
+Kadangi viskas laikui bėgant natūraliai keičiasi ir norime užtikrinti, kad mūsų privatumo politika tiksliai atspindėtų mūsų praktiką ir įstatymus, gali prireikti retkarčiais keisti šią privatumo politiką. Pasiliekame teisę tai daryti šiais būdais:
+- Esant esminiams pakeitimams, siūlomus pakeitimus savo vartotojams pateiksime mažiausiai trimis (3) kalbomis (pasirinktomis mūsų nuožiūra) ne trumpiau kaip trisdešimt (30) kalendorinių dienų trunkančiam atvirų komentarų laikotarpiui. Prieš prasidedant bet kokiam komentavimo laikotarpiui, apie tokius pakeitimus ir galimybę komentuoti pranešime urantiapedia@gmail.com.
+- Dėl nedidelių pakeitimų, pvz., gramatinių pataisų, administracinių ar teisinių pakeitimų arba netikslių teiginių pataisymų, paskelbsime pakeitimus ir, jei įmanoma, ne vėliau kaip prieš tris (3) kalendorines dienas pranešime bendraautoriams el. paštu arba bendraautoriams. WhatsApp pokalbių grupės.
+
+Prašome peržiūrėti naujausią mūsų privatumo politikos versiją. Jūsų tolesnis naudojimasis Urantiapedia svetaine po bet kurios vėlesnės šios privatumo politikos versijos įsigaliojimo datos reiškia, kad jūs sutinkate su šia privatumo politika.
+
+### Susisiekite su mumis
+
+Jei turite klausimų ar pasiūlymų dėl šios privatumo politikos arba informacijos, surinktos pagal šią privatumo politiką, rašykite mums el. paštu urantiapedia@gmail.com.
+
+### Ačiū!
+
+Dėkojame, kad perskaitėte mūsų privatumo politiką. Tikimės, kad jums patiks naudotis Urantiapedia svetaine ir vertiname jūsų dalyvavimą kuriant, prižiūrint ir nuolat tobulinant šią nemokamą **Penktojo epochinio pasaulio apreiškimo** žinių saugyklą.
+
+**Atminkite, kad esant bet kokiems šios privatumo politikos originalios versijos anglų kalba ir vertimo prasmės ar aiškinimo skirtumams, pirmenybė teikiama originaliai versijai anglų kalba.**
+
+---
+
+Grįžkite į puslapį su santrauka apie [licenciją, naudojimo sąlygas ir kitą teisinę informaciją](/lt/license).

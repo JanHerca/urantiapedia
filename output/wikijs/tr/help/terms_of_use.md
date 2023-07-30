@@ -29,103 +29,123 @@ Urantiapedia, gerçeğin Dünya üzerinde yapılmış olan en büyük ve en son 
 
 Bilgilerinizi nasıl topladığımızı ve kullandığımızı bilmeniz için [Gizlilik Politikamızın](/tr/help/privacy_policy) şartlarını incelemenizi rica ediyoruz. Hizmetlerimiz dünyanın her yerindeki insanlar tarafından kullanıldığından, topladığımız kişisel bilgiler tesislerimizde saklanabilir ve işlenebilir. Hizmetlerimizi kullanarak, bu tür bilgilerin ülkeniz dışına aktarılmasına izin vermiş olursunuz. 
 
-## 3. Barındırdığımız İçerik 
+## 3. Barındırdığımız İçerik
 
-İçeriğimiz yalnızca ruhsal aydınlanma amaçlıdır: Tıbbi, yasal veya mali konular dahil olmak üzere profesyonel konularla ilgili hiçbir bilgiyi barındırmıyoruz. Hiçbir içerik profesyonel tavsiye olarak alınmamalıdır. 
+Bazı materyalleri sakıncalı veya hatalı bulabilirsiniz: _Urantia Book_ okuyucuları tarafından üretilen veya toplanan çok çeşitli ruhani ve dini içerik sağladığımız için, saldırgan, hatalı, yanıltıcı, yanlış etiketlenmiş veya başka bir şekilde sakıncalı bulduğunuz materyallerle karşılaşabilirsiniz. Bu nedenle, hizmetlerimizi kullanırken sağduyunuzu ve uygun muhakemenizi kullanmanızı rica ediyoruz.
+
+İçeriğimiz yalnızca manevi aydınlanma amaçlıdır: Tıbbi, yasal veya mali konular dahil olmak üzere profesyonel konularla ilgili hiçbir bilgiyi barındırmıyoruz. Hiçbir içerik profesyonel tavsiye olarak alınmamalıdır.
 
 ## 4. Belirli Faaliyetlerden Kaçınma
 
+Urantiapedia yalnızca, içeriği yazmak, düzenlemek ve düzenlemek için işbirliği yapan sizin gibi bir _Urantia Book_ okuyucu topluluğu sayesinde var olur. Bu topluluğa katılımınızı memnuniyetle karşılıyoruz. Topluluktaki diğer kişilerle etkileşimlerinizde medeni ve kibar olmanızı, iyi niyetle hareket etmenizi ve Urantiapedia'nın misyonunu ilerletmeyi amaçlayan düzenlemeler ve katkılar yapmanızı teşvik ediyoruz.
 
-İster yasal ister yasa dışı olsun, bazı faaliyetler diğer kullanıcılara zarar verebilir ve kurallarımızı ihlal edebilir ve bazı faaliyetler ayrıca sizi yükümlülük altına sokabilir. Bu nedenle, kendi güvenliğiniz ve diğer kullanıcıların güvenliği için sitemizde bu tür faaliyetlerde bulunamazsınız. Bu faaliyetler şunları içerir: 
+İster yasal ister yasa dışı olsun, bazı faaliyetler diğer kullanıcılara zarar verebilir ve kurallarımızı ihlal edebilir ve bazı faaliyetler ayrıca sizi yükümlülük altına sokabilir. Bu nedenle, kendi güvenliğiniz ve diğer kullanıcıların güvenliği için sitemizde bu tür faaliyetlerde bulunamazsınız. Bu faaliyetler şunları içerir:
 
-- **Başkalarını Taciz Etmek ve Suistimal Etmek** 
-	- Diğer kullanıcılara zincir posta, gereksiz posta veya spam göndermek. 
-- **Başkalarının 
-	Mahremiyetini İhlal Etmek** - İspanya kanunları veya diğer ilgili kanunlar (yaşadığınız veya içeriği görüntülediğiniz veya düzenlediğiniz yerdeki kanunlar dahil olabilir) kapsamında başkalarının mahremiyet haklarını ihlal etmek;
-	- Taciz, sömürü, mahremiyet ihlali veya Urantiapedia tarafından açıkça onaylanmayan herhangi bir tanıtım veya ticari amaç için kişisel olarak tanımlanabilir bilgilerin talep edilmesi; ve 
-	- 18 yaşının altındaki herhangi birinden, yasa dışı bir amaç için veya reşit olmayanların sağlığı veya esenliği ile ilgili herhangi bir geçerli yasayı ihlal etmek için kişisel olarak tanımlanabilir bilgiler talep etmek. 
-- **Yanlış Beyanlarda, Kimliğe Bürünmede veya Sahtekarlıkta Bulunma** 
-	- Kasıtlı olarak veya bilerek iftira veya iftira teşkil eden içerik yayınlamak; 
-	- Başka bir kullanıcıyı veya kişiyi taklit etmeye çalışmak, herhangi bir kişi veya kuruluşla bağlantınızı yanlış beyan etmek veya başka bir kullanıcının kullanıcı adını aldatmak amacıyla kullanmak; ve 
+- **Başkalarını Taciz Etmek ve İstismar Etmek**
+	- Taciz, tehdit, takip, spam veya vandallıkla uğraşmak; Ve
+	- Diğer kullanıcılara zincir posta, önemsiz posta veya spam gönderme.
+- **Başkalarının Gizliliğini İhlal Etmek**
+	- İspanya kanunları veya diğer ilgili kanunlar (yaşadığınız veya içeriği görüntülediğiniz veya düzenlediğiniz yerdeki kanunlar dahil olabilir) kapsamında başkalarının mahremiyet haklarını ihlal etmek;
+	- Taciz, sömürü, mahremiyet ihlali veya Urantiapedia tarafından açıkça onaylanmayan herhangi bir tanıtım veya ticari amaç için kişisel olarak tanımlanabilir bilgilerin talep edilmesi; Ve
+	- 18 yaşının altındaki herhangi birinden, yasa dışı bir amaç için veya reşit olmayanların sağlığı veya esenliği ile ilgili herhangi bir geçerli yasayı ihlal etmek için kişisel olarak tanımlanabilir bilgiler talep etmek.
+- **Yanlış Beyanlarda, Kimliğe Bürünmede veya Sahtekarlıkta Bulunma**
+	- Kasıtlı olarak veya bilerek iftira veya karalama teşkil eden içerik yayınlamak;
+	- Aldatma kastı ile yanlış veya doğru olmayan içerikler yayınlamak;
+	- Başka bir kullanıcıyı veya kişiyi taklit etmeye çalışmak, herhangi bir kişi veya kuruluşla bağlantınızı yanlış beyan etmek veya başka bir kullanıcının kullanıcı adını aldatmak amacıyla kullanmak; Ve
+	- Dolandırıcılığa bulaşmak.
 - **İhlal Yapmak**
-	- Yürürlükteki yasa kapsamındaki telif haklarını, ticari markaları, patentleri veya diğer mülkiyet haklarını ihlal etmek. 
-- **Hizmetlerimizi Diğer Yasa Dışı Amaçlarla Suistimal Etmek** 
-	- Çocuk pornografisi veya çocuk pornografisiyle ilgili yürürlükteki kanunları ihlal eden diğer içerikleri yayınlamak; 
-	- Yürürlükteki yasalara göre yasa dışı olan müstehcen materyallerin yayınlanması veya ticareti; ve 
-	- Hizmetleri geçerli yasalara aykırı bir şekilde kullanmak. 
-- **Tesislerin Yıkıcı ve Yasadışı Kötüye Kullanımına Girmek** 
-	- Sitenin, hizmetleri kötüye kullanan veya aksatan ve Urantiapedia tarafından onaylanmamış otomatik kullanımlarına dahil olmak; 
+	- Yürürlükteki yasa kapsamındaki telif haklarını, ticari markaları, patentleri veya diğer mülkiyet haklarını ihlal etmek.
+- **Hizmetlerimizi Diğer Yasa Dışı Amaçlarla Suistimal Etmek**
+	- Çocuk pornografisi veya çocuk pornografisi ile ilgili geçerli yasayı ihlal eden diğer içeriklerin yayınlanması;
+	- Yürürlükteki yasalara göre yasa dışı olan müstehcen materyallerin yayınlanması veya ticareti; Ve
+	- Hizmetleri geçerli yasalara aykırı bir şekilde kullanmak.
+- **Tesislerin Yıkıcı ve Yasadışı Kötüye Kullanımına Girmek**
+	- Teknik altyapımıza veya sistemimize veya kullanıcılarımızınkine zarar verebilecek herhangi bir virüs, kötü amaçlı yazılım, solucan, Truva atı, kötü amaçlı kod veya başka bir cihaz içeren içerik göndermek veya dağıtmak;
+	- Sitenin, hizmetleri kötüye kullanan veya aksatan ve Urantiapedia tarafından onaylanmamış otomatik kullanımlarına dahil olmak;
 	- Siteye veya siteye bağlı ağlara veya sunuculara haksız bir yük getirerek hizmetleri aksatmak;
-	- Urantiapedia'yı, web sitesini belirtilen amaç için ciddi bir şekilde kullanma niyetini göstermeyen iletişim veya diğer trafikle doldurarak hizmetleri kesintiye uğratmak; 
-	- Aşağıdaki koşulların tümü karşılanmadıkça, teknik sistemlerimizin veya ağlarımızın güvenlik açığını araştırmak, taramak veya test etmek: 
-		- bu tür eylemler, teknik sistemlerimizi veya ağlarımızı gereğinden fazla kötüye kullanmaz veya bozmaz; 
-		- bu tür eylemler kişisel kazanç için değildir (çalışmanızın kredisi hariç); 
-		- güvenlik açıklarını Urantiapedia geliştiricilerine bildirirsiniz (veya kendiniz düzeltirsiniz); ve 
-		- kötü niyetli veya yıkıcı niyetle bu tür eylemlerde bulunmazsınız. 
+	- Urantiapedia'yı, web sitesini belirtilen amaç için ciddi bir şekilde kullanma niyetini göstermeyen iletişim veya diğer trafikle doldurarak hizmetleri kesintiye uğratmak;
+	- Bilgisayar sistemlerimizdeki halka açık olmayan alanlarımızdan herhangi birine yetkisiz olarak bilerek erişmek, bunları kurcalamak veya kullanmak; Ve
+	- Aşağıdaki koşulların tümü karşılanmadıkça, teknik sistemlerimizin veya ağlarımızın güvenlik açığının araştırılması, taranması veya test edilmesi:
+		- bu tür eylemler, teknik sistemlerimizi veya ağlarımızı gereksiz yere kötüye kullanmaz veya kesintiye uğratmaz;
+		- bu tür eylemler kişisel kazanç için değildir (çalışmanızın kredisi hariç);
+		- güvenlik açıklarını Urantiapedia geliştiricilerine bildirirsiniz (veya kendiniz düzeltirsiniz); Ve
+		- kötü niyetli veya yıkıcı bir niyetle bu tür eylemlerde bulunmazsınız.
 - **Açıklama yapılmadan ödenen katkı payları**
-	- Çıkar çatışmalarını ele alan yasalar gibi yürürlükteki yasalar, ödenen katkı paylarını daha da sınırlayabilir veya daha ayrıntılı açıklamalar gerektirebilir. 
+	- Bu Kullanım Koşulları, yanlış bağlantı beyanı, kimliğe bürünme ve dolandırıcılık dahil olmak üzere aldatıcı faaliyetlerde bulunmayı yasaklar. Bu yükümlülüklerin bir parçası olarak, karşılığında tazminat aldığınız veya almayı beklediğiniz herhangi bir katkıyla ilgili olarak işvereninizi, müşterinizi ve bağlı kuruluşunuzu açıklamanız gerekir. Bu açıklamayı, ödenen katkılarla birlikte yorumlar bölümündeki bir beyanda yapmalısınız.
+	- Çıkar çatışmalarını ele alan yasalar gibi yürürlükteki yasalar, ödenen katkı paylarını daha da sınırlayabilir veya daha ayrıntılı açıklamalar gerektirebilir.
 
-Yukarıdaki şartlarla ilgili olarak uygulama takdirimizi kullanma hakkımızı saklı tutarız. 
+Yukarıdaki şartlarla ilgili olarak uygulama takdirimizi kullanma hakkımızı saklı tutarız.
 
-## 5. Kayıt ve Parola Güvenliği 
+## 5. Kayıt ve Şifre Güvenliği
 
-Urantiapedia katılımcıları olmak isteyen _Urantia Book_ okuyucularının, e-posta veya sohbet gibi bazı iletişim araçları aracılığıyla sistem yöneticileri tarafından güvenilir olarak onaylanmaları gerekir. Urantiapedia yöneticileriyle iletişime geçmek için şu prosedürlerden herhangi birini kullanabilirsiniz: 
-- urantiapedia@gmail.com adresine bir e-posta göndermek
-- [Blue Fields](https://blue-fields.netlify.app/) web sayfasına, yani akıllı projelere katılmak isteyen dünya çapındaki *Urantia Kitabı* okuyucularına iyi bir şekilde katılmak ve onları organize etmek için oluşturulmuş bir siteye kaydolmak amaç ve özgecilik. Kaydolduktan sonra bir proje yönetimi sizinle iletişime geçecektir. 
+Urantiapedia katılımcıları olmak isteyen _Urantia Book_ okuyucularının, e-posta veya sohbet gibi bazı iletişim araçları aracılığıyla sistem yöneticileri tarafından güvenilir olarak onaylanmaları gerekir. Urantiapedia yöneticileriyle iletişime geçmek için şu prosedürlerden herhangi birini kullanabilirsiniz:
+- urantiapedia@gmail.com adresine bir e-posta gönderme
+- [Blue Fields](https://blue-fields.netlify.app/) web sayfasına, yani akıllı projelere katılmak isteyen dünya çapındaki *Urantia Kitabı* okuyucularına iyi bir fiyatla katılmak ve onları organize etmek için oluşturulmuş bir siteye kaydolmak amaç ve özgecilik. Kaydolduktan sonra bir proje yönetimi sizinle iletişime geçecektir.
 
-Katılımcı olarak kabul edilirseniz, kullanıcı adınız veya takma adınız için geçici bir parola sağlayacak olan bir yönetici tarafından sisteme kaydedileceksiniz. Bu geçici şifreyi mümkün olan en kısa sürede kalıcı bir şifre ile değiştirmeniz önerilir. Kendi şifrenizi korumaktan siz sorumlusunuz ve asla üçüncü şahıslara ifşa etmemelisiniz. 
+Katılımcı olarak kabul edilirseniz, kullanıcı adınız veya takma adınız için geçici bir parola sağlayacak olan bir yönetici tarafından sisteme kaydedileceksiniz. Bu geçici şifreyi mümkün olan en kısa sürede kalıcı bir şifre ile değiştirmeniz önerilir. Kendi şifrenizi korumaktan siz sorumlusunuz ve asla üçüncü şahıslara ifşa etmemelisiniz.
 
 ## 6. İsim ve logo
 
+İçeriğin Urantiapedia üzerinde yeniden kullanımı konusunda önemli özgürlüklere sahip olmanıza rağmen, kullanıcılarımızı sahte taklitçilerden koruyabilmemiz için isimlerimizi ve logomuzu korumamız önemlidir. Bu nedenle, adımıza (“Urantiapedia”) ve logomuza (“[ana sayfadaki](/tr/home)'deki “U” ve “p” harfleri) saygı göstermenizi rica ederiz. Adımızın ve logomuzun tüm kullanımları bu Kullanım Koşullarına uygun olmalıdır.
 
+## 7. İçeriğin Lisanslanması
 
-Özgür ruhani bilginin ve özgür kültürün müştereklerini büyütmek için, Urantiapedia'ya katkıda bulunan tüm Urantia Kitabı okuyucuları, bu kullanım uygun şekilde atfedildiği sürece, katkılarını serbestçe yeniden dağıtmaları ve yeniden kullanmaları için halka geniş izinler vermeye teşvik edilmektedir. aynı yeniden kullanma ve yeniden dağıtma özgürlüğü, herhangi bir türev çalışmaya verilir.
+Özgür ruhani bilginin ve özgür kültürün müştereklerini büyütmek için, Urantiapedia'ya katkıda bulunan tüm Urantia Kitabı okuyucuları, bu kullanım uygun bir şekilde atfedildiği sürece, katkılarını serbestçe yeniden dağıtmaları ve yeniden kullanmaları için halka geniş izinler vermeye teşvik edilmektedir. aynı yeniden kullanma ve yeniden dağıtma özgürlüğü, herhangi bir türev çalışmaya verilir.
 
-Gönderilen tüm içeriğin herhangi biri tarafından serbestçe yeniden kullanılabilmesi için lisanslanmasını şart koşmuyoruz. İçeriğinin yeniden dağıtılmasını ve serbestçe yeniden kullanılmasını önlemek isteyen katkıda bulunanlar, bunu gönderdikleri içeriğin her sayfasında bir telif hakkı bildiriminde belirtebilirler. Katkıda bulunanların, Urantiapedia yöneticilerinden içeriklerinin yayın için seçilen bir kullanıcı grubuyla veya yalnızca bir kullanıcıyla sınırlandırılmasını talep etmelerine izin verilir. Urantiapedia sistem yöneticileri, talep edilen sınırlamanın Kamuya Açık Alan içeriği veya halka açık yeniden dağıtıma ve yeniden kullanıma izin veren lisansta bulunan içerik için geçerli olduğu açıkça tespit edilmedikçe, bu tür içeriğin geniş sürümü için bu sınırlamaları sağlayacaktır.
+Gönderilen tüm içeriğin herhangi biri tarafından serbestçe yeniden kullanılabilmesi için lisanslanmasını şart koşmuyoruz. İçeriğinin yeniden dağıtılmasını ve serbestçe yeniden kullanılmasını önlemek isteyen katkıda bulunanlar, bunu gönderdikleri içeriğin her sayfasında bir telif hakkı bildiriminde belirtebilirler. Katkıda bulunanların, Urantiapedia yöneticilerinden içeriklerinin yayın için seçilen bir kullanıcı grubuyla veya yalnızca bir kullanıcıyla sınırlandırılmasını talep etmelerine izin verilir. Urantiapedia sistem yöneticileri, talep edilen sınırlamanın Kamuya Açık Alan içeriği veya halka açık yeniden dağıtıma ve yeniden kullanıma izin veren lisansta bulunan içerik için geçerli olduğu açıkça tespit edilmedikçe, bu tür içeriğin geniş sürümü için bu sınırlamaları sağlayacaklardır.
 
-- A. **Telif hakkına sahip olduğunuz metin**: Telif hakkına sahip olduğunuz metni gönderdiğinizde, onu [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) (“CC BY-SA 4.0”). Yeniden kullanıcılar aynı lisansa uyabilir. Lütfen bu lisansın, bu tür kullanımların şartlara uygun olduğu sürece katkılarınızın ticari kullanımına izin verdiğini unutmayın. 
+İçeriğinizin yeniden kullanılabilirliği için geniş kapsamlı izin vermeyi kabul etmeniz durumunda, aşağıdaki lisanslama gereksinimlerini kabul etmeniz gerekir:
+- A. **Telif hakkına sahip olduğunuz metin**: Telif hakkına sahip olduğunuz bir metni gönderdiğinizde, onu [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) (“CC BY-SA 4.0”) kapsamında lisanslamayı kabul etmiş olursunuz. Yeniden kullanıcılar aynı lisansa uyabilir. Lütfen bu lisansın, bu tür kullanımların şartlara uygun olduğu sürece katkılarınızın ticari kullanımına izin verdiğini unutmayın.
+- B. **Atıf**: Atıf, lisansın önemli bir parçasıdır. Sizin gibi yazarlara - kredi verilmesi gereken yerlerde kredi vermeyi düşünüyoruz. Metne katkıda bulunduğunuzda, aşağıdaki şekillerden herhangi biriyle ilişkilendirilmeyi kabul etmiş olursunuz:
 	- Köprü (mümkünse) veya katkıda bulunduğunuz makalenin URL'si yoluyla (çünkü her makalenin tüm yazarları ve editörleri listeleyen bir geçmiş sayfası vardır);
+	- Köprü (mümkünse) veya GitHub'daki alternatif kopyalara giden URL aracılığıyla ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) Ve [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), ücretsiz olarak erişilebilen, lisansa uygun ve yazarlara Urantiapedia web sitesinde verilen krediye eşdeğer bir şekilde kredi sağlayan sabit çevrimiçi kopyalar.
 - C. **Metin içe aktarma**: Başka bir yerde bulduğunuz veya başkalarıyla birlikte yazdığınız metni içe aktarabilirsiniz, ancak böyle bir durumda metnin CC BY-SA 4.0 lisansı ile uyumlu koşullar altında mevcut olduğunu garanti edersiniz. . Atıf gerektiren bir CC BY-SA lisansı kapsamında metin içe aktarırsanız, yazar(lar)a makul bir şekilde atıfta bulunmanız gerektiğini kabul edersiniz. 
 - D. **Metin olmayan medya**: Urantiapedia üzerindeki metin olmayan medya, sınırsız yeniden kullanım ve yeniden dağıtıma izin verme genel hedefini destekleyen çeşitli farklı lisanslar altında mevcuttur. Metin olmayan medyaya katkıda bulunduğunuzda, bu tür lisansların gerekliliklerine uymayı kabul etmiş olursunuz.
 - e. **Lisans iptali yoktur**: Lisansınızla tutarlı olmadıkça, Urantiapedia'ya katkıda bulunan metin içeriği veya metin dışı medya için bu Kullanım Koşulları kapsamında vermiş olduğunuz herhangi bir lisansı tek taraflı olarak iptal etmeyeceğinizi veya geçersiz kılmayacağını kabul etmektesiniz. , hizmetlerimizi kullanmayı sonlandırsanız bile. 
 - F. **Kamu malı içerik**: Kamu malı olan içeriğe açığız! Bununla birlikte, İspanya yasalarının yanı sıra diğer tüm ülkelerin yasalarına göre içeriğin kamu malı statüsünü onaylamanız önemlidir. Kamu malı olan bir içerikle katkıda bulunduğunuzda, malzemenin aslında kamu malı olduğunu garanti edersiniz ve onu uygun şekilde etiketlemeyi kabul edersiniz.
-- G. **Yeniden kullanım**: Barındırdığımız içeriğin yeniden kullanımı memnuniyetle karşılanır, ancak "adil kullanım" kapsamında katkıda bulunulan içerik veya telif hakkı yasası kapsamındaki benzer muafiyetler için istisnalar mevcuttur. Herhangi bir yeniden kullanım, temel alınan lisans(lar)a uygun olmalıdır. Urantiapedia topluluğu tarafından geliştirilen bir metin sayfasını yeniden kullandığınızda veya yeniden dağıttığınızda, yazarları aşağıdaki şekillerden herhangi biriyle ilişkilendirmeyi kabul edersiniz 
-	: kullanarak (çünkü her sayfada tüm yazarları ve editörleri listeleyen bir geçmiş sayfası vardır);
-	- GitHub'daki ([Urantiapedia Ana projesi](https://github.com/JanHerca/urantiapedia) ve [Urantiapedia Yedekleme projesi](https://github.com/JanHerca/urantiapedia-backup)) ücretsiz olarak erişilebilen, lisansa uygun ve yazarlara Urantiapedia web sitesinde verilen krediye eşdeğer bir şekilde kredi sağlayan istikrarlı çevrimiçi kopyalar.
+- G. **Yeniden kullanım**: Barındırdığımız içeriğin yeniden kullanımı memnuniyetle karşılanır, ancak "adil kullanım" kapsamında katkıda bulunulan içerik veya telif hakkı yasası kapsamındaki benzer muafiyetler için istisnalar mevcuttur. Herhangi bir yeniden kullanım, temel alınan lisans(lar)a uygun olmalıdır. Urantiapedia topluluğu tarafından geliştirilen bir metin sayfasını yeniden kullandığınızda veya yeniden dağıttığınızda, yazarları aşağıdaki şekillerden herhangi biriyle ilişkilendirmeyi kabul edersiniz:
+	- Yeniden kullandığınız sayfa veya sayfalara köprü (mümkünse) veya URL yoluyla (çünkü her sayfada tüm yazarları ve editörleri listeleyen bir geçmiş sayfası vardır);
+	- Köprü (mümkünse) veya GitHub'daki alternatif kopyalara giden URL aracılığıyla ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) Ve [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), ücretsiz olarak erişilebilen, lisansa uygun ve yazarlara Urantiapedia web sitesinde verilen krediye eşdeğer bir şekilde kredi sağlayan sabit çevrimiçi kopyalar.
+	Metin içeriği başka bir kaynaktan içe aktarıldıysa, içeriğin uyumlu bir CC BY-SA lisansı altında lisanslanmış olması mümkündür (yukarıdaki "Metin içe aktarma" bölümünde açıklandığı gibi). Bu durumda, uyumlu CC BY-SA lisansına uymayı kabul edersiniz. Yeniden kullanmak veya yeniden dağıtmak istediğiniz içerik için geçerli olan lisansı belirlemek için sayfa başlığını gözden geçirmelisiniz.
 	Ayrıca, harici kaynaklardan gelen ve Urantiapedia'ya aktarılan metnin, ek atıf gereklilikleri ekleyen bir lisans kapsamında olabileceğini lütfen unutmayın. Kullanıcılar, bu ek ilişkilendirme gereksinimlerini açıkça belirtmeyi kabul eder. Bu tür gereksinimler, içeriğin bir kısmının veya tamamının orijinal olarak başka bir yerde yayınlandığını gösteren bir sayfanın üstbilgi veya altbilgi _Referanslar_ gösterimlerinde görünebilir. Bu tür görünür notasyonların olduğu yerlerde, yeniden kullanıcılar bunları korumalıdır.
-	Metin olmayan herhangi bir ortam için, çalışmanın sunulduğu lisansa (metin olmayan herhangi bir ortamın başlığında görünmesi gereken bağlantıya tıklanarak ve lisans bilgileri aranarak keşfedilebilir) uymayı kabul edersiniz. Barındırdığımız herhangi bir içeriği yeniden kullandığınızda, temel lisans veya lisanslarla ilgili oldukları için ilgili atıf gerekliliklerine uymayı kabul edersiniz. 
-- H. **Yeniden kullandığınız malzemede yapılan değişiklikler veya eklemeler**: Urantiapedia'dan edindiğiniz metni değiştirirken veya metne eklemeler yaparken, değiştirilen veya eklenen içeriği CC BY-SA 4.0 veya sonraki sürümleri kapsamında lisanslamayı kabul edersiniz.
+	Metin olmayan herhangi bir ortam için, çalışmanın sunulduğu lisansa (metin olmayan herhangi bir ortamın başlığında görünmesi gereken bağlantıya tıklanarak ve lisans bilgileri aranarak keşfedilebilir) uymayı kabul edersiniz. Barındırdığımız herhangi bir içeriği yeniden kullandığınızda, temel lisans veya lisanslarla ilgili oldukları için ilgili atıf gerekliliklerine uymayı kabul edersiniz.
+- H. **Yeniden kullandığınız malzemede yapılan değişiklikler veya eklemeler**: Urantiapedia'dan edindiğiniz metni değiştirirken veya metne eklemeler yaparken, değiştirilen veya eklenen içeriği CC BY-SA 4.0 veya üzeri kapsamında lisanslamayı kabul edersiniz.
+	Urantiapedia'dan edindiğiniz herhangi bir metin dışı ortamı değiştirirken veya bunlara eklemeler yaparken, değiştirilen veya eklenen içeriği, çalışmanın hangi lisans altında sunulduğuna uygun olarak lisanslamayı kabul edersiniz.
 	Hem metin içeriği hem de metin olmayan ortamla, orijinal çalışmanın değiştirildiğini açıkça belirtmeyi kabul edersiniz. Bir vikide metin içeriğini yeniden kullanıyorsanız, içe aktarılan metinde değişiklik yaptığınızı sayfa geçmişinde belirtmeniz yeterlidir. Dağıttığınız her kopya veya değiştirilmiş sürüm için, lisans metnine veya lisansın kendisine ait bir kopyaya giden bir köprü veya URL ile birlikte çalışmanın hangi lisans kapsamında yayınlandığını belirten bir lisans bildirimi eklemeyi kabul edersiniz.
 
+## 8. Telif Hakkı Uyumluluğu
 
-Urantiapedia, barındırdığımız içeriğin sorumluluk korkusu olmaksızın diğer kullanıcılar tarafından yeniden kullanılabilmesini ve başkalarının mülkiyet haklarını ihlal etmemesini sağlamak istemektedir. Kullanıcılarımızın yanı sıra diğer yaratıcılar ve telif hakkı sahiplerine karşı adil olmak adına, politikamız, telif hakkı yasalarının ihlal edildiği iddia edilen bildirimlere yanıt vermektir. Telif hakkı yasalarına uygun olarak, sistemimizi sürekli olarak ihlal eden kullanıcıları ve hesap sahiplerini uygun koşullarda feshedeceğiz. 
+Urantiapedia, barındırdığımız içeriğin sorumluluk korkusu olmaksızın diğer kullanıcılar tarafından yeniden kullanılabilmesini ve başkalarının mülkiyet haklarını ihlal etmemesini sağlamak istemektedir. Kullanıcılarımızın yanı sıra diğer yaratıcılar ve telif hakkı sahiplerine karşı adil olmak adına, politikamız, telif hakkı yasalarının ihlal edildiği iddia edilen bildirimlere yanıt vermektir. Telif hakkı yasalarına uygun olarak, uygun durumlarda, sürekli ihlalde bulunan sistemimizin kullanıcılarını ve hesap sahiplerini feshedeceğiz.
 
 Ancak, her yayından kaldırma bildiriminin geçerli veya iyi niyetli olmadığını da kabul ediyoruz. Bu gibi durumlarda, kullanıcıların bir telif hakkı nedeniyle yayından kaldırma talebinin geçersiz veya uygunsuz olduğuna uygun bir şekilde inandıklarında karşı bildirimde bulunmalarını önemle tavsiye ederiz.
 
-Urantiapedia'da izniniz olmadan uygunsuz bir şekilde kullanılan içeriğin sahibiyseniz, içeriğin telif hakkı yasaları uyarınca kaldırılmasını talep edebilirsiniz. Böyle bir talepte bulunmak için lütfen bize urantiapedia@gmail.com adresinden e-posta gönderin. 
+Urantiapedia'da izniniz olmadan uygunsuz bir şekilde kullanılan içeriğin sahibiyseniz, içeriğin telif hakkı yasaları uyarınca kaldırılmasını talep edebilirsiniz. Böyle bir talepte bulunmak için lütfen bize urantiapedia@gmail.com adresinden e-posta gönderin.
 
-## 9. Üçüncü Taraf Web Siteleri ve Kaynakları 
+## 9. Üçüncü Taraf Web Siteleri ve Kaynakları
 
-Herhangi bir üçüncü taraf web sitesini veya kaynağını kullanımınızdan yalnızca siz sorumlusunuz. Urantiapedia üçüncü taraf web sitelerine ve kaynaklarına bağlantılar içermesine rağmen, bunların mevcudiyetini, doğruluğunu veya ilgili içerik, ürün veya hizmetleri (herhangi bir virüs veya diğer devre dışı bırakan özellikler dahil ancak bunlarla sınırlı olmamak üzere) onaylamıyoruz ve bunlardan sorumlu veya yükümlü değiliz. , bu tür üçüncü taraf içeriklerini izleme yükümlülüğümüz de yoktur.
+Üçüncü taraf web sitelerini veya kaynaklarını kullanımınızdan yalnızca siz sorumlusunuz. Urantiapedia üçüncü taraf web sitelerine ve kaynaklarına bağlantılar içermesine rağmen, bunların kullanılabilirliğini, doğruluğunu veya ilgili içerik, ürün veya hizmetleri (herhangi bir virüs veya diğer devre dışı bırakan özellikler dahil ancak bunlarla sınırlı olmamak üzere) onaylamıyoruz ve bunlardan sorumlu veya yükümlü değiliz. , bu tür üçüncü taraf içeriklerini izleme yükümlülüğümüz de yoktur.
 
+## 10. Web Sitelerinin Yönetimi
 
-Urantiapedia katkıda bulunanlar topluluğu, kendisine uygulanan politikaların oluşturulmasında ve uygulanmasında birincil role sahiptir. Alışılmadık bir durumda, önemli rahatsızlık veya tehlikeli davranış nedeniyle özellikle sorunlu bir katkıda bulunan kullanıcıyı ele alabiliriz. Bu gibi durumlarda, hakkımız saklıdır, ancak aşağıdakileri yapma yükümlülüğümüz yoktur: 
-- Katkıda bulunanların hizmeti kullanımını araştırmak (a) bu Kullanım Koşullarının veya diğer ilgili yasa veya politikanın ihlal edilip edilmediğini belirlemek veya (b) yürürlükteki herhangi bir kanuna, yasal sürece veya uygun hükümet talebine uymak; 
+Urantiapedia katkıda bulunanlar topluluğu, kendisine uygulanan politikaların oluşturulmasında ve uygulanmasında birincil role sahiptir. Alışılmadık bir durumda, önemli rahatsızlık veya tehlikeli davranış nedeniyle özellikle sorunlu bir katkıda bulunan kullanıcıyı ele alabiliriz. Bu gibi durumlarda, hakkımızı saklı tutarız, ancak aşağıdakileri yapma yükümlülüğümüz yoktur:
+- Katkıda bulunanların (a) bu Kullanım Koşullarının veya diğer ilgili yasa veya politikanın ihlal edilip edilmediğini belirlemek için veya (b) herhangi bir geçerli yasaya, yasal sürece veya uygun hükümet talebine uymak için hizmeti kullanımını araştırmak;
+- Dolandırıcılık, güvenlik veya teknik sorunları tespit edin, önleyin veya başka şekilde ele alın ya da kullanıcı destek taleplerine yanıt verin;
+- Bu Kullanım Koşullarını ihlal eden herhangi bir kullanıcının katkısına erişimi reddetmek, devre dışı bırakmak veya kısıtlamak;
 - Tekrarlanan telif hakkı ihlali dahil olmak üzere bu Kullanım Koşullarını ihlal eden eylemler nedeniyle bir kullanıcının düzenleme yapmasını veya katkıda bulunmasını yasaklayın veya bir kullanıcının hesabını veya erişimini engelleyin;
-- Bu Kullanım Koşullarını ihlal eden kullanıcılara karşı yasal işlem başlatmak (adli makamlara bildirimde bulunmak dahil); ve 
-- Urantiapedia'yı düzgün işleyişini kolaylaştırmak ve kendimizin ve kullanıcılarımızın, lisansörlerimizin, ortaklarımızın ve kamunun haklarını, mülkiyetini ve güvenliğini korumak üzere tasarlanmış bir şekilde yönetmek. 
+- Bu Kullanım Koşullarını ihlal eden kullanıcılara karşı yasal işlem başlatmak (adli makamlara bildirimde bulunmak dahil); Ve
+- Urantiapedia'yı düzgün işleyişini kolaylaştıracak ve kendimizin ve kullanıcılarımızın, lisansörlerimizin, ortaklarımızın ve kamunun haklarını, mülkiyetini ve güvenliğini koruyacak şekilde tasarlanmış bir şekilde yönetin.
 
-Kullanıcılarımızın ve projenin çıkarları için, herhangi bir kişinin hesabının veya erişiminin bu hüküm kapsamında bloke edildiği aşırı durumlarda, bu kişinin projede başka bir hesap oluşturması veya kullanması veya projeye erişim araması yasaktır. açık izin veriyoruz. 
+Kullanıcılarımızın ve projenin çıkarları için, herhangi bir kişinin hesabının veya erişiminin bu hüküm kapsamında bloke edildiği aşırı durumlarda, bu kişinin projede başka bir hesap oluşturması veya kullanması veya projeye erişim araması yasaktır. açık izin veriyoruz.
 
 Bu hüküm kapsamında bir hesabın veya erişimin engellenmesi veya bir kullanıcının yasaklanması, bu Kullanım Koşullarının 12. Bölümüne uygun olacaktır.
 
-## 11. Urantiapedia Politikaları 
+## 11. Urantiapedia Politikaları
 
-Urantiapedia kurulu zaman zaman yeni resmi politikalar yayınlayabilir. Uygulanabilir olduğu şekilde bunlara uymayı kabul edersiniz. 
+Urantiapedia yönetim kurulu zaman zaman yeni resmi politikalar yayınlayabilir. Uygulanabilir olduğu şekilde bunlara uymayı kabul edersiniz.
 
 ## 12. Fesih
 
-Kalacağınızı ve Urantiapedia'ya katkıda bulunmaya devam edeceğinizi umsak da, hizmetlerimizi kullanmayı istediğiniz zaman bırakabilirsiniz. Bazı (umarız olası değildir) durumlarda hizmetlerimizin bir kısmını veya tamamını feshetmemiz, bu Kullanım Koşullarını feshetmemiz, hesabınızı veya erişiminizi engellememiz veya sizi bir kullanıcı olarak yasaklamamız gerekebilir. Hesabınız veya erişiminiz herhangi bir nedenle bloke edilir veya başka bir şekilde sonlandırılırsa, herkese açık katkılarınız herkese açık olmaya devam eder (geçerli politikalara tabidir) ve aksini size bildirmedikçe, herkese açık sayfalarımıza yalnızca herkese açık olarak okumak amacıyla erişmeye devam edebilirsiniz. sitede mevcut içerik. Ancak bu gibi durumlarda, hesabınıza veya ayarlarınıza erişemeyebilirsiniz. Hizmetleri herhangi bir zamanda, nedenli veya nedensiz ve bildirimde bulunarak veya bulunmadan askıya alma veya sonlandırma hakkını saklı tutarız.
+Kalacağınızı ve Urantiapedia'ya katkıda bulunmaya devam edeceğinizi umsak da, hizmetlerimizi kullanmayı istediğiniz zaman bırakabilirsiniz. Bazı (umarız olası değildir) durumlarda hizmetlerimizin bir kısmını veya tamamını feshetmemiz, bu Kullanım Koşullarını feshetmemiz, hesabınızı veya erişiminizi engellememiz veya sizi bir kullanıcı olarak yasaklamamız gerekebilir. Hesabınız veya erişiminiz herhangi bir nedenle bloke edilir veya başka bir şekilde sonlandırılırsa, herkese açık katkılarınız herkese açık olmaya devam eder (geçerli politikalara tabidir) ve aksini size bildirmedikçe, herkese açık sayfalarımıza yalnızca herkese açık olarak okumak amacıyla erişmeye devam edebilirsiniz. sitede mevcut içerik. Ancak bu gibi durumlarda, hesabınıza veya ayarlarınıza erişemeyebilirsiniz. Hizmetleri herhangi bir zamanda, nedenli veya nedensiz ve bildirimde bulunarak veya bulunmadan askıya alma veya sonlandırma hakkını saklı tutarız. Kullanımınız ve katılımınız yasaklandıktan, bloke edildikten veya başka bir şekilde askıya alındıktan sonra bile, bu Kullanım Koşulları Bölüm 1, 3, 4, 6, 7, 9-15 ve 17 dahil olmak üzere ilgili hükümler açısından yürürlükte kalacaktır.
 
 ## 13. İhtilaflar ve Yetki Yetkisi 
 

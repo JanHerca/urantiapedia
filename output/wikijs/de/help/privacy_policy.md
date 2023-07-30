@@ -8,205 +8,219 @@ editor: markdown
 dateCreated: 2023-02-03T13:55:38.362Z
 ---
 
-## Einführung 
+## Einführung
 
-### Willkommen! 
+### Willkommen!
 
-Urantiapedia basiert auf einem einfachen, aber wirkungsvollen Prinzip: Wir können gemeinsam mehr tun als jeder von uns allein. Wir können nicht kollektiv arbeiten, ohne Informationen über unsere Benutzer zu sammeln, auszutauschen und zu analysieren, während wir nach neuen Wegen suchen, um Urantiapedia benutzerfreundlicher, sicherer und nützlicher zu machen.
+Urantiapedia basiert auf einem einfachen, aber wirkungsvollen Prinzip: Wir können gemeinsam mehr erreichen, als jeder von uns alleine schaffen kann. Wir können nicht zusammenarbeiten, ohne Informationen über unsere Benutzer zu sammeln, zu teilen und zu analysieren, während wir nach neuen Wegen suchen, um Urantiapedia benutzerfreundlicher, sicherer und nützlicher zu machen.
 
-Wir glauben, dass das Sammeln und Verwenden von Informationen Hand in Hand mit Transparenz gehen sollte. Diese Datenschutzrichtlinie erläutert, wie Urantiapedia Informationen sammelt, verwendet und weitergibt, die wir von Ihnen durch Ihre Nutzung der Website erhalten. Es ist wichtig zu verstehen, dass Sie durch die Nutzung der Urantiapedia-Website der Erfassung, Übertragung, Verarbeitung, Speicherung, Offenlegung und Nutzung Ihrer Daten, wie in dieser Datenschutzrichtlinie beschrieben, zustimmen. Das bedeutet, dass es wichtig ist, diese Richtlinie sorgfältig zu lesen. 
+Wir glauben, dass das Sammeln und Nutzen von Informationen mit Transparenz einhergehen sollte. In dieser Datenschutzrichtlinie wird erläutert, wie Urantiapedia Informationen erhebt, verwendet und weitergibt, die wir von Ihnen durch Ihre Nutzung der Website erhalten. Es ist wichtig zu verstehen, dass Sie durch die Nutzung der Urantiapedia-Website der Erhebung, Übertragung, Verarbeitung, Speicherung, Offenlegung und Nutzung Ihrer Daten gemäß der Beschreibung in dieser Datenschutzrichtlinie zustimmen. Das bedeutet, dass es wichtig ist, diese Richtlinie sorgfältig zu lesen.
 
-Wir glauben, dass Sie keine nicht-öffentlichen persönlichen Informationen angeben müssen, um an der Urantiapedia-Bewegung teilzunehmen. Sie müssen Dinge wie Ihren richtigen Namen, Ihre Adresse oder Ihr Geburtsdatum nicht angeben, um sich für ein Standardkonto anzumelden oder Inhalte zu Urantiapedia beizutragen.
+Wir glauben, dass Sie keine nichtöffentlichen persönlichen Daten angeben müssen, um an der Urantiapedia-Bewegung teilzunehmen. Sie müssen weder Ihren richtigen Namen noch Ihre Adresse oder Ihr Geburtsdatum angeben, um sich für ein Standardkonto anzumelden oder Inhalte zu Urantiapedia beizutragen.
 
-Wir verkaufen oder vermieten Ihre personenbezogenen Daten nicht und geben sie auch nicht an Dritte weiter, um Ihnen etwas zu verkaufen. Wir verwenden es, um herauszufinden, wie wir Urantiapedia ansprechender und zugänglicher machen können, um zu sehen, welche Ideen funktionieren, und um das Lernen und Beitragen unterhaltsamer zu gestalten. Einfach ausgedrückt: Wir verwenden diese Informationen, um Urantiapedia für Sie besser zu machen. 
+Wir verkaufen oder vermieten Ihre persönlichen Daten nicht und geben sie auch nicht an andere weiter, um Ihnen etwas zu verkaufen. Wir nutzen es, um herauszufinden, wie wir Urantiapedia ansprechender und zugänglicher machen können, um zu sehen, welche Ideen funktionieren, und um das Lernen und Mitwirken unterhaltsamer zu gestalten. Einfach ausgedrückt: Wir nutzen diese Informationen, um Urantiapedia für Sie besser zu machen.
 
-Schließlich sind es Menschen wie Sie, die Verfechter der _Urantia Book_ Studenten, die es Urantiapedia ermöglichen, nicht nur zu existieren, sondern auch zu wachsen und zu gedeihen. 
+Schließlich sind es Menschen wie Sie, die Verfechter der „Urantia Book“-Studenten, die dafür sorgen, dass Urantiapedia nicht nur existiert, sondern auch wächst und gedeiht.
 
-### Definitionen 
+### Definitionen
 
-Da jeder (nicht nur Rechtsanwälte) in der Lage sein sollte, leicht zu verstehen, wie und warum seine Daten erfasst und verwendet werden, verwenden wir in dieser Richtlinie anstelle formeller Begriffe eine allgemeine Sprache. Um sicherzustellen, dass Sie einige bestimmte Schlüsselbegriffe verstehen, finden Sie hier eine Tabelle mit Übersetzungen:
+Da jeder (nicht nur Anwälte) leicht verstehen sollte, wie und warum seine Daten erfasst und verwendet werden, verwenden wir in dieser Richtlinie eine gemeinsame Sprache anstelle formellerer Begriffe. Um sicherzustellen, dass Sie einige bestimmte Schlüsselbegriffe verstehen, finden Sie hier eine Tabelle mit Übersetzungen:
 
-Wenn wir sagen… | …meinen wir: 
---- | --- 
+Wenn wir sagen... | …wir meinen:
+--- | ---
 „Urantiapedia“ / „wir“ / „uns“ / „unser“ | Die Teamleiter des Urantiapedia-Projekts.
-"Urantiapedia-Website" / "unsere Dienste" | Urantiapedia-Website und Dienste (unabhängig von der Sprache) des Urantiapedia-Projekts, einschließlich der [Haupt-Urantiapedia-Website](https://urantiapedia.org) und der alternativen Kopien in GitHub ([Urantiapedia Main project](https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup)), sowie Application Programming Interfaces (APIs), E-Mails und Benachrichtigungen; ausgenommen sind jedoch Websites und Dienste, die im Abschnitt „Was diese Datenschutzrichtlinie nicht abdeckt“ unten aufgeführt sind.
-„du“ / „dein“ / „ich“ | Sie, unabhängig davon, ob Sie eine Einzelperson, eine Gruppe oder eine Organisation sind, und unabhängig davon, ob Sie Urantiapedia oder unsere Dienste im eigenen Namen oder im Namen einer anderen Person nutzen.
-"Personenbezogene Daten" | Informationen, die Sie uns zur Verfügung stellen oder die wir sammeln, die verwendet werden könnten, um Sie persönlich zu identifizieren. Um es klarzustellen, obwohl wir nicht unbedingt alle der folgenden Arten von Informationen erfassen, betrachten wir zumindest die folgenden als „personenbezogene Daten“, wenn sie ansonsten nicht öffentlich sind und verwendet werden können, um Sie zu identifizieren:<br/>(a) Ihr richtiger Name, Adresse, Telefonnummer, E-Mail-Adresse, Passwort, Identifikationsnummer auf einem von der Regierung ausgestellten Ausweis, IP-Adresse, User-Agent-Informationen, Zahlungskontonummer;<br/>(b) wenn mit einem der Punkte im Unterabschnitt verknüpft (a) alle sensiblen Daten wie Geburtsdatum, Geschlecht, sexuelle Orientierung, Rasse oder ethnische Herkunft, Ehe- oder Familienstand, Erkrankungen oder Behinderungen, politische Zugehörigkeit und Religion.
-"Dritter" / "Dritte" | Einzelpersonen, Organisationen, Websites, Dienste, Produkte und Anwendungen, die nicht von Urantiapedia kontrolliert, verwaltet oder betrieben werden. Dies schließt andere Urantiapedia-Benutzer und unabhängige Organisationen oder Gruppen ein, die helfen, die Urantiapedia-Bewegung zu fördern, wie Urantia-Buchorganisationen und Benutzergruppen, sowie Freiwillige, Angestellte, Direktoren, Amtsträger, Zuschussempfänger und Auftragnehmer dieser Organisationen oder Gruppen. 
+„Urantiapedia-Site“ / „unsere Dienste“ | Urantiapedia-Website und Dienste (unabhängig von der Sprache) des Urantiapedia-Projekts, einschließlich der [Haupt-Urantiapedia-Website](https://urantiapedia.org) und der alternativen Kopien in GitHub ([Urantiapedia-Hauptprojekt](https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup-Projekt](https://github.com/JanHerca/urantiapedia-backup)) sowie Anwendungsprogrammierschnittstellen (APIs), E-Mails und Benachrichtigungen; Ausgenommen sind jedoch die im Abschnitt „Was diese Datenschutzrichtlinie nicht abdeckt“ unten aufgeführten Websites und Dienste.
+„du“ / „dein“ / „ich“ | Sie, unabhängig davon, ob Sie eine Einzelperson, eine Gruppe oder eine Organisation sind und unabhängig davon, ob Sie Urantiapedia oder unsere Dienste im eigenen Namen oder im Namen einer anderen Person nutzen.
+„diese Richtlinie“ / „diese Datenschutzrichtlinie“ | Dieses Dokument mit dem Titel „Urantiapedia-Datenschutzrichtlinie“.
+„Beiträge“ | Inhalte, die Sie zu Urantiapedia hinzufügen oder Änderungen vornehmen.
+„Persönliche Informationen“ | Informationen, die Sie uns zur Verfügung stellen oder die wir sammeln, die dazu verwendet werden könnten, Sie persönlich zu identifizieren. Um es klarzustellen: Auch wenn wir nicht unbedingt alle der folgenden Arten von Informationen sammeln, betrachten wir zumindest die folgenden als „personenbezogene Daten“, wenn sie ansonsten nicht öffentlich sind und zur Identifizierung Ihrer Person verwendet werden können:<br/>(a) Ihr richtiger Name, Ihre Adresse, Telefonnummer, E-Mail-Adresse, Passwort, Identifikationsnummer auf einem amtlichen Ausweis, IP-Adresse, Benutzeragenteninformationen, Zahlungskontonummer;<br/>(b) wenn mit einem der Elemente im Unterabschnitt verknüpft (a) alle sensiblen Daten wie Geburtsdatum, Geschlecht, sexuelle Orientierung, Rasse oder ethnische Herkunft, Familien- oder Familienstand, Gesundheitszustand oder Behinderungen, politische Zugehörigkeit und Religion.
+„Dritter“ / „Dritte“ | Einzelpersonen, Organisationen, Websites, Dienste, Produkte und Anwendungen, die nicht von Urantiapedia kontrolliert, verwaltet oder betrieben werden. Dazu gehören andere Urantiapedia-Benutzer und unabhängige Organisationen oder Gruppen, die dabei helfen, die Urantiapedia-Bewegung zu fördern, wie beispielsweise „Urantia Book“-Organisationen und Benutzergruppen, sowie Freiwillige, Mitarbeiter, Direktoren, Beamte, Zuschussempfänger und Auftragnehmer dieser Organisationen oder Gruppen.
 
+### Was diese Datenschutzrichtlinie abdeckt und was nicht
 
-Außer wie unten erläutert, gilt diese Datenschutzrichtlinie für unsere Erfassung und Handhabung von Informationen über Sie, die wir aufgrund Ihrer Nutzung der Urantiapedia-Website erhalten. Diese Richtlinie gilt auch für Informationen, die wir von unseren Partnern oder anderen Dritten erhalten. Um mehr darüber zu erfahren, was diese Datenschutzrichtlinie abdeckt, siehe unten.
+Sofern im Folgenden nichts anderes erläutert wird, gilt diese Datenschutzrichtlinie für unsere Erhebung und Verarbeitung von Informationen über Sie, die wir aufgrund Ihrer Nutzung der Urantiapedia-Website erhalten. Diese Richtlinie gilt auch für Informationen, die wir von unseren Partnern oder anderen Dritten erhalten. Um mehr darüber zu erfahren, was diese Datenschutzrichtlinie abdeckt, lesen Sie bitte unten.
 
-#### Beispiele dafür, was diese Datenschutzrichtlinie abdeckt 
+#### Beispiele für den Inhalt dieser Datenschutzrichtlinie
 
-Um der Klarheit willen deckt diese Datenschutzrichtlinie unabhängig von der Sprache Folgendes ab: 
+Der Klarheit halber deckt diese Datenschutzrichtlinie unabhängig von der Sprache Folgendes ab:
 
-- Unsere alternativen Kopien auf GitHub, [Hauptprojekt von Urantiapedia](https://github.com/JanHerca/urantiapedia) und [Urantiapedia Backup project](https://github.com/JanHerca/urantiapedia-backup). 
-- Unsere APIs (es sei denn, wir haben eine separate Richtlinie für diese Dienste bereitgestellt). 
+- [Unsere Hauptwebsite](https://urantiapedia.org).
+- Unsere alternativen Kopien in GitHub, [Urantiapedia-Hauptprojekt](https://github.com/JanHerca/urantiapedia) und [Urantiapedia-Sicherungsprojekt](https://github.com/JanHerca/urantiapedia-backup).
+- Unsere APIs (es sei denn, wir haben eine separate Richtlinie für diese Dienste bereitgestellt).
 - E-Mails, SMS und Benachrichtigungen von uns oder von Ihnen an uns gesendet.
 
-Diese Datenschutzrichtlinie deckt jedoch einige Situationen nicht ab, in denen wir möglicherweise Informationen sammeln oder verarbeiten. Zum Beispiel Websites oder Dienste, die von Dritten betrieben werden. Um mehr darüber zu erfahren, was diese Datenschutzrichtlinie nicht abdeckt, siehe unten. 
+Diese Datenschutzrichtlinie deckt jedoch einige Situationen nicht ab, in denen wir möglicherweise Informationen sammeln oder verarbeiten. Zum Beispiel Websites oder Dienste, die von Dritten betrieben werden. Weitere Informationen darüber, was diese Datenschutzrichtlinie nicht abdeckt, finden Sie unten.
 
+#### Mehr darüber, was diese Datenschutzrichtlinie nicht abdeckt
 
-Dieser Abschnitt ist Teil der Datenschutzrichtlinie und soll detailliert erläutern, welche Situationen nicht von unserer Datenschutzrichtlinie abgedeckt werden. 
+Dieser Abschnitt ist Teil der Datenschutzrichtlinie und soll im Detail erläutern, welche Situationen nicht von unserer Datenschutzrichtlinie abgedeckt werden.
 
-##### Community-Mitglieder 
+##### Community-Mitglieder
 
-- **Administrative Freiwillige**. Dies sind Freiwillige, die die Richtlinien der Urantiapedia-Site durchsetzen und die Sicherheit der Urantiapedia-Site gewährleisten. Wenn diese Administratoren auf personenbezogene Daten zugreifen, die nicht öffentlich sind, müssen sie unsere Richtlinie zum Zugriff auf nicht öffentliche Informationen sowie andere toolspezifische Richtlinien einhalten.
-- **Andere Benutzer**. Wir stellen mehrere Tools bereit, mit denen Benutzer miteinander kommunizieren können. Die Mitteilungen können von dieser Richtlinie abgedeckt werden, während sie unsere Systeme durchlaufen, aber die Benutzer, die diese Mitteilungen erhalten, und was sie mit den Mitteilungen tun, nachdem sie sie erhalten haben, fallen nicht unter diese Richtlinie. Beispiele sind: 
-    - das Veröffentlichen von Nachrichten in WhatsApp-Urantiapedia-Gruppen; 
-    - Verwendung von [Trello](https://trello.com/) für die Projektplanung und -verwaltung. 
+Die Urantiapedia-Website ist eine gemeinschaftliche Liebesarbeit, die von einer globalen Gemeinschaft von Freiwilligen ständig gepflegt und aktualisiert wird. Diese globale Gemeinschaft von Freiwilligen kann manchmal Zugriff auf persönliche Informationen haben, um das Funktionieren der Urantiapedia-Website sicherzustellen.
+- **Freiwillige in der Verwaltung**. Hierbei handelt es sich um Freiwillige, die die Richtlinien der Urantiapedia-Website durchsetzen und die Sicherheit der Urantiapedia-Website gewährleisten. Wenn diese Administratoren auf nicht öffentliche personenbezogene Daten zugreifen, müssen sie unsere Richtlinie zum Zugriff auf nicht öffentliche Informationen sowie andere werkzeugspezifische Richtlinien einhalten.
+- **Andere Benutzer**. Wir stellen verschiedene Tools zur Verfügung, mit denen Benutzer miteinander kommunizieren können. Die Kommunikation kann von dieser Richtlinie abgedeckt sein, während sie unsere Systeme durchläuft, aber die Benutzer, die diese Kommunikation erhalten, und was sie mit der Kommunikation tun, nachdem sie sie erhalten haben, fallen nicht unter diese Richtlinie. Beispiele beinhalten:
+    - Posten von Nachrichten in WhatsApp Urantiapedia-Gruppen;
+    - Verwendung von [Trello](https://trello.com/) für die Projektplanung und -verwaltung.
 
-##### Dritte 
+##### Dritte
 
-Diese Datenschutzrichtlinie deckt nur die Art und Weise ab, wie Urantiapedia personenbezogene Daten sammelt, verwendet und offenlegt, und geht nicht auf die Praktiken von Dritten ein. Beispielsweise behandelt diese Datenschutzrichtlinie nicht die Praktiken von:
+Diese Datenschutzrichtlinie deckt nur die Art und Weise ab, wie Urantiapedia personenbezogene Daten erhebt, nutzt und offenlegt, und befasst sich nicht mit den Praktiken Dritter. Diese Datenschutzrichtlinie befasst sich beispielsweise nicht mit folgenden Praktiken:
+- **Websites, die von anderen Organisationen betrieben werden**, z. B. Websites, auf die in den Abschnitten „Referenzen“ von Urantiapedia verlinkt wird, oder die von anderen Bewegungsorganisationen betrieben werden. Diese Organisationen erhalten möglicherweise Informationen von Ihnen, wenn Sie deren Websites nach der Nutzung von Urantiapedia besuchen. Sie unterliegen ihren eigenen Datenschutzrichtlinien.
+- **Mobile Anwendungen, die von anderen Organisationen oder Einzelpersonen bereitgestellt werden**. Diese Organisationen oder Einzelpersonen erhalten möglicherweise Informationen von Ihnen, wenn Sie diese Anwendungen verwenden, um auf Inhalte der Urantiapedia-Website zuzugreifen. Sie unterliegen ihren eigenen Datenschutzrichtlinien.
 
+## Erhebung und Nutzung von Informationen
 
+### Arten von Informationen, die wir von Ihnen erhalten, und wie wir sie erhalten
 
+#### Ihre öffentlichen Beiträge
 
-Wenn Sie einen Beitrag zur Urantiapedia-Website leisten, einschließlich in den Kommentarbereichen, erstellen Sie eine dauerhafte, öffentliche Aufzeichnung aller von Ihnen hinzugefügten, entfernten oder geänderten Inhalte. Der Seitenverlauf zeigt, wann Ihr Beitrag oder Ihre Löschung erfolgt ist, sowie Ihren Benutzernamen. Wir können Ihre öffentlichen Beiträge, entweder aggregiert mit den öffentlichen Beiträgen anderer oder einzeln, verwenden, um neue Funktionen oder datenbezogene Produkte für Sie zu erstellen oder um mehr darüber zu erfahren, wie die Urantiapedia-Website verwendet wird, wie weiter unten im Abschnitt „Wie wir verwenden Informationen, die wir von Ihnen erhalten“ dieser Datenschutzrichtlinie. 
+Wenn Sie auf der Urantiapedia-Website einen Beitrag leisten, auch in den Kommentarbereichen, erstellen Sie eine dauerhafte, öffentliche Aufzeichnung aller von Ihnen hinzugefügten, entfernten oder geänderten Inhalte. Im Seitenverlauf wird angezeigt, wann Ihr Beitrag oder Ihre Löschung erfolgt ist, sowie Ihr Benutzername. Wir können Ihre öffentlichen Beiträge, entweder zusammengefasst mit den öffentlichen Beiträgen anderer oder einzeln, verwenden, um neue Funktionen oder datenbezogene Produkte für Sie zu erstellen oder um mehr über die Nutzung der Urantiapedia-Website zu erfahren, wie weiter unten im Abschnitt „Wie wir verwenden“ erläutert wird „Informationen, die wir von Ihnen erhalten“ dieser Datenschutzrichtlinie.
 
 #### Öffentlich sichtbare Informationen
 
-Sofern in dieser Richtlinie nichts anderes angegeben ist, sollten Sie davon ausgehen, dass Informationen, die Sie aktiv zur Urantiapedia-Website beitragen, einschließlich persönlicher Informationen, öffentlich sichtbar sind und von Suchmaschinen gefunden werden können. Wie die meisten Dinge im Internet kann alles, was Sie teilen, von anderen Personen im Internet kopiert und weiterverteilt werden. Bitte tragen Sie keine Informationen bei, die Sie nicht dauerhaft öffentlich machen möchten, wie z. B. die Preisgabe Ihres richtigen Namens oder Standorts in Ihren Beiträgen. 
+Sofern in dieser Richtlinie nichts anderes angegeben ist, sollten Sie davon ausgehen, dass die Informationen, die Sie aktiv auf der Urantiapedia-Website bereitstellen, einschließlich personenbezogener Daten, öffentlich sichtbar sind und von Suchmaschinen gefunden werden können. Wie die meisten Dinge im Internet kann alles, was Sie teilen, von anderen Personen kopiert und im Internet weitergegeben werden. Bitte tragen Sie in Ihren Beiträgen keine Informationen bei, die Sie nicht dauerhaft öffentlich machen möchten, wie z. B. die Offenlegung Ihres richtigen Namens oder Standorts.
 
-Sie sollten sich darüber im Klaren sein, dass bestimmte von Ihnen veröffentlichte Daten oder aggregierte Daten, die von uns veröffentlicht werden, von jedermann zur Analyse und zum Rückschluss auf weitere Informationen verwendet werden können, z. B. aus welchem ​​​​Land ein Benutzer stammt, politische Zugehörigkeit und Geschlecht. 
+Sie sollten sich darüber im Klaren sein, dass bestimmte von Ihnen veröffentlichte Daten oder aggregierte Daten, die von uns veröffentlicht werden, von jedermann zur Analyse und zur Ableitung weiterer Informationen verwendet werden können, z. B. aus welchem ​​Land ein Benutzer stammt, welche politische Zugehörigkeit er hat und welches Geschlecht er hat.
 
 #### Kontoinformationen und Registrierung
 
-Sie müssen die Erstellung eines Kontos beantragen, um einen Beitrag zur Urantipedia-Website leisten zu können. Sie können keine eigenen Konten erstellen. 
+Sie müssen die Erstellung eines Kontos beantragen, um zur Urantipedia-Website beizutragen. Sie können keine eigenen Konten erstellen.
 
-Wenn Sie die Erstellung eines Anbieterkontos anfordern möchten, benötigen wir nur einen Benutzernamen, ein Passwort und eine E-Mail-Adresse. Sie können den Benutzernamen und das Passwort jederzeit ändern, nicht jedoch die E-Mail. 
+Wenn Sie die Erstellung eines Mitwirkendenkontos beantragen möchten, benötigen wir lediglich einen Benutzernamen, ein Passwort und eine E-Mail-Adresse. Sie können den Benutzernamen und das Passwort jederzeit ändern, nicht jedoch die E-Mail.
 
-Wir benötigen niemals personenbezogene Daten wie Geschlecht, Alter. 
+Wir benötigen niemals personenbezogene Daten wie Geschlecht oder Alter.
 
-#### Standortinformationen 
+#### Standortinformationen
 
-Wenn Sie zustimmen, können wir GPS (und andere Technologien, die üblicherweise zur Standortbestimmung verwendet werden) verwenden, um Ihnen relevantere Inhalte anzuzeigen. Wir behandeln die durch diese Technologien erhaltenen Informationen vertraulich, außer wie in dieser Richtlinie vorgesehen. 
+Wenn Sie zustimmen, können wir GPS (und andere Technologien, die üblicherweise zur Standortbestimmung verwendet werden) verwenden, um Ihnen relevantere Inhalte anzuzeigen. Wir behandeln die durch diese Technologien erhaltenen Informationen vertraulich, sofern in dieser Richtlinie nichts anderes bestimmt ist.
 
-### Informationen in Bezug auf Ihre Nutzung der Urantiapedia-Website
+### Informationen im Zusammenhang mit Ihrer Nutzung der Urantiapedia-Website
 
-Wir möchten die Urantiapedia-Website für Sie verbessern, indem wir mehr darüber erfahren, wie Sie sie verwenden. Beispiele hierfür könnten sein, wie oft Sie die Urantiapedia-Website besuchen, was Ihnen gefällt, was Sie hilfreich finden, wie Sie zur Urantiapedia-Website gelangen und ob Sie eine hilfreiche Funktion häufiger nutzen würden, wenn wir sie anders erklären würden. Wir möchten auch, dass diese Richtlinie und unsere Praktiken die Werte unserer Gemeinschaft widerspiegeln. Aus diesem Grund behandeln wir Informationen im Zusammenhang mit Ihrer Nutzung der Urantiapedia-Website vertraulich, außer wie in dieser Richtlinie vorgesehen. 
+Wir möchten die Urantiapedia-Website für Sie verbessern, indem wir mehr darüber erfahren, wie Sie sie nutzen. Beispiele hierfür könnten sein, wie oft Sie die Urantiapedia-Seite besuchen, was Ihnen gefällt, was Sie hilfreich finden, wie Sie zur Urantiapedia-Seite gelangen und ob Sie eine hilfreiche Funktion häufiger nutzen würden, wenn wir sie anders erklären würden. Wir möchten auch, dass diese Richtlinie und unsere Praktiken die Werte unserer Gemeinschaft widerspiegeln. Aus diesem Grund behandeln wir Informationen im Zusammenhang mit Ihrer Nutzung der Urantiapedia-Website vertraulich, sofern in dieser Richtlinie nichts anderes bestimmt ist.
 
 #### Informationen, die wir automatisch erhalten
 
-Aufgrund der Funktionsweise von Browsern erhalten wir einige Informationen automatisch, wenn Sie die Urantiapedia-Website besuchen. Dies gilt auch, wenn Sie ein Online-Tool auf einer Website eines Drittanbieters verwenden, das Informationen lädt, die von der Urantiapedia-Website stammen. Diese Informationen umfassen den von Ihnen verwendeten Gerätetyp, den Typ und die Version Ihres Browsers, die Spracheinstellung Ihres Browsers, den Typ und die Version des Betriebssystems Ihres Geräts, in einigen Fällen den Namen Ihres Internetdienstanbieters oder Mobilfunkanbieters, die Website die Sie auf die Urantiapedia-Website verwiesen haben, welche Seiten Sie anfordern und besuchen und das Datum und die Uhrzeit jeder Anfrage, die Sie an die Urantiapedia-Website stellen.
+Aufgrund der Funktionsweise von Browsern erhalten wir einige Informationen automatisch, wenn Sie die Urantiapedia-Website besuchen. Dies gilt auch, wenn Sie ein Online-Tool auf einer Website eines Drittanbieters verwenden, das Informationen von der Urantiapedia-Website lädt. Zu diesen Informationen gehören der Typ des von Ihnen verwendeten Geräts, der Typ und die Version Ihres Browsers, die Spracheinstellung Ihres Browsers, der Typ und die Version des Betriebssystems Ihres Geräts, in einigen Fällen der Name Ihres Internetdienstanbieters oder Mobilfunkanbieters sowie die Website der Sie auf die Urantiapedia-Site verwiesen hat, welche Seiten Sie anfordern und besuchen sowie das Datum und die Uhrzeit jeder Anfrage, die Sie an die Urantiapedia-Site stellen.
 
-Einfach ausgedrückt verwenden wir diese Informationen, um Ihre Erfahrung mit der Urantiapedia-Website zu verbessern. Beispielsweise verwenden wir diese Informationen, um die Website zu verwalten, für mehr Sicherheit zu sorgen und Vandalismus zu bekämpfen; Optimieren Sie mobile Anwendungen, passen Sie Inhalte an und legen Sie Spracheinstellungen fest, testen Sie Funktionen, um zu sehen, was funktioniert, und verbessern Sie die Leistung; zu verstehen, wie Benutzer mit der Urantiapedia-Website interagieren, die Nutzung verschiedener Funktionen zu verfolgen und zu untersuchen, Verständnis für die demografischen Daten der Urantiapedia-Website zu gewinnen und Trends zu analysieren. 
+Vereinfacht ausgedrückt nutzen wir diese Informationen, um Ihre Erfahrung mit der Urantiapedia-Website zu verbessern. Wir verwenden diese Informationen beispielsweise, um die Website zu verwalten, die Sicherheit zu erhöhen und Vandalismus zu bekämpfen. Optimieren Sie mobile Anwendungen, passen Sie Inhalte an und legen Sie Spracheinstellungen fest, testen Sie Funktionen, um zu sehen, was funktioniert, und verbessern Sie die Leistung; Verstehen Sie, wie Benutzer mit der Urantiapedia-Website interagieren, verfolgen und untersuchen Sie die Nutzung verschiedener Funktionen, gewinnen Sie Verständnis für die Demografie der Urantiapedia-Website und analysieren Sie Trends.
 
 #### Informationen, die wir sammeln
 
-Wir sammeln aktiv einige Arten von Informationen mit einer Vielzahl von häufig verwendeten Technologien. Dazu gehören im Allgemeinen Tracking-Pixel, JavaScript und eine Vielzahl von „lokal gespeicherten Daten“-Technologien wie Cookies und lokale Speicherung. Diese Arten von Technologien können auch in Online-Tools auf einer Website eines Drittanbieters verwendet werden, die Informationen von der Urantiapedia-Website lädt. Wir wissen, dass einige dieser Technologien in der Stadt nicht den besten Ruf haben und für weniger als edle Zwecke verwendet werden können. Deshalb möchten wir so klar wie möglich darlegen, warum wir diese Methoden verwenden und welche Art von Informationen wir mit ihnen sammeln.
+Wir sammeln aktiv einige Arten von Informationen mit einer Vielzahl häufig verwendeter Technologien. Dazu gehören im Allgemeinen Tracking-Pixel, JavaScript und verschiedene Technologien für „lokal gespeicherte Daten“, wie Cookies und lokale Speicherung. Diese Arten von Technologien können auch in Online-Tools auf einer Website eines Drittanbieters verwendet werden, die Informationen von der Urantiapedia-Website lädt. Wir sind uns darüber im Klaren, dass einige dieser Technologien in der Stadt nicht den besten Ruf genießen und für weniger edle Zwecke eingesetzt werden können. Deshalb möchten wir so klar wie möglich darlegen, warum wir diese Methoden verwenden und welche Art von Informationen wir damit sammeln.
 
-Je nachdem, welche Technologie wir verwenden, können lokal gespeicherte Daten Text, persönliche Informationen (wie Ihre IP-Adresse) und Informationen über Ihre Nutzung der Urantiapedia-Website (wie Ihren Benutzernamen oder die Zeit Ihres Besuchs) enthalten. Siehe unten für weitere Informationen. 
+Je nachdem, welche Technologie wir verwenden, können die lokal gespeicherten Daten Text, persönliche Informationen (wie Ihre IP-Adresse) und Informationen über Ihre Nutzung der Urantiapedia-Website (wie Ihren Benutzernamen oder die Zeit Ihres Besuchs) umfassen. Weitere Informationen finden Sie weiter unten.
 
-Wir verwenden diese Informationen, um Ihre Erfahrungen mit der Urantiapedia-Website sicherer und besser zu machen, um ein besseres Verständnis der Benutzerpräferenzen und ihrer Interaktion mit der Urantiapedia-Website zu erlangen und um unsere Dienste allgemein zu verbessern. Wir werden niemals Cookies von Drittanbietern verwenden, es sei denn, wir erhalten Ihre Erlaubnis dazu. Wenn Sie jemals auf ein Datenerfassungstool eines Drittanbieters stoßen, das nicht von Ihnen autorisiert wurde (z. B. eines, das möglicherweise versehentlich von einem anderen Benutzer oder Administrator platziert wurde), melden Sie es uns bitte unter urantiapedia@gmail.com.
+Wir verwenden diese Informationen, um Ihre Erfahrung mit der Urantiapedia-Website sicherer und besser zu machen, um ein besseres Verständnis der Benutzerpräferenzen und ihrer Interaktion mit der Urantiapedia-Website zu erlangen und um unsere Dienste allgemein zu verbessern. Wir werden niemals Cookies von Drittanbietern verwenden, es sei denn, wir erhalten Ihre Erlaubnis dazu. Sollten Sie jemals auf ein Datenerfassungstool eines Drittanbieters stoßen, das nicht von Ihnen autorisiert wurde (z. B. eines, das möglicherweise versehentlich von einem anderen Benutzer oder Administrator platziert wurde), melden Sie es uns bitte unter urantiapedia@gmail.com.
 
-### Wie wir Informationen verwenden, die wir von Ihnen erhalten 
+### Wie wir die von Ihnen erhaltenen Informationen verwenden
 
-#### Allgemeines 
+#### Allgemein
 
-Wir und unsere Dienstanbieter verwenden Ihre Informationen für den rechtmäßigen Zweck, unsere gemeinnützige Mission zu verfolgen, einschließlich: 
-- Betreiben der Urantiapedia-Website, Teilen Ihrer Beiträge und Verwalten unserer Dienste. 
-    - Um Ihnen dabei zu helfen, Ihr Wissen über das _Urantia-Buch_ mit der Welt zu teilen und unseren Diensten neue Funktionen hinzuzufügen. 
-    - Um den Zugriff auf Ihr Konto zu arrangieren und Ihnen damit verbundene Dienste bereitzustellen. 
-    - Um Ihnen administrative Informationen zu senden, wie z. B. Änderungen an unseren Richtlinien. 
-    Wir führen diese Aktivitäten durch, um unsere Beziehung zu Ihnen zu verwalten, weil wir ein berechtigtes Interesse haben und/oder um unseren gesetzlichen Verpflichtungen nachzukommen.
-    - Um Ihnen benutzerdefinierte Inhalte, Hinweise und Einstellungen bereitzustellen und Ihre Erfahrung mit der Urantiapedia-Website zu verbessern. 
-    Wir werden die Dienste in einigen Fällen mit Ihrer Zustimmung anpassen; oder im Einklang mit unserem berechtigten Interesse. 
-- Versenden von E-Mails mit Neuigkeiten und Mitteilungen über Artikel, von denen wir glauben, dass sie für Sie von Interesse sein könnten. 
-    - Um Sie über Dinge zu informieren, die mit der Urantiapedia-Website oder der Urantiapedia-Bewegung geschehen. 
-    Wir senden Ihnen diese Arten von E-Mails nur mit Ihrer Zustimmung, sofern dies nicht durch geltendes Recht zulässig ist. Wir verkaufen, vermieten oder verwenden Ihre E-Mail-Adresse nicht, um für Produkte oder Dienstleistungen von Drittanbietern zu werben.
-    - Um Ihre öffentlichen Beiträge, entweder aggregiert mit den öffentlichen Beiträgen anderer oder einzeln, zu verwenden, um neue Funktionen oder datenbezogene Produkte für Sie zu erstellen oder um mehr darüber zu erfahren, wie die Urantiapedia-Website verwendet wird. 
-    - Um Spam, Identitätsdiebstahl, Malware und andere Arten von Missbrauch zu bekämpfen. 
-    - Um mobile und andere Anwendungen zu optimieren. 
-    - Um Funktionen zu testen, um zu sehen, was funktioniert, zu verstehen, wie Benutzer mit der Urantiapedia-Website interagieren, die Verwendung verschiedener Funktionen zu verfolgen und zu studieren, Verständnis für die demografischen Daten der Urantiapedia-Website zu gewinnen und Trends zu analysieren. 
-    Wir führen diese Aktivitäten durch, um unser berechtigtes Interesse zu fördern und/oder unseren gesetzlichen Verpflichtungen nachzukommen. 
+Wir und unsere Dienstleister nutzen Ihre Daten für den legitimen Zweck, unsere gemeinnützige Mission zu verfolgen, einschließlich:
+- Betreiben der Urantiapedia-Website, Teilen Ihrer Beiträge und Verwalten unserer Dienste.
+    - Um Ihnen zu helfen, Ihr _Urantia Book_-Wissen mit der Welt zu teilen und neue Funktionen zu unseren Diensten hinzuzufügen.
+    - Um den Zugriff auf Ihr Konto zu veranlassen und Ihnen entsprechende Dienstleistungen anzubieten.
+    - Um Ihnen administrative Informationen zu senden, z. B. Änderungen unserer Richtlinien.
+    Wir nehmen an diesen Aktivitäten teil, um unsere Beziehung zu Ihnen zu verwalten, weil wir ein berechtigtes Interesse haben und/oder um unseren gesetzlichen Verpflichtungen nachzukommen.
+- Bereitstellung maßgeschneiderter Dienstleistungen.
+    - Um Ihnen benutzerdefinierte Inhalte, Hinweise und Einstellungen bereitzustellen und Ihr Erlebnis mit der Urantiapedia-Website zu verbessern.
+    In einigen Fällen werden wir die Dienste mit Ihrer Zustimmung anpassen; oder im Einklang mit unserem berechtigten Interesse.
+- Versenden von E-Mails mit Neuigkeiten und Mitteilungen über Artikel, von denen wir glauben, dass sie für Sie von Interesse sein könnten.
+    - Um Sie über Dinge zu informieren, die auf der Urantiapedia-Website oder der Urantiapedia-Bewegung passieren.
+    Wir werden Ihnen diese Art von E-Mails nur mit Ihrer Zustimmung zusenden, es sei denn, das geltende Recht erlaubt etwas anderes. Wir verkaufen, vermieten oder verwenden Ihre E-Mail-Adresse nicht, um für Produkte oder Dienstleistungen Dritter zu werben.
+- Verbesserung der Urantiapedia-Website und Gewährleistung einer sichereren und besseren Benutzererfahrung.
+    - Um Ihre öffentlichen Beiträge, entweder zusammengefasst mit den öffentlichen Beiträgen anderer oder einzeln, zu verwenden, um neue Funktionen oder datenbezogene Produkte für Sie zu erstellen oder mehr darüber zu erfahren, wie die Urantiapedia-Website genutzt wird.
+    - Zur Bekämpfung von Spam, Identitätsdiebstahl, Malware und anderen Arten von Missbrauch.
+    - Zur Optimierung mobiler und anderer Anwendungen.
+    - Um Funktionen zu testen, um zu sehen, was funktioniert, um zu verstehen, wie Benutzer mit der Urantiapedia-Website interagieren, um die Nutzung verschiedener Funktionen zu verfolgen und zu untersuchen, um Verständnis für die Demografie der Urantiapedia-Website zu gewinnen und um Trends zu analysieren.
+    Wir beteiligen uns an diesen Aktivitäten, um unser berechtigtes Interesse zu wahren und/oder unseren gesetzlichen Verpflichtungen nachzukommen.
 
-#### Sonstiges 
+#### Andere
 
 ##### Standortinformationen
 
-Wie oben erwähnt, können wir häufig verwendete Standorttechnologien verwenden, um Ihnen relevantere Inhalte anzuzeigen. Zur Erinnerung: Sie können unserem Zugriff auf diese Ortungstechnologien jederzeit zustimmen und/oder ihn deaktivieren, beispielsweise über die nativen Betriebssystemfunktionen auf Ihrem Mobilgerät, und die Urantiapedia-Website weiterhin nutzen. 
+Wie oben erwähnt, können wir häufig verwendete Standorttechnologien nutzen, um Ihnen relevantere Inhalte anzuzeigen. Zur Erinnerung: Sie können unserem Zugriff auf diese Ortungstechnologien jederzeit zustimmen und/oder diesen deaktivieren, beispielsweise über die nativen Betriebssystemfunktionen auf Ihrem Mobilgerät, und trotzdem die Urantiapedia-Website nutzen.
 
-##### IP-Adressen 
+##### IP-Adressen
 
-Wenn Sie eine Urantiapedia-Website besuchen, erhalten wir automatisch die IP-Adresse des Geräts (oder Ihres Proxy-Servers), das Sie für den Zugriff auf das Internet verwenden, was dazu verwendet werden könnte, Ihren geografischen Standort abzuleiten. Wir behandeln IP-Adressen vertraulich, außer wie in dieser Richtlinie vorgesehen. Wenn Sie die Urantiapedia-Website mit Ihrem Mobilgerät besuchen, können wir Ihre IP-Adresse verwenden, um Dienstanbietern anonymisierte oder aggregierte Informationen über das Nutzungsvolumen in bestimmten Bereichen bereitzustellen.
+Wenn Sie eine Urantiapedia-Website besuchen, erhalten wir automatisch die IP-Adresse des Geräts (oder Ihres Proxyservers), das Sie für den Zugriff auf das Internet verwenden, was zur Rückleitung Ihres geografischen Standorts verwendet werden könnte. Wir behandeln IP-Adressen vertraulich, sofern in dieser Richtlinie nichts anderes bestimmt ist. Wenn Sie die Urantiapedia-Website mit Ihrem Mobilgerät besuchen, können wir Ihre IP-Adresse verwenden, um Dienstanbietern anonymisierte oder aggregierte Informationen über das Nutzungsvolumen in bestimmten Bereichen bereitzustellen.
 
-Wir verwenden diese Standortinformationen, um Ihre Erfahrungen mit der Urantiapedia-Website sicherer und besser zu machen, um ein besseres Verständnis der Benutzerpräferenzen und ihrer Interaktion mit der Urantiapedia-Website zu erlangen und um unsere Dienste allgemein zu verbessern. Beispielsweise verwenden wir diese Informationen, um mehr Sicherheit zu bieten, mobile Anwendungen zu optimieren und zu lernen, wie wir die Urantiapedia-Community erweitern und besser unterstützen können. Wir verwenden personenbezogene Daten auch auf die in den Abschnitten dieser Richtlinie mit den Titeln „Aus rechtlichen Gründen“ und „Um Sie, uns und andere zu schützen“ beschriebene Weise. 
+Wir verwenden diese Standortinformationen, um Ihre Erfahrung mit der Urantiapedia-Website sicherer und besser zu machen, um ein besseres Verständnis der Benutzerpräferenzen und ihrer Interaktion mit der Urantiapedia-Website zu erlangen und um unsere Dienste allgemein zu verbessern. Wir nutzen diese Informationen beispielsweise, um mehr Sicherheit zu bieten, mobile Anwendungen zu optimieren und zu erfahren, wie wir die Urantiapedia-Community erweitern und besser unterstützen können. Wir verwenden personenbezogene Daten auch auf die in den Abschnitten „Aus rechtlichen Gründen“ und „Um Sie, uns selbst und andere zu schützen“ dieser Richtlinie beschriebene Weise.
 
-## Teilen 
+## Teilen
 
-### Wann dürfen wir Ihre Informationen teilen? 
+### Wann dürfen wir Ihre Informationen weitergeben?
 
-#### Mit Ihrer Erlaubnis 
+#### Mit deiner Erlaubnis
 
-Wir geben Ihre personenbezogenen Daten für einen bestimmten Zweck weiter, wenn Sie damit einverstanden sind. 
+Wir geben Ihre persönlichen Daten für einen bestimmten Zweck weiter, wenn Sie damit einverstanden sind.
 
 #### Aus rechtlichen Gründen
 
-Wir werden auf Ihre personenbezogenen Daten zugreifen, sie verwenden, aufbewahren und/oder offenlegen, wenn wir vernünftigerweise glauben, dass dies erforderlich ist, um einer gültigen und rechtlich durchsetzbaren Anordnung, einer Vorladung, einem Gerichtsbeschluss, einem Gesetz oder einer Verordnung oder einer anderen gerichtlichen oder behördlichen Anordnung nachzukommen. Wenn wir jedoch der Ansicht sind, dass eine bestimmte Anfrage zur Offenlegung von Informationen eines Benutzers rechtlich unzulässig oder rechtswidrig ist und der betroffene Benutzer nicht beabsichtigt, der Offenlegung selbst zu widersprechen, werden wir unser Bestes tun, um dagegen vorzugehen. Wir verpflichten uns, Sie nach Möglichkeit mindestens zehn (10) Kalendertage per E-Mail zu benachrichtigen, bevor wir Ihre personenbezogenen Daten als Reaktion auf eine gesetzliche Aufforderung offenlegen. Eine Benachrichtigung dürfen wir jedoch nur erteilen, wenn uns die Kontaktaufnahme nicht gesetzlich untersagt ist, keine glaubhafte Gefahr für Leib und Leben durch die Offenlegung des Ersuchens entsteht oder sich erhöht,
+Wir werden auf Ihre personenbezogenen Daten zugreifen, sie verwenden, aufbewahren und/oder offenlegen, wenn wir begründeten Anlass dazu haben, dass dies zur Erfüllung eines gültigen und rechtlich durchsetzbaren Haftbefehls, einer Vorladung, eines Gerichtsbeschlusses, eines Gesetzes oder einer Verordnung oder einer anderen gerichtlichen oder behördlichen Anordnung erforderlich ist. Wenn wir jedoch der Meinung sind, dass ein bestimmter Antrag auf Offenlegung der Informationen eines Nutzers rechtlich ungültig ist oder einen Missbrauch des Rechtssystems darstellt und der betroffene Nutzer nicht die Absicht hat, sich der Offenlegung selbst zu widersetzen, werden wir unser Bestes tun, um dagegen anzukämpfen. Wir verpflichten uns, Sie nach Möglichkeit mindestens zehn (10) Kalendertage per E-Mail zu benachrichtigen, bevor wir Ihre personenbezogenen Daten als Reaktion auf eine rechtliche Anforderung offenlegen. Zu einer Mitteilung dürfen wir jedoch nur dann Stellung nehmen, wenn es uns nicht gesetzlich untersagt ist, mit Ihnen in Kontakt zu treten, durch die Offenlegung der Anfrage keine Gefahr für Leib oder Leben begründet oder erhöht wird,
 
-Nichts in dieser Datenschutzrichtlinie soll Ihre rechtlichen Einwände oder Verteidigungen gegen die Aufforderung eines Dritten (sei es zivilrechtlich, strafrechtlich oder behördlich) einschränken, Ihre personenbezogenen Daten offenzulegen. Wir empfehlen, unverzüglich den Rat eines Rechtsbeistands einzuholen, wenn eine solche Anfrage Sie betrifft. 
+Nichts in dieser Datenschutzrichtlinie soll Ihre rechtlichen Einwände oder Verteidigungsmöglichkeiten gegen die Aufforderung Dritter (sei es zivilrechtlich, strafrechtlich oder behördlich) zur Offenlegung Ihrer personenbezogenen Daten einschränken. Wir empfehlen Ihnen, umgehend den Rat eines Rechtsbeistandes einzuholen, wenn ein solches Anliegen Sie betrifft.
 
-#### Um Sie, uns und andere zu schützen 
+#### Um Sie, uns selbst und andere zu schützen
 
-Wir oder bestimmte Benutzer mit bestimmten Administratorrechten, wie unten beschrieben, müssen Ihre personenbezogenen Daten verwenden und weitergeben, wenn dies vernünftigerweise als notwendig erachtet wird, um mögliche Verstöße gegen unsere Bedingungen durchzusetzen oder zu untersuchen Verwenden Sie oder diese Datenschutzrichtlinie. Möglicherweise müssen wir auch auf personenbezogene Daten zugreifen und diese weitergeben, um Ermittlungen durchzuführen und uns gegen rechtliche Drohungen oder Maßnahmen zu verteidigen.
+Wir oder bestimmte Benutzer mit bestimmten Administratorrechten, wie unten beschrieben, müssen Ihre persönlichen Daten verwenden und weitergeben, wenn wir vernünftigerweise davon ausgehen können, dass dies notwendig ist, um mögliche Verstöße gegen unsere Nutzungsbedingungen oder diese Datenschutzrichtlinie durchzusetzen oder zu untersuchen. Möglicherweise müssen wir auch auf personenbezogene Daten zugreifen und diese weitergeben, um Nachforschungen anzustellen und uns gegen rechtliche Drohungen oder Maßnahmen zu verteidigen.
 
-Wir hoffen, dass dies nie vorkommt, aber wir können Ihre personenbezogenen Daten offenlegen, wenn wir glauben, dass dies vernünftigerweise notwendig ist, um unmittelbar bevorstehende und schwere Körperverletzungen oder den Tod einer Person zu verhindern oder um unsere Organisation, Mitarbeiter, Auftragnehmer, Benutzer oder die Öffentlichkeit zu schützen . Wir können Ihre personenbezogenen Daten auch offenlegen, wenn wir dies vernünftigerweise für erforderlich halten, um potenziellen Spam, Malware, Betrug, Missbrauch, rechtswidrige Aktivitäten sowie Sicherheits- oder technische Bedenken zu erkennen, zu verhindern oder anderweitig zu bewerten und anzugehen. 
+Wir hoffen, dass dies nie geschieht, geben Ihre personenbezogenen Daten jedoch möglicherweise weiter, wenn wir der Ansicht sind, dass dies vernünftigerweise erforderlich ist, um eine drohende und schwere Körperverletzung oder den Tod einer Person zu verhindern oder um unsere Organisation, Mitarbeiter, Auftragnehmer, Benutzer oder die Öffentlichkeit zu schützen . Wir können Ihre personenbezogenen Daten auch dann offenlegen, wenn wir berechtigterweise davon ausgehen, dass dies zur Erkennung, Verhinderung oder anderweitigen Bewertung und Bekämpfung von potenziellem Spam, Malware, Betrug, Missbrauch, rechtswidrigen Aktivitäten sowie Sicherheits- oder technischen Bedenken erforderlich ist.
 
-## Schutz 
+## Schutz
 
-### Wie schützen wir Ihre personenbezogenen Daten?
+### Wie schützen wir Ihre persönlichen Daten?
 
-Wir bemühen uns, Ihre personenbezogenen Daten vor unbefugtem Zugriff, Verwendung oder Offenlegung zu schützen. Wir verwenden eine Vielzahl von physischen und technischen Maßnahmen, Richtlinien und Verfahren (z. B. Zugriffskontrollverfahren, Netzwerk-Firewalls und physische Sicherheit), die zum Schutz unserer Systeme und Ihrer personenbezogenen Daten entwickelt wurden. Leider gibt es keine absolut sichere Datenübertragung oder -speicherung, daher können wir nicht garantieren, dass unsere Sicherheit nicht verletzt wird (durch technische Maßnahmen oder durch Verletzung unserer Richtlinien und Verfahren).
+Wir sind bestrebt, Ihre persönlichen Daten vor unbefugtem Zugriff, unbefugter Nutzung oder Offenlegung zu schützen. Wir verwenden eine Vielzahl physischer und technischer Maßnahmen, Richtlinien und Verfahren (z. B. Zugriffskontrollverfahren, Netzwerk-Firewalls und physische Sicherheit), um unsere Systeme und Ihre persönlichen Daten zu schützen. Leider gibt es keine völlig sichere Datenübertragung oder -speicherung, daher können wir nicht garantieren, dass unsere Sicherheit nicht verletzt wird (durch technische Maßnahmen oder durch Verstöße gegen unsere Richtlinien und Verfahren).
 
-Wir werden Sie niemals per E-Mail nach Ihrem Passwort fragen (aber wir können Ihnen ein temporäres Passwort per E-Mail zusenden, wenn Sie ein Zurücksetzen des Passworts angefordert haben). Wenn Sie jemals eine E-Mail erhalten, in der Sie nach Ihrem Passwort gefragt werden, teilen Sie uns dies bitte mit, indem Sie sie an urantiapedia@gmail.com senden, damit wir die Quelle der E-Mail untersuchen können. 
+Wir werden Sie niemals per E-Mail nach Ihrem Passwort fragen (können Ihnen jedoch ein temporäres Passwort per E-Mail zusenden, wenn Sie eine Passwort-Zurücksetzung beantragt haben). Sollten Sie jemals eine E-Mail erhalten, in der Sie nach Ihrem Passwort gefragt werden, teilen Sie uns dies bitte mit, indem Sie diese an urantiapedia@gmail.com senden, damit wir die Quelle der E-Mail untersuchen können.
 
-### Wie lange bewahren wir Ihre Daten auf? 
+### Wie lange bewahren wir Ihre Daten auf?
 
-Sobald wir personenbezogene Daten von Ihnen erhalten, bewahren wir diese für die kürzestmögliche Zeit auf, die mit der Wartung, dem Verständnis und der Verbesserung der Urantiapedia-Website und unseren Verpflichtungen gemäß geltendem Recht vereinbar ist. In den meisten Fällen werden personenbezogene Daten nach 90 Tagen gelöscht, aggregiert oder anonymisiert. Nicht personenbezogene Daten können gegebenenfalls auf unbestimmte Zeit aufbewahrt werden.
+Sobald wir personenbezogene Daten von Ihnen erhalten, bewahren wir diese für den kürzestmöglichen Zeitraum auf, der mit der Wartung, dem Verständnis und der Verbesserung der Urantiapedia-Website sowie unseren Verpflichtungen gemäß geltendem Recht vereinbar ist. In den meisten Fällen werden personenbezogene Daten nach 90 Tagen gelöscht, aggregiert oder anonymisiert. Nicht-personenbezogene Daten können gegebenenfalls auf unbestimmte Zeit aufbewahrt werden.
 
-Bitte denken Sie daran, dass, wenn Sie einen Beitrag zur Urantiapedia-Website leisten, der Seitenverlauf zeigt, wann Ihr Beitrag geleistet wurde, und Ihren Benutzernamen. Die Transparenz der Projektbeiträge und der Revisionshistorie ist entscheidend für seine Wirksamkeit und Vertrauenswürdigkeit. 
+Bitte denken Sie daran, dass, wenn Sie einen Beitrag zur Urantiapedia-Website leisten, im Seitenverlauf angezeigt wird, wann Ihr Beitrag geleistet wurde, und dass Ihr Benutzername angezeigt wird. Die Transparenz der Projektbeiträge und des Revisionsverlaufs ist entscheidend für seine Wirksamkeit und Vertrauenswürdigkeit.
 
-## Ihre Rechte 
+## Deine Rechte
 
-Wenn Sie den Zugriff, die Aktualisierung oder die Einschränkung/Widerspruch gegen die Verarbeitung personenbezogener Daten anfordern oder eine Kopie Ihrer personenbezogenen Daten zum Zweck der Übermittlung an eine andere Organisation erhalten möchten, können Sie uns kontaktieren. Wir werden Ihre Anfrage im Einklang mit geltendem Recht beantworten. 
+Wenn Sie den Zugriff auf Ihre personenbezogenen Daten, deren Aktualisierung oder Einschränkung bzw. Einspruch gegen die Verarbeitung Ihrer personenbezogenen Daten beantragen oder eine Kopie Ihrer personenbezogenen Daten zum Zwecke der Übermittlung an eine andere Organisation erhalten möchten, können Sie sich an uns wenden. Wir werden Ihre Anfrage im Einklang mit geltendem Recht beantworten.
 
-Bitte beachten Sie auch, dass Sie einige dieser Rechte möglicherweise ohne unser Eingreifen ausüben können. Wenn Sie beispielsweise ein registrierter Benutzer sind, können Sie auf Ihrer Kontoseite auf einige persönliche Informationen zugreifen und diese aktualisieren.
+Bitte beachten Sie auch, dass Sie einige dieser Rechte möglicherweise ohne unser Eingreifen ausüben können. Wenn Sie beispielsweise ein registrierter Benutzer sind, können Sie auf Ihrer Kontoseite auf einige personenbezogene Daten zugreifen und diese aktualisieren.
 
-## Wichtige Informationen 
+## Wichtige Info
 
-**Zum Schutz von Urantiapedia und anderen Benutzern dürfen Sie die Urantiapedia-Website nicht nutzen, wenn Sie dieser Datenschutzrichtlinie nicht zustimmen.** 
+**Zum Schutz von Urantiapedia und anderen Benutzern dürfen Sie die Urantiapedia-Website nicht nutzen, wenn Sie mit dieser Datenschutzrichtlinie nicht einverstanden sind.**
 
 
 ### Wo ist Urantiapedia und was bedeutet das für mich?
 
-Urantiapedia ist keine Organisation, sondern ein einfaches Projekt, das von einer Gemeinschaft von Mitwirkenden geschaffen wurde, mit Servern, die sich je nach Verfügbarkeit bei unserem Hosting-Provider in verschiedenen Ländern befinden können. Wenn Sie sich für die Nutzung der Urantiapedia-Website entscheiden, verstehen Sie, dass Ihre personenbezogenen Daten in dem Land, in dem sich unsere Server befinden, wie in dieser Datenschutzrichtlinie beschrieben, erfasst, übertragen, gespeichert, verarbeitet, offengelegt und anderweitig verwendet werden. Sie verstehen auch, dass Ihre Daten von uns aus den Ländern mit unseren Servern in andere Länder übertragen werden können, die möglicherweise andere oder weniger strenge Datenschutzgesetze haben als Ihr Land, im Zusammenhang mit der Erbringung von Dienstleistungen für Sie. 
+Urantiapedia ist keine Organisation, sondern ein einfaches Projekt, das von einer Gemeinschaft von Mitwirkenden erstellt wurde, mit Servern, die sich je nach Verfügbarkeit unseres Hosting-Anbieters in verschiedenen Ländern befinden können. Wenn Sie sich für die Nutzung der Urantiapedia-Website entscheiden, erklären Sie sich damit einverstanden, dass Ihre personenbezogenen Daten in dem Land, in dem sich unsere Server befinden, wie in dieser Datenschutzrichtlinie beschrieben erfasst, übertragen, gespeichert, verarbeitet, offengelegt und anderweitig genutzt werden. Sie verstehen auch, dass Ihre Daten von uns im Zusammenhang mit der Erbringung von Dienstleistungen für Sie von den Ländern, in denen sich unsere Server befinden, in andere Länder übertragen werden können, in denen möglicherweise andere oder weniger strenge Datenschutzgesetze gelten als in Ihrem Land.
 
-### Unsere Antwort auf Do Not Track (DNT)-Signale
+### Unsere Reaktion auf Do Not Track (DNT)-Signale
 
-Wir verpflichten uns nachdrücklich, die personenbezogenen Daten der Benutzer zu schützen. Gemäß dieser Richtlinie geben wir Ihre Daten möglicherweise nur in bestimmten Situationen weiter, über die Sie im Abschnitt „Wann dürfen wir Ihre Daten weitergeben“ dieser Datenschutzrichtlinie mehr erfahren. Insbesondere geben wir Ihre personenbezogenen Daten nicht zu Marketingzwecken weiter. 
+Wir legen großen Wert darauf, die personenbezogenen Daten der Benutzer zu schützen. Gemäß dieser Richtlinie dürfen wir Ihre Daten nur in bestimmten Situationen weitergeben. Weitere Informationen hierzu finden Sie im Abschnitt „Wann dürfen wir Ihre Daten weitergeben“ dieser Datenschutzrichtlinie. Insbesondere geben wir Ihre personenbezogenen Daten nicht für Marketingzwecke weiter.
 
-Da wir alle Benutzer gemäß dieser Datenschutzrichtlinie schützen, ändern wir unser Verhalten nicht als Reaktion auf das „Do Not Track“-Signal eines Webbrowsers. 
+Da wir alle Benutzer gemäß dieser Datenschutzrichtlinie schützen, ändern wir unser Verhalten nicht als Reaktion auf das „Do Not Track“-Signal eines Webbrowsers.
 
-### Änderungen an dieser Datenschutzrichtlinie
+### Änderungen dieser Datenschutzrichtlinie
 
-- Im Falle wesentlicher Änderungen werden wir unseren Benutzern die vorgeschlagenen Änderungen in mindestens drei (3) Sprachen (ausgewählt nach unserem Ermessen) für einen offenen Kommentarzeitraum von mindestens dreißig (30) Kalendertagen zur Verfügung stellen. Vor Beginn eines Kommentarzeitraums werden wir über solche Änderungen und die Möglichkeit zur Stellungnahme über eine Benachrichtigung an urantiapedia@gmail.com informieren. 
-- Bei geringfügigen Änderungen, wie z. B. grammatikalischen Korrekturen, administrativen oder rechtlichen Änderungen oder Korrekturen ungenauer Aussagen, werden wir die Änderungen veröffentlichen und, wenn möglich, mindestens drei (3) Kalendertage im Voraus per E-Mail an Mitwirkende oder Mitwirkende benachrichtigen WhatsApp-Chatgruppen.
+Da sich die Dinge im Laufe der Zeit natürlich ändern und wir sicherstellen möchten, dass unsere Datenschutzrichtlinie unsere Praktiken und das Gesetz genau widerspiegelt, kann es erforderlich sein, diese Datenschutzrichtlinie von Zeit zu Zeit zu ändern. Wir behalten uns das Recht vor, dies auf folgende Weise zu tun:
+- Im Falle wesentlicher Änderungen stellen wir unseren Nutzern die vorgeschlagenen Änderungen in mindestens drei (3) Sprachen (nach unserem Ermessen ausgewählt) für einen offenen Kommentarzeitraum von mindestens dreißig (30) Kalendertagen zur Verfügung. Vor Beginn eines Kommentarzeitraums werden wir Sie über solche Änderungen informieren und Ihnen die Möglichkeit zur Stellungnahme über eine Benachrichtigung an urantiapedia@gmail.com geben.
+- Bei geringfügigen Änderungen, wie z. B. grammatikalischen Korrekturen, administrativen oder rechtlichen Änderungen oder Korrekturen unrichtiger Aussagen, werden wir die Änderungen veröffentlichen und, wenn möglich, dies mindestens drei (3) Kalendertage im Voraus per Benachrichtigung an die E-Mail-Adresse der Mitwirkenden oder an die Mitwirkenden mitteilen WhatsApp-Chatgruppen.
 
-Wir bitten Sie, die aktuellste Version unserer Datenschutzrichtlinie zu lesen. Ihre fortgesetzte Nutzung der Urantiapedia-Website nach einem Datum des Inkrafttretens einer nachfolgenden Version dieser Datenschutzrichtlinie stellt Ihre Zustimmung zu dieser Datenschutzrichtlinie dar. 
+Wir bitten Sie, die aktuellste Version unserer Datenschutzrichtlinie zu lesen. Ihre fortgesetzte Nutzung der Urantiapedia-Website nach dem Datum des Inkrafttretens einer Folgeversion dieser Datenschutzrichtlinie stellt Ihr Einverständnis mit dieser Datenschutzrichtlinie dar.
 
-### Kontaktieren Sie uns 
+### Kontaktiere uns
 
-Wenn Sie Fragen oder Anregungen zu dieser Datenschutzrichtlinie oder den im Rahmen dieser Datenschutzrichtlinie gesammelten Informationen haben, senden Sie uns bitte eine E-Mail an urantiapedia@gmail.com. 
+Wenn Sie Fragen oder Anregungen zu dieser Datenschutzrichtlinie oder den im Rahmen dieser Datenschutzrichtlinie gesammelten Informationen haben, senden Sie uns bitte eine E-Mail an urantiapedia@gmail.com.
 
-### Danke schön! 
+### Danke schön!
 
-Vielen Dank, dass Sie unsere Datenschutzrichtlinie gelesen haben. Wir hoffen, dass Ihnen die Nutzung der Urantiapedia-Website Spaß macht und schätzen Ihre Beteiligung an der Erstellung, Pflege und ständigen Arbeit an der Verbesserung dieses kostenlosen Wissensspeichers von **Die fünfte epochale Offenbarung der Welt**.
+Vielen Dank, dass Sie unsere Datenschutzrichtlinie gelesen haben. Wir wünschen Ihnen viel Spaß bei der Nutzung der Urantiapedia-Website und danken Ihnen für Ihre Mitarbeit bei der Erstellung, Pflege und ständigen Arbeit an der Verbesserung dieses kostenlosen Wissensspeichers von **Die fünfte epochale Offenbarung der Welt**.
 
-**Bitte beachten Sie, dass im Falle von Bedeutungs- oder Auslegungsunterschieden zwischen der englischen Originalversion dieser Datenschutzrichtlinie und einer Übersetzung die englische Originalversion Vorrang hat.** 
+**Bitte beachten Sie, dass im Falle von Unterschieden in der Bedeutung oder Interpretation zwischen der englischen Originalversion dieser Datenschutzrichtlinie und einer Übersetzung die englische Originalversion Vorrang hat.**
 
---- 
+---
 
-Zurück zur Seite mit Zusammenfassung zu [Licence, Terms Nutzungsbedingungen und andere rechtliche Informationen](/de/license).
+Zurück zur Seite mit einer Zusammenfassung zu [Lizenz, Nutzungsbedingungen und anderen rechtlichen Informationen](/de/license).

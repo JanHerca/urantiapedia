@@ -29,43 +29,52 @@ Urantiapedia är tillägnad spridningen av _Urantiaboken_ uppenbarelser, den st�
 
 Vi ber dig att läsa igenom villkoren i vår [Sekretesspolicy](/sv/help/privacy_policy), så att du är medveten om hur vi samlar in och använder din information. Eftersom våra tjänster används av människor över hela världen kan personlig information som vi samlar in lagras och behandlas i våra anläggningar. Genom att använda våra tjänster samtycker du till sådan överföring av information utanför ditt land. 
 
-## 3. Innehåll som vi är värdar 
+## 3. Innehåll vi är värd för
 
-för Vårt innehåll är endast avsett för andlig upplysning: Vi tillhandahåller inte alls information som hänför sig till professionella ämnen, inklusive medicinska, juridiska eller ekonomiska frågor. Inget innehåll ska ses som professionella råd. 
+Du kan tycka att en del material är stötande eller felaktigt: Eftersom vi tillhandahåller ett brett utbud av andligt och religiöst innehåll som produceras eller samlas in av _Urantia Book_-läsare, kan du stöta på material som du tycker är stötande, felaktigt, missvisande, felmärkt eller på annat sätt stötande. Vi ber därför att du använder sunt förnuft och rätt omdöme när du använder våra tjänster.
+
+Vårt innehåll är endast för andlig upplysningssyfte: Vi tillhandahåller inte alls information som hänför sig till professionella ämnen, inklusive medicinska, juridiska eller ekonomiska frågor. Inget innehåll ska ses som professionella råd.
 
 ## 4. Avstå från vissa aktiviteter
 
+Urantiapedia existerar bara på grund av en gemenskap av _Urantia Book_-läsare som du som samarbetar för att skriva, redigera och kurera innehållet. Vi välkomnar ditt deltagande i denna gemenskap. Vi uppmuntrar dig att vara civil och artig i din interaktion med andra i samhället, att handla i god tro och att göra redigeringar och bidrag som syftar till att främja Urantiapedias uppdrag.
 
-Vissa aktiviteter, oavsett om de är lagliga eller olagliga, kan vara skadliga för andra användare och bryta mot våra regler, och vissa aktiviteter kan även utsätta dig för ansvar. Därför, för ditt eget skydd och för andra användares, får du inte delta i sådana aktiviteter på vår webbplats. Dessa aktiviteter inkluderar: 
+Vissa aktiviteter, oavsett om de är lagliga eller olagliga, kan vara skadliga för andra användare och bryta mot våra regler, och vissa aktiviteter kan även utsätta dig för ansvar. Därför, för ditt eget skydd och för andra användares, får du inte delta i sådana aktiviteter på vår webbplats. Dessa aktiviteter inkluderar:
 
-- **Trakassera och missbruka andra** 
-	- Överföra kedjepost, skräppost eller spam till andra användare. 
-- **Brott mot andras integritet** 
+- **Trakassera och misshandla andra**
+	- Att delta i trakasserier, hot, stalking, spam eller vandalism; och
+	- Överföra kedjepost, skräppost eller skräppost till andra användare.
+- **Brott mot andras integritet**
 	- Intrång i andras integritetsrättigheter enligt lagarna i Spanien eller andra tillämpliga lagar (som kan inkludera lagarna där du bor eller där du visar eller redigerar innehåll);
-	- Att begära personligt identifierbar information i syfte att trakassera, utnyttja, kränka integriteten eller något marknadsförings- eller kommersiellt syfte som inte uttryckligen godkänts av Urantiapedia; och 
-	- Att begära personligt identifierbar information från någon under 18 år för ett olagligt syfte eller för att bryta mot någon tillämplig lag angående minderårigas hälsa eller välbefinnande. 
-- **Delta i falska uttalanden, identitetsstöld eller bedrägeri** 
-	- Avsiktligt eller medvetet publicera innehåll som utgör förtal eller ärekränkning; 
-	- Försök att utge sig för en annan användare eller individ, felaktig framställning av din anknytning till någon individ eller enhet, eller använda användarnamnet för en annan användare i avsikt att lura; och 
-- **Begå intrång**
-	- Gör intrång i upphovsrätter, varumärken, patent eller andra äganderätter enligt tillämplig lag. 
-- **Misbruk av våra tjänster för andra olagliga ändamål** 
-	- Lägga upp barnpornografi eller annat innehåll som bryter mot tillämplig lag om barnpornografi; 
-	- Publicering eller handel med obscent material som är olagligt enligt tillämplig lag; och 
-	- Använda tjänsterna på ett sätt som är oförenligt med tillämplig lag. 
-- **Att ägna sig åt störande och olagligt missbruk av faciliteter** 
-	- Engagera sig i automatisk användning av webbplatsen som är missbrukande eller störande av tjänsterna och som inte har godkänts av Urantiapedia; 
+	- Att begära personligt identifierbar information i syfte att trakassera, utnyttja, kränka integriteten eller något marknadsförings- eller kommersiellt syfte som inte uttryckligen godkänts av Urantiapedia; och
+	- Att begära personligt identifierbar information från någon under 18 år för ett olagligt syfte eller bryta mot någon tillämplig lag angående minderårigas hälsa eller välbefinnande.
+- **Delta i falska uttalanden, identitetsstöld eller bedrägeri**
+	- Avsiktligt eller medvetet publicera innehåll som utgör förtal eller ärekränkning;
+	- Med avsikt att lura, publicera innehåll som är falskt eller felaktigt;
+	- Försök att utge sig för en annan användare eller individ, felaktig framställning av din anknytning till någon individ eller enhet, eller använda användarnamnet för en annan användare i avsikt att lura; och
+	- Engagerar sig i bedrägeri.
+- **Begår intrång**
+	- Gör intrång i upphovsrätter, varumärken, patent eller andra äganderätter enligt tillämplig lag.
+- **Misbruk av våra tjänster för andra olagliga ändamål**
+	- Posta barnpornografi eller annat innehåll som bryter mot tillämplig lag om barnpornografi;
+	- Publicering eller handel med obscent material som är olagligt enligt tillämplig lag; och
+	- Använda tjänsterna på ett sätt som är oförenligt med tillämplig lag.
+- **Att engagera sig i störande och olagligt missbruk av faciliteter**
+	- Posta eller distribuera innehåll som innehåller virus, skadlig kod, maskar, trojanska hästar, skadlig kod eller annan enhet som kan skada vår tekniska infrastruktur eller system eller våra användares;
+	- Engagera sig i automatisk användning av webbplatsen som är missbrukande eller störande av tjänsterna och som inte har godkänts av Urantiapedia;
 	- Störa tjänsterna genom att lägga en onödig börda på webbplatsen eller nätverken eller servrarna som är anslutna till webbplatsen;
-	- Störa tjänsterna genom att översvämma Urantiapedia med kommunikation eller annan trafik som inte tyder på någon allvarlig avsikt att använda webbplatsen för dess uttalade syfte; 
-	- Undersöka, skanna eller testa sårbarheten hos något av våra tekniska system eller nätverk om inte alla följande villkor är uppfyllda: 
-		- Sådana åtgärder missbrukar inte onödigt mycket eller stör våra tekniska system eller nätverk; 
-		- sådana handlingar är inte för personlig vinning (förutom för kredit för ditt arbete); 
-		- du rapporterar eventuella sårbarheter till Urantiapedia-utvecklare (eller fixar det själv); och 
-		- du inte utför sådana handlingar med illvilliga eller destruktiva avsikter. 
+	- Störa tjänsterna genom att översvämma Urantiapedia med kommunikation eller annan trafik som inte tyder på någon allvarlig avsikt att använda webbplatsen för dess uttalade syfte;
+	- Att medvetet komma åt, manipulera eller använda något av våra icke-offentliga områden i våra datorsystem utan tillstånd; och
+	- Undersöka, skanna eller testa sårbarheten hos något av våra tekniska system eller nätverk om inte alla följande villkor är uppfyllda:
+		- sådana åtgärder inte missbrukar eller stör våra tekniska system eller nätverk i onödan;
+		- sådana handlingar är inte för personlig vinning (förutom för kredit för ditt arbete);
+		- du rapporterar eventuella sårbarheter till Urantiapedia-utvecklare (eller fixar det själv); och
+		- du inte utför sådana handlingar med uppsåt eller destruktiva avsikter.
 - **Betalda bidrag utan avslöjande**
-	- Tillämplig lag, såsom lag som behandlar intressekonflikter, kan ytterligare begränsa inbetalda bidrag eller kräva mer detaljerad information. 
+	- Dessa användarvillkor förbjuder att delta i vilseledande aktiviteter, inklusive felaktig framställning av anknytning, identitetsstöld och bedrägeri. Som en del av dessa skyldigheter måste du avslöja din arbetsgivare, klient och anknytning med avseende på alla bidrag som du får, eller förväntar dig att få, ersättning för. Du måste göra det avslöjandet i ett uttalande i kommentarsektionen som åtföljer alla betalda bidrag.
+	- Tillämplig lag, såsom lag som behandlar intressekonflikter, kan ytterligare begränsa inbetalda bidrag eller kräva mer detaljerad information.
 
-Vi förbehåller oss rätten att utöva vårt verkställande gottfinnande med avseende på ovanstående villkor. 
+Vi förbehåller oss rätten att utöva vårt verkställande gottfinnande med avseende på ovanstående villkor.
 
 ## 5. Registrering och lösenordssäkerhet 
 
@@ -77,55 +86,66 @@ Om du accepteras som bidragsgivare kommer du att registreras i systemet av en ad
 
 ## 6. Namn och logotyp
 
+Även om du har betydande friheter för återanvändning av innehållet på Urantiapedia, är det viktigt att vi skyddar våra namn och logotyp så att vi kan skydda våra användare från bedrägliga imitationer. På grund av detta ber vi dig att respektera vårt namn ("Urantiapedia") och logotyp ("U" och "p" bokstäver på [hemsida](/sv/home)). All användning av vårt namn och logotyp måste ske i enlighet med dessa användarvillkor.
 
+## 7. Licensiering av innehåll
 
 För att odla allmänningen av fri andlig kunskap och fri kultur, uppmuntras alla _Urantia Book_-läsare som bidrar till Urantiapedia att ge breda tillstånd till allmänheten att vidaredistribuera och återanvända sina bidrag fritt, så länge som användningen är korrekt tillskriven och samma frihet att återanvända och vidaredistribuera ges för alla härledda verk.
 
 Vi kräver inte att allt inlämnat innehåll är licensierat så att det fritt kan återanvändas av vem som helst. Bidragsgivare som vill skydda sitt innehåll från att vidaredistribueras och återanvändas fritt kan ange det i ett upphovsrättsmeddelande på varje sida av deras inlämnade innehåll. Bidragsgivare tillåts begära till Urantiapedias administratörer att deras innehåll begränsas för edition till en utvald grupp användare eller endast till en användare. Urantiapedias systemadministratörer kommer att tillhandahålla dessa begränsningar för den breda utgåvan av sådant innehåll såvida det inte tydligt konstateras att den begärda begränsningen gäller Public Domain-innehåll eller innehåll som är tillgängligt i licens som tillåter offentlig vidaredistribution och återanvändning.
 
-- a. **Text som du har upphovsrätten till**: När du skickar in text som du har upphovsrätten till godkänner du att licensiera den under [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) ("CC BY-SA 4.0"). Återanvändare kan följa samma licens. Observera att denna licens tillåter kommersiell användning av dina bidrag, så länge som sådan användning är förenlig med villkoren. 
+Om du samtycker till att ge bred tillstånd till återanvändning av ditt innehåll måste du godkänna följande licenskrav:
+- a. **Text som du har upphovsrätten till**: När du skickar in text som du har upphovsrätten till godkänner du att licensiera den under [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/) ("CC BY-SA 4.0"). Återanvändare kan följa samma licens. Observera att denna licens tillåter kommersiell användning av dina bidrag, så länge som sådan användning är förenlig med villkoren.
+- b. **Tillskrivning**: Tillskrivning är en viktig del av licensen. Vi anser att det ger kredit där det är viktigt – till författare som du själv. När du bidrar med text samtycker du till att bli tillskriven på något av följande sätt:
 	- Genom hyperlänk (om möjligt) eller URL till artikeln som du bidragit till (eftersom varje artikel har en historiksida som listar alla författare och redaktörer);
+	- Genom hyperlänk (om möjligt) eller URL till en alternativ kopia i GitHub ([Urantiapedia Huvudprojekt](https://github.com/JanHerca/urantiapedia) och [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup)), stabila onlinekopior som är fritt tillgängliga, som överensstämmer med licensen och som ger kredit till författarna på ett sätt som motsvarar krediten som ges på Urantiapedias webbplats.
 - c. **Importera text**: Du kan importera text som du har hittat någon annanstans eller som du har skrivit tillsammans med andra, men i sådana fall garanterar du att texten är tillgänglig under villkor som är kompatibla med CC BY-SA 4.0-licensen . Du samtycker till att, om du importerar text under en CC BY-SA-licens som kräver attribution, måste du kreditera författaren/författarna på ett rimligt sätt. 
 - d. **Icke-textmedia**: Icke-textmedia på Urantiapedia är tillgänglig under en mängd olika licenser som stödjer det allmänna målet att tillåta obegränsad återanvändning och vidaredistribution. När du bidrar med icke-textmedia, samtycker du till att följa kraven för sådana licenser.
 - e. **Ingen återkallelse av licens**: Förutom i överensstämmelse med din licens, samtycker du till att du inte ensidigt kommer att återkalla eller begära ogiltigförklaring av någon licens som du har beviljat enligt dessa användarvillkor för textinnehåll eller icke-textmedia som bidragit till Urantiapedia , även om du avslutar användningen av våra tjänster. 
 - f. **Public domain content**: Innehåll som är allmän egendom är välkommet! Det är dock viktigt att du bekräftar innehållets status som allmän egendom enligt lagen i Spanien samt lagarna i alla andra länder. När du bidrar med innehåll som är allmän egendom garanterar du att materialet faktiskt är allmän egendom och du samtycker till att märka det på lämpligt sätt.
-- g. **Återanvändning**: Återanvändning av innehåll som vi är värd för är välkommet, även om det finns undantag för innehåll som bidrags under "tillåten användning" eller liknande undantag enligt upphovsrättslagen. All återanvändning måste överensstämma med de underliggande licenserna. När du återanvänder eller distribuerar en textsida som utvecklats av Urantiapedia-communityt, samtycker du till att tillskriva författarna på något av följande sätt: 
-	- Genom hyperlänk (om möjligt) eller URL till sidan eller sidorna som du åter- använder (eftersom varje sida har en historiksida som listar alla författare och redaktörer);
+- g. **Återanvändning**: Återanvändning av innehåll som vi är värd för är välkommet, även om det finns undantag för innehåll som bidrags under "tillåten användning" eller liknande undantag enligt upphovsrättslagen. All återanvändning måste överensstämma med de underliggande licenserna. När du återanvänder eller distribuerar en textsida som utvecklats av Urantiapedia-communityt, samtycker du till att tillskriva författarna på något av följande sätt:
+	- Genom hyperlänk (om möjligt) eller URL till sidan eller sidorna som du återanvänder (eftersom varje sida har en historiksida som listar alla författare och redaktörer);
 	- Genom hyperlänk (om möjligt) eller URL till en alternativ kopia i GitHub ([Urantiapedia Huvudprojekt](https://github.com/JanHerca/urantiapedia) och [Urantiapedia Backup-projekt](https://github.com/JanHerca/urantiapedia-backup)), stabila onlinekopior som är fritt tillgängliga, som överensstämmer med licensen och som ger kredit till författarna på ett sätt som motsvarar krediten som ges på Urantiapedias webbplats.
+	Om textinnehållet importerades från en annan källa är det möjligt att innehållet är licensierat under en kompatibel CC BY-SA-licens (som beskrivs i "Importera text" ovan). I så fall samtycker du till att följa den kompatibla CC BY-SA-licensen. För att avgöra vilken licens som gäller för innehållet som du vill återanvända eller distribuera, bör du granska sidhuvudet.
 	Var dessutom medveten om att text som härstammar från externa källor och importerades till Urantiapedia kan vara under en licens som ställer ytterligare krav på tillskrivning. Användare samtycker till att tydligt ange dessa ytterligare tillskrivningskrav. Sådana krav kan förekomma i sidhuvudet eller sidfoten _Referenser_ på en sida som påpekar att en del eller allt innehåll ursprungligen publicerades någon annanstans. Där det finns sådana synliga noteringar bör återanvändare bevara dem.
-	För alla icke-textmedier samtycker du till att följa vilken licens som helst under vilken verket har gjorts tillgängligt (vilket kan upptäckas genom att klicka på länken som ska visas i bildtexten för alla icke-textmedier och leta efter licensinformationen ). När du återanvänder innehåll som vi är värd för, samtycker du till att följa de relevanta tillskrivningskraven som hänför sig till den eller de underliggande licenserna. 
-- h. **Ändringar eller tillägg till material som du återanvänder**: När du ändrar eller gör tillägg till text som du har erhållit från Urantiapedia, samtycker du till att licensiera det modifierade eller tillagda innehållet under CC BY-SA 4.0 eller senare.
+	För alla icke-textmedier samtycker du till att följa vilken licens som helst under vilken verket har gjorts tillgängligt (vilket kan upptäckas genom att klicka på länken som ska visas i bildtexten för alla icke-textmedier och leta efter licensinformationen ). När du återanvänder innehåll som vi är värd för, samtycker du till att följa de relevanta tillskrivningskraven som hänför sig till den eller de underliggande licenserna.
+- h. **Ändringar eller tillägg till material som du återanvänder**: När du ändrar eller gör tillägg till text som du har hämtat från Urantiapedia, samtycker du till att licensiera det modifierade eller tillagda innehållet under CC BY-SA 4.0 eller senare.
+	När du ändrar eller gör tillägg till icke-textmedia som du har erhållit från Urantiapedia, samtycker du till att licensiera det modifierade eller tillagda innehållet i enlighet med vilken licens under vilken verket har gjorts tillgängligt.
 	Med både textinnehåll och icke-textmedia samtycker du till att tydligt ange att originalverket har ändrats. Om du återanvänder textinnehåll i en wiki räcker det att ange i sidhistoriken att du har gjort en ändring i den importerade texten. För varje kopia eller modifierad version som du distribuerar samtycker du till att inkludera ett licensmeddelande som anger vilken licens verket släpps under, tillsammans med antingen en hyperlänk eller URL till texten i licensen eller en kopia av själva licensen.
 
+## 8. Upphovsrättsefterlevnad
 
-Urantiapedia vill säkerställa att innehållet som vi är värd för kan återanvändas av andra användare utan rädsla för ansvar och att det inte gör intrång i andras upphovsrätt. I rättvisans namn för våra användare, såväl som mot andra skapare och upphovsrättsinnehavare, är vår policy att svara på meddelanden om påstådda intrång i upphovsrättslagar. I enlighet med upphovsrättslagarna kommer vi, under lämpliga omständigheter, att avsluta användare och kontoinnehavare av vårt system som gör upprepade intrång. 
+Urantiapedia vill säkerställa att innehållet som vi är värd för kan återanvändas av andra användare utan rädsla för ansvar och att det inte gör intrång i andras upphovsrätt. I rättvisans namn för våra användare, såväl som mot andra skapare och upphovsrättsinnehavare, är vår policy att svara på meddelanden om påstådda intrång i upphovsrättslagar. I enlighet med upphovsrättslagarna kommer vi, under lämpliga omständigheter, att avsluta användare och kontoinnehavare av vårt system som gör upprepade intrång.
 
 Men vi inser också att inte varje meddelande om borttagning är giltigt eller i god tro. I sådana fall uppmuntrar vi starkt användare att lämna in bestridanden när de anser att ett upphovsrättsligt borttagandekrav är ogiltigt eller olämpligt.
 
-Om du är ägare till innehåll som används felaktigt på Urantiapedia utan ditt tillstånd, kan du begära att innehållet tas bort enligt upphovsrättslagarna. För att göra en sådan begäran, vänligen maila oss på urantiapedia@gmail.com. 
+Om du är ägare till innehåll som används felaktigt på Urantiapedia utan ditt tillstånd, kan du begära att innehållet tas bort enligt upphovsrättslagarna. För att göra en sådan begäran, vänligen maila oss på urantiapedia@gmail.com.
 
-## 9. Tredje parts webbplatser och resurser 
+## 9. Tredje parts webbplatser och resurser
 
 Du är ensam ansvarig för din användning av tredje parts webbplatser eller resurser. Även om Urantiapedia innehåller länkar till tredje parts webbplatser och resurser, stöder vi inte och är inte ansvariga eller ansvariga för deras tillgänglighet, korrekthet eller relaterade innehåll, produkter eller tjänster (inklusive, utan begränsning, eventuella virus eller andra inaktiverande funktioner) , och vi har inte heller någon skyldighet att övervaka sådant tredjepartsinnehåll.
 
+## 10. Hantering av webbplatser
 
-Urantiapedia-gemenskapen av bidragsgivare har den primära rollen i att skapa och upprätthålla policyer som gäller den. I ett ovanligt fall kan vi vända oss till en särskilt problematisk användare på grund av betydande störningar eller farligt beteende. I sådana fall förbehåller vi oss rätten, men har inte skyldigheten att: 
-- Undersöka bidragsgivares användning av tjänsten (a) för att avgöra om ett brott mot dessa användarvillkor eller annan tillämplig lag eller policy har inträffat, eller (b) att följa tillämplig lag, juridisk process eller lämplig begäran från myndigheter; 
+Urantiapedia-gemenskapen av bidragsgivare har den primära rollen i att skapa och upprätthålla policyer som gäller den. I ett ovanligt fall kan vi vända oss till en särskilt problematisk användare på grund av betydande störningar eller farligt beteende. I sådana fall förbehåller vi oss rätten, men har inte skyldighet att:
+- Undersök bidragsgivares användning av tjänsten (a) för att avgöra om ett brott mot dessa användarvillkor eller annan tillämplig lag eller policy har inträffat, eller (b) för att följa tillämplig lag, juridisk process eller lämplig begäran från myndigheter;
+- Upptäcka, förhindra eller på annat sätt ta itu med bedrägerier, säkerhetsproblem eller tekniska problem eller svara på användarsupportförfrågningar;
+- Vägra, inaktivera eller begränsa åtkomsten till bidrag från en användare som bryter mot dessa användarvillkor;
 - Förbjuda en användare från att redigera eller bidra eller blockera en användares konto eller åtkomst för åtgärder som bryter mot dessa Användarvillkor, inklusive upprepade upphovsrättsintrång;
-- Vidta rättsliga åtgärder mot användare som bryter mot dessa användarvillkor (inklusive rapporter till brottsbekämpande myndigheter); och 
-- Hantera Urantiapedia i övrigt på ett sätt som är utformat för att underlätta dess korrekta funktion och skydda rättigheterna, egendomen och säkerheten för oss själva och våra användare, licensgivare, partners och allmänheten. 
+- Vidta rättsliga åtgärder mot användare som bryter mot dessa användarvillkor (inklusive rapporter till brottsbekämpande myndigheter); och
+- Hantera Urantiapedia annars på ett sätt som är utformat för att underlätta dess korrekta funktion och skydda rättigheterna, egendomen och säkerheten för oss själva och våra användare, licensgivare, partners och allmänheten.
 
-I våra användares och projektets intresse, i den extrema omständigheten att någon individ har fått sitt konto eller åtkomst blockerad enligt denna bestämmelse, är han eller hon förbjuden att skapa eller använda ett annat konto på eller söka åtkomst till projektet, såvida inte vi ger uttryckligt tillstånd. 
+I våra användares och projektets intresse, i den extrema omständigheten att någon individ har fått sitt konto eller åtkomst blockerad enligt denna bestämmelse, är han eller hon förbjuden att skapa eller använda ett annat konto på eller söka åtkomst till projektet, såvida inte vi ger uttryckligt tillstånd.
 
 Blockering av ett konto eller åtkomst eller blockering av en användare enligt denna bestämmelse ska ske i enlighet med avsnitt 12 i dessa användarvillkor.
 
-## 11. Urantiapedias policy 
+## 11. Urantiapedias policy
 
-Urantiapedias styrelse kan släppa nya officiella policyer då och då. Du samtycker till att följa dem i tillämpliga fall. 
+Urantiapedias styrelse kan släppa nya officiella policyer då och då. Du samtycker till att följa dem i tillämpliga fall.
 
 ## 12. Uppsägning
 
-Även om vi hoppas att du stannar kvar och fortsätter att bidra till Urantiapedia, kan du när som helst sluta använda våra tjänster. Under vissa (förhoppningsvis osannolika) omständigheter kan det vara nödvändigt för oss själva att säga upp delar av eller alla våra tjänster, avsluta dessa Användarvillkor, blockera ditt konto eller åtkomst, eller blockera dig som användare. Om ditt konto eller din åtkomst blockeras eller på annat sätt avslutas av någon anledning, kommer dina offentliga bidrag att förbli allmänt tillgängliga (med förbehåll för tillämpliga policyer), och om vi inte meddelar dig något annat kan du fortfarande komma åt våra offentliga sidor i det enda syftet att läsa offentligt tillgängligt innehåll på webbplatsen. Under sådana omständigheter kanske du inte kan komma åt ditt konto eller dina inställningar. Vi förbehåller oss rätten att avbryta eller avsluta tjänsterna när som helst, med eller utan orsak, och med eller utan förvarning.
+Även om vi hoppas att du stannar kvar och fortsätter att bidra till Urantiapedia, kan du när som helst sluta använda våra tjänster. Under vissa (förhoppningsvis osannolika) omständigheter kan det vara nödvändigt för oss själva att säga upp delar av eller alla våra tjänster, avsluta dessa Användarvillkor, blockera ditt konto eller åtkomst, eller blockera dig som användare. Om ditt konto eller din åtkomst blockeras eller på annat sätt avslutas av någon anledning, kommer dina offentliga bidrag att förbli allmänt tillgängliga (med förbehåll för tillämpliga policyer), och om vi inte meddelar dig något annat kan du fortfarande komma åt våra offentliga sidor i det enda syftet att läsa offentligt tillgängligt innehåll på webbplatsen. Under sådana omständigheter kanske du inte kan komma åt ditt konto eller dina inställningar. Vi förbehåller oss rätten att avbryta eller avsluta tjänsterna när som helst, med eller utan orsak, och med eller utan förvarning. Även efter att din användning och ditt deltagande har förbjudits, blockerats eller på annat sätt avstängts, kommer dessa användarvillkor att förbli i kraft med avseende på relevanta bestämmelser, inklusive avsnitt 1, 3, 4, 6, 7, 9-15 och 17.
 
 ## 13. Tvister och jurisdiktion 
 

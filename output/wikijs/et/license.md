@@ -60,14 +60,14 @@ Autoriõigustest tulenevate piirangutega sisu tuvastatakse [autoriõiguse teatis
 
 - Urantia raamatu (kõik tõlked inglise keelest) autoriõigus kuulub [Urantia Foundationile](https://www.urantia.org/).
 - _Paramony_, Piibli ja _Urantia raamatu_ vaheline ristviite register, mis ilmub joonealuste märkustena _Urantia raamatus_ ja piiblilehtedel (kõikides keeltes), kuulub autoriõigusele [Duane L. Faw ja The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
-- Artiklite [Innerface International](/et/index/articles_innerface) (kõikides keeltes) autoriõigused kuuluvad igale autorile ja [The Urantia Book Fellowshipile](https://urantiabook.org/).
-- Ajakirja [Urantian Journal](/et/index/articles_the_urantian) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
-- Ajakirja [Followship Journal](/et/index/articles_spirtual_fellowship_journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
-- [Fellowship Heraldi](/et/index/articles_herald) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
-- Artiklite [UB Annotated & UBTheNews](/et/index/articles#ub-annotaded-ubthenews) (kõikides keeltes) autoriõigused kuuluvad [Halbert Katzenile](https://ubannotated.com/).
-- Artiklid [Jan Herca](/et/index/articles#articles-from-jan-herca) (kõigis keeltes) kuuluvad [Jan Herca](https://buscandoajesus.wordpress.com) autoriõiguse alla ja on saadaval aadressil [Creative Commonsi Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Artiklite [Innerface International](/en/index/articles_innerface) (kõikides keeltes) autoriõigused kuuluvad igale autorile ja [The Urantia Book Fellowshipile](https://urantiabook.org/).
+- Ajakirja [Urantian Journal](/en/index/articles_the_urantian) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- Ajakirja [Followship Journal](/en/index/articles_spirtual_fellowship_journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- [Fellowship Heraldi](/en/index/articles_herald) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- Artiklite [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (kõikides keeltes) autoriõigused kuuluvad [Halbert Katzenile](https://ubannotated.com/).
+- Artiklid [Jan Herca](/en/index/articles#articles-from-jan-herca) (kõigis keeltes) kuuluvad [Jan Herca](https://buscandoajesus.wordpress.com) autoriõiguse alla ja on saadaval aadressil [Creative Commonsi Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Muud artiklid, mis ei kuulu eelmistesse rühmadesse (kõikides keeltes), kuuluvad märgitud autorite autoriõiguse alla.
-- [William S. Sadleri](/et/article/William_S_Sadler) ja [William S. Sadler Jr.](/et/article/William_S_Sadler_Jr) (kõikides keeltes) õppematerjalide autoriõigus on [Urantia Foundation](https: //www.urantia.org/).
+- [William S. Sadleri](/en/article/William_S_Sadler) ja [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (kõikides keeltes) õppematerjalide autoriõigus on [Urantia Foundation](https: //www.urantia.org/).
 - Muud õppevahendid, mis ei kuulu eelmistesse rühmadesse (kõikides keeltes), kuuluvad märgitud autorite autoriõiguse alla.
 - Mõned _Urantia raamatu_ illustratsioonid kuuluvad [Gary Tonge'i](https://visionafar.com) autoriõiguse alla.
 
@@ -75,7 +75,7 @@ Autoriõigustest tulenevate piirangutega sisu tuvastatakse [autoriõiguse teatis
 
 - Urantia raamat (inglise keeles) on avalikus kasutuses alates 2006. aastast.
 - Piibel, kõik kasutatud tõlked, pärinevad avalikus kasutuses olevatest versioonidest. Iga keele kohta kasutatava Public Domain versiooni teabe leiate iga piibliraamatu esilehelt.
-- [Urantia raamatu oletatavate allikatena] (/et/book#books-supposed-to-be-sources) loetletud raamatud on kõik inglise keeles ja avalikus kasutuses. Pakutud tõlked on saadaval saidi üldise CC-BY-SA-4.0 litsentsi alusel.
+- [Urantia raamatu oletatavate allikatena] (/en/book#books-supposed-to-be-sources) loetletud raamatud on kõik inglise keeles ja avalikus kasutuses. Pakutud tõlked on saadaval saidi üldise CC-BY-SA-4.0 litsentsi alusel.
 - Mõned _Urantia raamatu_ illustratsioonid on avalikud.
 
 ### Kasutustingimused
@@ -171,4 +171,3 @@ Urantiapeediast leitud teabe avaldamine võib rikkuda selle riigi või jurisdikt
 #### Ei ole professionaalne nõuanne
 
 Kui vajate konkreetset nõu (nt meditsiiniline, juriidiline, finants- või riskijuhtimine), otsige professionaali, kes on selles valdkonnas litsentseeritud või asjatundlik.
-

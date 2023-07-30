@@ -60,14 +60,14 @@ Der Inhalt mit Einschränkungen aufgrund des Urheberrechts ist durch einen [Urhe
 
 - Das Urantia-Buch (alle Übersetzungen aus dem Englischen) ist urheberrechtlich geschützt von [Urantia Foundation](https://www.urantia.org/).
 - _Paramony_, der Querverweisindex zwischen Bibel und _The Urantia Book_, der als Fußnoten in _The Urantia Book_ und Bibelseiten (in allen Sprachen) erscheint, ist urheberrechtlich geschützt von [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
-- Artikel von [Innerface International](/de/index/articles_innerface) (in allen Sprachen) unterliegen dem Urheberrecht des jeweiligen Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikel aus [Urantian Journal](/de/index/articles_the_urantian) (in allen Sprachen) unterliegen dem Urheberrecht des jeweiligen Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikel aus [Followship Journal](/de/index/articles_spirtual_fellowship_journal) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikel von [Fellowship Herald](/de/index/articles_herald) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikel von [UB Annotated & UBTheNews](/de/index/articles#ub-annotaded-ubthenews) (in allen Sprachen) unterliegen dem Copyright von [Halbert Katzen](https://ubannotated.com/).
-- Artikel von [Jan Herca](/de/index/articles#articles-from-jan-herca) (in allen Sprachen) unterliegen dem Urheberrecht von [Jan Herca](https://buscandoajesus.wordpress.com) und sind verfügbar unter die [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Artikel von [Innerface International](/en/index/articles_innerface) (in allen Sprachen) unterliegen dem Urheberrecht des jeweiligen Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel aus [Urantian Journal](/en/index/articles_the_urantian) (in allen Sprachen) unterliegen dem Urheberrecht des jeweiligen Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel aus [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel von [Fellowship Herald](/en/index/articles_herald) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel von [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (in allen Sprachen) unterliegen dem Copyright von [Halbert Katzen](https://ubannotated.com/).
+- Artikel von [Jan Herca](/en/index/articles#articles-from-jan-herca) (in allen Sprachen) unterliegen dem Urheberrecht von [Jan Herca](https://buscandoajesus.wordpress.com) und sind verfügbar unter die [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Andere Artikel, die nicht zu den vorherigen Gruppen gehören (in allen Sprachen), unterliegen dem Urheberrecht der angegebenen Autoren.
-- Studienhilfen von [William S. Sadler](/de/article/William_S_Sadler) und [William S. Sadler Jr.](/de/article/William_S_Sadler_Jr) (in allen Sprachen) unterliegen dem Urheberrecht der [Urantia Foundation](https://www.urantia.org/).
+- Studienhilfen von [William S. Sadler](/en/article/William_S_Sadler) und [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (in allen Sprachen) unterliegen dem Urheberrecht der [Urantia Foundation](https://www.urantia.org/).
 - Andere Studienhilfen, die nicht zu den vorherigen Gruppen gehören (in allen Sprachen), unterliegen dem Urheberrecht der angegebenen Autoren.
 - Einige Illustrationen für _The Urantia Book_ sind urheberrechtlich geschützt von [Gary Tonge](https://visionafar.com).
 
@@ -75,7 +75,7 @@ Der Inhalt mit Einschränkungen aufgrund des Urheberrechts ist durch einen [Urhe
 
 - Das Urantia-Buch (auf Englisch) ist seit 2006 gemeinfrei.
 - Die Bibel, alle verwendeten Übersetzungen, stammen aus gemeinfreien Versionen. Die Informationen der Public-Domain-Version, die für jede Sprache verwendet wird, finden Sie auf der Titelseite jedes Bibelbuchs.
-- Bücher, die als [angebliche Quellen des Urantia-Buches] (/de/book#books-supposed-to-be-sources) aufgeführt sind, sind alle auf Englisch und gemeinfrei. Die bereitgestellten Übersetzungen werden unter der allgemeinen CC-BY-SA-4.0-Lizenz der Website zur Verfügung gestellt.
+- Bücher, die als [angebliche Quellen des Urantia-Buches] (/en/book#books-supposed-to-be-sources) aufgeführt sind, sind alle auf Englisch und gemeinfrei. Die bereitgestellten Übersetzungen werden unter der allgemeinen CC-BY-SA-4.0-Lizenz der Website zur Verfügung gestellt.
 - Einige Illustrationen für _The Urantia Book_ sind gemeinfrei.
 
 ### Nutzungsbedingungen
@@ -171,4 +171,3 @@ Die Veröffentlichung von in Urantiapedia gefundenen Informationen kann gegen di
 #### Keine professionelle Beratung
 
 Wenn Sie spezielle Beratung benötigen (z. B. medizinische, rechtliche, finanzielle oder Risikomanagement), wenden Sie sich bitte an einen Fachmann, der auf diesem Gebiet zugelassen oder sachkundig ist.
-
