@@ -62,8 +62,9 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - _Paramony_, אינדקס ההצלבה בין התנ"ך לבין _ספר אורנטיה_ המופיע כהערות שוליים ב_ספר אורנטיה_ ובדפי התנ"ך (בכל השפות), הוא זכויות היוצרים של [Duane L. Faw and The Urantia Book Fellowship](https:// urantia-book.org/urantiabook/paramony/).
 - מאמרים מ-[Innerface International](/en/index/articles_innerface) (בכל השפות) הם זכויות יוצרים של כל מחבר ושל [The Urantia Book Fellowship](https://urantiabook.org/).
 - מאמרים מ-[Urantian Journal](/en/index/articles_the_urantian) (בכל השפות) הם זכויות יוצרים של כל מחבר ושל [The Urantia Book Fellowship](https://urantiabook.org/).
-- מאמרים מ-[Followship Journal](/en/index/articles_spirtual_fellowship_journal) (בכל השפות) הם זכויות יוצרים של כל מחבר ושל [The Urantia Book Fellowship](https://urantiabook.org/).
+- מאמרים מ-[Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (בכל השפות) הם זכויות יוצרים של כל מחבר ושל [The Urantia Book Fellowship](https://urantiabook.org/).
 - מאמרים מ-[Fellowship Herald](/en/index/articles_herald) (בכל השפות) הם זכויות יוצרים של כל מחבר ושל [The Urantia Book Fellowship](https://urantiabook.org/).
+- מאמרים מתוך [ניוזלטר "Luz y Vida"](/es/index/articles_luz_y_vida), הם זכויות יוצרים של כל מחבר ושל [האגודה הספרדית של Urantia](https://aue.urantia-association.org/).
 - מאמרים מ-[UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (בכל השפות) הם זכויות יוצרים של [Halbert Katzen](https://ubannotated.com/).
 - מאמרים מאת [Jan Herca](/en/index/articles#articles-from-jan-herca) (בכל השפות) הם זכויות יוצרים של [Jan Herca](https://buscandoajesus.wordpress.com) וזמינים תחת את [רישיון Creative Commons ייחוס-שיתוף זהה 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - מאמרים אחרים שאינם שייכים לקבוצות קודמות (בכל השפות) הם זכויות יוצרים של המחברים המצוינים.
@@ -87,7 +88,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 **חלק מהמשימה שלנו היא:**
 - **עזרה בהפצת גילויי *ספר אורנטיה*** ברחבי העולם.
 - **שפר את ההבנה** של תורתו של *ספר אורנטיה*.
--**קשר את רוב הידע הנוכחי** הזמין על התגלות אורנטיה.
+- **קשר את רוב הידע הנוכחי** הזמין על התגלות אורנטיה.
 
 **אתה חופשי**:
 - **קרא והדפיס** את המאמרים שלנו ומדיה אחרת ללא תשלום.

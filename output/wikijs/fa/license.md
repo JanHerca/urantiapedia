@@ -27,8 +27,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 <p style="text-align:center;"><b>شما اجازه دارید:</b></p>
 
 - **اشتراک بگذارید**— نسخه‌برداری کنید و توزیع کنید مواد در هر رسانه یا قالب را
-- **مطابقت دهید**—ترکیب کنید، تغییر دهید، و بر اسا مواد بسازید
-برای هر قصدی حتی تجاری
+- **مطابقت دهید**—ترکیب کنید، تغییر دهید، و بر اسا مواد بسازید برای هر قصدی حتی تجاری
 
 پروانه‌دهنده نمی‌تواند این آزادی‌ها را تا زمانی که شما از شرایط پروانه پیروی می‌کنید لغو کند.
 
@@ -63,8 +62,9 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - _Paramony_، فهرست مرجع متقابل بین کتاب مقدس و _کتاب یورنشیا_ که به عنوان پاورقی در _کتاب یورنشیا_ و صفحات کتاب مقدس (در همه زبان‌ها) ظاهر می‌شود، حق نشر [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/) است .
 - مقالات از [Innerface International](/en/index/articles_innerface) (به همه زبان‌ها) حق نشر هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
 - حق چاپ مقالات [Urantian Journal](/en/index/articles_the_urantian) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
-- حق چاپ مقالات [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
+- حق چاپ مقالات [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (به همه زبان‌ها) متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
 - مقالات از [Fellowship Herald](/en/index/articles_herald) (به همه زبان‌ها) حق چاپ متعلق به هر نویسنده و [The Urantia Book Fellowship](https://urantiabook.org/) است.
+- مقاله‌های [خبرنامه «Luz y Vida»](/es/index/articles_luz_y_vida)، حق نسخه‌برداری هر نویسنده و [انجمن اسپانیایی Urantia](https://aue.urantia-association.org/) است.
 - حق نشر مقالات [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (به همه زبان‌ها) متعلق به [Halbert Katzen](https://ubannotated.com/) است .
 - مقالات از [Jan Herca](/en/index/articles#articles-from-jan-herca) (در همه زبان‌ها) متعلق به [Jan Herca](https://buscandoajesus.wordpress.com) هستند و در زیر موجود هستند [مجوز Creative Commons Attribution-ShareAlike] (https://creativecommons.org/licenses/by-sa/4.0/).
 - سایر مقالات غیر متعلق به گروه های قبلی (در همه زبان ها) متعلق به نویسندگان ذکر شده است.
@@ -88,7 +88,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 ** بخشی از ماموریت ما این است که:**
 - **کمک به انتشار مکاشفات *کتاب اورنشیا*** در سراسر جهان.
 - ** بهبود درک ** آموزه های *کتاب یورنشیا*.
--**بیشتر دانش فعلی** موجود در مورد مکاشفه یورنشیا را پیوند دهید.
+- **بیشتر دانش فعلی** موجود در مورد مکاشفه یورنشیا را پیوند دهید.
 
 **شما آزاد هستید**:
 - **مقالات و سایر رسانه های ما را به صورت رایگان بخوانید و چاپ کنید.

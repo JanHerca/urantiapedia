@@ -62,8 +62,9 @@ The content with restrictions due to copyrights is identified by a [copyright no
 - _Paramony_, the cross-reference index between Bible and _The Urantia Book_ that appears as footnotes in _The Urantia Book_ and Bible pages (in all languages), is copyright of [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Articles from [Innerface International](/en/index/articles_innerface) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
 - Articles from [Urantian Journal](/en/index/articles_the_urantian) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articles from [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
+- Articles from [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
 - Articles from [Fellowship Herald](/en/index/articles_herald) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
+- Articles from [“Luz y Vida” Newsletter](/es/index/articles_luz_y_vida), are copyright of each author and [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Articles from [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (in all languages) are copyright of [Halbert Katzen](https://ubannotated.com/).
 - Articles from [Jan Herca](/en/index/articles#articles-from-jan-herca) (in all languages) are copyright of [Jan Herca](https://buscandoajesus.wordpress.com) and are available under the [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Other articles not belonging to previous groups (in all languages) are copyright of the authors indicated.
@@ -87,7 +88,7 @@ This is a human-readable summary of the Terms of Use. To read the full terms you
 **Part of our mission is to:**
 - **Help in dissemination of *The Urantia Book*** revelations throughout the world.
 - **Improve understanding** of the teachings of *The Urantia Book*.
--**Link most of the current knowledge** available about the Urantia revelation.
+- **Link most of the current knowledge** available about the Urantia revelation.
 
 **You are free to**:
 - **Read and Print** our articles and other media free of charge.

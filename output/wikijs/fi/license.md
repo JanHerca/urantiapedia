@@ -27,8 +27,7 @@ Tämä on ihmisen luettavissa oleva tiivistelmä [lisenssistä](/fi/help/full_li
 <p style="text-align:center;"><b>Voit vapaasti:</b></p>
 
 - **Jakaa**—kopioida aineistoa ja levittää sitä edelleen missä tahansa välineessä ja muodossa
-- **Muunnella**—remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja
-missä tahansa tarkoituksessa, myös kaupallisesti.
+- **Muunnella**—remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja missä tahansa tarkoituksessa, myös kaupallisesti.
 
 Lisenssinantaja ei voi peruuttaa näitä oikeuksia niin kauan kuin noudatat lisenssin ehtoja.
 
@@ -63,8 +62,9 @@ Tekijänoikeuksista johtuvia rajoituksia sisältävä sisältö tunnistetaan kun
 - _Paramony_, Raamatun ja _Urantia-kirjan_ välinen ristiviittaushakemisto, joka näkyy alaviitteinä _Urantia-kirjassa_ ja Raamatun sivuilla (kaikilla kielillä), on [Duane L. Faw and The Urantia Book Fellowshipin](https://urantia-book.org/urantiabook/paramony/) tekijänoikeus.
 - [Innerface Internationalin](/en/index/articles_innerface) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin] (https://urantiabook.org/) tekijänoikeuksiin.
 - [Urantian Journalin](/en/index/articles_the_urantian) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
-- [Followship Journalin](/en/index/articles_spirtual_fellowship_journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- [Fellowship Journalin](/en/index/articles_spiritual_fellowship_journal) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
 - [Fellowship Heraldin](/en/index/articles_herald) artikkelit (kaikilla kielillä) kuuluvat jokaisen kirjoittajan ja [The Urantia Book Fellowshipin](https://urantiabook.org/) tekijänoikeuksiin.
+- ["Luz y Vida" Newsletter](/es/index/articles_luz_y_vida) artikkelit ovat jokaisen kirjoittajan ja [Urantia Spanish Associationin](https://aue.urantia-association.org/) tekijänoikeus.
 - [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) artikkelit (kaikilla kielillä) ovat [Halbert Katzenin](https://ubannotated.com/) tekijänoikeuksia.
 - [Jan Hercan](/en/index/articles#articles-from-jan-herca) artikkelit (kaikilla kielillä) ovat [Jan Hercan](https://buscandoajesus.wordpress.com) tekijänoikeuksia ja ne ovat saatavilla osoitteessa [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Muut artikkelit, jotka eivät kuulu aikaisempiin ryhmiin (kaikilla kielillä), ovat ilmoitettujen tekijöiden tekijänoikeuksia.
@@ -88,7 +88,7 @@ Tämä on ihmisen luettavissa oleva tiivistelmä käyttöehdoista. Voit lukea t�
 **Osa tehtäväämme on:**
 - **Apua *Urantia-kirjan*** ilmoitusten levittämiseen kaikkialla maailmassa.
 - **Paranna ymmärrystä** *Urantia-kirjan* opetuksista.
--**Linkitä suurin osa Urantia-ilmoituksesta saatavilla olevasta nykytiedosta**.
+- **Linkitä suurin osa Urantia-ilmoituksesta saatavilla olevasta nykytiedosta**.
 
 **Voit vapaasti**:
 - **Lue ja tulosta** artikkelimme ja muut tiedotusvälineet ilmaiseksi.

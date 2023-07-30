@@ -62,8 +62,9 @@ Innehållet med begränsningar på grund av upphovsrätt identifieras av ett [up
 - _Paramony_, korsreferensindexet mellan Bibeln och _The Urantia Book_ som visas som fotnoter i _The Urantia Book_ och bibelsidor (på alla språk), är upphovsrätt till [Duane L. Faw och The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artiklar från [Innerface International](/en/index/articles_innerface) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artiklar från [Urantian Journal](/en/index/articles_the_urantian) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artiklar från [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artiklar från [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artiklar från [Fellowship Herald](/en/index/articles_herald) (på alla språk) är upphovsrättsskyddade för varje författare och för [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artiklar från ["Luz y Vida" nyhetsbrev](/es/index/articles_luz_y_vida), är upphovsrättsskyddade för varje författare och [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Artiklar från [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (på alla språk) är upphovsrättsskyddade för [Halbert Katzen](https://ubannotated.com/).
 - Artiklar från [Jan Herca](/en/index/articles#articles-from-jan-herca) (på alla språk) är upphovsrättsskyddade för [Jan Herca](https://buscandoajesus.wordpress.com) och är tillgängliga under [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Andra artiklar som inte tillhör tidigare grupper (på alla språk) är upphovsrättsskyddade för de angivna författarna.
@@ -74,7 +75,7 @@ Innehållet med begränsningar på grund av upphovsrätt identifieras av ett [up
 #### Allmängods
 
 - Urantia-boken (på engelska) finns i Public Domain från 2006.
-– Bibeln, alla översättningar som används, är från versioner i Public Domain. Informationen om Public Domain-versionen som används för varje språk finns på framsidan av varje bibelbok.
+- Bibeln, alla översättningar som används, är från versioner i Public Domain. Informationen om Public Domain-versionen som används för varje språk finns på framsidan av varje bibelbok.
 - Böcker listade som [förmodade källor till Urantia Book](/en/book#books-supposed-to-be-sources) är alla på engelska och i Public Domain. Översättningar som tillhandahålls görs tillgängliga under den allmänna CC-BY-SA-4.0-licensen för webbplatsen.
 - Vissa illustrationer för _Urantia-boken_ är offentliga.
 
@@ -87,7 +88,7 @@ Detta är en läsbar sammanfattning av användarvillkoren. För att läsa de ful
 **En del av vårt uppdrag är att:**
 - **Hjälp till att sprida *Urantia-boken*** uppenbarelser över hela världen.
 - **Förbättra förståelsen** av läran i *Urantia-boken*.
--**Länka det mesta av den aktuella kunskapen** som finns tillgänglig om Urantia-uppenbarelsen.
+- **Länka det mesta av den aktuella kunskapen** som finns tillgänglig om Urantia-uppenbarelsen.
 
 **Du är fri att**:
 - **Läs och skriv ut** våra artiklar och andra medier gratis.

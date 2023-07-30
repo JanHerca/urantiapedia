@@ -18,7 +18,7 @@ Este site está disponível sob a [Licença Creative Commons Attribution-ShareAl
 
 Identificador curto da licença: **CC-BY-SA-4.0** 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Commons Attribution-ShareAlike License logo" width="200px" height="70px"/>
 
 #### Creative Commons Deed 
 
@@ -27,7 +27,7 @@ Este é um resumo legível por humanos de (e não um substituto para) a [licenç
 <p style="text-align:center;"><b>Você é livre para:</b></p> 
 
 - **Compartilhar**—copiar e redistribuir o material em qualquer meio ou formato 
-- **Adaptar **—remixe, transforme e construa sobre o material para qualquer finalidade, mesmo comercialmente. 
+- **Adaptar**—remixe, transforme e construa sobre o material para qualquer finalidade, mesmo comercialmente. 
 
 O licenciante não pode revogar essas liberdades enquanto você seguir os termos da licença. 
 
@@ -62,12 +62,13 @@ O conteúdo com restrições devido a direitos autorais é identificado por um [
 - _Paramony_, o índice de referência cruzada entre a Bíblia e _O Livro de Urântia_ que aparece como notas de rodapé em _O Livro de Urântia_ e nas páginas da Bíblia (em todos os idiomas), tem direitos autorais de [Duane L. Faw e The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/). 
 - Artigos da [Innerface International](/en/index/articles_innerface) (em todos os idiomas) são copyright de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/). 
 - Artigos do [Urantian Journal](/en/index/articles_the_urantian) (em todos os idiomas) são copyright de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artigos do [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (em todos os idiomas) são direitos autorais de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artigos do [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (em todos os idiomas) são direitos autorais de cada autor e da [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artigos do [Fellowship Herald](/en/index/articles_herald) (em todos os idiomas) são copyright de cada autor e do [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Outros artigos não pertencentes a grupos anteriores (em todos os idiomas) são copyright dos autores indicados. 
-- Auxílios de estudo de [William S. Sadler](/en/article/William_S_Sadler) e [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (em todos os idiomas) são direitos autorais da [Urantia Foundation](https: //www.urantia.org/).
+- Artigos do [Boletim “Luz y Vida”](/es/index/articles_luz_y_vida), são copyright de cada autor e da [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Artigos de [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (em todos os idiomas) são direitos autorais de [Halbert Katzen](https://ubannotated.com/).
 - Artigos de [Jan Herca](/en/index/articles#articles-from-jan-herca) (em todos os idiomas) são copyright de [Jan Herca](https://buscandoajesus.wordpress.com) e estão disponíveis em a [Licença Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+- Outros artigos não pertencentes a grupos anteriores (em todos os idiomas) são copyright dos autores indicados. 
+- Auxílios de estudo de [William S. Sadler](/en/article/William_S_Sadler) e [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (em todos os idiomas) são direitos autorais da [Urantia Foundation](https: //www.urantia.org/).
 - A Bíblia, todas as traduções usadas, são de versões em Domínio Público. As informações da versão de domínio público usadas para cada idioma podem ser encontradas na primeira página de cada livro da Bíblia.
 - Outros auxílios de estudo não pertencentes a grupos anteriores (em todos os idiomas) são propriedade dos autores indicados. 
 - Algumas ilustrações para _The Urantia Book_ são copyright de [Gary Tonge](https://visionafar.com). 
@@ -87,7 +88,7 @@ Este é um resumo legível por humanos dos Termos de uso. Para ler os termos com
 **Parte de nossa missão é:** 
 - **Ajudar na disseminação das revelações do *Livro de Urântia*** por toda parte o mundo. 
 - **Melhorar a compreensão** dos ensinamentos do *Livro de Urântia*.
--**Ligue a maior parte do conhecimento atual** disponível sobre a revelação de Urântia. 
+- **Ligue a maior parte do conhecimento atual** disponível sobre a revelação de Urântia. 
 
 **Você é livre para**: 
 - **Ler e imprimir** nossos artigos e outras mídias gratuitamente. 
@@ -137,7 +138,7 @@ Este é um resumo da Política de Privacidade. Para ler os termos completos, [cl
 
 
 ### Isenção de responsabilidade
- 
+
 **A URANTIAPEDIA NÃO OFERECE GARANTIA DE VALIDADE**
 
 A Urantiapedia é uma enciclopédia online colaborativa de conteúdo aberto; isto é, uma associação voluntária de indivíduos e grupos trabalhando para desenvolver um recurso comum de conhecimento humano. A estrutura do projeto permite que qualquer pessoa com conexão à Internet altere seu conteúdo. Esteja ciente de que nada encontrado aqui foi necessariamente revisado por pessoas com a experiência necessária para fornecer informações completas, precisas ou confiáveis.

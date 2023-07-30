@@ -62,8 +62,9 @@ A szerzői jogok miatt korlátozott tartalmat egy [szerzői jogi megjegyzés](ht
 - A _Paramony_, a Biblia és az _Urantia könyv_ közötti kereszthivatkozási index, amely lábjegyzetként jelenik meg az _Az Urantia könyvben_ és a Biblia oldalain (minden nyelven), a [Duane L. Faw és az Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/) szerzői joga .
 - Az [Innerface International](/en/index/articles_innerface) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship] (https://urantiabook.org/) szerzői joga alá tartoznak.
 - Az [Urantian Journal](/en/index/articles_the_urantian) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship] (https://urantiabook.org/) szerzői joga alá tartoznak.
-- A [Followship Journal](/en/index/articles_spirtual_fellowship_journal) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship] (https://urantiabook.org/) szerzői joga alá tartoznak.
+- A [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship] (https://urantiabook.org/) szerzői joga alá tartoznak.
 - A [Fellowship Herald](/en/index/articles_herald) cikkei (minden nyelven) az egyes szerzők és a [The Urantia Book Fellowship] (https://urantiabook.org/) szerzői joga alá tartoznak.
+- A ["Luz y Vida" hírlevél](/es/index/articles_luz_y_vida) cikkeinek szerzői joga az egyes szerzők és az [Urantia Spanyol Egyesület](https://aue.urantia-association.org/) tulajdonát képezi.
 - Az [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) cikkei (minden nyelven) [Halbert Katzen](https://ubannotated.com/) szerzői jogai.
 - A [Jan Herca](/en/index/articles#articles-from-jan-herca) cikkei (minden nyelven) a [Jan Herca](https://buscandoajesus.wordpress.com) szerzői joga alá tartoznak, és a következő címen érhetők el a [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - A korábbi csoportokhoz nem tartozó egyéb cikkek (minden nyelven) a megjelölt szerzők szerzői jogát képezik.
@@ -87,7 +88,7 @@ Ez a Felhasználási feltételek ember által is olvasható összefoglalása. A 
 **Küldetésünk része, hogy:**
 - **Segítség az *Urantia könyv*** kinyilatkoztatásainak terjesztésében az egész világon.
 - **Az Urantia könyv* tanításainak jobb megértése**.
--**Kapcsold össze az Urantia-kinyilatkoztatásról rendelkezésre álló jelenlegi ismeretek nagy részét**.
+- **Kapcsold össze az Urantia-kinyilatkoztatásról rendelkezésre álló jelenlegi ismeretek nagy részét**.
 
 **szabadon**:
 - **Olvassa el és nyomtassa ki** cikkeinket és egyéb médiát ingyenesen.

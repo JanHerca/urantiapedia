@@ -62,8 +62,9 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - Το _Paramony_, το ευρετήριο παραπομπής μεταξύ της Βίβλου και του _The Urantia Book_ που εμφανίζεται ως υποσημειώσεις στο _The Urantia Book_ και στις σελίδες της Βίβλου (σε όλες τις γλώσσες), αποτελεί πνευματική ιδιοκτησία του [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Τα άρθρα από το [Innerface International](/en/index/articles_innerface) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
 - Τα άρθρα από το [Urantian Journal](/en/index/articles_the_urantian) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
-- Τα άρθρα από το [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
+- Τα άρθρα από το [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
 - Τα άρθρα από το [Fellowship Herald](/en/index/articles_herald) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και του [The Urantia Book Fellowship](https://urantiabook.org/).
+- Τα άρθρα από το [«Luz y Vida» Newsletter](/es/index/articles_luz_y_vida), αποτελούν πνευματική ιδιοκτησία κάθε συγγραφέα και [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Τα άρθρα από το [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (σε όλες τις γλώσσες) αποτελούν πνευματικά δικαιώματα του [Halbert Katzen](https://ubannotated.com/).
 - Τα άρθρα από [Jan Herca](/en/index/articles#articles-from-jan-herca) (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία του [Jan Herca](https://buscandoajesus.wordpress.com) και είναι διαθέσιμα στο την [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Άλλα άρθρα που δεν ανήκουν σε προηγούμενες ομάδες (σε όλες τις γλώσσες) αποτελούν πνευματική ιδιοκτησία των αναφερόμενων συγγραφέων.
@@ -87,7 +88,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 **Μέρος της αποστολής μας είναι να:**
 - **Βοηθήστε στη διάδοση των αποκαλύψεων του *The Urantia Book*** σε όλο τον κόσμο.
 - **Βελτιώστε την κατανόηση** των διδασκαλιών του *The Urantia Book*.
--**Συνδέστε τις περισσότερες από τις τρέχουσες γνώσεις** που είναι διαθέσιμες για την αποκάλυψη της Ουράντια.
+- **Συνδέστε τις περισσότερες από τις τρέχουσες γνώσεις** που είναι διαθέσιμες για την αποκάλυψη της Ουράντια.
 
 **Είστε ελεύθεροι να**:
 - **Διαβάστε και εκτυπώστε** τα άρθρα μας και άλλα μέσα μας δωρεάν.

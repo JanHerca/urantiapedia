@@ -62,8 +62,9 @@ De inhoud met beperkingen vanwege auteursrechten wordt geïdentificeerd door een
 - _Paramony_, de kruisverwijzingsindex tussen Bijbel en _Het Urantia Boek_ die verschijnt als voetnoten in _Het Urantia Boek_ en Bijbelpagina's (in alle talen), is copyright van [Duane L. Faw en The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artikelen van [Innerface International](/en/index/articles_innerface) (in alle talen) vallen onder het copyright van elke auteur en van [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikelen uit [Urantian Journal](/en/index/articles_the_urantian) (in alle talen) vallen onder het copyright van elke auteur en van [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikelen uit [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (in alle talen) vallen onder het copyright van elke auteur en van [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikelen uit [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (in alle talen) vallen onder het copyright van elke auteur en van [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikelen uit [Fellowship Herald](/en/index/articles_herald) (in alle talen) zijn copyright van elke auteur en van [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikelen uit [“Luz y Vida” nieuwsbrief](/es/index/articles_luz_y_vida), vallen onder het copyright van elke auteur en [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Artikelen van [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (in alle talen) vallen onder het copyright van [Halbert Katzen](https://ubannotated.com/).
 - Artikelen van [Jan Herca](/en/index/articles#articles-from-jan-herca) (in alle talen) zijn copyright van [Jan Herca](https://buscandoajesus.wordpress.com) en zijn beschikbaar onder de [Creative Commons Naamsvermelding-GelijkDelen Licentie 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Andere artikelen die niet tot eerdere groepen behoren (in alle talen) vallen onder het copyright van de aangegeven auteurs.
@@ -87,7 +88,7 @@ Dit is een voor mensen leesbare samenvatting van de Gebruiksvoorwaarden. Om de v
 **Onderdeel van onze missie is om:**
 - **Hulp bij de verspreiding van *Het Urantia Boek*** onthullingen over de hele wereld.
 - **Begrip verbeteren** van de leringen van *Het Urantia Boek*.
--**Verbind de meeste van de huidige kennis** die beschikbaar is over de Urantia-openbaring.
+- **Verbind de meeste van de huidige kennis** die beschikbaar is over de Urantia-openbaring.
 
 **U bent vrij om**:
 - **Lees en print** onze artikelen en andere media gratis.

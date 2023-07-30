@@ -62,8 +62,9 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - _The Urantia Book_ 및 성경 페이지(모든 언어로 제공)에서 각주로 나타나는 성경과 _The Urantia Book_ 간의 상호 참조 색인인 _Paramony_는 [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - [Innerface International](/en/index/articles_innerface)(모든 언어로 제공)의 기사는 각 저자와 [The Urantia Book Fellowship](https://urantiabook.org/)의 저작권입니다.
 - [Urantian Journal](/en/index/articles_the_urantian)(모든 언어로 제공)의 기사는 각 저자와 [The Urantia Book Fellowship](https://urantiabook.org/)의 저작권입니다.
-- [Followship Journal](/en/index/articles_spirtual_fellowship_journal)의 기사(모든 언어)는 각 저자와 [The Urantia Book Fellowship](https://urantiabook.org/)의 저작권입니다.
+- [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal)의 기사(모든 언어)는 각 저자와 [The Urantia Book Fellowship](https://urantiabook.org/)의 저작권입니다.
 - [Fellowship Herald](/en/index/articles_herald)의 기사(모든 언어로 제공)는 각 저자와 [The Urantia Book Fellowship](https://urantiabook.org/)의 저작권입니다.
+- ["Luz y Vida" 뉴스레터](/es/index/articles_luz_y_vida)의 기사는 각 저자와 [Urantia Spanish Association](https://aue.urantia-association.org/)의 저작권입니다.
 - [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews)의 기사(모든 언어로 제공)는 [Halbert Katzen](https://ubannotated.com/)의 저작권입니다.
 - [Jan Herca](/en/index/articles#articles-from-jan-herca)의 기사(모든 언어로 제공)는 [Jan Herca](https://buscandoajesus.wordpress.com)의 저작권이며 다음에서 사용할 수 있습니다. [크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - 이전 그룹에 속하지 않은 기타 기사(모든 언어로 제공)는 표시된 저자의 저작권입니다.
@@ -87,7 +88,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 **우리 임무의 일부는 다음과 같습니다.**
 - ***유란시아 책*** 계시를 전 세계에 전파하는 데 도움을 줍니다.
 - *유란시아 서*의 가르침에 대한 **이해력 향상**.
--**유란시아 계시에 대해 이용 가능한 대부분의 현재 지식**을 연결합니다.
+- **유란시아 계시에 대해 이용 가능한 대부분의 현재 지식**을 연결합니다.
 
 **당신은 자유롭게**:
 - **기사 및 기타 매체를 무료로 읽고 인쇄**하세요.

@@ -62,8 +62,9 @@ Der Inhalt mit Einschränkungen aufgrund des Urheberrechts ist durch einen [Urhe
 - _Paramony_, der Querverweisindex zwischen Bibel und _The Urantia Book_, der als Fußnoten in _The Urantia Book_ und Bibelseiten (in allen Sprachen) erscheint, ist urheberrechtlich geschützt von [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artikel von [Innerface International](/en/index/articles_innerface) (in allen Sprachen) unterliegen dem Urheberrecht des jeweiligen Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikel aus [Urantian Journal](/en/index/articles_the_urantian) (in allen Sprachen) unterliegen dem Urheberrecht des jeweiligen Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikel aus [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel aus [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikel von [Fellowship Herald](/en/index/articles_herald) (in allen Sprachen) unterliegen dem Urheberrecht jedes Autors und [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel aus dem [Newsletter „Luz y Vida“](/es/index/articles_luz_y_vida) unterliegen dem Urheberrecht des jeweiligen Autors und der [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Artikel von [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (in allen Sprachen) unterliegen dem Copyright von [Halbert Katzen](https://ubannotated.com/).
 - Artikel von [Jan Herca](/en/index/articles#articles-from-jan-herca) (in allen Sprachen) unterliegen dem Urheberrecht von [Jan Herca](https://buscandoajesus.wordpress.com) und sind verfügbar unter die [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Andere Artikel, die nicht zu den vorherigen Gruppen gehören (in allen Sprachen), unterliegen dem Urheberrecht der angegebenen Autoren.
@@ -87,7 +88,7 @@ Dies ist eine für Menschen lesbare Zusammenfassung der Nutzungsbedingungen. Die
 **Teil unserer Mission ist:**
 - **Hilfe bei der weltweiten Verbreitung der Offenbarungen des *Urantia-Buches***.
 - **Verbesserung des Verständnisses** der Lehren von *The Urantia Book*.
--**Link zum größten Teil des aktuellen Wissens**, das über die Urantia-Offenbarung verfügbar ist.
+- **Link zum größten Teil des aktuellen Wissens**, das über die Urantia-Offenbarung verfügbar ist.
 
 **Es steht Ihnen frei**:
 - Unsere Artikel und andere Medien kostenlos **lesen und ausdrucken**.

@@ -18,7 +18,7 @@ Ce site Web est disponible sous [Creative Commons Attribution-ShareAlike License
 
 Identifiant court de la licence : **CC-BY-SA-4.0** 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Logo de licence Commons Attribution-ShareAlike" width="200px" height="
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Logo de licence Commons Attribution-ShareAlike" width="200px" height="70px"/>
 
 #### Creative Commons Deed 
 
@@ -27,8 +27,7 @@ Il s'agit d'un résumé lisible par l'homme (et non d'un substitut) de la [licen
 <p style="text-align:center;"><b>Vous êtes autorisé à :</b></p>
 
 - **Partager**—copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
-- **Adapter**—remixer, transformer et créer à partir du matériel
-pour toute utilisation, y compris commerciale.
+- **Adapter**—remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
 
 L'Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
@@ -63,8 +62,9 @@ Le contenu soumis à des restrictions dues aux droits d'auteur est identifié pa
 - _Paramony_, l'index de références croisées entre la Bible et _Le Livre d'Urantia_ qui apparaît en notes de bas de page dans _Le Livre d'Urantia_ et les pages de la Bible (dans toutes les langues), est la propriété de [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/). 
 - Les articles de [Innerface International](/en/index/articles_innerface) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
 - Les articles du [Journal Urantian](/en/index/articles_the_urantian) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/). 
-- Les articles du [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
+- Les articles du [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/).
 - Les articles de [Fellowship Herald](/en/index/articles_herald) (dans toutes les langues) sont la propriété de chaque auteur et de [The Urantia Book Fellowship](https://urantiabook.org/). 
+- Les articles du [Bulletin « Luz y Vida »](/es/index/articles_luz_y_vida), sont la propriété de chaque auteur et de [l'Association Espagnole Urantia](https://aue.urantia-association.org/).
 - Les articles de [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (dans toutes les langues) sont la propriété de [Halbert Katzen](https://ubannotated.com/).
 - Les articles de [Jan Herca](/en/index/articles#articles-from-jan-herca) (dans toutes les langues) sont la propriété de [Jan Herca](https://buscandoajesus.wordpress.com) et sont disponibles sous la [licence Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).  
 - La Bible, toutes les traductions utilisées, proviennent de versions du domaine public. Les informations sur la version du domaine public utilisée pour chaque langue se trouvent sur la première page de chaque livre de la Bible.
@@ -88,7 +88,7 @@ Il s'agit d'un résumé lisible par l'homme des conditions d'utilisation. Pour l
 **Une partie de notre mission consiste à :** 
 - **Aider à la diffusion du *Livre d'Urantia** * révélations à travers le monde.
 - **Améliorer la compréhension** des enseignements du *Livre d'Urantia*. 
--**Lien la plupart des connaissances actuelles** disponibles sur la révélation Urantia. 
+- **Lien la plupart des connaissances actuelles** disponibles sur la révélation Urantia. 
 
 **Vous êtes libre de** : 
 - **Lire et Imprimer** gratuitement nos articles et autres médias. 

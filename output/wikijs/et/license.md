@@ -62,8 +62,9 @@ Autoriõigustest tulenevate piirangutega sisu tuvastatakse [autoriõiguse teatis
 - _Paramony_, Piibli ja _Urantia raamatu_ vaheline ristviite register, mis ilmub joonealuste märkustena _Urantia raamatus_ ja piiblilehtedel (kõikides keeltes), kuulub autoriõigusele [Duane L. Faw ja The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artiklite [Innerface International](/en/index/articles_innerface) (kõikides keeltes) autoriõigused kuuluvad igale autorile ja [The Urantia Book Fellowshipile](https://urantiabook.org/).
 - Ajakirja [Urantian Journal](/en/index/articles_the_urantian) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
-- Ajakirja [Followship Journal](/en/index/articles_spirtual_fellowship_journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- Ajakirja [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
 - [Fellowship Heraldi](/en/index/articles_herald) artiklid (kõikides keeltes) kuuluvad iga autori ja [The Urantia Book Fellowshipi](https://urantiabook.org/) autoriõiguse alla.
+- ["Luz y Vida" uudiskirja](/es/index/articles_luz_y_vida) artiklite autoriõigus kuulub igale autorile ja [Urantia Hispaania ühingule](https://aue.urantia-association.org/).
 - Artiklite [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (kõikides keeltes) autoriõigused kuuluvad [Halbert Katzenile](https://ubannotated.com/).
 - Artiklid [Jan Herca](/en/index/articles#articles-from-jan-herca) (kõigis keeltes) kuuluvad [Jan Herca](https://buscandoajesus.wordpress.com) autoriõiguse alla ja on saadaval aadressil [Creative Commonsi Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Muud artiklid, mis ei kuulu eelmistesse rühmadesse (kõikides keeltes), kuuluvad märgitud autorite autoriõiguse alla.
@@ -87,7 +88,7 @@ See on inimloetav kasutustingimuste kokkuvõte. Täielike tingimuste lugemiseks 
 **Osa meie missioonist on:**
 - **Abi *Urantia raamatu*** ilmutuste levitamisel kogu maailmas.
 - **Parandage *Urantia raamatu* õpetuste mõistmist**.
--**Linkige suurem osa Urantia ilmutuse kohta olemasolevatest teadmistest**.
+- **Linkige suurem osa Urantia ilmutuse kohta olemasolevatest teadmistest**.
 
 **Võite vabalt**:
 - **Lugege ja printige** meie artikleid ja muud meediat tasuta.
@@ -123,14 +124,14 @@ See on privaatsuspoliitika kokkuvõte. Täielike tingimuste lugemiseks [klõpsak
 - Kasutage Urantiapeediat.
 
 **Oleme pühendunud:**
-– selles privaatsuspoliitikas kirjeldatakse, kuidas teie teavet võidakse kasutada või jagada.
+- selles privaatsuspoliitikas kirjeldatakse, kuidas teie teavet võidakse kasutada või jagada.
 - Kasutage oma teabe turvalisuse tagamiseks mõistlikke meetmeid.
 - Ärge kunagi müüge oma teavet ega jagage seda turunduseesmärkidel kolmandate osapooltega.
 - jagage oma teavet ainult piiratud juhtudel, näiteks Urantiapedia täiustamiseks, seaduste järgimiseks või teie ja teiste kaitsmiseks.
 - Teie andmete säilitamine võimalikult lühikese aja jooksul, mis on kooskõlas Urantiapedia säilitamise, mõistmise ja täiustamisega ning meie kohaldatavatest õigusaktidest tulenevate kohustustega.
 
 **Olge teadlik:**
-– kogu Urantiapediasse lisatud sisu või muudatused on avalikult ja püsivalt saadaval.
+- kogu Urantiapediasse lisatud sisu või muudatused on avalikult ja püsivalt saadaval.
 - Meie Urantiapedia administraatoritel on tööriistad, mis annavad neile piiratud juurdepääsu mitteavalikule teabele hiljutiste kaastööde kohta, et nad saaksid kaitsta Urantiapeediat ja jõustada eeskirju.
 - Osana meie kohustusest näidata Urantiapedia projektiga seotust avaldame aeg-ajalt avalikku teavet ja koondatud või mitteisiklikku teavet üldsusele andmekogude ja andmekogude kaudu.
 - Urantiapedia ja teiste kasutajate kaitsmiseks ei tohi te Urantiapediat kasutada, kui te selle privaatsuspoliitikaga ei nõustu.

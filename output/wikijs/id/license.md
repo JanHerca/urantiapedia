@@ -62,8 +62,9 @@ Konten dengan batasan karena hak cipta diidentifikasi oleh [pemberitahuan hak ci
 - _Paramony_, indeks referensi silang antara Alkitab dan _Buku Urantia_ yang muncul sebagai catatan kaki di _Buku Urantia_ dan halaman Alkitab (dalam semua bahasa), adalah hak cipta dari [Duane L. Faw dan The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artikel dari [Innerface International](/en/index/articles_innerface) (dalam semua bahasa) adalah hak cipta dari masing-masing penulis dan [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikel dari [Jurnal Urantia](/en/index/articles_the_urantian) (dalam semua bahasa) adalah hak cipta dari masing-masing penulis dan [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikel dari [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (dalam semua bahasa) adalah hak cipta dari masing-masing penulis dan [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel dari [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (dalam semua bahasa) adalah hak cipta dari masing-masing penulis dan [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikel dari [Fellowship Herald](/en/index/articles_herald) (dalam semua bahasa) adalah hak cipta dari masing-masing penulis dan [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikel dari [Nawala “Luz y Vida”](/es/index/articles_luz_y_vida), adalah hak cipta dari masing-masing penulis dan [Asosiasi Spanyol Urantia](https://aue.urantia-association.org/).
 - Artikel dari [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (dalam semua bahasa) merupakan hak cipta dari [Halbert Katzen](https://ubannotated.com/).
 - Artikel dari [Jan Herca](/en/index/articles#articles-from-jan-herca) (dalam semua bahasa) adalah hak cipta dari [Jan Herca](https://buscandoajesus.wordpress.com) dan tersedia di bawah [Lisensi Atribusi-BerbagiSerupa Creative Commons 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Artikel lain yang bukan milik grup sebelumnya (dalam semua bahasa) adalah hak cipta dari penulis yang disebutkan.
@@ -87,7 +88,7 @@ Ini adalah ringkasan Ketentuan Penggunaan yang dapat dibaca manusia. Untuk memba
 **Bagian dari misi kami adalah untuk:**
 - ** Bantuan dalam penyebaran wahyu * Buku Urantia *** di seluruh dunia.
 - **Tingkatkan pemahaman** tentang ajaran *Buku Urantia*.
--**Tautkan sebagian besar pengetahuan terkini** yang tersedia tentang wahyu Urantia.
+- **Tautkan sebagian besar pengetahuan terkini** yang tersedia tentang wahyu Urantia.
 
 **Anda bebas untuk**:
 - **Baca dan Cetak** artikel kami dan media lainnya secara gratis.

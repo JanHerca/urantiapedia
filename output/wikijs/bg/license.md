@@ -62,9 +62,10 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - _Paramony_, индексът за кръстосана препратка между Библията и _Книгата Урантия_, който се появява като бележки под линия в _Книгата Урантия_ и страниците на Библията (на всички езици), е с авторски права на [Duane L. Faw и _The Urantia Book_ Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Статиите от [Innerface International](/en/index/articles_innerface) (на всички езици) са авторски права на всеки автор и на [_The Urantia Book_ Fellowship](https://urantiabook.org/).
 - Статии от [Urantian Journal](/en/index/articles_the_urantian) (на всички езици) са авторски права на всеки автор и на [_The Urantia Book_ Fellowship](https://urantiabook.org/).
-- Статии от [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (на всички езици) са авторски права на всеки автор и на [_The Urantia Book_ Fellowship](https://urantiabook.org/).
+- Статии от [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (на всички езици) са авторски права на всеки автор и на [_The Urantia Book_ Fellowship](https://urantiabook.org/).
 - Статиите от [Fellowship Herald](/en/index/articles_herald) (на всички езици) са авторски права на всеки автор и на [_The Urantia Book_ Fellowship](https://urantiabook.org/).
-– Статии от [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (на всички езици) са с авторски права на [Halbert Katzen](https://ubannotated.com/).
+- Статии от [бюлетина „Luz y Vida”](/es/index/articles_luz_y_vida) са авторски права на всеки автор и [Испанска асоциация на Урантия](https://aue.urantia-association.org/).
+- Статии от [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (на всички езици) са с авторски права на [Halbert Katzen](https://ubannotated.com/).
 - Статиите от [Jan Herca](/en/index/articles#articles-from-jan-herca) (на всички езици) са с авторски права на [Jan Herca](https://buscandoajesus.wordpress.com) и са достъпни под [Лицензът Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
 - Други статии, които не принадлежат към предишни групи (на всички езици), са авторски права на посочените автори.
 - Учебни помагала от [William S. Sadler](/en/article/William_S_Sadler) и [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (на всички езици) са с авторски права на [Urantia Foundation](https://www.urantia.org/).
@@ -87,7 +88,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 **Част от нашата мисия е да:**
 - **Помощ при разпространението на *Книгата на Урантия*** откровенията по целия свят.
 - **Подобрете разбирането** на ученията на *Книгата на Урантия*.
--**Свържете повечето от текущото знание**, което е налично за откровението на Урантия.
+- **Свържете повечето от текущото знание**, което е налично за откровението на Урантия.
 
 **Вие сте свободни да**:
 - **Прочетете и отпечатайте** нашите статии и други медии безплатно.

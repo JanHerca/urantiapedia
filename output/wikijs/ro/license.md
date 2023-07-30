@@ -62,8 +62,9 @@ Conținutul cu restricții din cauza drepturilor de autor este identificat print
 - _Paramony_, indexul de referință încrucișată între Biblie și _Cartea Urantia_ care apare ca note de subsol în _Cartea Urantia_ și paginile Bibliei (în toate limbile), este dreptul de autor al [Duane L. Faw și The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Articolele de la [Innerface International](/en/index/articles_innerface) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
 - Articolele din [Urantian Journal](/en/index/articles_the_urantian) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articolele din [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
+- Articolele din [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
 - Articolele de la [Fellowship Herald](/en/index/articles_herald) (în toate limbile) sunt drepturile de autor ale fiecărui autor și ale [The Urantia Book Fellowship](https://urantiabook.org/).
+- Articolele din [Buletinul informativ „Luz y Vida”](/es/index/articles_luz_y_vida), sunt drepturile de autor ale fiecărui autor și [Asociația Spaniolă Urantia](https://aue.urantia-association.org/).
 - Articolele de la [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (în toate limbile) sunt drepturile de autor ale [Halbert Katzen](https://ubannotated.com/).
 - Articolele de la [Jan Herca](/en/index/articles#articles-from-jan-herca) (în toate limbile) sunt drepturile de autor ale [Jan Herca](https://buscandoajesus.wordpress.com) și sunt disponibile sub [Licența Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Alte articole care nu aparțin grupurilor anterioare (în toate limbile) sunt drepturile de autor ale autorilor indicați.
@@ -87,7 +88,7 @@ Acesta este un rezumat care poate fi citit de om al Termenilor de utilizare. Pen
 **O parte a misiunii noastre este de a:**
 - **Ajutor la diseminarea revelațiilor *Cartea Urantia*** în întreaga lume.
 - **Îmbunătățiți înțelegerea** a învățăturilor din *Cartea Urantia*.
--**Conectează majoritatea cunoștințelor curente** disponibile despre revelația Urantia.
+- **Conectează majoritatea cunoștințelor curente** disponibile despre revelația Urantia.
 
 **Ești liber să**:
 - **Citiți și imprimați** articolele noastre și alte media gratuit.

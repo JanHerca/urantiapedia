@@ -50,7 +50,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 
 
-＃＃＃ 制限
+### 制限
 
 この Web サイトの一部のコンテンツは、さまざまな著作権者の許可を得て複製されているか、パブリック ドメインにあります。Web サイトの一般 **CC-BY-SA-4.0** ライセンスは、このコンテンツには適用されません。
 
@@ -62,8 +62,9 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - _Paramony_ は、_The Urantia Book_ と聖書のページ (すべての言語) に脚注として表示される、聖書と _The Urantia Book_ 間の相互参照インデックスであり、[Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/) の著作権です。。
 - [Innerface International](/en/index/articles_innerface) の記事 (すべての言語) は、各著者および [The Urantia Book Fellowship](https://urantiabook.org/) の著作権です。
 - [Urantia Journal](/en/index/articles_the_urantian) の記事 (すべての言語) は、各著者および [The Urantia Book Fellowship](https://urantiabook.org/) の著作権です。
-- [Followship Journal](/en/index/articles_spirtual_fellowship_journal) の記事 (すべての言語) は、各著者および [The Urantia Book Fellowship](https://urantiabook.org/) の著作権です。
+- [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) の記事 (すべての言語) は、各著者および [The Urantia Book Fellowship](https://urantiabook.org/) の著作権です。
 - [Fellowship Herald](/en/index/articles_herald) の記事 (すべての言語) は、各著者および [The Urantia Book Fellowship](https://urantiabook.org/) の著作権です。
+- [「Luz y Vida」ニュースレター](/es/index/articles_luz_y_vida) の記事は、各著者および [ユランチア スペイン協会](https://aue.urantia-association.org/) の著作権です。
 - [UB Annotated & UBTheNews](/en/index/articles#ub-annotated-ubthenews) の記事 (すべての言語) の著作権は [Halbert Katzen](https://ubannotated.com/) にあります。
 - [Jan Herca](/en/index/articles#articles-from-jan-herca) の記事 (すべての言語) は [Jan Herca](https://buscandoajesus.wordpress.com) の著作権であり、次の場所で入手できます。 [クリエイティブ・コモンズ表示-継承ライセンス 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
 - 前のグループに属さないその他の記事 (すべての言語) は、示されている著者の著作権です。
@@ -71,14 +72,14 @@ dateCreated: 2023-02-03T13:55:38.362Z
 - 以前のグループに属さないその他の学習補助ツール (すべての言語) は、示されている著者の著作権です。
 - _The Urantia Book_ の一部のイラストは [Gary Tonge](https://visionafar.com) の著作権です。
 
-＃＃＃＃ パブリックドメイン
+#### パブリックドメイン
 
 - Urantia Book (英語) は 2006 年からパブリック ドメインになっています。
 - 聖書は、使用されているすべての翻訳がパブリック ドメインのバージョンのものです。各言語で使用されているパブリックドメイン版の情報は、各聖書本の表紙に記載されています。
 - [Urantia Book の出典と思われる](/en/book#books-supped-to-be-sources) としてリストされている書籍はすべて英語であり、パブリック ドメインにあります。提供される翻訳は、サイトの一般 CC-BY-SA-4.0 ライセンスに基づいて利用可能です。
 - _The Urantia Book_ の一部のイラストはパブリック ドメインにあります。
 
-＃＃＃ 利用規約
+### 利用規約
 
 これは人間が読める形式の利用規約の概要です。規約の全文を読むには、[利用規約](/ja/help/terms_of_use) を参照してください。
 
@@ -87,7 +88,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 **私たちの使命の一部は次のとおりです:**
 - ***ユランチア ブック***の啓示を世界中に広めるのにご協力ください。
 - **ユランチア ブック*の教えの**理解を深めます**。
--**ユランチアの啓示に関して入手可能な現在の知識のほとんどをリンク**します。
+- **ユランチアの啓示に関して入手可能な現在の知識のほとんどをリンク**します。
 
 **自由に行うことができます**:
 - **私たちの記事やその他のメディアを無料で読んだり印刷したりできます**。
@@ -107,7 +108,7 @@ dateCreated: 2023-02-03T13:55:38.362Z
 
 
 
-＃＃＃ プライバシーポリシー
+### プライバシーポリシー
 
 これはプライバシーポリシーの概要です。規約の全文を読むには、[ここをクリック](/ja/help/privacy_policy)してください。
 
@@ -150,7 +151,7 @@ Urantiapedia は、オンラインのオープンコンテンツの共同百科�
 
 寄稿者、スポンサー、管理者、または何らかの形で Urantiapedia に関係するその他の人物は、不正確または中傷的な情報の掲載、またはこれらの Web ページに含まれる情報またはこれらの Web ページからリンクされている情報の使用に対して責任を負いません。
 
-＃＃＃＃ コントラクトがない; 限定ライセンス
+#### コントラクトがない; 限定ライセンス
 
 ここで提供される情報は自由に提供されており、あなたとこのサイトの所有者またはユーザー、このサイトが置かれているサーバーの所有者、個人との間にはいかなる種類の合意や契約も作成されていないことを必ずご理解ください。 Urantiapedia の寄稿者、プロジェクト管理者、シスオペ、またはこのプロジェクトに何らかの形で関係しているその他の人物は、彼らに対する直接の申し立ての対象となります。あなたには、このサイトの内容をコピーするための限定的なライセンスが付与されています。これは、Urantiapedia またはその代理店、メンバー、主催者、その他のユーザー側に、契約上または契約外の責任を生じさせたり、暗示したりするものではありません。
 

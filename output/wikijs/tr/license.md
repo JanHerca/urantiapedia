@@ -18,7 +18,7 @@ Bu web sitesi, bir telif hakkı bildirimi olmadıkça [Creative Commons Atıf-Be
 
 Lisansın kısa tanımlayıcısı: **CC-BY-SA-4.0** 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Commons Attribution-ShareAlike License logo" width="200px" height="70px"/>
 
 #### Creative Commons Deed 
 
@@ -58,12 +58,13 @@ Telif hakları nedeniyle kısıtlanan içerik, her sayfanın başlığındaki bi
 
 #### Telif hakkıyla korunan içerik 
 
-– Urantia Kitabı (İngilizce'den tüm çeviriler), [Urantia Vakfı](https://www.urantia.org/)'nın telif hakkına sahiptir.
+- Urantia Kitabı (İngilizce'den tüm çeviriler), [Urantia Vakfı](https://www.urantia.org/)'nın telif hakkına sahiptir.
 - _Paramony_, Kutsal Kitap ile _Urantia Kitabı_ arasındaki ve _Urantia Kitabı_ ve Kutsal Kitap sayfalarında (tüm dillerde) dipnotlar olarak görünen çapraz referans indeksi, [Duane L. Faw ve The Urantia Kitap Bursu](https://urantia-book.org/urantiabook/paramony/). 
 - [Innerface International](/en/index/articles_innerface) makalelerinin (tüm dillerde) telif hakları her bir yazarın ve [Urantia Kitap Bursu](https://urantiabook.org/)'na aittir. 
 - [Urantian Journal](/en/index/articles_the_urantian) makalelerinin (tüm dillerde) telif hakları her bir yazarın ve [Urantia Kitap Bursu](https://urantiabook.org/)'na aittir.
-- [İzleme Dergisi](/en/index/articles_spirtual_fellowship_journal) makalelerinin (tüm dillerde) telif hakları her bir yazarın ve [Urantia Kitap Bursu](https://urantiabook.org/)'na aittir. 
+- [İzleme Dergisi](/en/index/articles_spiritual_fellowship_journal) makalelerinin (tüm dillerde) telif hakları her bir yazarın ve [Urantia Kitap Bursu](https://urantiabook.org/)'na aittir. 
 - [Fellowship Herald](/en/index/articles_herald) makalelerinin (tüm dillerde) telif hakkı her yazarın ve [Urantia Kitap Bursu](https://urantiabook.org/)'na aittir. 
+- [“Luz y Vida” Haber Bülteni](/es/index/articles_luz_y_vida) makalelerinin telif hakları her bir yazara ve [Urantia İspanyol Derneği](https://aue.urantia-association.org/)'ye aittir.
 - [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (tüm dillerde) makalelerinin telif hakkı [Halbert Katzen](https://ubannotated.com/)'ye aittir.
 - [Jan Herca](/en/index/articles#articles-from-jan-herca) makalelerinin (tüm dillerde) telif hakkı [Jan Herca](https://buscandoajesus.wordpress.com)'a aittir ve şu adreste bulunabilir: [Creative Commons Atıf-Benzer Paylaşım Lisansı 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 - Önceki gruplara ait olmayan diğer makalelerin (tüm dillerde) telif hakları belirtilen yazarlara aittir. 
@@ -87,7 +88,8 @@ Bu, Kullanım Koşullarının insanlar tarafından okunabilir bir özetidir. Şa
 **Misyonumuzun bir kısmı:** 
 - ***Urantia Kitabı*** ifşaatlarının her yere yayılmasına yardımcı olmak Dünya. 
 - *Urantia Kitabının* öğretilerine ilişkin **anlamayı geliştirmek**.
-Urantia ifşası hakkında mevcut olan -**mevcut bilginin çoğuyla bağlantı kurun**. 
+Urantia ifşası hakkında mevcut olan 
+- **mevcut bilginin çoğuyla bağlantı kurun**. 
 
 **Serbestsiniz**: 
 - **Makalelerimizi ve diğer ortamları ücretsiz olarak Okuyup Yazdırın**. 

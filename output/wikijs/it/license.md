@@ -62,8 +62,9 @@ Il contenuto con restrizioni dovute ai diritti d'autore è identificato da un [a
 - _Paramony_, l'indice di riferimento incrociato tra la Bibbia e _Il Libro di Urantia_ che appare come note a piè di pagina de _Il Libro di Urantia_ e le pagine della Bibbia (in tutte le lingue), è copyright di [Duane L. Faw e The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Gli articoli da [Innerface International](/en/index/articles_innerface) (in tutte le lingue) sono copyright di ciascun autore e di [The Urantia Book Fellowship](https://urantiabook.org/).
 - Gli articoli da [Urantian Journal](/en/index/articles_the_urantian) (in tutte le lingue) sono copyright di ciascun autore e di [The Urantia Book Fellowship](https://urantiabook.org/).
-- Gli articoli da [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (in tutte le lingue) sono copyright di ciascun autore e di [The Urantia Book Fellowship](https://urantiabook.org/).
+- Gli articoli da [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (in tutte le lingue) sono copyright di ciascun autore e di [The Urantia Book Fellowship](https://urantiabook.org/).
 - Gli articoli da [Fellowship Herald](/en/index/articles_herald) (in tutte le lingue) sono copyright di ciascun autore e di [The Urantia Book Fellowship](https://urantiabook.org/).
+- Gli articoli del [Newsletter “Luz y Vida”](/es/index/articles_luz_y_vida), sono copyright di ciascun autore e [dell'Associazione Urantia Spagnola](https://aue.urantia-association.org/).
 - Gli articoli di [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (in tutte le lingue) sono copyright di [Halbert Katzen](https://ubannotated.com/).
 - Gli articoli di [Jan Herca](/en/index/articles#articles-from-jan-herca) (in tutte le lingue) sono copyright di [Jan Herca](https://buscandoajesus.wordpress.com) e sono disponibili sotto la [Licenza Creative Commons Attribuzione-Condividi allo stesso modo 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Altri articoli non appartenenti ai gruppi precedenti (in tutte le lingue) sono copyright degli autori indicati.
@@ -87,7 +88,7 @@ Questo è un riepilogo leggibile dall'uomo dei Termini di utilizzo. Per leggere 
 **Parte della nostra missione è:**
 - **Aiuto nella diffusione delle rivelazioni de *Il Libro di Urantia*** in tutto il mondo.
 - **Migliora la comprensione** degli insegnamenti de *Il Libro di Urantia*.
--**Collega la maggior parte delle attuali conoscenze** disponibili sulla rivelazione di Urantia.
+- **Collega la maggior parte delle attuali conoscenze** disponibili sulla rivelazione di Urantia.
 
 **Sei libero di**:
 - **Leggi e stampa** gratuitamente i nostri articoli e altri media.

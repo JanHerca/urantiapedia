@@ -62,8 +62,9 @@ Treści z ograniczeniami wynikającymi z praw autorskich są oznaczone [informac
 - _Paramony_, indeks odsyłaczy między Biblią a _Księgą Urantii_, który pojawia się jako przypisy w _Księdze Urantii_ i na stronach Biblii (we wszystkich językach), jest chroniony prawami autorskimi [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artykuły z [Innerface International](/en/index/articles_innerface) (we wszystkich językach) są chronione prawami autorskimi każdego autora i [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artykuły z [Urantian Journal](/en/index/articles_the_urantian) (we wszystkich językach) są chronione prawami autorskimi każdego autora i [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artykuły z [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (we wszystkich językach) są chronione prawami autorskimi każdego autora i [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artykuły z [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (we wszystkich językach) są chronione prawami autorskimi każdego autora i [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artykuły z [Fellowship Herald](/en/index/articles_herald) (we wszystkich językach) są chronione prawami autorskimi każdego autora i [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artykuły z [Biuletynu „Luz y Vida”](/es/index/articles_luz_y_vida) są chronione prawami autorskimi każdego autora i [Hiszpańskie Stowarzyszenie Urantii](https://aue.urantia-association.org/).
 - Artykuły z [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (we wszystkich językach) są objęte prawami autorskimi [Halbert Katzen](https://ubannotated.com/).
 - Artykuły z [Jan Herca](/en/index/articles#articles-from-jan-herca) (we wszystkich językach) są objęte prawami autorskimi [Jan Herca](https://buscandoajesus.wordpress.com) i są dostępne pod [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Inne artykuły nie należące do poprzednich grup (we wszystkich językach) są chronione prawami autorskimi wskazanych autorów.
@@ -87,7 +88,7 @@ To jest czytelne dla człowieka podsumowanie Warunków użytkowania. Aby przeczy
 **Częścią naszej misji jest:**
 - **Pomoc w rozpowszechnianiu objawień *Księgi Urantii*** na całym świecie.
 - **Poprawa zrozumienia** nauk *Księgi Urantii*.
--**Połącz większość aktualnej wiedzy** dostępnej na temat objawienia Urantii.
+- **Połącz większość aktualnej wiedzy** dostępnej na temat objawienia Urantii.
 
 **Możesz**:
 - **Przeczytaj i wydrukuj** nasze artykuły i inne media bezpłatnie.

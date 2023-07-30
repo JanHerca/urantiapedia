@@ -35,8 +35,8 @@ Licencijos davėjas negali atšaukti šių laisvių tol, kol laikotės licencijo
 
 <p style="text-align:center;"><b>Esant tokioms sąlygoms:</b></p>
 
-– **Priskyrimas** – turite nurodyti atitinkamą kreditą, pateikti nuorodą į licenciją ir nurodyti, ar buvo atlikti pakeitimai. Tai galite padaryti bet kokiu pagrįstu būdu, bet ne tokiu būdu, kuris leistų manyti, kad licencijos išdavėjas pritaria jums arba jūsų naudojimui.
-– **ShareAlike** – jei remiksuojate, transformuojate ar kuriate medžiagą, turite platinti savo indėlį pagal tą pačią licenciją kaip ir originalas.
+- **Priskyrimas** – turite nurodyti atitinkamą kreditą, pateikti nuorodą į licenciją ir nurodyti, ar buvo atlikti pakeitimai. Tai galite padaryti bet kokiu pagrįstu būdu, bet ne tokiu būdu, kuris leistų manyti, kad licencijos išdavėjas pritaria jums arba jūsų naudojimui.
+- **ShareAlike** – jei remiksuojate, transformuojate ar kuriate medžiagą, turite platinti savo indėlį pagal tą pačią licenciją kaip ir originalas.
 
 **Jokių papildomų apribojimų** – negalite taikyti teisinių sąlygų ar technologinių priemonių, kurios teisėtai apriboja kitus daryti viską, ką leidžia licencija.
 
@@ -58,23 +58,24 @@ Turinys, kuriam taikomi autorių teisių apribojimai, pažymėtas [autorių teis
 
 #### Autorių teisių saugomas turinys
 
-– Urantijos knyga (visi vertimai iš anglų kalbos) priklauso [Urantia Foundation](https://www.urantia.org/) autorių teisės.
+- Urantijos knyga (visi vertimai iš anglų kalbos) priklauso [Urantia Foundation](https://www.urantia.org/) autorių teisės.
 - _Paramony_, kryžminės nuorodos tarp Biblijos ir _Urantijos knygos_ rodyklė, kuri pateikiama kaip išnašos _Urantijos knygoje_ ir Biblijos puslapiuose (visomis kalbomis), priklauso [Duane L. Faw ir The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/) autorių teisės .
-– Straipsniai iš [Innerface International](/en/index/articles_innerface) (visomis kalbomis) priklauso kiekvieno autoriaus ir [The Urantia Book Fellowship](https://urantiabook.org/) autorių teisės.
-– Straipsniai iš [Urantian Journal](/en/index/articles_the_urantian) (visomis kalbomis) priklauso kiekvieno autoriaus ir [Urantijos knygų stipendijos](https://urantiabook.org/) autorių teisės.
-– Straipsniai iš [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (visomis kalbomis) priklauso kiekvieno autoriaus ir [The Urantia Book Fellowship](https://urantiabook.org/) autorių teisės.
-– Straipsniai iš [Fellowship Herald](/en/index/articles_herald) (visomis kalbomis) priklauso kiekvieno autoriaus ir [The Urantia Book Fellowship] (https://urantiabook.org/) autorių teisės.
-– Straipsniai iš [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (visomis kalbomis) priklauso [Halbert Katzen](https://ubannotated.com/) autorių teisės.
-– Straipsniai iš [Jan Herca](/en/index/articles#articles-from-jan-herca) (visomis kalbomis) priklauso [Jan Herca](https://buscandoajesus.wordpress.com) autorių teisės ir yra pasiekiami adresu [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Straipsniai iš [Innerface International](/en/index/articles_innerface) (visomis kalbomis) priklauso kiekvieno autoriaus ir [The Urantia Book Fellowship](https://urantiabook.org/) autorių teisės.
+- Straipsniai iš [Urantian Journal](/en/index/articles_the_urantian) (visomis kalbomis) priklauso kiekvieno autoriaus ir [Urantijos knygų stipendijos](https://urantiabook.org/) autorių teisės.
+- Straipsniai iš [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (visomis kalbomis) priklauso kiekvieno autoriaus ir [The Urantia Book Fellowship](https://urantiabook.org/) autorių teisės.
+- Straipsniai iš [Fellowship Herald](/en/index/articles_herald) (visomis kalbomis) priklauso kiekvieno autoriaus ir [The Urantia Book Fellowship] (https://urantiabook.org/) autorių teisės.
+- Straipsniai iš [„Luz y Vida“ naujienlaiškio](/es/index/articles_luz_y_vida) priklauso kiekvieno autoriaus ir [Ispanijos Urantijos asociacijos] (https://aue.urantia-association.org/) autorių teisės.
+- Straipsniai iš [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (visomis kalbomis) priklauso [Halbert Katzen](https://ubannotated.com/) autorių teisės.
+- Straipsniai iš [Jan Herca](/en/index/articles#articles-from-jan-herca) (visomis kalbomis) priklauso [Jan Herca](https://buscandoajesus.wordpress.com) autorių teisės ir yra pasiekiami adresu [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Kiti straipsniai, nepriklausantys ankstesnėms grupėms (visomis kalbomis), priklauso nurodytų autorių autorinėms teisėms.
-– [William S. Sadler](/en/article/William_S_Sadler) ir [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (visomis kalbomis) autorių teisės priklauso [Urantia Foundation](https://www.urantia.org/).
+- [William S. Sadler](/en/article/William_S_Sadler) ir [William S. Sadler Jr.](/en/article/William_S_Sadler_Jr) (visomis kalbomis) autorių teisės priklauso [Urantia Foundation](https://www.urantia.org/).
 - Kitos studijų priemonės, nepriklausančios ankstesnėms grupėms (visomis kalbomis), priklauso nurodytų autorių autorinėms teisėms.
 - Kai kurių _Urantijos knygos_ iliustracijų autorių teisės priklauso [Gary Tonge](https://visionafar.com).
 
 #### Viešasis domenas
 
 - Urantijos knyga (anglų kalba) yra viešai prieinama nuo 2006 m.
-– Biblija, visi naudojami vertimai, yra iš viešai prieinamų versijų. Kiekvienai kalbai naudojamos viešosios versijos informaciją galima rasti kiekvienos Biblijos knygos pirmame puslapyje.
+- Biblija, visi naudojami vertimai, yra iš viešai prieinamų versijų. Kiekvienai kalbai naudojamos viešosios versijos informaciją galima rasti kiekvienos Biblijos knygos pirmame puslapyje.
 - Visos knygos, nurodytos kaip [tariami Urantijos knygos šaltiniai] (/en/book#books-supposed-to-be-sources), yra anglų kalba ir yra viešai prieinamos. Pateikti vertimai yra prieinami pagal bendrąją svetainės CC-BY-SA-4.0 licenciją.
 - Kai kurios _Urantijos knygos_ iliustracijos yra viešai prieinamos.
 
@@ -87,7 +88,7 @@ Tai žmonėms suprantama naudojimo sąlygų santrauka. Norėdami perskaityti vis
 ** Dalis mūsų misijos yra:**
 - **Pagalba skleidžiant *Urantijos knygos*** apreiškimus visame pasaulyje.
 - **Pagerinkite *Urantijos knygos* mokymų supratimą**.
--**Susiekite daugumą dabartinių žinių** apie Urantijos apreiškimą.
+- **Susiekite daugumą dabartinių žinių** apie Urantijos apreiškimą.
 
 **Jūs galite laisvai**:
 - **Skaitykite ir spausdinkite** mūsų straipsnius ir kitas žiniasklaidos priemones nemokamai.
@@ -95,11 +96,11 @@ Tai žmonėms suprantama naudojimo sąlygų santrauka. Norėdami perskaityti vis
 - **Pridėkite ir redaguokite** mūsų svetainę.
 
 **Esant šioms sąlygoms**:
-– **Atsakomybė** – prisiimate atsakomybę už savo redagavimus (nes mes tik _priglobiame_ jūsų turinį).
+- **Atsakomybė** – prisiimate atsakomybę už savo redagavimus (nes mes tik _priglobiame_ jūsų turinį).
 - **Pilietiškumas** – palaikote pilietinę aplinką ir nepriekabiaujate prie kitų vartotojų.
-– **Teisėtas elgesys** – nepažeidžiate autorių teisių ar kitų įstatymų.
+- **Teisėtas elgesys** – nepažeidžiate autorių teisių ar kitų įstatymų.
 - **Jokios žalos** – Jūs nekenkiate mūsų technologijų infrastruktūrai.
-– **Naudojimo sąlygos ir politika** – Lankydamiesi Urantiapedijoje laikotės toliau pateiktų naudojimo sąlygų ir taikomų taisyklių.
+- **Naudojimo sąlygos ir politika** – Lankydamiesi Urantiapedijoje laikotės toliau pateiktų naudojimo sąlygų ir taikomų taisyklių.
 
 **Suprasdamas, kad**:
 - **Jūs laisvai licencijuojate savo indėlį** – paprastai turite licencijuoti savo įnašus ir pakeitimus Urantiapedijoje pagal nemokamą ir atvirą licenciją (nebent jūsų indėlis yra viešasis domenas).
@@ -115,7 +116,7 @@ Tai yra Privatumo politikos santrauka. Norėdami perskaityti visas sąlygas, [sp
 
 **Kadangi manome, kad jums nereikėtų teikti asmeninės informacijos, kad dalyvautumėte laisvame žinių judėjime, tačiau norime užtikrinti, kad turinio bendradarbiai būtų patikimi žmonės, galite:**
 - Skaitykite bet kokį turinį neužregistravę paskyros.
-– Prašymas prisiregistruoti prie bendraautorio paskyros, pateikiant tikrą informaciją, leidžiančią patikrinti bendraautorio patikimumą.
+- Prašymas prisiregistruoti prie bendraautorio paskyros, pateikiant tikrą informaciją, leidžiančią patikrinti bendraautorio patikimumą.
 
 **Kadangi norime suprasti, kaip naudojama Urantiapedia, kad galėtume ją pagerinti jums, renkame tam tikrą informaciją, kai:**
 - Viešai prisidėkite.
@@ -127,7 +128,7 @@ Tai yra Privatumo politikos santrauka. Norėdami perskaityti visas sąlygas, [sp
 - Naudodami pagrįstas priemones, kad jūsų informacija būtų saugi.
 - Niekada neparduodame savo informacijos ir nesidaliname ja su trečiosiomis šalimis rinkodaros tikslais.
 - Dalinkitės savo informacija tik tam tikromis aplinkybėmis, pavyzdžiui, siekiant tobulinti Urantiapediją, laikytis įstatymų arba apsaugoti jus ir kitus.
-– Jūsų duomenų saugojimas kuo trumpesnį laiką, atitinkantį Urantiapedijos priežiūrą, supratimą ir tobulinimą bei mūsų įsipareigojimus pagal galiojančius įstatymus.
+- Jūsų duomenų saugojimas kuo trumpesnį laiką, atitinkantį Urantiapedijos priežiūrą, supratimą ir tobulinimą bei mūsų įsipareigojimus pagal galiojančius įstatymus.
 
 **Būk atidus:**
 - Bet koks turinys, kurį pridėsite arba bet kokie pakeitimai, kuriuos atliksite Urantiapedijoje, bus viešai ir nuolat pasiekiami.

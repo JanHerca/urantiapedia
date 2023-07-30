@@ -27,8 +27,7 @@ Dette er et menneskelæsbart resumé af (og ikke en erstatning for) [licensen](/
 <p style="text-align:center;"><b>Du må frit:</b></p>
 
 - **Dele**—kopiere og videredistribuere materialet i ethvert medie eller format
-- **Tilpasse**—remixe, omarbejde og bygge videre på materialet
-til alle formål, også kommercielle.
+- **Tilpasse**—remixe, omarbejde og bygge videre på materialet til alle formål, også kommercielle.
 
 Licensgiveren kan ikke tilbagekalde frihederne, så længe du følger licensvilkårene.
 
@@ -63,7 +62,7 @@ Indholdet med begrænsninger på grund af ophavsret er identificeret af en [opha
 - _Paramony_, krydsreferenceindekset mellem Bibelen og _The Urantia Book_, der vises som fodnoter i _The Urantia Book_ og bibelsider (på alle sprog), er copyright af [Duane L. Faw og The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
 - Artikler fra [Innerface International](/en/index/articles_innerface) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikler fra [Urantian Journal](/en/index/articles_the_urantian) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
-- Artikler fra [Followship Journal](/en/index/articles_spirtual_fellowship_journal) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
+- Artikler fra [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikler fra [Fellowship Herald](/en/index/articles_herald) (på alle sprog) er ophavsret til hver forfatter og [The Urantia Book Fellowship](https://urantiabook.org/).
 - Artikler fra [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (på alle sprog) er copyright tilhørende [Halbert Katzen](https://ubannotated.com/).
 - Artikler fra [Jan Herca](/en/index/articles#articles-from-jan-herca) (på alle sprog) er copyright tilhørende [Jan Herca](https://buscandoajesus.wordpress.com) og er tilgængelige under [Creative Commons Attribution-ShareAlike-licensen](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -88,7 +87,7 @@ Dette er et menneskelæsbart resumé af vilkårene for brug. For at læse de ful
 **En del af vores mission er at:**
 - **Hjælp til formidling af *The Urantia Book*** åbenbaringer over hele verden.
 - **Forbedre forståelsen** af læren i *Urantia-bogen*.
--**Link det meste af den nuværende viden**, der er tilgængelig om Urantia-åbenbaringen.
+- **Link det meste af den nuværende viden**, der er tilgængelig om Urantia-åbenbaringen.
 
 **Du kan frit**:
 - **Læs og udskriv** vores artikler og andre medier gratis.
