@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2023
 
+- [Notícias de julho de 2023](/pt/news/2023/07)
 - [Notícias de junho de 2023](/pt/news/2023/06)
 - [Notícias de maio de 2023](/pt/news/2023/05)
 - [Notícias de abril de 2023](/pt/news/2023/04)
