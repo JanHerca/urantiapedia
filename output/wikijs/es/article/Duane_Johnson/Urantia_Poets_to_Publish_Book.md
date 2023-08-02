@@ -41,9 +41,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Por _Duane Johnson_
 
-> «El arte es la morontia mortal, el campo intermedio entre el hombre, lo material, y el hombre, lo espiritual. La poesía es un esfuerzo por escapar de las realidades materiales a los valores espirituales». (<a id="a43_208"></a>[LU 195:7.15](/es/The_Urantia_Book/195#p7_15))
+> «El arte prueba que el hombre no es mecánico, pero no prueba que sea espiritualmente inmortal. El arte es la morontia humana, el terreno intermedio entre el hombre material y el hombre espiritual. La poesía es un esfuerzo por huir de las realidades materiales hacia los valores espirituales.». (<a id="a43_208"></a>[LU 195:7.15](/es/The_Urantia_Book/195#p7_15))
 
-> La realización del reconocimiento de los valores espirituales es una experiencia superideacional. No hay palabra en ningún lenguaje humano que pueda emplearse para designar este "sentido", "sentimiento", "intuición" o "experiencia" que hemos elegido llamar conciencia de Dios. (<a id="a45_280"></a>[LU 103:1.6](/es/The_Urantia_Book/103#p1_6))
+> Llevar a cabo el reconocimiento de los valores espirituales es una experiencia que sobrepasa la ideación. Ningún idioma humano posee una palabra que se pueda emplear para designar esa «sensación», «sentimiento», «intuición» o «experiencia» que hemos elegido llamar la conciencia de Dios. (<a id="a45_280"></a>[LU 103:1.6](/es/The_Urantia_Book/103#p1_6))
 
 Los reveladores de _El Libro de Urantia_ nunca parecen cansarse de afirmar lo difícil que es para nosotros captar la verdadera naturaleza de la realidad espiritual. Se nos da a entender que los límites de nuestros sentidos, así como los límites de la mente humana, nos impiden comprender gran parte de la realidad más amplia de la que somos parte.
 
@@ -55,7 +55,7 @@ Es cierto que todos nos hemos beneficiado discutiendo y analizando, en nuestra p
 
 Debido a esto, buscamos en las artes un presagio de estas realidades superiores del universo. (ver <a id="a55_99"></a>[LU 48:7.23](/es/The_Urantia_Book/48#p7_23))
 
-El poeta en cada uno de nosotros parece saber intuitivamente que las palabras no pueden transmitir adecuadamente ideas, ideales y significados espirituales. Por eso he llegado a pensar en la poesía como un intento de articular lo inefable. Los poetas usan lenguaje simbólico y metafórico en un esfuerzo por elevar nuestro tipo de mente humana al nivel de la mente cósmica para comprender mejor "las realidades mejoradas del tiempo y las realidades más duraderas de la eternidad". (<a id="a57_481"></a>[LU 101:9.8](/es/The_Urantia_Book/101#p9_8))
+El poeta en cada uno de nosotros parece saber intuitivamente que las palabras no pueden transmitir adecuadamente ideas, ideales y significados espirituales. Por eso he llegado a pensar en la poesía como un intento de articular lo inefable. Los poetas usan lenguaje simbólico y metafórico en un esfuerzo por elevar nuestro tipo de mente humana al nivel de la mente cósmica para comprender mejor «las realidades mejoradas del tiempo y las realidades más duraderas de la eternidad». (<a id="a57_481"></a>[LU 101:9.8](/es/The_Urantia_Book/101#p9_8))
 
 Con este fin, Byron Belitsos publicó en 1982 _Ascenso ardiente_, una colección de poesía de poetas cuyas vidas han sido tocadas e inspiradas por _El Libro de Urantia_.
 

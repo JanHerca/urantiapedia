@@ -267,7 +267,7 @@ Si ya eres miembro, déjame darte las gracias. Manténgase involucrado, continú
 
 > El potencial del grupo es siempre muy superior a la simple suma de los atributos de los individuos que lo componen. <a id="a267_118"></a>[[LU 10:5.2](/es/The_Urantia_Book/10#p5_2)]
 
-## ¡Ahora en Auio CD!
+## ¡Ahora en Audio CD!
 
 <figure id="Figure_20" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/005671.jpg">

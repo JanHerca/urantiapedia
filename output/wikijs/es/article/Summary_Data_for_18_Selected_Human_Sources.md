@@ -59,7 +59,7 @@ dateCreated: 2023-6-21T8:13:38Z
 El sitio web de Matthew Block: [https://urantiabooksources.com/ ](https://urantiabooksources.com/) tiene el análisis más completo de la información del libro fuente, incluidos los títulos de los libros, los autores y mucho más.
 
 
-> Aquellos que son nacidos del espíritu de Dios discernirán de ahora en adelante la palabra de Dios sin importar de dónde parezca tener origen. La verdad divina no debe descartarse porque el canal de su otorgamiento es aparentemente humano. (<a id="a61_242"></a>[LU 155:6.12](/es/The_Urantia_Book/155#p6_12))
+> Aquellos que han nacido del espíritu de Dios discernirán en lo sucesivo la palabra de Dios, independientemente del lugar de donde parezca originarse. No hay que desestimar la verdad divina porque se haya otorgado a través de un canal aparentemente humano. (<a id="a61_242"></a>[LU 155:6.12](/es/The_Urantia_Book/155#p6_12))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/057.jpg">

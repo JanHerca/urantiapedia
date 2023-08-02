@@ -64,9 +64,7 @@ You see, the Urantia book readership is more like a spiritual book club of peopl
 
 You can not know how satisfying _The Urantia Book_ is if you're not hungry for truth. You can not know how soul quenching _The Urantia Book_ is if you're not thirsty for righteousness. You can not know how beautiful _The Urantia Book_ is just by looking at the cover. You have to dive in and feel the truth, beauty and goodness of its spiritual contents. Find something in the index that interests your curiosity. Take a bite and see how the fruit of truth tastes on the palette of your intellectual mind. Mmmmm Yummy! LOL!
 
-_The Urantia Book_ says, “_Human things must be known in order to be loved, but divine things must be loved in order to be known._” <a id="a66_132"></a>[[UB 102:1.1](/en/The_Urantia_Book/102#p1_1)] And so it is with advanced
-
-truth; only a sincere lover of truth, knows truth when they find it. Thank you Jesus for your Spirit of Truth!
+_The Urantia Book_ says, “_Human things must be known in order to be loved, but divine things must be loved in order to be known._” <a id="a66_132"></a>[[UB 102:1.1](/en/The_Urantia_Book/102#p1_1)] And so it is with advanced truth; only a sincere lover of truth, knows truth when they find it. Thank you Jesus for your Spirit of Truth!
 
 But we also understand that _The Urantia Book_ is not for everyone. Not everyone can cope with the new words and challenging concepts of this revelatory text containing 2,097 pages. And, in this complex society of modern technology, most people just don't have the interest or the time. Still even more importantly, we know that salvation is not attained by the book you read or what you believe, but by the life you live.
 

@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Dijo Jesús:
 
-> «Edificad bien los cimientos para el crecimiento de un carácter noble de dotes espirituales, para dar los frutos del espíritu, debéis nacer del espíritu. Deben ser enseñados por el espíritu y ser guiados por el espíritu si desean vivir la vida llena del espíritu entre sus semejantes». <a id="a43_288"></a>[LU 156:5.2](/es/The_Urantia_Book/156#p5_2)
+> «Construid bien los cimientos para el crecimiento de un carácter noble impregnado de dones espirituales. Para producir los frutos del espíritu, tenéis que haber nacido del espíritu. El espíritu es el que debe enseñaros y conduciros si queréis vivir una vida de plenitud espiritual entre vuestros semejantes». <a id="a43_288"></a>[LU 156:5.2](/es/The_Urantia_Book/156#p5_2)
 
 Compartiremos comunidad, naturaleza, oración, estudio y servicio con nuestros hermanos creyentes mientras estamos rodeados por los hermosos Flat Irons de Boulder, Colorado.
 

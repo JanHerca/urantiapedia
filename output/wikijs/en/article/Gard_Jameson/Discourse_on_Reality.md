@@ -38,7 +38,7 @@ by _Gard Jameson_
 
 There are three segments that follow: The Urantia Book **(TUB)**, the Human Source **(HS)**, and the Commentary **(C)** The use of bolding is intended to highlight the similarities in language between *The Urantia Book* quote and the quote from the text, *Creative Personality* [CP], by Ralph Tyler Flewelling.
 
-> **(TUB) “** The night before they left Alexandria Ganid and Jesus had a long visit with one of the government professors at the university who lectured on the teachings of Plato. Jesus interpreted for the learned Greek teacher but injected no teaching of his own in refutation of Greek [philosophy](http://en.wikipedia.org/wiki/Greek_philosophy). Gonod was away on business that evening; so, after the professor had departed, the teacher and his pupil had a long and heart-to-heart talk about [Plato’s doctrines](http://en.wikipedia.org/wiki/Platonic_epistemology). While Jesus gave qualified approval of some of the Greek teachings which had to do with **the theory that the material things of the world are shadowy reflections of invisible but more substantial spiritual realities**, he sought to lay a more trustworthy foundation for the lad's thinking; so he began a long dissertation concerning **the nature of reality in the universe**. In substance and in modern phraseology Jesus said to Ganid:” <a id="a40_1006"></a>[[*The Urantia Book* [UB 130:4.1](/en/The_Urantia_Book/130#p4_1)]]
+> **(TUB)** “The night before they left Alexandria Ganid and Jesus had a long visit with one of the government professors at the university who lectured on the teachings of Plato. Jesus interpreted for the learned Greek teacher but injected no teaching of his own in refutation of Greek [philosophy](http://en.wikipedia.org/wiki/Greek_philosophy). Gonod was away on business that evening; so, after the professor had departed, the teacher and his pupil had a long and heart-to-heart talk about [Plato’s doctrines](http://en.wikipedia.org/wiki/Platonic_epistemology). While Jesus gave qualified approval of some of the Greek teachings which had to do with **the theory that the material things of the world are shadowy reflections of invisible but more substantial spiritual realities**, he sought to lay a more trustworthy foundation for the lad's thinking; so he began a long dissertation concerning **the nature of reality in the universe**. In substance and in modern phraseology Jesus said to Ganid:” <a id="a40_1006"></a>[[*The Urantia Book* [UB 130:4.1](/en/The_Urantia_Book/130#p4_1)]]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/010.jpg">
@@ -70,7 +70,7 @@ The first two paragraphs of the “Discourse on Reality” have some direct coro
 
 Jesus then provides a succinct appreciation of the conditions of experience, inherent in human consciousness. As finite creatures, we possess these inherent factors of awareness which enable us to be self-conscious of, and to reflect upon, spiritual values and material causation, drawing meaning through the mind. 
 
-At the outset of this remarkable discourse, Jesus alludes to *The Plan of Progressive Attainment* <a id="a72_98"></a>[[UB 7:4.4](/en/The_Urantia_Book/7#p4_4)], to “*become as one with the Creator* . . .” With articulate and exquisite brevity, Jesus has in one paragraph covered the essential understanding of the entire cosmic arena of our very existence, the objective truth of personality, spirit, mind, and matter, alongside the subjective lens of human experience, all the while stating the divine purpose of our of very existence, the evolutionary transformation of the soul, “*Be you perfect even as I am perfect*.” [[UB 1:03.par](/en/The_Urantia_Book/1#p03_par)]
+At the outset of this remarkable discourse, Jesus alludes to *The Plan of Progressive Attainment* <a id="a72_98"></a>[[UB 7:4.4](/en/The_Urantia_Book/7#p4_4)], to “*become as one with the Creator* . . .” With articulate and exquisite brevity, Jesus has in one paragraph covered the essential understanding of the entire cosmic arena of our very existence, the objective truth of personality, spirit, mind, and matter, alongside the subjective lens of human experience, all the while stating the divine purpose of our of very existence, the evolutionary transformation of the soul, “*Be you perfect even as I am perfect*.” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
 
 \*\*\*\*\*\*\*
 
@@ -120,7 +120,7 @@ This is a simple matter of logic and insight. Flewelling’s metaphor of using a
 
 \*\*\*\*\*\*\*
 
-> **(TUB) “**Personality is that cosmic endowment, that phase of universal reality, **which can coexist with unlimited change and at the same time retain its identity** in the very presence of all such changes, and forever afterward.” <a id="a122_235"></a>[[UB 130:4.6](/en/The_Urantia_Book/130#p4_6)]
+> **(TUB)** “Personality is that cosmic endowment, that phase of universal reality, **which can coexist with unlimited change and at the same time retain its identity** in the very presence of all such changes, and forever afterward.” <a id="a122_235"></a>[[UB 130:4.6](/en/The_Urantia_Book/130#p4_6)]
 
 \*\*\* 
 
@@ -185,7 +185,7 @@ As persons we have both a moral or horizontal dimension, our *interassociation* 
 <img src="/image/article/The_Mighty_Messenger/2022_Special/016.jpg">
 </figure>
 
-> **(TUB)*** “**Only in degree does man possess mind above the animal level** aside from the higher and quasi- spiritual ministrations of intellect. Therefore animals (not having worship and wisdom) cannot experience superconsciousness, **consciousness of consciousness**. The animal mind is only conscious of the objective universe.” <a id="a187_335"></a>[[UB 130:4.9](/en/The_Urantia_Book/130#p4_9)]
+> **(TUB)** “**Only in degree does man possess mind above the animal level** aside from the higher and quasi- spiritual ministrations of intellect. Therefore animals (not having worship and wisdom) cannot experience superconsciousness, **consciousness of consciousness**. The animal mind is only conscious of the objective universe.” <a id="a187_335"></a>[[UB 130:4.9](/en/The_Urantia_Book/130#p4_9)]
 
 \*\*\* 
 

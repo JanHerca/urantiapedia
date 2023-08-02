@@ -44,7 +44,7 @@ by _Chuck Thurston_
 
 > “The early teachers of the Salem religion penetrated to the remotest tribes of Africa and Eurasia ... Urantia has never had more enthusiastic and aggressive missionaries of any religion than these noble men and women who carried the teachings of M elchizedek over the entire Eastern Hemisphere.” <a id="a44_298"></a>[[UB 94:0.1](/en/The_Urantia_Book/94#p0_1)]
 
-“The Salem missionaries spread out all over southwestern A sia, through Palestine, Mesopotamia, Egypt, Iran, and Arabia, everywhere proclaiming the good news of the gospel of Machiventa Melchizedek.” <a id="a46_200"></a>[[UB 95:0.1](/en/The_Urantia_Book/95#p0_1)]
+> “The Salem missionaries spread out all over southwestern A sia, through Palestine, Mesopotamia, Egypt, Iran, and Arabia, everywhere proclaiming the good news of the gospel of Machiventa Melchizedek.” <a id="a46_200"></a>[[UB 95:0.1](/en/The_Urantia_Book/95#p0_1)]
 
 Wouldn't it be wonderful to go back in time and hear the stirring words of these heroic missionaries? Imagine how that would enlarge and strengthen our grasp of Machiventa's teachings!
 
@@ -54,7 +54,7 @@ Wouldn't it be wonderful to go back in time and hear the stirring words of these
 
 This project, accomplished through great effort and at significant expense, provides a direct record of the “preachments” of the Salem missionaries, along with closely related insights that were inspired by the work of these noble teachers of the Salem gospel.
 
-“And it should be made plain in this record that all these teachings portraying monotheism were largely derived, directly or indirectly, from the preachments of the missionaries of Machiventa Melchizedek, who went forth from their Salem headquarters to spread the doctrine of one God - the Most High - to the ends of the earth.” <a id="a56_329"></a>[[UB 131:0.1](/en/The_Urantia_Book/131#p0_1)]
+> “And it should be made plain in this record that all these teachings portraying monotheism were largely derived, directly or indirectly, from the preachments of the missionaries of Machiventa Melchizedek, who went forth from their Salem headquarters to spread the doctrine of one God - the Most High - to the ends of the earth.” <a id="a56_329"></a>[[UB 131:0.1](/en/The_Urantia_Book/131#p0_1)]
 
 What follows is a sampling of my personal favorites from these teachings, collected under the headings of the various religions from which they were drawn. We can see that all of these religions share a common revelatory origin in the teachings of Machiventa Melchizedek, as conveyed to the world by the Salem missionaries.
 
@@ -71,7 +71,7 @@ It's also interesting, I think, to see that many of these ideas reappear in Jesu
 <figcaption><em>Unknown Cynic philosopher</em></figcaption>
 </figure>
 
-> “Creation is in the Creator and the $C$ reator in his creation. We search for the M ost High and then find him in our hearts. Y ou go in quest of a dear friend, and then you discover him within your soul.” <a id="a73_208"></a>[[UB 131:1.5](/en/The_Urantia_Book/131#p1_5)]
+> “Creation is in the Creator and the Creator in his creation. We search for the M ost High and then find him in our hearts. Y ou go in quest of a dear friend, and then you discover him within your soul.” <a id="a73_208"></a>[[UB 131:1.5](/en/The_Urantia_Book/131#p1_5)]
 
 > “Those who love their fellows and who have pure hearts shall see God. God never forgets sincerity. He will guide the honest of heart into the truth, for God is truth.” <a id="a75_170"></a>[[UB 131:1.6](/en/The_Urantia_Book/131#p1_6)]
 

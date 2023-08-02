@@ -67,7 +67,7 @@ Lake Griffin was the nature setting for a faith odyssey at the Memorial Day week
 
 Games, exercise, entertainment, workshops and worship created a well balanced and joyous experience, and produced a greater understanding of the need to come together and serve the God within each other. 
 
-“Belief has attained a level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty nor conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience. One believes truth, admires beauty, and reverences goodness, but does not worship them;such an attitude of saving faith is centered on God alone, who is all of these personified and infinitely more.” (<a id="a69_570"></a>[UB 101:8.1](/en/The_Urantia_Book/101#p8_1))
+> “Belief has attained a level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty nor conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience. One believes truth, admires beauty, and reverences goodness, but does not worship them;such an attitude of saving faith is centered on God alone, who is all of these personified and infinitely more.” (<a id="a69_570"></a>[UB 101:8.1](/en/The_Urantia_Book/101#p8_1))
 
 ## Website News Note
 

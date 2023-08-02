@@ -146,17 +146,17 @@ Las Exploraciones Visionarias se limitarán a marcos de tiempo de dos horas en l
 
 Nuestro comportamiento en Urantia Global
 
-> La experiencia se basa en la 'Regla de oro' «Trata a los demás como te gustaría que te traten» y «Ama a tu prójimo como a ti mismo», mientras nos esforzamos por elevarnos a la «Regla de platino»: «Ama a los demás como Dios ama». a ellos." <a id="a148_241"></a>[LU 140:5.3](/es/The_Urantia_Book/140#p5_3)
+> La experiencia se basa en la ‘Regla de oro’ «Trata a los demás como te gustaría que te traten» y «Ama a tu prójimo como a ti mismo», mientras nos esforzamos por elevarnos a la «Regla de platino»: «Ama a los demás como Dios los ama». <a id="a148_241"></a>[LU 140:5.3](/es/The_Urantia_Book/140#p5_3)
 
-> «Y por eso os doy este mandamiento nuevo: Que os améis unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros. » <a id="a150_174"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1)
+> «Y por eso os doy este nuevo mandamiento: Que os améis los unos a los otros como yo os he amado. De esta manera, si os amáis así los unos a los otros, todos los hombres sabrán que sois mis discípulos.» <a id="a150_174"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1)
 
-> «Si os amáis unos a otros como yo os amo, seréis mis amigos, y yo os hablaré siempre de lo que el Padre me revela». <a id="a152_118"></a>[LU 180:1.3](/es/The_Urantia_Book/180#p1_3)
+> «Si tan sólo os amáis los unos a los otros como yo os amo, seréis mis amigos y siempre os hablaré de lo que el Padre me revela». <a id="a152_118"></a>[LU 180:1.3](/es/The_Urantia_Book/180#p1_3)
 
 ### Protocolo de sesión
 
 Además, solicitamos respetuosamente que los participantes no programen ningún comité u organización durante las sesiones del Grupo de enfoque o del Equipo de visión.
 
-> «Disfrutar de privilegios sin abuso, tener libertad sin licencia, poseer poder y negarse firmemente a usarlo para el autoengrandecimiento: estas son las marcas de la alta civilización». <a id="a158_188"></a>[LU 48:7.8](/es/The_Urantia_Book/48#p7_8)
+> «Disfrutar de los privilegios sin abusar, emplear la libertad sin libertinaje, poseer el poder y negarse firmemente a utilizarlo para el engrandecimiento propio —éstos son los signos de una civilización elevada». <a id="a158_188"></a>[LU 48:7.8](/es/The_Urantia_Book/48#p7_8)
 
 ## Enlaces externos
 

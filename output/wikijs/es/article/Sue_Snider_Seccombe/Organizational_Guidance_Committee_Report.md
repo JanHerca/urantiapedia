@@ -43,7 +43,7 @@ por _Sue Snider Seccombe_
 
 Con la vista puesta en el progreso y el crecimiento, Urantia Book Fellowship creó nuestro comité ad hoc para afinar la planificación y aclarar oportunidades y estrategias futuras. Completamos 50 entrevistas en profundidad durante el verano con participantes clave en la comunidad de lectores de El libro de Urantia y ahora estamos realizando una investigación de mercado para obtener más información sobre la próxima ola de personas que pueden descubrir El libro de Urantia y cómo podemos prepararnos mejor para servirles.
 
-> «Urantia está ahora temblando al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, aceleración moral e iluminación espiritual». <a id="a45_163"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)
+> «Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual». <a id="a45_163"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)
 
 ## Cómo servimos a nuestra comunidad
 

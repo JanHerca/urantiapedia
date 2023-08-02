@@ -52,7 +52,7 @@ La información de registro aparecerá en estas páginas, así como en otras ubi
 
 Por _Angie Thurston_
 
-> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres_ <a id="a54_236"></a>[[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)]
+> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres_. <a id="a54_236"></a>[[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)]
 
 <figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005841.jpg">

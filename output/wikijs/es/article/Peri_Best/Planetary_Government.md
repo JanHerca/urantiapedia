@@ -59,11 +59,11 @@ Esta singularidad en su plan de supervisión se debe a una serie de circunstanci
 6. La ubicación en el planeta de un circuito de arcángeles.
 7. La designación más reciente del otrora encarnado Maquiventa Melquisedec como Príncipe Planetario vicerregente.
 
-Desde Pentecostés, nuestro Príncipe Planetario, Miguel de Nebadon, entregó el gobierno de Urantia a Maquiventa Melquisedec quien, a su vez, deja muchas de las funciones administrativas al consejo de 24 urantianos de un tiempo (también presiden los consejos de los otros 36 mundos en espiritualidad). cuarentena).
+Desde Pentecostés, nuestro Príncipe Planetario, Miguel de Nebadon, entregó el gobierno de Urantia a Maquiventa Melquisedec quien, a su vez, deja muchas de las funciones administrativas al consejo de 24 urantianos de un tiempo (también presiden los consejos de los otros 36 mundos en cuarentena espiritualidad).
 
 La sede del consejo de los 24 está en Jerusem y han sido designados como agentes personales de Michael. (<a id="a63_105"></a>[LU 45:4.1](/es/The_Urantia_Book/45#p4_1)) Uno del consejo de los 24 es el actual gobernador general residente. Se turnan.
 
-> Estos veinticuatro consejeros han sido reclutados de las ocho razas de Urantia, y los últimos de este grupo se reunieron en el momento del pase de lista de la resurrección de Miguel, hace mil novecientos años. <a id="a65_212"></a>[LU 45:4.2](/es/The_Urantia_Book/45#p4_2)
+> Estos veinticuatro consejeros han sido reclutados entre las ocho razas de Urantia, y los últimos de este grupo fueron convocados en la época del llamamiento nominal a la resurrección efectuado por Miguel hace mil novecientos años. <a id="a65_212"></a>[LU 45:4.2](/es/The_Urantia_Book/45#p4_2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/009.jpg">

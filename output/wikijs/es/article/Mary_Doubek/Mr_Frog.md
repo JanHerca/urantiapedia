@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/009.jpg">
 </figure>
 
-> Difícilmente puedes darte cuenta por los estrechos márgenes que tus ancestros prehumanos no lograron extinguir de vez en cuando. Si la rana ancestral de toda la humanidad hubiera saltado dos pulgadas menos en cierta ocasión, todo el curso de la evolución habría cambiado notablemente. <a id="a41_287"></a>[LU 62:3.9](/es/The_Urantia_Book/62#p3_9)
+> Apenas podéis imaginar cuán cerca estuvieron de la extinción una y otra vez vuestros antepasados prehumanos. Si la rana ancestral de toda la humanidad hubiera saltado en cierta ocasión cinco centímetros menos, todo el curso de la evolución hubiera cambiado notablemente. <a id="a41_287"></a>[LU 62:3.9](/es/The_Urantia_Book/62#p3_9)
 
 ## Enlaces externos
 

@@ -49,7 +49,7 @@ La sesión de clausura del domingo por la mañana incluirá una sesión de adora
 
 Las otras cuatro sesiones todavía están en las etapas de planificación, pero todas tendrán las cautivadoras introducciones espirituales de Bobbie Dreier. Los presentadores y líderes contarán con una gran cantidad de personal del Comité de Educación de la Fraternidad, así como con otros lectores de El libro de Urantia.
 
-Para aquellos interesados ​​en el tema de cómo Urantia es único, no falta material. La fuente más rica es [Documento 52](/es/The_Urantia_Book/52), «Planetary Mortal Epochs», y hay una gran cantidad de pruebas a lo largo del libro. Algunas ideas incluyen que somos un planeta decimal experimental; que nuestras dos primeras revelaciones se extraviaron; que nuestras próximas tres revelaciones son muy inusuales; y que Urantia está muy lejos de la línea de tiempo de desarrollo de un planeta normal. Hay muchos otros temas fascinantes y relevantes que los seminarios explorarán en julio. ¡El Comité de Educación espera verlo virtualmente!
+Para aquellos interesados ​​en el tema de cómo Urantia es único, no falta material. La fuente más rica es [Documento 52](/es/The_Urantia_Book/52), «Las épocas planetarias de los mortales», y hay una gran cantidad de pruebas a lo largo del libro. Algunas ideas incluyen que somos un planeta decimal experimental; que nuestras dos primeras revelaciones se extraviaron; que nuestras próximas tres revelaciones son muy inusuales; y que Urantia está muy lejos de la línea de tiempo de desarrollo de un planeta normal. Hay muchos otros temas fascinantes y relevantes que los seminarios explorarán en julio. ¡El Comité de Educación espera verlo virtualmente!
 
 ¡Celebraremos el 4.001^er^ aniversario de Maquiventa en 2022!
 

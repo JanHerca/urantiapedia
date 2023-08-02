@@ -252,7 +252,7 @@ El Comité de Educación está firmemente comprometido con la profundización y 
 
 ### Seminario de estudio de verano, del 21 al 26 de julio de 2010
 
-> _La relación temporal del hombre con el Supremo es el fundamento de la moralidad cósmica, la sensibilidad universal y la aceptación del deber. Esta es una moralidad que trasciende el sentido temporal del bien y el mal relativos; es una moralidad directamente basada en la apreciación de la obligación experiencial hacia la Deidad experiencial de la criatura autoconsciente._ <a id="a254_377"></a>[Documento 117:4.8](/es/The_Urantia_Book/117#p4_8)
+> _La relación temporal entre el hombre y el Supremo es la base de la moralidad cósmica, la sensibilidad universal al deber, y su aceptación. Se trata de una moralidad que trasciende el sentido temporal del bien y del mal relativos; es una moralidad basada directamente en la apreciación por parte de la criatura consciente de sí misma de una obligación experiencial hacia la Deidad experiencial._ <a id="a254_377"></a>[Documento 117:4.8](/es/The_Urantia_Book/117#p4_8)
 
 Únase a nosotros en un estudio sobre la forma en que la moralidad cósmica está moldeada por la calidad de cómo vivimos el evangelio; para nosotros, viviendo las reveladoras enseñanzas de _El Libro de Urantia_. El Comité de Educación de la Fellowship de _El Libro de Urantia_ lo invita a considerar oportunidades para enseñar y servir, posiblemente como orador plenario, facilitador de talleres/seminarios, actividades previas a la conferencia, entretenimiento, etc. Para la preinscripción para un seminario especial en la conferencia, ver el siguiente artículo.
 

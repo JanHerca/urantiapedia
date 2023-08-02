@@ -39,7 +39,7 @@ by _Robert F. Bruyn, Ph.D._
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Robert_F_Bruyn.jpg">
 </figure>
 
-Reporting on mind research, Joseph Chilton Pearce in his recent book Magical Child Matures (1) says that 95% of our mental processes are unconscious or out of our awareness. Because we are not conscious of most of our mental functioning, we know of its existence only by the effects we observe. During the past year I had the opportunity to catch a glimpse of my unconscious mind. As background let me describe briefly the nearly fatal accident I had in April 1985.
+Reporting on mind research, Joseph Chilton Pearce in his recent book Magical Child Matures[^1] says that 95% of our mental processes are unconscious or out of our awareness. Because we are not conscious of most of our mental functioning, we know of its existence only by the effects we observe. During the past year I had the opportunity to catch a glimpse of my unconscious mind. As background let me describe briefly the nearly fatal accident I had in April 1985.
 
 Driving my seldom used trail bike down the interstate toward the motorcycle inspection station, I was struck from behind by a van. I never knew (consciously) what hit me! Two nurses saved my life when they stopped to administer CPR. I was unconscious the first 24 hours and have no memory of the next two days. Besides broken ribs and scapula, ruptured spleen, and internal bleeding, I suffered a brain stem injury that left me paralyzed on my right side. But my personal experience was most influenced by the concussion that altered my conscious awareness.
 
@@ -49,7 +49,7 @@ The most powerful feeling throughout my hospitalization was, “Everything is go
 
 Where did this feeling come from? I had not consciously decided to be optimistic or to have faith. It must have come from my unconscious.
 
-_The Urantia Book_ (2) which I have been reading and studying for years, provided me with some concepts:
+_The Urantia Book_[^2] which I have been reading and studying for years, provided me with some concepts:
 
 > “If one is disposed to recognize a theoretical subconscious mind as a practical working hypothesis in the otherwise unified intellectual life, then, to be consistent one should postulate a similar and corresponding realm of ascending intellectual activity as the superconscious level, the zone of immediate contact with the indwelling spirit entity, the Thought Adjuster.” (<a id="a53_376"></a>[UB 100:5.6](/en/The_Urantia_Book/100#p5_6))
 > 
@@ -59,11 +59,6 @@ _The Urantia Book_ (2) which I have been reading and studying for years, provide
 These ideas fit my experience. Although the  blow to my head had disrupted the electrochemical mechanism of brain, it had no effect on the spiritual energy system. My “assurance” was a feeling from my superconscious, not the conscious intellect or the subconscious realm of mind which is the source of our animal fears. What the glimpse had revealed was that the unconscious could be thought of in two parts, the physical and the spiritual. Mind, in total, can be viewed holistically with a physical subconscious, intellectual conscious, and spiritual su perconscious.
 
 “Growth is always unconscious, be it physical, intellectual, or spiritual.” <a id="a60_76"></a>[UB 100:3.7](/en/The_Urantia_Book/100#p3_7) Even now, I  am continuing to become aware of what I have learned unconsciously during the past year. I count myself extremely fortunate to have made a nearly complete recovery and to be able to share part of my experience with you - not in boasting about myself but because it shows to me our Father's majestic plan of progressive creation which we have the privilege of participating in and discovering.
-
-1 Pearce, Joseph Chilton. Magical Child
-Matures. Dutton, 1985
-2 The URANTIA Book. URANTIA
-Foundation 1955 
 
 ## External Links
 
@@ -95,3 +90,8 @@ Foundation 1955
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: Pearce, Joseph Chilton. Magical Child Matures. Dutton, 1985
+[^2]: The URANTIA Book. URANTIA Foundation 1955 
