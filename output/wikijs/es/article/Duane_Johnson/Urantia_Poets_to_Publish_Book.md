@@ -41,9 +41,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Por _Duane Johnson_
 
-> «El arte prueba que el hombre no es mecánico, pero no prueba que sea espiritualmente inmortal. El arte es la morontia humana, el terreno intermedio entre el hombre material y el hombre espiritual. La poesía es un esfuerzo por huir de las realidades materiales hacia los valores espirituales.». (<a id="a43_208"></a>[LU 195:7.15](/es/The_Urantia_Book/195#p7_15))
+> «El arte prueba que el hombre no es mecánico, pero no prueba que sea espiritualmente inmortal. El arte es la morontia humana, el terreno intermedio entre el hombre material y el hombre espiritual. La poesía es un esfuerzo por huir de las realidades materiales hacia los valores espirituales.». (<a id="a43_297"></a>[LU 195:7.15](/es/The_Urantia_Book/195#p7_15))
 
-> Llevar a cabo el reconocimiento de los valores espirituales es una experiencia que sobrepasa la ideación. Ningún idioma humano posee una palabra que se pueda emplear para designar esa «sensación», «sentimiento», «intuición» o «experiencia» que hemos elegido llamar la conciencia de Dios. (<a id="a45_280"></a>[LU 103:1.6](/es/The_Urantia_Book/103#p1_6))
+> Llevar a cabo el reconocimiento de los valores espirituales es una experiencia que sobrepasa la ideación. Ningún idioma humano posee una palabra que se pueda emplear para designar esa «sensación», «sentimiento», «intuición» o «experiencia» que hemos elegido llamar la conciencia de Dios. (<a id="a45_291"></a>[LU 103:1.6](/es/The_Urantia_Book/103#p1_6))
 
 Los reveladores de _El Libro de Urantia_ nunca parecen cansarse de afirmar lo difícil que es para nosotros captar la verdadera naturaleza de la realidad espiritual. Se nos da a entender que los límites de nuestros sentidos, así como los límites de la mente humana, nos impiden comprender gran parte de la realidad más amplia de la que somos parte.
 

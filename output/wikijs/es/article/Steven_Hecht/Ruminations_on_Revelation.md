@@ -9,25 +9,49 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Steven Hecht<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Prayer_from_another_world">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración de otro mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="pr-2">Salvaguardar los símbolos de la fe de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Presentado en la Conferencia de Lectores de Nueva York/Nueva Inglaterra, noviembre de 2002)
 
 Dado que la mayor parte del material de Matthew Block aún no se ha publicado, es demasiado pronto para tratar de sacar conclusiones sobre la pedagogía de los reveladores. Pero creo que podemos empezar a reaccionar ante el hecho genérico de las fuentes humanas, aunque no sepamos o no estemos necesariamente de acuerdo con todos los detalles. Por supuesto que «sabíamos» que las fuentes humanas existían porque el libro lo dice, pero el alcance y la profundidad de la realidad han salido a la luz recientemente. Espero aprovechar la sorpresa y el desconcierto que la investigación de Matthew y Steve Dreier ha causado entre los lectores para explorar algunos temas cruciales e interesantes sobre nuestra relación con la revelación. La nueva información sobre las fuentes humanas ha hecho que muchos reevalúen algunas de sus ideas sobre las fuentes y el contenido del libro.
 
-La autorevelación se define en <a id="a40_31"></a>[[LU 101:4.3](/es/The_Urantia_Book/101#p4_3)] como _«_un resultado del trabajo del Ajustador interior; y es una revelación que hace época cuando es presentada mediante la actuación de algún otro agente, grupo o personalidad celestial_». Me centraré en la revelación de época, aunque no siempre está claro si los autores distinguen entre autorevelación y de época en sus declaraciones. Me parece que muchas de sus caracterizaciones sobre la revelación son igualmente aplicables a ambos tipos. Hay una interacción continua entre la autorevelación y la epocal, y esto sucede en un solo lugar: el escenario mental de los seres humanos.
+La autorevelación se define en <a id="a41_31"></a>[[LU 101:4.3](/es/The_Urantia_Book/101#p4_3)] como _«_un resultado del trabajo del Ajustador interior; y es una revelación que hace época cuando es presentada mediante la actuación de algún otro agente, grupo o personalidad celestial_». Me centraré en la revelación de época, aunque no siempre está claro si los autores distinguen entre autorevelación y de época en sus declaraciones. Me parece que muchas de sus caracterizaciones sobre la revelación son igualmente aplicables a ambos tipos. Hay una interacción continua entre la autorevelación y la epocal, y esto sucede en un solo lugar: el escenario mental de los seres humanos.
 
-Hacia el final del Documento 85, [«Los orígenes de la adoración,»](/es/The_Urantia_Book/85) una Brillante Estrella Vespertina nos dice: _«En el transcurso de la revelación, los Dioses formulan la religión. La religión evolutiva crea sus dioses a imagen y semejanza del hombre mortal; la religión revelada intenta que el hombre mortal evolucione y se transforme a imagen y semejanza de Dios.»_ <a id="a42_393"></a>[[LU 85:6.3](/es/The_Urantia_Book/85#p6_3)]
+Hacia el final del Documento 85, [«Los orígenes de la adoración,»](/es/The_Urantia_Book/85) una Brillante Estrella Vespertina nos dice: _«En el transcurso de la revelación, los Dioses formulan la religión. La religión evolutiva crea sus dioses a imagen y semejanza del hombre mortal; la religión revelada intenta que el hombre mortal evolucione y se transforme a imagen y semejanza de Dios.»_ <a id="a43_393"></a>[[LU 85:6.3](/es/The_Urantia_Book/85#p6_3)]
 
 Esta idea sobre la revelación parece ajustarse a la tradición occidental: la revelación forma la religión humana; la religión humana depende de la revelación para su forma y contenido. Esto podría llamarse el modelo «de arriba hacia abajo» para contemplar el significado y la función de la revelación. La humanidad es el barro y la revelación el alfarero; la humanidad es pasiva, la revelación activa. Moisés recibiendo las tablas que contienen los Diez Mandamientos es un arquetipo de este entendimiento.
 
-Pero, como con la mayoría de las cosas en el libro, se presenta al menos otra perspectiva sobre el asunto. Al hablar sobre cómo Pablo formó el cristianismo a partir de la filosofía y religión helenísticas y las enseñanzas de la cuarta revelación de época, el Brilliant Evening Star afirma: _«Sus compromisos teológicos indican que incluso la revelación debe someterse al control gradual de la evolución.»_ <a id="a46_406"></a>[[LU 89:9.3](/es/The_Urantia_Book/89#p9_3)] Y se nos dice en otra parte: _«La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla.»_ Así que _«las visitas divinas deben presentar unas enseñanzas que no estén demasiado alejadas de las ideas y reacciones de la época en que son presentadas.»_ <a id="a46_735"></a>[[LU 92:4.1](/es/The_Urantia_Book/92#p4_1)]
+Pero, como con la mayoría de las cosas en el libro, se presenta al menos otra perspectiva sobre el asunto. Al hablar sobre cómo Pablo formó el cristianismo a partir de la filosofía y religión helenísticas y las enseñanzas de la cuarta revelación de época, el Brilliant Evening Star afirma: _«Sus compromisos teológicos indican que incluso la revelación debe someterse al control gradual de la evolución.»_ <a id="a47_406"></a>[[LU 89:9.3](/es/The_Urantia_Book/89#p9_3)] Y se nos dice en otra parte: _«La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla.»_ Así que _«las visitas divinas deben presentar unas enseñanzas que no estén demasiado alejadas de las ideas y reacciones de la época en que son presentadas.»_ <a id="a47_735"></a>[[LU 92:4.1](/es/The_Urantia_Book/92#p4_1)]
 
-Una vez que los reveladores afirman que la revelación _«debe someterse al control gradual de la evolución»_ se vuelve más fácil entender por qué se les ordenó en todo momento dar prioridad a la expresión evolutiva de los conceptos humanos en lugar de la «revelación pura» de fuentes trascendentes. Entonces, en este punto, podemos entender cómo la revelación es tanto una operación «de arriba hacia abajo» como «de abajo hacia arriba». La noción tradicional de revelación de «arriba hacia abajo» puede compararse con una calle de un solo sentido. El modelo ofrecido y demostrado por la quinta revelación de época es el de una calle de doble sentido. Este segundo modelo, más progresista, permite que el hecho de la revelación nos saque de un paradigma feudal (donde nuestros ministros celestiales son nuestros señores y nosotros somos sus servidores) a donde podemos vernos como colaboradores conscientes y/o inconscientes. De hecho, la misma palabra «colaborar» se usa para describir cómo _«Melquisedec siguió colaborando durante los diecinueve siglos siguientes con numerosos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta que Miguel apareciera a su debido tiempo en la Tierra.»_ <a id="a48_1220"></a>[[LU 93:10.4](/es/The_Urantia_Book/93#p10_4)] Los resultados de parte de esta colaboración se pueden encontrar en los libros más inspiradores del Antiguo Testamento, obras que hicieron un trabajo inspirador de reafirmando las verdades traídas por la tercera revelación de época.
+Una vez que los reveladores afirman que la revelación _«debe someterse al control gradual de la evolución»_ se vuelve más fácil entender por qué se les ordenó en todo momento dar prioridad a la expresión evolutiva de los conceptos humanos en lugar de la «revelación pura» de fuentes trascendentes. Entonces, en este punto, podemos entender cómo la revelación es tanto una operación «de arriba hacia abajo» como «de abajo hacia arriba». La noción tradicional de revelación de «arriba hacia abajo» puede compararse con una calle de un solo sentido. El modelo ofrecido y demostrado por la quinta revelación de época es el de una calle de doble sentido. Este segundo modelo, más progresista, permite que el hecho de la revelación nos saque de un paradigma feudal (donde nuestros ministros celestiales son nuestros señores y nosotros somos sus servidores) a donde podemos vernos como colaboradores conscientes y/o inconscientes. De hecho, la misma palabra «colaborar» se usa para describir cómo _«Melquisedec siguió colaborando durante los diecinueve siglos siguientes con numerosos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta que Miguel apareciera a su debido tiempo en la Tierra.»_ <a id="a49_1220"></a>[[LU 93:10.4](/es/The_Urantia_Book/93#p10_4)] Los resultados de parte de esta colaboración se pueden encontrar en los libros más inspiradores del Antiguo Testamento, obras que hicieron un trabajo inspirador de reafirmando las verdades traídas por la tercera revelación de época.
 
-Esta noción de colaboración en la producción de revelación trae a colación un par de puntos interesantes. Primero, la revelación de época y la autorrevelación son realmente dos aspectos del mismo fenómeno general: la revelación y es por eso que pueden seguir alimentándose uno al otro. Esto probablemente ya sea obvio para la mayoría de nosotros, porque se nos dice que la autorrevelación del pastorcillo se convirtió en parte de las escrituras hebreas llevando adelante la verdad, la belleza y la bondad de las enseñanzas de Melquisedec. La íntima relación entre época y autorrevelación se enfatiza nuevamente cuando un Mensajero Poderoso nos dice que «_expansión conceptual difícilmente sería deseable, porque privaría a los mortales pensantes de los próximos mil años de ese estímulo a la especulación creativa que proporcionan estos conceptos parcialmente revelados. Es mejor que el hombre no reciba una revelación excesiva; eso ahoga la imaginación._»_ <a id="a50_958"></a>[[LU 30:0.2](/es/The_Urantia_Book/30#p0_2)]
+Esta noción de colaboración en la producción de revelación trae a colación un par de puntos interesantes. Primero, la revelación de época y la autorrevelación son realmente dos aspectos del mismo fenómeno general: la revelación y es por eso que pueden seguir alimentándose uno al otro. Esto probablemente ya sea obvio para la mayoría de nosotros, porque se nos dice que la autorrevelación del pastorcillo se convirtió en parte de las escrituras hebreas llevando adelante la verdad, la belleza y la bondad de las enseñanzas de Melquisedec. La íntima relación entre época y autorrevelación se enfatiza nuevamente cuando un Mensajero Poderoso nos dice que «_expansión conceptual difícilmente sería deseable, porque privaría a los mortales pensantes de los próximos mil años de ese estímulo a la especulación creativa que proporcionan estos conceptos parcialmente revelados. Es mejor que el hombre no reciba una revelación excesiva; eso ahoga la imaginación._»_ <a id="a51_958"></a>[[LU 30:0.2](/es/The_Urantia_Book/30#p0_2)]
 
-La metáfora de la revelación como una calle de dos sentidos puede transformarse en la imagen de una rotonda, o rotatoria, como las llamamos en Massachusetts. Para mantener ese movimiento rotatorio, para que la revelación siga siendo tanto progresiva como evolutiva (como se indica en <a id="a52_284"></a>[LU 92:4.1](/es/The_Urantia_Book/92#p4_1)), el flujo de autorevelación y de época debe continuar alimentando el rotativo de manera regular y equilibrada. Si la revelación de época no se complementa con un grado adecuado de mayor receptividad humana para la autorrevelación, entonces tenemos el problema que acabamos de discutir, llamado «sobre-revelación» y la circunstancia concomitante de sofocar la imaginación humana; de hecho, una terrible maldición para cualquier generación. Si la autorrevelación se lleva a cabo sin un marco cósmico adecuado para la comprensión, el riesgo se incrementa considerablemente _«para precipitar una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso.»_ <a id="a52_1015"></a>[[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)]
+La metáfora de la revelación como una calle de dos sentidos puede transformarse en la imagen de una rotonda, o rotatoria, como las llamamos en Massachusetts. Para mantener ese movimiento rotatorio, para que la revelación siga siendo tanto progresiva como evolutiva (como se indica en <a id="a53_284"></a>[LU 92:4.1](/es/The_Urantia_Book/92#p4_1)), el flujo de autorevelación y de época debe continuar alimentando el rotativo de manera regular y equilibrada. Si la revelación de época no se complementa con un grado adecuado de mayor receptividad humana para la autorrevelación, entonces tenemos el problema que acabamos de discutir, llamado «sobre-revelación» y la circunstancia concomitante de sofocar la imaginación humana; de hecho, una terrible maldición para cualquier generación. Si la autorrevelación se lleva a cabo sin un marco cósmico adecuado para la comprensión, el riesgo se incrementa considerablemente _«para precipitar una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso.»_ <a id="a53_1015"></a>[[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)]
 
 No me sorprendería si nuestros administradores planetarios controlan la simetría de la interfaz global entre la época y la autorrevelación. Ahora que recientemente hemos recibido una contribución trascendental a la cultura y la religión planetarias, quizás nuestros cuidadores celestiales estén anticipando una mejora compensatoria en la capacidad de los urantianos para mantener una comunicación segura y constante con sus Ajustadores del Pensamiento. Es interesante notar que nuestros amigos celestiales están dispuestos a retener la revelación de época en aras de promover la imaginación humana. La capacidad de la imaginación humana para aumentar la receptividad a la autorrevelación entre los individuos podría ser tema de otro ensayo. ¡Quizás los reveladores están esperando ver cómo y cuándo aplicamos nuestra imaginación recién fortalecida para mejorar los efectos globales de la misma revelación que los ha estimulado! La revelación de época es capaz de mejorar la capacidad de nuestro superconsciente para recibir y expresar autorevelación. A medida que nuestra imaginación recibe el combustible de la inspiración de la auto-revelación, podemos volvernos más efectivos en la difusión de las buenas nuevas de la revelación de época en toda su verdad, bondad y belleza. Este es el tipo de trabajo que Melquisedec hizo con los profetas y poetas hebreos, el tipo de trabajo que hizo para ayudar a instigar el renacimiento religioso global del siglo VI a.C. ¿Alguien quiere eso? ¡Nuestra imaginación puede funcionar social, política, económica, ecológica, tecnológica, artística, filosófica, ética y religiosa al menos para empezar!
 
@@ -49,7 +73,7 @@ El futuro de las verdades expresadas en _El Libro de Urantia_ depende en parte d
 
 Para terminar, me gustaría recordarles a todos cómo el Maestro expresó su apreciación equilibrada por el valor siempre constante de la verdad «antigua» mientras mantenía una apertura intrépida para el advenimiento de la nueva.
 
-Entonces el Maestro procedió a advertir a sus oyentes que no aceptaran la idea de que todas las enseñanzas antiguas deberían ser reemplazadas completamente por nuevas doctrinas. Dijo Jesús: «_Lo que es antiguo, pero también verdadero, debe permanecer. De la misma manera, lo que es nuevo, pero falso, debe ser rechazado. Tened la fe y el valor de aceptar lo que es nuevo y también verdadero. Recordad que está escrito: ‘No abandonéis a un viejo amigo, porque el nuevo no es comparable con él. Un amigo nuevo es como el vino nuevo; si se vuelve viejo, lo beberéis con alegría’_». <a id="a74_579"></a>[[LU 147:7.3](/es/The_Urantia_Book/147#p7_3)]
+Entonces el Maestro procedió a advertir a sus oyentes que no aceptaran la idea de que todas las enseñanzas antiguas deberían ser reemplazadas completamente por nuevas doctrinas. Dijo Jesús: «_Lo que es antiguo, pero también verdadero, debe permanecer. De la misma manera, lo que es nuevo, pero falso, debe ser rechazado. Tened la fe y el valor de aceptar lo que es nuevo y también verdadero. Recordad que está escrito: ‘No abandonéis a un viejo amigo, porque el nuevo no es comparable con él. Un amigo nuevo es como el vino nuevo; si se vuelve viejo, lo beberéis con alegría’_». <a id="a75_579"></a>[[LU 147:7.3](/es/The_Urantia_Book/147#p7_3)]
 
 > Steven Hecht vive en Acton, MA con su esposa Dori Smith. Desde que encontró _El Libro de Urantia_ en 1970, ha sido una influencia determinante en su vida. Prefiere pensar en las enseñanzas del libro no como un mapa sino como una partitura musical, madura para la improvisación y la interpretación, del mismo modo que la vida de Jesús no es un modelo a imitar, sino una vida que inspira la propia.
 {.is-info}
@@ -59,3 +83,28 @@ Entonces el Maestro procedió a advertir a sus oyentes que no aceptaran la idea 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Prayer_from_another_world">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración de otro mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="pr-2">Salvaguardar los símbolos de la fe de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

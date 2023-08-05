@@ -85,7 +85,7 @@ De profesión, Sue es consultora de investigación de mercado y ha sido moderado
 
 Esas habilidades serán útiles para servir en el Consejo General.
 
-> El servicio social es el resultado de una manera moral de pensar y religiosa de vivir. <a id="a87_83"></a>[LU 5:5.4](/es/The_Urantia_Book/5#p5_4)
+> El servicio social es el resultado de una manera moral de pensar y religiosa de vivir. <a id="a87_89"></a>[LU 5:5.4](/es/The_Urantia_Book/5#p5_4)
 
 ## Enlaces externos
 

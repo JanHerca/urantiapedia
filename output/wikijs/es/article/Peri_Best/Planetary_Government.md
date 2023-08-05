@@ -63,7 +63,7 @@ Desde Pentecostés, nuestro Príncipe Planetario, Miguel de Nebadon, entregó el
 
 La sede del consejo de los 24 está en Jerusem y han sido designados como agentes personales de Michael. (<a id="a63_105"></a>[LU 45:4.1](/es/The_Urantia_Book/45#p4_1)) Uno del consejo de los 24 es el actual gobernador general residente. Se turnan.
 
-> Estos veinticuatro consejeros han sido reclutados entre las ocho razas de Urantia, y los últimos de este grupo fueron convocados en la época del llamamiento nominal a la resurrección efectuado por Miguel hace mil novecientos años. <a id="a65_212"></a>[LU 45:4.2](/es/The_Urantia_Book/45#p4_2)
+> Estos veinticuatro consejeros han sido reclutados entre las ocho razas de Urantia, y los últimos de este grupo fueron convocados en la época del llamamiento nominal a la resurrección efectuado por Miguel hace mil novecientos años. <a id="a65_233"></a>[LU 45:4.2](/es/The_Urantia_Book/45#p4_2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/009.jpg">

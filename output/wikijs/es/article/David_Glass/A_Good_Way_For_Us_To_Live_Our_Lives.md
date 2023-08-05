@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Glass<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Casting_Pearls_Before_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arrojando perlas antes de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una ley que el Maestro compartió con todos nosotros;
 Un precepto que supera todo pensamiento;
@@ -37,9 +58,30 @@ Y la vida de abajo se parece a la vida de arriba.
 
 David E. Glass Plano, TX
 
-> «Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es.» [[LU 117:4.14](/es/The_Urantia_Book/117#p4_14)]  
+> «Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es.» <a id="a60_175"></a>[[LU 117:4.14](/es/The_Urantia_Book/117#p4_14)]  
 
 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Casting_Pearls_Before_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arrojando perlas antes de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

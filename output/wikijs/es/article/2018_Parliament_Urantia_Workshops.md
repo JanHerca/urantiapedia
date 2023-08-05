@@ -61,7 +61,7 @@ La presencia pública de cuatro décadas de Pato Banton ha trascendido cada vez 
 
 Asegúrese de ver su hermosa actuación en el Parlamento de las Religiones del Mundo 2018 mientras presentan las Buenas Nuevas de la Libertad Espiritual y la música inspiradora de su CD recién lanzado titulado «¡El amor es el más grande!» https://www.youtube.com/watch?v=NurBEzUap5o
 
-> «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a63_71"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
+> «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a63_76"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
 
 Para obtener más información, visite: www.patobanton.com y www.facebook.com/groups/patobantonsspiritualfamily
 

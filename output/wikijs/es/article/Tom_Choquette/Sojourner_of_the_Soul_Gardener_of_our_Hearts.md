@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Tom Choquette<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Nuestra Madre Espíritu, el Espíritu Santo, el Dador de la Mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclamar el jubileo de jubileos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Este compartir se basa en mi viaje personal hacia la asociación con el Espíritu de la Verdad. El espíritu de nuestro amado Jesús, nuestro entrenador espiritual y verdadero norte, el jardinero de nuestros corazones, reside dentro de aquellos que son honestos y sinceros de corazón y están dispuestos a cumplir Sus órdenes.
@@ -50,7 +74,7 @@ Estos descubrimientos no tienen una cronología particular. No están en orden d
 
 La venida del Espíritu de la Verdad en Pentecostés nos dotó de la capacidad de perdonar las heridas personales. Considere esta cita:
 
-> «Pentecostés dotó al hombre mortal del poder de perdonar las ofensas personales, de conservar la dulzura en medio de las peores injusticias, de permanecer impasible ante unos peligros aterradores, y de desafiar los males del odio y de la ira mediante los actos intrépidos del amor y la indulgencia.» <a id="a75_302"></a>[[LU 194:3.12](/es/The_Urantia_Book/194#p3_12)]
+> «Pentecostés dotó al hombre mortal del poder de perdonar las ofensas personales, de conservar la dulzura en medio de las peores injusticias, de permanecer impasible ante unos peligros aterradores, y de desafiar los males del odio y de la ira mediante los actos intrépidos del amor y la indulgencia.» <a id="a76_302"></a>[[LU 194:3.12](/es/The_Urantia_Book/194#p3_12)]
 
 Esta cita fue el comienzo de una toma de conciencia de cómo lo Divino se comunica claramente con cada uno de nosotros y nos empodera, quizás no en ningún idioma del reino, sino en el «lenguaje de los dioses». El Espíritu de la Verdad fue derramado sobre este mundo en Pentecostés. Me di cuenta de que nuestra capacidad de perdonar, promover la paz o ministrar misericordia estaba directamente ligada a nuestra relación con el Espíritu de la Verdad, con Jesús. Más importante aún es el perdón del Hijo que fluye de nuestro interior, si lo permitimos. Con nuestro permiso aprendemos a perdonar, promover la paz y comprender el lenguaje de la misericordia del Hijo. _Esta es la verdadera comunión ***consciente*** con el Hijo a través del Espíritu de la Verdad. _
 
@@ -75,7 +99,7 @@ Los amo a todos este día, y los días infinitos por venir. Tomás
 
 Lo que sigue es una lista de citas sobre nuestro asombroso Espíritu de la Verdad. Disfrutar. Hoy es un día para leer, recordar y **_actuar en consecuencia._**
 
-Referencias de estudio de _El Libro de Urantia_ <a id="a100_48"></a>[[LU 0:12.13](/es/The_Urantia_Book/0#p12_13)], <a id="a100_95"></a>[[LU 34:5.4](/es/The_Urantia_Book/34#p5_4)], <a id="a100_140"></a>[[LU 34:5.5 ](/es/The_Urantia_Book/34#p5_5)], <a id="a100_186"></a>[[LU 34:5.7](/es/The_Urantia_Book/34#p5_7)], <a id="a100_231"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)] , <a id="a100_277"></a>[[LU 52:5.4](/es/The_Urantia_Book/52#p5_4)], <a id="a100_322"></a>[[LU 101:1.3](/es/The_Urantia_Book/101#p1_3)], <a id="a100_369"></a>[[LU 101:2.12](/es/The_Urantia_Book/101#p2_12)], <a id="a100_418"></a>[[LU 101:3.2](/es/The_Urantia_Book/101#p3_2)], <a id="a100_465"></a>[[LU 101:6.4](/es/The_Urantia_Book/101#p6_4)], <a id="a100_512"></a>[[LU 108 :2.2](/es/The_Urantia_Book/108#p2_2)], <a id="a100_560"></a>[[LU 108:2.3](/es/The_Urantia_Book/108#p2_3)], [[LU 108:6.2](/es/The_Urantia_Book/108#p6_2 )], <a id="a100_655"></a>[[LU 113:4.6](/es/The_Urantia_Book/113#p4_6)], <a id="a100_702"></a>[[LU 117:5.9](/es/The_Urantia_Book/117#p5_9)], [[LU 137:8.7](/ en/The_Urantia_Book/137#p8_7)], <a id="a100_797"></a>[[LU 146:3.6](/es/The_Urantia_Book/146#p3_6)], <a id="a100_844"></a>[[LU 176:3.7](/es/The_Urantia_Book/176#p3_7)], <a id="a100_891"></a>[[LU 180:4.5](/es/The_Urantia_Book/180#p4_5)], [180:5], [[LU 191:6.2](/es/ The_Urantia_Book/191#p6_2)], <a id="a100_995"></a>[[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)], <a id="a100_1042"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)], todos de [Paper 194](/es/The_Urantia_Book/194)
+Referencias de estudio de _El Libro de Urantia_ <a id="a101_48"></a>[[LU 0:12.13](/es/The_Urantia_Book/0#p12_13)], <a id="a101_95"></a>[[LU 34:5.4](/es/The_Urantia_Book/34#p5_4)], <a id="a101_140"></a>[[LU 34:5.5 ](/es/The_Urantia_Book/34#p5_5)], <a id="a101_186"></a>[[LU 34:5.7](/es/The_Urantia_Book/34#p5_7)], <a id="a101_231"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)] , <a id="a101_277"></a>[[LU 52:5.4](/es/The_Urantia_Book/52#p5_4)], <a id="a101_322"></a>[[LU 101:1.3](/es/The_Urantia_Book/101#p1_3)], <a id="a101_369"></a>[[LU 101:2.12](/es/The_Urantia_Book/101#p2_12)], <a id="a101_418"></a>[[LU 101:3.2](/es/The_Urantia_Book/101#p3_2)], <a id="a101_465"></a>[[LU 101:6.4](/es/The_Urantia_Book/101#p6_4)], <a id="a101_512"></a>[[LU 108 :2.2](/es/The_Urantia_Book/108#p2_2)], <a id="a101_560"></a>[[LU 108:2.3](/es/The_Urantia_Book/108#p2_3)], [[LU 108:6.2](/es/The_Urantia_Book/108#p6_2 )], <a id="a101_655"></a>[[LU 113:4.6](/es/The_Urantia_Book/113#p4_6)], <a id="a101_702"></a>[[LU 117:5.9](/es/The_Urantia_Book/117#p5_9)], [[LU 137:8.7](/ en/The_Urantia_Book/137#p8_7)], <a id="a101_797"></a>[[LU 146:3.6](/es/The_Urantia_Book/146#p3_6)], <a id="a101_844"></a>[[LU 176:3.7](/es/The_Urantia_Book/176#p3_7)], <a id="a101_891"></a>[[LU 180:4.5](/es/The_Urantia_Book/180#p4_5)], [180:5], [[LU 191:6.2](/es/ The_Urantia_Book/191#p6_2)], <a id="a101_995"></a>[[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)], <a id="a101_1042"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)], todos de [Paper 194](/es/The_Urantia_Book/194)
 
 Tom Choquette en la Conferencia Internacional Urantia Book Fellowship 2011
 
@@ -83,3 +107,28 @@ Tom Choquette en la Conferencia Internacional Urantia Book Fellowship 2011
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Nuestra Madre Espíritu, el Espíritu Santo, el Dador de la Mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclamar el jubileo de jubileos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

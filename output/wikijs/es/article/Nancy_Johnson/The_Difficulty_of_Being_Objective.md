@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Nang Johnson<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los patrones de la revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Words_of_Wisdom">
+          <span class="pr-2">Palabras de Sabiduría</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 He estado reflexionando sobre los atributos y actitudes de Dios durante estos muchos años y me maravillo cada vez más de cómo Él siempre puede ser objetivo sobre todo lo que sucede. Lo entiende todo tan perfectamente que cuando clavaron a su hijo en la cruz, «los amó» tanto como a Cristo y los perdonó incluso antes de que se lo pidieran. Debe haber visto la situación bajo una luz completamente diferente a la nuestra.
@@ -25,7 +49,7 @@ Me puse bajo un microscopio para observar mis propias reacciones ante situacione
 
 El problema más complicado con el que nos encontramos fue que en realidad estamos siendo subjetivos cuando pensamos que estamos siendo objetivos. Con el tiempo se convirtió en un juego mental, y finalmente llegamos al punto en el que podíamos reírnos de nosotros mismos cuando estábamos atrapados en el acto de ser subjetivos. Es aún mejor cuando nos atrapamos a nosotros mismos.
 
-_El Libro de Urantia_ dice en <a id="a50_30"></a>[[LU 100:1.2](/es/The_Urantia_Book/100#p1_2)] que la ignorancia y el prejuicio son los mayores inhibidores del crecimiento. Es difícil separar los dos o averiguar cuál viene primero. ¿Somos ignorantes porque estamos tan envueltos en nuestros sentimientos y emociones e ideas preconcebidas que no podemos ver el bosque por los árboles? ¿O malinterpretamos y distorsionamos la realidad porque somos ignorantes? No podemos ver la realidad como Dios la ve; eso es seguro. De hecho, difícilmente podemos salir de una situación lo suficientemente lejos como para verla como la ven los ángeles.
+_El Libro de Urantia_ dice en <a id="a51_30"></a>[[LU 100:1.2](/es/The_Urantia_Book/100#p1_2)] que la ignorancia y el prejuicio son los mayores inhibidores del crecimiento. Es difícil separar los dos o averiguar cuál viene primero. ¿Somos ignorantes porque estamos tan envueltos en nuestros sentimientos y emociones e ideas preconcebidas que no podemos ver el bosque por los árboles? ¿O malinterpretamos y distorsionamos la realidad porque somos ignorantes? No podemos ver la realidad como Dios la ve; eso es seguro. De hecho, difícilmente podemos salir de una situación lo suficientemente lejos como para verla como la ven los ángeles.
 
 En cierto sentido, cada uno de nosotros ve la realidad como si fuéramos el centro del universo. Ciertamente comenzamos de esa manera, conscientes solo de nuestras propias necesidades, deseos y sentimientos. Todo lo demás está fuera de nuestro «centro» y eventualmente llegamos a tener muchos pensamientos y opiniones y más y más sentimientos sobre lo que sucede «allá afuera». Se dice que cuando tenemos seis años nuestras actitudes están bastante establecidas. Los niños rara vez cuestionan lo que realmente está sucediendo «allá afuera» o por qué; su principal preocupación es cómo les afecta. Se ocupan en aprender formas de hacer que las cosas salgan como ellos quieren. Y cómo quieren que les vaya depende de cómo han aprendido a sentirse acerca de sí mismos y de su entorno.
 
@@ -33,19 +57,19 @@ Una vez establecidas, esas actitudes, opiniones y sentimientos son parte de noso
 
 La realidad es lo que sea, nada puede cambiar eso. Eso es objetivo. Nos parece diferente a cada uno de nosotros porque lo vemos desde nuestro propio centro del universo, y eso hace que nuestro punto de vista sea subjetivo.
 
-Gracias al cielo por las vicisitudes de la existencia y ciertas inevitabilidades que debemos enfrentar. <a id="a58_104"></a>[[LU 3:5.5-13](/es/The_Urantia_Book/3#p5_5)] Esencialmente, vicisitud significa cambio. Implica un cambio lo suficientemente grande como para constituir una reversión de lo que ha sido y por medios que están fuera de nuestro control. En el plan de evolución de las criaturas, se supone que debemos cambiar de subjetivo (y egocéntrico) a objetivo (como Dios). Estamos seguros que produce alegría. Estamos seguros de que esta alegría es nuestra para los que se esfuerzan.
+Gracias al cielo por las vicisitudes de la existencia y ciertas inevitabilidades que debemos enfrentar. <a id="a59_104"></a>[[LU 3:5.5-13](/es/The_Urantia_Book/3#p5_5)] Esencialmente, vicisitud significa cambio. Implica un cambio lo suficientemente grande como para constituir una reversión de lo que ha sido y por medios que están fuera de nuestro control. En el plan de evolución de las criaturas, se supone que debemos cambiar de subjetivo (y egocéntrico) a objetivo (como Dios). Estamos seguros que produce alegría. Estamos seguros de que esta alegría es nuestra para los que se esfuerzan.
 
 El dolor o las reacciones negativas que experimentamos solo pueden provenir de resistir los cambios necesarios. A menudo experimentamos incomodidad en una situación y, sinceramente, no sabemos que se debe a que nos resistimos a algún cambio necesario. La mayoría de las religiones enseñan algo sobre las virtudes del sufrimiento prolongado, y si lo aceptamos y somos valientes al respecto, es posible que no se nos ocurra investigar qué es lo que estamos haciendo nosotros mismos que está causando la incomodidad. Simplemente lo aceptamos y descubrimos que somos mejores personas por haber soportado con valentía. Eso ciertamente puede ser cierto, pero eso no significa que fuera necesario. Tenemos control total sobre cuánta incomodidad experimentamos en nuestro ascenso al Paraíso, y es en proporción exacta a cuánto nos resistimos al cambio de lo subjetivo a lo objetivo. Entonces, aunque nuestra resistencia puede no ser intencional, produce incomodidad.
 
-La mayor parte de nuestra incomodidad es intencional pero inconsciente. Nos aferramos tenazmente a nuestras ideas de lo que consideramos correcto o incorrecto. Las partes de ambos lados de un desacuerdo se consideran correctas, o al menos sostienen que la otra parte está equivocada; de lo contrario, no habría desacuerdo. Ambos lados probablemente tengan razón, y probablemente ambos estén equivocados. Podemos ver cómo otros a menudo cometen ese error, pero tenemos grandes dificultades para ser objetivos en lo que respecta a nuestros propios sistemas de valores. Se nos dice muy claramente en <a id="a62_597"></a>[[LU 48:6.33](/es/The_Urantia_Book/48#p6_33)] que _«uno puede llevar técnicamente razón en cuanto a los hechos, y estar eternamente equivocado en cuanto a la verdad.»._ Criaturas subjetivas que somos , probablemente lo interpretamos como una garantía de que aquellos que están en desacuerdo con nosotros están equivocados. Nuestros propios puntos de vista son «correctos», por supuesto, o no creeríamos en ellos. Podemos corregir este desequilibrio intercambiando puntos de vista y tratando de defender el de ellos contra el nuestro. Podemos ver nuestros puntos de vista más claramente entonces.
+La mayor parte de nuestra incomodidad es intencional pero inconsciente. Nos aferramos tenazmente a nuestras ideas de lo que consideramos correcto o incorrecto. Las partes de ambos lados de un desacuerdo se consideran correctas, o al menos sostienen que la otra parte está equivocada; de lo contrario, no habría desacuerdo. Ambos lados probablemente tengan razón, y probablemente ambos estén equivocados. Podemos ver cómo otros a menudo cometen ese error, pero tenemos grandes dificultades para ser objetivos en lo que respecta a nuestros propios sistemas de valores. Se nos dice muy claramente en <a id="a63_597"></a>[[LU 48:6.33](/es/The_Urantia_Book/48#p6_33)] que _«uno puede llevar técnicamente razón en cuanto a los hechos, y estar eternamente equivocado en cuanto a la verdad.»._ Criaturas subjetivas que somos , probablemente lo interpretamos como una garantía de que aquellos que están en desacuerdo con nosotros están equivocados. Nuestros propios puntos de vista son «correctos», por supuesto, o no creeríamos en ellos. Podemos corregir este desequilibrio intercambiando puntos de vista y tratando de defender el de ellos contra el nuestro. Podemos ver nuestros puntos de vista más claramente entonces.
 
 Una de nuestras formas favoritas de resistir el cambio también es intencional pero inconsciente. Culpamos a los demás por cualquier miseria que se cruce en nuestro camino. Sabemos que no nos haríamos miserables intencionalmente, por lo que es obvio que alguien más nos está haciendo esto, y siempre podemos encontrar a alguien a quien culpar. La psicología ha dado grandes pasos en los últimos años. Si nos hemos mantenido al tanto de los últimos hallazgos, podemos ver fácilmente que no importa lo que alguien más «nos haga», tenemos un control estricto de cuánto sufrimos como resultado. Y si la elección es nuestra, también lo es la responsabilidad de esa elección.
 
 Si es cierto lo que leemos sobre estas personas que pueden caminar descalzas sobre un lecho de brasas al rojo vivo sin ningún signo de quemazón o dolor, podemos inferir que todos nosotros también tenemos control sobre el dolor físico. Simplemente no hemos aprendido el truco todavía. Sabemos que existen condiciones llamadas baja y alta tolerancia al dolor. Las personas con baja tolerancia al dolor a menudo piensan que las personas con alta tolerancia al dolor simplemente tienen suerte. Puede ser que las personas con alta tolerancia al dolor hagan su propia «suerte» con su actitud. La mayoría admitirá que simplemente no prestan a su dolor más atención de la necesaria para que desaparezca, y se ocupan de algún tipo de trabajo que consideran más importante que el dolor. Es una técnica de insistir menos en el yo y más en lo que el yo está haciendo, y ese es un paso hacia la objetividad.
 
-En <a id="a68_3"></a>[[LU 48:6.26](/es/The_Urantia_Book/48#p6_26)] encontramos apoyo para esta técnica. Dice que el trabajo que estamos haciendo es importante. El yo no lo es. Es una forma práctica de deshacerse del dolor físico, pero la encontramos más notablemente efectiva para deshacernos de una carga psicológica provocada por el ego. ¿Quién de nosotros no ha tenido nuestras plumas erizadas más a menudo de lo que queremos admitir? ¿Y con qué frecuencia el verdadero gozo de algunos de nuestros mejores esfuerzos se ha visto empañado porque no recibimos la recompensa o el aprecio que esperábamos? Continúa diciendo que perdemos mucha energía por el desgaste de la dignidad del ego y cuánto más podemos lograr cuando corregimos ese problema. Es más fácil decirlo que hacerlo, ¡pero piense en todos los problemas y la energía que nos ahorraríamos si no nos resistiéramos al cambio!
+En <a id="a69_3"></a>[[LU 48:6.26](/es/The_Urantia_Book/48#p6_26)] encontramos apoyo para esta técnica. Dice que el trabajo que estamos haciendo es importante. El yo no lo es. Es una forma práctica de deshacerse del dolor físico, pero la encontramos más notablemente efectiva para deshacernos de una carga psicológica provocada por el ego. ¿Quién de nosotros no ha tenido nuestras plumas erizadas más a menudo de lo que queremos admitir? ¿Y con qué frecuencia el verdadero gozo de algunos de nuestros mejores esfuerzos se ha visto empañado porque no recibimos la recompensa o el aprecio que esperábamos? Continúa diciendo que perdemos mucha energía por el desgaste de la dignidad del ego y cuánto más podemos lograr cuando corregimos ese problema. Es más fácil decirlo que hacerlo, ¡pero piense en todos los problemas y la energía que nos ahorraríamos si no nos resistiéramos al cambio!
 
-<a id="a70_0"></a>[[LU 48:6-7](/es/The_Urantia_Book/48#p6)] está lleno de ideas con las que podemos ayudarnos. Hacemos muchos planes en nuestras vidas que incluyen a otras personas: matrimonio, familia, trabajo, amigos, grupos, etc. Cuanto más subjetivos somos sobre lo que esperamos de estas relaciones, más seguros podemos estar de las decepciones. Una actitud subjetiva inconsciente se expresa aquí en forma ligeramente exagerada por: «No puedo controlarme a mí mismo, así que debo controlar a los demás para asegurar mi felicidad (o paz mental)». Objetivamente, es más probable que lo contrario tenga éxito: «No puedo controlar a los demás, pero _puedo_ controlarme a mí mismo, y seré responsable de mi propia felicidad (o paz mental)».
+<a id="a71_0"></a>[[LU 48:6-7](/es/The_Urantia_Book/48#p6)] está lleno de ideas con las que podemos ayudarnos. Hacemos muchos planes en nuestras vidas que incluyen a otras personas: matrimonio, familia, trabajo, amigos, grupos, etc. Cuanto más subjetivos somos sobre lo que esperamos de estas relaciones, más seguros podemos estar de las decepciones. Una actitud subjetiva inconsciente se expresa aquí en forma ligeramente exagerada por: «No puedo controlarme a mí mismo, así que debo controlar a los demás para asegurar mi felicidad (o paz mental)». Objetivamente, es más probable que lo contrario tenga éxito: «No puedo controlar a los demás, pero _puedo_ controlarme a mí mismo, y seré responsable de mi propia felicidad (o paz mental)».
 
 Todos los días, en muchos sentidos, somos subjetivos. Cada vez que sentimos la más mínima molestia, física o emocional, probablemente podamos rastrear la causa hasta alguna actitud u opinión subjetiva que no estamos dispuestos a ceder. Algunos de estos ni siquiera los admitiríamos a nosotros mismos, y mucho menos a nadie más, por lo que nos ocupamos de «crecer espiritualmente». Eso es algo así como tratar de construir una casa sin cimientos: el primer mal viento que se presente la derribará. Observe con qué frecuencia el libro se refiere a nuestro crecimiento físico (emocional), mental y espiritual, y observe también que siempre se presenta en ese orden. Supongo que fue intencional.
 
@@ -68,3 +92,28 @@ Así que tal vez sería prudente contentarnos con la conciencia de que somos cas
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los patrones de la revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Words_of_Wisdom">
+          <span class="pr-2">Palabras de Sabiduría</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

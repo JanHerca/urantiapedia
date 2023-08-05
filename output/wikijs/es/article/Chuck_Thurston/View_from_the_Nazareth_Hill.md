@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> «Por este motivo, José tenía la costumbre de llevarse de paseo a Jesús los sábados por la tarde; una de sus caminatas favoritas consistía en subir a la alta colina cercana a su casa, de donde podían contemplar una vista panorámica de toda Galilea». <a id="a43_236"></a>[LU 123:5.12](/es/The_Urantia_Book/123#p5_12)
+> «Por este motivo, José tenía la costumbre de llevarse de paseo a Jesús los sábados por la tarde; una de sus caminatas favoritas consistía en subir a la alta colina cercana a su casa, de donde podían contemplar una vista panorámica de toda Galilea». <a id="a43_251"></a>[LU 123:5.12](/es/The_Urantia_Book/123#p5_12)
 
 
 

@@ -37,9 +37,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 por _Gard Jameson_
 
-> **(TUB)** «Mardus era el jefe reconocido de los cínicos de Roma, y se hizo muy amigo del escriba de Damasco. Día tras día conversaba con Jesús, y noche tras noche escuchaba su enseñanza celestial. Entre las discusiones más importantes con Mardus, hubo una destinada a responder a la pregunta de este cínico sincero sobre el bien y el mal. Transcrito al lenguaje del siglo veinte, Jesús le dijo en esencia:» <a id="a39_414"></a>[*El libro de Urantia* [LU 132:2.1](/es/The_Urantia_Book/132#p2_1)]
+> **(TUB)** «Mardus era el jefe reconocido de los cínicos de Roma, y se hizo muy amigo del escriba de Damasco. Día tras día conversaba con Jesús, y noche tras noche escuchaba su enseñanza celestial. Entre las discusiones más importantes con Mardus, hubo una destinada a responder a la pregunta de este cínico sincero sobre el bien y el mal. Transcrito al lenguaje del siglo veinte, Jesús le dijo en esencia:» <a id="a39_409"></a>[*El libro de Urantia* [LU 132:2.1](/es/The_Urantia_Book/132#p2_1)]
 
-> «Hermano mío, el bien y el mal son simplemente unas palabras que simbolizan los **niveles relativos** de comprensión humana del universo observable. Si eres **éticamente perezoso** y socialmente indiferente, puedes coger como modelo del bien las costumbres **sociales corrientes**. Si eres espiritualmente indolente y moralmente estático, puedes coger como modelo del bien las **prácticas y tradiciones religiosas** de tus contemporáneos. Pero el alma que sobrevive al tiempo y emerge en la eternidad debe efectuar una elección viviente y personal entre el bien y el mal, tal como éstos están determinados por los verdaderos valores de las normas espirituales establecidas por el espíritu divino que el Padre que está en los cielos ha enviado a residir en el corazón del hombre. Este espíritu interior es la norma de la supervivencia de la personalidad». <a id="a41_812"></a>[[LU 132:2.2](/es/The_Urantia_Book/132#p2_2)]
+> «Hermano mío, el bien y el mal son simplemente unas palabras que simbolizan los **niveles relativos** de comprensión humana del universo observable. Si eres **éticamente perezoso** y socialmente indiferente, puedes coger como modelo del bien las costumbres **sociales corrientes**. Si eres espiritualmente indolente y moralmente estático, puedes coger como modelo del bien las **prácticas y tradiciones religiosas** de tus contemporáneos. Pero el alma que sobrevive al tiempo y emerge en la eternidad debe efectuar una elección viviente y personal entre el bien y el mal, tal como éstos están determinados por los verdaderos valores de las normas espirituales establecidas por el espíritu divino que el Padre que está en los cielos ha enviado a residir en el corazón del hombre. Este espíritu interior es la norma de la supervivencia de la personalidad». <a id="a41_857"></a>[[LU 132:2.2](/es/The_Urantia_Book/132#p2_2)]
 
 \*\*\*
 
@@ -49,9 +49,9 @@ por _Gard Jameson_
 
 \*\*\*
 
-**(C)** El problema del bien y el mal es uno de los mayores problemas de la vida. Como declaró Epicuro (p. ej., con respecto a salvar a un niño que tiene un tumor cerebral): «¿Está Dios dispuesto a prevenir el mal, pero no puede? Entonces el no es omnipotente. ¿Él puede, pero no está dispuesto? Entonces él es malévolo». ¿Cómo reconciliamos una Deidad todopoderosa y buena con el hecho de tanto mal: genocidio, racismo, belicismo, enfermedades horribles, gran devastación natural? Estas son las preguntas que capturan la imaginación de las personas reflexivas. Como sugiere Flewelling, las personas perezosas e irreflexivas recurren a las normas sociales y los tropos ideológicos, como los «amigos» de Job, que brindan una comprensión mínima del mal. Como afirma *El Libro de Urantia*, los valores se conocen *únicamente* en el contexto de la experiencia personal vivida. «La verdad no se puede definir con palabras, sino solamente viviéndola.» <a id="a51_936"></a>[[LU 132:3.2](/es/The_Urantia_Book/132#p3_2)] Los valores existen en *tiempo real* y se expresan por el carácter de la persona. Es a través de las penas y las alegrías de la vida que se nos da la capacidad de discernir la luz de la verdad, la belleza y la bondad, en gran medida como resultado del contraste de la falsedad, la fealdad y el mal.
+**(C)** El problema del bien y el mal es uno de los mayores problemas de la vida. Como declaró Epicuro (p. ej., con respecto a salvar a un niño que tiene un tumor cerebral): «¿Está Dios dispuesto a prevenir el mal, pero no puede? Entonces el no es omnipotente. ¿Él puede, pero no está dispuesto? Entonces él es malévolo». ¿Cómo reconciliamos una Deidad todopoderosa y buena con el hecho de tanto mal: genocidio, racismo, belicismo, enfermedades horribles, gran devastación natural? Estas son las preguntas que capturan la imaginación de las personas reflexivas. Como sugiere Flewelling, las personas perezosas e irreflexivas recurren a las normas sociales y los tropos ideológicos, como los «amigos» de Job, que brindan una comprensión mínima del mal. Como afirma *El Libro de Urantia*, los valores se conocen *únicamente* en el contexto de la experiencia personal vivida. «La verdad no se puede definir con palabras, sino solamente viviéndola.» <a id="a51_946"></a>[[LU 132:3.2](/es/The_Urantia_Book/132#p3_2)] Los valores existen en *tiempo real* y se expresan por el carácter de la persona. Es a través de las penas y las alegrías de la vida que se nos da la capacidad de discernir la luz de la verdad, la belleza y la bondad, en gran medida como resultado del contraste de la falsedad, la fealdad y el mal.
 
-*El Libro de Urantia* hace la sorprendente afirmación de que la ética no es una función de algún estándar externo. «Enseñó la religión [experiencia religiosa personal] como causa, y la ética como resultado». <a id="a53_204"></a>[[LU 170:3.8](/es/The_Urantia_Book/170#p3_8)] La ética es una función de una «elección viviente y personal entre el bien y el mal, tal como éstos están determinados por los verdaderos valores de las normas espirituales establecidas por el espíritu divino que el Padre que está en los cielos ha enviado a residir en el corazón del hombre». <a id="a53_538"></a>[[LU 132:2.2](/es/The_Urantia_Book/132#p2_2)]
+*El Libro de Urantia* hace la sorprendente afirmación de que la ética no es una función de algún estándar externo. «Enseñó la religión [experiencia religiosa personal] como causa, y la ética como resultado». <a id="a53_208"></a>[[LU 170:3.8](/es/The_Urantia_Book/170#p3_8)] La ética es una función de una «elección viviente y personal entre el bien y el mal, tal como éstos están determinados por los verdaderos valores de las normas espirituales establecidas por el espíritu divino que el Padre que está en los cielos ha enviado a residir en el corazón del hombre». <a id="a53_547"></a>[[LU 132:2.2](/es/The_Urantia_Book/132#p2_2)]
 
 Esta afirmación establece claramente que: existen valores verdaderos y absolutos que rigen el universo; los valores no son subjetivos («Todo el mundo lo hace», es la contraseña fácil de la pereza ética). Tal afirmación ética va en contra de gran parte de la teoría ética que es corriente en la filosofía moderna y en los pasillos de la jurisprudencia, que tienden a gravitar hacia un cálculo utilitario del valor, sin ninguna referencia a su existencia real, descubrible dentro de la subjetividad de la persona que está tratando de vivir de acuerdo con el espíritu divino que habita en ellos.
 
@@ -68,7 +68,7 @@ Al comprender la relatividad de la bondad en relación con su fundamento absolut
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** «**La bondad**, lo mismo que la verdad, siempre es **relativa** y contrasta infaliblemente con el mal. La percepción de estas cualidades de bondad y de verdad es lo que permite a las almas evolutivas de los hombres efectuar esas decisiones personales de elección que son esenciales para la supervivencia eterna.». <a id="a70_313"></a>[[LU 132:2.3](/es/The_Urantia_Book/132#p2_3)]
+> **(TUB)** «**La bondad**, lo mismo que la verdad, siempre es **relativa** y contrasta infaliblemente con el mal. La percepción de estas cualidades de bondad y de verdad es lo que permite a las almas evolutivas de los hombres efectuar esas decisiones personales de elección que son esenciales para la supervivencia eterna.». <a id="a70_326"></a>[[LU 132:2.3](/es/The_Urantia_Book/132#p2_3)]
 
 \*\*\*
 
@@ -89,9 +89,9 @@ En el reino espiritual, la humanidad tiene libre albedrío. De hecho, podemos «
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** «El individuo espiritualmente ciego que sigue lógicamente los dictados de la ciencia, las costumbres sociales y los dogmas religiosos, se encuentra en el grave peligro de **sacrificar su independencia moral** y de perder su libertad espiritual. Un alma así está destinada a convertirse en un papagayo intelectual, en un autómata social y en un **esclavo de la autoridad religiosa**.». <a id="a91_353"></a>[[LU 132:2.4](/es/The_Urantia_Book/132#p2_4)]
+> **(TUB)** «El individuo espiritualmente ciego que sigue lógicamente los dictados de la ciencia, las costumbres sociales y los dogmas religiosos, se encuentra en el grave peligro de **sacrificar su independencia moral** y de perder su libertad espiritual. Un alma así está destinada a convertirse en un papagayo intelectual, en un autómata social y en un **esclavo de la autoridad religiosa**.». <a id="a91_397"></a>[[LU 132:2.4](/es/The_Urantia_Book/132#p2_4)]
 
-> «**La bondad siempre está creciendo** hacia nuevos niveles de mayor libertad para autorrealizarse moralmente y alcanzar la personalidad espiritual —el descubrimiento del Ajustador interior y la identificación con él. **Una experiencia es buena cuando** eleva la apreciación de la belleza, aumenta la voluntad moral, realza el discernimiento de la verdad, aumenta la capacidad para amar y servir a nuestros semejantes, exalta los ideales espirituales y unifica los supremos motivos humanos del tiempo con los planes eternos del Ajustador interior. Todo esto conduce directamente a un mayor deseo de hacer la voluntad del Padre, alimentando así la pasión divina de encontrar a Dios y de parecerse más a él.». <a id="a93_696"></a>[[LU 132:2.5](/es/The_Urantia_Book/132#p2_5)]
+> «**La bondad siempre está creciendo** hacia nuevos niveles de mayor libertad para autorrealizarse moralmente y alcanzar la personalidad espiritual —el descubrimiento del Ajustador interior y la identificación con él. **Una experiencia es buena cuando** eleva la apreciación de la belleza, aumenta la voluntad moral, realza el discernimiento de la verdad, aumenta la capacidad para amar y servir a nuestros semejantes, exalta los ideales espirituales y unifica los supremos motivos humanos del tiempo con los planes eternos del Ajustador interior. Todo esto conduce directamente a un mayor deseo de hacer la voluntad del Padre, alimentando así la pasión divina de encontrar a Dios y de parecerse más a él.». <a id="a93_709"></a>[[LU 132:2.5](/es/The_Urantia_Book/132#p2_5)]
 
 \*\*\*
 
@@ -107,14 +107,14 @@ En estos pasajes descubrimos la naturaleza evolutiva de la experiencia de los va
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** «A medida que ascendéis la escala universal de desarrollo de las criaturas, encontraréis** una bondad creciente** y una disminución del mal, en perfecta conformidad con vuestra capacidad para experimentar la bondad y discernir la verdad. La capacidad de mantener el error o de experimentar el mal no se perderá por completo hasta que el alma humana ascendente alcance los niveles espirituales finales.». <a id="a109_405"></a>[[LU 132:2.6](/es/The_Urantia_Book/132#p2_6)]
+> **(TUB)** «A medida que ascendéis la escala universal de desarrollo de las criaturas, encontraréis** una bondad creciente** y una disminución del mal, en perfecta conformidad con vuestra capacidad para experimentar la bondad y discernir la verdad. La capacidad de mantener el error o de experimentar el mal no se perderá por completo hasta que el alma humana ascendente alcance los niveles espirituales finales.». <a id="a109_416"></a>[[LU 132:2.6](/es/The_Urantia_Book/132#p2_6)]
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/025.jpg">
 <figcaption><em>Shutterstock 240616</em> </figcaption>
 </figure>
 
-> «**La bondad es viviente, relativa**, siempre en progreso; es invariablemente una experiencia personal y está perpetuamente correlacionada con el discernimiento de la verdad y de la belleza. La bondad se encuentra en el reconocimiento de los valores positivos de verdad del nivel espiritual, que deben contrastar, en la experiencia humana, con su contrapartida negativa —**las sombras del mal potencial**». <a id="a116_399"></a>[[LU 132:2.7](/es/The_Urantia_Book/132#p2_7)]
+> «**La bondad es viviente, relativa**, siempre en progreso; es invariablemente una experiencia personal y está perpetuamente correlacionada con el discernimiento de la verdad y de la belleza. La bondad se encuentra en el reconocimiento de los valores positivos de verdad del nivel espiritual, que deben contrastar, en la experiencia humana, con su contrapartida negativa —**las sombras del mal potencial**». <a id="a116_409"></a>[[LU 132:2.7](/es/The_Urantia_Book/132#p2_7)]
 
 \*\*\*
 
@@ -140,7 +140,7 @@ Entonces debemos estar siempre presentes a la posibilidad del mal.
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** «Hasta que no alcancéis los niveles del Paraíso, **la bondad siempre será más una búsqueda que una posesión**, más una meta que una experiencia lograda. Pero cuando se tiene hambre y sed de rectitud, se experimenta una satisfacción creciente cuando se alcanza parcialmente la bondad. La presencia del bien y del mal en el mundo es, en sí misma, una prueba positiva de la existencia y de la realidad de la **voluntad moral** del hombre, de la personalidad, que identifica así estos valores y también es capaz de escoger entre ellos.» <a id="a142_522"></a>[[LU 132:2.8](/es/The_Urantia_Book/132#p2_8)]
+> **(TUB)** «Hasta que no alcancéis los niveles del Paraíso, **la bondad siempre será más una búsqueda que una posesión**, más una meta que una experiencia lograda. Pero cuando se tiene hambre y sed de rectitud, se experimenta una satisfacción creciente cuando se alcanza parcialmente la bondad. La presencia del bien y del mal en el mundo es, en sí misma, una prueba positiva de la existencia y de la realidad de la **voluntad moral** del hombre, de la personalidad, que identifica así estos valores y también es capaz de escoger entre ellos.» <a id="a142_545"></a>[[LU 132:2.8](/es/The_Urantia_Book/132#p2_8)]
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/026.jpg">
@@ -178,7 +178,7 @@ Nuestra voluntad moral está indisolublemente ligada a la idea de ser *persona*;
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** «La ***posibilidad* del mal** es necesaria para la elección moral, pero su realidad no lo es. Una sombra sólo tiene una realidad relativa. El mal real no es **necesario** como experiencia personal. El mal potencial funciona igual de bien como estímulo para tomar decisiones en el ámbito del progreso moral, en los niveles inferiores del desarrollo espiritual. El mal sólo se vuelve una realidad de la experiencia personal cuando una mente moral lo **escoge** deliberadamente». <a id="a180_473"></a>[[LU 132:2.10](/es/The_Urantia_Book/132#p2_10)]
+> **(TUB)** «La ***posibilidad* del mal** es necesaria para la elección moral, pero su realidad no lo es. Una sombra sólo tiene una realidad relativa. El mal real no es **necesario** como experiencia personal. El mal potencial funciona igual de bien como estímulo para tomar decisiones en el ámbito del progreso moral, en los niveles inferiores del desarrollo espiritual. El mal sólo se vuelve una realidad de la experiencia personal cuando una mente moral lo **escoge** deliberadamente». <a id="a180_489"></a>[[LU 132:2.10](/es/The_Urantia_Book/132#p2_10)]
 
 \*\*\*
 

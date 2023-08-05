@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La naturaleza dual de la supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-1-1999-invierno">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 1, 1999 (Invierno) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ningún alma de cobarde es mía
 Ningún temblor en la esfera tormentosa del mundo
@@ -49,8 +70,29 @@ Y lo que eres nunca puede ser destruido.
 > El poema, que según su hermana Charlotte, fueron los últimos versos que escribió Emily Bronte, no tiene título.
 {.is-info}
 
-> En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! ([UB 32:5.7](/es/The_Urantia_Book/32#p5_7))
+> En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! (<a id="a72_327"></a>[UB 32:5.7](/es/The_Urantia_Book/32#p5_7))
 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La naturaleza dual de la supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-1-1999-invierno">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 1, 1999 (Invierno) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> Gracias a estos antiguos recuerdos de Nazaret, Cafarnaúm, el Monte Hermón y las salidas y puestas de Sol en el resplandeciente mar de Galilea, logró calmarse mientras fortalecía y preparaba su corazón humano para salir al encuentro del traidor que tan pronto iba a traicionarlo. <a id="a43_298"></a>[LU 182:3.10](/es/The_Urantia_Book/182#p3_10)
+> Gracias a estos antiguos recuerdos de Nazaret, Cafarnaúm, el Monte Hermón y las salidas y puestas de Sol en el resplandeciente mar de Galilea, logró calmarse mientras fortalecía y preparaba su corazón humano para salir al encuentro del traidor que tan pronto iba a traicionarlo. <a id="a43_281"></a>[LU 182:3.10](/es/The_Urantia_Book/182#p3_10)
 
 
 

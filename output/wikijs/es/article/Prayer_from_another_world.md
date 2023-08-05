@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una chica judía encuentra a Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="pr-2">Reflexiones sobre la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Glorioso Padre y Madre, fundidos en un solo ascendiente,
 > Quisiéramos ser fieles a tu naturaleza divina.
@@ -32,3 +56,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una chica judía encuentra a Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="pr-2">Reflexiones sobre la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

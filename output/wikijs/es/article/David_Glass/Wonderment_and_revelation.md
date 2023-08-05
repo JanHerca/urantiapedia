@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 David Glass<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Nueva Revelación del Jesús Viviente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="pr-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Wonderment and revelation 
 Span the cosmos with their joys, 
@@ -55,3 +79,27 @@ David Glass
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Nueva Revelación del Jesús Viviente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="pr-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,13 +9,37 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Arlene and Buck Weimer<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación en El libro de Urantia: al estilo de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Room_In_My_Heart">
+          <span class="pr-2">El espacio en mi corazón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Abajo se encuentra una reformulación de un taller presentado en la Sesión de Estudio de Verano en East Stroudsburg, PA el 18 de julio de 2003. Fue presentado por Arlene y Buck Weimer, con la amorosa asistencia de Sara Blackstock, en 2 partes: «El Arte del Matrimonio » y «Reuniones familiares y disciplina»).
 
 ## El patrón
 
-El Hijo Creador y el Espíritu de la Madre del Universo de Nebadon emitieron su «Proclamación de Igualdad» <a id="a40_106"></a>[[LU 33:3.5,6](/es/The_Urantia_Book/33#p3_5)] después de que Ella reconoció su subordinación a Él, y Él reconoció la dependencia eterna de Ella . Tienen igualdad en todas las dotes de personalidad, atributos de carácter divino y autoridad, y son co-creadores, co-gobernantes, cooperadores, coordinados y co-directores. Este es el patrón universal para el matrimonio: para tener igualdad, cada uno debe «dar» algo para lograrlo. De lo contrario, existe alguna forma de relación dominante/sumiso.
+El Hijo Creador y el Espíritu de la Madre del Universo de Nebadon emitieron su «Proclamación de Igualdad» <a id="a41_106"></a>[[LU 33:3.5,6](/es/The_Urantia_Book/33#p3_5)] después de que Ella reconoció su subordinación a Él, y Él reconoció la dependencia eterna de Ella . Tienen igualdad en todas las dotes de personalidad, atributos de carácter divino y autoridad, y son co-creadores, co-gobernantes, cooperadores, coordinados y co-directores. Este es el patrón universal para el matrimonio: para tener igualdad, cada uno debe «dar» algo para lograrlo. De lo contrario, existe alguna forma de relación dominante/sumiso.
 
 ## Masculino/Feminidad
 
@@ -41,11 +65,11 @@ Integrar la habilidad personal de asertividad en el crecimiento de nuestro cará
 
 Una habilidad de pareja importante es tener las reglas para una pelea justa. El objetivo es negociar una solución «a nuestra manera» basada en el «mayor bien» para ambos. Primero, sepárelo si está enojado y cálmese antes de regresar a la hora acordada para aclarar sentimientos y pensamientos. Concéntrese en un conflicto a la vez. Las habilidades para escuchar son críticas. Cada persona necesita aquietar su propia mente mientras hace un esfuerzo sincero por comprender la posición de la otra persona con compasión. Es útil que cada miembro de la pareja repita la posición de su pareja para garantizar la comprensión, lo que conduce a la tolerancia, la amistad, el amor y el perdón. Usar el lenguaje «yo» en lugar de «tú» es útil en este esfuerzo. Busque la resolución a través de una lluvia de ideas sobre posibles soluciones, luego negocie, negocie, negociar hasta que se logre una decisión acordada para una conclusión beneficiosa para todos que sea aceptable para ambos socios. El hecho de no lograr una resolución es a menudo la ruina de una relación. Esto generalmente significa que uno o ambos cónyuges tienen una «agenda oculta» o que algo o alguien es más importante que su relación y su amor.
 
-El Arte del Matrimonio se puede concluir mejor con esta cita: «_El matrimonio, con los hijos y la vida familiar consiguiente, estimula los potenciales más elevados de la naturaleza humana... paciencia, altruismo, tolerancia e indulgencia_ ... _fraternidad entre todos los hombres_.» <a id="a66_283"></a>[[LU 84:7.28](/es/The_Urantia_Book/84#p7_28)]
+El Arte del Matrimonio se puede concluir mejor con esta cita: «_El matrimonio, con los hijos y la vida familiar consiguiente, estimula los potenciales más elevados de la naturaleza humana... paciencia, altruismo, tolerancia e indulgencia_ ... _fraternidad entre todos los hombres_.» <a id="a67_283"></a>[[LU 84:7.28](/es/The_Urantia_Book/84#p7_28)]
 
 ## Las reuniones familiares más importantes
 
-Así como la toma de decisiones es importante para cada individuo al hacer la voluntad del Padre y para determinar el curso de una relación, la toma de decisiones es igualmente importante para el bienestar general de una familia. «_La sociedad humana mejoraría enormemente si las razas civilizadas volvieran de manera más general a las costumbres de los consejos de familia de los anditas._» <a id="a70_391"></a>[[LU 84:7.29](/es/The_Urantia_Book/84#p7_29)]
+Así como la toma de decisiones es importante para cada individuo al hacer la voluntad del Padre y para determinar el curso de una relación, la toma de decisiones es igualmente importante para el bienestar general de una familia. «_La sociedad humana mejoraría enormemente si las razas civilizadas volvieran de manera más general a las costumbres de los consejos de familia de los anditas._» <a id="a71_391"></a>[[LU 84:7.29](/es/The_Urantia_Book/84#p7_29)]
 
 Establecer reuniones familiares representa un cambio de paradigma en la crianza de los hijos, en muchos niveles; es decir, reuniones físicas semanales, intercambio intelectual de ideas, igualdad espiritual y democracia social. Enseña el equilibrio entre el yo y el desinterés mientras brinda a los niños la experiencia de ajustar sus egos emergentes para el bienestar de la familia. Se adoptan actitudes para toda la vida cuando los niños aprenden a negociar por lo que quieren, en lugar de gritar y chillar o ser sumisos en silencio. Las reuniones familiares fomentan el trabajo en equipo y solidifican la identidad familiar. Es un momento para ponerse de acuerdo sobre las reglas familiares y las consecuencias cuando las reglas se rompen o se exceden.
 
@@ -83,7 +107,7 @@ Las reuniones familiares evolucionan con el tiempo. Siga las reglas del «libro�
 
 La disciplina es uno de los puntos «calientes» en la crianza de los hijos, por lo que nuevamente es crucial que ambos padres estén unidos y en la misma página. Uno de los propósitos principales de la disciplina es enseñar el autodominio. Cristo Miguel, cuando enseñaba sobre Urantia, usaba el método autorizado y siempre enseñaba en positivo. La enseñanza autorizada se encuentra en algún punto intermedio entre autoritario o laissez-faire. Autoritario significa mostrar, autoritario significa decir y laissez-faire significa no interferencia. ¿Cuál es tu decisión?
 
-Un padre no tiene que estar de acuerdo o gustar de las decisiones tomadas por un niño, pero es importante respetar y fomentar el libre albedrío de un niño, después de la llegada del Ajustador del Pensamiento. Distinga entre el niño como persona y el comportamiento del niño, y comunique que es el comportamiento lo que no es aceptable. Para una buena disciplina es importante que los padres tengan una autodisciplina bien desarrollada «..._los padres sabios no disciplinan llenos de indignación._» <a id="a108_498"></a>[[LU 188:4.10](/es/The_Urantia_Book/188#p4_10)]
+Un padre no tiene que estar de acuerdo o gustar de las decisiones tomadas por un niño, pero es importante respetar y fomentar el libre albedrío de un niño, después de la llegada del Ajustador del Pensamiento. Distinga entre el niño como persona y el comportamiento del niño, y comunique que es el comportamiento lo que no es aceptable. Para una buena disciplina es importante que los padres tengan una autodisciplina bien desarrollada «..._los padres sabios no disciplinan llenos de indignación._» <a id="a109_498"></a>[[LU 188:4.10](/es/The_Urantia_Book/188#p4_10)]
 
 ## Un método de cuatro pasos
 
@@ -99,9 +123,34 @@ Las reuniones familiares y el método de disciplina Respeto ofrecen una situaci�
 > Arlene era una buena chica judía de Brooklyn y Buck era un chico rebelde de un pequeño pueblo de Pensilvania cuando se conocieron en una isla del Caribe en 1964. Se casaron en 1970, viajaron mucho y luego se establecieron en Pueblo, CO, en 1974. Junto con la creación conjunta de tres hijos (Jon, Matt y Adam, ahora adultos) establecieron carreras: Arlene como psicóloga y Buck como terapeuta clínico en un hospital local. Han sido lectores de _El Libro de Urantia_ y se han dedicado a sus enseñanzas desde 1972.
 {.is-info}
 
-> Casi todos los valores duraderos de la civilización tienen sus raíces en la familia. <a id="a124_87"></a>[[LU 68:2.8](/es/The_Urantia_Book/68#p2_8)]
+> Casi todos los valores duraderos de la civilización tienen sus raíces en la familia. <a id="a125_87"></a>[[LU 68:2.8](/es/The_Urantia_Book/68#p2_8)]
 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación en El libro de Urantia: al estilo de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Room_In_My_Heart">
+          <span class="pr-2">El espacio en mi corazón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

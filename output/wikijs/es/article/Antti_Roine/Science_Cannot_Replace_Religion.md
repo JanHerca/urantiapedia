@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dr. Antti Roble<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poner en acción las enseñanzas del Libro de Urantia a través de la filosofía integral</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">Un canto de caña</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La ciencia descubre cómo opera la naturaleza y luego da nombres a los nuevos problemas y fenómenos. Especifica las nuevas leyes naturales a través del trabajo experimental y utilizando cadenas de evidencia. Los problemas y métodos probados anteriormente siempre se utilizan como evidencia principal para los nuevos, porque los efectos no pueden existir sin causas. Si tenemos el coraje de seguir esta cadena de evidencia hasta el final y encontrar la causa original, entonces siempre terminaremos con Dios, es decir, encontraremos la razón primaria que no tiene causa. Los ateos intentan escabullirse de este problema lógico inventando algún nombre para esta razón principal, como el Big Bang.
@@ -40,3 +64,28 @@ Hace dos mil años los cobardes gritaban «Libertad para Barrabás» y «Crucif�
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poner en acción las enseñanzas del Libro de Urantia a través de la filosofía integral</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">Un canto de caña</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

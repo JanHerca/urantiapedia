@@ -53,7 +53,7 @@ Ten paciencia conmigo mientras miramos algunas declaraciones reveladoras signifi
 
 Primero, debo señalar que no hay estadísticas específicas para explicar la proporción de personas que llegan a Jerusem sin fusionarse. Sin embargo, sabemos que los ascendentes pueden ascender hasta Salvington sin fusionarse (por lo tanto, fusionarse con un fragmento de Son). Aquí hay un párrafo notable que habla de estos detalles:
 
-> «Aunque prácticamente todos los mortales sobrevivientes fusionan con su Ajustador en uno de los mundos de las mansiones o inmediatamente después de llegar a las esferas morontiales superiores, existen ciertos casos en que la fusión se retrasa, y algunos no experimentan la seguridad final de sobrevivir hasta que no alcanzan los últimos mundos educativos de la sede del universo; y una minoría de estos candidatos mortales a la vida sin fin no logran en absoluto fusionar su identidad con su fiel Ajustador». <a id="a55_524"></a>[[LU 40:8.1](/es/The_Urantia_Book/40#p8_1)]
+> «Aunque prácticamente todos los mortales sobrevivientes fusionan con su Ajustador en uno de los mundos de las mansiones o inmediatamente después de llegar a las esferas morontiales superiores, existen ciertos casos en que la fusión se retrasa, y algunos no experimentan la seguridad final de sobrevivir hasta que no alcanzan los últimos mundos educativos de la sede del universo; y una minoría de estos candidatos mortales a la vida sin fin no logran en absoluto fusionar su identidad con su fiel Ajustador». <a id="a55_511"></a>[[LU 40:8.1](/es/The_Urantia_Book/40#p8_1)]
 
 Entonces, en abundancia de simplicidad, imaginemos que la proporción de aquellos que no se fusionaron antes de Jerusem es bastante baja (1: 1000 ascendentes, o tal vez 1: 2000). Parece lógico que esta proporción pueda ser considerablemente más alta que esto, por supuesto. Para empezar, usemos 1:1000 como la proporción: 187 432 811 x 1 000 / 607 (siendo 607 el número de mundos habitados en Satania en ese momento) calcularía un total de 308 785 520 (alrededor de 308 millones) de residentes en Jerusem de cada uno de los mundos. en Satania en el momento de la rebelión de Lucifer.
 
@@ -76,29 +76,29 @@ Estas son algunas de las citas más relevantes que busqué y que ayudan a correl
 
 1. Este párrafo habla de cómo las esferas de mansión inferiores tenían más no fusionadores, por lo tanto, más de ellos cayeron en la rebelión.
 
-> «Los mortales ascendentes eran vulnerables, pero resistieron mejor que los espíritus inferiores a los sofismas de la rebelión. Aunque cayeron muchos seres en los mundos de las mansiones más inferiores, los que no habían logrado fusionar finalmente con su Ajustador, está registrado para la gloria de la sabiduría del programa de la ascensión que ni un solo miembro de los ciudadanos ascendentes de Satania, residentes en Jerusem, participó en la rebelión de Lucifer». <a id="a78_449"></a>[[LU 53:7.10](/es/The_Urantia_Book/53#p7_10)]
+> «Los mortales ascendentes eran vulnerables, pero resistieron mejor que los espíritus inferiores a los sofismas de la rebelión. Aunque cayeron muchos seres en los mundos de las mansiones más inferiores, los que no habían logrado fusionar finalmente con su Ajustador, está registrado para la gloria de la sabiduría del programa de la ascensión que ni un solo miembro de los ciudadanos ascendentes de Satania, residentes en Jerusem, participó en la rebelión de Lucifer». <a id="a78_470"></a>[[LU 53:7.10](/es/The_Urantia_Book/53#p7_10)]
 
 2. Aquí, exponiendo la naturaleza eterna e inmortal de un ascendente fusionado.
 
-> «La fusión con el Ajustador del Pensamiento concede a la personalidad unas realidades eternas que anteriormente sólo eran potenciales. Entre estas nuevas dotaciones se pueden citar: la fijación de la cualidad de divinidad, la experiencia y la memoria de la eternidad pasada, la inmortalidad, y una fase de absolutidad potencial limitada». <a id="a82_327"></a>[[LU 112:7.1](/es/The_Urantia_Book/112#p7_1)]
+> «La fusión con el Ajustador del Pensamiento concede a la personalidad unas realidades eternas que anteriormente sólo eran potenciales. Entre estas nuevas dotaciones se pueden citar: la fijación de la cualidad de divinidad, la experiencia y la memoria de la eternidad pasada, la inmortalidad, y una fase de absolutidad potencial limitada». <a id="a82_341"></a>[[LU 112:7.1](/es/The_Urantia_Book/112#p7_1)]
 
 3. Explicación de la trascendencia de la fusión ajustadora.
 
-> «La conquista de los siete círculos cósmicos no equivale a la fusión con el Ajustador. Hay muchos mortales que viven en Urantia que han alcanzado sus círculos; pero la fusión depende además de otros logros espirituales más grandes y más sublimes, del hecho de conseguir una sintonización final y completa entre la voluntad mortal y la voluntad de Dios, tal como ésta reside en el Ajustador del Pensamiento». <a id="a86_381"></a>[[LU 110:7.1](/es/The_Urantia_Book/110#p7_1)]
+> «La conquista de los siete círculos cósmicos no equivale a la fusión con el Ajustador. Hay muchos mortales que viven en Urantia que han alcanzado sus círculos; pero la fusión depende además de otros logros espirituales más grandes y más sublimes, del hecho de conseguir una sintonización final y completa entre la voluntad mortal y la voluntad de Dios, tal como ésta reside en el Ajustador del Pensamiento». <a id="a86_410"></a>[[LU 110:7.1](/es/The_Urantia_Book/110#p7_1)]
 
 4. Un valor seguro en el universo.
 
-> «Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y este nuevo valor está basado en el hecho de que las decisiones sobre la supervivencia se han tomado, un hecho que está atestiguado por la fusión eterna con el Ajustador del Pensamiento». <a id="a90_273"></a>[[LU 112:7.6](/es/The_Urantia_Book/112#p7_6)]
+> «Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y este nuevo valor está basado en el hecho de que las decisiones sobre la supervivencia se han tomado, un hecho que está atestiguado por la fusión eterna con el Ajustador del Pensamiento». <a id="a90_279"></a>[[LU 112:7.6](/es/The_Urantia_Book/112#p7_6)]
 
 5. Y este último realmente me convenció.
 
-> «Los seres humanos son capaces de identificarse para siempre con la realidad total e indestructible del universo —fusionar con el Ajustador del Pensamiento interior. [énfasis añadido].» <a id="a94_200"></a>[[LU 116:7.5](/es/The_Urantia_Book/116#p7_5)]
+> «Los seres humanos son capaces de identificarse para siempre con la realidad total e indestructible del universo —fusionar con el Ajustador del Pensamiento interior. [énfasis añadido].» <a id="a94_188"></a>[[LU 116:7.5](/es/The_Urantia_Book/116#p7_5)]
 
 Mirando lógicamente estas citas adicionales, esto parece claro: los mortales ascendentes que se fusionan tienen, según los requisitos previos de la fusión del ajustador, se han probado a sí mismos en su viaje personal de mortales a inmortales. Por lo tanto, en el momento de la rebelión, estos ascensores fusionados estaban «por encima» de esta extenuante prueba de caída potencial. Fueron fusionados con un fragmento de El Padre Perfecto y por lo tanto están más allá de «la prueba de fuego».
 
 Sin embargo, estos meritorios 187.432.811 ascendentes (junto con los muchos miles de millones de ascendentes no fusionados que navegan por los mundos de las mansiones, sin duda) fueron probados significativamente y, sin embargo, no cayeron. Cuando se mira en el contexto de la rebelión, y las acciones pecaminosas en el trabajo alrededor de aquellos atrapados dentro de estos desconcertantes eventos, el siguiente párrafo es una declaración profunda:
 
-> «No se ha perdido ni un solo ciudadano de Jerusem. Todos los mortales ascendentes han sobrevivido a la prueba de fuego y han salido triunfantes y totalmente victoriosos de la prueba decisiva». <a id="a100_159"></a>[[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)]
+> «No se ha perdido ni un solo ciudadano de Jerusem. Todos los mortales ascendentes han sobrevivido a la prueba de fuego y han salido triunfantes y totalmente victoriosos de la prueba decisiva». <a id="a100_195"></a>[[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)]
 
 Reflexionando una vez más sobre esto. Lo que los autores están dando a entender aquí me parece ser:
 

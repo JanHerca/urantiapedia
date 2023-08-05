@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Philip Calabrese<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diez lecciones del viñedo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Sanders/The_Book_a_Poem">
+          <span class="pr-2">El Libro - un Poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## I. Descubrimientos del sistema solar.
@@ -31,13 +55,13 @@ La nueva información recopilada durante los últimos 53 años sobre el origen y
 
 ## II. Teorías del nacimiento del sistema solar.
 
-El modelo contemporáneo para el origen del sistema solar es una nube gaseosa de material, especialmente hidrógeno, con cierto momento angular inicial, que se comprime por la atracción de la gravedad con la presión resultante y el aumento de la temperatura hasta que las temperaturas provocan la liberación de energía nuclear a través de la fusión u otros procesos nucleares. Si bien este modo de nacimiento del sistema solar se enumera en _El Libro de Urantia_ como uno de varios modos populares [^14] <a id="a56_502"></a>[[LU 15:5.5](/es/The_Urantia_Book/15#p5_5)], nuestro propio sistema solar dice: tuvo un origen excepcional, una modalidad responsable de menos del 1% de los nacimientos del sistema solar.
+El modelo contemporáneo para el origen del sistema solar es una nube gaseosa de material, especialmente hidrógeno, con cierto momento angular inicial, que se comprime por la atracción de la gravedad con la presión resultante y el aumento de la temperatura hasta que las temperaturas provocan la liberación de energía nuclear a través de la fusión u otros procesos nucleares. Si bien este modo de nacimiento del sistema solar se enumera en _El Libro de Urantia_ como uno de varios modos populares [^14] <a id="a57_502"></a>[[LU 15:5.5](/es/The_Urantia_Book/15#p5_5)], nuestro propio sistema solar dice: tuvo un origen excepcional, una modalidad responsable de menos del 1% de los nacimientos del sistema solar.
 
-_El Libro de Urantia_ describe con gran detalle [^15] <a id="a58_54"></a>[[LU 41:10.1](/es/The_Urantia_Book/41#p10_1)] <a id="a58_100"></a>[[LU 57:3](/es/The_Urantia_Book/57#p3)] un raro y muy complicado nacimiento en el que nuestro sol, inicialmente una estrella variable que se expande y se contrae como suelen hacer, fue parcialmente interrumpido durante una fase de expansión por la atracción de gravedad disruptiva de un «cuerpo de gravedad oscuro» que pasaba. Se describe el desprendimiento de una enorme columna de material del núcleo central del sol, que inmediatamente comenzó a orbitar alrededor del sol, convirtiéndose rápidamente en doce planetas originales, que consolidaron el material cercano por agregación. Con la ayuda de su nebulosa madre, nuestro sol capturó tres satélites principales periféricos y material mucho más pequeño del cuerpo de gravedad oscuro que pasaba, como lo indican sus órbitas retrógradas; pero nada del sol escapó por completo a la gravedad del sol. _El Libro de Urantia_ se refiere al cuerpo oscuro de gravedad y sus satélites como el «sistema Angona». Aquí hay solo dos de muchos párrafos descriptivos:
+_El Libro de Urantia_ describe con gran detalle [^15] <a id="a59_54"></a>[[LU 41:10.1](/es/The_Urantia_Book/41#p10_1)] <a id="a59_100"></a>[[LU 57:3](/es/The_Urantia_Book/57#p3)] un raro y muy complicado nacimiento en el que nuestro sol, inicialmente una estrella variable que se expande y se contrae como suelen hacer, fue parcialmente interrumpido durante una fase de expansión por la atracción de gravedad disruptiva de un «cuerpo de gravedad oscuro» que pasaba. Se describe el desprendimiento de una enorme columna de material del núcleo central del sol, que inmediatamente comenzó a orbitar alrededor del sol, convirtiéndose rápidamente en doce planetas originales, que consolidaron el material cercano por agregación. Con la ayuda de su nebulosa madre, nuestro sol capturó tres satélites principales periféricos y material mucho más pequeño del cuerpo de gravedad oscuro que pasaba, como lo indican sus órbitas retrógradas; pero nada del sol escapó por completo a la gravedad del sol. _El Libro de Urantia_ se refiere al cuerpo oscuro de gravedad y sus satélites como el «sistema Angona». Aquí hay solo dos de muchos párrafos descriptivos:
 
 > A medida que Angona se acercaba más al Sol, y en los momentos de la máxima expansión de las pulsaciones solares, unos chorros de material gaseoso salían lanzados hacia el espacio como gigantescas lenguas solares. Al principio, estas lenguas de gas llameantes volvían a caer invariablemente en el Sol, pero a medida que Angona se aproximaba cada vez más, la atracción gravitatoria del gigantesco visitante se hizo tan fuerte, que estas lenguas de gas se rompieron en algunos puntos; las raíces volvían a caer en el Sol mientras que las partes exteriores se separaban para formar cuerpos de materia independientes, meteoritos solares, que inmediatamente empezaban a girar alrededor del Sol en sus propias órbitas elípticas.
 >
-> A medida que el sistema de Angona se acercaba, las expulsiones solares se volvieron cada vez más grandes; una creciente cantidad de materia fue extraída del Sol para luego convertirse en cuerpos independientes que circulaban por el espacio circundante. Esta situación se desarrolló durante quinientos mil años, hasta que Angona alcanzó su punto más cercano al Sol; después de lo cual, y en conjunción con una de sus convulsiones periódicas internas, el Sol experimentó una ruptura parcial; enormes volúmenes de materia fueron arrojados simultáneamente por sus lados opuestos. Una inmensa columna de gases solares fue atraída hacia el lado de Angona; tenía los dos extremos más bien puntiagudos y el centro notablemente abultado, y se separó definitivamente del control gravitatorio inmediato del Sol. <a id="a62_803"></a>[[LU 57:5.5-6](/es/The_Urantia_Book/57#p5_5)]
+> A medida que el sistema de Angona se acercaba, las expulsiones solares se volvieron cada vez más grandes; una creciente cantidad de materia fue extraída del Sol para luego convertirse en cuerpos independientes que circulaban por el espacio circundante. Esta situación se desarrolló durante quinientos mil años, hasta que Angona alcanzó su punto más cercano al Sol; después de lo cual, y en conjunción con una de sus convulsiones periódicas internas, el Sol experimentó una ruptura parcial; enormes volúmenes de materia fueron arrojados simultáneamente por sus lados opuestos. Una inmensa columna de gases solares fue atraída hacia el lado de Angona; tenía los dos extremos más bien puntiagudos y el centro notablemente abultado, y se separó definitivamente del control gravitatorio inmediato del Sol. <a id="a63_803"></a>[[LU 57:5.5-6](/es/The_Urantia_Book/57#p5_5)]
 
 Aquí nuevamente _El Libro de Urantia_ se arriesga, haciéndose bastante científicamente falsable ya que este escenario podría ser fácilmente refutado, y eso desacreditaría la afirmación de _El Libro de Urantia_ de ser de _inmenso_ (aunque transitorio) _valor_ para los científicos y cosmólogos actuales.
 
@@ -79,7 +103,7 @@ Tenga en cuenta que en cada una de las primeras seis preguntas y problemas, la t
 
 También se debe mencionar que la teoría PBPD explica la diferencia considerable (casi 7 grados) entre el plano del ecuador del sol y el plano orbital promedio de los planetas, incluidos Júpiter y Saturno. Solo con esfuerzo y suposiciones adicionales puede una teoría puramente de condensación explicar este hecho. La compresión de la gravedad y el aumento del movimiento rotatorio dan como resultado un disco giratorio de materia en el plano del ecuador del sol eventual, no en un plano inclinado 7 grados con respecto al ecuador del sol. Pero, como afirma _El Libro de Urantia_, ese fue el ángulo del cuerpo oscuro, pesado y cargado que pasó, lo que ayudó al sol, que ya palpitaba, a vomitar el material planetario a su paso.
 
-Este material proveniente del giro rápido del sol en dos direcciones antípodas se llevó casi todo el momento angular del sol. (Según _El Libro de Urantia_, el sol era originalmente una estrella variable con un período de contracción-expansión de solo 3,5 días, siendo el ciclo de manchas solares de 11,5 años lo que queda de esta periodicidad). Aquí nuevamente, el modelo de condensación tiene poco que ofrecer en el manera de explicar el hecho de que el 99 % del momento angular total del sistema solar está en manos de los planetas <a id="a104_534"></a>[[LU 57:5.5](/es/The_Urantia_Book/57#p5_5)] en lugar de que gran parte esté en manos del sol como sería el caso si el sistema surgiera de la compresión de la gravedad pura con un giro rápido en el centro. Sin embargo, una interrupción parcial puede explicar la pérdida de momento angular del sol.
+Este material proveniente del giro rápido del sol en dos direcciones antípodas se llevó casi todo el momento angular del sol. (Según _El Libro de Urantia_, el sol era originalmente una estrella variable con un período de contracción-expansión de solo 3,5 días, siendo el ciclo de manchas solares de 11,5 años lo que queda de esta periodicidad). Aquí nuevamente, el modelo de condensación tiene poco que ofrecer en el manera de explicar el hecho de que el 99 % del momento angular total del sistema solar está en manos de los planetas <a id="a105_534"></a>[[LU 57:5.5](/es/The_Urantia_Book/57#p5_5)] en lugar de que gran parte esté en manos del sol como sería el caso si el sistema surgiera de la compresión de la gravedad pura con un giro rápido en el centro. Sin embargo, una interrupción parcial puede explicar la pérdida de momento angular del sol.
 
 La teoría PBPD es una variación significativa de la antigua Hipótesis del Encuentro, que imaginaba que una estrella que pasaba extraía los gases más calientes del sol mediante fuerzas de marea puras. Tal como se formuló, la Hipótesis del Encuentro no incluía el aspecto variable del sol, expandiéndose y contrayéndose, y parcialmente interrumpiendo, arrojando material que gira rápidamente desde su núcleo. Además, la «estrella pasajera» era en realidad un cuerpo oscuro con una gravedad y una carga masivas, no una estrella ordinaria. Este tipo de cuerpos ni siquiera se conocían en 1955. La materia oscura vino después. De acuerdo, este escenario es un evento raro, pero eso también se establece y cuantifica en _El Libro de Urantia_.
 
@@ -95,6 +119,31 @@ Desde su publicación en 1955, he notado repetidamente que [^16] la ciencia cont
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diez lecciones del viñedo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Sanders/The_Book_a_Poem">
+          <span class="pr-2">El Libro - un Poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

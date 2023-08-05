@@ -62,7 +62,7 @@ Desafortunadamente, su mensaje no permaneció del todo permanente en medio de to
 
 C. **Luego, Maquiventa colaboró ​​con muchos profetas y videntes** en la Tierra, invisiblemente presentes desde alrededor de 1866 aC hasta el 30 dC, aproximadamente 1900 años de duración, hasta los tiempos de la llegada y el ministerio de Cristo en la Tierra.
 
-> _Este mismo Melquisedek siguió colaborando durante los diecinueve siglos siguientes con numerosos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta que Miguel apareciera a su debido tiempo en la Tierra._ <a id="a64_257"></a>[LU 93:10.4](/es/The_Urantia_Book/93#p10_4)
+> _Este mismo Melquisedek siguió colaborando durante los diecinueve siglos siguientes con numerosos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta que Miguel apareciera a su debido tiempo en la Tierra._ <a id="a64_241"></a>[LU 93:10.4](/es/The_Urantia_Book/93#p10_4)
 
 Durante este sorprendente período de la historia de la Tierra, muchos profetas y videntes notables entraron en escena. Conjeturo que probablemente Melquisedec colaboró, sin ser visto, con muchos de ellos y fomentó sus esfuerzos, especialmente en lo que se refiere al concepto de Dios. Las personas y eventos altamente significativos incluyen:
 
@@ -89,7 +89,7 @@ Las bases para estimar la línea de tiempo del Gobernador General de Melquisedec
 
 Las tres primeras partes de los documentos de Urantia se completaron en 1935 d.C. Para el término «hace menos de mil años» calculo 985 años, lo que nos retrotrae al año 950 d.C. A eso le agrego cien años por la duración del mandato de Melquisedec como gobernador general de Urantia, lo que nos lleva al año 1050 d.C.
 
-> «_Hace menos de mil años, este mismo Maquiventa Melquisedek, el antiguo sabio de Salem, estuvo presente de manera invisible en Urantia durante un período de cien años, desempeñando sus funciones como gobernador general residente del planeta; y si el sistema que se emplea actualmente para dirigir los asuntos planetarios continúa, deberá regresar para ocupar el mismo cargo en poco más de mil años._» <a id="a91_351"></a>[LU 93:10.10](/es/The_Urantia_Book/93#p10_10)
+> «_Hace menos de mil años, este mismo Maquiventa Melquisedek, el antiguo sabio de Salem, estuvo presente de manera invisible en Urantia durante un período de cien años, desempeñando sus funciones como gobernador general residente del planeta; y si el sistema que se emplea actualmente para dirigir los asuntos planetarios continúa, deberá regresar para ocupar el mismo cargo en poco más de mil años._» <a id="a91_403"></a>[LU 93:10.10](/es/The_Urantia_Book/93#p10_10)
 
 _Inicio de mandato como Gobernador General Residente_
 
@@ -119,7 +119,7 @@ Los acontecimientos que ocurrieron durante el mandato de cien años de Maquivent
 
 e. **Príncipe Planetario Vicegerente de Urantia, era actual**
 
-> Este Melquisedek ha sido proclamado recientemente Príncipe Planetario vicegerente de Urantia con sede en Jerusem y con autoridad para actuar en nombre de Miguel, que es realmente el Príncipe Planetario del mundo donde efectuó su donación final en forma humana. <a id="a121_277"></a>[LU 45:4.16](/es/The_Urantia_Book/45#p4_16)
+> Este Melquisedek ha sido proclamado recientemente Príncipe Planetario vicegerente de Urantia con sede en Jerusem y con autoridad para actuar en nombre de Miguel, que es realmente el Príncipe Planetario del mundo donde efectuó su donación final en forma humana. <a id="a121_263"></a>[LU 45:4.16](/es/The_Urantia_Book/45#p4_16)
 
 ## Pensamientos sobre la oración
 
@@ -135,7 +135,7 @@ Y así parece que la selección de Michael del hijo de emergencia altamente expe
 
 > Algunos creen que Maquiventa no vendrá a tomar la dirección personal de los asuntos de Urantia hasta el final de la dispensación actual. Otros sostienen que es posible que el Príncipe vicerregente no venga, como tal, hasta que Michael regrese a Urantia en algún momento, como prometió cuando aún estaba en la carne. Aún otros, incluido este narrador, buscan la aparición de Melquisedec cualquier día u hora. <a id="a135_410"></a>[LU 114:1.4](/es/The_Urantia_Book/114#p1_4)
 
-> Ésta es la historia de Maquiventa Melquisedek, uno de los personajes más extraordinarios que hayan estado jamás relacionados con la historia de Urantia, y una personalidad que puede estar destinada a jugar un papel importante en la experiencia futura de vuestro mundo irregular y poco común. <a id="a137_277"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11)
+> Ésta es la historia de Maquiventa Melquisedek, uno de los personajes más extraordinarios que hayan estado jamás relacionados con la historia de Urantia, y una personalidad que puede estar destinada a jugar un papel importante en la experiencia futura de vuestro mundo irregular y poco común. <a id="a137_294"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11)
 
 Pongamos la mano en el arado del progreso mundial y avancemos con entrega, fe, inteligencia y confianza.
 

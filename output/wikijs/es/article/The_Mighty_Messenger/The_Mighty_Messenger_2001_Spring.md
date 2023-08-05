@@ -68,7 +68,7 @@ El lago Griffin fue el escenario natural de una odisea de fe en la conferencia d
 
 Los juegos, el ejercicio, el entretenimiento, los talleres y la adoración crearon una experiencia bien balanceada y alegre, y produjeron una mayor comprensión de la necesidad de unirse y servir al Dios dentro de cada uno.
 
-> «La creencia alcanza el nivel de la fe cuando motiva la vida y modela la manera de vivir. La aceptación de una enseñanza como verdadera no es la fe; es una simple creencia. La certidumbre y la convicción tampoco son la fe. Un estado mental sólo alcanza los niveles de la fe cuando domina realmente la manera de vivir. La fe es un atributo viviente de la experiencia religiosa personal auténtica. Uno cree en la verdad, admira la belleza y respeta la bondad, pero no las adora; una actitud así de fe salvadora está centrada solamente en Dios, que es la personificación de todas estas cosas e infinitamente más». (<a id="a70_612"></a>[LU 101:8.1](/es/The_Urantia_Book/101#p8_1))
+> «La creencia alcanza el nivel de la fe cuando motiva la vida y modela la manera de vivir. La aceptación de una enseñanza como verdadera no es la fe; es una simple creencia. La certidumbre y la convicción tampoco son la fe. Un estado mental sólo alcanza los niveles de la fe cuando domina realmente la manera de vivir. La fe es un atributo viviente de la experiencia religiosa personal auténtica. Uno cree en la verdad, admira la belleza y respeta la bondad, pero no las adora; una actitud así de fe salvadora está centrada solamente en Dios, que es la personificación de todas estas cosas e infinitamente más». (<a id="a70_614"></a>[LU 101:8.1](/es/The_Urantia_Book/101#p8_1))
 
 ## Nota de noticias del sitio web
 

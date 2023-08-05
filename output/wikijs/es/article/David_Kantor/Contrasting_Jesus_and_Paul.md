@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Kantor<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Duane_Johnson/An_Encounter_This_Unique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un encuentro único</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lo que conocemos como cristianismo, así como la mayor parte del Nuevo Testamento, se basa casi exclusivamente en la experiencia de Pablo de Tarso con «el Cristo resucitado y glorificado» en el camino a Damasco.
@@ -37,11 +58,33 @@ Para Jesús, el reino de los cielos es una realidad presente, aquí y ahora; par
 
 Jesús enseñó que vivimos en la presencia de un Padre amoroso; Pablo enseñó que vivimos en medio de una fuerza maligna que busca controlarnos.
 
-La reforma venidera sacudirá los cimientos mismos del cristianismo porque finalmente reemplazará la melancólica metafísica de la muerte de Pablo con la sólida revelación de la vida que Jesús vivió y enseñó durante su estadía terrenal como el Hijo del Hombre y el Hijo de Dios. (<a id="a59_278"></a>[[LU 196:2.1](/es/The_Urantia_Book/196#p2_1)])
+La reforma venidera sacudirá los cimientos mismos del cristianismo porque finalmente reemplazará la melancólica metafísica de la muerte de Pablo con la sólida revelación de la vida que Jesús vivió y enseñó durante su estadía terrenal como el Hijo del Hombre y el Hijo de Dios. (<a id="a60_278"></a>[[LU 196:2.1](/es/The_Urantia_Book/196#p2_1)])
 
-Jesús dijo: «Debéis salir a predicar el amor de Dios y el servicio a los hombres. Lo que el mundo más necesita saber es que los hombres son hijos de Dios, y que pueden comprender realmente por la fe esta verdad ennoblecedora, y experimentarla diariamente». (<a id="a61_258"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)])
+Jesús dijo: «Debéis salir a predicar el amor de Dios y el servicio a los hombres. Lo que el mundo más necesita saber es que los hombres son hijos de Dios, y que pueden comprender realmente por la fe esta verdad ennoblecedora, y experimentarla diariamente». (<a id="a62_258"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)])
 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Duane_Johnson/An_Encounter_This_Unique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un encuentro único</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

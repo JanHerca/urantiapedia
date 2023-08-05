@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Richard Rosen<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué nos dice el libro de Urantia que debe lograrse?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/A_Confederate_Soldiers_Prayer">
+          <span class="pr-2">La oración de un soldado confederado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Escuchar de lo Divino puede parecer misterioso, abstracto de algo que simplemente te sucede, pero tenemos el control. Hay principios por los cuales escuchamos de Dios. Estos son los que me funcionaron. Cada uno de nosotros, debido a que tenemos una relación única con Dios, diferirá en cómo escucha la voz divina. Estos están aquí para estimular su pensamiento.
@@ -119,9 +143,9 @@ La revelación automática o personal (iluminación espiritual) deleita tu alma.
 
 Este ejemplo tuvo lugar cuando Jesús con su padre José subió a Jerusalén alrededor de los 13 años.
 
-> El día anterior al sábado de la Pascua, una oleada de iluminación espiritual atravesó la mente mortal de Jesús e inundó su corazón humano de piedad afectuosa por las multitudes espiritualmente ciegas y moralmente ignorantes, reunidas para celebrar la antigua conmemoración de la Pascua. <a id="a141_289"></a>[[LU 124:6.15](/es/The_Urantia_Book/124#p6_15)]
+> El día anterior al sábado de la Pascua, una oleada de iluminación espiritual atravesó la mente mortal de Jesús e inundó su corazón humano de piedad afectuosa por las multitudes espiritualmente ciegas y moralmente ignorantes, reunidas para celebrar la antigua conmemoración de la Pascua. <a id="a145_289"></a>[[LU 124:6.15](/es/The_Urantia_Book/124#p6_15)]
 
-> Otro ejemplo: Jesús preguntó a sus apóstoles «Pero ¿quién decís vosotros que soy?»... Simón Pedro se levantó de un salto, y exclamó: «Tú eres el Libertador, el Hijo del Dios vivo»... (Jesús ) dijo: «Esto os ha sido revelado por mi Padre». <a id="a143_241"></a>[[LU 157:3.5-6](/es/The_Urantia_Book/157#p3_5)]
+> Otro ejemplo: Jesús preguntó a sus apóstoles «Pero ¿quién decís vosotros que soy?»... Simón Pedro se levantó de un salto, y exclamó: «Tú eres el Libertador, el Hijo del Dios vivo»... (Jesús ) dijo: «Esto os ha sido revelado por mi Padre». <a id="a147_241"></a>[[LU 157:3.5-6](/es/The_Urantia_Book/157#p3_5)]
 
 Y una experiencia personal: teniendo escasos recuerdos de mi padre humano después de su muerte cuando yo tenía siete años, sentí profundamente la falta de cuidado del reloj de un padre. Qué anhelo tenía por la guía de un padre amoroso. Con este trasfondo cuento una mañana crucial hace años.
 
@@ -133,7 +157,7 @@ Oh, cómo hablé con él, derramando mi corazón y agradeciéndole por ser mi pr
 
 **En resumen**, estas son formas en las que escucho y soy guiado. Todavía hay otros por revelar. La comunicación con lo Divino evoluciona. Esta cita de _El Libro de Urantia_ ilustra esto:
 
-> Desde esta posición de ventaja de la vida superior, el hombre es capaz de trascender las irritaciones materiales de los niveles inferiores de pensamiento —las preocupaciones, los celos, la envidia, la venganza y el orgullo de la personalidad inmadura. Las almas que ascienden a estas alturas se liberan de una multitud de conflictos a contracorriente de las nimiedades de la vida, volviéndose así libres para alcanzar la conciencia de las corrientes superiores de los conceptos espirituales y de las comunicaciones celestiales. <a id="a155_530"></a>[[LU 160:3.5](/es/The_Urantia_Book/160#p3_5)]
+> Desde esta posición de ventaja de la vida superior, el hombre es capaz de trascender las irritaciones materiales de los niveles inferiores de pensamiento —las preocupaciones, los celos, la envidia, la venganza y el orgullo de la personalidad inmadura. Las almas que ascienden a estas alturas se liberan de una multitud de conflictos a contracorriente de las nimiedades de la vida, volviéndose así libres para alcanzar la conciencia de las corrientes superiores de los conceptos espirituales y de las comunicaciones celestiales. <a id="a159_530"></a>[[LU 160:3.5](/es/The_Urantia_Book/160#p3_5)]
 
 Harry McMullen, en una conferencia sobre _El Libro de Urantia_, presentó su punto de vista sobre el discernimiento de la voluntad de Dios. Aquí hay un párrafo para darle una idea (vea la nota al pie para la referencia a su charla; vale la pena leerlo).
 
@@ -148,3 +172,28 @@ McMullen III, Harry. _Principios para conocer la voluntad de Dios_. De la Confer
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué nos dice el libro de Urantia que debe lograrse?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/A_Confederate_Soldiers_Prayer">
+          <span class="pr-2">La oración de un soldado confederado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

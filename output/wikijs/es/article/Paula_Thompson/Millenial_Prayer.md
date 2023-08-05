@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Paula Thompson<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="pr-2">Pensando en el mañana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Originalmente compuesta por Paula Thompson en el cumpleaños de Jesús el 21 de agosto de 1994 en Shepherds Field, Bethlehem)
 
@@ -96,8 +117,29 @@ Así sea, Amén.
 > Y cuando termine nuestra carrera, haz de ella un honor para tu nombre,
 > Un placer para tu buen espíritu, y una satisfacción para los que ayudan a nuestra alma.
 > Que el bien eterno de tus hijos mortales no sea el que nosotros anhelamos, afectuoso Padre nuestro, sino el que tú deseas.
-> Que así sea. ([LU 144:5.55-72](/es/The_Urantia_Book/144#p5_55))
+> Que así sea. (<a id="a119_16"></a>[LU 144:5.55-72](/es/The_Urantia_Book/144#p5_55))
 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="pr-2">Pensando en el mañana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

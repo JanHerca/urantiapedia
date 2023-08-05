@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Había una vez un hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Caminos de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -29,9 +53,9 @@ El ascenso de los principios femeninos, que buscan establecer el equilibrio entr
 
 A medida que nuestra psique mundial se vuelve a conectar más plenamente con lo femenino reprimido, algunos hombres temen perder su identidad masculina y ser desposeídos de su antiguo lugar [poderoso] en la sociedad. Y tienen razón en ciertos aspectos porque a medida que el conjunto de la humanidad se reúna con lo femenino reprimido, se requerirán enormes ajustes y llevará tiempo lograr un nuevo equilibrio en nuestra conciencia planetaria. Durante mucho tiempo en nuestras civilizaciones occidentales y mundiales, la expresión femenina de la naturaleza de Dios en nuestra civilización occidental y mundial, que es la fuente misma de la vida y la mente en el universo, ha sido controlada, explotada y objetivada por el masculino dominante. estructura de poder. Esto a veces se conoce como el lado oscuro no reconocido de lo masculino. Claramente está siendo expuesto, reconocido, y nombrado durante la época actual. Gradualmente estará más completamente expuesto y domesticado. Este puede ser un proceso aterrador para algunos, no todos, los hombres. Por tanto, tenemos la responsabilidad de educar sobre este proceso de evolución psicosocial, de llevar luz y comprensión a los cambios, y de desarmar el miedo a través de la escucha compasiva y el diálogo.
 
-Los hombres y las mujeres deben atravesar este proceso de cambio juntos con la mayor claridad, apertura, confianza y valor posibles, es decir, con el entendimiento de que nuestras diferencias de género <a id="a54_202"></a>[[LU 84:6.6](/es/The_Urantia_Book/84#p6_6)] «continuar intrigando, estimulando, animando y ayudándonos unos a otros» aun cuando se esté alcanzando una mayor relación de reciprocidad entre los géneros como parte del plan evolutivo de perfeccionamiento progresivo.
+Los hombres y las mujeres deben atravesar este proceso de cambio juntos con la mayor claridad, apertura, confianza y valor posibles, es decir, con el entendimiento de que nuestras diferencias de género <a id="a55_202"></a>[[LU 84:6.6](/es/The_Urantia_Book/84#p6_6)] «continuar intrigando, estimulando, animando y ayudándonos unos a otros» aun cuando se esté alcanzando una mayor relación de reciprocidad entre los géneros como parte del plan evolutivo de perfeccionamiento progresivo.
 
-Se podría decir que los cambios en el tejido social de la sociedad occidental (y de todo nuestro mundo) que han estado en marcha desde principios del siglo XX son quizás directamente atribuibles a la notable transición en la relación entre nuestro Hijo Creador Miguel y nuestro Espíritu Madre Creativo. eso ocurrió cuando Miguel alcanzó su condición de Hijo Maestro, después de completar su séptima y última misión de autootorgamiento como Jesús. En ese momento Miguel emitió la «Proclamación de Igualdad» que afirmaba la igualdad del Espíritu Materno con él en todas las dotes de personalidad y atributos de carácter divino. Esto se convierte en el patrón trascendente para la organización familiar y el gobierno incluso de las criaturas más humildes de los mundos del espacio. (<a id="a56_780"></a>[[LU 33:3.5-8](/es/The_Urantia_Book/33#p3_5)]).
+Se podría decir que los cambios en el tejido social de la sociedad occidental (y de todo nuestro mundo) que han estado en marcha desde principios del siglo XX son quizás directamente atribuibles a la notable transición en la relación entre nuestro Hijo Creador Miguel y nuestro Espíritu Madre Creativo. eso ocurrió cuando Miguel alcanzó su condición de Hijo Maestro, después de completar su séptima y última misión de autootorgamiento como Jesús. En ese momento Miguel emitió la «Proclamación de Igualdad» que afirmaba la igualdad del Espíritu Materno con él en todas las dotes de personalidad y atributos de carácter divino. Esto se convierte en el patrón trascendente para la organización familiar y el gobierno incluso de las criaturas más humildes de los mundos del espacio. (<a id="a57_780"></a>[[LU 33:3.5-8](/es/The_Urantia_Book/33#p3_5)]).
 
 Así como Miguel y nuestra Madre Espíritu reconocen su nuevo co-gobierno fundamentalmente equitativo y mutuo del universo, también los hombres y las mujeres deben pasar a una etapa completamente nueva de la existencia humana en Urantia en la que cada uno reconoce y respeta los derechos iguales del otro. Podemos tener diferentes rasgos de género, pero somos iguales como personas y debemos ser libres para expresar nuestras personalidades en la sociedad.
 
@@ -41,9 +65,9 @@ En todo el reclutamiento de mujeres, la Madre Espíritu no ha pasado por alto a 
 
 Entonces, ¿por qué nuestro Espíritu Materno del Universo está reuniendo a las mujeres? ¿Cómo están los urantianos, hombres y mujeres por igual, en una posición única para ayudarla? ¿Qué quiere ella que hagamos? Como lectores del Libro de Urantia de la Quinta Revelación de Época, los lectores del Libro de Urantia tienen un gran conocimiento sobre la Madre Espíritu y su papel en el universo que otros no tienen. Se nos ha dado un tesoro de información sobre el patrón divino de la asociación espiritual masculina/femenina y la relación entre Miguel/Jesús y la Madre. Considere estas citas:
 
-> En lo que se refiere a la identidad, la naturaleza y otros atributos de la personalidad, [la Madre Universal] el complemento perfecto y la contrapartida eterna del Padre Universal. <a id="a66_183"></a>[[LU 6:8.1](/es/The_Urantia_Book/6#p8_1)]
+> En lo que se refiere a la identidad, la naturaleza y otros atributos de la personalidad, [la Madre Universal] el complemento perfecto y la contrapartida eterna del Padre Universal. <a id="a67_183"></a>[[LU 6:8.1](/es/The_Urantia_Book/6#p8_1)]
 
-> El Padre que está en los cielos trata como a un igual al Espíritu Madre de los hijos del universo. <a id="a68_101"></a>[[LU 133:2.2](/es/The_Urantia_Book/133#p2_2)]
+> El Padre que está en los cielos trata como a un igual al Espíritu Madre de los hijos del universo. <a id="a69_101"></a>[[LU 133:2.2](/es/The_Urantia_Book/133#p2_2)]
 
 Casi ninguna otra tradición de fe tiene una teología que reconozca a la Divinidad Femenina como copartícipe igualitario del Padre Celestial, y esa información es muy necesaria en el mundo. Si Adán y Eva no hubieran entrado en incumplimiento, habríamos tenido un modelo a seguir del patrón divino para la asociación social y espiritual masculina/femenina en nuestro Hijo e Hija Material que nos habría ayudado a renunciar al desequilibrio de género en nuestro planeta que ha ha sido la causa fundamental de tantos problemas. Tal como están las cosas, los urantianos tenemos un cuerpo de conocimiento único que nos posiciona para ser de gran ayuda para nuestro Espíritu Madre en sus esfuerzos por elevar nuestro mundo y moverlo hacia la Luz y la Vida. Como el padre espiritual de la Madre co-creador verdadero e igual con Miguel, nuestro padre espiritual del Padre, este Universo ha sido creado, sostenido y sostenido por el esfuerzo amoroso cooperativo de nuestros Espíritus de la Madre y del Padre.
 
@@ -90,3 +114,28 @@ Desde el comienzo del milenio actual, un colectivo creciente de mujeres en el mo
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Había una vez un hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Caminos de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

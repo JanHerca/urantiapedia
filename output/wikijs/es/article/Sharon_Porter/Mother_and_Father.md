@@ -9,9 +9,33 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sharon Porter<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Framy_Mas/Mother_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Madre*Madre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sharon_Porter/Poem_to_our_Parents">
+          <span class="pr-2">Poema a nuestros Padres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Nuestro _Libro de Urantia_ nos enseña que tenemos una Madre del Universo y un Padre del Universo y que ellos son nuestros padres espirituales. Establece que ambos son coiguales creadores y coiguales administradores. «Un Hijo Creador... y un Espíritu Creativo... os han creado, a vosotros y a vuestro universo... [y ellos] ministran a las criaturas de su propia creación». <a id="a36_372"></a>[[LU 8:3.4](/es/The_Urantia_Book/8#p3_4)]
+
+Nuestro _Libro de Urantia_ nos enseña que tenemos una Madre del Universo y un Padre del Universo y que ellos son nuestros padres espirituales. Establece que ambos son coiguales creadores y coiguales administradores. «Un Hijo Creador... y un Espíritu Creativo... os han creado, a vosotros y a vuestro universo... [y ellos] ministran a las criaturas de su propia creación». <a id="a37_372"></a>[[LU 8:3.4](/es/The_Urantia_Book/8#p3_4)]
 
 Como urantianos, debemos mantener la proa de nuestro barco bien apuntada hacia la ola del cambio. Los autores progresistas de nuestro libro nos trajeron nuevas ideas e ideales de cambio.
 
@@ -29,7 +53,7 @@ A veces, se siente como si la hubiéramos encerrado, escondido dentro de un arma
 
 Creo que nuestros propios ángeles y nuestros ángeles especiales del progreso nos piden esto: ser más equilibrados como en otros mundos no desgarrados por la rebelión. Allí aman, honran y respetan a nuestra Madre del Universo ya nuestro Padre del Universo como sus padres y creadores espirituales Universales. Esta es la buena noticia que nos enseña nuestro amado _Libro de Urantia_. ¡Estamos pescando almas que están listas para buscar la verdad con estas enseñanzas!
 
-> «Los ejecutores divinos manipulan de manera magistral aquello que es en interés de aquello que debería ser». <a id="a54_111"></a>[[LU 25:3.5](/es/The_Urantia_Book/25#p3_5)]
+> «Los ejecutores divinos manipulan de manera magistral aquello que es en interés de aquello que debería ser». <a id="a55_111"></a>[[LU 25:3.5](/es/The_Urantia_Book/25#p3_5)]
 
 Hay tres circuitos espirituales distintos que habitan nuestro mundo y nuestro Universo. Ellos son: 1) Nuestra Madre Divina y su Espíritu Santo, 2) nuestro Padre Divino y su Espíritu de la Verdad y 3) los Espíritus Ayudantes de la Mente.
 
@@ -39,3 +63,28 @@ Cuando encontremos nuestro equilibrio en nuestro movimiento, cuando realmente ab
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Framy_Mas/Mother_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Madre*Madre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sharon_Porter/Poem_to_our_Parents">
+          <span class="pr-2">Poema a nuestros Padres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

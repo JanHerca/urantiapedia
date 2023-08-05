@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Gina Buselli<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenesia ética: una modesta propuesta para el siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mi querido amiga
 Tu risa resuena a través de mi corazón como campanillas de viento
@@ -56,3 +77,24 @@ Rezando por ti,
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenesia ética: una modesta propuesta para el siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

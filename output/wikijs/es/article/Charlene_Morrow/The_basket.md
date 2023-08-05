@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Charlene Morrow<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/K_Brendi_Poppel/Time_and_time_out">
+          <span class="pr-2">Tiempo y tiempo fuera</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 *Charlene Morrow, Edmond OK*
 
@@ -67,3 +91,27 @@ Un día a solas con Dios<br>
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/K_Brendi_Poppel/Time_and_time_out">
+          <span class="pr-2">Tiempo y tiempo fuera</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

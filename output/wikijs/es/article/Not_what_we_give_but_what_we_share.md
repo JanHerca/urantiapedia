@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los milagros de Jesús y la voluntad del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">No lo que damos... sino lo que compartimos...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los siguientes versos son extractos de «La visión de Sir Launfal» de James Russell Lowell. Sir Launfal ha regresado de las Cruzadas como un mendigo, con su arrogancia rota y con solo un mendrugo de pan para comer, cuando un leproso le pide limosna.
 
@@ -51,3 +75,27 @@ A él mismo, a su vecino hambriento y a mí».
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los milagros de Jesús y la voluntad del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">No lo que damos... sino lo que compartimos...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

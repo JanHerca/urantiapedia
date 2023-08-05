@@ -45,19 +45,19 @@ Hay una versión de cada uno de nosotros que solo puede cobrar vida buscando y u
 
 Dios no solo está con nosotros, está en nosotros. A medida que unimos conscientemente nuestro sentido de identidad con la presencia interior de Dios, no solo nos volvemos más semejantes a Dios, sino que también nos volvemos más auténtica y plenamente nosotros mismos. Nuestras dotes divinas de la naturaleza original se expresan más plena y fuertemente.
 
-> La personalidad es un don único de naturaleza original. <a id="a47_67"></a>[LU 16:8.3](/es/The_Urantia_Book/16#p8_3)
+> La personalidad es un don único de naturaleza original. <a id="a47_58"></a>[LU 16:8.3](/es/The_Urantia_Book/16#p8_3)
 
-> Los Ajustadores del Pensamiento forman parte de la esencia de la Deidad original. <a id="a49_75"></a>[LU 107:1.1](/es/The_Urantia_Book/107#p1_1)
+> Los Ajustadores del Pensamiento forman parte de la esencia de la Deidad original. <a id="a49_84"></a>[LU 107:1.1](/es/The_Urantia_Book/107#p1_1)
 
 La importancia combinada de la _originalidad_ y la _iniciativa individual_ se enfatiza muchas veces en el libro. Veremos que estos imperativos no solo respaldan la misión declarada de los ángeles del progreso, sino que también gobiernan la evolución de esta **era del universo: la era del Supremo**.
 
-> ...durante la era actual en que la evolución del Supremo no ha terminado, los Ancianos de los Días aseguran el supercontrol administrativo coordinado y perfecto de los universos evolutivos del tiempo y del espacio. Todos los decretos y decisiones de los Ancianos de los Días están caracterizados por la _sabiduría de la originalidad_ y la _iniciativa de la individualidad_. <a id="a53_352"></a>[LU 18:3.9](/es/The_Urantia_Book/18#p3_9)
+> ...durante la era actual en que la evolución del Supremo no ha terminado, los Ancianos de los Días aseguran el supercontrol administrativo coordinado y perfecto de los universos evolutivos del tiempo y del espacio. Todos los decretos y decisiones de los Ancianos de los Días están caracterizados por la _sabiduría de la originalidad_ y la _iniciativa de la individualidad_. <a id="a53_376"></a>[LU 18:3.9](/es/The_Urantia_Book/18#p3_9)
 
-> Jesús deseaba desarrollar la comprensión espiritual de las realidades eternas y estimular la _iniciativa_ en la _originalidad_ de la manera de vivir... <a id="a55_137"></a>[LU 140:8.31](/es/The_Urantia_Book/140#p8_31)
+> Jesús deseaba desarrollar la comprensión espiritual de las realidades eternas y estimular la _iniciativa_ en la _originalidad_ de la manera de vivir... <a id="a55_154"></a>[LU 140:8.31](/es/The_Urantia_Book/140#p8_31)
 
-> El industrialismo... debería promoverse de tal manera que favorezca la _iniciativa_... La sociedad debería fomentar la _originalidad_ por todos los medios. <a id="a57_161"></a>[LU 70:2.18](/es/The_Urantia_Book/70#p2_18)
+> El industrialismo... debería promoverse de tal manera que favorezca la _iniciativa_... La sociedad debería fomentar la _originalidad_ por todos los medios. <a id="a57_158"></a>[LU 70:2.18](/es/The_Urantia_Book/70#p2_18)
 
-> Exhortó a sus oyentes a que se esforzaran por ser _originales_. <a id="a59_56"></a>[LU 149:4.4](/es/The_Urantia_Book/149#p4_4)
+> Exhortó a sus oyentes a que se esforzaran por ser _originales_. <a id="a59_66"></a>[LU 149:4.4](/es/The_Urantia_Book/149#p4_4)
 
 > Las formas de cualquier simbolismo útil deben ser aquellas que el individuo pueda llevar a cabo por su propia _iniciativa_. <a id="a61_126"></a>[LU 87:7.9](/es/The_Urantia_Book/87#p7_9)
 
@@ -68,21 +68,21 @@ Ambas responsabilidades implican traer a la existencia posibilidades nuevas y su
 El fluir de este proceso, desde la vida interior hasta la manifestación exterior, está claramente sugerido por estas dos verdades fundamentales:
 
 1. El hacer la voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios. <a id="a69_145"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)
-2. Todos los progresos de la verdadera civilización nacen en este mundo interior de la humanidad. Sólo la vida interior es realmente creativa.<a id="a70_151"></a>[LU 111:4.3](/es/The_Urantia_Book/111#p4_3)
+2. Todos los progresos de la verdadera civilización nacen en este mundo interior de la humanidad. Sólo la vida interior es realmente creativa.<a id="a70_142"></a>[LU 111:4.3](/es/The_Urantia_Book/111#p4_3)
 
 Sabemos que nuestros serafines tienen la capacidad (de alguna manera) de coordinar su ministerio con el liderazgo de nuestros Ajustadores. Incluso en ausencia de comunicación directa con los ángeles del progreso, podemos ver cómo nuestra originalidad inspirada por el Ajustador (que crece como resultado de compartir nuestra vida interior con Dios), cuando se pone en acción a través de la iniciativa de la personalidad individual, sin duda ayudará a los ángeles del progreso. en sus esfuerzos por «iniciar» el progreso evolutivo y hacer que las cosas sean «lo que deberían ser».
 
 > El progreso exige el desarrollo de la individualidad. <a id="a74_56"></a>[LU 48:7.29](/es/The_Urantia_Book/48#p7_29)
 
-> Los serafines actúan como educadores de los hombres, guiando los pasos de la personalidad humana por los caminos de las experiencias nuevas y progresivas. <a id="a76_150"></a>[LU 113:4.3](/es/The_Urantia_Book/113#p4_3)
+> Los serafines actúan como educadores de los hombres, guiando los pasos de la personalidad humana por los caminos de las experiencias nuevas y progresivas. <a id="a76_157"></a>[LU 113:4.3](/es/The_Urantia_Book/113#p4_3)
 
-> Aunque no existe en apariencia ninguna comunicación entre los Ajustadores interiores y los serafines que rodean al hombre, siempre parecen trabajar en perfecta armonía y exquisito acuerdo. <a id="a78_173"></a>[LU 113:4.5](/es/The_Urantia_Book/113#p4_5)
+> Aunque no existe en apariencia ninguna comunicación entre los Ajustadores interiores y los serafines que rodean al hombre, siempre parecen trabajar en perfecta armonía y exquisito acuerdo. <a id="a78_191"></a>[LU 113:4.5](/es/The_Urantia_Book/113#p4_5)
 
 La mente, por supuesto, es un factor enorme en todo esto. Es dentro de nuestra «arena mental» donde nacen las percepciones y realizaciones originales. La mente humana, con sus incesantes propuestas y sugerencias, es un don vivo que está diseñado para apoyar la formulación de ideas originales. Pero depende de nosotros evaluar y controlar esta actividad mental, y elegir solo aquellos pensamientos inspirados por (o consistentes con) la guía interna de nuestro Ajustador.
 
 Por eso es tan importante nuestra capacidad de sentir la presencia de Dios. La mente humana es confiable solo cuando está dirigida por elecciones y decisiones guiadas por el espíritu que nacen de nuestro amor por Dios. Las percepciones espirituales originales están inspiradas en nuestras experiencias de compañerismo con Dios.
 
-> ...el amor es el verdadero guía que conduce a la perspicacia auténtica. <a id="a84_59"></a>[LU 195:5.14](/es/The_Urantia_Book/195#p5_14)
+> ...el amor es el verdadero guía que conduce a la perspicacia auténtica. <a id="a84_74"></a>[LU 195:5.14](/es/The_Urantia_Book/195#p5_14)
 
 A medida que nuestra identidad de alma humana/divina se vuelve más real, y nuestro deseo consciente de trabajar con los ángeles del progreso se vuelve más fuerte, encontraremos naturalmente un valor creciente en nuestras ideas más originales y ejercitaremos más voluntariamente la iniciativa en nuestro deseo de manifestarlas.
 

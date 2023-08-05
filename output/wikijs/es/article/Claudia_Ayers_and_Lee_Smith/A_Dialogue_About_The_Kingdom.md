@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Claudia Ayers and Lee Smith<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Origen de la Fraternidad Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Anti_Terror_Treatise">
+          <span class="pr-2">Tratado antiterrorista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «La duda es un dolor demasiado solitario para saber que la fe es su hermano».
@@ -35,20 +59,20 @@ Por el poder de la sabiduría grupal, enmendada con la oración y la meditación
 
 **Lee:** Realmente todo vuelve al conflicto entre la duda y la fe con el que cada uno de nosotros tiene que enfrentarse personalmente. Es relativamente fácil entender que la duda es alimentada por el miedo. La fe real, impulsada por Dios, es liberadora y constructora del alma.
 
-Jesús, en sus instrucciones para maestros y creyentes, amonesta: _«Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad.»_ <a id="a57_263"></a>[[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
+Jesús, en sus instrucciones para maestros y creyentes, amonesta: _«Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad.»_ <a id="a61_263"></a>[[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
 
 
 **Claudia:** ¿Qué quiso decir Jesús con «el reino de los cielos»? Lo usó indistintamente con «el reino de Dios», ya sus apóstoles siempre les enseñó que el reino abarca la experiencia personal de un individuo en relación con otros aquí en la tierra y con el Padre en el cielo. Pero Jesús estaba haciendo todo lo posible para contrarrestar la creencia mesiánica de que el pueblo elegido desplazaría los «reinos de los hombres» con un reino físico de Dios, y además tuvo que lidiar con una miríada de Otros factores de su época y edad en la tierra que impidió que su verdadero significado fuera transmitido.
 
-Encontramos en [documento 170](/es/The_Urantia_Book/170), durante el último sermón de Jesús en Pella, que predicó extensamente sobre el tema del reino de los cielos. _«El gran esfuerzo incluido en este sermón fue la tentativa por trasladar el concepto del reino de los cielos al ideal de la idea de hacer la voluntad de Dios. Hacía tiempo que el Maestro había enseñado a sus seguidores a orar: «Que venga tu reino; que se haga tu voluntad»; en esta época intentó seriamente inducirlos a que abandonaran la utilización de la expresión *reino de Dios* a favor de un equivalente más práctico: *la voluntad de Dios*. Pero no lo consiguió.»_ <a id="a62_637"></a>[[LU 170:2.11](/es/The_Urantia_Book/170#p2_11)] Me tomo este mensaje muy en serio. Con frecuencia me recuerdo a mí mismo esta verdad personal al practicar esta sencilla meditación restauradora: inhalo «Tu voluntad» y exhalo «Hágase».[^1]
+Encontramos en [documento 170](/es/The_Urantia_Book/170), durante el último sermón de Jesús en Pella, que predicó extensamente sobre el tema del reino de los cielos. _«El gran esfuerzo incluido en este sermón fue la tentativa por trasladar el concepto del reino de los cielos al ideal de la idea de hacer la voluntad de Dios. Hacía tiempo que el Maestro había enseñado a sus seguidores a orar: «Que venga tu reino; que se haga tu voluntad»; en esta época intentó seriamente inducirlos a que abandonaran la utilización de la expresión *reino de Dios* a favor de un equivalente más práctico: *la voluntad de Dios*. Pero no lo consiguió.»_ <a id="a66_637"></a>[[LU 170:2.11](/es/The_Urantia_Book/170#p2_11)] Me tomo este mensaje muy en serio. Con frecuencia me recuerdo a mí mismo esta verdad personal al practicar esta sencilla meditación restauradora: inhalo «Tu voluntad» y exhalo «Hágase».[^1]
 
 La comunidad espiritual de hoy nuevamente se encuentra en la necesidad de un concepto para designar el poder de la fe y la trascendencia de la realidad espiritual. La frase del Reino de los Cielos fue problemática hace 2000 años, y parece ser tan poco clara hoy. La persistencia de conceptos espirituales terriblemente confusos está acercando cada vez más a nuestro planeta a la fractura, si no a la destrucción. El mundo necesita llamadas unificadoras a la fe.
 
-**Lee:** Jesús luchó para cambiar y elevar el concepto mesiánico judío del concepto de «reino» a la idea de «compañerismo familiar» con Dios como nuestro padre amoroso. Se nos dice que él _«intentó sustituir la palabra «reino» por otros muchos términos, pero siempre sin éxito. Utilizó entre otros: la familia de Dios, la voluntad del Padre, los amigos de Dios, la comunidad de los creyentes, la fraternidad de los hombres, el redil del Padre, los hijos de Dios, la comunidad de los fieles, el servicio del Padre, y los hijos liberados de Dios._» <a id="a66_547"></a>[[LU 170:2.24](/es/The_Urantia_Book/170#p2_24)]
+**Lee:** Jesús luchó para cambiar y elevar el concepto mesiánico judío del concepto de «reino» a la idea de «compañerismo familiar» con Dios como nuestro padre amoroso. Se nos dice que él _«intentó sustituir la palabra «reino» por otros muchos términos, pero siempre sin éxito. Utilizó entre otros: la familia de Dios, la voluntad del Padre, los amigos de Dios, la comunidad de los creyentes, la fraternidad de los hombres, el redil del Padre, los hijos de Dios, la comunidad de los fieles, el servicio del Padre, y los hijos liberados de Dios._» <a id="a70_547"></a>[[LU 170:2.24](/es/The_Urantia_Book/170#p2_24)]
 
 Para mí, el reino de los cielos se construye realmente sobre un patrón de relaciones personales, y no sobre un marco de prosa cristalizada. Esta realización es una consecuencia de la interacción dinámica entre los buscadores sinceros de la verdad y la inspiración divina.
 
-Los símbolos de palabras, por muy instructivos que sean, crean sus propias limitaciones. Se nos dice en la «Última Enseñanza en Pella» que aprendemos acerca de Dios de Jesús observando la divinidad de su vida, no dependiendo de sus enseñanzas... «_Jesús nunca dijo: «Cualquiera que me ha escuchado, ha escuchado a Dios». Pero sí dijo: «Aquel que me ha visto, ha visto al Padre». Escuchar la enseñanza de Jesús no equivale a conocer a Dios, pero ver a Jesús es una experiencia que es en sí misma una revelación del Padre al alma.»_ <a id="a70_531"></a>[[LU 169:4.12](/es/The_Urantia_Book/169#p4_12)]
+Los símbolos de palabras, por muy instructivos que sean, crean sus propias limitaciones. Se nos dice en la «Última Enseñanza en Pella» que aprendemos acerca de Dios de Jesús observando la divinidad de su vida, no dependiendo de sus enseñanzas... «_Jesús nunca dijo: «Cualquiera que me ha escuchado, ha escuchado a Dios». Pero sí dijo: «Aquel que me ha visto, ha visto al Padre». Escuchar la enseñanza de Jesús no equivale a conocer a Dios, pero ver a Jesús es una experiencia que es en sí misma una revelación del Padre al alma.»_ <a id="a74_531"></a>[[LU 169:4.12](/es/The_Urantia_Book/169#p4_12)]
 
 
 **Claudia:** Cada uno de nosotros está conectado con todos los demás seres vivos. Cada uno de nosotros está vinculado incluso a las estructuras elementales y las energías del universo que encienden, apoyan y sustentan la vida. El sistema viviente que algunos llaman tierra y otros llaman Urantia, está orientado a volverse cada vez más sostenible, o no lo está. Cada uno de nosotros tiene una mano en esta guía planetaria.
@@ -70,6 +94,31 @@ Los reinos humanos están desapareciendo del planeta, pero esperamos y rezamos p
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Origen de la Fraternidad Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Anti_Terror_Treatise">
+          <span class="pr-2">Tratado antiterrorista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 
