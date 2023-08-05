@@ -9,29 +9,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chuck Thurston<br>© 2021 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De dos mentes: humana y divina</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month">
-          <span class="pr-2">Presentar las Enseñanzas de Urantia a 15.000 personas por mes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 El concepto de «sinergia» apareció por primera vez en la teología y las ciencias naturales a mediados del siglo XIX, pero con un significado menos definido que la comprensión actual del término. No fue hasta más tarde, después de la publicación de _El Libro de Urantia_, que la idea de sinergia se hizo popular con la definición que tenemos hoy:
@@ -175,26 +152,3 @@ Nuestra asociación creativa con estas dotes de presencia espiritual, ya que est
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De dos mentes: humana y divina</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month">
-          <span class="pr-2">Presentar las Enseñanzas de Urantia a 15.000 personas por mes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

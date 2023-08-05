@@ -9,29 +9,6 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Steven Hecht<br>© 2003 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una chica judía encuentra a Jesús</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
-          <span class="pr-2">Salvaguardar los símbolos de la fe de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 (Presentado en la Conferencia de Lectores de Nueva York/Nueva Inglaterra, noviembre de 2002)
@@ -81,26 +58,4 @@ Entonces el Maestro procedió a advertir a sus oyentes que no aceptaran la idea 
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una chica judía encuentra a Jesús</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
-          <span class="pr-2">Salvaguardar los símbolos de la fe de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
+

@@ -9,29 +9,6 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 David Kantor<br>© 2004 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Doreen_Heyne/Illumination_Transformation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Iluminación / Transformación</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
-          <span class="pr-2">El surgimiento de la tecnología espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 El año pasado me invitaron a hablar ante un grupo de lectores en un país de Europa del Este. Cuando le pregunté al anfitrión sobre un tema, dijo: «La vida es tan deprimida aquí, por favor cuéntanos algo sobre la esperanza». Este ensayo, entonces, trata sobre la esperanza en el contexto de la vida diaria, no sobre abstracciones metafísicas o intelectuales. Se trata de un elemento importante de las luchas psicológicas, sociales y espirituales que encontramos en la vida diaria.
@@ -175,26 +152,3 @@ Hay mucho por hacer. ¡Pongámonos a trabajar!
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Doreen_Heyne/Illumination_Transformation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Iluminación / Transformación</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
-          <span class="pr-2">El surgimiento de la tecnología espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

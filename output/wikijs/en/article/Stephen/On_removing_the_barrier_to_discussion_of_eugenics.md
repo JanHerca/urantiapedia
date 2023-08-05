@@ -24,11 +24,15 @@ dateCreated: 2023-01-25T11:12:37.284Z
         </a>
         </td>
         <td>
+        <a href="/en/article/Charlene_Morrow/The_basket">
+          <span class="pr-2">The basket</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 (Note: The author has asked us to withhold his full identity to protect his professional status and connections. We are complying with his request. — Editors) 
@@ -108,6 +112,8 @@ It is important to recognize that the dominant factor in Nazi ideology had nothi
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -123,6 +129,9 @@ It is important to recognize that the dominant factor in Nazi ideology had nothi
         </a>
         </td>
         <td>
+        <a href="/en/article/Charlene_Morrow/The_basket">
+          <span class="pr-2">The basket</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

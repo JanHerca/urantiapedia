@@ -9,29 +9,6 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Alison Gardner<br>© 2002 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los milagros de Jesús y la voluntad del Padre</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
-          <span class="pr-2">La práctica religiosa y la revelación de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Hace un par de años, un grupo diverso de lectores veteranos de _El Libro de Urantia_ asumió la abrumadora tarea de establecer un significado nuevo y más amplio para la palabra culto. El panel ahora se está preparando para publicar su trabajo a través de la serie Wrightwood de _El Libro de Urantia_ Fellowship, un programa que patrocina la búsqueda académica de los principales estudios temáticos. Estas publicaciones están destinadas a un público amplio, incluidas personas nuevas en _El Libro de Urantia_ o que se enteran de su existencia por primera vez.
@@ -207,26 +184,3 @@ Es el individuo mismo, quien debe liberarse de estas interrupciones profanas, di
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los milagros de Jesús y la voluntad del Padre</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
-          <span class="pr-2">La práctica religiosa y la revelación de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

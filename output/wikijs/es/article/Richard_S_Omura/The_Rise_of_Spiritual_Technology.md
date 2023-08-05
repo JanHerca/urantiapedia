@@ -9,29 +9,6 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Richard S. Omura<br>© 2004 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/David_Kantor/An_Essay_on_Hope">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un ensayo sobre la esperanza</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
-          <span class="pr-2">Meditación en El libro de Urantia: al estilo de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Presentado por primera vez en 2003 como un taller en la sesión de estudio de verano de la beca _El Libro de Urantia_ en la Universidad de East Stroudsburg en Pensilvania, el propósito de este tratado no es solo validar las verdades en _El Libro de Urantia_ y los significados y valores que tiene en nuestras vidas, sino para sugerir formas de usar estas pepitas de información para enriquecer y facilitar nuestro crecimiento espiritual. _El Libro de Urantia_ se toma metafóricamente como un mapa del tesoro y el único criterio que utilizaremos para verificar la veracidad y validez del mapa es su capacidad para llevarnos al tesoro. El «tesoro» en el caso de _El Libro de Urantia_, o cualquier camino espiritual para el caso, son las verdades que contiene y que nos permitirán exhibir en nuestras vidas los «frutos del espíritu». (También en línea en: www.RichardOmura.com/st)
@@ -316,26 +293,3 @@ _El Libro de Urantia_ contiene muchos más «tesoros» como los que he mencionad
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/David_Kantor/An_Essay_on_Hope">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un ensayo sobre la esperanza</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
-          <span class="pr-2">Meditación en El libro de Urantia: al estilo de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

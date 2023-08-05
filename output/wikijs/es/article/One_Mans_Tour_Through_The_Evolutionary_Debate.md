@@ -9,26 +9,6 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Carmelo Martínez, por la traducción<br>© 2011 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Más cerca, Dios mío, de ti». Acercándonos a Dios</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 __NOTA: El consejo de dirección de_ The Fellowship Herald _ha aceptado la petición del autor de mantenerse en el anonimato.__
@@ -538,26 +518,6 @@ En la civilización moderna, se estima cada vez más que la autoridad en los asu
 - Traducción obtenida de: https://aue.urantia-association.org/2021/10/29/trabajos-nuestras-recomendaciones-del-mes-8/
 
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Más cerca, Dios mío, de ti». Acercándonos a Dios</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 ## Notas
 

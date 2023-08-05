@@ -9,29 +9,6 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Peter Holley<br>© 2005 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los próximos cincuenta años</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
-          <span class="pr-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 (Nota del editor: todas las palabras en negrita indican énfasis del autor).
@@ -241,30 +218,6 @@ Terminaré este artículo con algunas citas que se encuentran esparcidas por _El
 
 
 
-
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los próximos cincuenta años</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
-          <span class="pr-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 ## Notas
 

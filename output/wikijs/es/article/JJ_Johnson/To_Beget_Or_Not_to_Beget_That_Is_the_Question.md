@@ -9,29 +9,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 JJ Johnson<br>© 2020 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Uversa — El futuro Cuartel General del Ser Supremo</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/David_Kantor/Contrasting_Jesus_and_Paul">
-          <span class="pr-2">Contraste de Jesús y Pablo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Una parte fascinante y algo desconcertante de _El Libro de Urantia_ tiene que ver con las opciones que se le presentan a nuestro Hijo Creador en preparación para su otorgamiento final. Uno en particular implicaba opciones de vida a las que se enfrentan todos los mortales: tomar pareja y tener descendencia o no. Sin embargo, en el caso de Jesús, el consejo fue que no se puede dejar descendencia.
@@ -112,26 +89,3 @@ A **Linda Lockwood**, cuyas excepcionales habilidades de edición elevaron y mej
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Uversa — El futuro Cuartel General del Ser Supremo</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/David_Kantor/Contrasting_Jesus_and_Paul">
-          <span class="pr-2">Contraste de Jesús y Pablo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

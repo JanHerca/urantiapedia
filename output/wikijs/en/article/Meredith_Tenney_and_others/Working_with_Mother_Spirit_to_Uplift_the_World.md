@@ -14,8 +14,8 @@ dateCreated: 2023-02-19T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/David_Kantor/Exploring_Urantia_Book_Christology">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring Urantia Book Christology</span>
+        <a href="/en/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">There Was a Man Once</span>
         </a>
         </td>
         <td>
@@ -32,6 +32,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -52,9 +53,9 @@ The ascent of feminine principles, which seek to establish balance between the m
 
 As our world psyche reconnects more fully to the repressed feminine, some men fear they will lose their male identity and be dispossessed of their former [powerful] place in society. And they are right in certain respects because as the collective whole of humanity reunites with the repressed feminine, enormous adjustments will be required and it will take time to achieve a new balance in our planetary consciousness. For a very long time in our Western and world civilizations, the feminine expression of God’s nature in our Western and world civilization - that which is the very source of life and mind in the universe – has been controlled, exploited and objectified by the dominant masculine power structure. This is sometimes referred to as the unacknowledged shadow side of the masculine. It is clearly being exposed, recognized, and named during the current epoch. Gradually it will be more fully exposed and tamed. This may be a scary process for some – not all – men. Therefore, we have a responsibility to educate about this process of psychosocial evolution, to bring light and understanding to the changes, and to disarm fear through compassionate listening and dialogue. 
 
-Men and women must go through this process of change together with as much clarity, openness, trust, and courage as possible, that is to say, with the understanding that our gender differences will <a id="a54_198"></a>[[UB 84:6.6](/en/The_Urantia_Book/84#p6_6)] “continue to intrigue, stimulate, encourage, and assist each other” even as a greater relationship of mutuality between the genders is being reached as part of the evolutionary plan of progressive perfection. 
+Men and women must go through this process of change together with as much clarity, openness, trust, and courage as possible, that is to say, with the understanding that our gender differences will <a id="a55_198"></a>[[UB 84:6.6](/en/The_Urantia_Book/84#p6_6)] “continue to intrigue, stimulate, encourage, and assist each other” even as a greater relationship of mutuality between the genders is being reached as part of the evolutionary plan of progressive perfection. 
 
-It could be said that the changes in the social fabric of Western society (and our whole world) that have been underway since the early 20th century are perhaps directly attributable to the remarkable transition in the relationship between our Creator Son Michael and our Creative Mother Spirit that occurred when Michael attained to his status as a Master Son, after completing his seventh and final bestowal mission as Jesus. At that time Michael issued the “Proclamation of Equality” which affirmed the Mother Spirit’s equality with him in all endowments of personality and attributes of divine character. This becomes the transcendent pattern for the family organization and government of even the lowly creatures of the worlds of space. (<a id="a56_743"></a>[[UB 33:3.5-8](/en/The_Urantia_Book/33#p3_5)]). 
+It could be said that the changes in the social fabric of Western society (and our whole world) that have been underway since the early 20th century are perhaps directly attributable to the remarkable transition in the relationship between our Creator Son Michael and our Creative Mother Spirit that occurred when Michael attained to his status as a Master Son, after completing his seventh and final bestowal mission as Jesus. At that time Michael issued the “Proclamation of Equality” which affirmed the Mother Spirit’s equality with him in all endowments of personality and attributes of divine character. This becomes the transcendent pattern for the family organization and government of even the lowly creatures of the worlds of space. (<a id="a57_743"></a>[[UB 33:3.5-8](/en/The_Urantia_Book/33#p3_5)]). 
 
 Just as Michael and our Mother Spirit recognize their new fundamentally equal and mutual co-rulership of the universe, so too must men and women move into an entirely new stage of human existence on Urantia whereby each acknowledges and respects the equal rights of the other. We may have different gender traits but we are equal as persons and must be free to express our personalities in society. 
 
@@ -64,9 +65,9 @@ In all the mustering of women, Mother Spirit has not overlooked the women in the
 
 So why is our Universe Mother Spirit gathering the women? How are Urantians, men and women alike, uniquely positioned to help her? What does she want us to do? As _Urantia Book readers of the Fifth Epochal Revelation, _Urantia Book_ readers have a wealth of knowledge about Mother Spirit and her role in the universe others do not have. We have been given a treasure trove of information about the divine pattern of male/female spiritual partnership, and the relationship between Michael/Jesus and Mother. Consider these quotes: 
 
-> "Concerning identity, nature, and other attributes of personality, the [Universal Mother] is the full equal, the perfect complement, and the eternal counterpart of the Universal Father." <a id="a66_189"></a>[[UB 6:8.1](/en/The_Urantia_Book/6#p8_1)]
+> "Concerning identity, nature, and other attributes of personality, the [Universal Mother] is the full equal, the perfect complement, and the eternal counterpart of the Universal Father." <a id="a67_189"></a>[[UB 6:8.1](/en/The_Urantia_Book/6#p8_1)]
 
-> The Father in Heaven treats the Spirit Mother of the children of the universe as one equal to himself. <a id="a68_105"></a>[[UB 133:2.2](/en/The_Urantia_Book/133#p2_2)]
+> The Father in Heaven treats the Spirit Mother of the children of the universe as one equal to himself. <a id="a69_105"></a>[[UB 133:2.2](/en/The_Urantia_Book/133#p2_2)]
 
 Almost no other faith tradition has a theology acknowledging the Divine Feminine as an equal co-partner to the Father in Heaven, and that information is sorely needed in the world. If Adam and Eve had not gone into default, we would have had a role model of the divine pattern for male/female spiritual and social partnership in our Material Son and Daughter that would have helped us to forego the gender imbalance on our planet which has been a root cause of so many problems. As it is, we Urantians have a unique body of knowledge that positions us to be of great assistance to our Mother Spirit in her efforts to uplift our world and move it towards Light and Life. As the true and equal co-creative Mother spirit parent with Michael, our Father spirit parent, this Universe has been created, held and sustained by the co- operative loving effort of both our Mother and Father Spirits. 
 
@@ -113,13 +114,15 @@ Since the start of the current millennium a growing collective of women in the U
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/David_Kantor/Exploring_Urantia_Book_Christology">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring Urantia Book Christology</span>
+        <a href="/en/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">There Was a Man Once</span>
         </a>
         </td>
         <td>

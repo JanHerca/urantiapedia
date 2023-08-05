@@ -9,29 +9,6 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Arlene and Buck Weimer<br>© 2004 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación en El libro de Urantia: al estilo de Jesús</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Steven_Hecht/A_Trace_of_God">
-          <span class="pr-2">Un rastro de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 (Abajo se encuentra una reformulación de un taller presentado en la Sesión de Estudio de Verano en East Stroudsburg, PA el 18 de julio de 2003. Fue presentado por Arlene y Buck Weimer, con la amorosa asistencia de Sara Blackstock, en 2 partes: «El Arte del Matrimonio » y «Reuniones familiares y disciplina»).
@@ -128,26 +105,3 @@ Las reuniones familiares y el método de disciplina Respeto ofrecen una situaci�
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación en El libro de Urantia: al estilo de Jesús</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Steven_Hecht/A_Trace_of_God">
-          <span class="pr-2">Un rastro de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

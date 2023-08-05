@@ -14,8 +14,8 @@ dateCreated: 2023-02-19T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperating with the Holy Spirit</span>
+        <a href="/en/article/Framy_Mas/Mother_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mother*Mother</span>
         </a>
         </td>
         <td>
@@ -24,8 +24,8 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
-          <span class="pr-2">Living with the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Sharon_Porter/Poem_to_our_Parents">
+          <span class="pr-2">Poem to our Parents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -34,7 +34,8 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 
-Our _Urantia Book_ teaches us that we have a Universe Mother and a Universe Father and that they are our spiritual parents. It states that they both are coequal creators as well as coequal administrators. “A Creator Son ... and a Creative Spirit ... created you and your universe ... [and they] minister to the creatures of their own making.” <a id="a36_343"></a>[[UB 8:3.4](/en/The_Urantia_Book/8#p3_4)] 
+
+Our _Urantia Book_ teaches us that we have a Universe Mother and a Universe Father and that they are our spiritual parents. It states that they both are coequal creators as well as coequal administrators. “A Creator Son ... and a Creative Spirit ... created you and your universe ... [and they] minister to the creatures of their own making.” <a id="a37_343"></a>[[UB 8:3.4](/en/The_Urantia_Book/8#p3_4)] 
 
 As Urantians, we need to keep the bow of our boat well pointed into the wave of change. The forward thinking authors of our book brought us new ideas and ideals of change. 
 
@@ -52,7 +53,7 @@ At times, it feels like we have locked Her up, hid Her inside a closet and almos
 
 I believe that our own angels and our special angels of progress are asking this of us - to be more balanced as on other non-rebellion-torn worlds. There they love, honor and respect our Universe Mother and our Universe Father as their Universal spiritual parents and creators. This is the good news our beloved _Urantia Book_ teaches us. We are fishing for souls who are ready to seek truth with these teachings! 
 
-> “Divine executioners are masterful manipulators of that which is in the interests of that which ought to be.” <a id="a54_112"></a>[[UB 25:3.5](/en/The_Urantia_Book/25#p3_5)] 
+> “Divine executioners are masterful manipulators of that which is in the interests of that which ought to be.” <a id="a55_112"></a>[[UB 25:3.5](/en/The_Urantia_Book/25#p3_5)] 
 
 There are three distinct spirit circuits that inhabit our world and our Universe. They are: 1) Our Divine Mother and her Holy Spirit, 2) our Divine Father and his Spirit of Truth and 3) the Adjutant Mind Spirits. 
 
@@ -62,13 +63,15 @@ When we find our balance in our movement, when we really fully embrace God as ou
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperating with the Holy Spirit</span>
+        <a href="/en/article/Framy_Mas/Mother_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mother*Mother</span>
         </a>
         </td>
         <td>
@@ -77,8 +80,8 @@ When we find our balance in our movement, when we really fully embrace God as ou
         </a>
         </td>
         <td>
-        <a href="/en/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
-          <span class="pr-2">Living with the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Sharon_Porter/Poem_to_our_Parents">
+          <span class="pr-2">Poem to our Parents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

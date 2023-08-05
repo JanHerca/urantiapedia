@@ -9,26 +9,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Richard Rosen<br>© 2017 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué nos dice el libro de Urantia que debe lograrse?</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Escuchar de lo Divino puede parecer misterioso, abstracto de algo que simplemente te sucede, pero tenemos el control. Hay principios por los cuales escuchamos de Dios. Estos son los que me funcionaron. Cada uno de nosotros, debido a que tenemos una relación única con Dios, diferirá en cómo escucha la voz divina. Estos están aquí para estimular su pensamiento.
@@ -168,23 +148,3 @@ McMullen III, Harry. _Principios para conocer la voluntad de Dios_. De la Confer
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué nos dice el libro de Urantia que debe lograrse?</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

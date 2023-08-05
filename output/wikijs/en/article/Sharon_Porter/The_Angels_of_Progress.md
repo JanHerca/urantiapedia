@@ -42,7 +42,7 @@ by _Sharon Porter, Georgetown, Texas_
 
 Reader since 1976
 
-> The progress angels. These seraphim are entrusted with the task of initiating the evolutionary progress of the successive social ages. They foster the development of the inherent progressive trend of evolutionary creatures; they labor incessantly to make things what they ought to be. <a id="a44_285"></a>[UB 114:6.6](/en/The_Urantia_Book/114#p6_6)
+> The progress angels. These seraphim are entrusted with the task of initiating the evolutionary progress of the successive social ages. They foster the development of the inherent progressive trend of evolutionary creatures; they labor incessantly to make things what they ought to be. <a id="a44_287"></a>[UB 114:6.6](/en/The_Urantia_Book/114#p6_6)
 
 These Angels of Progress are a unique group of master seraphim assigned to our world. “.... they manipulate planetary conditions and so associate circumstances as to favorably influence the spheres of human activity to which they are attached. While unable to inject new and higher conceptions into human minds, they often act to intensify some higher ideal which has already appeared within a human intellect.” <a id="a46_412"></a>[UB 114:6.18-19](/en/The_Urantia_Book/114#p6_18)
 

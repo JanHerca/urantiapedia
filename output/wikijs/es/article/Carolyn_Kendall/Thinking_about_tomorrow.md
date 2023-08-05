@@ -9,26 +9,6 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carolyn Kendall<br>© 2000 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/David_Elders/Restated_in_modern_phraseology">
-          <span class="pr-2">Reformulado en fraseología moderna</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 _Extractos del discurso presentado en la conmemoración del 50º aniversario de la Fundación Urantia, Chicago, IL, sábado 18 de marzo de 2000_
@@ -104,23 +84,3 @@ Puede ser útil pensar dónde deben colocarse nuestras verdaderas lealtades y pr
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/David_Elders/Restated_in_modern_phraseology">
-          <span class="pr-2">Reformulado en fraseología moderna</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

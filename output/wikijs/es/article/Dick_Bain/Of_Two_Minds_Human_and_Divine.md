@@ -9,29 +9,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Richard Bain<br>© 2021 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir con el Espíritu de la Verdad</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Chuck_Thurston/Divine_Synergy">
-          <span class="pr-2">Sinergia Divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Tanto la teología cristiana como _El Libro de Urantia_ afirman que Jesús era tanto humano como divino. En la teología cristiana ortodoxa, Jesús es presentado como la segunda persona de la Trinidad, Dios el Hijo. Esta es su naturaleza divina según esa teología. Los autores de _El Libro de Urantia_ nos dicen que Cristo Miguel, un Hijo Creador, un ser semejante a Dios que es un creador y la cabeza espiritual del universo local de Nebadon, habitaba en Jesús. La naturaleza divina de Jesús consistía en este ser que habitaba en él.
@@ -161,26 +138,3 @@ Entonces, cuando finalmente nos encontremos con Cristo Miguel en persona, ¿se p
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir con el Espíritu de la Verdad</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Chuck_Thurston/Divine_Synergy">
-          <span class="pr-2">Sinergia Divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

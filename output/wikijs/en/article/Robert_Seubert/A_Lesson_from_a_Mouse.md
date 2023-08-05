@@ -14,8 +14,8 @@ dateCreated: 2023-02-14T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Solar System Discoveries that Corroborate The Urantia Book</span>
+        <a href="/en/article/M_Sanders/The_Book_a_Poem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Book - a Poem</span>
         </a>
         </td>
         <td>
@@ -32,6 +32,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 Several years ago I read the book Flowers for Algernon by Daniel Keyes. It was a fictional novel about a man who had a very low IQ and was selected to be part of a scientific experiment to increase his intelligence. The experiment had been quite successful with a laboratory mouse named Algernon. The experiment turned the man into a super-genius. I couldn’t put the book down and I couldn’t stop talking about it. 
@@ -65,13 +66,15 @@ I learned what it meant to be trustworthy. I learned that being trustworthy was 
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Solar System Discoveries that Corroborate The Urantia Book</span>
+        <a href="/en/article/M_Sanders/The_Book_a_Poem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Book - a Poem</span>
         </a>
         </td>
         <td>

@@ -24,11 +24,15 @@ dateCreated: 2023-02-09T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/en/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">A Reed Singing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Science finds out how nature operates and then gives names to the new issues and phenomena. It specifies the new natural laws through experimental work and using chains of evidence. The earlier proven issues and methods are always used as the primary evidence for new ones, because effects cannot exist without causes. If we have the courage to pursue this chain of evidence to the end and meet the original cause, then we will always end up with God, i.e. we will find the primary reason which has no cause. Atheists try to wriggle out from this logical problem by inventing some name for this primary reason, such as the Big Bang.
@@ -60,6 +64,8 @@ Two thousand years ago cowards shouted "Free Barabbas" and "Crucify Jesus." Many
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -75,6 +81,9 @@ Two thousand years ago cowards shouted "Free Barabbas" and "Crucify Jesus." Many
         </a>
         </td>
         <td>
+        <a href="/en/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">A Reed Singing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

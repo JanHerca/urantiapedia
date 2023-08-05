@@ -9,29 +9,6 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Marilyn Kulieke<br>© 1998 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia desde una perspectiva judía</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions">
-          <span class="pr-2">48 cromosomas: ¿estamos haciendo las preguntas correctas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 > *En febrero de 1998, Marilyn Kulieke, Lincolnshire, IL, retrató dos cualidades de la personalidad en evolución espiritual: confianza y esperanza. Este fue uno de una serie continua de programas especiales patrocinados por The First Society, Chicago.*
@@ -73,27 +50,3 @@ _El Libro de Urantia_ retrata la esperanza como un fenómeno universal. La esper
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
-
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia desde una perspectiva judía</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions">
-          <span class="pr-2">48 cromosomas: ¿estamos haciendo las preguntas correctas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

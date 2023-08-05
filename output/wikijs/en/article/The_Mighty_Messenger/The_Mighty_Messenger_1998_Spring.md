@@ -160,7 +160,7 @@ John was a reader for 20 years and took a very active part in society affairs, w
 
 John was an Area Coordinator and kept in contact with dozens of readers, sharing his extensive knowledge of the book with them. It was his dream to bring the book to the Russian people. He and his wife, Natasha, and their children were planning to move to Russia in December of this year to begin this work.
 
-His favorite quotation is indicative of his faith: “...uncertainty is the secret of contented continuity....when ignorance is essential to success, it would be a colossal blunder for the creature to know the future.” ([UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
+His favorite quotation is indicative of his faith: “...uncertainty is the secret of contented continuity....when ignorance is essential to success, it would be a colossal blunder for the creature to know the future.” (<a id="a162_218"></a>[UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
 
 Warmhearted friends from Oklahoma attended and graced the double occasion with special musical arrangements.
 

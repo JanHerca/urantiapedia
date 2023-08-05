@@ -9,29 +9,6 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Nang Johnson<br>© 2003 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Linda_Buselli/The_Patterns_of_Revelation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los patrones de la revelación</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
-          <span class="pr-2">¿Círculo cerrado o libro abierto?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 He estado reflexionando sobre los atributos y actitudes de Dios durante estos muchos años y me maravillo cada vez más de cómo Él siempre puede ser objetivo sobre todo lo que sucede. Lo entiende todo tan perfectamente que cuando clavaron a su hijo en la cruz, «los amó» tanto como a Cristo y los perdonó incluso antes de que se lo pidieran. Debe haber visto la situación bajo una luz completamente diferente a la nuestra.
@@ -91,26 +68,3 @@ Así que tal vez sería prudente contentarnos con la conciencia de que somos cas
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Linda_Buselli/The_Patterns_of_Revelation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los patrones de la revelación</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
-          <span class="pr-2">¿Círculo cerrado o libro abierto?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

@@ -14,8 +14,8 @@ dateCreated: 2023-02-09T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The New Revelation of the Living Jesus</span>
+        <a href="/en/article/David_Glass/Wonderment_and_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wonderment and revelation</span>
         </a>
         </td>
         <td>
@@ -32,6 +32,7 @@ dateCreated: 2023-02-09T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 To begin to talk about eugenics, or any other subject that touches upon human nature, it is necessary to shed the straitjackets of ideology. At this time one is not allowed to argue the merits of eugenics, but is forced to argue the merits of having a value system at all. Those who would discuss heredity and culture today find themselves in the same position as those who would discuss religion: having to argue against a mentality that is, on principle, opposed to the very idea of objectively real values. Eugenics, with its fundamental assertion of genetic inequality and of the desirability of encouraging some people to breed and discouraging others, raises a double alarm in the contemporary mind. The first alarm has to do with its perceived attack upon the spiritual value of equality. Equality is the supreme value of the political pseudo religion of the age: Rousseauism.
@@ -88,13 +89,15 @@ We should approach eugenics only through a mature philosophy that recognizes the
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The New Revelation of the Living Jesus</span>
+        <a href="/en/article/David_Glass/Wonderment_and_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wonderment and revelation</span>
         </a>
         </td>
         <td>

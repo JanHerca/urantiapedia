@@ -24,14 +24,15 @@ dateCreated: 2023-02-08T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
-          <span class="pr-2">Closed Circle or Open Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Words_of_Wisdom">
+          <span class="pr-2">Words of Wisdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 I've been pondering the attributes and attitudes of God these many years and marvel more and more at how he can always be objective about everything that happens. He understands everything so perfectly that when they nailed his son to the cross, he loved “them” as much as he did Christ and forgave them even before they asked. He must have seen the situation in an entirely different light than we do.
@@ -48,7 +49,7 @@ I put myself under a microscope to look at my own reactions to everyday situatio
 
 The trickiest problem we ran into was facing that we're actually being subjective when we think we're being objective. In time it became a mind game, and we finally reached the point where we could laugh at ourselves as we were caught in the act of being subjective. It's even better when we catch ourselves.
 
-_The Urantia Book_ says on <a id="a50_27"></a>[[UB 100:1.2](/en/The_Urantia_Book/100#p1_2)] that ignorance and prejudice are the greatest inhibitors of growth. It's hard to separate the two or to figure out which comes first. Are we ignorant because we're so wrapped up in our feelings and emotions and preconceived ideas that we can't see the forest for the trees? Or, do we misinterpret and distort reality because we're ignorant? We can't see reality as God sees it; that's for sure. In fact, we can hardly get ourselves out of a situation far enough to see it as the angels see it.
+_The Urantia Book_ says on <a id="a51_27"></a>[[UB 100:1.2](/en/The_Urantia_Book/100#p1_2)] that ignorance and prejudice are the greatest inhibitors of growth. It's hard to separate the two or to figure out which comes first. Are we ignorant because we're so wrapped up in our feelings and emotions and preconceived ideas that we can't see the forest for the trees? Or, do we misinterpret and distort reality because we're ignorant? We can't see reality as God sees it; that's for sure. In fact, we can hardly get ourselves out of a situation far enough to see it as the angels see it.
 
 In a sense, we each view reality as if we were the center of the universe. We certainly start out that way – aware only of our own needs and wants and feelings. Everything else is outside of our “center” and we eventually grow to have a lot of thoughts and opinions and more and more feelings about what goes on “out there.” It is said that by the time we're six years old our attitudes are rather firmly established. Children rarely question what's really happening “out there” or why—their primary concern is how it affects them. They busy themselves learning ways to make things go the way they want them to. And how they want them to go depends on how they've learned to feel about themselves and their environment.
 
@@ -56,19 +57,19 @@ Once set, those attitudes and opinions and feelings are a part of us—unconscio
 
 Reality is whatever it is—nothing can change that. That's objective. It appears different to each of us because we see it from our own center-of-the-universe, and that makes our viewpoint subjective.
 
-Thank heaven for the vicissitudes of existence and certain inevitabilities we must encounter. <a id="a58_94"></a>[[UB 3:5.5-13](/en/The_Urantia_Book/3#p5_5)] Essentially, vicissitude means change. It implies a change great enough to constitute a reversal of what has been and by means that are beyond our control. In the plan of creature evolution, we're supposed to switch from subjective (and self-centered) to objective (God-like). We're assured it produces joy. We're assured that this joy is ours for the striving.
+Thank heaven for the vicissitudes of existence and certain inevitabilities we must encounter. <a id="a59_94"></a>[[UB 3:5.5-13](/en/The_Urantia_Book/3#p5_5)] Essentially, vicissitude means change. It implies a change great enough to constitute a reversal of what has been and by means that are beyond our control. In the plan of creature evolution, we're supposed to switch from subjective (and self-centered) to objective (God-like). We're assured it produces joy. We're assured that this joy is ours for the striving.
 
 The pain or negative reactions we experience can only come from resisting the necessary changes. Oftentimes we experience discomfort in a situation and honestly don't know it's because we're resisting some needed change. Most religions teach something about the virtues of long suffering, and if we accept that and are brave about it, it may not occur to us to investigate what we might be doing ourselves that's causing the discomfort. We just accept it and find that we're better persons for having bravely endured. That certainly may be true, but that does not mean it was necessary. We have full control over how much discomfort we experience in our Paradise ascent, and it is in exact proportion to how much we resist the change from subjective to objective. So even though our resistance may be unintentional, it nonetheless produces discomfort.
 
-Most of our discomfort is _intentional but unconscious._ We hold tenaciously to our ideas of what we consider to be right or wrong. Parties on both sides of a disagreement consider themselves right, or at least hold the other side to be wrong; otherwise, there would be no disagreement. Both sides are probably right, and both are probably wrong. We can see how others often make that mistake, but we have great difficulty being objective where our own value systems are concerned. We're told quite plainly on <a id="a62_510"></a>[[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)] that we _“can be technically right as to fact and everlastingly wrong in the truth.”_ Subjective creatures that we are, we probably interpreted that as an assurance that those who are in disagreement with us are wrong. Our own views are “right,” of course, or we wouldn't believe in them. We can correct this imbalance by trading viewpoints and trying to defend theirs against our own. We can see our views more clearly then.
+Most of our discomfort is _intentional but unconscious._ We hold tenaciously to our ideas of what we consider to be right or wrong. Parties on both sides of a disagreement consider themselves right, or at least hold the other side to be wrong; otherwise, there would be no disagreement. Both sides are probably right, and both are probably wrong. We can see how others often make that mistake, but we have great difficulty being objective where our own value systems are concerned. We're told quite plainly on <a id="a63_510"></a>[[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)] that we _“can be technically right as to fact and everlastingly wrong in the truth.”_ Subjective creatures that we are, we probably interpreted that as an assurance that those who are in disagreement with us are wrong. Our own views are “right,” of course, or we wouldn't believe in them. We can correct this imbalance by trading viewpoints and trying to defend theirs against our own. We can see our views more clearly then.
 
 One of our favorite ways to resist change is also intentional but unconscious. We blame others for whatever misery comes our way. We know we wouldn't intentionally make ourselves miserable, so it's obvious someone else is doing this to us, and we can always come up with someone to blame. Psychology has made enormous strides forward in recent years. If we've kept abreast with the latest findings, we can readily see that it doesn't matter what anyone else “does to us,” we're in strict control of how much we suffer as a result. And if the choice is ours, so is the responsibility for that choice.
 
 If what we read is true about these people who can walk barefoot across a bed of red-hot coals without any sign of burning or pain, we can infer that all of us also have control over physical pain. We just haven't learned the trick yet. We know there are conditions called low and high pain tolerance. People with low pain tolerance often think people with high pain tolerance are just lucky. It could be that people with high pain tolerance make their own “luck” by their attitude. Most will allow that they just don't give their pain any more attention than it takes to make it go away, and they busy themselves with some kind of work they consider more important than the pain. It's a technique of dwelling less on the self and more on what the self is doing, and that is a step toward becoming objective.
 
-On <a id="a68_3"></a>[[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)] we find support for this technique. It says the work we are doing is important. The self is not. It's a handy way to get rid of physical pain, but we find it more noticeably effective in ridding ourselves of a psychological burden brought on by ego. Who of us has not had our feathers ruffled more often than we care to admit? And how often has the real joy of some of our better efforts been marred because we didn't get as much reward or appreciation as we were expecting? It goes on to say we lose a lot of energy to the wear and tear of ego dignity and how much more we can accomplish when we correct that problem. It's easier said than done, but just think of all the trouble and energy we'd save if we didn't resist the change! 
+On <a id="a69_3"></a>[[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)] we find support for this technique. It says the work we are doing is important. The self is not. It's a handy way to get rid of physical pain, but we find it more noticeably effective in ridding ourselves of a psychological burden brought on by ego. Who of us has not had our feathers ruffled more often than we care to admit? And how often has the real joy of some of our better efforts been marred because we didn't get as much reward or appreciation as we were expecting? It goes on to say we lose a lot of energy to the wear and tear of ego dignity and how much more we can accomplish when we correct that problem. It's easier said than done, but just think of all the trouble and energy we'd save if we didn't resist the change! 
 
-<a id="a70_0"></a>[[UB 48:6-7](/en/The_Urantia_Book/48#p6)] is full of ideas we can help ourselves with. We make a lot of plans in our lives that include other people—marriage, family, work, friends, groups, etc. The more subjective we are about what we expect from these relationships, the more certain we can be of disappointments. An unconscious subjective attitude is expressed here in slightly exaggerated form by: “I can't control myself, so I must control others in order to insure my happiness (or peace of mind).” Objectively, the opposite is more apt to succeed: “I can't control others, but I _can_ control myself, and I'll be responsible for my own happiness (or peace of mind).”
+<a id="a71_0"></a>[[UB 48:6-7](/en/The_Urantia_Book/48#p6)] is full of ideas we can help ourselves with. We make a lot of plans in our lives that include other people—marriage, family, work, friends, groups, etc. The more subjective we are about what we expect from these relationships, the more certain we can be of disappointments. An unconscious subjective attitude is expressed here in slightly exaggerated form by: “I can't control myself, so I must control others in order to insure my happiness (or peace of mind).” Objectively, the opposite is more apt to succeed: “I can't control others, but I _can_ control myself, and I'll be responsible for my own happiness (or peace of mind).”
 
 Every day in many ways we're subjective. Every time we feel the slightest discomfort, physically or emotionally, we can probably trace the cause back to some subjective attitude or opinion we're not willing to yield up. Some of these we wouldn't even admit to ourselves, much less to anyone else, so we busy ourselves at “growing spiritually.” That's something like trying to build a house without a foundation—the first ill wind that comes along will blow it over. Notice how often the book refers to our physical (emotional), mindal, and spiritual growth, and notice, too, that its always presented in that order. I presume that was intentional.
 
@@ -91,6 +92,8 @@ So maybe we would be wise to content ourselves with the awareness that we're alm
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -106,8 +109,8 @@ So maybe we would be wise to content ourselves with the awareness that we're alm
         </a>
         </td>
         <td>
-        <a href="/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
-          <span class="pr-2">Closed Circle or Open Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Words_of_Wisdom">
+          <span class="pr-2">Words of Wisdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

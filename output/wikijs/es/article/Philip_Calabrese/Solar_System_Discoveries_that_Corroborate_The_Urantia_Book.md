@@ -9,29 +9,6 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Philip Calabrese<br>© 2009 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diez lecciones del viñedo</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Robert_Seubert/A_Lesson_from_a_Mouse">
-          <span class="pr-2">Una lección de un ratón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 ## I. Descubrimientos del sistema solar.
@@ -118,29 +95,6 @@ Desde su publicación en 1955, he notado repetidamente que [^16] la ciencia cont
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diez lecciones del viñedo</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Robert_Seubert/A_Lesson_from_a_Mouse">
-          <span class="pr-2">Una lección de un ratón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 ## Notas
 

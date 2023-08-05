@@ -14,8 +14,8 @@ dateCreated: 2023-02-19T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Beget Or Not to Beget That Is the Question</span>
+        <a href="/en/article/Duane_Johnson/An_Encounter_This_Unique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Encounter This Unique</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 What we know as Christianity—as well as most of the New Testament—is based almost exclusively on the experience of Paul of Tarsus with “the risen and glorified Christ” on the Damascus Road. 
@@ -57,21 +58,23 @@ For Jesus, the kingdom of heaven is a present reality, here and now; for Paul th
 
 Jesus taught that we live in the presence of a loving Father; Paul taught that we live in the midst of an evil force seeking to control us. 
 
-The coming reformation will shake the very foundations of Christianity because it will finally replace Paul's morose metaphysics of death with the robust revelation of life which Jesus lived and taught during his mortal sojourn as the Son of Man and the Son of God. (<a id="a59_267"></a>[[UB 196:2.1](/en/The_Urantia_Book/196#p2_1)]) 
+The coming reformation will shake the very foundations of Christianity because it will finally replace Paul's morose metaphysics of death with the robust revelation of life which Jesus lived and taught during his mortal sojourn as the Son of Man and the Son of God. (<a id="a60_267"></a>[[UB 196:2.1](/en/The_Urantia_Book/196#p2_1)]) 
 
-Said Jesus, “You are to go forth preaching the love of God and the service of man. That which the world needs most to know is: Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth.” (<a id="a61_243"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]) 
+Said Jesus, “You are to go forth preaching the love of God and the service of man. That which the world needs most to know is: Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth.” (<a id="a62_243"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]) 
 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Beget Or Not to Beget That Is the Question</span>
+        <a href="/en/article/Duane_Johnson/An_Encounter_This_Unique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Encounter This Unique</span>
         </a>
         </td>
         <td>

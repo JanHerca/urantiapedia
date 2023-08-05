@@ -9,26 +9,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Kantor<br>© 2020 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engendrar o no engendrar, esa es la cuestión0</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Lo que conocemos como cristianismo, así como la mayor parte del Nuevo Testamento, se basa casi exclusivamente en la experiencia de Pablo de Tarso con «el Cristo resucitado y glorificado» en el camino a Damasco.
@@ -65,23 +45,3 @@ Jesús dijo: «Debéis salir a predicar el amor de Dios y el servicio a los homb
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engendrar o no engendrar, esa es la cuestión0</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

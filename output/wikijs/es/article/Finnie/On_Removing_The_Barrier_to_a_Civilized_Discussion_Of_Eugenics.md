@@ -9,29 +9,6 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 «Finnie»<br>© 2005 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Nueva Revelación del Jesús Viviente</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
-          <span class="pr-2">Desafío de los próximos cincuenta años...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 Para empezar a hablar de eugenesia, o de cualquier otro tema que toque la naturaleza humana, es necesario despojarse de las camisas de fuerza de la ideología. En este momento a uno no se le permite discutir los méritos de la eugenesia, pero está obligado a discutir los méritos de tener un sistema de valores. Aquellos que discutirían sobre herencia y cultura hoy se encuentran en la misma posición que aquellos que discutirían sobre religión: tener que argumentar contra una mentalidad que es, por principio, opuesta a la idea misma de valores objetivamente reales. La eugenesia, con su afirmación fundamental de la desigualdad genética y de la conveniencia de alentar a algunas personas a procrear y desalentar a otras, genera una doble alarma en la mente contemporánea. La primera alarma tiene que ver con su ataque percibido al valor espiritual de la igualdad. La igualdad es el valor supremo de la pseudo religión política de la época: el rousseauismo.
@@ -88,29 +65,6 @@ Deberíamos abordar la eugenesia solo a través de una filosofía madura que rec
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Nueva Revelación del Jesús Viviente</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
-          <span class="pr-2">Desafío de los próximos cincuenta años...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 ## Notas
 

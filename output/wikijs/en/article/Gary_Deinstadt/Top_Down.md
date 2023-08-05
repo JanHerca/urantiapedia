@@ -24,14 +24,15 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Byron_Belitsos/The_Nature_of_Personal_Reality">
-          <span class="pr-2">The Nature of Personal Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/K_Brendi_Poppel/Healing_Meditation">
+          <span class="pr-2">Healing Meditation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 I was invited to speak on _The Urantia Book_ at an interfaith service that a local Christian church usually schedules on the third Sunday of every month. I know these people well, because I’ve worked with them in other interfaith endeavors. Participants involved come from diverse religious backgrounds, including clergy. They recently created a speaker series. In addition to the invited speaker, there’s an interfaith team of approximately five people, who each contribute a five-minute talk related to the speakers subject matter. 
@@ -77,6 +78,8 @@ So, from this experience I learned:
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -92,8 +95,8 @@ So, from this experience I learned:
         </a>
         </td>
         <td>
-        <a href="/en/article/Byron_Belitsos/The_Nature_of_Personal_Reality">
-          <span class="pr-2">The Nature of Personal Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/K_Brendi_Poppel/Healing_Meditation">
+          <span class="pr-2">Healing Meditation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

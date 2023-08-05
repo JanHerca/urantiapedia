@@ -24,14 +24,15 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
-          <span class="pr-2">Working with Mother Spirit to Uplift the World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="pr-2">There Was a Man Once</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -92,6 +93,8 @@ Christianity in the first few centuries of the Christian era was characterized b
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -107,8 +110,8 @@ Christianity in the first few centuries of the Christian era was characterized b
         </a>
         </td>
         <td>
-        <a href="/en/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
-          <span class="pr-2">Working with Mother Spirit to Uplift the World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="pr-2">There Was a Man Once</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

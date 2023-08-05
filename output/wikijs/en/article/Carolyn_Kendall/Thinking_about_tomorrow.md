@@ -14,6 +14,9 @@ dateCreated: 2023-02-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/en/article/Paula_Thompson/Millenial_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Millenial Prayer</span>
+        </a>
         </td>
         <td>
         <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
@@ -29,6 +32,7 @@ dateCreated: 2023-02-06T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 _Excerpts from the address presented at the observance of the 50th Anniversary of the founding of Urantia Foundation, Chicago, IL, Saturday, March 18, 2000_
@@ -47,7 +51,7 @@ Michael arrived on our world in 7 B.C. His primary mission was to achieve the so
 
 _The Urantia Book_, the fifth epochal revelation, in its brief 45-year history, has accumulated fanciful legends surrounding its origin. It was not brought to earth by aliens in space ships. It did not materialize in a locker in Detroit. It was not found in a bank vault in Chicago. This revelation was unique in its manifestation; its origin was truly mysterious, and events accompanying it were legendary, but it was not launched upon the world as an orphaned entity—set adrift, without plan, purpose or direction.
 
-On <a id="a49_3"></a>[UB 21:5.9](/en/The_Urantia_Book/21#p5_9), the book states: "_A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets_." He can make and carry out plans of his own choosing particularly regarding the worlds of his bestowals, "_and still more concerning the realm of his terminal bestowal_." It was Michael himself who approved the prototype. The Word made Book.
+On <a id="a53_3"></a>[UB 21:5.9](/en/The_Urantia_Book/21#p5_9), the book states: "_A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets_." He can make and carry out plans of his own choosing particularly regarding the worlds of his bestowals, "_and still more concerning the realm of his terminal bestowal_." It was Michael himself who approved the prototype. The Word made Book.
 
 This may or may not be an emergency revelation like Melchizedek's. Unlike his day, the God concept is alive and well. _The Urantia Book_ seeks to remedy the losses of the Dalamatian culture of the Planetary Prince, the first epochal revelation 500,000 years ago, which was lost in rebellion and disloyalty. It reintroduces the biologic principles of the Adamic bestowal, the second great revelation, 37,000 years ago, another loss due to the default of its two principal bestowal personalities. _The Urantia Book_ is the precursor to even greater events to bless our planet sometime in the future.
 
@@ -57,7 +61,7 @@ One might think of the revelators and planetary overseers as operating backstage
 
 There is a high purpose to this epochal drama, and it's clearly presented in the script itself. The world will not come to an end. The planet will not be consumed in fire, nuclear or otherwise. Satan and Lucifer will not claim our errant population. Caligastia will not control our minds and souls. There is a much better plan in store for us all.
 
-Jesus promised that "_an enhanced demonstration of righteousness_" and "_an enlarged revelation of truth_" will be sent by the Father. (<a id="a59_136"></a>[UB 176:2.3](/en/The_Urantia_Book/176#p2_3)) This demonstrator of righteousness will either be an Avonal Son, or the Trinity Teacher Sons, or all three bestowal beings at once: an Avonal, Trinity Teachers and Michael himself on a return visit. We are promised in the book that these visitations will occur; there is no doubt about them. While it is highly doubtful any of us will live to witness them, we do have important work to do in future years preparing for this coming extravaganza.
+Jesus promised that "_an enhanced demonstration of righteousness_" and "_an enlarged revelation of truth_" will be sent by the Father. (<a id="a63_136"></a>[UB 176:2.3](/en/The_Urantia_Book/176#p2_3)) This demonstrator of righteousness will either be an Avonal Son, or the Trinity Teacher Sons, or all three bestowal beings at once: an Avonal, Trinity Teachers and Michael himself on a return visit. We are promised in the book that these visitations will occur; there is no doubt about them. While it is highly doubtful any of us will live to witness them, we do have important work to do in future years preparing for this coming extravaganza.
 
 ## In the Meantime
 
@@ -91,7 +95,7 @@ In the same vein, we must work cooperatively toward achieving one version of _Th
 
 ## Get Ready for the “Ready” Time
 
-_The Urantia Book_ promises that “_sooner or later another and greater John the Baptist is due to arise proclaiming ‘the kingdom of God is at hand’—..._” (<a id="a93_155"></a>[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)) and we are assured that someday a great religious teacher will arise to espouse the teachings of _The Urantia Book_. When a great human teacher arises, wisdom will be required to not turn over the reigns of administrative control to this one individual. Leadership must continue to be diffused, not concentrated in one person, whereas an inspirational, dynamic teacher can turn lives upside down, and bring many souls to the Father.
+_The Urantia Book_ promises that “_sooner or later another and greater John the Baptist is due to arise proclaiming ‘the kingdom of God is at hand’—..._” (<a id="a97_155"></a>[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)) and we are assured that someday a great religious teacher will arise to espouse the teachings of _The Urantia Book_. When a great human teacher arises, wisdom will be required to not turn over the reigns of administrative control to this one individual. Leadership must continue to be diffused, not concentrated in one person, whereas an inspirational, dynamic teacher can turn lives upside down, and bring many souls to the Father.
 
 ## Priorities
 
@@ -104,11 +108,17 @@ It might be useful to think about where our true loyalties and priorities should
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
+        <a href="/en/article/Paula_Thompson/Millenial_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Millenial Prayer</span>
+        </a>
         </td>
         <td>
         <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">

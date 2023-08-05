@@ -9,29 +9,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Mark Blackham<br>© 2021 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentar las Enseñanzas de Urantia a 15.000 personas por mes</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
-          <span class="pr-2">Viajero del alma: Jardinero de nuestros corazones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 **La Resurrección y la Vida**
@@ -86,26 +63,3 @@ mayo | 18 | jueves | 13:00: **Espíritu de la Verdad** otorgado a Urantia. |
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentar las Enseñanzas de Urantia a 15.000 personas por mes</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
-          <span class="pr-2">Viajero del alma: Jardinero de nuestros corazones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

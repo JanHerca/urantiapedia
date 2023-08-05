@@ -9,26 +9,6 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Charles Montgomery<br>© 2001 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión universal: una presentación interreligiosa</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 > La civilización está en peligro cuando la juventud deja de interesarse por la ética, la sociología, la eugenesia, la filosofía, las bellas artes, la religión y la cosmología. _El Libro de Urantia_, (<a id="a33_201"></a>[LU 111:4.4](/es/The_Urantia_Book/111#p4_4))
@@ -113,23 +93,3 @@ Se nos dice que, en los mundos asentados en luz y vida, «_la reproducción est�
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión universal: una presentación interreligiosa</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

@@ -24,14 +24,15 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
-          <span class="pr-2">Sojourner of the Soul: Gardener of our Hearts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="pr-2">To Our Mother Spirit, the Holy Spirit, the Giver of Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 **The Resurrection and the Life**
@@ -86,6 +87,8 @@ May | 18 | Thursday | 1 p.m.— **Spirit of Truth** bestowed on Urantia. |
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -101,8 +104,8 @@ May | 18 | Thursday | 1 p.m.— **Spirit of Truth** bestowed on Urantia. |
         </a>
         </td>
         <td>
-        <a href="/en/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
-          <span class="pr-2">Sojourner of the Soul: Gardener of our Hearts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="pr-2">To Our Mother Spirit, the Holy Spirit, the Giver of Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

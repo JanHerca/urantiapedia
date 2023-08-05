@@ -9,29 +9,6 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Stephen Zendt<br>© 2003 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dificultad de ser objetivo</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
-          <span class="pr-2">El Origen de la Fraternidad Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 > «Cuando se planta una semilla, a veces se necesita que muera, que mueran vuestras esperanzas más apreciadas, antes de que pueda renacer para producir los frutos de una vida nueva y de nuevas oportunidades». <a id="a36_209"></a>[[LU 48:6.36](/es/The_Urantia_Book/48#p6_36)]
@@ -160,26 +137,3 @@ Quizás los tiempos del presente verán un vuelco planetario del antiguo círcul
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dificultad de ser objetivo</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
-          <span class="pr-2">El Origen de la Fraternidad Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
