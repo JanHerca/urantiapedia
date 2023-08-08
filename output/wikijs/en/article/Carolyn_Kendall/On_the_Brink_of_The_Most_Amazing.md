@@ -253,14 +253,16 @@ The Allenberry conference in Boiling Springs, PA, in May 1984, devoted its agend
 
 Neal Waldrup, who had recently returned from China, advanced the idea of a global perspective: “Energetically pursue translations into other non-Western languages so Christian linkage to Western culture doesn't rub off on the book. Don't follow narrow-minded traditions by denouncing vari­ant or divergent views.” Harry McMullan of Oklahoma City, OK, acknowledged the value of personal trans­formation when spreading the gospel, but urged that one should not hold back until he or she was trans­formed. “Many untransformed people have done im­pressive work: Omar Khyam, John the Baptist; John wasn't in the kingdom, but he transformed many.”
 
-Catholic priest, Robert Schuer, described how he labored in his vineyard: “I share *The Urantia Book* with my bishop and other priests every Wednesday. We for­mulate sermons and I always share my quotations. They are tolerant and listen. Each priest has his own favorite books that he uses in his sermons. The Holy Spirit is really moving.”
-
-“Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.”
-
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
 <figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
 </figure>
+
+Catholic priest, Robert Schuer, described how he labored in his vineyard: “I share *The Urantia Book* with my bishop and other priests every Wednesday. We for­mulate sermons and I always share my quotations. They are tolerant and listen. Each priest has his own favorite books that he uses in his sermons. The Holy Spirit is really moving.”
+
+“Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.”
+
+<br style="clear:both;"/>
 
 ## Promoting Spiritual Ideals in Entertainment and Broadcast Media
 
@@ -344,12 +346,14 @@ The Fellowship set up a booth at the World Parliament of Religions in Chicago in
 
 The Fellowship has also participated in book fairs around the world. An early booth set up by the Brotherhood and Foundation in Lon­don attracted the no­tice of a younger fe­male member of the Royal House of Windsor who  thumbed through the book and asked questions about it. The Fellowship and Foundation have even worked together in the same booth in recent months. A book fair in southeast Asia experienced an overwhelming number of book sales last yea; prompting an emergency shipment to fulfill or­ders.
 
-In June a group of 11 readers, along with family members, went cruising for potential readers. Waldine Stump, Oklahoma City, OK, arranged the itinerary to Greece, Turkey and Italy for the 20 travelers from the U.S., that included an Aegean cruise to islands and cit­ies visited by Jesus during his Mediterranean tout Tour guides were presented with a *Urantia Book* at the end of each day's excursion. Most were accepted graciously, but two recipients were “ecstatic” to get theirs. The bus driver in Athens had heard of the book and wanted to look at it (he got a copy). A book was added to the ship library's collection before debarkation.
-
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
 <figcaption><em>Mediterranean Tour Group, Rome, 1998.</em></figcaption>
 </figure>
+
+In June a group of 11 readers, along with family members, went cruising for potential readers. Waldine Stump, Oklahoma City, OK, arranged the itinerary to Greece, Turkey and Italy for the 20 travelers from the U.S., that included an Aegean cruise to islands and cit­ies visited by Jesus during his Mediterranean tout Tour guides were presented with a *Urantia Book* at the end of each day's excursion. Most were accepted graciously, but two recipients were “ecstatic” to get theirs. The bus driver in Athens had heard of the book and wanted to look at it (he got a copy). A book was added to the ship library's collection before debarkation.
+
+<br style="clear:both;"/>
 
 ## How Many Books Are Out There?
 

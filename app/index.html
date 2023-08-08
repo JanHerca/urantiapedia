@@ -41,6 +41,12 @@
 						</a>
 					</li>
 					<li class="nav-item" role="presentation">
+						<a href="#translate" class="nav-link" id="translate-tab" data-toggle="pill" role="tab" aria-controls="translate" aria-selected="false">
+							<i class="bi-translate"></i>
+							<span class="px-2" id="lblTranslate">Translate</span>
+						</a>
+					</li>
+					<li class="nav-item" role="presentation">
 						<a href="#airtable" class="nav-link" id="airtable-tab" data-toggle="pill" role="tab" aria-controls="airtable" aria-selected="false">
 							<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
 								<path fill="currentColor" d="M11.992 1.966c-.434 0-.87.086-1.28.257L1.779 5.917c-.503.208-.49.908.012 1.116l8.982 3.558a3.266 3.266 0 0 0 2.454 0l8.982-3.558c.503-.196.503-.908.012-1.116l-8.957-3.694a3.255 3.255 0 0 0-1.272-.257zM23.4 8.056a.589.589 0 0 0-.222.045l-10.012 3.877a.612.612 0 0 0-.38.564v8.896a.6.6 0 0 0 .821.552L23.62 18.1a.583.583 0 0 0 .38-.551V8.653a.6.6 0 0 0-.6-.596zM.676 8.095a.644.644 0 0 0-.48.19C.086 8.396 0 8.53 0 8.69v8.355c0 .442.515.737.908.54l6.27-3.006l.307-.147l2.969-1.436c.466-.22.43-.908-.061-1.092L.883 8.138a.57.57 0 0 0-.207-.044z"/>
@@ -56,8 +62,9 @@
 					</li>
 				</ul>
 			</div>
-			<!-- Processes pane -->
+			
 			<div class="tab-content p-3 bg-light" id="tabContent">
+				<!-- Processes pane -->
 				<div class="tab-pane fade show active p-2" id="proccesses" role="tabpanel" aria-labelledby="proccesses-tab" style="height: 100%;">
 					<div class="d-flex flex-column" style="height: 100%;">
 						<div class="form-group row p-0 mb-2">
@@ -527,6 +534,57 @@
 						</div>
 					</div>
 				</div>
+				<!-- Translate-->
+				<div class="tab-pane fade" id="translate" role="tabpanel" aria-labelledby="translate-tab" style="height: 100%;">
+					<div class="d-flex flex-column" style="height: 100%;">
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblTranslateLanguage1" class="input-group-text">Origin Language</span>
+								</div>
+								<select id="drpTranslateLanguage1" class="custom-select custom-select-sm"></select>
+								<div class="input-group-prepend">
+									<span id="lblTranslateLanguage2" class="input-group-text">Target Language</span>
+								</div>
+								<select id="drpTranslateLanguage2" class="custom-select custom-select-sm"></select>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblTranslateOriginFolder" class="input-group-text">Origin folder:</span>
+								</div>
+								<input id="fnTranslateOriginFolder" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="fnTranslateOriginClear" class="btn btn-sm btn-secondary" type="button"><i class="bi-x-lg"></i></button>
+									<button id="fnTranslateOriginOpen" class="btn btn-sm btn-secondary" type="button"><i class="bi-file-earmark"></i></button>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row p-0 mb-2">
+							<div class="input-group input-group-sm col-sm-12">
+								<div class="input-group-prepend">
+									<span id="lblTranslateTargetFolder" class="input-group-text">Target folder:</span>
+								</div>
+								<input id="fnTranslateTargetFolder" class="form-control" type="text" placeholder="Browse path" 
+									readonly="readonly"/>
+								<div class="input-group-append">
+									<button id="fnTranslateTargetClear" class="btn btn-sm btn-secondary" type="button"><i class="bi-x-lg"></i></button>
+									<button id="fnTranslateTargetOpen" class="btn btn-sm btn-secondary" type="button"><i class="bi-file-earmark"></i></button>
+								</div>
+							</div>
+						</div>
+						<div class ="form-group row p-0 mb-2">
+							<div class="col-sm-10">
+								<button id="translateButton" class="btn btn-sm btn-secondary" type="button">Translate</button>
+							</div>
+							<div class="col-sm-2">
+								<div class="spinner-border d-none" role="status" id="translateProgress"></div>
+							</div>
+						</div>
+					</div>
+				</div>
 				<!-- AirTable-->
 				<div class="tab-pane fade" id="airtable" role="tabpanel" aria-labelledby="airtable-tab" style="height: 100%;">
 					<div class="d-flex flex-row" style="height: inherit;">
@@ -664,6 +722,32 @@
 								<span id="lblTheme" class="input-group-text">Theme:</span>
 							</div>
 							<select id="drpTheme" class="custom-select"></select>
+						</div>
+					</div>
+					<div class="form-group row p-0 mb-2">
+						<div class="input-group input-group-sm col-sm-12">
+							<div class="input-group-prepend">
+								<span id="lblTranslateProjectID" class="input-group-text">Google Cloud Project ID:</span>
+							</div>
+							<input id="txtTranslateProjectID" type="password" class="form-control" aria-label="Google Cloud Project ID">
+							<div class="input-group-append">
+								<button class="btn btn-sm btn-secondary" type="button" id="toggleTranslateProjectID">
+									<i class="bi-eye-fill"></i>
+								</button>
+							</div>
+						</div>
+					</div>
+					<div class="form-group row p-0 mb-2">
+						<div class="input-group input-group-sm col-sm-12">
+							<div class="input-group-prepend">
+								<span id="lblTranslateAPIKey" class="input-group-text">Google Cloud Translation API Key:</span>
+							</div>
+							<input id="txtTranslateAPIKey" type="password" class="form-control" aria-label="Google Cloud Translation API Key">
+							<div class="input-group-append">
+								<button class="btn btn-sm btn-secondary" type="button" id="toggleTranslateAPIKey">
+									<i class="bi-eye-fill"></i>
+								</button>
+							</div>
 						</div>
 					</div>
 					<div class="form-group row p-0 mb-2">

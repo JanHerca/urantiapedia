@@ -280,7 +280,7 @@ exports.readFrom = function(dirPath, format, clearFunction, readFunction, thisOb
 };
 
 /**
- * Reads a text file and returns an arry of lines.
+ * Reads a text file and returns an array of lines.
  * @param {string} filePath File.
  * @return {Promise}
  */

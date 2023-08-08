@@ -24,6 +24,7 @@ const {strformat, extendArray, replaceWords, getMostSimilarSentence,
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
+const GoogleTranslate = require('./translate');
 const AirTableConnector = require('./airtable');
 
 const createSummaryFn = pug.compileFile(
@@ -55,6 +56,8 @@ const topicindexEdit2 = new TopicIndex();
 const topicindexEditEN = new TopicIndex();
 const bookEdit = new Book();
 const bookEdit2 = new Book();
+//Instances for Translate
+const translator = new GoogleTranslate();
 //Instances for AirTable
 const airTable = new AirTableConnector();
 const bookAirTable = new Book();
@@ -108,6 +111,14 @@ const controls = {
 	lblTILetters: '', drpTILetters: '', 
 	lblTIFilterRevised: '', chkTopicFilterRevised: '', 
 	lblTIFilterErrors: '', chkTopicFilterErrors: '', 
+	//Translate
+	lblTranslateLanguage1: '', drpTranslateLanguage1: '',
+	lblTranslateLanguage2: '', drpTranslateLanguage2: '',
+	lblTranslateOriginFolder: '', fnTranslateOriginFolder: '', 
+		fnTranslateOriginClear: '', fnTranslateOriginOpen: '',
+	lblTranslateTargetFolder: '', fnTranslateTargetFolder: '', 
+		fnTranslateTargetClear: '', fnTranslateTargetOpen: '',
+	translateButton: '', translateProgress: '',
 	//AirTable
 	igrAirTableConnect: '', spinAirTableConnectWorking: '', btnAirTableConnect: '',
 	igrAirTableImport: '', spinAirTableImportWorking: '', btnAirTableImport: '',
@@ -121,6 +132,8 @@ const controls = {
 	//Settings
 	lblUILanguage: '', drpUILanguage: '', 
 	lblTheme: '', drpTheme: '',
+	lblTranslateProjectID: '', txtTranslateProjectID: '', toggleTranslateProjectID: '',
+	lblTranslateAPIKey: '', txtTranslateAPIKey: '', toggleTranslateAPIKey: '',
 	lblAirTableAPIKey: '', txtAirTableAPIKey: '', toggleAirTableAPIKey: '',
 	lblAirTableBaseID: '', txtAirTableBaseID: '', toggleAirTableBaseID: ''
 };
@@ -145,7 +158,8 @@ const logInfos = [];
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpLetters'];
 const languageControls = ['drpLanguage', 'drpTILanguage1', 'drpTILanguage2',
-	'drpSearchLan', 'drpSearchSecondLan'];
+	'drpSearchLan', 'drpSearchSecondLan', 'drpTranslateLanguage1',
+	'drpTranslateLanguage2'];
 const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 const topicFilters = ['ALL', ...topicTypes];
 const copyTypes = ['Copy plain text', 'Copy Markdown', 'Copy HTML'];
@@ -223,7 +237,7 @@ const onLoad = () => {
 		[c.drpTopics, 'change', handle_drpTopicsChange],
 		//Search
 		[c.fnSearchButton, 'click', handle_fnSearchButton],
-		[c.fnClearButton, 'click', handle_fnClearButton],
+		[c.fnClearButton, 'click', handle_fnClearButton, c.fnSearch],
 		[c.igrSearch, 'click', handle_SearchExecution],
 		[c.igrAddQuotes, 'click', handle_igrAddQuotesClick],
 		[c.drpSearchLan, 'change', handle_SearchExecution],
@@ -242,6 +256,12 @@ const onLoad = () => {
 		[c.chkTIRevised, 'change', handle_chkTIRevisedChange],
 		[c.btnTIEditRef, 'click', handle_btnTIEditRefsClick],
 		[c.btnTIEditSeeAlso, 'click', handle_btnTIEditSeeAlsoClick],
+		//Translate
+		[c.fnTranslateOriginOpen, 'click', handle_dirButtonClick, c.fnTranslateOriginFolder],
+		[c.fnTranslateOriginClear, 'click', handle_fnClearButton, c.fnTranslateOriginFolder],
+		[c.fnTranslateTargetOpen, 'click', handle_dirButtonClick, c.fnTranslateTargetFolder],
+		[c.fnTranslateTargetClear, 'click', handle_fnClearButton, c.fnTranslateTargetFolder],
+		[c.translateButton, 'click', handle_translateButton],
 		//AirTable
 		[c.igrAirTableConnect, 'click', handle_igrAirTableConnect],
 		[c.drpAirTableUBPaper, 'click', handle_drpAirTableUBPaper],
@@ -255,8 +275,12 @@ const onLoad = () => {
 		//Settings
 		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
 		[c.drpTheme, 'change', handle_drpThemeChange],
+		[c.txtTranslateProjectID, 'input', handle_txtTranslateProjectID],
+		[c.txtTranslateAPIKey, 'input', handle_txtTranslateAPIKey],
 		[c.txtAirTableAPIKey, 'input', handle_txtAirTableAPIKey],
 		[c.txtAirTableBaseID, 'input', handle_txtAirTableBaseID],
+		[c.toggleTranslateProjectID, 'click', handle_toggleTranslateProjectID],
+		[c.toggleTranslateAPIKey, 'click', handle_toggleTranslateAPIKey],
 		[c.toggleAirTableAPIKey, 'click', handle_toggleAirTableAPIKey],
 		[c.toggleAirTableBaseID, 'click', handle_toggleAirTableBaseID]
 	];
@@ -287,6 +311,10 @@ const onLoad = () => {
 	//Update UI
 	settings.language = store.get('language', settings.language);
 	settings.theme = store.get('theme', settings.theme);
+	settings.translateProjectID = store.get('translateProjectID',
+		settings.translateProjectID);
+	settings.translateAPIKey = store.get('translateAPIKey',
+		settings.translateAPIKey);
 	settings.airTableAPIKey = store.get('airTableAPIKey', 
 		settings.airTableAPIKey);
 	settings.airTableBaseID = store.get('airTableBaseID',
@@ -295,6 +323,8 @@ const onLoad = () => {
 		settings.theme);
 	c.drpUILanguage.value = settings.language;
 	c.drpTheme.value = settings.theme;
+	c.txtTranslateProjectID.value = (settings.translateProjectID || '');
+	c.txtTranslateAPIKey.value = (settings.translateAPIKey || '');
 	c.txtAirTableAPIKey.value = (settings.airTableAPIKey || '');
 	c.txtAirTableBaseID.value = (settings.airTableBaseID || '');
 	handle_drpUILanguageChange();
@@ -359,6 +389,39 @@ const updateUI = () => {
 	strSelectFile = Strings['strSelectFile'][uilan];
 };
 
+const handle_dirButtonClick = (textbox) => {
+	dialog.showOpenDialog({
+		title: strSelectFolder,
+		properties: ['openDirectory']
+	}).then(result => {
+		if (!result.canceled && result.filePaths) {
+			const dirPath = result.filePaths[0];
+			textbox.value = dirPath;
+		}
+	});
+};
+
+const handle_fnButtonClick = (textbox, ext) => {
+	const filters = ext.split(',').map(e => {
+		return {name: e, extensions: [e.toLowerCase()]};
+	});
+	dialog.showOpenDialog({
+		title: strSelectFile,
+		defaultPath: path.dirname(textbox.value),
+		properties: ['openFile'],
+		filters: filters
+	}).then(result => {
+		if (!result.canceled && result.filePaths) {
+			const dirPath = result.filePaths[0];
+			textbox.value = dirPath;
+		}
+	});
+};
+
+const handle_fnClearButton = (textbox) => {
+	textbox.value = '';
+};
+
 // -----------------------------------------------------------------------------
 // Processes
 // -----------------------------------------------------------------------------
@@ -417,35 +480,6 @@ const getPathsOfBookVersions = (jsonDir) => {
 				.map(obj => path.join(jsonDir, obj.name));
 			resolve(folders);
 		});
-	});
-};
-
-const handle_dirButtonClick = (textbox) => {
-	dialog.showOpenDialog({
-		title: strSelectFolder,
-		properties: ['openDirectory']
-	}).then(result => {
-		if (!result.canceled && result.filePaths) {
-			const dirPath = result.filePaths[0];
-			textbox.value = dirPath;
-		}
-	});
-};
-
-const handle_fnButtonClick = (textbox, ext) => {
-	const filters = ext.split(',').map(e => {
-		return {name: e, extensions: [e.toLowerCase()]};
-	});
-	dialog.showOpenDialog({
-		title: strSelectFile,
-		defaultPath: path.dirname(textbox.value),
-		properties: ['openFile'],
-		filters: filters
-	}).then(result => {
-		if (!result.canceled && result.filePaths) {
-			const dirPath = result.filePaths[0];
-			textbox.value = dirPath;
-		}
 	});
 };
 
@@ -1211,10 +1245,6 @@ const handle_fnSearchButton = (evt) => {
 			controls.fnSearch.value = dirPath;
 		}
 	});
-};
-
-const handle_fnClearButton = (evt) => {
-	controls.fnSearch.value = '';
 };
 
 const handle_SearchExecution = (evt) => {
@@ -2073,7 +2103,28 @@ const onTIFail = (errors) => {
 		})
 		.join('');
 
-}
+};
+
+// -----------------------------------------------------------------------------
+// Translate
+// -----------------------------------------------------------------------------
+
+const handle_translateButton = (evt) => {
+	const sourceLan = controls.drpTranslateLanguage1.value;
+	const targetLan = controls.drpTranslateLanguage2.value;
+	const originFolder = controls.fnTranslateOriginFolder.value;
+	const targetFolder = controls.fnTranslateTargetFolder.value;
+	const filename = 'Amigos_Y_Residentes_En_Urantia.md';
+	const sourcePath = path.join(originFolder, 'Olga_Lopez', filename);
+	const targetPath = path.join(targetFolder, 'Olga_Lopez', filename);
+	translator.projectID = settings.translateProjectID;
+	translator.configure(settings.translateAPIKey, settings.translateProjectID);
+	// translator.translateText('¡Hola mundo!', sourceLan, targetLan)
+	// 	.then(translations => alert(translations));
+	translator.translateFile(sourcePath, targetPath, sourceLan, targetLan)
+		.then(ok => alert('Everything ok!'))
+		.catch(err => alert(err.message));
+};
 
 // -----------------------------------------------------------------------------
 // AirTable
@@ -2372,6 +2423,18 @@ const handle_drpThemeChange = (evt) => {
 		`../node_modules/bootswatch/dist/${theme}/bootstrap.css`);
 };
 
+const handle_txtTranslateProjectID = (evt) => {
+	const projectID = controls.txtTranslateProjectID.value;
+	settings.translateProjectID = projectID;
+	store.set('translateProjectID', settings.translateProjectID);
+};
+
+const handle_txtTranslateAPIKey = (evt) => {
+	const apiKey = controls.txtTranslateAPIKey.value;
+	settings.translateAPIKey = apiKey;
+	store.set('translateAPIKey', settings.translateAPIKey);
+};
+
 const handle_txtAirTableAPIKey = (evt) => {
 	const apiKey = controls.txtAirTableAPIKey.value;
 	settings.airTableAPIKey = apiKey;
@@ -2382,6 +2445,22 @@ const handle_txtAirTableBaseID = (evt) => {
 	const baseID = controls.txtAirTableBaseID.value;
 	settings.airTableBaseID = baseID;
 	store.set('airTableBaseID', settings.airTableBaseID);
+};
+
+const handle_toggleTranslateProjectID = (evt) => {
+	$(controls.toggleAirTableAPIKey).find('i')
+		.toggleClass('bi-eye-fill bi-eye-slash-fill');
+	const type = $(controls.txtTranslateProjectID).attr('type');
+	$(controls.txtTranslateProjectID)
+		.attr('type', type === 'text' ? 'password' : 'text');
+};
+
+const handle_toggleTranslateAPIKey = (evt) => {
+	$(controls.toggleAirTableAPIKey).find('i')
+		.toggleClass('bi-eye-fill bi-eye-slash-fill');
+	const type = $(controls.txtTranslateAPIKey).attr('type');
+	$(controls.txtTranslateAPIKey)
+		.attr('type', type === 'text' ? 'password' : 'text');
 };
 
 const handle_toggleAirTableAPIKey = (evt) => {

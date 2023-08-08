@@ -253,14 +253,16 @@ La conferencia de Allenberry en Boiling Springs, PA, en mayo de 1984, dedicó su
 
 Neal Waldrup, quien había regresado recientemente de China, avanzó la idea de una perspectiva global: «Buscar con energía las traducciones a otros idiomas no occidentales para que el vínculo cristiano con la cultura occidental no se contagie en el libro. No sigas tradiciones de mente estrecha al denunciar puntos de vista variantes o divergentes». Harry McMullan de Oklahoma City, OK, reconoció el valor de la transformación personal al difundir el evangelio, pero instó a que uno no se detenga hasta que sea transformado. «Muchas personas no transformadas han hecho un trabajo impresionante: Omar Khyam, Juan el Bautista; Juan no estaba en el reino, pero transformó a muchos».
 
-El sacerdote católico Robert Schuer describió cómo trabajaba en su viñedo: «Comparto _El Libro de Urantia_ con mi obispo y otros sacerdotes todos los miércoles. Formulamos sermones y siempre comparto mis citas. Son tolerantes y escuchan. Cada sacerdote tiene sus propios libros favoritos que usa en sus sermones. El Espíritu Santo es realmente conmovedor».
-
-«Florece donde estés plantado», declaró simplemente Pat Devine del Bronx, Nueva York. «Donde estás, ahí es donde comienzas».
-
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
 <figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
 </figure>
+
+El sacerdote católico Robert Schuer describió cómo trabajaba en su viñedo: «Comparto _El Libro de Urantia_ con mi obispo y otros sacerdotes todos los miércoles. Formulamos sermones y siempre comparto mis citas. Son tolerantes y escuchan. Cada sacerdote tiene sus propios libros favoritos que usa en sus sermones. El Espíritu Santo es realmente conmovedor».
+
+«Florece donde estés plantado», declaró simplemente Pat Devine del Bronx, Nueva York. «Donde estás, ahí es donde comienzas».
+
+<br style="clear:both;"/>
 
 ## Promoción de ideales espirituales en los medios de entretenimiento y difusión
 
@@ -344,12 +346,15 @@ La Fraternidad instaló un stand en el Parlamento Mundial de Religiones en Chica
 
 La Fraternidad también ha participado en ferias del libro en todo el mundo. Una de las primeras cabinas instaladas por la Hermandad y la Fundación en Londres atrajo la atención de una miembro más joven de la Casa Real de Windsor que hojeó el libro e hizo preguntas al respecto. La Fraternidad y la Fundación incluso han trabajado juntas en el mismo stand en los últimos meses. Una feria del libro en el sureste de Asia experimentó un número abrumador de ventas de libros el año pasado; lo que provocó un envío de emergencia para cumplir con los pedidos.
 
-En junio, un grupo de 11 lectores, junto con miembros de la familia, fueron de crucero en busca de lectores potenciales. Waldine Stump, Oklahoma City, OK, organizó el itinerario a Grecia, Turquía e Italia para los 20 viajeros de EE. UU., que incluía un crucero por el mar Egeo a islas y ciudades visitadas por Jesús durante su viaje por el Mediterráneo Los guías turísticos recibieron un *Libro de Urantia* al final de la excursión de cada día. La mayoría fueron aceptados amablemente, pero dos de los destinatarios estaban «extasiados» por recibir los suyos. El conductor del autobús en Atenas había oído hablar del libro y quería verlo (obtuvo una copia). Se agregó un libro a la colección de la biblioteca del barco antes del desembarque.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
 <figcaption><em>Grupo Tour Mediterráneo, Roma, 1998.</em></figcaption>
 </figure>
+
+En junio, un grupo de 11 lectores, junto con miembros de la familia, fueron de crucero en busca de lectores potenciales. Waldine Stump, Oklahoma City, OK, organizó el itinerario a Grecia, Turquía e Italia para los 20 viajeros de EE. UU., que incluía un crucero por el mar Egeo a islas y ciudades visitadas por Jesús durante su viaje por el Mediterráneo Los guías turísticos recibieron un *Libro de Urantia* al final de la excursión de cada día. La mayoría fueron aceptados amablemente, pero dos de los destinatarios estaban «extasiados» por recibir los suyos. El conductor del autobús en Atenas había oído hablar del libro y quería verlo (obtuvo una copia). Se agregó un libro a la colección de la biblioteca del barco antes del desembarque.
+
+<br style="clear:both;"/>
 
 ## ¿Cuántos libros hay por ahí?
 

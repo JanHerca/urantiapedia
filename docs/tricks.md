@@ -185,7 +185,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David<br>© 2008 The Urantia Book Fellowship</p>
 ```
 
-## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
