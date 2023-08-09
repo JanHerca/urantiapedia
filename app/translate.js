@@ -5,7 +5,8 @@
 // const { TranslationServiceClient } = require('@google-cloud/translate');
 const { Translate } = require('@google-cloud/translate').v2;
 
-const { readFile, writeFile } = require('./utils');
+const { strformat, readFile, writeFile } = require('./utils');
+const Strings = require('./strings');
 
 class GoogleTranslate {
 	apiKey = null;
@@ -72,58 +73,98 @@ class GoogleTranslate {
 	 * @param {string} targetPath Target file path.
 	 * @param {string} sourceLan Source language code, like `en`.
 	 * @param {string} targetLan Target language code, like `es`.
-	 * @return {Promise} Promise that returns an array of string for resolve or
-	 * error for reject.
+	 * @return {Promise} Promise that returns an array of strings with a report
+	 * of issues found for resolve or error for reject.
 	 */
 	translateFile = (sourcePath, targetPath, sourceLan, targetLan) => {
 		if (!this.translate) {
 			return Promise.reject('Client configuration required.');
 		}
 		const objects = [];
-		//Read the file and create an array of objects
+		const errors = [];
+		const msg1 = 'Total text in file: {0}';
+		const msg2 = 'Text sent to translate in file: {0}';
+		//Read the file
 		return readFile(sourcePath)
 			.then(lines => {
-				this.processLines(lines).forEach(obj => objects.push(obj));
+				//Process lines and translate
+				this.processLines(lines, sourceLan, targetLan, errors)
+					.forEach(obj => objects.push(obj));
 				const texts = objects
 					.filter(obj => obj.ignore != true)
 					.map(obj => obj.text);
 				console.log(objects);
-				//return this.translateText(texts, sourceLan, targetLan);
-			})/*
+				return this.translateText(texts, sourceLan, targetLan);
+			})
 			.then(translations => {
+				//Process translations and write
 				objects
 					.filter(obj => obj.ignore != true)
 					.forEach((obj, i) => obj.translation = translations[i]);
-				const translatedLines = this.finalizeTranslation(objects);
+				const translatedLines = this.finalizeTranslation(objects,
+					sourceLan, targetLan, errors);
+				console.log(translatedLines);
 				return writeFile(targetPath, translatedLines.join('\n'));
-			})*/;
+			})
+			.then(result => {
+				//Return any issue
+				const lineCount = objects.reduce((ac,cur) => {
+					return ac + cur.line.length;
+				}, 0);
+				const trCount = objects.reduce((ac,cur) => {
+					return ac + (cur.text ? cur.text.length : 0);
+				}, 0);
+				errors.push(strformat(msg1, lineCount));
+				errors.push(strformat(msg2, trCount));
+				return errors;
+			});
 	};
 
 	/**
 	 * Create an array of objects from an array of lines that reduce content
 	 * to be translated removing parts that are not required for translation.
 	 * @param {string[]} lines Lines to translate.
+	 * @param {string} sourceLan Source language code, like `en`.
+	 * @param {string} targetLan Target language code, like `es`.
+	 * @param {string[]} errors Array of errors for adding any issue found.
 	 * @return {Object[]} Array of objects.
 	 */
-	processLines = (lines) => {
+	processLines = (lines, sourceLan, targetLan, errors) => {
 		let headerRead = false;
 		let insideHeader = false;
 		let insideNavigator = false;
-		return lines.map((line, i) => {
+		let insideImage = false;
+		const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
+		const reUBLink = new RegExp(`\\[[^\\]]+\\]\\(\/${sourceLan}\/` +
+			'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
+		const reUPLink = new RegExp(`\\(?\/${sourceLan}\/[^\\)]+\\)?`, 'g');
+		const reLinks = new RegExp(
+			`\\(?(https?:\\/\\/[\\w\\d./?=#\\-\\%\\(\\)]+)\\)?`, 'g');
+		const sourceAbb = Strings.bookAbb[sourceLan];
+		const targetAbb = Strings.bookAbb[targetLan];
+
+		return lines.map((line, i, array) => {
 			let ignore = false;
 			let remove = false;
 			let text = null;
 			let text_length = 0;
+			let extractIndex = -1;
+			let line_type = 'other';
+			const extracts = [];
+			const prev = (i > 0 ? array[i - 1] : null);
 			const isSep = line.startsWith('---');
 			const isTitle = line.startsWith('title:');
 			const isDesc = line.startsWith('description:');
 			const hasDesc = (isDesc && 
 				line.replace('description:', '').trim() != '');
+			const isCopy = line.startsWith('<p class="v-card');
 			const isNavStart = line.startsWith('<figure class=' +
 				'"table chapter-navigator">');
-			const isNavEnd = line.startsWith('</figure>');
+			const isImgStart = line.indexOf('class="image urantiapedia') != -1;
+			const isFigCaption = line.startsWith('<figcaption');
+			const isPrevEnd = (prev && prev.startsWith('</figure>'));
 
-			//Check if line is inside header
+			//Check if line is inside header or is a separator
 			if (!headerRead && isSep) {
 				if (insideHeader) {
 					headerRead = true;
@@ -133,36 +174,85 @@ class GoogleTranslate {
 			if ((insideHeader && !(isTitle || hasDesc)) || isSep) {
 				ignore = true;
 			}
+			if (insideHeader) {
+				line_type = 'header';
+			}
+			//Check if line is copyright
+			if (isCopy) {
+				line_type = 'copyright';
+			}
 			//Check if line is inside navigator
 			//Navigator not only must be ignored but also removed from output
 			insideNavigator = (!insideNavigator && isNavStart ? true :
-				(insideNavigator && isNavEnd ? false : insideNavigator));
-			if (insideNavigator || isNavEnd) {
+				(insideNavigator && isPrevEnd ? false : insideNavigator));
+			if (insideNavigator) {
 				ignore = true;
 				remove = true;
+				line_type = 'navigator';
 			}
-			//Check empty line
+			//Check empty line or separator
 			if (line.trim() === '') {
 				ignore = true;
 			}
 			//Check image (only translate figcaption)
-
+			insideImage = (!insideImage && isImgStart ? true :
+				(insideImage && isPrevEnd ? false : insideImage));
+			if (insideImage && !isFigCaption) {
+				ignore = true;
+			}
+			if (insideImage) {
+				line_type = 'image';
+			}
 			//Check anchors (better remove because they are added automatic)
-
+			if (!ignore) {
+				text = line.replace(reAnchor, '');
+			}
 			//Check Urantiapedia links and external links
+			if (!ignore) {
+				//Urantia Book links
+				text = (text ? text : line).replace(reUBLink, match => {
+					let extract = match;
+					extractIndex++;
+					if (match.indexOf(sourceAbb) != -1) {
+						extract = extract.replace(sourceAbb, targetAbb);
+					}
+					extract = extract.replace(`/${sourceLan}/`, 
+						`/${targetLan}/`);
+					extracts.push(extract);
+					return `%%${extractIndex}%%`;
+				});
+				//Other UP links
+				text = text.replace(reUPLink, match => {
+					let extract = match;
+					extractIndex++;
+					extract = extract.replace(`/${sourceLan}/`, 
+						`/${targetLan}/`);
+					extracts.push(extract);
+					return `%%${extractIndex}%%`;
+				});
+				//External links
+				text = text.replace(reLinks, match => {
+					extractIndex++;
+					extracts.push(match);
+					return `%%${extractIndex}%%`;
+				});
+			}
 
-			//Check Urantia Book quotes (if link exists to one paragraph)
+			//TODO: Check Urantia Book quotes (if link exists to one paragraph)
 
 
+			//Return
 			return {
 				index: i,
 				line: line,
 				line_length: line.length,
+				line_type: line_type,
 				text: text,
 				text_length: text_length,
 				translation: null,
 				ignore: ignore,
-				remove: remove
+				remove: remove,
+				extracts: extracts
 			};
 		});
 	};
@@ -171,19 +261,66 @@ class GoogleTranslate {
 	 * Create an array of lines from an array of objects that reconstruct the
 	 * final translation adding the parts not required for translation.
 	 * @param {Object[]} objects Objects with original and translation info.
+	 * @param {string} sourceLan Source language code, like `en`.
+	 * @param {string} targetLan Target language code, like `es`.
+	 * @param {string[]} errors Array of errors for adding any issue found.
 	 * @return {string[]} Array of lines.
 	 */
-	finalizeTranslation = (objects) => {
+	finalizeTranslation = (objects, sourceLan, targetLan, errors) => {
+		const qStart = Strings.quotationStart[sourceLan];
+		const qEnd = Strings.quotationEnd[sourceLan];
+		const qStart2 = Strings.quotationStart[targetLan];
+		const qEnd2 = Strings.quotationEnd[targetLan];
+		const reExtract = new RegExp('%%([\\d| ]+)%%', 'g');
+		const reQuotations = new RegExp(`${qStart}([^${qEnd}]*)${qEnd}`, 'g');
+		const reQuotations2 = new RegExp(`"([^"]*)"`, 'g');
+		const reBlanks = new RegExp('^[\\t| ]+', 'g');
+		const err1 = `Extract mark {0} is not valid in translation: <i>{1}</i>`;
+		const err2 = `Extract marks number fail in translation: <i>{0}</i>`;
 		
-		//Check quotation marks
+		return objects
+			.filter(obj => obj.remove != true)
+			.map(obj => {
+				let tr = obj.translation;
+				let numExtracts = 0;
+				if (obj.ignore) {
+					return obj.line;
+				}
+				//Replace extracts
+				if (obj.extracts.length > 0) {
+					tr = tr.replace(reExtract, (match, p1) => {
+						const i = parseInt(p1);
+						if (isNaN(i) || !obj.extracts[i]) {
+							errors.push(strformat(err1, match, obj.translation));
+						} else {
+							numExtracts++;
+						}
+						return (isNaN(i) ? match : obj.extracts[i]);
+					});
+					if (numExtracts != obj.extracts.length) {
+						errors.push(strformat(err2, obj.translation))
+					}
+				}
+				//Replace quotation marks
+				if (obj.line_type === 'other') {
+					tr = tr.replace(reQuotations, (match, p1) => {
+						return `${qStart2}${p1}${qEnd2}`;
+					});
+					tr = tr.replace(reQuotations2, (match, p1) => {
+						return `${qStart2}${p1}${qEnd2}`;
+					});
+				}
+				//Replace starting blank spaces
+				const blanks = [...obj.line.matchAll(reBlanks)].map(n => n[0]);
+				if (blanks[0]) {
+					tr = tr.replace(reBlanks, '');
+					tr = blanks[0] + tr;
+				}
+				//Replace glossary names (extracted from Topic Index)
 
-		//Check glossary names (extracted from Topic Index)
+				return tr;
+			});
 	};
-
-	//TODO: Add a log like in the process pane
-	//TODO: Send an array when translating where add errors, like replace chars
-	//not being found and warnings to check some lines (with UB quotes) and show
-	//these errors as a report in the log pane
 }
 
 module.exports = GoogleTranslate;

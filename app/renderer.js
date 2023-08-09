@@ -118,7 +118,7 @@ const controls = {
 		fnTranslateOriginClear: '', fnTranslateOriginOpen: '',
 	lblTranslateTargetFolder: '', fnTranslateTargetFolder: '', 
 		fnTranslateTargetClear: '', fnTranslateTargetOpen: '',
-	translateButton: '', translateProgress: '',
+	translateButton: '', translateProgress: '', logAreaTranslate: '',
 	//AirTable
 	igrAirTableConnect: '', spinAirTableConnectWorking: '', btnAirTableConnect: '',
 	igrAirTableImport: '', spinAirTableImportWorking: '', btnAirTableImport: '',
@@ -2117,13 +2117,25 @@ const handle_translateButton = (evt) => {
 	const filename = 'Amigos_Y_Residentes_En_Urantia.md';
 	const sourcePath = path.join(originFolder, 'Olga_Lopez', filename);
 	const targetPath = path.join(targetFolder, 'Olga_Lopez', filename);
-	translator.projectID = settings.translateProjectID;
-	translator.configure(settings.translateAPIKey, settings.translateProjectID);
+
 	// translator.translateText('¡Hola mundo!', sourceLan, targetLan)
 	// 	.then(translations => alert(translations));
+
+	translator.projectID = settings.translateProjectID;
+	translator.configure(settings.translateAPIKey, settings.translateProjectID);
 	translator.translateFile(sourcePath, targetPath, sourceLan, targetLan)
-		.then(ok => alert('Everything ok!'))
+		.then(issues => {
+			showTranslateLog([sourcePath, ...issues]);
+		})
 		.catch(err => alert(err.message));
+};
+
+const showTranslateLog = (infos) => {
+	controls.logAreaTranslate.innerHTML = infos.map((info, i) => {
+		return (i == 0 ?
+			`<p class="mb-1">${info}</p>` :
+			`<p class="mb-1 alert alert-light small">${info}</p>`);
+	}).join('');
 };
 
 // -----------------------------------------------------------------------------
