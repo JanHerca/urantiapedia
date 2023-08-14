@@ -58,6 +58,8 @@ const bookEdit = new Book();
 const bookEdit2 = new Book();
 //Instances for Translate
 const translator = new GoogleTranslate();
+const bookTranslate = new Book();
+const bookTranslate2 = new Book();
 //Instances for AirTable
 const airTable = new AirTableConnector();
 const bookAirTable = new Book();
@@ -2114,7 +2116,8 @@ const handle_translateButton = (evt) => {
 	const targetLan = controls.drpTranslateLanguage2.value;
 	const originFolder = controls.fnTranslateOriginFolder.value;
 	const targetFolder = controls.fnTranslateTargetFolder.value;
-	const filename = 'Amigos_Y_Residentes_En_Urantia.md';
+	// const filename = 'Amigos_Y_Residentes_En_Urantia.md';
+	const filename = 'Mas_Alla_de_las_Matematicas.md';
 	const sourcePath = path.join(originFolder, 'Olga_Lopez', filename);
 	const targetPath = path.join(targetFolder, 'Olga_Lopez', filename);
 
@@ -2123,11 +2126,40 @@ const handle_translateButton = (evt) => {
 
 	translator.projectID = settings.translateProjectID;
 	translator.configure(settings.translateAPIKey, settings.translateProjectID);
-	translator.translateFile(sourcePath, targetPath, sourceLan, targetLan)
+	loadTranslateBooks()
+		.then(() => {
+			translator.configureBooks(bookTranslate, bookTranslate2);
+			return translator.translateFile(sourcePath, targetPath, sourceLan, 	targetLan);
+		})
 		.then(issues => {
 			showTranslateLog([sourcePath, ...issues]);
 		})
 		.catch(err => alert(err.message));
+};
+
+const loadTranslateBooks = () => {
+	const sourceLan = controls.drpTranslateLanguage1.value;
+	const targetLan = controls.drpTranslateLanguage2.value;
+	const root = app.getAppPath();
+	const dirBook1 = path.join(root, 'input', 'json', `book-${sourceLan}`);
+	const dirBook2 = path.join(root, 'input', 'json', `book-${targetLan}`);
+	
+	const load1 = (bookTranslate.language != sourceLan || 
+		bookTranslate.papers.length == 0);
+	const load2 = (bookTranslate2.language != targetLan || 
+		bookTranslate2.papers.length == 0);
+
+	if (load1) {
+		bookTranslate.setLanguage(sourceLan);
+	}
+	if (load2) {
+		bookTranslate2.setLanguage(targetLan);
+	}
+	const promises = [
+		(load1 ? bookTranslate.readFromJSON(dirBook1) : Promise.resolve(true)),
+		(load2 ? bookTranslate2.readFromJSON(dirBook2) : Promise.resolve(true))
+	];
+	return Promise.all(promises);
 };
 
 const showTranslateLog = (infos) => {

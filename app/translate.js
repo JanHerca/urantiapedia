@@ -12,6 +12,8 @@ class GoogleTranslate {
 	apiKey = null;
 	projectID = null;
 	translate = null;
+	sourceBook = null;
+	targetBook = null;
 	//location = 'global';
 	// translationClient = new TranslationServiceClient();
 
@@ -41,6 +43,16 @@ class GoogleTranslate {
 			projectId: projectID,
 			key: apiKey
 		});
+	};
+
+	/**
+	 * Configures books for quote translations.
+	 * @param {Book} sourceBook Urantia Book in source language.
+	 * @param {Book} targetBook Urantia Book in target language.
+	 */
+	configureBooks = (sourceBook, targetBook) => {
+		this.sourceBook = sourceBook;
+		this.targetBook = targetBook;
 	};
 
 	/**
@@ -134,12 +146,14 @@ class GoogleTranslate {
 		let insideHeader = false;
 		let insideNavigator = false;
 		let insideImage = false;
+		let insideMath = false;
 		const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
 		const reUBLink = new RegExp(`\\[[^\\]]+\\]\\(\/${sourceLan}\/` +
 			'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
 		const reUPLink = new RegExp(`\\(?\/${sourceLan}\/[^\\)]+\\)?`, 'g');
 		const reLinks = new RegExp(
 			`\\(?(https?:\\/\\/[\\w\\d./?=#\\-\\%\\(\\)]+)\\)?`, 'g');
+		const reMath = new RegExp('\\$([^ ][^$]*)\\$', 'g');
 		const sourceAbb = Strings.bookAbb[sourceLan];
 		const targetAbb = Strings.bookAbb[targetLan];
 
@@ -163,6 +177,14 @@ class GoogleTranslate {
 			const isImgStart = line.indexOf('class="image urantiapedia') != -1;
 			const isFigCaption = line.startsWith('<figcaption');
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
+			const isClear = line.startsWith('<br style="clear:both" />');
+			const isMathSep = line.startsWith('$$');
+			const isQuote = line.startsWith('> ');
+			const ubLinks = [...line.matchAll(reUBLink)];
+			const ubLink = (ubLinks.length === 1 ? 
+				[1,2,3].map(i => parseInt(ubLinks[0][i])) : []);
+			if (ubLink.findIndex(i => isNaN(i)) != -1) ubLink.length = 0;
+			const hasOneUBLink = (ubLink.length > 0);
 
 			//Check if line is inside header or is a separator
 			if (!headerRead && isSep) {
@@ -190,8 +212,9 @@ class GoogleTranslate {
 				remove = true;
 				line_type = 'navigator';
 			}
-			//Check empty line or separator
-			if (line.trim() === '') {
+			//Check empty line or clear line
+			if (line.trim() === '' || isClear) {
+				line_type = 'blank';
 				ignore = true;
 			}
 			//Check image (only translate figcaption)
@@ -203,12 +226,26 @@ class GoogleTranslate {
 			if (insideImage) {
 				line_type = 'image';
 			}
-			//Check anchors (better remove because they are added automatic)
+			//Check Math LaTeX block
+			insideMath = (!insideMath && isMathSep ? true :
+				(insideMath && isMathSep ? false : insideMath));
+			if (insideMath || isMathSep) {
+				ignore = true;
+				line_type = 'math';
+			}
+			//Check anchors (better remove because they are added automatically)
 			if (!ignore) {
 				text = line.replace(reAnchor, '');
 			}
 			//Check Urantiapedia links and external links
 			if (!ignore) {
+				//Check Urantia Book quotes
+				if (isQuote && hasOneUBLink && 
+					array[i-1] && !array[i-1].startsWith('> ') &&
+					array[i+1] && !array[i+1].startsWith('> ')) {
+					ignore = true;
+					line_type = 'quote';
+				}
 				//Urantia Book links
 				text = (text ? text : line).replace(reUBLink, match => {
 					let extract = match;
@@ -237,9 +274,14 @@ class GoogleTranslate {
 					return `%%${extractIndex}%%`;
 				});
 			}
-
-			//TODO: Check Urantia Book quotes (if link exists to one paragraph)
-
+			//Check Math LaTeX
+			if (!ignore) {
+				text = (text ? text : line).replace(reMath, match => {
+					extractIndex++;
+					extracts.push(match);
+					return `%%${extractIndex}%%`;
+				});
+			}
 
 			//Return
 			return {
@@ -252,7 +294,8 @@ class GoogleTranslate {
 				translation: null,
 				ignore: ignore,
 				remove: remove,
-				extracts: extracts
+				extracts: extracts,
+				ubLink: ubLink
 			};
 		});
 	};
@@ -275,16 +318,29 @@ class GoogleTranslate {
 		const reQuotations = new RegExp(`${qStart}([^${qEnd}]*)${qEnd}`, 'g');
 		const reQuotations2 = new RegExp(`"([^"]*)"`, 'g');
 		const reBlanks = new RegExp('^[\\t| ]+', 'g');
-		const err1 = `Extract mark {0} is not valid in translation: <i>{1}</i>`;
-		const err2 = `Extract marks number fail in translation: <i>{0}</i>`;
+		const err1 = 'Extract mark {0} is not valid in translation: <i>{1}</i>';
+		const err2 = 'Extract marks number fail in translation: <i>{0}</i>';
+		const err3 = 'Paragraph of Urantia Book not found: <i>{0}</i>';
+		const link = ``
 		
 		return objects
 			.filter(obj => obj.remove != true)
 			.map(obj => {
 				let tr = obj.translation;
 				let numExtracts = 0;
-				if (obj.ignore) {
+				let par = null;
+				if (obj.ignore && obj.line_type != 'quote') {
 					return obj.line;
+				}
+				//Replace quotes
+				if (obj.line_type === 'quote' && obj.ubLink.length === 3) {
+					par = this.targetBook.getPar(obj.ubLink[0], obj.ubLink[1], 
+						obj.ubLink[2]);
+					if (!par) {
+						errors.push(strformat(err3, obj.ubLink));
+					} else {
+						tr = '> ' + par.par_content + ' (%%0%%)';
+					}
 				}
 				//Replace extracts
 				if (obj.extracts.length > 0) {
@@ -310,14 +366,13 @@ class GoogleTranslate {
 						return `${qStart2}${p1}${qEnd2}`;
 					});
 				}
+				
 				//Replace starting blank spaces
 				const blanks = [...obj.line.matchAll(reBlanks)].map(n => n[0]);
 				if (blanks[0]) {
 					tr = tr.replace(reBlanks, '');
 					tr = blanks[0] + tr;
 				}
-				//Replace glossary names (extracted from Topic Index)
-
 				return tr;
 			});
 	};
