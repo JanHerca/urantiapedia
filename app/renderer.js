@@ -2116,25 +2116,20 @@ const handle_translateButton = (evt) => {
 	const targetLan = controls.drpTranslateLanguage2.value;
 	const originFolder = controls.fnTranslateOriginFolder.value;
 	const targetFolder = controls.fnTranslateTargetFolder.value;
-	// const filename = 'Amigos_Y_Residentes_En_Urantia.md';
-	const filename = 'Mas_Alla_de_las_Matematicas.md';
-	const sourcePath = path.join(originFolder, 'Olga_Lopez', filename);
-	const targetPath = path.join(targetFolder, 'Olga_Lopez', filename);
-
+	translator.configure(settings.translateAPIKey, settings.translateProjectID);
+	
+	//Test to translate a text
 	// translator.translateText('¡Hola mundo!', sourceLan, targetLan)
 	// 	.then(translations => alert(translations));
 
-	translator.projectID = settings.translateProjectID;
-	translator.configure(settings.translateAPIKey, settings.translateProjectID);
 	loadTranslateBooks()
 		.then(() => {
 			translator.configureBooks(bookTranslate, bookTranslate2);
-			return translator.translateFile(sourcePath, targetPath, sourceLan, 	targetLan);
+			return translator.translateFolder(originFolder, targetFolder, 
+				sourceLan, 	targetLan);
 		})
-		.then(issues => {
-			showTranslateLog([sourcePath, ...issues]);
-		})
-		.catch(err => alert(err.message));
+		.then(issues => showTranslateLog(issues))
+		.catch(err => showTranslateError([err]));
 };
 
 const loadTranslateBooks = () => {
@@ -2162,11 +2157,24 @@ const loadTranslateBooks = () => {
 	return Promise.all(promises);
 };
 
-const showTranslateLog = (infos) => {
-	controls.logAreaTranslate.innerHTML = infos.map((info, i) => {
-		return (i == 0 ?
-			`<p class="mb-1">${info}</p>` :
-			`<p class="mb-1 alert alert-light small">${info}</p>`);
+const showTranslateLog = (issues) => {
+	controls.logAreaTranslate.innerHTML = issues
+		.map((arIssues, i) => {
+			return arIssues.map((info, i) => {
+				return (i == 0 ?
+					`<p class="mb-1">${info}</p>` :
+					`<p class="mb-1 alert alert-light small">${info}</p>`);
+			}).join('');
+		}).join('');
+};
+
+const showTranslateError = (errors) => {
+	controls.logAreaTranslate.innerHTML = errors.map(err=> {
+		return err.stack.split('\n').map((s,i) => {
+			return (i === 0 ?
+				`<p class="text-danger mt-1 mb-0">${s}</p>` :
+				`<p class="text-danger ml-3 mb-0 small">${s}</p>`);
+		}).join('');
 	}).join('');
 };
 

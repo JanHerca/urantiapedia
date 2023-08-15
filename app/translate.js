@@ -5,7 +5,7 @@
 // const { TranslationServiceClient } = require('@google-cloud/translate');
 const { Translate } = require('@google-cloud/translate').v2;
 
-const { strformat, readFile, writeFile } = require('./utils');
+const { strformat, readFile, writeFile, getFiles } = require('./utils');
 const Strings = require('./strings');
 
 class GoogleTranslate {
@@ -85,15 +85,16 @@ class GoogleTranslate {
 	 * @param {string} targetPath Target file path.
 	 * @param {string} sourceLan Source language code, like `en`.
 	 * @param {string} targetLan Target language code, like `es`.
+	 * @param {?string[]} errors Optional array for issues.
 	 * @return {Promise} Promise that returns an array of strings with a report
 	 * of issues found for resolve or error for reject.
 	 */
-	translateFile = (sourcePath, targetPath, sourceLan, targetLan) => {
+	translateFile = (sourcePath, targetPath, sourceLan, targetLan, errors) => {
 		if (!this.translate) {
 			return Promise.reject('Client configuration required.');
 		}
+		errors = (errors || []);
 		const objects = [];
-		const errors = [];
 		const msg1 = 'Total text in file: {0}';
 		const msg2 = 'Text sent to translate in file: {0}';
 		//Read the file
@@ -105,7 +106,6 @@ class GoogleTranslate {
 				const texts = objects
 					.filter(obj => obj.ignore != true)
 					.map(obj => obj.text);
-				console.log(objects);
 				return this.translateText(texts, sourceLan, targetLan);
 			})
 			.then(translations => {
@@ -115,7 +115,6 @@ class GoogleTranslate {
 					.forEach((obj, i) => obj.translation = translations[i]);
 				const translatedLines = this.finalizeTranslation(objects,
 					sourceLan, targetLan, errors);
-				console.log(translatedLines);
 				return writeFile(targetPath, translatedLines.join('\n'));
 			})
 			.then(result => {
@@ -129,6 +128,49 @@ class GoogleTranslate {
 				errors.push(strformat(msg1, lineCount));
 				errors.push(strformat(msg2, trCount));
 				return errors;
+			});
+	};
+
+	/**
+	 * Translates the Markdown files inside a folder.
+	 * @param {string} sourcePath Source file path.
+	 * @param {string} targetPath Target file path.
+	 * @param {string} sourceLan Source language code, like `en`.
+	 * @param {string} targetLan Target language code, like `es`.
+	 * @return {Promise} Promise that returns an array of arrays of strings 
+	 * with a report of issues found for resolve or error for reject.
+	 */
+	translateFolder = (sourcePath, targetPath, sourceLan, targetLan) => {
+		if (!this.translate) {
+			return Promise.reject('Client configuration required.');
+		}
+
+		return getFiles(sourcePath)
+			.then(files => {
+				const promises = files.map(file => {
+					const target = file.replace(sourcePath, targetPath);
+					const errs = [file];
+					//TODO: create folder structure when multiple folder levels
+					return this.translateFile(file, target, sourceLan,
+						targetLan, errs);
+				});
+				return Promise.all(promises);
+			})
+			.then(arErrs => {
+				const msg1 = 'Total text in all files: <b>{0}</b><br>';
+				const msg2 = 'Text sent to translate in all files: <b>{0}</b>';
+				let lineCount = 0;
+				let trCount = 0;
+				arErrs.forEach(errs => {
+					const c = parseInt(errs[errs.length-2].match(/\d+/)[0]);
+					const tc = parseInt(errs[errs.length-1].match(/\d+/)[0]);
+					lineCount += c;
+					trCount += tc;
+				});
+				arErrs.push([strformat(msg1, lineCount) +
+					strformat(msg2, trCount)]);
+
+				return arErrs;
 			});
 	};
 
@@ -150,6 +192,7 @@ class GoogleTranslate {
 		const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
 		const reUBLink = new RegExp(`\\[[^\\]]+\\]\\(\/${sourceLan}\/` +
 			'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
+		const reUBMulti = new RegExp('(\\d+):(\\d+).(\\d+)-(\\d+)', 'g');
 		const reUPLink = new RegExp(`\\(?\/${sourceLan}\/[^\\)]+\\)?`, 'g');
 		const reLinks = new RegExp(
 			`\\(?(https?:\\/\\/[\\w\\d./?=#\\-\\%\\(\\)]+)\\)?`, 'g');
@@ -157,14 +200,52 @@ class GoogleTranslate {
 		const sourceAbb = Strings.bookAbb[sourceLan];
 		const targetAbb = Strings.bookAbb[targetLan];
 
+		//Get an array of quote groups. Each contains:
+		// [quote_start_index, quote_end_index, ub_ref_as_array]
+		const quotesIndexes = lines
+			.reduce((ac, cur, i, array) => {
+				if (cur.startsWith('>')) {
+					if (i === 0 || !array[i - 1].startsWith('>')) {
+						ac.push([i, i]);
+					} else if (array[i + 1] && !array[1 + 1].startsWith('>')) {
+						ac[ac.length - 1][1] = i;
+					}
+				}
+				return ac;
+			}, [])
+			.map(indexes => {
+				let n, count = 0, ubLinks, ubLink, ubMultiLinks, link;
+				for (n = indexes[0]; n <= indexes[1]; n++) {
+					ubLinks = [...lines[n].matchAll(reUBLink)];
+					ubLink = (ubLinks.length === 1 ? 
+						[1,2,3].map(i => parseInt(ubLinks[0][i])) : []);
+					ubMultiLinks = [...lines[n].matchAll(reUBMulti)];
+					if (ubLink.length > 0 &&
+						ubLink.findIndex(i => isNaN(i)) === -1) {
+						link = ubLink.slice();
+						if (ubMultiLinks.length === 1 &&
+							!isNaN(parseInt(ubMultiLinks[0][4]))) {
+							link.push(parseInt(ubMultiLinks[0][4]));
+						}
+						count++;
+					}
+					if (count > 1) {
+						break;
+					}
+				}
+				return [...indexes, (count === 1 ? link : null)];
+			})
+			.filter(indexes => indexes[2] != null);
+
 		return lines.map((line, i, array) => {
 			let ignore = false;
 			let remove = false;
 			let text = null;
-			let text_length = 0;
 			let extractIndex = -1;
 			let line_type = 'other';
 			const extracts = [];
+			const msg1 = 'Urantia Book ref in line: {0}<br><i>{1}:{2}.{3}</i>' +
+				' {4}';
 			const prev = (i > 0 ? array[i - 1] : null);
 			const isSep = line.startsWith('---');
 			const isTitle = line.startsWith('title:');
@@ -179,12 +260,21 @@ class GoogleTranslate {
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
 			const isClear = line.startsWith('<br style="clear:both" />');
 			const isMathSep = line.startsWith('$$');
-			const isQuote = line.startsWith('> ');
-			const ubLinks = [...line.matchAll(reUBLink)];
-			const ubLink = (ubLinks.length === 1 ? 
-				[1,2,3].map(i => parseInt(ubLinks[0][i])) : []);
-			if (ubLink.findIndex(i => isNaN(i)) != -1) ubLink.length = 0;
-			const hasOneUBLink = (ubLink.length > 0);
+			const isQuote = line.startsWith('>');
+			const isQuoteBlank = isQuote && line.length < 7;
+			const ubLinks = [...line.matchAll(reUBLink)].reduce((ac, cur) => {
+				const nums = [1,2,3].map(i => parseInt(cur[i]));
+				let par = null;
+				if (nums.findIndex(i => isNaN(i)) === -1) {
+					par = this.targetBook.getPar(nums[0], nums[1], nums[2]);
+					nums.push(par.par_content);
+					ac.push(nums);
+				}
+				return ac;
+			}, []);
+			const quoteGroup = quotesIndexes.find(qi => {
+				return (qi[0] <= i && qi[1] >= i);
+			});
 
 			//Check if line is inside header or is a separator
 			if (!headerRead && isSep) {
@@ -213,7 +303,7 @@ class GoogleTranslate {
 				line_type = 'navigator';
 			}
 			//Check empty line or clear line
-			if (line.trim() === '' || isClear) {
+			if (line.trim() === '' || isClear || isQuoteBlank) {
 				line_type = 'blank';
 				ignore = true;
 			}
@@ -240,12 +330,16 @@ class GoogleTranslate {
 			//Check Urantiapedia links and external links
 			if (!ignore) {
 				//Check Urantia Book quotes
-				if (isQuote && hasOneUBLink && 
-					array[i-1] && !array[i-1].startsWith('> ') &&
-					array[i+1] && !array[i+1].startsWith('> ')) {
+				if (quoteGroup) {
 					ignore = true;
 					line_type = 'quote';
+				} else if (ubLinks.length > 0) {
+					ubLinks.forEach(ubl => {
+						errors.push(strformat(msg1, i + 1, ubl[0], ubl[1],
+							ubl[2], ubl[3]));
+					});
 				}
+
 				//Urantia Book links
 				text = (text ? text : line).replace(reUBLink, match => {
 					let extract = match;
@@ -287,15 +381,13 @@ class GoogleTranslate {
 			return {
 				index: i,
 				line: line,
-				line_length: line.length,
 				line_type: line_type,
 				text: text,
-				text_length: text_length,
 				translation: null,
 				ignore: ignore,
 				remove: remove,
 				extracts: extracts,
-				ubLink: ubLink
+				quoteGroup: quoteGroup
 			};
 		});
 	};
@@ -321,26 +413,53 @@ class GoogleTranslate {
 		const err1 = 'Extract mark {0} is not valid in translation: <i>{1}</i>';
 		const err2 = 'Extract marks number fail in translation: <i>{0}</i>';
 		const err3 = 'Paragraph of Urantia Book not found: <i>{0}</i>';
-		const link = ``
+		const err4 = 'Quote group with different length than ref: <i>{0}</i>';
 		
 		return objects
 			.filter(obj => obj.remove != true)
-			.map(obj => {
+			.map((obj, j, array) => {
 				let tr = obj.translation;
 				let numExtracts = 0;
 				let par = null;
+				let q = obj.quoteGroup;
+				let objGroup = null;
+				let qindex = 0;
+				let quotated = false;
+				let italic = false;
 				if (obj.ignore && obj.line_type != 'quote') {
 					return obj.line;
 				}
 				//Replace quotes
-				if (obj.line_type === 'quote' && obj.ubLink.length === 3) {
-					par = this.targetBook.getPar(obj.ubLink[0], obj.ubLink[1], 
-						obj.ubLink[2]);
-					if (!par) {
-						errors.push(strformat(err3, obj.ubLink));
-					} else {
-						tr = '> ' + par.par_content + ' (%%0%%)';
+				if (obj.line_type === 'quote' && q) {
+					if (obj.line.length < 7) {
+						return obj.line;
 					}
+					quotated = obj.line.substring(0, 8).indexOf(qStart) != -1;
+					italic = obj.line.substring(0, 8).indexOf('_') != -1;
+					
+					if (q[2].length === 4) {
+						//Quote with multiple lines
+						objGroup = array.filter(m => {
+							return (q[0] <= m.index && q[1] >= m.index &&
+								m.line.length >= 7);
+						});
+						if (objGroup.length != (q[2][3] - q[2][2] + 1)) {
+							errors.push(strformat(err4, q[2]));
+							return obj.line;
+						}
+						qindex = objGroup.findIndex(m => m.index === obj.index);
+					}
+
+					par = this.targetBook.getPar(q[2][0], q[2][1], 
+						q[2][2] + qindex);
+					if (!par) {
+						errors.push(strformat(err3, q[2]));
+						return obj.line;
+					}
+					tr = '> ' + (quotated ? qStart2 : '') + 
+						(italic ? '_' : '') + par.par_content + 
+						(italic ? '_' : '') + (quotated ? qEnd2 : '') +
+						(obj.text.indexOf('%%0%%') != -1 ? ' (%%0%%)' : '');
 				}
 				//Replace extracts
 				if (obj.extracts.length > 0) {
