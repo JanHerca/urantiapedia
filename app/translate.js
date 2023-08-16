@@ -5,7 +5,8 @@
 // const { TranslationServiceClient } = require('@google-cloud/translate');
 const { Translate } = require('@google-cloud/translate').v2;
 
-const { strformat, readFile, writeFile, getFiles } = require('./utils');
+const { strformat, readFile, writeFile, getFiles, extendArray,
+	reflectPromise } = require('./utils');
 const Strings = require('./strings');
 
 class GoogleTranslate {
@@ -67,16 +68,32 @@ class GoogleTranslate {
 		if (!this.translate) {
 			return Promise.reject('Client configuration required.');
 		}
-		return this.translate.translate(text, {
-			from: sourceLan,
-			to: targetLan
+		//Google API has a limit of 128 lines, we will use 120 as limit
+		let texts = [[text]];
+		if (Array.isArray(text)) {
+			texts = text.reduce((ac, cur) => {
+				if (ac.length === 0 || ac[ac.length - 1].length === 120) {
+					ac.push([cur]);
+				} else {
+					ac[ac.length - 1].push(cur);
+				}
+				return ac;
+			}, []);
+		}
+		const promises = texts.map(t => {
+			return this.translate.translate(t, {
+				from: sourceLan,
+				to: targetLan
+			});
 		})
-		.then(response => {
-			let [translations] = response;
-			translations = Array.isArray(translations) ? translations :
-				[translations];
-			return translations;
-		});
+		return Promise.all(promises)
+			.then(responses => {
+				const translations = [];
+				responses.forEach(response => {
+					extendArray(translations, response[0]);
+				});
+				return translations;
+			});
 	};
 
 	/**
@@ -137,8 +154,8 @@ class GoogleTranslate {
 	 * @param {string} targetPath Target file path.
 	 * @param {string} sourceLan Source language code, like `en`.
 	 * @param {string} targetLan Target language code, like `es`.
-	 * @return {Promise} Promise that returns an array of arrays of strings 
-	 * with a report of issues found for resolve or error for reject.
+	 * @return {Promise} Promise that nver rejects and returns an array of 
+	 * arrays of strings or Errors with a report of issues or errors found.
 	 */
 	translateFolder = (sourcePath, targetPath, sourceLan, targetLan) => {
 		if (!this.translate) {
@@ -149,28 +166,34 @@ class GoogleTranslate {
 			.then(files => {
 				const promises = files.map(file => {
 					const target = file.replace(sourcePath, targetPath);
-					const errs = [file];
+					const issues = [file];
 					//TODO: create folder structure when multiple folder levels
-					return this.translateFile(file, target, sourceLan,
-						targetLan, errs);
+					return reflectPromise(this.translateFile(file, target, 
+						sourceLan, targetLan, issues));
 				});
 				return Promise.all(promises);
 			})
-			.then(arErrs => {
+			.then(arObjs => {
 				const msg1 = 'Total text in all files: <b>{0}</b><br>';
 				const msg2 = 'Text sent to translate in all files: <b>{0}</b>';
 				let lineCount = 0;
 				let trCount = 0;
-				arErrs.forEach(errs => {
-					const c = parseInt(errs[errs.length-2].match(/\d+/)[0]);
-					const tc = parseInt(errs[errs.length-1].match(/\d+/)[0]);
-					lineCount += c;
-					trCount += tc;
+
+				const arMsgs = arObjs.map(obj => {
+					if (obj.value) {
+						const i = obj.value;
+						const c = parseInt(i[i.length-2].match(/\d+/)[0]);
+						const tc = parseInt(i[i.length-1].match(/\d+/)[0]);
+						lineCount += c;
+						trCount += tc;
+						return i;
+					}
+					return obj.error;
 				});
-				arErrs.push([strformat(msg1, lineCount) +
+				arMsgs.push([strformat(msg1, lineCount) +
 					strformat(msg2, trCount)]);
 
-				return arErrs;
+				return arMsgs;
 			});
 	};
 
@@ -258,7 +281,7 @@ class GoogleTranslate {
 			const isImgStart = line.indexOf('class="image urantiapedia') != -1;
 			const isFigCaption = line.startsWith('<figcaption');
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
-			const isClear = line.startsWith('<br style="clear:both" />');
+			const isClear = line.startsWith('<br style="clear:both"');
 			const isMathSep = line.startsWith('$$');
 			const isQuote = line.startsWith('>');
 			const isQuoteBlank = isQuote && line.length < 7;
@@ -485,7 +508,7 @@ class GoogleTranslate {
 						return `${qStart2}${p1}${qEnd2}`;
 					});
 				}
-				
+				//TODO: Replace wrong UB abbs
 				//Replace starting blank spaces
 				const blanks = [...obj.line.matchAll(reBlanks)].map(n => n[0]);
 				if (blanks[0]) {

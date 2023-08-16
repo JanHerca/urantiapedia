@@ -2159,8 +2159,15 @@ const loadTranslateBooks = () => {
 
 const showTranslateLog = (issues) => {
 	controls.logAreaTranslate.innerHTML = issues
-		.map((arIssues, i) => {
-			return arIssues.map((info, i) => {
+		.map(arIssuesOrErr => {
+			if (arIssuesOrErr instanceof Error) {
+				return arIssuesOrErr.stack.split('\n').map((s,i) => {
+					return (i === 0 ?
+						`<p class="text-danger mt-1 mb-0">${s}</p>` :
+						`<p class="text-danger ml-3 mb-0 small">${s}</p>`);
+				}).join('');
+			}
+			return arIssuesOrErr.map((info, i) => {
 				return (i == 0 ?
 					`<p class="mb-1">${info}</p>` :
 					`<p class="mb-1 alert alert-light small">${info}</p>`);
