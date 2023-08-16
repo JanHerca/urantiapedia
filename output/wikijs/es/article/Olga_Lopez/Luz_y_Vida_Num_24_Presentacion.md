@@ -46,7 +46,7 @@ Luz y Vida núm. 24 — Marzo 2011
 
 ## Editorial
 
-ueridos amigos: una vez estamos aquí, fieles a nuestra cita, para entregar el primer número del año. En este número terminamos con el debate surgido a raíz de la publicación del último libro de Stephen Hawking, a la luz de la revelación expresada en _El Libro de Urantia_.
+Queridos amigos: una vez estamos aquí, fieles a nuestra cita, para entregar el primer número del año. En este número terminamos con el debate surgido a raíz de la publicación del último libro de Stephen Hawking, a la luz de la revelación expresada en _El Libro de Urantia_.
 
 También una vez más reservamos un pequeño lugar para la poesía con un poema de nuestro amigo José Antonio.
 

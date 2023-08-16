@@ -50,9 +50,9 @@ La sesión de «territorio comanche» fue muy intensa y se prolongó hasta que e
 Al día siguiente por la mañana, sábado, los asistentes se dividieron en 8 grupos de entre 5 y 6 participantes cada uno. Los facilitadores de grupo eran los miembros de la junta, más algún lector ya experimentado en este tipo de actividades. En cada grupo había una persona encargada de tomar nota de lo que se decía, para después compartirlo con todos los asistentes. Ese fue el momento de repartirnos por las instalaciones del hotel y trabajar sobre estos cuatro puntos:
 
 1. ¿Por qué hacemos lo que hacemos para dar a conocer las enseñanzas de _El Libro de Urantia_?
-2. ¿Cuáles son los conceptos clave de _El Libro de Urantia_ que se deben transmitir a las p e $r  s$ o n a s potencialmente interesadas?
-3. ¿Qué marca la diferencia en _El Libro de Urantia_ respecto a otras doctrinas 0 cosmovisiones?
-4. Crear un eslogan o lema respecto a $E l$ libro de Urantia: el libro en una frase.
+2. ¿Cuáles son los conceptos clave de _El Libro de Urantia_ que se deben transmitir a las personas potencialmente interesadas?
+3. ¿Qué marca la diferencia en _El Libro de Urantia_ respecto a otras doctrinas o cosmovisiones?
+4. Crear un eslogan o lema respecto a _El Libro de Urantia_: el libro en una frase.
 
 Después de la comida, la mayor parte de los asistentes salieron a dar una pequeña excursión al Parque del Capricho, situado cerca del hotel, guiados por Mariano Pérez, el coordinador de grupos de estudio. Esta fue no solo una oportunidad de contemplar la belleza de la naturaleza, sino también de socializar con otros miembros del grupo.
 
@@ -138,7 +138,7 @@ Por último, y antes de comer, se celebró la asamblea de la Asociación Urantia
 - Una vida con sentido.
 - Hasta lo infinito, y más allá.
 - El Libro de Urantia, el manual de la vida.
-- EI amor como fuerza que impulsa tu vida.
+- El amor como fuerza que impulsa tu vida.
 - Urantia: la historia de un fracaso triunfal.
 - Urantia: planeta herido, planeta sanado.
 

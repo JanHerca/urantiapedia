@@ -284,7 +284,6 @@ Lo he elegido por su sencillez, y porque no se puede decir más en tan pocas pal
 
 
 > «Con Dios todo es posible.» <a id="a285_30"></a>[LU 163:3.2](/es/The_Urantia_Book/163#p3_2)
-> 
 
 Desde que lo leí por primera vez me impactó, pero cuando lo volví a leer me di cuenta de que engloba la verdad, la belleza y la bondad, siempre hablo de una forma subjetiva.  Verdad porque solo hay que leer la frase para comprender que es absoluta verdad. La belleza está en su sencillez, pues para mí la sencillez es belleza; y la bondad porque el Padre por amor a todas sus criaturas nos dice que, si creemos y confiamos en Él, nos ayudará a levantarnos sin pedir nada a cambio ante cualquier obstáculo que se nos presente en el camino. Y si todo esto no fuese suficiente, también engloba algo que para todos los seres evolutivos ascendentes es tan importante para poder llegar hasta el Padre Universal como es la _fe_, porque hay que tener fe para creer que «con Dios todo es posible».
 
