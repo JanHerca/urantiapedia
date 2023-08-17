@@ -60,7 +60,7 @@ Cuando el Infinito YO SOY diferenció la Realidad, lo hizo separando por un lado
 
 El L.d.U. dice al respecto: «Todo el proyecto de la creación y de la evolución universales, en todos los niveles experienciales, es aparentemente una cuestión de conversión de las potencialidades en manifestaciones; y esta transmutación concierne por igual a los dominios de la potencia espacial, de la potencia mental y de la potencia espiritual».
 
-«El método aparente por medio del cual las posibilidades del cosmos surgen a la existencia real varía de nivel en nivel; en el finito, se trata de la evolución experiencial, $y$ en el absonito, de la existenciación experiencial».
+«El método aparente por medio del cual las posibilidades del cosmos surgen a la existencia real varía de nivel en nivel; en el finito, se trata de la evolución experiencial, y en el absonito, de la existenciación experiencial».
 
 «La dinámica final del cosmos consiste en trasvasar continuamente la realidad desde el estado potencial al estado manifestado». ([Doc. 115](/es/The_Urantia_Book/115#))
 

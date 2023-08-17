@@ -83,7 +83,7 @@ y dadlo a cambio de nada
 y el padre y la verdad 
 en vosotros entrará. 
 
-Él padre en vosotros ya está 
+El padre en vosotros ya está 
 pero os falta la verdad. 
 La verdad es muy simple 
 y a la vez muy complicada, 

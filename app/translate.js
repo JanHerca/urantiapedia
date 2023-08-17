@@ -281,7 +281,10 @@ class GoogleTranslate {
 			const isImgStart = line.indexOf('class="image urantiapedia') != -1;
 			const isFigCaption = line.startsWith('<figcaption');
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
-			const isClear = line.startsWith('<br style="clear:both"');
+			const isHtml = line.startsWith('<br style="clear:both"') ||
+				line.startsWith('<p style="text-align:center;"') ||
+				line.startsWith('<br>') || line.startsWith('<br/>') ||
+				line.startsWith('</p>');
 			const isMathSep = line.startsWith('$$');
 			const isQuote = line.startsWith('>');
 			const isQuoteBlank = isQuote && line.length < 7;
@@ -326,7 +329,7 @@ class GoogleTranslate {
 				line_type = 'navigator';
 			}
 			//Check empty line or clear line
-			if (line.trim() === '' || isClear || isQuoteBlank) {
+			if (line.trim() === '' || isHtml || isQuoteBlank) {
 				line_type = 'blank';
 				ignore = true;
 			}
@@ -509,6 +512,9 @@ class GoogleTranslate {
 					});
 				}
 				//TODO: Replace wrong UB abbs
+				//TODO: Replace 'document \d+' with 'paper \d+'
+				//TODO: ignore {.is-info} and {.is-warning}
+				//TODO: Fix if ends in <br> and it is no more
 				//Replace starting blank spaces
 				const blanks = [...obj.line.matchAll(reBlanks)].map(n => n[0]);
 				if (blanks[0]) {
