@@ -98,7 +98,7 @@ Nuestras mentes, aunque muy básicas ya que este es nuestro punto de partida, nu
 
 Aquí tenemos la clave de lo que somos: Materia, nuestros cuerpos; Mente, la conciencia, y Espíritu, lo que nos habita y que finalmente, si nosotros lo permitimos, será lo que nos motivara a evolucionar la personalidad.
 
-**(Cóntinúa en el próximo número)**
+**(Continúa en el próximo número)**
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV15/01.jpg">

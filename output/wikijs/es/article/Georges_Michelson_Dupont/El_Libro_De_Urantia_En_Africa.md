@@ -57,7 +57,7 @@ La técnica de Moussa es universal: es la de Jesús. Ésta puede ser adaptada pa
 
 Se nos ha dado esta prueba a condición de que sea presentada inteligentemente, con respeto y amor; las enseñanzas de este libro pueden ser aceptadas por cualquier religión, en cualquier lugar del mundo, y liberar a las almas en tinieblas, cautivas de la esclavitud de las tradiciones y de las creencias.
 
-> Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanas del reino, que son las siguientes: conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. ‘Conoceréis la verdad y la verdad os hará libres’.» <a id="a59_380"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6)
+> Jesús hizo mucho hincapié en lo que él llamaba las dos verdades de primera importancia en las enseñanas del reino, que son las siguientes: conseguir la salvación por medio de la fe, y de la fe solamente, asociada con la enseñanza revolucionaria de conseguir la libertad humana mediante el reconocimiento sincero de la verdad. ‘Conoceréis la verdad y la verdad os hará libres’. <a id="a59_380"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6)
 
 Al preguntarle a Fatou, una estudiante de Moussa, lo que _El Libro de Urantia_ le había aportado, nos respondió: «Me ha convertido en una mejor musulmana».
 

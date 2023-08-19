@@ -149,12 +149,41 @@ class GoogleTranslate {
 	};
 
 	/**
+	 * Estimates number of characters required for translation in a Markdown
+	 * file.
+	 * @param {string} sourcePath Source file path.
+	 * @param {string} sourceLan Source language code, like `en`.
+	 * @param {string} targetLan Target language code, like `es`.
+	 * @param {?string[]} errors Optional array for issues.
+	 * @return {Promise} Promise that returns an array of strings with a report
+	 * of issues found for resolve or error for reject.
+	 */
+	estimateFile = (sourcePath, sourceLan, targetLan, errors) => {
+		errors = (errors || []);
+		//Read the file
+		return readFile(sourcePath)
+			.then(lines => {
+				//Process lines and translate
+				const objects = this.processLines(lines, sourceLan, targetLan, 
+					errors);
+				//Return any issue
+				const lineCount = objects.reduce((ac,cur) => {
+					return ac + cur.line.length;
+				}, 0);
+				const trCount = objects.reduce((ac,cur) => {
+					return ac + (cur.text ? cur.text.length : 0);
+				}, 0);
+				return [errors[0], lineCount, trCount];
+			})
+	}
+
+	/**
 	 * Translates the Markdown files inside a folder.
 	 * @param {string} sourcePath Source file path.
 	 * @param {string} targetPath Target file path.
 	 * @param {string} sourceLan Source language code, like `en`.
 	 * @param {string} targetLan Target language code, like `es`.
-	 * @return {Promise} Promise that nver rejects and returns an array of 
+	 * @return {Promise} Promise that never rejects and returns an array of 
 	 * arrays of strings or Errors with a report of issues or errors found.
 	 */
 	translateFolder = (sourcePath, targetPath, sourceLan, targetLan) => {
@@ -192,6 +221,45 @@ class GoogleTranslate {
 				});
 				arMsgs.push([strformat(msg1, lineCount) +
 					strformat(msg2, trCount)]);
+
+				return arMsgs;
+			});
+	};
+
+	/**
+	 * Estimates number of characters required for translation in all Markdown
+	 * files inside a folder.
+	 * @param {string} sourcePath Source file path.
+	 * @param {string} sourceLan Source language code, like `en`.
+	 * @param {string} targetLan Target language code, like `es`.
+	 * @return {Promise} Promise that never rejects and returns an array of 
+	 * arrays of strings or Errors with a report of issues or errors found.
+	 */
+	estimateFolder = (sourcePath, sourceLan, targetLan) => {
+		return getFiles(sourcePath)
+			.then(files => {
+				const promises = files.map(file => {
+					const issues = [file];
+					//TODO: create folder structure when multiple folder levels
+					return reflectPromise(this.estimateFile(file, 
+						sourceLan, targetLan, issues));
+				});
+				return Promise.all(promises);
+			})
+			.then(arObjs => {
+				let lineCount = 0;
+				let trCount = 0;
+
+				const arMsgs = arObjs.map(obj => {
+					if (obj.value) {
+						const i = obj.value;
+						lineCount += i[1];
+						trCount += i[2];
+						return i;
+					}
+					return obj.error;
+				});
+				arMsgs.push(['Total', lineCount, trCount]);
 
 				return arMsgs;
 			});
@@ -284,9 +352,11 @@ class GoogleTranslate {
 			const isHtml = line.startsWith('<br style="clear:both"') ||
 				line.startsWith('<p style="text-align:center;"') ||
 				line.startsWith('<br>') || line.startsWith('<br/>') ||
-				line.startsWith('</p>');
+				line.startsWith('</p>') || line.trim() == '<br>' ||
+				line.trim() == '<br/>';
 			const isMathSep = line.startsWith('$$');
 			const isQuote = line.startsWith('>');
+			const isBlock = line.startsWith('{.is-');
 			const isQuoteBlank = isQuote && line.length < 7;
 			const ubLinks = [...line.matchAll(reUBLink)].reduce((ac, cur) => {
 				const nums = [1,2,3].map(i => parseInt(cur[i]));
@@ -329,7 +399,7 @@ class GoogleTranslate {
 				line_type = 'navigator';
 			}
 			//Check empty line or clear line
-			if (line.trim() === '' || isHtml || isQuoteBlank) {
+			if (line.trim() === '' || isHtml || isQuoteBlank || isBlock) {
 				line_type = 'blank';
 				ignore = true;
 			}
@@ -428,6 +498,8 @@ class GoogleTranslate {
 	 * @return {string[]} Array of lines.
 	 */
 	finalizeTranslation = (objects, sourceLan, targetLan, errors) => {
+		const sourceAbb = Strings.bookAbb[sourceLan];
+		const targetAbb = Strings.bookAbb[targetLan];
 		const qStart = Strings.quotationStart[sourceLan];
 		const qEnd = Strings.quotationEnd[sourceLan];
 		const qStart2 = Strings.quotationStart[targetLan];
@@ -436,6 +508,9 @@ class GoogleTranslate {
 		const reQuotations = new RegExp(`${qStart}([^${qEnd}]*)${qEnd}`, 'g');
 		const reQuotations2 = new RegExp(`"([^"]*)"`, 'g');
 		const reBlanks = new RegExp('^[\\t| ]+', 'g');
+		const reAbb = new RegExp(`${sourceAbb}([ .;:?!-—])`, 'g');
+		const reDocEN = new RegExp('document (\\d+)', 'g');
+		const reBr = new RegExp('<br[\\/]?>$', 'g');
 		const err1 = 'Extract mark {0} is not valid in translation: <i>{1}</i>';
 		const err2 = 'Extract marks number fail in translation: <i>{0}</i>';
 		const err3 = 'Paragraph of Urantia Book not found: <i>{0}</i>';
@@ -511,10 +586,21 @@ class GoogleTranslate {
 						return `${qStart2}${p1}${qEnd2}`;
 					});
 				}
-				//TODO: Replace wrong UB abbs
-				//TODO: Replace 'document \d+' with 'paper \d+'
-				//TODO: ignore {.is-info} and {.is-warning}
-				//TODO: Fix if ends in <br> and it is no more
+				//Replace wrong UB abbs
+				if ([...obj.line.matchAll(reAbb)].length > 0 &&
+					[...tr.matchAll(reAbb)].length > 0) {
+					tr = tr.replace(reAbb, (match, p1) => `${targetAbb}${p1}`);
+				}
+				//Replace 'document \d+' with 'paper \d+' if target is English
+				if (targetLan === 'en' && 
+					[...tr.matchAll(reDocEN)].length > 0) {
+					tr = tr.replace(reDocEN, (match, p1) => `paper ${p1}`);
+				}
+				//Fix if ends in <br> and it is no more
+				if ([...obj.line.trim().matchAll(reBr)].length > 0 &&
+					[...tr.trim().matchAll(reBr)].length === 0) {
+					tr += '<br>';
+				}
 				//Replace starting blank spaces
 				const blanks = [...obj.line.matchAll(reBlanks)].map(n => n[0]);
 				if (blanks[0]) {

@@ -120,7 +120,8 @@ const controls = {
 		fnTranslateOriginClear: '', fnTranslateOriginOpen: '',
 	lblTranslateTargetFolder: '', fnTranslateTargetFolder: '', 
 		fnTranslateTargetClear: '', fnTranslateTargetOpen: '',
-	translateButton: '', translateProgress: '', logAreaTranslate: '',
+	translateButton: '', estimateButton: '',
+	translateProgress: '', logAreaTranslate: '',
 	//AirTable
 	igrAirTableConnect: '', spinAirTableConnectWorking: '', btnAirTableConnect: '',
 	igrAirTableImport: '', spinAirTableImportWorking: '', btnAirTableImport: '',
@@ -264,6 +265,7 @@ const onLoad = () => {
 		[c.fnTranslateTargetOpen, 'click', handle_dirButtonClick, c.fnTranslateTargetFolder],
 		[c.fnTranslateTargetClear, 'click', handle_fnClearButton, c.fnTranslateTargetFolder],
 		[c.translateButton, 'click', handle_translateButton],
+		[c.estimateButton, 'click', handle_estimateButton],
 		//AirTable
 		[c.igrAirTableConnect, 'click', handle_igrAirTableConnect],
 		[c.drpAirTableUBPaper, 'click', handle_drpAirTableUBPaper],
@@ -2116,6 +2118,12 @@ const handle_translateButton = (evt) => {
 	const targetLan = controls.drpTranslateLanguage2.value;
 	const originFolder = controls.fnTranslateOriginFolder.value;
 	const targetFolder = controls.fnTranslateTargetFolder.value;
+
+	if (!originFolder || originFolder == '' || !targetFolder || targetFolder == '') {
+		showTranslateError([new Error('Folder missing.')]);
+		return;
+	}
+
 	translator.configure(settings.translateAPIKey, settings.translateProjectID);
 	
 	//Test to translate a text
@@ -2129,6 +2137,33 @@ const handle_translateButton = (evt) => {
 				sourceLan, 	targetLan);
 		})
 		.then(issues => showTranslateLog(issues))
+		.catch(err => showTranslateError([err]));
+};
+
+const handle_estimateButton = (evt) => {
+	const sourceLan = controls.drpTranslateLanguage1.value;
+	const targetLan = controls.drpTranslateLanguage2.value;
+	const originFolder = controls.fnTranslateOriginFolder.value;
+
+	if (!originFolder || originFolder == '') {
+		showTranslateError([new Error('Origin folder missing.')]);
+		return;
+	}
+
+	loadTranslateBooks()
+		.then(() => {
+			translator.configureBooks(bookTranslate, bookTranslate2);
+			return translator.estimateFolder(originFolder, sourceLan, targetLan);
+		})
+		.then(issues => {
+			const msgs = issues.map(i => {
+				if (i instanceof Error) {
+					return i;
+				}
+				return [i[0], `Text in file / Text to translate: ${i[1]} / ${i[2]}`];
+			});
+			showTranslateLog(msgs);
+		})
 		.catch(err => showTranslateError([err]));
 };
 

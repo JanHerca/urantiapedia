@@ -121,13 +121,13 @@ Una criatura de mente normal es persona que desarrolla todos los sentidos físic
 
 > _... Hay dos fenómenos característicos en la criatura que como persona se manifiestan en la conducta substancial humana; la conciencia de sí mismo y el libre albedrío relativo asociado._ <a id="a121_189"></a>[LU 16:8.5](/es/The_Urantia_Book/16#p8_5)
 
-> _El libre albedrío relativo que define ser consciente de sí mismo como persona es cómplice de las decisiones morales, o sea de una sabiduría elevada; de las elecciones espirituales, que es equivalente al discernimiento de la verdad; del amor desinteresado, que se trasmite en servicio fraternal; de la cooperación intencionada, lo que se vuelve en lealtad al grupo; de la perspicacia cósmica, la captación de los significados universales; de la implicación como persona, en hacer la voluntad del Padre y de la adoración, la búsqueda sincera de valores divinos y amar sin condiciones a Dios._ <a id="a123_594"></a>[LU 16:8.7](/es/The_Urantia_Book/16#p8_7)
+> _El libre albedrío relativo que define ser consciente de sí mismo como persona es cómplice de las decisiones morales, o sea de una sabiduría elevada; de las elecciones espirituales, que es equivalente al discernimiento de la verdad; del amor desinteresado, que se trasmite en servicio fraternal; de la cooperación intencionada, lo que se vuelve en lealtad al grupo; de la perspicacia cósmica, la captación de los significados universales; de la implicación como persona, en hacer la voluntad del Padre y de la adoración, la búsqueda sincera de valores divinos y amar sin condiciones a Dios._ <a id="a123_594"></a>[LU 16:8.7-14](/es/The_Urantia_Book/16#p8_7)
 
 > _Se puede considerar... La concesión del don divino de la personalidad a ese mecanismo mortal dotado de una mente le confiere la dignidad de la ciudadanía cósmica y permite que esa criatura mortal reaccione inmediatamente al reconocimiento constitutivo de las tres realidades mentales fundamentales del cosmos:_
 > 
 > 1. _El reconocimiento matemático o lógico de la uniformidad de la causalidad física._
 > 2. _El reconocimiento razonado de la obligación de tener una conducta moral._
-> 3. _La comprensión por la fe de la adoración con comunión de la Deidad, asociada al servicio amoroso a la humanidad._ <a id="a129_120"></a>[LU 16:8.15](/es/The_Urantia_Book/16#p8_15)
+> 3. _La comprensión por la fe de la adoración con comunión de la Deidad, asociada al servicio amoroso a la humanidad._ <a id="a129_120"></a>[LU 16:8.15-18](/es/The_Urantia_Book/16#p8_15)
 
 ### 9. La realidad de la conciencia humana
 
@@ -138,7 +138,7 @@ La criatura personal dotada de la mente cósmica y habitada por un Ajustador pos
 > 1. La búsqueda del conocimiento, la lógica de la ciencia.
 > 2. La búsqueda de los valores morales, el sentido del deber.
 > 3. La búsqueda de los valores espirituales, la experiencia religiosa.
-> 4. La búsqueda de los valores de la personalidad, la capacidad para reconocer la realidad de Dios como personalidad, y la comprensión simultánea de nuestra relación fraternal con las personalidades de nuestros semejantes. <a id="a140_224"></a>[LU 16:9.9](/es/The_Urantia_Book/16#p9_9)
+> 4. La búsqueda de los valores de la personalidad, la capacidad para reconocer la realidad de Dios como personalidad, y la comprensión simultánea de nuestra relación fraternal con las personalidades de nuestros semejantes. <a id="a140_224"></a>[LU 16:9.9-13](/es/The_Urantia_Book/16#p9_9)
 
 La actitud es el pincel con el que la mente Colorea nuestra Alma Inmortal y somos nosotros quienes elegimos los colores
 

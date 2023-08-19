@@ -54,7 +54,7 @@ Desarrollemos un verdadero estado espiritual <br>
 Que nos permita estar en condiciones de poder cumplir con tu voluntad.<br>
 De ser perfectos de la misma manera que tú eres perfecto,<br>
 y asi evolucionemos en forma conjunta con el Supremo<br>
-Para que se establezca la era de luz y vida dentro de tu gran. creación<br>
+Para que se establezca la era de luz y vida dentro de tu gran creación<br>
 Como es tu propósito eterno y divino, <br>
 y asi, como verdaderos hijos espirituales de Dios<br>
 Iniciemos esa gloriosa carrera espiritual ascendente y eterna hacia el Paraiso,<br>
