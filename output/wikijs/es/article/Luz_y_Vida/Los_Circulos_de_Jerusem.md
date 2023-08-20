@@ -89,7 +89,7 @@ Lo de los polos está reforzado por lo que se dice en <a id="a85_53"></a>[LU 46:
 
 **Carmelo:** La palabra «arreglos» quiere ser la traducción (mala) de «arrangements», pero para mí son «disposiciones». Ésta es mi traducción de <a id="a89_145"></a>[LU 46:4.6](/es/The_Urantia_Book/46#p4_6):
 
-> «_Esta disposición de las actividades del sistema en círculos, cuadrados, rectángulos y triángulos es común a todas las capitales de sistema de Nébadon. En otro universo podría predominar una disposición totalmente diferente. Estos son asuntos establecidos por los variados planes de los Hijos Creadores._»
+> «_Esta disposición de las actividades del sistema en círculos, cuadrados, rectángulos y triángulos es común a todas las capitales de sistema de Nébadon. En otro universo podría predominar una disposición totalmente diferente. Estos son asuntos establecidos por los variados planes de los Hijos Creadores._» [LU 46:4.6](/es/The_Urantia_Book/46#p4_6)
 
 **Eduardo:** Bueno, aquí van mis dibujos. Más adelante hablaremos de los cuadrados, de los rectángulos y de los triángulos.
 

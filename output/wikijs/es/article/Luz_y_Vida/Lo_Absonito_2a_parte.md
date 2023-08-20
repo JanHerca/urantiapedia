@@ -42,7 +42,7 @@ De varios autores
 - Antonio Moya
 - Santiago Rodríguez
 
-## Carmelo:
+## Carmelo
 
 Amigos: no he encontrado nada que diga que los seres que nazcan en los mundos del espacio exterior serán absonitos o no. Pero desde luego su experiencia sí será absonita, pues todos los potenciales finitos se habrán agotado con la llegada a luz y vida de los superuniversos.
 
@@ -66,7 +66,7 @@ Esta última afirmación aparentemente en contradicción con la primera cita (ac
 
 En resumen, no se dice que los finalitarios se convierten en seres absonitos pero sí se afirma que la experiencia que hay despues de agotar lo finito es, y debe ser, absonita, y de hecho, los finalitarios se preparan para ella en el Paraíso tratando con seres absonitos.
 
-No sé si hay diferencia entre ser absonito de origen, o sea ser eventuado, y ser absonito de evolución, o sea perfeccionarse hasta colmar lo finito y a continuación aprender a tratar con lo absonito, pero da igual. Creo que los finalitarios actuarán en todos los aspectos como seres absonitos, o sea trascendiendo por ellos mismos el tiempo y el espacio, y que su crecimiento posfinito será mediante experiencias absonitas. Intuyo también que habrá una etapa posúltima de crecimiento, no sé con qué tipo de experiencias (¿experiencias absolutas?), como se dice en el «Estudio de Universo Maestro», lo que ya no está tan claro es si podremos llegar a culminarla para alcanzar el nivel absoluto y existencial, duda que se refleja en <a id="a68_731"></a>[LU 10:8.7](/es/The_Urantia_Book/10#p8_7).
+No sé si hay diferencia entre ser absonito de origen, o sea ser eventuado, y ser absonito de evolución, o sea perfeccionarse hasta colmar lo finito y a continuación aprender a tratar con lo absonito, pero da igual. Creo que los finalitarios actuarán en todos los aspectos como seres absonitos, o sea trascendiendo por ellos mismos el tiempo y el espacio, y que su crecimiento posfinito será mediante experiencias absonitas. Intuyo también que habrá una etapa posúltima de crecimiento, no sé con qué tipo de experiencias (¿experiencias absolutas?), como se dice en el [«Estudio de Universo Maestro»](/es/article/William_S_Sadler_Jr/Study_of_the_Master_Universe), lo que ya no está tan claro es si podremos llegar a culminarla para alcanzar el nivel absoluto y existencial, duda que se refleja en <a id="a68_731"></a>[LU 10:8.7](/es/The_Urantia_Book/10#p8_7).
 
 Tampoco sé si los habitantes del espacio exterior serán absonitos en su origen o no, o sea si vendrán a la existencia mediante eventuación o mediante creación, pero da igual también. Su crecimiento será sólo con experiencias absonitas, no tendrán ni un ápice de crecimiento con experiencias finitas, pero allí estaremos nosotros para complementarles con nuestra naturaleza finita perfeccionada, como están ahora con nosotros los seres perfectos para complementar nuestra naturaleza finita aún sin perfeccionar.
 
@@ -74,7 +74,7 @@ El mensaje de Santi despertó mucho interés en mí. Me parece un tema interesan
 
 Creo que lo que dicen las citas es más o menos lo que nos decía Santi, que ya veo que es una «máquina» en estos temas.
 
-## Antonio:
+## Antonio
 
 Mi idea acerca del tema es la siguiente: Cuando culminemos el nivel finito (llegada a la presencia del Padre y enrolamiento en el Cuerpo de la Finalidad), habremos agotado nuestro potencial para el crecimiento finito. Ya no tendremos nada más que aprender o hacer en el nivel finito. De hecho, al viajar definitivamente al Paraíso, recordad que lo hacemos dormidos y que nos despertaremos allí como seres eternos. Se producirá la (última?) metamorfosis. En consecuencia, dejamos de ser seres espacio-temporales. Y si dejamos de ser espacio-temporales... ¿qué viene después?
 
@@ -88,7 +88,7 @@ Y cuando Dios Último sea una realidad MANIFESTADA en el universo maestro, empez
 
 Si no, ¿qué es la ETERNIDAD?... Aquí no se acaba NUNCA. Como dice el LU, culminamos metas PARCIALES, nos damos un respiro, y luego a subir el escalón siguiente. Visualizad una escalera (la escala de Jacob), mirad hacia arriba, y observad cómo la perspectiva hace que se pierda en el infinito... Pues eso es lo que nos espera.
 
-## Carmelo:
+## Carmelo
 
 Tampoco tu opinión «anda descalza», Antonio. En mi mensaje anterior no quise pronunciarme, y aseguré que me era igual si nos convertimos realmente en seres absonitos o y sólo adquirimos la capacidad de actuar como tales. Tras leer tu mensaje, en especial el hecho de que debemos dormirnos (una vez más) antes del último viaje del que despertaremos como ciudadanos de Paraíso, empiezo a pensar que sí nos convertimos en seres absonitos, precisamente en esa (¿última?) metamorfosis como tú la calificas acertadamente.
 
@@ -96,7 +96,7 @@ A ver qué opina Santi que parece que pensaba lo contrario.
 
 En cualquier caso, tu opinión también me ha sido de gran utilidad, y te la agradezco mucho. Me aclara mucho algunos conceptos que tenía «cogidos con pinzas». Tengo que estudiar más lo de «penetrar en 7 niveles cósmicos» y lo de seres «omnipersonales», otros conceptos que se me habían escapado en mis lecturas anteriores
 
-## Santiago:
+## Santiago
 
 No importa que lo que «supongamos» sea más o menos acertado, lo importante es el esfuerzo en su comprensión que sospecho que desarrolla la capacidad de asimilar/entender conceptos nuevos.
 
@@ -138,7 +138,7 @@ Resumiendo: es cierto que estaremos eternamente entretenidos; es cierto que nues
 
 Nuestra evolución nos proveerá de recursos para penetrar experiencialmente en lo absonito ( O alguna de sus fases o niveles) e incluso (por qué no) en lo Absoluto. Recordemos que nos queda por elucubrar qué nos permitirá nuestra asociación definitiva con un ente que es un fragmento del Padre Universal, y creo que algún grado de absolutez en lo personal al menos, debe de tener. Quizá no tengamos acceso a lo absoluto de deidad o deificable, ni de lo no deidad, y no personal, pero supongo que sí estará a nuestro alcance en ese futuro remoto una porción del absoluto de la personalidad (aquélla que sea nuestro propio Ajustador), lo que nos permitirá experiencias no sólo en lo absonito sino en lo absoluto también...
 
-## Antonio:
+## Antonio
 
 El tema de los seres omnipersonales está en <a id="a142_44"></a>[LU 109:7.4](/es/The_Urantia_Book/109#p7_4). Es posible que yo me haya equivocado, y que nunca nos convirtamos en seres omnipersonales. Esta página trata de los Ajustadores que el Padre ha personalizado. Quizás de ahí viene mi confusión, pues veo bastante parecido entre esos seres y nosotros (una vez fusionados). Es posible que la diferencia fundamental radique en que nosotros seremos seres tanto pre-personales (lo que aporta el Ajustador) como personales (lo que aportamos nosotros), pero a realizar por experiencia en el eterno futuro, y los Ajustadores Personalizados YA POSEEN AHORA todo lo que da de sí esa unión de lo pre-personal y lo personal.
 
@@ -150,7 +150,7 @@ Y en cuanto al agotamiento de los potenciales finitos, mi opinión es que se ago
 
 Esta Primera Trinidad Experiencial es la que va a reclutar todos los recursos y personalidades del Segundo Universo Nuclear (el Gran Universo = Havona +7 superuniversos) para llevarlas a trabajar (como mulos) en los 4 niveles del espacio exterior en busca de Dios Último. En consecuencia, YA NO habrá nada finito que actualizar.
 
-## Carmelo:
+## Carmelo
 
 Yo creo que Antonio tiene razón: el nivel finito, los potenciales finitos, se agotan con la aparición del Supremo; o mejor dicho, la aparición del Supremo se debe al agotamiento de los potenciales finitos. Las citas que aporta Antonio (<a id="a154_236"></a>[LU 117:6.24](/es/The_Urantia_Book/117#p6_24) y <a id="a154_284"></a>[LU 118:10.15](/es/The_Urantia_Book/118#p10_15)) son definitivas en este sentido. Algo más al respecto se dice en los párrafos <a id="a154_411"></a>[LU 0:7.10](/es/The_Urantia_Book/0#p7_10) y el <a id="a154_458"></a>[LU 0:8.11](/es/The_Urantia_Book/0#p8_11) del Prólogo que es una auténtica mina de información... cuando se consigue descifrarlo. Por cierto, fijaos que el agotamiento de las posibilidades finitas tiene dos aspectos diferentes: la autorrealización perfeccionada (el perfeccionamiento finito) de todas las personalidades y el equilibrio perfeccionado (la estabilización física) en todos los universos. ¿Es esto la unificación poder-personalidad a que se refiere el LU tantas veces?
 
@@ -158,7 +158,7 @@ Me temo que los únicos seres omnipersonales son los ajustadores personalizados.
 
 Sobre los niveles penetrables por la personalidad aún estoy perplejo. Es evidente que necesito más tiempo para asimilar lo que dice el apartado <a id="a158_144"></a>[LU 10:3.19](/es/The_Urantia_Book/10#p3_19). Antonio, ¿alguna opinión más al respecto?; ¿alguna explicación más?
 
-## Antonio:
+## Antonio
 
 Para terminar con este tema (al menos por mi parte), contesto a lo último que ha preguntado Carmelo sobre si es la unificación poder-personalidad: yo creo que sí. En los documentos sobre el Ser Supremo se habla largamente de ello. El perfeccionamiento de las personas más la estabilización física de los universos actuales darán como resultado la aparición del Supremo y el final de la Era Finita. Los 7 superuniversos estarán perfectamente estabilizados (como lo está Havona ahora) y todas sus personalidades se habrán perfeccionado. Fin de la Segunda Era del Universo. En el Ser Supremo, todo esto estará unificado como la síntesis del poder y la personalidad, es decir, el dominio del espíritu, a través de la personalidad, sobre la energía-materia.
 

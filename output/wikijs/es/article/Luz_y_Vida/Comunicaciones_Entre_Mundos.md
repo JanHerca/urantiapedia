@@ -82,7 +82,7 @@ Una razón más para pensar que los ovnis NO son extraterrestres.
 
 Yo creo que una «bola» que no esté en cuarentena no ha tenido «incidencias» a lo largo de todo su desarrollo evolutivo. En un planeta donde han ido llegando las diferentes Personalidades a su «tiempo» o sea, Príncipe Planetario, Adán y Eva, Hijo Magistral, etc.- a muchos de sus habitantes, si no a todos, les estarán permitidas ciertas comunicaciones. Pensemos que esos seres se encuentran muy bien instruidos por las personalidades correspondientes y si su fe no es tan grande como la nuestra, por las circunstancias que sean, sí que tienen que estar convencidos de que existe la vida eterna después de la muerte y yo, de encontrarme en esa situación, no dudaría mucho.
 
-Antonio, lo siento, no llego a «pillar» cual es la razón de peso. ¿'Tú la sabes? Si es así, no nos hagas más sufrir y «chívanos» algo. Por fa.
+Antonio, lo siento, no llego a «pillar» cual es la razón de peso. ¿Tú la sabes? Si es así, no nos hagas más sufrir y «chívanos» algo. Por fa.
 
 En cuanto a los extraterrestres, pienso que ese tema tiene mucha «miga», ¿no? Pensad por un momento que han sido y son noticias muy manipuladas y muy mal interpretadas. Yo desde que leí el LU deje de pensar en los extraterrestres como seres malos o invasores. Para mi son las personalidades de «ahí afuera» que nos visitan, nos protegen y tratan de ayudarnos a su manera.
 

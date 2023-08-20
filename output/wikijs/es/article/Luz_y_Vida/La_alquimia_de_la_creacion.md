@@ -54,11 +54,11 @@ Alguien se preguntó una vez si la alquimia era una superciencia extraterrestre.
 
 Precisamente en este último texto clasifica la energía física en tres grandes grupos:
 
-1- La fuerza, que se caracteriza por no responder ni siquiera a la gravedad del Paraíso.
+1. La fuerza, que se caracteriza por no responder ni siquiera a la gravedad del Paraíso.
 
-2- La energía, que responde a la gravedad del Paraíso pero no a la lineal.
+2. La energía, que responde a la gravedad del Paraíso pero no a la lineal.
 
-3- El poder, que responde a ambas gravedades (la del Paraíso y la lineal)
+3. El poder, que responde a ambas gravedades (la del Paraíso y la lineal)
 
 En realidad la fuerza es una prerrealidad, un potencial pasivo, una manifestación espacial del Absoluto No Cualificado. La realidad empieza de hecho en la energía.
 

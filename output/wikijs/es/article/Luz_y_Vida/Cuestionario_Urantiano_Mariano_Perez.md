@@ -78,7 +78,9 @@ Como bien dice el libro, es como si pensáramos nosotros mismos, no es una voz q
 
 ## 10. ¿Has intentado poner en práctica la enseñanza del Maestro? ¿Cuál ha sido el resultado?
 
-Creo que hacer la voluntad del Padre y poner en práctica las enseñanzas del Maestro es lo mismo. Algo que suele funcionar en la resolución de problemas o diversas situaciones donde tenemos que tomar decisiones, es pensar: Qué haría el Maestro en esta situación. Viniendo a nuestra mente y corazón su personalidad, quizá tomemos la decisión más acorde a la voluntad divina. 11. ¿Crees que _El Libro de Urantia_ tiene algo de «misterioso» que hace que no todo el mundo se dedica a leerlo?
+Creo que hacer la voluntad del Padre y poner en práctica las enseñanzas del Maestro es lo mismo. Algo que suele funcionar en la resolución de problemas o diversas situaciones donde tenemos que tomar decisiones, es pensar: Qué haría el Maestro en esta situación. Viniendo a nuestra mente y corazón su personalidad, quizá tomemos la decisión más acorde a la voluntad divina. 
+
+## 11. ¿Crees que _El Libro de Urantia_ tiene algo de «misterioso» que hace que no todo el mundo se dedica a leerlo?
 
 El problema no está en el libro, sino en la poca inquietud de búsqueda de la Verdad en la que vivimos, la falta de compromiso de uno mismo con Dios. Tiene que producirse un «despertar de la consciencia» en el individuo, para que se vea atraído, primero a buscar y luego a aceptar. Muchos buscan, pero en terrenos poco o nada fértiles. En cualquier caso, cada uno elige su camino y puede ser el mejor, el más apropiado para él en ese momento. Lo digo por experiencia.
 

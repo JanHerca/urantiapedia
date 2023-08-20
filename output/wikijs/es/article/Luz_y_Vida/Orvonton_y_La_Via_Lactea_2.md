@@ -96,7 +96,7 @@ Aqui (punto amarillo en el centro de la imagen superior) se encuentra la Tierra 
 <img src="/image/article/Luz_y_Vida/LyV7/04b.jpg">
 </figure>
 
-## 10. Carmelo Martínez
+## Carmelo Martínez
 
 El interés que me mueve en este asunto es no tanto representar en dibujos lo que dice el Libro (sospechosamente claro, para mí, en algunos aspectos), sino más bien encajar lo que dice en lo que dice nuestra ciencia actual al respecto (en la imagen que nos da del cosmos).
 

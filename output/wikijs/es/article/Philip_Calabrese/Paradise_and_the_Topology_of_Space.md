@@ -56,7 +56,7 @@ Sobre el Paraíso:
 
 - Es un elipsoide plano que tiene una región alta, otra baja y otra periférica.
 - Es la estructura organizada más gigantesca de todo el cosmos.
-- Es la morada de la Trinidad existencial de las tres personas divinas y (probablemente) el centro focal de los tres Absolutos no personales (p. 15).
+- Es la morada de la Trinidad existencial de las tres personas divinas y (probablemente) el centro focal de los tres Absolutos no personales ([UB 0:11.15](/en/The_Urantia_Book/0#p11_15)).
 - Es el centro geográfico de la infinidad (<a id="a59_43"></a>[LU 11:9.2](/es/The_Urantia_Book/11#p9_2)).
 - No tiene tiempo ni espacio (excepto volitivamente), pero tiene superficies y áreas absolutas, y distancias y direcciones —norte, sur, este, oeste, arriba, abajo- con significación absoluta.
 - Se presenta universalmente en forma de una sujeción física, de una atracción instantánea, la gravedad paradisíaca (<a id="a61_117"></a>[LU 11:8.9](/es/The_Urantia_Book/11#p8_9), <a id="a61_160"></a>[LU 10:3.11](/es/The_Urantia_Book/10#p3_11)).
@@ -149,7 +149,7 @@ Un ultimatón puede caer a un estado de energía rotativa más bajo emitiendo al
 <img src="/image/article/Luz_y_Vida/LyV22/04.jpg">
 </figure>
 
-La generación de las llamadas cargas lectrónicas positivas y negativas podría explicarse en términos del espín de los 100 ultimatones intraelectrónicos. Por ejemplo, dos electrones que tengan la mayoría de las 100 cáscaras ultimatónicas rotando en la misma dirección, podrían repelerse entre sí. Por otra parte, dos electrones (uno de ellos un positrón) que contengan direcciones de revolución opuestas podrían atraerse entre sí, y anularse uno al otro alguna de sus masas rotativas emitiendo alguna energía en el proceso. La construcción de electrones, protones y átomos a partir del ultimatón es obra de los centros del poder (<a id="a151_629"></a>[LU 42:4.3](/es/The_Urantia_Book/42#p4_3)).
+La generación de las llamadas cargas lectrónicas positivas y negativas podría explicarse en términos del espín de los 100 ultimatones intraelectrónicos. Por ejemplo, dos electrones que tengan la mayoría de las 100 cáscaras ultimatónicas rotando en la misma dirección, podrían repelerse entre sí. Por otra parte, dos electrones (uno de ellos un positrón) que contengan direcciones de revolución opuestas podrían atraerse entre sí, y anularse uno al otro alguna de sus masas rotativas emitiendo alguna energía en el proceso. La construcción de electrones, protones y átomos a partir del ultimatón es obra de los centros del poder (<a id="a153_629"></a>[LU 42:4.3](/es/The_Urantia_Book/42#p4_3)).
 
 Aunque estas explicaciones son todavía cualitativas, me parece que la mayoría de los fenómenos extraños de la mecánica cuántica de hoy en día son explicables potencialmente en los términos de este modelo de materia subelectrónica en forma de cáscaras de espacio esféricas y en rotación. Precisamente ahora estoy poniendo en obra algunas de las implicaciones cuantitativas de esta teoría, y los resultados preliminares son muy alentadores, pero la falta de tiempo no me permite hoy llegar muy lejos en este camino. En un futuro cercano, tengo planeado presentar para su publicación un trabajo más técnico en relación con estos aspectos cuantitativos de la teoría. Este trabajo redefinirá el concepto de la masa como un espacio en rotación y contemplará la conservación de las energías potencial y cinética y el momento angular de un ultimatón; intentaré resolver el problema de las transformaciones masa-energía y de la generación de ondas.
 

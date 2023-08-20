@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Escuela de _El Libro de Urantia_ en Internet</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Escuela de El Libro de Urantia en Internet</span>
         </a>
         </td>
         <td>
@@ -88,7 +88,7 @@ Conocida nuestra realidad, y si en este mundo de grandes divergencias queremos c
       <tr>
         <td>
         <a href="/es/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Escuela de _El Libro de Urantia_ en Internet</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Escuela de El Libro de Urantia en Internet</span>
         </a>
         </td>
         <td>

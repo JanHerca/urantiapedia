@@ -197,7 +197,7 @@ Por si ayuda en algo, ahí va este texto del Documento 102, sección 3:
 
 > _En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios._ 
 > 
-> _La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema, y la filosofia con la unidad. La revelación afirma que las tres son una sola, y que todas son buenas. Lo real eterno es el bien del universo, y no las ilusiones temporales del mal espacial. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es el bien y que el bien es lo real._ <a id="a199_414"></a>[LU 102:3.5-14](/es/The_Urantia_Book/102#p3_5)
+> _La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema, y la filosofia con la unidad. La revelación afirma que las tres son una sola, y que todas son buenas. Lo real eterno es el bien del universo, y no las ilusiones temporales del mal espacial. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es el bien y que el bien es lo real._ <a id="a199_414"></a>[LU 102:3.5-15](/es/The_Urantia_Book/102#p3_5)
 
 ## Referencias
 

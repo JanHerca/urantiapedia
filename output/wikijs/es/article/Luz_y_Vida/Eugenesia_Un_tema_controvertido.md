@@ -84,7 +84,7 @@ El problema es enfrentarlo ahora, que nuestra ética y moral no permitirían cie
 
 Además, hemos de compaginarlo con, por un lado tener «herramientas» para medir qué «estirpes o linajes de cada raza son superiores y en qué, y hacerlo de una manera objetiva. Y además no impedir que los individuos tengan la tan deseada experiencia de la paternidad. Es decir, «un marrón» en toda regla.
 
-## 7. Eduardo
+## Eduardo
 
 Después de leer vuestras opiniones, las citas seleccionadas y algo más del LU he llegado a la conclusión que este tema bien lo podemos dejar para airearlo dentro de 3.000 ó 4.000 años más adelante. Dejemos desfilar el tiempo y corramos un tupido velo sobre esta cuestión, pues como bien dice Olga, no sería políticamente correcto establecer comentarios a estas alturas en las que se encuentra la evolución humana. Sería algo así como darle perlas a los cerdos. Pero eso no me impide daros mi opinión. Lo voy hacer tratando de dar contestación a las preguntas que ha formulado Carmelo.
 

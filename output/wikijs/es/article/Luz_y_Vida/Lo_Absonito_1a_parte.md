@@ -42,13 +42,13 @@ De varios autores
 - Antonio Moya
 - Santiago Rodríguez
 
-## Carmelo:
+## Carmelo
 
 Amigos, ¿alguien se atreve a explicarme qué es lo absonito?
 
 Sí ya sé, el nivel intermedio entre lo <ins>abso</ins>luto y lo fin<ins>ito</ins>. Pero me pierdo. Todas las potencialidades finitas se agotarán cuando los siete superuniversos culminen su evolución, se establezcan en luz y vida y surja el Ser Supremo. Después quedan las potencialidades absonitas y los universos del espacio exterior. Pero ¿qué son el espacio y el tiempo trascendidos? ¿Cómo serán esos universos no finitos sino absonitos? ¿Cómo será la vida en ellos? No me lo imagino. No consigo entender algo que trasciende al tiempo y al espacio. Los universos exteriores están ahí en una posición concreta del espacio normal no trascendido, a una distancia concreta de nosotros. Evolucionan siguiendo el tiempo de toda la vida, nuestro tiempo no trascendido ¿¿O no?
 
-## Antonio:
+## Antonio
 
 Queridos amigos: copiando la frase de Carmelo, me gustaría preguntar: ¿Alguien se atreve a explicarme qué es la <ins>morontia</ins>? Porque es que no me la imagino...
 
@@ -62,7 +62,7 @@ Pero no somos los únicos. Los habitantes de Havona **NO podían hacerse ni la m
 
 Querido Carmelo, aquello que aún no se ha manifestado (para nosotros) es una carta que tiene en la manga la Deidad. Para que no nos aburramos, y siempre estemos descubriendo algo nuevo. No se lo revela a nadie, y es, por tanto, impensable, inimaginable. Como lo absonito **AÚN** no forma parte de nuestra experiencia, NO podemos imaginarlo o hacernos una idea mental. De hecho, tampoco soy capaz de imaginarme la **morontia**, y está ahí al lado. ¡Cuánto menos lo absonito!
 
-## Carmelo:
+## Carmelo
 
 Querido Antonio: la argumentación de que nos es inconcebible porque está fuera de nuestra experiencia me ha convencido; y el ejemplo de los habitantes de Havona me ha barrido toda sombra de duda. Y lo de la carta en la manga de la Deidad para que no nos aburramos me llena de ilusión y esperanza en el futuro. Me resigno alegremente y esperaré a que pase.
 
@@ -72,7 +72,7 @@ Hablando del despertar; tiene que ser la leche. Os imagináis: acabáis de cerra
 
 Yo imagino muchas cosas de los mundos moronciales; claro, todas ellas son continuación y ampliación de las cosas de aquí.
 
-## Santiago:
+## Santiago
 
 Ahí va mi punto de vista, espero no sea un ladrillo, pero hoy por hoy es todo lo que vislumbro...
 
@@ -124,7 +124,7 @@ Trascender el tiempo, sólo soy capaz de visualizarlo con una especie de aproxim
 
 Por ejemplo, imaginemos que un serafín (también un ser intermedio) puede desplazarse a la velocidad de la luz en la superficie de nuestro planeta, lo que le permitiría dar varias vueltas a la Tierra en 1 segundo. Evidentemente no podemos decir que trascienden ni el tiempo ni el espacio. Están condicionados a ambos, pero a efectos prácticos y en el marco de existencia de nuestro planeta, en una fracción de segundo pueden estar en las antípodas de su situación actual, y volver al mismo sitio antes de que parpadees, esa velocidad les permite casi trascender al espacio y al tiempo en lo que a sus desplazamientos se refiere. Podríamos vislumbrar que para ellos el tiempo de ir y volver no cuenta (es tan pequeño...) Para nuestros fenómenos personales, ese intervalo de tiempo es tan insignificante que desde nuestro punto de vista podríamos suponer que en sus desplazamientos, trascienden el tiempo ( y también el espacio)
 
-## Carmelo:
+## Carmelo
 
 Tampoco «es manco» tu punto de vista, Santi, pero efectivamente lo que no es de nuestra experiencia nos es inimaginable. Tenemos que hacer semejanzas y paralelismos con otros fenómenos que conocemos, como haces tú. Pero están muy bien pues permiten, no ya imaginar, pero sí pensar en las características de esos estados. Lo de los extremos de la fibra óptica de 7 km. que están a unos pocos centímetros es definitivo.
 

@@ -110,7 +110,11 @@ Un tema de lo más interesante y en la imagen que adjunto ya nos muestra 12 plan
 
 Gracias Jan, por esta científica y hermosa noticia, que corrobora una vez más que la Quinta Revelación es real y creíble; porque para mí _El Libro de Urantia_ es coherente y por lo tanto aceptable, y no creo que ninguna parte del libro sea una falacia.
 
-Pero yo me pregunto: si con este nuevo planeta serían diez los conocidos, incluyendo al degradado Plutón, o integrarían la lista de los doce Ceres y Caronte, como dice Josep, o faltan por descubrir dos; o dos se desintegraron formando los cinturones de asteroides. ¿Qué dicen ustedes? Hola, Efraín. Creo recordar que el cinturón de asteroides nunca había llegado a ser planeta, o sea que sería uno que no se llegó a formar. Lo que no entiendo es Ceres, que parece estar ahí.
+Pero yo me pregunto: si con este nuevo planeta serían diez los conocidos, incluyendo al degradado Plutón, o integrarían la lista de los doce Ceres y Caronte, como dice Josep, o faltan por descubrir dos; o dos se desintegraron formando los cinturones de asteroides. ¿Qué dicen ustedes? 
+
+## Josep
+
+Hola, Efraín. Creo recordar que el cinturón de asteroides nunca había llegado a ser planeta, o sea que sería uno que no se llegó a formar. Lo que no entiendo es Ceres, que parece estar ahí.
 
 Por el enlace, es curioso ver que el mismo astrónomo que provocó la defenestración de Plutón sea el que precisamente intenta demostrar que el llamado planeta X no existe, haya llegado a la conclusión que realmente está.
 

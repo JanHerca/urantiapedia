@@ -127,9 +127,7 @@ De todas formas, tiene poca importancia y tampoco vamos a liarnos a discutir un 
 
 De lo que sí estoy seguro es que lo que el Ajustador hace no lo sabe ni Dios. Ese Mensajero Solitario lo dice bien claro, ni él mismo sabe muy bien qué hace y cómo actúa. Tan sólo sabemos que actúa en el «campo» de la supermente con experiencias superconscientes, o algo así. Si os tengo que ser sinceros, no entiendo nada. Pero sí que entiendo frases tan sencillas de comprender y de interpretar como:
 
-> _Las razas de Urantia están tan ampliamente controladas eléctrica y químicamente, su comportamiento común se parece tanto al de los animales, sus reacciones habituales son tan emotivas, ***que a los Monitores les resulta extremadamente difícil guiarlas y dirigirlas***. ***Estáis tan desprovistos de decisiones valientes y de una cooperación consagrada***, que a vuestros Ajustadores interiores les resulta ***casi imposible*** comunicarse directamente con la mente humana._
-> 
-> _Incluso cuando les es posible transmitir un destello de verdad nueva al alma mortal evolutiva, a menudo esta revelación espiritual ***ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso***._ <a id="a131_277"></a>[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)
+> _Las razas de Urantia están tan ampliamente controladas eléctrica y químicamente, su comportamiento común se parece tanto al de los animales, sus reacciones habituales son tan emotivas, ***que a los Monitores les resulta extremadamente difícil guiarlas y dirigirlas***. ***Estáis tan desprovistos de decisiones valientes y de una cooperación consagrada***, que a vuestros Ajustadores interiores les resulta ***casi imposible*** comunicarse directamente con la mente humana. Incluso cuando les es posible transmitir un destello de verdad nueva al alma mortal evolutiva, a menudo esta revelación espiritual ***ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso***._ <a id="a131_277"></a>[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)
 
 > _No confundáis ni mezcléis la misión y la influencia del Ajustador con lo que se llama habitualmente la conciencia moral; ***no están directamente relacionadas***._ <a id="a133_167"></a>[LU 110:5.1](/es/The_Urantia_Book/110#p5_1)
 
@@ -185,11 +183,7 @@ Sigo con las citas:
 
 Estos párrafos refuerzan mi teoría.
 
-> _Es extremadamente peligroso hacer suposiciones sobre lo que, ***en la vida onírica, procede de los Ajustadores. Los Ajustadores trabajan de hecho durante el sueño***, pero vuestras experiencias oníricas ordinarias son unos fenómenos puramente fisiológicos y psicológicos._
-> 
-> _Asimismo, ***es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana***._
-> 
-> _Recordad que la influencia de un Ajustador del Pensamiento es en su mayor parte, aunque no del todo, ***una experiencia superconsciente***._ <a id="a191_144"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)
+> _Es extremadamente peligroso hacer suposiciones sobre lo que, ***en la vida onírica, procede de los Ajustadores. Los Ajustadores trabajan de hecho durante el sueño***, pero vuestras experiencias oníricas ordinarias son unos fenómenos puramente fisiológicos y psicológicos. Asimismo, ***es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana***. . . .Recordad que la influencia de un Ajustador del Pensamiento es en su mayor parte, aunque no del todo, ***una experiencia superconsciente***._ <a id="a191_144"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)
 
 > _El terreno es peligroso, y cada ser humano debe resolver ***estos problemas por sí mismo de acuerdo con su sabiduría humana naturaly su perspicacia superhumana***._ <a id="a193_168"></a>[LU 110:5.6](/es/The_Urantia_Book/110#p5_6)
 
