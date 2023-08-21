@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — May 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -75,3 +96,25 @@ _The Urantia Book_ for me is a gift that has been given to us, so that we obtain
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — May 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

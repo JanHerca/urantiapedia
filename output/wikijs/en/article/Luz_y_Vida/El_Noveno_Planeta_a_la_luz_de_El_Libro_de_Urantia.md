@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jan Herca, Santiago Rodríguez, Efraín Vivanco, Josep Bosch, Carmelo Martínez, Iván Înigo<br>© 2016 Urantia Association from Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_43_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 43 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-43-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 43 — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
+          <span class="pr-2">Eugenics for these times</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By various authors
@@ -33,7 +57,7 @@ http://www.elmundo.es/ciencia/2016/01/20/569fbdae268e3eab3f8b4596.html
 
 This is news of incredible proportions for the scientific community, not only because of the discovery itself, but also because of the type of planet that has been discovered, which literally destroys everything that was known about what our solar system was like and how it had formed.
 
-I highly recommend reading sections [UB 57:5](/en/The_Urantia_Book/57#p5) and [UB 57:6](/en/The_Urantia_Book/57#p6) of the book, because one of the things I've been hearing from detractors of the book for a long time is that some parts of its scientific material are clear errors. The book clearly states that the solar system originally had twelve planets, and that it even stole three more planets from another nearby solar system (the real culprit in the formation of ours). For a long time that figure did not fit with the eight / nine maximum planets that science had discovered.
+I highly recommend reading sections <a id="a59_36"></a>[UB 57:5](/en/The_Urantia_Book/57#p5) and <a id="a59_78"></a>[UB 57:6](/en/The_Urantia_Book/57#p6) of the book, because one of the things I've been hearing from detractors of the book for a long time is that some parts of its scientific material are clear errors. The book clearly states that the solar system originally had twelve planets, and that it even stole three more planets from another nearby solar system (the real culprit in the formation of ours). For a long time that figure did not fit with the eight / nine maximum planets that science had discovered.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV43/02.jpg">
@@ -103,7 +127,7 @@ Many times the problem of contrasting the scientific information of _The Urantia
 
 The definition of planet made by the IAU (International Astronomical Union), not to be confused with the AIU (International Urantia Association) and the doubts and changes you can see here https://es.wikipedia.org/wiki/Redefinici%C3%B3n_de_planeta_de_2006.
 
-The closest thing to a definition of a planet that we can find in _The Urantia Book_ is [UB 15:6.14](/en/The_Urantia_Book/15#p6_14).
+The closest thing to a definition of a planet that we can find in _The Urantia Book_ is <a id="a129_88"></a>[UB 15:6.14](/en/The_Urantia_Book/15#p6_14).
 
 If the definitions do not coincide, the classification of spheres may well be different without the information being contradictory.
 
@@ -111,9 +135,9 @@ The solar system is what it is, and the revelators know it “first hand” or b
 
 What is transcendent about this discovery, in my modest opinion, is that it marks (once again) a line. Those who see a contradiction between science and _The Urantia Book_ should be more prudent and accept that human science is a developing subject and that, whether or not they believe in the veracity of what the book tells us, new discoveries can be expected. that “turn upside down”, or at least deny or qualify, some truths accepted (even as absolute) at a given time.
 
-Nor should we readers throw the bells on the fly. _The Urantia Book_ is not a scientific book, and those who hope to be convinced of its truth by its information on science have it raw. In this sense, it is worth rereading the [section 4 of paper 101](/en/The_Urantia_Book/101#p4). As some of you have rightly said, what convinces (and transforms) the book is personal experience, which in essence is discovering the Father in us.
+Nor should we readers throw the bells on the fly. _The Urantia Book_ is not a scientific book, and those who hope to be convinced of its truth by its information on science have it raw. In this sense, it is worth rereading the <a id="a137_227"></a>[section 4 of paper 101](/en/The_Urantia_Book/101#p4). As some of you have rightly said, what convinces (and transforms) the book is personal experience, which in essence is discovering the Father in us.
 
-P.S. By the way, Josep, you can read in paragraph [UB 57:6.5](/en/The_Urantia_Book/57#p6_5) that the asteroid belt was initially a planet, the fifth from Monmatia.
+P.S. By the way, Josep, you can read in paragraph <a id="a139_50"></a>[UB 57:6.5](/en/The_Urantia_Book/57#p6_5) that the asteroid belt was initially a planet, the fifth from Monmatia.
 
 ## Jan
 
@@ -143,3 +167,28 @@ I read the news and is it a gas planet? I think that means it came from a sun, i
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_43_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 43 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-43-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 43 — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
+          <span class="pr-2">Eugenics for these times</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

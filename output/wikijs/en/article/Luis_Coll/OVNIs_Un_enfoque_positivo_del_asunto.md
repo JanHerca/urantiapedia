@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Luis Coll<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Carrera/Trinizando">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinitizing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-20-march-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 20 — March 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_6">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The subject of UFOs and aliens is quite current, sometimes so much so that we can find “UFOs” and aliens even in the soup.
@@ -19,7 +43,7 @@ The universe is a place of peace and order, there are no “Star Wars”. In suc
 
 The subject of UFOs is nothing new and is as old as humanity itself. In different cultures and countries we can find “traces” of them, also in very old books and writings. In the Bible, for example, “_the column of fire that led Moses and the children of Israel_” ([Exodus 13:21,22](/en/Bible/Exodus/13#v21)). The prophet Ezekiel's vision of “_a great cloud with encircling fire_” and “_its appearance as a wheel in the middle of a wheel_” ([Ezekiel 1](/en/Bible/Ezekiel/1)) Today we would call that flying saucers. Researchers on this matter could very well tell us that they have found “clues” of these objects in different cultures, books and in-person testimonies from the people who have seen them.
 
-In some historical books and writings from different cultures and in _The Urantia Book_ which was given in 1955, we can also find some clues about the activities of those beings: “_the two seraphic transports_” ([UB 74:0.1](/en/The_Urantia_Book/74#p0_1)), “_arrival seraphic transports_” ([UB 75:6.3](/en/The_Urantia_Book/75#p6_3)) “_a silver cloud approached them and overshadowed the four of them._” ([UB 158:1.10](/en/The_Urantia_Book/158#p1_10)) angels, Messengers, traversers of space etc. ([UB 39:3.8](/en/The_Urantia_Book/39#p3_8))
+In some historical books and writings from different cultures and in _The Urantia Book_ which was given in 1955, we can also find some clues about the activities of those beings: “_the two seraphic transports_” (<a id="a45_212"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)), “_arrival seraphic transports_” (<a id="a45_289"></a>[UB 75:6.3](/en/The_Urantia_Book/75#p6_3)) “_a silver cloud approached them and overshadowed the four of them._” (<a id="a45_403"></a>[UB 158:1.10](/en/The_Urantia_Book/158#p1_10)) angels, Messengers, traversers of space etc. (<a id="a45_496"></a>[UB 39:3.8](/en/The_Urantia_Book/39#p3_8))
 
 > **_The Urantia Book_ is not a UFO book, nor is it particularly dedicated to this topic. For that, there are already researchers and ufologists who are dedicated to this matter.**
 {.is-info}
@@ -46,7 +70,7 @@ Almost all the people, from peasants to the military and airplane pilots who hav
 
 The very Commander of the Angels and the Seraphic Hosts, Gabriel (what today we would commonly call ET), when he appeared to Mary to give her the news of the birth of Jesus, he did so in the most normal and natural way. Maria hadn't prepared herself for that encounter at all and got pretty scared, thank goodness Gabriel's reassuring words calmed her down.
 
-Another elevated being who was in this world to fulfill a mission, Melchizedek, also came in the most natural and normal way, manifesting himself for the first time to a Chaldean shepherd in ancient Salem (Palestine). “_His arrival was not spectacular, his materialization was not contemplated by human eyes. The first time a mortal man observed him was the memorable day when a Chaldean shepherd of Sumerian origin entered Amdon's tent._” ([UB 93:2.1](/en/The_Urantia_Book/93#p2_1))
+Another elevated being who was in this world to fulfill a mission, Melchizedek, also came in the most natural and normal way, manifesting himself for the first time to a Chaldean shepherd in ancient Salem (Palestine). “_His arrival was not spectacular, his materialization was not contemplated by human eyes. The first time a mortal man observed him was the memorable day when a Chaldean shepherd of Sumerian origin entered Amdon's tent._” (<a id="a72_441"></a>[UB 93:2.1](/en/The_Urantia_Book/93#p2_1))
 
 ## The future
 
@@ -74,3 +98,28 @@ In summary: the subject of “UFOs” is a rather complex subject and there are 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Carrera/Trinizando">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinitizing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-20-march-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 20 — March 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_6">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

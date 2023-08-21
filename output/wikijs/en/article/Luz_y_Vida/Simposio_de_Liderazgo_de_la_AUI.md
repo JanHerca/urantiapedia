@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Olga López, Ismael García and Mariano Pérez<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_No_somos_el_unico_planeta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and divergences: We are not the only planet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-26-september-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 26 — September 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -97,3 +118,25 @@ Mariano Pérez, head of the study groups
 
 Recently, Mariano Pérez, a reader from Madrid, has joined the board of directors of the association as head of study groups, in order to maintain and reinforce continuous contact with existing study groups and help create new groups. In our country. Welcome to the team Mariano!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_No_somos_el_unico_planeta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and divergences: We are not the only planet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-26-september-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 26 — September 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

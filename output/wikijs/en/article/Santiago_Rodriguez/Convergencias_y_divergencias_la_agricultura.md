@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Santiago Rodríguez<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/La_eterna_lucha_entre_ciencia_y_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The eternal struggle between science and religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-41-september-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 41 — September 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Maria_Jose_Sanchez">
+          <span class="pr-2">Urantia Questionnaire: Maria José Sánchez Santamaría</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Agriculture contains the set of techniques and knowledge to cultivate the land.
@@ -27,17 +51,17 @@ In the following scheme, we find the dates accepted by researchers for the begin
 
 Today it continues to be a universal activity and of capital importance in our society, although culturally we have been relegating it to the background, especially in the richest countries.
 
-_The Urantia Book_ reminds us of the capital importance of agriculture in the establishment of the human being and as a crucial evolutionary fact in social development, which is why it had an empowering element in the formation of the concept of “family”, as well as in the development of private property [[UB 69:9.14](/en/The_Urantia_Book/69#p9_14)].
+_The Urantia Book_ reminds us of the capital importance of agriculture in the establishment of the human being and as a crucial evolutionary fact in social development, which is why it had an empowering element in the formation of the concept of “family”, as well as in the development of private property <a id="a53_306"></a>[[UB 69:9.14](/en/The_Urantia_Book/69#p9_14)].
 
-The book informs us that it is an activity that occurs on all atmospheric planets, and furthermore, the cultivation of the land is the only common activity in all these worlds. [[UB 49:4.5](/en/The_Urantia_Book/49#p4_5)]
+The book informs us that it is an activity that occurs on all atmospheric planets, and furthermore, the cultivation of the land is the only common activity in all these worlds. <a id="a55_177"></a>[[UB 49:4.5](/en/The_Urantia_Book/49#p4_5)]
 
-It also warns us that it is not an activity caused by any punishment, but something inherent to the human race, typical of its evolutionary development process; in fact, the transition from hunting to grazing and agriculture is the way to measure the advancement of civilization and the achievement of human evolution. [[UB 66:7.19](/en/The_Urantia_Book/66#p7_19)]
+It also warns us that it is not an activity caused by any punishment, but something inherent to the human race, typical of its evolutionary development process; in fact, the transition from hunting to grazing and agriculture is the way to measure the advancement of civilization and the achievement of human evolution. <a id="a57_319"></a>[[UB 66:7.19](/en/The_Urantia_Book/66#p7_19)]
 
-Agriculture is an extraordinarily ennobling activity, along with industry, instilling in our habits patience, calm, and peace, although as a social activity it presents the problem that it lacks excitement and adventure. [UB 68:5.11](/en/The_Urantia_Book/68#p5_11)
+Agriculture is an extraordinarily ennobling activity, along with industry, instilling in our habits patience, calm, and peace, although as a social activity it presents the problem that it lacks excitement and adventure. <a id="a59_221"></a>[UB 68:5.11](/en/The_Urantia_Book/68#p5_11)
 
-_The Urantia Book_ also exhorts us to give it the importance and consideration it deserves, [[UB 68:5.13](/en/The_Urantia_Book/68#p5_13)] since social advancement depends on it. He even illustrates us with the examples of the American Indians, who did not come to form a state, compared to the Romans, who instead created a great empire by devoting adequate attention to agriculture and land and crop ownership [UB 71:1.3](/en/The_Urantia_Book/71#p1_3)
+_The Urantia Book_ also exhorts us to give it the importance and consideration it deserves, <a id="a61_92"></a>[[UB 68:5.13](/en/The_Urantia_Book/68#p5_13)] since social advancement depends on it. He even illustrates us with the examples of the American Indians, who did not come to form a state, compared to the Romans, who instead created a great empire by devoting adequate attention to agriculture and land and crop ownership <a id="a61_411"></a>[UB 71:1.3](/en/The_Urantia_Book/71#p1_3)
 
-_The Urantia Book_ tells us that this activity, also evolutionary, begins with the arrival of the Planetary Prince, an event that occurred on Urantia 500,000 years ago [[UB 66:0.2](/en/The_Urantia_Book/66#p0_2)], therefore prior to the rebellion of Lucifer, which tells us should help to dismiss the idea of punishment, and continued with more intensity after the arrival of Adam and Eve, almost 38,000 years ago [[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)]
+_The Urantia Book_ tells us that this activity, also evolutionary, begins with the arrival of the Planetary Prince, an event that occurred on Urantia 500,000 years ago <a id="a63_168"></a>[[UB 66:0.2](/en/The_Urantia_Book/66#p0_2)], therefore prior to the rebellion of Lucifer, which tells us should help to dismiss the idea of punishment, and continued with more intensity after the arrival of Adam and Eve, almost 38,000 years ago <a id="a63_413"></a>[[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)]
 
 So obviously, the appearance of agriculture on our planet must be much earlier than the dates currently accepted by our historians.
 
@@ -49,3 +73,28 @@ Undoubtedly we are still far from the dates established in the book, but we are 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/La_eterna_lucha_entre_ciencia_y_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The eternal struggle between science and religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-41-september-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 41 — September 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Maria_Jose_Sanchez">
+          <span class="pr-2">Urantia Questionnaire: Maria José Sánchez Santamaría</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

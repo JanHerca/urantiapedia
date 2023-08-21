@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Luis Coll<br>© 2009 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How many mortals survive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-18-september-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 18 — September 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_4">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -34,3 +58,28 @@ And that each one of us knows how to be the tool that children need to maintain 
 <img src="/image/article/Luz_y_Vida/LyV18/03.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How many mortals survive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-18-september-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 18 — September 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_4">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

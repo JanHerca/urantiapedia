@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 José A. Rodríguez Jorge<br>© 2006 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where metaphysics fails completely</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-7-december-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 7 — December 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -34,3 +55,25 @@ Don't love you?<br>
 <figcaption><em>Illustration by Irene Ruiz</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where metaphysics fails completely</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-7-december-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 7 — December 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

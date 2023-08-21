@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Ernesto Veloso<br>© 2009 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_mente_segun_la_revelacion_3a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The mind according to revelation (last part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-18-september-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 18 — September 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="pr-2">How many mortals survive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Several weeks ago, during a group meeting, a guest asked us to explain what God was. This question reminded me of the time a friend invited me to a conference where he would speak about the unmanifested. I was totally amazed for the simple reason that no one can talk about what they don't know. Wanting to say something about the non-manifest is like wanting to explain God. God is not explained, God is lived and known only through personal experience. God must be discovered every day in the small acts of life, because every minute we live is a new discovery by faith of the existence of God in our lives. The unmanifested can be the greatest and at the same time the simplest, like tomorrow or the minute that is yet to come.
@@ -21,7 +45,7 @@ The finite will never be able to know the infinite, much less contain it. From t
 
 But the unmanifested is not something that belongs only to the future, the unmanifested may be happening now. Do we understand or know how thousands of physical and mental phenomena occur? We enjoy electricity, water is a blessing, and gravity, although it can kill us at times, is essential for permanence in our world. And I ask: Who has seen a drop of water form? What really is electricity? How does God control gravity? These three things are part of our daily life, we have seen them since we were children and perhaps because they are so common we do not realize that part of those unknown attributes of God that have to do with the control of physical matter in material worlds like ours.
 
-It is good to look up and extend our gaze beyond the immensity of the future and the stars, trying to give us answers and to know what and how God is, but we forget that Our Father is so big that he does not fit in the universe and that at the same time Perhaps his presence is in the most insignificant flower that only lasts a few hours in the spring. The mystery of God surrounds us, and a Divine advisor in the UB, [UB 3:4.5](/en/The_Urantia_Book/3#p4_5) tells us: «_Although I come from the abode very close to the Deity, I cannot presume to speak with perfection of understanding regarding the infinity of many attributes Divine. Only the infinity of mind can fully comprehend the infinity of existence and the eternity of action.
+It is good to look up and extend our gaze beyond the immensity of the future and the stars, trying to give us answers and to know what and how God is, but we forget that Our Father is so big that he does not fit in the universe and that at the same time Perhaps his presence is in the most insignificant flower that only lasts a few hours in the spring. The mystery of God surrounds us, and a Divine advisor in the UB, <a id="a47_419"></a>[UB 3:4.5](/en/The_Urantia_Book/3#p4_5) tells us: «_Although I come from the abode very close to the Deity, I cannot presume to speak with perfection of understanding regarding the infinity of many attributes Divine. Only the infinity of mind can fully comprehend the infinity of existence and the eternity of action.
 
 This is said by a Divine advisor whose wisdom, knowledge and spirituality far exceeds ours. Except for the central universe of Havona, the remaining seven superuniverses are on the way to perfection. It is logical to think that, as the stage of Light and Life progresses, new attributes of the Deity will be revealed. Now, talking about what those attributes will be and in what facets of life they will be manifested is something that nobody can do, even if it is a Divine Advisor. On the other hand, if the material creation continues to expand, it means that new powers of control by the Deity will become manifest in relation to these new creations, it is obvious. But talking about these manifestations would be like describing the cars of the year 3000.
 
@@ -37,3 +61,28 @@ Modern life, with its high level of technology and science, while it has raised 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_mente_segun_la_revelacion_3a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The mind according to revelation (last part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-18-september-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 18 — September 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="pr-2">How many mortals survive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

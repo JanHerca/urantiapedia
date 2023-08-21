@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Text: Olga López. Photos: Demetrio Gómez and Paco Ruiz<br>© 2009 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Genesis_de_la_Conferencia_Internacional">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Genesis of the International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-17-may-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 17 — May 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Despite the fact that part of the attendees had already been at the hotel for a couple of days, the international conference officially began on Friday, April 17 at ten o'clock at night (a bit late by European standards, but you know it, “This is Spain”) A welcome cocktail was given, in which attendees had the opportunity to chat animatedly, meet old friends and meet new ones.
@@ -264,9 +285,31 @@ It was a nice finale to the conference. The evening ended late at night, but it 
 
 Very soon we will put on our website multimedia material related to the international conference, as well as the text of the presentations. Periodically visit our website, http://www.urantia.es
 
-> “everything in your mental life which was worth while, and which had survival value, was counterparted by the Adjuster and is retained as a part of personal memory all the way through the ascendant career. You will be conscious of all your worth-while experiences as you advance from one mansion world to another and from one section of the universe to another—even to Paradise.” ([UB 47:4.5](/en/The_Urantia_Book/47#p4_5))
+> “everything in your mental life which was worth while, and which had survival value, was counterparted by the Adjuster and is retained as a part of personal memory all the way through the ascendant career. You will be conscious of all your worth-while experiences as you advance from one mansion world to another and from one section of the universe to another—even to Paradise.” (<a id="a287_383"></a>[UB 47:4.5](/en/The_Urantia_Book/47#p4_5))
 
 ## References
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Genesis_de_la_Conferencia_Internacional">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Genesis of the International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-17-may-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 17 — May 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

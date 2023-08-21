@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2008 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mariano_Perez/Lugares_Santos_Segunda_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holy places? (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-12-february-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 12 — February 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_1a_Parte">
+          <span class="pr-2">More about how many survive (part one)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By various authors
@@ -58,7 +82,7 @@ Anyone want to make some more completely practical suggestions for this level of
 
 It is a feeling that fortunately I have almost overcome. I do what I think I should do and leave the rest to “fate.” That feeling is a trap of our mind. We think that there are things that depend exclusively on us and that we cannot fail. But things are not like that; there is a providence.
 
-I copy a quote that I think is relevant; is at [UB 39:4.13](/en/The_Urantia_Book/39#p4_13) (paper 39). It says like this: “_...it is the experience of living this life that is important. Even the work in this world, although it is essential, is not nearly as important as the way you do this work..._”. Our effective work for the creation, for the development of the Supreme, in this world and in this life is nil or almost, except for the personal growth that we are capable of doing by ourselves and in ourselves. In my opinion, this is what is expected of us, as Antonio told you.
+I copy a quote that I think is relevant; is at <a id="a84_47"></a>[UB 39:4.13](/en/The_Urantia_Book/39#p4_13) (paper 39). It says like this: “_...it is the experience of living this life that is important. Even the work in this world, although it is essential, is not nearly as important as the way you do this work..._”. Our effective work for the creation, for the development of the Supreme, in this world and in this life is nil or almost, except for the personal growth that we are capable of doing by ourselves and in ourselves. In my opinion, this is what is expected of us, as Antonio told you.
 
 The feeling you describe is the result of an over-responsible mind (and in my case, sometimes, also a bad conscience for not having done everything I should and could), something that is undoubtedly bad. Be sincere and loyal to yourself, do everything your mind and your spirit tell you... and abandon yourself in the arms of the Father. Don't get bogged down with “possibilities”; act and trust
 
@@ -75,3 +99,28 @@ Well, I tell you that when you have uncertainties, read the inevitabilities. I c
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mariano_Perez/Lugares_Santos_Segunda_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holy places? (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-12-february-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 12 — February 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_1a_Parte">
+          <span class="pr-2">More about how many survive (part one)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

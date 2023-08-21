@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Olga López<br>© 2016 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-43-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 43 — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/El_Noveno_Planeta_a_la_luz_de_El_Libro_de_Urantia">
+          <span class="pr-2">The ninth planet in light of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Front page
@@ -48,3 +69,25 @@ Olga Lopez
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-43-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 43 — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/El_Noveno_Planeta_a_la_luz_de_El_Libro_de_Urantia">
+          <span class="pr-2">The ninth planet in light of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

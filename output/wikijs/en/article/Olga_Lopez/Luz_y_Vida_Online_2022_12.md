@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="pr-2">Luz y Vida — December 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -203,7 +224,7 @@ David Carrera
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Tecnicas-transformativas.jpg" alt="My favorite paragraph - dic 2022">
 </figure>
 
-> _. . . It is the people who make a civilization; civilization does not make the people._ ([UB 76:6.4](/en/The_Urantia_Book/76#p6_4))
+> _. . . It is the people who make a civilization; civilization does not make the people._ (<a id="a226_92"></a>[UB 76:6.4](/en/The_Urantia_Book/76#p6_4))
 
 In this era of demagogy and corniness, where we are insistently hammered with the dogma that we are all equal in every way, paragraphs like this are a well-placed slap to our consciences.
 
@@ -227,12 +248,12 @@ This seems to have been the very reason that the fifth epochal revelation, _The 
 This paragraph from Paper 114 speaks, in effect, of a rather extraordinary planetary governance configuration in response to our peculiar recent history (other than rebellion, the only partial success of the four previous epochal revelations):
 
 
-> The actual administration of Urantia is indeed difficult to describe. There exists no formal government along the lines of universe organization, such as separate legislative, executive, and judicial departments. The twenty-four counselors come the nearest to being the legislative branch of the planetary government. The governor general is a provisional and advisory chief executive with the veto power resident in the Most High observer. And there are no absolutely authoritative judicial powers operative on the planet—only the conciliating commissions. ([UB 114:5.1](/en/The_Urantia_Book/114#p5_1))
+> The actual administration of Urantia is indeed difficult to describe. There exists no formal government along the lines of universe organization, such as separate legislative, executive, and judicial departments. The twenty-four counselors come the nearest to being the legislative branch of the planetary government. The governor general is a provisional and advisory chief executive with the veto power resident in the Most High observer. And there are no absolutely authoritative judicial powers operative on the planet—only the conciliating commissions. (<a id="a250_561"></a>[UB 114:5.1](/en/The_Urantia_Book/114#p5_1))
 
 The same document reminds us of the following:
 
 
-> This rather loosely organized and somewhat personally administered planetary government is more than expectedly effective because of the timesaving assistance of the archangels and their ever-ready circuit, which is so frequently utilized in planetary emergencies and administrative difficulties. Technically, the planet is still spiritually isolated in the Norlatiadek circuits, but in an emergency this handicap can now be circumvented through utilization of the archangels’ circuit. Planetary isolation is, of course, of little concern to individual mortals since the pouring out of the Spirit of Truth upon all flesh nineteen hundred years ago. ([UB 114:5.4](/en/The_Urantia_Book/114#p5_4))
+> This rather loosely organized and somewhat personally administered planetary government is more than expectedly effective because of the timesaving assistance of the archangels and their ever-ready circuit, which is so frequently utilized in planetary emergencies and administrative difficulties. Technically, the planet is still spiritually isolated in the Norlatiadek circuits, but in an emergency this handicap can now be circumvented through utilization of the archangels’ circuit. Planetary isolation is, of course, of little concern to individual mortals since the pouring out of the Spirit of Truth upon all flesh nineteen hundred years ago. (<a id="a255_652"></a>[UB 114:5.4](/en/The_Urantia_Book/114#p5_4))
 
 In addition to the wonderful service of the archangels, we have, of course, the quite effective permanent support citizen corps in the corps of loyal planetary midwayers, and finally we can take heart in the fact that our Master Son's Spirit of Truth is actively at work. along with the Holy Spirit of our Creative Daughter and our Thought Adjusters, to help our level of God consciousness continue to increase and move us forward spiritually.
 
@@ -276,3 +297,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="pr-2">Luz y Vida — December 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

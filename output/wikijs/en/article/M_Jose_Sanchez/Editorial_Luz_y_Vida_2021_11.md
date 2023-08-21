@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 María José Sánchez Santamaría<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Antonio_Moya">
+          <span class="pr-2">Urantia Questionnaire: Antonio Moya</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -23,7 +47,7 @@ The art of inner life is subtle and extensive. As _The Urantia Book_ understands
 
 The development of this precious inner life leads to something ineffable that is within us, an emptiness, something unnameable, unreachable... but that gives meaning to our lives: divinity.
 
-> “The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence.” ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
+> “The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence.” (<a id="a49_428"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
 The journey of the inner life allows us to come into contact with and unite with this center within us, which is called by Jesus of Nazareth with terms such as “kingdom within you”, “pearl”, “treasure”, “seed”, “ light”…
 
@@ -78,27 +102,27 @@ Don't you find it very interesting that these three crucial couples in our plane
 
 _The Urantia Book_ highlights:
 
-> “The family is the fundamental unit of fraternity in which parents and children learn those lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” ([UB 84:7.28](/en/The_Urantia_Book/84#p7_28))
+> “The family is the fundamental unit of fraternity in which parents and children learn those lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” (<a id="a104_226"></a>[UB 84:7.28](/en/The_Urantia_Book/84#p7_28))
 
 It is valid that we can speculate and ask ourselves: the death of Joseph, the father of Jesus of Nazareth, was it “programmed” so that our creator also served as a family man? _The Urantia Book_ reminds us that Jesus himself valued the family extraordinarily, since it was the nucleus of his message: the universal, cosmic brotherhood of the sons and daughters of the same Father.
 
-> The family occupied the very center of Jesus’ philosophy of life—here and hereafter. He based his teachings about God on the family, while he sought to correct the Jewish tendency to overhonor ancestors. He exalted family life as the highest human duty but made it plain that family relationships must not interfere with religious obligations. He called attention to the fact that the family is a temporal institution; that it does not survive death. Jesus did not hesitate to give up his family when the family ran counter to the Father’s will. He taught the new and larger brotherhood of man—the sons of God. ([UB 140:8.14](/en/The_Urantia_Book/140#p8_14))
+> The family occupied the very center of Jesus’ philosophy of life—here and hereafter. He based his teachings about God on the family, while he sought to correct the Jewish tendency to overhonor ancestors. He exalted family life as the highest human duty but made it plain that family relationships must not interfere with religious obligations. He called attention to the fact that the family is a temporal institution; that it does not survive death. Jesus did not hesitate to give up his family when the family ran counter to the Father’s will. He taught the new and larger brotherhood of man—the sons of God. (<a id="a108_614"></a>[UB 140:8.14](/en/The_Urantia_Book/140#p8_14))
 
 **2) Love is the key that unites the individuals that make up the family.**
 
 Andón and Fonta, Eva and Adán, María and José loved each other deeply and wanted to be together. Adam went to the extreme of voluntarily failing in his duty rather than spend thousands of years on Earth without his mate.
 
-> “Love is the highest motivation which man may utilize in his universe ascent. But love, divested of truth, beauty, and goodness, is only a sentiment, a philosophic distortion, a psychic illusion, a spiritual deception.” ([UB 196:3.29](/en/The_Urantia_Book/196#p3_29))
+> “Love is the highest motivation which man may utilize in his universe ascent. But love, divested of truth, beauty, and goodness, is only a sentiment, a philosophic distortion, a psychic illusion, a spiritual deception.” (<a id="a114_223"></a>[UB 196:3.29](/en/The_Urantia_Book/196#p3_29))
 
 A love that has a divine origin that transcends us and unites us to the great cosmic family of unique and incomparable beings:
 
-> The love of the Father absolutely individualizes each personality as a unique son of the Universal Father, a son without a duplicate in infinity, an irreplaceable volitional creature in all eternity. The Father's love glorifies each child of God, illuminating each member of the heavenly family, sharply outlining the unique nature of each personal being against the impersonal levels outside the fraternal circle of the Father of all. The love of God vividly portrays the transcendent value of each volitional creature, unequivocally reveals the highest value that the Universal Father has placed on each and every one of his children, from the highest creative personality of a paradisiacal state to the lowest personality of dignity. volition among the tribes of wild men at the dawn of the human species, on some evolutionary world of time and space. [UB 12:7.9](/en/The_Urantia_Book/12#p7_9)
+> The love of the Father absolutely individualizes each personality as a unique son of the Universal Father, a son without a duplicate in infinity, an irreplaceable volitional creature in all eternity. The Father's love glorifies each child of God, illuminating each member of the heavenly family, sharply outlining the unique nature of each personal being against the impersonal levels outside the fraternal circle of the Father of all. The love of God vividly portrays the transcendent value of each volitional creature, unequivocally reveals the highest value that the Universal Father has placed on each and every one of his children, from the highest creative personality of a paradisiacal state to the lowest personality of dignity. volition among the tribes of wild men at the dawn of the human species, on some evolutionary world of time and space. <a id="a118_857"></a>[UB 12:7.9](/en/The_Urantia_Book/12#p7_9)
 > 
-> God's very love for the individual creates the divine family of all individuals, the universal brotherhood of the freewill children of the Paradise Father. [UB 12:7.10](/en/The_Urantia_Book/12#p7_10)
+> God's very love for the individual creates the divine family of all individuals, the universal brotherhood of the freewill children of the Paradise Father. <a id="a120_158"></a>[UB 12:7.10](/en/The_Urantia_Book/12#p7_10)
 
 _The Urantia Book_ inspires us to create family ties, true, but knowing that the earthly family grows and expands, encompassing the universal brotherhood of all the children of God, of all the inhabitants of this immeasurable great universe:
 
-> Jesus said: “The people of another age will better understand the gospel of the kingdom when it is presented in terms expressive of the family relationship—when man understands religion as the teaching of the fatherhood of God and the brotherhood of man, sonship with God.” Then the Master discoursed at some length on the earthly family as an illustration of the heavenly family, restating the two fundamental laws of living: the first commandment of love for the father, the head of the family, and the second commandment of mutual love among the children, to love your brother as yourself. ([UB 142:7.4](/en/The_Urantia_Book/142#p7_4))
+> Jesus said: “The people of another age will better understand the gospel of the kingdom when it is presented in terms expressive of the family relationship—when man understands religion as the teaching of the fatherhood of God and the brotherhood of man, sonship with God.” Then the Master discoursed at some length on the earthly family as an illustration of the heavenly family, restating the two fundamental laws of living: the first commandment of love for the father, the head of the family, and the second commandment of mutual love among the children, to love your brother as yourself. (<a id="a124_596"></a>[UB 142:7.4](/en/The_Urantia_Book/142#p7_4))
 
 Consequently, those of us who are parents know the hard and exciting tasks and responsibilities that we must carry out with our children, but without forgetting that these are traveling companions who will grow up to have their own role in the great heavenly family, but they are not our belongings. As the poet would say: they are your children, but they are not yours.
 
@@ -135,3 +159,28 @@ The world needs these examples of families that we have highlighted above. Now i
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Antonio_Moya">
+          <span class="pr-2">Urantia Questionnaire: Antonio Moya</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

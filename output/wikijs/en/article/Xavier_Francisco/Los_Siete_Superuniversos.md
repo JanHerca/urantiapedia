@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Xavier Francisco<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_1_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 1 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="pr-2">The Trinitized Sons of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -179,3 +203,28 @@ There is a pre-established purpose in creation. The seven superuniverses will be
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_1_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 1 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="pr-2">The Trinitized Sons of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

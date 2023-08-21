@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12">
+          <span class="pr-2">Luz y Vida — December 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -247,7 +268,7 @@ Water is essential for life and it also adapts to everything. One of the funny t
 Another of the curious things about water is that it contains **hydrogen and oxygen;** oxygen is the main ingredient for fire and yet **water puts out fire.** Another of the mysteries difficult to understand.
 
 
-> Technical analysis does not reveal what a person or a thing can do. For example: Water is used effectively to extinguish fire. That water will put out fire is a fact of everyday experience, but no analysis of water could ever be made to disclose such a property. Analysis determines that water is composed of hydrogen and oxygen; a further study of these elements discloses that oxygen is the real supporter of combustion and that hydrogen will itself freely burn. ([UB 12:9.4](/en/The_Urantia_Book/12#p9_4))
+> Technical analysis does not reveal what a person or a thing can do. For example: Water is used effectively to extinguish fire. That water will put out fire is a fact of everyday experience, but no analysis of water could ever be made to disclose such a property. Analysis determines that water is composed of hydrogen and oxygen; a further study of these elements discloses that oxygen is the real supporter of combustion and that hydrogen will itself freely burn. (<a id="a270_468"></a>[UB 12:9.4](/en/The_Urantia_Book/12#p9_4))
 
 [Read more](/en/article/Luis_Coll/Los_secretos_del_agua)
 
@@ -291,3 +312,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12">
+          <span class="pr-2">Luz y Vida — December 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

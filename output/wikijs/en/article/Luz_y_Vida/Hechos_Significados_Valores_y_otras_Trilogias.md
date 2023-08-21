@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Carmelo Martínez, Santiago Rodríguez, Antonio Moya, L. Coll<br>© 2011 Urantia Association of Spain</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When does the Thought Adjuster work?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-27-december-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 27 — December 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="pr-2">Neither secularism nor religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants:**
@@ -22,7 +46,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Regarding these trilogies I have found another interesting paragraph that can help to clarify the concepts; is 196:3.2. Says so:
 
-> “_There are just three elements in universal reality: fact, idea, and relation. The religious consciousness identifies these realities as science, philosophy, and truth. Philosophy would be inclined to view these activities as reason, wisdom, and faith—physical reality, intellectual reality, and spiritual reality. We are in the habit of designating these realities as thing, meaning, and value._” ([UB 196:3.2](/en/The_Urantia_Book/196#p3_2))
+> “_There are just three elements in universal reality: fact, idea, and relation. The religious consciousness identifies these realities as science, philosophy, and truth. Philosophy would be inclined to view these activities as reason, wisdom, and faith—physical reality, intellectual reality, and spiritual reality. We are in the habit of designating these realities as thing, meaning, and value._” (<a id="a48_402"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2))
 
 I admit that I am not very clear about it, but I am going to propose, even so, some examples to open the debate. I'm not sure but maybe it is:
 
@@ -126,7 +150,7 @@ The material, the mental and the spiritual. Surely a few more could be added.
 
 And this paragraph in between is very illuminating:
 
-> **There are just <ins>three</ins> elements in universal reality**: fact, idea, and relation. The religious consciousness identifies these realities as science, philosophy, and truth. Philosophy would be inclined to view these activities as reason, wisdom, and faith—physical reality, intellectual reality, and spiritual reality. We are in the habit of designating these realities as thing, meaning, and value. ([UB 196:3.2](/en/The_Urantia_Book/196#p3_2))
+> **There are just <ins>three</ins> elements in universal reality**: fact, idea, and relation. The religious consciousness identifies these realities as science, philosophy, and truth. Philosophy would be inclined to view these activities as reason, wisdom, and faith—physical reality, intellectual reality, and spiritual reality. We are in the habit of designating these realities as thing, meaning, and value. (<a id="a152_413"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2))
 
 On one side are things (Paradise) and on the opposite side are values (the Eternal Son). The meanings (the Infinite Spirit) try to relate things to values and/or vice versa.
 
@@ -138,11 +162,11 @@ When God thus unifies a part of Manifested Reality (and excludes Paradise), He m
 
 When we talk about truth, beauty and goodness, these paragraphs from the book catch my attention:
 
-> _Truth is best known for its spiritual flavor._ [UB 2:7.6](/en/The_Urantia_Book/2#p7_6)
+> _Truth is best known for its spiritual flavor._ <a id="a164_50"></a>[UB 2:7.6](/en/The_Urantia_Book/2#p7_6)
 > 
-> _All truth-material, philosophical or spiritual at the same time beautiful and good. All authentic beauty-material art or spiritual symmetry-is both true and good. All genuine goodness—whether it be personal morality, social equity, or divine ministry—is equally true and beautiful._ [UB 2:7.11](/en/The_Urantia_Book/2#p7_11)
+> _All truth-material, philosophical or spiritual at the same time beautiful and good. All authentic beauty-material art or spiritual symmetry-is both true and good. All genuine goodness—whether it be personal morality, social equity, or divine ministry—is equally true and beautiful._ <a id="a166_286"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11)
 
-> _Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love._ ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> _Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love._ (<a id="a168_210"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 
 
@@ -174,9 +198,34 @@ In case it helps at all, here is this text from Document 102, section 3:
 
 > _En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios._ 
 > 
-> _Science is only satisfied with first causes, religion with supreme personality, and philosophy with unity. Revelation affirms that these three are one, and that all are good. The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real._ <a id="a199_414"></a>[UB 102:3.5-15](/en/The_Urantia_Book/102#p3_5)
+> _Science is only satisfied with first causes, religion with supreme personality, and philosophy with unity. Revelation affirms that these three are one, and that all are good. The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real._ <a id="a200_386"></a>[UB 102:3.5-15](/en/The_Urantia_Book/102#p3_5)
 
 ## References
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When does the Thought Adjuster work?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-27-december-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 27 — December 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="pr-2">Neither secularism nor religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

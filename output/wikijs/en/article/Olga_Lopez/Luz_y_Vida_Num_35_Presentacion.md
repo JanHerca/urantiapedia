@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Olga López<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_2a_parte">
+          <span class="pr-2">Urantia - 606 from Satania (second part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Front page
@@ -50,3 +71,25 @@ Olga Lopez.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_2a_parte">
+          <span class="pr-2">Urantia - 606 from Satania (second part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

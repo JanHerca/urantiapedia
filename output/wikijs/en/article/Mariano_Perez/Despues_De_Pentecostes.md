@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Mariano Pérez<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Being</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/La_Fe_De_Jesus">
+          <span class="pr-2">Faith of jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introduction by Mariano Perez
@@ -121,3 +145,28 @@ The Book was revealed to us to prepare the ground for a future age. That is why 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Being</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/La_Fe_De_Jesus">
+          <span class="pr-2">Faith of jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

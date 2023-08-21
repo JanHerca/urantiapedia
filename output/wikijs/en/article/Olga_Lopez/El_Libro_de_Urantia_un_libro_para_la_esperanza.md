@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Olga López<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Agora">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-22-august-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 22 — August 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="pr-2">The true sun (poem)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -24,23 +48,23 @@ First of all, it must be made clear that _The Urantia Book_ is not a book of pro
 
 <br style="clear:both;"/>
 
-> “_Sooner or later another and greater John the Baptist is due to arise proclaiming “the kingdom of God is at hand”—meaning a return to the high spiritual concept of Jesus, who proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer—and doing all this without in any way referring either to the visible church on earth or to the anticipated second coming of Christ._” ([UB 170:5.19](/en/The_Urantia_Book/170#p5_19))
+> “_Sooner or later another and greater John the Baptist is due to arise proclaiming “the kingdom of God is at hand”—meaning a return to the high spiritual concept of Jesus, who proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer—and doing all this without in any way referring either to the visible church on earth or to the anticipated second coming of Christ._” (<a id="a50_432"></a>[UB 170:5.19](/en/The_Urantia_Book/170#p5_19))
 
-> “_. . . some day a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. One such human being could forever change the course of a whole nation, even the entire civilized world. . . ._” ([UB 44:1.15](/en/The_Urantia_Book/44#p1_15))
+> “_. . . some day a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. One such human being could forever change the course of a whole nation, even the entire civilized world. . . ._” (<a id="a52_253"></a>[UB 44:1.15](/en/The_Urantia_Book/44#p1_15))
 
 Specifically, the first quote, which refers to the future coming of “another John the Baptist”, has made many readers wonder when it will occur, and if that moment is close in time (in fact, there is a movement that affirms that John the Baptist has been reincarnated here and lives right now on our planet - add information about it) It is also intriguing that this person (who is yet to appear) is compared to John the Baptist; we all know that John the Baptist was the announcer of Jesus of Nazareth, our Creator Son no less. But this paragraph of the UB tells us that this religious leader will not allude to the second coming of Christ. Is it perhaps referring to the arrival of another teacher son, as foreseen in the planetary stages of mortals?
 
-> “_. . . Urantia is not proceeding in the normal order. Your world is out of step in the planetary procession. . . .”_” ([UB 52:6.1](/en/The_Urantia_Book/52#p6_1))
+> “_. . . Urantia is not proceeding in the normal order. Your world is out of step in the planetary procession. . . .”_” (<a id="a56_122"></a>[UB 52:6.1](/en/The_Urantia_Book/52#p6_1))
 
-> “. . . Again we find Urantia out of step with its sister spheres in that your Jesus has promised to return. That promise he will certainly fulfill, but no one knows whether his second coming will precede or follow the appearances of Magisterial or Teacher Sons on Urantia.” ([UB 52:7.1](/en/The_Urantia_Book/52#p7_1))
+> “. . . Again we find Urantia out of step with its sister spheres in that your Jesus has promised to return. That promise he will certainly fulfill, but no one knows whether his second coming will precede or follow the appearances of Magisterial or Teacher Sons on Urantia.” (<a id="a58_277"></a>[UB 52:7.1](/en/The_Urantia_Book/52#p7_1))
 
 Since we live on an atypical planet that doesn't seem to quite follow these stages, anything could be possible. Many conjectures have been made regarding this subject, which have caused rivers of ink to flow among the readers of the book.
 
 One of the things that I like the most about what is said in the book, but which I also admit is unappealing to the vast majority of people, is the emphasis placed on evolution as the most effective process of change, in place of radical and abrupt changes. It is true that, for example, in the case of the evolution of species, “sudden” changes occur, but these are perfectly natural and are somehow “written” in the genetic material of living beings. The book advocates slow but effective change.
 
-However, it is true that in the history of our planet we find certain “outbreaks” that cannot be explained as part of the gradual evolution of civilizations. How to explain, for example, the rise of religious leaders and philosophers of the sixth century B.C. C.? This is what _The Urantia Book_ says of that moment in our history, one of the “_seven major religious epochs of post-Adamic Urantia_” [UB 92:5.8](/en/The_Urantia_Book/92#p5_8) :
+However, it is true that in the history of our planet we find certain “outbreaks” that cannot be explained as part of the gradual evolution of civilizations. How to explain, for example, the rise of religious leaders and philosophers of the sixth century B.C. C.? This is what _The Urantia Book_ says of that moment in our history, one of the “_seven major religious epochs of post-Adamic Urantia_” <a id="a64_399"></a>[UB 92:5.8](/en/The_Urantia_Book/92#p5_8) :
 
-> “_. . . Many men arose to proclaim truth in this, one of the greatest centuries of religious awakening ever witnessed on Urantia. Among these should be recorded Gautama, Confucius, Lao-tse, Zoroaster, and the Jainist teachers. . . ._” ([UB 92:5.12](/en/The_Urantia_Book/92#p5_12))
+> “_. . . Many men arose to proclaim truth in this, one of the greatest centuries of religious awakening ever witnessed on Urantia. Among these should be recorded Gautama, Confucius, Lao-tse, Zoroaster, and the Jainist teachers. . . ._” (<a id="a66_238"></a>[UB 92:5.12](/en/The_Urantia_Book/92#p5_12))
 
 There was another remarkable “eclosion”, this time in the field of science, which we could place in the 17th century. One only has to remember the great scientific development that occurred in Old Europe thanks to great scientists like Newton, Descartes, Leibniz, Pascal, Bacon, etc., who managed to make science walk independently from religion, and that he would detach himself in this way from his suffocating tutelage. We can also highlight the so-called Industrial Revolution, which began at the end of the 18th century and which revealed itself as a time that brought spectacular changes to Western civilization, which gradually dragged other peoples down.
 
@@ -48,13 +72,13 @@ And, already in our time, what about the Internet? The Internet emerged at the e
 
 All this does not seem to be the result of chance, of the fortuitous concurrence of a series of circumstances. Then, at this point, we could ask ourselves if these more or less sudden changes are due to the action of the celestial beings who supervise our planet. _The Urantia Book_ speaks of the existence of ten seraphic bodies that watch over the progress of our planet. In document 114, “The planetary government of the seraphim”, these bodies are alluded to, of which I would like to highlight these four:
 
-> “_2. *The progress angels.* These seraphim are intrusted with the task of initiating the evolutionary progress of the successive social ages. They foster the development of the inherent progressive trend of evolutionary creatures; they labor incessantly to make things what they ought to be. . . ._” ([UB 114:6.6](/en/The_Urantia_Book/114#p6_6))
+> “_2. *The progress angels.* These seraphim are intrusted with the task of initiating the evolutionary progress of the successive social ages. They foster the development of the inherent progressive trend of evolutionary creatures; they labor incessantly to make things what they ought to be. . . ._” (<a id="a74_303"></a>[UB 114:6.6](/en/The_Urantia_Book/114#p6_6))
 
-> “_3. *The religious guardians.* These are the “angels of the churches,” the earnest contenders for that which is and has been. They endeavor to maintain the ideals of that which has survived for the sake of the safe transit of moral values from one epoch to another. . . ._” ([UB 114:6.7](/en/The_Urantia_Book/114#p6_7))
+> “_3. *The religious guardians.* These are the “angels of the churches,” the earnest contenders for that which is and has been. They endeavor to maintain the ideals of that which has survived for the sake of the safe transit of moral values from one epoch to another. . . ._” (<a id="a76_278"></a>[UB 114:6.7](/en/The_Urantia_Book/114#p6_7))
 
-> “_6. *The angels of the future.* These are the projection angels, who forecast a future age and plan for the realization of the better things of a new and advancing dispensation; they are the architects of the successive eras. . . ._” ([UB 114:6.10](/en/The_Urantia_Book/114#p6_10))
+> “_6. *The angels of the future.* These are the projection angels, who forecast a future age and plan for the realization of the better things of a new and advancing dispensation; they are the architects of the successive eras. . . ._” (<a id="a78_238"></a>[UB 114:6.10](/en/The_Urantia_Book/114#p6_10))
 
-> “_10. *The angels of industry.* This seraphic group is concerned with fostering industrial development and improving economic conditions among the Urantia peoples. This corps has been seven times changed since the bestowal of Michael._” ([UB 114:6.14](/en/The_Urantia_Book/114#p6_14))
+> “_10. *The angels of industry.* This seraphic group is concerned with fostering industrial development and improving economic conditions among the Urantia peoples. This corps has been seven times changed since the bestowal of Michael._” (<a id="a80_240"></a>[UB 114:6.14](/en/The_Urantia_Book/114#p6_14))
 
 If we stop to reflect a little on these seraphic bodies and their work on Urantia, it is hard to believe that the social, intellectual and spiritual evolution of humanity is something random and chaotic. Although free will is sacred to our celestial partners, we are not alone: they can and do help us.
 
@@ -62,7 +86,7 @@ Considering the aid we receive from the superhuman government of our planet, and
 
 In this regard, there is a really revealing paragraph in _The Urantia Book_, in which it is indicated that a Creator Son reserves the right to directly influence the world in which he donated himself as a mortal:
 
-> _. . . A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets. And such Sons do make and carry out the plans of their own choosing in all matters of special planetary needs, in particular regarding the worlds of their creature sojourn and still more concerning the realm of terminal bestowal, the planet of incarnation in the likeness of mortal flesh._ ([UB 21:5.9](/en/The_Urantia_Book/21#p5_9))
+> _. . . A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets. And such Sons do make and carry out the plans of their own choosing in all matters of special planetary needs, in particular regarding the worlds of their creature sojourn and still more concerning the realm of terminal bestowal, the planet of incarnation in the likeness of mortal flesh._ (<a id="a88_424"></a>[UB 21:5.9](/en/The_Urantia_Book/21#p5_9))
 
 So, it follows, if the same Creator Son of our local universe has a special “love” for the planet of his final bestowal, I don't think our humanity will be allowed to go all the way in the self-destructive spiral that many insist on seeing in the current situation.
 
@@ -79,7 +103,7 @@ As for the second group (catastrophes that do not depend on us), I am quite skep
 
 In addition, there is a well-known paragraph among the readers of _The Urantia Book_ that, in my opinion, is a true balm against any concern caused by the hypothetical catastrophes that humanity could suffer:
 
-> “_If some physical catastrophe should doom the planetary residence of an evolving race, the Melchizedeks and the Life Carriers would install the technique of dematerialization for all survivors, and by seraphic transport these beings would be carried away to the new world prepared for their continuing existence. The evolution of a human race, once initiated on a world of space, must proceed quite independently of the physical survival of that planet, . . ._” ([UB 51:2.3](/en/The_Urantia_Book/51#p2_3))
+> “_If some physical catastrophe should doom the planetary residence of an evolving race, the Melchizedeks and the Life Carriers would install the technique of dematerialization for all survivors, and by seraphic transport these beings would be carried away to the new world prepared for their continuing existence. The evolution of a human race, once initiated on a world of space, must proceed quite independently of the physical survival of that planet, . . ._” (<a id="a105_466"></a>[UB 51:2.3](/en/The_Urantia_Book/51#p2_3))
 
 So why worry? If a threat jeopardized the continuity of humanity living on Earth, we would be transferred to another planet to continue our evolution. End of problem. Still, I find it hard to believe that our Creator Son would let Urantia be destroyed, even though its inhabitants might be moved to another planet. It gives me that, if only out of pure sentimentality, I would not allow that to happen.
 
@@ -87,3 +111,28 @@ So why worry? If a threat jeopardized the continuity of humanity living on Earth
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Agora">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-22-august-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 22 — August 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="pr-2">The true sun (poem)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

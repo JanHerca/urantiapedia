@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Ginés Avilés and José Manuel Duarte<br>© 2016 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The ascension race from a bird's eye view</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-44-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 44 — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="pr-2">The survival of the personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Internal Aid
@@ -36,10 +60,10 @@ Adoration is understood as a kind of exalted admiration and can be referred to b
 > **Worship**
 > 
 > DEFINITIONS:
-> - To adore = Admire, place in high esteem or degree some divine value/-is of God or Jesus [UB 143:7.3](/en/The_Urantia_Book/143#p7_3) [UB 143:7.7](/en/The_Urantia_Book/143#p7_7) [UB 143:7.8](/en/The_Urantia_Book/143#p7_8)
-> - Natural and spontaneous reaction to the recognition of the Father's personality and his nature of love and his attributes worthy of veneration. [UB 5:3.3](/en/The_Urantia_Book/5#p3_3)
-> - Pursue divine values and love the Giver of those Values [UB 16:8.14](/en/The_Urantia_Book/16#p8_14)
-> - Contemplation of the spiritual [UB 143:7.3](/en/The_Urantia_Book/143#p7_3)
+> - To adore = Admire, place in high esteem or degree some divine value/-is of God or Jesus <a id="a62_92"></a>[UB 143:7.3](/en/The_Urantia_Book/143#p7_3) <a id="a62_136"></a>[UB 143:7.7](/en/The_Urantia_Book/143#p7_7) <a id="a62_180"></a>[UB 143:7.8](/en/The_Urantia_Book/143#p7_8)
+> - Natural and spontaneous reaction to the recognition of the Father's personality and his nature of love and his attributes worthy of veneration. <a id="a63_148"></a>[UB 5:3.3](/en/The_Urantia_Book/5#p3_3)
+> - Pursue divine values and love the Giver of those Values <a id="a64_60"></a>[UB 16:8.14](/en/The_Urantia_Book/16#p8_14)
+> - Contemplation of the spiritual <a id="a65_35"></a>[UB 143:7.3](/en/The_Urantia_Book/143#p7_3)
 {.is-info}
 
 This technique makes possible the religion of the spirit that Jesus teaches us, where the important thing is to be as opposed to the traditional religion or of the mind where, regardless of how one is, the important thing is to do. Intellectual dynamism in the face of intellectual settlement, the chains to which Jesus referred.
@@ -48,7 +72,7 @@ This technique makes possible the religion of the spirit that Jesus teaches us, 
 > 
 > what happens when we adore?
 > 
-> - When we adore we value one or several divine characteristics and this naturally induces us, consciously or unconsciously, to transform ourselves as people closer to that ideal, to identify ourselves with it. [UB 143:7.5](/en/The_Urantia_Book/143#p7_5); [UB 143:7.6](/en/The_Urantia_Book/143#p7_6); [UB 92:0.4](/en/The_Urantia_Book/92#p0_4); %%3. 4. 5%%; [UB 91:5.1](/en/The_Urantia_Book/91#p5_1); [UB 196:3.22](/en/The_Urantia_Book/196#p3_22); [UB 102:4.5](/en/The_Urantia_Book/102#p4_5); [UB 146:2.17](/en/The_Urantia_Book/146#p2_17) Jesus taught that worship makes the worshiper more and more similar to the being who worships (FAITH??)
+> - When we adore we value one or several divine characteristics and this naturally induces us, consciously or unconsciously, to transform ourselves as people closer to that ideal, to identify ourselves with it. <a id="a74_212"></a>[UB 143:7.5](/en/The_Urantia_Book/143#p7_5); <a id="a74_257"></a>[UB 143:7.6](/en/The_Urantia_Book/143#p7_6); <a id="a74_302"></a>[UB 92:0.4](/en/The_Urantia_Book/92#p0_4); %%3. 4. 5%%; <a id="a74_358"></a>[UB 91:5.1](/en/The_Urantia_Book/91#p5_1); <a id="a74_401"></a>[UB 196:3.22](/en/The_Urantia_Book/196#p3_22); <a id="a74_448"></a>[UB 102:4.5](/en/The_Urantia_Book/102#p4_5); <a id="a74_493"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17) Jesus taught that worship makes the worshiper more and more similar to the being who worships (FAITH??)
 > - Distinctive capacity regarding animals, of being a runner of the
 > - Avoid evil prevent sin + Saving action from the dangers of materialism
 {.is-info}
@@ -60,10 +84,10 @@ This technique makes possible the religion of the spirit that Jesus teaches us, 
 >
 >
 > - Free will: nothing prevents us from worshiping and fulfilling divine ideals in some way
-> - Starting point before worship: relaxation + any other contact with spirit <a id="a85_88"></a>[UB 103:4.1](/en/The_Urantia_Book/103#p4_1); <a id="a85_133"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)
-> - Iniquity cuts off this and other forms of spirit contact <a id="a86_71"></a>[UB 146:2.2](/en/The_Urantia_Book/146#p2_2)
-> - The more and better we know Him, the more quality worship has <a id="a87_73"></a>[UB 27:7.1](/en/The_Urantia_Book/27#p7_1); <a id="a87_116"></a>[UB 144:3.23](/en/The_Urantia_Book/144#p3_23)
->-Broad View: We worship God when we do His Will <a id="a88_62"> </a> [UB 131:5.3] (/en/The_Urantia_Book/131#p5_3); <a id="a88_107"></a>[UB 131:10.5](/en/The_Urantia_Book/131#p10_5)
+> - Starting point before worship: relaxation + any other contact with spirit <a id="a86_78"></a>[UB 103:4.1](/en/The_Urantia_Book/103#p4_1); <a id="a86_123"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)
+> - Iniquity cuts off this and other forms of spirit contact <a id="a87_61"></a>[UB 146:2.2](/en/The_Urantia_Book/146#p2_2)
+> - The more and better we know Him, the more quality worship has <a id="a88_66"></a>[UB 27:7.1](/en/The_Urantia_Book/27#p7_1); <a id="a88_109"></a>[UB 144:3.23](/en/The_Urantia_Book/144#p3_23)
+>-Broad View: We worship God when we do His Will <a id="a88_62"> </a> [UB 131:5.3] (/en/The_Urantia_Book/131#p5_3); <a id="a89_116"></a>[UB 131:10.5](/en/The_Urantia_Book/131#p10_5)
 {.is-info}
 
 There are other forms of contact with the spirit in the mind related to worship. First, the prayer of thanksgiving is presented as the ideal prayer or another form of worship, equating it with it. And finally, we have the adoring reflective meditation.
@@ -78,23 +102,23 @@ Here are some quotes from where the ideas have been obtained, as well as searche
 
 > **Thanksgiving Prayer**
 > 
-> - The prayer of thanksgiving is equal to worship. [UB 131:1.8](/en/The_Urantia_Book/131#p1_8)
-> - Adoration is the ideal prayer. [UB 144:2.2](/en/The_Urantia_Book/144#p2_2)
+> - The prayer of thanksgiving is equal to worship. <a id="a104_52"></a>[UB 131:1.8](/en/The_Urantia_Book/131#p1_8)
+> - Adoration is the ideal prayer. <a id="a105_35"></a>[UB 144:2.2](/en/The_Urantia_Book/144#p2_2)
 {.is-info}
 
 > **Worshipping Reflective Meditation**
 >
 > - We need a normal body and reasonably good health
 > - Rest or relaxation (determines the capacity for spiritual receptivity)
-> - Better alone <a id="a111_19"></a>[UB 160:1.10](/en/The_Urantia_Book/160#p1_10) <a id="a111_65"></a>[UB 160:3.1 ](/en/The_Urantia_Book/160#p3_1)
+> - Better alone <a id="a112_17"></a>[UB 160:1.10](/en/The_Urantia_Book/160#p1_10) <a id="a112_63"></a>[UB 160:3.1 ](/en/The_Urantia_Book/160#p3_1)
 > - Meditation puts mind in contact with spirit. (Feeling of intimate contact and peace of mind)
 > - Direction or Objective
 > - Reflexive Meditation=solitary survey of the problems of living
 > - Reflexive Meditation and beyond Adorative. In my opinion resolve conflicts on the basis of worshiping (=realizing) God or the characteristics that define him (divine values = attractions that awaken the dormant spiritual forces of man)
-> - Make it a habit of spiritual growth (along with religious devotion) <a id="a116_83"></a>[UB 100:1.8](/en/The_Urantia_Book/100#p1_8)
+> - Make it a habit of spiritual growth (along with religious devotion) <a id="a117_72"></a>[UB 100:1.8](/en/The_Urantia_Book/100#p1_8)
 {.is-info}
 
-In conclusion, the general objective of the presentation was to highlight some guides that the book gives us and that help us to grow and advance in the ascending career, our authentic mission and spiritual objective in eternity. But warning to navigators: _There can be no peace in the heart or progress in the mind, unless you fall in love wholeheartedly with the truth, with the ideals of eternal realities_ ([UB 157:2.2](/en/The_Urantia_Book/157#p2_2)). The love of the Truth is the energy that leads us to the Father. Do we love the Truth enough to carry out this gratifying but tortuous path?
+In conclusion, the general objective of the presentation was to highlight some guides that the book gives us and that help us to grow and advance in the ascending career, our authentic mission and spiritual objective in eternity. But warning to navigators: _There can be no peace in the heart or progress in the mind, unless you fall in love wholeheartedly with the truth, with the ideals of eternal realities_ (<a id="a120_412"></a>[UB 157:2.2](/en/The_Urantia_Book/157#p2_2)). The love of the Truth is the energy that leads us to the Father. Do we love the Truth enough to carry out this gratifying but tortuous path?
 
 ## Physical and Material Aids
 
@@ -263,3 +287,28 @@ Uversa, the seat of Orvonton, our superuniverse, is directly surrounded by the s
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The ascension race from a bird's eye view</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-44-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 44 — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="pr-2">The survival of the personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

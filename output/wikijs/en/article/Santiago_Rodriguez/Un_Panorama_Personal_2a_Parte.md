@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Santiago Rodríguez<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_3_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 3 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-3-december-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 3 — December 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Los_Sustitutos">
+          <span class="pr-2">The substitutes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -125,3 +149,28 @@ Let us not forget that “**YOU HAVE TO KNOW HUMAN THINGS TO BE ABLE TO LOVE THE
 - [A Personal Overview, Part Three](/en/article/Santiago_Rodriguez/Un_Panorama_Personal_3a_Parte)
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_3_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 3 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-3-december-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 3 — December 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Los_Sustitutos">
+          <span class="pr-2">The substitutes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

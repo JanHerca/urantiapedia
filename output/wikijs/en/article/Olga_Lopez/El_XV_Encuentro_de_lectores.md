@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Olga López<br>© 2016 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_44_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 44 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-44-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 44 — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="pr-2">The ascension race from a bird's eye view</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The XV Readers' Meeting began on the afternoon of Thursday, April 28, at the Conde Duque de Bilbao hotel, located next to the Nervión estuary and a few meters from the Guggenheim Museum. It must be said that Bilbao was chosen practically unanimously in the previous meeting, which was held just a year earlier in Cartagena. And of course, the board responded to this widespread request. The north of Spain had always been somewhat left out of the celebration of the Meetings, so it was time to make up for that absence.
@@ -94,3 +118,28 @@ After the meal came the saddest part, which is the farewells, although we all re
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_44_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 44 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-44-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 44 — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="pr-2">The ascension race from a bird's eye view</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

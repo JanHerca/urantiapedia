@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Olga López<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_25_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 25 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jordi_Cantos/Melodias_para_el_alma">
+          <span class="pr-2">Melodies for the soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Our X Meeting of readers officially began at 7 pm on Thursday, May 5. In total we met about 24 people from Seville, Malaga, Alicante, Valencia, Vizcaya, Burgos, Tarragona, Gerona and Barcelona. In our first session, we delivered the material that was going to be used in the Meeting, and we explained what the mechanics of the workshops would be. After dinner, and as a complementary activity, we watched one of the episodes of the J.J. Benitez “Enchanted Planet” by
@@ -51,7 +75,7 @@ And, to finish, we include here the last paragraph of the last document studied,
 <img src="/image/article/Luz_y_Vida/LyV25/03.jpg">
 </figure>
 
-> _Now, rather, are the sons of God enlisted together in fighting the battle of reality’s triumph over the partial shadows of existence. At last all creatures become conscious of the fact that God and all the divine hosts of a well-nigh limitless universe are on their side in the supernal struggle to attain eternity of life and divinity of status. Such faith-liberated sons have certainly enlisted in the struggles of time on the side of the supreme forces and divine personalities of eternity; even the stars in their courses are now doing battle for them; at last they gaze upon the universe from within, from God’s viewpoint, and all is transformed from the uncertainties of material isolation to the sureties of eternal spiritual progression. Even time itself becomes but the shadow of eternity cast by Paradise realities upon the moving panoply of space._ ([UB 101:10.9](/en/The_Urantia_Book/101#p10_9))
+> _Now, rather, are the sons of God enlisted together in fighting the battle of reality’s triumph over the partial shadows of existence. At last all creatures become conscious of the fact that God and all the divine hosts of a well-nigh limitless universe are on their side in the supernal struggle to attain eternity of life and divinity of status. Such faith-liberated sons have certainly enlisted in the struggles of time on the side of the supreme forces and divine personalities of eternity; even the stars in their courses are now doing battle for them; at last they gaze upon the universe from within, from God’s viewpoint, and all is transformed from the uncertainties of material isolation to the sureties of eternal spiritual progression. Even time itself becomes but the shadow of eternity cast by Paradise realities upon the moving panoply of space._ (<a id="a77_864"></a>[UB 101:10.9](/en/The_Urantia_Book/101#p10_9))
 
 ## PHOTOS
 
@@ -65,3 +89,28 @@ X Meeting of readers of _The Urantia Book_
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_25_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 25 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jordi_Cantos/Melodias_para_el_alma">
+          <span class="pr-2">Melodies for the soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

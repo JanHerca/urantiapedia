@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Georges Michelson-Dupont<br>© 2005 Olga López, from translation<br>© 2005 Urantia Association of Spain </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/El_Centro_De_Atencion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The center of attention</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-2-september-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 2 — September 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_1a_Parte">
+          <span class="pr-2">Meeting of May 14, 1999 in Dakar (Senegal), first part</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -30,11 +54,11 @@ Jesus was interested in the individual and his teaching was directed to him. A r
 
 Moussa's technique is universal: it is that of Jesus. This can be adapted for each one of us depending on the circumstances, religious, social and cultural realities, but it invariably involves two phases: first, the intelligent, loving and non-invasive preparation of the human mind to receive the truths contained in these teachings; and second, its subsequent presentation. The Inner Adjuster, the Spirit of Truth and the associated angels will do the rest.
 
-> “_. . . But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God-consciousness._” ([UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
+> “_. . . But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God-consciousness._” (<a id="a56_579"></a>[UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
 
 We have been given this test on the condition that it is presented intelligently, with respect and love; The teachings of this book can be accepted by any religion, anywhere in the world, and free souls in darkness, captives of the slavery of traditions and beliefs.
 
-> Jesus laid great emphasis upon what he called the two truths of first import in the teachings of the kingdom, and they are: the attainment of salvation by faith, and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth, “You shall know the truth, and the truth shall make you free.” ([UB 141:7.6](/en/The_Urantia_Book/141#p7_6))
+> Jesus laid great emphasis upon what he called the two truths of first import in the teachings of the kingdom, and they are: the attainment of salvation by faith, and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth, “You shall know the truth, and the truth shall make you free.” (<a id="a60_365"></a>[UB 141:7.6](/en/The_Urantia_Book/141#p7_6))
 
 When I asked Fatou, a student at Moussa, what _The Urantia Book_ had given her, she replied: “It has made me a better Muslim.”
 
@@ -45,3 +69,28 @@ I invite you to meditate on this answer.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/El_Centro_De_Atencion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The center of attention</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-2-september-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 2 — September 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_1a_Parte">
+          <span class="pr-2">Meeting of May 14, 1999 in Dakar (Senegal), first part</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

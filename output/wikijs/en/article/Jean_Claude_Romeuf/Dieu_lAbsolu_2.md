@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Olga López, for translation<br>© 2006 Urantia Association of Spain </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton and the Milky Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-6-september-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 6 — September 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Mas_Alla_de_las_Matematicas">
+          <span class="pr-2">Beyond Mathematics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 We have chosen to speak of God the Absolute, since the relative comprehension that we can reach refers to the most difficult mental concepts of the _Urantia Book_. We are aware that the human mind is limited and finite, but isn't it our evolutionary goal to reach the upper limits of perfection? Is it not this same goal that we have set for ourselves that allows us to experience and actualize our potential and imperfect divinity in the Supreme?
@@ -70,3 +94,28 @@ Published in no. 34 of the AFFUB bulletin “Le Lien Urantien”. Translation by
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton and the Milky Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-6-september-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 6 — September 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Mas_Alla_de_las_Matematicas">
+          <span class="pr-2">Beyond Mathematics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

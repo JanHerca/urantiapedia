@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Doris Calmel<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_39_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 39 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-39-march-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 39 — March 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/Homenaje_a_David_Zebedeo">
+          <span class="pr-2">Tribute to David Zebedee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Presentation given at the Urantia Book European Readers Conference held in Berlin, Germany in August 2014)
 
-> _True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations._ ([UB 92:7.15](/en/The_Urantia_Book/92#p7_15))
+> _True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations._ (<a id="a39_134"></a>[UB 92:7.15](/en/The_Urantia_Book/92#p7_15))
 
 Reading _The Urantia Book_ allows man to find his essence, live it and transmit it. As?
 
@@ -31,13 +55,13 @@ It is above all the contribution received through these psychoanalysis sessions 
 
 Everything fit in order to be able to study in the company of various people, including philosophers and psychologists, all for years. We have reflected on the indications of _The Urantia Book_ about the human being and, above all, about its concordance in our lives.
 
-Already in [UB 0:5.11](/en/The_Urantia_Book/0#p5_11), in the Prologue of the book, we have this magnificent phrase:
+Already in <a id="a57_11"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11), in the Prologue of the book, we have this magnificent phrase:
 
-> _The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul._ ([UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
+> _The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul._ (<a id="a59_206"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
 
 Which means:
 
-> _The love of the Father absolutely individualizes each personality as a unique child of the Universal Father, a child without duplicate in infinity, a will creature irreplaceable in all eternity._ ([UB 12:7.9](/en/The_Urantia_Book/12#p7_9))
+> _The love of the Father absolutely individualizes each personality as a unique child of the Universal Father, a child without duplicate in infinity, a will creature irreplaceable in all eternity._ (<a id="a63_200"></a>[UB 12:7.9](/en/The_Urantia_Book/12#p7_9))
 
 The importance of the beginning of the sentence appeared before me especially during psychoanalysis sessions that included the conception of the human being. Analysis performed during those sessions was linked to his cellular memory. That moment gives them a unique happiness of love.
 
@@ -63,7 +87,7 @@ We have reached a stage where we can assess the progression of this ideal.
 
 Finally, we like to share our ideal and we find people around us who collaborate to make it come true. In the Foreword to _The Urantia Book_, on page 9, we also find this phrase:
 
-> _Personality is the one changeless reality in an otherwise ever-changing creature experience; and it unifies all other associated factors of individuality._ ([UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
+> _Personality is the one changeless reality in an otherwise ever-changing creature experience; and it unifies all other associated factors of individuality._ (<a id="a89_160"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
 
 The personality that God gives to every man is destined to be eternal, but man must want it and ask for it! The personality is endowed with powers adapted to the framework of life in which man lives. The powers of the personality are not static; They evolve according to the needs for the survival of the human being.
 
@@ -97,7 +121,7 @@ I know that what I affirm is not very scientific.
 
 With the teachings of _The Urantia Book_, we also learn that each human being has an individual relationship with God thanks to his Adjuster. When speaking of the Adjuster, I will also develop in a simple way its magnificent contribution to the human being:
 
-> _The Adjusters are the actuality of the Father’s love incarnate in the souls of men; they are the veritable promise of man’s eternal career imprisoned within the mortal mind;_ ([UB 107:0.2](/en/The_Urantia_Book/107#p0_2))
+> _The Adjusters are the actuality of the Father’s love incarnate in the souls of men; they are the veritable promise of man’s eternal career imprisoned within the mortal mind;_ (<a id="a123_179"></a>[UB 107:0.2](/en/The_Urantia_Book/107#p0_2))
 
 This sentence contains three very important phases:
 
@@ -111,7 +135,7 @@ Locked up in the minds of mortals, with so much time without the human being bei
 
 The true promise of the eternal career of men is that fragment that accompanies us after material death to send us through multiple spiritual careers towards eternity, towards divine perfection. But, there is a but: you have to ask for it!
 
-> _Can you really realize the true significance of the Adjuster’s indwelling? Do you really fathom what it means to have an absolute fragment of the absolute and infinite Deity, the Universal Father, indwelling and fusing with your finite mortal natures?_ ([UB 107:4.7](/en/The_Urantia_Book/107#p4_7))
+> _Can you really realize the true significance of the Adjuster’s indwelling? Do you really fathom what it means to have an absolute fragment of the absolute and infinite Deity, the Universal Father, indwelling and fusing with your finite mortal natures?_ (<a id="a137_257"></a>[UB 107:4.7](/en/The_Urantia_Book/107#p4_7))
 
 You have understood it well; the goal of the Adjuster, who represents God himself, is to merge with us in order to take us to HIM, but HE must wait for us to want!
 
@@ -167,3 +191,28 @@ In order for us all to be together...<br>
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_39_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 39 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-39-march-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 39 — March 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/Homenaje_a_David_Zebedeo">
+          <span class="pr-2">Tribute to David Zebedee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — September 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos">
+          <span class="pr-2">Urantia Questionnaire: Juan José López Vallejos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -31,15 +55,15 @@ Do you realize how wonderful it is to be alive, to move with this body, to creat
 
 It is not about arrogance or lack of humility, not at all. It's about valuing ourselves for who we are, recognizing our deepest truth. Because we often act quite inconsistently, as if we were running our lives on “autopilot” and we forget who we are as unique: wonderful children of a divinity, creatures brought into existence in this universe, on this material plane out of love. of the Creator of all things.
 
-> God lives in every one of his spirit-born sons. ([UB 5:2.2](/en/The_Urantia_Book/5#p2_2))
+> God lives in every one of his spirit-born sons. (<a id="a57_51"></a>[UB 5:2.2](/en/The_Urantia_Book/5#p2_2))
 
 We are peculiar creatures, because curiously we are both car and driver, ship and pilot, horse and rider; that is to say, we are an electrochemical mechanism that allows us to handle ourselves in material reality but we are also a self-aware, creative entity capable of transcending matter.
 
-> There are, therefore, two realities which impinge upon, and are centered in, the human mind circuits: one, a mortal self evolved from the original plans of the Life Carriers, the other, an immortal entity from the high spheres of Divinington, an indwelling gift from God. But the mortal self is also a personal self; it has personality. ([UB 110:2.4](/en/The_Urantia_Book/110#p2_4))
+> There are, therefore, two realities which impinge upon, and are centered in, the human mind circuits: one, a mortal self evolved from the original plans of the Life Carriers, the other, an immortal entity from the high spheres of Divinington, an indwelling gift from God. But the mortal self is also a personal self; it has personality. (<a id="a61_340"></a>[UB 110:2.4](/en/The_Urantia_Book/110#p2_4))
 
 This matter of our identity, of our true being, has been reflecting on for many centuries:
 
-> Many of the Oriental as well as some of the Occidental faiths have perceived that man is divine in heritage as well as human in inheritance. The feeling of the inner presence in addition to the external omnipresence of Deity has long formed a part of many Urantian religions. Men have long believed that there is something growing within the human nature, something vital that is destined to endure beyond the short span of temporal life. ([UB 111:0.2](/en/The_Urantia_Book/111#p0_2))
+> Many of the Oriental as well as some of the Occidental faiths have perceived that man is divine in heritage as well as human in inheritance. The feeling of the inner presence in addition to the external omnipresence of Deity has long formed a part of many Urantian religions. Men have long believed that there is something growing within the human nature, something vital that is destined to endure beyond the short span of temporal life. (<a id="a65_442"></a>[UB 111:0.2](/en/The_Urantia_Book/111#p0_2))
 
 We all know the simple greeting expression _aloha_, used for greetings and as an expression of love, compassion and generosity. Etymologically it is made up of the terms _alo_ (presence or being present) and _ha_ (breath or divine inspiration). That is, the aloha greeting means that the divine essence of the other person is welcomed and recognized. This respect affects the loving and joyful way of relating to other human beings.
 
@@ -51,7 +75,7 @@ Now, in the room where the sibyl was (that wise woman trained since she was a ch
 
 These two simple examples that remind us of who we are, that exhort us to seek the best self-knowledge, encourage us to be seekers, in an endless race of progression and limitless expansion.
 
-> The great God makes direct contact with mortal man and gives a part of his infinite and eternal and incomprehensible self to live and dwell within him. God has embarked upon the eternal adventure with man. If you yield to the leadings of the spiritual forces in you and around you, you cannot fail to attain the high destiny established by a loving God as the universe goal of his ascendant creatures from the evolutionary worlds of space. ([UB 5:1.12](/en/The_Urantia_Book/5#p1_12))
+> The great God makes direct contact with mortal man and gives a part of his infinite and eternal and incomprehensible self to live and dwell within him. God has embarked upon the eternal adventure with man. If you yield to the leadings of the spiritual forces in you and around you, you cannot fail to attain the high destiny established by a loving God as the universe goal of his ascendant creatures from the evolutionary worlds of space. (<a id="a77_443"></a>[UB 5:1.12](/en/The_Urantia_Book/5#p1_12))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-3.jpg" alt="Editorial sep-22-3">
@@ -109,7 +133,7 @@ To illuminate Europe and therefore the world, turning inward rather than outward
 
 Are we looking for solutions in the right place? Jesus himself guides us in our search, inwards, towards our nucleus. Therein lies the answer to our current problems and concerns.
 
-> The Greek religion had a watchword “Know yourself”; the Hebrews centered their teaching on “Know your God”; the Christians preach a gospel aimed at a “knowledge of the Lord Jesus Christ”; Jesus proclaimed the good news of “knowing God, and yourself as a son of God.” ([UB 5:4.8](/en/The_Urantia_Book/5#p4_8))
+> The Greek religion had a watchword “Know yourself”; the Hebrews centered their teaching on “Know your God”; the Christians preach a gospel aimed at a “knowledge of the Lord Jesus Christ”; Jesus proclaimed the good news of “knowing God, and yourself as a son of God.” (<a id="a135_270"></a>[UB 5:4.8](/en/The_Urantia_Book/5#p4_8))
 
 Great and beautiful our good news, the one that Jesus invites us to carry out in these times, in this European meeting.
 
@@ -117,3 +141,28 @@ Great and beautiful our good news, the one that Jesus invites us to carry out in
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — September 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos">
+          <span class="pr-2">Urantia Questionnaire: Juan José López Vallejos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Olga López<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Servicio_desinteresado">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Selfless service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-23-december-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 23 — December 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Ecoaltea_Nuestra_Primera_Feria">
+          <span class="pr-2">EcoAltea: our first fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Fragment of “Dialogues with Sofía”, by Olga López
@@ -137,3 +161,28 @@ They both laughed and, without saying anything else, turned around and headed ba
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Servicio_desinteresado">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Selfless service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-23-december-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 23 — December 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Ecoaltea_Nuestra_Primera_Feria">
+          <span class="pr-2">EcoAltea: our first fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 María José Sánchez Santamaría<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — March 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jan_Herca/Urantiapedia_una_Wikipedia_de_El_Libro_de_Urantia">
+          <span class="pr-2">Urantiapedia, a Wikipedia of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/01.jpg">
 </figure>
 
-> _THE AGE of light and life is the final evolutionary attainment of a world of time and space…_ [UB 55:0.1](/en/The_Urantia_Book/55#p0_1)
+> _THE AGE of light and life is the final evolutionary attainment of a world of time and space…_ <a id="a41_97"></a>[UB 55:0.1](/en/The_Urantia_Book/55#p0_1)
 
 We start the month of March 2021 with hope beating in our hearts and with the aim of contributing, modestly, to the unstoppable arrival of the wonderful age of LIGHT and LIFE on our planet.
 
@@ -23,7 +47,7 @@ Those of us who have read _The Urantia Book_ and delved into it know that our pl
 
 We are not alone. We are not abandoned and destined for final disaster.
 
-> . . . Urantia is not a cosmic orphan stigmatized by sin and shut away from divine watchcare by rebellion. From Uversa to Salvington and on down to Jerusem, even in Havona and on Paradise, they all know we are here; and you mortals now dwelling on Urantia are just as lovingly cherished and just as faithfully watched over as if the sphere had never been betrayed by a faithless Planetary Prince, even more so. It is eternally true, “the Father himself loves you.” ([UB 114:7.17](/en/The_Urantia_Book/114#p7_17))
+> . . . Urantia is not a cosmic orphan stigmatized by sin and shut away from divine watchcare by rebellion. From Uversa to Salvington and on down to Jerusem, even in Havona and on Paradise, they all know we are here; and you mortals now dwelling on Urantia are just as lovingly cherished and just as faithfully watched over as if the sphere had never been betrayed by a faithless Planetary Prince, even more so. It is eternally true, “the Father himself loves you.” (<a id="a49_467"></a>[UB 114:7.17](/en/The_Urantia_Book/114#p7_17))
 
 Our planet, therefore, continues its march of material, intellectual and spiritual progress, as do the other planets in our universe. We are heading towards the indescribable goal of the age of LIGHT and LIFE, despite everything we glimpse daily. And this unavoidable task, this marvelous destiny that we have on the horizon, is what the people who make up the URANTIA ASSOCIATION OF SPAIN have in mind.
 
@@ -39,3 +63,28 @@ We invite you, then, to enjoy this adventure inside and up, towards LIGHT and LI
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/02/21/editorial-luz-y-vida-marzo-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — March 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jan_Herca/Urantiapedia_una_Wikipedia_de_El_Libro_de_Urantia">
+          <span class="pr-2">Urantiapedia, a Wikipedia of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

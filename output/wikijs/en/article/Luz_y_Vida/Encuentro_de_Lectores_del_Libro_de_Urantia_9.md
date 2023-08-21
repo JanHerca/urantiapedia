@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Text: Olga López. Photos: Demetrio Gómez, Paco Ruiz and David Carrera.<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_21_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 21 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-21-june-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 21 — June 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_7">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## The Gathering
@@ -64,7 +88,7 @@ At the end of the first session, we did a _lectio divina_ exercise. We got in a 
 
 This was the paragraph used in the _lectio divina_:
 
-> “_As Martha busied herself with all these supposed duties, she was perturbed because Mary did nothing to help. Therefore she went to Jesus and said: “Master, do you not care that my sister has left me alone to do all of the serving? Will you not bid her to come and help me?” Jesus answered: “Martha, Martha, why are you always anxious about so many things and troubled by so many trifles? Only one thing is really worth while, and since Mary has chosen this good and needful part, I shall not take it away from her. But when will both of you learn to live as I have taught you: both serving in co-operation and both refreshing your souls in unison? Can you not learn that there is a time for everything—that the lesser matters of life should give way before the greater things of the heavenly kingdom?”_” ([UB 162:8.3](/en/The_Urantia_Book/162#p8_3))
+> “_As Martha busied herself with all these supposed duties, she was perturbed because Mary did nothing to help. Therefore she went to Jesus and said: “Master, do you not care that my sister has left me alone to do all of the serving? Will you not bid her to come and help me?” Jesus answered: “Martha, Martha, why are you always anxious about so many things and troubled by so many trifles? Only one thing is really worth while, and since Mary has chosen this good and needful part, I shall not take it away from her. But when will both of you learn to live as I have taught you: both serving in co-operation and both refreshing your souls in unison? Can you not learn that there is a time for everything—that the lesser matters of life should give way before the greater things of the heavenly kingdom?”_” (<a id="a90_809"></a>[UB 162:8.3](/en/The_Urantia_Book/162#p8_3))
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV21/04.jpg">
@@ -118,15 +142,15 @@ For this activity, we meet in groups of 3 or 4 people. Sheila would assign us on
 
 For example, our group was given the topic “Developing a Moral Conscience”, and these were the quotes that Sheila gave us for our reflection:
 
-> “_In physical life the senses tell of the existence of things; mind discovers the reality of meanings; but the spiritual experience reveals to the individual the true values of life. These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values. Jesus loved men so much because he placed such a high value upon them. You can best discover values in your associates by discovering their motivation. If someone irritates you, causes feelings of resentment, you should sympathetically seek to discern his viewpoint, his reasons for such objectionable conduct. If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” ([UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
+> “_In physical life the senses tell of the existence of things; mind discovers the reality of meanings; but the spiritual experience reveals to the individual the true values of life. These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values. Jesus loved men so much because he placed such a high value upon them. You can best discover values in your associates by discovering their motivation. If someone irritates you, causes feelings of resentment, you should sympathetically seek to discern his viewpoint, his reasons for such objectionable conduct. If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” (<a id="a144_805"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
 
-> “_The enlightened spiritual consciousness of civilized man is not concerned so much with some specific intellectual belief or with any one particular mode of living as with discovering the truth of living, the good and right technique of reacting to the ever-recurring situations of mortal existence. Moral consciousness is just a name applied to the human recognition and awareness of those ethical and emerging morontial values which duty demands that man shall abide by in the day-by-day control and guidance of conduct._” ([UB 101:9.5](/en/The_Urantia_Book/101#p9_5))
+> “_The enlightened spiritual consciousness of civilized man is not concerned so much with some specific intellectual belief or with any one particular mode of living as with discovering the truth of living, the good and right technique of reacting to the ever-recurring situations of mortal existence. Moral consciousness is just a name applied to the human recognition and awareness of those ethical and emerging morontial values which duty demands that man shall abide by in the day-by-day control and guidance of conduct._” (<a id="a146_529"></a>[UB 101:9.5](/en/The_Urantia_Book/101#p9_5))
 
-> “_Even secular education could help in this great spiritual renaissance if it would pay more attention to the work of teaching youth how to engage in life planning and character progression. The purpose of all education should be to foster and further the supreme purpose of life, the development of a majestic and well-balanced personality. There is great need for the teaching of moral discipline in the place of so much self-gratification. Upon such a foundation religion may contribute its spiritual incentive to the enlargement and enrichment of mortal life, even to the security and enhancement of life eternal._” ([UB 195:10.17](/en/The_Urantia_Book/195#p10_17))
+> “_Even secular education could help in this great spiritual renaissance if it would pay more attention to the work of teaching youth how to engage in life planning and character progression. The purpose of all education should be to foster and further the supreme purpose of life, the development of a majestic and well-balanced personality. There is great need for the teaching of moral discipline in the place of so much self-gratification. Upon such a foundation religion may contribute its spiritual incentive to the enlargement and enrichment of mortal life, even to the security and enhancement of life eternal._” (<a id="a148_623"></a>[UB 195:10.17](/en/The_Urantia_Book/195#p10_17))
 
-> _1. *Mutual self-expression and self-understanding.* Many noble human impulses die because there is no one to hear their expression. Truly, it is not good for man to be alone. Some degree of recognition and a certain amount of appreciation are essential to the development of human character. Without the genuine love of a home, no child can achieve the full development of normal character. Character is something more than mere mind and morals. Of all social relations calculated to develop character, the most effective and ideal is the affectionate and understanding friendship of man and woman in the mutual embrace of intelligent wedlock. Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives which are indispensable to the development of a strong character. I do not hesitate thus to glorify family life, for your Master has wisely chosen the father-child relationship as the very cornerstone of this new gospel of the kingdom. And such a matchless community of relationship, man and woman in the fond embrace of the highest ideals of time, is so valuable and satisfying an experience that it is worth any price, any sacrifice, requisite for its possession._ ([UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
+> _1. *Mutual self-expression and self-understanding.* Many noble human impulses die because there is no one to hear their expression. Truly, it is not good for man to be alone. Some degree of recognition and a certain amount of appreciation are essential to the development of human character. Without the genuine love of a home, no child can achieve the full development of normal character. Character is something more than mere mind and morals. Of all social relations calculated to develop character, the most effective and ideal is the affectionate and understanding friendship of man and woman in the mutual embrace of intelligent wedlock. Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives which are indispensable to the development of a strong character. I do not hesitate thus to glorify family life, for your Master has wisely chosen the father-child relationship as the very cornerstone of this new gospel of the kingdom. And such a matchless community of relationship, man and woman in the fond embrace of the highest ideals of time, is so valuable and satisfying an experience that it is worth any price, any sacrifice, requisite for its possession._ (<a id="a150_1234"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
 
-> _Man’s choosing between good and evil is influenced, not only by the keenness of his moral nature, but also by such influences as ignorance, immaturity, and delusion. A sense of proportion is also concerned in the exercise of virtue because evil may be perpetrated when the lesser is chosen in the place of the greater as a result of distortion or deception. The art of relative estimation or comparative measurement enters into the practice of the virtues of the moral realm._ ([UB 16:7.7](/en/The_Urantia_Book/16#p7_7))
+> _Man’s choosing between good and evil is influenced, not only by the keenness of his moral nature, but also by such influences as ignorance, immaturity, and delusion. A sense of proportion is also concerned in the exercise of virtue because evil may be perpetrated when the lesser is chosen in the place of the greater as a result of distortion or deception. The art of relative estimation or comparative measurement enters into the practice of the virtues of the moral realm._ (<a id="a152_481"></a>[UB 16:7.7](/en/The_Urantia_Book/16#p7_7))
 
 On Saturday night, after dinner, there was a presentation by Eduardo Altuzarra on the Milky Way regarding the Orvonton superuniverse. We must say that the presentation, although rigorous, took place with large doses of humor, due to the already historical discrepancies between those who defend that the Milky Way is practically equivalent to the Orvonton superuniverse (which is Eduardo's thesis), compared to those who they believe that the Milky Way is a much smaller part. Eduardo illustrated his presentation with a large number of photographs of the most famous nebulae, as well as galaxies that, according to the UB, would be in the first level of outer space. It was a very instructive presentation because, although no conclusion emerged as to what the Milky Way really is according to the UB, it allowed us to get an idea of where our location is in the grand universe, and to reflect on the “clues” that the UB offers us regarding this topic.
 
@@ -148,7 +172,7 @@ The meeting officially ended after lunch, which was followed by coffee, after-di
 <figcaption><em>The whole group (or almost)</em></figcaption>
 </figure>
 
-> _Although the average mortal of Urantia cannot hope to attain the high perfection of character which Jesus of Nazareth acquired while sojourning in the flesh, it is altogether possible for every mortal believer to develop a strong and unified personality along the perfected lines of the Jesus personality. The unique feature of the Master’s personality was not so much its perfection as its symmetry, its exquisite and balanced unification. The most effective presentation of Jesus consists in following the example of the one who said, as he gestured toward the Master standing before his accusers, “Behold the man!”_ ([UB 100:7.1](/en/The_Urantia_Book/100#p7_1))
+> _Although the average mortal of Urantia cannot hope to attain the high perfection of character which Jesus of Nazareth acquired while sojourning in the flesh, it is altogether possible for every mortal believer to develop a strong and unified personality along the perfected lines of the Jesus personality. The unique feature of the Master’s personality was not so much its perfection as its symmetry, its exquisite and balanced unification. The most effective presentation of Jesus consists in following the example of the one who said, as he gestured toward the Master standing before his accusers, “Behold the man!”_ (<a id="a174_623"></a>[UB 100:7.1](/en/The_Urantia_Book/100#p7_1))
 
 ## Impressions
 
@@ -236,7 +260,7 @@ Of course, I still have the photos of the “official reporters” (Paco, Demetr
 
 Let's see, Board of Directors, you are already taking time to announce the next one!
 
-> _Spirit-gravity pull and response thereto operate not only on the universe as a whole but also even between individuals and groups of individuals. There is a spiritual cohesiveness among the spiritual and spiritized personalities of any world, race, nation, or believing group of individuals. There is a direct attractiveness of a spirit nature between spiritually minded persons of like tastes and longings. The term *kindred spirits* is not wholly a figure of speech._ ([UB 7:1.6](/en/The_Urantia_Book/7#p1_6))
+> _Spirit-gravity pull and response thereto operate not only on the universe as a whole but also even between individuals and groups of individuals. There is a spiritual cohesiveness among the spiritual and spiritized personalities of any world, race, nation, or believing group of individuals. There is a direct attractiveness of a spirit nature between spiritually minded persons of like tastes and longings. The term *kindred spirits* is not wholly a figure of speech._ (<a id="a262_474"></a>[UB 7:1.6](/en/The_Urantia_Book/7#p1_6))
 
 ## The pictures
 
@@ -306,3 +330,28 @@ Let's see, Board of Directors, you are already taking time to announce the next 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_21_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 21 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-21-june-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 21 — June 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_7">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

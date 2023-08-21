@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Carmelo Martínez<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The parable of the mines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -27,9 +48,9 @@ After baptism, and to complete a human life, he only needed to go through death.
 
 2\. _Reveal the will of the Father_, which he did in particular during the so-called “public life”.
 
-3\. _Put “technically an end to the Lucifer rebellion in the Satania system_, and that you do all this as the Son of Man” ([UB 120:2.2](/en/The_Urantia_Book/120#p2_2)).
+3\. _Put “technically an end to the Lucifer rebellion in the Satania system_, and that you do all this as the Son of Man” (<a id="a50_123"></a>[UB 120:2.2](/en/The_Urantia_Book/120#p2_2)).
 
-We are not given many details of what this means, but he did it on Mount Hermon in September of the year 25 when, without the help of his personal guardian and as the Son of Man, he faced the rebels ([UB 134:8.9](/en/The_Urantia_Book/134#p8_9) ).
+We are not given many details of what this means, but he did it on Mount Hermon in September of the year 25 when, without the help of his personal guardian and as the Son of Man, he faced the rebels (<a id="a52_200"></a>[UB 134:8.9](/en/The_Urantia_Book/134#p8_9) ).
 
 The public work really began in January of the year 27. Throughout the year 26, Jesus chose his apostles and was training them.
 
@@ -75,3 +96,25 @@ Apart from analyzing the content of the discourse itself, we can ask ourselves q
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The parable of the mines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

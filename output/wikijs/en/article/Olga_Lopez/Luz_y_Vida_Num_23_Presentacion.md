@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Olga López<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-23-december-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 23 — December 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Hawking_descarta_la_existencia_de_Dios_1">
+          <span class="pr-2">Hawking rules out the existence of God (part one)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -40,3 +61,25 @@ I take advantage of this space to wish you a good start to the year, and that yo
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-23-december-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 23 — December 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Hawking_descarta_la_existencia_de_Dios_1">
+          <span class="pr-2">Hawking rules out the existence of God (part one)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Ernesto Veloso<br>© 2009 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_mente_segun_la_revelacion_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The mind according to revelation (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-16-february-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 16 — February 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/La_alquimia_de_la_creacion">
+          <span class="pr-2">The Alchemy of Creation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There is always a beginning, an instant in time in which one wonders for the first time: What is the meaning of life? Where do I come from? Who am I and where am I going? What awaits me at the end of what we call life? I asked myself these questions one night while I was walking alone on a deserted street in my city. I had no answers that night and I really thought I never would. The mystery of the unknown wrapped me in a cloak of fear and hopelessness, because what future could there be for the man who walks through life, divorced from the knowledge of God? Such a man is an orphan not only of hope, he is also an orphan of the present and of any perspective of cosmic reality.
@@ -36,3 +60,28 @@ But will we understand everything or will we know everything? Will the time come
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_mente_segun_la_revelacion_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The mind according to revelation (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-16-february-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 16 — February 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/La_alquimia_de_la_creacion">
+          <span class="pr-2">The Alchemy of Creation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Jordi Cantos<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_X_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">X Meeting of readers of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
+          <span class="pr-2">The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Melodies for the Soul represents my personal contribution to the dissemination of the teachings of the Master and Creator of our universe, Miguel de Nebadon.
@@ -29,3 +53,28 @@ JC
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_X_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">X Meeting of readers of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
+          <span class="pr-2">The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The astronomical secrets of the sky</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Editor's Note: We are starting a new section, in which a featured reader will answer some questions about how he came to _ The Urantia Book _and why he finds it so inspiring. On this occasion, Ginés Avilés, current president of the Urantia Association of Spain, will answer our questionnaire._
@@ -107,3 +128,25 @@ Highlight that the important thing about the book is its teachings and not the b
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The astronomical secrets of the sky</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

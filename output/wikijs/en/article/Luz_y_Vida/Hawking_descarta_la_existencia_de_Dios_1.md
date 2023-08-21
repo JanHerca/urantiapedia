@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Carmelo Martínez, L. Coll, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra<br>© 2010 Urantia Association of Spain </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_23_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 23 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-23-december-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 23 — December 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/Morning_star">
+          <span class="pr-2">Morning Star (poem)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants:**
@@ -33,11 +57,11 @@ It is also said that Hawking thinks that the famous theory of everything will so
 
 Given this, there are two comments:
 
-1. It is not the first time that science believes that it has reached the end of its development, that it has theories to explain everything. It already happened in the 18th century, and it turns out that the great advances of modern science have occurred just after. (“_... The more science you know, the less sure you can be_” [UB 102:1.3](/en/The_Urantia_Book/102#p1_3)) (“_Knowledge is an eternal quest; always are you learning, but never are you able to arrive at the full knowledge of absolute truth. In knowledge alone there can never be absolute certainty,..._” [UB 102:2.4](/en/The_Urantia_Book/102#p2_4))
+1. It is not the first time that science believes that it has reached the end of its development, that it has theories to explain everything. It already happened in the 18th century, and it turns out that the great advances of modern science have occurred just after. (“_... The more science you know, the less sure you can be_” <a id="a59_329"></a>[UB 102:1.3](/en/The_Urantia_Book/102#p1_3)) (“_Knowledge is an eternal quest; always are you learning, but never are you able to arrive at the full knowledge of absolute truth. In knowledge alone there can never be absolute certainty,..._” <a id="a59_570"></a>[UB 102:2.4](/en/The_Urantia_Book/102#p2_4))
 
-2. Science and religion are two disciplines that deal with totally different areas of human thought; and of course they are not incompatible. (“_Science deals with facts; religion deals only with values_” [UB 101:5.2](/en/The_Urantia_Book/101#p5_2)) Science may one day explain all physical _facts_, but it will (and cannot) say anything about it. the meaning of the universe and about the _values_ behind those facts: the Father's plan. It will never be possible to demonstrate, or even conclude or glimpse, that God does not exist (or that he exists) with reasoning from science or any other human discipline. For this only faith is worth, and faith is personal and non-transferable; It is a “paradox” that faith is the only possible demonstration of the existence of God and that such a demonstration is valid only for the person who has faith.
+2. Science and religion are two disciplines that deal with totally different areas of human thought; and of course they are not incompatible. (“_Science deals with facts; religion deals only with values_” <a id="a61_205"></a>[UB 101:5.2](/en/The_Urantia_Book/101#p5_2)) Science may one day explain all physical _facts_, but it will (and cannot) say anything about it. the meaning of the universe and about the _values_ behind those facts: the Father's plan. It will never be possible to demonstrate, or even conclude or glimpse, that God does not exist (or that he exists) with reasoning from science or any other human discipline. For this only faith is worth, and faith is personal and non-transferable; It is a “paradox” that faith is the only possible demonstration of the existence of God and that such a demonstration is valid only for the person who has faith.
 
-How little is known on Urantia about the true God, our Heavenly Father! The God of which Hawking and others speak is that of the institutional religions that have not yet been able to fully grasp the idea and assume the ideal of the real and true God, the only one who truly and totally satisfies the cravings of the human mind. (“_The philosophic elimination of religious fear and the steady progress of science add greatly to the mortality of false gods; and even though these casualties of man-made deities may momentarily befog the spiritual vision, they eventually destroy that ignorance and superstition which so long obscured the living God of eternal love._” [UB 102:6.1](/en/The_Urantia_Book/102#p6_1))
+How little is known on Urantia about the true God, our Heavenly Father! The God of which Hawking and others speak is that of the institutional religions that have not yet been able to fully grasp the idea and assume the ideal of the real and true God, the only one who truly and totally satisfies the cravings of the human mind. (“_The philosophic elimination of religious fear and the steady progress of science add greatly to the mortality of false gods; and even though these casualties of man-made deities may momentarily befog the spiritual vision, they eventually destroy that ignorance and superstition which so long obscured the living God of eternal love._” <a id="a63_667"></a>[UB 102:6.1](/en/The_Urantia_Book/102#p6_1))
 
 ## Coll
 
@@ -155,9 +179,9 @@ From the last two links that Carmelo has indicated to us, I extract the followin
 
 And now observe what the UB says:
 
-> _But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind._ ([UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
+> _But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind._ (<a id="a181_201"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
 
-> _Extremely complex and highly automatic-appearing cosmic mechanisms always tend to conceal the presence of the originative or creative indwelling mind from any and all intelligences very far below the universe levels of the nature and capacity of the mechanism itself. Therefore is it inevitable that the higher universe mechanisms must appear to be mindless to the lower orders of creatures._ ([UB 42:11.6](/en/The_Urantia_Book/42#p11_6))
+> _Extremely complex and highly automatic-appearing cosmic mechanisms always tend to conceal the presence of the originative or creative indwelling mind from any and all intelligences very far below the universe levels of the nature and capacity of the mechanism itself. Therefore is it inevitable that the higher universe mechanisms must appear to be mindless to the lower orders of creatures._ (<a id="a183_397"></a>[UB 42:11.6](/en/The_Urantia_Book/42#p11_6))
 
 I also liked this other opinion:
 
@@ -227,3 +251,28 @@ I found the difference between faith and the gift of God that Rafa has commented
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_23_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 23 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-23-december-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 23 — December 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/Morning_star">
+          <span class="pr-2">Morning Star (poem)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

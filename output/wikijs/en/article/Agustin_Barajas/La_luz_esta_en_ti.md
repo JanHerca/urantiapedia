@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Agustín Barajas<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/Reflexiones_sobre_la_paz_en_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on Peace on Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_14">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="tex-align:center;">
@@ -142,3 +166,28 @@ AND IT IS FOR HUMANITY.<br>
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/Reflexiones_sobre_la_paz_en_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on Peace on Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_14">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

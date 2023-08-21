@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 José A. Rodríguez Jorge<br>© 2009 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Se_equivoco_Dios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Was God wrong?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-19-december-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 19 — December 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Lo_Absonito_1a_parte">
+          <span class="pr-2">The absonite (part one)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -37,3 +61,28 @@ Do not doubt, but I trust.
 
 - [This poetry also in another number](/en/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Se_equivoco_Dios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Was God wrong?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-19-december-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 19 — December 2009 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Lo_Absonito_1a_parte">
+          <span class="pr-2">The absonite (part one)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

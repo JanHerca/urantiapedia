@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Carmelo Martínez<br>© 2007 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Presente_de_Urantia_espectacular_y_envidiable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia present, spectacular and enviable?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-9-may-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 9 — May 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mariano_Perez/Proyecto_Eden">
+          <span class="pr-2">Eden project</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I have been asked to introduce the subject of “The Future According to _The Urantia Book_.” Thinking about how to approach this matter, the first thing that came to mind was 'utopia'. According to the dictionary of the Royal Spanish Academy of Language, the term 'utopia' means “optimistic plan, project, doctrine or system that appears unrealizable at the time of its formulation”.
@@ -68,7 +92,7 @@ Each planetary age receives a name that corresponds to the characteristic develo
 
 And with this overview of the ages of an “average planet” the next thing to ask is where is Urantia today, where are we currently?
 
-The Book gives us clues about it. In [UB 74:2.8](/en/The_Urantia_Book/74#p2_8) we read “_... The dispensation of the Prince has passed; the age of Adam, the third planetary epoch, opens between scenes of simple grandeur..._”. The age of Adam is that of “material comfort” that of great technological development, but on Urantia this is taking place at this time, nearly 38,000 years after the “average” plan. Although we have already received (2,000 years ago) a son of bestowal, I am of the opinion that we are still in the age of Adam. At the end of that age, but still within it. And the Book says something like this in [UB 52:3.6](/en/The_Urantia_Book/52#p3_6): “_...Your world is a full dispensation or more behind the average planetary schedule_.” If we go back to the picture, this statement makes more sense. Between the age after the bestowal son and the age of Adam, mediates the age after the magisterial son; that is, “a full dispensation or more behind.”
+The Book gives us clues about it. In <a id="a94_37"></a>[UB 74:2.8](/en/The_Urantia_Book/74#p2_8) we read “_... The dispensation of the Prince has passed; the age of Adam, the third planetary epoch, opens between scenes of simple grandeur..._”. The age of Adam is that of “material comfort” that of great technological development, but on Urantia this is taking place at this time, nearly 38,000 years after the “average” plan. Although we have already received (2,000 years ago) a son of bestowal, I am of the opinion that we are still in the age of Adam. At the end of that age, but still within it. And the Book says something like this in <a id="a94_624"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6): “_...Your world is a full dispensation or more behind the average planetary schedule_.” If we go back to the picture, this statement makes more sense. Between the age after the bestowal son and the age of Adam, mediates the age after the magisterial son; that is, “a full dispensation or more behind.”
 
 This other table that I present to you is like the previous one but marking in each row (blue color) how far I think we have advanced. It is immediately verified that the advance is not uniform in all the characteristics of the development of humanity.
 
@@ -98,17 +122,17 @@ There is an “apocryphal” text of those that say they come from the conversat
 
 And from this text emerges a first characteristic of that future age: the willingness to seek truth and rectitude. Faced with our times in which people move for reasons such as selfishness or ambition, times in which people laugh and despise altruistic people and who pretend to be fair and ethical in their relationships, in the future age that follows ours, the whole world will seek truth and righteousness.
 
-Relations between people will be based on mutual support and respect, in the search for fair and equitable treatment. In short, in more mature people and therefore more ethical. Not everything goes, as is sometimes thought. As it is said in [UB 71:4.17](/en/The_Urantia_Book/71#p4_17) “_... Only love, brotherhood, can prevent the strong from oppressing the weak_”.
+Relations between people will be based on mutual support and respect, in the search for fair and equitable treatment. In short, in more mature people and therefore more ethical. Not everything goes, as is sometimes thought. As it is said in <a id="a124_241"></a>[UB 71:4.17](/en/The_Urantia_Book/71#p4_17) “_... Only love, brotherhood, can prevent the strong from oppressing the weak_”.
 
 Following a few rows of the table, I will say that world peace will be achieved, something that is not so difficult to believe despite the conflicts of recent times. Fraternity will begin to flourish, if only in its infancy, and there will be a great ethical advance.
 
-In [UB 71:6.1](/en/The_Urantia_Book/71#p6_1) it is also said: “_Present-day profit-motivated economics is doomed unless profit motives can be augmented by service motives. Ruthless competition based on narrow-minded self-interest is ultimately destructive of even those things which it seeks to maintain. Exclusive and self-serving profit motivation is incompatible with Christian ideals—much more incompatible with the teachings of Jesus._”
+In <a id="a128_3"></a>[UB 71:6.1](/en/The_Urantia_Book/71#p6_1) it is also said: “_Present-day profit-motivated economics is doomed unless profit motives can be augmented by service motives. Ruthless competition based on narrow-minded self-interest is ultimately destructive of even those things which it seeks to maintain. Exclusive and self-serving profit motivation is incompatible with Christian ideals—much more incompatible with the teachings of Jesus._”
 
 And this is for me another characteristic, in this case in the economic field, of the age that will follow us. Currently the economy has become globalized; The famous globalization is solely economic, and it has turned out to be so because the large multinationals, the great fortunes of the world, have found in globalization a fertile ground to continue keeping wealth. In today's economic world, the profit motive has reached its peak. It is not necessary to remind you that the big companies and the big banks no longer look for a greater profit, they look for the increase of their profit, not the profit itself, to be greater each time; what I call the second derivative. And they proclaim it without being ashamed. The fall of the communist side that divided the world into two parts has had this globalizing effect and loss of shame for big capital. And big business has shown no shame in organizing the sacrosanct economic trinity (the World Bank, the International Monetary Fund, and the World Trade Organization), a trio shamelessly dedicated to making it even easier for big business to foster its greed. and keep what they want. And to further facilitate his greed he wants to impose the consumerist model on everyone and has made any other idea suspect. But his own exhausting eagerness will be his downfall. They have impoverished the _rich_ poor countries and have them subject to foreign debt. However, little by little, these countries will get rid of this economic yoke; and such a movement will be the end of this economic organization and the beginning of a new order. It's already starting to happen. One must remember the resistance movements on the rise in Latin America for example, or the liberation theology group within the Catholic Church. The situation of large groups of shantytowns and the solemnly poor, of people without electricity, water, or schools cannot last. They are also the breeding ground for resistance to the neoliberal model that they want to impose on us, the cradle of a new order that will affect all of us, including us, the so-called rich countries. And this new model will arrive not only because of the response of the poor countries, but also because of the growth of a social conscience in the world of the economy in general and of the company in particular; the company will have a service orientation to the man both in its own organization, as well as in its function and usefulness. Companies will no longer be machines, instruments to earn money; they will be integrated organisms in the social organization and oriented to the economic service of the society.
 
 Do you think it is an unattainable utopia? I want to remind you that according to the UB, utopia is POSSIBLE and INEVITABLE; social forces push inexorably in that direction. I also want to remind you that on a planet neighboring ours, on one of its eleven continents, there is a society that has already taken these steps, has followed a path similar to ours and is now ahead of us.
 
-A quote again from [UB 71:5.3](/en/The_Urantia_Book/71#p5_3) that links the economy with social relations and the arrival of fraternity:
+A quote again from <a id="a134_19"></a>[UB 71:5.3](/en/The_Urantia_Book/71#p5_3) that links the economy with social relations and the arrival of fraternity:
 
 > “_Throughout the earlier ages of any world, competition is essential to progressive civilization. As the evolution of man progresses, co-operation becomes increasingly effective. In advanced civilizations co-operation is more efficient than competition._”
 
@@ -124,7 +148,7 @@ This time is coming; in fact, it is already knocking on our doors. And _The Uran
 
 And we, readers of the _Urantia Book_, are privileged; we were prepared for the Book and the Book found us. But this is more of an obligation than a privilege. We are, we have to be, the vanguard of this new age. As I see it, more important than disseminating the teachings of the Book, is to act in our lives with this vision of the future, preparing the way for the new times; each one in his current field or in the field in which his spirit tells him that he must act; each one with his action and with his personal example.
 
-The commission of intermediates that wrote the fourth part of the Book politely and softly makes us this same invitation in [UB 195:10.6](/en/The_Urantia_Book/195#p10_6):
+The commission of intermediates that wrote the fourth part of the Book politely and softly makes us this same invitation in <a id="a150_124"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6):
 
 > “_The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus’ brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh._”
 
@@ -132,7 +156,7 @@ And here comes my introduction; now it is the turn of the debate. There are othe
 
 ## Comments from attendees
 
-The privilege of receiving the Urantia revelation is both a great obligation and a great responsibility. We have been chosen, yes, but to work. Paper 160 deserves to be highlighted here, the section on “the incentives of maturity” ([UB 160:3.1](/en/The_Urantia_Book/160#p3_1)), where it deals with good spiritual habits.
+The privilege of receiving the Urantia revelation is both a great obligation and a great responsibility. We have been chosen, yes, but to work. Paper 160 deserves to be highlighted here, the section on “the incentives of maturity” (<a id="a158_232"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)), where it deals with good spiritual habits.
 
 The world economy is changing. The road does not go through a revolution but through total globalization, not only economic. But it is necessary to change the mentality of profit for profit first. Advancement today will be fundamentally ethical, not spiritual.
 
@@ -152,7 +176,7 @@ What is limited in itself is not free will, but the possibility of doing things.
 
 Earth is likely to be a reserve planet in the future. In fact, it is destined to be a school planet, like the rest of the planets that house mortals.
 
-Free will and providence are fundamental topics (we recommend reading [UB 118:10.1](/en/The_Urantia_Book/118#p10_1) about providence). So are the difficulties, which are what make us grow (remember the inevitabilities, [UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5)). There are apparent coincidences that guide us at times when we must decide.
+Free will and providence are fundamental topics (we recommend reading <a id="a178_70"></a>[UB 118:10.1](/en/The_Urantia_Book/118#p10_1) about providence). So are the difficulties, which are what make us grow (remember the inevitabilities, <a id="a178_219"></a>[UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5)). There are apparent coincidences that guide us at times when we must decide.
 
 The training of people also has to change so that we are all more service-oriented. An end is in sight for political parties as we now conceive them, so they too will be much more public service oriented.
 
@@ -168,3 +192,28 @@ The impending resolution of Lucifer's judgment and the consequences it will inev
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Presente_de_Urantia_espectacular_y_envidiable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia present, spectacular and enviable?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-9-may-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 9 — May 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mariano_Perez/Proyecto_Eden">
+          <span class="pr-2">Eden project</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

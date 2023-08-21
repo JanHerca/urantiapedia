@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Los_secretos_del_agua">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The secrets of water</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -69,3 +90,25 @@ We are very at the beginning of this revelation, there are great cultural and be
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Los_secretos_del_agua">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The secrets of water</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

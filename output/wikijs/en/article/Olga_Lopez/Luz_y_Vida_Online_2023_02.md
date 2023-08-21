@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="pr-2">Luz y Vida — February 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -218,13 +239,13 @@ Romualdo Soler Gonzalez
 A character that fascinates me from _The Urantia Book_ is the young Indian Ganid. I feel very identified with him because I see him being amazed by what he is discovering from his talks with Jesus. I see him make an effort to follow his teachings, some he understands immediately and others are difficult for him. And several of his “conclusions” of these talks are to talk about his fellow men and how he sees that they should be treated. Here are some found from paragraph 131:10.1:
 
 
-> “Though we cannot see God, we can know him. And by daily living the will of the Father in heaven, we can reveal him to our fellow men. ([UB 131:10.2](/en/The_Urantia_Book/131#p10_2))
+> “Though we cannot see God, we can know him. And by daily living the will of the Father in heaven, we can reveal him to our fellow men. (<a id="a241_138"></a>[UB 131:10.2](/en/The_Urantia_Book/131#p10_2))
 
-> “. . . I am going to do my best to treat each of my fellow mortals just as I think God would like to have him treated. And when we live this sort of a life in the flesh, we may ask many things of God, and he will give us the desire of our hearts that we may be the better prepared to serve our fellows. ([UB 131:10.5](/en/The_Urantia_Book/131#p10_5))
+> “. . . I am going to do my best to treat each of my fellow mortals just as I think God would like to have him treated. And when we live this sort of a life in the flesh, we may ask many things of God, and he will give us the desire of our hearts that we may be the better prepared to serve our fellows. (<a id="a243_306"></a>[UB 131:10.5](/en/The_Urantia_Book/131#p10_5))
 
-> “Whatsoever I would that men should do to me, that I will do to my fellows. By this new faith I know that man may become the son of God, but it sometimes terrifies me when I stop to think that all men are my brothers, but it must be true. I do not see how I can rejoice in the fatherhood of God while I refuse to accept the brotherhood of man. ([UB 131:10.7](/en/The_Urantia_Book/131#p10_7))
+> “Whatsoever I would that men should do to me, that I will do to my fellows. By this new faith I know that man may become the son of God, but it sometimes terrifies me when I stop to think that all men are my brothers, but it must be true. I do not see how I can rejoice in the fatherhood of God while I refuse to accept the brotherhood of man. (<a id="a245_347"></a>[UB 131:10.7](/en/The_Urantia_Book/131#p10_7))
 
-> “I will judge not that I may not be unfair to my fellows.” ([UB 131:10.8](/en/The_Urantia_Book/131#p10_8))
+> “I will judge not that I may not be unfair to my fellows.” (<a id="a247_62"></a>[UB 131:10.8](/en/The_Urantia_Book/131#p10_8))
 
 
 This is an excellent way to fulfill the will of the Father: reveal God, see others as your brothers and sisters, treat them with love. And something very important: do not judge your brother or sister. Every human being chooses his life and has plenty of reasons to do so. But those “reasons” are not known to anyone except that particular person and the Heavenly Father.
@@ -311,3 +332,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="pr-2">Luz y Vida — February 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

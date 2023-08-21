@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Ismael Gracia, Carmelo Martínez, Jaime Marco and Olga López<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_XII_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The XII Meeting of readers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-33-june-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 33 — June 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_16">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Ismael Gracia
@@ -122,7 +146,7 @@ On the way back by train, he meditated on what had happened. He wondered if so m
 
 After the presentations of my colleagues, now it is my turn to share part of my experience making _The Urantia Book_ known in presentations, interviews and events in general.
 
-Sooner or later, all of us who have adopted the teachings of the book as our guide in “the uncertain labyrinth of life” [UB 144:5.21](/en/The_Urantia_Book/144#p5_21) find it natural to make its content known. His teachings seem to us such an extraordinary gift that we find it almost immoral to keep them only for ourselves; hence we want to share them with as many people as possible.
+Sooner or later, all of us who have adopted the teachings of the book as our guide in “the uncertain labyrinth of life” <a id="a148_120"></a>[UB 144:5.21](/en/The_Urantia_Book/144#p5_21) find it natural to make its content known. His teachings seem to us such an extraordinary gift that we find it almost immoral to keep them only for ourselves; hence we want to share them with as many people as possible.
 
 However, it is not long before we realize that our enthusiasm for the book is not easily contagious. Apart from the fact that not everyone is looking for or prepared for the book, it could also be that our way of making it known is not adequate. Because, as in almost everything in life, the form matters as much as the content.
 
@@ -165,7 +189,7 @@ Finally, and with this I end this presentation, I would like to encourage you to
 
 It also doesn't matter if those who listen to you are three people or three hundred; When it comes to diffusion, it is not quantity that we are looking for, but quality. Sometimes we can feel discouraged because very few people have come to a talk. But, who knows if one, two, or three of the people who have attended will later be the catalysts that give new impetus to the dissemination of the book in that area? This revelation will spread slowly, and it will be very difficult for us to see spectacular and immediate results; We have discussed this on numerous occasions. The important thing is to sow.
 
-Remember what the book says: “_The act is ours; the consequences belong to God_” [UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+Remember what the book says: “_The act is ours; the consequences belong to God_” <a id="a191_81"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV33/09.jpg">
@@ -176,3 +200,28 @@ Remember what the book says: “_The act is ours; the consequences belong to God
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_XII_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The XII Meeting of readers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-33-june-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 33 — June 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_16">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

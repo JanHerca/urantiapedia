@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Santiago Rodríguez<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Que_es_esto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is this?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-28-march-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 28 — March 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/La_difusion_de_El_Libro_de_Urantia_en_Canarias">
+          <span class="pr-2">The dissemination of The Urantia Book in the Canary Islands</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 工 n this third installment, we will address what we could consider as a fact that has already occurred and, contrary to what we have found in previous installments of this section, we will see that the Revealers give information that differed from what was commonly accepted at the time.
 
-Remembering what is indicated in [UB 101:4.2](/en/The_Urantia_Book/101#p4_2), Document 101 “The real nature of religion”, 4. THE LIMITATIONS OF REVELATION, verbatim copy:
+Remembering what is indicated in <a id="a39_33"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2), Document 101 “The real nature of religion”, 4. THE LIMITATIONS OF REVELATION, verbatim copy:
 
 > “_We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries_”
 
@@ -39,13 +63,13 @@ Let's see what the UB says about the formation of our solar system, and it is su
 
 I suggest reading Document 57. It begins with the history of the formation of our Sun. The first to originate was the Sun, which appears on the scene 6,000 million years ago, formed from a second generation of suns produced mostly by a large nebula .
 
-[UB 57:5.3](/en/The_Urantia_Book/57#p5_3), Paper 57, “The Origin of Urantia”:
+<a id="a65_0"></a>[UB 57:5.3](/en/The_Urantia_Book/57#p5_3), Paper 57, “The Origin of Urantia”:
 
 > “_Thus was the stage of local space set for the unique origin of Monmatia, that being the name of your sun’s planetary family, the solar system to which your world belongs. Less than one per cent of the planetary systems of Orvonton have had a similar origin.._”
 
 At the moment it reveals to us that it was an unusual origin. We have a relatively isolated Sun on the scene that has already attracted to itself a part of the debris that was nearby, produced within the initial nebula, residues even of its own formation.
 
-And it enters the scene in an enormous stellar cloud, in principle foreign to the Solar System itself: “_4,500,000,000 years ago the enormous Angona system began its approach to the neighborhood of this solitary sun. The center of this great system was a dark giant of space, solid, highly charged, and possessing tremendous gravity pull._” [UB 57:5.4](/en/The_Urantia_Book/57#p5_4)
+And it enters the scene in an enormous stellar cloud, in principle foreign to the Solar System itself: “_4,500,000,000 years ago the enormous Angona system began its approach to the neighborhood of this solitary sun. The center of this great system was a dark giant of space, solid, highly charged, and possessing tremendous gravity pull._” <a id="a71_341"></a>[UB 57:5.4](/en/The_Urantia_Book/57#p5_4)
 
 In addition, we have to take into account that our Sun was a variable star, that it had periods of contraction and expansion, in which it launched enormous tongues of solar material into space that, in most cases, due to the effect of gravity, fell back on the sun. same sun.
 
@@ -77,3 +101,28 @@ In this section we will be attentive to these fluctuations...
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Que_es_esto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is this?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-28-march-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 28 — March 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/La_difusion_de_El_Libro_de_Urantia_en_Canarias">
+          <span class="pr-2">The dissemination of The Urantia Book in the Canary Islands</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

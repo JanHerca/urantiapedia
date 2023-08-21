@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Antonio Moya and Carmelo Martínez<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The unification of the personality (first part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-24-march-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 24 — March 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_9">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Antonio
@@ -23,29 +47,29 @@ What did they intend with this pass? Observe what the human will is capable of d
 
 The extracts that I have found to elucidate this matter are the following:
 
-> _The signal for a System Sovereign to act in the matter of assigning a ruler to a given planet is the reception of a request from the Life Carriers for the dispatch of an administrative head to function on this planet whereon they have established life and developed intelligent evolutionary beings._ ([UB 50:0.2](/en/The_Urantia_Book/50#p0_2))
+> _The signal for a System Sovereign to act in the matter of assigning a ruler to a given planet is the reception of a request from the Life Carriers for the dispatch of an administrative head to function on this planet whereon they have established life and developed intelligent evolutionary beings._ (<a id="a49_304"></a>[UB 50:0.2](/en/The_Urantia_Book/50#p0_2))
 
-> _The principal reason for bringing mortal ascenders from the system capital as a part of the staff of the Planetary Prince is to facilitate communication with the inhabitants of the realm._ ([UB 50:2.7](/en/The_Urantia_Book/50#p2_7))
+> _The principal reason for bringing mortal ascenders from the system capital as a part of the staff of the Planetary Prince is to facilitate communication with the inhabitants of the realm._ (<a id="a51_193"></a>[UB 50:2.7](/en/The_Urantia_Book/50#p2_7))
 
-> _On an average evolutionary planet the six evolutionary races of color appear one by one; the red man is the first to evolve, and for ages he roams the world before the succeeding colored races make their appearance. The simultaneous emergence of all six races on Urantia, *and in one family,* was most unusual._ ([UB 64:6.1](/en/The_Urantia_Book/64#p6_1))
+> _On an average evolutionary planet the six evolutionary races of color appear one by one; the red man is the first to evolve, and for ages he roams the world before the succeeding colored races make their appearance. The simultaneous emergence of all six races on Urantia, *and in one family,* was most unusual._ (<a id="a53_316"></a>[UB 64:6.1](/en/The_Urantia_Book/64#p6_1))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV24/12.jpg">
 </figure>
 
-> _The appearance of the earlier Andonites on Urantia was also something new in Satania. On no other world in the local system has such a race of will creatures evolved in advance of the evolutionary races of color._ ([UB 64:6.2](/en/The_Urantia_Book/64#p6_2))
+> _The appearance of the earlier Andonites on Urantia was also something new in Satania. On no other world in the local system has such a race of will creatures evolved in advance of the evolutionary races of color._ (<a id="a59_218"></a>[UB 64:6.2](/en/The_Urantia_Book/64#p6_2))
 
-> _There were many unique features of the Urantia life experiment, but the two outstanding episodes were the appearance of the Andonic race prior to the evolution of the six colored peoples and the later simultaneous appearance of the Sangik mutants in a single family. Urantia is the first world in Satania where the six colored races sprang from the same human family. They ordinarily arise in diversified strains from independent mutations within the prehuman animal stock and usually appear on earth one at a time and successively over long periods of time, beginning with the red man and passing on down through the colors to indigo._ ([UB 65:4.7](/en/The_Urantia_Book/65#p4_7))
+> _There were many unique features of the Urantia life experiment, but the two outstanding episodes were the appearance of the Andonic race prior to the evolution of the six colored peoples and the later simultaneous appearance of the Sangik mutants in a single family. Urantia is the first world in Satania where the six colored races sprang from the same human family. They ordinarily arise in diversified strains from independent mutations within the prehuman animal stock and usually appear on earth one at a time and successively over long periods of time, beginning with the red man and passing on down through the colors to indigo._ (<a id="a61_641"></a>[UB 65:4.7](/en/The_Urantia_Book/65#p4_7))
 
-> _Another outstanding variation of procedure was the late arrival of the Planetary Prince. As a rule, the prince appears on a planet about the time of will development; and if such a plan had been followed, Caligastia might have come to Urantia even during the lifetimes of Andon and Fonta instead of almost five hundred thousand years later, simultaneously with the appearance of the six Sangik races._ ([UB 65:4.8](/en/The_Urantia_Book/65#p4_8))
+> _Another outstanding variation of procedure was the late arrival of the Planetary Prince. As a rule, the prince appears on a planet about the time of will development; and if such a plan had been followed, Caligastia might have come to Urantia even during the lifetimes of Andon and Fonta instead of almost five hundred thousand years later, simultaneously with the appearance of the six Sangik races._ (<a id="a63_406"></a>[UB 65:4.8](/en/The_Urantia_Book/65#p4_8))
 
-> _On an ordinary inhabited world a Planetary Prince would have been granted on the request of the Life Carriers at, or sometime after, the appearance of Andon and Fonta. But Urantia having been designated a life-modification planet, it was by preagreement that the Melchizedek observers, twelve in number, were sent as advisers to the Life Carriers and as overseers of the planet until the subsequent arrival of the Planetary Prince. These Melchizedeks came at the time Andon and Fonta made the decisions which enabled Thought Adjusters to indwell their mortal minds._ ([UB 65:4.9](/en/The_Urantia_Book/65#p4_9))
+> _On an ordinary inhabited world a Planetary Prince would have been granted on the request of the Life Carriers at, or sometime after, the appearance of Andon and Fonta. But Urantia having been designated a life-modification planet, it was by preagreement that the Melchizedek observers, twelve in number, were sent as advisers to the Life Carriers and as overseers of the planet until the subsequent arrival of the Planetary Prince. These Melchizedeks came at the time Andon and Fonta made the decisions which enabled Thought Adjusters to indwell their mortal minds._ (<a id="a65_571"></a>[UB 65:4.9](/en/The_Urantia_Book/65#p4_9))
 
-> _It was our intention to produce an early manifestation of will in the evolutionary life of Urantia, and we succeeded. Ordinarily, will does not emerge until the colored races have long been in existence, usually first appearing among the superior types of the red man. Your world is the only planet in Satania where the human type of will has appeared in a precolored race._ ([UB 65:4.11](/en/The_Urantia_Book/65#p4_11))
+> _It was our intention to produce an early manifestation of will in the evolutionary life of Urantia, and we succeeded. Ordinarily, will does not emerge until the colored races have long been in existence, usually first appearing among the superior types of the red man. Your world is the only planet in Satania where the human type of will has appeared in a precolored race._ (<a id="a67_379"></a>[UB 65:4.11](/en/The_Urantia_Book/65#p4_11))
 
 But the Planetary Prince arrived on Urantia almost half a million years after the appearance of the human will.
 
-> _About five hundred thousand years ago and concurrent with the appearance of the six colored or Sangik races, Caligastia, the Planetary Prince, arrived on Urantia. There were almost one-half billion primitive human beings on earth at the time of the Prince’s arrival, and they were well scattered over Europe, Asia, and Africa. The Prince’s headquarters, established in Mesopotamia, was at about the center of world population._ ([UB 66:0.2](/en/The_Urantia_Book/66#p0_2))
+> _About five hundred thousand years ago and concurrent with the appearance of the six colored or Sangik races, Caligastia, the Planetary Prince, arrived on Urantia. There were almost one-half billion primitive human beings on earth at the time of the Prince’s arrival, and they were well scattered over Europe, Asia, and Africa. The Prince’s headquarters, established in Mesopotamia, was at about the center of world population._ (<a id="a71_432"></a>[UB 66:0.2](/en/The_Urantia_Book/66#p0_2))
 
 <ins>Process in a normal world:</ins>
 
@@ -110,3 +134,28 @@ everything is used. Surely from everything they learned with us, from our blunde
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The unification of the personality (first part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-24-march-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 24 — March 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_9">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

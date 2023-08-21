@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — May 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Gema_Villa">
+          <span class="pr-2">Urantia Questionnaire: Gema Villa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -29,7 +53,7 @@ To Nicodemus's perplexity, Jesus replied:
 
 > “Already does the spirit of the Father in heaven indwell you. If you would be led by this spirit from above, very soon would you begin to see with the eyes of the spirit, and then by the wholehearted choice of spirit guidance would you be born of the spirit since your only purpose in living would be to do the will of your Father who is in heaven. And so finding yourself born of the spirit and happily in the kingdom of God, you would begin to bear in your daily life the abundant fruits of the spirit.”
 > 
-> Nicodemus was thoroughly sincere. He was deeply impressed but went away bewildered. Nicodemus was accomplished in self-development, in self-restraint, and even in high moral qualities. He was refined, egoistic, and altruistic; but **he did not know how to *submit* his will to the will of the divine Father as a little child is willing to submit to the guidance and leading of a wise and loving earthly father, thereby becoming in reality a son of God, a progressive heir of the eternal kingdom**. ([UB 142:6.7-8](/en/The_Urantia_Book/142#p6_7))
+> Nicodemus was thoroughly sincere. He was deeply impressed but went away bewildered. Nicodemus was accomplished in self-development, in self-restraint, and even in high moral qualities. He was refined, egoistic, and altruistic; but **he did not know how to *submit* his will to the will of the divine Father as a little child is willing to submit to the guidance and leading of a wise and loving earthly father, thereby becoming in reality a son of God, a progressive heir of the eternal kingdom**. (<a id="a55_501"></a>[UB 142:6.7-8](/en/The_Urantia_Book/142#p6_7))
 
 This radical change that implies submitting our will to a greater instance (stubborn reality forcefully shows us) is usually promoted by experiences of **suffering**; these are the ones that **most promote** awareness and spiritual evolution. This is so because of the upheavals (sometimes authentic seismic movements) that they make us experience. These removals have the virtue of taking us out of our comfort zone, from sterile distraction, from attachment to material comfort.
 
@@ -59,7 +83,7 @@ That closeness to the divine spark makes this great poet say something as beauti
 
 The connection with divinity is totally necessary, otherwise, the activity becomes an incessant whirlwind that keeps us trapped in the merely mundane or material, distracted like Marta (the sister of Lazarus and Mary), who according to the UB, had tendency to “disperse yourself with numerous unnecessary tasks and become overwhelmed with trivial concerns”.
 
-> As Martha busied herself with all these supposed duties, she was perturbed because Mary did nothing to help. Therefore she went to Jesus and said: “Master, do you not care that my sister has left me alone to do all of the serving? Will you not bid her to come and help me?” Jesus answered: “Martha, Martha, why are you always anxious about so many things and troubled by so many trifles? Only one thing is really worth while, and since Mary has chosen this good and needful part, I shall not take it away from her. But when will both of you learn to live as I have taught you: both serving in co-operation and both refreshing your souls in unison? Can you not learn that there is a time for everything—that the lesser matters of life should give way before the greater things of the heavenly kingdom?” ([UB 162:8.3](/en/The_Urantia_Book/162#p8_3))
+> As Martha busied herself with all these supposed duties, she was perturbed because Mary did nothing to help. Therefore she went to Jesus and said: “Master, do you not care that my sister has left me alone to do all of the serving? Will you not bid her to come and help me?” Jesus answered: “Martha, Martha, why are you always anxious about so many things and troubled by so many trifles? Only one thing is really worth while, and since Mary has chosen this good and needful part, I shall not take it away from her. But when will both of you learn to live as I have taught you: both serving in co-operation and both refreshing your souls in unison? Can you not learn that there is a time for everything—that the lesser matters of life should give way before the greater things of the heavenly kingdom?” (<a id="a85_805"></a>[UB 162:8.3](/en/The_Urantia_Book/162#p8_3))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-2.jpg" alt="Editorial mayo 22 - 2">
@@ -71,7 +95,7 @@ These two aspects, the inner and the outer, have their place in life; and they m
 
 This aspect is closely linked to the famous mandate of Jesus' last supper:
 
-> And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. ([UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
+> And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. (<a id="a97_181"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
 
 Jesus has loved us so deeply, knowing the great value that human beings have, with a divine spark and a soul unfolding in our thoughts, that he also invites us to realize his existence in all other human beings, as they exist in us. themselves.
 
@@ -91,7 +115,7 @@ Living pouring out good is within our reach, it is within your reach... because 
 
 Let us make a commitment to ourselves not to live in any other way, to live our moments in the way that **Jesus of Nazareth showed us:**
 
-> The very heart of the prayer which he taught his disciples was, “Your kingdom come; your will be done.” ([UB 196:0.8](/en/The_Urantia_Book/196#p0_8))
+> The very heart of the prayer which he taught his disciples was, “Your kingdom come; your will be done.” (<a id="a117_107"></a>[UB 196:0.8](/en/The_Urantia_Book/196#p0_8))
 
 Having thus conceived that the kingdom consisted of the will of God, he devoted himself to the cause of making it come true with admirable self-forgetfulness and boundless enthusiasm.
 
@@ -99,3 +123,28 @@ Having thus conceived that the kingdom consisted of the will of God, he devoted 
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — May 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Gema_Villa">
+          <span class="pr-2">Urantia Questionnaire: Gema Villa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Horacio Gamboa<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Thought Adjusters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_Evolucion">
+          <span class="pr-2">Convergences and divergences: evolution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -45,7 +69,7 @@ Individuals abandoned by their Adjusters can continue to work, even in positions
 
 He is surely very astute in selecting humans of superior intelligence who are willing to break away from their Adjusters, turn their backs on God, and join the rebellion. Turning your back on God, you could almost say it's all the rage these days. That small group could be the one that made the link with the largest number of humans. Be careful, surely the secret would be the key to carry out his perverse intentions, and humans like secrets a lot and belong to secret groups and he knows it, because he has been knowing humans for thousands of years. In addition to these direct methods of influence, they also warn us about Caligastia's ability to work with “BLIND AGENTS,” sincere individuals who believe they are doing the right thing, like Serapatatia. Serapatatia was completely correct, honest and competent, sincere in all his activities, and was never aware, even afterwards, that the cunning Caligastia was using him as a side tool. Therefore, you have to be very shrewd and alert so as not to fall into a trap of this stubborn character, who has to be impressive, bright and powerful. ASTUTE AS SNAKES AND HARMLESS AS DOVES.
 
-> “Caligastia, your apostate Planetary Prince, is still free on Urantia” ([UB 53:8.6](/en/The_Urantia_Book/53#p8_6))
+> “Caligastia, your apostate Planetary Prince, is still free on Urantia” (<a id="a71_74"></a>[UB 53:8.6](/en/The_Urantia_Book/53#p8_6))
 
 In order to keep the doors of the ascension to Paradise open to the beings of Norlatiadec, it was necessary to facilitate the full development of the rebellion, and ensure the full definition of the attitude of all the beings involved in it in some way. “Full Definition of Attitude” leaves no room for nuances. “All beings involved in any way in it” would again include all mortals, present and future.
 
@@ -53,13 +77,13 @@ The rebellion is fully settled in superhuman terms, but not in the mortal realm.
 
 How long will it be before sin and wickedness are no longer found on Urantia?
 
-This passage suggests 100,000 years of our time: _And yet that would be nearer a comparison with the length of Lucifer’s life even if his adjudication, now begun, should not be completed for a hundred thousand Urantia years..._ [UB 54:5.13](/en/The_Urantia_Book/54#p5_13)
+This passage suggests 100,000 years of our time: _And yet that would be nearer a comparison with the length of Lucifer’s life even if his adjudication, now begun, should not be completed for a hundred thousand Urantia years..._ <a id="a79_228"></a>[UB 54:5.13](/en/The_Urantia_Book/54#p5_13)
 
 The following two passages, when combined, suggest 800,000 years:
 
-> _The entire Uversa corps of counselors concurred in advising Gabriel to permit the rebellion to take its full and natural course, even if it should require a million years to wind up the consequences._ ([UB 54:5.12](/en/The_Urantia_Book/54#p5_12))
+> _The entire Uversa corps of counselors concurred in advising Gabriel to permit the rebellion to take its full and natural course, even if it should require a million years to wind up the consequences._ (<a id="a83_205"></a>[UB 54:5.12](/en/The_Urantia_Book/54#p5_12))
 
-> _. . .the case of Gabriel *vs.* Lucifer, placed on the records of the Uversa supreme court almost two hundred thousand years ago, as you reckon time._ ([UB 53:9.3](/en/The_Urantia_Book/53#p9_3))
+> _. . .the case of Gabriel *vs.* Lucifer, placed on the records of the Uversa supreme court almost two hundred thousand years ago, as you reckon time._ (<a id="a85_154"></a>[UB 53:9.3](/en/The_Urantia_Book/53#p9_3))
 
 1,000,000 years (total time estimate) minus 200,000 years (time elapsed so far) = 800,000 years.
 
@@ -81,3 +105,28 @@ Puerto Varas, Chilean Patagonia.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Thought Adjusters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_Evolucion">
+          <span class="pr-2">Convergences and divergences: evolution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

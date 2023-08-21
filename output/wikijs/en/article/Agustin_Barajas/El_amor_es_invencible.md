@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Agustín Barajas<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections for Readers of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-38-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 38 — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Dios_si_Dios_no">
+          <span class="pr-2">God yes, God no</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -43,3 +67,28 @@ Because he came out of there.<br>
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections for Readers of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-38-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 38 — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Dios_si_Dios_no">
+          <span class="pr-2">God yes, God no</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

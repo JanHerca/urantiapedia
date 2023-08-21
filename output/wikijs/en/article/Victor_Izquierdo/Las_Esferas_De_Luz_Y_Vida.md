@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Víctor Izquierdo<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The mansion worlds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="pr-2">The evolution of prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -40,7 +64,7 @@ Any world can achieve the planetary values of any stage independently of the dev
 
 _The morontia temple_: the presence of the morontia temple is the certificate of admission in the ages of light and life. The Teacher Sons preside over the day the holy temple descends to earth, before they leave that world at the end of their mission.
 
-This event is always honored with the presence of the Paradise Son of Effusion on said planet, and marks the beginning of the Age of Light and Life. This Son proclaims the Planetary Prince as the new Planetary Sovereign, granting this Lanonandek Son new powers and greater authority over planetary affairs. The System Sovereign is also present and confirms these statements ([UB 45:2.2](/en/The_Urantia_Book/45#p2_2)).
+This event is always honored with the presence of the Paradise Son of Effusion on said planet, and marks the beginning of the Age of Light and Life. This Son proclaims the Planetary Prince as the new Planetary Sovereign, granting this Lanonandek Son new powers and greater authority over planetary affairs. The System Sovereign is also present and confirms these statements (<a id="a66_375"></a>[UB 45:2.2](/en/The_Urantia_Book/45#p2_2)).
 
 The morontia temple is made up of 3 parts:
 - Central: Sanctuary of the Paradise Son of Effusion
@@ -146,3 +170,28 @@ As the Book tells us, true religion is a way of life. The sample was given to us
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The mansion worlds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="pr-2">The evolution of prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_cuanto_en_llegar_al_Paraiso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and Divergences: How long does it take to get to Paradise?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_17">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -97,3 +121,28 @@ What does seem a bit mysterious to me is that no organized religion has seriousl
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_cuanto_en_llegar_al_Paraiso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and Divergences: How long does it take to get to Paradise?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_17">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

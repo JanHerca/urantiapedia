@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Santiago Rodríguez and Olga López<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jordi_Cantos/Melodias_para_el_alma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Melodies for the soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Carrera_and_Olga_Lopez/Los_Debates">
+          <span class="pr-2">The discussions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 These are the questions that we posed to those attending the Meeting, and around which both the study and the debates were structured:
@@ -17,9 +41,9 @@ These are the questions that we posed to those attending the Meeting, and around
 
 Like everything we know in nature, religion is not something static: it evolves. This document reveals that we have two different and complementary sources that allow us to obtain information and adapt it to our own evolutionary process, both personal and social; we have a natural religion and a revealed religion. This document gives us an outline of what the main religious movements on our planet have meant over time and proposes evolutionary challenges for the immediate future.
 
-> _MAN possessed a religion of natural origin as a part of his evolutionary experience long before any systematic revelations were made on Urantia. But this religion of *natural* origin was, in itself, the product of man’s superanimal endowments._ ([UB 92:0.1](/en/The_Urantia_Book/92#p0_1))
+> _MAN possessed a religion of natural origin as a part of his evolutionary experience long before any systematic revelations were made on Urantia. But this religion of *natural* origin was, in itself, the product of man’s superanimal endowments._ (<a id="a43_249"></a>[UB 92:0.1](/en/The_Urantia_Book/92#p0_1))
 
-> _The co-ordinate functioning of these three divine ministrations [the helper of worship, the helper of wisdom, the Holy Spirit] is quite sufficient to initiate and prosecute the growth of evolutionary religion. These influences are later augmented by Thought Adjusters, seraphim, and the Spirit of Truth, all of which accelerate the rate of religious development._ ([UB 92:0.5](/en/The_Urantia_Book/92#p0_5))
+> _The co-ordinate functioning of these three divine ministrations [the helper of worship, the helper of wisdom, the Holy Spirit] is quite sufficient to initiate and prosecute the growth of evolutionary religion. These influences are later augmented by Thought Adjusters, seraphim, and the Spirit of Truth, all of which accelerate the rate of religious development._ (<a id="a45_368"></a>[UB 92:0.5](/en/The_Urantia_Book/92#p0_5))
 
 In view of what has been stated in these paragraphs, why are there people who define themselves and feel like “non-believers”, and many others who act outside the religious concept despite the apparent universality of religion in the experience of being? human?
 
@@ -27,11 +51,11 @@ In view of what has been stated in these paragraphs, why are there people who de
 
 (3) In our current society, when we want to appeal to the most sacred, to the deepest and most authentic of each one of us, we use the expression: “in conscience”. Thus, we vote or decide in conscience. In this document we find the following paragraph:
 
-> _Religion has at one time or another sanctioned all sorts of contrary and inconsistent behavior, has at some time approved of practically all that is now regarded as immoral or sinful. Conscience, untaught by experience and unaided by reason, never has been, and never can be, a safe and unerring guide to human conduct. Conscience is not a divine voice speaking to the human soul. It is merely the sum total of the moral and ethical content of the mores of any current stage of existence; it simply represents the humanly conceived ideal of reaction in any given set of circumstances._ ([UB 92:2.6](/en/The_Urantia_Book/92#p2_6))
+> _Religion has at one time or another sanctioned all sorts of contrary and inconsistent behavior, has at some time approved of practically all that is now regarded as immoral or sinful. Conscience, untaught by experience and unaided by reason, never has been, and never can be, a safe and unerring guide to human conduct. Conscience is not a divine voice speaking to the human soul. It is merely the sum total of the moral and ethical content of the mores of any current stage of existence; it simply represents the humanly conceived ideal of reaction in any given set of circumstances._ (<a id="a53_590"></a>[UB 92:2.6](/en/The_Urantia_Book/92#p2_6))
 
 In light of these qualifications, where should it be left, or what consideration does our own conscience deserve?
 
-> (4) _And this sacred heritage of animal ascent, evolutionary religion, must ever continue to be refined and ennobled by the continuous censorship of revealed religion and by the fiery furnace of genuine science._ ([UB 92:3.10](/en/The_Urantia_Book/92#p3_10))
+> (4) _And this sacred heritage of animal ascent, evolutionary religion, must ever continue to be refined and ennobled by the continuous censorship of revealed religion and by the fiery furnace of genuine science._ (<a id="a57_216"></a>[UB 92:3.10](/en/The_Urantia_Book/92#p3_10))
 
 We have already commented that the two types of religion (natural and revealed) serve to make us evolve, and that they themselves have to evolve; however, we always find great resistance to accepting them on the part of man. In the case of science or philosophy, or history, scholars propose, and among themselves they may or may not reach agreements, but ordinary people have no objection to accepting one proposal or another.
 
@@ -49,13 +73,13 @@ Why do you think that, despite the fact that religion leads us to good and beaut
 > _8. Jainism._
 > _9. Christianity._
 > _10. Islam._
-> _11. Sikhism—the most recent._ ([UB 92:6.2-13](/en/The_Urantia_Book/92#p6_2))
+> _11. Sikhism—the most recent._ (<a id="a75_34"></a>[UB 92:6.2-13](/en/The_Urantia_Book/92#p6_2))
 
 It is evident that on Urantia we have a wide variety of creeds and religions. And if we look at them a little carefully, we can find that the depths are very similar and when they are not, they are complementary.
 
 What do you think is what separates or diverges the different beliefs? Do you think it would be good or beneficial in general to maintain this diversity of faiths, or would it be better to tend towards just one? Whatever your opinion, how do you think UB would help in that direction?
 
-> (6) _There have been many events of religious revelation but only five of epochal significance. These were as follows:_ ([UB 92:4.4-9](/en/The_Urantia_Book/92#p4_4))
+> (6) _There have been many events of religious revelation but only five of epochal significance. These were as follows:_ (<a id="a81_123"></a>[UB 92:4.4-9](/en/The_Urantia_Book/92#p4_4))
 >
 > _1. *The Dalamatian teachings.* The true concept of the First Source and Center was first promulgated on Urantia _
 >
@@ -75,31 +99,31 @@ Human beings are social by nature. Religion has to be integrated into society, b
 
 In this document, the revelators show the weakness of institutionalized religions. They also show us that man has taken a step without turning back in the direction of religious liberation. We are in the difficult process of transition, and for it to be safe, we must understand the triangular relationships between religion, the individual, and the social group.
 
-> (1) _RELIGION achieves its highest social ministry when it has least connection with the secular institutions of society. In past ages, since social reforms were largely confined to the moral realms, religion did not have to adjust its attitude to extensive changes in economic and political systems. The chief problem of religion was the endeavor to replace evil with good within the existing social order of political and economic culture. Religion has thus indirectly tended to perpetuate the established order of society, to foster the maintenance of the existent type of civilization._ ([UB 99:0.1](/en/The_Urantia_Book/99#p0_1))
+> (1) _RELIGION achieves its highest social ministry when it has least connection with the secular institutions of society. In past ages, since social reforms were largely confined to the moral realms, religion did not have to adjust its attitude to extensive changes in economic and political systems. The chief problem of religion was the endeavor to replace evil with good within the existing social order of political and economic culture. Religion has thus indirectly tended to perpetuate the established order of society, to foster the maintenance of the existent type of civilization._ (<a id="a101_594"></a>[UB 99:0.1](/en/The_Urantia_Book/99#p0_1))
 
 Today religious institutions are very connected to secular institutions, and yet UB seems to promote a disconnect between the two. How to achieve this disconnection, how do you think it would benefit or harm us socially?
 
-> (2) _. . .This new and oncoming social order will not settle down complacently for a millennium. . . . Mankind is on the march toward a new and unrevealed planetary destiny._ ([UB 99:1.1](/en/The_Urantia_Book/99#p1_1))
+> (2) _. . .This new and oncoming social order will not settle down complacently for a millennium. . . . Mankind is on the march toward a new and unrevealed planetary destiny._ (<a id="a105_178"></a>[UB 99:1.1](/en/The_Urantia_Book/99#p1_1))
 
-> _Religion has no new duties to perform, but it is urgently called upon to function as a wise guide and experienced counselor in all of these new and rapidly changing human situations._ ([UB 99:1.4](/en/The_Urantia_Book/99#p1_4))
+> _Religion has no new duties to perform, but it is urgently called upon to function as a wise guide and experienced counselor in all of these new and rapidly changing human situations._ (<a id="a107_188"></a>[UB 99:1.4](/en/The_Urantia_Book/99#p1_4))
 
 Sometimes it has been commented that the 5th revelation is for the next millennium. Do you think that this supposed millennium of changes, of transition, will be protected by the teachings of the UB? How can they guide social changes and stay out of social institutions?
 
-> (3) _Religionists must function in society, in industry, and in politics as individuals, not as groups, parties, or institutions. A religious group which presumes to function as such, apart from religious activities, immediately becomes a political party, an economic organization, or a social institution. Religious collectivism must confine its efforts to the furtherance of religious causes._ ([UB 99:2.3](/en/The_Urantia_Book/99#p2_3))
+> (3) _Religionists must function in society, in industry, and in politics as individuals, not as groups, parties, or institutions. A religious group which presumes to function as such, apart from religious activities, immediately becomes a political party, an economic organization, or a social institution. Religious collectivism must confine its efforts to the furtherance of religious causes._ (<a id="a111_399"></a>[UB 99:2.3](/en/The_Urantia_Book/99#p2_3))
 
 It seems that “religious collectivism” may exist, but we are asked to differentiate the goals of religious groups from secular groups. Would you be able to differentiate the activities of each group?
 
-> (4) _The church, because of overmuch false sentiment, has long ministered to the underprivileged and the unfortunate, and this has all been well, but this same sentiment has led to the unwise perpetuation of racially degenerate stocks which have tremendously retarded the progress of civilization._ ([UB 99:3.5](/en/The_Urantia_Book/99#p3_5))
+> (4) _The church, because of overmuch false sentiment, has long ministered to the underprivileged and the unfortunate, and this has all been well, but this same sentiment has led to the unwise perpetuation of racially degenerate stocks which have tremendously retarded the progress of civilization._ (<a id="a115_302"></a>[UB 99:3.5](/en/The_Urantia_Book/99#p3_5))
 
 What do you think should have been or should be the attitude of social or religious groups towards these social groups?
 
-> (5) _Religionists, as a group, must never concern themselves with anything but *religion,* albeit any one such religionist, as an individual citizen, may become the outstanding leader of some social, economic, or political reconstruction movement._ ([UB 99:3.15](/en/The_Urantia_Book/99#p3_15))
+> (5) _Religionists, as a group, must never concern themselves with anything but *religion,* albeit any one such religionist, as an individual citizen, may become the outstanding leader of some social, economic, or political reconstruction movement._ (<a id="a119_252"></a>[UB 99:3.15](/en/The_Urantia_Book/99#p3_15))
 
-> _It is the business of religion to create, sustain, and inspire such a cosmic loyalty in the individual citizen as will direct him to the achievement of success in the advancement of all these difficult but desirable social services._ ([UB 99:3.16](/en/The_Urantia_Book/99#p3_16))
+> _It is the business of religion to create, sustain, and inspire such a cosmic loyalty in the individual citizen as will direct him to the achievement of success in the advancement of all these difficult but desirable social services._ (<a id="a121_238"></a>[UB 99:3.16](/en/The_Urantia_Book/99#p3_16))
 
 There are many leaders in the world and of many types, but do you think it will be easier to make existing leaders approach religious ideals with interest and thus guide society, or would it be easier for people who have found inspiration in the UB try to emerge as social leaders in different areas of the community?
 
-> (6) _Jesus did not require of his followers that they should periodically assemble and recite a form of words indicative of their common beliefs. He only ordained that they should gather together to actually *do something—*partake of the communal supper of the remembrance of his bestowal life on Urantia._ ([UB 99:5.10](/en/The_Urantia_Book/99#p5_10))
+> (6) _Jesus did not require of his followers that they should periodically assemble and recite a form of words indicative of their common beliefs. He only ordained that they should gather together to actually *do something—*partake of the communal supper of the remembrance of his bestowal life on Urantia._ (<a id="a125_310"></a>[UB 99:5.10](/en/The_Urantia_Book/99#p5_10))
 
 We all know the ritual of the mass that Catholic Christians celebrate. In the light of these reflections, comment on the possible value or convenience of the existence of religious groups and what activities would be desirable for them to develop, such as group prayer/request, group adoration, etc.
 
@@ -125,7 +149,7 @@ In this document, religious and spiritual growth is considered first, the proble
 <img src="/image/article/Luz_y_Vida/LyV25/06.jpg">
 </figure>
 
-“Religion is faith, trust and security” ([UB 101:0.3](/en/The_Urantia_Book/101#p0_3)) This phrase appears in the introduction to this document, where the keys are given to identify the true religion, the religion that liberates the human being, as opposed to the mere belief or intellectual assent to a religious doctrine. In the study of this document, we will try to discern what is the authentic religious experience and the rewards that revealed religion offers us.
+“Religion is faith, trust and security” (<a id="a151_41"></a>[UB 101:0.3](/en/The_Urantia_Book/101#p0_3)) This phrase appears in the introduction to this document, where the keys are given to identify the true religion, the religion that liberates the human being, as opposed to the mere belief or intellectual assent to a religious doctrine. In the study of this document, we will try to discern what is the authentic religious experience and the rewards that revealed religion offers us.
 
 1. In the first section, “True Religion”, there is a lot of emphasis on what is NOT religion, and progress is made towards a positive definition of religion (what IS religion). What would your personal definition of religion be, based on what is said in this section?
 
@@ -143,3 +167,28 @@ In this document, religious and spiritual growth is considered first, the proble
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jordi_Cantos/Melodias_para_el_alma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Melodies for the soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Carrera_and_Olga_Lopez/Los_Debates">
+          <span class="pr-2">The discussions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

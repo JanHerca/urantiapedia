@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Carlos Rubinsky<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -17,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Choosing a favorite quote to discuss with you is really very difficult, since there are many “favorites” that have emerged over the years as I read and reread this wonderful Revelation, but today I choose the following:
 
-> Do not try to satisfy the curiosity or gratify all the latent adventure surging within the soul in one short life in the flesh. Be patient! be not tempted to indulge in a lawless plunge into cheap and sordid adventure. Harness your energies and bridle your passions; be calm while you await the majestic unfolding of an endless career of progressive adventure and thrilling discovery. ([UB 195:5.10](/en/The_Urantia_Book/195#p5_10))
+> Do not try to satisfy the curiosity or gratify all the latent adventure surging within the soul in one short life in the flesh. Be patient! be not tempted to indulge in a lawless plunge into cheap and sordid adventure. Harness your energies and bridle your passions; be calm while you await the majestic unfolding of an endless career of progressive adventure and thrilling discovery. (<a id="a40_388"></a>[UB 195:5.10](/en/The_Urantia_Book/195#p5_10))
 
 This is one of the quotes I call “advice.” We have in the book a lot of information; a new cosmology, new paradigms, new ways of thinking about Deity and how to get closer and closer to the Universal Father and his extensive heavenly family; also information on science, history, philosophy, and other aspects of Revelation. And we have thoughts that give us advice to apply today in the here and now. Like the quote I just copied.
 
@@ -59,3 +80,25 @@ Carlos Rubinsky
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/10/30/mi-parrafo-favorito-13/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2022 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

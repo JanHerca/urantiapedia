@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Channeling: error, truth, illusion or innocence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco">
+          <span class="pr-2">Urantia Questionnaire: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Although the fact of evolution is widely accepted today as the way in which the species of living beings we know of have come into being, and certainly _The Urantia Book_ and established science converge on the idea, they also converge on the fact. that evolution is directed by an adaptation to the environment and by a selection favored by appropriate mutations, which implies that all living beings have a “UBCA”, that is, a universal common ancestor.
@@ -40,3 +64,28 @@ In the following diagram, a series of milestones in evolutionary history appear,
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Channeling: error, truth, illusion or innocence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco">
+          <span class="pr-2">Urantia Questionnaire: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

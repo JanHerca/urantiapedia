@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Santiago Rodríguez<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Little_things_of_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life's little things</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/Reflexiones_sobre_la_paz_en_Urantia">
+          <span class="pr-2">Reflections on Peace on Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Possible endorsement of the Standard Particle Model and possible divergence with the UB_
@@ -35,21 +59,21 @@ Regarding the possible convergences or divergences with the UB, what we can esta
 
 Although the UB states:
 
-> _Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia._ ([UB 42:4.1](/en/The_Urantia_Book/42#p4_1))
+> _Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia._ (<a id="a61_200"></a>[UB 42:4.1](/en/The_Urantia_Book/42#p4_1))
 
 What evidently converges with the intention of unification in the previously exposed science.
 
 Our UB talks about electrons in the following terms:
 
-> _1. Ultimatonic matter—the prime physical units of material existence, the energy particles which go to make up electrons._ ([UB 42:3.3](/en/The_Urantia_Book/42#p3_3))
+> _1. Ultimatonic matter—the prime physical units of material existence, the energy particles which go to make up electrons._ (<a id="a67_127"></a>[UB 42:3.3](/en/The_Urantia_Book/42#p3_3))
 
-> _Gravity presence and action . . .The most nearly empty space known in Nebadon would yield about one hundred ultimatons—the equivalent of one electron—in each cubic inch. Such scarcity of matter is regarded as practically empty space._ ([UB 42:4.6](/en/The_Urantia_Book/42#p4_6))
+> _Gravity presence and action . . .The most nearly empty space known in Nebadon would yield about one hundred ultimatons—the equivalent of one electron—in each cubic inch. Such scarcity of matter is regarded as practically empty space._ (<a id="a69_239"></a>[UB 42:4.6](/en/The_Urantia_Book/42#p4_6))
 
-> _2. *Ultimatonic rays.* The assembly of energy into the minute spheres of the ultimatons . . . As the ultimatons aggregate into electrons, condensation occurs with a consequent storage of energy._ ([UB 42:5.4](/en/The_Urantia_Book/42#p5_4))
+> _2. *Ultimatonic rays.* The assembly of energy into the minute spheres of the ultimatons . . . As the ultimatons aggregate into electrons, condensation occurs with a consequent storage of energy._ (<a id="a71_200"></a>[UB 42:5.4](/en/The_Urantia_Book/42#p5_4))
 
-> _The ultimatons, unknown on Urantia, slow down through many phases of physical activity before they attain the revolutionary-energy prerequisites to electronic organization. Ultimatons have three varieties of motion: mutual resistance to cosmic force, individual revolutions of antigravity potential, and the intraelectronic positions of the one hundred mutually interassociated ultimatons._ ([UB 42:6.4](/en/The_Urantia_Book/42#p6_4))
+> _The ultimatons, unknown on Urantia, slow down through many phases of physical activity before they attain the revolutionary-energy prerequisites to electronic organization. Ultimatons have three varieties of motion: mutual resistance to cosmic force, individual revolutions of antigravity potential, and the intraelectronic positions of the one hundred mutually interassociated ultimatons._ (<a id="a73_395"></a>[UB 42:6.4](/en/The_Urantia_Book/42#p6_4))
 
-> _Mutual attraction holds one hundred ultimatons together in the constitution of the electron; and there are never more nor less than one hundred ultimatons in a typical electron. The loss of one or more ultimatons destroys typical electronic identity, thus bringing into existence one of the ten modified forms of the electron._ ([UB 42:6.5](/en/The_Urantia_Book/42#p6_5))
+> _Mutual attraction holds one hundred ultimatons together in the constitution of the electron; and there are never more nor less than one hundred ultimatons in a typical electron. The loss of one or more ultimatons destroys typical electronic identity, thus bringing into existence one of the ten modified forms of the electron._ (<a id="a75_332"></a>[UB 42:6.5](/en/The_Urantia_Book/42#p6_5))
 
 Which diverges from the idea of the Standard Model, which does not establish a composite structure for the electron.
 
@@ -61,3 +85,28 @@ The divergence seems to be confirmed for the moment since, although the UB is al
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Little_things_of_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life's little things</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/Reflexiones_sobre_la_paz_en_Urantia">
+          <span class="pr-2">Reflections on Peace on Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

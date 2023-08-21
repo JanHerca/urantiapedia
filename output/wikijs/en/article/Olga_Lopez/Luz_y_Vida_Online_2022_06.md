@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="pr-2">Luz y Vida — June 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -85,7 +106,7 @@ This work is actually a summary of one of the appendices of the work of William 
 
 [**Freedom (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
 
-In this short article, which the author defines as a hymn to freedom, this quote from _The Urantia Book_ is analyzed: “As you ascend through the personality ladder, you first learn to be loyal, then to love, then to be affiliated, and then you can be free” [UB 39:4.11](/en/The_Urantia_Book/39#p4_11). The author exposes each of the points that leads us to be free (to be loyal, to love, to be filial) relying on other quotes from the book, as well as the reflections that each of these stages provokes in him. In the words of the author, to be free «is to live in the most total security. It is knowing that nothing bad can happen to us and that all superhuman and personal forces contribute to our happiness. All our physical or mental fears disappear, including the last fear that may be left behind the others: the fear of not being able to love.
+In this short article, which the author defines as a hymn to freedom, this quote from _The Urantia Book_ is analyzed: “As you ascend through the personality ladder, you first learn to be loyal, then to love, then to be affiliated, and then you can be free” <a id="a108_257"></a>[UB 39:4.11](/en/The_Urantia_Book/39#p4_11). The author exposes each of the points that leads us to be free (to be loyal, to love, to be filial) relying on other quotes from the book, as well as the reflections that each of these stages provokes in him. In the words of the author, to be free «is to live in the most total security. It is knowing that nothing bad can happen to us and that all superhuman and personal forces contribute to our happiness. All our physical or mental fears disappear, including the last fear that may be left behind the others: the fear of not being able to love.
 <br style="clear:both" />
 
 ---
@@ -303,3 +324,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="pr-2">Luz y Vida — June 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Experiencias_en_la_diseminacion_del_libro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiences in the dissemination of the book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-33-june-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 33 — June 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Meeting of The Blue Club Frankfurt (Germany), April 27 and 28, 2013
@@ -57,3 +78,25 @@ If you are interested in participating in this mailing list, you just have to se
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Experiencias_en_la_diseminacion_del_libro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiences in the dissemination of the book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-33-june-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 33 — June 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

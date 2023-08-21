@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Diego V. Seoane<br>© 2006 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton and the Milky Way (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-7-december-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 7 — December 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_Alberto_Wonsover/La_Aventura_de_Vivir">
+          <span class="pr-2">The adventure of living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In the name of God, the Compassionate, the Merciful! Praised be God, Lord of the Universes.
@@ -77,3 +101,28 @@ The Peace of God be with you.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton and the Milky Way (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-7-december-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 7 — December 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_Alberto_Wonsover/La_Aventura_de_Vivir">
+          <span class="pr-2">The adventure of living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

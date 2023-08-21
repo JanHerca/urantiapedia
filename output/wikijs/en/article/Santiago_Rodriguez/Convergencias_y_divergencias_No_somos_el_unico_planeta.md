@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Santiago Rodríguez<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The unification of the personality (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-26-september-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 26 — September 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Simposio_de_Liderazgo_de_la_AUI">
+          <span class="pr-2">UAI Leadership Symposium and News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I would like to inaugurate this section, in which I will be placing scientific, sociological or other reviews of any kind, and where we will try to locate advances in knowledge that somehow reflect the direction indicated by UB himself.
 
-It is not my intention that the credibility of the contents expressed in the UB are subject to the fact that the advancement of knowledge, of human knowledge, reveals ideas that are consistent with the ideas of a scientific nature that dot those contents. I refer in this regard to the very statement of the limitations of revelation ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2) “The limitations of revelation, Doc. 101, «The true nature of religion”).
+It is not my intention that the credibility of the contents expressed in the UB are subject to the fact that the advancement of knowledge, of human knowledge, reveals ideas that are consistent with the ideas of a scientific nature that dot those contents. I refer in this regard to the very statement of the limitations of revelation (<a id="a39_335"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2) “The limitations of revelation, Doc. 101, «The true nature of religion”).
 
 Nor does it make sense, and therefore I do not intend to, to speculate on specific data that may be considerably altered over time; I will only outline ideas or generalities of various facets of knowledge that in one way or another fit into the ideas and philosophy shown in the contents of the UB.
 
@@ -50,3 +74,28 @@ This is the inevitable first step in the search for extraterrestrial life. We ha
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The unification of the personality (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-26-september-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 26 — September 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Simposio_de_Liderazgo_de_la_AUI">
+          <span class="pr-2">UAI Leadership Symposium and News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

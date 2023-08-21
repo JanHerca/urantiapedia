@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01">
+          <span class="pr-2">Luz y Vida — January 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -48,7 +69,7 @@ There is a beautiful legend of medieval origin that tells the story of a theolog
 
 This problem, trying to understand with our little mortal mind the mystery of God, was a real challenge for the revelators who had been working for years on the writing of _The Urantia Book_. At the very beginning of the book, the Prologue, already announces it to us:
 
-> “It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue.” ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> “It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue.” (<a id="a71_362"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01)
 <br style="clear:both" />
@@ -241,7 +262,7 @@ M. Helena Banas
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/Mi-parrafo-favorito-ene-22.jpg" alt="Mi párrafo favorito - ene 2022">
 </figure>
 
-> “. . . Immortality is the goal of sincerity; . . . Those who are earnest die not;” ([UB 131:3.7](/en/The_Urantia_Book/131#p3_7))
+> “. . . Immortality is the goal of sincerity; . . . Those who are earnest die not;” (<a id="a264_86"></a>[UB 131:3.7](/en/The_Urantia_Book/131#p3_7))
 
 Like many other readers, there are numerous quotes that I could have chosen as a favorite to comment on, as _The Urantia Book_ is full of true _pearls_ of wisdom that often captivate and thrill us. But I chose this one about **_sincerity_** because of the importance of this value in our lives and in our ascension through the universe, and because of the lack of sincerity in the world.
 
@@ -249,13 +270,13 @@ _Sinceridad_ appears as many times in the book as _truth or love._ It derives fr
 
 As we can see, sincerity is at the root of many other moral virtues and implies nobility in our relationships, both with others and with ourselves. And this is very important and a great liberation because being sincere increases our self-esteem, makes us abandon many “pretend” poses or the desire to be another person and, once we accept ourselves as we are with total honesty, we can begin to improve our defects and improve. Align with our actions. Others will see us as someone they can trust, too, and we'll provide a solid foundation for any friendship, including a friendship with God.
 
-Being sincere also implies a balance in our relationships, since excessive sincerity can harm the other: “_...sincerity fulfills its best function in the work of the kingdom when it is united with discretion_” [UB 181:2.21](/en/The_Urantia_Book/181#p2_21)
+Being sincere also implies a balance in our relationships, since excessive sincerity can harm the other: “_...sincerity fulfills its best function in the work of the kingdom when it is united with discretion_” <a id="a272_210"></a>[UB 181:2.21](/en/The_Urantia_Book/181#p2_21)
 
 Discretion and sincerity must therefore go hand in hand, and we must encourage and preserve in the little ones that innate quality that they possess, but at the same time we must warn them soon that they should not say everything they think, even if it is true, and that they must be prudent and act with others as they would like them to act with them. We must not forget it either.
 
 And most importantly: without sincerity, without that attitude of little children that Jesus praised so much, we will not be able to know God in our personal experience, experience it, feel it... we can only believe in Him through faith; that is why sincerity is the key to the kingdom of heaven within us, as the Documents tell us.
 
-Hence also that Jesus _“highly valued sincerity —a pure heart”_ [UB 140:8.2](/en/The_Urantia_Book/140#p8_2), and that _“God never forgets sincerity”_. [UB 131:1.6](/en/The_Urantia_Book/131#p1_6)
+Hence also that Jesus _“highly valued sincerity —a pure heart”_ <a id="a278_64"></a>[UB 140:8.2](/en/The_Urantia_Book/140#p8_2), and that _“God never forgets sincerity”_. <a id="a278_151"></a>[UB 131:1.6](/en/The_Urantia_Book/131#p1_6)
 
 
 ## Urantia Questionnaire: Gloria Andreu
@@ -308,3 +329,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01">
+          <span class="pr-2">Luz y Vida — January 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

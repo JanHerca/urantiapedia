@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Derek Grimm<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_42_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 42 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-42-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 42 — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="pr-2">Visions of the future for people with vision of the future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In my [last article](http://perthubsg.com/2015/08/aliens-and-the-urantia-book-some-thoughts-more-questions/), I complained that Hollywood's depiction of aliens has ruined many sci-fi movies. However, there are great science fiction movies. The two that immediately come to mind are [Avatar](http://www.imdb.com/title/tt0499549/) and [Matrix](http://www.imdb.com/title/tt0133093/). I encourage all students of _The Urantia Book_ to watch these movies with the “Urantia glasses” on.
@@ -160,7 +184,7 @@ So is the majority always right? Think for a moment that, back in the Middle Age
 
 In the case of Lucifer, he used the false promise of majority rule to rally his ranks against Michael and the Ancients of Days. He hoped that if they faced overwhelming opposition, the Ancients of Days would give in to their demands.
 
-All this leads in the end to deal with freedom and free will. Just as national governments and corporations across the globe spread buzzwords like freedom to justify exploiting other people, we need to look behind these words to find out what they really say. We are told that of all the perplexing problems that have arisen from the Lucifer rebellion, none has caused more difficulties than the inability of immature evolutionary mortals to distinguish between true and false freedom. Here is a quote: “_True freedom is the search of the centuries and the reward of evolutionary progress. False freedom is (...) Unbridled personal will and disorderly expression of self are equivalent to total selfishness, the height of impiety. Freedom, without an associated and increasing conquest of the self, is a product of the selfish human imagination (...) True freedom is associated with authentic self-esteem; false freedom is the consort of self-admiration (...) Self-control leads to altruistic service; self-admiration tends to exploit others._” [UB 54:1.2](/en/The_Urantia_Book/54#p1_2), [UB 54:1.5-6](/en/The_Urantia_Book/54#p1_5)
+All this leads in the end to deal with freedom and free will. Just as national governments and corporations across the globe spread buzzwords like freedom to justify exploiting other people, we need to look behind these words to find out what they really say. We are told that of all the perplexing problems that have arisen from the Lucifer rebellion, none has caused more difficulties than the inability of immature evolutionary mortals to distinguish between true and false freedom. Here is a quote: “_True freedom is the search of the centuries and the reward of evolutionary progress. False freedom is (...) Unbridled personal will and disorderly expression of self are equivalent to total selfishness, the height of impiety. Freedom, without an associated and increasing conquest of the self, is a product of the selfish human imagination (...) True freedom is associated with authentic self-esteem; false freedom is the consort of self-admiration (...) Self-control leads to altruistic service; self-admiration tends to exploit others._” <a id="a186_1045"></a>[UB 54:1.2](/en/The_Urantia_Book/54#p1_2), <a id="a186_1088"></a>[UB 54:1.5-6](/en/The_Urantia_Book/54#p1_5)
 
 Lucifer's third charge was directed at the self-determination of ascending mortals. Now we see that true freedom has to be earned.
 
@@ -213,3 +237,28 @@ Let me end by sharing something I have come to understand about bravery. _The op
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 - Original article in: http://perthubsg.com/2015/08/the-matrix-has-us/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_42_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 42 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-42-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 42 — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="pr-2">Visions of the future for people with vision of the future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

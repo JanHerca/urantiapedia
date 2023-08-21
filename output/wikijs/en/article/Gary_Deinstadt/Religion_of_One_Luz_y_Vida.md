@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Rev. Gary Deinstadt<br>© 2014 Olga López, for translation<br>© 2013 The Urantia Book Fellowship </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_38_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 38 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-38-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 38 — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="pr-2">Reflections for Readers of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 of the rev. Gary Deinstadt (Somers, New York)
 
 (Published in the Summer 2013 issue of the Fellowship Herald)
 
-> True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations. ([UB 92:7.15](/en/The_Urantia_Book/92#p7_15))
+> True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations. (<a id="a41_132"></a>[UB 92:7.15](/en/The_Urantia_Book/92#p7_15))
 
 The evolution and status of progressive civilization determine the time and place of the planetary missions of the divine Sons. _The Urantia Book_ tells us that religious revelation is essential for brotherhood to come true, that it requires not only some spiritual pressure from above, but some progressive acts on our part. So how do we begin today to consider ways in which we can best work together, along with revelation, to carry out society's ultimate goal of “one” religion?
 
@@ -36,7 +60,7 @@ God as “one” lovingly stripped himself of all of himself for his creation at
 > 2. *Intellectual cross-fertilization.* Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an exchange of national and racial literature. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love.
 > 3. *Ethical awakening.* Only ethical consciousness can unmask the immorality of human intolerance and the sinfulness of fratricidal strife. Only a moral conscience can condemn the evils of national envy and racial jealousy. Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule.
 > 4. *Political wisdom.* Emotional maturity is essential to self-control. Only emotional maturity will insure the substitution of international techniques of civilized adjudication for the barbarous arbitrament of war. Wise statesmen will sometime work for the welfare of humanity even while they strive to promote the interest of their national or racial groups. Selfish political sagacity is ultimately suicidal—destructive of all those enduring qualities which insure planetary group survival.
-> 5. *Spiritual insight.* The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of **applying spiritual pressure from above**, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man. ([UB 52:6.2-7](/en/The_Urantia_Book/52#p6_2))
+> 5. *Spiritual insight.* The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of **applying spiritual pressure from above**, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man. (<a id="a62_646"></a>[UB 52:6.2-7](/en/The_Urantia_Book/52#p6_2))
 
 So today on Urantia how do we work with the spiritual pressure from above while raising the soul's capacity to love and better understand ourselves? It seems we will need to embrace the aforementioned personal transformations, the multiplication of international trade and contact, that every race and every religion be familiar with the thoughts and feelings of all races and religions. With all the organized religions we have in the world today, how do we begin to build one out of so many? Probably the common response from most religious communities, including ours, would be that the best way to achieve such unity is to focus on our commonalities. I think there is some truth in it. It does put us in the starting point for getting to know each other and working more effectively with each other. It gives us a place to start from, but I see that focusing on commonalities limits us a lot. It is looking at our reality from the limitations of our perspective and our experiences.
 
@@ -50,9 +74,9 @@ Relying only on the commonalities of the world's religions will not get us very 
 
 When we consider the successes and failures of past revelations, we can determine that the fifth epochal revelation alone will hardly give rise to a race, a language, or a religion. Dalamatia only lasted 300,000 years and soon fell apart once the rebellion broke out. Adam and Eve's mission basically failed. Machiventa's bestowal was an emergency mission. We ended up crucifying our own Creator Son and it seems too soon to predict how far the Urantia Papers will take us. It seems that before we can come close to having one religion, one language, etc., more revelation and more spiritual pressure from above is going to be needed.
 
-_The Urantia Book_ tells us that, if we compare ourselves to a normal evolutionary world, we are probably closer to resembling the post-Adamic age. “_Great ethical advancement characterizes this era; the brotherhood of man is the goal of its society._“ [UB 52:3.12](/en/The_Urantia_Book/52#p3_12) Also in the post-Adamic age, it is said that these ages are characterized by new revelations of truth, and that ”_the Most Highs of the constellations begin to rule in the affairs of men. Truth is revealed up to the administration of the constellations._” [UB 52:3.11](/en/The_Urantia_Book/52#p3_11)
+_The Urantia Book_ tells us that, if we compare ourselves to a normal evolutionary world, we are probably closer to resembling the post-Adamic age. “_Great ethical advancement characterizes this era; the brotherhood of man is the goal of its society._“ <a id="a76_253"></a>[UB 52:3.12](/en/The_Urantia_Book/52#p3_12) Also in the post-Adamic age, it is said that these ages are characterized by new revelations of truth, and that ”_the Most Highs of the constellations begin to rule in the affairs of men. Truth is revealed up to the administration of the constellations._” <a id="a76_553"></a>[UB 52:3.11](/en/The_Urantia_Book/52#p3_11)
 
-Almost at the end of the next magisterial age of a normal planet, it is read: «_There are no race or color problems; literally all nations and races are of one blood. The brotherhood of man flourishes, and the nations are learning to live on earth in peace and tranquillity._“ [UB 52:4.1](/en/The_Urantia_Book/52#p4_1) In the age after the bestowing Son, it is said: ”_Under the spiritual influence of these ages, human character undergoes tremendous transformations and experiences phenomenal development. It becomes possible to put the golden rule into practical operation._“ [UB 52:5.8](/en/The_Urantia_Book/52#p5_8) ”_There are many nations, mostly determined by land distribution, but only one race, one language, and one religion._" [UB 52:5.10](/en/The_Urantia_Book/52#p5_10) Is it possible right now to put the golden rule into practice?
+Almost at the end of the next magisterial age of a normal planet, it is read: «_There are no race or color problems; literally all nations and races are of one blood. The brotherhood of man flourishes, and the nations are learning to live on earth in peace and tranquillity._“ <a id="a78_277"></a>[UB 52:4.1](/en/The_Urantia_Book/52#p4_1) In the age after the bestowing Son, it is said: ”_Under the spiritual influence of these ages, human character undergoes tremendous transformations and experiences phenomenal development. It becomes possible to put the golden rule into practical operation._“ <a id="a78_578"></a>[UB 52:5.8](/en/The_Urantia_Book/52#p5_8) ”_There are many nations, mostly determined by land distribution, but only one race, one language, and one religion._" <a id="a78_739"></a>[UB 52:5.10](/en/The_Urantia_Book/52#p5_10) Is it possible right now to put the golden rule into practice?
 
 ### In preparation for the second revelation on Urantia, what had to happen or be in place before Adam and Eve arrived?
 
@@ -70,7 +94,7 @@ Monotheism was the general belief. The location was centered on and around Jerus
 
 > _The centralization of the Jewish temple worship at Jerusalem constituted alike the secret of the survival of their monotheism and the promise of the nurture and sending forth to the world of a new and enlarged concept of that one God of all nations and Father of all mortals. The temple service at Jerusalem represented the survival of a religious cultural concept in the face of the downfall of a succession of gentile national overlords and racial persecutors._
 >
-> _The Jewish people of this time, although under Roman suzerainty, enjoyed a considerable degree of self-government and, remembering the then only recent heroic exploits of deliverance executed by Judas Maccabee and his immediate successors, were vibrant with the expectation of the immediate appearance of a still greater deliverer, the long-expected Messiah._ ([UB 121:2.6-7](/en/The_Urantia_Book/121#p2_6))
+> _The Jewish people of this time, although under Roman suzerainty, enjoyed a considerable degree of self-government and, remembering the then only recent heroic exploits of deliverance executed by Judas Maccabee and his immediate successors, were vibrant with the expectation of the immediate appearance of a still greater deliverer, the long-expected Messiah._ (<a id="a96_364"></a>[UB 121:2.6-7](/en/The_Urantia_Book/121#p2_6))
 
 By revealing himself, obviously, God needs us as much as we need him.
 
@@ -90,13 +114,13 @@ One Sunday, a Presbyterian pastor began his sermon by saying, “When I get up i
 
 We will continue to make the mistake of revealing too much or too little if we do not learn more about the religious experiences and religious backgrounds of our fellow human beings. It takes much more than just knowing what they believe. You need a greater awareness of each other's religious base before you can try to build on it. It is also important to keep in mind that the person you are revealing something to has just as much to give to them, as much as you have to give to them. Don't make the mistake of thinking that you have something more to offer than him or her. This attitude can lead to an exaggerated sense of self and make it difficult to get where others are. When we get to where others really are, we can better understand what they really need, rather than giving them what we think they need. Within the act of giving, helping or teaching, live the opportunity for new growth. In learning we discover, and isn't it interesting what follows each discovery? What follows is the understanding of how much remains to be learned. Learning more creates the opportunity to give more, and who understood us and gave us more than Jesus?
 
-> _As they thus tarried before embarking on their active public preaching, Jesus and the seven spent two evenings each week at the synagogue in the study of the Hebrew scriptures. In later years after seasons of intense public work, the apostles looked back upon these four months as the most precious and profitable of all their association with the Master. Jesus taught these men all they could assimilate. He did not make the mistake of overteaching them. He did not precipitate confusion by the presentation of truth too far beyond their capacity to comprehend._ ([UB 137:7.14](/en/The_Urantia_Book/137#p7_14))
+> _As they thus tarried before embarking on their active public preaching, Jesus and the seven spent two evenings each week at the synagogue in the study of the Hebrew scriptures. In later years after seasons of intense public work, the apostles looked back upon these four months as the most precious and profitable of all their association with the Master. Jesus taught these men all they could assimilate. He did not make the mistake of overteaching them. He did not precipitate confusion by the presentation of truth too far beyond their capacity to comprehend._ (<a id="a116_568"></a>[UB 137:7.14](/en/The_Urantia_Book/137#p7_14))
 
 One of the best ways we can reveal ourselves to others is to become one of them, just like Melchizedek, Adam and Eve, and Jesus did. Of course it's a little different for us, but the principle is the same. In a way, isn't what the authors strove to do with the Urantia Papers get us to where we were?
 
-> _Ordinary people listened to Jesus with pleasure, and they will respond again to the presentation of his sincere human life of consecrated religious motivation, if these truths are proclaimed again in the world. People listened to him with pleasure because he was one of them, an unassuming layman; the greatest religious instructor in the world was actually a layman._ [UB 196:1.4](/en/The_Urantia_Book/196#p1_4)
+> _Ordinary people listened to Jesus with pleasure, and they will respond again to the presentation of his sincere human life of consecrated religious motivation, if these truths are proclaimed again in the world. People listened to him with pleasure because he was one of them, an unassuming layman; the greatest religious instructor in the world was actually a layman._ <a id="a120_372"></a>[UB 196:1.4](/en/The_Urantia_Book/196#p1_4)
 >
-> _The Master then proceeded to warn his listeners against maintaining the idea that all the old teachings had to be totally replaced by the new doctrines. Jesus said: “What is ancient, but also *true*, must remain. In the same way, what is new, but false, must be rejected. Have the faith and courage to accept what is new and also true. Remember that it is written: 'Do not abandon an old friend, because the new one is not comparable to him. A new friend is like new wine; if it grows old, you will drink it with joy.’”_ [UB 147:7.3](/en/The_Urantia_Book/147#p7_3)
+> _The Master then proceeded to warn his listeners against maintaining the idea that all the old teachings had to be totally replaced by the new doctrines. Jesus said: “What is ancient, but also *true*, must remain. In the same way, what is new, but false, must be rejected. Have the faith and courage to accept what is new and also true. Remember that it is written: 'Do not abandon an old friend, because the new one is not comparable to him. A new friend is like new wine; if it grows old, you will drink it with joy.’”_ <a id="a122_524"></a>[UB 147:7.3](/en/The_Urantia_Book/147#p7_3)
 
 Revelation is everywhere, and you don't have to dig far to find it! The religions of the world continually inspire and motivate. They all ask us to seek God, to seek perfection. They all ask us to practice the “golden rule.” They continue to provide fertile ground for the final fruits of future revelation, fertile enough for the fifth epochal revelation to take root. For example:
 
@@ -137,7 +161,7 @@ The Sufis, who were alarmed by the mundanity they saw taking over Islam, sought 
 
 Did you know that the profusion of gods in Hinduism is simply the many faces and roles of the one God?
 
-In Confucianism, “_The moral law begins in the relationship between man and woman, but ends in the vast scope of the universe_”.[^13] It defines the way in which present actions propagate in a vast universe of infinite possibilities. . A little further: “_The act is ours; the consequences, of God_” [UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+In Confucianism, “_The moral law begins in the relationship between man and woman, but ends in the vast scope of the universe_”.[^13] It defines the way in which present actions propagate in a vast universe of infinite possibilities. . A little further: “_The act is ours; the consequences, of God_” <a id="a163_300"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 In Taoism—the path of ultimate reality—everything is inhabited within. It highlights the importance of achieving inner harmony with the definitiveness of reality.
 
@@ -153,10 +177,35 @@ Here I am only scratching the surface. Obviously, there is old-fashioned theolog
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_38_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 38 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-38-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 38 — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="pr-2">Reflections for Readers of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Grades
 
 [^1]: Bill Watson, _Calvin & Hobbes_, Universal Press Syndicate, 1987
-[^2]: For more information, see [Documento 38: sección 5, párrafos 1-4](/en/The_Urantia_Book/38#p5_1)
+[^2]: For more information, see <a id="a207_32"></a>[Documento 38: sección 5, párrafos 1-4](/en/The_Urantia_Book/38#p5_1)
 [^3]: Between 1955 and 2010, the Fellowship Constitution required the Education Committee to train instructors and leaders. Since then it has been changed.
 [^4]: [Deuteronomy 6:4-8 NIV](/en/Bible/Deuteronomy/6#v4)
 [^5]: [Mark 12:29-1 NIV](/en/Bible/Mark/12#v29)

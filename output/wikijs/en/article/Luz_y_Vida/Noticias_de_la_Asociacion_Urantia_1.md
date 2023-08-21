@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ernesto_Veloso/Trascendencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transcendence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-14-september-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 14 — September 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -34,3 +55,25 @@ More information at: http://www.urantia.es/uai2009
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ernesto_Veloso/Trascendencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transcendence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-14-september-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 14 — September 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

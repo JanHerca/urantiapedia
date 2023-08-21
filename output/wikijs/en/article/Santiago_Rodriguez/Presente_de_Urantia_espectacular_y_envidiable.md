@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Santiago Rodríguez<br>© 2007 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_9_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 9 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-9-may-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 9 — May 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carmelo_Martinez/Futuro_de_Urantia_segun_el_LU">
+          <span class="pr-2">Future of Urantia according to the UB</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Good morning everyone, I would like to make this introduction to a subject such as the “Urantia Present” emphasizing that it is enormously broad and complex, in fact our present has been forged over thousands, millions of years, at the same time. Less since it was decided that life would be implanted on our planet and this is about 900 million years ago now.
@@ -56,7 +80,7 @@ In this way we arrive at our present.
 
 There is a paragraph that defines our situation unequivocally:
 
-> “_During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world’s history they need the consolation and stabilization of sound religion. In the face of unprecedented scientific achievement and mechanical development there is spiritual stagnation and philosophic chaos._” ([UB 99:4.6](/en/The_Urantia_Book/99#p4_6))
+> “_During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world’s history they need the consolation and stabilization of sound religion. In the face of unprecedented scientific achievement and mechanical development there is spiritual stagnation and philosophic chaos._” (<a id="a82_579"></a>[UB 99:4.6](/en/The_Urantia_Book/99#p4_6))
 
 Today, we have a society that is reeling from tolerating science without idealism, politics without principles, wealth without work, pleasure without restraint, knowledge without character, power without conscience, and industry without morals.
 
@@ -102,11 +126,11 @@ For this reason, they urge us to establish an intelligent educational system, si
 
 The enormous growth in the material aspect should compel us to seek the realities of heaven in all our efforts to stabilize society and to facilitate the solution of material problems.
 
-> “_Religion is designed to find those values in the universe which call forth faith, trust, and assurance; religion culminates in worship. Religion discovers for the soul those supreme values which are in contrast with the relative values discovered by the mind. Such superhuman insight can be had only through genuine religious experience._” ([UB 195:5.8](/en/The_Urantia_Book/195#p5_8))
+> “_Religion is designed to find those values in the universe which call forth faith, trust, and assurance; religion culminates in worship. Religion discovers for the soul those supreme values which are in contrast with the relative values discovered by the mind. Such superhuman insight can be had only through genuine religious experience._” (<a id="a128_345"></a>[UB 195:5.8](/en/The_Urantia_Book/195#p5_8))
 
 But in this time of changes and adjustments in which we are immersed, we must be very careful: Lucifer's great mistake and later the same mistake that led Adam and Eve to failure was precisely impatience.
 
-> “_*No great social or economic change should be attempted suddenly.* Time is essential to all types of human adjustment—physical, social, or economic. Only moral and spiritual adjustments can be made on the spur of the moment, and even these require the passing of time for the full outworking of their material and social repercussions. The ideals of the race are the chief support and assurance during the critical times when civilization is in transit from one level to another._” ([UB 81:6.40](/en/The_Urantia_Book/81#p6_40))
+> “_*No great social or economic change should be attempted suddenly.* Time is essential to all types of human adjustment—physical, social, or economic. Only moral and spiritual adjustments can be made on the spur of the moment, and even these require the passing of time for the full outworking of their material and social repercussions. The ideals of the race are the chief support and assurance during the critical times when civilization is in transit from one level to another._” (<a id="a132_487"></a>[UB 81:6.40](/en/The_Urantia_Book/81#p6_40))
 
 This new era in our world will take a millennium to complete. We are on the march towards a new, unrevealed planetary destination.
 
@@ -114,7 +138,7 @@ This new era in our world will take a millennium to complete. We are on the marc
 
 Despite such complicated circumstances, they give us the guideline to face this time of change, of transition from one civilization to another and it is neither more nor less than a return to spirituality, rescuing the presence of authentic religion in the different facets of the life.
 
-> “_One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion._” ([UB 195:6.7](/en/The_Urantia_Book/195#p6_7))
+> “_One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion._” (<a id="a140_146"></a>[UB 195:6.7](/en/The_Urantia_Book/195#p6_7))
 
 In fact, the main mission of religion as a social influence is to stabilize the ideals of humanity. For this, religion has to collect new and updated slogans.
 
@@ -122,11 +146,11 @@ A new and fuller revelation of the religion of Jesus is destined to conquer an e
 
 Urantia currently shudders on the very brink of one of its most amazing and exciting times of social readjustment, moral revival, and spiritual enlightenment.
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings._ ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings._ (<a id="a148_133"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 Even secular education would be of great help in spiritual rebirth and awakening if it paid more attention to education, teaching the youth properly, the goal of education being the development of a majestic and well-balanced personality, in order to successfully face the ages. so changeable The importance of individualism is revealed in the mere fact of presenting the 5th Revelation in written form, fleeing from “guru” type leaders, presenting a religion that unites us in objectives and not necessarily in interpretations or creeds.
 
-> _Religionists must function in society, in industry, and in politics as individuals, not as groups, parties, or institutions. A religious group which presumes to function as such, apart from religious activities, immediately becomes a political party, an economic organization, or a social institution. Religious collectivism must confine its efforts to the furtherance of religious causes._ ([UB 99:2.3](/en/The_Urantia_Book/99#p2_3))
+> _Religionists must function in society, in industry, and in politics as individuals, not as groups, parties, or institutions. A religious group which presumes to function as such, apart from religious activities, immediately becomes a political party, an economic organization, or a social institution. Religious collectivism must confine its efforts to the furtherance of religious causes._ (<a id="a152_395"></a>[UB 99:2.3](/en/The_Urantia_Book/99#p2_3))
 
 From my point of view this leads us to:
 
@@ -166,3 +190,28 @@ Free will will be key in the transformation of society. Changes should always be
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_9_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 9 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-9-may-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 9 — May 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carmelo_Martinez/Futuro_de_Urantia_segun_el_LU">
+          <span class="pr-2">Future of Urantia according to the UB</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Santiago Rodríguez<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Neither secularism nor religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-27-december-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 27 — December 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_10">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-In this second installment of “Convergences and Divergences” we will address a curiously controversial topic. In Document 36, “The Life Carriers”, section 2, **THE WORLDS OF THE LIFE CARRIERS**, [UB 36:2](/en/The_Urantia_Book/36#p2), we can read, and I copy literally:
 
-> _. . .There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control—trait determiners—in the sex cells of human reproduction._ ([UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
+In this second installment of “Convergences and Divergences” we will address a curiously controversial topic. In Document 36, “The Life Carriers”, section 2, **THE WORLDS OF THE LIFE CARRIERS**, <a id="a37_195"></a>[UB 36:2](/en/The_Urantia_Book/36#p2), we can read, and I copy literally:
+
+> _. . .There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control—trait determiners—in the sex cells of human reproduction._ (<a id="a39_426"></a>[UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
 
 From reading this text, the first thing that comes to mind is that the Revelators (in this case a Vorondadek Son) are alluding to what today we commonly call “chromosomes”... or don't you think so?
 
@@ -73,3 +97,28 @@ In successive installments of this section we will have the opportunity to comme
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Neither secularism nor religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-27-december-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 27 — December 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_10">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

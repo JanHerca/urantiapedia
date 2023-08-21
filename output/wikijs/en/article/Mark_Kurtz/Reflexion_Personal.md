@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Mark Kurtz<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The true sun (poem)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-22-august-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 22 — August 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/Nueva_Edicion_Europea">
+          <span class="pr-2">The Urantia movement in Spain with the new European edition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The “Personal Reflection: True, False, or ‘I Don't Know’” survey is intended as a personal soul survey tool, so to speak. The privacy and uniqueness of each person who takes the survey is respected, that is, the personal relationship with their concept of the Supreme (God, Yahweh, Brahma, etc.). The survey aims to be neutral regarding religion. No one is asked to turn in the results or share their responses, although you are welcome to do so if you wish.
@@ -72,3 +96,28 @@ Choose an option (True, False, I don't know)
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The true sun (poem)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-22-august-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 22 — August 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/Nueva_Edicion_Europea">
+          <span class="pr-2">The Urantia movement in Spain with the new European edition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

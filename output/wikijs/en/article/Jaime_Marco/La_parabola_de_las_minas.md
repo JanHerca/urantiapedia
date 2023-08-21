@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Jaime Marco<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The parable of the owner of the vineyards</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carmelo_Martinez/El_ultimo_discurso_en_el_templo">
+          <span class="pr-2">The last speech in the temple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The parable of the mines is found in [paper 171](/en/The_Urantia_Book/171). Like all parables, we have to put it in its context in order to fully understand it.
@@ -53,3 +77,28 @@ Nathanael's conclusions, which he used to explain these parables, can help us to
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The parable of the owner of the vineyards</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carmelo_Martinez/El_ultimo_discurso_en_el_templo">
+          <span class="pr-2">The last speech in the temple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

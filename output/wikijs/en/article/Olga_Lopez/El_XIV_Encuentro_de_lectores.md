@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Olga López<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_40_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 40 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-40-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 40 — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Aparicion_de_la_materia_y_de_la_energia">
+          <span class="pr-2">Appearance on the cosmic stage of matter and energy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The XIV Readers' Meeting began at 6 pm on Thursday, April 30, at the Los Habaneros hotel in Cartagena. This year we have had the invaluable help of the Murcia study group to organize the Meeting in this corner of the Levante peninsula. Our special thanks go to everyone who has helped us feel comfortable and covered at all times.
@@ -61,3 +85,28 @@ Then, and after lunch, we said goodbye (not without a little sadness) because th
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_40_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 40 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-40-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 40 — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Aparicion_de_la_materia_y_de_la_energia">
+          <span class="pr-2">Appearance on the cosmic stage of matter and energy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

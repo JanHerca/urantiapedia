@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Antonio Moya, Carmelo Martínez, Santiago Rodríguez<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_26_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 26 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-26-september-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 26 — September 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="pr-2">The unification of the personality (second part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants:**
@@ -27,7 +51,7 @@ And the UB (which does not say anything about what happened 14,000 million years
 
 > _*25,000,000,000* years ago witnessed the completion of the tertiary cycle of nebular life and brought about the organization and relative stabilization of the far-flung starry systems derived from this parent nebula. But the process of physical contraction and increased heat production continued in the central mass of the nebular remnant._
 > 
-> _*10,000,000,000* years ago the quartan cycle of Andronover began. The maximum of nuclear-mass temperature had been attained; the critical point of condensation was approaching. The original mother nucleus was convulsing under the combined pressure of its own internal-heat condensation tension and the increasing gravity-tidal pull of the surrounding swarm of liberated sun systems. The nuclear eruptions which were to inaugurate the second nebular sun cycle were imminent. The quartan cycle of nebular existence was about to begin._ ([UB 57:4.4-5](/en/The_Urantia_Book/57#p4_4))
+> _*10,000,000,000* years ago the quartan cycle of Andronover began. The maximum of nuclear-mass temperature had been attained; the critical point of condensation was approaching. The original mother nucleus was convulsing under the combined pressure of its own internal-heat condensation tension and the increasing gravity-tidal pull of the surrounding swarm of liberated sun systems. The nuclear eruptions which were to inaugurate the second nebular sun cycle were imminent. The quartan cycle of nebular existence was about to begin._ (<a id="a53_538"></a>[UB 57:4.4-5](/en/The_Urantia_Book/57#p4_4))
 
 The UB gives the universe MUCH more age, as only the Andronover Nebula started much earlier: 875,000,000,000 years ago, the huge Andronover Nebula, number 876,926, was duly started. What happened 14,000 million years ago, for scientists to believe that AT THAT MOMENT the universe was born?
 
@@ -160,3 +184,28 @@ Possibly the three laws of thermodynamics will be found to be applicable locally
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_26_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 26 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-26-september-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 26 — September 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="pr-2">The unification of the personality (second part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

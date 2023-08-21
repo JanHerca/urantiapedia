@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Olga López<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Michael's Bestowal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="pr-2">The parable of the owner of the vineyards</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 This is the first of the two speeches on which we are going to reflect and deepen. It's in Document 155, “The Flight Through the North of Galilee.”
@@ -21,7 +45,7 @@ That time was a test of faith for the followers of Jesus. Many were those who ab
 
 On the way to Phoenicia, where they were going to cool the spirits of the Jewish authorities, Jesus was accompanied only by twelve evangelists and the twelve apostles. His companions were concerned about the attitude of Jesus' enemies, and Thomas, in a break they took for lunch, expressed that concern with the following question:
 
-> “_Master, I should really like to know just what is wrong with the religion of our enemies at Jerusalem. What is the real difference between their religion and ours? Why is it we are at such diversity of belief when we all profess to serve the same God?_” ([UB 155:4.2](/en/The_Urantia_Book/155#p4_2))
+> “_Master, I should really like to know just what is wrong with the religion of our enemies at Jerusalem. What is the real difference between their religion and ours? Why is it we are at such diversity of belief when we all profess to serve the same God?_” (<a id="a47_259"></a>[UB 155:4.2](/en/The_Urantia_Book/155#p4_2))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV37/07.jpg">
@@ -59,7 +83,7 @@ How many people today live clinging to the rocks of institutionalized religion, 
 
 So, we could very well ask ourselves the questions that Jesus asked his apostles at the end of this speech:
 
-> _Are you fearful, soft, and ease-seeking? Are you afraid to trust your future in the hands of the God of truth, whose sons you are? Are you distrustful of the Father, whose children you are? Will you go back to the easy path of the certainty and intellectual settledness of the religion of traditional authority, or will you gird yourselves to go forward with me into that uncertain and troublous future of proclaiming the new truths of the religion of the spirit, the kingdom of heaven in the hearts of men?_ ([UB 155:5.13](/en/The_Urantia_Book/155#p5_13))
+> _Are you fearful, soft, and ease-seeking? Are you afraid to trust your future in the hands of the God of truth, whose sons you are? Are you distrustful of the Father, whose children you are? Will you go back to the easy path of the certainty and intellectual settledness of the religion of traditional authority, or will you gird yourselves to go forward with me into that uncertain and troublous future of proclaiming the new truths of the religion of the spirit, the kingdom of heaven in the hearts of men?_ (<a id="a85_513"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13))
 
 Our sovereign of the universe, Michael of Nebadon, came to this world to teach us that we only need the unconditional faith of a child to enter the kingdom of heaven, and that therefore intermediaries are not necessary. Back then, his message did not sink deep enough, and later Christianity forgot that fundamental teaching, even though it remains dormant within it.
 
@@ -97,3 +121,28 @@ Until now, religion has not been widely practiced first hand by the world, so af
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Michael's Bestowal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="pr-2">The parable of the owner of the vineyards</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

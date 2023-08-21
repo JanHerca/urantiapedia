@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Olga López<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_37_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 37 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="pr-2">Michael's Bestowal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The XIII Meeting of readers began at 6 pm on Friday, May 23, at the Abba Acteón hotel in Valencia. This year they wanted to hold the Meeting there as a way of recognizing the great work being done by an enthusiastic group of Valencian readers, who have created a study group that meets every Sunday in the capital of Turia and whose number is in increase.
@@ -23,10 +47,10 @@ At the inaugural meeting, the material that was going to be used in the Meeting 
 
 Saturday the 24th was the day of the workshops. The attendees formed groups of 5 or 6 people around the facilitators. These were the passages that attendees were asked to delve into:
 
-- Discourse on true religion (Document 155, [UB 155:5.6](/en/The_Urantia_Book/155#p5_6) - [UB 155:5.13](/en/The_Urantia_Book/155#p5_13)).
-- The parable of the owner of the vineyards (Document 163, [UB 163:3.5](/en/The_Urantia_Book/163#p3_5) - [UB 163:3.7](/en/The_Urantia_Book/163#p3_7))
-- The parable of the mines (Document 171, [UB 171:8.3](/en/The_Urantia_Book/171#p8_3) - [UB 171:8.6](/en/The_Urantia_Book/171#p8_6))
-- The last speech in the temple (Document 175, [UB 175:1.1](/en/The_Urantia_Book/175#p1_1) - [UB 175:1.24](/en/The_Urantia_Book/175#p1_24))
+- Discourse on true religion (Document 155, <a id="a49_44"></a>[UB 155:5.6](/en/The_Urantia_Book/155#p5_6) - <a id="a49_90"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13)).
+- The parable of the owner of the vineyards (Document 163, <a id="a50_59"></a>[UB 163:3.5](/en/The_Urantia_Book/163#p3_5) - <a id="a50_105"></a>[UB 163:3.7](/en/The_Urantia_Book/163#p3_7))
+- The parable of the mines (Document 171, <a id="a51_42"></a>[UB 171:8.3](/en/The_Urantia_Book/171#p8_3) - <a id="a51_88"></a>[UB 171:8.6](/en/The_Urantia_Book/171#p8_6))
+- The last speech in the temple (Document 175, <a id="a52_47"></a>[UB 175:1.1](/en/The_Urantia_Book/175#p1_1) - <a id="a52_93"></a>[UB 175:1.24](/en/The_Urantia_Book/175#p1_24))
 
 To make this activity more agile, it was done following the following process for each of the speeches and parables.
 
@@ -79,3 +103,28 @@ The Encounter is already history, but its memory gives us strength to continue w
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_37_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 37 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="pr-2">Michael's Bestowal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

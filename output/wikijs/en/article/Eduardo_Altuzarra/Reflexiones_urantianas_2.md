@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — March 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman">
+          <span class="pr-2">Urantia Questionnaire: Martín Guzmán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,7 +67,7 @@ He has qualities to make us understand that science helps, religion unites and p
 
 Let us not be ashamed to recognize his power and his worth, let us gladly accept that he can transmit his divinity to us throughout our journey with him. in which we have to make decisions with some responsibility. Let us go to Him thanking Him for our good situations and asking Him for forgiveness for the mistakes made. Let us deposit our affairs in Him so that, with His magnificence, He establishes them in the corresponding order.
 
-> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. ([UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a69_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
 From here and now, we are ready to position ourselves at the starting line. We are ready to start the most important and transcendent career of our life, besides possibly being the only one, because there may not be an opportunity, at least in this life and in this world.
 
@@ -78,3 +102,28 @@ A book revealed to humanity for its transformation.
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — March 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman">
+          <span class="pr-2">Urantia Questionnaire: Martín Guzmán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

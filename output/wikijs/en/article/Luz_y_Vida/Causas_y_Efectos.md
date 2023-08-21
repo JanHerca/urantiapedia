@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Andrés Pérez, Santiago Rodríguez<br>© 2008 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_14_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 14 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-14-september-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 14 — September 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanette_Francis/Oracion_para_todas_las_noches">
+          <span class="pr-2">Prayer for every night</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -21,13 +45,13 @@ By various authors
 - Andrés Pérez
 - Santiago Rodríguez
 
-**Antonio:** here is a good question: “_Universal causes (or of the universe) cannot be inferior to universal effects (or of the universe)_” ([UB 3:6.3](/en/The_Urantia_Book/3#p6_3))
+**Antonio:** here is a good question: “_Universal causes (or of the universe) cannot be inferior to universal effects (or of the universe)_” (<a id="a47_142"></a>[UB 3:6.3](/en/The_Urantia_Book/3#p6_3))
 
 Why can't an effect be superior to its cause? Explain it to me, please. One is a bit clumsy, and does not quite envision good examples of this statement. I like bib examples for children, because if not, I still don't get anything. Would someone be kind enough to shed a little light on my thick head? Thanks in advance.
 
-> “_all effects are preceded by definite causes._” ([UB 86:2.5](/en/The_Urantia_Book/86#p2_5))
+> “_all effects are preceded by definite causes._” (<a id="a51_52"></a>[UB 86:2.5](/en/The_Urantia_Book/86#p2_5))
 
-> “_You cannot have effects without causes;_” ([UB 102:7.3](/en/The_Urantia_Book/102#p7_3))
+> “_You cannot have effects without causes;_” (<a id="a53_47"></a>[UB 102:7.3](/en/The_Urantia_Book/102#p7_3))
 
 **Carmelo:** Antonio's questions... as always, sharp, deep and difficult to answer.
 
@@ -80,3 +104,28 @@ Trying to understand God's thoughts is an effect for us mortals, because I don't
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_14_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 14 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-14-september-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 14 — September 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanette_Francis/Oracion_para_todas_las_noches">
+          <span class="pr-2">Prayer for every night</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,12 +9,36 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Javier García-Alcaide<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The spheres of light and life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="pr-2">The Supreme Being</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 Introduction by Javier García-Alcaide
 
-The introduction focused on chapters 8 ([La oración como experiencia personal](/en/The_Urantia_Book/91#p8)) and 9 ([Condiciones para que la oración sea eficaz](/en/The_Urantia_Book/91#p9)) of paper 91. These are the chapters that best summarize the characteristics of the sentence.
+The introduction focused on chapters 8 (<a id="a40_40"></a>[La oración como experiencia personal](/en/The_Urantia_Book/91#p8)) and 9 (<a id="a40_115"></a>[Condiciones para que la oración sea eficaz](/en/The_Urantia_Book/91#p9)) of paper 91. These are the chapters that best summarize the characteristics of the sentence.
 
 Prayer can take multiple forms, but if it is true it will always be an act of communion with the Creator.
 
@@ -60,3 +84,28 @@ The document that talks about the Eternal Son talks about kindred spirits, unite
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The spheres of light and life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="pr-2">The Supreme Being</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

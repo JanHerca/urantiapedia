@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Efraín Vivanco<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Padre_Nuestro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="pr-2">Channeling: error, truth, illusion or innocence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dr.S.W. Sadler, son of Dr. Sadler, the main participant in receiving the documents that gave rise to _The Urantia Book_, says in his _Study of the Master Universe_: «_The Urantia Book_ is not written as a textbook, but as a symphony. Wonderful themes of truth-revealing concepts and movements appear and reappear as the long story revealed. Parts of this story are very melodious. The melody unfolds with such charming simplicity that the reader is entranced." [Preface, paragraph 6](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword)
@@ -71,11 +95,11 @@ Thought Adjusters possess countless qualities; Since analyzing them one by one w
 8. They are pure spirits and pure energy.
 9. They are full of love for the human where they reside and full of wisdom to lead the human mind and soul towards the Universal Father.
 
-So can we really understand the true meaning of an Adjuster indwelling us? Can we really imagine what it means to have an absolute fragment of absolute and infinite Deity, the Universal Father, residing in us and fused with our finite mortal nature? When mortal man merges with an actual fragment of the existential Cause of the total cosmos, no limit can be placed on the fate of such an unprecedented and unimaginable association. ([UB 107:4.7](/en/The_Urantia_Book/107#p4_7))
+So can we really understand the true meaning of an Adjuster indwelling us? Can we really imagine what it means to have an absolute fragment of absolute and infinite Deity, the Universal Father, residing in us and fused with our finite mortal nature? When mortal man merges with an actual fragment of the existential Cause of the total cosmos, no limit can be placed on the fate of such an unprecedented and unimaginable association. (<a id="a97_434"></a>[UB 107:4.7](/en/The_Urantia_Book/107#p4_7))
 
 Let me now record verbatim the words that a Thought Adjuster delivered to the subject of his residence:
 
-> During the making and breaking of a contact between the mortal mind of a destiny reservist and the planetary supervisors, sometimes the indwelling Adjuster is so situated that it becomes possible to transmit a message to the mortal partner. Not long since, on Urantia, such a message was transmitted by a self-acting Adjuster to the human associate, a member of the reserve corps of destiny. This message was introduced by these words: “And now, without injury or jeopardy to the subject of my solicitous devotion and without intent to overchastise or discourage, for me, make record of this my plea to him.” Then followed a beautifully touching and appealing admonition. Among other things, the Adjuster pleaded “that he more faithfully give me his sincere co-operation, more cheerfully endure the tasks of my emplacement, more faithfully carry out the program of my arrangement, more patiently go through the trials of my selection, more persistently and cheerfully tread the path of my choosing, more humbly receive credit that may accrue as a result of my ceaseless endeavors—thus transmit my admonition to the man of my indwelling. Upon him I bestow the supreme devotion and affection of a divine spirit.” ([UB 110:7.10](/en/The_Urantia_Book/110#p7_10))
+> During the making and breaking of a contact between the mortal mind of a destiny reservist and the planetary supervisors, sometimes the indwelling Adjuster is so situated that it becomes possible to transmit a message to the mortal partner. Not long since, on Urantia, such a message was transmitted by a self-acting Adjuster to the human associate, a member of the reserve corps of destiny. This message was introduced by these words: “And now, without injury or jeopardy to the subject of my solicitous devotion and without intent to overchastise or discourage, for me, make record of this my plea to him.” Then followed a beautifully touching and appealing admonition. Among other things, the Adjuster pleaded “that he more faithfully give me his sincere co-operation, more cheerfully endure the tasks of my emplacement, more faithfully carry out the program of my arrangement, more patiently go through the trials of my selection, more persistently and cheerfully tread the path of my choosing, more humbly receive credit that may accrue as a result of my ceaseless endeavors—thus transmit my admonition to the man of my indwelling. Upon him I bestow the supreme devotion and affection of a divine spirit.” (<a id="a101_1214"></a>[UB 110:7.10](/en/The_Urantia_Book/110#p7_10))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV35/06.jpg">
@@ -89,3 +113,28 @@ And finally, let us remember that the fruits of spiritual union with the Thought
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Padre_Nuestro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-35-december-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 35 — December 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="pr-2">Channeling: error, truth, illusion or innocence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

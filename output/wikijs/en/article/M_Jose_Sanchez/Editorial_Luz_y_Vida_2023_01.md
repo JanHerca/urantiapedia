@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María Joseph Sánchez Santamaría<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero">
+          <span class="pr-2">Urantia Questionnaire: Marisé Cantero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ### The Image of God
@@ -79,11 +103,11 @@ And depending on how we believe what God is, we will live the faith in one way o
 
 The readers of _The Urantia Book_ have the great fortune of being able to read dozens of documents that describe what God is like and how Jesus of Nazareth manifested it. For example, we know that Jesus did not renounce his roots, but rather expanded and improved the image that his contemporaries had of Divinity:
 
-> The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.” Jesus’ God was at one and the same time “The Holy One of Israel” and “The living and loving Father in heaven.” The concept of God as a Father was not original with Jesus, but he exalted and elevated the idea into a sublime experience by achieving a new revelation of God and by proclaiming that every mortal creature is a child of this Father of love, a son of God. ([UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
+> The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.” Jesus’ God was at one and the same time “The Holy One of Israel” and “The living and loving Father in heaven.” The concept of God as a Father was not original with Jesus, but he exalted and elevated the idea into a sublime experience by achieving a new revelation of God and by proclaiming that every mortal creature is a child of this Father of love, a son of God. (<a id="a105_564"></a>[UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
 
 What's more, Jesus felt totally united to Divinity, to the Father or Source of Everything. He said it repeatedly:
 
-> And when Philip had spoken, Jesus said: “Philip, have I been so long with you and yet you do not even now know me? Again do I declare: He who has seen me has seen the Father. How can you then say, Show us the Father? Do you not believe that I am in the Father and the Father in me? Have I not taught you that the words which I speak are not my words but the words of the Father? I speak for the Father and not of myself. I am in this world to do the Father’s will, and that I have done. My Father abides in me and works through me.” ([UB 180:3.9](/en/The_Urantia_Book/180#p3_9))
+> And when Philip had spoken, Jesus said: “Philip, have I been so long with you and yet you do not even now know me? Again do I declare: He who has seen me has seen the Father. How can you then say, Show us the Father? Do you not believe that I am in the Father and the Father in me? Have I not taught you that the words which I speak are not my words but the words of the Father? I speak for the Father and not of myself. I am in this world to do the Father’s will, and that I have done. My Father abides in me and works through me.” (<a id="a109_536"></a>[UB 180:3.9](/en/The_Urantia_Book/180#p3_9))
 
 Jesus, therefore, gives us a new image of God. In Jesus the fullest image of God was manifested, the authentic human being was shown. In his way of speaking about God and in his way of being human we discover the human face of God. God and Man united.
 
@@ -93,7 +117,7 @@ Jesus, therefore, gives us a new image of God. In Jesus the fullest image of God
 
 We are surprised and pleased to know that Jesus, that God, was not only deep in his reflections and serious, but also loving and smiling. Playful with the little ones and analytical with the adults.
 
-> The children were always welcome at the repair shop. Jesus provided sand, blocks, and stones by the side of the shop, and bevies of youngsters flocked there to amuse themselves. When they tired of their play, the more intrepid ones would peek into the shop, and if its keeper were not busy, they would make bold to go in and say, “Uncle Joshua, come out and tell us a big story.” Then they would lead him out by tugging at his hands until he was seated on the favorite rock by the corner of the shop, with the children on the ground in a semicircle before him. And how the little folks did enjoy their Uncle Joshua. They were learning to laugh, and to laugh heartily. It was customary for one or two of the smallest of the children to climb upon his knees and sit there, looking up in wonderment at his expressive features as he told his stories. The children loved Jesus, and Jesus loved the children. ([UB 128:6.11](/en/The_Urantia_Book/128#p6_11))
+> The children were always welcome at the repair shop. Jesus provided sand, blocks, and stones by the side of the shop, and bevies of youngsters flocked there to amuse themselves. When they tired of their play, the more intrepid ones would peek into the shop, and if its keeper were not busy, they would make bold to go in and say, “Uncle Joshua, come out and tell us a big story.” Then they would lead him out by tugging at his hands until he was seated on the favorite rock by the corner of the shop, with the children on the ground in a semicircle before him. And how the little folks did enjoy their Uncle Joshua. They were learning to laugh, and to laugh heartily. It was customary for one or two of the smallest of the children to climb upon his knees and sit there, looking up in wonderment at his expressive features as he told his stories. The children loved Jesus, and Jesus loved the children. (<a id="a119_906"></a>[UB 128:6.11](/en/The_Urantia_Book/128#p6_11))
 
 It was difficult for his friends to understand the variety and breadth of his intellectual activities, his ability to move fully and without transition from deep political, philosophical or religious debates to the carefree and joyful games of children of five to ten years.
 
@@ -134,3 +158,28 @@ This is a beautiful challenge, really listening to who is inside, for this begin
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero">
+          <span class="pr-2">Urantia Questionnaire: Marisé Cantero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

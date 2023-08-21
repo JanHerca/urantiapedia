@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Carmelo Martínez<br>© 2006 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How to live the teachings of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-5-may-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 5 — May 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I am not going to describe the VI Meeting with a single word, but if I had to, it would undoubtedly be “unity.” Unity in the development of the debates, although not unanimity of criteria, and unity in the environment and the relations of the attendees.
@@ -58,3 +79,25 @@ The Monday farewell after breakfast was, as always, prolonged; we tried to take 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How to live the teachings of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-5-may-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 5 — May 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

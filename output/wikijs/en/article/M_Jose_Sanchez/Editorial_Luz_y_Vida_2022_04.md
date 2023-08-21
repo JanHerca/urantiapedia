@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — April 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos">
+          <span class="pr-2">Navigating Life – The Evolutionary Levels of Emotions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -31,7 +55,7 @@ Hundreds of years ago, Agustín de Hipona told us these wonderful words that des
 
 _The Urantia Book_ also affirms this union of God with his creatures in the innermost of our minds:
 
-> ALTHOUGH the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for he indwells them as the Mystery Monitors. The eternal Father is at one and the same time farthest removed from, and most intimately associated with, his planetary mortal sons. ([UB 107:0.1](/en/The_Urantia_Book/107#p0_1))
+> ALTHOUGH the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for he indwells them as the Mystery Monitors. The eternal Father is at one and the same time farthest removed from, and most intimately associated with, his planetary mortal sons. (<a id="a57_385"></a>[UB 107:0.1](/en/The_Urantia_Book/107#p0_1))
 
 But if we look at our current planetary civilization, does this connection (otherwise so desired by divinity) occur on a daily basis between us and our inner God?
 
@@ -39,9 +63,9 @@ Unfortunately materialism, secularism, scientism and a material and spiritual he
 
 Nietzsche's announcement of “God is dead” already showed us in the 19th century a gigantic dystopian wave originated and promoted by a deep and powerful current of materialism. It arose, among other factors and according to what _The Urantia Book_ tells us, from a powerful reaction to the ecclesiastical and mental totalitarianism of the Church:
 
-> The mother of modern secularism was the medieval totalitarian Christian Church. Secularism began as a growing protest against the almost complete domination of Western civilization by the institutionalized Christian Church. [UB 195:8.2](/en/The_Urantia_Book/195#p8_2)
+> The mother of modern secularism was the medieval totalitarian Christian Church. Secularism began as a growing protest against the almost complete domination of Western civilization by the institutionalized Christian Church. <a id="a65_226"></a>[UB 195:8.2](/en/The_Urantia_Book/195#p8_2)
 > 
-> It took a great force, a powerful influence, to free the life and thought of the Western peoples from the stifling grip of a totalitarian ecclesiastical domination. Secularism broke the bonds of Church control and now in turn threatens to establish a new kind of godless rule in the heart and mind of modern man. The tyrannical and dictatorial political State is a direct offspring of scientific materialism and philosophical secularism. [UB 195:8.4](/en/The_Urantia_Book/195#p8_4)
+> It took a great force, a powerful influence, to free the life and thought of the Western peoples from the stifling grip of a totalitarian ecclesiastical domination. Secularism broke the bonds of Church control and now in turn threatens to establish a new kind of godless rule in the heart and mind of modern man. The tyrannical and dictatorial political State is a direct offspring of scientific materialism and philosophical secularism. <a id="a67_440"></a>[UB 195:8.4](/en/The_Urantia_Book/195#p8_4)
 
 Currently, a paradigm completely clinging to the material and the small self is imposed. A vision of life that rejects the transcendent and throws the human being into the arms of the superficial and evanescent prevails. And thus expelled Spirituality (with capital letters) from our lives and society, what remains?
 
@@ -57,15 +81,15 @@ Currently, the crown jewel of transhumanism is his idea of downloading human con
 
 Faced with this very flat vision of the human being, faced with a vision that promotes the digitization of all aspects of our lives, we have the valuable contribution of _The Urantia Book_:
 
-> To say that mind “emerged” from matter explains nothing. If the universe were merely a mechanism and mind were unapart from matter, we would never have two differing interpretations of any observed phenomenon. The concepts of truth, beauty, and goodness are not inherent in either physics or chemistry. A machine cannot *know,* much less know truth, hunger for righteousness, and cherish goodness. ([UB 195:6.11](/en/The_Urantia_Book/195#p6_11))
+> To say that mind “emerged” from matter explains nothing. If the universe were merely a mechanism and mind were unapart from matter, we would never have two differing interpretations of any observed phenomenon. The concepts of truth, beauty, and goodness are not inherent in either physics or chemistry. A machine cannot *know,* much less know truth, hunger for righteousness, and cherish goodness. (<a id="a83_401"></a>[UB 195:6.11](/en/The_Urantia_Book/195#p6_11))
 
 _The Urantia Book_ speaks to us clearly that we possess an extraordinary mind, with capacities that escape the coarse materialism into which they want to plunge us. Let's think, for example, of art and its potential to elevate our everyday mind to higher levels of abstraction:
 
-> Art proves that man is not mechanistic, but it does not prove that he is spiritually immortal. Art is mortal morontia, the intervening field between man, the material, and man, the spiritual. Poetry is an effort to escape from material realities to spiritual values. ([UB 195:7.15](/en/The_Urantia_Book/195#p7_15))
+> Art proves that man is not mechanistic, but it does not prove that he is spiritually immortal. Art is mortal morontia, the intervening field between man, the material, and man, the spiritual. Poetry is an effort to escape from material realities to spiritual values. (<a id="a87_270"></a>[UB 195:7.15](/en/The_Urantia_Book/195#p7_15))
 
 Furthermore, _The Urantia Book_ is very blunt:
 
-> No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph. In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. ([UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
+> No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph. In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. (<a id="a91_321"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
 
 Consequently, the readers of _The Urantia Book_ go against the current of what the world promotes. The blue book invites us to do something with enormous benefits, which links us to the great source. A personal and non-transferable search, an endless adventure.
 
@@ -87,3 +111,28 @@ Free, as the true sons and daughters of God are free.
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — April 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos">
+          <span class="pr-2">Navigating Life – The Evolutionary Levels of Emotions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

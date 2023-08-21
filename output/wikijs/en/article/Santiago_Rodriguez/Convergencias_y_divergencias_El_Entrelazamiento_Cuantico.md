@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love is the truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-32-march-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 32 — March 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_15">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Possible endorsement of the Standard Particle Model and possible divergence with the UB_
@@ -19,7 +43,7 @@ They describe to us a physical world that has certain limitations, and the being
 
 The UB describes a truly surprising phenomenon that, although it operates on a mental and spiritual level, also works on a material level:
 
-> _The Conjoint Actor is able to co-ordinate all levels of universe actuality in such manner as to make possible the simultaneous recognition of the mental, the material, and the spiritual. This is the phenomenon of *universe reflectivity,* that unique and inexplicable power to see, hear, sense, and know all things as they transpire throughout a superuniverse, and to focalize, by reflectivity, all this information and knowledge at any desired point. The action of reflectivity is shown in perfection on each of the headquarters worlds of the seven superuniverses. It is also operative throughout all sectors of the superuniverses_ ([UB 9:7.1](/en/The_Urantia_Book/9#p7_1))
+> _The Conjoint Actor is able to co-ordinate all levels of universe actuality in such manner as to make possible the simultaneous recognition of the mental, the material, and the spiritual. This is the phenomenon of *universe reflectivity,* that unique and inexplicable power to see, hear, sense, and know all things as they transpire throughout a superuniverse, and to focalize, by reflectivity, all this information and knowledge at any desired point. The action of reflectivity is shown in perfection on each of the headquarters worlds of the seven superuniverses. It is also operative throughout all sectors of the superuniverses_ (<a id="a45_636"></a>[UB 9:7.1](/en/The_Urantia_Book/9#p7_1))
 
 I certainly don't think we can even glimpse the mechanisms of this extraordinary process. But it is also true that in nature, in its broadest sense, things happen gradually; there is usually a close relationship between everything that exists. Somehow they are not isolated mechanisms, but are interrelated, so perhaps we could come across material phenomena that somehow share part of the mechanisms of these strange and extraordinary (at least for us) reflectivity phenomena.
 
@@ -55,3 +79,28 @@ And I can't help but remember that I had already read about this phenomenon of i
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love is the truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-32-march-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 32 — March 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_15">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

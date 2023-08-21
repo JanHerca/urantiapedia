@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04">
+          <span class="pr-2">Luz y Vida — April 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -284,7 +305,7 @@ It is in document 144 and it says like this:
 > And forgive us every one our debts
 > As we also have forgiven our debtors.
 > Save us in temptation, deliver us from evil,
-> And increasingly make us perfect like yourself. ([UB 144:3.3-12](/en/The_Urantia_Book/144#p3_3))
+> And increasingly make us perfect like yourself. (<a id="a307_51"></a>[UB 144:3.3-12](/en/The_Urantia_Book/144#p3_3))
 
 Well yes, in _The Urantia Book_ the words debts/debtors appear, just like the Our Father prior to 1986 (in the original English, _debt_/_debtors_). In addition, there are phrases that do not appear in the Catholic Our Father: Vivify our soul with the water of life and Make us more and more perfect like yourself.
 
@@ -301,7 +322,7 @@ Jordi Prat
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="My favorite paragraph-Jordi Prat">
 </figure>
 
-> _The mortal-mind transcripts and the active creature-memory patterns as transformed from the material levels to the spiritual are the individual possession of the detached Thought Adjusters; these spiritized factors of mind, memory, and creature personality are forever a part of such Adjusters. The creature mind-matrix and the passive potentials of identity are present in the morontia soul intrusted to the keeping of the seraphic destiny guardians. And it is the reuniting of the morontia-soul trust of the seraphim and the spirit-mind trust of the Adjuster that reassembles creature personality and constitutes resurrection of a sleeping survivor._ [UB 47:3.3](/en/The_Urantia_Book/47#p3_3)
+> _The mortal-mind transcripts and the active creature-memory patterns as transformed from the material levels to the spiritual are the individual possession of the detached Thought Adjusters; these spiritized factors of mind, memory, and creature personality are forever a part of such Adjusters. The creature mind-matrix and the passive potentials of identity are present in the morontia soul intrusted to the keeping of the seraphic destiny guardians. And it is the reuniting of the morontia-soul trust of the seraphim and the spirit-mind trust of the Adjuster that reassembles creature personality and constitutes resurrection of a sleeping survivor._ <a id="a324_656"></a>[UB 47:3.3](/en/The_Urantia_Book/47#p3_3)
 
 In this paragraph he clearly explains that at the moment of death, the Adjuster is the custodian of the personality (“they are the individual possession of the detached Thought Adjuster. These spiritualized factors of creature mind, memory, and personality are part of the always of said Adjuster”).
 
@@ -377,3 +398,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04">
+          <span class="pr-2">Luz y Vida — April 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

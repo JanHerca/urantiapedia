@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More about how many survive (last part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-14-september-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 14 — September 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_1">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Surviving is an idea that always occupied my mind, even before learning about the gospel of Jesus, because in reality, if everything ends with death, life would not only be absurd but even cruel. But I believe that the miracle is not in the continuity but in our very existence. Being here is the true miracle, and if I live today, why won't I live tomorrow? Jesus demonstrated the fallacy of death, his resurrection is our guarantee, but will we all survive?
@@ -25,7 +49,7 @@ Now, I wonder: if the doctrine of universal salvation is true, what advantage wo
 
 All serious religions warn us about the possibility of soul loss. On the other hand, if there is true free will, it means that man can decide how to use it, either for good or for bad. God does not condemn man; it is man through his actions who chooses to be saved or lost.
 
-To finish with my idea, I want to do it with a quote found in paper 49, [UB 49:6.7](/en/The_Urantia_Book/49#p6_7): “_Thus are the sleeping survivors of a planetary age repersonalized in the dispensational roll calls. But with regard to the nonsalvable personalities of a realm, no immortal spirit is present to function with the group guardians of destiny, and this constitutes cessation of creature existence_.” This means clearly that there are people who are going to be lost. In short, that for there to be true free will, man must potentially have the possibility of choice, both to survive and to lose himself because, if we are all going to survive, such free will would be a myth and man would be condemned to survive. .
+To finish with my idea, I want to do it with a quote found in paper 49, <a id="a51_72"></a>[UB 49:6.7](/en/The_Urantia_Book/49#p6_7): “_Thus are the sleeping survivors of a planetary age repersonalized in the dispensational roll calls. But with regard to the nonsalvable personalities of a realm, no immortal spirit is present to function with the group guardians of destiny, and this constitutes cessation of creature existence_.” This means clearly that there are people who are going to be lost. In short, that for there to be true free will, man must potentially have the possibility of choice, both to survive and to lose himself because, if we are all going to survive, such free will would be a myth and man would be condemned to survive. .
 
 This is my modest opinion. I may be wrong, but that is also part of the universal plan.
 
@@ -38,3 +62,28 @@ This is my modest opinion. I may be wrong, but that is also part of the universa
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More about how many survive (last part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-14-september-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 14 — September 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_1">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

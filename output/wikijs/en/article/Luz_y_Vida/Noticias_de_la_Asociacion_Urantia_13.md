@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/El_dia_a_dia_despues_de_El_Libro_De_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The day to day after The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-30-september-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 30 — September 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Meeting at the “La Casa Verde” center in Barcelona
@@ -41,3 +62,25 @@ The Urantia Association of Spain will also be present at the Art i Sentiment fai
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/El_dia_a_dia_despues_de_El_Libro_De_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The day to day after The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-30-september-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 30 — September 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

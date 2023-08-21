@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Santiago Flores<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_28_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 28 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-28-march-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 28 — March 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/La_evolucion_espiritual_del_Hombre_1a_parte">
+          <span class="pr-2">The spiritual evolution of man for the achievement of mortal survival (first part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There are three levels of universal reality: fact, idea and relationship. They manifest in the life of intelligent creatures as thing, meaning and value. They are part of the human being as body, mind and spirit; thus encompassing the concrete, the abstract and the transcendent.
@@ -72,3 +96,28 @@ The harmonious balance of each level - to which we all naturally aspire - is kno
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_28_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 28 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-28-march-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 28 — March 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/La_evolucion_espiritual_del_Hombre_1a_parte">
+          <span class="pr-2">The spiritual evolution of man for the achievement of mortal survival (first part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

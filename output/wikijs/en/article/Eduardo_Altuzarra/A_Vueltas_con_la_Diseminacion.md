@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Eduardo Altuzarra<br>© 2006 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_6_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 6 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-6-september-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 6 — September 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="pr-2">Orvonton and the Milky Way</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I've been reading a lot lately about the disclosure of the Revealed Documents. I have tried to understand each and every one of the exposed topics and, today, I have come to the conclusion, in my modest opinion, that it has to be an ambitious macro-project based mainly on the union of knowledge, patience and insight. of the people involved and in the certainty of its projection. It also has to be related to time, since it will not develop in a single day, nor in a whole year.
@@ -23,7 +47,7 @@ After a while, you think differently and one of the first ideas that come to you
 
 The most sensible and appropriate thing is to share relationships and feelings with other readers who are close to us. Form small groups and interrelate in a homogeneous and flexible way where there are no strict rules, dogmas or obstacles, which is susceptible to changes or variations according to circumstances or needs, as all this helps in commitment and coherence. This way of cooperating leads to making agreements and reaching unanimity in ideas and projects; very important aspects to take into account within the activity of the macroproject.
 
-> “_Association with one’s fellows is essential to the renewal of the zest for life and is indispensable to the maintenance of the courage to fight those battles consequent upon the ascent to the higher levels of human living. Friendship enhances the joys and glorifies the triumphs of life. Loving and intimate human associations tend to rob suffering of its sorrow and hardship of much of its bitterness._” ([UB 160:2.8](/en/The_Urantia_Book/160#p2_8))
+> “_Association with one’s fellows is essential to the renewal of the zest for life and is indispensable to the maintenance of the courage to fight those battles consequent upon the ascent to the higher levels of human living. Friendship enhances the joys and glorifies the triumphs of life. Loving and intimate human associations tend to rob suffering of its sorrow and hardship of much of its bitterness._” (<a id="a49_410"></a>[UB 160:2.8](/en/The_Urantia_Book/160#p2_8))
 
 Organizing into groups represents, within the macro-project, among many other things, taking care and committing to grouping ideas, defining priorities, knowing how to listen, involving its members in comments and debates, collaborating in the various tasks of current data collection around the outreach and publicity, and work together. There may be what is called “creative conflict” between members and between groups, but we have to be very aware and understanding to know that we are developing everything with the healthy intention of cooperating from different ideas.
 
@@ -67,3 +91,28 @@ Let's establish the general bases and let's get to work on the project. Let's po
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_6_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 6 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-6-september-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 6 — September 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="pr-2">Orvonton and the Milky Way</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

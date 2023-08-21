@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Jaime Marco<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_el_modelo_estandar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and Divergences: The Standard Model</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agustin_Barajas/La_luz_esta_en_ti">
+          <span class="pr-2">The light is in you</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear readers:
@@ -31,3 +55,28 @@ If only our moral state could advance as fast as our technological achievements!
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_el_modelo_estandar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and Divergences: The Standard Model</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agustin_Barajas/La_luz_esta_en_ti">
+          <span class="pr-2">The light is in you</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

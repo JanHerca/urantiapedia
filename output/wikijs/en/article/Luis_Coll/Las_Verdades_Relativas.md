@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 L. Coll<br>© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Hijos_de_Dios_por_la_Fe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Children of God by faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-32-march-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 32 — March 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="pr-2">Love is the truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 What is the truth? Pilate asked Jesus ([John 18:38](/en/Bible/John/18#v38))
@@ -51,3 +75,28 @@ In this world of ours, any person or group that appears saying that they have th
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/Hijos_de_Dios_por_la_Fe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Children of God by faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-32-march-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 32 — March 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="pr-2">Love is the truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

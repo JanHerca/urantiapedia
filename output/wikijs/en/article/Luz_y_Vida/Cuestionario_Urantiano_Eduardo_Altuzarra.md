@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_aparicion_de_materia_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and divergences: appearance on the cosmic scene of matter-energy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-38-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 38 — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_18">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -27,7 +51,7 @@ It is true that, perhaps mainly due to my religious upbringing in my childhood a
 
 It goes without saying that nothing that I experienced during that long period could give me a convincing explanation. In all honesty, I have to state that I am not a person who is easily convinced.
 
-At one point, back in the spring of 1994, probably after “unpacking”, tired of searching and wasting time on tricks from three to four, one fine day I went to the shelves of my library, caressed the heavy book, I took it in my hands and let it open randomly... Eureka! It scrolled down to [4:5](/en/The_Urantia_Book/4#p5) and read: 5. GOD'S MISTAKEN IDEAS. Then I began to read and I liked what I was reading so much that today is the date on which I continue with that reading, with that story that for me, today, is endless.
+At one point, back in the spring of 1994, probably after “unpacking”, tired of searching and wasting time on tricks from three to four, one fine day I went to the shelves of my library, caressed the heavy book, I took it in my hands and let it open randomly... Eureka! It scrolled down to <a id="a53_289"></a>[4:5](/en/The_Urantia_Book/4#p5) and read: 5. GOD'S MISTAKEN IDEAS. Then I began to read and I liked what I was reading so much that today is the date on which I continue with that reading, with that story that for me, today, is endless.
 
 ## 2. What was your first impression when reading it?
 
@@ -109,3 +133,28 @@ In the end I believe that God created eternity to keep us eternally entertained.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_aparicion_de_materia_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and divergences: appearance on the cosmic scene of matter-energy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-38-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 38 — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_18">
+          <span class="pr-2">News from Urantia Association of Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

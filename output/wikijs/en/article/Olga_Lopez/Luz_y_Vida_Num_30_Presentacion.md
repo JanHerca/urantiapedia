@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Olga López<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-30-september-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 30 — September 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/La_evolucion_espiritual_del_Hombre_2a_parte">
+          <span class="pr-2">The spiritual evolution of man for the achievement of mortal survival (last part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -44,3 +65,25 @@ Olga Lopez
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-30-september-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 30 — September 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/La_evolucion_espiritual_del_Hombre_2a_parte">
+          <span class="pr-2">The spiritual evolution of man for the achievement of mortal survival (last part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_15_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 15 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-15-december-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 15 — December 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/El_Ajustador_y_la_experiencia">
+          <span class="pr-2">Adjuster and experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The life of Jesus in full swing in both its spiritual and human dimension. Each one of his teachings contains a universe of valid answers for an endless number of situations, although as a general rule his redemptive mission is emphasized, thus leaving other no less important facets somewhat relegated, which in one way or another help us in the spiritual development of our lives. lives.
@@ -25,7 +49,7 @@ Although Christ was not a social reformer, he did elevate the feeling of dignity
 
 The mission of Jesus was to proclaim the fatherhood of God and therefore the brotherhood. We have only one father and that makes us brothers, brothers by faith and by the desire for perfection, which is nothing other than living according to the will of the Father. Jesus did not come to bring a new religion; his effort is rather to demonstrate how religion has to be lived, redefined as man's experience with spiritual realities. That is why it has a cosmic and universal value. Jesus welcomed people of all races and social strata. Our Father gives each man the opportunity equally; It is up to us to decide whether to accept or reject such a sublime proposal. This is the only thing that determines whether we transcend or get lost.
 
-The water of life continues to flow from that inexhaustible spring that is the gospel of the kingdom. Whoever is thirsty has nothing else to do than ask for it and, as the Master assured, he will be satisfied forever. That is my experience and that of all of us who have tasted the water of life and, like [la mujer de Sicar](/en/The_Urantia_Book/143#p5_2), our lives have been transformed. And if our lives have been transformed, it means that others will too.
+The water of life continues to flow from that inexhaustible spring that is the gospel of the kingdom. Whoever is thirsty has nothing else to do than ask for it and, as the Master assured, he will be satisfied forever. That is my experience and that of all of us who have tasted the water of life and, like <a id="a51_306"></a>[la mujer de Sicar](/en/The_Urantia_Book/143#p5_2), our lives have been transformed. And if our lives have been transformed, it means that others will too.
 
 “Here I am, I am at the doors and I knock”. This invitation is still valid, there is no other condition than to accept. Our Father expects man to open the door of his heart and that we have the willingness to surrender our will to Him, and surrendering our will to the Father is nothing more than the interior willingness to do everything that is ethical, everything that is beautiful. and everything that denotes kindness and love. This delivery is never a sacrifice, it is rather a joy that sublimates the soul and drives man to ever higher goals in a search for supreme values. When this happens, the miracle of the new birth takes place.
 
@@ -39,3 +63,28 @@ This call of love is not limited to a specific racial or social group, nor is it
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_15_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 15 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-15-december-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 15 — December 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/El_Ajustador_y_la_experiencia">
+          <span class="pr-2">Adjuster and experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

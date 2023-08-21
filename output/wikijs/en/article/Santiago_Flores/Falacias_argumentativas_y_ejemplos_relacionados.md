@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Santiago Flores<br>© 2016 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_45_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 45 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-45-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 45 — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="pr-2">The government of a neighboring planet: the possible utopia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (_Exposed in the board list “El rincón de Urantia” in June 2015_)
@@ -105,7 +129,7 @@ As _The Urantia Book_ does not deny the possibility that dinosaurs developed int
 
 Yes, yes, I know that they will tell me that _The Urantia Book_ says that the will did not appear until Andón and Fonta were born, but that is a general case... and this is a particular case. This is a decimal planet, besides, didn't you notice that the Planetary Prince took half a million years to come after the will of Andon and Fonta appeared? That's because the will had already developed among the dinosaurs, but it didn't spread because they almost went extinct soon after, so the Most Highs wanted to make sure that the descendants of Andon and Fonta wouldn't go extinct before sending the Prince, and they segregated the two races. because it is a rarity in the universe that intelligent lizards have developed and the universal economy was not going to waste that opportunity, of course not.
 
-In [UB 49:2.18](/en/The_Urantia_Book/49#p2_18), it clearly says “_But these modifications of early intelligent creatures are neither human fishes nor human birds. They are of the human and prehuman types, neither superfishes nor glorified birds but distinctly mortal._» Here is the proof! It says: ”_neither super fish nor glorified birds_" but it doesn't mention dinosaurs, did you notice? That is why here he leaves open the possibility that dinosaurs (which are neither fish nor birds) could develop intelligence.
+In <a id="a131_3"></a>[UB 49:2.18](/en/The_Urantia_Book/49#p2_18), it clearly says “_But these modifications of early intelligent creatures are neither human fishes nor human birds. They are of the human and prehuman types, neither superfishes nor glorified birds but distinctly mortal._» Here is the proof! It says: ”_neither super fish nor glorified birds_" but it doesn't mention dinosaurs, did you notice? That is why here he leaves open the possibility that dinosaurs (which are neither fish nor birds) could develop intelligence.
 
 Since we haven't seen intelligent lizards out there, it's obvious that they must have hidden somewhere, and since there are so many and so big we can only explain their hiding place with the hollow Earth theory, which must also be true because a large number of people believes her
 
@@ -125,3 +149,28 @@ Search the internet for “The Bogdanov Scandal” and you will see how a long p
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_45_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 45 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-45-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 45 — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="pr-2">The government of a neighboring planet: the possible utopia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

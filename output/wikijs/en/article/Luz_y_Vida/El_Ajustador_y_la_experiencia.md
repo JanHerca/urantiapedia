@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Santiago Rodríguez, Andrés Pérez<br>© 2008 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ernesto_Veloso/Jesus_y_la_samaritana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus and the Samaritan woman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-15-december-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 15 — December 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/El_Libro_de_Urantia_y_su_difusion">
+          <span class="pr-2">The Urantia Book and its dissemination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By various authors
@@ -20,9 +44,9 @@ By various authors
 - Santiago Rodríguez
 - Andrés Pérez
 
-**Andrés:** I would like to ask you: how is it possible that if God is almighty and has deposited a fragment of himself in each one of us, that Adjuster that dwells in us does not have experiences? So what can you give us? or what do you want them for? And if so, why does he need them, if he is a fragment of God? I fail to understand why he accumulates experiences from beings who are beginning to have them. In [UB 16:9.3](/en/The_Urantia_Book/16#p9_3) it is said “_if mortal man fails to survive natural death, the real spiritual values of his human experience survive as a part of the continuing experience of the Thought Adjuster_”. And I say why do you want it, if I have to assume that this fragment of God should be “almighty” (in this I include all the values that I know that God has)
+**Andrés:** I would like to ask you: how is it possible that if God is almighty and has deposited a fragment of himself in each one of us, that Adjuster that dwells in us does not have experiences? So what can you give us? or what do you want them for? And if so, why does he need them, if he is a fragment of God? I fail to understand why he accumulates experiences from beings who are beginning to have them. In <a id="a46_414"></a>[UB 16:9.3](/en/The_Urantia_Book/16#p9_3) it is said “_if mortal man fails to survive natural death, the real spiritual values of his human experience survive as a part of the continuing experience of the Thought Adjuster_”. And I say why do you want it, if I have to assume that this fragment of God should be “almighty” (in this I include all the values that I know that God has)
 
-I would like you to tell me your opinion, the one that each one of you has about it, because it is not that I do not intuit some concepts of that Adjuster, but these sections are strange to me, since there are several of this subject that I expose, and to my understanding I do not get to “catch” how these celestial beings do not have experiences coming from God, as in another paragraph [UB 110:2.3](/en/The_Urantia_Book/110#p2_3) says: “_the Adjusters are dedicated to improving, modifying, adjusting, and co-ordinating your thinking processes_” etc.
+I would like you to tell me your opinion, the one that each one of you has about it, because it is not that I do not intuit some concepts of that Adjuster, but these sections are strange to me, since there are several of this subject that I expose, and to my understanding I do not get to “catch” how these celestial beings do not have experiences coming from God, as in another paragraph <a id="a48_389"></a>[UB 110:2.3](/en/The_Urantia_Book/110#p2_3) says: “_the Adjusters are dedicated to improving, modifying, adjusting, and co-ordinating your thinking processes_” etc.
 
 And I say, if they don't have experience, how can they help us in this complicated world in which almost everyone who has come has failed, if not totally, then partially.
 
@@ -48,9 +72,9 @@ And we have the privilege of having been created imperfect, and with our will (a
 
 What more can we ask for?
 
-**Antonio:** In the universe, the Book tells us, there is NOTHING that can replace experience. “_There is simply nothing in all universal existence which can take the place of actual personal experience_” ([UB 22:9.7](/en/The_Urantia_Book/22#p9_7)). “_Nothing in the entire universe can substitute for the fact of experience on nonexistential levels_” ([UB 108:0.2](/en/The_Urantia_Book/108#p0_2))
+**Antonio:** In the universe, the Book tells us, there is NOTHING that can replace experience. “_There is simply nothing in all universal existence which can take the place of actual personal experience_” (<a id="a74_206"></a>[UB 22:9.7](/en/The_Urantia_Book/22#p9_7)). “_Nothing in the entire universe can substitute for the fact of experience on nonexistential levels_” (<a id="a74_353"></a>[UB 108:0.2](/en/The_Urantia_Book/108#p0_2))
 
-God is existential, not experiential. He is the alpha and the omega, he knows the end from the beginning, therefore “_God does not acquire experience_” ([UB 1:5.14](/en/The_Urantia_Book/1#p5_14)) “_God, as he is eternal, universal, absolute and infinite, does not grow in knowledge nor increases in wisdom_” (same page and paragraph) “_God is eternally and infinitely perfect, he cannot personally know imperfection as his own experience_” ([UB 2:2.6](/en/The_Urantia_Book/2#p2_6)), but he really participates in the experience with immaturity and imperfection... to through the Thought Adjusters.
+God is existential, not experiential. He is the alpha and the omega, he knows the end from the beginning, therefore “_God does not acquire experience_” (<a id="a76_153"></a>[UB 1:5.14](/en/The_Urantia_Book/1#p5_14)) “_God, as he is eternal, universal, absolute and infinite, does not grow in knowledge nor increases in wisdom_” (same page and paragraph) “_God is eternally and infinitely perfect, he cannot personally know imperfection as his own experience_” (<a id="a76_441"></a>[UB 2:2.6](/en/The_Urantia_Book/2#p2_6)), but he really participates in the experience with immaturity and imperfection... to through the Thought Adjusters.
 
 Adjusters are prepersonal, that is, they come from the God level on which personality has not yet appeared. They are, so to speak, prior to the Eternal Son. They are pre-personal. And they come out “virgins” from that level of God, that is, without experience (remember that at those levels experience -the finite level- does not exist, nor does God need it)
 
@@ -74,3 +98,28 @@ If we survive, the Adjuster will return and fuse with us. If we do not survive, 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ernesto_Veloso/Jesus_y_la_samaritana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus and the Samaritan woman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-15-december-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 15 — December 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/El_Libro_de_Urantia_y_su_difusion">
+          <span class="pr-2">The Urantia Book and its dissemination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 John B. Parkinson<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — April 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles">
+          <span class="pr-2">Urantia Questionnaire: Ginés Avilés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Background
@@ -36,7 +60,7 @@ But I can say one thing for sure about this search: there is no source on earth 
 
 The passage in _The Urantia Book_ that is that key is from Paper 41, “The Physical Aspects of the Local Universe”:
 
-> Ten Supreme Power Centers of the fifth order are assigned to each of Nebadon’s primary subdivisions, the one hundred constellations. In Norlatiadek, your constellation, they are not stationed on the headquarters sphere but are situated at the center of the enormous stellar system which constitutes the physical core of the constellation. On Edentia there are ten associated mechanical controllers and ten frandalanks who are in perfect and constant liaison with the near-by power centers. ([UB 41:1.4](/en/The_Urantia_Book/41#p1_4))
+> Ten Supreme Power Centers of the fifth order are assigned to each of Nebadon’s primary subdivisions, the one hundred constellations. In Norlatiadek, your constellation, they are not stationed on the headquarters sphere but are situated at the center of the enormous stellar system which constitutes the physical core of the constellation. On Edentia there are ten associated mechanical controllers and ten frandalanks who are in perfect and constant liaison with the near-by power centers. (<a id="a62_493"></a>[UB 41:1.4](/en/The_Urantia_Book/41#p1_4))
 
 When we think of the dozens, if not hundreds, of potential passages that would unlock these mysteries, you naturally wonder why this one? The three keywords above are “huge star system,” which tells us that the sky of the constellation Edentia is in a cluster of stars. The next questions are: what type of star cluster and which?
 
@@ -50,11 +74,11 @@ Of the two types, globular star clusters are a special variety found mostly in t
 
 At the time _The Urantia Book_ was published, in 1955, there were no known astronomical locations or astrophysical structures that could be correlated with the knowledge imparted about the basic administrative units known as the “system” or the “Constellation,” as described. defines in the following passages:
 
-> 1. _The system._ The basic unit of the supergovernment is composed of about a thousand inhabited or habitable worlds. Bright suns, cold worlds, planets too close to hot suns, and other spheres unsuitable as creature dwellings are not included in this group. These thousand worlds adapted to support life are called a system, but in the youngest systems, only a relatively small number of these worlds can be inhabited. Each inhabited planet is headed by a Planetary Prince, and each local system has an architectural sphere as its headquarters, being governed by a System Sovereign. [UB 15:2.3](/en/The_Urantia_Book/15#p2_3)
+> 1. _The system._ The basic unit of the supergovernment is composed of about a thousand inhabited or habitable worlds. Bright suns, cold worlds, planets too close to hot suns, and other spheres unsuitable as creature dwellings are not included in this group. These thousand worlds adapted to support life are called a system, but in the youngest systems, only a relatively small number of these worlds can be inhabited. Each inhabited planet is headed by a Planetary Prince, and each local system has an architectural sphere as its headquarters, being governed by a System Sovereign. <a id="a76_585"></a>[UB 15:2.3](/en/The_Urantia_Book/15#p2_3)
 > 
-> 2. _The constellation._ One hundred systems (about 100,000 habitable planets) form a constellation. Each constellation has an architectural headquarters sphere and is presided over by three Vorondadek Sons, the Most Highs. Each constellation also has as its observer a Faithful of Days, the ambassador of the Paradise Trinity. [UB 15:2.4](/en/The_Urantia_Book/15#p2_4)
+> 2. _The constellation._ One hundred systems (about 100,000 habitable planets) form a constellation. Each constellation has an architectural headquarters sphere and is presided over by three Vorondadek Sons, the Most Highs. Each constellation also has as its observer a Faithful of Days, the ambassador of the Paradise Trinity. <a id="a78_329"></a>[UB 15:2.4](/en/The_Urantia_Book/15#p2_4)
 > 
-> 3. _The local universe._ One hundred constellations (about 10,000,000 habitable planets) constitute a local universe. Each local universe has a magnificent architectural headquarters world and is governed by one of the co-ordinate Creator Sons of God of the Michael order. Each universe is blessed by the presence of a Union of Days, the representative of the Paradise Trinity. [UB 15:2.5](/en/The_Urantia_Book/15#p2_5)
+> 3. _The local universe._ One hundred constellations (about 10,000,000 habitable planets) constitute a local universe. Each local universe has a magnificent architectural headquarters world and is governed by one of the co-ordinate Creator Sons of God of the Michael order. Each universe is blessed by the presence of a Union of Days, the representative of the Paradise Trinity. <a id="a80_380"></a>[UB 15:2.5](/en/The_Urantia_Book/15#p2_5)
 
 Aside from our solar system and then going up to much larger structures like Gould's belt and Orion's arm on a galactic scale, much of the intermediate level of astronomical detail that we might identify as part of a “system” or “constellation” according to the revelation was missing until about twenty years ago when the details of the Local Astrophysical Bubble and the network of interstellar clouds that populate this huge bubble were discovered.
 
@@ -77,7 +101,7 @@ Let's look in detail at a particular passage from _The Urantia Book_ that can on
 
 Here is the quote:
 
-> Urantia is comparatively isolated on the outskirts of Satania, your solar system, with one exception, being the farthest removed from Jerusem, while Satania itself is next to the outermost system of Norlatiadek, and this constellation is now traversing the outer fringe of Nebadon. You were truly among the least of all creation until Michael’s bestowal elevated your planet to a position of honor and great universe interest. Sometimes the last is first, while truly the least becomes greatest. ([UB 41:10.5](/en/The_Urantia_Book/41#p10_5))
+> Urantia is comparatively isolated on the outskirts of Satania, your solar system, with one exception, being the farthest removed from Jerusem, while Satania itself is next to the outermost system of Norlatiadek, and this constellation is now traversing the outer fringe of Nebadon. You were truly among the least of all creation until Michael’s bestowal elevated your planet to a position of honor and great universe interest. Sometimes the last is first, while truly the least becomes greatest. (<a id="a103_499"></a>[UB 41:10.5](/en/The_Urantia_Book/41#p10_5))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky/TASOFH4.jpg">
@@ -107,3 +131,28 @@ After examining the Hyades, we will move on to my discovery of Jerusem, whose ne
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — April 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles">
+          <span class="pr-2">Urantia Questionnaire: Ginés Avilés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Garcia_Bory/Reflexiones_urantianas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -71,3 +92,25 @@ I would like many more of us who know and believe in the divine teachings of _Th
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Garcia_Bory/Reflexiones_urantianas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

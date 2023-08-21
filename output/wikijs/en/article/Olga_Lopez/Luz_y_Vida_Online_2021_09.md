@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore">
+          <span class="pr-2">Urantia Questionnaire: Jorge Nagore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -55,12 +76,12 @@ We offer you a wide variety of material of a “Urantian” nature, for the Uran
 > the drive of exploration—<br>
 > is a part of the inborn and <br>
 > divine endowment of evolutionary space creatures.
-> ([UB 14:5.11](/en/The_Urantia_Book/14#p5_11))
+> (<a id="a78_3"></a>[UB 14:5.11](/en/The_Urantia_Book/14#p5_11))
 
 This is how we can understand the surprising encounters of Jesus of Nazareth with children. Jesus recriminates his apostles when they do not allow children to approach Him. Jesus names them as a model for everyone, that is, for his countrymen, disciples... and for us who live in the 21st century.
 
 > “Verily, verily, I say to you, whosoever receives not the kingdom of God as a little child shall hardly enter therein to grow up to the full stature of spiritual manhood.”
-> ([UB 167:6.1](/en/The_Urantia_Book/167#p6_1))
+> (<a id="a83_3"></a>[UB 167:6.1](/en/The_Urantia_Book/167#p6_1))
 
 Can we imagine what our lives on Urantia would be like if they were oriented according to a series of attitudes manifested by the little ones?
 
@@ -89,11 +110,11 @@ Learning by playing, discovering for ourselves the great truths or values of exi
 Now we better understand this eternal game that is our life.
 
 
-> The uncertainties of life and the vicissitudes of existence do not in any way contradict the concept of God's universal sovereignty. [UB 3:5.5](/en/The_Urantia_Book/3#p5_5)
+> The uncertainties of life and the vicissitudes of existence do not in any way contradict the concept of God's universal sovereignty. <a id="a112_135"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5)
 > 
-> A free and inexperienced intelligence cannot be by any means uniformly wise at first. [UB 3:5.15](/en/The_Urantia_Book/3#p5_15)
+> A free and inexperienced intelligence cannot be by any means uniformly wise at first. <a id="a114_88"></a>[UB 3:5.15](/en/The_Urantia_Book/3#p5_15)
 > 
-> All the divine things that the human mind captures and that the human soul achieves are experiential achievements; they are _realities_ of personal experience and are therefore unique possessions. [UB 3:5.16](/en/The_Urantia_Book/3#p5_16)
+> All the divine things that the human mind captures and that the human soul achieves are experiential achievements; they are _realities_ of personal experience and are therefore unique possessions. <a id="a116_199"></a>[UB 3:5.16](/en/The_Urantia_Book/3#p5_16)
 
 We see, then, that everything is carefully planned so that we seek and discover for ourselves the pearls of Life.
 
@@ -245,7 +266,7 @@ Olga Lopez
 </figure>
 
 
-> _Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences._ ([UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
+> _Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences._ (<a id="a268_248"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
 
 I have chosen this paragraph from document 102 as my favourite, although I could say that there are many paragraphs in the book that resonate strongly within me and that I find as beautiful in form as in substance.
 
@@ -301,3 +322,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore">
+          <span class="pr-2">Urantia Questionnaire: Jorge Nagore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03">
+          <span class="pr-2">Luz y Vida — March 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -33,7 +54,7 @@ Light and Life — March 2021
 
 Maria Jose Sanchez Santamaria
 
-> _THE age of light and life is the final evolutionary attainment of a world of time and space. . . ._ ([UB 55:0.1](/en/The_Urantia_Book/55#p0_1))
+> _THE age of light and life is the final evolutionary attainment of a world of time and space. . . ._ (<a id="a56_104"></a>[UB 55:0.1](/en/The_Urantia_Book/55#p0_1))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/01.jpg" width="250">
@@ -216,3 +237,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03">
+          <span class="pr-2">Luz y Vida — March 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

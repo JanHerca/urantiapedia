@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_El_Entrelazamiento_Cuantico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and Divergences: Quantum Entanglement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-32-march-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 32 — March 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## In Memoriam - Josefina Canseco
@@ -163,3 +184,25 @@ Next Friday, March 15, from 7 to 8:30 in the afternoon, Jaime Marco (Vice Presid
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_El_Entrelazamiento_Cuantico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and Divergences: Quantum Entanglement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-32-march-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 32 — March 2013 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

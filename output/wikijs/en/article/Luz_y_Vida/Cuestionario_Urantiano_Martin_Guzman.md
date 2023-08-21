@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/Reflexiones_urantianas_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Reflections: Awakening to a New Consciousness (Part Two)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -85,3 +106,25 @@ _The Urantia Book_ is a road map that teaches us where to find the sustenance th
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eduardo_Altuzarra/Reflexiones_urantianas_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Reflections: Awakening to a New Consciousness (Part Two)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

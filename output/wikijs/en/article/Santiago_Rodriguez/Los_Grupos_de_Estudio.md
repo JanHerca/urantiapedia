@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Santiago Rodríguez<br>© 2006 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Como_Dar_a_Conocer_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How to publicize The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-5-may-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 5 — May 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="pr-2">How to live the teachings of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introduction by Santiago Rodriguez
@@ -80,3 +104,28 @@ We have to be the leaven that makes God's people grow.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Como_Dar_a_Conocer_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How to publicize The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-5-may-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 5 — May 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="pr-2">How to live the teachings of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

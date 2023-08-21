@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="pr-2">The astronomical secrets of the sky</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -59,7 +80,7 @@ All this shows us a vibrant, dynamic, increasingly interconnected and planetary 
 
 <br style="clear:both" />
 
-> “Cease to fear men; be unafraid to preach the good news of eternal life to your fellows who languish in darkness and hunger for the light of truth.” ([UB 192:2.11](/en/The_Urantia_Book/192#p2_11))
+> “Cease to fear men; be unafraid to preach the good news of eternal life to your fellows who languish in darkness and hunger for the light of truth.” (<a id="a82_152"></a>[UB 192:2.11](/en/The_Urantia_Book/192#p2_11))
 
 ## Works – our recommendations of the month
 
@@ -269,3 +290,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="pr-2">The astronomical secrets of the sky</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

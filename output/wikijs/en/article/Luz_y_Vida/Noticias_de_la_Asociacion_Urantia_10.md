@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_Los_cromosomas_humanos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and divergences: Human chromosomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-27-december-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 27 — December 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 When I accepted the position of Responsible for the study groups in Spain, which was offered to me by the Urantia Association in Spain, I decided first of all to find out about the current situation of the study groups in this country and then create a direct link, through a mailing group, with all the readers who coordinate said groups, so that we can all be in contact and know how many of us are and how each group operates; something that can serve us all.
@@ -35,3 +56,25 @@ Mariano Perez
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_Los_cromosomas_humanos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences and divergences: Human chromosomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-27-december-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 27 — December 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

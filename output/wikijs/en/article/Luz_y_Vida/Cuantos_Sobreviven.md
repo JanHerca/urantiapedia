@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra, Andrés Pérez, Santiago Rodríguez<br>© 2007 Urantia Association of Spain< /p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mariano_Perez/Lugares_Santos_Primera_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holy places? (first part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-11-december-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 11 — December 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009_y_Asociacion">
+          <span class="pr-2">News about the UAI International Conference and Spain Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By various authors
@@ -41,7 +65,7 @@ I think there is some information. The following is from Doc. 112-5:
 > 
 > _The governments of Orvonton and Nebadon do not claim absolute perfection for the detail working of the universal plan of mortal repersonalization, but they do claim to, and actually do, manifest patience, tolerance, understanding, and merciful sympathy. <ins>We had rather assume the risk of a system rebellion</ins> than to court the hazard of depriving one struggling mortal from any evolutionary world of the eternal joy of pursuing the ascending career._
 > 
-> _This does not mean that human beings are to enjoy <ins>a second opportunity</ins> in the face of <ins>the rejection of a first</ins>, not at all. But it does signify that all will creatures are to experience <ins>one true opportunity</ins> to make one <ins>undoubted, self-conscious, and final choice</ins>. The sovereign Judges of the universes will not deprive any being of personality status who has not <ins>finally and fully made</ins> the eternal choice; the soul of man must and will be given full and ample opportunity to reveal its true intent and real purpose._ ([UB 112:5.6-9](/en/The_Urantia_Book/112#p5_6))
+> _This does not mean that human beings are to enjoy <ins>a second opportunity</ins> in the face of <ins>the rejection of a first</ins>, not at all. But it does signify that all will creatures are to experience <ins>one true opportunity</ins> to make one <ins>undoubted, self-conscious, and final choice</ins>. The sovereign Judges of the universes will not deprive any being of personality status who has not <ins>finally and fully made</ins> the eternal choice; the soul of man must and will be given full and ample opportunity to reveal its true intent and real purpose._ (<a id="a67_576"></a>[UB 112:5.6-9](/en/The_Urantia_Book/112#p5_6))
 
 You will agree that this “full and final” choice can hardly be made here. Not even we, who know something about the matter, can make this “full and final” eternal choice. How much less does he not even know that he has to make a choice!
 
@@ -49,7 +73,7 @@ Nobody here knows almost nothing, and those of us who know something are full of
 
 I always remember dictators. How can an individual have the audacity to grab all the power for himself, all the money for himself, imprison or kill his opponents, privilege only his family, and leave the entire population of America to die of disgust and misery? his country? One can be ignorant, but does one necessarily have to be bad (bad in the sense of doing harm to others)? All human evil is done out of selfishness: power and/or wealth is pursued for oneself. I don't know how a dictator can talk about God and massacre his people (Saddam, Franco, Pinochet). And so we can go down into human evil until we reach the man in the street. The mason who cheats you on the price, charging you more than the work in your bathroom is worth. The businessman who pays his employees fairly and poorly, but then has a BMW and a villa with a pool on the beach. And so on. These are the consequences of atheism and the total lack of values (divine values, since human values (power and money) are all pursued).
 
-To which we were going: How many survive? I have no idea. The same human wickedness is, or can be, a consequence of the same ignorance. And what can you do with an ignoramus (of cosmic things)? Are you going to condemn him forever? I do not think so at all. Reread [UB 28:6.2](/en/The_Urantia_Book/28#p6_2): “_the importance of the origin..._”, “_the origin is the basis of the reaction of the Gods..._”, “_The Conjunct Actor always takes note of man, the way he who was born_”. And also reread [UB 40:5.11](/en/The_Urantia_Book/40#p5_11): “_The Gods who have ordered mortal man to rise... take note of his state and his needs..._”
+To which we were going: How many survive? I have no idea. The same human wickedness is, or can be, a consequence of the same ignorance. And what can you do with an ignoramus (of cosmic things)? Are you going to condemn him forever? I do not think so at all. Reread <a id="a75_265"></a>[UB 28:6.2](/en/The_Urantia_Book/28#p6_2): “_the importance of the origin..._”, “_the origin is the basis of the reaction of the Gods..._”, “_The Conjunct Actor always takes note of man, the way he who was born_”. And also reread <a id="a75_495"></a>[UB 40:5.11](/en/The_Urantia_Book/40#p5_11): “_The Gods who have ordered mortal man to rise... take note of his state and his needs..._”
 
 Therefore, the mercy of God can be such that the one who does not survive is because he is a cunt. In order not to survive, you have to be AGAINST spiritual progress. In our world, who is consciously?
 
@@ -63,7 +87,7 @@ In this world, all of us, thank God, have been taught from a very young age that
 
 I tell you one thing. Ever since I became moderately aware of the UB text, I've always worried if a guy like me would one day survive on those worlds of God.
 
-When I read Paper 2 - 3rd paragraph [“La justicia y la rectitud”](/en/The_Urantia_Book/2#p3) I was already somewhat affected. Later I stumbled upon the “inevitabilities”, my blood ran cold. Later with the concept of sin and iniquity, I came to say to myself: "Fuck, friend! for you who are a rebel, this will be more difficult than climbing the mythical mountain of Tourmalet by bike.»
+When I read Paper 2 - 3rd paragraph <a id="a89_36"></a>[“La justicia y la rectitud”](/en/The_Urantia_Book/2#p3) I was already somewhat affected. Later I stumbled upon the “inevitabilities”, my blood ran cold. Later with the concept of sin and iniquity, I came to say to myself: "Fuck, friend! for you who are a rebel, this will be more difficult than climbing the mythical mountain of Tourmalet by bike.»
 
 Well then, consecutively as I read and tried to understand, a fairly clear idea of my “invisible companion” came to me, of psychic circles or cosmic levels, of God's mercy, etc. and I came to the conclusion that with a little time, patience and faith, well, I think I've come to believe almost everything the UB says, except what I don't understand. So I could well get to climb not only Tourmalet, but Montblanc or, if necessary, Everest on the fucking bike.
 
@@ -73,7 +97,7 @@ How many survive? Well, honestly I don't get to know, but I think that the vast 
 
 I want to know your opinion on what I expose below.
 
-> “_Most Adjusters who have translated their subjects from Urantia were highly experienced and of record as previous indwellers of ***numerous mortals*** on other spheres. Remember, Adjusters gain valuable indwelling experience on planets of the loan order; it does not follow that Adjusters ***<ins>only</ins>*** gain experience for advanced work ***in those mortal subjects who fail to survive***._” ([UB 110:7.3](/en/The_Urantia_Book/110#p7_3))
+> “_Most Adjusters who have translated their subjects from Urantia were highly experienced and of record as previous indwellers of ***numerous mortals*** on other spheres. Remember, Adjusters gain valuable indwelling experience on planets of the loan order; it does not follow that Adjusters ***<ins>only</ins>*** gain experience for advanced work ***in those mortal subjects who fail to survive***._” (<a id="a99_403"></a>[UB 110:7.3](/en/The_Urantia_Book/110#p7_3))
 
 I understand that when an Adjuster is wandering through the worlds of God, accumulating experience, in the first place it is because he has “lost” his “tenant.” I gather that later you can get more practice with other “borrowed” mortals. 'I'm wrong? He speaks of “most of the Adjusters.” Will they have been many or few?
 
@@ -93,7 +117,7 @@ Eduardo, I don't think the inner friend helps too many people at this time. Ther
 
 The paragraph refers to the hopes of eternal life of one of the prostitutes that Jesus and Ganid met while in Corinth on their return from Rome. It is from paper 133. It says like this (forgive me for posting my translation?):
 
-> “_Thus did Jesus and Ganid take leave of the women. So far the two courtesans had said nothing; likewise was Ganid speechless. And for a few moments so was Martha, but presently she rose to the occasion and did everything for these strangers that Jesus had hoped for. The elder of these two women died a short time thereafter, <ins>with bright hopes of eternal survival</ins>, and the younger woman worked at Justus’ place of business and later became a lifelong member of the first Christian church in Corinth._” ([UB 133:3.10](/en/The_Urantia_Book/133#p3_10))
+> “_Thus did Jesus and Ganid take leave of the women. So far the two courtesans had said nothing; likewise was Ganid speechless. And for a few moments so was Martha, but presently she rose to the occasion and did everything for these strangers that Jesus had hoped for. The elder of these two women died a short time thereafter, <ins>with bright hopes of eternal survival</ins>, and the younger woman worked at Justus’ place of business and later became a lifelong member of the first Christian church in Corinth._” (<a id="a119_517"></a>[UB 133:3.10](/en/The_Urantia_Book/133#p3_10))
 
 The underlining is mine.
 
@@ -105,7 +129,7 @@ As for everyone's survival... I always remember that the L.d.U. He is the only o
 
 **Carmelo:** It surprises me, not because it refers to a prostitute or for any other personal condition (I have no prejudice in this regard, and we must remember the attitude of Jesus of Nazareth in this matter), but because they can be known or predict in any way the chances of survival of a person. In this case I am surprised because it is said, indirectly, that the midwayers have some means of foreseeing the chances of survival of the terrestrials.
 
-As for evil, you are right, the consequences are social. However, the UB also teaches us that in evil there are opportunities, and even advantages, to grow as people. The Father is never the origin of evil, but I am not very clear about his relationship with him, precisely because it seems that good is obtained from evil and also in much greater quantity. Reread paragraphs [UB 54:6.6](/en/The_Urantia_Book/54#p6_6) and [UB 54:6.7](/en/The_Urantia_Book/54#p6_7) of section 6 of paper 54.
+As for evil, you are right, the consequences are social. However, the UB also teaches us that in evil there are opportunities, and even advantages, to grow as people. The Father is never the origin of evil, but I am not very clear about his relationship with him, precisely because it seems that good is obtained from evil and also in much greater quantity. Reread paragraphs <a id="a131_376"></a>[UB 54:6.6](/en/The_Urantia_Book/54#p6_6) and <a id="a131_422"></a>[UB 54:6.7](/en/The_Urantia_Book/54#p6_7) of section 6 of paper 54.
 
 **Santiago:** I believe that the Father's relationship with EVIL is null. That is to say, in terms of its origin and appearance, it inevitably occurs from the existence of free will in beings who have very short-sighted sights, flaunting their name of GOD, it does not prevent it, which is not the same as allowing it (? Does it happen against your will? Is it possible for something to happen against your will?). But it immediately puts in place mechanisms to alleviate the devastating effects of evil.
 
@@ -113,7 +137,7 @@ The fact that today the evil produced by Lucifer's rebellion has become good, an
 
 How many survive?
 
-I like to think that we will all have another chance, that they will wait for us to actually say NO in a fully conscious way, but what I read in [UB 112:3.1](/en/The_Urantia_Book/112#p3_1) worries me.
+I like to think that we will all have another chance, that they will wait for us to actually say NO in a fully conscious way, but what I read in <a id="a139_145"></a>[UB 112:3.1](/en/The_Urantia_Book/112#p3_1) worries me.
 
 It clearly warns of a spiritual death in life in the flesh. It seems that there is no choice but to admit that this is there, then surely it happens.
 
@@ -139,7 +163,7 @@ I believe, Santi, that God's goodness and mercy (his love as a father) is above 
 
 The spiritual death that you comment on is perhaps valid in the “normal” and enlightened worlds. But in this?...
 
-**Andrés:** Dear friends, Santi, in [UB 112:3.2](/en/The_Urantia_Book/112#p3_2) he says spiritual death (of the soul) when mortal man “finally” rejects survival; if it has been pronounced spiritually insolvent, “morontially” bankrupt etc, etc. I say that “finally” it will be after many experiences, and “morontially” after many experiences in the morontia life, that is, after death, I say. From which I deduce that many lives have to pass for the spiritual death to be carried out if the personality decides not to survive.
+**Andrés:** Dear friends, Santi, in <a id="a165_36"></a>[UB 112:3.2](/en/The_Urantia_Book/112#p3_2) he says spiritual death (of the soul) when mortal man “finally” rejects survival; if it has been pronounced spiritually insolvent, “morontially” bankrupt etc, etc. I say that “finally” it will be after many experiences, and “morontially” after many experiences in the morontia life, that is, after death, I say. From which I deduce that many lives have to pass for the spiritual death to be carried out if the personality decides not to survive.
 
 **Santiago:** Yes, Andrés, so far everything would be fine, but what I was worried about is on the next page. But, as Antonio rightly says, the concept of “mortal” may have to be expanded to include not only the inhabitants of the first (material) world, and perhaps we should continue to consider ourselves “mortal” even in the morontia worlds, until the Adjuster and personality are fused.
 
@@ -173,3 +197,28 @@ Although this is not clear to us now, it will eventually be. You have to have th
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mariano_Perez/Lugares_Santos_Primera_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holy places? (first part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-11-december-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 11 — December 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009_y_Asociacion">
+          <span class="pr-2">News about the UAI International Conference and Spain Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Ginés Avilés<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our universe and the universe of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-40-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 40 — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-According to _The Urantia Book_, paper 160: “_Successful living is nothing more or less than the art of the mastery of dependable techniques for solving common problems_”. [UB 160:1.7](/en/The_Urantia_Book/160#p1_7) This document or the extracts from Rodán's philosophy present us with two techniques for solving problems: one technique is the one that Rodán himself proposes and another is the one that arises from the observation of what Master Jesus does: «the solitary adoring meditation.”
+
+According to _The Urantia Book_, paper 160: “_Successful living is nothing more or less than the art of the mastery of dependable techniques for solving common problems_”. <a id="a34_172"></a>[UB 160:1.7](/en/The_Urantia_Book/160#p1_7) This document or the extracts from Rodán's philosophy present us with two techniques for solving problems: one technique is the one that Rodán himself proposes and another is the one that arises from the observation of what Master Jesus does: «the solitary adoring meditation.”
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV40/14.jpg">
@@ -37,7 +58,7 @@ Neither this technique nor any other will compensate for “_the defects inheren
 
 > PAPER 160 RODAN OF ALEXANDRIA: PROBLEM SOLVING TECHNIQUES
 > 
-> “_Successful living is nothing more or less than the art of the mastery of dependable techniques for solving common problems._” ([UB 160:1.7](/en/The_Urantia_Book/160#p1_7))
+> “_Successful living is nothing more or less than the art of the mastery of dependable techniques for solving common problems._” (<a id="a60_131"></a>[UB 160:1.7](/en/The_Urantia_Book/160#p1_7))
 
 ## Rodan's technique
 
@@ -50,7 +71,7 @@ Well now we go with the technique of Rodán de Alejandría that is presented to 
 	Finally, you have to consider its severity or relevance: how serious is the problem? Sometimes, it can happen that from our analysis it is discovered that the matter is very minor or very insignificant, that is, it does not have any seriousness. So we just accept it as it is and we don't need to act.
 	Okay, we already have an opinion on what happened. Now it's time to act, but on what basis and how do we act? The first question is not resolved by the document, but the requirement of having “_hunger and thirst for true righteousness_” can serve as a point of support:
 3. My answer, or the answer that has convinced me the most, is to look for a motto or question that inspires me and serves as a guide, my example: the best for all those involved. But there are also other possible slogans or phrases that can be useful to us in light of the point of support, for example: “love one another as I have loved you”, or questions: what would Jesus do in my place? Always consider that, by free will, we could go to annoy the other or make any possible positive or negative decision about the other or about ourselves... it's our choice!
-4. Regarding the how, Rodán gives us more clues: “_Tact and tolerance_”. “_Even though you are effectively armed to meet the difficult situations of life, you can hardly expect success unless you are equipped with that wisdom of mind and charm of personality which enable you to win the hearty support and co-operation of your fellows_” [UB 160:1.9](/en/The_Urantia_Book/160#p1_9)
+4. Regarding the how, Rodán gives us more clues: “_Tact and tolerance_”. “_Even though you are effectively armed to meet the difficult situations of life, you can hardly expect success unless you are equipped with that wisdom of mind and charm of personality which enable you to win the hearty support and co-operation of your fellows_” <a id="a73_337"></a>[UB 160:1.9](/en/The_Urantia_Book/160#p1_9)
 
 In summary, the technique by steps would be:
 - PTO1: what is the problem?
@@ -120,13 +141,13 @@ Well, based on repeating and realizing what the truth or reality of the matter i
 
 Finally, I would like to remind you of these phrases that resonate with me about the validity of this technique:
 
-> “_You will know the truth, and the truth will set you free_” ([UB 162:7.2](/en/The_Urantia_Book/162#p7_2)) Free from the fear that imprisons the soul!
+> “_You will know the truth, and the truth will set you free_” (<a id="a143_64"></a>[UB 162:7.2](/en/The_Urantia_Book/162#p7_2)) Free from the fear that imprisons the soul!
 
-> “_“If my words abide in you and you are minded to do the will of my Father, then are you truly my disciples. You shall know the truth, and the truth shall make you free. I know how you will answer me: We are the children of Abraham, and we are in bondage to none; how then shall we be made free? Even so, I do not speak of outward subjection to another’s rule; I refer to the liberties of the soul. Verily, verily, I say to you, everyone who commits sin is the bond servant of sin. And you know that the bond servant is not likely to abide forever in the master’s house. You also know that the son does remain in his father’s house. If, therefore, the Son shall make you free, shall make you sons, you shall be free indeed._” ([UB 162:7.2](/en/The_Urantia_Book/162#p7_2))
+> “_“If my words abide in you and you are minded to do the will of my Father, then are you truly my disciples. You shall know the truth, and the truth shall make you free. I know how you will answer me: We are the children of Abraham, and we are in bondage to none; how then shall we be made free? Even so, I do not speak of outward subjection to another’s rule; I refer to the liberties of the soul. Verily, verily, I say to you, everyone who commits sin is the bond servant of sin. And you know that the bond servant is not likely to abide forever in the master’s house. You also know that the son does remain in his father’s house. If, therefore, the Son shall make you free, shall make you sons, you shall be free indeed._” (<a id="a145_729"></a>[UB 162:7.2](/en/The_Urantia_Book/162#p7_2))
 
-> Or the slogan of Jesus himself: “_Fear not_” ([UB 140:8.20](/en/The_Urantia_Book/140#p8_20))
+> Or the slogan of Jesus himself: “_Fear not_” (<a id="a147_48"></a>[UB 140:8.20](/en/The_Urantia_Book/140#p8_20))
 
-> _. . .“Fear not” was his watchword, and patient endurance his ideal of strength of character. The teachings of Jesus constitute a religion of valor, courage, and heroism. And this is just why he chose as his personal representatives twelve commonplace men, the majority of whom were rugged, virile, and manly fishermen._ ([UB 140:8.20](/en/The_Urantia_Book/140#p8_20))
+> _. . .“Fear not” was his watchword, and patient endurance his ideal of strength of character. The teachings of Jesus constitute a religion of valor, courage, and heroism. And this is just why he chose as his personal representatives twelve commonplace men, the majority of whom were rugged, virile, and manly fishermen._ (<a id="a149_324"></a>[UB 140:8.20](/en/The_Urantia_Book/140#p8_20))
 
 After a period of time, I think I have discovered that this technique has the divine qualities of truth (impartial analysis), kindness (tolerance), and beauty (tact). And as far as I know, this Rodán technique is complementary to the technique that Jesus proposes.
 
@@ -136,3 +157,25 @@ Kind regards!
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our universe and the universe of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-40-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 40 — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

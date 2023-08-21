@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="pr-2">Luz y Vida — February 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -263,7 +284,7 @@ I have opted for one that more than a paragraph for me is like a mantra, because
 I have chosen it for its simplicity, and because more cannot be said in so few words, the paragraph is:
 
 
-> “with God all things are possible.” ([UB 163:3.2](/en/The_Urantia_Book/163#p3_2))
+> “with God all things are possible.” (<a id="a286_39"></a>[UB 163:3.2](/en/The_Urantia_Book/163#p3_2))
 
 Since I read it for the first time, it struck me, but when I read it again I realized that it encompasses truth, beauty and goodness, I always speak in a subjective way. Truth because you only have to read the sentence to understand that it is absolutely true. The beauty is in its simplicity, because for me simplicity is beauty; and goodness because the Father, out of love for all his creatures, tells us that if we believe and trust in him, he will help us get up without asking for anything in return in the face of any obstacle that comes our way. And if all this were not enough, it also encompasses something that is so important for all ascending evolutionary beings in order to reach the Universal Father, such as _faith_, because you have to have faith to believe that “with God all things are possible.”
 
@@ -305,3 +326,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="pr-2">Luz y Vida — February 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

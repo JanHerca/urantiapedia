@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 David Carrera<br>© 2010 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Lo_Absonito_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The absonite (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-20-march-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 20 — March 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/OVNIs_Un_enfoque_positivo_del_asunto">
+          <span class="pr-2">UFOs, a positive approach to the matter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Note: This message was published in the Google librourantia discussion group (http://groups.google.es/group/librourantia?lnk=srg), and for your interest we publish it here. Like all the articles in this magazine, it wants to serve as a space for reflection and, of course, for participation.
@@ -24,7 +48,7 @@ With this perspective, conscious parents are grateful to have only part of the r
 
 And, in this world, our degree of freedom to CREATE, truly CREATE something by ourselves, is limited to great buildings, inspiring books, beautiful dances, sure bridges, insightful philosophy, automated machines, suggestive music, functional furniture, just laws. , great art, wonderful poetry... and a few other things, which have in common to stick to the domain of the material or the mental.
 
-As our progress continues, we accumulate experiences and succeed in various tests that await us, that is, as we have demonstrated a greater degree of awareness and responsibility, our degrees of freedom to intervene in the creation of new realities will increase. And when we are already in Paradise, well fused with the Adjuster and we distinguish ourselves in the Finalitary Body, we will have the opportunity to CREATE or at least intervene with a huge degree of involvement in the creation of some very special beings that will be called Trinitized Sons of Perfection. ([UB 22:1.12](/en/The_Urantia_Book/22#p1_12)), of which EACH ONE of them will be the EMBODIMENT of an ORIGINAL AND SELECT CONCEPT until then without being trinitized.
+As our progress continues, we accumulate experiences and succeed in various tests that await us, that is, as we have demonstrated a greater degree of awareness and responsibility, our degrees of freedom to intervene in the creation of new realities will increase. And when we are already in Paradise, well fused with the Adjuster and we distinguish ourselves in the Finalitary Body, we will have the opportunity to CREATE or at least intervene with a huge degree of involvement in the creation of some very special beings that will be called Trinitized Sons of Perfection. (<a id="a50_574"></a>[UB 22:1.12](/en/The_Urantia_Book/22#p1_12)), of which EACH ONE of them will be the EMBODIMENT of an ORIGINAL AND SELECT CONCEPT until then without being trinitized.
 
 They will be much more than the “ordinary” “final degree projects” or “doctorates” that we know here, they will imply an enormous effort and determination in a project chosen by us and with no guarantee of success, to the point that if we fail we will go on to form part of a special group of finaliters, “_those who have made the ultimate effort and endured the ultimate disappointment_”
 
@@ -50,7 +74,7 @@ Because... some ideal that we could come up with in this life will have been tri
 
 For example; today, a key ideal of the human being is “Peace”. But “Peace” is something very generic. Will there be in the entire great Universe a single Trinitized Son that represents Peace? Or will there be a Trinitized Son that represents Peace for each local universe, or for each world, or for each relationship between peoples/ethnic groups/races?
 
-The condition seems to be that it be a <ins>divine idea</ins>, or some <ins>universal ideal</ins>, which has never before been conceived, expressed or trinitized. ([UB 22:10.4](/en/The_Urantia_Book/22#p10_4)) Therefore, material projects of the type:
+The condition seems to be that it be a <ins>divine idea</ins>, or some <ins>universal ideal</ins>, which has never before been conceived, expressed or trinitized. (<a id="a76_164"></a>[UB 22:10.4](/en/The_Urantia_Book/22#p10_4)) Therefore, material projects of the type:
 
 - Suitability of semiconductor materials in material worlds.
 
@@ -88,7 +112,7 @@ Thus, the debate on a fascinating topic remains open.
 
 **Author's Notes:**
 
-- The main references are in [UB 22:7.1](/en/The_Urantia_Book/22#p7_1) to [UB 22:8.6](/en/The_Urantia_Book/22#p8_6), contained in paper 22, “The Trini(t)ized Sons of God”
+- The main references are in <a id="a114_29"></a>[UB 22:7.1](/en/The_Urantia_Book/22#p7_1) to <a id="a114_74"></a>[UB 22:8.6](/en/The_Urantia_Book/22#p8_6), contained in paper 22, “The Trini(t)ized Sons of God”
 - To feel comfortable writing it, forgive me but I have used the verb “trinitize”, an option that I justify in the pages of our debate group.
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -99,3 +123,28 @@ Thus, the debate on a fascinating topic remains open.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Lo_Absonito_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The absonite (second part)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-20-march-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 20 — March 2010 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/OVNIs_Un_enfoque_positivo_del_asunto">
+          <span class="pr-2">UFOs, a positive approach to the matter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

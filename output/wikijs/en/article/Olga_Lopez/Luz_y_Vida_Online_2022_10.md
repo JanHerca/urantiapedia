@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10">
+          <span class="pr-2">Luz y Vida — October 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -193,7 +214,7 @@ Victor Manuel Fernandez Martin
 
 For me it is very important since, if it were understood correctly, the “spirit-matter” problem would be clarified, which has been the cause of so many clashes between excessively spiritualistic positions and excessively materialistic positions. I believe that, in this aspect, _The Urantia Book_ invites us to a slow and calm reflection on the reality that would translate into a greater dignity of the human being. The quote is as follows:
 
-> PARADISE is the eternal center of the universe of universes and the abiding place of the Universal Father, the Eternal Son, the Infinite Spirit, and their divine co-ordinates and associates. This central Isle is the most gigantic organized body of cosmic reality in all the master universe. Paradise is a material sphere as well as a spiritual abode. All of the intelligent creation of the Universal Father is domiciled on material abodes; hence must the absolute controlling center also be material, literal. And again it should be reiterated that spirit things and spiritual beings are *real.* ([UB 11:0.1](/en/The_Urantia_Book/11#p0_1))
+> PARADISE is the eternal center of the universe of universes and the abiding place of the Universal Father, the Eternal Son, the Infinite Spirit, and their divine co-ordinates and associates. This central Isle is the most gigantic organized body of cosmic reality in all the master universe. Paradise is a material sphere as well as a spiritual abode. All of the intelligent creation of the Universal Father is domiciled on material abodes; hence must the absolute controlling center also be material, literal. And again it should be reiterated that spirit things and spiritual beings are *real.* (<a id="a216_599"></a>[UB 11:0.1](/en/The_Urantia_Book/11#p0_1))
 
 Brotherly greetings.
 
@@ -263,3 +284,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10">
+          <span class="pr-2">Luz y Vida — October 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

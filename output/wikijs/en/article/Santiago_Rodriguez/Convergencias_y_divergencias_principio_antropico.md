@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Santiago Rodríguez<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The universe is an incredibly big place</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-39-march-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 39 — March 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="pr-2">Urantia Questionnaire: Mariano Perez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Why is the universe as we see it? The answer that was in style 500 or 600 years ago, and that in the light of today's knowledge would seem childish and completely outdated, would be something like this: “God created it that way.” Or put another way, there is a God who does everything and makes everything perfect. I don't need to ask myself anything because everything has been designed and created by Him.
@@ -27,7 +51,7 @@ There are a number of physical parameters whose values are not predicted in any 
 <img src="/image/article/Luz_y_Vida/LyV39/13.jpg">
 </figure>
 
-In our current conception of the universe, we consider a “cosmological principle” in which we have no choice but to assume that the same local properties exist throughout the universe. In other words, what we know here works exactly the same in all parts of the observable cosmos. And it may be so. [UB 2:7.2](/en/The_Urantia_Book/2#p7_2) The physical facts are fairly uniform...
+In our current conception of the universe, we consider a “cosmological principle” in which we have no choice but to assume that the same local properties exist throughout the universe. In other words, what we know here works exactly the same in all parts of the observable cosmos. And it may be so. <a id="a53_299"></a>[UB 2:7.2](/en/The_Urantia_Book/2#p7_2) The physical facts are fairly uniform...
 
 Today's science is shocked, for it has realized that if any of those values were slightly different from what they are, the universe as we observe it could not exist...and we as its observers could not exist either. How is it possible that these values are so tuned, and are what they are, so that the universe is as we contemplate it and allows our very existence? How could they collude like this?
 
@@ -35,7 +59,7 @@ Once again, we are facing another version of the same initial question. The answ
 
 But is the initial question really being answered? Both the answer from several centuries ago and the current one, don't they give the impression that they are trying to avoid something? Perhaps the time has come for science to turn its eyes to the reality that the universe has been designed with a purpose... that there are minds that design and organize in such a masterful way that everything seems to work automatically. in some mechanistic way.
 
-> _The sovereignty of God is unlimited; it is the fundamental fact of all creation. The universe was not inevitable. The universe is not an accident, neither is it self-existent. The universe is a work of creation and is therefore wholly subject to the will of the Creator._ ([UB 3:6.2](/en/The_Urantia_Book/3#p6_2))
+> _The sovereignty of God is unlimited; it is the fundamental fact of all creation. The universe was not inevitable. The universe is not an accident, neither is it self-existent. The universe is a work of creation and is therefore wholly subject to the will of the Creator._ (<a id="a61_276"></a>[UB 3:6.2](/en/The_Urantia_Book/3#p6_2))
 
 If we refuse to admit that the values of the constants are what they are because they reproduce the cosmos in which we find ourselves and have been chosen very carefully; if we refuse to admit a mental intervention with will and purpose, that leads us to have to speculate with an endless number of enormously fanciful assumptions, such as admitting infinite parallel universes to ours in which each one differs by an infinitesimal value from one of the characteristics of each of the particles that compose it. Universes that, on the other hand, we would not have any possibility of contacting. Or we would have to look for alternatives that in other places (to which we do not have access) an infinite number of universes have been formed and have evolved according to their own parameters, each one with different values of the different universal physical constants. We are in one of them and it is the one that is given to us to observe. Or, through endless ages, alternate universes have followed one another until chance has allowed those values to collude to bring into existence the universe we know.
 
@@ -45,9 +69,9 @@ I believe that humanity would take a great evolutionary leap if it were to move 
 
 _The Urantia Book_ reveals to us that the universe is not an accident, but something generated by the will of the Creator, and this same Creator controls the “power”, that is, all forms of energy that are sensitive to linear gravity, to the gravity we know.
 
-> _God controls all power; he has made “a way for the lightning”; he has ordained the circuits of all energy. He has decreed the time and manner of the manifestation of all forms of energy-matter._ ([UB 3:2.4](/en/The_Urantia_Book/3#p2_4))
+> _God controls all power; he has made “a way for the lightning”; he has ordained the circuits of all energy. He has decreed the time and manner of the manifestation of all forms of energy-matter._ (<a id="a71_199"></a>[UB 3:2.4](/en/The_Urantia_Book/3#p2_4))
 
-> _Universe power includes all forms of energy which, while still responding to Paradise gravity, are directly responsive to linear gravity. This is the electronic level of energy-matter and all subsequent evolutions thereof._ ([UB 0:6.7](/en/The_Urantia_Book/0#p6_7))
+> _Universe power includes all forms of energy which, while still responding to Paradise gravity, are directly responsive to linear gravity. This is the electronic level of energy-matter and all subsequent evolutions thereof._ (<a id="a73_228"></a>[UB 0:6.7](/en/The_Urantia_Book/0#p6_7))
 
 Let's hope that science will gradually return to place and allow things to be in their place. Placing God behind each question mark stagnated progress. In the same way, ignoring that there is an intelligent purpose in the design of the universe will delay our deep understanding of it.
 
@@ -55,3 +79,28 @@ Let's hope that science will gradually return to place and allow things to be in
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The universe is an incredibly big place</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-39-march-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 39 — March 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="pr-2">Urantia Questionnaire: Mariano Perez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

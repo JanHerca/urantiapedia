@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — February 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="pr-2">Urantia Reflections: Universal Truth, No Dogma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -81,7 +105,7 @@ And the ancient psalmist also asks us to move away from fear in order to be well
 
 Free from fear, open, united... that's how our heavenly Father wants us.
 
-> “The religion of Jesus is the most powerful unifying influence the world has ever known.” ([UB 194:3.17](/en/The_Urantia_Book/194#p3_17))
+> “The religion of Jesus is the most powerful unifying influence the world has ever known.” (<a id="a107_93"></a>[UB 194:3.17](/en/The_Urantia_Book/194#p3_17))
 
 But our Father asks us for more…
 
@@ -101,13 +125,13 @@ Jalics discovered that it is not just a question of understanding the other and 
 
 A healing attitude that our Creator, Michael of Nebadon, used precisely with his contemporaries, while he physically lived with us on this planet:
 
-> «As a general rule, he taught more to those who said less. Those who benefited most from his personal ministry were overwhelmed, worried, and despondent people who found much relief in the opportunity to vent to a kind and understanding listener. He was all of that and much more." ([UB 132:4.2](/en/The_Urantia_Book/132#p4_2))
+> «As a general rule, he taught more to those who said less. Those who benefited most from his personal ministry were overwhelmed, worried, and despondent people who found much relief in the opportunity to vent to a kind and understanding listener. He was all of that and much more." (<a id="a127_285"></a>[UB 132:4.2](/en/The_Urantia_Book/132#p4_2))
 > 
-> «People liked to listen to him because he was one of them, an unassuming layman. The greatest religious teacher in the world was a layman." ([UB 196:1.4](/en/The_Urantia_Book/196#p1_4))
+> «People liked to listen to him because he was one of them, an unassuming layman. The greatest religious teacher in the world was a layman." (<a id="a129_143"></a>[UB 196:1.4](/en/The_Urantia_Book/196#p1_4))
 
 If we really seek to spread the book, expand the Urantia movement, expand minds with the gospel, it would be a matter of truly following the Master and his way of BEING: listening to people in a different, deeper, deeper way, to the style of Jesus of Nazareth, who trusted human beings and devoted time to them.
 
-> “Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh.” ([UB 196:2.9](/en/The_Urantia_Book/196#p2_9))
+> “Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh.” (<a id="a133_283"></a>[UB 196:2.9](/en/The_Urantia_Book/196#p2_9))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-1.jpg" alt="Editorial - febrero 2022">
@@ -115,7 +139,7 @@ If we really seek to spread the book, expand the Urantia movement, expand minds 
 
 Now we can better grasp this powerful phrase from _The Urantia Book_, which we have surely read more than once, when it encourages us to “follow Jesus”:
 
-> “To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> “To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (<a id="a141_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 “Follow Jesus” in his listening.
 
@@ -129,3 +153,28 @@ Now we can better grasp this powerful phrase from _The Urantia Book_, which we h
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — February 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="pr-2">Urantia Reflections: Universal Truth, No Dogma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

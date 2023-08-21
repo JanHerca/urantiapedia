@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 David Carrera and Olga López<br>© 2011 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Presentacion_de_El_Libro_de_Urantia_Sevilla">
+          <span class="pr-2">Presentation of The Urantia Book at the Seville Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 After sharing the answers to the questions in each of the documents, there was a free debate on the issues raised in those questions, as well as on other issues, whether or not they were directly related to them.
 
 In the debate corresponding to document 92, and in reference to question number 3 (in what place should it be, or what consideration does our own conscience deserve?), it was pointed out that document 16 also alludes to the issue of conscience. More specifically in section 9, “The reality of human consciousness”, where, among other things, the following is said:
 
-> _Unselfish social consciousness must be, at bottom, a religious consciousness; that is, if it is objective; otherwise it is a purely subjective philosophic abstraction and therefore devoid of love. Only a God-knowing individual can love another person as he loves himself._ ([UB 16:9.8](/en/The_Urantia_Book/16#p9_8))
+> _Unselfish social consciousness must be, at bottom, a religious consciousness; that is, if it is objective; otherwise it is a purely subjective philosophic abstraction and therefore devoid of love. Only a God-knowing individual can love another person as he loves himself._ (<a id="a41_277"></a>[UB 16:9.8](/en/The_Urantia_Book/16#p9_8))
 
 We also debated around this question: Does genetics influence spiritual disposition? From here we compare the influence exerted by genetics and that exerted by the environment. Finally we come to the conclusion that genetics determines, and depends on it, whether we have more or less effort to overcome the limitations it imposes. The evolutionary part has an upper limit, both in the physical part and in our predisposition towards religion. In this sense, the UB represents a qualitative leap in the current evolutionary religion.
 
@@ -77,7 +101,7 @@ And before “that” is taught, there will be another transition level in which
 
 The simple comparison between religions already serves as criticism and intellectual challenge. The diverse references thus become tools with which the child or adolescent can begin to develop their personal religion, which we know is the one that counts, and, therefore, the one that later bears social fruit.
 
-In the discussion corresponding to Paper 101, the question corresponding to the section “The Limits of Revelation” in [UB 101:4.1](/en/The_Urantia_Book/101#p4_1) of _The Urantia Book_ was expanded. One of the attendees raised the question: Can it be admitted that there is data in _The Urantia Book_ that is inaccurate? Perhaps the answer to that question is another question that forces us to meditate and helps us understand the real underlying question, which is the following: Does current science have exact figures?
+In the discussion corresponding to Paper 101, the question corresponding to the section “The Limits of Revelation” in <a id="a103_118"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1) of _The Urantia Book_ was expanded. One of the attendees raised the question: Can it be admitted that there is data in _The Urantia Book_ that is inaccurate? Perhaps the answer to that question is another question that forces us to meditate and helps us understand the real underlying question, which is the following: Does current science have exact figures?
 
 The answer to the first question is yes. The Revelators warn us clearly on the page that the book's cosmology is _uninspired_. The answer to the second question is negative. Figures, measurements or entire theories are permanently refined over time and with the use of more precise instruments.
 
@@ -99,7 +123,7 @@ Therefore, if one is honest, the possible concern that _The Urantia Book_ genera
 
 Finally, it is worth asking honestly: Does the distance between us and Andromeda be one million light years or two point five million much influence our lives and our personal progression? Can we really imagine _any_ of the two numbers?
 
-Contextualizing the specific data that appears in [UB 15:4.7](/en/The_Urantia_Book/15#p4_7), it can be seen that the Revealers' real intention is not to point out the exact distance between Andromeda and us, but to make us think that the light that reaches us right now reveals only the state of that nebula that had a million years ago.
+Contextualizing the specific data that appears in <a id="a125_50"></a>[UB 15:4.7](/en/The_Urantia_Book/15#p4_7), it can be seen that the Revealers' real intention is not to point out the exact distance between Andromeda and us, but to make us think that the light that reaches us right now reveals only the state of that nebula that had a million years ago.
 
 Therefore: Is the message wrong, or is the objective fulfilled? Should they have told us, in order not to err in the eyes of some, “from long ago”? Would we have had the same idea?
 
@@ -125,3 +149,28 @@ Remembering the parables of Jesus, we recalled how, at the end of the parable, t
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-25-june-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 25 — June 2011 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Presentacion_de_El_Libro_de_Urantia_Sevilla">
+          <span class="pr-2">Presentation of The Urantia Book at the Seville Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

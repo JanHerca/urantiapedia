@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — December 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa">
+          <span class="pr-2">Urantia Questionnaire: Christian Figueroa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Wisdom bows down to fragility
@@ -41,21 +65,21 @@ We can all recognize ourselves in situations in which the mind gives us a hard t
 
 Faced with this reality, a being arrived on our planet more than two thousand years ago, presenting us with a surprising discourse and lifestyle, which breaks centuries-old, millennial paradigms of thought. It frees us from this recurrence of suffering, it saves us from ourselves, betting on Love:
 
-> Though it is hardly proper to speak of Jesus as a sacrificer, a ransomer, or a redeemer, it is wholly correct to refer to him as a *savior.* He forever made the way of salvation (survival) more clear and certain; he did better and more surely show the way of salvation for all the mortals of all the worlds of the universe of Nebadon. ([UB 188:4.7](/en/The_Urantia_Book/188#p4_7))
+> Though it is hardly proper to speak of Jesus as a sacrificer, a ransomer, or a redeemer, it is wholly correct to refer to him as a *savior.* He forever made the way of salvation (survival) more clear and certain; he did better and more surely show the way of salvation for all the mortals of all the worlds of the universe of Nebadon. (<a id="a67_338"></a>[UB 188:4.7](/en/The_Urantia_Book/188#p4_7))
 
 _The Urantia Book_ further specifies:
 
-> This whole concept of atonement and salvation through sacrifice is rooted in and based on selfishness. Jesus taught that service to our neighbor is the highest concept of the fellowship of believers in spirit. Those who believe in the fatherhood of God should take salvation for granted. The believer's primary concern should not be the selfish pursuit of his own personal salvation, but rather the selfless drive to love and serve his fellow men as Jesus loved and served mortal men. [UB 188:4.9](/en/The_Urantia_Book/188#p4_9)
+> This whole concept of atonement and salvation through sacrifice is rooted in and based on selfishness. Jesus taught that service to our neighbor is the highest concept of the fellowship of believers in spirit. Those who believe in the fatherhood of God should take salvation for granted. The believer's primary concern should not be the selfish pursuit of his own personal salvation, but rather the selfless drive to love and serve his fellow men as Jesus loved and served mortal men. <a id="a71_487"></a>[UB 188:4.9](/en/The_Urantia_Book/188#p4_9)
 > 
-> . . .Human salvation is real; it is based on two realities which may be grasped by the creature’s faith and thereby become incorporated into individual human experience: the fact of the fatherhood of God and its correlated truth, the brotherhood of man. [UB 188:4.13](/en/The_Urantia_Book/188#p4_13)
+> . . .Human salvation is real; it is based on two realities which may be grasped by the creature’s faith and thereby become incorporated into individual human experience: the fact of the fatherhood of God and its correlated truth, the brotherhood of man. <a id="a73_256"></a>[UB 188:4.13](/en/The_Urantia_Book/188#p4_13)
 
 It is surprising that Someone informs us that we are here, on Earth, out of Love, out of the pure goodness of a Father who has thought of us and brought us into existence. It is wonderful that they explain to us what we already intuited: all human beings have the same origin, we have ties that unite and unite us, so we could feel accompanied, welcomed and united with all the inhabitants of Urantia, our like-minded people. No one is really a stranger but a fellow traveler, even if some companions are reprehensible and distant. In them, precisely, is the challenge of also glimpsing the divine hand of their origin, of overcoming the animosity, hatred, resentment or envy that they arouse in us. Can we reach a spiritual height like the one Jesus of Nazareth, our Creator and Brother, showed us in his life?
 
-> The cross forever shows that the attitude of Jesus toward sinners was neither condemnation nor condonation, but rather eternal and loving salvation. Jesus is truly a savior in the sense that his life and death do win men over to goodness and righteous survival. Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. Jesus’ death on the cross exemplifies a love which is sufficiently strong and divine to forgive sin and swallow up all evil-doing. ([UB 188:5.2](/en/The_Urantia_Book/188#p5_2))
+> The cross forever shows that the attitude of Jesus toward sinners was neither condemnation nor condonation, but rather eternal and loving salvation. Jesus is truly a savior in the sense that his life and death do win men over to goodness and righteous survival. Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. Jesus’ death on the cross exemplifies a love which is sufficiently strong and divine to forgive sin and swallow up all evil-doing. (<a id="a77_532"></a>[UB 188:5.2](/en/The_Urantia_Book/188#p5_2))
 
 > The triumph of the death on the cross is all summed up in the spirit of Jesus’ attitude toward those who assailed him. He made the cross an eternal symbol of the triumph of love over hate and the victory of truth over evil when he prayed, “Father, forgive them, for they know not what they do.” That devotion of love was contagious throughout a vast universe; the disciples caught it from their Master. The very first teacher of his gospel who was called upon to lay down his life in this service, said, as they stoned him to death, “Lay not this sin to their charge.”
 > 
-> The cross makes a supreme appeal to the best in man because it discloses one who was willing to lay down his life in the service of his fellow men. Greater love no man can have than this: that he would be willing to lay down his life for his friends—and Jesus had such a love that he was willing to lay down his life for his enemies, a love greater than any which had hitherto been known on earth. ([UB 188:5.6-7](/en/The_Urantia_Book/188#p5_6))
+> The cross makes a supreme appeal to the best in man because it discloses one who was willing to lay down his life in the service of his fellow men. Greater love no man can have than this: that he would be willing to lay down his life for his friends—and Jesus had such a love that he was willing to lay down his life for his enemies, a love greater than any which had hitherto been known on earth. (<a id="a81_401"></a>[UB 188:5.6-7](/en/The_Urantia_Book/188#p5_6))
 
 That little reflection about our Creator Father and, of course, Saviour, and his way of behaving so dazzling and surprising comes up for the celebration of the upcoming Christmas holidays. A social excuse that can help us to refresh the readers of _The Urantia Book_ the fact that a wonderful being is born to us, a being that will enjoy joys and sufferings like us, that will be fragile but also extraordinarily powerful and, above all, everything, a being imbued with Love in his behavior.
 
@@ -67,7 +91,7 @@ _The Urantia Book_ can help us to do so. Let's see an anecdote of his birth on E
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-3.jpg" alt="Editorial dic 2022-3">
 </figure>
 
-> These priests from Mesopotamia had been told sometime before by a strange religious teacher of their country that he had had a dream in which he was informed that “the light of life” was about to appear on earth as a babe and among the Jews. And thither went these three teachers looking for this “light of life.” After many weeks of futile search in Jerusalem, they were about to return to Ur when Zacharias met them and disclosed his belief that Jesus was the object of their quest and sent them on to Bethlehem, where they found the babe and left their gifts with Mary, his earth mother. ([UB 122:8.6](/en/The_Urantia_Book/122#p8_6))
+> These priests from Mesopotamia had been told sometime before by a strange religious teacher of their country that he had had a dream in which he was informed that “the light of life” was about to appear on earth as a babe and among the Jews. And thither went these three teachers looking for this “light of life.” After many weeks of futile search in Jerusalem, they were about to return to Ur when Zacharias met them and disclosed his belief that Jesus was the object of their quest and sent them on to Bethlehem, where they found the babe and left their gifts with Mary, his earth mother. (<a id="a93_594"></a>[UB 122:8.6](/en/The_Urantia_Book/122#p8_6))
 
 What can we extract from this well-known story? These priests, these “wizards”, represent the spiritual search of all peoples. They are pagans, not Jews, who show the incessant search for the Truth that many of us want to find.
 
@@ -99,3 +123,28 @@ Happy New Year 2023.
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — December 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa">
+          <span class="pr-2">Urantia Questionnaire: Christian Figueroa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

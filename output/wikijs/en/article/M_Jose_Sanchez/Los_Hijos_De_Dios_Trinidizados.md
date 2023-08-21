@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 M. José Sánchez<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Xavier_Francisco/Los_Siete_Superuniversos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The seven superuniverses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="pr-2">The mansion worlds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -52,7 +76,7 @@ As humanity we must evolve at all levels: material, intellectual and spiritual. 
 
 Given this, it is inevitable to question the nature of evil and its existence. The Book clearly distinguishes between wrongful evil and deliberate evil. It is a fact that evil makes us learn. Nothing happens in vain. The Mighty Messengers were mortals from worlds in rebellion, so they are a living example that all experience is used to give rise to a greater and (of course) better good.
 
-We recall here the “inevitabilities” of [UB 3:5.5](/en/The_Urantia_Book/3#p5_5). How could we grow without free will? We need choice. At all times we cannot assume the responsibilities of others, but our own. Necessity, and not well-being, is what sharpens our wits.
+We recall here the “inevitabilities” of <a id="a78_40"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5). How could we grow without free will? We need choice. At all times we cannot assume the responsibilities of others, but our own. Necessity, and not well-being, is what sharpens our wits.
 
 Comparing ourselves to Havona beings, we can say that they are perfect for the love **of** God, and ascending mortals will be perfect for the love **of** God.
 
@@ -60,3 +84,28 @@ Comparing ourselves to Havona beings, we can say that they are perfect for the l
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Xavier_Francisco/Los_Siete_Superuniversos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The seven superuniverses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="pr-2">The mansion worlds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

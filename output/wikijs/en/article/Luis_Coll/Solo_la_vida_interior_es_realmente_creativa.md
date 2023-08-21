@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 L. Coll<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Death according to The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_cuanto_en_llegar_al_Paraiso">
+          <span class="pr-2">Convergences and Divergences: How long does it take to get to Paradise?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A harsh reality of this society in which we are used to seeing so many calamities in wars, refugee camps, racism, etc., on the most important people in this world-children. How can you produce better children and young people if the environment in which some children have to grow up and live is already poisoned by hate and racism?
@@ -32,3 +56,28 @@ L.Coll
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Death according to The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Santiago_Rodriguez/Convergencias_y_divergencias_cuanto_en_llegar_al_Paraiso">
+          <span class="pr-2">Convergences and Divergences: How long does it take to get to Paradise?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

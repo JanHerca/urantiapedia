@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López, María José Sánchez Santamaría<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia">
+          <span class="pr-2">Urantia Questionnaire: Ana María García</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -42,7 +63,7 @@ On the one hand, we have the joy of meeting brothers and sisters of different ra
 
 This flash of light and life that the XI International Urantia Conference in Peru has shown to the world allows us to have more hope to cope with our daily lives. We now have greater certainty that we are not alone in our desire to spread Goodness, Truth and Beauty on our blue planet. There are people in multiple parts of the planet who are guided by their wonderful Adjuster, with whom we are in tune, and we are undoubtedly protected by countless celestial presences or older brothers.
 
-> “And all this is ever true, for, where two or three believers are gathered together, there am I in the midst of them.” ([UB 159:1.3](/en/The_Urantia_Book/159#p1_3))
+> “And all this is ever true, for, where two or three believers are gathered together, there am I in the midst of them.” (<a id="a65_122"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3))
 
 But we also have another piece of good news: our beloved Urantia Book comes out more splendid and neat than ever before with the new Spanish translation or revision. A high-quality translation, up to the times we live in and that will allow us to better grasp and learn the teachings of _The Urantia Book_ starting in 2021.
 
@@ -241,3 +262,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia">
+          <span class="pr-2">Urantia Questionnaire: Ana María García</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

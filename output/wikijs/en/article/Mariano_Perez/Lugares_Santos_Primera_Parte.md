@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mariano Pérez<br>© 2007 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_11_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 11 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-11-december-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 11 — December 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuantos_Sobreviven">
+          <span class="pr-2">How many survive?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear friends: a few months ago, five members of the Madrid study group were fortunate (and I am convinced that they were also fortunate) to travel to Israel, also called the “Holy Land” by others. It was a short but intense trip, and at the end of it, we all left wanting more. There were several types of experiences lived: on the one hand, knowing first-hand the political and social problem, largely thanks to our guide; on the other hand, to see the coexistence of the different cultures and religions of the country, which, oddly enough, coexist in peace, at the level of citizenship, respecting each one of the others. It was also an enriching experience in terms of getting to know the area geographically. Seeing the places where our Sovereign Miguel de Nebadón was undoubtedly made us live all of it with much more intensity.
@@ -37,7 +61,7 @@ The selection is as follows:
 
 ## Gabriel's Annunciation to Mary
 
-Christian tradition does not seem to identify the place where the annunciation took place with the home of Jesus' family; the latter is simply not listed anywhere that we know of. If we stick to the UB we draw the conclusion that both places are the same. The current Church of the Annunciation is the main place to visit, although there is another Orthodox one, which already makes us think. Also very close to there are some excavations where they found remains of tools and carpentry tools from the time, and they present it as the possible workshop of José. The UB gives us some clues about the location of Jesus' home -[UB 122:5.9](/en/The_Urantia_Book/122#p5_9)- and the workshop -[UB 123:1.6](/en/The_Urantia_Book/123#p1_6)-. The first thing to locate is the highest mountain to the north of the city, and here comes the first difficulty. The highest to the north is a little outside of Nazareth, although it is possible (and it is a hypothesis) that the old city was not exactly where the current main nucleus, or that the distances are longer than we imagine. If we take mount Har Nadav (1,600 feet) that connects with Har Yona (1,812 feet) as the same mount, or even separately contemplating the two hypotheses, we would have that the house of Jesus would be quite far from the traditional place, that is that is, more to the northeast, and not in the center, since it tells us that it was located to the southeast of the promontory of this hill, in the middle between the road to Cana and the base of the hill, and in any case on the outskirts of the city. As for the fountain reference, I only know that there is a “Fountain of Maria” near there; but it does not mean that it was the fountain of yesteryear and apparently a place of passage for caravans. Certainly it is one of the places in which I have investigated more later -Google Earth is wonderful- and I have been more frustrated, and wanting to go and stay a few days there to analyze all this information on the ground.
+Christian tradition does not seem to identify the place where the annunciation took place with the home of Jesus' family; the latter is simply not listed anywhere that we know of. If we stick to the UB we draw the conclusion that both places are the same. The current Church of the Annunciation is the main place to visit, although there is another Orthodox one, which already makes us think. Also very close to there are some excavations where they found remains of tools and carpentry tools from the time, and they present it as the possible workshop of José. The UB gives us some clues about the location of Jesus' home -<a id="a63_624"></a>[UB 122:5.9](/en/The_Urantia_Book/122#p5_9)- and the workshop -<a id="a63_687"></a>[UB 123:1.6](/en/The_Urantia_Book/123#p1_6)-. The first thing to locate is the highest mountain to the north of the city, and here comes the first difficulty. The highest to the north is a little outside of Nazareth, although it is possible (and it is a hypothesis) that the old city was not exactly where the current main nucleus, or that the distances are longer than we imagine. If we take mount Har Nadav (1,600 feet) that connects with Har Yona (1,812 feet) as the same mount, or even separately contemplating the two hypotheses, we would have that the house of Jesus would be quite far from the traditional place, that is that is, more to the northeast, and not in the center, since it tells us that it was located to the southeast of the promontory of this hill, in the middle between the road to Cana and the base of the hill, and in any case on the outskirts of the city. As for the fountain reference, I only know that there is a “Fountain of Maria” near there; but it does not mean that it was the fountain of yesteryear and apparently a place of passage for caravans. Certainly it is one of the places in which I have investigated more later -Google Earth is wonderful- and I have been more frustrated, and wanting to go and stay a few days there to analyze all this information on the ground.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV11/02.jpg">
@@ -54,7 +78,7 @@ In this event, the error is seen much more clearly, if it can be called that, si
 </em></figcaption>
 </figure>
 
-The traditional site is a few miles north of the Dead Sea, where the river flows, and near Jericho to the east. According to _The Urantia Book_-[UB 135:8.1](/en/The_Urantia_Book/135#p8_1)- the place would be at the height of the city of Pella in Jordan, that is, about 70 kilometers north of the place marked by tradition. As you can see, there is a considerable distance; but it will not be the only case.
+The traditional site is a few miles north of the Dead Sea, where the river flows, and near Jericho to the east. According to _The Urantia Book_-<a id="a80_144"></a>[UB 135:8.1](/en/The_Urantia_Book/135#p8_1)- the place would be at the height of the city of Pella in Jordan, that is, about 70 kilometers north of the place marked by tradition. As you can see, there is a considerable distance; but it will not be the only case.
 
 ## The Transfiguration
 
@@ -81,3 +105,28 @@ The erroneous location of the latter is what makes a large part of the route of 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_11_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 11 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-11-december-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 11 — December 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuantos_Sobreviven">
+          <span class="pr-2">How many survive?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

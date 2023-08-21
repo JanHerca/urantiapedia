@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez, Andrés Pérez, Antonio Moya<br>© 2008 Urantia Association of Spain< /p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Que_se_espera_de_nosotros">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is expected of us?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-12-february-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 12 — February 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009">
+          <span class="pr-2">News about the UAI International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By various authors
@@ -21,7 +45,7 @@ By various authors
 - Andrés Pérez
 - Antonio Moya
 
-**Carmelo:** I have reread these days in Luz y Vida the discussion we had in this same forum about how many survive. And I just read a clear and forceful sentence about it. It's at the end of the second full paragraph of [UB 110:3.5](/en/The_Urantia_Book/110#p3_5) and it goes like this:
+**Carmelo:** I have reread these days in Luz y Vida the discussion we had in this same forum about how many survive. And I just read a clear and forceful sentence about it. It's at the end of the second full paragraph of <a id="a47_221"></a>[UB 110:3.5](/en/The_Urantia_Book/110#p3_5) and it goes like this:
 
 > “_Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul._”
 
@@ -64,13 +88,13 @@ Consciously means knowing what we do; Can we know it in this life with how littl
 
 We agree on the first part, on what I am reflecting on, because it is not so clear to me that this rejection is not conscious, although obviously there will be degrees and there will be mitigating factors, but I think it could occur with some frequency, which is not the case. completely definitive, we'll see... We agree on the first part, what I'm reflecting on, because it's not so clear to me that this rejection is not conscious, although obviously there will be degrees and there will be mitigating factors, but I think it could happen with a certain frequency, which is not entirely definitive, we'll see...
 
-**Eduardo:** It seems that we all have doubts about how to survive. In his day I commented that my blood froze when I read, in the beginning, the first documents of the UB. I have started from the beginning and the following paragraph that is in [Paper 2, Section 3, paragraph 3](/en/The_Urantia_Book/2#p3_3) has caught my attention. In fact, all of it is not wasted.
+**Eduardo:** It seems that we all have doubts about how to survive. In his day I commented that my blood froze when I read, in the beginning, the first documents of the UB. I have started from the beginning and the following paragraph that is in <a id="a90_246"></a>[Paper 2, Section 3, paragraph 3](/en/The_Urantia_Book/2#p3_3) has caught my attention. In fact, all of it is not wasted.
 
 > _Cessation of existence is usually decreed at the dispensational or epochal adjudication of the realm or realms. ***On a world such as Urantia it comes at the end of a planetary dispensation***. Cessation of existence can be decreed at such times by co-ordinate action of all tribunals of jurisdiction, extending from the planetary council up through the courts of the Creator Son to the judgment tribunals of the Ancients of Days. The mandate of dissolution originates in the higher courts of the superuniverse following an unbroken confirmation of the indictment originating on the sphere of the wrongdoer’s residence; and then, when sentence of extinction has been confirmed on high, the execution is by the direct act of those judges residential on, and operating from, the headquarters of the superuniverse._
 
 Later he says:
 
-> _It is wrong to think of God as being coaxed into loving his children because of the sacrifices of his Sons or the intercession of his subordinate creatures, “for the Father himself loves you.” It is in response to this paternal affection that ***God sends the marvelous Adjusters*** to indwell the minds of men. God’s love is universal; “whosoever will may come.” ***He would*** “have all men be saved by coming into the knowledge of the truth.” He is “not willing that any should perish.”_ ([UB 2:5.2](/en/The_Urantia_Book/2#p5_2))
+> _It is wrong to think of God as being coaxed into loving his children because of the sacrifices of his Sons or the intercession of his subordinate creatures, “for the Father himself loves you.” It is in response to this paternal affection that ***God sends the marvelous Adjusters*** to indwell the minds of men. God’s love is universal; “whosoever will may come.” ***He would*** “have all men be saved by coming into the knowledge of the truth.” He is “not willing that any should perish.”_ (<a id="a96_495"></a>[UB 2:5.2](/en/The_Urantia_Book/2#p5_2))
 
 It seems that the Father's desire is that everyone be saved, but if someone does not “arrive” I interpret that he is not going to have a “heart attack”. Come on, it is real, at least for me, that if you do not take into account the existence of God and you are not interested in knowing his plan, you run the risk of missing out on ascent to Paradise.
 
@@ -78,11 +102,11 @@ Friends, it's about understanding what the revelators tell us. I think that we s
 
 Read paper 34, Sections 5, 6 and 7. There I send something from them:
 
-> _In every mortal there exists a dual nature: the inheritance of animal tendencies and the high urge of spirit endowment. ***During the short life you live on Urantia***, these two diverse and opposing urges can seldom be fully reconciled; they can hardly be harmonized and unified; but throughout your lifetime the combined Spirit ever ministers to assist you in subjecting the flesh more and more to the leading of the Spirit. Even though you must live your material life through, even though you cannot escape the body and its necessities, nonetheless, in purpose and ideals you are empowered increasingly to subject the animal nature to the mastery of the Spirit. There truly exists within you a conspiracy of spiritual forces, a confederation of divine powers, whose exclusive purpose is to effect your final deliverance from material bondage and finite handicaps._ ([UB 34:6.9](/en/The_Urantia_Book/34#p6_9))
+> _In every mortal there exists a dual nature: the inheritance of animal tendencies and the high urge of spirit endowment. ***During the short life you live on Urantia***, these two diverse and opposing urges can seldom be fully reconciled; they can hardly be harmonized and unified; but throughout your lifetime the combined Spirit ever ministers to assist you in subjecting the flesh more and more to the leading of the Spirit. Even though you must live your material life through, even though you cannot escape the body and its necessities, nonetheless, in purpose and ideals you are empowered increasingly to subject the animal nature to the mastery of the Spirit. There truly exists within you a conspiracy of spiritual forces, a confederation of divine powers, whose exclusive purpose is to effect your final deliverance from material bondage and finite handicaps._ (<a id="a104_873"></a>[UB 34:6.9](/en/The_Urantia_Book/34#p6_9))
 
 In another paragraph he says:
 
-> _The mortals of a normal world do not experience constant warfare between their physical and spiritual natures. They are confronted with the necessity of climbing up from the animal levels of existence to the higher planes of spiritual living, but this ascent is more like undergoing an educational training when compared with the ***intense conflicts of Urantia mortals*** in this realm of the divergent material and spiritual natures._ ([UB 34:7.3](/en/The_Urantia_Book/34#p7_3))
+> _The mortals of a normal world do not experience constant warfare between their physical and spiritual natures. They are confronted with the necessity of climbing up from the animal levels of existence to the higher planes of spiritual living, but this ascent is more like undergoing an educational training when compared with the ***intense conflicts of Urantia mortals*** in this realm of the divergent material and spiritual natures._ (<a id="a108_441"></a>[UB 34:7.3](/en/The_Urantia_Book/34#p7_3))
 
 **Santiago:** I think the continuation decision (which is not the one that immediately leads to Adjuster fusion) occurs in most cases in life here on Urantia.
 
@@ -94,11 +118,11 @@ It is true that the decision to terminate the non-surviving personalities occurs
 
 In some sections it says:
 
-> _When the mortals of time fail to achieve the eternal survival of their souls in planetary association with the spirit gifts of the Universal Father, such failure is never in any way due to neglect of duty, ministry, service, or devotion on the part of the Adjuster. At mortal death, such deserted Monitors return to Divinington, and ***subsequently, following the adjudication of the nonsurvivor***, they may be reassigned to the worlds of time and space. Sometimes, after repeated services of this sort or following some unusual experience, such as functioning as the indwelling Adjuster of an incarnated bestowal Son, these efficient Adjusters are personalized by the Universal Father._ ([UB 40:4.1](/en/The_Urantia_Book/40#p4_1))
+> _When the mortals of time fail to achieve the eternal survival of their souls in planetary association with the spirit gifts of the Universal Father, such failure is never in any way due to neglect of duty, ministry, service, or devotion on the part of the Adjuster. At mortal death, such deserted Monitors return to Divinington, and ***subsequently, following the adjudication of the nonsurvivor***, they may be reassigned to the worlds of time and space. Sometimes, after repeated services of this sort or following some unusual experience, such as functioning as the indwelling Adjuster of an incarnated bestowal Son, these efficient Adjusters are personalized by the Universal Father._ (<a id="a120_693"></a>[UB 40:4.1](/en/The_Urantia_Book/40#p4_1))
 
 In another it is said:
 
-> _As to the chances of mortal survival, ***let it be made forever clear***: All souls of every possible phase of mortal existence will survive provided they manifest willingness to co-operate with their indwelling Adjusters and exhibit a desire to find God and to attain divine perfection, even though these desires be but the first faint flickers of the primitive comprehension of that “true light which lights every man who comes into the world.”_ ([UB 40:5.19](/en/The_Urantia_Book/40#p5_19))
+> _As to the chances of mortal survival, ***let it be made forever clear***: All souls of every possible phase of mortal existence will survive provided they manifest willingness to co-operate with their indwelling Adjusters and exhibit a desire to find God and to attain divine perfection, even though these desires be but the first faint flickers of the primitive comprehension of that “true light which lights every man who comes into the world.”_ (<a id="a124_452"></a>[UB 40:5.19](/en/The_Urantia_Book/40#p5_19))
 
 Look what more beautiful things and what “compliments” they dedicate to us. In any case, here they are very clear and they speak precisely of us:
 
@@ -111,23 +135,23 @@ Look what more beautiful things and what “compliments” they dedicate to us. 
 > _2. A Creator Son of God became one of you; he is your elder brother in fact; and if in spirit you become truly related brothers of Christ, the victorious Michael, then in spirit must you also be sons of that Father which you have in common—even the Universal Father of all._
 > _3. You are sons because the spirit of a Son has been poured out upon you, has been freely and certainly bestowed upon all Urantia races. This spirit ever draws you toward the divine Son, who is its source, and toward the Paradise Father, who is the source of that divine Son._
 > _4. Of his divine free-willness, the Universal Father has given you your creature personalities. You have been endowed with a measure of that divine spontaneity of freewill action which God shares with all who may become his sons._
-> _5. There dwells within you a fragment of the Universal Father, and you are thus directly related to the divine Father of all the Sons of God._ ([UB 40:6.1-8](/en/The_Urantia_Book/40#p6_1))
+> _5. There dwells within you a fragment of the Universal Father, and you are thus directly related to the divine Father of all the Sons of God._ (<a id="a137_147"></a>[UB 40:6.1-8](/en/The_Urantia_Book/40#p6_1))
 
 **Santiago:** All these valuable reviews make me abound in the idea that “not everyone survives”, because it seems true and evident that the minimum necessary can be very low, but there is a minimum, and it is always required not the knowledge of the human being, but the will to want to aspire to God (in some more or less rudimentary way), but the constant and continued attitude of "I'm not interested in those issues, that doesn't worry me, or I don't need any of that , it is for weak minds, I am self-sufficient, pride is the beginning of sin...
 
 **Eduardo:** I am sending you a paragraph taken from the Dto. 49, Section 6. I consider that this section is enlightening for the topic:
 
-> _Thus are the sleeping survivors of a planetary age repersonalized in the dispensational roll calls. But with regard to the nonsalvable personalities of a realm, no immortal spirit is present to function with the group guardians of destiny, and this constitutes cessation of creature existence. While some of your records have pictured these events as taking place on the planets of mortal death, ***they all really occur on the mansion worlds***._ ([UB 49:6.7](/en/The_Urantia_Book/49#p6_7))
+> _Thus are the sleeping survivors of a planetary age repersonalized in the dispensational roll calls. But with regard to the nonsalvable personalities of a realm, no immortal spirit is present to function with the group guardians of destiny, and this constitutes cessation of creature existence. While some of your records have pictured these events as taking place on the planets of mortal death, ***they all really occur on the mansion worlds***._ (<a id="a143_452"></a>[UB 49:6.7](/en/The_Urantia_Book/49#p6_7))
 
 It also says, although not quite to the point (I remember that we have dealt with it previously in this forum) that:
 
 > _2. ***Mortals of the individual orders of ascension.*** The individual progress of human beings is measured by their successive attainment and traversal ***(mastery) of the seven cosmic circles***. These circles of mortal progression are levels of associated intellectual, social, spiritual, and cosmic-insight values. Starting out in the seventh circle, mortals strive for the first, and all who have attained the third immediately have personal guardians of destiny assigned to them. These mortals may be repersonalized in the morontia life independent of dispensational or other adjudications._
 > 
-> Throughout the earlier ages of an evolutionary world, few mortals go to judgment on the third day. But as the ages pass, more and more the personal guardians of destiny are assigned to the advancing mortals, and thus increasing numbers of these evolving creatures are repersonalized on the first mansion world on the third day after natural death. On such occasions the return of the Adjuster signalizes the awakening of the human soul, and this is the repersonalization of the dead just as literally as when the en masse roll is called at the end of a dispensation on the evolutionary worlds. ([UB 49:6.8-9](/en/The_Urantia_Book/49#p6_8))
+> Throughout the earlier ages of an evolutionary world, few mortals go to judgment on the third day. But as the ages pass, more and more the personal guardians of destiny are assigned to the advancing mortals, and thus increasing numbers of these evolving creatures are repersonalized on the first mansion world on the third day after natural death. On such occasions the return of the Adjuster signalizes the awakening of the human soul, and this is the repersonalization of the dead just as literally as when the en masse roll is called at the end of a dispensation on the evolutionary worlds. (<a id="a149_597"></a>[UB 49:6.8-9](/en/The_Urantia_Book/49#p6_8))
 
-I have been reading the documents related to the Thought Adjuster (papers 107, 108, 109, 110 and 111) in which are found “The Task of the Adjuster in the Human Mind” ([UB 110:4](/en/The_Urantia_Book/110#p4)) and "The Seven Circles psychics” ([110-6](/en/The_Urantia_Book/110#p6)). All of them are important for the subject at hand, they have some relation to survival and, of course, the great difficulties they have in being able to “tip on” some idea. But the one that has clarified my ideas the most has been paper 112 with all its sections. One paragraph says:
+I have been reading the documents related to the Thought Adjuster (papers 107, 108, 109, 110 and 111) in which are found “The Task of the Adjuster in the Human Mind” (<a id="a151_167"></a>[UB 110:4](/en/The_Urantia_Book/110#p4)) and "The Seven Circles psychics” (<a id="a151_242"></a>[110-6](/en/The_Urantia_Book/110#p6)). All of them are important for the subject at hand, they have some relation to survival and, of course, the great difficulties they have in being able to “tip on” some idea. But the one that has clarified my ideas the most has been paper 112 with all its sections. One paragraph says:
 
-> _On the evolutionary worlds, selfhood is material; it is a thing in the universe and as such is subject to the laws of material existence. It is a fact in time and is responsive to the vicissitudes thereof. ***Survival decisions must here be formulated.*** In the morontia state the self has become a new and more enduring universe reality, and its continuing growth is predicated on its increasing attunement to the mind and spirit circuits of the universes. ***Survival decisions are now being confirmed.*** When the self attains the spiritual level, it has become a secure value in the universe, and this new value is predicated upon the fact that ***survival decisions have been made,*** which fact has been witnessed by eternal fusion with the Thought Adjuster. And having achieved the status of a true universe value, the creature becomes liberated in potential for the seeking of the highest universe value—God._ ([UB 112:7.6](/en/The_Urantia_Book/112#p7_6))
+> _On the evolutionary worlds, selfhood is material; it is a thing in the universe and as such is subject to the laws of material existence. It is a fact in time and is responsive to the vicissitudes thereof. ***Survival decisions must here be formulated.*** In the morontia state the self has become a new and more enduring universe reality, and its continuing growth is predicated on its increasing attunement to the mind and spirit circuits of the universes. ***Survival decisions are now being confirmed.*** When the self attains the spiritual level, it has become a secure value in the universe, and this new value is predicated upon the fact that ***survival decisions have been made,*** which fact has been witnessed by eternal fusion with the Thought Adjuster. And having achieved the status of a true universe value, the creature becomes liberated in potential for the seeking of the highest universe value—God._ (<a id="a153_923"></a>[UB 112:7.6](/en/The_Urantia_Book/112#p7_6))
 
 I tell you that paper 113 is not wasted either, it is very indicative. The Fourth Part I leave it in your hands.
 
@@ -147,7 +171,7 @@ The last paragraph that Eduardo quotes is extremely interesting and one that mus
 
 > “_On the evolutionary worlds, selfhood is material; it is a thing in the universe and as such is subject to the laws of material existence. It is a fact in time and is responsive to the vicissitudes thereof. ***Survival decisions must here be formulated.*** In the morontia state the self has become a new and more enduring universe reality, and its continuing growth is predicated on its increasing attunement to the mind and spirit circuits of the universes. ***Survival decisions are now being confirmed.*** When the self attains the spiritual level, it has become a secure value in the universe, and this new value is predicated upon the fact that ***survival decisions have been made,*** which fact has been witnessed by eternal fusion with the Thought Adjuster. And having achieved the status of a true universe value, the creature becomes liberated in potential for the seeking of the highest universe value—God._”
 > 
-> “_En los mundos evolutivos, la individualidad es material; es una cosa en el universo y como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo. ***Las decisiones sobre la supervivencia deben formularse aquí.*** En el estado moroncial, el yo se ha convertido en una realidad del universo nueva y más duradera y su crecimiento continuado está basado en su sintonización creciente con los circuitos de mente y espiritu del universo. ***Las decisiones sobre la supervivencia se confirman ahora.*** Cuando el yo alcanæa el nivel espiritual, se ha convertido en un valor seguro en el universo y este valor nuevo se basa en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que se atestigua por la fusión eterna con el Ajustador del Pensamiento. Y babiendo logrado el estatus de un valor verdadero del universo, la criatura resulta liberada en potencial para buscar el valor más alto del universo -Dios._” ([UB 112:7.6](/en/The_Urantia_Book/112#p7_6))
+> “_En los mundos evolutivos, la individualidad es material; es una cosa en el universo y como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo. ***Las decisiones sobre la supervivencia deben formularse aquí.*** En el estado moroncial, el yo se ha convertido en una realidad del universo nueva y más duradera y su crecimiento continuado está basado en su sintonización creciente con los circuitos de mente y espiritu del universo. ***Las decisiones sobre la supervivencia se confirman ahora.*** Cuando el yo alcanæa el nivel espiritual, se ha convertido en un valor seguro en el universo y este valor nuevo se basa en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que se atestigua por la fusión eterna con el Ajustador del Pensamiento. Y babiendo logrado el estatus de un valor verdadero del universo, la criatura resulta liberada en potencial para buscar el valor más alto del universo -Dios._” (<a id="a173_1011"></a>[UB 112:7.6](/en/The_Urantia_Book/112#p7_6))
 
 The text marks a decision in three stages: 1) material life, formulation; 2) morontia life, ratification; 3) arrival in the spiritual state, fusion. And in this moment, freedom. What happens, that before we were not free?
 
@@ -171,7 +195,7 @@ To what has been said and said about “who will survive”, two more things sho
 > 
 > _It was the ***divine plan*** that the mortal races of Urantia should have had ***physical natures more naturally spirit responsive***._
 > 
-> _Notwithstanding this ***double disaster to man’s nature and his environment***..._ (<a id="a196_88"></a>[UB 34:7.4-6](/en/The_Urantia_Book/34#p7_4))
+> _Notwithstanding this ***double disaster to man’s nature and his environment***..._ (<a id="a197_87"></a>[UB 34:7.4-6](/en/The_Urantia_Book/34#p7_4))
 
 We suffer, from the outset, just for being born here, a double disaster: a BADLY ordered society (thanks to Caligastia) and a physical nature NOT AT ALL sensitive to the spirit (thanks to Adam). In such an environment, and with such a nature, what do they want? What do these wretches do? On top of that, are they not going to survive, because they are bad or unconscious or consumerists?
 
@@ -215,3 +239,28 @@ As I indicated before, the process goes through the following stages:
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Que_se_espera_de_nosotros">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is expected of us?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-12-february-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 12 — February 2008 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Noticias_sobre_la_Conferencia_Internacional_2009">
+          <span class="pr-2">News about the UAI International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

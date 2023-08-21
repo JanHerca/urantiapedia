@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — February 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Javier_Martinez">
+          <span class="pr-2">Urantia Questionnaire: Javier Martínez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
@@ -60,3 +84,28 @@ It can be said that daring to start this endless adventure is to recognize in ad
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — February 2023 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — February 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Javier_Martinez">
+          <span class="pr-2">Urantia Questionnaire: Javier Martínez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

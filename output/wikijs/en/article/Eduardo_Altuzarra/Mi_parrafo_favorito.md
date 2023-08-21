@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Eduardo Altuzarra<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Coll">
+          <span class="pr-2">Urantia Questionnaire: Luis Coll</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > <figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
-> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. ([UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a41_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
 Most of us who are dedicated to reading books almost always point to, underline, copy, reference a series of paragraphs because we consider them interesting, enlightening or transcendental.
 
@@ -53,7 +77,7 @@ And I end this article by saying that Albert Einstein had a very deep concept of
 > “My religiosity consists of a humble admiration of the infinitely superior spirit that is revealed in the small details that we can perceive with our fragile and weak minds. That deeply emotional conviction of the presence of a higher reasoning power, which reveals itself in the incomprehensible universe, forms my idea of God.”
 > Source: https://frases.top/frases-celebres/frases-albert-einstein/#Frases_de_Einstein_sobre_Dios
 
-> When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved. ([UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
+> When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved. (<a id="a79_265"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
 
 Another favorite paragraph...
 
@@ -61,3 +85,28 @@ Another favorite paragraph...
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2021_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Coll">
+          <span class="pr-2">Urantia Questionnaire: Luis Coll</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

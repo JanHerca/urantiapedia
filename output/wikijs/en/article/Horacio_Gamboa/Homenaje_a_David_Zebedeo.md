@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Horacio Gamboa<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Doris_Calmel/The_reading_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reading The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-39-march-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 39 — March 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="pr-2">The universe is an incredibly big place</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 It is impossible that any government, or political or military operation can be carried out, even less like that of the Master Jesus on earth, proselytizing in defiance of the established religious authority, can function without a system and an Intelligence Chief and his respective team of agents that gather the necessary information to be able to take the steps properly. Let's not forget that information is power. The movements of Jesus, although it is true that he knew the end from the beginning, but he never used that prerogative by his own decision, in the sense of only sticking to his purely human mind, were advised with great precision, dedication and loyalty by David Zebedee, own brother of James and John Zebedee. David was one of the Thunder Brothers, as Jesus called James and John. David was not an apostle, nor was he called by the Master, but he was, alone, slowly taking responsibility for keeping Jesus informed with the body of messengers, and providing him with protection through permanent vigilance, helping him with the logistics of the trips, shops, food and to inform him of the state of the places where he was going, and the progress that the evangelists were making.
 
 THIS IS MY TRIBUTE TO THIS GREAT MAN, “MY HERO OF THE URANTIA BOOK”
 
-The first mention of David Zebedee is related to the roundup of the fish in [UB 145:1.1](/en/The_Urantia_Book/145#p1_1). After an intense instruction to the crowd, Jesus was surrounded and pushed towards the seashore where David's boat was, which bore the name of Simon, since it had previously belonged to Simon Peter and had been built by him. Master himself. David and a certain Simon (his assistant) were cleaning the nets after a long night without results. Jesus, after having interrupted his work to speak to the crowd from the boat, invited him to sail away and cast the nets again. Simon, David's helper, told Jesus that it wasn't worth it, but he was willing to follow the Master's instructions because David told him to. They cast the nets in the place Jesus told them to, and the catch was so great that they had to call their partners who were on land and they brought three more boats, which they filled to their rails. From that day on, David Zebedee and this Simon left their nets and followed the Master.
+The first mention of David Zebedee is related to the roundup of the fish in <a id="a41_76"></a>[UB 145:1.1](/en/The_Urantia_Book/145#p1_1). After an intense instruction to the crowd, Jesus was surrounded and pushed towards the seashore where David's boat was, which bore the name of Simon, since it had previously belonged to Simon Peter and had been built by him. Master himself. David and a certain Simon (his assistant) were cleaning the nets after a long night without results. Jesus, after having interrupted his work to speak to the crowd from the boat, invited him to sail away and cast the nets again. Simon, David's helper, told Jesus that it wasn't worth it, but he was willing to follow the Master's instructions because David told him to. They cast the nets in the place Jesus told them to, and the catch was so great that they had to call their partners who were on land and they brought three more boats, which they filled to their rails. From that day on, David Zebedee and this Simon left their nets and followed the Master.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV39/04.jpg">
@@ -149,3 +173,28 @@ Horacio Gamboa Verdugo.
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Doris_Calmel/The_reading_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reading The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-39-march-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 39 — March 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="pr-2">The universe is an incredibly big place</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

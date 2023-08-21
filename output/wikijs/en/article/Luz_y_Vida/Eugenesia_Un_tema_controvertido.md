@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Carmelo Martíne, Olga López, Eduardo Altuzarra, Santiago Rodríguez and Andrés Pérez<br>© 2014 Urantia Association of Spain< /p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_36_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 36 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="pr-2">Death according to The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Carmelo
@@ -17,7 +41,7 @@ In the dictionary of the RAE, eugenics is defined as: “Application of the biol
 
 The UB talks about superior and inferior races and the need to improve the human races without any shame or prejudice, to the point that it surprises and even shocks some.
 
-I have searched and selected some quotes about it. These are: [UB 49:1.7](/en/The_Urantia_Book/49#p1_7), [UB 51:4.8](/en/The_Urantia_Book/51#p4_8), [UB 52:2.11](/en/The_Urantia_Book/52#p2_11), [UB 52:2.12](/en/The_Urantia_Book/52#p2_12), [UB 52:3.4](/en/The_Urantia_Book/52#p3_4), [UB 55:4.11](/en/The_Urantia_Book/55#p4_11), [UB 55:6.3](/en/The_Urantia_Book/55#p6_3), [UB 65:3.6](/en/The_Urantia_Book/65#p3_6) , [UB 70:8.15](/en/The_Urantia_Book/70#p8_15), [UB 71:3.8](/en/The_Urantia_Book/71#p3_8), [UB 82:6.5](/en/The_Urantia_Book/82#p6_5). (The figure in parentheses is the document number.) I'm sure others have escaped me.
+I have searched and selected some quotes about it. These are: <a id="a43_62"></a>[UB 49:1.7](/en/The_Urantia_Book/49#p1_7), <a id="a43_105"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8), <a id="a43_148"></a>[UB 52:2.11](/en/The_Urantia_Book/52#p2_11), <a id="a43_193"></a>[UB 52:2.12](/en/The_Urantia_Book/52#p2_12), <a id="a43_238"></a>[UB 52:3.4](/en/The_Urantia_Book/52#p3_4), <a id="a43_281"></a>[UB 55:4.11](/en/The_Urantia_Book/55#p4_11), <a id="a43_326"></a>[UB 55:6.3](/en/The_Urantia_Book/55#p6_3), <a id="a43_369"></a>[UB 65:3.6](/en/The_Urantia_Book/65#p3_6) , <a id="a43_413"></a>[UB 70:8.15](/en/The_Urantia_Book/70#p8_15), <a id="a43_458"></a>[UB 71:3.8](/en/The_Urantia_Book/71#p3_8), <a id="a43_501"></a>[UB 82:6.5](/en/The_Urantia_Book/82#p6_5). (The figure in parentheses is the document number.) I'm sure others have escaped me.
 
 What do you think of this insistence that we eliminate the inferiors? What do you think this means in practice? Why are we surprised by this attitude of the revelators? Can something like this be disclosed without further preparation? Why are we so sensitive to eugenic approaches? Is Eugenics Morally Acceptable? Is there any form of eugenics that is more morally acceptable than others?
 
@@ -49,7 +73,7 @@ It is a difficult and delicate subject. Let us hope that the analysis of the gen
 
 However, today, I also find it difficult, especially because who will judge what should or should not be done? Or who will decide to whom to apply it? With how flawed our judicial systems are still and how far away politicians are from being the best, most loyal citizens willing to serve (and not serve themselves), to entrust them with such decisions!
 
-The developers already tell us in paragraph [UB 51:4.8](/en/The_Urantia_Book/51#p4_8).
+The developers already tell us in paragraph <a id="a75_44"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8).
 
 ## Santiago
 
@@ -161,3 +185,28 @@ I think it's great, and maybe it's a good way to address the thorny issue. But I
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_36_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 36 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="pr-2">Death according to The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

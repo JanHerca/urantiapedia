@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01">
+          <span class="pr-2">Luz y Vida — January 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -217,7 +238,7 @@ Luis Garcia Bory
 
 Altruism
 
-> “Strong characters are not derived from *not* doing wrong but rather from actually doing right. Unselfishness is the badge of human greatness. The highest levels of self-realization are attained by worship and service. The happy and effective person is motivated, not by fear of wrongdoing, but by love of right doing.” ([UB 140:4.6](/en/The_Urantia_Book/140#p4_6))
+> “Strong characters are not derived from *not* doing wrong but rather from actually doing right. Unselfishness is the badge of human greatness. The highest levels of self-realization are attained by worship and service. The happy and effective person is motivated, not by fear of wrongdoing, but by love of right doing.” (<a id="a240_323"></a>[UB 140:4.6](/en/The_Urantia_Book/140#p4_6))
 
 This is my favorite section of _The Urantia Book_, for three reasons:
 
@@ -264,3 +285,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01">
+          <span class="pr-2">Luz y Vida — January 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

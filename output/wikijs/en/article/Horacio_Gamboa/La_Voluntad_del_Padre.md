@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Horacio Gamboa<br>© 2012 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/La_evolucion_organica_del_Hombre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The organic evolution of man through the evolutionary levels of the mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Little_things_of_life">
+          <span class="pr-2">Life's little things</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Our Father who art in heaven, hallowed be your name, come to your kingdom, your will be done Lord here on earth as it is in heaven..._
@@ -42,3 +66,28 @@ President U.A.I. Chile
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jesus_Rodriguez/La_evolucion_organica_del_Hombre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The organic evolution of man through the evolutionary levels of the mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-31-december-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 31 — December 2012 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/Little_things_of_life">
+          <span class="pr-2">Life's little things</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

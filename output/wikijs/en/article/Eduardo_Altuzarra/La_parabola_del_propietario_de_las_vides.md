@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Eduardo Altuzarra<br>© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_discurso_sobre_la_verdadera_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The discourse on true religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="pr-2">The parable of the mines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In order to understand the parable of the owner of the vineyard and the denarii, that is, “The discussion about wealth”, it is necessary to reread the entire [Paper 163](/en/The_Urantia_Book/163).
@@ -25,13 +49,13 @@ Andrew introduces Jesus to a certain rich young man who was a fervent believer a
 
 The paper says that:
 
-> _Thus always it was and forever will be: Men must arrive at their own decisions. There is a certain range of the freedom of choice which mortals may exercise. The forces of the spiritual world will not coerce man; they allow him to go the way of his own choosing._ ([UB 163:2.8](/en/The_Urantia_Book/163#p2_8))
+> _Thus always it was and forever will be: Men must arrive at their own decisions. There is a certain range of the freedom of choice which mortals may exercise. The forces of the spiritual world will not coerce man; they allow him to go the way of his own choosing._ (<a id="a51_268"></a>[UB 163:2.8](/en/The_Urantia_Book/163#p2_8))
 
 It seems that, years later, this boy was able to realize the dream that he previously did not dare to follow due to his attachment to material things.
 
 The paper also says:
 
-> _Riches have nothing directly to do with entrance into the kingdom of heaven, but the *love of wealth does.* The spiritual loyalties of the kingdom are incompatible with servility to materialistic mammon. Man may not share his supreme loyalty to a spiritual ideal with a material devotion._ ([UB 163:2.10](/en/The_Urantia_Book/163#p2_10))
+> _Riches have nothing directly to do with entrance into the kingdom of heaven, but the *love of wealth does.* The spiritual loyalties of the kingdom are incompatible with servility to materialistic mammon. Man may not share his supreme loyalty to a spiritual ideal with a material devotion._ (<a id="a57_294"></a>[UB 163:2.10](/en/The_Urantia_Book/163#p2_10))
 
 Jesus explained that if the wealth that one possesses does not invade the halls of the soul, this has no consequence on the spiritual life of those who wish to enter the kingdom of heaven. It says that the Father treats all his creatures according to their needs and always in accordance with the just laws of merciful and loving consideration for the welfare of the universe.
 
@@ -52,3 +76,28 @@ Jesus explained that if the wealth that one possesses does not invade the halls 
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/El_discurso_sobre_la_verdadera_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The discourse on true religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-37-june-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 37 — June 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="pr-2">The parable of the mines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

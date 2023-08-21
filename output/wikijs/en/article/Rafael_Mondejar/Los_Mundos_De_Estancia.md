@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Rafael Mondéjar<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Trinitized Sons of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="pr-2">The spheres of light and life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -264,9 +288,34 @@ We have another very interesting reference to the resurrection in the morontia a
 
 There are differences of interpretation regarding the mansion world in which we begin our morontia stage: do we always pass through the first one, even for a brief period of time, until we reach the world that would correspond to us according to our spiritual state? It doesn't seem like that, at least not when it comes to mortals in general. In the document that deals with the worlds in light and life, it is said that many of the human beings who inhabit these worlds do not even pass through the mansion worlds, but from their planet they go directly to Jerusem.
 
-In [UB 47:3.5](/en/The_Urantia_Book/47#p3_5) there are some very interesting observations about planetary dispensations, and in [UB 49:5.32](/en/The_Urantia_Book/49#p5_32) we have references about terrestrial escape techniques. Another question that was raised was this: if in the fourth mansion world one must already master the language of the local universe, and considering that there are human beings who can go directly to this fourth world, how can they learn the language? in such a short time, if the revelators also tell us that the technique for learning the language is quite similar to that used on Urantia? It is true that already in the worlds in light and life it is possible to learn the language of the local universe. We must also highlight the case of mortals who merge with their Adjuster already in the material world, which means they go to the most advanced mansion worlds ([UB 49:6.19](/en/The_Urantia_Book/49#p6_19)). These mortals do not necessarily have to come from a world in light and life, but in general it happens in the most spiritually advanced worlds.
+In <a id="a290_3"></a>[UB 47:3.5](/en/The_Urantia_Book/47#p3_5) there are some very interesting observations about planetary dispensations, and in <a id="a290_128"></a>[UB 49:5.32](/en/The_Urantia_Book/49#p5_32) we have references about terrestrial escape techniques. Another question that was raised was this: if in the fourth mansion world one must already master the language of the local universe, and considering that there are human beings who can go directly to this fourth world, how can they learn the language? in such a short time, if the revelators also tell us that the technique for learning the language is quite similar to that used on Urantia? It is true that already in the worlds in light and life it is possible to learn the language of the local universe. We must also highlight the case of mortals who merge with their Adjuster already in the material world, which means they go to the most advanced mansion worlds (<a id="a290_898"></a>[UB 49:6.19](/en/The_Urantia_Book/49#p6_19)). These mortals do not necessarily have to come from a world in light and life, but in general it happens in the most spiritually advanced worlds.
 
 ## References
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Trinitized Sons of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-1-may-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 1 — May 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="pr-2">The spheres of light and life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

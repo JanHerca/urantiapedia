@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 De Santiago Rodríguez<br>© 2015 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The School of The Urantia Book on the Internet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-42-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 42 — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Santiago_Rodriguez">
+          <span class="pr-2">Urantia Questionnaire: Santiago Rodriguez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Until now, the issues discussed in this section had to do with facts that presented convergences or divergences between what is accepted by a majority of specialists about current knowledge and those same facts described by the Urantia Book itself.
@@ -29,23 +53,23 @@ The evolutionary difference between individuals and between groups, manifested t
 
 Expressed the current situation, tremendously divergent socially and culturally, I now want to draw attention to some shelled aspects of reading _The Urantia Book_.
 
-The first of these is to remember that our personal journey through Urantia will allow us to take only one thing with us, and it is the consequence that the experience of having used the mental and spiritual circuits that are at our disposal throughout the journey through the great universe [UB 117:5.13](/en/The_Urantia_Book/117#p5_13), and we have already begun that journey here on Urantia.
+The first of these is to remember that our personal journey through Urantia will allow us to take only one thing with us, and it is the consequence that the experience of having used the mental and spiritual circuits that are at our disposal throughout the journey through the great universe <a id="a55_292"></a>[UB 117:5.13](/en/The_Urantia_Book/117#p5_13), and we have already begun that journey here on Urantia.
 
-For mortal man, existing is equivalent to growing [UB 117:2.2](/en/The_Urantia_Book/117#p2_2). If there is no growth, there is death. And we are talking about experiential growth, that is, successive changes of state motivated by _decisions taken into action_, since by “experience” we must understand the action that we voluntarily perform after making a decision. [UB 117:5.13](/en/The_Urantia_Book/117#p5_13)
+For mortal man, existing is equivalent to growing <a id="a57_50"></a>[UB 117:2.2](/en/The_Urantia_Book/117#p2_2). If there is no growth, there is death. And we are talking about experiential growth, that is, successive changes of state motivated by _decisions taken into action_, since by “experience” we must understand the action that we voluntarily perform after making a decision. <a id="a57_366"></a>[UB 117:5.13](/en/The_Urantia_Book/117#p5_13)
 
 We are called to service, to selfless work for the well-being of our own earthly companions, in particular for worthy beings who are in need and in distress.
 
-We have a challenge, a mandate as individuals, and we know that the manifestation of greatness on a world like Urantia is the demonstration of self-control. [UB 28:6.20](/en/The_Urantia_Book/28#p6_20). Furthermore, we are aware that the planetary culture will rise if the quality of the mind rises. [UB 50:6.4](/en/The_Urantia_Book/50#p6_4). And we must be very attentive to ideals, since the ideals of a generation open the channels of destiny for immediate posterity. [UB 81:6.26](/en/The_Urantia_Book/81#p6_26)
+We have a challenge, a mandate as individuals, and we know that the manifestation of greatness on a world like Urantia is the demonstration of self-control. <a id="a61_157"></a>[UB 28:6.20](/en/The_Urantia_Book/28#p6_20). Furthermore, we are aware that the planetary culture will rise if the quality of the mind rises. <a id="a61_299"></a>[UB 50:6.4](/en/The_Urantia_Book/50#p6_4). And we must be very attentive to ideals, since the ideals of a generation open the channels of destiny for immediate posterity. <a id="a61_470"></a>[UB 81:6.26](/en/The_Urantia_Book/81#p6_26)
 
-> _At first life was a struggle for existence; now, for a standard of living; next it will be for quality of thinking, the coming earthly goal of human existence._ ([UB 81:6.28](/en/The_Urantia_Book/81#p6_28))
+> _At first life was a struggle for existence; now, for a standard of living; next it will be for quality of thinking, the coming earthly goal of human existence._ (<a id="a63_165"></a>[UB 81:6.28](/en/The_Urantia_Book/81#p6_28))
 
-Since values must not be static, we must promote those changes that lead to growth. The meanings have to be expanded and the values have to be exalted. [UB 100:3.5](/en/The_Urantia_Book/100#p3_5)
+Since values must not be static, we must promote those changes that lead to growth. The meanings have to be expanded and the values have to be exalted. <a id="a65_152"></a>[UB 100:3.5](/en/The_Urantia_Book/100#p3_5)
 
-The creative imagination has to produce valuable results and this will be so if the stage on which that imagination acts is not occupied by prejudices, hatred, fears, resentments, revenge and fanaticism. [UB 111:4.9](/en/The_Urantia_Book/111#p4_9)
+The creative imagination has to produce valuable results and this will be so if the stage on which that imagination acts is not occupied by prejudices, hatred, fears, resentments, revenge and fanaticism. <a id="a67_204"></a>[UB 111:4.9](/en/The_Urantia_Book/111#p4_9)
 
-A spirit-dominated human life is manifested in the increase in quantity and quality of the fruits of the spirit (381.7) 34:6.13, which mold the character of the personality and achieve pleasing and ennobling self-control. [UB 143:2.8](/en/The_Urantia_Book/143#p2_8).
+A spirit-dominated human life is manifested in the increase in quantity and quality of the fruits of the spirit (381.7) 34:6.13, which mold the character of the personality and achieve pleasing and ennobling self-control. <a id="a69_222"></a>[UB 143:2.8](/en/The_Urantia_Book/143#p2_8).
 
-The fruits of the spirit, sincere and loving service, are the social lever that elevates the races that are in darkness. [UB 178:1.6](/en/The_Urantia_Book/178#p1_6). Mental poisons: fear, anger, envy, jealousy, distrust, intolerance, hinder the spiritual progress of the evolving soul [UB 110:1.5](/en/The_Urantia_Book/110#p1_5)
+The fruits of the spirit, sincere and loving service, are the social lever that elevates the races that are in darkness. <a id="a71_121"></a>[UB 178:1.6](/en/The_Urantia_Book/178#p1_6). Mental poisons: fear, anger, envy, jealousy, distrust, intolerance, hinder the spiritual progress of the evolving soul <a id="a71_285"></a>[UB 110:1.5](/en/The_Urantia_Book/110#p1_5)
 
 Knowing our reality, and if in this world of great divergences we want to converge towards adequate spiritual growth as individuals and as a group, we have no choice but to not only _become aware and decide_, but also _we must do_; We have to face the tremendous divergences of social inequality and of values and principles of the different social groups, groups of extraordinary violence, some with the human race itself, others with the environment.
 
@@ -59,3 +83,28 @@ How can we harmonize the divine mandate of improvement as individuals and as a g
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/La_escuela_de_El_Libro_de_Urantia_en_Internet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The School of The Urantia Book on the Internet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-42-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 42 — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Santiago_Rodriguez">
+          <span class="pr-2">Urantia Questionnaire: Santiago Rodriguez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

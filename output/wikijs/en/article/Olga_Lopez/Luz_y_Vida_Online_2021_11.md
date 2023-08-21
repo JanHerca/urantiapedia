@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="pr-2">Luz y Vida — November 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -234,7 +255,7 @@ And in our search we would like to receive some indication, some hint of where w
 Allow me to propose this paragraph from _The Urantia Book_, which gives us a magnificent recipe to achieve our purposes:
 
 
-> _When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved._ ([UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
+> _When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved._ (<a id="a257_267"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
 
 They invite us to a barter, to an exchange: if we make the decision to accept the revelation that there is a divine presence in us and in our fellow men, and consciously and freely decide to let this faith (belief in action) work in our life, in return we will have not only that happiness that we so desire as individual beings and as a society, but also a lot of extra benefits.
 
@@ -320,3 +341,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="pr-2">Luz y Vida — November 2021 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

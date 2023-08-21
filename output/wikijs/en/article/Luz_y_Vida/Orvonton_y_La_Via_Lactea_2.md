@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Carmelo Martínez, Antonio Moya, Eduardo Altuzarra<br>© 2006 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_7_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 7 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-7-december-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 7 — December 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Diego_V_Seoane/Un_Camino_para_acercarse_a_la_Conciencia_de_Dios">
+          <span class="pr-2">A way to get closer to the consciousness of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By various authors
@@ -31,11 +55,11 @@ I have thought about it and I still think that all the superuniverses have the s
 
 I'll explain. To do this I start with three quotes from section 7 of paper 11 (the whole section is interesting).
 
-> Quote 1: “_The vertical cross section of total space would slightly resemble a Maltese cross, with the horizontal arms representing pervaded (universe) space and the vertical arms representing unpervaded (reservoir) space. The areas between the four arms would separate them somewhat as the midspace zones separate pervaded and unpervaded space. These quiescent midspace zones grow larger and larger at greater and greater distances from Paradise and eventually encompass the borders of all space and completely incapsulate both the space reservoirs and the entire horizontal extension of pervaded space._” ([UB 11:7.3](/en/The_Urantia_Book/11#p7_3))
+> Quote 1: “_The vertical cross section of total space would slightly resemble a Maltese cross, with the horizontal arms representing pervaded (universe) space and the vertical arms representing unpervaded (reservoir) space. The areas between the four arms would separate them somewhat as the midspace zones separate pervaded and unpervaded space. These quiescent midspace zones grow larger and larger at greater and greater distances from Paradise and eventually encompass the borders of all space and completely incapsulate both the space reservoirs and the entire horizontal extension of pervaded space._” (<a id="a57_610"></a>[UB 11:7.3](/en/The_Urantia_Book/11#p7_3))
 
-> Quote 2: “_If you imagine a finite, but inconceivably large, V-shaped plane situated at right angles to both the upper and lower surfaces of Paradise, with its point nearly tangent to peripheral Paradise, and then visualize this plane in elliptical revolution about Paradise, its revolution would roughly outline the volume of pervaded space._” ([UB 11:7.5](/en/The_Urantia_Book/11#p7_5))
+> Quote 2: “_If you imagine a finite, but inconceivably large, V-shaped plane situated at right angles to both the upper and lower surfaces of Paradise, with its point nearly tangent to peripheral Paradise, and then visualize this plane in elliptical revolution about Paradise, its revolution would roughly outline the volume of pervaded space._” (<a id="a59_348"></a>[UB 11:7.5](/en/The_Urantia_Book/11#p7_5))
 
-> Quote 3: “_There is an upper and a lower limit to horizontal space with reference to any given location in the universes. If one could move far enough at right angles to the plane of Orvonton, either up or down, eventually the upper or lower limit of pervaded space would be encountered. Within the known dimensions of the master universe these limits draw farther and farther apart at greater and greater distances from Paradise; space thickens, and it thickens somewhat faster than does the plane of creation, the universes._” ([UB 11:7.6](/en/The_Urantia_Book/11#p7_6))
+> Quote 3: “_There is an upper and a lower limit to horizontal space with reference to any given location in the universes. If one could move far enough at right angles to the plane of Orvonton, either up or down, eventually the upper or lower limit of pervaded space would be encountered. Within the known dimensions of the master universe these limits draw farther and farther apart at greater and greater distances from Paradise; space thickens, and it thickens somewhat faster than does the plane of creation, the universes._” (<a id="a61_532"></a>[UB 11:7.6](/en/The_Urantia_Book/11#p7_6))
 
 These limits that we would “finally meet” are close (relatively) in Havona and far away at the end of the fourth level of outer space. This makes me think that on the space level of the superuniverses, especially near the borders of the central universe, there isn't much space up and down the “plane of creation.” Of course at a certain distance from Havona this width of space is the same regardless of which superuniverse we are in. The closer to Havona the less vertical dispersion there is. Within Havona this dispersion is even less; in fact, all the spheres of the central universe move in circuits that are on the same plane, which I believe to be the plane of the seven superuniverses.
 
@@ -101,3 +125,28 @@ In short, that they are parallel lines of work, as I have already said, and that
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Num_7_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — No. 7 — Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-7-december-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 7 — December 2006 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Diego_V_Seoane/Un_Camino_para_acercarse_a_la_Conciencia_de_Dios">
+          <span class="pr-2">A way to get closer to the consciousness of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

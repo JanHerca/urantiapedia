@@ -9,9 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 José Alberto Wonsover<br>© 2007 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Los_Circulos_de_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jerusem circles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-10-september-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 10 — September 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="pr-2">The star of Bethlehem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _“as the new creature of the rebirth of the spirit, you are taught to believe and rejoice. In the Father’s kingdom you are to become new creatures; old things are to pass away; behold I show you how all things are to become new._ ([UB 143:2.3](/en/The_Urantia_Book/143#p2_3))
+
+> _“as the new creature of the rebirth of the spirit, you are taught to believe and rejoice. In the Father’s kingdom you are to become new creatures; old things are to pass away; behold I show you how all things are to become new._ (<a id="a37_233"></a>[UB 143:2.3](/en/The_Urantia_Book/143#p2_3))
 
 All things must be renewed. And in life itself that's how it is!... Every day and every morning is a new day, with new opportunities and new challenges. It is not the same day as yesterday. It's a brand new one. What's more, every second that passes is completely new. But the monotony is the cause of “everything” we see it the same. We go to our jobs or our studies and see how nothing changes. And logically nothing is going to change if we don't change _<ins>first</ins>_. We must renew ourselves, we must be new creatures. It's not that “we could be...” it's that we _<ins>must</ins>_ be.
 
@@ -19,11 +43,11 @@ A butterfly before being a butterfly is a caterpillar. It must be. Because that'
 
 The Master always distributed good News, it was always New. For example, when he met Nalda, the Samaritan woman at Jacob's well told him:
 
-> “_Woman, go your way; God has forgiven you. Henceforth you <ins>will live a new life</ins>. You have received the living water, and a <ins>new joy will spring up within your soul</ins>, and you shall become a daughter of the Most High._” ([UB 143:5.9](/en/The_Urantia_Book/143#p5_9))
+> “_Woman, go your way; God has forgiven you. Henceforth you <ins>will live a new life</ins>. You have received the living water, and a <ins>new joy will spring up within your soul</ins>, and you shall become a daughter of the Most High._” (<a id="a45_241"></a>[UB 143:5.9](/en/The_Urantia_Book/143#p5_9))
 
 All new! A new life and a new joy! Not the normal joy that we normally know, not the normal life that we normally live... A new life and a new joy!
 
-> _You shall love one another with a <ins>new and startling</ins> affection, even as I have loved you. You will serve mankind with a <ins>new and amazing</ins> devotion, even as I have served you._ ([UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
+> _You shall love one another with a <ins>new and startling</ins> affection, even as I have loved you. You will serve mankind with a <ins>new and amazing</ins> devotion, even as I have served you._ (<a id="a49_199"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
 
 It's not just a feeling of something new and then everything remains the same... It's something that is truly NEW! It is born within us. That new life and that new joy have been born.
 
@@ -65,7 +89,7 @@ The waters of a river are never the same. The river may have the same “name,�
 
 In religion it is like that. The same religion that the Master showed us is a personal religion, but above all a religion of LOVE, joy, joy and happiness.
 
-> _The religion of Jesus demands living and spiritual experience. Other religions may consist in traditional beliefs, emotional feelings, philosophic consciousness, and all of that, but the teaching of the Master requires the attainment of actual levels of real spirit progression._ ([UB 160:5.12](/en/The_Urantia_Book/160#p5_12))
+> _The religion of Jesus demands living and spiritual experience. Other religions may consist in traditional beliefs, emotional feelings, philosophic consciousness, and all of that, but the teaching of the Master requires the attainment of actual levels of real spirit progression._ (<a id="a91_284"></a>[UB 160:5.12](/en/The_Urantia_Book/160#p5_12))
 
 To cut with the “traditional” is to cut with the past and welcome something NEW and better. It is hard, an arduous process, because the mind “gets used” to the traditional. And giving way to something new is giving way to something unknown. It scares us! Of course. We don't know what will happen. We don't know that the caterpillar will _<ins>change</ins>_ into a butterfly. We know the caterpillar, but not the butterfly.
 
@@ -73,7 +97,7 @@ We “get used” to what we know, we are “scared” by what we don't know.
 
 And yet, we know perhaps _<ins>the best</ins>_ of the examples. At first it's hard for us to accept it, it's true, but we know someone who went through what we went through... The Master's life. This does not mean “imitating” the life that the Master lived. This means accepting what he accepted and living our own life accordingly.
 
-> “_If you would follow after me when I leave you, put forth your earnest efforts to live in accordance with the spirit of my teachings and with the ideal of my life—the <ins>doing of my Father’s will</ins>. This do instead of trying to imitate my natural life in the flesh as I have, perforce, been required to live it on this world._” ([UB 181:1.3](/en/The_Urantia_Book/181#p1_3))
+> “_If you would follow after me when I leave you, put forth your earnest efforts to live in accordance with the spirit of my teachings and with the ideal of my life—the <ins>doing of my Father’s will</ins>. This do instead of trying to imitate my natural life in the flesh as I have, perforce, been required to live it on this world._” (<a id="a99_338"></a>[UB 181:1.3](/en/The_Urantia_Book/181#p1_3))
 
 Even imitating a life exactly as the Master lived it becomes traditional and monotonous. Each one lives their different life. A snow crystal is never always the same, there are never two that are identical. Even each person is different, there are never two fingerprints that are exactly the same. Everything is always something new. We cannot live the Master's life because he lived it in his own way. But we can live our life with its same principles and its same ideals. Those ideals will always help and comfort us.
 
@@ -81,3 +105,28 @@ Even imitating a life exactly as the Master lived it becomes traditional and mon
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Los_Circulos_de_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jerusem circles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-10-september-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 10 — September 2007 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="pr-2">The star of Bethlehem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

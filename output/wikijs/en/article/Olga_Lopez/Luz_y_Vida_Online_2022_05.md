@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="pr-2">Luz y Vida — May 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Newsletter of the Urantia Association of Spain
@@ -93,7 +114,7 @@ In this work, the author reviews and compares the figures of Abner and Paul of T
 
 [**About the personality (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
 
-We present to you here a very personal reflection of someone who has spent decades studying the book and who was president of Urantia Foundation; a reflection related to one of the newest concepts that appear in _The Urantia Book_. Seppo begins his presentation thus: «Personality is one of the unsolved mysteries of the universes ([UB 5:6.2](/en/The_Urantia_Book/5#p6_2)). So, if we were able to solve this “mystery of the universes” in a speech of twenty minutes, we would be witnessing a miracle of proportions that would not only shake the Earth, but the entire universe. Fear not! Nothing of that magnitude is going to happen. Instead, what you are going to hear is the understanding of a perplexed person who has studied the question and has implored, in the manner of a “de profundis I exclaim to you, Domine,” for superhuman wisdom to guide his mind while he tries to understand the issue and share his understanding with you.”
+We present to you here a very personal reflection of someone who has spent decades studying the book and who was president of Urantia Foundation; a reflection related to one of the newest concepts that appear in _The Urantia Book_. Seppo begins his presentation thus: «Personality is one of the unsolved mysteries of the universes (<a id="a116_332"></a>[UB 5:6.2](/en/The_Urantia_Book/5#p6_2)). So, if we were able to solve this “mystery of the universes” in a speech of twenty minutes, we would be witnessing a miracle of proportions that would not only shake the Earth, but the entire universe. Fear not! Nothing of that magnitude is going to happen. Instead, what you are going to hear is the understanding of a perplexed person who has studied the question and has implored, in the manner of a “de profundis I exclaim to you, Domine,” for superhuman wisdom to guide his mind while he tries to understand the issue and share his understanding with you.”
 <br style="clear:both" />
 
 ## History and teachings – Chronicle of the life of Jesus
@@ -207,7 +228,7 @@ Jorge Nagore
 
 The wealth of contents of _The Urantia Book_ provides a multitude of exciting paragraphs that have undoubtedly marked all readers. Impressed in general by the specific theme of Thought Adjusters, I have chosen a few lines, I think unique throughout the entire book, in which an Adjuster speaks for himself, referring to his mortal associate.
 
-> . . . Among other things, the Adjuster pleaded “that he more faithfully give me his sincere co-operation, more cheerfully endure the tasks of my emplacement, more faithfully carry out the program of my arrangement, more patiently go through the trials of my selection, more persistently and cheerfully tread the path of my choosing, . . . I will be true to my personality trust. And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle. On the human will our achievement of personality depends.” ([UB 110:7.10](/en/The_Urantia_Book/110#p7_10))
+> . . . Among other things, the Adjuster pleaded “that he more faithfully give me his sincere co-operation, more cheerfully endure the tasks of my emplacement, more faithfully carry out the program of my arrangement, more patiently go through the trials of my selection, more persistently and cheerfully tread the path of my choosing, . . . I will be true to my personality trust. And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle. On the human will our achievement of personality depends.” (<a id="a230_561"></a>[UB 110:7.10](/en/The_Urantia_Book/110#p7_10))
 
 What I am going to express next is only an opinion based on my personal experience in this regard. This paragraph was a strong impulse to get to know better that wonderful being that lives in me.
 
@@ -286,3 +307,25 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 - Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="pr-2">Luz y Vida — May 2022 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

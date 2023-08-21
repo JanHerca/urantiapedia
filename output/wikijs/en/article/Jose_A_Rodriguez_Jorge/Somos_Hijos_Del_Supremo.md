@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 José A. Rodríguez Jorge<br>© 2005 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_2a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of May 14, 1999 in Dakar (Senegal), second part</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-3-december-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 3 — December 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -29,3 +50,25 @@ Jesus also makes it clear in his commandments: be perfect, as God in heaven is p
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_2a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of May 14, 1999 in Dakar (Senegal), second part</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-3-december-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 3 — December 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

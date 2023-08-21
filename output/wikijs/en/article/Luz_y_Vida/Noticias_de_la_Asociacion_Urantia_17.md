@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ismael_Gracia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Questionnaire: Ismael Gracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Meeting of Readers of The Urantia Book in Spain
@@ -31,10 +52,10 @@ The hotel is located near Avenida del Puerto, which links the historic center wi
 
 The theme of this Meeting is “**Discourses and parables of Jesus**”. Among all the speeches and parables that Jesus of Nazareth gave in his public life, we will work with two speeches and two parables. Attendees will form groups in which to consider what are the most important teachings of these speeches and parables, and then the results will be shared with all attendees. These are the texts that will be worked on in groups:
 
-1. Discourse on true religion (Document 155, [UB 155:5.6](/en/The_Urantia_Book/155#p5_6) - [UB 155:5.13](/en/The_Urantia_Book/155#p5_13)).
-2. The parable of the owner of the vineyards (Document 163, [UB 163:3.5](/en/The_Urantia_Book/163#p3_5) - [UB 163:3.7](/en/The_Urantia_Book/163#p3_7))
-3. The parable of the mines (Document 171, [UB 171:8.3](/en/The_Urantia_Book/171#p8_3) - [UB 171:8.6](/en/The_Urantia_Book/171#p8_6))
-4. The last speech in the temple (Document 175, [UB 175:1.1](/en/The_Urantia_Book/175#p1_1) - [UB 175:1.24](/en/The_Urantia_Book/175#p1_24))
+1. Discourse on true religion (Document 155, <a id="a54_45"></a>[UB 155:5.6](/en/The_Urantia_Book/155#p5_6) - <a id="a54_91"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13)).
+2. The parable of the owner of the vineyards (Document 163, <a id="a55_60"></a>[UB 163:3.5](/en/The_Urantia_Book/163#p3_5) - <a id="a55_106"></a>[UB 163:3.7](/en/The_Urantia_Book/163#p3_7))
+3. The parable of the mines (Document 171, <a id="a56_43"></a>[UB 171:8.3](/en/The_Urantia_Book/171#p8_3) - <a id="a56_89"></a>[UB 171:8.6](/en/The_Urantia_Book/171#p8_6))
+4. The last speech in the temple (Document 175, <a id="a57_48"></a>[UB 175:1.1](/en/The_Urantia_Book/175#p1_1) - <a id="a57_94"></a>[UB 175:1.24](/en/The_Urantia_Book/175#p1_24))
 
 Given the success of the last meeting, on the last day there will be a session to answer questions that attendees want to ask to solve together. There will also be guided meditation in the evening after dinner, for those who wish to participate.
 
@@ -104,3 +125,25 @@ Total prices **for companions who do not participate** in the Meeting:
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ismael_Gracia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Questionnaire: Ismael Gracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-no-36-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — No. 36 — March 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
