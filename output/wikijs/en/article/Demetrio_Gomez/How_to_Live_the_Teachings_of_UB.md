@@ -1,5 +1,5 @@
 ---
-title: "How to Live the Teachings of the UB"
+title: "How to Live the Teachings of The Urantia Book"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — No. 29 — Presentation"
+title: "Luz y Vida — No. 29 — Presentation"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

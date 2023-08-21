@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — No. 4 — Presentation"
+title: "Friends and Residents on Urantia"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
