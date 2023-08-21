@@ -88,7 +88,7 @@ Many chronologies of the life of Jesus have been made according to what is told 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentation of LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentation of UB" width="250">
 </figure>
 
 [**Presentation of _The Urantia Book_ in “Pandora's Box” (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf)

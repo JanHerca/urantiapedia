@@ -38,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022">
 </figure>
 
-### Seguir a Jesús
+## Seguir a Jesús
 
 Detente un momento, por favor.
 

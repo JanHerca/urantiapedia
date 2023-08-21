@@ -52,7 +52,7 @@ This short story shows us a great truth: the perception of the divine is within 
 Hundreds of years ago, Agustín de Hipona told us these wonderful words that deserve to be reread several times:
 
 _"I loved you late, beauty so old, and so new, I loved you late. And behold, You were within me, and I was outside; and outside I was looking for you, and I threw myself on those beauties that you created._
-_"You were with me, but I was not with you. They kept me away from you those things that, if they were not in you, would not exist.»_
+_“You were with me, but I was not with you. They kept me away from you those things that, if they were not in you, would not exist.”_
 
 º[Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
 <br style="clear:both" />
@@ -65,7 +65,7 @@ _"You were with me, but I was not with you. They kept me away from you those thi
 
 [**Review of the general organization of the universe (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
 
-This work, as its name indicates, is a brief review of the organization of the master universe, the cosmic creation of the Deity. He begins with Paradise and its gigantic zones and relates them to the dimensions of the great universe and its inhabitants. Dimensions of a size impossible to conceive by our mortal mind. As an example: "On Paradise, and in the second peripheral zone of the Holy Area, the active groups of glorified individuals in their assigned sector (in this case, the sector related to the ascendant personalities of a single superuniverse, say Orvonton) are of the order of 823,543 followed by 45 zeros. To know the number of individuals expected in this sector, surely we should add a few more zeros.» But it does not stop there: the calculations related to the different types of gravity lead him to deduce that the number of worlds in the grand universe is 1/24 part of the worlds in the master universe.
+This work, as its name indicates, is a brief review of the organization of the master universe, the cosmic creation of the Deity. He begins with Paradise and its gigantic zones and relates them to the dimensions of the great universe and its inhabitants. Dimensions of a size impossible to conceive by our mortal mind. As an example: “On Paradise, and in the second peripheral zone of the Holy Area, the active groups of glorified individuals in their assigned sector (in this case, the sector related to the ascendant personalities of a single superuniverse, say Orvonton) are of the order of 823,543 followed by 45 zeros. To know the number of individuals expected in this sector, surely we should add a few more zeros.” But it does not stop there: the calculations related to the different types of gravity lead him to deduce that the number of worlds in the grand universe is 1/24 part of the worlds in the master universe.
 <br style="clear:both" />
 
 ---

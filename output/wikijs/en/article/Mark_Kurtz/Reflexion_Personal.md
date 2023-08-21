@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Mark Kurtz<br>© 2010 Urantia Association of Spain</p>
 
 
-The “Personal Reflection: True, False, or 'I Don't Know'” survey is intended as a personal soul survey tool, so to speak. The privacy and uniqueness of each person who takes the survey is respected, that is, the personal relationship with their concept of the Supreme (God, Yahweh, Brahma, etc.). The survey aims to be neutral regarding religion. No one is asked to turn in the results or share their responses, although you are welcome to do so if you wish.
+The “Personal Reflection: True, False, or ‘I Don't Know’” survey is intended as a personal soul survey tool, so to speak. The privacy and uniqueness of each person who takes the survey is respected, that is, the personal relationship with their concept of the Supreme (God, Yahweh, Brahma, etc.). The survey aims to be neutral regarding religion. No one is asked to turn in the results or share their responses, although you are welcome to do so if you wish.
 
 Do the survey in a moment of silent reflection, with an attitude of complete honesty and openness to the One who is worshipped. Take the survey several times over the years, if you feel the urge to do so.
 

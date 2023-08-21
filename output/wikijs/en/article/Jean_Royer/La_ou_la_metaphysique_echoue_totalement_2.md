@@ -44,7 +44,7 @@ Furthermore: [The Greeks] _searched for the pleasure of the soul in deep thought
 
 > _. . .Metaphysics stands for man’s well-meant but futile effort to compensate for the absence of the mota of morontia._ ([UB 103:6.7](/en/The_Urantia_Book/103#p6_7))
 
-> Being the morontia mota: _the supraphilosophical sensitivity that allows discerning the truth and perceiving unity, or a sensitivity to supermaterial reality that begins to compensate for incomplete growth; its substance is knowledge-reason and its essence is faith-discernment. Speck is a superphilosophical reconciliation of divergent perceptions of reality_ (see [UB 102:3.2](/en/The_Urantia_Book/102#p3_2) and [UB 103:6.7](/en/The_Urantia_Book/103#p6_7)).
+> Being the morontia mota: _the supraphilosophical sensitivity that allows discerning the truth and perceiving unity, or a sensitivity to supermaterial reality that begins to compensate for incomplete growth; its substance is knowledge-reason and its essence is faith-discernment. Mota is a superphilosophical reconciliation of divergent perceptions of reality_ (see [UB 102:3.2](/en/The_Urantia_Book/102#p3_2) and [UB 103:6.7](/en/The_Urantia_Book/103#p6_7)).
 
 Worse yet, metaphysics disturbs philosophy:
 

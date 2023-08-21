@@ -154,7 +154,7 @@ This book is the story of a conversion written in the first person. He describes
 ## Video – our recommendation of the month
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2022_09/La-glandula-pineal-y-el-LU.png" alt="La glándula pineal y el LU">
+<img src="/image/article/Luz_y_Vida/LyV_2022_09/La-glandula-pineal-y-el-LU.png" alt="The Pineal Gland and UB">
 </figure>
 
 [The Pineal Gland and _The Urantia Book_](https://www.youtube.com/watch?v=OkxY40No_YA&list=WL&index=8) ([Study of the Urantia Writings](https://www.youtube.com/channel/UC7jKlrYCBGq0CiLTGDq-0KQ))

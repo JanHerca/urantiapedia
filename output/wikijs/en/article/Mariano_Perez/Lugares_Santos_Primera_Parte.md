@@ -25,7 +25,7 @@ For a better understanding of the study, I will relate the places of greatest in
 
 The selection is as follows:
 
-| **No** | **EVENT** | **TRADITIONAL PLACE** |
+| **Num** | **EVENT** | **TRADITIONAL PLACE** |
 | :---: | :--- | :--- |
 | 1 | Gabriel's Annunciation to Mary and main home of the childhood and youth of Jesus -Nazareth- | Cave in Church of Annunciation in Nazareth |
 | 2 | Baptism of Jesus by John the Baptist | Jordan River -near the Dead Sea- |

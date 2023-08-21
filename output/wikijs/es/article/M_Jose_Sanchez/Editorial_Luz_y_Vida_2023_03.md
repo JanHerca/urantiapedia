@@ -50,13 +50,13 @@ Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir l
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
-> … entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». <a id="a52_372"></a>[LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
+> ...entonces salió Jesús al oír el alboroto y reprendió indignado a sus apóstoles diciendo: «Dejad que los niños vengan a mí y no se lo impidáis, porque de los que son como ellos es el reino de los cielos. En verdad, en verdad os digo que el que no reciba el reino de Dios como un niño no entrará en él para poder crecer hasta la estatura plena de la madurez espiritual». <a id="a52_372"></a>[LU 167:6.1](/es/The_Urantia_Book/167#p6_1)
 > 
 > Muchas veces lo sagrado se presenta como lo más sencillo, y así aquel día ni los niños ni sus madres se dieron cuenta de que las inteligencias espectadoras de Nebadon estaban contemplando cómo jugaban los niños de Jericó con el Creador de un universo. <a id="a54_254"></a>[LU 167:6.3](/es/The_Urantia_Book/167#p6_3)
 
 Los niños y niñas carecían de cualquier tipo de consideración social en la época en la que vivió Jesús de Nazaret. Por ello, no puede extrañar que los discípulos les regañasen cuando alborotaban cerca del maestro. Para sorpresa de todos, sin embargo, Jesús los encumbra y da a entender que la pequeñez, la simplicidad, es el criterio definitivo del reino.
 
-> … el Maestro dijo: «Quiero liberar a los hombres para que puedan empezar de nuevo como niños pequeños una vida nueva y mejor». <a id="a58_129"></a>[LU 140:8.26](/es/The_Urantia_Book/140#p8_26)
+> ...el Maestro dijo: «Quiero liberar a los hombres para que puedan empezar de nuevo como niños pequeños una vida nueva y mejor». <a id="a58_129"></a>[LU 140:8.26](/es/The_Urantia_Book/140#p8_26)
 
 Es más, Jesús llega a identificarse con ellos:
 
@@ -64,7 +64,7 @@ Es más, Jesús llega a identificarse con ellos:
 
 Incluso leemos esta declaración que nos debe hacer reflexionar:
 
-> «Parece que el Padre del cielo ha ocultado algunas de estas verdades a los sabios y altivos, y las ha revelado a los niños pequeños…» <a id="a66_136"></a>[LU 144:8.8](/es/The_Urantia_Book/144#p8_8)
+> «Parece que el Padre del cielo ha ocultado algunas de estas verdades a los sabios y altivos, y las ha revelado a los niños pequeños...» <a id="a66_136"></a>[LU 144:8.8](/es/The_Urantia_Book/144#p8_8)
 
 Qué sorprendente es ver que una de las condiciones para seguir a Jesús, algo que reiteró bastante a sus discípulos de entonces (y a los de ahora, por supuesto) es «ser como niños». Un Maestro religioso de hace más de 2000 años tiene esa idea curiosa y extraña para lo que se estilaba entonces, y nos podemos preguntar: ¿por qué nos pone de modelo a los niños?
 
@@ -100,7 +100,7 @@ Saber reírse, carcajearse, es algo raro entre los mayores: supone soltar el cue
 
 En _El Libro de Urantia_ observamos que el Maestro era conocido por su gran sentido del humor:
 
-> A Jesús le costó siempre comprender qué podían tener de malo ciertos juegos que estaban prohibidos durante el sabbat, aunque no dejó nunca de conformarse a los deseos de sus padres. Tenía una capacidad para el juego y el humor que encontró pocas oportunidades de expresarse en el entorno de su tiempo y generación… <a id="a102_317"></a>[LU 123:4.3](/es/The_Urantia_Book/123#p4_3)
+> A Jesús le costó siempre comprender qué podían tener de malo ciertos juegos que estaban prohibidos durante el sabbat, aunque no dejó nunca de conformarse a los deseos de sus padres. Tenía una capacidad para el juego y el humor que encontró pocas oportunidades de expresarse en el entorno de su tiempo y generación... <a id="a102_317"></a>[LU 123:4.3](/es/The_Urantia_Book/123#p4_3)
 
 A menudo utilizaba el humor como una forma de aliviar la tensión y promover la relajación y la armonía entre sus compañeros:
 
@@ -118,7 +118,7 @@ Esta pequeña reflexión sobre esta faceta del evangelio nos hace ver lo importa
 
 Esa ligereza, confianza, buen humor, ganas de jugar y aprender, receptividad… que poseen los más pequeños, las admiraba Jesús entonces y nos debe admirar a nosotros también.
 
-> Cuando llegó al jardín reunió a los apóstoles a su alrededor y prosiguió así su enseñanza: «Os resulta difícil recibir mi mensaje porque intentáis construir la nueva enseñanza directamente sobre la antigua, pero yo os digo que debéis renacer. Tenéis que empezar de nuevo como niños pequeños y estar dispuestos a confiar en mi enseñanza y a creer en Dios. <a id="a120_357"></a>[LU 140:6.2](/es/The_Urantia_Book/140#p6_2)
+> Cuando llegó al jardín reunió a los apóstoles a su alrededor y prosiguió así su enseñanza: «Os resulta difícil recibir mi mensaje porque intentáis construir la nueva enseñanza directamente sobre la antigua, pero yo os digo que debéis renacer. Tenéis que empezar de nuevo como niños pequeños y estar dispuestos a confiar en mi enseñanza y a creer en Dios.» <a id="a120_357"></a>[LU 140:6.2](/es/The_Urantia_Book/140#p6_2)
 
 Miremos la fragilidad de los niños y niñas para darnos cuenta de que todos tenemos dentro, a mayor o menor profundidad, el niño o niña que fuimos un día. Pero no se trata de volver a ser otra vez esa niña o niño que fuimos, sino de serlo después de haber dejado atrás esa etapa de la vida. «La vida espiritual no invita a una ingenuidad infantil, sino consciente. No a un candor ignorante, sino sabio. Te invita a la inocencia desde la experiencia», afirma el sacerdote Pablo d’Ors.
 

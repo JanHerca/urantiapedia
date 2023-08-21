@@ -208,7 +208,7 @@ Thank my God.
 Miguel Bustos
 
 <figure id="Figure_14" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_12/Impactos-en-mi-vida-del-LU.jpg" alt="Impactos en mi vida del LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_12/Impactos-en-mi-vida-del-LU.jpg" alt="Impacts on my life from UB">
 </figure>
 
 For me, a great impact was having the “luck” or privilege to come across _The Urantia Book_ more than 20 years ago, read it “complete” in eight months (I did not understand half of it), and compare it with the reading and my knowledge biblical.

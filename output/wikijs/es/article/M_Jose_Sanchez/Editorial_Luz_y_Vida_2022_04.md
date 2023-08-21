@@ -49,8 +49,8 @@ Este breve cuento nos muestra una gran verdad: la percepción de lo divino está
 
 Nos decía cientos de años atrás Agustín de Hipona estas maravillosas palabras que merecen releerse varias veces:
 
-_«Tarde te amé, hermosura tan antigua, y tan nueva, tarde te amé. Y he aquí que Tú estabas dentro de mí, y yo fuera; y fuera te buscaba yo, y me arrojaba sobre esas hermosuras que Tú creaste._  
-_»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían.»_
+«_Tarde te amé, hermosura tan antigua, y tan nueva, tarde te amé. Y he aquí que Tú estabas dentro de mí, y yo fuera; y fuera te buscaba yo, y me arrojaba sobre esas hermosuras que Tú creaste._»
+«_Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían._»
 
 _El Libro de Urantia_ también afirma esta unión de Dios con sus criaturas en lo más interior de nuestra mente:
 

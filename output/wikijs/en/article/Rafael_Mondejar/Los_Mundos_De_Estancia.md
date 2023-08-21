@@ -25,25 +25,25 @@ Introduction by Rafael Mondéjar
 
 (Jerusem satellites. 10 times larger than Urantia. _Pink spheres in the image._)
 
-- M. Finaliters
--M.Morontia
-- M. Angeles
-- M. Superangels
-- M. Sons
-- M. Spirit
-- M. Father
+- Finaliters World
+- Morontia World
+- Angeles World
+- Superangels World
+- Sons World
+- Spirit World
+- Father World
 
 **7 MANSION (OR MANSION) WORLDS**
 
 (Satellites of the M. Finalitarios. Same size as Urantia. _Green spheres in the image._)
 
-- First M. Stay
-- Second M. Stay
-- Third M. Stay
-- Fourth M. Stay
-- Fifth M. Stay
-- Sixth M. Stay
-- Seventh M. Stay
+- Mansonia Number One
+- Mansonia Number Two
+- Mansonia Number Three
+- Mansonia Number Four
+- Mansonia Number Five
+- Mansonia Number Six
+- Mansonia Number Seven
 
 ### Concept
 
@@ -111,7 +111,7 @@ Headquarters world of the finalitary corps stationed in Satania.
 
 It is the School in which those children who have died in the evolutionary worlds of space before having decided on the divine project of survival are received, reassembled and instructed.
 
-### Geographic situation"
+### “Geographic” situation
 
 It is situated in the finalitary world.
 
@@ -161,7 +161,7 @@ It is situated in the finalitary world.
 - Comply with the requirements demanded by the Urantia Parental Commission
 - Parents who have children in the Probationary Nursery receive all kinds of opportunities to collaborate with the morontia guardians of said children in relation to their instruction and formation.
 - We will be able to correct the biological deficiencies, those of our experience and the defects of our character
-- We will work to master the meaning of the morontia speck
+- We will work to master the meaning of the morontia mota
 - Before passing to the next world, we must reach, at least, the level of the post-Adamic dispensation of the normal evolutionary worlds.
 
 ## 4. The second World of mansions
@@ -176,7 +176,7 @@ In this world, the sea of glass makes its appearance
 - Communities reach their normal proportions. (?)
 - We will create new social orders
 - We will eliminate intellectual conflicts and mental disharmony
-- We will increase the effort to master the meaning of the morontia speck
+- We will increase the effort to master the meaning of the morontia mota
 - We will complete the experience of life in the flesh
 - Before passing to the next world, we will reach, at least, the intellectual level of the culture after the Magisterial Son in the ideal evolutionary worlds.
 
@@ -249,7 +249,7 @@ It is the seat of the Educators of the mansion worlds, though they are active on
 - Welcome committee on Jerusem for our reception.
 - We will be able to carry the “harp of God”, a morontia device that compensates for the inability to directly adapt the immature morontia sensory mechanism to the reception of space communications.
 - No more literal resurrections are experienced.
-The morontia form granted to us upon leaving the mansion world race will be with us to the end of our local universe experience.
+- The morontia form granted to us upon leaving the mansion world race will be with us to the end of our local universe experience.
 - There will be changes, but we will keep this same form until we are transported to the spiritual formation worlds of the superuniverse. - The mortal personality that began in the evolutionary worlds placed in a tabernacle of flesh - inhabited by a Monitor of Mystery and invested with the Spirit of Truth - does not fully mobilize, realize and unify until the day that as citizens of Jerusem we receive permission to go to Edentia and we are proclaimed as true members of the Nebadon morontia corps as Paradise ascenders.
 
 ---

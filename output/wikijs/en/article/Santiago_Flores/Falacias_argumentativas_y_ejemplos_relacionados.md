@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Santiago Flores<br>© 2016 Urantia Association of Spain</p>
 
 
-(_Exposed in the list “El rincón de Urantia” in June 2015_)
+(_Exposed in the board list “El rincón de Urantia” in June 2015_)
 
 I must clarify that I have no specific training on the subject, I am essentially a self-taught person who has not even completed secondary education. Therefore I emphasize that everything I say is perfectible and subject to criticism and revision. Paraphrasing Plato (what audacity!): What I say I do not say as a wise man, but searching together with you.
 
@@ -105,7 +105,7 @@ As _The Urantia Book_ does not deny the possibility that dinosaurs developed int
 
 Yes, yes, I know that they will tell me that _The Urantia Book_ says that the will did not appear until Andón and Fonta were born, but that is a general case... and this is a particular case. This is a decimal planet, besides, didn't you notice that the Planetary Prince took half a million years to come after the will of Andon and Fonta appeared? That's because the will had already developed among the dinosaurs, but it didn't spread because they almost went extinct soon after, so the Most Highs wanted to make sure that the descendants of Andon and Fonta wouldn't go extinct before sending the Prince, and they segregated the two races. because it is a rarity in the universe that intelligent lizards have developed and the universal economy was not going to waste that opportunity, of course not.
 
-In [UB 49:2.18](/en/The_Urantia_Book/49#p2_18), it clearly says “_But these modifications of primitive intelligent creatures are neither human fish nor human birds. They are of the human and pre-human types, neither superfish nor glorified birds but clearly mortal._» Here is the proof! It says: ”_neither super fish nor glorified birds_" but it doesn't mention dinosaurs, did you notice? That is why here he leaves open the possibility that dinosaurs (which are neither fish nor birds) could develop intelligence.
+In [UB 49:2.18](/en/The_Urantia_Book/49#p2_18), it clearly says “_But these modifications of early intelligent creatures are neither human fishes nor human birds. They are of the human and prehuman types, neither superfishes nor glorified birds but distinctly mortal._» Here is the proof! It says: ”_neither super fish nor glorified birds_" but it doesn't mention dinosaurs, did you notice? That is why here he leaves open the possibility that dinosaurs (which are neither fish nor birds) could develop intelligence.
 
 Since we haven't seen intelligent lizards out there, it's obvious that they must have hidden somewhere, and since there are so many and so big we can only explain their hiding place with the hollow Earth theory, which must also be true because a large number of people believes her
 

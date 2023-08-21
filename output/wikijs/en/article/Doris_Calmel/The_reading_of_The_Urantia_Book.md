@@ -31,7 +31,7 @@ It is above all the contribution received through these psychoanalysis sessions 
 
 Everything fit in order to be able to study in the company of various people, including philosophers and psychologists, all for years. We have reflected on the indications of _The Urantia Book_ about the human being and, above all, about its concordance in our lives.
 
-Already in LU 0:5.11, in the Prologue of the book, we have this magnificent phrase:
+Already in [UB 0:5.11](/en/The_Urantia_Book/0#p5_11), in the Prologue of the book, we have this magnificent phrase:
 
 > _The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul._ ([UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
 

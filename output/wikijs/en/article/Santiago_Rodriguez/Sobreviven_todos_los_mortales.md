@@ -29,11 +29,11 @@ Somehow we intuit that the fact of surviving physical death, given the level of 
 
 We also have the clear and forceful message of the UB that presents us with the idea that the continuity of existence depends on the conscious and unequivocal decision of the creature, whether or not to want to continue it, as is clearly reflected in the following paragraph:
 
-> _This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. The sovereign Judges of the universes will not deprive any being of personality status who has not finally and fully made the eternal choice; the soul of man must and will be given full and ample opportunity to reveal its true intent and real purpose._ ([UB 112:5.9](/en/The_Urantia_Book/112#p5_9))
+> _. . .But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. . . ._ ([UB 112:5.9](/en/The_Urantia_Book/112#p5_9))
 
 And reaffirmed with the following expression:
 
-> _Confusion, being puzzled, even sometimes discouraged and distracted, does not necessarily signify resistance to the leadings of the indwelling Adjuster. Such attitudes may sometimes connote lack of active co-operation with the divine Monitor and may, therefore, somewhat delay spiritual progress, but such intellectual emotional difficulties do not in the least interfere with the certain survival of the God-knowing soul. Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul._ ([UB 110:3.5](/en/The_Urantia_Book/110#p3_5))
+> _. . .Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul._ ([UB 110:3.5](/en/The_Urantia_Book/110#p3_5))
 
 The conclusion that could be drawn is that, given that on the one hand in this world we do not manage to be aware of the Adjuster in a clear way, together with the lack of resources that we do not possess due to causes and circumstances beyond our control; and on the other hand, the prevailing confusion and lack of knowledge, we could conclude that we cannot issue the final decision in life in the flesh. Therefore, we should all survive death and thus be able to make the choice in an unquestionable way, with greater knowledge of the facts, on the mansion worlds.
 
@@ -47,7 +47,7 @@ Why is survival necessary/desirable?
 
 What is the first cause that makes us start a long and arduous pilgrimage? Let's take a quote from the UB:
 
-> “_The enlightened worlds all recognize and worship the Universal Father, the eternal maker and infinite upholder of all creation. The will creatures of universe upon universe have embarked upon the long, long Paradise journey, the fascinating struggle of the eternal adventure of attaining God the Father. The transcendent goal of the children of time is to find the eternal God, to comprehend the divine nature, to recognize the Universal Father. God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality and in his universal sphere of righteous supremacy. From the Universal Father who inhabits eternity there has gone forth the supreme mandate, “Be you perfect, even as I am perfect.” In love and mercy the messengers of Paradise have carried this divine exhortation down through the ages and out through the universes, even to such lowly animal-origin creatures as the human races of Urantia._” ([UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
+> “_. . .From the Universal Father who inhabits eternity there has gone forth the supreme mandate, “Be you perfect, even as I am perfect.”_” ([UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
 
 There is an exhortation/mandate from the Universal Father, which is what sets in motion a huge number of creatures and forces/energies aimed at carrying out this simple order.
 
@@ -83,7 +83,7 @@ Let's observe our reality, and see our gifts (I repeat innate, since we are all 
 
 In addition, we have something bigger: does anyone doubt that he has a will? Even if we don't know that we have a “personality”, does anyone doubt that each of us is different from the others? The fact of having a will differentiates us, separates us from the animal kingdom. And together with the Will, a group of tools automatically appears that we cannot ignore, because they are inherent to our essence as human beings with survival potential, and although we are not aware of their existence, they work for us autonomously: The UB tells us that the fact of possessing will, automatically incorporates the power to choose to adore and ascend.
 
-> _These messages from Salvington, Edentia, and Jerusem formally marked the termination of the Life Carriers’ agelong supervision of the planet. For ages we had been on duty, assisted only by the seven adjutant mind-spirits and the Master Physical Controllers. And now, will, the power of choosing to worship and to ascend, having appeared in the evolutionary creatures of the planet, we realized that our work was finished, and our group prepared to depart. Urantia being a life-modification world, permission was granted to leave behind two senior Life Carriers with twelve assistants, and I was chosen as one of this group and have ever since been on Urantia._ ([UB 62:7.6](/en/The_Urantia_Book/62#p7_6))
+> _. . .And now, will, the power of choosing to worship and to ascend, having appeared in the evolutionary creatures of the planet,. . ._ ([UB 62:7.6](/en/The_Urantia_Book/62#p7_6))
 
 My conclusion from this paragraph is that the fact of possessing will is equivalent to possessing the ability of Adoration and the ability to ascend. That is, to overcome material death and be able to continue in the mansion worlds. But the sentence in bold seems to say that both the action of worship and the intention of ascension (of continued existence) <ins>is a choice</ins> of the creature, <ins>not an achievement acquired</ins> by the fact of possessing will.
 
@@ -95,9 +95,9 @@ In addition, this mind that we possess, due to the fact that it is a differentia
 2. <ins>Duty</ins>. Field of moral reality and philosophy, reason and the recognition of relative good and evil.
 3. <ins>Worship</ins>. Spiritual scope of the reality of the religious experience. It includes personal understanding of divine brotherhood, recognition of spiritual values, assurance of eternal survival.
 
-> _The cosmic mind unfailingly responds (recognizes response) on three levels of universe reality. These responses are self-evident to clear-reasoning and deep-thinking minds. These levels of reality are:_ ([UB 16:6.5](/en/The_Urantia_Book/16#p6_5))
+> _The cosmic mind unfailingly responds (recognizes response) on three levels of universe reality. . . ._ ([UB 16:6.5](/en/The_Urantia_Book/16#p6_5))
 
-> _In the local universe mind bestowals, these three insights of the cosmic mind constitute the a priori assumptions which make it possible for man to function as a rational and self-conscious personality in the realms of science, philosophy, and religion. Stated otherwise, the recognition of the *reality* of these three manifestations of the Infinite is by a cosmic technique of self-revelation. Matter-energy is recognized by the mathematical logic of the senses; mind-reason intuitively knows its moral duty; spirit-faith (worship) is the religion of the reality of spiritual experience. These three basic factors in reflective thinking may be unified and co-ordinated in personality development, or they may become disproportionate and virtually unrelated in their respective functions. But when they become unified, they produce a strong character consisting in the correlation of a factual science, a moral philosophy, and a genuine religious experience. And it is these three cosmic intuitions that give objective validity, reality, to man’s experience in and with things, meanings, and values._ ([UB 16:6.10](/en/The_Urantia_Book/16#p6_10))
+> _In the local universe mind bestowals, these three insights of the cosmic mind constitute the a priori assumptions which make it possible for man to function as a rational and self-conscious personality in the realms of science, philosophy, and religion. Stated otherwise, the recognition of the *reality* of these three manifestations of the Infinite is by a cosmic technique of self-revelation._ ([UB 16:6.10](/en/The_Urantia_Book/16#p6_10))
 
 We can find more references to the fact that there are these automatic and self-revealing mechanisms that are precisely aimed at allowing all creatures to choose without prior knowledge, and regardless of any other sociocultural circumstance.
 
@@ -111,7 +111,7 @@ The possession of the Personality that the Father grants to each individual in o
 > 4. Purposeful co-operation, group loyalty.
 > 5. Cosmic insight, the grasp of universe meanings.
 > 6. Personality dedication, wholehearted devotion to doing the Father’s will.
-> 7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver. ([UB 16:8.8-14](/en/The_Urantia_Book/16#p8_8))
+> 7. ***<ins>Worship, the sincere pursuit</ins>*** of divine values and the wholehearted love of the divine Value-Giver. ([UB 16:8.8-14](/en/The_Urantia_Book/16#p8_8))
 
 Insisting on what has been previously commented, the endowment of mind and personality that characterizes us makes us AUTOMATICALLY receptive in the three levels of reality that we can aspire to understand and progress:
 
@@ -119,20 +119,19 @@ Insisting on what has been previously commented, the endowment of mind and perso
 2. To a reasoned recognition of an obligation of moral conduct.
 3. And what is more important: the understanding by faith, of the fraternal adoration of the deity, or what is the same, the recognition of its existence.
 
-> _1. Moral decision, highest wisdom._
-> 
-> _2. Spiritual choice, truth discernment._
-> _3. Unselfish love, brotherhood service._
-> 4. Purposeful co-operation, group loyalty. ([UB 16:8.8-11](/en/The_Urantia_Book/16#p8_8))
+> _1. The ***mathematical or logical recognition*** of the uniformity of physical causation._
+> _2. The reasoned recognition of the obligation of ***moral conduct***._
+> _3. ***The faith-grasp of the fellowship worship of Deity, associated with the loving service of humanity***._ ([UB 16:8.16-18](/en/The_Urantia_Book/16#p8_16))
 
 Later he insists on the same fact:
 
-> The cosmic-mind-endowed, Adjuster-indwelt, personal creature possesses innate recognition-realization of energy reality, mind reality, and spirit reality. The will creature is thus equipped to discern the fact, the law, and the love of God. Aside from these three inalienables of human consciousness, all human experience is really subjective except that intuitive realization of validity attaches to the *unification* of these three universe reality responses of cosmic recognition. ([UB 16:9.1](/en/The_Urantia_Book/16#p9_1))
+> ***The cosmic-mind-endowed***, Adjuster-indwelt, personal creature ***possesses innate recognition-realization of energy reality, mind reality, and spirit reality***. <ins>The will creature is thus equipped to discern the fact, the law, and the love of God</ins>. ([UB 16:9.1](/en/The_Urantia_Book/16#p9_1))
 
-> .... _En la autoconciencia humana existen cuatro comprensiones latentes e inberentes de la realidad universal:_
-> 1. _La búsqueda del conocimiento, la lógica de la ciencia._
-> 2. _La búsqueda de los valores morales, el sentido del deber._
-> 3. _La búsqueda de los valores espirituales, la experiencia religiosa. 196:9 4. La búsqueda de los valores de la personalidad, la habilidad de reconocer la realidad de Dios como personalidad y la comprensión paralela de nuestra relación fraternal con las demás personalidades_ <a id="a157_279"></a>[LU 16:9.9-13](/es/The_Urantia_Book/16#p9_9)
+> .... _In human self-consciousness four universe-reality realizations are latent and inherent:_
+> 1. _The quest for knowledge, the logic of science._
+> 2. _The quest for moral values, the sense of duty._
+> 3. _The quest for spiritual values, the religious experience.
+> 4. _The quest for personality values, the ability to recognize the reality of God as a personality and the concurrent realization of our fraternal relationship with fellow personalities._ <a id="a157_279"></a>[UB 16:9.9-13](/en/The_Urantia_Book/16#p9_9)
 
 It seems clear to me that we cannot excuse the fact that someone does not start their search for God in some way because they do not know that God exists, or what is the same, because the gods they have been told about do not convince them.
 
@@ -140,11 +139,11 @@ It is clear that there is a mechanism that drives you to it, the inclination to 
 
 In the following quote it is clearly described that we have a uniform spiritual endowment capable in any circumstance and environment of presenting to the creature the self-revelations necessary for progress in the three aspects of reality that surrounds us, but again I insist that the creature has the last word.
 
-> _The mortals of the realms of time and space may differ greatly in innate abilities and intellectual endowment, they may enjoy environments exceptionally favorable to social advancement and moral progress, or they may suffer from the lack of almost every human aid to culture and supposed advancement in the arts of civilization; but the possibilities for spiritual progress in the ascension career are equal to all; increasing levels of spiritual insight and cosmic meanings are attained quite independently of all such sociomoral differentials of the diversified material environments on the evolutionary worlds._ ([UB 5:1.4](/en/The_Urantia_Book/5#p1_4))
+> _. . .but the possibilities for spiritual progress in the ascension career are equal to all; increasing levels of spiritual insight and cosmic meanings are attained quite independently of all such sociomoral differentials of the diversified material environments on the evolutionary worlds._ ([UB 5:1.4](/en/The_Urantia_Book/5#p1_4))
 
-> _However Urantia mortals may differ in their intellectual, social, economic, and even moral opportunities and endowments, forget not that their spiritual endowment is uniform and unique. They all enjoy the same divine presence of the gift from the Father, and they are all equally privileged to seek intimate personal communion with this indwelling spirit of divine origin, while they may all equally choose to accept the uniform spiritual leading of these Mystery Monitors._ ([UB 5:1.5](/en/The_Urantia_Book/5#p1_5))
+> _. . .while they may all equally choose to accept the uniform spiritual leading of these Mystery Monitors._ ([UB 5:1.5](/en/The_Urantia_Book/5#p1_5))
 
-> _Man is spiritually indwelt by a surviving Thought Adjuster. If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise._ ([UB 5:1.7](/en/The_Urantia_Book/5#p1_7))
+> _Man is spiritually indwelt by a surviving Thought Adjuster. If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him,. . ._ ([UB 5:1.7](/en/The_Urantia_Book/5#p1_7))
 
 I understand that the first decision has to be made on Urantia (here and now), and this is independent of all other situations of time, or of social, economic, religious status, etc. Later we will find more quotes that support the proposal that this response/attitude towards Deity is taken on Urantia.
 
@@ -162,54 +161,54 @@ There are several parts of the UB that point to that possibility, since they acc
 
 In many places we find allusions to what happens in the event that the human individual does not survive. If it appears so much, I understand that it is because that possibility exists and occurs (even if it is in a minimum number of individuals).
 
-What is clear is that I am trying to elucidate a qualitative question. That is to say, I do not claim to know how many survive or who they are; only the qualitative question of whether all mortals on Urantia do it automatically or, if not, because conditions have to be given that depend entirely on the will of the creature (evidently, in the period of time that he lives on Urantia as a mortal). ).
+What is clear is that I am trying to elucidate a qualitative question. That is to say, I do not claim to know how many survive or who they are; only the qualitative question of whether all mortals on Urantia do it automatically or, if not, because conditions have to be given that depend entirely on the will of the creature (evidently, in the period of time that he lives on Urantia as a mortal).
 
-> _If mortal man fails to survive natural death, the real spiritual values of his human experience survive as a part of the continuing experience of the Thought Adjuster. The personality values of such a nonsurvivor persist as a factor in the personality of the actualizing Supreme Being. Such persisting qualities of personality are deprived of identity but not of experiential values accumulated during the mortal life in the flesh. The survival of identity is dependent on the survival of the immortal soul of morontia status and increasingly divine value. Personality identity survives in and by the survival of the soul._ ([UB 16:9.3](/en/The_Urantia_Book/16#p9_3))
+> _If mortal man fails to survive natural death, . . ._ ([UB 16:9.3](/en/The_Urantia_Book/16#p9_3))
 
 Here he tells us what happens in the event that a mortal individual with an Adjuster, even with a soul, does not survive natural death. On the other hand, in paper 30, where he speaks to us about “The Personalities of the Great Universe”, he defines the Ascending Pilgrims as the surviving mortals of time and space who have been accredited for the progressive ascent to Paradise. It describes us 1) The Planetary Mortals, and 2) The Asleep Survivors (the mortals of survival state) It does not say that they are all mortals, but only those that present survival potential. In fact, it relates that the list is passed at age and the kingdom is awarded to the arrival of a Son of God. If all mortals survived, it would not be necessary to pass such a list:
 
-> _While the mortal survivors of time and space are denominated *ascending pilgrims* when accredited for the progressive ascent to Paradise, these evolutionary creatures occupy such an important place in these narratives that we here desire to present a synopsis of the following seven stages of the ascending universe career:_
-> _While the mortal survivors of time and space are denominated *ascending pilgrims* when accredited for the progressive ascent to Paradise, these evolutionary creatures occupy such an important place in these narratives that we here desire to present a synopsis of the following seven stages of the ascending universe career:_
-> _While the mortal survivors of time and space are denominated *ascending pilgrims* when accredited for the progressive ascent to Paradise, these evolutionary creatures occupy such an important place in these narratives that we here desire to present a synopsis of the following seven stages of the ascending universe career:_
-> _While the mortal survivors of time and space are denominated *ascending pilgrims* when accredited for the progressive ascent to Paradise, these evolutionary creatures occupy such an important place in these narratives that we here desire to present a synopsis of the following seven stages of the ascending universe career:_ ([UB 30:4.1](/en/The_Urantia_Book/30#p4_1))
+> 4. _ASCENDENT MORTALS_
+> _While the mortal survivors of time and space are denominated *ascending pilgrims* . . ._
+> _1. Planetary Mortals._
+> _2. Sleeping Survivors._([UB 30:4.1](/en/The_Urantia_Book/30#p4_1))
 
-> _3. Mansion World Students._ ([UB 30:4.4](/en/The_Urantia_Book/30#p4_4))
+> _2. Sleeping Survivors. All mortals of survival status, . . . the coming of a Son of God to call the rolls of the age and adjudicate the realm, and this is the general practice throughout all Nebadon. It was said of Christ Michael that, when he ascended on high at the conclusion of his work on earth, “He led a great multitude of captives.” And these captives were the sleeping survivors from the days of Adam to the day of the Master’s resurrection on Urantia._ ([UB 30:4.11](/en/The_Urantia_Book/30#p4_11))
 
 Christ Michael led a large number of captives, the sleeping survivors, he does not say that they were all those who had died and had not repersonalized in the third period. There were many, but not all. In addition, it seems symptomatic to me that he calls some Planetary Mortals (and not precisely “Planetary survivors”), and the others curiously “Survivors”, that is, those who have survived, I understand that it is a fraction of the total Planetary Mortals. We have more quotes that lead me to a similar conclusion:
 
-> _Nonspiritual mind is either a spirit-energy manifestation or a physical-energy phenomenon. Even human mind, personal mind, has no survival qualities apart from spirit identification. Mind is a divinity bestowal, but it is not immortal when it functions without spirit insight, and when it is devoid of the ability to worship and crave survival._ ([UB 36:5.17](/en/The_Urantia_Book/36#p5_17))
+> _. . .Even human mind, personal mind, has no survival qualities apart from spirit identification. Mind is a divinity bestowal, but it is not immortal when it functions without spirit insight, and when it is devoid of the ability to worship and crave survival._ ([UB 36:5.17](/en/The_Urantia_Book/36#p5_17))
 
-> _As to just why this type of creature is never able to fuse with the Adjusters of the Universal Father, I am unable to say. Some of us incline to the belief that the Life Carriers, in their efforts to formulate beings capable of maintaining existence in an unusual planetary environment, are confronted with the necessity of making such radical modifications in the universe plan of intelligent will creatures that it becomes inherently impossible to bring about permanent union with the Adjusters. Often have we asked: Is this an intended or an unintended part of the ascension plan? but we have not found the answer._ ([UB 40:5.16](/en/The_Urantia_Book/40#p5_16))
+> _. . .All souls of every possible phase of mortal existence will survive provided they . . .”_ ([UB 40:5.19](/en/The_Urantia_Book/40#p5_19))
 
 This last paragraph is definitive: continuity is not a gift, it is an achievement with certain conditions. The existence of a soul within us does not guarantee survival just like that. There is a condition to be met that depends solely and exclusively on the will of the creature: it is essential that they present the impulse (even if it is rudimentary) to find God and achieve divine perfection. It is also explicitly indicated in the following paragraph that there are beings that do not survive:
 
-> _Thus are the sleeping survivors of a planetary age repersonalized in the dispensational roll calls. But with regard to the nonsalvable personalities of a realm, no immortal spirit is present to function with the group guardians of destiny, and this constitutes cessation of creature existence. While some of your records have pictured these events as taking place on the planets of mortal death, they all really occur on the mansion worlds._ ([UB 49:6.7](/en/The_Urantia_Book/49#p6_7))
+> _. . .But with regard to the nonsalvable personalities of a realm, . . ._ ([UB 49:6.7](/en/The_Urantia_Book/49#p6_7))
 
 In [UB 47:2.2](/en/The_Urantia_Book/47#p2_2) (The Trial Period Nursery):
 
 > "_.... In the event of the survival of one or both parents of the child,..._”
 
-And furthermore, this choice of continuity beyond physical death seems to have to occur during the mortal's adulthood on the planet of birth, as can be seen from the explanation of the following situations. Later, in 47:2.4, we find one more note. From what is seen, the decision is expected to be made in youth/infancy in life in the flesh, since he is talking about children (up to 16 years old) who reach death before making up their minds:
+And furthermore, this choice of continuity beyond physical death seems to have to occur during the mortal's adulthood on the planet of birth, as can be seen from the explanation of the following situations. Later, in [UB 47:2.4](/en/The_Urantia_Book/47#p2_4), we find one more note. From what is seen, the decision is expected to be made in youth/infancy in life in the flesh, since he is talking about children (up to 16 years old) who reach death before making up their minds:
 
-> “_All children on the evolving worlds who have Thought Adjusters, but who before death had not made a choice concerning the Paradise career, are also repersonalized on the finaliter world of the system, where they likewise grow up in the families of the Material Sons and their associates as do those little ones who arrived without Adjusters, but who will subsequently receive the Mystery Monitors after attaining the requisite age of moral choice._” ([UB 47:2.4](/en/The_Urantia_Book/47#p2_4))
+> “_All children on the evolving worlds who have Thought Adjusters, but who before death had not made a choice concerning the Paradise career, are also repersonalized on the finaliter world of the system, where they likewise . . ._” ([UB 47:2.4](/en/The_Urantia_Book/47#p2_4))
 
-> _3. *Mortals of the probationary-dependent orders of ascension.* The arrival of an Adjuster constitutes identity in the eyes of the universe, and all indwelt beings are on the roll calls of justice. But temporal life on the evolutionary worlds is uncertain, and many die in youth before choosing the Paradise career. Such Adjuster-indwelt children and youths follow the parent of most advanced spiritual status, thus going to the system finaliter world (the probationary nursery) on the third day, at a special resurrection, or at the regular millennial and dispensational roll calls._ ([UB 49:6.11](/en/The_Urantia_Book/49#p6_11))
+> _3. . . .But temporal life on the evolutionary worlds is uncertain, and many die in youth before choosing the Paradise career. Such Adjuster-indwelt children and youths follow the parent of most advanced spiritual status, . . ._ ([UB 49:6.11](/en/The_Urantia_Book/49#p6_11))
 
-> _Children who die when too young to have Thought Adjusters are repersonalized on the finaliter world of the local systems concomitant with the arrival of either parent on the mansion worlds. A child acquires physical entity at mortal birth, but in the matter of survival all Adjusterless children are reckoned as still attached to their parents._ ([UB 49:6.12](/en/The_Urantia_Book/49#p6_12))
+> _Children who die when too young to have Thought Adjusters . . ._ ([UB 49:6.12](/en/The_Urantia_Book/49#p6_12))
 
-> _As related to fusion candidates, if a Mystery Monitor is deserted by the mortal associate, if the human partner declines to pursue the ascending career, when released by natural death (or prior thereto), the Adjuster carries away everything of survival value which has evolved in the mind of that nonsurviving creature. If an Adjuster should repeatedly fail to attain fusion personality because of the nonsurvival of successive human subjects, and if this Monitor should subsequently be personalized, all the acquired experience of having indwelt and mastered all these mortal minds would become the actual possession of such a newly Personalized Adjuster, an endowment to be enjoyed and utilized throughout all future ages. A Personalized Adjuster of this order is a composite assembly of all the survival traits of all his former creature hosts._ ([UB 109:6.2](/en/The_Urantia_Book/109#p6_2))
+> _As related to fusion candidates, if a Mystery Monitor is deserted by the mortal associate, if the human partner declines to pursue the ascending career, when released by natural death (or prior thereto), . . . that nonsurviving creature. . . ._ ([UB 109:6.2](/en/The_Urantia_Book/109#p6_2))
 
 Without entering into considerations of the Adjuster's actions in the personality, nor the possibilities of personal spiritual growth, nor the considerations for the creation and subsequent evolution of the soul, and arranging everything for Adjuster fusion. In my view, immediately and as a prerequisite for all future survival, we have the following situation:
 
-> _Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accepting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity._ ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
+> _Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accepting or rejecting the potential of eternal existence. . ._ ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
 
-> _Mind is the cosmic instrument on which the human will can play the discords of destruction, or upon which this same human will can bring forth the exquisite melodies of God identification and consequent eternal survival. The Adjuster bestowed upon man is, in the last analysis, impervious to evil and incapable of sin, but mortal mind can actually be twisted, distorted, and rendered evil and ugly by the sinful machinations of a perverse and self-seeking human will. Likewise can this mind be made noble, beautiful, true, and good—actually great—in accordance with the spirit-illuminated will of a God-knowing human being._ ([UB 111:1.6](/en/The_Urantia_Book/111#p1_6))
+> _. . .but mortal mind can actually be twisted, distorted, and rendered evil and ugly by the sinful machinations of a perverse and self-seeking human will.. . ._ ([UB 111:1.6](/en/The_Urantia_Book/111#p1_6))
 
 It is true that they do not expect us to understand in order to be on the path, they do not even ask us to be good. What they ask is that our will yearn for God, desire it. That is to say, that he wishes to begin the supreme mandate of the Universal Father for human beings: to be Perfect as HE is.
 
 Believe that it is wonderful. It does not ask you to be good, being good makes things easier, what they ask is that you yearn to know God:
 
-> _The inevitable result of such a contactual spiritualization of the human mind is the gradual birth of a soul, the joint offspring of an adjutant mind dominated by a human will that craves to know God, working in liaison with the spiritual forces of the universe which are under the overcontrol of an actual fragment of the very God of all creation—the Mystery Monitor. And thus does the material and mortal reality of the self transcend the temporal limitations of the physical-life machine and attain a new expression and a new identification in the evolving vehicle for selfhood continuity, the morontia and immortal soul._ ([UB 111:2.10](/en/The_Urantia_Book/111#p2_10))
+> _The inevitable result of such a contactual spiritualization of the human mind is the gradual birth of a soul, the joint offspring of an adjutant mind dominated ***by a human will that craves to know God***,_ ([UB 111:2.10](/en/The_Urantia_Book/111#p2_10))
 
 For me this is the key: if you are good (ethically and morally) but your will refuses to recognize (in any of its possible manifestation) God, you are renouncing the beginning of the formation of your morontia soul, and therefore you are renouncing to the possibility of survival.
 
@@ -217,25 +216,25 @@ Remembering that the mind is a gift of the Mother Spirit of our Universe, it is 
 
 What are we to make of individuals who systematically reject the possibility of the existence of a higher being, who are made “self-sufficient” by pride, and who think it is weak-minded to have to resort to “a higher being”?
 
-> _Of all the dangers which beset man’s mortal nature and jeopardize his spiritual integrity, pride is the greatest. Courage is valorous, but egotism is vainglorious and suicidal. Reasonable self-confidence is not to be deplored. Man’s ability to transcend himself is the one thing which distinguishes him from the animal kingdom._ ([UB 111:6.9](/en/The_Urantia_Book/111#p6_9))
+> _Of all the dangers which beset man’s mortal nature and jeopardize his spiritual integrity, pride is the greatest._ ([UB 111:6.9](/en/The_Urantia_Book/111#p6_9))
 
 > _Pride is deceitful, intoxicating, and sin-breeding whether found in an individual, a group, a race, or a nation. It is literally true, “Pride goes before a fall.”_ ([UB 111:6.10](/en/The_Urantia_Book/111#p6_10))
 
-> _An ascending onetime human personality passes through two great phases of increasing volitional dominance over the self and in the universe:_ ([UB 112:2.16](/en/The_Urantia_Book/112#p2_16))
+> _. . .But selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer . . . is effected by the sincerity, persistence, and steadfastness of the God-seeking decisions of the human creature_ ([UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
 
 What happens if the creature persists in its refusal to seek God?
 
-> _Urantians generally recognize only one kind of death, the physical cessation of life energies; but concerning personality survival there are really three kinds:_ ([UB 112:3.1](/en/The_Urantia_Book/112#p3_1))
+> _. . .but concerning personality survival there are really three kinds:_ ([UB 112:3.1](/en/The_Urantia_Book/112#p3_1))
 
-> _1. *Spiritual (soul) death.* If and when mortal man has finally rejected survival, when he has been pronounced spiritually insolvent, morontially bankrupt, in the conjoint opinion of the Adjuster and the surviving seraphim, when such co-ordinate advice has been recorded on Uversa, and after the Censors and their reflective associates have verified these findings, thereupon do the rulers of Orvonton order the immediate release of the indwelling Monitor. But this release of the Adjuster in no way affects the duties of the personal or group seraphim concerned with that Adjuster-abandoned individual. This kind of death is final in its significance irrespective of the temporary continuation of the living energies of the physical and mind mechanisms. From the cosmic standpoint the mortal is already dead; the continuing life merely indicates the persistence of the material momentum of cosmic energies._ ([UB 112:3.2](/en/The_Urantia_Book/112#p3_2))
+> _1. *Spiritual (soul) death.* If and when mortal man has finally rejected survival, . . ._ ([UB 112:3.2](/en/The_Urantia_Book/112#p3_2))
 
-> _That which comes from the Father is like the Father eternal, and this is just as true of personality, which God gives by his own freewill choice, as it is of the divine Thought Adjuster, an actual fragment of God. Man’s personality is eternal but with regard to identity a conditioned eternal reality. Having appeared in response to the Father’s will, personality will attain Deity destiny, but man must choose whether or not he will be present at the attainment of such destiny. In default of such choice, personality attains experiential Deity directly, becoming a part of the Supreme Being. The cycle is foreordained, but man’s participation therein is optional, personal, and experiential._ ([UB 112:5.2](/en/The_Urantia_Book/112#p5_2))
+> _. . .Man’s personality is eternal but with regard to identity a conditioned eternal reality. . . . but man must choose whether or not he will be present at the attainment of such destiny. In default of such choice, . . ._ ([UB 112:5.2](/en/The_Urantia_Book/112#p5_2))
 
 There will be many opportunities during material life for us to decide to take that step, but if we are lazy, proud, etc., what will we find? We are given too much information in the UB about the failure of the personality to survive in the human stage, for it to be only a remote or hypothetical possibility:
 
-> _I have observed a Thought Adjuster indwelling a mind on Urantia who has, according to the records on Uversa, indwelt fifteen minds previously in Orvonton. We do not know whether this Monitor has had similar experiences in other superuniverses, but I suspect so. This is a marvelous Adjuster and one of the most useful and potent forces on Urantia during this present age. What others have lost, in that they refused to survive, this human being (and your whole world) now gains. From him who has not survival qualities, shall be taken away even that experienced Adjuster which he now has, while to him who has survival prospects, shall be given even the pre-experienced Adjuster of a slothful deserter._ ([UB 109:4.5](/en/The_Urantia_Book/109#p4_5))
+> _I have observed a Thought Adjuster indwelling a mind on Urantia who has, according to the records on Uversa, indwelt fifteen minds previously in Orvonton. . . . What others have lost, in that they refused to survive, this human being (and your whole world) now gains. From him who has not survival qualities, shall be taken away even that experienced Adjuster which he now has, while to him who has survival prospects, shall be given even the pre-experienced Adjuster of a slothful deserter._ ([UB 109:4.5](/en/The_Urantia_Book/109#p4_5))
 
-> _The great problem of life is the adjustment of the ancestral tendencies of living to the demands of the spiritual urges initiated by the divine presence of the Mystery Monitor. While in the universe and superuniverse careers no man can serve two masters, in the life you now live on Urantia every man must perforce serve two masters. He must become adept in the art of a continuous human temporal compromise while he yields spiritual allegiance to but one master; and this is why so many falter and fail, grow weary and succumb to the stress of the evolutionary struggle._ ([UB 109:5.4](/en/The_Urantia_Book/109#p5_4))
+> _The great problem of life is the adjustment of the ancestral tendencies of living to the demands of the spiritual urges initiated by the divine presence of the Mystery Monitor. . . . and this is why so many falter and fail, grow weary and succumb to the stress of the evolutionary struggle._ ([UB 109:5.4](/en/The_Urantia_Book/109#p5_4))
 
 Then the development of your soul depends on your cooperation with the Adjuster, which translated is nothing more than that your decisions align with the will of the Father, manifested by the guidance of the Adjuster. As I indicated before, the process goes through the following stages:
 
@@ -251,7 +250,7 @@ From the following paragraph I deduce that we have to try (I'm not saying achiev
 
 > _Though the cosmic circles of personality growth must eventually be attained, if, through no fault of your own, the accidents of time and the handicaps of material existence prevent your mastering these levels on your native planet, if your intentions and desires are of survival value, there are issued the decrees of probation extension. You will be afforded additional time in which to prove yourself._ ([UB 112:5.6](/en/The_Urantia_Book/112#p5_6))
 
-> _“I warn you against false prophets who will come to you in sheep’s clothing, while on the inside they are as ravening wolves. By their fruits you shall know them. Do men gather grapes from thorns or figs from thistles? Even so, every good tree brings forth good fruit, but the corrupt tree bears evil fruit. A good tree cannot yield evil fruit, neither can a corrupt tree produce good fruit. Every tree that does not bring forth good fruit is presently hewn down and cast into the fire. In gaining an entrance into the kingdom of heaven, it is the motive that counts. My Father looks into the hearts of men and judges by their inner longings and their sincere intentions._ ([UB 140:3.19](/en/The_Urantia_Book/140#p3_19))
+> _. . .In gaining an entrance into the kingdom of heaven, it is the motive that counts. . . ._ ([UB 140:3.19](/en/The_Urantia_Book/140#p3_19))
 
 Conclusion:
 

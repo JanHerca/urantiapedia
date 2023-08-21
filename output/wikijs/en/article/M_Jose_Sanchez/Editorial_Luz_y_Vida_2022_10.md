@@ -39,7 +39,7 @@ When the blue book came to light on October 12, 1955, 67 years ago, more than ha
 
 Right now, in October, we celebrate the 67th anniversary of the publication of _The Urantia Book_. A book that formulates at the beginning its intention to expand our worldview and spiritual development:
 
-> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-2.jpg" alt="Editorial oct 22-2">
@@ -63,13 +63,13 @@ The revelators know that this unusual communication is going to be possible not 
 
 The text written 67 years ago is a door that, once opened, once we go to the other side, we realize that it is an instrument that leads us to discover that the most important thing of all is LOVE. But, really, everything is a door, everything is open to reach our fundamental essence... which is love.
 
-> «That day, the Master's sermon was reduced to a single and enigmatic sentence.
+> “That day, the Master's sermon was reduced to a single and enigmatic sentence.”
 > 
-> »He just smiled wryly and said, “All I do here is sit on the bank and sell river water.”
+> “He just smiled wryly and said, “All I do here is sit on the bank and sell river water.”
 > 
-> »And he concluded his sermon.
+> “And he concluded his sermon.”
 > 
-> The water carrier had set up his post on the river bank and thousands of people came to buy water from him. The entire success of his business depended on those people not seeing the river. When, finally, they saw, he closed the business.»
+> “The water carrier had set up his post on the river bank and thousands of people came to buy water from him. The entire success of his business depended on those people not seeing the river. When, finally, they saw, he closed the business.”
 
 Let's go through the door that is _The Urantia Book_, let's discover with its reading what has always been there, within our reach, at hand: the river that we all have inside.
 

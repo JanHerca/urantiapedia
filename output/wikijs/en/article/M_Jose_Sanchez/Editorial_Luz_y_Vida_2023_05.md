@@ -55,7 +55,7 @@ _The Urantia Book_ speaks to us in a diametrically opposed way to these material
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-1.jpg" alt="Editorial mayo-23-1">
 </figure>
 
-> In principle, that is, in eternal potential, we conceive of material creation as being infinite because the Universal Father is actually infinite, but as we study and observe the total material creation, we know that at any given moment in time it is limited, although to your finite minds it is comparatively limitless, virtually boundless. ([UB 12:0.2](/en/The_Urantia_Book/12#p0_2))
+> In principle, that is, in eternal potential, we conceive of material creation as being infinite because the Universal Father is actually infinite, ([UB 12:0.2](/en/The_Urantia_Book/12#p0_2))
 
 The universe is not finished and can support infinite sons and daughters of God, unique, original, unrepeatable. All beloved.
 
@@ -65,7 +65,7 @@ The universe is not finished and can support infinite sons and daughters of God,
 
 No one is left over in an infinite creation, we all contribute talents in its development. The infinite hands of the workers are needed in this endless work.
 
-> Before Jesus laid his hands upon the heads of the seventy to set them apart as gospel messengers, addressing them, he said: “The harvest is indeed plenteous, but the laborers are few; therefore I exhort all of you to pray that the Lord of the harvest will send still other laborers into his harvest. I am about to set you apart as messengers of the kingdom; I am about to send you to Jew and gentile as lambs among wolves. As you go your ways, two and two, I instruct you to carry neither purse nor extra clothing, for you go forth on this first mission for only a short season. Salute no man by the way, attend only to your work. Whenever you go to stay at a home, first say: Peace be to this household. If those who love peace live therein, you shall abide there; if not, then shall you depart. And having selected this home, remain there for your stay in that city, eating and drinking whatever is set before you. And you do this because the laborer is worthy of his sustenance. Move not from house to house because a better lodging may be offered. Remember, as you go forth proclaiming peace on earth and good will among men, you must contend with bitter and self-deceived enemies; therefore be as wise as serpents while you are also as harmless as doves. ([UB 163:1.3](/en/The_Urantia_Book/163#p1_3))
+> “The harvest is indeed plenteous, but the laborers are few; therefore I exhort all of you to pray that the Lord of the harvest will send still other laborers into his harvest. ([UB 163:1.3](/en/The_Urantia_Book/163#p1_3))
 
 How far is this vision provided by the blue book from the impoverishing and limiting ideas that powerful minorities have about our planet and about life on our current planet! How far are they from the immense value that human beings have! How good it is for that minority that we humans underestimate ourselves and do not know who we are!
 
@@ -83,7 +83,7 @@ If on the planet, right now, the millions of humans who inhabit it discovered ou
 
 This beautiful ideal will occur on Earth. That is our hope. It is the horizon towards which we are walking, without a doubt. That is the good news that is missing from so many media outlets.
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 The solution to everything is to return to ourselves. An infinite path inside. An invitation to be ourselves.
 
@@ -93,7 +93,7 @@ The solution to everything is to return to ourselves. An infinite path inside. A
 
 Becoming aware of God in us, within us and with us makes us value and love humanity, but above all love ourselves and together make the great heavenly family:
 
-> He next explained that the “kingdom idea” was not the best way to illustrate man’s relation to God; that he employed such figures of speech because the Jewish people were expecting the kingdom, and because John had preached in terms of the coming kingdom. Jesus said: “The people of another age will better understand the gospel of the kingdom when it is presented in terms expressive of the family relationship—when man understands religion as the teaching of the fatherhood of God and the brotherhood of man, sonship with God.” Then the Master discoursed at some length on the earthly family as an illustration of the heavenly family, restating the two fundamental laws of living: the first commandment of love for the father, the head of the family, and the second commandment of mutual love among the children, to love your brother as yourself. And then he explained that such a quality of brotherly affection would invariably manifest itself in unselfish and loving social service. ([UB 142:7.4](/en/The_Urantia_Book/142#p7_4))
+> Then the Master . . .restated the two fundamental laws of living: the first commandment of love for the father, the head of the family, and the second commandment of mutual love among the children, to love your brother as yourself. ([UB 142:7.4](/en/The_Urantia_Book/142#p7_4))
 
 Let's fight to be ourselves every day, let's go against the current, because becoming aware of who we really are is the greatest gift that anyone can offer the world. Any increase in individual consciousness also raises the collective consciousness of the planet. This elevation occurred more than two thousand years ago with the life of Jesus and it can continue to happen now with us, his creatures.
 

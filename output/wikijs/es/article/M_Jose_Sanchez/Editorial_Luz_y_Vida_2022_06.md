@@ -82,7 +82,7 @@ Todos necesitamos relatos así, transparentes, que nos ayuden a ver las cosas co
 
 > Jesús era particularmente reacio a orar en público; los doce le habían oído orar muy pocas veces hasta ese momento. Observaban que pasaba noches enteras orando o adorando y tenían mucha curiosidad por conocer su método o su forma de orar.
 > 
-> Jesús enseñó a los doce a orar siempre en secreto; a apartarse para orar en algún lugar tranquilo de la naturaleza o a solas en sus habitaciones con la puerta cerrada. <a id="a84_170"></a>[LU 144:3.14-15](/es/The_Urantia_Book/144#p3_14)
+> Jesús enseñó a los doce a orar siempre en secreto; a apartarse para orar en algún lugar tranquilo de la naturaleza o a solas en sus habitaciones con la puerta cerrada. <a id="a84_170"></a>[LU 144:3.13-14](/es/The_Urantia_Book/144#p3_13)
 
 Nos dice el sacerdote Pablo D’Ors que uno de los rasgos más característicos de Jesús era su gran voluntad pedagógica, de ser un Maestro. Él entendió muy pronto que, además de anunciar, debía enseñar. Su forma de ser Maestro, sus enseñanzas, buscaron ser sencillas y breves, casi todos podían entender lo que decía, si bien a distintos niveles de profundidad. No solía argumentar o elaborar teorías, más bien al contrario. Partía siempre de una imagen, era una artista: los lirios del campo, la moneda perdida, la levadura, el manto, los pájaros… todas sus palabras eran imágenes. Por ello su predicación no se olvidaba y ha pasado a la posteridad.
 

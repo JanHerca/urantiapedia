@@ -37,7 +37,7 @@ Half of our lives we have spent running from here to there, traveling, studying,
 
 The young and thoughtful Jesus of Nazareth, with his perspicacity, was also discovering (as we do) where the key to everything was: inside.
 
-> At this time he thought much but said little about the relation of himself to his Father in heaven. And the conclusion of all this thinking was expressed once in his prayer on the hilltop, when he said: “Regardless of who I am and what power I may or may not wield, I always have been, and always will be, subject to the will of my Paradise Father.” And yet, as this man walked about Nazareth to and from his work, it was literally true—as concerned a vast universe—that “in him were hidden all the treasures of wisdom and knowledge.” ([UB 128:7.2](/en/The_Urantia_Book/128#p7_2))
+> And yet, as this man walked about Nazareth to and from his work, it was literally true—as concerned a vast universe—that “in him were hidden all the treasures of wisdom and knowledge.” ([UB 128:7.2](/en/The_Urantia_Book/128#p7_2))
 
 Jesus also knew that it was essential to know how to place oneself at the right point, in the humility of how small we are (in this immense and boundless universe), but it is also true that we can also discover the great possibilities that can open up to us below:
 
@@ -77,7 +77,7 @@ This elevated manner of behavior surprises us, it goes against the current of wh
 <img src="/image/article/Luz_y_Vida/LyV_2023_04/Editorial-abr-2023-4.jpg" alt="Editorial abr 23-4">
 </figure>
 
-> “Now this father had grieved much for his son; he had missed the cheerful, though thoughtless, lad. This father loved this son and was always on the lookout for his return, so that on the day he approached his home, even while he was yet afar off, the father saw him and, being moved with loving compassion, ran out to meet him, and with affectionate greeting he embraced and kissed him. And after they had thus met, the son looked up into his father’s tearful face and said: ‘Father, I have sinned against heaven and in your sight; I am no more worthy to be called a son’—but the lad did not find opportunity to complete his confession because the overjoyed father said to the servants who had by this time come running up: ‘Bring quickly his best robe, the one I have saved, and put it on him and put the son’s ring on his hand and fetch sandals for his feet.’ ([UB 169:1.9](/en/The_Urantia_Book/169#p1_9))
+> And after they had thus met, the son looked up into his father’s tearful face and said: ‘Father, I have sinned against heaven and in your sight; I am no more worthy to be called a son’—but the lad did not find opportunity to complete his confession because the overjoyed father said to the servants who had by this time come running up: ‘Bring quickly his best robe, the one I have saved, and put it on him and put the son’s ring on his hand and fetch sandals for his feet.’ ([UB 169:1.9](/en/The_Urantia_Book/169#p1_9))
 
 The father leaves the past behind, lets him immerse himself in the present of the embrace. Let us therefore live in the present, in the embrace of this loving Father who always awaits us and loves us without measure. Let us return, then, already loaded with the experiences that have destroyed and built us, towards who is within us, who is always “watching in case we return”, who celebrates our return:
 

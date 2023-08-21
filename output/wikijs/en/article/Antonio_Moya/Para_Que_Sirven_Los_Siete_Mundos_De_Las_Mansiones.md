@@ -35,7 +35,7 @@ Well, as I was going, what about all those of us who have not been lucky enough 
 
 The Creators had already foreseen this eventuality. And for those millions and millions of mortals who have been born and lived in the times before, or <ins>much before</ins>, the era of light and life, the Creators have provided a progressive education to bring them to that state. desirable... only that education is received in transitory spheres called “mansion worlds.”
 
-Yes, the mansion worlds are “compensatory spheres,” worlds where mortals <ins>before</ins> the age of light and life <ins>“make up”</ins> for whatever they lack to reach that stage of development. In Doc. 47 we can read:
+Yes, the mansion worlds are “compensatory spheres,” worlds where mortals <ins>before</ins> the age of light and life <ins>“make up”</ins> for whatever they lack to reach that stage of development. In Paper  47 we can read:
 
 > “_The sojourn on mansion world number one is designed to develop mortal survivors at least up to the status of the post-Adamic dispensation on the normal evolutionary worlds._” ([UB 47:3.9](/en/The_Urantia_Book/47#p3_9))
 

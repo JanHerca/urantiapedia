@@ -17,25 +17,25 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-1.jpg" alt="Editorial feb 2023-1">
 </figure>
 
-«A long time ago, there was a man who decided to move to a new town. Wondering if he would like his new home, he went to consult the local Zen master:
+“A long time ago, there was a man who decided to move to a new town. Wondering if he would like his new home, he went to consult the local Zen master:
 
-“Master, do you think I would like this new village?” Nice people?
+Master, do you think I would like this new village? Nice people?
 
 The Zen master asked:
 
 —What were the people like in the town where you come from?
 
-“They were nasty, rabid, and greedy. Some ungrateful gossips who only know how to live their lives deceiving or mistreating others —said the newcomer.
+—They were nasty, rabid, and greedy. Some ungrateful gossips who only know how to live their lives deceiving or mistreating others —said the newcomer.
 
-“That's exactly the kind of people we have in this town,” said the Zen master.
+—That's exactly the kind of people we have in this town, —said the Zen master.
 
 Another newcomer to the village visited the teacher and asked the same question. Again the Zen master asked:
 
 —What were the people like in the town where you come from?
 
-“Respectful and affectionate, they are wonderful and grateful people who live in harmony with each other,” he replied.
+Respectful and affectionate, they are wonderful and grateful people who live in harmony with each other, —he replied.
 
-“That's exactly the kind of people we have in this town,” said the Zen master.
+—That's exactly the kind of people we have in this town, said the Zen master.”
 
 How reality changes according to which eyes we see it with, right?
 
@@ -69,7 +69,7 @@ We are talking about a global system in crisis that will not last over time, bec
 > 
 > No social system or political regime that denies the reality of God can contribute constructively and lastingly to the progress of human civilization. ([UB 195:10.7](/en/The_Urantia_Book/195#p10_7))
 
-On the other hand, you will be able to know that an age is ripening if you are wise and alert to perceive the signs of the times. Learn from the fig tree: when its branches become tender and it puts out its leaves, you know that summer is near. So also you, when the world has passed through the long winter of the materialistic mentality and you perceive the arrival of the spiritual spring of a new dispensation, you should know that the summer of a new visitation is coming. [UB 176:2.6](/en/The_Urantia_Book/176#p2_6)
+> But you should be wise regarding the ripening of an age; you should be alert to discern the signs of the times. You know when the fig tree shows its tender branches and puts forth its leaves that summer is near. Likewise, when the world has passed through the long winter of material-mindedness and you discern the coming of the spiritual springtime of a new dispensation, should you know that the summertime of a new visitation draws near. [UB 176:2.6](/en/The_Urantia_Book/176#p2_6)
 
 As the writer Emilio Carrillo said in a recent conference: currently, this society has contributed everything it had to contribute; the “suit” of this humanity is becoming too tight for us. Don't you feel that this system of things is getting too small for us? Aren't you uncomfortable? And it is that many people have grown, matured, and we are no longer convinced by the current society.
 
@@ -77,11 +77,11 @@ We can also use the simile of the house: conceive of the sociopolitical and econ
 
 Do you know the fable of the frog and the pot of boiling water?
 
-"A frog jumped into a pot of boiling water one day. He immediately jumped to get out and get away from her. His instincts told him that he had to save himself and he quickly jumped out of the pot.»
+“A frog jumped into a pot of boiling water one day. He immediately jumped to get out and get away from her. His instincts told him that he had to save himself and he quickly jumped out of the pot.”
 
-«Another day, that same pot was filled with cold water. A frog jumped in and swam quietly. I was happy in that makeshift pool."
+“Another day, that same pot was filled with cold water. A frog jumped in and swam quietly. I was happy in that makeshift pool.”
 
-«What the frog did not know is that the water was heating up little by little. So after a short time the cold water became warm, but the frog got used to it. There it was still, swimming placidly. However, little by little the water rose in temperature. So much so that it became so hot that the frog died of heat. She hadn't noticed, however, as the heat gradually increased and she was getting used to it.
+“What the frog did not know is that the water was heating up little by little. So after a short time the cold water became warm, but the frog got used to it. There it was still, swimming placidly. However, little by little the water rose in temperature. So much so that it became so hot that the frog died of heat. She hadn't noticed, however, as the heat gradually increased and she was getting used to it.”
 
 Currently, the shocks that surround us (what if a war in Europe, if prices rise...), these “heats” that life offers us now, can make us see the need to jump, change from a superficial, entertaining life , material, to something transcendent. This tremendous dystopia that surrounds us (disease, famine, wars, “dark nights” that we live now), everything is as if we are living or splashing in a boiling pot. This discomfort can help us jump, grow and improve consciousness.
 
@@ -89,17 +89,17 @@ Currently, the shocks that surround us (what if a war in Europe, if prices rise.
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Editorial-feb-2023-2.jpg" alt="Editorial feb 2023-2">
 </figure>
 
-The uncertainties of life and the vicissitudes of existence do not in any way contradict the concept of God's universal sovereignty. The life of every evolutionary creature is beset by certain inevitabilities. Consider the following:
+The uncertainties of life and the vicissitudes of existence do not in any manner contradict the concept of the universal sovereignty of God. All evolutionary creature life is beset by certain inevitabilities. Consider the following:
 
-> 1. ¿Es el valor —la fuerza de carácter— deseable? Entonces el hombre debe criarse en un ambiente en el que sea necesario bregar con las dificultades y reaccionar ante las desilusiones.
-> 2. ¿Es el altruismo —el servicio a los semejantes— deseable? Entonces la experiencia de la vida debe asegurar que se encuentren situaciones de desigualdad social.
-> 3. ¿Es la esperanza —la grandeza de la confianza— deseable? Entonces la existencia humana debe afrontar constantemente inseguridades e incertidumbres recurrentes.
-> 4. ¿Es la fe —la afirmación suprema del pensamiento humano— deseable? Entonces la mente del hombre debe encontrarse en ese problemático aprieto de saber siempre menos de lo que puede creer.
-> 5. ¿Es el amor a la verdad y la disposición a ir allá donde conduzca, deseable? Entonces el hombre debe crecer en un mundo en el que esté presente el error y sea siempre posible la falsedad.
-> 6. ¿Es el idealismo —el concepto de lo divino que se aproxima— deseable? Entonces el hombre debe luchar en un ambiente de bondad y belleza relativa, en entornos que estimulen la tendencia irreprimible hacia cosas mejores.
-> 7. ¿Es la lealtad —la entrega al deber más alto— deseable? Entonces el hombre debe avanzar entre posibilidades de traición y de abandono. El valor de la entrega al deber consiste en el peligro implícito de su incumplimiento.
-> 8. ¿Es la falta de egoísmo —el olvido de uno mismo— deseable? Entonces el hombre mortal debe vivir cara a cara con el clamar incesante de un ego ineludible que busca reconocimiento y honor. El hombre no podría elegir activamente la vida divina si no hubiera una vida propia a la que renunciar. El hombre no podría depositar nunca su confianza de salvación en la rectitud si no hubiera un mal potencial que exaltar y un bien que diferenciar por contraste.
-> 9. ¿Es el placer —la satisfacción de la felicidad— deseable? Entonces el hombre debe vivir en un mundo en el que la alternativa del dolor y la probabilidad de sufrir sean posibilidades experienciales siempre presentes. (<a id="a124_222"></a>[LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
+> “1. Is *courage—*strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments.”
+> “2. Is *altruism—*service of one’s fellows—desirable? Then must life experience provide for encountering situations of social inequality.”
+> “3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties.”
+> “4. Is *faith—*the supreme assertion of human thought—desirable? Then must the mind of man find itself in that troublesome predicament where it ever knows less than it can believe.”
+> “5. Is the *love of truth* and the willingness to go wherever it leads, desirable? Then must man grow up in a world where error is present and falsehood always possible.”
+> “6. Is *idealism—*the approaching concept of the divine—desirable? Then must man struggle in an environment of relative goodness and beauty, surroundings stimulative of the irrepressible reach for better things.”
+> “7. Is *loyalty—*devotion to highest duty—desirable? Then must man carry on amid the possibilities of betrayal and desertion. The valor of devotion to duty consists in the implied danger of default.”
+> “8. Is *unselfishness—*the spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake. Man could never lay saving hold on righteousness if there were no potential evil to exalt and differentiate the good by contrast.”
+> “9. Is *pleasure—*the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities.” (<a id="a124_222"></a>[UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5))
 
 Knowing that nothing is random, the panorama of the dystopian world that we observe is a portentous school of growth in consciousness, a university that we can take advantage of to open our minds and hearts, to forge fuller souls. By growing and aspiring to more, we will be able to look at reality with the proper spiritual perspective, complete and not disconnected from transcendence.
 

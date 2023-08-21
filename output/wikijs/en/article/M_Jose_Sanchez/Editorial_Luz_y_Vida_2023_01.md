@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Urantia Association of Spain</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María Joseph Sánchez Santamaría<br>© 2023 Urantia Association of Spain</p>
 
 
 ### The Image of God
@@ -17,31 +17,31 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2023_01/Editorial-ene23-4.jpg" alt="Editorial ene 23-4">
 </figure>
 
-José enters the house, tired from a day's work in Sepphoris. His greeting, as always, is laconic. He is not a man of many words. María responds as usual: a word of welcome, a question about her day, and when he has approached the stone table, then a gesture that, in that atmosphere of laughter and childish chatter, establishes a current of complicity between them. : a hand that rests on the shoulder, an affectionate pat on the head, a rag with cold water to cool off and clean the dust from the road accumulated on that still young face, but which is beginning to show the first furrows.
+Joseph enters the house, tired from a day's work in Sepphoris. His greeting, as always, is laconic. He is not a man of many words. María responds as usual: a word of welcome, a question about her day, and when he has approached the stone table, then a gesture that, in that atmosphere of laughter and childish chatter, establishes a current of complicity between them. : a hand that rests on the shoulder, an affectionate pat on the head, a rag with cold water to cool off and clean the dust from the road accumulated on that still young face, but which is beginning to show the first furrows.
 
-The truth is that, even if they wanted to talk more, they would have a difficult time with Jesus in the middle. This boy speaks volumes. Ask and answer frequently. He tells everything that has happened to him: that today he was with the shepherds looking for the sheep that was lost yesterday and that fell into a well with a broken leg; that this year's harvest is going to be very good because Zacarías' grandson told him so... “This kid talks to everyone, when do you help your mother?”, José murmurs, wanting to seem angry but, deep down , smiling at his joy and self-confidence.
+The truth is that, even if they wanted to talk more, they would have a difficult time with Jesus in the middle. This boy speaks volumes. Ask and answer frequently. He tells everything that has happened to him: that today he was with the shepherds looking for the sheep that was lost yesterday and that fell into a well with a broken leg; that this year's harvest is going to be very good because Zacarías' grandson told him so... “This kid talks to everyone, when do you help your mother?”, Joseph murmurs, wanting to seem angry but, deep down , smiling at his joy and self-confidence.
 
-José blesses the table and dinner begins, everyone enjoying the bread and lentils. A small family that, like so many others, enjoys the joys and laughter of the boys and girls who eat from the same pot. Jesu s' chatter stops, he rests his head on the table and falls asleep. María is leading her siblings to the nearby mat and José stares at that fascinating son. He intuits it different, special. He recalls so many moments in which he has been surprised and admired by his way of seeing God. Like that time when they talk about what happened to the neighbor Tamar, sick with leprosy, and they threw her out of town with stones. After a few moments walking together up the hill Jesus asks:
+Joseph blesses the table and dinner begins, everyone enjoying the bread and lentils. A small family that, like so many others, enjoys the joys and laughter of the boys and girls who eat from the same pot. Jesu s' chatter stops, he rests his head on the table and falls asleep. María is leading her siblings to the nearby mat and Joseph stares at that fascinating son. He intuits it different, special. He recalls so many moments in which he has been surprised and admired by his way of seeing God. Like that time when they talk about what happened to the neighbor Tamar, sick with leprosy, and they threw her out of town with stones. After a few moments walking together up the hill Jesus asks:
 
 “Is she a leper because God is angry with her?”
 
 Joseph does not know what to answer, but Jesus, as always, answers his own questions:
 
-“No, God can't be that cruel.
+“No, God can't be that cruel.”
 
-José looks at him surprised and then says to the child:
+Joseph looks at him surprised and then says to the child:
 
-Yes, God is good.
+“Yes, God is good.”
 
 Jesus smiles, confirming their intuitions, and they continue walking in silence. After eating together, he returns to the fray with another question:
 
 “Dad, how good is God?”
 
--What do you mean?
+“-What do you mean?”
 
 “Is he good like the rabbi?” the boy asks.
 
-“He's better than the synagogue rabbi,” José answers without hesitation, recalling certain events that he prefers not to air.
+“He's better than the synagogue rabbi,” Joseph answers without hesitation, recalling certain events that he prefers not to air.
 
 “Is he as good as a shepherd when he takes care of the cattle?”
 
@@ -51,15 +51,15 @@ Jesus smiles, confirming their intuitions, and they continue walking in silence.
 
 Joseph does not hesitate for a moment, for he knows that he himself is a sinner and often feels so unworthy that God cannot be like him.
 
-“No, Jesus, God is better than a father.
+“No, Jesus, God is better than a father.”
 
 The boy is silent and then laughs.
 
-José looks at him and wonders what will come next...
+Joseph looks at him and wonders what will come next...
 
 “Dad, God can't be any nicer than you.”
 
-He says it without joking, with the seriousness that sometimes appears in his deep, smiling eyes and in them he sees admiration, gratitude, trust, love... José feels a lump in his throat and his eyes fill with tears. He turns quickly, because he doesn't want his son to see him like this.
+He says it without joking, with the seriousness that sometimes appears in his deep, smiling eyes and in them he sees admiration, gratitude, trust, love... Joseph feels a lump in his throat and his eyes fill with tears. He turns quickly, because he doesn't want his son to see him like this.
 
 And now, at night, while his son sleeps, he remembers that scene. He feels the surprise again, the shudder to realize that when this child talks to him about God, everything seems different and even he feels better. Then exhaustion overcomes him and he sobs silently for everything he doesn't understand, for everything that has fallen by the wayside and for everything he intuits. Once the children are in bed, María approaches him, sits next to him, caresses his wet cheeks and, silently, hugs her husband and also looks at her sleepy eldest son.
 
@@ -83,7 +83,7 @@ The readers of _The Urantia Book_ have the great fortune of being able to read d
 
 What's more, Jesus felt totally united to Divinity, to the Father or Source of Everything. He said it repeatedly:
 
-> And when Philip had spoken, Jesus said: “Philip, have I been so long with you and yet you do not even now know me? Again do I declare: He who has seen me has seen the Father. How can you then say, Show us the Father? Do you not believe that I am in the Father and the Father in me? Have I not taught you that the words which I speak are not my words but the words of the Father? I speak for the Father and not of myself. I am in this world to do the Father’s will, and that I have done. My Father abides in me and works through me. Believe me when I say that the Father is in me, and that I am in the Father, or else believe me for the sake of the very life I have lived—for the work’s sake.” ([UB 180:3.9](/en/The_Urantia_Book/180#p3_9))
+> And when Philip had spoken, Jesus said: “Philip, have I been so long with you and yet you do not even now know me? Again do I declare: He who has seen me has seen the Father. How can you then say, Show us the Father? Do you not believe that I am in the Father and the Father in me? Have I not taught you that the words which I speak are not my words but the words of the Father? I speak for the Father and not of myself. I am in this world to do the Father’s will, and that I have done. My Father abides in me and works through me.” ([UB 180:3.9](/en/The_Urantia_Book/180#p3_9))
 
 Jesus, therefore, gives us a new image of God. In Jesus the fullest image of God was manifested, the authentic human being was shown. In his way of speaking about God and in his way of being human we discover the human face of God. God and Man united.
 

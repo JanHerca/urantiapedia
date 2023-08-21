@@ -103,7 +103,7 @@ Now, at this moment, and every day of our existence, the game of hide-and-seek b
 ## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_09/Arquitectos-UM.jpg" alt="Arquitectos del Universo Maestro" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Arquitectos-UM.jpg" alt="The Architects of the Master Universe" width="250">
 </figure>
 
 [**The Architects of the Master Universe (Bill Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/LOS-ARQUITECTOS-DEL-UNIVERSO-MAESTRO.pdf)
@@ -114,10 +114,10 @@ This work takes as its starting points other secondary works by the author (coll
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravedad" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Gravedad.jpg" alt="Gravity" width="250">
 </figure>
 
-[**Gravity, Newton, Einstein and LU (author unknown)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
+[**Gravity, Newton, Einstein and UB (author unknown)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
 
 In this work, the author reflects on the fact that the developers seemed to know Einstein's theory but nevertheless used Newtonian terms to expose contents related to gravity, matter and energy. Is this an indicator that both approaches have their share of truth, or is it part of the limitations of the developers? Meanwhile, scientists have made measurements and formulated theories that seem to fit the scientific claims made in the book.
 <br style="clear:both" />
@@ -136,7 +136,7 @@ In this very interesting work that will delight readers who are fond of ancient 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_09/El-arte-de-vivir.jpg" alt="El arte de vivir" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/El-arte-de-vivir.jpg" alt="The art of living" width="250">
 </figure>
 
 [**The art of living (Hubert Gallet)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-arte-de-vivir.pdf)
@@ -147,7 +147,7 @@ In the words of its author, a Canadian reader, “Jesus did not come to earth to
 ## History and teachings – Chronicles of the life of Jesus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_09/Cronicas-documento-125.jpg" alt="Crónicas - documento 125" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Cronicas-documento-125.jpg" alt="Chronicles - paper 125" width="250">
 </figure>
 
 **JOURNALISTIC ACCOUNT OF THE LIFE AND TEACHINGS OF JESUS ACCORDING TO _THE URANTIA BOOK_**
@@ -186,7 +186,7 @@ According to its author, «Kietud Island was born when the author was looking fo
 ## Recommended Blog: Confirming The Urantia Book
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_09/Confirmando-El-libro-de-Urantia-blog.jpg" alt="Confirmando el LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_09/Confirmando-El-libro-de-Urantia-blog.jpg" alt="Confirming The Urantia Book">
 </figure>
 
 [https://confirmandoellibrodeurantia.blogspot.com](https://confirmandoellibrodeurantia.blogspot.com/)

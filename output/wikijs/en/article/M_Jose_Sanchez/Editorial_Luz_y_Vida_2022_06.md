@@ -15,29 +15,29 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-1.jpg" alt="Editorial junio 2022-1">
 </figure>
 
-«An old story tells that in a small town such a storm broke out that the river overflowed its banks and completely flooded everything. The inhabitants escaped as they could, but the priest, who had always been a man of great faith, remained at the entrance of the parish, praying to God to get him out of there.
+“An old story tells that in a small town such a storm broke out that the river overflowed its banks and completely flooded everything. The inhabitants escaped as they could, but the priest, who had always been a man of great faith, remained at the entrance of the parish, praying to God to get him out of there.”
 
 “At that moment, a man was passing by driving a pickup truck who yelled at him:”
 
 “– Father, come on, the water continues to rise!”
 
-“- Do not worry son. replied the priest, ”God will save me."
+“- Do not worry son. replied the priest, God will save me.”
 
-“The water level continued to rise and the priest, waist-deep in water, continued to pray. Then a rowboat passed by with several men, who called out to him to get on.
+“The water level continued to rise and the priest, waist-deep in water, continued to pray. Then a rowboat passed by with several men, who called out to him to get on.”
 
-The priest responded firmly:
+“The priest responded firmly:”
 
 “– You go, do not worry about me anymore, God will save me.”
 
 “The men moved away while the storm did not stop and the water continued to rise; so much so that the priest had to climb to the roof of the parish. When the water was about to cover everything, a helicopter approached the priest from where they signaled for him to take the rescue rope, but he refused:”
 
-«–I am a man of faith! he yelled at the helicopter, “God save me!”
+“– I am a man of faith! he yelled at the helicopter, God save me!”
 
-“However, the water continued to fall and the priest ended up drowning and reached the gates of heaven. When he found himself face to face with God, he could not help but reproach him for letting him die like that."
+“However, the water continued to fall and the priest ended up drowning and reached the gates of heaven. When he found himself face to face with God, he could not help but reproach him for letting him die like that.”
 
 “My Lord,” said the priest sadly, “why did you abandon me?”
 
-«–But what abandonment are you talking about? God replied, “I sent you a truck, I sent you a boat, and I sent you a helicopter!”
+“– But what abandonment are you talking about? God replied, I sent you a truck, I sent you a boat, and I sent you a helicopter!”
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Editorial-jun-22-2.jpg" alt="Editorial junio 2022-2">
@@ -57,15 +57,15 @@ We all need stories like this, transparent, that help us see things as they real
 
 How did Jesus achieve that continuous connection with the Source? He himself helps us, because his teachings on prayer were also simple and clear, direct and groundbreaking with respect to many beliefs in his environment on how to relate to God. It is a Master showing a better way:
 
-> Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer.
+> Jesus was particularly averse to praying in public. Up to this time the twelve had heard him pray only a few times. They observed him spending entire nights at prayer or worship, and they were very curious to know the manner or form of his petitions
 > 
-> After Jesus’ death and ascension to the Father it became the practice of many believers to finish this so-called Lord’s prayer by the addition of—“In the name of the Lord Jesus Christ.” Still later on, two lines were lost in copying, and there was added to this prayer an extra clause, reading: “For yours is the kingdom and the power and the glory, forevermore.” ([UB 144:3.14-15](/en/The_Urantia_Book/144#p3_14))
+> Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer. ([UB 144:3.13-14](/en/The_Urantia_Book/144#p3_13))
 
 The priest Pablo D'Ors tells us that one of the most characteristic features of Jesus was his great pedagogical will, to be a Teacher. He understood very soon that, in addition to announcing, he had to teach. His way of being a Master, his teachings, sought to be simple and brief, almost everyone could understand what he was saying, although at different levels of depth. He did not use to argue or develop theories, quite the contrary. She always started from an image, she was an artist: the lilies of the field, the lost coin, the yeast, the cloak, the birds... all her words were images. That is why his preaching was not forgotten and has passed to posterity.
 
 Notice this slightly humorous example of a annoying and annoying neighbor, which Jesus uses to make clear to us the importance of persistence and focus. All the things that surrounded him could reveal Truth, all the images served him:
 
-> “Prayer is the breath of the soul and should lead you to be persistent in your attempt to ascertain the Father’s will. If any one of you has a neighbor, and you go to him at midnight and say: ‘Friend, lend me three loaves, for a friend of mine on a journey has come to see me, and I have nothing to set before him’; and if your neighbor answers, ‘Trouble me not, for the door is now shut and the children and I are in bed; therefore I cannot rise and give you bread,’ you will persist, explaining that your friend hungers, and that you have no food to offer him. I say to you, though your neighbor will not rise and give you bread because he is your friend, yet because of your importunity he will get up and give you as many loaves as you need. If, then, persistence will win favors even from mortal man, how much more will your persistence in the spirit win the bread of life for you from the willing hands of the Father in heaven. Again I say to you: Ask and it shall be given you; seek and you shall find; knock and it shall be opened to you. For every one who asks receives; he who seeks finds; and to him who knocks the door of salvation will be opened. ([UB 144:2.3](/en/The_Urantia_Book/144#p2_3))
+> If any one of you has a neighbor, and you go to him at midnight and say: ‘Friend, lend me three loaves, for a friend of mine on a journey has come to see me, and I have nothing to set before him’; and if your neighbor answers, ‘Trouble me not, for the door is now shut and the children and I are in bed; therefore I cannot rise and give you bread,’ you will persist, explaining that your friend hungers, and that you have no food to offer him. I say to you, though your neighbor will not rise and give you bread because he is your friend, yet because of your importunity he will get up and give you as many loaves as you need. If, then, persistence will win favors even from mortal man, how much more will your persistence in the spirit win the bread of life for you from the willing hands of the Father in heaven. Again I say to you: Ask and it shall be given you; seek and you shall find; knock and it shall be opened to you. For every one who asks receives; he who seeks finds; and to him who knocks the door of salvation will be opened. ([UB 144:2.3](/en/The_Urantia_Book/144#p2_3))
 
 The first conclusion of all this innovative approach of Jesus is that prayer does not need temples or churches, since the temple is ourselves: our body is the sanctuary where what we call prayer occurs. The adventure of the soul is verified in our body.
 
@@ -73,7 +73,7 @@ From there we arrive at another revolutionary conclusion: if the temple is not n
 
 Another key also refers to an important warning that Jesus gave:
 
-> 14. Jesus warned his followers against thinking that their prayers would be rendered more efficacious by ornate repetitions, eloquent phraseology, fasting, penance, or sacrifices. But he did exhort his believers to employ prayer as a means of leading up through thanksgiving to true worship. Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers. He quoted from the Scriptures on this occasion, saying: “It is a good thing to give thanks to the Lord and to sing praises to the name of the Most High, to acknowledge his loving-kindness every morning and his faithfulness every night, for God has made me glad through his work. In everything I will give thanks according to the will of God.” ([UB 146:2.15](/en/The_Urantia_Book/146#p2_15))
+> Jesus warned his followers against thinking that their prayers would be rendered more efficacious by ornate repetitions, eloquent phraseology, fasting, penance, or sacrifices. ([UB 146:2.15](/en/The_Urantia_Book/146#p2_15))
 
 Praying does not consist in talking a lot, asking eloquently for things, because words, when they are not born from the depths, tend to interfere with the flow of life until they block it; and because when we ask it is always because we have some personal interest. Prayer really doesn't go that way. This is how instead of being a means, words can often become an obstacle.
 

@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Remembering what is indicated in [UB 101:4.2](/en/The_Urantia_Book/101#p4_2), Document 101 “The real nature of religion”, 4. THE LIMITATIONS OF REVELATION, verbatim copy:
 
-> “_We know very well that the historical facts and religious truths of this series of revealing presentations will remain in the annals for ages to come, but within a few years many of our claims related to the physical sciences will need revision as a result of developments additional scientists and new discoveries_”
+> “_We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries_”
 
 Could we consider the description of the formation of our solar system as a historical fact, or should we include it in the section of statements related to the physical sciences that may need revision in the future?
 
@@ -41,11 +41,11 @@ I suggest reading Document 57. It begins with the history of the formation of ou
 
 [UB 57:5.3](/en/The_Urantia_Book/57#p5_3), Paper 57, “The Origin of Urantia”:
 
-> “_The stage of local space was thus prepared for the exceptional origin of Monmatia, name of the planetary family of your Sun, the solar system to which your world belongs. Less than one per cent of Orvonton's planetary systems have had such an origin._”
+> “_Thus was the stage of local space set for the unique origin of Monmatia, that being the name of your sun’s planetary family, the solar system to which your world belongs. Less than one per cent of the planetary systems of Orvonton have had a similar origin.._”
 
 At the moment it reveals to us that it was an unusual origin. We have a relatively isolated Sun on the scene that has already attracted to itself a part of the debris that was nearby, produced within the initial nebula, residues even of its own formation.
 
-And it enters the scene in an enormous stellar cloud, in principle foreign to the Solar System itself: “_4,500,000,000 years ago, the enormous Angona system began to approach the surroundings of this solitary Sun. The center of this great system was a dark giant of space, solid, highly charged and with an enormous gravitational pull._” [UB 57:5.4](/en/The_Urantia_Book/57#p5_4)
+And it enters the scene in an enormous stellar cloud, in principle foreign to the Solar System itself: “_4,500,000,000 years ago the enormous Angona system began its approach to the neighborhood of this solitary sun. The center of this great system was a dark giant of space, solid, highly charged, and possessing tremendous gravity pull._” [UB 57:5.4](/en/The_Urantia_Book/57#p5_4)
 
 In addition, we have to take into account that our Sun was a variable star, that it had periods of contraction and expansion, in which it launched enormous tongues of solar material into space that, in most cases, due to the effect of gravity, fell back on the sun. same sun.
 

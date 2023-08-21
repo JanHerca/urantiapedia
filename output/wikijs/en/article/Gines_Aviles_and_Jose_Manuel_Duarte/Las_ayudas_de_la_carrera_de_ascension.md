@@ -156,7 +156,7 @@ The Melchizedeks are the directors of that large body of teachers--will creature
 
 In the world of number one mansions almost all experience is related to the correction of deficiencies. The survivors who reach this first sphere of detention have so many and such varied character flaws as creatures, and so many deficiencies in their human experience, that the main activities of the kingdom are to correct and heal these many legacies of life in the flesh. . Biological deficiencies are compensated. The defects of the planetary experience related to the sexual life, the family association and the parental function are corrected, or plans are made for their future rectification within the families of the material Sons on Jerusem.
 
-In mansion world number two, work groups and social organizations begin to function, and the elimination of all intellectual conflicts and the healing of mental disharmony are ensured. The effort to master the meaning of the morontia speck continues.
+In mansion world number two, work groups and social organizations begin to function, and the elimination of all intellectual conflicts and the healing of mental disharmony are ensured. The effort to master the meaning of the morontia mota continues.
 
 The third mansonia is a world of great personal and social achievements and a more positive educational work begins, in contrast to the formation of the first two worlds, which is more negative in the sense of compensating for deficiencies, completing the experience of life in the meat. The survivors actually begin their progressive morontia culture.
 

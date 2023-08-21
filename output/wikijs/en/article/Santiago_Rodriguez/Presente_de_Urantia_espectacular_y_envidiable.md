@@ -106,7 +106,7 @@ The enormous growth in the material aspect should compel us to seek the realitie
 
 But in this time of changes and adjustments in which we are immersed, we must be very careful: Lucifer's great mistake and later the same mistake that led Adam and Eve to failure was precisely impatience.
 
-> “_Man should be unafraid to experiment with the mechanisms of society. But always should these adventures in cultural adjustment be controlled by those who are fully conversant with the history of social evolution; and always should these innovators be counseled by the wisdom of those who have had practical experience in the domains of contemplated social or economic experiment. *No great social or economic change should be attempted suddenly.* Time is essential to all types of human adjustment—physical, social, or economic. Only moral and spiritual adjustments can be made on the spur of the moment, and even these require the passing of time for the full outworking of their material and social repercussions. The ideals of the race are the chief support and assurance during the critical times when civilization is in transit from one level to another._” ([UB 81:6.40](/en/The_Urantia_Book/81#p6_40))
+> “_*No great social or economic change should be attempted suddenly.* Time is essential to all types of human adjustment—physical, social, or economic. Only moral and spiritual adjustments can be made on the spur of the moment, and even these require the passing of time for the full outworking of their material and social repercussions. The ideals of the race are the chief support and assurance during the critical times when civilization is in transit from one level to another._” ([UB 81:6.40](/en/The_Urantia_Book/81#p6_40))
 
 This new era in our world will take a millennium to complete. We are on the march towards a new, unrevealed planetary destination.
 
@@ -114,7 +114,7 @@ This new era in our world will take a millennium to complete. We are on the marc
 
 Despite such complicated circumstances, they give us the guideline to face this time of change, of transition from one civilization to another and it is neither more nor less than a return to spirituality, rescuing the presence of authentic religion in the different facets of the life.
 
-> “_The mechanistic naturalism of some supposedly educated men and the thoughtless secularism of the man in the street are both exclusively concerned with *things;* they are barren of all real values, sanctions, and satisfactions of a spiritual nature, as well as being devoid of faith, hope, and eternal assurances. One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion._” ([UB 195:6.7](/en/The_Urantia_Book/195#p6_7))
+> “_One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion._” ([UB 195:6.7](/en/The_Urantia_Book/195#p6_7))
 
 In fact, the main mission of religion as a social influence is to stabilize the ideals of humanity. For this, religion has to collect new and updated slogans.
 
@@ -122,7 +122,7 @@ A new and fuller revelation of the religion of Jesus is destined to conquer an e
 
 Urantia currently shudders on the very brink of one of its most amazing and exciting times of social readjustment, moral revival, and spiritual enlightenment.
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings._ ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 Even secular education would be of great help in spiritual rebirth and awakening if it paid more attention to education, teaching the youth properly, the goal of education being the development of a majestic and well-balanced personality, in order to successfully face the ages. so changeable The importance of individualism is revealed in the mere fact of presenting the 5th Revelation in written form, fleeing from “guru” type leaders, presenting a religion that unites us in objectives and not necessarily in interpretations or creeds.
 

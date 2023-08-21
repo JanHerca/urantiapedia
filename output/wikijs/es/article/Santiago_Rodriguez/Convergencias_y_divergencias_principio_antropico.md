@@ -70,7 +70,7 @@ _El Libro de Urantia_ nos revela que el universo no es un accidente, sino algo g
 
 > _Dios controla todo el poder; ha trazado «un camino para el rayo»; ha ordenado los circuitos de todas las energías. Ha decretado el momento y la manera de manifestarse de todas las formas de energía materia._ <a id="a70_211"></a>[LU 3:2.4](/es/The_Urantia_Book/3#p2_4)
 
-> _3. El poder del universo incluye todas las formas de energía que son directamente sensibles a la gravedad lineal, aunque todavía responden a la gravedad del Paraíso. Es el nivel electrónico de la energía-materia y de todas sus evoluciones posteriores._ <a id="a72_256"></a>[LU 0:6.3](/es/The_Urantia_Book/0#p6_3)
+> _3. El poder del universo incluye todas las formas de energía que son directamente sensibles a la gravedad lineal, aunque todavía responden a la gravedad del Paraíso. Es el nivel electrónico de la energía-materia y de todas sus evoluciones posteriores._ <a id="a72_256"></a>[LU 0:6.7](/es/The_Urantia_Book/0#p6_7)
 
 Esperemos que la ciencia vuelva poco a poco a colocar y permitir que las cosas estén en su sitio. Colocar a Dios detrás de cada interrogante supuso un estancamiento del progreso. De la misma manera, ignorar que hay un propósito inteligente en el diseño del universo retrasará nuestro conocimiento profundo de él.
 

@@ -31,15 +31,15 @@ Do you realize how wonderful it is to be alive, to move with this body, to creat
 
 It is not about arrogance or lack of humility, not at all. It's about valuing ourselves for who we are, recognizing our deepest truth. Because we often act quite inconsistently, as if we were running our lives on “autopilot” and we forget who we are as unique: wonderful children of a divinity, creatures brought into existence in this universe, on this material plane out of love. of the Creator of all things.
 
-> God lives in every one of his spirit-born sons. The Paradise Sons always have access to the presence of God, “the right hand of the Father,” and all of his creature personalities have access to the “bosom of the Father.” This refers to the personality circuit, whenever, wherever, and however contacted, or otherwise entails personal, self-conscious contact and communion with the Universal Father, whether at the central abode or at some other designated place, as on one of the seven sacred spheres of Paradise. ([UB 5:2.2](/en/The_Urantia_Book/5#p2_2))
+> God lives in every one of his spirit-born sons. ([UB 5:2.2](/en/The_Urantia_Book/5#p2_2))
 
 We are peculiar creatures, because curiously we are both car and driver, ship and pilot, horse and rider; that is to say, we are an electrochemical mechanism that allows us to handle ourselves in material reality but we are also a self-aware, creative entity capable of transcending matter.
 
-> Adjusters work in the spheres of the higher levels of the human mind, unceasingly seeking to produce morontia duplicates of every concept of the mortal intellect. There are, therefore, two realities which impinge upon, and are centered in, the human mind circuits: one, a mortal self evolved from the original plans of the Life Carriers, the other, an immortal entity from the high spheres of Divinington, an indwelling gift from God. But the mortal self is also a personal self; it has personality. ([UB 110:2.4](/en/The_Urantia_Book/110#p2_4))
+> There are, therefore, two realities which impinge upon, and are centered in, the human mind circuits: one, a mortal self evolved from the original plans of the Life Carriers, the other, an immortal entity from the high spheres of Divinington, an indwelling gift from God. But the mortal self is also a personal self; it has personality. ([UB 110:2.4](/en/The_Urantia_Book/110#p2_4))
 
 This matter of our identity, of our true being, has been reflecting on for many centuries:
 
-> The concept of a soul and of an indwelling spirit is not new to Urantia; it has frequently appeared in the various systems of planetary beliefs. Many of the Oriental as well as some of the Occidental faiths have perceived that man is divine in heritage as well as human in inheritance. The feeling of the inner presence in addition to the external omnipresence of Deity has long formed a part of many Urantian religions. Men have long believed that there is something growing within the human nature, something vital that is destined to endure beyond the short span of temporal life. ([UB 111:0.2](/en/The_Urantia_Book/111#p0_2))
+> Many of the Oriental as well as some of the Occidental faiths have perceived that man is divine in heritage as well as human in inheritance. The feeling of the inner presence in addition to the external omnipresence of Deity has long formed a part of many Urantian religions. Men have long believed that there is something growing within the human nature, something vital that is destined to endure beyond the short span of temporal life. ([UB 111:0.2](/en/The_Urantia_Book/111#p0_2))
 
 We all know the simple greeting expression _aloha_, used for greetings and as an expression of love, compassion and generosity. Etymologically it is made up of the terms _alo_ (presence or being present) and _ha_ (breath or divine inspiration). That is, the aloha greeting means that the divine essence of the other person is welcomed and recognized. This respect affects the loving and joyful way of relating to other human beings.
 
@@ -47,7 +47,7 @@ We all know the simple greeting expression _aloha_, used for greetings and as an
 
 Now, in the room where the sibyl was (that wise woman trained since she was a child to reveal the message of the oracles) the following inscription could be read:
 
-> «I warn you, whoever you are, who wishes to probe the secrets of nature, that if you do not find within yourself what you seek, you will not be able to find it outside either. If you ignore the excellences of your own house, how do you intend to find other excellences? In you is hidden the Treasure of Treasures. Man, know yourself and you will know the universe and the gods."
+> “I warn you, whoever you are, who wishes to probe the secrets of nature, that if you do not find within yourself what you seek, you will not be able to find it outside either. If you ignore the excellences of your own house, how do you intend to find other excellences? In you is hidden the Treasure of Treasures. Man, know yourself and you will know the universe and the gods.”
 
 These two simple examples that remind us of who we are, that exhort us to seek the best self-knowledge, encourage us to be seekers, in an endless race of progression and limitless expansion.
 
@@ -109,7 +109,7 @@ To illuminate Europe and therefore the world, turning inward rather than outward
 
 Are we looking for solutions in the right place? Jesus himself guides us in our search, inwards, towards our nucleus. Therein lies the answer to our current problems and concerns.
 
-> The Greek religion had a watchword “Know yourself”; the Hebrews centered their teaching on “Know your God”; the Christians preach a gospel aimed at a “knowledge of the Lord Jesus Christ”; Jesus proclaimed the good news of “knowing God, and yourself as a son of God.” These differing concepts of the purpose of religion determine the individual’s attitude in various life situations and foreshadow the depth of worship and the nature of his personal habits of prayer. The spiritual status of any religion may be determined by the nature of its prayers. ([UB 5:4.8](/en/The_Urantia_Book/5#p4_8))
+> The Greek religion had a watchword “Know yourself”; the Hebrews centered their teaching on “Know your God”; the Christians preach a gospel aimed at a “knowledge of the Lord Jesus Christ”; Jesus proclaimed the good news of “knowing God, and yourself as a son of God.” ([UB 5:4.8](/en/The_Urantia_Book/5#p4_8))
 
 Great and beautiful our good news, the one that Jesus invites us to carry out in these times, in this European meeting.
 

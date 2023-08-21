@@ -280,7 +280,7 @@ My first impression was that something inside me told me that what I was hearing
 ## The new revision of the Spanish translation of The Urantia Book is here
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2022_01/El-Libro-de-Urantia-Revised-478x700-1.jpg" alt="El LU - edición internacional" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2022_01/El-Libro-de-Urantia-Revised-478x700-1.jpg" alt="UB International Edition" width="130">
 </figure>
 
 Since last December 16, the text of the new revision of the Spanish translation of _The Urantia Book_ is already available in electronic format.

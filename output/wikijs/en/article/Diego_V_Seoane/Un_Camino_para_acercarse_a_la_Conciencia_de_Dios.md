@@ -35,7 +35,7 @@ Now, how can we love God, whom we do not know through our senses, if we are not 
 
 Jesus gives us the key again: “Be perfect, as your Father who is in heaven is”. How do you suggest we accomplish this? Well, I humbly understand that trying to do perfectly all our activities, from the most prosaic to the most sublime.
 
-But let's break this down a bit. Now we can turn to the LU, which tells us more or less the following:
+But let's break this down a bit. Now we can turn to the UB, which tells us more or less the following:
 
 The mortal man, who manages to overcome his animal nature, automatically makes the third circle (the one corresponding to the Divine Minister; I understand it easier if I call it Earthly Mother). But how is this achieved? I think we will have to investigate what LOVE really is. How can we approach this concept? We know that God is ABSOLUTE and INFINITE LOVE.
 

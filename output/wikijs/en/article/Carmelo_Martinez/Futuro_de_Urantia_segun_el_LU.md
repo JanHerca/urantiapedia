@@ -32,7 +32,7 @@ Sometimes the future seems something distant and difficult to imagine. However, 
 
 And let's get down to business. The evolution of humanity on any inhabited planet is an ascension from the initial barbarism to the won perfection of the final ages of light and life. And this ascent always goes through certain stages that are defined and characterized, as I have said, in paper 52.
 
-Following this information from the Book, I have prepared a painting, or rather, Eduardo has prepared it because I am very bad at drawing. This chart summarizes what LU says of these stages for an “average” planet, but as you know very well our planet is an “oddball” that strays far from the average line due to the misfortunes of the Caligastia betrayal and of the mistake that our material children made.
+Following this information from the Book, I have prepared a painting, or rather, Eduardo has prepared it because I am very bad at drawing. This chart summarizes what UB says of these stages for an “average” planet, but as you know very well our planet is an “oddball” that strays far from the average line due to the misfortunes of the Caligastia betrayal and of the mistake that our material children made.
 
 It is the case, for example, that on our planet we have received a Son of bestowal, Michael of Nebadon himself, without having previously welcomed a magisterial Son, thus breaking the average sequence of arrival of Sons.
 
@@ -132,7 +132,7 @@ And here comes my introduction; now it is the turn of the debate. There are othe
 
 ## Comments from attendees
 
-The privilege of receiving the Urantia revelation is both a great obligation and a great responsibility. We have been chosen, yes, but to work. Doc.160 deserves to be highlighted here, the section on “the incentives of maturity” ([UB 160:3.1](/en/The_Urantia_Book/160#p3_1)), where it deals with good spiritual habits.
+The privilege of receiving the Urantia revelation is both a great obligation and a great responsibility. We have been chosen, yes, but to work. Paper 160 deserves to be highlighted here, the section on “the incentives of maturity” ([UB 160:3.1](/en/The_Urantia_Book/160#p3_1)), where it deals with good spiritual habits.
 
 The world economy is changing. The road does not go through a revolution but through total globalization, not only economic. But it is necessary to change the mentality of profit for profit first. Advancement today will be fundamentally ethical, not spiritual.
 

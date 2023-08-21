@@ -80,7 +80,7 @@ Es cualquier interacción entre un «yo» activo e interrogante y cualquier otra
 
 Será a través del conocimiento y de la experiencia como nuestra mente (es la mente precisamente el sistema del que disponemos los seres humanos para interpretar y correlacionar todos estos hechos) organizará la realidad para nosotros mismos, lo que le otorgará sin duda cierto componente subjetivo, que permitirá a la misma realidad ser más rica y atractiva de lo que sería si sólo incluyera componentes objetivos.
 
-$Y$ es precisamente el conocimiento total que tiene de la realidad cada personalidad lo que constituye la máxima realización, la máxima aspiración del ser; afán que nos llevará tanto personalmente como en forma de grupo a indagar $y$ profundizar en todo hecho observable o cognoscible que incluimos en el marco de la realidad.
+Y es precisamente el conocimiento total que tiene de la realidad cada personalidad lo que constituye la máxima realización, la máxima aspiración del ser; afán que nos llevará tanto personalmente como en forma de grupo a indagar $y$ profundizar en todo hecho observable o cognoscible que incluimos en el marco de la realidad.
 
 Inmediatamente se ponen de manifiesto dos aspectos de la realidad:
 

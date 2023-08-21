@@ -18,7 +18,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Let's start by telling an old story:
 
 _The monk asked:_
-_"All these mountains and these rivers and the earth and the stars... where do they come from?_
+_“All these mountains and these rivers and the earth and the stars... where do they come from?”_
 _And the Master asked: “And where does your question come from?”_
 _Search within yourself!_
 
@@ -26,8 +26,8 @@ This short story shows us a great truth: the perception of the divine is within 
 
 Hundreds of years ago, Agustín de Hipona told us these wonderful words that deserve to be reread several times:
 
-_"I loved you late, beauty so old, and so new, I loved you late. And behold, You were within me, and I was outside; and outside I was looking for you, and I threw myself on those beauties that you created._
-_"You were with me, but I was not with you. They kept me away from you those things that, if they were not in you, would not exist.»_
+“_I loved you late, beauty so old, and so new, I loved you late. And behold, You were within me, and I was outside; and outside I was looking for you, and I threw myself on those beauties that you created._”
+“_You were with me, but I was not with you. They kept me away from you those things that, if they were not in you, would not exist._”
 
 _The Urantia Book_ also affirms this union of God with his creatures in the innermost of our minds:
 
@@ -65,7 +65,7 @@ _The Urantia Book_ speaks to us clearly that we possess an extraordinary mind, w
 
 Furthermore, _The Urantia Book_ is very blunt:
 
-> No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph. In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the *scientist.* ([UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
+> No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph. In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. ([UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
 
 Consequently, the readers of _The Urantia Book_ go against the current of what the world promotes. The blue book invites us to do something with enormous benefits, which links us to the great source. A personal and non-transferable search, an endless adventure.
 

@@ -97,7 +97,7 @@ The option is clearly defined, we have to DECIDE, to live human life, in a relig
 
 What was or what is the religion of Jesus? It also has an easy answer: make the love we receive from the Father translate in us as love for all men and also in selfless service to humanity.
 
-## concreting
+## Concreting
 
 If we want to live a full, satisfactory life $y$ abundant in experiences (jojo! I didn't want to say easy), we must come to the conviction and make the decision that our life be religious, of the idea of God the Father and the Brotherhood among human beings, and through faith, with the help of the Adjuster, who will reveal part of the truths to us, we will evolve from primitive veneration and fear towards the First Source and Center, to achieve a spiritual communion with Him , which will allow us to achieve an advanced state and a high awareness of our unity with the Father.
 

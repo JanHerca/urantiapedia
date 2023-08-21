@@ -31,7 +31,7 @@ _The Urantia Book_ is not related to the fashions of the New Age, spiritualism, 
 
 <ins>The mission of the _Urantia Book_ is unique and exclusive.</ins>
 
-It is also not related to UFOs, although _The Urantia Book_ can give many clues about the phenomenon of “UFOs” “_seraphic transports_” ([UB 75:6.3](/en/The_Urantia_Book/75#p6_3)) _angels, Messengers, space traversers etc._ ([LU 39:3.8](/es/The_Urantia_Book/39#p3_8)) This belongs to a field in which there are already serious researchers dedicated to this issue.
+It is also not related to UFOs, although _The Urantia Book_ can give many clues about the phenomenon of “UFOs” “_seraphic transports_” ([UB 75:6.3](/en/The_Urantia_Book/75#p6_3)) _angels, Messengers, space traversers etc._ ([UB 39:3.8](/en/The_Urantia_Book/39#p3_8)) This belongs to a field in which there are already serious researchers dedicated to this issue.
 
 ## Diffusion and methods
 

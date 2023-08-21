@@ -239,7 +239,7 @@ Miguel Majorca
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Verdad-universal-sin-dogmas.jpg" alt="Verdad universal, sin dogmas">
 </figure>
 
-The human being, in his continuous evolution, has been conditioned and subjugated by religious power; a religious power of such social influence that, throughout history, and with the excuse of its spiritualization, but with hidden intentions of manipulative and political control, have turned it into a skeptical being with an almost total rejection of said religions " saviors».
+The human being, in his continuous evolution, has been conditioned and subjugated by religious power; a religious power of such social influence that, throughout history, and with the excuse of its spiritualization, but with hidden intentions of manipulative and political control, have turned it into a skeptical being with an almost total rejection of said religions “ saviors”.
 
 Because of all these falsehoods, hypocrisies, dogmas, myths, rituals, etc. that they have used with the intention of keeping it in the most opaque ignorance and lack of culture, these religions have managed to create a model of a skeptical society, devoid of values such as respect, morality, ethics... a human profile so incredulous, selfish and without hope for the future that the coexistence system has been disfigured to the point of absurdity, an irrational coexistence, where consumerism, ostentation, speculation, pollution and many other nonsense are the bases that sustain this “poor” society.
 

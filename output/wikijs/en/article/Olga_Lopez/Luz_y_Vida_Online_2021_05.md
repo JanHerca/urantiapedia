@@ -55,7 +55,7 @@ And if we keep looking in our luggage, dear reader, we have even more elements o
 
 Do we check our luggage more thoroughly, to see what else we find?
 
-Fancy reading a Urantia-inspired book? Well, we show you two books by two veteran LU readers that are priceless.
+Fancy reading a Urantia-inspired book? Well, we show you two books by two veteran UB readers that are priceless.
 
 Do you want some help to study? We offer you the precious work of Eduardo Altuzarra on the fourth part and a very interesting blog to follow, that of Jael González.
 

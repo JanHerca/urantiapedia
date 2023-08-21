@@ -29,9 +29,9 @@ The Infinite I AM works on **all** the levels of Reality, and depending on the f
 
 For me, the Supreme Being is the Infinite I AM, but working on the experiential levels of spacetime. God is infinite. How could God learn anything, grow in wisdom, grow in ability? This is totally foreign to the nature of God. God is existential, he is beyond experience. But through the Supreme Being, God can know what it is to have an origin, what it is to grow in experience. The Supreme Being makes up for God's lack of experience by never having been finite.
 
-The UB tells us: "In the Deity of the Supreme, the Father-I AM has achieved relatively complete liberation from the limitations inherent in the infinite state, eternal existence, and absolute nature...by achieving liberation from eternity, the Almighty becomes meets the barriers of time...»
+The UB tells us: “In the Deity of the Supreme, the Father-I AM has achieved relatively complete liberation from the limitations inherent in the infinite state, eternal existence, and absolute nature...by achieving liberation from eternity, the Almighty becomes meets the barriers of time...”
 
-“All of this must be in accordance with the Father's plan, which has based finite progress on effort, creature achievement on perseverance, and personality development on faith. By thus ordering the experiential evolution of the Supreme, the Father has made it possible for finite creatures to exist in the universes...” ([Doc.115-7](/en/The_Urantia_Book/115#p7))
+“All of this must be in accordance with the Father's plan, which has based finite progress on effort, creature achievement on perseverance, and personality development on faith. By thus ordering the experiential evolution of the Supreme, the Father has made it possible for finite creatures to exist in the universes...” ([Paper 115-7](/en/The_Urantia_Book/115#p7))
 
 When the Infinite I AM differentiated Reality, it did so by separating the Potential on one side and the Manifested on the other. The potential is yet unexpressed, and is contained in the three Absolutes of potentiality. The manifested is what is already expressed, and it is expressed in the universe in three ways: the absolute thing (Island of Paradise), the absolute personality (Eternal Son) and the absolute mind (Infinite Spirit). These three manifested Absolutes are the origins of all the reality we know.
 
@@ -41,7 +41,7 @@ The L.d.U. he says in this regard: “The entire project of universal creation a
 
 “The final dynamic of the cosmos consists in continuously transferring reality from the potential state to the manifested state”. ([Doc 115](/en/The_Urantia_Book/115#))
 
-“The great struggle of this age of the universe takes place between the potential and the manifested - everything that has not been expressed up to now tries to manifest itself.” ([Doc.117-4](/en/The_Urantia_Book/117#p4))
+“The great struggle of this age of the universe takes place between the potential and the manifested - everything that has not been expressed up to now tries to manifest itself.” ([Paper 117-4](/en/The_Urantia_Book/117#p4))
 
 I deduce that, when in the eternity of the past the Infinite I AM divided reality into Potential and Manifested, it did so because it already had “in mind” to create the finite level, where potentials would gradually become realities over time.
 

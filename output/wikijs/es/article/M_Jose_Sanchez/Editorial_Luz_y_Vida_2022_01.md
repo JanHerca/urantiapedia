@@ -48,7 +48,7 @@ Existe una hermosa leyenda de origen medieval que recoge la historia sobre un te
 
 Este problema, tratar de comprender con nuestra pequeña mente mortal el misterio de Dios, fue un auténtico reto para los reveladores que estuvieron laborando durante años en la redacción de _El Libro de Urantia_. En el mismo inicio del libro, el Prólogo, ya nos lo anuncia:
 
-> «…es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» (<a id="a50_321"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
+> «...es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» (<a id="a50_321"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
 Y cuando los lectores de _El Libro de Urantia_ nos enfrentamos a la comprensión correcta de este extenso y complejo texto, nos podemos plantear estas dudas razonables: ¿seré capaz de leer el Prólogo o me salto su lectura?  ¿Será mejor comenzar la lectura por la cuarta parte, tan hermosa, de la vida de Jesús? ¿El orden de lectura es realmente importante? ¿Da igual si inicio mi lectura por aquella parte que me agrada más revisando el índice? ¿El propio Libro de Urantia nos ofrece alguna orientación sobre cómo leer el texto?
 
@@ -58,13 +58,13 @@ Nos puede sorprender encontrar en el propio texto de _El Libro de Urantia_ una a
 
 Los reveladores utilizan un enfoque cósmico o muy elevado en el desarrollo de las ideas y conceptos que quieren mostrarnos, desde el Prólogo y en los documentos sucesivos. Tratan de trasladarnos las maravillas que no podemos vislumbrar en la Tierra, pero que forman parte del universo en el que hemos abierto los ojos.
 
-> «…empleamos el método de acercarnos al hombre y sus problemas planetarios embarcándonos en un viaje en el espacio-tiempo que parte de la infinita, eterna y divina Fuente y Centro del Paraíso de toda realidad de personalidad y de toda existencia cósmica.» (<a id="a60_258"></a>[LU 19:1.12](/es/The_Urantia_Book/19#p1_12))
+> «...empleamos el método de acercarnos al hombre y sus problemas planetarios embarcándonos en un viaje en el espacio-tiempo que parte de la infinita, eterna y divina Fuente y Centro del Paraíso de toda realidad de personalidad y de toda existencia cósmica.» (<a id="a60_258"></a>[LU 19:1.12](/es/The_Urantia_Book/19#p1_12))
 
 _El Libro de Urantia_ está redactado siguiendo un orden que va de lo más complejo a lo más sencillo, y el propio libro nos explica las grandes ventajas que ello nos reporta:
 
-> «…la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones yendo de lo simple y finito a lo complejo e infinito, de los orígenes humanos a los destinos divinos. Pero ese camino no conduce a la sabiduría espiritual.
+> «...la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones yendo de lo simple y finito a lo complejo e infinito, de los orígenes humanos a los destinos divinos. Pero ese camino no conduce a la sabiduría espiritual.»
 > 
-> »Dicho procedimiento es el camino más fácil hacia cierta forma de conocimiento genético, que en el mejor de los casos solo puede revelar el origen del hombre pero que poco o nada revela sobre su destino divino.» (<a id="a66_215"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
+> «Dicho procedimiento es el camino más fácil hacia cierta forma de conocimiento genético, que en el mejor de los casos solo puede revelar el origen del hombre pero que poco o nada revela sobre su destino divino.» (<a id="a66_215"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
 
 _El Libro de Urantia_ nos advierte de algunos problemas que conllevaría utilizar un enfoque diferente. Por ejemplo:
 
@@ -84,7 +84,7 @@ En nuestra vida cotidiana, existir desde una perspectiva cósmica o una mentalid
 
 En la mente y su elevación está la clave.
 
-> «… la mente ha sido puesta en vuestras manos, sometida a vuestras propias decisiones, y por la mente vivís o morís. Dentro de esa mente y con esa mente tomáis las decisiones morales que os harán semejantes al Ajustador, es decir, semejantes a Dios.» <a id="a86_252"></a>[LU 111:1.4](/es/The_Urantia_Book/111#p1_4)
+> «...la mente ha sido puesta en vuestras manos, sometida a vuestras propias decisiones, y por la mente vivís o morís. Dentro de esa mente y con esa mente tomáis las decisiones morales que os harán semejantes al Ajustador, es decir, semejantes a Dios.» <a id="a86_252"></a>[LU 111:1.4](/es/The_Urantia_Book/111#p1_4)
 
 Otra aclaración que hacen los reveladores de _El Libro de Urantia_ nos informa sobre el porqué del orden actual de los diferentes documentos:
 

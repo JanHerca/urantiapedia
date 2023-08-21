@@ -30,7 +30,7 @@ The ***religious experience***a are the acts carried out by the conscience of th
 
 As for the ***revelation***, we must bear in mind that in the worlds of time and space the morontia Mota (or technique available at the morontia level, supermaterial sensitivity to reality, based in part on in the experience of having survived material life in the flesh), which would allow us to discern Goodness, Love and Truth in the phenomena of the material world. We are unaware of the existence of the morontia world, and it would be precisely that approach (mota) that would eliminate all divergence between the findings of the physical and spiritual approaches. The attempt of metaphysics to achieve this perspective has been ineffective. What has proven effective has been Revelation, and above all philosophy, clarified by revelation.
 
-The ***morontia speck*** is, therefore, the superphilosophical sensitivity for the discernment of Truth and the perception of Unity.
+The ***morontia mota*** is, therefore, the superphilosophical sensitivity for the discernment of Truth and the perception of Unity.
 
 ## Why so many conflicts and struggles between Religion and Science?
 
@@ -163,8 +163,8 @@ The highest Philosophy obtainable by man must be logically based on the Reason o
 
 In addition to our mind capable of correlating the wisdom that will allow us to discern the validity and implications of what is revealed and Faith as a driver forward, we have two powerful tools:
 
-- ** PRAYER **, which is part of the religious experience itself, and to which modern religions have given an excessively accentuated role.
-- ** The Communion of ADORATION **, more essential than prayer. The reflective powers of the mind are deepened and widened by worship.
+- **PRAYER**, which is part of the religious experience itself, and to which modern religions have given an excessively accentuated role.
+- **The Communion of ADORATION**, more essential than prayer. The reflective powers of the mind are deepened and widened by worship.
 
 “Prayer may enrich life, but Adoration illuminates destiny”
 

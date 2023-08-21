@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-2.jpg" alt="Editorial - febrero 2022">
 </figure>
 
-### Follow Jesus
+## Follow Jesus
 
 Stop for a moment, please.
 
@@ -81,7 +81,7 @@ And the ancient psalmist also asks us to move away from fear in order to be well
 
 Free from fear, open, united... that's how our heavenly Father wants us.
 
-> “Pentecost was the call to spiritual unity among gospel believers. When the spirit descended on the disciples at Jerusalem, the same thing happened in Philadelphia, Alexandria, and at all other places where true believers dwelt. It was literally true that “there was but one heart and soul among the multitude of the believers.” The religion of Jesus is the most powerful unifying influence the world has ever known.” ([UB 194:3.17](/en/The_Urantia_Book/194#p3_17))
+> “The religion of Jesus is the most powerful unifying influence the world has ever known.” ([UB 194:3.17](/en/The_Urantia_Book/194#p3_17))
 
 But our Father asks us for more…
 
@@ -89,7 +89,7 @@ In a beautiful little book, _Listen to be_, the priest Franz Jalics tells us his
 
 One day, when he was going to start teaching at the seminary, a lady came with great urgency and exalted spirit to claim that she wanted to speak with him. Although it did not suit him to do so, he agreed, thinking of dispatching the matter quickly. She began to vent in a hasty way, hardly allowing the priest to intervene, and so she continued talking and talking, for 40 minutes, while the priest listened to her, not without a certain impatience.
 
-“Father,” she told me when she finished, getting up, “I am immensely grateful to you because you have solved my problem.
+“Father,” she told me when she finished, getting up, “I am immensely grateful to you because you have solved my problem.”
 
 I was stumped. But if I... I had hardly said anything!
 
@@ -107,7 +107,7 @@ A healing attitude that our Creator, Michael of Nebadon, used precisely with his
 
 If we really seek to spread the book, expand the Urantia movement, expand minds with the gospel, it would be a matter of truly following the Master and his way of BEING: listening to people in a different, deeper, deeper way, to the style of Jesus of Nazareth, who trusted human beings and devoted time to them.
 
-> “Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh. He attained an idealistic religious life in the very midst of a realistic world. Jesus did not share Paul’s pessimistic view of humankind. The Master looked upon men as the sons of God and foresaw a magnificent and eternal future for those who chose survival. He was not a moral skeptic; he viewed man positively, not negatively. He saw most men as weak rather than wicked, more distraught than depraved. But no matter what their status, they were all God’s children and his brethren.” ([UB 196:2.9](/en/The_Urantia_Book/196#p2_9))
+> “Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh.” ([UB 196:2.9](/en/The_Urantia_Book/196#p2_9))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Editorial-feb-22-1.jpg" alt="Editorial - febrero 2022">

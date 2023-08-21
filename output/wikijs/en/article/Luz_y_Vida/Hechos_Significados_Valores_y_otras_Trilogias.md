@@ -174,7 +174,7 @@ In case it helps at all, here is this text from Document 102, section 3:
 
 > _En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios._ 
 > 
-> _Science is only satisfied with first causes, religion with supreme personality, and philosophy with unity. Revelation affirms that these three are one, and that all are good. The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real._ <a id="a199_414"></a>[LU 102:3.5-15](/es/The_Urantia_Book/102#p3_5)
+> _Science is only satisfied with first causes, religion with supreme personality, and philosophy with unity. Revelation affirms that these three are one, and that all are good. The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real._ <a id="a199_414"></a>[UB 102:3.5-15](/en/The_Urantia_Book/102#p3_5)
 
 ## References
 

@@ -86,7 +86,7 @@ This extensive work was published by the magazine _The Fellowship Herald_, of th
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_11/El-Coran-y-el-LU.jpg" alt="El Corán y el LU" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_11/El-Coran-y-el-LU.jpg" alt="The Quran and UB" width="250">
 </figure>
 
 [**The Quran under the spiritual lights of _The Urantia Book_ (Omar Delgado)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2021/08/EL-CORAN-BAJO-LAS-LUCES-ESPIRITUALES-DEL-LU.pdf)

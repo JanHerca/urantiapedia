@@ -104,7 +104,7 @@ Así es la manifestación del espíritu en nuestras vidas. Así puede ser la exp
 
 Todos tenemos dentro una criatura que quiere nacer (un proyecto, una idea, una misión) que requiere, como José, trabajar y escuchar; y también, como María, amar y nutrir esa criatura para que por fin nazca. Confiemos en que no pasará mucho tiempo antes de que veamos la luz. Observemos silenciosamente todas las cosas. No pasará mucho tiempo antes de que le veamos a Él, la Palabra.
 
-> La Palabra se hizo carne y acampó entre nosotros… Mediante ella se hizo todo; sin ella no se hizo nada de cuanto ha sido creado. Todo lo que llegó a ser estaba lleno de su vida. Y esa vida era la luz de los hombres. La luz brilla en las tinieblas, y las tinieblas jamás la han apagado. ([Juan 1:1](/es/Bible/John/1#v1))
+> La Palabra se hizo carne y acampó entre nosotros... Mediante ella se hizo todo; sin ella no se hizo nada de cuanto ha sido creado. Todo lo que llegó a ser estaba lleno de su vida. Y esa vida era la luz de los hombres. La luz brilla en las tinieblas, y las tinieblas jamás la han apagado. ([Juan 1:1](/es/Bible/John/1#v1))
 
 Feliz Nacimiento. Felices Fiestas.
 

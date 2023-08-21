@@ -43,7 +43,7 @@ And so far everything would be fine if, as Sadler did, we do not take into accou
 
 In paper 53 (“The Lucifer Rebellion”), section 4, we can read:
 
-> _The Lucifer manifesto was issued at the annual conclave of Satania on the sea of glass, in the presence of the assembled hosts of Jerusem, on the last day of the year, about two hundred thousand years ago, Urantia time. Satan proclaimed that worship could be accorded the universal forces—physical, intellectual, and spiritual—but that allegiance could be acknowledged only to the actual and present ruler, Lucifer, the “friend of men and angels” and the “God of liberty.”_ ([UB 53:4.1](/en/The_Urantia_Book/53#p4_1))
+> _The Lucifer manifesto was issued at the annual conclave of Satania on the sea of glass, in the presence of the assembled hosts of Jerusem, on the last day of the year, about two hundred thousand years ago, Urantia time._ ([UB 53:4.1](/en/The_Urantia_Book/53#p4_1))
 
 Later, in paper 54 (“The problems of the Lucifer rebellion”), section 5:
 

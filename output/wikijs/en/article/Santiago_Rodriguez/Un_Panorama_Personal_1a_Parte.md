@@ -57,7 +57,7 @@ It is any interaction between an active and questioning “I” and any other ac
 
 It will be through knowledge and experience how our mind (the mind is precisely the system that human beings have to interpret and correlate all these facts) will organize reality for ourselves, which will undoubtedly give it a certain subjective component, that will allow reality itself to be richer and more attractive than it would be if it only included objective components.
 
-$Y$ is precisely the total knowledge that each personality has of reality that constitutes the maximum achievement, the maximum aspiration of the being; eagerness that will lead us both personally and as a group to inquire $y$ deepen into all observable or knowable facts that we include in the framework of reality.
+And is precisely the total knowledge that each personality has of reality that constitutes the maximum achievement, the maximum aspiration of the being; eagerness that will lead us both personally and as a group to inquire $y$ deepen into all observable or knowable facts that we include in the framework of reality.
 
 Two aspects of reality immediately become apparent:
 

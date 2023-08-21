@@ -37,7 +37,7 @@ Agriculture is an extraordinarily ennobling activity, along with industry, insti
 
 _The Urantia Book_ also exhorts us to give it the importance and consideration it deserves, [[UB 68:5.13](/en/The_Urantia_Book/68#p5_13)] since social advancement depends on it. He even illustrates us with the examples of the American Indians, who did not come to form a state, compared to the Romans, who instead created a great empire by devoting adequate attention to agriculture and land and crop ownership [UB 71:1.3](/en/The_Urantia_Book/71#p1_3)
 
-_The Urantia Book_ tells us that this activity, also evolutionary, begins with the arrival of the Planetary Prince, an event that occurred on Urantia 500,000 years ago [(741.2) 66:0.2], therefore prior to the rebellion of Lucifer, which tells us should help to dismiss the idea of punishment, and continued with more intensity after the arrival of Adam and Eve, almost 38,000 years ago [[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)]
+_The Urantia Book_ tells us that this activity, also evolutionary, begins with the arrival of the Planetary Prince, an event that occurred on Urantia 500,000 years ago [[UB 66:0.2](/en/The_Urantia_Book/66#p0_2)], therefore prior to the rebellion of Lucifer, which tells us should help to dismiss the idea of punishment, and continued with more intensity after the arrival of Adam and Eve, almost 38,000 years ago [[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)]
 
 So obviously, the appearance of agriculture on our planet must be much earlier than the dates currently accepted by our historians.
 

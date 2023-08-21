@@ -57,7 +57,7 @@ La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra
 > Padre nuestro que estás en los cielos,  
 > Santificado sea tu nombre.  
 > Que venga tu reino; que se haga tu voluntad  
-> En la tierra como en el cielo. <a id="a59_33"></a>[LU 144:3.3](/es/The_Urantia_Book/144#p3_3)
+> En la tierra como en el cielo. <a id="a59_33"></a>[LU 144:3.3-6](/es/The_Urantia_Book/144#p3_3)
 
 Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno, con su partida física de nuestro planeta. Sus discípulos tenían la encomienda de seguir expandiendo esa elevación de la consciencia que era su mensaje, algo que «hará nuevo al viejo mundo». 
 
@@ -73,7 +73,7 @@ Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno,
 
 Jesús mismo se sintió eufórico ante estos hechos, pleno de esperanza hacia sus seguidores.
 
-> … justo antes de compartir la cena, cuando Jesús experimentó uno de los pocos momentos de éxtasis emocional que sus seguidores tuvieron la ocasión de presenciar. Dijo: «Te doy gracias, Padre, Señor del cielo y de la tierra, porque aunque este evangelio maravilloso se oculta a los sabios y engreídos, el espíritu ha revelado estas glorias espirituales a estos hijos del reino. <a id="a75_379"></a>[LU 163:6.4](/es/The_Urantia_Book/163#p6_4)
+> ...justo antes de compartir la cena, cuando Jesús experimentó uno de los pocos momentos de éxtasis emocional que sus seguidores tuvieron la ocasión de presenciar. Dijo: «Te doy gracias, Padre, Señor del cielo y de la tierra, porque aunque este evangelio maravilloso se oculta a los sabios y engreídos, el espíritu ha revelado estas glorias espirituales a estos hijos del reino. <a id="a75_379"></a>[LU 163:6.3](/es/The_Urantia_Book/163#p6_3)
 
 Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su perspicacia espiritual, por lo que al día siguiente reunió a los setenta y les dio una clave muy importante para ellos (y también para nosotros):
 
@@ -145,7 +145,7 @@ Y san Francisco le respondió:
 
 »Y si nosotros, obligados por el hambre y el frío de la noche, volvemos todavía a llamar, gritando y suplicando entre llantos por el amor de Dios, que nos abra y nos permita entrar, y él más enfurecido dice: «¡vaya con estos pesados indeseables! Yo les voy a dar su merecido». Y sale con un palo nudoso y nos coge por el capucho y nos tira a tierra y nos arrastra por la nieve y nos apalea con todos los nudos de aquel palo; si todo esto lo soportamos con paciencia y con gozo, acordándonos de los padecimientos de Cristo bendito, que nosotros hemos de sobrellevar por su amor, ¡oh, hermano León!, **escribe que aquí hay alegría perfecta**.
 
-»Y ahora escucha la conclusión, hermano León: por encima de todas las gracias y de todos los dones del Espíritu Santo que Cristo concede a sus amigos, está el de **vencerse a sí mismo** y de sobrellevar gustosamente, por amor de Cristo Jesús, penas, injurias, oprobios e incomodidades. Porque en todos los demás dones de Dios no podemos gloriarnos, ya que no son nuestros, sino de Dios; por eso dice el apóstol: ¿qué tienes que no hayas recibido de Dios? Y si lo has recibido de Él, ¿por qué te glorías como si lo tuvieras de ti mismo? (1 Cor 4,7). Pero en la cruz de la tribulación y de la aflicción podemos gloriarnos, ya que esto es nuestro.»
+»Y ahora escucha la conclusión, hermano León: por encima de todas las gracias y de todos los dones del Espíritu Santo que Cristo concede a sus amigos, está el de **vencerse a sí mismo** y de sobrellevar gustosamente, por amor de Cristo Jesús, penas, injurias, oprobios e incomodidades. Porque en todos los demás dones de Dios no podemos gloriarnos, ya que no son nuestros, sino de Dios; por eso dice el apóstol: ¿qué tienes que no hayas recibido de Dios? Y si lo has recibido de Él, ¿por qué te glorías como si lo tuvieras de ti mismo? ([1 Cor 4,7](/es/Bible/1_Corinthians/4#v7)). Pero en la cruz de la tribulación y de la aflicción podemos gloriarnos, ya que esto es nuestro.»
 
 Tremendo texto, ¿no?
 

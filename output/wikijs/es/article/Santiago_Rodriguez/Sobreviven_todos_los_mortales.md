@@ -106,7 +106,7 @@ Observemos nuestra realidad, y veamos nuestras dotes (repito innatas, pues todos
 
 Además, disponemos de algo más grande: ¿alguien duda de que posee voluntad? Aunque no sepamos que tenemos una «personalidad», ¿alguien duda de que cada uno de nosotros es diferente a los demás? El hecho de poseer voluntad, nos diferencia, nos aparta del reino animal. Y junto a la Voluntad aparece automáticamente un grupo de herramientas que no podemos ignorar, porque son consustanciales a nuestra esencia de seres humanos de potencial de supervivencia, y aunque no seamos conscientes de su existencia, funcionan para nosotros de manera autónoma: El LU nos indica que el hecho de poseer voluntad, incorpora automáticamente el poder de optar por adorar y ascender.
 
-> _... Ahora bien, babiendo aparecido en las criaturas evolutivas del planeta la voluntad, el poder de optar por adorar y ascender,..._ <a id="a108_136"></a>[LU 62:7.6](/es/The_Urantia_Book/62#p7_6)
+> _... Ahora bien, habiendo aparecido en las criaturas evolutivas del planeta la voluntad, el poder de optar por adorar y ascender,..._ <a id="a108_136"></a>[LU 62:7.6](/es/The_Urantia_Book/62#p7_6)
 
 Mi conclusión de este párrafo es que el hecho de poseer voluntad es equivalente a poseer la capacidad de la Adoración y la de ascender. Es decir, superar la muerte material y poder continuar en los mundos de estancia. Pero la frase en negrita parece que dice que tanto la acción de la adoración como la intención de la ascensión (de la continuación de la existencia) <ins>es una opción</ins> de la criatura, <ins>no es un logro adquirido</ins> por el hecho de poseer voluntad.
 
@@ -146,7 +146,7 @@ Insistiendo en lo comentado anteriormente, la dotación de mente y de personalid
 > 
 > 1. _El ***reconocimiento matemático*** o..._
 > 2. _El reconocimiento razonado de la obligación de la ***conducta moral***._ 
-> 3. ***La comprensión por la fe de la adoración fraternal de la Deidad...*** <a id="a148_78"></a>[LU 16:8.8-11](/es/The_Urantia_Book/16#p8_8)
+> 3. ***La comprensión por la fe de la adoración fraternal de la Deidad...*** <a id="a148_78"></a>[LU 16:8.16-18](/es/The_Urantia_Book/16#p8_16)
 
 Más adelante insiste en el mismo hecho:
 
@@ -155,7 +155,8 @@ Más adelante insiste en el mismo hecho:
 > .... _En la autoconciencia humana existen cuatro comprensiones latentes e inberentes de la realidad universal:_
 > 1. _La búsqueda del conocimiento, la lógica de la ciencia._
 > 2. _La búsqueda de los valores morales, el sentido del deber._
-> 3. _La búsqueda de los valores espirituales, la experiencia religiosa. 196:9 4. La búsqueda de los valores de la personalidad, la habilidad de reconocer la realidad de Dios como personalidad y la comprensión paralela de nuestra relación fraternal con las demás personalidades_ <a id="a157_279"></a>[LU 16:9.9-13](/es/The_Urantia_Book/16#p9_9)
+> 3. _La búsqueda de los valores espirituales, la experiencia religiosa.
+> 4. _La búsqueda de los valores de la personalidad, la habilidad de reconocer la realidad de Dios como personalidad y la comprensión paralela de nuestra relación fraternal con las demás personalidades_ <a id="a157_279"></a>[LU 16:9.9-13](/es/The_Urantia_Book/16#p9_9)
 
 A mí me parece claro que no podremos excusar el hecho de que alguien no inicia su búsqueda de Dios de alguna manera porque desconoce que puede existir, o lo que es lo mismo, porque los dioses de los que le han hablado no le convencen.
 
@@ -165,7 +166,7 @@ En la siguiente cita aparece claramente descrito que tenemos una dote espiritual
 
 > _... pero las posibilidades del progreso espiritual en la carrera de la ascensión son iguales para todos; es posible alcanzar niveles crecientes de discernimiento espiritual y de significados cósmicos independientemente de todas las diferencias sociomorales de los ambientes materiales diversificados en los mundos evolutivos._ <a id="a165_330"></a>[LU 5:1.4](/es/The_Urantia_Book/5#p1_4)
 
-> _... a la ver que todos pueden igualmente elegir aceptar la uniforme dirección espiritual de estos Monitores Misteriosos._ <a id="a167_125"></a>[LU 5:1.5](/es/The_Urantia_Book/5#p1_5)
+> _... a la vez que todos pueden igualmente elegir aceptar la uniforme dirección espiritual de estos Monitores Misteriosos._ <a id="a167_125"></a>[LU 5:1.5](/es/The_Urantia_Book/5#p1_5)
 
 > _Si la mente de un hombre está sincera y espiritualmente motivada, si tal alma humana desea conocer a Dios y hacerse como él,..._ <a id="a169_132"></a>[LU 5:1.7](/es/The_Urantia_Book/5#p1_7)
 
@@ -196,13 +197,13 @@ Aquí nos relata lo que sucede en el caso de que un individuo mortal con Ajustad
 > 1. _Mortales Planetarios._
 > 2. _Sobrevivientes Adormecidos._ <a id="a196_35"></a>[LU 30:4.1](/es/The_Urantia_Book/30#p4_1)
 
-> 2. _Sobrevivientes Adormecidos. Todos los mortales de estado de sobrevivencia,... la llegada de un Hijo de Dios para pasar lista a la edad y adjudicar el reino, y ésta es la práctica general en todo Nebadon. Se dijo de Cristo Miguel que, cuando ascendió a las alturas al fin de su labor en la tierra: «Condujo a una gran multitud de cautivos». Y estos cautivos eran los sobrevivientes adormecidos desde los días de Adán basta el día de la resurrección del Maestro en Urantia...._ <a id="a198_482"></a>[LU 30:4.4](/es/The_Urantia_Book/30#p4_4)
+> 2. _Sobrevivientes Adormecidos. Todos los mortales de estado de sobrevivencia,... la llegada de un Hijo de Dios para pasar lista a la edad y adjudicar el reino, y ésta es la práctica general en todo Nebadon. Se dijo de Cristo Miguel que, cuando ascendió a las alturas al fin de su labor en la tierra: «Condujo a una gran multitud de cautivos». Y estos cautivos eran los sobrevivientes adormecidos desde los días de Adán basta el día de la resurrección del Maestro en Urantia...._ <a id="a198_482"></a>[LU 30:4.11](/es/The_Urantia_Book/30#p4_11)
 
 Cristo Miguel condujo a una gran cantidad de cautivos, los sobrevivientes adormecidos, no dice que fueran todos los que habían muerto y no se habían repersonalizado al tercer período. Fueron muchos, pero no todos. Además a mí me parece sintomático que a unos los llame Mortales Planetarios (y no precisamente «sobrevivientes Planetarios»), y a los otros curiosamente «Sobrevivientes», es decir los que han sobrevivido, entiendo que es una fracción del total de Mortales Planetarios. Tenemos más citas que me llevan a una conclusión similar:
 
 > _.... Aun la mente humana, la mente personal, no posee cualidades de supervivencia aparte de la identificación con el espiritu. La mente es un don de la divinidad, pero no es inmortal cuando funciona sin discernimiento espiritual, y cuando carece de la habilidad de adorary anbelar la supervivencia._ <a id="a202_303"></a>[LU 36:5.17](/es/The_Urantia_Book/36#p5_17)
 
-> _...: todas las almas de toda fase posible de la existencia mortal sobrevivirán, siempre y..._ <a id="a204_97"></a>[LU 40:5.16](/es/The_Urantia_Book/40#p5_16)
+> _...: todas las almas de toda fase posible de la existencia mortal sobrevivirán, siempre y..._ <a id="a204_97"></a>[LU 40:5.19](/es/The_Urantia_Book/40#p5_19)
 
 Este último párrafo es definitivo: la continuidad no es un don, es un logro con unas condiciones. La existencia de un alma en nuestro interior no garantiza la supervivencia así sin más. Hay una condición a cumplir que depende sólo y exclusivamente de la voluntad de la criatura: se hace imprescindible que presenten el impulso (aunque sea rudimentario) de hallar a Dios y de lograr la perfección divina. También explícitamente se indica en el siguiente párrafo, que hay seres que no sobreviven:
 
@@ -212,7 +213,7 @@ En <a id="a210_3"></a>[LU 47:2.2](/es/The_Urantia_Book/47#p2_2) (La Guardería d
 
 > "_.... En el caso de la supervivencia de uno o los dos progenitores del niño,..._”
 
-Y además esta elección de continuidad más allá de la muerte física, parece que deba ocurrir durante la edad adulta del mortal en el planeta de nacimiento, como se desprende de la explicación de las siguientes situaciones. Más adelante, en 47:2.4, encontramos un apunte más. Por lo que se ve, se espera que la decisión se tome en la juventud/infancia en la vida en la carne, pues está hablando de niños (hasta 16 años) a los que les alcanza la muerte antes de decidirse:
+Y además esta elección de continuidad más allá de la muerte física, parece que deba ocurrir durante la edad adulta del mortal en el planeta de nacimiento, como se desprende de la explicación de las siguientes situaciones. Más adelante, en [LU 47:2.4](/es/The_Urantia_Book/47#p2_4), encontramos un apunte más. Por lo que se ve, se espera que la decisión se tome en la juventud/infancia en la vida en la carne, pues está hablando de niños (hasta 16 años) a los que les alcanza la muerte antes de decidirse:
 
 > «_Todos los hijos en los mundos en evolución que tienen Ajustador del Pensamiento, pero que antes de la muerte no habían hecho la elección en lo que concierne a la carrera al Paraiso, también..._» <a id="a216_199"></a>[LU 47:2.4](/es/The_Urantia_Book/47#p2_4)
 
@@ -244,7 +245,7 @@ Recordando que la mente es una dádiva del Espíritu Materno de nuestro Universo
 
 > _El orgullo es engañoso, intoxicante y originador del pecado tanto en el individuo como en el grupo, en la raza o en la nación. Es literalmente verdad: «Antes del quebrantamiento es la soberbia»._ <a id="a244_199"></a>[LU 111:6.10](/es/The_Urantia_Book/111#p6_10)
 
-> _Durante la vida física, .... Pero el yo con valor de supervivencia, el yo que puede trascender la experiencia de la muerte, sólo se constituye efectuando una transferencia potencial...se efectúa mediante la sinceridad, la persistencia y la firmeza de las decisiones ***de la criatura humana que busca a Dios***._ <a id="a246_316"></a>[LU 112:2.16](/es/The_Urantia_Book/112#p2_16)
+> _Durante la vida física, .... Pero el yo con valor de supervivencia, el yo que puede trascender la experiencia de la muerte, sólo se constituye efectuando una transferencia potencial...se efectúa mediante la sinceridad, la persistencia y la firmeza de las decisiones ***de la criatura humana que busca a Dios***._ <a id="a246_316"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20)
 
 ¿Qué ocurre si la criatura persiste en su negativa a buscar a Dios?
 

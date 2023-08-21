@@ -27,9 +27,9 @@ Of this peculiar metamorphosis, of this new birth, Christ already spoke many cen
 
 To Nicodemus's perplexity, Jesus replied:
 
-> “And Nicodemus said: “But how can I begin to lay hold upon this spirit which is to remake me in preparation for entering into the kingdom?” Jesus answered: “Already does the spirit of the Father in heaven indwell you. If you would be led by this spirit from above, very soon would you begin to see with the eyes of the spirit, and then by the wholehearted choice of spirit guidance would you be born of the spirit since your only purpose in living would be to do the will of your Father who is in heaven. And so finding yourself born of the spirit and happily in the kingdom of God, you would begin to bear in your daily life the abundant fruits of the spirit.””
+> “Already does the spirit of the Father in heaven indwell you. If you would be led by this spirit from above, very soon would you begin to see with the eyes of the spirit, and then by the wholehearted choice of spirit guidance would you be born of the spirit since your only purpose in living would be to do the will of your Father who is in heaven. And so finding yourself born of the spirit and happily in the kingdom of God, you would begin to bear in your daily life the abundant fruits of the spirit.”
 > 
-> Nicodemus was thoroughly sincere. He was deeply impressed but went away bewildered. Nicodemus was accomplished in self-development, in self-restraint, and even in high moral qualities. He was refined, egoistic, and altruistic; but he did not know how to *submit* his will to the will of the divine Father as a little child is willing to submit to the guidance and leading of a wise and loving earthly father, thereby becoming in reality a son of God, a progressive heir of the eternal kingdom. ([UB 142:6.7-8](/en/The_Urantia_Book/142#p6_7))
+> Nicodemus was thoroughly sincere. He was deeply impressed but went away bewildered. Nicodemus was accomplished in self-development, in self-restraint, and even in high moral qualities. He was refined, egoistic, and altruistic; but **he did not know how to *submit* his will to the will of the divine Father as a little child is willing to submit to the guidance and leading of a wise and loving earthly father, thereby becoming in reality a son of God, a progressive heir of the eternal kingdom**. ([UB 142:6.7-8](/en/The_Urantia_Book/142#p6_7))
 
 This radical change that implies submitting our will to a greater instance (stubborn reality forcefully shows us) is usually promoted by experiences of **suffering**; these are the ones that **most promote** awareness and spiritual evolution. This is so because of the upheavals (sometimes authentic seismic movements) that they make us experience. These removals have the virtue of taking us out of our comfort zone, from sterile distraction, from attachment to material comfort.
 
@@ -37,11 +37,11 @@ Based on these experiences of suffering, we ask ourselves questions that we woul
 
 In the poem “Dark Night”, Saint John of the Cross left an incomparable testimony, due to its depth and beauty, of the transforming power of suffering, of which night is a metaphor. Here an excerpt:
 
-> _«Oh night you guided!_<br>
+> _“Oh night you guided!_<br>
 > _Oh kind night_<br>
 > _more than the dawn!_<br>
 > _Oh night that you joined Beloved with beloved,_<br>
-> _beloved into the Beloved transformed!»_<br>
+> _beloved into the Beloved transformed!”_<br>
 
 How beautiful what he tells us: joining the Beloved (God) with the beloved (our soul), transforming the beloved into the Beloved...
 
@@ -49,11 +49,11 @@ All of this is a wake-up call for those who want to spend their life on earth wi
 
 The curious thing is that precisely these shocks or earthquakes that life has and that make us grow spiritually also allow us to become more firmly rooted in what is unalterable. It really does not matter what happens outside, the storms that remove our existence, as long as we are anchored with our most sacred intimacy. Saint John of the Cross tells us in a poem:
 
-> _«Stay me and forget me,_<br>
+> _“Stay me and forget me,_<br>
 > _I reclined my face on the Beloved;_<br>
 > _everything ceased, and leave me,_<br>
 > _leaving my care_<br>
-> _among the forgotten lilies.»_<br>
+> _among the forgotten lilies.”_<br>
 
 That closeness to the divine spark makes this great poet say something as beautiful as that he left his care, his worries “forgotten among the lilies.”
 
@@ -71,7 +71,7 @@ These two aspects, the inner and the outer, have their place in life; and they m
 
 This aspect is closely linked to the famous mandate of Jesus' last supper:
 
-> After a few moments of informal conversation, Jesus stood up and said: “When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. ([UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
+> And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. ([UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
 
 Jesus has loved us so deeply, knowing the great value that human beings have, with a divine spark and a soul unfolding in our thoughts, that he also invites us to realize his existence in all other human beings, as they exist in us. themselves.
 
@@ -79,11 +79,11 @@ How do you live everyday life, from moment to moment, from then on? Or better, h
 
 Let's see what the great John of the Cross recommends, taking the example of Christ and following in his footsteps. He summed it up masterfully in his “**Spiritual Canticle**” when he wrote that the creatures had seen the Beloved pass by “a thousand graces pouring out”:
 
-> _«Thank you very much spilling_<br>
+> _“Thank you very much spilling_<br>
 > _he passed through these groves with haste;_<br>
 > _y, looking at them_<br>
 > _with just his figure,_<br>
-> _dresses left them beautiful.»_<br>
+> _dresses left them beautiful.”_<br>
 
 Let us make this attitude our own, pouring out a thousand thanks as we go, making Heaven on Earth, showing the experience of God crystallized in the here and now.
 
@@ -91,7 +91,7 @@ Living pouring out good is within our reach, it is within your reach... because 
 
 Let us make a commitment to ourselves not to live in any other way, to live our moments in the way that **Jesus of Nazareth showed us:**
 
-> The faith of Jesus visualized all spirit values as being found in the kingdom of God; therefore he said, “Seek first the kingdom of heaven.” Jesus saw in the advanced and ideal fellowship of the kingdom the achievement and fulfillment of the “will of God.” The very heart of the prayer which he taught his disciples was, “Your kingdom come; your will be done.” Having thus conceived of the kingdom as comprising the will of God, he devoted himself to the cause of its realization with amazing self-forgetfulness and unbounded enthusiasm. But in all his intense mission and throughout his extraordinary life there never appeared the fury of the fanatic nor the superficial frothiness of the religious egotist. ([UB 196:0.8](/en/The_Urantia_Book/196#p0_8))
+> The very heart of the prayer which he taught his disciples was, “Your kingdom come; your will be done.” ([UB 196:0.8](/en/The_Urantia_Book/196#p0_8))
 
 Having thus conceived that the kingdom consisted of the will of God, he devoted himself to the cause of making it come true with admirable self-forgetfulness and boundless enthusiasm.
 

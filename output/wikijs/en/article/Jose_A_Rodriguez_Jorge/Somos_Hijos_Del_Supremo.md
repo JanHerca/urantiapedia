@@ -23,7 +23,7 @@ Jesus also makes it clear in his commandments: be perfect, as God in heaven is p
 <figcaption><em>Illustration: Natalia Ruiz</em></figcaption>
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## References
 

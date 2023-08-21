@@ -54,7 +54,7 @@ Es sobre todo el aporte recibido a través de estas sesiones de psicoanálisis l
 
 Todo encajaba con el fin de poder estudiar en compañía de varias personas, entre ellas filósofos y psicólogos, todo ello durante años. Hemos reflexionado acerca de las indicaciones de _El Libro de Urantia_ sobre el ser humano y, por encima de todo, sobre su concordancia en nuestra vida.
 
-Ya en LU 0:5.11, en el Prólogo del libro, tenemos esta magnífica frase:
+Ya en [LU 0:5.11](/es/The_Urantia_Book/0#p5_11), en el Prólogo del libro, tenemos esta magnífica frase:
 
 > _La personalidad es el don incomparable que el Padre Universal confiere a las energías vivientes y asociadas de la materia, la mente y el espíritu, y que sobrevive al sobrevivir el alma morontial._ <a id="a58_200"></a>[LU 0:5.11](/es/The_Urantia_Book/0#p5_11)
 

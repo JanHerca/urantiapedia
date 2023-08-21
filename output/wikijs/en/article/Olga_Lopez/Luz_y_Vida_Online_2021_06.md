@@ -21,7 +21,7 @@ Light and Life — June 2021
 - Works – our recommendations of the month
 - History and teachings – Chronicles of the life of Jesus
 - Books – our recommendations of the month
-- Recommended blog: Ágora 2.0
+- Recommended blog: Agora 2.0
 - Video – our recommendation of the month
 - The quality of a better society
 - Urantia Questionnaire: José Luis Navarro
@@ -33,7 +33,7 @@ Light and Life — June 2021
 Maria Jose Sanchez Santamaria
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/Editorial-junio21.jpg" alt="Editorial junio 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Editorial-junio21.jpg" alt="Editorial june 2021" width="250">
 </figure>
 
 A striking feature of the Urantia movement is that many of us come to this revealed book after seeking answers from various sources. We are talking about a large number of people who are curious to discover the meaning of our existence on this blue planet.
@@ -72,7 +72,7 @@ God hears the call of our hearts and has provided us with this beautiful blue bo
 ## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/Carta-para-astronomos-y-astrofisicos.jpg" alt="Carta para astrónomos y astrofísicos" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Carta-para-astronomos-y-astrofisicos.jpg" alt="Letter to astronomers and astrophysicists" width="250">
 </figure>
 
 [**Letter to astronomers and astrophysicists (author unknown)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/Carta-para-astr%C3%B3nomos-y-astrof%C3%ADsicos.pdf)
@@ -83,7 +83,7 @@ In this extensive and extremely interesting work, translated by Jan Herca, the a
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-Sol-y-su-destino.jpg" alt="El Sol y su destino" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-Sol-y-su-destino.jpg" alt="The Sun and its destiny" width="250">
 </figure>
 
 [**The Sun and its destiny (Jan Herca)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/01/El-Sol-y-su-destino.pdf)
@@ -98,7 +98,7 @@ As an introduction to this interesting and entertaining work, what better than t
 ---
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-gobierno-de-un-planeta-vecino.jpg" alt="El gobierno de un planeta vecino" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-gobierno-de-un-planeta-vecino.jpg" alt="The government of a neighboring planet" width="250">
 </figure>
 
 [**The government of a neighboring planet: the possible utopia (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
@@ -109,7 +109,7 @@ Document 72 is the source of many useful ideas for developing healthy societies 
 ---
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-mundo-de-la-cruz.jpg" alt="El mundo de la cruz" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/El-mundo-de-la-cruz.jpg" alt="The world of the cross" width="250">
 </figure>
 
 [**The world of the cross (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2019/05/El-mundo-de-la-cruz.pdf)
@@ -122,7 +122,7 @@ In this work, the author addresses the interesting exercise of locating the plac
 ## History and teachings – Chronicles of the life of Jesus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/Vida-y-ensenanza-de-Jesus.jpg" alt="Crónicas de la vida de Jesús - junio 2021" width="250">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Vida-y-ensenanza-de-Jesus.jpg" alt="Chronicles of the life of Jesus - june 2021" width="250">
 </figure>
 
 We present the following installment of the chronicles of the life of Jesus, which on this occasion contains what the revealers tell us in document 123. Within the PDF you will see a button from which you can access the text of the document from the Foundation's website Urantia.
@@ -133,7 +133,7 @@ We present the following installment of the chronicles of the life of Jesus, whi
 ## Books – our recommendations of the month
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/VEVBB.jpg" alt="Vivir en Verdad, Belleza y Bondad" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/VEVBB.jpg" alt="Living in truth, beauty and goodness" width="130">
 </figure>
 
 Living in truth, beauty and goodness (Jeffrey Wattles)
@@ -146,7 +146,7 @@ This essay develops in its pages what should be the philosophy of living (inspir
 ---
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/Los-Jardines-del-Eden.jpg" alt="Los Jardines del Edén" width="130">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Los-Jardines-del-Eden.jpg" alt="The Gardens of Eden" width="130">
 </figure>
 
 The Gardens of Eden: The Life and Times of Adam and Eve (Richard Warren)
@@ -156,15 +156,15 @@ This novel by reader and writer Richard (Rick) Warren focuses on an episode that
 [Link with more information about the book and its download](https://aue.urantia-association.org/inspirado-en-el-lu-los-jardines-del-eden/)
 <br style="clear:both" />
 
-## Recommended blog: Ágora 2.0
+## Recommended blog: Agora 2.0
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/LOGOAGORA2.0-web.png" alt="Ágora 2.0">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/LOGOAGORA2.0-web.png" alt="Agora 2.0">
 </figure>
 
 In June 2020, a group of six Spanish-speaking readers (three men and three women) wanted to recover the spirit of Urmia and create a space for confluence and fraternity with other religions, remaining neutral and without expressing their personal beliefs. That space is called Agora 2.0 (in honor of the agora or square of ancient Athens where the Athenians met to discuss their laws and decide the political future of their city).
 
-The Ágora 2.0 group organizes biweekly virtual conferences in which it proposes a topic that the speakers of the invited religions and doctrines must develop in accordance with their beliefs. In this blog the announcements to the next presentations appear, as well as a link to see the videos of the presentations once they have been held. The presentations are on his [YouTube channel](https://www.youtube.com/channel/UC4rL_YSav-C6U6I_q-zcaVg) and on the [iVoox platform](https://www.ivoox.com/perfil-agora-2-0_aj_24423771_1.html) in podcast format.
+The Agora 2.0 group organizes biweekly virtual conferences in which it proposes a topic that the speakers of the invited religions and doctrines must develop in accordance with their beliefs. In this blog the announcements to the next presentations appear, as well as a link to see the videos of the presentations once they have been held. The presentations are on his [YouTube channel](https://www.youtube.com/channel/UC4rL_YSav-C6U6I_q-zcaVg) and on the [iVoox platform](https://www.ivoox.com/perfil-agora-2-0_aj_24423771_1.html) in podcast format.
 
 [https://agora-20.blogspot.com/](https://agora-20.blogspot.com/)
 
@@ -174,7 +174,7 @@ The Ágora 2.0 group organizes biweekly virtual conferences in which it proposes
 ### The origin of _The Urantia Book_. Is it a revelation?
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/Video-El-origen-del-LU.jpg" alt="Vídeo recomendado: El origen del LU">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/Video-El-origen-del-LU.jpg" alt="Recommended video: The origin of UB">
 </figure>
 
 In [this video](https://www.youtube.com/watch?v=iiMnChTrRm4) of the channel [Proyecto Orion](https://www.youtube.com/channel/UCg_5tFnukLHZHd5KuWvfUVA) there is an interesting explanation about how the fifth revelation came to us, taking as sources the writings that in their day were made by prominent readers of _The Book of Urantia_. The video details the course of events over the years and clears up much confusion about the origin of the Urantia Papers.
@@ -184,7 +184,7 @@ In [this video](https://www.youtube.com/watch?v=iiMnChTrRm4) of the channel [Pro
 L. Coll
 
 <figure id="Figure_11" class="image urantiapedia">
-<img src="/image/article/Luz_y_Vida/LyV_2021_06/La-calidad-de-una-sociedad-FOTO.jpg" alt="La calidad de una sociedad mejor">
+<img src="/image/article/Luz_y_Vida/LyV_2021_06/La-calidad-de-una-sociedad-FOTO.jpg" alt="The quality of a better society">
 </figure>
 
 

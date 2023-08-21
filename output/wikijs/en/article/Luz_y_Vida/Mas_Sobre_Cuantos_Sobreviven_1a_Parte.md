@@ -171,7 +171,7 @@ To what has been said and said about “who will survive”, two more things sho
 > 
 > _It was the ***divine plan*** that the mortal races of Urantia should have had ***physical natures more naturally spirit responsive***._
 > 
-> _Notwithstanding this ***double disaster to man’s nature and his environment***..._ (<a id="a196_88"></a>[LU 34:7.4-6](/es/The_Urantia_Book/34#p7_4))
+> _Notwithstanding this ***double disaster to man’s nature and his environment***..._ (<a id="a196_88"></a>[UB 34:7.4-6](/en/The_Urantia_Book/34#p7_4))
 
 We suffer, from the outset, just for being born here, a double disaster: a BADLY ordered society (thanks to Caligastia) and a physical nature NOT AT ALL sensitive to the spirit (thanks to Adam). In such an environment, and with such a nature, what do they want? What do these wretches do? On top of that, are they not going to survive, because they are bad or unconscious or consumerists?
 

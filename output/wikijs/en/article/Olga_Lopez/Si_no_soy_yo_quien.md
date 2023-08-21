@@ -25,7 +25,7 @@ A few years ago, I read a very interesting article in the _Journal_, which devel
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/14.jpg">
-<figcaption><em>... Jesus said: "Whoever wants to be the greatest, let him be the servant of all»</em> <a href="/en/The_Urantia_Book/56#p10_14">LU 56:10.14</a></figcaption>
+<figcaption><em>... Jesus said: “Whoever wants to be the greatest, let him be the servant of all”</em> <a href="/en/The_Urantia_Book/56#p10_14">UB 56:10.14</a></figcaption>
 </figure>
 
 According to the RAE dictionary, a leader is a “person who is followed by a group, recognizing him or her as a leader or guide”. Personally, I think this definition should be expanded to include another type of leader: what other readers of the book define as “servant-leader.” What was, for example, Jesus of Nazareth. Let us remember his words:

@@ -17,7 +17,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <figcaption><em>Monique Fennes drawing</em></figcaption>
 </figure>
 
-<p style=“text-align: center;”>
+<p style="text-align: center;">
 Today I feel an unmatched inner peace. <br>
 And I contemplate my soul, in enviable harmony. <br>
 I pray to God that the feeling lasts. <br>
