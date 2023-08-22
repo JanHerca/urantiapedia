@@ -40,7 +40,7 @@ De Israel Dix (Estocolmo, Suecia)
 
 ## Ambigüedad
 
-El libro afirma que «_[l]as leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros_» [LU 101:4.1](/es/The_Urantia_Book/101#p4_1). Por muy especulativo que sea, hay un modo posible y definitivamente interesante de sortear esta limitación [^1].
+El libro afirma que «_[l]as leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros_» <a id="a42_147"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1). Por muy especulativo que sea, hay un modo posible y definitivamente interesante de sortear esta limitación [^1].
 
 Hay varias afirmaciones en _El Libro de Urantia_ que están formuladas para darles más de un significado. Respecto a la ciencia, permite interpretar una afirmación tanto antes como después de un descubrimiento científico dado. En otras palabras: se puede afirmar un hecho que pronto será descubierto, mientras se presenta simultáneamente aquello que se _considera_ un hecho en el momento presente.
 
@@ -99,7 +99,7 @@ Esta fórmula numérica, aunque provisional, parece la más probable para el sis
 
 Ahora advertiréis que, en la categoría __XX__ de mundos, que tiene dos planetas por sistema solar, hay 9 mundos decimales de 92, de un total de 15 en el sistema terminado de Satania. El porcentaje completo de mundos experimentales de los sistemas solares duales es del uno y medio por ciento. <a id="a99_293"></a>[[LU 49:2.7](/es/The_Urantia_Book/49#p2_7)]
 
-Curiosamente, «_En todo Satania sólo hay nueve mundos de este tipo [de no respiradores]_» [LU 49:3.1](/es/The_Urantia_Book/49#p3_1). ¿Es una coincidencia que el número de mundos experimentales de la serie __XX__ sea el mismo que el número de mundos con no respiradores de todo Satania? ¿Y que el proyectado sistema completo tenga en esa categoría específica 15 mundos, o el 1,5%?
+Curiosamente, «_En todo Satania sólo hay nueve mundos de este tipo [de no respiradores]_» <a id="a101_90"></a>[LU 49:3.1](/es/The_Urantia_Book/49#p3_1). ¿Es una coincidencia que el número de mundos experimentales de la serie __XX__ sea el mismo que el número de mundos con no respiradores de todo Satania? ¿Y que el proyectado sistema completo tenga en esa categoría específica 15 mundos, o el 1,5%?
 
 _El Libro de Urantia_ no nos da un porcentaje concreto de la cantidad prevista de mundos de no respiradores de Satania, pero sí que se ciñe a un porcentaje. Conjeturo que esto, como la ambigüedad sobre la que se ha tratado previamente, es un intento de ser impreciso con el fin de no hacer que la certeza de esta Plantilla de Sistema esté grabada a fuego. Deja lugar para la especulación y las posibilidades. Se nos recuerda que «_Esta expansión conceptual dificilmente sería deseable, porque privaría a los mortales pensantes de los próximos mil años de ese estímulo a la especulación creativa que proporcionan estos conceptos parcialmente revelados. Es mejor que el hombre no reciba una revelación excesiva; eso ahoga la imaginación._» <a id="a103_738"></a>[[LU 30:0.2](/es/The_Urantia_Book/30#p0_2)]
 
@@ -117,7 +117,7 @@ Debido a esta armonía entre percentiles que encajan, excluyo personalmente un t
 <img src="/image/article/Luz_y_Vida/LyV35/13.jpg">
 </figure>
 
-> «_Todos los mundos habitados están básicamente agrupados en sistemas locales para su administración celestial, y cada uno de estos sistemas locales está limitado a unos mil mundos evolutivos. Esta limitación ha sido decretada por los Ancianos de los Días, y se refiere a los planetas efectivamente evolutivos donde viven los mortales con posibilidades de sobrevivir. A este grupo no pertenecen ni los mundos definitivamente establecidos en la luz y la vida ni los planetas que se encuentran en la etapa prehumana de desarrollo de la vida_» <a id="a119_540"></a>[[LU 49:0.2](/es/The_Urantia_Book/49#p0_2)] 
+> «_Todos los mundos habitados están básicamente agrupados en sistemas locales para su administración celestial, y cada uno de estos sistemas locales está limitado a unos mil mundos evolutivos. Esta limitación ha sido decretada por los Ancianos de los Días, y se refiere a los planetas efectivamente evolutivos donde viven los mortales con posibilidades de sobrevivir. A este grupo no pertenecen ni los mundos definitivamente establecidos en la luz y la vida ni los planetas que se encuentran en la etapa prehumana de desarrollo de la vida_» <a id="a119_542"></a>[[LU 49:0.2](/es/The_Urantia_Book/49#p0_2)] 
 
 Una vez más, vemos la palabra «unos» junto a «mil mundos». Sin duda, tienen en cuenta los mundos asentados en luz y vida, así como la vida que todavía no tiene la dignidad de la voluntad.
 

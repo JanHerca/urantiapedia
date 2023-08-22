@@ -127,33 +127,33 @@ De todas formas, tiene poca importancia y tampoco vamos a liarnos a discutir un 
 
 De lo que sí estoy seguro es que lo que el Ajustador hace no lo sabe ni Dios. Ese Mensajero Solitario lo dice bien claro, ni él mismo sabe muy bien qué hace y cómo actúa. Tan sólo sabemos que actúa en el «campo» de la supermente con experiencias superconscientes, o algo así. Si os tengo que ser sinceros, no entiendo nada. Pero sí que entiendo frases tan sencillas de comprender y de interpretar como:
 
-> _Las razas de Urantia están tan ampliamente controladas eléctrica y químicamente, su comportamiento común se parece tanto al de los animales, sus reacciones habituales son tan emotivas, ***que a los Monitores les resulta extremadamente difícil guiarlas y dirigirlas***. ***Estáis tan desprovistos de decisiones valientes y de una cooperación consagrada***, que a vuestros Ajustadores interiores les resulta ***casi imposible*** comunicarse directamente con la mente humana. Incluso cuando les es posible transmitir un destello de verdad nueva al alma mortal evolutiva, a menudo esta revelación espiritual ***ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso***._ <a id="a131_277"></a>[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)
+> _Las razas de Urantia están tan ampliamente controladas eléctrica y químicamente, su comportamiento común se parece tanto al de los animales, sus reacciones habituales son tan emotivas, ***que a los Monitores les resulta extremadamente difícil guiarlas y dirigirlas***. ***Estáis tan desprovistos de decisiones valientes y de una cooperación consagrada***, que a vuestros Ajustadores interiores les resulta ***casi imposible*** comunicarse directamente con la mente humana. Incluso cuando les es posible transmitir un destello de verdad nueva al alma mortal evolutiva, a menudo esta revelación espiritual ***ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso***._ <a id="a129_750"></a>[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)
 
-> _No confundáis ni mezcléis la misión y la influencia del Ajustador con lo que se llama habitualmente la conciencia moral; ***no están directamente relacionadas***._ <a id="a133_167"></a>[LU 110:5.1](/es/The_Urantia_Book/110#p5_1)
+> _No confundáis ni mezcléis la misión y la influencia del Ajustador con lo que se llama habitualmente la conciencia moral; ***no están directamente relacionadas***._ <a id="a131_167"></a>[LU 110:5.1](/es/The_Urantia_Book/110#p5_1)
 
 > _Las experiencias oníricas del hombre, ese desfile desordenado y desconectado de la mente dormida no coordinada, ***ofrecen una prueba adecuada del fracaso de los Ajustadores en armonizar y asociar los factores divergentes de la mente del hombre***._
 > 
-> _Los Ajustadores simplemente ***no pueden, en una sola vida***, coordinar y sincronizar arbitrariamente dos tipos de pensamiento tan distintos y diferentes como el humano y el divino._ <a id="a137_187"></a>[LU 110:5.2](/es/The_Urantia_Book/110#p5_2)
+> _Los Ajustadores simplemente ***no pueden, en una sola vida***, coordinar y sincronizar arbitrariamente dos tipos de pensamiento tan distintos y diferentes como el humano y el divino._ <a id="a135_187"></a>[LU 110:5.2](/es/The_Urantia_Book/110#p5_2)
 
-> ***Durante los períodos del sueño, el Ajustador sólo trata de llevar a cabo aquello que la voluntad de la personalidad habitada ha aprobado previamente por completo mediante las decisiones y las elecciones efectuadas durante los momentos en que la conciencia estaba plenamente despierta, unas decisiones y elecciones que se han alojado por ello en las zonas supermentales, el campo de conexión de las relaciones recíprocas entre lo humano y lo divino.*** <a id="a139_457"></a>[LU 110:5.3](/es/The_Urantia_Book/110#p5_3)
+> ***Durante los períodos del sueño, el Ajustador sólo trata de llevar a cabo aquello que la voluntad de la personalidad habitada ha aprobado previamente por completo mediante las decisiones y las elecciones efectuadas durante los momentos en que la conciencia estaba plenamente despierta, unas decisiones y elecciones que se han alojado por ello en las zonas supermentales, el campo de conexión de las relaciones recíprocas entre lo humano y lo divino.*** <a id="a137_457"></a>[LU 110:5.3](/es/The_Urantia_Book/110#p5_3)
 
 Queridos amigos, esta frase y alguna otra más que a Carmelo tanto le hacen pensar, son para Seguramente antes de Pentecostés había seres humanos que exhibían en algún grado capacidad de adorar, y tomaban decisiones morales, lo que incluía anotaciones en su supermente, y posiblemente el Ajustador aparecía considerablemente después. Por eso pienso que primero se actualiza la supermente, y esto es tarea de los 7 espíritus-mente ayudantes, después la criatura toma ciertas decisiones y luego llega el Ajustador.
 
-Sobre el segundo asunto, para mí <a id="a143_33"></a>[LU 110:5.3](/es/The_Urantia_Book/110#p5_3) sólo describe la tarea del Ajustador durante el sueño, en ningún caso dice que sólo actúe entonces, y hay numerosas citas que a mi modo de ver lo corroboran: (los subrayados son míos"):
+Sobre el segundo asunto, para mí <a id="a141_33"></a>[LU 110:5.3](/es/The_Urantia_Book/110#p5_3) sólo describe la tarea del Ajustador durante el sueño, en ningún caso dice que sólo actúe entonces, y hay numerosas citas que a mi modo de ver lo corroboran: (los subrayados son míos"):
 
-«_El Ajustador es la brújula cósmica infalible del hombre, que apunta constante e infaliblemente el alma hacia Dios_». <a id="a145_119"></a>[LU 107:0.6](/es/The_Urantia_Book/107#p0_6) Si lo hacen constantemente es que no dejan de hacerlo.
+«_El Ajustador es la brújula cósmica infalible del hombre, que apunta constante e infaliblemente el alma hacia Dios_». <a id="a143_119"></a>[LU 107:0.6](/es/The_Urantia_Book/107#p0_6) Si lo hacen constantemente es que no dejan de hacerlo.
 
-«_Los Ajustadores del Pensamiento no tienen descanso desde el momento de su dotación hasta el día de su liberación...._» <a id="a147_121"></a>[LU 107:6.7](/es/The_Urantia_Book/107#p6_7) Si no tienen descanso, no pueden parar a ciertas horas ¿no?
+«_Los Ajustadores del Pensamiento no tienen descanso desde el momento de su dotación hasta el día de su liberación...._» <a id="a145_121"></a>[LU 107:6.7](/es/The_Urantia_Book/107#p6_7) Si no tienen descanso, no pueden parar a ciertas horas ¿no?
 
-«_Los Ajustadores son.... el impulso incesante...._» <a id="a149_53"></a>[LU 108:6.7](/es/The_Urantia_Book/108#p6_7)
+«_Los Ajustadores son.... el impulso incesante...._» <a id="a147_53"></a>[LU 108:6.7](/es/The_Urantia_Book/108#p6_7)
 
-«_En tales momentos, y a veces durante el sueño, el Ajustador puede,..._».<a id="a151_74"></a>[LU 109:5.1](/es/The_Urantia_Book/109#p5_1) Está claro que trabaja incluso cuando no duermes.
+«_En tales momentos, y a veces durante el sueño, el Ajustador puede,..._».<a id="a149_74"></a>[LU 109:5.1](/es/The_Urantia_Book/109#p5_1) Está claro que trabaja incluso cuando no duermes.
 
-«_Es a veces posible que se ilumine la mente, que se oiga la voz divina que habla continuamente dentro de ti..._» <a id="a153_114"></a>[LU 109:5.2](/es/The_Urantia_Book/109#p5_2)
+«_Es a veces posible que se ilumine la mente, que se oiga la voz divina que habla continuamente dentro de ti..._» <a id="a151_114"></a>[LU 109:5.2](/es/The_Urantia_Book/109#p5_2)
 
-«_Y el Ajustador constantemente se comunica, indirectamente, y sin reconocimiento con el sujeto humano, especialmente durante aquellas experiencias sublimes de contacto adorador de la mente con el espíritu en la superconciencia_».<a id="a155_230"></a>[LU 110:1.1](/es/The_Urantia_Book/110#p1_1) Esto tampoco ocurre durante el sueño.
+«_Y el Ajustador constantemente se comunica, indirectamente, y sin reconocimiento con el sujeto humano, especialmente durante aquellas experiencias sublimes de contacto adorador de la mente con el espíritu en la superconciencia_».<a id="a153_230"></a>[LU 110:1.1](/es/The_Urantia_Book/110#p1_1) Esto tampoco ocurre durante el sueño.
 
-«_El Ajustador...está ocupado en un esfuerzo constante de espiritualizar tu mente..._» <a id="a157_87"></a>[LU 110:4.2](/es/The_Urantia_Book/110#p4_2)
+«_El Ajustador...está ocupado en un esfuerzo constante de espiritualizar tu mente..._» <a id="a155_87"></a>[LU 110:4.2](/es/The_Urantia_Book/110#p4_2)
 
 Además, si tenemos en cuenta que es un fragmento de Dios y a todos los efectos es Dios, igual que es espíritu puro, es energía pura, no se agota, no necesita descansar para reponer energía....son «la leche», y les hacemos tan poco caso....
 
@@ -173,19 +173,19 @@ Esta es una de mis opiniones sobre los Ajustadores y es la parte vital para que 
 
 Continúo con las citas:
 
-> _Mientras sus anfitriones mortales duermen, ***los Ajustadores tratan de registrar sus creaciones*** en los niveles superiores de la mente material, ***y algunos de vuestros sueños grotescos indican que los Ajustadores no han logrado establecer un contacto eficaz***._ <a id="a177_271"></a>[LU 110:5.4](/es/The_Urantia_Book/110#p5_4)
+> _Mientras sus anfitriones mortales duermen, ***los Ajustadores tratan de registrar sus creaciones*** en los niveles superiores de la mente material, ***y algunos de vuestros sueños grotescos indican que los Ajustadores no han logrado establecer un contacto eficaz***._ <a id="a175_271"></a>[LU 110:5.4](/es/The_Urantia_Book/110#p5_4)
 
 En la reunión de grupo dijimos que mientras dormimos, en momentos y circunstancias concretas, los Ajustadores «escriben» algo divino en esas zonas supermentales para que junto a lo que nosotros hemos «escrito» anteriormente (decisiones, compromisos, etc.) durante nuestros estados despiertos y conscientes, se formen «frases» que redacten el «texto» del libro (nuestra alma). Considero que no llevaremos un buen texto dentro de nuestro libro (alma) si a lo largo de nuestra vida no hacemos las cosas «como Dios manda» y no descansamos mientras dormimos en condiciones óptimas.
 
 Sigo con las citas:
 
-> _Vuestras propias pasiones, impulsos y otras tendencias innatas se trasladan a la imagen mental, y sus deseos inexpresados sustituyen a ***los mensajes divinos que los habitantes interiores se esfuerzan por introducir en los registros psíquicos durante el sueño inconsciente***._ <a id="a183_282"></a>[LU 110:5.4](/es/The_Urantia_Book/110#p5_4)
+> _Vuestras propias pasiones, impulsos y otras tendencias innatas se trasladan a la imagen mental, y sus deseos inexpresados sustituyen a ***los mensajes divinos que los habitantes interiores se esfuerzan por introducir en los registros psíquicos durante el sueño inconsciente***._ <a id="a181_282"></a>[LU 110:5.4](/es/The_Urantia_Book/110#p5_4)
 
 Estos párrafos refuerzan mi teoría.
 
-> _Es extremadamente peligroso hacer suposiciones sobre lo que, ***en la vida onírica, procede de los Ajustadores. Los Ajustadores trabajan de hecho durante el sueño***, pero vuestras experiencias oníricas ordinarias son unos fenómenos puramente fisiológicos y psicológicos. Asimismo, ***es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana***. . . .Recordad que la influencia de un Ajustador del Pensamiento es en su mayor parte, aunque no del todo, ***una experiencia superconsciente***._ <a id="a191_144"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)
+> _Es extremadamente peligroso hacer suposiciones sobre lo que, ***en la vida onírica, procede de los Ajustadores. Los Ajustadores trabajan de hecho durante el sueño***, pero vuestras experiencias oníricas ordinarias son unos fenómenos puramente fisiológicos y psicológicos. Asimismo, ***es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana***. . . .Recordad que la influencia de un Ajustador del Pensamiento es en su mayor parte, aunque no del todo, ***una experiencia superconsciente***._ <a id="a185_617"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)
 
-> _El terreno es peligroso, y cada ser humano debe resolver ***estos problemas por sí mismo de acuerdo con su sabiduría humana naturaly su perspicacia superhumana***._ <a id="a193_168"></a>[LU 110:5.6](/es/The_Urantia_Book/110#p5_6)
+> _El terreno es peligroso, y cada ser humano debe resolver ***estos problemas por sí mismo de acuerdo con su sabiduría humana naturaly su perspicacia superhumana***._ <a id="a187_168"></a>[LU 110:5.6](/es/The_Urantia_Book/110#p5_6)
 
 Ahí queda eso. Considero que os tiene que hacer pensar como a mí me hizo pensar en su día.
 

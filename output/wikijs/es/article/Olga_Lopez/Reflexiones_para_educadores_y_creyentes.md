@@ -78,7 +78,7 @@ Esa es la actitud: no debemos cruzar la puerta de una casa si el dueño no nos h
 
 ¿Os habéis dado cuenta de todas las buenas, bellas y verdaderas enseñanzas que había en este párrafo? ¡Y solo hemos desmenuzado uno de los muchos que hay en esta sección!
 
->_Cuando atraigáis a los hombres hacia el reino, no disminuyáis ni destruyáis su autoestima. Una autoestima excesiva puede destruir la humildad adecuada y terminar en orgullo, presunción y arrogancia, pero la pérdida de la autoestima acaba a menudo en la parálisis de la voluntad. Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y en refrenarla en los que la tienen..._ <a id="a80_418"></a>[LU 159:3.3](/es/The_Urantia_Book/159#p3_3)
+>_Cuando atraigáis a los hombres hacia el reino, no disminuyáis ni destruyáis su autoestima. Una autoestima excesiva puede destruir la humildad adecuada y terminar en orgullo, presunción y arrogancia, pero la pérdida de la autoestima acaba a menudo en la parálisis de la voluntad. Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y en refrenarla en los que la tienen..._ <a id="a80_417"></a>[LU 159:3.3](/es/The_Urantia_Book/159#p3_3)
 
 Aunque suene a lugar común, es imprescindible quererse uno mismo para poder amar y servir a los demás. Como me gusta recordar, «El amor es el deseo de hacer el bien a los demás», y hacer el bien a los demás pasa por ayudarles a que progresen, a que sean más de lo que son, y para ello mantener la autoestima de nuestros semejantes en su justa medida es fundamental. Tengamos en cuenta que esas personas pueden a su vez amar y servir a los demás y propagar así el virus benigno del amor. De eso trata el evangelio de Jesús.
 

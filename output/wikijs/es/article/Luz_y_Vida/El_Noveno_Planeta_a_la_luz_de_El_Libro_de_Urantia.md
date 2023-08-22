@@ -126,7 +126,7 @@ Muchas veces el problema de contraste de la información científica de _El Libr
 
 La definición de planeta que hace la UAI (Unión Astronómica Internacional), no confundir con la AIU (Asociación Internacional Urantia) y las dudas y cambios los podéis ver aquí https://es.wikipedia.org/wiki/Redefinici%C3%B3n_de_planeta_de_2006.
 
-Lo más parecido a una definición de planeta que podemos encontrar en _El Libro de Urantia_ está en <a id="a124_99"></a>[LU 15:6.14](/es/The_Urantia_Book/15#p6_14).
+Lo más parecido a una definición de planeta que podemos encontrar en _El Libro de Urantia_ está en <a id="a128_99"></a>[LU 15:6.14](/es/The_Urantia_Book/15#p6_14).
 
 Si las definiciones no coinciden, la clasificación de esferas puede perfectamente ser diferente sin que por eso las informaciones sean contradictorias.
 
@@ -134,9 +134,9 @@ El sistema solar es como es, y los reveladores lo conocen «de primera mano» o 
 
 Lo que tiene de trascendente este descubrimiento, en mi modesta opinión, es que marca (una vez más) una línea. Los que ven contradicción entre la ciencia y _El Libro de Urantia_ deberían ser más prudentes y aceptar que la ciencia humana es una materia en desarrollo y que, crean o no crean en la veracidad de lo que nos dice el libro, se pueden esperar nuevos descubrimientos que «pongan patas arriba», o al menos desmientan o maticen, algunas verdades aceptadas (incluso como absolutas) en un momento dado.
 
-Tampoco los lectores debemos echar las campanas al vuelo. _El Libro de Urantia_ no es un libro científico, y los que esperen convencerse de su verdad por su información sobre ciencia lo tienen crudo. En este sentido, no está de más releer la <a id="a132_242"></a>[sección 4 del documento 101](/es/The_Urantia_Book/101#p4). Como bien habéis dicho algunos, lo que convence (y transforma) del libro es la experiencia personal, que en esencia es descubrir al Padre en nosotros.
+Tampoco los lectores debemos echar las campanas al vuelo. _El Libro de Urantia_ no es un libro científico, y los que esperen convencerse de su verdad por su información sobre ciencia lo tienen crudo. En este sentido, no está de más releer la <a id="a136_242"></a>[sección 4 del documento 101](/es/The_Urantia_Book/101#p4). Como bien habéis dicho algunos, lo que convence (y transforma) del libro es la experiencia personal, que en esencia es descubrir al Padre en nosotros.
 
-PD. Por cierto, Josep, puedes leer en el párrafo <a id="a134_49"></a>[LU 57:6.5](/es/The_Urantia_Book/57#p6_5) que el cinturón de asteroides fue inicialmente un planeta, el quinto de Monmatia.
+PD. Por cierto, Josep, puedes leer en el párrafo <a id="a138_49"></a>[LU 57:6.5](/es/The_Urantia_Book/57#p6_5) que el cinturón de asteroides fue inicialmente un planeta, el quinto de Monmatia.
 
 ## Jan
 

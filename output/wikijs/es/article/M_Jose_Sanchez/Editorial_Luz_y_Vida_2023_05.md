@@ -113,7 +113,7 @@ La solución a todo está en la vuelta a nosotros mismos. Un camino infinito hac
 
 Tomar consciencia de Dios en nosotros, dentro de nosotros y con nosotros nos hace valorar y amar a la humanidad, pero sobre todo amarnos a nosotros mismos y juntos hacer la gran familia celestial:
 
-> ...volvió a recordar las dos leyes fundamentales del vivir: el primer mandamiento de amor al padre, al cabeza de familia, y el segundo mandamiento de amor mutuo entre los hijos, de amar a tu hermano como a ti mismo. <a id="a115_217"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
+> ...volvió a recordar las dos leyes fundamentales del vivir: el primer mandamiento de amor al padre, al cabeza de familia, y el segundo mandamiento de amor mutuo entre los hijos, de amar a tu hermano como a ti mismo. <a id="a115_218"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
 
 Luchemos por ser cada día nosotros mismos, vayamos contra corriente, pues hacerse consciente de lo que somos realmente es el mayor regalo que cualquiera puede ofrecer al mundo. Cualquier incremento de consciencia individual también eleva la consciencia colectiva del planeta. Se produjo esta elevación hace más de dos mil años con la vida de Jesús y puede seguir ocurriendo ahora con nosotros, sus criaturas.
 

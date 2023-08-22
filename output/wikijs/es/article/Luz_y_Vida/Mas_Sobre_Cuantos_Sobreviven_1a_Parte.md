@@ -140,7 +140,7 @@ Fijaos que cosas más bonitas y que «piropos» nos dedican. De todas formas, aq
 
 **Eduardo:** Os envío un párrafo sacado del Dto. 49, Apartado 6. Considero que este apartado es esclarecedor para el tema:
 
-> _Los supervivientes dormidos de una era planetaria son repersonalizados así en los llamamientos dispensacionales. Pero en cuanto a las personalidades no salvables de un reino, ningún espiritu inmortal se encuentra presente para actuar con los guardianes colectivos del destino, y esto representa el cese de la existencia de la criatura. Aunque algunos de vuestros relatos han descrito que estos acontecimientos tienen lugar en los planetas de la muerte física, ***todos se producen en realidad en los mundos de las mansiones***._ <a id="a142_531"></a>[LU 49:6.7](/es/The_Urantia_Book/49#p6_7)
+> _Los supervivientes dormidos de una era planetaria son repersonalizados así en los llamamientos dispensacionales. Pero en cuanto a las personalidades no salvables de un reino, ningún espiritu inmortal se encuentra presente para actuar con los guardianes colectivos del destino, y esto representa el cese de la existencia de la criatura. Aunque algunos de vuestros relatos han descrito que estos acontecimientos tienen lugar en los planetas de la muerte física, ***todos se producen en realidad en los mundos de las mansiones***._ <a id="a142_532"></a>[LU 49:6.7](/es/The_Urantia_Book/49#p6_7)
 
 También dice, aunque no bien al caso (recuerdo que en este foro lo hemos tratado anteriormente) que:
 

@@ -180,7 +180,7 @@ Y ahora observad lo que dice el LU:
 
 > _Pero el mecanismo divino del universo de universos es demasiado perfecto como para que los métodos científicos de la mente finita del hombre puedan discernir siquiera una huella de la dominación de la mente infinita._ <a id="a180_221"></a>[LU 42:11.2](/es/The_Urantia_Book/42#p11_2)
 
-> _Unos mecanismos cósmicos extremadamente complejos y que parecen ampliamente automáticos tienden siempre a ocultar la presencia de la mente interna originadora o creativa a todas y cada una de las inteligencias situadas muy por debajo de los niveles universales de la naturaleza y de la capacidad del mecanismo mismo. Por eso es inevitable que los mecanismos superiores del universo parezcan desprovistos de inteligencia a las órdenes inferiores de criaturas._ <a id="a182_462"></a>[LU 42:11.6](/es/The_Urantia_Book/42#p11_6)
+> _Unos mecanismos cósmicos extremadamente complejos y que parecen ampliamente automáticos tienden siempre a ocultar la presencia de la mente interna originadora o creativa a todas y cada una de las inteligencias situadas muy por debajo de los niveles universales de la naturaleza y de la capacidad del mecanismo mismo. Por eso es inevitable que los mecanismos superiores del universo parezcan desprovistos de inteligencia a las órdenes inferiores de criaturas._ <a id="a182_463"></a>[LU 42:11.6](/es/The_Urantia_Book/42#p11_6)
 
 También me ha gustado esta otra opinión:
 

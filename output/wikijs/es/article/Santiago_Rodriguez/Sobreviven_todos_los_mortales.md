@@ -156,7 +156,7 @@ Más adelante insiste en el mismo hecho:
 > 1. _La búsqueda del conocimiento, la lógica de la ciencia._
 > 2. _La búsqueda de los valores morales, el sentido del deber._
 > 3. _La búsqueda de los valores espirituales, la experiencia religiosa.
-> 4. _La búsqueda de los valores de la personalidad, la habilidad de reconocer la realidad de Dios como personalidad y la comprensión paralela de nuestra relación fraternal con las demás personalidades_ <a id="a157_279"></a>[LU 16:9.9-13](/es/The_Urantia_Book/16#p9_9)
+> 4. _La búsqueda de los valores de la personalidad, la habilidad de reconocer la realidad de Dios como personalidad y la comprensión paralela de nuestra relación fraternal con las demás personalidades_ <a id="a158_203"></a>[LU 16:9.9-13](/es/The_Urantia_Book/16#p9_9)
 
 A mí me parece claro que no podremos excusar el hecho de que alguien no inicia su búsqueda de Dios de alguna manera porque desconoce que puede existir, o lo que es lo mismo, porque los dioses de los que le han hablado no le convencen.
 
@@ -164,11 +164,11 @@ Está claro que hay un mecanismo que te impulsa a ello, la inclinación a la bú
 
 En la siguiente cita aparece claramente descrito que tenemos una dote espiritual uniforme capaz en cualquier circunstancia y ambiente de presentar a la criatura las auto-revelaciones necesarias para el avance en los tres aspectos de la realidad que nos envuelve, pero de nuevo insisto en que la criatura tiene la última palabra.
 
-> _... pero las posibilidades del progreso espiritual en la carrera de la ascensión son iguales para todos; es posible alcanzar niveles crecientes de discernimiento espiritual y de significados cósmicos independientemente de todas las diferencias sociomorales de los ambientes materiales diversificados en los mundos evolutivos._ <a id="a165_330"></a>[LU 5:1.4](/es/The_Urantia_Book/5#p1_4)
+> _... pero las posibilidades del progreso espiritual en la carrera de la ascensión son iguales para todos; es posible alcanzar niveles crecientes de discernimiento espiritual y de significados cósmicos independientemente de todas las diferencias sociomorales de los ambientes materiales diversificados en los mundos evolutivos._ <a id="a166_330"></a>[LU 5:1.4](/es/The_Urantia_Book/5#p1_4)
 
-> _... a la vez que todos pueden igualmente elegir aceptar la uniforme dirección espiritual de estos Monitores Misteriosos._ <a id="a167_125"></a>[LU 5:1.5](/es/The_Urantia_Book/5#p1_5)
+> _... a la vez que todos pueden igualmente elegir aceptar la uniforme dirección espiritual de estos Monitores Misteriosos._ <a id="a168_125"></a>[LU 5:1.5](/es/The_Urantia_Book/5#p1_5)
 
-> _Si la mente de un hombre está sincera y espiritualmente motivada, si tal alma humana desea conocer a Dios y hacerse como él,..._ <a id="a169_132"></a>[LU 5:1.7](/es/The_Urantia_Book/5#p1_7)
+> _Si la mente de un hombre está sincera y espiritualmente motivada, si tal alma humana desea conocer a Dios y hacerse como él,..._ <a id="a170_132"></a>[LU 5:1.7](/es/The_Urantia_Book/5#p1_7)
 
 Yo entiendo que la primera decisión se ha de tomar en Urantia (aquí y ahora), y esta es independiente de todas las demás situaciones de época, o de estatus social, económico, religiosos, etc. Más adelante encontraremos más citas que avalan la propuesta de que esta respuesta/actitud hacia la Deidad se toma en Urantia.
 
@@ -188,52 +188,52 @@ En muchos sitios encontramos alusiones a lo que ocurre en el caso de que el indi
 
 Lo que está claro es que trato de dilucidar una cuestión cualitativa. Es decir, no pretendo saber cuántos sobreviven ni quiénes son; sólo la cuestión cualitativa de si lo hacen todos los mortales de Urantia automáticamente o, si no es así, porque tienen que darse unas condiciones que dependen enteramente de la voluntad de la criatura (evidentemente, en el período de tiempo que vive en Urantia como mortal).
 
-> _Si el hombre mortal no sobrevive la muerte natural,..._ <a id="a189_59"></a>[LU 16:9.3](/es/The_Urantia_Book/16#p9_3)
+> _Si el hombre mortal no sobrevive la muerte natural,..._ <a id="a190_59"></a>[LU 16:9.3](/es/The_Urantia_Book/16#p9_3)
 
 Aquí nos relata lo que sucede en el caso de que un individuo mortal con Ajustador, incluso con alma, no sobrevive a la muerte natural. Por otro lado en el documento 30, donde nos habla de «Las Personalidades del Gran Universo», define a los Peregrinos Ascendentes como los mortales sobrevivientes del tiempo y del espacio que han sido acreditados para la ascensión progresiva al Paraíso. Nos describe a 1) Los Mortales Planetarios, y 2) Los Sobrevivientes Adormecidos (los mortales de estado de sobrevivencia) No dice que sean todos los mortales, sino sólo los que presentan potencial de supervivencia. De hecho relata que se pasa lista a la edad y se adjudica al reino a la llegada de un Hijo de Dios. Si todos los mortales sobrevivieran, no haría falta pasar tal lista:
 
 > 4. _LOS MORTALES ASCENDENTES_
 > _Aunque los mortales sobrevivientes del tiempo y del espacio se..._ 
 > 1. _Mortales Planetarios._
-> 2. _Sobrevivientes Adormecidos._ <a id="a196_35"></a>[LU 30:4.1](/es/The_Urantia_Book/30#p4_1)
+> 2. _Sobrevivientes Adormecidos._ <a id="a197_35"></a>[LU 30:4.1](/es/The_Urantia_Book/30#p4_1)
 
-> 2. _Sobrevivientes Adormecidos. Todos los mortales de estado de sobrevivencia,... la llegada de un Hijo de Dios para pasar lista a la edad y adjudicar el reino, y ésta es la práctica general en todo Nebadon. Se dijo de Cristo Miguel que, cuando ascendió a las alturas al fin de su labor en la tierra: «Condujo a una gran multitud de cautivos». Y estos cautivos eran los sobrevivientes adormecidos desde los días de Adán basta el día de la resurrección del Maestro en Urantia...._ <a id="a198_482"></a>[LU 30:4.11](/es/The_Urantia_Book/30#p4_11)
+> 2. _Sobrevivientes Adormecidos. Todos los mortales de estado de sobrevivencia,... la llegada de un Hijo de Dios para pasar lista a la edad y adjudicar el reino, y ésta es la práctica general en todo Nebadon. Se dijo de Cristo Miguel que, cuando ascendió a las alturas al fin de su labor en la tierra: «Condujo a una gran multitud de cautivos». Y estos cautivos eran los sobrevivientes adormecidos desde los días de Adán basta el día de la resurrección del Maestro en Urantia...._ <a id="a199_482"></a>[LU 30:4.11](/es/The_Urantia_Book/30#p4_11)
 
 Cristo Miguel condujo a una gran cantidad de cautivos, los sobrevivientes adormecidos, no dice que fueran todos los que habían muerto y no se habían repersonalizado al tercer período. Fueron muchos, pero no todos. Además a mí me parece sintomático que a unos los llame Mortales Planetarios (y no precisamente «sobrevivientes Planetarios»), y a los otros curiosamente «Sobrevivientes», es decir los que han sobrevivido, entiendo que es una fracción del total de Mortales Planetarios. Tenemos más citas que me llevan a una conclusión similar:
 
-> _.... Aun la mente humana, la mente personal, no posee cualidades de supervivencia aparte de la identificación con el espiritu. La mente es un don de la divinidad, pero no es inmortal cuando funciona sin discernimiento espiritual, y cuando carece de la habilidad de adorary anbelar la supervivencia._ <a id="a202_303"></a>[LU 36:5.17](/es/The_Urantia_Book/36#p5_17)
+> _.... Aun la mente humana, la mente personal, no posee cualidades de supervivencia aparte de la identificación con el espiritu. La mente es un don de la divinidad, pero no es inmortal cuando funciona sin discernimiento espiritual, y cuando carece de la habilidad de adorary anbelar la supervivencia._ <a id="a203_303"></a>[LU 36:5.17](/es/The_Urantia_Book/36#p5_17)
 
-> _...: todas las almas de toda fase posible de la existencia mortal sobrevivirán, siempre y..._ <a id="a204_97"></a>[LU 40:5.19](/es/The_Urantia_Book/40#p5_19)
+> _...: todas las almas de toda fase posible de la existencia mortal sobrevivirán, siempre y..._ <a id="a205_97"></a>[LU 40:5.19](/es/The_Urantia_Book/40#p5_19)
 
 Este último párrafo es definitivo: la continuidad no es un don, es un logro con unas condiciones. La existencia de un alma en nuestro interior no garantiza la supervivencia así sin más. Hay una condición a cumplir que depende sólo y exclusivamente de la voluntad de la criatura: se hace imprescindible que presenten el impulso (aunque sea rudimentario) de hallar a Dios y de lograr la perfección divina. También explícitamente se indica en el siguiente párrafo, que hay seres que no sobreviven:
 
-> _... Pero respecto de las personalidades no salvables de un reino..._ <a id="a208_72"></a>[LU 49:6.7](/es/The_Urantia_Book/49#p6_7)
+> _... Pero respecto de las personalidades no salvables de un reino..._ <a id="a209_72"></a>[LU 49:6.7](/es/The_Urantia_Book/49#p6_7)
 
-En <a id="a210_3"></a>[LU 47:2.2](/es/The_Urantia_Book/47#p2_2) (La Guardería del período de Prueba):
+En <a id="a211_3"></a>[LU 47:2.2](/es/The_Urantia_Book/47#p2_2) (La Guardería del período de Prueba):
 
 > "_.... En el caso de la supervivencia de uno o los dos progenitores del niño,..._”
 
-Y además esta elección de continuidad más allá de la muerte física, parece que deba ocurrir durante la edad adulta del mortal en el planeta de nacimiento, como se desprende de la explicación de las siguientes situaciones. Más adelante, en [LU 47:2.4](/es/The_Urantia_Book/47#p2_4), encontramos un apunte más. Por lo que se ve, se espera que la decisión se tome en la juventud/infancia en la vida en la carne, pues está hablando de niños (hasta 16 años) a los que les alcanza la muerte antes de decidirse:
+Y además esta elección de continuidad más allá de la muerte física, parece que deba ocurrir durante la edad adulta del mortal en el planeta de nacimiento, como se desprende de la explicación de las siguientes situaciones. Más adelante, en <a id="a215_239"></a>[LU 47:2.4](/es/The_Urantia_Book/47#p2_4), encontramos un apunte más. Por lo que se ve, se espera que la decisión se tome en la juventud/infancia en la vida en la carne, pues está hablando de niños (hasta 16 años) a los que les alcanza la muerte antes de decidirse:
 
-> «_Todos los hijos en los mundos en evolución que tienen Ajustador del Pensamiento, pero que antes de la muerte no habían hecho la elección en lo que concierne a la carrera al Paraiso, también..._» <a id="a216_199"></a>[LU 47:2.4](/es/The_Urantia_Book/47#p2_4)
+> «_Todos los hijos en los mundos en evolución que tienen Ajustador del Pensamiento, pero que antes de la muerte no habían hecho la elección en lo que concierne a la carrera al Paraiso, también..._» <a id="a217_199"></a>[LU 47:2.4](/es/The_Urantia_Book/47#p2_4)
 
-> _3. ... Pero la vida temporal en los mundos evolutivos es incierta, y muchos mueren en la juventud antes de haber elegido la carrera al Paraíso. Tales niños y jóvenes morados por un Ajustador siguen al progenitor de estado espiritual más avanzado..._ <a id="a218_253"></a>[LU 49:6.11](/es/The_Urantia_Book/49#p6_11)
+> _3. ... Pero la vida temporal en los mundos evolutivos es incierta, y muchos mueren en la juventud antes de haber elegido la carrera al Paraíso. Tales niños y jóvenes morados por un Ajustador siguen al progenitor de estado espiritual más avanzado..._ <a id="a219_253"></a>[LU 49:6.11](/es/The_Urantia_Book/49#p6_11)
 
-> _Los niños que mueren antes de haber llegado a edad de tener un Ajustador del Pensamiento...._ <a id="a220_97"></a>[LU 49:6.12](/es/The_Urantia_Book/49#p6_12)
+> _Los niños que mueren antes de haber llegado a edad de tener un Ajustador del Pensamiento...._ <a id="a221_97"></a>[LU 49:6.12](/es/The_Urantia_Book/49#p6_12)
 
-> _En cuanto se relaciona a los candidatos para la fusión, si un Monitor Misterioso es desertado por su asociado mortal, si el socio humano no decide proseguir la carrera ascendente, cuando es liberado por la muerte natural (o antes de ésta),... de esa criatura no sobreviviente. ..._ <a id="a222_285"></a>[LU 109:6.2](/es/The_Urantia_Book/109#p6_2)
+> _En cuanto se relaciona a los candidatos para la fusión, si un Monitor Misterioso es desertado por su asociado mortal, si el socio humano no decide proseguir la carrera ascendente, cuando es liberado por la muerte natural (o antes de ésta),... de esa criatura no sobreviviente. ..._ <a id="a223_285"></a>[LU 109:6.2](/es/The_Urantia_Book/109#p6_2)
 
 Sin entrar en consideraciones de las actuaciones del Ajustador en la personalidad, ni de las posibilidades de crecimiento personal espiritual, ni de las consideraciones para la creación y evolución posterior del alma, y disponerlo todo para la fusión con el Ajustador. Bajo mi punto de vista de manera inmediata y como prerrequisito para toda supervivencia futura, tenemos la situación siguiente:
 
-> _La mente mortal (no la mente morontial) es un sistema temporal de intelecto prestado a los seres humanos para uso durante una vida material, y según usen esta mente, estarán o aceptando o rechazando el potencial de la existencia eterna..._ <a id="a226_243"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5)
+> _La mente mortal (no la mente morontial) es un sistema temporal de intelecto prestado a los seres humanos para uso durante una vida material, y según usen esta mente, estarán o aceptando o rechazando el potencial de la existencia eterna..._ <a id="a227_243"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5)
 
-> _... pero la mente mortal puede efectivamente ser distorsionada, torcida y volverse malvada y fea por las maquinaciones pecaminosas de una voluntad humana perversa y autogratificante. ..._ <a id="a228_191"></a>[LU 111:1.6](/es/The_Urantia_Book/111#p1_6)
+> _... pero la mente mortal puede efectivamente ser distorsionada, torcida y volverse malvada y fea por las maquinaciones pecaminosas de una voluntad humana perversa y autogratificante. ..._ <a id="a229_191"></a>[LU 111:1.6](/es/The_Urantia_Book/111#p1_6)
 
 Es cierto que no esperan que comprendamos para estar en el camino, ni siquiera piden que seamos buenos. Lo que piden es que nuestra voluntad anhele a Dios, lo desee. Es decir, que desee comenzar el mandato supremo del Padre Universal para los seres humanos: ser Perfectos como lo es ÉL.
 
 Fijaros que es maravilloso. No te pide que seas bueno, el serlo facilita las cosas, lo que te piden es que ansíes conocer a Dios:
 
-> _El resultado inevitable de tal espiritualización por contacto de la mente humana es el nacimiento gradual de un alma, el vástago conjunto de una mente ayudante dominada_ ***por una voluntad humana que ansía conocer a Dios,*** <a id="a234_229"></a>[LU 111:2.10](/es/The_Urantia_Book/111#p2_10)
+> _El resultado inevitable de tal espiritualización por contacto de la mente humana es el nacimiento gradual de un alma, el vástago conjunto de una mente ayudante dominada_ ***por una voluntad humana que ansía conocer a Dios,*** <a id="a235_229"></a>[LU 111:2.10](/es/The_Urantia_Book/111#p2_10)
 
 Para mí esta es la clave: si eres bueno (ética y moralmente) pero tu voluntad se niega a reconocer (en cualquiera de su posible manifestación) a Dios, estás renunciando al inicio de la formación de tu alma morontial, y por consiguiente estás renunciando a la posibilidad de la supervivencia. 
 
@@ -241,25 +241,25 @@ Recordando que la mente es una dádiva del Espíritu Materno de nuestro Universo
 
 ¿Qué podemos pensar de los individuos que sistemáticamente rechazan la posibilidad de la existencia de un ser superior, a los que el orgullo hace «autosuficientes», y que piensan que es de débiles mentales tener que recurrir a «un ser superior»?
 
-> _De todos los peligros que acechan la naturaleza mortal del hombre y arriesgan su integridad espiritual, el orgullo es el peor._ <a id="a242_131"></a>[LU 111:6.9](/es/The_Urantia_Book/111#p6_9)
+> _De todos los peligros que acechan la naturaleza mortal del hombre y arriesgan su integridad espiritual, el orgullo es el peor._ <a id="a243_131"></a>[LU 111:6.9](/es/The_Urantia_Book/111#p6_9)
 
-> _El orgullo es engañoso, intoxicante y originador del pecado tanto en el individuo como en el grupo, en la raza o en la nación. Es literalmente verdad: «Antes del quebrantamiento es la soberbia»._ <a id="a244_199"></a>[LU 111:6.10](/es/The_Urantia_Book/111#p6_10)
+> _El orgullo es engañoso, intoxicante y originador del pecado tanto en el individuo como en el grupo, en la raza o en la nación. Es literalmente verdad: «Antes del quebrantamiento es la soberbia»._ <a id="a245_199"></a>[LU 111:6.10](/es/The_Urantia_Book/111#p6_10)
 
-> _Durante la vida física, .... Pero el yo con valor de supervivencia, el yo que puede trascender la experiencia de la muerte, sólo se constituye efectuando una transferencia potencial...se efectúa mediante la sinceridad, la persistencia y la firmeza de las decisiones ***de la criatura humana que busca a Dios***._ <a id="a246_316"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20)
+> _Durante la vida física, .... Pero el yo con valor de supervivencia, el yo que puede trascender la experiencia de la muerte, sólo se constituye efectuando una transferencia potencial...se efectúa mediante la sinceridad, la persistencia y la firmeza de las decisiones ***de la criatura humana que busca a Dios***._ <a id="a247_316"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20)
 
 ¿Qué ocurre si la criatura persiste en su negativa a buscar a Dios?
 
-> _... pero en lo que respecta a la supervivencia de la personalidad, existen en realidad tres tipos de muerte:_ <a id="a250_113"></a>[LU 112:3.1](/es/The_Urantia_Book/112#p3_1)
+> _... pero en lo que respecta a la supervivencia de la personalidad, existen en realidad tres tipos de muerte:_ <a id="a251_113"></a>[LU 112:3.1](/es/The_Urantia_Book/112#p3_1)
 
-> _1. La muerte espiritual (del alma). Si el hombre mortal rechaza la supervivencia..._ <a id="a252_88"></a>[LU 112:3.2](/es/The_Urantia_Book/112#p3_2)
+> _1. La muerte espiritual (del alma). Si el hombre mortal rechaza la supervivencia..._ <a id="a253_88"></a>[LU 112:3.2](/es/The_Urantia_Book/112#p3_2)
 
-> _....La personalidad del hombre es eterna, pero en cuanto a la identidad, es una realidad eterna condicionada. ... el hombre tiene que escoger si estará o no presente en el momento de llegar a ese destino. Si no se efectúa esa elección..._ <a id="a254_242"></a>[LU 112:5.2](/es/The_Urantia_Book/112#p5_2) 
+> _....La personalidad del hombre es eterna, pero en cuanto a la identidad, es una realidad eterna condicionada. ... el hombre tiene que escoger si estará o no presente en el momento de llegar a ese destino. Si no se efectúa esa elección..._ <a id="a255_242"></a>[LU 112:5.2](/es/The_Urantia_Book/112#p5_2) 
 
 Habrá muchas oportunidades durante la vida material para que nos decidamos a dar ese paso, pero si somos perezosos, orgullosos, etc., ¿con qué nos encontraremos? Se nos da en el LU mucha información sobre el fracaso de la supervivencia de la personalidad en la etapa humana, como para que sólo sea una remota o hipotética posibilidad:
 
-> _Yo be observado a un Ajustador del Pensamiento que reside en una mente en Urantia quien, según los archivos de Uversa, ha residido previamente en quince mentes en Orvonton. .... Lo que otros han perdido, por haberse negado a sobrevivir, este ser humano (y vuestro mundo entero) gana abora. Al que no posea cualidades de supervivencia, se le quitará aun ese Ajustador experto que abora posee, mientras que al que tenga probabilidades de supervivencia se le dará aun el Ajustador que haya experimentado previamente ***a un desertor holgazán***._ <a id="a258_547"></a>[LU 109:4.5](/es/The_Urantia_Book/109#p4_5)
+> _Yo be observado a un Ajustador del Pensamiento que reside en una mente en Urantia quien, según los archivos de Uversa, ha residido previamente en quince mentes en Orvonton. .... Lo que otros han perdido, por haberse negado a sobrevivir, este ser humano (y vuestro mundo entero) gana abora. Al que no posea cualidades de supervivencia, se le quitará aun ese Ajustador experto que abora posee, mientras que al que tenga probabilidades de supervivencia se le dará aun el Ajustador que haya experimentado previamente ***a un desertor holgazán***._ <a id="a259_547"></a>[LU 109:4.5](/es/The_Urantia_Book/109#p4_5)
 
-> _El gran problema de la vida es el ajuste de las tendencias ancestrales del vivir a las demandas de los impulsos espirituales iniciados por la presencia divina del Monitor Misterioso. ...; por esto tantos tropiezan y fracasan, se agotan y sucumben a la presión de la lucha evolutiva. Si cooperas con tu Ajustador,..._ <a id="a260_320"></a>[LU 109:5.4](/es/The_Urantia_Book/109#p5_4)
+> _El gran problema de la vida es el ajuste de las tendencias ancestrales del vivir a las demandas de los impulsos espirituales iniciados por la presencia divina del Monitor Misterioso. ...; por esto tantos tropiezan y fracasan, se agotan y sucumben a la presión de la lucha evolutiva. Si cooperas con tu Ajustador,..._ <a id="a261_320"></a>[LU 109:5.4](/es/The_Urantia_Book/109#p5_4)
 
 Luego el desarrollo de tu alma depende de tu cooperación con el Ajustador, que traducido no es sino que tus decisiones se alineen con la voluntad del Padre, manifestada por la guía del Ajustador. Como indiqué antes, el proceso pasa por las siguientes etapas:
 
@@ -273,9 +273,9 @@ Aunque me da la impresión de que es muy probable que no haya un momento de deci
 
 Del siguiente párrafo deduzco que hemos de intentar (no digo conseguir, pero creo que lo que sí nos piden es que lo intentemos) el avance en los círculos (y esto también se ha de comenzar en la carne):
 
-> _Los círculos cósmicos del crecimiento de la personalidad han de ser alcanzados finalmente, pero puede suceder que los accidentes del tiempo y las dificultades de la existencia material os impidan dominar, sin que haya culpa por vuestra parte, estos niveles en vuestro planeta natal. Si vuestras intenciones y deseos tienen un valor de supervivencia, se emitirán unos decretos para prolongar vuestro período de prueba. Se os proporcionará tiempo adicional para demostrar lo que valéis._ <a id="a274_489"></a>[LU 112:5.6](/es/The_Urantia_Book/112#p5_6)
+> _Los círculos cósmicos del crecimiento de la personalidad han de ser alcanzados finalmente, pero puede suceder que los accidentes del tiempo y las dificultades de la existencia material os impidan dominar, sin que haya culpa por vuestra parte, estos niveles en vuestro planeta natal. Si vuestras intenciones y deseos tienen un valor de supervivencia, se emitirán unos decretos para prolongar vuestro período de prueba. Se os proporcionará tiempo adicional para demostrar lo que valéis._ <a id="a275_489"></a>[LU 112:5.6](/es/The_Urantia_Book/112#p5_6)
 
-> _... Para conseguir entrar en el reino de los cielos, lo que cuenta es el móvil...._ <a id="a276_87"></a>[LU 140:3.19](/es/The_Urantia_Book/140#p3_19)
+> _... Para conseguir entrar en el reino de los cielos, lo que cuenta es el móvil...._ <a id="a277_87"></a>[LU 140:3.19](/es/The_Urantia_Book/140#p3_19)
 
 Como conclusión:
 

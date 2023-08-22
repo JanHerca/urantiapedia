@@ -60,7 +60,7 @@ La agricultura ejerce una actividad extraordinariamente ennoblecedora, junto con
 
 _El Libro de Urantia_ también nos exhorta a darle la importancia y la consideración que merece, <a id="a60_96"></a>[[LU 68:5.13](/es/The_Urantia_Book/68#p5_13)] puesto que el avance social depende de ella. Incluso nos ilustra con los ejemplos de los indios americanos, que no llegaron a conformar un estado, frente a los romanos, que por el contrario crearon un gran imperio al dedicar a la agricultura y a la propiedad de tierras y cosechas una atención adecuada <a id="a60_445"></a>[LU 71:1.3](/es/The_Urantia_Book/71#p1_3)
 
-_El Libro de Urantia_ nos anuncia que esta actividad, también evolutiva, comienza con la llegada del Príncipe Planetario, hecho que en Urantia acaeció hace 500.000 años [[LU 66:0.2](/es/The_Urantia_Book/66#p0_2)], anterior por tanto a la rebelión de Lucifer, lo que nos debería ayudar a descartar la idea del castigo, y prosiguió con más intensidad tras la llegada de Adán y Eva, hace casi 38.000 años <a id="a62_375"></a>[[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)]
+_El Libro de Urantia_ nos anuncia que esta actividad, también evolutiva, comienza con la llegada del Príncipe Planetario, hecho que en Urantia acaeció hace 500.000 años <a id="a62_169"></a>[[LU 66:0.2](/es/The_Urantia_Book/66#p0_2)], anterior por tanto a la rebelión de Lucifer, lo que nos debería ayudar a descartar la idea del castigo, y prosiguió con más intensidad tras la llegada de Adán y Eva, hace casi 38.000 años <a id="a62_402"></a>[[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)]
 
 Luego evidentemente, la aparición de la agricultura en nuestro planeta ha de ser muy anterior a las fechas aceptadas actualmente por nuestros historiadores.
 

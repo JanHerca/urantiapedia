@@ -107,7 +107,7 @@ No se trata de que ciencia, filosofía y religión se mezclen arbitrariamente si
 
 El razonamiento abstracto es una cualidad típicamente humana que nos permite investigar y conocer la realidad y nos lleva incluso a sus límites. La matemática, en mi opinión, es una herramienta de la mente que nos permite vislumbrar muchas pistas que la divinidad ha ido dejando para que podamos intuir su presencia. A la luz de todo esto el mecanicismo parece, una vez más, una explicación absurda e incompleta de la realidad.
 
-> «_El materialismo reduce al hombre a un estado de autómata sin alma, y lo convierte en un simple símbolo aritmético que ocupa un lugar impotente en la fórmula matemática de un universo realista y mecanicista. Pero, ¿de dónde viene todo este inmenso universo de matemáticas, sin un Maestro Matemático?_» ([LU 195:6.8](/es/The_Urantia_Book/195#p6_8)) 
+> «_El materialismo reduce al hombre a un estado de autómata sin alma, y lo convierte en un simple símbolo aritmético que ocupa un lugar impotente en la fórmula matemática de un universo realista y mecanicista. Pero, ¿de dónde viene todo este inmenso universo de matemáticas, sin un Maestro Matemático?_» (<a id="a109_306"></a>[LU 195:6.8](/es/The_Urantia_Book/195#p6_8)) 
 
 Más allá de las matemáticas se esconde...el Maestro Matemático.
 
