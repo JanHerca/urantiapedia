@@ -18,6 +18,10 @@ A quaterly publication from Urantia Foundation since 2007.
 
 Coming soon to Urantiapedia.
 
+Source: 
+- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html
+
 ### NewsFlash!
 
 ![](/image/article/Group_banners/Foundation_NewsFlash.jpg)
@@ -26,6 +30,10 @@ A quaterly publication from Urantia Foundation with internal organization news.
 
 Coming soon to Urantiapedia.
 
+Source: 
+- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html
+
 ### Urantian News
 
 ![](/image/article/Group_banners/Foundation_Urantian.jpg)
@@ -33,6 +41,10 @@ Coming soon to Urantiapedia.
 An old quaterly publication from Urantia Foundation from 1973 to 1998, when it was replaced by the Online version.
 
 Coming soon to Urantiapedia.
+
+Source: 
+- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html
 
 ## The Urantia Book Fellowship
 
@@ -137,7 +149,7 @@ Source: https://urantia-book.org/index_spiritual_fellowship_journal.html
 
 _Luz y Vida_ (_Light and Life_) is a quarterly, now monthly, publication of the Urantia Association of Spain, active since 2005. It contains news and articles that are useful for all Spanish-language speakers.
 
-Coming soon to Urantiapedia.
+The index of all available issues is here: [“Luz y Vida” Articles Index](/en/index/articles_luz_y_vida).
 
 Source: https://aue.urantia-association.org/luz-y-vida/
 

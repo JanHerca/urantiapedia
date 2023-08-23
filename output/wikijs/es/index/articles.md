@@ -18,6 +18,10 @@ Una publicación trimestral de la Fundación Urantia desde 2007.
 
 Pronto disponible en Urantiapedia.
 
+Fuente: 
+- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html
+
 ### NewsFlash!
 
 ![](/image/article/Group_banners/Foundation_NewsFlash.jpg)
@@ -26,6 +30,10 @@ Una publicación trimestral de la Fundación Urantia con noticias internas de la
 
 Pronto disponible en Urantiapedia.
 
+Fuente: 
+- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html
+
 ### Urantian News
 
 ![](/image/article/Group_banners/Foundation_Urantian.jpg)
@@ -33,6 +41,10 @@ Pronto disponible en Urantiapedia.
 Una antigua publicación trimestral de la Fundación Urantia desde 1973 a 1998, cuando fue reemplazada por la versión en línea.
 
 Pronto disponible en Urantiapedia.
+
+Fuente: 
+- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html
 
 ## The Urantia Book Fellowship
 
