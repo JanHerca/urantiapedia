@@ -190,7 +190,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 ## Sample of Markdown image
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton/image02.png">
 <figcaption><em> Mt Shasta, Mt Shasta, California.</em></figcaption>
 </figure>
@@ -200,3 +200,5 @@ image-style-align-right
 How to preview images in a Markdown: replace `src="/image` with `src="../../../output/wikijs/image` using as many `../` as needed. Do not forget to remove later.
 
 <br style="clear:both;"/>
+
+<p style="text-align:center;">
