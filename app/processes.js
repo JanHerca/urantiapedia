@@ -426,6 +426,16 @@ const Processes = {
 			['input', 'txt', 'articles-{0}', 'ub_paralells.tsv'],
 			['output', 'wikijs', '{0}', 'article']]
 	},
+	"ARTICLE_CREATE_BLANK_FROM_LIST": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Create blank articles from an index",
+			es: "ARTICULOS: Crear artículos en blanco a partir de un índice"
+		},
+		controls: ['fnTTextbox', 'dirHTextbox'],
+		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
+			['output', 'wikijs', '{0}', 'article']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

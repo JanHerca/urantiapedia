@@ -1017,6 +1017,22 @@ const handle_exeButtonClick = () => {
 			.then(() => articles.writeUBParalellsToTSV(txtFile))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'ARTICLE_CREATE_BLANK_FROM_LIST') {
+		// Reads Articles Index File (TSV)
+		// Creates folders and files with blank content (only header)
+		if (lan === 'en') {
+			articles.readIndexFileFromTSV(txtFile)
+				.then(() => articles.createBlankArticles(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			const txtFileEN = txtFile.replace('articles-' + lan, 'articles-en');
+			articles.readIndexFileFromTSV(txtFileEN)
+				.then(() => articles.readIndexFileFromTSV(txtFile))
+				.then(() => articles.createBlankArticles(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)

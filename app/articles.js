@@ -1036,6 +1036,105 @@ class Articles {
 			});
 	};
 
+	/**
+	 * Creates blank articles (only with header) using the current index.
+	 * @param {string} dirPath Output folder.
+	 * @return {Promise}
+	 */
+	createBlankArticles = (dirPath) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([this.getError('folder_no_access', baseName)]);
+					return;
+				}
+				var data = [];
+				var issues = [];
+				this.index.volumes.forEach(volume => {
+					volume.issues.forEach(issue => issues.push(issue));
+				});
+				this.index.issues.forEach(issue => issues.push(issue));
+				issues.forEach(issue => {
+					const reYear = [...issue.title.matchAll(/(\d{4})/g)];
+					const year = (reYear.length > 0 ? reYear[0][0] : '');
+					issue.articles.forEach(article => {
+						const m = `/${this.language}/article`;
+						const subpath = article.path.replace(m, '');
+						const filepath = path.join(dirPath, subpath + '.md');
+						data.push({
+							path: filepath,
+							title: article.title,
+							author: article.author,
+							year: year
+						});
+					});
+				});
+				const errs = [];
+				data.forEach(d => {
+					const folder = path.dirname(d.path);
+					try {
+						if (!fs.existsSync(folder)) {
+							fs.mkdirSync(folder);
+						}
+					} catch (er) {
+						errs.push(this.getError('folder_no_access', folder));
+					}
+				});
+				if (errs.length > 0) {
+					reject(errs);
+					return;
+				}
+				const tags = this.index.tags.filter(t => {
+					return (t.toLowerCase() != 'index' &&
+						t.toLowerCase() != 'article');
+				}).map(t => t.trim()).join(', ');
+				const name = this.index.title
+					.replace('Index of ', '')
+					.replace(' articles', '');
+				const promises = data.map(d => {
+					const date = new Date();
+					const year = date.getFullYear();
+					const month = date.getMonth()+1;
+					const day = date.getDate();
+					const datestr = `${year}-${month}-${day}` +
+						`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
+					const cls = 'v-card v-sheet theme--light gray lighten-3 px-2';
+					const author = (d.author != '' ? 
+						`© ${d.year} ${d.author}<br>` : '');
+					
+					let md = `---\r\n` +
+						`title: "${d.title}"\r\n` +
+						`description: \r\n` +
+						`published: true\r\n` +
+						`date: ${datestr}\r\n` +
+						`tags: ${tags + ', article'}\r\n` +
+						`editor: markdown\r\n` +
+						`dateCreated: ${datestr}\r\n` +
+						`---\r\n` +
+						`\r\n` +
+						`<p class="${cls}">${author}© ${d.year} ${tags}</p>` +
+						`\r\n\r\n\r\n\r\n\r\n` +
+						`## References\r\n` +
+						`\r\n` +
+						`- ${name}: ${this.index.link}\r\n\r\n`;
+					return reflectPromise(writeFile(d.path, md));
+				});
+				Promise.all(promises).
+					then(objs => {
+						const er = objs
+							.filter(obj => obj.error != null)
+							.map(obj => obj.error);
+						if (er.length > 0) {
+							reject(er);
+							return;
+						}
+						resolve(null);
+					});
+			});
+		});
+	};
+
 	//***********************************************************************
 	// MediaWiki
 	//***********************************************************************
