@@ -250,11 +250,29 @@ The Publication Mandate
 The Supreme
 The Urantia Book
 The Urantia Book—Authorship
+The Urantia Book—Chinese
+The Urantia Book—Czech
 The Urantia Book—Errors
+The Urantia Book—Danish
+The Urantia Book—Farsi
+The Urantia Book—French
+The Urantia Book—German
+The Urantia Book—Greek
+The Urantia Book—Hebrew
 The Urantia Book—History
+The Urantia Book—Hungarian
+The Urantia Book—Indonesian
 The Urantia Book—Introduction
+The Urantia Book—Italian
+The Urantia Book—Japanese
 The Urantia Book—Papers
+The Urantia Book—Polish
+The Urantia Book—Portuguese
 The Urantia Book—Purpose
+The Urantia Book—Russian
+The Urantia Book—Spanish
+The Urantia Book—Swedish
+The Urantia Book—Ukrainian
 Theology
 Thought Adjusters
 Tidings
@@ -265,6 +283,7 @@ Topical
 Truth
 UAI Journal
 UB annotated
+UBIS
 UFO
 Universe Mother Spirit
 Urantia
