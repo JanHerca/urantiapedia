@@ -16,7 +16,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 A quaterly publication from Urantia Foundation since 2007.
 
-Coming soon to Urantiapedia.
+The index of all available issues is here: [Index of _Urantia Foundation_'s News Online articles](/en/index/articles_uf_news_online).
 
 Source: 
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
