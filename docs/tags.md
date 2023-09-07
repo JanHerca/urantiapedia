@@ -287,6 +287,7 @@ UBIS
 UFO
 Universe Mother Spirit
 Urantia
+Urantia Foundation
 Urantia Movement
 Urantia Movement Event
 Urantiapedia
