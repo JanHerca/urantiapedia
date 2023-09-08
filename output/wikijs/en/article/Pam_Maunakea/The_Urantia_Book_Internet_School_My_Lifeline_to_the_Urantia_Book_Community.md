@@ -58,8 +58,7 @@ UBIS has provided me a lifeline to other readers. Being involved as a student, a
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-06/urantia-book-internet-school-my-lifeline-urantia-book-community
 
 <figure class="table chapter-navigator">
   <table>

@@ -60,8 +60,7 @@ Our trip to the Holy Land I shall always remember and experienced an expansion o
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-07/trip-holy-land
 
 <figure class="table chapter-navigator">
   <table>

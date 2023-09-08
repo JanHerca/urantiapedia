@@ -105,8 +105,7 @@ They sell the paperback for 73 real (\$41 US) and the hard cover for 93 real (\$
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-03/around-world-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

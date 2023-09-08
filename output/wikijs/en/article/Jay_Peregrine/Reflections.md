@@ -62,8 +62,7 @@ I treasure the friendships I made in Brazil. I know from past experience that, b
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-12/reflections
 
 <figure class="table chapter-navigator">
   <table>

@@ -88,8 +88,7 @@ Ultimately the revelation contained in _The Urantia Book_ is not just about the 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-12/word-language-dictionary
 
 <figure class="table chapter-navigator">
   <table>

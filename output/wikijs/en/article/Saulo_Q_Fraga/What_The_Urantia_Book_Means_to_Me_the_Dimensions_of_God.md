@@ -105,8 +105,7 @@ Putting it more simply, I have come to learn that the focus I should apply is no
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-12/what-urantia-book-means-me-dimensions-god
 
 <figure class="table chapter-navigator">
   <table>

@@ -68,8 +68,7 @@ Participate in the goal of UBHS to collect, document, and preserve the historica
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-06/introducing-urantia-book-historical-society
 
 <figure class="table chapter-navigator">
   <table>

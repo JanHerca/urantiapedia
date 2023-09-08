@@ -80,8 +80,7 @@ This trip was meant for me to meet people on spiritual ground where bonding in a
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-06/inspire-and-be-inspired
 
 <figure class="table chapter-navigator">
   <table>

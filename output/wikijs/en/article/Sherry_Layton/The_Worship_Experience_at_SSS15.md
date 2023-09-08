@@ -74,8 +74,7 @@ Epilogue: Dear reader, you might want to answer these questions for your own edi
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-09/worship-experience-sss15
 
 <figure class="table chapter-navigator">
   <table>

@@ -83,8 +83,7 @@ Despite our many challenges, after years of regular, diligent work, we reached t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-07/second-in-depth-revision-french-translation
 
 <figure class="table chapter-navigator">
   <table>

@@ -68,8 +68,7 @@ People have eagerly asked when the next 24-hour event will be, and the Associati
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-06/urantia-associations-second-24-hour-online-event
 
 <figure class="table chapter-navigator">
   <table>

@@ -179,8 +179,7 @@ An additional day was spent responding to questions from the participants. I am 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-10/first-chinese-conference-unprecedented-international-endeavor
 
 <figure class="table chapter-navigator">
   <table>

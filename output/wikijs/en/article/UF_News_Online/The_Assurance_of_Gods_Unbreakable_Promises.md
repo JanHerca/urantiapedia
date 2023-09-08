@@ -65,8 +65,7 @@ May our heavenly Father's love fill you and your family with courageous loyalty 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-12/assurance-gods-unbreakable-promises
 
 <figure class="table chapter-navigator">
   <table>

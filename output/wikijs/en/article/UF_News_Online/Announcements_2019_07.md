@@ -64,8 +64,7 @@ The cost for the three days is $250.00 and includes all meals and shared overnig
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-06/russian-revision-now-available-online, https://www.urantia.org/news/2019-06/new-search-engine-urantia-book-urantiaorg, https://www.urantia.org/news/2019-06/dancing-god-our-supreme-calling
 
 <figure class="table chapter-navigator">
   <table>

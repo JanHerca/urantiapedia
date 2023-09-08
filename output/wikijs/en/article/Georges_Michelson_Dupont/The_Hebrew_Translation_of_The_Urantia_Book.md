@@ -58,8 +58,7 @@ In addition to the Hebrew translation, seven other translations are in progress:
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-06/hebrew-translation-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

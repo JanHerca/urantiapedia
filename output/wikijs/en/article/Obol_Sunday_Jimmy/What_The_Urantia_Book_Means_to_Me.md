@@ -63,8 +63,7 @@ What prospects do I see for sharing this revelation with others? In the end, the
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-12/what-urantia-book-means-me-obol-sunday-jimmy
 
 <figure class="table chapter-navigator">
   <table>

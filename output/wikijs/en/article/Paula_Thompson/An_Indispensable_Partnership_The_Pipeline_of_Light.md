@@ -76,8 +76,7 @@ In the 15 years that we have kept track of Pipeline placements, as of June 2021,
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-03/indispensable-partnership-pipeline-light
 
 <figure class="table chapter-navigator">
   <table>

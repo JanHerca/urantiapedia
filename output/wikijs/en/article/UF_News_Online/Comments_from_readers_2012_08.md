@@ -104,8 +104,7 @@ These few words just begin to describe:
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-08/knowing-god-is-my-father, https://www.urantia.org/news/2012-08/what-urantia-book-means-me-angela-thurston
 
 <figure class="table chapter-navigator">
   <table>

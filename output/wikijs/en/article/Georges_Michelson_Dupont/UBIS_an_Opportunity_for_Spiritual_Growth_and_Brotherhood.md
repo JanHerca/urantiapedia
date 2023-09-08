@@ -91,8 +91,7 @@ Virtual classrooms do not inhibit the establishment of human relationships. On t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-12/urantia-book-internet-school-opportunity-spiritual-growth-and-brotherhood
 
 <figure class="table chapter-navigator">
   <table>

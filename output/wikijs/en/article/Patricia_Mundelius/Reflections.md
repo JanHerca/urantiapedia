@@ -61,7 +61,6 @@ When I look back on the 1990's when I was President of the Trustees and now in t
 - This article: https://www.urantia.org/news/2007-09/reflections
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

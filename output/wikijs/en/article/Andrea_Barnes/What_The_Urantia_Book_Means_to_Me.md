@@ -73,8 +73,7 @@ Peace be with you.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-06/what-urantia-book-means-me-andrea-barnes
 
 <figure class="table chapter-navigator">
   <table>

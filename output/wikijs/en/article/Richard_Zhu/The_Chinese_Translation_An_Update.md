@@ -101,8 +101,7 @@ The long history and culture attached to traditional Chinese make it aesthetical
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-01/chinese-translation-update
 
 <figure class="table chapter-navigator">
   <table>

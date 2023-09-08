@@ -62,8 +62,7 @@ For a copy of the handouts on small group process, study, teaching, and leadersh
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-09/appreciative-inquiry-study-groups
 
 <figure class="table chapter-navigator">
   <table>

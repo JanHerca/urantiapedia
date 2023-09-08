@@ -86,8 +86,7 @@ Our investment gains in 2018 have varied with the stock market performance. At t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-10/noteworthy-decisions-july-2018-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

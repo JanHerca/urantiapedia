@@ -57,8 +57,7 @@ I did give my father a book, and no, he did not read it. That's okay; I know he 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-03/how-urantia-book-found-me-and-what-it-means
 
 <figure class="table chapter-navigator">
   <table>

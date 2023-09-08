@@ -80,8 +80,7 @@ In many respects, the closest thing to experiencing a community of believers is 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-06/why-study-groups-matter-future-world
 
 <figure class="table chapter-navigator">
   <table>

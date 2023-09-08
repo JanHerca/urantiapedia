@@ -120,8 +120,7 @@ Associate Trustees: Jan Bernard, Marta Elders, Irmeli Ivalo-Sjölie, Olga Lopez,
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-09/noteworthy-decisions-july-2009-board-meeting
 
 <figure class="table chapter-navigator">
   <table>

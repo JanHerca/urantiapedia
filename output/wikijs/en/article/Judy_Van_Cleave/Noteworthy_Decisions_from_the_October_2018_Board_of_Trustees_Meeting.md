@@ -45,7 +45,7 @@ _By Judy Van Cleave, trustee, Urantia Foundation, Idaho, United States_
 
 Tamara Strumfeld and Henk Mylanus, our European sales manager, reported on year-todate book sales. At the end of Q3, book sales were down about 13\% and downloads from urantia.org were also down about 13\%. The most significant reason for the decline was the exceptionally high sales of German books in 2017 that did not reoccur in 2018 . The good news is that English sales are up slightly and Spanish sales are up 19\%.
 
-One thing is for certain—selling books in 2018 is difficult! Barnes \& Noble is in serious financial trouble, and most other major brickand-mortar bookstore chains are already out of business in the United States.
+One thing is for certain—selling books in 2018 is difficult! Barnes & Noble is in serious financial trouble, and most other major brickand-mortar bookstore chains are already out of business in the United States.
 
 The board reviewed the pricing of the Foundation's e-books. The current price of the English e-book is $4.99, but all other translations were priced at $8.99. Amazon indicates that the best price range for an ebook is between $2.00 and $4.99, therefore, the Trustees approved setting the price of all e-books at $4.99. This decision means a major price reduction in the price of e-books for each translation.
 
@@ -114,8 +114,7 @@ Urantia Foundation and the Urantia Society of Greater New York are planning to m
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-12/noteworthy-decisions-october-2018-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

@@ -243,8 +243,7 @@ To date, the term lists have been completed and uploaded to Déjà Vu for the Fr
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-09/report-translations-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

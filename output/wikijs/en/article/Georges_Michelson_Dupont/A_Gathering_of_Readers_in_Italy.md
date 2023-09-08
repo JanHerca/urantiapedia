@@ -88,8 +88,7 @@ Danielle did a great job in taking the initiative and organizing this gathering.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-09/gathering-readers-in-italy
 
 <figure class="table chapter-navigator">
   <table>

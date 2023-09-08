@@ -107,8 +107,7 @@ For now, my prayers, love, and support go to his wife Charo and their children A
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-04/remembering-carmelo-maria-martinez-ortiz-de-zarate
 
 <figure class="table chapter-navigator">
   <table>

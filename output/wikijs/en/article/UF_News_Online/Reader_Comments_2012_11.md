@@ -80,8 +80,7 @@ The more I study _The Urantia Book_, the more sure I am of the importance of sho
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-11/what-urantia-book-means-me-karmo-kalda
 
 <figure class="table chapter-navigator">
   <table>

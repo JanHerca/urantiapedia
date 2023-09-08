@@ -81,8 +81,7 @@ Both of these remarkable men may now be experiencing the glory of the mansion wo
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-12/celebration-souls
 
 <figure class="table chapter-navigator">
   <table>

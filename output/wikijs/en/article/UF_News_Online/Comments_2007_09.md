@@ -74,7 +74,6 @@ Cheryl Glicker, Milford Study Group, (USA)
 - This article: https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

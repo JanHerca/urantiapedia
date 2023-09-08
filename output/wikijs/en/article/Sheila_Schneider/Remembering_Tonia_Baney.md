@@ -45,7 +45,7 @@ _Editor's Note: Tonia Baney served as Urantia Foundation's executive director fr
 
 I first met Tonia Baney when she arrived at Urantia Foundation for the first expect from someone advising the trustees and helping them create a new organization for members who read _The Urantia Book_.
 
-Tonia and her husband Steve lived on the island of Maui in Hawaii. Tonia had established an advertising agency and was the executive director of the Maui Arts \& Cultural Center. She was also a talented portrait artist. For years, she would travel from Hawaii to Chicago, or wherever she was needed, to facilitate the work of ACT.
+Tonia and her husband Steve lived on the island of Maui in Hawaii. Tonia had established an advertising agency and was the executive director of the Maui Arts & Cultural Center. She was also a talented portrait artist. For years, she would travel from Hawaii to Chicago, or wherever she was needed, to facilitate the work of ACT.
 
 As a student of _The Urantia Book_ for over 20 years, Tonia was enthusiastic and dedicated to spreading the teachings in any way she could. And in 1996, Tonia became the executive director of Urantia Foundation.
 
@@ -101,8 +101,7 @@ Although this is a sad event, my memories of Tonia—her good heart, her beauty 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2023-03/remembering-tonia-marks-baney-former-executive-director-urantia-foundation
 
 <figure class="table chapter-navigator">
   <table>

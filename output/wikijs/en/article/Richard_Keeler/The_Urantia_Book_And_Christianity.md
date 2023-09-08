@@ -89,8 +89,7 @@ In my opinion, _The Urantia Book_ contains the only accurate account of the life
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-06/urantia-book-and-christianity
 
 <figure class="table chapter-navigator">
   <table>

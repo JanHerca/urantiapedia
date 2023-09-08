@@ -60,8 +60,7 @@ Of the 30 libraries I contacted in Indiana, 11 accepted the book. The effort was
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-12/library-placement
 
 <figure class="table chapter-navigator">
   <table>

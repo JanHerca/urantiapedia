@@ -67,8 +67,7 @@ I spent my late teens reading arcane books, throwing the I Ching (“perseveranc
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-10/what-urantia-book-means-me-michael-hill
 
 <figure class="table chapter-navigator">
   <table>

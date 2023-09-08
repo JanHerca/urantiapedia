@@ -208,8 +208,7 @@ For a translation to complete a full cycle and to be considered complete require
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-03/survey-translators-and-revisers-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

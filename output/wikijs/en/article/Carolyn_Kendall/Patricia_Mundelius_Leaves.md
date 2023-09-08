@@ -57,7 +57,6 @@ Pat left the Board in 1997, but in 2003 agreed to return as Trustee Emerita. Her
 - This article: https://www.urantia.org/news/2007-09/trustee-emerita-patricia-mundelius-leaves-expanded-board
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -57,8 +57,7 @@ The weekend included lovely hosting by Joanne Strobel and delicious meals by Ash
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-03/joint-education-seminar-urantia-foundation-focuses-sharing-teachings
 
 <figure class="table chapter-navigator">
   <table>

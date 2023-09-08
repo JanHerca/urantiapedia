@@ -105,8 +105,7 @@ Sue, president of the Urantia Book Fellowship, shared some of her personal histo
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-07/updates-april-2022-trustee-meeting
 
 <figure class="table chapter-navigator">
   <table>

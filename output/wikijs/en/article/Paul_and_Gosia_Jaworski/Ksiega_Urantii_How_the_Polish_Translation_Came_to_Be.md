@@ -79,8 +79,7 @@ While we were doing the translation, Gosia often commented that if our work help
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-03/ksiega-urantii-how-polish-translation-came-be
 
 <figure class="table chapter-navigator">
   <table>

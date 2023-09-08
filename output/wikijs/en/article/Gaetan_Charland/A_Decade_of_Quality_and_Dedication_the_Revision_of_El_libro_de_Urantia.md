@@ -70,8 +70,7 @@ I can tell you firsthand that this undertaking was a tremendous journey in teamw
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-09/decade-quality-and-dedication-revision-el-libro-de-urantia
 
 <figure class="table chapter-navigator">
   <table>

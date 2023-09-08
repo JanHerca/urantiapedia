@@ -70,8 +70,7 @@ Finding distributors for _The Urantia Book_ in Europe will be a challenge, as we
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-06/looking-french-distributor
 
 <figure class="table chapter-navigator">
   <table>

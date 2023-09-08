@@ -70,8 +70,7 @@ Make no mistake: We are still selling more than twenty thousand physical books e
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-10/free-downloads-urantia-book-urantiaorg
 
 <figure class="table chapter-navigator">
   <table>

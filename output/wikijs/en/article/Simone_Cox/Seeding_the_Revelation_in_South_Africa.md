@@ -68,7 +68,6 @@ As we pray earnestly that these wonderful papers will find their way into the ho
 - This article: https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

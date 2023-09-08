@@ -120,8 +120,7 @@ The spread of civilization must wait upon language. Live and growing languages i
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-10/quality-translations-40-year-process
 
 <figure class="table chapter-navigator">
   <table>

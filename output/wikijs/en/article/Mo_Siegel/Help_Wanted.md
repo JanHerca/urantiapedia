@@ -50,7 +50,6 @@ We deeply appreciate and need your help. Your words will inspire others to find 
 - This article: https://www.urantia.org/news/2007-09/help-wanted
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

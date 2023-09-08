@@ -82,8 +82,7 @@ Everyone was encouraged to prayerfully or worshipfully express him or herself. I
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-11/community-introduction-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

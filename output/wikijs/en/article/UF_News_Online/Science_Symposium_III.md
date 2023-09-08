@@ -55,8 +55,7 @@ The symposium will be held at Urantia Foundation in Chicago, Illinois, USA, and 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-09/there-is-still-time-submit-proposal-science-symposium-iii
 
 <figure class="table chapter-navigator">
   <table>

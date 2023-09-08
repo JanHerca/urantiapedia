@@ -71,8 +71,7 @@ Click here to visit our new Planned Giving website.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-10/leave-legacy-planned-giving
 
 <figure class="table chapter-navigator">
   <table>

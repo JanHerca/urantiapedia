@@ -81,7 +81,6 @@ I've found myself focused the past few years therefore on taking that challenge 
 - This article: https://www.urantia.org/news/2007-05/urantia-foundation-staff-jay-peregrine
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -144,8 +144,7 @@ Operating expenses in the first half of 2010 exceeded budget. Measures have been
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-09/presidents-report
 
 <figure class="table chapter-navigator">
   <table>

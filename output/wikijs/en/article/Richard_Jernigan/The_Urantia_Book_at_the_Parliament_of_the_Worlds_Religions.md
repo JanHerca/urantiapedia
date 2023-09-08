@@ -86,8 +86,7 @@ An hour before I left to catch my flight home, a small group of folk musicians p
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-12/urantia-book-parliament-worlds-religions
 
 <figure class="table chapter-navigator">
   <table>

@@ -70,8 +70,7 @@ What does _The Urantia Book_ mean to me? Everything.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-12/what-urantia-book-means-me
 
 <figure class="table chapter-navigator">
   <table>

@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_12/019.jpg">
 </figure>
 
-_By Irmeli Ivalo-Sjölie, Associate Trustee, Helsinki, Finland \& Werner Sutter, British Columbia, Canada_
+_By Irmeli Ivalo-Sjölie, Associate Trustee, Helsinki, Finland & Werner Sutter, British Columbia, Canada_
 
 For the first time Das Urantia Buch was introduced in Austria. It has been available in Germany and Switzerland since the first printing became available in 2006. In both countries there are study groups and many interested readers.
 
@@ -56,8 +56,7 @@ We feel that it was a worthwhile effort, that study groups will start forming in
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-12/urantia-book-in-austria
 
 <figure class="table chapter-navigator">
   <table>

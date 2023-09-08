@@ -70,7 +70,7 @@ A study group is also the place where people meet to understand difficult concep
 
 My husband and I sponsored and participated in study groups in Malta and in the Netherlands. Now we live in France, and we try to use different methods adapted to the needs of the study group attendees. We have a couple of different formats. We have one study group for beginners or advanced readers. This group studies the French translation. We have another study group in which my husband and I study the book (in either English or French) with one individual only. Our study groups are held in a “homey” context. We try to make it cozy and serve tea or coffee with homemade pies and cakes.
 
-Since 2005 we have hosted five to seven persons who come over from the Netherlands for three days to a week. At these study groups we study the book using the topical approach as a means of deepening our understanding of the basic concepts of the book. It gives these Netherlanders (and us) an opportunity to study the book in depth and to experience beautiful Britanny, France, where we live. They stay in nearby B \& Bs, and during the full-day study group, we provide a home-made lunch. We are a spiritual family sharing in all kinds of ways.
+Since 2005 we have hosted five to seven persons who come over from the Netherlands for three days to a week. At these study groups we study the book using the topical approach as a means of deepening our understanding of the basic concepts of the book. It gives these Netherlanders (and us) an opportunity to study the book in depth and to experience beautiful Britanny, France, where we live. They stay in nearby B & Bs, and during the full-day study group, we provide a home-made lunch. We are a spiritual family sharing in all kinds of ways.
 
 There is such a joy! It is each time a blessing and a privilege being together, learning and receiving so much in return! A study group follows the pattern of the universe which is sharing knowledge and experience. “Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love.” <a id="a74_309"></a>[[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)]
 
@@ -80,8 +80,7 @@ There is such a joy! It is each time a blessing and a privilege being together, 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-03/study-groups-principle-sharing
 
 <figure class="table chapter-navigator">
   <table>

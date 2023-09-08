@@ -74,8 +74,7 @@ Click here to see the movie: https://www.youtube.com/watch?v=loEnwEdRT_g
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-12/urantia-nebadon-and-master-universe-new-film-perspective
 
 <figure class="table chapter-navigator">
   <table>

@@ -79,8 +79,7 @@ It was a godsend that circumstances of life and the angels put them on my path. 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-09/enduring-legacy-two-great-teachers
 
 <figure class="table chapter-navigator">
   <table>

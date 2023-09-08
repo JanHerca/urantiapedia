@@ -100,8 +100,7 @@ There is much more to tell, but this is enough to give evidence that the decimal
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-06/decimal-seminar
 
 <figure class="table chapter-navigator">
   <table>

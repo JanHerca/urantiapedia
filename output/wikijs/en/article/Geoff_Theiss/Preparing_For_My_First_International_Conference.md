@@ -60,8 +60,7 @@ So, with sincerest excitement, I encourage you to visit http://ic14.org/ and tak
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-03/preparing-my-first-international-conference
 
 <figure class="table chapter-navigator">
   <table>

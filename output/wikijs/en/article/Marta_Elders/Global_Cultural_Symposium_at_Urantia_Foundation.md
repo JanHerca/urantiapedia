@@ -95,8 +95,7 @@ All times listed below are Central Daylight Time (CDT), USA:
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-04/global-cultural-symposium-urantia-foundation
 
 <figure class="table chapter-navigator">
   <table>

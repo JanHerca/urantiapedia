@@ -56,8 +56,7 @@ You may register for the event at http://www.uai2018.org/progr am/register/en. W
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-10/2018-urantia-association-international-conference
 
 <figure class="table chapter-navigator">
   <table>

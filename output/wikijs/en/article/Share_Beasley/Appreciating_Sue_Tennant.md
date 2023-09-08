@@ -24,7 +24,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light">
+        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light_2">
           <span class="pr-2">The Pipeline Of Light—Seeding The Urantia Book Worldwide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2023-8-29T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -94,6 +95,8 @@ Thank you, Father, for your beauty and symmetry.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2018-03/appreciating-sue-tennant
+
 
 
 
@@ -112,7 +115,7 @@ Thank you, Father, for your beauty and symmetry.
         </a>
         </td>
         <td>
-        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light">
+        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light_2">
           <span class="pr-2">The Pipeline Of Light—Seeding The Urantia Book Worldwide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -67,8 +67,7 @@ In 2010 the Board of Second Society Foundation voted to cease operations and tur
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-03/second-society-foundation-and-study-master-universe
 
 <figure class="table chapter-navigator">
   <table>

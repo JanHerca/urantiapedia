@@ -63,8 +63,7 @@ These gatherings allow us all, not only to grow in experience, comprehension, an
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-03/gathering-in-mexico-city
 
 <figure class="table chapter-navigator">
   <table>

@@ -46,8 +46,7 @@ If you speak English, have read the book in its entirety, and are passionate abo
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-08/volunteers-needed-urantia-book-index
 
 <figure class="table chapter-navigator">
   <table>

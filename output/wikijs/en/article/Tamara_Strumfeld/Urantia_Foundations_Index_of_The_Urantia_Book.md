@@ -79,8 +79,7 @@ The team at Urantia Foundation is excited to make this online index available to
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-10/urantia-foundations-index-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

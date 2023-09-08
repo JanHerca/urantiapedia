@@ -73,8 +73,7 @@ Let us not forget who we are and where are we going! Let us remember every day t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-06/reaching-perfection
 
 <figure class="table chapter-navigator">
   <table>

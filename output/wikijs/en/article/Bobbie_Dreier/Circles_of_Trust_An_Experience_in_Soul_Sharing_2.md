@@ -63,8 +63,7 @@ You may register for the retreat as well as the conference at [www.IC17.org](htt
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-03/dancing-god-emerging-in-sacredness
 
 <figure class="table chapter-navigator">
   <table>

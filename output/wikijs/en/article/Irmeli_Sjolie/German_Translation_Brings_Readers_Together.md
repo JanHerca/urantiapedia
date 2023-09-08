@@ -70,7 +70,6 @@ After the meeting was over, many new friendships were formed and new study group
 - This article: https://www.urantia.org/news/2007-12/german-translation-brings-readers-together
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

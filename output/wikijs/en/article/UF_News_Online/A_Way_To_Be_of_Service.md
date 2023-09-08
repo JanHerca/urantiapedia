@@ -14,7 +14,7 @@ dateCreated: 2023-8-29T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light">
+        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Pipeline Of Light—Seeding The Urantia Book Worldwide</span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2023-8-29T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 Here is a chance to express your gratitude and love for _The Urantia Book_. When individuals browse the Internet for products or services, nothing gets attention or boosts confidence more than lots of five-star ratings on the items being viewed. The higher the ratings, the more trust an individual will have.
@@ -57,6 +58,8 @@ Thank you!
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2018-03/way-be-service
+
 
 
 
@@ -65,7 +68,7 @@ Thank you!
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light">
+        <a href="/en/article/Michelle_Klimesh/The_Pipeline_of_Light_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Pipeline Of Light—Seeding The Urantia Book Worldwide</span>
         </a>
         </td>

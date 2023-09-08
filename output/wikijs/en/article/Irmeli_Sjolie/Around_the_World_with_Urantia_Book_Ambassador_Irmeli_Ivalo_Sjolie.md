@@ -93,8 +93,7 @@ In Frankfort, Germany, the German Urantia Book readers held their sixth gatherin
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-03/around-world-urantia-book-ambassador-irmeli-ivalo-sjolie
 
 <figure class="table chapter-navigator">
   <table>

@@ -85,8 +85,7 @@ All of us really appreciated this retreat. We shared our souls; we experienced b
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-12/centering-prayer-retreat-in-brittany-france
 
 <figure class="table chapter-navigator">
   <table>

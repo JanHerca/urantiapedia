@@ -89,8 +89,7 @@ It was a ‘once-in-alifetime’ experience to see so many people from so many r
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-03/parliament-worlds-religions
 
 <figure class="table chapter-navigator">
   <table>

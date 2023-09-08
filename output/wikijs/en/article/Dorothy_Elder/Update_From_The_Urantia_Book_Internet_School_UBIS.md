@@ -63,8 +63,7 @@ In closing, I want you to know that, without the dedication of such devoted volu
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-06/update-urantia-book-internet-school-ubis
 
 <figure class="table chapter-navigator">
   <table>

@@ -80,8 +80,7 @@ Please contact Line St-Pierre for more information at line.stpierre@gmail.com.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-12/dancing-god-embodying-love-god
 
 <figure class="table chapter-navigator">
   <table>

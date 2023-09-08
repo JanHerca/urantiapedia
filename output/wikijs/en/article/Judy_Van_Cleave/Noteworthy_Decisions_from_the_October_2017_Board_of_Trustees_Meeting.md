@@ -156,8 +156,7 @@ In one of the charts in the above link you will see Gen Z's interest in the wond
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-12/noteworthy-decisions-october-2017-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

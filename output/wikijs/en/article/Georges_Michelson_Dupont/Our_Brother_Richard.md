@@ -80,8 +80,7 @@ I know I'Il meet him again soon.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-04/our-brother-richard
 
 <figure class="table chapter-navigator">
   <table>

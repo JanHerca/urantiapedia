@@ -56,8 +56,7 @@ The Quebecois responsible for the audio version of the French translation deserv
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-12/french-audio-version-le-livre-durantia
 
 <figure class="table chapter-navigator">
   <table>

@@ -81,8 +81,7 @@ cwesquire@hotmail.com
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-06/second-mile-community-experience
 
 <figure class="table chapter-navigator">
   <table>

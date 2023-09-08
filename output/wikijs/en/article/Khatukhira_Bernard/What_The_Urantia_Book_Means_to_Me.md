@@ -58,8 +58,7 @@ In summary, _The Urantia Book_ is my guide to understanding God and his ways. It
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-10/what-urantia-book-means-me-khatukhira-bernard
 
 <figure class="table chapter-navigator">
   <table>

@@ -64,8 +64,7 @@ The following is Meredith's story of how he found _The Urantia Book_.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-06/meredith-sprunger-story
 
 <figure class="table chapter-navigator">
   <table>

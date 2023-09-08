@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Michelle Klimesh<br>© 2018 Urantia Foundation</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Michelle Klimesh<br>© 2009 Urantia Foundation</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Share_Beasley/Appreciating_Sue_Tennant">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appreciating Sue Tennant</span>
+        <a href="/en/article/Claire_Mylanus/When_Great_Britain_Meets_Little_Brittany">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Great Britain Meets Little Brittany</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-12-issue-1-march-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Issue 1, March 2018 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-3-issue-4-dec-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Issue 4, Dec. 2009 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/A_Way_To_Be_of_Service">
-          <span class="pr-2">A Way To Be of Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Richard_Dore_and_Colette_Pelletier/The_French_Audio_Version_of_Le_Livre_dUrantia">
+          <span class="pr-2">The French Audio Version of Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -34,15 +34,15 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
+
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2009_12/030.jpg">
 </figure>
 
 _By Michelle Klimesh, California, USA_
 
-Editors Note: The Pipeline of Light began sending books to Latin America in the summer of 2002. The project has grown over the years sending out over 2000 copies of the book to 66 countries. If you would like to read more about this project or support this project, please go to
-
-http://urantiabook.org/admin_public/pipeline_what_is_it.htm
+_Editors Note: The Pipeline of Light began sending books to Latin America in the summer of 2002. The project has grown over the years sending out over 2000 copies of the book to 66 countries. If you would like to read more about this project or support this project, please go to [Pipeline of Light](http://urantiabook.org/admin_public/pipeline_what_is_it.htm)_
 
 Upon returning from a trip to South America in 2002, the chair of the Urantia Book Fellowship's International Committee reported that he had visited a study group where seventy readers were sharing eleven copies of _El Libro de Urantia_. In some countries, books were completely unavailable, and in others, a single copy might cost 5\% of an average person's annual income.
 
@@ -88,6 +88,7 @@ It has been a joy and an education to work alongside the Pipeline of Light volun
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2009-12/pipeline-light
 
 
 
@@ -96,25 +97,18 @@ It has been a joy and an education to work alongside the Pipeline of Light volun
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Share_Beasley/Appreciating_Sue_Tennant">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appreciating Sue Tennant</span>
+        <a href="/en/article/Claire_Mylanus/When_Great_Britain_Meets_Little_Brittany">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Great Britain Meets Little Brittany</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-12-issue-1-march-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Issue 1, March 2018 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-3-issue-4-dec-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Issue 4, Dec. 2009 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/A_Way_To_Be_of_Service">
-          <span class="pr-2">A Way To Be of Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
-2">The French Audio Version of Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Richard_Dore_and_Colette_Pelletier/The_French_Audio_Version_of_Le_Livre_dUrantia">
+          <span class="pr-2">The French Audio Version of Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

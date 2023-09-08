@@ -60,8 +60,6 @@ Our clergy group spent several years interviewing the people connected with the 
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 
-
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

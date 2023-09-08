@@ -62,8 +62,7 @@ Urantia Foundation generously paid for all the books and shipping costs, while A
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-03/sending-le-livre-durantia-cameroon
 
 <figure class="table chapter-navigator">
   <table>

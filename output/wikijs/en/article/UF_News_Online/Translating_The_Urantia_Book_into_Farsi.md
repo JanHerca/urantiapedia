@@ -56,8 +56,7 @@ What a delight and honor it is to be a translator of _The Urantia Book_ and to b
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-06/translating-urantia-book-farsi-inspiring-story-how-project-began
 
 <figure class="table chapter-navigator">
   <table>

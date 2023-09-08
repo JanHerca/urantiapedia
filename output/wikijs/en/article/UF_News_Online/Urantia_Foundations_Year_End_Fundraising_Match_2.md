@@ -57,6 +57,7 @@ Trutstees: Gard Jameson, Richard Keeler, Marilynn Kulieke, Georges Michelson-Dup
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2015-12/urantia-foundations-year-end-fundraising-match-2015
 
 
 <figure class="table chapter-navigator">

@@ -53,8 +53,7 @@ What a pleasure and privilege it is to work on this project with Eliana. I am so
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-11/engineering-audio-o-livro-de-urantia
 
 <figure class="table chapter-navigator">
   <table>

@@ -96,8 +96,7 @@ For more information, click here.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-06/indonesian-translation-now-available-online, https://www.urantia.org/news/2020-06/updates-polish-farsi-and-danish, https://www.urantia.org/news/2020-06/german-facebook-page-and-thoughts-ponder, https://www.urantia.org/news/2020-06/translator-volunteers-needed, https://www.urantia.org/news/2020-06/spiritual-retreat
 
 <figure class="table chapter-navigator">
   <table>

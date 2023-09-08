@@ -86,8 +86,7 @@ I hope to deepen many of the contacts and feelings I have experienced during my 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-09/reader-s-experience-staying-533-w-diversey-parkway
 
 <figure class="table chapter-navigator">
   <table>

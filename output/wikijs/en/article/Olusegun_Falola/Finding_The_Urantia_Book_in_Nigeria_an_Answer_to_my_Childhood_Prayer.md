@@ -58,7 +58,7 @@ While I basked in the euphoria of finding _The Urantia Book_, I called my parent
 
 The next day I bought packs of diskettes which I took to the cyber-café, where I downloaded quite a few papers from the book. These were the early days of the Internet in Nigeria. Later, when I had a computer, I transferred the book from diskette to my desktop computer, where I read it continuously for more than ninety days.
 
-For ten years, I have been reading _The Urantia Book_ online until last month when I received a physical Urantia Book, sent to me from Barnes \& Noble in the USA. I felt as though I were a child having his first “toy.” The book stays in my office bag because I take it to work every day.
+For ten years, I have been reading _The Urantia Book_ online until last month when I received a physical Urantia Book, sent to me from Barnes & Noble in the USA. I felt as though I were a child having his first “toy.” The book stays in my office bag because I take it to work every day.
 
 My experience finding _The Urantia Book_ online was an intriguing one. Can you imagine having your childhood prayer answered beyond your wildest imagination? It was much later that I read the history of how the Forum started receiving the papers.
 
@@ -74,8 +74,7 @@ With this revelation, I know where I came from, and I know where I am going.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-10/finding-urantia-book-in-nigeria-answer-my-childhood-prayer
 
 <figure class="table chapter-navigator">
   <table>

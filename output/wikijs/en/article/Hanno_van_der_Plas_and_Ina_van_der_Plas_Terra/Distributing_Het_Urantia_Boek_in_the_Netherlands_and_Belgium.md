@@ -60,8 +60,7 @@ Many readers have expressed that the teachings of _The Urantia Book_ have touche
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-06/distributing-het-urantia-boek-in-netherlands-and-belgium
 
 <figure class="table chapter-navigator">
   <table>

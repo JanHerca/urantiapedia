@@ -79,8 +79,7 @@ The Estonian translation resulted from the fruits of teamwork, which affords us 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-12/story-urantia-raamat-estonian-translation
 
 <figure class="table chapter-navigator">
   <table>

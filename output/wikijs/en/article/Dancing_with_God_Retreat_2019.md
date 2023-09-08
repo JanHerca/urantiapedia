@@ -36,7 +36,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 New Mexico, Synergia Ranch April 4-7
 Chicago, Urantia Foundation, September 12-15
-Michigan, The Red Poppy B\&B Retreat Center, Sept. 19-22
+Michigan, The Red Poppy B&B Retreat Center, Sept. 19-22
 
 In a sacred circle of trust with other women, we invite you to explore the dignity of being Daughters of God by honoring our value and importance, and by co-operating with the divine spirit within to bring forth the beautiful harvest of the fruits of the spirit.
 

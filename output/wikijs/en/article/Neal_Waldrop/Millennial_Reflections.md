@@ -61,7 +61,6 @@ This new activity will be independent of Urantia Foundation and separate from th
 - This article: https://www.urantia.org/news/2007-12/millennial-reflections
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -62,8 +62,7 @@ To find out more about the mission of the Parliament of the World's Religions, y
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-03/urantia-book-booth-parliament-worlds-religions
 
 <figure class="table chapter-navigator">
   <table>

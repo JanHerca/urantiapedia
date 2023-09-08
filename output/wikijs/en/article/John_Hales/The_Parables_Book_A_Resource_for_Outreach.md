@@ -83,8 +83,7 @@ Here's to the continuing adventure of serving our sisters and brothers, wherever
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-07/parables-book-resource-outreach
 
 <figure class="table chapter-navigator">
   <table>

@@ -104,7 +104,6 @@ Travel in Asia is cheap and appeals to many hundreds of thousands of young peopl
 - This article: https://www.urantia.org/news/2007-05/urantia-book-in-india
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

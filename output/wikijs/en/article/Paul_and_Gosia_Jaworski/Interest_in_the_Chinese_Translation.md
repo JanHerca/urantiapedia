@@ -57,8 +57,7 @@ To our surprise, we found fragments of a Chinese translation of _The Urantia Boo
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-09/interest-in-chinese-translation
 
 <figure class="table chapter-navigator">
   <table>

@@ -99,8 +99,6 @@ This is a Urantian &reg; publication.
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 
-
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

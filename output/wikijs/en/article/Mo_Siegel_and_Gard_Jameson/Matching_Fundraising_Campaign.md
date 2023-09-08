@@ -75,7 +75,6 @@ Please contact Urantia Foundation for more information about the matching fundra
 - This article: https://www.urantia.org/news/2007-12/urantia-foundation-launches-matching-fundraising-campaign-in-december-2007
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

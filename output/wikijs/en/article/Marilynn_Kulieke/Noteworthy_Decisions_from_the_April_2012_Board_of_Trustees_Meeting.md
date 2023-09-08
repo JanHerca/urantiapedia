@@ -64,8 +64,7 @@ _By Marilynn Kulieke, secretary, Urantia Foundation, Lincolnshire, Illinois, USA
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-06/noteworthy-decisions-april-2012-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

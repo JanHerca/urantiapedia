@@ -83,8 +83,7 @@ In the evenings we were treated to traditional music and dance at the hotel. One
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-06/my-trip-colombia-south-america
 
 <figure class="table chapter-navigator">
   <table>

@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2007_05/034.jpg">
 </figure>
 
-_When the flood tides of buman adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable..._  <a id="a57_247"></a>[[UB 100:2](/en/The_Urantia_Book/100#p2)]
+_When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable..._  <a id="a57_247"></a>[[UB 100:2](/en/The_Urantia_Book/100#p2)]
 
 <br style="clear:both;"/>
 
@@ -82,7 +82,6 @@ On the web at www.urantia.org
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
 
 
 <figure class="table chapter-navigator">

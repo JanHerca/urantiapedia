@@ -66,6 +66,7 @@ _Evett Twyford, Illinois, USA_
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2011-03/what-does-urantia-book-mean-me, https://www.urantia.org/news/2011-03/quiet
 
 <figure class="table chapter-navigator">
   <table>

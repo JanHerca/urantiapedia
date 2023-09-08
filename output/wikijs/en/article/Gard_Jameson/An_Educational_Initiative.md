@@ -81,7 +81,6 @@ Though no definitive conclusions were arrived at, it was exciting to see educato
 - This article: https://www.urantia.org/news/2007-09/educational-initiative
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

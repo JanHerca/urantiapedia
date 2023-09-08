@@ -60,8 +60,7 @@ May you and your loved ones be blessed with abundant joy, peace, and good health
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-12/infinite-treasures-are-ours
 
 <figure class="table chapter-navigator">
   <table>

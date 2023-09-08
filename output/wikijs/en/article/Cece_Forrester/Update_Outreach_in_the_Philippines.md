@@ -103,8 +103,7 @@ Looking at what they accomplished on their 2018 trip, and their ambitious goals 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-10/update-outreach-in-philippines
 
 <figure class="table chapter-navigator">
   <table>

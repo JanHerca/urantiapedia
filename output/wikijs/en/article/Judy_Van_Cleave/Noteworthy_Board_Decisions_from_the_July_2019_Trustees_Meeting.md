@@ -82,7 +82,7 @@ The board reviewed a) a report from the president and the executive director, b)
 
 Urantia Foundation desires goodwill within the readership community. To that end, leaders from Urantia Association International (UAI), the Urantia Book Fellowship, and Urantia University attended Urantia Foundation's July board meeting via Zoom. Invited and presenting were Chris Wood, president of UAI; Lara Amyx, finance chair and Emilio Coppola, treasurer, of the Fellowship; and Elisabeth Callahan, executive director of UrantiaUniversity.
 
-Each group, including Urantia Foundation, presented their programs and hopes for the future. There was ample time for Q\&A by the attendees. As stated in _The Urantia Book_, you can't help but love someone once you understand them. This first exchange was productive and opened the door for future conversations.
+Each group, including Urantia Foundation, presented their programs and hopes for the future. There was ample time for Q&A by the attendees. As stated in _The Urantia Book_, you can't help but love someone once you understand them. This first exchange was productive and opened the door for future conversations.
 
 ## 7. Seminars and Events at 533
 
@@ -98,8 +98,7 @@ The following events will be hosted at 533 Diversey this fall:
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-09/noteworthy-board-decisions-july-2019-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

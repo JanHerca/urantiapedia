@@ -64,8 +64,7 @@ Urantia Foundation is aware of these activities in a broad and general sense, bu
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-09/are-you-new-religion-or-cult
 
 <figure class="table chapter-navigator">
   <table>

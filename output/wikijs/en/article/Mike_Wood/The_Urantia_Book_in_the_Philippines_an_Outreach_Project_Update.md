@@ -68,8 +68,7 @@ Their outreach service brings to mind one of my favorite morontia mota statement
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-03/urantia-book-in-philippines-outreach-project-update
 
 <figure class="table chapter-navigator">
   <table>

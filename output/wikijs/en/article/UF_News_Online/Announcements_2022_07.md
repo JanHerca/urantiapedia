@@ -63,8 +63,7 @@ Please help spread the word to any readers you know, encourage them to visit the
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-07/hungarian-facebook-page and https://www.urantia.org/news/2022-07/arabic-translation-now-available-online
 
 <figure class="table chapter-navigator">
   <table>

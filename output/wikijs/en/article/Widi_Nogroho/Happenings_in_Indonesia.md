@@ -68,8 +68,7 @@ The wider introduction and dissemination of the teachings of _The Urantia Book_ 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-10/happenings-in-indonesia
 
 <figure class="table chapter-navigator">
   <table>

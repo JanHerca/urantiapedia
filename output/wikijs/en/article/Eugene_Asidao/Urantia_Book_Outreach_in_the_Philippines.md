@@ -44,8 +44,7 @@ _Editor's Note: Eugene Asiado and his wife, Belen, are in the Philippines for th
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-03/urantia-book-outreach-in-philippines
 
 <figure class="table chapter-navigator">
   <table>

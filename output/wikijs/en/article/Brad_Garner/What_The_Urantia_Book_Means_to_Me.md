@@ -74,8 +74,7 @@ Growing up with and (at times) wrestling with _The Urantia Book_ has defined my 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-06/what-urantia-book-means-me-brad-garner
 
 <figure class="table chapter-navigator">
   <table>

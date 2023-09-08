@@ -70,8 +70,7 @@ On December 3, 1970, a probate court transferred the ownership of 533 Diversey P
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-09/reflections-533-diversey
 
 <figure class="table chapter-navigator">
   <table>

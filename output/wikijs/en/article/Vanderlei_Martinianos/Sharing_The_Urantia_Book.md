@@ -80,8 +80,7 @@ If any of you would like to reach out, please email me at martinianos2020@gmail.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-04/sharing-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

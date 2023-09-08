@@ -64,8 +64,7 @@ The identification of texts related to the content of _The Urantia Book_ is almo
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-12/new-library-human-source-books
 
 <figure class="table chapter-navigator">
   <table>

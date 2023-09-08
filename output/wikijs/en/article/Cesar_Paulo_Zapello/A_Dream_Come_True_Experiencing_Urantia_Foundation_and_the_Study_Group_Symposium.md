@@ -55,8 +55,7 @@ To everyone we met, thank you. You made us feel completely at home. We send you 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-10/dream-come-true-experiencing-urantia-foundation-and-study-group-symposium
 
 <figure class="table chapter-navigator">
   <table>

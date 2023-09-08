@@ -60,8 +60,7 @@ Endowment funds ensure future translations
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-06/urantia-community-endowment-fund-future
 
 <figure class="table chapter-navigator">
   <table>

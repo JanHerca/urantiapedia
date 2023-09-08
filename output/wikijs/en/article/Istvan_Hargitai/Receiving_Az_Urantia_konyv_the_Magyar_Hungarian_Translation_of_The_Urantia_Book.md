@@ -73,8 +73,7 @@ In 2008, upon the invitation of Gábor, I was privileged to join the translation
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-12/receiving-magyar-translation-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

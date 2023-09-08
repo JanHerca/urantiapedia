@@ -51,7 +51,7 @@ French | 1961 | Jacques Weiss | Le Livre d'Urantia
 Finnish | 1993 | Seppo Kanerva | Urantia-kirja
 Spanish 1993 | 1993 | EurAmerica (several translators) | _El Libro de Urantia_
 Russian | 1997 | Michael Hanian | КНИГА УРАНТИИ
-Dutch | 1998 | Henry Begemann \& Nienke Begemann-Brugman | Het Urantia Boek
+Dutch | 1998 | Henry Begemann & Nienke Begemann-Brugman | Het Urantia Boek
 Korean | 2000 | Kwan Choi | 유란시아 서
 Portuguese CD | 2003 | Luiz Carlos Dolabella Chagas | O Livro de Urântia
 Lithuanian | 2004 | Algimantas Jokubènas | Urantijos Knyga
@@ -62,15 +62,14 @@ Portuguese | 2008 | Luiz Carlos Dolabella Chagas | O Livro de Urântia
 Spanish EE | 2009 | Antonio Moya | _El Libro de Urantia_ Edición europea
 Estonian | 2010 | Meeli Kuura | Urantia Raamat
 Hungarian | 2010 | Gábor Cseh | Az Urantia könyv
-Polish | 2010 | Paul \& Gosia Jaworski | Księga Urantii
+Polish | 2010 | Paul & Gosia Jaworski | Księga Urantii
 Swedish | 2010 | Joel Rehnström | Urantiaboken
 <br style="clear:both;"/>
 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-08/timeline-urantia-book-and-its-translations
 
 <figure class="table chapter-navigator">
   <table>

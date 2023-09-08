@@ -81,7 +81,7 @@ Moving forward in Q3, the focus will be on:
 
 ## Cultural Advisory Council
 
-Jaime Rey Albornoz provided a PowerPoint presentation on the history, culture, and religions of Colombia, and their impressive presence in Latin America. During the Q\&A, he stated that for those who are helping to disseminate the teachings in Colombia, the emphasis is on the inner life constituting true religion. He believes that this approach will help readers of _The Urantia Book_ achieve spiritual transformation.
+Jaime Rey Albornoz provided a PowerPoint presentation on the history, culture, and religions of Colombia, and their impressive presence in Latin America. During the Q&A, he stated that for those who are helping to disseminate the teachings in Colombia, the emphasis is on the inner life constituting true religion. He believes that this approach will help readers of _The Urantia Book_ achieve spiritual transformation.
 
 ## Invited guests—Paul and Gosia
 
@@ -91,8 +91,7 @@ JaworskiPaul and Gosia Jaworski gave an update on their work with the Polish tra
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-10/updates-july-2022-trustee-meeting
 
 <figure class="table chapter-navigator">
   <table>

@@ -61,7 +61,6 @@ I love you.
 - This article: https://www.urantia.org/news/2007-09/even-i-have-loved-you
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

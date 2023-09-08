@@ -70,8 +70,7 @@ _By Mo Siegel, President, Urantia Foundation, Colorado, USA_
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-06/noteworthy-decisions-april-2009-board-meeting
 
 <figure class="table chapter-navigator">
   <table>

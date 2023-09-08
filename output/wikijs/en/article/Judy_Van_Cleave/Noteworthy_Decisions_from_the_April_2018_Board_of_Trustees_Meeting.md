@@ -142,8 +142,7 @@ required 8750,000 for 2018. we appreciate your support!
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-07/noteworthy-decisions-april-2018-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

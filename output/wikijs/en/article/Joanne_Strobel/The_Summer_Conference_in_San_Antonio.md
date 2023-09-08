@@ -83,8 +83,7 @@ I returned to Chicago with a renewed appreciation of how Jesus lived, worked, an
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-06/summer-conference-in-san-antonio
 
 <figure class="table chapter-navigator">
   <table>

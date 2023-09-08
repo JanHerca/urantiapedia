@@ -49,8 +49,6 @@ _Editor's Note: The Parables of Jesus—Complete Teachings from _The Urantia Boo
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 
-
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

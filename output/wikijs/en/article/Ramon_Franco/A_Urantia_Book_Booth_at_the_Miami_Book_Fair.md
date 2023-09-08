@@ -64,8 +64,7 @@ Our group included Angela Alvarez, Jeannette Francis, Eva Castell, Luis Betancur
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-12/urantia-book-booth-miami-book-fair
 
 <figure class="table chapter-navigator">
   <table>

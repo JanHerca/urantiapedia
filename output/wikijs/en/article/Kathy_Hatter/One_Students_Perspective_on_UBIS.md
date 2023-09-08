@@ -70,8 +70,7 @@ I look forward to taking many more courses. I am thankful that _The Urantia Book
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-09/one-students-perspective-ubis
 
 <figure class="table chapter-navigator">
   <table>

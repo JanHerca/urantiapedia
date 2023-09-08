@@ -66,8 +66,7 @@ This approach may be Pauline, but remember, even though the angels respected Abn
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-03/urantia-foundation-announces-new-book-covers-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

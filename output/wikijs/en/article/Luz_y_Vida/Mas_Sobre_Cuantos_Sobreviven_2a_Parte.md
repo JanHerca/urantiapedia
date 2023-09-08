@@ -118,7 +118,7 @@ But, wow! we have to cover that minimum, which I repeat I do not see as related 
 
 Regarding the paragraph I sent earlier, here is the original in English:
 
-> «_A buman mind discerning right and wrong and possessing the capacity to worship God, in union with a divine Adjuster, is all that is required in that mortal to initiate and <ins>foster the production of his immortal soul</ins> of survival qualities <ins>if such a spirit-endowed individual seeks God and sincerely desires to become like him</ins>, honestly elects to do the will of the Father in heaven_.”
+> «_A human mind discerning right and wrong and possessing the capacity to worship God, in union with a divine Adjuster, is all that is required in that mortal to initiate and <ins>foster the production of his immortal soul</ins> of survival qualities <ins>if such a spirit-endowed individual seeks God and sincerely desires to become like him</ins>, honestly elects to do the will of the Father in heaven_.”
 
 It could be that the condition of “seeking God” is needed to <ins>FOSTER</ins> the development of the soul, not its birth.
 

@@ -60,8 +60,7 @@ May the Father above hold us all in the palm of His hand and turn us around whic
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-03/ubis-students-perspective
 
 <figure class="table chapter-navigator">
   <table>

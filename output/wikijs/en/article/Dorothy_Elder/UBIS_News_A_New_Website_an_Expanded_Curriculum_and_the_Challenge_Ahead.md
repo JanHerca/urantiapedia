@@ -75,8 +75,7 @@ If this unique educational program appeals to you, **please come and join us!** 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-06/ubis-news-new-website-expanded-curriculum-and-challenge-ahead
 
 <figure class="table chapter-navigator">
   <table>

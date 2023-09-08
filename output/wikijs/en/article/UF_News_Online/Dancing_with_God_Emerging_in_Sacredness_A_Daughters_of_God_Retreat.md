@@ -62,8 +62,7 @@ If you would like to be a part of this event at Urantia Foundation headquarters,
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-03/dancing-god-emerging-in-sacredness
 
 <figure class="table chapter-navigator">
   <table>

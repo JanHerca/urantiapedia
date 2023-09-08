@@ -97,8 +97,7 @@ Sabino Souza Hüttner
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/foundation-prints-portuguese-translation
-
+- This article: https://www.urantia.org/news/2016-06/revision-portuguese-translation-urantia-book
 
 
 <figure class="table chapter-navigator">

@@ -82,8 +82,7 @@ The board decided to hire a management consulting firm for assistance in definin
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-03/noteworthy-decisions-january-2015-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

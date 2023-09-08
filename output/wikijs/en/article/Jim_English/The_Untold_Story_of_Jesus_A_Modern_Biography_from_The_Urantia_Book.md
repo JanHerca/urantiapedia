@@ -99,8 +99,7 @@ The pages in this book are rife with passages declaring the world ripe for a rev
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-04/untold-story-jesus-modern-biography-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

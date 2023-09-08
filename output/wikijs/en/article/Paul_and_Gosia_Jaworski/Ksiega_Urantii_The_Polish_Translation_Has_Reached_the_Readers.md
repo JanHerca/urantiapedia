@@ -63,8 +63,7 @@ _Księga Urantii_ has been slowly embedding itself in the hearts and minds of ge
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-12/ksiega-urantii-polish-translation-has-reached-readers
 
 <figure class="table chapter-navigator">
   <table>

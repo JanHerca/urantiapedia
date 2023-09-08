@@ -46,7 +46,7 @@ The size of the Expo and the number of exhibitors have been shrinking over the p
 
 Physical book sales across the industry are up about half of one percent. We Urantia Book readers can celebrate the Foundation's book sales being up eleven percent for 2016 and three percent for the first quarter of 2017. E-book sales are down everywhere, and that includes Urantia e-books in several languages.
 
-Many of you may have noticed that Amazon has placed a quantity restriction on the English paperback. Amazon will only sell one paperback per customer per week. Mo and I did our best to figure out why the restriction is there and how to lift it. No one really knows why, but one person experienced with Amazon said that this has happened before with popular books that individuals buy in larger quantities. Amazon does not want to be treated like a wholesaler, and once the shipping algorithms are put in place, there is nothing anyone can do about it. Hopefully this will change in the future, but for the meantime, please purchase larger quantities of paperbacks at Barnes \& Noble. The price of the book is discounted there as well.
+Many of you may have noticed that Amazon has placed a quantity restriction on the English paperback. Amazon will only sell one paperback per customer per week. Mo and I did our best to figure out why the restriction is there and how to lift it. No one really knows why, but one person experienced with Amazon said that this has happened before with popular books that individuals buy in larger quantities. Amazon does not want to be treated like a wholesaler, and once the shipping algorithms are put in place, there is nothing anyone can do about it. Hopefully this will change in the future, but for the meantime, please purchase larger quantities of paperbacks at Barnes & Noble. The price of the book is discounted there as well.
 
 On the Latin American front let us express appreciation to the readers in Brazil. One local bookseller lamented that, due to economic hardship, book orders had come to a standstill for many months. One book, however, continued to be in demand—_O Livro de Urântia_!
 
@@ -69,8 +69,7 @@ There remains much work to be done to seed _The Urantia Book_ and its teachings 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-06/bookexpo-america-2017
 
 <figure class="table chapter-navigator">
   <table>

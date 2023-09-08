@@ -62,8 +62,7 @@ As a follow-up to this event, the Bogotá Urantia Association hosted an online t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-06/international-book-fair-in-bogota
 
 <figure class="table chapter-navigator">
   <table>

@@ -80,8 +80,7 @@ _The Urantia Book_ Enhanced Edition will make studying the book easier. Buy your
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-04/new-enhanced-english-e-book
 
 <figure class="table chapter-navigator">
   <table>

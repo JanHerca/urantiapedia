@@ -58,8 +58,7 @@ I encourage readers of _The Urantia Book_ worldwide to attend a conference of re
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-06/reflections-where-gaps-were-bridged
 
 <figure class="table chapter-navigator">
   <table>

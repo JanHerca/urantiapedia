@@ -58,8 +58,7 @@ The next fair we are planning to attend will be in Zurich, Switzerland, in March
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-12/das-urantia-buch-in-munich
 
 <figure class="table chapter-navigator">
   <table>

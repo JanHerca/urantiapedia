@@ -76,8 +76,7 @@ From the above report, I hope you are able to glean that Urantia Foundation is t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-03/education-initiative
 
 <figure class="table chapter-navigator">
   <table>

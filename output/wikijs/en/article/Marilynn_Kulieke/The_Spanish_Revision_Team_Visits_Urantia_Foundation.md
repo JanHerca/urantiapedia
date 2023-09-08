@@ -65,8 +65,7 @@ Although we may not have treated our guests to an American culinary experience, 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-12/spanish-revision-team-visits-urantia-foundation
 
 <figure class="table chapter-navigator">
   <table>

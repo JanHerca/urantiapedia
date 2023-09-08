@@ -113,8 +113,7 @@ Both shared their long-term visions that Urantia Foundation would evolve into th
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-01/updates-october-2021-trustee-meeting
 
 <figure class="table chapter-navigator">
   <table>

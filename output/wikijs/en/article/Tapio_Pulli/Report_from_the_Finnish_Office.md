@@ -72,8 +72,7 @@ My wish is to help Urantia Foundation by selling Urantia Books in Finland and in
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-03/report-finnish-office
 
 <figure class="table chapter-navigator">
   <table>

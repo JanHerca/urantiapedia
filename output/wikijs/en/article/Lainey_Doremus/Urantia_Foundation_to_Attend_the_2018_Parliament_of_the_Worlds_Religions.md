@@ -68,7 +68,7 @@ Tuesday, November 6, from 3:15 to 4:00 p.m.
 <img src="/image/article/UF_News_Online/2018_10/050.jpg">
 </figure>
 
-**Beyond Prejudice, Bias \& Bigotry, Toward the Golden Rule—Camp Anytown**
+**Beyond Prejudice, Bias & Bigotry, Toward the Golden Rule—Camp Anytown**
 
 Gard Jameson
 Room 711
@@ -93,8 +93,7 @@ For more information, or to register, visit parliamentofreligions.org.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-10/urantia-foundation-attend-2018-parliament-worlds-religions
 
 <figure class="table chapter-navigator">
   <table>

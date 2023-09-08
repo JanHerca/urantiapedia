@@ -157,6 +157,8 @@ The Board elected: Mo Siegel to serve as President of the Board of Trustees of U
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2008-12/noteworthy-decisions-november-2008-board-meeting
+
 
 <figure class="table chapter-navigator">
   <table>

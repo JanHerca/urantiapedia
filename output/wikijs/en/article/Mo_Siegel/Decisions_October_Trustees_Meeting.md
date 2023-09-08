@@ -146,7 +146,6 @@ The Board decided that we needed to clarify a couple of matters. When you read a
 - This article: https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -61,8 +61,7 @@ This workshop was not just about “Living a Compassionate Life” but a living 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-12/living-compassionate-life-urantia-foundation-workshop
 
 <figure class="table chapter-navigator">
   <table>

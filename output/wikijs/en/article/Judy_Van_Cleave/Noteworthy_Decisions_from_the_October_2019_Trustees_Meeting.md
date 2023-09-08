@@ -103,8 +103,7 @@ We continue to report details about sales and downloads because our mission is t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-12/noteworthy-decisions-october-2019-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

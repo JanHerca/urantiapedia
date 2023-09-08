@@ -80,8 +80,7 @@ I was born in 1931 and grew up in southern Finland as part of the Swedishspeakin
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-12/urantiaboken-swedish-translation
 
 <figure class="table chapter-navigator">
   <table>

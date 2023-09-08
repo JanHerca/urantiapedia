@@ -128,8 +128,7 @@ Recently the committee found five more minor errors of grammar and punctuation i
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-06/noteworthy-decisions-april-2015-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

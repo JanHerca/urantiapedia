@@ -56,8 +56,7 @@ That is why I believe that _The Urantia Book_ presents a new and refreshing conc
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-09/is-urantia-book-religion
 
 <figure class="table chapter-navigator">
   <table>

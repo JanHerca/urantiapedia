@@ -56,7 +56,6 @@ For many years it was necessary to drastically cut the expenses of the Foundatio
 - This article: https://www.urantia.org/news/2007-05/welcome
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

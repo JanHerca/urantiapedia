@@ -60,8 +60,7 @@ The final stages of the Spanish revision project remain. Over the next several m
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-09/spanish-revision-is-almost-finished
 
 <figure class="table chapter-navigator">
   <table>

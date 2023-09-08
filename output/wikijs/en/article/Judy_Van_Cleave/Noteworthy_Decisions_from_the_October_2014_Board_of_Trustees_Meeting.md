@@ -97,8 +97,7 @@ Angie Thurston was elected as a new associate trustee. Angie is currently workin
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-12/noteworthy-decisions-october-2014-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

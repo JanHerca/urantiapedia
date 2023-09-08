@@ -68,8 +68,7 @@ There will be another Science Symposium and hopefully we won't have to wait thre
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-12/science-symposium-2019
 
 <figure class="table chapter-navigator">
   <table>

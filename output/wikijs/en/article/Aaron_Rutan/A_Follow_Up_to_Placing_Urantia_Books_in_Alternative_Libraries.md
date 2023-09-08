@@ -68,8 +68,7 @@ For anyone who is deciding to place books in “alternative libraries,” here a
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-09/follow-placing-urantia-books-in-alternative-libraries
 
 <figure class="table chapter-navigator">
   <table>

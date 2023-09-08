@@ -77,8 +77,7 @@ So it went for seven days under one roof—getting to know one another's beliefs
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-12/our-experiences-2018-parliament-worlds-religions
 
 <figure class="table chapter-navigator">
   <table>

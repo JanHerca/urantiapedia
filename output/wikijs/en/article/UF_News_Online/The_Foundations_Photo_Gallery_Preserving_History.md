@@ -77,8 +77,7 @@ On behalf of the team at Urantia Foundation, we thank you and appreciate your ef
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-06/foundations-photo-gallery-preserving-history
 
 <figure class="table chapter-navigator">
   <table>

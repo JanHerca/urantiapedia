@@ -56,8 +56,7 @@ Editor's note: Clemens Trauzettel also wrote a piece on this conference. You may
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-08/summer-urantia-book-conference-in-berlin
 
 <figure class="table chapter-navigator">
   <table>

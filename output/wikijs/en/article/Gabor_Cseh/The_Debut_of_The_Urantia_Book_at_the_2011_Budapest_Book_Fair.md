@@ -56,8 +56,7 @@ The presentation of the book at this fair would not have been possible without t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-06/debut-urantia-book-2011-budapest-book-fair
 
 <figure class="table chapter-navigator">
   <table>

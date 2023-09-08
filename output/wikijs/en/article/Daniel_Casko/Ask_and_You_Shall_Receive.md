@@ -69,8 +69,7 @@ _The Urantia Book_ is truly a revelation of God, and its teachings are the great
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-10/ask-and-you-shall-receive
 
 <figure class="table chapter-navigator">
   <table>

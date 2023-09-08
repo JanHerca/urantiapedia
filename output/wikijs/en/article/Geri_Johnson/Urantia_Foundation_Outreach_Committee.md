@@ -57,8 +57,7 @@ Expect to hear more from this committee as our ideas evolve from _potentials to 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-04/urantia-foundation-outreach-committee
 
 <figure class="table chapter-navigator">
   <table>

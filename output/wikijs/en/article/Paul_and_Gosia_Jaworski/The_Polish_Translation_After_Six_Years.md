@@ -86,8 +86,7 @@ I have three wonderful children and numerous grandchildren, but all of my free t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-03/polish-translation-after-six-years
 
 <figure class="table chapter-navigator">
   <table>

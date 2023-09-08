@@ -63,8 +63,7 @@ The students in my class rose to the occasion and contributed insights that enri
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-12/rewards-being-teacherfacilitator-ubis
 
 <figure class="table chapter-navigator">
   <table>

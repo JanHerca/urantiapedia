@@ -117,8 +117,7 @@ Betsy Millard, New Mexico, United States
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-12/comments-soul-workshop
 
 <figure class="table chapter-navigator">
   <table>

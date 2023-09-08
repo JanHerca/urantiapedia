@@ -62,8 +62,7 @@ Even as this short article was being written, the news broadcasted that Sweden w
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-03/sweden-and-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

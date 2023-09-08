@@ -83,8 +83,7 @@ Krystyna, Marcos, and Jaime will be introduced during one of the three remaining
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-03/urantia-foundation-enhancing-global-movement
 
 <figure class="table chapter-navigator">
   <table>

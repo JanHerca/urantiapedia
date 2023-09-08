@@ -74,8 +74,7 @@ I have learned a big lesson from this experience. Our unseen friends assist in t
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-03/urantia-book-in-cameroon-reflections-study-group-leader
 
 <figure class="table chapter-navigator">
   <table>

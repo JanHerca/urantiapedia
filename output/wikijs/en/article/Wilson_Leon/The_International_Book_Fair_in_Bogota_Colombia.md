@@ -74,8 +74,7 @@ _Vaya con Dios._
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-07/international-book-fair-in-bogota-colombia
 
 <figure class="table chapter-navigator">
   <table>

@@ -132,8 +132,7 @@ Throughout the earlier ages of any world, competition is essential to progressiv
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-06/translations-and-unity
 
 <figure class="table chapter-navigator">
   <table>

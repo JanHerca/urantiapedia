@@ -31,7 +31,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-A Call to Conscience: Defending Freedom \& Human Rights <br> AUGUST 14-18, 2023 | McCORMICK PLACE
+A Call to Conscience: Defending Freedom & Human Rights <br> AUGUST 14-18, 2023 | McCORMICK PLACE
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_10/052.jpg">
@@ -39,7 +39,7 @@ A Call to Conscience: Defending Freedom \& Human Rights <br> AUGUST 14-18, 2023 
 
 ## The Parliament of the World's Religions
 
-In August of 2023, the Parliament of the World's Religions will return to Chicago and the birthplace of the modern interfaith movement. The theme is “A Call to Conscience: Defending Freedom \& Human Rights.”
+In August of 2023, the Parliament of the World's Religions will return to Chicago and the birthplace of the modern interfaith movement. The theme is “A Call to Conscience: Defending Freedom & Human Rights.”
 
 Four Urantia organizations—Truthbook, Urantia Association International, the Urantia Book Fellowship, and Urantia Foundation — are once again sharing the cost of a double booth.
 
@@ -65,8 +65,7 @@ Contact: tamara@urantia.org
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-10/parliament-worlds-religions and https://www.urantia.org/news/2022-10/legacy-gift-endures-future-generations
 
 <figure class="table chapter-navigator">
   <table>

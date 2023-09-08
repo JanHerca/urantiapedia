@@ -82,8 +82,7 @@ With joyful anticipation, I look forward to the next life on the first mansion w
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-06/what-urantia-book-means-me-zwelakhe-patrick-kubheka
 
 <figure class="table chapter-navigator">
   <table>

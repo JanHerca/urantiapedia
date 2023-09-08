@@ -105,6 +105,8 @@ The translator of _The Urantia Book_ into Farsi, Hamid Mazdeh, joined the meetin
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2021-09/updates-july-2021-trustee-meeting
+
 
 <figure class="table chapter-navigator">
   <table>

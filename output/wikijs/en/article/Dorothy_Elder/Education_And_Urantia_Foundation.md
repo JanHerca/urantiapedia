@@ -66,8 +66,7 @@ I have called this article “Education and Urantia Foundation” because I beli
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-12/education-and-urantia-foundation
 
 <figure class="table chapter-navigator">
   <table>

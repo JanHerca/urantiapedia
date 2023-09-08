@@ -92,8 +92,7 @@ I don't know how God intends to weave our lives together in the future, but for 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-12/dancing-god-fifth-annual-womens-retreat
 
 <figure class="table chapter-navigator">
   <table>

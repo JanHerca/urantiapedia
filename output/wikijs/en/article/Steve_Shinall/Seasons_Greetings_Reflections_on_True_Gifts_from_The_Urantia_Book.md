@@ -81,7 +81,7 @@ The perfect addition to your Urantia Book collection.
 
 Everyday lower prices on Amazon Prime include free shipping.
 
-Barnes \& Noble offers free shipping on purchases over \$25.
+Barnes & Noble offers free shipping on purchases over \$25.
 
 ## Urantia Foundation's Index to _The Urantia Book_
 
@@ -95,8 +95,7 @@ To read more about its history, [click here](https://www.urantia.org/news/2017-1
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-12/seasons-greetings-reflections-true-gifts-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

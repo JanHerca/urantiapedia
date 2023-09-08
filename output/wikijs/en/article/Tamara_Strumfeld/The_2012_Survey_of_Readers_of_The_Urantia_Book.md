@@ -104,8 +104,7 @@ If you would like to receive the full results of this survey, you are welcome to
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2013-03/2012-survey-readers-urantia-book
 
 <figure class="table chapter-navigator">
   <table>

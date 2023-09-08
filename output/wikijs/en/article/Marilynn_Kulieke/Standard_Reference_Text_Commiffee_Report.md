@@ -62,8 +62,7 @@ If you are interested in studying the work of the committee, please contact Jay 
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-03/standard-reference-text-committee-report
 
 <figure class="table chapter-navigator">
   <table>

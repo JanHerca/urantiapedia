@@ -91,8 +91,7 @@ This Index is an ideal guide for getting even more connected to _The Urantia Boo
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-07/knowledgeable-guide-point-way-urantia-foundations-index
 
 <figure class="table chapter-navigator">
   <table>

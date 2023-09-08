@@ -61,8 +61,7 @@ It is amazing that twenty-one years have elapsed since then. Now I am once again
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-09/thoughts-and-reflections-what-urantia-book-means-me
 
 <figure class="table chapter-navigator">
   <table>

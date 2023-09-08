@@ -135,8 +135,7 @@ I found in the Jesus papers the most beautiful, loving, lovable Jesus I had ever
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-06/duane-faw-honoring-man-who-served-revelation
 
 <figure class="table chapter-navigator">
   <table>

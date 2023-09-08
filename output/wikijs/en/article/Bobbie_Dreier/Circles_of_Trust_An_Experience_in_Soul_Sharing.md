@@ -61,8 +61,7 @@ You may register for the retreat as well as the conference at [www.IC17.org](htt
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-12/circles-trust-experience-in-soul-sharing
 
 <figure class="table chapter-navigator">
   <table>

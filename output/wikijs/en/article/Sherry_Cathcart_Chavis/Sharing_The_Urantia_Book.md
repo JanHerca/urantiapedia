@@ -88,8 +88,7 @@ My friend: “Do you have an extra copy? I'd like to read it.”
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-10/sharing-urantia-book-sherry-cathcart-chavis
 
 <figure class="table chapter-navigator">
   <table>

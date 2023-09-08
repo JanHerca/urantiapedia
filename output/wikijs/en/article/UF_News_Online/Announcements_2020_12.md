@@ -60,8 +60,7 @@ Thank you!
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2020-12/finnish-added-multi-language-urantia-book, https://www.urantia.org/news/2020-12/indonesian-and-russian-facebook-pages, https://www.urantia.org/news/2020-12/discounted-untold-story-jesus-modern-biography-urantia-book, https://www.urantia.org/news/2020-12/discounted-urantia-book-leather-cambridge-edition
 
 <figure class="table chapter-navigator">
   <table>

@@ -56,7 +56,7 @@ Within SL I have created a homeland, my base where a virtual version of the 2100
 
 “Please turn Yourself on to a Universe of Light, Life and Love... and let us share our joy in a forever immortal conquest for truth, goodness, and beauty. Because truly 'Life is the ultimate gift of love'...so keep your faith in the creativity of The Gods. They created You and all within the universe of universes.” And the show begins: acrobatic animations; fire dancing with pois, sticks; fans all on podiums, in rotating trapezes, on walking elephants, or rolling earth balls; and in the end my DJ will say this, all written by me in a forwarded program:
 
-“We thank You all for coming and like to give our blessings of Light, Life \& Love to you all, not only with hope but with the promise of divine immortality to you all, so your journey through the labyrinth of your mortal existence into immortality may be blessed and filled with Light, Life and Love....because the universe is very friendly, so you be likewise. We share this divine cosmic gift with you, because that is what eternal immortal life and love can do and IS.”
+“We thank You all for coming and like to give our blessings of Light, Life & Love to you all, not only with hope but with the promise of divine immortality to you all, so your journey through the labyrinth of your mortal existence into immortality may be blessed and filled with Light, Life and Love....because the universe is very friendly, so you be likewise. We share this divine cosmic gift with you, because that is what eternal immortal life and love can do and IS.”
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/007.jpg">

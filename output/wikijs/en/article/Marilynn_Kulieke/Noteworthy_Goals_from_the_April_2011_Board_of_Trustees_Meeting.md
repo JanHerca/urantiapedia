@@ -176,8 +176,7 @@ The Foundation also replaced three outdated computers.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2011-06/noteworthy-goals-april-2011-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

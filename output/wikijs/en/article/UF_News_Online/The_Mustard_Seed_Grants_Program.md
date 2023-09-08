@@ -73,8 +73,7 @@ Do you have an idea for an educational program that will bring the fifth epochal
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2023-03/mustard-seed-grants-program
 
 <figure class="table chapter-navigator">
   <table>

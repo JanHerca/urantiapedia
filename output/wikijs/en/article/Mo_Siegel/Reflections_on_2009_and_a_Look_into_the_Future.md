@@ -192,8 +192,7 @@ On Behalf of the Expanded Board and our team in Chicago:
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2010-03/reflections-2009-and-look-future
 
 <figure class="table chapter-navigator">
   <table>

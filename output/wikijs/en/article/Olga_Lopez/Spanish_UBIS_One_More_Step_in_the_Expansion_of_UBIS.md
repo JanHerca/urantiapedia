@@ -55,8 +55,7 @@ Our goal for 2013 is to offer two courses in Spanish per semester; so we need to
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-08/spanish-ubis-one-more-step-in-expansion-urantia-book-internet-school
 
 <figure class="table chapter-navigator">
   <table>

@@ -45,7 +45,7 @@ For more information, email David Kulieke at david.kulieke@gmail.com.
 <img src="/image/article/UF_News_Online/2021_07/053.jpg">
 </figure>
 
-## JESUS' BIRTHDAY - A GLOBAL CELEBRATION
+## Jesus' Birthday — A Global Celebration
 
 Save the Date-Saturday, August 21!
 
@@ -101,8 +101,7 @@ It includes new maps of the world Jesus traveled and lived in, a timeline, an in
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2021-06/turkish-translation-now-available-online and https://www.urantia.org/news/2021-06/summer-study-session and https://www.urantia.org/news/2021-06/jesus-birthday-global-celebration and https://www.urantia.org/news/2021-06/urantia-foundation-presents-science-symposium-iii-interface-evolution-and-revelation
 
 <figure class="table chapter-navigator">
   <table>

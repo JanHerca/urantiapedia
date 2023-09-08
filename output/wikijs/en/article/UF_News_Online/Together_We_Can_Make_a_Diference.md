@@ -66,8 +66,7 @@ May peace and joy bless this holiday season for you and your loved ones.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2019-12/together-we-can-make-difference
 
 <figure class="table chapter-navigator">
   <table>

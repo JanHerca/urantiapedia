@@ -58,8 +58,7 @@ Her Urantia experience began in 1932 in the Forum room at 533 W Diversey Parkway
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-08/remembering-mary-lou-hales
 
 <figure class="table chapter-navigator">
   <table>

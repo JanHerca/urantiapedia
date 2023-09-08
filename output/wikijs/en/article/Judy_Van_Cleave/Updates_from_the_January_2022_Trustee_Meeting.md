@@ -95,8 +95,7 @@ Urantia Foundation has been working with other Urantia organizations over the pa
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-03/updates-january-2022-trustee-meeting
 
 <figure class="table chapter-navigator">
   <table>

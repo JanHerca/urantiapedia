@@ -80,8 +80,7 @@ Register online at https://www.regonline.ca/builder/site/Default.aspx?EventID=16
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2015-06/womens-retreat-dancing-god, https://www.urantia.org/news/2015-06/urantia-book-fellowship-summer-study-session-2015, https://www.urantia.org/news/2015-06/urantia-association-international-summer-conference-event-not-be-missed
 
 <figure class="table chapter-navigator">
   <table>

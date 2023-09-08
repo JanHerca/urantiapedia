@@ -64,8 +64,7 @@ The Trustees: Gard Jameson, Marilynn Kulieke, Georges Michelson-Dupont, Mo Siege
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-12/its-season-giving
 
 <figure class="table chapter-navigator">
   <table>

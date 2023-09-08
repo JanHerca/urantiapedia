@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Michelle Klimesh<br>© 2018 Urantia Foundation</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Share_Beasley/Appreciating_Sue_Tennant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appreciating Sue Tennant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_news_online#volume-12-issue-1-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Issue 1, March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/UF_News_Online/A_Way_To_Be_of_Service">
+          <span class="pr-2">A Way To Be of Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_03/031.jpg">
@@ -50,4 +74,28 @@ Thank you!
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- This article: https://www.urantia.org/news/2018-03/pipeline-light-seeding-urantia-book-worldwide
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Share_Beasley/Appreciating_Sue_Tennant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appreciating Sue Tennant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_news_online#volume-12-issue-1-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Issue 1, March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/UF_News_Online/A_Way_To_Be_of_Service">
+          <span class="pr-2">A Way To Be of Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

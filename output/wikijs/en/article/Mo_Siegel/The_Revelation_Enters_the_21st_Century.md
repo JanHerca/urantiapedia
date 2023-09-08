@@ -67,7 +67,7 @@ Slow selling specialty books and single title publishers now find their most via
 <img src="/image/article/UF_News_Online/2008_06/005.jpg">
 </figure>
 
-Throughout the world the book industry has undergone a dramatic transition as Amazon.com and other internet retailers conveniently offer shoppers a place to preview a book, read book reviews, and purchase new and used copies at highly discounted prices. Even better, this shopping experience happens in the comfort of your own home. For Urantia Foundation, a single title publisher whose book sales warrant shelf space at chain retailers like Barnes \& Noble, the low prices on the internet require careful management of book distributors and retailers. To say that Urantia Foundation and the Revelation face an opportunistic yet challenging future would be a huge understatement.
+Throughout the world the book industry has undergone a dramatic transition as Amazon.com and other internet retailers conveniently offer shoppers a place to preview a book, read book reviews, and purchase new and used copies at highly discounted prices. Even better, this shopping experience happens in the comfort of your own home. For Urantia Foundation, a single title publisher whose book sales warrant shelf space at chain retailers like Barnes & Noble, the low prices on the internet require careful management of book distributors and retailers. To say that Urantia Foundation and the Revelation face an opportunistic yet challenging future would be a huge understatement.
 
 I wrote this article hoping to contextualize many of the decisions being made at Urantia Foundation during the last few years. Our unseen friends, when launching the Revelation in 1955, knew the digital age was on its way. Maybe their timing was based on that knowledge. While the work of Urantia Foundation proceeds at a quiet and steady pace, you should feel confident that our dedicated team joyfully faces the challenges of providing _The Urantia Book_ in this new digital age.
 
@@ -75,8 +75,7 @@ I wrote this article hoping to contextualize many of the decisions being made at
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-06/revelation-enters-21st-century
 
 <figure class="table chapter-navigator">
   <table>

@@ -80,8 +80,6 @@ Art: Conversation Piece by Ribot Theodule Augustin
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 
-
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

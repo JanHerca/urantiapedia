@@ -64,8 +64,7 @@ Previously, on February 16th, in a beautiful retreat setting in the hills of Min
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-03/o-livro-de-urantia-premiered-in-brazil
 
 <figure class="table chapter-navigator">
   <table>

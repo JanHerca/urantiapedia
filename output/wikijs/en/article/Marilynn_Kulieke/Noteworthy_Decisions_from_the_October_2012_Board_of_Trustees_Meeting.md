@@ -112,8 +112,7 @@ After five years of tireless service, Olga López from Barcelona, Spain, retired
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2012-11/noteworthy-decisions-october-2012-board-trustees-meeting
 
 <figure class="table chapter-navigator">
   <table>

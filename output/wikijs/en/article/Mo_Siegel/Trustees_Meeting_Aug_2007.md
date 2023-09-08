@@ -110,7 +110,6 @@ The third quarterly meeting ended with hope, love, and dedicated enthusiasm for 
 - This article: https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting
 
 
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

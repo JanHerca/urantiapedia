@@ -72,7 +72,7 @@ After extensive discussions and appreciation of the work done by the newly creat
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2007_05/020.jpg">
-<figcaption><em>Jay Peregrine \& Gaetan Charland signing the UF - UAI social trademark license</em></figcaption>
+<figcaption><em>Jay Peregrine & Gaetan Charland signing the UF - UAI social trademark license</em></figcaption>
 </figure>
 
 Some months ago Urantia Foundation introduced a new expanded social trademark licensing system. The terms of the new license encourage all dedicated social groups committed to the revelation to use the concentric circles and the name Urantia to identify their groups. The requirements of the new license can be viewed at: http://urantia.org/soc-lic.pdf
@@ -114,7 +114,7 @@ The Board decided to establish a six-member ad hoc Committee on the Inviolate Te
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_05/026.jpg">
-<figcaption><em>John Hales (Fellowship) \& Claire Mylanus (Foundation) at the Saturday night social.</em></figcaption>
+<figcaption><em>John Hales (Fellowship) & Claire Mylanus (Foundation) at the Saturday night social.</em></figcaption>
 </figure>
 
 <br style="clear:both;"/>
@@ -126,7 +126,6 @@ The Board decided to establish a six-member ad hoc Committee on the Inviolate Te
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - This article: https://www.urantia.org/news/2007-05/newsworthy-items-april-2007-trustees-meeting
-
 
 
 <figure class="table chapter-navigator">

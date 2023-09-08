@@ -66,8 +66,7 @@ It is very gratifying to see the enthusiasm of people from all over the globe wh
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-03/urantia-book-in-fiji
 
 <figure class="table chapter-navigator">
   <table>

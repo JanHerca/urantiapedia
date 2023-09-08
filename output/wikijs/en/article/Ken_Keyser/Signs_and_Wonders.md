@@ -96,8 +96,7 @@ Note: All **bold** emphasis and modified spacing added by author.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2017-10/signs-and-wonders
 
 <figure class="table chapter-navigator">
   <table>

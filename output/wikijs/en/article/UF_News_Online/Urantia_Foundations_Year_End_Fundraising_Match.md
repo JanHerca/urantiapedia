@@ -66,8 +66,7 @@ Trustees of Urantia Foundation
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2014-12/urantia-foundations-year-end-fundraising-match
 
 <figure class="table chapter-navigator">
   <table>

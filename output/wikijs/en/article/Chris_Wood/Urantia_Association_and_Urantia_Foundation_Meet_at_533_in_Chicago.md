@@ -59,8 +59,7 @@ Finally, the meeting brought focus to the future and its demands. The Associatio
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2018-03/urantia-association-and-urantia-foundation-meet-533-in-chicago
 
 <figure class="table chapter-navigator">
   <table>

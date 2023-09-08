@@ -71,8 +71,7 @@ Judy and her husband, Wayne, live in Boise, Idaho, where they have a heating and
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2008-03/two-new-trustees-elected-marilynn-kulieke-judy-van-cleave
 
 <figure class="table chapter-navigator">
   <table>

@@ -68,8 +68,7 @@ The Boulder Conference began as a single idea, but with every idea comes respons
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-09/second-mile-in-retrospect
 
 <figure class="table chapter-navigator">
   <table>

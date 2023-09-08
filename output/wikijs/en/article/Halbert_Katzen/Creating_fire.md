@@ -194,7 +194,7 @@ The discoveries made at the Gesher Benot Ya'aqov in Israel during this millenniu
 
 * Terra Amata museum website, in Nice: http://www.nice.fr/fr/culture/musees-et-galeries/presentation-du-musee-terra-amata
 
-* Jennifer Viegas, *World's oldest BBQ burnt meat to a crisp*, *ABC Science*, May, 3 2004, \myurl{http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science\&topic=latest}, article echoing the discovery at the Israeli site.
+* Jennifer Viegas, *World's oldest BBQ burnt meat to a crisp*, *ABC Science*, May, 3 2004, \myurl{http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science&topic=latest}, article echoing the discovery at the Israeli site.
 
 * *When was fire first controlled by human beings?* http://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml, comprehensive review of the issues,.
 

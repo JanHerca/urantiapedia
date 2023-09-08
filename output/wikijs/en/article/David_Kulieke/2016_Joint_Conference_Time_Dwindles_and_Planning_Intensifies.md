@@ -42,7 +42,7 @@ _By David Kulieke, Illinois, United States_
 
 Once again Urantia Foundation is helping to financially support an important event for readers of _The Urantia Book_. This event is a jointly sponsored conference and Summer Study Session of the Urantia Association United States and the Urantia Book Fellowship in San Antonio, Texas. The organizing entities are the Lone Star Urantia Association (LSUA) and the Education Committee of the Fellowship. The conference begins on Thursday evening, June 9, and concludes at noon on Sunday, June 12. The theme is “Jesus, the Master Teacher.”
 
-The summer conference is gaining momentum! As of March 9, three months before the conference, the total registration was 139 . If you have not yet registered, please do so at https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ebme6wqw7b52a349\&oseq=&c=&ch. There is still plenty of time to be a part of what promises to be a warm and spiritual gathering of reunion and education.
+The summer conference is gaining momentum! As of March 9, three months before the conference, the total registration was 139 . If you have not yet registered, please do so at https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ebme6wqw7b52a349&oseq=&c=&ch. There is still plenty of time to be a part of what promises to be a warm and spiritual gathering of reunion and education.
 
 Katrina Glavan-Heise of LSUA is the overall head of the details, registration, and logistics for the conference. She wants people to know that there is scholarship money for individuals who reside outside of the United States or who are twenty-two years of age and younger. To apply for one, please do so during the registration process.
 
@@ -65,8 +65,7 @@ Everyone involved with this joint conference is looking forward to enjoying a co
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2016-03/2016-joint-conference-time-dwindles-and-planning-intensifies
 
 <figure class="table chapter-navigator">
   <table>

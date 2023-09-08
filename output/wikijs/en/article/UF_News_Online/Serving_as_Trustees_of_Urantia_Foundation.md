@@ -93,8 +93,7 @@ But the great problem of religious living consists in the task of unifying the s
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2022-10/serving-trustees-urantia-foundation
 
 <figure class="table chapter-navigator">
   <table>

@@ -67,8 +67,7 @@ For more information, visit CPWR.org.
 ## References
 
 - Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-
-
+- This article: https://www.urantia.org/news/2009-09/parliament-worlds-religions-2009
 
 <figure class="table chapter-navigator">
   <table>
