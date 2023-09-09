@@ -40,7 +40,7 @@ Source:
 
 An old quaterly publication from Urantia Foundation from 1973 to 1998, when it was replaced by the Online version.
 
-Coming soon to Urantiapedia.
+The index of all available issues is here: [Index of _Urantia Foundation_'s Urantian News articles](/en/index/articles_uf_urantian).
 
 Source: 
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
