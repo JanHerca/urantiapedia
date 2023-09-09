@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Gard Jameson<br>© 1998 Urantia Foundation</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IUA Conference in Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#volume-17-issue-2-september-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, September 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Trustee, Gard Jameson Speaks at IUA Conference in Helsinki_
 
@@ -69,7 +90,7 @@ We should be asking ourselves what have we learned in this process, this process
 
 Peep referred to the uncertainty of the process of which we are a part with a quote from _The Urantia Book_.
 
-> _In the more advance planetary ages these seraphim enhance man's appreciation of the truth that uncertainty is the secret of contented continuity. They help the mortal philosophers to realize that, when ignorance is essential to success, it would be a colossal blunder for the creature to know the future. They heighten man's taste for the sweetness of uncertainty, for the romance and charm of the indefinite and unknownfulure._ ([UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
+> _In the more advance planetary ages these seraphim enhance man's appreciation of the truth that uncertainty is the secret of contented continuity. They help the mortal philosophers to realize that, when ignorance is essential to success, it would be a colossal blunder for the creature to know the future. They heighten man's taste for the sweetness of uncertainty, for the romance and charm of the indefinite and unknownfulure._ (<a id="a92_433"></a>[UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
 
 Can we all recognize this process of which we are a part and breath into the "sweetness of uncertainty"? Do we have the willingness to move past our uncooperative behaviors and continue to bring resolution to our lack of unity? Do we have the courage to give the Master what he truly wants within our community? In the name of our Master, I pray we do. And, I pray this is your prayer, too!
 
@@ -77,3 +98,24 @@ Can we all recognize this process of which we are a part and breath into the "sw
 ## References
 
 - Urantia Foundation's Urantian News: https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IUA Conference in Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#volume-17-issue-2-september-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, September 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

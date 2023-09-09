@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Urantia Foundation</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UF_Urantian/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — News from Urantia Foundation — March 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#volume-16-issue-1-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Issue 1, March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Copyright Appeals Results
@@ -164,3 +185,24 @@ Maaherra argues that the Foundation's claim is nevertheless barred even under th
 \[15\] We therefore hold that the Foundation's renewal copyright is valid, and that Maaherra infringed it. For the foregoing reasons, the decision of the district court is REVERSED and the case REMANDED for further proceedings on damages.
 
 the end
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UF_Urantian/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — News from Urantia Foundation — March 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#volume-16-issue-1-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Issue 1, March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

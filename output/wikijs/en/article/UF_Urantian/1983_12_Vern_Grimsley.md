@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1983 Urantia Foundation</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UF_Urantian/1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — News from Urantia Foundation — December 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#issue-2-december-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Issue 2, December 1983 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Vern Grimsley
@@ -41,3 +62,24 @@ Sincerely,
 Urantia Foundation
 
 By Martin W. Myers as its Vice President
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UF_Urantian/1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — News from Urantia Foundation — December 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#issue-2-december-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Issue 2, December 1983 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

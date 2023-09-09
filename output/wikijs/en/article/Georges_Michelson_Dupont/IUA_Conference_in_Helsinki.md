@@ -9,10 +9,34 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Georges Michelson-Dupont<br>© 1998 Urantia Foundation</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UF_Urantian/1998_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — News from Urantia Foundation — September 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#volume-17-issue-2-september-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, September 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Our_Responsibility_To_The_Revelatory_Commission">
+          <span class="pr-2">Our Responsibility To The Revelatory Commission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Georges Michelson-Dupont_
 
-> _And when man's ascending soul stands before the Supreme Judge, the decision of eternal import will nof be determined by material successes or quantitative achievements; the verdict reverberating through the high courts declares: “Well done, good and faithful servant; you have been faithful over a few essentials; you shall be made ruler over universe realities.”_ [[UB 25:1.6](/en/The_Urantia_Book/25#p1_6)]
+> _And when man's ascending soul stands before the Supreme Judge, the decision of eternal import will nof be determined by material successes or quantitative achievements; the verdict reverberating through the high courts declares: “Well done, good and faithful servant; you have been faithful over a few essentials; you shall be made ruler over universe realities.”_ <a id="a38_368"></a>[[UB 25:1.6](/en/The_Urantia_Book/25#p1_6)]
 
 Dear Friends,
 
@@ -34,7 +58,7 @@ Facts, meanings, and values is the general theme of this international conferenc
 
 ## The Fifth Epochal Revelation: _The Urantia Book_
 
-Regarding the succession of Epochal Revelations, we are told that Urantia is a decimal planet and subject to experiments. We are also told that our unfortunate world has suffered from betrayal, impatience, and quarantine and therefore we know that _“Urantia is not proceeding in the normal order.”_ [[UB 52:6.1](/en/The_Urantia_Book/52#p6_1)].
+Regarding the succession of Epochal Revelations, we are told that Urantia is a decimal planet and subject to experiments. We are also told that our unfortunate world has suffered from betrayal, impatience, and quarantine and therefore we know that _“Urantia is not proceeding in the normal order.”_ <a id="a60_299"></a>[[UB 52:6.1](/en/The_Urantia_Book/52#p6_1)].
 
 I guess the spiritual beings in charge of the welfare of our planet were confronted with the following problem: what sort of epochal revelation would they offer to Urantia as the fifth, keeping in mind that the first two failed, the third was an emergency revelation, and the fourth died on the cross with Jesus' teachings and became somewhat distorted and occidentalized.
 
@@ -77,7 +101,7 @@ And with the fifth, we do not know what research and techniques were used in sel
 
 ### Early Development of the Urantia Papers
 
-In the early twentieth century Dr. William S. Sadler, a prominent physician and psychiatrist practicing in Chicago, became the acknowledged head of the group known as the Contact Commission, who received the messages and instructions from the revelators which resulted in _The Urantia Book._ The Revelatory Commission functioned through a human contact personality whose identity will remain forever in obscurity. _“Mortal man is so prone to venerate, even to deify, his extraordinary compatriots and superhuman superiors.”_ [[UB 114:3.1](/en/The_Urantia_Book/114#p3_1)]
+In the early twentieth century Dr. William S. Sadler, a prominent physician and psychiatrist practicing in Chicago, became the acknowledged head of the group known as the Contact Commission, who received the messages and instructions from the revelators which resulted in _The Urantia Book._ The Revelatory Commission functioned through a human contact personality whose identity will remain forever in obscurity. _“Mortal man is so prone to venerate, even to deify, his extraordinary compatriots and superhuman superiors.”_ <a id="a103_525"></a>[[UB 114:3.1](/en/The_Urantia_Book/114#p3_1)]
 
 The Contact Commission were the only humans privy to the methods used to produce the Papers in the English language. They were sworn not to disclose details about the transactions. _The Urantia Book_; because of its revelatory nature, was to stand on its own merit, nature and content.
 
@@ -169,17 +193,17 @@ We see that every revelation requires two sides, the revelatory side and the evo
 
 On page 1569 of The _Urantia Book,_ and just before the “Sermon of the Ordination of the Twelve” we are told how Jesus, in a solemn address to his Father in heaven, presents his apostles:
 
-> _“My Father, I now bring to you these men, my messengers. From among our children on earth I have chosen these twelve to go forth to represent me as I came forth to represent you. Lave them and be with them as you have loved and been with me. And now, my Father, give these men wisdom as I place all the affairs of the coming kingdom in their hands.”_ [[UB 140:2.2](/en/The_Urantia_Book/140#p2_2)]
+> _“My Father, I now bring to you these men, my messengers. From among our children on earth I have chosen these twelve to go forth to represent me as I came forth to represent you. Lave them and be with them as you have loved and been with me. And now, my Father, give these men wisdom as I place all the affairs of the coming kingdom in their hands.”_ <a id="a195_354"></a>[[UB 140:2.2](/en/The_Urantia_Book/140#p2_2)]
 
 And the narrative continues on
 
-> _...A great silence pervaded the place while a host of celestial beings looked down upon this solemn and sacred scene-the Creator of a universe placing the affairs of the divine brotherhood of man under the direction of human minds._ [[UB 140:2.3](/en/The_Urantia_Book/140#p2_3)]
+> _...A great silence pervaded the place while a host of celestial beings looked down upon this solemn and sacred scene-the Creator of a universe placing the affairs of the divine brotherhood of man under the direction of human minds._ <a id="a199_236"></a>[[UB 140:2.3](/en/The_Urantia_Book/140#p2_3)]
 
 And were these twelve men specially gifted?
 
 We are told:
 
-> _...And this is just why he chose as his personal representatives twelve commonplace men, the majority of whom were rugged, virile, and manly fishermen._ [[UB 140:8.20](/en/The_Urantia_Book/140#p8_20)]
+> _...And this is just why he chose as his personal representatives twelve commonplace men, the majority of whom were rugged, virile, and manly fishermen._ <a id="a205_156"></a>[[UB 140:8.20](/en/The_Urantia_Book/140#p8_20)]
 
 Concerning the present revelation, the Urantia Papers project, the midwayers placed in the hands of the Trustees ofUrantia Foundation the complete responsibility for the dissemination of the teachings and the full authority for the protection of _The Urantia Book_ as it is stated in its Declaration of Trust.
 
@@ -187,13 +211,13 @@ Some individuals deny this human authority over the dissemination and protection
 
 Their so called “liberty” is more important to them than their obligation toward the group or their duties as cosmic citizens. They should meditate on the following statement of Jesus:
 
-> _“In my universe and in my Father's universe of universes, our brethren-sons are dealt with as individuals in all their spiritual relations, but in all group relationships we unfailingly provide for definite leadership. Our kingdom is a realm of order, and where two or more will creatures act in co-operation, there is always provided the authority of leadership.”_ [Jesus, [UB 181:2.16](/en/The_Urantia_Book/181#p2_16)]
+> _“In my universe and in my Father's universe of universes, our brethren-sons are dealt with as individuals in all their spiritual relations, but in all group relationships we unfailingly provide for definite leadership. Our kingdom is a realm of order, and where two or more will creatures act in co-operation, there is always provided the authority of leadership.”_ <a id="a213_369"></a>[Jesus, [UB 181:2.16](/en/The_Urantia_Book/181#p2_16)]
 
-This social, epochal responsibility exercised by Urantia Foundation does not impinge upon, nor is opposed to, individuals' religious rights. The book tells us that _religion is purely and wholly a matter of personal experience._ [[UB 138:2.1](/en/The_Urantia_Book/138#p2_1)] Urantia Foundation always has, and always will encourage any and all individuals to experience, in their inner lives, the teachings of _The Urantia Book_.
+This social, epochal responsibility exercised by Urantia Foundation does not impinge upon, nor is opposed to, individuals' religious rights. The book tells us that _religion is purely and wholly a matter of personal experience._ <a id="a215_229"></a>[[UB 138:2.1](/en/The_Urantia_Book/138#p2_1)] Urantia Foundation always has, and always will encourage any and all individuals to experience, in their inner lives, the teachings of _The Urantia Book_.
 
 But, situations for potential social conflict arise when individuals place the importance of their own liberty above the liberty of their fellows:
 
-> _“Liberty subject to group regulation is the legitimate goal of social evolution. Liberty without restrictions is the vain and fanciful dream of unstable and flighty human minds.”_ [[UB 81:5.7](/en/The_Urantia_Book/81#p5_7)]
+> _“Liberty subject to group regulation is the legitimate goal of social evolution. Liberty without restrictions is the vain and fanciful dream of unstable and flighty human minds.”_ <a id="a219_183"></a>[[UB 81:5.7](/en/The_Urantia_Book/81#p5_7)]
 
 Therefore, invoking religious freedom to justify any attempt against the protection of the text of _The Urantia Book_ displays immature and selfish behavior.
 
@@ -241,13 +265,13 @@ It is my understanding, my belief, and my conviction that as long as we follow t
 
 To deviate from this path can be really easy. Sometimes it can become tempting for some people to deviate from the initial course when an argument or formulation of a subtle new plan is appealing and presented in a way that appeals to the emotions, or is presented in a friendly, seemingly logical manner. Often these arguments fail to take into account the historical context. But we are on this planet to be tested for our loyalty, faith, and trustworthiness.
 
-> _Is loyalty—devotion to highest duty—desirable? Then must man carry on amid the possibilities of betrayal and desertion. The valor of devotion to duly consists in the implied danger of default._ ([UB 3:5.12](/en/The_Urantia_Book/3#p5_12))
+> _Is loyalty—devotion to highest duty—desirable? Then must man carry on amid the possibilities of betrayal and desertion. The valor of devotion to duly consists in the implied danger of default._ (<a id="a267_198"></a>[UB 3:5.12](/en/The_Urantia_Book/3#p5_12))
 > 
-> _On first thought it might appear that Urantia and its associated isolated worlds are most rmfortunate in being deprived of the beneficent presence and influence of such superhuman personalities as a Planetary Prince and a Material Son and Daughter. But isolation of these spheres affords their races a unique opportunity for the exercise of faith and for the development of a peculiar quality of confidence in cosmic reliability which is not dependent on sight or any other material consideration. It may turn out, eventually, that mortal creatures hailing from the worlds quarantined in consequence of rebellion are extremely fortunate. We have discovered that such ascenders are very early intrusted with numerous special assignments to cosmic undertakings where unquestioned faith and sublime confidence are essential to achievement._ [[UB 50:7.1](/en/The_Urantia_Book/50#p7_1)]
+> _On first thought it might appear that Urantia and its associated isolated worlds are most rmfortunate in being deprived of the beneficent presence and influence of such superhuman personalities as a Planetary Prince and a Material Son and Daughter. But isolation of these spheres affords their races a unique opportunity for the exercise of faith and for the development of a peculiar quality of confidence in cosmic reliability which is not dependent on sight or any other material consideration. It may turn out, eventually, that mortal creatures hailing from the worlds quarantined in consequence of rebellion are extremely fortunate. We have discovered that such ascenders are very early intrusted with numerous special assignments to cosmic undertakings where unquestioned faith and sublime confidence are essential to achievement._ <a id="a269_841"></a>[[UB 50:7.1](/en/The_Urantia_Book/50#p7_1)]
 
 ## The Reasons for a Copyright
 
-Unfortunately, Urantia is branded with the seal of rebellion and impatience: _Impatience is a spirit poison_... [[UB 48:7.20](/en/The_Urantia_Book/48#p7_20)] says an Archangel of Nebadon.
+Unfortunately, Urantia is branded with the seal of rebellion and impatience: _Impatience is a spirit poison_... <a id="a273_112"></a>[[UB 48:7.20](/en/The_Urantia_Book/48#p7_20)] says an Archangel of Nebadon.
 
 The history of our planet shows that since the rebellion of Lucifer, all revelations have been under severe attack. The Fifth Epochal Revelation is no exception. Because this one came in book form, the attacks are directed against the text itself as well as against the tools in place for its protection and dissemination. Therefore it is of the greatest importance that, until its world-wide dissemination, the text is protected with a copyright.
 
@@ -275,7 +299,7 @@ Fifth: the world needs the entire revelation. Like Adam and Eve who were told to
 
 And if those arguments are not explicit enough then, listen to what Jesus said to his apostles as a very clear instruction during his last appearance:
 
-> _“I admonish you ever to remember that your mission among men is to proclaim the gospel of the kingdom—the reality of the fatherhood of God and the truth of the sonship of man. Proclaim the whole truth of the good news, not just a part of the saving gospel.”_ [[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]
+> _“I admonish you ever to remember that your mission among men is to proclaim the gospel of the kingdom—the reality of the fatherhood of God and the truth of the sonship of man. Proclaim the whole truth of the good news, not just a part of the saving gospel.”_ <a id="a301_262"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]
 
 This revelation is so powerful and attractive that it is inevitable that it attracts, and will continue to attract immature, impatient, and unbalanced individuals or groups who, under the false pretext of religious freedom or so-called unselfish service, would want to appropriate _The Urantia Book_ for their own purposes, thereby having to fight against the copyright in order to put the text in the public domain before the book is safe and translated into many languages.
 
@@ -303,7 +327,7 @@ We must understand and recognize that the present struggle among our readership 
 
 The book teaches us the following about competition:
 
-> _Throughout the earlier ages of any world, competition is essential to progressive civilization. As the evolution of man progresses, co-operation becomes increasingly effective. In advanced civilizations co-operation is more efficient than competition. Early man is stimulated by competition. Early evolution is characterized by the survival of the biologically fit, but later civilizations are the better promoted by intelligent co-operation, understanding fraternity, and spiritual brotherhood_ [[UB 71:5.3](/en/The_Urantia_Book/71#p5_3)]
+> _Throughout the earlier ages of any world, competition is essential to progressive civilization. As the evolution of man progresses, co-operation becomes increasingly effective. In advanced civilizations co-operation is more efficient than competition. Early man is stimulated by competition. Early evolution is characterized by the survival of the biologically fit, but later civilizations are the better promoted by intelligent co-operation, understanding fraternity, and spiritual brotherhood_ <a id="a329_499"></a>[[UB 71:5.3](/en/The_Urantia_Book/71#p5_3)]
 
 Step two of the plan is still at work. English, Spanish, and French speakers represent only IS% of the world in terms of language. We encounter extreme difficulties with the distribution in Russia. 85% of the world has not yet been exposed to the teachings of _The Urantia Book_ and the launching has not yet even began. It is utopian to think that with only a total of 350,000 copies sold in very few countries, and with only a handful of translations completed, the teachings of _The Urantia Book_ are safe from being distorted or presented to the world in a way which is not in keeping with the intentions of the revelators.
 
@@ -315,7 +339,7 @@ There is much, very much, that readers and groups can do to disseminate the teac
 
 Another issue I would like to address today is the one on the trademarks—the three Concentric-Circles Symbol and the names “Urantia” and “Urantian”—especially the three Concentric-Circle Symbol.
 
-First of all, we are told that the symbol is _the material emblem of the Trinity government_ [[UB 53:5.4](/en/The_Urantia_Book/53#p5_4)]. They were displayed as “the banner of Michael” under which the loyal beings rallied when “there was war in heavenn during the episode of the Lucifer rebellion.
+First of all, we are told that the symbol is _the material emblem of the Trinity government_ <a id="a341_93"></a>[[UB 53:5.4](/en/The_Urantia_Book/53#p5_4)]. They were displayed as “the banner of Michael” under which the loyal beings rallied when “there was war in heavenn during the episode of the Lucifer rebellion.
 
 Then, they were used by Machiventa during his emergency revelation on earth and, as such, they became associated with the third revelation.
 
@@ -353,7 +377,7 @@ Publishing and distribution of _The Urantia Book_ is a business task and therefo
 
 ### Promotion of a friendly environment for Cooperation
 
-> _One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings. Few are the duties in the universe for the lone servant._ \[Mighty Messenger [UB 28:5.14](/en/The_Urantia_Book/28#p5_14)].
+> _One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings. Few are the duties in the universe for the lone servant._ \<a id="a379_252"></a>[Mighty Messenger [UB 28:5.14](/en/The_Urantia_Book/28#p5_14)].
 
 Teamwork is based on trust and respect for one other. We are all dedicated readers and believers. The Trustees of Urantia Foundation are willing to cooperate and work in harmony with individuals or groups who believe in the importance of the revelation for our planet and who are willing to work in partnership with the revelators and in support of the Declaration of Trust.
 
@@ -377,7 +401,7 @@ Once again what is the most important is the first-hand experience of the reader
 
 Following is the statement of an Orvonton Divine Counselor about _The Urantia Book_.
 
-> _We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind But we /a,ow that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience-God-consciousness._ [[UB 0:12.13](/en/The_Urantia_Book/0#p12_13)]
+> _We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind But we /a,ow that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience-God-consciousness._ <a id="a403_814"></a>[[UB 0:12.13](/en/The_Urantia_Book/0#p12_13)]
 
 Concerning the so called “channeled material” it must be reminded also that, according to _The Urantia Book_ itself, the 196 papers represent the entirety of the Revelation.
 
@@ -411,10 +435,34 @@ At this time, I would like to quote one of my predecessor in Trust:
 
 > “We must be living examples of this new revelation individually and collectively.” And in conclusion, the following quote from _The Urantia Book_:
 > 
-> > _And this which your eyes now behold, this small beginning of twelve commonplace men, shall multiply and grow until eventually the whole earth shall be filled with the praise of my Father. And it will not be so much by the words you speak as by the lives you live that men will know you have been with me and have learned of the realities of the kingdom. And while I would lay no grievous burdens upon your minds, I am about to put upon your souls the solemn responsibility of representing me in the world when I shall presently leave you as I now represent my Father in this life which I am living in the flesh._ [[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
+> > _And this which your eyes now behold, this small beginning of twelve commonplace men, shall multiply and grow until eventually the whole earth shall be filled with the praise of my Father. And it will not be so much by the words you speak as by the lives you live that men will know you have been with me and have learned of the realities of the kingdom. And while I would lay no grievous burdens upon your minds, I am about to put upon your souls the solemn responsibility of representing me in the world when I shall presently leave you as I now represent my Father in this life which I am living in the flesh._ <a id="a437_618"></a>[[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
 
 Thank you for your attention.
 
 ## References
 
 - Urantia Foundation's Urantian News: https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UF_Urantian/1998_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — News from Urantia Foundation — September 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_uf_urantian#volume-17-issue-2-september-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, September 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Our_Responsibility_To_The_Revelatory_Commission">
+          <span class="pr-2">Our Responsibility To The Revelatory Commission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
