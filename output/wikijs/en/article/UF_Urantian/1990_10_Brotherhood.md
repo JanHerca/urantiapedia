@@ -1,3 +1,14 @@
+---
+title: "URANTIA Brotherhood Association"
+description: 
+published: true
+date: 2023-8-29T10:55:6Z
+tags: Fellowship, Urantia Foundation, article
+editor: markdown
+dateCreated: 2023-8-29T10:55:6Z
+---
+
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1990 Urantia Foundation</p>
 
 
 ## Urantia Brotherhood Association
@@ -47,11 +58,13 @@ Compared with its predecessor, Urantia Brotherhood Association will have notable
 
 With all this in mind, the Trustees of Urantia Foundation are confident that Urantia Brotherhood Association will provide a social and fraternal forum in which individuals can serve, encourage, and inspire each other, calling attention to and benefiting from _The Urantia Book's_ supernal teachings.
 
-On page 2082 ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)), the midwayers tell us that “Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” We believe that members of Urantia Brotherhood Association, acting with enhanced understanding of the Supreme Being's evolving purpose in a universe dominated by love, will make notable contributions to that outcome. By helping each other understand and appreciate the teachings of _The Urantia Book_, the members of Urantia Brotherhood Association will create a new spiritual climate that fosters their whole-personality growth and dramatically increases their potential usefulness to all mankind.
+On ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)), the midwayers tell us that “Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” We believe that members of Urantia Brotherhood Association, acting with enhanced understanding of the Supreme Being's evolving purpose in a universe dominated by love, will make notable contributions to that outcome. By helping each other understand and appreciate the teachings of _The Urantia Book_, the members of Urantia Brotherhood Association will create a new spiritual climate that fosters their whole-personality growth and dramatically increases their potential usefulness to all mankind.
 
 For our part, we cannot imagine a nobler endeavor.
 
 The Trustees of Urantia Foundation
 
 
-https://www.urantia.org/news/1990-10
+## References
+
+- Urantia Foundation's Urantian News: https://www.urantia.org/news/1990-10

@@ -1,4 +1,14 @@
-# IUA Conference in Helsinki
+---
+title: "IUA Conference in Helsinki"
+description: 
+published: true
+date: 2023-8-29T10:55:6Z
+tags: History of Urantia Foundation, Urantia Foundation, article
+editor: markdown
+dateCreated: 2023-8-29T10:55:6Z
+---
+
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Georges Michelson-Dupont<br>© 1998 Urantia Foundation</p>
 
 _Georges Michelson-Dupont_
 
@@ -405,5 +415,6 @@ At this time, I would like to quote one of my predecessor in Trust:
 
 Thank you for your attention.
 
+## References
 
-https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki
+- Urantia Foundation's Urantian News: https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki

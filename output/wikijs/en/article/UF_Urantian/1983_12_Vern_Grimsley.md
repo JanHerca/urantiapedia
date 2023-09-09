@@ -1,3 +1,14 @@
+---
+title: "Urantian — News from Urantia Foundation — December 1983"
+description: 
+published: true
+date: 2023-8-29T10:55:6Z
+tags: Urantia Foundation, article
+editor: markdown
+dateCreated: 2023-8-29T10:55:6Z
+---
+
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1983 Urantia Foundation</p>
 
 
 ## Vern Grimsley

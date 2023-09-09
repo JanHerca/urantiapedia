@@ -254,7 +254,9 @@ The Urantia Book—Chinese
 The Urantia Book—Czech
 The Urantia Book—Errors
 The Urantia Book—Danish
+The Urantia Book—Dutch
 The Urantia Book—Farsi
+The Urantia Book—Finnish
 The Urantia Book—French
 The Urantia Book—German
 The Urantia Book—Greek
@@ -265,6 +267,8 @@ The Urantia Book—Indonesian
 The Urantia Book—Introduction
 The Urantia Book—Italian
 The Urantia Book—Japanese
+The Urantia Book—Korean
+The Urantia Book—Lithuanian
 The Urantia Book—Papers
 The Urantia Book—Polish
 The Urantia Book—Portuguese
@@ -288,6 +292,7 @@ UFO
 Universe Mother Spirit
 Urantia
 Urantia Foundation
+Urantia Foundation—Copyright
 Urantia Movement
 Urantia Movement Event
 Urantiapedia

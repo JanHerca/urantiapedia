@@ -1,4 +1,14 @@
-# Our Responsibility To The Revelatory Commission
+---
+title: "Our Responsibility To The Revelatory Commission"
+description: 
+published: true
+date: 2023-8-29T10:55:6Z
+tags: Dissemination, Urantia Foundation, article
+editor: markdown
+dateCreated: 2023-8-29T10:55:6Z
+---
+
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Gard Jameson<br>© 1998 Urantia Foundation</p>
 
 _Trustee, Gard Jameson Speaks at IUA Conference in Helsinki_
 
@@ -64,5 +74,6 @@ Peep referred to the uncertainty of the process of which we are a part with a qu
 Can we all recognize this process of which we are a part and breath into the "sweetness of uncertainty"? Do we have the willingness to move past our uncooperative behaviors and continue to bring resolution to our lack of unity? Do we have the courage to give the Master what he truly wants within our community? In the name of our Master, I pray we do. And, I pray this is your prayer, too!
 
 
+## References
 
-https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki
+- Urantia Foundation's Urantian News: https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki
