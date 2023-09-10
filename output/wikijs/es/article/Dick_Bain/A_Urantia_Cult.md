@@ -75,7 +75,7 @@ Deberíamos tener una mentalidad de servicio como una cuestión de rutina. Deber
 
 ¿Qué tipo de divulgación podemos hacer? Las posibilidades son legión. Las personas de un grupo de estudio podían donar sangre en un banco de sangre en nombre de su grupo. Como grupo, podrían visitar un hogar de ancianos regularmente para hablar con personas que nunca reciben visitas. Un grupo podría ofrecerse como voluntario para 'adoptar' una sección de una carretera local y periódicamente recoger la basura para mantenerla limpia. Desafortunadamente, no todos estarán satisfechos con tales esfuerzos de divulgación.
 
-Sin duda, hay algunos que se opondrán a cualquier cosa que llame la atención del público sobre nuestra comunidad o sobre ellos mismos. Una objeción que podemos encontrar es que algunas personas pueden no querer publicitar el hecho de que son parte de la comunidad de Urantia, quizás por temor al ridículo oa las críticas de la familia o la iglesia.
+Sin duda, hay algunos que se opondrán a cualquier cosa que llame la atención del público sobre nuestra comunidad o sobre ellos mismos. Una objeción que podemos encontrar es que algunas personas pueden no querer publicitar el hecho de que son parte de la comunidad de Urantia, quizás por temor al ridículo o a las críticas de la familia o la iglesia.
 
 Algunos incluso pueden temer que seremos perseguidos físicamente si nos damos a conocer. Pueden señalar la persecución de los cristianos por parte de las autoridades romanas. No creo que vivamos en una cultura donde esto sea tolerado. Pero sí creo que si no hacemos algo para que la gente conozca nuestra naturaleza benigna, podría ocurrir un incidente que nos obligaría a ponernos a la defensiva sobre nuestra participación en la comunidad Urantia.
 

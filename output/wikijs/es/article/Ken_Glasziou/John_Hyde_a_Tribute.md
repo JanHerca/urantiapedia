@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Muchos lectores que conocieron a John Hyde personalmente oa través de correspondencia y correo electrónico se habrán sentido desconcertados y consternados ante la noticia de su muerte. Pero aquellos que estaban al tanto de los muchos 'demonios' que acecharon a John durante su vida anterior tal vez supongan que esos demonios sacaron lo mejor de él en un momento en que fue tomado por sorpresa.
+Muchos lectores que conocieron a John Hyde personalmente o a través de correspondencia y correo electrónico se habrán sentido desconcertados y consternados ante la noticia de su muerte. Pero aquellos que estaban al tanto de los muchos 'demonios' que acecharon a John durante su vida anterior tal vez supongan que esos demonios sacaron lo mejor de él en un momento en que fue tomado por sorpresa.
 
 Conocí a John solo por correspondencia y por su contribución a Innerface International. Pero debido a esto, había desarrollado un profundo respeto tanto por su agudeza de percepción como por la espiritualidad que brillaba en su escritura. El artículo que sigue se compone de la correspondencia en nuestros registros. Lamentablemente, no es posible obtener la aprobación de John, pero espero que su Ajustador del Pensamiento haya tenido algún aporte indirecto para ayudar a hacerlo bien. Adiós por el momento, John, hasta que nos volvamos a encontrar en Mansion Worlds. Al expresar su preocupación por las organizaciones involucradas en la difusión del mensaje de los Documentos de Urantia, John escribió:
 
@@ -70,7 +70,7 @@ Conocí a John solo por correspondencia y por su contribución a Innerface Inter
 
 ---
 
-Tal vez Rodan tenía una respuesta.
+Tal vez Rodán tenía una respuesta.
 
 > Todo el valor de un acto de bondad radica en el amor que lo inspira.
 > El Talmud

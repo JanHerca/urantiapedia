@@ -86,7 +86,7 @@ Los evangelistas sinópticos no muestran conciencia de un problema; sólo Juan, 
 
 Juan es el último de los cuatro Evangelios, y en varios puntos (por ejemplo, sobre la resurrección) parece querer corregir a sus predecesores. La especificación «de Galilea» parece ser una identificación muy precisa de _cual_ Betsaida era el hogar de Felipe, Andrés y Pedro. Marcos tiene a Pedro y Andrés viviendo en Cafarnaúm ([1:29](/es/Bible/Mark/1#v29)). Sin embargo, si Betsaida fuera simplemente el distrito costero de Cafarnaúm, los dos términos podrían ser intercambiables.
 
-Dodd observa que John no tiene ningún motivo para fabricar Betsaida como la ciudad natal de Felipe, Andrés y Pedro.
+Dodd observa que Juan no tiene ningún motivo para fabricar Betsaida como la ciudad natal de Felipe, Andrés y Pedro.
 
 «Los sinópticos han dado a la mayoría de los lectores la impresión de que el hogar de Pedro y Andrés era Cafarnaúm... No hay ninguna razón en particular por la que se deba introducir el nombre Betsaida, a menos que los evangelistas creyeran que realmente era el (lugar) en cuestión».[^11] Simón y Andrés ([Lucas 5:10](/es/Bible/Luke/5#v10)), también procedían de Betsaida (Kopp, 16).
 

@@ -36,13 +36,13 @@ dateCreated: 2022-9-9T8:13:39Z
 
 En el momento de este incidente, los apóstoles y los evangelistas estaban recorriendo los pueblos y aldeas de Decápolis, un área al este del Jordán y el Mar de Galilea. Iban en pequeños grupos ya veces solos. Jesús estaba en un pueblo llamado Gamala, de donde el apóstol Juan había ido el día anterior para enseñar en el pueblo de Astarot.
 
-Al llegar a Ashtaroth, John se sorprendió al descubrir a un extraño predicando a los habitantes locales en la plaza del pueblo. Curioso, Juan se detuvo a escuchar y se molestó y molestó cuando escuchó que este extraño no solo afirmaba estar enseñando en el nombre de Jesús, sino que también tenía el poder de expulsar demonios.
+Al llegar a Ashtaroth, Juan se sorprendió al descubrir a un extraño predicando a los habitantes locales en la plaza del pueblo. Curioso, Juan se detuvo a escuchar y se molestó y molestó cuando escuchó que este extraño no solo afirmaba estar enseñando en el nombre de Jesús, sino que también tenía el poder de expulsar demonios.
 
 Efectivamente, echar fuera demonios significaba sanar a los enfermos y afligidos, pues todos esos males eran, en aquellos días, atribuidos a la obra de los demonios.
 
 Juan Zebedeo y su hermano Santiago ya se habían ganado el título de «hijos del trueno». Esto se debió a una ocasión anterior cuando los aldeanos samaritanos no trataron a Jesús y sus discípulos con la deferencia que los hermanos pensaban que les correspondía. Entonces los hermanos de Zebedeo le pidieron a Jesús que hiciera descender fuego de los cielos para destruir a los «samaritanos irrespetuosos».
 
-Fiel a su estilo, Juan se ofendió y procedió a castigar al extraño que, «nunca había estado con nosotros, ni nos sigue». John supuso que **el extraño no tenía autoridad** para hacer tales cosas y se encargó de imponer una prohibición. Sin embargo, fue John quien tuvo que comer un pastel humilde, ya que no pudo hacer nada cuando el extraño lo ignoró por completo.
+Fiel a su estilo, Juan se ofendió y procedió a castigar al extraño que, «nunca había estado con nosotros, ni nos sigue». Juan supuso que **el extraño no tenía autoridad** para hacer tales cosas y se encargó de imponer una prohibición. Sin embargo, fue Juan quien tuvo que comer un pastel humilde, ya que no pudo hacer nada cuando el extraño lo ignoró por completo.
 
 Juan hizo lo único que podía: se retiró a Gamala y llevó su caso a Jesús, cuya respuesta es tremendamente importante para todos sus seguidores posteriores. Jesus dijo:
 
@@ -60,7 +60,7 @@ Así, en el momento en que cualquier ser mortal presuma para sí mismo algún ti
 
 Las religiones de los hombres pueden, por supuesto, hacer sus propias reglas y regulaciones para la membresía, pero eso siempre las moldea en el molde de la religión autoritaria, una religión del hombre.
 
-El incidente de Astarot es importante. Al igual que John, siempre hay pretendientes que, a la menor oportunidad, buscarán poder y autoridad. Esa es la naturaleza de la bestia, ser bestial por naturaleza, porque ese es el origen de esta sed de poder que nos aflige.
+El incidente de Astarot es importante. Al igual que Juan, siempre hay pretendientes que, a la menor oportunidad, buscarán poder y autoridad. Esa es la naturaleza de la bestia, ser bestial por naturaleza, porque ese es el origen de esta sed de poder que nos aflige.
 
 Más tarde, Juan superó sus tendencias anteriores y finalmente se convirtió en el más amado de todos los apóstoles, y se ganó el título de «el apóstol del amor».
 

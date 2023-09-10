@@ -68,7 +68,7 @@ Sadler: Nuevamente, perdóname por ser salado, pero si soy salado, no soy espelu
 
 Público: Así es.
 
-Sadler: Y me comunico contigo. Tienes a tu serafín, oa tu pareja seráfica esperando. Y tienen... bueno, resucitaremos a Ruth. Ella nos metió en esto.
+Sadler: Y me comunico contigo. Tienes a tu serafín, o a tu pareja seráfica esperando. Y tienen... bueno, resucitaremos a Ruth. Ella nos metió en esto.
 
 Público: ¡Gracias!
 

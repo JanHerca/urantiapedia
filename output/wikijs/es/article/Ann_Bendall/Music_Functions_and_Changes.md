@@ -15,7 +15,7 @@ dateCreated: 2022-9-9T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Who_was_Rodan">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién fue Rodan?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién fue Rodán?</span>
         </a>
         </td>
         <td>
@@ -86,7 +86,7 @@ La música puede pasar desapercibida para nuestro oído consciente, pero nunca p
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Who_was_Rodan">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién fue Rodan?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién fue Rodán?</span>
         </a>
         </td>
         <td>

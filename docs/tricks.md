@@ -202,3 +202,20 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 <br style="clear:both;"/>
 
 <p style="text-align:center;">
+
+## Google Translator common fails
+
+### From English to Spanish
+
+- `receptores` instead of `síndicos` (about Melchisedeks)
+- `ya menudo` instead of `y a menudo`
+- `oa` instead of `o a`
+- `Rodan` instead of `Rodán`
+- `Nathaniel` instead of `Natanael`
+- `Ajustador de pensamiento` instead of `Ajustador del Pensamiento`
+- `Ajustador del pensamiento` instead of `Ajustador del Pensamiento`
+- `Peter` instead of `Pedro` (about the apostle)
+- `John` instead of `Juan` (about the apostle or the Baptist)
+- `Apocalipsis` instead of `la revelación` (about The Urantia Book itself)
+- `Bethpage` instead of `Betfagé` (`Bethpage` in fact should be `Bethphage`)
+- 

@@ -102,7 +102,7 @@ Strauss y Howe describen una generación reactiva de la siguiente manera:
 <figcaption><em>Dr. Meredith Sprunger.</em></figcaption>
 </figure>
 
-La Dra. Meredith Sprunger fue una voz importante durante este período del Despertar. Era un ministro cristiano y presidente de una universidad que llegó a conocer a los Sadler como resultado de su sincero interés en Apocalipsis. Meredith se embarcó en un proyecto de décadas de compartirlo con la comunidad cristiana y sirvió de cerca con el movimiento en varios puestos.
+La Dra. Meredith Sprunger fue una voz importante durante este período del Despertar. Era un ministro cristiano y presidente de una universidad que llegó a conocer a los Sadler como resultado de su sincero interés en la revelación. Meredith se embarcó en un proyecto de décadas de compartirlo con la comunidad cristiana y sirvió de cerca con el movimiento en varios puestos.
 
 Como parte de este despertar, el Dr. Sprunger abogó por una mayor apertura:
 
@@ -153,7 +153,7 @@ Hubo esfuerzos y logros heroicos en ambas direcciones, institucional e individua
 
 Dios es el autor de la historia, y nosotros somos los jugadores y, en cierto sentido, los coautores, ya que la trama gira y gira de acuerdo con nuestras decisiones temporales. Las progresiones hacia el destino, incluso el destino final, se desarrollan en las eras del universo, las épocas mortales planetarias, la marcha de la civilización y la vida de las naciones, iglesias, organizaciones, familias e individuos.
 
-Incluso me atrevería a decir que nuestra historia personal y grupal está, en cierto modo, predestinada. Esa es una palabra rara e interesante que aparece en el Apocalipsis <a id="a155_172"></a>[[LU 110:2.1](/es/The_Urantia_Book/110#p2_1)]. Nuestros Ajustadores comienzan su trabajo con un plan predeterminado para nuestras vidas ideales. Es nuestra elección aceptar o rechazar parte o todo el plan. ¿Es posible que nuestra comunidad Urantia bajo supervisión seráfica también tenga un plan modelo?
+Incluso me atrevería a decir que nuestra historia personal y grupal está, en cierto modo, predestinada. Esa es una palabra rara e interesante que aparece en la revelación <a id="a155_172"></a>[[LU 110:2.1](/es/The_Urantia_Book/110#p2_1)]. Nuestros Ajustadores comienzan su trabajo con un plan predeterminado para nuestras vidas ideales. Es nuestra elección aceptar o rechazar parte o todo el plan. ¿Es posible que nuestra comunidad Urantia bajo supervisión seráfica también tenga un plan modelo?
 
 _Teoría generacional_ es un punto de partida para considerar esta idea. El objetivo de un buen historiador debe ser hacer observaciones astutas de los patrones de la historia. Al hacer tales preguntas, podemos comprender mejor nuestro pasado, presente y futuro potencial dentro del tejido, la urdimbre y la trama, de lo material y lo espiritual. Esta es la sustancia de nuestras vidas en evolución, tanto individuales como grupales, en nuestra experiencia del universo finito.
 

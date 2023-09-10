@@ -40,7 +40,7 @@ A primera vista, puede parecer que El Supremo y su alcance pueden ser una combin
 
 ## Entendiendo al Supremo
 
-Es necesaria cierta comprensión básica del Supremo. Muchos lectores del Apocalipsis tienden a rehuir el estudio y la discusión sobre el Supremo. Y sin embargo: «_...él es lo máximo que las criaturas finitas pueden comprender realmente sobre la Deidad_» <a id="a42_253"></a>[[LU 56:8.1](/es/The_Urantia_Book/56#p8_1)]
+Es necesaria cierta comprensión básica del Supremo. Muchos lectores de la revelación tienden a rehuir el estudio y la discusión sobre el Supremo. Y sin embargo: «_...él es lo máximo que las criaturas finitas pueden comprender realmente sobre la Deidad_» <a id="a42_253"></a>[[LU 56:8.1](/es/The_Urantia_Book/56#p8_1)]
 
 **Fuente**: El Ser Supremo es una creación de la Trinidad del Paraíso y Dios Séptuplo (también llamados los Creadores Supremos) <a id="a44_128"></a>[[LU 17:2.2](/es/The_Urantia_Book/17#p2_2)] En realidad, es solo los tres primeros de los Séptuples (Los Hijos y Espíritus Creadores, los Ancianos del Día y los Siete Espíritus Maestros) que participaron en esta creación. <a id="a44_350"></a>[[LU 116:2.5](/es/The_Urantia_Book/116#p2_5)]
 
@@ -52,7 +52,7 @@ Cuando el Supremo alcanza la plena madurez en el momento de la perfección del G
 
 Por supuesto que existe unidad y triunidad en diferentes reinos de la realidad, pero dentro de los siete superuniversos somos seres de origen dual (Supremo y Padre). Hay infinitas formas de ver la dualidad: masculino/femenino, perfecto/imperfecto, ser/hacer, espiritual/material; existencial/experiencial; el yin y el yang de prácticamente todo.
 
-Con esto en mente, veamos algunos de los fundamentos del Supremo. _El Libro de Urantia_ ofrece tres documentos sobre el Supremo: El Ser Supremo (Documento 115), El Todopoderoso Supremo (Documento 116) y Dios el Supremo (Documento 117). Como la mayor parte del Apocalipsis, estos documentos parecen estar presentados en orden inverso; pero tanto para el pensamiento humano. En el Prólogo dice: «_El Todopoderoso Supremo, que evoluciona en el nivel de valor de las actividades no personales, y la persona espiritual de Dios Supremo, son una sola realidad —el Ser Supremo._» <a id="a54_572"></a>[[LU 0:8.10](/es/The_Urantia_Book/0#p8_10)]
+Con esto en mente, veamos algunos de los fundamentos del Supremo. _El Libro de Urantia_ ofrece tres documentos sobre el Supremo: El Ser Supremo (Documento 115), El Todopoderoso Supremo (Documento 116) y Dios el Supremo (Documento 117). Como la mayor parte de la revelación, estos documentos parecen estar presentados en orden inverso; pero tanto para el pensamiento humano. En el Prólogo dice: «_El Todopoderoso Supremo, que evoluciona en el nivel de valor de las actividades no personales, y la persona espiritual de Dios Supremo, son una sola realidad —el Ser Supremo._» <a id="a54_572"></a>[[LU 0:8.10](/es/The_Urantia_Book/0#p8_10)]
 
 ## Los basicos
 
@@ -76,7 +76,7 @@ Entonces, ¿quieres ser como Jesús? Luego: «_Cuando un hombre produce en su vi
 
 ## Alcance y Jesús
 
-Rodan de Alejandría dijo: «_Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos..._» <a id="a78_136"></a>[[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)] (nuestro énfasis)
+Rodán de Alejandría dijo: «_Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos..._» <a id="a78_136"></a>[[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)] (nuestro énfasis)
 
 ¿Qué es el alcance? Para nosotros, el proceso multifacético de compartir el evangelio del reino en un ministerio vivo es el alcance; para algunos esto es un deber ministerial. Jesús, hablando a unos cincuenta de sus fieles seguidores, dijo: «Recordad que estáis encargados de predicar este evangelio del reino... y no debéis permitir que nada desvíe vuestra consagración a este único deber». <a id="a80_392"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]  
 

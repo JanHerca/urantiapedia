@@ -38,7 +38,7 @@ Si la revelación ha de exaltar y mejorar las religiones de la evolución, enton
 
 La verdad es siempre una revelación: autorrevelación cuando surge como resultado del trabajo del Ajustador residente; revelación de época cuando es presentada por la función de algún otro organismo, grupo o personalidad celestial. En última instancia, la religión debe ser juzgada por sus frutos, de acuerdo con la manera y la medida en que exhibe su propia excelencia inherente y divina.
 
-## Las limitaciones del Apocalipsis
+## Las limitaciones de la revelación
 
 Los documentos, de los cuales éste es uno, constituyen la presentación más reciente de la verdad a los mortales de Urantia. Estos documentos difieren de todas las revelaciones anteriores, porque no son el trabajo de una sola personalidad del universo sino una presentación compuesta por muchos seres. Pero ninguna revelación que no sea el logro del Padre Universal puede ser completa. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales de tiempo y espacio. Si bien admisiones como esta posiblemente resten valor a la fuerza y ​​autoridad inmediatas de todas las revelaciones, ha llegado a Urantia el momento en que es aconsejable hacer declaraciones tan francas, incluso a riesgo de debilitar la futura influencia y autoridad de este, el más reciente de las revelaciones de la verdad a las razas mortales de Urantia.
 

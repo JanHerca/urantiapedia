@@ -76,7 +76,7 @@ Continuando en la sección 4, «El misterio de Dios», el Consejero escribe: «_
 
 ## La personalidad de la deidad
 
-Las tres secciones (finales) del Documento 1 establecen enfáticamente la _personalidad de la Deidad_. <a id="a78_102"></a>[[LU 1:5-7](/es/The_Urantia_Book/1#p5)] Puede que recuerdes que la personalidad de Dios también fue el tema discutido por Rodan, Tomás y Natanael. <a id="a78_249"></a>[Ver: [LU 161:1](/es/The_Urantia_Book/161#p1)]
+Las tres secciones (finales) del Documento 1 establecen enfáticamente la _personalidad de la Deidad_. <a id="a78_102"></a>[[LU 1:5-7](/es/The_Urantia_Book/1#p5)] Puede que recuerdes que la personalidad de Dios también fue el tema discutido por Rodán, Tomás y Natanael. <a id="a78_249"></a>[Ver: [LU 161:1](/es/The_Urantia_Book/161#p1)]
 
 En el Documento 1, sección 5, el revelador declara claramente: «_Dios es tanto infinito como personal; es una personalidad infinita._» <a id="a80_135"></a>[[LU 1:5.1](/es/The_Urantia_Book/1#p5_1)] Como tal, la personalidad de Dios no es completamente comprensible para ninguna criatura material finita, como nosotros. «_Por eso, aunque podáis saber que Dios debe ser mucho más que el concepto humano de la personalidad, sabéis igualmente muy bien que el Padre Universal no puede ser menos, de ninguna manera, que una personalidad eterna, infinita, verdadera, buena y bella._» <a id="a80_556"></a>[[LU 1:5.2](/es/The_Urantia_Book/1#p5_2)]  
 

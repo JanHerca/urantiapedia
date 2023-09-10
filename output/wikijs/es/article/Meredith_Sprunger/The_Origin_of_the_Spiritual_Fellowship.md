@@ -66,7 +66,7 @@ Al mismo tiempo, en los últimos años la gente ha estado buscando significado e
 
 Si bien siempre debemos tener en cuenta que Dios es el fin y todas las demás cosas son medios, existe el peligro de olvidar que son los medios los que son fundamentales para llegar al fin. Cuando se usan términos como «iglesia» o «compañerismo», existe el peligro de empantanarse en la semántica: una organización religiosa también es un hermano o una hermandad. La historia de la religión muestra que los nuevos sistemas de valores espirituales siempre se establecen en la sociedad a través de algún tipo de organización religiosa. La dinámica social de una organización religiosa es básica para llevar la religión de Jesús a las bases del mundo. Creemos que The Spiritual Fellowship tiene este potencial.
 
-Además de estas actividades preliminares, parece que los Altísimos están utilizando la religión evolutiva para preparar el camino para una nueva organización religiosa inspirada en los Documentos de Urantia. Estamos viviendo en uno de los más. periodos promisorios de la historia. El desarrollo contemporáneo más distintivo de la religión en nuestro mundo es el advenimiento del movimiento ecuménico y la búsqueda sin precedentes de una experiencia espiritual significativa. Esta búsqueda en expansión de guía y dirección espiritual ha tomado muchas formas. El teólogo Ernst Troeltsch (1865-1923) observó que todas las religiones son relativas, es decir, limitadas, parciales e incompletas. El historiador Arnold Toynbee (1889-1975) examinó todas las religiones del mundo y señaló que detrás de todas las religiones hay un núcleo y un objetivo común. El psiquiatra Carl G. Jung (1875-1961) en un estudio profundo de las religiones, encontró que existe un origen y función psíquica común entre las religiones. Estos y otros estudios académicos sobre la religión sentaron las bases para el movimiento ecuménico contemporáneo.
+Además de estas actividades preliminares, parece que los Altísimos están utilizando la religión evolutiva para preparar el camino para una nueva organización religiosa inspirada en los Documentos de Urantia. Estamos viviendo en uno de los periodos más prometedores de la historia. El desarrollo contemporáneo más distintivo de la religión en nuestro mundo es el advenimiento del movimiento ecuménico y la búsqueda sin precedentes de una experiencia espiritual significativa. Esta búsqueda en expansión de guía y dirección espiritual ha tomado muchas formas. El teólogo Ernst Troeltsch (1865-1923) observó que todas las religiones son relativas, es decir, limitadas, parciales e incompletas. El historiador Arnold Toynbee (1889-1975) examinó todas las religiones del mundo y señaló que detrás de todas las religiones hay un núcleo y un objetivo común. El psiquiatra Carl G. Jung (1875-1961) en un estudio profundo de las religiones, encontró que existe un origen y función psíquica común entre las religiones. Estos y otros estudios académicos sobre la religión sentaron las bases para el movimiento ecuménico contemporáneo.
 
 El libro de Paul E. Knitter, _No Other Name?, A Critical Survey of Christian Attitudes Toward the World Religions_,[^1] es uno de los debates actuales más perspicaces sobre la base ecuménica de la religión. El Dr. Knitter nos recuerda que Jesús estableció un fundamento de religión teocéntrico (religión de Jesús) en lugar de un fundamento de religión cristocéntrico (religión acerca de Jesús). Él cree que todas las religiones podrían beneficiarse de las ideas y experiencias de otras religiones. El último capítulo del libro del profesor Knitter titulado «El desafío del diálogo interreligioso», presenta un argumento elocuente para el desarrollo de una teología global. El libro más reciente de Knitter, _Introducing Theologies of Religions_[^2], continúa esta discusión.
 
@@ -79,7 +79,7 @@ El escenario está listo para el advenimiento de una nueva visión espiritual qu
 - Un creciente reconocimiento de que una comprensión global de la religión debe ser teocéntrica.
 - Una proliferación de nuevos enfoques teológicos de la experiencia espiritual.
 - Una búsqueda sin precedentes de una visión y una experiencia más significativas de la Realidad espiritual
-- Darme cuenta de eso. nuestro mundo necesita una «nueva metáfora organizativa o paradigma compartido que aún remodele el mundo»
+- Darnos cuenta de que nuestro mundo necesita una «nueva metáfora organizativa o paradigma compartido que remodele el mundo»
 
 La quinta revelación de época, en mi opinión, es el único recurso que tiene la visión espiritual y el poder para cumplir estos anhelos y aspiraciones de nuestra condición humana. La historia de la religión muestra que los sistemas de valores espirituales siempre son establecidos por algún tipo de organización religiosa.
 
@@ -96,7 +96,7 @@ Se llevaron a cabo varias teleconferencias de la Junta en 2001 y nos reunimos en
 PRINCIPIOS RECTORES: LA COMUNIÓN ESPIRITUAL DEBE:[^4]
 
 1. Basarse en la Paternidad de Dios y la hermandad de la humanidad
-2. Sé el fruto del amor
+2. Ser el fruto del amor
 3. Fomentar el sentimiento, satisfacer las emociones y promover la lealtad
 4. Facilitar el progreso espiritual a través de significados cósmicos, valores morales, desarrollo social y vida personal.
 5. Proporcionar metas supremas de vida que sean tanto temporales como eternas.
@@ -115,7 +115,7 @@ EL PROPÓSITO DE LA COMUNIÓN ESPIRITUAL ES:
 3. Mejorar el servicio de compañerismo desinteresado
 4. Glorificar los potenciales de la vida familiar
 5. Promover la educación religiosa
-6. Proporcione sabios consejos y guía espiritual
+6. Proporcionar sabios consejos y guía espiritual
 7. Proporcionar y promover la adoración en grupo.
 8. Fomentar la amistad, el bienestar del vecindario y los valores morales
 9. Difunde el evangelio de la salvación eterna
@@ -133,9 +133,9 @@ LA COMUNIÓN ESPIRITUAL BUSCA EVITAR PELIGROS COMO:
 
 ## Objetivo central
 
-El objetivo central de The Spiritual Fellowship es crear un sistema de gobierno con la máxima flexibilidad que funcione con grupos pequeños o grandes congregaciones, utilice liderazgo laico y/o clew ordenado, tenga adaptabilidad intercultural y una amplia inclusión teológica.
+El objetivo central de The Spiritual Fellowship es crear un sistema de gobierno con la máxima flexibilidad que funcione con grupos pequeños o grandes congregaciones, utilizar el liderazgo laico y/o los clérigos ordenados, tener adaptabilidad intercultural y una amplia inclusión teológica.
 
-Nos esforzamos por ser «una reunión de personas que han aceptado un propósito común y una disciplina común para guiar la búsqueda de ese propósito, con el fin de que cada persona involucrada alcance una mayor realización como persona, sirviendo y siendo servido por el común. empresa, de lo que se lograría solo o en una relación menos comprometida.»[^5]
+Nos esforzamos por ser «una reunión de personas que han aceptado un propósito común y una disciplina común para guiar la búsqueda de ese propósito, con el fin de que cada persona involucrada alcance una mayor realización como persona, sirviendo y siendo servido por la empresa común, de lo que se lograría solo o en una relación menos comprometida.»[^5]
 
 ## Declaración de misión y valores fundamentales
 
@@ -167,9 +167,9 @@ La Fraternidad Espiritual está comprometida a motivar, capacitar y apoyar a tod
 
 Artículo 15, Sección 7
 
-«Las personas pueden convertirse en miembros de una confraternidad local de las siguientes maneras; (a) profesión de fe en el Padre/Maternidad de Dios y la hermandad de todas las personas según la interpretación de la Vida y Enseñanzas de Jesús en los Documentos de Urantia tal como las enseña su comunidad local; (b) carta de transferencia de otra beca; (c) carta de transferencia de una institución religiosa y aceptación de la opción (a).»
+«Las personas pueden convertirse en miembros de una confraternidad local de las siguientes maneras; a- profesión de fe en el Padre/Maternidad de Dios y la hermandad de todas las personas según la interpretación de la Vida y Enseñanzas de Jesús en los Documentos de Urantia tal como las enseña su comunidad local; b- carta de transferencia de otra beca; c- carta de transferencia de una institución religiosa y aceptación de la opción ‘a’.»
 
-«Las personas pueden convertirse en miembros generales de La Fraternidad por (a) profesión de fe en el Padre/Maternidad de Dios y el hermano/hermandad de todas las personas como se describe en la Vida y Enseñanzas de Jesús; (b) carta de membresía de otra confraternidad; (c) carta de transferencia de una institución religiosa y aceptación de la opción (a).»
+«Las personas pueden convertirse en miembros generales de La Fraternidad por a- profesión de fe en el Padre/Maternidad de Dios y el hermano/hermandad de todas las personas como se describe en la Vida y Enseñanzas de Jesús; b- carta de membresía de otra confraternidad; c- carta de transferencia de una institución religiosa y aceptación de la opción ‘a’.»
 
 (Debe señalarse que esto no requiere que el individuo crea que los Documentos de Urantia son una revelación o incluso la «quinta revelación de época». Cada miembro de The Spiritual Fellowship es totalmente libre de formar su propia opinión con respecto a la naturaleza de _The Urantia Libro_.)
 

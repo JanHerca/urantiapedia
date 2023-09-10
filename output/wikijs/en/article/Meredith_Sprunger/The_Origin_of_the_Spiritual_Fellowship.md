@@ -66,7 +66,7 @@ At the same time, in recent years people have been searching for spiritual meani
 
 While we must always keep in mind that God is the end and all other things are means, there is a danger in forgetting that it is the means that are instrumental in getting to the end. When using terms like “church” or “fellowship,” there is a danger in getting bogged down in semantics— a religious organization is also a brother/sisterhood. The history of religion shows that new spiritual value systems are always established in society through some kind of religious organization. The social dynamics of a religious organization are basic in carrying the religion of Jesus to the grass roots of the world. We believe The Spiritual Fellowship has this potential.
 
-In addition to these preliminary activities, it appears that the Most Highs are using evolutionary religion to prepare the way for a new religious organization inspired by the Urantia Papers. We are living in one of the most. promising periods of history. The most distinctive contemporary development of religion in our world is the advent of the ecumenical movement and the unprecedented search for meaningful spiritual experience. This expanding quest for spiritual guidance and direction has taken many forms. The theologian Ernst Troeltsch (1865-1923) observed that all religions are relative—that is limited, partial, and incomplete. The historian Arnold Toynbee (1889-1975) examined all of the religions of the world and pointed out that there is a common core and goal behind all religions. The psychiatrist Carl G. Jung (1875-1961) in an in-depth study of religions, found that there is a common psychic origin and function among religions. These and other scholarly studies of religion set the stage for the contemporary ecumenical movement.
+In addition to these preliminary activities, it appears that the Most Highs are using evolutionary religion to prepare the way for a new religious organization inspired by the Urantia Papers. We are living in one of the most promising periods of history. The most distinctive contemporary development of religion in our world is the advent of the ecumenical movement and the unprecedented search for meaningful spiritual experience. This expanding quest for spiritual guidance and direction has taken many forms. The theologian Ernst Troeltsch (1865-1923) observed that all religions are relative—that is limited, partial, and incomplete. The historian Arnold Toynbee (1889-1975) examined all of the religions of the world and pointed out that there is a common core and goal behind all religions. The psychiatrist Carl G. Jung (1875-1961) in an in-depth study of religions, found that there is a common psychic origin and function among religions. These and other scholarly studies of religion set the stage for the contemporary ecumenical movement.
 
 Paul E Knitter's book, _No Other Name?, A Critical Survey of Christian Attitudes Toward the World Religions_,[^1] is one of the most insightful present-day discussions of the ecumenical basis of religion. Dr. Knitter reminds us that Jesus established a theocentric (religion of Jesus) foundation of religion rather than a Christocentric (religion about Jesus) basis of religion. He believes that all religions could profit from the insights and experiences of other religions. The last chapter of Professor Knitter's book entitled, “The Challenge of Interreligious Dialogue,” makes an eloquent argument for the development of a global theology. Knitter's more recent book, _Introducing Theologies of Religions_[^2], continues this discussion.
 
@@ -79,7 +79,7 @@ The stage is set for the advent of a new spiritual vision that will transform ou
 - A growing recognition that a global understanding of religion must be theocentric
 - A proliferation of new theological approaches to spiritual experience
 - An unprecedented searching for a more meaningful view and experience of spiritual Reality
-- A realization that. our world needs a “new organizing metaphor or shared paradigm that %sill reshape the world”
+- A realization that our world needs a “new organizing metaphor or shared paradigm that will reshape the world”
 
 The fifth epochal revelation, in my opinion, is the only resource that has the spiritual vision and power to fulfill these longings and aspirations of our human condition. The history of religion shows that spiritual value systems are always established by some kind of religious organization.
 
@@ -133,7 +133,7 @@ THE SPIRITUAL FELLOWSHIP SEEKS TO AVOID DANGERS, SUCH As:
 
 ## Central Objective
 
-The central objective of The Spiritual Fellowship is to create a polity with maximum flexibility that will function with small groups or large congregations, utilize lay leadership and/or ordained clew have cross-cultural adaptability, and broad theological inclusiveness.
+The central objective of The Spiritual Fellowship is to create a polity with maximum flexibility that will function with small groups or large congregations, utilize lay leadership and/or ordained clergy, have cross-cultural adaptability, and broad theological inclusiveness.
 
 We strive to be “a gathering of persons who have accepted a common purpose, and a common discipline to guide the pursuit of that purpose, to the end that each involved person reaches higher fulfillment as a person, through serving and being served by the common venture, than would be achieved alone or in a less committed relationship.”[^5]
 
@@ -167,9 +167,9 @@ The Spiritual Fellowship is committed to motivating, empowering, and supporting 
 
 Article 15, Section 7
 
-“Persons may become members of a local fellowship in the following ways; (a) profession of faith in the Father/ Motherhood of God and the brother/sisterhood of all people as interpreted by the Life and Teachings of Jesus in the Urantia Papers as taught by their local fellowship; (b) letter of transfer from another fellowship; (c) letter of transfer from a religious institution and acceptance of option (a).” 
+“Persons may become members of a local fellowship in the following ways; a- profession of faith in the Father/ Motherhood of God and the brother/sisterhood of all people as interpreted by the Life and Teachings of Jesus in the Urantia Papers as taught by their local fellowship; b- letter of transfer from another fellowship; c- letter of transfer from a religious institution and acceptance of option ‘a’.” 
 
-“Persons may become members-at-large of The Fellowship by (a) profession of faith in the Father/ Motherhood of God and the brother/sisterhood of all people as portrayed by the Life and Teachings of Jesus; (b) letter of membership from another fellowship; (c) letter of transfer from a religious institution and acceptance of option (a).”"
+“Persons may become members-at-large of The Fellowship by a- profession of faith in the Father/ Motherhood of God and the brother/sisterhood of all people as portrayed by the Life and Teachings of Jesus; b- letter of membership from another fellowship; c- letter of transfer from a religious institution and acceptance of option ‘a’.”"
 
 (It should be pointed out that this does not require the individual to believe that the Urantia Papers are revelation or even the “fifth epochal revelation.” Each member of The Spiritual Fellowship is entirely free to form their own opinion regarding the nature of _The Urantia Book_.)
 

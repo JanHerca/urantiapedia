@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Rodan, Alexandria
+Rodán, Alexandria
 
 > Pero el mejor de todos los métodos para solucionar los problemas lo he aprendido de Jesús, vuestro Maestro. Me refiero a lo que él practica con tanta perseverancia, y que tan fielmente os ha enseñado: la meditación adoradora en solitario. En esta costumbre que tiene Jesús de apartarse con tanta frecuencia para comulgar con el Padre que está en los cielos, se encuentra la técnica, no sólo para acumular las fuerzas y la sabiduría necesarias para los conflictos ordinarios de la vida, sino también para apropiarse de la energía necesaria para resolver los problemas más elevados de naturaleza moral y espiritual. Pero incluso los métodos correctos para solucionar los problemas no compensan los defectos inherentes a la personalidad, ni reparan la ausencia de hambre y de sed de verdadera rectitud.
 > 

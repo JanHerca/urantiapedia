@@ -83,7 +83,7 @@ El Divino Consejero, autor de estos primeros cinco artículos, tiene razón al r
 
 La paternidad conlleva una actitud de amor y respeto que no pone condiciones. Su conciencia se revela como considerablemente más grande que incluso el amor fraternal o fraternal. Al hablar sobre la regla de oro, Jesús enseñó que en el nivel más alto o espiritual, debemos «_tratar a todos los hombres como concebimos que Dios los trataría_» <a id="a83_341"></a>[[LU 147:4.9](/es/The_Urantia_Book/147#p4_9) ]
 
-Apocalipsis, entonces, nos enseña que la paternidad es la imagen mental más grande y entrañable de la naturaleza de Dios de las criaturas procreadoras —es decir, nuestra conciencia de Él— y que debe moldear nuestra actitud hacia nuestros semejantes. La perspectiva divina o paternal es la visión desde arriba: _sabiduría espiritual_ en contraste con _conocimiento genético_, y el producto del pensamiento y la acción celestiales.
+La revelación, entonces, nos enseña que la paternidad es la imagen mental más grande y entrañable de la naturaleza de Dios de las criaturas procreadoras —es decir, nuestra conciencia de Él— y que debe moldear nuestra actitud hacia nuestros semejantes. La perspectiva divina o paternal es la visión desde arriba: _sabiduría espiritual_ en contraste con _conocimiento genético_, y el producto del pensamiento y la acción celestiales.
 
 ## Las características espirituales del Padre
 

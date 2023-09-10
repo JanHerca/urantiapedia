@@ -57,7 +57,7 @@ Así que en resumen:
 - Un hombre de perdón, genuino.
 - Un hombre siempre feliz y sonriente.[^5]
 
-¿Es así como describiríamos a cualquiera de nuestros políticos hoy, oa cualquier otra persona?
+¿Es así como describiríamos a cualquiera de nuestros políticos hoy, o a cualquier otra persona?
 
 He escuchado estas palabras antes. Estos y más me describen al hombre/dios que caminó sobre la tierra hace 2000 años. Él dijo: «Yo soy el camino».
 

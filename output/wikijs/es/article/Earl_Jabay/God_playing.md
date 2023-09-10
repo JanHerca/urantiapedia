@@ -96,7 +96,7 @@ Al principio sintió ira y celos hacia ellos. Como ministro ordenado con calific
 6. Estar listo y dispuesto a que Dios quite todos estos defectos de carácter.
 7. Pedir humildemente a Dios que quite sus defectos.
 8. Hacer una lista de todas las personas que habían dañado, y estar dispuesto a enmendarlos a todos.
-9. Enmendar directamente a tales personas siempre que sea posible, excepto cuando hacerlo les perjudique a ellos oa otros.
+9. Enmendar directamente a tales personas siempre que sea posible, excepto cuando hacerlo les perjudique a ellos o a otros.
 10. Continuar haciendo inventario personal y, cuando esté equivocado, admitirlo de inmediato.
 11. A través de la oración y la meditación, buscar mejorar su contacto consciente con Dios tal como lo entienden, orando solo por el conocimiento de Su voluntad para ellos, y el poder para llevarla a cabo.
 12. Habiendo tenido un despertar espiritual como resultado de estos pasos, tratar de llevar este mensaje a los alcohólicos y practicar estos principios en todos sus asuntos.

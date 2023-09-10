@@ -62,7 +62,7 @@ La reunión del Consejo General de la Fellowship se llevará a cabo en el campus
 
 ### Actividades en el área de Vancouver
 
-La información sobre turismo en el área de Vancouver y otra información turística general está disponible en www.tourism-vancouver.org oa través de un enlace a ese sitio a través del sitio web de la Fellowship www.urantiabook.org.
+La información sobre turismo en el área de Vancouver y otra información turística general está disponible en www.tourism-vancouver.org o a través de un enlace a ese sitio a través del sitio web de la Fellowship www.urantiabook.org.
 
 ## Oportunidad de servicio de conferencias
 

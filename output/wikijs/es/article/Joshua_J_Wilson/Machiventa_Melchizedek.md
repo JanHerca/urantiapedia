@@ -35,7 +35,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 
-Trabajando en la Tierra desde 200 000 a. C. como uno de los doce receptores planetarios, sabio de Salem (1980-1886 a. C.), colaborador de profetas y videntes (a. 1866 a. C.-30 d. C.), gobernador general residente (c. 950-1050 d. C.), vicegerente Príncipe Planetario (actual)
+Trabajando en la Tierra desde 200 000 a. C. como uno de los doce síndicos planetarios, sabio de Salem (1980-1886 a. C.), colaborador de profetas y videntes (a. 1866 a. C.-30 d. C.), gobernador general residente (c. 950-1050 d. C.), vicegerente Príncipe Planetario (actual)
 
 **Superposición histórica de eventos mundiales significativos**
 

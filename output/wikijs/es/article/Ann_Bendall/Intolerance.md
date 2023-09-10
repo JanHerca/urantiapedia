@@ -58,7 +58,7 @@ Pocos de nosotros parecemos ser capaces de separar el pecado del pecador, y en n
 
 En una de sus amonestaciones inspiradoras después de su resurrección, donde reiteró su mandato de «_amad a todos los hombres como yo os he amado_», Jesús recordó a sus discípulos que ellos eran «_los hijos de la luz; no tropecéis pues en los enredos de los malentendidos causados por la desconfianza y la intolerancia humana. Si la gracia de la fe os ennoblece para amar a los incrédulos, ¿no deberíais amar igualmente a aquellos que son vuestros compañeros creyentes en la gran familia de la fe? Recordad, en la medida en que os améis los unos a los otros, todos los hombres sabrán que sois mis discípulos._» (<a id="a58_611"></a>[LU 191:4.3](/es/The_Urantia_Book/191#p4_3))
 
-Las creencias subyacentes, ya menudo inconscientes, que tenemos sobre nosotros mismos y la naturaleza humana influyen y, en última instancia, determinan nuestra capacidad y voluntad de arriesgar, confiar, amar y perdonar.
+Las creencias subyacentes, y a menudo inconscientes, que tenemos sobre nosotros mismos y la naturaleza humana influyen y, en última instancia, determinan nuestra capacidad y voluntad de arriesgar, confiar, amar y perdonar.
 
 A través de la gracia del Espíritu de la Verdad, todos tenemos la capacidad de ver con claridad, sin estar a la defensiva y sin distorsión. Y todos tenemos libre albedrío: la capacidad de elegir cómo respondemos a las situaciones.
 

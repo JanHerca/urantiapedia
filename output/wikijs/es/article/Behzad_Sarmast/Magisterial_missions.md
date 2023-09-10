@@ -98,7 +98,7 @@ Estos doce entregaron efectivamente el gobierno planetario a Adán y Eva poco de
 
 > Durante los años de la encarnación de Maquiventa, los síndicos Melquisedeks de Urantia ejercieron su actividad en número de once... . <a id="a98_136"></a>[LU 93:10.1](/es/The_Urantia_Book/93#p10_1)
 
-Si la visita dispensacional incluye a un Hijo del Paraíso Avonal en una misión magisterial, entonces los doce Melquisedec que se nos dice que acompañarán a este Hijo Magisterial no pueden ser otros que nuestros propios Melquisedec como receptores. Y si estos doce que están tan versados ​​en la historia y los asuntos de nuestro planeta acompañan a un Hijo Avonal, entonces Maquiventa también debe venir visiblemente, ya que él es una parte integral de los doce.
+Si la visita dispensacional incluye a un Hijo del Paraíso Avonal en una misión magisterial, entonces los doce Melquisedec que se nos dice que acompañarán a este Hijo Magisterial no pueden ser otros que nuestros propios Melquisedec como síndicos. Y si estos doce que están tan versados ​​en la historia y los asuntos de nuestro planeta acompañan a un Hijo Avonal, entonces Maquiventa también debe venir visiblemente, ya que él es una parte integral de los doce.
 
 Esta posibilidad es una oportunidad increíble para los celestiales, así como para nosotros. En un movimiento estratégico, la raza humana en Urantia podría ser visitada por un Hijo del Paraíso en una misión magisterial, totalmente visible y en persona, acompañado por doce Melquisedek visibles, uno de ellos siendo nuestro Príncipe Planetario vicerregente, Maquiventa Melquisedec, y por supuesto, posiblemente incluso el propio Miguel.
 

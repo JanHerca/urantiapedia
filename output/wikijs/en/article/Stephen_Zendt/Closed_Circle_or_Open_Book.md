@@ -75,7 +75,7 @@ As clarity increases about Jesus and his gospel, superstition and fear become un
 
 We learn that God is not a stern dictator and arbiter. Instead, God turns out to he a welcoming, saving, loving, intellectually stimulating, Father. There are rules, but they are methods of becoming more real, more loving, more giving human beings.
 
-We accept the invitation to come home to the center of all things. After all, the creator of all things has issued to each of us the open invitation to join him in Paradise. The joy and peace of God's universal plan of transIbrmation and ascension is ours to choose.
+We accept the invitation to come home to the center of all things. After all, the creator of all things has issued to each of us the open invitation to join him in Paradise. The joy and peace of God's universal plan of transformation and ascension is ours to choose.
 
 Just prior to listing the mortal insights of Morontia Mota, an archangel makes the following statement: _“Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell and no shell is of any worth after the chick is hatched.”_ <a id="a79_360"></a>[[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)]
 
@@ -120,7 +120,7 @@ We increasingly find that we need peaceful moments to associate ourselves with o
 
 > “The spiritual forward urge is the most powerful driving force present in this world: the truth-loving believer is the one progressive and aggressive soul on earth.” <a id="a120_168"></a>[[UB 194:3.4](/en/The_Urantia_Book/194#p3_4)]
 
-Typically, much strife and contention has accompanied the teachings and the teachers of Jesus' gospel. Martyrdom, persecution, even ctiminalization have tended to make modern believers somewhat cautious about falling prey to overly zealous behavior. Even the Golden Rule has been turned upside down, to create a polite refusal to intrude into the privacy of others' lives.
+Typically, much strife and contention has accompanied the teachings and the teachers of Jesus' gospel. Martyrdom, persecution, even criminalization have tended to make modern believers somewhat cautious about falling prey to overly zealous behavior. Even the Golden Rule has been turned upside down, to create a polite refusal to intrude into the privacy of others' lives.
 
 It is a terrible thing to see real evangelism deteriorate into opinionated argument and condemnation. Zealots create strife and belligerence wherever they go, no matter to which religious movement they attempt to obtain converts. Tact and tolerance and the ability to listen for the cry in another's soul may win more believers than any show of intellectual skill or forceful debate. Dropping pearls of wisdom effectively into common conversation is an art form in itself. Going on the second-mile-journey may be the source of a miracle for someone in deep need.
 

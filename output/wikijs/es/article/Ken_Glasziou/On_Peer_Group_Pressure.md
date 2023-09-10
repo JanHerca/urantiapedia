@@ -42,7 +42,7 @@ Un instinto observado en los animales de manada puede dar la pista. Este es un m
 
 Es el mismo instinto que, en el caballo domesticado, hará que un potro que se separa de su madre huya precipitadamente hacia ella, ignorando todos y cada uno de los obstáculos, como una cerca de alambre de púas en la que puede destruirse a sí mismo.
 
-Ciertamente, es el miedo a la soledad y el rechazo lo que es responsable de que una gran proporción de adolescentes cedan a la presión del grupo y prueben cosas geniales, ya sea marihuana, cigarrillos, alcohol, las llamadas drogas recreativas y drogas duras. O tal vez sea el miedo lo que los lleva a entregarse a alguna estúpida escapada que puede fallar y llevarlos a ellos mismos y probablemente a otros al hospital, a la morgue oa la cárcel.
+Ciertamente, es el miedo a la soledad y el rechazo lo que es responsable de que una gran proporción de adolescentes cedan a la presión del grupo y prueben cosas geniales, ya sea marihuana, cigarrillos, alcohol, las llamadas drogas recreativas y drogas duras. O tal vez sea el miedo lo que los lleva a entregarse a alguna estúpida escapada que puede fallar y llevarlos a ellos mismos y probablemente a otros al hospital, a la morgue o a la cárcel.
 
 Estar solo no es realmente tan malo. Aprendí mi lección durante los años de la guerra cuando tuve que hacer frente a un confinamiento solitario en completa oscuridad y aislamiento total del ruido u otro contacto con el mundo exterior. El tiempo para pensar puede incluso ser una bendición.
 

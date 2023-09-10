@@ -327,7 +327,7 @@ Gracias al apoyo de la Fellowship, tuvimos la oportunidad de participar en la Fe
 
 Nos alegró especialmente entregar una copia de _El Libro de Urantia_ al Sr. Jaime Nebot, alcalde de la ciudad de Guayaquil. Fuimos muy afortunados de contar con la ayuda de otros lectores de Costa Rica, Nidia Guzman, Guillermo y Lady Saenz. Los lectores locales que participaron fueron Jaime Rodríguez, Sandra Naranjo, Fernando Delgado, Sara Heireria, Telmo López, Gabriel Pino, Martha Balseca, Karla Lentino y Christian Franco.
 
-Estas ferias del libro son una excelente manera de exponer a los nuevos lectores al Apocalipsis y de reunir a los lectores establecidos en el servicio.
+Estas ferias del libro son una excelente manera de exponer a los nuevos lectores a la revelación y de reunir a los lectores establecidos en el servicio.
 
 Nélida Oliver - Traducido por Dolores Nice
 
@@ -411,7 +411,7 @@ En el año siguiente al lanzamiento inicial de Cosmic Citizen los sábados, se a
 
 El programa de los sábados continúa transmitiéndose en vivo desde las 10 a. m., hora del este (11 p. m., montaña del mediodía, 1 p. m. del Pacífico) hasta el mediodía del este (1 p. m. Centro, 2 p. m. de la montaña, 3 p. m. del Pacífico)
 
-Los oyentes también pueden participar en una sala de chat moderada en pantalla al mismo tiempo que el programa de audio en vivo. Los participantes del chat a menudo complementan la discusión de audio planteando preguntas al presentador del programa, buscando y compartiendo citas relevantes de _El Libro de Urantia_ y respondiendo preguntas de los recién llegados que no están familiarizados con el libro. Dice Paula: «Es extremadamente gratificante ver a los visitantes interactuar con otros lectores de _El Libro de Urantia_ en la sala de chat. Siempre estoy orgulloso de la forma paciente y cuidadosa en que ofrecemos información y verdades del libro. La mayoría de los que vienen buscan sinceramente ya menudo comentan cuánto aprecian nuestros esfuerzos. Marcan el programa como favorito y, muy a menudo, regresan y lo escuchan de nuevo».
+Los oyentes también pueden participar en una sala de chat moderada en pantalla al mismo tiempo que el programa de audio en vivo. Los participantes del chat a menudo complementan la discusión de audio planteando preguntas al presentador del programa, buscando y compartiendo citas relevantes de _El Libro de Urantia_ y respondiendo preguntas de los recién llegados que no están familiarizados con el libro. Dice Paula: «Es extremadamente gratificante ver a los visitantes interactuar con otros lectores de _El Libro de Urantia_ en la sala de chat. Siempre estoy orgulloso de la forma paciente y cuidadosa en que ofrecemos información y verdades del libro. La mayoría de los que vienen buscan sinceramente y a menudo comentan cuánto aprecian nuestros esfuerzos. Marcan el programa como favorito y, muy a menudo, regresan y lo escuchan de nuevo».
 
 Para escuchar el programa en vivo en una computadora, uno simplemente ingresa a: www.blogtalkradio.com/cosmiccitizen y presiona el botón de reproducción. Aquellos interesados ​​en funciones adicionales, incluida la sala de chat, pueden registrarse para obtener una cuenta gratuita, que también permite al usuario seguir sus programas favoritos y relacionarse con amigos. Una vez registrado, un usuario puede iniciar sesión a la hora designada y la sala de chat se iniciará automáticamente y se mostrará en una ventana separada.
 

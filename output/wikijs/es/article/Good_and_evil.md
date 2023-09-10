@@ -36,7 +36,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 No es posible que el Espíritu pueda tener más bondad que el Padre, ya que toda bondad tiene su origen en el Padre, pero en los actos del Espíritu podemos comprender mejor tal bondad. La fidelidad del Padre y la constancia del Hijo se hacen muy reales para los seres espirituales y las criaturas materiales de las esferas por el ministerio amoroso y el servicio incesante de las personalidades del Espíritu Infinito.
 
-La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema y la filosofía con la unidad. Apocalipsis afirma que estos tres son uno y que todos son buenos. Lo real eterno es el bien del universo y no las ilusiones del tiempo del mal del espacio. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es bueno y lo bueno es real.
+La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema y la filosofía con la unidad. La revelación afirma que estos tres son uno y que todos son buenos. Lo real eterno es el bien del universo y no las ilusiones del tiempo del mal del espacio. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es bueno y lo bueno es real.
 
 «¿Por qué me llamas bueno? Ninguno es bueno sino Dios,» (Jesús)
 

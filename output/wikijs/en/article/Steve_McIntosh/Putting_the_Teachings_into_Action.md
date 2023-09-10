@@ -90,7 +90,7 @@ The tribal stage of consciousness and culture is pretty stable, it can continue 
 > **WARRIOR CONSCIOUSNESS**
 > 
 > **Perceived Life Conditions:**
-> Oppressive tribal control and pathology; craves honor. fears shame; the world is a jungle full of threats and predators–dog eat dog, bit or be bitten
+> Oppressive tribal control and pathology; craves honor; fears shame; the world is a jungle full of threats and predators–dog eat dog, bit or be bitten
 > **Worldview and Values:**
 > * Express self, hell with others
 > * Gratify impulses now, without guilt

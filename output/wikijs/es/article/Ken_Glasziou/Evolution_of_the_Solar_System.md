@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-La historia de _El Libro de Urantia_ sobre el origen de nuestro sistema solar difiere de los relatos populares, ya menudo dogmáticos, de los libros de texto. El pensamiento actual indica que, en cualquier descripción de los orígenes, puede haber un alto grado de incertidumbre.
+La historia de _El Libro de Urantia_ sobre el origen de nuestro sistema solar difiere de los relatos populares, y a menudo dogmáticos, de los libros de texto. El pensamiento actual indica que, en cualquier descripción de los orígenes, puede haber un alto grado de incertidumbre.
 
 Comenzando en el siglo XVII con la proclamación de Isaac Newton de sus leyes que describen el movimiento de los cuerpos materiales y la gravedad, se abrió una nueva era en el estudio de las órbitas de los cuerpos celestes. Usando las leyes de Newton para explorar la mecánica celeste, los astrónomos pronto demostraron que estas afirmaciones matemáticas engañosamente simples parecían capturar la esencia de cómo funciona realmente el universo. Como resultado de su aplicación, fue posible imaginar un universo completamente determinista en el que todo el pasado y el futuro estuvieran incluidos dentro de este marco matemático. El reloj se puede retroceder o adelantar con facilidad.
 

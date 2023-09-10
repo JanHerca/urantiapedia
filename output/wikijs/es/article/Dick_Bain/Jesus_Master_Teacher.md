@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Una de las tareas a las que se enfrentan muchas personas de la comunidad de Urantia en un momento u otro es enseñar a un individuo oa un grupo sobre _El Libro de Urantia_. A veces podemos sentirnos inadecuados para la tarea, pero tenemos una excelente guía disponible. Aunque Jesús vivió en una cultura que era muy diferente a la nuestra, y aunque no somos seres de naturaleza dual como Jesús, podemos aprender de sus métodos de enseñanza. Nuestra cultura puede diferir de la suya, pero la naturaleza humana es la misma hoy que hace 2000 años. Los métodos de enseñanza de Jesús deberían ser tan efectivos hoy como lo fueron cuando caminó por la tierra. Los estudiantes de _El Libro de Urantia_ tenemos el privilegio de poseer un relato detallado de la vida y las enseñanzas de Jesús.
+Una de las tareas a las que se enfrentan muchas personas de la comunidad de Urantia en un momento u otro es enseñar a un individuo o a un grupo sobre _El Libro de Urantia_. A veces podemos sentirnos inadecuados para la tarea, pero tenemos una excelente guía disponible. Aunque Jesús vivió en una cultura que era muy diferente a la nuestra, y aunque no somos seres de naturaleza dual como Jesús, podemos aprender de sus métodos de enseñanza. Nuestra cultura puede diferir de la suya, pero la naturaleza humana es la misma hoy que hace 2000 años. Los métodos de enseñanza de Jesús deberían ser tan efectivos hoy como lo fueron cuando caminó por la tierra. Los estudiantes de _El Libro de Urantia_ tenemos el privilegio de poseer un relato detallado de la vida y las enseñanzas de Jesús.
 
 ## Jesús y el individuo
 

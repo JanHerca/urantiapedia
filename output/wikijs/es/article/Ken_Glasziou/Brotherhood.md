@@ -52,7 +52,7 @@ La historia nos enseña que la humanidad tiene un historial continuo de intentos
 
 No solo los reyes, papas, sacerdotes, mulás, profetas autoproclamados, etc. han sido culpables de usurpar la autoridad de Dios para sí mismos, ya que son solo ejemplos evidentes. Todos usurpamos la autoridad de Dios cada vez que nos promovemos como superiores, especiales, escogidos o designados de alguna manera que nos sitúa por encima de nuestro prójimo, como autoridades en relación con nuestros compañeros más ignorantes. ¿Podemos realmente amar a aquellos que despreciamos como nuestros inferiores?
 
-Es bueno que recordemos que el conocimiento en sí mismo no tiene valor espiritual. Por lo tanto, un campesino analfabeto e ignorante puede ser, ya menudo lo es, mucho más avanzado espiritualmente que el más sabio entre nosotros.
+Es bueno que recordemos que el conocimiento en sí mismo no tiene valor espiritual. Por lo tanto, un campesino analfabeto e ignorante puede ser, y a menudo lo es, mucho más avanzado espiritualmente que el más sabio entre nosotros.
 
 Al llegar a los mundos de las mansiones, puede que les aguarde una sorpresa. Muchos de estos analfabetos ignorantes y primitivos, en términos de avance espiritual, pueden encontrarse clasificados muy por encima de los más eruditos entre nosotros.
 

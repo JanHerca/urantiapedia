@@ -127,7 +127,7 @@ Cerramos este artículo con las palabras de la propia Andrea:
 
 > Tengo fe en Papa Dios y confié en él en momentos muy difíciles que pasamos este año con la salud de mi pa abu (abuelo). Le dije a mi familia: "¡El abuelo estará bien, el abuelo estará bien!" Estaba seguro de que estaría bien y confío en Dios. Cuando trajeron a mi abuelo a casa les dije: "¡Tenía fe de que iba a ser así!".
 >
-> ¿Qué me inspira? Se podría decir música, me llama la atención la flauta, también la música clásica, el rock, todo tipo de música me inspira. Aunque algo permanente me pueda llegar en cualquier momento, por ahora solo dejo fluir al artista oa las combinaciones de artistas, dejo que su Sonido me alcance adentro.
+> ¿Qué me inspira? Se podría decir música, me llama la atención la flauta, también la música clásica, el rock, todo tipo de música me inspira. Aunque algo permanente me pueda llegar en cualquier momento, por ahora solo dejo fluir al artista o a las combinaciones de artistas, dejo que su Sonido me alcance adentro.
 >
 > ¿Cómo veo a la juventud de hoy? He conocido a jóvenes que están extremadamente desorientados en el sentido espiritual. A Dios ya la fe ya no se les da importancia. Creo que los jóvenes de hoy deberían prestar un poco más de atención a esas cosas.
 >

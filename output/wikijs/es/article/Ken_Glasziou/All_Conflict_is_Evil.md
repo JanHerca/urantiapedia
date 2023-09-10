@@ -70,7 +70,7 @@ _«Toda guerra es mala.»_
 
 ¿Se puede negar que del conflicto de la Segunda Guerra Mundial surgieron enormes «bienes» de muchos tipos? Algunos fueron el resultado de nuevos desarrollos tecnológicos increíbles acelerados enormemente por la guerra. Otros estaban en campos como la medicina: antibióticos, el uso de varillas metálicas, tornillos, etc., para acelerar la curación de huesos rotos, etc., (para lo cual los judíos en los campos de concentración fueron utilizados como conejillos de indias experimentales). ¿El hecho de que el bien pueda fluir del mal significa que el mal no es el mal?
 
-Hay muchos grados de conflicto, pero en la mayoría de los casos, incluso un conflicto leve puede evitarse con algo mejor. Rodan mostró una sabiduría considerable sobre este tema:
+Hay muchos grados de conflicto, pero en la mayoría de los casos, incluso un conflicto leve puede evitarse con algo mejor. Rodán mostró una sabiduría considerable sobre este tema:
 
 > «Mi filosofía me dice que hay momentos en que debo luchar, si hace falta, para defender mi concepto de la rectitud, pero no dudo de que el Maestro, con su tipo de personalidad más madura, conseguiría fácil y elegantemente una victoria equivalente mediante su técnica superior y encantadora de tacto y de tolerancia. Demasiado a menudo, cuando luchamos por una cosa justa, resulta que tanto el vencedor como el vencido sufren una derrota. Ayer mismo oí decir al Maestro que «si un hombre sabio trata de entrar por una puerta cerrada, no destruye la puerta, sino que busca la llave para abrirla». Con mucha frecuencia nos ponemos a luchar sólo para convencernos de que no tenemos miedo». (<a id="a74_689"></a>[LU 160:3.4](/es/The_Urantia_Book/160#p3_4))
 

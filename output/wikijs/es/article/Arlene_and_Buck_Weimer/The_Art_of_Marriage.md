@@ -39,7 +39,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
 
 ## El patrón
 
-El Hijo Creador y el Espíritu de la Madre del Universo de Nebadon emitieron su «Proclamación de Igualdad» <a id="a41_106"></a>[[LU 33:3.5,6](/es/The_Urantia_Book/33#p3_5)] después de que Ella reconoció su subordinación a Él, y Él reconoció la dependencia eterna de Ella . Tienen igualdad en todas las dotes de personalidad, atributos de carácter divino y autoridad, y son co-creadores, co-gobernantes, cooperadores, coordinados y co-directores. Este es el patrón universal para el matrimonio: para tener igualdad, cada uno debe «dar» algo para lograrlo. De lo contrario, existe alguna forma de relación dominante/sumiso.
+El Hijo Creador y el Espíritu Madre del Universo de Nebadon emitieron su «Proclamación de Igualdad» <a id="a41_106"></a>[[LU 33:3.5,6](/es/The_Urantia_Book/33#p3_5)] después de que Ella reconoció su subordinación a Él, y Él reconoció la dependencia eterna de Ella. Tienen igualdad en todas las dotes de personalidad, atributos de carácter divino y autoridad, y son co-creadores, co-gobernantes, cooperadores, coordinados y co-directores. Este es el patrón universal para el matrimonio: para tener igualdad, cada uno debe «dar» algo para lograrlo. De lo contrario, existe alguna forma de relación dominante/sumiso.
 
 ## Masculino/Feminidad
 
@@ -51,7 +51,7 @@ EL HIJO CREADOR,<br>MICHAEL: | EL ESPÍRITU MADRE DEL UNIVERSO<br>
 --- | ---
 Es el libertador frente al mal, la insurrección y la rebelión. Puede trascender el tiempo, pero no el espacio. | Está activo en el ministerio por el bienestar de los mortales y puede trascender el espacio, no el tiempo.
 VARONES HUMANOS | MUJERES HUMANAS
-Son «razonadores», más lógicos, usan marcos de tiempo más largos, ven la realidad desde afuera y son más agresivos y aventureros. | Son «relatores», más intuitivos, usan marcos de tiempo más cortos, ven la realidad desde adentro y son más cariñosos y maternales.
+Son «razonadores», más lógicos, usan marcos de tiempo más largos, ven la realidad desde afuera y son más agresivos y aventureros. | Son «relatoras», más intuitivas, usan marcos de tiempo más cortos, ven la realidad desde adentro y son más cariñosas y maternales.
 
 ## Las tres etapas de una relación en evolución
 

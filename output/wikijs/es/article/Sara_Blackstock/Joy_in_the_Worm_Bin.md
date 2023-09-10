@@ -90,7 +90,7 @@ Por unos momentos permítame presentar los siguientes quince principios de servi
 
 14. Mantén la perspectiva y la variedad: Podríamos quedarnos en el contenedor de lombrices revolviéndonos y chorreando solo un tiempo, y luego el resto de la vida nos llamaría a la escuela, etc. Las actividades en los mundos de la sede del sistema local enfatizan la importancia de la variedad. —trabajo, progreso, juego, servicio, estudio y relajación.
 
-15. Sea espontáneo, dejando que «el fuego divino de la voluntad de servir» arda brillantemente sin miedo a las consecuencias oa lo que otros puedan pensar.
+15. Sea espontáneo, dejando que «el fuego divino de la voluntad de servir» arda brillantemente sin miedo a las consecuencias o a lo que otros puedan pensar.
 
 Podemos sentir este «_fuego divino de la voluntad de servir_» en nuestras propias almas. Los Ajustadores son enviados para el servicio mortal desde Divington llevando las brasas de este fuego divino.
 

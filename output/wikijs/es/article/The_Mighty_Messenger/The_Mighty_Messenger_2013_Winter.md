@@ -260,11 +260,11 @@ Por _Barry Clark_
 </figure>
 
 
-Basado en la mejor investigación disponible, Apocalipsis apareció por primera vez en Corea del Sur alrededor de 1970. One Choi, Il, artista, poeta y autor de varias publicaciones, descubrió el libro de Urantia [en inglés] en una librería de Seúl y continúa pasando sus días promoviendo silenciosamente sus ideas desde las afueras de Seúl. Ello, como lo conocen sus amigos, «todavía recuerda el momento en que abrió por primera vez _El Libro de Urantia_».
+Basado en la mejor investigación disponible, la revelación apareció por primera vez en Corea del Sur alrededor de 1970. One Choi, Il, artista, poeta y autor de varias publicaciones, descubrió el libro de Urantia [en inglés] en una librería de Seúl y continúa pasando sus días promoviendo silenciosamente sus ideas desde las afueras de Seúl. Ello, como lo conocen sus amigos, «todavía recuerda el momento en que abrió por primera vez _El Libro de Urantia_».
 
 Algunos años más tarde, se supo que Rob Reno, lector del Libro de Urantia y asignado militar a Corea del Sur a mediados de los años 80, organizó el primer grupo de estudio del Libro de Urantia durante su breve asignación allí.
 
-En 1989, una historia de amor precipitó la primera traducción del Apocalipsis al idioma nativo de Corea. Y las maravillosas luchas sobre la 'mejor' manera de hacer esto se produjeron cuando Kwan Choi comenzó otra traducción alrededor de 1995. Estas maravillosas luchas continúan hasta el día de hoy a medida que personas notables avanzan en los procesos de traducción y difusión en Corea.
+En 1989, una historia de amor precipitó la primera traducción del la revelación al idioma nativo de Corea. Y las maravillosas luchas sobre la ‘mejor’ manera de hacer esto se produjeron cuando Kwan Choi comenzó otra traducción alrededor de 1995. Estas maravillosas luchas continúan hasta el día de hoy a medida que personas notables avanzan en los procesos de traducción y difusión en Corea.
 
 Uno de esos hombres, que se ha dedicado por completo al avance de la revelación en Corea, a través del servicio real hacia la mejora continua de su traducción y difusión, es Sy Chang.
 
@@ -272,7 +272,7 @@ Después de descubrir la Revelación hace unos catorce años, Sy, un ingeniero d
 
 En esta última función [de difusión], Sy comprendió que era importante comunicar la disponibilidad de Revelation, no solo por su mensaje incomparable, sino también porque al hacerlo podría atraer a otros, otros primeros usuarios, que ayudarían a mejorar la traducción.
 
-Como tal, en 2001, Sy decidió que no había mejor lugar para hacer divulgación, comunicar la disponibilidad de Apocalipsis y atraer a los primeros lectores que en la Feria Internacional del Libro anual de Seúl. Sy sabía que cientos de miles de personas, en su mayoría jóvenes, asisten a este evento cada año. «¿Qué mejor lugar?» Sy razonó. Y así, se comprometió a promover la revelación en este evento y lo ha hecho todos los años desde entonces. Lo hace con humildad y servicio silencioso.
+Como tal, en 2001, Sy decidió que no había mejor lugar para hacer divulgación, comunicar la disponibilidad de la revelación y atraer a los primeros lectores que en la Feria Internacional del Libro anual de Seúl. Sy sabía que cientos de miles de personas, en su mayoría jóvenes, asisten a este evento cada año. «¿Qué mejor lugar?» Sy razonó. Y así, se comprometió a promover la revelación en este evento y lo ha hecho todos los años desde entonces. Lo hace con humildad y servicio silencioso.
 
 Pero la naturaleza del servicio silencioso de Sy, este servicio a los millones de personas que asistieron a la Feria del Libro de Corea desde 2001 y pasaron por el stand que él ubica estratégicamente cada año, ya no es un secreto. De hecho, en la Feria del Libro de este año, la Sra. Park Geun-hye, la primera mujer presidenta de Corea del Sur, pasó por el puesto y le sonrió a Sy.
 

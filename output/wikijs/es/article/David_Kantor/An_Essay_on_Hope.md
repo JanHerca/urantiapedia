@@ -123,7 +123,7 @@ El libro dice: «_Los científicos han precipitado involuntariamente a la humani
 
 También se nos dice que, «_Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad._» <a id="a123_223"></a>[[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
 
-Creo que cuando los autores del libro se refieren a la «duda» en este contexto, se refieren a esa duda que nos lleva a creer que nuestros ideales y valores son abstracciones creadas por nosotros mismos que no tienen ningún significado o valor real fuera del nuestro. vidas subjetivas.
+Creo que cuando los autores del libro se refieren a la «duda» en este contexto, se refieren a esa duda que nos lleva a creer que nuestros ideales y valores son abstracciones creadas por nosotros mismos que no tienen ningún significado o valor real fuera de nuestras vidas subjetivas.
 
 Lo que falta en estas valoraciones nihilistas de la vida interior es un reconocimiento de la presencia del Ajustador del Pensamiento y el papel que juega este fragmento de divinidad en la organización y dirección de la mente mortal. Considere lo siguiente: «_Círculo tras círculo, vuestras decisiones intelectuales, elecciones morales y desarrollo espiritual aumentan la capacidad del Ajustador para funcionar en vuestra mente; círculo tras círculo os eleváis así desde los estados inferiores de asociación y de sintonización mental con el Ajustador, de manera que éste se encuentra cada vez más capacitado para registrar sus imágenes del destino, con una intensidad y una convicción crecientes, en la conciencia evolutiva de esta mente-alma que busca a Dios._» <a id="a127_762"></a>[[LU 110:6.5](/es/The_Urantia_Book/110#p6_5)]
 

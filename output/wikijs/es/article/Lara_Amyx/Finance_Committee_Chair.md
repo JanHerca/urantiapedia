@@ -46,7 +46,7 @@ Actualmente estoy trabajando con mi comité para recaudar dinero para la próxim
 
 Además de los costes de mantener una oficina con un empleado a tiempo completo y medio tiempo, y de publicar el libro, existen muchos gastos adicionales en los que se incurre para cumplir nuestra misión de difundir _El Libro de Urantia_ y sus enseñanzas. Producimos y enviamos por correo las publicaciones impresas The Fellowship Herald y The Mighty Messenger; enviar representantes con libros y materiales a los principales eventos interreligiosos como el Festival del Ganso Salvaje y el Parlamento de las Religiones del Mundo; exhibir en exposiciones públicas; crear producciones de medios; y transmitir un programa de radio semanal.
 
-Los voluntarios brindan la mayor parte del tiempo y el esfuerzo, ya menudo los gastos, pero se necesitan donaciones para compensar los costos asociados con sus esfuerzos.
+Los voluntarios brindan la mayor parte del tiempo y el esfuerzo, y a menudo los gastos, pero se necesitan donaciones para compensar los costos asociados con sus esfuerzos.
 
 Este año estamos creando un nuevo sitio web y actualmente estamos migrando todo el material y los datos relevantes, incluida nuestra voluminosa biblioteca de recursos de ayudas para el estudio, al nuevo sitio de Wild Apricot. Nuestro sitio web nos permite llegar a jóvenes y lectores internacionales, pero hay costos involucrados en asistir a exposiciones y patrocinar a estudiantes emergentes mientras trabajamos para involucrar a jóvenes y adultos jóvenes, y para construir nuestra comunidad internacional.
 

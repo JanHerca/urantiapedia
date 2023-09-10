@@ -64,7 +64,7 @@ La consideración honesta de las siguientes preguntas debería ayudarlo a obtene
 1. En la vida diaria, ¿a qué tareas dedica su mejor tiempo, energía y pensamiento?
 2. ¿Cuáles son las causas, sueños, metas o instituciones a las que aporta tiempo, dinero o esfuerzo creativo?
 3. A medida que vive su vida, ¿en qué poder o poderes confía y confía?
-4. ¿A qué oa quién está comprometido en la vida? ¿Por qué o por quién está dispuesto a subordinar o sacrificar sus más profundos anhelos e intereses humanos?
+4. ¿A qué o a quién está comprometido en la vida? ¿Por qué o por quién está dispuesto a subordinar o sacrificar sus más profundos anhelos e intereses humanos?
 5. ¿Con quién o con qué grupo comparte sus esperanzas más sagradas y privadas para su vida y para la vida de sus seres queridos?
 6. ¿Cuáles son sus esperanzas más sagradas, sus metas más apremiantes y los propósitos principales de su vida?
 

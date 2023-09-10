@@ -310,7 +310,7 @@ Aplicando las verdades de _El Libro de Urantia_, podemos mejorar la percepción 
 
 _El Libro de Urantia_ contiene muchos más «tesoros» como los que he mencionado. La única manera de comprobar su utilidad es ponerlos en práctica. Descúbrelos y aplícalos a tu vida diaria. Úselos para crear sistemas y métodos para facilitar el crecimiento espiritual. ¡Estamos en tiempos muy emocionantes! De hecho, ¡la aventura llama!
 
-> Richard Omura ha estado leyendo, estudiando y practicando las enseñanzas de _El Libro de Urantia_ durante casi 30 años. Actualmente es Consejero General de la Fraternidad y es el presidente del sitio web de _El Libro de Urantia_ Sociedad de Los Ángeles. También ha escrito dos libros basados ​​en los conceptos de _El Libro de Urantia_ ya menudo presenta talleres en conferencias. Su dirección web es www.RichardOmura.com.
+> Richard Omura ha estado leyendo, estudiando y practicando las enseñanzas de _El Libro de Urantia_ durante casi 30 años. Actualmente es Consejero General de la Fraternidad y es el presidente del sitio web de _El Libro de Urantia_ Sociedad de Los Ángeles. También ha escrito dos libros basados ​​en los conceptos de _El Libro de Urantia_ y a menudo presenta talleres en conferencias. Su dirección web es www.RichardOmura.com.
 {.is-info}
 
 ## Referencias

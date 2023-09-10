@@ -110,7 +110,7 @@ _El Libro de Urantia_ también menciona que estos químicos podrían usarse para
 
 ¿Piensas que tal vez la profesión médica podría encontrar un «valor inmenso» en las instrucciones cósmicas y las afirmaciones científicas de _El Libro de Urantia_? ¿Cuál es la probabilidad de que algún artículo médico describa correctamente esto en 1955? Prácticamente cero tiene que ser la respuesta porque la reacción de inflamación y el mecanismo de reparación de lesiones eran totalmente desconocidos en ese momento.[^9] Si asignamos otro 1/50 a la probabilidad de que haya alguna descripción humana antes de 1955 elegida por los autores que fuera correcta, eso lleva la probabilidad que hemos estado estimando a menos de (1/2000)(1/50) = 1/100000, uno de cien mil, y recién estamos comenzando. Más evidencia se ofrecerá a continuación, pero primero consideremos las «limitaciones de la revelación». ¿Esperamos demasiado de la cosmología de _El Libro de Urantia_?
 
-## Las limitaciones del Apocalipsis
+## Las limitaciones de la revelación
 
 Algunos lectores, e incluso supuestos creyentes, afirman una y otra vez que la mayor parte de la ciencia de _El Libro de Urantia_ ya está desactualizada, es simplemente una cosmología transitoria de principios del siglo XX. Las numerosas diferencias entre la ciencia contemporánea y la cosmología de _El Libro de Urantia_ las ven como «errores aparentes» de _El Libro de Urantia_ evidentes después de «unos pocos años». Dado que la cosmología de _El Libro de Urantia_ «no está inspirada», dado que a los Reveladores no se les permitió revelar conocimiento «no ganado» o prematuro, ¿cuán reales y valiosos son sus discursos cosmológicos?
 

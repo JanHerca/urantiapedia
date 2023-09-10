@@ -158,7 +158,7 @@ En este artículo publicado informalmente, el Dr. William Sadler describe 64 con
 
 61. **El Cuerpo Evangelístico de Mujeres:** Esta historia es nueva, a pesar de la breve mención de este asunto en el Nuevo Testamento. <a id="a158_135"></a>[Documento 150:1](/es/The_Urantia_Book/150#p1)
 
-62. **Rodan de Alejandría:** Toda esta historia es original de _El Libro de Urantia_. [Documento 160](/es/The_Urantia_Book/160)
+62. **Rodán de Alejandría:** Toda esta historia es original de _El Libro de Urantia_. [Documento 160](/es/The_Urantia_Book/160)
 
 63. **La historia de Abner:** La historia única de la cabeza de los apóstoles de Juan el Bautista es original de los Documentos de Urantia. [Documentos 144](/es/The_Urantia_Book/144), [162](/es/The_Urantia_Book/162), [166](/es/The_Urantia_Book/166), [167](/es/The_Urantia_Book/167)
 

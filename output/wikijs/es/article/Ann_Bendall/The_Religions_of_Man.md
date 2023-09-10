@@ -50,7 +50,7 @@ Ningún hombre en la historia ha sido más exaltado desde su muerte, pero es imp
 
 ¿Qué había en esta vida que obligó a quienes mejor la conocían a llegar a la conclusión de que era divina? La respuesta consta de tres partes: lo que hizo, lo que dijo y lo que era.
 
-Como Peter lo expresó simplemente, «_Él anduvo haciendo el bien._» Fácilmente y sin timidez, se movía entre la escoria de su sociedad, prostitutas y extorsionadores de impuestos. Sanando, ayudando a la gente a salir de los abismos de la desesperación, aconsejándolos en sus crisis, anduvo haciendo el bien. De hecho, lo hizo con tanta determinación y eficacia que las personas que estaban con él día a día encontraron que su estimación de él se modulaba a una nueva categoría. Se encontraron pensando que si Dios es pura bondad, si tomara forma humana, entonces actuaría así.
+Como Pedro lo expresó simplemente, «_Él anduvo haciendo el bien._» Fácilmente y sin timidez, se movía entre la escoria de su sociedad, prostitutas y extorsionadores de impuestos. Sanando, ayudando a la gente a salir de los abismos de la desesperación, aconsejándolos en sus crisis, anduvo haciendo el bien. De hecho, lo hizo con tanta determinación y eficacia que las personas que estaban con él día a día encontraron que su estimación de él se modulaba a una nueva categoría. Se encontraron pensando que si Dios es pura bondad, si tomara forma humana, entonces actuaría así.
 
 Sin embargo, no fue sólo lo que hizo Jesús lo que hizo que sus contemporáneos pensaran en él en nuevas dimensiones. También fue lo que dijo.
 

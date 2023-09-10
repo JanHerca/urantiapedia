@@ -75,7 +75,7 @@ Antes de Adán y Eva, los Portadores de Vida advirtieron que las razas habían l
 
 ### ¿Qué tuvo que suceder o estar en su lugar antes de que llegara Miguel?
 
-Antes del otorgamiento de Miguel, los receptores Melquisedec y Maquiventa vieron la pobreza espiritual que existía y sintieron que tenía que hacerse algo. Sabían que Miguel iba a venir, pero no sabían cuándo. Así que pidieron permiso a los Altísimos. Su ruego inicial fue denegado. Maquiventa se presentó voluntario más tarde, las autoridades de Salvington dieron su conformidad y después Maquiventa tuvo su misión de emergencia.
+Antes del otorgamiento de Miguel, los síndicos Melquisedec y Maquiventa vieron la pobreza espiritual que existía y sintieron que tenía que hacerse algo. Sabían que Miguel iba a venir, pero no sabían cuándo. Así que pidieron permiso a los Altísimos. Su ruego inicial fue denegado. Maquiventa se presentó voluntario más tarde, las autoridades de Salvington dieron su conformidad y después Maquiventa tuvo su misión de emergencia.
 
 Lo que me parece asombroso es que no es que estas órdenes llegaran directamente a los Portadores de Vida / Melquisedec, etc., procedentes de una autoridad más alta como los Altísimos o incluso del mismo Miguel. Nadie vino a ellos diciendo: «De acuerdo, pensamos que ha llegado el momento de una misión adánica». Dependía de los administradores locales hacer la llamada y actuar. ¿Ven cuál es el patrón aquí? Muchos de nosotros hemos dicho en un momento dado «Oh Dios, ¡dime lo que quieres que haga!». Los Portadores de Vida y Maquiventa no pidieron nada a Dios o a Miguel. Tampoco esperaron a que se les dijera. Vieron el problema, tomaron la responsabilidad, obtuvieron permiso de una autoridad más alta y actuaron.
 

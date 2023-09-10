@@ -25,7 +25,7 @@ dateCreated: 2022-9-9T8:13:38Z
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Who_was_Rodan">
-          <span class="pr-2">¿Quién fue Rodan?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">¿Quién fue Rodán?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -79,7 +79,7 @@ Las lágrimas brillaron también en las alas del loro y cayeron como pétalos so
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Who_was_Rodan">
-          <span class="pr-2">¿Quién fue Rodan?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">¿Quién fue Rodán?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

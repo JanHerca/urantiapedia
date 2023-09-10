@@ -123,9 +123,7 @@ I recall times profoundly thinking through a problem, so much so that I’d end 
 
 Perception is like hearing God’s voice clearly—not that I actually hear a voice. It’s more like clearly receiving a thought that makes my soul come alive. It is a connecting with the cosmic mind. You know it when your thinking is sharp, clear, and quick. You foresee events, meaning what will result from decisions and solutions to everyday problems. 
 
-John approached me, having _heard_ me drop a handful of purpose, saying that I am a student of life after death and know well what happens. He asked if I would tell him more, but it not being convenient then I suggested we meet and discuss it over breakfast, to which he assented and asked if he could bring Sam, whom I also knew. It was our second 
-
-get-together that it became clear to me that Sam, while enjoying the conversation and our camaraderie, lacked the interest of John. He was content; he lacked the drive to delve more deeply. In this case, I discerned, meaning it wasn’t clarion clear, but nonetheless held the conviction of certai nt y. 
+John approached me, having _heard_ me drop a handful of purpose, saying that I am a student of life after death and know well what happens. He asked if I would tell him more, but it not being convenient then I suggested we meet and discuss it over breakfast, to which he assented and asked if he could bring Sam, whom I also knew. It was our second get-together that it became clear to me that Sam, while enjoying the conversation and our camaraderie, lacked the interest of John. He was content; he lacked the drive to delve more deeply. In this case, I discerned, meaning it wasn’t clarion clear, but nonetheless held the conviction of certainty. 
 
 Where does this enlightenment and confirmation of truth come from? The Spirit of Truth saying Amen! I think of it as a truth Geiger counter. It may also emanate from the soul in contrast to the human mind; the growing soul develops spirit mindedness, akin to the expression, “Think from the heart.” As the soul matures it comes to dominate the human mind, which in turn dominates the material environment. 
 

@@ -60,7 +60,7 @@ Tercero, ser miembros de la familia de Dios requiere compromiso a una vida de se
 
 Luego, Jesús agregó algunas palabras sobre el significado de la familia de Dios, les dijo que difundieran su mensaje y se despidió de ellos.
 
-Jesús tuvo mucho cuidado de no dar demasiado a su audiencia. Probablemente la mayoría, quizás todos, de este grupo de samaritanos eran analfabetos. Su aparición anterior había sido a sus apóstoles, y la anterior a un sofisticado grupo de asociados de Rodan en Alejandría. De estos dos grupos pidió mucho más. Los discípulos de Alejandría recibieron esta instrucción:
+Jesús tuvo mucho cuidado de no dar demasiado a su audiencia. Probablemente la mayoría, quizás todos, de este grupo de samaritanos eran analfabetos. Su aparición anterior había sido a sus apóstoles, y la anterior a un sofisticado grupo de asociados de Rodán en Alejandría. De estos dos grupos pidió mucho más. Los discípulos de Alejandría recibieron esta instrucción:
 
 > Que la paz sea con vosotros. Lo que mi Padre me envió a establecer en el mundo no pertenece ni a una raza, ni a una nación, ni a un grupo especial de educadores o de predicadores. Este evangelio del reino pertenece tanto a los judíos como a los gentiles, a los ricos y a los pobres, a los libres y a los esclavos, a los hombres y a las mujeres, e incluso a los niños pequeños. Todos debéis proclamar este evangelio de amor y de verdad **mediante la vida que vivís en la carne**. (<a id="a64_482"></a>[LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
 

@@ -122,7 +122,7 @@ Cuando Juan era todavía adolescente, con el corazón inflamado por el descubrim
 
 Conozco a John desde hace unos 36 años. Hemos viajado juntos por Europa y Asia (en las grandes aventuras de Berkeley Elliot), hemos conducido juntos en muchos viajes en automóvil a eventos de Urantia o para conocer nuevos lectores y grupos de estudio. Hemos navegado juntos en canoa, compartido habitaciones y muchas noches cálidas de debate. A lo largo de todos estos años he visto crecer el espíritu dentro de él, desplegando la belleza interior de su alma en evolución.
 
-Cualquiera que sea la otra capacidad en la que continúe sirviendo a los propósitos de Apocalipsis, creo que John estaría bien preparado para el trabajo de Embajador general de la Fellowship. Su amplio conocimiento, su firmeza, su comprensión de la historia y las tradiciones, y su extraordinaria calidez y compasión seguramente ayudarán a crear una cultura dentro de nuestra creciente comunidad que enorgullecerá al Maestro.
+Cualquiera que sea la otra capacidad en la que continúe sirviendo a los propósitos de la revelación, creo que John estaría bien preparado para el trabajo de Embajador general de la Fellowship. Su amplio conocimiento, su firmeza, su comprensión de la historia y las tradiciones, y su extraordinaria calidez y compasión seguramente ayudarán a crear una cultura dentro de nuestra creciente comunidad que enorgullecerá al Maestro.
 
 —Paul Snider
 

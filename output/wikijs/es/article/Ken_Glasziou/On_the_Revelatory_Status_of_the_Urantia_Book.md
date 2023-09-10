@@ -54,7 +54,7 @@ Siempre me ha parecido extraño que el mandato de producir el libro no estuviera
 
 Otro punto que debemos tener en cuenta es que esta revelación en ninguna parte pretende ser una revelación divina, una revelación divinamente inspirada o un producto del dictado divino. Nos la da un buen número de seres celestiales o sobrehumanos que van desde los muy altos (Consejeros Divinos, Perfeccionadores de la Sabiduría, Censores Universales, etc.) hasta meros seres intermedios y serafines que, según se dice, no están muy por encima de los nuestros. bajos niveles de intelecto.
 
-También vale la pena señalar que la Parte 1 del libro ha sido proporcionada por el grupo más antiguo de autores, probablemente todos los cuales habrían experimentado la presencia misma del Padre Universal en el Paraíso. Sin embargo, estos mismos seres son lo suficientemente humildes como para usar las palabras “Yo/nosotros no sabemos/entendemos/comprendemos... ¡al menos 35 veces en esa primera sección del Apocalipsis!
+También vale la pena señalar que la Parte 1 del libro ha sido proporcionada por el grupo más antiguo de autores, probablemente todos los cuales habrían experimentado la presencia misma del Padre Universal en el Paraíso. Sin embargo, estos mismos seres son lo suficientemente humildes como para usar las palabras “Yo/nosotros no sabemos/entendemos/comprendemos... ¡al menos 35 veces en esa primera sección de la revelación!
 
 > La gloria del Señor será revelada, y toda carne juntamente la verá, porque la boca del Señor lo ha dicho.
 > [Isaías, 40:5](/es/Bible/Isaiah/40#v5)

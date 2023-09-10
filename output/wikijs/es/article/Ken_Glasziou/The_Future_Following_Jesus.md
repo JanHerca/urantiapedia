@@ -88,7 +88,7 @@ Amor es una palabra de la que se abusa mucho en nuestro idioma. Como se define e
 
 ¿Cuáles son las consecuencias del amor universal de Dios por la humanidad? En primer lugar, nadie, ya sea rey o reina, papa o sacerdote, rico o pobre, hombre o mujer, cristiano, musulmán, hindú o lo que sea, erudito o analfabeto, nadie en absoluto es especial o favorecido. Dios nos ama a todos. Dios hace todo lo posible para no perder una sola alma entre nosotros.
 
-Uno de los mayores obstáculos para la unidad en la familia de Dios es el síndrome de los «escogidos». Vernos a nosotros mismos oa nuestro grupo como especiales, como apartados por Dios, representa un obstáculo drástico para la unidad para los seguidores de la cuarta y quinta revelación de época.
+Uno de los mayores obstáculos para la unidad en la familia de Dios es el síndrome de los «escogidos». Vernos a nosotros mismos o a nuestro grupo como especiales, como apartados por Dios, representa un obstáculo drástico para la unidad para los seguidores de la cuarta y quinta revelación de época.
 
 Para los destinatarios de la cuarta revelación de época, el concepto de ser "salvados por la sangre del cordero" los distingue del resto de la humanidad como élite, especial y exclusivo.
 
