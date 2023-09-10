@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mariano Pérez<br>© 2007 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -136,6 +137,7 @@ It is evident that throughout the Urantia movement there is an interest in disse
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

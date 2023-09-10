@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Santiago Rodríguez<br>© 2007 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -192,6 +193,7 @@ Free will will be key in the transformation of society. Changes should always be
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

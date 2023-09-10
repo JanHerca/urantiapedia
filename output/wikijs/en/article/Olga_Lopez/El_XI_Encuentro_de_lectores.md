@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Olga López<br>© 2012 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -99,6 +100,7 @@ The next morning, we said goodbye to the friends with whom we had met at the Mee
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

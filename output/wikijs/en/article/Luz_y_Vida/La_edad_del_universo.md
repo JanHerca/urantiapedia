@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Antonio Moya, Carmelo Martínez, Santiago Rodríguez<br>© 2011 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -186,6 +187,7 @@ Possibly the three laws of thermodynamics will be found to be applicable locally
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

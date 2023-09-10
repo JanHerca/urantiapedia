@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -63,6 +64,7 @@ The books are sold at **15 euros** each (shipping costs not included), the same 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

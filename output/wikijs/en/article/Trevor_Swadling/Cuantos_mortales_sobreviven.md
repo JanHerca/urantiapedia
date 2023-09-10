@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Trevor Swadling<br>© 2009 Carmelo Martínez, for translation<br>© 2009 Urantia Association of Spain</ p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -98,6 +99,7 @@ We now know that at the time of the Lucifer rebellion there were definitely 606 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

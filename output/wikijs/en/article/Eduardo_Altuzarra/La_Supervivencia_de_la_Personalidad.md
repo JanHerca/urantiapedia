@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Eduardo Altuzarra<br>© 2016 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -173,6 +174,7 @@ The attitude is the brush with which the mind Colors our Immortal Soul and we ar
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

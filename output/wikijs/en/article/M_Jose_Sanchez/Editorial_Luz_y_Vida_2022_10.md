@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -103,6 +104,7 @@ Let's go through the door that is _The Urantia Book_, let's discover with its re
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mariano Pérez<br>© 2007 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -107,6 +108,7 @@ The erroneous location of the latter is what makes a large part of the route of 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

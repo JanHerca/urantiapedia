@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Santiago Rodríguez and Olga López<br>© 2011 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -169,6 +170,7 @@ In this document, religious and spiritual growth is considered first, the proble
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

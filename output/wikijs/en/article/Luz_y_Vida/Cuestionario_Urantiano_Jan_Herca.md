@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -92,6 +93,7 @@ I have always seen _The Urantia Book_ as an exciting read, but very complex. My 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

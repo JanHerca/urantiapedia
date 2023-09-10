@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -116,6 +117,7 @@ Yes. I consider that TUB's teachings are today the tiny seed of a gigantic sequo
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

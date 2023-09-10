@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Mariano Pérez<br>© 2008 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -97,6 +98,7 @@ I hope this work has been to your liking, and serves some adventurous seeker, wh
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

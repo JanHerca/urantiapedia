@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra, Andrés Pérez, Santiago Rodríguez<br>© 2007 Urantia Association of Spain< /p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -199,6 +200,7 @@ Although this is not clear to us now, it will eventually be. You have to have th
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

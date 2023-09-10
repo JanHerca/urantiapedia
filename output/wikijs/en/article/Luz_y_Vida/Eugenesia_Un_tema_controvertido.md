@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Carmelo Martíne, Olga López, Eduardo Altuzarra, Santiago Rodríguez and Andrés Pérez<br>© 2014 Urantia Association of Spain< /p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -187,6 +188,7 @@ I think it's great, and maybe it's a good way to address the thorny issue. But I
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

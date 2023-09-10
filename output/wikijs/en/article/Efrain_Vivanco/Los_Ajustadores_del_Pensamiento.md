@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Efraín Vivanco<br>© 2013 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -115,6 +116,7 @@ And finally, let us remember that the fruits of spiritual union with the Thought
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

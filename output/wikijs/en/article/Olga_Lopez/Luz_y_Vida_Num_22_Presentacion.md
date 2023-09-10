@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Olga López<br>© 2010 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -63,6 +64,7 @@ From these pages we wish you a happy summer, and that these days of rest are day
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Carmelo Martínez<br>© 2007 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -194,6 +195,7 @@ The impending resolution of Lucifer's judgment and the consequences it will inev
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

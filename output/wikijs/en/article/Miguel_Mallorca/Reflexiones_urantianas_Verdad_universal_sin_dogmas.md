@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Miguel Mallorca<br>© 2022 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -95,6 +96,7 @@ Moral: to evolve spiritually, we do not need to be saints, nor accept them; it i
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

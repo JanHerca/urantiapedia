@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Mariano Pérez<br>© 2005 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -147,6 +148,7 @@ The Book was revealed to us to prepare the ground for a future age. That is why 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

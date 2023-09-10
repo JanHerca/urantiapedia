@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -92,6 +93,7 @@ I know several readers of _The Urantia Book_. I consider myself a daily work rea
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

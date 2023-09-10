@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Juan José López, Carmelo Martínez and Olga López<br>© 2013 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -127,6 +128,7 @@ We are chosen, but more for being rare than for being better.
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

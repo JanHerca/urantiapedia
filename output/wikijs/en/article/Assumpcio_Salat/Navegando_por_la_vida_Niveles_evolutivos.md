@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Assumpció Salat Bertran<br>© 2022 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -85,6 +86,7 @@ Reaching this level is reaching authentic emotional and spiritual freedom and in
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

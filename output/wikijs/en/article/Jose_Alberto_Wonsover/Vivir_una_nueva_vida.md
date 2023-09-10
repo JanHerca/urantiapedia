@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 José Alberto Wonsover<br>© 2007 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -107,6 +108,7 @@ Even imitating a life exactly as the Master lived it becomes traditional and mon
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

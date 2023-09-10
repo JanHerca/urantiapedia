@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez, Olga López, Andrés Pérez, Antonio Moya<br>© 2008 Urantia Association from Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -236,6 +237,7 @@ That is why I think that God has nothing to spare or lacks, and with time and a 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

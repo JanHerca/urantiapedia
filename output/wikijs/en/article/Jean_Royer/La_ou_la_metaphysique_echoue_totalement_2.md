@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Jean Royer<br>© 2006 Olga López, for translation<br>© 2006 Urantia Association of Spain</ p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -90,6 +91,7 @@ Published in no. 32 of the AFFUB bulletin “Le Lien Urantien”. Translation by
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

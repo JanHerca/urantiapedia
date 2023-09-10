@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Chris Ragelty<br>© 2006 Olga López, for translation<br>© 2006 Urantia Association of Spain</ p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -49,6 +50,7 @@ Published in [no 31 of the bulletin “Le Lien Urantien”](/fr/article/Chris_Ra
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Andrés Pérez, Santiago Rodríguez<br>© 2008 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -106,6 +107,7 @@ Trying to understand God's thoughts is an effect for us mortals, because I don't
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

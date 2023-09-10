@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jaime Marco<br>© 2016 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -223,6 +224,7 @@ Once in Paradise, we take an oath before the Trinity that allows us to enter the
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

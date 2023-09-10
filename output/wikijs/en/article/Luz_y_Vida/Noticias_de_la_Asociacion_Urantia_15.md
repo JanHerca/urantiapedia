@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -186,6 +187,7 @@ Next Friday, March 15, from 7 to 8:30 in the afternoon, Jaime Marco (Vice Presid
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

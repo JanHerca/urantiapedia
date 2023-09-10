@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Santiago Flores<br>© 2016 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -151,6 +152,7 @@ Search the internet for “The Bogdanov Scandal” and you will see how a long p
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

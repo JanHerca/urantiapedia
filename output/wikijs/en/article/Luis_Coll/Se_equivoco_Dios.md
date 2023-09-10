@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Luis Coll<br>© 2009 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -134,6 +135,7 @@ The highest feelings of loyalty, love, peace and progress have often emerged fro
 
 - Light and Life Magazine (all old issues): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

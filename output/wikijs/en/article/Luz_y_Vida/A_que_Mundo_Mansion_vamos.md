@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra<br>© 2007 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -141,6 +142,7 @@ You ask, don't they deserve anything?... (?)... Of course they do! Each one will
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

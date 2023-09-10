@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Eduardo Altuzarra, Antonio Moya, Carmelo Martínez, Andrés Pérez<br>© 2008 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -74,6 +75,7 @@ And this is “presented by a Mighty Messenger temporarily attached to the High 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

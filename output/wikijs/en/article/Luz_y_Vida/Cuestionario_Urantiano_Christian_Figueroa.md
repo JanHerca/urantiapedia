@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -104,6 +105,7 @@ I want to share three quotes that have become part of me and my vision, and that
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

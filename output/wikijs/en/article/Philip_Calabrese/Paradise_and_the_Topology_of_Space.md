@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Philip G. Calabrese, Ph.D.<br>© 2010 Carmelo Martínez, translation<br>© 2010 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -164,6 +165,7 @@ One last comment: Albert Einstein's theory of relativity predicted (and it has m
 - Original article: https://archive.urantiabook.org/archive/science/calass2.htm
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

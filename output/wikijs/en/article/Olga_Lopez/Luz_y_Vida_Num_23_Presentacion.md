@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Olga López<br>© 2010 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -63,6 +64,7 @@ I take advantage of this space to wish you a good start to the year, and that yo
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -123,6 +124,7 @@ What does seem a bit mysterious to me is that no organized religion has seriousl
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

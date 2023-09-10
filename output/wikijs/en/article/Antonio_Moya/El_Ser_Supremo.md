@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Antonio Moya<br>© 2005 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -95,6 +96,7 @@ It is inevitable to wonder what the inhabitants of outer space will be like, alt
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

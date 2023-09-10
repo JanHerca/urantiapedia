@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Santiago Rodríguez<br>© 2014 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -93,6 +94,7 @@ I am of the opinion that there are no erroneous data in the book, but rather myo
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

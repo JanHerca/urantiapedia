@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -65,6 +66,7 @@ This call of love is not limited to a specific racial or social group, nor is it
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 José A. Rodríguez Jorge<br>© 2005 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -52,6 +53,7 @@ Jesus also makes it clear in his commandments: be perfect, as God in heaven is p
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

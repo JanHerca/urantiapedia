@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Luis Coll<br>© 2015 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -92,6 +93,7 @@ To finish, another phrase from the film:
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

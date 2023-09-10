@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Santiago Rodríguez<br>© 2016 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -65,6 +66,7 @@ On this occasion, _The Urantia Book_ gives a logical explanation to what our res
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

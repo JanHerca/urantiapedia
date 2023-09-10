@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Luis Coll<br>© 2023 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -67,6 +68,7 @@ The challenge for this modern age, if you want to put an end to most of the evil
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

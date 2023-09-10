@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Santiago Flores<br>© 2012 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -98,6 +99,7 @@ The harmonious balance of each level - to which we all naturally aspire - is kno
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Rev. Gary Deinstadt<br>© 2014 Olga López, for translation<br>© 2013 The Urantia Book Fellowship </p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -178,6 +179,7 @@ Here I am only scratching the surface. Obviously, there is old-fashioned theolog
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

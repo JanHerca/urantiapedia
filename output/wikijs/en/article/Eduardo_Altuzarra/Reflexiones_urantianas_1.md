@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -86,6 +87,7 @@ It can be said that daring to start this endless adventure is to recognize in ad
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

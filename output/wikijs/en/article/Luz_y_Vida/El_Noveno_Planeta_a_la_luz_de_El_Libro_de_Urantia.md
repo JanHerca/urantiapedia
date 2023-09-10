@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jan Herca, Santiago Rodríguez, Efraín Vivanco, Josep Bosch, Carmelo Martínez, Iván Înigo<br>© 2016 Urantia Association from Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -169,6 +170,7 @@ I read the news and is it a gas planet? I think that means it came from a sun, i
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

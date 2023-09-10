@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Olga López, Ismael García and Mariano Pérez<br>© 2011 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -120,6 +121,7 @@ Recently, Mariano Pérez, a reader from Madrid, has joined the board of director
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

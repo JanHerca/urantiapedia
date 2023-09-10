@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Ismael Gracia, Carmelo Martínez, Jaime Marco and Olga López<br>© 2013 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -202,6 +203,7 @@ Remember what the book says: “_The act is ours; the consequences belong to God
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Rafael Mondéjar<br>© 2005 Urantia Association of Spain</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -296,6 +297,7 @@ In <a id="a290_3"></a>[UB 47:3.5](/en/The_Urantia_Book/47#p3_5) there are some v
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

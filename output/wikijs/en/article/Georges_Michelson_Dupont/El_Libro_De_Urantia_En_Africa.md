@@ -9,6 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Georges Michelson-Dupont<br>© 2005 Olga López, from translation<br>© 2005 Urantia Association of Spain </p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -71,6 +72,7 @@ I invite you to meditate on this answer.
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
