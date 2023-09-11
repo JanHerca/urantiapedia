@@ -58,7 +58,7 @@ The diverse natures of the Seven Master Spirits determines the division of the s
 
 At the present time, the seven superuniverses are entirely "isolated from each other." <a id="s58_87"></a>[UB 15:10.23](/en/The_Urantia_Book/15#p10_23) When they are settled in light and life it is forecast that they will be ruled as a single unit by the Supreme Being, and the boundaries between them will be entirely removed. <a id="s58_309"></a>[UB 117:7.16-17](/en/The_Urantia_Book/117#p7_16) This will result in the commingling of seven cultures. Here we have another application of the principle of Divergence-Convergence. (The Papers also give us <a id="s58_515"></a>[UB 64:6.31](/en/The_Urantia_Book/64#p6_31) another example of this same principle: On the inhabited worlds the six cultures of the evolutionary races are first segregated, then merged with the seventh — the Adamic culture.)
 
-It is believed that in the future, after the emergence of the Supreme Being, the Master Spirits will continue to be resident in the grand universe <a id="s60_147"></a>[UB 0:10.11](/en/The_Urantia_Book/0#p10_11), but it is not certain that they will continue to rule the superuniverses. <a id="s60_266"></a>[UB 56:7.9](/en/The_Urantia_Book/56#p7_9)
+It is believed that in the future, after the emergence of the Supreme Being, the Master Spirits will continue to be resident in the grand universe <a id="s60_147"></a>[UB 0:8.11](/en/The_Urantia_Book/0#p8_11), but it is not certain that they will continue to rule the superuniverses. <a id="s60_266"></a>[UB 56:7.9](/en/The_Urantia_Book/56#p7_9)
 
 ## § 4. Administration of the Primary Space Level
 

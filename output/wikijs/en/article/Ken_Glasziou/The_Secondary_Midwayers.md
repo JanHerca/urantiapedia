@@ -3,7 +3,7 @@ title: "The Secondary Midwayers"
 description: 
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: Revelation, The Urantia Book
+tags: Revelation, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---

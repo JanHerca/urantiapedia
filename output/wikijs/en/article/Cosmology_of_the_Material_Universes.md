@@ -3,7 +3,7 @@ title: "Cosmology of the Material Universes. Why Science and The Urantia Book ha
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: The Urantia Book
+tags: The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---

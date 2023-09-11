@@ -3,7 +3,7 @@ title: "El corazón que se quedó sin amor"
 description: "Un perfil de personalidad: Judas Iscariote, el apóstol que eligió ser el «hijo de la venganza» en lugar de ser un hijo de Dios."
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: psychology, The Urantia Book
+tags: psychology, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

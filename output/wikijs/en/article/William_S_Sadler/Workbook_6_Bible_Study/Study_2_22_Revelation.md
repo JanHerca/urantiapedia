@@ -43,7 +43,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## II. Authorship
 
 1. The Urantia Book says the apostle John wrote Revelation, but that it has suffered many revisions and rewritings. <a id="s44_116"></a>[UB 139:4.14](/en/The_Urantia_Book/139#p4_14).
-2. The following Revelation references are assigned to John by the Urantia Book. <a id="s45_81"></a>[UB 53:7.7](/en/The_Urantia_Book/53#p10_2) ([Rev 15:2](/en/Bible/Revelation/15#v2)).
+2. The following Revelation references are assigned to John by the Urantia Book. <a id="s45_81"></a>[UB 53:7.7](/en/The_Urantia_Book/53#p7_7) ([Rev 15:2](/en/Bible/Revelation/15#v2)).
 3. Original Revelation had much of John-even more than the Gospel of John written by Nathan.
 4. The astrology of Revelation was not the work of John, but the addition of the third reviser of Revelation.
 5. Of all New Testament books, the text of Revelation is the most confused.

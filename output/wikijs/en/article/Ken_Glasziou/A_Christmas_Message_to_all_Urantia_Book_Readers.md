@@ -3,7 +3,7 @@ title: "A Christmas Message from Jesus"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
-tags: Jesus, Jesus teachings, Morality
+tags: Jesus, Jesus teachings, Morality, Innerface International, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:38Z
 ---

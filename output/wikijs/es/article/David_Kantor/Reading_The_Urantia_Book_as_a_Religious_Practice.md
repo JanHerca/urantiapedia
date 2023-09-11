@@ -3,7 +3,7 @@ title: "Leer El Libro de Urantia como práctica religiosa"
 description: 
 published: true
 date: 2022-09-24T17:24:12.647Z
-tags: sociology, jesus, jesus teachings, thought adjusters
+tags: sociology, jesus, jesus teachings, thought adjusters, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-07T12:15:17.611Z
 ---

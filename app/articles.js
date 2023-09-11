@@ -435,7 +435,7 @@ class Articles {
 			const errors = this.articles
 				.filter(a => a.errors.length > 0)
 				.map(a => {
-					const errs = a.errors.join(';');
+					const errs = a.errors.join('; ');
 					return new Error(`Error in ${a.url}: ${errs}`);
 				});
 			writeFile(filePath, lines.join('\n'))
@@ -644,10 +644,10 @@ class Articles {
 
 				this.clearArticles();
 
-				const reLink = new RegExp('<a id="(a\\d+_\\d+)"><\\/a>' +
+				const reLink = new RegExp('<a id="([as]\\d+_\\d+)"><\\/a>' +
 					'\\[[^\\]]+\\]' + `\\(\/${this.language}\/` +
 					'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
-				const reCopy = new RegExp('© (\\d+) ([^\\d<]+)', 'g');
+				const reCopy = new RegExp('© ([\\d-]+) ([^\\d<]+)', 'g');
 				
 				const promises = ffiles.map(filePath => {
 					return readFile(filePath)
@@ -683,6 +683,7 @@ class Articles {
 										.trim().replace(/"/g, '');
 								}
 								if (isMetadata && line.startsWith('tags:')) {
+									//Pages with bio of authors must be ignored
 									if (line.startsWith('tags: author')) {
 										ignore = true;
 									}
@@ -720,7 +721,7 @@ class Articles {
 										`${ref[0]}:${ref[1]}.${ref[2]}`);
 									const ar = ubook.getArrayOfRefs([strRef]);
 									if (!ar[0]) {
-										article.errors.push(ref.join(','));
+										article.errors.push(strRef);
 									}
 								});
 							});

@@ -24,7 +24,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-The Papers inform us that time and space are associated as a mechanism of the master universe. <a id="s26_95"></a>[UB 118:9.1](/en/The_Urantia_Book/118#p9_1) The major space divisions of the master creation are the six space levels. ([Appendix III](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)) The major time divisions of the master universe are the six universe ages – the age of Havona, the age of the superuniverses, and the four ages of the outer space levels. <a id="s26_489"></a>[UB 15:3.18](/en/The_Urantia_Book/15#p3_18) We are now living in the Second Universe Age, the age of the superuniverses.
+The Papers inform us that time and space are associated as a mechanism of the master universe. <a id="s26_95"></a>[UB 118:9.1](/en/The_Urantia_Book/118#p9_1) The major space divisions of the master creation are the six space levels. ([Appendix III](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)) The major time divisions of the master universe are the six universe ages – the age of Havona, the age of the superuniverses, and the four ages of the outer space levels. <a id="s26_489"></a>[UB 115:3.18](/en/The_Urantia_Book/115#p3_18) We are now living in the Second Universe Age, the age of the superuniverses.
 
 Each of the six universe ages seems to be associated with the opening and the development of a new space level. This relationship between universe ages and space levels is tabulated below:
 1. The First Universe Age – the Havona space level
@@ -163,7 +163,7 @@ _The Second Experiential Trinity_
 
 _God the Absolute_
 
-> <a id="s165_2"></a>[UB 118:2.6](/en/The_Urantia_Book/118#p2_6) Will the emergence of God the Ultimate be associated with some greater measure of the disclosure of God the Absolute?
+> <a id="s165_2"></a>[UB 118:2.5](/en/The_Urantia_Book/118#p2_5) Will the emergence of God the Ultimate be associated with some greater measure of the disclosure of God the Absolute?
 
 ## § 3. God The Sevenfold in successive ages
 
@@ -174,7 +174,7 @@ The universe relations of the existential Paradise Deities are not changed by th
 
 The Papers have the following general comments to make with reference to the functions, and the expanding functions, of God the Sevenfold:
 
-> <a id="s176_2"></a>[UB 0:10.12](/en/The_Urantia_Book/0#p10_12) God the Sevenfold began to function when the seven superuniverses were organized.
+> <a id="s176_2"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) God the Sevenfold began to function when the seven superuniverses were organized.
 > 
 > (ibid) When the outer space universes are organized, this function will probably expand.
 > 
@@ -390,7 +390,7 @@ It may prove helpful to analyze the sequence of events that marked the transitio
   > 
   > <a id="s390_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) This happened in "the near times of eternity."
   > 
-  > <a id="s392_4"></a>[UB 0:13.12](/en/The_Urantia_Book/0#p13_12) "The function of God the Sevenfold dates from the organization of the seven superuniverses."
+  > <a id="s392_4"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) "The function of God the Sevenfold dates from the organization of the seven superuniverses."
 
 ### § 5. B. The Superuniverses in Light And Life
 
@@ -398,7 +398,7 @@ In this section, we are considering the state of affairs when the superuniverses
 
 > <a id="s398_2"></a>[UB 18:3.9](/en/The_Urantia_Book/18#p3_9) The Supreme Being will be the experiential sovereign of the seven superuniverses.
 > 
-> <a id="s400_2"></a>[UB 117:5.15](/en/The_Urantia_Book/117#p5_15) The Supreme Being may become resident on Uversa. The boundaries between the superuniverses may be removed and the grand universe will begin to function as a perfected and integrated whole.
+> <a id="s400_2"></a>[UB 117:7.15](/en/The_Urantia_Book/117#p7_15) The Supreme Being may become resident on Uversa. The boundaries between the superuniverses may be removed and the grand universe will begin to function as a perfected and integrated whole.
 
 Observation: This is a cosmic parallel of what happens on a planet when the evolutionary races are first segregated (to individualize cultural developments) and then are blended under the Adamic regime. <a id="s402_203"></a>[UB 64:6.30](/en/The_Urantia_Book/64#p6_30)
 
@@ -482,7 +482,7 @@ It will be convenient to group the citations relative to the study of the trinit
 
 ### § 7. A. The Trinity-Embraced Sons
 
-> <a id="s484_2"></a>[UB 22:4.8](/en/The_Urantia_Book/22#p4_8) The Trinity embrace precipitates out of the stream of time many unrealized creature potentials — but this applies only to the present universe age.
+> <a id="s484_2"></a>[UB 22:4.5](/en/The_Urantia_Book/22#p4_5) The Trinity embrace precipitates out of the stream of time many unrealized creature potentials — but this applies only to the present universe age.
 > 
 > <a id="s486_2"></a>[UB 17:2.4](/en/The_Urantia_Book/17#p2_4) Mighty Messengers, being trinity embraced, do now grow. They are, in status, as of the First Age; they are like the Stationary Sons of the Trinity.
 > 

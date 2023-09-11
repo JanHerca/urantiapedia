@@ -134,7 +134,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## IX. SURVIVAL
 
-1. Mortal choosing determines survival. <a id="s136_40"></a>[UB 5:5.13](/en/The_Urantia_Book/5#p1_13)
+1. Mortal choosing determines survival. <a id="s136_40"></a>[UB 5:5.13](/en/The_Urantia_Book/5#p5_13)
 2. Mind is mortal, but the surviving soul is immortal. <a id="s137_55"></a>[UB 49:4.9](/en/The_Urantia_Book/49#p4_9)
 3. At death, the unconscious soul goes into the custody of the guardian seraphim. <a id="s138_82"></a>[UB 112:5.13](/en/The_Urantia_Book/112#p5_13)
 4. Resurrection is the reassembly of the Adjuster, soul, and personality—with the morontia mind and body. <a id="s139_106"></a>[UB 112:5.18](/en/The_Urantia_Book/112#p5_18)

@@ -1022,13 +1022,11 @@ const handle_exeButtonClick = () => {
 				.catch(onFail);
 		}
 	} else if (process === 'ARTICLE_CREATE_PARALELLS_FROM_WIKIJS') {
+		//TODO: Add UF publications, not name Urantia Foundation
+		//TODO: When creating UB papers, create new Study Aid section
 		// Reads UB (*.json)
 		// Reads articles (*.md)
 		// Writes cross refs (paralells) (*.tsv)
-
-		//TODO: readArticlesFromWikijs uses getFiles that only supports one
-		// folder level. We must increase getFiles to more levels with a param
-
 		book.readFromJSON(jsonDir)
 			.then(() => articles.readArticlesFromWikijs(htmlDir, book))
 			.then(() => articles.writeUBParalellsToTSV(txtFile))

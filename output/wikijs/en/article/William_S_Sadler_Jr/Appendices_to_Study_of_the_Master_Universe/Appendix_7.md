@@ -37,9 +37,9 @@ In the following [Appendix, "Transformative Techniques,"](/en/article/William_S_
 
 ## § 1. The sources of growth: Original, Actual, and Potential
 
-In the last analysis, everything that is real (at least all experiential reality) comes from the Seven Absolutes of Infinity. <a id="s39_126"></a>[UB 0:3.1](/en/The_Urantia_Book/0#p3_1))
+In the last analysis, everything that is real (at least all experiential reality) comes from the Seven Absolutes of Infinity. <a id="s39_126"></a>[UB 0:3.1](/en/The_Urantia_Book/0#p3_1)
 
-There are several ways in which these Absolutes can be classified. One way is to place them in three categories: Original, Actual, and Potential. <a id="s41_146"></a>[UB 115:5.8](/en/The_Urantia_Book/115#p5_8) We are informed <a id="s41_206"></a>[UB 115:5.9](/en/The_Urantia_Book/115#p5_9) that the interaction of the Original, the Actual, and the Potential accounts for growth on all levels — Sevenfold, Supreme, and Ultimate. We will accordingly consider these Absolutes as follows:
+There are several ways in which these Absolutes can be classified. One way is to place them in three categories: Original, Actual, and Potential. <a id="s41_146"></a>[UB 115:3.5](/en/The_Urantia_Book/115#p3_5) We are informed <a id="s41_206"></a>[UB 115:3.9](/en/The_Urantia_Book/115#p3_9) that the interaction of the Original, the Actual, and the Potential accounts for growth on all levels — Sevenfold, Supreme, and Ultimate. We will accordingly consider these Absolutes as follows:
 
 (a) _The Original_
 
@@ -53,19 +53,19 @@ The Original is something that does not properly classify as either Actual or Po
 
 (b) _The Actual_
 
-> <a id="s55_2"></a>[UB 115:5.7](/en/The_Urantia_Book/115#p5_7) The Three Absolutes of Actuality: the Eternal Son, the Infinite Spirit, and the Isle of Paradise.
+> <a id="s55_2"></a>[UB 115:3.7](/en/The_Urantia_Book/115#p3_7) The Three Absolutes of Actuality: the Eternal Son, the Infinite Spirit, and the Isle of Paradise.
 > 
 > <a id="s57_2"></a>[UB 104:5.2-6](/en/The_Urantia_Book/104#p5_2) The Triodity of Actuality: the Son, the Spirit, and the Paradise Isle.
 > 
 > (ibid) The total of all actualized reality: matter, mind, and spirit.
 > 
-> <a id="s61_2"></a>[UB 115:5.10](/en/The_Urantia_Book/115#p5_10) The triodity in which actuality is absolute; all potentials are emergent.
+> <a id="s61_2"></a>[UB 115:3.10](/en/The_Urantia_Book/115#p3_10) The triodity in which actuality is absolute; all potentials are emergent.
 > 
 > <a id="s63_2"></a>[UB 12:3.1-5](/en/The_Urantia_Book/12#p3_1) The gravity control over spirit, mind, and matter, centering respectively in the Son, in the Spirit, and in the Isle of Paradise.
 > 
-> <a id="s65_2"></a>[UB 115:5.11](/en/The_Urantia_Book/115#p5_11) Actuals are defined as: that which was and which is. (This is the time concept of actuals).
+> <a id="s65_2"></a>[UB 115:3.11](/en/The_Urantia_Book/115#p3_11) Actuals are defined as: that which was and which is. (This is the time concept of actuals).
 > 
-> <a id="s67_2"></a>[UB 115:5.12](/en/The_Urantia_Book/115#p5_12) Actuality is substance — it is existent at the center and is expanding outward into infinity at the periphery.
+> <a id="s67_2"></a>[UB 115:3.12](/en/The_Urantia_Book/115#p3_12) Actuality is substance — it is existent at the center and is expanding outward into infinity at the periphery.
 
 The Actual embraces the Eternal Son, the Infinite Spirit, and the Paradise Isle. These are the respective Centers of all spirit, all mind, and all physical energy. All actual and actualizing reality is related to these three gravity Centers and is securely held in the grasp of one (or more) of the three gravity circuits — spiritual, mindal, or material. These three Sources and Centers, when associated in function, are designated as the Triodity of Actuality.
 
@@ -94,11 +94,11 @@ The Potential consists of the three Absolutes: the Deity Absolute, the Universal
 
 Growth in the master universe is a subabsolute process; it is taking place on the finite level (in time and space) and on the absonite level (in transcended time and space). This means that something, or someone, has to operate on the potentials of the Absolutes in order to down-step them to the point where they become responsive to the actions of subabsolute beings functioning on subabsolute levels. Concerning this process, the following statements are made in the Papers:
 
-> <a id="s96_2"></a>[UB 115:5.13](/en/The_Urantia_Book/115#p5_13) The Potential (the three Absolutes) never functions as such on subabsolute levels.
+> <a id="s96_2"></a>[UB 115:3.13](/en/The_Urantia_Book/115#p3_13) The Potential (the three Absolutes) never functions as such on subabsolute levels.
 > 
 > <a id="s98_2"></a>[UB 12:6.6](/en/The_Urantia_Book/12#p6_6) The presence-performances of the Absolutes and the activities of the Ultimate always precede the work of the time-space creators.
 > 
-> <a id="s100_2"></a>[UB 12:6.14](/en/The_Urantia_Book/12#p6_14) Within the master universe, the Ultimate is working out "the creative organization" of the Absolutes of Potentiality.
+> <a id="s100_2"></a>[UB 12:6.13](/en/The_Urantia_Book/12#p6_13) Within the master universe, the Ultimate is working out "the creative organization" of the Absolutes of Potentiality.
 > 
 > <a id="s102_2"></a>[UB 117:3.2](/en/The_Urantia_Book/117#p3_2) The Supreme Being is the channel that carries the creative potential of the triodities to the finite level, and this is the source from which the superuniverses and their native beings are created.
 > 
@@ -163,7 +163,7 @@ Evolutionary growth, as we know it, is a very temporary condition in the master 
 Does the growth pattern of the evolutionary Supreme completely pervade the grand universe of the present age? The general answer to that question would be, "Yes." But, if we ask, "Are there exceptions?" the answer would also be, "Yes."
 
 The inhabitants of the present grand universe appear to classify into four major division as they are related to the typical evolutionary growth characteristic of the Second Age — growth with and in the Supreme Being.
-- (a) _Status as of the previous universe age._ Those beings who classify in this category include many of the Trinity-origin beings, like the Stationary Sons of the Trinity, together with their Trinity-embraced associates. These beings are outside the sphere of evolutionary growth; the Divine Counselors do not grow, neither do Mighty Messengers. <a id="s165_349"></a>[UB 117:12.4](/en/The_Urantia_Book/117#p12_4)
+- (a) _Status as of the previous universe age._ Those beings who classify in this category include many of the Trinity-origin beings, like the Stationary Sons of the Trinity, together with their Trinity-embraced associates. These beings are outside the sphere of evolutionary growth; the Divine Counselors do not grow, neither do Mighty Messengers. <a id="s165_349"></a>[UB 117:2.4](/en/The_Urantia_Book/117#p2_4)
 - (b) _Status as of the present universe age._ This category obviously includes most of the personalities of the seven superuniverses — creatures like human beings, midwayers, seraphim, and others — beings who are in and of the present age and who are fully participating in the evolutionary growth of the Supreme Being. <a id="s166_321"></a>[UB 117:2.5](/en/The_Urantia_Book/117#p2_5) This classification also includes creators, such as the local universe Sons and Spirits. <a id="s166_454"></a>[UB 116:4.8](/en/The_Urantia_Book/116#p4_8) And finally, this group even includes central-universers, such as the Havona natives who have become participants in the growth cycle of the Second Universe Age. <a id="s166_660"></a>[UB 14:4.15-16](/en/The_Urantia_Book/14#p4_15); <a id="s166_708"></a>[UB 31:1.2](/en/The_Urantia_Book/31#p1_2)
 - (c) _Status as of the post-supreme ages._ Beings in this category include the creature-trinitized sons; they are in, but not of, the present universe age. They are non-growing in the present age, being held in reserve for growth of a post-supreme nature in future ages. <a id="s167_272"></a>[UB 22:7.11-14](/en/The_Urantia_Book/22#p7_11); <a id="s167_320"></a>[UB 22:8.6](/en/The_Urantia_Book/22#p8_6); <a id="s167_363"></a>[UB 117:2.3](/en/The_Urantia_Book/117#p2_3)
 - (d) _Status as of the post-ultimate age._ The only beings we know who fall in this category are the Trinitized Sons of Destiny. They are super-creational (hence post-ultimate) and represent a level of values in the master universe having to do with the sometime function of the Supreme-Ultimate in the master creation. <a id="s168_321"></a>[UB 22:7.14](/en/The_Urantia_Book/22#p7_14) The nature of these Sons of Destiny is so very far removed from the present affairs of the grand universe that they are withdrawn from all activities therein and are segregated on Vicegerington. <a id="s168_560"></a>[UB 22:7.10](/en/The_Urantia_Book/22#p7_10)
@@ -198,9 +198,9 @@ We may go back to recapitulate our study of the functions of the Actual and the 
 
 > <a id="s198_2"></a>[UB 115:3.13](/en/The_Urantia_Book/115#p3_13) The Potential (the three Absolutes) never function as such on subabsolute levels.
 > 
-> <a id="s200_2"></a>[UB 112:6.6](/en/The_Urantia_Book/112#p6_6) The presence-performances of the Absolutes and the activities of the Ultimate always precede the work of the time-space creatures.
+> <a id="s200_2"></a>[UB 12:6.6](/en/The_Urantia_Book/12#p6_6) The presence-performances of the Absolutes and the activities of the Ultimate always precede the work of the time-space creatures.
 > 
-> <a id="s202_2"></a>[UB 112:6.13](/en/The_Urantia_Book/112#p6_13) Within the master universe the Ultimate is working out the "creative organization" of the Absolutes of Potentiality.
+> <a id="s202_2"></a>[UB 12:6.13](/en/The_Urantia_Book/12#p6_13) Within the master universe the Ultimate is working out the "creative organization" of the Absolutes of Potentiality.
 
 So much is characteristic of the present universe age and would appear to remain unchanged by the emergence of the Supreme, but
 

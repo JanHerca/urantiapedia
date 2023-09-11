@@ -3,7 +3,7 @@ title: "The Heart that Became Loveless"
 description: "A Personality Profile: Judas Iscariot, the apostle who chose to be the “son of revenge” in preference to being a son of God."
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: psychology, The Urantia Book
+tags: psychology, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "The Science and Historical Content of The Urantia Book"
 description: "Fact, or fact punctuated by symbolism, mythology and allegory?"
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: The Urantia Book
+tags: The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
