@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Author: **Irwin Ginsburgh Ph.D. and Geoffrey L. Taylor** | Editor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Irwin Ginsburgh Ph.D. and Geoffrey L. Taylor<br>©2016 Jan Herca, editor notes</p>
 
 _The Urantia Book_ contains much scientific information that was revealed between 1925 and 1935 to an individual who cared little about the material. Some of this information disagreed with science's version. Half a century later, some of this originally conflicting information now agrees with science, and some still does not. The information deals primarily with creation of the universe, the Earth and man, as well as the fundamentals of matter and energy. Theories about these kinds of subjects evolve as science matures, and some of science's ideas change. These changes have brought about the new agreement between science and _The Urantia Book_, and the now agreeing Urantia information can be considered to have been predictions.
 

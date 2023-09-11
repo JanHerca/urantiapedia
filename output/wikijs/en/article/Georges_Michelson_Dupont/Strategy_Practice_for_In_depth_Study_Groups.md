@@ -3,22 +3,23 @@ title: A Strategy and Practice for In-depth Study Groups of The Urantia Book
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
-tags: The Urantia Book, study aid
+tags: Study Groups, study aid
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Georges Michelson-Dupont</p>
 
-Author: **Georges Michelson-Dupont**, trustee, Urantia Foundation, Recloses, France
+_By Georges Michelson-Dupont, trustee, Urantia Foundation, Recloses, France_
 
 ## Introduction
 
 The purpose of this presentation is to share with you the experience accumulated over the years to animate and make attractive study groups and seminars. It is largely based on in-depth study and observation of revelator pedagogy.
 
-- 1\. First of all, I will recall the mandate to reveal entrusted to the revelators by the authorities of our universe.
-- 2\. Then I will analyze their strategy and the key points of their pedagogy.
-- 3\. I will continue this presentation by proposing an effective and attractive method to (a) interact creatively between participants; (b) going beyond the simple meaning of words to expand our mental framework and (c) bringing concepts down to the level of personal experience.
-- 4\. Finally, I will offer practical examples and make some recommendations to make the study group process effective and engaging.
+1. First of all, I will recall the mandate to reveal entrusted to the revelators by the authorities of our universe.
+2. Then I will analyze their strategy and the key points of their pedagogy.
+3. I will continue this presentation by proposing an effective and attractive method to (a) interact creatively between participants; (b) going beyond the simple meaning of words to expand our mental framework and (c) bringing concepts down to the level of personal experience.
+4. Finally, I will offer practical examples and make some recommendations to make the study group process effective and engaging.
 
 The revelators have shown great knowledge of the workings of our minds in presenting revelation to us, expertise that we can use in study groups. In practice, the intensive study approach I suggest is best suited to readers who have read _The Urantia Book_ in its entirety. However, study groups can accommodate new readers who must first familiarize themselves with the teachings. It then becomes necessary to adapt the method to the circumstances.
 

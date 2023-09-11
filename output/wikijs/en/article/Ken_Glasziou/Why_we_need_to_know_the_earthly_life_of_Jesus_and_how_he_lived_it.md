@@ -86,7 +86,7 @@ _The fact that Jesus lived for us is infinitely more significant than the teachi
 
 ## External links
 
-- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page.html
+- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page6.html
 
 
 

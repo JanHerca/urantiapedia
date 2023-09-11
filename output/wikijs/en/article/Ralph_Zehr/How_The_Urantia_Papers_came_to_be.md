@@ -1,5 +1,5 @@
 ---
-title: How The Urantia Papers came to be according to The Revelators
+title: "How The Urantia Papers came to be according to The Revelators"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Compilator: **Ralph Zehr**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Ralph Zehr</p>
+
+_A compilation by Ralph Zehr_
 
 ## This revelation was ordained by the Father himself and announced by Jesus to his apostles on Mount Olivet in conjunction with foretelling his second coming.
 

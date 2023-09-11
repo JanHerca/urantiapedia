@@ -3,12 +3,12 @@ title: How to Host a Virtual Study Group Using Skype
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
-tags: The Urantia Book, study aid
+tags: Study Groups, study aid
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
-Author: **Michael Hanian**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Michael Hanian</p>
 
 ## Introduction
 
