@@ -133,15 +133,15 @@ We depart from Urantia, in the material phase, and until death befalls us, we ar
 
 When we die we pass into the Morontia phase and we remain there until we leave Salvington, the capital of Nebadon, our local universe, after passing through 570 body changes (8 in the system, 71 in the constellation, and 491 during our stay in the Salvington spheres), in order to pass from the very material-like morontia state to the very spiritual-like morontia state.
 
-If when we die we go through the sleep of death we are classified as **Sleeping Survivors** (<a id="a134_93"></a>[UB 30:4.11](/en/The_Urantia_Book/30#p4_11)). Once we are resurrected, either from the state of sleeping Survivors or on the third day of death, we pass to the Mansion Worlds of Satania, our System, and we have the status of **Students of the Mansion Worlds** (<a id="a134_354"></a>[UB 30:4.14](/en/The_Urantia_Book/30#p4_14) ).
+If when we die we go through the sleep of death we are classified as **Sleeping Survivors** (<a id="a135_93"></a>[UB 30:4.11](/en/The_Urantia_Book/30#p4_11)). Once we are resurrected, either from the state of sleeping Survivors or on the third day of death, we pass to the Mansion Worlds of Satania, our System, and we have the status of **Students of the Mansion Worlds** (<a id="a135_354"></a>[UB 30:4.14](/en/The_Urantia_Book/30#p4_14) ).
 
-Since we arrived in Jerusem, the capital of Satania, as well as passing through Edentia, capital of Norlatiadek, our constellation, and in Salvington, we are **Morontia Progressors** (<a id="a136_184"></a>[UB 30:4.18](/en/The_Urantia_Book/30#p4_18)).
+Since we arrived in Jerusem, the capital of Satania, as well as passing through Edentia, capital of Norlatiadek, our constellation, and in Salvington, we are **Morontia Progressors** (<a id="a137_184"></a>[UB 30:4.18](/en/The_Urantia_Book/30#p4_18)).
 
-We left Salvington as **first degree** spirits, beginning the spiritual phase as **Superuniverse Wards** (<a id="a138_106"></a>[UB 30:4.22](/en/The_Urantia_Book/30#p4_22)); when we start from Umenor the 3rd, capital of Ensa, our minor sector, we advance to spirits of **second grade** and from Umayor the 5th, capital Splandon, our major sector, we start as spirits of **third grade** to complete our formation as Wards of the Superuniverse in Uversa, capital of Orvonton, our superuniverse.
+We left Salvington as **first degree** spirits, beginning the spiritual phase as **Superuniverse Wards** (<a id="a139_106"></a>[UB 30:4.22](/en/The_Urantia_Book/30#p4_22)); when we start from Umenor the 3rd, capital of Ensa, our minor sector, we advance to spirits of **second grade** and from Umayor the 5th, capital Splandon, our major sector, we start as spirits of **third grade** to complete our formation as Wards of the Superuniverse in Uversa, capital of Orvonton, our superuniverse.
 
-Upon reaching Havona we become **Havona Pilgrims** (<a id="a140_52"></a>[UB 30:4.26](/en/The_Urantia_Book/30#p4_26)) and after reaching the sixth circle we reach the state of spirits of **fourth degree**.
+Upon reaching Havona we become **Havona Pilgrims** (<a id="a141_52"></a>[UB 30:4.26](/en/The_Urantia_Book/30#p4_26)) and after reaching the sixth circle we reach the state of spirits of **fourth degree**.
 
-When we leave Havona, we reach the state of **Those who reach Paradise** (<a id="a142_74"></a>[UB 30:4.31](/en/The_Urantia_Book/30#p4_31)) and when we reach the Father we acquire the spiritual **fifth degree**.
+When we leave Havona, we reach the state of **Those who reach Paradise** (<a id="a143_74"></a>[UB 30:4.31](/en/The_Urantia_Book/30#p4_31)) and when we reach the Father we acquire the spiritual **fifth degree**.
 
 We achieve the **sixth degree** by taking the finality oath before the Trinity.
 
@@ -156,42 +156,42 @@ All the capitals and associated worlds of the organizational units of creation a
 <figcaption><em>Jerusem, Satania</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _*Jerusem,* the headquarters of your local system of Satania, has its seven worlds of transition culture, each of which is encircled by seven satellites, among which are the seven mansion worlds of morontia detention, man’s first postmortal residence. As the term heaven has been used on Urantia, it has sometimes meant these seven mansion worlds, the first mansion world being denominated the first heaven, and so on to the seventh._ (<a id="a157_438"></a>[UB 15:7.5](/en/The_Urantia_Book/15#p7_5))
+> _*Jerusem,* the headquarters of your local system of Satania, has its seven worlds of transition culture, each of which is encircled by seven satellites, among which are the seven mansion worlds of morontia detention, man’s first postmortal residence. As the term heaven has been used on Urantia, it has sometimes meant these seven mansion worlds, the first mansion world being denominated the first heaven, and so on to the seventh._ (<a id="a158_438"></a>[UB 15:7.5](/en/The_Urantia_Book/15#p7_5))
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Edentia5.jpg">
 <figcaption><em>Edentia</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _*Edentia,* . . . has its seventy satellites of socializing culture and training, . . ._ (<a id="a164_92"></a>[UB 15:7.6](/en/The_Urantia_Book/15#p7_6))
+> _*Edentia,* . . . has its seventy satellites of socializing culture and training, . . ._ (<a id="a165_92"></a>[UB 15:7.6](/en/The_Urantia_Book/15#p7_6))
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Salvington4.jpg">
 <figcaption><em>Salvington</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _*Salvington,* . . . is surrounded by ten university clusters of forty-nine spheres each. Hereon is man spiritualized following his constellation socialization._ (<a id="a171_165"></a>[UB 15:7.7](/en/The_Urantia_Book/15#p7_7))
+> _*Salvington,* . . . is surrounded by ten university clusters of forty-nine spheres each. Hereon is man spiritualized following his constellation socialization._ (<a id="a172_165"></a>[UB 15:7.7](/en/The_Urantia_Book/15#p7_7))
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Uminor_the_Third7.jpg">
 <figcaption><em>Umenor the Third</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _*Uminor the third,* . . . is surrounded by the seven spheres of the higher physical studies of the ascendant life._ (<a id="a178_120"></a>[UB 15:7.8](/en/The_Urantia_Book/15#p7_8))
+> _*Uminor the third,* . . . is surrounded by the seven spheres of the higher physical studies of the ascendant life._ (<a id="a179_120"></a>[UB 15:7.8](/en/The_Urantia_Book/15#p7_8))
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Umajor_the5th4.jpg">
 <figcaption><em>Umajor the Fifth</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _*Umajor the fifth,* . . . is surrounded by the seventy spheres of the advancing intellectual training of the superuniverse._ (<a id="a185_129"></a>[UB 15:7.9](/en/The_Urantia_Book/15#p7_9))
+> _*Umajor the fifth,* . . . is surrounded by the seventy spheres of the advancing intellectual training of the superuniverse._ (<a id="a186_129"></a>[UB 15:7.9](/en/The_Urantia_Book/15#p7_9))
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Uversa9.jpg">
 <figcaption><em>Uversa</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> *Uversa,* . . . the seven higher universities of advanced spiritual training for ascending will creatures. Each of these seven clusters of wonder spheres consists of seventy specialized worlds containing thousands upon thousands of replete institutions and organizations devoted to universe training and spirit culture wherein the pilgrims of time are re-educated and re-examined preparatory to their long flight to Havona. (<a id="a192_427"></a>[UB 15:7.10](/en/The_Urantia_Book/15#p7_10))
+> *Uversa,* . . . the seven higher universities of advanced spiritual training for ascending will creatures. Each of these seven clusters of wonder spheres consists of seventy specialized worlds containing thousands upon thousands of replete institutions and organizations devoted to universe training and spirit culture wherein the pilgrims of time are re-educated and re-examined preparatory to their long flight to Havona. (<a id="a193_427"></a>[UB 15:7.10](/en/The_Urantia_Book/15#p7_10))
 
 In the superuniverse we receive training in a group. Once we graduate from Edentia we prepare for the jump to Havona. A jump that we do alone, because from here our personal and therefore individual training begins.
 
@@ -199,11 +199,11 @@ In the superuniverse we receive training in a group. Once we graduate from Edent
 <img src="/image/article/Luz_y_Vida/LyV44/20.jpg">
 </figure>
 
-<a id="a200_0"></a>[UB 14:5.4](/en/The_Urantia_Book/14#p5_4) We are spirits of the 4th degree when we arrive in Havona and of the 5th degree when we arrive in Paradise. For this we have had to go through a billion worlds divided into 7 circles where, from circle to circle, we have had to reach the Master Spirit of our superuniverse (7), reach Supremacy (6), reach Deity, Infinite Spirit ( 5), Eternal Son (4) and the Father (3), reach the inhabitants of Paradise (2) and achieve admission to Paradise (1).
+<a id="a201_0"></a>[UB 14:5.4](/en/The_Urantia_Book/14#p5_4) We are spirits of the 4th degree when we arrive in Havona and of the 5th degree when we arrive in Paradise. For this we have had to go through a billion worlds divided into 7 circles where, from circle to circle, we have had to reach the Master Spirit of our superuniverse (7), reach Supremacy (6), reach Deity, Infinite Spirit ( 5), Eternal Son (4) and the Father (3), reach the inhabitants of Paradise (2) and achieve admission to Paradise (1).
 
 Once in Paradise, we take an oath before the Trinity that allows us to enter the Body of the Finality, reaching the 6th spiritual degree.
 
-> _Paradise is the home, and Havona the workshop and playground, of the finaliters. And every God-knowing mortal craves to be a finaliter._ (<a id="a204_141"></a>[UB 14:6.39](/en/The_Urantia_Book/14#p6_39))
+> _Paradise is the home, and Havona the workshop and playground, of the finaliters. And every God-knowing mortal craves to be a finaliter._ (<a id="a205_141"></a>[UB 14:6.39](/en/The_Urantia_Book/14#p6_39))
 
 <figure id="Figure_14" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV44/23.jpg">
@@ -212,11 +212,11 @@ Once in Paradise, we take an oath before the Trinity that allows us to enter the
 
 ## The fate of the Finaliters.
 
-> _Evolutionary mortals are born on the planets of space, pass through the morontia worlds, ascend the spirit universes, traverse the Havona spheres, find God, attain Paradise, and are mustered into the primary Corps of the Finality, therein to await the next assignment of universe service. There are six other assembling finality corps, but Grandfanda, the first mortal ascender, presides as Paradise chief of all orders of finaliters. And as we view this sublime spectacle, we all exclaim: What a glorious destiny for the animal-origin children of time, the material sons of space!_ (<a id="a213_587"></a>[UB 31:10.20](/en/The_Urantia_Book/31#p10_20))
+> _Evolutionary mortals are born on the planets of space, pass through the morontia worlds, ascend the spirit universes, traverse the Havona spheres, find God, attain Paradise, and are mustered into the primary Corps of the Finality, therein to await the next assignment of universe service. There are six other assembling finality corps, but Grandfanda, the first mortal ascender, presides as Paradise chief of all orders of finaliters. And as we view this sublime spectacle, we all exclaim: What a glorious destiny for the animal-origin children of time, the material sons of space!_ (<a id="a214_587"></a>[UB 31:10.20](/en/The_Urantia_Book/31#p10_20))
 
-> _We deem that human beings are entitled to share our opinions, and that you are free to conjecture with us respecting the mystery of the ultimate destiny of the Paradise Corps of Finality. It seems evident to us that the present assignments of the perfected evolutionary creatures partake of the nature of postgraduate courses in universe understanding and superuniverse administration; and we all ask, “Why should the Gods be so concerned in so thoroughly training surviving mortals in the technique of universe management?”_ (<a id="a215_530"></a>[UB 31:3.8](/en/The_Urantia_Book/31#p3_8))
+> _We deem that human beings are entitled to share our opinions, and that you are free to conjecture with us respecting the mystery of the ultimate destiny of the Paradise Corps of Finality. It seems evident to us that the present assignments of the perfected evolutionary creatures partake of the nature of postgraduate courses in universe understanding and superuniverse administration; and we all ask, “Why should the Gods be so concerned in so thoroughly training surviving mortals in the technique of universe management?”_ (<a id="a216_530"></a>[UB 31:3.8](/en/The_Urantia_Book/31#p3_8))
 
-> _These six groups of glorified beings compose this unique body of eternal destiny. We think we know their future work, but we are not certain. While the Corps of the Mortal Finality is mobilizing on Paradise, and while they now so extensively minister to the universes of space and administer the worlds settled in light and life, their future destination must be the now-organizing universes of outer space. At least that is the conjecture of Uversa._ (<a id="a217_456"></a>[UB 31:0.8](/en/The_Urantia_Book/31#p0_8))
+> _These six groups of glorified beings compose this unique body of eternal destiny. We think we know their future work, but we are not certain. While the Corps of the Mortal Finality is mobilizing on Paradise, and while they now so extensively minister to the universes of space and administer the worlds settled in light and life, their future destination must be the now-organizing universes of outer space. At least that is the conjecture of Uversa._ (<a id="a218_456"></a>[UB 31:0.8](/en/The_Urantia_Book/31#p0_8))
 
 ## References
 

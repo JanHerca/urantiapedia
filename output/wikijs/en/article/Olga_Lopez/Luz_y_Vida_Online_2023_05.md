@@ -201,7 +201,7 @@ Mar Alférez
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Mi-parrafo-favorito-Mar-Alferez.png" alt="Mi párrafo favorito-Mar Alférez">
 </figure>
 
-> The Universal Father has decreed: “Be you perfect, even as I am perfect.” (<a id="a202_77"></a>[UB 26:4.12](/en/The_Urantia_Book/26#p4_12))
+> The Universal Father has decreed: “Be you perfect, even as I am perfect.” (<a id="a203_77"></a>[UB 26:4.12](/en/The_Urantia_Book/26#p4_12))
 
 Many times I have thought how difficult this decree is. And how is it perfect? What does this perfection that is required of us consist of? Reflecting on this mandate, I have needed to delve into it and understand, in some way, what it means. Understand what the Father wants from me, from us. Because I know I'm imperfect and because humanity is imperfect. Even nature is imperfect.
 
@@ -209,9 +209,9 @@ It is Jesus who has given me a clue:
 
 Brotherly love means loving your neighbor as yourself, and this would be the proper fulfillment of the “golden rule.” But parental affection requires that you love your fellow men as Jesus loves you. 140:5:1 (1573.3)
 
-I tell you: love your enemies, do good to those who hate you, bless those who curse you, and pray for those who mistreat you. And whatever you think I would do for men, you do it. <a id="a210_180"></a>[UB 140:3.15](/en/The_Urantia_Book/140#p3_15)
+I tell you: love your enemies, do good to those who hate you, bless those who curse you, and pray for those who mistreat you. And whatever you think I would do for men, you do it. <a id="a211_180"></a>[UB 140:3.15](/en/The_Urantia_Book/140#p3_15)
 
-Your Father in heaven makes the sun shine on the wicked as well as the good; in the same way he sends rain on the just and the unjust. You are the children of God; even more, you are now the ambassadors of my Father's kingdom. Be merciful, just as God is merciful, and in the eternal future of the kingdom you will be perfect, just as your heavenly Father is perfect. <a id="a212_368"></a>[UB 140:3.16](/en/The_Urantia_Book/140#p3_16)
+Your Father in heaven makes the sun shine on the wicked as well as the good; in the same way he sends rain on the just and the unjust. You are the children of God; even more, you are now the ambassadors of my Father's kingdom. Be merciful, just as God is merciful, and in the eternal future of the kingdom you will be perfect, just as your heavenly Father is perfect. <a id="a213_368"></a>[UB 140:3.16](/en/The_Urantia_Book/140#p3_16)
 
 It is true that it seems that Jesus asks us for a disproportionate love, but in reality it is not so. It is simple and it is provided. It is giving food to the hungry and water to the thirsty. It is extending my hand to those who need it. If the word _prójimo_ means _next_, it means being close to someone who is close and loving them. But even further, it is not about seeing who is your neighbor, but about being your own neighbor. Neighbor to who is near, and far, even my enemies. I don't have to go to the movies with my enemy, or go near someone who hurts me, but I can pray for him and wish him well.
 

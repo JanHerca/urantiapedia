@@ -209,7 +209,7 @@ Jael Gonzalez
 
 This quote is my favorite:
 
-> You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. (<a id="a210_157"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6))
+> You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. (<a id="a211_157"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6))
 
 Love is such a word used by our humanity. In songs, books and poems it appears millions of times, for thousands of years. But we don't really know how to love. We see love as a simple state of mind, a changing drive. Instead, this sentence from _The Urantia Book_ explains how to truly love others. It teaches us to love.
 
@@ -249,9 +249,9 @@ The registration period for the III European Conference of Readers of _The Urant
 
 **Presentation of the program**
 
-According to the revelators, “the worst of the materialistic age is past and the day of a better understanding is beginning to dawn” <a id="a250_133"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4) and “The world needs to see Jesus living again on earth in the mortal experience born of the spirit who effectively reveal the Master to all men” <a id="a250_323"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1).
+According to the revelators, “the worst of the materialistic age is past and the day of a better understanding is beginning to dawn” <a id="a251_133"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4) and “The world needs to see Jesus living again on earth in the mortal experience born of the spirit who effectively reveal the Master to all men” <a id="a251_323"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1).
 
-But how can we really leave materialism behind and be born of the spirit? How can we develop spiritually? Jesus himself said that “self-control is the measure of man's moral nature and the indicator of his spiritual development” <a id="a252_229"></a>[UB 143:2.3](/en/The_Urantia_Book/143#p2_3), then learning the art of self-control seems essential to progress both morally and spiritually. For this reason, in the III European Conference we are going to explore the facets that seem most important to us to govern our own self, and with that intention, a series of workshops has been proposed under the common title of “The route of self-control”.
+But how can we really leave materialism behind and be born of the spirit? How can we develop spiritually? Jesus himself said that “self-control is the measure of man's moral nature and the indicator of his spiritual development” <a id="a253_229"></a>[UB 143:2.3](/en/The_Urantia_Book/143#p2_3), then learning the art of self-control seems essential to progress both morally and spiritually. For this reason, in the III European Conference we are going to explore the facets that seem most important to us to govern our own self, and with that intention, a series of workshops has been proposed under the common title of “The route of self-control”.
 
 Taking into account the physical, mental and spiritual part of ourselves, we have designed the workshops with the intention of examining all the aspects and tools that allow us to master the government of our self:
 

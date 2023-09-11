@@ -304,30 +304,24 @@ exports.readFile = (filePath) => {
  */
 exports.getFiles = (dirPath) => {
 	return new Promise((resolve, reject) => {
-		fs.readdir(dirPath, {withFileTypes: true}, (err, dirents) => {
-			if (err) {
-				reject(err);
-				return;
-			}
-			var promises = dirents.map(dirent => {
-				const res = path.resolve(dirPath, dirent.name);
-				if (!dirent.isDirectory()) {
-					return Promise.resolve(res);
+		const files = [];
+		const readDir = (dir) => {
+			fs.readdirSync(dir).forEach(file => {
+				const filepath = path.join(dir, file);
+				if (fs.statSync(filepath).isDirectory()) {
+					readDir(filepath);
+				} else {
+					files.push(filepath)
 				}
-				return new Promise((resolve2, reject2) => {
-					fs.readdir(res, (err, files) => {
-						if (err) {
-							reject2(err);
-							return;
-						}
-						resolve2(files.map(file => path.join(res, file)));
-					});
-				});
 			});
-			Promise.all(promises).then(arr => {
-				resolve(Array.prototype.concat(...arr));
-			}, reject);
-		});
+		};
+		try {
+			readDir(dirPath);
+		} catch (err) {
+			reject(err);
+			return;
+		}
+		resolve(files);
 	});
 };
 

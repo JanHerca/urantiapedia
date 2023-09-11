@@ -44,7 +44,7 @@ In recent years, much has been said in the Urantia movement about “leaders” 
 
 And yet I think we all are. The question “Am I a leader?” it is unnecessary. If we are here it is because we ALREADY are. There is a well-known UB statement that I would like to recall here. It appears in document 81 and says the following:
 
-> Leadership is vital to progress. Wisdom, insight, and foresight are indispensable to the endurance of nations. Civilization is never really jeopardized until able leadership begins to vanish. And the quantity of such wise leadership has never exceeded one per cent of the population. (<a id="a45_287"></a>[UB 81:6.42](/en/The_Urantia_Book/81#p6_42))
+> Leadership is vital to progress. Wisdom, insight, and foresight are indispensable to the endurance of nations. Civilization is never really jeopardized until able leadership begins to vanish. And the quantity of such wise leadership has never exceeded one per cent of the population. (<a id="a46_287"></a>[UB 81:6.42](/en/The_Urantia_Book/81#p6_42))
 
 A few years ago, I read a very interesting article in the _Journal_, which developed its arguments precisely from this paragraph. The title was very suggestive: _Where are my 99?_ This title, as you can see, assumes that whoever asks that question is included in the one percent of leaders of the population. I think the question makes a very bold and uncomplicated statement, which I think we should embrace to ensure the future success of the fifth revelation.
 
@@ -55,7 +55,7 @@ A few years ago, I read a very interesting article in the _Journal_, which devel
 
 According to the RAE dictionary, a leader is a “person who is followed by a group, recognizing him or her as a leader or guide”. Personally, I think this definition should be expanded to include another type of leader: what other readers of the book define as “servant-leader.” What was, for example, Jesus of Nazareth. Let us remember his words:
 
-> “_He who would be greatest among you, let him become server of all._” (<a id="a56_73"></a>[UB 56:10.14](/en/The_Urantia_Book/56#p10_14))
+> “_He who would be greatest among you, let him become server of all._” (<a id="a57_73"></a>[UB 56:10.14](/en/The_Urantia_Book/56#p10_14))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/22.jpg">
@@ -88,17 +88,17 @@ Moral: think that you can not only make a difference for a seeker of Truth to wh
 
 Another of the aspects of leadership that I would like to emphasize is its vital bond with the group of which it is a part. For book dissemination to work, it is vital that the group function satisfactorily. Think of any group: a study group, a local association, a national association. One of the leader's tasks is for the group to function properly and, in my opinion, this is achieved by making all members make the most of their potential for the good of the group. That would precisely be one of the tasks of the leader. But not only that: the leader should always have his eyes and ears open to any other possible leader who appears on the scene. This movement is not about competing with each other, but about cooperating. At this point, I want to remind you of another quote from the book:
 
-> _Arithmetic says that, if one man could shear a sheep in ten minutes, ten men could shear it in one minute. That is sound mathematics, but it is not true, for the ten men could not so do it; they would get in one another’s way so badly that the work would be greatly delayed._ (<a id="a89_280"></a>[UB 133:5.5](/en/The_Urantia_Book/133#p5_5))
+> _Arithmetic says that, if one man could shear a sheep in ten minutes, ten men could shear it in one minute. That is sound mathematics, but it is not true, for the ten men could not so do it; they would get in one another’s way so badly that the work would be greatly delayed._ (<a id="a90_280"></a>[UB 133:5.5](/en/The_Urantia_Book/133#p5_5))
 
 So let's not get in each other's way. There is a lot of work to do, and of many kinds: let's coordinate and share it. Also, remember this other statement from the book:
 
-> _Mathematics asserts that, if one person stands for a certain unit of intellectual and moral value, ten persons would stand for ten times this value. But in dealing with human personality it would be nearer the truth to say that such a personality association is a sum equal to the square of the number of personalities concerned in the equation rather than the simple arithmetical sum. A social group of human beings in co-ordinated working harmony stands for a force far greater than the simple sum of its parts._ (<a id="a93_519"></a>[UB 133:5.6](/en/The_Urantia_Book/133#p5_6))
+> _Mathematics asserts that, if one person stands for a certain unit of intellectual and moral value, ten persons would stand for ten times this value. But in dealing with human personality it would be nearer the truth to say that such a personality association is a sum equal to the square of the number of personalities concerned in the equation rather than the simple arithmetical sum. A social group of human beings in co-ordinated working harmony stands for a force far greater than the simple sum of its parts._ (<a id="a94_519"></a>[UB 133:5.6](/en/The_Urantia_Book/133#p5_6))
 
 So, when talking about personalities, (a + b + c + ... + n) = (a + b + c + ... + n)^2^
 
 The group is much more than the sum of the people that make it up. Then let's handle it well because then we won't just add: we will multiply.
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ (<a id="a99_592"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ (<a id="a100_592"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/23.jpg">

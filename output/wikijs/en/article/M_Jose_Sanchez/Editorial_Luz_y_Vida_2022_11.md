@@ -52,29 +52,29 @@ In _The Urantia Book_ we find different episodes that show us the proper and hig
 
 If we dissect the episode, we can see how the “emotional kidnapping” that Judah suffered, with his mind clouded by an overflowing torrent of emotions, can cause us serious problems and disconnects us from our best essence. But at the same time we see how, faced with this same problem, Jesus does not allow himself to be swamped and carried away by emotions. He acts calm and patient.
 
-> They arrived at Jerusalem in due time and were on their way for a first visit to the temple, the very sight of which had stirred and thrilled Jude to the very depths of his soul (<a id="a53_181"></a>[UB 128:6.5](/en/The_Urantia_Book/128#p6_5))
+> They arrived at Jerusalem in due time and were on their way for a first visit to the temple, the very sight of which had stirred and thrilled Jude to the very depths of his soul (<a id="a54_181"></a>[UB 128:6.5](/en/The_Urantia_Book/128#p6_5))
 
 We can perfectly imagine a young Judah, an enthusiastic patriot, moved by the magnificent vision of Jerusalem.
 
-> . . .when they chanced to meet Lazarus of Bethany. While Jesus talked with Lazarus and sought to arrange for their joint celebration of the Passover, Jude started up real trouble for them all. Close at hand stood a Roman guard who made some improper remarks regarding a Jewish girl who was passing. Jude flushed with fiery indignation and was not slow in expressing his resentment of such an impropriety directly to and within hearing of the soldier. Now the Roman legionnaires were very sensitive to anything bordering on Jewish disrespect; so the guard promptly placed Jude under arrest. (<a id="a57_593"></a>[UB 128:6.5](/en/The_Urantia_Book/128#p6_5))
+> . . .when they chanced to meet Lazarus of Bethany. While Jesus talked with Lazarus and sought to arrange for their joint celebration of the Passover, Jude started up real trouble for them all. Close at hand stood a Roman guard who made some improper remarks regarding a Jewish girl who was passing. Jude flushed with fiery indignation and was not slow in expressing his resentment of such an impropriety directly to and within hearing of the soldier. Now the Roman legionnaires were very sensitive to anything bordering on Jewish disrespect; so the guard promptly placed Jude under arrest. (<a id="a58_593"></a>[UB 128:6.5](/en/The_Urantia_Book/128#p6_5))
 
 After a fit of rage, Judah hurls serious insults at the soldier... resulting in his arrest. And to make matters worse, he continues to insult the Romans as they take him to prison:
 
-> This was too much for the young patriot, and before Jesus could caution him by a warning glance, he had delivered himself of a voluble denunciation of pent-up anti-Roman feelings, all of which only made a bad matter worse. Jude, with Jesus by his side, was taken at once to the military prison. (<a id="a61_298"></a>[UB 128:6.5](/en/The_Urantia_Book/128#p6_5))
+> This was too much for the young patriot, and before Jesus could caution him by a warning glance, he had delivered himself of a voluble denunciation of pent-up anti-Roman feelings, all of which only made a bad matter worse. Jude, with Jesus by his side, was taken at once to the military prison. (<a id="a62_298"></a>[UB 128:6.5](/en/The_Urantia_Book/128#p6_5))
 
 By contrast, Jesus himself acted with great serenity seeking a solution to the arrest problem, a problem that could not be solved at the time. The two had to remain in jail while the Passover was celebrated in Jerusalem and were left without participating in the Temple ceremonies, as planned.
 
-> Jesus endeavored to obtain either an immediate hearing for Jude or else his release in time for the Passover celebration that evening, but he failed in these attempts. Since the next day was a “holy convocation” in Jerusalem, even the Romans would not presume to hear charges against a Jew. Accordingly, Jude remained in confinement until the morning of the second day after his arrest, and Jesus stayed at the prison with him. (<a id="a65_431"></a>[UB 128:6.6](/en/The_Urantia_Book/128#p6_6))
+> Jesus endeavored to obtain either an immediate hearing for Jude or else his release in time for the Passover celebration that evening, but he failed in these attempts. Since the next day was a “holy convocation” in Jerusalem, even the Romans would not presume to hear charges against a Jew. Accordingly, Jude remained in confinement until the morning of the second day after his arrest, and Jesus stayed at the prison with him. (<a id="a66_431"></a>[UB 128:6.6](/en/The_Urantia_Book/128#p6_6))
 
 How to solve this serious problem? The integrity and serenity of mind of Jesus manages to settle this cumbersome issue:
 
-> The morning following their second day in prison Jesus appeared before the military magistrate in behalf of Jude. By making apologies for his brother’s youth and by a further explanatory but judicious statement with reference to the provocative nature of the episode which had led up to the arrest of his brother, Jesus so handled the case that the magistrate expressed the opinion that the young Jew might have had some possible excuse for his violent outburst. (<a id="a69_466"></a>[UB 128:6.7](/en/The_Urantia_Book/128#p6_7))
+> The morning following their second day in prison Jesus appeared before the military magistrate in behalf of Jude. By making apologies for his brother’s youth and by a further explanatory but judicious statement with reference to the provocative nature of the episode which had led up to the arrest of his brother, Jesus so handled the case that the magistrate expressed the opinion that the young Jew might have had some possible excuse for his violent outburst. (<a id="a70_466"></a>[UB 128:6.7](/en/The_Urantia_Book/128#p6_7))
 
 Imprisonment did not result in Jesus developing an attitude of defeat, since he could have reacted by sinking into his state of mind and, as a consequence, he could have found himself without the strength to solve the imprisonment. He also doesn't get carried away by anger and fury, like his little brother did. Surprisingly for us, he knows how to handle his mind brilliantly and use the right words to make the judge merciful.
 
 With that same serenity of mind, Jesus conducted himself in relation to his family in Nazareth. The exaltation of spirits did not cloud his mind and he knew how to be patient, waiting for the emotions to calm down before having a long conversation with his brother, once at home. As fathers or mothers, we can put ourselves in Jesus' shoes and admire his integrity in the face of this serious problem with his brother/son Judas. He knew how to wait up to three weeks so that Judah's mind could understand and comprehend the seriousness of his behavior, so that he could really hear what Jesus wanted to communicate to him:
 
-> Jesus did not tell the family about his young brother’s arrest at Jerusalem, but he had a long talk with Jude about this episode some three weeks after their return. After this talk with Jesus Jude himself told the family. He never forgot the patience and forbearance his brother-father manifested throughout the whole of this trying experience. (<a id="a75_349"></a>[UB 128:6.8](/en/The_Urantia_Book/128#p6_8))
+> Jesus did not tell the family about his young brother’s arrest at Jerusalem, but he had a long talk with Jude about this episode some three weeks after their return. After this talk with Jesus Jude himself told the family. He never forgot the patience and forbearance his brother-father manifested throughout the whole of this trying experience. (<a id="a76_349"></a>[UB 128:6.8](/en/The_Urantia_Book/128#p6_8))
 
 What admirable use of mind and language we find in this family episode, where two ways of acting in life are very clearly opposed. On the one hand, we see the damage that acting can cause us when we cannot reason because our mind is flooded by uncontrollable emotions, when our “cerebral amygdala” is directing our behavior. On the contrary, we see how a serious problem can be solved when we act with a serene spirit and dialogue, when our mind is flooded with peace and patience, like the mind of that young Jesus of Nazareth. A mind consecrated to doing the will of the Father, a mind focused on its Center.
 
@@ -86,7 +86,7 @@ Let's see another very curious and striking passage. Another passage where overf
 > 
 > When Amos recognized Jesus, he fell down at his feet and exclaimed: “I know you, Jesus, but I am possessed of many devils, and I beseech that you will not torment me.” This man truly believed that his periodic mental affliction was due to the fact that, at such times, evil or unclean spirits entered into him and dominated his mind and body. His troubles were mostly emotional—his brain was not grossly diseased.
 > 
-> Jesus, looking down upon the man crouching like an animal at his feet, reached down and, taking him by the hand, stood him up and said to him: “Amos, you are not possessed of a devil; you have already heard the good news that you are a son of God. I command you to come out of this spell.” And when Amos heard Jesus speak these words, there occurred such a transformation in his intellect that he was immediately restored to his right mind and the normal control of his emotions. (<a id="a87_483"></a>[UB 151:6.2-5](/en/The_Urantia_Book/151#p6_2))
+> Jesus, looking down upon the man crouching like an animal at his feet, reached down and, taking him by the hand, stood him up and said to him: “Amos, you are not possessed of a devil; you have already heard the good news that you are a son of God. I command you to come out of this spell.” And when Amos heard Jesus speak these words, there occurred such a transformation in his intellect that he was immediately restored to his right mind and the normal control of his emotions. (<a id="a88_483"></a>[UB 151:6.2-5](/en/The_Urantia_Book/151#p6_2))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-2.jpg" alt="Editorial nov 2022-2">
@@ -112,7 +112,7 @@ And where disease and overflow abound, it is reasonable to wonder if it is socie
 
 “I was brainless, pure emotion, and this man has brought me back to my senses.” That was more or less what that furious madman said when he recounted his recovery. “I was down and he pulled me out of the hole. I was dumped in a ditch and it put me back on the road. He lived in the most absolute disorder and with his words he returned me to myself ».
 
-> Said Jesus to Amos: “Forget not that you are a son of God. Return to your own people and show them what great things God has done for you.” (<a id="a113_143"></a>[UB 151:6.8](/en/The_Urantia_Book/151#p6_8))
+> Said Jesus to Amos: “Forget not that you are a son of God. Return to your own people and show them what great things God has done for you.” (<a id="a114_143"></a>[UB 151:6.8](/en/The_Urantia_Book/151#p6_8))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-3.jpg" alt="Editorial nov 2022-3">
@@ -120,11 +120,11 @@ And where disease and overflow abound, it is reasonable to wonder if it is socie
 
 That Man who restored a poor lunatic to sanity in Queresa, that Man exists. That Man is by our side, willing to help us, to help us bring out our best version, to follow his example of mind-emotion balance in our daily lives. To live like a beautiful compass, focused on our Being.
 
-> Are we willing to be born again? to be remade? Are we willing to be subject to this terrible and testing process of self-destruction and soul reconstruction? Has not the Master said: “Whoso would save his life must lose it. Think not that I have come to bring peace but rather a soul struggle”? (<a id="a121_298"></a>[UB 160:5.10](/en/The_Urantia_Book/160#p5_10))
+> Are we willing to be born again? to be remade? Are we willing to be subject to this terrible and testing process of self-destruction and soul reconstruction? Has not the Master said: “Whoso would save his life must lose it. Think not that I have come to bring peace but rather a soul struggle”? (<a id="a122_298"></a>[UB 160:5.10](/en/The_Urantia_Book/160#p5_10))
 
 Nobody said that life was easy, but here we are... and we are accompanied by the best Travel Companion.
 
-> True, after we pay the price of dedication to the Father’s will, we do experience great peace provided we continue to walk in these spiritual paths of consecrated living. (<a id="a125_174"></a>[UB 160:5.10](/en/The_Urantia_Book/160#p5_10))
+> True, after we pay the price of dedication to the Father’s will, we do experience great peace provided we continue to walk in these spiritual paths of consecrated living. (<a id="a126_174"></a>[UB 160:5.10](/en/The_Urantia_Book/160#p5_10))
 
 ## References
 

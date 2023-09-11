@@ -36,9 +36,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-In this second installment of “Convergences and Divergences” we will address a curiously controversial topic. In Document 36, “The Life Carriers”, section 2, **THE WORLDS OF THE LIFE CARRIERS**, <a id="a37_195"></a>[UB 36:2](/en/The_Urantia_Book/36#p2), we can read, and I copy literally:
+In this second installment of “Convergences and Divergences” we will address a curiously controversial topic. In Document 36, “The Life Carriers”, section 2, **THE WORLDS OF THE LIFE CARRIERS**, <a id="a38_195"></a>[UB 36:2](/en/The_Urantia_Book/36#p2), we can read, and I copy literally:
 
-> _. . .There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control—trait determiners—in the sex cells of human reproduction._ (<a id="a39_426"></a>[UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
+> _. . .There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control—trait determiners—in the sex cells of human reproduction._ (<a id="a40_426"></a>[UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
 
 From reading this text, the first thing that comes to mind is that the Revelators (in this case a Vorondadek Son) are alluding to what today we commonly call “chromosomes”... or don't you think so?
 

@@ -82,7 +82,7 @@ This group of scientists is almost always made up of a minority of minorities, t
 
 These scientists are destined to build a false and atheistic science, without God and without wisdom.
 
-About Stephen Hawking, one day he affirms the existence of a Creator and the next day he doubts or denies the existence of God at the origin of everything. I think the poor man is in a mess. "_1. A display of specialized skill does not signify possession of spiritual capacity. Cleverness is not a substitute for true character._» (28 statements of human philosophy, <a id="a83_367"></a>[UB 48:7.3](/en/The_Urantia_Book/48#p7_3))
+About Stephen Hawking, one day he affirms the existence of a Creator and the next day he doubts or denies the existence of God at the origin of everything. I think the poor man is in a mess. "_1. A display of specialized skill does not signify possession of spiritual capacity. Cleverness is not a substitute for true character._» (28 statements of human philosophy, <a id="a84_367"></a>[UB 48:7.3](/en/The_Urantia_Book/48#p7_3))
 
 I don't know how old Stephen Hawking is, but he will soon realize the true reality of the universe.
 
@@ -146,9 +146,9 @@ This idea is repugnant to my intelligence, perhaps for only one reason, which I 
 
 It seems much more plausible to me that an Intelligence without a cause invents and creates the universe, than that the universe arises spontaneously (I don't know where) and subsequently creates intelligence.
 
-As the UB says: _Science persists in the assumption that man’s intellectual and philosophic endowments emerged from increasingly lesser intelligences the further back they go, finally taking origin in primitive life which was utterly devoid of all thinking and feeling._ (<a id="a147_272"></a>[UB 102:6.8](/en/The_Urantia_Book/102#p6_8))
+As the UB says: _Science persists in the assumption that man’s intellectual and philosophic endowments emerged from increasingly lesser intelligences the further back they go, finally taking origin in primitive life which was utterly devoid of all thinking and feeling._ (<a id="a148_272"></a>[UB 102:6.8](/en/The_Urantia_Book/102#p6_8))
 
-_Scientific materialism attributes what is admittedly higher back into that which is admittedly lower._ (<a id="a149_105"></a>[UB 102:6.9](/en/The_Urantia_Book/102#p6_9)).
+_Scientific materialism attributes what is admittedly higher back into that which is admittedly lower._ (<a id="a150_105"></a>[UB 102:6.9](/en/The_Urantia_Book/102#p6_9)).
 
 As it seems that this debate has ended in a table, allow me (to continue clicking) to try to approach it from another angle:
 
@@ -200,15 +200,15 @@ I know perfectly well that you may have your opinions and disagreements on these
 
 We all know that there are atheists or indifferent people who are magnificent people and are looking for the answers and the truth in their lives, and the same is Science and scientists. The honest scientist does not have to believe in God, he can do great good for society with his discoveries as long as he uses them for good.
 
-Instead of giving you another sermon, I invite you to read these pages in the book on science, religion and secularism: “MATERIALISM - THE VULNERABILITY OF MATERIALISM” <a id="a201_169"></a>[UB 195:6.1](/en/The_Urantia_Book/195#p6_1) to <a id="a201_216"></a>[UB 195:7.23](/en/The_Urantia_Book/195#p7_23). I think these 3 points that I have shared with you clarify a lot.
+Instead of giving you another sermon, I invite you to read these pages in the book on science, religion and secularism: “MATERIALISM - THE VULNERABILITY OF MATERIALISM” <a id="a202_169"></a>[UB 195:6.1](/en/The_Urantia_Book/195#p6_1) to <a id="a202_216"></a>[UB 195:7.23](/en/The_Urantia_Book/195#p7_23). I think these 3 points that I have shared with you clarify a lot.
 
 These two passages particularly stand out to me:
 
-> “_Paradise values of eternity and infinity, of truth, beauty, and goodness, are concealed within the facts of the phenomena of the universes of time and space. But it requires the eye of faith in a spirit-born mortal to detect and discern these spiritual values._” (<a id="a205_268"></a>[UB 195:7.4](/en/The_Urantia_Book/195#p7_4))
+> “_Paradise values of eternity and infinity, of truth, beauty, and goodness, are concealed within the facts of the phenomena of the universes of time and space. But it requires the eye of faith in a spirit-born mortal to detect and discern these spiritual values._” (<a id="a206_268"></a>[UB 195:7.4](/en/The_Urantia_Book/195#p7_4))
 
-> _Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the *scientist.*_ (<a id="a207_128"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
+> _Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the *scientist.*_ (<a id="a208_128"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
 
-> “_Twentieth-century secularism tends to affirm that man does not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster._” <a id="a209_212"></a>[UB 195:8.5](/en/The_Urantia_Book/195#p8_5) “_The great mistake of secularism was this: In revolting against the almost total control of life by religious authority, and after attaining the liberation from such ecclesiastical tyranny, the secularists went on to institute a revolt against God himself, sometimes tacitly and sometimes openly. It is not necessary to sacrifice faith in God to enjoy the blessings of modern secular uprising. . ._” (<a id="a209_658"></a>[UB 195:8.6](/en/The_Urantia_Book/195#p8_6))
+> “_Twentieth-century secularism tends to affirm that man does not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster._” <a id="a210_212"></a>[UB 195:8.5](/en/The_Urantia_Book/195#p8_5) “_The great mistake of secularism was this: In revolting against the almost total control of life by religious authority, and after attaining the liberation from such ecclesiastical tyranny, the secularists went on to institute a revolt against God himself, sometimes tacitly and sometimes openly. It is not necessary to sacrifice faith in God to enjoy the blessings of modern secular uprising. . ._” (<a id="a210_658"></a>[UB 195:8.6](/en/The_Urantia_Book/195#p8_6))
 
 ## Carmelo
 
@@ -216,7 +216,7 @@ In the end I will not be so in disagreement with Luis.
 
 I am copying several paragraphs from paper 195, which are relevant and can clarify some ideas for us.
 
-<a id="a217_0"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3):
+<a id="a218_0"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3):
 
 > _Religion is the revelation to man of his divine and eternal destiny. Religion is a purely personal and spiritual experience and must forever be distinguished from man’s other high forms of thought, such as:_
 > 
@@ -226,21 +226,21 @@ I am copying several paragraphs from paper 195, which are relevant and can clari
 > 
 > _3. Man’s ethical recognition of social obligations and political duty._
 > 
-> _4. Even man’s sense of human morality is not, in and of itself, religious._ (<a id="a227_80"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3))
+> _4. Even man’s sense of human morality is not, in and of itself, religious._ (<a id="a228_80"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3))
 
-<a id="a229_0"></a>[UB 195:6.1](/en/The_Urantia_Book/195#p6_1) in the materialism section:
+<a id="a230_0"></a>[UB 195:6.1](/en/The_Urantia_Book/195#p6_1) in the materialism section:
 
-> _Scientists have unintentionally precipitated mankind into a materialistic panic; they have started an unthinking run on the moral bank of the ages, but this bank of human experience has vast spiritual resources; it can stand the demands being made upon it. Only unthinking men become panicky about the spiritual assets of the human race. When the materialistic-secular panic is over, the religion of Jesus will not be found bankrupt. The spiritual bank of the kingdom of heaven will be paying out faith, hope, and moral security to all who draw upon it “in His name.”_. <a id="a231_573"></a>[UB 195:6.1](/en/The_Urantia_Book/195#p6_1)
+> _Scientists have unintentionally precipitated mankind into a materialistic panic; they have started an unthinking run on the moral bank of the ages, but this bank of human experience has vast spiritual resources; it can stand the demands being made upon it. Only unthinking men become panicky about the spiritual assets of the human race. When the materialistic-secular panic is over, the religion of Jesus will not be found bankrupt. The spiritual bank of the kingdom of heaven will be paying out faith, hope, and moral security to all who draw upon it “in His name.”_. <a id="a232_573"></a>[UB 195:6.1](/en/The_Urantia_Book/195#p6_1)
 
-> _No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph. In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the *scientist.*_ (<a id="a233_446"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
+> _No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph. In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the *scientist.*_ (<a id="a234_446"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
 
 And an optimistic touch at the bottom of that page:
 
-> “_At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life._” (<a id="a237_631"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
+> “_At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life._” (<a id="a238_631"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
 
 And you can continue reading because what follows is not wasted either. For example, this hard-hitting paragraph at the bottom of page 2077:
 
-> “_To say that mind “emerged” from matter explains nothing. If the universe were merely a mechanism and mind were unapart from matter, we would never have two differing interpretations of any observed phenomenon. The concepts of truth, beauty, and goodness are not inherent in either physics or chemistry. A machine cannot *know,* much less know truth, hunger for righteousness, and cherish goodness._” (<a id="a241_405"></a>[UB 195:6.11](/en/The_Urantia_Book/195#p6_11))
+> “_To say that mind “emerged” from matter explains nothing. If the universe were merely a mechanism and mind were unapart from matter, we would never have two differing interpretations of any observed phenomenon. The concepts of truth, beauty, and goodness are not inherent in either physics or chemistry. A machine cannot *know,* much less know truth, hunger for righteousness, and cherish goodness._” (<a id="a242_405"></a>[UB 195:6.11](/en/The_Urantia_Book/195#p6_11))
 
 ## References
 

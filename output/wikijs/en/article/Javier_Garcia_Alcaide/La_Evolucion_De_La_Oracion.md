@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Introduction by Javier García-Alcaide
 
-The introduction focused on chapters 8 (<a id="a40_40"></a>[La oración como experiencia personal](/en/The_Urantia_Book/91#p8)) and 9 (<a id="a40_115"></a>[Condiciones para que la oración sea eficaz](/en/The_Urantia_Book/91#p9)) of paper 91. These are the chapters that best summarize the characteristics of the sentence.
+The introduction focused on chapters 8 (<a id="a41_40"></a>[La oración como experiencia personal](/en/The_Urantia_Book/91#p8)) and 9 (<a id="a41_115"></a>[Condiciones para que la oración sea eficaz](/en/The_Urantia_Book/91#p9)) of paper 91. These are the chapters that best summarize the characteristics of the sentence.
 
 Prayer can take multiple forms, but if it is true it will always be an act of communion with the Creator.
 

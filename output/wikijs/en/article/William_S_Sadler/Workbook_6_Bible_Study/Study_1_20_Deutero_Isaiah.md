@@ -192,8 +192,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## VII. Deutero-Isaiah in The Urantia Book
 
-1. The following passages appear in Third Isaiah, but according to the Urantia Book [UB 97:7.11](/en/The_Urantia_Book/97#p7_11)) were written by Second Isaiah: [57:15](/en/Bible/Isaiah/57#v15). [66:1](/en/Bible/Isaiah/66#v1). [58:11](/en/Bible/Isaiah/58#v11).
-2. Quotations in the Urantia Book, p. [UB 97:7.5](/en/The_Urantia_Book/97#p7_5): [40:15](/en/Bible/Isaiah/40#v15). [55:9](/en/Bible/Isaiah/55#v9). [45:18](/en/Bible/Isaiah/45#v18). [44:6](/en/Bible/Isaiah/44#v6). [51:6](/en/Bible/Isaiah/51#v6). [41:10](/en/Bible/Isaiah/41#v10). [45:21](/en/Bible/Isaiah/45#v21). [43:1](/en/Bible/Isaiah/43#v1). [43:2](/en/Bible/Isaiah/43#v2). [49:15,16](/en/Bible/Isaiah/49#v15). [55:7](/en/Bible/Isaiah/55#v7). [40:11](/en/Bible/Isaiah/40#v11). [40:29-31](/en/Bible/Isaiah/40#v29). [57:15](/en/Bible/Isaiah/57#v15). [44:6](/en/Bible/Isaiah/44#v6). [50:2](/en/Bible/Isaiah/50#v2). [42:16](/en/Bible/Isaiah/42#v16). [43:7](/en/Bible/Isaiah/43#v7). [43:25](/en/Bible/Isaiah/43#v25). [66:1](/en/Bible/Isaiah/66#v1). [57:15](/en/Bible/Isaiah/57#v15). [58:11](/en/Bible/Isaiah/58#v11). [59:19](/en/Bible/Isaiah/59#v19).
+1. The following passages appear in Third Isaiah, but according to the Urantia Book <a id="s194_84"></a>[UB 97:7.11](/en/The_Urantia_Book/97#p7_11)) were written by Second Isaiah: [57:15](/en/Bible/Isaiah/57#v15). [66:1](/en/Bible/Isaiah/66#v1). [58:11](/en/Bible/Isaiah/58#v11).
+2. Quotations in the Urantia Book, p. <a id="s195_38"></a>[UB 97:7.5](/en/The_Urantia_Book/97#p7_5): [40:15](/en/Bible/Isaiah/40#v15). [55:9](/en/Bible/Isaiah/55#v9). [45:18](/en/Bible/Isaiah/45#v18). [44:6](/en/Bible/Isaiah/44#v6). [51:6](/en/Bible/Isaiah/51#v6). [41:10](/en/Bible/Isaiah/41#v10). [45:21](/en/Bible/Isaiah/45#v21). [43:1](/en/Bible/Isaiah/43#v1). [43:2](/en/Bible/Isaiah/43#v2). [49:15,16](/en/Bible/Isaiah/49#v15). [55:7](/en/Bible/Isaiah/55#v7). [40:11](/en/Bible/Isaiah/40#v11). [40:29-31](/en/Bible/Isaiah/40#v29). [57:15](/en/Bible/Isaiah/57#v15). [44:6](/en/Bible/Isaiah/44#v6). [50:2](/en/Bible/Isaiah/50#v2). [42:16](/en/Bible/Isaiah/42#v16). [43:7](/en/Bible/Isaiah/43#v7). [43:25](/en/Bible/Isaiah/43#v25). [66:1](/en/Bible/Isaiah/66#v1). [57:15](/en/Bible/Isaiah/57#v15). [58:11](/en/Bible/Isaiah/58#v11). [59:19](/en/Bible/Isaiah/59#v19).
 
 ## VIII. The Third Isaiah
 
@@ -201,7 +201,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. Chapters 56-66 were produced after the exile.
 3. This third group of writings was added to Isaiah by his followers, and also because they were written in verse-poetic.
 4. Jesus uses passages from Third Isaiah about his gospel message. [Luke 4:18-21](/en/Bible/Luke/4#v18). ([Isa. 61:1,2](/en/Bible/Isaiah/61#v1))
-5. Many sayings of the first Isaiah are found in Third Isaiah. (Some examples are found on [UB 97:5.2](/en/The_Urantia_Book/97#p5_2) of the Urantia Book.)
+5. Many sayings of the first Isaiah are found in Third Isaiah. (Some examples are found on <a id="s203_91"></a>[UB 97:5.2](/en/The_Urantia_Book/97#p5_2) of the Urantia Book.)
 6. There were several authors of Third Isaiah, as shown by inconsistencies and contradictions.
 7. Third Isaiah talks about the "new age"-new heavens and the new earth.
 8. Third Isaiah sounds much like the writings of Haggai and Zechariah.

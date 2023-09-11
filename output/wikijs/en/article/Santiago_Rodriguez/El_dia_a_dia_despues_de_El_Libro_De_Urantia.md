@@ -73,7 +73,7 @@ One day, Zoilo ran into the UB, read it... and here we are. We are any Zoilo.
 
 Do you think Zoilo's life could or should change? How? Or, on the contrary, the only thing that can happen to Zoilo is that he will treasure new knowledge and continue with his life as before? In fact, he was already “good” before the UB reading. Maybe you don't need anything else. Now you know many more things than before reading it, you have answered many of your existential questions and you could communicate what you have learned to other people and do it with enthusiasm. It is wonderful to have answers (and to be able to share them with other human beings): What is the destiny that awaits us? What meaning does our existence have? Where we come from? How can we face the setbacks that existence of one kind or another can bring us? What to expect and what not from our Creator? What to expect from our peers, from the institutions? Why is the universe so big? Is there life after dead? Do angels exist and what are they like? Does Satan exist? does Heaven and Hell exist? Are we more than what we see? What are we made of?
 
-We have even been able to obtain an answer to the way of behaving in situations that we could consider to be of high emotional intensity, because in fact they explain to us why it is interesting and in a certain way inevitable to experience them; remember the section on inevitabilities (<a id="a74_288"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5)).
+We have even been able to obtain an answer to the way of behaving in situations that we could consider to be of high emotional intensity, because in fact they explain to us why it is interesting and in a certain way inevitable to experience them; remember the section on inevitabilities (<a id="a75_288"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5)).
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV30/09.jpg">
@@ -99,7 +99,7 @@ While it may be interesting and inspiring to try to practice this process, it is
 
 But this situation does not leave me entirely satisfied. It is true that it seems that we have resolved a specific situation, but I still need to find a course of action. I believe that, although the fact of achieving one or the other objective is interesting, it must also be equally or more interesting to find, guess or intuit a line of action that serves as a guide for my daily activity. In fact, we cannot spend the day questioning ourselves at every moment as if it were a vital decision.
 
-The UB should provide me with information about it... and indeed it expresses it to me literally at least 11 times in 9 different documents, expressly including it in the prayer that Jesus gave to his brothers in Nazareth (<a id="a100_223"></a>[UB 144:3.1-12](/en/The_Urantia_Book/144#p3_1)).
+The UB should provide me with information about it... and indeed it expresses it to me literally at least 11 times in 9 different documents, expressly including it in the prayer that Jesus gave to his brothers in Nazareth (<a id="a101_223"></a>[UB 144:3.1-12](/en/The_Urantia_Book/144#p3_1)).
 
 There is a universal plan for the ascension of creatures and, based on this plan, the Father promulgated the universal mandate: “_Be perfect, just as I am perfect_”. This expresses his will towards us. Given this mandate, the matter of translating this into our daily lives remains in our hands.
 
@@ -113,7 +113,7 @@ On the other hand, the Father wants us to live with joy. The obligation to grow 
 
 Let us recall another passage from the UB in which we are explicitly told that, upon our arrival as pilgrims in Havona, we will only arrive with a perfection dowry, something that I personally interpret as requiring us to have achieved perfection in one of the facets, and the perfection expected of us is “perfection of purpose”:
 
-> _When, through and by the ministry of all the helper hosts of the universal scheme of survival, you are finally deposited on the receiving world of Havona, you arrive with only one sort of perfection *— perfection of purpose.*._ (<a id="a114_232"></a>[UB 26:4.13](/en/The_Urantia_Book/26#p4_13))
+> _When, through and by the ministry of all the helper hosts of the universal scheme of survival, you are finally deposited on the receiving world of Havona, you arrive with only one sort of perfection *— perfection of purpose.*._ (<a id="a115_232"></a>[UB 26:4.13](/en/The_Urantia_Book/26#p4_13))
 
 If we take into account our racial origin, that we are little more than animals, our immediate path is clear: we must progressively “de-animalize” ourselves, and here in our world and in our current lives. If we are capable of marking the differences with the rest of the mammals, it will be part of our obligation to increase those differences both qualitatively and quantitatively.
 
@@ -148,7 +148,7 @@ What I think can differentiate Zoilo, before and after reading the UB, is to bec
 
 1. Its origin and destination.
 2. Of the existence of the Universal Father, to know his relationship with us and what He expects of us: to do His Will. This statement, valid for any creature from any place and at any time of its existence, means in our case accepting the evolutionary path with an eye toward perfecting ourselves. For this we are exhorted not to look for shortcuts; we have to give time to time. In fact, in an entire universal age we are only going to be asked for “perfection of purpose.”
-3. We must avoid the Caligastia error (<a id="a149_39"></a>[UB 136:8.5](/en/The_Urantia_Book/136#p8_5)). Let us not forget that these changes must be without violence. We have to maintain an adequate speed and remember that, on the path of evolutionary perfection, there are no shortcuts.
+3. We must avoid the Caligastia error (<a id="a150_39"></a>[UB 136:8.5](/en/The_Urantia_Book/136#p8_5)). Let us not forget that these changes must be without violence. We have to maintain an adequate speed and remember that, on the path of evolutionary perfection, there are no shortcuts.
 4. Knowing that this is what the Father wants, Zoilo wants it because he believes it is appropriate and because he voluntarily decides that, if it is the Father's will, it is enough to accept it.
 
 The way to approach it on a day-to-day basis is to be attentive to our emotions and feelings (moods), observe them to understand them, differentiate those that come from the automatic rapid response, evaluate them and try to leave in our selective memory the appropriate way of response to these stimuli, to try to adapt them to our personal program of “discouragement”. Equally and even more so in the situation of deferred response due to reflective thought.

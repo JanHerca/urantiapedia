@@ -84,7 +84,7 @@ Serve this personal reflection that we propose from our monthly bulletin to focu
 There are hundreds of works that dissect _The Urantia Book_ in multiple details. In this monthly newsletter of Urantia Association we are going to show you many of them, but none of this would make sense if you, dear reader who read these lines, do not encourage you to connect with who nourishes us and makes our existence possible. , just as Jesus of Nazareth lived his existence:
 
 
-> “In the very face of all the natural difficulties and the temporal contradictions of mortal existence, he experienced the tranquillity of supreme and unquestioned trust in God and felt the tremendous thrill of living, by faith, in the very presence of the heavenly Father.” (<a id="a85_277"></a>[UB 196:0.3](/en/The_Urantia_Book/196#p0_3))
+> “In the very face of all the natural difficulties and the temporal contradictions of mortal existence, he experienced the tranquillity of supreme and unquestioned trust in God and felt the tremendous thrill of living, by faith, in the very presence of the heavenly Father.” (<a id="a86_277"></a>[UB 196:0.3](/en/The_Urantia_Book/196#p0_3))
 
 Cheer up, then, on this journey of life and in which we want to accompany you with our newsletter. Discover the small treasures that we offer you and that we hope will allow you to discover the wonders of the divine plan in our universe: from discovering unprecedented aspects of the Sun, characteristics of planetary life in another inhabited world, beautiful books or an original video on the origin of _El Urantia Book_.
 

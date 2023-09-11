@@ -68,7 +68,7 @@ He has qualities to make us understand that science helps, religion unites and p
 
 Let us not be ashamed to recognize his power and his worth, let us gladly accept that he can transmit his divinity to us throughout our journey with him. in which we have to make decisions with some responsibility. Let us go to Him thanking Him for our good situations and asking Him for forgiveness for the mistakes made. Let us deposit our affairs in Him so that, with His magnificence, He establishes them in the corresponding order.
 
-> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a69_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a70_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
 From here and now, we are ready to position ourselves at the starting line. We are ready to start the most important and transcendent career of our life, besides possibly being the only one, because there may not be an opportunity, at least in this life and in this world.
 

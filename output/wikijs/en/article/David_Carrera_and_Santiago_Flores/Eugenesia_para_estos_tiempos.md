@@ -217,7 +217,7 @@ Although a healthy mind positively affects the health of the individual, the ove
 <img src="/image/article/Luz_y_Vida/LyV43/07.jpg">
 </figure>
 
-The material being contains three levels of existence (some of its own, others generously provided by the Deity): matter, whose state of equilibrium we call 'health'; the mind, whose balance we call ‘sanity’ and the spirit whose balance we call ‘happiness’. (<a id="a218_259"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3) and <a id="a218_307"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11))
+The material being contains three levels of existence (some of its own, others generously provided by the Deity): matter, whose state of equilibrium we call 'health'; the mind, whose balance we call ‘sanity’ and the spirit whose balance we call ‘happiness’. (<a id="a219_259"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3) and <a id="a219_307"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11))
 
 A normal, healthy mind, motivated by spirit, does much to prevent or correct psychosomatic ailments, but can only provide a solid stoicism in the face of exclusively physical illnesses or ailments.
 
@@ -229,7 +229,7 @@ Eugenics does not necessarily imply genetic manipulation. Well-understood eugeni
 
 Finally, I also want to bring up a paragraph from _The Urantia Book_:
 
-> _From a world standpoint, overpopulation has never been a serious problem in the past, but if war is lessened and science increasingly controls human diseases, it may become a serious problem in the near future. At such a time the great test of the wisdom of world leadership will present itself. ***Will Urantia rulers have the insight and courage to foster the multiplication of the average or stabilized human being instead of the extremes of the supernormal and the enormously increasing groups of the subnormal? The normal man should be fostered; he is the backbone of civilization and the source of the mutant geniuses of the race. The subnormal man should be kept under society’s control; no more should be produced than are required to administer the lower levels of industry, those tasks requiring intelligence above the animal level but making such low-grade demands as to prove veritable slavery and bondage for the higher types of mankind***._ (<a id="a230_959"></a>[UB 68:6.11](/en/The_Urantia_Book/68#p6_11))
+> _From a world standpoint, overpopulation has never been a serious problem in the past, but if war is lessened and science increasingly controls human diseases, it may become a serious problem in the near future. At such a time the great test of the wisdom of world leadership will present itself. ***Will Urantia rulers have the insight and courage to foster the multiplication of the average or stabilized human being instead of the extremes of the supernormal and the enormously increasing groups of the subnormal? The normal man should be fostered; he is the backbone of civilization and the source of the mutant geniuses of the race. The subnormal man should be kept under society’s control; no more should be produced than are required to administer the lower levels of industry, those tasks requiring intelligence above the animal level but making such low-grade demands as to prove veritable slavery and bondage for the higher types of mankind***._ (<a id="a231_959"></a>[UB 68:6.11](/en/The_Urantia_Book/68#p6_11))
 
 Hugs
 

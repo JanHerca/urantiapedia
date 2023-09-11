@@ -52,7 +52,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Authorship
 
-1. Luke wrote the book of Acts, probably at Rome, about A.D. 90. He died just before finishing Acts. (See Urantia Book [UB 121:8.8](/en/The_Urantia_Book/121#p8_8).)
+1. Luke wrote the book of Acts, probably at Rome, about A.D. 90. He died just before finishing Acts. (See Urantia Book <a id="s54_119"></a>[UB 121:8.8](/en/The_Urantia_Book/121#p8_8).)
 2. Luke was from Antioch of Pisidia.
 3. He was a companion of Paul for several years-his private physician.
 4. Paul refers to Luke as one of his fellow workers. Philemon v. 24.

@@ -286,7 +286,7 @@ It was a nice finale to the conference. The evening ended late at night, but it 
 
 Very soon we will put on our website multimedia material related to the international conference, as well as the text of the presentations. Periodically visit our website, http://www.urantia.es
 
-> “everything in your mental life which was worth while, and which had survival value, was counterparted by the Adjuster and is retained as a part of personal memory all the way through the ascendant career. You will be conscious of all your worth-while experiences as you advance from one mansion world to another and from one section of the universe to another—even to Paradise.” (<a id="a287_383"></a>[UB 47:4.5](/en/The_Urantia_Book/47#p4_5))
+> “everything in your mental life which was worth while, and which had survival value, was counterparted by the Adjuster and is retained as a part of personal memory all the way through the ascendant career. You will be conscious of all your worth-while experiences as you advance from one mansion world to another and from one section of the universe to another—even to Paradise.” (<a id="a288_383"></a>[UB 47:4.5](/en/The_Urantia_Book/47#p4_5))
 
 ## References
 

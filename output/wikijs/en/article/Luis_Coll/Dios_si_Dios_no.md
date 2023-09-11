@@ -42,7 +42,7 @@ Regardless of what people want to think about God, the free will and free choice
 
 But this Infinite Creator will always remain the most loving of all friendships and the most divine of all values.
 
-> _Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences._ (<a id="a43_248"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
+> _Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences._ (<a id="a44_248"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV38/05.jpg">

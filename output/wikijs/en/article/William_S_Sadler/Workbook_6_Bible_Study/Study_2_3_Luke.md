@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- The good Samaritan.
 	- First aid.
 	- Prayer miracles.
-7. Luke had Matthew (Isador), Mark, and Q (Andrew's notes). About one-third comes from Mark. Along with Matthew he derives much from Q (252 verses), but almost half of Luke is original. He also had Paul's story and a brief record made in A.D. 78 at Antioch by one Cedes. See Urantia Book, [UB 121:8.8](/en/The_Urantia_Book/121#p8_8).
+7. Luke had Matthew (Isador), Mark, and Q (Andrew's notes). About one-third comes from Mark. Along with Matthew he derives much from Q (252 verses), but almost half of Luke is original. He also had Paul's story and a brief record made in A.D. 78 at Antioch by one Cedes. See Urantia Book, <a id="s103_289"></a>[UB 121:8.8](/en/The_Urantia_Book/121#p8_8).
 8. Apparently Luke got many verses from the Cedes manuscript; this document paid special attention to women.
 9. The Cedes book was rich in parables: notably, good Samaritan, rich fool, rich man and Lazarus, and the Pharisee and tax collector.
 10. Some things in Mark which Luke disregards:
@@ -132,7 +132,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- **Mark**: "And at even, when the sun did set." [Mark 1:32](/en/Bible/Mark/1#v32). (King James Version)
 	- **Luke**: "Now when the sun was setting." [Luke 4:40](/en/Bible/Luke/4#v40). (King James Version)
 15. It was never intended that the book of Acts should be separated from Luke.
-16. Luke wrote in A.D. 82 at Achaia. He planned to write three books on Christianity, but he died in A.D. 90 just before finishing Acts. Urantia Book, [UB 121:8.8](/en/The_Urantia_Book/121#p8_8).
+16. Luke wrote in A.D. 82 at Achaia. He planned to write three books on Christianity, but he died in A.D. 90 just before finishing Acts. Urantia Book, <a id="s134_151"></a>[UB 121:8.8](/en/The_Urantia_Book/121#p8_8).
 17. In a general way, Luke may be said to be the Gospel according to Paul.
 
 ## IV. History and Tradition in Luke

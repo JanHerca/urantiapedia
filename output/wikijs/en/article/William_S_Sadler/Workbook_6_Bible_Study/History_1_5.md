@@ -33,8 +33,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- a. Alexandrian. Philo. The allegorical method. The Hellenistic. Later on, the Stoic.
 	- b. The traditional or literal Jewish method. The “chosen people.”
 4. While in general accepting the Old Testament, Jesus dared to criticize it. He said he came to fulfill—not to destroy the Scriptures.
-5. In the Urantia Book, see Jesus’ talk with Nathaniel, [UB 159:4.1](/en/The_Urantia_Book/159#p4_1)
-6. Jesus makes new interpretations of Scripture in his so-called “Sermon on the Mount.” [UB 140:4.1](/en/The_Urantia_Book/140#p4_1)
+5. In the Urantia Book, see Jesus’ talk with Nathaniel, <a id="s35_56"></a>[UB 159:4.1](/en/The_Urantia_Book/159#p4_1)
+6. Jesus makes new interpretations of Scripture in his so-called “Sermon on the Mount.” <a id="s36_88"></a>[UB 140:4.1](/en/The_Urantia_Book/140#p4_1)
 7. The book of Hebrews is a new interpretation of much Old Testament teaching.
 8. Early doctrines of the LAW and GRACE.
 

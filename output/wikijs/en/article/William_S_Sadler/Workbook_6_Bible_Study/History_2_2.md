@@ -55,7 +55,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. We should remember that the actual events recorded of the Patriarchs were vastly more complex than the Bible narratives.
 7. The Patriarchs were not altogether peaceful. Note - the assault of Simeon and Levi upon Shechem. Gen. Chap. 34. Jacob seizes land near Shechem. Abraham’s battles with Chedorlaomer.
 8. The religion of the Patriarchs is not well defined. Moses is probably the father of Hebrew religion.
-9. See the Urantia Book for account of Abraham and Melchizedek. [UB 93:0.1](/en/The_Urantia_Book/93#p0_1)
+9. See the Urantia Book for account of Abraham and Melchizedek. <a id="s57_64"></a>[UB 93:0.1](/en/The_Urantia_Book/93#p0_1)
 10. There is no mention of Yahweh until we come to the times of Moses.
 11. The God of the Patriarchs was Elohim—the Most High.
 

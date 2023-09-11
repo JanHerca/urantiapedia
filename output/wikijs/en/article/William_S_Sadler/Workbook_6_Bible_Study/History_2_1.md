@@ -33,14 +33,14 @@ BEFORE 2000 B.C.
 3. A thousand years later—in the next level—pottery appears. Agriculture and craft specialization are discovered.
 4. By 4000 B.C. colored decorative pottery appears, with human and geometric figures. This pottery is found from the lake of Van- south to Kirkuk.
 5. The first city-states appear. We do not know what language they spoke— there was no writing.
-6. The diggers are, of course, bothered by the mystery of the Sumerians. See Urantia Book, [UB 78:8.1](/en/The_Urantia_Book/78#p8_1)
+6. The diggers are, of course, bothered by the mystery of the Sumerians. See Urantia Book, <a id="s35_91"></a>[UB 78:8.1](/en/The_Urantia_Book/78#p8_1)
 7. They find pottery wheels and the ovens for firing the pottery.
 8. About 3300 B.C. the first writing is discovered. So far, we are unable to read these writings (probably Sumerian).
 9. Aside from the Urantia Book, the [Sumerians](https://en.wikipedia.org/wiki/Sumer) remain the great mystery of all history.
 10. During those times Egypt also enjoyed an advanced culture.
 11. During those times successive waves of “Semites” went forth from Mesopotamia to the north and west.
 
-**NOTE**: The story of the Andite expansion found in the Urantia Book, [UB 80:0.1](/en/The_Urantia_Book/80#p0_1)
+**NOTE**: The story of the Andite expansion found in the Urantia Book, <a id="s42_71"></a>[UB 80:0.1](/en/The_Urantia_Book/80#p0_1)
 
 ## II. The Orient During Third Millennium
 

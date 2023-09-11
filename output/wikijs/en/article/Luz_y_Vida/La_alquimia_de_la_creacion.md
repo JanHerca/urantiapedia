@@ -52,7 +52,7 @@ My opinion is that alchemy contains really powerful knowledge that teaches how t
 
 A rather long preamble; Excuse me if it has been heavy for you, but I found it necessary to continue with my exposition.
 
-Someone once wondered if alchemy was some extraterrestrial superscience. For me the answer is a resounding yes. Reading the Book I have found without looking for it, that is, I have stumbled upon many clues about this science, especially in the descriptions of the different phases of energy-matter, and in the description of the formation of nebulae. Something that I call the alchemy of creation and that fascinates me. The texts that I am going to use are in paper 42, especially in <a id="a53_486"></a>[UB 42:2.8](/en/The_Urantia_Book/42#p2_8) and <a id="a53_532"></a>[UB 42:3.3-12](/en/The_Urantia_Book/42#p3_3) , in paper 57 up to and including page 655 and in the Prologue, <a id="a53_641"></a>[UB 0:6.4-7](/en/The_Urantia_Book/0#p6_4).
+Someone once wondered if alchemy was some extraterrestrial superscience. For me the answer is a resounding yes. Reading the Book I have found without looking for it, that is, I have stumbled upon many clues about this science, especially in the descriptions of the different phases of energy-matter, and in the description of the formation of nebulae. Something that I call the alchemy of creation and that fascinates me. The texts that I am going to use are in paper 42, especially in <a id="a54_486"></a>[UB 42:2.8](/en/The_Urantia_Book/42#p2_8) and <a id="a54_532"></a>[UB 42:3.3-12](/en/The_Urantia_Book/42#p3_3) , in paper 57 up to and including page 655 and in the Prologue, <a id="a54_641"></a>[UB 0:6.4-7](/en/The_Urantia_Book/0#p6_4).
 
 Precisely in this last text, he classifies physical energy into three large groups:
 
@@ -68,7 +68,7 @@ The passage from pre-reality to reality is brought about by the mere presence of
 
 A first characteristic to highlight: The evolution of matter-energy is not “spontaneous”; requires the intervention of the mind. Somewhere in the Book, I don't remember where now, it is said that the spirit through the mind is the one who controls matter.
 
-There are ten different manifestations of power as described in <a id="a69_64"></a>[UB 42:3.3-12](/en/The_Urantia_Book/42#p3_3). I want to focus on six that are, in my opinion, the different stages of construction of the building of matter (the others seem to me to be special or degraded states):
+There are ten different manifestations of power as described in <a id="a70_64"></a>[UB 42:3.3-12](/en/The_Urantia_Book/42#p3_3). I want to focus on six that are, in my opinion, the different stages of construction of the building of matter (the others seem to me to be special or degraded states):
 
 - Ultimatonic matter, the very first manifestation of matter, the unique and essential component of all particles.
 - Subelectronic matter; apparently between the ultimatons and the (today called) fundamental particles there is another prior state.
@@ -87,7 +87,7 @@ And with visibility begins the secondary stage of the nebula that takes the spir
 
 We now move on to the tertiary and quaternary stages, the construction stages, the stages of massive formation of suns and planets, and their dispersal. Matter has completed its creative cycle; Now it is about grouping it forming space bodies, suns and their planets, some prepared to sustain life.
 
-By the way, the paragraphs <a id="a88_27"></a>[UB 57:4.6](/en/The_Urantia_Book/57#p4_6) and <a id="a88_73"></a>[UB 57:4.7](/en/The_Urantia_Book/57#p4_7) are somewhat of a mystery to me. Does the terminal disintegration of a nebula cause the destruction of already inhabited planets? We know that if this happens, all the inhabitants are dematerialized and transferred by seraphic transport to another planet where they are rematerialized.
+By the way, the paragraphs <a id="a89_27"></a>[UB 57:4.6](/en/The_Urantia_Book/57#p4_6) and <a id="a89_73"></a>[UB 57:4.7](/en/The_Urantia_Book/57#p4_7) are somewhat of a mystery to me. Does the terminal disintegration of a nebula cause the destruction of already inhabited planets? We know that if this happens, all the inhabitants are dematerialized and transferred by seraphic transport to another planet where they are rematerialized.
 
 As I said at the beginning, this is a part of the creative process that fascinates me. As with the rest of creative activities, the Father has delegated it to some of his children. And one day it seems that it will also delegate it to us in the worlds of outer space. I suppose that in this delegation there will be parts that have to do with material creation itself, and for that we will have to know “celestial science”, we will have to be alchemists. Is this what the followers discover and amaze them to extremes that are difficult to imagine? What totally transforms them?
 

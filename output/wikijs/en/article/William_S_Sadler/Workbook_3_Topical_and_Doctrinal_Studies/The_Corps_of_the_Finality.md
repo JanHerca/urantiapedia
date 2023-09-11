@@ -33,21 +33,21 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. Corps of Conjoint Trinitized Finaliters.
 	5. Corps of Havona Finaliters.
 	6. Corps of Transcendental Finaliters.
-	7. Corps of Unrevealed Sons of Destiny. [UB 31:10.1](/en/The_Urantia_Book/31#p10_1)
-2. Finaliters are destined to serve in the universes of outer space. [UB 12:2.6](/en/The_Urantia_Book/12#p2_6)
+	7. Corps of Unrevealed Sons of Destiny. <a id="s35_41"></a>[UB 31:10.1](/en/The_Urantia_Book/31#p10_1)
+2. Finaliters are destined to serve in the universes of outer space. <a id="s36_69"></a>[UB 12:2.6](/en/The_Urantia_Book/12#p2_6)
 
 ## II. CORPS OF MORTAL FINALITERS
 
-1. Havona Natives. [UB 31:1.1](/en/The_Urantia_Book/31#p1_1)
-2. Gravity Messengers. [UB 31:2.1](/en/The_Urantia_Book/31#p2_1)
-3. Glorified Mortals. [UB 31:3.3](/en/The_Urantia_Book/31#p3_3)
-4. Adopted Seraphim. [UB 31:4.1](/en/The_Urantia_Book/31#p4_1)
-5. Glorified Material Sons. [UB 31:5.1](/en/The_Urantia_Book/31#p5_1)
-6. Glorified Midway Creatures. [UB 31:6.2](/en/The_Urantia_Book/31#p6_2)
+1. Havona Natives. <a id="s40_19"></a>[UB 31:1.1](/en/The_Urantia_Book/31#p1_1)
+2. Gravity Messengers. <a id="s41_23"></a>[UB 31:2.1](/en/The_Urantia_Book/31#p2_1)
+3. Glorified Mortals. <a id="s42_22"></a>[UB 31:3.3](/en/The_Urantia_Book/31#p3_3)
+4. Adopted Seraphim. <a id="s43_21"></a>[UB 31:4.1](/en/The_Urantia_Book/31#p4_1)
+5. Glorified Material Sons. <a id="s44_28"></a>[UB 31:5.1](/en/The_Urantia_Book/31#p5_1)
+6. Glorified Midway Creatures. <a id="s45_31"></a>[UB 31:6.2](/en/The_Urantia_Book/31#p6_2)
 
 ## III. EVANGELS OF LIGHT
 
-Evangels of Light are the transient seventh members of the Mortal Finality Corps. [UB 31:7.2](/en/The_Urantia_Book/31#p7_2)
+Evangels of Light are the transient seventh members of the Mortal Finality Corps. <a id="s49_82"></a>[UB 31:7.2](/en/The_Urantia_Book/31#p7_2)
 
 
 <br>

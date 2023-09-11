@@ -91,7 +91,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 10. Paul's theology is sunned up in: "Justification by faith."
 11. Paul's attitude: "I am not ashamed of the gospel: it is the power of God for salvation." [1:16](/en/Bible/Romans/1#v16).
 12. Romans shows that Paul is the propounder of the atonement doctrine.
-	**Note**: As concerns the great conflict between the flesh and the Spirit-see Urantia Book, [UB 34:7.1](/en/The_Urantia_Book/34#p7_1).
+	**Note**: As concerns the great conflict between the flesh and the Spirit-see Urantia Book, <a id="s93_93"></a>[UB 34:7.1](/en/The_Urantia_Book/34#p7_1).
 
 ## V. Selected Texts
 

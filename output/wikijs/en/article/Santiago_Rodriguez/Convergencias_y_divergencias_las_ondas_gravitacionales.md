@@ -58,17 +58,17 @@ In fact, gravitational waves, the deformation of space-time that is transmitted 
 
 Let us remember that _The Urantia Book_, although it may not seem so at first glance, gives us a much more complex vision than that presented by current science. In fact, to try to find parallels, we have to restrict the study of the concepts “space” and “gravity”:
 
-_Space_: we refer only to “_penetrated space_”, we do without both the non-penetrated space and the quiescent zones of space between the penetrated and the non-penetrated. <a id="a59_172"></a>[UB 11:6.1](/en/The_Urantia_Book/11#p6_1)
+_Space_: we refer only to “_penetrated space_”, we do without both the non-penetrated space and the quiescent zones of space between the penetrated and the non-penetrated. <a id="a60_172"></a>[UB 11:6.1](/en/The_Urantia_Book/11#p6_1)
 
-_Gravity_: we limit ourselves to material gravity and even more, only to _circular or linear gravity_, and we do without absolute gravity. <a id="a61_139"></a>[UB 11:8.7](/en/The_Urantia_Book/11#p8_7); <a id="a61_182"></a>[UB 12:3.8](/en/The_Urantia_Book/12#p3_8)
+_Gravity_: we limit ourselves to material gravity and even more, only to _circular or linear gravity_, and we do without absolute gravity. <a id="a62_139"></a>[UB 11:8.7](/en/The_Urantia_Book/11#p8_7); <a id="a62_182"></a>[UB 12:3.8](/en/The_Urantia_Book/12#p3_8)
 
 Newton's mechanics (1686) assumed gravity as a force with infinite range and instantaneous transmission. The “Einsteinian” revolution was to establish that although the range of gravity may be infinite, it is not instantaneous transmission, but rather its transmission speed is that of the speed of light. Another of the novel ideas of the theory of relativity is that time and space should not be studied as separate entities, but that the 4 dimensions (three spatial and one temporal) in which we have all our physical activity are interchangeable and mathematically they hold equivalence relations.
 
 We can precisely find coincidences in the contents of _The Urantia Book_ for these concepts:
 
-The fact that the Creator Sons need an enormous amount of time to accommodate the newly appeared mass in their spatial domains without there being disturbances in the rest of the domains of other <a id="a67_196"></a>[UB 32:1.1](/en/The_Urantia_Book/32#p1_1) Creator Sons; <a id="a67_252"></a>[UB 32:1.5](/en/The_Urantia_Book/32#p1_5) could be due to the fact that the effects of linear gravity are not instantaneous and are forced to accommodate them slowly to avoid cataclysms.
+The fact that the Creator Sons need an enormous amount of time to accommodate the newly appeared mass in their spatial domains without there being disturbances in the rest of the domains of other <a id="a68_196"></a>[UB 32:1.1](/en/The_Urantia_Book/32#p1_1) Creator Sons; <a id="a68_252"></a>[UB 32:1.5](/en/The_Urantia_Book/32#p1_5) could be due to the fact that the effects of linear gravity are not instantaneous and are forced to accommodate them slowly to avoid cataclysms.
 
-The book itself tells us that indeed we have to speak not of space and time as separate entities, but as unequivocally interrelated <a id="a69_132"></a>[UB 65:8.1](/en/The_Urantia_Book/65#p8_1)
+The book itself tells us that indeed we have to speak not of space and time as separate entities, but as unequivocally interrelated <a id="a70_132"></a>[UB 65:8.1](/en/The_Urantia_Book/65#p8_1)
 
 We will say that an important convergence of this theory with what is expressed in the book is the very concept that space-time is not merely a place where things happen, but that it is an object with its own characteristics. In fact, the confirmation of gravitational waves by science shows us that the space-time framework is a deformable object, and also that we are capable of measuring this deformation.
 
@@ -76,7 +76,7 @@ The fact that space-time is an “object” makes it present a geometry (a shape
 
 _The Urantia Book_ clearly indicates that the observable space (penetrated space) is contained, is enveloped by another type of space, and this space, actually both types, the penetrated and the non-penetrated, present contractions and dilations ("respiratory movements »).
 
-It also shows us a non-flat geometry, a form for the space in which we develop as finite beings. Let us remember the simile of both the hourglass and the Maltese cross in revolution. <a id="a77_183"></a>[UB 11:6.1](/en/The_Urantia_Book/11#p6_1).
+It also shows us a non-flat geometry, a form for the space in which we develop as finite beings. Let us remember the simile of both the hourglass and the Maltese cross in revolution. <a id="a78_183"></a>[UB 11:6.1](/en/The_Urantia_Book/11#p6_1).
 
 Thus, the existence of gravitational waves reinforces the idea that space itself is subject to fluctuations, that space and time do not present the same values in any part of the cosmos, but that these depend on the characteristics of the place, such as the mass/energy present in the environment in which we study that space and that time.
 
@@ -92,15 +92,15 @@ Einstein stopped considering gravity as a force acting at a distance between two
 
 Curiously, in _The Urantia Book_ there appear concepts that abound in these ideas contemplated by the theory of relativity.
 
-The fact that in the universe there must be a record and constancy of time in different places, as the Cronoldeks <a id="a93_114"></a>[UB 29:4.37](/en/The_Urantia_Book/29#p4_37) seem to record, somehow seems to evidence what Einstein predicted about the relativity of time and space . Even causal relationships are present in the Master Universe. Even in Paradise, where time is different from how we understand it, a causal relationship <a id="a93_418"></a>[UB 11:2.11](/en/The_Urantia_Book/11#p2_11) defined for physical systems <a id="a93_491"></a>[UB 16:6.6](/en/The_Urantia_Book/16#p6_6) continues to be maintained
+The fact that in the universe there must be a record and constancy of time in different places, as the Cronoldeks <a id="a94_114"></a>[UB 29:4.37](/en/The_Urantia_Book/29#p4_37) seem to record, somehow seems to evidence what Einstein predicted about the relativity of time and space . Even causal relationships are present in the Master Universe. Even in Paradise, where time is different from how we understand it, a causal relationship <a id="a94_418"></a>[UB 11:2.11](/en/The_Urantia_Book/11#p2_11) defined for physical systems <a id="a94_491"></a>[UB 16:6.6](/en/The_Urantia_Book/16#p6_6) continues to be maintained
 
 But there are other aspects that differ quite a bit from what is accepted by the physical theories of the moment, among which we could highlight the enormous scientific interest of unifying gravity with the rest of the fundamental forces, when _The Urantia Book_ is suggesting that gravity could not be one of the fundamental forces and that furthermore the fundamental forces do not respond to gravity:
 
-> _. . .even the primal physical forces are not responsive to linear gravity,_ (<a id="a97_80"></a>[UB 12:6.5](/en/The_Urantia_Book/12#p6_5))
+> _. . .even the primal physical forces are not responsive to linear gravity,_ (<a id="a98_80"></a>[UB 12:6.5](/en/The_Urantia_Book/12#p6_5))
 
-> _. . .Gravity is the sole control of energy-matter. Neither space nor pattern are gravity responsive,_ (<a id="a99_106"></a>[UB 0:6.11](/en/The_Urantia_Book/0#p6_11))
+> _. . .Gravity is the sole control of energy-matter. Neither space nor pattern are gravity responsive,_ (<a id="a100_106"></a>[UB 0:6.11](/en/The_Urantia_Book/0#p6_11))
 
-> _Space is nonresponsive to gravity, but it acts as an equilibrant on gravity. Without the space cushion, explosive action would jerk surrounding space bodies. Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it._ (<a id="a101_330"></a>[UB 11:8.3](/en/The_Urantia_Book/11#p8_3))
+> _Space is nonresponsive to gravity, but it acts as an equilibrant on gravity. Without the space cushion, explosive action would jerk surrounding space bodies. Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it._ (<a id="a102_330"></a>[UB 11:8.3](/en/The_Urantia_Book/11#p8_3))
 
 Once again brushstrokes of convergences and divergences are appearing between the study of what is revealed and what is contemplated by our science in continuous advance and change. Like humanity and the human being himself, they continue to be an “evolutionary process.”
 

@@ -46,13 +46,13 @@ The estimate of 200,000 million years comes from two quotes from the book that I
 
 In paper 22 “The Trinitized Sons of God”, in section 2, which describes the Mighty Messengers, it says:
 
-> _The senior Mighty Messengers were chosen from those ascendant mortals of time and space who were among the earlier Paradise arrivals, many having traversed Havona in the times of Grandfanda. But the first trinitizing of Mighty Messengers was not effected until the candidate corps contained representatives from each of the seven superuniverses. And the last group of this order to qualify on Paradise embraced ascendant pilgrims from the local universe of Nebadon._ (<a id="a47_471"></a>[UB 22:2.4](/en/The_Urantia_Book/22#p2_4))
+> _The senior Mighty Messengers were chosen from those ascendant mortals of time and space who were among the earlier Paradise arrivals, many having traversed Havona in the times of Grandfanda. But the first trinitizing of Mighty Messengers was not effected until the candidate corps contained representatives from each of the seven superuniverses. And the last group of this order to qualify on Paradise embraced ascendant pilgrims from the local universe of Nebadon._ (<a id="a48_471"></a>[UB 22:2.4](/en/The_Urantia_Book/22#p2_4))
 
 We know unequivocally that there are already “ascending pilgrims” from our local universe today who have reached and graduated from Paradise as well as enrolled in the Finality Corps, and who have already enjoyed the experience of being trinitized by the secret embrace of the Paradise Trinity... whatever that means.
 
 The other clue is found in Paper 57 “The Origin of Urantia”, section 3 (“The Secondary Nebular Stage”) and it goes like this:
 
-> _*200,000,000,000* years ago witnessed the progression of contraction and condensation with enormous heat generation in the Andronover central cluster, or nuclear mass. Relative space appeared even in the regions near the central mother-sun wheel. The outer regions were becoming more stabilized and better organized; some planets revolving around the newborn suns had cooled sufficiently to be suitable for life implantation. The oldest inhabited planets of Nebadon date from these times._ (<a id="a53_494"></a>[UB 57:3.10](/en/The_Urantia_Book/57#p3_10))
+> _*200,000,000,000* years ago witnessed the progression of contraction and condensation with enormous heat generation in the Andronover central cluster, or nuclear mass. Relative space appeared even in the regions near the central mother-sun wheel. The outer regions were becoming more stabilized and better organized; some planets revolving around the newborn suns had cooled sufficiently to be suitable for life implantation. The oldest inhabited planets of Nebadon date from these times._ (<a id="a54_494"></a>[UB 57:3.10](/en/The_Urantia_Book/57#p3_10))
 
 From where it seems to be deduced that the oldest life in Nebadon dates from about 200,000 million years ago. The obvious conclusion is that, in the worst case, the longest waiting time would be those 200 billion years.
 
@@ -68,11 +68,11 @@ And so far everything would be fine if, as Sadler did, we do not take into accou
 
 In paper 53 (“The Lucifer Rebellion”), section 4, we can read:
 
-> _The Lucifer manifesto was issued at the annual conclave of Satania on the sea of glass, in the presence of the assembled hosts of Jerusem, on the last day of the year, about two hundred thousand years ago, Urantia time._ (<a id="a69_225"></a>[UB 53:4.1](/en/The_Urantia_Book/53#p4_1))
+> _The Lucifer manifesto was issued at the annual conclave of Satania on the sea of glass, in the presence of the assembled hosts of Jerusem, on the last day of the year, about two hundred thousand years ago, Urantia time._ (<a id="a70_225"></a>[UB 53:4.1](/en/The_Urantia_Book/53#p4_1))
 
 Later, in paper 54 (“The problems of the Lucifer rebellion”), section 5:
 
-> _12. Time, even in a universe of time, is relative: If a Urantia mortal of average length of life should commit a crime which precipitated world-wide pandemonium, and if he were apprehended, tried, and executed within two or three days of the commission of the crime, would it seem a long time to you? And yet that would be nearer a comparison with the length of Lucifer’s life even if his adjudication, now begun, should not be completed for a hundred thousand Urantia years. The relative lapse of time from the viewpoint of Uversa, where the litigation is pending, could be indicated by saying that the crime of Lucifer was being brought to trial within two and a half seconds of its commission. From the Paradise viewpoint the adjudication is simultaneous with the enactment._ (<a id="a73_783"></a>[UB 54:5.13](/en/The_Urantia_Book/54#p5_13))
+> _12. Time, even in a universe of time, is relative: If a Urantia mortal of average length of life should commit a crime which precipitated world-wide pandemonium, and if he were apprehended, tried, and executed within two or three days of the commission of the crime, would it seem a long time to you? And yet that would be nearer a comparison with the length of Lucifer’s life even if his adjudication, now begun, should not be completed for a hundred thousand Urantia years. The relative lapse of time from the viewpoint of Uversa, where the litigation is pending, could be indicated by saying that the crime of Lucifer was being brought to trial within two and a half seconds of its commission. From the Paradise viewpoint the adjudication is simultaneous with the enactment._ (<a id="a74_783"></a>[UB 54:5.13](/en/The_Urantia_Book/54#p5_13))
 
 I want to draw attention to the fact that, assuming that the judgment ends in 100,000 years, and given that the rebellion began 200,000 years ago, in total we are facing a process that could last 300,000 years. And, according to the text, those 300,000 years in the life of Lucifer will be comparable to, say, 2 or 3 days in the life of a Urantian mortal.
 

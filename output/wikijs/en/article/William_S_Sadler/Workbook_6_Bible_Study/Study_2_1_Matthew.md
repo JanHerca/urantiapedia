@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Isador wrote Matthew in A.D. 71 at Pella. He had Matthew's notes which had been revised in A.D. 40.
 4. Isador also had four-fifths of Mark's record.
 5. The last copy of Matthew's notes was destroyed in the burning of a Syrian monastery in A.D. 416.
-	(The above facts regarding authorship of Matthew are from the Urantia Book, [UB 121:8.1](/en/The_Urantia_Book/121#p8_1).)
+	(The above facts regarding authorship of Matthew are from the Urantia Book, <a id="s103_77"></a>[UB 121:8.1](/en/The_Urantia_Book/121#p8_1).)
 6. Scholars have doubted that Matthew wrote this Gospel because it does not seem that the author was an eyewitness. They believe it was written about A.D. 75 to 80.
 7. It is the Jewish viewpoint of Christ's life and work.
 

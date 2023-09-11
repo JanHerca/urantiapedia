@@ -48,10 +48,10 @@ At the inaugural meeting, the material that was going to be used in the Meeting 
 
 Saturday the 24th was the day of the workshops. The attendees formed groups of 5 or 6 people around the facilitators. These were the passages that attendees were asked to delve into:
 
-- Discourse on true religion (Document 155, <a id="a49_44"></a>[UB 155:5.6](/en/The_Urantia_Book/155#p5_6) - <a id="a49_90"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13)).
-- The parable of the owner of the vineyards (Document 163, <a id="a50_59"></a>[UB 163:3.5](/en/The_Urantia_Book/163#p3_5) - <a id="a50_105"></a>[UB 163:3.7](/en/The_Urantia_Book/163#p3_7))
-- The parable of the mines (Document 171, <a id="a51_42"></a>[UB 171:8.3](/en/The_Urantia_Book/171#p8_3) - <a id="a51_88"></a>[UB 171:8.6](/en/The_Urantia_Book/171#p8_6))
-- The last speech in the temple (Document 175, <a id="a52_47"></a>[UB 175:1.1](/en/The_Urantia_Book/175#p1_1) - <a id="a52_93"></a>[UB 175:1.24](/en/The_Urantia_Book/175#p1_24))
+- Discourse on true religion (Document 155, <a id="a50_44"></a>[UB 155:5.6](/en/The_Urantia_Book/155#p5_6) - <a id="a50_90"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13)).
+- The parable of the owner of the vineyards (Document 163, <a id="a51_59"></a>[UB 163:3.5](/en/The_Urantia_Book/163#p3_5) - <a id="a51_105"></a>[UB 163:3.7](/en/The_Urantia_Book/163#p3_7))
+- The parable of the mines (Document 171, <a id="a52_42"></a>[UB 171:8.3](/en/The_Urantia_Book/171#p8_3) - <a id="a52_88"></a>[UB 171:8.6](/en/The_Urantia_Book/171#p8_6))
+- The last speech in the temple (Document 175, <a id="a53_47"></a>[UB 175:1.1](/en/The_Urantia_Book/175#p1_1) - <a id="a53_93"></a>[UB 175:1.24](/en/The_Urantia_Book/175#p1_24))
 
 To make this activity more agile, it was done following the following process for each of the speeches and parables.
 

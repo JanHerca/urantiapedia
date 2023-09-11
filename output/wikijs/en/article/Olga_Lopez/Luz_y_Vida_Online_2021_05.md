@@ -64,7 +64,7 @@ On the one hand, we have the joy of meeting brothers and sisters of different ra
 
 This flash of light and life that the XI International Urantia Conference in Peru has shown to the world allows us to have more hope to cope with our daily lives. We now have greater certainty that we are not alone in our desire to spread Goodness, Truth and Beauty on our blue planet. There are people in multiple parts of the planet who are guided by their wonderful Adjuster, with whom we are in tune, and we are undoubtedly protected by countless celestial presences or older brothers.
 
-> “And all this is ever true, for, where two or three believers are gathered together, there am I in the midst of them.” (<a id="a65_122"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3))
+> “And all this is ever true, for, where two or three believers are gathered together, there am I in the midst of them.” (<a id="a66_122"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3))
 
 But we also have another piece of good news: our beloved Urantia Book comes out more splendid and neat than ever before with the new Spanish translation or revision. A high-quality translation, up to the times we live in and that will allow us to better grasp and learn the teachings of _The Urantia Book_ starting in 2021.
 

@@ -76,7 +76,7 @@ The Jews under the Seleucids
 25. John Hyrcanus was really the last of the great Hasmonaeans. Of John’s five sons, Aristobulus imprisoned three brothers and murdered the fourth. But he lasted only one year.
 26. The general and increasing confusion in Palestine led Rome to take over.
 
-**NOTE**: For a review of Hebrew history as presented in the Urantia Book, see [UB 97:9.1](/en/The_Urantia_Book/97#p9_1)
+**NOTE**: For a review of Hebrew history as presented in the Urantia Book, see <a id="s78_79"></a>[UB 97:9.1](/en/The_Urantia_Book/97#p9_1)
 
 
 <br>

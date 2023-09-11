@@ -89,7 +89,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Authorship
 
-1. John was written in A.D. 101 by Nathan, a Greek Jew from Caesarea, under the direction of John. The book of 1 John was written by John himself as a covering letter. Urantia Book, [UB 121:8.10](/en/The_Urantia_Book/121#p8_10).
+1. John was written in A.D. 101 by Nathan, a Greek Jew from Caesarea, under the direction of John. The book of 1 John was written by John himself as a covering letter. Urantia Book, <a id="s91_182"></a>[UB 121:8.10](/en/The_Urantia_Book/121#p8_10).
 2. The fact that Nathan wrote the Gospel enabled John the more gracefully to refer to himself as "the disciple whom Jesus loved."
 3. Nathan was probably a mild-mannered man, which would explain how the ambitious young "son of thunder" could have become the "apostle of love.- even in his old age.
 4. It is difficult to regard the Gospel of John and Revelation as being written by the same person.

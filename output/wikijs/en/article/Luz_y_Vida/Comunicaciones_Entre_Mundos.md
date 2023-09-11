@@ -45,7 +45,7 @@ By various authors
 
 **Antonio:** Dear friends: allow me to gently ring the alarm clock: paper 112, point 3, last paragraph:
 
-> “Those who go to the mansion worlds are not permitted to send messages back to their loved ones. It is the policy throughout the universes to forbid such communication during the period of a current dispensation.” (<a id="a46_217"></a>[UB 112:3.7](/en/The_Urantia_Book/112#p3_7))
+> “Those who go to the mansion worlds are not permitted to send messages back to their loved ones. It is the policy throughout the universes to forbid such communication during the period of a current dispensation.” (<a id="a47_217"></a>[UB 112:3.7](/en/The_Urantia_Book/112#p3_7))
 
 Comments: There is no way to know for sure if there is life after death. Why prohibit this type of communication? What is the compelling reason to ban it? Note well that it says that it is prohibited IN ALL UNIVERSES... during the period of the current dispensation (ie, while we live). But, during the next dispensation, do they authorize it? I doubt it. I insist: According to you, what is the compelling reason that the Creators have to PROHIBIT this type of messages from our relatives or friends who have left?
 
@@ -90,7 +90,7 @@ As for aliens, I think that this topic has a lot of “crumbs”, right? Think f
 
 **Antonio:** Dear Eduardo, dear friends:
 
-“_In all universes there is a policy of prohibiting this type of communication during the current dispensation period_”. <a id="a91_121"></a>[UB 112:3.7](/en/The_Urantia_Book/112#p3_7) Our current (current) dispensation is from when Jesus came to... whenever. Communications between the people of this era are prohibited. But what about between the people of the previous era and those of the next era? Well, in fact, it is also prohibited. Andón and Fonta were prohibited from sending us a message (<a id="a91_480"></a>[Doc. 63, penúltimo párrafo](/en/The_Urantia_Book/63#p7_3)) when they found out that this revelation was going to be released to us. “They” say it, because if they hadn't said it, we wouldn't know. I smell that the prohibition is permanent, during all the eras of a planet. Because? Well, I have no idea, dear Eduardo.
+“_In all universes there is a policy of prohibiting this type of communication during the current dispensation period_”. <a id="a92_121"></a>[UB 112:3.7](/en/The_Urantia_Book/112#p3_7) Our current (current) dispensation is from when Jesus came to... whenever. Communications between the people of this era are prohibited. But what about between the people of the previous era and those of the next era? Well, in fact, it is also prohibited. Andón and Fonta were prohibited from sending us a message (<a id="a92_480"></a>[Doc. 63, penúltimo párrafo](/en/The_Urantia_Book/63#p7_3)) when they found out that this revelation was going to be released to us. “They” say it, because if they hadn't said it, we wouldn't know. I smell that the prohibition is permanent, during all the eras of a planet. Because? Well, I have no idea, dear Eduardo.
 
 On the “normal” worlds, they have the Planetary Prince 100, Adam and Eve, and all their progeny, living there for <ins>thousands</ins> of years. At least they have <ins>the evidence</ins> there present of some extra-planetary and “immortal” beings, apart from the fact that those humans have more cultural and spiritual preparation. I do not believe (as Carmelo says) that these humans communicate habitually with the midwayers and the celestial beings assigned to the planet. I don't believe it. But it doesn't matter...
 

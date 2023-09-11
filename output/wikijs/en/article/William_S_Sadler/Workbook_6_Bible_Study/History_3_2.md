@@ -42,7 +42,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. New Testament And Apocrypha
 
-1. New Testament students think that the gospel writers had a common source— called Q. This was the notes of the Apostle Andrew. See [UB 121:8.1](/en/The_Urantia_Book/121#p8_1)
+1. New Testament students think that the gospel writers had a common source— called Q. This was the notes of the Apostle Andrew. See <a id="s44_133"></a>[UB 121:8.1](/en/The_Urantia_Book/121#p8_1)
 2. Long after Luke wrote “Acts of the Apostles,” other writers wrote the acts of Peter, Paul, John, and others.
 3. Paul’s epistles are the oldest of the New Testament writings—Thessalonians being the oldest.
 4. The Urantia Book suggests that Paul was “one of the authors of Hebrews.”

@@ -125,20 +125,20 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- h. Praise of a good wife. [31:10-31](/en/Bible/Proverbs/31#v10).
 	6. It was the Hebrew custom to assign proverbs to Solomon and psalms to David.
 	7. Proverbs exalts the individual rather than the nation.
-	8. [Prov 22:17](/en/Bible/Proverbs/22#v17) - [24:22](/en/Bible/Proverbs/24#v22) sounds like the wisdom of [Amenemope](/en/The_Urantia_Book/95#p4_1). 1000-600 B.C. [Ps 1](/en/Bible/Psalms/1) and [Jer 17:5-8](/en/Bible/Jeremiah/17#v5) come from the same source.
+	8. [Prov 22:17](/en/Bible/Proverbs/22#v17) - [24:22](/en/Bible/Proverbs/24#v22) sounds like the wisdom of <a id="s127_107"></a>[Amenemope](/en/The_Urantia_Book/95#p4_1). 1000-600 B.C. [Ps 1](/en/Bible/Psalms/1) and [Jer 17:5-8](/en/Bible/Jeremiah/17#v5) come from the same source.
 	9. Proverbs advocates that man is entitled to enjoy material pleasures— perfume, wine, friendship, and married life.
 	10. The wise man shuns adultery, usury, fraud, theft, and ill-gotten gains.
 	11. Self-interest, rather than moral law, dictates good conduct.
 	12. Take an interest in the widow and orphan—even in your enemies.
 - B. **[Job](/en/Bible/Job)**
 	1. Job is the greatest of Israel’s wisdom literature. The question of Job: “Why do the righteous suffer?”
-	2. Jesus’ discussion of Job. The Urantia Book, [UB 148:6.1](/en/The_Urantia_Book/148#p6_1)
+	2. Jesus’ discussion of Job. The Urantia Book, <a id="s134_48"></a>[UB 148:6.1](/en/The_Urantia_Book/148#p6_1)
 	3. Job is a challenge of the Egypto-Hebraic doctrine that the righteous and the wicked receive their just deserts here on earth.
 	4. Job is an immortal poem about a just soul that suffered, despaired, and battled on until it found peace and salvation.
 	5. The book is a great philosophic debate concerning the ever present but unanswered problem of EVIL.
 	6. Job’s miserable comforters and their smug orthodoxy did not have the answer.
 	7. Job is constructed somewhat on the order of the Greek drama.
-	8. Multiple authorship in Mesopotamia. Representative of the Salem school at Kish. See Urantia Book, [UB 95:1.6](/en/The_Urantia_Book/95#p1_6)
+	8. Multiple authorship in Mesopotamia. Representative of the Salem school at Kish. See Urantia Book, <a id="s140_102"></a>[UB 95:1.6](/en/The_Urantia_Book/95#p1_6)
 	9. Jesus called the book of Job a parable. He said it was “that masterpiece of Semitic literature.”
 	10. After the failure of theology and the breakdown of philosophy, Job gained his victory by **personal experience**.
 	11. Job at last, by faith, reasons himself out of his troubles. He declares: “I know the way I take; when he has tried me, I shall come forth as gold.”

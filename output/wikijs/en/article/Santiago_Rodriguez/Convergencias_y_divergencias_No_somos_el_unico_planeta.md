@@ -38,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 I would like to inaugurate this section, in which I will be placing scientific, sociological or other reviews of any kind, and where we will try to locate advances in knowledge that somehow reflect the direction indicated by UB himself.
 
-It is not my intention that the credibility of the contents expressed in the UB are subject to the fact that the advancement of knowledge, of human knowledge, reveals ideas that are consistent with the ideas of a scientific nature that dot those contents. I refer in this regard to the very statement of the limitations of revelation (<a id="a39_335"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2) “The limitations of revelation, Doc. 101, «The true nature of religion”).
+It is not my intention that the credibility of the contents expressed in the UB are subject to the fact that the advancement of knowledge, of human knowledge, reveals ideas that are consistent with the ideas of a scientific nature that dot those contents. I refer in this regard to the very statement of the limitations of revelation (<a id="a40_335"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2) “The limitations of revelation, Doc. 101, «The true nature of religion”).
 
 Nor does it make sense, and therefore I do not intend to, to speculate on specific data that may be considerably altered over time; I will only outline ideas or generalities of various facets of knowledge that in one way or another fit into the ideas and philosophy shown in the contents of the UB.
 

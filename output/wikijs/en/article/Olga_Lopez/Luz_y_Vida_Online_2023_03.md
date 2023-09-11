@@ -71,9 +71,9 @@ Dear readers, if these are also your objectives, we encourage you to continue re
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial march 2023-2">
 </figure>
 
-> . . .  Jesus, hearing the tumult, came out and indignantly reproved them, saying: “Suffer little children to come to me; forbid them not, for of such is the kingdom of heaven. Verily, verily, I say to you, whosoever receives not the kingdom of God as a little child shall hardly enter therein to grow up to the full stature of spiritual manhood.” (<a id="a72_350"></a>[UB 167:6.1](/en/The_Urantia_Book/167#p6_1))
+> . . .  Jesus, hearing the tumult, came out and indignantly reproved them, saying: “Suffer little children to come to me; forbid them not, for of such is the kingdom of heaven. Verily, verily, I say to you, whosoever receives not the kingdom of God as a little child shall hardly enter therein to grow up to the full stature of spiritual manhood.” (<a id="a73_350"></a>[UB 167:6.1](/en/The_Urantia_Book/167#p6_1))
 
-> And so does the sacred oftentimes appear to be the common, as on this day these children and their mothers little realized that the onlooking intelligences of Nebadon beheld the children of Jericho playing with the Creator of a universe. (<a id="a74_241"></a>[UB 167:6.3](/en/The_Urantia_Book/167#p6_3))
+> And so does the sacred oftentimes appear to be the common, as on this day these children and their mothers little realized that the onlooking intelligences of Nebadon beheld the children of Jericho playing with the Creator of a universe. (<a id="a75_241"></a>[UB 167:6.3](/en/The_Urantia_Book/167#p6_3))
 
 Boys and girls lacked any type of social consideration at the time when Jesus of Nazareth lived. Therefore, it is not surprising that the disciples scolded them when they made a fuss near the teacher. To everyone's surprise, however, Jesus exalts them and makes it clear that smallness, simplicity, is the ultimate criterion of the kingdom.
 
@@ -196,14 +196,14 @@ Francisco Segura Berenguel
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/El-mundo-de-la-cruz.jpg" alt="My favorite paragraph - mar 2023">
 </figure>
 
-> The cross is that high symbol of sacred service, the devotion of one’s life to the welfare and salvation of one’s fellows. The cross is not the symbol of the sacrifice of the innocent Son of God in the place of guilty sinners and in order to appease the wrath of an offended God, but it does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love. The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross. And the very sight of this great symbol of the bestowal life of Jesus truly inspires all of us to want to go and do likewise. (<a id="a197_816"></a>[UB 188:5.9](/en/The_Urantia_Book/188#p5_9))
+> The cross is that high symbol of sacred service, the devotion of one’s life to the welfare and salvation of one’s fellows. The cross is not the symbol of the sacrifice of the innocent Son of God in the place of guilty sinners and in order to appease the wrath of an offended God, but it does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love. The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross. And the very sight of this great symbol of the bestowal life of Jesus truly inspires all of us to want to go and do likewise. (<a id="a198_816"></a>[UB 188:5.9](/en/The_Urantia_Book/188#p5_9))
 
 This part of Paper 188:4 and section 5 have helped me to better understand and from another more real point of view the meaning of the symbol of the cross. In another time, when he belonged as a member of an evangelical church, he considered grotesque the simple fact of observing Jesus of Nazareth hanging on the cross, remembering the suffering inflicted by his attackers and the meekness of his attitude towards them.
 
 I was taught during my membership that this sign was like seeing someone who, in a different circumstance at death, had the murder weapon used as an image and sign on their own body. Therefore, I understood in this way that I had to get rid of the crosses that I had in my possession, some of them gifts from my parents and others acquired by me. And so I did when I saw it and understood it in those moments in that primitive and even barbaric way:
 
 
-> Make sure, then, that when you view the cross as a revelation of God, you do not look with the eyes of the primitive man nor with the viewpoint of the later barbarian, . . . (<a id="a204_177"></a>[UB 188:5.11](/en/The_Urantia_Book/188#p5_11))
+> Make sure, then, that when you view the cross as a revelation of God, you do not look with the eyes of the primitive man nor with the viewpoint of the later barbarian, . . . (<a id="a205_177"></a>[UB 188:5.11](/en/The_Urantia_Book/188#p5_11))
 
 Since it came into my hands _The Urantia Book_ has transformed my life and changed my previous perspective on life, the original message of Jesus of Nazareth and, above all, the sign and meaning of the cross.
 
@@ -214,7 +214,7 @@ It is not my intention to modify or change, in any of you, your personal perspec
 Also in these same documents, since I read this section, I keep in mind this other paragraph in my day to day that I share with you and surely you have remembered on occasions:
 
 
-> . . . Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. (<a id="a215_145"></a>[UB 188:5.2](/en/The_Urantia_Book/188#p5_2))
+> . . . Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. (<a id="a216_145"></a>[UB 188:5.2](/en/The_Urantia_Book/188#p5_2))
 
 I personally would not understand the world without the love referred to in _The Urantia Book_. That love that makes us live for and for someone, our children, siblings, parents, relatives and friends. Live and show the rest of our loved ones the way we lead and show that we are all children of the same Father and therefore the fraternal and spiritual brotherhood that the Master taught us.
 

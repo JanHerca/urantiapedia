@@ -81,7 +81,7 @@ All this shows us a vibrant, dynamic, increasingly interconnected and planetary 
 
 <br style="clear:both" />
 
-> “Cease to fear men; be unafraid to preach the good news of eternal life to your fellows who languish in darkness and hunger for the light of truth.” (<a id="a82_152"></a>[UB 192:2.11](/en/The_Urantia_Book/192#p2_11))
+> “Cease to fear men; be unafraid to preach the good news of eternal life to your fellows who languish in darkness and hunger for the light of truth.” (<a id="a83_152"></a>[UB 192:2.11](/en/The_Urantia_Book/192#p2_11))
 
 ## Works – our recommendations of the month
 

@@ -22,11 +22,11 @@ Much of the scientific information in the book agreed with science, but some dif
 
 ## Limitations of Disclosure
 
-_The Urantia Book_ warns of the limitation of the English language ([UB 42:2.1](/en/The_Urantia_Book/42#p2_1)) for transmitting some ideas, and these ideas may not get through clearly or correctly. This is a problem with all telepathically received books which discuss matters that are unknown to the receiver. The understanding of the receiver can be a limitation. In addition, there are a number of presenters, and some may be more skillful at revelation than others—especially in dealing with information that is unknown to the receiver. Furthermore, much of the material was originally recorded by stenography, and translation from stenographic notes is not always perfect, especially if the stenographer is unfamiliar with the material.[^1]
+_The Urantia Book_ warns of the limitation of the English language (<a id="a24_68"></a>[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)) for transmitting some ideas, and these ideas may not get through clearly or correctly. This is a problem with all telepathically received books which discuss matters that are unknown to the receiver. The understanding of the receiver can be a limitation. In addition, there are a number of presenters, and some may be more skillful at revelation than others—especially in dealing with information that is unknown to the receiver. Furthermore, much of the material was originally recorded by stenography, and translation from stenographic notes is not always perfect, especially if the stenographer is unfamiliar with the material.[^1]
 
 In dealing with future events, the names that will be used in the future are not known, and this may hinder identification. For example, the book discusses “continental drift” on the Earth's surface, while science talks of “plate tectonics”; but there is no problem with identification in this case.
 
-The book clearly states there is a time limitation on the information that can be presented ([UB 101:4](/en/The_Urantia_Book/101#p4))[^2], and information can only be provided if we will soon discover it ourselves. This is an understandable restriction on revelation, because there are many cases on Earth where an advanced culture introduced advanced technology to a less developed culture, and this usually harmed or destroyed the less developed culture.
+The book clearly states there is a time limitation on the information that can be presented (<a id="a28_93"></a>[UB 101:4](/en/The_Urantia_Book/101#p4))[^2], and information can only be provided if we will soon discover it ourselves. This is an understandable restriction on revelation, because there are many cases on Earth where an advanced culture introduced advanced technology to a less developed culture, and this usually harmed or destroyed the less developed culture.
 
 ## Analysis of Predictions
 
@@ -104,67 +104,67 @@ The thirty-odd predictions to be briefly discussed can be categorized as follows
 
 ### AA—Information known to science and _The Urantia Book_ {#AA}
 
-There is much material in _The Urantia Book_ which agrees with science. These cannot be used for predictions. However, it is useful to discuss one of these subjects. The book says that the speed of light is 186,280 miles per second ([UB 23:3.2](/en/The_Urantia_Book/23#p3_2)). This figure has six known numbers in it. The speed of light measured by science in 1931 was 186,270 miles per second—10 miles per second difference. By 1949, the value increased to 186,282 miles per second, and it has remained close to this ever since—2 miles per second difference. This shows the degree of accuracy of some of the information in the book, about one part in 100,000.[^3] However, there are other places where the information is vague or incomplete.
+There is much material in _The Urantia Book_ which agrees with science. These cannot be used for predictions. However, it is useful to discuss one of these subjects. The book says that the speed of light is 186,280 miles per second (<a id="a106_233"></a>[UB 23:3.2](/en/The_Urantia_Book/23#p3_2)). This figure has six known numbers in it. The speed of light measured by science in 1931 was 186,270 miles per second—10 miles per second difference. By 1949, the value increased to 186,282 miles per second, and it has remained close to this ever since—2 miles per second difference. This shows the degree of accuracy of some of the information in the book, about one part in 100,000.[^3] However, there are other places where the information is vague or incomplete.
 
 ### Category I—Predictions that disagreed with science in 1935
 
-<span id="IA1"></span>I.A.1.—Healing Chemicals for Wounds (Medicine, [UB 65:4.3-6](/en/The_Urantia_Book/65#p4_3))[^4]
+<span id="IA1"></span>I.A.1.—Healing Chemicals for Wounds (Medicine, <a id="a110_69"></a>[UB 65:4.3-6](/en/The_Urantia_Book/65#p4_3))[^4]
 
 _The Urantia Book_ claims that healing chemicals for wounds will be discovered. In 1928, penicillin was discovered, but serious work did not start until ten years later. Sulfa drugs were discovered in 1935 but came into use five years later. Both of these chemicals fight infection and speed up the healing process. Both discoveries were essentially unknown in 1935, and this is a prediction that has partially come true. The book also speaks of healing chemicals that involve the cells themselves, and the book hints at other discoveries of this type which will be made in the future.[^5]
 
-<span id="IA2"></span>I.A.2.—Plate Tectonics or Continental Drift (Geology, [UB 57:8.23-25](/en/The_Urantia_Book/57#p8_23), [UB 58:4.3-4](/en/The_Urantia_Book/58#p4_3), [UB 58:5.1-4](/en/The_Urantia_Book/58#p5_1))
+<span id="IA2"></span>I.A.2.—Plate Tectonics or Continental Drift (Geology, <a id="a114_76"></a>[UB 57:8.23-25](/en/The_Urantia_Book/57#p8_23), <a id="a114_124"></a>[UB 58:4.3-4](/en/The_Urantia_Book/58#p4_3), <a id="a114_169"></a>[UB 58:5.1-4](/en/The_Urantia_Book/58#p5_1))
 
 The book says that the continents drift slowly over the surface of the Earth, and the drift started about 700 million years ago. This was proposed in the early years of the twentieth century and had not been proved by 1935.[^6] However, a look at the east coast of South America and the west coast of Africa readily shows the ancient fit. But science requires proof, and proof came in 1969 by matching subsurface earth layers on the two continents and finding an ocean floor crack between the continents. However, the start of the drift was recently computed by science as starting 200 million years ago, based on the oldest ocean bottom rocks in the Atlantic Ocean. Another prediction essentially came true even if science calls this plate tectonics.
 
-<span id="IA3"></span>I.A.3.—Source of the Sun's Energy (Physics, Astrophysics, [UB 48:8.1](/en/The_Urantia_Book/48#p8_1))
+<span id="IA3"></span>I.A.3.—Source of the Sun's Energy (Physics, Astrophysics, <a id="a118_80"></a>[UB 48:8.1](/en/The_Urantia_Book/48#p8_1))
 
 The book says the sun generates energy by combining four hydrogen atoms to form one helium atom, using carbon as a catalyst. This is a mass-to-energy conversion. Science worked out this technology in 1939. This prediction also came true.
 
-<span id="IA4"></span>I.A.4.—Temperature at the Center of the Sun (Physics, Astrophysics, [UB 41:7.1-2](/en/The_Urantia_Book/41#p7_1))
+<span id="IA4"></span>I.A.4.—Temperature at the Center of the Sun (Physics, Astrophysics, <a id="a122_90"></a>[UB 41:7.1-2](/en/The_Urantia_Book/41#p7_1))
 
 The book claims that the temperature at the center of the sun is 35 million degrees F. In the mid '30s, science only guessed at a temperature of millions of degrees. An estimate of 29 million degrees was made in the late '30s. This is good agreement.
 
-<span id="IA5"></span>I.A.5.—Chemical Element with Atomic Number 101 (Nuclear Physics, [UB 42:7.4-7](/en/The_Urantia_Book/42#p7_4))
+<span id="IA5"></span>I.A.5.—Chemical Element with Atomic Number 101 (Nuclear Physics, <a id="a126_87"></a>[UB 42:7.4-7](/en/The_Urantia_Book/42#p7_4))
 
 The book says that the very heavy element, number 101 (the number relates to the structure and electric charge of the atomic nucleus) would be so unstable that it would disintegrate radioactively almost instantaneously. In 1935, the heaviest naturally occurring element known was Uranium, number 92, and it disintegrated slowly. Experiments to make heavier elements were done in the late '30s, but with little success—certainly not up to number 101. This was finally done years later, was labeled Mendelevium, and it turned out to be stable for about an hour. This is not a bad fit for the prediction, but critics will say that a competent scientist could have made a good guess.
 
-<span id="IA6"></span>I.A.6.—Discovery of the Neutrino Particle (Nuclear Physics, [UB 41:8.3](/en/The_Urantia_Book/41#p8_3), [UB 42:8.5](/en/The_Urantia_Book/42#p8_5))
+<span id="IA6"></span>I.A.6.—Discovery of the Neutrino Particle (Nuclear Physics, <a id="a130_82"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3), <a id="a130_125"></a>[UB 42:8.5](/en/The_Urantia_Book/42#p8_5))
 
 The book mentions a small, unnamed, chargeless particle which could be the particle that science calls the neutrino. The particle was theoretically predicted in 1931 and was labeled the neutrino; but because it was so difficult to detect, it was not found until 1938. Here again critics might argue about an educated guess, but the prediction did come true.
 
-<span id="IA7"></span>I.A.7.—Mass of the Meson Particle (Nuclear Physics, [UB 42:8.3](/en/The_Urantia_Book/42#p8_3))
+<span id="IA7"></span>I.A.7.—Mass of the Meson Particle (Nuclear Physics, <a id="a134_74"></a>[UB 42:8.3](/en/The_Urantia_Book/42#p8_3))
 
 The book uses the term “mesotron” instead of the presently used word “meson.” The mesotron term was used in the 1930s when the early theoretical work was done on this particle. The presenters were familiar with the mesotron work. The book claims the mesotron has a mass that is 180 times the mass of the electron. Science has found that the mass is 207 times the electron mass. This is a small discrepancy. However, the presenter was aware of the term mesotron, and this shows knowledge of human thought. This prediction does agree with science, but it was made at a time coincident with the discovery.
 
 Score: Seven predictions agree with science.
 
-<span id="IB1"></span>I.B.1.—Creation of the Sun (Cosmology, Stellar Physics, [UB 57:1.1](/en/The_Urantia_Book/57#p1_1), [UB 57:1.6](/en/The_Urantia_Book/57#p1_6), [UB 57:2.3](/en/The_Urantia_Book/57#p2_3), [UB 57:4.2](/en/The_Urantia_Book/57#p4_2), [UB 57:4.8-9](/en/The_Urantia_Book/57#p4_8))
+<span id="IB1"></span>I.B.1.—Creation of the Sun (Cosmology, Stellar Physics, <a id="a140_78"></a>[UB 57:1.1](/en/The_Urantia_Book/57#p1_1), <a id="a140_121"></a>[UB 57:1.6](/en/The_Urantia_Book/57#p1_6), <a id="a140_164"></a>[UB 57:2.3](/en/The_Urantia_Book/57#p2_3), <a id="a140_207"></a>[UB 57:4.2](/en/The_Urantia_Book/57#p4_2), <a id="a140_250"></a>[UB 57:4.8-9](/en/The_Urantia_Book/57#p4_8))
 
 Science says that the sun was created when an enormous cloud of gas contracted by gravity and heated itself by gas compression until it was hot enough to become a solar furnace. The book says the same thing except that there were about one million other suns that were also created from the same enormous Andronover Nebula. Their creation took about two billion years, and they were ejected from the nebula after formation. Science does not know about the other million suns or the nebula or the ejection from the nebula, but there is good overlap in this case.[^7]
 
-<span id="IB2"></span>I.B.2.—Creation of the Earth and Moon (Cosmology, Astronomy, [UB 57:6.10](/en/The_Urantia_Book/57#p6_10), [UB 57:7.2](/en/The_Urantia_Book/57#p7_2), [UB 57:7.4](/en/The_Urantia_Book/57#p7_4))
+<span id="IB2"></span>I.B.2.—Creation of the Earth and Moon (Cosmology, Astronomy, <a id="a144_83"></a>[UB 57:6.10](/en/The_Urantia_Book/57#p6_10), <a id="a144_128"></a>[UB 57:7.2](/en/The_Urantia_Book/57#p7_2), <a id="a144_171"></a>[UB 57:7.4](/en/The_Urantia_Book/57#p7_4))
 
 Science says that the Earth condensed when the sun did and picked up some material by accretion of meteors and planetesimals. The moon was created when a planetesimal hit the Earth and ejected enough material that coalesced to form the moon. Interestingly, an old, discredited theory said that the moon was torn away from the Earth, leaving the pacific basin, but did not specify the cause. The book says that the Earth and the moon coalesced as a pair of twin planets after the giant Angona Nebula came close to the sun and pulled away enough material to form all the planets. The sun and the moon both grew by accretion—the Earth enormously so, compared to the moon. Again, there is some overlap, but differences in details.
 
 Score: Two predictions partially agree with science. In time, this number could increase.
 
-<span id="IC1"></span>I.C.1.—Creation of Matter and Energy (Cosmology, Physics, [UB 3:4.2](/en/The_Urantia_Book/3#p4_2), [UB 4:1.5-6](/en/The_Urantia_Book/4#p1_5), [UB 42:1.5](/en/The_Urantia_Book/42#p1_5))
+<span id="IC1"></span>I.C.1.—Creation of Matter and Energy (Cosmology, Physics, <a id="a150_80"></a>[UB 3:4.2](/en/The_Urantia_Book/3#p4_2), <a id="a150_121"></a>[UB 4:1.5-6](/en/The_Urantia_Book/4#p1_5), <a id="a150_164"></a>[UB 42:1.5](/en/The_Urantia_Book/42#p1_5))
 
 The book says that matter and energy are continuously being created in many places in the universe, especially beyond the seven superuniverses. Science has a discredited theory about continuous creation,[^8] but the accepted theory today is that all the energy in our universe was created ten to fifteen billion years ago in an instant and in one place. This is called the Big Bang theory. This energy has been spreading out ever since and has resulted in the entire universe. Interestingly, some of the newest experimental results are raising questions about the Big Bang. _The Urantia Book_ does speak of an enormous disturbance in our part of the universe eight to ten billion years ago,[^9] which could have been a local big bang. While there is disagreement, perhaps there is a glimmer of agreement. Remember that science's measurements are all made here on Earth and are used to explain events that happened fifteen billion years ago and very far away. The extreme extrapolations in time and distance could lead to erroneous results. I remember that in the twentieth century, science's universe kept getting older and older. Has science found the right age now?
 
-<span id="IC2"></span>I.C.2.—Creation of Our Solar System (Cosmology, [UB 57:5.4-8](/en/The_Urantia_Book/57#p5_4))
+<span id="IC2"></span>I.C.2.—Creation of Our Solar System (Cosmology, <a id="a154_70"></a>[UB 57:5.4-8](/en/The_Urantia_Book/57#p5_4))
 
 In the 1930s, one of science's proposed theories was that a massive body came close to the sun and tore out huge amounts of matter which later coalesced to form the planets[^10]. This theory is no longer accepted, and the best theory now says that the planets were created by the coalescence of matter adjacent to the sun at the same time the sun coalesced. The book says that the giant Angona Nebula[^11] came close to the sun and tore away lots of matter which coalesced to form the planets. This particular theory explains the additional seven-degree tilt of the sun's axis to the plane of the planets. The best science theory, above, does not explain this tilt. In this case, the book and science originally agreed, but science has changed its mind. However, agreement may return in the future. Remember that there are several hundred astronomer/ cosmologists in the world, and they reach a consensus about which theory best fits all the available scientific data; changes in this theory can occur.
 
-<span id="IC3"></span>I.C.3.—Life Implanted on Earth 550 Million Years Ago (Paleontology, [UB 58:4.1-2](/en/The_Urantia_Book/58#p4_1))
+<span id="IC3"></span>I.C.3.—Life Implanted on Earth 550 Million Years Ago (Paleontology, <a id="a158_90"></a>[UB 58:4.1-2](/en/The_Urantia_Book/58#p4_1))
 
 The book says that life was implanted on the Earth 550 million years ago, but it does not specify exactly what was implanted. Science says that life started over 3 billion years ago, as single-cell life. This is based on circumstantial evidence of ancient cellular structures that resemble living single-cell structures. Science also says that multi-cell life with significant DNA—structures in a cell that control all phases of cell life—appeared 600 million years ago. The differences here may ultimately be resolved. Science has produced the building blocks of life, but has never combined them to produce any lifelike structure that can reproduce itself. Science has never created life from scratch and does not know how to do it.
 
-<span id="IC4"></span>I.C.4.—End of the Cretaceous Age: 65 Million Years Ago (Geology, [UB 60:2.14](/en/The_Urantia_Book/60#p2_14), [UB 60:3.16](/en/The_Urantia_Book/60#p3_16), [UB 60:3.20-22](/en/The_Urantia_Book/60#p3_20), [UB 60:4.1](/en/The_Urantia_Book/60#p4_1))
+<span id="IC4"></span>I.C.4.—End of the Cretaceous Age: 65 Million Years Ago (Geology, <a id="a162_87"></a>[UB 60:2.14](/en/The_Urantia_Book/60#p2_14), <a id="a162_132"></a>[UB 60:3.16](/en/The_Urantia_Book/60#p3_16), <a id="a162_177"></a>[UB 60:3.20-22](/en/The_Urantia_Book/60#p3_20), <a id="a162_225"></a>[UB 60:4.1](/en/The_Urantia_Book/60#p4_1))
 
 Science knows that the dinosaurs and many other classes of life disappeared about 65 million years ago in what is called the end of the Cretaceous age. Science's newest theory is that a 10-mile-diameter meteor struck the Earth; this created a long-lasting dust and cloud cover that blocked sunlight and adversely affected plant growth and, thus, many other living species. The crucial clue is the presence of a high concentration of the heavy element, iridium, in the boundary layer of deposits at the end of the Cretaceous. Iridium is not plentiful at the Earth's surface; it is found deep in the Earth or on certain meteors. The book says that the greatest lava flow of all time occurred at the end of the Cretaceous—it covered parts of several continents. It could have come from deep in the Earth, thus providing a source of iridium.
 
-<span id="IC5"></span>I.C.5.—Breakup of the Fifth Planet from the Sun (Astronomy, Cosmology, [UB 57:6.5](/en/The_Urantia_Book/57#p6_5))
+<span id="IC5"></span>I.C.5.—Breakup of the Fifth Planet from the Sun (Astronomy, Cosmology, <a id="a166_93"></a>[UB 57:6.5](/en/The_Urantia_Book/57#p6_5))
 
 The book says that the fifth planet from the sun was slowly attracted by the gravity of the giant sixth planet, Jupiter. When it was close enough, Jupiter's gravity pulled the fifth planet apart. Science now says there never was a fifth planet, and that the asteroids are pieces of space matter (planetesimals) that never formed a planet.
 
@@ -174,11 +174,11 @@ Score: Five presently unfilled predictions.
 
 ### Category II—Predictions Unknown to Science in 1935
 
-<span id="ID1"></span>II.D.1.—Dark Matter in the Universe (Astronomy, [UB 15:6.11](/en/The_Urantia_Book/15#p6_11), [UB 15:8.1](/en/The_Urantia_Book/15#p8_1))
+<span id="ID1"></span>II.D.1.—Dark Matter in the Universe (Astronomy, <a id="a176_70"></a>[UB 15:6.11](/en/The_Urantia_Book/15#p6_11), <a id="a176_115"></a>[UB 15:8.1](/en/The_Urantia_Book/15#p8_1))
 
 The book discusses “dark matter” and “dark islands of space” and says that we will discover dark matter soon. Because dark matter cannot be seen (it emits no light), science knows little about it. Science thinks that some dark matter is different from normal matter, such as a dense, cooled star. Recently, science has found several good theoretical reasons for the existence of such matter. Serious efforts are being made to find such matter, and positive results can be expected in the future. This has a very good chance of coming true.
 
-<span id="ID2"></span>II.D.2.—Organization of Matter in a Superuniverse (Astronomy, [LU 15:2.10-25](/es/The_Urantia_Book/15#p2_10), [UB 15:3.1-16](/en/The_Urantia_Book/15#p3_1))
+<span id="ID2"></span>II.D.2.—Organization of Matter in a Superuniverse (Astronomy, [LU 15:2.10-25](/es/The_Urantia_Book/15#p2_10), <a id="a180_132"></a>[UB 15:3.1-16](/en/The_Urantia_Book/15#p3_1))
 
 The book describes the organization of matter in a superuniverse. Science knows about some of this information, but does not know it all. In fact, science does not know about superuniverses. The book says that science will discover some of this information soon. The table below compares the equivalent information from science and _The Urantia Book_. The first column lists the Urantia criteria for the number of inhabited worlds in parts of a superuniverse. The other columns are self-explanatory. There is a question as to whether the Milky Way galaxy is a local universe or a minor sector of a superuniverse.
 
@@ -194,69 +194,69 @@ Number of inhabited worlds | _The Urantia Book_ | Today's science
 7,000 billion | The “Great Universe” | Universe?
 ? | The “Master Universe” | Universe?
 
-<span id="ID3"></span>II.D.3.—Location of Seven Superuniverses in the Grand Universe (Astronomy, [UB 15:1.1-3](/en/The_Urantia_Book/15#p1_1))
+<span id="ID3"></span>II.D.3.—Location of Seven Superuniverses in the Grand Universe (Astronomy, <a id="a196_97"></a>[UB 15:1.1-3](/en/The_Urantia_Book/15#p1_1))
 
 The book describes the seven superuniverses circling around Havona in a planar elliptical course. It also says that science has almost found superuniverse number seven and will find the rest soon. In 1935, science thought that all the galaxies were uniformly distributed throughout space. The existence of large voids between galaxies and the clustering of galaxies have only recently been discovered. This also has a chance of coming true.
 
-<span id="ID4"></span>II.D.4.—Use of DNA to Evolve Human Species (Genetics, [UB 65:3.4-6](/en/The_Urantia_Book/65#p3_4))
+<span id="ID4"></span>II.D.4.—Use of DNA to Evolve Human Species (Genetics, <a id="a200_76"></a>[UB 65:3.4-6](/en/The_Urantia_Book/65#p3_4))
 
 The book says that the human species will no longer evolve by natural means. Scientific knowledge of DNA will be used in the future to improve the human species. Science is just getting started to map the entire human DNA genome. After this is completed, we may be able to start to understand how the DNA functions. Even now we are just starting to attack some genetic diseases which are apparently caused by errors in the DNA. This will probably come true in the future.
 
 Score: Four predictions with good chances of coming true.
 
-<span id="IE1"></span>II.E.1.—Reduced Gravity Effect on Calcium Ion (Physics, [UB 41:6.1-7](/en/The_Urantia_Book/41#p6_1))
+<span id="IE1"></span>II.E.1.—Reduced Gravity Effect on Calcium Ion (Physics, <a id="a206_78"></a>[UB 41:6.1-7](/en/The_Urantia_Book/41#p6_1))
 
 Calcium atoms usually have two outermost electrons and are electrically balanced. At very high temperatures, one of the negatively charged electrons can be removed, and the resulting ion is positively charged. The book claims that such ions are slightly less affected by gravity than normal calcium atoms (beyond the mere loss of an electron's mass), and this accounts for the higher concentration of calcium atoms on the sun's surface rather than inside. This reduced gravity is quite unexpected, and might even be worth a Nobel prize to the scientist who discovers it. A test of this would require generating a beam of calcium atoms and a beam of high-temperature calcium ions, and comparing the effect of gravity on the two beams.
 
-<span id="IE2"></span>II.E.2.—No Gravity Effect on Free Neutrons (Physics, [UB 42:6.2-3](/en/The_Urantia_Book/42#p6_2))
+<span id="IE2"></span>II.E.2.—No Gravity Effect on Free Neutrons (Physics, <a id="a210_75"></a>[UB 42:6.2-3](/en/The_Urantia_Book/42#p6_2))
 
 The book says there is no gravity pull on free, uncharged, unattached electronic energy particles. We take this to include free neutrons. This is also quite unexpected, and might likewise be worth a Nobel prize. It might be checked by generating a very weak beam of neutrons and measuring the effect of gravity on the beam.
 
-<span id="IE3"></span>II.E.3.—The Origin of the Sunspot Cycle (Astronomy, [UB 41:3.9](/en/The_Urantia_Book/41#p3_9), [UB 57:5.2](/en/The_Urantia_Book/57#p5_2))
+<span id="IE3"></span>II.E.3.—The Origin of the Sunspot Cycle (Astronomy, <a id="a214_74"></a>[UB 41:3.9](/en/The_Urantia_Book/41#p3_9), <a id="a214_117"></a>[UB 57:5.2](/en/The_Urantia_Book/57#p5_2))
 
 The book says that our 11-year sunspot cycle is a slow remnant of the short-term (3.5 day) Cepheid Variable phase of the sun. The Cepheid phase of a star is a cyclic variation of the brightness of a star, and the frequency of the variation and the brightness are related. Although science does not make this claim, it is plausible. A study would require accurate brightness measurements of very long-term Cepheid Variable stars and precise, space-based, long-term measurements of the variations in the sun's brightness.
 
-<span id="IE4"></span>II.E.4.—Twelve Planets in Our Solar System (Astronomy, [UB 57:5.7](/en/The_Urantia_Book/57#p5_7), [UB 57:5.9](/en/The_Urantia_Book/57#p5_9))
+<span id="IE4"></span>II.E.4.—Twelve Planets in Our Solar System (Astronomy, <a id="a218_77"></a>[UB 57:5.7](/en/The_Urantia_Book/57#p5_7), <a id="a218_120"></a>[UB 57:5.9](/en/The_Urantia_Book/57#p5_9))
 
 While science knows of nine planets and the remnants or pre-planetesimals of a tenth, the book says there are twelve planets in the sun's family. Astronomers are presently looking for other planets by watching for very small changes in motions of the outer planets, which could be caused by the gravity of two faraway planets. The two space probes that are traveling beyond Pluto, Pioneer 10 and 11, are also being watched for small changes that might be caused by the gravity of another planet or two.[^12]
 
-<span id="IE5"></span>II.E.5.—Two Unknown Types of Energy (Physics, [UB 42:5.2-4](/en/The_Urantia_Book/42#p5_2))
+<span id="IE5"></span>II.E.5.—Two Unknown Types of Energy (Physics, <a id="a222_68"></a>[UB 42:5.2-4](/en/The_Urantia_Book/42#p5_2))
 
 The book discusses all the types of electromagnetic radiation known to science. It also discusses two other types of radiation that science does not know. One is called infraultimatonic rays and is involved in the first stage of created energy. The other is called ultimatonic rays and involves the conversion of energy to ultimaton particles (see sixth prediction of next section). Some of the experimental work with high-energy machines may lead to discovery of these rays.[^13]
 
 Score: Five predictions awaiting further work.
 
-<span id="IF1"></span>II.F.1.—Cause of Wave Action of Light (Physics, [UB 41:5.6-8](/en/The_Urantia_Book/41#p5_6))
+<span id="IF1"></span>II.F.1.—Cause of Wave Action of Light (Physics, <a id="a228_70"></a>[UB 41:5.6-8](/en/The_Urantia_Book/41#p5_6))
 
 The book says that light consists of particles, but another energy, unknown on Earth, acting on the light causes the particles to bunch together in a wavelike fashion. Science knows that light has wave and particle properties, but does not know why both properties exist.[^14]
 
-<span id="IF2"></span>II.F.2.—Speed Greater than the Speed of Light (Physics, Theology, [UB 23:3.2](/en/The_Urantia_Book/23#p3_2))
+<span id="IF2"></span>II.F.2.—Speed Greater than the Speed of Light (Physics, Theology, <a id="a232_88"></a>[UB 23:3.2](/en/The_Urantia_Book/23#p3_2))
 
 Science maintains that a physical body cannot move faster than the speed of light. The book discusses speeds faster than the speed of light, but it is talking about spiritual matter rather than physical.[^15]
 
-<span id="IF3"></span>II.F.3.—Two Kinds of Gravity (Physics, [UB 11:8.2-3](/en/The_Urantia_Book/11#p8_2), [UB 41:9.2](/en/The_Urantia_Book/41#p9_2))
+<span id="IF3"></span>II.F.3.—Two Kinds of Gravity (Physics, <a id="a236_61"></a>[UB 11:8.2-3](/en/The_Urantia_Book/11#p8_2), <a id="a236_106"></a>[UB 41:9.2](/en/The_Urantia_Book/41#p9_2))
 
 Science is familiar with the gravitational attraction between two physical bodies, but it does not understand the fundamentals. The book calls this linear gravity. It also talks about radial gravity, which apparently works between the central universe and certain other bodies—free ultimatons—and between the central universe and energy. Science has conducted very difficult experiments to see if linear gravity affects light energy. It does, but there may be enough of a discrepancy to account for another type of gravity.
 
-<span id="IF4"></span>II.F.4.—Anti-gravity (Physics, [UB 9:3.1-4](/en/The_Urantia_Book/9#p3_1), [UB 9:3.6](/en/The_Urantia_Book/9#p3_6))
+<span id="IF4"></span>II.F.4.—Anti-gravity (Physics, <a id="a240_53"></a>[UB 9:3.1-4](/en/The_Urantia_Book/9#p3_1), <a id="a240_96"></a>[UB 9:3.6](/en/The_Urantia_Book/9#p3_6))
 
 The book discusses anti-gravity and some particles that are affected by it. Science speculates that anti-gravity may exist, but has few ideas about it. [^16]
 
-<span id="IF5"></span>II.F.5.—Major Energy of Space (Physics, [UB 41:1.1-2](/en/The_Urantia_Book/41#p1_1), [UB 42:1.3](/en/The_Urantia_Book/42#p1_3))
+<span id="IF5"></span>II.F.5.—Major Energy of Space (Physics, <a id="a244_62"></a>[UB 41:1.1-2](/en/The_Urantia_Book/41#p1_1), <a id="a244_107"></a>[UB 42:1.3](/en/The_Urantia_Book/42#p1_3))
 
 The book says that light and electricity are not the major energy of space. Apparently neither is gravity. The book said that science did not know about it in 1935. This energy apparently flows through space in circuits. One wonders if the book is referring to the strong nuclear force which science now knows about, and which is involved in the conversion of mass to energy in the stars. However, this energy does not flow through space.
 
-<span id="IF6"></span>II.F.6.—The Ultimaton Particle (Physics, [UB 42:3.3](/en/The_Urantia_Book/42#p3_3), [UB 42:4.6](/en/The_Urantia_Book/42#p4_6), [UB 42:6.4-6](/en/The_Urantia_Book/42#p6_4))
+<span id="IF6"></span>II.F.6.—The Ultimaton Particle (Physics, <a id="a248_63"></a>[UB 42:3.3](/en/The_Urantia_Book/42#p3_3), <a id="a248_106"></a>[UB 42:4.6](/en/The_Urantia_Book/42#p4_6), <a id="a248_149"></a>[UB 42:6.4-6](/en/The_Urantia_Book/42#p6_4))
 
 The book discusses the fundamental particle, the _ultimaton_. This is the first mass particle that energy is converted to. One hundred ultimatons make up an electron, but they do not use orbits of motion as electrons do; perhaps some kind of structure is involved. Science has no idea that electrons are made up of smaller particles. [^17]
 
-<span id="IF7"></span>II.F.7.—Neanderthal to Cro-magnon Transition (Anthropology, [UB 78:0.2](/en/The_Urantia_Book/78#p0_2), [UB 78:4.1](/en/The_Urantia_Book/78#p4_1), [UB 80:1.5-7](/en/The_Urantia_Book/80#p1_5))
+<span id="IF7"></span>II.F.7.—Neanderthal to Cro-magnon Transition (Anthropology, <a id="a252_82"></a>[UB 78:0.2](/en/The_Urantia_Book/78#p0_2), <a id="a252_125"></a>[UB 78:4.1](/en/The_Urantia_Book/78#p4_1), <a id="a252_168"></a>[UB 80:1.5-7](/en/The_Urantia_Book/80#p1_5))
 
 Science is aware that there was a rapid change from neanderthal types of humans to cro-magnon or modern man about 35,000 years ago. Science does not know how this happened so quickly, since evolution will not account for such a quick transformation. The book says that the descendants of superior extraterrestrials—namely, Adam and Eve—crossbred with indigenous Earth people to create modern man, who wiped out the neanderthals. [^18]
 
-<span id="IF8"></span>II.F.8.—Life of an Ordinary Star (Stellar Physics, [UB 15:6.9](/en/The_Urantia_Book/15#p6_9), [UB 41:7.14](/en/The_Urantia_Book/41#p7_14), [UB 41:9.5](/en/The_Urantia_Book/41#p9_5))
+<span id="IF8"></span>II.F.8.—Life of an Ordinary Star (Stellar Physics, <a id="a256_73"></a>[UB 15:6.9](/en/The_Urantia_Book/15#p6_9), <a id="a256_116"></a>[UB 41:7.14](/en/The_Urantia_Book/41#p7_14), <a id="a256_161"></a>[UB 41:9.5](/en/The_Urantia_Book/41#p9_5))
 
-The book says that an ordinary star, like the sun, can shine for billions of years ([UB 41:9.5](/en/The_Urantia_Book/41#p9_5)). Science also calculates that stars can generate enough energy to shine for billions of years. But the book says ([UB 41:7.14](/en/The_Urantia_Book/41#p7_14)) stars that are in the mainstream of space energy flow can acquire more energy and shine indefinitely. On [UB 15:6.9](/en/The_Urantia_Book/15#p6_9), the book claims star life of trillions of years. The existence of a special space energy flow is unknown to science, as is the existence of flow channels for this energy.
+The book says that an ordinary star, like the sun, can shine for billions of years (<a id="a258_84"></a>[UB 41:9.5](/en/The_Urantia_Book/41#p9_5)). Science also calculates that stars can generate enough energy to shine for billions of years. But the book says (<a id="a258_241"></a>[UB 41:7.14](/en/The_Urantia_Book/41#p7_14)) stars that are in the mainstream of space energy flow can acquire more energy and shine indefinitely. On <a id="a258_391"></a>[UB 15:6.9](/en/The_Urantia_Book/15#p6_9), the book claims star life of trillions of years. The existence of a special space energy flow is unknown to science, as is the existence of flow channels for this energy.
 
 Score: 8 predictions science does not know about.
 
@@ -266,7 +266,7 @@ Score: 8 predictions science does not know about.
 
 The book says that if the chemical elements are listed by increasing atomic weight (relates to atomic structure), the lighter ones repeat their chemical properties every seventh active element. However, there are inactive elements in the sequence (the noble gases, such as helium and neon), and this stretches the actual sequence to eight elements. This is the number that science uses, and has known this for over 100 years. Some recently completed work has shown that some of the noble gases are slightly reactive, and this is now complicating the problem. The book talks about a repetition every seven elements, because seven is an important spiritual number.
 
-<span id="IG2"></span>III.G.2.—Surface Temperature of the Sun (Astronomy, [UB 41:7.1-2](/en/The_Urantia_Book/41#p7_1))
+<span id="IG2"></span>III.G.2.—Surface Temperature of the Sun (Astronomy, <a id="a268_74"></a>[UB 41:7.1-2](/en/The_Urantia_Book/41#p7_1))
 
 The book says that the surface temperature of the sun is 6,000 degrees Fahrenheit. Science measures the temperature of the sun as 6,000 degrees Centigrade, or 10,000 degrees Fahrenheit. This could be due to any of a number of errors. There is another solar temperature mentioned in the same paragraph, and this one agrees with science's value.
 
@@ -312,25 +312,25 @@ Revelation is matched to the needs of those who receive it. It may not completel
 
 [^1]: _Author's Note_: The first edition of _The Mind at Mischief_ by Dr. William S. Sadler, Funk & Wagnalls 1929, has a note about the use of stenography in the transmission of the Urantia Papers.
 
-[^2]: _Editor's Note_: [UB 101:4](/en/The_Urantia_Book/101#p4) Section in Paper 101 titled _The Limitations of Revelation_ gives an account of the restrictions set on the book. A paragraph goes like this: “We are not at liberty to anticipate the scientific discoveries of a thousand years.”
+[^2]: _Editor's Note_: <a id="a314_23"></a>[UB 101:4](/en/The_Urantia_Book/101#p4) Section in Paper 101 titled _The Limitations of Revelation_ gives an account of the restrictions set on the book. A paragraph goes like this: “We are not at liberty to anticipate the scientific discoveries of a thousand years.”
 
 [^3]: _Editor's Note_: Albert A. Michelson conducted several experiments to measure the speed of light between 1920 and 1931. Although, in fact, around 1931 he determined a value of 299,774 ± 11 km/s, which was published posthumously, it is curious, however, that in 1922 he had determined another higher value of 299,796 ± 4 km/s that was not considered as accurate due to measurement problems, which was discarded, and which is very close to the value offered by _The Urantia Book_. https://en.wikipedia.org/wiki/Albert_A._Michelson
 
 [^4]: _Author's Note_: Parentheses show the field of science and _The Urantia Book_ reference. Scientific information is available in any good modern encyclopedia.
 
-[^5]: _Editor's Note_: The text quoted from the book ([UB 65:4.3-6](/en/The_Urantia_Book/65#p4_3)) speaks of “controlling certain serious diseases”, which fits very well with cancer. The last paragraph is revealing when it says that a system was implanted on another inhabited planet not far from us, improving the technique to further control the ability of normal cells to proliferate. As is known, a cancer is a disordered proliferation of normal cells. It is quite possible that these paragraphs from _The Urantia Book_ are heralding the future discovery of a cure for cancer.
+[^5]: _Editor's Note_: The text quoted from the book (<a id="a320_54"></a>[UB 65:4.3-6](/en/The_Urantia_Book/65#p4_3)) speaks of “controlling certain serious diseases”, which fits very well with cancer. The last paragraph is revealing when it says that a system was implanted on another inhabited planet not far from us, improving the technique to further control the ability of normal cells to proliferate. As is known, a cancer is a disordered proliferation of normal cells. It is quite possible that these paragraphs from _The Urantia Book_ are heralding the future discovery of a cure for cancer.
 
 [^6]: _Editor's Note_: The theory of _continental drift_ was proposed by the German Alfred Wegener in 1912. This theory, together with the theory of _spreading of the ocean floor_ were included in the 1960s in the theory of _Tectonic plates_. https://en.wikipedia.org/wiki/Continental_drift
 
-[^7]: _Editor's Note_: Science is currently unclear on how the Sun formed. If there was a nebula in this part of the galaxy, there is no longer a trace of such a nebula. Science has not detected any. The book also agrees with this by saying that “the great Andronover Nebula is no more” ([UB 57:4.9](/en/The_Urantia_Book/57#p4_9)). Despite this, two recent studies seem to begin to suggest that the Sun did not form alone. Vincent Tatischeff, from the French national scientific research center, has published a study in which he assures that the presence in our solar system of short-lived radioisotopes such as beryllium-10 (^10^Be) can only be explained if the Sun was formed by some system involving the existence of either another massive star, or a giant molecular cloud produced by a bunch of supernovae. (Vincent Tatischeff, Jean Dupart, Nicolas de Séréville, _Light-element nucleosynthesis in a molecular cloud interacting with a supernova remnant and the origin of Beryllium in the protosolar nebula_, _The Astrophysical Journal_, 2014.) And a recent study by Anthony Brown, of the University of Missouri, has tried to map the brothers of the Sun, the several thousand suns that science estimates that they formed at the same time as the Sun. (Anthony G. A. Brown, Simon F. Portegies Zwart, Jennifer Bean, _The Quest for the Sun's Siblings: an Exploratory Search in the Hipparcos Catalogue_, _Monthly Notices of the Royal Astronomical Society_, 2010 .) To date, these suns have not yet been detected.
+[^7]: _Editor's Note_: Science is currently unclear on how the Sun formed. If there was a nebula in this part of the galaxy, there is no longer a trace of such a nebula. Science has not detected any. The book also agrees with this by saying that “the great Andronover Nebula is no more” (<a id="a324_288"></a>[UB 57:4.9](/en/The_Urantia_Book/57#p4_9)). Despite this, two recent studies seem to begin to suggest that the Sun did not form alone. Vincent Tatischeff, from the French national scientific research center, has published a study in which he assures that the presence in our solar system of short-lived radioisotopes such as beryllium-10 (^10^Be) can only be explained if the Sun was formed by some system involving the existence of either another massive star, or a giant molecular cloud produced by a bunch of supernovae. (Vincent Tatischeff, Jean Dupart, Nicolas de Séréville, _Light-element nucleosynthesis in a molecular cloud interacting with a supernova remnant and the origin of Beryllium in the protosolar nebula_, _The Astrophysical Journal_, 2014.) And a recent study by Anthony Brown, of the University of Missouri, has tried to map the brothers of the Sun, the several thousand suns that science estimates that they formed at the same time as the Sun. (Anthony G. A. Brown, Simon F. Portegies Zwart, Jennifer Bean, _The Quest for the Sun's Siblings: an Exploratory Search in the Hipparcos Catalogue_, _Monthly Notices of the Royal Astronomical Society_, 2010 .) To date, these suns have not yet been detected.
 
 [^8]: _Editor's Note_: This theory is known as the _Steady-state model_. https://en.wikipedia.org/wiki/Steady-state_model
 
-[^9]: _Editor's Note_: The “cosmic upheaval” that brought about the end of our nebula occurred 8 to 10 billion years ago ([UB 57:4.6](/en/The_Urantia_Book/57#p4_6)), close to the figure current science gives for the age of the universe. https://en.wikipedia.org/wiki/Age_of_the_universe
+[^9]: _Editor's Note_: The “cosmic upheaval” that brought about the end of our nebula occurred 8 to 10 billion years ago (<a id="a328_122"></a>[UB 57:4.6](/en/The_Urantia_Book/57#p4_6)), close to the figure current science gives for the age of the universe. https://en.wikipedia.org/wiki/Age_of_the_universe
 
 [^10]: _Editor's Note_: This theory is known as the _Chamberlin—Moulton planetesimal hypothesis_. https://en.wikipedia.org/wiki/Chamberlin–Moulton_planetesimal_hypothesis
 
-[^11]: _Editor's Note_: When speaking about Angina, it is unclear what _The Urantia Book_ refers to by “dark giant” designation. It does not appear to be a _black hole_, as the book uses the term “dark islands of space” ([UB 15:3.1](/en/The_Urantia_Book/15#p3_1), [UB 15:5.11](/en/The_Urantia_Book/ 15#p5_11), [UB 15:6.3](/en/The_Urantia_Book/15#p6_3), [UB 15:6.11](/en/The_Urantia_Book/15#p6_11), [UB 15:8.7](/en/The_Urantia_Book /15#p8_7)) to refer to them. It could refer to some of the stellar objects that are being postulated recently, such as [black stars](https://en.wikipedia.org/wiki/Black_star_\(semiclassical_gravity\)), [dark energy stars](https://en.wikipedia.org/wiki/Dark-energy_star), [gravastars](https://en.wikipedia.org/wiki/Gravastar), or [black dwarfs](https://en.wikipedia.org/wiki/Black_dwarf), objects whose actual existence is not yet known.
+[^11]: _Editor's Note_: When speaking about Angina, it is unclear what _The Urantia Book_ refers to by “dark giant” designation. It does not appear to be a _black hole_, as the book uses the term “dark islands of space” (<a id="a332_221"></a>[UB 15:3.1](/en/The_Urantia_Book/15#p3_1), [UB 15:5.11](/en/The_Urantia_Book/ 15#p5_11), <a id="a332_310"></a>[UB 15:6.3](/en/The_Urantia_Book/15#p6_3), <a id="a332_353"></a>[UB 15:6.11](/en/The_Urantia_Book/15#p6_11), [UB 15:8.7](/en/The_Urantia_Book /15#p8_7)) to refer to them. It could refer to some of the stellar objects that are being postulated recently, such as [black stars](https://en.wikipedia.org/wiki/Black_star_\(semiclassical_gravity\)), [dark energy stars](https://en.wikipedia.org/wiki/Dark-energy_star), [gravastars](https://en.wikipedia.org/wiki/Gravastar), or [black dwarfs](https://en.wikipedia.org/wiki/Black_dwarf), objects whose actual existence is not yet known.
 
 [^12]: _Editor's Note_: The existence of a “Planet Nine” has recently been proposed to account for the asymmetry of the orbits of other planets. https://en.wikipedia.org/wiki/Planet_Nine
 
@@ -338,9 +338,9 @@ Revelation is matched to the needs of those who receive it. It may not completel
 
 [^14]: _Editor's Note_: The energy that causes the wave effect of light, according to _The Urantia Book_, is present in the regions of space but has yet to be discovered. Recent articles in the _European Physical Journal_ suggest that the vacuum contains “pairs of particles such as electron-positrons or quark-antiquark” that affect the speed of light and are presumably responsible for the wave-particle nature. https://www.sciencedaily.com/releases/2013/03/130325111154.htm
 
-[^15]: _Editor's note_: The book says that very high beings known as Solitary Messengers are employed for “the quick transmission of important and urgent messages” and that they travel at speeds of 1,354,458,739,000 km per second ([UB 23:3.1-3](/en/The_Urantia_Book/23#p3_3)) or four and a half million times the speed of light (4.5 Mc). Doing the math, it can be seen that a Solitary Messenger, despite its superfast speed, takes over 11 minutes to travel 1,000 light years and more than a week to travel a million light years. Even so, it is an adequate speed to be able to travel through the incredible distances of distant galaxies, which are millions and millions of light years from us.
+[^15]: _Editor's note_: The book says that very high beings known as Solitary Messengers are employed for “the quick transmission of important and urgent messages” and that they travel at speeds of 1,354,458,739,000 km per second (<a id="a340_231"></a>[UB 23:3.1-3](/en/The_Urantia_Book/23#p3_3)) or four and a half million times the speed of light (4.5 Mc). Doing the math, it can be seen that a Solitary Messenger, despite its superfast speed, takes over 11 minutes to travel 1,000 light years and more than a week to travel a million light years. Even so, it is an adequate speed to be able to travel through the incredible distances of distant galaxies, which are millions and millions of light years from us.
 
-[^16]: _Editor's note_: _The Urantia Book_ tells us that “the Infinite Spirit possesses a unique and amazing power *— antigravity.*” ([UB 9:3.2](/en/The_Urantia_Book/9#p3_2)), a power that beings descended from the Infinite Spirit also possess. Some scientists now believe that _dark energy_ exhibits antigravity effects. _Dark energy_ is a theoretical form of energy that would be present throughout the universe opposing gravitational attraction, and that would explain the accelerated expansion of the universe. https://en.wikipedia.org/wiki/Dark_energy
+[^16]: _Editor's note_: _The Urantia Book_ tells us that “the Infinite Spirit possesses a unique and amazing power *— antigravity.*” (<a id="a342_134"></a>[UB 9:3.2](/en/The_Urantia_Book/9#p3_2)), a power that beings descended from the Infinite Spirit also possess. Some scientists now believe that _dark energy_ exhibits antigravity effects. _Dark energy_ is a theoretical form of energy that would be present throughout the universe opposing gravitational attraction, and that would explain the accelerated expansion of the universe. https://en.wikipedia.org/wiki/Dark_energy
 
 [^17]: _Editor's note_: The _ultimatons_ could be what current science calls gluons (which are vector gauge bosons just like photons). Gluons act as the strong interaction force between quarks, and quarks are believed to be constituent parts of neutrons and protons. Despite the similarities with gluons, current science considers electrons to be non-divisible elementary particles. https://en.wikipedia.org/wiki/Gluon
 

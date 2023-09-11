@@ -42,11 +42,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1350 to 1250 B.C.
 1. Sources: Yahwist record in the tenth century, the Elohist in the eighth. After that come the priestly records.
-2. There is little doubt that Moses was a historic personality. The Moses narrative in the Urantia Book is found on [UB 96:3.1](/en/The_Urantia_Book/96#p3_1)
+2. There is little doubt that Moses was a historic personality. The Moses narrative in the Urantia Book is found on <a id="s44_116"></a>[UB 96:3.1](/en/The_Urantia_Book/96#p3_1)
 3. The beginnings of Moses’ religion are obscure. But he created a religious ceremonial for Israel that culminated in Solomon’s temple.
 4. In all Israel, there was no outstanding leader between Moses and David.
 5. The Hebrews probably entered Egypt under the Hyksos—1750-1560 B.C.
-6. Moses may have been influenced by the solar monotheism of [Amenhotep (Ikhnaton)](/en/The_Urantia_Book/95#p5_1). This philosophy is presented in Ps. 104.
+6. Moses may have been influenced by the solar monotheism of <a id="s48_61"></a>[Amenhotep (Ikhnaton)](/en/The_Urantia_Book/95#p5_1). This philosophy is presented in Ps. 104.
 7. Moses killed an Egyptian who had struck a Hebrew laborer, and then fled to the East, where he lived with the Kenites.
 8. Moses married Zipporah, the daughter of Jethro. She bore him two sons.
 9. While tending sheep Yahweh speaks to him from the “burning bush.”
@@ -55,7 +55,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 12. The religion of the Israelites begins under miraculous circumstances—the manna and the quails.
 13. Hebrew religion starts at Mount Horeb. Yahweh speaks—but not as a nature god. A new Deity appears.
 14. But when Moses tarried too long on the mountain, they went back to the worship of the “golden calf.”
-15. Moses’ father-in-law helped him organize the “multitudes.” This Kenite clan, with a remnant of the Salem religion, readily accepted the Yahweh revelation. See [UB 96:5.3](/en/The_Urantia_Book/96#p5_3)
+15. Moses’ father-in-law helped him organize the “multitudes.” This Kenite clan, with a remnant of the Salem religion, readily accepted the Yahweh revelation. See <a id="s57_163"></a>[UB 96:5.3](/en/The_Urantia_Book/96#p5_3)
 16. Yahweh becomes a “God of history”—the God “who brought you out of the land of Egypt.”
 17. Yahweh’s new covenant was based on his oath to Abraham. From start to finish, the nature of Yahweh was **holiness**.
 18. Miriam gets into trouble for criticizing Moses when he marries an Ethiopian (Cushite) woman.

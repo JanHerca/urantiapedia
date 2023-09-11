@@ -52,21 +52,21 @@ Dear readers, if these are also your objectives, we encourage you to continue re
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
-> . . .Jesus, hearing the tumult, came out and indignantly reproved them, saying: “Suffer little children to come to me; forbid them not, for of such is the kingdom of heaven. Verily, verily, I say to you, whosoever receives not the kingdom of God as a little child shall hardly enter therein to grow up to the full stature of spiritual manhood.” <a id="a53_347"></a>[UB 167:6.1](/en/The_Urantia_Book/167#p6_1)
+> . . .Jesus, hearing the tumult, came out and indignantly reproved them, saying: “Suffer little children to come to me; forbid them not, for of such is the kingdom of heaven. Verily, verily, I say to you, whosoever receives not the kingdom of God as a little child shall hardly enter therein to grow up to the full stature of spiritual manhood.” <a id="a54_347"></a>[UB 167:6.1](/en/The_Urantia_Book/167#p6_1)
 > 
-> And so does the sacred oftentimes appear to be the common, as on this day these children and their mothers little realized that the onlooking intelligences of Nebadon beheld the children of Jericho playing with the Creator of a universe. <a id="a55_240"></a>[UB 167:6.3](/en/The_Urantia_Book/167#p6_3)
+> And so does the sacred oftentimes appear to be the common, as on this day these children and their mothers little realized that the onlooking intelligences of Nebadon beheld the children of Jericho playing with the Creator of a universe. <a id="a56_240"></a>[UB 167:6.3](/en/The_Urantia_Book/167#p6_3)
 
 Boys and girls lacked any type of social consideration at the time when Jesus of Nazareth lived. Therefore, it is not surprising that the disciples scolded them when they made a fuss near the teacher. To everyone's surprise, however, Jesus exalts them and makes it clear that smallness, simplicity, is the ultimate criterion of the kingdom.
 
-> . . .the Master said: “I want to set men free so that they can start out afresh as little children upon the new and better life.” (<a id="a59_133"></a>[UB 140:8.26](/en/The_Urantia_Book/140#p8_26))
+> . . .the Master said: “I want to set men free so that they can start out afresh as little children upon the new and better life.” (<a id="a60_133"></a>[UB 140:8.26](/en/The_Urantia_Book/140#p8_26))
 
 Furthermore, Jesus comes to identify with them:
 
-> In this giant intellect of the full-grown man the faith of the child reigned supreme in all matters relating to the religious consciousness. It is not strange that he once said, “Except you become as a little child, you shall not enter the kingdom.” Notwithstanding that Jesus’ faith was *childlike,* it was in no sense *childish.* (<a id="a63_335"></a>[UB 196:0.12](/en/The_Urantia_Book/196#p0_12))
+> In this giant intellect of the full-grown man the faith of the child reigned supreme in all matters relating to the religious consciousness. It is not strange that he once said, “Except you become as a little child, you shall not enter the kingdom.” Notwithstanding that Jesus’ faith was *childlike,* it was in no sense *childish.* (<a id="a64_335"></a>[UB 196:0.12](/en/The_Urantia_Book/196#p0_12))
 
 We even read this statement that should make us reflect:
 
-> ““It would appear that the Father in heaven has hidden some of these truths from the wise and haughty, while he has revealed them to babes.. . .”” (<a id="a67_150"></a>[UB 144:8.8](/en/The_Urantia_Book/144#p8_8))
+> ““It would appear that the Father in heaven has hidden some of these truths from the wise and haughty, while he has revealed them to babes.. . .”” (<a id="a68_150"></a>[UB 144:8.8](/en/The_Urantia_Book/144#p8_8))
 
 How surprising it is to see that one of the conditions for following Jesus, something that he reiterated a lot to his disciples then (and to those now, of course) is “to be like children.” A religious Master from more than 2000 years ago has that curious and strange idea for what was in style then, and we can ask ourselves: why does he use children as a model?
 
@@ -94,7 +94,7 @@ But the ultimate reason why we adults don't play is because of the fear of makin
 
 Precisely, in _The Urantia Book_ we observe that Jesus played with some frequency with the little ones, without complexes and enjoying himself. Something that those of us who claim to be his followers can take note of:
 
-> The banquet went along in a very cheerful and normal manner except that all the apostles were unusually sober. Jesus was exceptionally cheerful and had been playing with the children up to the time of coming to the table. (<a id="a95_225"></a>[UB 172:1.4](/en/The_Urantia_Book/172#p1_4))
+> The banquet went along in a very cheerful and normal manner except that all the apostles were unusually sober. Jesus was exceptionally cheerful and had been playing with the children up to the time of coming to the table. (<a id="a96_225"></a>[UB 172:1.4](/en/The_Urantia_Book/172#p1_4))
 
 - **Laughter**
 
@@ -102,11 +102,11 @@ Knowing how to laugh, laugh, is something rare among the elderly: it means letti
 
 In _The Urantia Book_ we note that the Master was known for his great sense of humor:
 
-> It was always difficult for Jesus to comprehend the harm of certain sorts of play which were forbidden on the Sabbath, but he never failed to conform to his parents’ wishes. He had a capacity for humor and play which was afforded little opportunity for expression in the environment of his day and generation, . . .. (<a id="a103_320"></a>[UB 123:4.3](/en/The_Urantia_Book/123#p4_3))
+> It was always difficult for Jesus to comprehend the harm of certain sorts of play which were forbidden on the Sabbath, but he never failed to conform to his parents’ wishes. He had a capacity for humor and play which was afforded little opportunity for expression in the environment of his day and generation, . . .. (<a id="a104_320"></a>[UB 123:4.3](/en/The_Urantia_Book/123#p4_3))
 
 He often used humor as a way to relieve tension and promote relaxation and harmony among his peers:
 
-> They were all seated in the garden at just about noon when the Master appeared. They wore expressions of dignified solemnity, and all arose to their feet as he approached them. Jesus relieved the tension by that friendly and fraternal smile which was so characteristic of him when his followers took themselves, or some happening related to themselves, too seriously. (<a id="a107_371"></a>[UB 157:4.3](/en/The_Urantia_Book/157#p4_3))
+> They were all seated in the garden at just about noon when the Master appeared. They wore expressions of dignified solemnity, and all arose to their feet as he approached them. Jesus relieved the tension by that friendly and fraternal smile which was so characteristic of him when his followers took themselves, or some happening related to themselves, too seriously. (<a id="a108_371"></a>[UB 157:4.3](/en/The_Urantia_Book/157#p4_3))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-4.jpg" alt="Editorial marzo 2023-4">
@@ -114,13 +114,13 @@ He often used humor as a way to relieve tension and promote relaxation and harmo
 
 We also discover, to our surprise, that there are celestial beings like angels of fun who take an interest in our mood and work to improve it:
 
-> *The angels of diversion.* These are the seraphim who foster the values of play, humor, and rest. They ever seek to uplift man’s recreational diversions and thus to promote the more profitable utilization of human leisure. (<a id="a115_226"></a>[UB 114:6.15](/en/The_Urantia_Book/114#p6_15))
+> *The angels of diversion.* These are the seraphim who foster the values of play, humor, and rest. They ever seek to uplift man’s recreational diversions and thus to promote the more profitable utilization of human leisure. (<a id="a116_226"></a>[UB 114:6.15](/en/The_Urantia_Book/114#p6_15))
 
 This small reflection on this facet of the gospel makes us see how important it is not to prevent your boy or girl from approaching you when you meditate or pray. Put it in the center, as Jesus himself did with the boys and girls who approached him so many times.
 
 That lightness, confidence, good humor, desire to play and learn, receptivity... that the little ones possess, Jesus admired them then and he must admire us too.
 
-> When he had entered the garden, he gathered the apostles around him and taught them further, saying: “You find it difficult to receive my message because you would build the new teaching directly upon the old, but I declare that you must be reborn. You must start out afresh as little children and be willing to trust my teaching and believe in God.” (<a id="a121_354"></a>[UB 140:6.2](/en/The_Urantia_Book/140#p6_2))
+> When he had entered the garden, he gathered the apostles around him and taught them further, saying: “You find it difficult to receive my message because you would build the new teaching directly upon the old, but I declare that you must be reborn. You must start out afresh as little children and be willing to trust my teaching and believe in God.” (<a id="a122_354"></a>[UB 140:6.2](/en/The_Urantia_Book/140#p6_2))
 
 Let's look at the fragility of boys and girls to realize that we all have inside, to a greater or lesser depth, the boy or girl we were one day. But it is not about being that girl or boy that we were once again, but about being after leaving that stage of life behind. «The spiritual life does not invite childish naivety, but a conscious one. Not to an ignorant candor, but wise. It invites you to innocence from experience," says the priest Pablo d'Ors.
 
@@ -132,11 +132,11 @@ And what does that consist of? In seeing the good in the world and remaining as 
 
 The little ones are our teachers when it comes to finding balance in life:
 
-> Worship—contemplation of the spiritual—must alternate with service, contact with material reality. Work should alternate with play; religion should be balanced by humor. (<a id="a133_173"></a>[UB 143:7.3](/en/The_Urantia_Book/143#p7_3))
+> Worship—contemplation of the spiritual—must alternate with service, contact with material reality. Work should alternate with play; religion should be balanced by humor. (<a id="a134_173"></a>[UB 143:7.3](/en/The_Urantia_Book/143#p7_3))
 
 Our dear Master loved and respected the boys and girls, he took them into account in his life and his message. Even in the final messages he didn't forget about them:
 
-> “This gospel of the kingdom belongs to both Jew and gentile, to rich and poor, to free and bond, to male and female, **even to the little children**. And you are **all** to proclaim this gospel of love and truth by the lives which you live in the flesh. (<a id="a137_257"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
+> “This gospel of the kingdom belongs to both Jew and gentile, to rich and poor, to free and bond, to male and female, **even to the little children**. And you are **all** to proclaim this gospel of love and truth by the lives which you live in the flesh. (<a id="a138_257"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
 
 This is how disconcerting, anti-system, amazing our God is: a God who makes himself small and lives with us on Earth, and who also advises us not to disconnect from the little ones in our spiritual growth. Will we follow Jesus, also in his love for the little ones? In his confidence towards God, like a child towards his mother or father? That can be our decision and the beginning of a wonderful adventure that will never end.
 

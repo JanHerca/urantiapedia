@@ -84,13 +84,13 @@ How did Jesus achieve that continuous connection with the Source? He himself hel
 
 > Jesus was particularly averse to praying in public. Up to this time the twelve had heard him pray only a few times. They observed him spending entire nights at prayer or worship, and they were very curious to know the manner or form of his petitions
 > 
-> Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer. (<a id="a85_189"></a>[UB 144:3.13-14](/en/The_Urantia_Book/144#p3_13))
+> Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer. (<a id="a86_189"></a>[UB 144:3.13-14](/en/The_Urantia_Book/144#p3_13))
 
 The priest Pablo D'Ors tells us that one of the most characteristic features of Jesus was his great pedagogical will, to be a Teacher. He understood very soon that, in addition to announcing, he had to teach. His way of being a Master, his teachings, sought to be simple and brief, almost everyone could understand what he was saying, although at different levels of depth. He did not use to argue or develop theories, quite the contrary. She always started from an image, she was an artist: the lilies of the field, the lost coin, the yeast, the cloak, the birds... all her words were images. That is why his preaching was not forgotten and has passed to posterity.
 
 Notice this slightly humorous example of a annoying and annoying neighbor, which Jesus uses to make clear to us the importance of persistence and focus. All the things that surrounded him could reveal Truth, all the images served him:
 
-> If any one of you has a neighbor, and you go to him at midnight and say: ‘Friend, lend me three loaves, for a friend of mine on a journey has come to see me, and I have nothing to set before him’; and if your neighbor answers, ‘Trouble me not, for the door is now shut and the children and I are in bed; therefore I cannot rise and give you bread,’ you will persist, explaining that your friend hungers, and that you have no food to offer him. I say to you, though your neighbor will not rise and give you bread because he is your friend, yet because of your importunity he will get up and give you as many loaves as you need. If, then, persistence will win favors even from mortal man, how much more will your persistence in the spirit win the bread of life for you from the willing hands of the Father in heaven. Again I say to you: Ask and it shall be given you; seek and you shall find; knock and it shall be opened to you. For every one who asks receives; he who seeks finds; and to him who knocks the door of salvation will be opened. (<a id="a91_1044"></a>[UB 144:2.3](/en/The_Urantia_Book/144#p2_3))
+> If any one of you has a neighbor, and you go to him at midnight and say: ‘Friend, lend me three loaves, for a friend of mine on a journey has come to see me, and I have nothing to set before him’; and if your neighbor answers, ‘Trouble me not, for the door is now shut and the children and I are in bed; therefore I cannot rise and give you bread,’ you will persist, explaining that your friend hungers, and that you have no food to offer him. I say to you, though your neighbor will not rise and give you bread because he is your friend, yet because of your importunity he will get up and give you as many loaves as you need. If, then, persistence will win favors even from mortal man, how much more will your persistence in the spirit win the bread of life for you from the willing hands of the Father in heaven. Again I say to you: Ask and it shall be given you; seek and you shall find; knock and it shall be opened to you. For every one who asks receives; he who seeks finds; and to him who knocks the door of salvation will be opened. (<a id="a92_1044"></a>[UB 144:2.3](/en/The_Urantia_Book/144#p2_3))
 
 The first conclusion of all this innovative approach of Jesus is that prayer does not need temples or churches, since the temple is ourselves: our body is the sanctuary where what we call prayer occurs. The adventure of the soul is verified in our body.
 
@@ -98,7 +98,7 @@ From there we arrive at another revolutionary conclusion: if the temple is not n
 
 Another key also refers to an important warning that Jesus gave:
 
-> Jesus warned his followers against thinking that their prayers would be rendered more efficacious by ornate repetitions, eloquent phraseology, fasting, penance, or sacrifices. (<a id="a99_179"></a>[UB 146:2.15](/en/The_Urantia_Book/146#p2_15))
+> Jesus warned his followers against thinking that their prayers would be rendered more efficacious by ornate repetitions, eloquent phraseology, fasting, penance, or sacrifices. (<a id="a100_179"></a>[UB 146:2.15](/en/The_Urantia_Book/146#p2_15))
 
 Praying does not consist in talking a lot, asking eloquently for things, because words, when they are not born from the depths, tend to interfere with the flow of life until they block it; and because when we ask it is always because we have some personal interest. Prayer really doesn't go that way. This is how instead of being a means, words can often become an obstacle.
 
@@ -106,7 +106,7 @@ Silence, on the other hand, devoid of ideas and emotions, is the framework in wh
 
 Silence can never be an obstacle, it is too discreet, humble and naked to hinder anything. No one can be proud of being silent better than another. For this reason, silence is the area in which the spirit can reveal itself more clearly.
 
-> One of the reasons why Peter, James, and John, who so often accompanied Jesus on his long night vigils, never heard Jesus pray, was because their Master so rarely uttered his prayers as spoken words. Practically all of Jesus’ praying was done in the spirit and in the heart—silently. (<a id="a107_287"></a>[UB 144:4.10](/en/The_Urantia_Book/144#p4_10))
+> One of the reasons why Peter, James, and John, who so often accompanied Jesus on his long night vigils, never heard Jesus pray, was because their Master so rarely uttered his prayers as spoken words. Practically all of Jesus’ praying was done in the spirit and in the heart—silently. (<a id="a108_287"></a>[UB 144:4.10](/en/The_Urantia_Book/144#p4_10))
 
 So, let's do as our dear Master: let's enter our room, enter our body, close the door to the senses, separating external stimuli and calming our mind, to listen and look inward, towards Him. Because in the silent room from our stilled body and from our silenced mind is that Source and Center that will satisfy us forever. There will finally be our satisfied heart. We will feel that we are finally awake.
 

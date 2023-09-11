@@ -96,7 +96,7 @@ The old dusty and cornered books already had their moment of splendor, and now t
 
 _The Urantia Book_ exalts precisely this inner transformation, as it seeks to “expand cosmic consciousness and elevate spiritual perception” (0.0.2):
 
-The goal of human self-realization must be spiritual, not material. The only realities worth fighting for are divine, spiritual and eternal. <a id="a97_141"></a>[UB 100:2.6](/en/The_Urantia_Book/100#p2_6)
+The goal of human self-realization must be spiritual, not material. The only realities worth fighting for are divine, spiritual and eternal. <a id="a98_141"></a>[UB 100:2.6](/en/The_Urantia_Book/100#p2_6)
 
 And it is about furthering this magnificent objective for our lives with the new revision of the translation of _The Urantia Book_ into Spanish. A simple element: the book. An extraordinary lesson inside: the personal encounter with God.
 
@@ -260,7 +260,7 @@ Eduardo Altuzarra
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="My favorite paragraph - oct 2021">
 </figure>
 
-> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a261_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a262_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
 Most of us who are dedicated to reading books almost always point to, underline, copy, reference a series of paragraphs because we consider them interesting, enlightening or transcendental.
 

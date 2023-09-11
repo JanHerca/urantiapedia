@@ -55,9 +55,9 @@ Santi has implied, in the thread about how many survive, that the soul is not bo
 
 The first moral decision brings the Adjuster precisely to collect that universal value forever, and the spiritualization of the self begins. This spiritualization of the self gives birth to the soul. I copy two paragraphs from 111:2.
 
-> “_This supernal transaction of evolving the immortal soul is made possible because the mortal mind is first personal and second is in contact with superanimal realities; it possesses a supermaterial endowment of cosmic ministry which insures the evolution of a moral nature capable of making moral decisions, thereby effecting a bona fide creative contact with the associated spiritual ministries and with the indwelling Thought Adjuster._” (<a id="a56_444"></a>[UB 111:2.9](/en/The_Urantia_Book/111#p2_9))
+> “_This supernal transaction of evolving the immortal soul is made possible because the mortal mind is first personal and second is in contact with superanimal realities; it possesses a supermaterial endowment of cosmic ministry which insures the evolution of a moral nature capable of making moral decisions, thereby effecting a bona fide creative contact with the associated spiritual ministries and with the indwelling Thought Adjuster._” (<a id="a57_444"></a>[UB 111:2.9](/en/The_Urantia_Book/111#p2_9))
 
-> “_The inevitable result of such a contactual spiritualization of the human mind is the gradual birth of a soul, the joint offspring of an adjutant mind dominated by a human will that craves to know God, working in liaison with the spiritual forces of the universe which are under the overcontrol of an actual fragment of the very God of all creation—the Mystery Monitor. And thus does the material and mortal reality of the self transcend the temporal limitations of the physical-life machine and attain a new expression and a new identification in the evolving vehicle for selfhood continuity, the morontia and immortal soul._” (<a id="a58_632"></a>[UB 111:2.10](/en/The_Urantia_Book/111#p2_10))
+> “_The inevitable result of such a contactual spiritualization of the human mind is the gradual birth of a soul, the joint offspring of an adjutant mind dominated by a human will that craves to know God, working in liaison with the spiritual forces of the universe which are under the overcontrol of an actual fragment of the very God of all creation—the Mystery Monitor. And thus does the material and mortal reality of the self transcend the temporal limitations of the physical-life machine and attain a new expression and a new identification in the evolving vehicle for selfhood continuity, the morontia and immortal soul._” (<a id="a59_632"></a>[UB 111:2.10](/en/The_Urantia_Book/111#p2_10))
 
 What do you think.
 
@@ -67,7 +67,7 @@ Carmelo, if the individual does not “crave” to know God, does not have the w
 
 As the paragraph itself indicates, the arrival of the Adjuster begins the spiritualization of the individual, and the soul will originate later. Forgive my insistence, but I can't help but interpret it that way.
 
-And I insist again, one of the clearest passages is <a id="a68_52"></a>[UB 112:3.2-4](/en/The_Urantia_Book/112#p3_2), when they describe the three types of death (of personality survival). What sense would it make to provide us with information about theoretical possibilities, that if they never come to pass Would they cease to be possibilities?
+And I insist again, one of the clearest passages is <a id="a69_52"></a>[UB 112:3.2-4](/en/The_Urantia_Book/112#p3_2), when they describe the three types of death (of personality survival). What sense would it make to provide us with information about theoretical possibilities, that if they never come to pass Would they cease to be possibilities?
 
 If they occurred “anecdotally” sometime from very late to late, I think it would not be relevant to include it in a revelation, when on the other hand we are increasingly convinced that EVERYTHING that is written has a good reason. Don't you think?
 
@@ -89,7 +89,7 @@ Santi, you have made me doubt. I have to reflect more on the matter of the soul.
 
 **Antonio:** I found this paragraph in Doc.5, last paragraph of point 5. I don't know if it will clarify the debate.
 
-> “_The ability of mortal parents to procreate is not predicated on their educational, cultural, social, or economic status. <ins>***The union of the parental factors***</ins> under natural conditions is quite sufficient to initiate offspring. A human mind discerning right and wrong and possessing the capacity to worship God, in union with a divine Adjuster, ***<ins>is all that is required in that mortal to initiate and foster the production of his immortal soul</ins>*** of survival qualities if such a spirit-endowed individual seeks God and sincerely desires to become like him, honestly elects to do the will of the Father in heaven._” (<a id="a90_645"></a>[UB 5:5.14](/en/The_Urantia_Book/5#p5_14))
+> “_The ability of mortal parents to procreate is not predicated on their educational, cultural, social, or economic status. <ins>***The union of the parental factors***</ins> under natural conditions is quite sufficient to initiate offspring. A human mind discerning right and wrong and possessing the capacity to worship God, in union with a divine Adjuster, ***<ins>is all that is required in that mortal to initiate and foster the production of his immortal soul</ins>*** of survival qualities if such a spirit-endowed individual seeks God and sincerely desires to become like him, honestly elects to do the will of the Father in heaven._” (<a id="a91_645"></a>[UB 5:5.14](/en/The_Urantia_Book/5#p5_14))
 
 Carmelo, what you expose seems perfectly reasonable to me, and I am with you.
 
@@ -115,7 +115,7 @@ But, wow! we have to cover that minimum, which I repeat I do not see as related 
 
 **Antonio:** Here is another paragraph, this time from the life of Jesus (Doc. 133:6):
 
-> “_The divine spirit arrives simultaneously with the first moral activity of the human mind, and that is the occasion of the birth of the soul._” (<a id="a116_148"></a>[UB 133:6.5](/en/The_Urantia_Book/133#p6_5))
+> “_The divine spirit arrives simultaneously with the first moral activity of the human mind, and that is the occasion of the birth of the soul._” (<a id="a117_148"></a>[UB 133:6.5](/en/The_Urantia_Book/133#p6_5))
 
 Regarding the paragraph I sent earlier, here is the original in English:
 
@@ -127,7 +127,7 @@ It could be that the condition of “seeking God” is needed to <ins>FOSTER</in
 
 **Santiago:** Antonio perfectly expresses what we are discussing, except that I would also underline where it says:
 
-> “_. . .if such a spirit-endowed individual seeks God and sincerely desires to become like him, honestly elects to do the will of the Father in heaven._” (<a id="a128_156"></a>[UB 5:5.14](/en/The_Urantia_Book/5#p5_14))
+> “_. . .if such a spirit-endowed individual seeks God and sincerely desires to become like him, honestly elects to do the will of the Father in heaven._” (<a id="a129_156"></a>[UB 5:5.14](/en/The_Urantia_Book/5#p5_14))
 
 Carmelo, it is true that doing good is doing the will of the Father, as long as that good is GOOD. The problem is that sometimes what seems good to us is not so much...
 
@@ -213,7 +213,7 @@ But this problem has been alleviated by Jesus of Nazareth, who showed us the way
 
 But we have the Spirit of Truth, the spirit of life of Christ Jesus who has freed us (if we want) from the law of animal living, has shown us the path of this liberation. The following paragraph that Santi quotes is clear:
 
-> “_Those God-knowing men and women who have been born of the Spirit experience no more conflict with their mortal natures than do the inhabitants of the most normal of worlds, planets which have never been tainted with sin nor touched by rebellion. Faith sons work on intellectual levels and live on spiritual planes far above the conflicts produced by unrestrained or unnatural physical desires. The normal urges of animal beings and the natural appetites and impulses of the physical nature are not in conflict with even the highest spiritual attainment except in the minds of ignorant, mistaught, or unfortunately overconscientious persons._” (<a id="a214_648"></a>[UB 34:7.7](/en/The_Urantia_Book/34#p7_7))
+> “_Those God-knowing men and women who have been born of the Spirit experience no more conflict with their mortal natures than do the inhabitants of the most normal of worlds, planets which have never been tainted with sin nor touched by rebellion. Faith sons work on intellectual levels and live on spiritual planes far above the conflicts produced by unrestrained or unnatural physical desires. The normal urges of animal beings and the natural appetites and impulses of the physical nature are not in conflict with even the highest spiritual attainment except in the minds of ignorant, mistaught, or unfortunately overconscientious persons._” (<a id="a215_648"></a>[UB 34:7.7](/en/The_Urantia_Book/34#p7_7))
 
 The question now is: if we have the message of Jesus, is there an excuse for claiming ignorance? And I answer the Galician, do we all really have the message of Jesus?
 

@@ -285,7 +285,7 @@ I have opted for one that more than a paragraph for me is like a mantra, because
 I have chosen it for its simplicity, and because more cannot be said in so few words, the paragraph is:
 
 
-> “with God all things are possible.” (<a id="a286_39"></a>[UB 163:3.2](/en/The_Urantia_Book/163#p3_2))
+> “with God all things are possible.” (<a id="a287_39"></a>[UB 163:3.2](/en/The_Urantia_Book/163#p3_2))
 
 Since I read it for the first time, it struck me, but when I read it again I realized that it encompasses truth, beauty and goodness, I always speak in a subjective way. Truth because you only have to read the sentence to understand that it is absolutely true. The beauty is in its simplicity, because for me simplicity is beauty; and goodness because the Father, out of love for all his creatures, tells us that if we believe and trust in him, he will help us get up without asking for anything in return in the face of any obstacle that comes our way. And if all this were not enough, it also encompasses something that is so important for all ascending evolutionary beings in order to reach the Universal Father, such as _faith_, because you have to have faith to believe that “with God all things are possible.”
 

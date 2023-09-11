@@ -55,7 +55,7 @@ Light and Life — March 2021
 
 Maria Jose Sanchez Santamaria
 
-> _THE age of light and life is the final evolutionary attainment of a world of time and space. . . ._ (<a id="a56_104"></a>[UB 55:0.1](/en/The_Urantia_Book/55#p0_1))
+> _THE age of light and life is the final evolutionary attainment of a world of time and space. . . ._ (<a id="a57_104"></a>[UB 55:0.1](/en/The_Urantia_Book/55#p0_1))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/01.jpg" width="250">

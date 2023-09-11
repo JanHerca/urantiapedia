@@ -40,8 +40,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Jonah in The Urantia Book
 
-1. On [UB 130:1.2](/en/The_Urantia_Book/130#p1_2) Jesus used the story of Jonah to teach a valuable lesson to the young man at Joppa. He did not inform his pupil as to whether the story was history or parable.
-2. On [UB 159:4.1](/en/The_Urantia_Book/159#p4_1) Jesus discussed Jonah with Nathaniel. He as much as said Jonah was an evangelistic parable or allegory.
+1. On <a id="s42_6"></a>[UB 130:1.2](/en/The_Urantia_Book/130#p1_2) Jesus used the story of Jonah to teach a valuable lesson to the young man at Joppa. He did not inform his pupil as to whether the story was history or parable.
+2. On <a id="s43_6"></a>[UB 159:4.1](/en/The_Urantia_Book/159#p4_1) Jesus discussed Jonah with Nathaniel. He as much as said Jonah was an evangelistic parable or allegory.
 3. The references in [Matt. 12:39-41](/en/Bible/Matthew/12#v39) and [Luke 11:29-32](/en/Bible/Luke/11#v29), where Jesus refers to Jonah in connection with his own death, do not appear in the Urantia Book.
 4. Even if Jesus did make use of the Jonah story, it does not follow that such use of the story means that Jesus is validating the Jonah narrative as history. If a modern preacher refers to Shakespeare's Macbeth, it does not mean that he regards Macbeth as a historical person.
 5. Jesus, in referring to the prodigal son, in the parable of that name, does not mean that this prodigal son was a historical character.

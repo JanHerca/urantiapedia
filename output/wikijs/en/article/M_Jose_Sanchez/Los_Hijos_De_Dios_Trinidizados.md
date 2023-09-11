@@ -77,7 +77,7 @@ As humanity we must evolve at all levels: material, intellectual and spiritual. 
 
 Given this, it is inevitable to question the nature of evil and its existence. The Book clearly distinguishes between wrongful evil and deliberate evil. It is a fact that evil makes us learn. Nothing happens in vain. The Mighty Messengers were mortals from worlds in rebellion, so they are a living example that all experience is used to give rise to a greater and (of course) better good.
 
-We recall here the “inevitabilities” of <a id="a78_40"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5). How could we grow without free will? We need choice. At all times we cannot assume the responsibilities of others, but our own. Necessity, and not well-being, is what sharpens our wits.
+We recall here the “inevitabilities” of <a id="a79_40"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5). How could we grow without free will? We need choice. At all times we cannot assume the responsibilities of others, but our own. Necessity, and not well-being, is what sharpens our wits.
 
 Comparing ourselves to Havona beings, we can say that they are perfect for the love **of** God, and ascending mortals will be perfect for the love **of** God.
 

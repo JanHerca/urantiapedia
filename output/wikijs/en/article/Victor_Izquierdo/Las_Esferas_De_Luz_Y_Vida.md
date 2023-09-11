@@ -65,7 +65,7 @@ Any world can achieve the planetary values of any stage independently of the dev
 
 _The morontia temple_: the presence of the morontia temple is the certificate of admission in the ages of light and life. The Teacher Sons preside over the day the holy temple descends to earth, before they leave that world at the end of their mission.
 
-This event is always honored with the presence of the Paradise Son of Effusion on said planet, and marks the beginning of the Age of Light and Life. This Son proclaims the Planetary Prince as the new Planetary Sovereign, granting this Lanonandek Son new powers and greater authority over planetary affairs. The System Sovereign is also present and confirms these statements (<a id="a66_375"></a>[UB 45:2.2](/en/The_Urantia_Book/45#p2_2)).
+This event is always honored with the presence of the Paradise Son of Effusion on said planet, and marks the beginning of the Age of Light and Life. This Son proclaims the Planetary Prince as the new Planetary Sovereign, granting this Lanonandek Son new powers and greater authority over planetary affairs. The System Sovereign is also present and confirms these statements (<a id="a67_375"></a>[UB 45:2.2](/en/The_Urantia_Book/45#p2_2)).
 
 The morontia temple is made up of 3 parts:
 - Central: Sanctuary of the Paradise Son of Effusion

@@ -47,7 +47,7 @@ But I don't think this is enough. Pretending to explain the eternal questions of
 
 Man is a complex being, in which his most valuable components are those with a vocation for transcendence: his spirit and his mind. The first has a special connection with Divinity, and even forms a substantial part of it; He is in charge of insinuating to the mind (reason) the best path to follow at all times. For its part, it receives your recommendations; He meditates on them and finally decides. The problem lies in which of these two phases has the greatest weight in our habitual decisions. And it often happens that in “reasoning” people it is the last one who comes out the winner.
 
-How to overcome this inconvenience? The solution was pointed out by Jesus himself to Nicodemus, the influential Pharisee member of the Sanhedrin, an honest intellectual drawn to the doctrines of Jesus but unable to abandon his comfortable social situation and his attachment to secular beliefs. Jesus asks him to be born again; he had to turn his life upside down. (<a id="a48_366"></a>[UB 142:6.1](/en/The_Urantia_Book/142#p6_1) and following)
+How to overcome this inconvenience? The solution was pointed out by Jesus himself to Nicodemus, the influential Pharisee member of the Sanhedrin, an honest intellectual drawn to the doctrines of Jesus but unable to abandon his comfortable social situation and his attachment to secular beliefs. Jesus asks him to be born again; he had to turn his life upside down. (<a id="a49_366"></a>[UB 142:6.1](/en/The_Urantia_Book/142#p6_1) and following)
 
 Nicodemus left perplexed: what does “born again” mean?
 
@@ -59,7 +59,7 @@ It is in this way when the life-giving and liberating value of faith is fully fe
 
 > Belief has attained the level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty nor conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience. One believes truth, admires beauty, and reverences goodness, but does not worship them; such an attitude of saving faith is centered on God alone, who is all of these personified and infinitely more.
 > 
-> Belief is always limiting and binding; faith is expanding and releasing. Belief fixates, faith liberates. But living religious faith is more than the association of noble beliefs; it is more than an exalted system of philosophy; it is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God-knowing and man-serving. Beliefs may become group possessions, but faith must be personal. Theologic beliefs can be suggested to a group, but faith can rise up only in the heart of the individual religionist. (<a id="a60_547"></a>[UB 101:8.1-2](/en/The_Urantia_Book/101#p8_1))
+> Belief is always limiting and binding; faith is expanding and releasing. Belief fixates, faith liberates. But living religious faith is more than the association of noble beliefs; it is more than an exalted system of philosophy; it is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God-knowing and man-serving. Beliefs may become group possessions, but faith must be personal. Theologic beliefs can be suggested to a group, but faith can rise up only in the heart of the individual religionist. (<a id="a61_547"></a>[UB 101:8.1-2](/en/The_Urantia_Book/101#p8_1))
 
 ## References
 

@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-To start off today, some of you may remember the last Scientific Symposium in Nashville when I concluded that there is no way for human resurrection to occur on Jerusem "on the third day after natural death" because the guardian seraphim, who carries the human soul, cannot travel there in less than twenty years. _The Urantia Book_ insists that there is no way for a seraphim to traverse space any faster than three times the speed of light (<a id="a37_443"></a>[UB 23:3.2](/en/The_Urantia_Book/23#p3_2)). Since the nearest star is 4.3 light years away and Jerusem must be many stars away, the angel can't get there in days at her speed. The distance from earth to Jerusem can't be nine light days; it is more like sixty light years away.
+To start off today, some of you may remember the last Scientific Symposium in Nashville when I concluded that there is no way for human resurrection to occur on Jerusem "on the third day after natural death" because the guardian seraphim, who carries the human soul, cannot travel there in less than twenty years. _The Urantia Book_ insists that there is no way for a seraphim to traverse space any faster than three times the speed of light (<a id="a38_443"></a>[UB 23:3.2](/en/The_Urantia_Book/23#p3_2)). Since the nearest star is 4.3 light years away and Jerusem must be many stars away, the angel can't get there in days at her speed. The distance from earth to Jerusem can't be nine light days; it is more like sixty light years away.
 
 Now at the first Scientific Symposium in Nashville I went so far as to suggest that some nameless Melchizedek might have been called on the carpet for using the expression “on the third day after natural death,” which we would take literally. Well, today I am going to recant my Urantia Book apostasy; I've thought of a way for the guardian angel to get to Jerusem in less than three days: The angel simply doesn't travel there under her own power! She must be translated to Jerusem by some unrevealed universe or Paradise technique. A careful reading of _The Urantia Book_ will reveal that in every case where this trip by the seraphim from Urantia to Jerusem is described, the author never says that the angel gets there by normal seraphic travel or transport. Instead, some vague expression like "proceeds to Jerusem" is used to denote the mode of transportation of the angel. I hope this explanation resolves the anomaly and points to an unrevealed seraphic phenomenon associated with human death. On, then, to the main part of my presentation today.
 
@@ -58,45 +58,45 @@ On Paradise:
 
 - A flat ellipsoid, having upper, nether, and peripheral regions
 - The most gigantic organized structure in the whole Cosmos
-- The dwelling place of the existential Trinity of three divine persons and (probably) the focal center of all three of the nonpersonal Absolutes (<a id="a59_147"></a>[UB 0:11.15](/en/The_Urantia_Book/0#p11_15))
-- The geographic center of infinity (<a id="a60_37"></a>[UB 11:9.2](/en/The_Urantia_Book/11#p9_2))
+- The dwelling place of the existential Trinity of three divine persons and (probably) the focal center of all three of the nonpersonal Absolutes (<a id="a60_147"></a>[UB 0:11.15](/en/The_Urantia_Book/0#p11_15))
+- The geographic center of infinity (<a id="a61_37"></a>[UB 11:9.2](/en/The_Urantia_Book/11#p9_2))
 - Has no time or space (except by volition) but has absolute surfaces and areas and absolutely significant distances and directions—north, south, east, west, up and down
-- Universally present as the physical grasp of Paradise gravity, an instantaneous attraction (<a id="a62_94"></a>[UB 11:8.9](/en/The_Urantia_Book/11#p8_9), <a id="a62_137"></a>[UB 10:3.11](/en/The_Urantia_Book/10#p3_11))
+- Universally present as the physical grasp of Paradise gravity, an instantaneous attraction (<a id="a63_94"></a>[UB 11:8.9](/en/The_Urantia_Book/11#p8_9), <a id="a63_137"></a>[UB 10:3.11](/en/The_Urantia_Book/10#p3_11))
 - Is the nucleus of each ultimaton (the smallest material particle)
 - Located at the center of all things
-- No position in space but located at the focus of space (<a id="a65_58"></a>[UB 105:3.4](/en/The_Urantia_Book/105#p3_4))
-- Peripheral Paradise touches the relatively motionless midspace zones of space existing between the moving zones of space (<a id="a66_124"></a>[UB 11:7.1](/en/The_Urantia_Book/11#p7_1)).
+- No position in space but located at the focus of space (<a id="a66_58"></a>[UB 105:3.4](/en/The_Urantia_Book/105#p3_4))
+- Peripheral Paradise touches the relatively motionless midspace zones of space existing between the moving zones of space (<a id="a67_124"></a>[UB 11:7.1](/en/The_Urantia_Book/11#p7_1)).
 
 On the Unqualified Absolute:
 
 - Pervades all space but is not limited to space presence
 - Gives rise to primordial force, emergent energy, and all finite matter
-- Reveals all that originates in Paradise (<a id="a72_43"></a>[UB 11:8.9](/en/The_Urantia_Book/11#p8_9))
-- The central focalization of its space presence is in the outer zone of nether Paradise (<a id="a73_90"></a>[UB 11:5.4](/en/The_Urantia_Book/11#p5_4)).
+- Reveals all that originates in Paradise (<a id="a73_43"></a>[UB 11:8.9](/en/The_Urantia_Book/11#p8_9))
+- The central focalization of its space presence is in the outer zone of nether Paradise (<a id="a74_90"></a>[UB 11:5.4](/en/The_Urantia_Book/11#p5_4)).
 
 On Space:
 
-- Needs seven dimensions, one for each absolute of infinity (<a id="a77_61"></a>[UB 130:7.6](/en/The_Urantia_Book/130#p7_6))
-- Is eternal but not absolute; is absolutely ultimate (<a id="a78_55"></a>[UB 118:3.5](/en/The_Urantia_Book/118#p3_5))
+- Needs seven dimensions, one for each absolute of infinity (<a id="a78_61"></a>[UB 130:7.6](/en/The_Urantia_Book/130#p7_6))
+- Is eternal but not absolute; is absolutely ultimate (<a id="a79_55"></a>[UB 118:3.5](/en/The_Urantia_Book/118#p3_5))
 - A transcendental reality before all beginnings and after all endings; not the "final" frontier, but the "ultimate" frontier
-- Partially transcended in human experience only by mind ( <a id="a80_59"></a>[UB 130:7.8](/en/The_Urantia_Book/130#p7_8))
-- Pervaded by the Unqualified Absolute (<a id="a81_40"></a>[UB 11:7.4](/en/The_Urantia_Book/11#p7_4))
-- The totality of space has a definite geometrical shape (<a id="a82_58"></a>[UB 11:7.5](/en/The_Urantia_Book/11#p7_5))
+- Partially transcended in human experience only by mind ( <a id="a81_59"></a>[UB 130:7.8](/en/The_Urantia_Book/130#p7_8))
+- Pervaded by the Unqualified Absolute (<a id="a82_40"></a>[UB 11:7.4](/en/The_Urantia_Book/11#p7_4))
+- The totality of space has a definite geometrical shape (<a id="a83_58"></a>[UB 11:7.5](/en/The_Urantia_Book/11#p7_5))
 - Seemingly originates just below nether Paradise while time originates just above upper Paradise
-- All matter contains space and moves in space, but not all space is inside matter (<a id="a84_84"></a>[UB 118:3.6](/en/The_Urantia_Book/118#p3_6))
+- All matter contains space and moves in space, but not all space is inside matter (<a id="a85_84"></a>[UB 118:3.6](/en/The_Urantia_Book/118#p3_6))
 - The midspace zones encapsulate all of pervaded space and the space reservoirs and the potential infinity of all outer space.
 
 On Ultimate Matter and Motion:
 
-- Ultimatons are minute spheres— particles, not waves (<a id="a89_55"></a>[UB 42:5.14](/en/The_Urantia_Book/42#p5_14))
-- 100 ultimatons make up a typical electron but do not whirl around within the electron like electrons whirl around the atomic nucleus nor as planets whirl around the sun (<a id="a90_172"></a>[UB 42:6.5](/en/The_Urantia_Book/42#p6_5))
+- Ultimatons are minute spheres— particles, not waves (<a id="a90_55"></a>[UB 42:5.14](/en/The_Urantia_Book/42#p5_14))
+- 100 ultimatons make up a typical electron but do not whirl around within the electron like electrons whirl around the atomic nucleus nor as planets whirl around the sun (<a id="a91_172"></a>[UB 42:6.5](/en/The_Urantia_Book/42#p6_5))
 - Ultimatons have axial rotations around their Paradise nucleus
-- Ultimatons may “huddle” together within the electron (<a id="a92_56"></a>[UB 42:7.10](/en/The_Urantia_Book/42#p7_10))
+- Ultimatons may “huddle” together within the electron (<a id="a93_56"></a>[UB 42:7.10](/en/The_Urantia_Book/42#p7_10))
 - When a particle moves in space it takes its interior space with it (*1297)
-- Ultimatons and electrons shift positions and emit mass according to $m=E / c^{2}$. (<a id="a94_86"></a>[UB 42:4.14](/en/The_Urantia_Book/42#p4_14))
-- There is a plane perpendicular to any given mass (<a id="a95_52"></a>[UB 11:8.9](/en/The_Urantia_Book/11#p8_9))
-- Sunlight is composed of highly heated and agitated electrons (<a id="a96_64"></a>[UB 41:5.5](/en/The_Urantia_Book/41#p5_5))
-- The wave length associated with the emission of a particle is 860 times the diameter of the emitting particle (<a id="a97_113"></a>[UB 42:4.14](/en/The_Urantia_Book/42#p4_14), <a id="a97_158"></a>[UB 42:5.15](/en/The_Urantia_Book/42#p5_15)).
+- Ultimatons and electrons shift positions and emit mass according to $m=E / c^{2}$. (<a id="a95_86"></a>[UB 42:4.14](/en/The_Urantia_Book/42#p4_14))
+- There is a plane perpendicular to any given mass (<a id="a96_52"></a>[UB 11:8.9](/en/The_Urantia_Book/11#p8_9))
+- Sunlight is composed of highly heated and agitated electrons (<a id="a97_64"></a>[UB 41:5.5](/en/The_Urantia_Book/41#p5_5))
+- The wave length associated with the emission of a particle is 860 times the diameter of the emitting particle (<a id="a98_113"></a>[UB 42:4.14](/en/The_Urantia_Book/42#p4_14), <a id="a98_158"></a>[UB 42:5.15](/en/The_Urantia_Book/42#p5_15)).
 
 Now a number of questions arise:
 
@@ -152,7 +152,7 @@ An ultimaton may drop into a lower rotational energy state by emitting some rota
 <img src="/image/article/Luz_y_Vida/LyV22/04.jpg">
 </figure>
 
-The generation of so-called positive and negative electronic charge might also be explained in terms of the spin of the 100 intraelectronic ultimatons. For instance, if most or all of the 100 ultimatonic shells are rotating in the same direction, then two such electrons might repulse one another. On the other hand, two electrons (one a positron) with opposite revolutionary directions might attract each other and cancel some of each other's rotational mass, emitting some energy in the process. The construction of electrons, protons and atoms from the ultimatons is the work of the power centers (<a id="a153_601"></a>[UB 42:4.3](/en/The_Urantia_Book/42#p4_3)).
+The generation of so-called positive and negative electronic charge might also be explained in terms of the spin of the 100 intraelectronic ultimatons. For instance, if most or all of the 100 ultimatonic shells are rotating in the same direction, then two such electrons might repulse one another. On the other hand, two electrons (one a positron) with opposite revolutionary directions might attract each other and cancel some of each other's rotational mass, emitting some energy in the process. The construction of electrons, protons and atoms from the ultimatons is the work of the power centers (<a id="a154_601"></a>[UB 42:4.3](/en/The_Urantia_Book/42#p4_3)).
 
 Although these explanations are still qualitative, it does seem to me that most of the strange phenomena of present-day quantum mechanics are potentially explainable in terms of this model of sub-electron matter as rotating spherical shells of space. I am just now working out some of the quantitative implications of this theory, and the preliminary results are very encouraging, but time doesn't permit me to get very far into that here today. In the near future, I plan to submit a more technical paper for publication that will deal with these quantitative aspects of the theory. This paper will redefine mass as rotating space and will consider the conservation of the kinetic and potential energy and angular momentum of an ultimaton; it will attempt to deal with energy mass transformations and wave generation.
 

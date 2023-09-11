@@ -239,7 +239,7 @@ Luis Garcia Bory
 
 Altruism
 
-> “Strong characters are not derived from *not* doing wrong but rather from actually doing right. Unselfishness is the badge of human greatness. The highest levels of self-realization are attained by worship and service. The happy and effective person is motivated, not by fear of wrongdoing, but by love of right doing.” (<a id="a240_323"></a>[UB 140:4.6](/en/The_Urantia_Book/140#p4_6))
+> “Strong characters are not derived from *not* doing wrong but rather from actually doing right. Unselfishness is the badge of human greatness. The highest levels of self-realization are attained by worship and service. The happy and effective person is motivated, not by fear of wrongdoing, but by love of right doing.” (<a id="a241_323"></a>[UB 140:4.6](/en/The_Urantia_Book/140#p4_6))
 
 This is my favorite section of _The Urantia Book_, for three reasons:
 

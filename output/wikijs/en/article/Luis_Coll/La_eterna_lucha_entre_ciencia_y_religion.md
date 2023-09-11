@@ -53,7 +53,7 @@ Regarding this topic, I remember this dialogue from the movie “Contact” (Rob
 
 It is entirely possible that other inhabited worlds and other levels of reality exist in the universe. The big problem for us is that we cannot see these different levels of reality with our natural eyes and senses, but that does not mean that they do not exist, just because we cannot see or feel them.
 
-> These levels of reality are convenient compromise symbolizations of the present universe age and for the mortal perspective. There are a number of other ways of looking at reality from other-than-mortal perspective and from the standpoint of other universe ages. (<a id="a54_266"></a>[UB 106:0.10](/en/The_Urantia_Book/106#p0_10))
+> These levels of reality are convenient compromise symbolizations of the present universe age and for the mortal perspective. There are a number of other ways of looking at reality from other-than-mortal perspective and from the standpoint of other universe ages. (<a id="a55_266"></a>[UB 106:0.10](/en/The_Urantia_Book/106#p0_10))
 
 When we look up at the starry skies, it is inevitable to think or believe that all this could not have been done alone, and immediately the idea arises that all this must have been done by someone, a God, a Creator or whatever we want to call it, and from here it was born religion (true religion), and people who have dedicated themselves to studying these things have called it science.
 
@@ -63,7 +63,7 @@ Science is based on facts, it wants proof, it wants to analyze, see, feel and to
 
 Neither science, nor philosophy, nor even religion, will be able to physically prove the existence of God. It can only be perceived at the levels of the human soul.
 
-> _Science is a quantitative experience, religion a qualitative experience, as regards man’s life on earth. ***Science deals with phenomena; religion, with origins, values, and goals***._ (<a id="a64_189"></a>[UB 195:6.5](/en/The_Urantia_Book/195#p6_5))
+> _Science is a quantitative experience, religion a qualitative experience, as regards man’s life on earth. ***Science deals with phenomena; religion, with origins, values, and goals***._ (<a id="a65_189"></a>[UB 195:6.5](/en/The_Urantia_Book/195#p6_5))
 
 Science is dedicated to studying the material and physical facts of life and the universe. Religion (true religion) is based on faith, hope and love, and the pursuit of the high values of love, beauty and goodness.
 
@@ -73,7 +73,7 @@ Science is dedicated to studying the material and physical facts of life and the
 
 People who have gone through the experience of finding God cannot find adequate words to express what they have seen or experienced on that level of reality. Different names have been given to this experience: “being born again”, “awakening of consciousness”, “spiritual illumination”, etc.
 
-> _Paradise values of eternity and infinity, of truth, beauty, and goodness, are concealed within the facts of the phenomena of the universes of time and space. But it requires the eye of faith in a spirit-born mortal to detect and discern these spiritual values._ (<a id="a74_266"></a>[UB 195:7.4](/en/The_Urantia_Book/195#p7_4))
+> _Paradise values of eternity and infinity, of truth, beauty, and goodness, are concealed within the facts of the phenomena of the universes of time and space. But it requires the eye of faith in a spirit-born mortal to detect and discern these spiritual values._ (<a id="a75_266"></a>[UB 195:7.4](/en/The_Urantia_Book/195#p7_4))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV41/10b.jpg">

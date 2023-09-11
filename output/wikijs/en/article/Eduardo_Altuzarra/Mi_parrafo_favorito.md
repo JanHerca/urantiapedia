@@ -40,7 +40,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
-> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a41_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+> The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience; nevertheless, the true concept of the reality of God is reasonable to logic, plausible to philosophy, essential to religion, and indispensable to any hope of personality survival. (<a id="a42_353"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
 Most of us who are dedicated to reading books almost always point to, underline, copy, reference a series of paragraphs because we consider them interesting, enlightening or transcendental.
 
@@ -78,7 +78,7 @@ And I end this article by saying that Albert Einstein had a very deep concept of
 > “My religiosity consists of a humble admiration of the infinitely superior spirit that is revealed in the small details that we can perceive with our fragile and weak minds. That deeply emotional conviction of the presence of a higher reasoning power, which reveals itself in the incomprehensible universe, forms my idea of God.”
 > Source: https://frases.top/frases-celebres/frases-albert-einstein/#Frases_de_Einstein_sobre_Dios
 
-> When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved. (<a id="a79_265"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
+> When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved. (<a id="a80_265"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
 
 Another favorite paragraph...
 

@@ -57,9 +57,9 @@ http://es.wikipedia.org/wiki/Placentalia
 
 However, in Paper 61 of _The Urantia Book_ we find the following quotes:
 
-> *50,000,000* years ago the land areas of the world were very generally above water or only slightly submerged. The formations and deposits of this period are both land and marine, but chiefly land. For a considerable time the land gradually rose but was simultaneously washed down to the lower levels and toward the seas. (<a id="a58_325"></a>[UB 61:1.1](/en/The_Urantia_Book/61#p1_1))
+> *50,000,000* years ago the land areas of the world were very generally above water or only slightly submerged. The formations and deposits of this period are both land and marine, but chiefly land. For a considerable time the land gradually rose but was simultaneously washed down to the lower levels and toward the seas. (<a id="a59_325"></a>[UB 61:1.1](/en/The_Urantia_Book/61#p1_1))
 
-> Early in this period and in North America the placental type of mammals *suddenly* appeared, and they constituted the most important evolutionary development up to this time. Previous orders of nonplacental mammals had existed, but this new type sprang directly and *suddenly* from the pre-existent reptilian ancestor whose descendants had persisted on down through the times of dinosaur decline. The father of the placental mammals was a small, highly active, carnivorous, springing type of dinosaur. (<a id="a60_505"></a>[UB 61:1.2](/en/The_Urantia_Book/61#p1_2))
+> Early in this period and in North America the placental type of mammals *suddenly* appeared, and they constituted the most important evolutionary development up to this time. Previous orders of nonplacental mammals had existed, but this new type sprang directly and *suddenly* from the pre-existent reptilian ancestor whose descendants had persisted on down through the times of dinosaur decline. The father of the placental mammals was a small, highly active, carnivorous, springing type of dinosaur. (<a id="a61_505"></a>[UB 61:1.2](/en/The_Urantia_Book/61#p1_2))
 
 The discrepancy as to the time in which they appeared is extraordinary. It is difficult to find a point of approximation between both proposals.
 

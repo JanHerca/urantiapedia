@@ -50,13 +50,13 @@ Andrew introduces Jesus to a certain rich young man who was a fervent believer a
 
 The paper says that:
 
-> _Thus always it was and forever will be: Men must arrive at their own decisions. There is a certain range of the freedom of choice which mortals may exercise. The forces of the spiritual world will not coerce man; they allow him to go the way of his own choosing._ (<a id="a51_268"></a>[UB 163:2.8](/en/The_Urantia_Book/163#p2_8))
+> _Thus always it was and forever will be: Men must arrive at their own decisions. There is a certain range of the freedom of choice which mortals may exercise. The forces of the spiritual world will not coerce man; they allow him to go the way of his own choosing._ (<a id="a52_268"></a>[UB 163:2.8](/en/The_Urantia_Book/163#p2_8))
 
 It seems that, years later, this boy was able to realize the dream that he previously did not dare to follow due to his attachment to material things.
 
 The paper also says:
 
-> _Riches have nothing directly to do with entrance into the kingdom of heaven, but the *love of wealth does.* The spiritual loyalties of the kingdom are incompatible with servility to materialistic mammon. Man may not share his supreme loyalty to a spiritual ideal with a material devotion._ (<a id="a57_294"></a>[UB 163:2.10](/en/The_Urantia_Book/163#p2_10))
+> _Riches have nothing directly to do with entrance into the kingdom of heaven, but the *love of wealth does.* The spiritual loyalties of the kingdom are incompatible with servility to materialistic mammon. Man may not share his supreme loyalty to a spiritual ideal with a material devotion._ (<a id="a58_294"></a>[UB 163:2.10](/en/The_Urantia_Book/163#p2_10))
 
 Jesus explained that if the wealth that one possesses does not invade the halls of the soul, this has no consequence on the spiritual life of those who wish to enter the kingdom of heaven. It says that the Father treats all his creatures according to their needs and always in accordance with the just laws of merciful and loving consideration for the welfare of the universe.
 

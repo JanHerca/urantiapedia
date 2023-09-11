@@ -171,7 +171,7 @@ Jeremiah lived 100 years after Isaiah, during the capture and destruction of Jer
 ## VII. Selected Texts
 
 1. **The start of Jeremiah's work**. '"Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations.'" [1:5](/en/Bible/Jeremiah/1#v5).
-	(**Note**: This text recalls teachings of the Urantia Book, respecting Thought Adjusters getting advance projections regarding their prospective human subjects, as found on [UB 108:1.2](/en/The_Urantia_Book/108#p1_2)
+	(**Note**: This text recalls teachings of the Urantia Book, respecting Thought Adjusters getting advance projections regarding their prospective human subjects, as found on <a id="s173_174"></a>[UB 108:1.2](/en/The_Urantia_Book/108#p1_2)
 2. **Broken cisterns**. "'My people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns, that can hold no water.'" [2:13](/en/Bible/Jeremiah/2#v13).
 3. **What was wrong**. "'From the least to the greatest of them, every one is greedy for unjust gain; and from prophet to priest, every one deals falsely. They have healed the wound of my people lightly, saying, "Peace, peace," when there is no peace.'" [6:13,14](/en/Bible/Jeremiah/6#v13).
 4. **No peace**. "'We looked for peace, but no good came, for a time of healing, but behold, terror.'" [8:15](/en/Bible/Jeremiah/8#v15).

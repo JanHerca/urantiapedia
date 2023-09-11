@@ -40,7 +40,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## II. Chronology
 
 1. The details of chronology will be considered in the study of Old and New Testament history.
-2. The explanation for the extra long lives of ancient personalities is found in the Urantia Book [UB 77:2.10](/en/The_Urantia_Book/77#p2_10) The lunar month of 28 days was called a year. Thus a man living 900 years really lived only about 70 years— “three score years and ten”—a ripe old age for those days.
+2. The explanation for the extra long lives of ancient personalities is found in the Urantia Book <a id="s42_98"></a>[UB 77:2.10](/en/The_Urantia_Book/77#p2_10) The lunar month of 28 days was called a year. Thus a man living 900 years really lived only about 70 years— “three score years and ten”—a ripe old age for those days.
 3. Chronology of the Old Testament books.
 	- Genesis—1200-450 B.C.
 	- Exodus—1200-450 B.C.

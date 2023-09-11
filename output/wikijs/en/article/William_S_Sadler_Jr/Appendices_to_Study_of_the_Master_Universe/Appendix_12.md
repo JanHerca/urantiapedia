@@ -24,11 +24,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-God the Sevenfold began to function when the seven superuniverses were organized. This function "will probably expand" with the opening of the outer space levels and the inauguration of the absonite quest for deity. [UB 0:8.12](/en/The_Urantia_Book/0#p8_12) What meaning should we attach to the phrase, "will probably expand?" Certainly, this must mean a functional expansion from the grand universe into the outer space creations. This is a quantitative expansion. Does it also mean qualitative expansion? If the seven levels of God the Sevenfold now provide for the finite approach to deity, will additional levels to be required for the absonite approach?
+God the Sevenfold began to function when the seven superuniverses were organized. This function "will probably expand" with the opening of the outer space levels and the inauguration of the absonite quest for deity. <a id="s26_216"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) What meaning should we attach to the phrase, "will probably expand?" Certainly, this must mean a functional expansion from the grand universe into the outer space creations. This is a quantitative expansion. Does it also mean qualitative expansion? If the seven levels of God the Sevenfold now provide for the finite approach to deity, will additional levels to be required for the absonite approach?
 
 ## § 1. Present constitution of God The Sevenfold
 
-God the Sevenfold is presented as functioning in two co-ordinated phases: spirit ministry [UB 116:2.5-11](/en/The_Urantia_Book/116#p2_5), and physical control. [UB 116:5.2-8](/en/The_Urantia_Book/116#p5_2) These two aspects of Sevenfold Deity are tabulated below:
+God the Sevenfold is presented as functioning in two co-ordinated phases: spirit ministry <a id="s30_90"></a>[UB 116:2.5-11](/en/The_Urantia_Book/116#p2_5), and physical control. <a id="s30_160"></a>[UB 116:5.2-8](/en/The_Urantia_Book/116#p5_2) These two aspects of Sevenfold Deity are tabulated below:
 
 God the Sevenfold | The Sevenfold Controllers
 --- | ---
@@ -44,21 +44,21 @@ This dual relationship of spiritual ministry and physical control is unified exi
 
 ## § 2. Is there a mind aspect of God The Sevenfold?
 
-The Papers tell us that man's relationship to the Sevenfold is a matter of making contact with the "personal and spiritual divinity" of God the Sevenfold. [UB 106:1.4](/en/The_Urantia_Book/106#p1_4) We are also informed there are other aspects of the Sevenfold that are not concerned with our universe progression, and all of these phases of the Sevenfold are going to be integrated in the Supreme. The Sevenfold Controllers must represent one such non-spiritual phase of the Sevenfold. Is it possible that there is a third phase, a mind phase, of the Sevenfold? Consider the following:
+The Papers tell us that man's relationship to the Sevenfold is a matter of making contact with the "personal and spiritual divinity" of God the Sevenfold. <a id="s46_155"></a>[UB 106:1.4](/en/The_Urantia_Book/106#p1_4) We are also informed there are other aspects of the Sevenfold that are not concerned with our universe progression, and all of these phases of the Sevenfold are going to be integrated in the Supreme. The Sevenfold Controllers must represent one such non-spiritual phase of the Sevenfold. Is it possible that there is a third phase, a mind phase, of the Sevenfold? Consider the following:
 
-> [UB 42:10.3](/en/The_Urantia_Book/42#p10_3) 1. The Master Physical Controllers, pre-Adjutant Mind.
+> <a id="s48_2"></a>[UB 42:10.3](/en/The_Urantia_Book/42#p10_3) 1. The Master Physical Controllers, pre-Adjutant Mind.
 > 
-> [UB 42:10.4](/en/The_Urantia_Book/42#p10_4) 2. The Adjutant Mind-Spirits, human and midwayer minds
+> <a id="s50_2"></a>[UB 42:10.4](/en/The_Urantia_Book/42#p10_4) 2. The Adjutant Mind-Spirits, human and midwayer minds
 > 
-> [UB 42:10.5](/en/The_Urantia_Book/42#p10_5) 3. The Creative Spirits, local universe minds
+> <a id="s52_2"></a>[UB 42:10.5](/en/The_Urantia_Book/42#p10_5) 3. The Creative Spirits, local universe minds
 > 
-> [UB 42:10.6](/en/The_Urantia_Book/42#p10_6) 4. The Seven Master Spirits, the cosmic mind
+> <a id="s54_2"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6) 4. The Seven Master Spirits, the cosmic mind
 > 
-> [UB 0:3.14](/en/The_Urantia_Book/0#p3_14) 5. Majeston, focal point of factualizing Supreme Mind
+> <a id="s56_2"></a>[UB 0:3.14](/en/The_Urantia_Book/0#p3_14) 5. Majeston, focal point of factualizing Supreme Mind
 > 
-> [UB 9:4.3](/en/The_Urantia_Book/9#p4_3) 6. The Conjoint Actor, the source of absolute Mind
+> <a id="s58_2"></a>[UB 9:4.3](/en/The_Urantia_Book/9#p4_3) 6. The Conjoint Actor, the source of absolute Mind
 > 
-> [UB 107:5.3](/en/The_Urantia_Book/107#p5_3) 7. The Father-Son, dual ancestor of the Source of Mind
+> <a id="s60_2"></a>[UB 107:5.3](/en/The_Urantia_Book/107#p5_3) 7. The Father-Son, dual ancestor of the Source of Mind
 
 The existence or non-existence of such a mind phase of the Sevenfold is not essential to the development of our line of thinking. We suggest, however, that it is a very possible relationship.
 
@@ -66,15 +66,15 @@ The existence or non-existence of such a mind phase of the Sevenfold is not esse
 
 (See [Appendix IV § 3, God the Sevenfold](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-3-god-the-sevenfold-in-successive-ages).) There is no question about the expansion of God the Sevenfold in outer space. The three Paradise Deities are just as much concerned with the outer space universes as with Havona and the superuniverses. God the Supreme will be functioning as the Experiential ruler of the grand universe, then in a certain capacity in the master universe, and as a member of the First Experiential Trinity.
 
-We are also informed that the progressive settling of the superuniverses in light and life is attended by a withdrawal of the activities of the Supreme Being. [UB 56:7.6](/en/The_Urantia_Book/56#p7_6) Now, if the Supreme Creators are progressively withdrawing from the affairs of the present age, this strongly suggests their ministry will expand in the affairs of the outer space universes in the next universe age.
+We are also informed that the progressive settling of the superuniverses in light and life is attended by a withdrawal of the activities of the Supreme Being. <a id="s68_159"></a>[UB 56:7.6](/en/The_Urantia_Book/56#p7_6) Now, if the Supreme Creators are progressively withdrawing from the affairs of the present age, this strongly suggests their ministry will expand in the affairs of the outer space universes in the next universe age.
 
-_The Master Spirits._ When the perfected superuniverses are united under the future administration of God the Supreme, the Master Spirits will continue to be located in the grand universe. [UB 0:10.12](/en/The_Urantia_Book/0#p10_12)
+_The Master Spirits._ When the perfected superuniverses are united under the future administration of God the Supreme, the Master Spirits will continue to be located in the grand universe. <a id="s70_189"></a>[UB 0:10.12](/en/The_Urantia_Book/0#p10_12)
 
-This does not, however, mean they could not act in outer space. We may deduce that they are concerned with those segments of outer space which are correlated with their present spheres of superuniverse jurisdiction. [UB 16:0.11](/en/The_Urantia_Book/16#p0_11) The Supreme Being may administer the grand universe either with or without the collaboration of the Master Spirits. [UB 56:7.9](/en/The_Urantia_Book/56#p7_9) In any event, the collective attributes of the Master Spirits are supreme, ultimate, and supreme-ultimate [UB 16:2.4](/en/The_Urantia_Book/16#p2_4); therefore they have full capacity to function throughout all the growing stages of the master creation. (See [Appendix XIV, Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14).)
+This does not, however, mean they could not act in outer space. We may deduce that they are concerned with those segments of outer space which are correlated with their present spheres of superuniverse jurisdiction. <a id="s72_216"></a>[UB 16:0.11](/en/The_Urantia_Book/16#p0_11) The Supreme Being may administer the grand universe either with or without the collaboration of the Master Spirits. <a id="s72_376"></a>[UB 56:7.9](/en/The_Urantia_Book/56#p7_9) In any event, the collective attributes of the Master Spirits are supreme, ultimate, and supreme-ultimate <a id="s72_524"></a>[UB 16:2.4](/en/The_Urantia_Book/16#p2_4); therefore they have full capacity to function throughout all the growing stages of the master creation. (See [Appendix XIV, Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14).)
 
-_The Ancients of Days._ We are informed that, in the next universe age, the Ancients of Days will continue as superuniverse administrators [UB 0:10.12](/en/The_Urantia_Book/0#p10_12), but may be superceded in sovereignty by the Supreme Being. In this event, they would function as his vicegerents. [UB 117:7.14-16](/en/The_Urantia_Book/117#p7_14) It does not appear likely that these Trinity-origin rulers of the supercreations will be directly concerned with the affairs of outer space, but we really do not know. It seems more likely that they will be concerned with the outer-spacers who may be traversing the superuniverses on their way in to Havona and Paradise. [UB 14:6.40](/en/The_Urantia_Book/14#p6_40)
+_The Ancients of Days._ We are informed that, in the next universe age, the Ancients of Days will continue as superuniverse administrators <a id="s74_139"></a>[UB 0:10.12](/en/The_Urantia_Book/0#p10_12), but may be superceded in sovereignty by the Supreme Being. In this event, they would function as his vicegerents. <a id="s74_298"></a>[UB 117:7.14-16](/en/The_Urantia_Book/117#p7_14) It does not appear likely that these Trinity-origin rulers of the supercreations will be directly concerned with the affairs of outer space, but we really do not know. It seems more likely that they will be concerned with the outer-spacers who may be traversing the superuniverses on their way in to Havona and Paradise. <a id="s74_668"></a>[UB 14:6.40](/en/The_Urantia_Book/14#p6_40)
 
-_The Universe Sons and Spirits._ The dual creators of the local universes are concerned, along with the Supreme, in the mobilization of all finite resources for the absonite adventure. [UB 0:10.12](/en/The_Urantia_Book/0#p10_12) It appears that the Universe Sons and Spirits are destined to outer space. It also appears that there will be more than one kind of Creator Son and Creative Spirit in outer space. We advance the theory that there will be three kinds of Sons and Spirits who will be commissioned in the outer universes. (See [Appendix XIII, Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13).) Consider the following reasoning:
+_The Universe Sons and Spirits._ The dual creators of the local universes are concerned, along with the Supreme, in the mobilization of all finite resources for the absonite adventure. <a id="s76_185"></a>[UB 0:10.12](/en/The_Urantia_Book/0#p10_12) It appears that the Universe Sons and Spirits are destined to outer space. It also appears that there will be more than one kind of Creator Son and Creative Spirit in outer space. We advance the theory that there will be three kinds of Sons and Spirits who will be commissioned in the outer universes. (See [Appendix XIII, Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13).) Consider the following reasoning:
 - _Son-Spirit Creative Trios._ The Creator Sons and Creative Spirits are the beings who have been (or will be) commissioned as the creators of the local universes in the present age, and in the Third Age we believe they will have trinitized a Third Being, a creative associate, by virtue of which they will have become Creative Trios.
 - _Mixed-Age Sons and Spirits._ These are the beings who are created (or, who will be created) in the Second Age, but who will not be commissioned for function until the Third Age.
 - _Third-Age Sons and Spirits._ These beings will be created and will be commissioned for service in the next universe age.
@@ -98,9 +98,9 @@ God the Tenfold | The Tenfold Controllers
 9- The Eternal Son | 9- The Isle of Paradise
 10- The Universal Father | 10- The Source of Paradise
 
-In the parallel comparison of God the Sevenfold and the Sevenfold Controllers, we could see that the relationship between them was not fully unified from an experiential standpoint. This would not be the case in our visualization of a possible Tenfold Deity; here we find full experiential unification in the presence of the completed Supreme Being. Such unification would not extend to the absonite level since the Ultimate is incomplete in growth. The Ultimate as Omnipotent [UB 118:2.4](/en/The_Urantia_Book/118#p2_4) must sustain a relationship to God the Ultimate analogous to the present growing relationship of the Almighty Supreme to God the Supreme.
+In the parallel comparison of God the Sevenfold and the Sevenfold Controllers, we could see that the relationship between them was not fully unified from an experiential standpoint. This would not be the case in our visualization of a possible Tenfold Deity; here we find full experiential unification in the presence of the completed Supreme Being. Such unification would not extend to the absonite level since the Ultimate is incomplete in growth. The Ultimate as Omnipotent <a id="s100_477"></a>[UB 118:2.4](/en/The_Urantia_Book/118#p2_4) must sustain a relationship to God the Ultimate analogous to the present growing relationship of the Almighty Supreme to God the Supreme.
 
-_Association of Force Organizers and Power Directors._ There is warrant in the Papers for the projected association of Force Organizers and Power Directors. We know that frandalanks are created by both orders [UB 29:4.35](/en/The_Urantia_Book/29#p4_35), that the Master Physical Controllers are distributed in a superuniverse by its Council of Equilibrium, and this Council is made up of Associate Force Organizers. [UB 29:4.2](/en/The_Urantia_Book/29#p4_2)
+_Association of Force Organizers and Power Directors._ There is warrant in the Papers for the projected association of Force Organizers and Power Directors. We know that frandalanks are created by both orders <a id="s102_209"></a>[UB 29:4.35](/en/The_Urantia_Book/29#p4_35), that the Master Physical Controllers are distributed in a superuniverse by its Council of Equilibrium, and this Council is made up of Associate Force Organizers. <a id="s102_416"></a>[UB 29:4.2](/en/The_Urantia_Book/29#p4_2)
 
 <br>
 

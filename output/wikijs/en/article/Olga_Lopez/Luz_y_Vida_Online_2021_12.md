@@ -269,7 +269,7 @@ Water is essential for life and it also adapts to everything. One of the funny t
 Another of the curious things about water is that it contains **hydrogen and oxygen;** oxygen is the main ingredient for fire and yet **water puts out fire.** Another of the mysteries difficult to understand.
 
 
-> Technical analysis does not reveal what a person or a thing can do. For example: Water is used effectively to extinguish fire. That water will put out fire is a fact of everyday experience, but no analysis of water could ever be made to disclose such a property. Analysis determines that water is composed of hydrogen and oxygen; a further study of these elements discloses that oxygen is the real supporter of combustion and that hydrogen will itself freely burn. (<a id="a270_468"></a>[UB 12:9.4](/en/The_Urantia_Book/12#p9_4))
+> Technical analysis does not reveal what a person or a thing can do. For example: Water is used effectively to extinguish fire. That water will put out fire is a fact of everyday experience, but no analysis of water could ever be made to disclose such a property. Analysis determines that water is composed of hydrogen and oxygen; a further study of these elements discloses that oxygen is the real supporter of combustion and that hydrogen will itself freely burn. (<a id="a271_468"></a>[UB 12:9.4](/en/The_Urantia_Book/12#p9_4))
 
 [Read more](/en/article/Luis_Coll/Los_secretos_del_agua)
 

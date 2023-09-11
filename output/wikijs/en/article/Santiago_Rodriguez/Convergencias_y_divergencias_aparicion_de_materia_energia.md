@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> _Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia._ (<a id="a37_200"></a>[UB 42:4.1](/en/The_Urantia_Book/42#p4_1))
+> _Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia._ (<a id="a38_200"></a>[UB 42:4.1](/en/The_Urantia_Book/42#p4_1))
 
 There is also a great deal of convergence that the material universe that we can observe did indeed have a beginning in time. Although it is true that the considerations of the moment in which this occurred are far from converging, and in this article we will not go into it.
 
@@ -60,7 +60,7 @@ Matter and energy evolve in different ways until, nowadays, they make up the cos
 
 From the point of view of _The Urantia Book_, this appears not to be so. There is a very interesting nuance to take into account.
 
-From a careful reading of <a id="a61_26"></a>[UB 29:5.5-7](/en/The_Urantia_Book/29#p5_5), we can find the following process description:
+From a careful reading of <a id="a62_26"></a>[UB 29:5.5-7](/en/The_Urantia_Book/29#p5_5), we can find the following process description:
 
 One of the tasks performed by the Master Force Organizers is to transmute, transform the “primordial force” (which we are told is not sensitive to Paradise gravity, since it is still part of the domain of the Unqualified Absolute). into “powerful or primal energy” that is already subject to the pull of the gravity of Paradise. That is, there is a transition from something that is in a potential state and becomes something actual or “real”; they also reveal to us that this phase, this stage of energy that has ceased to be potential, is not yet reactive to local or linear gravity, let us remember that this linear gravity is what we, our science, knows and measures as “gravity” . So for us it is still possibly physically undetectable.
 

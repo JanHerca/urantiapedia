@@ -90,11 +90,11 @@ The truth is that this disturbing reality is already announced. We read about th
 
 We are talking about a global system in crisis that will not last over time, because it lacks spiritual support:
 
-> A lasting social system without morality based on spiritual realities is as impossible to maintain as the solar system without gravity. (<a id="a91_139"></a>[UB 195:5.9](/en/The_Urantia_Book/195#p5_9))
+> A lasting social system without morality based on spiritual realities is as impossible to maintain as the solar system without gravity. (<a id="a92_139"></a>[UB 195:5.9](/en/The_Urantia_Book/195#p5_9))
 > 
-> No social system or political regime that denies the reality of God can contribute constructively and lastingly to the progress of human civilization. (<a id="a93_154"></a>[UB 195:10.7](/en/The_Urantia_Book/195#p10_7))
+> No social system or political regime that denies the reality of God can contribute constructively and lastingly to the progress of human civilization. (<a id="a94_154"></a>[UB 195:10.7](/en/The_Urantia_Book/195#p10_7))
 
-> But you should be wise regarding the ripening of an age; you should be alert to discern the signs of the times. You know when the fig tree shows its tender branches and puts forth its leaves that summer is near. Likewise, when the world has passed through the long winter of material-mindedness and you discern the coming of the spiritual springtime of a new dispensation, should you know that the summertime of a new visitation draws near. <a id="a95_443"></a>[UB 176:2.6](/en/The_Urantia_Book/176#p2_6)
+> But you should be wise regarding the ripening of an age; you should be alert to discern the signs of the times. You know when the fig tree shows its tender branches and puts forth its leaves that summer is near. Likewise, when the world has passed through the long winter of material-mindedness and you discern the coming of the spiritual springtime of a new dispensation, should you know that the summertime of a new visitation draws near. <a id="a96_443"></a>[UB 176:2.6](/en/The_Urantia_Book/176#p2_6)
 
 As the writer Emilio Carrillo said in a recent conference: currently, this society has contributed everything it had to contribute; the “suit” of this humanity is becoming too tight for us. Don't you feel that this system of things is getting too small for us? Aren't you uncomfortable? And it is that many people have grown, matured, and we are no longer convinced by the current society.
 
@@ -124,7 +124,7 @@ The uncertainties of life and the vicissitudes of existence do not in any manner
 > “6. Is *idealism—*the approaching concept of the divine—desirable? Then must man struggle in an environment of relative goodness and beauty, surroundings stimulative of the irrepressible reach for better things.”
 > “7. Is *loyalty—*devotion to highest duty—desirable? Then must man carry on amid the possibilities of betrayal and desertion. The valor of devotion to duty consists in the implied danger of default.”
 > “8. Is *unselfishness—*the spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake. Man could never lay saving hold on righteousness if there were no potential evil to exalt and differentiate the good by contrast.”
-> “9. Is *pleasure—*the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities.” (<a id="a125_200"></a>[UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5))
+> “9. Is *pleasure—*the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities.” (<a id="a126_200"></a>[UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5))
 
 Knowing that nothing is random, the panorama of the dystopian world that we observe is a portentous school of growth in consciousness, a university that we can take advantage of to open our minds and hearts, to forge fuller souls. By growing and aspiring to more, we will be able to look at reality with the proper spiritual perspective, complete and not disconnected from transcendence.
 

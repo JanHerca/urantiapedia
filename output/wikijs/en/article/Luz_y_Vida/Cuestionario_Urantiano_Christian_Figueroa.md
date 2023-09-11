@@ -93,11 +93,11 @@ I believe that _The Urantia Book_ is not for everyone, at least the book (the me
 
 I want to share three quotes that have become part of me and my vision, and that can also be of use to others:
 
-> the truth never suffers from honest examination. (<a id="a94_52"></a>[UB 153:2.11](/en/The_Urantia_Book/153#p2_11))
+> the truth never suffers from honest examination. (<a id="a95_52"></a>[UB 153:2.11](/en/The_Urantia_Book/153#p2_11))
 
-> But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingly wrong in the truth. (<a id="a96_232"></a>[UB 48:6.33](/en/The_Urantia_Book/48#p6_33))
+> But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingly wrong in the truth. (<a id="a97_232"></a>[UB 48:6.33](/en/The_Urantia_Book/48#p6_33))
 
-> Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh. He attained an idealistic religious life in the very midst of a realistic world. Jesus did not share Paul’s pessimistic view of humankind. The Master looked upon men as the sons of God and foresaw a magnificent and eternal future for those who chose survival. He was not a moral skeptic; he viewed man positively, not negatively. He saw most men as weak rather than wicked, more distraught than depraved. But no matter what their status, they were all God’s children and his brethren. (<a id="a98_766"></a>[UB 196:2.9](/en/The_Urantia_Book/196#p2_9))
+> Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh. He attained an idealistic religious life in the very midst of a realistic world. Jesus did not share Paul’s pessimistic view of humankind. The Master looked upon men as the sons of God and foresaw a magnificent and eternal future for those who chose survival. He was not a moral skeptic; he viewed man positively, not negatively. He saw most men as weak rather than wicked, more distraught than depraved. But no matter what their status, they were all God’s children and his brethren. (<a id="a99_766"></a>[UB 196:2.9](/en/The_Urantia_Book/196#p2_9))
 
 ## References
 

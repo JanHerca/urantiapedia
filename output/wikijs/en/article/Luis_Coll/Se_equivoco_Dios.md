@@ -129,7 +129,7 @@ The highest feelings of loyalty, love, peace and progress have often emerged fro
 
 > **If you meet success and failure and treat these two impostors equally, then you will be a man, my son!** (Rudyard Kipling)
 
-> 5. Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs. (<a id="a130_129"></a>[UB 48:7.7](/en/The_Urantia_Book/48#p7_7))
+> 5. Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs. (<a id="a131_129"></a>[UB 48:7.7](/en/The_Urantia_Book/48#p7_7))
 
 ## References
 

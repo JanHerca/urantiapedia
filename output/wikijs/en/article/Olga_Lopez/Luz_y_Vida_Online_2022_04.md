@@ -306,7 +306,7 @@ It is in document 144 and it says like this:
 > And forgive us every one our debts
 > As we also have forgiven our debtors.
 > Save us in temptation, deliver us from evil,
-> And increasingly make us perfect like yourself. (<a id="a307_51"></a>[UB 144:3.3-12](/en/The_Urantia_Book/144#p3_3))
+> And increasingly make us perfect like yourself. (<a id="a308_51"></a>[UB 144:3.3-12](/en/The_Urantia_Book/144#p3_3))
 
 Well yes, in _The Urantia Book_ the words debts/debtors appear, just like the Our Father prior to 1986 (in the original English, _debt_/_debtors_). In addition, there are phrases that do not appear in the Catholic Our Father: Vivify our soul with the water of life and Make us more and more perfect like yourself.
 
@@ -323,7 +323,7 @@ Jordi Prat
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="My favorite paragraph-Jordi Prat">
 </figure>
 
-> _The mortal-mind transcripts and the active creature-memory patterns as transformed from the material levels to the spiritual are the individual possession of the detached Thought Adjusters; these spiritized factors of mind, memory, and creature personality are forever a part of such Adjusters. The creature mind-matrix and the passive potentials of identity are present in the morontia soul intrusted to the keeping of the seraphic destiny guardians. And it is the reuniting of the morontia-soul trust of the seraphim and the spirit-mind trust of the Adjuster that reassembles creature personality and constitutes resurrection of a sleeping survivor._ <a id="a324_656"></a>[UB 47:3.3](/en/The_Urantia_Book/47#p3_3)
+> _The mortal-mind transcripts and the active creature-memory patterns as transformed from the material levels to the spiritual are the individual possession of the detached Thought Adjusters; these spiritized factors of mind, memory, and creature personality are forever a part of such Adjusters. The creature mind-matrix and the passive potentials of identity are present in the morontia soul intrusted to the keeping of the seraphic destiny guardians. And it is the reuniting of the morontia-soul trust of the seraphim and the spirit-mind trust of the Adjuster that reassembles creature personality and constitutes resurrection of a sleeping survivor._ <a id="a325_656"></a>[UB 47:3.3](/en/The_Urantia_Book/47#p3_3)
 
 In this paragraph he clearly explains that at the moment of death, the Adjuster is the custodian of the personality (“they are the individual possession of the detached Thought Adjuster. These spiritualized factors of creature mind, memory, and personality are part of the always of said Adjuster”).
 

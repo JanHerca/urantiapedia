@@ -77,17 +77,17 @@ _The Urantia Book_ speaks to us in a diametrically opposed way to these material
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-1.jpg" alt="Editorial mayo-23-1">
 </figure>
 
-> In principle, that is, in eternal potential, we conceive of material creation as being infinite because the Universal Father is actually infinite, (<a id="a78_150"></a>[UB 12:0.2](/en/The_Urantia_Book/12#p0_2))
+> In principle, that is, in eternal potential, we conceive of material creation as being infinite because the Universal Father is actually infinite, (<a id="a79_150"></a>[UB 12:0.2](/en/The_Urantia_Book/12#p0_2))
 
 The universe is not finished and can support infinite sons and daughters of God, unique, original, unrepeatable. All beloved.
 
-> All the myriad planetary systems were made to be inhabited over time by many different kinds of intelligent creatures, beings who could know God, receive divine affection, and love him in return. <a id="a82_198"></a>[UB 1:0.2](/en/The_Urantia_Book/1#p0_2)
+> All the myriad planetary systems were made to be inhabited over time by many different kinds of intelligent creatures, beings who could know God, receive divine affection, and love him in return. <a id="a83_198"></a>[UB 1:0.2](/en/The_Urantia_Book/1#p0_2)
 > 
-> Therefore, establish in your philosophy now and forever that, for each one of you and for all of us, God is accessible, the Father is attainable, the way is open. The forces of divine love and the ways and means of divine administration are all interconnected in an effort to facilitate the advancement of all worthy intelligences of all universes to the presence of the Universal Father on Paradise. <a id="a84_403"></a>[UB 5:1.8](/en/The_Urantia_Book/5#p1_8)
+> Therefore, establish in your philosophy now and forever that, for each one of you and for all of us, God is accessible, the Father is attainable, the way is open. The forces of divine love and the ways and means of divine administration are all interconnected in an effort to facilitate the advancement of all worthy intelligences of all universes to the presence of the Universal Father on Paradise. <a id="a85_403"></a>[UB 5:1.8](/en/The_Urantia_Book/5#p1_8)
 
 No one is left over in an infinite creation, we all contribute talents in its development. The infinite hands of the workers are needed in this endless work.
 
-> “The harvest is indeed plenteous, but the laborers are few; therefore I exhort all of you to pray that the Lord of the harvest will send still other laborers into his harvest. (<a id="a88_179"></a>[UB 163:1.3](/en/The_Urantia_Book/163#p1_3))
+> “The harvest is indeed plenteous, but the laborers are few; therefore I exhort all of you to pray that the Lord of the harvest will send still other laborers into his harvest. (<a id="a89_179"></a>[UB 163:1.3](/en/The_Urantia_Book/163#p1_3))
 
 How far is this vision provided by the blue book from the impoverishing and limiting ideas that powerful minorities have about our planet and about life on our current planet! How far are they from the immense value that human beings have! How good it is for that minority that we humans underestimate ourselves and do not know who we are!
 
@@ -97,7 +97,7 @@ How far is this vision provided by the blue book from the impoverishing and limi
 
 If on the planet, right now, the millions of humans who inhabit it discovered our inner strength, our own light, our value, wouldn't things change a lot? Can you imagine millions of people united to their Thought Adjuster, carrying out the divine will on earth, deploying in matter the eternal values that Jesus of Nazareth proclaimed? A Jesus who had great faith in the human being, in his great possibilities.
 
-> The religion of Jesus fosters the highest type of human civilization in that it creates the highest type of spiritual personality and proclaims the sacredness of that person. (<a id="a98_178"></a>[UB 194:3.7](/en/The_Urantia_Book/194#p3_7))
+> The religion of Jesus fosters the highest type of human civilization in that it creates the highest type of spiritual personality and proclaims the sacredness of that person. (<a id="a99_178"></a>[UB 194:3.7](/en/The_Urantia_Book/194#p3_7))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-3.jpg" alt="Editorial mayo-23-3">
@@ -105,7 +105,7 @@ If on the planet, right now, the millions of humans who inhabit it discovered ou
 
 This beautiful ideal will occur on Earth. That is our hope. It is the horizon towards which we are walking, without a doubt. That is the good news that is missing from so many media outlets.
 
-> And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. (<a id="a106_173"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. (<a id="a107_173"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 The solution to everything is to return to ourselves. An infinite path inside. An invitation to be ourselves.
 
@@ -115,7 +115,7 @@ The solution to everything is to return to ourselves. An infinite path inside. A
 
 Becoming aware of God in us, within us and with us makes us value and love humanity, but above all love ourselves and together make the great heavenly family:
 
-> Then the Master . . .restated the two fundamental laws of living: the first commandment of love for the father, the head of the family, and the second commandment of mutual love among the children, to love your brother as yourself. (<a id="a116_235"></a>[UB 142:7.4](/en/The_Urantia_Book/142#p7_4))
+> Then the Master . . .restated the two fundamental laws of living: the first commandment of love for the father, the head of the family, and the second commandment of mutual love among the children, to love your brother as yourself. (<a id="a117_235"></a>[UB 142:7.4](/en/The_Urantia_Book/142#p7_4))
 
 Let's fight to be ourselves every day, let's go against the current, because becoming aware of who we really are is the greatest gift that anyone can offer the world. Any increase in individual consciousness also raises the collective consciousness of the planet. This elevation occurred more than two thousand years ago with the life of Jesus and it can continue to happen now with us, his creatures.
 

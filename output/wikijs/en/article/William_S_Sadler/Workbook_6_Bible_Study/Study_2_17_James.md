@@ -56,7 +56,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. For many reasons it is difficult to accept James, the Lord's brother, as the author of this epistle.
 2. Jesus' brothers were slow to accept his divine mission; at the crucifixion he committed his mother to the care of the apostle John.
 3. Nothing in this epistle even hints at an intimate association of the author with Jesus.
-	**Note**: If James did write it, it may be that he was hesitant to refer to the family relationship with Jesus because of the peculiar circumstances of the aborted meeting of the family with Jesus at Capernaum-when Jesus uttered those words which so shocked his family-"I have no mother; I have no brothers." (Urantia Book, [UB 154:6.5)](/en/The_Urantia_Book/154#p6_5)
+	**Note**: If James did write it, it may be that he was hesitant to refer to the family relationship with Jesus because of the peculiar circumstances of the aborted meeting of the family with Jesus at Capernaum-when Jesus uttered those words which so shocked his family-"I have no mother; I have no brothers." (Urantia Book, <a id="s58_325"></a>[UB 154:6.5)](/en/The_Urantia_Book/154#p6_5)
 4. This book of James was written by a learned writer-it is high class Hellenistic literature.
 5. This epistle was written in Greek. James was probably proficient only in Aramaic.
 6. There is one item of evidence which demands attention. Many of the 230 words used by James in [Acts 15:13-30](/en/Bible/Acts_of_the_Apostles/15#v13) do appear in the epistle of James.

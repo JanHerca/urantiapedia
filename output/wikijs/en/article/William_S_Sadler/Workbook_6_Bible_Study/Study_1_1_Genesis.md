@@ -117,7 +117,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Cain-a fugitive-became a wanderer-beginning of nomadism. (There are two records of Cain-not to mention getting a wife.)
 4. In [9:20](/en/Bible/Genesis/9#v20) it says Noah was the first tiller of the soil. (There are also two accounts of Noah.)
 5. The J documents are the traditions of the southern Israelites, with headquarters at Hebron. They are the Kadesh or Mt. Horeb tribes who penetrated Canaan from the south. (Hebron was one of the cities of Caleb and was also known as Kirjath-arba.)
-6. Tells of the "mighty" and the "Nephilim." For more light on Nephilim, see Urantia Book [UB 77:2.3](/en/The_Urantia_Book/77#p2_3)
+6. Tells of the "mighty" and the "Nephilim." For more light on Nephilim, see Urantia Book <a id="s119_90"></a>[UB 77:2.3](/en/The_Urantia_Book/77#p2_3)
 7. In J1 Abraham is associated with Hebron.
 8. The Deborah song-the earliest Old Testament document-is a J1 contribution.
 9. This author deals with Sodom and Lot-and the misbehaving daughters of Lot (origin of the Moabites and the Ammonites).
@@ -242,14 +242,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. **Creation**. "In the beginning God created the heavens and the earth." [1:1](/en/Bible/Genesis/1#v1).
 2. **Image of God**. "Then God said, 'Let us make man in our image.'" [1:26](/en/Bible/Genesis/1#v26).
-3. **Voice in the Garden**. "The Lord God called to the man, and said to him, 'Where are you?'" [3:9](/en/Bible/Genesis/3#v9). (See Urantia Book [UB 75:4.8](/en/The_Urantia_Book/75#p4_8).)
+3. **Voice in the Garden**. "The Lord God called to the man, and said to him, 'Where are you?'" [3:9](/en/Bible/Genesis/3#v9). (See Urantia Book <a id="s244_145"></a>[UB 75:4.8](/en/The_Urantia_Book/75#p4_8).)
 4. **The curse**. "In the sweat of your face you shall eat bread." [3:19](/en/Bible/Genesis/3#v19).
 5. **Brother's keeper**. "Then the Lord said to Cain, 'Where is Abel your brother?' He said, 'I do not know; am I my brother's keeper?'" [4:9](/en/Bible/Genesis/4#v9).
 6. **Enoch's translation**. "Enoch walked with God; and he was not, for God took him." [5:24](/en/Bible/Genesis/5#v24).
 7. **The Nephilim**. "The Nephilim were on the earth in those days...when the sons of God came in to the daughters of men." [6:4](/en/Bible/Genesis/6#v4).
 8. **The rainbow**. "I set my bow in the cloud, and it shall be a sign...never again...a flood to destroy all flesh." [9:13,15](/en/Bible/Genesis/9#v13)..
 9. **Confusion of language**. "Let us go down, and there confuse their language, that they may not understand one another's speech." [11:7](/en/Bible/Genesis/11#v7).
-10. **Melchizedek and Abraham**. "After his return from the defeat of Ched-or-laomer...Melchizedek king of Salem brought out bread and wine...and Abram gave him a tenth of everything." [14:17-20](/en/Bible/Genesis/14#v17). (See Urantia Book [UB 93:5.13](/en/The_Urantia_Book/93#p5_13).)
+10. **Melchizedek and Abraham**. "After his return from the defeat of Ched-or-laomer...Melchizedek king of Salem brought out bread and wine...and Abram gave him a tenth of everything." [14:17-20](/en/Bible/Genesis/14#v17). (See Urantia Book <a id="s251_241"></a>[UB 93:5.13](/en/The_Urantia_Book/93#p5_13).)
 11. **Abraham's faith**. "And he believed the Lord; and he reckoned it to him as righteousness." [15:6](/en/Bible/Genesis/15#v6).
 12. **Circumcision**. "You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant." [17:11](/en/Bible/Genesis/17#v11).
 13. **The pillar of salt**. "But Lot's wife...looked back, and she became a pillar of salt." [19:26](/en/Bible/Genesis/19#v26).

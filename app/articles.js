@@ -31,6 +31,13 @@ class Articles {
 	items = [];
 	articles = [];
 	paralells = [];
+	publications = [
+		'Innerface International',
+		'Fellowship Herald', 
+		'Mighty Messenger', 
+		'Luz y Vida',
+		'Urantia Foundation'
+	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});
 
@@ -634,13 +641,14 @@ class Articles {
 				if (ffiles.length === 0) {
 					return Promise.reject([this.getError('files_not_with_format', formats.toString())]);
 				}
+
 				this.clearArticles();
+
 				const reLink = new RegExp('<a id="(a\\d+_\\d+)"><\\/a>' +
 					'\\[[^\\]]+\\]' + `\\(\/${this.language}\/` +
 					'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
 				const reCopy = new RegExp('© (\\d+) ([^\\d<]+)', 'g');
-				const publications = ['Innerface International',
-					'Fellowship Herald', 'Mighty Messenger'];
+				
 				const promises = ffiles.map(filePath => {
 					return readFile(filePath)
 						.then(lines => {
@@ -678,7 +686,7 @@ class Articles {
 									if (line.startsWith('tags: author')) {
 										ignore = true;
 									}
-									const pub = publications.find(p => {
+									const pub = this.publications.find(p => {
 										return line.toLowerCase()
 											.indexOf(p.toLowerCase()) != -1;
 									});
@@ -991,6 +999,10 @@ class Articles {
 	writeAnchorsToWikijs = (dirPath) => {
 		return getFiles(dirPath)
 			.then(files => {
+				const studyAidPaths = this.index.issues.reduce((ac, cur) => {
+					cur.articles.forEach(article => ac.push(article.path));
+					return ac;
+				}, []);
 				const formats = ['.md'];
 				const ffiles = files.filter(file => {
 					return (formats.indexOf(path.extname(file)) != -1);
@@ -1003,6 +1015,10 @@ class Articles {
 					'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
 				const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
 				const promises = ffiles.map(filePath => {
+					const filePath2 = filePath.replace(/\\/g, '/');
+					const isStudyAid = studyAidPaths
+						.find(p => filePath2.indexOf(p) != -1) != null;
+					const prefix = (isStudyAid ? 's' : 'a');
 					return readFile(filePath)
 						.then(lines => {
 							return lines.map((line, i) => {
@@ -1016,7 +1032,7 @@ class Articles {
 								indexes.forEach((index, n) => {
 									const prev = (n === 0 ? 0 : indexes[n-1]);
 									const s = newLine.substring(prev, index);
-									const id = `a${i}_${index}`;
+									const id = `${prefix}${i}_${index}`;
 									newLine2 += s + `<a id="${id}"></a>`;
 								});
 								newLine2 += newLine.substring(

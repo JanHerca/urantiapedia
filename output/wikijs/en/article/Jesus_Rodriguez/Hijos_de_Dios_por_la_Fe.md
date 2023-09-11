@@ -62,7 +62,7 @@ Jesus does not require his followers to believe in him, but rather that they bel
 
 The same type of faith that we all must develop to achieve recognition as true CHILDREN OF GOD BY FAITH by the “Universal Father”.
 
-This is why Jesus always poignantly challenged his followers not only to “believe what he believed” but also to “believe as he believed.” This is the true meaning of the supreme requirement that Jesus demands of all believers in Christianity through his maxim “FOLLOW ME.” <a id="a63_273"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10) <a id="a63_319"></a>[UB 196:0.13](/en/The_Urantia_Book/196#p0_13).
+This is why Jesus always poignantly challenged his followers not only to “believe what he believed” but also to “believe as he believed.” This is the true meaning of the supreme requirement that Jesus demands of all believers in Christianity through his maxim “FOLLOW ME.” <a id="a64_273"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10) <a id="a64_319"></a>[UB 196:0.13](/en/The_Urantia_Book/196#p0_13).
 
 Who among us dares to follow Jesus?
 
@@ -79,7 +79,7 @@ All the evolutionary material worlds are inhabited by these “sons of God by fa
 3. You are sons because the spirit of a “divine Son” (the spirit of truth) has been poured out upon all the mortal races of Urantia and this spirit will forever draw you to the “Creator Son” who is the source that will carry you towards Heavenly Father.
 4. By his divine “free will”, the Universal Father has given you your creaturely personality, you have been endowed with a measure of that divine spontaneity of “free will” that the Heavenly Father shares with all those who can be his true “ ”spiritual children" with the potential for ascension, who will be able to reach the highest heights of glory and divinity.
 
-These are the mortals to whom the Universal Father has commanded: “Be perfect, even as I am perfect.” The Father has bestowed himself upon you, placed within you a fragment of his divine spirit (the thought adjuster), therefore he demands ultimate perfection from all of you. <a id="a80_276"></a>[UB 40:6.3](/en/The_Urantia_Book/40#p6_3), <a id="a80_319"></a>[UB 40:6.4-7](/en/The_Urantia_Book/40#p6_4), <a id="a80_364"></a>[UB 40:7.4](/en/The_Urantia_Book/40#p7_4).
+These are the mortals to whom the Universal Father has commanded: “Be perfect, even as I am perfect.” The Father has bestowed himself upon you, placed within you a fragment of his divine spirit (the thought adjuster), therefore he demands ultimate perfection from all of you. <a id="a81_276"></a>[UB 40:6.3](/en/The_Urantia_Book/40#p6_3), <a id="a81_319"></a>[UB 40:6.4-7](/en/The_Urantia_Book/40#p6_4), <a id="a81_364"></a>[UB 40:7.4](/en/The_Urantia_Book/40#p7_4).
 
 We mortals on Urantia enjoy the privilege of being SONS OF GOD BY FAITH from the very moment that “the morontia Jesus” (after his death) poured out his spirit on humanity: “the spirit of truth”, that spiritual endowment which was given to all normal-minded mortals, that new Teacher who will help honest-hearted men to understand and correctly discern his incomparable teachings of spiritual truth.
 
@@ -87,7 +87,7 @@ Jesus taught a gospel that redeemed man from the superstition that he was a chil
 
 The spiritual truths that Jesus lived and preached in his time were an effective solution to the spiritual difficulties of the men of that time and since as a person he has left this world, he has left us the “spirit of truth” in his place. , which is destined to live in the mind of man, so that each new group or generation of mortals that appears in the future on the face of the earth, have a new and updated vision of his gospel, personal enlightenment and guidance that it be the effective solution to the ever-changing and varied spiritual difficulties of man in all ages.
 
-Thus, “the Spirit of Truth” endowed man with the most powerful spiritual force that can exist in this world. And it also serves so that the minds of mortals remember and understand the life of “human perfection” that Jesus developed during the course of his earthly life. <a id="a88_272"></a>[UB 194:2.1](/en/The_Urantia_Book/194#p2_1), <a id="a88_317"></a>[UB 194:3.4](/en/The_Urantia_Book/194#p3_4)
+Thus, “the Spirit of Truth” endowed man with the most powerful spiritual force that can exist in this world. And it also serves so that the minds of mortals remember and understand the life of “human perfection” that Jesus developed during the course of his earthly life. <a id="a89_272"></a>[UB 194:2.1](/en/The_Urantia_Book/194#p2_1), <a id="a89_317"></a>[UB 194:3.4](/en/The_Urantia_Book/194#p3_4)
 
 Now, although the common mortal of Urantia cannot reach the high “human perfection” that Jesus developed through his genuine “spiritual faith”, each sincere believer will be able to develop, through authentic faith, a personality strong and unified that is in keeping with the perfected personality of Jesus. And just as true “children of God by Faith” they can recognize their place within that great family of divine affiliation. A son freed by his faith who will no longer be a slave to a materialistic world; He will no longer fight alone against the adversities of life nor against the inexorable destiny of the termination of temporary existence, and he will join with all “the children of the kingdom of GOD” in the triumph of his spiritual reality, where finally the creatures become aware of the fact that they have never been alone and that GOD and the heavenly hosts of his vast universe will always be by their side during their mortal evolutionary race to reach their true state as SONS OF GOD BY THEIR FAITH.
 
@@ -95,7 +95,7 @@ It should not be the main objective of followers of Jesus to literally imitate h
 
 And just as Jesus ascended from the nature of man to the consciousness of the nature of GOD through the joint action of his faith and the spiritual guidance of his thought adjuster, so also men must progress from the consciousness of the human. to the realization of the divine, through your faith and through the guidance of your resident adjuster. Since the task of the thought adjuster is to strengthen the soul of the evolutionary man, so that through his faith he reaches a higher consciousness of the eternal spiritual realities.
 
-The reason of science is based on the observable facts in time, the faith of religion is based on the spiritual program of eternity. And what knowledge and reason cannot do for us, “true faith” achieves through religious vision and personal spiritual transformation. <a id="a96_267"></a>[UB 102:1.2](/en/The_Urantia_Book/102#p1_2)
+The reason of science is based on the observable facts in time, the faith of religion is based on the spiritual program of eternity. And what knowledge and reason cannot do for us, “true faith” achieves through religious vision and personal spiritual transformation. <a id="a97_267"></a>[UB 102:1.2](/en/The_Urantia_Book/102#p1_2)
 
 Belief reaches the level of faith when it motivates life and shapes the way of living; acceptance of a teaching as true is not faith, it is merely belief. A mental state reaches the levels of faith only when it effectively dominates the way of living. Faith is a living attribute of personal religious experience, belief is limiting and restricting. Faith is expansive and liberating. Belief is fixed, faith is alive.
 
@@ -103,7 +103,7 @@ Rather than an association of noble beliefs, faith is an exalted system that enc
 
 Beliefs can become group possessions, but faith has to be personal. Theological beliefs can be suggested to a group, but faith can only arise in the heart of the individual religious person. Faith never escapes the duty to solve the problems of mortal life, since authentic spiritual faith is going to move mountains, but mountains of material problems that overwhelm men.
 
-Faith revitalizes religion and compels man to live heroically in accordance with religious knowledge; for which his spiritual impulses are the prelude to enjoy a sublime peace. <a id="a104_177"></a>[UB 101:8.2](/en/The_Urantia_Book/101#p8_2) <a id="a104_221"></a>[UB 101:8.4](/en/The_Urantia_Book/101#p8_4)
+Faith revitalizes religion and compels man to live heroically in accordance with religious knowledge; for which his spiritual impulses are the prelude to enjoy a sublime peace. <a id="a105_177"></a>[UB 101:8.2](/en/The_Urantia_Book/101#p8_2) <a id="a105_221"></a>[UB 101:8.4](/en/The_Urantia_Book/101#p8_4)
 
 Through faith, the soul of man reveals itself and demonstrates its eternal and divine potential.
 
@@ -132,13 +132,13 @@ And since you are already aware of GOD and have already received the certainty o
 
 What importance does it have for you who believe in the gospel of the kingdom that nations fall, that an era ends, that all material things be destroyed, in view of the fact that you know that your lives are the “Gift of the Creator Son” and that his existence is eternally secure in the Father.
 
-And having lived “earthly life by faith” and having borne the fruits of the spirit righteously through loving service to your fellow men, you can confidently contemplate the next step in the eternal career with the same “Faith of Survival.” » that has taken you through your first and earthly adventure as a SON OF GOD BY FAITH. <a id="a133_329"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2) <a id="a133_373"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2).
+And having lived “earthly life by faith” and having borne the fruits of the spirit righteously through loving service to your fellow men, you can confidently contemplate the next step in the eternal career with the same “Faith of Survival.” » that has taken you through your first and earthly adventure as a SON OF GOD BY FAITH. <a id="a134_329"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2) <a id="a134_373"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2).
 
 Such was the faith that Jesus lived during his “personal ministry” and preached during his “public ministry.”
 
-Thus, “the children of GOD by faith” who achieve such a spiritual attainment are able to calmly witness the sight of the ruination of their dearest ambitions, the collapse of their longings and the destruction of their deepest hopes, for they know categorically that such catastrophes are nothing more than redirection cataclysms that mar the believer's temporary creations of the kingdom, prior to the beginning of the possession of nobler and more enduring realities of a more sublime spiritual level of universal achievement. <a id="a137_529"></a>[UB 100:2.8](/en/The_Urantia_Book/100#p2_8)
+Thus, “the children of GOD by faith” who achieve such a spiritual attainment are able to calmly witness the sight of the ruination of their dearest ambitions, the collapse of their longings and the destruction of their deepest hopes, for they know categorically that such catastrophes are nothing more than redirection cataclysms that mar the believer's temporary creations of the kingdom, prior to the beginning of the possession of nobler and more enduring realities of a more sublime spiritual level of universal achievement. <a id="a138_529"></a>[UB 100:2.8](/en/The_Urantia_Book/100#p2_8)
 
-And precisely what the religion of Jesus needs today; it is that type of “spiritual men and women” who dare to depend solely on the indwelling spirit of Jesus (the spirit of truth), who through a renewed “spiritual faith” will be able to correctly discern all that constitutes the sum and substance of the mission of the bestowal son “Christ Michael” here on Urantia. <a id="a139_368"></a>[UB 34:5.5-6](/en/The_Urantia_Book/34#p5_5)
+And precisely what the religion of Jesus needs today; it is that type of “spiritual men and women” who dare to depend solely on the indwelling spirit of Jesus (the spirit of truth), who through a renewed “spiritual faith” will be able to correctly discern all that constitutes the sum and substance of the mission of the bestowal son “Christ Michael” here on Urantia. <a id="a140_368"></a>[UB 34:5.5-6](/en/The_Urantia_Book/34#p5_5)
 
 What spiritual awakening would humanity experience if only they could see how Jesus really lived his “earthly life” depending always on his invincible “spiritual faith”!
 

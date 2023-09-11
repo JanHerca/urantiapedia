@@ -64,7 +64,7 @@ When the blue book came to light on October 12, 1955, 67 years ago, more than ha
 
 Right now, in October, we celebrate the 67th anniversary of the publication of _The Urantia Book_. A book that formulates at the beginning its intention to expand our worldview and spiritual development:
 
-> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. (<a id="a65_360"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. (<a id="a66_360"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-2.jpg" alt="Editorial oct 22-2">
@@ -76,11 +76,11 @@ This striking way of revealing the Deity his projects, not using people as messe
 
 The same book highlights this divine desire for communication, this effort to be revealed with a multitude of resources:
 
-> Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains. There is an infinite grandeur and an inexpressible generosity connected with the majesty of his love which causes him to yearn for the association of every created being who can comprehend, love, or approach him; and it is, therefore, the limitations inherent in you, inseparable from your finite personality and material existence, that determine the time and place and circumstances in which you may achieve the goal of the journey of mortal ascension and stand in the presence of the Father at the center of all things. (<a id="a77_722"></a>[UB 5:1.2](/en/The_Urantia_Book/5#p1_2))
+> Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains. There is an infinite grandeur and an inexpressible generosity connected with the majesty of his love which causes him to yearn for the association of every created being who can comprehend, love, or approach him; and it is, therefore, the limitations inherent in you, inseparable from your finite personality and material existence, that determine the time and place and circumstances in which you may achieve the goal of the journey of mortal ascension and stand in the presence of the Father at the center of all things. (<a id="a78_722"></a>[UB 5:1.2](/en/The_Urantia_Book/5#p1_2))
 
 The revelators know that this unusual communication is going to be possible not only because of the material in the book but also because of the internal presence of a divine Spark. Here is the key to understanding the text:
 
-> Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. (<a id="a81_351"></a>[UB 5:1.3](/en/The_Urantia_Book/5#p1_3))
+> Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. (<a id="a82_351"></a>[UB 5:1.3](/en/The_Urantia_Book/5#p1_3))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-3.jpg" alt="Editorial oct 22-3">

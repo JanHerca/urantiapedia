@@ -56,7 +56,7 @@ For me, the Supreme Being is the Infinite I AM, but working on the experiential 
 
 The UB tells us: “In the Deity of the Supreme, the Father-I AM has achieved relatively complete liberation from the limitations inherent in the infinite state, eternal existence, and absolute nature...by achieving liberation from eternity, the Almighty becomes meets the barriers of time...”
 
-“All of this must be in accordance with the Father's plan, which has based finite progress on effort, creature achievement on perseverance, and personality development on faith. By thus ordering the experiential evolution of the Supreme, the Father has made it possible for finite creatures to exist in the universes...” (<a id="a57_322"></a>[Paper 115-7](/en/The_Urantia_Book/115#p7))
+“All of this must be in accordance with the Father's plan, which has based finite progress on effort, creature achievement on perseverance, and personality development on faith. By thus ordering the experiential evolution of the Supreme, the Father has made it possible for finite creatures to exist in the universes...” (<a id="a58_322"></a>[Paper 115-7](/en/The_Urantia_Book/115#p7))
 
 When the Infinite I AM differentiated Reality, it did so by separating the Potential on one side and the Manifested on the other. The potential is yet unexpressed, and is contained in the three Absolutes of potentiality. The manifested is what is already expressed, and it is expressed in the universe in three ways: the absolute thing (Island of Paradise), the absolute personality (Eternal Son) and the absolute mind (Infinite Spirit). These three manifested Absolutes are the origins of all the reality we know.
 
@@ -66,7 +66,7 @@ The L.d.U. he says in this regard: “The entire project of universal creation a
 
 “The final dynamic of the cosmos consists in continuously transferring reality from the potential state to the manifested state”. ([Doc 115](/en/The_Urantia_Book/115#))
 
-“The great struggle of this age of the universe takes place between the potential and the manifested - everything that has not been expressed up to now tries to manifest itself.” (<a id="a67_180"></a>[Paper 117-4](/en/The_Urantia_Book/117#p4))
+“The great struggle of this age of the universe takes place between the potential and the manifested - everything that has not been expressed up to now tries to manifest itself.” (<a id="a68_180"></a>[Paper 117-4](/en/The_Urantia_Book/117#p4))
 
 I deduce that, when in the eternity of the past the Infinite I AM divided reality into Potential and Manifested, it did so because it already had “in mind” to create the finite level, where potentials would gradually become realities over time.
 
@@ -84,9 +84,9 @@ The Supreme Being is destined to reach the maximum of the finite level. We will 
 
 The Supreme Being will be complete when all seven superuniverses are established in light and life. We will then have existential (Havona) and experiential (superuniverse) perfection in creation.
 
-Paper 117, <a id="a85_11"></a>[UB 117:7.12](/en/The_Urantia_Book/117#p7_12), talks about the future of the Supreme Court. Similarly, we mortals will be busy throughout eternity. Eternity cannot be an eternal nap, contrary to what other religions claim.
+Paper 117, <a id="a86_11"></a>[UB 117:7.12](/en/The_Urantia_Book/117#p7_12), talks about the future of the Supreme Court. Similarly, we mortals will be busy throughout eternity. Eternity cannot be an eternal nap, contrary to what other religions claim.
 
-We have an obligation to the Supreme, and it is to develop our potentials. We are unique and irreplaceable personalities. If we do not choose to survive, the Ultimate will experience a delay in its development (<a id="a87_211"></a>[UB 117:4.2](/en/The_Urantia_Book/117#p4_2)). When we do something against someone we go against the unit. What a personality can contribute is not lost; the values are held in the adjusters and in the Supreme, although the potential will remain potential if it is not developed.
+We have an obligation to the Supreme, and it is to develop our potentials. We are unique and irreplaceable personalities. If we do not choose to survive, the Ultimate will experience a delay in its development (<a id="a88_211"></a>[UB 117:4.2](/en/The_Urantia_Book/117#p4_2)). When we do something against someone we go against the unit. What a personality can contribute is not lost; the values are held in the adjusters and in the Supreme, although the potential will remain potential if it is not developed.
 
 It is inevitable to wonder what the inhabitants of outer space will be like, although we can imagine little about it. Of course it does not make sense to say that they will have more privileges than us, or vice versa. Nor do we know if they exist or not; It is clear that they do not exist in our space-time, in our “bubble”, but they certainly exist in their absonite “bubble”, where space and time are transcended.
 

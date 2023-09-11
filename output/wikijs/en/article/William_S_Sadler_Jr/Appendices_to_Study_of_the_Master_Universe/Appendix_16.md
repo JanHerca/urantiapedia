@@ -29,31 +29,31 @@ The Papers give just enough information about the physical size of creation to a
 
 _Information pertaining to distances: space magnitudes_
 
-> [UB 32:2.11](/en/The_Urantia_Book/32#p2_11) The radius of the superuniverse of Orvonton is a little less than 250,000 light-years.
+> <a id="s31_2"></a>[UB 32:2.11](/en/The_Urantia_Book/32#p2_11) The radius of the superuniverse of Orvonton is a little less than 250,000 light-years.
 
 Then the transverse diameter of Orvonton (the horizontal distance from the outer border to the inner border) is twice the radius, or 500,000 light-years.
 
-> [UB 12:1.14](/en/The_Urantia_Book/12#p1_14) Between the superuniverses and the Primary Space Level there is a quiet zone that averages around 400,000 light-years in width.
+> <a id="s35_2"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14) Between the superuniverses and the Primary Space Level there is a quiet zone that averages around 400,000 light-years in width.
 > 
 > (ibid) Around one-half million light-years from the periphery of the superuniverses, there is a zone of energy activity that grows in ". . . intensity for over 25 million light years." This is all in the first outer space level.
 
 If this zone _increases_ in intensity for over 25 million light-years, then it is logical to deduce that it decreases in intensity for another 25 million light-years. This means that the transverse diameter of the first outer space level is on the order of 50 million light-years.
 
-> [UB 12:1.15](/en/The_Urantia_Book/12#p1_15) More than 50 million light-years beyond the activities of the Primary Space Level, the Uversa physicists have observed still greater energy activities. These are preliminary to the physical development of the second outer space level.
+> <a id="s41_2"></a>[UB 12:1.15](/en/The_Urantia_Book/12#p1_15) More than 50 million light-years beyond the activities of the Primary Space Level, the Uversa physicists have observed still greater energy activities. These are preliminary to the physical development of the second outer space level.
 
 _Information pertaining to physical creations: mass magnitudes_
 
-> [UB 12:1.10](/en/The_Urantia_Book/12#p1_10) Havona plus its dark gravity bodies is more massive than all seven superuniverses. This is due to the enormous mass of these encircling dark gravity bodies.
+> <a id="s45_2"></a>[UB 12:1.10](/en/The_Urantia_Book/12#p1_10) Havona plus its dark gravity bodies is more massive than all seven superuniverses. This is due to the enormous mass of these encircling dark gravity bodies.
 > 
-> [UB 12:3.8](/en/The_Urantia_Book/12#p3_8) About 95 percent of the present gravity action of the Isle of Paradise is occupied with the control of physical systems outside of the grand universe.
+> <a id="s47_2"></a>[UB 12:3.8](/en/The_Urantia_Book/12#p3_8) About 95 percent of the present gravity action of the Isle of Paradise is occupied with the control of physical systems outside of the grand universe.
 
 The figure of 95 percent is not altogether reliable in comparing the physical size of the outer space levels with the physical size of the grand universe. This is because of the high concentration of mass in the dark gravity bodies encircling the central universe. Were these dark gravity bodies left out of the calculation, then the figure of 95 percent would be even larger.
 
 Furthermore, the mass of the grand universe is much more of a finished physical creation than are the newly organizing universes of outer space. The passing of time will further increase the figure of 95 percent.
 
-> [UB 31:10.19](/en/The_Urantia_Book/31#p10_19) There are at least 70,000 physical aggregations in outer space and each one is larger than a superuniverse.
+> <a id="s53_2"></a>[UB 31:10.19](/en/The_Urantia_Book/31#p10_19) There are at least 70,000 physical aggregations in outer space and each one is larger than a superuniverse.
 > 
-> [UB 12:2.3](/en/The_Urantia_Book/12#p2_3) Someday our astronomers will see ". . . no less than 375 million new galaxies in the remote stretches of outer space."
+> <a id="s55_2"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3) Someday our astronomers will see ". . . no less than 375 million new galaxies in the remote stretches of outer space."
 
 There is a question as to whether these two statements refer to the same masses, or to different physical creations. In this study, we will assume that the 70,000 aggregations are all in the Primary Space Level and that these are the major groupings which embrace the 375 million galaxies. A superficial consideration of this data might suggest that the 375 million galaxies could be in the Secondary Space Level; but if they were, then we could never see them. Our telescopes cannot see across Orvonton, because of the dust in space, and this is only one-half million light-years. How could we ever hope to see across the Primary Space Level; it is 50 million light-years across.
 

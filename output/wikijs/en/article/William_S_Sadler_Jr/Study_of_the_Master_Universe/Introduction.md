@@ -54,7 +54,7 @@ _The innermost area, designated “P” is the Isle of Paradise. The surrounding
 
 ## § 2. Universe Space Levels
 
-The best general description of the master universe appears in the Papers on [UB 12:1.1](/en/The_Urantia_Book/12#p1_1), Space Levels of the Master Universe. The story which is given there presents a picture of the master creation as consisting of six concentric and elliptical space levels. Each of these space levels has two names that are used rather interchangeably, as tabulated below:
+The best general description of the master universe appears in the Papers on <a id="s56_77"></a>[UB 12:1.1](/en/The_Urantia_Book/12#p1_1), Space Levels of the Master Universe. The story which is given there presents a picture of the master creation as consisting of six concentric and elliptical space levels. Each of these space levels has two names that are used rather interchangeably, as tabulated below:
 
 Level | Space
 --- | ---

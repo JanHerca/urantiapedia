@@ -49,9 +49,9 @@ After baptism, and to complete a human life, he only needed to go through death.
 
 2\. _Reveal the will of the Father_, which he did in particular during the so-called “public life”.
 
-3\. _Put “technically an end to the Lucifer rebellion in the Satania system_, and that you do all this as the Son of Man” (<a id="a50_123"></a>[UB 120:2.2](/en/The_Urantia_Book/120#p2_2)).
+3\. _Put “technically an end to the Lucifer rebellion in the Satania system_, and that you do all this as the Son of Man” (<a id="a51_123"></a>[UB 120:2.2](/en/The_Urantia_Book/120#p2_2)).
 
-We are not given many details of what this means, but he did it on Mount Hermon in September of the year 25 when, without the help of his personal guardian and as the Son of Man, he faced the rebels (<a id="a52_200"></a>[UB 134:8.9](/en/The_Urantia_Book/134#p8_9) ).
+We are not given many details of what this means, but he did it on Mount Hermon in September of the year 25 when, without the help of his personal guardian and as the Son of Man, he faced the rebels (<a id="a53_200"></a>[UB 134:8.9](/en/The_Urantia_Book/134#p8_9) ).
 
 The public work really began in January of the year 27. Throughout the year 26, Jesus chose his apostles and was training them.
 

@@ -60,21 +60,21 @@ Regarding the possible convergences or divergences with the UB, what we can esta
 
 Although the UB states:
 
-> _Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia._ (<a id="a61_200"></a>[UB 42:4.1](/en/The_Urantia_Book/42#p4_1))
+> _Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia._ (<a id="a62_200"></a>[UB 42:4.1](/en/The_Urantia_Book/42#p4_1))
 
 What evidently converges with the intention of unification in the previously exposed science.
 
 Our UB talks about electrons in the following terms:
 
-> _1. Ultimatonic matter—the prime physical units of material existence, the energy particles which go to make up electrons._ (<a id="a67_127"></a>[UB 42:3.3](/en/The_Urantia_Book/42#p3_3))
+> _1. Ultimatonic matter—the prime physical units of material existence, the energy particles which go to make up electrons._ (<a id="a68_127"></a>[UB 42:3.3](/en/The_Urantia_Book/42#p3_3))
 
-> _Gravity presence and action . . .The most nearly empty space known in Nebadon would yield about one hundred ultimatons—the equivalent of one electron—in each cubic inch. Such scarcity of matter is regarded as practically empty space._ (<a id="a69_239"></a>[UB 42:4.6](/en/The_Urantia_Book/42#p4_6))
+> _Gravity presence and action . . .The most nearly empty space known in Nebadon would yield about one hundred ultimatons—the equivalent of one electron—in each cubic inch. Such scarcity of matter is regarded as practically empty space._ (<a id="a70_239"></a>[UB 42:4.6](/en/The_Urantia_Book/42#p4_6))
 
-> _2. *Ultimatonic rays.* The assembly of energy into the minute spheres of the ultimatons . . . As the ultimatons aggregate into electrons, condensation occurs with a consequent storage of energy._ (<a id="a71_200"></a>[UB 42:5.4](/en/The_Urantia_Book/42#p5_4))
+> _2. *Ultimatonic rays.* The assembly of energy into the minute spheres of the ultimatons . . . As the ultimatons aggregate into electrons, condensation occurs with a consequent storage of energy._ (<a id="a72_200"></a>[UB 42:5.4](/en/The_Urantia_Book/42#p5_4))
 
-> _The ultimatons, unknown on Urantia, slow down through many phases of physical activity before they attain the revolutionary-energy prerequisites to electronic organization. Ultimatons have three varieties of motion: mutual resistance to cosmic force, individual revolutions of antigravity potential, and the intraelectronic positions of the one hundred mutually interassociated ultimatons._ (<a id="a73_395"></a>[UB 42:6.4](/en/The_Urantia_Book/42#p6_4))
+> _The ultimatons, unknown on Urantia, slow down through many phases of physical activity before they attain the revolutionary-energy prerequisites to electronic organization. Ultimatons have three varieties of motion: mutual resistance to cosmic force, individual revolutions of antigravity potential, and the intraelectronic positions of the one hundred mutually interassociated ultimatons._ (<a id="a74_395"></a>[UB 42:6.4](/en/The_Urantia_Book/42#p6_4))
 
-> _Mutual attraction holds one hundred ultimatons together in the constitution of the electron; and there are never more nor less than one hundred ultimatons in a typical electron. The loss of one or more ultimatons destroys typical electronic identity, thus bringing into existence one of the ten modified forms of the electron._ (<a id="a75_332"></a>[UB 42:6.5](/en/The_Urantia_Book/42#p6_5))
+> _Mutual attraction holds one hundred ultimatons together in the constitution of the electron; and there are never more nor less than one hundred ultimatons in a typical electron. The loss of one or more ultimatons destroys typical electronic identity, thus bringing into existence one of the ten modified forms of the electron._ (<a id="a76_332"></a>[UB 42:6.5](/en/The_Urantia_Book/42#p6_5))
 
 Which diverges from the idea of the Standard Model, which does not establish a composite structure for the electron.
 

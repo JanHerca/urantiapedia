@@ -103,8 +103,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. They were a religious clan belonging to the Midianites. Jethro was their high priest.
 2. They had a high civilization-varied vocations-metal workers, etc. They also had a well developed religion.
-3. For the whole story of the Kenites see Urantia Book [96:0.2](/en/The_Urantia_Book/96#p0_2).
-4. Moses had a good Egyptian education before he joined up with the Kenites. See Urantia Book, [UB 96:4.2](/en/The_Urantia_Book/96#p4_2). He knew the "wisdom of the Egyptians." [Acts 7:22](/en/Bible/Acts_of_the_Apostles/7#v22).
+3. For the whole story of the Kenites see Urantia Book <a id="s105_55"></a>[96:0.2](/en/The_Urantia_Book/96#p0_2).
+4. Moses had a good Egyptian education before he joined up with the Kenites. See Urantia Book, <a id="s106_95"></a>[UB 96:4.2](/en/The_Urantia_Book/96#p4_2). He knew the "wisdom of the Egyptians." [Acts 7:22](/en/Bible/Acts_of_the_Apostles/7#v22).
 5. The priest Jethro was also known as Reuel. [2:18](/en/Bible/Exodus/2#v18).
 6. Moses married Jethro's daughter, Zipporah, and had two sons. [18:3](/en/Bible/Exodus/18#v3).
 7. It was while tending Jethro's flocks that Moses had his experience of the "burning bush" and received Yahweh's commission to lead Israel out of bondage.

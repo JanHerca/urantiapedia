@@ -46,13 +46,13 @@ By various authors
 - Andrés Pérez
 - Santiago Rodríguez
 
-**Antonio:** here is a good question: “_Universal causes (or of the universe) cannot be inferior to universal effects (or of the universe)_” (<a id="a47_142"></a>[UB 3:6.3](/en/The_Urantia_Book/3#p6_3))
+**Antonio:** here is a good question: “_Universal causes (or of the universe) cannot be inferior to universal effects (or of the universe)_” (<a id="a48_142"></a>[UB 3:6.3](/en/The_Urantia_Book/3#p6_3))
 
 Why can't an effect be superior to its cause? Explain it to me, please. One is a bit clumsy, and does not quite envision good examples of this statement. I like bib examples for children, because if not, I still don't get anything. Would someone be kind enough to shed a little light on my thick head? Thanks in advance.
 
-> “_all effects are preceded by definite causes._” (<a id="a51_52"></a>[UB 86:2.5](/en/The_Urantia_Book/86#p2_5))
+> “_all effects are preceded by definite causes._” (<a id="a52_52"></a>[UB 86:2.5](/en/The_Urantia_Book/86#p2_5))
 
-> “_You cannot have effects without causes;_” (<a id="a53_47"></a>[UB 102:7.3](/en/The_Urantia_Book/102#p7_3))
+> “_You cannot have effects without causes;_” (<a id="a54_47"></a>[UB 102:7.3](/en/The_Urantia_Book/102#p7_3))
 
 **Carmelo:** Antonio's questions... as always, sharp, deep and difficult to answer.
 

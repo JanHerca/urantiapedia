@@ -53,7 +53,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. Authorship
 
-1. The Urantia Book [UB 121:8.10)](/en/The_Urantia_Book/121#p8_10) says 1 John was a covering letter for the Gospel of John, written by Nathan.
+1. The Urantia Book <a id="s55_20"></a>[UB 121:8.10)](/en/The_Urantia_Book/121#p8_10) says 1 John was a covering letter for the Gospel of John, written by Nathan.
 2. Most critics agree that the three epistles have the same author.
 3. There is little doubt that the three letters were written by the apostle John around the turn of the first century, from a province in Asia.
 4. The style, in general, is that of the fourth Gospel.

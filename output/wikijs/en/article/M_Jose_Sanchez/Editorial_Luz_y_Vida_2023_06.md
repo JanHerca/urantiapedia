@@ -59,7 +59,7 @@ The incarnation of our beloved Creator, Miguel de Nebadon, is already a palpable
 > Our Father who is in heaven,
 > Hallowed be your name.
 > Your kingdom come; your will be done
-> On earth as it is in heaven. (<a id="a60_32"></a>[UB 144:3.3-6](/en/The_Urantia_Book/144#p3_3))
+> On earth as it is in heaven. (<a id="a61_32"></a>[UB 144:3.3-6](/en/The_Urantia_Book/144#p3_3))
 
 This desire to perfect the material world was by no means to end with his physical departure from our planet. His disciples had the task of continuing to expand that elevation of consciousness that was his message, something that “will make the old world new.”
 
@@ -67,29 +67,29 @@ This desire to perfect the material world was by no means to end with his physic
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
 </figure>
 
-> ““You have not merely chosen me, but I have also chosen you, and I have ordained you to go forth into the world to yield the fruit of loving service to your fellows even as I have lived among you and revealed the Father to you. The Father and I will both work with you, and you shall experience the divine fullness of joy if you will only obey my command to love one another, even as I have loved you.”” (<a id="a68_407"></a>[UB 180:1.4](/en/The_Urantia_Book/180#p1_4))
+> ““You have not merely chosen me, but I have also chosen you, and I have ordained you to go forth into the world to yield the fruit of loving service to your fellows even as I have lived among you and revealed the Father to you. The Father and I will both work with you, and you shall experience the divine fullness of joy if you will only obey my command to love one another, even as I have loved you.”” (<a id="a69_407"></a>[UB 180:1.4](/en/The_Urantia_Book/180#p1_4))
 
 Do you remember the passage about the return of the seventy ordained preachers in Magadan? The return of the disciples is marked by joy after having experienced their own power over the forces of evil: “even the demons submit to us in your name.” They were jubilant, elated, eager to talk about their achievements.
 
-> On Friday, December 30, while Jesus was away in the near-by hills with Peter, James, and John, the seventy messengers were arriving by couples, accompanied by numerous believers, at the Pella headquarters. All seventy were assembled at the teaching site about five o’clock when Jesus returned to the camp. The evening meal was delayed for more than an hour while these enthusiasts for the gospel of the kingdom related their experiences. David’s messengers had brought much of this news to the apostles during previous weeks, but it was truly inspiring to hear these newly ordained teachers of the gospel personally tell how their message had been received by hungry Jews and gentiles. At last Jesus was able to see men going out to spread the good news without his personal presence. The Master now knew that he could leave this world without seriously hindering the progress of the kingdom. (<a id="a72_896"></a>[UB 163:6.1](/en/The_Urantia_Book/163#p6_1))
+> On Friday, December 30, while Jesus was away in the near-by hills with Peter, James, and John, the seventy messengers were arriving by couples, accompanied by numerous believers, at the Pella headquarters. All seventy were assembled at the teaching site about five o’clock when Jesus returned to the camp. The evening meal was delayed for more than an hour while these enthusiasts for the gospel of the kingdom related their experiences. David’s messengers had brought much of this news to the apostles during previous weeks, but it was truly inspiring to hear these newly ordained teachers of the gospel personally tell how their message had been received by hungry Jews and gentiles. At last Jesus was able to see men going out to spread the good news without his personal presence. The Master now knew that he could leave this world without seriously hindering the progress of the kingdom. (<a id="a73_896"></a>[UB 163:6.1](/en/The_Urantia_Book/163#p6_1))
 
 Jesus himself felt euphoric at these events, full of hope for his followers.
 
-> And it was at this time, just before partaking of the evening meal, that Jesus experienced one of those rare moments of emotional ecstasy which his followers had occasionally witnessed. He said: “I thank you, my Father, Lord of heaven and earth, that, while this wonderful gospel was hidden from the wise and self-righteous, the spirit has revealed these spiritual glories to these children of the kingdom (<a id="a76_409"></a>[UB 163:6.3](/en/The_Urantia_Book/163#p6_3))
+> And it was at this time, just before partaking of the evening meal, that Jesus experienced one of those rare moments of emotional ecstasy which his followers had occasionally witnessed. He said: “I thank you, my Father, Lord of heaven and earth, that, while this wonderful gospel was hidden from the wise and self-righteous, the spirit has revealed these spiritual glories to these children of the kingdom (<a id="a77_409"></a>[UB 163:6.3](/en/The_Urantia_Book/163#p6_3))
 
 But we already know the depth of thought of our dear Creator, his spiritual insight, so the next day he gathered the seventy and gave them a very important key for them (and for us too):
 
-> And now, while I would not quench your spirit of rejoicing, I would sternly warn you against the subtleties of pride, spiritual pride. If you could understand the downfall of Lucifer, the iniquitous one, you would solemnly shun all forms of spiritual pride. (<a id="a80_261"></a>[UB 163:6.6](/en/The_Urantia_Book/163#p6_6))
+> And now, while I would not quench your spirit of rejoicing, I would sternly warn you against the subtleties of pride, spiritual pride. If you could understand the downfall of Lucifer, the iniquitous one, you would solemnly shun all forms of spiritual pride. (<a id="a81_261"></a>[UB 163:6.6](/en/The_Urantia_Book/163#p6_6))
 
 How right Jesus was in warning them about it! He knew how to point out with certainty the origin of the fall of a high spiritual being, full of enthusiasm, boastful of himself and oversized in his ego.
 
-> Spiritual progress is predicated on intellectual recognition of spiritual poverty coupled with the self-consciousness of perfection-hunger, the desire to know God and be like him, the wholehearted purpose to do the will of the Father in heaven. (<a id="a84_248"></a>[UB 100:2.1](/en/The_Urantia_Book/100#p2_1))
+> Spiritual progress is predicated on intellectual recognition of spiritual poverty coupled with the self-consciousness of perfection-hunger, the desire to know God and be like him, the wholehearted purpose to do the will of the Father in heaven. (<a id="a85_248"></a>[UB 100:2.1](/en/The_Urantia_Book/100#p2_1))
 
 Multiple teachings can be extracted from these passages, but today, in this reflection, we are going to focus on one.
 
 Are we full of enthusiasm for the task we have “undertook to teach mortal man that he is a child of God? Do we follow Jesus in his way of relating to others, as this passage reminds us?:
 
-> Jesus spread **good cheer everywhere he went**. He was full of grace and truth. His associates never ceased to wonder at the gracious words that proceeded out of his mouth. You can cultivate gracefulness, but graciousness is the aroma of friendliness which emanates from a love-saturated soul. (<a id="a90_297"></a>[UB 171:7.1](/en/The_Urantia_Book/171#p7_1)) \[bold added\]
+> Jesus spread **good cheer everywhere he went**. He was full of grace and truth. His associates never ceased to wonder at the gracious words that proceeded out of his mouth. You can cultivate gracefulness, but graciousness is the aroma of friendliness which emanates from a love-saturated soul. (<a id="a91_297"></a>[UB 171:7.1](/en/The_Urantia_Book/171#p7_1)) \[bold added\]
 
 Jesus naturally and uncalculated dispensed health and happiness as he journeyed through life. He did good and was cheerful while attending to his daily duties. His vital impulse did not come from an exaltation of personal pride.
 

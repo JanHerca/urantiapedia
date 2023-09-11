@@ -143,7 +143,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 7. With the exception of a few bits of historical prose, all of Isaiah is in verse, and it is so arranged in the Revised Standard Version.
 8. There are 17 bits of prose scattered here and there through the book.
 9. There is no such person as the Third Isaiah. This group of collected writings (Chapters 56-66) contains passages from both First and Second Isaiah.
-10. There is intimation in the Urantia Book that the exile priests were not altogether friendly to the Second Isaiah. They preserved his writings because of their sheer grandeur and beauty. (Urantia Book [UB 97:7.1](/en/The_Urantia_Book/97#p7_1)
+10. There is intimation in the Urantia Book that the exile priests were not altogether friendly to the Second Isaiah. They preserved his writings because of their sheer grandeur and beauty. (Urantia Book <a id="s145_204"></a>[UB 97:7.1](/en/The_Urantia_Book/97#p7_1)
 
 ## V. Components and Composition
 
@@ -181,14 +181,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 19. The story of the making of a prophet-the live coal touching his mouth.
 20. In [7:14](/en/Bible/Isaiah/7#v14) is the passage: "a virgin shall bear a son." In the Revised Version-"young woman."
 21. In [8:16](/en/Bible/Isaiah/8#v16) he says: "Bind up... seal "-the time of his withdrawal.
-22. In [14:13,14](/en/Bible/Isaiah/14#v13) is mentioned Mount Assembly, (See Urantia Book [UB 43:4.1](/en/The_Urantia_Book/43#p4_1). Also [Eze. 28:14](/en/Bible/Ezekiel/28#v14).) Mount Assembly is the residence of the Faithful of Days on the constellation headquarters.
+22. In [14:13,14](/en/Bible/Isaiah/14#v13) is mentioned Mount Assembly, (See Urantia Book <a id="s183_90"></a>[UB 43:4.1](/en/The_Urantia_Book/43#p4_1). Also [Eze. 28:14](/en/Bible/Ezekiel/28#v14).) Mount Assembly is the residence of the Faithful of Days on the constellation headquarters.
 
 ## VII. Concluding Thoughts
 
 1. The book has been edited and rearranged many times.
-2. Four passages in the Third Isaiah are assigned to the **First** Isaiah in the Urantia Book, viz., [Isa. 60:1](/en/Bible/Isaiah/60#v1). [61:1](/en/Bible/Isaiah/61#v1). [61:10](/en/Bible/Isaiah/61#v10). [63:9](/en/Bible/Isaiah/63#v9). (Urantia Book [UB 97:5.3)](/en/The_Urantia_Book/97#p5_3)
+2. Four passages in the Third Isaiah are assigned to the **First** Isaiah in the Urantia Book, viz., [Isa. 60:1](/en/Bible/Isaiah/60#v1). [61:1](/en/Bible/Isaiah/61#v1). [61:10](/en/Bible/Isaiah/61#v10). [63:9](/en/Bible/Isaiah/63#v9). (Urantia Book <a id="s188_250"></a>[UB 97:5.3)](/en/The_Urantia_Book/97#p5_3)
 3. Earmark of editor: [Isa. 7:20](/en/Bible/Isaiah/7#v20). "Razor"-footnote explains that razor refers to the king of Assyria.
-4. Some quotations from Isaiah the First in the Urantia Book: [28:17](/en/Bible/Isaiah/28#v17). [14:3](/en/Bible/Isaiah/14#v3). [30:21](/en/Bible/Isaiah/30#v21). [12:2](/en/Bible/Isaiah/12#v2). [1:18](/en/Bible/Isaiah/1#v18). (Urantia Book [UB 97:5.2)](/en/The_Urantia_Book/97#p5_2)
+4. Some quotations from Isaiah the First in the Urantia Book: [28:17](/en/Bible/Isaiah/28#v17). [14:3](/en/Bible/Isaiah/14#v3). [30:21](/en/Bible/Isaiah/30#v21). [12:2](/en/Bible/Isaiah/12#v2). [1:18](/en/Bible/Isaiah/1#v18). (Urantia Book <a id="s190_240"></a>[UB 97:5.2)](/en/The_Urantia_Book/97#p5_2)
 5. There is a lot of history in Isaiah, dealing with Egypt, Assyria, and Babylon.
 6. Isaiah advocated a peace policy with Assyria; he opposed Hezekiah's alliance with Egypt.
 7. Jerusalem was saved from the army of Sennacherib by an outbreak of bubonic plague 701 B.C. But in 2 Kings it says that Hezekiah paid a large tribute.

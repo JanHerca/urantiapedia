@@ -76,7 +76,7 @@ This is how the days went by: he worked, slept, ate something, cried... Little b
 But one morning there was a curious and strange silence. One by one the pigs stopped grunting and snouting and swallowing and stared at him. They looked at this strange man, disheveled and with a sad silhouette. And with that silence her mind clicked, stopped. The young man began to think. It had been a while since she had, but the moment she could think, she realized something that hadn't occurred to her before: I'm going back to my father's house. It started up immediately. He left behind the stench, the boss's insults, the hovel where he had lived those years. He was leaving for his home, for freedom, to be himself again.
 <br style="clear:both" />
 
-> Many, many times during his years of teaching, Jesus told and retold this story of the prodigal son. This parable and the story of the good Samaritan were his favorite means of teaching the love of the Father and the neighborliness of man. (<a id="a77_243"></a>[UB 169:1.16](/en/The_Urantia_Book/169#p1_16))
+> Many, many times during his years of teaching, Jesus told and retold this story of the prodigal son. This parable and the story of the good Samaritan were his favorite means of teaching the love of the Father and the neighborliness of man. (<a id="a78_243"></a>[UB 169:1.16](/en/The_Urantia_Book/169#p1_16))
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04)
 
@@ -100,7 +100,7 @@ In the author's words, “supremacy must comprise all finite possibilities and i
 
 [**Neutrinos (author unknown)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
 
-Although the science that appears in _The Urantia Book_ is very restricted to knowledge from the 1930s, it does contain knowledge unknown to scientists at the time, but discovered decades later. An example of this is the existence of neutrinos referred to in this fragment: “Electro-gravitational changes give rise to immense amounts of small particles devoid of electrical potential and that rapidly escape from the solar interior” <a id="a101_433"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3) . Not only that: in the book the developers tell us that these particles can cause “the collapse of a gigantic sun in a few days”, something that could only be observed until 1987. In this article, the author reviews how the science to confirm what the revelators tell us in _The Urantia Book_ about it.
+Although the science that appears in _The Urantia Book_ is very restricted to knowledge from the 1930s, it does contain knowledge unknown to scientists at the time, but discovered decades later. An example of this is the existence of neutrinos referred to in this fragment: “Electro-gravitational changes give rise to immense amounts of small particles devoid of electrical potential and that rapidly escape from the solar interior” <a id="a102_433"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3) . Not only that: in the book the developers tell us that these particles can cause “the collapse of a gigantic sun in a few days”, something that could only be observed until 1987. In this article, the author reviews how the science to confirm what the revelators tell us in _The Urantia Book_ about it.
 <br style="clear:both" />
 
 ---
@@ -111,7 +111,7 @@ Although the science that appears in _The Urantia Book_ is very restricted to kn
 
 [**Reflections on the parable of the mustard seed (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
 
-In the words of the author: «The parables of Jesus do not have a single interpretation, but serve to evoke in us images and elevated ideas, and help us to discern the way to progress spiritually... The parable of the mustard seed is one of the best known that Jesus used when referring to the development of the kingdom of heaven in the hearts of men. Precisely to delve into the meanings that this parable evokes for us, the author goes through all the references that we can find in the fourth part of _The Urantia Book_ and reviews the statements that are linked to the comparison of the kingdom of heaven with the mustard seed. Because “The mustard seed is truly the smallest of all seeds, but when it has grown it is the largest of vegetables, and becomes a tree.” <a id="a112_770"></a>[UB 151:4.2](/en/The_Urantia_Book/151#p4_2)
+In the words of the author: «The parables of Jesus do not have a single interpretation, but serve to evoke in us images and elevated ideas, and help us to discern the way to progress spiritually... The parable of the mustard seed is one of the best known that Jesus used when referring to the development of the kingdom of heaven in the hearts of men. Precisely to delve into the meanings that this parable evokes for us, the author goes through all the references that we can find in the fourth part of _The Urantia Book_ and reviews the statements that are linked to the comparison of the kingdom of heaven with the mustard seed. Because “The mustard seed is truly the smallest of all seeds, but when it has grown it is the largest of vegetables, and becomes a tree.” <a id="a113_770"></a>[UB 151:4.2](/en/The_Urantia_Book/151#p4_2)
 <br style="clear:both" />
 
 ---
@@ -200,14 +200,14 @@ Montserrat White
 There is no sentence from _The Urantia Book_ that does not contain a pearl. Sometimes that pearl is hidden and you have to scratch to find it; others, as is the case, that pearl shines like a sun and it is impossible to hide so much light and so much beauty.
 
 
-> Mercy is the natural and inevitable offspring of goodness and love. The good nature of a loving Father could not possibly withhold the wise ministry of mercy to each member of every group of his universe children. Eternal justice and divine mercy together constitute what in human experience would be called *fairness.* (<a id="a201_323"></a>[UB 2:4.4](/en/The_Urantia_Book/2#p4_4))
+> Mercy is the natural and inevitable offspring of goodness and love. The good nature of a loving Father could not possibly withhold the wise ministry of mercy to each member of every group of his universe children. Eternal justice and divine mercy together constitute what in human experience would be called *fairness.* (<a id="a202_323"></a>[UB 2:4.4](/en/The_Urantia_Book/2#p4_4))
 
 MERCY is a word that contains a greatness that very few come to glimpse. We tiptoe over it, but we must bear in mind that mercy is the natural fruit of the union between goodness and love, and we must offer that mercy based on the damage obtained, regardless of where it comes from.
 
 But beware! Let us not confuse _mercy_ with _sorrow_ or _pity_.
 
 
-> Mercy is simply justice tempered by that wisdom which grows out of perfection of knowledge and the full recognition of the natural weaknesses and environmental handicaps of finite creatures. (<a id="a208_194"></a>[UB 2:4.1](/en/The_Urantia_Book/2#p4_1))
+> Mercy is simply justice tempered by that wisdom which grows out of perfection of knowledge and the full recognition of the natural weaknesses and environmental handicaps of finite creatures. (<a id="a209_194"></a>[UB 2:4.1](/en/The_Urantia_Book/2#p4_1))
 
 Mercy is the supreme brotherly quality. What would a loving father not do for his beloved son!
 

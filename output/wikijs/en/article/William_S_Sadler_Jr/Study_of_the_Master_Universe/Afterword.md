@@ -38,9 +38,9 @@ And if we dare, we may.
 
 <p style="text-align: center;">* * *</p>
 
-We have traversed many conceptual kilometers in this study. We have been bold in speculation and courageous in adventuresome thinking. There is a passage in the Papers that should comfort us in this regard. The Papers instruct us [UB 30:0.2](/en/The_Urantia_Book/30#p0_2) it is best that we not be told too much, that too much information “would deprive the thinking mortals of the next thousand years of that stimulus to creative speculation which these partially revealed concepts supply.”
+We have traversed many conceptual kilometers in this study. We have been bold in speculation and courageous in adventuresome thinking. There is a passage in the Papers that should comfort us in this regard. The Papers instruct us <a id="s40_230"></a>[UB 30:0.2](/en/The_Urantia_Book/30#p0_2) it is best that we not be told too much, that too much information “would deprive the thinking mortals of the next thousand years of that stimulus to creative speculation which these partially revealed concepts supply.”
 
-The writer is painfully aware of the limitations of human mind. We perceive so dimly, we comprehend so slowly, we seem so impervious to the light of truth. The speculations in this study are undoubtedly very prone to error. We are so unlikely to reason through to valid facts. But, even here, at the very last, another passage from the Papers [UB 196:3.31](/en/The_Urantia_Book/196#p3_31) offers much by way of comfort:
+The writer is painfully aware of the limitations of human mind. We perceive so dimly, we comprehend so slowly, we seem so impervious to the light of truth. The speculations in this study are undoubtedly very prone to error. We are so unlikely to reason through to valid facts. But, even here, at the very last, another passage from the Papers <a id="s42_343"></a>[UB 196:3.31](/en/The_Urantia_Book/196#p3_31) offers much by way of comfort:
 
 > “All of man’s universe romancing may not be fact, but much, very much is truth.”
 

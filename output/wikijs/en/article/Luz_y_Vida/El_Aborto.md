@@ -88,7 +88,7 @@ Once again, I understand that the fact itself has to take into account two peopl
 
 Problem 1: regarding who makes the decision, once again, the key is what motivates you to do it, the true and deep motives are those that will present the fact as acceptable or not in the eyes of the Father.
 
-Problem 2: Regarding the embryo/child, I refer to <a id="a89_50"></a>[UB 49:6.12](/en/The_Urantia_Book/49#p6_12), at the top of the page in the first paragraph: “_Children who die when too young to have Thought Adjusters are repersonalized on the finaliter world of the local systems concomitant with the arrival of either parent on the mansion worlds. A child acquires physical entity at mortal birth, but in the matter of survival all Adjusterless children are reckoned as still attached to their parents._”
+Problem 2: Regarding the embryo/child, I refer to <a id="a90_50"></a>[UB 49:6.12](/en/The_Urantia_Book/49#p6_12), at the top of the page in the first paragraph: “_Children who die when too young to have Thought Adjusters are repersonalized on the finaliter world of the local systems concomitant with the arrival of either parent on the mansion worlds. A child acquires physical entity at mortal birth, but in the matter of survival all Adjusterless children are reckoned as still attached to their parents._”
 
 Unless the translation is not accurate enough, what I understand from this paragraph is that, only after birth, that being is an individual (acquires physical identity), and as long as it does not have an Adjuster, it will only have survival options, if it survives. at least one of the parents.
 
@@ -106,7 +106,7 @@ This topic has deep issues. The UB is not very explicit on this issue and I don'
 
 Regarding when this life originated, the UB says:
 
-> _Religion is functional in the human mind and has been realized in experience prior to its appearance in human consciousness. <ins>A child has been in existence about nine months before it experiences *birth.*</ins>_ (<a id="a107_220"></a>[UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
+> _Religion is functional in the human mind and has been realized in experience prior to its appearance in human consciousness. <ins>A child has been in existence about nine months before it experiences *birth.*</ins>_ (<a id="a108_220"></a>[UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
 
 ## Carmelo
 
@@ -138,7 +138,7 @@ Antonio, I found that page a few years ago because someone in another forum comm
 
 Of course, as you express very well, I think this is more about ethics, morals, feelings, points of view, customs of living, etc. If today we are more primitive than evolved because of how we live and behave, the UB says it several times, I think that there must be that type of “controversies” when deciding what to do with life, and we must take into account that a little further down the fragment that I have sent you says:
 
-> _Nevertheless, sooner or later there is a “birth day.” You do not enter the kingdom of heaven unless you have been “born again”—born of the Spirit. Many spiritual births are accompanied by much anguish of spirit and marked psychological perturbations, as many physical births are characterized by a “stormy labor” and other abnormalities of “delivery.”_ (<a id="a139_357"></a>[UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
+> _Nevertheless, sooner or later there is a “birth day.” You do not enter the kingdom of heaven unless you have been “born again”—born of the Spirit. Many spiritual births are accompanied by much anguish of spirit and marked psychological perturbations, as many physical births are characterized by a “stormy labor” and other abnormalities of “delivery.”_ (<a id="a140_357"></a>[UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
 
 Could enter here, in this last part of the paragraph, the natural or induced premature abortion? I would like you to give your opinion about it, since in my opinion it is because of the only part that (it seems to be) an abortion by own or human decision would be “justified”.
 
@@ -166,9 +166,9 @@ Carmelo dispatches himself at ease against the church; I have also had -and stil
 
 I am responding to a question from -Juanjo commented on other issues.
 
-Where does the UB say that a fetus is not a human being? —Juanjo, he does not say it exactly with those words (as far as I remember now), but he does say in <a id="a167_157"></a>[UB 49:6.12](/en/The_Urantia_Book/49#p6_12) that a child acquires “physical identity” with his birth as a mortal and acquires “identity in the eyes of the universe” with the “arrival of an Adjuster.” I think it is easy to deduce that the child is not even a being before birth, and is not a human being before the arrival of the adjuster. It can further be deduced that just as a fetus is attached to its mother, a child without an adjuster is considered attached to its parents. In the first case it is not physically independent; in the second, it is not independent “in the eyes of the universe,” that is, humanly.
+Where does the UB say that a fetus is not a human being? —Juanjo, he does not say it exactly with those words (as far as I remember now), but he does say in <a id="a168_157"></a>[UB 49:6.12](/en/The_Urantia_Book/49#p6_12) that a child acquires “physical identity” with his birth as a mortal and acquires “identity in the eyes of the universe” with the “arrival of an Adjuster.” I think it is easy to deduce that the child is not even a being before birth, and is not a human being before the arrival of the adjuster. It can further be deduced that just as a fetus is attached to its mother, a child without an adjuster is considered attached to its parents. In the first case it is not physically independent; in the second, it is not independent “in the eyes of the universe,” that is, humanly.
 
-Santi is right in that it is not stated in the UB that the death penalty is desirable; the UB does not promote or advocate the death penalty. But surprisingly, to me at least, he does. I copy a quote from something that Jesus said to a man sentenced to death in Corinth (<a id="a169_271"></a>[UB 133:4.12](/en/The_Urantia_Book/133#p4_12)): “_...But you did do this evil, and your fellows have adjudged you guilty; they have determined that you shall die. You or I may not deny the state this right of self-defense in the manner of its own choosing_”.
+Santi is right in that it is not stated in the UB that the death penalty is desirable; the UB does not promote or advocate the death penalty. But surprisingly, to me at least, he does. I copy a quote from something that Jesus said to a man sentenced to death in Corinth (<a id="a170_271"></a>[UB 133:4.12](/en/The_Urantia_Book/133#p4_12)): “_...But you did do this evil, and your fellows have adjudged you guilty; they have determined that you shall die. You or I may not deny the state this right of self-defense in the manner of its own choosing_”.
 
 Eduardo quoted us: “A child has existed for about nine months before experiencing _birth”_. But this sentence does not affirm anything about the form in which it has existed; it says that it has been a reality, it does not say that it was in fact a child during those nine months. The quote, seen in its context, is a comparison to emphasize that religion is not born suddenly in human consciousness, but previously already had some reality in mind. In other words, before being a child (a religion properly speaking) in human consciousness, religion was already a fetus (something like a pre-religion), a reality of some kind that functioned unconsciously, in the mind.
 

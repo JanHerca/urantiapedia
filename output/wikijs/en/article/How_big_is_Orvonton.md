@@ -16,9 +16,9 @@ My interest was piqued when I came across a booklet called “A Guided Tour of *
 
 I decided to take a closer look at the subject both in *The Urantia Book* and in some astronomy sources I have, and after discussing it with several people, and receiving some Internet postings and other material in the mail, I'm ready to try to answer the burning question.
 
-*The Urantia Book* says that Orvonton will have one trillion inhabitable planets ([UB 15:2.8](/en/The_Urantia_Book/15#p2_8)). It also says that the Milky Way Galaxy is the nucleus of Orvonton ([UB 15:3.1](/en/The_Urantia_Book/15#p3_1)). I never thought that “nucleus” in this case meant that our galaxy was a small part, like say a one thousandth part of Orvonton, but rather that it was the main body, making up perhaps 70, 80 or even 90% of the Superuniverse. Granted, in our modern view of the astronomical universe, with superclusters of thousands of galaxies, to think that our average sized galaxy and only six more like it comprise the “seven Superuniverses” which surround another single galactic entity, Havona, almost seemed quaint. The Grand Universe would then be quite small in the scheme of things. Could the Grand Universe be this small? Why call it “Grand”?
+*The Urantia Book* says that Orvonton will have one trillion inhabitable planets (<a id="a18_82"></a>[UB 15:2.8](/en/The_Urantia_Book/15#p2_8)). It also says that the Milky Way Galaxy is the nucleus of Orvonton (<a id="a18_193"></a>[UB 15:3.1](/en/The_Urantia_Book/15#p3_1)). I never thought that “nucleus” in this case meant that our galaxy was a small part, like say a one thousandth part of Orvonton, but rather that it was the main body, making up perhaps 70, 80 or even 90% of the Superuniverse. Granted, in our modern view of the astronomical universe, with superclusters of thousands of galaxies, to think that our average sized galaxy and only six more like it comprise the “seven Superuniverses” which surround another single galactic entity, Havona, almost seemed quaint. The Grand Universe would then be quite small in the scheme of things. Could the Grand Universe be this small? Why call it “Grand”?
 
-Since we know (science tells us so) that there are only 100 billion stars in the Milky Way Galaxy, it would be practically impossible for the Milky Way to have more than a small fraction of Orvonton's stated one trillion inhabitable planets. Every star in the galaxy would have to have an average of 10 inhabitable planets. That would be highly unlikely. At best, one could only expect to have an inhabitable planet per every two stars, this ratio being derived from [UB 41:3.1](/en/The_Urantia_Book/41#p3_1) wherein *The Urantia Book* says that Satania has two thousand blazing suns and will have about 1,000 inhabitable planets. That being the case, you would arrive at a figure of 50 billion inhabitable planets in the Milky Way Galaxy, maximum, which is only one twentieth of the number needed to reach one trillion. To solve the problem you have to reach far out into space and include other large galaxies like the Milky Way in order to make up the necessary stars to achieve one trillion planets. Furthermore, some say that many or most of the supposed 100 billion stars in the Milky Way are not viable candidates for having planetary families suitable for life. By one account, 98% of the stars would be eliminated as being “too small or too cool” to support planetary systems and life. That would leave only 2 billion stars available and would yield about one billion planets. This number is 1/1,000 of the number needed for the Orvonton of *The Urantia Book*, so one would have to take in approximately 1,000 more Milky Way class galaxies in order to get the right numbers.
+Since we know (science tells us so) that there are only 100 billion stars in the Milky Way Galaxy, it would be practically impossible for the Milky Way to have more than a small fraction of Orvonton's stated one trillion inhabitable planets. Every star in the galaxy would have to have an average of 10 inhabitable planets. That would be highly unlikely. At best, one could only expect to have an inhabitable planet per every two stars, this ratio being derived from <a id="a20_467"></a>[UB 41:3.1](/en/The_Urantia_Book/41#p3_1) wherein *The Urantia Book* says that Satania has two thousand blazing suns and will have about 1,000 inhabitable planets. That being the case, you would arrive at a figure of 50 billion inhabitable planets in the Milky Way Galaxy, maximum, which is only one twentieth of the number needed to reach one trillion. To solve the problem you have to reach far out into space and include other large galaxies like the Milky Way in order to make up the necessary stars to achieve one trillion planets. Furthermore, some say that many or most of the supposed 100 billion stars in the Milky Way are not viable candidates for having planetary families suitable for life. By one account, 98% of the stars would be eliminated as being “too small or too cool” to support planetary systems and life. That would leave only 2 billion stars available and would yield about one billion planets. This number is 1/1,000 of the number needed for the Orvonton of *The Urantia Book*, so one would have to take in approximately 1,000 more Milky Way class galaxies in order to get the right numbers.
 
 Another problem that makes matters even worse is that while it is widely stated that the Milky Way has 100 billion stars, *The Urantia Book* says that Orvonton has ten trillion stars, thus the Milky Way could only be one-one hundredth of Orvonton. And consider that when you have to reach out into space 50 million or 500 million light years to acquire dozens or a thousand more galaxies in order to make up one trillion planets and ten trillion stars under these assumptions, you are saying that *The Urantia Book* is wrong when it gives a radius of 250 thousand light years for Orvonton. This is nothing new. Many in the movement automatically give the benefit of the doubt to current science. I like to go with *The Urantia Book* first, and let science find its own way in its own time. *The Urantia Book* is not going to change, but I know that science will.
 
@@ -30,15 +30,15 @@ Let's begin with some basic and related questions.
 
 Time was when the Milky Way was considered to be about 80,000 light years in diameter. More recently the figure of 100,000 light years has been used. But new studies have shown that the Milky Way has an extensive and massive halo of stars around it and now the figure of 300,000 light years is being mentioned as an appropriate size for our galaxy. In addition, there are a number of dwarf galaxies that seem to be in orbit around the Milky Way. If considered to be a part of the Milky Way, the size of the galaxy is very close to 500,000 light years in diameter. This figure is remarkably the same one that *The Urantia Book* uses as the size for Orvonton. It says,
 
-> “From the outermost system of inhabited worlds to the center of the Superuniverse is a trifle less than two hundred and fifty thousand light-years.” [UB 32:2.11](/en/The_Urantia_Book/32#p2_11)
+> “From the outermost system of inhabited worlds to the center of the Superuniverse is a trifle less than two hundred and fifty thousand light-years.” <a id="a32_151"></a>[UB 32:2.11](/en/The_Urantia_Book/32#p2_11)
 
 If 250 thousand is the radius, then 500 thousand must be the diameter.
 
 ## How many stars are in our Milky Way Galaxy?
 
-This is an important question. Many older sources give the figure that is still widely cited of 100 billion stars, but this figure is woefully out of date. On [UB 15:6.10](/en/The_Urantia_Book/15#p6_10) *The Urantia Book* says,
+This is an important question. Many older sources give the figure that is still widely cited of 100 billion stars, but this figure is woefully out of date. On <a id="a38_159"></a>[UB 15:6.10](/en/The_Urantia_Book/15#p6_10) *The Urantia Book* says,
 
-> “The Superuniverse of Orvonton is illuminated and warmed by more than ten trillion blazing suns. These suns are the stars of your observable astronomic system. More than two trillion are too distant and too small ever to be seen from Urantia.” [UB 15:6.10](/en/The_Urantia_Book/15#p6_10)
+> “The Superuniverse of Orvonton is illuminated and warmed by more than ten trillion blazing suns. These suns are the stars of your observable astronomic system. More than two trillion are too distant and too small ever to be seen from Urantia.” <a id="a40_246"></a>[UB 15:6.10](/en/The_Urantia_Book/15#p6_10)
 
 Wow, ten trillion suns! So how are we going to get from 100 billion to ten trillion? The answer is - gradually.
 
@@ -60,7 +60,7 @@ The “great majority” to which Carl Sagan refers are the class M stars which 
 
 Class M stars are main sequence, bona-fide, fire breathing, blazing stars.
 
-On *The Urantia Book* it says, “Of the thirty suns nearest yours, only three are brighter.”([UB 41:3.1](/en/The_Urantia_Book/41#p3_1)) Of the twenty seven that are not as bright as our sun, most are probably class M stars. We cannot eliminate these stars from the equation and there is no logical reason to do so. We can eliminate white dwarfs, black dwarfs, neutron stars, pulsars, Red Giants, stars too close to the galactic nucleus, stars embedded in nebulosity and dust clouds, and perhaps some others, but all of these together are a small percentage of the total.
+On *The Urantia Book* it says, “Of the thirty suns nearest yours, only three are brighter.”(<a id="a62_92"></a>[UB 41:3.1](/en/The_Urantia_Book/41#p3_1)) Of the twenty seven that are not as bright as our sun, most are probably class M stars. We cannot eliminate these stars from the equation and there is no logical reason to do so. We can eliminate white dwarfs, black dwarfs, neutron stars, pulsars, Red Giants, stars too close to the galactic nucleus, stars embedded in nebulosity and dust clouds, and perhaps some others, but all of these together are a small percentage of the total.
 
 Let's say then that 90% of all the stars in the galaxy are good candidates to have planetary systems instead of the two percent proposed by some. That's 90 billion stars, if the usual figure of 100 billion for Milky Way stars is accepted. (While 100 billion has been widely used, there seems to be information to the contrary even as long ago as 1975. More on this later.) If Satania has 2000 blazing suns as per *The Urantia Book* (Class M stars would probably account for 1900 of them), and will have 1,000 inhabitable planets, we can use that ratio as a model guess for the rest of the local systems in our galaxy. (On the other hand, rather than two to one, the large scale ratio must be ten stars per inhabitable planet if Orvonton has ten trillion stars and is destined to have one trillion inhabitable planets.) The Milky Way then could easily have 45 billion inhabitable planets, rather than the one billion that some have suggested. This is a great improvement of 45 times, but still far short of the number needed to avoid having to reach out to the Virgo Supercluster for enough galaxies and stars with one trillion inhabitable planets to comprise Orvonton as per *The Urantia Book*. Somehow we need a magic hat trick here, a miracle, or some NEW SCIENTIFIC INFORMATION or else *The Urantia Book*'s figure of an Orvonton radius of 250 thousand light years must be wrong.
 
@@ -74,37 +74,37 @@ No. A good reading of Paper 49, THE INHABITED WORLDS, will quickly dispel any no
 
 > “On the non-breathing worlds the advanced races must do much to protect themselves from meteor damage by making electrical installations which operate to consume or shunt the meteors. Great danger confronts them when they venture beyond these protected zones. These worlds are also subject to disastrous electrical storms of a nature unknown on Urantia. During such times of tremendous energy fluctuation the inhabitants must take refuge in their special structures of protective insulation.”
 > 
-> “Life on the worlds of the non-breathers is radically different from what it is on Urantia. The non- breathers do not eat food or drink water as do the Urantia races. The reactions of the nervous system, the heat-regulating mechanism, and the metabolism of these specialized peoples are radically different from such functions of Urantia mortals. Almost every act of living, aside from reproduction, differs, and even the methods of procreation are somewhat different.” [UB 49:3.3-4](/en/The_Urantia_Book/49#p3_3)
+> “Life on the worlds of the non-breathers is radically different from what it is on Urantia. The non- breathers do not eat food or drink water as do the Urantia races. The reactions of the nervous system, the heat-regulating mechanism, and the metabolism of these specialized peoples are radically different from such functions of Urantia mortals. Almost every act of living, aside from reproduction, differs, and even the methods of procreation are somewhat different.” <a id="a76_472"></a>[UB 49:3.3-4](/en/The_Urantia_Book/49#p3_3)
 
-In an infinite universe, while there will be many worlds more or less like ours, it seems that conditions on many other inhabited worlds will not resemble anything like what we have on Earth, according to *The Urantia Book*. The book lists the various types of life that need to be created in response to differing planetary conditions ([UB 49:2](/en/The_Urantia_Book/49#p2)). Since all space bodies have gravity, that would seem to be the only condition that would be similar on all worlds, and even then *The Urantia Book* says that,
+In an infinite universe, while there will be many worlds more or less like ours, it seems that conditions on many other inhabited worlds will not resemble anything like what we have on Earth, according to *The Urantia Book*. The book lists the various types of life that need to be created in response to differing planetary conditions (<a id="a78_337"></a>[UB 49:2](/en/The_Urantia_Book/49#p2)). Since all space bodies have gravity, that would seem to be the only condition that would be similar on all worlds, and even then *The Urantia Book* says that,
 
-> “Some of the larger worlds are peopled with beings who are only about two and one-half feet in height. Mortal stature ranges from here on up through the average heights on the average-sized planets to around ten feet on the smaller inhabited spheres.” [UB 49:2.20](/en/The_Urantia_Book/49#p2_20)
+> “Some of the larger worlds are peopled with beings who are only about two and one-half feet in height. Mortal stature ranges from here on up through the average heights on the average-sized planets to around ten feet on the smaller inhabited spheres.” <a id="a80_254"></a>[UB 49:2.20](/en/The_Urantia_Book/49#p2_20)
 
 The beings are two and one half feet tall on the one hand and ten feet tall on the other hand due to the forces of gravity, both much stronger and much weaker than we have on Earth.
 
 The book says,
 
-> “There are great differences between the mortals of the different worlds, even among those belonging to the same intellectual and physical types, but all mortals of will dignity are erect animals, bipeds.” [UB 49:4.1](/en/The_Urantia_Book/49#p4_1)
+> “There are great differences between the mortals of the different worlds, even among those belonging to the same intellectual and physical types, but all mortals of will dignity are erect animals, bipeds.” <a id="a86_208"></a>[UB 49:4.1](/en/The_Urantia_Book/49#p4_1)
 
 ## How many inhabited planets are in our own solar system?
 
 Our star has at least one inhabited world, and it almost certainly has two. Talking about a world of non-breathers, *The Urantia Book* says:
 
-> “You would be more than interested in the planetary conduct of this type of mortal because such a race of beings inhabits a sphere in close proximity to Urantia.” [UB 49:3.6](/en/The_Urantia_Book/49#p3_6)
+> “You would be more than interested in the planetary conduct of this type of mortal because such a race of beings inhabits a sphere in close proximity to Urantia.” <a id="a92_165"></a>[UB 49:3.6](/en/The_Urantia_Book/49#p3_6)
 
 It is very unlikely that “close proximity” means Alpha Centauri, 4.5 light years away. It must mean in our solar system. There are not many “worlds” in our solar system which would qualify, but two come to mind that are large enough, have solid surfaces, and are airless. Our moon, and Jupiter's moon of Ganymede are the most likely places. Io is a sulfuric hellhole, Europa is watery world covered with ice. The surface of Callisto is also icy. Saturn's Titan and Neptune's Triton have atmospheres and they are too far from the warming rays of the sun. Jupiter is much closer to the Sun and it even gives off it's own heat.
 
 We can probably eliminate our moon. It's close, we've studied it telescopically for decades, and we've been there. It would be hard for us not to have noticed intelligent life activity if it was there. That leaves Ganymede. A reader that I know of has made a strong case for Ganymede as the home of the other mortal race of non-breathers in our solar system. Ganymede may not be the size of Urantia, but the book doesn't say an inhabited world or moon has to be this big, just that if they are the size of Urantia, they are almost ideal. It says,
 
-> “In several of the physical systems of Satania the planets revolving around the central sun are too large for habitation, their great mass occasioning oppressive gravity. Many of these enormous spheres have satellites, sometimes a half dozen or more, and these moons are often in size very near that of Urantia, so that they are almost ideal for habitation.” [UB 49:0.4](/en/The_Urantia_Book/49#p0_4)
+> “In several of the physical systems of Satania the planets revolving around the central sun are too large for habitation, their great mass occasioning oppressive gravity. Many of these enormous spheres have satellites, sometimes a half dozen or more, and these moons are often in size very near that of Urantia, so that they are almost ideal for habitation.” <a id="a98_361"></a>[UB 49:0.4](/en/The_Urantia_Book/49#p0_4)
 
 What about the regions toward the central galactic bulge, would life be possible there?
 
 Yes. Even in the denser regions of the galaxy except for around the very nucleus, life would be possible. If the stars were only one light year or less apart, there would be plenty of room. Satania is not in what we might consider the more dense regions, but *The Urantia Book* gives us an idea of what it might be like nearer to the galactic core. *The Urantia Book* says,
 
-> “The oldest inhabited world of Satania, world number one, is Anova, one of the forty-four satellites revolving around an enormous dark planet but exposed to the differential light of three neighboring suns.” [UB 49:0.5](/en/The_Urantia_Book/49#p0_5)
+> “The oldest inhabited world of Satania, world number one, is Anova, one of the forty-four satellites revolving around an enormous dark planet but exposed to the differential light of three neighboring suns.” <a id="a104_210"></a>[UB 49:0.5](/en/The_Urantia_Book/49#p0_5)
 
-This world, Anova, with forty-three companions, revolves about a much larger planet, probably similar to the Ganymede-Jupiter system. More importantly, there are three suns in Anova's sky, apparently all close enough to contribute to the lighting and heating of the planet. How far away could these stars be from Anova and still be beneficial? A tenth light year? One hundredth of a light year? At one hundredth of a light year, a star would be 16 times the distance from Sol to Pluto. This triple star system probably has more than one inhabited planet. Being a very old system, it may even be the one system in Satania that has four peopled planets ([UB 32:2.10](/en/The_Urantia_Book/32#p2_10)). Incidentally, the Centauri system, our closest stellar neighbor is also a triple star system and could very well be the home system of Anova.)
+This world, Anova, with forty-three companions, revolves about a much larger planet, probably similar to the Ganymede-Jupiter system. More importantly, there are three suns in Anova's sky, apparently all close enough to contribute to the lighting and heating of the planet. How far away could these stars be from Anova and still be beneficial? A tenth light year? One hundredth of a light year? At one hundredth of a light year, a star would be 16 times the distance from Sol to Pluto. This triple star system probably has more than one inhabited planet. Being a very old system, it may even be the one system in Satania that has four peopled planets (<a id="a106_652"></a>[UB 32:2.10](/en/The_Urantia_Book/32#p2_10)). Incidentally, the Centauri system, our closest stellar neighbor is also a triple star system and could very well be the home system of Anova.)
 
 ## 100 billion stars
 
@@ -142,7 +142,7 @@ And there's still more!
 
 Astonishingly enough, here is corroborating NEW SCIENTIFIC INFORMATION from the Grolier CD- ROM encyclopedia. (Copied directly from the CD.) It says:
 
-> “The total mass of the Galaxy can be measured by studying the motions of individual stars and clouds of hydrogen gas in different parts of the galaxy and by applying CELESTIAL MECHANICS to calculate a total mass that will account for the observed motions. The mass can also be determined from the motions of the Galaxy's small satellite galaxies, especially the nearby dwarf elliptical galaxies, and globular clusters. Recent computations by both methods agree that the Galaxy's mass is possibly 1,000 to 2,000 billion times the mass of the Sun. As the Sun's mass is about average for a star in the Galaxy, the total number of stars must also be of this order.” [UB 15:4.8](/en/The_Urantia_Book/15#p4_8)
+> “The total mass of the Galaxy can be measured by studying the motions of individual stars and clouds of hydrogen gas in different parts of the galaxy and by applying CELESTIAL MECHANICS to calculate a total mass that will account for the observed motions. The mass can also be determined from the motions of the Galaxy's small satellite galaxies, especially the nearby dwarf elliptical galaxies, and globular clusters. Recent computations by both methods agree that the Galaxy's mass is possibly 1,000 to 2,000 billion times the mass of the Sun. As the Sun's mass is about average for a star in the Galaxy, the total number of stars must also be of this order.” <a id="a144_664"></a>[UB 15:4.8](/en/The_Urantia_Book/15#p4_8)
 
 1,000 to 2,000 billion solar masses is one to two trillion solar masses. While “solar masses” are not necessarily stars, according to the encyclopedia the total number of stars in the Milky Way must also be of the same order! Instead of trying to bend *The Urantia Book* to meet science, we simply wait patiently for the science to change. It's a no-brainer, as the saying goes.
 
@@ -152,27 +152,27 @@ As one can see, the number of stars has been “rising steadily” for 20 years 
 
 Using all this new data, if we now use the figure of two trillion stars in the Milky Way, and if 90% of those are good candidates for planetary families, and if half of those stars have inhabitable planets, then we have 900 billion inhabitable planets in our galaxy. This would constitute 9 major sectors or 90% of the total amount for Orvonton.
 
-We can assume at this point that the estimates are going to continue rising until they approach the true number of stars, as science continues to do its thing, and as more and better ways of measuring the mass of our galaxy are brought to bear, even to the point of approaching ten trillion stars as per *The Urantia Book* statement about Orvonton. Check back in ten years. Even if the star to planet ratio is 10 to one ([UB 15:6.10](/en/The_Urantia_Book/15#p6_10)), we are in the right ballpark, numberwise, and moving in the right direction. This fits extremely well with the idea that the Milky Way is the nucleus of Orvonton. It says,
+We can assume at this point that the estimates are going to continue rising until they approach the true number of stars, as science continues to do its thing, and as more and better ways of measuring the mass of our galaxy are brought to bear, even to the point of approaching ten trillion stars as per *The Urantia Book* statement about Orvonton. Check back in ten years. Even if the star to planet ratio is 10 to one (<a id="a154_421"></a>[UB 15:6.10](/en/The_Urantia_Book/15#p6_10)), we are in the right ballpark, numberwise, and moving in the right direction. This fits extremely well with the idea that the Milky Way is the nucleus of Orvonton. It says,
 
-> “The vast Milky Way starry system represents the central nucleus of Orvonton, being largely beyond the borders of your local universe. This great aggregation of suns, dark islands of space, double stars, globular clusters, star clouds, spiral and other nebulae, together with myriads of individual planets, forms a watchlike, elongated-circular grouping of about one seventh of the inhabited evolutionary universes.” [UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
+> “The vast Milky Way starry system represents the central nucleus of Orvonton, being largely beyond the borders of your local universe. This great aggregation of suns, dark islands of space, double stars, globular clusters, star clouds, spiral and other nebulae, together with myriads of individual planets, forms a watchlike, elongated-circular grouping of about one seventh of the inhabited evolutionary universes.” <a id="a156_419"></a>[UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
 
 The Milky Way could hardly be the nucleus of Orvonton if Orvonton included the Virgo Supercluster as some suggest. The Milky Way would be as a lost grain of sand in an Orvonton that large.
 
 Adding to the mass of the Milky Way proper, science says that there are also about 150 or more globular star clusters in the galactic halo. Concerning globular clusters, *The Urantia Book* says virtually the same thing regarding Orvonton that science already knows about the Milky Way Galaxy.
 
-> “The globular type of star clusters predominates near the outer margins of Orvonton.” [UB 15:4.8](/en/The_Urantia_Book/15#p4_8)
+> “The globular type of star clusters predominates near the outer margins of Orvonton.” <a id="a162_88"></a>[UB 15:4.8](/en/The_Urantia_Book/15#p4_8)
 
 Two other statements in the book also support the Milky Way as the “main item” in Orvonton. It says,
 
-> “Practically all of the starry realms visible to the naked eye on Urantia belong to the seventh section of the grand universe, the Superuniverse of Orvonton.” [UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
+> “Practically all of the starry realms visible to the naked eye on Urantia belong to the seventh section of the grand universe, the Superuniverse of Orvonton.” <a id="a166_161"></a>[UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
 > 
-> “. . . the unaided human eye can see only two or three nebulae outside the borders of the Superuniverse of Orvonton . . .” [UB 12:2.3](/en/The_Urantia_Book/12#p2_3)
+> “. . . the unaided human eye can see only two or three nebulae outside the borders of the Superuniverse of Orvonton . . .” <a id="a168_125"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3)
 
 Identical statements can be made about the Milky Way Galaxy. With the exception of the Andromeda galaxy and the Magellanic star clouds, everything you can see in the night sky with the naked eye is within the Milky Way Galaxy.
 
 And yet another statement that points to the Milky Way as being the core and the largest component of Orvonton is this one,
 
-> “The most recent of the major cosmic eruptions in Orvonton was the extraordinary double star explosion, the light of which reached Urantia in A. D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight.” [UB 41:3.5](/en/The_Urantia_Book/41#p3_5)
+> “The most recent of the major cosmic eruptions in Orvonton was the extraordinary double star explosion, the light of which reached Urantia in A. D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight.” <a id="a174_249"></a>[UB 41:3.5](/en/The_Urantia_Book/41#p3_5)
 
 This supernova was of course the one seen by Tycho Brahe. It has been pinpointed as being in an outer spiral arm of the Milky Way, some 15,000 light years distant, not in some galaxy far off in what are probably the outer space zones.
 
@@ -187,13 +187,13 @@ In view of all this compelling data, it should be clear now that an area of spac
 
 *The Urantia Book* says that,
 
-> “Satania is not a uniform physical system, a single astronomic unit or organization,...” [UB 32:2.10](/en/The_Urantia_Book/32#p2_10)
+> “Satania is not a uniform physical system, a single astronomic unit or organization,...” <a id="a189_91"></a>[UB 32:2.10](/en/The_Urantia_Book/32#p2_10)
 
 But if it was a uniform physical system, more specifically if it was a cube of space, and assuming 2,000 stars, and an average of four light years between stars in our area of the galaxy, it would be about 50 light years on each edge, enclosing a volume of about 128,000 cubic light years.
 
 ## Distance to Andromeda
 
-How far away is the Andromeda Galaxy? Doesn't *The Urantia Book* say that the distance is about one million light years? ([UB 15:4.7](/en/The_Urantia_Book/15#p4_7))
+How far away is the Andromeda Galaxy? Doesn't *The Urantia Book* say that the distance is about one million light years? (<a id="a195_122"></a>[UB 15:4.7](/en/The_Urantia_Book/15#p4_7))
 
 It is hard to be sure exactly how far away it is. Science seems to think it is about 2.5 million light years at this time. It used to think it was about one million light years away. But here is what the Encyclopedia Britannica has to say about distance measurements to external galaxies,
 
@@ -207,13 +207,13 @@ What is the Virgo Supercluster[^5], The Great Wall, and other deep space large s
 
 They are almost certainly manifestations of the outer space zones as mentioned in *The Urantia Book*. Speaking from a 1935 reference, it says,
 
-> “In the not-distant future, new telescopes will reveal to the wondering gaze of Urantian astronomers no less than 375 million new galaxies in the remote stretches of outer space.” [UB 12:2.3](/en/The_Urantia_Book/12#p2_3)
+> “In the not-distant future, new telescopes will reveal to the wondering gaze of Urantian astronomers no less than 375 million new galaxies in the remote stretches of outer space.” <a id="a209_182"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3)
 > . . .
-> “You may visualize the first outer space level, where untold universes are now in process of formation, as a vast procession of galaxies swinging around Paradise, bounded above and below by the midspace zones of quiescence and bounded on the inner and outer margins by relatively quiet space zones.” [UB 11:7.7](/en/The_Urantia_Book/11#p7_7)
+> “You may visualize the first outer space level, where untold universes are now in process of formation, as a vast procession of galaxies swinging around Paradise, bounded above and below by the midspace zones of quiescence and bounded on the inner and outer margins by relatively quiet space zones.” <a id="a211_302"></a>[UB 11:7.7](/en/The_Urantia_Book/11#p7_7)
 
 Further, *The Urantia Book* says, (again, from 1935 reference point)
 
-> “Although the unaided human eye can see only two or three nebulae outside the borders of the Superuniverse of Orvonton, your telescopes literally reveal millions upon millions of these physical universes in process of formation. Most of the starry realms visually exposed to the search of your present-day telescopes are in Orvonton, but with photographic technique the larger telescopes penetrate far beyond the borders of the grand universe into the domains of outer space, where untold universes are in process of organization. And there are yet other millions of universes beyond the range of your present instruments.” [UB 12:2.2](/en/The_Urantia_Book/12#p2_2)
+> “Although the unaided human eye can see only two or three nebulae outside the borders of the Superuniverse of Orvonton, your telescopes literally reveal millions upon millions of these physical universes in process of formation. Most of the starry realms visually exposed to the search of your present-day telescopes are in Orvonton, but with photographic technique the larger telescopes penetrate far beyond the borders of the grand universe into the domains of outer space, where untold universes are in process of organization. And there are yet other millions of universes beyond the range of your present instruments.” <a id="a215_626"></a>[UB 12:2.2](/en/The_Urantia_Book/12#p2_2)
 
 If the Virgo Supercluster and other features of deep space that we can see now with our telescopes were a part of Orvonton or even the Grand Universe, the book would have said so right there.
 
@@ -221,7 +221,7 @@ What about the so-called “Great Attractor”[^6], what is it and are we headin
 
 The Great Attractor is also probably part of the outer space zones, its motion causing it to appear as if we are heading in its direction when in fact we are not. *The Urantia Book* talks about such a situation.
 
-> “But the greatest of all such distortions arises because the vast universes of outer space in the realms next to the domains of the seven Superuniverses seem to be revolving in a direction opposite to that of the grand universe. That is, these myriads of nebulae and their accompanying suns and spheres are at the present time revolving clockwise about the central creation. The seven Superuniverses revolve about Paradise in a counterclockwise direction. It appears that the second outer universe of galaxies, like the seven Superuniverses, revolves counter-clockwise about Paradise. And the astronomic observers of Uversa think they detect evidence of revolutionary movements in a third outer belt of far-distant space which are beginning to exhibit directional tendencies of a clockwise nature.” [UB 12:4.15](/en/The_Urantia_Book/12#p4_15)
+> “But the greatest of all such distortions arises because the vast universes of outer space in the realms next to the domains of the seven Superuniverses seem to be revolving in a direction opposite to that of the grand universe. That is, these myriads of nebulae and their accompanying suns and spheres are at the present time revolving clockwise about the central creation. The seven Superuniverses revolve about Paradise in a counterclockwise direction. It appears that the second outer universe of galaxies, like the seven Superuniverses, revolves counter-clockwise about Paradise. And the astronomic observers of Uversa think they detect evidence of revolutionary movements in a third outer belt of far-distant space which are beginning to exhibit directional tendencies of a clockwise nature.” <a id="a223_801"></a>[UB 12:4.15](/en/The_Urantia_Book/12#p4_15)
 
 ## What are quasars?
 
@@ -229,15 +229,15 @@ The Great Attractor is also probably part of the outer space zones, its motion c
 
 Here is what *The Urantia Book* has to say about them,
 
-> “Far out in space, at an enormous distance from the seven inhabited Superuniverses, there are assembling vast and unbelievably stupendous circuits of force and materializing energies.” [UB 12:1.14](/en/The_Urantia_Book/12#p1_14)
+> “Far out in space, at an enormous distance from the seven inhabited Superuniverses, there are assembling vast and unbelievably stupendous circuits of force and materializing energies.” <a id="a231_187"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14)
 > 
-> “Still greater activities are taking place beyond these regions, for the Uversa physicists have detected early evidence of force manifestations more than fifty million light-years beyond the outermost ranges of the phenomena in the first outer space level. These activities undoubtedly presage the organization of the material creations of the second outer space level of the master universe.” [UB 12:1.15](/en/The_Urantia_Book/12#p1_15)
+> “Still greater activities are taking place beyond these regions, for the Uversa physicists have detected early evidence of force manifestations more than fifty million light-years beyond the outermost ranges of the phenomena in the first outer space level. These activities undoubtedly presage the organization of the material creations of the second outer space level of the master universe.” <a id="a233_396"></a>[UB 12:1.15](/en/The_Urantia_Book/12#p1_15)
 
 It's interesting that the *Grolier Encyclopedia* phrase, “an incredible outpouring of energy”, and *The Urantia Book* phrase, “unbelievably stupendous circuits of force and materializing energies”, are so similar.
 
 Finally, *The Urantia Book*, the Revelators tell us,
 
-> “We can observe its immensity, we can discern its extent and sense its majestic dimensions, but otherwise we know little more about these realms than do the astronomers of Urantia.” [UB 12:2.5](/en/The_Urantia_Book/12#p2_5)
+> “We can observe its immensity, we can discern its extent and sense its majestic dimensions, but otherwise we know little more about these realms than do the astronomers of Urantia.” <a id="a239_184"></a>[UB 12:2.5](/en/The_Urantia_Book/12#p2_5)
 
 ## Links
 

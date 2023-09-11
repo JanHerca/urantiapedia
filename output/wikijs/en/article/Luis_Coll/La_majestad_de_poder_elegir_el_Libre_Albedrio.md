@@ -40,9 +40,9 @@ The problem is this: if man with free will is endowed within himself with the po
 
 And when creativity turns towards destructiveness, you come face to face with the devastations of evil and sin - oppressions, wars and destructions. Evil is a partial creativity that tends towards disintegration and final destruction.
 
-All conflict is bad in the sense that it inhibits the creative function of the inner life - it is a kind of civil war in the personality. (<a id="a41_139"></a>[UB 111:4.11](/en/The_Urantia_Book/111#p4_11))
+All conflict is bad in the sense that it inhibits the creative function of the inner life - it is a kind of civil war in the personality. (<a id="a42_139"></a>[UB 111:4.11](/en/The_Urantia_Book/111#p4_11))
 
-Mortal man is endowed with free will, the power to choose, and although this choice is not absolute, it is nevertheless relatively final on the finite level and as far as the destiny of the personality that chooses is concerned. (<a id="a43_230"></a>[UB 118:6.7](/en/The_Urantia_Book/118#p6_7))
+Mortal man is endowed with free will, the power to choose, and although this choice is not absolute, it is nevertheless relatively final on the finite level and as far as the destiny of the personality that chooses is concerned. (<a id="a44_230"></a>[UB 118:6.7](/en/The_Urantia_Book/118#p6_7))
 
 Without the free will that each person has, there would be almost no possibility of choice, perhaps it would be something like “brave new world” but of automata, a type of mechanical perfection but without much possibility of choice.
 

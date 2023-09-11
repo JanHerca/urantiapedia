@@ -52,7 +52,7 @@ It is true that, perhaps mainly due to my religious upbringing in my childhood a
 
 It goes without saying that nothing that I experienced during that long period could give me a convincing explanation. In all honesty, I have to state that I am not a person who is easily convinced.
 
-At one point, back in the spring of 1994, probably after “unpacking”, tired of searching and wasting time on tricks from three to four, one fine day I went to the shelves of my library, caressed the heavy book, I took it in my hands and let it open randomly... Eureka! It scrolled down to <a id="a53_289"></a>[4:5](/en/The_Urantia_Book/4#p5) and read: 5. GOD'S MISTAKEN IDEAS. Then I began to read and I liked what I was reading so much that today is the date on which I continue with that reading, with that story that for me, today, is endless.
+At one point, back in the spring of 1994, probably after “unpacking”, tired of searching and wasting time on tricks from three to four, one fine day I went to the shelves of my library, caressed the heavy book, I took it in my hands and let it open randomly... Eureka! It scrolled down to <a id="a54_289"></a>[4:5](/en/The_Urantia_Book/4#p5) and read: 5. GOD'S MISTAKEN IDEAS. Then I began to read and I liked what I was reading so much that today is the date on which I continue with that reading, with that story that for me, today, is endless.
 
 ## 2. What was your first impression when reading it?
 

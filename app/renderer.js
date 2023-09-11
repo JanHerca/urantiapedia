@@ -20,7 +20,7 @@ const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
 	getWikijsHeader, writeHTMLToWikijs, getError, 
-	readFile, writeFile, readBooksFromJSON} = require('./utils');
+	readFile, writeFile, readBooksFromJSON, getFiles} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -1004,14 +1004,31 @@ const handle_exeButtonClick = () => {
 				.catch(onFail);
 		}
 	} else if (process === 'ARTICLE_ANCHORS_IN_WIKIJS') {
+		// Reads TSV file for Study Aids
 		// Writes anchors in articles (*.md)
-		articles.writeAnchorsToWikijs(htmlDir)
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
+		const studyAids = path.join(app.getAppPath(), 
+			'input/txt/articles-' + lan + '/study_aids.tsv');
+		if (lan === 'en') {
+			articles.readIndexFileFromTSV(studyAids)
+				.then(() => articles.writeAnchorsToWikijs(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			const studyAidsEN = studyAids.replace('articles-' + lan, 'articles-en');
+			articles.readIndexFileFromTSV(studyAidsEN)
+				.then(() => articles.readIndexFileFromTSV(studyAids))
+				.then(() => articles.writeAnchorsToWikijs(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'ARTICLE_CREATE_PARALELLS_FROM_WIKIJS') {
 		// Reads UB (*.json)
 		// Reads articles (*.md)
 		// Writes cross refs (paralells) (*.tsv)
+
+		//TODO: readArticlesFromWikijs uses getFiles that only supports one
+		// folder level. We must increase getFiles to more levels with a param
+
 		book.readFromJSON(jsonDir)
 			.then(() => articles.readArticlesFromWikijs(htmlDir, book))
 			.then(() => articles.writeUBParalellsToTSV(txtFile))

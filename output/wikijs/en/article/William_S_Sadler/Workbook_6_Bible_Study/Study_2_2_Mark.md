@@ -111,7 +111,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. It is really the Gospel according to the teachings of Peter and the oral traditions of the church at Rome.
 3. It was completed soon after Peter's death-near the end of A.D. 68.
 4. The record has been considerably changed. The latter one-fifth of the original Gospel was lost before the first manuscript was ever copied.
-	(The above facts come from the Urantia Book, [UB 121:8.1](/en/The_Urantia_Book/121#p8_1).)
+	(The above facts come from the Urantia Book, <a id="s113_46"></a>[UB 121:8.1](/en/The_Urantia_Book/121#p8_1).)
 5. Scholars believe the book was written by Mark sometime between A.D. 64 and 85, perhaps around A.D. 75.
 
 **QUESTION**: How is it that so little of Mark's personal experiences got into this record?
@@ -124,17 +124,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## IV. John Mark in The Urantia Book
 
-1. He first appeared as the "boy of all chores" assigned to the twelve apostles. Urantia Book, [UB 152:2.5](/en/The_Urantia_Book/152#p2_5).
-2. Mark was only partially convinced about Peter's story about walking on the water, so he left part of it out of his record. [UB 152:4.4](/en/The_Urantia_Book/152#p4_4).
-3. John Mark spent a whole day alone with Jesus in the hills. [UB 177:1.1](/en/The_Urantia_Book/177#p1_1).
-4. John kept a watchful eye on Jesus and the twelve. [UB 182:0.1](/en/The_Urantia_Book/182#p0_1).
-5. John watched over Jesus at the olive press, just before his arrest. [UB 183:0.5](/en/The_Urantia_Book/183#p0_5).
-6. John lost his coat to the soldier when he escaped. [UB 183:3.9](/en/The_Urantia_Book/183#p3_9).
-7. John followed the apostles into Galilee after the resurrection. [UB 192:0.4](/en/The_Urantia_Book/192#p0_4).
-8. John recognized Jesus on the shores of Lake Galilee. [UB 192:1.4](/en/The_Urantia_Book/192#p1_4).
-9. John served breakfast to the apostles. [UB 192:1.8](/en/The_Urantia_Book/192#p1_8).
-10. John returned home upon the sudden death of his father, Elijah Mark. [UB 192:4.5](/en/The_Urantia_Book/192#p4_5).
-11. John went forth to call the apostles and leading disciples to forgather at his mother's home for the Pentecost meeting. [UB 193:6.1](/en/The_Urantia_Book/193#p6_1).
+1. He first appeared as the "boy of all chores" assigned to the twelve apostles. Urantia Book, <a id="s126_95"></a>[UB 152:2.5](/en/The_Urantia_Book/152#p2_5).
+2. Mark was only partially convinced about Peter's story about walking on the water, so he left part of it out of his record. <a id="s127_126"></a>[UB 152:4.4](/en/The_Urantia_Book/152#p4_4).
+3. John Mark spent a whole day alone with Jesus in the hills. <a id="s128_62"></a>[UB 177:1.1](/en/The_Urantia_Book/177#p1_1).
+4. John kept a watchful eye on Jesus and the twelve. <a id="s129_53"></a>[UB 182:0.1](/en/The_Urantia_Book/182#p0_1).
+5. John watched over Jesus at the olive press, just before his arrest. <a id="s130_71"></a>[UB 183:0.5](/en/The_Urantia_Book/183#p0_5).
+6. John lost his coat to the soldier when he escaped. <a id="s131_54"></a>[UB 183:3.9](/en/The_Urantia_Book/183#p3_9).
+7. John followed the apostles into Galilee after the resurrection. <a id="s132_67"></a>[UB 192:0.4](/en/The_Urantia_Book/192#p0_4).
+8. John recognized Jesus on the shores of Lake Galilee. <a id="s133_56"></a>[UB 192:1.4](/en/The_Urantia_Book/192#p1_4).
+9. John served breakfast to the apostles. <a id="s134_42"></a>[UB 192:1.8](/en/The_Urantia_Book/192#p1_8).
+10. John returned home upon the sudden death of his father, Elijah Mark. <a id="s135_73"></a>[UB 192:4.5](/en/The_Urantia_Book/192#p4_5).
+11. John went forth to call the apostles and leading disciples to forgather at his mother's home for the Pentecost meeting. <a id="s136_124"></a>[UB 193:6.1](/en/The_Urantia_Book/193#p6_1).
 
 ## V. Mark's Biography in the New Testament
 

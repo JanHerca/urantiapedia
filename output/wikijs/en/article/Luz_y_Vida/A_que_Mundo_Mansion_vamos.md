@@ -40,7 +40,7 @@ Participants:
 - Carmelo Martinez
 - Eduardo Altuzarra
 
-**Carmelo:** In section 6 of paper 49 (<a id="a41_39"></a>[UB 49:6.3-15](/en/The_Urantia_Book/49#p6_3)) mortals are classified into five groups:
+**Carmelo:** In section 6 of paper 49 (<a id="a42_39"></a>[UB 49:6.3-15](/en/The_Urantia_Book/49#p6_3)) mortals are classified into five groups:
 
 1. Mortals of dispensational or group survival.
 2. Somersaults of individual ascension.
@@ -52,31 +52,31 @@ Of the first type (those with collective seraphic guardians) it is not specified
 
 Referring to individual ascension mortals, those who have reached the third cosmic circle, and others who are assigned a pair of personal guardians (for example, reservists), it says:
 
-> “Throughout the earlier ages of an evolutionary world, few mortals go to judgment on the third day. But as the ages pass, more and more the personal guardians of destiny are assigned to the advancing mortals, and thus increasing numbers of these evolving creatures are repersonalized on the first mansion world on the third day after natural death. On such occasions the return of the Adjuster signalizes the awakening of the human soul, and this is the repersonalization of the dead just as literally as when the en masse roll is called at the end of a dispensation on the evolutionary worlds.” (<a id="a53_599"></a>[UB 49:6.9](/en/The_Urantia_Book/49#p6_9))
+> “Throughout the earlier ages of an evolutionary world, few mortals go to judgment on the third day. But as the ages pass, more and more the personal guardians of destiny are assigned to the advancing mortals, and thus increasing numbers of these evolving creatures are repersonalized on the first mansion world on the third day after natural death. On such occasions the return of the Adjuster signalizes the awakening of the human soul, and this is the repersonalization of the dead just as literally as when the en masse roll is called at the end of a dispensation on the evolutionary worlds.” (<a id="a54_599"></a>[UB 49:6.9](/en/The_Urantia_Book/49#p6_9))
 
-> “There are three groups of individual ascenders: The less advanced land on the initial or first mansion world. The more advanced group may take up the morontia career on any of the intermediate mansion worlds in accordance with previous planetary progression. The most advanced of these orders really begin their morontia experience on the seventh mansion world.” (<a id="a55_367"></a>[UB 49:6.10](/en/The_Urantia_Book/49#p6_10))
+> “There are three groups of individual ascenders: The less advanced land on the initial or first mansion world. The more advanced group may take up the morontia career on any of the intermediate mansion worlds in accordance with previous planetary progression. The most advanced of these orders really begin their morontia experience on the seventh mansion world.” (<a id="a56_367"></a>[UB 49:6.10](/en/The_Urantia_Book/49#p6_10))
 
 Those of the fourth type, he defines them as:
 
-> “. . . These are the progressive human beings of the intermediate evolutionary worlds. As a rule they are not immune to natural death, but they are exempt from passing through the seven mansion worlds.” (<a id="a59_206"></a>[UB 49:6.15](/en/The_Urantia_Book/49#p6_15))
+> “. . . These are the progressive human beings of the intermediate evolutionary worlds. As a rule they are not immune to natural death, but they are exempt from passing through the seven mansion worlds.” (<a id="a60_206"></a>[UB 49:6.15](/en/The_Urantia_Book/49#p6_15))
 
 And continues:
 
-> “The less perfected group reawaken on the headquarters of their local system, passing by only the mansion worlds. The intermediate group go to the constellation training worlds; they pass by the entire morontia regime of the local system. Still farther on in the planetary ages of spiritual striving, many survivors awaken on the constellation headquarters and there begin the Paradise ascent.” (<a id="a63_398"></a>[UB 49:6.16](/en/The_Urantia_Book/49#p6_16))
+> “The less perfected group reawaken on the headquarters of their local system, passing by only the mansion worlds. The intermediate group go to the constellation training worlds; they pass by the entire morontia regime of the local system. Still farther on in the planetary ages of spiritual striving, many survivors awaken on the constellation headquarters and there begin the Paradise ascent.” (<a id="a64_398"></a>[UB 49:6.16](/en/The_Urantia_Book/49#p6_16))
 
 Those of the fifth type are defined as:
 
-> “. . . These mortals belong to the Adjuster-fused type of evolutionary life, but they are most often representative of the final phases of human development on an evolving world. These glorified beings are exempt from passing through the portals of death; they are submitted to Son seizure; they are translated from among the living and appear immediately in the presence of the Sovereign Son on the headquarters of the local universe.” (<a id="a67_440"></a>[UB 49:6.18](/en/The_Urantia_Book/49#p6_18))
+> “. . . These mortals belong to the Adjuster-fused type of evolutionary life, but they are most often representative of the final phases of human development on an evolving world. These glorified beings are exempt from passing through the portals of death; they are submitted to Son seizure; they are translated from among the living and appear immediately in the presence of the Sovereign Son on the headquarters of the local universe.” (<a id="a68_440"></a>[UB 49:6.18](/en/The_Urantia_Book/49#p6_18))
 
 And continues:
 
-> “These are the mortals who fuse with their Adjusters during mortal life, and such Adjuster-fused personalities traverse space freely before being clothed with morontia forms. These fused souls go by direct Adjuster transit to the resurrection halls of the higher morontia spheres, where they receive their initial morontia investiture just as do all other mortals arriving from the evolutionary worlds.” (<a id="a71_407"></a>[UB 49:6.19](/en/The_Urantia_Book/49#p6_19))
+> “These are the mortals who fuse with their Adjusters during mortal life, and such Adjuster-fused personalities traverse space freely before being clothed with morontia forms. These fused souls go by direct Adjuster transit to the resurrection halls of the higher morontia spheres, where they receive their initial morontia investiture just as do all other mortals arriving from the evolutionary worlds.” (<a id="a72_407"></a>[UB 49:6.19](/en/The_Urantia_Book/49#p6_19))
 
-It is clear that these mortals of the “modified orders” do not pass through the mansion worlds though “...before any of these groups may go forward, they must journey back as instructors to the worlds they missed, gaining many experiences as teachers in those realms which they passed by as students...» (<a id="a73_305"></a>[UB 49:6.17](/en/The_Urantia_Book/49#p6_17)).
+It is clear that these mortals of the “modified orders” do not pass through the mansion worlds though “...before any of these groups may go forward, they must journey back as instructors to the worlds they missed, gaining many experiences as teachers in those realms which they passed by as students...» (<a id="a74_305"></a>[UB 49:6.17](/en/The_Urantia_Book/49#p6_17)).
 
 The doubt is in those of individual ascension because in paper 47 section 3 it is said:
 
-> “If you are not to be detained on mansion world number one, at the end of ten days you will enter the translation sleep and proceed to world number two, and every ten days thereafter you will thus advance until you arrive on the world of your assignment.” (<a id="a77_259"></a>[UB 47:3.10](/en/The_Urantia_Book/47#p3_10))
+> “If you are not to be detained on mansion world number one, at the end of ten days you will enter the translation sleep and proceed to world number two, and every ten days thereafter you will thus advance until you arrive on the world of your assignment.” (<a id="a78_259"></a>[UB 47:3.10](/en/The_Urantia_Book/47#p3_10))
 
 It refers, as you know, to the ten days of “relaxation” that you have as soon as you wake up. And a little earlier it is said: 533:5 “On mansion world number one (or another in case of advanced condition) you will resume your intellectual training and spiritual development at the exact level at which they were interrupted by death...”
 
@@ -86,7 +86,7 @@ This dilemma of going through all the worlds or going directly to the destinatio
 
 A doubt also arose in that meeting about learning the language of the local universe. Remember that:
 
-> “Having mastered the local universe language before leaving the fourth mansion world, you now devote more time to the perfection of the tongue of Uversa to the end that you may be proficient in both languages before arriving on Jerusem with residential status. All ascending mortals are bilingual from the system headquarters up to Havona. And then it is only necessary to enlarge the superuniverse vocabulary, still additional enlargement being required for residence on Paradise.” (<a id="a87_486"></a>[UB 47:7.2](/en/The_Urantia_Book/47#p7_2))
+> “Having mastered the local universe language before leaving the fourth mansion world, you now devote more time to the perfection of the tongue of Uversa to the end that you may be proficient in both languages before arriving on Jerusem with residential status. All ascending mortals are bilingual from the system headquarters up to Havona. And then it is only necessary to enlarge the superuniverse vocabulary, still additional enlargement being required for residence on Paradise.” (<a id="a88_486"></a>[UB 47:7.2](/en/The_Urantia_Book/47#p7_2))
 
 What about those who start their career on the fifth, sixth, or seventh mansion world? And those who start even after the system headquarters, how do they learn the language of the superuniverse?
 
@@ -94,11 +94,11 @@ What about those who start their career on the fifth, sixth, or seventh mansion 
 
 The mortals of the times of light and of life are the ones who usually skip part of the morontia regime, due to their spiritual advancement. Obviously, a mortal of our time is not the same as one of the times of the caves, or one of the times of light and life compared to us.
 
-Regarding the learning of the languages of the universe: “We observe that on these highly evolved and long seventh-stage worlds human beings fully learn the local universe language before they are translated; and I have visited a few very old planets where abandonters were teaching the older mortals the tongue of the superuniverse.” (<a id="a95_336"></a>[Paper 55, point 6](/en/The_Urantia_Book/55#p6)).
+Regarding the learning of the languages of the universe: “We observe that on these highly evolved and long seventh-stage worlds human beings fully learn the local universe language before they are translated; and I have visited a few very old planets where abandonters were teaching the older mortals the tongue of the superuniverse.” (<a id="a96_336"></a>[Paper 55, point 6](/en/The_Urantia_Book/55#p6)).
 
 As you can see, everything is planned.
 
-**Carmelo:** If the alternative to learning the language of the local universe or the superuniverse on the mansion worlds is to learn it on one's home planet, then ascendants in modified ascension orders only occur on planets that They have been in the seventh stage (of light and life) for a long time, or a very long time. That is not the impression I get when I read the paper 55 . In all stages of light and life, even before and long before, there are mortals who fuse with their Adjuster in the first life, thereby skipping the entire morontia regimen and going directly to local universe headquarters. Presumably there will be more ascendants from the modified secondary order of ascension than from the primary, and therefore will also live in all stages of a planet's evolution. Paragraph <a id="a99_798"></a>[UB 49:6.16](/en/The_Urantia_Book/49#p6_16) itself suggests so. Where do they all learn said languages?
+**Carmelo:** If the alternative to learning the language of the local universe or the superuniverse on the mansion worlds is to learn it on one's home planet, then ascendants in modified ascension orders only occur on planets that They have been in the seventh stage (of light and life) for a long time, or a very long time. That is not the impression I get when I read the paper 55 . In all stages of light and life, even before and long before, there are mortals who fuse with their Adjuster in the first life, thereby skipping the entire morontia regimen and going directly to local universe headquarters. Presumably there will be more ascendants from the modified secondary order of ascension than from the primary, and therefore will also live in all stages of a planet's evolution. Paragraph <a id="a100_798"></a>[UB 49:6.16](/en/The_Urantia_Book/49#p6_16) itself suggests so. Where do they all learn said languages?
 
 **Eduardo:** First of all, you have to know how to differentiate between the general terms in which the UB speaks and those related to Urantia. In the case at hand, he speaks in general terms. And secondly, of the five groups, we have taken into account, for now, the first two.
 
@@ -112,7 +112,7 @@ In its day I wrote an article that has been posted on our website entitled “Ev
 
 And we ended up copying a part of the first paragraph of the Dto. 55 in order to cheer us up.
 
-> “Neither can environmental limitations, **even on an isolated world**, thwart the personal attainment of the individual mortal; Jesus of Nazareth, **as a man** among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia.” (<a id="a113_268"></a>[UB 55:11.7](/en/The_Urantia_Book/55#p11_7))
+> “Neither can environmental limitations, **even on an isolated world**, thwart the personal attainment of the individual mortal; Jesus of Nazareth, **as a man** among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia.” (<a id="a114_268"></a>[UB 55:11.7](/en/The_Urantia_Book/55#p11_7))
 
 **Carmelo:** It's not that I'm particularly interested in when or how the languages of the universe are studied. What interests me is understanding how things are, even if they are far from us in time. I wanted, and I want, to know what the ascendants of the modified orders of ascension are and when they appear, and the language thing seemed to me, and seems to me, a clue to follow.
 

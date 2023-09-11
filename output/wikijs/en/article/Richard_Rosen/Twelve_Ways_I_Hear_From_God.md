@@ -141,9 +141,9 @@ Auto- or personal revelation (spiritual illumination) delights your soul. It is 
 
 This example took place when Jesus with his father Joseph went up to Jerusalem at around age 13. 
 
-> On the day before the Passover Sabbath, flood tides of spiritual illumination swept through the mortal mind of Jesus and filled his human heart to overflowing with affectionate pity for the spiritually blind and morally ignorant multitudes assembled for the celebration of the ancient Passover commemoration. <a id="a145_311"></a>[[UB 124:6.15](/en/The_Urantia_Book/124#p6_15)]
+> On the day before the Passover Sabbath, flood tides of spiritual illumination swept through the mortal mind of Jesus and filled his human heart to overflowing with affectionate pity for the spiritually blind and morally ignorant multitudes assembled for the celebration of the ancient Passover commemoration. <a id="a143_311"></a>[[UB 124:6.15](/en/The_Urantia_Book/124#p6_15)]
 
-> Another example: Jesus asked his apostles “But who say you that I am?”...Simon Peter, springing to his feet, exclaimed: “You are the Deliverer, the Son of the living God.”...(Jesus) said: “This has been revealed to you by my Father.” <a id="a147_236"></a>[[UB 157:3.5-6](/en/The_Urantia_Book/157#p3_5)]
+> Another example: Jesus asked his apostles “But who say you that I am?”...Simon Peter, springing to his feet, exclaimed: “You are the Deliverer, the Son of the living God.”...(Jesus) said: “This has been revealed to you by my Father.” <a id="a145_236"></a>[[UB 157:3.5-6](/en/The_Urantia_Book/157#p3_5)]
 
 And a personal experience: Having scant remembrance of my human father after he died when I was seven, I keenly felt the lack of a father’s watch care. What longing I had for a loving father’s guidance. With this background I recount a pivotal morning years ago. 
 
@@ -155,7 +155,7 @@ Oh, how I talked with him, pouring out my heart and thanking him for being my ow
 
 **In summary**, these are ways in which I hear and am led. There are yet to be revealed others. Communication with the Divine evolves. This quote from _The Urantia Book_ illustrates this:
 
-> From such vantage points of high living, man is able to transcend the material irritations of the lower levels of thinking — worry, jealousy, envy, revenge, and the pride of immature personality. These high-climbing souls deliver themselves from a multitude of the crosscurrent conflicts of the trifles of living, thus becoming free to attain consciousness of the higher currents of spirit, of spirit concept and celestial communication. <a id="a159_440"></a>[[UB 160:3.5](/en/The_Urantia_Book/160#p3_5)]
+> From such vantage points of high living, man is able to transcend the material irritations of the lower levels of thinking — worry, jealousy, envy, revenge, and the pride of immature personality. These high-climbing souls deliver themselves from a multitude of the crosscurrent conflicts of the trifles of living, thus becoming free to attain consciousness of the higher currents of spirit, of spirit concept and celestial communication. <a id="a157_440"></a>[[UB 160:3.5](/en/The_Urantia_Book/160#p3_5)]
 
 Harry McMullen, at a _Urantia Book_ conference, presented his view of discerning God’s will. Here’s one paragraph to give you a taste (see footnote for the reference to his talk; it’s worth reading.) 
 

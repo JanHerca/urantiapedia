@@ -34,7 +34,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. In another place ( [Rom 6:19](/en/Bible/Romans/6#v19)) Paul reminds his readers that: “I am speaking in human terms, because of your natural limitations.”
 7. Textual contradictions and other differences make it impossible for us to believe in **verbal** inspiration.
 8. Jesus frequently quoted Scripture, but never alluded to it as being inspired. He never called Scripture the **word of God**.
-9. Jesus’ view of the Scriptures is expressed in his memorable talk with Nathaniel. See Urantia Book, [UB 159:4.1](/en/The_Urantia_Book/159#p4_1)
+9. Jesus’ view of the Scriptures is expressed in his memorable talk with Nathaniel. See Urantia Book, <a id="s36_102"></a>[UB 159:4.1](/en/The_Urantia_Book/159#p4_1)
 10. The interpretation of Scripture:
 	- a. **Catholic View**: The church, and only the church, can truly interpret the Bible. And when the church does thus function, the interpretation is **infallible**.
 	- b. **Protestant View**: Protestants claim that any individual, by aid of the Holy Spirit, can interpret the Bible.
@@ -45,7 +45,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. **Incarnation** is the theologic heart of Christianity—and the Bible sustains this doctrine.
 2. “And the Word became flesh and dwelt among us.” [John 1:14](/en/Bible/John/1#v14). This is the theme song of all New Testament teaching.
 3. Naturally, the next step is the proclamation—”There is no other name under heaven given among men, by which we must be saved.” [Acts 4:12](/en/Bible/Acts_of_the_Apostles/4#v12).
-4. While the Urantia Book validates the incarnation, it declares the gospel of the kingdom to be “the fatherhood of God and the brotherhood of man.” [UB 194:4.4](/en/The_Urantia_Book/194#p4_4)
+4. While the Urantia Book validates the incarnation, it declares the gospel of the kingdom to be “the fatherhood of God and the brotherhood of man.” <a id="s47_149"></a>[UB 194:4.4](/en/The_Urantia_Book/194#p4_4)
 5. At Antioch they stressed the humanity of Jesus; at Alexandria, the divinity of the Master.
 6. [Docetism](https://en.wikipedia.org/wiki/Docetism) taught that Jesus’ humanity was but “seeming”—a sort of phantasm.
 7. The Bible could be regarded as an incarnation—a union of the human and the divine.
@@ -83,11 +83,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 17. The recognition of the fallibility of Scripture in the twentieth century is bringing them together.
 18. But this does not mean that every individual should set himself up as the one and only interpreter of the Scriptures.
 19. We should look critically upon the Bible when it contradicts the facts of nature—such as the teaching that the earth is flat. (This has nothing to do with genuine miracles.)
-20. Symbolism should also be questioned—like the story of [Jonah and the whale](/en/The_Urantia_Book/130#p1_2).
+20. Symbolism should also be questioned—like the story of <a id="s85_58"></a>[Jonah and the whale](/en/The_Urantia_Book/130#p1_2).
 21. Never forget the fact of the “evolution of revelation.” Remember also that there have been retrogressions.
 22. Do not be misled by the ambiguities of the Bible or by its allegories— such as interpreting the voluptuous Song of Solomon as representing the love of Christ for his church.
 23. And do not accept all of the apostolic teachings as the teaching of Christ.
-24. The mistaken reporting of Jesus’ teaching is shown by the record found in [Matt 24](/en/Bible/Matthew/24). See Urantia Book, [UB 176:0.1](/en/The_Urantia_Book/176#p0_1).
+24. The mistaken reporting of Jesus’ teaching is shown by the record found in [Matt 24](/en/Bible/Matthew/24). See Urantia Book, <a id="s89_129"></a>[UB 176:0.1](/en/The_Urantia_Book/176#p0_1).
 25. Certain portions of the Bible have had a non-Jewish origin. Note the following:
 	- [Isa 16, 17](/en/Bible/Isaiah/16). From a Moabite elegy.
 	- [Ps 104](/en/Bible/Psalms/104). Sun hymn of Ikhnaton.
@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. In [Phil. 2:16](/en/Bible/Philippians/2#v16), called “the word of life.” In [Col. 1:5](/en/Bible/Colossians/1#v5), called “the word of the truth.”
 4. The gospel of John refers to Christ as “the word.” See [John 1:1](/en/Bible/John/1#v1). “In the beginning was the Word, and the Word was with God, and the Word was God.”
 5. And in speaking of the incarnation, John says: “And the Word became flesh and dwelt among us.” [John 1:14](/en/Bible/John/1#v14).
-6. The Urantia Book speaks of the Eternal Son as “the living and divine word.” [UB 6:0.1](/en/The_Urantia_Book/6#p0_1)
+6. The Urantia Book speaks of the Eternal Son as “the living and divine word.” <a id="s103_79"></a>[UB 6:0.1](/en/The_Urantia_Book/6#p0_1)
 7. Strictly speaking, the Bible should not be called the word of God. Inasmuch as God may be speaking in and through the Bible, it would be qualifiedly the divine word.
 8. It was in this sense that the Urantia Revelation was spoken of as the “Word made Book.”
 

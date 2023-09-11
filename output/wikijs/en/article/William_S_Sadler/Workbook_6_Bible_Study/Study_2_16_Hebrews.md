@@ -60,7 +60,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 12. Hebrews is one of the most erudite books of the Bible.
 13. We are forced to conclude that Hebrews was rewritten one or more times. It may have originated as a Pauline letter to one of the churches and then, like Ephesians, was subjected to much editorial rewriting.
 14. The Council of Trent (1546) included Hebrews among the letters of Paul.
-15. The Urantia Book speaks of Paul as author- [UB 47:10.3](/en/The_Urantia_Book/47#p10_3). On p. 1024 Paul is referred to as "one of the authors." Quotations from Hebrews are ascribed to Paul on [UB 47:10.3](/en/The_Urantia_Book/47#p10_3) and [UB 48:1.7](/en/The_Urantia_Book/48#p1_7) in the Urantia Book.
+15. The Urantia Book speaks of Paul as author- <a id="s62_47"></a>[UB 47:10.3](/en/The_Urantia_Book/47#p10_3). On p. 1024 Paul is referred to as "one of the authors." Quotations from Hebrews are ascribed to Paul on <a id="s62_196"></a>[UB 47:10.3](/en/The_Urantia_Book/47#p10_3) and <a id="s62_244"></a>[UB 48:1.7](/en/The_Urantia_Book/48#p1_7) in the Urantia Book.
 
 ## III. General Considerations
 

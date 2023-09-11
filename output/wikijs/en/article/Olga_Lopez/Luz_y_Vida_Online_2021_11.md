@@ -256,7 +256,7 @@ And in our search we would like to receive some indication, some hint of where w
 Allow me to propose this paragraph from _The Urantia Book_, which gives us a magnificent recipe to achieve our purposes:
 
 
-> _When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved._ (<a id="a257_267"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
+> _When my children once become self-conscious of the assurance of the divine presence, such a faith will expand the mind, ennoble the soul, reinforce the personality, augment the happiness, deepen the spirit perception, and enhance the power to love and be loved._ (<a id="a258_267"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12))
 
 They invite us to a barter, to an exchange: if we make the decision to accept the revelation that there is a divine presence in us and in our fellow men, and consciously and freely decide to let this faith (belief in action) work in our life, in return we will have not only that happiness that we so desire as individual beings and as a society, but also a lot of extra benefits.
 

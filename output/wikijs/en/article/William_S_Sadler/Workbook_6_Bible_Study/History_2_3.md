@@ -39,7 +39,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 9. Among the early inventions of Palestine was the alphabet of the Phoenicians —passed on to Greeks and then to Europe.
 10. Later, from somewhere, came the Edomites and the Moabites.
 11. Date of the Exodus is in doubt. Probably in the thirteenth century. I Kings 6:1 places the Exodus 480 years before the fourth year of Solomon’s reign. This would be in the fifteenth century.
-12. For the Moses story, see [UB 96:3.1](/en/The_Urantia_Book/95#p3_1)
+12. For the Moses story, see <a id="s41_29"></a>[UB 96:3.1](/en/The_Urantia_Book/95#p3_1)
 13. Remember that Moses had spent years with Kenites before going back to lead the Hebrews out of Egypt.
 14. There are almost two stories about the wilderness wanderings:
 	- a. In one, they tarry a long time at Sinai.

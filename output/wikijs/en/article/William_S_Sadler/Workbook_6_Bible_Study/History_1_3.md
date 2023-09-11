@@ -39,7 +39,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Thessalonica.
 5. Paul wrote ten letters to these seven churches. They were circulated in one book—[Ephesians](/en/Bible/Ephesians/1#v1) as the introduction.
 6. In A.D. 95 Clement, of Rome, wrote a letter to the church at Corinth.
-7. The three gospels, later four, were in a separate book. Dates of writing, according to the Urantia Book: Mark A.D. 68, Matthew A.D. 71, Luke A.D. 82, and John A.D. 101. [UB 121:8.2](/en/The_Urantia_Book/121#p8_2)
+7. The three gospels, later four, were in a separate book. Dates of writing, according to the Urantia Book: Mark A.D. 68, Matthew A.D. 71, Luke A.D. 82, and John A.D. 101. <a id="s41_172"></a>[UB 121:8.2](/en/The_Urantia_Book/121#p8_2)
 8. About A.D. 125 [Marcion](https://en.wikipedia.org/wiki/Marcion_of_Sinope), a Pontus layman, used the gospel of Luke and Paul’s letters as a new Bible.
 9. [Athenagoras, of Athens](https://en.wikipedia.org/wiki/Athenagoras_of_Athens), used the four gospels and Paul’s ten letters as “all but Scripture.”
 10. [Theophilus, of Antioch](https://en.wikipedia.org/wiki/Theophilus_of_Antioch), (A.D. 180) used the gospels and Paul’s letters as “Christian scriptures.”
@@ -105,18 +105,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Illustration of harmonization.
 	[Matt. 12:13](/en/Bible/Matthew/12#v13). The man with a withered hand. Matt, reads: “Then he said to the man, ‘Stretch out your hand. And the man stretched it out, and it was restored, whole like the other.”
 	Early copies of Mark and Luke do not contain “whole like the other.” But increasingly, later copies contain this addition.
-	**NOTE**: The Urantia Book [UB 148:7.2](/en/The_Urantia_Book/148#p7_2) follows the early Mark and Luke—does not contain the later addition.
+	**NOTE**: The Urantia Book <a id="s107_28"></a>[UB 148:7.2](/en/The_Urantia_Book/148#p7_2) follows the early Mark and Luke—does not contain the later addition.
 9. Illustration of removing heresy.
 	[Matt. 24:36](/en/Bible/Matthew/24#v36). “But of that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.”
 	A scribe, believing that Jesus was omniscient, was sure someone had made a mistake, so he changed the text—omitting the words—”nor the Son.”
-	**NOTE**; Jesus, in making this statement on [UB 176:2.5](/en/The_Urantia_Book/176#p2_5) of the Urantia Book, likewise omits “nor the Son.” He says: “But the times of the re-appearing of the Son of Man are known only in the councils of Paradise; not even the angels of heaven know when this will occur.”
+	**NOTE**; Jesus, in making this statement on <a id="s111_46"></a>[UB 176:2.5](/en/The_Urantia_Book/176#p2_5) of the Urantia Book, likewise omits “nor the Son.” He says: “But the times of the re-appearing of the Son of Man are known only in the councils of Paradise; not even the angels of heaven know when this will occur.”
 10. Illustration of unification.
 	[Luke 23:32](/en/Bible/Luke/23#v32). “Also other criminals, two, were led away to be put to death with him.”
 	The scribes resented the implication that Jesus was a criminal, so they changed it to read: “Two others also, who were criminals, were led away to be put to death with him.”
 	**NOTE**: This passage does not appear in the Urantia Book.
 11. Ambiguity.
 	Concerning the Lord’s Supper in [Matt. 26:27](/en/Bible/Matthew/26#v27), it originally read: “Drink ye all of it.” The scribe changed it to “Drink of it, all of you,” as now in the Revised Version.
-	The Urantia Book [UB 179:5.1](/en/The_Urantia_Book/179#p5_1) reads: “Take this cup, all of you, and drink of it.”
+	The Urantia Book <a id="s118_18"></a>[UB 179:5.1](/en/The_Urantia_Book/179#p5_1) reads: “Take this cup, all of you, and drink of it.”
 12. Prejudice against revised versions.
 	One bishop burned over 200 copies of a new version of the Bible.
 13. Remember: At the [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent), the Bible was standardized by **majority** vote.

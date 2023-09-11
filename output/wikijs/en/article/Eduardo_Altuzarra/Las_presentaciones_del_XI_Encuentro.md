@@ -52,7 +52,7 @@ _He was reasonable, accessible, practical and with good common sense. He was kin
 
 _He was overloaded with divine enthusiasm, but he never became a fan. He was emotionally active, but never capricious. He was imaginative but always practical. He faced the realities of life frankly, but he was never bland or mundane. He was brave but never reckless; prudent, but never cowardly. He was compassionate but not sentimental; exceptional but not eccentric. He was pious but not blessed. It was so well balanced because it was perfectly unified._
 
-_Jesus was not afraid. He was not flamboyant, erratic, or eccentric. He was not capricious, whimsical, or hysterical. In all his teaching and in all the things he did there was always an exquisite discrimination, associated with an extraordinary sense of correctness._ <a id="a53_269"></a>[UB 100:7.3-4](/en/The_Urantia_Book/100#p7_3)
+_Jesus was not afraid. He was not flamboyant, erratic, or eccentric. He was not capricious, whimsical, or hysterical. In all his teaching and in all the things he did there was always an exquisite discrimination, associated with an extraordinary sense of correctness._ <a id="a54_269"></a>[UB 100:7.3-4](/en/The_Urantia_Book/100#p7_3)
 
 The dissemination of _The Urantia Book_ must not be slow nor too fast, it would be a suicidal act. It has to develop at a rate of progressive and constant growth. Advertising should not be excessive or subversive. In time, _The Urantia Book_ will be available to thousands of people.
 
@@ -173,7 +173,7 @@ Experiences are the most important thing in the progress and evolution of our li
 
 You have to pay close attention to actions and consequences.
 
-In <a id="a174_3"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11) it says that:
+In <a id="a175_3"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11) it says that:
 
 > _***Health, sanity, and happiness*** are integrations of truth, beauty, and goodness as they are blended in human experience. Such levels of efficient living come about through the unification of ***energy systems, idea systems, and spirit systems***._
 

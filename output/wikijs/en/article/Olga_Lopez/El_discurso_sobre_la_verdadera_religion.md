@@ -46,7 +46,7 @@ That time was a test of faith for the followers of Jesus. Many were those who ab
 
 On the way to Phoenicia, where they were going to cool the spirits of the Jewish authorities, Jesus was accompanied only by twelve evangelists and the twelve apostles. His companions were concerned about the attitude of Jesus' enemies, and Thomas, in a break they took for lunch, expressed that concern with the following question:
 
-> “_Master, I should really like to know just what is wrong with the religion of our enemies at Jerusalem. What is the real difference between their religion and ours? Why is it we are at such diversity of belief when we all profess to serve the same God?_” (<a id="a47_259"></a>[UB 155:4.2](/en/The_Urantia_Book/155#p4_2))
+> “_Master, I should really like to know just what is wrong with the religion of our enemies at Jerusalem. What is the real difference between their religion and ours? Why is it we are at such diversity of belief when we all profess to serve the same God?_” (<a id="a48_259"></a>[UB 155:4.2](/en/The_Urantia_Book/155#p4_2))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV37/07.jpg">
@@ -84,7 +84,7 @@ How many people today live clinging to the rocks of institutionalized religion, 
 
 So, we could very well ask ourselves the questions that Jesus asked his apostles at the end of this speech:
 
-> _Are you fearful, soft, and ease-seeking? Are you afraid to trust your future in the hands of the God of truth, whose sons you are? Are you distrustful of the Father, whose children you are? Will you go back to the easy path of the certainty and intellectual settledness of the religion of traditional authority, or will you gird yourselves to go forward with me into that uncertain and troublous future of proclaiming the new truths of the religion of the spirit, the kingdom of heaven in the hearts of men?_ (<a id="a85_513"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13))
+> _Are you fearful, soft, and ease-seeking? Are you afraid to trust your future in the hands of the God of truth, whose sons you are? Are you distrustful of the Father, whose children you are? Will you go back to the easy path of the certainty and intellectual settledness of the religion of traditional authority, or will you gird yourselves to go forward with me into that uncertain and troublous future of proclaiming the new truths of the religion of the spirit, the kingdom of heaven in the hearts of men?_ (<a id="a86_513"></a>[UB 155:5.13](/en/The_Urantia_Book/155#p5_13))
 
 Our sovereign of the universe, Michael of Nebadon, came to this world to teach us that we only need the unconditional faith of a child to enter the kingdom of heaven, and that therefore intermediaries are not necessary. Back then, his message did not sink deep enough, and later Christianity forgot that fundamental teaching, even though it remains dormant within it.
 

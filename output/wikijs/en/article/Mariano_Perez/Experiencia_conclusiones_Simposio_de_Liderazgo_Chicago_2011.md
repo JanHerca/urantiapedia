@@ -38,13 +38,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 OPPORTUNITY TO VERIFY THE BROTHERHOOD AT THE WORLD LEVEL OF THE MOVEMENT ABOUT THE URANTIA BOOK.
 
-> “_. . .The sincere religionist is conscious of universe citizenship and is aware of making contact with sources of superhuman power. He is thrilled and energized with the assurance of belonging to a superior and ennobled fellowship of the sons of God. . . ._” (<a id="a39_263"></a>[UB 100:6.3](/en/The_Urantia_Book/100#p6_3))
+> “_. . .The sincere religionist is conscious of universe citizenship and is aware of making contact with sources of superhuman power. He is thrilled and energized with the assurance of belonging to a superior and ennobled fellowship of the sons of God. . . ._” (<a id="a40_263"></a>[UB 100:6.3](/en/The_Urantia_Book/100#p6_3))
 
 BEHAVIOR, ATTITUDE, COMMITMENT OF THE PARTICIPANTS BEFORE THE 5TH REVELATION. ALMOST ALL THE PARTICIPANTS DID SOME WORK TO CONTRIBUTE TO THE KNOWLEDGE OF THE BOOK AND ITS TEACHINGS.
 
-> “_The self has surrendered to the intriguing drive of an all-encompassing motivation which imposes heightened self-discipline, lessens emotional conflict, and makes mortal life truly worth living. . . ._” (<a id="a43_208"></a>[UB 100:6.4](/en/The_Urantia_Book/100#p6_4))
+> “_The self has surrendered to the intriguing drive of an all-encompassing motivation which imposes heightened self-discipline, lessens emotional conflict, and makes mortal life truly worth living. . . ._” (<a id="a44_208"></a>[UB 100:6.4](/en/The_Urantia_Book/100#p6_4))
 
-> “_Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. It is the enlistment of the totality of selfhood in the loyal service of loving God and serving man. . . ._” (<a id="a45_255"></a>[UB 100:3.1](/en/The_Urantia_Book/100#p3_1))
+> “_Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. It is the enlistment of the totality of selfhood in the loyal service of loving God and serving man. . . ._” (<a id="a46_255"></a>[UB 100:3.1](/en/The_Urantia_Book/100#p3_1))
 
 For me, the Chicago Leadership Symposium was the largest gathering of souls loyal to the goals and principles of the revelators. They were surely watching us with satisfaction, convinced that the seed they sowed in the first decades of the last century in the city of Chicago was bearing fruit. But it would be unfair to exalt this meeting worldwide and belittle any other type of event related to the 5th revelation.
 
@@ -60,9 +60,9 @@ But those who do not belong to any study group may wonder: And what are the adva
 
 In the first place, to answer this, one would have to ask the one who thinks like this: Do you want to do the will of the Father? Do you want to become like Him? Then you will have to develop one of his loving qualities: SHARE.
 
-> “_Divine personality is not self-centered; self-distribution and sharing of personality characterize divine freewill selfhood. Creatures crave association with other personal creatures; Creators are moved to share divinity with their universe children; the personality of the Infinite is disclosed as the Universal Father, who shares reality of being and equality of self with two co-ordinate personalities, the Eternal Son and the Conjoint Actor._” (<a id="a61_453"></a>[UB 10:1.3](/en/The_Urantia_Book/10#p1_3))
+> “_Divine personality is not self-centered; self-distribution and sharing of personality characterize divine freewill selfhood. Creatures crave association with other personal creatures; Creators are moved to share divinity with their universe children; the personality of the Infinite is disclosed as the Universal Father, who shares reality of being and equality of self with two co-ordinate personalities, the Eternal Son and the Conjoint Actor._” (<a id="a62_453"></a>[UB 10:1.3](/en/The_Urantia_Book/10#p1_3))
 
-> “_The ascending morontians learn to socialize their former purely selfish longings and egoistic ambitions._” (<a id="a63_112"></a>[UB 44:8.4](/en/The_Urantia_Book/44#p8_4))
+> “_The ascending morontians learn to socialize their former purely selfish longings and egoistic ambitions._” (<a id="a64_112"></a>[UB 44:8.4](/en/The_Urantia_Book/44#p8_4))
 
 Sharing is a divine virtue or quality, without a doubt, and when it comes to sharing knowledge of the revelation of Truth, even if it is a partial Truth, they make that act supreme. But not only for the fact of simply sharing, which is already positive in itself, but because in the study groups, in their meetings, we all learn from each other. The book is studied in truth, it is analyzed, opinions are exchanged, different points of view, which make us enrich ourselves with others. In my journey through the study group to which I belong, I have verified on many occasions what I have just said. For example: I had my own idea about any concept or phrase in the book, and after hearing the different interventions I have changed my way of seeing the idea that I had preconceived, or I have even understood it because I did not understand it well, or in other cases the I have expanded.
 

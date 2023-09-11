@@ -42,7 +42,7 @@ In the dictionary of the RAE, eugenics is defined as: “Application of the biol
 
 The UB talks about superior and inferior races and the need to improve the human races without any shame or prejudice, to the point that it surprises and even shocks some.
 
-I have searched and selected some quotes about it. These are: <a id="a43_62"></a>[UB 49:1.7](/en/The_Urantia_Book/49#p1_7), <a id="a43_105"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8), <a id="a43_148"></a>[UB 52:2.11](/en/The_Urantia_Book/52#p2_11), <a id="a43_193"></a>[UB 52:2.12](/en/The_Urantia_Book/52#p2_12), <a id="a43_238"></a>[UB 52:3.4](/en/The_Urantia_Book/52#p3_4), <a id="a43_281"></a>[UB 55:4.11](/en/The_Urantia_Book/55#p4_11), <a id="a43_326"></a>[UB 55:6.3](/en/The_Urantia_Book/55#p6_3), <a id="a43_369"></a>[UB 65:3.6](/en/The_Urantia_Book/65#p3_6) , <a id="a43_413"></a>[UB 70:8.15](/en/The_Urantia_Book/70#p8_15), <a id="a43_458"></a>[UB 71:3.8](/en/The_Urantia_Book/71#p3_8), <a id="a43_501"></a>[UB 82:6.5](/en/The_Urantia_Book/82#p6_5). (The figure in parentheses is the document number.) I'm sure others have escaped me.
+I have searched and selected some quotes about it. These are: <a id="a44_62"></a>[UB 49:1.7](/en/The_Urantia_Book/49#p1_7), <a id="a44_105"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8), <a id="a44_148"></a>[UB 52:2.11](/en/The_Urantia_Book/52#p2_11), <a id="a44_193"></a>[UB 52:2.12](/en/The_Urantia_Book/52#p2_12), <a id="a44_238"></a>[UB 52:3.4](/en/The_Urantia_Book/52#p3_4), <a id="a44_281"></a>[UB 55:4.11](/en/The_Urantia_Book/55#p4_11), <a id="a44_326"></a>[UB 55:6.3](/en/The_Urantia_Book/55#p6_3), <a id="a44_369"></a>[UB 65:3.6](/en/The_Urantia_Book/65#p3_6) , <a id="a44_413"></a>[UB 70:8.15](/en/The_Urantia_Book/70#p8_15), <a id="a44_458"></a>[UB 71:3.8](/en/The_Urantia_Book/71#p3_8), <a id="a44_501"></a>[UB 82:6.5](/en/The_Urantia_Book/82#p6_5). (The figure in parentheses is the document number.) I'm sure others have escaped me.
 
 What do you think of this insistence that we eliminate the inferiors? What do you think this means in practice? Why are we surprised by this attitude of the revelators? Can something like this be disclosed without further preparation? Why are we so sensitive to eugenic approaches? Is Eugenics Morally Acceptable? Is there any form of eugenics that is more morally acceptable than others?
 
@@ -74,7 +74,7 @@ It is a difficult and delicate subject. Let us hope that the analysis of the gen
 
 However, today, I also find it difficult, especially because who will judge what should or should not be done? Or who will decide to whom to apply it? With how flawed our judicial systems are still and how far away politicians are from being the best, most loyal citizens willing to serve (and not serve themselves), to entrust them with such decisions!
 
-The developers already tell us in paragraph <a id="a75_44"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8).
+The developers already tell us in paragraph <a id="a76_44"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8).
 
 ## Santiago
 

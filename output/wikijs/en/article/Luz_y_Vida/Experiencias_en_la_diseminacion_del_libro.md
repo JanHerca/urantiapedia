@@ -147,7 +147,7 @@ On the way back by train, he meditated on what had happened. He wondered if so m
 
 After the presentations of my colleagues, now it is my turn to share part of my experience making _The Urantia Book_ known in presentations, interviews and events in general.
 
-Sooner or later, all of us who have adopted the teachings of the book as our guide in “the uncertain labyrinth of life” <a id="a148_120"></a>[UB 144:5.21](/en/The_Urantia_Book/144#p5_21) find it natural to make its content known. His teachings seem to us such an extraordinary gift that we find it almost immoral to keep them only for ourselves; hence we want to share them with as many people as possible.
+Sooner or later, all of us who have adopted the teachings of the book as our guide in “the uncertain labyrinth of life” <a id="a149_120"></a>[UB 144:5.21](/en/The_Urantia_Book/144#p5_21) find it natural to make its content known. His teachings seem to us such an extraordinary gift that we find it almost immoral to keep them only for ourselves; hence we want to share them with as many people as possible.
 
 However, it is not long before we realize that our enthusiasm for the book is not easily contagious. Apart from the fact that not everyone is looking for or prepared for the book, it could also be that our way of making it known is not adequate. Because, as in almost everything in life, the form matters as much as the content.
 
@@ -190,7 +190,7 @@ Finally, and with this I end this presentation, I would like to encourage you to
 
 It also doesn't matter if those who listen to you are three people or three hundred; When it comes to diffusion, it is not quantity that we are looking for, but quality. Sometimes we can feel discouraged because very few people have come to a talk. But, who knows if one, two, or three of the people who have attended will later be the catalysts that give new impetus to the dissemination of the book in that area? This revelation will spread slowly, and it will be very difficult for us to see spectacular and immediate results; We have discussed this on numerous occasions. The important thing is to sow.
 
-Remember what the book says: “_The act is ours; the consequences belong to God_” <a id="a191_81"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+Remember what the book says: “_The act is ours; the consequences belong to God_” <a id="a192_81"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV33/09.jpg">
