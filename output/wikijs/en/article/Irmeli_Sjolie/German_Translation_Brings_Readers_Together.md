@@ -3,7 +3,7 @@ title: "German Translation Brings Readers Together"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Dissemination, The Urantia Book—German, Urantia Foundation, article
+tags: Dissemination, The Urantia Book—German, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

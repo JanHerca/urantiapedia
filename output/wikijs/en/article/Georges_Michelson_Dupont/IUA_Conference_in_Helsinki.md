@@ -3,7 +3,7 @@ title: "IUA Conference in Helsinki"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: History of Urantia Foundation, Urantia Foundation, article
+tags: History of Urantia Foundation, Urantia Foundation, Urantian News, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

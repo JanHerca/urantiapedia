@@ -3,7 +3,7 @@ title: "URANTIA Brotherhood Association"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Fellowship, Urantia Foundation, article
+tags: Fellowship, Urantia Foundation, Urantian News, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

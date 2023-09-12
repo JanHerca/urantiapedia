@@ -3,7 +3,7 @@ title: "My Experiences with the Spanish Revision"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: The Urantia Book—Spanish, Urantia Foundation, article
+tags: The Urantia Book—Spanish, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

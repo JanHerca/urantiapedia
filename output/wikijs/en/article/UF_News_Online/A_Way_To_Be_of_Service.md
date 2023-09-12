@@ -3,7 +3,7 @@ title: "A Way To Be of Service"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Service, Service Opportunities, Urantia Foundation, article
+tags: Service, Service Opportunities, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

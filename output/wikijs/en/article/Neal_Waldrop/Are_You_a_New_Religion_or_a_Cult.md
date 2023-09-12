@@ -3,7 +3,7 @@ title: "Are You a New Religion or a Cult?"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: The Urantia Book, Urantia Foundation, article
+tags: The Urantia Book, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

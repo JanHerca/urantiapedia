@@ -3,7 +3,7 @@ title: "Fast Start for Urantia Book Study Group Portal — Tri-Partisan Support 
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Study Groups, Urantia Foundation, article
+tags: Study Groups, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

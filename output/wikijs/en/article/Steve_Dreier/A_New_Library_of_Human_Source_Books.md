@@ -3,7 +3,7 @@ title: "A New Library of Human Source Books"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Source Book, Source authors, Urantia Foundation, article
+tags: Source Book, Source authors, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

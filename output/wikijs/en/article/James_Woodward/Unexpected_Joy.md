@@ -3,7 +3,7 @@ title: "Unexpected Joy"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Interfaith, Urantia Movement Event, Urantia Foundation, article
+tags: Interfaith, Urantia Movement Event, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

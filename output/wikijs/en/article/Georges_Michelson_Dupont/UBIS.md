@@ -3,7 +3,7 @@ title: "UBIS... Celebrating 10 Years of Dedicated Service To The Urantia Book Co
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: UBIS, Urantia Foundation, article
+tags: UBIS, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

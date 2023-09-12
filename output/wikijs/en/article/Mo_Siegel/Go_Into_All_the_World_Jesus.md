@@ -3,7 +3,7 @@ title: "“Go Into All the World” — Jesus"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Jesus teachings, Urantia Foundation, article
+tags: Jesus teachings, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

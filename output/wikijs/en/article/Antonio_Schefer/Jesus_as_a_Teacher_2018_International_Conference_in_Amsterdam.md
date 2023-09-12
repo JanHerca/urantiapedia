@@ -3,7 +3,7 @@ title: "Jesus as a Teacher—2018 International Conference in Amsterdam"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Movement Event, Urantia Foundation, article
+tags: Urantia Movement Event, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

@@ -3,7 +3,7 @@ title: "Ghana—The Teachings Spread with Conferences and Gift Books"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Movement Event, Africa, Urantia Foundation, article
+tags: Urantia Movement Event, Africa, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

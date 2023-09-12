@@ -293,8 +293,10 @@ Universe Mother Spirit
 Urantia
 Urantia Foundation
 Urantia Foundation—Copyright
+Urantia Foundation News Online
 Urantia Movement
 Urantia Movement Event
+Urantian News
 Urantiapedia
 Urantian Journal
 Video

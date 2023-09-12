@@ -3,7 +3,7 @@ title: "The Revelation Enters the 21st Century"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: History of Urantia Movement, Urantia Foundation, article
+tags: History of Urantia Movement, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

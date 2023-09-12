@@ -3,7 +3,7 @@ title: "Joint Meeting of The Urantia Book Fellowship and Urantia Foundation"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Fellowship, Urantia Foundation, article
+tags: Fellowship, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

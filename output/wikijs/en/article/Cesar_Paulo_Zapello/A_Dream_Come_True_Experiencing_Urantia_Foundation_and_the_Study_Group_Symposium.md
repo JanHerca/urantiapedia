@@ -3,7 +3,7 @@ title: "A Dream Come True: Experiencing Urantia Foundation and the Study Group S
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Study Groups, Urantia Foundation, article
+tags: Study Groups, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

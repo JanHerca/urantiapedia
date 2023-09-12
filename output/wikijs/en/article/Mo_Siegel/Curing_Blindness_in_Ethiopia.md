@@ -3,7 +3,7 @@ title: "Curing Blindness in Ethiopia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Service, Service Opportunities, Africa, Urantia Foundation, article
+tags: Service, Service Opportunities, Africa, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

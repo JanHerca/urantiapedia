@@ -3,7 +3,7 @@ title: "The Presence of Urantia Peru at the Cusco International Book Fair 2019"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Dissemination, Latin America, Urantia Movement Event, Urantia Foundation, article
+tags: Dissemination, Latin America, Urantia Movement Event, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

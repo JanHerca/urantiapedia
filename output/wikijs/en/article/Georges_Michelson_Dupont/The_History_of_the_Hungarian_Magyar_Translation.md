@@ -3,7 +3,7 @@ title: "The History of the Hungarian (Magyar) Translation"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: The Urantia Book—Hungarian, Urantia Foundation, article
+tags: The Urantia Book—Hungarian, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

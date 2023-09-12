@@ -3,7 +3,7 @@ title: "A Report on Translations of The Urantia Book"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: The Urantia Book—Chinese, The Urantia Book—Czech, The Urantia Book—Danish, The Urantia Book—Farsi, The Urantia Book—Greek, The Urantia Book—Hebrew, The Urantia Book—Indonesian, The Urantia Book—Japanese, The Urantia Book—Portuguese, The Urantia Book—Russian, The Urantia Book—Spanish, The Urantia Book—Ukrainian, Urantia Foundation, article
+tags: The Urantia Book—Chinese, The Urantia Book—Czech, The Urantia Book—Danish, The Urantia Book—Farsi, The Urantia Book—Greek, The Urantia Book—Hebrew, The Urantia Book—Indonesian, The Urantia Book—Japanese, The Urantia Book—Portuguese, The Urantia Book—Russian, The Urantia Book—Spanish, The Urantia Book—Ukrainian, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

@@ -36,7 +36,8 @@ class Articles {
 		'Fellowship Herald', 
 		'Mighty Messenger', 
 		'Luz y Vida',
-		'Urantia Foundation'
+		'Urantian News',
+		'Urantia Foundation News Online'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});

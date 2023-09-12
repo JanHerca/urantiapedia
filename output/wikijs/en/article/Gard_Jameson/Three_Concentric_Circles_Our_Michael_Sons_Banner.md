@@ -3,7 +3,7 @@ title: "Three Concentric Circles — Our Michael Son's Banner"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Foundation, article
+tags: Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
