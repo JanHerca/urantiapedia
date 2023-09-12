@@ -696,12 +696,12 @@ class Articles {
 										article.publication = pub;
 									}
 								}
-								if (line.startsWith('<p class="v-card')) {
-									if (copys.length > 1) {
+								if (line.startsWith('<p class="v-card') &&
+									copys.length > 0) {
+									if (copys[0].length > 2) {
 										article.author = copys[0][2];
 										article.year = copys[0][1];
-									}
-									if (copys.length === 1) {
+									} else if (copys[0].length > 1) {
 										article.year = copys[0][1];
 									}
 								}

@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Halbert Katzen J.D.**[^1]
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+
+_By Halbert Katzen J.D._[^1]
 
 ## Summary
 

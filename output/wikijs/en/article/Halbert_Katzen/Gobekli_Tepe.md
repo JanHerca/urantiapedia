@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Halbert Katzen J.D.**
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+
+_By Halbert Katzen J.D._
 
 <figure id="Gobekli_Tepe_fig_1" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe01.jpg" width="1200" heigth="996">

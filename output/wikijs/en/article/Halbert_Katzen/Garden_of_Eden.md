@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Halbert Katzen J.D.**[^1]
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+
+_By Halbert Katzen J.D._[^1]
 
 A description of the location and physical characteristics of the Garden of Eden is provided in *The Urantia Book*. The location is said to have been on a long narrow peninsula that extended off the eastern coast of the Mediterranean Sea. According to *The Urantia Book*, Adam and Eve first lived at this location almost 38,000 years ago, and it further states that this peninsula sank into the Mediterranean Sea approximately 34,000 years ago. The topography of the seafloor in an area between Cyprus and the Syrian coast fits the description and looks to be the only area that could. Today, this area off the eastern coast of Mediterranean Sea drops down sharply, quickly reaching a depth of nearly one mile.
 

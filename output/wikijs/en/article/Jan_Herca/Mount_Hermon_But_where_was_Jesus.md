@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Jan Herca**
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca</p>
 
 With so many details that _The Urantia Book_ offers about the place where Jesus remained in retirement for six weeks, it couldn't be very difficult to locate the place and get a little idea of ​​what it is like and above all, how it was.
 
