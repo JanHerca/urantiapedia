@@ -1658,12 +1658,17 @@ class Book {
 				.map(f => f.index);
 			const paralellsFn = (paralells ? 
 				paralells.getParalells(index) : []);
-			const articlesFn = (articles ? articles.getParalells(index) : []);
+			const aParalells = (articles ? articles.getParalells(index) : []);
+			const articlesFn = aParalells.filter(p => p.suffix === 'a');
+			const study_aidsFn = aParalells.filter(p => p.suffix === 's');
 
 			const footnoteDef = [
 				{section: Strings['articles'][this.language], 
 					footnotes: articlesFn, index: 0, 
 					suffix: 'a', twemoji: '1f4c3', alt: '📃'},
+				{section: Strings['study_aids'][this.language],
+					footnotes: study_aidsFn, index: 0,
+					suffix: 's', twemoji: '1f4d3', alt: '📓'},
 				{section: Strings['bibleName'][this.language], 
 					footnotes: paramonyFn, index: 0, 
 					suffix: 'b', twemoji: '1f4d5', alt: '📕'},
@@ -1878,20 +1883,33 @@ class Book {
 	 * @return {string}
 	 */
 	addFootnoteMarks = (footnoteDef, pcontent, par) => {
-		const cite = `<sup id="cite_{1}{0}"><a href="#fn_{1}{0}">[{0}]</a>` +
+		const cite = `<sup id="{1}"><a href="#fn_{2}{0}">[{0}]</a>` +
 			`</sup>`;
 		const icon = `<img class="emoji" draggable="false" alt="{0}" ` +
 			`src="/_assets/svg/twemoji/{1}.svg">`;
+		const ref = par.par_ref.split(/[:\.]/);
 		footnoteDef.forEach(fnsection => {
+			const oldFn = (fnsection.suffix != 'a' && fnsection.suffix != 's');
+			const urls = (oldFn ? [] : 
+				fnsection.footnotes.map(f => f.url).sort());
 			fnsection.footnotes
-				.filter(fn => fn.par_ref === par.par_ref)
+				.filter(fn => {
+					return (fn.par_ref ? fn.par_ref === par.par_ref :
+						fn.par_refs.indexOf(par.par_ref) != -1);
+				})
 				.forEach((fn, k) => {
 					fnsection.index++;
-					const fni = fnsection.index;
+					const fni = (oldFn ? fnsection.index : 
+						fnsection.footnotes.indexOf(fn) + 1);
+					const citei = fnsection.index;
 					const fns = fnsection.suffix;
 					const fna = fnsection.alt;
 					const fnt = fnsection.twemoji;
-					const text = strformat(cite, fni, fns);
+					const cite_id = (oldFn ? 
+						strformat('cite_{0}{1}', fns, citei) :
+						strformat('cite_{0}{1}_{2}_{3}', fns, ref[1], ref[2], 
+							urls.indexOf(fn.url)));
+					const text = strformat(cite, fni, cite_id, fns);
 					const fnicon = strformat(icon, fna, fnt);
 					const i2 = par.par_content.indexOf(`{${fn.index}}`);
 					const i1 = par.par_content.indexOf(`{${fn.index-1}}`);
@@ -2032,6 +2050,7 @@ class Book {
 			'column-width: 30em; margin-top: 1em;';
 		const cite = `  <li {0}id="fn_{2}{1}">` +
 			`<a href="#cite_{2}{1}">↑</a>{3}</li>\r\n`;
+		const cite2 = `  <li {0}id="fn_{2}{1}">{3}</li>\r\n`;
 		let html = '';
 		html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
 		footnoteDef.forEach(fnsection => {
@@ -2048,7 +2067,11 @@ class Book {
 				`padding-top: 0px;">\r\n`;
 			fnsection.footnotes.forEach((f, n) => {
 				const style2 = (n === 0 ? 'style="margin-top:0px;" ' : '');
-				html += strformat(cite, style2, n+1, fns, f.html);
+				if (fns === 'a' || fns === 's') {
+					html += strformat(cite2, style2, n+1, fns, f.html);
+				} else {
+					html += strformat(cite, style2, n+1, fns, f.html);
+				}
 			});
 			html += '</ol>\r\n</div>\r\n';
 		});

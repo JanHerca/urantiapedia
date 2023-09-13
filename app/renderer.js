@@ -677,10 +677,15 @@ const handle_exeButtonClick = () => {
 		// Get paths to several UB versions +
 		// Reads all UB versions (*.json) +
 		// Checks book versions + Writes (Wiki.js *.html)
+
 		//TODO: Add links to topics in english and master versions
 		//TODO: Add Extended index in headers
 		//TODO: Add authors in Index (not in Extended)
 		//TODO: Add links in home page & About UB page to go directly to multi
+		//TODO: Add a diff system
+		//TODO: Create new Study Aid section
+		//TODO: Improve refs reducing the repetition of articles
+		//TODO: Allow images to be also centered (not only left by default)
 		paralells.read()
 			.then(() => articles.readUBParalellsFromTSV(txtFile))
 			.then(() => {
@@ -1022,8 +1027,6 @@ const handle_exeButtonClick = () => {
 				.catch(onFail);
 		}
 	} else if (process === 'ARTICLE_CREATE_PARALELLS_FROM_WIKIJS') {
-		//TODO: Add UF publications, not name Urantia Foundation
-		//TODO: When creating UB papers, create new Study Aid section
 		// Reads UB (*.json)
 		// Reads articles (*.md)
 		// Writes cross refs (paralells) (*.tsv)

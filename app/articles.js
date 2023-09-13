@@ -7,7 +7,7 @@ const markdownIt = require('markdown-it')({
 	typographer: true
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
-	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags,
+	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags, strformat,
 	fixWikijsHeader, getWikijsArticleLinks, getFiles, autoCorrect} = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -117,47 +117,88 @@ class Articles {
 	 * the footnote must be inserted at the end of the paragraph.
 	 * - html: HTML fragment to add in the References section of Urantia Book 
 	 * paper.
+	 * - suffix: 'a' for articles or 's' for study aids.
 	 * Returns an empty array if no paralell exists.
 	 */
 	getParalells = (paperIndex) => {
-		const result = this.paralells
-			.filter(p => p.ref.startsWith(`${paperIndex},`))
-			.reduce((ac, cur) => {
-				const id = cur.ref + cur.title;
-				const prev = ac.find(p => p.ref + p.title === id);
-				if (prev) {
-					prev.anchors.push(cur.anchor);
-				} else {
+		const paralells = this.paralells
+			.filter(p => p.ref.startsWith(`${paperIndex},`));
+		const urls = {
+			a: paralells.filter(p => p.anchor[0] === 'a')
+				.map(p => p.url).filter((u, i, ar) => ar.indexOf(u) === i)
+				.sort(),
+			s: paralells.filter(p => p.anchor[0] === 's')
+				.map(p => p.url).filter((u, i, ar) => ar.indexOf(u) === i)
+				.sort()
+		};
+
+		const result = paralells
+			.reduce((ac, cur, i, arr) => {
+				const prev = ac.find(p => p.url === cur.url);
+				if (!prev) {
 					const newp = {...cur};
 					delete newp.anchor;
-					newp.anchors = [cur.anchor];
+					delete newp.ref;
+					newp.refs = arr
+						.filter(p => p.url === cur.url)
+						.sort((a,b) => {
+							if (a.ref > b.ref) return 1;
+							if (a.ref < b.ref) return -1;
+							return 0;
+						})
+						.reduce((ac2, cur2) => {
+							const prev2 = ac2.find(r => r.ref === cur2.ref);
+							if (prev2) {
+								prev2.anchors.push(cur2.anchor);
+							} else {
+								ac2.push({
+									ref: cur2.ref,
+									anchors: [cur2.anchor]
+								});
+							}
+							return ac2;
+						}, []);
+					newp.refs.forEach(r => r.anchors.sort());
+					newp.suffix = cur.anchor[0];
 					ac.push(newp);
 				}
 				return ac;
 			}, [])
 			.map(p => {
-				const r = p.ref.split(',');
-				const ref = (r.length == 2 ? `${r[0]}:${r[1]}` :
-					`${r[0]}:${r[1]}.${r[2]}`);
-				const s = parseInt(r[1]) * 1000 + 
-					(r.length === 3 ? parseInt(r[2]) : 0);
-				const url0 = p.url + '#' + p.anchors[0];
-				const link = (p.anchors.length === 1 ?
-					`<a href="${url0}"><i>${p.title}</i></a>` :
-					`<i>${p.title}</i> ` + p.anchors.map((a,i) => {
-						return `<a href="${p.url + '#' + a}">#${i+1}</a>`;
-					}).join(', '));
+				const r0 = p.refs[0].ref.split(',');
+				const s = parseInt(r0[1]) * 1000 + 
+					(r0.length === 3 ? parseInt(r0[2]) : 0);
+				const back1 = '<a href="#p{0}">↑ {1}</a>';
+				const back2 = '<a href="#cite_{0}{1}_{2}_{3}">↑ {4}</a>';
+				const refs = [];
+				const link = p.refs.map((r, i) => {
+					const ra = r.ref.split(',');
+					const ref = (ra.length == 2 ? `${ra[0]}:${ra[1]}` :
+						`${ra[0]}:${ra[1]}.${ra[2]}`);
+					const index = urls[p.suffix].indexOf(p.url);
+					const hback = (ra.length == 2 ?
+						strformat(back1, ra[1], ref) :
+						strformat(back2, p.suffix, ra[1], ra[2], index, ref));
+					const links = r.anchors.map((a, j) => {
+						return `<a href="${p.url + '#' + a}">#${j+1}</a>`;
+					}).join(', ');
+					refs.push(ref);
+					return hback + ': ' + links;
+				}).join('; ') + '.';
+				const title = ` <a href="${p.url}"><i>${p.title}</i></a>`;
 				const author = (p.author != '' ? 
 					`, ${replaceTags(p.author, '_', '_', '<i>', '</i>', [])}` : 
 					'')
-				const html = ' ' + link + author +
-					(p.publication != '' ? `, ${p.publication}` : '') +
-					(p.year != '' ? `, ${p.year}` : '');
+				const pub = (p.publication != '' ? `, ${p.publication}` : '');
+				const year = (p.year != '' ? `, ${p.year}` : '');
+				const html = ' ' + link + title + author + pub + year;
 				return {
-					par_ref: ref,
+					par_refs: refs,
 					sorting: s,
 					location: 999,
-					html: html
+					html: html,
+					suffix: p.suffix,
+					url: p.url
 				};
 			});
 		result.sort((a, b) => a.sorting - b.sorting);
