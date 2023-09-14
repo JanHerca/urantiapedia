@@ -69,9 +69,6 @@ CSS will automatically be minified. */
     width: 400px;
     padding-top: 16px
 }
-.v-main .contents small:target, .v-main .contents sup:target {
-    background-color: #ffa;
-}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {
