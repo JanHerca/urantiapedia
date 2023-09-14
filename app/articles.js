@@ -168,17 +168,21 @@ class Articles {
 				const r0 = p.refs[0].ref.split(',');
 				const s = parseInt(r0[1]) * 1000 + 
 					(r0.length === 3 ? parseInt(r0[2]) : 0);
-				const back1 = '<a href="#p{0}">↑ {1}</a>';
-				const back2 = '<a href="#cite_{0}{1}_{2}_{3}">↑ {4}</a>';
+				const back = '<a href="{0}">↑ <small{1}>{2}</small></a>';
 				const refs = [];
-				const link = p.refs.map((r, i) => {
+				const link = p.refs.map(r => {
 					const ra = r.ref.split(',');
 					const ref = (ra.length == 2 ? `${ra[0]}:${ra[1]}` :
 						`${ra[0]}:${ra[1]}.${ra[2]}`);
 					const index = urls[p.suffix].indexOf(p.url);
-					const hback = (ra.length == 2 ?
-						strformat(back1, ra[1], ref) :
-						strformat(back2, p.suffix, ra[1], ra[2], index, ref));
+					const cite_format = (ra.length == 2 ? '#p{0}' :
+						'#cite_{0}{1}_{2}_{3}');
+					const cite_id = (ra.length == 2 ?
+						strformat(cite_format, ra[1]) :
+						strformat(cite_format, p.suffix, ra[1], ra[2], index));
+					const small_id = (ra.length == 2 ? '' : 
+						' id="' + cite_id.replace('#cite', 'fn') + '"');
+					const hback = strformat(back, cite_id, small_id, ref);
 					const links = r.anchors.map((a, j) => {
 						return `<a href="${p.url + '#' + a}">#${j+1}</a>`;
 					}).join(', ');

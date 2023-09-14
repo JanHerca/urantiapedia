@@ -1883,11 +1883,10 @@ class Book {
 	 * @return {string}
 	 */
 	addFootnoteMarks = (footnoteDef, pcontent, par) => {
-		const cite = `<sup id="{1}"><a href="#fn_{2}{0}">[{0}]</a>` +
-			`</sup>`;
+		const cite = `<sup id="{0}"><a href="{1}">[{2}]</a></sup>`;
 		const icon = `<img class="emoji" draggable="false" alt="{0}" ` +
 			`src="/_assets/svg/twemoji/{1}.svg">`;
-		const ref = par.par_ref.split(/[:\.]/);
+		const r = par.par_ref.split(/[:\.]/);
 		footnoteDef.forEach(fnsection => {
 			const oldFn = (fnsection.suffix != 'a' && fnsection.suffix != 's');
 			const urls = (oldFn ? [] : 
@@ -1905,11 +1904,16 @@ class Book {
 					const fns = fnsection.suffix;
 					const fna = fnsection.alt;
 					const fnt = fnsection.twemoji;
+					const i = urls.indexOf(fn.url);
 					const cite_id = (oldFn ? 
 						strformat('cite_{0}{1}', fns, citei) :
-						strformat('cite_{0}{1}_{2}_{3}', fns, ref[1], ref[2], 
-							urls.indexOf(fn.url)));
-					const text = strformat(cite, fni, cite_id, fns);
+						strformat('cite_{0}{1}_{2}_{3}', fns, r[1], r[2], i)
+					);
+					const link = (oldFn ?
+						strformat('#fn_{0}{1}', fns, fni) :
+						strformat('#fn_{0}{1}_{2}_{3}', fns, r[1], r[2], i)
+					);
+					const text = strformat(cite, cite_id, link, fni);
 					const fnicon = strformat(icon, fna, fnt);
 					const i2 = par.par_content.indexOf(`{${fn.index}}`);
 					const i1 = par.par_content.indexOf(`{${fn.index-1}}`);
@@ -2048,9 +2052,10 @@ class Book {
 			`src="/_assets/svg/twemoji/{1}.svg">`;
 		const style = '-moz-column-width: 30em; -webkit-column-width: 30em; ' +
 			'column-width: 30em; margin-top: 1em;';
-		const cite = `  <li {0}id="fn_{2}{1}">` +
-			`<a href="#cite_{2}{1}">↑</a>{3}</li>\r\n`;
-		const cite2 = `  <li {0}id="fn_{2}{1}">{3}</li>\r\n`;
+		const cite = 
+			`  <li{0}><a href="#cite_{2}{1}">↑ <small id="fn_{2}{1}">`+
+			`{4}</small></a>{3}</li>\r\n`;
+		const cite2 = `  <li{0}>{1}</li>\r\n`;
 		let html = '';
 		html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
 		footnoteDef.forEach(fnsection => {
@@ -2066,11 +2071,12 @@ class Book {
 			html += `<div style="${style}">\r\n<ol style="margin: 0; ` +
 				`padding-top: 0px;">\r\n`;
 			fnsection.footnotes.forEach((f, n) => {
-				const style2 = (n === 0 ? 'style="margin-top:0px;" ' : '');
+				const style2 = (n === 0 ? ' style="margin-top:0px;"' : '');
 				if (fns === 'a' || fns === 's') {
-					html += strformat(cite2, style2, n+1, fns, f.html);
+					html += strformat(cite2, style2, f.html);
 				} else {
-					html += strformat(cite, style2, n+1, fns, f.html);
+					html += strformat(cite, style2, n+1, fns, f.html, 
+						f.par_ref);
 				}
 			});
 			html += '</ol>\r\n</div>\r\n';
