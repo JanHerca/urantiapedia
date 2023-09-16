@@ -200,6 +200,7 @@ Mystery Monitors
 Mysticism
 Mithology
 Nebadon
+NewsFlash
 Order
 Paleontology
 Pattern
