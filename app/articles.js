@@ -1060,7 +1060,7 @@ class Articles {
 				const reLink = new RegExp('\\[[^\\]]+\\]' +
 					`\\(\/${this.language}\/` +
 					'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
-				const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
+				const reAnchor = new RegExp('<a id="[as]\\d+_\\d+"><\\/a>', 'g');
 				const promises = ffiles.map(filePath => {
 					const filePath2 = filePath.replace(/\\/g, '/');
 					const isStudyAid = studyAidPaths
