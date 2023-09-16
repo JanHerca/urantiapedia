@@ -18,7 +18,8 @@ A quaterly publication from Urantia Foundation since 2007.
 
 The index of all available issues is here: [Index of _Urantia Foundation_'s News Online articles](/en/index/articles_uf_news_online).
 
-Source: 
+Sources: 
+- https://www.urantia.org/news
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html
 
@@ -28,9 +29,10 @@ Source:
 
 A quaterly publication from Urantia Foundation with internal organization news.
 
-Coming soon to Urantiapedia.
+The index of all available issues is here: [Index of _Urantia Foundation_'s NewsFlash! articles](/en/index/articles_uf_newsflash).
 
-Source: 
+Sources: 
+- https://www.urantia.org/news
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html
 
@@ -42,7 +44,8 @@ An old quaterly publication from Urantia Foundation from 1973 to 1998, when it w
 
 The index of all available issues is here: [Index of _Urantia Foundation_'s Urantian News articles](/en/index/articles_uf_urantian).
 
-Source: 
+Sources: 
+- https://www.urantia.org/news
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html
 
