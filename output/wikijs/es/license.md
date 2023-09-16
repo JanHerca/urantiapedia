@@ -58,12 +58,10 @@ El contenido con restricciones debido a los derechos de autor se identifica medi
 
 #### Contenido protegido por derechos de autor
 
-- _El Libro de Urantia_ (todas las traducciones del inglés), es propiedad intelectual de [Fundación Urantia](https://www.urantia.org/).
+- _El Libro de Urantia_ (todas las traducciones a partir del inglés), es propiedad intelectual de [Fundación Urantia](https://www.urantia.org/).
 - _Paramony_, el índice de referencias cruzadas entre la Biblia y _El Libro de Urantia_ que aparece como notas a pie de página en _El Libro de Urantia_ y las páginas de la Biblia (en todos los idiomas), es propiedad intelectual de [Duane L. Faw y _The Urantia Book_ Fellowship](https://urantia-book.org/urantiabook/paramony/).
-- Los artículos de [Innerface International](/es/index/articles_innerface) (en todos los idiomas) son propiedad intelectual de cada autor y de [_The Urantia Book_ Fellowship](https://urantiabook.org/).
-- Los artículos de [Urantian Journal](/es/index/articles_the_urantian) (en todos los idiomas) son propiedad intelectual de cada autor y de [_The Urantia Book_ Fellowship](https://urantiabook.org/).
-- Los artículos de [Fellowship Journal](/es/index/articles_spiritual_fellowship_journal) (en todos los idiomas) son propiedad intelectual de cada autor y de _[The Urantia Book_ Fellowship](https://urantiabook.org/).
-- Los artículos de [Fellowship Herald](/es/index/articles_herald) (en todos los idiomas) son propiedad intelectual de cada autor y de [_The Urantia Book_ Fellowship](https://urantiabook.org/).
+- Los artículos (en todos los idiomas) de [Fellowship Herald](/es/index/articles_herald) y [Mighty Messenger](/es/index/articles_mighty_messenger) son propiedad intelectual de cada autor y de [_The Urantia Book_ Fellowship](https://urantiabook.org/).
+- Los artículos (en todos los idiomas) de [Innerface International](/es/index/articles_innerface) son propiedad intelectual de cada autor y de [Brotherhood of Man Library](https://urantia-book.org/archive/newsletters/innerface/index.html).
 - Los artículos del [Boletín “Luz y Vida”](/es/index/articles_luz_y_vida), son copyright de cada autor y de la [Asociación Urantia Española](https://aue.urantia-association.org/).
 - Los artículos de [UB Annotated & UBTheNews](/es/index/articles#ub-annotaded-ubthenews) (en todos los idiomas) son propiedad intelectual de [Halbert Katzen](https://ubannotated.com/).
 - Los artículos de [Jan Herca](/es/index/articles#artículos-de-jan-herca) (en todos los idiomas) son copyright de [Jan Herca](https://buscandoajesus.wordpress.com) y están disponibles bajo la [Licencia Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).

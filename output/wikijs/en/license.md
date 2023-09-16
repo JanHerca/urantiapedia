@@ -60,11 +60,10 @@ The content with restrictions due to copyrights is identified by a [copyright no
 
 - The Urantia Book (all translations from English), is copyright of [Urantia Foundation](https://www.urantia.org/).
 - _Paramony_, the cross-reference index between Bible and _The Urantia Book_ that appears as footnotes in _The Urantia Book_ and Bible pages (in all languages), is copyright of [Duane L. Faw and The Urantia Book Fellowship](https://urantia-book.org/urantiabook/paramony/).
-- Articles from [Innerface International](/en/index/articles_innerface) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articles from [Urantian Journal](/en/index/articles_the_urantian) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articles from [Fellowship Journal](/en/index/articles_spiritual_fellowship_journal) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articles from [Fellowship Herald](/en/index/articles_herald) (in all languages) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
-- Articles from [“Luz y Vida” Newsletter](/es/index/articles_luz_y_vida), are copyright of each author and [Urantia Spanish Association](https://aue.urantia-association.org/).
+- Articles (in all languages) from [Urantia Foundation's News Online](/en/index/articles_uf_news_online), [NewsFlash!](/en/index/articles_uf_newsflash), and [Urantian News](/en/index/articles_uf_urantian) are copyright of each author and of [Urantia Foundation](https://urantia.org/).
+- Articles (in all languages) from [Fellowship Herald](/en/index/articles_herald) and [Mighty Messenger](/en/index/articles_mighty_messenger) are copyright of each author and of [The Urantia Book Fellowship](https://urantiabook.org/).
+- Articles (in all languages) from [Innerface International](/en/index/articles_innerface) are copyright of each author and of [The Brotherhood of Man Library](https://urantia-book.org/archive/newsletters/innerface/index.html).
+- Articles from [“Luz y Vida” Newsletter](/en/index/articles_luz_y_vida), are copyright of each author and [Urantia Spanish Association](https://aue.urantia-association.org/).
 - Articles from [UB Annotated & UBTheNews](/en/index/articles#ub-annotaded-ubthenews) (in all languages) are copyright of [Halbert Katzen](https://ubannotated.com/).
 - Articles from [Jan Herca](/en/index/articles#articles-from-jan-herca) (in all languages) are copyright of [Jan Herca](https://buscandoajesus.wordpress.com) and are available under the [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Other articles not belonging to previous groups (in all languages) are copyright of the authors indicated.
