@@ -116,9 +116,11 @@ Source: https://urantia-association.org/journal-online/
 
 The _Tidings_ newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.
 
-The index of all available issues is here: [International Association Tidings](/en/index/articles_tidings).
+The index of all available issues is here: [International Association Tidings](/en/index/articles_iua_tidings).
 
-Source: https://urantia-association.org/about-tidings-newsletter/
+Sources: 
+- https://urantia-association.org/about-tidings-newsletter/
+- https://urantia-association.org/tidings-online-archives/
 
 ## Brotherhood of Man Library
 
