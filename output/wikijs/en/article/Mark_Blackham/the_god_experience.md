@@ -13,7 +13,7 @@ dateCreated: 2023-9-16T10:55:6Z
 ## Written by a Urantia Book Student
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/2023_06/GodExperience-scaled.jpg">
+<img src="../../../image/article/IUA_Tidings/GodExperience-scaled.jpg">
 </figure>
 
 _The God Experience_ is founded on the concepts, values, and ideals portrayed in _The Urantia Book_. With those matchless teachings woven throughout its pages, it is a welcoming and approachable guide to embracing God and spirituality. And while it only mentions _The Urantia Book_ briefly in the first chapter, it does include many short quotations, an appetite-whetting feature that will lead the curious reader to the original source.

@@ -11,7 +11,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 International Urantia Association (IUA)</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/2023_03/PIRT-LOGO-TIDINGS-HEADER.jpg">
+<img src="../../../image/article/IUA_Tidings/PIRT-LOGO-TIDINGS-HEADER.jpg">
 </figure>
 
 Jim has been a “breath of fresh air” – the unexpected jewel among all of the great inmates (185) that I have heard from over the past few years.
@@ -61,7 +61,7 @@ In Jim’s third letter, which was a bit delayed, he explained that he had been 
 For two years I have received beautiful Christmas cards from Jim. My cards came back because of prison rules so we sent a used copy of the indexed version this year for Jim to have again and he was ecstatic to receive it.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/2023_06/RD-Spiritual-journey-300x223.jpg">
+<img src="../../../image/article/IUA_Tidings/RD-Spiritual-journey-300x223.jpg">
 <figcaption><em>Rienaldo Dennes</em></figcaption>
 </figure>
 

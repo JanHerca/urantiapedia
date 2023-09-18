@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
 > “I declare that you must be reborn.” ([UB 140:6.2](/en/The_Urantia_Book/140#p6_2))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/2023_03/James-Woodward-headshot-150x150.jpeg">
+<img src="../../../image/article/IUA_Tidings/James-Woodward-headshot-150x150.jpeg">
 </figure>
 
 This command is very important. To be reborn means that you first must die. Of course, this teaching invokes the spiritual meaning, not the cessation of physical life. Since the body and mind do not die with this rebirth in the spirit, what exactly does? What must die before something new can be reborn?
@@ -31,7 +31,7 @@ The self exhibits a range of maturity, or evolution. The best spiritual advice i
 > Prayer is self-reminding — sublime thinking; worship is self-forgetting — superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion. ([UB 143:7.7](/en/The_Urantia_Book/143#p7_7))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/2023_06/Ian-Lindsay-267x400.jpg">
+<img src="../../../image/article/IUA_Tidings/Ian-Lindsay-267x400.jpg">
 </figure>
 
 The journey of transformation, to being grown in the spirit, is dramatic but not necessarily traumatic! Personality is the container and unifier of our self, a precious gift from Father because each one is unique. We can trust that growth can—and will be—accommodated within the protective sphere of our personality, since, subject to our free-will fusion decision, progress is an eternal process. The assurance of personality survival is the flagship of faith.

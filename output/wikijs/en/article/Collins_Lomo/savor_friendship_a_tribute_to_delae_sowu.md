@@ -11,7 +11,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Collins Lomo<br>© 2023 International Urantia Association (IUA)</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/2023_06/Delae-pic.jpg">
+<img src="../../../image/article/IUA_Tidings/Delae-pic.jpg">
 <figcaption><em>Delae Sowu (center)</em></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ In this part of the world, it’s not always easy to get readers to participate 
 As a study group host, I sometimes wanted to cancel meetings due to pressing personal activities but the thought of my friends who were longing to share our time together was enough for me to sacrifice all matters just to come meet and connect with members to discuss the book. I know there are readers who won’t miss our once-a-month meetings for anything in the world, so I respond likewise. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/2023_06/Collins-Lomo-adj.jpg">
+<img src="../../../image/article/IUA_Tidings/Collins-Lomo-adj.jpg">
 <figcaption><em>Collins Lomo</em></figcaption>
 </figure>
 
