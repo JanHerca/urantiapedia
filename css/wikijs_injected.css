@@ -69,6 +69,21 @@ CSS will automatically be minified. */
     width: 400px;
     padding-top: 16px
 }
+.v-main .contents .responsive-embed {
+    position: relative;
+    padding-bottom: 56.2%;
+    height: 0;
+    margin: 10px 0;
+    overflow: hidden;
+}
+.v-main .contents .responsive-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {
