@@ -3,7 +3,7 @@ title: "2015 Easter Spirit Renewal and Sacred Art Retreat"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Tidings, article
+tags: Urantia Movement Event, IUA, Tidings, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---

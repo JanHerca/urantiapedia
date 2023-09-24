@@ -3,7 +3,7 @@ title: "Parliament of World’s Religions Report"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: Dissemination, IUA, Tidings, article
+tags: Urantia Movement Event, Dissemination, IUA, Tidings, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---

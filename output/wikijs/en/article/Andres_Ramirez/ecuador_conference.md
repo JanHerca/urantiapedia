@@ -2,7 +2,7 @@
 title: "Ecuador Conference"
 description: 
 published: true
-date: IUA, Tidings, article
+date: Urantia Movement Event, Conference Archives, IUA, Tidings, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---

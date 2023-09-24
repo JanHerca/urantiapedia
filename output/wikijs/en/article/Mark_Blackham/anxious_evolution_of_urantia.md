@@ -3,7 +3,7 @@ title: "The Anxious Evolution of Urantia"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Tidings, article
+tags: Civilization & Society, Evolution, IUA, Tidings, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---

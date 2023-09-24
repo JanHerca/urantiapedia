@@ -3,7 +3,7 @@ title: "Third 24-hour Urantiathon"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Tidings, article
+tags: Urantia Movement Event, IUA, Tidings, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---

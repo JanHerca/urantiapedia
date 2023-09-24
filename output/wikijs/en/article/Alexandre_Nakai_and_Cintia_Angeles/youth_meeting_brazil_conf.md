@@ -3,7 +3,7 @@ title: "Latin American Youth Meeting – Brazil 2018"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Tidings, article
+tags: Urantia Movement Event, Conference Archives, IUA, Tidings, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
