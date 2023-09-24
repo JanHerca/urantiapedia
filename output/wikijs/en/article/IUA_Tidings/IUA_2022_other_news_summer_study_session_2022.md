@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/online_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Online Education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_isb_personnel">
+          <span class="pr-2">ISB Personnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Summer Study Session 2022
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UBF.jpg">
+<img src="/image/article/IUA_Tidings/UBF.jpg">
 <figcaption><em>UB Fellowship</em></figcaption>
 </figure>
 
@@ -55,3 +79,27 @@ Please **save the dates** and watch for the Registration information and Registr
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
 - This article: https://urantia-association.org/other-news-summer-study-session-2022
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/online_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Online Education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_isb_personnel">
+          <span class="pr-2">ISB Personnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

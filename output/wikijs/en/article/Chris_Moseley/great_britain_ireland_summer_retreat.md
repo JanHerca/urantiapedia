@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Chris Moseley<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Learning Centers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hara_Davis/soul_evolution_study_aid">
+          <span class="pr-2">Soul Evolution Study Aid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UK-Summer-Meeting.jpg">
+<img src="/image/article/IUA_Tidings/UK-Summer-Meeting.jpg">
 </figure>
 
 ## Harnessing the Combined Ministry of Nature and Grace for Growth
@@ -30,7 +54,7 @@ Email. [highleigh@cct.org.uk](mailto:highleigh@cct.org.uk)
 
 Come and explore with us the possibilities of this elusive human philosophical counterpart of mota in these times of economic and financial uncertainty.
 
-> Few mortals ever dare to draw anything like the sum of personality credits established by the combined ministries of nature and grace. The majority of impoverished souls are truly rich, but they refuse to believe it. [[UB 48:7.6](/en/The_Urantia_Book/48#p7_6)]
+> Few mortals ever dare to draw anything like the sum of personality credits established by the combined ministries of nature and grace. The majority of impoverished souls are truly rich, but they refuse to believe it. <a id="a56_219"></a>[[UB 48:7.6](/en/The_Urantia_Book/48#p7_6)]
 
 ### Program
 
@@ -63,3 +87,27 @@ Day 3 – Sunday AM | 8.30-9.30 | 60 mins | &nbsp; | Breakfast TBC
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
 - This article: https://urantia-association.org/great-britain-ireland-summer-retreat
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Learning Centers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hara_Davis/soul_evolution_study_aid">
+          <span class="pr-2">Soul Evolution Study Aid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

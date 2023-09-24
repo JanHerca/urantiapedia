@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Nestor Seda Jr. and Eugene Asidao<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_june_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – June 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eugene_Asidao/urantia_book_philippines">
+          <span class="pr-2">The Urantia Book in the Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Philippines-Conference-2020.jpg">
+<img src="/image/article/IUA_Tidings/Philippines-Conference-2020.jpg">
 </figure>
 
 The first Urantia Book National Educational Conference for the Philippines was held in November 2019 at the Gems Hotel and Conference Center in Antipolo City. The theme was “Introducing the Fifth Epochal Revelation.” The goal was to inform interested individuals on the basic teachings of _The Urantia Book_ and to link up with the different regional groups of Urantia Book readers in the Philippines. 
@@ -46,3 +70,27 @@ A regular study group in Manila started in 2016 and has continued since then. So
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
 - This article: https://urantia-association.org/urantia-book-conference-philippines
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_june_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – June 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eugene_Asidao/urantia_book_philippines">
+          <span class="pr-2">The Urantia Book in the Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

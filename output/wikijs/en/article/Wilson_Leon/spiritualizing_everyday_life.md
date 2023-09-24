@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Wilson Leon<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Iberoamerican Urantiathon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="pr-2">Dancing with God – Living in Love in Trying Times Online Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Interview with Isabel Reinoso Manrique, President of Urantia Association Colombia 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Wilson-Leon.jpg">
+<img src="/image/article/IUA_Tidings/Wilson-Leon.jpg">
 </figure>
 
 **Isabel, what new project are you considering for this time of “pandemic?”** 
@@ -32,7 +56,7 @@ Perhaps we are trying to adopt the model of life based on Dalamatia and E
 
 What we are doing as this “group of dreamers”–because that is what we are–is to first try to change ourselves internally, because if we do not live the teachings of _The Urantia Book_, if the fruits of the spirit are not expressed in us, and if we do not manage to abandon our tendency towards procrastinating ways and vices, then we will not build anything—we will just keep on living the same way we always have. 
 
-What we are all focused on is the internalization of the teachings of _The Urantia Book_, looking inside ourselves and studying and correcting our behavior in our daily routine. What does this mean? That you must, in your daily life, in every detail of your life, seek perfection. I think that is what the Father told us, “Be you perfect, even as I am perfect” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]. 
+What we are all focused on is the internalization of the teachings of _The Urantia Book_, looking inside ourselves and studying and correcting our behavior in our daily routine. What does this mean? That you must, in your daily life, in every detail of your life, seek perfection. I think that is what the Father told us, “Be you perfect, even as I am perfect” <a id="a58_361"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]. 
 
 By giving us so many opportunities, so many stages of life, from this perspective of spiritualization of everyday life, we will, step by step, achieve circles of perfection. But it’s no use reading and rereading the book for years, if you don’t transform, if you don’t change. If you do not take the sincere and real decision to be a righteous person who seeks perfection in all your deeds, including thought, word, feelings, emotions, and actions, then nothing will ever happen. 
 
@@ -41,7 +65,7 @@ That’s why all the affairs of the household should be dealt with intelligen
 **Isabel, where do you feel this kind of experiential model will take us?** 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Balingup-Community-1976-300x202.jpg">
+<img src="/image/article/IUA_Tidings/Balingup-Community-1976-300x202.jpg">
 </figure>
 
 Undoubtedly, these communities and “transition populations” will form the nuclei from which will spring forth, when the time is right, a brand new culture on Urantia. 
@@ -59,3 +83,27 @@ What is needed is that we try, at least, to contribute to the establishment of
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
 - This article: https://urantia-association.org/spiritualizing-everyday-life
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Iberoamerican Urantiathon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="pr-2">Dancing with God – Living in Love in Trying Times Online Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

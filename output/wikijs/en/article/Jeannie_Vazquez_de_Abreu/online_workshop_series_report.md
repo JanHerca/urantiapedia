@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Jeannie Vaszquez<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marlene_and_Georges_Michelson_Dupont/jean_royer_graduation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean Royer Graduation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/history_study_groups">
+          <span class="pr-2">History of Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Leadership-Workshop-Poster-300x180.jpg">
+<img src="/image/article/IUA_Tidings/Leadership-Workshop-Poster-300x180.jpg">
 </figure>
 
 A series of weekly online workshops on the subject, _Leadership and Teaching According to_ _The Urantia Book_ was organized by the Education Committee of Urantia Association International late last year. I would like to thank those who helped to make this an instructive and satisfying experience.
@@ -52,3 +76,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
 - This article: https://urantia-association.org/online-workshop-series-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marlene_and_Georges_Michelson_Dupont/jean_royer_graduation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean Royer Graduation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/history_study_groups">
+          <span class="pr-2">History of Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

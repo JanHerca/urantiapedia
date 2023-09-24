@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_vancouver_2020_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver 2020 Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/national_conference_mexico_2019">
+          <span class="pr-2">Third National Conference in Mexico City</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Screenshot-Theme-Banner2.jpg">
+<img src="/image/article/IUA_Tidings/Screenshot-Theme-Banner2.jpg">
 </figure>
 
 ## Towards Cosmic Citizenship
@@ -66,13 +90,13 @@ If you’re planning to attend Urantia Association’s International Conference 
 Although we are reserving rooms at the hotel, there is no guarantee that rooms will be available at short notice before the conference. And for your convenience, the hotel offers the option to book now and pay later, 45 days before our event begins. Register and book now to receive the promotional discount. The available accommodation facilities range from five-star hotels-haciendas to smaller (but no less warm and beautiful) hotels—to suit personal budgets. All facilities are close to one another. The accommodation prices include breakfast and will depend on the hotel chosen to stay in.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/2021-International-Conference-Hotel-Prices-and-Rooms-706x485.jpg">
+<img src="/image/article/IUA_Tidings/2021-International-Conference-Hotel-Prices-and-Rooms-706x485.jpg">
 </figure>
 
 ## Highlights
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Screenshot-Theme-Banner4-300x101.jpg">
+<img src="/image/article/IUA_Tidings/Screenshot-Theme-Banner4-300x101.jpg">
 </figure>
 
 The program will incorporate a combination of plenary sessions that will be held at the conference center, and workshops that will be held at the nearby archaeological sites. Unique adventures await your stay in the region surrounding the conference venue. In addition to the Urantia conference program and activities highlighting cosmic citizenship, the famous Sacred Valley of the Incas is a major tourist destination on the road to Machu Picchu, one of the world’s most captivating archaeological sites.
@@ -99,3 +123,27 @@ Email: [conferences@urantia-association.org](mailto:conferences@urantia-associat
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2020/
 - This article: https://urantia-association.org/peru-2021-international-conference-registration-now-open
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_vancouver_2020_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver 2020 Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/national_conference_mexico_2019">
+          <span class="pr-2">Third National Conference in Mexico City</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

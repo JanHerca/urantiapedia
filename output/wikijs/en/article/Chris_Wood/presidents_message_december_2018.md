@@ -9,12 +9,36 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Chris Wood<br>© 2018 International Urantia Association (IUA)</p>
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2018_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alexandre_Nakai_and_Cintia_Angeles/youth_meeting_brazil_conf">
+          <span class="pr-2">Latin American Youth Meeting – Brazil 2018 –</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>
 
-_Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an ***exchange of national and racial literature***. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love._ [[UB 52:6.4](/en/The_Urantia_Book/52#p6_4)] emphasis added
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+</figure>
+
+_Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an ***exchange of national and racial literature***. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love._ <a id="a40_431"></a>[[UB 52:6.4](/en/The_Urantia_Book/52#p6_4)] emphasis added
 
 This year I have had the honor of travelling to The Netherlands, Ghana, Brazil, Peru, Ecuador, Costa Rica and Mexico for Urantia activities, in addition to events across my home country of the United States. Of course, there are many things that are universal across all cultures, but one thing has struck me about our expanding Urantia community: those of us who love _The Urantia Book_ also love books in general. We are, by and large, a group with a passion for reading.
 
@@ -36,3 +60,27 @@ Chris Wood
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2018/
 - This article: https://urantia-association.org/presidents-message-december-2018
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2018_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alexandre_Nakai_and_Cintia_Angeles/youth_meeting_brazil_conf">
+          <span class="pr-2">Latin American Youth Meeting – Brazil 2018 –</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/president_message_june_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – June 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_announcements">
+          <span class="pr-2">Announcements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 12-15 April 2018
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
+<img src="/image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
 </figure>
 
 Urantia Association of the Netherlands (UAISUN) invites you to attend the 10th International Conference of Urantia Association International in **Amsterdam, The Netherlands**.
@@ -55,3 +79,27 @@ President of Urantia Association of the Netherlands (UAISUN)
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
 - This article: https://urantia-association.org/2018-urantia-international-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/president_message_june_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – June 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_announcements">
+          <span class="pr-2">Announcements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

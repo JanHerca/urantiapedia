@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Study Group As a Circle of Trust</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_farewell_margo_sherwood">
+          <span class="pr-2">Farewell Margo Sherwood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Overcoming Materialism, Enlightening Europe
 
 _(Editor’s note: The Urantia Association of Spain, Urantia Association International, and the European Organizing Committee worked hard to create this event in Southern Europe to unite the European Urantia Community once again for our third European Urantia Conference.)_ 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Olga-Lopez-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Olga-Lopez-150x150.jpg">
 </figure>
 
 The 3rd European Conference of Urantia Book readers was held at the Sol Don Pablo Hotel in Torremolinos (Malaga, Spain) from October 20 to 23. Almost 70 readers attended from different parts of Europe and the rest of the world (from Georgia in Eastern Europe to the United States and Argentina in the American continent). With summer temperatures, we were able to enjoy not only the weather, but also the good company of other readers and some activities related to the theme of the conference and the theme of self-mastery, to which several workshops were dedicated.
@@ -33,3 +57,27 @@ For all these reasons, I am certain that a milestone has been reached in the dev
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2022/
 - This article: https://urantia-association.org/3rd-european-conference-of-urantia-book-readers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Study Group As a Circle of Trust</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_farewell_margo_sherwood">
+          <span class="pr-2">Farewell Margo Sherwood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

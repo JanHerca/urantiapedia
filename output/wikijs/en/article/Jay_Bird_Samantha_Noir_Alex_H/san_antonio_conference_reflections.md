@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jay Bird, Samantha Noir, Alex H<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_sept_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – September 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_european_urantia_conference">
+          <span class="pr-2">European Urantia Conference, Budapest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following are reflections and impressions from three conference attendees: Jay Bird, USA, Samantha Noir, France and Alex H, Germany. They recently attended the 2016 joint conference of Urantia Association of the United States and Urantia Book Fellowship held June 9th to 12th at Trinity University, San Antonio, Texas._
 
@@ -83,3 +107,27 @@ Urantia Young Adult International committee member
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
 - This article: https://urantia-association.org/san-antonio-conference-reflections
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_sept_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – September 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_european_urantia_conference">
+          <span class="pr-2">European Urantia Conference, Budapest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

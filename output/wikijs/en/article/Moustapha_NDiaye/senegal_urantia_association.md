@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Moustapha Ndiaye<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_brazil_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brazil Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/australia_new_zealand_urantia_association">
+          <span class="pr-2">Australia & New Zealand Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Senegal-Report.jpg">
+<img src="/image/article/IUA_Tidings/Senegal-Report.jpg">
 <figcaption><em>The Progressive Divine Wisdom Group around its founder in 1986</em></figcaption>
 </figure>
 
@@ -34,7 +58,7 @@ From 2000 to 2010, Moussa Ndiaye, Founder of the PDWG initiated several training
 ## Activities in 2021
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Ndiaye_2.jpg">
+<img src="/image/article/IUA_Tidings/Ndiaye_2.jpg">
 <figcaption><em>Moustapha Ndiaye</em></figcaption>
 </figure>
 
@@ -56,12 +80,12 @@ The Progressive Divine Wisdom Group, composed initially of five educators each w
 At the same time, the PDWG has taken initiatives to extend the method to a larger number of Francophone countries and eventually to Anglophone readers. The PDWG relies on the multifaceted support and active participation of all readers who agree with this approach, to continue the work of expanding Spiritual Education in relation to the fifth revelation, and according to the indications of the Master Son and his spirit, as bestowed upon all flesh.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Senegal3.jpg">
+<img src="/image/article/IUA_Tidings/Senegal3.jpg">
 <figcaption><em>First Dakar Summit 2017</em></figcaption>
 </figure>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Senegal2.jpg">
+<img src="/image/article/IUA_Tidings/Senegal2.jpg">
 <figcaption><em>Formation 2, organized by Moussa Ndiaye (Founder of Progressive Divine Wisdom Group) in 2004 in Canada</em></figcaption>
 </figure>
 
@@ -72,3 +96,27 @@ At the same time, the PDWG has taken initiatives to extend the method to a large
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
 - This article: https://urantia-association.org/senegal-urantia-association
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_brazil_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brazil Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/australia_new_zealand_urantia_association">
+          <span class="pr-2">Australia & New Zealand Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

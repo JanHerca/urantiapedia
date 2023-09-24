@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message March 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alexander_H/german_speaking_urantia_book_readers_meeting">
+          <span class="pr-2">German-speaking Urantia Book Readers’ Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Public-Facebook-Group-300x92.jpg">
+<img src="/image/article/IUA_Tidings/Public-Facebook-Group-300x92.jpg">
 </figure>
 
 The Social Media Committee of Urantia Association International is pleased to announce the launching of the Association’s first _Public Facebook Group._ This differs from the existing Facebook Page of the Association in that it provides a platform for discussions and online study between Urantia Book students and anyone interested from the public at large. Posts can be viewed by the public, but if anyone wishes to join the discussions they will need to click on the “Join” tab and their request is vetted before they are accepted as a member of the group.
@@ -43,3 +67,27 @@ Forum: [http://urantia-association.org/forums](http://urantia-association.org/f
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
 - This article: https://urantia-association.org/urantia-association-social-media
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message March 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alexander_H/german_speaking_urantia_book_readers_meeting">
+          <span class="pr-2">German-speaking Urantia Book Readers’ Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_dec_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – December 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_journal_publication_latest_news">
+          <span class="pr-2">The Journal Publication—Latest News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Ibero-American-Urantiathon-Facebook-2021-English-e1639877386843.jpg">
+<img src="/image/article/IUA_Tidings/Ibero-American-Urantiathon-Facebook-2021-English-e1639877386843.jpg">
 </figure>
 
 ## A Spiritual and Fraternal Feast
@@ -41,7 +65,7 @@ Attending the study group recharges our spiritual batteries, elevates our intell
 
 Always pray for guidance and be open to spiritual assistance. We recommend that the first thing you do after deciding to host a group is to surrender your decision in prayer to the spiritual influences within and around you. Remember that we are surrounded and inhabited by spiritual aides who will help you if you are open to their guidance.
 
-> When man goes in partnership with God, great things may, and do, happen. [[UB 132:7.9](/en/The_Urantia_Book/132#p7_9)]
+> When man goes in partnership with God, great things may, and do, happen. <a id="a67_75"></a>[[UB 132:7.9](/en/The_Urantia_Book/132#p7_9)]
 
 ### The Leadership and Service of the Friends of Jesus
 
@@ -94,9 +118,9 @@ Leadership plays a crucial role in promoting organizational and occupational wel
 
 Let’s see what _The Urantia Book_ teaches us in this regard:
 
-> Most great religious epochs have been inaugurated by the life and teachings of some outstanding personality; leadership has originated a majority of the worth-while moral movements of history. [[UB 92:5.5](/en/The_Urantia_Book/92#p5_5)\]
+> Most great religious epochs have been inaugurated by the life and teachings of some outstanding personality; leadership has originated a majority of the worth-while moral movements of history. <a id="a120_195"></a>[[UB 92:5.5](/en/The_Urantia_Book/92#p5_5)\]
 
-> Woman, however, has always been the moral standard-bearer and the spiritual leader of mankind. The hand that rocks the cradle still fraternizes with destiny. [[UB 84:6.4](/en/The_Urantia_Book/84#p6_4)]
+> Woman, however, has always been the moral standard-bearer and the spiritual leader of mankind. The hand that rocks the cradle still fraternizes with destiny. <a id="a122_160"></a>[[UB 84:6.4](/en/The_Urantia_Book/84#p6_4)]
 
 In order to leave the greatest and best inheritance in spiritual values for new generations, we must foster a true spiritual awakening and the development of a personal religion within the temple of our minds. May the Spirit of God who dwells within us guide us, and the divine essence of our Eternal Father be actualized by personalizing itself with our soul so that this spiritual core may spiritualize us throughout eternity.
 
@@ -189,11 +213,11 @@ The order, plan, and methods of progress recommended in the Publication Mandate 
 
 1\. The personal preparation of everyone who wants to serve the revelation by following in the footsteps of Jesus in his spiritual development, growth, and progress, a study of the truth, worshipful communion with God, the acquisition of living faith through his experience with his inner Adjuster, and his human growth. The life of Jesus is the wonderful example that sincere believers should follow in their own lives.
 
-2\. Dedicate ourselves to serve, individually and in groups, with true altruism and growing wisdom, using the organizational methods and procedures of Jesus, financing the activities through donations from people sympathetic to the movement, giving free access to the places where the teachings are shared, teaching the truth with spiritual power and wisdom as our teacher of old declared_: “Not in word only but also in power and in the Holy Spirit”_ [[UB 34:6.6](/en/The_Urantia_Book/34#p6_6)].  
+2\. Dedicate ourselves to serve, individually and in groups, with true altruism and growing wisdom, using the organizational methods and procedures of Jesus, financing the activities through donations from people sympathetic to the movement, giving free access to the places where the teachings are shared, teaching the truth with spiritual power and wisdom as our teacher of old declared_: “Not in word only but also in power and in the Holy Spirit”_ <a id="a215_452"></a>[[UB 34:6.6](/en/The_Urantia_Book/34#p6_6)].  
 
-After Pentecost, we can say, “Not in word only but also in power and in the Spirit of Truth,” because Jesus said, “_… this Spirit of Truth will become your power-multiplying fulcrum”_ [[UB 178:1.6](/en/The_Urantia_Book/178#p1_6)]. This is the spiritual power to do spiritual work, do good, serve with love, live doing the will of the Father, honor and glorify him, and love our brethren. We must also pay attention to Jesus’ didactic methods and his living knowledge of divine truth.
+After Pentecost, we can say, “Not in word only but also in power and in the Spirit of Truth,” because Jesus said, “_… this Spirit of Truth will become your power-multiplying fulcrum”_ <a id="a217_184"></a>[[UB 178:1.6](/en/The_Urantia_Book/178#p1_6)]. This is the spiritual power to do spiritual work, do good, serve with love, live doing the will of the Father, honor and glorify him, and love our brethren. We must also pay attention to Jesus’ didactic methods and his living knowledge of divine truth.
 
-> Said Jesus that night as they went to their rest: “Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it. [[UB 176:3.10](/en/The_Urantia_Book/176#p3_10)]
+> Said Jesus that night as they went to their rest: “Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it. <a id="a219_257"></a>[[UB 176:3.10](/en/The_Urantia_Book/176#p3_10)]
 
 As we give the Father’s truth in this way, there is a multiplication of his growing light of saving grace as we minister it.
 
@@ -224,3 +248,27 @@ To be religious is to walk a path of life full of meanings, courageously facing 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
 - This article: https://urantia-association.org/ibero-american-urantiathon-november21
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_dec_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – December 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_journal_publication_latest_news">
+          <span class="pr-2">The Journal Publication—Latest News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

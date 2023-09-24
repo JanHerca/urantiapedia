@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_tidings_june_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – June 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_4">
+          <span class="pr-2">Focus on the Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/PIRT-LOGO-TIDINGS-HEADER.jpg">
+<img src="/image/article/IUA_Tidings/PIRT-LOGO-TIDINGS-HEADER.jpg">
 </figure>
 
 Jim has been a “breath of fresh air” – the unexpected jewel among all of the great inmates (185) that I have heard from over the past few years.
@@ -38,7 +62,7 @@ _I am extremely grateful to be able to enjoy this, the fifth epochal revelation 
 
 _In His Love, James H._
 
-> Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love. ([UB 48:7.28](/en/The_Urantia_Book/48#p7_28))
+> Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love. (<a id="a64_95"></a>[UB 48:7.28](/en/The_Urantia_Book/48#p7_28))
 
 I sent him George Michelson-Dupont’s course from Urantia Book International School (UBIS), and in Jim’s next letter addressed to me he wrote:
 
@@ -61,7 +85,7 @@ In Jim’s third letter, which was a bit delayed, he explained that he had been 
 For two years I have received beautiful Christmas cards from Jim. My cards came back because of prison rules so we sent a used copy of the indexed version this year for Jim to have again and he was ecstatic to receive it.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/RD-Spiritual-journey-300x223.jpg">
+<img src="/image/article/IUA_Tidings/RD-Spiritual-journey-300x223.jpg">
 <figcaption><em>Rienaldo Dennes</em></figcaption>
 </figure>
 
@@ -69,7 +93,7 @@ Jim mentioned having studied many scriptures including the Bible as a starting p
 
 PIRT rules require we use an alias. Of course, I never dreamed when I chose my alias that any of the inmates would study the book so thoroughly or ever write to me enough to catch the meaning of the alias I chose for my name after Eventod, but this only further explains how special and devoted to the revelation that Jim is; in a postscript he wrote:
 
-“_When I first saw your name, it rang familiar to me. I recently found out why. I had read it several times before. Are you the namesake of the fifth bestowal of our now Sovereign Michael?_” [UB 119:5.2](/en/The_Urantia_Book/119#p5_2)
+“_When I first saw your name, it rang familiar to me. I recently found out why. I had read it several times before. Are you the namesake of the fifth bestowal of our now Sovereign Michael?_” <a id="a95_191"></a>[UB 119:5.2](/en/The_Urantia_Book/119#p5_2)
 
 PIRT rules forced me to joke about the name in my next letter and I explained to him that he was the first person who had discovered the name connection, which earned him a prize. I sent him a copy of “A Study of the Master Universe” by Bill Sadler Jr. and another UBIS course that I had taught, “Essentials of a Powerful Personal Religion.”
 
@@ -96,3 +120,27 @@ What more can I say? What a profound pleasure and privilege it has been to have 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2023/
 - This article: https://urantia-association.org/the-unexpected-jewel
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_tidings_june_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – June 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_4">
+          <span class="pr-2">Focus on the Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

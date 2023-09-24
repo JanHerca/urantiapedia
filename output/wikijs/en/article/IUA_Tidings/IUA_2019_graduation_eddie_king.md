@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_graduation_richard_keeler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation of Richard Keeler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Glass/graduation_ken_ingle">
+          <span class="pr-2">Graduation of Ken Ingle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Eddie-Joanne-300x211.jpg">
+<img src="/image/article/IUA_Tidings/Eddie-Joanne-300x211.jpg">
 </figure>
 
 Long-time student of _The Urantia Book_ and dedicated member and volunteer of Urantia Association International, Eddie King passed away on 13<sup>th</sup> February, 2019 after a battle with health problems. Eddie follows his wife and long-life friend and soul-mate, Joanne who passed away last August.
@@ -27,3 +51,27 @@ Farewell dear Eddie. May your soul be at peace.
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
 - This article: https://urantia-association.org/graduation-eddie-king
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_graduation_richard_keeler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation of Richard Keeler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Glass/graduation_ken_ingle">
+          <span class="pr-2">Graduation of Ken Ingle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

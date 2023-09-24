@@ -9,25 +9,49 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Gaetan Charland<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ukraine Advertising Campaign</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_international_service_board_at_work_1st_quarter_2016">
+          <span class="pr-2">International Service Board at Work - 1st Quarter 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
 </figure>
 
 Have you ever had the feeling that the study group you are hosting or going to is getting a bit boring, or is not satisfying your need for progress in understanding the teachings you are studying together, nor helping your desire to progress spiritually?
 
 Many study groups have come and gone since the time of the first publication of _The Urantia Book_ and probably many others will also come and go for various reasons. One of those could be that they have failed in their goals to expand cosmic consciousness and enhance spiritual perception. Not only do some study groups fail in these two goals, but many have also failed in teaching others how to become better sowers of truths, how to be more involved in our spiritual emancipation through service to others, and how to better integrate _The Urantia Book_’s teachings in one’s life.
 
-> _The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men_. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+> _The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men_. <a id="a44_142"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
 I use this quote to highlight the importance of living life according to Jesus’s teachings, not to preach about him as so many believers are prone to do; to live the truth that Jesus so eloquently preached to the best of our ability not only in words but as living examples of the Fatherhood of God and the brotherhood of men.
 
-> _“I declare that the kingdom of heaven is the realization and acknowledgment of God’s rule within the hearts of men.”_ [[UB 141:2.1](/en/The_Urantia_Book/141#p2_1)]
+> _“I declare that the kingdom of heaven is the realization and acknowledgment of God’s rule within the hearts of men.”_ <a id="a48_121"></a>[[UB 141:2.1](/en/The_Urantia_Book/141#p2_1)]
 
 > _“The book is being given to those who are ready for it long before the day of its world- wide mission. Thousands of study groups must be brought into existence and the book must be translated into many tongues. Thus will the book be in readiness when the battle for man’s liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind.”_ (from the Publication Mandate)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Study-Group-2011-300x224.jpg">
+<img src="/image/article/IUA_Tidings/Study-Group-2011-300x224.jpg">
 </figure>
 
 Why did the Revelators urge us to create thousands of study groups and train leaders and teachers? They had a plan in mind; a plan that looked so simple in its application that we have often failed to see its far-reaching mission to change the spiritual mindset of the world. To change that mindset, shouldn’t we transform ourselves to be the carriers of this change? Shouldn’t study groups be a place that provide the means where we can be helped, and help others to do just that?
@@ -107,3 +131,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2016/
 - This article: https://urantia-association.org/rejuvenating-your-study-group
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ukraine Advertising Campaign</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_international_service_board_at_work_1st_quarter_2016">
+          <span class="pr-2">International Service Board at Work - 1st Quarter 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

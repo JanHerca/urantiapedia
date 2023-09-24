@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Susan Lyon<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/the_urantia_book_internet_school">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book Internet School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Susan-Grzeskowiak-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Susan-Grzeskowiak-150x150.jpg">
 </figure>
 
 Recently I went online to purchase some sports items for my son-in-law Tim’s birthday. A few years ago I set up an Amazon-Smile account. Every time I need to shop for birthdays, holidays or any special event for my family, I can do something that has been very difficult financially for me to do in the past; I can support a cause. Raising my four children as a single parent made it nearly impossible for me to give to worthy charities and causes such as Urantia Foundation and all of their translation projects. Now Amazon helps me to accomplish this by taking 0.5% out of their profits for my total purchase amount, and then they send it to Urantia Foundation. When I need to shop for someone, first I check Amazon-Smile to see if they have something that would be an appropriate gift, and generally they don’t disappoint me. I appreciate the great variety available and reasonable prices.
@@ -61,3 +82,24 @@ Of course I am preaching to the choir, but just like you would expect everybody 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
 - This article: https://urantia-association.org/inspiration-healing-urantia-book
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/the_urantia_book_internet_school">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book Internet School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

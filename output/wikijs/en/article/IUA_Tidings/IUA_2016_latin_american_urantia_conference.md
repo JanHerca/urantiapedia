@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_european_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">European Urantia Conference, Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tamila_Ragimova/meeting_for_russian_urantia_book_readers">
+          <span class="pr-2">Meeting for Urantia Book Readers in Russia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Bogota-conference-logo.jpg">
+<img src="/image/article/IUA_Tidings/Bogota-conference-logo.jpg">
 </figure>
 
 The Bogotá Urantia Association invites you to the First Latin American Urantia Conference, on October 14, 15, 16 and 17th, 2016 in Bogotá, Colombia, at the Lancaster House.
@@ -52,7 +76,7 @@ Email [reservas@lancasterhouse.com.co](mailto:%20reservas@lancasterhouse.com.co)
 Google Maps [click here](https://goo.gl/maps/JZKE1V32qe42)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/hotel-1-706x454.jpg">
+<img src="/image/article/IUA_Tidings/hotel-1-706x454.jpg">
 </figure>
 
 **LODGING** 
@@ -62,13 +86,13 @@ Lancaster House has parking, WiFi, gym, sauna and restaurant. It has two types o
 **Junior Suite** room: It has a bedroom, kitchen, dining space, living room with sofa bed and one bathroom. In it can accommodate two or three people. The bedroom can have a double bed or two twin beds according to your wish. Some rooms may have a balcony. Below are sketches and pictures (click to enlarge):
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/junior-4-706x180.jpg">
+<img src="/image/article/IUA_Tidings/junior-4-706x180.jpg">
 </figure>
 
 **Master Suite** room: It has a master bedroom and a secondary one, kitchen, dinning space, living room with sofa bed and two bathrooms. It can accommodate four or five people. The bedrooms can have double beds or twin beds according to your wish. Some rooms may have a balcony. Below are sketches and pictures (click to enlarge):
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Master-Suite-2-in-1-image-706x359.jpg">
+<img src="/image/article/IUA_Tidings/Master-Suite-2-in-1-image-706x359.jpg">
 </figure>
 
 Your conference package options are as follows:
@@ -113,7 +137,7 @@ These are the conference packages with lodging prices:
 5. Junior Suite room for 1 person, $289 (price per person).
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Latin-American-Conference-Pricing-overview-ENG-706x563.jpg">
+<img src="/image/article/IUA_Tidings/Latin-American-Conference-Pricing-overview-ENG-706x563.jpg">
 </figure>
 
 **RESERVATIONS**
@@ -130,7 +154,7 @@ https://youtu.be/8JyWjeXjyZo
 Let us know if you want to share a room when you register. Please note if you have not reserved a room with the hotel, or us we cannot guarantee you will have a room at the hotel during the event! We have a limited number of Junior Suites for 1 person so register as soon as you can if this has your preference
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/hotelpicturesmixed-Lancaster-Houset-big-706x507.jpg">
+<img src="/image/article/IUA_Tidings/hotelpicturesmixed-Lancaster-Houset-big-706x507.jpg">
 </figure>
 
 **PAYMENT**
@@ -140,7 +164,7 @@ Your conference package with lodging needs to be paid to us in USD via RegOnline
 You can register [here](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/hotel-8-706x454.jpg">
+<img src="/image/article/IUA_Tidings/hotel-8-706x454.jpg">
 </figure>
 
 ## Latin American Leadership Scholarship
@@ -150,13 +174,13 @@ For this conference we created a special Latin American Leadership Scholarship t
 If we are able to bring enough Latin American leaders to this conference we will organize a special meeting for them at the end of the event. For more information about the Latin American Leadership Scholarship contact: [latinamericanconference@urantia-association.org](mailto:latinamericanconference@urantia-association.org)
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/hotel-6-706x454.jpg">
+<img src="/image/article/IUA_Tidings/hotel-6-706x454.jpg">
 </figure>
 
 **PROGRAMMING**
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Latin-American-Conference-Program-large.jpg">
+<img src="/image/article/IUA_Tidings/Latin-American-Conference-Program-large.jpg">
 </figure>
 
 _Program might change!_ 
@@ -164,7 +188,7 @@ _Program might change!_
 Link to the [Poster](http://urantia-association.org/wp-content/uploads/2016/05/Poster-Teacher-and-Student-ENG.png)
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Poster-Teacher-and-Student-ENG-508x706.jpg">
+<img src="/image/article/IUA_Tidings/Poster-Teacher-and-Student-ENG-508x706.jpg">
 </figure>
 
 **_Note_**_: This conference is hosted by the Bogotá Urantia Association and sponsored by Urantia Association International, Urantia Foundation and The Urantia Book Fellowship_ 
@@ -176,3 +200,27 @@ Link to the Latin American Event [PDF Brochure](http://urantia-association.org/
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
 - This article: https://urantia-association.org/latin-american-urantia-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_european_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">European Urantia Conference, Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tamila_Ragimova/meeting_for_russian_urantia_book_readers">
+          <span class="pr-2">Meeting for Urantia Book Readers in Russia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

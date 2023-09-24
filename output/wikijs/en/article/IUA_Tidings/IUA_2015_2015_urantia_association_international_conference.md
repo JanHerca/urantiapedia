@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_february_2015_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_conference_program_schedule">
+          <span class="pr-2">2015 International Conference Program Schedule</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/AssocConf_2015-Mailchimp-headerD.jpg">
+<img src="/image/article/IUA_Tidings/AssocConf_2015-Mailchimp-headerD.jpg">
 </figure>
 
 **30 July to 2 August**
@@ -43,7 +67,7 @@ Children under the age of 13 are **free!**  A special “Children’s Program”
 ## Venue
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/250px-Rue_Wellington_Nord1.jpg">
+<img src="/image/article/IUA_Tidings/250px-Rue_Wellington_Nord1.jpg">
 </figure>
 
 The 2015 Urantia Association International Conference will be held at Bishop’s University in the city of Sherbrooke, Quebec Province in Canada.   Sherbrooke is a city of just over 152,000 people, making it the 6th largest city in Quebec.  Sherbrooke rests at the confluence of the Saint-François and the Magog Rivers.  There are eight educational institutions serving over 40,000 students.  The area has numerous parks and historical sites to visit and Montreal is only two hours away.
@@ -58,7 +82,7 @@ And discover the spirit and essence of Bishop’s University in this short film.
 ## Lodging
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/campus-aerial-11.jpg">
+<img src="/image/article/IUA_Tidings/campus-aerial-11.jpg">
 </figure>
 
 Bishop’s University will be the home of this international event.  There will be several lodging options on campus.
@@ -102,7 +126,7 @@ The conference plenaries and workshops will also offer insights on how to help c
 ## Optional Program
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Bishops-University-Astronomy-Ad-2014.jpg">
+<img src="/image/article/IUA_Tidings/Bishops-University-Astronomy-Ad-2014.jpg">
 </figure>
 
 Bishop’s University has a new observatory with the latest telescopes.  On Friday night July 31st, there will be a special 45 minute presentation of “A Brief Tour of the Universe” followed by telescope viewing on the ASH Observatory deck.  The group will then go inside the dome to see the skies through the new PlaneWave 17″ (f/6.8) Dall-Kirkham corrected optical design telescope. Tickets can be purchased with your registration.
@@ -121,3 +145,27 @@ For questions, email Gaetan Charland or Line St. Pierre at: [association.urantia
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/2015-urantia-association-international-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_february_2015_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_conference_program_schedule">
+          <span class="pr-2">2015 International Conference Program Schedule</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

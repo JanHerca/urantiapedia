@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Christian Ruch<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carmelo_Martinez/urantia_association_of_spain_meets">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Association of Spain Meets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cesar_Paulo_Zapello/readers_meet_inbrazil">
+          <span class="pr-2">Readers Meet in Brazil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Blue-Club-Jun-15-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Blue-Club-Jun-15-300x225.jpg">
 <figcaption><em>Readers at the Blue Club Meeting</em></figcaption>
 </figure>
 
@@ -33,3 +57,27 @@ Chur, Switzerland
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
 - This article: https://urantia-association.org/blue-club-meeting-in-frankfurt
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carmelo_Martinez/urantia_association_of_spain_meets">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Association of Spain Meets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cesar_Paulo_Zapello/readers_meet_inbrazil">
+          <span class="pr-2">Readers Meet in Brazil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

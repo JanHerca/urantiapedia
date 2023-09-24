@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Esperaza_Tovar/bogota_international_bookfair_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bogota International Book Fair – Colombia 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_florida_conference_2020">
+          <span class="pr-2">Florida Urantia Conference 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Screenshot-Theme-Banner2.jpg">
+<img src="/image/article/IUA_Tidings/Screenshot-Theme-Banner2.jpg">
 </figure>
 
 ### 11<sup>th</sup> Urantia Association International Conference in the Land of the Incas
@@ -22,14 +46,14 @@ dateCreated: 2023-9-16T10:55:6Z
 - How to Register and More: [Click Here](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
 - Event Registration Link: [https://cvent.me/kMVko7](https://cvent.me/kMVko7)
 
-> _Man … can elect to become more than a man;_ _can choose to embark upon the voyage of universe ascension, but this is because the human choice and the divine will happen to be coincident upon this point. And what a son desires and the Father wills will certainly come to pass._ [[UB 118:6.5](/en/The_Urantia_Book/118#p6_5)]
+> _Man … can elect to become more than a man;_ _can choose to embark upon the voyage of universe ascension, but this is because the human choice and the divine will happen to be coincident upon this point. And what a son desires and the Father wills will certainly come to pass._ <a id="a48_280"></a>[[UB 118:6.5](/en/The_Urantia_Book/118#p6_5)]
 
-> _…Your short sojourn on Urantia, on this sphere of mortal infancy, is only a single link, the very first in the long chain that is to stretch across universes and through the eternal ages. It is not so much what you learn in this first life; it is the experience of living this life that is important. Even the_ work _of this world, paramount though it is, is not nearly so important as the_ way _in which you do this work. There is no material reward for righteous living, but there is profound satisfaction—consciousness of achievement—and this transcends any conceivable material reward._ [[UB 39:4.13](/en/The_Urantia_Book/39#p4_13)]
+> _…Your short sojourn on Urantia, on this sphere of mortal infancy, is only a single link, the very first in the long chain that is to stretch across universes and through the eternal ages. It is not so much what you learn in this first life; it is the experience of living this life that is important. Even the_ work _of this world, paramount though it is, is not nearly so important as the_ way _in which you do this work. There is no material reward for righteous living, but there is profound satisfaction—consciousness of achievement—and this transcends any conceivable material reward._ <a id="a50_594"></a>[[UB 39:4.13](/en/The_Urantia_Book/39#p4_13)]
 
-> _… And this entire living adaptation of love must be effected in the light of both the environment of present evil and the eternal goal of the perfection of divine destiny._ [[UB 180:5.10](/en/The_Urantia_Book/180#p5_10)]
+> _… And this entire living adaptation of love must be effected in the light of both the environment of present evil and the eternal goal of the perfection of divine destiny._ <a id="a52_176"></a>[[UB 180:5.10](/en/The_Urantia_Book/180#p5_10)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/SITE-URUBAMBA-1-300x225.jpg">
+<img src="/image/article/IUA_Tidings/SITE-URUBAMBA-1-300x225.jpg">
 </figure>
 
 What is the timeline in the evolutionary history of humanity? What are the traces left by the violet race that, today, we may freely utilize? How can we become conscious citizens of the universe? How can we turn ourselves into competent and reliable beings in the eyes of the universe? What is our commitment towards the Supreme Being—the evolutionary Deity? Can the age of light and life become a reality here and now? 
@@ -42,7 +66,7 @@ During the coming months, the program for this conference will be finalized and 
 ## Interesting Innovations
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/HOTEL-CASONA-YUCAY-300x198.jpg">
+<img src="/image/article/IUA_Tidings/HOTEL-CASONA-YUCAY-300x198.jpg">
 </figure>
 
 This next international conference will bring some interesting innovations. The event will offer not only plenary presentations in a conference room, but also activities in the beautiful and inspiring garden surroundings; we will provide dynamic and invigorating workshops in the midst of the breathtakingly vivid and outstanding historical and archaeological sites; and we will give you the opportunity to experience the exquisite Peruvian cuisine, which is renowned for being among the best culinary delights of the world. Thus, in addition to being spiritually nourished, you may also enjoy local hospitality and the experience of being in a place full of the mysticism of a culture thousands of years old. We hope that all this will take you beyond the normal expectations of a traditional conference.
@@ -51,7 +75,7 @@ This next international conference will bring some interesting innovations. The 
 ## About the Conference Venue
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/OLLANTAYTAMBO-3-300x225.jpg">
+<img src="/image/article/IUA_Tidings/OLLANTAYTAMBO-3-300x225.jpg">
 </figure>
 
 Peru, besides being a country of ancient history, is permeated with traces of an extraordinary culture, the origins of which are described in the pages of _The Urantia Book_. It is precisely in this context—in the Sacred Valley of the Incas, Urubamba, Cusco—where this unique conference will be held.
@@ -68,7 +92,7 @@ When thinking of the highlands, some people worry about altitude sickness. The S
 ## Conference Service Costs
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/RESTAURANT-3-300x300.jpg">
+<img src="/image/article/IUA_Tidings/RESTAURANT-3-300x300.jpg">
 </figure>
 
 (Note: the costs in this section do not include accommodation or entry to the archaeological sites. See further details for those in the relevant sections below.) The current cost for the conference is USD$330.00 (with the $120 discount) and includes the following services:
@@ -98,7 +122,7 @@ For more registration and lodging information: [Click Here](https://urantia-ass
 ### Entry to the Archaeological Sites
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/SITE-URUBAMBA-2-300x300.jpg">
+<img src="/image/article/IUA_Tidings/SITE-URUBAMBA-2-300x300.jpg">
 </figure>
 
 The price of the tourist ticket ranges between approximately USD$10 and USD$40. The ticket allows for entrance to various archaeological sites. The reason this cost is not included in the main conference costs is because it depends on the type of ticket each person requires, which can vary according to one’s status (e.g.: national, foreigner, or student) and the number of days and/or tourist attractions the ticket covers. (Some may choose to do a trip after the conference). To determine the exact costs of tourist tickets, check here: [Cusco touristic ticket](https://www.cuscoperu.com/en/useful-information/touristic-tickets/cusco-touristic-ticket)
@@ -107,7 +131,7 @@ The price of the tourist ticket ranges between approximately USD$10 and USD$40. 
 ### Accommodation
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/HOTEL-CASONA-YUCAY-2-300x225.jpg">
+<img src="/image/article/IUA_Tidings/HOTEL-CASONA-YUCAY-2-300x225.jpg">
 </figure>
 
 The foreseen accommodation facilities range from five-star hotels-haciendas to smaller (but no less warm and beautiful) hotels—according to individual budgets. All accommodation facilities are close to one another. The accommodation prices include breakfast and will depend on the hotel each person chooses to stay in. Following is a list of the different hotels, with their different price ranges and links, in case you wish to make a booking for the mentioned dates (check-in: April 22<sup>nd</sup> / check-out: April 25<sup>th</sup> of 2021)
@@ -165,7 +189,7 @@ Email: [conferences@urantia-association.org
 Here’s a gallery of photos of the location and its surrounding environs as well as some of the nearby hotels:
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/2021_peru.jpg">
+<img src="/image/article/IUA_Tidings/2021_peru.jpg">
 </figure>
 
 
@@ -175,3 +199,27 @@ Here’s a gallery of photos of the location and its surrounding environs as wel
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2019/
 - This article: https://urantia-association.org/peru-2021-international-conference-update
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Esperaza_Tovar/bogota_international_bookfair_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bogota International Book Fair – Colombia 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_florida_conference_2020">
+          <span class="pr-2">Florida Urantia Conference 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

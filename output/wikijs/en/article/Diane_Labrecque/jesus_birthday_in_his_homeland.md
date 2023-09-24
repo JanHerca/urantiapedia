@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Diane Labrecque<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">San Antonio, USA Conference June 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god">
+          <span class="pr-2">Dancing with God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/urantia-family.jpg">
+<img src="/image/article/IUA_Tidings/urantia-family.jpg">
 </figure>
 
 _Happy New Year to you!_  Here is our greeting video and special announcement for 2016 [https://youtu.be/oU-pg04pa9s](https://youtu.be/oU-pg04pa9s).
@@ -48,3 +72,27 @@ Please note: A very _Special Thanks!_ goes to Lisa Crowe for all of her expert d
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
 - This article: https://urantia-association.org/jesus-birthday-in-his-homeland
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">San Antonio, USA Conference June 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god">
+          <span class="pr-2">Dancing with God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

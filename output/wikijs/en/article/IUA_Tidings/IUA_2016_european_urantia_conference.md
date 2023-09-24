@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jay_Bird_Samantha_Noir_Alex_H/san_antonio_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">San Antonio Conference Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_latin_american_urantia_conference">
+          <span class="pr-2">Latin American Urantia Conference, Bogotá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Budapest-Conference-Image-300x366.jpg">
+<img src="/image/article/IUA_Tidings/Budapest-Conference-Image-300x366.jpg">
 </figure>
 
 It is with great pleasure that we announce the European Urantia Conference, to be held in Budapest, Hungary, 15 to 18 September 2016.
@@ -52,13 +76,13 @@ Email: [H3560@accor.com](mailto:H3560@accor.com)
 Google Maps: [click here](https://www.google.nl/maps/place/Hotel+Novotel+Budapest+Centrum/@47.4974726,19.0698706,17z/data=!3m1!4b1!4m2!3m1!1s0x4741451a03c41333:0x9759eaeba2d8eccd)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Novotel-Hotel-Budapest2-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Novotel-Hotel-Budapest2-300x225.jpg">
 </figure>
 
 Novotel Budapest Centrum hotel offers direct booking using a unique booking URL. This way you will have a room at the hotel during the event. You can book your room by clicking [here](http://www.accorhotels.com/accorhotels/lien_externe.svlt?goto=resa_express&code_hotel=3560&code_chaine=ACC&code_avantage=URANT&sourceid=&merchantid=ADV-AccorHU) Because of high season activities in Budapest during our event, and to keep the financial risk low for the event organizers, we only have an option with the hotel for 90 people. On 15 June the hotel will cancel 40% of the non sold block if we cannot guarantee these rooms to them. After that date the hotel can rent the rooms to any other paying guest, even if they are not taking part in our conference.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/hotelpicturesmixed-Novotel-Budapest-big-300x215.jpg">
+<img src="/image/article/IUA_Tidings/hotelpicturesmixed-Novotel-Budapest-big-300x215.jpg">
 </figure>
 
 If you have not booked a room by 15th June, 2016 we cannot guarantee you will have a room at the hotel during the conference!
@@ -96,7 +120,7 @@ To register your Conference Package without accommodation, you need to use Re
 Participants may take a shuttle (at the [airport](http://www.bud.hu/english)) to the hotel if they do not want to take the bus or metro. For this reason, we ask that participants communicate the estimated time of their arrival, number of passengers they travel with, and time of departure from the hotel, by emailing or phoning the hotel (see contact details above).
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Novotel-Hotel-Budapest-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Novotel-Hotel-Budapest-300x225.jpg">
 </figure>
 
 **EUROPEAN LEADERSHIP SCHOLARSHIP**
@@ -109,7 +133,7 @@ Note: European Leadership Scholarships are not available anymore!
 
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/European-Urantia-Conference-Event-Schedule-small-499x706.jpg">
+<img src="/image/article/IUA_Tidings/European-Urantia-Conference-Event-Schedule-small-499x706.jpg">
 </figure>
 
 Link to the [Event Schedule](http://urantia-association.org/wp-content/uploads/2016/08/European-Urantia-Conference-Event-Schedule-small.png)
@@ -117,7 +141,7 @@ Link to the [Event Schedule](http://urantia-association.org/wp-content/uploads/2
 _Program might change!_ 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Budapest-Event-Poster-5-Logos-499x706.jpg">
+<img src="/image/article/IUA_Tidings/Budapest-Event-Poster-5-Logos-499x706.jpg">
 </figure>
 
 Link to the [Poster](http://urantia-association.org/wp-content/uploads/2016/08/Budapest-Event-Poster-5-Logos.png)
@@ -131,3 +155,27 @@ Link to the European Urantia Event [PDF brochure](http://urantia-association.or
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
 - This article: https://urantia-association.org/european-urantia-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jay_Bird_Samantha_Noir_Alex_H/san_antonio_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">San Antonio Conference Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_latin_american_urantia_conference">
+          <span class="pr-2">Latin American Urantia Conference, Bogotá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

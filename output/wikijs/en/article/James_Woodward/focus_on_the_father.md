@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 James Woodward<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marian_Hughes/stranded_in_patagonia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stranded in Patagonia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/sunrise.jpg">
+<img src="/image/article/IUA_Tidings/sunrise.jpg">
 </figure>
 
 “Make Daily Deposits and Withdrawals from the Bank of God’s Infinite Love”
@@ -33,3 +54,24 @@ The reciprocal exchange between a mortal person and an immortal person­—divin
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2020/
 - This article: https://urantia-association.org/focus-on-the-father
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marian_Hughes/stranded_in_patagonia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stranded in Patagonia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Chris Wood<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2019_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2019 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rick_Lyon/comments_isb_elections">
+          <span class="pr-2">Comments on the ISB Elections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
 </figure>
 
 This summer, the European Continental Conference will be hosted by the Estonian Association in Tallinn. The theme of the conference is: “Sowing Seeds—Qualitative Internal and Quantitative External Growth” and the conference will focus on the relationship between the internal growth of the individual and our external growth in service.
@@ -34,3 +58,27 @@ President
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/presidents-message-june-2019
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2019_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2019 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rick_Lyon/comments_isb_elections">
+          <span class="pr-2">Comments on the ISB Elections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

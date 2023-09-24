@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_september_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – September 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marcelino_Ramirez/marcelino_responds">
+          <span class="pr-2">Marcelino Responds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## A Celebration! 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/24-hour-Zoom-e1617670144308.jpg">
+<img src="/image/article/IUA_Tidings/24-hour-Zoom-e1617670144308.jpg">
 </figure>
 
 In the same vein as the previous series of 24-hour Urantiathons, a third one was held to celebrate Jesus’ birthday on the 21<sup>st</sup> and 22<sup>nd</sup> of August.   
@@ -37,3 +61,27 @@ The Facebook recordings are also available on our Facebook page in the videos se
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2020/
 - This article: https://urantia-association.org/third-24-hour-urantiathon
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_september_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – September 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marcelino_Ramirez/marcelino_responds">
+          <span class="pr-2">Marcelino Responds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

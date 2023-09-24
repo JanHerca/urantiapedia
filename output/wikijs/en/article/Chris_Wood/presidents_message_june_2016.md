@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Chris Wood<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2016_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2016 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="pr-2">Call for Membership Coordinators</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 The next six months will see three tests of the unity of our Urantia Community. The first test shall come in June in San Antonio where, for the first time, the Urantia Association of the United States (UAUS) and The Urantia Book Fellowship will co-host a conference. Registration has already exceeded expectations and the community waits to see how these organizations with different cultures will blend together for one week in Texas.
@@ -41,3 +65,27 @@ President
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2016/
 - This article: https://urantia-association.org/presidents-message-june-2016
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2016_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2016 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="pr-2">Call for Membership Coordinators</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Susan Owen<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/womens_retreat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Women’s Retreat</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_study_day_reflections">
+          <span class="pr-2">International Study Day Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/IMG_0063-150x150.jpg">
+<img src="/image/article/IUA_Tidings/IMG_0063-150x150.jpg">
 </figure>
 
 I had the pleasure of attending the Study Group Symposium held last June in Madison, Wisconsin. I came away with some great ideas; but the biggest thing I ended up with was a number of big questions arising from these statements in the Publication Mandate, “An early publication of the Book has been provided so that it may be in hand for the training of leaders and teachers.” “Thousands of study groups must be brought into existence…”
@@ -52,3 +76,27 @@ Palm Desert, CA
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
 - This article: https://urantia-association.org/the-importance-of-study-groups
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/womens_retreat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Women’s Retreat</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_study_day_reflections">
+          <span class="pr-2">International Study Day Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

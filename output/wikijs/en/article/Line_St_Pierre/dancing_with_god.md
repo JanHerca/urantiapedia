@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Line St Pierre<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus’ Birthday in His Homeland</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="pr-2">Parliament of World’s Religions Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Toward Weaving the Tapestry of the Supreme
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Womens-retreat-6-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Womens-retreat-6-300x225.jpg">
 </figure>
 
 In an upper room at 533 Diversey Parkway (Urantia Foundation), ten women met to share themselves and their spiritual journeys. The facilitators of the retreat, The Daughters of God, led by Line St-Pierre, created and tested a new model for group sharing that worked very well and can be used with other groups.
@@ -26,7 +50,7 @@ Following are comments from participants of the Daughters of God Retreat Septemb
 > “We danced, enfolded and emboldened by our spiritual beliefs, we moved to the rhythm of a new dance. We learned to be aware of our frame with just the right amount of tension instead of resistance from the cocoon of pain, tears, abuse and confusion. A luminous thread is spun and we survive to thrive, embracing audacity of authenticity, choosing attunement over atonement. Divine Mother-Son – Holy Mother Spirit, you are the Cosmic Blue-Print. Daughters of God, we are the warp upon which the tapestry of the Supreme can be woven.”
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Womens-retreat-1-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Womens-retreat-1-300x225.jpg">
 </figure>
 
 > “I did not know what to expect as I signed up for this retreat and the outcome is beyond anything I ever could have imagined. It is the first step in finishing the task of my life’s path. The feelings of the spiritual awakening in my mind and body are overwhelming and almost indescribable. I more fully understand what it means to be a Daughter of God. I have been searching a life-time for this spirituality and need it for my personal commitment to the family of God. I feel I have the connection through witnessing the love, passion, spirituality and knowledge of this group of women. I did not expect that – I have been learning through osmosis and it’s really only the beginning of everything.”
@@ -38,10 +62,10 @@ Following are comments from participants of the Daughters of God Retreat Septemb
 > “Everything about this place, 533, is perfect. I feel the perfection of our being together, such gratitude. I am amazed at the cascade of events that brought us together. Such sisterly love, trust and sharing of our sorrows, secrets and dreams. I am greatly enriched. I believe in my heart that the strength of our voices, individually and together are changing the world. Using our voices to speak the Truth, to walk in Beauty and to embrace Goodness is in service to our Universal Father and our Mother Spirit.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Womens-retreat-2-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Womens-retreat-2-300x225.jpg">
 </figure>
 
-> _If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme. As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. “How universal is the Supreme — he is on all sides! The limitless things of creation depend on his presence for life, and none are refused.”_ [_The Urantia Book_, [UB 117:6.2](/en/The_Urantia_Book/117#p6_2)]
+> _If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme. As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. “How universal is the Supreme — he is on all sides! The limitless things of creation depend on his presence for life, and none are refused.”_ <a id="a67_392"></a>[_The Urantia Book_, [UB 117:6.2](/en/The_Urantia_Book/117#p6_2)]
 
 > “Thank you for being so intimately with me and for allowing me to be so intimately with you. I will never forget this experience.”
 > 
@@ -67,7 +91,7 @@ Following are comments from participants of the Daughters of God Retreat Septemb
 > _To speak and dance together.”<br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Womens-retreat-7-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Womens-retreat-7-300x225.jpg">
 </figure>
 
 The Daughters of God group would love to share this model with other groups to help them encourage more women to appreciate their value and calling. If you would like to experience this retreat, we would be happy to travel to your retreat site to meet with your group. If you plan a date, gather 6 to 8 women, and reserve a venue, we will commit to meeting with your group. We look forward to empowering more women to follow their spiritual longings for sisterhood and outreach. Please contact Line St- Pierre for more information at [line.stpierre@gmail.com](mailto:line.stpierre@gmail.com)
@@ -79,3 +103,27 @@ The Daughters of God group would love to share this model with other groups to h
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
 - This article: https://urantia-association.org/dancing-with-god
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus’ Birthday in His Homeland</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="pr-2">Parliament of World’s Religions Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

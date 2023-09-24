@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Gaetan G. Charland<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_december_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message December 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="pr-2">San Antonio, USA Conference June 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
 </figure>
 
 At the beginning of December 2015 I attended a new online study group that is designed mainly for young readers. This new group was initiated by Antonio Schefer and is facilitated by Jeffrey Wattles. It is international and uses a very efficient Web platform called Zoom to gather and unite the participants. This Web application allows participants to see each other if they so desire, and the facilitator can share his screen, documents, power point presentations and even videos. All the sessions are recorded so each participant may review the session at their leisure when it is made available online by Antonio Schefer.
@@ -36,3 +60,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
 - This article: https://urantia-association.org/urantia-young-adult-online-study-group
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_december_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message December 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="pr-2">San Antonio, USA Conference June 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

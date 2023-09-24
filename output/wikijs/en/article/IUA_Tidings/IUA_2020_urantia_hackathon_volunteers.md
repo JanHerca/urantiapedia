@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_meditation_mantras">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation Mantras for Adjuster Attunement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_african_continental_coordinator">
+          <span class="pr-2">African Continental Coordinator</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Hackathon01.jpg">
+<img src="/image/article/IUA_Tidings/Hackathon01.jpg">
 </figure>
 
 **In the middle of this pandemic, have you perhaps stopped to wonder: “What will the future look like after all this has passed?”** 
@@ -52,7 +76,7 @@ As a team member, you will be guided by a Team Leader and a Mentor. Your team wi
 You will then engage in a structured and creative process of ideation, blending and prototyping, finalizing in a validation process for your chosen solution (“hack”). 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/hacking_journey.jpg">
+<img src="/image/article/IUA_Tidings/hacking_journey.jpg">
 </figure>
 
 ## An Invitation to Participate 
@@ -80,3 +104,27 @@ Sandra and Gabriel Rymberg, Samantha Nior, Lourdes Burga-Cisneros, and Luis Garc
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
 - This article: https://urantia-association.org/urantia-hackathon-volunteers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_meditation_mantras">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation Mantras for Adjuster Attunement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_african_continental_coordinator">
+          <span class="pr-2">African Continental Coordinator</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Graeme_Chapman/anzura_conference_queensland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Conference Queensland 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gothemburg-Book-Fair1-1-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Gothemburg-Book-Fair1-1-300x200.jpg">
 </figure>
 
 The number of people who are exposed to the word “Urantia,” as well as the book and its teachings year after year at book fairs is staggering. The impact on lives—priceless.
@@ -24,7 +45,7 @@ Following are two stories of people whose lives were changed after finding _The 
 ## Andrés Ramirez’ Story
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/AndresRamirezSquared-150x150.jpg">
+<img src="/image/article/IUA_Tidings/AndresRamirezSquared-150x150.jpg">
 </figure>
 
 I have been a reader of _The Urantia Book_ who read alone since 1995 until April 2001, when I attended the Bogotá International Book Fair. It was there for the first time I met other readers of _The Urantia Book_ at a booth some volunteers had rented. I was so happy and surprised to know about the existence of a group of readers in my city. And, I learned that there was a Urantia Association in this city as well. At that time I didn’t suspect I was going to be so involved in the future with this organization at the administrative and personal level.
@@ -38,7 +59,7 @@ And because of what finding other readers at the book fair meant to me, I contin
 ## Esther Andrade Burgos’s Story
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Esther-thumbnail-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Esther-thumbnail-150x150.jpg">
 </figure>
 
 It was a Saturday afternoon in April of 2015 when my brother invited me to visit the Bogotá Book Fair. We toured various booths without much interest and without much eagerness, until we were almost leaving at the end of the afternoon when an image of Jesus caught my attention. So much so that I would dare to say that he invited me to approach the booth where a couple of people shared a smile with me.  When I asked what the image of the universe was about, there ensued a 40-minute conversation that captured me, and a certainty arose within me that I had arrived at a place where my questions would be finally resolved. From that day and each day, _The Urantia Book_ is my main reading.
@@ -50,7 +71,7 @@ From this initial introduction at the Bogotá Book Fair, I joined a study group;
 I am happy each day and I want to share with many people these teachings, that I interpret them as true, in my own way. It is for this reason that recently I shared a talk with readers of Bogotá about the beliefs that impede the task of our Thought Adjuster in our mind.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Global-Seeding-newsletter-300x164.jpg">
+<img src="/image/article/IUA_Tidings/Global-Seeding-newsletter-300x164.jpg">
 </figure>
 
 The benefits of having a consistent presence at book fairs is enormous. However, renting book fair space is expensive. Your donation to Urantia Association’s Global Seeding Fund makes this possible.
@@ -64,3 +85,24 @@ The benefits of having a consistent presence at book fairs is enormous. Howev
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
 - This article: https://urantia-association.org/testimonials-book-fair-attendees
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Graeme_Chapman/anzura_conference_queensland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Conference Queensland 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

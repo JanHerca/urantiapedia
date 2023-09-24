@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_2015_urantia_association_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2015 Urantia Association International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
+          <span class="pr-2">Spreading The Urantia Book in Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UAI-2015-logo_13a-300x309.jpeg">
+<img src="/image/article/IUA_Tidings/UAI-2015-logo_13a-300x309.jpeg">
 </figure>
 
 Following are the plenaries for you to appreciate. Also see further on for the Program Schedule. Workshops will be published soon for readers to volunteer as facilitators.
@@ -125,3 +149,27 @@ _7:30 – 8:30_ | _Breakfast_
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/program-schedule
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_2015_urantia_association_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2015 Urantia Association International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
+          <span class="pr-2">Spreading The Urantia Book in Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 James Woodward<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dancing with God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="pr-2">The Urantia Book Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/PWR-Booth-300x225.jpg">
+<img src="/image/article/IUA_Tidings/PWR-Booth-300x225.jpg">
 </figure>
 
 In October, Urantia Association International joined with Urantia Foundation and _The Urantia Boo_k Fellowship in participating in the Parliament of the World’s Religion’s 2015 gathering in Salt Lake City. It was a great learning experience and benefit to many of our members while having dissemination value to a very large audience.
@@ -27,7 +51,7 @@ We went to the Parliament as a unified team to educate a diverse spectrum of rel
 [http://www.urantia.org/news/2015-12/urantia-book-parliament-worlds-religions?utm\_source=Winter+English+Newsletter&utm\_campaign=Newsletter+December+2015&utm\_medium=email](http://www.urantia.org/news/2015-12/urantia-book-parliament-worlds-religions?utm_source=Winter+English+Newsletter&utm_campaign=Newsletter+December+2015&utm_medium=email)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/PWR-Stage-300x225.jpg">
+<img src="/image/article/IUA_Tidings/PWR-Stage-300x225.jpg">
 </figure>
 
 Well over 100 books were sold or given away, hundreds of items of literature found their way into the hands of the participants, and many in-depth conversations took place between Urantia Book students and the attendees of the Parliament, officially reported as 10,859 people. As an outreach exercise for _The Urantia Book_, our efforts should be noted as a qualified success. Additionally, due to careful management and unexpected generosity from Urantia Foundation, Urantia Association expenses came in under budget.
@@ -41,3 +65,27 @@ Our Parliament adventure was a good prelude to this year’s first joint confere
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
 - This article: https://urantia-association.org/parliament-of-worlds-religions-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dancing with God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="pr-2">The Urantia Book Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

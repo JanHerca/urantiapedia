@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – March 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_vancouver_2020_update">
+          <span class="pr-2">Vancouver 2020 Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/SGD-Logo-e1581618793291.jpg">
+<img src="/image/article/IUA_Tidings/SGD-Logo-e1581618793291.jpg">
 </figure>
 
 The Urantia Book Study Group Directory (UBSGD) recently surpassed the largest number of listings added in any single year since 2011. A total of 68 new groups were added in 2019. This is more than double the number of new groups added in 2018. The Study Group Directory continues to grow as readers from more than 55 countries have found the Directory and added their study group information. At the end of 2019, the Directory had a total of 463 study groups.
@@ -21,7 +45,7 @@ The Urantia Book Study Group Directory (UBSGD) recently surpassed the largest nu
 In 2010, at Urantia Foundation, the leadership of Urantia Association International and The Urantia Book Fellowship met formally for the first time to promote unity among our organizations. Following this event, the organization’s information technology developers held a meeting to encourage the sharing of information. During this meeting, Urantia Foundation suggested the need for a central online source for study group contact information; a place where students of _The Urantia Book_ could easily find study groups in their area, and for study groups to find new members to grow their ranks. It was suggested this should be a progressive joint project. The result was the creation of the Urantia Book Study Group Portal.  Today that portal is known as the Urantia Book Study Group Directory: [UrantiaStudyGroup.org](http://www.urantiastudygroup.org/).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/SGD-Screenshot-300x128.jpg">
+<img src="/image/article/IUA_Tidings/SGD-Screenshot-300x128.jpg">
 </figure>
 
 Scott Brooks built the original Directory. The first governing group for this project had a team of three people from each of the three organizations. This team developed and unanimously agreed to the functionality and the criteria for listing study groups in the Directory.
@@ -44,7 +68,7 @@ If you would like us to do a presentation at your event or online meeting, conta
 ## Study Group Listings
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Ohio-8-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Ohio-8-300x225.jpg">
 </figure>
 
 In 2018, the Directory functionality was updated to include the ability to list virtual online study groups. Most virtual groups that meet online use Zoom or Skype. This update has been well received and contributed significantly to the growth of the number of groups available for contact.
@@ -64,7 +88,7 @@ Study groups are autonomous gatherings of Urantia Book students; meaning that th
 ## Directory Statistics
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Fundraiser3-May-17-1-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Fundraiser3-May-17-1-300x200.jpg">
 </figure>
 
 **The number of study group listings in the Directory has grown from only 4 in 2010 to a total of 463 as of January 2020!** Of the 463 study groups in the Directory today, about three-fourths of them meet in person and one-fourth are virtual groups. A few are both in person and virtual. In December, the first study group in China was listed! The Directory has active study groups listed in 56 countries. The top ten countries are: USA, Canada, Spain, Mexico, Australia, Brazil, Columbia, France, Venezuela and New Zealand.
@@ -82,7 +106,7 @@ UBSGD Admin Team
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/SGD-Logo-e1581618793291.jpg">
+<img src="/image/article/IUA_Tidings/SGD-Logo-e1581618793291.jpg">
 </figure>
 
 ## References
@@ -90,3 +114,27 @@ UBSGD Admin Team
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2020/
 - This article: https://urantia-association.org/ub-study-group-directory
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – March 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_vancouver_2020_update">
+          <span class="pr-2">Vancouver 2020 Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

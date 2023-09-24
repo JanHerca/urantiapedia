@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Grevet Moyo<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quebec Conference Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cyril/french_national_meeting">
+          <span class="pr-2">French National Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 On February 12<sup>th</sup>, 2015, I received 120 copies of _The Urantia Book_ from the Urantia Foundation through Urantia Association International’s President Chris Wood. This was the largest shipment that I had received here in Malawi.
 
@@ -31,7 +55,7 @@ At our next meeting, he and his wife attended and we welcomed them. Since then, 
 ## Placement in Libraries
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Malawi-Library-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Malawi-Library-300x225.jpg">
 </figure>
 
 I visited four libraries but I was very impressed with Lilongwe National Library. When I first went there I could not find the librarian because he was not in his office. I then went there the following day and was able to meet him; his name is Patrick Chilombe. After being given the book and looking at it he said, “This is a good book with detailed information. I like it and I will put it on the shelf once I have finished reading it.”
@@ -73,3 +97,27 @@ President- Urantia Association of Malawi
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
 - This article: https://urantia-association.org/success-stories-urantia-books-distribution-in-malawi
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quebec Conference Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cyril/french_national_meeting">
+          <span class="pr-2">French National Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Sebastian Nozzi<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alexandre_Nakai_and_Cintia_Angeles/youth_meeting_brazil_conf">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Youth Meeting – Brazil 2018 –</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_testimonials">
+          <span class="pr-2">Testimonials of Truth-Search, Growth and Service –</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/group-picture-Italian-Conf-SN-11.10.18-300x194.jpg">
+<img src="/image/article/IUA_Tidings/group-picture-Italian-Conf-SN-11.10.18-300x194.jpg">
 </figure>
 
 A Urantia Book readers’ conference took place in Italy, near the beautiful location of the Garda Lake from 5 to 7 October. It lasted from Friday evening (dinner and get-together) to Sunday in the afternoon.
@@ -31,7 +55,7 @@ But, understandably, this intense translation task by Danielle took its toll aft
 Much to my amazement during the entire conference we did not need to resort to English in order to solve language misunderstandings, as is often the case. It made me realize how far we were able to come with the combination of multi-linguists (which the authors of _The Urantia Book_ call for as a means to world peace) and our common language heritage (Latin).
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Italian-conf-2018-10-06-at-10.06.56-706x530.jpg">
+<img src="/image/article/IUA_Tidings/Italian-conf-2018-10-06-at-10.06.56-706x530.jpg">
 </figure>
 
 About the last day I cannot tell much since I had to leave early. It is my understanding that a more formal planning session was held, where the Italian community laid out organizational plans for their future (probably this is where the experience of the French was beneficial.) In the evening the group spent their time at the near-by beautiful Garda Lake.
@@ -51,3 +75,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2018/
 - This article: https://urantia-association.org/italian-french-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alexandre_Nakai_and_Cintia_Angeles/youth_meeting_brazil_conf">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Youth Meeting – Brazil 2018 –</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_testimonials">
+          <span class="pr-2">Testimonials of Truth-Search, Growth and Service –</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

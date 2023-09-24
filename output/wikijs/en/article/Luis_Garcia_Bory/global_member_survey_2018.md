@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Luis Garcia-Bory<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_items_interest_from_website">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Items of Interest from the Website</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Our Membership Committee at Urantia Association International gladly invites you to participate in our “Global Member Survey” which will be launched during the first quarter of 2018.
 
@@ -39,3 +60,24 @@ Membership Committee Chair
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/global-member-survey-2018
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_items_interest_from_website">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Items of Interest from the Website</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

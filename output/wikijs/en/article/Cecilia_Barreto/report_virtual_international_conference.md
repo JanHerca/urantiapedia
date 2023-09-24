@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Cecilia Barreto<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2024 Urantia Association International Conference in USA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="pr-2">Spiritual Value in the Peru Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Held April 24th – 25th, 2021 and hosted by Urantia Association of Peru
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Cecilia-Barrito-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Cecilia-Barrito-150x150.jpg">
 </figure>
 
 It seemed like only yesterday when, at the end of 2016, we were asked to host the International Conference that Urantia Association International organizes every three years. The Urantia Peru team celebrated when we received the torch at the Amsterdam Conference to be the hosts in 2021 and we quickly placed ourselves under the Father’s command.
@@ -36,7 +60,7 @@ The conference started by explaining the Andite influence in the Inca Empire, wh
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Peru-Conference-Volunteers-Collage-706x397.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Conference-Volunteers-Collage-706x397.jpg">
 </figure>
 
 To finish, I would like to mention what moved me the most about this experience of being part of the Peruvian team: the wonder of witnessing how each volunteer was motivated into action, how each one respected the other no matter what their skills or abilities were, and how each one discovered their assigned work through loving service. The job of every volunteer was, without a doubt, the key that made this conference possible, but more so, their testimonies, insights, dedication, and pure hearts all worked as a team for the Universal Father.
@@ -57,3 +81,27 @@ Organizing Team, Urantia Association of Peru
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2021/
 - This article: https://urantia-association.org/report-virtual-international-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2024 Urantia Association International Conference in USA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="pr-2">Spiritual Value in the Peru Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

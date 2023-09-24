@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/three_summer_exhibitions_in_ukraine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Three Summer Exhibitions in Ukraine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antonio_Schefer/urantia_young_adult_international_uyai_study_group">
+          <span class="pr-2">Urantia Young Adult International (UYAI) Study Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## _Jesus, the Master Teacher_ 
 
@@ -35,3 +59,27 @@ Lone Star Urantia Association at [http://www.urantia-lsua.org/2016-conference/45
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
 - This article: https://urantia-association.org/jointly-sponsored-conference-in-the-usa
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/three_summer_exhibitions_in_ukraine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Three Summer Exhibitions in Ukraine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antonio_Schefer/urantia_young_adult_international_uyai_study_group">
+          <span class="pr-2">Urantia Young Adult International (UYAI) Study Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Chris Wood<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2020_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2020 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nestor_Seda_Jr_and_Eugene_Asidao/urantia_book_conference_philippines">
+          <span class="pr-2">First Urantia Book Conference of the Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/ChrisWood_thumb2.jpg">
+<img src="/image/article/IUA_Tidings/ChrisWood_thumb2.jpg">
 </figure>
 
 Two themes of _The Urantia Book_ that stand out to me are the journey to perfection of an individual and the journey to perfection of a global society. As individuals, we are born into a world and get to grow and transform as we learn about the experiential relationships between morality and ethics and duty and service. Our ascension career will be a tapestry of good works as we become more and more perfect in our worlds, just as God is in his. 
@@ -32,3 +56,27 @@ Thank you all for your continued service in spreading the teachings of _The Uran
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
 - This article: https://urantia-association.org/presidents-message-june-2020
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2020_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2020 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nestor_Seda_Jr_and_Eugene_Asidao/urantia_book_conference_philippines">
+          <span class="pr-2">First Urantia Book Conference of the Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

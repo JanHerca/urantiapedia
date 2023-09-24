@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Eugene Asidao<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nestor_Seda_Jr_and_Eugene_Asidao/urantia_book_conference_philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Urantia Book Conference of the Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/virtual_study_groups">
+          <span class="pr-2">Virtual Study Groups and Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Filipino-Group-2ED-1.jpg">
+<img src="/image/article/IUA_Tidings/Filipino-Group-2ED-1.jpg">
 </figure>
 
 At the age of 49, I started to increase my efforts as a spiritual truth-seeker. Before that, in my early adult years, I was involved in social service work fields centered on peace and justice issues, but I was always attracted to spirituality. I acquired many books on religion and spirituality and one of those was _The Urantia Book_. I read a few papers that interested me but put it aside to become part of my classic book collection.
@@ -51,7 +75,7 @@ The next group that we made contact with was in Iloilo City located in the Visay
 In Bacolod City, we also met the local branch members of the Theosophical Society after which they asked us to introduce _The Urantia Book_ to their members. We hosted a forum with the topic, _“What Happens To Us After Physical Death?_” Some of the members of the Theosophical Society attended the forum. It is also because of our contact with the Bacolod branch of the Theosophical Society that we attended their national convention in Davao City in 2015. As a result of our contact with the Bacolod branch, we were able to speak in a forum held at their national office in the Manila area four times weekly in 2015.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Filipino-Translation-Team.jpg">
+<img src="/image/article/IUA_Tidings/Filipino-Translation-Team.jpg">
 </figure>
 
 **In the year 2017 we accomplished the following:**
@@ -84,3 +108,27 @@ In general we notice a generation gap within the Urantia movement. This is true 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
 - This article: https://urantia-association.org/urantia-book-philippines
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nestor_Seda_Jr_and_Eugene_Asidao/urantia_book_conference_philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Urantia Book Conference of the Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/virtual_study_groups">
+          <span class="pr-2">Virtual Study Groups and Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

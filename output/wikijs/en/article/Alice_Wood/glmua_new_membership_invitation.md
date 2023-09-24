@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Alice Wood<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gerardo_Leche/guatemala_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guatemala Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/belgium_francophone_urantia_association">
+          <span class="pr-2">Belgium-Francophone Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Alice-Wood-cropped-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Alice-Wood-cropped-150x150.jpg">
 </figure>
 
 Greater Lake Michigan Urantia Association (GLMUA) is a Local Association of the United States Urantia Association (UAUS). Recently we hosted a New Membership Invitation Meeting and as a result, we are now welcoming two new people into our ranks. For organizations like the many Urantia associations around the world that make participation in events open to all, it is difficult to express the benefits of membership. This meeting gave GLMUA an opportunity to pointedly convey who we are, what our goals are, and how it serves the individual and the community when people become members.
@@ -35,3 +59,27 @@ Two new members may not seem like a whole lot, but for us, it is a year’s wort
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
 - This article: https://urantia-association.org/glmua-new-membership-invitation
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gerardo_Leche/guatemala_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guatemala Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/belgium_francophone_urantia_association">
+          <span class="pr-2">Belgium-Francophone Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Lourdes Burga-Cisneros<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Garcia_Bory/challenges_ministry_venezuela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Challenges and Loving Service Ministry in Venezuela</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/womens_meeting_mancora_peru">
+          <span class="pr-2">Women’s Meeting—Máncora, Peru</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Peru-Conference-2018-Group.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Conference-2018-Group.jpg">
 </figure>
 
 The second Urantia Peru National Conference took place in Pachacámac from 20—21 October 2018. Pachacámac is a rural site about 30 km south of Lima in a place called Atinchik (in the Quechua language, “together, we can do it”.)
@@ -29,7 +53,7 @@ Following is a description of the presentations and workshops:
 ## Plenary Presentations
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Peru-Conf-1-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Conf-1-300x225.jpg">
 </figure>
 
 _My Fellow, My Brother_ (Patricia Llosa y Ernesto Kohler). A lecture based on the experience of personal growth about how to consider the different people appearing to you in everyday life as beings to whom and with whom you must cultivate brotherhood.
@@ -59,3 +83,27 @@ Thank you to all volunteers and participants who made this conference such a spe
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
 - This article: https://urantia-association.org/urantia-peru-national-conference-2018
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Garcia_Bory/challenges_ministry_venezuela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Challenges and Loving Service Ministry in Venezuela</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/womens_meeting_mancora_peru">
+          <span class="pr-2">Women’s Meeting—Máncora, Peru</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

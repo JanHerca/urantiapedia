@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Anton Miroshnichenko<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_conference_program_schedule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2015 International Conference Program Schedule</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_new_international_service_board_members">
+          <span class="pr-2">New International Service Board Members</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Anton-Miroshnichenko-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Anton-Miroshnichenko-150x150.jpg">
 </figure>
 
 I conducted a study on the possibility of spreading _The Urantia Book_ through the book trading network in Ukraine. Based on my research, I can describe the following possible book distribution channels in Ukraine.
@@ -20,7 +44,7 @@ I conducted a study on the possibility of spreading _The Urantia Book_ through t
 ## Individual sales over the Internet
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Ukrainian-UB-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Ukrainian-UB-150x150.jpg">
 </figure>
 
 We posted an announcement with a proposition to buy _The Urantia Book_ at the Urantia Association of Ukraine Website, [http://www.urantia.org.ua/p/2013.html](http://www.urantia.org.ua/p/2013.html), as well as on all possible free resources on the Internet (Websites ads, catalogs). Readers could order by phone or by email. A buyer could pay for the book on delivery. Shipping was done through commercial delivery service, “Nova Poshta” (New Mail). This delivery method was very convenient because in Ukraine there is a network of delivery offices. Buyers need to come to the nearest office in his/her city and pick up his purchase. The average delivery period in Ukraine is 1-2 days, and postage for one book costs about $2 to any city in Ukraine.
@@ -50,7 +74,7 @@ After completing the advertising campaign, we will have a choice: leave the book
 
 I am confident that we can and should use all avenues available to us in the way of modern marketing tools to distribute _The Urantia Book_. As stated in the Parable of the Shrewd Steward,
 
-> _If you were so diligent in making gains for yourselves when in the service of self, why should you show less diligence in gaining souls for the kingdom since you are now servants of the brotherhood of man and stewards of God?_ ([UB 169:2.2](/en/The_Urantia_Book/169#p2_2))
+> _If you were so diligent in making gains for yourselves when in the service of self, why should you show less diligence in gaining souls for the kingdom since you are now servants of the brotherhood of man and stewards of God?_ (<a id="a76_231"></a>[UB 169:2.2](/en/The_Urantia_Book/169#p2_2))
 
 I believe that we must use all appropriate, proportionate, and reasonable tools to reach prospective readers of _The Urantia Book_.
 
@@ -62,3 +86,27 @@ Anton Miroshnichenko
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/spreading-the-urantia-book-in-ukraine
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_conference_program_schedule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2015 International Conference Program Schedule</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_new_international_service_board_members">
+          <span class="pr-2">New International Service Board Members</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

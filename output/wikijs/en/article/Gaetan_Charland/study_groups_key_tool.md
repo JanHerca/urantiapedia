@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Gaétan G. Charland<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/uk_urantia_meeting_pato_banton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UK Urantia Book Readers’ Meeting with Pato Banton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_and_Indira/responses_young_reader_feedback">
+          <span class="pr-2">Responses to Call from Young Reader Feedback</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
 </figure>
 
 Hello to study group hosts and participants. In the November edition of _Tidings_, I wrote an article on [Study Groups and Young People](http://urantia-association.org/newsletter/tidings-november-2016/#23084) which attracted the attention of a few readers. I have obtained permission from these readers to publish their comments so you will have the opportunity to read what they have said about this topic. Please feel free to respond to those comments or to any articles I write, or have written about study groups that are published in this newsletter.
@@ -23,7 +47,7 @@ In my own desire to increase the effectiveness of the study group that I have be
 We have developed a new innovation for our group due to the fact that there are numerous reasons why people cannot attend, not the least of which is that the winter in Quebec can often make travel hazardous. Therefore we have made our group accessible via a teleconferencing program called Zoom. Mind you, it’s not a full-fledged online study group where anyone from around the world can join, but occasionally we have visitors who want to see what a study group is like.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/UB-study-group-300x199.jpg">
+<img src="/image/article/IUA_Tidings/UB-study-group-300x199.jpg">
 </figure>
 
 For this experience, the only things needed are a computer with a camera and microphone or a tablet that can sit close to the area where the group is meeting and, of course, a subscription to Zoom which is simple to arrange and not very expensive. I have a subscription that I could share with anyone who may be interested as long as you do require a meeting at the same time as ours. This is a great way to attract new members to your group. It offers them a way to participate if they are too far away to travel to any groups. It can also be a good introduction to a study group while being minimally intimidating to some new readers.
@@ -44,3 +68,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2017/
 - This article: https://urantia-association.org/study-groups-key-tool
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/uk_urantia_meeting_pato_banton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UK Urantia Book Readers’ Meeting with Pato Banton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_and_Indira/responses_young_reader_feedback">
+          <span class="pr-2">Responses to Call from Young Reader Feedback</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

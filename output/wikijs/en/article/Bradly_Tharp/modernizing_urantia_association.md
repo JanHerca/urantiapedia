@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Bradly Tharp<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/urantia_association_educational_activities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Association Educational Activities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Enrique_Traver/latin_american_conference_2018_brazil">
+          <span class="pr-2">Latin American Conference 2018 in Brazil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Bradly-Tharp-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Bradly-Tharp-150x150.jpg">
 </figure>
 
 As the Chief Financial Officer of Urantia Association International and Chair of the Association’s Finance Committee, it has been my privilege to witness the growth and transformation of the International Association. This modernization has been due to the quality leadership and exemplary service of many talented volunteers, committing their professional skill, personal idealism, and loving dedication to the mission of the global dissemination of _The Urantia Book_ and its teachings. Upon such a foundation of idealism, vision, and effort by so many, the Association has constructed an organizational infrastructure that reaches around the world today, bringing together thousands of students and believers in fellowship with one another, in a shared ministry of in-depth study and a mission of service.
@@ -43,3 +67,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
 - This article: https://urantia-association.org/modernizing-urantia-association
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/urantia_association_educational_activities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Association Educational Activities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Enrique_Traver/latin_american_conference_2018_brazil">
+          <span class="pr-2">Latin American Conference 2018 in Brazil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

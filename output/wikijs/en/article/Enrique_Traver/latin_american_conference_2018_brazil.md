@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Enrique Traver<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bradly_Tharp/modernizing_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">We Have Modernized Urantia Association International</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_2021_urantia_int_conf_peru">
+          <span class="pr-2">2021 Urantia Association International Conference – Peru</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Logo-2nd-Latin-American-Urantia-Conference-small-300x319.jpg">
+<img src="/image/article/IUA_Tidings/Logo-2nd-Latin-American-Urantia-Conference-small-300x319.jpg">
 </figure>
 
 We are rapidly approaching the time when the 2<sup>nd</sup> Latin American regional conference will be held in São Paulo, Brazil on November 1—4, 2018. The theme for the conference will be “_Living the Teachings_” and will take place at the Monaco Hotel, in the city of Guarulhos (one of the towns of São Paulo) and which is very close to the São Paulo International Airport (Guarulhos).
@@ -33,7 +57,7 @@ The package negotiated by the conference organizers includes all meals (breakfas
 Although the cost is reasonable, if you still have economic difficulties restricting you from attending, you may apply for a sponsorship that could cover the partial or total fee. Send your request to [contato@urantia.com.br](mailto:contato@urantia.com.br).
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Map-Brazil-Conf-706x339.jpg">
+<img src="/image/article/IUA_Tidings/Map-Brazil-Conf-706x339.jpg">
 </figure>
 
 If you wish to take a tour of Brazil, be sure to plan your tour before or after the conference. Our organizational team will be happy to advise you on a suitable tour package.
@@ -50,3 +74,27 @@ President UAB—Brazil
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
 - This article: https://urantia-association.org/latin-american-conference-2018-brazil
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bradly_Tharp/modernizing_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">We Have Modernized Urantia Association International</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_2021_urantia_int_conf_peru">
+          <span class="pr-2">2021 Urantia Association International Conference – Peru</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

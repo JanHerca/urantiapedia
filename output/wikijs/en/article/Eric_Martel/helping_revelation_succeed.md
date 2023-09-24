@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Eric Martel<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/womens_meeting_mancora_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Women’s Meeting—Máncora, Peru</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_graduation_richard_keeler">
+          <span class="pr-2">Graduation of Richard Keeler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hello Everyone,
 
@@ -36,3 +60,27 @@ Eric Martel
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
 - This article: https://urantia-association.org/helping-revelation-succeed
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/womens_meeting_mancora_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Women’s Meeting—Máncora, Peru</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_graduation_richard_keeler">
+          <span class="pr-2">Graduation of Richard Keeler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

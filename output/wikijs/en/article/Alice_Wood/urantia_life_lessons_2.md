@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Alice Wood<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nathen_Jansen/urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Global Experience – Vancouver 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/18th_national_spain">
+          <span class="pr-2">18th National Meeting of Readers in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ### A Personal Outreach
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Alice-Wood-with-book-e1558059002332-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Alice-Wood-with-book-e1558059002332-300x225.jpg">
 </figure>
 
 I’m Alice Wood and I am the creator of the YouTube channel, _[Urantia Life Lessons](https://www.youtube.com/channel/UCil35h5NBjq8xlPXzV50spA)._ This is a platform designed to walk people through the teachings of _The Urantia Book_ as they relate to our daily lives.
@@ -64,3 +88,27 @@ https://youtu.be/HaR9xXGn360?list=PLyWjRQTGTD6K_ExQP-0B58ws0NZr8Gxwd
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/urantia-life-lessons
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nathen_Jansen/urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Global Experience – Vancouver 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/18th_national_spain">
+          <span class="pr-2">18th National Meeting of Readers in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/internatl_conf_2018_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference 2018 Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/ghana_conference_report_2018">
+          <span class="pr-2">Ghana Conference Report 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The following are testimonials from two conference attendees, Jorge Buckingham and Mairam Durand from Peru who shared their experiences of the International Conference in The Netherlands with us.
 
 ## Jorge Buckingham, Urantia Peru:
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/2018-IC-Flowers-1-300x225.jpg">
+<img src="/image/article/IUA_Tidings/2018-IC-Flowers-1-300x225.jpg">
 </figure>
 
 It is said that that the great experiences are remembered forever—more so if such experiences form part of a learning process that transforms our lives. And it must be true, because evoking the memories of the 10th Urantia Association International Conference brings me a very special pleasure.
@@ -34,7 +58,7 @@ To sum up, being part of this international conference, celebrated near the city
 ## Mairam Durand, Urantia Peru:
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Netherlands-Garden-1-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Netherlands-Garden-1-300x225.jpg">
 </figure>
 
 To travel is a human activity that allows us to contrast our own reality with new realities we are getting to know… a true adventure, indeed. But getting to know so many people (almost two hundred) who consider _The Urantia Book_ part of their lives is, without doubt, also a privilege.
@@ -56,3 +80,27 @@ I must conclude this little note thanking all and each of the organizers (whose 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
 - This article: https://urantia-association.org/reflections-international-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/internatl_conf_2018_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference 2018 Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/ghana_conference_report_2018">
+          <span class="pr-2">Ghana Conference Report 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

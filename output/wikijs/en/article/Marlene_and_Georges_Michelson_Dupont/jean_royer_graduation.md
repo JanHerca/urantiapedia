@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Marlène and Georges Michelson-Dupont<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/subsites_regional_urantia_associations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subsites for Regional Urantia Associations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/online_workshop_series_report">
+          <span class="pr-2">Online Workshop Series Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Jean-Royer-300x247.jpg">
+<img src="/image/article/IUA_Tidings/Jean-Royer-300x247.jpg">
 </figure>
 
 Jean Royer, one of the Association’s most long-standing and dedicated French translation volunteers graduated from Urantia on the 5th of February, 2018 at the age of 78 years. He passed away in the evening in the hospital of Avignon (South of France.)
@@ -43,3 +67,27 @@ Thank you, Jean for being such a loving and inspiring brother. See you soon.
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
 - This article: https://urantia-association.org/jean-royer-graduation
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/subsites_regional_urantia_associations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subsites for Regional Urantia Associations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/online_workshop_series_report">
+          <span class="pr-2">Online Workshop Series Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

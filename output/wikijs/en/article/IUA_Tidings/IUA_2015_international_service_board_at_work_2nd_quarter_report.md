@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Hartt_Tenney_and_David_S_Tenney/spiritual_unity_in_new_england">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Unity in New England</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## President
 
@@ -72,3 +93,24 @@ Chris Moseley and his team continue to provide translation services to the ISB, 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
 - This article: https://urantia-association.org/international-service-board-at-work-2nd-quarter-report-for-2015-2
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Hartt_Tenney_and_David_S_Tenney/spiritual_unity_in_new_england">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Unity in New England</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

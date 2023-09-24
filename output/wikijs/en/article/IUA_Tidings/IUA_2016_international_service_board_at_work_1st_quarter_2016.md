@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/rejuvenating_your_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rejuvenating Your Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Study Group Committee – _Gaetan Charland, Chair_
 
@@ -85,3 +106,24 @@ Bradly and his committee completed the 2015 Year-End Financial Statements, worke
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2016/
 - This article: https://urantia-association.org/international-service-board-at-work-1st-quarter-2016
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/rejuvenating_your_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rejuvenating Your Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

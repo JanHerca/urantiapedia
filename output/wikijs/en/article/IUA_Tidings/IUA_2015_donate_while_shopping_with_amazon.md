@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_group_directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Group Directory</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 # Donate while Shopping with Amazon
 
@@ -49,3 +70,24 @@ Donations are made by the AmazonSmile Foundation and are not tax deductible by y
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
 - This article: https://urantia-association.org/donate-while-shopping-with-amazon
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_group_directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Group Directory</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

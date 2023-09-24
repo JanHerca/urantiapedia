@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Gaétan G. Charland<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Linthicum/seeding_the_urantia_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seeding The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland_and_Line_St_Pierre/farewell_herrol_dallaire_quebec">
+          <span class="pr-2">Farewell Herrol Dallaire, Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
 </figure>
 
 During the last two months, calls were made to many different Urantia Associations across the world to recruit volunteers to join the Urantia International Study group Committee. We had good results; four members of different Associations have come forth and offered their help to further the mission of this committee. Presently the committee can start addressing its task by first revising its strategic plan.
@@ -37,3 +61,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
 - This article: https://urantia-association.org/study-group-committee-in-the-making
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Linthicum/seeding_the_urantia_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seeding The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland_and_Line_St_Pierre/farewell_herrol_dallaire_quebec">
+          <span class="pr-2">Farewell Herrol Dallaire, Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_international_conference_financial_aid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Financial Aid – 2018 International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Sycamore_and_David_Fabe/gothenburg_book_fair_sweden">
+          <span class="pr-2">Gothenburg Book Fair – Sweden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Leadership-Workshop-Poster-300x180.jpg">
+<img src="/image/article/IUA_Tidings/Leadership-Workshop-Poster-300x180.jpg">
 </figure>
 
 Since September 16<sup>th,</sup> 2017, the Urantia Association International Education Committee has been organizing a weekly online Zoom Worksop series about “Leadership and Teaching According to _The Urantia Book_,” with the purpose of studying the guiding principles that allow us to fulfill Jesus’ and the revelator’s instructions to serve the revelation. We are told in _The Urantia Book_ that
@@ -22,7 +46,7 @@ Since September 16<sup>th,</sup> 2017, the Urantia Association International Edu
 and that …
 
 
-> _…these new teachers of Jesus’ religion … will be exclusively devoted to the spiritual regeneration of men_. [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> _…these new teachers of Jesus’ religion … will be exclusively devoted to the spiritual regeneration of men_. <a id="a48_111"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 The sessions have been instructive and thought-provoking, with the active participation of Urantia Book students from different countries like Canada, USA, France, Switzerland, Israel, Mexico, Guatemala, Germany, Peru, and Belgium.
 
@@ -72,7 +96,7 @@ Rick serves as the UAUS Vice President and Education Committee Chair. Rick prese
 
 Jeff presented two workshop sessions. On November 11<sup>th</sup> he led a session about “_Leadership and Teamwork_,” and on November 18<sup>th</sup> another one on “_Teaching_.” One of his most inspirational remarks was:
 
-“Whether our gift for leadership is large or small, developing that gift is a part of becoming like God. God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality _and in_ _his universal sphere of righteous supremacy._ [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)] To become like God _in our sphere_, means (in addition to acquiring self-mastery and the beautiful wholeness of righteousness) becoming a good leader, even in such a temporary, mundane activity such as showing another person how to do something simple, or organizing a few people to prepare a meal. We all have opportunities for leadership, whether we think of it in that way or not; and we do well to study the ways of divine leadership, and its profound connections with service and teamwork.”
+“Whether our gift for leadership is large or small, developing that gift is a part of becoming like God. God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality _and in_ _his universal sphere of righteous supremacy._ <a id="a98_355"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)] To become like God _in our sphere_, means (in addition to acquiring self-mastery and the beautiful wholeness of righteousness) becoming a good leader, even in such a temporary, mundane activity such as showing another person how to do something simple, or organizing a few people to prepare a meal. We all have opportunities for leadership, whether we think of it in that way or not; and we do well to study the ways of divine leadership, and its profound connections with service and teamwork.”
 
 If you want to read more about this beautiful lesson, please go to: [https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork](https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork)
 
@@ -85,3 +109,27 @@ If you would like to view the Workshop videos, please visit the Urantia Associat
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/online-workshops-leadership
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_international_conference_financial_aid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Financial Aid – 2018 International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Sycamore_and_David_Fabe/gothenburg_book_fair_sweden">
+          <span class="pr-2">Gothenburg Book Fair – Sweden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

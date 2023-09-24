@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Marta & Dave Elders<br>© 2014 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/young_reader_study_group_in_boulder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Young Reader Study Group in Boulder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_mini_study_guide">
+          <span class="pr-2">Mini-Study Guide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/UBIS-graphic.jpg">
+<img src="/image/article/IUA_Tidings/UBIS-graphic.jpg">
 </figure>
 
 Unlike human education, which makes information and knowledge accessible to the thinking mind, in the encounter with _The Urantia Book_ teachings, _The Urantia Book Internet School_ (UBIS) has to provide students with the opportunity to realize truth in their own experience. As mota 16 declares: “You cannot perceive truth until you feelingly experience it…” That begs several questions: How do we provide for that experience in the online UBIS classroom comprised of students who are not physically present to one another? What role (if any) does the soul play in both the experience of truth and in its consequent perception? As we read and study together the words which embody the fifth epochal revelation, can the Teacher-Facilitator and students together create an enhanced awareness of the possibility of, and the necessity for, the personal experience of truth which will lead to its subsequent perception?
@@ -31,3 +55,27 @@ _(Excerpted from the UBIS Newsletter. For the full article, visit [ubis.urantia.
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/teaching-and-facilitating-in-the-ubis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/young_reader_study_group_in_boulder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Young Reader Study Group in Boulder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_mini_study_guide">
+          <span class="pr-2">Mini-Study Guide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

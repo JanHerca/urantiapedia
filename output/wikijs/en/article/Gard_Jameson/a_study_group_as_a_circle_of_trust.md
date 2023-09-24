@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_december_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – December 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/3rd_european_conference_of_urantia_book_readers">
+          <span class="pr-2">3rd European Conference of Urantia Book Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gard-Jameson.jpg">
+<img src="/image/article/IUA_Tidings/Gard-Jameson.jpg">
 </figure>
 
 I invite you to consider a study group as a Circle of Trust.  I became familiar with the term “Circle of Trust” back in 2004 with the publication of Parker Palmer’s book, _A Hidden Wholeness_.  Our community has engaged a number of retreats using the tool kit of the Circle of Trust.  Parker Palmer hails from the Quaker Tradition and shares in his book many insights of that tradition, which are in agreement with the teachings of Jesus.  He quotes Rufus Jones, one of the human sources used in the development of _The Urantia Book_, who writes: “_I pin my hopes to quiet processes and small circles, in which vital and transforming events take place_.”  In the history of the development of _The Urantia Book_ there was a communication known as the Publication Mandate that the Forum studied very closely which states:
@@ -68,6 +92,31 @@ _Let Silence take you to the Core of Life_
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2022/
 - This article: https://urantia-association.org/a-study-group-as-a-circle-of-trust
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_december_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – December 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/3rd_european_conference_of_urantia_book_readers">
+          <span class="pr-2">3rd European Conference of Urantia Book Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

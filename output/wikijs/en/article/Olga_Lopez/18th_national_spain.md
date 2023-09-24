@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Olga Lopez<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Life Lessons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alain_Cyr/parliament_worlds_religions_2018">
+          <span class="pr-2">The Parliament of the World’s Religions 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Inner Life
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Malaga-from-Gibralfaro-mb-300x215.jpg">
+<img src="/image/article/IUA_Tidings/Malaga-from-Gibralfaro-mb-300x215.jpg">
 </figure>
 
 The 18th Meeting of readers in Spain began on Thursday afternoon, April 25th at the Hotel Estival Torrequebrada, located just beside the Mediterranean Sea in the town of Benalmádena (Málaga, Spain). Forty-five attendees came from all over the country and also from abroad, including Germany, Finland, Israel, the Netherlands, Portugal, and Switzerland. Among our guests were Antonio Schefer, Urantia Association’s Conference Committee Chair, and Sebastian Nozzi, European Coordinator. Thank you all for coming!
@@ -38,7 +62,7 @@ The next day, we started our activities by watching a film-documentary related t
 Attendees were assigned to a group and given a set of questions to discuss. These groups had a moderator-facilitator and were organized so that each one of them was as diverse as possible (men and women, new and long-term readers together), with the purpose that all members in the group got to know each other and felt at ease sharing their insights. After the breakout session, all the groups got together again to share what they had found.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Group-Picture-1-e1558819620428-706x431.jpg">
+<img src="/image/article/IUA_Tidings/Group-Picture-1-e1558819620428-706x431.jpg">
 </figure>
 
 The presenters for each one of the subthemes were:
@@ -68,3 +92,27 @@ Olga
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/18th-national-spain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Life Lessons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alain_Cyr/parliament_worlds_religions_2018">
+          <span class="pr-2">The Parliament of the World’s Religions 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

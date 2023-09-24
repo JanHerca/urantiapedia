@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Karen_Huigsloot/international_conference_2018_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference 2018 Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="pr-2">Online Workshops “Teaching and Leadership According to The Urantia Book”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
+<img src="/image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
 </figure>
 
 Urantia Association’s Financial Aid Committee recently met with the organizers of next year’s 2018 International Conference ([The Netherlands 12 to 15 April](https://urantia-association.org/2017/2018-urantia-international-conference/)). Among other things, the important subject of financial aid to students requiring sponsorship was discussed. Following is some information on sponsorships.
@@ -64,7 +88,7 @@ Sincerely,
 2018 Urantia Association International Conference Financial Aid Sub-Committee
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Event-Poster-2018-Urantia-Association-International-Conference.jpg">
+<img src="/image/article/IUA_Tidings/Event-Poster-2018-Urantia-Association-International-Conference.jpg">
 </figure>
 
 ## References
@@ -72,3 +96,27 @@ Sincerely,
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/international-conference-financial-aid
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Karen_Huigsloot/international_conference_2018_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference 2018 Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="pr-2">Online Workshops “Teaching and Leadership According to The Urantia Book”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

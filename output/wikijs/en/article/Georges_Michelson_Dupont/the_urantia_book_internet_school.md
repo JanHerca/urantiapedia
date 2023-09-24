@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Georges Michelson-DuPont<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_meeting_21st_august">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dutch Urantia Meeting 21st August</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration & Healing From The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/UBIS-Website-Image-300x150.jpg">
+<img src="/image/article/IUA_Tidings/UBIS-Website-Image-300x150.jpg">
 </figure>
 
 I would like to tell you about the Urantia Book Internet School (UBIS). This adventure of our age is staffed by a team of volunteers; women and men who are devoted to building something substantial and enduring that will assist readers of _The Urantia Book_.
@@ -42,7 +66,7 @@ The Urantia Book Internet School currently provides courses in English, Spanish,
 The school’s academic year consists of trimesters lasting ten weeks each. Enrollment and registration occur during the first half of September, January, and April.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/UBIS-Board-300x181.jpg">
+<img src="/image/article/IUA_Tidings/UBIS-Board-300x181.jpg">
 <figcaption><em>The UBIS Board</em></figcaption>
 </figure>
 
@@ -70,14 +94,14 @@ If a reader of _The Urantia Book_ is well advanced in studying the teachings and
 ## A Cordial Invitation
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/UBIS-Sun-300x262.jpg">
+<img src="/image/article/IUA_Tidings/UBIS-Sun-300x262.jpg">
 </figure>
 
 On behalf of the Trustees, Associate Trustees, and staff of Urantia Foundation, I cordially invite each of you to confirm the accuracy of everything that I have written here by registering for one or more courses of the Urantia Book Internet School. Our website [http://ubis.urantia.org/moodle](http://ubis.urantia.org/moodle) explains the curriculum and provides all the other information that you will need.
 
 I would like to finish with this profoundly inspiring thought that our Sovereign Creator Son Michael of Nebadon voiced to a young companion of his while he was incarnate on Urantia in the human form of Jesus of Nazareth:
 
-> “In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.” [[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)]
+> “In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.” <a id="a103_343"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)]
 
 Thank you for your attention.  
 Georges Michelson-DuPont
@@ -89,3 +113,27 @@ Georges Michelson-DuPont
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
 - This article: https://urantia-association.org/the-urantia-book-internet-school
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_meeting_21st_august">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dutch Urantia Meeting 21st August</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration & Healing From The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

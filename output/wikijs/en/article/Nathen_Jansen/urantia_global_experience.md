@@ -9,12 +9,36 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Nathen Jansen<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/annual_retreat_uk_ireland_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Annual Retreat for UK and Ireland 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="pr-2">Urantia Life Lessons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Vancouver, Canada 15—19 July 2020
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/logo-2020-2k-UGE2-150x150.jpg">
+<img src="/image/article/IUA_Tidings/logo-2020-2k-UGE2-150x150.jpg">
 </figure>
 
 **Lifting Together—United in Purpose—Serving God the Supreme**
@@ -41,3 +65,27 @@ The UGE website will be published and announced on July 1, Canada Day 2019.
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/urantia-global-experience
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/annual_retreat_uk_ireland_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Annual Retreat for UK and Ireland 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="pr-2">Urantia Life Lessons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

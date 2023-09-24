@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 David Linthicum<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_anzura_conference_tasmania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Conference Tasmania 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_group_committee_in_the_making">
+          <span class="pr-2">Study Group Committee in the Making</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/David-Linthicum-150x150.jpeg">
+<img src="/image/article/IUA_Tidings/David-Linthicum-150x150.jpeg">
 </figure>
 
 I’m sure we all recall our first experience with attempts to share the book with family and friends. If your experience was anything like mine, you might have been left with a feeling of profound disappointment and perhaps even surprise that not everyone was as enthusiastic about the book as you were. Why wouldn’t they see the light and embrace this marvellous book? Why am I unable to convince people that this is the best book ever written?
@@ -59,6 +83,31 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
 - This article: https://urantia-association.org/seeding-the-urantia-book
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_anzura_conference_tasmania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Conference Tasmania 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_group_committee_in_the_making">
+          <span class="pr-2">Study Group Committee in the Making</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Foonotes
 

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Steve Sycamore and David Fabe<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Online Workshops “Teaching and Leadership According to The Urantia Book”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="pr-2">Dancing with God: Emerging in Sacredness – A Retreat for Women</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gothemburg-Book-Fair2-1-300x218.jpg">
+<img src="/image/article/IUA_Tidings/Gothemburg-Book-Fair2-1-300x218.jpg">
 </figure>
 
 Over the course of four days starting September 28th we manned a booth at the Gothenburg Book Fair in Sweden. The event was really much more than a book fair. It is essentially Scandinavia’s largest cultural gathering of the year with roughly 100,000 visitors. The floor space was mind-bogglingly large with many rooms and levels. It was quite easy to get temporarily lost as we explored the various other presentations and seminars.
@@ -22,7 +46,7 @@ _The Urantia Book_ is largely unknown in Scandinavia; hence, few books were sold
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Gothemburg-Book-Fair1-1-706x471.jpg">
+<img src="/image/article/IUA_Tidings/Gothemburg-Book-Fair1-1-706x471.jpg">
 </figure>
 
 It is quite expensive to exhibit at the book fair. Because of limited financial resources and available time our booth was very simplistic and rudimentary compared to most others. The amount of art and resources that went into a typical stand was stunning. We may have undergone the danger of not being perceived as a serious player in the cultural arena. Also, we didn’t seem to have a lot of drawing power which could have been attributed to the simple appearance of the booth. One could argue that it is difficult to portray spiritual inspiration and transcendent wisdom to a crowd which doesn’t spontaneously appreciate such things, even though the Catholic Church and Emanuel Swedenborg exhibits seemed to have interested visitors most of the time.
@@ -34,3 +58,27 @@ A good percentage of the people who showed the most interest or curiosity in the
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/gothenburg-book-fair-sweden
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Online Workshops “Teaching and Leadership According to The Urantia Book”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="pr-2">Dancing with God: Emerging in Sacredness – A Retreat for Women</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

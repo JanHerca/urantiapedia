@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_exciting_service_opportunity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Exciting Service Opportunity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_incarcerated_and_valued">
+          <span class="pr-2">Incarcerated and Valued</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introducing Urantia Association’s Language Learning & Multi-Linguist Project*
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Teaching-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Teaching-300x200.jpg">
 </figure>
 
 We are now in the Urantia Post-Bestowal Age. As regards our current age, _The Urantia Book_ states:
@@ -22,7 +46,7 @@ We are now in the Urantia Post-Bestowal Age. As regards our current age, _The Ur
 > 
 > _1\. Social fraternity. Multiplication of international and interracial social contacts and fraternal associations through travel, commerce, and competitive play. **Development of a common language and the multiplication of multilinguists. The racial and national interchange of students**, teachers, industrialists, and religious philosophers._
 > 
-> _2\. Intellectual cross-fertilization. **... There must occur an exchange of national and racial literature.** Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love._ [[UB 52:6.2-4](/en/The_Urantia_Book/52#p6_2) Emphasis added]
+> _2\. Intellectual cross-fertilization. **... There must occur an exchange of national and racial literature.** Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love._ <a id="a48_335"></a>[[UB 52:6.2-4](/en/The_Urantia_Book/52#p6_2) Emphasis added]
 
 In a first effort to address these challenges, Urantia Association International is embarking on a new program to encourage and provide support in learning a new language, and to increase the number of multi-linguists within our community. This program will begin by finding a volunteer(s) who speaks English and Spanish to coordinate the first group of 12 Spanish-speaking students who wish to learn or improve their English.
 
@@ -42,3 +66,27 @@ Thank you for considering this exciting service opportunity.
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2019/
 - This article: https://urantia-association.org/language-multi-linguist-project
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_exciting_service_opportunity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Exciting Service Opportunity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_incarcerated_and_valued">
+          <span class="pr-2">Incarcerated and Valued</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

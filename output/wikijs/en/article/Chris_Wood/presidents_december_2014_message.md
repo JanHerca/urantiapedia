@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Chris Wood<br>© 2014 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2014_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2014 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Perry/virginia_carolina_readers_12th_annual_conference">
+          <span class="pr-2">Virginia-Carolina Readers 12th Annual Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 There is excitement in the air! There is no definitive way to measure excitement, to say that there is more excitement than last week or last month or last year – excitement is an experiential reality. But this buzz in the air about the Association and the projects we are accomplishing together has manifested in two ways: first, people are talking! In their recent letter to their entire mailing list, the Urantia Foundation chose to highlight two of the Association’s national projects. In Colombia the Association has been importing books and selling them to individuals and bookstores hoping to reduce the cost of _El Libro de Urantia_ in their country. In Ukraine, the National Association has taken a similar step, and together with the International Association we have embarked on a plan to pierce the tough wall of the Ukrainian bookstore market. The success of the National Associations in Colombia and Ukraine will serve as models for other nations to follow paths to make the teaching of The Urantia Book more available and more affordable than ever before. The story of these Associations is so inspiring that the entire Urantia Community wants to spread the word and sing their praises!
@@ -37,3 +61,27 @@ Chris Wood
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/presidents-december-2014-message
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2014_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2014 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Perry/virginia_carolina_readers_12th_annual_conference">
+          <span class="pr-2">Virginia-Carolina Readers 12th Annual Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

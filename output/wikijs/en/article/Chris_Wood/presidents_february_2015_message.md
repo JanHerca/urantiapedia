@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Chris Wood<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2015_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — February 2015 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_2015_urantia_association_international_conference">
+          <span class="pr-2">2015 Urantia Association International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 Fellow students of _The Urantia Book_, I want to give you exciting updates on four of the many ongoing projects the Urantia Association International is juggling.
@@ -19,13 +43,13 @@ Fellow students of _The Urantia Book_, I want to give you exciting updates on fo
 In December we called for donations to help send a shipment of books to Zambia and Malawi, two countries with growing reader communities in southern Africa. Thanks to many generous donors and our dedicated “Seed” funding, 200 copies of _The Urantia Book_ set sail across the Atlantic. The ones to Malawi have already arrived safely.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Photo0855-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Photo0855-150x150.jpg">
 </figure>
 
 There are eight study groups in Malawi, with 60 people who have finished their first reading of _The Urantia Book_, and there are many more who are eagerly reading. This shipment of books will allow for students to have their own copies as well as copies of the book to be placed in universities, hospitals, and libraries throughout the country. As many of you would know, Malawi has recently suffered from devastating floods, with half of the country being declared an emergency disaster zone. Grevet Moyo, who serves as Association President in Malawi, and Rick Lyon, former Executive Director of Urantia Association International, have teamed up to sell Malawi art in the United States to help one village. (Anyone wishing to purchase some of these paintings can contact the Central Office or Rick at [ricklyon@tctc.com](mailto:ricklyon@tctc.com).)
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/village-300x149.jpg">
+<img src="/image/article/IUA_Tidings/village-300x149.jpg">
 </figure>
 
 In Zambia there are 14 study groups, with an average of eight attendees per group, all of whom share copies of _The Urantia Book_. There are many stories about the Forum members’ excitement when they were allowed to take copies of _The Urantia Book_ home for personal study and to share with family and friends. In Zambia that same feeling of excitement will soon be shared by dozens of dedicated students.
@@ -45,3 +69,27 @@ President
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/presidents-february-2015-message
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2015_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — February 2015 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_2015_urantia_association_international_conference">
+          <span class="pr-2">2015 Urantia Association International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

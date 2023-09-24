@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Kathleen Swadling<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/antfil_an_alternative_fair_in_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANTFIL – an Alternative Fair in Peru</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Mark-Bloomfield2-Adjusted-300x366.jpg">
+<img src="/image/article/IUA_Tidings/Mark-Bloomfield2-Adjusted-300x366.jpg">
 </figure>
 
 Mark Bloomfield, just 54 years of age, died recently from injuries after a tragic incident in Swansea, Wales. The matter is under investigation with the police and a man has been charged. This horrific event made the British news because of Mark’s links with Mother Teresa. The **BBC News** reported: 
@@ -23,7 +44,7 @@ Mark was a Field Representative of Urantia Foundation in the late 1990’s and e
 During much of that time I served as Urantia Foundation’s Representative Manager where I had the pleasure of assisting with the coordination of Mark’s many seeding projects while he was out and about in the field. I, along with several others attended three book fairs in India with Mark while he was living there. He took care of all the arrangements for the booth including the importing and delivery of the books. He also acted as a chaperone and educator of Indian culture for we western visitors who were not familiar with the complexities of life in India. Mark’s ability to engage with interested people who visited our booth was impressive to say the least. He was eloquent, gracious and able to adapt _The Urantia Book_ teachings to literally hundreds of people hailing from the many different faiths practiced in India.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Korean-Books-delivery-2006-300x205.jpg">
+<img src="/image/article/IUA_Tidings/Korean-Books-delivery-2006-300x205.jpg">
 </figure>
 
 In 2000 Mark accompanied me to Seoul in South Korea where he and David Kim (who is now President of the Korean Urantia Association) unloaded a delivery of 5,000 Korean translations from the back of a truck and carried them up two flights of stairs where they were to be stored in David’s warehouse. After that he traveled through South Korea and placed around 600 copies of the new translation in various types of libraries. 
@@ -42,7 +63,7 @@ Here’s what Mark had to say about his adventure in Myanmar (Burma):
 ## 2006 In Australia
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Mark-B-253x400.jpg">
+<img src="/image/article/IUA_Tidings/Mark-B-253x400.jpg">
 </figure>
 
 Some of us will remember Mark from the 2006 Urantia Association International Conference held at the Women’s College in Sydney. Our theme was titled “_Rewards of Isolation—Small Teams in Deep Waters._” Mark gave a passionate and inspiring presentation about the nature and mission of the Urantia Revelation. One aspect of his talk made a big impression on me; he disputed the “small teams in deep waters” part of our theme title by thoroughly reversing the meaning by saying that with all the power of the universe behind us how can we call ourselves “small?” Rather he’d prefer to think of us as “large teams in little puddles!” By emphasizing the magnitude of the mission of the fifth epochal revelation with the masses of unseen celestial friends on our side working for our success, coupled with the power of our Faith in the Father, we should have more confidence and courage_—_and dare to go forth _…in the sole company of TRUTH._ \[103:9.7, 1141.5\]
@@ -51,7 +72,7 @@ Some of us will remember Mark from the 2006 Urantia Association International Co
 ## The FreeSchools Chapter
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Mark-Robert-Motihari-2000-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Mark-Robert-Motihari-2000-300x225.jpg">
 </figure>
 
 Mark’s other “claim-to-fame” among many Urantia Book students was his pioneering work with the development of what is now known as “FreeSchools World Literacy.” Many readers who were associated with Mark came to know about his FreeSchools work in India and were inspired to support and become involved. Here’s a bit of history of the schools’ development in the early years (taken from the FreeSchools website at [https://freeschools.org](https://freeschools.org/)):
@@ -62,7 +83,7 @@ Mark’s other “claim-to-fame” among many Urantia Book students was his pion
 Visit the [FreeSchools website](https://freeschools.org/about/) to read the timeline up to the present day on the incredible development of this charity which is now thriving with many schools based on the original model.
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Mark-Ben-Harbour-Adjusted-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Mark-Ben-Harbour-Adjusted-300x225.jpg">
 </figure>
 
 Ben Bowler, who took over Marks’ FreeSchools work in Thailand wrote:
@@ -74,7 +95,7 @@ Ben Bowler, who took over Marks’ FreeSchools work in Thailand wrote:
 Our heart-felt sympathy and prayers go to Mark’s family and to all those who knew him well and called him “friend” and “brother.” May his resurrection on the Mansion Worlds be joyous and compensate for the tragic manner of his premature departure from this world.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Mark-B-arms-Adjusted-481x706.jpg">
+<img src="/image/article/IUA_Tidings/Mark-B-arms-Adjusted-481x706.jpg">
 </figure>
 
 ## References
@@ -82,3 +103,24 @@ Our heart-felt sympathy and prayers go to Mark’s family and to all those who k
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2019/
 - This article: https://urantia-association.org/farewell-mark-bloomfield
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/antfil_an_alternative_fair_in_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANTFIL – an Alternative Fair in Peru</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Charles & Indira<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_key_tool">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups – A Key Tool</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_international_service_board_elections">
+          <span class="pr-2">International Service Board Elections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/20160919_130210-300x225.jpg">
+<img src="/image/article/IUA_Tidings/20160919_130210-300x225.jpg">
 </figure>
 
 _Below are a couple responses to the articles that were published by Gaetan Charland, the Association’s Study Group Chair in the November 2016 Tidings concerning the subject of young Urantia Book readers in study groups._
@@ -61,3 +85,27 @@ Indira
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2017/
 - This article: https://urantia-association.org/responses-young-reader-feedback
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_key_tool">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups – A Key Tool</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_international_service_board_elections">
+          <span class="pr-2">International Service Board Elections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

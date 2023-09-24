@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Enrique Traver<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2021_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="pr-2">2024 Urantia Association International Conference in USA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/image-1.jpeg">
+<img src="/image/article/IUA_Tidings/image-1.jpeg">
 </figure>
 
 In April 2021, I started my activity as President of Urantia Association International—the beginning of an incredible experience, full of challenges and opportunities with plenty of joy.
@@ -50,7 +74,7 @@ _It is a matter of looking, of perception, of trust and of faith._
 
 Jesus told us:
 
-> “What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny.” [[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)]
+> “What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny.” <a id="a76_560"></a>[[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)]
 
 _It is a matter of looking, of perception, of trust, and of faith._
 
@@ -66,3 +90,27 @@ President, Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2021/
 - This article: https://urantia-association.org/presidents-message-june-2021
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2021_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="pr-2">2024 Urantia Association International Conference in USA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

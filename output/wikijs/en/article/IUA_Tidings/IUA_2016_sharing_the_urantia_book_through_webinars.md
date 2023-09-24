@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tamila_Ragimova/meeting_for_russian_urantia_book_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting for Urantia Book Readers in Russia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/italian_french_swiss_urantia_conference">
+          <span class="pr-2">Italian-French-Swiss Urantia Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## An Amazing Experience
 
@@ -38,3 +62,27 @@ from your siblings and members of Urantia Association’s Conference Committee
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
 - This article: https://urantia-association.org/sharing-the-urantia-book-through-webinars
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tamila_Ragimova/meeting_for_russian_urantia_book_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting for Urantia Book Readers in Russia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/italian_french_swiss_urantia_conference">
+          <span class="pr-2">Italian-French-Swiss Urantia Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

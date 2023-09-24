@@ -8,9 +8,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Andres Ramirez<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mairam_Durand/book_fair_lima_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Book Fair in Lima, Perú </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sandra_Burga_Cisneros/european_blue_club_meeting">
+          <span class="pr-2">European Blue Club Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Ecuador-Conf-2017-1-300x168.jpg">
+<img src="/image/article/IUA_Tidings/Ecuador-Conf-2017-1-300x168.jpg">
 </figure>
 
 Members of the “Edentia Garden” study group organized the Ecuador National Conference 5-6 August in the Chillos Valley, which is one of the two big valleys that surround Quito, the capital of Ecuador. There were several talks and a workshop and Saturday night was dedicated to socializing which provided many opportunities for people to interact with one another and make new friendships. Together the group decided that Guayaquil will be the city for the next national conference in 2018. 
@@ -23,7 +47,7 @@ Wilson Leon from Colombia, who is the Latin American Continental Coordinator of 
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Ecuador-Conf-2017-2.jpg">
+<img src="/image/article/IUA_Tidings/Ecuador-Conf-2017-2.jpg">
 </figure>
 
 
@@ -32,3 +56,27 @@ Wilson Leon from Colombia, who is the Latin American Continental Coordinator of 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2017/
 - This article: https://urantia-association.org/ecuador-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mairam_Durand/book_fair_lima_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Book Fair in Lima, Perú </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sandra_Burga_Cisneros/european_blue_club_meeting">
+          <span class="pr-2">European Blue Club Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

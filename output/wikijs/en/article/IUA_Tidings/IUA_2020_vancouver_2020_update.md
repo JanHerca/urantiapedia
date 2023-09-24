@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_ub_study_group_directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Study Group Directory</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="pr-2">Peru 2021 International Conference – Registration Now Open</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Annotation-2020-02-07-201315-706x162.jpg">
+<img src="/image/article/IUA_Tidings/Annotation-2020-02-07-201315-706x162.jpg">
 </figure>
 
 ## Lifting Together – United in Purpose – Serving God the Supreme
@@ -38,7 +62,7 @@ If you would like to form a Vision Team, please contact us via the [UGE website]
 For more information see – [Urantia Global Experience](https://urantiaglobalexperience.com/)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UGE-Sunset-706x205.jpg">
+<img src="/image/article/IUA_Tidings/UGE-Sunset-706x205.jpg">
 </figure>
 
 ## References
@@ -46,3 +70,27 @@ For more information see – [Urantia Global Experience](https://urantiaglobalex
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2020/
 - This article: https://urantia-association.org/vancouver-2020-update
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_ub_study_group_directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Study Group Directory</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="pr-2">Peru 2021 International Conference – Registration Now Open</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

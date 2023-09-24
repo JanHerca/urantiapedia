@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Chris Wood<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2015_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — October 2015 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/three_summer_exhibitions_in_ukraine">
+          <span class="pr-2">Three Summer Exhibitions in Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 Recently, a group of four young Urantia Book students stayed with me and my family for a weekend and of course they wanted to be of service. What task did we set upon this nurse, engineering student, and two small businessmen? They spent eight hours folding letters and preparing our fall fundraiser for the post office. Time itself is often the most valuable gift.
@@ -33,3 +57,27 @@ Chris Wood
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
 - This article: https://urantia-association.org/presidents-message-october-2015
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2015_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — October 2015 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/three_summer_exhibitions_in_ukraine">
+          <span class="pr-2">Three Summer Exhibitions in Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

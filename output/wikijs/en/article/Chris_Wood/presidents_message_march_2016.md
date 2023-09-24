@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Chris Wood<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2016_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2016 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_urantia_association_social_media">
+          <span class="pr-2">Urantia Association’s Social Media</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 I am a conference fanatic. One of my first experiences with the Urantia community was piling into a car with four other young Urantia Book students and driving from Chicago to Vancouver, Canada for a conference. Over the years, these UBYouth Tours took us from Colorado to New York to Silver Springs to Kansas City to Philadelphia and Seattle and back again to Chicago over and over. We pleaded with the social organizations to schedule more conferences closer together so we could string them together for a summer. Along the way I met great friends, my future wife, hundreds of Urantia Book students, saw nearly every corner of North America.
@@ -39,3 +63,27 @@ President, Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
 - This article: https://urantia-association.org/presidents-message-march-2016
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2016_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2016 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_urantia_association_social_media">
+          <span class="pr-2">Urantia Association’s Social Media</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

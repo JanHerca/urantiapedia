@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Enrique Traver<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2022 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="pr-2">A Study Group As a Circle of Trust</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/image-1.jpeg">
+<img src="/image/article/IUA_Tidings/image-1.jpeg">
 </figure>
 
 Hello, dear friends!
@@ -31,7 +55,7 @@ Of course, we don’t need to lie, but we also don’t need to be the party poop
 The life of Jesus is a revelation of this tolerance, of this living adapted to the uses, customs, and laws of his time. He never stopped going to the synagogues or going to Jerusalem to take each of his brothers on the Passover.
 <br style="clear:both;"/>
 
-> _Having met John, who came from near Jerusalem, Jesus began to evince an unusual interest in the history of Israel and to inquire in great detail as to the meaning of the Sabbath rites, the synagogue sermons, and the recurring feasts of commemoration. His father explained to him the meaning of all these seasons. The first was the midwinter festive illumination, lasting eight days, starting out with one candle the first night and adding one each successive night; this commemorated the dedication of the temple after the restoration of the Mosaic services by Judas Maccabee. Next came the early springtime celebration of Purim, the feast of Esther and Israel’s deliverance through her. Then followed the solemn Passover, which the adults celebrated in Jerusalem whenever possible, while at home the children would remember that no leavened bread was to be eaten for the whole week. Later came the feast of the first-fruits, the harvest ingathering; and last, the most solemn of all, the feast of the new year, the day of atonement. While some of these celebrations and observances were difficult for Jesus’ young mind to understand, he pondered them seriously and then entered fully into the joy of the feast of tabernacles, the annual vacation season of the whole Jewish people, the time when they camped out in leafy booths and gave themselves up to mirth and pleasure._ [[UB 123:3.5](/en/The_Urantia_Book/123#p3_5)]
+> _Having met John, who came from near Jerusalem, Jesus began to evince an unusual interest in the history of Israel and to inquire in great detail as to the meaning of the Sabbath rites, the synagogue sermons, and the recurring feasts of commemoration. His father explained to him the meaning of all these seasons. The first was the midwinter festive illumination, lasting eight days, starting out with one candle the first night and adding one each successive night; this commemorated the dedication of the temple after the restoration of the Mosaic services by Judas Maccabee. Next came the early springtime celebration of Purim, the feast of Esther and Israel’s deliverance through her. Then followed the solemn Passover, which the adults celebrated in Jerusalem whenever possible, while at home the children would remember that no leavened bread was to be eaten for the whole week. Later came the feast of the first-fruits, the harvest ingathering; and last, the most solemn of all, the feast of the new year, the day of atonement. While some of these celebrations and observances were difficult for Jesus’ young mind to understand, he pondered them seriously and then entered fully into the joy of the feast of tabernacles, the annual vacation season of the whole Jewish people, the time when they camped out in leafy booths and gave themselves up to mirth and pleasure._ <a id="a57_1378"></a>[[UB 123:3.5](/en/The_Urantia_Book/123#p3_5)]
 
 Let’s be happy!  Let’s be pure in heart! We cannot miss the opportunity to be reunited with our family, to celebrate love, to be a living testimony of the presence of Jesus in us. Our mission is to reveal our father to men and to recognize and promote the brotherhood of man. This empathy, this opportunity to reveal Jesus, will certainly open the way to gradually disseminate the truths that have been revealed to us and draw the attention of our loved ones to these realities.
 
@@ -42,3 +66,27 @@ Merry Christmas to all, may Jesus be present in us and may we spread his love ab
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2022/
 - This article: https://urantia-association.org/presidents-message-december-2022
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2022 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="pr-2">A Study Group As a Circle of Trust</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

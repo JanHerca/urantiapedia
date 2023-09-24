@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Chris Moseley<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rick_Lyon/urantia_midwest_conference_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Midwest Conference 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nathen_Jansen/urantia_global_experience">
+          <span class="pr-2">Urantia Global Experience – Vancouver 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Being About the Father’s Business
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/UK-Retreat-Venue-300x251.jpg">
+<img src="/image/article/IUA_Tidings/UK-Retreat-Venue-300x251.jpg">
 </figure>
 
 **6—8 September 2019**
@@ -26,7 +50,7 @@ The location of our meeting this year is at the beautiful **Belsey Bridge Confer
 
 ## About the Theme
 
-> _Do not entertain the idea that, since the Universal Father has delegated so much of himself and his power to others, he is a silent or inactive member of the Deity partnership. Aside from the personality domains and Adjuster bestowal, he is apparently the least active of the Paradise Deities, in that he allows his Deity co-ordinates, his Sons, and numerous created intelligences to perform so much in the carrying out of his eternal purpose. He is the silent member of the creative trio only in that he never does aught which any of his co-ordinate or subordinate associates can do._ [[UB 32:4.1](/en/The_Urantia_Book/32#p4_1)]
+> _Do not entertain the idea that, since the Universal Father has delegated so much of himself and his power to others, he is a silent or inactive member of the Deity partnership. Aside from the personality domains and Adjuster bestowal, he is apparently the least active of the Paradise Deities, in that he allows his Deity co-ordinates, his Sons, and numerous created intelligences to perform so much in the carrying out of his eternal purpose. He is the silent member of the creative trio only in that he never does aught which any of his co-ordinate or subordinate associates can do._ <a id="a52_589"></a>[[UB 32:4.1](/en/The_Urantia_Book/32#p4_1)]
 
 Jesus too was a greater delegator. He fashioned a team of apostles of different talents, backgrounds and spiritual capacities, allowing them to organise themselves and to make their own unique contribution. How are you going about the Father’s business?
 
@@ -49,3 +73,27 @@ If you would like to give a presentation at the retreat (click the “read more�
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/annual-retreat-uk-ireland-2019
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rick_Lyon/urantia_midwest_conference_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Midwest Conference 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nathen_Jansen/urantia_global_experience">
+          <span class="pr-2">Urantia Global Experience – Vancouver 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

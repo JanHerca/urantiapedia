@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Khatukhira Bernard<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/i_found_the_key">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I Found the Key</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_parliament_of_the_worlds_religions">
+          <span class="pr-2">Parliament of the World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **THE BIRTH OF THE URANTIA BOOK TEACHINGS IN UGANDA**
 
 The Urantia Uganda Conference 2022 was the first ever in Uganda. The conference was to have been held in August 2020 but, due to the Covid 19 pandemic, limited funds, and leadership challenges, it was not possible until this August.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Uganda-2.jpg">
+<img src="/image/article/IUA_Tidings/Uganda-2.jpg">
 <figcaption><em>Uganda Conference 2022</em></figcaption>
 </figure>
 
@@ -28,7 +52,7 @@ During this presentation, the pace and focus on the book and its teachings were 
 Most of the presenters sought advice from us about how their presentations could meet conference standards. This call helped us guide them, and indeed we had good presentations from them; the entire conference successfully achieved its purpose of uniting—encouraging social cohesion among Urantia Book readers in Uganda.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Uganda-3-1.jpg">
+<img src="/image/article/IUA_Tidings/Uganda-3-1.jpg">
 <figcaption><em>The five participants sponsored by Urantia Association</em></figcaption>
 </figure>
 
@@ -55,7 +79,7 @@ The following were observed during the conference:
 - Most participants were not briefed on what the conference was about in terms of purpose and objectives
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Uganda-1.jpg">
+<img src="/image/article/IUA_Tidings/Uganda-1.jpg">
 </figure>
 
 With the above observations, one can appreciate that being the first conference of its kind, most things were done haphazardly. This means that next time with good mentorship and guidance we shall have better organization, and a clear objective and purpose. We hope that by that time many will have read the entire book at least once and various groups will have been formed.
@@ -80,3 +104,27 @@ Cosmic Citizens in Uganda
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
 - This article: https://urantia-association.org/the-urantia-uganda-conference-2022
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/i_found_the_key">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I Found the Key</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_parliament_of_the_worlds_religions">
+          <span class="pr-2">Parliament of the World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

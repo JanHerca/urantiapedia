@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Joyce Anderson<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/the_dutch_urantia_annual_meeting_day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dutch Urantia Annual Meeting Day</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Hartt_Tenney_and_David_S_Tenney/spiritual_unity_in_new_england">
+          <span class="pr-2">Spiritual Unity in New England</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/NY-Penn-Jesus-birthday-300x224.jpg">
+<img src="/image/article/IUA_Tidings/NY-Penn-Jesus-birthday-300x224.jpg">
 </figure>
 
 On August 21 and 22, Joyce and Dave Anderson hosted the Urantia Association of NY-Pennsylvania Jesus Celebration at their home in Niskayuna, NY. Ten association members gathered on Friday evening for a Remembrance Supper, dinner and fellowship, including a lively discussion of how to encourage more young people to read the book and become involved in study groups.
@@ -28,3 +52,27 @@ Our farewells were made easier by the fact that we will meet again in less than 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
 - This article: https://urantia-association.org/jesus-birthday-in-ny-pennsylvania
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/the_dutch_urantia_annual_meeting_day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dutch Urantia Annual Meeting Day</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Hartt_Tenney_and_David_S_Tenney/spiritual_unity_in_new_england">
+          <span class="pr-2">Spiritual Unity in New England</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

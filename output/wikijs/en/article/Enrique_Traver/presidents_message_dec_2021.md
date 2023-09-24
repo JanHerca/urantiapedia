@@ -9,15 +9,39 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Enrique Traver<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2021_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_ibero_american_urantiathon_november21">
+          <span class="pr-2">Reflections: Ibero-American Urantiathon – November 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/image-1.jpeg">
+<img src="/image/article/IUA_Tidings/image-1.jpeg">
 <figcaption><em>Enrique Traver</em></figcaption>
 </figure>
 
 _“Be you perfect, even as I am perfect.”_
 
-> _God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality and in his universal sphere of righteous supremacy. From the Universal Father who inhabits eternity there has gone forth the supreme mandate, “Be you perfect, even as I am perfect.” In love and mercy the messengers of Paradise have carried this divine exhortation down through the ages and out through the universes, even to such lowly animal-origin creatures as the human races of Urantia._ [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
+> _God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality and in his universal sphere of righteous supremacy. From the Universal Father who inhabits eternity there has gone forth the supreme mandate, “Be you perfect, even as I am perfect.” In love and mercy the messengers of Paradise have carried this divine exhortation down through the ages and out through the universes, even to such lowly animal-origin creatures as the human races of Urantia._ <a id="a43_589"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
 
 When I read this paragraph for the first time, many emotions and doubts filled my mind. There are so many truths in this text that it’s difficult to choose which to focus on.
 
@@ -33,13 +57,13 @@ The teachings state that perfection is achieved when we reach balance of our per
 
 This task is undoubtedly a great challenge, which requires effort, dedication, persistence, and faith. This brings us to another aspect mentioned in this paragraph:
 
-> _“God-knowing creatures **have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him** as he is in his Paradise perfection of personality and in his universal sphere of righteous supremacy.”_ [emphasis added] [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
+> _“God-knowing creatures **have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him** as he is in his Paradise perfection of personality and in his universal sphere of righteous supremacy.”_ [emphasis added] <a id="a59_273"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
 
 How much ambition and desire does it require to reach this purpose of reaching God and becoming perfect as he is?
 
 We usually set up so many priorities for ourselves and for our own children that we often simply lose sight of the most important priority of our lives. In connection with this theme, it is opportune to recall another paragraph of the teachings brought to us by our Master Jesus, the most perfect, balanced, and unified personality we have ever had on Urantia:
 
-Jesus portrayed the profound surety of the God-knowing mortal when he said: “To a God-knowing kingdom believer, what does it matter if all things earthly crash?” [[UB 100:2.7](/en/The_Urantia_Book/100#p2_7)]
+Jesus portrayed the profound surety of the God-knowing mortal when he said: “To a God-knowing kingdom believer, what does it matter if all things earthly crash?” <a id="a65_162"></a>[[UB 100:2.7](/en/The_Urantia_Book/100#p2_7)]
 
 It seems that our creature disorientation creates problems when setting priorities and goals; this comes from the single reason which is our relative lack of God-knowing.
 
@@ -50,3 +74,27 @@ How do we get to know God? We just need to seek for him in our hearts and then s
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
 - This article: https://urantia-association.org/presidents-message-dec-2021
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2021_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_ibero_american_urantiathon_november21">
+          <span class="pr-2">Reflections: Ibero-American Urantiathon – November 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

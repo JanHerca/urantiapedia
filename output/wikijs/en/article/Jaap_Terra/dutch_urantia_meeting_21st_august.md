@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jaap Terra<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_and_young_people">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups and Young People</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/the_urantia_book_internet_school">
+          <span class="pr-2">The Urantia Book Internet School</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/g.jpg">
+<img src="/image/article/IUA_Tidings/g.jpg">
 </figure>
 
 On Sunday, August 21st the annual Dutch Urantia Meeting Day was held in a nice conference centre “Groot Kievitsdal” near Baarn. It was the 10th time we celebrated the birth of Michael of Nebadon, incarnated as Jesus of Nazareth on Urantia, with readers of _The Urantia Book_.
@@ -23,7 +47,7 @@ During the introduction, attention was paid to the administrative affairs of the
 There is a Urantia candle that we lit as a symbol of the alliance between the Dutch and Belgian Flemish readers of _The Urantia Book_ as some Flemings were our guest this day.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/IMG_1330.jpg">
+<img src="/image/article/IUA_Tidings/IMG_1330.jpg">
 </figure>
 
 Leading up to the Urantia Association International Conference in Amsterdam in 2018 with the theme: “Jesus as a Teacher,”  the main theme for this year was chosen to be: “Michael of Nebadon: Son of God and Son of the People.” Johan Vandewalle took care of the first presentation with the theme: “The status of Michael for his final bestowal,” while Karen Huigsloot presented the second reading relating to the final bestowal, Jesus himself, his dual purpose, and his bestowal orders and restrictions.
@@ -35,7 +59,7 @@ Some passages of the life of Jesus from _The Urantia Book_ were distributed to t
 After the presentatons there was an opportunity to ask questions to the speakers. Some interesting discussions arose. To the credit of the audience, everyone’s opinions where treated with respect. Ultimately it is everyone’s personal relationship with God.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/IMG_1328-300x184.jpg">
+<img src="/image/article/IUA_Tidings/IMG_1328-300x184.jpg">
 </figure>
 
 Afterwards there was sufficient opportunity for social interaction. Given the positive response we have received, we can certainly speak of a successful day.
@@ -49,3 +73,27 @@ Jaap Terra
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
 - This article: https://urantia-association.org/dutch-urantia-meeting-21st-august
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_and_young_people">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups and Young People</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/the_urantia_book_internet_school">
+          <span class="pr-2">The Urantia Book Internet School</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

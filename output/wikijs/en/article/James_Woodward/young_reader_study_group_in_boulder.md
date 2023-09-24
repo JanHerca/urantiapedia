@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 James Woodward<br>© 2014 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Abegunde_Julius_Taiwo/urantia_book_readers_in_nigeria">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Readers in Nigeria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="pr-2">Teaching and Facilitating in the UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Adapted from an interview conducted by Susan Owen)_
 
 Ten years ago Jennifer Siegel started a study group for children at their home in Boulder, Colorado. The young folks meet at the same time as the adults but in a different room. All the children in the group come from families where parents or grandparents are readers. The children, however, must be able to read well and they have to able to sit still and pay attention. According to Jennifer, “There is nothing worse than religious instruction that is forced by parents. So over the years I’ve had a few instances where kids didn’t want to be there, it didn’t fit and so they didn’t come back. But generally they really look forward to class. And in fact when I have to be in Chicago they really miss the experience.”
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Young-Readers-graphic.jpg">
+<img src="/image/article/IUA_Tidings/Young-Readers-graphic.jpg">
 </figure>
 
 It requires different methods to teach children and Siegel has to keep them engaged. In a recent meeting she asked the kids, “According to Dale Carnegie, what do you think, is the most favorite word of people?”  The answers were love, thank you, and please. But, according to Dale Carnegie, the word is _your name_. So each week she talks about how they are and it seems to have made a difference. “I start with: ‘How was your week?’ If they answer, ‘Good,’ I ask, ‘Why was it good?’ Or if they say ‘bad,’ I ask, ‘Why was it bad?’ We go around the room and they share a lot or a little, depending on what’s going on in their lives. Over time I really get to know these kids and they feel validated and heard by an adult they trust—who’s not their parent.”
@@ -45,3 +69,27 @@ The Boulder Urantia community hosts a quarterly worship service at a local churc
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/young-reader-study-group-in-boulder
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Abegunde_Julius_Taiwo/urantia_book_readers_in_nigeria">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Readers in Nigeria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="pr-2">Teaching and Facilitating in the UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

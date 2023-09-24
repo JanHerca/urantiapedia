@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Jeannie Vázquez<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Peru 2021 International Conference – Registration Now Open</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kwadjo_Spiri_and_Emeka_Anazodo/nigeria_ghana_urantia_conference_2019">
+          <span class="pr-2">Reports on Nigeria-Ghana Urantia Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Mexican-Conference-group.jpg">
+<img src="/image/article/IUA_Tidings/Mexican-Conference-group.jpg">
 </figure>
 
 On August 24th and 25th, 2019, the Urantia Association of Mexico organized its Third National Conference in Mexico City, which was attended by sixty-four readers of _The Urantia Book_ from various cities of Mexico and Uruguay.
@@ -21,14 +45,14 @@ This gathering with our Mexican siblings was a cheerful and fraternal occasion, 
 Conferences organized by the Urantia Association of Mexico are characterized by being dynamic and participative, as well as interesting, instructive, and free for all attendees. The Mexican Association holds bi-monthly conferences and workshops where the attendees are invited to study and present themes from _The Urantia Book_. This dynamism is reflected in National Conferences because the attendees participate actively during their ongoing presentations, showing discernment and interest in the shared teachings. It is fascinating to see so many faces eager to absorb the teachings; answering their insightful questions is often a challenge for the presenter.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Candy-made-by-Dulce-Piña-and-Pedro-Cazales-225x400.jpg">
+<img src="/image/article/IUA_Tidings/Candy-made-by-Dulce-Piña-and-Pedro-Cazales-225x400.jpg">
 </figure>
 
 On the Saturday upon registration we all received a gift of candies with the three concentric circles impressed in blue. These were made by our dear friends Dulce Piña and Pedro Cazales.
 
 Alfredo Esquivel greeted the assistants, and Hector Palacios, the master of ceremonies, delivered the opening speech. We enjoyed three lectures in the morning. The first one was given by Luisa Gutiérrez, who spoke about “What is Ministry,” in which she presented her personal experience in learning how to share the teachings of _The Urantia Book._
 
-Sergio Monrroy Gutiérrez explored the theme “The Wealth” in his presentation, by examining the counsel that Jesus gave to a certain rich man during his stay in Rome. The third presentation was about “Cosmic Consciousness and Spiritual Perception,” in which I examined the reasons why the revelators say in the Foreword of _The Urantia Book_ that they “…_endeavor to expand cosmic consciousness and enhance spiritual perception_” for human beings. [[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)]
+Sergio Monrroy Gutiérrez explored the theme “The Wealth” in his presentation, by examining the counsel that Jesus gave to a certain rich man during his stay in Rome. The third presentation was about “Cosmic Consciousness and Spiritual Perception,” in which I examined the reasons why the revelators say in the Foreword of _The Urantia Book_ that they “…_endeavor to expand cosmic consciousness and enhance spiritual perception_” for human beings. <a id="a54_447"></a>[[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)]
 
 In the afternoon lectures, Camilo Vargas spoke to us about “The Art of Living,” in which he examined the concepts of the Greek philosopher Rodan of Alexandria as presented in Paper 160 of _The Urantia Book_.
 
@@ -59,7 +83,7 @@ In the afternoon, we celebrated the anniversary of the birth of Jesus of Nazaret
 > _Thank you, beloved Master and Universal Sovereign Jesus-Michael of Nebadon! Happy Urantian Anniversary No. 2025!_
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Alfredo-and-Martin-enhanced-300x400.jpg">
+<img src="/image/article/IUA_Tidings/Alfredo-and-Martin-enhanced-300x400.jpg">
 </figure>
 
 The celebration was followed by the transfer of the Mexican Association Presidency, in which the outgoing President Alfredo Esquivel handed over his position to the new President, Martín Guzmán. The Treasurer, Héctor Landín Vazquez, also took up his new position. We were enthralled to see Alfredo and Martin hugging each other, wrapped in the flag of Michael of Nebadon.
@@ -71,7 +95,7 @@ After this closure, it was time to say goodbye to our friends. Thank you, dear f
 See you next time!
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Luisa-and-Ramiro-enhanced-465x706.jpg">
+<img src="/image/article/IUA_Tidings/Luisa-and-Ramiro-enhanced-465x706.jpg">
 </figure>
 
 ## References
@@ -79,3 +103,27 @@ See you next time!
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2020/
 - This article: https://urantia-association.org/national-conference-mexico-2019
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Peru 2021 International Conference – Registration Now Open</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kwadjo_Spiri_and_Emeka_Anazodo/nigeria_ghana_urantia_conference_2019">
+          <span class="pr-2">Reports on Nigeria-Ghana Urantia Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

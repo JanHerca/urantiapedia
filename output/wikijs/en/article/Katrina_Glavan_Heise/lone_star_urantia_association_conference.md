@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Katrina Glavan-Heise<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal – March 2015 Issue Now Available</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bobbie_Drier/summer_study_session_2015">
+          <span class="pr-2">Summer Study Session 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Hitchiker’s Guide to the Galaxy
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/2015-Hitchikers-Guide-Lone-Star-Conf-150x150.jpg">
+<img src="/image/article/IUA_Tidings/2015-Hitchikers-Guide-Lone-Star-Conf-150x150.jpg">
 </figure>
 
 Lone Star Urantia Association (LSUA) held its 2015 regional conference at the Briarwood Retreat Center in Argyle, Texas (Dallas area) March 20 to 22. Almost 50 attendees were present for the entire conference. Prior to the conference members of the Urantia Association of the United States (UAUS) held their annual Council of Local Presidents meeting.
@@ -23,7 +47,7 @@ The program included:
 A presentation on _Social Architecture_ by Kaye Cooper.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/2015-Lone-Star-Conf-150x150.jpg">
+<img src="/image/article/IUA_Tidings/2015-Lone-Star-Conf-150x150.jpg">
 </figure>
 
 _Send Them A What?_ A skit written by Suzanne Kelly about a group of Seraphim discussing the possibility of sending Urantian mortals “a book”. These angels and “the 24” were excited about the possibilities and lots of people wanted to get in on the act including Andon and Fonta.
@@ -55,3 +79,27 @@ To see LSUA’s newsletter with a detailed account and photos of the conference 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/lone-star-urantia-association-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal – March 2015 Issue Now Available</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bobbie_Drier/summer_study_session_2015">
+          <span class="pr-2">Summer Study Session 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

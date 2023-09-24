@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Jeffrey Wattles<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report on Virtual International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Linthicum/two_sides_same_coin">
+          <span class="pr-2">Two Sides of the Same Coin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Jeff-Wattles-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Jeff-Wattles-150x150.jpg">
 </figure>
 
 What is of survival value for the soul in a conference? Here’s my current harvest from the conference on Cosmic Citizenship hosted by Urantia Peru Association April 24-25, 2021. 
@@ -64,13 +88,13 @@ Both cosmic principles are included in this next quote. As we read and listen to
 > 
 > 3\. Loving man and sincerely desiring to serve him—wholehearted recognition of the brotherhood of man coupled with an intelligent and wise affection for each of your fellow mortals.
 > 
-> 4\. Joyful acceptance of cosmic citizenship—honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. [[UB 110:3.6-10](/en/The_Urantia_Book/110#p3_6)].
+> 4\. Joyful acceptance of cosmic citizenship—honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. <a id="a90_276"></a>[[UB 110:3.6-10](/en/The_Urantia_Book/110#p3_6)].
 
 What does _the interdependence of man and the Supreme Being mean?_ As we evolve, _we are in the domain of the Supreme Being, who is evolving with us_. The Supreme is like a chef making a great salad, who depends on farmers like us to provide the vegetables. The chef is incomplete without the farmers. 
 
 The Supreme is in charge of the growth of the whole, and we need to do our part. The Supreme blesses us by providing the potentials of evolving truth, beauty, and goodness which we actualize as cosmic citizens. And as God is our divine Father, the Supreme is our divine Mother.
 
-**One more thing.** There is a _necessary sequence:_ vegetables have to be on hand before making the salad. In other words, certain things have to be present before other things can be done. Eternal wisdom establishes laws of cosmic sequence. For example, “When physical conditions are ripe, _sudden_ mental evolutions may take place; when mind status is propitious, _sudden_ spiritual transformations may occur; when spiritual values receive proper recognition, then cosmic meanings become discernible, and increasingly the personality is released from the handicaps of time and delivered from the limitations of space” [[UB 65:8.6](/en/The_Urantia_Book/65#p8_6)].  In other words, our obligation to the Supreme Being is _to discern what we need to do next and do it joyfully._
+**One more thing.** There is a _necessary sequence:_ vegetables have to be on hand before making the salad. In other words, certain things have to be present before other things can be done. Eternal wisdom establishes laws of cosmic sequence. For example, “When physical conditions are ripe, _sudden_ mental evolutions may take place; when mind status is propitious, _sudden_ spiritual transformations may occur; when spiritual values receive proper recognition, then cosmic meanings become discernible, and increasingly the personality is released from the handicaps of time and delivered from the limitations of space” <a id="a96_621"></a>[[UB 65:8.6](/en/The_Urantia_Book/65#p8_6)].  In other words, our obligation to the Supreme Being is _to discern what we need to do next and do it joyfully._
 
 You can write to me at [jwattles@kent.edu](mailto:jwattles@kent.edu)
 
@@ -84,3 +108,27 @@ For Professor Jinwoog’s document, you can write him at [kimjinwoog@gmail.com
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2021/
 - This article: https://urantia-association.org/spiritual-value-peru-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report on Virtual International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Linthicum/two_sides_same_coin">
+          <span class="pr-2">Two Sides of the Same Coin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

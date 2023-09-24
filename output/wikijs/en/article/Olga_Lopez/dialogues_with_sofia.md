@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Olga Lopez<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_farewell_to_carolyn_kendall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Farewell to Carolyn Kendall</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Dialogues-with-Sophia-eng-1.jpg">
+<img src="/image/article/IUA_Tidings/Dialogues-with-Sophia-eng-1.jpg">
 </figure>
 
 I always had the idea of writing in my head, and as a child I wrote a few short stories, but I also had the impression that I needed years of reading and experience to even consider writing a novel. Having read great authors gave me great respect for the writing process, and I felt that they all set the bar very high.
@@ -63,3 +84,24 @@ Olga
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
 - This article: https://urantia-association.org/dialogues-with-sofia
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_farewell_to_carolyn_kendall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Farewell to Carolyn Kendall</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

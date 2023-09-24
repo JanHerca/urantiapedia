@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Call for Membership Coordinators</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="pr-2">Ukraine Advertising Campaign</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 14-17 October 2016
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Bogota-conference-logo.jpg">
+<img src="/image/article/IUA_Tidings/Bogota-conference-logo.jpg">
 </figure>
 
 ***The Teacher and the Student***
@@ -49,3 +73,27 @@ If enough Latin American leaders attend this conference we will organize a speci
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2016/
 - This article: https://urantia-association.org/latin-american-urantia-conference-bogota
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Call for Membership Coordinators</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="pr-2">Ukraine Advertising Campaign</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

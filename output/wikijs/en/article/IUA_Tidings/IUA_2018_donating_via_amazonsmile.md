@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Laura_Suominen_Raatikainen/finnish_summer_conference_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Finnish Summer Conference Report, 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Kurtz/why_study_urantia_book">
+          <span class="pr-2">Why Do We Study The Urantia Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Amazon-New-Logo.jpg">
+<img src="/image/article/IUA_Tidings/Amazon-New-Logo.jpg">
 </figure>
 
 **Did you know that when you shop at [AmazonSmile](http://smile.amazon.com/), Amazon donates to Urantia Association International!**
@@ -45,7 +69,7 @@ The AmazonSmile Foundation will donate 0.5% of the purchase price from your elig
 Donations are made by the AmazonSmile Foundation therefore are not tax deductible by you.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Amazon-Holiday-ad-706x353.jpg">
+<img src="/image/article/IUA_Tidings/Amazon-Holiday-ad-706x353.jpg">
 </figure>
 
 Thank you for joining us in our efforts to spread the teachings of _The Urantia Book_.
@@ -55,3 +79,27 @@ Thank you for joining us in our efforts to spread the teachings of _The Urantia 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
 - This article: https://urantia-association.org/donating-via-amazonsmile
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Laura_Suominen_Raatikainen/finnish_summer_conference_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Finnish Summer Conference Report, 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Kurtz/why_study_urantia_book">
+          <span class="pr-2">Why Do We Study The Urantia Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Katrina Glavan-Heise<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/urantia_young_adult_online_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Young Adult Online Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="pr-2">Jesus’ Birthday in His Homeland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/San-Antonio-Conference.jpg">
+<img src="/image/article/IUA_Tidings/San-Antonio-Conference.jpg">
 </figure>
 
 This historic, combined event of the Urantia Association of the United States (UAUS) 2016 National Conference and the Urantia Book Fellowship Summer Study Session 2016 will be held at Trinity University in San Antonio, Texas. We’re going to study Jesus as the Master Teacher – covering a wide variety of topics exploring his mastery and applying it to our lives. The organization of this event will be sponsored by the Lone Star Urantia Association (the Texas Local Association of UAUS) and the Education Committee of The Fellowship.
@@ -41,3 +65,27 @@ President – Lone Star Urantia Association
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
 - This article: https://urantia-association.org/san-antonio-usa-conference-june-2016
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/urantia_young_adult_online_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Young Adult Online Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="pr-2">Jesus’ Birthday in His Homeland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

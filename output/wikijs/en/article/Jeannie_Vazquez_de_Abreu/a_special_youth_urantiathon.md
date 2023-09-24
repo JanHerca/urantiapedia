@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Jeannie Vasquez<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Schefer/latin_american_continental_conference_mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Continental Conference — Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myra_Hight/love_for_the_father">
+          <span class="pr-2">Love for the Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Fruits of the Spirit
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Jeannie_Vazquez-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Jeannie_Vazquez-150x150.jpg">
 </figure>
 
 The special Youth Urantiathon organized by the Urantia Association International with Urantia Young Adults International (UYAI) and Youth and Young Adults (YaYAs) Committees on December 10th, 2022, was beautiful and amazing. It offered presentations by young students of _The Urantia Book_ from all over the world on the theme “The Fruits of the Spirit.”
@@ -33,7 +57,7 @@ Our Continental African Coordinator, Collins Lomo, efficiently and wisely organi
 **Jesse Kodua from Ghana presented the theme “The Law of the Kingdom.”** He said: “The presence of a kingdom presupposes that there are citizens, that the kingdom has its laws and government, and the citizens have rights and responsibilities, and that there is a sovereign of the kingdom. Whose kingdom? It’s God’s kingdom. Therefore, God is the Sovereign of this kingdom, and citizens are called sons and daughters of God. It is a divine family and accordingly has no earthly, physical/mental segregations such as the rich vs. the poor, short people vs. tall people, slave vs. master, etc.”
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/sunset-e1424827694506.jpg">
+<img src="/image/article/IUA_Tidings/sunset-e1424827694506.jpg">
 </figure>
 
 The Latin-American section included students from Spain, Mexico and Brazil. They offered the following presentations:
@@ -57,3 +81,27 @@ To see the Youth Urantiathon videos, please access the Urantia Association YouTu
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
 - This article: https://urantia-association.org/a-special-youth-urantiathon
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Schefer/latin_american_continental_conference_mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Continental Conference — Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myra_Hight/love_for_the_father">
+          <span class="pr-2">Love for the Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

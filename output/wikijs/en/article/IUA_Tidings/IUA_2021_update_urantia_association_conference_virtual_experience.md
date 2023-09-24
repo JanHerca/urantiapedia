@@ -9,15 +9,39 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – March 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_fourth_24_hour_urantiathon">
+          <span class="pr-2">Fourth 24-hour Urantiathon – Faith, Joy, and Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Screenshot-Theme-Banner2.jpg">
+<img src="/image/article/IUA_Tidings/Screenshot-Theme-Banner2.jpg">
 </figure>
 
 ## Towards Cosmic Citizenship… Your Time Has Come!
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/LOGO-ENG-NEW-Small-e1613359236516.jpg">
+<img src="/image/article/IUA_Tidings/LOGO-ENG-NEW-Small-e1613359236516.jpg">
 </figure>
 
 Due to the pandemic, unfortunately you won’t be able to come to Cusco, Peru but Cusco can come to you in your homes via a virtual unforgettable experience. Don’t miss this upcoming 11<sup>th</sup> Urantia Association International Conference on **24 – 25 April 2021.**
@@ -127,3 +151,27 @@ https://youtu.be/PqzKO-LorZQ
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
 - This article: https://urantia-association.org/update-urantia-association-conference-virtual-experience
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – March 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_fourth_24_hour_urantiathon">
+          <span class="pr-2">Fourth 24-hour Urantiathon – Faith, Joy, and Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

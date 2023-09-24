@@ -9,12 +9,36 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 International Urantia Association (IUA)</p>
-
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Wood/international_goals_2021">
+          <span class="pr-2">International Goals for 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>
 
-_When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. **Humor is the divine antidote for exaltation of ego**._ [[UB 48:4.15](/en/The_Urantia_Book/48#p4_15)]
+
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+</figure>
+
+_When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. **Humor is the divine antidote for exaltation of ego**._ <a id="a40_363"></a>[[UB 48:4.15](/en/The_Urantia_Book/48#p4_15)]
 
 In the United States, the end of the year is the time for charitable giving. The holiday season combines with income tax season leading to a great call for support from those dedicated to “good deeds.” We exalt the fine work of the past while promising more good work in the future. We make it seem like this is the most important work on the entire planet.
 
@@ -24,7 +48,7 @@ But as _The Urantia Book_ points out above, we must not take ourselves too serio
 
 We live in an era of service with opportunities our ancestors never dreamed of. If we take ourselves too seriously it will overwhelm us, but _The Urantia Book_ provides us with a perspective and a vision of the universe and our ascension careers within it. Morontia Mota number 24 tells us:
 
-> _The destiny of eternity is determined moment by moment by the achievements of the day by day living._ [[UB 48:7.26](/en/The_Urantia_Book/48#p7_26)]
+> _The destiny of eternity is determined moment by moment by the achievements of the day by day living._ <a id="a50_105"></a>[[UB 48:7.26](/en/The_Urantia_Book/48#p7_26)]
 
 Here is the honest reality of our year-end pledge drive: everyone’s fair share is US$100. If everyone who reads this were to donate US$100, then the Association would be fully funded for the next year of service. That means conferences in Europe (Amsterdam) in Africa (Accra) and in Latin America (Sao Paulo.) It means 1000 copies of _The Urantia Book_ placed into the world in places like libraries, universities and hospitals. It means weekly leadership training in multiple languages. It means 200 brand new online study groups. It means reader services in 22 languages. I hope you can [visit our website and contribute](https://urantia-association.org/get-involved/donate/) to our global work today!
 
@@ -44,3 +68,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/presidents-message-dec-2017
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — December 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Wood/international_goals_2021">
+          <span class="pr-2">International Goals for 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dancing with God: Emerging in Sacredness – A Retreat for Women</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_items_interest_from_website">
+          <span class="pr-2">Items of Interest from the Website</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Peru-Conference1-300x169.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Conference1-300x169.jpg">
 </figure>
 
 8th to 10th December 2017
@@ -22,7 +46,7 @@ The Urantia Association of Peru has recently been incorporated and its Governin
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Peru-Conference2-706x195.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Conference2-706x195.jpg">
 </figure>
 
 Some of the topics for discussion include _Jesus, Following in His Example of Service,_ _The Human & Divine Mind of Jesus of Nazareth, The Inevitabilities, Jesus and Teamwork_ and_, Theory vs. Living Truth on the Spiritual Path._
@@ -36,3 +60,27 @@ If you have any questions, please contact: [congresonacionalurantiaperu@gmail.co
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/first-meeting-urantia-peru
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dancing with God: Emerging in Sacredness – A Retreat for Women</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_items_interest_from_website">
+          <span class="pr-2">Items of Interest from the Website</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

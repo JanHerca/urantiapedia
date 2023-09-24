@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Meredith Hartt Tenney and Dr. David S. Tenney<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus’ Birthday in NY-Pennsylvania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_service_board_at_work_2nd_quarter_report">
+          <span class="pr-2">International Service Board at Work – 2nd Quarter Report for 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/New-England-Unity-Group-300x225.jpeg">
+<img src="/image/article/IUA_Tidings/New-England-Unity-Group-300x225.jpeg">
 </figure>
 
 The theme of New England’s Spring 2015 retreat was _Living Loyally in Unity_, and that’s what we’ve been trying to do. After the acrimonious political divisions of the 90’s, membership in Urantia affiliated organizations dwindled in the Northeast and was scattered over the six New England states_._ Urantia Association of New England, (UAONE) had not met for several years, while the Fellowships’ Connecticut Society was equally inactive. Neither group had enough strength in numbers to keep going. Urantia Book readers seldom gathered, and the sense of spiritual community in the region was disappearing, but all that has changed.
@@ -28,3 +52,27 @@ For details of our next two upcoming events at Angel House visit [http://urantia
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
 - This article: https://urantia-association.org/spiritual-unity-in-new-england
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus’ Birthday in NY-Pennsylvania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_service_board_at_work_2nd_quarter_report">
+          <span class="pr-2">International Service Board at Work – 2nd Quarter Report for 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

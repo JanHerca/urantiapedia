@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Susan_Owen/the_importance_of_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Importance of Study Groups</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andres_Ramirez/international_book_fair_in_bogota_colombia">
+          <span class="pr-2">International Book Fair in Bogotá, Colombia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 On 16<sup>th</sup> of May study groups met for the annual International Study Day. This year we read Papers 160 and 161 – _Rodan of Alexandria_ and _Further Discussions with Rodan._ Following are some reflections from several of the groups that met.
 
 ## Canberra Visits Sydney
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Sydney-SD-veranda-e1435118471719.jpg">
+<img src="/image/article/IUA_Tidings/Sydney-SD-veranda-e1435118471719.jpg">
 </figure>
 
 The plan was for the Canberra Study Group to visit the Sydney group for a joint Study Day. In the end only two of us made it, but it was a great day and we were impressed with the turnout of the Sydney group and the way in which it conducted its meeting.
@@ -27,7 +51,7 @@ The usual questions about Rodan’s  identity were raised with no-one being any
 It is sometimes not entirely clear whether the Midwayers are quoting Rodan more or less directly, or whether they are adapting his philosophy to more modern interpretation, but whatever the case, a very creditable result is presented, one which is substantially in keeping with Jesus’ teachings.  And following Nathaniel’s astute reasoning to convince Rodan of God’s personal nature there seems little to suggest that Rodan’s position differed much from what Jesus was teaching the apostles.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Sydney-SD-Beach-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Sydney-SD-Beach-300x225.jpg">
 </figure>
 
 Most of us knew these papers fairly well, and there were some spirited discussions and quite some fun in trying out different speculations.
@@ -50,7 +74,7 @@ Carlos Rubinsky
 ## Tasmania
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Tassie-Study-Group-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Tassie-Study-Group-300x225.jpg">
 </figure>
 
 Warm greetings to all my fellow students of _The Urantia Book_ scattered around Australia and indeed around this amazing planet called Urantia. Over the past few months, our little study group here in Tasmania has more than doubled in size….we now have six regular attendees at our fortnightly meetings with several others coming along intermittently.  It was a real joy to come together on the Study Day weekend knowing that we were part of a worldwide movement of truth-seeking people desirous of learning more about this remarkable Greek philosopher named Rodan, “one of the greatest of his race.”
@@ -58,15 +82,15 @@ Warm greetings to all my fellow students of _The Urantia Book_ scattered around 
 The Revelators were clearly impressed with this man’s understanding of truth, beauty, and goodness; they devoted a whole paper to his philosophy of life! There was so much to talk about but here are some of the precious ‘gems’ that we discovered:
 <br style="clear:both;"/>
 
-> _Animals know not the meaning of life; man not only possesses capacity for the recognition of values and the comprehension of meanings, but he also is conscious of the meaning of meanings—he is self-conscious of insight._ [[UB 160:1.5](/en/The_Urantia_Book/160#p1_5)]
+> _Animals know not the meaning of life; man not only possesses capacity for the recognition of values and the comprehension of meanings, but he also is conscious of the meaning of meanings—he is self-conscious of insight._ <a id="a84_224"></a>[[UB 160:1.5](/en/The_Urantia_Book/160#p1_5)]
 
-> _Only a brave person is willing honestly to admit, and fearlessly to face, what a sincere and logical mind discovers._ [[UB 160:1.7](/en/The_Urantia_Book/160#p1_7)]
+> _Only a brave person is willing honestly to admit, and fearlessly to face, what a sincere and logical mind discovers._ <a id="a86_121"></a>[[UB 160:1.7](/en/The_Urantia_Book/160#p1_7)]
 
-> _You simply must have tact and tolerance._ [[UB 160:1.9](/en/The_Urantia_Book/160#p1_9)]
+> _You simply must have tact and tolerance._ <a id="a88_45"></a>[[UB 160:1.9](/en/The_Urantia_Book/160#p1_9)]
 
-> _I am deeply impressed with the custom of Jesus in going apart by himself to engage in these seasons of solitary survey of the problems of living._ [[UB 160:1.11](/en/The_Urantia_Book/160#p1_11)]
+> _I am deeply impressed with the custom of Jesus in going apart by himself to engage in these seasons of solitary survey of the problems of living._ <a id="a90_150"></a>[[UB 160:1.11](/en/The_Urantia_Book/160#p1_11)]
 
-> _This worshipful practice of your Master brings that relaxation which renews the mind; that illumination which inspires the soul; that courage which enables one bravely to face one’s problems; that self-understanding which obliterates debilitating fear; and that consciousness of union with divinity which equips man with the assurance that enables him to dare to be Godlike. The relaxation of worship, or spiritual communion as practiced by the Master, relieves tension, removes conflicts, and mightily augments the total resources of the personality._ [[UB 160:1.12](/en/The_Urantia_Book/160#p1_12)]
+> _This worshipful practice of your Master brings that relaxation which renews the mind; that illumination which inspires the soul; that courage which enables one bravely to face one’s problems; that self-understanding which obliterates debilitating fear; and that consciousness of union with divinity which equips man with the assurance that enables him to dare to be Godlike. The relaxation of worship, or spiritual communion as practiced by the Master, relieves tension, removes conflicts, and mightily augments the total resources of the personality._ <a id="a92_556"></a>[[UB 160:1.12](/en/The_Urantia_Book/160#p1_12)]
 
 And so much more…
 
@@ -76,7 +100,7 @@ Julian McGarry
 ## Forum Online Meeting
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Forum-Study-Day-300x136.jpg">
+<img src="/image/article/IUA_Tidings/Forum-Study-Day-300x136.jpg">
 </figure>
 
 In addition to meeting with my local study group, I was privileged to be asked to facilitate an online study group, via Urantia Association International’s website Forum. This enabled students and readers throughout the world who are isolated or unable to attend a local study group, to meet together and discuss the Rodan papers by posting their comments on the forum. I personally benefited enormously from this role because it meant that I had to go over the material very carefully in order to be properly prepared for the comments of my brothers and sisters in far-flung corners of the globe. This arrangement is still in its early days; with greater publicity, a team of translators, and a longer lead time, it has the potential to become a very useful and popular provision, especially for those who have no access to other readers in their locality.
@@ -90,3 +114,27 @@ Julian McGarry
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
 - This article: https://urantia-association.org/international-study-day-reflections
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Susan_Owen/the_importance_of_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Importance of Study Groups</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andres_Ramirez/international_book_fair_in_bogota_colombia">
+          <span class="pr-2">International Book Fair in Bogotá, Colombia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2022_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2022 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Moustapha_Ndiaye/senegal_urantia_association">
+          <span class="pr-2">Senegal Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Brazil-Flag.jpg">
+<img src="/image/article/IUA_Tidings/Brazil-Flag.jpg">
 </figure>
 
 The Urantia Association of Brazil (UAB) was established as a National Association of Urantia Association International in 2003. It is one of the largest associations with a total of 493 members, 120 of whom have read the book in its entirety. All the activities of our association during the 2020/2021 biennium was guided by a strategic plan that was established at the beginning of 2020 to provide direction and structure for our association.​ In this way, we established and implemented well-defined objectives and followed up with weekly meetings of the board to assess the progress of activities.​
@@ -47,11 +71,11 @@ Our activities are divided into five areas with the aim of structuring and org
 To see a detailed outline of our plan see our 2021 Annual report at: [https://urantia-association.org/wp-content/uploads/2022/03/Brasil-Assn-Annual-Report-2021-ENG.pptx](https://urantia-association.org/wp-content/uploads/2022/03/Brasil-Assn-Annual-Report-2021-ENG.pptx)
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UAB2-300x92.jpg">
+<img src="/image/article/IUA_Tidings/UAB2-300x92.jpg">
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Brazil-Conf-4-706x530.jpg">
+<img src="/image/article/IUA_Tidings/Brazil-Conf-4-706x530.jpg">
 <figcaption><em>Brazil 2018</em></figcaption>
 </figure>
 
@@ -60,3 +84,27 @@ To see a detailed outline of our plan see our 2021 Annual report at: [https://ur
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
 - This article: https://urantia-association.org/brazil-urantia-association
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2022_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2022 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Moustapha_Ndiaye/senegal_urantia_association">
+          <span class="pr-2">Senegal Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

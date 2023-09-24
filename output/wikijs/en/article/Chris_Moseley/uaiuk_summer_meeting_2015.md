@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Chris Moseley<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/anzura_annual_urantia_book_readers_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Annual Urantia Book Readers’ Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marybeni_Rosas/venezuela_conference_for_urantia_book_readers">
+          <span class="pr-2">Venezuela Conference for Urantia Book Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/UK-group-Summer-meeting-2015-300x225.jpg">
+<img src="/image/article/IUA_Tidings/UK-group-Summer-meeting-2015-300x225.jpg">
 </figure>
 
 Since well before the creation of the Urantia Association in Britain and Ireland (UAIUK), readers and members of the regular study groups in Britain have been holding an annual event we call the ‘Summer Meeting’, where readers gather to discuss a particular theme in the book over a relaxing weekend. We started with meetings in readers’ back gardens, with a simple ‘pot luck’ meal on the Sunday, but since the formation of UAIUK in 2003, the venues have been hired, and the guests have been paying, and the theme and programme have been prepared well in advance. Each year one of us chooses some ‘retreat’ centre in a tranquil beauty spot somewhere in Britain – once even in Ireland. We let others pamper us with the catering and accommodation; we enjoy unfamiliar scenery away from our usual haunts, while we concentrate our minds on higher things.
@@ -32,3 +56,27 @@ Chris Moseley
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
 - This article: https://urantia-association.org/uaiuk-summer-meeting-2015
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/anzura_annual_urantia_book_readers_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Annual Urantia Book Readers’ Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marybeni_Rosas/venezuela_conference_for_urantia_book_readers">
+          <span class="pr-2">Venezuela Conference for Urantia Book Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

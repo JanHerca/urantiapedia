@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 James Perry MD<br>© 2014 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_december_2014_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_easter_spirit_renewal_and_sacred_art_retreat">
+          <span class="pr-2">2015 Easter Spirit Renewal and Sacred Art Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/James-Perry-Photo.jpg">
+<img src="/image/article/IUA_Tidings/James-Perry-Photo.jpg">
 </figure>
 
 We have assembled here for the 12th Annual Virginia Carolina Readers Mini Conference. We are a small group, and the question naturally arises about why we do this. Why spend so much of our time relatively speaking on one endeavor. We have been studying these intriguing revelations for years, and on face value, it would appear that we have not made much progress in bringing these revelations to the world. But I would ask you to consider these thoughts as you ponder in your mind whether or not it is worth the effort.
@@ -22,7 +46,7 @@ We are the beginning of a long list of trainees/leaders who are preparing the so
 
 Consider this:
 
->  _In some of the older universes we find worlds settled in the fifth and the sixth stages of light and life —even far extended into the seventh epoch —whose local systems are not yet settled in light. Younger planets may delay system unification, but this does not in the least handicap the progress of an older and advanced world. Neither can environmental limitations, even on an isolated world, thwart the personal attainment of the individual mortal; Jesus of Nazareth, as a man among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia._ [[UB 55:11.7](/en/The_Urantia_Book/55#p11_7)]
+>  _In some of the older universes we find worlds settled in the fifth and the sixth stages of light and life —even far extended into the seventh epoch —whose local systems are not yet settled in light. Younger planets may delay system unification, but this does not in the least handicap the progress of an older and advanced world. Neither can environmental limitations, even on an isolated world, thwart the personal attainment of the individual mortal; Jesus of Nazareth, as a man among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia._ <a id="a48_590"></a>[[UB 55:11.7](/en/The_Urantia_Book/55#p11_7)]
 
 My take on this is that even though our world as large may be retarded, we as individuals who chose to do the Father’s will are not penalized by the mass of humanity who choose not to do the Father’s will.
 
@@ -40,3 +64,27 @@ James Perry MD
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/virginia-carolina-readers-12th-annual-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_december_2014_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_easter_spirit_renewal_and_sacred_art_retreat">
+          <span class="pr-2">2015 Easter Spirit Renewal and Sacred Art Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,15 +9,39 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Suzanne Kelly<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_conference_quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2015 International Conference – Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Katrina_Glavan_Heise/lone_star_urantia_association_conference">
+          <span class="pr-2">Lone Star Urantia Association Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UAI-Journal-online-newsletter-header-copy-300x125.jpg">
+<img src="/image/article/IUA_Tidings/UAI-Journal-online-newsletter-header-copy-300x125.jpg">
 </figure>
 
 Urantia Association International’s latest _Journal_ is now available on the website. The _Journal_ is a quarterly publication of articles and study aids by readers and for readers of _The Urantia Book_. [Click here](http://urantia-association.org/publications/uai-journal/journal-archives/) and choose 2015 No.1 to view and download.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Suzanne-Kelly-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Suzanne-Kelly-150x150.jpg">
 </figure>
 
 Following is an editorial summary by Suzanne Kelly: 
@@ -42,3 +66,27 @@ _Journal_ Editor
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/journal-march-2015-issue-now-available
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_conference_quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2015 International Conference – Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Katrina_Glavan_Heise/lone_star_urantia_association_conference">
+          <span class="pr-2">Lone Star Urantia Association Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

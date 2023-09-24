@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Chris Wood<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2015_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — April 2015 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_conference_quebec">
+          <span class="pr-2">2015 International Conference – Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 It is getting harder to cross oceans. The problem is not one of technology or economics but of nationalism. Airline travel is connecting distant spots on the globe, and ticket prices are increasingly affordable; yet, it is increasingly difficult to cross national borders.
@@ -45,3 +69,27 @@ Chris Wood
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/presidents-april-2015-message
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2015_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — April 2015 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_conference_quebec">
+          <span class="pr-2">2015 International Conference – Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

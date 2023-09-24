@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Phillip Marriott<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Moustapha_Ndiaye/senegal_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Senegal Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gerardo_Leche/guatemala_urantia_association">
+          <span class="pr-2">Guatemala Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Canberra-Conf-2019-scaled.jpg">
+<img src="/image/article/IUA_Tidings/Canberra-Conf-2019-scaled.jpg">
 </figure>
 
 The Australia & New Zealand Urantia Association (ANZURA) was first chartered as a National Association in 1994 and was one of the pioneer non-American associations to join the then new Urantia Association International that has always supported and worked closely with Urantia Foundation. (Many of ANZURA’s founding members had been members-at-large of the former Urantia Brotherhood.)  
@@ -49,11 +73,11 @@ Website: [https://anzura.urantia-association.org](https://anzura.urantia-associa
 Phone: +61 (0)431 285 943
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/New-Zealand-Flag-e1648009290130.jpg">
+<img src="/image/article/IUA_Tidings/New-Zealand-Flag-e1648009290130.jpg">
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Ausatralian-Flag-scaled-e1648009320926.jpg">
+<img src="/image/article/IUA_Tidings/Ausatralian-Flag-scaled-e1648009320926.jpg">
 </figure>
 
 ## References
@@ -61,3 +85,27 @@ Phone: +61 (0)431 285 943
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
 - This article: https://urantia-association.org/australia-new-zealand-urantia-association
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Moustapha_Ndiaye/senegal_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Senegal Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gerardo_Leche/guatemala_urantia_association">
+          <span class="pr-2">Guatemala Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

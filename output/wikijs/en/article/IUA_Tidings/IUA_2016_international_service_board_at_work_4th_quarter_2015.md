@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_urantia_university_institute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia University Institute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Study Group Committee – Gaetan Charland, Chair
 
@@ -81,3 +102,24 @@ Bradly submitted a resolution to establish a restricted Future Conference Fund t
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
 - This article: https://urantia-association.org/international-service-board-at-work-4th-quarter-2015
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_urantia_university_institute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia University Institute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

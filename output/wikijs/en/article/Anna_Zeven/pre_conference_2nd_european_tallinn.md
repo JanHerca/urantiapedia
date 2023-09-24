@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Anna Zeven<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_2nd_european_conference_tallinn_last_reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2nd European Conference in Tallinn – Last Reminder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Risto_Mantynen/post_conference_2nd_european">
+          <span class="pr-2">Post-Conference – 2nd European Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Sowing Seeds in Tallinn, Reaping Flowers in Vancouver
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Logo-Post-Conference-2019.jpg">
+<img src="/image/article/IUA_Tidings/Logo-Post-Conference-2019.jpg">
 </figure>
 
 Hi Young (hearted) Readers!
@@ -84,3 +108,27 @@ UYAI Chair
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/pre-conference-2nd-european-tallinn
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_2nd_european_conference_tallinn_last_reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2nd European Conference in Tallinn – Last Reminder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Risto_Mantynen/post_conference_2nd_european">
+          <span class="pr-2">Post-Conference – 2nd European Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

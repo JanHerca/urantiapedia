@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_december_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – December 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/urantia_belgian_group">
+          <span class="pr-2">Urantia Belgian Group Celebrates Jesus’ Birthday</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## April 24 to 25, 2021
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/peru-2912854_1920.jpg">
+<img src="/image/article/IUA_Tidings/peru-2912854_1920.jpg">
 <figcaption><em>Image by Carlos Chirinos</em></figcapton>
 </figure>
 
@@ -53,3 +77,27 @@ e-mail: [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.c
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
 - This article: https://urantia-association.org/virtual-conference-peru-2021
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_december_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – December 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/urantia_belgian_group">
+          <span class="pr-2">Urantia Belgian Group Celebrates Jesus’ Birthday</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

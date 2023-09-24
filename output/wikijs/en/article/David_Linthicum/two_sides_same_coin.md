@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 David Linthicum<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeffrey_Wattles/spiritual_value_peru_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Value in the Peru Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_2">
+          <span class="pr-2">Focus on the Father – Thoughts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/David-Linthicum-150x150.jpeg">
+<img src="/image/article/IUA_Tidings/David-Linthicum-150x150.jpeg">
 </figure>
 
 _(Editor’s note: This article was first published in the 2021 June Tidings. We are re-posting it here in memory of the late David Linthicum.)_
@@ -35,7 +59,7 @@ I did have a total stranger ask me about the book just a couple of months ago. W
 After a nice chat, he said he’d order the book when he got back home and really looked forward to reading it. He seemed genuinely enthused. I gave him my phone number and asked him to call me once he got a chance to read some of it. Did he order the book? If so, did he read it? I don’t know—I haven’t heard back from him. Still, it was a pleasant experience.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Coins-and-person-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Coins-and-person-300x200.jpg">
 </figure>
 
 That is one side of the coin; there is always the other side. On that other side, I am pleased to say, I have personally sent _The Urantia Book_ to hundreds of people all over the country. And, more importantly, I know with _certainty_ that many of them have read or are currently reading the book. How do I know this? I know because they write me often. They write to ask questions, to express how grateful they are to have such a wonderful treasure in their possession, to tell me how it has changed their life, and how they are sharing the book with their family and friends.  
@@ -80,3 +104,27 @@ If you’d like to know more—if you’d like to be a part—if you’d like to
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2021/
 - This article: https://urantia-association.org/two-sides-same-coin
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeffrey_Wattles/spiritual_value_peru_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Value in the Peru Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_2">
+          <span class="pr-2">Focus on the Father – Thoughts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

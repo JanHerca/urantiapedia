@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Chris Wood<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2018_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_european_urantia_leaders_meet">
+          <span class="pr-2">European Urantia Leadership Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
 </figure>
 
 In January representatives of Urantia Association International and Urantia Foundation met to update each other on our current projects, discuss issues of mutual interest and to plan for the future. Many issues were discussed but two themes stand out as highlights.
@@ -24,7 +48,7 @@ It is imperative that we continue to have a steady stream of people dedicated to
 
 A second issue which was a highlight of the meeting is the ongoing need to ensure that _The Urantia Book_ and its teachings are well represented on their own merit and not blended with outside political, social or intellectual influences. Our community needs to “Hold the Center” and not let the Urantia teachings become overly influenced by any one cultural influence. _The Urantia Book_ tells us that the Christian religion…
 
-> _…has become so thoroughly Occidentalized that many non-European peoples very naturally look upon Christianity as a strange revelation of a strange God and for strangers._ [[UB 92:6.18](/en/The_Urantia_Book/92#p6_18)]
+> _…has become so thoroughly Occidentalized that many non-European peoples very naturally look upon Christianity as a strange revelation of a strange God and for strangers._ <a id="a50_174"></a>[[UB 92:6.18](/en/The_Urantia_Book/92#p6_18)]
 
 We must ensure that the Urantia teachings do not fall to a similar fate.
 
@@ -41,3 +65,27 @@ The Foundation and Association have long been great friends and true sister orga
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
 - This article: https://urantia-association.org/presidents-message-march-2018
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2018_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_european_urantia_leaders_meet">
+          <span class="pr-2">European Urantia Leadership Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

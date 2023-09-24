@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Cecilia Barreto<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gerardo_Leche/guatemala_book_fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guatemala Book Fair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/farewell_mark_bloomfield">
+          <span class="pr-2">Farewell Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Antifil-Peru-2-Adjusted-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Antifil-Peru-2-Adjusted-300x225.jpg">
 </figure>
 
 Why did Urantia Peru choose to participate in the ANTFIL 2019? When traditional systems continue to maintain obsolete formats that do not consider the changes that are rapidly being made in humanity, new avant-garde movements led by young people emerge. ANTIFIL (an alternative fair) has arisen in response to the traditional International Book Fair in Lima, Peru, and is entirely organized by young people.
@@ -42,3 +66,27 @@ Vice-President, Urantia Peru
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2019/
 - This article: https://urantia-association.org/antfil-an-alternative-fair-in-peru
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gerardo_Leche/guatemala_book_fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guatemala Book Fair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/farewell_mark_bloomfield">
+          <span class="pr-2">Farewell Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

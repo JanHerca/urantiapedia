@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Zavala_Jr/feedback_from_a_urantia_book_recipient">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feedback from a Urantia Book Recipient</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 2015 1st Quarter Activity Report
 
@@ -57,3 +78,24 @@ Chris Moseley continued to look for volunteer translators and to provide transl
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
 - This article: https://urantia-association.org/international-service-board-at-work
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Zavala_Jr/feedback_from_a_urantia_book_recipient">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feedback from a Urantia Book Recipient</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

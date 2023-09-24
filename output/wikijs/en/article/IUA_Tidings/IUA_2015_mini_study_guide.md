@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Teaching and Facilitating in the UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/progressing_from_human_to_divine">
+          <span class="pr-2">International Conference 2015 Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Mini-Study-Guide-Image-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Mini-Study-Guide-Image-150x150.jpg">
 </figure>
 
 Although _The Urantia Book_ does not offer any official interpretations of its teachings, your study group may benefit from using the following selected text and questions to foster an in-depth approach to your reading and study experience. These questions, then, are designed to stimulate thought in reference to a highlighted section from _The Urantia Book_.
@@ -35,7 +59,7 @@ Questions to Consider
 > 
 > And this youth, Fortune, subsequently became the leader of the Christians in Crete and the close associate of Titus in his labors for the uplift of the Cretan believers.
 > 
-> The travelers were truly rested and refreshed when they made ready about noon one day to sail for Carthage in northern Africa, stopping for two days at Cyrene. It was here that Jesus and Ganid gave first aid to a lad named Rufus, who had been injured by the breakdown of a loaded oxcart. They carried him home to his mother, and his father, Simon, little dreamed that the man whose cross he subsequently bore by orders of a Roman soldier was the stranger who once befriended his son. [[UB 130:6.1-6](/en/The_Urantia_Book/130#p6_1)]
+> The travelers were truly rested and refreshed when they made ready about noon one day to sail for Carthage in northern Africa, stopping for two days at Cyrene. It was here that Jesus and Ganid gave first aid to a lad named Rufus, who had been injured by the breakdown of a loaded oxcart. They carried him home to his mother, and his father, Simon, little dreamed that the man whose cross he subsequently bore by orders of a Roman soldier was the stranger who once befriended his son. <a id="a61_486"></a>[[UB 130:6.1-6](/en/The_Urantia_Book/130#p6_1)]
 
 
 ## References
@@ -43,3 +67,27 @@ Questions to Consider
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/mini-study-guide
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Teaching and Facilitating in the UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2014 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/progressing_from_human_to_divine">
+          <span class="pr-2">International Conference 2015 Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

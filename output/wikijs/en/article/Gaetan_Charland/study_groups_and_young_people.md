@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Gaetan G. Charland<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_italian_conference_report_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Italian Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_meeting_21st_august">
+          <span class="pr-2">Dutch Urantia Meeting 21st August</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
 </figure>
 
 After my return from the Budapest conference, I was contacted by one of our members asking me about the different study group models I know of, because from what this reader said in her message, it was her opinion that the younger generation is less prone to joining study groups the way that most are currently structured.
@@ -37,3 +61,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
 - This article: https://urantia-association.org/study-groups-and-young-people
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_italian_conference_report_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Italian Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-november-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — November 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_meeting_21st_august">
+          <span class="pr-2">Dutch Urantia Meeting 21st August</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

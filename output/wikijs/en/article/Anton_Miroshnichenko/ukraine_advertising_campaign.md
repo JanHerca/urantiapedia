@@ -9,15 +9,39 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Anton Miroshnichenko<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_latin_american_urantia_conference_bogota">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Urantia Conference – Bogota</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/rejuvenating_your_study_group">
+          <span class="pr-2">Rejuvenating Your Study Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Ukraine-Promotion-1-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Ukraine-Promotion-1-300x225.jpg">
 </figure>
 
 In March of 2016, with the financial help of donors to Urantia Association International, and after some market research, the Urantia Association of Ukraine was able to begin the first Urantia Book advertising campaign in Ukraine. As a result we have placed books in the Bookstores Network named “BUKVA”. So far we have:
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Ukraine-Promotion-4-300x400.jpg">
+<img src="/image/article/IUA_Tidings/Ukraine-Promotion-4-300x400.jpg">
 </figure>
 
 - Placed an advertisement in the form of small banners in a total of 510 train carriages in the busy Kyiv subway system. These ran for 2 months starting 15th of February. The dimensions of these banners were 142 х 70
@@ -49,3 +73,27 @@ Urantia Association of the Ukraine
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2016/
 - This article: https://urantia-association.org/ukraine-advertising-campaign
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_latin_american_urantia_conference_bogota">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Urantia Conference – Bogota</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/rejuvenating_your_study_group">
+          <span class="pr-2">Rejuvenating Your Study Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

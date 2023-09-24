@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Gaetan Charland<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/spain_national_meeting_report_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spain National Meeting Report – 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_annual_conference">
+          <span class="pr-2">Dutch Urantia Association Annual Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
 </figure>
 
 As a host of a study group have you ever wondered how effective your group is at promoting spiritual growth in its participants?
@@ -64,3 +88,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
 - This article: https://urantia-association.org/effective-study-groups
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/spain_national_meeting_report_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spain National Meeting Report – 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_annual_conference">
+          <span class="pr-2">Dutch Urantia Association Annual Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

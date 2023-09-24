@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/progressive_divine_wisdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Progressive Divine Wisdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Moseley/great_britain_ireland_summer_retreat">
+          <span class="pr-2">Great Britain & Ireland Annual Summer Retreat 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Books.jpg">
+<img src="/image/article/IUA_Tidings/Books.jpg">
 </figure>
 
 Join others in learning the teachings of _The Urantia Book_. Young or old, new or advanced, we can all learn something new. Take the opportunity to share ideas and to learn from others in your ongoing quest for deeper meanings and values.
@@ -73,3 +97,27 @@ Learn more about it [here](https://mailchi.mp/urantiauniversity/kids-urantia-les
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
 - This article: https://urantia-association.org/urantia-book-learning-centers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/progressive_divine_wisdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Progressive Divine Wisdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Moseley/great_britain_ireland_summer_retreat">
+          <span class="pr-2">Great Britain & Ireland Annual Summer Retreat 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Kathleen Swadling<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_european_urantia_leaders_meet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">European Urantia Leadership Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marlene_and_Georges_Michelson_Dupont/jean_royer_graduation">
+          <span class="pr-2">Jean Royer Graduation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Screen-shot-Anzura-Subsite-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Screen-shot-Anzura-Subsite-150x150.jpg">
 </figure>
 
 The website for Urantia Association International at [https://urantia-association.org](https://urantia-association.org/) has a new feature allowing for multiple “subsites.” A subsite is a website that is joined to a main website, but has the appearance of a stand-alone website with its own unique domain name.
@@ -35,3 +59,27 @@ Already several associations have requested a subsite and we encourage all chart
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
 - This article: https://urantia-association.org/subsites-regional-urantia-associations
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_european_urantia_leaders_meet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">European Urantia Leadership Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marlene_and_Georges_Michelson_Dupont/jean_royer_graduation">
+          <span class="pr-2">Jean Royer Graduation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

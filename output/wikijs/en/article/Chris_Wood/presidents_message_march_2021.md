@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Chris Wood<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2021_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_update_urantia_association_conference_virtual_experience">
+          <span class="pr-2">Update – 11th Urantia Association Conference – A Virtual Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-Presenting-enhanced.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-Presenting-enhanced.jpg">
 </figure>
 
 It has been a true honor to serve Urantia Association for the last eight years. I have been blessed to help guide this group of global, loving, God-seeking people as they have come together for the common purpose of sharing an epochal revelation.  
@@ -37,3 +61,27 @@ Chris Wood
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
 - This article: https://urantia-association.org/presidents-message-march-2020-2
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2021_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_update_urantia_association_conference_virtual_experience">
+          <span class="pr-2">Update – 11th Urantia Association Conference – A Virtual Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

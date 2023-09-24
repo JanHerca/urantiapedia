@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — September 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/experiment_online_study_group">
+          <span class="pr-2">An Experiment for Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
 </figure>
 
 There has never been a busier, more productive time to be in service to the Urantia Revelation!
@@ -19,7 +43,7 @@ There has never been a busier, more productive time to be in service to the Uran
 
 _The Urantia Book_ tells us that:
 
-> _Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space._ [[UB 28:6.17](/en/The_Urantia_Book/28#p6_17)] 
+> _Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space._ <a id="a45_174"></a>[[UB 28:6.17](/en/The_Urantia_Book/28#p6_17)] 
 
 That’s all fine and dandy, but I’ve got a hive of hornets that have embedded themselves in the walls of my home and are swarming the office.  
 
@@ -41,3 +65,27 @@ Chris Wood
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2017/
 - This article: https://urantia-association.org/presidents-message-september
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — September 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/experiment_online_study_group">
+          <span class="pr-2">An Experiment for Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

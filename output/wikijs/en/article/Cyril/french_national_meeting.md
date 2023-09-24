@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Cyril<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Grevet_Moyo/success_stories_urantia_books_distribution_in_malawi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Success Stories – Urantia Books Distribution in Malawi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="pr-2">Summer Conference in Finland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/French-Meeting-group-300x169.jpg">
+<img src="/image/article/IUA_Tidings/French-Meeting-group-300x169.jpg">
 </figure>
 
 The national meeting of Urantia Book readers took place this year from 18 to 21 June 2015 at the Neylière estate, near Lyon.
@@ -66,7 +90,7 @@ In view of this, Urantia has benefited from emergency plans with “unique” ch
 Globally we have a very great retardation (3<sup>rd</sup> age) despite our great advancement in the domains of science and technology.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/French-Meeting-venue-300x169.jpg">
+<img src="/image/article/IUA_Tidings/French-Meeting-venue-300x169.jpg">
 </figure>
 
 Reading this paper up to the 5<sup>th</sup> age has also allowed us to know the coming future evolution on Urantia, for example the unification of governments, the presence of a single race, peace on Urantia, only a few working hours per day and a good use of leisure, practising music and the arts.
@@ -83,3 +107,27 @@ We had an agreeable surprise during this weekend – the arrival of Antonio Sche
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
 - This article: https://urantia-association.org/french-national-meeting
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Grevet_Moyo/success_stories_urantia_books_distribution_in_malawi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Success Stories – Urantia Books Distribution in Malawi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-august-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — August 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="pr-2">Summer Conference in Finland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

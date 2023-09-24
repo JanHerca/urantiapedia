@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_update_urantia_association_conference_virtual_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Update – 11th Urantia Association Conference – A Virtual Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="pr-2">Iberoamerican Urantiathon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/hand-Gerd-Altmann.jpg">
+<img src="/image/article/IUA_Tidings/hand-Gerd-Altmann.jpg">
 <figcaption><em>Image de Gerd Altmann</em></figcaption>
 </figure>
 
@@ -31,3 +55,27 @@ Thank you again to all of those loyal and industrious volunteers who worked in f
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
 - This article: https://urantia-association.org/presidents-message-march-2020-2
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_update_urantia_association_conference_virtual_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Update – 11th Urantia Association Conference – A Virtual Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="pr-2">Iberoamerican Urantiathon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

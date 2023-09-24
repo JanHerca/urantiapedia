@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Line St Pierre<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wilson_Leon/spiritualizing_everyday_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualizing Everyday Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_stop_resisting">
+          <span class="pr-2">Focus on the Father – Stop Resisting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Line-St-Pierre-02-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Line-St-Pierre-02-150x150.jpg">
 </figure>
 
 After more than 15 months without being able to meet, we wondered if it would be possible to create the proper atmosphere in an online retreat. 
@@ -35,7 +59,7 @@ One of the participants read what the Catholic priest, author and theologian Hen
 All of us appreciated the level of trust, respect and vulnerability in our sharing.  Our individual contributions came from the Spirit, which does not differentiate whether we are in person or virtually. The Spirit recognizes the state of soul. At the end of the afternoon, we all felt uplifted and supported in this sacred circle.   
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Daughters-of-God-Retreat-December-2020-706x324.jpg">
+<img src="/image/article/IUA_Tidings/Daughters-of-God-Retreat-December-2020-706x324.jpg">
 </figure>
 
 ## References
@@ -43,3 +67,27 @@ All of us appreciated the level of trust, respect and vulnerability in our shar
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
 - This article: https://urantia-association.org/dancing-with-god-2
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wilson_Leon/spiritualizing_everyday_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualizing Everyday Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_stop_resisting">
+          <span class="pr-2">Focus on the Father – Stop Resisting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

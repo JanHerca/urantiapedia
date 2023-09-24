@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Enrique Traver<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kurtz/why_study_urantia_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Do We Study The Urantia Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Graeme_Chapman/anzura_conference_queensland">
+          <span class="pr-2">ANZURA Conference Queensland 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Logo-2nd-Latin-American-Urantia-Conference-small-300x319.jpg">
+<img src="/image/article/IUA_Tidings/Logo-2nd-Latin-American-Urantia-Conference-small-300x319.jpg">
 </figure>
 
 Only 60 days to go for the 2<sup>nd</sup> Latin American Conference being held 1 – 4 November 2018 in Guarulhos, São Paulo, Brazil.
@@ -38,3 +62,27 @@ Please join us for this very special Latin American event. We’re looking forwa
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
 - This article: https://urantia-association.org/latin-american-conference-brazil
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kurtz/why_study_urantia_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Do We Study The Urantia Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Graeme_Chapman/anzura_conference_queensland">
+          <span class="pr-2">ANZURA Conference Queensland 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

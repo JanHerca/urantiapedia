@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nathen_Jansen_and_Katharina_Becker/vancouver_2020_urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver 2020 – Urantia Global Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Amazon-Holiday-ad-300x150.jpg">
+<img src="/image/article/IUA_Tidings/Amazon-Holiday-ad-300x150.jpg">
 </figure>
 
 **Did you know that when you shop for the holidays at [AmazonSmile](http://smile.amazon.com/), Amazon donates to Urantia Association International?**
@@ -47,7 +68,7 @@ Donations are made by the AmazonSmile Foundation therefore are not tax deductibl
 Thank you for joining us in our efforts to spread the teachings of _The Urantia Book_.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Amazon-New-Logo.jpg">
+<img src="/image/article/IUA_Tidings/Amazon-New-Logo.jpg">
 </figure>
 
 Read more about [Announcements](https://urantia-association.org/category/announcements/).
@@ -57,3 +78,24 @@ Read more about [Announcements](https://urantia-association.org/category/announc
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2019/
 - This article: https://urantia-association.org/donating-with-amazonsmile
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nathen_Jansen_and_Katharina_Becker/vancouver_2020_urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver 2020 – Urantia Global Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

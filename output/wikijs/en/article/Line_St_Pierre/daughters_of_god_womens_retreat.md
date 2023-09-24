@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Line St Pierre<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dutch Speaking Urantia Conference—21st August</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_story_from_india">
+          <span class="pr-2">Story from India</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Dancing with God—Emerging in Sacredness
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Daughters-of-God-June-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Daughters-of-God-June-150x150.jpg">
 </figure>
 
 September 21 to 24, 2017  
@@ -49,3 +73,27 @@ If you would like to join this event at 533 W. Diversey Parkway in Chicago, cont
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
 - This article: https://urantia-association.org/daughters-of-god-womens-retreat
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Terra/dutch_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dutch Speaking Urantia Conference—21st August</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_story_from_india">
+          <span class="pr-2">Story from India</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

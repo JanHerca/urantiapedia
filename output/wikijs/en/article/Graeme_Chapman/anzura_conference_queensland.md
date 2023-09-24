@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Graeme Chapman<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2nd Latin American Conference — São Paulo, Brazil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_testimonials_book_fair_attendees">
+          <span class="pr-2">Testimonials from Book Fair Attendees</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## On the Cosmic Background: “God Does Not Play Dice”
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Screen-shot-theme-256x400.jpg">
+<img src="/image/article/IUA_Tidings/Screen-shot-theme-256x400.jpg">
 </figure>
 
 If you haven’t registered yet, there’s still space available at ANZURA’s upcoming annual conference that’s being held on the Sunshine Coast of Queensland, Australia 5 – 8 October 2018.
@@ -42,3 +66,27 @@ Perhaps our understanding will make a quantum jump to an inclusive state encompa
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
 - This article: https://urantia-association.org/anzura-conference-queensland
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2nd Latin American Conference — São Paulo, Brazil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2018_testimonials_book_fair_attendees">
+          <span class="pr-2">Testimonials from Book Fair Attendees</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

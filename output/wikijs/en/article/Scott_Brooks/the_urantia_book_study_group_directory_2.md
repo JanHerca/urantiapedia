@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Scott Brooks<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parliament of World’s Religions Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_service_board_at_work_3rd_quarter_2015">
+          <span class="pr-2">International Service Board at Work – 3rd Quarter 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Study-Group-Directory-300x192.jpg">
+<img src="/image/article/IUA_Tidings/Study-Group-Directory-300x192.jpg">
 </figure>
 
 A project that began in 2009 to build a website where readers could find study groups has matured into an independent institution with broad sponsorship and a wide reach. Over 400 study groups representing 42 countries have chosen to list their study groups with the online search engine called _The Urantia Book Study Group Directory (UBSGD)_. Each month nearly 1,000 people visit the site. The site serves pages in four languages and there are translations underway for additional languages.
@@ -48,3 +72,27 @@ _Columbus, Ohio, United States_
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
 - This article: https://urantia-association.org/the-urantia-book-study-group-directory
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parliament of World’s Religions Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_international_service_board_at_work_3rd_quarter_2015">
+          <span class="pr-2">International Service Board at Work – 3rd Quarter 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

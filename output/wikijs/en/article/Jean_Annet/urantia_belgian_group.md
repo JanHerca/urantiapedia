@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Jean Annet<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_virtual_conference_peru_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">11th Urantia Association International Conference 2021 – A Virtual Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_uui_news">
+          <span class="pr-2">Urantia University Institute News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Belgium-Meeting-e1648009513129.jpg">
+<img src="/image/article/IUA_Tidings/Belgium-Meeting-e1648009513129.jpg">
 </figure>
 
 On September 27th, a little more than a month after our Creator Son’s birthday on August 21st (COVID obliges) we met in a small group to celebrate our Master Jesus. The hygiene situation did not allow the meeting of large groups, so we took the opportunity to strengthen our fraternal ties.
@@ -35,3 +59,27 @@ It currently has about 30 members, although some are no longer very active. We c
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
 - This article: https://urantia-association.org/urantia-belgian-group
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_virtual_conference_peru_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">11th Urantia Association International Conference 2021 – A Virtual Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_uui_news">
+          <span class="pr-2">Urantia University Institute News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

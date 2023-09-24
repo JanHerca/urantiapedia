@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/fantastic_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Fantastic Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gabriel_Rymberg/center_for_unity">
+          <span class="pr-2">Center for Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Education Committee of Urantia Foundation Calls for Proposals
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/DNA.jpg">
+<img src="/image/article/IUA_Tidings/DNA.jpg">
 </figure>
 
 ## Science: The Interface of Evolution and Revelation
@@ -28,7 +52,7 @@ If you are interested in preparing and presenting a paper, please contact [joann
 
 The symposium will be held at Urantia Foundation in Chicago, Illinois, USA, and will be broadcast live to the public. Where travel is prohibitive, presenters may elect to attend via Zoom.
 
-> _All human progress is effected by a technique of conjoint revelational evolution._ [[UB 196:3.15](/en/The_Urantia_Book/196#p3_15)]
+> _All human progress is effected by a technique of conjoint revelational evolution._ <a id="a54_86"></a>[[UB 196:3.15](/en/The_Urantia_Book/196#p3_15)]
 
 
 ## References
@@ -36,3 +60,27 @@ The symposium will be held at Urantia Foundation in Chicago, Illinois, USA, and 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2021/
 - This article: https://urantia-association.org/science-symposium-iii
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/fantastic_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Fantastic Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gabriel_Rymberg/center_for_unity">
+          <span class="pr-2">Center for Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

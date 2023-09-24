@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_video_part_4d">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Video Part 4D: Ancient Orvonton, and a Young Cosmic Web</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_irmeli_ivalo_sjolie_obituary">
+          <span class="pr-2">Irmeli Ivalo-Sjölie – Obituary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We’d like to share with you two projects we’ve been working on for some time now: **The Jesus Museum** and the **Jesus Metaverse**
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Jesus-Metaverse-1.jpg">
+<img src="/image/article/IUA_Tidings/Jesus-Metaverse-1.jpg">
 </figure>
 
 The world needs a new vision of the Master’s life on earth. 
@@ -49,3 +73,27 @@ For more information watch our introduction videos ([overview](https://bit.ly/CF
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
 - This article: https://urantia-association.org/the-jesus-museum
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_video_part_4d">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Video Part 4D: Ancient Orvonton, and a Young Cosmic Web</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_irmeli_ivalo_sjolie_obituary">
+          <span class="pr-2">Irmeli Ivalo-Sjölie – Obituary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

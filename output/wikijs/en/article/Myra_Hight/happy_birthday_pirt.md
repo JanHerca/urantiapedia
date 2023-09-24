@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Myra Hight<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Debbie_Bartman/vancouver_island_campout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver Island Campout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Garcia_Bory/challenges_ministry_venezuela">
+          <span class="pr-2">Challenges and Loving Service Ministry in Venezuela</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/PIRT-graphic-300x241.jpg">
+<img src="/image/article/IUA_Tidings/PIRT-graphic-300x241.jpg">
 </figure>
 
 PIRT, the “Prisoner Inquiry Response Team” ended the year 2018 on an extra positive note and we would like to share our news with fellow readers. PIRT was formed by a small group of volunteers in the United States to disseminate _The Urantia Book_ to our planet’s darkest corners, the nation’s many prisons. All of the original PIRTeam members continue to serve in some capacity after **_15 years!_** Currently there are six United States volunteers actively answering inmate inquiries, or helping in other ways, and a few more good people have served and moved on. We rejoice and give thanks for all the hungry souls who have found the soul saving truths in _The Urantia Book_. I am humbled by the dedication of our volunteers who make it all happen; we are excited to celebrate fifteen wonderful years of Urantia Book placements that PIRT members have delivered. It is thrilling to see the seeds of the revelation grow and come to fruition.
@@ -44,3 +68,27 @@ PIRT Chair
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
 - This article: https://urantia-association.org/happy-birthday-pirt
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Debbie_Bartman/vancouver_island_campout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver Island Campout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Garcia_Bory/challenges_ministry_venezuela">
+          <span class="pr-2">Challenges and Loving Service Ministry in Venezuela</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

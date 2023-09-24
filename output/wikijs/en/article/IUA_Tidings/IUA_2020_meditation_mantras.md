@@ -9,16 +9,40 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/virtual_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual Study Groups and Conferences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_urantia_hackathon_volunteers">
+          <span class="pr-2">Urantia Hackathon 2020 — A Call for Team Volunteers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/salmonberryED.jpg">
+<img src="/image/article/IUA_Tidings/salmonberryED.jpg">
 </figure>
 
 ## Suggestions of a Solitary Messenger 
 
 The following list of meditation mantras is taken from the practical suggestions and spiritual attitudes required for Adjuster contact as presented by a Solitary Messenger in _The Urantia Book,_ Papers 107-111. I’ve taken the liberty of paraphrasing these directives in a positive and active voice and, therefore, all interpretations and possible errors are my own. I encourage all readers to verify the content for themselves. This is by no means a comprehensive list of the many spiritual suggestions and techniques for Adjuster communion given to us throughout the book.  
 
-**The Adjusters _are_ the will of God…** [[UB 108:4.2](/en/The_Urantia_Book/108#p4_2)] 
+**The Adjusters _are_ the will of God…** <a id="a44_41"></a>[[UB 108:4.2](/en/The_Urantia_Book/108#p4_2)] 
 
 ## Mantras 
 
@@ -51,3 +75,27 @@ The following list of meditation mantras is taken from the practical suggestions
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
 - This article: https://urantia-association.org/meditation-mantras
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/virtual_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual Study Groups and Conferences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_urantia_hackathon_volunteers">
+          <span class="pr-2">Urantia Hackathon 2020 — A Call for Team Volunteers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

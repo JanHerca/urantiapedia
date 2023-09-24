@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_farewell_ed_owen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Farewell Ed Owen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/dialogues_with_sofia">
+          <span class="pr-2">Dialogues with Sofia: A Novel to Introduce The Urantia Book Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Carolyn-Kendall.jpg">
+<img src="/image/article/IUA_Tidings/Carolyn-Kendall.jpg">
 </figure>
 
 Carolyn Kendall, long time Urantia Book reader, Forum member, faithful and loyal servant to the revelation, a pillar of strength, and beloved friend to many in the Urantia community, recently passed away at the age of 88 on the 7<sup>th</sup> of November after years of poor health.  
@@ -37,3 +61,27 @@ Wheeling, IL. USA, 60090
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
 - This article: https://urantia-association.org/farewell-to-carolyn-kendall
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_farewell_ed_owen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Farewell Ed Owen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/dialogues_with_sofia">
+          <span class="pr-2">Dialogues with Sofia: A Novel to Introduce The Urantia Book Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

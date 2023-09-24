@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Karen Huigsloot<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/international_goals_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Goals for 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_international_conference_financial_aid">
+          <span class="pr-2">Financial Aid – 2018 International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Urantia Association’s International Conference in The Netherlands 12—15 April 2018
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
+<img src="/image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
 </figure>
 
 **Jesus as a Teacher: Are You Ready to Live His Teachings in the 21st Century?**
@@ -21,9 +45,9 @@ dateCreated: 2023-9-16T10:55:6Z
 How did Jesus develop as a true teacher? What methods did he apply, both then and now? And what are the most important lessons he wanted to teach us so that we, as we can read in Paper 195, can develop ourselves as new leaders? That is as spiritual men and women, fully trusting in the teaching of Jesus.
 <br style="clear:both;"/>
 
-> _But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._ [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)]
+> _But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._ <a id="a47_524"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)]
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ <a id="a49_591"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 The program will provide space for seven plenary speakers, readers of _The Urantia Book_ who have studied the book for many years and who can help us to better understand this Fifth Revelation. The emphasis of the program will be based on learning through experience and exchanges in small groups.
 
@@ -76,3 +100,27 @@ E-mail: [info@urantia.nl](mailto:info@urantia.nl)
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
 - This article: https://urantia-association.org/international-conference-2018-update
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/international_goals_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Goals for 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_international_conference_financial_aid">
+          <span class="pr-2">Financial Aid – 2018 International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

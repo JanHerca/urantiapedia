@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Line St-Pierre<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_the_jesus_metaverse_calling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Jesus Metaverse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="pr-2">The Urantia Uganda Conference 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Line-St-Piere-2022-150x150.jpeg">
+<img src="/image/article/IUA_Tidings/Line-St-Piere-2022-150x150.jpeg">
 </figure>
 
 How many of us are saddened to see the world today in such decay? I realize that we all have this need to feel comforted and at peace about what will happen after our time on earth. What will we leave as a spiritual legacy to our grandchildren and their children’s children? It may seem far-fetched to think like this, but it is so little when we know that life is eternal and that this earthly adventure must one day reach the era of light and life.
@@ -34,7 +58,7 @@ The privilege of having found _The Urantia Book_ makes us eternally indebted to 
 
 I am confident that the Thought Adjuster that lives in every human being will guide the individual in search of greater truth.
 
-> In winning souls for the Master, it is not the first mile of compulsion, duty, or convention that will transform man and his world, but rather the second mile of free service and liberty-loving devotion that betokens the Jesusonian reaching forth to grasp his brother in love and sweep him on under spiritual guidance toward the higher and divine goal of mortal existence. Christianity even now willingly goes the first mile, but mankind languishes and stumbles along in moral darkness because there are so few genuine second-milers — so few professed followers of Jesus who really live and love as he taught his disciples to live and love and serve. [[UB 195:10.5](/en/The_Urantia_Book/195#p10_5)]
+> In winning souls for the Master, it is not the first mile of compulsion, duty, or convention that will transform man and his world, but rather the second mile of free service and liberty-loving devotion that betokens the Jesusonian reaching forth to grasp his brother in love and sweep him on under spiritual guidance toward the higher and divine goal of mortal existence. Christianity even now willingly goes the first mile, but mankind languishes and stumbles along in moral darkness because there are so few genuine second-milers — so few professed followers of Jesus who really live and love as he taught his disciples to live and love and serve. <a id="a60_653"></a>[[UB 195:10.5](/en/The_Urantia_Book/195#p10_5)]
 
 
 ## References
@@ -42,3 +66,27 @@ I am confident that the Thought Adjuster that lives in every human being will gu
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
 - This article: https://urantia-association.org/i-found-the-key
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2022_the_jesus_metaverse_calling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Jesus Metaverse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="pr-2">The Urantia Uganda Conference 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Antonio Schefer<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_jointly_sponsored_conference_in_the_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jointly Sponsored Conference in the USA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/italian_conference_report">
+          <span class="pr-2">Italian Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/UYAI-study-group-picture-270x400.jpg">
+<img src="/image/article/IUA_Tidings/UYAI-study-group-picture-270x400.jpg">
 </figure>
 
 Beginning November 23, we will launch a series of free online study group sessions centered on the teachings of _The Urantia Book_. The sessions will be held weekly and will consist initially of the following modules:
@@ -51,3 +75,27 @@ For more information email the Conference Chair at [conference@triniteit.org](ma
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
 - This article: https://urantia-association.org/urantia-young-adult-international-uyai-study-group
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_jointly_sponsored_conference_in_the_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jointly Sponsored Conference in the USA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-october-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — October 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/italian_conference_report">
+          <span class="pr-2">Italian Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

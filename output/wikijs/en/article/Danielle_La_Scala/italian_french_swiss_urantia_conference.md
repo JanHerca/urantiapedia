@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Danielle La Scala<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_sharing_the_urantia_book_through_webinars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing The Urantia Book through Webinars</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_the_bogota_international_book_fair">
+          <span class="pr-2">The Bogotá International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Hotel-Building-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Hotel-Building-300x200.jpg">
 </figure>
 
 We are pleased to announce the second conference in Italy for Italian, Swiss and French-speaking readers of _The Urantia Book_ to be held 7 to 9 October, 2016 in Italy_._
@@ -69,7 +93,7 @@ Please reserve your rooms directly with the hotel.
 The special rates are available from Thursday October 6 to Monday October 10, 2016.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Hotel-Room-Hotel-Europa2-706x469.jpg">
+<img src="/image/article/IUA_Tidings/Hotel-Room-Hotel-Europa2-706x469.jpg">
 </figure>
 
 **Transfer**
@@ -86,3 +110,27 @@ We look forward welcoming again last year participants, as well as meeting new r
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
 - This article: https://urantia-association.org/italian-french-swiss-urantia-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_sharing_the_urantia_book_through_webinars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing The Urantia Book through Webinars</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_the_bogota_international_book_fair">
+          <span class="pr-2">The Bogotá International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

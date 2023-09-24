@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Sandra Naranjo Cabezas<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Karmo_Kalda/european_conference_estonia_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2nd European Urantia Conference – Tallinn, Estonia 2019 –</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/advocacy_study_groups">
+          <span class="pr-2">Advocacy for Study Groups –</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/554px-x-800px-Final-Print-version-Poster-II-CONGRESO-NACIONAL-DE-LECTORES-DEL-LIBRO-DE-URANTIA-DEL-ECUADOR-272x400.jpg">
+<img src="/image/article/IUA_Tidings/554px-x-800px-Final-Print-version-Poster-II-CONGRESO-NACIONAL-DE-LECTORES-DEL-LIBRO-DE-URANTIA-DEL-ECUADOR-272x400.jpg">
 </figure>
 
 In the house of spiritual retreat “San Fernando” located in Ballenita, Santa Elena, Ecuador, the second National Urantia Conference in Ecuador 2018 was held from October 6 to 8 with the theme: “A Spiritual Experience in Urantia.”
@@ -50,3 +74,27 @@ Finally, our thanks go to Xavier Alvarado Robles manager of the TV channel INTI 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2018/
 - This article: https://urantia-association.org/conference-chartering-ecuador
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Karmo_Kalda/european_conference_estonia_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2nd European Urantia Conference – Tallinn, Estonia 2019 –</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/advocacy_study_groups">
+          <span class="pr-2">Advocacy for Study Groups –</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Jeannie Vázquez<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Schefer/urantia_young_adults_post_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Young Adults Post-Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bradly_Tharp/modernizing_urantia_association">
+          <span class="pr-2">We Have Modernized Urantia Association International</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Jeannie_Vazquez-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Jeannie_Vazquez-150x150.jpg">
 </figure>
 
 Dear Friends and Readers of _The Urantia Book_,
@@ -21,15 +45,15 @@ It is a pleasure to inform you about the latest activities of Urantia Associatio
 We are organizing a cycle of monthly live webinars. On March 24, the Association’s Study Groups Committee Chair, Gaetan Charland, presented the theme “Improving the Quality and Effectiveness of Study Groups.” In this webinar, Gaetan explored how study groups may be improved to work toward fulfilling _The Urantia Book_’s mission, as stated in the book:
 <br style="clear:both;"/>
 
-> _…to expand cosmic consciousness and enhance spiritual perception._ [[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)]
+> _…to expand cosmic consciousness and enhance spiritual perception._ <a id="a47_70"></a>[[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)]
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Webinar-Announcement-Gaetan-Charland-300x180.jpg">
+<img src="/image/article/IUA_Tidings/Webinar-Announcement-Gaetan-Charland-300x180.jpg">
 </figure>
 
 Our attention was brought to the challenge as stated at the end of Paper 196:
 
-> _…The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind._ [[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)]
+> _…The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind._ <a id="a55_133"></a>[[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)]
 
 To improve effectiveness in your study group, Gaetan offered the following suggestions:
 
@@ -47,7 +71,7 @@ To improve effectiveness in your study group, Gaetan offered the following sugge
 You can view this instructive presentation on the Association’s YouTube channel at: [https://youtu.be/xLCKFD7kluw](https://youtu.be/xLCKFD7kluw)
 
 <figure id="Figure_23" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Webinar-Announcement-Benet-Rutenberg-300x180.jpg">
+<img src="/image/article/IUA_Tidings/Webinar-Announcement-Benet-Rutenberg-300x180.jpg">
 </figure>
 
 On April 28, the Association’s Judicial Commissioner, Benet Rutenberg, presented a webinar on “Spiritual Unity and the Spirit of Truth.”
@@ -93,3 +117,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
 - This article: https://urantia-association.org/urantia-association-educational-activities
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Schefer/urantia_young_adults_post_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Young Adults Post-Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bradly_Tharp/modernizing_urantia_association">
+          <span class="pr-2">We Have Modernized Urantia Association International</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

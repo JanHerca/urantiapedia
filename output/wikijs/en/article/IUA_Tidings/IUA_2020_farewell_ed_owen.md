@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father—Going to God’s Place</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_farewell_to_carolyn_kendall">
+          <span class="pr-2">Farewell to Carolyn Kendall</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/EdOwen2.jpg">
+<img src="/image/article/IUA_Tidings/EdOwen2.jpg">
 </figure>
 
 Ed Owen, long time Urantia Book reader, beloved friend to many and husband of Susan Owen, recently passed away on the 23<sup>rd</sup> of November. Susan wrote, “Ed began his journey across the universes and the cosmos yesterday. He was ready to leave this earthly plane on his eternal adventure. He had 86 good years on this planet full of an amazing variety of friendships and experiences—he had so many wonderful stories to tell. He held his friends close and was able to say goodbye to many. He loved to tell people “I am a son of God and you are my brother/sister.”
@@ -55,7 +79,7 @@ Ed was a gentle soul. He was very easy to talk with and kindness immersed from h
 My dear Ed…. we see you off on your journey through the universes…. you enriched our lives with undying friendship, many hours of smiles and provocative thought.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/IMG_5099-300x272.jpg">
+<img src="/image/article/IUA_Tidings/IMG_5099-300x272.jpg">
 </figure>
 
 ## References
@@ -63,3 +87,27 @@ My dear Ed…. we see you off on your journey through the universes…. you enri
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
 - This article: https://urantia-association.org/farewell-ed-owen
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father—Going to God’s Place</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2020_farewell_to_carolyn_kendall">
+          <span class="pr-2">Farewell to Carolyn Kendall</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

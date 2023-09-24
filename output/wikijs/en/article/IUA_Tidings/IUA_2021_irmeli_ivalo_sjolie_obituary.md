@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_the_jesus_museum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Jesus Museum and The Jesus Metaverse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Irmeli-Sjolie-tribute-4-e1638744219835-700x450-1-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Irmeli-Sjolie-tribute-4-e1638744219835-700x450-1-150x150.jpg">
 </figure>
 
 Irmeli Ivalo Sjölje passed away on November 28th in Helsinki, Finland at the age of 92. She will be greatly missed around the world by the Urantia Book reader community and many others from all walks of life. In 2007, Irmeli was appointed an Associate Trustee of Urantia Foundation and also served as a Urantia Book ambassador for the Foundation. She traveled widely, attending conferences and study groups, and assisting with many bookfairs.
@@ -32,3 +53,24 @@ Farewell Irmeli. You’ve had wonderful innings in your selfless and generous se
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
 - This article: https://urantia-association.org/irmeli-ivalo-sjolie-obituary
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_the_jesus_museum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Jesus Museum and The Jesus Metaverse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

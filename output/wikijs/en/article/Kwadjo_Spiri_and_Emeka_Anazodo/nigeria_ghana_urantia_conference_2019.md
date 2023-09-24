@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Kwadjo Spiri and Emeka Anazodo<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/national_conference_mexico_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third National Conference in Mexico City</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/daughters_of_god_update">
+          <span class="pr-2">Daughters of God Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Group-Nigeria-2019-2-706x428.jpg">
+<img src="/image/article/IUA_Tidings/Group-Nigeria-2019-2-706x428.jpg">
 </figure>
 
 ## Fostering Spiritual Unity Through Loving Service
@@ -23,7 +47,7 @@ Following are two reports written by Kwadjo Spiri and Emeka Anazodo:
 ## Kwadjo Spiri, Ghana writes:
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Nigeria-2019-Logo-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Nigeria-2019-Logo-150x150.jpg">
 </figure>
 
 Meet and greet was on the Friday evening after readers traveling from Ghana by road arrived safely. Other readers from various states in Nigeria converged in Lagos for this conference. Saturday was the day for the main event.
@@ -31,7 +55,7 @@ Meet and greet was on the Friday evening after readers traveling from Ghana by r
 The content of the conference was enriched by various presentations from readers from Ghana and Nigeria. Emeka Anazodo of Urantia Nigeria opened the conference with a personal introduction and an opening prayer. This was immediately followed by short introductions from everyone seated for the event, who briefly stated their connections and experiences with _The Urantia Book_. New readers were encouraged and enthused by the experiences of the more experienced readers.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Nigeria-2019-Presenter-300x361.jpg">
+<img src="/image/article/IUA_Tidings/Nigeria-2019-Presenter-300x361.jpg">
 </figure>
 
 Collins Lomo from Ghana gave an interesting presentation on “My Brother’s Keeper,” drawing attention to supporting ourselves and being there for each other as children of the kingdom—God’s children. Between presentations, Shola, a Nigerian reader and musician, refreshed the gathering with music.
@@ -45,7 +69,7 @@ Emeka concluded the day’s presentations with a talk on effective praying, draw
 Emeka and I led participants in a prayer circle and offered prayers for the growth of the Urantia teachings and its associated movements in the world and especially Africa, which is a new beacon of light to the world regarding truth, beauty, and goodness.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Nigeria-2019-2-300x400.jpg">
+<img src="/image/article/IUA_Tidings/Nigeria-2019-2-300x400.jpg">
 </figure>
 
 Generally, this was a successful conference as it met its anticipated target of bringing African readers together (seasoned and new) to learn, discover and socialize. Also, we achieved our goal of strengthening and consolidating the African Urantia study groups and clubs. As a result, readers from all parts of Africa have continued to be in close touch after the conference.
@@ -60,7 +84,7 @@ The December 2019 Nigeria-Ghana Urantia conference was a great and memorable eve
 Readers in Nigeria have relied mainly on phone calls and social media, especially WhatsApp for group communication, group study, and fellowship. Several efforts have been made with Zoom cloud meetings, but a poor mobile network and the cost of data effectively marred the project. Several other efforts have been made locally to facilitate face-to-face meetings of readers, but none have been as far-reaching and uniting as this last conference.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Nigeria-2019-6-300x137.jpg">
+<img src="/image/article/IUA_Tidings/Nigeria-2019-6-300x137.jpg">
 </figure>
 
 This conference gave Nigerian Urantia Book readers the opportunity to set up organizational structures and guidelines for the Nigerian groups, and also inspired a collaboration of African readers to set up similar structures and guidelines to ensure that the teachings of _The Urantia Book_ are spread in Africa in such a way that the original intents and purposes of the revelators of the fifth epochal revelation are fulfilled.
@@ -72,7 +96,7 @@ All in all, a lot of love flowed in Lagos. The ripple effect of this loving acti
 Please enjoy a few photos of our time together:
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/nigeria_2020.jpg">
+<img src="/image/article/IUA_Tidings/nigeria_2020.jpg">
 </figure>
 
 <br style="clear:both;"/>
@@ -82,3 +106,27 @@ Please enjoy a few photos of our time together:
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2020/
 - This article: https://urantia-association.org/presidents-message-march-2020
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez_de_Abreu/national_conference_mexico_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third National Conference in Mexico City</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/daughters_of_god_update">
+          <span class="pr-2">Daughters of God Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Moustapha K. Ndiaye<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="pr-2">Urantia Book Learning Centers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Senegal3.jpg">
+<img src="/image/article/IUA_Tidings/Senegal3.jpg">
 <figcaption><em>Senegal Group</em></figcaption>
 </figure>
 
@@ -20,7 +44,7 @@ dateCreated: 2023-9-16T10:55:6Z
 ### Introduction
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Moustapha-Ndiaye-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Moustapha-Ndiaye-150x150.jpg">
 </figure>
 
 This document is a compilation of the activities of the Progressive Divine Wisdom Group (PDWG) during 2022.
@@ -30,7 +54,7 @@ It is worth noting that the initiatives outlined in this progress report are a c
 The objective of these initiatives is to promote the Progressive Divine Wisdom method. This method, developed by Moussa Ndiaye, consists in facilitating the ownership of the truths of _The Urantia Book_ through a teaching method based on an understanding and living experience as part of education and sharing. It is based on the model of the life and teachings of the Creator Son of our Local Universe, during his incarnation in the flesh.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Moustapha1b-300x217.jpg">
+<img src="/image/article/IUA_Tidings/Moustapha1b-300x217.jpg">
 <figcaption><em>Moussa and the DPWG of Dakar in 1981</em></figcaption>
 </figure>
 
@@ -41,7 +65,7 @@ To this end, the founding members of this initiative have officially created the
 In the wake of this initiative, the Progressive Divine Wisdom Group initiated, with the goodwill of persons who support this approach, the creation of a website to inform and facilitate the training of students who wish to deepen their knowledge of this wisdom based on the truths of _The Urantia Book_ and, eventually, to share it with future educators.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Moustapha2-e1677693334472-706x395.jpg">
+<img src="/image/article/IUA_Tidings/Moustapha2-e1677693334472-706x395.jpg">
 <figcaption><em>GSDP Mamadou, Moustapha, Amsata, Khatabe and Assane</em></figcaption>
 </figure>
 
@@ -82,3 +106,27 @@ The following objectives, which were outlined in the 2022 activity report, have 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
 - This article: https://urantia-association.org/progressive-divine-wisdom
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="pr-2">Urantia Book Learning Centers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

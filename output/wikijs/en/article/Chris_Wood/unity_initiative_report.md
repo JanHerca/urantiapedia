@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_announcements">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Announcements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andres_Ramirez/bogota_book_fair">
+          <span class="pr-2">Bogotá Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Screen-Shot-2016-02-22-at-1.00.11-AM-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Screen-Shot-2016-02-22-at-1.00.11-AM-150x150.jpg">
 </figure>
 
 In October 2016, a small group of leaders from Urantia Association International and the Urantia Book Fellowship met in Chicago to discuss the potential unification of our two organizations. This meeting was approved by the Association’s International Service Board and Representative Council, and the Fellowship’s Executive Committee. It was not the first time our community has met to discuss ways to achieve better harmony and cooperation between the two groups, but at this meeting, those present produced a proposal outlining steps that could be taken toward organizational unity. This “Transition to Unity Proposal” was then presented to the leadership boards and councils of both the Association and the Fellowship to be embraced, rejected or amended.
@@ -37,3 +61,27 @@ President, Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
 - This article: https://urantia-association.org/unity-initiative-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_announcements">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Announcements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andres_Ramirez/bogota_book_fair">
+          <span class="pr-2">Bogotá Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_novels_by_rick_warren">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Derivative Works – Novels by Rick Warren</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/ISB-Zoom-Meeting.jpg">
+<img src="/image/article/IUA_Tidings/ISB-Zoom-Meeting.jpg">
 </figure>
 
 In December, members of the International Representative Council (IRC) met to conduct elections for several International Service Board (ISB) positions that are currently held by members whose terms are due to expire 1 April 2021 (Officer terms on the ISB are for four years and members may serve for a maximum of two terms).  
@@ -55,3 +76,24 @@ So, from 1 April 2021 the ISB will look like this:  
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
 - This article: https://urantia-association.org/isb-news
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_novels_by_rick_warren">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Derivative Works – Novels by Rick Warren</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

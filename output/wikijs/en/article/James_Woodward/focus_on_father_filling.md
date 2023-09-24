@@ -9,11 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 James Woodward<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Blackham/anxious_evolution_of_urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Anxious Evolution of Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> _Happiness and joy take origin in the inner life. You cannot experience real joy all by yourself._ [[UB 111:4.7](/en/The_Urantia_Book/111#p4_7)]
+
+> _Happiness and joy take origin in the inner life. You cannot experience real joy all by yourself._ <a id="a33_101"></a>[[UB 111:4.7](/en/The_Urantia_Book/111#p4_7)]
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/James-Woodward-2021-150x150.jpg">
+<img src="/image/article/IUA_Tidings/James-Woodward-2021-150x150.jpg">
 </figure>
 
 There are two parts to this teaching, like two folds in the same cloth. The inner life vibrates to frequencies of psyche and spirit. Our bundle of spiritual attitudes (faith, self-forgetfulness, gratitude, patience, tolerance, forgiveness, etc.) determines our outlook and mood, and if we harmonize our psychic and spirit frequencies we vibrate with love.
@@ -30,3 +51,24 @@ The real happiness and joy we experience is always a shared experience. When we 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2021/
 - This article: https://urantia-association.org/focus-on-father-filling
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Blackham/anxious_evolution_of_urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Anxious Evolution of Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

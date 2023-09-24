@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Annet/urantia_belgian_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Belgian Group Celebrates Jesus’ Birthday</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father2">
+          <span class="pr-2">Focus on the Father—Going to God’s Place</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UUI-1.jpg">
+<img src="/image/article/IUA_Tidings/UUI-1.jpg">
 </figure>
 
 Are you looking for an easy, supportive way to start learning about _The Urantia Book?_ 
@@ -33,7 +57,7 @@ UUI’s [Self-Directed Study](https://urantiauniversity.org/sys/website/?pageId=
 **These free and interactive online courses are available anytime, anywhere, on your desktop or smartphone**. Join us today!
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UUI-2.jpg">
+<img src="/image/article/IUA_Tidings/UUI-2.jpg">
 </figure>
 
 ![](https://urantia-association.org/wp-content/uploads/2020/12/UUI-2.jpg)
@@ -43,3 +67,27 @@ UUI’s [Self-Directed Study](https://urantiauniversity.org/sys/website/?pageId=
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
 - This article: https://urantia-association.org/uui-news
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Annet/urantia_belgian_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Belgian Group Celebrates Jesus’ Birthday</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father2">
+          <span class="pr-2">Focus on the Father—Going to God’s Place</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

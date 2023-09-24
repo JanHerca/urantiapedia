@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Gaetan Charland<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/isb_elections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ISB Elections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antonio_Schefer/update_2nd_european_urantia_conference">
+          <span class="pr-2">Update 2nd European Urantia Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gaetn-Charland-150x150.jpg">
 </figure>
 
 Dear Friends of the Revelation,
@@ -21,7 +45,7 @@ There are many things I would like to write and share with you that are importan
 Study groups of many kinds have, for many years, decades, centuries, or millennia, flourished in the world, and will continue to flourish even more as our liberty and our search for truth is challenged by politics, religious suppression and fanaticism, or the rise of a materialistic society. There indwells in our minds a divine spirit presence that will always show the way to those who look for it.
 <br style="clear:both;"/>
 
-> _…for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way.”_ [[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)]
+> _…for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way.”_ <a id="a47_139"></a>[[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)]
 
 It will never cease to amaze me how much the experience of a study group has enhanced my perception of divine values in others, how much it has made a difference in my daily life, and how much it has influenced my way of living and reacting to the sometimes perplexing and troubling situations of life on our world. It has even supported and maintained my sometimes-faltering efforts to live up to the level of my faith in times of crisis and adversity.
 
@@ -53,3 +77,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
 - This article: https://urantia-association.org/more-on-study-groups
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/isb_elections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ISB Elections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antonio_Schefer/update_2nd_european_urantia_conference">
+          <span class="pr-2">Update 2nd European Urantia Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

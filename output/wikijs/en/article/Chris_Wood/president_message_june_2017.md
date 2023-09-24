@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_2018_urantia_international_conference">
+          <span class="pr-2">2018 Urantia International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 I taught university courses for a few years and my favorite course to teach was _Introduction to Philosophy_. Introductory courses translate a subject’s ideas into common language, while in-depth courses teach you a new language to better develop these ideas. I liked the idea of taking what might literally be a lifetime of work and dedication and cutting it down to one hour’s worth of reading and one hour’s worth of lecture. You have to provide enough of a hook to each subject that it might grab the attention of a student, enough depth that it will show the worthiness of dedicating a career to its study, enough hints at future studies to give those students paths forward, but also enough of a structure and closure that the ninety-nine percent of students who listen and are not fascinated can still recall later in life, “Oh, yeah, Utilitarianism. It’s great for group decision making but I think it’s flawed as an individual moral system.”
@@ -41,3 +65,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
 - This article: https://urantia-association.org/president-message-june-2017
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_2018_urantia_international_conference">
+          <span class="pr-2">2018 Urantia International Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

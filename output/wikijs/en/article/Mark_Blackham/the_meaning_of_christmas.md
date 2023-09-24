@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Mark Blackham<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joanne_Strobel/hand_in_hand_with_urantia_book_internet_school_ubis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hand in Hand with Urantia Book Internet School (UBIS)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_video_part_4d">
+          <span class="pr-2">Video Part 4D: Ancient Orvonton, and a Young Cosmic Web</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/bethlehem-5836525_1920.jpg">
+<img src="/image/article/IUA_Tidings/bethlehem-5836525_1920.jpg">
 <figcaption><em>Image by Kerut</em></figcaption>
 </figure>
 
@@ -34,9 +58,9 @@ The reasons for Michael’s bestowal are many, and are best summarized in Paper 
 9. To make a new revelation of man to God. To reveal God in the flesh and especially to the creatures of the flesh.
 10. To exhibit as never before seen in Nebadon the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence.
 
-And after all this, we are reminded to, “Never lose sight of the fact that the **supreme spiritual purpose** of the Michael bestowal was to enhance the _revelation_ of God” [[UB 120:4.4](/en/The_Urantia_Book/120#p4_4) emphasis added].
+And after all this, we are reminded to, “Never lose sight of the fact that the **supreme spiritual purpose** of the Michael bestowal was to enhance the _revelation_ of God” <a id="a60_173"></a>[[UB 120:4.4](/en/The_Urantia_Book/120#p4_4) emphasis added].
 
-These are the many wonderful and extraordinary reasons to celebrate the bestowal of Michael on Urantia, not just at Christmas, but every day of our lives. Indeed, we are very fortunate to have been born on this “dark and confused planet.” For all eternity, Urantia will remain “the sentimental shrine of all Nebadon, the chief of ten million inhabited worlds, the mortal home of Christ Michael” [[UB 119:8.8](/en/The_Urantia_Book/119#p8_8)].
+These are the many wonderful and extraordinary reasons to celebrate the bestowal of Michael on Urantia, not just at Christmas, but every day of our lives. Indeed, we are very fortunate to have been born on this “dark and confused planet.” For all eternity, Urantia will remain “the sentimental shrine of all Nebadon, the chief of ten million inhabited worlds, the mortal home of Christ Michael” <a id="a62_395"></a>[[UB 119:8.8](/en/The_Urantia_Book/119#p8_8)].
 
 Christmas is a time to give thanks to Michael of Nebadon and to celebrate the marvel of a Creator Son being born on Urantia to deliver to all humanity, even to an entire universe, an enlightened portrayal of the true nature of a loving God.
 
@@ -45,3 +69,27 @@ Christmas is a time to give thanks to Michael of Nebadon and to celebrate the ma
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
 - This article: https://urantia-association.org/the-meaning-of-christmas
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joanne_Strobel/hand_in_hand_with_urantia_book_internet_school_ubis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hand in Hand with Urantia Book Internet School (UBIS)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_video_part_4d">
+          <span class="pr-2">Video Part 4D: Ancient Orvonton, and a Young Cosmic Web</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

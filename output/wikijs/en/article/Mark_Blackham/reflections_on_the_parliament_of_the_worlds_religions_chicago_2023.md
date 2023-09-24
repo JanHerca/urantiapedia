@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Mother</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Urantia-booth_ed-706x529.jpg">
+<img src="/image/article/IUA_Tidings/Urantia-booth_ed-706x529.jpg">
 </figure>
 
 The Parliament of the World’s Religions (PoWR) convened in Chicago (August 14-18, 2023) at McCormick Place, a massive conference center situated on the sandy shores of Lake Michigan. The general theme for this gathering was, “A Call to Conscience: Defending Freedom & Human Rights.” Over 7,000 people from 95 countries attended this event.  
@@ -24,17 +45,17 @@ The opening ceremony was a grand event that set the tone for the next five days.
 
 As the theme suggests, there was a particular emphasis on ethics, morality, and human rights, subjects also underscored in _The Urantia Book_, albeit in more depth. Students of the book know that ethics and morality are never the whole of religious experience (5 :5.4), but they also know that both are essential to the growth of this experience:
 
-> Morality is the essential pre-existent soil of personal God-consciousness, the personal realization of the Adjuster’s inner presence, but such morality is not the source of religious experience and the resultant spiritual insight. [UB 196:3.2](/en/The_Urantia_Book/196#p3_2)
+> Morality is the essential pre-existent soil of personal God-consciousness, the personal realization of the Adjuster’s inner presence, but such morality is not the source of religious experience and the resultant spiritual insight. <a id="a47_233"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2)
 
 Overall, there were more than 860 sessions with workshops, panels, performances, and religious observances on a myriad of subjects. On each of the five days, a plenary convened in the 4200-seat Crown Theater to raise participants’ awareness of the work done by faith leaders and inter-spiritual communities as they join together in the pursuit of truth, justice, freedom, human rights, and democracy for the entire world.
 
 One of the major sub-themes of this conference was social cooperation; a moral call to help each other in our daily struggles, to learn to understand each other, to sympathize, and to stand up as one voice against injustice, prejudice, ignorance, and bigotry. But just as important, this was a positive appeal to the better side of humanity, one furthered through the socialization of religion.
 
-> There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation. [UB 99:6.2](/en/The_Urantia_Book/99#p6_2)
+> There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation. <a id="a53_649"></a>[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)
 
 While there is no consensus over what constitutes a religion, one definition in the Merriam-Webster Dictionary is that it is a set or system of spiritual attitudes, beliefs, and practices.
 
-> Religion implies that the superworld of spirit nature is cognizant of, and responsive to, the fundamental needs of the human world. [UB 2:6.2](/en/The_Urantia_Book/2#p6_2)
+> Religion implies that the superworld of spirit nature is cognizant of, and responsive to, the fundamental needs of the human world. <a id="a57_134"></a>[UB 2:6.2](/en/The_Urantia_Book/2#p6_2)
 
 _The Urantia Book_ is not a religion in the sense that the book itself is an object of worship. Nonetheless, the greater portion of the book is _about_ religion. _The Urantia Book_ is overwhelmingly dedicated to a discussion of God, Deities, spirituality, and religion, including 34 direct references to the “religion of Jesus.” The importance of this religion is emphasized in the last two sections of the book, which are: “The Religion of Jesus” and “The Supremacy of Religion.” In light of this, we can safely say that one main objective of _The Urantia Book_ is to elaborate and promulgate a new personal religion—the newly revealed religion of Jesus.
 
@@ -43,7 +64,7 @@ Despite all the religions represented at the conference, the Urantia booth was q
 There were two books for sale: _The Urantia Book_ and _The Untold Story of Jesus_. And while sales were good for both books, many more people were content to walk away with a web link from printed handouts where they could either read or listen to _The Urantia Book_ on their laptops or phones.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Four-amigos-ed.jpg">
+<img src="/image/article/IUA_Tidings/Four-amigos-ed.jpg">
 </figure>
 
 People from all Urantia organizations as well as some who were unaffiliated participated as volunteers at the booth. Four people from Canada worked the Urantia booth every day on behalf of Urantia Association International: Nathen Jansen, Marc Belleau, Brian Sikorski, and myself. It was indeed fulfilling to see the tact, tolerance, and intelligence that all participants exercised on behalf of the teachings.
@@ -74,3 +95,24 @@ There were many praises sung to this event. This one came from Dr. Myriam Renau
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2023/
 - This article: https://urantia-association.org/reflections-on-the-parliament-of-the-worlds-religions-chicago-2023
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Mother</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

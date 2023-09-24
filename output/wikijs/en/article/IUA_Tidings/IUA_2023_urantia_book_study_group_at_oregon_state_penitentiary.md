@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Schefer/latin_american_continental_conference_mexico_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Continental Conference — Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_mother">
+          <span class="pr-2">Focus on the Mother</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/OSP-shield.jpg">
+<img src="/image/article/IUA_Tidings/OSP-shield.jpg">
 </figure>
 
 In 2002, the Urantia Foundation received a letter from Konrad G., an Oregon State Penitentiary (OSP) inmate requesting assistance from a Urantia Book reader to facilitate a study group within the prison.  Oregon Department of Corrections requires that a volunteer come in from outside the prison to facilitate classes such as a religious study group. The Foundation passed the request on to the Oregon Urantia Association president, Pat Murnin.  He and Joy Brandt, the initial volunteers, underwent accreditation, including security clearance and training, to serve as religious volunteers at OSP, and thus the Urantia Book Study Group was born in the Oregon State Penitentiary.
@@ -31,7 +55,7 @@ One of the most fulfilling aspects of this ministry is the people we’ve had th
 The monotony of prison life is real. Faced with long sentences, some men take to numbing themselves with illegal drugs, which are easy to obtain in prison. Aggressive guards, dangerous inmates, long lock-downs, small cells, hundreds of rules, as well as the prisoner’s own emotions of anger, fear, and guilt all add to the stress of their situation. Certain individuals have even expressed feelings that their crimes are too severe for God’s forgiveness. These are some of the aspects encountered in this prison ministry. But _The Urantia Book’s_ affirmation of God’s love and mercy serves as a powerful response to such difficulties. We most certainly also witness courage and faith by those who seek God while living behind prison walls. It is awesome to see.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/OSP-dedication-placque-1-300x196.jpg">
+<img src="/image/article/IUA_Tidings/OSP-dedication-placque-1-300x196.jpg">
 </figure>
 
 **Study Group Members Past and Present**
@@ -54,7 +78,7 @@ We pray that _The Urantia Book_ study group continues to foster personal spiritu
 
 The PIRT team would be glad to hear from you to answer any questions that you may have, be it for general advice in your country, conducting in person study, or other insights we might offer for this worthy service. You may contact PIRT by emailing Myra Hight at prt@urantia-association.org.
 
-> And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me. ([UB 176:3.5](/en/The_Urantia_Book/176#p3_5))
+> And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me. (<a id="a80_117"></a>[UB 176:3.5](/en/The_Urantia_Book/176#p3_5))
 
 
 ## References
@@ -62,3 +86,27 @@ The PIRT team would be glad to hear from you to answer any questions that you ma
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2023/
 - This article: https://urantia-association.org/urantia-book-study-group-at-oregon-state-penitentiary
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antonio_Schefer/latin_american_continental_conference_mexico_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin American Continental Conference — Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_mother">
+          <span class="pr-2">Focus on the Mother</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

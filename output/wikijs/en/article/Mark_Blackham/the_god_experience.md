@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Collins_Lomo/savor_friendship_a_tribute_to_delae_sowu">
+          <span class="pr-2">Savor Friendship: A Tribute to Delae Sowu (1962 – 2023)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Written by a Urantia Book Student
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/GodExperience-scaled.jpg">
+<img src="/image/article/IUA_Tidings/GodExperience-scaled.jpg">
 </figure>
 
 _The God Experience_ is founded on the concepts, values, and ideals portrayed in _The Urantia Book_. With those matchless teachings woven throughout its pages, it is a welcoming and approachable guide to embracing God and spirituality. And while it only mentions _The Urantia Book_ briefly in the first chapter, it does include many short quotations, an appetite-whetting feature that will lead the curious reader to the original source.
@@ -32,3 +56,27 @@ Available through [Amazon](https://www.amazon.com/God-Experience-Making-Contact/
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2023/
 - This article: https://urantia-association.org/the-god-experience
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Collins_Lomo/savor_friendship_a_tribute_to_delae_sowu">
+          <span class="pr-2">Savor Friendship: A Tribute to Delae Sowu (1962 – 2023)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Chris Wood<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2018_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — September 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/farewell_sue_tennant">
+          <span class="pr-2">Farewell to Sue Tennant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
 </figure>
 
 One of the many reasons I love _The Urantia Book_ and I am continuously re-reading it is because it utilizes words which I think I understand, but then in some random paragraph in some random paper, it will define a common word in an uncommon way and suddenly I need to go back and re-read everything with this new definition in mind.
@@ -20,18 +44,18 @@ One recent example of this is “personality,” which in a book that has person
 
 <br style="clear:both;"/>
 
-> _…it would be presumptuous to attempt the definition of personality…_ [[UB 112:0.2](/en/The_Urantia_Book/112#p0_2)]
+> _…it would be presumptuous to attempt the definition of personality…_ <a id="a46_72"></a>[[UB 112:0.2](/en/The_Urantia_Book/112#p0_2)]
 
 but then randomly in the Sojourn at Rome, a midwayer decides that it’s apparently not presumptuous, it’s just, umm… sumptuous? …  for us to be told that:
 
 
-> _The presence of goodness and evil in the world is in itself positive proof of the existence and reality of man’s moral will, the personality…_ [[UB 132:2.8](/en/The_Urantia_Book/132#p2_8)]
+> _The presence of goodness and evil in the world is in itself positive proof of the existence and reality of man’s moral will, the personality…_ <a id="a51_146"></a>[[UB 132:2.8](/en/The_Urantia_Book/132#p2_8)]
 
 And there we go. Now I get to go back and re-read the entire Urantia Book from the beginning with a new definition in mind. Personality is a person’s moral will, not their distinctive character. So now when I read Paper 1 how humans can obtain “perfection of personality motivation,” I can explore it as “perfection of our moral will motivations.”
 
 A Melchizedek tells us,
 
-> _And of all forms of evil, none are more destructive of personality status than betrayal of trust and disloyalty to one’s confiding friends._ [[UB 67:1.3](/en/The_Urantia_Book/67#p1_3)]
+> _And of all forms of evil, none are more destructive of personality status than betrayal of trust and disloyalty to one’s confiding friends._ <a id="a57_144"></a>[[UB 67:1.3](/en/The_Urantia_Book/67#p1_3)]
 
 Betrayal of trust and disloyalty to friends destroys our moral will.
 
@@ -46,3 +70,27 @@ I hope to meet as many students as possible in November at the upcoming conferen
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
 - This article: https://urantia-association.org/presidents-message-september-2
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2018_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — September 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/farewell_sue_tennant">
+          <span class="pr-2">Farewell to Sue Tennant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

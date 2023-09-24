@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_april_2015_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="pr-2">Journal – March 2015 Issue Now Available</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/UAI-2015-logo_13a-300x309.jpeg">
+<img src="/image/article/IUA_Tidings/UAI-2015-logo_13a-300x309.jpeg">
 </figure>
 
 ## 30 July to 2 August
@@ -52,3 +76,27 @@ Do not forget to register as soon as you can at:
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/2015-international-conference-quebec
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_april_2015_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-april-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — April 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="pr-2">Journal – March 2015 Issue Now Available</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

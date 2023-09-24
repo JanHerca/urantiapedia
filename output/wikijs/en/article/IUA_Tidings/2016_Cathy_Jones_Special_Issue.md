@@ -9,15 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-cathy-jones-special-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Cathy Jones Special Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Tidings-Header-EN-600x180-1.jpg">
+<img src="/image/article/IUA_Tidings/Tidings-Header-EN-600x180-1.jpg">
 </figure>
 
 # Farewell to Cathy Jones
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Cathy-Jones-1998-591x706.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-Jones-1998-591x706.jpg">
 </figure>
 
 
@@ -28,7 +46,7 @@ Cathy Jones graduated from this world on September 17, 2016 at the age of 91. Ca
 The memorial ceremony was held October 10. On behalf of Urantia Association and in honor of Cathy’s dedication to the revelation, Rick Lyon presented Cathy’s granddaughter and grandson with the Amadon Award.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Award-Casey-and-Oliver-e1476656780826-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Award-Casey-and-Oliver-e1476656780826-300x225.jpg">
 </figure>
 
 In the words of Cathy’s granddaughter Casey:
@@ -37,7 +55,7 @@ My grandmother and I shared a very special relationship. More than anything she 
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Cathy-Obit-706x383.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-Obit-706x383.jpg">
 </figure>
 
 The following testimonies show what an inspiration Cathy was to so many students of _The Urantia Book;_ starting with Patricia Snyder who was a close personal friend – one who championed her during the trying times of her illness in her final months and helped to raise the funds needed to bring Cathy home from China so she could pass peacefully with her family by her side.
@@ -65,10 +83,10 @@ President of Urantia Association International
 Cathy Jones put you to work. In the Ordination of the Twelve we are told
 
 
-> The carpenter’s son never taught character _building;_ he taught character _growth…”_ [[UB 140:8.27](/en/The_Urantia_Book/140#p8_27)]
+> The carpenter’s son never taught character _building;_ he taught character _growth…”_ <a id="a85_88"></a>[[UB 140:8.27](/en/The_Urantia_Book/140#p8_27)]
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-Jones-Xmas-e1476417580707-300x400.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-Jones-Xmas-e1476417580707-300x400.jpg">
 </figure>
 
 Cathy urged you to grow, she put you in the position where you could choose positive action, and she defended you in your mistakes as grand moments for learning and personal evolution.
@@ -82,7 +100,7 @@ Study _The Urantia Book_, Love One Another, Get to Work. I am one of many people
 Indiana, USA
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-and-Rick-300x331.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-and-Rick-300x331.jpg">
 </figure>
 
 Cathy was one of the driving forces in the creation of Urantia Association International. She spent many hours on the phone and many days traveling to help students of _The Urantia Book_ set up most of our local associations. We have several file cabinets of correspondence that she wrote in her efforts to create and lead the Association. She spent many days away from home living in Chicago at 533 working tirelessly for this revelation and this organization. She was a great teacher and leader of this revelation and her love for people encompassed everyone she met. She not only believed these teachings but she lived them. She had great faith in and hope for our Association and for all of us.
@@ -104,7 +122,7 @@ Hawaii, USA
 I had the privilege of calling Cathy a friend, mentor and sister. This morning I felt that her angels raised up their wings to transport her beautiful soul to Mansion World number one. Cathy worked tirelessly with her Rolodex in her office at the Foundation to build the new readership organization. She single handily called us and gathered the scattered flock together to form Urantia Association International. She then started to travel the USA and the world, licensing many different associations and fostering leaders and teachers to carry on the mission. What a service minded trooper she was and so beloved by so many of us.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-Marian-Tonia-Pat-300x198.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-Marian-Tonia-Pat-300x198.jpg">
 </figure>
 
 So let us all rejoice in the fact that she will soon have her new beautiful morontia form and we will someday be reunited with our dear sister. Let us rejoice that thanks to her friends and family she will have her earthly grave stone close to her home that was so important to her. Let us all keep on with what she so gallantly started and continue to make Urantia Association International the wonderful worldwide organization it has developed into.
@@ -122,7 +140,7 @@ I first met Cathy at the chartering ceremony for Spirit of Oklahoma in 1997. Ove
 Brazil
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-2007-Seattle-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-2007-Seattle-300x200.jpg">
 </figure>
 
 Cathy left to us a legacy of successful achievements that certainly help to foster the spiritual progress of humanity. To mention just two: the Urantia Association International, and the Urantia Associations that she founded in several countries of the world. She was endowed with a brilliant personality, a steady character, a determined mind, and a pleasant friendly smile. Charismatic, yes, with a hard and beautiful task to fulfil. And she dit it. How elated we Brazilian students of _The Urantia Book_ were in June 2003, when she handed us the Licensing Agreement between the Urantia Foundation and the Urantia Association of Brazil together with the President book and the flag with three azure blue concentric circles on a white background… The Brazilian Association took its roots and flourished. Cathy was one of those magnificent women who carry the torch of the spiritual progress of humanity – a faithful server, a planetary heroine. God bless your soul and thanks for your accomplished mission and thanks also for the memories.
@@ -136,14 +154,14 @@ I would like to pay my respects and tributes to Catherine Jones who has now depa
 With Catherine in mind, let us all try to remember that:
 
 
-> _The weak indulge in resolutions, but the strong act. Life is but a day’s work — do it well. The act is ours; the consequences God’s._ \[Paper, [UB 48:7.13](/en/The_Urantia_Book/48#p7_13)]
+> _The weak indulge in resolutions, but the strong act. Life is but a day’s work — do it well. The act is ours; the consequences God’s._ \<a id="a156_138"></a>[Paper, [UB 48:7.13](/en/The_Urantia_Book/48#p7_13)]
 
 
 ### Carl Ramm
 Alaska, USA
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-Sue-Alaska-300x196.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-Sue-Alaska-300x196.jpg">
 </figure>
 
 While I’d met Cathy briefly at conferences and had exchanged a few emails and phone calls with her, I really didn’t get to know her until she stayed a while with me and my wife Susan. At the time Cathy was in Alaska as part of an effort to help get a state chapter started. Susan and I were living in a tiny, funky old cabin near the end of a back street in a rather questionable part of Anchorage. Cathy never gave the slightest hint of being bothered by any of this. At a time in her life when many people would never consider such a thing, Cathy couch-surfed with near-strangers as casually and simply as if she was twenty three. …She was the soul of graciousness – a delight to be around.
@@ -169,7 +187,7 @@ On behalf of UAC, we have so many wonderful thoughts of Cathy Jones:
 It was back in the 1990s that we became associated with Cathy when she was extensively traveling the world establishing Urantia Associations. In the latter part of that decade, the first Canadian local Urantia Association was formed, Urantia Association of Quebec, followed shortly thereafter with Urantia Association of The Cascades, British Columbia/Alberta. This event took place on the west coast of Canada at a retreat on Bowen Island where many of the Vancouver and area study group members were gathered for the signing of the Urantia Association of The Cascades. They enjoyed meeting and getting to know Cathy’s caring and likeable personality as she was easy to communicate with and we enjoyed being in her presence.
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-in-Alaska-300x202.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-in-Alaska-300x202.jpg">
 </figure>
 
 In 1999 Cathy was also seriously committed to establishing the National Urantia Association of Canada, subsequently inaugurated at the Silver Springs Retreat Centre in Ontario, in attendance with the local Northern Light Urantia Association of Ontario. At this memorable gathering and along with her untiring passion for the Association, we all had a lovely time furthering our friendship with Cathy at Silver Springs.
@@ -193,7 +211,7 @@ I first met Cathy Jones in the early nineties when she’d visit the Ploetz home
 Cathy was charismatic and it has varied roots, including her Texas heritage; she was independent and loyal to her values. She was also gifted with formidable courage and loads of faith. Later, as a colleague, I would discover that her work ethic was established and strong. Most people do not know that she was also a yogi. For many years she practiced Kundalini yoga, an apex practice of spiritual meditation and breathing. These disciplines and loyalties produced in Cathy what we acknowledge as true leadership. Plus, it was always tethered to graciousness—that ready smile, a hearty laugh, and the warmth of a love-saturated soul.
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Cathy-Dorothy-Chicago-2005-300x200.jpg">
+<img src="/image/article/IUA_Tidings/Cathy-Dorothy-Chicago-2005-300x200.jpg">
 </figure>
 
 Cathy and I began working closely at Urantia Foundation in the year 2000. She would spend months living at 533 in Chicago, leading and organizing from her small office. We worked together on many projects, some local and some stretching all over the world. As one of the few who knew her actual age, it always amazed me when she energetically planned another working trip to South America or Russia, or anywhere else where readers were organizing for service. She was always on fire with the truth of _The Urantia Book_, with the selfless motive to share its story of how much we are loved by God and guided by all the spirit ministries in our friendly universe.
@@ -206,10 +224,28 @@ The best leaders always mentor those who are ready and willing to serve. Cathy w
 ### Farewell Cathy Jones! Until we meet again…
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Amadon-Award-706x530.jpg">
+<img src="/image/article/IUA_Tidings/Amadon-Award-706x530.jpg">
 </figure>
 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/farewell-to-cathy-jones/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-cathy-jones-special-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Cathy Jones Special Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

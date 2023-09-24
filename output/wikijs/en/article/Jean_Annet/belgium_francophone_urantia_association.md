@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Jean Annet<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alice_Wood/glmua_new_membership_invitation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">GLMUA – New Membership Invitation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Riitta_Tuori/sweden_urantia_association">
+          <span class="pr-2">Sweden Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/ABFU-e1648009657284.jpg">
+<img src="/image/article/IUA_Tidings/ABFU-e1648009657284.jpg">
 <figcaption><em>ABFU</em></figcaption>
 </figure>
 
@@ -30,3 +54,27 @@ We shall continue to do whatever we can to foster the study of _The Urantia Book
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
 - This article: https://urantia-association.org/belgium-francophone-urantia-association
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alice_Wood/glmua_new_membership_invitation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">GLMUA – New Membership Invitation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Riitta_Tuori/sweden_urantia_association">
+          <span class="pr-2">Sweden Urantia Association</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

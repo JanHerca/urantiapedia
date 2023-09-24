@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_transition_to_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transition to Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/urantia_dach_meeting_frankfurt">
+          <span class="pr-2">Urantia DACH Annual Meeting in Frankfurt</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ### The Pay-it Forward Conference Model
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
 Last summer, Lone Star Urantia Association was tasked with hosting the first united conference between Urantia Association of the United States and The Urantia Book Fellowship. This was a challenge of unknown proportions simply because we had never attempted it before! But they were ready and produced a wonderful event that will propel our community forward for years to come.
@@ -43,3 +67,27 @@ Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2017/
 - This article: https://urantia-association.org/presidents-message-march-2017
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2017_transition_to_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transition to Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Miroshnichenko/urantia_dach_meeting_frankfurt">
+          <span class="pr-2">Urantia DACH Annual Meeting in Frankfurt</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

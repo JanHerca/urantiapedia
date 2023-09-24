@@ -9,11 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Neville Twist<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/meeting_of_urantia_book_readers_in_spain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of Urantia Book Readers in Spain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## … and helping to establish the Auckland Study Group
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Neville-Twist-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Neville-Twist-150x150.jpg">
 </figure>
 
 I first encountered _The Urantia Book_ some time in 1985. It was through a work colleague who would bring this very large blue book to work and read it at lunchtimes. When I asked him what this big blue book was about, a hesitate answer would say something to the effect “It’s nothing and very hard to understand,” a reply repeated several times, before I picked the book up one day and perused the contents for myself. On seeing the Jesus papers, I knew instantly I had to read this book. Shortly afterwards I secured a copy and started reading and reading and reading!
@@ -50,3 +71,24 @@ Vice President of ANZURA
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
 - This article: https://urantia-association.org/my-experience-with-the-urantia-book
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/meeting_of_urantia_book_readers_in_spain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of Urantia Book Readers in Spain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

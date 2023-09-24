@@ -9,12 +9,36 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Debbie Bartman<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_anzura_conference_canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Conference – Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myra_Hight/happy_birthday_pirt">
+          <span class="pr-2">Happy Birthday PIRT! </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 26 to 30 August, 2019
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Miracle-Beach2-300x151.jpg">
+<img src="/image/article/IUA_Tidings/Miracle-Beach2-300x151.jpg">
 </figure>
 
 
@@ -25,7 +49,7 @@ This year, we will be meeting at [Miracle Beach Provincial Campground](http://ww
 We have reserved a group campground situated on about two acres of flat land surrounded by thick forest on all sides. You can bring a tent or a small to medium sized camper vehicle. Toilets (outhouses), fresh water, and picnic tables are on-site, but there’s no electricity so you’ll have to rough it a bit. Fortunately, free hot showers and flush toilets are a short walk away. There’s a long beach of pebble and sand so don’t forget to bring your swimsuit and beach shoes. It’s also a popular spot for kayaking or canoeing, and there are about 2 km of walking trails.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/MiracleBeach04-300x225.jpg">
+<img src="/image/article/IUA_Tidings/MiracleBeach04-300x225.jpg">
 </figure>
 
 It’s best to be well prepared because the nearest store is 5 km (3 miles) away and the nearest town is over 20 km. The campground has bags of ice available but not much else. Campfires are usually not allowed during the summer months, but propane-burning fire rings were acceptable in the past (always check with the park supervisor).
@@ -46,3 +70,27 @@ Debbie Bartman
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
 - This article: https://urantia-association.org/vancouver-island-campout
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2019_anzura_conference_canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA Conference – Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myra_Hight/happy_birthday_pirt">
+          <span class="pr-2">Happy Birthday PIRT! </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

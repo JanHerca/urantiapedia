@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rick_Lyon/comments_isb_elections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comments on the ISB Elections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anna_Zeven/pre_conference_2nd_european_tallinn">
+          <span class="pr-2">Pre-Conference – 2nd European Conference in Tallinn</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Sowing-Seeds-white-background-300x355.jpg">
+<img src="/image/article/IUA_Tidings/Sowing-Seeds-white-background-300x355.jpg">
 </figure>
 
 A reminder that the time for the 2nd European Urantia Conference that’s being held in Tallinn, Estonia, **11 – 14 July 2019** is almost upon us.
@@ -28,7 +52,7 @@ The conference website can be found at: [www.urantia.ee/conference2019](http://w
 <br style="clear:both;"/>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/TVL-panoraam-Visit-Estonia-706x214.jpg">
+<img src="/image/article/IUA_Tidings/TVL-panoraam-Visit-Estonia-706x214.jpg">
 </figure>
 
 Contact:  
@@ -42,3 +66,27 @@ Phone: +372 5 200 300
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
 - This article: https://urantia-association.org/2nd-european-conference-tallinn-last-reminder
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rick_Lyon/comments_isb_elections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comments on the ISB Elections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anna_Zeven/pre_conference_2nd_european_tallinn">
+          <span class="pr-2">Pre-Conference – 2nd European Conference in Tallinn</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

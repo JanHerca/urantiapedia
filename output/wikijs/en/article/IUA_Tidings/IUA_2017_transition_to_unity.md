@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2017">
+          <span class="pr-2">President’s Message – March 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following is an account of the Transition to Unity meeting held in October last year by a joint committee of representatives of Urantia Association International and the Urantia Book Fellowship. Included is an initial report written by one of the participants, followed by the proposal both parties agreed upon and presented to their prospective organizations. Following that is an announcement written by Chris Wood informing us of the decision made by the Fellowship’s General Council after its members were presented with the proposal. The date stamps indicate the chronological order of the various announcements._
 
 ## General Report, November, 2016
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Unity-Meeting-Committee-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Unity-Meeting-Committee-300x225.jpg">
 </figure>
 
 On October 3-5, 2016, representatives from the Fellowship and the Association met in Chicago, USA to discuss the possibility of unity between our organizations. This meeting was approved by the Association’s International Service Board and Representative Council, and the Fellowship’s Executive Council. Chris Wood, Merindi B, Rick Lyon, Share Beasley and Susan Owen represented the Association.  Michael Challis, Paula Thompson, Steve Dreier, Janet Graham, and Geoffrey Theiss represented the Fellowship. Janet had to leave early so John Hales replaced her on the second day.
@@ -97,3 +121,27 @@ President, Urantia Association International
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2017/
 - This article: https://urantia-association.org/transition-to-unity
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2017_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — March 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Wood/presidents_message_march_2017">
+          <span class="pr-2">President’s Message – March 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

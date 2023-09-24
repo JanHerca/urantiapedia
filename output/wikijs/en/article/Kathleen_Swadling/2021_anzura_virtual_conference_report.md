@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Kathleen Swadling<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_journal_publication_latest_news">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Journal Publication—Latest News</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joanne_Strobel/hand_in_hand_with_urantia_book_internet_school_ubis">
+          <span class="pr-2">Hand in Hand with Urantia Book Internet School (UBIS)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/ANZURA-1.jpg">
+<img src="/image/article/IUA_Tidings/ANZURA-1.jpg">
 </figure>
 
 This year’s 2021 ANZURA conference, hosted by our Sydney team was held as a virtual Zoom conference on 2<sup>nd</sup> October. Once again, for all the “new normal” reasons we had to cancel our in-person event. We had high hopes all year that we could meet face-to-face as we saw our case numbers rapidly diminish to almost zero and then… as we all know, Delta hit and cases soared, so it was back to square one. Nevertheless, since we are told that disappointment is actually good for us, we joyfully knuckled down to figure out how we could adjust our plans accordingly.
@@ -37,7 +61,7 @@ The conference was recorded, and the presentations will eventually be uploaded t
 Thank you to all the silent worker-bees who made this event happen. We hope we will see everyone in October of 2022 in Tasmania for what we hope will be an in-person conference.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/ANZURA-2-706x329.jpg">
+<img src="/image/article/IUA_Tidings/ANZURA-2-706x329.jpg">
 </figure>
 
 ## References
@@ -45,3 +69,27 @@ Thank you to all the silent worker-bees who made this event happen. We hope we w
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
 - This article: https://urantia-association.org/2021-anzura-virtual-conference-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2021_journal_publication_latest_news">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Journal Publication—Latest News</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joanne_Strobel/hand_in_hand_with_urantia_book_internet_school_ubis">
+          <span class="pr-2">Hand in Hand with Urantia Book Internet School (UBIS)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

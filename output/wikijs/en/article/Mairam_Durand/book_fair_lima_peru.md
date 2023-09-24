@@ -8,9 +8,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Mairam Durand<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jose_Ernesto_Arias/bolivia_book_fair_santa_cruz">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bolivia Book Fair, Santa Cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andres_Ramirez/ecuador_conference">
+          <span class="pr-2">Ecuador Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Peru-Book-Fair-2017-1-300x168.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Book-Fair-2017-1-300x168.jpg">
 </figure>
 
 Attending a book fair is always interesting. Books—many books of every kind including comics, recipes, sports, stories, novels, history, science, as well as those about the customs of each invited country including our own country of Perú can be found.   
@@ -20,7 +44,7 @@ This year in 2017, the International Book Fair (FIL) exceeded the attendance of 
 I must say that participating in this type of book fair was extraordinary, not only because of the comradery we volunteers shared as brothers and sisters, but also because of the things that happened. There is one particular aspect that I must tell and that is how good it was for us Peruvian Urantia Book readers to be working at the booth for several days alongside our friends from Urantia-Bogotá.  
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Explanation-of-the-Universe-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Explanation-of-the-Universe-300x225.jpg">
 </figure>
 
 The main objective of the book fair was not to sell books—even though each one of them was sold—but to disseminate the teachings of _T__he Urantia Book_. It is only by experience that we truly comprehend that there are people searching for answers—seekers of truth, and who better than children and youngsters—with their thirst of knowledge, observing it all—to generate questioning?  
@@ -31,7 +55,7 @@ To conclude, I consider that my experience, as part of the team in charge of the
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Peru-Book-Fair-2017-3.jpg">
+<img src="/image/article/IUA_Tidings/Peru-Book-Fair-2017-3.jpg">
 </figure>
 
 I extend my sincere gratitude to all those with whom we shared these days, and thanks to the Father for allowing us to have this unforgettable experience.
@@ -42,3 +66,27 @@ I extend my sincere gratitude to all those with whom we shared these days, and t
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2017/
 - This article: https://urantia-association.org/book-fair-lima-peru
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jose_Ernesto_Arias/bolivia_book_fair_santa_cruz">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bolivia Book Fair, Santa Cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andres_Ramirez/ecuador_conference">
+          <span class="pr-2">Ecuador Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

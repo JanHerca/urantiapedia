@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Uganda Conference 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/POWR-2023-Image-2.jpg">
+<img src="/image/article/IUA_Tidings/POWR-2023-Image-2.jpg">
 </figure>
 
 ## Faith & Interfaith Understanding
@@ -33,3 +54,24 @@ For more information on the 2023 Parliament of World Religions and to book your 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
 - This article: https://urantia-association.org/parliament-of-the-worlds-religions
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Uganda Conference 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

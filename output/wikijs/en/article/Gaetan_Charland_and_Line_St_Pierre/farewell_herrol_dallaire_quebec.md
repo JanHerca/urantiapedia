@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Gaetan Charland and Line St-Pierre<br>© 2016 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_group_committee_in_the_making">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Group Committee in the Making</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_urantia_university_institute">
+          <span class="pr-2">Urantia University Institute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The passing of a dedicated servant…
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Herrol-Dallaire2-300x364.jpg">
+<img src="/image/article/IUA_Tidings/Herrol-Dallaire2-300x364.jpg">
 </figure>
 
 A few years ago, as part of an outreach initiative to meet Urantia Book readers in the far regions of the province of Quebec where I live, a group of board members of our local association, while visiting one of those regions, met this reader, Herrol Dallaire whom on our first meeting offered his help as a translator.
@@ -36,3 +60,27 @@ Gaetan Charland and Line St-Pierre
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
 - This article: https://urantia-association.org/farewell-herrol-dallaire-quebec
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_group_committee_in_the_making">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Group Committee in the Making</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2016 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2016_urantia_university_institute">
+          <span class="pr-2">Urantia University Institute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Pato Banton & Antoinette Rootsdawtah<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/spanish_urantia_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Urantia Book Readers Meet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_and_us_survey_results">
+          <span class="pr-2">Study Groups and Us—Survey Results</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Pato-Antoinette.jpg">
+<img src="/image/article/IUA_Tidings/Pato-Antoinette.jpg">
 </figure>
 
 We were already excited about the prospect of working in partnership with Urantia Association International during our 2017 Urantia Conference in Accra Ghana, when Antonio Schefer alerted us to Antonio Roque’s desire for us to host a Study Group “meetup” in London in the UK during our visit to Birmingham (UK) en route to Africa. Even more thrilling was the knowledge that some of our Urantia family in Europe had expressed their desire to fly over and join us too!
@@ -24,7 +48,7 @@ Initially, the London gathering was intended to be a full day of studying _The U
 And celebrate we did! The atmosphere during the whole conference was fun, beautiful, inspiring, light-hearted but also deeply touching as we learned about each other’s personal experiences that brought us to this point on our spiritual paths. We studied together, prayed together, sang, danced and laughed about the trials of life and the roles we need to play in making the world a better place.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-UK-1-706x228.jpg">
+<img src="/image/article/IUA_Tidings/Pato-UK-1-706x228.jpg">
 </figure>
 
 The highlights of the day for us were:
@@ -36,7 +60,7 @@ The highlights of the day for us were:
 3. When Lenson, our Indian waiter accepted our invitation to share his religious philosophy with everyone in the room. He said, “I was raised as a Christian, but I believe that God loves everybody!” He then held hands with us and joined in for our closing prayer circle with a prayer that touched our hearts and souls. He was excited to receive a Urantia Book and promised to stay in touch with us.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-UK-2-706x348.jpg">
+<img src="/image/article/IUA_Tidings/Pato-UK-2-706x348.jpg">
 </figure>
 
 ## Part 2—Hotel Blu, Birmingham, UK
@@ -50,7 +74,7 @@ We then told everyone that we were about to study a paper in _The Urantia Book_,
 The chosen paper was _The Second Discourse on True Religion_, which turned out to be a great choice, as everyone in the room (Muslims, Christians and Agnostics alike) could relate to Jesus’ teachings on this thought provoking subject of spiritual freedom. This was also an ideal opportunity for the skeptics to have their questions about _The Urantia Book_ answered in an open and loving environment.
 ç
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-Birmingham-1-706x275.jpg">
+<img src="/image/article/IUA_Tidings/Pato-Birmingham-1-706x275.jpg">
 </figure>
 
 The closing prayer circle (with everyone holding hands) was a true testament to how much we all have in common when we open our hearts and minds in the spirit of _Spiritual Unity_!
@@ -62,7 +86,7 @@ There were many great moments throughout this event but some of the main highlig
 2. Tanisha Mendes (Pato’s niece) who was leaning towards becoming a Muslim, excitedly sharing many expressions and reflections during the evening and embracing many of the concepts of _The Urantia Book_, stating, “This makes so much sense to me and the way I think!” Before departing she took some of the books to share with her open-minded friends who she felt would be interested in learning about these _“new truths.”_
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-Birmingham-2.jpg">
+<img src="/image/article/IUA_Tidings/Pato-Birmingham-2.jpg">
 </figure>
 
 _To illustrate these inspiring events in the UK, two attendees: Akex H from Germany and Anna Zeven from the Netherlands wrote reports of their enlightening experiences. See:_ [https://urantia-association.org/2017/attendee-reports-urantia-gatherings-uk](https://urantia-association.org/2017/attendee-reports-urantia-gatherings-uk) 
@@ -78,7 +102,7 @@ We could write a book about the amazing presentations, musical performances, tes
 But even with all this diversity of intellectual viewpoint, the gathering was very harmonious and savored the beautiful flavor of spiritual unity.
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-Ghana-1-706x242.jpg">
+<img src="/image/article/IUA_Tidings/Pato-Ghana-1-706x242.jpg">
 </figure>
 
 On the third day we gathered for an in-depth study of _The Urantia Book_ on the subject of “Spiritual Unity.” The attendance was almost overwhelming but the discussions and reflections were outstanding and fun!
@@ -96,7 +120,7 @@ Highlights during our trip to Ghana were:
 3. A revealing and heart-wrenching tour of the town and schools of Nima, the poorest community in Accra, Ghana. We are dedicated to providing ongoing support, in some small way, to help improve the conditions for some of the children there.
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-Ghana-2-706x291.jpg">
+<img src="/image/article/IUA_Tidings/Pato-Ghana-2-706x291.jpg">
 </figure>
 
 ## Final Reflections:
@@ -104,7 +128,7 @@ Highlights during our trip to Ghana were:
 Through teamwork great things are achieved!
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Pato-Ghana-3.jpg">
+<img src="/image/article/IUA_Tidings/Pato-Ghana-3.jpg">
 </figure>
 
 ## References
@@ -112,3 +136,27 @@ Through teamwork great things are achieved!
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
 - This article: https://urantia-association.org/pato-banton-london-birmingham-ghana
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/spanish_urantia_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Urantia Book Readers Meet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_and_us_survey_results">
+          <span class="pr-2">Study Groups and Us—Survey Results</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

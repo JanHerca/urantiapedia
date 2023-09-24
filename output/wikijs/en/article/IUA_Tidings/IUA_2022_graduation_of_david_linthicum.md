@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2022 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/ode_to_a_friend">
+          <span class="pr-2">Fearless Leader of PIRT — Ode to a Friend</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/David-Presenting-hands-e1656051729833.jpg">
+<img src="/image/article/IUA_Tidings/David-Presenting-hands-e1656051729833.jpg">
 <figcaption><em>David Linthicum</em></figcaption>
 </figure>
 
@@ -28,7 +52,7 @@ In more recent months David became the first Vice President of _Worldwide Minis
 In a recent conversation David expressed an interest about what his first assignment would be upon his resurrection to a new spiritual life on high. That’s our David; always eager to serve. We certainly look forward to a joyful reunion with him in eternity.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Violin-Player-Outside-Prison-300x363.jpg">
+<img src="/image/article/IUA_Tidings/Violin-Player-Outside-Prison-300x363.jpg">
 </figure>
 
 **David Linthicum**—**Director** for the Prisoner Inquiry Response Team (PIRT–a Urantia Association International Dissemination Subcommittee)
@@ -42,11 +66,11 @@ Here are some of David’s words from a 2014 Tidings article about PIRT:
 
 _“Over the years some have asked me why so much time and energy is being devoted to prisoners. Are we not casting pearls before swine? In response to these types of questions I refer the reader to Jesus’ own admonition to his Apostles:_
 
-> _“And mark well my words: I have not come to call the righteous, but sinners. The Son of Man came not to be ministered to, but to minister and to bestow his life as the gift for all. I declare to you that I have come to seek and to save those who are lost.”_ [cf. [Matt. 9:13b](/en/Bible/Matthew/9#v13); [Mark 2:17](/en/Bible(Mark/2#v17)); [Luke 5:32](/en/Bible/Luke/5#v32), [19:10](/en/Bible/Luke/19#v10); [UB 157:6.9](/en/The_Urantia_Book/157#p6_9)]
+> _“And mark well my words: I have not come to call the righteous, but sinners. The Son of Man came not to be ministered to, but to minister and to bestow his life as the gift for all. I declare to you that I have come to seek and to save those who are lost.”_ [cf. [Matt. 9:13b](/en/Bible/Matthew/9#v13); [Mark 2:17](/en/Bible(Mark/2#v17)); [Luke 5:32](/en/Bible/Luke/5#v32), [19:10](/en/Bible/Luke/19#v10); <a id="a68_409"></a>[UB 157:6.9](/en/The_Urantia_Book/157#p6_9)]
 
 _This is the service PIRT endeavors to foster and carry forward, to minister to those who sit in darkness and to offer them the saving truths of the Fifth Epochal Revelation. Jesus was adamant that he was here to seek out the sinners, the lost coin, to welcome the prodigal son’s return and save the lost sheep._
 
-> _“Jesus was very partial to telling these three stories at the same time. He presented the story of the lost sheep to show that, when men unintentionally stray away from the path of life, the Father is mindful of such lost ones and goes out, with his Sons, the true shepherds of the flock, to seek the lost sheep. He then would recite the story of the coin lost in the house to illustrate how thorough is the divine searching for all who are confused, confounded, or otherwise spiritually blinded by the material cares and accumulations of life. And then he would launch forth into the telling of this parable of the lost son, the reception of the returning prodigal, to show how complete is the restoration of the lost son into his Father’s house and heart.”_ [[UB 169:1.15](/en/The_Urantia_Book/169#p1_15) 169:1.15]
+> _“Jesus was very partial to telling these three stories at the same time. He presented the story of the lost sheep to show that, when men unintentionally stray away from the path of life, the Father is mindful of such lost ones and goes out, with his Sons, the true shepherds of the flock, to seek the lost sheep. He then would recite the story of the coin lost in the house to illustrate how thorough is the divine searching for all who are confused, confounded, or otherwise spiritually blinded by the material cares and accumulations of life. And then he would launch forth into the telling of this parable of the lost son, the reception of the returning prodigal, to show how complete is the restoration of the lost son into his Father’s house and heart.”_ <a id="a72_763"></a>[[UB 169:1.15](/en/The_Urantia_Book/169#p1_15) 169:1.15]
 
 **Comments from fellow Urantia Book students:**
 
@@ -71,7 +95,7 @@ _Such nice comments about the lovable David! You all reflect much of what I feel
 ---
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/IMG_0091-300x225.jpg">
+<img src="/image/article/IUA_Tidings/IMG_0091-300x225.jpg">
 </figure>
 
 _This is heartbreaking. David has been special to all of us. David was a truly faithful person and met death with such courage and dignity. He was a great man of service to others, and an inspiration for me._ 
@@ -107,3 +131,27 @@ David passed away Wednesday June 1, 2022, in Oklahoma City. He was born June 12,
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-june-2022/
 - This article: https://urantia-association.org/graduation-of-david-linthicum
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — June 2022 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/ode_to_a_friend">
+          <span class="pr-2">Fearless Leader of PIRT — Ode to a Friend</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

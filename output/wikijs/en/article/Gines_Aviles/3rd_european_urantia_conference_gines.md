@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Gines Aviles<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_september_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – September 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myra_Hight/pirt_2022">
+          <span class="pr-2">Prison Inmate Response Team (PIRT) Mission Statement </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 20 to 23 October 2022
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/image.jpg">
+<img src="/image/article/IUA_Tidings/image.jpg">
 </figure>
 
 ## Overcoming Materialism, Enlightening Europe
@@ -53,3 +77,27 @@ President, Urantia Association of Spain 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
 - This article: https://urantia-association.org/3rd-european-urantia-conference-gines
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_september_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – September 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myra_Hight/pirt_2022">
+          <span class="pr-2">Prison Inmate Response Team (PIRT) Mission Statement </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

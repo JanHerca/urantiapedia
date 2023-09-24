@@ -9,19 +9,43 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Myra_Hight/pirt_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prison Inmate Response Team (PIRT) Mission Statement </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/i_found_the_key">
+          <span class="pr-2">I Found the Key</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Calling for Presentation Curators
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Jesus-Metaverse-Image-e1662960911349.jpg">
+<img src="/image/article/IUA_Tidings/Jesus-Metaverse-Image-e1662960911349.jpg">
 </figure>
 
-> _What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!_ [[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)]
+> _What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!_ <a id="a42_234"></a>[[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)]
 
 ## About the Jesus Metaverse and the Center for Unity
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Gabriel_Rymberg-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Gabriel_Rymberg-150x150.jpg">
 <figcaption><em>Gabriel Rymberg</em></figcaption>
 </figure>
 
@@ -71,10 +95,34 @@ If you feel the call to serve with us, please fill in this volunteer skill [surv
 
 If you are not sure if this is for you, and would simply like to talk to us to find out, please contact Gabriel at [gabriel.rymberg@thecenterforunity.org](mailto:gabriel.rymberg@thecenterforunity.org) and let us know what your feelings are.
 
-> _If the Christian church would only dare to espouse the Master’s program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking, and they would not hesitate to go all the way through with this great adventure._ [[UB 195:10.10](/en/The_Urantia_Book/195#p10_10)]
+> _If the Christian church would only dare to espouse the Master’s program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking, and they would not hesitate to go all the way through with this great adventure._ <a id="a97_263"></a>[[UB 195:10.10](/en/The_Urantia_Book/195#p10_10)]
 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
 - This article: https://urantia-association.org/the-jesus-metaverse-calling
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Myra_Hight/pirt_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prison Inmate Response Team (PIRT) Mission Statement </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-september-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — September 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Line_St_Pierre/i_found_the_key">
+          <span class="pr-2">I Found the Key</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

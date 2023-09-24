@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 James Woodward<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_new_international_service_board_members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New International Service Board Members</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Susan_Owen/farewell_to_shirley_pelland">
+          <span class="pr-2">Farewell to Shirley Pelland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ### Symmetry of Soul Progresses into its Fifth Year
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/James-Woodward-150x150.jpg">
+<img src="/image/article/IUA_Tidings/James-Woodward-150x150.jpg">
 <figcaption><em>James Woodward</em></figcaption>
 </figure>
 
@@ -22,7 +46,7 @@ Virtual study groups of _The Urantia Book_ are growing in popularity and provide
 One of the first virtual study groups of _The Urantia Book_ to take wing on the Internet, Symmetry of Soul (SoS) has featured in-depth broadcasts since September 1, 2010. Originally launched with three co-hosts, Ann Garner, Dr. Chris Halvorson, and James Woodward, the program soon recruited one of its early supporters, Kermit Anderson. Each of the four co-hosts brings their unique personality and perspective to the weekly sessions, but Dr. Halvorson, who has led a well-attended study group in Boulder, Colorado, for the last 20 years, skillfully directs the systematic “unpacking” of the revelation.
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Symetry-of-Soul-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Symetry-of-Soul-150x150.jpg">
 </figure>
 
 The Symmetry of Soul program is broadcast live for two hours every Tuesday at 9:00 pm ET (6:00 pm PT) by BlogTalkRadio, a very popular Internet company that allows anyone, from famous media stars to everyday folks, to create their own modern-day version of a radio show. To listen to and/or join in the study, go to [www.symmetryofsoul.org](http://www.symmetryofsoul.org/) or [www.blogtalkradio.com/symmetryofsoul](http://www.blogtalkradio.com/symmetryofsoul).
@@ -47,3 +71,27 @@ James Woodward
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
 - This article: https://urantia-association.org/virtual-study-group-symmetry-of-soul
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2015_new_international_service_board_members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New International Service Board Members</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-february-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — February 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Susan_Owen/farewell_to_shirley_pelland">
+          <span class="pr-2">Farewell to Shirley Pelland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

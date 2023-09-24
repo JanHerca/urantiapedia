@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Carmelo Martinez<br>© 2015 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andres_Ramirez/international_book_fair_in_bogota_colombia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Book Fair in Bogotá, Colombia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christian_Ruch/blue_club_meeting_in_frankfurt">
+          <span class="pr-2">Blue Club Meeting in Frankfurt</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/Spanish-Meeting-of-Readers-Group-Photo.jpg">
+<img src="/image/article/IUA_Tidings/Spanish-Meeting-of-Readers-Group-Photo.jpg">
 </figure>
 
 The Urantia Association of Spain held its 14th meeting of readers from April 30th to May 3rd, 2015 in the wonderful and historic city of Cartagena. About 40 readers from all regions of Spain attended. We were also joined by the International Service Board Conference Committee Chair Antonio Schefer who came from the Netherlands to share this valuable time with us.
@@ -21,7 +45,7 @@ This year, we again used the 4 day/3 night format, which we had used in past yea
 The theme this year was “Agora Nostra,” because it was our intention to re-create those public squares where people shared their views and ideas such as was often done in the ancient Greek culture. We also had a theme of using social media to disseminate _The Urantia Book_. We have already recorded and uploaded to the Internet some videos with presentations and discussions about several topics, such as the afterlife, personal religion, the life of Jesus, etc. These videos last about 20 minutes and are designed for readers and others who are familiar with the book. We also plan to make additional, 3-5 minute videos for non-readers. The idea is to give some revelation “pills” with topics of general interest in the world today, as a way to draw the attention of those seekers who don’t know _The Urantia Book_ yet.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Tidings/Spanish-Meeting-Meeting-Room-150x150.jpg">
+<img src="/image/article/IUA_Tidings/Spanish-Meeting-Meeting-Room-150x150.jpg">
 </figure>
 
 Thursday April 30<sup>th</sup> in the afternoon, I welcomed all the attendees and presented the meeting program. I explained a bit about the meeting theme and the meaning we wanted to give to it, as well as the dissemination project using social media.
@@ -31,7 +55,7 @@ Friday May 1<sup>st</sup> in the morning we had two interesting presentations. T
 On Friday afternoon, we had a workshop about the controversial Paper 72, _Government on a Neighboring Planet_, which raised a heated discussion. And on Saturday afternoon David Carrera made a stunning and brilliant presentation about the dichotomy Reality-Unreality, drawing a picture that he called “the first practical map of the greatest and unique treasure that we take from this life: the soul.”
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Tidings/Spanish-Meeting-Workshop-300x225.jpg">
+<img src="/image/article/IUA_Tidings/Spanish-Meeting-Workshop-300x225.jpg">
 </figure>
 
 All the presentations were followed by public discussion on their subjects, which were always enlightening. The next issue of our newsletter, _Luz y Vida_ (Light and Life), will be dedicated in its entirety to the meeting and will include summaries of the presentations and the subsequent discussions.
@@ -51,3 +75,27 @@ President, Urantia Association of Spain
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
 - This article: https://urantia-association.org/urantia-association-of-spain-meets
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andres_Ramirez/international_book_fair_in_bogota_colombia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Book Fair in Bogotá, Colombia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2015 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christian_Ruch/blue_club_meeting_in_frankfurt">
+          <span class="pr-2">Blue Club Meeting in Frankfurt</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
