@@ -174,6 +174,7 @@ Jesus times
 Jesus' followers
 Jesus' places
 Joy
+Journal
 Judaism
 Korea
 Latin America
