@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Jan Herca**
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 Con tantos detalles como ofrece _El Libro de Urantia_ sobre el lugar donde permaneció Jesús retirado seis semanas, no podía resultar muy difícil ubicar el lugar y hacerse un poco a la idea de cómo es y sobre todo, como fue.
 
@@ -56,7 +56,7 @@ Es curioso pero este libro narra que seres venidos del cielo, a los que el _Libr
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/descargas/
+* Artículo original: https://buscandoajesus.wordpress.com/articulos/el-monte-hermon-pero-donde-estuvo-jesus/
 
 ## Referencias
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Jan Herca**
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 En la época actual la mayoría de los países se rigen por el calendario denominado «gregoriano», que fue establecido por el papa Gregorio basándose, tras realizar ciertas correcciones, en el calendario juliano, en vigor desde el año 46 a.C., instaurado por Julio César, y que fue el calendario del imperio romano en la época de Jesús.
 
@@ -120,7 +120,7 @@ Lo que sí está claro es que cualquier aproximación debe guiarse de los datos 
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/descargas/
+* Artículo original: https://buscandoajesus.wordpress.com/articulos/el-calendario-judio-de-la-epoca-de-jesus/
 
 ## Referencias
 

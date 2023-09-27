@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 In some parts of my novel about Jesus[^1] he appears named as “Salvin”. This name is actually taken from _The Urantia Book_, where we find all kinds of new expositions about the divine personality of Jesus. 
 
