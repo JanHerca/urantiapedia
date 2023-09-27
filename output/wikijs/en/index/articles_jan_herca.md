@@ -17,7 +17,7 @@ Source: https://buscandoajesus.wordpress.com/descargas/
 | [The Jewish calendar on Jesus times](/en/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times) | Jan Herca | Jesus, Jesus times        |
 | [Mount Hermon. But where was Jesus?](/en/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus)   | Jan Herca | Jesus, Jesus times, place |
 | [Salvin. But what name is this?](/en/article/Jan_Herca/Salvin_But_what_name_is_this)           | Jan Herca | Jesus, Jesus times        |
-| Day of Atonemen                                                                                | Jan Herca | Jesus, Jesus times        |
+| Day of Atonement                                                                               | Jan Herca | Jesus, Jesus times        |
 | Yeshua ben Yosef                                                                               | Jan Herca | Jesus, Jesus times        |
 | Capernaum                                                                                      | Jan Herca | Jesus, Jesus times, place |
 | The “house of Simon Peter”, first domus-ecclesia?                                              | Jan Herca | Jesus, Jesus times, place |
