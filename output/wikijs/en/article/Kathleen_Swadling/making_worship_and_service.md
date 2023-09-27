@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Kathleen Swadling<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christopher_Ross/no_appointments_no_disappointments">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">No Appointments, No Disappointments</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="pr-2">Preparing for Spontaneity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Kathleen-2021-150x150.jpg">
+<img src="/image/article/IUA_Journal/Kathleen-2021-150x150.jpg">
 </figure>
 
 (Adapted from a presentation given at the Australia and New Zealand Association Annual Conference in Tasmania, 2010)
@@ -33,18 +57,18 @@ As with any relationship—the exchange between personalities—nurturing a frie
 
 But how do we get motivated to make those decisions to develop good habits that are conducive to worship and prayer. It may help to remember that we’re the architects of own lives… Energy flows where the attention goes. Our personal choices are the key to our own well being.
 
-> _The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them – advance in spirit status – by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always – in any sphere, in all of them – this is to choose to do the will of God._ [[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)]
+> _The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them – advance in spirit status – by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always – in any sphere, in all of them – this is to choose to do the will of God._ <a id="a59_369"></a>[[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)]
 
-> _Cosmically moral and divinely spiritual character represents the creature’s capital accumulation of personal decisions which have been illuminated by sincere worship, glorified by intelligent love, and consummated in brotherly service._ [[UB 117:5.13](/en/The_Urantia_Book/117#p5_13)]
+> _Cosmically moral and divinely spiritual character represents the creature’s capital accumulation of personal decisions which have been illuminated by sincere worship, glorified by intelligent love, and consummated in brotherly service._ <a id="a61_240"></a>[[UB 117:5.13](/en/The_Urantia_Book/117#p5_13)]
 
-> _The affectionate dedication of the human will to the doing of the Father’s will is man’s choicest gift to God; in fact, such a consecration of creature will constitutes man’s only possible gift of true value to the Paradise Father. … there is nothing which man can give to God except this choosing to abide by the Father’s will …._ [[UB 1:1.2](/en/The_Urantia_Book/1#p1_2)]
+> _The affectionate dedication of the human will to the doing of the Father’s will is man’s choicest gift to God; in fact, such a consecration of creature will constitutes man’s only possible gift of true value to the Paradise Father. … there is nothing which man can give to God except this choosing to abide by the Father’s will …._ <a id="a63_335"></a>[[UB 1:1.2](/en/The_Urantia_Book/1#p1_2)]
 
 And for anyone who might be agonizing over what it actually means to “do the Father’s will.”
 
-> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God…_ [[UB 115:5.1](/en/The_Urantia_Book/115#p5_1)]
+> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God…_ <a id="a67_134"></a>[[UB 115:5.1](/en/The_Urantia_Book/115#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/carlos9.jpg">
+<img src="/image/article/IUA_Journal/carlos9.jpg">
 </figure>
 
 Whatever you think it means to do the will of God, worry no more for here it is in a nutshell: Exhibit a willingness to share your inner life with God and the rest must surely flow on as a result of this simple choice. Shouldn’t this be a motivation to ensure we develop the habit of finding time for regular communion with the Father?
@@ -58,29 +82,29 @@ Being able to relax is in my view a most important aspect to all of this. Sadly
 
 Once we’re sufficiently relaxed, how can we direct our thoughts to lead them to the upstairs compartments of our minds? How about starting by pondering a few simple basic truths about the Heavenly Father. 
 
-> _God is Love_. [[UB 2:5.1](/en/The_Urantia_Book/2#p5_1)]
+> _God is Love_. <a id="a84_17"></a>[[UB 2:5.1](/en/The_Urantia_Book/2#p5_1)]
 
-> … _love is the dominant characteristic of all God’s personal dealings with his creatures._ [[UB 2:5.12](/en/The_Urantia_Book/2#p5_12)]
+> … _love is the dominant characteristic of all God’s personal dealings with his creatures._ <a id="a86_93"></a>[[UB 2:5.12](/en/The_Urantia_Book/2#p5_12)]
 
-> _Love is the desire to do good to others_. [[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
+> _Love is the desire to do good to others_. <a id="a88_45"></a>[[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
 
 Some hints for making worship work for us can be found in statements like this:
 
-> _…we simply worship God for what we comprehend him to be. … we render such devotion and engage in such worship as a natural and spontaneous reaction to the recognition of the Father’s matchless personality and because of his lovable nature and adorable attributes._ [[UB 5:3.3](/en/The_Urantia_Book/5#p3_3)]
+> _…we simply worship God for what we comprehend him to be. … we render such devotion and engage in such worship as a natural and spontaneous reaction to the recognition of the Father’s matchless personality and because of his lovable nature and adorable attributes._ <a id="a92_268"></a>[[UB 5:3.3](/en/The_Urantia_Book/5#p3_3)]
 
 So what framework should we use during our meditations or worship sessions to ponder the “lovable nature” and “adorable attributes” of the Father? Here are some more hints:
 
-> … _the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth…. If the incarnated life of Michael is taken as the background of the revelation of God to man, we may attempt to put in human word symbols certain ideas and ideals concerning the divine nature which may possibly contribute to a further illumination and unification of the human concept of the nature and the character of the personality of the Universal Father_. [[UB 2:0.2](/en/The_Urantia_Book/2#p0_2) ]
+> … _the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth…. If the incarnated life of Michael is taken as the background of the revelation of God to man, we may attempt to put in human word symbols certain ideas and ideals concerning the divine nature which may possibly contribute to a further illumination and unification of the human concept of the nature and the character of the personality of the Universal Father_. <a id="a96_535"></a>[[UB 2:0.2](/en/The_Urantia_Book/2#p0_2) ]
 
-> … _your greatest revelation of the Father’s love is seen in the bestowal life of his Son Michael as he lived on earth the ideal spiritual life._ [[UB 2:5.10](/en/The_Urantia_Book/2#p5_10)]
+> … _your greatest revelation of the Father’s love is seen in the bestowal life of his Son Michael as he lived on earth the ideal spiritual life._ <a id="a98_147"></a>[[UB 2:5.10](/en/The_Urantia_Book/2#p5_10)]
 
-> _As you ponder the loving nature of God, there is only one reasonable and natural personality reaction thereto: You will increasingly love your Maker; you will yield to God an affection analogous to that given by a child to an earthly parent; for, as a father, a real father, a true father, loves his children, so the Universal Father loves and forever seeks the welfare of his created sons and daughters._ [[UB 2:5.9](/en/The_Urantia_Book/2#p5_9)]
+> _As you ponder the loving nature of God, there is only one reasonable and natural personality reaction thereto: You will increasingly love your Maker; you will yield to God an affection analogous to that given by a child to an earthly parent; for, as a father, a real father, a true father, loves his children, so the Universal Father loves and forever seeks the welfare of his created sons and daughters._ <a id="a100_409"></a>[[UB 2:5.9](/en/The_Urantia_Book/2#p5_9)]
 
-> _The experience of loving is very much a direct response to the experience of being loved._ [[UB 2:5.8](/en/The_Urantia_Book/2#p5_8)]
+> _The experience of loving is very much a direct response to the experience of being loved._ <a id="a102_94"></a>[[UB 2:5.8](/en/The_Urantia_Book/2#p5_8)]
 
 And what about service?  This quote pretty much says it all:
 
-> _All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows. Love is dynamic. It can never be captured; it is alive, free, thrilling, and always moving. Man can never take the love of the Father and imprison it within his heart. The Father’s love can become real to mortal man only by passing through that man’s personality as he in turn bestows this love upon his fellows._ [[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
+> _All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows. Love is dynamic. It can never be captured; it is alive, free, thrilling, and always moving. Man can never take the love of the Father and imprison it within his heart. The Father’s love can become real to mortal man only by passing through that man’s personality as he in turn bestows this love upon his fellows._ <a id="a106_432"></a>[[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
 
 Pretty powerful stuff—“_the Father’s love can become **real** to mortal man **only by** passing through that man’s personality as he in turn bestows this love upon his fellows…”_ (emphasis mine)
 
@@ -89,7 +113,7 @@ The impulse to serve God and man comes from an inner life experience, from the w
 ### The Desire to Serve
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Hands-reaching-out-300x204.jpg">
+<img src="/image/article/IUA_Journal/Hands-reaching-out-300x204.jpg">
 </figure>
 
 The motivation to serve is manifested in different ways. There’s the more unconscious serving “as we pass by” aspect which comes about automatically as a result of the “desire to do good to others.” If you live your life bearing the fruits of the spirit as a love saturated soul, then your spiritual fragrance will rub off on those you pass by. There’s also the aspect of making more of a conscious decision to do some things in particular which you feel would be useful to mankind, like getting involved in some kind of project that you think will be useful.  Everyone has their own unique and personal journey in their service lives and the key is for each of us to discover how we can be most effective.
@@ -97,7 +121,7 @@ The motivation to serve is manifested in different ways. There’s the more unc
 So if we’re so motivated to outpour this love to our fellow man—to give something back in selfless loving service, how do we then organize ourselves to get it together and to be effective in this department of making service the center of our lives?
 <br style="clear:both;"/>
 
-> _Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. It is the enlistment of the totality of selfhood in the loyal service of loving God and serving man._ [[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)]
+> _Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. It is the enlistment of the totality of selfhood in the loyal service of loving God and serving man._ <a id="a123_246"></a>[[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)]
 
 I see this idea of “organizing the soul for dynamic service” as two-fold:
 
@@ -136,3 +160,27 @@ Enduring Peace
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
 - This article: https://urantia-association.org/making-worship-and-service
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christopher_Ross/no_appointments_no_disappointments">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">No Appointments, No Disappointments</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="pr-2">Preparing for Spontaneity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — November 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kulieke/safe_and_true">
+          <span class="pr-2">Safe and True</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/MarkBlackham-150x150.jpg">
+<img src="/image/article/IUA_Journal/MarkBlackham-150x150.jpg">
 </figure>
 
 Welcome to the November 2021 edition of the Urantia Association’s _Journal_, a publication dedicated to the thoughts, observations, and experiences of Urantia Book students from around the world.
@@ -32,3 +56,27 @@ We hope you are inspired by the many different ways in which the philosophy, rel
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
 - This article: https://urantia-association.org/journal-editorial-november-2021
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — November 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kulieke/safe_and_true">
+          <span class="pr-2">Safe and True</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

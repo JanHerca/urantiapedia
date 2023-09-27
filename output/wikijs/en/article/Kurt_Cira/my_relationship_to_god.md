@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Kurt Cira<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Elisabeth_Callahan/our_missing_mother_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Missing Mother God – Monotheism at the Cost of Trinitarianism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Desjardins/the_psychic_circles_and_morontia_life">
+          <span class="pr-2">The Psychic Circles and Morontia Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="family">
-<img src="../../../image/article/IUA_Journal/family-gee280b51b_1920-300x200.jpg">
+<img src="/image/article/IUA_Journal/family-gee280b51b_1920-300x200.jpg">
 </figure>
 
 My understanding of, and relationship with, God has changed tremendously since I discovered _The Urantia Book_ fifty years ago. I was raised in a religion where masculine, anthropomorphic descriptions of Deity dominated the religious thinking of our world. This is not surprising given that almost all aspects of society have been male dominated except within the home, where women have often played an equal or dominant role in family life. The Judeo-Christian and Islamic theologies that are the prevailing religious systems of our times are a product of, and are rooted in, concepts of God that place little emphasis on God as Mother as well as Father. Even the Urantia Papers are written in a way that makes far more use of the term Father and masculine pronouns to describe God. This preponderance of usage has led me and many who have studied the book to overlook its ground-breaking revelation of God as equally mother-like and in possession of all the traits and values that we associate with the feminine. 
@@ -22,7 +46,7 @@ As my study of _The Urantia Book_ deepened, I found that it reveals in the Trini
 Even though I often cannot distinguish between the ministry of the Father and Mother aspects of God, I have come to believe that it is important and helpful to attempt to understand the differences in their functional relationship with us. To do so will not only help us to develop a more complete and accurate understanding of Deity but also to observe the model of how the masculine and feminine can work together and complement each other, a crucial ideal in a world where sex and gender differences are a challenge for almost all people to understand and adapt to personally and socially.
 
 <figure id="Figure_2" class="image urantiapedia" alt="family">
-<img src="../../../image/article/IUA_Journal/rope-g2c46b7536_640.jpg">
+<img src="/image/article/IUA_Journal/rope-g2c46b7536_640.jpg">
 <figcaption><em>Conger Design</em></figcaption>
 </figure>
 
@@ -37,7 +61,7 @@ The huge difference between my connection with the Father and Mother is that, wh
 Finally, there is something wonderful that happens when we choose to make a connection with God as Father. It completes a circuit of complemental association with our Divine Father and Mother. When I connect with our Father, it allows me to receive more of the loving ministry of our Divine Mother and her spirit children. Connecting with Father allows us to know and do his will, while our Mother works with us to make that become an actuality. Our task is to work with our universe Parents and build a personal and functional relationship with them, the maximum of Deity we can comprehend in our pre-spirit careers. That brings you and I into their Family and initiates the everlasting connection to our Trinity Parents that is our destiny. 
 
 <figure id="Figure_3" class="image urantiapedia" alt="family">
-<img src="../../../image/article/IUA_Journal/buddhism-Nato-Pereira-706x397.jpg">
+<img src="/image/article/IUA_Journal/buddhism-Nato-Pereira-706x397.jpg">
 <figcaption><em>Nato Pereira</em></figcaption>
 </figure>
 
@@ -45,7 +69,7 @@ These realizations have led me into a new growth path in my own life. I have rec
 
 The last thing I want to touch on here is inspired by this relevant paragraph that is easy to pass by in Paper 117, God the Supreme:
 
-> _Upon the completion of the sixth stage of existence and the entrance upon the seventh and final stage of spirit status, there will probably ensue the advancing ages of enriching experience, ripening wisdom, and divinity realization. In the nature of the finaliter this will probably equal the completed attainment of the mind struggle for spirit self-realization, the completion of the co-ordination of the ascendant man-nature with the divine Adjuster-nature within the limits of finite possibilities. Such a magnificent universe self thus becomes the eternal finaliter son of the Paradise Father as well as the eternal universe child of the Mother Supreme, a universe self qualified to represent both the Father and Mother of universes and personalities in any activity or undertaking pertaining to the finite administration of created, creating, or evolving things and beings._ [[UB 117:6.7](/en/The_Urantia_Book/117#p6_7)]
+> _Upon the completion of the sixth stage of existence and the entrance upon the seventh and final stage of spirit status, there will probably ensue the advancing ages of enriching experience, ripening wisdom, and divinity realization. In the nature of the finaliter this will probably equal the completed attainment of the mind struggle for spirit self-realization, the completion of the co-ordination of the ascendant man-nature with the divine Adjuster-nature within the limits of finite possibilities. Such a magnificent universe self thus becomes the eternal finaliter son of the Paradise Father as well as the eternal universe child of the Mother Supreme, a universe self qualified to represent both the Father and Mother of universes and personalities in any activity or undertaking pertaining to the finite administration of created, creating, or evolving things and beings._ <a id="a71_884"></a>[[UB 117:6.7](/en/The_Urantia_Book/117#p6_7)]
 
 I have no doubt that as we progress through our universe careers, we will begin to incorporate all the personality attributes of God that we can possibly discover in our future experience. Our complete growth as personality must encompass all aspects of our personalities. Jesus’ life on Urantia revealed a full and balanced blending of all the best characteristics of each gender. Given that we will represent God as Father and Mother, we must embrace everything possible that could be considered masculine or feminine as we would now regard these attributes of gender on this world. Attributes that our society now considers masculine and feminine, and like others that we cannot even imagine now, will be seamlessly blended throughout our being.
 
@@ -56,3 +80,27 @@ So let us all embrace all that we can of the feminine and masculine attributes t
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2022/
 - This article: https://urantia-association.org/my-relationship-to-god
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Elisabeth_Callahan/our_missing_mother_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Missing Mother God – Monotheism at the Cost of Trinitarianism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Desjardins/the_psychic_circles_and_morontia_life">
+          <span class="pr-2">The Psychic Circles and Morontia Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Getting To Know Ourselves Better</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="pr-2">Birth of the Spirit and Spiritual Maturity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Part 1 | Taking a Stand
 
@@ -34,7 +58,7 @@ So what about us? Should we take a hands-off approach to the Lucifer rebellion? 
 
 It seems there is something we can do. Like Gabriel, we can take a stand to counter the rebellious sophistry. Gabriel’s method is set forth in Paper 53. It says:
 
-> In the early days of the struggle Lucifer held forth continuously in the planetary amphitheater. Gabriel conducted an unceasing exposure of the rebel sophistries from his headquarters taken up near at hand. The various personalities present on the sphere who were in doubt as to their attitude would journey back and forth between these discussions until they arrived at a final decision. ([UB 53:5.6](/en/The_Urantia_Book/53#p5_6))
+> In the early days of the struggle Lucifer held forth continuously in the planetary amphitheater. Gabriel conducted an unceasing exposure of the rebel sophistries from his headquarters taken up near at hand. The various personalities present on the sphere who were in doubt as to their attitude would journey back and forth between these discussions until they arrived at a final decision. (<a id="a60_392"></a>[UB 53:5.6](/en/The_Urantia_Book/53#p5_6))
 
 Gabriel’s method was education. He provided a space and a place for conversation. Many beings were misled because they could not comprehend that it was possible for such a dazzling personality as Lucifer to go astray. They were misled because they were adoring personalities. The solution, as presented by Gabriel, was to examine ideas, not personalities. Like Gabriel, we can provide a place where people can hear Michael’s point of view. TheChristExperiment.org is one place where Michael’s side of the ideological struggle can be heard.
 
@@ -46,11 +70,11 @@ Then there is the matter of justice. When we think of the tremendous damage that
 
 This question arises because of what is recorded in Paper 54:
 
-> . . . . the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer **and in all related supporters and possible sympathizers**.  ([UB 54:3.3](/en/The_Urantia_Book/54#p3_3), emphasis added)
+> . . . . the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer **and in all related supporters and possible sympathizers**.  (<a id="a72_210"></a>[UB 54:3.3](/en/The_Urantia_Book/54#p3_3), emphasis added)
 
 Consider also what is recorded about Satan in Paper 43:
 
-> Since the triumph of Christ, all Norlatiadek is being cleansed of sin and rebels. Sometime before Michael’s death in the flesh, the fallen Lucifer’s associate, Satan, sought to attend such an Edentia conclave, but the solidification of sentiment against the archrebels had reached the point where the doors of sympathy were so well-nigh universally closed that there could be found no standing ground for the Satania adversaries. **When there exists no open door for the reception of evil, there exists no opportunity for the entertainment of sin**. The doors of the hearts of all Edentia closed against Satan; he was unanimously rejected by the assembled System Sovereigns, and it was at this time that the Son of Man “beheld Satan fall as lightning from heaven.” ([UB 43:4.9](/en/The_Urantia_Book/43#p4_9), emphasis added)
+> Since the triumph of Christ, all Norlatiadek is being cleansed of sin and rebels. Sometime before Michael’s death in the flesh, the fallen Lucifer’s associate, Satan, sought to attend such an Edentia conclave, but the solidification of sentiment against the archrebels had reached the point where the doors of sympathy were so well-nigh universally closed that there could be found no standing ground for the Satania adversaries. **When there exists no open door for the reception of evil, there exists no opportunity for the entertainment of sin**. The doors of the hearts of all Edentia closed against Satan; he was unanimously rejected by the assembled System Sovereigns, and it was at this time that the Son of Man “beheld Satan fall as lightning from heaven.” (<a id="a76_768"></a>[UB 43:4.9](/en/The_Urantia_Book/43#p4_9), emphasis added)
 
 From this, we can infer that until the Luciferian concepts are wholly rejected on our world, the Ancients of Days may refrain from annihilating the rebels. Thus, a delay in exposing the poisonous proclamations of Lucifer may prolong our planetary agony.
 
@@ -96,7 +120,7 @@ There is a divinity in sonship with God. There is a power of oneness with the un
 
 Paper 111 refers to the danger of yielding to the temptation to deify one’s self, which is what is happening to those who ascribe to this half-truth of godship. Here’s the excerpt:
 
-> The courage required to effect the conquest of nature and to transcend one’s self is a courage that might succumb to the temptations of self-pride. The mortal who can transcend self might yield to the temptation to deify his own self-consciousness. The mortal dilemma consists in the double fact that man is in bondage to nature while at the same time he possesses a unique liberty—freedom of spiritual choice and action. On material levels man finds himself subservient to nature, while on spiritual levels he is triumphant over nature and over all things temporal and finite. Such a paradox is inseparable from temptation, potential evil, decisional errors, and when self becomes proud and arrogant, sin may evolve. ([UB 111:6.2](/en/The_Urantia_Book/111#p6_2))
+> The courage required to effect the conquest of nature and to transcend one’s self is a courage that might succumb to the temptations of self-pride. The mortal who can transcend self might yield to the temptation to deify his own self-consciousness. The mortal dilemma consists in the double fact that man is in bondage to nature while at the same time he possesses a unique liberty—freedom of spiritual choice and action. On material levels man finds himself subservient to nature, while on spiritual levels he is triumphant over nature and over all things temporal and finite. Such a paradox is inseparable from temptation, potential evil, decisional errors, and when self becomes proud and arrogant, sin may evolve. (<a id="a122_721"></a>[UB 111:6.2](/en/The_Urantia_Book/111#p6_2))
 
 This quote tells us that transcending our mortal frailties and temporal challenges takes real courage. But those who are able to transcend them are faced with a new problem – the temptation to become proud and arrogant which may lead to sin. It is not saying that such a person WILL become proud and arrogant. It is saying that such a person will inevitably be presented the opportunity to prove who he or she really is. Is that person a courageous spiritual son of God? Or has that person deluded himself believing he IS God? That is the danger of half-truths.
 
@@ -112,7 +136,7 @@ There is another reason why this particular half-truth is so dangerous. It takes
 
 > In short, what God had given men and angels Lucifer would have taken away from them, that is, **the divine privilege of participating in the creation of their own destinies** and of the destiny of this local system of inhabited worlds.
 > 
-> No being in all the universe has the rightful liberty to deprive any other being of true liberty, the right to love and be loved, the privilege of worshiping God and of serving his fellows. ([UB 54:2.3-5](/en/The_Urantia_Book/54#p2_3) emphases added)
+> No being in all the universe has the rightful liberty to deprive any other being of true liberty, the right to love and be loved, the privilege of worshiping God and of serving his fellows. (<a id="a138_193"></a>[UB 54:2.3-5](/en/The_Urantia_Book/54#p2_3) emphases added)
 
 These passages reveal the danger of philosophies that exclude God from the equation. So it is not just a question of whether God exists or does not exist. It is a question of whether WE exist as freewill creatures, and whether we will allow another creature to close the door to opportunities and possibilities. Such half-truths are not only atheistic. They are Luciferian.
 
@@ -124,7 +148,7 @@ But how will they know that they must progress beyond half-truths and complete t
 
 Paper 54 says this about liberty and license:
 
-> Of all the perplexing problems growing out of the Lucifer rebellion, none has occasioned more difficulty than the failure of immature evolutionary mortals to distinguish between true and false liberty. ([UB 54:1.1](/en/The_Urantia_Book/54#p1_1))
+> Of all the perplexing problems growing out of the Lucifer rebellion, none has occasioned more difficulty than the failure of immature evolutionary mortals to distinguish between true and false liberty. (<a id="a150_205"></a>[UB 54:1.1](/en/The_Urantia_Book/54#p1_1))
 
 Clearly, if we are going to find ourselves on the right side of the ideological struggle, we must be able to distinguish the difference ourselves. Recall that many celestial personalities of long faithful standing failed to distinguish the difference and were swept along in the Lucifer Rebellion. So it might not be as easy as one might think.
 
@@ -138,7 +162,7 @@ The Mighty Messenger who authored Paper 54 enumerated the differences by juxtapo
 > 
 > False liberty is the subtle deception of **the error of time and the evil of space**.
 > 
-> Enduring liberty is predicated on the reality of justice—intelligence, maturity, fraternity, and equity. ([UB 54:1.2](/en/The_Urantia_Book/54#p1_2), emphasis added)
+> Enduring liberty is predicated on the reality of justice—intelligence, maturity, fraternity, and equity. (<a id="a164_108"></a>[UB 54:1.2](/en/The_Urantia_Book/54#p1_2), emphasis added)
 
 In this paper, the Mighty Messenger compares time and space. Time, as used here, is the natural flow of events, the natural evolutionary process. Space is referring to our place, or our status, or where we are in the universe.
 
@@ -163,7 +187,7 @@ Liberty is a self-destroying technique of cosmic existence when its motivation i
 
 True liberty is progressively related to reality and is ever regardful of social equity, cosmic fairness, universe fraternity, and divine obligations.
 
-> Liberty is suicidal when divorced from material justice, intellectual fairness, social forbearance, moral duty, and spiritual values. ([UB 54:1.3-4](/en/The_Urantia_Book/54#p1_3))
+> Liberty is suicidal when divorced from material justice, intellectual fairness, social forbearance, moral duty, and spiritual values. (<a id="a189_137"></a>[UB 54:1.3-4](/en/The_Urantia_Book/54#p1_3))
 
 These distinctions tell us that freedoms that are without intelligent thought as to the consequences they would impose on others, or that are exercised without restrain, are false liberties. Whereas freedoms that take into account the effects our actions will have on others and are tempered by fairness, are true liberties.
 
@@ -179,7 +203,7 @@ These are further examples of false liberty or license. And you can probably lis
 
 The Mighty Messenger next tells us that:
 
-> Unbridled self-will and unregulated self-expression equal unmitigated selfishness, the acme of ungodliness. Liberty without the associated and ever-increasing conquest of self is a figment of egoistic mortal imagination. ([UB 54:1.5](/en/The_Urantia_Book/54#p1_5))
+> Unbridled self-will and unregulated self-expression equal unmitigated selfishness, the acme of ungodliness. Liberty without the associated and ever-increasing conquest of self is a figment of egoistic mortal imagination. (<a id="a205_224"></a>[UB 54:1.5](/en/The_Urantia_Book/54#p1_5))
 
 Here, he is telling us that ideas that promote self-expression without regard to the feelings of, or consequences to, others are examples of selfishness which is ungodly and self-delusional. An example of such an ideology is the Luciferian expression:
 
@@ -202,7 +226,7 @@ Sometimes it is hard to see the contrast in modern society. So it might be helpf
 
 > Very soon after the rebellion the entire staff of sedition were engaged in energetic defense of the city against the hordes of semisavages who besieged its walls as a result of the doctrines of liberty which had been prematurely taught them. And years before the beautiful headquarters went down beneath the southern waves, the misled and mistaught tribes of the Dalamatia hinterland had already swept down in semisavage assault on the splendid city, driving the secession staff and their associates northward.
 > 
-> The Caligastia scheme for the immediate reconstruction of human society in accordance with his ideas of individual freedom and group liberties, proved a swift and more or less complete failure. Society quickly sank back to its old biologic level, and the forward struggle began all over, starting not very far in advance of where it was at the beginning of the Caligastia regime, this upheaval having left the world in confusion worse confounded. ([UB 67:5.2-3](/en/The_Urantia_Book/67#p5_2))
+> The Caligastia scheme for the immediate reconstruction of human society in accordance with his ideas of individual freedom and group liberties, proved a swift and more or less complete failure. Society quickly sank back to its old biologic level, and the forward struggle began all over, starting not very far in advance of where it was at the beginning of the Caligastia regime, this upheaval having left the world in confusion worse confounded. (<a id="a228_450"></a>[UB 67:5.2-3](/en/The_Urantia_Book/67#p5_2))
 
 Toying with false liberty has had, and will continue to have, a devastating affect on our world. So there is reason to be vigilant and keenly discerning, lest we find ourselves on the wrong side of the struggle.
 
@@ -226,3 +250,27 @@ May the Spirit of Truth be with you.
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2023/
 - This article: https://urantia-association.org/the-ideological-struggle
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Getting To Know Ourselves Better</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="pr-2">Birth of the Spirit and Spiritual Maturity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

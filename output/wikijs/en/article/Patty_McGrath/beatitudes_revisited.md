@@ -9,19 +9,43 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Patty McGrath<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rick_Lyon/benign_virus_of_love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Benign Virus of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="pr-2">Soul Rebirth and Morontia (Soul) Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Transcribed and edited from an online presentation given at the 24-hour Online Urantia Event, March 21, 2020)_
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Patty-McGrath-150x150.jpg">
+<img src="/image/article/IUA_Journal/Patty-McGrath-150x150.jpg">
 </figure>
 
 It was early afternoon in mid-January, A.D. 27, when Jesus called the apostles from their fishing nets near the shores of Galilee and led them into the highlands north of Capernaum. The chosen twelve were about to be ordained as public preachers of the gospel of the kingdom. As Andrew, Simon Peter, James and John Zebedee, Philip, Nathaniel, Matthew, Thomas, James and Jude Alpheus, Simon Zelotes, and Judas Iscariot were seated about Jesus, he told them,
 <br style="clear:both;"/>
 
-> _And it will not be so much by the words you speak as by the lives you live that men will know you have been with me and have learned of the realities of the kingdom_ [[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
+> _And it will not be so much by the words you speak as by the lives you live that men will know you have been with me and have learned of the realities of the kingdom_ <a id="a45_169"></a>[[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
 
-Then the twelve knelt in a circle about him and he ordained each one in a solemn and sacred ceremony placing _the affairs of the divine brotherhood of man under the direction of human minds_ [[UB 140:2.3](/en/The_Urantia_Book/140#p2_3)].
+Then the twelve knelt in a circle about him and he ordained each one in a solemn and sacred ceremony placing _the affairs of the divine brotherhood of man under the direction of human minds_ <a id="a47_191"></a>[[UB 140:2.3](/en/The_Urantia_Book/140#p2_3)].
 
 Jesus then spoke to them saying:
 
@@ -41,10 +65,10 @@ Jesus then spoke to them saying:
 > 
 > _Happy are the peacemakers, for they shall be called the sons of God._
 > 
-> _Happy are you when men shall revile you and persecute you and shall say all manner of evil against you falsely. Rejoice and be exceedingly glad, for great is your reward in heaven._ [[UB 140:3.3-11](/en/The_Urantia_Book/140#p3_3)]
+> _Happy are you when men shall revile you and persecute you and shall say all manner of evil against you falsely. Rejoice and be exceedingly glad, for great is your reward in heaven._ <a id="a67_185"></a>[[UB 140:3.3-11](/en/The_Urantia_Book/140#p3_3)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Israel-Highlands-man-and-sun-screen-300x173.jpg">
+<img src="/image/article/IUA_Journal/Israel-Highlands-man-and-sun-screen-300x173.jpg">
 </figure>
 
 Jesus began his public teaching with the ordination of his twelve apostles, and the beatitudes formed a part of his ordination sermon. Then, over three years later, on a bright April afternoon in A.D. 30, Jesus appeared in morontia form among the eleven remaining apostles and re-enacted the ordination scene before ascending to the Father. Jesus began and ended his teaching with the beatitudes, which suggests they must be important guidelines for how to live our daily lives.
@@ -65,14 +89,14 @@ The beatitudes are an attitude to cultivate—a philosophy of everyday living—
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/Israel-Highlands-screen-706x401.jpg">
+<img src="/image/article/IUA_Journal/Israel-Highlands-screen-706x401.jpg">
 </figure>
 
 ## Happy are the poor in spirit—the humble
 
 This may be better phrased as: Happy are the open-minded, the teachable and truth seeking.
 
-There is a reason that Jesus began the beatitudes with this one. We must be willing to open our minds to spiritual growth and change. When Jesus was in Rome, he and Ganid encountered a man who was not hungry for truth and Jesus did not engage in conversation with the man. He said to Ganid, _You cannot reveal God to those who do not seek for him; you cannot lead unwilling souls into the joys of salvation._ [[UB 132:7.2](/en/The_Urantia_Book/132#p7_2)] We have to WANT to learn in order to grow in spirit. Our lives will be happier if we accept that we are “poor in spirit”—that we need to seek intellectual and spiritual truths.
+There is a reason that Jesus began the beatitudes with this one. We must be willing to open our minds to spiritual growth and change. When Jesus was in Rome, he and Ganid encountered a man who was not hungry for truth and Jesus did not engage in conversation with the man. He said to Ganid, _You cannot reveal God to those who do not seek for him; you cannot lead unwilling souls into the joys of salvation._ <a id="a98_409"></a>[[UB 132:7.2](/en/The_Urantia_Book/132#p7_2)] We have to WANT to learn in order to grow in spirit. Our lives will be happier if we accept that we are “poor in spirit”—that we need to seek intellectual and spiritual truths.
 
 Those who think they have all the answers cannot be taught. That is why Jesus said we should “become like little children.” Little children recognize that they do not understand what they perceive, and so they ask what it means. Children’s minds are malleable, teachable; they want to learn. They know they don’t have all the answers. Children want to find the right way of doing things. Being open-minded is also being willing to admit when we make a mistake and cheerfully try it again. We must want to learn and grow spiritually.
 
@@ -101,12 +125,12 @@ May be phrased as: Happy are they who are naturally trustful of others, for they
 It is important to develop an attitude of trusting each other to do the right thing, rather than being cynically suspicious that people are out to take something from us or deceive us. This seems like a fine idea until someone attacks you. In our time and culture, attacks are usually verbal rather than physical. Our human instinctive response is usually anger and a desire for revenge. When you feel hurt by someone, you want to hurt him back. In our human mind, justice and fairness seem to demand that we respond in kind—“an eye for an eye and a tooth for a tooth.” Yet many of us have had enough life experiences to know that if we give in to this idea, our professional and relationship problems will only escalate. God does not ask us to give up thinking but, as his children, to apply his gift of spiritual help to the situation at hand. Love can be intelligent.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/People-Rock-and-Sunset-300x199.jpg">
+<img src="/image/article/IUA_Journal/People-Rock-and-Sunset-300x199.jpg">
 </figure>
 
 There is not an instant that you are not a child of God, neither is there an instant when your brother is not. To truly realize that we are children of God, we must extend that belief to another—to see God within them despite their behavior at any moment. No matter what you believe, you cannot change reality. You are a child of God and so is your brother, even if you perceive that he or she is behaving badly. When we look for the best in our fellow men, we will find it in them and within ourselves. We can inspire others by our trust in them to live up to their fullest potential. Truth is always stronger than error. Expect to see the good in others.
 
-We do not make others better by telling them how bad they are. That is especially true for our children. When we acquire spiritual insight, we love others with a fatherly love, as God loves them. The final commandment Jesus gave the night before he died, _Love one another even **as I have loved you**_ [[UB 180:6.0](/en/The_Urantia_Book/180#p6_0), emphasis added]. Let us resolve to understand and experience our brothers as beloved sons of God, no matter what their behavior.
+We do not make others better by telling them how bad they are. That is especially true for our children. When we acquire spiritual insight, we love others with a fatherly love, as God loves them. The final commandment Jesus gave the night before he died, _Love one another even **as I have loved you**_ <a id="a132_303"></a>[[UB 180:6.0](/en/The_Urantia_Book/180#p6_0), emphasis added]. Let us resolve to understand and experience our brothers as beloved sons of God, no matter what their behavior.
 
 The next four beatitudes point out the reactions of a fatherly love, a Jesus type of love, toward others.
 
@@ -154,7 +178,7 @@ May be phrased as: Happy are they who are loyal to truth, beauty, and goodness, 
 
 Jesus’ gospel is not for wimps. He tells us to,
 
-> _Love your enemies, do good to those who hate you, bless those who curse you, and pray for those who despitefully use you. And whatsoever you believe that I would do to men, do you also to them_ [[UB 140:3.15](/en/The_Urantia_Book/140#p3_15)].
+> _Love your enemies, do good to those who hate you, bless those who curse you, and pray for those who despitefully use you. And whatsoever you believe that I would do to men, do you also to them_ <a id="a180_197"></a>[[UB 140:3.15](/en/The_Urantia_Book/140#p3_15)].
 
 When someone calls you names or gossips behind your back and causes you grave professional or relationship harm, you are supposed to respond with love and forgiveness. That kind of response to verbal or physical abuse by others is hard to practice either individually or by a social group. It requires spiritual courage and mental awareness to choose an intelligent, loving response in the face of verbal abuse. It requires daily practice. When someone yells profanities at you while driving, or your spouse shouts at you at home, or your boss denigrates you at work, it is very difficult to even remember that you are a child of God, let alone remember that the person yelling is also beloved by the Father.
 
@@ -185,14 +209,14 @@ Let us resolve to practice these attitudes and prepare our minds by prayer so th
 
 Our Father asks us to go about “doing good.” As the little expressions of his love flow through us to others, we increase our awareness of the love that exists within us. Unlike physical things, the intangibles of love, understanding, kindness, courage, loyalty, and trust, only increase if they are given away. To know you have love, give it away.
 
-> _“… by the lives you live… men will know you have been with me and have learned of the realities of the kingdom._” [[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
+> _“… by the lives you live… men will know you have been with me and have learned of the realities of the kingdom._” <a id="a211_117"></a>[[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
 
 With the challenges that the 21<sup>st</sup> century brings, these guidelines for living are here for us to remember while we go about our daily lives.
 
 As we teach love, so shall we learn that we are God’s children created in the image of his love. By our daily efforts to align our minds with the spirit of God that dwells within us, we show our loyalty to that which is highest and best within us.
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/Beautitudes-Mountain-screen-706x370.jpg">
+<img src="/image/article/IUA_Journal/Beautitudes-Mountain-screen-706x370.jpg">
 </figure>
 
 ## References
@@ -200,3 +224,27 @@ As we teach love, so shall we learn that we are God’s children created in the 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2020/
 - This article: https://urantia-association.org/beatitudes-revisited
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rick_Lyon/benign_virus_of_love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Benign Virus of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="pr-2">Soul Rebirth and Morontia (Soul) Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

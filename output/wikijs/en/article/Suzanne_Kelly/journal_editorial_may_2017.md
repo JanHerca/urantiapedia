@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Suzanne Kelly<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2017_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/temple_spiritual_brotherhood_study_groups">
+          <span class="pr-2">The Temple of Spiritual Brotherhood and the Greater Meaning of Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Suzanne-editorial.jpg">
+<img src="/image/article/IUA_Journal/Suzanne-editorial.jpg">
 </figure>
 
 Greetings Fellow _Journal_ Readers,
@@ -25,7 +49,7 @@ In this May edition, we have two engaging articles for your enjoyment and edific
 
 Charles tackles the nature and morontial significance of study groups, their structure and leadership, the repercussions of their achievement, and
 
-> _“With God the Supreme, **achievement** is the prerequisite to status—one must do something as well as be something.”_ [[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)] (Emphasis added)
+> _“With God the Supreme, **achievement** is the prerequisite to status—one must do something as well as be something.”_ <a id="a51_121"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)] (Emphasis added)
 
 The second article is _The Hallelujah Aftermath_ by Neal Waldrup. It is a melodious interpretation of _The Messiah_ by George Frideric Handel [^1] and its lyrical comparison of texts within _The Urantia Book_ 
 
@@ -49,6 +73,31 @@ Suzanne Kelly
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2017/
 - This article: https://urantia-association.org/journal-editorial-may-2017
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2017_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2017 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/temple_spiritual_brotherhood_study_groups">
+          <span class="pr-2">The Temple of Spiritual Brotherhood and the Greater Meaning of Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

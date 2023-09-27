@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Mamadou Doudou Diagne<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Zshonette_Reed/the_ideological_struggle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ideological Struggle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christopher_Ross/my_lord_and_my_god">
+          <span class="pr-2">My Lord and My God!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="StockSnap">
-<img src="../../../image/article/IUA_Journal/stocksnap-300x200.jpg">
+<img src="/image/article/IUA_Journal/stocksnap-300x200.jpg">
 <figcaption><em>StockSnap</em></figcaption>
 </figure>
 
@@ -38,7 +62,7 @@ Religions have pushed the wheel of birth and spiritual maturity, by continuously
 2. A set of beliefs, affirmations and cults, which allow, according to different religions, to make this closeness greater, in order to obtain rewards in the hereafter.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right" alt="By Carlos Rubinsky">
-<img src="../../../image/article/IUA_Journal/carlosdaisy.jpg">
+<img src="/image/article/IUA_Journal/carlosdaisy.jpg">
 <figcaption><em>By Carlos Rubinsky</em></figcaption>
 </figure>
 
@@ -56,3 +80,27 @@ While the human biological birth is done without our will, the Spirit’s birth 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2023/
 - This article: https://urantia-association.org/birth-of-the-spirit-and-spiritual-maturity
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Zshonette_Reed/the_ideological_struggle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ideological Struggle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christopher_Ross/my_lord_and_my_god">
+          <span class="pr-2">My Lord and My God!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

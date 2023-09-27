@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 David Elders<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/personal_exp_revealed_truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Personal Experience of Revealed Truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rick_Lyon/family_crises">
+          <span class="pr-2">Family Crises</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/IMG_5092-e1656038860104.jpg">
+<img src="/image/article/IUA_Journal/IMG_5092-e1656038860104.jpg">
 <figcaption><em>David Linthicum</em></figcaption>
 </figure>
 
@@ -86,7 +110,7 @@ He would give them revealed truth by the spoonful, when they were ready for more
 He did not attempt to shovel too much truth; it would have surely overwhelmed them.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Tidings/eye-dropper-spoon-shovel.jpg">
+<img src="/image/article/IUA_Tidings/eye-dropper-spoon-shovel.jpg">
 </figure>
 
 We can learn much from Jesus’ method of teaching by using the eyedropper, spoon, and shovel approach ourselves when we desire to reveal the truths contained in _The Urantia Book_.
@@ -97,7 +121,7 @@ Let us bear in mind the method Jesus used as he shared a new revelation of truth
 
 Jesus’ life changed the world. His teachings led to the eventual creation of the Christian Church which went on to spread his teachings all over the world.  He was able to change the perception of the God of Moses, which depicted an angry and vengeful God, to a God of Love, a loving Father who adores his earthly children.  Jesus taught us about the Kingdom of Heaven and the Brotherhood of Man, that men and women are “saved” by their faith alone.
 
-> _When all is said and done, the Father idea is still the highest concept of God._ <a id="a124_84"></a>[[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)]
+> _When all is said and done, the Father idea is still the highest concept of God._ <a id="a123_84"></a>[[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)]
 
 These simple messages of love, faith, and family served to change the people’s perceptions of God and their relationship to him. God became more personable, more understanding and sympathetic to our earthly struggles.
 
@@ -120,3 +144,27 @@ _(See this [YouTube video](https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQY
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2018/
 - This article: https://urantia-association.org/eyedropper-spoon-shovel
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/personal_exp_revealed_truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Personal Experience of Revealed Truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rick_Lyon/family_crises">
+          <span class="pr-2">Family Crises</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

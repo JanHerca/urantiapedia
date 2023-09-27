@@ -9,15 +9,39 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Bruce Jackson<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_editorial_may_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial May 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="pr-2">Doing the Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Book-shelf-trans-aids-cropped-300x161.jpg">
+<img src="/image/article/IUA_Journal/Book-shelf-trans-aids-cropped-300x161.jpg">
 </figure>
 
 A proposal for the development of a curriculum based on _The Urantia Book_ for the certification of teacher/scholars, and the certification of community, regional, and international leaders.
 <br style="clear:both;"/>
 
-> _In winning souls for the Master, it is not the first mile of compulsion, duty, or convention that will transform man and his world, but rather the second mile of free service and liberty-loving devotion that betokens the_ **_Jesusonian_** _reaching forth to grasp his brother in love and sweep him on under spiritual guidance toward the higher and divine goal of mortal existence. Christianity even now willingly goes the first mile, but mankind languishes and stumbles along in moral darkness because there are so few genuine second-milers—so few professed followers of Jesus who really live and love as he taught his disciples to live and love and serve_. [[UB 195:10.5](/en/The_Urantia_Book/195#p10_5), emphasis added]
+> _In winning souls for the Master, it is not the first mile of compulsion, duty, or convention that will transform man and his world, but rather the second mile of free service and liberty-loving devotion that betokens the_ **_Jesusonian_** _reaching forth to grasp his brother in love and sweep him on under spiritual guidance toward the higher and divine goal of mortal existence. Christianity even now willingly goes the first mile, but mankind languishes and stumbles along in moral darkness because there are so few genuine second-milers—so few professed followers of Jesus who really live and love as he taught his disciples to live and love and serve_. <a id="a43_661"></a>[[UB 195:10.5](/en/The_Urantia_Book/195#p10_5), emphasis added]
 
 This familiar and challenging passage found in Paper 195 actually defines the name of the lifestyle and religion presented in the fifth epochal revelation: Jesusonianism. Here the individual Jesusonian is challenged to follow the teachings presented in _The Urantia Book_. It is easy to stop at the level of this quotation and focus entirely on the inner spiritual life of the individual. However, the fifth epochal revelation suggests throughout its text, a third mile that is about community service and world-wide spiritual outreach.
 
@@ -64,7 +88,7 @@ Any academic institution responding adequately to these questions is not, nor co
 Today there are a number of educational enterprises sharing _The Urantia Book_ with the rest of the world. Because I do not live in Colorado I have no real knowledge of the recently restarted Boulder School. As I have only participated in a few discussion groups with the Gospel School, I recuse myself from any analysis thereof. I have been somewhat engaged with the development of Ascension University (AU) which is planning to open around 2020 and already has a number of online projects and discussion groups underway. However, I have taken the four UUI classes based on each Part of _The Urantia Book_ and have over three years of experience with UBIS. Therefore, I will focus my analysis on them. I apologize if I have omitted any other educational enterprise and gladly invite those organizations into this discussion. We are, after all, looking to develop a system of schools to support the fifth epochal revelation.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/UBIS-300x93.jpg">
+<img src="/image/article/IUA_Journal/UBIS-300x93.jpg">
 </figure>
 
 **UBIS:** Though by design UBIS is not a traditional school with an organized curriculum that results in some form of certification beyond the individual classes, it is a great first Urantia Book-based school because its entire focus is on the development of readers of the fifth epochal revelation. UBIS has some of the best teachers in the Urantia movement and presents an online forum where new and highly experienced readers mingle and learn both as teachers and students. Though its study group format is informal, the online medium demands fairly good reading and writing skills for students and teachers if the classes are to be successful. Their website is limited and tad old fashioned in appearance, but it serves the curricular format that their instructor/facilitators use. UBIS is an excellent training ground for future teachers who need experience in writing about _The Urantia Book_ in an online forum. UBIS is well established, has a lot of history, and offers a wide variety of classes.
@@ -111,7 +135,7 @@ So, how do we Jesusonians go that third mile? We need folks like YOU who are wil
 
 _The Urantia Book_ clearly calls Jesusonians to this task. The fifth epochal revelation has not been entrusted to us to hide under a bushel for our own spiritual enlightenment or private enjoyment. Consider the following quote, and instead of “Christianity,” insert “Jesusonians:”
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity_ _persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity_ _persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ <a id="a137_593"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 Most of all, we need to do the work and begin to walk the third mile. If not us, then WHO? If not now, then WHEN? The fields are ripe, and the laborers very few. God is calling us now. Who will say “SEND ME?”
 
@@ -120,3 +144,27 @@ Most of all, we need to do the work and begin to walk the third mile. If not us,
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2018/
 - This article: https://urantia-association.org/jesusonian-calling-go-third-mile
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_editorial_may_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial May 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="pr-2">Doing the Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

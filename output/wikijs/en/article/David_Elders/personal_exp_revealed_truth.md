@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 David Elders<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose of the Fifth Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="pr-2">The Eyedropper, Spoon, and Shovel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Our Urantia Book Internet School Pedagogy 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/UBIS-300x93.jpg">
+<img src="/image/article/IUA_Journal/UBIS-300x93.jpg">
 </figure>
 
 This essay is offered as a context exploration of our Urantia Book Internet School (UBIS) pedagogy and methodology in response to a provocative question: can our encounter with newly-revealed, epochal truth be facilitated successfully by employing evolutionary techniques of education or can revealed truth be comprehended using the interpretive teachings of the evolutionary religions of authority?
@@ -22,28 +46,28 @@ I would observe that it is the combined nature of revelation and the revelatory 
 
 ## Context
 
-With _The Urantia Book_ gripped lovingly in our hands, have we ever been tempted to wonder what the evolutionary response to new revelation might look or sound like today?  This is a useful exercise to help us distinguish between newly revealed truth and the beliefs acquired over centuries which now undergird the evolutionary religions of authority.  As you set forth on this examination, you may find it unsettling to learn that _a new revelation is always contaminated by the older evolutionary beliefs._ [[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)] Why is that? Perhaps it is because the techniques of evolutionary education and the religions of authority were designed to teach and interpret what is already known and believed, including truths previously revealed. Only revelation can teach new truth not yet known, experienced, and perceived.  Nonetheless it is better to know the risk of contamination than to deceive ourselves into thinking that what we consider to be the higher meaning of newly-revealed truth is perhaps no more than a projection of what we already know and believe.
+With _The Urantia Book_ gripped lovingly in our hands, have we ever been tempted to wonder what the evolutionary response to new revelation might look or sound like today?  This is a useful exercise to help us distinguish between newly revealed truth and the beliefs acquired over centuries which now undergird the evolutionary religions of authority.  As you set forth on this examination, you may find it unsettling to learn that _a new revelation is always contaminated by the older evolutionary beliefs._ <a id="a48_509"></a>[[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)] Why is that? Perhaps it is because the techniques of evolutionary education and the religions of authority were designed to teach and interpret what is already known and believed, including truths previously revealed. Only revelation can teach new truth not yet known, experienced, and perceived.  Nonetheless it is better to know the risk of contamination than to deceive ourselves into thinking that what we consider to be the higher meaning of newly-revealed truth is perhaps no more than a projection of what we already know and believe.
 
 Toward the final days of our Creator Son’s bestowal on our planet some 2,000 years ago, Jesus warned the Apostles to _beware of the support of the multitudes_ who came to see the Master and hear his words. One rest-day in camp he told them this:
 
-> _And so you must not allow yourselves to be deceived by the great crowds who heard us in the temple, and who seemed to believe our teachings. These multitudes listen to the truth and believe it superficially with their minds, but few of them permit the word of truth to strike down into the heart with living roots. Those who know the gospel only in the mind, and who have not experienced it in the heart, cannot be depended upon for support when real trouble comes._  [[UB 177:5.2](/en/The_Urantia_Book/177#p5_2)]
+> _And so you must not allow yourselves to be deceived by the great crowds who heard us in the temple, and who seemed to believe our teachings. These multitudes listen to the truth and believe it superficially with their minds, but few of them permit the word of truth to strike down into the heart with living roots. Those who know the gospel only in the mind, and who have not experienced it in the heart, cannot be depended upon for support when real trouble comes._  <a id="a52_471"></a>[[UB 177:5.2](/en/The_Urantia_Book/177#p5_2)]
 
 So, as we buckle down to really experience, perceive, comprehend in our hearts and apply in our lives the newly-revealed truths offered by the revelators in _The Urantia Book_, we would do well to choose the most effective methodology, informed by revelation itself, to facilitate our encounter with living truth.  Lurking behind our choices is yet another question. Mota 16 alerts us to the seemingly counterintuitive fact that _truth must be experienced BEFORE it can be perceived…_ Moreover, if the experience and perception of living truth is then further influenced by the unique personality of each child of God, can it really be “taught” by the older evolutionary and often interpretive techniques of education and authoritative religion? Here is a challenging Melchizedek clue:
 
-> _Evolutionary religion is sentimental, not logical. It is man’s reaction to belief in a hypothetical ghost-spirit world—the human belief-reflex, excited by the realization and fear of the unknown. Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion is that very truth._ [[UB 92:4.3](/en/The_Urantia_Book/92#p4_3)]
+> _Evolutionary religion is sentimental, not logical. It is man’s reaction to belief in a hypothetical ghost-spirit world—the human belief-reflex, excited by the realization and fear of the unknown. Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion is that very truth._ <a id="a56_516"></a>[[UB 92:4.3](/en/The_Urantia_Book/92#p4_3)]
 
 There is a lot to unpack in this little piece of revelation, but it is worth the effort for each truth seeker to meditate on its meaning.  For now, just a few points to notice.  The first is the origin of evolutionary religion versus revelatory religion (both personal and epochal): evolutionary religion _is a REACTION to belief in a hypothetical ghost-spirit world._  Revelatory religion _is PROPOUNDED by the real spiritual world,_ in response to our _mortal hunger…to depend upon the universal Deities_.  Whereas _Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion IS that very truth_.  Revelatory religion is a top-down, superintellectual gift of the real spiritual world; evolutionary religion is a bottom up, mortal mind response.  Surely Jesus’ warning to the Apostles that the person who hears and believes superficially with mind alone and who has not experienced truth in the heart (morontial, soul consciousness) cannot be depended on, is a warning which we, even 2,000 years later, need to heed.  Of course, we could rely on the presumption that the Spirit of Truth and the Thought Adjuster will automatically turn intellectual comprehension into soul-felt truth experience. But if the direct encounter with revealed truth embodied in the living presence of the Creator Son can be recognized only in the mind, what about revealed truth in the form of a book of words?
 
 There is another issue as well to consider. To what degree do we contaminate revealed truth by the unsurprising tendency to understand new truth using old, comfortable, evolutionary methods; by projecting onto such truth existing human beliefs, even if updated into _Urantia Book_ terminology to impersonate new understanding, especially when such revealed truth is rooted in the personal interpretation of others. Taking comfort in what we already know, such reliance speaks of the theological authority of the evolutionary religions instead of making use of the direct, personal experience and perception of revealed truth that is a hallmark of the planned revelations designed to fuel our growth. Just as lipstick on a pig doesn’t alter the underlying animal characteristics, if we employ evolutionary techniques and recognitions of authoritative education and religion to validate newly-revealed truth, that won’t really conceal the old evolutionary wineskins in which we chose to package the new wine—ostensibly to make it easier to share with others.  But such a sea change in consciousness is not always so easy to accomplish:  As we are told,
 
-> _…it requires courage to invade new levels of experience and to attempt the exploration of unknown realms of intellectual living.”_  [[UB 101:7.2](/en/The_Urantia_Book/101#p7_2)]
+> _…it requires courage to invade new levels of experience and to attempt the exploration of unknown realms of intellectual living.”_  <a id="a62_135"></a>[[UB 101:7.2](/en/The_Urantia_Book/101#p7_2)]
 
 ## Urantia Book Internet School (UBIS) – _An Encounter with Revealed Truth_
 
 ### Educational Purpose
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/UBIS-graphic.jpg">
+<img src="/image/article/IUA_Journal/UBIS-graphic.jpg">
 </figure>
 
 The content of _The Urantia Book_ differs from any other teaching whereas it is intellectual in the discovery of facts about our planet, morontial in the presentation of new concepts of Deity and the universal organization, and spiritual through a renewed presentation of truth throughout the book and in the religious life and teachings of Jesus. The author-revelators have assembled an impressive series of 196 papers (plus a detailed Foreword), logically organized from the transcendent to the immanent, presented as courses of which THEY are the teachers and perfectly adapted to our language and our understanding.
@@ -60,7 +84,7 @@ At the end of the day, if the system of spiritual education is not doing all of 
 ### Pedagogy
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/UBIS-Board-300x181.jpg">
+<img src="/image/article/IUA_Journal/UBIS-Board-300x181.jpg">
 </figure>
 
 In 1998, a collaboration between Dorothy Elder, a long-time reader and experienced teacher by profession, and Urantia Foundation Trustee Georges Michelson-DuPont to develop an internet school to facilitate the encounter with the revealed truths in _The Urantia Book_ gave birth to UBIS (Urantia Book Internet School), a service of Urantia Foundation. The primary guiding principle undergirding the school’s pedagogy was informed wholly by the book’s revelation itself, from top to bottom without intermediary—the true teachers are the revelators, the Spirit of Truth, the Thought Adjuster. The UBIS TFs facilitate the encounter with new and living truth in order to stimulate the students’ self-discovery, experience, and perception of that truth. The design was simple.  But to be effective it needed to resist the siren call of interpretive teaching so that the unique personalities of the school’s students might encounter, discover, and express new truth as taught by the truth revealers and rendered genuine by Michael’s Spirit of Truth and the Adjuster; then to mutually and lovingly share their perceptions with fellow students in their own unique and direct ways as they together weave a multi-dimensional understanding of encountered truth reflective of Supreme meanings and values.  Teacher-Facilitators (TFs) trained in this pedagogical design and implement the courses offered by UBIS.
@@ -107,7 +131,7 @@ Along with these creatively TF-designed courses, UBIS offers a Core Curriculum P
 
 ## Our UBIS Educational Promise: _Personally-Discovered Truth_
 
-> _Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father’s will, to find God and to become like him.  There is never conflict between true knowledge and truth. There may be conflict between knowledge and human beliefs, beliefs colored with prejudice, distorted by fear, and dominated by the dread of facing new facts of material discovery or spiritual progress._ [[UB 132:3.4](/en/The_Urantia_Book/132#p3_4)]
+> _Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father’s will, to find God and to become like him.  There is never conflict between true knowledge and truth. There may be conflict between knowledge and human beliefs, beliefs colored with prejudice, distorted by fear, and dominated by the dread of facing new facts of material discovery or spiritual progress._ <a id="a133_665"></a>[[UB 132:3.4](/en/The_Urantia_Book/132#p3_4)]
 
 ## Summary
 
@@ -120,3 +144,27 @@ In such a context, UBIS has been designed to utilize a pedagogy and methodology 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2018/
 - This article: https://urantia-association.org/personal-exp-revealed-truth
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose of the Fifth Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="pr-2">The Eyedropper, Spoon, and Shovel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

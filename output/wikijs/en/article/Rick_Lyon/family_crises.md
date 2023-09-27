@@ -9,11 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Rick Lyon<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Eyedropper, Spoon, and Shovel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Adapted from a presentation given at Midwest Conference 2018)_
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Rick-Lyon-150x150.jpg">
+<img src="/image/article/IUA_Journal/Rick-Lyon-150x150.jpg">
 </figure>
 
 All of us have faced a family crisis at some point—actually multiple points—in our lives. Some we create; some we fall victim to; and some that just happen.
@@ -25,7 +46,7 @@ Let us look at my own personal family crisis as an example. The major crisis in 
 Brad had problems even before he was born and when the happy day came it was soon apparent that his problems were not over. His first month of life was filled with episodes of projectile vomiting and no dirty diapers. The doctors said that it was just the formula so try something different. We did—several times. Breastfeeding was totally out of vogue at that time so it wasn’t even considered. We put our trust in our old family doctor until Brad’s young inexperienced mother finally threw a screaming temper tantrum in the doctor’s office.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/bl-150x150.jpg">
+<img src="/image/article/IUA_Journal/bl-150x150.jpg">
 <figcaption><em>Brad Lyon</em></figcaption>
 </figure>
 
@@ -63,11 +84,11 @@ I struggled with these questions for many years. I suspect that all parents of a
 
 The first question, “Why is Brad the way he is?” is one that all parents of a handicapped child will ask and the next one is usually “Why did God let his happen? Or even worse, “Why did God do this to my child?” The conclusion that I came to was that we live a material life with material bodies and like any material thing on an imperfect world, they are sometimes defective and sometimes break or go bad or eventually wear out.
 
-> Jesus said, _In the matter of sickness and health, you should know that these bodily states are the result of material causes; health is not the smile of heaven, neither is affliction the frown of God._ [[UB 166:4.10](/en/The_Urantia_Book/166#p4_10)]
+> Jesus said, _In the matter of sickness and health, you should know that these bodily states are the result of material causes; health is not the smile of heaven, neither is affliction the frown of God._ <a id="a86_205"></a>[[UB 166:4.10](/en/The_Urantia_Book/166#p4_10)]
 
 The difficulties of Brad’s life were not in any way a sign of God’s disfavor with him or us. Brad was simply an innocent victim of one of the material accidents of time. Such occurrences are not pre-arranged or otherwise produced by the spiritual forces of the realm. Our Father does not cause or send pain and suffering upon us.
 
-> _The Father causes his rain to fall on the just and the unjust; the sun likewise shines on the righteous and the unrighteous…_ [[UB 166:4.4](/en/The_Urantia_Book/166#p4_4)]
+> _The Father causes his rain to fall on the just and the unjust; the sun likewise shines on the righteous and the unrighteous…_ <a id="a90_129"></a>[[UB 166:4.4](/en/The_Urantia_Book/166#p4_4)]
 
 I think this quote means that bad things happen to good people just as good things happen to bad people. The situations in life are different for each person but our lives are made up of both good and bad events regardless of who we are or what kind of person we are. If I have learned anything from my 65 years on this planet it is that good things often come from bad experiences. Often there are unforeseen benefits to suffering or the difficulties and disappointments of life.
 
@@ -77,18 +98,18 @@ From _The Urantia Book_ we are told:
 
 > The uncertainties of life and the vicissitudes of existence do not in any manner contradict the concept of the universal sovereignty of God. All evolutionary creature life is beset by certain inevitabilities. Consider the following:
 > 
-> _Is courage—strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments._ [[UB 3:5.6](/en/The_Urantia_Book/3#p5_6)]
+> _Is courage—strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments._ <a id="a100_167"></a>[[UB 3:5.6](/en/The_Urantia_Book/3#p5_6)]
 > 
-> _Is altruism—service of one’s fellows—desirable? Then must life experience provide for encountering situations of social inequality._ [[UB 3:5.7](/en/The_Urantia_Book/3#p5_7)]
+> _Is altruism—service of one’s fellows—desirable? Then must life experience provide for encountering situations of social inequality._ <a id="a102_136"></a>[[UB 3:5.7](/en/The_Urantia_Book/3#p5_7)]
 > 
-> _Is hope—the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties._ [[UB 3:5.8](/en/The_Urantia_Book/3#p5_8)]
+> _Is hope—the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties._ <a id="a104_143"></a>[[UB 3:5.8](/en/The_Urantia_Book/3#p5_8)]
 > 
-> _Is faith—the supreme assertion of human thought—desirable? Then must the mind of man find itself in that troublesome predicament where it ever knows less than it can believe._ [[UB 3:5.9](/en/The_Urantia_Book/3#p5_9)]
+> _Is faith—the supreme assertion of human thought—desirable? Then must the mind of man find itself in that troublesome predicament where it ever knows less than it can believe._ <a id="a106_179"></a>[[UB 3:5.9](/en/The_Urantia_Book/3#p5_9)]
 > 
-> _Is pleasure—the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities._ [[UB 3:5.14](/en/The_Urantia_Book/3#p5_14)]
+> _Is pleasure—the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities._ <a id="a108_194"></a>[[UB 3:5.14](/en/The_Urantia_Book/3#p5_14)]
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Stars-and-cave-300x201.jpg">
+<img src="/image/article/IUA_Journal/Stars-and-cave-300x201.jpg">
 </figure>
 
 We are also told that the greatest affliction is to have never been afflicted. It is often the bad things in life that make us appreciate the good. It is the ugliness in this world that makes us appreciate the beauty of God’s creation. It is the potential of evil that gives us the opportunity to choose the good. Stars are best discerned from the lonely isolation of experiential depths, not from the illuminated and ecstatic mountaintops.
@@ -101,9 +122,9 @@ Something went wrong during the material development of Brad’s physical body. 
 
 The second question, “What will happen to Brad if we die?” is a question concerning the care of Brad while here on Urantia. Since Brad has gone before us this is no longer of concern. However, let me share these quotes that I think relate to Brad’s mortal life.
 
-> _The teaching about guardian angels is not a myth; certain groups of human beings do actually have personal angels. It was in recognition of this that Jesus, in speaking of the children of the heavenly kingdom, said: ‘Take heed that you despise not one of these little ones, for I say to you, their angels do always behold the presence of the spirit of my Father.’_ [[UB 113:1.1](/en/The_Urantia_Book/113#p1_1)]
+> _The teaching about guardian angels is not a myth; certain groups of human beings do actually have personal angels. It was in recognition of this that Jesus, in speaking of the children of the heavenly kingdom, said: ‘Take heed that you despise not one of these little ones, for I say to you, their angels do always behold the presence of the spirit of my Father.’_ <a id="a124_368"></a>[[UB 113:1.1](/en/The_Urantia_Book/113#p1_1)]
 > 
-> _Originally, the seraphim were definitely assigned to the separate Urantia races. But since the bestowal of Michael, they are assigned in accordance with human intelligence, spirituality, and destiny. Intellectually, mankind is divided into three classes:_ [[UB 113:1.2](/en/The_Urantia_Book/113#p1_2)]
+> _Originally, the seraphim were definitely assigned to the separate Urantia races. But since the bestowal of Michael, they are assigned in accordance with human intelligence, spirituality, and destiny. Intellectually, mankind is divided into three classes:_ <a id="a126_259"></a>[[UB 113:1.2](/en/The_Urantia_Book/113#p1_2)]
 
 The first classification is:
 
@@ -137,7 +158,7 @@ Does a person of subnormal mind survive mortal death? Let me point out that:
 
 Finaliters, Melchizedeks, seraphim, cherubim, and surviving parents all are involved in the mortal and post-mortal life of these undeveloped souls. Education and training in infant-receiving schools are provided to prepare these children of time for the ultimate adventure. A corps of seraphim and a battalion of cherubim watch over the mortal life of the subnormal minded. It seems that a lot of effort is put forth to care for these imperfect children of this imperfect material world. So apparently they must have potential survival value. There is in _The Urantia Book_ an entire sentence that is in italics:
 
-> _Nothing of survival value is ever lost in all the wide universe._ [[UB 109:3.2](/en/The_Urantia_Book/109#p3_2)]
+> _Nothing of survival value is ever lost in all the wide universe._ <a id="a160_69"></a>[[UB 109:3.2](/en/The_Urantia_Book/109#p3_2)]
 
 We see in _The Urantia Book_ that potential is very important for it is not what we are, but what we are becoming that is important. In this spiritual universe, I suspect that only real or potential spiritual value is worthy of the efforts of angels and spiritual beings. I now believe that we are assured that the material difficulties and physical imperfections of Brad’s mortal life do not follow him or hinder his potential for an eternal spiritual life or in any way prevent his survival and attainment of the presence of God.
 
@@ -146,7 +167,7 @@ I now believe that because of the patience, tolerance, understanding, and mercif
 The failure to make a final choice concerning God before mortal death will not prevent Brad’s survival and advancement to the mansion worlds. The mental handicaps of my son will not prevent him from being given full and ample opportunity to make one irrevocable, self-conscious, and final choice.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Sea-shore-300x196.jpg">
+<img src="/image/article/IUA_Journal/Sea-shore-300x196.jpg">
 </figure>
 
 I am convinced that Brad is now sleeping, awaiting for his mom or I to arrive and awaken him on the mansion world; where perhaps for the first time he will make a clear and conscious choice about his future.
@@ -168,13 +189,13 @@ I came from feeling somehow responsible for his handicaps—and disappointment t
 
 Here are a couple of last quotes about crisis:
 
-> Rodan said: _But the greatest of all methods of problem solving I have learned from Jesus, your Master. I refer to that which he so consistently practices, and which he has so faithfully taught you, the isolation of worshipful meditation. In this habit of Jesus’ going off so frequently by himself to commune with the Father in heaven is to be found the technique, not only of gathering strength and wisdom for the ordinary conflicts of living, but also of appropriating the energy for the solution of the higher problems of a moral and spiritual nature._ [[UB 160:1.10](/en/The_Urantia_Book/160#p1_10)]
+> Rodan said: _But the greatest of all methods of problem solving I have learned from Jesus, your Master. I refer to that which he so consistently practices, and which he has so faithfully taught you, the isolation of worshipful meditation. In this habit of Jesus’ going off so frequently by himself to commune with the Father in heaven is to be found the technique, not only of gathering strength and wisdom for the ordinary conflicts of living, but also of appropriating the energy for the solution of the higher problems of a moral and spiritual nature._ <a id="a191_558"></a>[[UB 160:1.10](/en/The_Urantia_Book/160#p1_10)]
 > 
-> _The Master well knew that many of his followers were slowly but surely preparing their minds finally to reject him. He likewise knew that many of his disciples were slowly but certainly passing through that training of mind and that discipline of soul which would enable them to triumph over doubt and courageously to assert their full-fledged faith in the gospel of the kingdom._ _Jesus fully understood how men prepare themselves for the decisions of a crisis and the performance of sudden deeds of courageous choosing by the slow process of the reiterated choosing between the recurring situations of good and evil. He subjected his chosen messengers to repeated rehearsals in disappointment and provided them with frequent and testing opportunities for choosing between the right and the wrong way of meeting spiritual trials. He knew he could depend on his followers, when they met the final test, to make their vital decisions in accordance with prior and habitual mental attitudes and spirit reactions._ [[UB 153:1.3](/en/The_Urantia_Book/153#p1_3)]
+> _The Master well knew that many of his followers were slowly but surely preparing their minds finally to reject him. He likewise knew that many of his disciples were slowly but certainly passing through that training of mind and that discipline of soul which would enable them to triumph over doubt and courageously to assert their full-fledged faith in the gospel of the kingdom._ _Jesus fully understood how men prepare themselves for the decisions of a crisis and the performance of sudden deeds of courageous choosing by the slow process of the reiterated choosing between the recurring situations of good and evil. He subjected his chosen messengers to repeated rehearsals in disappointment and provided them with frequent and testing opportunities for choosing between the right and the wrong way of meeting spiritual trials. He knew he could depend on his followers, when they met the final test, to make their vital decisions in accordance with prior and habitual mental attitudes and spirit reactions._ <a id="a193_1014"></a>[[UB 153:1.3](/en/The_Urantia_Book/153#p1_3)]
 
 Perhaps the repeated crises of our lives are this same kind of training for us. Exposing us to the ups and downs of life, the joy of victory and the agony of defeat until we develop good problem-solving habits without crumbling during a crisis or getting too full of ourselves in our successes.
 
-> _Before Jesus was put on his cross, the two brigands had already been placed on their crosses, all the while cursing and spitting upon their executioners. Jesus’ only words, as they nailed him to the crossbeam, were,_ _“Father, forgive them, for they know not what they do.”_ _He could not have so mercifully and lovingly interceded for his executioners if such thoughts of affectionate devotion had not been the mainspring of all his life of unselfish service. The ideas, motives, and longings of a lifetime are openly revealed in a crisis_. [[UB 187:2.4](/en/The_Urantia_Book/187#p2_4)]
+> _Before Jesus was put on his cross, the two brigands had already been placed on their crosses, all the while cursing and spitting upon their executioners. Jesus’ only words, as they nailed him to the crossbeam, were,_ _“Father, forgive them, for they know not what they do.”_ _He could not have so mercifully and lovingly interceded for his executioners if such thoughts of affectionate devotion had not been the mainspring of all his life of unselfish service. The ideas, motives, and longings of a lifetime are openly revealed in a crisis_. <a id="a197_545"></a>[[UB 187:2.4](/en/The_Urantia_Book/187#p2_4)]
 
 What do our words, actions, and feelings—our emails, tweets, and Facebook posts—during past crises tell us about ourselves? What does this tell us about what we need to do to become better crisis managers in our families? When a crisis is over, we all have things we wish we had said, things we wish we had not said; things we wish we had done, things we wish we had not done.
 
@@ -190,7 +211,7 @@ So, let’s change gears a bit.
 
 > _Christianity is seriously confronted with the doom embodied in one of its own slogans:_
 > 
-> _A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom. The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual, and is characterized by unity._ [[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)]
+> _A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom. The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual, and is characterized by unity._ <a id="a213_299"></a>[[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)]
 
 We can see in _The Urantia Book_ that many splits and divisions have occurred in the past within the community of believers in Jesus.  Abner split from the Apostles.  Nathaniel split from the Apostles when they changed the gospel. There was the great Schism of 1054, that brought about the final separation between the Eastern Christian churches and the Western church led by Pope Leo IX that did not end (kind of) until 1965.
 
@@ -228,7 +249,7 @@ If you are ennobled, by the grace of faith, to love unbelievers, should you not 
 
 Jesus said:
 
-> _Go, then, into all the world proclaiming this gospel of the fatherhood of God and the brotherhood of men to all nations and races and ever be wise in your choice of methods for presenting the good news to the different races and tribes of mankind. Freely you have received this gospel of the kingdom, and you will freely give the good news to all nations. Fear not the resistance of evil, for I am with you always, even to the end of the ages. And my peace I leave with you.”_ [[UB 191:4.4](/en/The_Urantia_Book/191#p4_4)]
+> _Go, then, into all the world proclaiming this gospel of the fatherhood of God and the brotherhood of men to all nations and races and ever be wise in your choice of methods for presenting the good news to the different races and tribes of mankind. Freely you have received this gospel of the kingdom, and you will freely give the good news to all nations. Fear not the resistance of evil, for I am with you always, even to the end of the ages. And my peace I leave with you.”_ <a id="a251_480"></a>[[UB 191:4.4](/en/The_Urantia_Book/191#p4_4)]
 
 
 ## References
@@ -236,3 +257,24 @@ Jesus said:
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2018/
 - This article: https://urantia-association.org/family-crises
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Eyedropper, Spoon, and Shovel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

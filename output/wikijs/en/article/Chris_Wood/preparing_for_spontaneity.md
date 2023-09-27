@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Chris Wood<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Making Worship and Service the Center of Our Lives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/millennials_and_the_church">
+          <span class="pr-2">Millennials and the Church</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Necessary Work to Avoid Sounding Crazy
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Chris-Wood-2021-150x150.jpg">
+<img src="/image/article/IUA_Journal/Chris-Wood-2021-150x150.jpg">
 </figure>
 
 (Adapted from a presentation given at the first 24-hour online event in March 2020.)
@@ -36,7 +60,7 @@ In order to prepare for these discussions, we need an honest examination of our 
 ### _The Things I Believe Sound Crazy_
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Weird-Words-4-300x200.jpg">
+<img src="/image/article/IUA_Journal/Weird-Words-4-300x200.jpg">
 </figure>
 
 In 2013 the Foundation, Fellowship and Association coordinated to hire a Media Training Team to come to Chicago and give us a brief analysis of our strengths and pitfalls as a community.
@@ -61,7 +85,7 @@ There are innumerable ways to categorize a large population, including education
 **1\. Those who have neither heard of _The Urantia Book_ nor been touched by one of its teachings.**
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Weird-Words-2-300x225.jpg">
+<img src="/image/article/IUA_Journal/Weird-Words-2-300x225.jpg">
 </figure>
 
 Here is your base group. They probably have heard “Urantia-like” teaching in their life, but perhaps they have not yet had that “A-ha!” moment. I’m stealing this example from Jeff Wattles who might be stealing it from someone else, but there are two versions of Jesus that are emphasized in Christianity. One is that of Jesus on the Cross who is sacrificing himself for the sins of the world. The other is the Jesus who cleansed the temple, who chased away all those who stand between Man and God. It is this second Jesus who Dr. Wattles would emphasize in his classes, and for me this was a great A-ha! realization about the ways I can reach American Christians. Surely, they knew of Jesus and the temple, but perhaps they had not yet emphasized it as an important part of their own religion.
@@ -130,7 +154,7 @@ This is basic outreach training. It is the duty of each of us to prepare for thi
 Yes, the Urantia community has developed our own shorthand language, but so too has each religious community and interest group. No one person can be expected to learn all of the special languages. The best we can do is to learn a few that interest us. After years of hosting booths at book fairs, mind/body/spirit expos, and other events where we hope we might spark some interest, our community has some idea of which events bear the most fruit. I have been told that our most successful expos are UFO/Alien/SciFi events. These are our people! Alas, I do not speak that language. But I do speak Philosopher. I often describe my path to knowing God in the terms of Descartes. Because I speak Philosopher, I also speak Atheist, which is to say that I can speak to those who value reason and logic above faith. I am also an air traffic controller so can speak that language (short sentences, no excessive details or words, nouns are probably unnecessary. I have never met an adverb that I like.) I recently joined our local Presbyterian Church and am learning to speaking their Christian dialect.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Weird-Words-5-300x225.jpg">
+<img src="/image/article/IUA_Journal/Weird-Words-5-300x225.jpg">
 </figure>
 
 And Christian is an interesting language, very different from the Philosopher’s language. I attended this Bible study where they have us read selected passages from all over the Bible. So they took this passage from the Book of Isaiah, which if you haven’t read it lately, take it out and give it a spin. It’s kind of like a scene from the Godfather where God is the mean, violent mob boss, and Israel is the humble baker. God says, “I am powerful and have you seen all these people I have killed, these tribes I have crushed, these lands I have scorched? But you, Israel, oh, you are my friend. I want you to be happy, and your children to feel safe, because you are my friend. Of course, if you weren’t my friend I could devastate you and your entire line and mangle you until you are nothing but dust. But I won’t do that, because we are friends, so how about a nice sacrifice every now and then?”
@@ -145,14 +169,14 @@ So in this Bible study, the paragraph they have us read only has God saying, “
 Short bridges connect small distances. Big bridges can scan a much larger gap, but they are also harder to build and present unknown challenges. In Prague, there is one bridge called the Suicide Bridge, because it’s the only bridge in town that is high enough that if you jump off it you will actually die. It’s safer to build small bridges. You and your life do half the work. Yes, it is too much to ask any one person to bridge all communities, but you move freely between several communities throughout your day, from your profession to your church to friends to your hobbies to your Urantia studies. You need only to build small bridges to connect these groups and the languages you already speak.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Bridges-2-300x201.jpg">
+<img src="/image/article/IUA_Journal/Bridges-2-300x201.jpg">
 </figure>
 
 Building a bridge is not an easy task for everyone. Some can do it naturally, but for most it is a conscious task that takes practice. Do you know the language of your own faith? Do you know the language of your audience? Can you translate between the two? Are you willing to practice?
 
 If nothing else, most everyone speaks generic American English. If you can translate key tenants of your faith into standard language, then you can communicate your inner life with others.
 
-_The Urantia Book_ informs us: “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God…” [[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]. If you believe, like I do, that our relationship with God leads to service to others, and if doing God’s will is to share our inner life, then can we agree that part of our service to others involves sharing our inner life with them?
+_The Urantia Book_ informs us: “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God…” <a id="a178_163"></a>[[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]. If you believe, like I do, that our relationship with God leads to service to others, and if doing God’s will is to share our inner life, then can we agree that part of our service to others involves sharing our inner life with them?
 
 I could cut and paste quotes from _The Urantia Book_ making the case that Jesus naturally followed a method similar to the one discussed here, that he was the one person able to bridge all communities, that he went out of his way to learn the cultural language of all communities, that he would probe people to determine where they were in their spiritual life and to offer them a small lesson that would lift them to the next level. Instead, I’ll end with four paragraphs from Paper 132 “The Sojourn at Rome,” Section 4 “Personal Ministry.” It says in one page what I would in ten.
 <br style="clear:both;"/>
@@ -171,3 +195,27 @@ I could cut and paste quotes from _The Urantia Book_ making the case that Jesus 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
 - This article: https://urantia-association.org/preparing-for-spontaneity
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Making Worship and Service the Center of Our Lives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/millennials_and_the_church">
+          <span class="pr-2">Millennials and the Church</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

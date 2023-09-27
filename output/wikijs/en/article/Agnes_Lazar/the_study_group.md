@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Agnes Lazar<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_editorial_november_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial November 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_revisited">
+          <span class="pr-2">Study Groups Revisited</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Capture-Brochure-Fr-150x150.jpg">
+<img src="/image/article/IUA_Journal/Capture-Brochure-Fr-150x150.jpg">
 </figure>
 
 In this article, I wish to share some reflections that have been long maturing, the result of which are experiences in the bosom of different study groups, including one I initiated 16 years ago.
@@ -40,3 +64,27 @@ The group offers a potential space to work on oneself, to reduce the exaltation 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2019/
 - This article: https://urantia-association.org/the-study-group
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_editorial_november_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial November 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_revisited">
+          <span class="pr-2">Study Groups Revisited</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

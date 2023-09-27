@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Suzanne Kelly<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2018_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — November 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="pr-2">The Purpose of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Suzanne-Kelly-150x150.jpg">
+<img src="/image/article/IUA_Journal/Suzanne-Kelly-150x150.jpg">
 </figure>
 
 Greetings fellow Urantia Book readers,
@@ -21,7 +45,7 @@ In this November edition of _Journal_ we have several essays that focus on the p
 Another question presented was about how we accomplish the spreading of these truths. Should we be a disciple or an apostle? As a disciple we become a follower or student of a teacher: “One difference between discipleship and apostleship as announced by Jesus is that, in undertaking apostleship, we elect to represent him in the world in the same way that, in his human life on Urantia, he represented the Father. This is certainly a rigorous undertaking, for it is not by the words we speak but by the lives we live that we will represent Jesus to the world.” Our authors succinctly address this directive “to farsighted men and women of spiritual insight and with the necessary skills and abilities, using _The Urantia Book_ as source material, to conduct those secondary works that will permit the teachings of the book to penetrate to all segments of all societies and thus…
 <br style="clear:both;"/>
 
-> _…attract all that is good in the mind of man and challenge that which is best in the human soul._ [[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)]
+> _…attract all that is good in the mind of man and challenge that which is best in the human soul._ <a id="a47_101"></a>[[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)]
 
 Are you a disciple or an apostle?
 
@@ -32,7 +56,7 @@ evolutionary techniques of education or can revealed truth be comprehended using
 
 Providing us a history of the development of UBIS, David awards us with the methodology its success has established by following the question and answer lead of Jesus contained in the UBIS promise: “…to facilitate students’ personal discovery of truth before sharing that discovery with fellow students.”
 
-> _Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father’s will, to find God and to become like him.  There is never conflict between true knowledge and truth. There may be conflict between knowledge and human beliefs, beliefs colored with prejudice, distorted by fear, and dominated by the dread of facing new facts of material discovery or spiritual progress._ [[UB 132:3.4](/en/The_Urantia_Book/132#p3_4)]
+> _Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father’s will, to find God and to become like him.  There is never conflict between true knowledge and truth. There may be conflict between knowledge and human beliefs, beliefs colored with prejudice, distorted by fear, and dominated by the dread of facing new facts of material discovery or spiritual progress._ <a id="a58_665"></a>[[UB 132:3.4](/en/The_Urantia_Book/132#p3_4)]
 
 David Linthicum delivers our third essay **The Eyedropper, Spoon, and Shovel**, which is a delightful primer on introducing the fifth epochal revelation to his family and friends. It began with a workshop at the UAUS conference in San Antonio, Texas in 2016 and became fully developed as a 2018 plenary at the Netherlands international conference. David gives us the history of his attempts to spread the truth he found after reading _The Urantia Book_, many of which failed “dismally.” After participating as a booth volunteer at the 2015 Parliament of the World’s Religions in Salt Lake City, Utah, he discovered the best way to spread the word: “The magic moment came when a visitor asked me what I thought of the book. That is when I hit my comfort zone. _The Urantia Book_ had a profound impact on my life and I was eager to share what I had learned and how it changed my life. We ended up talking for about an hour. After that exchange I felt energized and confident.”
 
@@ -45,3 +69,27 @@ The final essay, **Family Crisis** was adapted from a deeply personal presentati
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2018/
 - This article: https://urantia-association.org/journal-editorial-nov-2018
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2018_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — November 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="pr-2">The Purpose of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

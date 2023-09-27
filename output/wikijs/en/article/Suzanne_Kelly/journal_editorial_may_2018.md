@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Suzanne Kelly<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2018_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="pr-2">A Jesusonian Calling to Go the Third Mile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Suzanne-editorial-150x150.jpg">
+<img src="/image/article/IUA_Journal/Suzanne-editorial-150x150.jpg">
 </figure>
 
 Greetings, fellow Urantia Book readers. In our May edition, we have several essays that focus on the personal spiritual experience between man and God that _The Urantia Book_ so eloquently tries to convey. Seek and you shall find, and as you read these incredibly introspective epiphanies perhaps you might feel what the authors felt as they wrote their reflections down, leaving the energy there for us all to find and absorb.
@@ -29,11 +53,11 @@ Our first essay is **A Jesusonian Calling** by Dr. Bruce Jackson. It is difficu
 
 Dr. Jackson has gone the first mile, laid down the path to the second and made the third mile possible. He says, “_The Urantia Book_ clearly calls Jesusonians to this task. The fifth epochal revelation has not been entrusted to us to hide under a bushel for our own spiritual enlightenment or private enjoyment. Consider the following quote, and instead of ‘Christianity,’ insert ‘Jesusonians’”:
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ <a id="a55_591"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 **Doing the will of God** by Bob Ghen, Sr. falls nicely into place as the next essay in the personal experience genre. Bob light-heartedly takes us on a personal journey to “find the will of God” in his colorful daily existence. He says, “Yet for a time, I continued to falsely believe that doing the will of God was somehow about figuring it out at each and every turn, every fork in the road. After all, aren’t we also taught that we advance spiritually, decision by decision? But uh-oh, what if I make the wrong one? Sheesh! But after taking a closer look at the quote:
 
-> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God . . ._ [[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
+> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God . . ._ <a id="a59_139"></a>[[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
 
 Bob was able to succinctly examine just what that meant. By asking, “But do what exactly, and how? And establishing a habitual spiritual pulse with intelligent prayer and sincere worship.”  This was the beginning of the plan that brought him to an enlightened and uplifting epiphany, “Doing the will of God has led me to my overarching spiritual beacon, the Jesusonian ideal of ‘unbroken communion.’” His erudite conclusion will speak to your will as well.
 
@@ -45,10 +69,34 @@ The final essay is another compelling article adapted from a presentation given 
 
 Gaetan has trodden the trail each new reader took and expressed confidently, “We found _The Urantia Book_ because we were searching for the truth it contains. The responsibility for sharing truth now rests with us. We must make this truth live in our hearts as we team together in unselfish service, helping inaugurate this next era of liberty.” If we sincerely desire to improve the world in which we live, each of us must put our grain of salt in it.
 
-> _You are the salt of the earth, salt with a saving savor. But if this salt has lost its savor, wherewith shall it be salted? It is henceforth good for nothing but to be cast out and trodden under foot of men._ [[UB 140:4.2](/en/The_Urantia_Book/140#p4_2)]
+> _You are the salt of the earth, salt with a saving savor. But if this salt has lost its savor, wherewith shall it be salted? It is henceforth good for nothing but to be cast out and trodden under foot of men._ <a id="a71_212"></a>[[UB 140:4.2](/en/The_Urantia_Book/140#p4_2)]
 
 ## References
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2018/
 - This article: https://urantia-association.org/journal-editorial-may-2018
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2018_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2018 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="pr-2">A Jesusonian Calling to Go the Third Mile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

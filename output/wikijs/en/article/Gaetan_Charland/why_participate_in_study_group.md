@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Gaétan Charland<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Hazards of a Decimal Planet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Gaetn-Charland-150x150.jpg">
+<img src="/image/article/IUA_Journal/Gaetn-Charland-150x150.jpg">
 </figure>
 
 As a student of _The Urantia Book_ and longtime host and member of study groups, I have always been more than interested in their value to the mission of _The Urantia Book_. I have throughout the years organized many activities to promote not only the creation of new study groups, but also to explore their purpose in the plan to disseminate the teachings of the book. I also believe that study groups are an ideal place to create new kinds of spiritual leaders and teachers who are in harmony with the teachings of Jesus.
@@ -28,7 +49,7 @@ Association with other readers in the context of a study group protects us from 
 
 In the introduction to _The Urantia Book,_ the revelators inform us about the state of our minds, and here is what a Divine Counselor tells us:
 
-> IN THE MINDS of the mortals of Urantia — that being the name of your world — there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations. [Foreword [UB 0:0.1](/en/The_Urantia_Book/0#p0_1)]
+> IN THE MINDS of the mortals of Urantia — that being the name of your world — there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations. <a id="a51_320"></a>[Foreword [UB 0:0.1](/en/The_Urantia_Book/0#p0_1)]
 
 Who among us has not found it difficult to understand what this Divine Counselor was telling us in the Foreword of the book? Who among us, after several readings, still does not have some difficulty understanding certain concepts, let alone appropriating spiritual truths?
 
@@ -75,7 +96,7 @@ I have heard a multitude of testimonials from readers about the benefits of a st
 There are tremendous benefits to starting a study group or becoming one of its participants.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/20170405_225224-706x530.jpg">
+<img src="/image/article/IUA_Journal/20170405_225224-706x530.jpg">
 </figure>
 
 ## Mission, philosophy, and purpose of a study group
@@ -88,17 +109,17 @@ In a study group where the host knows the mission and purpose of the study group
 
 The mission of a study group in harmony _with The Urantia Book,_ is to expand cosmic consciousness and enhance spiritual perception while bringing to life the Gospel of Jesus based on the Fatherhood of God and the brotherhood of man.
 
-Philosophically and spiritually, study groups could be defined as a gathering of sons of God in association with the Spirit of Truth who unite in a sincere desire to study and bring to life the teachings of _The Urantia Book_. This teamwork is fostered by the Union of Souls [[UB 160:2.7](/en/The_Urantia_Book/160#p2_7)]. By such teamwork, the teachings of _The Urantia Book_, and specifically the gospel of Jesus, will be effectively disseminated and will transform the world.
+Philosophically and spiritually, study groups could be defined as a gathering of sons of God in association with the Spirit of Truth who unite in a sincere desire to study and bring to life the teachings of _The Urantia Book_. This teamwork is fostered by the Union of Souls <a id="a111_275"></a>[[UB 160:2.7](/en/The_Urantia_Book/160#p2_7)]. By such teamwork, the teachings of _The Urantia Book_, and specifically the gospel of Jesus, will be effectively disseminated and will transform the world.
 
 We need to remember that we are in a relationship with a revelation that is under Michael’s supervision. When we contribute to this revelation through study groups, and when we gather in a context of study and sharing, Michael is present among us. We could say that we are in a sacred space where the Spirit of Truth not only accompanies us but collaborates effectively with our divine Monitor to spiritualize us. It is also likely that celestial observers are watching us while our guardian angels rejoice in our association as potential sons of God.
 
 A study group is much more than just a social gathering of readers who wish to fellowship and study with people of common interest. Not only does it have an intellectual nature, but also a spiritual dimension that goes far beyond our mortal understanding. Study groups have immense repercussions and influence not only for our family members but also our social and cultural environments. They are the light in the darkness of a materialist and secularist world. They are the support and the ally of the revelation to our planet while giving hope to future generations of religionists. They are the melting pot where the ambassadors of the spiritual brotherhood are formed.
 
-Study group hosts are most likely to be under the supervision of the seraphic Religious Guardians [[UB 114:6.7](/en/The_Urantia_Book/114#p6_7)]. Their contribution to the mission of the revelation is assuredly imbued with a sacred nature that is blessed by our planetary supervisors. Study group hosts and their members are associated with a revelation of truth that is part of the natural evolution of religion on this world. They are the quiet, patient leaders and supporters of the revelation who advance the truth in all areas of society.
+Study group hosts are most likely to be under the supervision of the seraphic Religious Guardians <a id="a117_98"></a>[[UB 114:6.7](/en/The_Urantia_Book/114#p6_7)]. Their contribution to the mission of the revelation is assuredly imbued with a sacred nature that is blessed by our planetary supervisors. Study group hosts and their members are associated with a revelation of truth that is part of the natural evolution of religion on this world. They are the quiet, patient leaders and supporters of the revelation who advance the truth in all areas of society.
 
 In Paper 195 we are told:
 
-> The world needs to see Jesus living again on earth in the experience of spirit-born mortals who actually reveal the Master to all men. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+> The world needs to see Jesus living again on earth in the experience of spirit-born mortals who actually reveal the Master to all men. <a id="a121_137"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
 ## Study Group Goals
 
@@ -124,9 +145,9 @@ We must remember, a study group is not just a social gathering where we simply r
 
 I conclude by inviting you to meditate on these two quotes.
 
-> The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus’s brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh. “[[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]
+> The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus’s brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh. “<a id="a147_294"></a>[[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. “[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. “<a id="a149_131"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 I pray this article will help you to better understand the importance of the spiritual mission and purpose of study groups. Your continued contribution to the revelation as either a host or participant is of immense value to its success. Don’t wait for the perfect time to start one or to become a member of an existing group, the time is now!
 
@@ -135,3 +156,24 @@ I pray this article will help you to better understand the importance of the spi
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2022/
 - This article: https://urantia-association.org/why-participate-in-study-group
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Hazards of a Decimal Planet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

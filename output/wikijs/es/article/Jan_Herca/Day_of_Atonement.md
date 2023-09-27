@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/Jan_Herca/Day_of_Atonement/image_the_day_of_atonement_-_gospel_images_normal.jpg">
+<img src="/image/article/Jan_Herca/Day_of_Atonement/image_the_day_of_atonement_-_gospel_images_normal.jpg">
 <figcaption><em>© 2023 Jan van't Hoff. </em><a href="https://www.gospelimages.com/paintings/105/the-day-of-atonement?">GospelImages</a></figcaption>
 </figure>
 

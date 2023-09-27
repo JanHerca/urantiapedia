@@ -9,11 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Bruce Jackson<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparing for Spontaneity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## An Important Lesson for the Urantia Movement
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Bruce Jackson">
-<img src="../../../image/article/IUA_Journal/Bruce-Jackson-150x150.jpg">
+<img src="/image/article/IUA_Journal/Bruce-Jackson-150x150.jpg">
 </figure>
 
 The internet is full of articles, research, and advice concerning the serious loss of the millennial generation to the Christian church rosters around the world and in North America and Europe in particular.  The exodus of young adults from churches is nothing new, but it has become increasingly acute in the past decade and is a major concern of many churches and denominations. The Urantia movement is confronting much the same situation in our study groups and institutions.
@@ -49,7 +70,7 @@ The Barna Group, a highly respected Christian research organization, has recentl
 - The perception of those in this generation is that many Christians are overly **judgmental**.  The perception is that, rather than showing grace by finding the good in others and seeing their potential to be followers of Jesus, they are prideful and quick to find faults in others.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Abandoned-Church-7-300x200.jpg">
+<img src="/image/article/IUA_Journal/Abandoned-Church-7-300x200.jpg">
 </figure>
 
 Barna Group’s research acknowledges that young people are voting with their feet and leaving the church in droves.  When you compare the present generation of 16-29 year-olds with the Baby Boomer generation, twice as many say they neither have nor want any meaningful association with the church. The study also observes that when asked about Jesus, those same young people offer a much different response.  They like Jesus and identify with his message and his ministry. However, they simply think that the Christian church no longer represents what Jesus had in mind – that Christianity, as expressed by those professing the faith today, is not what it was meant to be.  All this has happened in the space of a single generation.
@@ -66,7 +87,7 @@ The [Pew Research Religious Landscape Study](http://www.pewforum.org/religious-l
 In a progressive church where I recently served as Music Director, a beautiful, charismatic, highly organized young millennial working on a masters in counseling was hired to develop a group of her compatriots into a ministry specifically designed for them. This project was organized with great care. Attention was given to the latest research and a plan incorporating many published suggestions for finding solutions to reaching out to millennials were thoughtfully designed and cultivated. While initially successful and full of exciting potential, within a year the initiative died and she left her post. Why?
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/crosses-Gerd-Altmann-706x397.jpg">
+<img src="/image/article/IUA_Journal/crosses-Gerd-Altmann-706x397.jpg">
 </figure>
 
 The modern Christian church is seriously confronted by a situation where the self-important grey-hair who has been warming the pew for forty years has a sense of ownership and entitlement that results in a knee-jerk reaction that runs off new folks who may be different, offer new ideas, or bring a new freshness to the church. Many contemporary church pastors are deeply confronted with the dilemma of biting the hand that feeds him/her. The result is that church staff watch their church suffer as the revolving door witnesses much needed new blood with new ideas to come and go. Many a sermon has been preached on this subject.
@@ -143,7 +164,7 @@ In a recent sermon Rev. Fred Leist, my current Methodist pastor, reviewed this l
 I would suggest that these words preached from a main-line pulpit on an ordinary Sunday morning should truly resonate within our Jesusonian community. It is important for our movement to take seriously these warnings being heard throughout Christendom. Should we ignore these words of wisdom, we will likely have the same problems that so many churches are experiencing today. 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Abandoned-Church-5-260x400.jpg">
+<img src="/image/article/IUA_Journal/Abandoned-Church-5-260x400.jpg">
 </figure>
 
 It is predicted that a significant percentage of Christian churches will close their doors in the next decade. This should offer extraordinary opportunities for the Urantia movement. It is time to take seriously the call to step up and really do the work to introduce this new revelation of God, Jesus, and eternal life within the Family of God. It is time for the Urantia movement to evolve, grow, and change by paying attention to the millennial generation and introduce them to the life changing message of spiritual truth; even _The Urantia Book_ if they are ready to hear, embrace, and live it. It is time for the Urantia movement to develop the mentors, leaders, teachers, and groups needed to support the next generation before us old folks die off. 
@@ -156,3 +177,24 @@ It is indeed time!  The fields are ripe, but the workers are so few.  Who will
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
 - This article: https://urantia-association.org/millennials-and-the-church
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparing for Spontaneity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

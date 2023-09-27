@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Christopher Ross<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Birth of the Spirit and Spiritual Maturity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Blackham/the_next_life">
+          <span class="pr-2">The Next Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Christopher-Ross-1-150x150.jpg">
+<img src="/image/article/IUA_Journal/Christopher-Ross-1-150x150.jpg">
 </figure>
 
 In the mid 1990’s, I worshiped at an Episcopal church in New York’s Greenwich Village. Taking the same pew week after week, as most people do, I often found myself sitting near an older woman named Barbara. Each week during the prayer of consecration, when the priest said, “Take this, all of you, and eat it: this is my body which will be given up for you,” he or she raised the host for all to see. The congregation, in response, made the sign of the cross. Barbara did that too, but invariably I also heard her whisper something. Likewise, when the chalice was raised, we made the sign of the cross and Barbara whispered something.
@@ -40,9 +64,9 @@ Whether one believes in transubstantiation, as do the Catholics, or in consubsta
 
 But how did this happen and what did I really see? As the story is related in _The Urantia Book_, Jesus says to Thomas, “Blessed are those _in the ages to come_ who will believe even though they have not seen with the eye of flesh nor heard with the mortal ear” (191:5:5, emphasis mine).
 
-I did not, therefore, see Jesus in the physical body he inhabited during his sojourn on Urantia, despite the Church’s belief in the resurrection of the body (see The Apostles’ Creed in _The Book of Common Prayer_). I saw what Jesus told his apostles future generations would see: “You behold me now… in the flesh, but when I return, it shall be … in the spirit.” Jesus explained, “The eye of flesh beholds the Son of Man in the flesh, but only the eye of the spirit will behold the Son of Man … appearing on earth….” ([UB 176:2.4](/en/The_Urantia_Book/176#p2_4)). Thus what _I_ saw, for a millisecond, was the spirit, revealed to me in the guise of a pair of sandals.
+I did not, therefore, see Jesus in the physical body he inhabited during his sojourn on Urantia, despite the Church’s belief in the resurrection of the body (see The Apostles’ Creed in _The Book of Common Prayer_). I saw what Jesus told his apostles future generations would see: “You behold me now… in the flesh, but when I return, it shall be … in the spirit.” Jesus explained, “The eye of flesh beholds the Son of Man in the flesh, but only the eye of the spirit will behold the Son of Man … appearing on earth….” (<a id="a66_518"></a>[UB 176:2.4](/en/The_Urantia_Book/176#p2_4)). Thus what _I_ saw, for a millisecond, was the spirit, revealed to me in the guise of a pair of sandals.
 
-Even more astounding, as if that were not enough, Jesus said on more than one occasion, “… the Father and I are one. He who has seen me has seen the Father” ([UB 157:6.13](/en/The_Urantia_Book/157#p6_13) and [UB 181:2.20](/en/The_Urantia_Book/181#p2_20)). _Have_ I? Seen God, that is? _Moi?_ How is that possible? Well, decades of twice-daily meditations eased the way, I suspect. Sitting still, with as empty a mind as possible, opens the channel, not only when I am on my meditation bench but, ideally, _off_ the bench as well. And so, for a moment, the veil was pulled back and time stood still. Nevertheless, I do believe that it can happen to anyone, at any time, in any place. You. Me. Everyone.
+Even more astounding, as if that were not enough, Jesus said on more than one occasion, “… the Father and I are one. He who has seen me has seen the Father” (<a id="a68_158"></a>[UB 157:6.13](/en/The_Urantia_Book/157#p6_13) and <a id="a68_208"></a>[UB 181:2.20](/en/The_Urantia_Book/181#p2_20)). _Have_ I? Seen God, that is? _Moi?_ How is that possible? Well, decades of twice-daily meditations eased the way, I suspect. Sitting still, with as empty a mind as possible, opens the channel, not only when I am on my meditation bench but, ideally, _off_ the bench as well. And so, for a moment, the veil was pulled back and time stood still. Nevertheless, I do believe that it can happen to anyone, at any time, in any place. You. Me. Everyone.
 
 My Lord and my God!
 
@@ -53,3 +77,27 @@ My Lord and my God!
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2023/
 - This article: https://urantia-association.org/my-lord-and-my-god
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Birth of the Spirit and Spiritual Maturity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Blackham/the_next_life">
+          <span class="pr-2">The Next Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Jean Ascher<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kulieke/safe_and_true">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Safe and True</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book">
+          <span class="pr-2">Application of Scientific Thinking to Cosmology in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Jean-Ascher-Feb-2011-150x150.jpg">
+<img src="/image/article/IUA_Journal/Jean-Ascher-Feb-2011-150x150.jpg">
 </figure>
 
 _(Editor’s Note: Jean Ascher is the translator of_ Urantia Bogen, _the Danish version of_ The Urantia Book_. He also assists students of the book by translating their articles and secondary works into Danish. Jean is a talented circus artist and uses his creative talents in unique ways to spread the Urantia Book teachings.)_
@@ -23,7 +47,7 @@ Second Life is a virtual space where imagination, fantasy, fiction, and historic
 For those readers familiar with 3D designer programs, it is possible within SL to create almost anything. Besides the 3D creativity, which is quite advanced and amazing, there are also particle effects. The best comparison is to say it is like fireworks, (pyrotechnics) but you can shape it into any form such as rings, mist, smoke, steams, clouds and make it do as you like. The SL world contains landscapes, mountains, rivers, hills, underground, trees, and animals (animated), as well as weather and time. And you can activate rain, thunder, fire, snow and other natural effects as well as unnatural ones. You can make water yellow and turn daylight to midnight in an instant. You can, besides walking, also fly, swim, teleport yourself, drive and bicycle. I have participated in Second Life for 14 years and if you are interested in the details, and there are many, please contact me by email by clicking here: [Yman Juran](mailto:Yourantiaman@mail.dk)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Jean-Asher-Fire-Tricks-300x226.jpg">
+<img src="/image/article/IUA_Journal/Jean-Asher-Fire-Tricks-300x226.jpg">
 <figcaption><em>Jean Ascher in Sydney 2011</em></figcaption>
 </figure>
 
@@ -33,7 +57,7 @@ In real life, I am a performer and have been traveling with my Danish ChangHigh 
 I joined the virtual world with one purpose: To create a virtual entertainment circus similar to the one I had in reality in action, style, and function. My free home time as of the last few years grew larger just as I grew older and I needed new challenges and when I one day read about Second Life I decided to check it out. “I joined up, flew in and never got out.”
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Jean-Unicycle-1982-High-Rez-300x353.jpg">
+<img src="/image/article/IUA_Journal/Jean-Unicycle-1982-High-Rez-300x353.jpg">
 <figcaption><em>Jean Ascher playing flute on unicycle 1982</em></figcaption>
 </figure>
 
@@ -51,14 +75,14 @@ Each show is written with text designed and formulated to that particular event,
 **The Opening**…
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/ChangHigh-Sisters.jpg">
+<img src="/image/article/IUA_Journal/ChangHigh-Sisters.jpg">
 </figure>
 
 “We welcome all of you to (name of sim).” And, “We welcome you to a performance done in inspiration and appreciation to The Mighty Acts of the Gods—who support humanity in its progressive future of creativity and culture here in SL as well as in reality.”
 
 “The show is an attempt to morph true cosmic reality with ultimate virtuality, a morphing of spiritual experience with existential cosmic consciousness.”
 
-> The high mission of any art is, by its illusions, to foreshadow a higher universe reality, to crystallize the emotions of time into the thought of eternity. [[UB 48:7.23](/en/The_Urantia_Book/48#p7_23)]
+> The high mission of any art is, by its illusions, to foreshadow a higher universe reality, to crystallize the emotions of time into the thought of eternity. <a id="a84_159"></a>[[UB 48:7.23](/en/The_Urantia_Book/48#p7_23)]
 
 “With this saying in mind…Please turn yourself on to a Universe of Light, Life and Love… and let us share our joy in a forever immortal conquest for truth, goodness, and beauty.”
 
@@ -159,3 +183,27 @@ Yman Juran (aka) Yourantiaman (aka) Jean Ascher
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
 - This article: https://urantia-association.org/a-urantian-in-second-life
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kulieke/safe_and_true">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Safe and True</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book">
+          <span class="pr-2">Application of Scientific Thinking to Cosmology in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

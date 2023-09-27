@@ -38,7 +38,9 @@ class Articles {
 		'Luz y Vida',
 		'Urantian News',
 		'Urantia Foundation News Online',
-		'NewsFlash'
+		'NewsFlash',
+		'Tidings',
+		'Journal'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});

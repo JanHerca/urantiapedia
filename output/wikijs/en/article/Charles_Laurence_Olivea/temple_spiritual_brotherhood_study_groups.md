@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Charles Laurence Olivea<br>© 2017 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_editorial_may_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial May 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/the_hallelujah_aftermath">
+          <span class="pr-2">The Hallelujah Aftermath</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Great-Grizzly-Redwood.jpg">
+<img src="/image/article/IUA_Journal/Great-Grizzly-Redwood.jpg">
 </figure>
 
 Great trees possess a majestic presence, such as the Grizzly Giant of the Sequoia Forest in Yosemite, California. It is quite interesting, even instructive, to reflect upon the fact that they begin as small seedlings, emerging as saplings, and over a **_long_** period of time grow to become nature’s monarchs.
@@ -21,11 +45,11 @@ Likewise, study groups are establishing roots for a great movement, whose aim ov
 The socialization or spread of the Fifth Epochal Revelation through a growing network of study groups will depend on what participants bring to such gatherings and by what they take from them. The interactions between persons, when done in a revelatory search for God, can tap into the spirit of his grace, thereby, raising human consciousness. Remember, the search for God is nothing less than the search for the source and center of all things and beings. What’s more, an Archangel of Nebadon reassures us that
 <br style="clear:both;"/>
 
-> _…knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love._ [[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)]
+> _…knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love._ <a id="a47_97"></a>[[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)]
 
 A Solitary Messenger reinforces this point by the generalization that
 
-> _Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness._ [[UB 112:1.6](/en/The_Urantia_Book/112#p1_6)]
+> _Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness._ <a id="a51_139"></a>[[UB 112:1.6](/en/The_Urantia_Book/112#p1_6)]
 
 To know others who share kindred minds and souls **_is_** the great immediate benefit of study groups. The thesis offered in this essay concerns the living rationale for individual persons to meet in study on a regular basis seeking God intellectually and spiritually.
 
@@ -34,7 +58,7 @@ To know others who share kindred minds and souls **_is_** the great immediate be
 In that spirit, I would like to suggest we think of each study group as a “school.” Then, we may consider the educational potential in every study group as a kind of informal process of “schooling.” But it is an educational experience that strives to draw a straight line between Paradise and Urantia. Logically, if we view study groups in this light, the authors of the Urantia Papers, may be thought of as the “faculty. The “pedagogy” consists mostly of “**_intelligent conversation_**.” The text of the book will make up the “curriculum.” Lastly, our “mission” has the benign audacity of attempting—long  term—the rehabilitation of our home planet.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/old-wine-skins.jpg">
+<img src="/image/article/IUA_Journal/old-wine-skins.jpg">
 </figure>
 
 We go beyond the role of being merely readers of the book; we are more in the role of students looking for Living Water and the Bread of Life. A student in this context may be defined as an attentive, systematic observer, who is engaged in mind and soul as a cosmic citizen growing with the Supreme.
@@ -42,13 +66,13 @@ We go beyond the role of being merely readers of the book; we are more in the ro
 A new viewpoint of old facts or on a conventional perspective can constitute a “new wine skin.” That is what is proposed here. The usefulness of a different viewpoint was explained by an Archangel, while referencing statements of human philosophy for instructional purposes on the First Mansion World:
 <br style="clear:both;"/>
 
-> _Only a poet can discern poetry in the commonplace prose of routine experience._ [[UB 48:7.22](/en/The_Urantia_Book/48#p7_22)]
+> _Only a poet can discern poetry in the commonplace prose of routine experience._ <a id="a68_83"></a>[[UB 48:7.22](/en/The_Urantia_Book/48#p7_22)]
 
 This designation of study groups as “schools” with all the educational implications contained therein opens up the act of study as a higher, more dignified, loftier concept—given their revelatory character and (potential) planetary significance. It deepens and broadens one’s **_universe_** perspective of them, hence, the “new wine skins.”
 
 Furthermore, the person-to-person make-up of study groups can serve as the means to maximize the dynamics of group study.  I believe that relationships between fellow mortals dedicated to revelatory study extend to the Universal Father, Michael of Nebadon, the Supreme and the angels. It is worth reflecting on what a Solitary Messenger has told us concerning the vitality of relationships among persons:
 
-> _Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._  [[UB 112:2.8](/en/The_Urantia_Book/112#p2_8)]
+> _Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._  <a id="a74_189"></a>[[UB 112:2.8](/en/The_Urantia_Book/112#p2_8)]
 
 With this observation in mind, schools (study groups) may be understood in terms of the major facets in the interactions between persons: heart-to-heart; mind-to-mind; soul-to-soul.
 
@@ -62,7 +86,7 @@ _The Urantia Book_ is designed for study, in my opinion. This is evident in the 
 
 A Divine Counselor has noted that:
 
-> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will **dare** to construct a new and appealing philosophy of living out of enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.”_ [[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)]   (Emphasis added)
+> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will **dare** to construct a new and appealing philosophy of living out of enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.”_ <a id="a88_304"></a>[[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)]   (Emphasis added)
 
 Study (complemented by service) is a profoundly important feature of the challenge. Anyone really committed to the Fifth Epochal Revelation will take study seriously.
 
@@ -85,17 +109,17 @@ meticulous precise detailed
 Certain inferences may be drawn from these terms concerning the nature of study. The importance of the **_art of listening_** comes to mind. Jesus placed a supreme value on active (engaged) listening. He paid very close attention to what was (and what was often not) being expressed. He taught the most when he said the least. Another implication of the synonyms is the necessity to contribute to the **_flow of conversation_** with thoughtful, logical ideas and/or questions. Showing a **_respect for facts_** must be in play. It is vital to group study to make the distinction, when disagreeing with others, **_not to be disagreeable_**. The reader is left to draw still more inferences from this list.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/20170405_225224-300x225.jpg">
+<img src="/image/article/IUA_Journal/20170405_225224-300x225.jpg">
 </figure>
 
 Thinking about study groups as revelatory schools can enhance the spiritual and cosmic dignity of them, investing them with universe-capital. It deepens and widens the context of these gatherings. They are not social get-togethers, although friendly social ties should always be encouraged. This revelation entails some rather heavy lifting. The long view indicates that the destiny of civilization on Urantia and the future of the religion of Jesus hang in the balance between human imperfection and prospects for eventual light and life.
 
-With a nod to the Divine Counselor, we ought to study in the way the writing of _The Urantia Book_ is constructed and arranged, that is to say, use the same pedagogical principles—go from the complex to the simple, i.e., from the long view to the moving present, utilizing the perspective of origin, history and destiny applied to contemporary affairs. ([UB 19:1.5-6](/en/The_Urantia_Book/19#p1_5)) With this idea in mind, it would be profitable to determine how the morontia culture prioritizes the practice of study. What “universe value” is assigned to studying?
+With a nod to the Divine Counselor, we ought to study in the way the writing of _The Urantia Book_ is constructed and arranged, that is to say, use the same pedagogical principles—go from the complex to the simple, i.e., from the long view to the moving present, utilizing the perspective of origin, history and destiny applied to contemporary affairs. (<a id="a116_354"></a>[UB 19:1.5-6](/en/The_Urantia_Book/19#p1_5)) With this idea in mind, it would be profitable to determine how the morontia culture prioritizes the practice of study. What “universe value” is assigned to studying?
 
 First of all, we learn that when most pilgrims of time attain the Fifth Mansion World,
 <br style="clear:both;"/>
 
-> _Study is becoming voluntary, unselfish service natural, and worship spontaneous._ [[UB 47:7.5](/en/The_Urantia_Book/47#p7_5)]
+> _Study is becoming voluntary, unselfish service natural, and worship spontaneous._ <a id="a121_85"></a>[[UB 47:7.5](/en/The_Urantia_Book/47#p7_5)]
 
 Isn’t it interesting, of all the different behaviors or norms the Brilliant Evening Star could have focused on, study, service and worship were emphasized. The first develops mind (mota); the second exercises the soul (to borrow a phrase); and the third communes with God (the supreme joy of personality existence). What grand priorities! But there is more.
 
@@ -103,15 +127,15 @@ It remains my sense that characterizing human study groups as “schools” is h
 
 An Archangel has given us a vivid description of the priorities of morontia culture on Jerusem, our planetary system capital.
 
-> The activities…are of three distinct varieties: work, progress, and play. Stated otherwise, they are: **service, study,** and relaxation. [[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)] (Emphasis added)
+> The activities…are of three distinct varieties: work, progress, and play. Stated otherwise, they are: **service, study,** and relaxation. <a id="a129_140"></a>[[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)] (Emphasis added)
 
 Interestingly, study is equated with progress and service equated with work. These morontia norms, sketched by the Archangel, must reflect the central aims of the schools of thinking, feeling and doing. This Archangel continues by noting that
 
-> _Those things which you might have learned on earth, but which you failed to learn must be acquired under the tutelage of…faithful and patient teachers._ [[UB 48:5.7](/en/The_Urantia_Book/48#p5_7)]
+> _Those things which you might have learned on earth, but which you failed to learn must be acquired under the tutelage of…faithful and patient teachers._ <a id="a133_156"></a>[[UB 48:5.7](/en/The_Urantia_Book/48#p5_7)]
 
-Indeed, schooling is a universal concept and practice. We learn from the Brilliant Evening Star that “The entire universe is one vast school.” ([UB 37:6.2](/en/The_Urantia_Book/37#p6_2)) The Archangel elaborates on this point:
+Indeed, schooling is a universal concept and practice. We learn from the Brilliant Evening Star that “The entire universe is one vast school.” (<a id="a135_144"></a>[UB 37:6.2](/en/The_Urantia_Book/37#p6_2)) The Archangel elaborates on this point:
 
-> _If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school, requisition a substantial part of the celestial creation as teachers and instructors, and then spend ages upon ages piloting you, one by one, through this gigantic universe school of experiential training._ [[UB 48:8.3](/en/The_Urantia_Book/48#p8_3)]
+> _If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school, requisition a substantial part of the celestial creation as teachers and instructors, and then spend ages upon ages piloting you, one by one, through this gigantic universe school of experiential training._ <a id="a137_404"></a>[[UB 48:8.3](/en/The_Urantia_Book/48#p8_3)]
 
 Study, service and worship are a multi-sided jewel. Again, one may observe the greater dignity of characterizing study groups as “schools.” Study groups ought to be recognized for their universe-value, the contribution they can make to implement God’s command for ascending mortals eventually to become perfect even as he is perfect.
 
@@ -126,7 +150,7 @@ Generally speaking, two different approaches have emerged over time as to how fo
 Concerning the latter approach, people need time to ponder questions and/or issues, hence assigned study. It can be structured in a number of ways. Some include studying the papers in the order they are presented from first to last, or, a particular topic or theme may be picked. A question can serve as the central focus of discussion. Maximizing opportunities for **_each_** person to contribute to an intelligent conversation should be a key priority. It is important to have more light than heat in the conversation. Effective leadership exemplifies respectful listening. The point here is to strike a balance between what an individual says and how the others interact as a group. Staying centered on the scope and depth of the assigned study is a major priority. Participants for the most part would be expected to keep their comments within the assigned text. They should avoid bringing up outside sources since other members probably would not have had any opportunity to read and think about extraneous material beforehand. This approach encourages and respects a certain kind of discipline, adding to the cohesion of the group. The overall aim is to have minds engaged, exchanging ideas.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Leadership2-300x220.jpg">
+<img src="/image/article/IUA_Journal/Leadership2-300x220.jpg">
 </figure>
 
 Keeping a group on task is an executive function, although each participant shares responsibility as well. The leader of a study group would be wise to act in the role of tutor. A tutor guides, makes suggestions, presents questions to keep the talk more focused, sets a friendly tone by a humorous anecdote, and leads generally by good example. Ideally, the role of tutor could be rotated, at least from among those who are willing to so act. But not everyone is comfortable in such a role. But someone has to keep the group centered on the subject at hand.
@@ -140,11 +164,11 @@ Lastly, consideration might profitably be given to group prayer and worship. For
 We can aspire to be effective **_instruments_** in the search for truth, but the Father and the Creator Son are always the **_inspiration_**. I so like what was said by the Mighty Messenger about the Spirit of Truth, the greatest gift Michael gave to Urantia, besides his actual bestowal:
 <br style="clear:both;"/>
 
-> _Having started out on the way of life everlasting, having **accepted the assignment** and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying ‘This is the way.’_  [[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)] (Emphasis added)
+> _Having started out on the way of life everlasting, having **accepted the assignment** and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying ‘This is the way.’_  <a id="a166_455"></a>[[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)] (Emphasis added)
 
 It seems to me that the Spirit both clarifies and comforts. The Spirit is very helpful to study and service. Trying to start a study group may be daunting; serving as a leader can be problematic. Why not form a habit of accessing some of the spiritual resources given to our world. The Chief of Urantia Midwayers has something to say on this.
 
-> _Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; **they are all made better because of participation**… _ [[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)] (Emphasis added)
+> _Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; **they are all made better because of participation**… _ <a id="a170_320"></a>[[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)] (Emphasis added)
 
 Even study needs a measure of courage to face issues or questions that intimidate many others. It takes even more courage to discuss them with a group of people whose perceptions differ considerably. Hearts can be made calmer and intellects clearer if the participants are willing to pull together in a common petition, or, to commune together in worship, with a higher power. It is important to remember that this should be done without pressure or coercion. Still, the spiritual cohesion of a group may realize broader, deeper revelatory insights. In all such efforts, **_trust_** God.
 
@@ -152,12 +176,12 @@ Even study needs a measure of courage to face issues or questions that intimidat
 
 While living on Urantia as creatures of time and space, we are also cosmic citizens. The Mighty Messenger points out that
 
-> _With God the Father, sonship is the great relationship. With God the Supreme, **achievement** is the prerequisite to status — one must do something as well as be something.”_ [[UB 115:1.0](/en/The_Urantia_Book/115#p1_0)] (Emphasis added)
+> _With God the Father, sonship is the great relationship. With God the Supreme, **achievement** is the prerequisite to status — one must do something as well as be something.”_ <a id="a178_178"></a>[[UB 115:1.0](/en/The_Urantia_Book/115#p1_0)] (Emphasis added)
 
 We have seen how the morontia culture prioritizes study and service. It does appear that studying runs as a norm throughout the universes of time and space. I believe the process of starting and keeping study groups going contributes directly to the Supreme. The universe-value of studying is naturally linked to the Supreme. It is something for us to be conscious of. The Supreme is actualizing our potential in the ascension scheme of universe achievement even while we reside on earth. Down here, as evolutionary creatures, we can add to the gradual, unfolding development of Orvonton, our superuniverse, in reciprocity with the finite God, the God of evolution. This reciprocity is inherent by design in the relationships of Supremacy. It is a high and noble task (actually a cosmic, moral duty) to be contributors to universe building. The Universal Father has delegated to us something important to do.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/20170327_160745-300x225.jpg">
+<img src="/image/article/IUA_Journal/20170327_160745-300x225.jpg">
 </figure>
 
 To perform our role as cosmic citizens in a worthwhile and useful manner, we need to _**possess a deeper and broader knowledge**_ of the origin, history, and destiny of many aspects of universe reality. In turn, that knowledge helps us to sort or identify essential facts, meanings and values of time and space—the function of study. On the other side of the coin, service can be rendered more precise and appropriate to those whom we would serve. Thus, study and service work together as we attempt to do our share in the growth of the Supreme.
@@ -167,7 +191,7 @@ But to bring this line of reasoning directly to our home planet, we should be mi
 The Angels of Enlightenment come to mind. According to the Chief of Seraphim, our world
 <br style="clear:both;"/>
 
-> _…is now receiving the help of the third corps of seraphim dedicated to the fostering of planetary education. These angels are occupied with mental and moral training as it concerns individuals, families, **groups**, **schools**, communities, nations, and whole races._ [[UB 114:6.11](/en/The_Urantia_Book/114#p6_11)] (Emphasis added)
+> _…is now receiving the help of the third corps of seraphim dedicated to the fostering of planetary education. These angels are occupied with mental and moral training as it concerns individuals, families, **groups**, **schools**, communities, nations, and whole races._ <a id="a193_272"></a>[[UB 114:6.11](/en/The_Urantia_Book/114#p6_11)] (Emphasis added)
 
 Is it farfetched to suggest that our study groups fit neatly within their sphere of interest? The Urantia Papers as the subject of group study seem to correlate directly to these angels’ area of responsibility.
 
@@ -176,7 +200,7 @@ If this is so, we might consider this framework of our relationship as part of t
 ## A Lighthouse in a Worldwide Cultural Fog
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Light-house-fog-300x225.jpg">
+<img src="/image/article/IUA_Journal/Light-house-fog-300x225.jpg">
 </figure>
 
 Notwithstanding the present confusion, sometime in the future, there will likely be a growing number of people who, while not being readers themselves of _The Urantia Book_, will know persons who do read and study it. Perhaps in many (most) cases, the latter will be a family member, a close friend, an acquaintance, a neighbor, co-worker or even an approachable stranger. Typically, those studying the revelation will probably be persons of average socio-economic status and live and work in ordinary circumstances.
@@ -184,7 +208,7 @@ Notwithstanding the present confusion, sometime in the future, there will likely
 As knowledge about the book spreads, its reputation in the public mind may largely be determined by its association with these kinds of connections. So, as our movement breaks into the public’s consciousness, we hope many will say something like this, “Oh, I know her. She reads that book. She is my neighbor and is a normal person.”; or, “He works in my office and is an okay guy. I found out he has been reading that book for years.” Social recognition of such a caliber can only evolve from excellence in thought and a strong, positive and intelligent living faith in God. Modern men and women are seeking to find individuals or groups who demonstrate intellectual integrity and spiritually affirmative lives.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/DSC03930-300x225.jpg">
+<img src="/image/article/IUA_Journal/DSC03930-300x225.jpg">
 </figure>
 
 If our gatherings acquire such a reputation, then the Fifth Epochal **_Revelation_** may seem less strange and be appreciated more for its content and quality in a growing number of social and religious circles. At least, that is an outcome we can hope for. The revelation, then, can really start to have a transformational effect upon society at large. But we must be well grounded in knowledge of its teachings in order to be at-the-ready to address the many questions people will naturally have. Questions (including objections) will range from ones that are straightforward or basic to complex subjects, even vexing issues.
@@ -196,7 +220,7 @@ However, because of this time delay we have an ongoing opportunity to mature for
 Our movement has, therefore, a strategic advantage! The time delay will test our patience as we study and serve unobtrusively in a kind of private ministry. This has something in common (in principle at least) with the approach Jesus’ ministry took as he prepared for the Gospel to be publicly proclaimed. If we grow quietly, collecting the riches of the mind and the joys of the soul, we will not only survive modernity’s vicissitudes of this age, we can realistically hope to emerge—as a cause—successfully.
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/20170327_155448-300x225.jpg">
+<img src="/image/article/IUA_Journal/20170327_155448-300x225.jpg">
 </figure>
 
 Our teachings can serve as a lighthouse whose beacon will shine brightly to a world that will begin to tire of the fog of anxiety and mayhem. I believe that when the time is ripe, God’s grace will influence our fellow mortals to want something better. Without necessarily (fully) realizing it, many will want the clarity and comfort of something called life and light. The lighthouse-effect will come if we possess a respected reputation—an image derived from the substance of a dignified, **_unified_**, spiritually fragrant, and intellectually vibrant network, symbolized by three blue concentric circles and/or the name, “Urantia.”
@@ -214,7 +238,7 @@ The humble act of studying _The Urantia Book_ is a noble endeavor. It is noble w
 
 I allude to the loving reciprocity of Supremacy as explained by a Mighty Messenger:
 
-> _In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe. The Supreme Creator Personalities and all their divine associates are reflective of the outward, diverging motion of the Supreme, while the ascending pilgrims from the seven superuniverses are indicative of the inward, converging trend of Supremacy. _ [[UB [UB 115:6.5](/en/The_Urantia_Book/115#p6_5)](/en/The_Urantia_Book/115#p6_5)]
+> _In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe. The Supreme Creator Personalities and all their divine associates are reflective of the outward, diverging motion of the Supreme, while the ascending pilgrims from the seven superuniverses are indicative of the inward, converging trend of Supremacy. _ <a id="a240_381"></a>[[UB [UB 115:6.5](/en/The_Urantia_Book/115#p6_5)](/en/The_Urantia_Book/115#p6_5)]
 
 In addition to all of this, we benefit right now as children of the Universal Father—true brothers and sisters—foretasting in time the truth, beauty, and goodness of eternal meanings.
 
@@ -223,7 +247,7 @@ For sure, we ought to love our fellow mortals as Jesus loves us. We may sensibly
 Charles Laurence Olivea
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/DSC00900-300x225.jpg">
+<img src="/image/article/IUA_Journal/DSC00900-300x225.jpg">
 </figure>
 
 ## References
@@ -231,3 +255,27 @@ Charles Laurence Olivea
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2017/
 - This article: https://urantia-association.org/temple-spiritual-brotherhood-study-groups
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/journal_editorial_may_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial May 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2017 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/the_hallelujah_aftermath">
+          <span class="pr-2">The Hallelujah Aftermath</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Moustapha N’diaye<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_revisited">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups Revisited</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/dynamic_and_living_peace">
+          <span class="pr-2">Dynamic and Living Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Dakar-300x139.jpg">
+<img src="/image/article/IUA_Journal/Dakar-300x139.jpg">
 </figure>
 
 In the mid-1970s, guided by our spiritual mentor, a number of like-minded friends and I entered into a new journey of spiritual awakening based on the revelations of _The Urantia Book_. Our mentor, who had received his copy of the “Urantia Cosmology” directly from a French reader in the 1960s, tailored the guidance he offered us to the sociological reality of Senegal at the time. In the year 2000, some twenty-five years later, we discovered and began working with several other study groups worldwide.
@@ -33,7 +57,7 @@ Over the course of several years we engaged in question and answer sessions with
 Our mentor tailored his teachings to Senegal’s predominantly Muslim character as he led us step-by-step through the messages of _The Urantia Book_. He offered newcomers to our study group about three years of the same guidance before entrusting their spiritual development, always under his watchful eye, to more long-standing group members.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Senegal-SG-adj-300x225.jpg">
+<img src="/image/article/IUA_Journal/Senegal-SG-adj-300x225.jpg">
 </figure>
 
 Over the years since we began our study of _The Urantia Book_, thousands of like-minded people beyond our study group have received the same spiritual guidance from both our mentor and members alike. This guidance took the form of seminars, thematic studies, question and answer sessions, as well as testimonials. The lessons were always based on the teachings of _The Urantia Book_ and were organized to show how spiritual consciousness can lead man to God (the book presents God to man in three parts and concludes in its fourth part with a presentation of the “Man-God or God-Man.”) Once prepared by personal experience, mentorship, and the spiritual strength of the group, each student would receive their own copy of _The Urantia Book_.
@@ -73,3 +97,27 @@ Together with the Master Son, the God within us, and Supreme all around us, let 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2019/
 - This article: https://urantia-association.org/future-study-groups
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gaetan_Charland/study_groups_revisited">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups Revisited</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/dynamic_and_living_peace">
+          <span class="pr-2">Dynamic and Living Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

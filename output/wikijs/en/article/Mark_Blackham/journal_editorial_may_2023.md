@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2023 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="pr-2">Getting To Know Ourselves Better</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Mark Blackham">
-<img src="../../../image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
+<img src="/image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
 </figure>
 
 Welcome to the May 2023 edition of the Urantia Association’s _Journal_, a publication dedicated to the thoughts, observations, and experiences of Urantia Book students from around the world. Our contributors explore a wide range of topics relating to the fifth epochal revelation, demonstrating both an extraordinary diversity of thought and a spirited unity of purpose. 
@@ -28,7 +52,7 @@ Our third article, “**Birth of the Spirit and Spiritual Maturity**” by Mamad
 
 Ultimately, as Mamadou states, we are all masters of our fate. “While the human biological birth is done without our will, the Spirit’s birth is always done with our will, with our consent.”
 
-In the next essay, it is helpful to recall that one habit favoring religious growth is the act of sharing one’s spiritual life with one’s fellows ([UB 100:1.8](/en/The_Urantia_Book/100#p1_8)). And this is just what Christopher Ross does in his article “**My Lord and My God!**” in which he describes a meaningful spiritual encounter he experienced before he came across _The Urantia Book_. In his quest for understanding, Christopher makes a critical assessment of his experience in light of Biblical and, later, Urantia Book knowledge. In summary, he accepts his experience as a genuine revelation of Spirit even though, like all spiritual experiences, we can never prove them to anyone else. But we are comforted by the knowledge that “God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God” ([UB 1:2.8](/en/The_Urantia_Book/1#p2_8)).
+In the next essay, it is helpful to recall that one habit favoring religious growth is the act of sharing one’s spiritual life with one’s fellows (<a id="a54_147"></a>[UB 100:1.8](/en/The_Urantia_Book/100#p1_8)). And this is just what Christopher Ross does in his article “**My Lord and My God!**” in which he describes a meaningful spiritual encounter he experienced before he came across _The Urantia Book_. In his quest for understanding, Christopher makes a critical assessment of his experience in light of Biblical and, later, Urantia Book knowledge. In summary, he accepts his experience as a genuine revelation of Spirit even though, like all spiritual experiences, we can never prove them to anyone else. But we are comforted by the knowledge that “God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God” (<a id="a54_853"></a>[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)).
 
 The last article is one of my own. “**The Next Life”** is a brief summary of what we may expect to encounter once resurrected on mansonia one and, judging from the words of Urantia Book narrators, it will not be an easy transition. Life on Urantia is a far cry from life on a “more normal” world and we will have to make many subsequent adjustments. Nonetheless, we are told, both explicitly and implicitly, the lessons we must learn on the mansion worlds. And the good news is that we can start these changes in our own lives right here on Urantia.
 <br style="clear:both;"/>
@@ -38,3 +62,27 @@ The last article is one of my own. “**The Next Life”** is a brief summary of
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2023/
 - This article: https://urantia-association.org/journal-editorial-may-2023
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2023 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="pr-2">Getting To Know Ourselves Better</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

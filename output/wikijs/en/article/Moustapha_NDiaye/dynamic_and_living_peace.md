@@ -9,17 +9,38 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Moustapha N’diaye<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/future_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does the Future Hold for Study Groups?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus._ [[Philippians 4:7](/en/Bible/Philippians/4#v7)]
 
-> _O bestow on your people Israel great peace forever, for you are King and the Lord of all peace. … Blessed are you, Yahweh, who blesses his people Israel with peace._ [[UB 150:8.7](/en/The_Urantia_Book/150#p8_7)]
+> _O bestow on your people Israel great peace forever, for you are King and the Lord of all peace. … Blessed are you, Yahweh, who blesses his people Israel with peace._ <a id="a35_169"></a>[[UB 150:8.7](/en/The_Urantia_Book/150#p8_7)]
 
 > _Peace be unto you. And unto you, peace._
 
 ## Introduction
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Moustapha-Ndiaye-300x339.jpg">
+<img src="/image/article/IUA_Journal/Moustapha-Ndiaye-300x339.jpg">
 </figure>
 
 Who among us has paused to reflect upon the familiar greeting and response, “Peace be unto you. And unto you, peace?” This essay draws on personal experience and understandings, the testimonials from those who collaborated in its writing, and an assessment of the religious literature of the Far East (particularly the writings of Hinduism, Taoism, and Buddhism), to do just that—pause and reflect on a dynamic and living peace. In so doing, this reflection explicitly relies on the teachings of _The Urantia Book_ and the example provided by the life of Jesus as recounted in Part IV.
@@ -39,7 +60,7 @@ Simply put, it is my opinion that men and women who are not at peace with themse
 ## The Supra-Human Understanding of Peace
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Peace-dove.jpg">
+<img src="/image/article/IUA_Journal/Peace-dove.jpg">
 </figure>
 
 While peace is both the natural state and defining characteristic of the Spirit, it is only through revelation (auto- or epochal-revelation) and personal spiritual experience that we come to understand its purpose and scope.
@@ -70,7 +91,7 @@ It is impossible to probe the current state of the world and consider lasting so
 
 Typically, each planetary bestowal of a divine Son brings with it the building blocks that contribute to the individual and collective establishment of this peace. Among other things, the age of the Planetary Prince should make it possible for mankind to master the forces of nature, lay the foundations of scientific knowledge, and establish a peace that provides for the material security of all people regardless of where they may live. But did our planet, being exceptional, receive the benefit of this bestowal?
 
-The revelators advise us that, at the beginning of the 20<sup>th</sup> century, those benefits, which had failed to settle in the minds of primitive man, are being rediscovered some 300,000 years later [[UB 66:5.18](/en/The_Urantia_Book/66#p5_18)]. Early man simply did not possess the knowledge required to establish the material security necessary for our planet to benefit from the peace that the age of the Planetary Prince typically bestows upon evolutionary worlds. This delay prolonged the reign of fear and ignorance that the ministry of the Planetary Prince normally brings to an end. The disastrous consequences of the Lucifer Rebellion and the experimental work of the Life Carriers compounded the complications and obstacles that contributed to this failure.
+The revelators advise us that, at the beginning of the 20<sup>th</sup> century, those benefits, which had failed to settle in the minds of primitive man, are being rediscovered some 300,000 years later <a id="a93_202"></a>[[UB 66:5.18](/en/The_Urantia_Book/66#p5_18)]. Early man simply did not possess the knowledge required to establish the material security necessary for our planet to benefit from the peace that the age of the Planetary Prince typically bestows upon evolutionary worlds. This delay prolonged the reign of fear and ignorance that the ministry of the Planetary Prince normally brings to an end. The disastrous consequences of the Lucifer Rebellion and the experimental work of the Life Carriers compounded the complications and obstacles that contributed to this failure.
 
 ### The Age of the Adamic Bestowal (Adam and Eve)
 
@@ -82,7 +103,7 @@ Because of their default, the Adamic bestowal failed in its mission and this res
 
 The philosophical problems and spiritual errors arising from the Lucifer Rebellion compounded the social problems related to the failures of the Planetary Prince and Adamic bestowals.
 
-The Lucifer declaration that the personality of the Universal Father does not exist and is a myth invented by the Sons of Paradise [[UB 53:3](/en/The_Urantia_Book/53#p3)], has left very deep traces and remains tangible even now in the 21<sup>st</sup> century. Among other things, this proclamation resulted in the diminution of living faith (especially adoration and prayer) and the perpetuation of the ancestral fears that effectively negate the ultimate goal of destiny. How can we worship a Father who does not exist? How can we pray to a son of a fictitious Father? All that remains is a science and religion largely disconnected from its life-giving roots.
+The Lucifer declaration that the personality of the Universal Father does not exist and is a myth invented by the Sons of Paradise <a id="a105_131"></a>[[UB 53:3](/en/The_Urantia_Book/53#p3)], has left very deep traces and remains tangible even now in the 21<sup>st</sup> century. Among other things, this proclamation resulted in the diminution of living faith (especially adoration and prayer) and the perpetuation of the ancestral fears that effectively negate the ultimate goal of destiny. How can we worship a Father who does not exist? How can we pray to a son of a fictitious Father? All that remains is a science and religion largely disconnected from its life-giving roots.
 
 The proclamation of the “equality of mind” and “the brotherhood of intelligence,” not to mention the contradiction of Caligastia’s designation of Lucifer as the “God of Liberty”, added to the diminution of the spirit and worked to separate mankind from anything other than a merely intellectual dimension devoid of any prospect for spiritual achievement. The influences of Lucifer have trapped us in fruitless tautologies that, despite the notable efforts of the prophets and other spiritual educators, led to the absence of spiritual awareness and dealt a great blow to our worldview. However, as we shall see in more detail, these philosophical problems and spiritual errors did not erase the concept of the Fatherhood of God or the Brotherhood of Man from human consciousness.
 
@@ -94,7 +115,7 @@ Consider the impact of the third, fourth, and fifth epochal revelations which we
 
 1. Machiventa (third epochal revelation), guided by of one of the most experienced Adjusters of Nebadon, performed an emergency mission to prepare us for the seventh bestowal of Michael of Nebadon who incarnated as Joshua ben Joseph (fourth epochal revelation).
 
-> _Joshua ben Joseph, the Jewish baby, was conceived and was born into the world just as all other babies before and since, **except** that this particular baby was the incarnation of Michael of Nebadon, a divine Son of Paradise and the creator of all this local universe._ [[UB 119:7.5](/en/The_Urantia_Book/119#p7_5)]
+> _Joshua ben Joseph, the Jewish baby, was conceived and was born into the world just as all other babies before and since, **except** that this particular baby was the incarnation of Michael of Nebadon, a divine Son of Paradise and the creator of all this local universe._ <a id="a117_274"></a>[[UB 119:7.5](/en/The_Urantia_Book/119#p7_5)]
 
 1. The Thought Adjuster who guided the mind of Machiventa also served Joshua ben Joseph and is now personalized as the Chief of Personalized Adjusters of Nebadon.
 
@@ -115,7 +136,7 @@ It is worthy of note that the idea of peace that has survived did so through the
 Psalm 46 is a popular verse that never fails to bring comfort in these stressful times. Its message inspires our efforts to actualize the peace of the Lord, the divine expression of love.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/Psalms-267x400.jpg">
+<img src="/image/article/IUA_Journal/Psalms-267x400.jpg">
 </figure>
 
 > _God is our refuge and strength, a very present help in trouble._  
@@ -133,7 +154,7 @@ The expression, “**Be still and know that I am God**” is highlighted because
 
 We could draw a parallel between this Psalm and the following excerpt from _The Urantia Book_:
 
-> _One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. Such religionists are like the Apostle Paul, who said: ‘I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor anything else shall be able to separate us from the love of God’._ [[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)]
+> _One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. Such religionists are like the Apostle Paul, who said: ‘I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor anything else shall be able to separate us from the love of God’._ <a id="a156_555"></a>[[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)]
 
 We can measure the powerful character of this peace even in the face of the greatest disappointments imaginable. Our search for this peace is only possible by recognizing God in ourselves.
 
@@ -156,16 +177,16 @@ It could be said that the Asian mindset is underpinned on the notion of a synchr
 ### Introduction
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/rey-melvin-caraan-Wo0K-ktL_M-unsplash-300x225.jpg">
+<img src="/image/article/IUA_Journal/rey-melvin-caraan-Wo0K-ktL_M-unsplash-300x225.jpg">
 </figure>
 
 Typically, religious traditions of the Far East address a profound requirement to (re-)connect with the deepest sense of our inner being so that our quest to find peace might help us find “nirvana.” The great teachers who have mastered this tradition exhort their followers to meditate and thereby actualize the potentialities found deep within their being. But this inward focus orphans them from a full understanding of a personalized Father who is both deep within our being and throughout all of creation at the same time. It is the sense of this divine presence that drives us all on our sublime quest.
 
-The main reason for this inward focus, to the omission of all else, stems from Hindu philosophy and the rejection by the Brahmans of the Salem gospel Machiventa Melchizedek tried to introduce [[UB 94:1.5](/en/The_Urantia_Book/94#p1_5)]. _The Urantia Book_ teaches that this rejection was motivated by an Indo-Aryan obsession to preserve the privilege of the Brahman caste and their sense of racial identity [[UB 94:2.1](/en/The_Urantia_Book/94#p2_1)].
+The main reason for this inward focus, to the omission of all else, stems from Hindu philosophy and the rejection by the Brahmans of the Salem gospel Machiventa Melchizedek tried to introduce <a id="a184_192"></a>[[UB 94:1.5](/en/The_Urantia_Book/94#p1_5)]. _The Urantia Book_ teaches that this rejection was motivated by an Indo-Aryan obsession to preserve the privilege of the Brahman caste and their sense of racial identity <a id="a184_407"></a>[[UB 94:2.1](/en/The_Urantia_Book/94#p2_1)].
 
 This “omission of all else” effectively orphaned them from an understanding of a personalized deity. The powerful philosophy it produced had a similar effect on subsequent Oriental philosophies. Consequently, both Hinduism and Buddhism lack a simple and clear understanding of the personality of the Universal Father as presented by the missionaries of Salem and confirmed through Michael of Nebadon’s seventh bestowal ministry.
 
-> _…The concept of the Buddha Absolute is at times quasi-personal, at times wholly impersonal — even an infinite creative force. Such concepts, though helpful to philosophy, are not vital to religious development. **Even an anthropomorphic Yahweh is of greater religious value than an infinitely remote Absolute of Buddhism or Brahmanism**_. [[UB 94:11.12](/en/The_Urantia_Book/94#p11_12), Emphasis added.]
+> _…The concept of the Buddha Absolute is at times quasi-personal, at times wholly impersonal — even an infinite creative force. Such concepts, though helpful to philosophy, are not vital to religious development. **Even an anthropomorphic Yahweh is of greater religious value than an infinitely remote Absolute of Buddhism or Brahmanism**_. <a id="a188_342"></a>[[UB 94:11.12](/en/The_Urantia_Book/94#p11_12), Emphasis added.]
 
 ### Nirvana and Spiritual Peace
 
@@ -175,7 +196,7 @@ While their incomplete understanding does highlight very important concepts and 
 
 The problem arises from the strict logic of these philosophies, a logic that omits any consideration of a personalized Father. Orphaned in this way, these philosophies cannot delve into the full nature of being and, although they can lead to a comparable state of peace, they have a tendency to push the individual towards prolonged isolation.
 
-> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ [[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
+> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ <a id="a198_150"></a>[[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
 
 This isolation, deemed necessary to master the compulsive self, can end up dissociating the disciple, which then makes it difficult to reconcile society’s current confused state with the sublime peace that the follower may attain through personal isolation. There is simply no bridge connecting the ever-growing gap between the two. Followers of these philosophies often choose to spend their lives as hermits, perhaps revered by society at large but not necessarily of service to humanity. They could run the risk of unwittingly responding to the cry for self-assertion with its call for a precedence of the mind that separates them from the recognition of, and conscious shared participation with, the Father’s spirit.
 
@@ -195,10 +216,10 @@ The following initiatives undertaken by Jesus would have no doubt helped to exte
 
 - The two-year training period with the young man from India, Ganid, that possibly provided for a salutary welcome of the gospel of the Father by the philosophies of the Far East which had been orphaned from the concept of the Father.
 - The Urmia teachings that expanded religious understanding may have assisted the spread of the traditions of the Eastern version of Christianity, which were less bellicose than the Western version.
-- The influence of Abner’s group in Philadelphia that resulted in “The Eastern version of the message of Jesus” [[UB 195:1.11](/en/The_Urantia_Book/195#p1_11)].
+- The influence of Abner’s group in Philadelphia that resulted in “The Eastern version of the message of Jesus” <a id="a218_112"></a>[[UB 195:1.11](/en/The_Urantia_Book/195#p1_11)].
 - The fifth epochal revelation and current ministry.
 
-Following the respective ministries of Machiventa and Michael of Nebadon and their contributions to the philosophy of the peoples of the Holy Land, God the Supreme takes up these efforts and calls upon all the sons of God to continue this ministry because _Nothing of survival value is ever lost in all the wide universe_ [[UB 109:3.2](/en/The_Urantia_Book/109#p3_2)].
+Following the respective ministries of Machiventa and Michael of Nebadon and their contributions to the philosophy of the peoples of the Holy Land, God the Supreme takes up these efforts and calls upon all the sons of God to continue this ministry because _Nothing of survival value is ever lost in all the wide universe_ <a id="a221_322"></a>[[UB 109:3.2](/en/The_Urantia_Book/109#p3_2)].
 
 Interestingly, the revelators inform us that they greatly regret that Abner’s teachings, which were in many respects more faithful to the message of Jesus, did not flourish in the later traditions of Western Christianity.
 
@@ -223,7 +244,7 @@ _It would be helpful in the study of selfhood to remember:_
 1. _That physical systems are subordinate._
 2. _That intellectual systems are co-ordinate._
 3. _That personality is superordinate._
-4. _That the indwelling spiritual force is potentially directive._ [[UB 112:2.1](/en/The_Urantia_Book/112#p2_1)]
+4. _That the indwelling spiritual force is potentially directive._ <a id="a246_67"></a>[[UB 112:2.1](/en/The_Urantia_Book/112#p2_1)]
 
 Also remember that we are blessed with more than a simple animal consciousness. We are endowed with a conscious awareness of the divine: the consciousness of God on the first level; the search for God on the second; and, on the third level, the will to resemble God.
 
@@ -248,3 +269,24 @@ Pax vobiscum.
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2019/
 - This article: https://urantia-association.org/dynamic-and-living-peace
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/future_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does the Future Hold for Study Groups?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

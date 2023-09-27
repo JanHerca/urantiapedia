@@ -9,12 +9,36 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Mark Kurtz<br>© 2020 International Urantia Association (IUA)</p>
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Mark-Kurtz-2009-150x150-1.jpg">
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Radatus/masterful_a_teacher_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Be as Masterful a Teacher as the Master</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/implantation_of_life">
+          <span class="pr-2">Implantation of Life on a Planet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>
 
-_Ability to comprehend is the mortal passport to Paradise. Willingness to believe is the key to Havona. The acceptance of sonship, co-operation with the indwelling Adjuster, is the price of evolutionary survival_ [[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)]. 
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/IUA_Journal/Mark-Kurtz-2009-150x150-1.jpg">
+</figure>
+
+_Ability to comprehend is the mortal passport to Paradise. Willingness to believe is the key to Havona. The acceptance of sonship, co-operation with the indwelling Adjuster, is the price of evolutionary survival_ <a id="a40_213"></a>[[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)]. 
 
 Comprehending God to enter Paradise? We have little idea what Paradise is and what to expect and now we are informed we must comprehend to enter! Urantia Book authors are giving us advance notice there is work to do. Paradise is not automatic; we must grow into qualifying for Paradise. Comprehension advances brilliance and we may assume it also energizes curiosity and desire to know the Father. Gaining brilliance is a growth process over an “eternity of time!” We start simply on our nativity sphere. 
 
@@ -30,14 +54,14 @@ We are told in the quote above we must have ability to comprehend before we arri
 
 ### Begin Now 
 
-We could dismiss the big Urantia Book as too difficult to understand, at least some portions. Given the fact we are told progress is required for each mortal and that comprehension is required, we could assume it wise to begin serious attempts at comprehending the Cosmos and the Father’s purposes while we are yet Urantians and as new information is presented to this planet. The authors inform us we must comprehend what we are now doing and also where we are going. We may expect marvelous new insights and greater comprehension of the Father’s purposes and methods as we attempt to presently move inward to the center of all life! We are told to be willing to make an effort and also informed we have work to perform. The authors laid out a vision of divine expectations for ascenders. Comprehension is sufficiently vital for the book’s authors mention it in the opening lines: _In the hope of facilitating comprehension…_ [[UB 0:0.3](/en/The_Urantia_Book/0#p0_3)] and Jesus’ parables are designed to help us see the Father in Spirit and to comprehend his nature. 
+We could dismiss the big Urantia Book as too difficult to understand, at least some portions. Given the fact we are told progress is required for each mortal and that comprehension is required, we could assume it wise to begin serious attempts at comprehending the Cosmos and the Father’s purposes while we are yet Urantians and as new information is presented to this planet. The authors inform us we must comprehend what we are now doing and also where we are going. We may expect marvelous new insights and greater comprehension of the Father’s purposes and methods as we attempt to presently move inward to the center of all life! We are told to be willing to make an effort and also informed we have work to perform. The authors laid out a vision of divine expectations for ascenders. Comprehension is sufficiently vital for the book’s authors mention it in the opening lines: _In the hope of facilitating comprehension…_ <a id="a56_927"></a>[[UB 0:0.3](/en/The_Urantia_Book/0#p0_3)] and Jesus’ parables are designed to help us see the Father in Spirit and to comprehend his nature. 
 
-> _We teach you how best to execute the things we command you to do_. [[UB 37:6.4](/en/The_Urantia_Book/37#p6_4)]   
+> _We teach you how best to execute the things we command you to do_. <a id="a58_70"></a>[[UB 37:6.4](/en/The_Urantia_Book/37#p6_4)]   
 
 We gain brilliance with help from brilliant teachers! 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/OUR-DIVINE-FAMILY-by-Kim-S.-MacKenzie.jpg">
+<img src="/image/article/IUA_Journal/OUR-DIVINE-FAMILY-by-Kim-S.-MacKenzie.jpg">
 </figure>
 
 Our realization of available, loving help ought to remove much of the fear we may experience while anticipating the “other side” and of what is expected. We are told the Father’s Universe and purposes are friendly and his Sons will befriend us throughout our Paradise ascent. Our Master Son in Jesus told people “Fear not”; he knew of the Father’s friendship and plans.  
@@ -46,10 +70,10 @@ Our realization of available, loving help ought to remove much of the fear we ma
 The reasons for comprehending the Urantia revelation teachings are important. Let me highlight a few: 
 
 - _…expand cosmic consciousness…_ [0.2, 1.2]
-- _…revelation of God to man… which may possibly contribute to a further illumination and unification of the human concept of the nature and the character of the personality of the Universal Father_ [[UB 2:0.2](/en/The_Urantia_Book/2#p0_2)].
-- _…comprehension of the personality of the Eternal Son…_ [[UB 6:8.6](/en/The_Urantia_Book/6#p8_6)]
-- _… spiritual comprehension of the Father-Son partnership…_  [[UB 26:5.2](/en/The_Urantia_Book/26#p5_2)]
-- _…comprehension of the Supreme Being…_  [[UB 26:6.4](/en/The_Urantia_Book/26#p6_4)] 
+- _…revelation of God to man… which may possibly contribute to a further illumination and unification of the human concept of the nature and the character of the personality of the Universal Father_ <a id="a72_199"></a>[[UB 2:0.2](/en/The_Urantia_Book/2#p0_2)].
+- _…comprehension of the personality of the Eternal Son…_ <a id="a73_58"></a>[[UB 6:8.6](/en/The_Urantia_Book/6#p8_6)]
+- _… spiritual comprehension of the Father-Son partnership…_  <a id="a74_62"></a>[[UB 26:5.2](/en/The_Urantia_Book/26#p5_2)]
+- _…comprehension of the Supreme Being…_  <a id="a75_42"></a>[[UB 26:6.4](/en/The_Urantia_Book/26#p6_4)] 
 
 This is hard work for all of us. Taken in tiny steps, this long journey is surmountable with kind and loving teachers and companion guides. 
 
@@ -61,7 +85,7 @@ I have increasingly felt greater conviction and confidence in _The Urantia Book_
 
 There are too many quotes that could be listed here for examples of new confidence from clarity of purposes and methods. This one “hit me between the eyes” in a sudden insight moment one day:  
 
-> _The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._ [[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)]  
+> _The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._ <a id="a87_345"></a>[[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)]  
 
 Now we see we cannot gain a true perspective of life, the cosmos or any other problem without understanding more of destiny! Mercy me—I never thought of that before! This insight removes a lot of guessing and is a “compass correction” for life. 
 
@@ -72,7 +96,7 @@ Comprehending God’s wonderful provisions continues to be a joy when I realize 
 Comprehending more of the Father’s purposes and our Master Son Michael’s life modeling has been and continues to be an energizing force within. _This is available to anyone!_ Your experiences are vital for you and you are divinely loved on high. Even angels watch us and love to lead us for they comprehend the Father’s many purposes, at least partially and certainly to greater levels than mortals. 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Sydney-SG1-Rachel1200x485-ks-300x121.jpg">
+<img src="/image/article/IUA_Journal/Sydney-SG1-Rachel1200x485-ks-300x121.jpg">
 </figure>
 
 Comprehension increases as we participate with others in study and this is one important reason for study groups. Thought Adjusters apparently know how to help one another as they serve in the deep mind. Therefore, as Adjusters are gathered with you in study group teaming together there is profound benefit to everyone in the group! Many times I was humbled on hearing another person’s interpretation, realizing I was too confident in an earlier understanding. I understood how important it is to listen. 
@@ -83,7 +107,7 @@ Comprehension increases as we participate with others in study and this is one i
 At this point we could consider what are the limitations or restraints for persons who have no interest in greater learning or of progressive comprehension. We are told the advancements we receive beyond this native sphere are based on _testing_. Perhaps a crude analogy (as compared to the universe) would be school grade levels. What wise teacher would pass a failing student to the next grade knowing such an action could be harmful to a student? Lovingly, a good teacher would augment efforts to inspire and teach a student for reaching higher and achieving a better education. We may extrapolate this familiar provision to loving Divine Parents who want each person to advance, although they understand rate of movement varies widely. We are told something of vast provisions of the mortal ascension plan! We accept sonship and then get to work at progressing spiritually inward. We do not advance unless we comprehend each level and we must sincerely desire progress. Advancement means breaking down all the undesirables of human nature including prejudice, hate, anger, jealousy, laziness, and pride. The Creators require us to understand with increasing new insight we must decrease in human nature and take on divine nature like God! 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Teacher-and-Students-300x200.jpg">
+<img src="/image/article/IUA_Journal/Teacher-and-Students-300x200.jpg">
 </figure>
 
 Like Urantian first graders withheld, we likely will be held back until we reach comprehension levels sufficient to understand reasons and life at each new level. Progress through the heavenly portals and spheres will not happen unless a soul desires and cooperates with God. If this is lacking and if a soul moves too far by choices in the wrong direction, there is real danger of permanent isolation and soul death. Why take the risk of such a fate? Recall the authors record that present status is not as important as the direction in which we are moving. 
@@ -97,7 +121,7 @@ Another reason I think comprehension is so vital is the fact the authors tell us
 
 We have been wrong on some details in many of world religions. Let’s take a look at the aforementioned quote from Paper 19, Section 1 wherein a Divine Counselor kindly calls attention to errors of a strictly mortal viewpoint: “The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to spiritual wisdom. Such a procedure is the easiest path to a certain form of genetic knowledge, but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny.” 
 
-> _Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems._ **_The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny._** _The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._ [[UB 19:1.6](/en/The_Urantia_Book/19#p1_6), emphasis added]  
+> _Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems._ **_The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny._** _The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._ <a id="a123_525"></a>[[UB 19:1.6](/en/The_Urantia_Book/19#p1_6), emphasis added]  
 
 We may understand from this counsel that we cannot correctly comprehend what we do not properly observe. In the new revelation we are invited to new insights of reality and therefore the authors are participating with Michael and the Paradise Father for upgrading our comprehension potential. Do we not comprehend these divine actions as great gifts of love? Does it not feel really good to be valued on high? Do we comprehend correction is vital for advancing our understandings? 
 
@@ -107,14 +131,14 @@ It is reasonable to assume Michael came to Urantia to give to Urantians and hi
 
 We could select most any of the major topics from the book and of Jesus’ ministry for emphasizing reasons for comprehending relating to God and his many diverse Sons. Let us look at just one here. From the morontia Jesus:   
 
-> _And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine, and they soon will be taken away._ [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
+> _And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine, and they soon will be taken away._ <a id="a133_534"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
 
 In essence, he said we must advance, increase desire and comprehend the Father’s way. He is clear about what the Father will do if we do not advance: we shall be “trimmed” and ministered to by the Father until we do. If we choose not, then we are dead. 
 
 ### Arming in Spirit for a Possibly Difficult Ascension Career 
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Unwasted-Talents-300x225.jpg">
+<img src="/image/article/IUA_Journal/Unwasted-Talents-300x225.jpg">
 </figure>
 
 What shall we comprehend as vitally important from Jesus as he verified and confirmed for spirit advancement? One of the great reasons for becoming divine-like is to better handle _disappointment_. We are not guaranteed a disappointment-free ascension career, but we may continue in strong faith. As we become more of divine nature, we assume these high ideals of personhood. Comprehend there are high divine ideals for relating to many different beings and we must be progressive to advance. Brilliance in relating is a desirable achievement throughout the Father’s enterprises. A thorough review of Jesus’ life reveals ample evidence of this fact. Reading Part IV we know Jesus had a difficult life; despite his troubles he set a marvelous example of dedicated faith for all his creatures. 
@@ -138,7 +162,7 @@ We end with the four Cs: Communication, Conviction, Cooperation, and Comprehensi
 
 A new purpose may emerge: _W__e are to help each other make it to Parad_ise! Sing your praises! 
 
-> _Ability to comprehend is the mortal passport to Paradise._ [[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)]
+> _Ability to comprehend is the mortal passport to Paradise._ <a id="a164_62"></a>[[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)]
 
 
 ## References
@@ -146,3 +170,27 @@ A new purpose may emerge: _W__e are to help each other make it to Parad_ise! Si
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2020/
 - This article: https://urantia-association.org/comprehension
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Radatus/masterful_a_teacher_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Be as Masterful a Teacher as the Master</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/implantation_of_life">
+          <span class="pr-2">Implantation of Life on a Planet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

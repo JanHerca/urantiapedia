@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Christopher Ross<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legacy and Inspiration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="pr-2">The Hazards of a Decimal Planet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Part I
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Christopher-Ross-1-150x150.jpg">
+<img src="/image/article/IUA_Journal/Christopher-Ross-1-150x150.jpg">
 </figure>
 
 Back in high school, I would have been voted “Most Likely to Volunteer for Alien Abduction.” Thus, I was immediately intrigued by a magazine ad I saw in 2009 for something called _The Urantia Book_.
@@ -44,7 +68,7 @@ The real issue, I think, the larger truth, was that I was overwhelmed by the eno
 
 Another reader suggested that I start in the back, as many people do, with _Part IV: The Life and Teachings of Jesus_. Certainly, no less significant than any other part, these papers nevertheless are like breezing through a novel compared to the dense, difficult, and intricate technical writing of the preceding sections.
 
-But there was a part of me that did not want to violate the integrity of the text this way, or rather _the integrity of the process of the revelation_. And so true to my Virgo nature—astrology’s status as a “superstitious belief” ([UB 121:5.5](/en/The_Urantia_Book/121#p5_5)) notwithstanding—I returned to the Foreword, determined to read _The Urantia Book_ straight through.
+But there was a part of me that did not want to violate the integrity of the text this way, or rather _the integrity of the process of the revelation_. And so true to my Virgo nature—astrology’s status as a “superstitious belief” (<a id="a70_231"></a>[UB 121:5.5](/en/The_Urantia_Book/121#p5_5)) notwithstanding—I returned to the Foreword, determined to read _The Urantia Book_ straight through.
 
 I brought to this effort considerable preparation, I thought: a search for God that began in earnest in 1979 when I learned to meditate, taking me, first, from the nominal Judaism into which I was born to Buddhism, then to _A Course in Miracles,_ and finally to Christianity, initially to the Quakers, then to the Episcopal Church in which I was baptized and confirmed, and on to ordination as a (non-Roman) Catholic priest within the ISM, or Independent Sacramental Movement.
 
@@ -59,7 +83,7 @@ As I read these Papers—often watching the words float by of their own accord�
 ## Part III
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/Foreword2-1-706x611.jpg">
+<img src="/image/article/IUA_Journal/Foreword2-1-706x611.jpg">
 </figure>
 
 Well, nothing can really prepare one for _The Urantia Book,_ I consoled myself, except an open mind and a willingness to set aside all previous personal cosmologies and entertain the notion that perhaps this book is true—is Truth, really—despite or maybe because of its weird vocabulary and the severe limitations the English language presented to the “revelators.”
@@ -87,3 +111,27 @@ Lastly, contrary to my initial impression that this tome is not exactly light re
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2022/
 - This article: https://urantia-association.org/the-what-book
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legacy and Inspiration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="pr-2">The Hazards of a Decimal Planet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

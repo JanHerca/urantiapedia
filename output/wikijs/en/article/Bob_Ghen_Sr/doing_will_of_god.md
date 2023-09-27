@@ -9,15 +9,39 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Bob Ghen Sr.<br>© 2018 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Jesusonian Calling to Go the Third Mile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration & Healing From The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/FB_IMG_1523860977802-300x225.jpg">
+<img src="/image/article/IUA_Journal/FB_IMG_1523860977802-300x225.jpg">
 </figure>
 
 The Urantia Book_ unequivocally declares:
 
 
-> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God . . ._ [[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
+> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God . . ._ <a id="a43_139"></a>[[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
 
 **What? Seriously? That’s it?**
 
@@ -33,7 +57,7 @@ To be clear, none of this should be taken as an “official” representation of
 
 ## Let’s Take a Closer Look
 
-> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God . . ._ [[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
+> _The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God . . ._ <a id="a59_139"></a>[[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
 
 What, then, does this actually _mean_? Let’s dissect it a bit:
 
@@ -66,7 +90,7 @@ With this shift we move into a whole new realm, not so easy of explanation. Here
 Experientially then, by what means do we establish and maintain such an active spiritual relationship with the inner spirit of God?
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Contemplation-267x400.jpg">
+<img src="/image/article/IUA_Journal/Contemplation-267x400.jpg">
 </figure>
 
 Consistently sharing the inner life with our divine partner is both a subjective, highly personal, private experience, as well as an objective, socially expressed experience. These are complementary aspects of the same living experience, wherein the private, spiritual sharing in the subjective inner life is “lived out” in the objective social arena, most effectively through _unselfish service_ to others. Such an established practice fosters a living spiritual pulse that nourishes the progress of our highest motives, decisions and goals, and thereby contributes directly to the growth of our souls.
@@ -92,7 +116,7 @@ Contrasting sharply, both intelligent prayer and sincere worship are specificall
 
 Intelligent prayer is distinguished from all other forms in that intelligent prayer is that prayer which is consistent with the divine principles that govern such spiritual communications. Prayer inconsistent with these principles will be unavailing. It will not rise with the spiritual currents, and will simply fall flat. Selfish, materialistic praying is neither intelligent, nor spiritual. _The Urantia Book_ revelators offer some pretty strong language on the subject:
 
-> _That prayer which is inconsistent with the known and established laws of God is an abomination to the Paradise Deities. . ._ [[UB 146:2.3](/en/The_Urantia_Book/146#p2_3)]
+> _That prayer which is inconsistent with the known and established laws of God is an abomination to the Paradise Deities. . ._ <a id="a118_128"></a>[[UB 146:2.3](/en/The_Urantia_Book/146#p2_3)]
 
 Intelligent prayer is both an intellectual and a spiritual-religious _communication_. It seeks to intelligently communicate one’s finite self with infinite deity, with God. It is the sincere expression of all that we would communicate to him were he sitting directly in front of us, at the kitchen table so to speak. There is no formula for such a private conference. Intelligent prayer is the spontaneous and wholehearted effort to reach out to the universal parent as he spiritually resides in the superconscious (consciousness of consciousness) region of our own personal minds. Here, in mutual regard, sincere expressions of gratitude, and all spiritual supplications for ourselves and others are offered in trust and faith. Increasingly as our souls mature, an intellectually inexplicable experience of spiritual assurance begins to permeate such sincere and heartfelt efforts.
 
@@ -110,7 +134,7 @@ _The Urantia Book_ teaches that sincere worship is entirely distinct from all fo
 
 When we recognize and submit to this craving of the soul, when we mentally _choose_ to allow it, only then does the soul initiate the worship experience. And now, with the divine inner Adjuster thus engaged, it is he who actually conducts the worship on our behalf, directly relaying our personal devotion to the Universal Father at the center of all things. _The Urantia Book_ teaches that this is the natural, subjective, experiential sequence that leads the personally praying mind up through intelligent prayer into the sincere worship experience.
 
-> _Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father._ [[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
+> _Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father._ <a id="a136_355"></a>[[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
 
 ## I Experience It This Way
 
@@ -124,7 +148,7 @@ Doing the will of God produces profound, creative changes in life perspective as
 
 Witness:
 
-> _Your anxieties and sorrows, your trials and disappointments, are **just as much a part of the divine plan** on your sphere as are the exquisite perfection and infinite adaptation of all things to their supreme purpose on the worlds of the central and perfect universe._ [[UB 23:2.12](/en/The_Urantia_Book/23#p2_12), emphasis added]
+> _Your anxieties and sorrows, your trials and disappointments, are **just as much a part of the divine plan** on your sphere as are the exquisite perfection and infinite adaptation of all things to their supreme purpose on the worlds of the central and perfect universe._ <a id="a150_273"></a>[[UB 23:2.12](/en/The_Urantia_Book/23#p2_12), emphasis added]
 
 Our whole life, and everything in it becomes a testament to our genuine religious experience, to our sincere effort to know God and to live according to his will. Even when our personal world collapses around us, in our darkest hours, we can know for sure that there are better days ahead. If not possible in the time left on this world, then most certainly on the next.
 
@@ -145,3 +169,27 @@ Or stated otherwise, true religion _is_ “Doing the will of God.”
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2018/
 - This article: https://urantia-association.org/doing-will-of-god
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Jesusonian Calling to Go the Third Mile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2018 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration & Healing From The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Stuart R. Kerr III<br>© 2020 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soul Rebirth and Morontia (Soul) Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Mark-Kurtz-2009-150x150.jpg">
+<img src="/image/article/IUA_Journal/Mark-Kurtz-2009-150x150.jpg">
 </figure>
 
 I feel like sharing a concept heard from a Sunday school teacher about 30 years ago. Not recalling the topic, I do remember the concept—people develop a personal model of life and relationships, including religion, financial management, child rearing, jobs, free time, food, sex, well… everything. Many live according to what parents and grandparents modeled and according to what is perceived as community normal. This model contains the acceptances, decisions, priorities, and motives that drive everyday life. The teacher asked us to think about what we would do if something comes along that doesn’t fit our model. He said there are only two choices: 1) accept it, which is a revision, or 2) reject it and leave the model unchanged.
@@ -31,3 +52,24 @@ We could revise our personal models and join his growing team as best as we can,
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2020/
 - This article: https://urantia-association.org/managing-your-model
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soul Rebirth and Morontia (Soul) Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

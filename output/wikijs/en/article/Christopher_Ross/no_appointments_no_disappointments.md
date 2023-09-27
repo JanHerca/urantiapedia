@@ -9,17 +9,41 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Christopher Ross<br>© 2021 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2021_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="pr-2">Making Worship and Service the Center of Our Lives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Adversity and the Authentic Self
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/cliffs-2-adj-150x150.jpg">
+<img src="/image/article/IUA_Journal/cliffs-2-adj-150x150.jpg">
 </figure>
 
 (Adapted and updated from a presentation given at The Mission of Adversity and the Spiritual Value of Disappointment Virginia-Carolina Association Annual Mini-Conference, 2018.)
 <br style="clear:both;"/>
 
-> “That Saturday night the Master talked for more than an hour to the assembled groups on **‘The mission of adversity and the spiritual value of disappointment.’** This was a memorable occasion, and his hearers never forgot the lesson he imparted.” [[UB 51:0.1](/en/The_Urantia_Book/51#p0_1), emphasis added]
+> “That Saturday night the Master talked for more than an hour to the assembled groups on **‘The mission of adversity and the spiritual value of disappointment.’** This was a memorable occasion, and his hearers never forgot the lesson he imparted.” <a id="a45_249"></a>[[UB 51:0.1](/en/The_Urantia_Book/51#p0_1), emphasis added]
 
 In 1985, when I moved in with my first male partner, we had known each other for only two weeks. And in those two weeks, we had probably been together no more than two or three times. But Owen gave me a key to his apartment almost immediately; thus, when my marriage fell apart rather abruptly and my now ex-wife asked me to leave, I knew exactly where I would go.
 
@@ -39,13 +63,13 @@ And who is running the show here?
 
 A stumbling block for me, each time I read it, is the role that the Thought Adjuster plays in our lives. In Paper 108, we read:
 
-> The Mystery Monitors are not thought helpers; they are thought adjusters. They labor with the material mind for the purpose of constructing … a new mind for the new worlds … of your future career. Their mission chiefly concerns the future life, not this life. They are called heavenly helpers, not earthly helpers. [[UB 108:5.5](/en/The_Urantia_Book/108#p5_5)]
+> The Mystery Monitors are not thought helpers; they are thought adjusters. They labor with the material mind for the purpose of constructing … a new mind for the new worlds … of your future career. Their mission chiefly concerns the future life, not this life. They are called heavenly helpers, not earthly helpers. <a id="a65_317"></a>[[UB 108:5.5](/en/The_Urantia_Book/108#p5_5)]
 
 Here is the kicker.
 
-> They are not interested in making the mortal career easy; rather are they concerned in making your life reasonably difficult and rugged, so that decisions will be stimulated and multiplied. The presence of a great Thought Adjuster does not bestow ease of living and freedom from strenuous thinking, but such a divine gift should confer a sublime peace of mind and a superb tranquillity of spirit. [[UB 108:5.5](/en/The_Urantia_Book/108#p5_5)]
+> They are not interested in making the mortal career easy; rather are they concerned in making your life reasonably difficult and rugged, so that decisions will be stimulated and multiplied. The presence of a great Thought Adjuster does not bestow ease of living and freedom from strenuous thinking, but such a divine gift should confer a sublime peace of mind and a superb tranquillity of spirit. <a id="a69_399"></a>[[UB 108:5.5](/en/The_Urantia_Book/108#p5_5)]
 > 
-> It is the business of the Adjuster to prepare you for the eternal adventure, to assure your survival. It is not the mission of the Mystery Monitor to smooth your ruffled feelings or to minister to your injured pride; it is the preparation of your soul for the long ascending career that engages the attention and occupies the time of the Adjuster. ([UB 108:5.6](/en/The_Urantia_Book/108#p5_6))
+> It is the business of the Adjuster to prepare you for the eternal adventure, to assure your survival. It is not the mission of the Mystery Monitor to smooth your ruffled feelings or to minister to your injured pride; it is the preparation of your soul for the long ascending career that engages the attention and occupies the time of the Adjuster. (<a id="a71_351"></a>[UB 108:5.6](/en/The_Urantia_Book/108#p5_6))
 
 I cannot help but wonder, therefore, as I look back on my seventy years, which situations in my life have been of my Adjuster’s making? What circumstances were placed in my path to create for me a “reasonably difficult and rugged” existence?
 
@@ -56,7 +80,7 @@ And what about all the bad decisions I have made? The train wreck that aptly des
 Yes, of course, each of us has a list. My life has been no better or worse, no harder or easier, than anyone else’s, nor am I, with the limited perspective of a mere mortal, in a position to judge.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/Making-Lemonade-2-281x400.jpg">
+<img src="/image/article/IUA_Journal/Making-Lemonade-2-281x400.jpg">
 </figure>
 
 So is the Thought Adjuster’s primary role to provide the lemons and our challenge to make lemonade? That kind of optimism and inner strength were completely foreign to me growing up. I was taught that the world is a dangerous place, and that doom and gloom lurk around every corner. The example set for me was that everything was a catastrophe of Biblical proportions and the appropriate response was _not_ to try again but to give up immediately and take to one’s bed for at least three days.
@@ -80,7 +104,7 @@ Unfortunately, we do not have the transcript of Jesus’ talk on “The mission 
 Left to speculate, I thought of the _Book of Job_. Despite all that happened to him, “… Job did not … charge God with wrongdoing” (Job 1:22). He did not moan and wail, “Where was God?” as many people do after some atrocity happens. I heard this frequently after the terrorist attacks on New York.  “Where was God on 9/11?” was a common refrain among many groups of people.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/IUA_Journal/cliffs-1-300x200.jpg">
+<img src="/image/article/IUA_Journal/cliffs-1-300x200.jpg">
 </figure>
 
 Where was God? Where God always is. On the Eternal Isle of Paradise and inside of each of us. Atrocities such as 9/11 are _not_ the kind of adversity that the Thought Adjuster puts in our paths. God is neither cruel nor vindictive and does not stage terrorist attacks, school shootings, world wars or crucifixions, for that matter, as a means of making our lives “reasonably difficult and rugged.” _We_ do all these things.
@@ -101,3 +125,27 @@ Thus he failed to do the work, to engage in the never-ending daily devotion of o
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
 - This article: https://urantia-association.org/no-appointments-no-disappointments
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2021_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2021 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="pr-2">Making Worship and Service the Center of Our Lives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

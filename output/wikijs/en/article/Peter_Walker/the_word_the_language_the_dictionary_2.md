@@ -9,9 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Peter Walker<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Desjardins/the_psychic_circles_and_morontia_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Psychic Circles and Morontia Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/533-Foundation-300x304.jpg">
+<img src="/image/article/IUA_Journal/533-Foundation-300x304.jpg">
 </figure>
 
 In the Spring of 2018, I read of the new library in the Urantia Foundation’s building, dedicated to containing the works of literature assumed to have been used by the revelators in the Urantia Papers’ formation. Over the years, I have wondered about the origins of the Urantia Papers and reviewed such websites as Matthew Block’s _Square Circles_ in his efforts to match _The Urantia Book_ to human sources. The new library at the Urantia Foundation preserving such works is an invaluable collection, especially for future generations.
@@ -43,7 +64,7 @@ b: having a heavenly status or quality
 b: the Earth within the Heavens
 
 <figure id="Figure_2" class="image urantiapedia" alt="Alex Meyers">
-<img src="../../../image/article/IUA_Journal/hd-wallpaper-Alex-Meyers-706x397.jpg">
+<img src="/image/article/IUA_Journal/hd-wallpaper-Alex-Meyers-706x397.jpg">
 <figcaption><em>Alex Meyers</em></figcaption>
 </figure>
 
@@ -74,3 +95,24 @@ In conclusion, it is not just the notes in music but the changes between the not
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2022/
 - This article: https://urantia-association.org/the-word-the-language-the-dictionary
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Desjardins/the_psychic_circles_and_morontia_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Psychic Circles and Morontia Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

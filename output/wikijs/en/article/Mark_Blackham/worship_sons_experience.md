@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Mark Blackham<br>© 2019 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez/function_of_prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Function of Prayer to Strengthen Our Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/meaning_of_worship">
+          <span class="pr-2">The Meaning of Worship and Service </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Life Experience
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Mark052b-150x150.jpg">
+<img src="/image/article/IUA_Journal/Mark052b-150x150.jpg">
 </figure>
 
 I write this account as a way of sharing my personal religious experience in the acquired art of worship. For me, the telling is somewhat therapeutic and, for others who may have encountered similar circumstances in their lives, I hope it can serve as a positive affirmation.
@@ -48,9 +72,9 @@ You begin to see that my father’s predicament was even worse than my own. He h
 
 The conscious recognition of my unresolved issues, my father’s life, and my dawning forgiveness brought about significant changes in my viewpoint, and the subsequent healing experiences were profound. Not only was I feeling much better about myself, but I discovered a refreshing new interest in all things spiritual, which led me to take another look at the life and teachings of Jesus. As I studied and absorbed these papers again, I felt the beginning of a spiritual transformation. And when I came across the following passages, it was as though I was reading them for the first time.
 
-> _As time passes, fathers and their children will love each other more, and thus will be brought about a better understanding of the love of the Father in heaven for his children on earth._ [[UB 142:2.2](/en/The_Urantia_Book/142#p2_2)]
+> _As time passes, fathers and their children will love each other more, and thus will be brought about a better understanding of the love of the Father in heaven for his children on earth._ <a id="a74_191"></a>[[UB 142:2.2](/en/The_Urantia_Book/142#p2_2)]
 > 
-> _As long as we teach the child to pray, “Our Father who is in heaven,” a tremendous responsibility rests upon all earthly fathers so to live and order their homes that the word father becomes worthily enshrined in the minds and hearts of all growing children._ [[UB 177:2.7](/en/The_Urantia_Book/177#p2_7)]
+> _As long as we teach the child to pray, “Our Father who is in heaven,” a tremendous responsibility rests upon all earthly fathers so to live and order their homes that the word father becomes worthily enshrined in the minds and hearts of all growing children._ <a id="a76_263"></a>[[UB 177:2.7](/en/The_Urantia_Book/177#p2_7)]
 
 It was only through a study of Jesus’ life that I was able to dispel my deep-seated and tainted notions about fatherhood by replacing them with better concepts about what an ideal father should be. The more I came to know Jesus, the more I loved him, and this love eventually led to my conscious and final separation of the nature of my earth father from that of my heavenly Father. I came to replace an identity of fear with one of love, ridicule with respect, cruelty with compassion, and intimidation with consolation. I finally began to understand and accept in my heart the true nature of my divine Father and, with some excitement, I came to realize that he _really does love me_.
 
@@ -72,7 +96,7 @@ Most of us understand worship as an act of veneration, adoration, and devotion, 
 
 Ezra, the tavern-keeper in Syracuse, told Jesus he could not find God. But Jesus said to him,
 
-> _“Your trouble is not that you cannot find God, for the Father has already found you; your trouble is simply that you do not know God.”_ [[UB 130:8.2](/en/The_Urantia_Book/130#p8_2)]
+> _“Your trouble is not that you cannot find God, for the Father has already found you; your trouble is simply that you do not know God.”_ <a id="a98_139"></a>[[UB 130:8.2](/en/The_Urantia_Book/130#p8_2)]
 
 To know God is to love him, and to love God is to know him. The more we come to know him, the more we truly desire to worship him; it becomes a natural and spontaneous reaction. We worship God for what we comprehend him to be, which is our highest concept of the personality and divinity of Deity. And this is one reason _The Urantia Book_ dedicates the Foreword and the first five papers to an understanding of the nature, attributes, and relationships of God. But nowhere in the book is a knowledge of our Creator brought to such a human level of understanding as it is in the life and teachings of Jesus, our Father incarnate.
 
@@ -91,13 +115,13 @@ Worship is a choice, a powerful choice. The only power we really have is our fre
 ### Give Thanks
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Woman-in-Worship-300x275.jpg">
+<img src="/image/article/IUA_Journal/Woman-in-Worship-300x275.jpg">
 </figure>
 
 We ascend to true worship by being sincerely thankful. And one way to get our minds into this state of worship is by expressing prayers of gratitude. If you are unsure about what to be thankful for, I encourage you to ponder the seemingly magical presence of the Father’s Spirit within you, the Spirit of Truth beside you, and the Holy Spirit around you. All of these alluring spiritual forces work day and night in an attempt to re-create you as an eternal spirit being, as well as to reveal to you the amazing wonders of an almost limitless universe.
 <br style="clear:both;"/>
 
-> _It is a good thing to give thanks to the Lord and to sing praises to the name of the Most High, to acknowledge his loving-kindness every morning and his faithfulness every night, for God has made me glad through his work. In everything I will give thanks according to the will of God._ [[UB 146:2.15](/en/The_Urantia_Book/146#p2_15)]
+> _It is a good thing to give thanks to the Lord and to sing praises to the name of the Most High, to acknowledge his loving-kindness every morning and his faithfulness every night, for God has made me glad through his work. In everything I will give thanks according to the will of God._ <a id="a123_289"></a>[[UB 146:2.15](/en/The_Urantia_Book/146#p2_15)]
 
 ### Forget About Yourself
 
@@ -113,11 +137,11 @@ Jesus spent days and weeks in communion with his Father. And when he did so, he 
 
 Nothing ventured, nothing gained. We are continually reminded, in the very least, to make an _attempt_ to commune with God. When you worship, don’t expect the angels of heaven to visit you. Just keep in mind that God knows everything you do and have faith that, in time, all attempted communion will eventually result in the very real experience of _feeling_ the divine presence of the Spirit Within.
 
-> _Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him._ [[UB 5:0.1](/en/The_Urantia_Book/5#p0_1)]
+> _Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him._ <a id="a139_173"></a>[[UB 5:0.1](/en/The_Urantia_Book/5#p0_1)]
 
 ### Give it Time
 
-We live in a time-space universe in which all events are limited by time. Patience, therefore, is a critical virtue in all our endeavors. When Simon Zelotes was first accepted as an apostle, his greatest weakness was his material-mindedness, and we are told that even four years in Jesus’ company was not enough time for him to make the intellectual and emotional transformation to being spiritually minded [[UB 139:11.4](/en/The_Urantia_Book/139#p11_4)]. Nonetheless, by faith and perseverance, he eventually succeeded.
+We live in a time-space universe in which all events are limited by time. Patience, therefore, is a critical virtue in all our endeavors. When Simon Zelotes was first accepted as an apostle, his greatest weakness was his material-mindedness, and we are told that even four years in Jesus’ company was not enough time for him to make the intellectual and emotional transformation to being spiritually minded <a id="a143_407"></a>[[UB 139:11.4](/en/The_Urantia_Book/139#p11_4)]. Nonetheless, by faith and perseverance, he eventually succeeded.
 
 ### The Benefits of Worship
 
@@ -125,15 +149,15 @@ Ideally, worship is a state of self-forgetfulness in which we are not motivated 
 
 Worship relaxes us. It helps us to overcome feelings of anxiety or stress and it helps to remove mental conflicts that may result in depression or confusion.
 
-> _The relaxation of worship, or spiritual communion as practiced by the Master, relieves tension, removes conflicts, and mightily augments the total resources of the personality._ [[UB 160:1.12](/en/The_Urantia_Book/160#p1_12)]
+> _The relaxation of worship, or spiritual communion as practiced by the Master, relieves tension, removes conflicts, and mightily augments the total resources of the personality._ <a id="a151_181"></a>[[UB 160:1.12](/en/The_Urantia_Book/160#p1_12)]
 
 Worship sharpens the power of mind and reveals destinies. As such, we are better able to evaluate our thoughts and behaviors from a progressive spiritual viewpoint, as well as to envision a future life in the spirit.
 
-> _The reflective powers of the mind are deepened and broadened by worship. Prayer may enrich the life, but worship illuminates destiny._ [[UB 102:4.5](/en/The_Urantia_Book/102#p4_5)]
+> _The reflective powers of the mind are deepened and broadened by worship. Prayer may enrich the life, but worship illuminates destiny._ <a id="a155_138"></a>[[UB 102:4.5](/en/The_Urantia_Book/102#p4_5)]
 
 Worship is creative. It will re-create you, it will transform you, as Jesus promised it would. Incessant naval gazing or self-evaluation is not the answer. Instead, try worshiping a loving, beautiful, and good Divine Being as a powerful way to overcome personal deficiencies.
 
-> _Worship, taught Jesus, makes one increasingly like the being who is worshiped. Worship is a transforming experience…_ [[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)]
+> _Worship, taught Jesus, makes one increasingly like the being who is worshiped. Worship is a transforming experience…_ <a id="a159_121"></a>[[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)]
 
 ## Overcoming Limitations to Worship
 
@@ -141,9 +165,9 @@ Worship and spiritual progress are limited only by our capacity for spiritual re
 
 ### Clean up Your Temple
 
-> _All physical poisons greatly retard the efforts of the Adjuster to exalt the material mind, while the mental poisons of fear, anger, envy, jealousy, suspicion, and intolerance likewise tremendously interfere with the spiritual progress of the evolving soul._ [[UB 110:1.5](/en/The_Urantia_Book/110#p1_5)]
+> _All physical poisons greatly retard the efforts of the Adjuster to exalt the material mind, while the mental poisons of fear, anger, envy, jealousy, suspicion, and intolerance likewise tremendously interfere with the spiritual progress of the evolving soul._ <a id="a167_262"></a>[[UB 110:1.5](/en/The_Urantia_Book/110#p1_5)]
 
-Rid yourself of physical poisons. From personal experience, I realized it was almost impossible to commune with God when I was intoxicated in any way. One of the most insidious concepts kept alive in the modern era is that either alcohol or drugs can induce a spiritual state of mind. In truth, these substances block our spiritual channels and close our path to God. We must make a choice to follow God’s will, remembering that Jesus warned us not to presume on our Father’s love. God is not a foolishly indulgent parent ever ready to condone sin and forgive recklessness. [[UB 147:5.9](/en/The_Urantia_Book/147#p5_9)].
+Rid yourself of physical poisons. From personal experience, I realized it was almost impossible to commune with God when I was intoxicated in any way. One of the most insidious concepts kept alive in the modern era is that either alcohol or drugs can induce a spiritual state of mind. In truth, these substances block our spiritual channels and close our path to God. We must make a choice to follow God’s will, remembering that Jesus warned us not to presume on our Father’s love. God is not a foolishly indulgent parent ever ready to condone sin and forgive recklessness. <a id="a169_574"></a>[[UB 147:5.9](/en/The_Urantia_Book/147#p5_9)].
 
 And avoid mental poisons. In today’s world of rampant social media, it’s easy to become highly opinionated, to hold grudges, to envy friends who have bigger houses or fancy cars, or to fear the future. But none of this is our Father’s will. Avoid these inhibiting mental states, especially when attempting to worship. Dissolve them in love, mercy, truth, beauty, and goodness and wash your mind clean.
 
@@ -151,12 +175,12 @@ And avoid mental poisons. In today’s world of rampant social media, it’s eas
 
 Jesus said the greatest commandment of all is to
 
-> _“…love the Lord your God with all your heart and with all your soul, with all your mind and with all your strength.”_ [[UB 174:4.2](/en/The_Urantia_Book/174#p4_2)]
+> _“…love the Lord your God with all your heart and with all your soul, with all your mind and with all your strength.”_ <a id="a177_121"></a>[[UB 174:4.2](/en/The_Urantia_Book/174#p4_2)]
 
 The love of God leads to intelligent and wholehearted worship. God’s love for us never diminishes; it is an infinite love much greater than we can possibly imagine. We are limited in our ability to worship only by our individual capacity to love God in return. Once again, we can improve our capacity to love our Maker simply by learning more about his divine nature.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/IUA_Journal/Backpacker-and-sunset-706x282.jpg">
+<img src="/image/article/IUA_Journal/Backpacker-and-sunset-706x282.jpg">
 </figure>
 
 ### Life’s Choices
@@ -169,7 +193,7 @@ Our Father’s will is not entirely a mystery. At times, moral choosing is relat
 
 One very effective way to overcome our limitations to worship and make spiritual progress is to have unwavering faith and absolute trust in the work of the Father’s Spirit. Whenever we are challenged by our limitations, always declare:
 
-> _Even if I cannot do this, there lives in me one who can and will do it…_ [[UB 4:4.9](/en/The_Urantia_Book/4#p4_9)]
+> _Even if I cannot do this, there lives in me one who can and will do it…_ <a id="a195_76"></a>[[UB 4:4.9](/en/The_Urantia_Book/4#p4_9)]
 
 This is a compelling statement. It brings to mind the philosophy of _Alcoholics Anonymous_ where the initial concept is to openly admit that _you_ _can’t do it by yourself_—you must first give yourself and your problems over to a higher power. Trusting in the power and love of God to transform us is a rejuvenating experience that eases many of life’s burdens.
 
@@ -185,7 +209,7 @@ The whole scheme of spiritual progression is interrelated. Our moral choices aff
 
 However, God’s ability to help us is greatly retarded by our own preconceived opinions and long-standing prejudices. This was certainly true for me when it came to worship. But I was able to overcome my inhibitions by first becoming consciously aware of my deep-seated prejudices toward my earth father, and then by asking my heavenly Father to help me see the truth. To all who stumble: have faith, he will help you too.
 
-> _If you yield to the leadings of the spiritual forces in you and around you, you cannot fail…_ [[UB 5:1.12](/en/The_Urantia_Book/5#p1_12)]
+> _If you yield to the leadings of the spiritual forces in you and around you, you cannot fail…_ <a id="a211_97"></a>[[UB 5:1.12](/en/The_Urantia_Book/5#p1_12)]
 
 
 ## References
@@ -193,3 +217,27 @@ However, God’s ability to help us is greatly retarded by our own preconceived 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2019/
 - This article: https://urantia-association.org/worship-sons-experience
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeannie_Vazquez/function_of_prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Function of Prayer to Strengthen Our Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/meaning_of_worship">
+          <span class="pr-2">The Meaning of Worship and Service </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

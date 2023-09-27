@@ -9,9 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Neal Waldrop<br>© 2022 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/editors_note_may_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editor’s Note — May 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christopher_Ross/the_what_book">
+          <span class="pr-2">The What Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="../../../image/article/IUA_Journal/Neal-Waldrop-150x150.jpg">
+<img src="/image/article/IUA_Journal/Neal-Waldrop-150x150.jpg">
 </figure>
 
 Almost everyone who encounters the fifth epochal revelation and who finds the teachings moving and inspiring, desires to share them with other human beings and help them experience the same spiritual benefits. This is entirely natural, and I reacted that way myself. On the other hand, immediate personal efforts along such lines almost invariably prove disappointing, and that was certainly what happened to me.
@@ -74,9 +98,9 @@ On the other hand, in section 6 of Paper 110, a Solitary Messenger informs us:
 
 > The psychic circles are not exclusively intellectual, neither are they wholly morontial; they have to do with personality status, mind attainment, soul growth, and Adjuster attunement. The successful traversal of these levels demands the harmonious functioning of the _entire personality_, not merely of some one phase thereof. The growth of the parts does not equal the true maturation of the whole; the parts really grow in proportion to the expansion of the entire self — the whole self — material, intellectual, and spiritual.
 > 
-> It is to the mind of perfect poise, housed in a body of clean habits, stabilized neural energies, and balanced chemical function — when the physical, mental, and spiritual powers are in triune harmony of development — that a maximum of light and truth can be imparted with a minimum of temporal danger or risk to the real welfare of such a being. By such a balanced growth does man ascend the circles of planetary progression one by one, from the seventh to the first. [[UB 110:6.3-4](/en/The_Urantia_Book/110#p6_3)]
+> It is to the mind of perfect poise, housed in a body of clean habits, stabilized neural energies, and balanced chemical function — when the physical, mental, and spiritual powers are in triune harmony of development — that a maximum of light and truth can be imparted with a minimum of temporal danger or risk to the real welfare of such a being. By such a balanced growth does man ascend the circles of planetary progression one by one, from the seventh to the first. <a id="a100_471"></a>[[UB 110:6.3-4](/en/The_Urantia_Book/110#p6_3)]
 
-> Perhaps these psychic circles of mortal progression would be better denom­inated _cosmic levels_ — actual meaning grasps and value realizations of progressive approach to the morontia consciousness of initial relationship of the evolutionary soul with the emerging Supreme Being. And it is this very relationship that makes it forever impossible fully to explain the significance of the cosmic circles to the material mind. These circle attainments are only relatively related to God-consciousness. A seventh or sixth circler can be almost as truly God-knowing — sonship conscious — as a second or first circler, but such lower circle beings are far less conscious of experiential relation to the Supreme Being, universe citizenship. The attainment of these cosmic circles will become a part of the ascenders’ experience on the mansion worlds if they fail of such achievement before natural death. (Presented by a Solitary Messenger) [[UB 110:6.16](/en/The_Urantia_Book/110#p6_16) 110:6.16]
+> Perhaps these psychic circles of mortal progression would be better denom­inated _cosmic levels_ — actual meaning grasps and value realizations of progressive approach to the morontia consciousness of initial relationship of the evolutionary soul with the emerging Supreme Being. And it is this very relationship that makes it forever impossible fully to explain the significance of the cosmic circles to the material mind. These circle attainments are only relatively related to God-consciousness. A seventh or sixth circler can be almost as truly God-knowing — sonship conscious — as a second or first circler, but such lower circle beings are far less conscious of experiential relation to the Supreme Being, universe citizenship. The attainment of these cosmic circles will become a part of the ascenders’ experience on the mansion worlds if they fail of such achievement before natural death. (Presented by a Solitary Messenger) <a id="a102_936"></a>[[UB 110:6.16](/en/The_Urantia_Book/110#p6_16) 110:6.16]
 
 With all these relationships in mind, I believe that close study of, and appropriate attention to, all 2,097 pages of the fifth epochal revelation — Parts I, II, and III as well as Part IV — are more likely to promote and foster whole-personality growth as the Solitary Messenger has described it. Even so, however, this approach to _The Urantia Book_ is certainly not a precondition for spiritual growth, nor for our future morontia careers on the mansion worlds. Persons who do not take full advantage of the possibilities for whole-personality growth that are available to us while we are living on Urantia will be able to make up for that during the ascendant life.
 
@@ -92,7 +116,7 @@ The horizons of the fifth epochal revelation most certainly _include_ spirituali
 
 With all this in mind, I counsel patience and persistence, mainly continuing to rely on person-to-person contact and other techniques that are consensual and informal. This, of course, can and should include conferences, seminars, courses, study group meetings, and other types of voluntary gatherings, without resorting to mass-market advertising or other forms of publicity aimed at the general population. In section 6 of Paper 52, a Mighty Messenger informs us:
 
-> Even on normal evolutionary worlds the realization of the world-wide brotherhood of man is not an easy accomplishment. On a confused and disordered planet like Urantia such an achievement requires a much longer time and necessitates far greater effort. (Presented by a Mighty Messenger) [[UB 52:6.2](/en/The_Urantia_Book/52#p6_2)]
+> Even on normal evolutionary worlds the realization of the world-wide brotherhood of man is not an easy accomplishment. On a confused and disordered planet like Urantia such an achievement requires a much longer time and necessitates far greater effort. (Presented by a Mighty Messenger) <a id="a118_289"></a>[[UB 52:6.2](/en/The_Urantia_Book/52#p6_2)]
 
 ---
 
@@ -101,6 +125,31 @@ With all this in mind, I counsel patience and persistence, mainly continuing to 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2022/
 - This article: https://urantia-association.org/legacy-and-inspiration
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/editors_note_may_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editor’s Note — May 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christopher_Ross/the_what_book">
+          <span class="pr-2">The What Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 
