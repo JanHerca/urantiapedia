@@ -106,7 +106,7 @@ Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 
 The International Association _Journal_ is a quarterly magazine of articles and study aids created by readers and for readers of _The Urantia Book_.
 
-The index of all available issues is here: [International Association Journal Articles Index](/en/index/articles_international_journal).
+The index of all available issues is here: [International Association Journal Articles Index](/en/index/articles_iua_journal).
 
 Source: https://urantia-association.org/journal-online/
 

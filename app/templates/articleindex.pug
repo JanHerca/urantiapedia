@@ -4,6 +4,7 @@
 	'lighten-5']
 	var classes2 = ['v-icon', 'notranslate', 'v-icon--left', 'mdi', 'mdi-tag',
 	'theme--light', 'teal--text']
+	var classes3 = ['decor-outline', 'decor-shadow']
 
 p= sourceText
 	a(href=link)= link
@@ -16,7 +17,7 @@ if volumes.length > 0
 			br
 			if issue.imagePath != ''
 				figure.image.urantiapedia.image-style-align-left
-					img(src=issue.imagePath)
+					img(src=issue.imagePath class=classes3)
 			table
 				tbody
 					each article in issue.articles
@@ -40,7 +41,7 @@ else if issues.length > 0
 		br
 		if issue.imagePath != ''
 			figure.image.urantiapedia.image-style-align-left
-				img(src=issue.imagePath)
+				img(src=issue.imagePath class=classes3)
 		table
 			tbody
 				each article in issue.articles
