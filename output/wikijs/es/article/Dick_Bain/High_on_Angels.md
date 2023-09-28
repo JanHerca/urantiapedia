@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-¿Creo en los ángeles? Bueno, sí; pero ¿por qué soy tan reacio a decirlo? ¿Será que los ángeles son un poco como Campanilla? ¿Porque tienen alas y hacen cosas mágicas? O tal vez no sea respetable creer en seres tan mágicos. ¿Los ángeles han tenido mala prensa?
+¿Creo en los ángeles? Bueno, sí; pero ¿por qué soy tan reacio a decirlo? ¿Será que los ángeles son un poco como Campanilla? ¿Porque tienen alas y hacen cosas mágicas? O tal vez no sea respetable creer en seres tan mágicos. ¿Los ángeles han tenido mala publicidad?
 
 Me parece que los ángeles fueron víctimas del racionalismo de los siglos XIX y XX. Fueron derribados en el torbellino junto con la generación espontánea, la autoridad eclesiástica, los genios y los familiares, la tierra plana, la cosmología centrada en la Tierra y una legión de otras ideas antiguas. También pueden haber perdido atractivo debido a la revolución protestante. Los austeros fundadores pueden haber puesto objeciones a los peculiares querubines y serafines de la Iglesia Católica. Pero recientemente ha habido un aumento en el interés por los ángeles. La revista Time realizó una encuesta para un artículo reciente, _Angels Among Us_.[^1] El artículo informó que el 69% de las personas encuestadas cree en los ángeles y el 46% cree que tiene su propio ángel guardián. ¿Es esto sólo otra moda de la Nueva Era?, ¿o la gente está cansada del racionalismo y ahora busca lo espiritual? ¿Volveremos a los viejos tiempos cuando la gente aceptaba a los ángeles como parte del orden natural de las cosas?
 

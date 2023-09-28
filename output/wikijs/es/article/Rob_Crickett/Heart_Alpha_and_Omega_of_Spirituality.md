@@ -9,29 +9,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Rob Crickett<br>© 1994 The Brotherhood of Man Library</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Ken_Glasziou/The_Missing_Link">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La conexión perdida</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_innerface#volumen-1-no-3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Ann_Bendall/The_Heart_that_Became_Loveless">
-          <span class="pr-2">El corazón que se quedó sin amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 La personalidad de Dios es la maravilla de Dios. Es en mi propio corazón que encuentro la personalidad de Dios, y así lo conozco como mi Padre. No sé qué tiene mi corazón que solo él me deja ver a Dios, y conocerlo como mi Padre. Quizás es que el corazón es el asiento de mi propia personalidad y visión. Quizás es que el corazón es simplemente el lugar donde Dios se encuentra conmigo, y su personalidad y maravillas me iluminan suavemente en una personalidad de tipo hijo que puedo imaginar. Sea como sea, es maravilloso. Y la maravilla es el porqué de todo.
@@ -86,28 +63,3 @@ Una de las maravillas del corazón es que, cuando es movido por la visión de nu
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html
-
-
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/es/article/Ken_Glasziou/The_Missing_Link">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La conexión perdida</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/index/articles_innerface#volumen-1-no-3">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Ann_Bendall/The_Heart_that_Became_Loveless">
-          <span class="pr-2">El corazón que se quedó sin amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
