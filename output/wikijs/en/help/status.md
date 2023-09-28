@@ -100,16 +100,8 @@ For each language the content expected in this milestone is:
 - Books:
   - :green_book: Extra-biblical books: 11 books planned. (`Extra-biblical`)
   - :books: Other books supposed to be sources: 17 books planned. (`Book sources`)
-- :page_with_curl: Articles (`Articles`):
-  - Innerface: 510 planned
-  - Urantian Journal: 11 planned
-  - Fellowship Journal: 23 planned
-  - Fellowship Herald: 225 planned
-  - UB Annotated: 17 planned
-  - Jan Herca articles: 41 planned
-  - Other: 100 planned
-  - TOTAL: 927 planned
-- :notebook: Study aids: Planned about 20 of them, available for `en`. (`Study aids`)
+- :page_with_curl: Articles: 2000+ articles planned [see below]. (`Articles`)
+- :notebook: Study aids: Planned about 20 of them. (`Study aids`)
 - :memo: Diagrams: no planned, only tests. (`Diagrams`)
 - :capital_abcd: Indexes: currently indexes for topics are available. More are required to be planned. (`Indexes`)
 
@@ -120,8 +112,8 @@ For each language the content expected in this milestone is:
 | Danish     | `da` |                             |                       |                           |                       |                   |                        |
 | German     | `de` |                             |                       |                           |                       |                   |                        |
 | Greek      | `el` |                             |                       |                           |                       |                   |                        |
-| English    | `en` | :heavy_check_mark:          | :clock2: 3 / 100+     | :clock2: 50 / 927         | :heavy_check_mark:    |                   | :heavy_check_mark:     |
-| Spanish    | `es` | :clock2:                    | :clock2: 3 / 100+     | :clock2: 50 / 927         | :clock2:              |                   | :heavy_check_mark:     |
+| English    | `en` | :heavy_check_mark:          | :clock2:              | :clock2:                  | :heavy_check_mark:    |                   | :heavy_check_mark:     |
+| Spanish    | `es` | :clock2:                    | :clock2:              | :clock2:                  | :clock2:              |                   | :heavy_check_mark:     |
 | Estonian   | `et` |                             |                       |                           |                       |                   |                        |
 | Farsi      | `fa` |                             |                       |                           |                       |                   |                        |
 | Finnish    | `fi` |                             |                       |                           |                       |                   |                        |
@@ -141,6 +133,48 @@ For each language the content expected in this milestone is:
 | Swedish    | `sv` |                             |                       |                           |                       |                   |                        |
 | Turkish    | `tr` |                             |                       |                           |                       |                   |                        |
 
+### Articles progress detailed
+
+This is a detailed information on the progress with the addition of articles. Urantiapedia has been awarded with a grant by Urantia Foundation as part of the [Mustard Seed Program](https://www.urantia.org/news/2023-03/mustard-seed-grants-program). This grant includes resources for helping in the addition of articles in the languages specified below.
+
+The table below is not completed. There are more websites that we are considering to add to Urantiapedia. This table will be updated as progress is made in following months.
+
+| Publisher / Publication      | Number of<br>articles | English            | Spanish            | French    | Portuguese   |
+| ---------------------------- | --------------------: | :----------------: | :----------------: | :-------: | :----------: |
+| The Urantia Foundation       |                       |                    |                    |           |              |
+| - News Online                | 614                   | :heavy_check_mark: |                    |           |              |
+| - News Flash                 |  24                   | :heavy_check_mark: |                    |           |              |
+| - Urantian                   |  63                   | :heavy_check_mark: |                    |           |              |
+| Fellowship                   |                       |                    |                    |           |              |
+| - Fellowship Herald          | 232                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
+| - Mighty Messenger           | 218                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
+| - Study Group Herald         |   ?                   | :clock2:           |                    |           |              |
+| - The Urantian               |   ?                   | :clock2:           |                    |           |              |
+| IUA                          |                       |                    |                    |           |              |
+| - Journal                    |  99                   | :heavy_check_mark: |                    |           |              |
+| - Tidings                    | 364                   | :heavy_check_mark: |                    |           |              |
+| Innerface International      | 568                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
+| Spiritual Fellowship Journal |   ?                   | :clock2:           |                    |           |              |
+| Spain Association            |                       |                    |                    |           |              |
+| - Luz y Vida                 | 337                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
+| - Website                    |   ?                   |                    |                    |           |              |
+| ANZURA Association           |                       |                    |                    |           |              |
+| - 6-0-6                      |   ?                   |                    |                    |           |              |
+| - The Arena                  |   ?                   |                    |                    |           |              |
+| Cosmic Reflections           |   ?                   |                    |                    |           |              |
+| Urantia Society of LA        |                       |                    |                    |           |              |
+| - Agondonter                 |   ?                   |                    |                    |           |              |
+| French Association           |                       |                    |                    |           |              |
+| - CERDH - The Letter         |   ?                   |                    |                    |           |              |
+| - Le Lien                    |   ?                   |                    |                    |           |              |
+| Quebec Association           |                       |                    |                    |           |              |
+| - Reflectivite               |   ?                   |                    |                    |           |              |
+| - Website                    | 116                   |                    |                    |           |              |
+| UB Annotated                 |   ?                   | :clock2:           | :clock2:           |           |              |
+| Jan Herca articles           |  41                   | :clock2:           | :clock2:           |           |              |
+| **TOTAL**                    | **2676**              |                    |                    |           |              |
+
+
 ## Milestone III - Translator
 
 This milestone is explained in detail here: [Milestone III](/en/help/phases#milestone-iii-translator).
@@ -149,7 +183,7 @@ In this phase, developments will only be carried out in the applications, so it 
 
 Task                                                                                                                                      | State |
 ----------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-Development in Urantiapedia Tools of a massive page translator                                                                            |       |
+Development in Urantiapedia Tools of a massive page translator                                                                            | :heavy_check_mark: |
 Development in Wiki.js a new editor that allows assisted translations directly on the web                                                 |       |
 Development in Wiki.js of a display mode for The Urantia Book and any other content in two to four languages                              |       |
 Development in Wiki.js of a preference selector in the translation to use of *The Urantia Book* (for languages like Spanish with several) |       |
