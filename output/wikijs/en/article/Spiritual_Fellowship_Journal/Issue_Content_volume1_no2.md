@@ -1,5 +1,5 @@
 ---
-title: "Issue Content, Spring 1991"
+title: "Issue Content, Fall 1991"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -8,23 +8,22 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+Volume 1, Number 2, Fall, 1991
 
-Volume 1, Number 1, Premier Issue, Spring, 1991
+- **Science, Religion and _The Urantia Book_, Kenneth T. Glasziou**
+- **How _The Urantia Book_ Can Contribute to the Church, Helena E Sprague**
+- **_The Urantia Book_ as a Sermon Resource, Duane L. Faw**
 
-- **_The Urantia Book_ and Religious Studies, Meredith J. Sprunger**
-- **The Mathematics of Love, Charles E. Hansen**
-- **_The Urantia Book_ and Modern Science: Harmony or Discord?, Richard I. Bain**
+- Mainline Destiny
+- The Unique Function of Religion
+- Clergy Evaluate _The Urantia Book_
+- Tuning the Inner and Outer Life
+- Confirming a Spiritual Pilgrimage
+- A New Revelation? Who Needs It?
+- Throwing the Spiritual Baby Out With the Sexist Bathwater
+- Book Review: _Global Responsibility: In Search of a New Ethic_ by Hans Kuhn
 
-- A Faith Adventure
-- Biblical Appreciation Enhanced
-- Does It Preach?
-- Assessing the Ministry Potential of New Media
-- _The Urantia Book_ and Spiritual Renewal
-- The Christianization of a Pastor
-- Book Review: _No Other Name_ by Paul F. Knitter
-
-## The Spiritual Fellowship of Students of _The Urantia Book_
+## The Spiritual Fellowship of Students of _The Urantia Book_ 
 
 A Spiritual Leadership Network Interested in _The Urantia Book_ as a Resource in Living, Creative Service, Teaching, Preaching, and Writing.
 
@@ -54,16 +53,15 @@ Merlyn H. Cox
 
 <ins>Editorial Committee</ins>
 Bud Bromley
-Marilyn Buchanan
 Judy Smith
 Irene Sprunger
 Jack Williams
 
 <ins>Resource Consultants</ins>
 Vivian Albert
+Marilyn Buchanan
 Nancy Long
 Jack Rogers
-K. David Schlundt
 Dorothy Sloffer
 Everett Sloffer
 Marvel Zuercher
@@ -86,40 +84,38 @@ Copyright © 1991, All Rights Reserved.
 
 ***Editorials***
 
-- **A Faith Adventure**
-	We believe the church will be enriched by initiating a journal to interface with mainline clergy in the study of _The Urantia Book_.
-- **Latent Mainline Potential**
-	Mainline Christian churches, in spite of their problems, carry the latent potentials to continue to be the growing edge of the Christian faith.
-- **The Church: A Statement of Purpose and Belief**
-	Guest editorial by Everett Sloffer.
+- **The Unique Function of Religion**
+	Religious institutions must concern themselves with religion — spiritual enlightenment, nurturance, and prophetic insight.
+- **Biblical Appreciation Enhanced**
+	Much that modern scholarship has regarded as myth in the Biblical narrative has an actual historical basis and validity.
+- **Mainline Destiny**
+	We believe _The Urantia Book_ has the conceptual power and spiritual dynamic to generate a spiritual renaissance in the church.
 
 ***Articles***
 
-- **_The Urantia Book_ and Religious Studies**
-	Meredith Sprunger presents a critical approach to _The Urantia Book_.
-- **The Mathematics of Love**
-	Using mathematics, the universal language of science, Charles Hansen demonstrates that love is an inherent aspect of Reality.
-- **_The Urantia Book_ and Modern Science: Harmony or Discord?**
-	The differences between contemporary science and _The Urantia Book_ are discussed by Richard Bain.
+- **Science, Religion and _The Urantia Book_**
+	The dying stages of the age of materialism present both a challenge and an opportunity to prepare the way for a new era of religious revival.
+- **_The Urantia Book_ as a Sermon Resource**
+	Prof. Faw illustrates the use of the _Paramony_ in finding _The Urantia Book_ parallels to Biblical texts in sermon preparation.
 
 ***Columns***
 
-- **Interface**: Does it Preach?
+- **Interface**: A New Revelation? Who Needs It?
 - **Empowering the Church**
-	Church Members and _The Urantia Book_
+	How _The Urantia Book_ Can Contribute to the Church
 - **_The Urantia Book_ and Spiritual Renewal**
-	The Christianization of a Pastor
-- **Hymns in Worship**
+	Confirming a Spiritual Pilgrimage
 - **Media and Values**
-	Assessing the Ministry Potential of New Media
+	Tuning the Inner and Outer Life
+- **Music in Worship**
+	Throwing the Spiritual Baby Out with the Sexist Bath Water
 
 ***Departments***
 
-- Poems
-	- _Song of The Urantia Book_
-	- Inner Guidance
-- **Book Review**: _No Other Name_- Knitter
-- **Sermon**: _Arise, Take up Your Life and Walk_
+- **Issues and Answers**: Clergy Evaluate _The Urantia Book_
+- **Significant Books**
+	Global Responsibility: In Search of a New Ethic by Hans Kuhn
+- **Sermon**: A Teacher Sent from God
 - **_Urantia Book_ Resources**
 
 > **About the Editors**
@@ -135,4 +131,4 @@ Clyde Bedell (1898-1985), a widely recognized author and speaker in the field of
 
 _The Urantia Book_ reader also discovers information in many sections of the book which parallels Biblical material. Numerous young friends of the editor did not become interested in the Bible until they read _The Urantia Book_. The two books are mutually enhancing. Recognizing this close relationship, Dr. Duane L. Faw, Professor of Law emeritus of Pepperdine University School of Law, spent six years compiling a parallel and harmony of _The Urantia Book_ and the Bible. The _Paramony_ was published in 1986 and contains 25,000 cross-references revealing the similarities and differences between the facts and concepts of these two great books. Dr. Faw has been a teacher of adult Bible classes for 40 years and a certified lay speaker in the United Methodist Church for over 25 years. The _Paramony_ is an essential reference tool for studying relationships between _The Urantia Book_ and the Bible. A long time scholarly reader of _The Urantia Book_ describes the _Paramony_ as, “a well-structured volume, indispensable for those engaged in serious hermeneutics, particularly of the gospels.”
 
-If your local bookstore does not carry _The Urantia Book_, it can be ordered from The Urantia Foundation, 533 Diversey Parkway, Chicago, IL 60614. The _Concordex_ and _Paramony_ can be purchased from the Good Cheer Press, 1790 30th. Street, \#400, Boulder, CO 80301.
+If your local bookstore does not carry _The Urantia Book_, it can be ordered from The Urantia Foundation, 533 Diversey Parkway, Chicago, IL 60614. The _Concordex_ and _Paramony_ can be purchased from the Good Cheer Press, 1790 30th Street. \#400. Boulder, CO 80301

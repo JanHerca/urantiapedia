@@ -14,7 +14,7 @@ _This column addresses the concern for contemporary aids to worship. We welcome 
 
 Many clergy are faced with a serious dilemma in contemporary worship. With changing social attitudes and a growing restlessness within the institutional church, many see the need to change our worship forms.
 
-One of the most obvious aspects of this dilemma is the concern for sexist language in hymnody. New hymnbooks are being published yearly with notable omissions of traditional "favorites." In many congregations this has increased the tension between the clergy and their parishioners: the desire to change worship forms set against a background of strong and embedded traditions.
+One of the most obvious aspects of this dilemma is the concern for sexist language in hymnody. New hymnbooks are being published yearly with notable omissions of traditional “favorites.” In many congregations this has increased the tension between the clergy and their parishioners: the desire to change worship forms set against a background of strong and embedded traditions.
 
 This column will explore new worship forms while keeping this tension in mind. The primary emphasis will be on music as we consider the traditional and contemporary hymns, psalms, songs, choral responses, and liturgical settings. We will also examine how insights from _The Urantia Book_ can help guide our efforts.
 
@@ -22,10 +22,10 @@ On a practical level any examination of our worship forms may be disturbing to s
 
 This column will seek to support that change and offer encouragement to the ministers who strive to introduce new ideas, new songs, new liturgies, and new directions in the worship setting. To stimulate thinking in this direction, here are some possible future column topics:
 
-"_Are we Throwing the Baby Out with the Sexist Bath Water?_" Modern attempts at eliminating sexism are removing from new hymnals many old favorites. Is this justified? What insights does the _The Urantia Book_ have on sexism?
+“_Are we Throwing the Baby Out with the Sexist Bath Water?_” Modern attempts at eliminating sexism are removing from new hymnals many old favorites. Is this justified? What insights does the _The Urantia Book_ have on sexism?
 
-"_New Hymns: New Wine in Old Skins?_" Are contemporary hymns really expressing a new message or simply restating traditional theology? A new and global perspective seems to be emerging amidst the traditional language.
+“_New Hymns: New Wine in Old Skins?_” Are contemporary hymns really expressing a new message or simply restating traditional theology? A new and global perspective seems to be emerging amidst the traditional language.
 
-"_What Hymns Teach our Children_" Familiar hymns are powerful teaching tools. Should we examine their theological messages more carefully? How can new theological perspectives be taught through the introduction of new hymns?
+“_What Hymns Teach our Children_” Familiar hymns are powerful teaching tools. Should we examine their theological messages more carefully? How can new theological perspectives be taught through the introduction of new hymns?
 
 "_Is This Really a 'New Age?'_” Does New Age hymnody make a significant contribution to worship, or should we ignore it?
