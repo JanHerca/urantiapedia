@@ -57,7 +57,7 @@ Por tanto, y dada la imposibilidad actual de decantarse científicamente por una
 Debe anotarse aquí que los días judíos empezaban con un desfase de casi 18 horas con respecto a nuestros días actuales, pues los judíos empezaban a contar el comienzo del día a la puesta del sol. El gráfico muestra este desfase y aparece marcado el momento de la crucifixión.
 
 <figure id="Calendar_fig_1" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.png">
+<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.jpg">
 </figure>
 
 Algunos calendarios consultados no ofrecen exactamente esta fecha para el 14 de nisán, pero como ha quedado explicado, puesto que todo son conjeturas, se ha tratado de elaborar un calendario «posible» que se ajustara a este 7 de abril como 14 de nisán.

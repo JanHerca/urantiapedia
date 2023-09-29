@@ -37,14 +37,14 @@ El Hermón es en realidad una extensa cordillera conocida como Jabal Ech Cheikh 
 Para hacerse una idea de cómo fue el abigarrado lugar en tiempos de Jesús recurrí a la inestimable narración de _Caballo de Troya 6_, el best-seller de J.J. Benítez,[^6] que en sus páginas finales reproduce con un detalle asombroso esta ascensión. Todo este lujo de detalles fue reutilizado por mí al escribir mi versión novelada[^7] de la Parte IV de _El Libro de Urantia_ en la que estoy trabajando desde hace años. De ese modo utilizo ciertos elementos como el _asherat_ (una construcción conmemorativa fenicia aborrecida históricamente por los judíos) y el claro con el cedro en el centro, que aparecen en la obra de Benítez.
 
 <figure id="Hermon_figure_3" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_ascension.PNG">
+<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_ascension.jpg">
 <figcaption><em>Ruta de ascensión de Jesús al monte Hermón</em></figcaption>
 </figure>
 
 Me pareció una buena idea hacer en mi novela que Jesús tuviera un gesto de adoración sincero ante el monumento del _asherat_ (en _Caballo de Troya 6_ no se narra la ascensión de Jesús, sino la de Tiglat y sus dos acompañantes y es Tiglat el que hace la reverencia). Este gesto de Jesús da una muestra de su carácter personal y contrasta con la típica actitud judía hacia estos monumentos extranjeros (véase [2 Cr 34:1-7](/es/Bible/2_Chronicles/34#v1); [Miq 5:14-15](/es/Bible/Micah/5#v14)). Los reyes y los profetas de la antigüedad habían luchado por destruir estas construcciones, que les resultaban odiosas por el simple hecho de que conmemoraban a un dios distinto de Yavé, el dios judío. Sin embargo, para el Jesús de mi novela, el lugar donde se adora a Dios es lo de menos, lo importante es que todas las construcciones han sido realizadas por las manos de personas creyentes, tengan la concepción de Dios que sea.
 
 <figure id="Hermon_figure_4" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_panoramica.PNG">
+<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_panoramica.jpg">
 <figcaption><em>Panorámica desde lo alto del Hermón obtenida con Google Earth</em></figcaption>
 </figure>
 
