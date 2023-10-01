@@ -40,6 +40,6 @@ Según muestro en mi novela existe una posible explicación al novedoso interés
 
 * Artículo original: https://buscandoajesus.wordpress.com/articulos/salvin-pero-que-nombre-es-este/
 
-## Referencias
+## Notas
 
-[^1]: Jan Herca, _Jesus de Nazaret. Partes XI y XII_, 2010. https://buscandoajesus.wordpress.com/descargas/
+[^1]: Esta novela, [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), es una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.

@@ -54,4 +54,4 @@ Por último, una imagen de cómo se escribían en arameo las cuatro letras de Ye
 
 ## Notas
 
-[^1]: Este relato es la novela «Jesús de Nazaret», una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
+[^1]: Este relato es la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.

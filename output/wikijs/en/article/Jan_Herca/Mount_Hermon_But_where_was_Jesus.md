@@ -41,14 +41,14 @@ To get an idea of ​​what the motley place was like in the time of Jesus, I r
 <figcaption><em> Jesus' ascent to Mount Hermon </em></figcaption>
 </figure>
 
-I thought it was a good idea for my novel to make Jesus have a gesture of sincere worship before the _asherat_ monument (in _Caballo de Troya 6_ the ascension of Jesus is not narrated, but that of Tiglat and his two companions and it is Tiglat who makes the worship gesture). This gesture of Jesus gives an indication of his personal character and contrasts with the typical Jewish attitude towards these foreign monuments (see  [2 Ch 34:1-7](/en/Bible/2_Chronicles/34#v1); [Mic 5:14-15](/en/Bible/Micah/5#v14)). Kings and prophets of old times had fought to destroy these constructions, which were hateful to them for the simple fact that they commemorated a god other than Yahweh, the Jewish god. However, for the Jesus of my novel, the place where God is worshiped is the least important thing, the important thing is that all the constructions have been carried out by the hands of believers, regardless of their conception of God.
+I thought it was a good idea for my novel[^7] to make Jesus have a gesture of sincere worship before the _asherat_ monument (in _Caballo de Troya 6_ the ascension of Jesus is not narrated, but that of Tiglat and his two companions and it is Tiglat who makes the worship gesture). This gesture of Jesus gives an indication of his personal character and contrasts with the typical Jewish attitude towards these foreign monuments (see  [2 Ch 34:1-7](/en/Bible/2_Chronicles/34#v1); [Mic 5:14-15](/en/Bible/Micah/5#v14)). Kings and prophets of old times had fought to destroy these constructions, which were hateful to them for the simple fact that they commemorated a god other than Yahweh, the Jewish god. However, for the Jesus of my novel, the place where God is worshiped is the least important thing, the important thing is that all the constructions have been carried out by the hands of believers, regardless of their conception of God.
 
 <figure id="Hermon_figure_4" class= "image">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_panoramica.jpg">
 <figcaption><em>Panoramic view from the top of Hermon obtained with Google Earth</em></figcaption>
 </figure>
 
-In my novel, Jesus tells Tiglat legends about Mount Hermon. This mount was always associated in Jewish literature with mythological stories. In the _Book of Enoch_, an apocryphal from the time of Jesus, we can read:
+In my novel[^7], Jesus tells Tiglat legends about Mount Hermon. This mount was always associated in Jewish literature with mythological stories. In the _Book of Enoch_, an apocryphal from the time of Jesus, we can read:
 
 > Then they all swore together and pledged themselves under anathema. There were two hundred who went down to Ardis, which is the top of Mount Hermon, which they called that because they swore on it and committed themselves under anathema. These were the names of their chiefs: Semyaza, who was their paramount chief; Urakiva, Rameel, Kokabiel, Tamiel, Ramiel, Daniel, Ezequiel, Baraquiel, Asael, Armaros, Batriel, Ananel, Zaquiel, Samsiel, Sartael, Turiel, Yomiel, and Araziel: these were his decurions. [1 Enoc 6:5-8](/en/Bible/Enoch/6#v5) [^8]
 
@@ -58,7 +58,7 @@ It is curious but this book narrates that beings come from heaven, whom the _Boo
 
 * Original article: https://buscandoajesus.wordpress.com/descargas/
 
-## References
+## References and Notes
 
 [^1]: View Beit Jenn on Google Earth: Enter “Bayt Jinn, Syria” in the search box.
 
@@ -72,6 +72,6 @@ It is curious but this book narrates that beings come from heaven, whom the _Boo
 
 [^6]: JJ Benítez, _Trojan Horse 6_, Editorial Planeta, 1999.
 
-[^7]: Jan Herca, _Jesus de Nazaret. Partes XI y XII_, 2010. https://buscandoajesus.wordpress.com/descargas/
+[^7]: This book is the novel [“Jesus of Nazareth”](/en/book/Jan_Herca/Jesus_of_Nazareth), a biography about the Master based on _The Urantia Book_ that is a work in progress by the author.
 
 [^8]: A. Diez Macho, Federico Corriente, Antonio Piñero, _Apocrifos del Antiguo Testamento_, _Libro 1 de Enoc o Enoc etiópico_ 6:5-8, Ediciones Cristiandad, 1984. There are fragments of this verse in the Qumran manuscript 4QEna and 4QEnb.

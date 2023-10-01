@@ -49,6 +49,11 @@ Los dos únicos edificios notorios en las ruinas son una sinagoga imponente y mu
 
 Según Reed y Crossan, el trazado de las calles no sigue el clásico cardo máximo y decumano de las poblaciones romanizadas. Pero si se consulta la página web de los franciscanos, se dice todo lo contrario. En mi opinión, los arqueólogos franciscanos utilizan términos aplicables a ciudades de cuño romano un poco a la ligera para explicar sus hallazgos de Cafarnaúm, mencionando la existencia de un cardo, un decumano, insulae, etc. Y aunque puede que hubiera varias calles transversales de cierta importancia, la disposición de las arterias no obedece a un orden establecido como ocurría en las ciudades romanas cuadriculadas y que dio origen a la denominación cardo-decumano. Tampoco hay pavimentos de piedra ni tuberías de agua corriente ni cloacas de aguas residuales en las calles, como las encontramos en otras ciudades de cuño romano.
 
+<figure id="Figure_2" class="image urantiapedia">
+<img src="../../../image/article/Jan_Herca/Capernaum/jerusalem_9.jpg">
+<figcaption><em>Vivienda del primer siglo en Cafarnaúm. </em><br> © John Dominic Crossan and Jonathan L. Reed, <em>Excavating Jesus</em>, 2001.</figcaption>
+</figure>
+
 ## Las viviendas
 
 Las viviendas siguen una disposición caótica en torno a grandes espacios centrales o patios interiores, con estrechas callejuelas y pasadizos reptando tortuosas entre medias. En las casas no se encuentran restos de atrios y _triclinium_ o comedores de respeto. Las jambas de las puertas se muestran poco sólidas y seguras. En las estancias no se han encontrado ánforas de vino importado ni _unguetaria_, pequeños contenedores de aceite y perfumes de la gente rica, ni lamparitas de aceite con rica ornamentación. 
@@ -63,7 +68,7 @@ Así lo indican Reed y Crossan:
 
 El pasaje de la curación del paralítico ([Mc 2:4](/es/Bible/Mark/2#v4), [Lc 5:19](/es/Bible/Luke/5#v19)) evidencia un tipo de techumbre en los edificios, como muy bien apuntan los autores de _Jesús desenterrado_, de poca consistencia. «Unas vigas de madera sustentaban un espeso lecho de juncos que protegía los leños de la humedad, y todo ello se cubría con barro apisonado para obtener un mayor aislamiento». Estas sencillas cubiertas eran normalmente accesibles mediante escaleras de piedra o de peldaños de madera acopladas a una pared interior. Servían como lugar de juegos para los niños, como secadero de frutos, cosechas y pescados, o bien como dormitorio al aire libre en verano. Esto aclara perfectamente el pasaje en el que los amigos del paralítico le hacen descender a la estancia por medio de un agujero en el techo. No debía resultar difícil destapar parte de la urdimbre y hacer un boquete.
 
-La vivienda, por tanto, se componía de un gran patio central al que desembocaban varias habitaciones. Vivían familias completas, con los suegros y los padres inclusive (véase por ejemplo la curación de la suegra de Pedro en Mc 1:29). Este patio hacía durante los largos meses estivales de sala de estar, comedor y cocina, así como de taller, garage y almacén. La cocina se componía de un sencillo horno de barro y una piedra para moler el grano y formar la harina para el pan. Se han desenterrado patios con aperos agrícolas, como grandes muelas y prensas de aceite movidas por mulas o bueyes. En invierno toda la familia dormía en el interior de las habitaciones, normalmente en el suelo, sobre sencillas esteras, o todo lo más en literas plegables.
+La vivienda, por tanto, se componía de un gran patio central al que desembocaban varias habitaciones. Vivían familias completas, con los suegros y los padres inclusive (véase por ejemplo la curación de la suegra de Pedro en [Mc 1:29](/es/Bible/Mark/1#v29)). Este patio hacía durante los largos meses estivales de sala de estar, comedor y cocina, así como de taller, garage y almacén. La cocina se componía de un sencillo horno de barro y una piedra para moler el grano y formar la harina para el pan. Se han desenterrado patios con aperos agrícolas, como grandes muelas y prensas de aceite movidas por mulas o bueyes. En invierno toda la familia dormía en el interior de las habitaciones, normalmente en el suelo, sobre sencillas esteras, o todo lo más en literas plegables.
 
 Como mobiliario los arqueólogos han desenterrado numerosas vasijas de piedra, pero no muy grandes: sencillas jarritas, tazas o cuencos hechos a mano o fabricados con ayuda de un pequeño torno. Las lámparas eran sencillas, carentes de decoración, o todo los más con sencillos motivos florales. La cerámica encontrada, al parecer, procedía de la aldea de Kefar Hananya, en la Alta Galilea, y constaba de cazuelas, pucheros, cántaras para el agua y jarras de diferentes tipos. No eran muy frecuentes objetos más refinados como platos, fuentes y tazas.
 
@@ -75,12 +80,17 @@ Actualmente, en las ruinas visibles, pueden admirarse los restos de una hermosa 
 
 Las sinagogas del siglo I no solían ser edificios especiales. En muchos yacimientos se ha tenido que presuponer como sinagogas algunas viviendas que eran adaptadas para tal uso. En otros casos sí se realizaba alguna construcción, pero de gran sencillez. Crossan y Reed apuntan muy acertadamente que sinagoga, en la época de Jesús, no solía designar a un tipo de edificio concreto, sino a la asamblea o lugar de reunión habitual para celebrar los ritos religiosos. Este lugar no tenía porqué ser una construcción sancionada o sacralizada para tal fin.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="../../../image/article/Jan_Herca/Capernaum/800px-Capernaum_synagogue_by_David_Shankbone.jpg">
 <figcaption><em>Sinagoga de Cafarnaúm construida sobre la de tiempos de Jesús. </em> <a href="http://es.wikipedia.org/wiki/Capernaum_synagogue_by_David_Shankbone.jpg">Wikipedia</a></figcaption>
 </figure>
 
 Según el evangelio de Lucas la sinagoga como tal sí existió en el caso de Cafarnaúm ([Lc 7:1-10](/es/Bible/Luke/7#v1)), pues el evangelista incluso menciona al benefactor que la construyó. Está claro que no está hablando de una vivienda cualquiera o un lugar público, como una plaza. Habla de una construcción concreta. Esto me hace estar en desacuerdo con las sorprendentes interpretaciones de Crossan y Reed en esta cuestión. Para ellos la ausencia de unos restos claros y rotundos de una sinagoga del siglo I implican necesariamente que no hubo tal edificio, a pesar de que la sinagoga es mencionada incluso en otros pasajes de los evangelios ([Mc 1:21](/es/Bible/Mark/1#v21), [Jn 6:59](/es/Bible/John/6#v59)). 
+
+<figure id="Figure_4" class="image urantiapedia">
+<img src="../../../image/article/Jan_Herca/Capernaum/Capernaum_synagogue.jpg">
+<figcaption><em>Reconstrucción figurada de la sinagoga.</em></figcaption>
+</figure>
 
 ## La guarnición romana
 
@@ -135,11 +145,11 @@ Las excavaciones arqueológicas y el análisis de los expertos están aclarando 
 
 - John D. Crossan y Jonathan L. Reed, _Jesús desenterrado_, Editorial Crítica, 2001.
 
-- http://198.62.75.1/www1/ofm/sites/TScpmain.html, yacimientos arqueológicos de Cafarnaúm.
+- http://198.62.75.1/www1/ofm/sites/TScpmain.html, yacimientos arqueológicos de Cafarnaúm. (El enlace original está roto pero se puede acceder a una copia en [Internet Archive](https://web.archive.org/web/20120118210609/http://198.62.75.1/www1/ofm/sites/TScpmenu.html).)
 
 - http://en.wikipedia.org/wiki/Via_Maris, la via Maris.
 
 
 ## Notas
 
-[^1]: Este libro es la novela «Jesús de Nazaret», una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
+[^1]: Este libro es la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
