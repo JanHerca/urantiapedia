@@ -135,7 +135,7 @@ Para cada idioma, el contenido esperado en esta fase es:
 
 ### Progreso de los artículos detallado
 
-Esta es una información detallada sobre el progreso con la adición de artículos. Urantiapedia ha recibido una subvención de la Fundación Urantia como parte del [Programa Semilla de Mostaza] (https://www.urantia.org/news/2023-03/mustard-seed-grants-program). Esta subvención incluye recursos para ayudar a agregar artículos en los idiomas que se especifican a continuación.
+Esta es una información detallada sobre el progreso con la adición de artículos. Urantiapedia ha recibido una subvención de la Fundación Urantia como parte del [Programa Semilla de Mostaza](https://www.urantia.org/news/2023-03/mustard-seed-grants-program). Esta subvención incluye recursos para ayudar a agregar artículos en los idiomas que se especifican a continuación.
 
 La siguiente tabla no está completa. Hay más sitios web que estamos considerando agregar a Urantiapedia. Esta tabla se actualizará a medida que se avance en los siguientes meses.
 
