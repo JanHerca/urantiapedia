@@ -137,7 +137,7 @@ Mendel Nun asegura que el-Araj, que es apenas una franja delgada delante de la c
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="../../../image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_ES.png">
-<figcaption><em>Fragmento del mapa del Mar de Galilea basado en uno de Mendel Num con la localización de los puertos en tiempos de Jesús. A la izquierda se muestra Tabhga (Betsaida), el emplazamiento que muy seguramente fue el famoso hogar de varios apóstoles. A la derecha, et-Tell y el-Araj, los dos emplazamientos que se disputen la identificación con Betsaida-Julias.</em></figcaption>
+<figcaption><em>Mapa de los antiguos puertos del Mar de Galilea (basado en Mendel Nun).<br> A la izquierda se muestra Tabgha (Betsaida), el hogar de varios apóstoles. A la derecha, et-Tell y el-Araj, los dos emplazamientos que se disputan la identificación con Betsaida-Julias.</em></figcaption>
 </figure>
 
 ## Teorías de los expertos
@@ -200,7 +200,7 @@ Pero estoy seguro de que algún día, nuevos hallazgos, determinarán finalmente
 
 ## Addendum: el-Araj Excavation Project
 
-Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna duda de que con el tiempo nuevas campañas arqueológicas acabarían por confirmar mis suposiciones. En 2017, los medios de comunicación de todo el mundo se hicieron eco de un descubrimiento reciente. En el-Araj, el emplazamiento en que se sospechaba que podían estar las ruinas de Betsaida-Julias, se encontraron restos del período romano, en un estrazo por debajo de los restos del período bizantino. El equipo de arqueólogos dirigidos por el Dr. Merdechai Aviam ha sacado a la luz mosaicos de una casa de baños y una rara moneda de plata. Subsecuentes campañas de este equipo, [el-Araj Excatation Project](https://www.elarajexcavations.com/), ha sacado a la luz muchos más hallazgos que evidencian la existencia de una urbe en la zona.
+Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna duda de que con el tiempo nuevas campañas arqueológicas acabarían por confirmar mis suposiciones. En 2017, los medios de comunicación de todo el mundo se hicieron eco de un descubrimiento reciente. En el-Araj, el emplazamiento en que se sospechaba que podían estar las ruinas de Betsaida-Julias, se encontraron restos del período romano, en un estrato por debajo de los restos del período bizantino. El equipo de arqueólogos dirigidos por el Dr. Mordechai Aviam ha sacado a la luz mosaicos de una casa de baños y una rara moneda de plata. Subsecuentes campañas de este equipo, [el-Araj Excatation Project](https://www.elarajexcavations.com/), han producido muchos más hallazgos que evidencian la existencia de una urbe en la zona.
 
 ¡Cuántas cosas nos quedan aún por descubrir en este apasionante puzzle que es la vida de Jesús y su época!
 
