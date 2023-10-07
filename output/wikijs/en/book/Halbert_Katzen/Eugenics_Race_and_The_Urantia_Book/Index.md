@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Halbert Katzen J.D.**
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Halbert Katzen J.D.</p>
 
 * [FRONT PAGE](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book)
 * [Chapter 1 - Purpose and Parameters](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/1)

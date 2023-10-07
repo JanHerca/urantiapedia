@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Halbert Katzen J.D.</p>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +21,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **Halbert Katzen J.D.**
 
 This exploration of *Urantia Book* teachings was originally created for the Topical Studies page of *UBannotated.com*[^1] as a subtopic of “Eugenics and Race.” It now also serves as Appendix 2 of the “Eugenics, Race, and *The Urantia Book*” paper, which was first published as part of the *UBtheNEWS* project in 2011.
 

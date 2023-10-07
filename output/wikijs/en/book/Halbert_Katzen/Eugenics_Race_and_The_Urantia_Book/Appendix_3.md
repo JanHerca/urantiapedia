@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Halbert Katzen J.D.</p>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +21,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **Halbert Katzen J.D.**
 
 A list of references to the indicated concepts is offered[^1]:
 * “Superior mortals”: [UB 21:4.3](/en/The_Urantia_Book/21#p4_3); [UB 51:5.5](/en/The_Urantia_Book/51#p5_5); [UB 79:7.2](/en/The_Urantia_Book/79#p7_2).

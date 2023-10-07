@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Halbert Katzen J.D.</p>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +21,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **Halbert Katzen J.D.**
 
 This appendix integrates *The Urantia Book*’s history of humanity with taxonomy. To a certain extent, this involves an expansion and reconstruction of the *Homo* genus. This taxonomy was created to support visitors to the *UBtheNEWS* website in their efforts to get a better understanding of the anthropology-related reports and to supplement the Eugenics, Race, and *The Urantia Book* paper.
 
