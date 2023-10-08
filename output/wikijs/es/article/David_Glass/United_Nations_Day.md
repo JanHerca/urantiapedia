@@ -56,7 +56,7 @@ Estos supervisores y contribuyentes al desarrollo de nuestro mundo nos traen má
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/018.jpg">
 </figure>
 
-Por lo tanto, si bien podemos y debemos estar agradecidos y complacidos de vivir en la era histórica durante la cual se han realizado estas medidas iniciales hacia la realización del ideal del Maestro de la hermandad del hombre bajo la Paternidad de Dios, incluso mientras continuamos celebrar el advenimiento de la quinta revelación de época que ha venido en parte para ayudarnos en el desarrollo de nuestra sabiduría cada vez más madura con respecto a la realización de la intención creativa y cósmica de nuestro Padre de que nuestra "sabiduría humana debe evolucionar".
+Por lo tanto, si bien podemos y debemos estar agradecidos y complacidos de vivir en la era histórica durante la cual se han realizado estas medidas iniciales hacia la realización del ideal del Maestro de la hermandad del hombre bajo la Paternidad de Dios, incluso mientras continuamos celebrar el advenimiento de la quinta revelación de época que ha venido en parte para ayudarnos en el desarrollo de nuestra sabiduría cada vez más madura con respecto a la realización de la intención creativa y cósmica de nuestro Padre de que nuestra «sabiduría humana debe evolucionar».
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/016.jpg">

@@ -36,9 +36,9 @@ dateCreated: 2022-9-9T8:13:39Z
 
 El alma en evolución del hombre mortal se crea a partir de «posibilidades» preexistentes dentro del Supremo (ver <a id="a36_113"></a>[LU 117:5.11](/es/The_Urantia_Book/117#p5_11)).
 
-Esa declaración plantea más preguntas de las que responde. ¿Cómo sucede esto? ¿Cómo, de qué y de dónde surgen estas «posibilidades»? ¿Cómo llegaron a estar dentro del Supremo, que es «el Supremo», y cómo obtenemos estas «posibilidades» para construir nuestras almas? Pero primero, ¿qué son estas cosas llamadas "posibilidades"?
+Esa declaración plantea más preguntas de las que responde. ¿Cómo sucede esto? ¿Cómo, de qué y de dónde surgen estas «posibilidades»? ¿Cómo llegaron a estar dentro del Supremo, que es «el Supremo», y cómo obtenemos estas «posibilidades» para construir nuestras almas? Pero primero, ¿qué son estas cosas llamadas
 
-El concepto de "posibilidades dentro del Supremo" incluye las estrellas, los planetas, los universos y "todo lo que hay en ellos", es decir, todo en el mundo finito. Abarca toda la vida ya sea espiritual, morontial o mortal. Abarca todo lo potencialmente posible para la experiencia evolutiva finita.
+El concepto deincluye las estrellas, los planetas, los universos y es decir, todo en el mundo finito. Abarca toda la vida ya sea espiritual, morontial o mortal. Abarca todo lo potencialmente posible para la experiencia evolutiva finita.
 
 Pero todo lo que es «posible» originalmente tuvo un origen infinito. Entonces, ¿cómo es posible que lo que pertenece al infinito se manifieste en el nivel finito?
 
@@ -46,9 +46,9 @@ No se nos da una respuesta directa. Sin embargo, se señala que el infinito abar
 
 El infinito ya contiene lo finito. La transmutación de posibilidades del nivel infinito al nivel finito se convierte en una realidad a través de las relaciones de triodidad que inciden sobre y en el Supremo. (1261) El cómo está aparentemente más allá de nuestra comprensión.
 
-El Supremo se convierte así en el almacén de "posibilidades" al que las criaturas finitas como nosotros podemos recurrir para obtener lo que es posible para nosotros. Y habiendo transformado lo posible en experiencia real, estas experiencias reales de nuestras vidas mortales finalmente están destinadas a regresar al Supremo para su conservación eterna.
+El Supremo se convierte así en el almacén deal que las criaturas finitas como nosotros podemos recurrir para obtener lo que es posible para nosotros. Y habiendo transformado lo posible en experiencia real, estas experiencias reales de nuestras vidas mortales finalmente están destinadas a regresar al Supremo para su conservación eterna.
 
-Los medios por los cuales recurrimos al Supremo en busca de "posibilidades" están dominados casi por completo por los Siete Espíritus Ayudantes de la Mente, que tienen una influencia mucho mayor en nuestros pensamientos, si no en nuestras acciones, de lo que la mayoría de nosotros jamás consideró posible.
+Los medios por los cuales recurrimos al Supremo en busca deestán dominados casi por completo por los Siete Espíritus Ayudantes de la Mente, que tienen una influencia mucho mayor en nuestros pensamientos, si no en nuestras acciones, de lo que la mayoría de nosotros jamás consideró posible.
 
 En realidad, estos espíritus ayudantes de la mente parecen ser casi la única fuente de lo que reconocemos como nuestras propias mentes. Es una de sus responsabilidades llamar nuestra atención sobre las «posibilidades» disponibles para nosotros.
 
@@ -66,7 +66,7 @@ Cualquiera que sea la fuente de nuestros dilemas, estos son parte de las «posib
 
 ¿Se convierte la experiencia «no divina» en parte del Supremo? Ciertamente, lo que es «no semejante a Dios» no puede existir en presencia del Padre Universal, pero tal vez toda experiencia finita pueda contribuir a la constitución del Supremo.
 
-Los siete espíritus auxiliares de la mente que son tan importantes para nuestro crecimiento reciben nombres en consonancia con su propósito: intuición, comprensión, coraje, conocimiento, consejo, adoración y sabiduría. Aunque los ayudantes tienen un aura de ser personal, no son entidades reales. Se nos dice que son más como circuitos, pero esa habría sido una analogía acuñada a mediados de los años treinta. Quizás el concepto de "campo", tal como se ha vuelto importante en la física cuántica, ahora podría ser una mejor descripción.
+Los siete espíritus auxiliares de la mente que son tan importantes para nuestro crecimiento reciben nombres en consonancia con su propósito: intuición, comprensión, coraje, conocimiento, consejo, adoración y sabiduría. Aunque los ayudantes tienen un aura de ser personal, no son entidades reales. Se nos dice que son más como circuitos, pero esa habría sido una analogía acuñada a mediados de los años treinta. Quizás el concepto de tal como se ha vuelto importante en la física cuántica, ahora podría ser una mejor descripción.
 
 En realidad, los ayudantes son niveles de conciencia del Espíritu Madre del Universo (<a id="a70_86"></a>[LU 36:5.4](/es/The_Urantia_Book/36#p5_4)) quien es la fuente directa de nuestras mentes individuales. Se nos informa que no hay influencias comparables a los espíritus ayudantes de la mente una vez que partimos de esta Tierra.
 

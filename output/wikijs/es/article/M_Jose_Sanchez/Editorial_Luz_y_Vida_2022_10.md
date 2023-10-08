@@ -88,7 +88,7 @@ El texto escrito hace ya 67 años es una puerta que, una vez abierta, una vez pa
 
 > «Aquel día, el sermón del Maestro se redujo a una sola y enigmática sentencia.
 > 
-> »Se limitó a sonreír con ironía y a decir: “Todo lo que yo hago aquí es estar sentado en la orilla y vender agua del río”.
+> »Se limitó a sonreír con ironía y a decir: «Todo lo que yo hago aquí es estar sentado en la orilla y vender agua del río».
 > 
 > »Y concluyó su sermón.
 > 

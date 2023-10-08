@@ -36,7 +36,7 @@ dateCreated: 2022-09-26T01:27:35.398Z
 
 > «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». (<a id="a36_439"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
-“¿Soy yo Señor? ¿Estás realmente esperando a alguien como yo? ¿Es por eso que tengo el Libro de Urantia? ¿Y seguramente no puede ser cierto que se espera que los lectores de _El Libro de Urantia_ llevemos su mensaje a personas intolerantes, poco receptivas y atrasadas cuyas mentes están cerradas a cualquier mensaje que no sea el suyo propio?
+«¿Soy yo Señor? ¿Estás realmente esperando a alguien como yo? ¿Es por eso que tengo el Libro de Urantia? ¿Y seguramente no puede ser cierto que se espera que los lectores de _El Libro de Urantia_ llevemos su mensaje a personas intolerantes, poco receptivas y atrasadas cuyas mentes están cerradas a cualquier mensaje que no sea el suyo propio?»
 
 Pero, ¿qué pasa con todos esos conceptos emocionantes sobre nosotros, los lectores de libros? ¿No somos un grupo de emergencia muy especial elegido para ser trasladado a algún nuevo planeta cuando estas ‘otras personas’ han hecho que este sea inhabitable? ¿O no somos un acervo genético especial elegido para ser los sobrevivientes de un holocausto atómico para fundar una raza nueva y superior? ¿Y no somos todos miembros de élite del Cuerpo de Reserva del Destino?
 

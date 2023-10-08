@@ -37,7 +37,7 @@ _Este documento es un reflejo escrito de las charlas plenarias en la Sesión de 
 
 La fuente del ministerio celestial en el gran universo es la persona del Espíritu Infinito. Así como el Padre es amor, y el Hijo es misericordia, Dios Espíritu es ministerio: el ministerio del amor del Padre y de la misericordia del Hijo a las criaturas del universo.
 
-El Espíritu Infinito es: La fuente de toda mente; Personalmente consciente de cada persona mental en toda la creación; El Dios de la Acción; El creador de una vasta familia de ministros espirituales.
+El Espíritu Infinito es: La fuente de toda mente; personalmente consciente de cada persona mental en toda la creación; el Dios de la Acción; el creador de una vasta familia de ministros espirituales.
 
 _Las personalidades espirituales de la inmensa familia del Espíritu Divino e Infinito están dedicadas para siempre al servicio del ministerio del amor de Dios y de la misericordia del Hijo hacia todas las criaturas inteligentes de los mundos evolutivos del tiempo y del espacio. Estos seres espirituales constituyen la escala viviente por la que el hombre mortal se eleva desde el caos hasta la gloria._ <a id="a41_404"></a>[[LU 9:8.17](/es/The_Urantia_Book/9#p8_17)]
 
@@ -49,7 +49,7 @@ Más de una década después, encontré la sección en _El Libro de Urantia_ que
 
 Mientras reflexionamos sobre la fuente última de los ángeles, el Espíritu Infinito, nos enfrentamos al desafío de lidiar con el desconcertante concepto del infinito. ¿Cómo podemos acercarnos al origen del ministerio celestial sin intentar abarcar el infinito? Aunque parece seguro que no podemos entender verdaderamente al Espíritu Infinito, podemos progresar hacia la comprensión de la enormidad del alcance y alcance de su poder e influencia al estudiar la información que se ha presentado en la revelación.
 
-El progreso humano en la vida comienza en el planeta de nuestro nacimiento. Viajaremos desde aquí a través del sistema, la constelación, el universo local, el superuniverso, el universo central y el Paraíso. Dado que el universo local es el punto medio de este viaje, y dado que se nos ha dado una gran cantidad de información sobre los seres espirituales que sirven en el universo local, se me ocurrió que podíamos acercarnos a la enormidad de la familia del Espíritu Infinito. por matemáticas simples; sumando lo que sabemos sobre el número de ángeles en nuestro nivel local y luego multiplicándolo hacia afuera.
+El progreso humano en la vida comienza en el planeta de nuestro nacimiento. Viajaremos desde aquí a través del sistema, la constelación, el universo local, el superuniverso, el universo central y el Paraíso. Dado que el universo local es el punto medio de este viaje, y dado que se nos ha dado una gran cantidad de información sobre los seres espirituales que sirven en el universo local, se me ocurrió que podíamos acercarnos a la enormidad de la familia del Espíritu Infinito, por matemáticas simples; sumando lo que sabemos sobre el número de ángeles en nuestro nivel local y luego multiplicándolo hacia afuera.
 
 Veamos los números en el universo local.
 
@@ -61,7 +61,7 @@ Supervisores celestiales | 3 millones
 Conciliadores Universales | 400 millones
 Asesores Técnicos | 500 millones
 Los Registradores Celestiales | 75
-Ángeles registradores | 4000000000
+Ángeles registradores | 4.000 millones
 Compañeros morontiales | 70 mil millones  
 
 Así que tenemos 76.403.800.000 ángeles trabajando en el nivel del universo local de Nebadón. ¡76.400 millones! Pero esta recopilación no está completa. Debemos agregar a este montón angelical «muy alto en millones» los Asistentes Más Altos, un número de Instructores de Mundos Mansión «más allá de la comprensión de la mente mortal», y varios otros tipos «demasiado numerosos para catalogar». Aunque estos números seguramente suman algo mucho más alto, digamos de manera conservadora que hay 80 mil millones de ángeles trabajando para nuestro universo local.
@@ -148,15 +148,15 @@ La familia del Espíritu Infinito avanza cada vez más hacia abajo, acercándose
 
 Estamos rodeados de ministros celestiales que están interesados ​​en el desarrollo de nuestro carácter: emocional, intelectual, social y espiritual. Los ángeles pasan eones ayudando a crear legiones y legiones de criaturas del universo perfeccionadas, criaturas que:
 
-- Comenzar desde los puntos más bajos de los universos y avanzar hacia el Paraíso, en el abrazo de Dios Padre.  
+- Comienzan desde los puntos más bajos de los universos y avanzan hacia el Paraíso, en el abrazo de Dios Padre.  
 
 - Son morales, éticos, alegres, fieles, confiados, dignos de confianza, valientes, misericordiosos y pacientes.
 
-- Prosperar en la adoración y regocijarse en el servicio.
+- Prosperan en la adoración y se regocijan en el servicio.
 
-- Tener una experiencia profunda con todos los niveles de la realidad del universo.
+- Tienen una experiencia profunda con todos los niveles de la realidad del universo.
 
-- Haberse alistado irrevocablemente al servicio de Dios
+- Se han alistado irrevocablemente al servicio de Dios
 
 - Son para siempre inmunes a la rebelión.  
 

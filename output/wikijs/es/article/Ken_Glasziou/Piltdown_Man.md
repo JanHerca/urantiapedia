@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Un tema muy actual de interés público y científico en la década de 1930 fue el concepto de "eslabón perdido", la evidencia fósil que vincularía indiscutiblemente la evolución humana con la de nuestros "primos", la familia de los simios.
+Un tema muy actual de interés público y científico en la década de 1930 fue el concepto de la evidencia fósil que vincularía indiscutiblemente la evolución humana con la de nuestros la familia de los simios.
 
 En Bain et al., «_The Science Content of The Urantia Book_» (1991), llamamos la atención sobre el hecho de que en su discusión sobre nuestra evolución, los Documentos de Urantia mencionan al hombre de Java, al hombre de Pekín, al hombre de Heidelberg, al hombre de Cromagnon y al hombre de Neanderthal, pero no mencionar el que fue el más actual de todos a mediados de la década de 1930: el hombre de Piltdown. De él, el famoso Louis Leakey escribió en su libro de 1934, _Adam's Ancestors_, que el cráneo de Piltdown está probablemente mucho más relacionado con el Homo sapiens que con cualquier otro tipo conocido. También citamos del libro de 1981 de Martin J. Reader, _Missing Links_ que el hombre de Piltdown no fue desacreditado como falso hasta el período de 1950.
 

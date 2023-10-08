@@ -54,7 +54,7 @@ Sin duda, los autores de los Documentos de Urantia eran plenamente conscientes d
 
 Al comienzo de la Parte 4, «La vida de Jesús», en una conversación entre Emanuel y Miguel antes del otorgamiento de Jesús, podemos leer: «La gran misión que debes realizar y experimentar en la encarnación mortal está contenida en tu decisión de vivir una vida totalmente dedicada a hacer la voluntad de tu Padre Paradisiaco, y así revelar a Dios, tu Padre, en la carne y especialmente a las criaturas de carne... .Demuestra en tu corta y única vida en la carne... las posibilidades trascendentes **que puede alcanzar un humano que conoce a Dios durante la breve carrera de la existencia mortal**.» (<a id="a54_599"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 
-A lo largo de los años intermedios, muchas personas prominentes han descartado la vida real de Jesús como un ideal alcanzable solo para un ser divino. Los Documentos de Urantia no permiten esta interpretación. En cambio, los autores nos lo imponen como una directiva "obligatoria" de Jesús para todos los que comprenden su revelación:
+A lo largo de los años intermedios, muchas personas prominentes han descartado la vida real de Jesús como un ideal alcanzable solo para un ser divino. Los Documentos de Urantia no permiten esta interpretación. En cambio, los autores nos lo imponen como una directivade Jesús para todos los que comprenden su revelación:
 
 > «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión **consistirá en la vida que viviréis entre los hombres** —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido.» (<a id="a58_374"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3)) Y el uso de «deberá» como imperativo enfatiza que esto es más una orden que un mero consejo.
 
@@ -90,7 +90,7 @@ Amor es una palabra de la que se abusa mucho en nuestro idioma. Como se define e
 
 Uno de los mayores obstáculos para la unidad en la familia de Dios es el síndrome de los «escogidos». Vernos a nosotros mismos o a nuestro grupo como especiales, como apartados por Dios, representa un obstáculo drástico para la unidad para los seguidores de la cuarta y quinta revelación de época.
 
-Para los destinatarios de la cuarta revelación de época, el concepto de ser "salvados por la sangre del cordero" los distingue del resto de la humanidad como élite, especial y exclusivo.
+Para los destinatarios de la cuarta revelación de época, el concepto de serlos distingue del resto de la humanidad como élite, especial y exclusivo.
 
 Para los seguidores de la quinta revelación de época, el hecho mismo de poseer un_Libro de Urantia_ parecía convertirse en un ícono sustituto para que los individuos se distinguieran como los nuevos elegidos, por lo tanto, especiales y de élite.
 

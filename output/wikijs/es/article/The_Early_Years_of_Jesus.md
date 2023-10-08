@@ -56,7 +56,7 @@ Uno de esos historiadores[^1] afirma que: «*En ninguna parte el trasfondo hist�
 
 Otro historiador, Alfred Edersheim,[^2] observa la vida temprana de Jesús desde una perspectiva diferente. Nos informa sobre el tipo de crianza y educación que probablemente habrían recibido los jóvenes judíos en una provincia como Galilea en la época de Jesús.
 
-> “*Para el estudio en la escuela desde los cinco hasta los diez años, la Biblia era exclusivamente el libro de texto. De los diez a los quince años era el «Mishner» o ley tradicional; después de esa edad el estudiante ingresaba a aquellos estudios teológicos tal como se realizaban en las academias superiores de los Rabinos.*
+> «*Para el estudio en la escuela desde los cinco hasta los diez años, la Biblia era exclusivamente el libro de texto. De los diez a los quince años era el «Mishner» o ley tradicional; después de esa edad el estudiante ingresaba a aquellos estudios teológicos tal como se realizaban en las academias superiores de los Rabinos.*»
 
 > «*El estudio de la Biblia comenzó con Levítico. Luego pasó a otras partes del Pentateuco –los primeros cinco libros de la Biblia– y finalmente al Talmud, la ley oral, pero solo para aquellos estudiantes mayores de quince años*».
 

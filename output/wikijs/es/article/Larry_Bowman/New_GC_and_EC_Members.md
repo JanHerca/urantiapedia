@@ -79,7 +79,7 @@ Las décadas de experiencia de Albert en investigación y desarrollo y control d
 
 Sue es una de varios hijos de Mary y el difunto Paul Snider, quien fue el primer presidente de la antigua Hermandad Urantia fuera de Illinois. Sue y todos sus hermanos se criaron con las enseñanzas del Libro de Urantia y cada uno ha contribuido al movimiento Urantia de alguna manera. Su hermana Cayce sirvió brevemente en el Consejo General la década pasada.
 
-Sue vive en Naperville, en los suburbios de Chicago, es miembro general y ha sido líder de un grupo de estudio desde 2008. En la sesión de estudio de verano de 2018, dirigió una sesión de trabajo sobre "Aprovechar el poder transformador de los grupos pequeños". Durante los últimos nueve años ha estado dirigiendo un grupo comunitario de mujeres en una megaiglesia sin denominación.
+Sue vive en Naperville, en los suburbios de Chicago, es miembro general y ha sido líder de un grupo de estudio desde 2008. En la sesión de estudio de verano de 2018, dirigió una sesión de trabajo sobre Durante los últimos nueve años ha estado dirigiendo un grupo comunitario de mujeres en una megaiglesia sin denominación.
 
 De profesión, Sue es consultora de investigación de mercado y ha sido moderadora de grupos focales y facilitadora de reuniones para clientes de Fortune 500. Una habilidad especial es liderar grupos dispares en la escucha objetiva, el establecimiento de metas, la colaboración y la inclusión para despegarse, mantenerse en el camino y avanzar.
 

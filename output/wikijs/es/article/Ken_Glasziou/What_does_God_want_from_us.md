@@ -44,7 +44,7 @@ Un comentario adicional de Emmanuel es importante para nuestro propósito: «_La
 
 Desde nuestro punto de vista, la vida de Jesús fue vivida para revelar la naturaleza de Dios a la humanidad. Pero el mismo hecho de que su revelación fuera indicativa de las posibilidades alcanzables por los seres humanos que conocen a Dios nos informa que su vida fue y es un modelo que debemos tratar de emular.
 
-Dos pasos esenciales para el éxito de Jesús fueron la dedicación de su propia voluntad para hacer la voluntad de Dios y la fe total que puso en Dios. Esto se ilustra con su respuesta a una pregunta del tipo "¿hasta dónde podemos llegar?". La respuesta de Jesús realmente dijo: "Hasta el final".
+Dos pasos esenciales para el éxito de Jesús fueron la dedicación de su propia voluntad para hacer la voluntad de Dios y la fe total que puso en Dios. Esto se ilustra con su respuesta a una pregunta del tipo La respuesta de Jesús realmente dijo:
 
 > «Tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra». (<a id="a48_600"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
 

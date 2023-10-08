@@ -348,7 +348,7 @@ La Fellowship ayudó a patrocinar a los participantes en la reciente Feria Inter
 
 Algunos de los comentarios de los participantes fueron: «Estoy muy feliz de haber tenido esta gran oportunidad que me ha enseñado muchas cosas. Pude interactuar con muchas personas con diferentes puntos de vista y compartir muchos momentos memorables. Ha sido muy satisfactorio poder ayudar a otros a descubrir _El Libro de Urantia_ y compartir las profundas enseñanzas que contiene. Estoy muy agradecido con todos aquellos que ayudaron a hacer esto posible». _Carlos Garro_
 
-“Esta experiencia ha sido un gran placer y la verdad he aprendido muchas cosas nuevas. Ahora conozco nuevas formas de compartir el mensaje con personas interesadas. Espero ser de servicio y hacer esto de nuevo en el futuro. Gracias por tu apoyo." _Diego Marroquín Ayala_
+«Esta experiencia ha sido un gran placer y la verdad he aprendido muchas cosas nuevas. Ahora conozco nuevas formas de compartir el mensaje con personas interesadas. Espero ser de servicio y hacer esto de nuevo en el futuro. Gracias por tu apoyo.» _Diego Marroquín Ayala_
 
 «Fue una experiencia maravillosa para mí poder compartir información sobre nuestro Padre Universal y _El Libro de Urantia_. Por favor, cuente conmigo para ayudar en futuros eventos. También fue una gran experiencia conocer y trabajar con los tres jóvenes. Esta experiencia les ayudará a organizar ferias del libro en sus propios países». _Gustavo García_
 

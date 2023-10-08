@@ -52,7 +52,7 @@ Naturalmente, siguió una avalancha de libros denunciando que la Sábana Santa e
 
 Uno de los más vociferantes de los falsos gritos afirmó que la imagen era una simple pintura de óxido de hierro utilizando técnicas que eran bien conocidas en la Edad Media. Para quien conozca el detalle de la imagen, la propuesta parece demasiado simplista. Tampoco tiene en cuenta las cifras del análisis espectral que muestran que no hay suficiente hierro en las áreas de la imagen para explicar la intensidad del color.
 
-Sin embargo, a pesar de todos los "si" y "pero", la datación por carbono pareció descartar la posibilidad de que la Sábana Santa se remonte a la época de Jesús.
+Sin embargo, a pesar de todos losy la datación por carbono pareció descartar la posibilidad de que la Sábana Santa se remonte a la época de Jesús.
 
 Las dudas reales sobre la conclusión de la datación por carbono quizás comenzaron cuando se filtró información de que la datación por carbono de una momia egipcia del Museo de Manchester había dado el peculiar resultado de que los vendajes alrededor del cuerpo de la momia habían sido fechados en unos 1000 años más jóvenes que el cuerpo. . Esta fuga parece haber generado una avalancha de información contradictoria que proviene de otras dataciones de carbono.
 

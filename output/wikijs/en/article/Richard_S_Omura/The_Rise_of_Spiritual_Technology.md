@@ -245,7 +245,7 @@ Dangers of Extreme Mysticism. “_Mysticism, as the technique of the cultivation
 
 > All of this gravitates consciousness toward the subconscious rather than in the direction of the zone of spiritual contact, the superconscious. Many mystics have carried their mental dissociation to the level of abnormal mental manifestations. <a id="a245_246"></a>[[UB 100:5.9](/en/The_Urantia_Book/100#p5_9)]
 
-**Reality Avoidance** “There is great danger associated with the habitual practice of religious daydreaming; mysticism may become a technique of reality avoidance, albeit it has sometimes been a means of genuine spiritual communion. Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable. Under no circumstances should the trancelike state of visionary consciousness be cultivated as a religious experience.
+**Reality Avoidance** “There is great danger associated with the habitual practice of religious daydreaming; mysticism may become a technique of reality avoidance, albeit it has sometimes been a means of genuine spiritual communion. Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable. Under no circumstances should the trancelike state of visionary consciousness be cultivated as a religious experience.”
 
 > The characteristics of the mystical state are diffusion of consciousness with vivid islands of focal attention operating on a comparatively passive intellect. <a id="a249_161"></a>[[UB 100:5.8,9](/en/The_Urantia_Book/100#p5_8)]
 

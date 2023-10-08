@@ -67,7 +67,7 @@ El personal del Príncipe de cien se organizó en diez consejos (comisiones, col
 
 > Cada una de las diez comisiones planetarias se dedicó a hacer avanzar, de manera *lenta* y natural, los intereses que se les habían confiado. Su plan consistió en atraer a las mejores inteligencias de las tribus circundantes, y después de haberlos enseñado, enviarlos de vuelta a sus pueblos respectivos como emisarios del progreso social. <a id="a67_342"></a>[[LU 66:6.4](/es/The_Urantia_Book/66#p6_4)]
 
-Nuestras generaciones modernas vieron este enfoque no misionero presentado en los episodios de televisión de Star Trek, donde se le llamó «la directiva principal». Las razas roja y azul fueron elegidas desde el principio para ser educadas en el programa de Dalamatian. Una de las «comisiones», el colegio de religión revelada, ofreció a los estudiantes un plan de estudios de cuatro componentes: 1) los siete cantos de adoración, 2) la frase de alabanza diaria, 3) la ley moral conocida como el Camino del Padre (la Siete Mandamientos), y finalmente 4) la oración del Padre, en la que se revela «_la venida del  mejorador prometido, el don adámico de una nueva raza,_». <a id="a69_670"></a>[[LU 66:5.13-15](/es/The_Urantia_Book/66#p5_13)]
+Nuestras generaciones modernas vieron este enfoque no misionero presentado en los episodios de televisión de Star Trek, donde se le llamó «la directiva principal». Las razas roja y azul fueron elegidas desde el principio para ser educadas en el programa de Dalamatia. Una de las «comisiones», el colegio de religión revelada, ofreció a los estudiantes un plan de estudios de cuatro componentes: 1) los siete cantos de adoración, 2) la frase de alabanza diaria, 3) la ley moral conocida como el Camino del Padre (la Siete Mandamientos), y finalmente 4) la oración del Padre, en la que se revela «_la venida del  mejorador prometido, el don adámico de una nueva raza,_». <a id="a69_670"></a>[[LU 66:5.13-15](/es/The_Urantia_Book/66#p5_13)]
 
 > Entre los últimos estudiantes que se formaron en Mesopotamia para trabajar con sus razas respectivas se encontraban ... algunos representantes de los hombres rojos y de los hombres azules; ... Hap ofreció a las razas primitivas una ley moral. Este código era conocido como «el Camino del Padre» ... <a id="a71_301"></a>[[LU 66:7.7-8](/es/The_Urantia_Book/66#p7_7)]
 
@@ -89,7 +89,7 @@ Durante 300.000 años, todo parecía ir bien. Luego, unos 200.000 años antes de
 
 Se nos dice que, «_cuando estalló la rebelión, Dalamatia tenía una población permanente de casi seis mil habitantes. Esta cifra incluye a los estudiantes asiduos._» <a id="a89_165"></a>[[LU 66:7.20](/es/The_Urantia_Book/66#p7_20)] La raza roja, junto con los seis mil ciudadanos y visitantes que normalmente sumaban hasta mil adicionales, fueron testigos de la efectos externos visibles de la guerra en el cielo. Me pregunto si tal vez no se podría ver y entender mucho en realidad. Sin embargo, experimentaron el incumplimiento del programa de mejoramiento de Caligastia. Lamentaron la deserción de sus «maestros extraplanetarios». Eventualmente, se habrían enterado de la pérdida del árbol de la vida en la ciudad.
 
-Recordemos que los grupos que estaban siendo entrenados en el programa del Príncipe eran andonitas, en su mayoría sangiks primarios, rojo, azul y amarillo, junto con algunos de la raza naranja que estaban presentes. Se dice muy poco acerca de la respuesta de estos primeros humanos al estallido de rebelión entre sus maravillosos maestros. Al comienzo del conflicto, los leales liderados por Van y Amadon se mudaron de la ciudad del Príncipe a “_una colonia mal protegida y sin murallas situada a unos kilómetros al este de Dalamatia,_. <a id="a91_537"></a>[[LU 67:3.4](/es/The_Urantia_Book/67#p3_4)]
+Recordemos que los grupos que estaban siendo entrenados en el programa del Príncipe eran andonitas, en su mayoría sangiks primarios, rojo, azul y amarillo, junto con algunos de la raza naranja que estaban presentes. Se dice muy poco acerca de la respuesta de estos primeros humanos al estallido de rebelión entre sus maravillosos maestros. Al comienzo del conflicto, los leales liderados por Van y Amadon se mudaron de la ciudad del Príncipe a «_una colonia mal protegida y sin murallas situada a unos kilómetros al este de Dalamatia,_». <a id="a91_537"></a>[[LU 67:3.4](/es/The_Urantia_Book/67#p3_4)]
 
 Todo el «colegio de religión revelada» siguió a Van y Amadon, mientras que solo algunos miembros de los otros consejos se mantuvieron leales. Podríamos atribuir este resultado al primer grito de guerra de la rebelión del Manifiesto de Lucifer, «el Padre Universal no existía realmente». Debió ser una doctrina repugnante para los miembros del séquito del Príncipe inmersos en las tradiciones religiosas y comprometidos con las revelaciones del universo. Hoy todavía nos ocupamos de esta herencia, las enseñanzas persistentes del ateísmo y la afirmación del yo que nació por primera vez en este momento de la historia de la Tierra.
 
@@ -141,21 +141,21 @@ Aquí hay algunas declaraciones típicas de las siete enseñanzas tal como apare
 
 ## 1. Los Siete Valores o Enseñanzas de los Ojibwe
 
-> “Los Anishinaabeg debían actuar siempre en AMOR.
+> «Los Anishinaabeg debían actuar siempre en AMOR.»
 >
-> 1. Amar al Gran Espíritu como él amó a su pueblo, porque fue el amor del Gran Espíritu el que dio vida.
+> 1. «Amar al Gran Espíritu como él amó a su pueblo, porque fue el amor del Gran Espíritu el que dio vida.»
 >
-> 2. RESPETAR toda vida en la Madre Tierra. Mostrar verdadero respeto era dar de sí mismos en beneficio de toda la vida.
+> 2. «RESPETAR toda vida en la Madre Tierra. Mostrar verdadero respeto era dar de sí mismos en beneficio de toda la vida.»
 >
-> 3. Tener VALOR para hacer siempre eso era moralmente correcto.
+> 3. «Tener VALOR para hacer siempre eso era moralmente correcto.»
 >
-> 4. Ser HONESTOS consigo mismos. Vivir en el espíritu de cómo fueron creados. Nunca mentir o chismear unos sobre otros.
+> 4. «Ser HONESTOS consigo mismos. Vivir en el espíritu de cómo fueron creados. Nunca mentir o chismear unos sobre otros.»
 >
-> 5. Vivir en SABIDURÍA y eso es conocer los dones que el Gran Espíritu dio a todos. Usar estos dones para construir una familia y una comunidad.
+> 5. «Vivir en SABIDURÍA y eso es conocer los dones que el Gran Espíritu dio a todos. Usar estos dones para construir una familia y una comunidad.»
 >
-> 6. Actuar siempre en HUMILDAD. Una era pensar siempre en sus semejantes y en su comunidad antes de pensar en sí mismos.
+> 6. «Actuar siempre en HUMILDAD. Una era pensar siempre en sus semejantes y en su comunidad antes de pensar en sí mismos.»
 >
-> 7. Buscar siempre la VERDAD. La verdad está en el espíritu.”[^6]
+> 7. «Buscar siempre la VERDAD. La verdad está en el espíritu.»[^6]
 
 Rápidamente reconocemos el fuerte núcleo ético que caracteriza al recordado Instructivo Original. Me surgió una pregunta sobre la «honestidad», por ejemplo, porque siempre aparece en la lista de las Instrucciones originales. ¿Es la honestidad en acción un resultado del mandamiento divino de ser honesto? «Anishnaabeg siempre debían ser honestos consigo mismos». Darcy Rheault cree que la filosofía nativa reconoce la honestidad como un «a priori». Los «Siete Dones» son «no mandamientos… [sino] codificados en nuestro ser, nuestro espíritu». Rheault se refiere al mismo fenómeno de la mente que el filósofo Immanuel Kant describió como «estructuras cognitivas innatas». Si son innatos, también deben naturalmente requerir entrenamiento e instrucción para hacerlos practicables, a fin de aplicarlos a la vida diaria en el mundo físico.
 
@@ -169,7 +169,7 @@ Note que los números seis y siete en la versión del Jefe Joseph son anómalos 
 
 ## 3. Las Siete Leyes del Cherokee
 
-Rolling Thunder (Cherokee, Alabama) da una versión algo más secularizada pero aún así confirma un origen divino. “El mismo Gran Espíritu nos dio el código, las siete leyes, hace mucho tiempo. Hace mucho tiempo me lo regaló un viejo indio que se fue hace muchos años.
+Rolling Thunder (Cherokee, Alabama) da una versión algo más secularizada pero aún así confirma un origen divino. «El mismo Gran Espíritu nos dio el código, las siete leyes, hace mucho tiempo. Hace mucho tiempo me lo regaló un viejo indio que se fue hace muchos años.»
 
 Aquí, todavía tenemos, como él dice, «las siete leyes»: «Número uno es el respeto por la autoridad adecuada. El número dos es preservar y promover las __bellezas de la naturaleza__. El número tres es juzgar con bondad y __sabiduría__. El número cuatro es la moderación en todas las cosas. El número cinco es __jugar limpio__ en el juego de la vida. El número seis es que la __palabra de honor__ de una persona es sagrada. El número siete es __respeto por la diferencia__».[^8]
 
@@ -248,7 +248,7 @@ Los Hopi y otras tribus nativas americanas tienen una profecía más moderna que
 
 [^2]: https://www.archaeologydaily.com/news/201012095735/LostCivilization-Under-Persian-Gulf.html
 
-[^3]: [Génesis 6:2-4](/es/Bible/Genesis/6#v2), “los hijos de dios ... las hijas de los hombres (Santa Biblia) y el Libro de Enoc
+[^3]: [Génesis 6:2-4](/es/Bible/Genesis/6#v2), «los hijos de dios ... las hijas de los hombres» (Santa Biblia) y el Libro de Enoc
 
 [^4]: Eemian Interglacial, utilizando la terminología de la región del norte de Europa, es equivalente al término alpino, Riss-Wurm Interglacial, también conocido como Sangamonian en América del Norte.
 

@@ -142,7 +142,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 
 Este es el siguiente capítulo, dedicado nuestro Hijo Creador, Miguel de Nebadon, y comienza así:
 
-«Una clase muy especial de Hijos, es un grupo llamado Hijos Paradisiacos o Hijos del Paraíso. Ellos son del Paraíso y son perfectos como el Padre. Ellos también van a la “escuela” pero para aprender cómo se fabrican mundos y toda especie de hijos para el Padre. El Padre puede hacerlo todo por sí mismo, pero le encanta compartir labores. Él confía en que sus hijos del Paraíso trabajen maravillosamente para Él.»
+«Una clase muy especial de Hijos, es un grupo llamado Hijos Paradisiacos o Hijos del Paraíso. Ellos son del Paraíso y son perfectos como el Padre. Ellos también van a la «escuela» pero para aprender cómo se fabrican mundos y toda especie de hijos para el Padre. El Padre puede hacerlo todo por sí mismo, pero le encanta compartir labores. Él confía en que sus hijos del Paraíso trabajen maravillosamente para Él.»
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/03/007-Miguel-de-Nebadon.pdf)
 <br style="clear:both" />

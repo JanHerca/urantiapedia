@@ -44,26 +44,26 @@ por _Claire y Angie Thurston_
 > Nota de los autores: Este artículo fue escrito originalmente para personas de veinte años que buscan espiritualmente. A partir de las primeras semanas del confinamiento por el COVID en marzo de 2020, pasamos dos años completos trabajando con miembros de esta población a través de Zoom, ayudándolos a aprender a conectarse con su Espíritu interior y expresar valores espirituales en sus vidas. Lo que sigue es un intento de comunicar la esencia de nuestro mensaje, de modo que pueda ser compartido. Además, usamos el nombre propio 'Espíritu' para referirnos a la presencia viva, amorosa y creativa en el corazón de todas las cosas.
 {.es-info}
 
-“_Es como si hubiera pasado la vida en un camino que otras personas hicieron para mí._
+«_Es como si hubiera pasado la vida en un camino que otras personas hicieron para mí._
 _Quiero ponerme en contacto con un sentido más profundo de propósito,_
-_pero no sé si lo reconoceré._”
+_pero no sé si lo reconoceré._»
 
 <p style="margin-left:30px;">
-“<em>Me siento definido por mi trabajo. Quiero ser valorado por</em><br>
-<em>quién soy, más allá de lo que puedo producir.</em>”
+«<em>Me siento definido por mi trabajo. Quiero ser valorado por</em><br>
+<em>quién soy, más allá de lo que puedo producir.</em>»
 </p>
 
-“_Quiero dejar de adormecerme por la noche y los fines de semana._
+«_Quiero dejar de adormecerme por la noche y los fines de semana._
 _Realmente anhelo la belleza y la plenitud de la vida,_
-_pero no lo estoy encontrando en ninguno de los lugares que busco._”
+_pero no lo estoy encontrando en ninguno de los lugares que busco._»
 
 <p style="margin-left:30px;">
 «<em>En algún momento encerré a mi verdadero yo. Ahora quiero saber quién soy en esencia y cómo ser lo suficientemente vulnerable como para compartirme con los demás.</em>»
 </p>
 
-“_Ha sido un año de crisis existencial sin parar._
+«_Ha sido un año de crisis existencial sin parar._
 _Quiero encontrar tierra firme y conexión auténtica_
-_Puedo contar._”
+_Puedo contar._»
 
 
 **A ti te decimos:**
@@ -269,8 +269,8 @@ El espíritu, como fuente de valores, puede ayudarte a tomar decisiones y empren
 
 <p style="margin-left:30px;"><em>«Abre mi corazón a mi jefa y ayúdame a entender por qué actúa de esta manera.»</em></p>
 
-“_Muéstrame cómo servir a mis nuevos compañeros de casa._
-_Quiero que se sientan como en casa._”
+«_Muéstrame cómo servir a mis nuevos compañeros de casa._
+_Quiero que se sientan como en casa._»
 
 <p style="margin-left:30px;"><em>«Espíritu, ayúdame a sentir tu compasión por mí. Quiero ser amable conmigo mismo y no sé cómo.»</em></p>
 

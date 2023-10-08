@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-Mientras que la sociedad occidental celebra la Navidad con rituales y simbolismos que consisten en la adoración del árbol, el recuerdo de la muerte de San Nicolás y el nacimiento de Mitra (por conveniencia, también se nombra como el cumpleaños de Jesús), la tierra no cristianizada de Japón ha decidido tener su propia celebración del 25 de diciembre. Por eso, este día está reservado para las interpretaciones en todo el país del 'segundo himno nacional' de Japón, esa parte de la novena sinfonía de Beethoven conocida como "_Oh, canta una canción de alegría".
+Mientras que la sociedad occidental celebra la Navidad con rituales y simbolismos que consisten en la adoración del árbol, el recuerdo de la muerte de San Nicolás y el nacimiento de Mitra (por conveniencia, también se nombra como el cumpleaños de Jesús), la tierra no cristianizada de Japón ha decidido tener su propia celebración del 25 de diciembre. Por eso, este día está reservado para las interpretaciones en todo el país del 'segundo himno nacional' de Japón, esa parte de la novena sinfonía de Beethoven conocida como «_Oh, canta una canción de alegría».
 
 Los medios informan que, en todo Japón, la gente espera hasta dos horas para escuchar a las orquestas y coros locales interpretar su versión de esta magnífica melodía cantada en alemán. Aparentemente, la canción fue traída por primera vez a Japón en 1916 y, desde entonces, ha ido ganando popularidad entre los japoneses hasta el punto de que se toca en prácticamente todas las celebraciones públicas. Ahora se le da su día oficial: el 25 de diciembre.
 

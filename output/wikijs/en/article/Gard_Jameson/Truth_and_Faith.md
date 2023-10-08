@@ -185,7 +185,7 @@ Is goodness—the moral expression of divine selflessness—desirable? Then must
 
 \*\*\* 
 
-> **(HS)** “We are not then to fall into the mistake, so frequently made, of confusing the **possibility of good or evil** with the actuality of good or evil. The possibility of evil may well be demanded as necessary to moral choice and the existence of moral character, but **the possibility of evil cannot be safely held as implying the necessity or the existence of evil**, as is so often assumed. Evil may be possible but not chosen, and **so long as it is not chosen it does not exist![](Aspose.Words.67d7acac-4bbd-49ae-b7a7-7b8ad288f9ab.037.png)**…The possibility of good and evil in a realm of freedom gives meaning to character. It presents likewise the only known rational ground for ethical achievement. [CP 237] 
+> **(HS)** “We are not then to fall into the mistake, so frequently made, of confusing the **possibility of good or evil** with the actuality of good or evil. The possibility of evil may well be demanded as necessary to moral choice and the existence of moral character, but **the possibility of evil cannot be safely held as implying the necessity or the existence of evil**, as is so often assumed. Evil may be possible but not chosen, and **so long as it is not chosen it does not exist**…The possibility of good and evil in a realm of freedom gives meaning to character. It presents likewise the only known rational ground for ethical achievement.” [CP 237] 
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/037.jpg">

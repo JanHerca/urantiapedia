@@ -193,10 +193,10 @@ A pesar de la ventaja que disfrutamos al ofrecer al mundo la Quinta Revelación 
 
 En la penúltima página de _El Libro de Urantia_ leemos:
 
-> “Hay tres pruebas distintas de que este espíritu habita en la mente humana:
+> «Hay tres pruebas distintas de que este espíritu habita en la mente humana:
 > 1\. La comunión humanitaria —el amor.
 > 2\. La interpretación del universo —la sabiduría.
-> 3\. La evaluación espiritual de la vida —la adoración._” <a id="a198_59"></a>[[LU 196:3.6-9](/es/The_Urantia_Book/196#p3_6)]
+> 3\. La evaluación espiritual de la vida —la adoración._» <a id="a198_59"></a>[[LU 196:3.6-9](/es/The_Urantia_Book/196#p3_6)]
 
 Los grupos de estudio son lugares muy, muy importantes y los anfitriones de los grupos de estudio son líderes muy, muy importantes en nuestra búsqueda de una comunidad más fuerte, una comprensión progresiva y una oración y adoración más plenas y reales.
 

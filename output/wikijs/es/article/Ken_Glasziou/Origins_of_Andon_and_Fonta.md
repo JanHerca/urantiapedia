@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plan A. Cúal era?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Plan A. ¿Cúal era?</span>
         </a>
         </td>
         <td>
@@ -72,7 +72,7 @@ Muchos (¿la mayoría?) de los lectores piensan que _El Libro de Urantia_ afirma
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plan A. Cúal era?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Plan A. ¿Cúal era?</span>
         </a>
         </td>
         <td>

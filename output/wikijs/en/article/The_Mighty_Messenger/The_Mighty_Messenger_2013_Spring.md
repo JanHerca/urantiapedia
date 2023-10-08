@@ -176,7 +176,7 @@ It’s an idea that started 25 years ago when I had an extra phone line put in m
 - Are you spiritually hungry and still searching?
 - Jesus, a fresh new look 2,000 years later.
 
-All were followed by “For a free taped message on _The Urantia Book_ call \*\*\*-\*\*\*\*
+All were followed by “For a free taped message on _The Urantia Book_ call \*\*\*-\*\*\*\*”
 
 Mo Siegel and Paula Thompson picked this up and ran with it creating a campaign in the Denver/Boulder area that was seen by thousands.
 

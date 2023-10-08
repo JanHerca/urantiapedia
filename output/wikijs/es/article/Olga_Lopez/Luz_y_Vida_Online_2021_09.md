@@ -185,7 +185,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 
 **Diálogos con Sofía (Olga López)**
 
-En palabras de su autora, «este libro surgió a raíz de plantearme cómo daría a conocer las enseñanzas de _El Libro de Urantia_ de una manera sencilla pero sin que sonara superficial, y la solución que se me ocurrió fue la de un diálogo “socrático” entre dos personajes: Sofía, la “maestra” informal, y Miguel, el joven buscador de la verdad. Por supuesto, condensar todas las enseñanzas del libro en poco más de doscientas páginas era tarea imposible, pero tampoco esa era mi intención, sino dar que pensar al lector y dejarle con ganas de saber más, de buscar la fuente con la que saciar su sed de verdad».
+En palabras de su autora, «este libro surgió a raíz de plantearme cómo daría a conocer las enseñanzas de _El Libro de Urantia_ de una manera sencilla pero sin que sonara superficial, y la solución que se me ocurrió fue la de un diálogo «socrático» entre dos personajes: Sofía, la «maestra» informal, y Miguel, el joven buscador de la verdad. Por supuesto, condensar todas las enseñanzas del libro en poco más de doscientas páginas era tarea imposible, pero tampoco esa era mi intención, sino dar que pensar al lector y dejarle con ganas de saber más, de buscar la fuente con la que saciar su sed de verdad».
 
 [Enlace desde donde descargar la novela en diferentes formatos electrónicos](https://aue.urantia-association.org/inspirado-en-el-lu-dialogos-con-sofia/)
 <br style="clear:both" />

@@ -52,7 +52,7 @@ Los estudios sobre megasoles han demostrado que existe un valor crítico en torn
 
 Se cree que estos megasoles existieron solo al principio de los tiempos, ya que una vez que los metales pesados ​​se forman y se convierten en parte de nuevas estrellas, cualquier estrella de más de 100 masas solares será inestable y sellará su propia perdición.
 
-La energía radiante de la radiación gamma que emana de las hipernovas del megasol debería ser detectable, pero no con la instrumentación actualmente disponible. Su detección puede provenir de una misión llamada "Exist" que volará desde la Estación Espacial Internacional dentro de cinco años, o del Telescopio Espacial de Próxima Generación de la NASA, el sucesor planeado del Hubble.
+La energía radiante de la radiación gamma que emana de las hipernovas del megasol debería ser detectable, pero no con la instrumentación actualmente disponible. Su detección puede provenir de una misión llamadaque volará desde la Estación Espacial Internacional dentro de cinco años, o del Telescopio Espacial de Próxima Generación de la NASA, el sucesor planeado del Hubble.
 
 Si las predicciones resultan ser correctas, será una prueba más de que el Big Bang fue real y que la cosmología que se nos dio en los Documentos de Urantia fue simplemente para proporcionar un marco universal temporal que proporcione un telón de fondo contra el cual podamos entender mejor nuestro universo de carreras. (<a id="a56_321"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 

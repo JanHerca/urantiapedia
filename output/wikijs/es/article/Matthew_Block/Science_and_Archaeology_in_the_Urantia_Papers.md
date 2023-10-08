@@ -44,7 +44,7 @@ dateCreated: 2022-9-9T8:13:39Z
 «En última instancia, entonces, podremos clasificar las declaraciones científicas en una tipología de cuatro elementos que abarca:»
 - afirmaciones que reflejan la ciencia de mediados de los años 30 y aún son respaldadas por la ciencia contemporánea.
 - declaraciones que reflejan la ciencia de mediados de los años 30 que ya no se mantienen (trazando cuándo y por qué la ciencia descartó las teorías en cuestión).
-- declaraciones que no fueron sostenidas por la ciencia de mediados de los años 30 pero que son sostenidas hoy (es decir, hechos "proféticos" o "a punto de ser conocidos" (1109) y observaciones.
+- declaraciones que no fueron sostenidas por la ciencia de mediados de los años 30 pero que son sostenidas hoy (es decir, hechoso(1109) y observaciones.
 - declaraciones que no fueron respaldadas por la ciencia de mediados de los años 30 y aún no se consideran sostenibles.
 
 «También podremos etiquetar cada oración y/o párrafo y/o sección relacionada con la ciencia en el libro de acuerdo a si:»

@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 _El Libro de Urantia_ nos dice que «Jesús habló durante más de una hora a los grupos reunidos sobre ‘La misión de la adversidad y el valor espiritual de la decepción’». (<a id="a36_170"></a>[LU 151:0.1](/es/The_Urantia_Book/151#p0_1))
 
-Llevo poco tiempo estudiando _El Libro de Urantia_, pero cuando leí este pasaje me di cuenta de que tenía un gran significado para mí, de que me relacionaba con él.
+Llevo poco tiempo estudiando _El Libro de Urantia_, pero cuando leí este pasaje me di cuenta de que tenía un gran significado para mí; de que me relacionaba con él.
 
 Tuve una educación convencional en la Iglesia Anglicana pero, como suele suceder en estos días, mi fe se volvió menos relevante para mí a medida que envejecía. Había actividades más picantes y materialistas. Todo bastante habitual.
 
@@ -44,7 +44,7 @@ Tuve una exitosa carrera como contador y mi trabajo implicó vivir en el extranj
 
 De repente, en 1972, ¡una nube negra apareció en el horizonte! No todo estaba bien. Mi vista se estaba deteriorando. En 1973, después de dos operaciones, quedé ciego del ojo derecho. Entre entonces y 1979 me sometí a seis operaciones en el ojo izquierdo que me dejaron con un 30% de visión en él, con la ayuda de lentes de contacto y anteojos. El pronóstico era que también perdería la vista en este ojo.
 
-Sería un eufemismo decir que estas circunstancias cambiaron mi vida. Mi confianza se hizo añicos, mi vida social se redujo y mi carrera se arruinó. Sin embargo, mientras escribo este artículo, pienso "¡y qué!" Mirando hacia atrás, considero que esta experiencia ha sido la mayor bendición que he recibido. O puedo decir, «__He experimentado el valor espiritual de la decepción.__»
+Sería un eufemismo decir que estas circunstancias cambiaron mi vida. Mi confianza se hizo añicos, mi vida social se redujo y mi carrera se arruinó. Sin embargo, mientras escribo este artículo, pienso «¡y qué!» Mirando hacia atrás, considero que esta experiencia ha sido la mayor bendición que he recibido. O puedo decir, «__He experimentado el valor espiritual de la decepción.__»
 
 Lo primero positivo que ocurrió fue que aprendí del maravilloso poder de la oración de otras personas trabajando en mi vida. No me quedé ciego. Tuve la suerte de conocer a muchas personas cristianas, en su mayoría entre aquellos con quienes trabajé. Muchas de estas maravillosas personas oraron por mí en un momento en que yo no podía hacerlo por mí mismo. Sé que esto es lo que me salvó la vista. Nada más podría haberlo hecho.
 

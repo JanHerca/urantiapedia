@@ -68,7 +68,7 @@ Escribió Ganid: Esta nueva religión nuestra está llena de alegría y produce 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/David_Glass/TODAY_is_the_day_for_JOY/004166.jpg">
-<figcaption><em>Detalle de "El faro de Alejandría". © Slawa Radziszewska </em></figcaption>
+<figcaption><em>Detalle de «El faro de Alejandría». © Slawa Radziszewska </em></figcaption>
 </figure>
 
 Considere la vida de fe gozosa que Jesús alcanzó y vivió y por la cual pudo revelar la naturaleza amorosa del Padre celestial:

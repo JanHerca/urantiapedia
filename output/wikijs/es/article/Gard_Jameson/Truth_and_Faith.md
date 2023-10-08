@@ -43,14 +43,14 @@ por _Gard Jameson_
 
 \*\*\*
 
-> **(HS)** «La pregunta **“¿Qué es la verdad?»** ha sido trillada desde que [Bacon'](https://en.wikipedia.org/wiki/Francis_Bacon) la usó famosamente, pero detrás de su trivialidad y detrás de su eterno misterio hay un hecho profundo. Ni <a id="a45_237"></a>[Pilatos](/es/The_Urantia_Book/185#p1) ni Jesús pudieron responderla verbal y categóricamente, porque es **una pregunta que **sólo se puede** **responder en la vida**”. [[*Personalidad creativa*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X)(CP) 223]
+> **(HS)** «La pregunta **«¿Qué es la verdad?»** ha sido trillada desde que [Bacon'](https://en.wikipedia.org/wiki/Francis_Bacon) la usó famosamente, pero detrás de su trivialidad y detrás de su eterno misterio hay un hecho profundo. Ni <a id="a45_237"></a>[Pilatos](/es/The_Urantia_Book/185#p1) ni Jesús pudieron responderla verbal y categóricamente, porque es **una pregunta que **sólo se puede** **responder en la vida**». [[*Personalidad creativa*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X)(CP) 223]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/031.jpg">
 <figcaption><em>Cristo ante Pilatos</em> de Mathias Stomer </figcaption>
 </figure>
 
-> “Con este pensamiento de la naturaleza de la verdad en mente, se hace evidente que tendremos que distinguir entre la verdad y el conocimiento. **La verdad es el término más inclusivo**. **El conocimiento es de las cosas que observamos**; **la verdad incluye el mundo más amplio de las relaciones**. [CP 224]
+> «Con este pensamiento de la naturaleza de la verdad en mente, se hace evidente que tendremos que distinguir entre la verdad y el conocimiento. **La verdad es el término más inclusivo**. **El conocimiento es de las cosas que observamos**; **la verdad incluye el mundo más amplio de las relaciones**.» [CP 224]
 
 > «Mientras que **el conocimiento se limita a los fenómenos físicos conocidos o detectables y sus relaciones, la verdad incluye todo el universo de las relaciones morales, los valores,** el propósito, la causalidad eficiente y el fundamento». [CP 225]
 
@@ -90,7 +90,7 @@ La fe conduce a la realización *subjetiva* de los valores divinos ya una relaci
 
 > **(HS)** «La tarea de la vida bien puede ser concebida como **un descubrimiento de estos valores** en sus variadas relaciones, y su aplicación en los asuntos cotidianos. No tenemos revelaciones absolutas; debemos encontrarlos en relación con nosotros mismos y con nuestros deberes». [CP 227]
 
-> “La reflexión deja cada vez más claro que en nuestro mundo de relaciones **no puede haber conflicto real entre ciencia y religión, o entre conocimiento y valores humanos**. [CP 229]
+> «La reflexión deja cada vez más claro que en nuestro mundo de relaciones **no puede haber conflicto real entre ciencia y religión, o entre conocimiento y valores humanos**.» [CP 229]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/032.jpg">
@@ -99,11 +99,11 @@ La fe conduce a la realización *subjetiva* de los valores divinos ya una relaci
 
 > «¡Solo **entre conocimiento y creencia puede haber conflicto![](Aspose.Words.67d7acac-4bbd-49ae-b7a7-7b8ad288f9ab.032.jpeg)**, y la creencia es siempre la que sufre si se pone en el posición de ser hostil a los hechos». [CP 230]
 
-> “Poner uno mismo en sintonía con el hecho científico es ponerse uno mismo en sintonía con la naturaleza y proporcionar la base de la comprensión y el descubrimiento científicos. En el ámbito de la religión es lo que se llama **una sola mentalidad** espiritual; 'Si el ojo es único, todo el cuerpo estará lleno de luz.' [CP 228]
+> «Poner uno mismo en sintonía con el hecho científico es ponerse uno mismo en sintonía con la naturaleza y proporcionar la base de la comprensión y el descubrimiento científicos. En el ámbito de la religión es lo que se llama **una sola mentalidad** espiritual; ‘Si el ojo es único, todo el cuerpo estará lleno de luz.’» [CP 228]
 
-> “**Nunca puede haber ningún conflicto real entre el conocimiento y la verdad**, **aunque puede haber entre el conocimiento y la creencia**. [CP 223]
+> «**Nunca puede haber ningún conflicto real entre el conocimiento y la verdad**, **aunque puede haber entre el conocimiento y la creencia**.» [CP 223]
 
-> “La ciencia se retrasa por la deslealtad a los preceptos científicos, por el **prejuicio de los puntos de vista adquiridos y tradicionales**, por la frialdad de la incredulidad científica, por los presupuestos dominantes y las hipótesis dominantes. Tanto en el pensamiento científico como en el teológico, somos testigos de **la negativa a enfrentar los hechos de una manera nueva**. [CP 229]
+> «La ciencia se retrasa por la deslealtad a los preceptos científicos, por el **prejuicio de los puntos de vista adquiridos y tradicionales**, por la frialdad de la incredulidad científica, por los presupuestos dominantes y las hipótesis dominantes. Tanto en el pensamiento científico como en el teológico, somos testigos de **la negativa a enfrentar los hechos de una manera nueva**.» [CP 229]
 
 \*\*\*
 
@@ -126,9 +126,9 @@ A medida que uno gana altura en el vuelo ascendente y humilde del alma, hay un d
 
 > «La calidad de la fe religiosa, la concepción de Dios y de la relación del hombre con Dios determinarán inevitablemente el logro ético del individuo. **No es que la fe pueda identificarse con actos éticos, pero los actos difícilmente se elevarán más que la fe**.» [CP 238]
 
-> “La fe sólo es posible para un ser que posee el poder de **autocrítica y reflexión**. [CP 240]
+> «La fe sólo es posible para un ser que posee el poder de **autocrítica y reflexión**.» [CP 240]
 
-> “Nuestra fe surge de nuestro poder de reflexión sobre nuestros propios actos. Así podemos descubrir su calidad ética y llegar a **un sentido de responsabilidad moral**. [CP 240]
+> «Nuestra fe surge de nuestro poder de reflexión sobre nuestros propios actos. Así podemos descubrir su calidad ética y llegar a **un sentido de responsabilidad moral**.» [CP 240]
 
 > «Esa **fe que debe ser la guía de la imaginación creativa** y producir el mayor éxito en la vida debe haber sido colocada por hábito en el campo intuitivo.» [CP 242]
 
@@ -149,7 +149,7 @@ A medida que uno gana altura en el vuelo ascendente y humilde del alma, hay un d
 
 \*\*\*
 
-> **(HS)** “**Así, la perfección de Dios y el carácter inefable de la Bondad Eterna proporcionan una suposición razonable para la continuación de ese orden de vida que ya se está apoderando de la eternidad**. Esta razón es tan profunda como la expectativa de que en condiciones normales **los pistilos, estambres y saco ovárico de la flor producirán la semilla y que ellos a su vez proporcionarán los gérmenes de futuras plantas**. [CP 249-250]
+> **(HS)** «**Así, la perfección de Dios y el carácter inefable de la Bondad Eterna proporcionan una suposición razonable para la continuación de ese orden de vida que ya se está apoderando de la eternidad**. Esta razón es tan profunda como la expectativa de que en condiciones normales **los pistilos, estambres y saco ovárico de la flor producirán la semilla y que ellos a su vez proporcionarán los gérmenes de futuras plantas**.» [CP 249-250]
 
 \*\*\*
 
@@ -186,7 +186,7 @@ El hecho de que tal libertad haya permitido no solo una gran bondad, sino tambi�
 
 \*\*\*
 
-> **(SA)** “No debemos caer entonces en el error, tan frecuentemente cometido, de confundir la **posibilidad del bien o del mal** con la actualidad del bien o del mal. La posibilidad del mal bien puede exigirse como necesaria para la elección moral y la existencia del carácter moral, pero **la posibilidad del mal no puede sostenerse con seguridad como si implicara la necesidad o la existencia del mal**, como se supone tan a menudo. El mal puede ser posible pero no elegido, y **mientras no se elija no existe![](Aspose.Words.67d7acac-4bbd-49ae-b7a7-7b8ad288f9ab.037.png)**…La posibilidad de el bien y el mal en un reino de libertad da sentido al carácter. Presenta igualmente la única base racional conocida para el logro ético. [CP 237]
+> **(SA)** «No debemos caer entonces en el error, tan frecuentemente cometido, de confundir la **posibilidad del bien o del mal** con la actualidad del bien o del mal. La posibilidad del mal bien puede exigirse como necesaria para la elección moral y la existencia del carácter moral, pero **la posibilidad del mal no puede sostenerse con seguridad como si implicara la necesidad o la existencia del mal**, como se supone tan a menudo. El mal puede ser posible pero no elegido, y **mientras no se elija no existe**…La posibilidad de el bien y el mal en un reino de libertad da sentido al carácter. Presenta igualmente la única base racional conocida para el logro ético.» [CP 237]
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/037.jpg">
@@ -203,7 +203,7 @@ El hecho de que tal libertad haya permitido no solo una gran bondad, sino tambi�
 
 \*\*\*
 
-> **(HS)** “Si nos aferramos a la **inmanencia de Dios** ya la cualidad moral del universo, encontraremos que la vida espiritual es una armonización y adaptación conscientes de la voluntad personal al orden divino. Mientras perdure un orden divino, entonces hay razón para suponer que los seres que realizan la vida actuando en ese orden continuarán funcionando y creciendo, hasta que lleguen a la plenitud del carácter perfecto. [CP 249]
+> **(HS)** «Si nos aferramos a la **inmanencia de Dios** ya la cualidad moral del universo, encontraremos que la vida espiritual es una armonización y adaptación conscientes de la voluntad personal al orden divino. Mientras perdure un orden divino, entonces hay razón para suponer que los seres que realizan la vida actuando en ese orden continuarán funcionando y creciendo, hasta que lleguen a la plenitud del carácter perfecto.» [CP 249]
 
 \*\*\*
 

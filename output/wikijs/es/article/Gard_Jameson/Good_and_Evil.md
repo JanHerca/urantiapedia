@@ -43,7 +43,7 @@ por _Gard Jameson_
 
 \*\*\*
 
-> **(HS)** “El concepto de la **relatividad** del bien ha sido una fuente fértil de escepticismo ético desde el principio. Por supuesto, hay claras ventajas en que nuestro "bien" sea distinguido para nosotros. Si aceptamos el bien tal como lo establece el **entorno** social** nos salvamos del malestar que surge del conflicto social. 'Todo el mundo lo está haciendo' es la contraseña fácil de la **pereza ética**.
+> **(HS)** «El concepto de la **relatividad** del bien ha sido una fuente fértil de escepticismo ético desde el principio. Por supuesto, hay claras ventajas en que nuestro «bien» sea distinguido para nosotros. Si aceptamos el bien tal como lo establece el **entorno** social** nos salvamos del malestar que surge del conflicto social. 'Todo el mundo lo está haciendo' es la contraseña fácil de la **pereza ética**.
 
 > Si aceptamos las normas de bondad establecidas por una **institución religiosa**, tenemos la salvaguarda de la historia más larga y de objetivos generales probados, y estamos a salvo de la incomodidad de aplicar cuestiones éticas a los actos de la vida.” [[*Personalidad creativa*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X)(CP) 231]
 
@@ -95,7 +95,7 @@ En el reino espiritual, la humanidad tiene libre albedrío. De hecho, podemos «
 
 \*\*\*
 
-> **(HS)** “Hacemos todo lo que la institución declara bueno y nos abstenemos de actos que declara malos, pero pagamos el precio con la **pérdida de la libertad moral**, que es el elemento supremo de la acción ética . Hacemos algo similar cuando fijamos nuestra definición **esclavamente a cualquier autoridad escrita**; porque hay una necesidad constante de reinterpretación de lo escrito en términos de vida, en la que las nuevas circunstancias exigen la aplicación de principios vivos.
+> **(HS)** «Hacemos todo lo que la institución declara bueno y nos abstenemos de actos que declara malos, pero pagamos el precio con la **pérdida de la libertad moral**, que es el elemento supremo de la acción ética . Hacemos algo similar cuando fijamos nuestra definición **esclavamente a cualquier autoridad escrita**; porque hay una necesidad constante de reinterpretación de lo escrito en términos de vida, en la que las nuevas circunstancias exigen la aplicación de principios vivos.»
 
 > Vivimos a la luz de la **creciente verdad** y la vida es un constante reajuste a esa **creciente verdad**… **Cualquier otra prueba que apliquemos a la bondad**, esta es quizás la más esencial: ¿Es buena en todas las relaciones de la vida, y en la mayor relación de la vida? Es decir, ¿es bueno visto desde «el fin y la meta más elevados y completos del hombre»? [CP 232]
 
@@ -182,11 +182,11 @@ Nuestra voluntad moral está indisolublemente ligada a la idea de ser *persona*;
 
 \*\*\*
 
-> **(HS)** “La **posibilidad del mal** muy bien puede exigirse en cuanto a la elección moral y la existencia del carácter moral, pero la **posibilidad del mal** no puede sostenerse con seguridad como implicando la * *necesidad** o la existencia del mal, como se supone tan a menudo. El mal puede ser posible pero no elegido, y mientras no sea **elegido** no existe, ... [CP, 237]
+> **(HS)** «La **posibilidad del mal** muy bien puede exigirse en cuanto a la elección moral y la existencia del carácter moral, pero la **posibilidad del mal** no puede sostenerse con seguridad como implicando la * *necesidad** o la existencia del mal, como se supone tan a menudo. El mal puede ser posible pero no elegido, y mientras no sea **elegido** no existe, ...» [CP, 237]
 
 \*\*\*
 
-**(C)** El pasaje final del discurso sobre «[El bien y el mal»] vuelve a arrojar luz importante sobre la naturaleza del mal, que no existe independientemente de la posible elección por el mal. *El mal se convierte en una realidad de la experiencia personal sólo cuando una mente moral elige el mal*. Muchos mortales viven en una profunda confusión acerca de la naturaleza del mal, pensando que existe independientemente de cualquier "elección moral" de alguna manera real. La idea de un ser eterno del mal, el Diablo, así como un lugar eterno de condenación para los malhechores, el Infierno, solo ha contribuido a esta confusión. Incluso dentro de las perspectivas religiosas tradicionales, la idea misma de un Diablo eterno o un lugar de condenación eterna es en realidad la antítesis de la noción misma de la bondad y el amor absolutos y eternos de Dios.
+**(C)** El pasaje final del discurso sobre «[El bien y el mal»] vuelve a arrojar luz importante sobre la naturaleza del mal, que no existe independientemente de la posible elección por el mal. *El mal se convierte en una realidad de la experiencia personal sólo cuando una mente moral elige el mal*. Muchos mortales viven en una profunda confusión acerca de la naturaleza del mal, pensando que existe independientemente de cualquier «elección moral» de alguna manera real. La idea de un ser eterno del mal, el Diablo, así como un lugar eterno de condenación para los malhechores, el Infierno, solo ha contribuido a esta confusión. Incluso dentro de las perspectivas religiosas tradicionales, la idea misma de un Diablo eterno o un lugar de condenación eterna es en realidad la antítesis de la noción misma de la bondad y el amor absolutos y eternos de Dios.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/028.jpg">

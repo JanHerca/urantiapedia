@@ -159,7 +159,7 @@ El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 a
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Teuvo_Orjala.jpg">
 </figure>
 
-**Teuvo Orjala** tomó el libro por primera vez a la edad de 19 años. Dice: «Siento la necesidad de entregar mi vida a Dios. Ese camino está entrelazado con la Fellowship de _El Libro de Urantia_. Deseo servir plenamente en todas las formas posibles, lo que me lleva a participar a nivel del Consejo General. Teuvo espera “aportar un nuevo nivel de vigor y motivación a la Fellowship en su conjunto». Actualmente presta sus habilidades creativas y de gestión a URANTIA NOW, el sitio web de YaYA.
+**Teuvo Orjala** tomó el libro por primera vez a la edad de 19 años. Dice: «Siento la necesidad de entregar mi vida a Dios. Ese camino está entrelazado con la Fellowship de _El Libro de Urantia_. Deseo servir plenamente en todas las formas posibles, lo que me lleva a participar a nivel del Consejo General. Teuvo espera «aportar un nuevo nivel de vigor y motivación a la Fellowship en su conjunto». Actualmente presta sus habilidades creativas y de gestión a URANTIA NOW, el sitio web de YaYA.
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005798.jpg">

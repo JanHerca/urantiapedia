@@ -245,7 +245,7 @@ Peligros del misticismo extremo. «_El misticismo, como técnica para cultivar l
 
 > Todo esto hace que la conciencia gravite hacia el subconsciente, en lugar de dirigirse hacia la zona del contacto espiritual, el superconsciente. Muchos místicos han llevado su disociación mental hasta el nivel de las manifestaciones mentales anormales. <a id="a245_256"></a>[[LU 100:5.9](/es/The_Urantia_Book/100#p5_9)]
 
-**Evitación de la Realidad** “La práctica habitual del ensueño religioso va acompañada de un gran peligro; el misticismo puede convertirse en una técnica para eludir la realidad, aunque a veces ha sido un medio de comunión espiritual auténtica. Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable. El estado de conciencia visionaria semejante al trance no debería cultivarse en ninguna circunstancia como experiencia religiosa.
+**Evitación de la Realidad** «La práctica habitual del ensueño religioso va acompañada de un gran peligro; el misticismo puede convertirse en una técnica para eludir la realidad, aunque a veces ha sido un medio de comunión espiritual auténtica. Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable. El estado de conciencia visionaria semejante al trance no debería cultivarse en ninguna circunstancia como experiencia religiosa.»
 
 > La característica del estado místico consiste en una conciencia difusa, con islotes intensos de atención focalizada que operan en un intelecto relativamente pasivo. <a id="a249_167"></a>[[LU 100:5.8,9](/es/The_Urantia_Book/100#p5_8)]
 

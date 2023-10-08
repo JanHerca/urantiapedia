@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-¿Qué es el evangelio? Si le preguntaras a varias personas, probablemente obtendrías varias respuestas diferentes. Algunos dirán que la palabra evangelio significa «buenas nuevas», y lo es, pero esa es solo una definición. Quiere saber, __cuáles son las buenas noticias, y de dónde vienen__.
+¿Qué es el evangelio? Si le preguntaras a varias personas, probablemente obtendrías varias respuestas diferentes. Algunos dirán que la palabra evangelio significa «buenas nuevas», y lo es, pero esa es solo una definición. Quieres saber, __cuáles son las buenas noticias, y de dónde vienen__.
 
-Algunos le dirán que el evangelio es la historia de Jesús, tal como la escribieron los escritores del Nuevo Testamento, Mateo, Marcos, Lucas y Juan. Después de todo, estas historias a menudo se llaman los "Cuatro Evangelios". Otros dirán que la buena noticia es que Dios envió a su hijo a la tierra como sacrificio para morir y resucitar, a fin de expiar los pecados de la humanidad. Todavía otros dicen que la muerte de Jesús en la cruz fue un rescate pagado por Dios para redimir a la humanidad del Diablo, y así sucesivamente.
+Algunos te dirán que el evangelio es la historia de Jesús, tal como la escribieron los escritores del Nuevo Testamento, Mateo, Marcos, Lucas y Juan. Después de todo, estas historias a menudo se llaman los Otros dirán que la buena noticia es que Dios envió a su hijo a la tierra como sacrificio para morir y resucitar, a fin de expiar los pecados de la humanidad. Todavía otros dicen que la muerte de Jesús en la cruz fue un rescate pagado por Dios para redimir a la humanidad del Diablo, y así sucesivamente.
 
-En el Nuevo Testamento dice que Jesús y los apóstoles iban de ciudad en ciudad, predicando el evangelio del reino de Dios a las multitudes.
+En el Nuevo Testamento se dice que Jesús y los apóstoles iban de ciudad en ciudad, predicando el evangelio del reino de Dios a las multitudes.
 
 Y recorría Jesús todas las ciudades y aldeas, enseñando en las sinagogas de ellos, y __predicando el evangelio del reino__, y sanando toda enfermedad y toda dolencia en el pueblo. ([Mateo 9:35](/es/Bible/Matthew/9#v35))
 
@@ -46,11 +46,11 @@ Y sucedió... que Jesús iba por todas las ciudades y aldeas, __predicando y pro
 
 Podemos decir a partir de estos dos versículos que el evangelio fue algo que __Jesús realmente predicó y enseñó__. Así, se responde la pregunta de dónde viene el evangelio. __Viene de Jesús__.
 
-La palabra evangelio significa «buenas nuevas» y «buenas nuevas», pero ¿qué le estaba diciendo Jesús exactamente a la multitud? ¿Cuál fue el mensaje? ¿Y la esencia de este mensaje, el evangelio real, __las enseñanzas de Jesús__, se ha perdido en parte para nosotros hoy, y ha sido reemplazada por otro mensaje, otro evangelio, __las enseñanzas acerca de Jesús?__
+La palabra evangelio significa «buenas nuevas» y «alegres noticias», pero ¿qué le estaba diciendo Jesús exactamente a la multitud? ¿Cuál fue el mensaje? ¿Y la esencia de este mensaje, el evangelio real, __las enseñanzas de Jesús__, se ha perdido en parte para nosotros hoy, y ha sido reemplazada por otro mensaje, otro evangelio, __las enseñanzas acerca de Jesús?__
 
 En estas giras de predicación, Jesús le estaba dando a la gente información muy importante (¡las buenas noticias!), y debe haber sido poderosa, positiva y enfocada en algunas ideas específicas. __El evangelio que Jesús enseñó__ solo podía ser aquella información que satisfaga nuestras esperanzas, necesidades y deseos espirituales más profundos: conocer mejor a nuestro Padre que está en los cielos y nuestra relación con la humanidad, ser del Espíritu y manifestar los frutos del Espíritu, y tener vida eterna con Dios.
 
-Podemos decir a partir de sus enseñanzas que el evangelio de Jesús, incluso lo que podemos llamar la "religión de Jesús", debe haber sido, y sigue siendo, esto:
+Podemos decir a partir de sus enseñanzas que el evangelio de Jesús, incluso lo que podemos llamar la debe haber sido, y sigue siendo, esto:
 
 __Dios es su amoroso Padre espiritual y ustedes son todos Sus hijos, hijos e hijas en Su familia, y si aman a Dios y se aman unos a otros, tendrán vida eterna en el cielo.__
 
@@ -66,7 +66,7 @@ Hacer la voluntad del Padre es la clave para entrar en el reino de los cielos. �
 
 Jesús nos dice cómo podemos tener vida eterna.
 
-__Y he aquí, cierto intérprete de la ley se levantó y lo puso a prueba, diciendo: Maestro, ¿qué haré para heredar la vida eterna? Jesús le dijo: ¿Qué está escrito en la ley? Y él respondió diciendo: Amarás a Dios con todo tu corazón, y con toda tu alma, y ​​con todas tus fuerzas, y con toda tu mente; ya tu prójimo como a ti mismo. Y Jesús le dijo: Bien has respondido; haz esto y vivirás.__ ([Lucas 10:25-28](/es/Bible/Luke/10#v25))
+__Y he aquí, cierto intérprete de la ley se levantó y lo puso a prueba, diciendo: Maestro, ¿qué haré para heredar la vida eterna? Jesús le dijo: ¿Qué está escrito en la ley? Y él respondió diciendo: Amarás a Dios con todo tu corazón, y con toda tu alma, y ​​con todas tus fuerzas, y con toda tu mente; y a tu prójimo como a ti mismo. Y Jesús le dijo: Bien has respondido; haz esto y vivirás.__ ([Lucas 10:25-28](/es/Bible/Luke/10#v25))
 
 ¡Haz esto y tendrás vida eterna! Ama a Dios, y ama a tu prójimo. ¿Podría ser más claro o más simple? Jesús sabe que amar a todos nuestros semejantes puede no ser fácil para nosotros, pero espera tendencia y esfuerzo.
 
@@ -78,9 +78,9 @@ Las personas tienen puntos de vista diferentes en cuanto al propósito de la enc
 
 Jesús enseña una idea nueva y muy personal sobre el reino de Dios.
 
-__Y cuando los fariseos le preguntaron cuándo vendría el reino de Dios, él les respondió y dijo: El reino de Dios no vendrá con advertencia: Ni dirán: ¡He aquí! o he aquí! porque he aquí, el reino de Dios está dentro de vosotros.__ ([Lucas 17:21](/es/Bible/Luke/17#v21))
+__Y cuando los fariseos le preguntaron cuándo vendría el reino de Dios, él les respondió y dijo: El reino de Dios no vendrá con advertencia: Ni dirán: ¡Helo aquí! o ¡helo allí!; porque he aquí, el reino de Dios está dentro de vosotros.__ ([Lucas 17:21](/es/Bible/Luke/17#v21))
 
-¡Imaginar! El reino de Dios está dentro de ti. Esta es una enseñanza sorprendente pero mal entendida de Jesús. Hay varios aspectos del reino de Dios. Uno es el espiritual: el reino no es un reino material. Otro es el reino exterior: el Padre y Sus ángeles en algún lugar del cielo. Y luego está el reino interior. Jesús está hablando de este reino interior cuando dice que el reino de Dios está dentro de ti, en realidad una parte o fragmento del mismo Padre, compartiendo tu vida, pasando por todos tus altibajos contigo, y si lo deseas, guiándote como una brújula de regreso al Padre. Esta no es una espiritualidad nebulosa, flotando a través de ti, como podría imaginarse para un ser espiritual, y como podría ser el caso en algunas situaciones, sino más bien una focalización definida del Padre, en ti.
+¡Imagina! El reino de Dios está dentro de ti. Esta es una enseñanza sorprendente pero mal entendida de Jesús. Hay varios aspectos del reino de Dios. Uno es el espiritual: el reino no es un reino material. Otro es el reino exterior: el Padre y Sus ángeles en algún lugar del cielo. Y luego está el reino interior. Jesús está hablando de este reino interior cuando dice que el reino de Dios está dentro de ti, en realidad una parte o fragmento del mismo Padre, compartiendo tu vida, pasando por todos tus altibajos contigo, y si lo deseas, guiándote como una brújula de regreso al Padre. Esta no es una espiritualidad nebulosa, flotando a través de ti, como podría imaginarse para un ser espiritual, y como podría ser el caso en algunas situaciones, sino más bien una focalización definida del Padre, en ti.
 
 Si nos hemos separado de Dios, Jesús nos dice lo que el Padre requiere para que regresemos a Él, para reunirnos con Su familia, nuestra familia espiritual.
 
@@ -110,7 +110,7 @@ Jesús nos habla de la familia de Dios.
 
 __Jesús dice: «Padre nuestro... »__ ([Mateo 6:9](/es/Bible/Matthew/6#v9); [Lucas 11:2](/es/Bible/Luke/11#v2))
 
-Cuando Jesús usa el término Padre, está hablando de su padre y nuestro Padre. Dios es un padre amoroso por encima de todo y nosotros somos sus hijos. Si sabemos que somos hijos o hijas de Dios, naturalmente querremos actuar como tales.
+Cuando Jesús usa el término Padre, está hablando de su Padre y nuestro Padre. Dios es un padre amoroso por encima de todo y nosotros somos sus hijos. Si sabemos que somos hijos o hijas de Dios, naturalmente querremos actuar como tales.
 
 Jesús nos dice que Dios sabe lo que necesitamos.
 

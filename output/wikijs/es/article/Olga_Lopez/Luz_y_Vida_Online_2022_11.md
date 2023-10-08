@@ -111,7 +111,7 @@ Se han hecho muchas cronologías de la vida de Jesús según lo que se cuenta en
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
-[**Presentación de _El Libro de Urantia_ en “La Caja de Pandora” (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf)
+[**Presentación de _El Libro de Urantia_ en «La Caja de Pandora» (Carmelo Martínez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Presentaci%C3%B3n-La-caja-de-Pandora.pdf)
 
 Este trabajo contiene el texto de la presentación que su autor realizó en 2014 para el canal de YouTube «La Caja de Pandora» (un canal que ya no existe). Está dirigido a los que no conocen el libro y se centra en el poder transformador de sus enseñanzas. Es toda una invitación para que los buscadores de la verdad que hay ahí fuera sepan del libro y se asomen a sus páginas.
 <br style="clear:both" />

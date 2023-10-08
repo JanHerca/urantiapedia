@@ -34,7 +34,7 @@ dateCreated: 2022-09-27T00:50:16.501Z
 </figure>
 
 
-Los conceptos de los Documentos de Urantia sobre la mente son muy similares a los que se encuentran en la Filosofía del proceso de Whitehead[^1], que dice que incluso las partículas primarias hasta los niveles subatómicos tienen, hasta cierto punto, "mente", y esta mentalidad se basa en la naturaleza ‘consecuente’ de Dios.
+Los conceptos de los Documentos de Urantia sobre la mente son muy similares a los que se encuentran en la Filosofía del proceso de Whitehead[^1], que dice que incluso las partículas primarias hasta los niveles subatómicos tienen, hasta cierto punto, y esta mentalidad se basa en la naturaleza ‘consecuente’ de Dios.
 
 En los Documentos de Urantia, la fuente de todas las cosas es la ‘Primera Fuente y Centro’, también conocida como Dios, el Padre Universal, etc., que es una entidad diferente de un ‘Dios de los Universos’ finito al que se le da el nombre de ‘Ser Supremo.’ Whitehead resolvió su necesidad de tener un aspecto trascendente y finito de Dios, dando dos naturalezas a su concepto de Dios, uniéndolas como un solo Dios que tiene tanto una naturaleza ‘primordial’ como una ‘consecuente’, siendo la primera trascendente mientras el último es el aspecto finito de Dios.
 
@@ -50,7 +50,7 @@ Pero no se sabe si los nombres que los Documentos dan a las funciones de la deid
 
 Sobre el origen de la mente, los Documentos son más detallados que Whitehead. Afirman que el origen de la mente procede de la mente cósmica de la tercera persona de la Trinidad, el Espíritu Eterno desde quien se enruta a través de los Espíritus Maestros al Espíritu Madre del Universo, y de allí a través de los Espíritus Ayudantes de la Mente a las formas de vida animal de sus mundos. En un nivel inferior, los Controladores físicos maestros sirven como controladores y directores de los niveles mentales pre-ayudantes, los niveles de la mente mecánica o no enseñable. (<a id="a50_572"></a>[LU 36:5.14](/es/The_Urantia_Book/36#p5_14))
 
-Tal vez esta referencia a la mente mecánica signifique que los Documentos están hablando de una función similar para la mente mucho más allá de la vida material y hasta lo subatómico como lo hizo Whitehead. Esto es sugerido por: "la mente no enseñable funciona en muchos niveles además de la vida planetaria primitiva". (<a id="a52_321"></a>[LU 42:10.3](/es/The_Urantia_Book/42#p10_3))
+Tal vez esta referencia a la mente mecánica signifique que los Documentos están hablando de una función similar para la mente mucho más allá de la vida material y hasta lo subatómico como lo hizo Whitehead. Esto es sugerido por: (<a id="a52_321"></a>[LU 42:10.3](/es/The_Urantia_Book/42#p10_3))
 
 Para simplificar, en sus niveles superiores, la mente y sus funciones pueden representarse como campos centrados en los Espíritus Maternos del Universo, algo así como una brújula que opera en el campo magnético de un planeta. Cada brújula opera para señalar la dirección en un campo aparentemente inagotable, al menos hasta que se desmagnetice. Cuando la muerte ‘desmagnetiza’ nuestras mentes, tenemos que encontrar una nueva fuente de mente, algo que se logra en los mundos de estancia donde nuestra nueva mente pasa por una larga serie de adaptaciones que finalmente la hacen apta como espíritu-mente.
 

@@ -64,7 +64,7 @@ El cristianismo primitivo no alentó el cambio social como la abolición de la e
 
 La verdadera moralidad consiste en tener lealtad a principios universales tales como, «Ama a tu prójimo como a ti mismo», ya que todos los humanos son tus prójimos. Bueno, si te pones por encima de tu prójimo porque es diferente, justificas hacerle mal. La iglesia cristiana basó su enseñanza en la moralidad de Aristóteles: alcanzar el bien supremo. Cuando quieres alcanzar el bien, haces cosas buenas desde dentro y desde fuera; desarrollas hábitos morales.
 
-El amor cristiano, «ágape», es el fundamento ético de la moralidad. Tomás de Aquino, el filósofo y teólogo del siglo XIII, dijo: “O vivís en armonía unos con otros, o vivís en desarmonía y os matáis unos a otros. Si haces lo correcto serás recompensado; el mal, irás al infierno.
+El amor cristiano, «ágape», es el fundamento ético de la moralidad. Tomás de Aquino, el filósofo y teólogo del siglo XIII, dijo: «O vivís en armonía unos con otros, o vivís en desarmonía y os matáis unos a otros. Si haces lo correcto serás recompensado; el mal, irás al infierno.»
 
 ¿Cuán importante es el miedo al infierno o el deseo de vivir como Dios quiere para motivar a las personas?
 

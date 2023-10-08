@@ -54,7 +54,7 @@ De hecho las ondas gravitacionales, la deformación del espacio-tiempo que se tr
 <img src="/image/article/Luz_y_Vida/LyV43/09.jpg">
 </figure>
 
-Recordemos que _El Libro de Urantia_, aunque pudiera no parecerlo a primera vista, nos da una visión mucho más compleja que la que presenta la ciencia actual. De hecho, para tratar de encontrar paralelismos, hemos de restringir el estudio de los conceptos “espacio” y "gravedad”:
+Recordemos que _El Libro de Urantia_, aunque pudiera no parecerlo a primera vista, nos da una visión mucho más compleja que la que presenta la ciencia actual. De hecho, para tratar de encontrar paralelismos, hemos de restringir el estudio de los conceptos «espacio» y «gravedad»:
 
 _Espacio_: nos referirnos sólo al «_espacio penetrado_», prescindimos tanto del espacio no penetrado como de las zonas de espacio quiescentes entre el penetrado y el no penetrado. <a id="a58_180"></a>[LU 11:6.1](/es/The_Urantia_Book/11#p6_1)
 

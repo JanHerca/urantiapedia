@@ -54,7 +54,7 @@ Un resultado automático es que nos encontramos contra todos aquellos cuya opini
 
 En nuestro trasfondo genético tenemos una herencia animal de «dientes y garras», apenas por debajo de una barrera superficial erigida sobre el andamiaje de las costumbres «civilizadas».
 
-Esta barrera se rompe fácilmente y, de hecho, la mayoría de las "causas" tienden a recurrir a las habilidades de aquellos que han desarrollado experiencia en estimular nuestros instintos animales para romper las barreras.
+Esta barrera se rompe fácilmente y, de hecho, la mayoría de lastienden a recurrir a las habilidades de aquellos que han desarrollado experiencia en estimular nuestros instintos animales para romper las barreras.
 
 El canto humano, la poesía, la literatura, la retórica, etc., están plagados de simbolismos y exhortaciones que operan para incitarnos a luchar, incluso a morir, por las batallas venideras. Tenemos mil y un himnos de batalla para unificarnos bajo Dios mientras nos unimos a la batalla contra el enemigo. Y tenemos otras mil y una banderas y símbolos para identificarnos, amigo de enemigo, y unirnos en la proclamación de nuestra causa.
 

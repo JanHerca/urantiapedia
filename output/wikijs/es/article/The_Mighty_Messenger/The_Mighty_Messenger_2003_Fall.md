@@ -114,10 +114,10 @@ Unidos como Niños del Universo.
 
 John Lennon lo dijo de esta manera:
 
-_“Puedes decir que soy un soñador,_
+_«Puedes decir que soy un soñador,_
 _Pero no soy el único._
 _Espero que algun dia te nos unas,_
-_Y el mundo vivirá como uno solo."_
+_Y el mundo vivirá como uno solo.»_
 
 Únase a nosotros, la Fellowship de _El Libro de Urantia_, en nuestros esfuerzos por distribuir _The Urantia Book_ y sus enseñanzas a personas de todo el mundo. Su apoyo financiero nos permite llegar a hombres y mujeres en todas partes del planeta, a lectores y líderes que están listos para recibir esta revelación y que pueden transmitirla a las generaciones futuras.
 

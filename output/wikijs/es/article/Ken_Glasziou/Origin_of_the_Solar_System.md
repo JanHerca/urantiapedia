@@ -42,7 +42,7 @@ En 1955, el año de impresión de _El Libro de Urantia_, una medición radiomét
 
 El hipotético «experto» responsable debería haber sabido que muchos de los elementos que se encuentran en nuestro planeta deben tener origen en estrellas que han completado su ciclo de vida y estallaron en una nova. El polvo cósmico que nos dio el sistema solar es de origen secundario y no de ningún Big Bang, por lo que debe ser considerablemente más joven que el propio universo para permitir la formación de galaxias y el reciclaje de estrellas. Por lo tanto, la estimación de la edad del universo basada en el Hubble y la estimación de la edad del sistema solar por meteoritos eran bastante incompatibles. Pero, ¿la estimación radiométrica de la edad de un meteorito reflejaba realmente la edad del sistema solar? Si bien era posible, todavía no había información suficiente para estar seguros.
 
-Entonces, incluso si el factor tiempo permitiera el uso de los datos del meteorito, debido a la evidencia contradictoria, que este hipotético "experto" lo hiciera parecería haber sido irresponsable.
+Entonces, incluso si el factor tiempo permitiera el uso de los datos del meteorito, debido a la evidencia contradictoria, que este hipotéticolo hiciera parecería haber sido irresponsable.
 
 ## Enlaces externos
 

@@ -49,12 +49,12 @@ Principalmente Judas «se equivocó» porque era «una personalidad aislada». N
 * c) su persistente manía a albergar rencores, además de ansias de venganza por sus propias decepciones en la vida, llevó a Judas a encontrar «la derrota en sus batallas de la lucha terrestre». Él «fracasó en subyugar estos males por medio del amor, la fe y la confianza». Finalmente se volvió sin amor e incapaz de reconocer el amor en los demás.
 
 > **Las palabras más famosas de la teología del siglo XX**
-> Él viene a nosotros como Uno desconocido, sin nombre, como antaño, junto a la orilla del lago, Él vino a aquellos que no lo conocían. Él nos dirige la misma palabra: «Sígueme tú» y nos pone en las tareas que Él tiene que cumplir para nuestro tiempo. Él manda. Y a los que le obedecen, sean sabios o sencillos, se les revelará en las fatigas, en los conflictos, en los sufrimientos por los que pasarán en su comunión, y, como misterio inefable, aprenderán en su propia experiencia. Quien es él.
+> Él viene a nosotros como Uno desconocido, sin nombre, como antaño, junto a la orilla del lago, Él vino a aquellos que no lo conocían. Él nos dirige la misma palabra: «Sígueme tú» y nos pone en las tareas que Él tiene que cumplir para nuestro tiempo. Él manda. Y a los que le obedecen, sean sabios o sencillos, se les revelará en las fatigas, en los conflictos, en los sufrimientos por los que pasarán en su comunión, y, como misterio inefable, aprenderán en su propia experiencia. Quién es él.
 > Alberto Schweitzer
 > «La Búsqueda del Jesús Histórico». (1901)
 
 > **Traición a sí mismo**
-> La traición a sí mismo significa que la persona no usa sus propias facultades para determinar qué experiencias contribuyen a la autorrealización y cuáles son irrelevantes o obstaculizan; la persona ya no usa sus propios poderes y órganos para crear una realidad y aventurarse en una nueva vida. Se obliga a sí mismo a encajar en los planes de otra persona ya hacer un trabajo que no tiene significado ni valor. Por lo tanto, no confía en su propia experiencia inmediata y no está abierto a sí mismo ni al mundo.
+> La traición a sí mismo significa que la persona no usa sus propias facultades para determinar qué experiencias contribuyen a la autorrealización y cuáles son irrelevantes u obstaculizan; la persona ya no usa sus propios poderes y órganos para crear una realidad y aventurarse en una nueva vida. Se obliga a sí mismo a encajar en los planes de otra persona y a hacer un trabajo que no tiene significado ni valor. Por lo tanto, no confía en su propia experiencia inmediata y no está abierto a sí mismo ni al mundo.
 > C. Moustakos, 1974
 
 Algunos de los otros apóstoles tenían características similares a las de Judas pero eligieron crecer en amor por Jesús y los otros apóstoles, lo que los llevó a crecer en gracia y verdad. Se volvieron más confiados, desarrollaron la confianza para confiar en los demás y, honestamente, ansiaban saber y ser conocidos.

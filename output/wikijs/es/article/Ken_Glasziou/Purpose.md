@@ -42,7 +42,7 @@ Si esta suposición es correcta, los escritos de Sadler también revelaron los e
 
 Pero no solo este pequeño grupo necesitaba mucha reeducación. El grupo mucho más numeroso, que más tarde se ocupó de la impresión y distribución de los Documentos, también habría necesitado reeducación.
 
-Visto en retrospectiva, podemos comenzar a comprender por qué las Partes 1-3 de la revelación se proporcionaron durante un período de unos quince años o más, mientras que la Parte 4, la "Vida y enseñanzas de Jesús", que constituye un tercio de la revelación total, se proporcionó durante un período de unos quince años o más. una llegada nocturna.
+Visto en retrospectiva, podemos comenzar a comprender por qué las Partes 1-3 de la revelación se proporcionaron durante un período de unos quince años o más, mientras que la Parte 4, la que constituye un tercio de la revelación total, se proporcionó durante un período de unos quince años o más. una llegada nocturna.
 
 ¿Puede un pensamiento reflexivo similar ayudarnos a comprender por qué el cristianismo parece estar tan lejos como siempre de las verdaderas enseñanzas de Jesús, a pesar del transcurso de cuarenta y cinco años desde que se publicaron los Documentos por primera vez?
 

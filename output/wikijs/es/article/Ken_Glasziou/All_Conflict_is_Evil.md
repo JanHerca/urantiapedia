@@ -64,7 +64,7 @@ Típico de los comentarios es este de la lectora Gloria Colot, de Qld., Australi
 
 Gracias Gloria por la reflexión y el esfuerzo puesto en tus comentarios. No todos los lectores fueron tan caritativos con sus comentarios.
 
-Después de mucha consideración, sentimos que, aunque se mantiene nuestra disculpa por el punto final al final de la cita, la cita, "Todo conflicto es malo". no es incorrecto ni difiere de los significados y valores del Libro de Urantia. Como ejemplo, consideremos lo siguiente:
+Después de mucha consideración, sentimos que, aunque se mantiene nuestra disculpa por el punto final al final de la cita, la cita, «Todo conflicto es malo». no es incorrecto ni difiere de los significados y valores del Libro de Urantia. Como ejemplo, consideremos lo siguiente:
 
 _«Toda guerra es mala.»_
 

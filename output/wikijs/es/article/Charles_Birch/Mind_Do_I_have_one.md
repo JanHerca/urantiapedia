@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T04:32:39.812Z
 </figure>
 
 
-De "Sentimientos" de Charles Birch
+De «Sentimientos» de Charles Birch
 
 _La distinción básica que debe hacerse no es principalmente entre mente y materia, sino entre lo objetivo y lo subjetivo._
 
@@ -62,7 +62,7 @@ Un tercer punto de vista dice que, en cierto sentido, la mente es parte integran
 
 **El panexperiencialismo** pregunta: ¿Cómo podría surgir lo que es de lo que no es? Dice que la mente (de alguna forma) y la materia siempre existieron juntas desde el Big Bang e incluso más allá. Confiesa que la mente nunca surge de la no mente.
 
-Los exponentes del mecanicismo han declarado que la naturaleza no está ‘viva’, que ni siquiera el sabor, el color o el olor le pertenecen. Todo lo que es real son las cualidades primarias de los fragmentos de materia a los que puede reducirse la naturaleza. El mundo real es materia en movimiento y nada más. Para los mecanicistas, la máquina reemplaza al organismo como modelo para comprender la naturaleza de la materia. Whitehead[^1] llamó mordazmente a esto la "doctrina de la realidad vacía".
+Los exponentes del mecanicismo han declarado que la naturaleza no está ‘viva’, que ni siquiera el sabor, el color o el olor le pertenecen. Todo lo que es real son las cualidades primarias de los fragmentos de materia a los que puede reducirse la naturaleza. El mundo real es materia en movimiento y nada más. Para los mecanicistas, la máquina reemplaza al organismo como modelo para comprender la naturaleza de la materia. Whitehead[^1] llamó mordazmente a esto la «doctrina de la realidad vacía».
 
 ### Emergencia
 
@@ -182,7 +182,7 @@ La evolución creativa del cosmos es una consecuencia de la actividad creativa c
 
 Abrimos nuestra vida a ser agarrados por algo más grande que nosotros mismos que se convierte en parte de nosotros mismos. Este es el significado completo de _encarnación_, que literalmente significa ‘hacerse carne’, que es volverse concretamente real en lugar de seguir siendo una posibilidad.
 
-> Solo cuando encuentras el poder de decir: "Yo hice esto", puedes encontrar también el poder de cambiarlo.
+> Solo cuando encuentras el poder de decir: «Yo hice esto», puedes encontrar también el poder de cambiarlo.
 
 > Hay un propósito divino detrás de todo, y por lo tanto una presencia divina en todo.
 
@@ -234,7 +234,7 @@ Mientras que el Dios de Aristóteles y del teísmo clásico no se ve afectado en
 
 [^1]: Whitehead, AN «Proceso y realidad».
 
-[^2]: Davies, Paul, "La mente de Dios".
+[^2]: Davies, Paul, «La mente de Dios».
 
 [^3]: Hartshorne era socio de Whitehead.
 

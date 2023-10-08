@@ -38,11 +38,11 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Tenga en cuenta que la revelación de época está definida de manera concisa por los autores de los Documentos de Urantia como emitida directamente por una agencia, grupo o personalidad celestial que no sea nuestro espíritu de Dios residente, nuestro Ajustador del pensamiento.
 
-Después de una cuidadosa consideración, queda claro que alguna revelación podría tener un significado especial, incluso un significado de época, pero aún así no caer dentro de las definiciones de "revelación de época".
+Después de una cuidadosa consideración, queda claro que alguna revelación podría tener un significado especial, incluso un significado de época, pero aún así no caer dentro de las definiciones de
 
 Los autores hacen otra cuidadosa distinción al diferenciar entre «auto-revelación» y «revelación de época».
 
-No estaba al tanto de estas distinciones hasta que, en una charla dada en una conferencia australiana, el orador hizo la declaración de que en ninguna parte de _El Libro de Urantia_ sus autores afirman que es la "Revelación de la quinta época". Un control pronto reveló que estaba en lo cierto.
+No estaba al tanto de estas distinciones hasta que, en una charla dada en una conferencia australiana, el orador hizo la declaración de que en ninguna parte de _El Libro de Urantia_ sus autores afirman que es la Un control pronto reveló que estaba en lo cierto.
 
 La mayoría de los lectores parecen haber cometido el mismo error que yo. Lo que dice el libro es esto:
 
@@ -56,13 +56,13 @@ La mayoría de los lectores parecen haber cometido el mismo error que yo. Lo que
 > 4. Las enseñanzas de Jesús de Nazaret
 > 5. Los Documentos de Urantia. (<a id="a56_33"></a>[LU 92:4.4-9](/es/The_Urantia_Book/92#p4_4))
 
-Los primeros cuatro de estos entran dentro de la definición de "revelación de época", ya que cada uno salió directamente de una "agencia celestial" que no sea el Ajustador del Pensamiento. Pero el medio por el que nos llegaron los Documentos de Urantia es bastante diferente:
+Los primeros cuatro de estos entran dentro de la definición de ya que cada uno salió directamente de unaque no sea el Ajustador del Pensamiento. Pero el medio por el que nos llegaron los Documentos de Urantia es bastante diferente:
 
 > «El Ajustador del ser humano a través del cual se transmite esta comunicación... » (<a id="a60_86"></a>[LU 110:5.7](/es/The_Urantia_Book/110#p5_7))
 
-Por lo tanto, dado que los Documentos han llegado a través de un ser humano y a través de un Ajustador del Pensamiento, parecen haberse excluido a sí mismos del estado de ser "revelación de época" pero, en cambio, parecen caer dentro de su propia definición de "autorevelación". (<a id="a62_280"></a>[LU 101:4.3](/es/The_Urantia_Book/101#p4_3))
+Por lo tanto, dado que los Documentos han llegado a través de un ser humano y a través de un Ajustador del Pensamiento, parecen haberse excluido a sí mismos del estado de serpero, en cambio, parecen caer dentro de su propia definición de (<a id="a62_280"></a>[LU 101:4.3](/es/The_Urantia_Book/101#p4_3))
 
-Sin embargo, como se usa normalmente en el idioma inglés, el prefijo "auto" significa "yo", mientras que el texto puede indicar que el individuo humano involucrado era simplemente un vehículo para la transferencia de información. Por lo tanto, los Documentos de Urantia pueden no cumplir con sus propias definiciones de revelación de época o autorrevelación, si se supone que esta última involucra específicamente solo a un individuo y su Ajustador del Pensamiento.
+Sin embargo, como se usa normalmente en el idioma inglés, el prefijosignifica mientras que el texto puede indicar que el individuo humano involucrado era simplemente un vehículo para la transferencia de información. Por lo tanto, los Documentos de Urantia pueden no cumplir con sus propias definiciones de revelación de época o autorrevelación, si se supone que esta última involucra específicamente solo a un individuo y su Ajustador del Pensamiento.
 
 Sin embargo, el hecho es que la fuente inmediata «a través de la cual se transmite esta comunicación» era un ser humano, y el Documento afirma:
 

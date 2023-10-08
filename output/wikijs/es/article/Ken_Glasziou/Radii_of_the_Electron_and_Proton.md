@@ -60,15 +60,15 @@ La pregunta que se plantea es ¿cómo se pudo hacer tal estimación hace más de
 
 El Documento de Urantia también tiene:
 
-> “Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol." (<a id="a62_280"></a>[LU 42:6](/es/The_Urantia_Book/42#p6))
+> «Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol.» (<a id="a62_280"></a>[LU 42:6](/es/The_Urantia_Book/42#p6))
 
 Nuevamente, estamos en deuda con Stefan Tallqvist por tomarse la molestia de hacer los cálculos y llamar la atención sobre los resultados.
 
 Tomando el radio de la órbita de la Tierra alrededor del sol como 1,5 x 10^14^ mm y el radio de la cabeza de alfiler como 1,0 mm, el radio del protón se calcula en 7 x 10^-15^ mm, que es **7 x 10^-18^ metros**.
 
-El radio del protón "clásico" es de 0,85 x 10^-15^ metros y, de nuevo, se desvía considerablemente del que proporciona el cálculo de los Documentos de Urantia.
+El radio del protónes de 0,85 x 10^-15^ metros y, de nuevo, se desvía considerablemente del que proporciona el cálculo de los Documentos de Urantia.
 
-Sin embargo, ahora se sabe que el protón consta de tres quarks más partículas virtuales que aparecen y desaparecen. Entonces, ¿cuál es realmente el radio de la parte "real" del protón, el sistema de tres quarks? Las medidas modernas lo sitúan en **7,7 x 10^-18^ metros**.
+Sin embargo, ahora se sabe que el protón consta de tres quarks más partículas virtuales que aparecen y desaparecen. Entonces, ¿cuál es realmente el radio de la partedel protón, el sistema de tres quarks? Las medidas modernas lo sitúan en **7,7 x 10^-18^ metros**.
 
 ¿Tales medidas «prueban» que los Documentos de Urantia son todo lo que dicen ser? En algún momento probablemente habría respondido que sí, pero después de haber estudiado los Documentos durante tantos años y de haber considerado afirmaciones de sus autores como «La existencia de Dios nunca puede probarse mediante experimentos científicos» y «la revelación solo es validada por humanos». experiencia”, mi conclusión ahora sería más conservadora.
 
@@ -78,9 +78,9 @@ Por lo tanto, mi interpretación de la ciencia del Documento de Urantia no puede
 
 No sé, y realmente no puedo imaginar, qué tipo de sesgo y prejuicio influye en el juicio del tipo mental de Martin Gardner. Pero puedo ver cómo la evidencia que percibo como un fuerte apoyo a mis puntos de vista, sin embargo, puede recibir un sesgo diferente.
 
-Con respecto a la medición del radio del electrón, se puede plantear el punto de que existe evidencia muy fuerte para apoyar la noción de que un electrón "normal" está en un estado de "superposición", una especie de estado de limbo en el que tiene tanto onda como propiedades de las partículas al mismo tiempo. De manera similar, un electrón puede tener giro "hacia arriba" o "hacia abajo". En su estado «normal» tiene ambos a la vez.
+Con respecto a la medición del radio del electrón, se puede plantear el punto de que existe evidencia muy fuerte para apoyar la noción de que un electrónestá en un estado de una especie de estado de limbo en el que tiene tanto onda como propiedades de las partículas al mismo tiempo. De manera similar, un electrón puede tener giroo En su estado «normal» tiene ambos a la vez.
 
-Se cree que el electrón solo adquiere una configuración definida cuando un observador lo obliga a hacerlo. Si un observador elige verlo como una onda, ¿qué significado tiene su radio? Solo si el observador elige "observarlo" en una conformación apropiada, tendrá un radio definible.
+Se cree que el electrón solo adquiere una configuración definida cuando un observador lo obliga a hacerlo. Si un observador elige verlo como una onda, ¿qué significado tiene su radio? Solo si el observador eligeen una conformación apropiada, tendrá un radio definible.
 
 El cínico, el escéptico, el agnóstico, el ateo, el egocéntrico, el que simplemente no le importa, siempre encontrará una razón para rechazar cualquier evidencia que no encaje con su filosofía o estilo de vida. Está destinado a ser de esa manera, porque sin la libertad de tomar tales decisiones, no puede haber libre albedrío. La fe y solo la fe es la clave para el reino de Dios. Y, como ha dicho Bryan Appleyard: «Si tuviéramos una razón para la fe, no sería fe en absoluto. Sería lógico»
 

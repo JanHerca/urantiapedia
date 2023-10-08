@@ -41,7 +41,7 @@ Un futuro brillante para el reino inmaduro.
 Entonces el Soberano del Sistema dejó que la oscuridad lo envolviera
 Exaltándose a sí mismo Lucifer se extravió
 Asegurándoles mundos que él los guiaría
-A la “autodeterminación” y la “libertad”
+A la «autodeterminación» y la «libertad»
 Hubo guerra en los cielos ese día.
 
 El ayudante de Lucifer, Satanás, llegó a Caligastia
@@ -52,7 +52,7 @@ El progreso terminó y comenzó el caos.
 
 Fue una catástrofe de caos y confusión.
 Amarga cosecha de la traición del Príncipe
-Pueblos “liberados” alborotados
+Pueblos «liberados» alborotados
 Un final rápido para la nueva era de los rebeldes
 Urantia a la deriva, como un barco sin vela.
 
@@ -118,7 +118,7 @@ Cabalga el umbral de un futuro bastante grandioso.
 
 Eres uno en diez millones, Urantia
 Y cuando todo está dicho y hecho
-Este “Mundo de la Cruz”
+Este «Mundo de la Cruz»
 De sufrimiento y pérdida
 Es la envidia de todo Nebadon.
 Uno en diez millones

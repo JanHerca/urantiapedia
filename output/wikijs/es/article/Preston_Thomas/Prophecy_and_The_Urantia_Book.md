@@ -96,7 +96,7 @@ Los reveladores nos dicen que después de su partida, «_Maquiventa Melquisedek 
 
 _El Libro de Urantia exalta a los profetas y afirma la verdad de su punto de vista profético._ A menudo citan y arrojan nueva luz sobre la profecía bíblica. «_En las crónicas de Urantia, a veces es muy difícil saber a quien se refieren exactamente con el término «Altísimo». Pero Daniel comprendió plenamente estas cuestiones, pues dijo: «El Altísimo gobierna en el reino de los hombres y se lo da a quien quiere»_» <a id="a96_416"></a>[[LU 43:3.4](/es/The_Urantia_Book/43#p3_4)] Y encontramos esta aclaración de la profecía de Juan de un cielo nuevo y una tierra nueva: «_Juan escribió acerca de la terminación de la misión final de los Hijos Instructores: ... «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe»_» <a id="a96_800"></a>[[LU 52:7.11](/es/The_Urantia_Book/52#p7_11)]
 
-_Con la perspectiva de la historia ahora podemos encontrar muchos ejemplos de profecías que se cumplieron._ La historia de Jeremías es una de mis favoritas. Vivió en el siglo VI a.C., justo antes de la caída de Jerusalén ante Nabucodonosor. Jeremías profetizó la destrucción de Jerusalén durante más de veinte años antes de que realmente ocurriera en el 586 a. La respuesta de los gobernantes a su mensaje fue ignorar sus advertencias y encarcelarlo.
+_Con la perspectiva de la historia ahora podemos encontrar muchos ejemplos de profecías que se cumplieron._ La historia de Jeremías es una de mis favoritas. Vivió en el siglo VI a.C., justo antes de la caída de Jerusalén ante Nabucodonosor. Jeremías profetizó la destrucción de Jerusalén durante más de veinte años antes de que realmente ocurriera en el 586 a.C. La respuesta de los gobernantes a su mensaje fue ignorar sus advertencias y encarcelarlo.
 
 Las profecías de Jeremías son muy específicas y precisas. Por ejemplo, en [Jer. 4:6 y 7](/es/Bible/Jeremiah/4#v6) encontramos esto: «Un gran león (Nabucodonosor) ha subido de su espesura, un destructor de naciones se ha puesto en marcha; ha salido de su lugar para convertir vuestra tierra en desolación; vuestras ciudades serán ruinas sin morador.» Y en Jer. 20:4 leemos: «Entregaré a todo Judá en manos del rey de Babilonia, él los llevará cautivos a Babilonia».
 
@@ -114,7 +114,7 @@ _El Libro de Urantia_ _en sí mismo se dedica a la profecía y contiene numerosa
 
 > Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. <a id="a114_92"></a>[[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)]
 
-## La profecía del_Libro de Urantia_ y el conflicto secular-espiritual
+## La profecía del Libro de Urantia y el conflicto secular-espiritual
 
 Si estamos abiertos a la profecía y leemos _El Libro de Urantia_ con atención al contenido profético, podemos aprender mucho sobre nuestro futuro. Por ejemplo, considere el surgimiento del secularismo moderno y su conflicto con la religión. ¿Qué podemos aprender sobre el futuro de esta lucha y cuál será su resultado final?
 
@@ -166,7 +166,7 @@ Hemos soportado las malas noticias, ahora por fin escuchamos las buenas noticias
 
 Hay más buenas noticias: no tenemos que esperar hasta una era futura para el triunfo de lo espiritual. ¡Ya está en marcha! Incluso ahora, en el apogeo del dominio secular de la vida planetaria, las enseñanzas de Jesús están trabajando para vencer las fuerzas arraigadas del secularismo. «_Las enseñanzas de Jesús... incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte._» <a id="a166_423"></a>[[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)] (Énfasis mío).
 
-Por lo tanto, si miramos hacia el futuro con fe en la profecía del Libro de Urantia, podemos esperar presenciar no solo un conflicto creciente entre lo secular y lo espiritual, sino también el poder creciente de lo espiritual y, en última instancia, el triunfo total y final de las enseñanzas. de Jesús
+Por lo tanto, si miramos hacia el futuro con fe en la profecía del Libro de Urantia, podemos esperar presenciar no solo un conflicto creciente entre lo secular y lo espiritual, sino también el poder creciente de lo espiritual y, en última instancia, el triunfo total y final de las enseñanzas de Jesús
 
 ## Renacimiento espiritual: una nueva revelación de Jesús
 
@@ -200,7 +200,7 @@ _El Libro de Urantia_ en realidad nos llama a unirnos a esta nueva revelación d
 
 Por poco preparados que estemos, _El Libro de Urantia_ parece estar llamándonos a funcionar como los nuevos maestros y líderes que ayudarán a lograr este renacimiento espiritual. Después de todo, somos nosotros quienes hemos recibido la nueva revelación de Jesús, y es el renacimiento de sus enseñanzas reales lo que transformará nuestro mundo.
 
-Nótese especialmente que estamos llamados a depender únicamente de Jesús ya dedicarnos exclusivamente a la regeneración espiritual de los hombres. Esta es una tarea mucho mayor que la mera difusión de _El Libro de Urantia_. Esa es una empresa noble, pero debemos entender que no es lo que _El Libro de Urantia_ nos llama a hacer. Los intermedios podrían habernos dicho que lo que se necesita ahora es la difusión de _El Libro de Urantia_, que estamos llamados a hacer este trabajo y que la aceptación mundial de _El Libro de Urantia_ traerá consigo la nueva era. ¡Pero ellos no! En cambio, nos llaman a depender únicamente de Jesús, lograr la transformación espiritual en nosotros mismos y la regeneración espiritual en los demás.
+Nótese especialmente que estamos llamados a depender únicamente de Jesús y a dedicarnos exclusivamente a la regeneración espiritual de los hombres. Esta es una tarea mucho mayor que la mera difusión de _El Libro de Urantia_. Esa es una empresa noble, pero debemos entender que no es lo que _El Libro de Urantia_ nos llama a hacer. Los intermedios podrían habernos dicho que lo que se necesita ahora es la difusión de _El Libro de Urantia_, que estamos llamados a hacer este trabajo y que la aceptación mundial de _El Libro de Urantia_ traerá consigo la nueva era. ¡Pero ellos no! En cambio, nos llaman a depender únicamente de Jesús, lograr la transformación espiritual en nosotros mismos y la regeneración espiritual en los demás.
 
 Para aquellos que responden a este llamado de líderes nacidos del espíritu, nuevamente encontramos que se predice un gran éxito. Y este éxito no se limitará al mundo espiritual. Estos nuevos líderes también ayudarán a lograr un cambio fundamental en todo el espectro de la vida humana en la tierra. Mientras observamos el triste estado de los asuntos planetarios, esta es una buena noticia. Esto es lo que se predice: «_Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._» <a id="a204_602"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 

@@ -42,7 +42,7 @@ dateCreated: 2023-02-13T14:02:03.086Z
 
 «¿Dónde vamos a poner los leños extra para el fuego y las dos cajas de libros espirituales que siempre quise leer pero nunca tuve tiempo de hacerlo?»
 
-«No importa, tíralos al “Mota Home» y vámonos de aquí. Cuanto más tarde en irse, más atrapados quedamos aquí.
+«No importa, tíralos al «Mota Home» y vámonos de aquí. Cuanto más tarde en irse, más atrapados quedamos aquí.
 
 «¿Puertas cerradas? Espera un momento, el teléfono vuelve a sonar».
 
@@ -146,7 +146,7 @@ Inicie sesión en Truthbook.com, haga clic en la «sala de chat espiritual» en 
 
 __Ingrediente #21: Haz algo, «servicio—más servicio y mayor servicio».__
 
-¡Imagínese cuando está en Mansion Worlds, está viendo las transmisiones universales y puede ver los efectos exponenciales de todo lo que ha hecho! Estoy seguro de que mis pensamientos serán «Oh, cuánta más diferencia podría haber hecho».
+¡Imagínese cuando está en los mundos de las mansiones, está viendo las transmisiones universales y puede ver los efectos exponenciales de todo lo que ha hecho! Estoy seguro de que mis pensamientos serán «Oh, cuánta más diferencia podría haber hecho».
 
 __Ingrediente #22: Dar hasta que duela, nunca volveremos a pasar por aquí.__
 

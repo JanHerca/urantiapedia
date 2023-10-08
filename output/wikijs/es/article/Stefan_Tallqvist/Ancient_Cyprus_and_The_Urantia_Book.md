@@ -47,21 +47,21 @@ En mi segunda visita a Chipre el mes pasado, quería escribir sobre una correlac
 <figcaption><em>Herramienta de sílex del Neolítico.</em></figcaption>
 </figure>
 
-Vassos Karageorghis afirma en "Museo de Chipre y sitios arqueológicos de Chipre" 1988; sobre la civilización chipriota: período neolítico.
+Vassos Karageorghis afirma en1988; sobre la civilización chipriota: período neolítico.
 
 > «Una parte grande e importante de la contribución chipriota a la historia de la civilización se remonta a tiempos prehistóricos. Una fase ya desarrollada de la cultura neolítica, probablemente importada de los países vecinos de Asia, apareció en Chipre a principios del sexto milenio. Se han identificado más de treinta asentamientos neolíticos en la isla. Pero la mayor parte de nuestra información sobre la vida en ese período se deriva del asentamiento de Khirokitia, excavado entre 1936 y 1939. Los habitantes neolíticos de este asentamiento, estimados entre cuatro y cinco mil, vivían en cabañas circulares bien construidas con techos de paja dentro de pozos -grupos sociales organizados.»
 >
 > «El Servicio Arqueológico de Chipre ha excavado una gran parte del asentamiento; los hallazgos resultantes dan una imagen única del urbanismo y la arquitectura en el Neolítico. Las casas, apiñadas unas junto a otras, consisten principalmente en una habitación circular que también se usaba como taller».
 >
-> “Los habitantes enterraban a sus muertos bajo los pisos de sus casas, o en algún punto cercano a sus viviendas. (En Egipto, las casas conocidas como 'Tholoi' todavía se usan como casas funerarias).
+> «Los habitantes enterraban a sus muertos bajo los pisos de sus casas, o en algún punto cercano a sus viviendas. (En Egipto, las casas conocidas como 'Tholoi' todavía se usan como casas funerarias).»
 >
 > «La parte inferior de los muros estaba construida con piedras, mientras que la parte superior arqueada estaba hecha de arcilla y ladrillos. Los habitantes bajaban por la ladera del cerro para sacar agua del manantial vecino. Cazaban, labraban la tierra, ya domesticaron animales salvajes, practicaron el tejido y utilizaron piedras blandas —luego arcilla— para fabricar utensilios y figuras. Tenían relaciones comerciales con Asia Menor y el norte de Siria».
 
-En abril de este año (1996), visité el sitio arqueológico de Khirokitia en Chipre. Aquí hay un pasaje de la guía: "Khirokitia, una guía para el sitio neolítico". por A. Le Brun:
+En abril de este año (1996), visité el sitio arqueológico de Khirokitia en Chipre. Aquí hay un pasaje de la guía: por A. Le Brun:
 
-> “Descubierto en 1934, el asentamiento fue excavado entre 1936 y 1946. Se llevaron a cabo más investigaciones entre 1972 y 1976. Según una serie de dataciones de carbono no calibradas que van desde el 5800 al 5500 a. C., la isla de Chipre fue habitada por primera vez durante el sexto milenio a. C."
+> «Descubierto en 1934, el asentamiento fue excavado entre 1936 y 1946. Se llevaron a cabo más investigaciones entre 1972 y 1976. Según una serie de dataciones de carbono no calibradas que van desde el 5800 al 5500 a. C., la isla de Chipre fue habitada por primera vez durante el sexto milenio a. C.»
 >
-> «Los habitantes de Khirokitia aislaron su espacio vital del exterior con construcciones que implican un importante esfuerzo comunitario. Hay pocos ejemplos de tales edificios en el Neolítico del Cercano Oriente. El asentamiento estaba habitado por agricultores que cultivaban trigo y cebada, como lo demuestra el análisis de materiales de semillas carbonizados. El grano se cosechaba con hoces de pedernal empuñadas en madera o hueso. Solo las hojas de pedernal han sobrevivido. Los "molinos de silla" colocados fuera de las casas se usaban para moler el grano. La carne de venado, oveja, cabra y cerdo la proporcionaba la caza y la ganadería».
+> «Los habitantes de Khirokitia aislaron su espacio vital del exterior con construcciones que implican un importante esfuerzo comunitario. Hay pocos ejemplos de tales edificios en el Neolítico del Cercano Oriente. El asentamiento estaba habitado por agricultores que cultivaban trigo y cebada, como lo demuestra el análisis de materiales de semillas carbonizados. El grano se cosechaba con hoces de pedernal empuñadas en madera o hueso. Solo las hojas de pedernal han sobrevivido. Loscolocados fuera de las casas se usaban para moler el grano. La carne de venado, oveja, cabra y cerdo la proporcionaba la caza y la ganadería».
 >
 > «Las herramientas de los primeros habitantes de Khirokitia están hechas de pedernal, hueso y piedra. Además de las vasijas utilitarias más comunes, hay finos cuencos de piedra que demuestran el alto grado de habilidad que se podía lograr en el Neolítico Acerámico. Todos están hechos de andesita ígnea de color verde grisáceo que se adquirió fácilmente de las orillas del río Maroni. Algunas están decoradas con adornos que reflejan un sentido artístico muy agudo. Estos objetos se exhiben en el Museo de Chipre en Nicosia y en el museo del distrito en Larnica».
 >

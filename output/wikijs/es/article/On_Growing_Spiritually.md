@@ -41,7 +41,7 @@ Puede ser que estos términos sean indefinibles fuera del evento u ocasión en q
 
 Cada tal acto es único; las circunstancias exactas bajo las cuales ocurre nunca se repetirán. Por lo tanto, cualquier intento de proporcionar una definición precisa de moralidad es una tarea imposible.
 
-Aunque los Documentos de Urantia nos informan que las únicas realidades por las que vale la pena luchar son "divinas, espirituales y eternas", si nos proponemos definir lo que se entiende por significados y valores espirituales, incluso después de leer los Documentos y los cientos de referencias relevantes, la El resultado más probable es que nos vayamos con las manos vacías.
+Aunque los Documentos de Urantia nos informan que las únicas realidades por las que vale la pena luchar son «divinas, espirituales y eternas», si nos proponemos definir lo que se entiende por significados y valores espirituales, incluso después de leer los Documentos y los cientos de referencias relevantes, la El resultado más probable es que nos vayamos con las manos vacías.
 
 Entonces, ¿hay alguna manera de poner carne en los huesos de estos términos indefinidos? Afortunadamente la respuesta es sí. Lo podemos encontrar en la página 1096:
 
@@ -49,7 +49,7 @@ Entonces, ¿hay alguna manera de poner carne en los huesos de estos términos in
 
 Mientras que los conceptos de verdad, belleza, amor y bondad desafían la definibilidad exacta, la declaración de que nuestro desarrollo espiritual depende de la eliminación del egoísmo proporciona algo con sustancia para que trabajemos.
 
-Esas palabras "directamente proporcional" provienen de la terminología matemática estándar. En su contexto actual, quieren decir que si podemos duplicar las cualidades desinteresadas de nuestro amor, automáticamente duplicaremos nuestro desarrollo espiritual. Asimismo, si podemos reducir a la mitad las cualidades egoístas, también duplicaremos nuestro desarrollo espiritual.
+Esas palabras «directamente proporcional» provienen de la terminología matemática estándar. En su contexto actual, quieren decir que si podemos duplicar las cualidades desinteresadas de nuestro amor, automáticamente duplicaremos nuestro desarrollo espiritual. Asimismo, si podemos reducir a la mitad las cualidades egoístas, también duplicaremos nuestro desarrollo espiritual.
 
 Por lo tanto, trabajar en la eliminación del egoísmo de nuestro propio ser y luchar por la generosidad en todas nuestras relaciones puede hacer cosas asombrosas tanto para nuestro desarrollo espiritual como para el crecimiento de nuestras almas.
 

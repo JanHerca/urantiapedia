@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T22:49:09.783Z
 </figure>
 
 
-Ha habido algunas críticas a un artículo en la [edición de julio-agosto](/es/index/articles_innerface#volumen-11-no-4) de Innerface con respecto a nuestra interpretación del uso de los reveladores de las palabras "masa" y " tamaño” en su descripción del crecimiento a lo largo del tiempo del sistema tierra-luna.
+Ha habido algunas críticas a un artículo en la [edición de julio-agosto](/es/index/articles_innerface#volumen-11-no-4) de Innerface con respecto a nuestra interpretación del uso de los reveladores de las palabrasy " tamaño” en su descripción del crecimiento a lo largo del tiempo del sistema tierra-luna.
 
 Los reveladores afirman: «_Hace *2.500.000.000* de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente una **décima parte **de su **masa** actual y continuaba aumentando rápidamente por acreción meteórica._». <a id="a35_283"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
 

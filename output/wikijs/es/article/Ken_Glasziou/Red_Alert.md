@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Si se supone que los Documentos de Urantia fueron el trabajo de un grupo compuesto en su totalidad por católicos o protestantes, entonces, debido a los muchos pronunciamientos "protestantes" que se encuentran en los Documentos, lo más probable es que muchos estudiantes de historia religiosa emitan su voto. a favor de que los Documentos hayan sido obra de protestantes apóstatas.
+Si se supone que los Documentos de Urantia fueron el trabajo de un grupo compuesto en su totalidad por católicos o protestantes, entonces, debido a los muchos pronunciamientosque se encuentran en los Documentos, lo más probable es que muchos estudiantes de historia religiosa emitan su voto. a favor de que los Documentos hayan sido obra de protestantes apóstatas.
 
 La edición de estudio católico de Good News Bible (Thomas Nelson, NY) contiene documentos introductorios de eruditos católicos romanos que rechazan la teoría del llamado «dictado divino». También en ellos podemos encontrar, «ninguno de los autores pensó en sí mismo como compositor de literatura divinamente inspirada», y el Evangelio de Juan «parece haber sido trabajado y reeditado por la comunidad de Juan durante un período de varios años». Este tipo de punto de vista hace imposible el fundamentalismo bíblico.
 

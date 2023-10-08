@@ -54,7 +54,7 @@ Por lo tanto, no importa mucho si aceptamos la fecha de recepción del Documento
 
 Según su masa inicial, una vez que comienza la fase de combustión del silicio, el colapso de una estrella hasta el límite de Chandrasekhar de 1,2-1,5 masas solares puede tardar horas o días, pero el colapso posterior puede durar menos de un segundo.
 
-Sería de gran interés conocer las fechas reales de publicación de cualquier artículo anterior a 1950 que proporcione información sobre las tasas de colapso de las grandes estrellas y/o el papel esencial de las "pequeñas partículas desprovistas de potencial eléctrico" (neutrinos) que son el vehículo para el tránsito explosivo de energía desde el núcleo de las estrellas que colapsan.
+Sería de gran interés conocer las fechas reales de publicación de cualquier artículo anterior a 1950 que proporcione información sobre las tasas de colapso de las grandes estrellas y/o el papel esencial de las(neutrinos) que son el vehículo para el tránsito explosivo de energía desde el núcleo de las estrellas que colapsan.
 
 ## Enlaces externos
 

@@ -54,7 +54,7 @@ En el estado actual de las cosas en este planeta, es probable que ninguna religi
 
 ¿Por qué los reveladores atribuyeron una importancia primordial a este discurso? Al presentarlo, afirman: «Jesús pronunció uno de los **discursos más notables** que sus apóstoles jamás escucharon a lo largo de todos sus años de asociación con ellos».
 
-Y comienzan con este comentario: “**Este notable discurso** sobre religión, resumido y reafirmado en fraseología moderna, dio expresión a las siguientes verdades... Los reveladores no son propensos a la exageración, lo que dicen, lo dicen por algo. El discurso comienza llamando la atención sobre tres manifestaciones del impulso religioso:
+Y comienzan con este comentario: «**Este notable discurso** sobre religión, resumido y reafirmado en fraseología moderna, dio expresión a las siguientes verdades...» Los reveladores no son propensos a la exageración, lo que dicen, lo dicen por algo. El discurso comienza llamando la atención sobre tres manifestaciones del impulso religioso:
 
 1. **La religión primitiva.** La religión de los sentidos físicos y los miedos supersticiosos del hombre natural, el impulso instintivo de temer energías misteriosas y adorar fuerzas superiores.
 

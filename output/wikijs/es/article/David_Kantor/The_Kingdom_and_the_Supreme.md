@@ -1,5 +1,5 @@
 ---
-title: "El Reino y lo Supremo: ideas para simplificar la comprensión de _El Libro de Urantia_"
+title: "El Reino y lo Supremo: ideas para simplificar la comprensión de El Libro de Urantia"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
@@ -75,9 +75,9 @@ _Las dispensaciones son herramientas para el manejo celestial de la orientación
 
 _Las dispensaciones son herramientas para administrar los servicios de apoyo planetario._ La administración planetaria y los servicios de apoyo espiritual están estructurados para trabajar dentro del contexto de las metas y objetivos de una dispensación en particular: la actualización de los potenciales contenidos dentro del alcance de la revelación asociada.
 
-_Las dispensaciones son herramientas para sincronizar los asuntos administrativos de los diferentes mundos asociados con el esquema de ascensión._ Los programas de rehabilitación, los mecanismos sociales, los programas educativos, los procedimientos de administración del sistema local y planetario deben planificarse, crearse y ponerse en marcha para que estén listos para los nuevos grupos. de peregrinos que llegan de los planetas evolutivos en conjunción con las transiciones de una dispensación a la siguiente.
+_Las dispensaciones son herramientas para sincronizar los asuntos administrativos de los diferentes mundos asociados con el esquema de ascensión._ Los programas de rehabilitación, los mecanismos sociales, los programas educativos, los procedimientos de administración del sistema local y planetario deben planificarse, crearse y ponerse en marcha para que estén listos para los nuevos grupos de peregrinos que llegan de los planetas evolutivos en conjunción con las transiciones de una dispensación a la siguiente.
 
-En Urantia, Miguel inauguró la dispensación del Espíritu de la Verdad otorgado, un «..._nueva dispensación en la que el individuo esclavizado emerge del cautiverio del ceremonialismo y del egoísmo, y pasa a la alegría espiritual de la fraternidad y la comunidad de los hijos por la fe, liberados, que pertenecen al Dios vivo._» <a id="a79_328"></a>[[LU 179:5.2](/es/The_Urantia_Book/179#p5_2)] _El Libro de Urantia_ es una característica de esta dispensación del Espíritu de la Verdad, «..._una dispensación de misericordia y de salvación nueva y mejor para todas las naciones,_» <a id="a79_560"></a>[[LU 136:1.3](/es/The_Urantia_Book/136#p1_3)] la llamada «_dispensación cristiana.» <a id="a79_644"></a>[[LU 195:8.13](/es/The_Urantia_Book/195#p8_13)]
+En Urantia, Miguel inauguró la dispensación del Espíritu de la Verdad otorgado, una «..._nueva dispensación en la que el individuo esclavizado emerge del cautiverio del ceremonialismo y del egoísmo, y pasa a la alegría espiritual de la fraternidad y la comunidad de los hijos por la fe, liberados, que pertenecen al Dios vivo._» <a id="a79_328"></a>[[LU 179:5.2](/es/The_Urantia_Book/179#p5_2)] _El Libro de Urantia_ es una característica de esta dispensación del Espíritu de la Verdad, «..._una dispensación de misericordia y de salvación nueva y mejor para todas las naciones,_» <a id="a79_560"></a>[[LU 136:1.3](/es/The_Urantia_Book/136#p1_3)] la llamada «_dispensación cristiana.» <a id="a79_644"></a>[[LU 195:8.13](/es/The_Urantia_Book/195#p8_13)]
 
 Considere algunas de las fuerzas espirituales que influyen en nuestro mundo y su relación con la presente dispensación.
 
@@ -101,11 +101,11 @@ _Los Ajustadores del Pensamiento_: «Estos Monitores de Misterio ayudan continua
 
 Los Ajustadores del Pensamiento son el «reino de los cielos dentro de ti». <a id="a101_75"></a>[[LU 108:6.2](/es/The_Urantia_Book/108#p6_2)]
 
-_El Espíritu Santo del Universo Madre Espíritu_: Este circuito espiritual prepara la mente ayudante para la recepción del Ajustador. <a id="a103_133"></a>[[LU 108:2.2](/es/The_Urantia_Book/108#p2_2)]
+_El Espíritu Santo del Espíritu Materno Universal_: Este circuito espiritual prepara la mente ayudante para la recepción del Ajustador. <a id="a103_133"></a>[[LU 108:2.2](/es/The_Urantia_Book/108#p2_2)]
 
 Estas fuerzas espirituales primarias están enfocadas en reforzar e iluminar los significados y valores que emergen como resultado del otorgamiento de Jesús—los elementos fundamentales de la dispensación actual. _El Libro de Urantia_ es una característica de esta dispensación. Sirve a los objetivos principales que persigue el ministerio espiritual en el planeta: el establecimiento del reino, la revelación de la naturaleza de la deidad evolutiva experiencial y el intento de movilizar la participación mortal en esta gran aventura cósmica.
 
-¿Cuánto durará la presente dispensación? Ciertamente, ninguno de nosotros puede responder a esta pregunta. Sin embargo, hay algunas pistas en el texto que debemos considerar. En referencia a su regreso, Jesús les dijo a los apóstoles: «... _deberíais comprender que cuando este evangelio del reino haya sido proclamado en el mundo entero para la salvación de todos los pueblos, y cuando la era haya alcanzado su plenitud, el Padre os enviará otra donación dispensacional, o si no, el Hijo del Hombre regresará para juzgar la era._» <a id="a107_532"></a>[[LU 176:2.5](/es/The_Urantia_Book/176#p2_5)] Esto implica que el trabajo de la próxima dispensación se construirá sobre una conciencia mundial de al menos menos los fundamentos del evangelio del reino de Jesús, una conciencia que se logrará durante la presente dispensación.
+¿Cuánto durará la presente dispensación? Ciertamente, ninguno de nosotros puede responder a esta pregunta. Sin embargo, hay algunas pistas en el texto que debemos considerar. En referencia a su regreso, Jesús les dijo a los apóstoles: «... _deberíais comprender que cuando este evangelio del reino haya sido proclamado en el mundo entero para la salvación de todos los pueblos, y cuando la era haya alcanzado su plenitud, el Padre os enviará otra donación dispensacional, o si no, el Hijo del Hombre regresará para juzgar la era._» <a id="a107_532"></a>[[LU 176:2.5](/es/The_Urantia_Book/176#p2_5)] Esto implica que el trabajo de la próxima dispensación se construirá sobre una conciencia mundial de al menos los fundamentos del evangelio del reino de Jesús, una conciencia que se logrará durante la presente dispensación.
 
 Dado que gran parte de la administración celestial de nuestro planeta está orientada hacia el refuerzo y el apoyo de los propósitos del otorgamiento de Miguel, será útil si revisamos algunos de esos propósitos.
 
@@ -131,7 +131,7 @@ Si bien estos propósitos del otorgamiento de Miguel parecen muy sencillos, el p
 
 > Jesús explicó muy claramente que el reino de los cielos era una experiencia evolutiva que empezaba aquí, en la Tierra, y progresaba por medio de etapas sucesivas de vida hasta el Paraíso. <a id="a131_190"></a>[[LU 142:7.3](/es/The_Urantia_Book/142#p7_3)]
 
-El Ser Supremo «_es el coordinador que sintetiza todas las actividades universales de la criatura y del Creador._» <a id="a133_115"></a>[[LU 0:7.9](/es/The_Urantia_Book/0#p7_9)]
+> El Ser Supremo «_es el coordinador que sintetiza todas las actividades universales de la criatura y del Creador._» <a id="a133_115"></a>[[LU 0:7.9](/es/The_Urantia_Book/0#p7_9)]
 
 > La fe de Jesús [proveyó]... de la liberación del yo, escapando a las limitaciones de la conciencia de sí mismo mediante el hecho de alcanzar los niveles cósmicos de la mente Suprema y gracias a la coordinación con los logros de todos los demás seres conscientes de sí mismos... la unión perfeccionada con la Deidad en el Supremo y a través de él... <a id="a135_351"></a>[[LU 101:6.13,15](/es/The_Urantia_Book/101#p6_13)]
 
@@ -176,7 +176,7 @@ Considere las siguientes enseñanzas sobre el reino y el Supremo.
 
 > Jesús... proclamó que el reino es la voluntad de su Padre celestial dominante y trascendente en el corazón del creyente... <a id="a176_125"></a>[[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)]
 
-El evangelio del reino es «... _el deseo supremo de hacer la voluntad del Padre, unido a la alegría suprema de comprender, por la fe, que sois hijos de Dios_...» <a id="a178_162"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
+> El evangelio del reino es «... _el deseo supremo de hacer la voluntad del Padre, unido a la alegría suprema de comprender, por la fe, que sois hijos de Dios_...» <a id="a178_162"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
 
 > El reino de Dios en este mundo [es]... el deseo supremo de hacer la voluntad de Dios. <a id="a180_88"></a>[[LU 170:2.16](/es/The_Urantia_Book/170#p2_16)]
 
@@ -252,7 +252,7 @@ Jesús describió la segunda fase del reino como «... _el reino de Dios en el c
 
 > Recordad que todo lo que Dios Padre y sus Hijos Paradisiacos hacen por nosotros, nosotros a nuestra vez y en espíritu tenemos la oportunidad de hacerlo por el Ser Supremo emergente, y en él. La experiencia del amor, de la alegría y del servicio en el universo es mutua. <a id="a252_272"></a>[[LU 56:8.3](/es/The_Urantia_Book/56#p8_3)]
 
-El reino es «_una vida de rectitud progresiva y de alegría creciente en el servicio cada vez más perfecto de mi Padre que está en los cielos._» <a id="a254_144"></a>[[LU 137:8.13](/es/The_Urantia_Book/137#p8_13)]
+> El reino es «_una vida de rectitud progresiva y de alegría creciente en el servicio cada vez más perfecto de mi Padre que está en los cielos._» <a id="a254_144"></a>[[LU 137:8.13](/es/The_Urantia_Book/137#p8_13)]
 
 > ... la verdadera religión interior del reino tiende a manifestarse infaliblemente, y cada vez más, en las vías prácticas del servicio social. <a id="a256_144"></a>[[LU 170:3.8](/es/The_Urantia_Book/170#p3_8)]
 
@@ -284,7 +284,7 @@ El reino es «_una vida de rectitud progresiva y de alegría creciente en el ser
 
 ### Un ejercicio para iluminar la relación entre el Reino y el Supremo
 
-Tome cualquiera de las parábolas de Jesús que comienzan con la frase, «El reino de los cielos es semejante... » y sustituya la palabra «Supremo» por la palabra «reino». Terminarás con algunas hermosas parábolas como, «El Supremo es como un grano de mostaza... » o «El Supremo es como una red de barrido que fue arrojada al mar... » o «El Supremo es como un hombre que sembró buena semilla en su campo... Contempla las implicaciones de estas parábolas en relación con el concepto del Supremo en lugar de “el reino».
+Tome cualquiera de las parábolas de Jesús que comienzan con la frase, «El reino de los cielos es semejante... » y sustituya la palabra «Supremo» por la palabra «reino». Terminarás con algunas hermosas parábolas como, «El Supremo es como un grano de mostaza... » o «El Supremo es como una red de barrido que fue arrojada al mar... » o «El Supremo es como un hombre que sembró buena semilla en su campo... Contempla las implicaciones de estas parábolas en relación con el concepto del Supremo en lugar de «el reino».
 
 ### Un aparte sobre la cooperación con el Ajustador del Pensamiento
 
@@ -309,7 +309,7 @@ Los primeros tres elementos describen la participación en el reino como lo ense
 
 ## Implicaciones para un estudio más productivo de _El Libro de Urantia_
 
-Una vez que apreciamos el grado en que el enfoque principal de _El Libro de Urantia_ es una iluminación y una expansión conceptual de la religión de Jesús, podemos comenzar a pensar en ordenar los contenidos del libro en jerarquías de importancia relativa y secuencias de ideas que pueden desarrollarse progresivamente. como un estudio organizado.
+Una vez que apreciamos el grado en que el enfoque principal de _El Libro de Urantia_ es una iluminación y una expansión conceptual de la religión de Jesús, podemos comenzar a pensar en ordenar los contenidos del libro en jerarquías de importancia relativa y secuencias de ideas que pueden desarrollarse progresivamente como un estudio organizado.
 
 En este contexto, es útil considerar _El Libro de Urantia_ como una teología sistemática clásica. Una teología sistemática es una forma literaria, tanto como una sonata es una forma musical o una cuarteta es una forma poética. Una teología sistemática clásica tiene al menos cuatro divisiones principales.
 
@@ -321,7 +321,7 @@ Estas divisiones y los temas que suelen abordar son:
 
 | ORGANIZACIÓN DE LOS CONCEPTOS DEL LIBRO DE URANTIA COMO TEOLOGÍA SISTEMÁTICA PARA EL ESTUDIO PROGRESIVO ||
 | :---: | :---: |
-**1. ¿QUIÉN ES JESÚS? (TEOLOGÍA)**<br>JESÚS DE NAZARET<br>REVELACIÓN Y DISPENSACIONES DE ÉPOCA<br>MICHAEL DE NEBADON<br>EL UNIVERSO LOCAL<br>LA CARRERA DE DONACIÓN DE SIETE PARTES<br>EL UNIVERSO DE UNIVERSOS<br>DIOS EL SÉPTPLE <br>LA TRINIDAD DEL PARAÍSO<br>DEIDAD EXISTENCIAL Y EXPERIENCIAL<br>LOS SIETE ABSOLUTOS DEL INFINITO<br>LA SÉPTUPE NATURALEZA DEL YO SOY<br>EL PADRE UNIVERSAL | **2. CONTEXTO HISTÓRICO (ANTROPOLOGÍA)**<br>EVOLUCIÓN GEOLÓGICA<br>EVOLUCIÓN BIOLÓGICA<br>ANTROPOLOGÍA RACIAL<br>MATERIA, MENTE Y ESPÍRITU<br>EVOLUCIÓN SOCIAL Y RELIGIOSA<br>LA REBELIÓN DE LUCIFER<br>LA FALTA ADÁMICA <br>MAQUIVENTA MELQUISEDEC<br>CONDICIONES AL MOMENTO DE LA DONACIÓN DE MIGUEL<br>DOCUMENTO 195—DESPUÉS DE PENTECOSTÉS
+**1. ¿QUIÉN ES JESÚS? (TEOLOGÍA)**<br>JESÚS DE NAZARET<br>REVELACIÓN Y DISPENSACIONES DE ÉPOCA<br>MICHAEL DE NEBADON<br>EL UNIVERSO LOCAL<br>LA CARRERA DE DONACIÓN DE SIETE PARTES<br>EL UNIVERSO DE UNIVERSOS<br>DIOS EL SÉPTUPLE <br>LA TRINIDAD DEL PARAÍSO<br>DEIDAD EXISTENCIAL Y EXPERIENCIAL<br>LOS SIETE ABSOLUTOS DEL INFINITO<br>LA SÉPTUPE NATURALEZA DEL YO SOY<br>EL PADRE UNIVERSAL | **2. CONTEXTO HISTÓRICO (ANTROPOLOGÍA)**<br>EVOLUCIÓN GEOLÓGICA<br>EVOLUCIÓN BIOLÓGICA<br>ANTROPOLOGÍA RACIAL<br>MATERIA, MENTE Y ESPÍRITU<br>EVOLUCIÓN SOCIAL Y RELIGIOSA<br>LA REBELIÓN DE LUCIFER<br>LA FALTA ADÁMICA <br>MAQUIVENTA MELQUISEDEC<br>CONDICIONES AL MOMENTO DE LA DONACIÓN DE MIGUEL<br>DOCUMENTO 195—DESPUÉS DE PENTECOSTÉS
 **3. LA RELIGIÓN DE JESÚS (CRISTOLOGÍA)**<br>EL PADRE UNIVERSAL<br>PERSONALIDAD EN EL UNIVERSO<br>ADORACIÓN Y SERVICIO<br>VOLUNTAD DEL PADRE<br>EL GRAN MANDAMIENTO<br>CIUDADANÍA CÓSMICA<br>LA BÚSQUEDA PARA LA PERFECCIÓN<br>SERVICIO EN LA ETERNIDAD | **4. EL REINO DE LOS CIELOS (ESCATOLOGÍA)**<br>EXPERIENCIA ESPIRITUAL PERSONAL<br>EL AJUSTADOR DEL PENSAMIENTO<br>SIGNIFICADOS Y VALORES<br>EL ESPÍRITU DE LA VERDAD<br>ESPÍRITUS MINISTRADORES<br>EL ESQUEMA DE LA ASCENSIÓN<br>ACTUALIZACIÓN DE LO SUPREMO<br>ACTUALES Y POTENCIALES<br>EVENTUACIÓN DEL ÚLTIMO<br>LA PRIMERA TRINIDAD EXPERIENCIAL<br>LA BÚSQUEDA DE DIOS ABSOLUTO<br>SEGUNDA TRINIDAD EXPERIMENTAL<br>LA TRINIDAD DE LAS TRINIDADES
 
 Viendo _El Libro de Urantia_ de esta manera y categorizando sus enseñanzas según las líneas de una teología sistemática, podemos crear un enfoque de estudio bien organizado. Podemos colocar cada uno de los elementos principales del libro en una de cuatro categorías. En la tabla anterior se muestra un ejemplo del uso de estas categorías y los principales temas que podrían incluirse en ellas. Los temas de cada una de las cuatro categorías están dispuestos en una secuencia de complejidad creciente, lo que sugiere un esquema para un estudio o libro de trabajo progresivo.
@@ -330,9 +330,9 @@ Una característica importante de este enfoque es que la sección de cristologí
 
 ## Implicaciones para la difusión
 
-Se ha dicho que si desea que las personas acepten una nueva idea, debe asegurarse de que el 80% de lo que les dice sea información que ya conocen, aceptan y tienen sentimientos positivos. Los autores nos dicen que, «El concepto de Jesús está todavía vivo en las religiones avanzadas del mundo». <a id="a332_295"></a>[[LU 170:5.17](/es/The_Urantia_Book/170#p5_17)] Se podría hacer que _El Libro de Urantia_ sea más relevante para los buscadores de la verdad con diversos antecedentes religiosos encontrando enseñanzas sobre «el reino» o «el Supremo» en esos otros religiones Estas enseñanzas deberían reforzarse e iluminarse con conceptos de _El Libro de Urantia_ donde sea apropiado o posible. Los trabajadores del reino astutos y agresivos deberían ser capaces de crear paralelos con la tercera sección anterior a partir de los materiales disponibles en cada una de las principales religiones del mundo.
+Se ha dicho que si desea que las personas acepten una nueva idea, debe asegurarse de que el 80% de lo que les dice sea información que ya conocen, aceptan y tienen sentimientos positivos. Los autores nos dicen que, «El concepto de Jesús está todavía vivo en las religiones avanzadas del mundo». <a id="a332_295"></a>[[LU 170:5.17](/es/The_Urantia_Book/170#p5_17)] Se podría hacer que _El Libro de Urantia_ sea más relevante para los buscadores de la verdad con diversos antecedentes religiosos encontrando enseñanzas sobre «el reino» o «el Supremo» en esas otras religiones. Estas enseñanzas deberían reforzarse e iluminarse con conceptos de _El Libro de Urantia_ donde sea apropiado o posible. Los trabajadores del reino astutos y agresivos deberían ser capaces de crear paralelos con la tercera sección anterior a partir de los materiales disponibles en cada una de las principales religiones del mundo.
 
-Este enfoque de la difusión tiene dos ventajas. Proporciona una forma de hacer que las enseñanzas de _El Libro de Urantia_ sean relevantes para los buscadores de la verdad de diversos trasfondos religiosos y ayuda a lograr el objetivo principal del otorgamiento de Jesús y la presente dispensación: la proclamación del reino y la revelación de nuestra participación en la evolución. de la deidad experiencial.
+Este enfoque de la difusión tiene dos ventajas. Proporciona una forma de hacer que las enseñanzas de _El Libro de Urantia_ sean relevantes para los buscadores de la verdad de diversos trasfondos religiosos y ayuda a lograr el objetivo principal del otorgamiento de Jesús y la presente dispensación: la proclamación del reino y la revelación de nuestra participación en la evolución de la deidad experiencial.
 
 A este respecto, es interesante notar el grado en que la sinopsis de las religiones del mundo creada por Jesús y Ganid en el Documento 131 contiene una gran cantidad de referencias al Supremo: unas 22 referencias en total. ¿Es esta una pista proporcionada por los reveladores como un enfoque sugerido para hacer que el evangelio sea relevante para los buscadores de la verdad con antecedentes en estas diversas religiones?
 

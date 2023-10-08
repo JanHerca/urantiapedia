@@ -312,7 +312,7 @@ c49 | Peter’s clash with Paul at Antioch
 
 [^9]: Ibid., s.v. “Herod the tetrarch.” 
 
-[^10]: http://www.newadvent.org/cathen/082279b.htm “Saint James the Greater;” https://oca.org/saints/lives/2015/04/30/101248-apostle-james-the-brother-of-st-john-the-theologian, “Apostle James the Brother of St. John the Theologian;” http://www.biblepath.com/james.html “The Apostle James (Son of Zebedee). (These sources accessed January 19, 2016.) 
+[^10]: http://www.newadvent.org/cathen/082279b.htm “Saint James the Greater;” https://oca.org/saints/lives/2015/04/30/101248-apostle-james-the-brother-of-st-john-the-theologian, “Apostle James the Brother of St. John the Theologian;” http://www.biblepath.com/james.html “The Apostle James (Son of Zebedee).” (These sources accessed January 19, 2016.) 
 
 [^11]: Josephus, _Jewish Antiquities_, xix, 8.2. 
 
@@ -320,7 +320,7 @@ c49 | Peter’s clash with Paul at Antioch
 
 [^13]: http://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-quest-for-the-historical-paul/ James Tabor, “The Quest for the Historical Paul” (accessed September 7, 2015). 
 
-[^14]: Ibid. See also Bart D. Ehrman, _The New Testament_ (Chantilly, Va.: The Great Courses, 2000) Lecture 14: “Paul—The Man, the Mission, and the _Modus Operandi_, 217 
+[^14]: Ibid. See also Bart D. Ehrman, _The New Testament_ (Chantilly, Va.: The Great Courses, 2000) Lecture 14: “Paul—The Man, the Mission, and the _Modus Operandi_”, 217 
 
 [^15]: http://www.christianity.com/church/church-history/timeline/1-300/apostolic-beheading-the-death-of-paul-11629583.html, “Apostolic Beheading; the Death of Paul”(accessed January 27, 2016) 
 

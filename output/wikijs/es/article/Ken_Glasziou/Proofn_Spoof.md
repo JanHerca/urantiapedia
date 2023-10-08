@@ -42,9 +42,9 @@ Sin embargo, las pruebas de la lógica son tan comprensibles como el chino para 
 
 Para entender correctamente esa oración, tenemos que conocer las reglas gramaticales del idioma inglés más el significado preciso de cada una de sus palabras. Con un año o dos, y muchas resmas de papel, un aprendiz de lógico podría encontrar una inconsistencia, una prueba que diga efectivamente que ha probado lo que no se puede probar.
 
-Si la oración se hubiera escrito en todos los idiomas de la humanidad, habríamos necesitado una gramática y un diccionario para cada uno. Entonces, lo que realmente necesitamos es un "metalenguaje", uno que pueda establecer con precisión lo que se requiere y cómo se transforman los requisitos en cada lenguaje humano. Definir el significado del lenguaje (o las matemáticas) desde dentro de sí mismo implica problemas.
+Si la oración se hubiera escrito en todos los idiomas de la humanidad, habríamos necesitado una gramática y un diccionario para cada uno. Entonces, lo que realmente necesitamos es un uno que pueda establecer con precisión lo que se requiere y cómo se transforman los requisitos en cada lenguaje humano. Definir el significado del lenguaje (o las matemáticas) desde dentro de sí mismo implica problemas.
 
-Una o dos motas de pensamiento ahora pueden ayudarnos a darnos cuenta de que las reglas para pruebas precisas de declaraciones precisas deben formularse en un lenguaje diferente y superior al lenguaje original de formulación: un metalenguaje, un lenguaje por encima del lenguaje. Lo "inferior" solo puede ser definido y entendido con precisión por lo que es "superior".
+Una o dos motas de pensamiento ahora pueden ayudarnos a darnos cuenta de que las reglas para pruebas precisas de declaraciones precisas deben formularse en un lenguaje diferente y superior al lenguaje original de formulación: un metalenguaje, un lenguaje por encima del lenguaje. Losolo puede ser definido y entendido con precisión por lo que es
 
 Llevando el concepto básico a otra área, deberíamos poder comprender que una criatura no puede definir con éxito la naturaleza de su creador.
 

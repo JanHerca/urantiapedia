@@ -51,7 +51,7 @@ También hay muchos lectores de El libro de Urantia en Filipinas gracias a los e
 
 La Fraternidad también envía libros y apoya ferias de libros, conferencias y grupos de estudio en muchas otras partes del mundo. Aquí hay unos ejemplos:
 
-- El pasado agosto, Aprilhelen y Oluwatooni "Toni" Oyeyemi asistieron a la
+- El pasado agosto, Aprilhelen y Oluwatooni «Toni» Oyeyemi asistieron a la
 Conferencia de El libro de Urantia patrocinada por la confraternidad en Uganda.
 - Un grupo de estudio en profundidad en Indonesia lee y discute el libro en bahasa indonesio, el idioma nacional, y algo de inglés. André asiste regularmente a su grupo de estudio de Zoom los domingos.
 - Lila Dogim, presidenta del Equipo de Servicio Mundial, estudia semanalmente en ruso con lectores de Rusia, Ucrania y Finlandia.

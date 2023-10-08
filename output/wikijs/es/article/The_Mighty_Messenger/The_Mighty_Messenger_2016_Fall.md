@@ -357,7 +357,7 @@ Por _David Kulieke_
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005904.jpg">
 </figure>
 
-Durante una reunión de fin de semana del Comité de Educación en Ft. Wayne, IN Del 7 al 9 de octubre, invitamos a los miembros o asistentes de Ft. Wayne Society para venir a un taller de dos horas por la tarde. Utilizamos nuestro primer plan de lección de grupo de estudio, que se encuentra en el sitio web, «Los 12 apóstoles», completo con un folleto a color. Después de una presentación y un análisis grupal completo de Thomas, dividimos el grupo en cinco, con una persona de nuestro Comité de Educación en cada grupo (los gemelos Alphaeus fueron tratados juntos). Luego, todos informamos y buscamos patrones.
+Durante una reunión de fin de semana del Comité de Educación en Ft. Wayne, IN Del 7 al 9 de octubre, invitamos a los miembros o asistentes de Ft. Wayne Society para venir a un taller de dos horas por la tarde. Utilizamos nuestro primer plan de lección de grupo de estudio, que se encuentra en el sitio web, «Los 12 apóstoles», completo con un folleto a color. Después de una presentación y un análisis grupal completo de Tomás, dividimos el grupo en cinco, con una persona de nuestro Comité de Educación en cada grupo (los gemelos Alfeo fueron tratados juntos). Luego, todos informamos y buscamos patrones.
 
 Después del taller brindamos una cena a través del catering del hotel (el Holiday Inn en el que nos hospedamos y conocimos fue excelente). Tanto el taller como la cena fueron un gran éxito. Había mucha calidez y camaradería, así como buen estudio.
 
@@ -444,7 +444,7 @@ El próximo año estará lleno de una serie de actividades para los lectores de 
 - **29 al 23 de julio de 2017 Conferencia Internacional «Spreading Our Wings»**, Denver, CO. Para más información: www.ic17.org.
 - **18 al 21 de agosto de 2017 Simposio científico**, Experiencia del eclipse solar en el cumpleaños de Jesús, Wilderness Camping & Retreat Center, Lawson, MO. Para más información: tommykaren1@att.net.
 
-No olvide que la Fellowship necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, visite el sitio web de la Fellowship: www.urantiabook.org. y presione el enlace "Donar". O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 89921, EE. UU.
+No olvide que la Fellowship necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, visite el sitio web de la Fellowship: www.urantiabook.org. y presione el enlace O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 89921, EE. UU.
 
 ## Equipo del Mighty Messenger
 

@@ -143,13 +143,13 @@ Al igual que la leyenda de Hupa, las historias de una figura heroica del pasado 
 
 Su conocida anciana, Florence Jones (ahora fallecida), revivió la antigua ceremonia Wintu a principios de la década de 1980. El monte Shasta cubierto de nieve se encuentra no muy lejos del río Klamath, aproximadamente a una hora en automóvil, cincuenta millas de distancia para un viajero a pie.
 
-> “La estrella de la mañana está arriba.
+> «La estrella de la mañana está arriba.
 > cruzo las montañas
 > A la luz del mar.
 > Una montaña blanca está lejos al oeste.
 > Se encuentra hermoso.
 > Tiene brillantes arcos de luz blanca
-> Inclinándose hacia la tierra.”
+> Inclinándose hacia la tierra.»
 > (Canción de los Papago, una tribu de Arizona)
 
 <figure id="Figure_2" class="image urantiapedia">

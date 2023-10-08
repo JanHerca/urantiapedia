@@ -42,7 +42,7 @@ dateCreated: 2022-09-27T01:12:27.885Z
 
 Y así debemos reconocer claramente que ni la regla de oro ni la enseñanza de la no resistencia pueden entenderse correctamente como dogmas o preceptos. Sólo pueden ser comprendidos viviéndolos, realizando sus significados en la interpretación viva del Espíritu de la Verdad, que dirige el contacto amoroso de un ser humano con otro.
 
-> “«Aún tengo que deciros muchas cosas, pero ahora no podéis soportar más. Sin embargo, cuando llegue el Espíritu de la Verdad, os guiará finalmente a toda la verdad a medida que paséis por las muchas moradas del universo de mi Padre». 
+> «Aún tengo que deciros muchas cosas, pero ahora no podéis soportar más. Sin embargo, cuando llegue el Espíritu de la Verdad, os guiará finalmente a toda la verdad a medida que paséis por las muchas moradas del universo de mi Padre». 
 > 
 > «Este espíritu no hablará de sí mismo, pero os proclamará lo que el Padre le ha revelado al Hijo, e incluso os mostrará cosas por venir; me glorificará como yo he glorificado a mi Padre. Este espíritu sale de mí y os revelará mi verdad. Todo lo que el Padre posee en este dominio ahora es mío; por eso os he dicho que este nuevo instructor tomará lo que es mío y os lo revelará». (<a id="a46_383"></a>[LU 180:6.3-4](/es/The_Urantia_Book/180#p6_3))
 

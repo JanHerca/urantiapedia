@@ -148,7 +148,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 La voz de los pioneros (Olga López)
 
-En palabras de su autora, «_La voz de los pioneros_ surgió cuando desarrollé la manera en que concibo una sociedad ideal que, sin haber llegado todavía a la etapa de luz y vida, ha resuelto gran parte de los problemas que nos acosan en el siglo XXI. Para ello me basé en muchas de las ideas que aparecen en el documento 72, “El gobierno de un planeta vecino”, que van surgiendo a medida que conocemos a Irene, la protagonista de la historia. A lo largo del libro vamos conociendo su vida cotidiana y también lo que piensa, sobre todo por contraste con las investigaciones que está haciendo de la vida de la humanidad del siglo XXI.»
+En palabras de su autora, «_La voz de los pioneros_ surgió cuando desarrollé la manera en que concibo una sociedad ideal que, sin haber llegado todavía a la etapa de luz y vida, ha resuelto gran parte de los problemas que nos acosan en el siglo XXI. Para ello me basé en muchas de las ideas que aparecen en el documento 72, «El gobierno de un planeta vecino», que van surgiendo a medida que conocemos a Irene, la protagonista de la historia. A lo largo del libro vamos conociendo su vida cotidiana y también lo que piensa, sobre todo por contraste con las investigaciones que está haciendo de la vida de la humanidad del siglo XXI.»
 
 [Descarga del libro en PDF](https://drive.google.com/file/d/13LrDPkAHoIfo5d5QdfyfVzjAdTf2xC4P/view?usp=sharing)
 <br style="clear:both" />

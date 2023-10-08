@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Cuando las visitas a nuestro sitio web, que tiene el título anterior, comenzaron a superar las quinientas por día, en comparación con las cincuenta visitas por semana de su sitio hermano, "Una introducción a _El Libro de Urantia_", nos vimos obligados a darnos cuenta de que aquí , por fin, es una forma de presentar los Documentos de Urantia a los cristianos con mentalidad académica.
+Cuando las visitas a nuestro sitio web, que tiene el título anterior, comenzaron a superar las quinientas por día, en comparación con las cincuenta visitas por semana de su sitio hermano, nos vimos obligados a darnos cuenta de que aquí , por fin, es una forma de presentar los Documentos de Urantia a los cristianos con mentalidad académica.
 
 No es que nos hayamos sorprendido tanto, ya que el lector, el Dr. Jim Mills, ahora fallecido, había dedicado los últimos años de su vida a transmitir ese mismo mensaje a los lectores de _El Libro de Urantia_, y había presentado incansablemente sus ideas sobre la teología del proceso a grupos de estudio durante varios años. un largo período Pero para Jim, el medio de Internet y la red mundial no estaban disponibles, y los libros publicados a un gran costo eran la única alternativa poco realista.
 
@@ -54,7 +54,7 @@ En una época en la que se creía que lo que no se puede pesar no existe, este n
 
 Whitehead propuso que las unidades básicas de la realidad no eran ladrillos y cemento, sino «ocasiones de experiencia» momentáneas que aparecieron, posiblemente influyeron en otros momentos similares y desaparecieron de donde habían venido.
 
-¿Cómo podría una propuesta tan escandalosa esperar otra cosa que una etiqueta de "basura" en el apogeo de una era de materialismo determinista?
+¿Cómo podría una propuesta tan escandalosa esperar otra cosa que una etiqueta deen el apogeo de una era de materialismo determinista?
 
 Pero no mucho después de que Whitehead publicara su trabajo, el físico holandés Hendrik Casimir publicó su propuesta de que el vacío del espacio hierve con partículas virtuales que surgen por un momento, disfrutan de su momento de realidad y luego desaparecen para siempre. Casimir también publicó propuestas sobre cómo demostrar tales partículas y cómo hacer que se vuelvan reales. Ambos objetivos se han logrado desde entonces.
 
@@ -92,9 +92,9 @@ Hay cosas que podemos saber sólo a través de la revelación, pero aun así ten
 
 Sin embargo, en relación con los puntos de vista sobre la deidad expresados ​​en los Documentos de Urantia, particularmente el papel del Ser Supremo, Hartshorne se ha acercado mucho más que Whitehead a separar al Dios trascendente del infinito y la eternidad de un Dios que es completamente operativo en el mundo finito.
 
-Para el Dios de Hartshorne tenemos un nuevo término, "panenteísmo", que significa "todo-en-Dios-ismo". El Dios de Hartshorne es más que el mundo en su totalidad, tiene su propia identidad trascendente, pero es un Dios que incluye el mundo dentro de sí mismo por su conocimiento y su amor.
+Para el Dios de Hartshorne tenemos un nuevo término, que significa El Dios de Hartshorne es más que el mundo en su totalidad, tiene su propia identidad trascendente, pero es un Dios que incluye el mundo dentro de sí mismo por su conocimiento y su amor.
 
-Junto con su visión "panenteísta" de Dios, Hartshorne también se convirtió en uno de los principales protagonistas de una reafirmación del argumento ontológico en el siglo XX en la que, según Hartshorne, Anselmo realmente descubrió algo que era fundamental para las "pruebas" teístas. Desafortunadamente, parece que Hartshorne no se había puesto al día con Gödel y las nociones más nuevas de lo que constituye una prueba rigurosa.
+Junto con su visiónde Dios, Hartshorne también se convirtió en uno de los principales protagonistas de una reafirmación del argumento ontológico en el siglo XX en la que, según Hartshorne, Anselmo realmente descubrió algo que era fundamental para lasteístas. Desafortunadamente, parece que Hartshorne no se había puesto al día con Gödel y las nociones más nuevas de lo que constituye una prueba rigurosa.
 
 ## El futuro
 

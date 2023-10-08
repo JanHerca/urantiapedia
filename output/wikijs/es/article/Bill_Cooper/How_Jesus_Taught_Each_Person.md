@@ -57,11 +57,11 @@ Jesús encontró a Fortuna en las montañas de Creta en el viaje de Jesús a Rom
 
 Cuando Jesús se acercó a Fortune, tuvo unos segundos para orar pidiendo ayuda celestial para llegar al alma de Fortune con un mensaje que cambiaría su vida. Esta es una técnica que también podemos usar. No lleva mucho tiempo pronunciar tal oración por toda la ayuda disponible para abrir ambos extremos del canal de comunicación. La oración sería que Jesús dijera con gracia lo que hay que decir, y que la Fortuna oiga con su alma lo que necesita oír.
 
-El acercamiento inicial de Jesús al alma de Fortune fue un saludo amistoso con una pregunta diseñada para atraerlo a una conversación significativa. Jesús dijo: “¡Saludos, amigo mío! ¿Por qué tan abatido en un día tan hermoso? Si ha ocurrido algo que te ha angustiado, tal vez pueda ayudarte de alguna manera. En cualquier caso, me proporciona un verdadero placer ofrecer mis servicios.
+El acercamiento inicial de Jesús al alma de Fortune fue un saludo amistoso con una pregunta diseñada para atraerlo a una conversación significativa. Jesús dijo: «¡Saludos, amigo mío! ¿Por qué tan abatido en un día tan hermoso? Si ha ocurrido algo que te ha angustiado, tal vez pueda ayudarte de alguna manera. En cualquier caso, me proporciona un verdadero placer ofrecer mis servicios.»
 
 Aparentemente, eso provocó un silencio o una respuesta que, en esencia, decía: «Vete. No puedes ayudar. No quiero hablar de eso».
 
-Jesús fue persistente en su esfuerzo por estar al servicio. Su segundo acercamiento al alma de Fortune fue pedirle a Fortune que ayudara a Jesús a encontrar el mejor camino hacia Phenix. Al hacer esto, elaboró ​​su pedido cuidadosamente. Él dijo: «Tengo entendido que subiste a estas colinas para alejarte de la gente; entonces, por supuesto, usted no quiere hablar conmigo, pero me gustaría saber si usted está familiarizado con estos cerros; ¿Conoces la dirección de los senderos? Lo que Jesús dijo se puede traducir como: “No te molestaré mucho, pero agradecería tu ayuda. Probablemente esté muy bien informado sobre los senderos en estas colinas y me vendrían bien algunas direcciones».
+Jesús fue persistente en su esfuerzo por estar al servicio. Su segundo acercamiento al alma de Fortune fue pedirle a Fortune que ayudara a Jesús a encontrar el mejor camino hacia Phenix. Al hacer esto, elaboró ​​su pedido cuidadosamente. Él dijo: «Tengo entendido que subiste a estas colinas para alejarte de la gente; entonces, por supuesto, usted no quiere hablar conmigo, pero me gustaría saber si usted está familiarizado con estos cerros; ¿Conoces la dirección de los senderos? Lo que Jesús dijo se puede traducir como: «No te molestaré mucho, pero agradecería tu ayuda. Probablemente esté muy bien informado sobre los senderos en estas colinas y me vendrían bien algunas direcciones».
 
 Jesús necesitaba una forma de involucrar a Fortune en una conversación para poder ayudarlo. Lo hizo preguntándole a Fortune algo que él sabía: los senderos locales. ¿Qué joven no habría explorado los senderos en detalle?
 
@@ -79,7 +79,7 @@ La charla de Jesús con Fortuna estuvo llena de verdad y sabiduría para el jove
 
 3. Jesús le dijo a la Fortuna de la aventura que le espera diciendo efectivamente. «Lo más valioso de todo tu potencial de logro real es el espíritu que vive dentro de ti y que estimulará e inspirará tu mente para controlarse a sí misma y activar tu cuerpo. Lo que debes hacer es liberar el espíritu de las ataduras del miedo. Si haces eso, entonces tu naturaleza espiritual comenzará tu liberación de los males de la inacción por el poder de la fe viva. Esta misma fe vencerá tu miedo a los hombres por un nuevo amor a tus semejantes que surge de tu nueva conciencia de que eres un hijo de Dios». 
 
-4. Finalmente, Jesús le dio más consuelo a Fortuna, una afirmación de lo que sería su vida al decir esencialmente: “Hoy vas a renacer, restablecido como un hombre de fe, coraje y servicio dedicado al hombre, por el amor de Dios.
+4. Finalmente, Jesús le dio más consuelo a Fortuna, una afirmación de lo que sería su vida al decir esencialmente: «Hoy vas a renacer, restablecido como un hombre de fe, coraje y servicio dedicado al hombre, por el amor de Dios.»
 
 Jesús fue un maestro de la verdad encantador e inteligente. Haríamos bien en ser tan encantadores e inteligentes. Jesús usó su inteligencia para hacer lo que otros necesitaban para que pudieran captar la verdad que él quería darles. Poco, si alguno, de este consejo es exclusivo de Fortune. Sería un buen consejo para casi cualquier persona.
 

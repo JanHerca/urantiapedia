@@ -143,7 +143,7 @@ When the Salem missionaries arrived in India bringing the teachings of Melchized
 
 Let us go back in time to Svetasvara’s day. We join him and his pupils along the Ganges River in the sixth millennium before the birth of Jesus. It is a mild evening. Svetasvatara stands hip-high in the river’s current, offering his evening prayers to Isvara (the Supreme), and meditating beneath the new moon above. From the reeds along the bank, a young man watches curiously. The holy man is being spied on. When the great teacher emerges from the stream, the young boy takes aim with his impertinent challenge, voice strident, shocked. “You offer your devotions outside the ritual.”
 
-“Yes,” answered Svetasvatara, stepping ashore, unruffled by the boy’s attack. “You can do this also. Offer your love and friendship to God at any time. He is always ready to receive you. You were created to be an image-bearer of God. You do not need the priests to speak for you. Haven’t you read in the Rig Veda?
+“Yes,” answered Svetasvatara, stepping ashore, unruffled by the boy’s attack. “You can do this also. Offer your love and friendship to God at any time. He is always ready to receive you. You were created to be an image-bearer of God. You do not need the priests to speak for you. Haven’t you read in the Rig Veda?”
 
 > ‘You will not find him who all these begat, 
 > Some other thing has stepped between you, 

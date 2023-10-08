@@ -58,7 +58,7 @@ El círculo exterior representa niveles cada vez mayores de servicio que se encu
 
 El servicio se revela mejor en la experiencia y esta conferencia prosperará al atraer a aquellas personas que estén dispuestas a compartir sus experiencias con los demás. Esperamos que los facilitadores y presentadores del taller desarrollen una programación que maximizará el uso de sus propias experiencias y las experiencias de los asistentes para ejemplificar a todos la emoción del servicio amoroso.
 
-## Inner Circle—Servicio Inicial: Construyendo los cimientos para el servicio
+## El Cículo interior — el Servicio Inicial: Construyendo los cimientos para el servicio
 
 En esta etapa de la programación estamos empezando a definir el servicio y por qué valoramos los ideales de servicio. Veremos las raíces del servicio y las motivaciones para el servicio que se encuentran en el Evangelio para ayudar a responder las preguntas de por qué elegimos servir.
 
@@ -86,7 +86,7 @@ Esta fase de la conferencia está dedicada a comprender cómo podemos mejorar nu
 
 En esta última etapa de la programación comenzamos a expandir nuestros horizontes para mirar más allá de nuestra esfera actual de Urantia y comenzamos a visualizar cómo se desarrollará el servicio en el universo y cómo el servicio es una parte integral de nuestras carreras universales. Comenzaremos a ver los conceptos de ciudadanía planetaria, ciudadanía universal y servicio a Dios Supremo. Nuestro estudio de la Familia de Dios como se encuentra en el Evangelio se expandirá hacia el Universo y hacia la Eternidad para comenzar a contemplar la perfección del servicio. ¿Hacia dónde nos lleva todo este crecimiento y progreso espiritual? Estudiaremos los conceptos de la perfección de la voluntad de la criatura y cómo esto se relaciona con el destino del servicio perfecto y eterno.
 
-Estudiaremos los planes para el continuo entrenamiento universal y el desarrollo espiritual que se revelan en las escuelas y esferas de entrenamiento y avance que marcan el camino de nuestras carreras ascendentes. Veremos cómo nuestras carreras de servicio actuales tienen implicaciones para nuestras carreras universales y exploraremos cómo esta experiencia actual de servicio tiene repercusiones más allá de nuestro estado planetario actual hasta el supremo.
+Estudiaremos los planes para el continuo entrenamiento universal y el desarrollo espiritual que se revelan en las escuelas y esferas de entrenamiento y avance que marcan el camino de nuestras carreras ascendentes. Veremos cómo nuestras carreras de servicio actuales tienen implicaciones para nuestras carreras universales y exploraremos cómo esta experiencia actual de servicio tiene repercusiones más allá de nuestro estado planetario actual hasta el Supremo.
 
 El objetivo de esta última etapa de la programación es mejorar y expandir nuestra percepción y comprensión del servicio tal como se ve dentro del contexto de la ciudadanía cósmica y nuestras carreras universales.
 

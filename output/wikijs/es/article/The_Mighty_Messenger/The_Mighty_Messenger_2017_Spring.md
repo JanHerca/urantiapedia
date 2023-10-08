@@ -212,7 +212,8 @@ _Michelle Klimesh_, reportera de oleoductos
 </figure>
 
 El sábado 1 de abril, los lectores tuvieron su primera reunión del grupo de estudio de _El Libro de Urantia_ en Caracas.
-Niurka Jose informa: “Para nosotros ha sido una experiencia maravillosa iniciar un nuevo grupo de estudio, ya que en Caracas no había un grupo donde nos pudiéramos reunir y hablar sobre la 5ta revelación.
+
+Niurka Jose informa: «Para nosotros ha sido una experiencia maravillosa iniciar un nuevo grupo de estudio, ya que en Caracas no había un grupo donde nos pudiéramos reunir y hablar sobre la 5ta revelación.»
 
 La particularidad de este encuentro fue que asistimos varios jóvenes lectores de _El Libro de Urantia_ que quieren saber más sobre las verdades universales a pesar de su corta edad.
 

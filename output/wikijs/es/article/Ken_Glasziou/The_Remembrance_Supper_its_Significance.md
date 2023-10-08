@@ -94,7 +94,7 @@ El Espíritu de la Verdad se describe como el nuevo maestro, la convicción de l
 
 > «_Este nuevo instructor es el Espíritu de la Verdad que vivirá con cada uno de vosotros, en vuestro corazón, y así todos los hijos de la luz serán como uno solo y serán atraídos los unos hacia los otros. De esta manera concreta mi Padre y yo podremos vivir en el alma de cada uno de vosotros, y también en el corazón de todos los demás hombres que nos aman y hacen real ese amor en sus experiencias, amándose los unos a los otros como yo os amo ahora._» (<a id="a94_457"></a>[LU 180:4.5](/es/The_Urantia_Book/180#p4_5))
 
-¿Somos los urantianos atraídos unos hacia otros como hijos de la luz? ¿Los espíritus del Padre y de Jesús confraternizan en nuestros corazones y almas para que demostremos el amor de Jesús en nuestras vidas? ¿El mundo nos mira y dice: “Mira a esos urantianos, cómo se aman unos a otros. ¿Seguramente deben ser los verdaderos discípulos de Jesús?
+¿Somos los urantianos atraídos unos hacia otros como hijos de la luz? ¿Los espíritus del Padre y de Jesús confraternizan en nuestros corazones y almas para que demostremos el amor de Jesús en nuestras vidas? ¿El mundo nos mira y dice: «Mira a esos urantianos, cómo se aman unos a otros. ¿Seguramente deben ser los verdaderos discípulos de Jesús?»
 
 > «_La verdad es un valor de la realidad espiritual que sólo lo experimentan los seres dotados de espíritu que ejercen su actividad en los niveles supermateriales de conciencia del universo, y que después de reconocer la verdad, permiten que su espíritu activador viva y reine en sus almas._» (<a id="a98_294"></a>[LU 180:5.3](/es/The_Urantia_Book/180#p5_3))
 

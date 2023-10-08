@@ -37,7 +37,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 Si desea participar en una oración eficaz, debe tener en cuenta lo siguiente:
 
 - Calificas como una oración potente al enfrentar con sinceridad y valentía los problemas de la realidad universal. Debes poseer resistencia cósmica.
-- Debe haber agotado honestamente la capacidad humana para el ajuste humano (es decir, "hágalo usted mismo"). Debes haber sido trabajador.
+- Debe haber agotado honestamente la capacidad humana para el ajuste humano (es decir, «hágalo usted mismo»). Debes haber sido trabajador.
 - Debes entregar cada deseo de tu mente y cada anhelo del alma al abrazo transformador del crecimiento espiritual. Debes haber experimentado un realce de significados y una elevación de valores.
 - Debes hacer una elección sincera de la voluntad divina. Debes borrar el centro muerto de la indecisión.
 - No solo reconoces la voluntad del Padre y eliges hacerla, sino que has realizado una consagración incondicional y una dedicación dinámica a la realización real de la voluntad del Padre.

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:12:18Z
 </figure>
 
 
-Dado que el mandato de los reveladores les impedía darnos conocimiento no ganado, (<a id="a36_83"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) se deduce que el nivel de información científica en los Documentos no debe incluir información aún no descubierta por mediados de la década de 1930. La excepción es que se podrían llenar los "vacíos que faltan" o restaurar el "conocimiento perdido" esencial.
+Dado que el mandato de los reveladores les impedía darnos conocimiento no ganado, (<a id="a36_83"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) se deduce que el nivel de información científica en los Documentos no debe incluir información aún no descubierta por mediados de la década de 1930. La excepción es que se podrían llenar loso restaurar elesencial.
 
 Al tomar una visión amplia de estas excepciones, nuestros reveladores sobrehumanos podrían haber demostrado fácilmente que su nivel de conocimiento científico excedía con creces los niveles humanos a mediados de la década de 1930. Al hacerlo, podrían haber demostrado un estado revelador para los Documentos.
 
@@ -44,7 +44,7 @@ Era un seguidor dedicado de Jesús mucho antes de ver por primera vez los Docume
 
 Otros, como los que tienen una mentalidad tipo «Martin Gardner», pueden llegar a los Documentos con una mentalidad que exige que encuentren una razón para etiquetarlos como falsos (en un artículo de una revista, Gardner denigraba los Documentos, pero luego admitió que en realidad no los leyó).
 
-Los autores de los Documentos entienden bien la naturaleza humana. Serían conscientes de que ambos tipos de lectores podrían ser buscadores conscientes de su propio tipo particular de "verdad".
+Los autores de los Documentos entienden bien la naturaleza humana. Serían conscientes de que ambos tipos de lectores podrían ser buscadores conscientes de su propio tipo particular de
 
 Creo que se nos ha proporcionado información clave con el fin de ayudar a aquellos que buscan el tipo de verdad de los reveladores. Pero brindan esta información en formas que también permiten su rechazo por aquellos que buscan los medios para el rechazo.
 
@@ -63,7 +63,7 @@ De los materiales cubiertos en este artículo, solo el artículo sobre la energ�
 ## Referencias
 
 - Bain, R., K. Glasziou, M. Neibaur y F. Wright. «El contenido científico de _El Libro de Urantia_». (Biblioteca de la Hermandad del Hombre, 1991)
-- Glasziou, K. "Ciencia, antropología y arqueología en _El Libro de Urantia_". (Biblioteca de la Hermandad del Hombre, 1996)
+- Glasziou, K. (Biblioteca de la Hermandad del Hombre, 1996)
 
 ## Enlaces externos
 

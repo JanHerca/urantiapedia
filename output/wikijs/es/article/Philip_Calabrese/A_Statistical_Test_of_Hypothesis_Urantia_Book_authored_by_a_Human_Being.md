@@ -210,7 +210,7 @@ En ese sentido, deben saber que _El Libro de Urantia_ predica el Evangelio de Je
 [^xiv]: <a id="a209_8"></a>[LU 57:6.2](/es/The_Urantia_Book/57#p6_2). Consulte también http://www.ubthenews.com/topics/mercury.htm
 
 [^xv]: <a id="a211_7"></a>[LU 57:5.14](/es/The_Urantia_Book/57#p5_14) _«En cualquier sistema astronómico, el movimiento retrógrado siempre es accidental y aparece siempre a consecuencia del impacto debido a la colisión de cuerpos espaciales extraños»_ ;
-    «Descubrimiento del objeto transneptuniano retrógrado 2008 KV42», el equipo del proyecto CFEPS anuncia la detección y determinación de la órbita del primer objeto transneptuniano conocido en orbitar hacia atrás alrededor del Sol. “Los ‘cometas tipo Halley’ tienen órbitas retrógradas y/o muy inclinadas, su origen es actualmente un rompecabezas. Los modelos que intentan producirlos a partir de una fuente del Cinturón de Kuiper o de una fuente de la nube de Oort han fracasado en gran medida. http://www.cfeps.net/CFEPS/KV42_Press.html
+    «Descubrimiento del objeto transneptuniano retrógrado 2008 KV42», el equipo del proyecto CFEPS anuncia la detección y determinación de la órbita del primer objeto transneptuniano conocido en orbitar hacia atrás alrededor del Sol. «Los ‘cometas tipo Halley’ tienen órbitas retrógradas y/o muy inclinadas, su origen es actualmente un rompecabezas. Los modelos que intentan producirlos a partir de una fuente del Cinturón de Kuiper o de una fuente de la nube de Oort han fracasado en gran medida.» http://www.cfeps.net/CFEPS/KV42_Press.html
 
 [^xvi]: <a id="a214_8"></a>[LU 57:5](/es/The_Urantia_Book/57#p5). Véase también «Predicciones científicas de _El Libro de Urantia_ por Irwin Ginsburgh, Ph.D., y Geoffrey L. Taylor», correo electrónico de UBRON 2007.
 

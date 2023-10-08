@@ -59,12 +59,12 @@ La Trinidad no sobrevivió bien con el tiempo y «degeneró en la figura trina d
 
 > «Una parte del espíritu sutil e invisible llega como mensajero al cuerpo... Una parte de la Conciencia Infinita se convierte en nuestra propia conciencia finita... Hay algo más allá de nuestra mente que mora en silencio dentro de nuestra mente. Es el misterio supremo más allá del pensamiento.» (Maitri Upanishad, 2.3-5, 6.19)
 
-> “Aquello dentro de lo cual somos es lo inmortal, el Ser,
+> «Aquello dentro de lo cual somos es lo inmortal, el Ser,
 > Voy al palacio y salón de actos de Prajapati.
 > Gloria he ganado...
 > Así le dijo Brahma a Prajapati,
 > nuestro creador,
-> Prajapati a Manu, y Manu a sus descendientes.”
+> Prajapati a Manu, y Manu a sus descendientes.»
 > (Chandogya Upanishad 8)
 
 > Así pues, la pareja edénica siempre proclamó que algún día vendría un Hijo de Dios, y a sus seres queridos comunicaron la creencia, o al menos la ardiente esperanza, de que el mundo de sus graves errores y de sus penas quizás se convertiría en la esfera donde el soberano de este universo decidiera actuar como Hijo donador del Paraíso. <a id="a69_339"></a>[[LU 76:5.4](/es/The_Urantia_Book/76#p5_4)]
@@ -125,15 +125,15 @@ _El Libro de Urantia_ se hace eco de la imagen de nuestros registros arqueológi
 
 ## Katha Upanishad
 
-> “Conoce al Atman como Señor de un carro; y el cuerpo como el carro mismo. Sabed que la razón es el auriga; y la mente de hecho es las riendas. Los caballos, dicen, son los sentidos; y sus caminos son los objetos de los sentidos. Aquel que no tiene un recto entendimiento, y cuya mente nunca está firme, no es el gobernante de su vida, como un mal conductor con caballos salvajes.
+> «Conoce al Atman como Señor de un carro; y el cuerpo como el carro mismo. Sabed que la razón es el auriga; y la mente de hecho es las riendas. Los caballos, dicen, son los sentidos; y sus caminos son los objetos de los sentidos. Aquel que no tiene un recto entendimiento, y cuya mente nunca está firme, no es el gobernante de su vida, como un mal conductor con caballos salvajes.»
 >
-> Pero el que tiene recto entendimiento y cuya mente está siempre firme es el gobernante de su vida, como un buen conductor con caballos bien entrenados.
+> «Pero el que tiene recto entendimiento y cuya mente está siempre firme es el gobernante de su vida, como un buen conductor con caballos bien entrenados.»
 >
-> El hombre cuyo carro es conducido por la razón, que vigila y lleva las riendas de su mente, llega al Final del camino, el supremo Espíritu eterno.
+> «El hombre cuyo carro es conducido por la razón, que vigila y lleva las riendas de su mente, llega al Final del camino, el supremo Espíritu eterno.»
 >
-> Más allá de los sentidos están sus objetos, y más allá de los objetos está la mente. Más allá de la mente está la razón pura, y más allá de la razón está el Espíritu en el hombre.
+> «Más allá de los sentidos están sus objetos, y más allá de los objetos está la mente. Más allá de la mente está la razón pura, y más allá de la razón está el Espíritu en el hombre.»
 >
-> Más allá del Espíritu en el hombre está el Espíritu del universo, y más allá está Purusha, el Espíritu Supremo”.
+> «Más allá del Espíritu en el hombre está el Espíritu del universo, y más allá está Purusha, el Espíritu Supremo».
 
 Aunque los arios anditas del norte continuaron enfatizando el hilo monoteísta de las enseñanzas originales del Primer Jardín, su tejido se estaba deshaciendo en la India y en todo el mundo. _El Libro de Urantia_ registra que alrededor del 3000 a.C., «_el concepto de Dios se había vuelto muy vago en la mente de los hombres._» <a id="a137_327"></a>[[LU 93:1.1](/es/The_Urantia_Book/93#p1_1)] «_hacia el año 2500 a. de J. C., la humanidad había perdido ampliamente de vista la revelación patrocinada en los tiempos del Edén._» <a id="a137_505"></a>[[LU 92:4.6](/es/The_Urantia_Book/92#p4_6)]
 
@@ -143,12 +143,12 @@ Cuando los misioneros de Salem llegaron a la India trayendo las enseñanzas de M
 
 Retrocedamos en el tiempo hasta el día de Svetasvara. Nos unimos a él y sus alumnos a lo largo del río Ganges en el sexto milenio antes del nacimiento de Jesús. Es una tarde templada. Svetasvatara se encuentra a la altura de la cadera en la corriente del río, ofreciendo sus oraciones vespertinas a Isvara (el Supremo) y meditando bajo la luna nueva arriba. Desde los juncos de la orilla, un joven observa con curiosidad. El hombre santo está siendo espiado. Cuando el gran maestro emerge del arroyo, el joven le apunta con su impertinente desafío, con voz estridente, escandalizado. «Ofreces tus devociones fuera del ritual».
 
-«Sí», respondió Svetasvatara, bajando a tierra, imperturbable por el ataque del chico. “Puedes hacer esto también. Ofrece tu amor y amistad a Dios en cualquier momento. Él siempre está listo para recibirte. Fuiste creado para ser un portador de la imagen de Dios. No necesitas que los sacerdotes hablen por ti. ¿No has leído en el Rig Veda?
+«Sí», respondió Svetasvatara, bajando a tierra, imperturbable por el ataque del chico. «Puedes hacer esto también. Ofrece tu amor y amistad a Dios en cualquier momento. Él siempre está listo para recibirte. Fuiste creado para ser un portador de la imagen de Dios. No necesitas que los sacerdotes hablen por ti. ¿No has leído en el Rig Veda?»
 
-> 'No encontrarás al que todos estos engendraron,
+> ‘No encontrarás al que todos estos engendraron,
 > Otra cosa se ha interpuesto entre ustedes,
 > Cegados por la niebla y los murmullos rituales,
-> ¡Pasad los cantores de himnos, ladrones de vida!
+> ¡Pasad los cantores de himnos, ladrones de vida!’
 > Rig Veda X, 82
 
 Esto era nuevo para el chico; su pueblo no tenía tal enseñanza.

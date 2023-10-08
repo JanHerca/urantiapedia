@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-El Día de la Expiación, con su impresionante ritual, se lleva a cabo el día 10 del mes 7 (Tishi) del calendario judío, y es tanto la culminación como la coronación de la adoración sacrificial en el Antiguo Testamento. Descrita en detalle en el Libro del Pentateuco de Levítico, la ceremonia implica tanto el ayuno como la matanza de dos machos cabríos. Uno se ofrece como sacrificio de sangre para limpiar el "Lugar Santo" en el Templo y el altar de la Ofrenda quemada. El segundo se convierte en el chivo expiatorio de los pecados de la nación.
+El Día de la Expiación, con su impresionante ritual, se lleva a cabo el día 10 del mes 7 (Tishi) del calendario judío, y es tanto la culminación como la coronación de la adoración sacrificial en el Antiguo Testamento. Descrita en detalle en el Libro del Pentateuco de Levítico, la ceremonia implica tanto el ayuno como la matanza de dos machos cabríos. Uno se ofrece como sacrificio de sangre para limpiar elen el Templo y el altar de la Ofrenda quemada. El segundo se convierte en el chivo expiatorio de los pecados de la nación.
 
 Hay tres etapas en el ritual. En el último de estos, los pecados de la nación son transferidos por el sacerdote oficiante a la cabeza del macho cabrío de una manera que se considera real y no solo simbólica.
 
@@ -42,7 +42,7 @@ En la antigüedad, a la cabra se le permitía escapar al desierto como ofrenda a
 
 La Expiación, también conocida como «el Ayuno», sigue siendo la ceremonia religiosa más solemne y con mayor asistencia del año religioso judío. (Fuente: Hastings Dictionary of the Bible, Hendrickson, impresión de 1996)
 
-Los curiosos entre nosotros pueden preguntarse sobre el efecto acumulado de la sangre de cientos de cabras sacrificadas y esparcidas en el Lugar Santo a lo largo de los años. ¿Se limpia, y qué efecto tiene tal limpieza en sus propiedades sagradas de "limpieza"? En un tipo de ceremonia algo similar, practicada por los antiguos aztecas, el problema de acumular sangre de llama era superado por un esclavo capturado que se veía obligado a lamerla. Después de eso, fue enviado a un lugar más higiénico.
+Los curiosos entre nosotros pueden preguntarse sobre el efecto acumulado de la sangre de cientos de cabras sacrificadas y esparcidas en el Lugar Santo a lo largo de los años. ¿Se limpia, y qué efecto tiene tal limpieza en sus propiedades sagradas de En un tipo de ceremonia algo similar, practicada por los antiguos aztecas, el problema de acumular sangre de llama era superado por un esclavo capturado que se veía obligado a lamerla. Después de eso, fue enviado a un lugar más higiénico.
 
 El hecho de que el concepto de expiación haya durado algo del orden de tres mil años o más indica cuán profundamente arraigada en la psique humana está la presunción de la necesidad de la venganza de Dios por las ofensas contra su personaje, o alguna ofrenda de expiación aceptable en su lugar.
 

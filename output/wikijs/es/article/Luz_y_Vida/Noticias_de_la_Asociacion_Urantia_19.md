@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## XIV Encuentro de Lectores de El Libro De Urantia — “Ágora Nostra”
+## XIV Encuentro de Lectores de El Libro De Urantia — «Ágora Nostra»
 
 **Del 30 de abril al 3 de mayo de 2015**
 

@@ -54,7 +54,7 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 >
 > «En primer lugar, piensa en el poder físico. Jesús debe haber estado en contacto con recursos de poder físico que nadie más podía aprovechar. El atractivo de la tercera tentación revela que era posible que Él hubiera usado ese poder para destronar a César, establecer un nuevo gobierno, un nuevo gobierno, un nuevo orden. El poder de la tentación residía en la contemplación de lo que la fuerza podría lograr. Él podría acabar con la opresión, Él podría dar justicia a los hombres; y podría argumentarse que, si su objetivo fuera bueno, el uso de esta fuerza habría sido legítimo. Sin embargo, lo sorprendente es que, por respeto a la personalidad de los hombres, Jesús no intentará ganar ni siquiera una causa justa por la fuerza... »
 >
-> «Pasemos, en segundo lugar, al método que llamamos fuerza psíquica personal. ¡Piensa hasta qué punto Jesús poseía esto! Un hombre dejará su trabajo, su casa, sus amigos, a dos palabras del Maestro: “Sígueme». Se vuelve contra una multitud que lo empuja hacia un precipicio, por el cual pretenden arrojarlo, y por la luz de sus ojos y la majestad de este porte, sus perseguidores retroceden a uno y otro lado, sin que ninguno de ellos se atreva a tocar. A él. ¿Nos sorprende escuchar a un hombre decirle: «Te seguiré a dondequiera que vayas»?...
+> «Pasemos, en segundo lugar, al método que llamamos fuerza psíquica personal. ¡Piensa hasta qué punto Jesús poseía esto! Un hombre dejará su trabajo, su casa, sus amigos, a dos palabras del Maestro: «Sígueme». Se vuelve contra una multitud que lo empuja hacia un precipicio, por el cual pretenden arrojarlo, y por la luz de sus ojos y la majestad de este porte, sus perseguidores retroceden a uno y otro lado, sin que ninguno de ellos se atreva a tocar. A él. ¿Nos sorprende escuchar a un hombre decirle: «Te seguiré a dondequiera que vayas»?...
 >
 > «No debemos permitir que nuestras concepciones del «Gentil Jesús», por bellas y verdaderas que sean, nos cieguen al hecho de que cuando Él estuvo en la tierra, y Su personalidad se manifestó en un cuerpo humano que lo hacía fácilmente aprehensible, el El impacto de esa personalidad en los demás fue casi abrumador. Con eso no quiero decir que todos los hombres se sintieran atraídos».
 >
@@ -64,7 +64,7 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 >
 > «El conocimiento de estos hechos, y el respeto por la personalidad del hombre, lo hicieron alejarse de los hombres de una manera que a veces nos parece aplastante o fría. En realidad, Él está haciendo un lugar reverente para las santidades de la vida humana y la libertad de elección humana».
 >
-> «Volvamos, en tercer lugar, al método de la superioridad mental. ¡Qué fácil hubiera sido para Jesús tomar una actitud expresada en las palabras de aquellos que nos dicen: “Bueno, yo sé mejor que ustedes»!
+> «Volvamos, en tercer lugar, al método de la superioridad mental. ¡Qué fácil hubiera sido para Jesús tomar una actitud expresada en las palabras de aquellos que nos dicen: «Bueno, yo sé mejor que ustedes»!
 >
 > «¿No podría haber ejercido sobre Sus seguidores un peso de evidencia tan enorme que hubieran sido mentalmente incapaces de aceptar cualquier otra cosa que no sea Su voluntad, o de cualquier otra manera que no sea Su manera?»
 >
@@ -76,7 +76,7 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 >
 > «Si, en los momentos más frescos, el intelecto y la voluntad confirmaron el deseo emocional, entonces un hombre fue ganado; pero si un hombre solo se gana emocionalmente, entonces solo se captura un tercio de su personalidad, y cuando su emoción se enfríe, su lealtad morirá con ella».
 >
-> “Es por eso que Jesús envió a casa a ese discípulo impulsivo para que pensara en su deseo de seguir, y por eso me parece un error, si cuando las emociones de los hombres se despiertan, son arrastrados a alguna sala de consulta y requeridos, entonces y allí, para tomar una gran decisión. ¿No sería mejor esperar hasta que el intelecto y la voluntad confirmen el deseo emocional y el hombre completo haya sido ganado para Dios, incluso si el número de tarjetas de decisión firmadas fuera menor?
+> «Es por eso que Jesús envió a casa a ese discípulo impulsivo para que pensara en su deseo de seguir, y por eso me parece un error, si cuando las emociones de los hombres se despiertan, son arrastrados a alguna sala de consulta y requeridos, entonces y allí, para tomar una gran decisión. ¿No sería mejor esperar hasta que el intelecto y la voluntad confirmen el deseo emocional y el hombre completo haya sido ganado para Dios, incluso si el número de tarjetas de decisión firmadas fuera menor?»
 >
 > «Me ha impresionado profundamente la forma en que Jesús podría haber ganado al joven gobernante con una apelación en el lado emocional: el brazo de Jesús a través del suyo, y una palabra como: «No te alejes así», y la cosa estaba hecha.»
 >
@@ -86,7 +86,7 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 >
 > «Todo esto tiene, como sugerí, un doble sentido. Primero, se revela la naturaleza misma de Dios, porque «el que me ha visto a mí, ha visto al Padre». Dios podría usar la fuerza física. Podría traer a Sus ángeles y barrer nuestras ciudades hasta que todos los hombres cayeran de rodillas. Dios podría usar la fuerza psíquica».
 >
-> “Aquellos que hemos orado para poder ver Su rostro debemos recordar que uno de estos días posiblemente Él podría responder a nuestra oración, y, en el esplendor de esa tremenda Presencia, lo que quedaría de nuestra facultad de juicio, y decisión, y elección ? Deberíamos ser arrastrados a la lealtad.
+> «Aquellos que hemos orado para poder ver Su rostro debemos recordar que uno de estos días posiblemente Él podría responder a nuestra oración, y, en el esplendor de esa tremenda Presencia, lo que quedaría de nuestra facultad de juicio, y decisión, y elección ? Deberíamos ser arrastrados a la lealtad.»
 >
 > «Dios podría usar la fuerza mental. Él podría traer evidencia de Su realidad y poder que quebrantaría la mente por el peso de su verdad. Una de las señales más sorprendentes de Su respeto por nuestra personalidad radica en el hecho de que nos ha puesto en un mundo en el que la evidencia en su contra es mucho más obvia que la evidencia a su favor».
 >
@@ -104,7 +104,7 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 >
 > «Entre Él y el objeto de Su apasionado anhelo sólo está la frágil barrera de la voluntad humana. Si Él levantara un dedo meñique, nuestras míseras defensas se derrumbarían, pero, por este tremendo respeto a nuestra personalidad, que revela la eterna moderación de Dios, este gran Amante del alma nunca será su ladrón, sino que esperará en el umbral hasta que nosotros mismos nos levantemos y le dejemos entrar».
 >
-> «“He aquí», dice, «Yo estoy a la puerta y llamo». Que respeto por la personalidad. Que divina moderación. Que majestuoso amor. Escucho a lo largo del corredor de los años el sonido de la temible trompeta de un ángel llamando a los hombres al arrepentimiento. Sólo escucho la voz de un Niño que llora en un pesebre, y un susurro de labios torturados por el dolor: «Padre, perdónalos, porque no saben lo que hacen».
+> ««He aquí», dice, «Yo estoy a la puerta y llamo». Que respeto por la personalidad. Que divina moderación. Que majestuoso amor. Escucho a lo largo del corredor de los años el sonido de la temible trompeta de un ángel llamando a los hombres al arrepentimiento. Sólo escucho la voz de un Niño que llora en un pesebre, y un susurro de labios torturados por el dolor: «Padre, perdónalos, porque no saben lo que hacen».
 
 [Agradecimientos a Matthew Block por llamar la atención sobre este material fuente y por proporcionar los extractos del libro de Weatherhead]
 

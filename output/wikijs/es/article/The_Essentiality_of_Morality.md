@@ -52,7 +52,7 @@ El instinto de conservación puede expresarse como egoísmo en todas sus formas.
 
 El comportamiento de dominación es muy evidente entre los animales de manada en los que cada miembro tiene un rango bien definido que le permite dominar a todos los que están debajo de él en estatus pero estar subordinado a los de arriba. La posición en la escalera tiene que ser defendida vigorosamente. Su contraparte es observable en todos los aspectos de la interacción social humana.
 
-El territorialismo es fácilmente observable entre los animales que son "solitarios" o miembros de un grupo pequeño. Los territorios a menudo se marcan con bastante precisión y se defienden vigorosamente, incluso hasta la muerte.
+El territorialismo es fácilmente observable entre los animales que son «solitarios» o miembros de un grupo pequeño. Los territorios a menudo se marcan con bastante precisión y se defienden vigorosamente, incluso hasta la muerte.
 
 El territorialismo se expresa fuertemente entre las tribus y naciones humanas, pero también alcanza todos los aspectos de la vida social. Incluso trivialidades como las discusiones familiares sobre si el asiento del inodoro debe dejarse arriba o abajo se derivan del instinto territorial animal.
 
@@ -76,7 +76,7 @@ Los valores morales del universo se convierten en posesiones intelectuales media
 - Juicio social—elección ética.
 - Dios-juicio—elección religiosa.
 
-Parece que nos enfrentamos a una situación de "¿qué es primero", el "¿huevo o gallina?" Para tomar nuestras decisiones morales, necesitamos la guía de nuestro Ajustador del Pensamiento, pero la conciencia de Dios y nuestra comprensión de la presencia del Ajustador dependen de nuestro nivel de moralidad.
+Parece que nos enfrentamos a una situación de «¿qué es primero», el «¿huevo o gallina?» Para tomar nuestras decisiones morales, necesitamos la guía de nuestro Ajustador del Pensamiento, pero la conciencia de Dios y nuestra comprensión de la presencia del Ajustador dependen de nuestro nivel de moralidad.
 
 > «Si un amante divino no viviera en él, el hombre no podría amar de manera desinteresada y espiritual. Si un intérprete no viviera en su mente, el hombre no podría comprender realmente la unidad del universo. Si un evaluador no residiera en él, al hombre le sería totalmente imposible apreciar los valores morales y reconocer los significados espirituales. Y este amante procede de la fuente misma del amor infinito; este intérprete es una parte de la Unidad Universal; este evaluador es el hijo del Centro y la Fuente de todos los valores absolutos de la realidad divina y eterna.» (<a id="a80_585"></a>[LU 196:3.16](/es/The_Urantia_Book/196#p3_16))
 
@@ -92,7 +92,7 @@ La evaluación moral a nivel de superanimal necesita la percepción espiritual d
 
 Como tantas otras cosas que tienen esa cualidad nebulosa denominada «valor espiritual», la moralidad es algo que sabemos dentro de nosotros mismos que es «correcto» simplemente porque al menos estamos «escuchando» subconscientemente la voz del espíritu de Dios en nuestro interior. Pero en el momento en que intentamos definir la moralidad, se derrumba en un conjunto de reglas o mandamientos que deben obedecerse.
 
-«Los hebreos de la época de Jesús ya tenían una religión de sublimidad moral». (<a id="a94_80"></a>[LU 196:3.19](/es/The_Urantia_Book/196#p3_19)) Pero “Jesús reveló y ejemplificó una religión de amor: seguridad en el amor del Padre, con alegría y satisfacción como consecuencia de compartir este amor al servicio de la humanidad. fraternidad."
+«Los hebreos de la época de Jesús ya tenían una religión de sublimidad moral». (<a id="a94_80"></a>[LU 196:3.19](/es/The_Urantia_Book/196#p3_19)) Pero «Jesús reveló y ejemplificó una religión de amor: seguridad en el amor del Padre, con alegría y satisfacción como consecuencia de compartir este amor al servicio de la humanidad. fraternidad.»
 
 Sin moralidad real, amable Jesús, estamos sin amor real. Sin amor verdadero, como el de Jesús, nos estancamos en nuestra herencia animal. «El amor es la motivación más alta que el hombre puede utilizar en su ascenso al universo».
 

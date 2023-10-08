@@ -40,7 +40,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 ¿Con qué autoridad se toman tales decisiones?
 
-Hay una pequeña historia en el libro sobre las reacciones del discípulo Juan cuando se encontró con una persona no autorizada que enseñaba en el nombre de Jesús. Juan prontamente "prohibió a este hombre hacer tales cosas". Sólo más tarde informó de su acción a Jesús.
+Hay una pequeña historia en el libro sobre las reacciones del discípulo Juan cuando se encontró con una persona no autorizada que enseñaba en el nombre de Jesús. Juan prontamente «prohibió a este hombre hacer tales cosas». Sólo más tarde informó de su acción a Jesús.
 
 La respuesta de Jesús debe quedar grabada de forma indeleble en la mente de todos nosotros. Él dijo:
 

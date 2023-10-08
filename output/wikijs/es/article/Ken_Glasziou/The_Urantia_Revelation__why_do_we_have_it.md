@@ -48,7 +48,7 @@ El eslabón perdido en nuestra comprensión humana del significado de la vida es
 
 Los arqueólogos, historiadores y científicos nos han brindado una historia de fondo sobre nuestros **orígenes** e **historia** que es razonablemente útil pero que no puede proporcionarnos nada fáctico sobre el **destino** humano.
 
-Sobre el destino, los cristianos tienen la seguridad de Jesús de que: “En la casa de mi Padre muchas moradas hay. Si no fuera así, te lo habría dicho. Estas palabras brindan consuelo a los fieles pero ningún detalle real sobre el destino.
+Sobre el destino, los cristianos tienen la seguridad de Jesús de que: «En la casa de mi Padre muchas moradas hay. Si no fuera así, te lo habría dicho.» Estas palabras brindan consuelo a los fieles pero ningún detalle real sobre el destino.
 
 Entonces, para la gran mayoría de los terrícolas, el destino, el más allá, hay un espacio en blanco. Tocando esto, los reveladores advierten que existe «_un gran peligro de sucumbir al error de un punto de vista circunscrito, al mal inherente a una concepción fragmentaria de la realidad y de la divinidad._» (<a id="a52_310"></a>[LU 19:1.4](/es/The_Urantia_Book/19#p1_4))
 

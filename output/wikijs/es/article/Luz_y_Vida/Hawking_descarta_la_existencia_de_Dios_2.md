@@ -114,7 +114,7 @@ La explicación que da la ciencia es que, durante el episodio del Big Bang, se a
 
 Como el «antes» de algo supone una preexistencia de la línea temporal, no hay tal, no puede haber un antes. Esto, que no tiene por qué ser cierto, es consistente con los hechos observados. Y de momento no parece haber hechos que avalen la posibilidad de un universo eterno pasado.
 
-Del párrafo que has copiado en el correo “...un Universo sin frontera en el espacio, sin principio ni final en el tiempo, y en el que un creador no tiene nada que hacer"
+Del párrafo que has copiado en el correo «...un Universo sin frontera en el espacio, sin principio ni final en el tiempo, y en el que un creador no tiene nada que hacer»
 
 Es justamente lo que nos dice el LU:
 

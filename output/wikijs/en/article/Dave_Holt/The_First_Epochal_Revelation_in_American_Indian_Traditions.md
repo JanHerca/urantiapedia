@@ -141,21 +141,21 @@ Here are some typical statements of the seven teachings as they appear in three 
 
 ## 1. The Seven Values or Teachings of the Ojibwe 
 
-> “The Anishinaabeg were to always act in LOVE. 
+> “The Anishinaabeg were to always act in LOVE.” 
 > 
-> 1. To love the Great Spirit the same way he loved his people, because it was the love of the Great Spirit that gave life. 
+> 1. “To love the Great Spirit the same way he loved his people, because it was the love of the Great Spirit that gave life.” 
 > 
-> 2. To RESPECT all life in Mother Earth. To show real respect was to give of themselves for the benefit of all life. 
+> 2. “To RESPECT all life in Mother Earth. To show real respect was to give of themselves for the benefit of all life.” 
 > 
-> 3. To have COURAGE to always do that was morally right. 
+> 3. “To have COURAGE to always do that was morally right.” 
 > 
-> 4. To be HONEST to themselves. To live in the spirit of how they were created. Never to lie or gossip about one another. 
+> 4. “To be HONEST to themselves. To live in the spirit of how they were created. Never to lie or gossip about one another.” 
 > 
-> 5. To live in WISDOM and that is knowing the gifts that the Great Spirit gave to everyone. To use these gifts to build a family and community. 
+> 5. “To live in WISDOM and that is knowing the gifts that the Great Spirit gave to everyone. To use these gifts to build a family and community.” 
 > 
-> 6. Always to act in HUMILITY. One was to always think about their fellows and their community be fore they thought of themselves. 
+> 6. “Always to act in HUMILITY. One was to always think about their fellows and their community be fore they thought of themselves.” 
 > 
-> 7. Always to seek the TRUTH. The truth lies in spirit.”[^6]
+> 7. “Always to seek the TRUTH. The truth lies in spirit.”[^6]
 
 We quickly recognize the strong ethical core that characterizes the remembered Original Instructions. A question came up for me concerning “honesty,” for example, because it always appears in the list of the Original Instructions. Is honesty in action a result of the divine commandment to be honest? “Anishnaabeg were always to be honest to themselves.” Darcy Rheault believes native philosophy recognizes honesty as an “a priori.” The “Seven Gifts” are, “not commandments … [but] encoded in our being, our spirit.” Mr. Rheault is referring to the same phenomenon of mind that the philosopher Immanuel Kant described as “inborn cognitive structures.” If they are inborn, they must also naturally require training and instruction to make them practicable, in order to apply them to daily life in the physical world. 
 
@@ -248,7 +248,7 @@ The Hopi and other Native American tribes have a more modern prophecy that echoe
 
 [^2]: https://www.archaeologydaily.com/news/201012095735/LostCivilization-Under-Persian-Gulf.html 
 
-[^3]: [Genesis 6:2-4](/en/Bible/Genesis/6#v2), “the sons of god . . . the daughters of men (Holy Bible) and the Book of Enoch 
+[^3]: [Genesis 6:2-4](/en/Bible/Genesis/6#v2), “the sons of god . . . the daughters of men” (Holy Bible) and the Book of Enoch 
 
 [^4]: Eemian Interglacial, using the terminology of the Northern European region, is equivalent to the Alpine term, the Riss-Wurm Interglacial, also known as the Sangamonian in North America 
 

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-La información en los Documentos que se relaciona directamente con esta pregunta está dispersa a lo largo del texto de sus páginas. Extraordinariamente, el mandato que define las "reglas universales" de la revelación no se describe hasta la mitad de los Documentos, y las explicaciones de los autores sobre el uso de fuentes humanas se dividen entre casi el comienzo y dos tercios del camino. Estas importantes referencias seguramente deberían haber estado en un prefacio o en una introducción.
+La información en los Documentos que se relaciona directamente con esta pregunta está dispersa a lo largo del texto de sus páginas. Extraordinariamente, el mandato que define las «reglas universales» de la revelación no se describe hasta la mitad de los Documentos, y las explicaciones de los autores sobre el uso de fuentes humanas se dividen entre casi el comienzo y dos tercios del camino. Estas importantes referencias seguramente deberían haber estado en un prefacio o en una introducción.
 
 Las exposiciones sobre la relatividad y la naturaleza evolutiva de la verdad se mencionan en muchos lugares diferentes. Esta peculiaridad de presentación ha hecho que sea bastante difícil obtener una visión general coordinada e ininterrumpida del grado de autoridad que se otorga a la revelación que proviene de una variedad de fuentes celestiales, algunas reconocidamente de un estatus marginalmente superior al de los destinatarios previstos.
 
@@ -44,7 +44,7 @@ Investigaciones recientes han demostrado que, para muchos de nosotros, la presen
 
 ```mermaid
 flowchart TD
-	s1("¿Qué dicen sus autores?")
+	s1("¿Qué dicen sus autores?"")
 	s2("Los hechos físicos son bastante uniformes, pero la verdad es un factor 
 	viviente y flexible en la filosofía del universo. Las comunicaciones de las 
 	personalidades evolutivas sólo son parcialmente sabias y relativamente 

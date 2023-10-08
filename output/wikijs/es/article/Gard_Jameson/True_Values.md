@@ -99,7 +99,7 @@ Los escépticos entre nosotros seguirán negando. Pero la evidencia está en las
 
 > **(HS)** «La ciencia, como la religión, debe estar siempre en juicio, y debe justificarse por su contribución al bienestar común.» [CP 211, 222]
 
-> “Una ciencia y una religión que hacen que valga la pena vivir la vida permanecerán para siempre, y si la ciencia o la religión, falsamente llamadas así, no superan esta prueba, deben desaparecer bajo las exigencias de la vida misma. [CP 222]
+> «Una ciencia y una religión que hacen que valga la pena vivir la vida permanecerán para siempre, y si la ciencia o la religión, falsamente llamadas así, no superan esta prueba, deben desaparecer bajo las exigencias de la vida misma.» [CP 222]
 
 \*\*\*
 

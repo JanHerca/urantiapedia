@@ -39,9 +39,9 @@ Hay algo grandioso e inefable en la declaración de que nuestro verdadero destin
 
 El «verdadero destino» tiene que ser mayor que, pero inclusivo, nuestro tiempo de residencia temporal en este planeta. Sin embargo, dado que se nos aconseja buscar «servir al pasar» y «no tener pensamientos ansiosos», parecería que las metas que nos fijamos deben estar ubicadas en el aquí y ahora. Deben ser celestiales y de espíritu más que de valor material.
 
-Los Documentos también nos advierten sobre la importancia de "ser" antes de "hacer", lo que significa que tenemos que "ser justos" o "ser amorosos" antes de que los actos que implican rectitud o amor adquieran un valor espiritual.
+Los Documentos también nos advierten sobre la importancia de «ser» antes de «hacer», lo que significa que tenemos que «ser justos» o «ser amorosos» antes de que los actos que implican rectitud o amor adquieran un valor espiritual.
 
-Consulte el artículo "Lo que realmente sobrevive" para obtener información sobre los objetivos espirituales.
+Consulte el artículo «Lo que realmente sobrevive» para obtener información sobre los objetivos espirituales.
 
 > La Prueba Espiritual de Grandeza es:
 >

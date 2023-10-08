@@ -44,7 +44,7 @@ I read on. I want to know how this one man gave this permission. What secrets di
 
 In descriptions of him, they use words like “caring.” He takes time out to phone the wife of a white journalist killed in a car crash. Listens and gives empathic support for 45 minutes or so and later asks a friend of hers at a rally how she is faring.[^1]
 
-They describe his “bossiness” as beguiling rather than offensive. While addressing a large crowd at an election rally, he notices that a marshall was behaving a bit roughly with an excited boy. He broke off from his speech and said, “No, marshall, stop it! That’s no way to treat a child and then gave orders to bring all children to the front out of the crush”.
+They describe his “bossiness” as beguiling rather than offensive. While addressing a large crowd at an election rally, he notices that a marshall was behaving a bit roughly with an excited boy. He broke off from his speech and said, “No, marshall, stop it! That’s no way to treat a child”, and then gave orders to bring all children to the front out of the crush.
 
 “Kind” and “forgiving” are frequently used.[^2] He writes not one bad word about his predecessors (his so-called enemies), his jailers.[^3] “Let bygones be bygones,” he says, inviting all these people to celebrate his presidency, and referring to them with kindness, sincerity, and, most of all, genuine forgiveness.
 

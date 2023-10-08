@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Hace más de veinticinco años, cuando leí _El Libro de Urantia_ sobre la historia geológica temprana de nuestro planeta, noté algunas afirmaciones sobre el crecimiento del planeta y su luna, y también sobre la formación de océanos, que me parecieron bastante extrañas. Sin embargo, este material fue seguido por el relato del libro sobre la ruptura continental y la posterior deriva continental. Encontré esto emocionante, y eso me hizo pasar por alto el material "extraño" hasta hace muy poco.
+Hace más de veinticinco años, cuando leí _El Libro de Urantia_ sobre la historia geológica temprana de nuestro planeta, noté algunas afirmaciones sobre el crecimiento del planeta y su luna, y también sobre la formación de océanos, que me parecieron bastante extrañas. Sin embargo, este material fue seguido por el relato del libro sobre la ruptura continental y la posterior deriva continental. Encontré esto emocionante, y eso me hizo pasar por alto el materialhasta hace muy poco.
 
 El relato del libro sobre la deriva continental era sumamente profético si se hacía en 1934 o incluso hasta el momento de la primera publicación en 1955. Una vez había hecho un curso universitario de geología de tres semestres y recordaba claramente cómo el profesor había descartado rápidamente la teoría de la deriva continental de Alfred Wegener con el breve comentario de que no había fuerzas físicas conocidas que pudieran explicar la separación de continentes enteros.
 
@@ -41,7 +41,7 @@ Esta oposición se mantuvo hasta alrededor de 1960, cuando los estudios geofísi
 
 Reafirmando aún más la naturaleza profética del relato del _Libro de Urantia_, el trabajo geofísico posterior reveló que la ruptura inicial de un supercontinente, como propuso Wegener, en realidad ocurrió mucho antes de los 200 a 250 millones de años que él permitió. Gradualmente, esta fecha se retrasó a unos 500 a 600 millones de años para finalmente coincidir con los 750 millones de años AEC del _Libro de Urantia_.
 
-Mi recuerdo del relato "extraño" del libro sobre la formación temprana de nuestro sistema planeta-luna fue estimulado por un reciente documental de televisión sobre las misiones Apolo a la luna que comenzaron en la década de 1970, y las misiones rusas contemporáneas que también contribuyeron en gran medida. de nuevos y valiosos conocimientos científicos.
+Mi recuerdo del relatodel libro sobre la formación temprana de nuestro sistema planeta-luna fue estimulado por un reciente documental de televisión sobre las misiones Apolo a la luna que comenzaron en la década de 1970, y las misiones rusas contemporáneas que también contribuyeron en gran medida. de nuevos y valiosos conocimientos científicos.
 
 En particular, los estadounidenses, pero también los rusos, habían hecho cosas notables que ahora nos permiten obtener una imagen mucho mejor de cómo se desarrolló y creció nuestro sistema Tierra-Luna. Gran parte de esto se debió a la extensa muestra de materiales geológicos de muchos sitios en ambos lados de la Luna, incluidas las montañas más altas, las llanuras de larvas conocidas como mares y muchos de los cráteres de impacto formados por meteoritos.
 
@@ -93,7 +93,7 @@ La razón de tales divergencias es consistente con las declaraciones en el libro
 
 Parece que se requirió que los reveladores proporcionaran un marco de conocimiento sobre el Paraíso, el Universo Central, la jerarquía celestial, los universos, nuestro propio sistema solar y el desarrollo de la vida inteligente y la sociedad humana en nuestro propio planeta, todo para que podamos podría comprender mejor nuestro lugar en el esquema general de las cosas. (<a id="a93_374"></a>[LU 115:1.2](/es/The_Urantia_Book/115#p1_2)) **Pero no se les permitió decirnos lo que no sabíamos antes de 1934.**
 
-Trabajar bajo esta restricción colocó a los reveladores en una posición extraordinariamente difícil. No pudieron completar su tarea satisfactoriamente, excepto que usaron material de "relleno" que serviría para el propósito, aunque no fuera correcto. Ahora sabemos que obtuvieron este "relleno" de las especulaciones de científicos contemporáneos, entre ellos Moulton, Jeans, Chamberlin y Geoffreys.
+Trabajar bajo esta restricción colocó a los reveladores en una posición extraordinariamente difícil. No pudieron completar su tarea satisfactoriamente, excepto que usaron material deque serviría para el propósito, aunque no fuera correcto. Ahora sabemos que obtuvieron estede las especulaciones de científicos contemporáneos, entre ellos Moulton, Jeans, Chamberlin y Geoffreys.
 
 Una comparación de lo que nos dieron con lo de la ciencia moderna nos dice que, a pesar de las inconsistencias, el valor de su relato como un «marco universal» (<a id="a97_161"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1)) para la comprensión de nuestras carreras en el universo permanece bastante intacta.
 

@@ -42,7 +42,7 @@ Existe una hermosa leyenda de origen medieval que recoge la historia sobre un te
 
 «Un día, san Agustín paseaba por la orilla del mar dando vueltas en su cabeza a muchas de las doctrinas sobre la realidad de Dios, una de ellas, la doctrina de la Trinidad. De repente, alzó la vista y vio a un hermoso niño que estaba jugando en la arena, a la orilla del mar. Lo observó más de cerca y vio que el niño corría hacia el mar, llenaba el cubo de agua del mar y volvía donde estaba antes vaciando el agua en un agujero en la arena. Así el niño lo hacía una y otra vez.»
 
-«Hasta que ya san Agustín, sumido en gran curiosidad se acercó al niño y le preguntó “‘Oye, niño, ¿qué haces?’ Y el niño le respondió: ‘Estoy sacando toda el agua del mar y la voy a poner en este hoyo’. Y san Agustín dice: ‘Pero eso es imposible’.»
+«Hasta que ya san Agustín, sumido en gran curiosidad se acercó al niño y le preguntó «‘Oye, niño, ¿qué haces?’ Y el niño le respondió: ‘Estoy sacando toda el agua del mar y la voy a poner en este hoyo’. Y san Agustín dice: ‘Pero eso es imposible’.»
 
 «Y el niño responde: ‘Más imposible es tratar de hacer lo que tú estás haciendo: tratar de comprender en tu mente pequeña el misterio de Dios’.»
 

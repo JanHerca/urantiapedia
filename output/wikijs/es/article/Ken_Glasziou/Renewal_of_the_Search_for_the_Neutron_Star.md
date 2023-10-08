@@ -76,7 +76,7 @@ El equipo de Cowan y Reines ideó un esquema elaborado para detectar los antineu
 
 ## Búsqueda reanudada
 
-Según el eminente astrofísico ruso, Igor Novikov, los astrónomos no intentaron buscar en serio estrellas de neutrones o agujeros negros antes de la década de 1960. Él dice: “Se asumió tácitamente que estos objetos eran demasiado excéntricos y muy probablemente eran el fruto de las ilusiones de los teóricos... en cualquier caso, si existieran, entonces no podrían ser detectados.[^4]".
+Según el eminente astrofísico ruso, Igor Novikov, los astrónomos no intentaron buscar en serio estrellas de neutrones o agujeros negros antes de la década de 1960. Él dice: «Se asumió tácitamente que estos objetos eran demasiado excéntricos y muy probablemente eran el fruto de las ilusiones de los teóricos... en cualquier caso, si existieran, entonces no podrían ser detectados.[^4]».
 
 El tema del destino de las estrellas en implosión se reabrió con vigor cuando tanto Robert Oppenheimer como John Wheeler, dos de los nombres realmente grandes de la física, asistieron a una conferencia en Bruselas en 1958. Oppenheimer creía que sus artículos de 1939 decían todo lo que necesitaba ser dijo acerca de tales implosiones. Wheeler no estuvo de acuerdo, queriendo saber qué sucedía más allá de las bien establecidas leyes de la física.
 

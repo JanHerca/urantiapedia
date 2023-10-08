@@ -42,7 +42,7 @@ Los oradores plenarios de este año, Elisabeth Callahan, Angie Thurston, Mike Ma
 
 Los eventos sociales de los sábados por la noche siempre son especiales. En la Sesión de estudio de verano de 2015, disfrutamos de una celebración del 60.º aniversario de la publicación de _El Libro de Urantia_ y del comienzo de la Hermandad de Urantia. Los asistentes a SSS18 recordarán las risas sin parar durante la fiesta que incluyó las «Apóstoles» «Sillas Musicales». ¡El evento social del sábado por la noche de este año está dedicado a nuestro Espíritu Materno del Universo y al 50 aniversario del primer alunizaje! ¡Planea estar allí para descubrir la relación! Los Directores de Reversion prevén charlas cortas, videos, humor y grandes refrigerios.
 
-Los eventos previos a la conferencia incluyen un retiro espiritual "Conozca a sus padres espirituales", con Kaye y Bill Cooper, Sharon Porter y Mary Huggins, que se reunirán desde el martes 25 de junio en la cena hasta el jueves 27 de junio al mediodía. , y un Cónclave de la Sociedad programado para el jueves 25 de junio. Después de la conferencia, el Consejo General de la Fraternidad se reunirá desde el domingo 25 de junio después del almuerzo hasta el martes 2 de junio al mediodía. Los visitantes son bienvenidos a observar.
+Los eventos previos a la conferencia incluyen un retiro espiritual «Conozca a sus padres espirituales», con Kaye y Bill Cooper, Sharon Porter y Mary Huggins, que se reunirán desde el martes 25 de junio en la cena hasta el jueves 27 de junio al mediodía. , y un Cónclave de la Sociedad programado para el jueves 25 de junio. Después de la conferencia, el Consejo General de la Fraternidad se reunirá desde el domingo 25 de junio después del almuerzo hasta el martes 2 de junio al mediodía. Los visitantes son bienvenidos a observar.
 
 Regístrese en línea en https://www.regonline.com/urantia_fellowship_sss19
 
@@ -50,7 +50,7 @@ Regístrese en línea en https://www.regonline.com/urantia_fellowship_sss19
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/002.jpg">
-<figcaption><em>Jackie Koury y Ann Biggs se preparan para el "Círculo de adoración del universo amistoso" de SSS18</em></figcaption>
+<figcaption><em>Jackie Koury y Ann Biggs se preparan para el «Círculo de adoración del universo amistoso» de SSS18</em></figcaption>
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">

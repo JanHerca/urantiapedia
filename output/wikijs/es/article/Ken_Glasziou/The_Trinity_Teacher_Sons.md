@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-¿Quiénes y qué son los Trinity Teacher Sons? Bueno, para empezar, están bastante arriba en el orden de las cosas, pertenecen a la Orden de los Daynales, una de las tres Órdenes de los Hijos de Dios del Paraíso. Los otros dos de esta Orden son los Hijos Creadores y los Hijos Magisteriales.
+¿Quiénes y qué son los Hijos Instructores Trinitarios? Bueno, para empezar, están bastante arriba en el orden de las cosas, pertenecen a la Orden de los Daynales, una de las tres Órdenes de los Hijos de Dios del Paraíso. Los otros dos de esta Orden son los Hijos Creadores y los Hijos Magisteriales.
 
 ¿Qué tienen que ver con nosotros los urantianos? Se nos informa que aparecerán en Urantia después de que sus habitantes se hayan liberado comparativamente de las cadenas del animalismo y de las cadenas del materialismo. A juzgar por las mini-guerras que tienen lugar en varias partes de nuestro planeta, eso podría estar a muchos milenios de distancia. Pero mientras tanto, los Hijos Instructores visitan nuestro mundo con el propósito de formular planes, para su estadía proyectada en nuestro planeta. Cuando lleguen a implementar esos planes, estarán acompañados por un Hijo Magisterial que tendrá la desagradable tarea de juzgar quién va a dónde. Los Hijos Instructores, sin embargo, se ahorran tales deberes. Estarán enteramente interesados ​​en la iniciación de una era espiritual,
 

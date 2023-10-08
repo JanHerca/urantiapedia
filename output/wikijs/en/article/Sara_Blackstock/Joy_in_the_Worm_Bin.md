@@ -48,7 +48,7 @@ We had been away for a 4-day weekend. When we came back on Monday we opened the 
 
 Needless to say, something needed to be done immediately. I gave the kids some spoons to stir the stuff on top in, but it turned out that the spoons were not long enough to do much good. There was only one thing for us to do—reach in with the bare hands. None of them wanted to do this, and as they held their noses they looked at me, so I rolled up my sleeves. 
 
-When we began this process it looked as if we may have lost our whole worm population, as we began to pull comatose bodies out one by one. But we said to each other, “If the dirt was stirred and wetted, then the little critters might just come alive. We can save our worms! Let us not give up! There was a great stir of energy as these kids saw a critical situation, and they could make a difference. They got some squirt bottles and we got into a rhythm as the energy intensified to save our worms. 
+When we began this process it looked as if we may have lost our whole worm population, as we began to pull comatose bodies out one by one. But we said to each other, “If the dirt was stirred and wetted, then the little critters might just come alive. We can save our worms! Let us not give up! There was a great stir of energy as these kids saw a critical situation, and they could make a difference. They got some squirt bottles and we got into a rhythm as the energy intensified to save our worms.” 
 
 I would reach down to the bottom of the bin, bringing up the dry dirt along with a few listless worms in my hands. I would hold them in my hands while the kids aimed their squirt bottles of water at the unmoving worm bodies, full of breathless hope they could be revived. 
 

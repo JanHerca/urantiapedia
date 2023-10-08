@@ -46,7 +46,7 @@ Todo cambió cuando, en la década de 1990, el ganador del premio Nobel, Hans De
 
 En un libro de texto publicado en una universidad estadounidense en 1934 titulado «La arquitectura del universo», el físico W.F.G. Swann escribió:
 
-> “La masa del electrón es tan pequeña que si magnificas todas las masas de modo que el electrón alcance una masa de un décimo de onza, ese décimo de onza sería, en la misma escala de aumento, tan pesado como la tierra."
+> «La masa del electrón es tan pequeña que si magnificas todas las masas de modo que el electrón alcance una masa de un décimo de onza, ese décimo de onza sería, en la misma escala de aumento, tan pesado como la tierra.»
 
 Las palabras de Swann fueron reproducidas en el Documento 42, Sección 6 pero con la comparación obviamente cambiada deliberadamente de masa a volumen. Se lee:
 

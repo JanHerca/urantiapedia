@@ -42,7 +42,7 @@ Como agondonteros, triunfamos sobre dificultades insuperables cuando estamos sol
 
 El reino en el que vivimos fue creado a propósito para que dos partículas materiales no puedan ocupar el mismo espacio y momento de tiempo. Al tratar de hacerlo, se pueden generar conflictos y dolor. Este reino de tiempo y espacio también nos ayuda a tomar conciencia del dolor y el conflicto que existe en la vida de nuestros hermanos y hermanas. Crea la oportunidad para que los ministremos durante su tiempo de sufrimiento y tormento. Si nunca tuviéramos conflicto y dolor en nuestras propias vidas, ¿cómo entenderíamos el dolor y el conflicto que existen en la vida de los demás?
 
-Si viviéramos en un universo donde las partículas nunca entraran en conflicto en el tiempo y el espacio, ¿sería esto la perfección? Y si fuera así, ¿lo sabríamos? ¿Podríamos conocer el verdadero placer y la felicidad si no tuviéramos experiencia de conflicto o dolor con los que hacer comparaciones?
+Si viviéramos en un universo donde las partículas nunca entraran en conflicto en el tiempo y el espacio, ¿sería esto la perfección? Y si fuera así, ¿lo sabríamos? ¿Podríamos conocer el verdadero placer y la felicidad si no tuviéramos experiencia de conflicto o dolor con los cuales hacer comparaciones?
 
 _El Libro de Urantia_ nos dice que la mayor aflicción de la vida es nunca haber sido afligido. El reino físico del tiempo y el espacio, tal como existe en nuestro universo experiencial, brinda la oportunidad para esa aflicción. Seguramente esto está relacionado con el hecho de que dos partículas físicas no pueden ocupar el mismo espacio en el mismo momento de tiempo, proporcionando así la base para que ocurra todo conflicto y dolor.
 

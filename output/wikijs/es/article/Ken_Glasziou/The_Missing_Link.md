@@ -74,7 +74,7 @@ En otras palabras, el mayor obstáculo para el mayor progreso espiritual de nues
 
 Se requiere mucho auto cuestionamiento e introspección para desarrollar el «ser interior» —esa parte de nosotros que coopera con el Espíritu (de Dios) como intermediario entre el «cuerpo» (que incluye apetitos corporales, emociones y pensamientos) y el alma en crecimiento. **Pero, habiendo limpiado nuestro «ser interior», todavía hay trampas que pueden paralizar un mayor crecimiento.**
 
-**Uno de ellas es la de los excesivos sentimientos de culpa, remordimiento, etc., que pueden surgir en el transcurso de la introspección sobre nuestros defectos.** El crimen aquí no es tanto el pecado en sí mismo sino el tiempo perdido en la autoflagelación innecesaria. Por eso debemos concentrarnos en lo que es posible para nosotros, rectificar lo que podamos y confiar en la ayuda divina para lograr lo aparentemente imposible.
+**Una de ellas es la de los excesivos sentimientos de culpa, remordimiento, etc., que pueden surgir en el transcurso de la introspección sobre nuestros defectos.** El crimen aquí no es tanto el pecado en sí mismo sino el tiempo perdido en la autoflagelación innecesaria. Por eso debemos concentrarnos en lo que es posible para nosotros, rectificar lo que podamos y confiar en la ayuda divina para lograr lo aparentemente imposible.
 
 Un segundo problema que surge es que, habiendo alcanzado un grado de crecimiento de nuestro ser interior, muchos de nosotros gastamos nuestras energías en instruir a otros sobre lo que deberían estar haciendo, y fracasamos en el desarrollo ulterior de nuestras propias almas. En _El Libro de Urantia_, Jesús nos dice que tenemos que «ser» antes de poder «hacer», porque «hacer» sin «ser» simplemente nos etiqueta como hipócritas.
 

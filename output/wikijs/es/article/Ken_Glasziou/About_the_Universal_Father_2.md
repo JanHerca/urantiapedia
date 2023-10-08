@@ -41,7 +41,7 @@ Términos como belleza y bondad están, en gran medida, «en el ojo del espectad
 
 Por lo tanto, la exactitud a menudo no es una posibilidad. Podemos vernos obligados a derivar un significado subjetivo puramente de nuestra propia experiencia. Muchas situaciones pueden precisarse de manera más satisfactoria a partir de los ideales básicos que cada individuo construye a lo largo de su vida. No hace falta decir que esto será progresivo, la suma conmovedora de muchas ocasiones separadas de experiencia.
 
-A veces se dispone de un principio rector. Si estamos íntimamente familiarizados con la vida, el pensamiento y las acciones de Jesús de Nazaret, podemos obtener una pista de la pregunta: "¿Qué creo que haría Jesús en tal caso?" Nuestras respuestas cambiarán con el tiempo como producto de nuestras experiencias. Así son las cosas.
+A veces se dispone de un principio rector. Si estamos íntimamente familiarizados con la vida, el pensamiento y las acciones de Jesús de Nazaret, podemos obtener una pista de la pregunta: «¿Qué creo que haría Jesús en tal caso?» Nuestras respuestas cambiarán con el tiempo como producto de nuestras experiencias. Así son las cosas.
 
 > De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió.
 

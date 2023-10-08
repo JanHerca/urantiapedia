@@ -90,7 +90,7 @@ Jesús enseñó a los apóstoles a predicar el perdón de los pecados a través 
 
 Jesús nunca cesó de repetir que sólo la fe era necesaria en el negocio de encontrar a Dios, y agregó que «será por la vida que viváis que los demás sabrán que habéis estado conmigo y que habéis conocido las realidades del reino».
 
-Les dijo a sus discípulos que el reino de Dios está dentro de ti, que no tienes que ver igual, sentir igual, incluso pensar igual para ser espiritualmente igual. «La armonía», dijo, “crece del hecho de que cada uno de nosotros es idéntico en origen, naturaleza y destino.
+Les dijo a sus discípulos que el reino de Dios está dentro de ti, que no tienes que ver igual, sentir igual, incluso pensar igual para ser espiritualmente igual. «La armonía», dijo, «crece del hecho de que cada uno de nosotros es idéntico en origen, naturaleza y destino.»
 
 «La unidad espiritual implica dos cosas: primero, posees un motivo común para el servicio del alma, hacer la voluntad del Padre, y segundo, tienes una meta común de existencia: encontrar al Padre y llegar a ser como él».
 

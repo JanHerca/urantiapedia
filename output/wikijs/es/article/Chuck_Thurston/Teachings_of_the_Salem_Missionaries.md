@@ -53,7 +53,7 @@ Hace poco me di cuenta y aprecié plenamente que [Documento 131](/es/The_Urantia
 
 ¿No sería maravilloso retroceder en el tiempo y escuchar las conmovedoras palabras de estos heroicos misioneros? Aquí encontramos la compilación de Ganid de las enseñanzas religiosas de la biblioteca de Alejandría, realizadas con la guía y asistencia de Jesús. Si bien este manuscrito «se conservó en la India durante cientos de años» <a id="a53_335"></a>[[LU 131:0.2](/es/The_Urantia_Book/131#p0_2)], creo que también representa el deseo de Jesús de mantener viva la obra de Melquisedec para todas las generaciones futuras, sabiendo que extractos algún día serían reproducidos y compartidos por los intermedios para nuestro beneficio.
 
-Este proyecto, realizado con un gran esfuerzo y un costo significativo, proporciona un registro directo de las "predicaciones" de los misioneros de Salem, junto con ideas estrechamente relacionadas que fueron inspiradas por el trabajo de estos nobles maestros del evangelio de Salem.
+Este proyecto, realizado con un gran esfuerzo y un costo significativo, proporciona un registro directo de las «predicaciones» de los misioneros de Salem, junto con ideas estrechamente relacionadas que fueron inspiradas por el trabajo de estos nobles maestros del evangelio de Salem.
 
 > «Y se debe poner de manifiesto en este relato que todas estas enseñanzas que describen al monoteísmo procedían en gran medida, directa o indirectamente, de las predicaciones de los misioneros de Maquiventa Melquisedek, que partieron de su sede en Salem para divulgar la doctrina de un Dios único —el Altísimo— hasta los confines de la Tierra.» <a id="a57_346"></a>[[LU 131:0.1](/es/The_Urantia_Book/131#p0_1)]
 

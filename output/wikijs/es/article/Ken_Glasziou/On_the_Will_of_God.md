@@ -40,7 +40,7 @@ Frente al mundo de la personalidad, Dios se descubre como una persona amorosa; f
 
 La voluntad de Dios es verdad divina, amor vivo; por lo tanto, las creaciones perfeccionadoras de los universos evolutivos se caracterizan por la bondad, la cercanía a la divinidad; por el mal potencial—la lejanía de la divinidad.
 
-El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la "voluntad del Padre que está en los cielos".
+El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la
 
 ## Sobre hacer la voluntad de Dios
 
@@ -56,7 +56,7 @@ Cuando la voluntad de Dios es vuestra ley, sois nobles súbditos esclavos; pero 
 
 Aunque no podemos ver a Dios, podemos conocerlo. Y al vivir diariamente la voluntad del Padre en el cielo, podemos revelarlo a nuestros semejantes.
 
-El Jesús humano vio a Dios como santo, justo y grande, verdaderamente hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la "voluntad del Padre en el Cielo".
+El Jesús humano vio a Dios como santo, justo y grande, verdaderamente hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la
 
 La imitación de Dios es la clave de la perfección; el hacer su voluntad es el secreto de la supervivencia y de la perfección en la supervivencia.
 
@@ -64,7 +64,7 @@ La paz en esta vida, la supervivencia en la muerte, la perfección en la próxim
 
 Esta elección de la voluntad del Padre es el hallazgo espiritual del Padre espiritual por parte del hombre mortal.
 
-Esta elección no consiste tanto en la negación de la voluntad de la criatura -"No se haga mi voluntad sino la tuya"- como en la afirmación positiva de la criatura: "Es mi voluntad que se haga tu voluntad". Jesús dijo: La voluntad de Dios es el camino de Dios, asociación con la elección de Dios frente a cualquier alternativa potencial. Hacer la voluntad de Dios, por lo tanto, es la experiencia progresiva de llegar a ser cada vez más como Dios, y Dios es la fuente y el destino de todo lo que es bueno, hermoso y verdadero. La voluntad del hombre es el camino del hombre, la suma y sustancia de lo que el mortal elige ser y hacer. La voluntad es la elección deliberada de un ser consciente de sí mismo que conduce a una decisión-conducta basada en una reflexión inteligente.
+Esta elección no consiste tanto en la negación de la voluntad de la criatura  como en la afirmación positiva de la criatura: Jesús dijo: La voluntad de Dios es el camino de Dios, asociación con la elección de Dios frente a cualquier alternativa potencial. Hacer la voluntad de Dios, por lo tanto, es la experiencia progresiva de llegar a ser cada vez más como Dios, y Dios es la fuente y el destino de todo lo que es bueno, hermoso y verdadero. La voluntad del hombre es el camino del hombre, la suma y sustancia de lo que el mortal elige ser y hacer. La voluntad es la elección deliberada de un ser consciente de sí mismo que conduce a una decisión-conducta basada en una reflexión inteligente.
 
 > Los axiomas éticos se encuentran y prueban de manera no muy diferente a los axiomas de la ciencia. La verdad es lo que resiste la prueba de la experiencia.
 > _Alberto Einstein_

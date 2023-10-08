@@ -43,7 +43,7 @@ Fui elegido vicepresidente interino en la reunión de Zoom del 15 de agosto del 
 
 Sección 9.4. Vicepresidente: En caso de incapacidad del Presidente para actuar, el Vicepresidente desempeñará las funciones y ejercerá las facultades del Presidente; y desempeñará las demás funciones y ejercerá los demás poderes que ocasionalmente le impongan el Consejo General, el Comité Ejecutivo y el Presidente.
 
-Acepté ser nominado porque parecía muy poco probable que Geoff no pudiera actuar como presidente, y después de haber estado involucrado en muchos aspectos del funcionamiento de la confraternidad durante 45 años, sospeché que podría realizar "otros deberes y ejercicios" que me pueden imponer. Desde que fui elegido para el Consejo General, he asistido u observado las reuniones del CE, y espero sumar mi voz a la variedad de debates diversos y reflexivos del CE hasta octubre, cuando el Consejo General ocupará el puesto por el resto del período.
+Acepté ser nominado porque parecía muy poco probable que Geoff no pudiera actuar como presidente, y después de haber estado involucrado en muchos aspectos del funcionamiento de la confraternidad durante 45 años, sospeché que podría realizar «otros deberes y ejercicios» que me pueden imponer. Desde que fui elegido para el Consejo General, he asistido u observado las reuniones del CE, y espero sumar mi voz a la variedad de debates diversos y reflexivos del CE hasta octubre, cuando el Consejo General ocupará el puesto por el resto del período.
 
 ## Enlaces externos
 

@@ -98,7 +98,7 @@ Los documentos especulan que se convertirá en residente personal en Uversa de O
 
 Hay un principio interesante que siguen. Es como las siete razas de colores en la tierra: quieren que se separen y desarrollen sus propias culturas. Y luego, cuando han sido mejorados con la sangre de Adán, los unen. Están haciendo lo mismo con los superuniversos, ¿no es así?
 
-Hay muy pocos seres que pueden ir directamente de un superuniverso a otro. Muy pocos. El gran universo perfeccionado de esos días futuros será muy diferente de lo que es en la actualidad. “_Se acabarán las emocionantes aventuras de la organización de las galaxias del espacio, la plantación de vida en los mundos inciertos del tiempo y la evolución de la armonía a partir del caos, la belleza a partir de los potenciales, la verdad a partir de los significados y la bondad a partir de valores._" <a id="a100_496"></a>[[LU 117:7.17](/es/The_Urantia_Book/117#p7_17)]
+Hay muy pocos seres que pueden ir directamente de un superuniverso a otro. Muy pocos. El gran universo perfeccionado de esos días futuros será muy diferente de lo que es en la actualidad.<a id="a100_496"></a>[[LU 117:7.17](/es/The_Urantia_Book/117#p7_17)]
 
 > ¡Los universos del tiempo habrán logrado realizar su destino finito! Y quizás habrá descanso durante un espacio de tiempo, una disminución de la lucha secular por conseguir la perfección evolutiva. ¡Pero no será por mucho tiempo! El enigma de la Deidad emergente de Dios Último desafiará de manera cierta, segura e inexorable a estos ciudadanos perfeccionados de los universos estabilizados, al igual que la búsqueda de Dios Supremo desafió en otro tiempo a sus antepasados luchadores y evolutivos. La cortina del destino cósmico se descorrerá para revelar la grandeza trascendente de la atractiva búsqueda absonita para alcanzar al Padre Universal en los niveles nuevos y superiores donde se revela el aspecto último de la experiencia de las criaturas._ <a id="a102_757"></a>[[LU 117:7.17](/es/The_Urantia_Book/117#p7_17)]
 
@@ -192,7 +192,7 @@ Este acto de trinitización está simbolizado en mi mente por la siguiente image
 
 Mirar. ¿Estaremos allí? presento que si. Y aquí está mi razón. La razón por la que les ofrezco este pensamiento especulativo es porque es una cuerda en la que he podido enhebrar tantas cuentas en estos papeles que ayudan a iluminar.
 
-En <a id="a194_3"></a>[LU 112:1.9](/es/The_Urantia_Book/112#p1_9), junto al último párrafo: “_El tipo de personalidad otorgado a los mortales de Urantia posee un potencial de siete dimensiones de expresión del yo, o de realización de la persona._ Y no me pregunten por qué tiene esto, porque así lo diseñó Dios. Viene de él, con estas propiedades.
+En <a id="a194_3"></a>[LU 112:1.9](/es/The_Urantia_Book/112#p1_9), junto al último párrafo: «_El tipo de personalidad otorgado a los mortales de Urantia posee un potencial de siete dimensiones de expresión del yo, o de realización de la persona._» Y no me pregunten por qué tiene esto, porque así lo diseñó Dios. Viene de él, con estas propiedades.
 
 «_Estos fenómenos dimensionales son realizables como tres en el nivel finito,_» (primer piso), «_tres en el nivel absonito,_» (segundo piso), «_y uno en el nivel absoluto_». (tercer piso)
 

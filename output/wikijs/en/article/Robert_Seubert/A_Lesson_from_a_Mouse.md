@@ -49,9 +49,9 @@ The next day, I opened the cage door and, ever-so-slowly, placed my hand in and 
 
 I continued to do this twice and even three times a day. As I held my hand in the cage, I found that I was trying to talk to Algernon in a very low, gentle voice. “Come on little man. I will not harm you. I promise you.” I held my hand as still as I could. I spoke softly to him and never took my eyes off of him. 
 
-Several days passed, and as I continued my effort, I began to notice that he was not quite as frantic. Encouraged, I spoke to Algernon, “That’s good little man. You see that I will not harm you. I am your friend, little mouse. 
+Several days passed, and as I continued my effort, I began to notice that he was not quite as frantic. Encouraged, I spoke to Algernon, “That’s good little man. You see that I will not harm you. I am your friend, little mouse.” 
 
-One morning I reached my hand in the cage and he did not run from me at all. He just stood there. I was elated and much encouraged. “That’s it, Algernon.” I whispered, “no need to fear me. I am your friend. Be my friend too. Don’t be afraid. 
+One morning I reached my hand in the cage and he did not run from me at all. He just stood there. I was elated and much encouraged. “That’s it, Algernon.” I whispered, “no need to fear me. I am your friend. Be my friend too. Don’t be afraid.” 
 
 Then one day when I placed my hand in the cage he stepped over to my hand, put his nose close to my finger, and sniffed it. Then he stepped away. I couldn’t believe how happy I felt. I would have never believed that a thing like this would even be important to me, but it was. It was my desire to invest even more time into this relationship. The next day something even more important happened. With my hand in the cage, Algernon stepped over to me and placed his front paw on my finger. I was even more elated. He held it there for a moment and then slowly stepped away. 
 

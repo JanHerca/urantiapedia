@@ -38,7 +38,7 @@ Para un judío que vivía en Palestina hace dos mil años, ¿quiénes habrían s
 
 En aquellos días, los judíos tenían una creencia muy fuerte en sí mismos como «pueblo elegido de Dios». Entonces, simplemente por motivos raciales, todos los no judíos serían descartados. Además, para que Jesús los ignorara, estos «grandes hombres» tendrían que haber sido judíos vivos, no «hombres de la antigüedad». A continuación, podemos descartar a los judíos designados como hombres de autoridad por sus amos romanos, hombres como Antipas y Felipe, los hijos de Herodes el Grande.
 
-Eso deja relativamente pocos judíos para ser considerados, entre ellos los escribas y maestros en el gran templo de Jerusalén, los abogados y los rabinos de las escuelas de las sinagogas, hombres a quienes ahora clasificaríamos como "académicos", el grupo altamente educado en la comunidad judía. sociedad de aquellos tiempos.
+Eso deja relativamente pocos judíos para ser considerados, entre ellos los escribas y maestros en el gran templo de Jerusalén, los abogados y los rabinos de las escuelas de las sinagogas, hombres a quienes ahora clasificaríamos como «académicos», el grupo altamente educado en la comunidad judía. sociedad de aquellos tiempos.
 
 La siguiente cláusula en nuestra cita de la página 1594 dice: «Comenzó su obra con los pobres». Pero incluso entre este grupo (que constituía la mayor parte del resto de la población judía), Jesús estaba buscando un grupo especial: aquellas personas que tomarían su revelación del Padre en el cielo tan en serio que en realidad buscarían emular a Jesús en su propio vidas.
 
@@ -66,7 +66,7 @@ Pero este conocimiento de la vida de Jesús también es importante porque, al as
 
 Jesús pudo fácilmente llevar a cabo su decisión de ignorar a «los grandes hombres» de su día simplemente evitándolos. También podría buscar personalmente a aquellos que decidan emular su vida reveladora. Pero si esta misma tarea se asignó a los reveladores de los Documentos de Urantia, entonces parecería que el único camino abierto para ellos estaría en la forma real de presentación de los Documentos.
 
-En el Documento 101 se proporciona una descripción de algunas de las "leyes de la revelación", incluida la "proscripción del conocimiento no ganado". Sin embargo, parece haber solo uno o dos indicios de cómo podrían haber "ignorado a los grandes hombres", mientras alentaban a aquellos que podrían optar por tratar de vivir sus vidas como Jesús vivió la suya.
+En el Documento 101 se proporciona una descripción de algunas de las «leyes de la revelación», incluida la «proscripción del conocimiento no ganado». Sin embargo, parece haber solo uno o dos indicios de cómo podrían haber «ignorado a los grandes hombres», mientras alentaban a aquellos que podrían optar por tratar de vivir sus vidas como Jesús vivió la suya.
 
 Una curiosidad de la presentación de los Documentos de Urantia es que el mandato de revelación que se refiere a la proscripción del conocimiento no ganado no aparece hasta después de la mitad del camino.
 
@@ -74,7 +74,7 @@ En cualquier publicación normal en la que una calificación tan importante impo
 
 La palabra «cosmología» se usa en los Documentos (recibidos a mediados de la década de 1930) en su forma tradicional como una rama de la metafísica (el estudio de la realidad última), e incluye filosofía, teología, religión y ciencia sin una línea de demarcación firme. separar la historia y los hechos de un tema en particular.
 
-Así, cuando leemos, a mitad del libro (p. 1109), que «cualquier cosmología presentada como parte de la religión revelada está destinada a ser superada en muy poco tiempo», y también nos damos cuenta de algunos de los Documentos ' discrepancias problemáticas, tenemos derecho a preguntarnos si tal vez nos estamos enfrentando a una forma del siglo XX de "ignorar a los grandes hombres".
+Así, cuando leemos, a mitad del libro (p. 1109), que «cualquier cosmología presentada como parte de la religión revelada está destinada a ser superada en muy poco tiempo», y también nos damos cuenta de algunos de los Documentos ' discrepancias problemáticas, tenemos derecho a preguntarnos si tal vez nos estamos enfrentando a una forma del siglo XX de «ignorar a los grandes hombres».
 
 Por supuesto, no hay forma posible de obtener respuestas correctas a tales preguntas, lo que nuevamente plantea más cuestiones sobre las cuales reflexionar. ¿Es esto deliberado por parte de los reveladores?
 

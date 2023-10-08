@@ -58,12 +58,12 @@ Abril | 9 | domingo | 4:30 PM: sexta aparición de Jesús ante unos cuarenta cre
 Abril | 9 | domingo | 17:00 - Séptima aparición de Jesús, a Cleofas y su hermano Jacob. Se apresuran a regresar a Jerusalén para correr la voz. |
 Abril | 9 | domingo | 8 PM: el Sanedrín convoca una conferencia apresurada después de escuchar rumores de apariciones. Decide echar de la sinagoga a todo aquel que mencione la resurrección. |
 Abril | 9 | domingo | 8:30 PM—Octava aparición de Jesús, a Pedro en el jardín de la casa de Marcos. |
-Abril | 9 | domingo | 9 PM: novena aparición de Jesús. Cleofás y Jacob van a la casa de los apóstoles a Elías Marcos para contarles su historia. Después de que se van, Jesús se les aparece a todos menos a Thomas, quien permanece deprimido en Betfagé. |
+Abril | 9 | domingo | 9 PM: novena aparición de Jesús. Cleofás y Jacob van a la casa de los apóstoles a Elías Marcos para contarles su historia. Después de que se van, Jesús se les aparece a todos menos a Tomás, quien permanece deprimido en Betfagé. |
 Abril | 10 | lunes | Jesús pasa el día con más de un millón de personalidades morontiales que entonces estaban presentes en Urantia. Se queda con ellos cuarenta días, instruyendo y aprendiendo. La forma morontial de Jesús se ajustó a la segunda etapa. |
 Abril | 11 | martes | 8 AM: décima aparición de Jesús, en Filadelfia, a Abner, Lázaro y 150 asociados, incluida la mayor parte del cuerpo evangélico. |
 Abril | 12 | miércoles | Jesús pasó este día en compañía de sus asociados morontiales, recibiendo delegados morontiales visitantes de **los mundos de estancia de cada sistema local** de esferas habitadas en la constelación de Norlatiadek (100 sistemas). |
 Abril | 14 | viernes | Jesús transita a la tercera etapa morontial. |
-Abril | 15 | sábado | Pedro y Juan van a Betfagé para traer de vuelta a Thomas. |
+Abril | 15 | sábado | Pedro y Juan van a Betfagé para traer de vuelta a Tomás. |
 Abril | 16 | domingo | 6 PM: Undécima aparición de Jesús a los apóstoles en casa de Juan Marcos, incluido Tomás. |
 Abril | 17 | lunes | Jesús transita a la cuarta etapa morontial. |
 Abril | 18 | martes | 8:30 PM—La duodécima aparición de Jesús, a Rodán y otras 80 personas en Alejandría. El mensajero de David (el quinto corredor de un relevo) acababa de llegar con el mensaje de la muerte de Jesús (tardó 11 días). |

@@ -71,7 +71,7 @@ El equipo que trabaja en este proyecto tiene mucha experiencia con el libro, y a
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/041.jpg">
 </figure>
 
-“Como resultado de mi lectura de _El Libro de Urantia_, llegué a la absoluta convicción de que esta es mi verdad. En virtud de esta convicción, trato de compartirlo con la mayor cantidad de personas posible".
+«Como resultado de mi lectura de _El Libro de Urantia_, llegué a la absoluta convicción de que esta es mi verdad. En virtud de esta convicción, trato de compartirlo con la mayor cantidad de personas posible».
 
 ## Marinett Morales
 

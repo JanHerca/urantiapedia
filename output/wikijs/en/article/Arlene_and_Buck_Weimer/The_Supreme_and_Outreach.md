@@ -88,7 +88,7 @@ Outreach ministry can be differentiated into many categories to embrace the beli
 
 **Discipleship:** Publicly teaching/preaching the Gospel, and serving as a social example of loving God and serving humanity. 
 
-An Apostle: Being an ambassador of the kingdom. Giving up all and going forth actively proclaiming the Gospel throughout the world.  
+**An Apostle**: Being an ambassador of the kingdom. Giving up all and going forth actively proclaiming the Gospel throughout the world.  
 
 The flavor of Jesus’ outreach was first, by living faith in God’s guidance and watchcare. He was a living example of the divinity of God, and displayed this divine enthusiasm by spreading good cheer wherever he went. The consecration of will and his unselfish devotion to mankind were the hallmarks of his truths, as was the positive approach of love and mercy in the place of negativity—fear and sacrifice. 
 

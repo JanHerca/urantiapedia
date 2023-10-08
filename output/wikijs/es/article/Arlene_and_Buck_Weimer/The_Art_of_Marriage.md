@@ -111,7 +111,7 @@ Un padre no tiene que estar de acuerdo o gustar de las decisiones tomadas por un
 
 ## Un método de cuatro pasos
 
-1. Reconocimiento del mal: “¿Estás de acuerdo ... ¿Qué hiciste estuvo mal o contra las reglas?
+1. Reconocimiento del mal: «¿Estás de acuerdo ... ¿Qué hiciste estuvo mal o contra las reglas?»
 2. Solicite su elección de consecuencias: «¿Cuáles cree que deberían ser las consecuencias de ese comportamiento?» (Nuevamente, «nada» no es una respuesta realista).
 3. Información de los padres sobre las consecuencias: «Esto es lo que creo que deberían ser las consecuencias...»
 4. Negociar una decisión acordada: «¡Hagamos un trato!» Cada uno mostrándose negociable «dando» un poco para llegar a una decisión aceptable para ambos.

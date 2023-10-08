@@ -63,7 +63,7 @@ En contraste, el nuevo grupo de arqueólogos era profesional, altamente capacita
 
 Mientras que casi la única evidencia utilizada para la tarea de verificación de la historia bíblica había sido excavada, los nuevos exploradores agregaron los métodos de las ciencias sociales y la antropología. Entonces, junto con los artefactos excavados, la arquitectura, los patrones de asentamiento, los huesos de animales, las semillas, el análisis del suelo y los modelos antropológicos de muchas culturas del mundo proporcionaron herramientas adicionales que contribuyeron a la historia emergente.
 
-¿Cómo pudieron los huesos de animales proporcionar conocimiento arqueológico? La historia bíblica de José de la túnica de muchos colores siendo vendido como esclavo por sus hermanos cuenta cómo, después de arrojarlo a un pozo, los hermanos vieron “una compañía de ismaelitas de Galaad con sus camellos que llevaban especias aromáticas y bálsamo y mirra que bajaban a Egipto." Entonces, en lugar de matar a José, sus hermanos lo vendieron como esclavo.
+¿Cómo pudieron los huesos de animales proporcionar conocimiento arqueológico? La historia bíblica de José de la túnica de muchos colores siendo vendido como esclavo por sus hermanos cuenta cómo, después de arrojarlo a un pozo, los hermanos vieron «una compañía de ismaelitas de Galaad con sus camellos que llevaban especias aromáticas y bálsamo y mirra que bajaban a Egipto.» Entonces, en lugar de matar a José, sus hermanos lo vendieron como esclavo.
 
 Este evento habría tenido lugar alrededor del año 2000 a. C., según la historia bíblica.
 

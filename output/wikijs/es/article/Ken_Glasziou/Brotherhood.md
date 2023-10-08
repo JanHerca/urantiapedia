@@ -42,7 +42,7 @@ El término «autoridad eclesiástica» deriva del griego antiguo, «ecclesia»,
 
 Esto es enfatizado por su afirmación de que en el mismo momento en que perdamos de vista el hecho de la autoridad única de Dios sobre los asuntos religiosos, nuestra forma particular de religión comenzará a intentar afirmar su superioridad. El resultado, afirman, siempre será disensión, recriminaciones, incluso «guerras» entre religiosos, lo que difícilmente es «hermandad». (<a id="a42_378"></a>[LU 134:4.8](/es/The_Urantia_Book/134#p4_8))
 
-Como lo demuestran las "guerras", las divisiones y la aniquilación dentro del movimiento en el pasado, ni siquiera los creyentes en la autoridad de los Documentos de Urantia están exentos. De alguna manera debemos absorber en la vanguardia de nuestras mentes que nuestras creencias religiosas son entre nosotros, como individuos, y nuestro Dios, no para ser impuestas a otros, o incluso sugeridas como superiores.
+Como lo demuestran las las divisiones y la aniquilación dentro del movimiento en el pasado, ni siquiera los creyentes en la autoridad de los Documentos de Urantia están exentos. De alguna manera debemos absorber en la vanguardia de nuestras mentes que nuestras creencias religiosas son entre nosotros, como individuos, y nuestro Dios, no para ser impuestas a otros, o incluso sugeridas como superiores.
 
 La «regla del universo» parece ser que podemos presentar nuestros puntos de vista religiosos a los demás, pero nunca debemos buscar imponerlos, sugerir su superioridad o denigrar los puntos de vista de los demás. Hacer eso es usurpar una autoridad a la que no podemos tener ningún derecho o reclamo.
 

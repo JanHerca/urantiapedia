@@ -64,7 +64,7 @@ Early Christianity did not encourage social change like abolihing slavery; ownin
 
 True morality consists in having allegiance to universal principles such as, “Love your neighbor as yourself,” for all humans are your neighbors. Well, if you set yourself higher than your neighbor because he is different, you justify doing wrong to him. The Christian church based its teaching on Aristotle’s morality— to attain the supreme good. When you want to attain good, you do good things from within and without; you develop moral habits. 
 
-Christian love, “agape,” is the ethical foundation for morality. Thomas of Aquinas, the 13th century philosopher and theologian, said “either you live in harmony with each other, or you live in disharmony and kill each other. If you do the right thing you will be rewarded; the wrong, you will go to hell. 
+Christian love, “agape,” is the ethical foundation for morality. Thomas of Aquinas, the 13th century philosopher and theologian, said “either you live in harmony with each other, or you live in disharmony and kill each other. If you do the right thing you will be rewarded; the wrong, you will go to hell.” 
 
 How important is the fear of hell or the desire to live as God wishes in motivating people? 
 

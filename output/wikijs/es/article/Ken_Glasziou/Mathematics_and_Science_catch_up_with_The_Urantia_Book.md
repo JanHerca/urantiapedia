@@ -47,11 +47,11 @@ En la práctica, esto significa que cada sistema debe someterse a rigurosas prue
 
 Durante los últimos setenta años no ha habido un desafío exitoso a Gódel y, de hecho, su trabajo ha sido fundamentado y ampliado. Pero la realidad es que la gran mayoría de los que trabajan en ciencias y matemáticas han optado por ignorar a Gödel y continuar con el sueño de una teoría unificada final popularizada durante más de veinte años infructuosos de búsqueda por parte del gran Einstein.
 
-Entre el trabajo relativamente reciente se encuentra el de Paul Cohen, quien amplió el enfoque de Godel para incluir la teoría de conjuntos, y Alan Turing, quien descubrió que existe un problema de "detención" con las computadoras.
+Entre el trabajo relativamente reciente se encuentra el de Paul Cohen, quien amplió el enfoque de Godel para incluir la teoría de conjuntos, y Alan Turing, quien descubrió que existe un problema decon las computadoras.
 
 Turing planteó la cuestión de si existe o no alguna forma de predecir de antemano si un programa de computadora encontrará una respuesta y se detendrá o si continuará para siempre. Su respuesta fue que no hay forma de saberlo.
 
-Además de sus ramificaciones teóricas más profundas, este aparentemente simple problema de "detención", sin importancia para usted ni para mí, ciertamente es importante para el administrador que tiene la tarea de asignar tiempo de supercomputadora extremadamente costoso a aquellos que lo necesitan.
+Además de sus ramificaciones teóricas más profundas, este aparentemente simple problema de sin importancia para usted ni para mí, ciertamente es importante para el administrador que tiene la tarea de asignar tiempo de supercomputadora extremadamente costoso a aquellos que lo necesitan.
 
 Entre los que han buscado respuestas está Gregory Chaitan, un matemático investigador de IBM que preguntó si no hay forma de obtener una respuesta de sí o no, si hay al menos alguna forma de estimar la probabilidad de que un programa se detenga o no.
 

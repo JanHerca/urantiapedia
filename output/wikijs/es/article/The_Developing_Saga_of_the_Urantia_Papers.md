@@ -91,7 +91,7 @@ Aproximadamente quince años después del primer encuentro, el Dr. Sadler[^2] ad
 - Escuchamos referencias ocasionales a la vida y las enseñanzas de Jesús, pero fueron muy cautelosos acerca de la introducción de nuevos conceptos relacionados con el otorgamiento de Urantia de Miguel. De toda la Revelación de Urantia, los Documentos de Jesús fueron la mayor sorpresa.
 - Si bien no escuchamos el término «Cuerpo de la Finalidad», recogimos una vaga idea de que el Paraíso podría ser el destino de los mortales sobrevivientes.
 
-Más adelante en su artículo, el Dr. Sadler declaró: “A medida que avanzaba la Revelación, llegamos a apreciar más plenamente cómo nos habían preparado para la gran alteración de nuestras creencias religiosas por medio de estos contactos preliminares... Sin embargo, el tema de este período de entrenamiento no fue la revelación. También parece que se evitaron deliberadamente los asuntos relacionados con la vida y las enseñanzas de Jesús.
+Más adelante en su artículo, el Dr. Sadler declaró: «A medida que avanzaba la Revelación, llegamos a apreciar más plenamente cómo nos habían preparado para la gran alteración de nuestras creencias religiosas por medio de estos contactos preliminares...» Sin embargo, el tema de este período de entrenamiento no fue la revelación. También parece que se evitaron deliberadamente los asuntos relacionados con la vida y las enseñanzas de Jesús.
 
 > La verdad última existe. Si pensamos profundamente y reflexionamos cuidadosamente, nos daremos cuenta de que nosotros mismos tenemos nuestra existencia en la verdad última.
 
@@ -327,12 +327,12 @@ Para los creyentes serios en el alto valor y la calidad de este aspecto de los D
 
 ## Referencias
 
-[^1]: Borg, Marcus J. "Jesús: una nueva visión". (Harper San Francisco, 1987)
+[^1]: Borg, Marcus J. «Jesús: una nueva visión». (Harper San Francisco, 1987)
 
-[^2]: Dr. Sadler, "La historia del movimiento Urantia".
+[^2]: Dr. Sadler, «La historia del movimiento Urantia».
 
-[^3]: Block, M. "Un estudio de fuentes del documento 159". El Heraldo de la Fraternidad 3 (1) 2 (2001)
+[^3]: Block, M. «Un estudio de fuentes del documento 159». El Heraldo de la Fraternidad 3 (1) 2 (2001)
 
-[^4]: Houston Smith, "Las religiones del hombre". (Harper y Row, 1958)
+[^4]: Houston Smith, «Las religiones del hombre». (Harper y Row, 1958)
 
 [^5]: Estudio del Departamento de Educación de EE. UU. publicado en Scientific American 285 (4) 15 (2001)

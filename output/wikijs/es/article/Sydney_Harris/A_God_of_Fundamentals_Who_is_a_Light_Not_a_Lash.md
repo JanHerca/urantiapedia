@@ -40,7 +40,7 @@ Al principio, en los primeros libros del Antiguo Testamento, encontramos un Dios
 
 Luego, a medida que avanza la Biblia, encontramos que sucede algo extraño. Dios mismo cambia, a los ojos de los israelitas. Se vuelve menos temible y más compasivo; se expande de una deidad tribal a una universal; a medida que los hombres crecían en entendimiento, Dios crecía en estatura.
 
-Al principio, se regocijó en la matanza de los enemigos de Israel. Pero en el momento del exilio en Babilonia, ya se lo representaba como un Dios que lloraba porque los egipcios se estaban ahogando en el Mar Rojo después de que los israelitas habían cruzado con seguridad. Él clama: "¿No son los egipcios mi pueblo también?" (Esto se puede encontrar en Midrash, el comentario más antiguo sobre las Escrituras hebreas).
+Al principio, se regocijó en la matanza de los enemigos de Israel. Pero en el momento del exilio en Babilonia, ya se lo representaba como un Dios que lloraba porque los egipcios se estaban ahogando en el Mar Rojo después de que los israelitas habían cruzado con seguridad. Él clama:(Esto se puede encontrar en Midrash, el comentario más antiguo sobre las Escrituras hebreas).
 
 Y cuando llegamos a los grandes profetas, como Deutero-Isaías, el hombre ha descubierto un Dios que está mucho más cerca de los preceptos y las parábolas del rabino Jesús de lo que la mayoría de nosotros nos damos cuenta. Muchos de los dichos de Jesús son citas directas o paráfrasis del Antiguo Testamento, porque él nunca se consideró a sí mismo más que un judío piadoso.
 

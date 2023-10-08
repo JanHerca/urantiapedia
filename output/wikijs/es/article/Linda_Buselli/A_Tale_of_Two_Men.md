@@ -94,11 +94,11 @@ He descubierto que podemos establecernos en un sentido de la presencia de Dios a
 
 En un momento se había desanimado con sus esfuerzos:
 
-> “Oh, esto de estar en contacto constante con Dios, de hacer de Él el objeto de mi pensamiento, no puedo hacerlo ni medio día, todavía no, pero creo que lo haré algún día durante todo el día. Se trata de adquirir un nuevo hábito de pensamiento.
+> «Oh, esto de estar en contacto constante con Dios, de hacer de Él el objeto de mi pensamiento, no puedo hacerlo ni medio día, todavía no, pero creo que lo haré algún día durante todo el día. Se trata de adquirir un nuevo hábito de pensamiento.»
 
 Y más tarde en sus esfuerzos:
 
-> «Por lo general, no sentirás ninguna emoción profunda, pero siempre tendrás una “paz que sobrepasa todo entendimiento». ¿Recuerdas esta declaración de _El Libro de Urantia_? «_El éxtasis espiritual auténtico está generalmente acompañado de una gran calma exterior y de un control emocional casi perfecto._ » <a id="a100_310"></a>[LU 91:7.3](/es/The_Urantia_Book/91#p7_3)
+> «Por lo general, no sentirás ninguna emoción profunda, pero siempre tendrás una «paz que sobrepasa todo entendimiento». ¿Recuerdas esta declaración de _El Libro de Urantia_? «_El éxtasis espiritual auténtico está generalmente acompañado de una gran calma exterior y de un control emocional casi perfecto._ » <a id="a100_310"></a>[LU 91:7.3](/es/The_Urantia_Book/91#p7_3)
 
 Después de casi dos años de constante esfuerzo, Frank Laubach hizo esta anotación en su diario:
 
@@ -118,7 +118,7 @@ Cada uno de nosotros es tan único que tenemos que desarrollar prácticas que fu
 
 Finalmente, lo siguiente fue escrito por el hermano Laurence poco antes de morir:
 
-> “Dentro de poco tiempo iré a Dios. Lo que me consuela en esta vida es que ahora veo a mi Señor por la fe. Al verlo por fe, en realidad veo tan bien que a veces digo: '¡Ya no creo más! ¡Veo!"
+> «Dentro de poco tiempo iré a Dios. Lo que me consuela en esta vida es que ahora veo a mi Señor por la fe. Al verlo por fe, en realidad veo tan bien que a veces digo: ‘¡Ya no creo más! ¡Veo!’»
 
 Puedo sentir lo que enseña la fe; Puedo sentir lo que ve la fe. Esto por supuesto, funciona de gran seguridad en mí. En esa seguridad y en esa práctica de fe, viviré y moriré con Él.   
 

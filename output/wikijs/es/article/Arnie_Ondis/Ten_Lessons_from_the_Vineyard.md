@@ -48,7 +48,7 @@ Las personas que presenciaron los OVNIs eran de todos los niveles educativos, de
 
 ## LECCIÓN 3: Da fruto en la tierra en la que estás plantado
 
-Uno de nuestros miembros de FSUB, Don Ware de Fort Walton Beach, ha sido una fuerza impulsora detrás de la organización UH. Don es uno de esos individuos extraordinarios de intelecto gigantesco y personalidad carismática que se equilibra con la gracia y el amor incondicional por los demás. Don presentó _El Libro de Urantia_ a sus amigos y asociados. Ha sido un verdadero Johnny Appleseed. La mayoría de los miembros de la junta de UH son lectores del libro gracias a él. Don alberga un grupo en Fort Walton Beach, y la mayoría de las personas de mi grupo están vinculadas a él de una forma u otra. En el festival del año pasado, Don y yo vendimos cerca de dos cajas de libros de la cajuela de nuestros autos. La gente me encontraba y decía: “¿Eres Arnie? Don Ware me envió. A lo largo de los años, Don ha difundido decenas, tal vez cientos, de libros en nuestra área y en muchos lugares del mundo. Don es un ejemplo sobresaliente de lo que una persona puede hacer.
+Uno de nuestros miembros de FSUB, Don Ware de Fort Walton Beach, ha sido una fuerza impulsora detrás de la organización UH. Don es uno de esos individuos extraordinarios de intelecto gigantesco y personalidad carismática que se equilibra con la gracia y el amor incondicional por los demás. Don presentó _El Libro de Urantia_ a sus amigos y asociados. Ha sido un verdadero Johnny Appleseed. La mayoría de los miembros de la junta de UH son lectores del libro gracias a él. Don alberga un grupo en Fort Walton Beach, y la mayoría de las personas de mi grupo están vinculadas a él de una forma u otra. En el festival del año pasado, Don y yo vendimos cerca de dos cajas de libros de la cajuela de nuestros autos. La gente me encontraba y decía: «¿Eres Arnie? Don Ware me envió.» A lo largo de los años, Don ha difundido decenas, tal vez cientos, de libros en nuestra área y en muchos lugares del mundo. Don es un ejemplo sobresaliente de lo que una persona puede hacer.
 
 ## LECCIÓN 4: No temas, no estás solo
 
@@ -64,7 +64,7 @@ Incluso cuando estaba solo en el stand, nunca estaba solo. Los ángeles dirigía
 
 ## LECCIÓN 7: Escucha antes de hablar.
 
-Tuve que recordarme muchas veces que soy un heraldo de la verdad, no una apisonadora. La disertación más brillante del libro caerá en saco roto si no significa nada para esa persona o su situación. Siempre fue útil aprender un poco sobre la persona primero, haciendo preguntas como: «¿Qué te trae al festival? ¿Cuales son tus intereses?" o pedirles a los sanadores que “me cuenten sobre la energía que están recibiendo y canalizando». Encuentra lo que resuena dentro de ellos. Eso, junto con las indicaciones del Espíritu, te informa sobre cómo acercarte a esa persona.
+Tuve que recordarme muchas veces que soy un heraldo de la verdad, no una apisonadora. La disertación más brillante del libro caerá en saco roto si no significa nada para esa persona o su situación. Siempre fue útil aprender un poco sobre la persona primero, haciendo preguntas como: «¿Qué te trae al festival? ¿Cuales son tus intereses?" o pedirles a los sanadores que «me cuenten sobre la energía que están recibiendo y canalizando». Encuentra lo que resuena dentro de ellos. Eso, junto con las indicaciones del Espíritu, te informa sobre cómo acercarte a esa persona.
 
 ## LECCIÓN 8: Siempre da algo de valor a todos los que conoces
 

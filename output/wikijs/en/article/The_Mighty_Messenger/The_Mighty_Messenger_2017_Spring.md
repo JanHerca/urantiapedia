@@ -211,7 +211,8 @@ _Michelle Klimesh_, Pipeline Reporter
 </figure>
 
 On Saturday April 1st, readers had their first meeting of the study group of _The Urantia Book_ in Caracas. 
-Niurka Jose reports: “For us it has been a wonderful experience to start a new study group, since in Caracas there was not a group where we could meet and talk about the 5th revelation. 
+
+Niurka Jose reports: “For us it has been a wonderful experience to start a new study group, since in Caracas there was not a group where we could meet and talk about the 5th revelation. ”
 
 The particularity of this meeting was that we attended several young people, long readers of _The Urantia Book_ who want to know more about universal truths despite their young age. 
 

@@ -60,7 +60,7 @@ Entonces, habiendo adquirido ese conocimiento, simplemente transmitirlo no es su
 - Nunca pareció tener curiosidad por las personas, y nunca manifestó el deseo de dirigirlas, administrarlas o seguirlas.
 - Inspiró una profunda confianza en sí mismo y un coraje robusto en todos los que disfrutaron de su asociación.
 - Jesús frecuentemente se disponía a ayudar a una persona pidiéndole ayuda. De esta manera suscitó interés, apeló a las mejores cosas de la naturaleza humana.
-- La mayoría de las cosas realmente importantes que Jesús dijo o hizo parecían suceder casualmente "mientras pasaba". Había tan poco de profesional, bien planificado o premeditado en el ministerio terrenal del Maestro. Dispensó salud y esparció felicidad con naturalidad y gracia en su viaje por la vida. Era literalmente cierto, «Él anduvo haciendo el bien».
+- La mayoría de las cosas realmente importantes que Jesús dijo o hizo parecían suceder casualmente «mientras pasaba». Había tan poco de profesional, bien planificado o premeditado en el ministerio terrenal del Maestro. Dispensó salud y esparció felicidad con naturalidad y gracia en su viaje por la vida. Era literalmente cierto, «Él anduvo haciendo el bien».
 - Corresponde a los seguidores del Maestro en todas las épocas aprender a ministrar «al pasar»—para hacer el bien desinteresado mientras realizan sus deberes diarios.
 - Jesús dijo: «Cuando una persona sabia comprende los impulsos internos de sus semejantes, los amará. Y cuando amáis a vuestros hermanos y hermanas, ya los habéis perdonado. Esta capacidad de comprender la naturaleza humana y perdonar las malas acciones aparentes es divina».
 - Jesús disfrutó de una fe sublime y sincera en Dios. Nunca dudó de la certeza de la vigilancia y la guía de Dios.

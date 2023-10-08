@@ -64,11 +64,11 @@ Esto nos coloca a los Lanonandeks con una edad mayor de 200.000 millones de año
 
 Y hasta aquí todo iría bien si, tal y como hizo Sadler, no tenemos en cuenta las siguientes citas:
 
-En el documento 53 (“La rebelión de Lucifer”), sección 4, podemos leer:
+En el documento 53 («La rebelión de Lucifer»), sección 4, podemos leer:
 
 > _El manifiesto de Lucifer se publicó en el cónclave anual de Satania celebrado en el mar de cristal, en presencia de las huestes reunidas de Jerusem, el último día del año hace unos doscientos mil años del tiempo de Urantia._ <a id="a68_228"></a>[LU 53:4.1](/es/The_Urantia_Book/53#p4_1)
 
-Más adelante, en el documento 54 (“Los problemas de la rebelión de Lucifer”), sección 5:
+Más adelante, en el documento 54 («Los problemas de la rebelión de Lucifer»), sección 5:
 
 > _12. El tiempo, incluso en un universo temporal, es relativo: si un mortal de Urantia con una vida de duración media cometiera un crimen que provocara un pandemonio mundial, y si fuera detenido, juzgado y ejecutado a los dos o tres días de haber perpetrado el crimen, ¿os parecería un tiempo muy largo? Y sin embargo, esta comparación es la más cercana teniendo en cuenta la duración de la vida de Lucifer, aunque su juicio, ya iniciado, no finalice hasta dentro de cien mil años de Urantia. Desde el punto de vista de Uversa, donde el litigio está pendiente, este período relativo de tiempo podría ser indicado diciendo que el crimen de Lucifer fue llevado a juicio a los dos segundos y medio de haberse cometido. Desde el punto de vista del Paraíso, el juicio es simultáneo con el acto._ <a id="a72_792"></a>[LU 54:5.13](/es/The_Urantia_Book/54#p5_13)
 

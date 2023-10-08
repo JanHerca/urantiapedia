@@ -46,7 +46,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 - «ser como Dios» = ser como Jesús.
 
-## Los Documentos de Urantia sobre la "experiencia espiritual".
+## Los Documentos de Urantia sobre la
 
 > «Toda la experiencia de la comunión con el Ajustador implica poseer un estado moral, una motivación mental y una experiencia espiritual». (<a id="a50_141"></a>[LU 5:2.6](/es/The_Urantia_Book/5#p2_6))
 
@@ -68,7 +68,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > La unión de la verdad, la belleza y la bondad sólo se puede realizar en la experiencia espiritual de la personalidad que conoce a Dios. (<a id="a68_139"></a>[LU 196:3.24](/es/The_Urantia_Book/196#p3_24))
 
-Entonces, realizando a Dios, siendo consciente de la divinidad; comunicándonos con nuestro Ajustador del Pensamiento; adorar a Dios; conocer a Dios como Padre; entronizando a Dios en nuestros corazones; experimentando "bien"; darse cuenta de la unidad de la verdad, la belleza y la bondad; todos estos son ejemplos de lo que significa una experiencia espiritual.
+Entonces, realizando a Dios, siendo consciente de la divinidad; comunicándonos con nuestro Ajustador del Pensamiento; adorar a Dios; conocer a Dios como Padre; entronizando a Dios en nuestros corazones; experimentando darse cuenta de la unidad de la verdad, la belleza y la bondad; todos estos son ejemplos de lo que significa una experiencia espiritual.
 
 Quizás también, cuando una experiencia mundana produce un «gracias, Dios» que no está contaminado por el egoísmo, y es tanto sincero como sincero, entonces esa experiencia califica para ser considerada por nuestro Ajustador del Pensamiento para ser espiritualizada, y por lo tanto convertirse en una parte integral. parte de nuestra alma en crecimiento.
 

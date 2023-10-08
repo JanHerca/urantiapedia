@@ -48,11 +48,11 @@ Las filosofías materialistas son filosofías de sustancia que postulan un unive
 
 En contraste, la filosofía del proceso moderno asume que todo está en un estado de devenir dinámico. Incluso las partículas que existen en los niveles subatómicos son transitorias, están formadas por «ocasiones de experiencia» o «entidades actuales», que habiendo cumplido su momento de devenir, captan o «aprehenden» otras partículas para influir, a su vez , su momento de ser.
 
-Para Whitehead, las influencias combinadas de sus "entidades reales" dan lugar a sociedades o grupos que componen los objetos vivos y no vivos de la realidad finita.
+Para Whitehead, las influencias combinadas de susdan lugar a sociedades o grupos que componen los objetos vivos y no vivos de la realidad finita.
 
 Visto como un regreso bastante extravagante a la edad oscura cuando Whitehead lo propuso por primera vez a fines de la década de 1920, este concepto se ha vuelto cada vez menos extravagante a medida que los hallazgos de la física moderna han descubierto niveles de existencia cada vez más profundos por debajo del átomo.
 
-Por ejemplo, la evidencia actual indica que los protones y los neutrones que forman el núcleo atómico están hechos de partículas aún más pequeñas: los quarks y los gluones, pero estos solo representan alrededor del 50 % del momento angular de un nucleón. Se supone que el impulso restante se distribuye entre partículas "virtuales" que toman prestada energía del vacío para mantener su momento de existencia. La evidencia de la existencia real de estas partículas virtuales es abrumadoramente fuerte.
+Por ejemplo, la evidencia actual indica que los protones y los neutrones que forman el núcleo atómico están hechos de partículas aún más pequeñas: los quarks y los gluones, pero estos solo representan alrededor del 50 % del momento angular de un nucleón. Se supone que el impulso restante se distribuye entre partículasque toman prestada energía del vacío para mantener su momento de existencia. La evidencia de la existencia real de estas partículas virtuales es abrumadoramente fuerte.
 
 > Todo lo que he visto me enseña a confiar en el Creador por todo lo que no he visto.
 > _Ralph Waldo Emerson_
@@ -62,7 +62,7 @@ Por ejemplo, la evidencia actual indica que los protones y los neutrones que for
 
 Por lo tanto, cuanto más han ahondado los científicos en la «sustancia» de la materia, más sentido han tenido las propuestas de Whitehead.
 
-Estos conceptos presentados por Whitehead van en paralelo con muchas declaraciones hechas en los Documentos de Urantia. Los Documentos nos dicen que las cosas, ya sean de materia, mente, espíritu, eventos o ideas que están destinadas a convertirse en parte de nuestra realidad finita, en realidad comienzan su existencia como "posibilidades y potenciales existenciales" que tienen su ser en el Absoluto No Cualificado. A instancias de la Trinidad del Paraíso, estos potenciales se activan causalmente. Posteriormente, son "transmutados" a través de las agencias de la Deidad Última en su camino para convertirse en potenciales finitos bajo la custodia del Supremo.
+Estos conceptos presentados por Whitehead van en paralelo con muchas declaraciones hechas en los Documentos de Urantia. Los Documentos nos dicen que las cosas, ya sean de materia, mente, espíritu, eventos o ideas que están destinadas a convertirse en parte de nuestra realidad finita, en realidad comienzan su existencia comoque tienen su ser en el Absoluto No Cualificado. A instancias de la Trinidad del Paraíso, estos potenciales se activan causalmente. Posteriormente, sona través de las agencias de la Deidad Última en su camino para convertirse en potenciales finitos bajo la custodia del Supremo.
 
 Una vez con el Supremo, todos estos potenciales están disponibles para ser llamados a la realidad por los Creadores Supremos para sus propósitos de construcción del universo, o seres como nosotros durante las tareas de nuestra vida normal.
 
@@ -72,7 +72,7 @@ Cuando se estudia en detalle, se hace evidente que los conceptos descritos e ilu
 
 Un problema que ha ocupado durante mucho tiempo las especulaciones de los teólogos es cómo Dios puede ser inmanente (presente en todas partes) en el mundo finito y, al mismo tiempo, ser trascendente, más allá del tiempo y el espacio.
 
-La solución de Whitehead fue hacer a Dios dipolar, pero esto es diferente de la dipolaridad que atribuye a sus minúsculas "entidades reales" que tienen tanto un aspecto mental como físico.
+La solución de Whitehead fue hacer a Dios dipolar, pero esto es diferente de la dipolaridad que atribuye a sus minúsculasque tienen tanto un aspecto mental como físico.
 
 Estos tienen, dentro de sí mismos, un polo físico que puede «aprehender» o captar a otros y ser influenciados por ellos, y también un polo mental a través del cual pueden captar ideales y valores.
 
@@ -80,9 +80,9 @@ La dipolaridad de Dios se diferencia en que un polo, que representa la naturalez
 
 El concepto de Dios, tal como se presenta en los Documentos de Urantia, tiene similitudes con el Dios de Whitehead, pero es mucho más detallado y explicativo.
 
-El YO SOY infinito, la Primera Fuente y Centro como se describe en los Documentos de Urantia, tiene aspectos y fases que pueden considerarse como pertenecientes directamente a este "Yo Soy", pero otros componentes parecen estar separados e individuales. Por ejemplo, los Absolutos Universales, No Cualificados y Calificados se conocen como fases del "Yo Soy", mientras que el Padre Universal es ese aspecto del "Yo Soy" que es comprensible para los mortales finitos como nosotros. Sin embargo, el Ser Supremo, que está virtualmente completamente inmerso en la realidad finita como el Dios experiencial del Universo Maestro, se aproxima a la naturaleza consecuente y dependiente de Whitehead de su Dios dipolar.
+El YO SOY infinito, la Primera Fuente y Centro como se describe en los Documentos de Urantia, tiene aspectos y fases que pueden considerarse como pertenecientes directamente a este pero otros componentes parecen estar separados e individuales. Por ejemplo, los Absolutos Universales, No Cualificados y Calificados se conocen como fases del mientras que el Padre Universal es ese aspecto delque es comprensible para los mortales finitos como nosotros. Sin embargo, el Ser Supremo, que está virtualmente completamente inmerso en la realidad finita como el Dios experiencial del Universo Maestro, se aproxima a la naturaleza consecuente y dependiente de Whitehead de su Dios dipolar.
 
-De manera similar, con los detalles de la transmutación de posibilidades existenciales, potenciales y reales para convertirse en componentes "reales" de los universos finitos, la filosofía del proceso no ofrece más detalles que las "ocasiones de experiencia" o "entidades reales" que se originan de la visión de Dios de todos los posibilidades que hay para el mundo. El concepto de Whitehead se interpreta en el sentido de que en su naturaleza primordial, Dios contempla todas estas posibilidades y potenciales, luego de este almacén de "objetos eternos" ofrece objetivos a cada entidad actual al comienzo de su período de crecimiento.
+De manera similar, con los detalles de la transmutación de posibilidades existenciales, potenciales y reales para convertirse en componentesde los universos finitos, la filosofía del proceso no ofrece más detalles que lasoque se originan de la visión de Dios de todos los posibilidades que hay para el mundo. El concepto de Whitehead se interpreta en el sentido de que en su naturaleza primordial, Dios contempla todas estas posibilidades y potenciales, luego de este almacén deofrece objetivos a cada entidad actual al comienzo de su período de crecimiento.
 
 > La fe es la osadía del alma de ir más allá de lo que puede ver.
 
@@ -98,9 +98,9 @@ De estos «neurofisólogos cuánticos» ha surgido la sugerencia de que el «yo�
 
 Dicho en lenguaje sencillo, la sugerencia es que, en respuesta a una serie de eventos para los que necesitamos tomar una decisión, a partir de su biblioteca de experiencias previas que son coincidencias aproximadas con la situación actual, nuestro cerebro nos ofrece los posibles cursos de acción entre que podemos hacer nuestra selección.
 
-Este concepto de lo que "yo" hace tiene similitudes con lo que nos dicen los Documentos de Urantia, con la diferencia de que, para los Documentos, nuestro "cerebro" es en realidad una estación de retransmisión mecánica que está conectada con el Supremo a través de los Espíritus ayudantes de la mente y el Universo. Espíritu Madre. El Supremo es el poseedor de la «biblioteca» de combinaciones de potenciales entre los cuales debemos tomar nuestras decisiones de acuerdo con la dirección de nuestros Ajustadores del Pensamiento y el Espíritu de la Verdad (si estamos escuchando) y los deseos de nuestra propia voluntad.
+Este concepto de lo quehace tiene similitudes con lo que nos dicen los Documentos de Urantia, con la diferencia de que, para los Documentos, nuestroes en realidad una estación de retransmisión mecánica que está conectada con el Supremo a través de los Espíritus ayudantes de la mente y el Universo. Espíritu Madre. El Supremo es el poseedor de la «biblioteca» de combinaciones de potenciales entre los cuales debemos tomar nuestras decisiones de acuerdo con la dirección de nuestros Ajustadores del Pensamiento y el Espíritu de la Verdad (si estamos escuchando) y los deseos de nuestra propia voluntad.
 
-Ahora que el campo de la teología del proceso se ha vuelto "popular" entre un grupo de personas con mentalidad académica, puede suceder que se presenten oportunidades a los lectores del Libro de Urantia para llamar su atención sobre los paralelismos en los Documentos. Nuestra tarea es sembrar semillas para que otros puedan cosechar.
+Ahora que el campo de la teología del proceso se ha vueltoentre un grupo de personas con mentalidad académica, puede suceder que se presenten oportunidades a los lectores del Libro de Urantia para llamar su atención sobre los paralelismos en los Documentos. Nuestra tarea es sembrar semillas para que otros puedan cosechar.
 
 El Dr. Jim Mills (ahora fallecido), ex fideicomisario y incondicional de _El Libro de Urantia_ desde hace mucho tiempo, tenía una fuerte opinión de que la filosofía del proceso sería la vía por la cual los Documentos de Urantia encontrarían su camino hacia el mundo académico y de allí de regreso al iglesias Hasta el momento, la esperanza de Jim no ha dado frutos tangibles. Tal vez fue prematuro, pero tal vez ahora se están abriendo nuevas ventanas de oportunidad.
 

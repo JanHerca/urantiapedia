@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un diálogo sobre “El Reino de los Cielos”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un diálogo sobre «El Reino de los Cielos»</span>
         </a>
         </td>
         <td>
@@ -80,7 +80,7 @@ San Francisco. 2002
       <tr>
         <td>
         <a href="/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un diálogo sobre “El Reino de los Cielos”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un diálogo sobre «El Reino de los Cielos»</span>
         </a>
         </td>
         <td>

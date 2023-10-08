@@ -122,10 +122,10 @@ Esta especulación sobre el tamaño del universo es un paso necesario para obser
 
 ## Referencias
 
-[^1]: Consulte "Limitaciones de Revelation" en <a id="a124_47"></a>[LU 101:4](/es/The_Urantia_Book/101#p4).
+[^1]: Consulte «Limitaciones de Revelation» en <a id="a124_47"></a>[LU 101:4](/es/The_Urantia_Book/101#p4).
 
 [^2]: [Apéndices de un estudio del Universo Maestro](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe), William Sadler Jr., The Second Society Foundation, Chicago, IL.
 
-[^3]: "El proyecto de campo profundo de Hubbell", Notre Dame Science Quarterly, marzo de 1996
+[^3]: «El proyecto de campo profundo de Hubbell», Notre Dame Science Quarterly, marzo de 1996
 
-[^4]: "Construcción del cosmos" de John Horgan, "Exploraciones científicas americanas", en [www.sciam.com/explorations/index.html](http://www.sciam.com/explorations/index.html ), (20 de enero de 1997)
+[^4]: «Construcción del cosmos» de John Horgan, «Exploraciones científicas americanas», en [www.sciam.com/explorations/index.html](http://www.sciam.com/explorations/index.html ), (20 de enero de 1997)

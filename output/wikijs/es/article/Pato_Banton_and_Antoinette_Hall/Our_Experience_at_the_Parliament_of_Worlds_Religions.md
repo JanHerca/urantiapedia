@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=ZWXBU3JvU64
 
 Teniendo en cuenta que la mayoría de las organizaciones con las que estábamos involucrados también estaban trabajando juntas de maneras únicas, era obvio que la esencia de la Unidad Espiritual y el Trabajo en Equipo estaba en pleno efecto en muchas áreas del Parlamento de las Religiones del Mundo.
 
-Otra cosa de la que me di cuenta durante nuestra actuación fue que la mayoría de los «visitantes» del parlamento en realidad no «pertenecían» a ninguna organización religiosa específica. Pregunté, «cuántas personas aquí están disfrutando de la »Libertad Espiritual o la Libertad Espiritual“ y me sorprendió ver a la mayoría de los asistentes levantar la mano en el aire, acompañados de enormes sonrisas en los rostros de todos. Era como una declaración tácita de que todos estábamos montando la misma «ola» que nos llevaría a la misma orilla de nuestro futuro destino espiritual.
+Otra cosa de la que me di cuenta durante nuestra actuación fue que la mayoría de los «visitantes» del parlamento en realidad no «pertenecían» a ninguna organización religiosa específica. Pregunté, «cuántas personas aquí están disfrutando de la »Libertad Espiritual o la Libertad Espiritual« y me sorprendió ver a la mayoría de los asistentes levantar la mano en el aire, acompañados de enormes sonrisas en los rostros de todos. Era como una declaración tácita de que todos estábamos montando la misma «ola» que nos llevaría a la misma orilla de nuestro futuro destino espiritual.
 
 https://www.youtube.com/watch?v=6VguZ0vBuso
 

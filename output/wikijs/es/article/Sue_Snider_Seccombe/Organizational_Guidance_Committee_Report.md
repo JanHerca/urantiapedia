@@ -74,7 +74,7 @@ A medida que nos preparamos para avanzar, estamos utilizando los valiosos conoci
 
 2. Amplificar el uso de la tecnología
 
-	- **Objetivo de presencia en línea** - Los adultos jóvenes de hoy son "nativos digitales"; viven en sus teléfonos inteligentes y necesitamos poder interactuar con ellos en su mundo. El equipo de tecnología de Fellowship está trabajando en la optimización de motores de búsqueda para que nuestros recursos aparezcan en línea justo donde las personas están buscando, además de crear contenido para nuevos lectores. Estaremos recomendando algunos proyectos específicos para aumentar nuestras conexiones digitales y abrir nuevas puertas para compartir, preguntar y dialogar.
+	- **Objetivo de presencia en línea** - Los adultos jóvenes de hoy son viven en sus teléfonos inteligentes y necesitamos poder interactuar con ellos en su mundo. El equipo de tecnología de Fellowship está trabajando en la optimización de motores de búsqueda para que nuestros recursos aparezcan en línea justo donde las personas están buscando, además de crear contenido para nuevos lectores. Estaremos recomendando algunos proyectos específicos para aumentar nuestras conexiones digitales y abrir nuevas puertas para compartir, preguntar y dialogar.
 	Hay tantas oportunidades aquí, y estamos agradecidos de tener a Jena Lassiter y Albert Einstein Lassiter en nuestro comité, quienes aportan tanto conocimiento sobre tecnología a la mesa. Junto con Richard Daunt, Barry Clark, Gary Tonge y muchos otros que están creando una presencia digital más sofisticada para la Fraternidad, estamos progresando.
 	- **Conviértase en una organización más receptiva** - A medida que la tecnología cambie y se hagan posibles nuevas formas de conexión, la Fraternidad podrá adaptarse y responder más rápidamente.
 
@@ -82,7 +82,7 @@ A medida que nos preparamos para avanzar, estamos utilizando los valiosos conoci
 
 	- **Simplificar la gobernanza** - Estamos investigando el enfoque más inteligente sobre cómo estamos estructurados, tomamos decisiones, votamos e interactuamos con miembros y sociedades. El objetivo es crear un órgano de toma de decisiones más ágil sin perder los valiosos conocimientos y opiniones que surgen de la discusión y el debate. También estamos explorando métodos sobre cómo podemos compartir y escuchar de manera más regular a los miembros, trabajar y apoyar a las sociedades e interactuar con aquellos que sienten curiosidad por saber quiénes somos y qué hacemos.
 	- **Afinar las sinergias del comité** - La forma en que el mundo se comunica ha cambiado drásticamente desde 1955 y es posible que debamos modificarnos un poco para alinearnos más estrechamente con las necesidades de aquellos a quienes servimos con un objetivo, un mensaje y un objetivo coherentes. presencia.
-	Ha sido especialmente valioso tener a Dan Amyx en nuestro comité: su larga permanencia en la Fraternidad y sus archivos mentales de "estuve allí, hice eso" nos han ayudado a avanzar sin reinventar la rueda.
+	Ha sido especialmente valioso tener a Dan Amyx en nuestro comité: su larga permanencia en la Fraternidad y sus archivos mentales denos han ayudado a avanzar sin reinventar la rueda.
 	 - **Maximizar nuestro uso de la Encuesta de Adultos Jóvenes** - Para guiar el desarrollo de estrategias, recursos, enfoques y mensajes a fin de conectarse y compartir con la próxima ola de lectores, implementaremos los conocimientos de un nuevo estudio de investigación ( ver más abajo) que ahora lleva a cabo la Fraternidad.
 
 ## Encuesta de adultos jóvenes

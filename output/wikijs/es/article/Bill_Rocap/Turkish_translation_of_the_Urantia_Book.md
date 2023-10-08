@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/026.jpg">
 </figure>
 
-Ha sido un objetivo personal de Bill Rocap ver la finalización de la traducción del Libro de Urantia al idioma turco. Siendo tan bendecido de vivir en Turquía, de estar inmerso en una historia y una cultura tan ricas, de compartir la vida con esta gente amistosa, Bill sintió que debía "devolver el favor" con la traducción de su libro espiritual favorito.
+Ha sido un objetivo personal de Bill Rocap ver la finalización de la traducción del Libro de Urantia al idioma turco. Siendo tan bendecido de vivir en Turquía, de estar inmerso en una historia y una cultura tan ricas, de compartir la vida con esta gente amistosa, Bill sintió que debía «devolver el favor» con la traducción de su libro espiritual favorito.
 
 _The Urantia Book_ Society of Greater New York patrocinó el proceso de traducción y ha proporcionado el dinero y la asistencia vitales para lograr este objetivo. Para ver la traducción al turco del Libro de Urantia, vaya a:
 

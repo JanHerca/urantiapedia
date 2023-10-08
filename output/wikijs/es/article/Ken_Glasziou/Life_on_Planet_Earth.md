@@ -44,7 +44,7 @@ Las cianobacterias son fotosintéticas. Atrapan la luz del sol usando clorofila 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book/spriggina.jpg">
-<figcaption><em><b>Spriggina</b>. Estudios intensivos habían llevado a la conclusión de que el ediacárico "Spriggina" era un gusano primitivo que tenía partes distintivas en la cabeza y la cola.</em> </figcaption>
+<figcaption><em><b>Spriggina</b>. Estudios intensivos habían llevado a la conclusión de que el ediacáricoera un gusano primitivo que tenía partes distintivas en la cabeza y la cola.</em> </figcaption>
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -60,7 +60,7 @@ Este nivel de oxígeno parece haber sido alcanzado hace más de dos mil millones
 
 La evidencia más temprana de la existencia de los eucariotas proviene de esquistos de 2.700 millones de años en Australia Occidental en los que se han encontrado moléculas de hidrocarburos llamadas esteranos. Estos son producidos exclusivamente por organismos eucariotas.
 
-Los primeros fósiles que indican inequívocamente la existencia de especies más altamente desarrolladas son los rastros de rastreo de criaturas parecidas a gusanos que habitan en el fondo del mar, y se encuentran entre los fósiles de Ediacara que se encuentran tan temprano como hace unos mil millones de años, pero desaparecen como el La explosión cámbrica de formas de vida ganó terreno hace unos 550 millones de años. Entre los fósiles de Ediacara también se encuentran "tubos de vivienda" compuestos principalmente de carbonato de calcio (cal) que probablemente fueron secretados por criaturas sésiles parecidas a gusanos que se alimentan por filtración.
+Los primeros fósiles que indican inequívocamente la existencia de especies más altamente desarrolladas son los rastros de rastreo de criaturas parecidas a gusanos que habitan en el fondo del mar, y se encuentran entre los fósiles de Ediacara que se encuentran tan temprano como hace unos mil millones de años, pero desaparecen como el La explosión cámbrica de formas de vida ganó terreno hace unos 550 millones de años. Entre los fósiles de Ediacara también se encuentrancompuestos principalmente de carbonato de calcio (cal) que probablemente fueron secretados por criaturas sésiles parecidas a gusanos que se alimentan por filtración.
 
 El nombre Ediacaran proviene del descubrimiento de los fósiles de un grupo de criaturas extrañas, hasta entonces desconocidas, en la cordillera de Ediacaran en el sur de Australia. Los primeros descubrimientos provinieron de rocas de unos 575 millones de años y fueron de criaturas parecidas a medusas. Tales animales fósiles nunca se habían encontrado en rocas de más de 550 millones de años, el comienzo del período Cámbrico. Desde ese primer descubrimiento, se han descubierto otros fósiles clasificados con este grupo en todos los continentes excepto en la Antártida y datan de hace casi mil millones de años.
 
@@ -75,20 +75,20 @@ Inicialmente, se declaró que estos ediacaranos eran un grupo de organismos comp
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book/charniodiscus.jpg">
-<figcaption><em><b>Charniodiscus</b>. Este organismo con forma de hoja tenía un "soporte" en su base para anclarlo al fondo del mar. La estructura en forma de hoja creció hasta unos 10 pies de largo y puede haber albergado pequeños pólipos que se alimentaban por filtración de los cuales obtenía sus nutrientes.</em></figcaption>
+<figcaption><em><b>Charniodiscus</b>. Este organismo con forma de hoja tenía unen su base para anclarlo al fondo del mar. La estructura en forma de hoja creció hasta unos 10 pies de largo y puede haber albergado pequeños pólipos que se alimentaban por filtración de los cuales obtenía sus nutrientes.</em></figcaption>
 </figure>
 
 Entonces, ¿cómo explicamos la afirmación de _El Libro de Urantia_ de que los Portadores de vida trajeron vida a este planeta por primera vez hace sólo 550 millones de años?
 
-Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada como "no inspirada" que puede consistir en un "marco universal" por el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. (<a id="a82_247"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada comoque puede consistir en unpor el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. (<a id="a82_247"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
-Alternativamente, puede estar cubierto por las siguientes declaraciones: "El plasma de vida original de un mundo evolutivo debe contener todo el potencial para todas las variaciones de desarrollo futuras y para todos los cambios y modificaciones evolutivos posteriores". (<a id="a84_272"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
+Alternativamente, puede estar cubierto por las siguientes declaraciones: (<a id="a84_272"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
 
 > «El yo material, la entidad-ego de la identidad humana, depende del funcionamiento continuo del vehículo vital material, de la existencia continua del equilibrio inestable entre las energías y el intelecto, a lo que se le ha dado el nombre de vida en Urantia.» (<a id="a86_264"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20))
 
-Es muy posible que el potencial genético de las formas celulares antes del comienzo del período Cámbrico fuera bastante incapaz de generar eventualmente organismos vivos "inteligentes". Y que solo un organismo que tiene un genoma con el potencial de evolucionar en última instancia para tener "intelecto" entra dentro de la definición de lo que los Portadores de Vida entienden como "vida".
+Es muy posible que el potencial genético de las formas celulares antes del comienzo del período Cámbrico fuera bastante incapaz de generar eventualmente organismos vivos Y que solo un organismo que tiene un genoma con el potencial de evolucionar en última instancia para tenerentra dentro de la definición de lo que los Portadores de Vida entienden como
 
-Si es así, la función probable de los Portadores de Vida habría sido reorganizar el material genético existente para que, en una fecha lejana, la vida que tuviera "intelecto" tuviera una alta probabilidad de evolucionar. Si esto es cierto, entonces lo más probable es que estos organismos ediacáricos fueran la fuente principal del material genético utilizado para realizar esta tarea.
+Si es así, la función probable de los Portadores de Vida habría sido reorganizar el material genético existente para que, en una fecha lejana, la vida que tuvieratuviera una alta probabilidad de evolucionar. Si esto es cierto, entonces lo más probable es que estos organismos ediacáricos fueran la fuente principal del material genético utilizado para realizar esta tarea.
 
 ## Enlaces externos
 

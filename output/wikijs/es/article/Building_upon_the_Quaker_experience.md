@@ -38,9 +38,9 @@ El objetivo final establecido por George Fox, uno de los padres fundadores del m
 
 Los cuáqueros sinceros estaban relativamente en desventaja en comparación con los que tienen los Documentos de Urantia. Aunque los fundamentos de la vida de Jesús se pueden discernir de los Evangelios (con la guía del Espíritu que mora en ellos), contienen algunas declaraciones doctrinales engañosas. Los más importantes entre estos son dos versículos de [Juan 3](/es/Bible/John/3):
 
-> «Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito para que todo aquel que en él cree no se pierda, mas tenga vida eterna.» Y, "El que cree en el Hijo tiene vida eterna; y el que no cree en el Hijo no verá la vida, sino que la ira de Dios está sobre él".[^1]
+> «Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito para que todo aquel que en él cree no se pierda, mas tenga vida eterna.» Y, «El que cree en el Hijo tiene vida eterna; y el que no cree en el Hijo no verá la vida, sino que la ira de Dios está sobre él».[^1]
 
-Estos versículos conducen fácilmente a una mentalidad de exclusividad: “Yo tengo razón, tú estás equivocado. Cree como yo o serás condenado. Fox pretendía que su filosofía fuera universal, pero las mentes de los hombres se adaptan fácilmente y adoptan el concepto de exclusividad. Es altamente contagioso. Ni siquiera los urantianos son inmunes.
+Estos versículos conducen fácilmente a una mentalidad de exclusividad: «Yo tengo razón, tú estás equivocado. Cree como yo o serás condenado.» Fox pretendía que su filosofía fuera universal, pero las mentes de los hombres se adaptan fácilmente y adoptan el concepto de exclusividad. Es altamente contagioso. Ni siquiera los urantianos son inmunes.
 
 > Si Jesús estuviera en la Tierra hoy, no tomaría partido en las disputas políticas, sociales o económicas actuales. Más bien, haría a los hombres semejantes a Dios y dejaría que resolvieran sus propios problemas puramente humanos. (ver <a id="a44_237"></a>[LU 140:8.17](/es/The_Urantia_Book/140#p8_17))
 
@@ -126,7 +126,7 @@ Lo más cercano que tenemos a una definición de espiritualidad en los Documento
 
 La vida de Jesús fue una revelación, comprensible para los mortales como nosotros, como el «máximo de la semejanza de Dios». De ahí la afirmación del Documento de que lo más importante en nuestras vidas es conocer la vida de Jesús y cómo la vivió.
 
-Quizás el mejor enfoque sea ver la espiritualidad como algo que se genera más o menos inconscientemente por experiencias a las que se les da significado y valor por el «toque» de la divinidad—conceptos tales como verdad, belleza, bondad, tolerancia, paciencia, tolerancia, equidad, confianza, paz, desinterés, etc. Todas estas son propiedades de "semejanza a Dios" que, cuando se captan e incorporan a nuestra individualidad, tienen el potencial de espiritualizar nuestras experiencias y, por lo tanto, se convierten en la realidad espiritual que, a través de nuestro Dios-Espíritu que mora en nosotros, puede generar nuestra alma eterna.
+Quizás el mejor enfoque sea ver la espiritualidad como algo que se genera más o menos inconscientemente por experiencias a las que se les da significado y valor por el «toque» de la divinidad—conceptos tales como verdad, belleza, bondad, tolerancia, paciencia, tolerancia, equidad, confianza, paz, desinterés, etc. Todas estas son propiedades de «semejanza a Dios» que, cuando se captan e incorporan a nuestra individualidad, tienen el potencial de espiritualizar nuestras experiencias y, por lo tanto, se convierten en la realidad espiritual que, a través de nuestro Dios-Espíritu que mora en nosotros, puede generar nuestra alma eterna.
 
 Hay un ciclo de retroalimentación involucrado en la creación de nuestras almas. Este proceso está bajo el control del Dios-Espíritu-Interno, que es tanto la fuente de nuestras aspiraciones de alcanzar la semejanza de Dios como el canal de control por el cual se conservan nuestras experiencias espiritualizadas para el proceso de formación del alma. Y la ayuda está siempre a mano:
 

@@ -123,7 +123,7 @@ El Comité de Vida Familiar es un adjunto del comité permanente de Jóvenes y A
 
 Además, agregaremos nuevos programas y materiales a medida que estén disponibles. Habrá una opción de menú para nuevos programas y esperamos que los padres prueben nuevas ideas y den su opinión para mejorar los materiales.
 
-Finalmente, el Comité de Vida Familiar participará en la pista "Bring the Kids" en IC14. Esperamos tener un pequeño mercado de Jerusalén y ofrecer algunos talleres para apoyar la crianza de los hijos y la vida familiar, como reuniones familiares y estrategias de crianza basadas en valores. Envíe sus solicitudes y/o ideas a Janet Graham a: jfarrg@gmail.com. Esperamos ver muchos niños y sus padres en la Conferencia Internacional 2014 de la Fellowship.
+Finalmente, el Comité de Vida Familiar participará en la pistaen IC14. Esperamos tener un pequeño mercado de Jerusalén y ofrecer algunos talleres para apoyar la crianza de los hijos y la vida familiar, como reuniones familiares y estrategias de crianza basadas en valores. Envíe sus solicitudes y/o ideas a Janet Graham a: jfarrg@gmail.com. Esperamos ver muchos niños y sus padres en la Conferencia Internacional 2014 de la Fellowship.
 
 Gracias al Comité YaYA por patrocinar el comité adjunto de Vida Familiar. Estén atentos para conocer más noticias emocionantes a medida que integramos la vida familiar en el estudio y el servicio de revelación.
 
@@ -177,7 +177,7 @@ Es una idea que comenzó hace 25 años cuando instalé una línea telefónica ad
 - ¿Estás espiritualmente hambriento y sigues buscando?
 - Jesús, una mirada nueva y fresca 2.000 años después.
 
-Todos fueron seguidos por “Para recibir un mensaje grabado gratuito sobre _El Libro de Urantia_ llame a \*\*\*-\*\*\*\*
+Todos fueron seguidos por «Para recibir un mensaje grabado gratuito sobre _El Libro de Urantia_ llame a \*\*\*-\*\*\*\*»
 
 Mo Siegel y Paula Thompson tomaron esto y lo ejecutaron creando una campaña en el área de Denver/Boulder que fue vista por miles.
 

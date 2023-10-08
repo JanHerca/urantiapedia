@@ -67,7 +67,7 @@ Sin embargo, en consonancia con el tema de no perder lo esencial y bueno del pas
 
 Algunos de estos ideales se pueden lograr en línea; es una bendición vivir en una época en la que las relaciones se pueden mantener virtualmente. Pero también hemos visto la necesidad de una compañía cara a cara durante la reciente cuarentena pandémica. El movimiento Urantia necesita comunidades locales sanas, así como una perspectiva global. Debemos buscar «mantener los ideales de lo que ha sobrevivido en aras del tránsito seguro de los valores morales», incluso cuando buscamos «hacer que las cosas sean lo que deberían ser».
 
-Además de las sesiones regulares de estudio de verano, los esfuerzos para visitar y apoyar a los grupos locales (infórmele al comité si desea un presentador visitante) y los foros de talleres en línea, el comité busca a través de sus recursos combinar "lo que debería ser" con progreso. La página web del comité pronto existirá en el nuevo sitio web de la Fraternidad tal como solía ser. Mientras tanto, muchos de nuestros recursos descargables están disponibles en https://urantiabook.org/EducationCommittee-Resources.
+Además de las sesiones regulares de estudio de verano, los esfuerzos para visitar y apoyar a los grupos locales (infórmele al comité si desea un presentador visitante) y los foros de talleres en línea, el comité busca a través de sus recursos combinar «lo que debería ser» con progreso. La página web del comité pronto existirá en el nuevo sitio web de la Fraternidad tal como solía ser. Mientras tanto, muchos de nuestros recursos descargables están disponibles en https://urantiabook.org/EducationCommittee-Resources.
 
 El comité espera verlo en línea y en SSS21, ¡todos los temas de aislamiento están dispuestos!
 

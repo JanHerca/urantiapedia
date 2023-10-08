@@ -1,5 +1,5 @@
 ---
-title: "Otro y Mayor Juan Bautista!"
+title: "¡Otro y Mayor Juan Bautista!"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
-          <span class="pr-2">Plan A. Cúal era?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El Plan A. ¿Cúal era?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -94,7 +94,7 @@ De hecho, es una alegría vivir en una era donde el mensaje vivo de Jesús del �
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
-          <span class="pr-2">Plan A. Cúal era?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El Plan A. ¿Cúal era?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -54,7 +54,7 @@ Lo hecho, hecho está. Ahora tenemos que vivir con ello. ¿Qué podemos hacer co
 
 Sólo la verdad puede curar las heridas. No tenemos más remedio que admitir nuestra terquedad y luego buscar formas y medios para reparar el daño. Parece obvio que los reveladores esperaban lo que realmente se hizo. De ahí que deban considerar que la situación es reversible, porque no nos dicen, «la revelación de Dios al mundo, en y a través de Jesús, **no fallará.**»
 
-Una forma podría ser que una nueva edición del libro comience con una explicación que informe sobre los términos del mandato. También podría referirse a la multitud de fuentes humanas. (1343) El término «cosmología». tal como se usa en el libro, debe entenderse como un término metafísico que trata del mundo como un todo, no simplemente con su significado actual como "solo astrofísica".
+Una forma podría ser que una nueva edición del libro comience con una explicación que informe sobre los términos del mandato. También podría referirse a la multitud de fuentes humanas. (1343) El término «cosmología». tal como se usa en el libro, debe entenderse como un término metafísico que trata del mundo como un todo, no simplemente con su significado actual como
 
 Sin embargo, tales sugerencias pueden fallar. Incluso puede ser necesario que los lectores más jóvenes e ilustrados tengan que esperar las circunstancias adecuadas para tener la oportunidad de tomar las medidas correctivas apropiadas.
 
@@ -70,7 +70,7 @@ El ideal para nosotros se expone en la p. 2044. «Os amaréis los unos a los otr
 
 Parece bastante probable que los seguidores del Libro de Urantia no produzcan este tipo de fruto espiritual hasta que se establezcan organizaciones de servicio reales que, al mismo tiempo, den testimonio de la revelación de Urantia.
 
-Quienes estén familiarizados con la escena de la "pobreza absoluta" conocerán bien la frase "Gracias a Dios por los Salvos". Tal vez habrá poco progreso con la revelación de Urantia hasta que "Gracias a Dios por los urantianos" también se vuelva familiar entre aquellos que lo necesitan desesperadamente.
+Quienes estén familiarizados con la escena de laconocerán bien la frase Tal vez habrá poco progreso con la revelación de Urantia hasta quetambién se vuelva familiar entre aquellos que lo necesitan desesperadamente.
 
 > ¿Para qué es tu vida? Es incluso un vapor que aparece por un poco de tiempo y luego se desvanece. [Santiago 4:14](/es/Bible/James/4#v14)
 

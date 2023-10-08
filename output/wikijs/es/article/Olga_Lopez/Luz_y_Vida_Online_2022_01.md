@@ -62,7 +62,7 @@ Existe una hermosa leyenda de origen medieval que recoge la historia sobre un te
 
 «Un día, san Agustín paseaba por la orilla del mar dando vueltas en su cabeza a muchas de las doctrinas sobre la realidad de Dios, una de ellas, la doctrina de la Trinidad. De repente, alzó la vista y vio a un hermoso niño que estaba jugando en la arena, a la orilla del mar. Lo observó más de cerca y vio que el niño corría hacia el mar, llenaba el cubo de agua del mar y volvía donde estaba antes vaciando el agua en un agujero en la arena. Así el niño lo hacía una y otra vez.»
 
-«Hasta que ya san Agustín, sumido en gran curiosidad se acercó al niño y le preguntó “‘Oye, niño, ¿qué haces?’ Y el niño le respondió: ‘Estoy sacando toda el agua del mar y la voy a poner en este hoyo’. Y san Agustín dice: ‘Pero eso es imposible’.»
+«Hasta que ya san Agustín, sumido en gran curiosidad se acercó al niño y le preguntó «‘Oye, niño, ¿qué haces?’ Y el niño le respondió: ‘Estoy sacando toda el agua del mar y la voy a poner en este hoyo’. Y san Agustín dice: ‘Pero eso es imposible’.»
 
 «Y el niño responde: ‘Más imposible es tratar de hacer lo que tú estás haciendo: tratar de comprender en tu mente pequeña el misterio de Dios’.»
 
@@ -153,7 +153,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 Nos vemos en tus sueños (Olga López)
 
-En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dice que el Ajustador del Pensamiento intenta comunicarse con nosotros por medio de los sueños, aunque el canal de transmisión se vea demasiado a menudo trastornado por nuestros propios pensamientos, miedos y obsesiones. Un buen día, me pregunté cómo sería esa comunicación si, por una circunstancia dada, estuviéramos obligados a “escuchar” al Ajustador. Y ahí nació mi segunda novela. En este ejercicio de imaginación creé a Ángel, un protagonista experto en huir hacia adelante, un joven profesional totalmente volcado en su trabajo al que, de repente, una circunstancia trágica le “obliga” a escuchar a su chispa divina, y ese hecho transforma por completo su vida y su visión de la existencia.»
+En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dice que el Ajustador del Pensamiento intenta comunicarse con nosotros por medio de los sueños, aunque el canal de transmisión se vea demasiado a menudo trastornado por nuestros propios pensamientos, miedos y obsesiones. Un buen día, me pregunté cómo sería esa comunicación si, por una circunstancia dada, estuviéramos obligados a «escuchar» al Ajustador. Y ahí nació mi segunda novela. En este ejercicio de imaginación creé a Ángel, un protagonista experto en huir hacia adelante, un joven profesional totalmente volcado en su trabajo al que, de repente, una circunstancia trágica le «obliga» a escuchar a su chispa divina, y ese hecho transforma por completo su vida y su visión de la existencia.»
 
 [Más información sobre el libro](https://aue.urantia-association.org/inspirado-en-el-lu-nos-vemos-en-tus-suenos-de-olga-lopez/)
 <br style="clear:both" />

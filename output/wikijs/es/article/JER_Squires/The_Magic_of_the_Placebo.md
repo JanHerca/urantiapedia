@@ -46,7 +46,7 @@ Hay condiciones (como las verrugas, por ejemplo) en las que no existe un tratami
 
 Supongamos que soy un escéptico verrugoso que es lo suficientemente realista como para darme cuenta de que si creo firmemente que mis verrugas desaparecerán como resultado de un tratamiento, en realidad lo harán.
 
-¿Cómo puedo cultivar esa creencia sin vender mi alma crítica? Los "expertos" me aseguran que no puedo hacer uso de la cura excepto que me entrego a la irracionalidad. Entonces mi dilema se convierte en: "Si curo mis verrugas, mato mi alma racional".
+¿Cómo puedo cultivar esa creencia sin vender mi alma crítica? Los «expertos» me aseguran que no puedo hacer uso de la cura excepto que me entrego a la irracionalidad. Entonces mi dilema se convierte en: «Si curo mis verrugas, mato mi alma racional».
 
 ¿Quién dijo que la racionalidad tenía valor de supervivencia?
 

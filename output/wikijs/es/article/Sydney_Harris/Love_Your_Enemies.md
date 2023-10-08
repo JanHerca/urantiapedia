@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-La mayoría de la gente considera que el mandato bíblico "Ama a tus enemigos" es imposiblemente utópico o increíblemente sentimental. Esto se debe a que no han captado el significado de "ágape" o "amor", como lo dijo Jesús.
+La mayoría de la gente considera que el mandato bíblicoes imposiblemente utópico o increíblemente sentimental. Esto se debe a que no han captado el significado deo como lo dijo Jesús.
 
 Amar a tus enemigos no significa que te tengan que gustar. No significa que ya no sean tus enemigos. Nadie puede ordenarnos que nos guste lo que no nos gusta, porque las emociones no pueden ser dirigidas por leyes morales.
 

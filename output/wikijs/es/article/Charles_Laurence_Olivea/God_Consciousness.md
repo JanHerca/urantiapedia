@@ -79,7 +79,7 @@ Creo que es curiosamente revelador que «_Los nombres que las criaturas le asign
 
 De los [Documentos 1-5].
 
-El Divino Consejero, autor de estos primeros cinco artículos, tiene razón al recordarnos que lo importante es que lleguemos a «_conocerlo y aspirar a ser como él._» <a id="a81_165"></a>[[LU 1:1.6](/es/The_Urantia_Book/1#p1_6)] Sin embargo, un nombre puede definir, moldear y guiar la conciencia de alguien o algo. Dadas nuestras circunstancias Agondonter, el predominio del papel del Padre en esa lista (un tercio más), enfatiza el poder y la gracia de la Paternidad en la existencia de la personalidad humana.
+El Consejero Divino, autor de estos primeros cinco artículos, tiene razón al recordarnos que lo importante es que lleguemos a «_conocerlo y aspirar a ser como él._» <a id="a81_165"></a>[[LU 1:1.6](/es/The_Urantia_Book/1#p1_6)] Sin embargo, un nombre puede definir, moldear y guiar la conciencia de alguien o algo. Dadas nuestras circunstancias Agondonter, el predominio del papel del Padre en esa lista (un tercio más), enfatiza el poder y la gracia de la Paternidad en la existencia de la personalidad humana.
 
 La paternidad conlleva una actitud de amor y respeto que no pone condiciones. Su conciencia se revela como considerablemente más grande que incluso el amor fraternal o fraternal. Al hablar sobre la regla de oro, Jesús enseñó que en el nivel más alto o espiritual, debemos «_tratar a todos los hombres como concebimos que Dios los trataría_» <a id="a83_341"></a>[[LU 147:4.9](/es/The_Urantia_Book/147#p4_9) ]
 
@@ -122,7 +122,7 @@ Tu comprensión es infinita y Tu grandeza es inescrutable. Haces cosas grandes y
 Tú eres el Señor, que no cambia, el Padre de las Luces en quien no hay mudanza ni sombra de cambio. Tu consejo permanecerá de acuerdo con el propósito eterno que pusiste con tus hijos.
 Eres recto y justo, Tus leyes naturales son sabias y Tus mandatos espirituales son justos.
 Tu misericordia es el fruto lógico e inevitable del bien y del amor. Tú eres el Señor que ejecuta misericordia en el juicio.
-Tú eres amor. Tu «amor es universal». ¡Quien quiera puede venir! Usted “hará que todos los hombres se salven al llegar al conocimiento de [esta] verdad. No estás dispuesto a que ninguno perezca. En todas nuestras aflicciones, Tú te afliges con nosotros.
+Tú eres amor. Tu «amor es universal». ¡Quien quiera puede venir! Usted «hará que todos los hombres se salven al llegar al conocimiento de [esta] verdad». No estás dispuesto a que ninguno perezca. En todas nuestras aflicciones, Tú te afliges con nosotros.
 Tú eres nuestro Padre; un verdadero Padre; un verdadero Padre; el Padre Universal.
 Toda buena dádiva y toda dádiva perfecta desciende de Ti, Padre de las Luces. Tú eres el refugio eterno de las almas de Tus hijos e hijas. Sanas a los quebrantados de corazón y vendas las heridas del alma enferma por el pecado. Señor, Tú eres nuestro benefactor todopoderoso.
 Ya sabes «nuestras caídas y nuestros levantamientos». Todas las cosas están abiertas para Ti. Tú comprendes lo que tenemos necesidad incluso antes de que te lo pidamos.

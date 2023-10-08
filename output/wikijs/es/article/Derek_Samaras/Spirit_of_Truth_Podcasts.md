@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 https://www.youtube.com/watch?v=zxmnKFBITzU
 
-"¡Aleluya!" El saludo de Karo chispea con la vitalidad de un hombre rebosante del espíritu del Amor. Nació en una familia cristiana en Nigeria, y nuevas revelaciones lo esperaban mientras proseguía sus estudios universitarios en Trinidad y Tobago. ¿Cómo podrían los títulos en ciencias de la computación y negocios conducir a la revelación y, finalmente, a convertirse en pastor? La respuesta tiene mucho que ver con la respuesta de Karo a "un deseo que no podía explicar" de aprender sobre Melquisedec. Además de su plan de estudios regular, Karo dedicó meses y luego años a descubrir quién era realmente Melquisedec.
+"¡Aleluya!« El saludo de Karo chispea con la vitalidad de un hombre rebosante del espíritu del Amor. Nació en una familia cristiana en Nigeria, y nuevas revelaciones lo esperaban mientras proseguía sus estudios universitarios en Trinidad y Tobago. ¿Cómo podrían los títulos en ciencias de la computación y negocios conducir a la revelación y, finalmente, a convertirse en pastor? La respuesta tiene mucho que ver con la respuesta de Karo a »un deseo que no podía explicar" de aprender sobre Melquisedec. Además de su plan de estudios regular, Karo dedicó meses y luego años a descubrir quién era realmente Melquisedec.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/035.jpg">

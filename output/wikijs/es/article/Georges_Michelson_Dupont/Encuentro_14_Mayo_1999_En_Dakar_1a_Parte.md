@@ -49,10 +49,10 @@ Se establece el intercambio intercontinental e interracial de la espiritualidad 
 
 ## Canto dedicado al Ajustador
 
-“You are my night
+«You are my night
 You are my days
 You are my miracle
-In so many ways you give hope”
+In so many ways you give hope»
 
 **I.** 
 

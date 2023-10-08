@@ -47,11 +47,11 @@ Me quedé mucho rato mirando al pobre animalito que respiraba con tanta dificult
 
 Al día siguiente, abrí la puerta de la jaula y, muy lentamente, metí la mano y la apoyé en el suelo de la jaula. De nuevo el ratón se apresuró a alejarse de mí. En una lucha al azar, se estrelló contra las paredes de la jaula en un esfuerzo por escapar de mí. Pero no me moví. Me quedé allí como una estatua hasta que sentí que mi brazo se iba a caer. Me quitaba la mano y varias horas después volvía a hacerlo.
 
-Continué haciendo esto dos e incluso tres veces al día. Mientras sostenía mi mano en la jaula, descubrí que estaba tratando de hablar con Algernon en voz muy baja y gentil. “Vamos hombrecito. No te haré daño. Te prometo que." Sostuve mi mano tan quieta como pude. Le hablé en voz baja y nunca aparté los ojos de él.
+Continué haciendo esto dos e incluso tres veces al día. Mientras sostenía mi mano en la jaula, descubrí que estaba tratando de hablar con Algernon en voz muy baja y gentil. «Vamos hombrecito. No te haré daño. Te prometo que.» Sostuve mi mano tan quieta como pude. Le hablé en voz baja y nunca aparté los ojos de él.
 
-Pasaron varios días, y mientras continuaba con mi esfuerzo, comencé a notar que no estaba tan frenético. Animado, le hablé a Algernon, “Ese es un buen hombrecito. Ya ves que no te haré daño. Soy tu amigo, ratoncito.
+Pasaron varios días, y mientras continuaba con mi esfuerzo, comencé a notar que no estaba tan frenético. Animado, le hablé a Algernon, «Ese es un buen hombrecito. Ya ves que no te haré daño. Soy tu amigo, ratoncito.»
 
-Una mañana llegué a mi mano en la jaula y él no huyó de mí en absoluto. Él solo se quedó allí. Yo estaba eufórico y muy animado. Eso es todo, Algernon. Susurré, “no hay necesidad de temerme. Yo soy tu amigo. Sé mi amigo también. No tengas miedo.
+Una mañana llegué a mi mano en la jaula y él no huyó de mí en absoluto. Él solo se quedó allí. Yo estaba eufórico y muy animado. Eso es todo, Algernon. Susurré, «no hay necesidad de temerme. Yo soy tu amigo. Sé mi amigo también. No tengas miedo.»
 
 Entonces, un día, cuando puse mi mano en la jaula, se acercó a mi mano, acercó su nariz a mi dedo y lo olió. Luego se alejó. No podía creer lo feliz que me sentía. Nunca hubiera creído que algo como esto sería importante para mí, pero lo era. Era mi deseo invertir aún más tiempo en esta relación. Al día siguiente sucedió algo aún más importante. Con mi mano en la jaula, Algernon se acercó a mí y colocó su pata delantera en mi dedo. Yo estaba aún más eufórico. Lo sostuvo allí por un momento y luego se alejó lentamente.
 

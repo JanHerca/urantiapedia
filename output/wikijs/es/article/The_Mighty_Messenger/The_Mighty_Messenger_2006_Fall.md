@@ -258,9 +258,9 @@ En nuestro vuelo a Ciudad del Cabo, Sudáfrica, hicimos una breve escala en Joha
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005644.jpg">
 </figure>
 
-Una vez en Ciudad del Cabo, el reverendo John Oliver, un sacerdote anglicano, nos recibió y rápidamente nos integró en el grupo de estudio bíblico de la noche. Lee abiertamente _El Libro de Urantia_ durante los servicios y se llama a sí mismo "un puente" entre la revelación y el cristianismo. También asistimos a una conferencia vespertina en la rectoría.
+Una vez en Ciudad del Cabo, el reverendo John Oliver, un sacerdote anglicano, nos recibió y rápidamente nos integró en el grupo de estudio bíblico de la noche. Lee abiertamente _El Libro de Urantia_ durante los servicios y se llama a sí mismoentre la revelación y el cristianismo. También asistimos a una conferencia vespertina en la rectoría.
 
-El África que vimos es un bastión del Libro de Utantia "esperando que suceda". Dondequiera que íbamos, la gente hablaba fácilmente de Dios como si fuera una parte integral de sus vidas, sin inhibiciones, sin corrección política, sin reservas. La revelación está viva y próspera en Zambia y Sudáfrica.
+El África que vimos es un bastión del Libro de Utantia Dondequiera que íbamos, la gente hablaba fácilmente de Dios como si fuera una parte integral de sus vidas, sin inhibiciones, sin corrección política, sin reservas. La revelación está viva y próspera en Zambia y Sudáfrica.
 
 <figure id="Figure_16" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005645.jpg">

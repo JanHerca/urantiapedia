@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 El censista de Roma fue enviado a Galilea alrededor del año 28 d. C. Al entrar en la región, se encontró con un hombre montado en un burro. El hombre tenía el pelo largo y una barba suelta; vestía una vieja capa andrajosa, sandalias y cuentas.
 
-«Perdóneme», dijo el censista, “pero yo estoy haciendo el censo. ¿Te importaría responder algunas preguntas?
+«Perdóneme», dijo el censista, «pero yo estoy haciendo el censo. ¿Te importaría responder algunas preguntas?»
 
 «De ninguna manera», dijo el hombre sobre el burro. «Creo en dar al César lo que es del César».
 

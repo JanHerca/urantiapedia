@@ -62,7 +62,7 @@ La razón por la que nuestra mente está en el palco es que durante la fase inic
 
 Pero, ¿cómo podemos estar seguros de que hablamos en serio? Todo lo que necesitamos hacer es comprometernos a hacer la voluntad de Dios. Entonces, ¿qué puede significar eso para una criatura material finita?
 
-\[Siguen algunos comentarios de los Documentos que se relacionan directamente con el significado de la "voluntad de Dios":\]
+\[Siguen algunos comentarios de los Documentos que se relacionan directamente con el significado de la «voluntad de Dios»:\]
 
 1. El hacer la voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios… Compartir es como Dios—divino.
 2. La imitación de Dios es la clave de la perfección; el hacer su voluntad es el secreto de la supervivencia y de la perfección en la supervivencia.

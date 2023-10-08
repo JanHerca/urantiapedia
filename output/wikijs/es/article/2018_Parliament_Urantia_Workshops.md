@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-<ins>3 de noviembre Pato Banton, Antoinette Hall y Andy Kushner 3:30-4:30 pm Room Festival Stage</ins> "¡El amor es lo más grande!" concierto_
+<ins>3 de noviembre Pato Banton, Antoinette Hall y Andy Kushner 3:30-4:30 pm Room Festival Stage</ins> «¡El amor es lo más grande!» concierto_
 
 <ins>3 de noviembre Marvin Gawryn 6:00-7:00 pm Salón 710</ins> "Una forma de vida en la familia de
 Dios: La Visión Global del Libro de Urantia"
@@ -81,7 +81,7 @@ Me pondré en contacto cuando tenga más detalles... ¡Con cariño para todos! M
 
 _El Libro de Urantia_ pretende ser una gran revelación para nuestro mundo, escrito por seres celestiales superiores. Describe nuestra relación con Dios, el propósito de nuestras vidas, la historia y el destino de nuestro mundo, los trillones de mundos habitados, una descripción completa de la otra vida y la vida completa y las enseñanzas de Jesús.
 
-Exploraremos la visión del libro de una civilización global emergente, basada en siete verdades espirituales esenciales que comprenden "Una forma de vida en la familia de Dios":
+Exploraremos la visión del libro de una civilización global emergente, basada en siete verdades espirituales esenciales que comprenden «Una forma de vida en la familia de Dios»:
 - La relación padre-hijo espiritual
 - La Relación Hermana Hermano Espiritual
 - El espíritu que habita en nosotros

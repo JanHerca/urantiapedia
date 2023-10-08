@@ -79,7 +79,7 @@ Sólo a aquellos con un conocimiento y una comprensión adecuados de la vida de 
 
 Si Jesús pudiera hacer una aparición al estilo morontial en una reunión de lectores del Libro de Urantia hoy, ¿qué les diría? Seguramente incluiría: «Tu misión en el mundo consistirá en la vida que vivirás entre los hombres».
 
-[Tenga en cuenta que, en esta última oración, el uso de las palabras "deberá" y "voluntad" es estrictamente gramatical. «Shall» es un imperativo. Efectivamente significa «debe».]
+[Tenga en cuenta que, en esta última oración, el uso de las palabrasyes estrictamente gramatical. «Shall» es un imperativo. Efectivamente significa «debe».]
 
 Incluso hoy en día, la gran mayoría de la población mundial, incluida la mayoría de los cristianos, vive en un estado de analfabetismo espiritual no muy superior al de los samaritanos de Sicar.
 

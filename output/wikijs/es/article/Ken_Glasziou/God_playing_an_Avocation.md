@@ -46,7 +46,7 @@ Probablemente los discípulos de Jesús se sintieron en un nivel superior al de 
 
 La redacción exacta de su ceremonia bautismal se pierde para nosotros, pero es poco probable que haya sido muy diferente de la de su líder muerto.
 
-Juan, el Bautista llamó a los judíos a «arrepentirse y bautizarse». Dado que grandes multitudes acudieron a Juan para el bautismo, la ceremonia probablemente fue muy breve y concisa, algo similar a "¿Renuncias al diablo y a todas sus obras y te arrepientes de todos tus pecados?", Seguido de un "Sí, acepto". respuesta. Entonces, era probable que los recién llegados hubieran recibido una bienvenida en el reino.
+Juan, el Bautista llamó a los judíos a «arrepentirse y bautizarse». Dado que grandes multitudes acudieron a Juan para el bautismo, la ceremonia probablemente fue muy breve y concisa, algo similar a Seguido de un respuesta. Entonces, era probable que los recién llegados hubieran recibido una bienvenida en el reino.
 
 ¿No es un hecho que a los humanos nos encanta pensar que somos especiales, elegidos? Si no fuera así, muchos menos de nosotros aspiraríamos a ser sacerdotes, ministros, médicos, misioneros, enfermeros, curanderos, practicantes de medicina alternativa o cualquier ocupación que nos permita convertirnos en destinatarios de la eterna gratitud de aquellos sobre quienes distribuimos nuestra generosidad, en otras palabras, para convertirnos en jugadores de Dios.
 

@@ -109,8 +109,8 @@ _Los celos: ¡un veneno espiritual que ataca y destruye el corazón!_
 
 > **¡Tienes que aprender a odiar!**
 >
-> A la gente hay que enseñarle a odiar... De niños tenemos poca habilidad o experiencia para diluir o rechazar lo que aprendemos. Por lo tanto, somos extremadamente sensibles, vulnerables e impresionables. Lo que se aprende durante la infancia - nuestro período de máxima flexibilidad y desarrollo... se convierte en parte integrante de nuestra sustancia misma y nunca se olvida... Nuestros "sentimientos" acerca de esos incidentes, y las actitudes y estados de ánimo que surgen de estos sentimientos , también quédate con nosotros.
-> T. Isaac Rubín
+> A la gente hay que enseñarle a odiar... De niños tenemos poca habilidad o experiencia para diluir o rechazar lo que aprendemos. Por lo tanto, somos extremadamente sensibles, vulnerables e impresionables. Lo que se aprende durante la infancia — nuestro período de máxima flexibilidad y desarrollo... se convierte en parte integrante de nuestra sustancia misma y nunca se olvida... Nuestros «sentimientos» acerca de esos incidentes, y las actitudes y estados de ánimo que surgen de estos sentimientos , también se quedan con nosotros.
+> T. Isaac Rubin
 
 ## Enlaces externos
 

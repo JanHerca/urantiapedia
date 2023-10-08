@@ -62,7 +62,7 @@ The essence of the Fifth Epochal Revelation’s instruction on the second great 
 
 “Love never fails, but where there be prophecies they shall fail; where there be tongues they shall cease; where there be knowledge it shall pass away. For now we know in part, and we prophecy in part. But when that which is perfect is come, then that which is in part shall be done away.”
 
-“When I was a child, I spoke as a child, I understood as a child, I thought as a child. But when I became a man, I put away childish things. For now we see as in a glass, darkly; but then, face to face. Now I know in part. Then I shall know even as I am known. And now abides faith, hope, and love, these three; but the greatest of these is love.” ([1 Cor. 13](/en/Bible/1_Corinthians/13))
+> “When I was a child, I spoke as a child, I understood as a child, I thought as a child. But when I became a man, I put away childish things. For now we see as in a glass, darkly; but then, face to face. Now I know in part. Then I shall know even as I am known. And now abides faith, hope, and love, these three; but the greatest of these is love.” ([1 Cor. 13](/en/Bible/1_Corinthians/13))
 
 > In the pursuit of happiness half the world is on the wrong scent. They think it consists in having, and getting, and in being served by others. Happiness is really found in giving and in serving others. 
 >   _Henry Drummond_

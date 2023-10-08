@@ -43,7 +43,7 @@ En teología y metafísica, el término Absoluto generalmente se refiere a Dios.
 
 ## Referencias
 
-- "Absoluto", Microsoft Encarta. 1994 Corporación Microsoft. (Corporación Funk & Wagnall).
+- Microsoft Encarta. 1994 Corporación Microsoft. (Corporación Funk & Wagnall).
 
 ## Enlaces externos
 

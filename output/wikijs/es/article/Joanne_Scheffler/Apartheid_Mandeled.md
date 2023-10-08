@@ -38,13 +38,13 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Habiendo sido una de las muchas personas pesimistas que predijeron derramamiento de sangre, revolución, pesimismo general, me sentí más que abrumado cuando nada de esto sucedió y tuve el privilegio de presenciar un gran capítulo en la evolución social.
 
-Mientras leía furiosamente el artículo, lágrimas de alegría me llenaron las mejillas. Quería saber: ¿Cómo era esto posible? Un hombre, dicen, está acreditado con el desenlace pacífico hasta la fecha. El doloroso proceso de la unidad. Abrazos y besos en blanco y negro en la calle. Políticos blancos y negros trabajando juntos por el bien de todos, como si se les hubiera otorgado una libertad recién descubierta, permiso para hacer aquellas cosas que inherentemente sabemos que son correctas, pero a través de la cultura, las creencias, el miedo, creamos ira donde no podría. ser tolerancia, miedo donde podría haber amor. Mientras leo, casi escucho el alivio de la gente decir gracias por darnos permiso para comprender, o al menos tratar de comprender, a nuestros hermanos y hermanas negros, azules y atigrados. Puede que no sea fácil, pero estamos preparados para intentarlo.
+Mientras leía intensamente el artículo, lágrimas de alegría me llenaron las mejillas. Quería saber: ¿Cómo era esto posible? Un hombre, dicen, está acreditado con el desenlace pacífico hasta la fecha. El doloroso proceso de la unidad. Abrazos y besos en blanco y negro en la calle. Políticos blancos y negros trabajando juntos por el bien de todos, como si se les hubiera otorgado una libertad recién descubierta, permiso para hacer aquellas cosas que inherentemente sabemos que son correctas, pero a través de la cultura, las creencias, el miedo, creamos ira donde podría haber tolerancia, miedo donde podría haber amor. Mientras leo, casi escucho el alivio de la gente decir gracias por darnos permiso para comprender, o al menos tratar de comprender, a nuestros hermanos y hermanas negros, azules y atigrados. Puede que no sea fácil, pero estamos preparados para intentarlo.
 
-Sigo leyendo. Quiero saber cómo este hombre dio este permiso. ¿Qué secretos guardaba? ¿Usó magia? ¿Era de confianza? ¿Por qué estas personas, tantas personas, respondieron sin cuestionamientos con un coraje tan positivo, pacífico y valiente para hacer lo llamado "imposible"?
+Sigo leyendo. Quiero saber cómo este hombre dio este permiso. ¿Qué secretos guardaba? ¿Usó magia? ¿Era de confianza? ¿Por qué estas personas, tantas personas, respondieron sin cuestionamientos con un coraje tan positivo, pacífico y valiente para hacer lo llamado «imposible»?
 
-En las descripciones de él, usan palabras como "cariñoso". Se toma un tiempo para llamar a la esposa de un periodista blanco muerto en un accidente automovilístico. Escucha y brinda apoyo empático durante aproximadamente 45 minutos y luego le pregunta a una amiga en un mitin cómo le está yendo.[^1]
+En las descripciones de él, usan palabras como «cariñoso». Se toma un tiempo para llamar a la esposa de un periodista blanco muerto en un accidente automovilístico. Escucha y brinda apoyo empático durante aproximadamente 45 minutos y luego le pregunta a una amiga en un mitin cómo le está yendo.[^1]
 
-Describen su "mandato" como seductor en lugar de ofensivo. Mientras se dirige a una gran multitud en un mitin electoral, se da cuenta de que un alguacil se estaba comportando un poco bruscamente con un niño emocionado. Interrumpió su discurso y dijo: «¡No, Marshall, basta! Esa no es forma de tratar a un niño y luego dar órdenes de traer a todos los niños al frente para que no se agolpen».
+Describen su «mandato» como seductor en lugar de ofensivo. Mientras se dirige a una gran multitud en un mitin electoral, se da cuenta de que un alguacil se estaba comportando un poco bruscamente con un niño emocionado. Interrumpió su discurso y dijo: «¡No, Marshall, basta! Esa no es forma de tratar a un niño», y luego da órdenes de traer a todos los niños al frente para que no se agolpen.
 
 «Amable» y «misericorde» se usan con frecuencia.[^2] No escribe una sola mala palabra sobre sus predecesores (sus supuestos enemigos), sus carceleros.[^3] «Dejemos lo pasado en el pasado», dice, invitando a todas estas personas para celebrar su presidencia, y refiriéndose a ellos con amabilidad, sinceridad y, sobre todo, perdón genuino.
 
@@ -61,7 +61,7 @@ Así que en resumen:
 
 He escuchado estas palabras antes. Estos y más me describen al hombre/dios que caminó sobre la tierra hace 2000 años. Él dijo: «Yo soy el camino».
 
-Hoy tenemos un gran ejemplo de cómo las enseñanzas de Jesús, haciendo lo que Él hubiera hecho, ha sanado, o ha ayudado a sanar, una situación muy volátil. Lo que ahora hacen con esto, ya veremos.
+Hoy tenemos un gran ejemplo de cómo las enseñanzas de Jesús, haciendo lo que Él hubiera hecho, han sanado, o han ayudado a sanar, una situación muy volátil. Lo que ahora hacen con esto, ya veremos.
 
 Gracias, Nelson Mandela, por mostrarnos, una vez más, lo que se puede lograr cuando hacemos lo que Jesús hubiera hecho. Las posibilidades son infinitas. El manual está escrito. Todo lo que tenemos que hacer es comenzar a representar el comportamiento de Jesús en lugar de solo hablar y leer sobre lo que hizo: ¡salir y mostrar el camino!
 

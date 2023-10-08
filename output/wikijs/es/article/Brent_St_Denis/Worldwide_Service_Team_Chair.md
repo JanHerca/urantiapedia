@@ -52,7 +52,7 @@ Todavía estamos aprendiendo cómo debería funcionar el nuevo sistema de Presid
 
 El Comité Internacional me ha incluido en sus reuniones periódicas de Zoom, por lo que he tenido la oportunidad de presenciar de primera mano su devoción mientras abordan las realidades de trabajar en todo el mundo en apoyo de la revelación.
 
-Interfaith ha demostrado una gran comprensión de su papel al probar las aguas en diferentes lugares "espirituales y religiosos" para encontrar los lugares correctos para presentar el Libro de Urantia a aquellos que buscan la verdad en cualquier lugar donde puedan encontrarla.
+Interfaith ha demostrado una gran comprensión de su papel al probar las aguas en diferentes lugares «espirituales y religiosos» para encontrar los lugares correctos para presentar el Libro de Urantia a aquellos que buscan la verdad en cualquier lugar donde puedan encontrarla.
 
 YaYA ha realizado esfuerzos ejemplares para patrocinar o participar en reuniones de jóvenes y, al hacerlo, nuestros jóvenes lectores pueden sentirse bienvenidos en el movimiento; ellos son nuestros futuros líderes.
 

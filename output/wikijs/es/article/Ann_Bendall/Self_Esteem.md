@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-Para atender la forma simplista en la que los individuos exploran la complejidad de la naturaleza humana, la psicología ha acuñado el concepto de "autoestima" para representar lo que _El Libro de Urantia_ llama conciencia y sus advertencias por parte del Ajustador del Pensamiento, la autoestima y la individualidad.
+Para atender la forma simplista en la que los individuos exploran la complejidad de la naturaleza humana, la psicología ha acuñado el concepto de «autoestima» para representar lo que _El Libro de Urantia_ llama conciencia y sus advertencias por parte del Ajustador del Pensamiento, la autoestima y la individualidad.
 
 Existe una conciencia pública general de que la autoestima es importante y el constructo ha llegado a representar al individuo sintiéndose bien consigo mismo. En lenguaje psicológico, la autoestima significa el grado en que uno se valora a sí mismo de acuerdo con valores y creencias realistas, e incluye la conciencia, la compasión por nosotros mismos y por los demás, el reconocimiento de que somos seres experimentales que predominantemente aprenden de nuestros errores y la tolerancia por la imperfección de nosotros mismos y los demás.
 

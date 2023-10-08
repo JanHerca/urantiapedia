@@ -45,7 +45,7 @@ Desde que asumimos el envío de los libros por correo en diciembre, hemos enviad
 
 Haga una pausa por un momento e imagine a un preso, uno que se ha desviado de la verdad, que está dentro de una prisión, que ha visto el libro y se ha tomado el tiempo de escribir una carta pidiendo la mejor fuente de verdad del planeta. Qué mejor servicio hay que proporcionar una copia del Libro de Urantia a esa alma que se esfuerza por encontrar la verdad.
 
-Le escribo para informarle sobre este maravilloso ministerio y para solicitar su apoyo financiero para ayudarnos a continuar con este trabajo. Una caja de seis libros nos cuesta alrededor de $72.00. Si este esfuerzo lo conmueve y su tesoro personal es saludable, envíe su cheque a la Fraternidad con la mención "Para ICP": _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021.
+Le escribo para informarle sobre este maravilloso ministerio y para solicitar su apoyo financiero para ayudarnos a continuar con este trabajo. Una caja de seis libros nos cuesta alrededor de $72.00. Si este esfuerzo lo conmueve y su tesoro personal es saludable, envíe su cheque a la Fraternidad con la mención _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021.
 
 Aquí hay una carta reciente que acabamos de recibir:
 

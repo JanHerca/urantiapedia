@@ -78,7 +78,7 @@ Esto es muy diferente de lo que se entendía cuando se escribió la Biblia, cuan
 
 La teoría detrás de la teología del proceso es muy complicada, pero trato de entender una versión simplificada de la siguiente manera:
 
-- Todas las cosas, incluidos los seres humanos, están hechas de estallidos de eventos de energía llamados "actividades" u "ocasiones de experiencia" que se combinan en "sociedades" o "comunidades".
+- Todas las cosas, incluidos los seres humanos, están hechas de estallidos de eventos de energía llamados «actividades» u «ocasiones de experiencia» que se combinan en «sociedades» o «comunidades».
 - Los átomos, las moléculas, las rocas, etc., son «comunidades» elementales, mientras que los seres vivos son «comunidades» avanzadas.
 - Los seres humanos son posiblemente la más avanzada de las «comunidades de eventos».
 

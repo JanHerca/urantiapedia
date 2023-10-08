@@ -125,7 +125,7 @@ En 1981 se llevó a cabo la conferencia trienal internacional de lectores en Sno
 <figcaption><em>Vern Bennom Grimsley.</em></figcaption>
 </figure>
 
-Vern comenzó a recibir «mensajes» y advertía, en términos apocalípticos, del pronto estallido de la Tercera Guerra Mundial en suelo estadounidense. Al principio, muchos pensaron: “Tal vez está en lo cierto. Tal vez él lo sepa. Después de todo, no habían pasado tantos años desde la Crisis de los Misiles en Cuba. No pasó mucho tiempo para que muchos en el movimiento lo pensaran y luego se alejaran; y cuando la guerra predicha no ocurrió, la Fundación Familia de Dios de Vern y su ministerio de radio colapsaron.
+Vern comenzó a recibir «mensajes» y advertía, en términos apocalípticos, del pronto estallido de la Tercera Guerra Mundial en suelo estadounidense. Al principio, muchos pensaron: «Tal vez está en lo cierto. Tal vez él lo sepa.» Después de todo, no habían pasado tantos años desde la Crisis de los Misiles en Cuba. No pasó mucho tiempo para que muchos en el movimiento lo pensaran y luego se alejaran; y cuando la guerra predicha no ocurrió, la Fundación Familia de Dios de Vern y su ministerio de radio colapsaron.
 
 El movimiento Urantia se había tragado algo que simplemente no podía digerir. En tiempos pasados, cuando se avecinaba una decisión política grave, los primeros líderes podían llegar y pronunciar que los intermedios o algunas personas celestiales habían hablado, y eso rápidamente cerraba el asunto. Pero en 1983 este tipo de estilo de liderazgo no funcionó. Todos los miembros de la Comisión de Contacto habían muerto. Eso fue entonces, esto fue ahora. El movimiento tenía que determinar si los «mensajes» eran ahora la forma de orientación o no. Y decidieron en contra.
 
@@ -212,9 +212,9 @@ La calidad de nuestros esfuerzos durante los próximos diez años será decisiva
 
 Especialmente en esta cuarta generación en la que estamos ahora, el Artista, sería prudente escuchar lo que los artistas tienen que decir acerca de ver correctamente. El autor del éxito de ventas número uno sobre cómo aprender arte, Kimon Nicolaides, incluyó en su libro clásico The Natural Way to Draw, la siguiente idea:
 
-“Observación correcta. La primera función de un estudiante de arte es observar, estudiar la naturaleza. El trabajo del artista al principio no es diferente al trabajo de un escritor. Primero debe alcanzar la materia prima. Debe pasar mucho tiempo haciendo contacto con objetos reales.
+«Observación correcta. La primera función de un estudiante de arte es observar, estudiar la naturaleza. El trabajo del artista al principio no es diferente al trabajo de un escritor. Primero debe alcanzar la materia prima. Debe pasar mucho tiempo haciendo contacto con objetos reales.
 
-Aprender a dibujar es realmente una cuestión de aprender a ver, a ver correctamente, y eso significa mucho más que simplemente mirar con el ojo”.
+Aprender a dibujar es realmente una cuestión de aprender a ver, a ver correctamente, y eso significa mucho más que simplemente mirar con el ojo».
 
 Los profetas también han sido llamados videntes, que significa «videntes». El profeta Daniel describió los grandes reinos de este mundo como imperios sucesivos que vio, o imaginó, como la estatua de un hombre. El rey Nabucodonosor de Babilonia (que gobernó en la época de Daniel, alrededor del año 600 a.C.) fue descrito como la cabeza de oro; el imperio persa como el pecho y los brazos de plata; el griego como la cintura y los muslos de bronce; y el Imperio Romano como piernas de hierro, terminando en pies de una mezcla inestable de hierro y arcilla <a id="a218_555"></a>[[LU 135:3.2](/es/The_Urantia_Book/135#p3_2)]. En la visión de Daniel, los reinos del mundo llegaron a su fin cuando una «roca del monte, no cortada por mano humana» golpeó los pies de la imagen, con lo cual el estado de los reinos mundanos se derrumbó y el reino eterno de Dios se estableció en la tierra. . Juan luchó por comprender esta imagen y visión, buscando encontrar su lugar en la historia, lo cual hizo con éxito, como precursor de Cristo.
 

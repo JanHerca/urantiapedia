@@ -48,7 +48,7 @@ En la base de esta doctrina encontramos a Pablo y San Agustín, quienes dedujero
 
 Por lo tanto, si seguimos el tema de «salvados por la sangre de Cristo» hasta sus orígenes, para ser consistentes tenemos que suscribir una creencia en Adán y Eva como el primer hombre y mujer, y su caída en desgracia, un evento que se supone haber ocurrido hace unos pocos miles de años!
 
-Es un hecho que la mayoría de los cristianos practicantes no saben casi nada acerca de estas doctrinas. Sin embargo, les encanta la parte de "salvados por la sangre de Cristo", ya que sienten que los saca de algunos agujeros bastante profundos.
+Es un hecho que la mayoría de los cristianos practicantes no saben casi nada acerca de estas doctrinas. Sin embargo, les encanta la parte de «salvados por la sangre de Cristo», ya que sienten que los saca de algunos agujeros bastante profundos.
 
 > Ignorar la propia ignorancia es la enfermedad del ignorante.
 > A.B. Alcott
@@ -72,7 +72,7 @@ Y así, el declive y la caída en curso del cristianismo perpetúan el declive y
 
 Entonces, ¿dónde estamos los urantianos? ¿Cómo es que casi cincuenta años después de la publicación de los Documentos de Urantia, nuestra nueva revelación puede estar segura de que solo unos pocos miles de lectores más o menos dedicados? Más importante aún, ¿por qué?
 
-La respuesta parece estar directamente en aquellos que estuvieron allí en los orígenes de la saga reveladora y quienes, a pesar de las protestas de sus guías celestiales, convirtieron los documentos en algo que nunca debieron ser: un "por poder", divinamente. revelación dictada, una nueva Biblia de Dios. Eche un vistazo al Concordex de Clyde Bedell y vea reflejado con precisión el pensamiento del primer movimiento de Urantia. Aquí tenemos una revelación dada por Dios con todas las respuestas, dice la publicidad, un libro para revolucionar el mundo.
+La respuesta parece estar directamente en aquellos que estuvieron allí en los orígenes de la saga reveladora y quienes, a pesar de las protestas de sus guías celestiales, convirtieron los documentos en algo que nunca debieron ser: un «por poder», divinamente. revelación dictada, una nueva Biblia de Dios. Eche un vistazo al Concordex de Clyde Bedell y vea reflejado con precisión el pensamiento del primer movimiento de Urantia. Aquí tenemos una revelación dada por Dios con todas las respuestas, dice la publicidad, un libro para revolucionar el mundo.
 
 Y, por supuesto, lo es y lo será, pero ¿cuánto tiempo pasará antes de que nos demos cuenta de que la forma en que su magnífico mensaje ha sido transmitido al mundo en general ha fallado estrepitosamente? Seguramente la experiencia ahora ha confirmado que el mensaje no puede venderse al cristianismo, y probablemente tampoco a ninguna otra religión, si se presenta como otra revelación autenticada por Dios.
 
@@ -98,15 +98,15 @@ Entonces, ¿qué nueva táctica podemos probar con nuestro precioso Libro de Ura
 
 Para tener éxito, tendríamos que olvidarnos de la autoría celestial y simplemente admitir que se desconocen los verdaderos orígenes del texto (que es la verdad). Como señaló Meredith Sprunger, **el origen y la autoría de un libro no es un criterio filosófico de la verdad.** Independientemente de si supermortales o seres humanos escribieron el Libro de Urantia, todavía debe evaluarse por su contenido de verdad y no por paternidad literaria. (CFJ, 8 (1) 6)
 
-Probablemente sería mejor omitir los nombres de los autores de una tabla de contenido, y tal vez podrían agregarse al final de cada artículo como, “atribuido a a... Pero si los nombres extraños de los autores pueden ser un obstáculo para la aceptación, entonces deben omitirse.
+Probablemente sería mejor omitir los nombres de los autores de una tabla de contenido, y tal vez podrían agregarse al final de cada artículo como, «atribuido a a...» Pero si los nombres extraños de los autores pueden ser un obstáculo para la aceptación, entonces deben omitirse.
 
 Debemos recordar cómo Jesús les dijo a sus oponentes que no era importante que creyeran en él, sino que lo importante era que creyeran en el Dios-Padre acerca del cual enseñaba.
 
 Entonces tendríamos que retroceder, ver qué sucede y modificar los enfoques en consecuencia. El objetivo de un nuevo enfoque sería hacer que el libro se leyera debido al mérito de sus conceptos e ideas sobresalientes, y luego dejar que los nuevos lectores y el Espíritu de la Verdad descubran lo que significa para ellos mismos.
 
-Tal vez el libro necesite un nombre diferente, tal vez "Los documentos de Urantia" o tal vez un nombre neutral como "Una filosofía de la religión".
+Tal vez el libro necesite un nombre diferente, tal vez «Los documentos de Urantia» o tal vez un nombre neutral como «Una filosofía de la religión».
 
-También se debe pensar en hacer que la Parte 4 esté disponible como una "Vida de Jesús" sin los matices reveladores. Podría comenzar en la Sección 1 del Documento 121 pero modificarse para sustituir "Miguel" por "Jesús" cuando corresponda.
+También se debe pensar en hacer que la Parte 4 esté disponible como una «Vida de Jesús» sin los matices reveladores. Podría comenzar en la Sección 1 del Documento 121 pero modificarse para sustituir «Miguel» por «Jesús» cuando corresponda.
 
 Si pudiéramos hacer que los cristianos se sintieran cómodos con tener los Documentos en sus estanterías, y particularmente que el clero y los académicos lo hicieran, un nuevo comienzo podría estar a la vuelta de la esquina.
 

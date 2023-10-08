@@ -235,7 +235,7 @@ Recientemente varios de nosotros estábamos discutiendo la idea de grupos de est
 
 En mi opinión, es una de las razones por las que nuestro grupo de estudio fue una parte vital de tantas vidas durante más de una década. También nos habíamos ayudado en otras cosas. Cuando Jim Brummett y yo nos mudamos a una casa de 80 años con nuestro bebé de 3 meses, nuestros amigos del grupo de estudio lo hicieron posible con gracia y alegría.
 
-En una reunión del grupo de estudio en ese nuevo hogar, Archie Anderson preguntó si ayudaríamos a construir un paseo marítimo a través de la naturaleza montañosa para que las personas discapacitadas pudieran disfrutar de un sendero montañoso. Nuestros miembros dijeron "¡Sí!" Acampamos con nuestras familias y trabajamos durante el fin de semana. El fin de semana pasado pasé por Wilderness on Wheels y recordé ese proyecto con cariño.
+En una reunión del grupo de estudio en ese nuevo hogar, Archie Anderson preguntó si ayudaríamos a construir un paseo marítimo a través de la naturaleza montañosa para que las personas discapacitadas pudieran disfrutar de un sendero montañoso. Nuestros miembros dijeronAcampamos con nuestras familias y trabajamos durante el fin de semana. El fin de semana pasado pasé por Wilderness on Wheels y recordé ese proyecto con cariño.
 
 <figure id="Figure_11" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005833.jpg">

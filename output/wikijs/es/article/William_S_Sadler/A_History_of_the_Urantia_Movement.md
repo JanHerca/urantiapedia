@@ -69,9 +69,9 @@ El Dr. William S. Sadler, miembro de este grupo inicial de observadores e invest
 
 ## Introducción del Foro a los «Contactos» 
 
-El doctor continúa con su narración: “Así, me pidieron que diera una serie de pláticas sobre «Higiene Mental», o «Fenómenos Psíquicos.» Al inicio de mi primera plática, dije: «Con una o dos excepciones, todos los fenómenos psíquicos que he investigado han resultado fraudes, conscientes o inconscientes. Algunos fueron fraudes deliberados, otros fueron esos casos peculiares en los que el sujeto fue víctima de los engaños de su propia mente subconsciente.» 
+El doctor continúa con su narración: «Así, me pidieron que diera una serie de pláticas sobre «Higiene Mental», o «Fenómenos Psíquicos.» Al inicio de mi primera plática, dije: «Con una o dos excepciones, todos los fenómenos psíquicos que he investigado han resultado fraudes, conscientes o inconscientes. Algunos fueron fraudes deliberados, otros fueron esos casos peculiares en los que el sujeto fue víctima de los engaños de su propia mente subconsciente.» 
 
-“No había dicho más que esto, cuando uno de los del grupo dijo: «Doctor, si usted ha entrado en contacto con algo que no ha podido resolver, sería interesante, háblenos más sobre ello.» 
+«No había dicho más que esto, cuando uno de los del grupo dijo: «Doctor, si usted ha entrado en contacto con algo que no ha podido resolver, sería interesante, háblenos más sobre ello.» 
 
 «Le pedí a la Dra. Lena que fuera por unas notas que había tomado en un «contacto» reciente y que las leyera al grupo. Debe quedar entendido que hasta este momento no había secretos en relación con el caso. Los Documentos de Urantia no habían empezado a aparecer.» 
 

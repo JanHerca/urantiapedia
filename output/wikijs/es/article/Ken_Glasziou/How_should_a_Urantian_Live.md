@@ -47,7 +47,7 @@ La mente de Jesús, se nos dice, era la de un judío del primer siglo, condicion
 
 Así fue un Jesús puramente humano quien, al recibir una visión de las huestes celestiales reunidas de Nebadon durante los cuarenta días posteriores a su bautismo, fue tentado a hacer uso de estas poderosas personalidades en conexión con el programa de su obra pública venidera.
 
-En esta, la primera de las seis decisiones importantes que siguieron después de su bautismo, Jesús eligió "no utilizar una sola personalidad de la vasta asamblea" a menos que sea la voluntad de su Padre.
+En esta, la primera de las seis decisiones importantes que siguieron después de su bautismo, Jesús eligióa menos que sea la voluntad de su Padre.
 
 En nuestra tarea de seguir a Jesús, ¿cómo se aplica esto a nosotros? Tenemos una revelación autorizada de seres celestiales que revela prácticamente todo lo que es importante que los seres humanos sepan para asegurar su futuro eterno. ¿Podemos suponer que incluye la delegación de algún tipo de autoridad celestial o poder que podemos llamar en nuestra ayuda? ¿Y podría esto tener el efecto de elevar nuestro estatus social, haciéndonos especiales de alguna manera?
 
@@ -81,7 +81,7 @@ La única respuesta posible parece ser que a nosotros, como individuos, se nos p
 
 > ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió». (<a id="a81_487"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
-Si todavía no estamos seguros de lo que hay sobre la naturaleza de Dios para que intentemos revelar en nuestras propias vidas, en su libro Jesús, una nueva visión, Marcus Borg afirma que el Dios de Jesús era un Dios misericordioso y compasivo. La compasión en hebreo, dice, se deriva del plural de "vientre", por lo que tiene la connotación de útero. Así, el Dios de Jesús era generoso, nutritivo, nutritivo, dador de vida.
+Si todavía no estamos seguros de lo que hay sobre la naturaleza de Dios para que intentemos revelar en nuestras propias vidas, en su libro Jesús, una nueva visión, Marcus Borg afirma que el Dios de Jesús era un Dios misericordioso y compasivo. La compasión en hebreo, dice, se deriva del plural de por lo que tiene la connotación de útero. Así, el Dios de Jesús era generoso, nutritivo, nutritivo, dador de vida.
 
 > Jesús dijo: «Mi Padre exige que todos sus hijos crezcan en la gracia y en el conocimiento de la verdad. Vosotros, que conocéis estas verdades, debéis producir cada vez más frutos del espíritu y manifestar una devoción creciente al servicio desinteresado de vuestros compañeros servidores. Y recordad que, en la medida en que ayudáis al más humilde de mis hermanos, ese servicio me lo habréis hecho a mí». (<a id="a85_408"></a>[LU 176:3.5](/es/The_Urantia_Book/176#p3_5))
 

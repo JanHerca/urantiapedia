@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T18:33:39.898Z
 </figure>
 
 
-La Parte 4 de los Documentos de Urantia contiene más de 700 páginas donde podemos aprender cómo pensaba y vivía Jesús, y cómo su propia vida reveló la naturaleza del Dios al que llamó Padre. Sin embargo, para casi todos nosotros, memorizar el texto de esas 700 páginas presenta una tarea imposible. Afortunadamente, los reveladores han proporcionado un punto de partida, una condensación de la enseñanza de Jesús en un documento que afirman es "una filosofía maestra de la vida". Presentan esto como el sermón de ordenación a los doce. Luego, al unir este sermón con las parábolas de enseñanza favoritas de Jesús, surge un resumen condensado que puede servir como marco para construir una comprensión profunda de la revelación de Jesús.
+La Parte 4 de los Documentos de Urantia contiene más de 700 páginas donde podemos aprender cómo pensaba y vivía Jesús, y cómo su propia vida reveló la naturaleza del Dios al que llamó Padre. Sin embargo, para casi todos nosotros, memorizar el texto de esas 700 páginas presenta una tarea imposible. Afortunadamente, los reveladores han proporcionado un punto de partida, una condensación de la enseñanza de Jesús en un documento que afirman es «una filosofía maestra de la vida». Presentan esto como el sermón de ordenación a los doce. Luego, al unir este sermón con las parábolas de enseñanza favoritas de Jesús, surge un resumen condensado que puede servir como marco para construir una comprensión profunda de la revelación de Jesús.
 
 En otro concepto clave, los Documentos nos dicen que el Jesús humano vio a Dios como santo, justo y grande, verdaderamente hermoso y bueno, y todos estos atributos de la divinidad los enfocó en su mente como la «voluntad del Padre que está en los cielos». .” Pero estos términos, al igual que los asociados con los «frutos del espíritu», como el servicio desinteresado, la honestidad iluminada, la esperanza eterna, la confianza, la tolerancia, la paciencia, la misericordia, la compasión, etc., son todos conceptos abstractos incapaces de una definición precisa. Sin embargo, cuando tales abstracciones se revisten con el significado que les da la vida de Jesús, adquieren el potencial de ser absorbidas por nuestro propio ser y, por lo tanto, se convierten en la realidad que guía nuestras vidas y en los iniciadores de nuestras experiencias espirituales de la vida real, mientras que, simultáneamente, engendran la espiritualización de nuestras mentes y la edificación de nuestras almas.
 
@@ -50,7 +50,7 @@ Tenga en cuenta que son los «frutos del espíritu de mi Padre» los que deben p
 
 > «**Y no será tanto por las palabras que habléis sino por la vida que llevéis que los hombres sabrán que habéis estado conmigo** y habéis aprendido las realidades del reino.» (<a id="a50_177"></a>[LU 140:1.7](/es/The_Urantia_Book/140#p1_7))
 
-**El cargo de ordenación en resumen. Alimento para nuestro crecimiento espiritual**. (<a id="a52_86"></a>[LU 140:3.1](/es/The_Urantia_Book/140#p3_1)); véase también [“El sermón de la montaña, Mateo 5-7](/es/Bible/Matthew/5)
+**El cargo de ordenación en resumen. Alimento para nuestro crecimiento espiritual**. (<a id="a52_86"></a>[LU 140:3.1](/es/The_Urantia_Book/140#p3_1)); véase también [«El sermón de la montaña», Mateo 5-7](/es/Bible/Matthew/5)
 
 En su comienzo encontramos las llamadas bienaventuranzas, entre ellas «Bienaventurados los que lloran». Visto fuera del contexto adecuado, esto puede parecer extraño. Esencialmente nos divide en dos clases, aquellos que sienten simpatía por las personas en apuros, enfermedades, problemas y se sienten impulsados ​​a ministrarles. Y hay quienes simplemente se van.
 
@@ -89,7 +89,7 @@ En su comienzo encontramos las llamadas bienaventuranzas, entre ellas «Bienaven
 
 > ¿Qué padre de entre vosotros, si su hijo le hace una petición imprudente, dudaría en darle según la sabiduría paternal, en lugar de hacerlo en los términos de la demanda errónea del hijo? Si el niño necesita pan, ¿le daréis una piedra simplemente porque la ha pedido tontamente? Si vuestro hijo necesita un pez, ¿le daréis una serpiente de agua simplemente porque ha aparecido una en la red con el pescado, y el niño la pide neciamente? Si vosotros, que sois mortales y finitos, sabéis cómo responder a las peticiones y dar a vuestros hijos unos dones buenos y apropiados, ¿cuánto más, vuestro Padre celestial, dará el espíritu y numerosas bendiciones adicionales a aquellos que se lo pidan? (<a id="a89_695"></a>[LU 144:2.4](/es/The_Urantia_Book/144#p2_4))
 
-[Esta es una de las parábolas de Jesús más sencillas pero más poderosas porque nos ayuda, como buenos padres terrenales, a comprender lo que un Padre perfecto en el cielo haría o no haría por sus hijos. Para cualquier situación apropiada, siempre podemos preguntarnos: "¿Realmente creo que un Dios perfectamente bueno haría eso?"] [es decir, aplicado a la doctrina de la expiación, proporciona una respuesta inequívoca].
+[Esta es una de las parábolas de Jesús más sencillas pero más poderosas porque nos ayuda, como buenos padres terrenales, a comprender lo que un Padre perfecto en el cielo haría o no haría por sus hijos. Para cualquier situación apropiada, siempre podemos preguntarnos: «¿Realmente creo que un Dios perfectamente bueno haría eso?»] [es decir, aplicado a la doctrina de la expiación, proporciona una respuesta inequívoca].
 
 ## El buen samaritano.
 
@@ -119,7 +119,7 @@ En respuesta a la pregunta de un abogado sobre quién es su prójimo, Jesús dij
 
 [La parábola ilustra el amor y la misericordia de un Dios perfecto que nos recibirá cada vez que nos volvamos a él.]
 
-Esta introducción condensada a la mente y el pensamiento de Jesús proporciona una idea de la naturaleza del Dios a quien Jesús llamó "Abba", un término cariñoso arameo usado por Jesús para expresar el amor infantil por nuestro Padre celestial. También es suficiente para sentar las bases de una actitud mental capaz de conducir a la espiritualización de nuestro propio ser. Habiendo asimilado este material central en nuestro ser, y habiéndonos comprometido irrevocablemente a tratar de vivir nuestra propia vida bajo la guía directa de la presencia interior de nuestro Dios-Espíritu, tal como lo hizo Jesús, entonces nada más es esencial o necesario para asegurar nuestra vida. unidad con el Padre y nuestra participación en su voluntad.
+Esta introducción condensada a la mente y el pensamiento de Jesús proporciona una idea de la naturaleza del Dios a quien Jesús llamó «Abba», un término cariñoso arameo usado por Jesús para expresar el amor infantil por nuestro Padre celestial. También es suficiente para sentar las bases de una actitud mental capaz de conducir a la espiritualización de nuestro propio ser. Habiendo asimilado este material central en nuestro ser, y habiéndonos comprometido irrevocablemente a tratar de vivir nuestra propia vida bajo la guía directa de la presencia interior de nuestro Dios-Espíritu, tal como lo hizo Jesús, entonces nada más es esencial o necesario para asegurar nuestra vida. unidad con el Padre y nuestra participación en su voluntad.
 
 ## Documento 100: una sinopsis
 

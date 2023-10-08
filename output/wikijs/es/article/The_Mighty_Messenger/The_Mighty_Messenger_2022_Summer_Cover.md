@@ -43,7 +43,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/003.jpg">
-<figcaption>Fotografías de Chuck Thurston: p42. «El Camino Largo», p43. Una escultura fotografiada por Chuck Thurston en Burning Man, 2019: "This is Sacred Grounds" de Michael Benisty. «El árbol de la vida que florece de una mujer». <a href="https://www.michaelbenisty.com/">www.michaelbenisty.com</a></figcaption>
+<figcaption>Fotografías de Chuck Thurston: p42. «El Camino Largo», p43. Una escultura fotografiada por Chuck Thurston en Burning Man, 2019:de Michael Benisty. «El árbol de la vida que florece de una mujer». <a href="https://www.michaelbenisty.com/">www.michaelbenisty.com</a></figcaption>
 </figure>
 
 ## Referencias a _El Libro de Urantia_

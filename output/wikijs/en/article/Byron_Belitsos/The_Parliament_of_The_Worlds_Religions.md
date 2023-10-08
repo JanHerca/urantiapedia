@@ -33,7 +33,7 @@ dateCreated: 2022-09-07T11:50:43.548Z
 
 For anyone interested in the future of religion, the 1993 Parliament of the World’s Religions, held in Chicago last September, was a central event of our times, a jubilee for inter-religious dialogue. It also marked the centennial of the world-historic 1893 Parliament of World Religion, now recognized as the founding event in the interfaith movement. The 1993 Parliament heralded a new beginning for the movement for religious unity in a postmodern world.
 
-I attended the Parliament as a member of the press corps, but I was gladly swept up in the spontaneous religious fervor of the event. It was indeed a watershed in my own religious growth. My concepts of unity were so deepened, my inspiration from the event was so powerful, that in certain moments the ground on which we stood became sacred, became for me a mythic world center, an axis mundi. Through this place—the mundane Palmer House Hotel in downtown Chicago—was poured a unifying spirit manifesting itself in a dazzling array of forms of human expression of the divine.
+I attended the Parliament as a member of the press corps, but I was gladly swept up in the spontaneous religious fervor of the event. It was indeed a watershed in my own religious growth. My concepts of unity were so deepened, my inspiration from the event was so powerful, that in certain moments the ground on which we stood became sacred, became for me a mythic world center, an _axis mundi_. Through this place—the mundane Palmer House Hotel in downtown Chicago—was poured a unifying spirit manifesting itself in a dazzling array of forms of human expression of the divine.
 
 Beauty is a matter of “the harmonic unification of contrasts”, and “variety is essential to the concept of beauty” (<a id="a37_116"></a>[UB 56:10.3](/en/The_Urantia_Book/56#p10_3)). Because 125 faiths were united there, the Parliament was an epiphany of the beauty of religious unity—albeit a brief experience of sharing crowded into a week in September.
 
@@ -95,7 +95,7 @@ The exclusivist approach might be described as “exoteric”, as opposed to the
 
 ## Inclusivism
 
-By contrast with the exoteric, the esoteric’s faith is based on a direct mystical or personal experience of the Ultimate. Symbols and beliefs are experienced as transparent—an expedient way to mediate the encounter with God. “The esoteric finds the Absolute within traditions, as poets find poetry in poems,” says Frithjof Schuon, who has elaborated the distinction between exoteric and esoteric in The Transcendental Unity of Religions and elsewhere.
+By contrast with the exoteric, the esoteric’s faith is based on a direct mystical or personal experience of the Ultimate. Symbols and beliefs are experienced as transparent—an expedient way to mediate the encounter with God. “The esoteric finds the Absolute within traditions, as poets find poetry in poems,” says Frithjof Schuon, who has elaborated the distinction between exoteric and esoteric in _The Transcendental Unity of Religions_ and elsewhere.
 
 Esoteric believers in any tradition have an obvious basis for dialogue that is grounded in their common mystical experience. This would imply that there are only two types of religions: the exoteric and the esoteric, and these divergent approaches are to be found in each tradition. Schuon says the real divisions in world religion are not between the many religions, but these two very different types of religious persons.
 

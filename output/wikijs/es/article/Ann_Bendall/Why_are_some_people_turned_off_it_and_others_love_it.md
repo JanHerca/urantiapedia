@@ -108,7 +108,7 @@ Es todo tan nebuloso—hacer la voluntad de Dios, amar a los demás como Dios no
 
 **4. Quizás eres más parcial al Dios de Moisés que al Dios de Jesús**
 
-Algunas personas tienen necesidad de un ‘Dios menor’ que el Dios de Jesús. Es posible que necesiten el día del juicio, el infierno y "el diablo me obligó a hacerlo" para explicar las formas de este planeta, el comportamiento de ellos mismos y el funcionamiento de la justicia universal. Seamos realistas, el infierno es una forma efectiva de asegurar un futuro apropiado para los Hitler de este mundo. ¡Es justo y equitativo!
+Algunas personas tienen necesidad de un ‘Dios menor’ que el Dios de Jesús. Es posible que necesiten el día del juicio, el infierno y «el diablo me obligó a hacerlo» para explicar las formas de este planeta, el comportamiento de ellos mismos y el funcionamiento de la justicia universal. Seamos realistas, el infierno es una forma efectiva de asegurar un futuro apropiado para los Hitler de este mundo. ¡Es justo y equitativo!
 
 El ‘Dios menor’ ayuda a las personas a ignorar la aceptación de la responsabilidad por sus acciones, así como a aceptar su propia imperfección. El problema del Dios de Moisés es que si no fue el diablo quien te obligó a hacerlo, entonces fue un pecado y un día te unirás a Hitler. De ahí la necesidad de un demonio activo en los asuntos de la humanidad.
 

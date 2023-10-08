@@ -51,7 +51,7 @@ Los reveladores de _El Libro de Urantia_ nunca parecen cansarse de afirmar lo di
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/063.jpg">
 </figure>
 
-Es cierto que todos nos hemos beneficiado discutiendo y analizando, en nuestra prosa más elocuente, cada artículo del Libro de Urantia, pasaje por pasaje, en grupos de estudio. Llegamos a comprender más leyendo artículos y comentarios en publicaciones relacionadas con Urantia y en las redes sociales. Aprendemos mucho, pero también salimos con una comprensión más profunda de que, como podría decir el compositor Stephen Stills: "Algo está sucediendo aquí, pero no está exactamente claro qué es".
+Es cierto que todos nos hemos beneficiado discutiendo y analizando, en nuestra prosa más elocuente, cada artículo del Libro de Urantia, pasaje por pasaje, en grupos de estudio. Llegamos a comprender más leyendo artículos y comentarios en publicaciones relacionadas con Urantia y en las redes sociales. Aprendemos mucho, pero también salimos con una comprensión más profunda de que, como podría decir el compositor Stephen Stills: «Algo está sucediendo aquí, pero no está exactamente claro qué es».
 
 Debido a esto, buscamos en las artes un presagio de estas realidades superiores del universo. (ver <a id="a55_99"></a>[LU 48:7.23](/es/The_Urantia_Book/48#p7_23))
 

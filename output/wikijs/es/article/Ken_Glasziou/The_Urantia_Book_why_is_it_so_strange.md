@@ -36,11 +36,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Durante mucho tiempo ha habido un grupo de lectores del Libro de Urantia que han reflexionado sobre el problema de por qué el libro se ha escrito de una manera tan extraña.
 
-Un ejemplo es que se llama a sí mismo la Quinta Revelación de Época, elevando así las expectativas del lector principiante. Pero luego presenta una gran cantidad de material científico desactualizado como si fuera una revelación, dejándolo hasta la página 1109 antes de informarnos que las "leyes de la revelación nos obstaculizan enormemente al prohibir la impartición de conocimiento inmerecido", lo que significa que su contenido científico es anterior a mediados de la década de 1930.
+Un ejemplo es que se llama a sí mismo la Quinta Revelación de Época, elevando así las expectativas del lector principiante. Pero luego presenta una gran cantidad de material científico desactualizado como si fuera una revelación, dejándolo hasta la página 1109 antes de informarnos que las lo que significa que su contenido científico es anterior a mediados de la década de 1930.
 
 Otra curiosidad es la inclusión de materiales que parecen acercarse a lo imposible o al menos a lo altamente improbable. Una de ellas son las propiedades atribuidas a las aves de pasajeros que supuestamente pueden llevar a dos pasajeros adultos una distancia sin parar de 500 millas. Teniendo en cuenta las cargas de las alas y los requisitos de energía, ¿nos enfrentamos a lo imposible? Parece ser así. Otro ejemplo son los increíbles orígenes de los intermedios secundarios.
 
-La inclusión de estos materiales ciertamente no hizo nada para respaldar el reclamo de autenticidad reveladora del libro. Curiosamente, podrían haberse omitido, fueran ciertos o no, y el libro no habría perdido nada de importancia. Sin embargo, la pura brillantez intelectual demostrada por los reveladores en tantas otras partes del libro nos lleva a muchos de nosotros a concluir que las "cosas graciosas" se han incluido por una buena razón. ¿Cuál podría ser esa razón?
+La inclusión de estos materiales ciertamente no hizo nada para respaldar el reclamo de autenticidad reveladora del libro. Curiosamente, podrían haberse omitido, fueran ciertos o no, y el libro no habría perdido nada de importancia. Sin embargo, la pura brillantez intelectual demostrada por los reveladores en tantas otras partes del libro nos lleva a muchos de nosotros a concluir que lasse han incluido por una buena razón. ¿Cuál podría ser esa razón?
 
 El artículo de Ann Bendall sobre la intolerancia contiene algunas observaciones que pueden ser relevantes. Ann nos recuerda que el libro afirma: «_El egotismo teológico autocrático e intolerante sólo apareció con la religión revelada._» (<a id="a44_238"></a>[LU 92:7.2](/es/The_Urantia_Book/92#p7_2)) Ann también comenta que uno de los riesgos con una religión revelada es que tiene la tendencia a disminuir la necesidad de una fe viva así como a fomentar el fenómeno de los «pocos elegidos».
 
@@ -60,7 +60,7 @@ La mayor ruptura con la enseñanza de Jesús se produjo cuando Pablo adaptó lo 
 
 > Hablar es compartir pero escuchar es cuidar.
 
-En esta transición, la muerte de Jesús como significado de la salvación del pecado se convirtió en una enseñanza principal algo así como un "atractor extraño" de la teoría del caos. Además, tanto Jesús como Dios se ubicaron 'allá afuera en algún lugar' y solo se podían contactar a través de la mediación de un sacerdote o un santo muerto hace mucho tiempo, en lugar de ser fuerzas espirituales personalmente disponibles y residentes.
+En esta transición, la muerte de Jesús como significado de la salvación del pecado se convirtió en una enseñanza principal algo así como unde la teoría del caos. Además, tanto Jesús como Dios se ubicaron 'allá afuera en algún lugar' y solo se podían contactar a través de la mediación de un sacerdote o un santo muerto hace mucho tiempo, en lugar de ser fuerzas espirituales personalmente disponibles y residentes.
 
 A la luz de lo que hicimos los humanos con la Cuarta Revelación de Época, ¿no es lógico y natural que los reveladores tomen precauciones para evitar un desastre a la Quinta?
 
@@ -84,7 +84,7 @@ Por supuesto, nosotros, los lectores bien equilibrados del _Libro de Urantia_, p
 
 Debemos agradecer a Ann por recordarnos sobre el síndrome del «pueblo elegido». Jesús exaltó la virtud de la verdadera humildad. Incluso dijo, «_los primeros serán los últimos y los últimos los primeros._» (<a id="a84_207"></a>[LU 163:3.4](/es/The_Urantia_Book/163#p3_4); [Marcos 10:31](/es/Bible/Mark/10#v31))
 
-El libro nos informa que, «_las ideas e ideales de Jesús, incorporados en la enseñanza del evangelio del reino, casi fracasan... Luego dice: “Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo._» (<a id="a86_404"></a>[LU 170:5.4](/es/The_Urantia_Book/170#p5_4); <a id="a86_449"></a>[LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
+El libro nos informa que, «_las ideas e ideales de Jesús, incorporados en la enseñanza del evangelio del reino, casi fracasan... Luego dice: «Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo._» (<a id="a86_404"></a>[LU 170:5.4](/es/The_Urantia_Book/170#p5_4); <a id="a86_449"></a>[LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
 
 Entonces, ¿qué es lo que se debe proclamar? Estos son algunos de sus componentes:
 

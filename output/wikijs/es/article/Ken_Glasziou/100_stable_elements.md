@@ -37,7 +37,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 **Resumen**
 
-La clave de si la declaración de _El Libro de Urantia_ (abajo) sobre la producción de nuevos elementos de número atómico mayor que 100 es la palabra "naturalmente". Los nuevos elementos se forman «naturalmente» en condiciones de alta temperatura y presión. Las condiciones de laboratorio pueden ser muy diferentes. Hasta la fecha, el mendelevio 258 es el único elemento producido artificialmente que tiene un grado razonable de estabilidad: vida media de 54 días. Pero si esperabas construir una vivienda con mendelevio, dentro de dos años, casi todo tu nuevo hogar se habría degradado a otra cosa. Todos los demás "artificiales" tienen tiempos de vida minúsculos.
+La clave de si la declaración de _El Libro de Urantia_ (abajo) sobre la producción de nuevos elementos de número atómico mayor que 100 es la palabra «naturalmente». Los nuevos elementos se forman «naturalmente» en condiciones de alta temperatura y presión. Las condiciones de laboratorio pueden ser muy diferentes. Hasta la fecha, el mendelevio 258 es el único elemento producido artificialmente que tiene un grado razonable de estabilidad: vida media de 54 días. Pero si esperabas construir una vivienda con mendelevio, dentro de dos años, casi todo tu nuevo hogar se habría degradado a otra cosa. Todos los demás «artificiales» tienen tiempos de vida minúsculos.
 
 Sin embargo, la mayoría de los lectores nuevos y conocedores sabrán sobre la producción de nuevos elementos pero tendrán poca información sobre la estabilidad. Así que probablemente considerará que el comentario del _Libro de Urantia_ está equivocado.
 
@@ -45,7 +45,7 @@ Sin embargo, la mayoría de los lectores nuevos y conocedores sabrán sobre la p
 
 > En Orvonton nunca ha sido posible reunir de forma natural más de cien electrones orbitales en un solo sistema atómico. Cuando ciento un electrones se han introducido artificialmente en un campo orbital, el resultado siempre ha sido la desorganización casi instantánea... (<a id="a45_274"></a>[LU 42:7.7](/es/The_Urantia_Book/42#p7_7))
 
-El texto de arriba es de la primera impresión, alguien se tomó la libertad de agregar las palabras "casi" antes de "instantáneo" en ediciones posteriores. La palabra importante a tener en cuenta es "naturalmente".
+El texto de arriba es de la primera impresión, alguien se tomó la libertad de agregar las palabras «casi» antes de «instantáneo» en ediciones posteriores. La palabra importante a tener en cuenta es «naturalmente».
 
 Se sabía desde la década de 1930 que los nuevos elementos debían producirse mediante el bombardeo de un elemento con neutrones, al que seguiría un proceso de desintegración beta en el que un núcleo atómico con un neutrón capturado pierde un electrón. Al hacerlo, uno de los neutrones nucleares se convierte en un protón. Tal elemento pasa a ser el siguiente elemento hacia arriba en la tabla periódica.
 
@@ -57,7 +57,7 @@ Es dudoso que este tipo de reacción ocurra «naturalmente» incluso en las expl
 
 La posibilidad de que estos elementos superpesados ​​ocurran naturalmente en las explosiones de las novas puede ser remota. E incluso si se produjeran, el producto normalmente se descompondría en un instante.
 
-Los documentos de Urantia usan esa palabra "instantáneo" y sus derivados en muchos contextos diferentes. Por ejemplo, dicen que los seres humanos, «desde una perspectiva cósmica, nacen, viven y mueren en un relativo **instante** de tiempo». En términos de una perspectiva cósmica, los elementos por encima de 100, y bastantes por debajo, pueden existir solo por un instante de tiempo relativo y muchos apenas o nada.
+Los documentos de Urantia usan esa palabra «instantáneo» y sus derivados en muchos contextos diferentes. Por ejemplo, dicen que los seres humanos, «desde una perspectiva cósmica, nacen, viven y mueren en un relativo **instante** de tiempo». En términos de una perspectiva cósmica, los elementos por encima de 100, y bastantes por debajo, pueden existir solo por un instante de tiempo relativo y muchos apenas o nada.
 
 El punto importante sobre el comentario de los 100 elementos es que, cuando se hizo, fue «profético». La teoría de Fermi sobre la captura de neutrones y la desintegración beta se estableció en 1937 con la producción de tecnecio a partir de molibdeno. Sin embargo, su cese en el elemento 100 no se estableció empíricamente hasta mediados de la década de 1950. Por lo tanto, solo había pruebas muy escasas para usar el concepto en los Documentos.
 
@@ -96,4 +96,4 @@ Entonces, aunque, técnicamente hablando, la declaración de los autores puede d
 ## Referencias
 
 
-[^1]: Armbruster, P. y FP Hessberger, "Creación de nuevos elementos". Scientific American 279 (3) 50. (1998)
+[^1]: Armbruster, P. y FP Hessberger, «Creación de nuevos elementos». Scientific American 279 (3) 50. (1998)

@@ -43,19 +43,19 @@ Los Documentos de Urantia nos informan que somos libres de elegir la vida eterna
 
 Seguramente estos términos no son diferentes, en principio, de lo que hace un entrenador de caballos. Cuando quiere que un caballo obedezca una orden, se esfuerza por colocarlo en una situación en la que la obediencia trae paz y tranquilidad y la desobediencia trae lo contrario. La ley o las reglas de las sociedades humanas operan sobre el mismo principio: recompensa por el cumplimiento, algún tipo de castigo por la desobediencia. Con respecto a la vida eterna, nuestra elección es aceptar o rechazar la voluntad de Dios para nosotros.
 
-Los Documentos de Urantia nos informan que la entrada al "reino" de Dios es por fe y solo por fe. También nos informan que Dios existe y es «bueno». De ello se deduce que la vida eterna prometida por un Dios bueno también debe ser buena, tan buena de hecho que perderla sería privarse del bien, por lo tanto, «malo». Pero nuestra aceptación de estas afirmaciones debe ser solo por fe, no a través de pruebas.
+Los Documentos de Urantia nos informan que la entrada alde Dios es por fe y solo por fe. También nos informan que Dios existe y es «bueno». De ello se deduce que la vida eterna prometida por un Dios bueno también debe ser buena, tan buena de hecho que perderla sería privarse del bien, por lo tanto, «malo». Pero nuestra aceptación de estas afirmaciones debe ser solo por fe, no a través de pruebas.
 
 ¿Cuán real podría ser nuestra decisión obligatoria «por la fe» si los Documentos de Urantia proporcionaran una prueba positiva tanto de la existencia como de la bondad de Dios?
 
 Al analizar nuestra situación, puede parecernos que tener que elegir siempre la voluntad de Dios es en realidad un sacrificio, una renuncia a nuestro libre albedrío. Esto realmente significa que nuestra preferencia es disfrutar de los placeres aparentes del comportamiento egoísta en lugar de renunciar a ellos eligiendo el camino de Dios, que es servir a nuestros asociados en lugar de explotarlos.
 
-Esta preferencia se deriva directamente de los patrones de comportamiento animal evolutivos heredados. En su mayoría, este comportamiento está asociado con el sexo o el hambre: el alivio de la tensión derivado de la finalización de las relaciones sexuales y el alivio de la ansiedad que resulta de la "propiedad" de un territorio personal que proporciona un refugio de seguridad y libertad del hambre. La naturaleza ha acoplado estos patrones de comportamiento de tal forma que, a la larga, sirven para perpetuar la especie.
+Esta preferencia se deriva directamente de los patrones de comportamiento animal evolutivos heredados. En su mayoría, este comportamiento está asociado con el sexo o el hambre: el alivio de la tensión derivado de la finalización de las relaciones sexuales y el alivio de la ansiedad que resulta de lade un territorio personal que proporciona un refugio de seguridad y libertad del hambre. La naturaleza ha acoplado estos patrones de comportamiento de tal forma que, a la larga, sirven para perpetuar la especie.
 
 En la base, el comportamiento animal es egoísta. Es así porque los patrones de comportamiento relacionados hacen el trabajo necesario para asegurar la supervivencia de las especies. No hay otro propósito. Y, de hecho, no hay una «Naturaleza» que supervise la operación. Existe porque funciona.
 
 La conducta humana es una forma modificada de la conducta animal provocada por la impronta de patrones de conducta animal, un sentido de moralidad y deber, una lucha por el significado, la diferenciación entre hechos y no hechos, entre lo correcto y lo incorrecto, además del deseo de adorar, todo. estos derivados de la mente cósmica. La personalidad también nos imprime atributos específicos que tienden a modificar el comportamiento, entre ellos la autoconciencia, la competencia en la toma de decisiones y la activación de atributos asociados con la mente cósmica. Además de todo eso viene la influencia de nuestro espíritu personal de Dios que mora en nosotros.
 
-Los humanos tenemos todos los atributos necesarios para tomar decisiones de libre albedrío. Pero los poderes fácticos han decretado que para una decisión especial no debemos ser coaccionados. Esa decisión especial es elegir para siempre la voluntad de Dios en preferencia a la nuestra. Esta misma decisión también se describe como la entrada en el reino, la "opción de la vida eterna", la "salvación", etc. Y debe ser por fe y solo por fe. Esto se afirma en numerosas formas:
+Los humanos tenemos todos los atributos necesarios para tomar decisiones de libre albedrío. Pero los poderes fácticos han decretado que para una decisión especial no debemos ser coaccionados. Esa decisión especial es elegir para siempre la voluntad de Dios en preferencia a la nuestra. Esta misma decisión también se describe como la entrada en el reino, la la etc. Y debe ser por fe y solo por fe. Esto se afirma en numerosas formas:
 
 > «Salvación... se tiene sólo creyendo, con una fe sencilla y sincera» (<a id="a59_72"></a>[LU 140:10.1](/es/The_Urantia_Book/140#p10_1)); «La consecución de la salvación es por la fe y sólo por la fe» (<a id="a59_184"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6)); «La fe, la fe sencilla de un niño, es la llave de la puerta del reino» (<a id="a59_302"></a>[LU 170:3.2](/es/The_Urantia_Book/170#p3_2)); «Solo la fe te hará pasar a través de sus portales». (<a id="a59_402"></a>[LU 140:1.4](/es/The_Urantia_Book/140#p1_4)); «el individuo llega a conocer a Dios solo por la fe». (<a id="a59_503"></a>[LU 102:6.5](/es/The_Urantia_Book/102#p6_5)).
 
@@ -75,7 +75,7 @@ Aquí hay otro que es extremadamente útil:
 
 > «El Jesús humano veía a Dios como santo, justo y grande, así como verdadero, bello y bueno. Todos estos atributos de la divinidad los enfocó en su mente como «la voluntad del Padre que está en los cielos»» (<a id="a75_209"></a>[LU 196:0.2](/es/The_Urantia_Book/196#p0_2))
 
-Así como con los valores espirituales o divinos a los que no se les puede dar una definición precisa, así sucede con la «voluntad de Dios». Su definición es "circunstancial": depende de las circunstancias, algunas de las cuales pueden ser extremadamente complejas.
+Así como con los valores espirituales o divinos a los que no se les puede dar una definición precisa, así sucede con la «voluntad de Dios». Su definición es depende de las circunstancias, algunas de las cuales pueden ser extremadamente complejas.
 
 Todos los términos, santo, justo, grandioso, verdadero, hermoso y bueno son indefinibles y, a menudo, relativos. Se nos dice que podemos conocer a Dios más por la vida de Jesús que por sus enseñanzas. Sin embargo, una vez más, es probable que los incidentes en su vida no sean independientes de las circunstancias en las que ocurren. Tenemos que tener una «sensación» de cómo reaccionaría Jesús en circunstancias particulares.
 
@@ -85,7 +85,7 @@ Una buena guía sobre cómo debemos amar a nuestro prójimo se encuentra en la d
 
 El término «bien cósmico supremo» significa que al buscar ayudar o amar a otro, no es necesariamente su beneficio inmediato lo que debería preocuparnos. Más bien, deberíamos pedirle al Espíritu de la Verdad que nos ayude a saber y hacer lo que podría ayudarlos de alguna manera a avanzar en su carrera eterna, o al menos a no ponerla en peligro.
 
-Además de la guía que obtenemos del «bien cósmico supremo» al servir a nuestros hermanos y hermanas, las palabras de Jesús: «La voluntad de Dios es el camino de Dios» siempre son útiles, especialmente cuando se combinan con la pregunta: “¿Qué haría Jesús en como las circunstancias?
+Además de la guía que obtenemos del «bien cósmico supremo» al servir a nuestros hermanos y hermanas, las palabras de Jesús: «La voluntad de Dios es el camino de Dios» siempre son útiles, especialmente cuando se combinan con la pregunta: «¿Qué haría Jesús en como las circunstancias?»
 
 > Florence Nightingale di inspira asombro, no porque uno sintiera miedo de ella per se, sino porque la esencia misma de la Verdad parecía emanar de ella, y por su perfecta valentía al contarla.
 > _William Richmond_

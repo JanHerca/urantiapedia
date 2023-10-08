@@ -77,7 +77,7 @@ Los símbolos de palabras, por muy instructivos que sean, crean sus propias limi
 
 **Claudia:** Cada uno de nosotros está conectado con todos los demás seres vivos. Cada uno de nosotros está vinculado incluso a las estructuras elementales y las energías del universo que encienden, apoyan y sustentan la vida. El sistema viviente que algunos llaman tierra y otros llaman Urantia, está orientado a volverse cada vez más sostenible, o no lo está. Cada uno de nosotros tiene una mano en esta guía planetaria.
 
-Mientras escribo, estamos al borde de una guerra que puede ir de dos maneras: más cerca de la comunidad global o más lejos de ella. (Me gusta usar esta ortografía de comunidad: “Come-in-unity”[^2].)
+Mientras escribo, estamos al borde de una guerra que puede ir de dos maneras: más cerca de la comunidad global o más lejos de ella. (Me gusta usar esta ortografía de comunidad: «Come-in-unity»[^2].)
 
 Creemos que a Jesús le gustaría que todos los adultos vieran a cada niño del planeta como uno más. Creemos que este es el verdadero significado de amar incondicionalmente a los hijos. Jesús nos dio tantos consejos sobre cómo hacer la voluntad de Dios. Él pidió que nos amemos unos a otros en la forma en que él nos ama a cada uno de nosotros, la forma en que Dios nos ama a cada uno de nosotros. Si comenzamos por amar a todos los niños de la tierra, pronto progresaremos a amar también a todos los adultos.
 

@@ -38,7 +38,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 También se requiere armonía y afinidad entre sí para la armonía espiritual si una de las personalidades también es divina. Incluso para acercarse al conocimiento de una personalidad divina se requiere que toda nuestra dotación de personalidad se consagre al esfuerzo. Un compromiso parcial y poco entusiasta será invariablemente un fracaso.
 
-Nuestra capacidad para alcanzar cualquier grado de conciencia de Dios y comunicación con el Ajustador no puede ser sino proporcional a nuestra "afinidad moral y armonía espiritual" con la divinidad. Pero, ¿cómo pueden los seres finitos como nosotros lograr afinidad y armonía con la divinidad cuando tenemos tan poca comprensión de una dimensión del "ser" con la que no tenemos contacto ni experiencia?
+Nuestra capacidad para alcanzar cualquier grado de conciencia de Dios y comunicación con el Ajustador no puede ser sino proporcional a nuestra «afinidad moral y armonía espiritual» con la divinidad. Pero, ¿cómo pueden los seres finitos como nosotros lograr afinidad y armonía con la divinidad cuando tenemos tan poca comprensión de una dimensión del «ser» con la que no tenemos contacto ni experiencia?
 
 El principal propósito de la encarnación de Jesús fue reducir la enorme brecha existente entre el mundo finito de la experiencia humana y el mundo infinito y trascendente de lo existencial, absoluto y divino.
 

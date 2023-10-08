@@ -40,8 +40,7 @@ Hemos recorrido muchos kilómetros conceptuales en este estudio. Hemos sido auda
 
 El autor es dolorosamente consciente de las limitaciones de la mente humana. Percibimos tan débilmente, comprendemos tan lentamente, parecemos tan insensibles a la luz de la verdad. Las especulaciones de este estudio sin duda son muy propensas al error. Es muy poco probable que razonemos mediante hechos válidos. Pero, incluso aquí, al final, otro pasaje de los Documentos [LU 196:3.31](/es/The_Urantia_Book/196#p3_31) ofrece mucho a modo de consuelo:
 
-> “Toda la fantasía del hombre sobre el universo puede no
-ser un hecho, pero una parte, una gran parte es verdad”.
+> «Toda la fantasía del hombre sobre el universo puede no ser un hecho, pero una parte, una gran parte es verdad».
 
 <br>
 

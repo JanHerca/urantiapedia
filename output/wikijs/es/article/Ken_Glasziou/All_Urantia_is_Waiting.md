@@ -35,9 +35,9 @@ dateCreated: 2022-9-9T8:12:18Z
 
 ¿Qué es la «realidad espiritual viva del evangelio de Jesús»? Tres esenciales son:
 
-> - “Primero, el reconocimiento del hecho de la soberanía de Dios.
-> - Segundo, creencia en la verdad de la filiación con Dios.
-> - Tercero, la fe en la eficacia del  deseo supremo humano de hacer la voluntad de Dios —**de ser semejante a Dios**.
+> - «Primero, el reconocimiento del hecho de la soberanía de Dios.»
+> - «Segundo, creencia en la verdad de la filiación con Dios.»
+> - «Tercero, la fe en la eficacia del  deseo supremo humano de hacer la voluntad de Dios —**de ser semejante a Dios**.»
 >
 > «_Y he aquí la buena nueva del evangelio: por medio de la fe, cada mortal puede poseer todas estas cosas esenciales para la salvación._» (<a id="a41_140"></a>[LU 140:10.9](/es/The_Urantia_Book/140#p10_9))
 

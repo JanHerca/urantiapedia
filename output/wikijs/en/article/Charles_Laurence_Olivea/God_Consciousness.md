@@ -122,7 +122,7 @@ Your understanding is infinite and Your greatness is unsearchable. You do great 
 You are the Lord, who changes not, the Father of Lights in whom there is no variableness nor shadow of changing. Your counsel shall stand according to Your eternal purpose which You placed with Your sons. 
 You are righteous and just, Your natural laws wise, and Your spiritual mandates righteous. 
 Your mercy is the logical and inevitable offspring of good ness and love. You are the Lord who executes loving-kindness in judgment. 
-You are love. Your “love is universal”. Whosoever will may come! You would “have all men be saved by coming into the knowledge of [this] truth. You are not willing that any should perish. In all our afflictions, You are afflicted with us. 
+You are love. Your “love is universal”. Whosoever will may come! You would “have all men be saved by coming into the knowledge of [this] truth.” You are not willing that any should perish. In all our afflictions, You are afflicted with us. 
 You are our Father; a real Father; a true Father; the Universal Father. 
 Every good gift and every perfect gift comes down from You, the Father of Lights. You are the eternal refuge of the souls of Your sons and daughters. You heal the broken-hearted and You bind up the wounds of the sin-sick soul. Lord, You are our all-powerful benefactor. 
 You know “our down sittings and our uprisings.” All things are open to You. You understand what we have need of even before we ask it of You. 

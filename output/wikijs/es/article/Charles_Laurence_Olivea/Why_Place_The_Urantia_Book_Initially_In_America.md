@@ -51,7 +51,7 @@ Quienes manejan el gobierno planetario celestial parecen siempre establecer circ
 
 Aquí está mi lista:
 
-(1). La invención de la radio (década de 1890). Esta tecnología demostró que la inteligencia podía transmitirse "***invisiblemente***" sin la ayuda de cables físicos que se pudieran ver. Esto puede haber anticipado la credibilidad de la existencia de autores celestiales normalmente invisibles para nosotros. Es posible que las innovaciones futuras de la tecnología moderna para las comunicaciones humanas solo hayan reforzado esto.
+(1). La invención de la radio (década de 1890). Esta tecnología demostró que la inteligencia podía transmitirse «***invisiblemente***» sin la ayuda de cables físicos que se pudieran ver. Esto puede haber anticipado la credibilidad de la existencia de autores celestiales normalmente invisibles para nosotros. Es posible que las innovaciones futuras de la tecnología moderna para las comunicaciones humanas solo hayan reforzado esto.
 
 (2.) Idioma inglés. El idioma inglés fue muy útil para los reveladores, ya que tenían que presentar conceptos espirituales y cósmicos avanzados a la mente humana, ***finita***. El inglés tiene la flexibilidad para el uso creativo de ***palabras y frases***, especialmente sus sustantivos, verbos y adjetivos. Esto fue particularmente útil en el esfuerzo por introducir y transmitir conceptos.
 
@@ -87,7 +87,7 @@ Aquí está mi lista:
 
 (11). La Liga de las Naciones (principios de la década de 1920). Esta fue la primera organización verdaderamente internacional de Urantia con el propósito de unir a las naciones del mundo. No era un gobierno por definición convencional, sino una asociación mundial de países. Proporcionó un sentido nuevo y más amplio de lo que podría significar la idea del «***mundo***».
 
-(12). La próxima era espacial (1957). Las fuerzas celestiales probablemente anticiparon la nueva perspectiva que ofrecería la era espacial. Ver el planeta desde el espacio fue otra forma que alteró la visión de las personas al pensar en el «mundo». (Los primeros cohetes modernos toscos se experimentaron en los Estados Unidos al menos en la década de 1930). La era de la exploración, que comenzó a fines del siglo XV, cambió drásticamente la forma en que los europeos percibían el "mundo".
+(12). La próxima era espacial (1957). Las fuerzas celestiales probablemente anticiparon la nueva perspectiva que ofrecería la era espacial. Ver el planeta desde el espacio fue otra forma que alteró la visión de las personas al pensar en el «mundo». (Los primeros cohetes modernos toscos se experimentaron en los Estados Unidos al menos en la década de 1930). La era de la exploración, que comenzó a fines del siglo XV, cambió drásticamente la forma en que los europeos percibían el «mundo».
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/025.jpg">
@@ -105,7 +105,7 @@ Aquí está mi lista:
 
 (14). El acervo genético humano. En parte, se necesitaba un punto de vista diferente sobre la ***relación causal*** entre nuestra estructura genética y la civilización evolutiva para contribuir al proceso evolutivo del nuevo orden planetario. Piensa en el Documento 72.
 
-(15). El advenimiento de la «aldea global». La industria, la tecnología y la ciencia modernas han convertido al mundo en un «vecindario»; la religión, la espiritualidad y la ética superior han fracasado hasta ahora en hacer una "hermandad". Se necesita la revelación celestial para abordar la posibilidad real de un "crecimiento detenido" en nuestro mundo debido a la gran tensión entre los dos. Creo que esta tensión es la principal fuente de descontento hoy y en los últimos 100 años. Para progresar verdaderamente hacia la vida y la luz, necesitamos un sentido genuinamente iluminado de ***¿Quiénes somos? ¿Por qué estamos aquí? y, ¿Adónde vamos?***
+(15). El advenimiento de la «aldea global». La industria, la tecnología y la ciencia modernas han convertido al mundo en un «vecindario»; la religión, la espiritualidad y la ética superior han fracasado hasta ahora en hacer una «hermandad». Se necesita la revelación celestial para abordar la posibilidad real de un «crecimiento detenido» en nuestro mundo debido a la gran tensión entre los dos. Creo que esta tensión es la principal fuente de descontento hoy y en los últimos 100 años. Para progresar verdaderamente hacia la vida y la luz, necesitamos un sentido genuinamente iluminado de ***¿Quiénes somos? ¿Por qué estamos aquí? y, ¿Adónde vamos?***
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/026.jpg">

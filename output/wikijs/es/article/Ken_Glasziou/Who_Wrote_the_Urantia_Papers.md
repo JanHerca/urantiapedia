@@ -77,7 +77,7 @@ Pero | Parte 4 y Parte 2 | 0.1
 Pero | Parte 4 y Parte 3 | 0.1
 Esto | Prólogo y libro completo | 1.0
 Esto | Portador de Vida y libro completo | 0.1
-Esto | Prólogo y Divino Consejero | 0.1
+Esto | Prólogo y Consejero Divino | 0.1
 
 La primera investigación tenía el objetivo limitado de decidir si un solo autor escribió el libro. Los resultados (Tabla 1) se publicaron por primera vez en el boletín australiano Six-O-Six, vol. 13 (2), 1992 e indicó que puede haber más de nueve autores. Más tarde, mi hijo, Paul, quien tiene un Ph.D. en matemáticas y estadística, sugirió que se podría realizar una investigación más rigurosa para aquellos autores a los que se atribuyeron múltiples artículos. Dicho análisis permitió la inclusión de estimaciones de la varianza tanto dentro como entre los autores. Se eligieron cinco conjuntos de cuatro o más artículos de cinco autores en los que había certeza razonable de que cada conjunto era atribuible al mismo autor. Los resultados de esta investigación se publicaron en Six-O-Six, Vol 14 (3), 1993, y se distinguieron claramente entre cada uno de los cinco autores. Además de los datos proporcionados en la Tabla 2, una prueba de razón de verosimilitud global en un análisis de regresión lógica mostró que para la palabra marcadora «Y», los resultados indicaron cuatro o más autores con un nivel de probabilidad de 0,0003. Para la palabra marcadora «El», se indicaron tres o más autores con un nivel de probabilidad de 0,0001.
 

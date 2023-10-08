@@ -46,7 +46,7 @@ En una clase a la que asistí hace años, el líder del taller y profesor de la 
 
 - **Estático:** «Podemos elegir algo como una estrella para concentrarnos y ser serios». (Robert Frost)
 - **Potencial:** «El Tao... es como el eterno vacío; llena de infinitas posibilidades. Está escondido pero siempre presente. No sé quién lo dio a luz. Es más antiguo que Dios». (Tao Te Ching #4)
-- **Asociativo:** “Que todos sean uno, Padre, como tú en mí y yo en ti. Que ellos también estén en nosotros para que el mundo crea que tú me enviaste. Yo les he dado la gloria que tú me diste, para que sean uno como nosotros somos uno, yo en ellos y tú en mí, para que sean llevados a la unidad completa. ([Juan 17:21-26](/es/Bible/John/17#v21))
+- **Asociativo:** «Que todos sean uno, Padre, como tú en mí y yo en ti. Que ellos también estén en nosotros para que el mundo crea que tú me enviaste. Yo les he dado la gloria que tú me diste, para que sean uno como nosotros somos uno, yo en ellos y tú en mí, para que sean llevados a la unidad completa.» ([Juan 17:21-26](/es/Bible/John/17#v21))
     «El universo es triuno... no hay nada que no sea una unidad de potencialidad, actualidad y movimiento conector.» (Nicolás de Cusa, De Docta Ignorantia, hacia 1450)
 - Creativo: «Donde hay creación hay progreso. Donde no hay creación, no hay progreso». (Chandogya Upanishad 7.16-25, trad. de Juan Mascaro)
     «Crea en mí un corazón puro, oh Dios, y renueva un espíritu firme dentro de mí». (Salmo 51) Evolutivo: «Dios es un verbo». (Buckminster Fuller) Supremo: «_La realidad Suprema ... está en proceso de crecimiento dinámico entre los potenciales incalificados del espacio exterior y las manifestaciones incalificadas que se encuentran en el centro de todas las cosas_». (<a id="a51_370"></a>[LU 115:4](/es/The_Urantia_Book/115#p4))
@@ -56,7 +56,7 @@ En el documento <a id="a54_16"></a>[LU 94:3.3](/es/The_Urantia_Book/94#p3_3) (El
 
 El Ser Supremo es también el cuarto paso en «nuestro acercamiento séptuple a la Deidad» (<a id="a56_89"></a>[LU 0:8.1](/es/The_Urantia_Book/0#p8_1)) mediante el cual «lo finito alcanza el abrazo de lo infinito». (<a id="a56_194"></a>[LU 0:8.11](/es/The_Urantia_Book/0#p8_11))
 
-La enseñanza de Jesús sobre la accesibilidad a Dios (a través del Supremo) sobrevivió en el cristianismo. «Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar». ([Mateo 11:28](/es/Bible/Matthew/11#v28)) “Acercaos a Dios y él se acercará a vosotros. ([Santiago 4:8](/es/Bible/James/4#v8))
+La enseñanza de Jesús sobre la accesibilidad a Dios (a través del Supremo) sobrevivió en el cristianismo. «Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar». ([Mateo 11:28](/es/Bible/Matthew/11#v28)) «Acercaos a Dios y él se acercará a vosotros.» ([Santiago 4:8](/es/Bible/James/4#v8))
 
 Michael Meade imaginó la creación recíproca, nuestra participación en la evolución del Supremo a través de nuestras propias acciones creativas; lo expresa de esta manera: «El genio de la naturaleza humana implica capacidades innatas para la creación y la invención que son importantes en la vida de cada individuo y esenciales para el equilibrio del mundo. El verdadero individuo, en virtud de ser él o ella misma, entra en un estado de asociación con los actos de creación en curso y, por lo tanto, agrega algo a la vida que no estaba allí antes». (Michael Meade, _El mito del genio_, pág. 14)
 

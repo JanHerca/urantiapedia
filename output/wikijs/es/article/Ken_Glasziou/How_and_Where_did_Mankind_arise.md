@@ -55,7 +55,7 @@ Encontrados en un sitio llamado Herto en Etiopía, estos fósiles exhiben rasgos
 
 Estos homínidos de Herto también son indicativos de si los neandertales fueron los antepasados ​​del hombre moderno. Mientras que los teóricos de ‘fuera de África’ sostienen que tales homínidos arcaicos no contribuyeron significativamente al acervo genético humano moderno, muchos multirregionalistas han argumentado que los neandertales se cruzaron o se fusionaron con los humanos modernos.
 
-Los neandertales existieron desde hace unos 200.000 años hasta hace unos 30.000 años cuando desaparecieron. El hecho de que estos humanos Herto casi modernos ya estuvieran presentes en Etiopía mientras los neandertales todavía estaban desarrollando sus características distintivas en Europa es indicativo de que, como máximo, solo cantidades insignificantes de material genético neandertal se habrían "filtrado" al humano moderno.
+Los neandertales existieron desde hace unos 200.000 años hasta hace unos 30.000 años cuando desaparecieron. El hecho de que estos humanos Herto casi modernos ya estuvieran presentes en Etiopía mientras los neandertales todavía estaban desarrollando sus características distintivas en Europa es indicativo de que, como máximo, solo cantidades insignificantes de material genético neandertal se habríanal humano moderno.
 
 Otra evidencia de que los neandertales contribuyeron poco al acervo genético de los humanos modernos proviene de estudios de ADN mitocondrial (ADNmt) de dos fósiles europeos modernos tempranos que demostraron ser marcadamente diferentes de las secuencias de ADNmt recuperadas de cuatro especímenes de neandertales.
 

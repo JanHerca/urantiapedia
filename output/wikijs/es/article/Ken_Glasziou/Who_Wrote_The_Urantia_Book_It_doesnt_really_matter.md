@@ -46,7 +46,7 @@ El Espíritu de la Verdad fue «derramado» en Pentecostés. Fue tan efectivo qu
 
 La necesidad de una revelación divina y autoritaria parece ser proporcional a la incertidumbre e inseguridad actuales del individuo. Quizás eso sea de esperar. Todos debemos comenzar en alguna parte.
 
-Sin embargo, cuando la incertidumbre y la inseguridad se convierten en una necesidad patológica de una guía "infalible" hacia la verdad, ya sea la Biblia, el Corán, el Libro de Urantia o cualquier otro documento, en lugar de demostrar que poseen una fe inquebrantable como muchos afirman , realmente refleja una falta de fe.
+Sin embargo, cuando la incertidumbre y la inseguridad se convierten en una necesidad patológica de una guíahacia la verdad, ya sea la Biblia, el Corán, el Libro de Urantia o cualquier otro documento, en lugar de demostrar que poseen una fe inquebrantable como muchos afirman , realmente refleja una falta de fe.
 
 «La fe tiene que ser irrazonable. Si tenemos razón para la fe, no es fe, es lógica. La fe simplemente debe ser irrazonable». (B. Appleyard) Jesús nos enseñó: «La fe es la puerta abierta para entrar en el amor presente, perfecto y eterno de Dios». El libro enseña:
 

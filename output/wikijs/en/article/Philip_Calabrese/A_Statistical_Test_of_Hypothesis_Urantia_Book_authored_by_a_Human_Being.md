@@ -210,7 +210,7 @@ In that regard, they should know that _The Urantia Book_ preaches the Gospel of 
 [^xiv]: <a id="a209_8"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2). Also see http://www.ubthenews.com/topics/mercury.htm 
 
 [^xv]: <a id="a211_7"></a>[UB 57:5.14](/en/The_Urantia_Book/57#p5_14) _“Retrograde motion in any astronomic system is always accidental and always appears as a result of the collisional impact of foreign space bodies”_ ; 
-    “Discovery of the retrograde trans-neptunian object 2008 KV42”, The CFEPS project team announces the detection and orbit determination of the first ever trans-neptunian object known to orbit backwards around the Sun. “‘Halley-type comets’ have retrograde and/or highly-inclined orbits, their origin is currently a puzzle. Models trying to produce these from either a Kuiper Belt source or an Oort cloud source have been largely unsuccessful. http://www.cfeps.net/CFEPS/KV42_Press.html
+    “Discovery of the retrograde trans-neptunian object 2008 KV42”, The CFEPS project team announces the detection and orbit determination of the first ever trans-neptunian object known to orbit backwards around the Sun. “‘Halley-type comets’ have retrograde and/or highly-inclined orbits, their origin is currently a puzzle. Models trying to produce these from either a Kuiper Belt source or an Oort cloud source have been largely unsuccessful.” http://www.cfeps.net/CFEPS/KV42_Press.html
 
 [^xvi]: <a id="a214_8"></a>[UB 57:5](/en/The_Urantia_Book/57#p5). Also see “Scientific Predictions of _The Urantia Book_ by Irwin Ginsburgh, Ph.D., and Geoffrey L. Taylor”, UBRON email 2007. 
 

@@ -48,7 +48,7 @@ Para obtener una apreciación real de por qué los Documentos son como son, pued
 
 Para ilustrar esta posibilidad, los reveladores proporcionaron muchos detalles sobre Séforis, una ciudad reconstruida por Herodes a solo unas pocas millas de Nazaret. Esta ciudad sigue siendo objeto de una excavación arqueológica que ya ha demostrado que Séforis fue una ciudad sofisticada, de carácter predominantemente griego. El nuevo conocimiento contrasta fuertemente con el concepto de larga data de que Jesús se crió en un ambiente sencillo y de estilo campesino entre los galileos que se sabe que fueron despreciados en Jerusalén. Las preguntas que ahora se hacen son: ¿Podía Jesús hablar griego? ¿Asistió al teatro o vio las obras que habrían sido parte de la vida cotidiana en esa ciudad?
 
-Poco se sabía de Séforis hasta hace poco. Habría sido sencillo para los reveladores incluir las distancias exactas desde Nazaret hasta el anfiteatro y otros edificios importantes que posiblemente no podrían haberse conocido en el momento de recibir los Documentos. Dadas suficientes "pruebas" indiscutibles, habría sido imposible que los académicos y los líderes de la iglesia ignoraran la revelación.
+Poco se sabía de Séforis hasta hace poco. Habría sido sencillo para los reveladores incluir las distancias exactas desde Nazaret hasta el anfiteatro y otros edificios importantes que posiblemente no podrían haberse conocido en el momento de recibir los Documentos. Dadas suficientesindiscutibles, habría sido imposible que los académicos y los líderes de la iglesia ignoraran la revelación.
 
 Los reveladores optaron por no hacer esto. Más bien, eligieron aplicar los frenos a su manera. ¿Quién puede argumentar que no estaban tan justificados?
 

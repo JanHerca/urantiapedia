@@ -49,7 +49,7 @@ El cristianismo no está tan lejos de la pista. La presentación al cristianismo
 
 En pocas palabras, la lección que el cristianismo necesita aprender ahora es que **Jesús reveló a Dios como un Padre misericordioso y compasivo cuyo amor y misericordia como Padre trascendió su justicia y rectitud como juez.** Este concepto de Dios automáticamente corrige error no sólo en el cristianismo sino en todas las religiones. Para la era actual, es una necesidad importante.
 
-No es que no haya cristianos que estén íntimamente familiarizados con el Dios retratado por Jesús en _El Libro de Urantia_. En un episodio reciente de la producción de la Comisión de Radiodifusión Británica, "Canciones de alabanza", en un episodio que presenta al místico del siglo XIV, Julián de Norwich, se entrevistó a un pequeño y encantador sacerdote que no requirió absolutamente ninguna lección sobre un Dios cuyo amor está lejos. trascendió su ira. El mensaje solo necesita volverse general.
+No es que no haya cristianos que estén íntimamente familiarizados con el Dios retratado por Jesús en _El Libro de Urantia_. En un episodio reciente de la producción de la Comisión de Radiodifusión Británica, en un episodio que presenta al místico del siglo XIV, Julián de Norwich, se entrevistó a un pequeño y encantador sacerdote que no requirió absolutamente ninguna lección sobre un Dios cuyo amor está lejos. trascendió su ira. El mensaje solo necesita volverse general.
 
 > Si un niño vive con aprobación, aprende a vivir consigo mismo.
 > _Dorothy Ley Nolte_

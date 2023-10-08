@@ -41,7 +41,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 La respuesta a eso es sí. A pesar de la adhesión casi fanática del establecimiento científico a la validez del concepto del Big Bang, hay disidentes. Sin embargo, la naturaleza humana es tal que les resulta extremadamente difícil que su trabajo sea aceptado para su publicación. Al igual que con la mayoría de las actividades humanas, detrás de la escena científica hay reputación y poder, así como dinero. Y dinero significa política, lo que significa concentración de poder con unos pocos. Enfréntalos y sufrirás.
 
-Curiosamente, la principal diferencia entre el Big Bang y sus principales alternativas es una diferencia pequeña pero vital. ¿Cuánto tardan las partículas de materia que emergen de una energía relativamente indiferenciada en ganar masa? El Big Bang hace que todo suceda en los primeros momentos del tiempo. Eso impone a la teoría subsiguiente un intervalo de quince mil millones de años para llevarnos al "ahora".
+Curiosamente, la principal diferencia entre el Big Bang y sus principales alternativas es una diferencia pequeña pero vital. ¿Cuánto tardan las partículas de materia que emergen de una energía relativamente indiferenciada en ganar masa? El Big Bang hace que todo suceda en los primeros momentos del tiempo. Eso impone a la teoría subsiguiente un intervalo de quince mil millones de años para llevarnos al
 
 Una teoría en competencia, la cosmología del estado cuasi-estacionario (QSSC) pertenece principalmente a los británicos: el equipo de marido y mujer de Burbidge, el recalcitrante Fred Hoyle, y el sobreviviente del Imperio, el brillante indio Jayant Narlikar. Una modificación de QSSC proviene de otro rebelde, Halton Arp, quien cuestiona que el desplazamiento hacia el rojo de la luz de estrellas distantes signifique una mayor velocidad de recesión y una mayor distancia de nosotros.
 
@@ -96,7 +96,7 @@ Basta con comentar que este es un equipo maravillosamente dotado, no un grupo de
 
 > «No dejéis que vuestros escarceos en los descubrimientos ligeramente vislumbrados de la «relatividad» alteren vuestros conceptos de la eternidad y de la infinidad de Dios». (<a id="a96_176"></a>[LU 195:7.5](/es/The_Urantia_Book/195#p7_5))
 
-Muchos lectores del Libro de Urantia creen que algunos de los comentarios en los Documentos que usan el término "relatividad" se refieren a la Relatividad General de Einstein. Esta creencia puede estar fuera de lugar. Sin embargo, aquellos que lo hagan pueden sentirse aliviados al saber que el modelo de la creación de Arp elimina la necesidad de la curvatura del espacio-tiempo que es básica en la relatividad general de Einstein.
+Muchos lectores del Libro de Urantia creen que algunos de los comentarios en los Documentos que usan el términose refieren a la Relatividad General de Einstein. Esta creencia puede estar fuera de lugar. Sin embargo, aquellos que lo hagan pueden sentirse aliviados al saber que el modelo de la creación de Arp elimina la necesidad de la curvatura del espacio-tiempo que es básica en la relatividad general de Einstein.
 
 Estas visiones de estado casi estacionario proporcionan un ajuste mucho más cercano a la cosmología del Libro de Urantia que un comienzo del Big Bang. Pero solo la acumulación de evidencia observacional revelará cuál de los modelos, si alguno, se aproxima a la verdad. Así que es una tarea de esperar y ver.
 

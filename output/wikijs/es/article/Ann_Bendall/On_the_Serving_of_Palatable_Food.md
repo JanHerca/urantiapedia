@@ -38,7 +38,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Una población pequeña y selecta abunda en esta tierra que se ofende con la palabra «Dios».
 
-Para estas personas, creer en Dios se considera pueril. Pero si escuchas su desafío, se argumenta en contra de la palabra "Dios" como si designara un concepto en lugar de una personalidad. Sin embargo, al ser cuestionados, los negadores de Dios afirman que rechazan tanto el concepto como las imágenes de la personalidad. Sin embargo, nunca estoy muy seguro de si están rechazando:
+Para estas personas, creer en Dios se considera pueril. Pero si escuchas su desafío, se argumenta en contra de la palabra «Dios» como si designara un concepto en lugar de una personalidad. Sin embargo, al ser cuestionados, los negadores de Dios afirman que rechazan tanto el concepto como las imágenes de la personalidad. Sin embargo, nunca estoy muy seguro de si están rechazando:
 
 - el Dios del Antiguo Testamento
 - la inconsistencia bíblica de Dios

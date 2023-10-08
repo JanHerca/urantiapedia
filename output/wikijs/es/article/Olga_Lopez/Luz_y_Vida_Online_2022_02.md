@@ -170,7 +170,7 @@ En palabras de su autor: «Ideario es el producto de tres factores principales: 
 
 Jesús de Nazaret (Jan Herca)
 
-Todos los lectores del libro sentimos un especial cariño hacia la figura de Jesús, el protagonista de esta historia, de modo que es fácil para nosotros sumergirnos en la historia como si estuviéramos allí. Esta primera entrega de “Jesús de Nazaret” narra los hechos de la vida del Maestro desde su retiro en el monte Hermón, donde tuvo conciencia de su verdadera identidad por primera vez desde que llegó a nuestro mundo, hasta el arresto de Juan el Bautista, pasando por los hechos extraordinarios ocurridos durante el bautismo de Jesús en el Jordán. Todo según se cuenta en _El Libro de Urantia._
+Todos los lectores del libro sentimos un especial cariño hacia la figura de Jesús, el protagonista de esta historia, de modo que es fácil para nosotros sumergirnos en la historia como si estuviéramos allí. Esta primera entrega de «Jesús de Nazaret» narra los hechos de la vida del Maestro desde su retiro en el monte Hermón, donde tuvo conciencia de su verdadera identidad por primera vez desde que llegó a nuestro mundo, hasta el arresto de Juan el Bautista, pasando por los hechos extraordinarios ocurridos durante el bautismo de Jesús en el Jordán. Todo según se cuenta en _El Libro de Urantia._
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/inspirado-en-el-lu-jesus-de-nazaret-de-jan-herca/)
 <br style="clear:both" />
@@ -200,7 +200,7 @@ Proyecto de una ética mundial (Hans Küng)
 
 De esta forma comienza este libro de Hans Küng, teólogo católico ya fallecido. En este ensayo el autor se encarga de argumentar sistemáticamente sus reflexiones para llegar a las conclusiones que expresan las tres frases antes citadas.
 
-Küng afirma en este libro que la ética debe estar basada en “lo Incondicionado”; toda ética que no esté basada en valores trascendentes (religiosos) no sirve, no es fuente de sentido para nuestra vida. Si además tenemos en cuenta que la falta de valores que aqueja a la sociedad occidental nos está llevando a un callejón sin salida; es más, está haciendo peligrar la propia supervivencia de la humanidad, la única solución para evitar nuestra autodestrucción es la creación de una ética mundial que rija todos los ámbitos de nuestra sociedad (cultura, economía, política, relaciones humanas, etc.)
+Küng afirma en este libro que la ética debe estar basada en «lo Incondicionado»; toda ética que no esté basada en valores trascendentes (religiosos) no sirve, no es fuente de sentido para nuestra vida. Si además tenemos en cuenta que la falta de valores que aqueja a la sociedad occidental nos está llevando a un callejón sin salida; es más, está haciendo peligrar la propia supervivencia de la humanidad, la única solución para evitar nuestra autodestrucción es la creación de una ética mundial que rija todos los ámbitos de nuestra sociedad (cultura, economía, política, relaciones humanas, etc.)
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/libros-proyecto-de-una-etica-mundial-de-hans-kung/)
 <br style="clear:both" />

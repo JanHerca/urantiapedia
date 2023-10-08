@@ -71,7 +71,7 @@ El éxito o el fracaso están en proporción directa a cuánto de nuestro tiempo
 
 Sin embargo, para proporcionar respuestas tentativas a preguntas serias, debemos basarnos en nuestro conocimiento previo del Padre tal como nos fue revelado en la vida de Jesús de Nazaret.
 
-Entonces, en cualquier situación en la que nos encontremos, nuestra toma de decisiones puede estar guiada por una sola pregunta poderosa: "¿Qué haría Jesús?" Y con el tiempo, lo que comenzó como una relación unilateral y completamente humana progresará gradualmente hasta un estado en el que nuestras próximas decisiones se acerquen cada vez más a tener la esencia de la divinidad.
+Entonces, en cualquier situación en la que nos encontremos, nuestra toma de decisiones puede estar guiada por una sola pregunta poderosa:Y con el tiempo, lo que comenzó como una relación unilateral y completamente humana progresará gradualmente hasta un estado en el que nuestras próximas decisiones se acerquen cada vez más a tener la esencia de la divinidad.
 
 Para que ese proceso tenga éxito, debemos habernos familiarizado completamente con la vida y las enseñanzas de Jesús, hasta el punto de «conocer» realmente la mente de Jesús.
 

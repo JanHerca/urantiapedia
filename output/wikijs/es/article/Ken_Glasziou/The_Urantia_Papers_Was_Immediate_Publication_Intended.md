@@ -50,7 +50,7 @@ Personalmente, me llevó varios años poder admitir que los Documentos no tenía
 
 Incluso hoy en día el fundamentalismo sigue siendo fuerte pero mucho menos ya que los lectores han aprendido a tomar el problema en serio y han hecho un estudio más erudito de lo que el libro mismo nos dice.
 
-¿Se habría arraigado tanto el fundamentalismo si los Documentos se hubieran publicado inmediatamente después de recibirlos? "¿Estaba fuertemente arraigado?" algunos pueden preguntar. Lo suficientemente fuerte como para que aquellos que tienen una alta autoridad terrenal no solo corrijan errores tipográficos y errores menores similares en impresiones posteriores, sino que también hagan cambios en el texto en un intento de ocultar los errores percibidos (los buenos motivos de quienes hicieron esto no están en duda) .
+¿Se habría arraigado tanto el fundamentalismo si los Documentos se hubieran publicado inmediatamente después de recibirlos?algunos pueden preguntar. Lo suficientemente fuerte como para que aquellos que tienen una alta autoridad terrenal no solo corrijan errores tipográficos y errores menores similares en impresiones posteriores, sino que también hagan cambios en el texto en un intento de ocultar los errores percibidos (los buenos motivos de quienes hicieron esto no están en duda) .
 
 El trabajo de Matthew Block al revelar fuentes humanas nos ha permitido revisar lo que podría haber sucedido si los Documentos de Urantia se hubieran publicado, digamos, en 1936.
 
@@ -58,7 +58,7 @@ Entre las obras fuente se encontraban libros como _La arquitectura del universo_
 
 Es muy poco probable que hubiera surgido una gran cantidad de lectores de _El Libro de Urantia_ sin que estas fuentes se revelaran rápidamente. Sin duda, esto habría generado publicidad y críticas, y eso habría sido seguido aún más rápidamente por lectores devotos que llamaron la atención sobre el mandato de revelación en <a id="a58_324"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2).
 
-El mandato contiene pasajes como: “dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán revisión; no estamos en libertad de anticipar los descubrimientos científicos de mil años; estamos muy obstaculizados por la proscripción de la impartición de conocimiento no ganado; que quede claro que la revelación no es necesariamente inspirada; la cosmología de estas revelaciones no es inspirada; etcétera etcétera."
+El mandato contiene pasajes como: «dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán revisión; no estamos en libertad de anticipar los descubrimientos científicos de mil años; estamos muy obstaculizados por la proscripción de la impartición de conocimiento no ganado; que quede claro que la revelación no es necesariamente inspirada; la cosmología de estas revelaciones no es inspirada; etcétera etcétera.»
 
 Probablemente también se habría llamado la atención sobre los comentarios en <a id="a62_77"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12) y <a id="a62_123"></a>[LU 121:8.12](/es/The_Urantia_Book/121#p8_12) sobre el uso de los reveladores de alrededor de tres mil fuentes humanas en la elaboración de sus Papers.
 

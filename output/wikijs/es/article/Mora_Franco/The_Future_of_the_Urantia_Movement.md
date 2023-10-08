@@ -43,7 +43,7 @@ por _Mora Franco_
 
 Traducción de _Jack Holloway_
 
-Muchos lectores de _El Libro de Urantia_ que tienen cincuenta años (o tal vez un poco más) se preguntan: "¿Dónde están todos los jóvenes lectores del movimiento Urantia?" Bueno, aquí hay un vistazo de dónde están y quiénes son.
+Muchos lectores de _El Libro de Urantia_ que tienen cincuenta años (o tal vez un poco más) se preguntan:Bueno, aquí hay un vistazo de dónde están y quiénes son.
 
 Tuvimos la oportunidad de conversar con María Auxiliadora, Rocío y Andrea, tres mujeres sembradoras y difusoras de las enseñanzas reveladas en _El Libro de Urantia_. Representan tres generaciones de una sola familia que inspiran, a través de su arte, el compartir el legado de Jesús desde su patria, la hermosa Venezuela, al resto del mundo.
 
@@ -57,7 +57,7 @@ Andrea, desde muy pequeña, comenzó a asistir a Andrea en 2010, en las conferen
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/020.jpg">
 </figure>
 
-Para compartir un poco de historia, la primera lectora de _El Libro de Urantia_ en esta familia fue María Auxiliadora quien, poco a poco, logró despertar la curiosidad espiritual de quienes la rodeaban. Al principio asistía sola a grupos de estudio. Pero pronto comenzó a acompañarla su hija Rocío, trayendo consigo a Andrea, que en ese momento tenía dos años. Rocío nos dice: «Yo sabía que la niña no iba a entender de lo que se hablaba al menos mentalmente, pero su espíritu sí», y con esa esperanza la llevaron al Primer Encuentro Nacional de Estudiantes del Libro de Urantia en [Barquisimeto ](https://en.wikipedia.org/wiki/Barquisimeto) en 2010, ella tenía solo tres años en el momento de esa reunión, pero parecía prestar atención a todo lo dicho. Según Rocío, “Siempre fue una niña muy tranquila, y lo sigue siendo.
+Para compartir un poco de historia, la primera lectora de _El Libro de Urantia_ en esta familia fue María Auxiliadora quien, poco a poco, logró despertar la curiosidad espiritual de quienes la rodeaban. Al principio asistía sola a grupos de estudio. Pero pronto comenzó a acompañarla su hija Rocío, trayendo consigo a Andrea, que en ese momento tenía dos años. Rocío nos dice: «Yo sabía que la niña no iba a entender de lo que se hablaba al menos mentalmente, pero su espíritu sí», y con esa esperanza la llevaron al Primer Encuentro Nacional de Estudiantes del Libro de Urantia en [Barquisimeto](https://en.wikipedia.org/wiki/Barquisimeto) en 2010, ella tenía solo tres años en el momento de esa reunión, pero parecía prestar atención a todo lo dicho. Según Rocío, «Siempre fue una niña muy tranquila, y lo sigue siendo. Esta conferencia se podría llamar la presentación de Andrea al público, ya que hubo personas de varias partes del país, y todos la conocieron como la reina de la fiesta.»
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/064.jpg">
@@ -69,7 +69,7 @@ Para compartir un poco de historia, la primera lectora de _El Libro de Urantia_ 
 
 En 2011 hubo un encuentro en [Maracaibo](https://en.wikipedia.org/wiki/Maracaibo) donde también participaron estas tres generaciones de mujeres. María Auxiliadora siempre sembró la semilla para que su nieta Andrea pudiera acercarse a _El Libro de Urantia_, y empezar a entenderlo lo mejor que pudiera.
 
-Dos años después, en el segundo Encuentro de Maracaibo, estas dos mujeres, María Auxiliadora y Rocío, tuvieron la osadía de incorporar a la niña de seis años en una presentación ante el público. A Andrea se le hicieron preguntas sencillas, para que pudiera expresarse libremente, y esta experiencia la ayudó a interiorizar la revelación a tal punto que se filmó un video _Los niños también sabemos de Urantia_. Esta película representó el debut público de Andrea en la comunidad de Urantia. Los Otros participantes estaban asombrados de ver a alguien tan joven y sin embargo tan bien informado; fue todo un éxito. Simplemente busque en YouTube [«Los niños también sabemos de Urantia»](https://www.youtube.com/watch?v=-7ng9ddkS4k) (o incluso "los niños también sabemos de Urantia" [sic]) para encontrar y Mira este video de tres minutos.
+Dos años después, en el segundo Encuentro de Maracaibo, estas dos mujeres, María Auxiliadora y Rocío, tuvieron la osadía de incorporar a la niña de seis años en una presentación ante el público. A Andrea se le hicieron preguntas sencillas, para que pudiera expresarse libremente, y esta experiencia la ayudó a interiorizar la revelación a tal punto que se filmó un video _Los niños también sabemos de Urantia_. Esta película representó el debut público de Andrea en la comunidad de Urantia. Los Otros participantes estaban asombrados de ver a alguien tan joven y sin embargo tan bien informado; fue todo un éxito. Simplemente busque en YouTube [«Los niños también sabemos de Urantia»](https://www.youtube.com/watch?v=-7ng9ddkS4k) (o incluso[sic]) para encontrar y Mira este video de tres minutos.
 
 Debido al COVID-19 y ciertas situaciones de seguridad ciudadana en Venezuela, se hicieron imposibles más reuniones presenciales, pero continuaron participando en los grupos de estudio por Zoom en [Mérida](https://en.wikipedia.org/wiki /M%C3%A9rida,_M%C3%A9rida) el pueblo pequeño y más rural donde vivían.
 
@@ -93,7 +93,7 @@ Este año, para el aniversario del cumpleaños de nuestro amado Soberano del Uni
 
 Si retrocedemos en el tiempo, cuando Andrea estaba colaborando con la presentación de la rebelión de Lucifer, la única herramienta con la que tenía para trabajar era una tableta Android obsoleta y severamente dañada. Se las arregló para mantenerlo funcionando hasta que las dos áreas oscuras en la pantalla crecieron tanto que ya no podía ver su trabajo. Entonces, a principios de este año, ya no contaba con esta herramienta esencial, y cuando le pidieron que participara en la celebración del cumpleaños de Jesús el 21 de agosto, su abuelo Tito le prestó su tableta por breves períodos cuando no la estaba usando. Trabajaría diligentemente, casi sin parar, y luego se lo devolvería a regañadientes a Tito.
 
-Como resultado de esta situación, y en reconocimiento a la participación activa y valiosa de Andrea, Pablo Morales, coordinador de área de LASC para Venezuela, presentó al Comité de Becas Internacionales de The Urantia Book Fellowship una propuesta de solicitud de fondos para comprar un nuevo iPad de Apple para su uso. La propuesta fue aprobada y Andrea, que ahora tiene quince años, se mostró emocionada y agradecida por este apoyo sin igual, y ha comenzado un nuevo y ambicioso proyecto titulado "Diálogos con Andrea". Este proyecto está dirigido principalmente a niños y adolescentes, utilizando un formato de cómic para atraer su atención, al mismo tiempo que presenta las enseñanzas de El libro de Urantia.
+Como resultado de esta situación, y en reconocimiento a la participación activa y valiosa de Andrea, Pablo Morales, coordinador de área de LASC para Venezuela, presentó al Comité de Becas Internacionales de The Urantia Book Fellowship una propuesta de solicitud de fondos para comprar un nuevo iPad de Apple para su uso. La propuesta fue aprobada y Andrea, que ahora tiene quince años, se mostró emocionada y agradecida por este apoyo sin igual, y ha comenzado un nuevo y ambicioso proyecto titulado Este proyecto está dirigido principalmente a niños y adolescentes, utilizando un formato de cómic para atraer su atención, al mismo tiempo que presenta las enseñanzas de El libro de Urantia.
 
 La fotografía a continuación, donde Pablo le presenta a Andrea el nuevo iPad, refleja claramente su alegría por esta abrumadora bendición.
 
@@ -125,7 +125,7 @@ Su madre, Rocío, dice:
 
 Cerramos este artículo con las palabras de la propia Andrea:
 
-> Tengo fe en Papa Dios y confié en él en momentos muy difíciles que pasamos este año con la salud de mi pa abu (abuelo). Le dije a mi familia: "¡El abuelo estará bien, el abuelo estará bien!" Estaba seguro de que estaría bien y confío en Dios. Cuando trajeron a mi abuelo a casa les dije: "¡Tenía fe de que iba a ser así!".
+> Tengo fe en Papa Dios y confié en él en momentos muy difíciles que pasamos este año con la salud de mi pa abu (abuelo). Le dije a mi familia:Estaba seguro de que estaría bien y confío en Dios. Cuando trajeron a mi abuelo a casa les dije:
 >
 > ¿Qué me inspira? Se podría decir música, me llama la atención la flauta, también la música clásica, el rock, todo tipo de música me inspira. Aunque algo permanente me pueda llegar en cualquier momento, por ahora solo dejo fluir al artista o a las combinaciones de artistas, dejo que su Sonido me alcance adentro.
 >

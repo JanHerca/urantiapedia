@@ -155,7 +155,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 Más Platón y menos Prozac (Lou Marinoff)
 
-_El Libro de Urantia_ nos dice en repetidas ocasiones que debemos reconciliar la ciencia, la filosofía y la religión si queremos desarrollarnos armónicamente. Sin embargo, vivimos unos tiempos de ensalzamiento de la ciencia, de modo que la filosofía y la religión han sido relegadas por no poder explicar la realidad mediante pruebas palpables según el método científico. Además, dado el utilitarismo imperante en la sociedad, todo aquello que no es útil no sirve, y tanto la filosofía como la religión se consideran “inútiles”. Precisamente de rebatir esto se encarga Lou Marinoff en este libro.
+_El Libro de Urantia_ nos dice en repetidas ocasiones que debemos reconciliar la ciencia, la filosofía y la religión si queremos desarrollarnos armónicamente. Sin embargo, vivimos unos tiempos de ensalzamiento de la ciencia, de modo que la filosofía y la religión han sido relegadas por no poder explicar la realidad mediante pruebas palpables según el método científico. Además, dado el utilitarismo imperante en la sociedad, todo aquello que no es útil no sirve, y tanto la filosofía como la religión se consideran «inútiles». Precisamente de rebatir esto se encarga Lou Marinoff en este libro.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-mas-platon-y-menos-prozac-de-lou-marinoff/)
 <br style="clear:both" />

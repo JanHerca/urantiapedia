@@ -41,7 +41,7 @@ Muchas veces en los Documentos de Urantia se nos exhorta a vivir como vivió Jes
 > Aunque la sabiduría o la virtud de uno muy rara vez puede hacer felices a muchos, la locura o el vicio de uno solo a menudo hace que muchos sean miserables.
 >     Samuel Johnson
 
-> "La vida que vivirás", es la única que tienes.
+> es la única que tienes.
 
 > Podéis predicar una religión acerca de Jesús, pero la religión de Jesús, forzosamente, tenéis que vivirla. (<a id="a45_110"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
 

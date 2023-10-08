@@ -42,15 +42,15 @@ Jesús quiso reformar y humanizar la religión de su tiempo y de su iglesia. Lo 
 
 **Los fundamentalistas** de su iglesia lo vituperaron y condenaron por sus acciones, sus actitudes y sus dichos. Se asoció con prostitutas, taberneros y recaudadores de impuestos. Se mezcló con la chusma, no con los miembros respetables del clero.
 
-Fue un revolucionario en un sentido moral, no político. Nos recordó que el día de reposo fue hecho para el hombre, no el hombre para el día de reposo, lo que significa que lo que es "correcto" o "incorrecto" hacer depende del fin humano, no del código legal o edicto eclesiástico.
+Fue un revolucionario en un sentido moral, no político. Nos recordó que el día de reposo fue hecho para el hombre, no el hombre para el día de reposo, lo que significa que lo que esohacer depende del fin humano, no del código legal o edicto eclesiástico.
 
-Era estricto en cuanto a la forma en que debíamos comportarnos unos con otros, pero indulgente con nuestras debilidades personales. Advirtió a los farisaicos: «No juzguéis para que no seáis juzgados». Prefería a los pobres, los marginados, los que luchaban, a menudo los "pecadores" a los piadosos, respetables e hipócritas defensores de la ley y administradores del templo.
+Era estricto en cuanto a la forma en que debíamos comportarnos unos con otros, pero indulgente con nuestras debilidades personales. Advirtió a los farisaicos: «No juzguéis para que no seáis juzgados». Prefería a los pobres, los marginados, los que luchaban, a menudo losa los piadosos, respetables e hipócritas defensores de la ley y administradores del templo.
 
 Por eso lo odiaron y lo acosaron. Porque vio que la religión se había convertido en ritual, que la fe primitiva de los padres se había vuelto fría, formal y santurrona, que el celo de los profetas había sido reemplazado por los dogmas de los sacerdotes.
 
 No se puede leer el Nuevo Testamento sin darse cuenta de que Jesús se opuso irrevocablemente a la Mayoría Moral de su tiempo. Su misión era revitalizar y rehumanizar la iglesia judía, para despertar su antigua pasión contra la injusticia y la opresión.
 
-Su idea de "moralidad" no tenía nada que ver con los juegos de azar o beber vino o tales debilidades. Su idea era verdaderamente «fundamental» en cuanto llegaba al fondo de las relaciones de los hombres entre sí, en términos de fraternidad, tolerancia, ayuda, misericordia.
+Su idea deno tenía nada que ver con los juegos de azar o beber vino o tales debilidades. Su idea era verdaderamente «fundamental» en cuanto llegaba al fondo de las relaciones de los hombres entre sí, en términos de fraternidad, tolerancia, ayuda, misericordia.
 
 Su parábola del buen samaritano fue impactante y repugnante para la mayoría moral de su época, porque mostró cómo los sacerdotes y los piadosos pasaban por un hombre caído, mientras que el despreciado samaritano era el único que intentaba hacer la voluntad de Dios.
 

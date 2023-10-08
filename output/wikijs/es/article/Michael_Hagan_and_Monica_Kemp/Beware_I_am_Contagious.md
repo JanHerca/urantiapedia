@@ -57,7 +57,7 @@ Recientemente, he estado conspirando con un cómplice para propagar un nuevo vir
 
 - Ser generoso en todos los sentidos, tanto en lo material como en las relaciones.
 
-Para la mayoría, este virus durará solo unos días, una breve interrupción seguida de la reanudación de una vida cómoda y egocéntrica. Para algunos, sugerirá un cambio a largo plazo, tal vez incluso "cuidados intensivos", mientras piensan profundamente en sus vidas y reflexionan sobre nuevas direcciones espirituales. Algunos se convertirán en viajeros de larga distancia, con sus vidas transformadas por este virus.
+Para la mayoría, este virus durará solo unos días, una breve interrupción seguida de la reanudación de una vida cómoda y egocéntrica. Para algunos, sugerirá un cambio a largo plazo, tal vez incluso mientras piensan profundamente en sus vidas y reflexionan sobre nuevas direcciones espirituales. Algunos se convertirán en viajeros de larga distancia, con sus vidas transformadas por este virus.
 
 Los más afortunados y los más resistentes se convertirán ellos mismos en superpropagadores. No descansarán hasta haber hecho todo lo posible por propagar este _virus benigno_ del amor a los rincones de su experiencia, tal vez a los rincones de la tierra.
 

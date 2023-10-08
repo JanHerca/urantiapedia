@@ -44,7 +44,7 @@ _El Libro de Urantia_ nos informa que muchos mortales disciernen e interpretan l
 
 ¿Cómo nos dice el libro que podemos comprender la verdad del segundo gran mandamiento? Afirma: «_... al darse cuenta de sus significados en la interpretación viviente del Espíritu de la Verdad, que dirige el contacto afectuoso entre los seres humanos_». ¿El Espíritu de la Verdad realmente dirige nuestras relaciones personales con nuestros semejantes? ¿Todas las relaciones o solo algunas? Si es lo último, es posible que debamos revisar el fragmento sobre «_toda lealtad o ninguna_». (<a id="a44_487"></a>[LU 180:5.11](/es/The_Urantia_Book/180#p5_11))
 
-La actualización de Jesús de la regla de oro adquiere "cualidades vivas de realización espiritual" al hacer un salto cuántico hacia el plano espiritual, "_cuando nos relacionamos con nuestros semejantes de tal manera que recibirán el mayor bien posible como resultado de nuestro contacto". con ellos._” ¿Quién fue el urantiano que una vez dijo: «Eso está bien en teoría, pero este es un mundo real en el que vivimos ahora»?
+La actualización de Jesús de la regla de oro adquiereal hacer un salto cuántico hacia el plano espiritual, con ellos._” ¿Quién fue el urantiano que una vez dijo: «Eso está bien en teoría, pero este es un mundo real en el que vivimos ahora»?
 
 Sólo un ser divino puede saber qué constituye el mayor bien posible para nuestro prójimo. Como el libro interpreta al prójimo, incluye a la familia, a los amigos, a la persona de al lado o al final de la calle, e incluso incluye a nuestros enemigos si los tenemos. Y debido a que sólo un ser divino puede conocer el mayor bien posible de alguien, el libro nos dice que su interpretación debe provenir del Espíritu de la Verdad.
 
@@ -62,7 +62,7 @@ La esencia de la instrucción de la Quinta Revelación de Época sobre el segund
 
 «El amor nunca falla, pero donde hay profecías fallarán; donde haya lenguas cesarán; donde haya conocimiento, éste pasará. Porque ahora sabemos en parte, y profetizamos en parte. Pero cuando venga lo perfecto, entonces lo que es en parte se acabará».
 
-“Cuando yo era niño, hablaba como niño, entendía como niño, pensaba como niño. Pero cuando llegué a ser hombre, dejé las cosas de niño. Porque ahora vemos como en un espejo, oscuramente; pero entonces, cara a cara. Ahora lo sé en parte. Entonces conoceré como soy conocido. Y ahora permanece la fe, la esperanza y el amor, estos tres; Pero el mayor de ellos es el amor." ([1 Corintios 13](/es/Bible/1_Corinthians/13))
+> «Cuando yo era niño, hablaba como niño, entendía como niño, pensaba como niño. Pero cuando llegué a ser hombre, dejé las cosas de niño. Porque ahora vemos como en un espejo, oscuramente; pero entonces, cara a cara. Ahora lo sé en parte. Entonces conoceré como soy conocido. Y ahora permanece la fe, la esperanza y el amor, estos tres; Pero el mayor de ellos es el amor.» ([1 Corintios 13](/es/Bible/1_Corinthians/13))
 
 > En la búsqueda de la felicidad, la mitad del mundo está en el camino equivocado. Piensan que consiste en tener, recibir y ser servido por los demás. La felicidad se encuentra realmente en dar y en servir a los demás.
 > _Henry Drummond_

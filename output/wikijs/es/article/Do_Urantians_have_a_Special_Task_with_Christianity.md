@@ -83,7 +83,7 @@ Con el tiempo, prácticamente todos los problemas del cristianismo se superaría
 
 > «El hombre sale en busca de un amigo mientras ese mismo amigo vive dentro de su propio corazón».
 
-Ayudar a los cristianos a volver a aprender esta verdad puede ser el único medio posible de lograr lo que esperan los reveladores: el despertar del cristianismo del capullo en el que ahora duerme. Pero incluso un objetivo tan restringido aún deberá llevarse a cabo de una manera en la que seamos "tan astutos como serpientes e inofensivos como palomas".
+Ayudar a los cristianos a volver a aprender esta verdad puede ser el único medio posible de lograr lo que esperan los reveladores: el despertar del cristianismo del capullo en el que ahora duerme. Pero incluso un objetivo tan restringido aún deberá llevarse a cabo de una manera en la que seamos «tan astutos como serpientes e inofensivos como palomas».
 
 Habrá una miríada de formas y medios para despertar a los cristianos individuales al conocimiento de que Dios no es remoto ni está «allá arriba en alguna parte», sino que en realidad reside en la mente de cada individuo, es nuestro «mejor amigo» y es localizable de manera personal.
 
@@ -121,7 +121,7 @@ La alfabetización generalizada a nivel nacional es un fenómeno muy reciente, d
 
 Cualquiera que sea la historia correcta, el hecho es que ahora hay más de mil millones de cristianos esperando volver a aprender lo que los primeros cristianos judíos sabían: que estamos habitados por el espíritu del Padre. No son necesarios intermediarios. Nuestra relación con Dios es individual y personal.
 
-La experiencia ha demostrado que una clase de niños pequeños responde bien a la pregunta: "¿Dónde puedes encontrar a Dios?" Y también al concepto de que el espíritu de Dios habita en sus mentes. Mostrarles evidencia del Nuevo Testamento también puede ayudar.
+La experiencia ha demostrado que una clase de niños pequeños responde bien a la pregunta: «¿Dónde puedes encontrar a Dios?» Y también al concepto de que el espíritu de Dios habita en sus mentes. Mostrarles evidencia del Nuevo Testamento también puede ayudar.
 
 El Evangelio de Juan se ha distribuido ampliamente durante mucho tiempo en forma de libro de bolsillo, contiene toda la evidencia necesaria de la morada de Dios, sin embargo, el número de cristianos que están al tanto de esto es minúsculo.
 

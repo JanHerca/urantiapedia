@@ -55,7 +55,7 @@ Debido a la pandemia global de Covid-19, comuníquese con el coordinador del eve
 
 - **2020-09-10 al 13 XXXIII Conferencia Internacional Monterrey 2020**; Monterrey México, Nuevo León, México Hotel Antaris Cintermex
 
-- **2020-09-25 a 27 Conferencia del Medio Oeste West Chester, Ohio**. El tema es "Relaciones". Póngase en contacto con Ted Blaney tblaney@mykrcc.com
+- **2020-09-25 a 27 Conferencia del Medio Oeste West Chester, Ohio**. El tema es «Relaciones». Póngase en contacto con Ted Blaney tblaney@mykrcc.com
 
 - **2021-08-18 to 21 Uganda Urantia Conference Jinga City, Uganda** en el Jinga City Hotel Póngase en contacto con Paul Kemp en paul.kemp@live.ca para obtener más información.
 

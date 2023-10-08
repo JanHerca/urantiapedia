@@ -80,7 +80,7 @@ La disposición física en Salvington parece ser estándar para otros lugares de
 
 ## Comenzando desde abajo, otra vez
 
-Ahora estamos clasificados como un ser espiritual de primera etapa, lo que suena grandioso, pero recordemos que, una vez más, somos "los que están en el último peldaño", porque este es el último peldaño de esa larga escalera de ascenso espiritual al Padre Universal en el Paraíso.
+Ahora estamos clasificados como un ser espiritual de primera etapa, lo que suena grandioso, pero recordemos que, una vez más, somos «los que están en el último peldaño», porque este es el último peldaño de esa larga escalera de ascenso espiritual al Padre Universal en el Paraíso.
 
 Nuestra siguiente escala es en Ensa, un sector menor del superuniverso de Orvonton. Allí, en los siete mundos de estudio, realizaremos experimentos y estudios de carácter físico y material relacionados con las actividades de los Controladores Maestros Físicos y los Centros Supremos de Poder. Quienes tengan aversión a la física, la química, las matemáticas y demás, se consolarán al saber que pasamos por un solo grupo de las esferas de formación del sector menor. También nos presentan a los Recientes de Días a cargo de Ensa antes de proceder al sector principal de Splandon.
 

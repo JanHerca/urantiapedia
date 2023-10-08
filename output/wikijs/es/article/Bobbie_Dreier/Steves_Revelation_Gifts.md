@@ -53,7 +53,7 @@ La última fuente de interés de Steve fue comparar las referencias bíblicas en
 
 Siempre estaré agradecida por mi última interacción con Steve en Urantia, que fue hace apenas un par de meses en la reunión de la Sociedad de Nueva York. Me dio un aliento precioso para algo nuevo en lo que estoy trabajando. Luego le pregunté sobre el estudio detallado que había hecho de *El libro de Urantia*, la Biblia y otros textos fuente que siempre he admirado. Dijo que su estudio lo ha ayudado a comprender mejor la revelación ya conocer mejor al Maestro. Dio el ejemplo de «La mujer sorprendida en adulterio». En la Biblia dice:
 
-> Entonces Jesús se enderezó y le preguntó: «Mujer, ¿dónde están tus acusadores? ¿Nadie te ha condenado? “Nadie, Señor», respondió ella. «Entonces tampoco yo te condeno», declaró Jesús. «Ahora vete y no peques más».
+> Entonces Jesús se enderezó y le preguntó: «Mujer, ¿dónde están tus acusadores? ¿Nadie te ha condenado? «Nadie, Señor», respondió ella. «Entonces tampoco yo te condeno», declaró Jesús. «Ahora vete y no peques más».
 
 En *El libro de Urantia está escrito:*
 

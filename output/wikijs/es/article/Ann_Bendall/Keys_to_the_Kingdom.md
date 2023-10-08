@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T02:24:59.960Z
 </figure>
 
 
-Si se le pregunta, "¿Está usted en el Reino?" la mayoría de nosotros responderíamos inequívocamente: "¡Por supuesto!" Después de todo, amamos y creemos en Dios, reconocemos que todos somos sus hijos y queremos ser perfectos como él.
+Si se le pregunta, «¿Está usted en el Reino?» la mayoría de nosotros responderíamos inequívocamente: «¡Por supuesto!» Después de todo, amamos y creemos en Dios, reconocemos que todos somos sus hijos y queremos ser perfectos como él.
 
 Sin embargo, este proceso de entrada al Reino parece requerir más que una creencia filosófica. Requiere dolor y esfuerzo, siendo el primer paso esencial el de aceptar conscientemente nuestro estado espiritual infantil, como lo enfatizó repetidamente Jesús, «_Pero os lo digo con toda sinceridad: a menos que tratéis de entrar en el reino con la fe y la dependencia confiada de un niño pequeño, no seréis admitidos de ninguna manera._» (<a id="a38_436"></a>[LU 137:8.8](/es/The_Urantia_Book/137#p8_8))
 

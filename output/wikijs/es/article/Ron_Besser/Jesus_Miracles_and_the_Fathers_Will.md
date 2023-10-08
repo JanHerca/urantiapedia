@@ -43,7 +43,7 @@ Creo que las decisiones post-bautismales de Jesús estaban completamente en lín
 
 Recuerde, el registro de los intermedios es nuestro, pero su material de referencia no lo es. No tenemos forma de juzgar qué tan bien sintetizaron la información que tenían a mano. Pero tenían una fuente incuestionable que ningún registro escrito puede duplicar: sus propias observaciones mientras ocurrían estos eventos. Fueron testigos oculares.
 
-«Aquello que un _Hijo Creador_ desea y su Padre lo _quiere_, EXISTE <a id="a45_68"></a>[LU 145:3.11](/es/The_Urantia_Book/145#p3_11) A continuación se muestra la misma declaración en su contexto completo, que está precedida por el comentario del testigo ocular intermedio: “_Es evidente que la voluntad del Padre no interpuso ninguna objeción, pues apenas había pronunciado el Maestro estas palabras_...» (cuando las personalidades celestiales comenzaron a sanar a la multitud reunida).<a id="a45_467"></a>[LU 145:3.10](/es/The_Urantia_Book/45#p3_10)
+«Aquello que un _Hijo Creador_ desea y su Padre lo _quiere_, EXISTE <a id="a45_68"></a>[LU 145:3.11](/es/The_Urantia_Book/145#p3_11) A continuación se muestra la misma declaración en su contexto completo, que está precedida por el comentario del testigo ocular intermedio: «_Es evidente que la voluntad del Padre no interpuso ninguna objeción, pues apenas había pronunciado el Maestro estas palabras_...» (cuando las personalidades celestiales comenzaron a sanar a la multitud reunida).<a id="a45_467"></a>[LU 145:3.10](/es/The_Urantia_Book/45#p3_10)
 
 Entonces:
 

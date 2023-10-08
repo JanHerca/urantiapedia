@@ -47,11 +47,11 @@ Agosto de 2022 está marcado como un punto culminante en nuestra comunidad. Expe
 
 > Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. (<a id="a47_124"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14))
 
-Recientemente me convertí en el presidente del Comité de Jóvenes y Adultos Jóvenes (Ya YA) de The Urantia Book Fellowship (también conocido como Fellowship), habiendo servido en el comité durante una década. Dos de nuestros objetivos principales han sido el alcance (acción de varios comités) y el alcance (colaboración transorganizacional). Oluwatooni "Toni" Oyeyemi y yo somos buenos ejemplos de este objetivo. Hemos trabajado muy bien juntos durante los últimos años, actualmente como miembros del Comité Ya YA y sirviendo a varios comités, programas y organizaciones de Otro libro de Urantia. Él y yo nos hemos unido por nuestra pasión por nutrir a la juventud. Estamos de acuerdo en que la ruta más eficiente es vivir las enseñanzas lo mejor que podamos, siendo buenos ejemplos y dando los frutos del espíritu divino.
+Recientemente me convertí en el presidente del Comité de Jóvenes y Adultos Jóvenes (Ya YA) de The Urantia Book Fellowship (también conocido como Fellowship), habiendo servido en el comité durante una década. Dos de nuestros objetivos principales han sido el alcance (acción de varios comités) y el alcance (colaboración transorganizacional). Oluwatooni «Toni» Oyeyemi y yo somos buenos ejemplos de este objetivo. Hemos trabajado muy bien juntos durante los últimos años, actualmente como miembros del Comité Ya YA y sirviendo a varios comités, programas y organizaciones de Otro libro de Urantia. Él y yo nos hemos unido por nuestra pasión por nutrir a la juventud. Estamos de acuerdo en que la ruta más eficiente es vivir las enseñanzas lo mejor que podamos, siendo buenos ejemplos y dando los frutos del espíritu divino.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/014.jpg">
-<figcaption><em>Aprilhelen y Oluwatooni "Toni" Oyeyemi</em><figcaption>
+<figcaption><em>Aprilhelen y Oluwatooni «Toni» Oyeyemi</em><figcaption>
 </figure>
 
 Toni y yo también servimos en el comité de Becas Internacionales (IFC) de la Fraternidad, y viajamos a Uganda como representantes. La conclusión compartida de nuestra experiencia en Uganda es la validación de la necesidad de elevar el trabajo en equipo. Esto significa involucrarse en una colaboración motivada espiritualmente, especialmente cuando se representa a una organización centrada en la espiritualidad.
@@ -78,7 +78,7 @@ El nacimiento de la revelación de _El Libro de Urantia_ en África fue al menos
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/059.jpg">
 </figure>
 
-La traducción corta de Ubuntu es: "Yo soy, porque nosotros somos".
+La traducción corta de Ubuntu es: «Yo soy, porque nosotros somos».
 
 Varias conversaciones con Antoinette me han ayudado a ver una imagen más amplia de la actividad del Libro de Urantia en África. Ella y yo tenemos una visión unificada de ayudar a las mujeres de Uganda y muchas más regiones de [África subsahariana] (https://en.wikipedia.org/wiki/Sub-Saharan_Africa). Junto con la experiencia personal de Toni como nativa de [Nigeria](https://en.wikipedia.org/wiki/Nigeria), vemos grandes posibilidades en Uganda relacionadas con el empoderamiento de nuestros hermanos allí. La [filosofía Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) es sinónimo de la versión elevada de la [Regla de oro](https://en.wikipedia.org/wiki/Golden_Rule), que mejora la motivación para amarse y servirse unos a otros. Ambas artes vivas trascendentes requieren trabajo en equipo. Pato Banton da estas palabras:
 
