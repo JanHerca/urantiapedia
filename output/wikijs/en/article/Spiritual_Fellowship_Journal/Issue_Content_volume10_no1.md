@@ -1,5 +1,5 @@
 ---
-title: "Issue Content, Spring 2000"
+title: "Spiritual Fellowship Journal — Issue Content, Spring 2000"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

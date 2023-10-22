@@ -1,5 +1,5 @@
 ---
-title: "Issue Content, Fall 1991"
+title: "Spiritual Fellowship Journal — Issue Content, Fall 1991"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
