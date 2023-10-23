@@ -14,7 +14,7 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+        <a href="/es/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los diarios de Urantia de Harold y Martha Sherman</span>
         </a>
         </td>
@@ -85,7 +85,7 @@ david vidrio
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+        <a href="/es/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los diarios de Urantia de Harold y Martha Sherman</span>
         </a>
         </td>

@@ -24,7 +24,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Saskia_Raevouri/A_Meredith_Sprunger_Story">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/A_Meredith_Sprunger_Story">
           <span class="pr-2">A Meredith Sprunger Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -100,7 +100,7 @@ Siempre adelante!
         </a>
         </td>
         <td>
-        <a href="/en/article/Saskia_Raevouri/A_Meredith_Sprunger_Story">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/A_Meredith_Sprunger_Story">
           <span class="pr-2">A Meredith Sprunger Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

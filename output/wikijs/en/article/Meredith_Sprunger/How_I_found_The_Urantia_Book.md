@@ -14,7 +14,7 @@ dateCreated: 2023-8-29T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Saskia_Raevouri/A_Meredith_Sprunger_Story">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/A_Meredith_Sprunger_Story">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Meredith Sprunger Story</span>
         </a>
         </td>
@@ -65,7 +65,7 @@ Our clergy group spent several years interviewing the people connected with the 
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Saskia_Raevouri/A_Meredith_Sprunger_Story">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/A_Meredith_Sprunger_Story">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Meredith Sprunger Story</span>
         </a>
         </td>

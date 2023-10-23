@@ -24,7 +24,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Saskia_Praamsma/Duane_Faw_Honoring_a_Man_Who_Served_the_Revelation">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/Duane_Faw_Honoring_a_Man_Who_Served_the_Revelation">
           <span class="pr-2">Duane Faw: Honoring a Man Who Served the Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -77,7 +77,7 @@ Endowment funds ensure future translations
         </a>
         </td>
         <td>
-        <a href="/en/article/Saskia_Praamsma/Duane_Faw_Honoring_a_Man_Who_Served_the_Revelation">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/Duane_Faw_Honoring_a_Man_Who_Served_the_Revelation">
           <span class="pr-2">Duane Faw: Honoring a Man Who Served the Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

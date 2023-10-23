@@ -24,7 +24,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
           <span class="pr-2">The Urantia Diaries of Harold and Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=NBny4fEfXg
         </a>
         </td>
         <td>
-        <a href="/en/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+        <a href="/en/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
           <span class="pr-2">The Urantia Diaries of Harold and Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
