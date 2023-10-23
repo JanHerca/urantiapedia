@@ -3,13 +3,37 @@ title: "Meeting The Urantia Book"
 description: "The Urantia Book and Spiritual Renewal"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ben LeMay<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Days and Dates in the Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="pr-2">The Vengeance of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 My life has been a marvelous sequence of impossible dreams that have come true. Discovering _The Urantia Book_ is one of these impossible dreams. The book appeared in my life at a moment when I was desperately searching for satisfactory answers to crucial questions concerning my Christian faith.
 
@@ -25,3 +49,27 @@ My dear friends, if you have not yet read this unique book, you should make ever
 
 > _Ben LeMay is a Roman Catholic whose conversion experience led him into many years of a bilingual evangelical ministry in Quebec. He is now retired._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Days and Dates in the Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="pr-2">The Vengeance of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

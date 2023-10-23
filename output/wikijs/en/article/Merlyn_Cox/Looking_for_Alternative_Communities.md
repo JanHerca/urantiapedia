@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall-Winter 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="pr-2">Religious Pluralism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As a pastor, now retired, and as a Urantia reader for some 20 years, I would love to see an alternative to the divided and tradition bound church, desperately thrashing about in search of a clearer understanding of its Lord and its mission in our world today. I would love to be a part of a fellowship with a built in corrective in its mandate that would allow us to bypass the worst of the conflicts and infighting of this all too human institution. I would love to see an alternative grow out of the Urantia community — or at least to behold a church transformed by the Fifth Epochal Revelation, one that somehow captures the best of the Christian community, one that nurtures great hope and joy, a loving community grounded in transcendent worship and self-forgetful service.
 
@@ -56,3 +80,27 @@ We don't need to, for while we believe and trust the work is ours, and worthy of
 ***Correction:***
 
 - In my review of Rhawn Joseph's book, “Astrobiology: The Origin of Life and the Death of Darwinism,” in the last issue, page 21, paragraph 5: “Rather, antigens to every possible disease...” should read, “Rather, lymphocytes for every possible disease...”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall-Winter 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="pr-2">Religious Pluralism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

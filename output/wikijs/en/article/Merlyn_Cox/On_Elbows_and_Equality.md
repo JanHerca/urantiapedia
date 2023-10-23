@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Merlyn Cox<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gender Differentiation in The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Sermon based on [Ephesians 5: 22-23](/en/Bible/Ephesians/5#v22): “Wives, be subject to your husband as you are to the Lord. For the husband is the head of the wife just as Christ is the head of he church.”_
 
@@ -116,3 +137,25 @@ Should the man still be the head of the household? In light of this knowledge, y
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gender Differentiation in The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

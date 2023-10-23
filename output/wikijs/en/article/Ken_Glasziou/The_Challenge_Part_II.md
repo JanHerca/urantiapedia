@@ -9,10 +9,34 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Kenneth Glasziou<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toward Spiritual Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="pr-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part I)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Emphasis in paper is by author)
 
-> “The Universe of universes, in toto, is mind planed, mind made, and mind administered.” [UB 42:11.2](/en/The_Urantia_Book/42#p11_2)
+> “The Universe of universes, in toto, is mind planed, mind made, and mind administered.” <a id="a38_90"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2)
 
 
 ## Quantum theory and the observer
@@ -101,29 +125,29 @@ Cosmic consciousness implies the recognition of a First Cause, the one and only 
 
 > _1. Pre-personal — as in the ministry of the Father fragments, his indwelling Spirit._
 > _2. Personal — as in the evolutionary experience of created and procreated beings._
-> _3. Super-personal — as in the eventuated existences of certain absonite and associated beings._ ([UB 0:2.3-5](/en/The_Urantia_Book/0#p2_3))
+> _3. Super-personal — as in the eventuated existences of certain absonite and associated beings._ (<a id="a127_100"></a>[UB 0:2.3-5](/en/The_Urantia_Book/0#p2_3))
 
-> _God is possessed of unlimited power to know all things, his consciousness is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Thought Adjusters. Andfurthermore, the Infinite Spirit is all the time everywhere present._ ([UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
+> _God is possessed of unlimited power to know all things, his consciousness is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Thought Adjusters. Andfurthermore, the Infinite Spirit is all the time everywhere present._ (<a id="a129_390"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
 
-> _The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the consciousness of God._ ([UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
+> _The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the consciousness of God._ (<a id="a131_220"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
 
-> _The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and transcendentally with the existential levels of absolutemind-the directcircuits of the Conjoint Actor._ ([UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
+> _The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and transcendentally with the existential levels of absolutemind-the directcircuits of the Conjoint Actor._ (<a id="a133_250"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
 
-> _Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life, therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as whatmind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity._ ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
+> _Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life, therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as whatmind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity._ (<a id="a135_713"></a>[UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
 
-> _God-consciousness, as it is experienced by an evolving mortal of the realms, must consist of three varying factors, three differential levels of reality realization. There is first the mind consciousness-the comprehension of the idea of God. Then follows the soul-consciousness-the realization of the ideal of God. Last dawns the spiritconsciousness — the realization of the spirit reality of God._ ([UB 5:5.11](/en/The_Urantia_Book/5#p5_11))
+> _God-consciousness, as it is experienced by an evolving mortal of the realms, must consist of three varying factors, three differential levels of reality realization. There is first the mind consciousness-the comprehension of the idea of God. Then follows the soul-consciousness-the realization of the ideal of God. Last dawns the spiritconsciousness — the realization of the spirit reality of God._ (<a id="a137_403"></a>[UB 5:5.11](/en/The_Urantia_Book/5#p5_11))
 
-> _The bestowal of personality is the exclusive function of the Universal Father, the personalization of the living energy systems which he endows with the attributes of relative creative consciousness and the freewill control thereof._ ([UB 5:6.4](/en/The_Urantia_Book/5#p6_4))
+> _The bestowal of personality is the exclusive function of the Universal Father, the personalization of the living energy systems which he endows with the attributes of relative creative consciousness and the freewill control thereof._ (<a id="a139_238"></a>[UB 5:6.4](/en/The_Urantia_Book/5#p6_4))
 
-> _The Supreme Being did not create man, but man was literally created out of, his very life was derived from, the potentiality of the Supreme. Nor does he evolve man, yet is the Supreme himself the very essence of evolution. From the finite standpoint, we actually live, move, and have our being within the immanence of the Supreme._ ([UB 117:3.12](/en/The_Urantia_Book/117#p3_12))
+> _The Supreme Being did not create man, but man was literally created out of, his very life was derived from, the potentiality of the Supreme. Nor does he evolve man, yet is the Supreme himself the very essence of evolution. From the finite standpoint, we actually live, move, and have our being within the immanence of the Supreme._ (<a id="a141_336"></a>[UB 117:3.12](/en/The_Urantia_Book/117#p3_12))
 
-> _The evolving soul of mortal man is created out of the pre-existent possibility for such experience within the Supreme. In this manner do the manifold experiences of all creation become a part of the evolution of Supremacy. Creatures merely utilize the qualities and quantities of the finite as they ascend to the Father, the impersonal consequences of such utilization remain forever a part of the living cosmos, the Supreme person._ ([UB 117:5.11](/en/The_Urantia_Book/117#p5_11))
+> _The evolving soul of mortal man is created out of the pre-existent possibility for such experience within the Supreme. In this manner do the manifold experiences of all creation become a part of the evolution of Supremacy. Creatures merely utilize the qualities and quantities of the finite as they ascend to the Father, the impersonal consequences of such utilization remain forever a part of the living cosmos, the Supreme person._ (<a id="a143_438"></a>[UB 117:5.11](/en/The_Urantia_Book/117#p5_11))
 
-> _Time, space, and experience are man's greatest aids to relative reality perception and yet his most formidable obstacles to complete reality perception. Mortals and many other universe creatures find it necessary to think of potentials as being actualized in space and evolving to fruition in time, but this entire process is a time-space phenomenon which does not actually take place on Paradise and in eternity. On the absolutelevel there is neither time nor space; all potentials may be there perceived as actuals._ ([UB 106:9.3](/en/The_Urantia_Book/106#p9_3))
+> _Time, space, and experience are man's greatest aids to relative reality perception and yet his most formidable obstacles to complete reality perception. Mortals and many other universe creatures find it necessary to think of potentials as being actualized in space and evolving to fruition in time, but this entire process is a time-space phenomenon which does not actually take place on Paradise and in eternity. On the absolutelevel there is neither time nor space; all potentials may be there perceived as actuals._ (<a id="a145_523"></a>[UB 106:9.3](/en/The_Urantia_Book/106#p9_3))
 
-> _Those who know God have experienced the fact of his presence, such God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father._ ([UB 1:2.8](/en/The_Urantia_Book/1#p2_8))
+> _Those who know God have experienced the fact of his presence, such God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father._ (<a id="a147_519"></a>[UB 1:2.8](/en/The_Urantia_Book/1#p2_8))
 
-> _We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience-Godconsciousness._ ([UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
+> _We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience-Godconsciousness._ (<a id="a149_814"></a>[UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
 
 ## Value creation
 
@@ -134,11 +158,11 @@ Cosmic consciousness implies the recognition of a First Cause, the one and only 
 > _1. Self-judgment-moral choice._
 > _2. Social-judgment-ethical choice._
 > _3. God-judgment-religious choice._
-> _Thus it appears that all human progress is effected by a technique of conjoint revelational evolution._ [UB 196:3.10-15](/en/The_Urantia_Book/196#p3_10)
+> _Thus it appears that all human progress is effected by a technique of conjoint revelational evolution._ <a id="a160_107"></a>[UB 196:3.10-15](/en/The_Urantia_Book/196#p3_10)
 
-> _Unless a divine lover lived in the mind of man, individuals could not unselfishly and spiritually love. And unless an interpreter lived in the mind, man could not truly realize the unity of the universe. Unless an evaluator dwelt with man, he could not possibly appraises moral values and recognize spiritual meanings. And this lover hails from the very source of infinite love; this interpreter is a part of Universal Unity; this evaluator is the child of the Center and Source of all absolute values of divine and eternal reality._ [UB 196:3.16](/en/The_Urantia_Book/196#p3_16)
+> _Unless a divine lover lived in the mind of man, individuals could not unselfishly and spiritually love. And unless an interpreter lived in the mind, man could not truly realize the unity of the universe. Unless an evaluator dwelt with man, he could not possibly appraises moral values and recognize spiritual meanings. And this lover hails from the very source of infinite love; this interpreter is a part of Universal Unity; this evaluator is the child of the Center and Source of all absolute values of divine and eternal reality._ <a id="a162_537"></a>[UB 196:3.16](/en/The_Urantia_Book/196#p3_16)
 
-> _Human survival is in great measure dependent on consecrating the human will to the choosing of those values selected by this spirit-value sorter-the indwelling interpreter and unifier._ ([UB 196:3.17](/en/The_Urantia_Book/196#p3_17))
+> _Human survival is in great measure dependent on consecrating the human will to the choosing of those values selected by this spirit-value sorter-the indwelling interpreter and unifier._ (<a id="a164_190"></a>[UB 196:3.17](/en/The_Urantia_Book/196#p3_17))
 
 ## What does it all Mean?
 
@@ -192,3 +216,27 @@ _God, being self-existent is also self-explanatory, God actually lives within ev
 > 
 > He also publishes “Interface International,” from which this article is taken, with the author's permission.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toward Spiritual Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="pr-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part I)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

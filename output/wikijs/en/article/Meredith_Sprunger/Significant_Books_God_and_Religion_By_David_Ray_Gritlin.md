@@ -3,12 +3,36 @@ title: "Significant Books: “God and Religion in the Postmodern World” By Dav
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Religion, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: “Truth in Religion” By Mortimer Adler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="pr-2">A Mainline Reaction to Apocalypticism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 State University of New York Press, 1989, 175 pp.
 
@@ -27,3 +51,27 @@ A postmodern spirituality of creativity should have greater growth potential tha
 Supernaturalistic theism tends to view God acting unilaterally, apart from the world, and to support various forms of imperialism since external coercion and force are seen as the divine way of doing things. Postmodern theology should reject both this arbitrary theism and atheistic naturalism. It should discard the extreme voluntarism and separateness of God from the world in prescientific theism, and replace it with a naturalistic form of theism. This postmodern theology supports a belief in God, and living faith, on the basis of personal experience and within the context of the facts of science and the coherence of reason.
 
 “Finally, this worldview strengthens our sense of kinship with each other, portraying us all as having a common divine source, as living in the midst of a common divine reality, and as having a common divine goal. This divine reality of the universe dwells in us, and we in it, and our lives have immortal significance in it.” (p. 67) Dr. Griffin gives a penetrating analysis of the limitations of both traditional theology and secular modernism. He then utilizes the insights of process theology to develop a postmodern theistic worldview. This is an excellent book to keep one abreast of some of the most insightful thoughts in contemporary theology.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: “Truth in Religion” By Mortimer Adler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="pr-2">A Mainline Reaction to Apocalypticism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

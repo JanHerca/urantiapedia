@@ -3,12 +3,36 @@ title: "Writing Styles of Papers in The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Ken Glasziou<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Some Ministers Don't Read The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="pr-2">Psalms Today</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ purports to be a revelation given to mortals by celestial beings. When first introduced to the book, I assumed it had been written by a committee of well-meaning academics on a save-the-world mission. On becoming more familiar with the content of the book, I was impressed not only by the quality and consistency of its message, but also noticed material of a scientific nature that could only have been guesswork at the time the papers were received. It did not make sense that a group of obviously knowledgeable and talented authors would risk jeopardizing acceptance of their work by including contentious prophetic material, particularly since the book could easily have earned recognition as a philosophic and religious work of great merit.
 
@@ -39,6 +63,31 @@ The second study showed that Papers 57-62 differ from Papers 99-107 (P=0.010); P
 The study comparing Dr. Sadler's lecture, “The Evolution of the Soul,” with _Urantia Book_ material clearly differentiated two distinct writing styles on the basis of sentence structure (P=0.005), sentence length (P=0.05), and the Flesch Reading Index (P=0.05). Besides indicating that Dr. Sadler did not write _The Urantia Book_, the results of this investigation add another dimension to the task of demonstrating claims that human agencies may have compiled _The Urantia Book_. It now becomes necessary also to offer a rational explanation on how the involvement of so many outstanding individuals in such a major task could have been kept totally secret over a period exceeding fifty years. A further problem is how the remarkable consistency of the material found in this book could be maintained by multiple human authors (or even a single author) working well before the days when computer search programs and data bases became available.
 
 [Addendum: An additional study has been completed in collaboration with my son, Paul, a medical graduate with a Ph. D. in mathematics and statistics, who suggested that it would be possible to apply these same techniques to compare writing styles for single authors who are named as the writers of multiple papers in the book. A search of the index of _The Urantia Book_ indicated the likelihood that at least five of the authors named had contributed four or more papers. This enabled a study to be made that included the variability between papers by the same author as well as variability between authors. This study has clearly distinguished between all five of the selected authors.]
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Some Ministers Don't Read The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="pr-2">Psalms Today</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

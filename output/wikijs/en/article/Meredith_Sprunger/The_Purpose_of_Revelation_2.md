@@ -3,13 +3,37 @@ title: "The Purpose of Revelation"
 description: "A Response to Martin Gardner's “Urantia: The Great Cult Mystery”"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Revelation, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Leadership_by_Margaret_J_Wheatley">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Leadership and the New Science by Margaret J. Wheatley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="pr-2">Is the Science of The Urantia Book Revelatory?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The purpose of revelation is to reveal and enlarge spiritual truth. All presentations of revelation are communicated in the intellectual-cultural frames of reference of the times in which they are given. These human concepts carrying the revelation are transitory, but the truth they proclaim is eternal. For instance, the seven-day creation story in the Bible which theologians now classify as “myth,” made sense in the simplistic cosmology of prescientific times and effectively transmitted the spiritual truth that God is the source of all creation.
 
@@ -27,7 +51,7 @@ Students of the Fifth Epochal Revelation are now experiencing this same inclinat
 
 The central thing to remember about revelation, as we have mentioned, is that its purpose is to reveal and enlarge spiritual truth. The accompanying scientific facts and cultural folkways used to carry and present these spiritual truths are transitory. It is the genius of revelation that eternal spiritual truths can be presented using temporal facts and changing cultural customs. The cosmological and metaphysical concepts of revelation are important because they are the frames of reference which make its message relevant in the times in which the revelation is given. The enlarged spiritual cosmology of the Fifth Epochal Revelation is critically important for mainline, liberal Christianity — as well as all traditional religions. Since contemporary Christology is rooted in prescientific material cosmology and an extremely simplistic spiritual cosmology, theologians are regarding the doctrine of exclusive salvation through faith in the post-resurrection Jesus as increasingly unbelievable. They are no longer able to affirm what has been called the “scandal of particularity.”
 
-Christian theology is in desperate need of the spiritual cosmology presented in _The Urantia Book_ to envision a metaphysical conception of reality that will enable theologians to comprehend the “glory of particularity” in the post-resurrection personality of Jesus. The Fifth Epochal Revelation "does synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy, a co-ordinated and unbroken explanation of both science and religion, thus creating a harmony of mind and satisfaction of spirit which answers in human experience those questionings of the mortal mind which craves to know how the Infinite works out his will and plans in matter, with minds, and on spirit." ([UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
+Christian theology is in desperate need of the spiritual cosmology presented in _The Urantia Book_ to envision a metaphysical conception of reality that will enable theologians to comprehend the “glory of particularity” in the post-resurrection personality of Jesus. The Fifth Epochal Revelation "does synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy, a co-ordinated and unbroken explanation of both science and religion, thus creating a harmony of mind and satisfaction of spirit which answers in human experience those questionings of the mortal mind which craves to know how the Infinite works out his will and plans in matter, with minds, and on spirit." (<a id="a53_745"></a>[UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
 
 The authors of _The Urantia Book_ on page 1109-10 give an excellent description of the use of transitory knowledge and eternal truth in revelation. "Truth may be but relatively inspired, even though revelation is invariably a spiritual phenomenon. While statements with reference to cosmology are never inspired, such revelations are of immense value in that they at least transiently clarify knowledge by:
 
@@ -104,4 +128,28 @@ Soon after regional and national conferences were held, students of _The Urantia
 
 We are now entering the intellectual-spiritual struggle which took mainline Christianity centuries to largely resolve: distinguishing between the contemporary, fallible human carrier concepts used in revelation from its eternal spiritual truths. Martin Gardner's book, _Urantia: The Great Cult Mystery_, may help to shorten this period in the Urantia movement. It may also help to guard against cult attitudes among those who have living faith in the enlarged spiritual truths of the Fifth Epochal Revelation.
 
-The solid core of the Urantia movement has come through these tribulations with renewed dedication and balance. We have come of age. Spiritual freedom and participatory democracy have taught us that there can be unity of purpose in the midst of intellectual and political diversity. The Fifth Epochal revelation will make its way and overcome any barriers placed in its way. We are standing at the threshold of “one of the most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) on our planet. The preliminary, orienting growth developments of the Urantia movement are largely behind us. The potential of an exciting outreach mission of the Fifth Epochal Revelation is awaiting us. The Most Highs have prepared us and our planet for the most thrilling vision of spiritual reality since Jesus of Nazareth walked on our world. This outreach mission will be manyfaceted, pluralistic, and victorious!
+The solid core of the Urantia movement has come through these tribulations with renewed dedication and balance. We have come of age. Spiritual freedom and participatory democracy have taught us that there can be unity of purpose in the midst of intellectual and political diversity. The Fifth Epochal revelation will make its way and overcome any barriers placed in its way. We are standing at the threshold of “one of the most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” (<a id="a130_531"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) on our planet. The preliminary, orienting growth developments of the Urantia movement are largely behind us. The potential of an exciting outreach mission of the Fifth Epochal Revelation is awaiting us. The Most Highs have prepared us and our planet for the most thrilling vision of spiritual reality since Jesus of Nazareth walked on our world. This outreach mission will be manyfaceted, pluralistic, and victorious!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Leadership_by_Margaret_J_Wheatley">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Leadership and the New Science by Margaret J. Wheatley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="pr-2">Is the Science of The Urantia Book Revelatory?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

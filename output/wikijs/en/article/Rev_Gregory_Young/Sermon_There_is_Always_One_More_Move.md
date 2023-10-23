@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Rev. Gregory Young<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Religion_and_the_Religious_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion and the Religious Organization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="pr-2">Psalms Today: The Saving Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A little boy went to the grocery store and asked the clerk for a box of Duz detergent. The clerk said, “Son, what do you need detergent for?” The little boy said, “I want to wash my dog.” The clerk said, “Well son, that Duz detergent is pretty strong for washing a little dog.” The little boy said, “That is what I want.” The clerk said, “All right,” and he sold him the Duz, but he advised, “Now you be careful when you wash your dog. That detergent is very strong; it might kill him.” The little boy said, “I'll be careful.” He took the box of detergent home.
 
@@ -46,3 +70,27 @@ My friends, whatever pain or suffering you bear, what ever personal darkness you
 
 > _Gregory Young is pastor of St. John United Church of Christ in Germantown, Wisconsin._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Religion_and_the_Religious_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion and the Religious Organization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="pr-2">Psalms Today: The Saving Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

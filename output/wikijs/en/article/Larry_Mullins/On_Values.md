@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Larry Mullins<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More Psalms Today: The Universal Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_7">
+          <span class="pr-2">More Psalms Today: Spirit Realities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Plato observed that ideas such as truth, beauty, and goodness are more “real” than the actual material world in which we live. Modern philosophers have generally brushed that concept off. “Platonic” is a term that has come to mean unrealistically idealistic.
 
@@ -32,7 +56,31 @@ Values are indeed more real than ordinary life, especially more real than a life
 
 > I have lived nearly fifty years, and I have seen life as it is. Misery, pain, hunger — cruelty beyond belief. I have heard the singing from taverns, and the moans from filth in the streets. I have been a soldier, and have seen my comrades fall in battle or die more slowly under the lash in Africa. I have held them in my arms in the final moments. These were men who saw life as it is, and yet they died despairing. No brave words, no gallant sayings. Only in their eyes a confusion, and whimpering the question: “Why?” I do not think they asked why they were dying, but why they had lived. When life itself seems lunatic, who knows where madness lies? Too much sanity may be madness! To surrender dreams, this may be madness. To seek treasure, where there is only trash. But maddest of all, to see life as it is, and not as it ought to be!
 
-Thus, we may understand the thrilling new truth that Jesus taught the apostles, and only James grasped at first: They were to _live life as though they were ambassadors of a glorious earth kingdom of light and life ***that already exists***_. ([UB 140:8.25](/en/The_Urantia_Book/140#p8_25)) All true members of the kingdom of God should live as such noble ambassadors, for the gospel of Jesus reveals to us that the Father's spiritual family is to be found within the eternal now.
+Thus, we may understand the thrilling new truth that Jesus taught the apostles, and only James grasped at first: They were to _live life as though they were ambassadors of a glorious earth kingdom of light and life ***that already exists***_. (<a id="a58_244"></a>[UB 140:8.25](/en/The_Urantia_Book/140#p8_25)) All true members of the kingdom of God should live as such noble ambassadors, for the gospel of Jesus reveals to us that the Father's spiritual family is to be found within the eternal now.
 
 > _Larry Mullins is a consultant in advertising and marketing. He is author of “Immature People With Power” and “Jesus: God and Man.”_
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More Psalms Today: The Universal Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_7">
+          <span class="pr-2">More Psalms Today: Spirit Realities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

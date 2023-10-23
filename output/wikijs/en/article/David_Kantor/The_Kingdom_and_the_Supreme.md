@@ -131,7 +131,7 @@ While these purposes of Michael’s bestowal seem very straightforward, the pict
 
 > . . . Jesus explained that the kingdom of heaven was an evolutionary experience, beginning here on earth and progressing up through successive life stations to Paradise. <a id="a131_172"></a>[[UB 142:7.3](/en/The_Urantia_Book/142#p7_3)]
 
-> The Supreme Being “_is a synthetic co-ordinator of all creature-Creator universe activities._” <a id="a133_95"></a>[[UB 0:7.9](/en/The_Urantia_Book/0#p7_9)]
+> The Supreme Being “_is a synthetic co-ordinator of all creature-Creator universe activities._” <a id="a133_97"></a>[[UB 0:7.9](/en/The_Urantia_Book/0#p7_9)]
 
 > The faith of Jesus [provided for]. . .  deliverance from the limitations of self-consciousness through the attainment of the cosmic levels of the Supreme mind and by co-ordination with the attainments of all other self-conscious beings. . .  the perfected oneness with Deity in and through the Supreme. . .  <a id="a135_310"></a>[[UB 101:6.13,15](/en/The_Urantia_Book/101#p6_13)]
 
@@ -176,7 +176,7 @@ Consider the following teachings about the kingdom and the Supreme.
 
 > Jesus . . . proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer. . .  <a id="a176_138"></a>[[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)]
 
-> The gospel of the kingdom is “. . . _the supreme desire to do the Father’s will coupled with the supreme joy of the faith realization of sonship with God_. . .” <a id="a178_161"></a>[[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)] 
+> The gospel of the kingdom is “. . . _the supreme desire to do the Father’s will coupled with the supreme joy of the faith realization of sonship with God_. . .” <a id="a178_163"></a>[[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)] 
 
 > The kingdom of God in this world [is]. . .  the supreme desire to do the will of God. <a id="a180_88"></a>[[UB 170:2.16](/en/The_Urantia_Book/170#p2_16)]
 
@@ -252,7 +252,7 @@ Jesus portrayed the second phase of the kingdom as “. . . _The kingdom of God 
 
 > Bear in mind, all that God the Father and his Paradise Sons do for us, we in turn and in spirit have the opportunity to do for and in the emerging Supreme Being. The experience of love, joy, and service in the universe is mutual. <a id="a252_232"></a>[[UB 56:8.3](/en/The_Urantia_Book/56#p8_3)]
 
-> The kingdom is “_a life of progressive righteousness and increasing joy in the perfecting service of the Father._” <a id="a254_115"></a>[[UB 137:8.13](/en/The_Urantia_Book/137#p8_13)]
+> The kingdom is “_a life of progressive righteousness and increasing joy in the perfecting service of the Father._” <a id="a254_117"></a>[[UB 137:8.13](/en/The_Urantia_Book/137#p8_13)]
 
 > . . . the true and inner religion of the kingdom unfailingly and increasingly tends to manifest itself in practical avenues of social service. <a id="a256_145"></a>[[UB 170:3.8](/en/The_Urantia_Book/170#p3_8)]
 

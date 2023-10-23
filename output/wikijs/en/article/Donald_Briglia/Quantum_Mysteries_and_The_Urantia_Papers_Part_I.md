@@ -9,21 +9,45 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Donald Briglia<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_History_of_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The History of the Spiritual Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="pr-2">A Service Adventure in Guatemala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Last year Joan and I visited Santa Barbara and met the Urantia Study Group there. I happened to mention something about the mystery of the three digit number, 137 , and its relation to quantum mechanics. (Please see the editorial in this edition, “God's Little Three-Digit Joke on Quantum Science”). Veteran Urantians should quickly note the relationship of 137 to the Urantia Papers ... one being the First Source and Center, three the Trinity, and seven the limit of different associations of the Trinity. Donald Briglia, a physicist, happened to be in the Santa Barbara group. On that wonderful California evening Donald gave the group an elegant scientific explanation of “137,” far beyond my lay abilities. He kindly consented to expand upon this explanation in our Journal. Donald's commentary follows._
 > 
 > Larry Mullins
 {.is-info}
 
-Acknowledging the huge information content contained in even a single image, vision is considered to be the primary sense. Light, the visible portion of the electromagnetic spectrum [[UB 42:5.10](/en/The_Urantia_Book/42#p5_10)], is the ready facilitator of visual information and is produced whenever electrons change their energy relationship in an atom or molecule in the relevant energy range, i.e., the outer shells of the structure, so they are known as optical electrons.
+Acknowledging the huge information content contained in even a single image, vision is considered to be the primary sense. Light, the visible portion of the electromagnetic spectrum <a id="a41_182"></a>[[UB 42:5.10](/en/The_Urantia_Book/42#p5_10)], is the ready facilitator of visual information and is produced whenever electrons change their energy relationship in an atom or molecule in the relevant energy range, i.e., the outer shells of the structure, so they are known as optical electrons.
 
-All visible light results from electron energy dynamics, optical electrons changing their state. More energetic electromagnetic signals come from inner shell transitions, _e.g., “x rays.”_ [[UB 42:5.1](/en/The_Urantia_Book/42#p5_1)]
+All visible light results from electron energy dynamics, optical electrons changing their state. More energetic electromagnetic signals come from inner shell transitions, _e.g., “x rays.”_ <a id="a43_189"></a>[[UB 42:5.1](/en/The_Urantia_Book/42#p5_1)]
 
 As the facilitator of the primary and most important of the senses, light conveys to the eye or optical instrument images of very high information content through the action of photons, tiny bundles of “wavy” energy that travel faster than anything else, and whose velocity represents an upper limit to the velocity of material matter (theorized first by Einstein in his special theory of relativity). Most of what is known about the cosmos comes from observations of light and the other non-visible photons of the electromagnetic spectrum. Our earliest mathematical knowledge of the submicroscopic makeup of matter, atomic theory, was developed from observations of light, produced when electrons become dynamic.
 
-The science that analyzes light dispersed into its spectral components and interprets these spectra is known as optical spectroscopy and this branch of physics produced not only our first mathematical knowledge of atomic structure but also led to quantum theory and most of the rest of the “new physics.” For example, when light from the simplest atom, Hydrogen, a single proton and a single electron bound together by their mutual electrical attraction, was analyzed into its spectral components no agreement with classical electromagnetic theory was found. Classical (in this case) means pre-quantum and prerelativity theoretical physics. An early quantum approach by N. Bohr produced a theory that provided some agreement and led to our earliest mathematical model of atomic structure. (Of course, there were earlier models, probably going back to the Greeks, and Rutherford had a model previously, the so-called “Rutherford nuclear model of the atom,” which was derived from alpha particle scattering by a nucleus, but since the fast and far more massive alphas are hardly affected by the electrons, there is no knowledge provided by this type of experiment about the electronic structure of atoms.) “_The formation of all matter is on the order of the solar system. ... Within the atom the electrons revolve about the central proton ..._” [[UB 42:7.1](/en/The_Urantia_Book/42#p7_1)]
+The science that analyzes light dispersed into its spectral components and interprets these spectra is known as optical spectroscopy and this branch of physics produced not only our first mathematical knowledge of atomic structure but also led to quantum theory and most of the rest of the “new physics.” For example, when light from the simplest atom, Hydrogen, a single proton and a single electron bound together by their mutual electrical attraction, was analyzed into its spectral components no agreement with classical electromagnetic theory was found. Classical (in this case) means pre-quantum and prerelativity theoretical physics. An early quantum approach by N. Bohr produced a theory that provided some agreement and led to our earliest mathematical model of atomic structure. (Of course, there were earlier models, probably going back to the Greeks, and Rutherford had a model previously, the so-called “Rutherford nuclear model of the atom,” which was derived from alpha particle scattering by a nucleus, but since the fast and far more massive alphas are hardly affected by the electrons, there is no knowledge provided by this type of experiment about the electronic structure of atoms.) “_The formation of all matter is on the order of the solar system. ... Within the atom the electrons revolve about the central proton ..._” <a id="a47_1344"></a>[[UB 42:7.1](/en/The_Urantia_Book/42#p7_1)]
 
-Not accounted for by the Bohr theory are subtleties of the spectra, such as spectral components that are split into more than one signal, called fine structure. A. Sommerfeld added features to the Bohr model that took into account Einsteinian special relativity (the electron moves fast in this model) and the apparent spinning of the electron. This expanded model produced a theory that did agree with most of the observations. “_The electronic axial revolutions and their orbital velocities about the atomic nucleus are both beyond the human imagination ..._” [[UB 42:7.3](/en/The_Urantia_Book/42#p7_3)]
+Not accounted for by the Bohr theory are subtleties of the spectra, such as spectral components that are split into more than one signal, called fine structure. A. Sommerfeld added features to the Bohr model that took into account Einsteinian special relativity (the electron moves fast in this model) and the apparent spinning of the electron. This expanded model produced a theory that did agree with most of the observations. “_The electronic axial revolutions and their orbital velocities about the atomic nucleus are both beyond the human imagination ..._” <a id="a49_562"></a>[[UB 42:7.3](/en/The_Urantia_Book/42#p7_3)]
 
 ## The Mysterious Number 137
 
@@ -49,7 +73,7 @@ When a free electron captures a free proton that was initially at rest at an inf
 
 This is the same amount of energy that must be expended to separate the two at rest at a very large separation, called the ionization potential (energy).
 
-> “_The quantity of energy taken in or given out when electronic or other positions are shifted is always a ‘quantum’ or some multiple thereof, but the vibratory or wavelike behavior of such units of energy is wholly determined by the dimensions of the material structures concerned. Such wavelike energy ripples are 860 times the diameters of the ultimatons, electrons, atoms or other units thus performing._” [[UB 42:4.14](/en/The_Urantia_Book/42#p4_14)]
+> “_The quantity of energy taken in or given out when electronic or other positions are shifted is always a ‘quantum’ or some multiple thereof, but the vibratory or wavelike behavior of such units of energy is wholly determined by the dimensions of the material structures concerned. Such wavelike energy ripples are 860 times the diameters of the ultimatons, electrons, atoms or other units thus performing._” <a id="a75_411"></a>[[UB 42:4.14](/en/The_Urantia_Book/42#p4_14)]
 
 License has been used here (it is usually stated that the nuclear proton captures the electron) to draw attention to the observation that the electron is dimensionally so much larger than the proton in models of atomic optical processes/structures though it is so much smaller in mass. The more correct way of stating the recombination is that they capture each other to form their union. Using the planetary model of this simplest of atomic systems, and calculating how fast the electron moves, the result is that the electron velocity is only slightly relativistic, less than one percent of the velocity of light, as light travels 137 times faster. Interpreting the phrase “wavelike energy ripples” to mean “wavelengths,” logical consistency results. The reason 860 is stated as a dimensionless number is it is the ratio of two lengths, a wavelength and a diameter.
 
@@ -101,4 +125,28 @@ The reader has perhaps anticipated that there is a connection between these two 
 > _Donald Briglia has been a casual reader of the Urantia Papers for fifteen years. After three years of military service, mostly in Germany, he studied Physics at Cornell and UCLA and Computer Engineering at Stanford. He did some Physics research (electron collision processes), then Engineering Physics in Scientific Instrument field (mostly semiconductor measurement instruments)._
 {.is-info}
 
-> “Matter-energy is recognized by the mathematical logic of the senses; mind-reason intuitively knows its moral duty; spirit-faith (worship) is the religion of the reality of spiritual experience. These three basic factors in reflective thinking may be unified and coordinated in personality development, or they may become disproportionate and virtually unrelated in their respective functions. But when they become unified, they produce a strong character consisting in the correlation of a factual science, a moral philosophy, and a genuine religious experience. And it is these three cosmic intuitions that give objective validity, reality, to man's experience in and with things, meanings, and values.” [[UB 16:6.10](/en/The_Urantia_Book/16#p6_10)]
+> “Matter-energy is recognized by the mathematical logic of the senses; mind-reason intuitively knows its moral duty; spirit-faith (worship) is the religion of the reality of spiritual experience. These three basic factors in reflective thinking may be unified and coordinated in personality development, or they may become disproportionate and virtually unrelated in their respective functions. But when they become unified, they produce a strong character consisting in the correlation of a factual science, a moral philosophy, and a genuine religious experience. And it is these three cosmic intuitions that give objective validity, reality, to man's experience in and with things, meanings, and values.” <a id="a127_708"></a>[[UB 16:6.10](/en/The_Urantia_Book/16#p6_10)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_History_of_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The History of the Spiritual Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="pr-2">A Service Adventure in Guatemala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

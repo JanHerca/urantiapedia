@@ -8,6 +8,29 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Unique_Function_of_Religion">
+          <span class="pr-2">The Unique Function of Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
 Volume 1, Number 2, Fall, 1991
 
 - **Science, Religion and _The Urantia Book_, Kenneth T. Glasziou**
@@ -132,3 +155,24 @@ Clyde Bedell (1898-1985), a widely recognized author and speaker in the field of
 _The Urantia Book_ reader also discovers information in many sections of the book which parallels Biblical material. Numerous young friends of the editor did not become interested in the Bible until they read _The Urantia Book_. The two books are mutually enhancing. Recognizing this close relationship, Dr. Duane L. Faw, Professor of Law emeritus of Pepperdine University School of Law, spent six years compiling a parallel and harmony of _The Urantia Book_ and the Bible. The _Paramony_ was published in 1986 and contains 25,000 cross-references revealing the similarities and differences between the facts and concepts of these two great books. Dr. Faw has been a teacher of adult Bible classes for 40 years and a certified lay speaker in the United Methodist Church for over 25 years. The _Paramony_ is an essential reference tool for studying relationships between _The Urantia Book_ and the Bible. A long time scholarly reader of _The Urantia Book_ describes the _Paramony_ as, “a well-structured volume, indispensable for those engaged in serious hermeneutics, particularly of the gospels.”
 
 If your local bookstore does not carry _The Urantia Book_, it can be ordered from The Urantia Foundation, 533 Diversey Parkway, Chicago, IL 60614. The _Concordex_ and _Paramony_ can be purchased from the Good Cheer Press, 1790 30th Street. \#400. Boulder, CO 80301
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Unique_Function_of_Religion">
+          <span class="pr-2">The Unique Function of Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

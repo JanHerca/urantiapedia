@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1988 Charles E. Hansen<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/UB_and_Religious_Studies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Religious Studies</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="pr-2">The Urantia Book and Modern Science: Harmony or Discord?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This article is a condensation of a chapter from a forthcoming book which will define the abbreviated references. We hope to review the book after it is published._
 
@@ -126,9 +150,33 @@ As Alfred North Whitehead observed in 1925: “We are entering upon an age of re
 
 Accordingly, the mathematics of love sets the logical foundation in place by which construction of a new age may begin. Love, of course, cannot be understood as simply a matter of mathematics, of vectors. It is understandable only in terms of the whole personality — from which the vectors of _attentiveness, listening, thanking, encouraging_ and the rest emanate. The wholeness of love must find its understanding in the role model of personalities who love. And unbeknownst to many of us, Einstein himself referred to Jesus and his teachings as the ultimate model for humans to follow. (TWAISI, p. 111) America's greatest scientific philosophers, Charles Peirce and Alfred North Whitehead, reached the same conclusion. (ITPOCSP, p. 462) It has long been recognized that religions tend to center on the loving, role model personality of their founders. By adding the scientific foundation to what these personalities have demonstrated, we only clarify their essence. But this also means that from the perspective of science, philosophy, and religion, the stone the builders have rejected is soon due to be recognized as the cornerstone, assisted by a language which the builders cannot ignore: the universal language of science — mathematics, the mathematics of love. $\square$
 
-> _The author notes that the invariant defined by the Mathematics of Love appears to be that specifically defined on [UB 12:7.1](/en/The_Urantia_Book/12#p7_1) of The Urantia Book: “There is operative throughout all time and space and with regard to all reality of whatever nature an inexorable and impersonal law [invariant principle] which is equivalent to the function of a cosmic providence.”_
+> _The author notes that the invariant defined by the Mathematics of Love appears to be that specifically defined on <a id="a152_117"></a>[UB 12:7.1](/en/The_Urantia_Book/12#p7_1) of The Urantia Book: “There is operative throughout all time and space and with regard to all reality of whatever nature an inexorable and impersonal law [invariant principle] which is equivalent to the function of a cosmic providence.”_
 
 Copyright © 1988, Charles E. Hansen. All rights reserved.
 
 > _Charles Hansen is an economist and businessman with a special interest in human performance, productivity, creativity, and innovation. In addition to publishing various papers in these areas, he is completing a book entitled <ins>The Technology of Love</ins>._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/UB_and_Religious_Studies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Religious Studies</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="pr-2">The Urantia Book and Modern Science: Harmony or Discord?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

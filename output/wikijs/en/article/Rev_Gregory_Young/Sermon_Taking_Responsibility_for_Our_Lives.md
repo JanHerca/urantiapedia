@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Rev. Gregory Young<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encountering The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="pr-2">Psalms Today: A New Song</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Creation story in [Genesis 1:26](/en/Bible/Genesis/1#v26) says, “Let us make man in our image and likeness...” We are created in the image of God. Our roots of being are grounded in Ultimate Reality. This, admittedly, is an astounding and challenging statement. What does it mean? It means there is far more to you than meets the eye, and far more in store for you as you journey through this life and beyond than you can possibly fathom in your wildest and most hopeful dreams. Isn't such a thought exciting and intriguing! Well, it's true, and in this series I am going to invite you on a journey with me, as together we explore how we might grow personally and as a community in spiritual stature and vision.
 
@@ -52,3 +76,27 @@ Please know that God holds you tenderly in his hand and will lead you into a spi
 
 > _Gregory Young is pastor of St. John United Church of Christ in Germantown, Wisconsin._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encountering The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="pr-2">Psalms Today: A New Song</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

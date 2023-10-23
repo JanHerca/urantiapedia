@@ -3,12 +3,36 @@ title: "The Urantia Book and Spiritual Renewal"
 description: "The Christianization of a Pastor"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Modern Science: Harmony or Discord?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="pr-2">Song of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This feature is written by ministers. Since The Urantia Book at this point in time is potentially controversial, names are sometimes withheld so as not to interfere with their rapport in ministry._
 
@@ -43,3 +67,27 @@ The very language of _The Urantia Book_ filled me with utter awe and genuine res
 It is difficult to condense into a pithy sentence or two the essence of 2,097 pages of the most comprehensive, complex, and complete articulation of the history of human spirituality ever compiled. I can only assure you that reading it is worth your time.
 
 But, you may ask, “Is _The Urantia Book_ true?” Again, I don't know how to answer. That question has receded into obsolescence for me. After I read _The Urantia Book_, the issue of it's “truth” seemed almost immaterial. To ask for objective verification is about like asking for proof of Jesus' divinity! Its authenticity must be verified in the heart and mind of the individual. Such questions tend to side-track the usefulness and application of the message. The better question to ask (of Jesus or _The Urantia Book_) is, “Is it helpful for the growth and maturation of your spiritual life?” My reply on both accounts is a resounding “Yes!”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Modern Science: Harmony or Discord?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="pr-2">Song of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

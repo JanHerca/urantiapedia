@@ -9,14 +9,38 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 David A. Kantor<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Plain Speech</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Meta_Values_Part_II">
+          <span class="pr-2">Meta-Values ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 **Key quotes from the Urantia Papers:**
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spiritborn souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spiritborn souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ (<a id="a40_591"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
-> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love._ ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love._ (<a id="a42_654"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 ## Welcome and Overview
 
@@ -50,7 +74,7 @@ The general consensus of opinion held by individuals who attempt to study these 
 
 Most of us would agree that _The Urantia Book_ provides such a vision. But how do we go about applying the ideas in this book to the problems of our world? How do we get from ink and paper to an advancing civilization ruled by spiritual wisdom? While the revelators have generously provided us with a comprehensive overview of the cosmic context within which the present planetary struggle is taking place, the challenge of effectively applying this information lies before us today.
 
-_The Urantia Book_ describes religion as “the mighty lever which lifts civilization from chaos.” ([UB 70:8.18](/en/The_Urantia_Book/70#p8_18)) But we are also told that _institutional_ religion “cannot afford inspiration and provide leadership in this impending world-wide social reconstruction.” ([UB 99:2.1](/en/The_Urantia_Book/99#p2_1)) We are told that “Only the real religion of personal spiritual experience can function helpfully and creatively in the present crisis of civilization.”
+_The Urantia Book_ describes religion as “the mighty lever which lifts civilization from chaos.” (<a id="a76_98"></a>[UB 70:8.18](/en/The_Urantia_Book/70#p8_18)) But we are also told that _institutional_ religion “cannot afford inspiration and provide leadership in this impending world-wide social reconstruction.” (<a id="a76_298"></a>[UB 99:2.1](/en/The_Urantia_Book/99#p2_1)) We are told that “Only the real religion of personal spiritual experience can function helpfully and creatively in the present crisis of civilization.”
 
 And it is this “real religion of personal spiritual experience” along with _The Urantia Book_'s portrayal of the ideals of cosmic citizenship, which holds such great hope for transforming human institutions. With these concepts, _The Urantia Book_ profiles a paradigm of spirituality unlike that of any existing religion or philosophy in the world today. It links personal spiritual development to meaningful personality integration resulting in the brotherhood of man.
 
@@ -62,7 +86,7 @@ In [Paper 103](/en/The_Urantia_Book/103) a Melchizedek admonishes us to “Remem
 
 In a loving, caring, “authentic” exchange with another personality the superconscious functions of mind are mobilized in a state of dynamic receptivity, open to the discovery of divine values which the immediate moment holds as potentials. Imagine for a moment that you are engaged with another person in an effort to solve a problem. You're sincerely seeking the best possible outcome. As you engage in this discussion, you try to do your best thinking; you simultaneously attempt to be conscious of the moral and ethical values in the situation. You try to phrase your communication in a caring and loving manner. The interaction is free from any effort to psychologically or emotionally manipulate the other. As you communicate you are trying to remain “conscious of consciousness” — you've mobilized your best resources and while applying them you are still actively evaluating — seeking to discern even higher values. You may even attain a level of involvement where you actively seek to bring an understanding of the Father's will into the interaction — you're sharing the inner life with God as you participate in this relationship.
 
-This experience, in which the personality engages in a choice-making dance with the meanings and values of the cosmos, is the living process by which we open ourselves up to spiritual guidance. The Midwayers comment that, “Every time man makes a reflective moral choice he immediately experiences a new divine invasion of his soul.” ([UB 196:3.20](/en/The_Urantia_Book/196#p3_20)) Spiritual values do not exist independently of the process of personality interaction. This living process of relationship is where the fruits of the spirit appear. It is where we apply the higher levels of the golden rule. It is where we implement Jesus' great commandment. It is where Jesus' brotherhood of the kingdom is experientially discovered. _This is the paradigm of spirituality which the apostles failed to grasp_.
+This experience, in which the personality engages in a choice-making dance with the meanings and values of the cosmos, is the living process by which we open ourselves up to spiritual guidance. The Midwayers comment that, “Every time man makes a reflective moral choice he immediately experiences a new divine invasion of his soul.” (<a id="a88_334"></a>[UB 196:3.20](/en/The_Urantia_Book/196#p3_20)) Spiritual values do not exist independently of the process of personality interaction. This living process of relationship is where the fruits of the spirit appear. It is where we apply the higher levels of the golden rule. It is where we implement Jesus' great commandment. It is where Jesus' brotherhood of the kingdom is experientially discovered. _This is the paradigm of spirituality which the apostles failed to grasp_.
 
 And I ask today, “Do we get it?” Have we really gained any more understanding than the apostles had regarding the profound implications of Jesus' teachings about the kingdom of heaven? In [Paper 170](/en/The_Urantia_Book/170) the Midwayers comment that “to his apostles Jesus always taught the kingdom as embracing man's personal experience in relation to his fellows on earth and to the Father in heaven.” “The kingdom of heaven,” said Jesus, “is a spiritual relationship between God and man.”
 
@@ -70,7 +94,7 @@ Given this paradigm of spirituality, and the apostle's difficulty in grasping it
 
 > _Spiritual values do not exist independently of the process of personality interaction. This living process of relationship is where the fruits of the spirit appear. It is where we apply the higher levels of the golden rule. It is where we implement Jesus' great commandment. It is where Jesus'brotherhood of the kingdom is experientially discovered. This is the paradigm of spirituality which the apostles failed to grasp._
 
-Said the Master on the occasion of that first remembrance, “Every soul who attains the realization of this united nature of God and man shall live forever. And this bread of life which I give to all who will receive is my own living and combined nature. The Father in the Son and the Son one with the Father — that is my life-giving revelation to the world and my saving gift to all nations.” ([UB 153:2.12](/en/The_Urantia_Book/153#p2_12)) In the context of the remembrance supper our souls can experientially feel the spiritual state of personality integration which _The Urantia Book_ indicates needs to be actualized as a cultural reality on a broad scale.
+Said the Master on the occasion of that first remembrance, “Every soul who attains the realization of this united nature of God and man shall live forever. And this bread of life which I give to all who will receive is my own living and combined nature. The Father in the Son and the Son one with the Father — that is my life-giving revelation to the world and my saving gift to all nations.” (<a id="a96_394"></a>[UB 153:2.12](/en/The_Urantia_Book/153#p2_12)) In the context of the remembrance supper our souls can experientially feel the spiritual state of personality integration which _The Urantia Book_ indicates needs to be actualized as a cultural reality on a broad scale.
 
 A Melchizedek refers to the remembrance supper as “the practice of the presence of God which eventuates in the emergence of the brotherhood of man.” The Midwayers comment that by establishing this sacrament, “the Master sought to set man's reborn soul free upon the joyous wings of a new and living spiritual liberty.”
 
@@ -98,9 +122,9 @@ In attempting to get a useful idea of what cooperation with the revelators and t
 
 So how do the seraphim work? In [Paper 113](/en/The_Urantia_Book/103) we are told that they are “mind stimulators,” continually seeking to promote circle-making decisions in the mortal mind; that they “operate from the outside inward, working through the social, ethical and moral environment of human beings.” This network of spiritualizing interpersonal relationships is real. It forms a morontia environment in which the seraphim are able to minister to participating minds and souls.
 
-In [Paper 196](/en/The_Urantia_Book/196) we're reminded that, “The human mind does not create real values; human experience does not yield universe insight. Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose.” ([UB 196:3.10](/en/The_Urantia_Book/196#p3_10)) It is the Seraphim who make spiritual values “visible” to the superconscious, as it functions in the social, ethical and moral environment of interpersonal communion.
+In [Paper 196](/en/The_Urantia_Book/196) we're reminded that, “The human mind does not create real values; human experience does not yield universe insight. Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose.” (<a id="a124_335"></a>[UB 196:3.10](/en/The_Urantia_Book/196#p3_10)) It is the Seraphim who make spiritual values “visible” to the superconscious, as it functions in the social, ethical and moral environment of interpersonal communion.
 
-In _The Urantia Book_ we are encouraged to pray for values; we are told such praying indicates that religion has “evolved to that level where the human mind recognizes the reality of beneficent powers or beings who are able to enhance social values and to augment moral ideals....” ([UB 91:1.4](/en/The_Urantia_Book/91#p1_4)) From the ministry of the Mighty Primary Supernaphim who facilitate the relationships between the diverse residents of Paradise, to the Primary Seconaphim, who facilitate relationships between the Ancients of Days, the Trinity, and the Creator Sons, on down to the Home Seraphim, who function within the relationships between your family members, the ministry of the Infinite Spirit is continuously fostering the value-potentials inherent in personality associations.
+In _The Urantia Book_ we are encouraged to pray for values; we are told such praying indicates that religion has “evolved to that level where the human mind recognizes the reality of beneficent powers or beings who are able to enhance social values and to augment moral ideals....” (<a id="a126_283"></a>[UB 91:1.4](/en/The_Urantia_Book/91#p1_4)) From the ministry of the Mighty Primary Supernaphim who facilitate the relationships between the diverse residents of Paradise, to the Primary Seconaphim, who facilitate relationships between the Ancients of Days, the Trinity, and the Creator Sons, on down to the Home Seraphim, who function within the relationships between your family members, the ministry of the Infinite Spirit is continuously fostering the value-potentials inherent in personality associations.
 
 These relationships — our first living connections with the infinite cosmos — are fragile, tenuous affairs which flicker back and forth from reality to unreality in accordance with the quality of values being implemented in any given interaction. This is the arena in which the seraphim labor to reinforce the faintest flickers of faith, to strengthen newly emerging souls and immediately begin integrating them with the culture of the spiritual cosmos.
 
@@ -117,9 +141,9 @@ How do we support their work? Six quick actionpoints:
 5. We lay the groundwork for enhanced seraphic action when we provide spiritually useful information. Get _The Urantia Book_ spread around the planet! Remember the parable of the sower in Paper 151. Jesus said that this parable was a hint as to what messengers of the kingdom might expect in their ministry from generation to generation as time passed. Maximize all available opportunities and resources for the spread of the revelation. Don't wait for things to happen — make them happen.
 6. Be involved; participate creatively in human associations. Rededicate yourself to service in your marriage and your family, your work community and your study group. The cultural icon of the monastic saint living in contemplative bliss aloof from the cares of less enlightened folk is no longer useful. Mother Theresa, Dag Hammersjold, Vaclav Havel, countless men and women with high ideals, working in the inner city, in classrooms, in churches, struggling to revitalize our institutions — these are the new icons of the applied spirituality of the fifth epoch. The benign virus of love is not going to invade the sentimental emotion stream of humanity unless we're out there helping to make the personality connections necessary for its transmission.
 
-By dedicating ourselves to such a program, by choosing the highest values we can recognize in any given situation, we can serve as conduits through which the higher values of the spiritual world may be passed to the mortal world and incorporated into planetary institutions. “True religion,” a Melchizedek tells us, “is the devotion of the self to the service of meaningful and supreme values.” ([UB 92:7.5](/en/The_Urantia_Book/92#p7_5))
+By dedicating ourselves to such a program, by choosing the highest values we can recognize in any given situation, we can serve as conduits through which the higher values of the spiritual world may be passed to the mortal world and incorporated into planetary institutions. “True religion,” a Melchizedek tells us, “is the devotion of the self to the service of meaningful and supreme values.” (<a id="a143_396"></a>[UB 92:7.5](/en/The_Urantia_Book/92#p7_5))
 
-This vision is ennobling; it is empowering. Your family, the local school board on which you serve, your kid's soccer team, the youth group at your church, the working group at your office-when you realize that these are all arenas in which the seraphim are laboring to achieve a spiritual transformation, the most commonplace tasks of daily life take on cosmic significance and become worthy of our best efforts. This is how the religion of personal spiritual experience can become “the mighty lever which lifts civilization from chaos.” ([UB 70:8.18](/en/The_Urantia_Book/70#p8_18))
+This vision is ennobling; it is empowering. Your family, the local school board on which you serve, your kid's soccer team, the youth group at your church, the working group at your office-when you realize that these are all arenas in which the seraphim are laboring to achieve a spiritual transformation, the most commonplace tasks of daily life take on cosmic significance and become worthy of our best efforts. This is how the religion of personal spiritual experience can become “the mighty lever which lifts civilization from chaos.” (<a id="a145_540"></a>[UB 70:8.18](/en/The_Urantia_Book/70#p8_18))
 
 ## Conclusion
 
@@ -135,4 +159,28 @@ May the call to high adventure contained in _The Urantia Book_, this call to sup
 
 > _David Kantor is a designer of computer software used for managing corporate voice and data communication networks. He has been a student of_ The Urantia Book _for more than thirty years and is the manager of the Fellowship Website._
 
-> _It is just because the gospel of Jesus was so manysided that within a few centuries students of the records of his teachings became divided up into so many cults and sects. This pitiful subdivision of the Christian believers results from failure to discern in the Master's manifold teachings the divine oneness of his matchless life. But someday the true believers in Jesus will not be thus spiritually divided in their attitude before unbelievers. Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible_. [UB 170:5.20](/en/The_Urantia_Book/170#p5_20)
+> _It is just because the gospel of Jesus was so manysided that within a few centuries students of the records of his teachings became divided up into so many cults and sects. This pitiful subdivision of the Christian believers results from failure to discern in the Master's manifold teachings the divine oneness of his matchless life. But someday the true believers in Jesus will not be thus spiritually divided in their attitude before unbelievers. Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible_. <a id="a161_644"></a>[UB 170:5.20](/en/The_Urantia_Book/170#p5_20)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Plain Speech</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Meta_Values_Part_II">
+          <span class="pr-2">Meta-Values ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Psalms Today: Spiritual Guidance"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, Poetry, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What if Aliens Have Landed?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="pr-2">A Spiritual Support Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Happy are those who follow the counsel of wisdom, 
 and live by the leading of the Spirit, 
@@ -31,3 +55,27 @@ in mid-life they are burned out and desolate.
 
 The eternal cosmic order undergirds the righteous;
 but the ego-centric and the ungodly shall perish.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What if Aliens Have Landed?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="pr-2">A Spiritual Support Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

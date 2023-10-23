@@ -3,12 +3,36 @@ title: "More Psalms Today: The Universal Father"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, Poetry, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Philosophical_Scientists_by_David_Foster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Philosophical Scientists by David Foster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/On_Values">
+          <span class="pr-2">On Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 O people of earth and heavenly hosts, give glory and honor to the Universal Father, the First Creative Source and Divine
 
@@ -49,3 +73,27 @@ The brilliant suns are as dim candles in God's presence. The eyes of the spirit,
 Yet is this fathomless Deity truly experienced and known!
 
 This Infinite Source of all things is our Universal Father! What a mystery! What an incomprehensible fact of love!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Philosophical_Scientists_by_David_Foster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Philosophical Scientists by David Foster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/On_Values">
+          <span class="pr-2">On Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

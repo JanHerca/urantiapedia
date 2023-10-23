@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Merlyn Cox<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/On_Theological_Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Theological Transitions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="pr-2">Significant Books: The Good Book by Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is a curious thing. One of the ongoing struggles I face as a pastor of a church is to get people within its fellowship to believe in the Good News. The church is often viewed as a colony of faith in the midst of a sea of doubt and skepticism. But I keep asking myself, why is it so hard for people within the church community to really believe the great Good News we profess, that we are children of a Creator-Father, a Divine Parent who loves us with an infinite love, a love that casts out all fear?
 
@@ -21,3 +45,27 @@ Without going into the question of whether materialism really best represents sc
 What does this have to do with _The Urantia Book_ community? For one thing, it represents the mindset of a vast number of people we are seeking to address, inside and outside of the church. Those we hope might be most open to such a revelation are often hostile, suspicious, or indifferent, in large part because of these assumptions. I doubt if there will be a general openess to the book until the current reigning philosophical-emperor that has been leading our parade (materialism) has been shown to have no clothes on. Only then can a more natural and widespread conversation take place about the infinite range of spiritual realities — and their material manifestations in the cosmos.
 
 Until then we will often find ourselves arguing with Nicodemus, someone who knows the language, affirms the premise, but utterly misses the underlying fundamental realities. To him we can only bear witness to those realites, and patiently wait. We _can_, however, take heart in realizing the manner in which the message ultimately bore fruit in his life.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/On_Theological_Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Theological Transitions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="pr-2">Significant Books: The Good Book by Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

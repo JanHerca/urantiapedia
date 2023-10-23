@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Eric Cosh<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Great Urantia Leaders and Teachers?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="pr-2">God's Orchestra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It was back in 1972 when I was first made aware of _The Urantia Book_. At the time, I was a professional entertainer, and had just returned from having photos taken of our group. I invited our photographer and his girlfriend to join myself and my girlfriend at my apartment for some refreshments.
 
@@ -58,3 +82,27 @@ I recently did a video production for John Teets, the past CEO of Greyhound and 
 
 > _Eric Cosh first saw The Urantia Book in 1972 in Denver Colorado, first purchased The Urantia Book at the Blue Note bookstore in Denver in 1976, and Joined The Oklahoma Society in 1981. Eric was one of the founders of “The Grand Canyon Society for readers of The Urantia Book.” He has been professionally videotaping conferences and doing Urantia interviews for over a decade. Eric can be reached at: eric@pvpweddings.com_
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Great Urantia Leaders and Teachers?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="pr-2">God's Orchestra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

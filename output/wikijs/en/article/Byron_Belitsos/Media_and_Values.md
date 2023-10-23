@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Byron Belitsos<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/Hymns_in_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hymns in Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="pr-2">Significant Books: No Other Name? By Paul F. Knitter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Assessing the Ministry Potential of New Media
 
@@ -36,3 +60,27 @@ A more encouraging hope is the decentralization of electronic media implied by n
 
 > Byron has been a journalist and television producer and is now a consultant in the telecommunications industry.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/Hymns_in_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hymns in Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="pr-2">Significant Books: No Other Name? By Paul F. Knitter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

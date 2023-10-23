@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Science_by_Ken_T_Glasziou">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Science, Anthropology, and Archaeology in The Urantia Book by Ken. T. Glasziou</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="pr-2">More Psalms Today: The Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dorset Press, 1991, 179 pp.
 
@@ -22,3 +46,28 @@ After surveying the contemporary findings of science that do not fit into the ol
 
 The book ends by asking the question, “Can science now agree with religion?” And Foster's answer is: “We have seen that up until 1900 science dealt heavy blows to religion based on 'proofs' related to chance and necessity and attributable to Darwinism, the Second Law of Thermodynamics and single-level mechanical models of reality. All these three ideologies have been progressively demolished from 1900 onwards, particularly by Planck, Einstein, and Heisenberg, and latterly by molecular biology. They are replaced by a new idea of the importance and dominance of _specificity_ in the universe, with the inevitable implication that _God exists_. What implications this may hold for humanity is outside the range of our present discussion.” (p. 179) If you are interested in a brief review of the philosophical-religious implications of some of the basic positions of contemporary science, The Philosophical Scientists is a stimulating book to read.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Science_by_Ken_T_Glasziou">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Science, Anthropology, and Archaeology in The Urantia Book by Ken. T. Glasziou</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="pr-2">More Psalms Today: The Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

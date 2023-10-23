@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Everett W. Sloffer<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/Music_Missions_and_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Music, Missions, and Culture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > He who is faithful in a very little is faithful also in much; and he who is dishonest in a very little is dishonest also in much. ([Luke 16:10](/en/Bible/Luke/16#v10))
 
@@ -71,3 +92,25 @@ Jesus sought the Father's will even in his smallest desire. So can we.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/Music_Missions_and_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Music, Missions, and Culture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

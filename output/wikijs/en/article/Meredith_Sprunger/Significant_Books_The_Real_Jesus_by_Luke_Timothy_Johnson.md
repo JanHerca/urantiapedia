@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Religion of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Power_Behind_Positive_by_Eric_Fellman">
+          <span class="pr-2">Significant Books: The Power Behind Positive Thinking by Eric Fellman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Luke Timothy Johnson
 Harper, SanFrancisco, 1996, 177 pp.
@@ -30,3 +54,27 @@ Cultural confusion, Johnson observes, is the basis for our theological disunity.
 After considerable scholarly analysis Johnson makes the following summary statements: (1) “History is a limited mode of human knowing.” (2) The New Testament is analyzed best when its literary integrity is respected and appreciated. (3) Despite the diversity of the Gospels, there is a remarkable consistency in the image of Jesus throughout the New Testament. (4) The expression “the real Jesus” should not be used to refer to a historically reconstructed Jesus. Such a Jesus is only a product of scholarly preference and imagination. (5) There is a “real Jesus” in the texts of the New Testament. (p. 167)
 
 Dr. Johnson ends his dissertation by presenting a more comprehensive model for critical scholarship which encompasses the anthropological, historical, literary, and religious aspects of the text. What a marvelous occasion it will be when Biblical scholars finally discover the wealth of research material found in the Life and Teachings of Jesus presented in _The Urantia Book_. Scholars will discover that it affirms and enhances the “real Jesus” found in the Gospels as Johnson so effectively points out.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Religion of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Power_Behind_Positive_by_Eric_Fellman">
+          <span class="pr-2">Significant Books: The Power Behind Positive Thinking by Eric Fellman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

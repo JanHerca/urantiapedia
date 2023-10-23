@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Jay Newbern<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Our_Subliminal_Mentor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Subliminal Mentor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Marks/Do_This_in_Remembrance_of_Me">
+          <span class="pr-2">Do This in Remembrance of Me</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Today on Urantia, according to the United Nations, 5 billion people can read and write; this is over 83% of the total of 6 billion. There was no mass literacy until after the development of the printing press in the mid-15th century. Presently there are 31 major languages in the world that each claim 36 million speakers or more. _The Urantia Book_ is now published in five of these languages — English, Spanish, Russian, French, and Korean — and is being translated into seven other major tongues: Chinese Mandarin, Arabic, Portuguese, German, Tamil, Italian, and Farsi.
 
@@ -53,9 +77,9 @@ Speaker Population in Millions
 
 ## The Importance of Language
 
-Written language on this planet first appeared 5200 years ago when the Sumerians invented the initial script. Using a reed stylus, this Middle East people created pictures of tokens to count goods onto moist clay tablets. “No other invention — perhaps only the wheel comes close-has had a longer and greater impact. Writing helped preserve the three major monotheistic religions, whose believers the Koran refers to as 'the People of the Book.”[^1] “Language is man's greatest and most serviceable thinking tool...” ([UB 81:6.17](/en/The_Urantia_Book/81#p6_17))
+Written language on this planet first appeared 5200 years ago when the Sumerians invented the initial script. Using a reed stylus, this Middle East people created pictures of tokens to count goods onto moist clay tablets. “No other invention — perhaps only the wheel comes close-has had a longer and greater impact. Writing helped preserve the three major monotheistic religions, whose believers the Koran refers to as 'the People of the Book.”[^1] “Language is man's greatest and most serviceable thinking tool...” (<a id="a79_517"></a>[UB 81:6.17](/en/The_Urantia_Book/81#p6_17))
 
-Sumerians had their origin 200,000 years ago after the submergence of Dalamatia (First Epochal Revelation) whose alphabet they lost; they adopted a peculiar writing system originating in Dilmun. “The Sumerian language, though virtually lost to the world, was not Semitic; it had much in common with the so-called Aryan tongues.” ([UB 77:4.7](/en/The_Urantia_Book/77#p4_7)) Their clay tablets tell of the first and second Edens but they were confused about Dalamatia. They were mostly Andite in extraction although their culture was more Nodite in character. “By 5000 B. C. the three purest strains of Adam's descendants were in Sumeria, northern Europe, and Greece.” ([UB 80:7.9](/en/The_Urantia_Book/80#p7_9)) The art of writing and their alphabet were imported from the Sumerian cities of the Persian Gulf by the Dravidians who were seafarers and merchants.
+Sumerians had their origin 200,000 years ago after the submergence of Dalamatia (First Epochal Revelation) whose alphabet they lost; they adopted a peculiar writing system originating in Dilmun. “The Sumerian language, though virtually lost to the world, was not Semitic; it had much in common with the so-called Aryan tongues.” (<a id="a81_330"></a>[UB 77:4.7](/en/The_Urantia_Book/77#p4_7)) Their clay tablets tell of the first and second Edens but they were confused about Dalamatia. They were mostly Andite in extraction although their culture was more Nodite in character. “By 5000 B. C. the three purest strains of Adam's descendants were in Sumeria, northern Europe, and Greece.” (<a id="a81_668"></a>[UB 80:7.9](/en/The_Urantia_Book/80#p7_9)) The art of writing and their alphabet were imported from the Sumerian cities of the Persian Gulf by the Dravidians who were seafarers and merchants.
 
 > _Presently there are 31 major languages in the world that each claim 36 million speakers or more._ The Urantia Book _is now published in five of these languages — English, Spanish, Russian, French, and Korean — and is being translated into seven other major tongues: Chinese Mandarin, Arabic, Portuguese, German, Tamil, Italian, and Farsi._
 
@@ -69,7 +93,7 @@ Our English language, the most complex on the planet with more than 600,000 word
 
 The original Levantine alphabet was created by the Phoenicians. It planted the roots of other writing systems in the eastern Mediterranean, including modern Hebrew and Arabic. For example, the modern Latin letter “A” evolved from the Phoenician and Hebrew “aleph,” the Aramaic “alaph,” the Arabic “alif,” and the Greek “alpha.” In human history there have been more than 10,000 spoken languages, many now vanished. Some 6,000 are currently spoken but over half of these are unlikely to survive the 21 st century. Half have fewer than 10,000 speakers and a quarter have fewer than 1,000.
 
-Anthropologist Luisa Moffi: “In the Bible the multiplicity of languages can be interpreted as a curse. Instead, it's been suggested that it's a safeguard against our having the same cultural blind spots. The Acoma Pueblo people say the goddess Iatiku created different languages so that it won't be easy for humans to quarrel.” [^4] The Urantia Papers disagree. “Language differences have ever since been the great barrier to the extension of peace. The conquest of dialects must precede the spread of a culture throughout a race, over a continent, or to a whole world. A universal language promotes peace, insures culture, and augments happiness.” ([UB 81:6.18](/en/The_Urantia_Book/81#p6_18))
+Anthropologist Luisa Moffi: “In the Bible the multiplicity of languages can be interpreted as a curse. Instead, it's been suggested that it's a safeguard against our having the same cultural blind spots. The Acoma Pueblo people say the goddess Iatiku created different languages so that it won't be easy for humans to quarrel.” [^4] The Urantia Papers disagree. “Language differences have ever since been the great barrier to the extension of peace. The conquest of dialects must precede the spread of a culture throughout a race, over a continent, or to a whole world. A universal language promotes peace, insures culture, and augments happiness.” (<a id="a95_650"></a>[UB 81:6.18](/en/The_Urantia_Book/81#p6_18))
 
 ## Planetary Problems
 
@@ -87,6 +111,31 @@ As we go into all the world to every race, tribe, and nation, can there possibly
 
 > _Jay Newbern, formerly a correspondant of NBC News/Chicago, is a long time student of_ The Urantia Book
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Our_Subliminal_Mentor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Subliminal Mentor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Marks/Do_This_in_Remembrance_of_Me">
+          <span class="pr-2">Do This in Remembrance of Me</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

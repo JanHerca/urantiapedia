@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Invisible_Loving_Human_Forces">
+          <span class="pr-2">“Invisible, Loving Human Forces”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Volume 11, Number 2, Fall & Winter, 2001
 
@@ -30,7 +51,7 @@ A Journal Established to Promote Theological, Philosophical, and Polity Discussi
 
 ### Guiding Principles 
 
-(See [UB 87:7.6-10](/en/The_Urantia_Book/87#p7_6) of the Urantia Papers)
+(See <a id="a53_5"></a>[UB 87:7.6-10](/en/The_Urantia_Book/87#p7_6) of the Urantia Papers)
 
 An Appropriate Symbolism and Socioreligious Expression of the Fifth Epochal Revelation Should:
 
@@ -161,7 +182,29 @@ Suggested annual donation: $\$ 10$. Please make checks payable to Penumbra Press
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> “When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goes — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.” _The Urantia Papers_, [UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+> “When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goes — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.” _The Urantia Papers_, <a id="a184_316"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Invisible_Loving_Human_Forces">
+          <span class="pr-2">“Invisible, Loving Human Forces”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

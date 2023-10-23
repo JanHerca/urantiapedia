@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Anton Schmalz<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Dangerfield/Unique_Urantian_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unique Urantian Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="pr-2">Where are the Great Urantia Leaders and Teachers?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _To the caterpillar it is the end of the world — to the rest of us it's a butterfly._
 
@@ -70,7 +94,7 @@ After all, for a very long time now, considerable profits, jobs, and other econo
 
 Fortunately, the ideal of Peace has also been “germinating” in human consciousness in some form since our earliest beginnings. How and what can we do to make Peace attractive enough to be _profitable_ — _more profitable_ than our current ways? In _The Power of Myth_ TV series, Joseph Campbell declares that: “_The myths and legends of cultures and traditions across all of humanity have the same intention — to help each of us to open up, to be in touch with the Divine within._”
 
-In _The Urantia Book_, we are reminded that: “_Peace is the social yardstick measuring civilization's advancement ... War is rapidly becoming culturally bankrupt ... incapable of producing dividends of social gain in any way commensurate with the terrible losses attendant upon its invocation. ... While antagonisms are natural, peace is secured only by some sort of social regulative system._” [[UB 70:1.1](/en/The_Urantia_Book/70#p1_1)]
+In _The Urantia Book_, we are reminded that: “_Peace is the social yardstick measuring civilization's advancement ... War is rapidly becoming culturally bankrupt ... incapable of producing dividends of social gain in any way commensurate with the terrible losses attendant upon its invocation. ... While antagonisms are natural, peace is secured only by some sort of social regulative system._” <a id="a96_395"></a>[[UB 70:1.1](/en/The_Urantia_Book/70#p1_1)]
 
 Asking the truly comprehensive questions then, and sincerely listening to and considering the answers as early in the manifestation process as possible, can be decisive for the desired outcome. Otherwise, the unacknowledged or rejected questions persist in their unattended festering. Have you noticed that unresolved issues tend to persist unless, and until, they claim our attention?
 
@@ -142,3 +166,27 @@ Your commitment is always welcome in the process to evolve the culture of peace.
 
 > _Anton Schmalz has been a Urantia Book student since 1975. He enjoys making applications of Urantia Book ideas to world peace issues. Anton has been a professional writer in all media. He has helped develop major strategies and prepared policy statements for four U.S. presidents. He can be reached at: 390 W. Calle de las Flores, Green Valley, AZ 85614_
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Dangerfield/Unique_Urantian_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unique Urantian Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="pr-2">Where are the Great Urantia Leaders and Teachers?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

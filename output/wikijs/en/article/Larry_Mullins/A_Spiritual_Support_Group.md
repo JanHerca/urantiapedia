@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Larry Mullins<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Spiritual Guidance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/UB_and_the_Internet">
+          <span class="pr-2">The Urantia Book and the Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Kindred Spirits Can Help Make the Journey Easier
 
@@ -18,9 +42,9 @@ After some thought, I have come to believe that the ultimate prize is somehow to
 
 Unconditional love is something we experience personally (if we are fortunate) in how we love our parents. Then, we learn that the love for another person, outside of our family, is a greater love experience. Later, even this love experience will pale when we learn to love our children. Yet, as the Urantia Papers promise, the greatest of all unconditional love experiences happens when the love of God flows through us freely and unconditionally to touch other children of the Highest Power. This is love that, indeed, lies too deep for words.
 
-I have learned that, for the briefest of intervals, peace gives us wonderful ease and repose. Then, as if from the source of peace itself, the spirit of the Highest Power will spring forth. As Rodan observed ([UB 160:3.1](/en/The_Urantia_Book/160#p3_1)), this spirit flows through our souls and refreshes us, it also seeks to transit outward from us, to graciously and gracefully enlighten, uplift, and bless those around us. We thus experience the truth that the Love of the Universal Father is not to be contained. This ungoverned love becomes actualized, or real, for us to the degree we cooperate with its outward flow, and in proportion to our ability to share it with others. “And here is mystery: The more closely man approaches God through love, the greater the reality — actuality — of that man. The more man withdraws from God, the more nearly he approaches nonreality — cessation of existence.” ([UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
+I have learned that, for the briefest of intervals, peace gives us wonderful ease and repose. Then, as if from the source of peace itself, the spirit of the Highest Power will spring forth. As Rodan observed (<a id="a44_209"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)), this spirit flows through our souls and refreshes us, it also seeks to transit outward from us, to graciously and gracefully enlighten, uplift, and bless those around us. We thus experience the truth that the Love of the Universal Father is not to be contained. This ungoverned love becomes actualized, or real, for us to the degree we cooperate with its outward flow, and in proportion to our ability to share it with others. “And here is mystery: The more closely man approaches God through love, the greater the reality — actuality — of that man. The more man withdraws from God, the more nearly he approaches nonreality — cessation of existence.” (<a id="a44_907"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
 
-I found myself confronted in my later years with the supreme commandment of Jesus, that we are to love one another as Jesus loved us. I came to understand that if I was to progress spiritually, I must progressively learn to live these words: "And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in a friendly universe, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realization of the love of God." ([UB 180:5.8](/en/The_Urantia_Book/180#p5_8)) More and more veteran Urantians seem to desire an actualization of this ideal. My studies of the psychological theories of Abraham Maslow and others also indicated that the process of self-actualization itself cannot take place in a vacuum.
+I found myself confronted in my later years with the supreme commandment of Jesus, that we are to love one another as Jesus loved us. I came to understand that if I was to progress spiritually, I must progressively learn to live these words: "And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in a friendly universe, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realization of the love of God." (<a id="a46_582"></a>[UB 180:5.8](/en/The_Urantia_Book/180#p5_8)) More and more veteran Urantians seem to desire an actualization of this ideal. My studies of the psychological theories of Abraham Maslow and others also indicated that the process of self-actualization itself cannot take place in a vacuum.
 
 ## A New Kind of Urantia Meeting One that Changes Lives
 
@@ -96,7 +120,7 @@ Great care must be taken in forming the initial group, because a difficult perso
 
 ## Learning to Love One Another
 
-Meta-Values emerge as never before in an intimate, caring and supportive group. In our physical lives our senses tell us of the existence of things; our minds discover the reality of meanings, but spiritual experience reveals to us the true values of life. High levels of living are attained as a by-product of loving the Highest Power — the God of love. The most facile pathway to loving God is through loving your cosmic brothers and sisters: “In physical life the senses tell of the existence of things; mind discovers the reality of meanings; but the spiritual experience reveals to the individual the true values of life. These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values.... You can best discover values in your associates by discovering their motivation.... If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love.” ([UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
+Meta-Values emerge as never before in an intimate, caring and supportive group. In our physical lives our senses tell us of the existence of things; our minds discover the reality of meanings, but spiritual experience reveals to us the true values of life. High levels of living are attained as a by-product of loving the Highest Power — the God of love. The most facile pathway to loving God is through loving your cosmic brothers and sisters: “In physical life the senses tell of the existence of things; mind discovers the reality of meanings; but the spiritual experience reveals to the individual the true values of life. These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values.... You can best discover values in your associates by discovering their motivation.... If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love.” (<a id="a122_1022"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
 
 While I had understood this in an intellectual way, before our group process I had not experienced it — at least not on the level that limited social participation nurtured. The group dynamic is a socialization of the concept of personal religious experience. The group dynamic works, provided the individuals who participate are kindred spirits — that is — they share the same values. It must be stated again that there must be no intrusive personal theories that could make others in the group uncomfortable.
 
@@ -123,3 +147,27 @@ However, there is an authentic value to the socialization of personal, inner spi
 However, the last thing a group like this wants to foster is a “chosen people” or elitist attitude. The important thing is the dynamic of sharing as spiritual equals with the desire to Self-Actualize along spiritual lines. We should understand that there is a great difference between personal religious experience and the “warm fuzzies” of the social Urantian experience.
 
 If other people you know want to experience this kind of group and you are “full” or have doubts about this individual being a good fit in yours, encourage them to form their own. Regardless of a group's general interpretation of the Urantia Papers, a Living the Teachings program can help individual members make extraordinary progress if it is composed of kindred spirits with enlightened goals.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Spiritual Guidance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/UB_and_the_Internet">
+          <span class="pr-2">The Urantia Book and the Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

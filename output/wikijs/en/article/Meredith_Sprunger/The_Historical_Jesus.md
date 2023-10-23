@@ -3,12 +3,36 @@ title: "The Historical Jesus"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/American_Search_for_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">American Search for Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="pr-2">The Mystery of Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The present day quest for the historical Jesus is the third wave of critical theological research in modern times to search for the Jesus behind the New Testament picture. It is, in essence, a secular, academic approach using an impressive array of disciplines: cultural anthropology, history of religions, political economy, sociology of religion, psychology of religion, studies of peasant societies, purity societies, patriarchal societies, honor-shame societies, and various literary methods.
 
@@ -21,3 +45,27 @@ Through this process of theological reasoning, the contemporary Christian can av
 The best answer to this dilemma, I believe, is found in _The Urantia Book_'s Life and Teachings of Jesus. It gives a coherent and believable picture of the life and teachings of Jesus which basically affirms the gospel story. Furthermore, it purports to be a new and authentic revelation, not merely a metaphorical testimony of the early church. And, I believe, there is considerable internal evidence of its revelatory nature.
 
 _The Urantia Book_ picture is a much more satisfying and reasonable picture of the life and teachings of Jesus than we find in contemporary theological writing about the historical Jesus. It is my conviction that _The Urantia Book_ narrative will eventually be recognized as the most reliable description of Jesus and his teachings available to humankind. This recognition is destined to trigger a renaissance in Christianity, and a revitalization of spiritual values throughout the entire world.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/American_Search_for_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">American Search for Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="pr-2">The Mystery of Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

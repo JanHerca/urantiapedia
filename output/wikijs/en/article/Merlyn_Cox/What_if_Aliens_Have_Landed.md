@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Merlyn Cox<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Does Heaven Exist?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="pr-2">Psalms Today: Spiritual Guidance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recently, with some extra time over vacation, I read another book on UFOs. It's been a subject of interest for some time, as it apparently has been for most Americans, and it seems to be increasing. I consider myself an open skeptic on the matter. There have been enough reports to be intriguing, but none unqualifiedly convincing. That, I think, is what Carl Sagan meant when he said, in effect, that there simply wasn't a shred of evidence to prove that UFOs exist, or that we have been visited. I think it would have been more accurate to say there is a tremendous amount of evidence — tens, if not hundreds of thousand of sightings from all over the world-however, most of it is poor, and some ludicrous. Sagan is right: you can't point to a single piece of evidence, some artifact that all reasonable people can examine and affirm that it's not of this world. I can't recall how many TV documentaries and reports of suspected UFOs I've seen that began with a comment, such as, “Well, I saw this bright light in the sky and it moved like nothing I've ever seen before.” I often find myself saying out loud, “Give me a break.”
 
@@ -37,3 +61,27 @@ What _The Urantia Book_ gives us, in addition to a meaningful physical cosmology
 ## Notes
 
 [^1] Philip Corso, _The Day After Roswell_, Pocket Books — Simon & Shuster, Inc., New York, 1997.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Does Heaven Exist?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="pr-2">Psalms Today: Spiritual Guidance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

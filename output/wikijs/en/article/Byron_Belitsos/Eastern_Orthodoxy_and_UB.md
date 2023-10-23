@@ -3,12 +3,36 @@ title: "Eastern Orthodoxy and The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Christianity, The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Byron Belitsos<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Herrick/The_Adventure_Has_Begun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Adventure Has Begun</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/A_Urantia_Church">
+          <span class="pr-2">A Urantia Church?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Slowly but surely, _The Urantia Book_ is becoming more widely disseminated within Christendom. As we watch its reception by liberal Protestants, and a few Catholics, a fascinating question arises concerning its future impact on Eastern Orthodox Christians.
 
@@ -32,7 +56,7 @@ Scholars and journalists are also giving more notice to Orthodoxy. Karen Armstro
 
 When most reader-believers of _The Urantia Book_ think of dialoguing with Christians, they often look to liberal or mainline Protestant churches. At first glance this seems quite sensible, for it certainly requires an environment free of dogmatism to be able to hear talk of a “new revelation.”
 
-Some might also argue that the Book itself is part of the stream of liberal Protestant thought, or at least most consistent with it. For example, it is generally “fideist.” as is the Protestant tradition. It attacks ecclesiasticism and criticizes ceremonialism and sacramentalism, although it does institute a new form of the Eucharist in the “sacrament of the remembrance.”([UB 179:5.5](/en/The_Urantia_Book/179#p5_5)) And it appears to praise the Protestant Reformation by referring to it in several passages as a “rehabilitation” and “rejuvenation” and even a “resurrection” of the church. (See [Paper 195, “After Pentecost.”](/en/The_Urantia_Book/195))
+Some might also argue that the Book itself is part of the stream of liberal Protestant thought, or at least most consistent with it. For example, it is generally “fideist.” as is the Protestant tradition. It attacks ecclesiasticism and criticizes ceremonialism and sacramentalism, although it does institute a new form of the Eucharist in the “sacrament of the remembrance.”(<a id="a58_375"></a>[UB 179:5.5](/en/The_Urantia_Book/179#p5_5)) And it appears to praise the Protestant Reformation by referring to it in several passages as a “rehabilitation” and “rejuvenation” and even a “resurrection” of the church. (See [Paper 195, “After Pentecost.”](/en/The_Urantia_Book/195))
 
 Still, there are many important elements in the Book's teachings that lend themselves to interface with Orthodoxy. Eastern Orthodox theology today has strengths where liberal Protestant thought has weaknesses. For example, there is a rising tendency in seminaries to question the divinity of Jesus, to deconstruct the transcendence of the divine, to abandon Trinitarian theology. By contrast, the staunch Orthodox adherence to the sacred traditions of historic Christianity may open doors to dialogue, for the Urantia revelation strongly affirms the historic Christian faith in the Incarnation and the Trinity.
 
@@ -46,7 +70,7 @@ One beginning place for dialogue would be Eastern Orthodox doctrine. It may amaz
 
 > _One beginning place for dialogue would be Eastern Orthodox doctrine. It may amaze mam Orthodox believers to discover that the doctrines of the Church “Fathers” (or, “Patristics”) that required centuries to evolve are affirmed as generally conrect by_ The Urantia Book.
 
-There are perhaps three key elements of Orthodox belief: the theology of the Trinity, the doctrine of the Incarnation, and the worshipful veneration of icons. The first two are strongly echoed and amplified in the teachings of _The Urantia Book_; and I personally find that the devotional use of icons that pervades the Eastern churches provides a “satisfying symbolism” that can “symbolize that which is permanent in the presence of unceasing change.” (See “The Nature of Cultism,” [UB 87:7](/en/The_Urantia_Book/87#p7))
+There are perhaps three key elements of Orthodox belief: the theology of the Trinity, the doctrine of the Incarnation, and the worshipful veneration of icons. The first two are strongly echoed and amplified in the teachings of _The Urantia Book_; and I personally find that the devotional use of icons that pervades the Eastern churches provides a “satisfying symbolism” that can “symbolize that which is permanent in the presence of unceasing change.” (See “The Nature of Cultism,” <a id="a72_483"></a>[UB 87:7](/en/The_Urantia_Book/87#p7))
 
 The core beliefs of Orthodoxy were spelled out in the Seven Ecumenical Councils of the early centuries of Christianity, which met between A.D. 325 and 787 [^4]. The great Patristic age of speculative mystical theology is long over, but latent in “Holy Tradition” are images, practices, and doctrines that can easily lend themselves to creative development. For example, a great revival of Russian Orthodoxy in the 19th century that was induced (at least in part) by the translation of _The Philokalia_ into Russian quickly reached new heights of innovative theology (such as Soloviev, Bulgakov, and Berdayev) and of religious art (such as Dostoevsky). The creative theology of this period in Russia even anticipated _later_ developments in the West such as process theology (which has a strong affinity with _The Urantia Book_'s concept of the Supreme Being) and the re-integration of feminine images of deity in Soloviev's school of “sophiology” (which echoes important themes in _The Urantia Book_). It is very possible that a world renaissance of Orthodox life and thought might have followed in the 20th century had this revival not been stamped out by Lenin and Stalin.
 
@@ -54,13 +78,13 @@ The core beliefs of Orthodoxy were spelled out in the Seven Ecumenical Councils 
 
 But let us return to the original period of creative Orthodox theology. It seems a miracle that the theologians of the early church were able to establish philosophically the truth that Jesus was “homoousius” (one in essence) with the Father, while also _fully_ human. We are told in _The Urantia Book_ that without the valiant efforts of one of these Greek “Fathers” of the Church, this great and saving truth would have been lost:
 
-> Christianity owes much, very much, to the Greeks. It was a Greek, from Egypt, who so bravely stood up at Nicaea and so fearlessly challenged this assembly that it dared not soobscure the concept of the nature of Jesus that the real truth of his bestowal might have been in danger of being lost to the world. This Greek's name was Athanasius, and but for the eloquence and the logic of this believer, the persuasions of Arius would have triumphed. ([UB 195:0.18](/en/The_Urantia_Book/195#p0_18))
+> Christianity owes much, very much, to the Greeks. It was a Greek, from Egypt, who so bravely stood up at Nicaea and so fearlessly challenged this assembly that it dared not soobscure the concept of the nature of Jesus that the real truth of his bestowal might have been in danger of being lost to the world. This Greek's name was Athanasius, and but for the eloquence and the logic of this believer, the persuasions of Arius would have triumphed. (<a id="a80_450"></a>[UB 195:0.18](/en/The_Urantia_Book/195#p0_18))
 
 The historical record shows that Athanasius led the Council of Nicaea (325) to repudiate Arianism (the belief that God the Son is fundamentally inferior to God the Father) and to adopt the view that Jesus as Son was “light from light, true God of true God,” that is, ontologically equal to the Father.
 
 Amazingly, the earliest Christians arrived at a doctrine of the Trinity that also matches in key points that of _The Urantia Book_. Again, this was not achieved by direct revelation but through the same circuitous, evolutionary route as the dogma of the Incarnation. Several centuries of doctrinal debate were necessary because, according to _The Urantia Book_, Jesus' teachings to his Apostles about the true nature of the Trinity were lost.
 
-> Jesus taught his apostles the truth regarding the persons of the Paradise Trinity, but they thought he spoke figuratively and symbolically...The first Trinity of Christianity was proclaimed at Antioch and consisted of God. his Word. and his Wisdom... The Christian concept of the Trinity, which began to gain recognition near the close of the first century after Christ, was comprised of the Universal Father, the Creator Son...and the Mother Spirit...([UB 104:1.12](/en/The_Urantia_Book/104#p1_12)) [Emphasis added]
+> Jesus taught his apostles the truth regarding the persons of the Paradise Trinity, but they thought he spoke figuratively and symbolically...The first Trinity of Christianity was proclaimed at Antioch and consisted of God. his Word. and his Wisdom... The Christian concept of the Trinity, which began to gain recognition near the close of the first century after Christ, was comprised of the Universal Father, the Creator Son...and the Mother Spirit...(<a id="a86_455"></a>[UB 104:1.12](/en/The_Urantia_Book/104#p1_12)) [Emphasis added]
 
 Of course, all of these concepts were finally codified in the Nicene Creed in 325. 
 
@@ -72,7 +96,7 @@ As a side note, it is regrettable that the Wisdom or “Sophia” concept of the
 
 Whatever the case may be, our key point here is that the trinitarianism of the Ecumenical Councils was, according to _The Urantia Book_, “spiritually” correct:
 
-> But though the Christian concept of the Trinity erred in fact, it was practically true with respect to spiritual relationships. ([UB 104:1.13](/en/The_Urantia_Book/104#p1_13))
+> But though the Christian concept of the Trinity erred in fact, it was practically true with respect to spiritual relationships. (<a id="a98_131"></a>[UB 104:1.13](/en/The_Urantia_Book/104#p1_13))
 
 The Church Fathers' high concept of the Trinity has been preserved intact down to this day in the Eastern Church, especially in its spiritual sense. In no place on earth is this “practically true” concept of the Trinity venerated, worshipped, meditated upon, symbolized, sensed, celebrated, chanted and sung about with as much energy and faith as in Orthodox churches worldwide. “Glory to the Father, and tothe Son, and to the Holy Spirit!” is a constant refrain in the Orthodox liturgy of John Chrysostom, the standard liturgy throughout the Orthodox world.
 
@@ -88,17 +112,17 @@ The Eastern position derives from the very different teachings of St. Maximus th
 
 > An epitome of the contrast is the formula of Maximus: ‘Our salvation finally depends on our own will.’ The dichotomy represented by the antithesis between Pelagianism [the rejected Latin doctrine of salvation by reliance on human will] and Augustinianism was not part of Maximus’ thought. Instead, his doctrine of salvation is based on the idea of participation and of communion that excludes neither grace nor freedom, which were established once and for all in the incarnate Word and his ‘two wills’ [^6]
 
-What is important for us here is that St. Maximus' position on salvation is remarkably close to that of Jesus in _The Urantia Book_. Jesus teaches that salvation is a free gift of God that is freely received. But our free will is not “fallen” or “crippled” in the Augustinian view; human will, says Jesus, is an essential factor in choosing to receive such grace: “I declare that salvation is first a matter of your personal choosing.” ([UB 166:3.3](/en/The_Urantia_Book/166#p3_3)) Elsewhere he says, “The transformations of grace are wrought in response to the living faith of those who are the beneficiaries.”([UB 150:9.2](/en/The_Urantia_Book/150#p9_2)) Similarly, St. Maximus writes:
+What is important for us here is that St. Maximus' position on salvation is remarkably close to that of Jesus in _The Urantia Book_. Jesus teaches that salvation is a free gift of God that is freely received. But our free will is not “fallen” or “crippled” in the Augustinian view; human will, says Jesus, is an essential factor in choosing to receive such grace: “I declare that salvation is first a matter of your personal choosing.” (<a id="a114_437"></a>[UB 166:3.3](/en/The_Urantia_Book/166#p3_3)) Elsewhere he says, “The transformations of grace are wrought in response to the living faith of those who are the beneficiaries.”(<a id="a114_612"></a>[UB 150:9.2](/en/The_Urantia_Book/150#p9_2)) Similarly, St. Maximus writes:
 
 > The Spirit does not generate a will that is not willing, but he transforms into deification a will that has the desire [for salvation]. [^7]
 
 According to Pelikan, the continuing legacy of Maximus in the East on the problem of salvation was such that “...the antithesis between divine grace and human freedom, which dogged Western theology for many centuries, did not present a problem in that form for Eastern Christian thought.”[^8]
 
-Thus it should come as no surprise that the Eastern church rejects as simplistic and wrongheaded the juridical implications of the atonement doctrine adhered to in the West. We know, of course, _The Urantia Book_ takes pains to refute the atonement doctrine, calling it “a barbaric idea.” ([UB 4:5.4](/en/The_Urantia_Book/4#p5_4)) Likewise, the early Fathers _with the exception of Augustine_ did not emphasize the Pauline view that Jesus“ death was a “ransom.”
+Thus it should come as no surprise that the Eastern church rejects as simplistic and wrongheaded the juridical implications of the atonement doctrine adhered to in the West. We know, of course, _The Urantia Book_ takes pains to refute the atonement doctrine, calling it “a barbaric idea.” (<a id="a120_290"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4)) Likewise, the early Fathers _with the exception of Augustine_ did not emphasize the Pauline view that Jesus“ death was a “ransom.”
 
 > _...it should come as no surprise that the Eastern church rejects as simplistic and wrongheaded the juridical implications of the atonement doctrine adhered to in the West._
 
-As we will see in the next section, the Eastem church sees salvation, much as _The Urantia Book_ does, as a continuing process of “progress — growth in grace.” (See [UB 150:5.2](/en/The_Urantia_Book/150#p5_2)) Certainly both teachings would consider a tragic error the simplistic evangelistic Protestant formula that salvation depends on being “born again” by virtue of the belief that “Jesus died for our sins.”
+As we will see in the next section, the Eastem church sees salvation, much as _The Urantia Book_ does, as a continuing process of “progress — growth in grace.” (See <a id="a124_165"></a>[UB 150:5.2](/en/The_Urantia_Book/150#p5_2)) Certainly both teachings would consider a tragic error the simplistic evangelistic Protestant formula that salvation depends on being “born again” by virtue of the belief that “Jesus died for our sins.”
 
 ## “Theosis” in Orthodoxy and _The Urantia Book_
 
@@ -108,7 +132,7 @@ In the 60's and 70's, the Campus Crusade for Christ led thousands of college stu
 > 
 Schaeffer's book is a sustained polemic against the narrowing of the theological horizon that is represented by modern Protestantism when contrasted with Orthodoxy.
 
-The modern Russian theologian, Georges Florovsky, writes: “The ultimate aim and purpose of human life was defined in the Patristic tradition as _theosis_, divinization.” [^10] Similarly, the Jesus of _The Urantia Book_ also urged believers to dare to be God-like, to love with a _fatherly_ love. Much like the central Orthodox doctrine of the progressive “deification,” Jesus taught his followers to engage in a “...glorious progression, to become perfect, even as your Father in heaven is perfect.” ([UB 142:7.13](/en/The_Urantia_Book/142#p7_13))
+The modern Russian theologian, Georges Florovsky, writes: “The ultimate aim and purpose of human life was defined in the Patristic tradition as _theosis_, divinization.” [^10] Similarly, the Jesus of _The Urantia Book_ also urged believers to dare to be God-like, to love with a _fatherly_ love. Much like the central Orthodox doctrine of the progressive “deification,” Jesus taught his followers to engage in a “...glorious progression, to become perfect, even as your Father in heaven is perfect.” (<a id="a134_501"></a>[UB 142:7.13](/en/The_Urantia_Book/142#p7_13))
 
 Like the other Fathers of the Church, Maximus saw the practice of unceasing prayer (which we will soon examine) as essential to deification. Notably, his teaching on theosis was also incorporated intothe Christology he successfully defended at the Sixth Ecumenical Council in 681. [^11]
 
@@ -128,7 +152,7 @@ John Meyendorff explains the real purpose of the prayer to the hesychast:
 
 It seems to me that the hesychastic practice of the interior consciousness of the presence of God strongly echoes Jesus in his Second Discourse on Religion in _The Urantia Book_:
 
-> Many of your brethren have minds which accept the theory of God while they spiritually fail to realize the presence of God....It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to feel the _presence of God_. ([UB 155:6.12](/en/The_Urantia_Book/155#p6_12))
+> Many of your brethren have minds which accept the theory of God while they spiritually fail to realize the presence of God....It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to feel the _presence of God_. (<a id="a154_278"></a>[UB 155:6.12](/en/The_Urantia_Book/155#p6_12))
 
 Hesychasm evolved directly out of the “desert” tradition of the earliest Christian anchorites of the fourth century in Egypt and Syria. The desert spirituality of these innovators is regarded by most historians to be the historic font of Christian experiential mysticism, both in the West and the East. Western mystics from MeisterEckhart to Thomas Merton drew deeply from this source.
 
@@ -148,7 +172,7 @@ Vlachos quotes John Climacus from his classic work _The Ladder of the Divine Asc
 
 If it is true that such practices lead to a consciousness of the presence of God, how would Jesus as depicted in _The Urantia Book_ regard hesychasm?
 
-The UrantiaBook reveals that Jesus used various meditation techniques in his practice of the presence of God. The Greek Alexandrian philosopher Rodan depicts Jesus as a man fully devoted to a “habit” or “technique” that he “so consistently practices...the isolation of worshipful meditation.” ([UB 160:1.10](/en/The_Urantia_Book/160#p1_10))
+The UrantiaBook reveals that Jesus used various meditation techniques in his practice of the presence of God. The Greek Alexandrian philosopher Rodan depicts Jesus as a man fully devoted to a “habit” or “technique” that he “so consistently practices...the isolation of worshipful meditation.” (<a id="a174_294"></a>[UB 160:1.10](/en/The_Urantia_Book/160#p1_10))
 
 Later in the passage, we see that this possibly involves a physical and mental discipline, and it certainly involves a form of stillness:
 
@@ -170,7 +194,7 @@ Hesychasm is treated in more depth in my column that appears later in this issue
 
 A closer look at Orthodox mystical theology will help underline its dissimilarities with Western theology and what I believe is a corresponding theological _affinity_ with the spirit of _The Urantia Book_.
 
-_The Urantia Book_ frequently emphasizes that theology must be experientially based. It defines theology as “...the study of the actions and reactions of the human spirit...Theology is always the study of your religion; the study of another's religion is psychology.” ([UB 103:6.1](/en/The_Urantia_Book/103#p6_1))
+_The Urantia Book_ frequently emphasizes that theology must be experientially based. It defines theology as “...the study of the actions and reactions of the human spirit...Theology is always the study of your religion; the study of another's religion is psychology.” (<a id="a196_269"></a>[UB 103:6.1](/en/The_Urantia_Book/103#p6_1))
 
 > The Urantia Book _frequently emphasizes that theology must be experientially based. It defines theology as “...the study of the actions and reactions of the human spirit....Theology is always the study of your religion; the study of another's religion is psychology.” (UB 103:6.1)_
 
@@ -184,7 +208,7 @@ It fell to Gregory Palamas, a brilliant abbot on the “Holy Mount,” to articu
 
 The result of his labors was the ultimate doctrinal synthesis of hesychastic mysticism with Patristic theology. Palamas showed how the most sublime notions of the unknowability of God _in his essence_ (i.e., apophatism), were yet consistent with the doctrine of theosis and the Christ-mysticism of the hesychasts. He distinguished the unknowable essence of God from the knowable “energies” of God as manifested in his revelations to us and as experienced by the hesychastic saints; yet he provided for the paradoxical unity of God's essence and energies.
 
-This is an oversimplifying summary of a great thinker. Suffice it to say that Palamas saved Christianity in the East from what becameits fate in the West: _the sunderingof theology from religious experience_. Corollary to this was the separation of philosophy from theology, and later of science from religion, that is now an earmark of Western thought. The splintering of the Western medieval synthesis began in the Renaissance and was completed in the Enlightenment; in the end it led to the complete secularization of the Western mind in modern times. While we all undoubtediy enjoy the fruits of science and liberal philosophy that resulted from secularism, the world has paid a heavy price indeed from the “death of God” that was its ineritable by-product. Thus, writing some time in the 1930's, the authors of _The Urantia Book_ warned: “Twentieth-century secularism tends to affirm that man coes not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster.”([UB 195:8.5](/en/The_Urantia_Book/195#p8_5))
+This is an oversimplifying summary of a great thinker. Suffice it to say that Palamas saved Christianity in the East from what becameits fate in the West: _the sunderingof theology from religious experience_. Corollary to this was the separation of philosophy from theology, and later of science from religion, that is now an earmark of Western thought. The splintering of the Western medieval synthesis began in the Renaissance and was completed in the Enlightenment; in the end it led to the complete secularization of the Western mind in modern times. While we all undoubtediy enjoy the fruits of science and liberal philosophy that resulted from secularism, the world has paid a heavy price indeed from the “death of God” that was its ineritable by-product. Thus, writing some time in the 1930's, the authors of _The Urantia Book_ warned: “Twentieth-century secularism tends to affirm that man coes not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster.”(<a id="a210_1051"></a>[UB 195:8.5](/en/The_Urantia_Book/195#p8_5))
 
 > _The splintering of the Western medieval synthesis began in the Renaissance and was completed in the Enlightenment; in the end it led to the complete secularization of the Western mind in modern times. While we all undoubtedly enjoy the fruits of science and liberal philosophy that resulted from secularism, the world has paid a heavy price indeed from the “death of God” that was its inevitable by-product._
 
@@ -196,7 +220,7 @@ If it were not for the Palamite synthesis, and its subsequent adoption in the Co
 
 I would like to close by shifting gears and noting the contribution that might be made by the Eastern Church to the reunification of Christianity. _The Urantia Book_ blasts Occidental Christianity for its disunity:
 
-> Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom... [the] division of Christendom presents a grave weakness....([UB 195:10.15](/en/The_Urantia_Book/195#p10_15))
+> Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom... [the] division of Christendom presents a grave weakness....(<a id="a222_276"></a>[UB 195:10.15](/en/The_Urantia_Book/195#p10_15))
 
 Protestantism now presents the world with thousands of competing “churches” to choose from. One could argue that it has sacrificed unity for the sake of avoiding the problems of diversity.
 
@@ -208,10 +232,35 @@ In the West, Catholic tyranny begat the rebellion of Protestantism against an in
 
 Perhaps if the Eastern Church could be induced to see Jesus once again as he lived his life on earth among men — if it could behold the living Jesus as depicted in _The Urantia Book_ — perhaps then it, the historic church of Jesus, the upholder of the sacred truths of the Incarnation and the Trinity, the preserver of integral Christian theologyover two millennia, may be able to assist in leading Christendom toward its eventual reunification as depicted in this crucial passage in _The Urantia Book_:
 
-> The living Jesus is theonly hope of a possible unification of Christianity. The true church — the Jesus brotherhood — is invisible, spiritual, and is characterized by unity, not necessarily by uniformity. Uniformity is the earmark of the physical world of mechanistic nature. Spiritual unity is the fruit of faith union with the living Jesus. The visible church should refuse longer to handicap the progress of the invisible and spiritual brotherhood of the kingdom of God. And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization. It may well utilize such social organizations, but it must not be supplanted by them. ([UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
+> The living Jesus is theonly hope of a possible unification of Christianity. The true church — the Jesus brotherhood — is invisible, spiritual, and is characterized by unity, not necessarily by uniformity. Uniformity is the earmark of the physical world of mechanistic nature. Spiritual unity is the fruit of faith union with the living Jesus. The visible church should refuse longer to handicap the progress of the invisible and spiritual brotherhood of the kingdom of God. And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization. It may well utilize such social organizations, but it must not be supplanted by them. (<a id="a234_681"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
 
 > _Byron has been a journalist and television producer and is presently a consultant in the telecommunications industry. He is a long time _Urantia Book_ reader and a member of the Eastern Orthodox Church._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Herrick/The_Adventure_Has_Begun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Adventure Has Begun</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/A_Urantia_Church">
+          <span class="pr-2">A Urantia Church?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes:
 
@@ -224,7 +273,7 @@ Perhaps if the Eastern Church could be induced to see Jesus once again as he liv
 [^4]: Orthodoxy defines the entire stream of events in the life of the early church-life, death and resurrection of Christ, the creation of liturgical practices and church governance, the adoption of the scriptural canon (settled in 387 at the Third Council of Carthage), and the seven great councils of the Church — as one unified “Holy Tradition” guided by the Holy Spirit.
 
 [^5]: The personality and attributes of the third person of the Paradise Trinity, the Infinite Spirit, are presented in [papers 8](/en/The_Urantia_Book/8) and [9](/en/The_Urantia_Book/9) of _The Urantia Book_. The Infinite Spirit's local universe focalization is described in [paper 34, “The Local Universe Mother Spirit.”](/en/The_Urantia_Book/34)
-	It is notable that the Christology proclaimed at Nicaea was revisited in several other Ecumenical Councils in language paralleling that of The UrantiaBook. The Chalcedon Council (451) affirmed Christ as “perfect in Godhead and perfect in humanity,” and “is made known to us in two natures. The difference between the two natures is in no way destroyed because of the union.” Further controversy arose regarding the nature of the humanity of Christ in view of this union. The sixth Ecumenical Council (681) ascribed to Christ “two natural wills.” This doctrine is comparable to the teachings of _The Urantia Book_. (See [UB 120:4.2](/en/The_Urantia_Book/120#p4_2) and [UB 136:1.6](/en/The_Urantia_Book/136#p1_6).)
+	It is notable that the Christology proclaimed at Nicaea was revisited in several other Ecumenical Councils in language paralleling that of The UrantiaBook. The Chalcedon Council (451) affirmed Christ as “perfect in Godhead and perfect in humanity,” and “is made known to us in two natures. The difference between the two natures is in no way destroyed because of the union.” Further controversy arose regarding the nature of the humanity of Christ in view of this union. The sixth Ecumenical Council (681) ascribed to Christ “two natural wills.” This doctrine is comparable to the teachings of _The Urantia Book_. (See <a id="a275_620"></a>[UB 120:4.2](/en/The_Urantia_Book/120#p4_2) and <a id="a275_668"></a>[UB 136:1.6](/en/The_Urantia_Book/136#p1_6).)
 
 [^6]: Jaroslav Pelikan, _The Spirit of Eastern Christendom_, (Chicago: University of Chicago Press) pp. 181-2.
 

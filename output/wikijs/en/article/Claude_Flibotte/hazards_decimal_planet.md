@@ -56,7 +56,7 @@ Around 140 million years ago, mammals without placentas appeared. They represent
 
 In the final analysis, fourteen phyla [evolutionary series of forms] appeared on Urantia, the last of which was the fish. Since the birds and mammals, no new class has developed <a id="a56_178"></a>[[UB 65:2.11](/en/The_Urantia_Book/65#p2_11)].
 
-Of the three original life implants, that of the eastern group lacked the capacity to attain the prehuman status of intelligence due to losses of the highest types of its germ plasm, so the Life Carriers manipulated the surrounding environment to circumscribe these unfit lines until they were totally eliminated <a id="a58_313"></a>[[UB 65:2.13](/en/The_Urantia_Book/65#p2_13) and <a id="a58_362"></a>[UB 62:2.14](/en/The_Urantia_Book/62#p2_14)].
+Of the three original life implants, that of the eastern group lacked the capacity to attain the prehuman status of intelligence due to losses of the highest types of its germ plasm, so the Life Carriers manipulated the surrounding environment to circumscribe these unfit lines until they were totally eliminated <a id="a58_313"></a>[[UB 65:2.13](/en/The_Urantia_Book/65#p2_13) and <a id="a58_362"></a>[UB 65:2.14](/en/The_Urantia_Book/65#p2_14)].
 
 One hundred and ten million years ago, under tremendous pressure from carnivorous dinosaurs, two species took refuge in the sea to survive. They represent a setback in evolution. Some lineages are stationary while others return to an earlier state, such as the sea snakes <a id="a60_272"></a>[[UB 60:2.10](/en/The_Urantia_Book/60#p2_10)]. Two other lineages took refuge in the air. These flying pterosaurs failed to evolve as aerial navigators and became extinct <a id="a60_443"></a>[[UB 60:2.12](/en/The_Urantia_Book/60#p2_12)].
 

@@ -3,12 +3,36 @@ title: "Contemporary Theology Anticipates The Urantia Book"
 description: "Editorials"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Theology, The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Theology_vs_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Theology vs. Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="pr-2">Worship and the Urantia Community</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The central theme of the articles in the October, 1998 issue of _Theology Today_ is God's relation to time and the finite creation. Theological discussion on this topic is effectively summarized by William R. Stoeger, S.J. in “God and Time: The Action and Life of the Triune God in the World.”
 
@@ -20,4 +44,28 @@ Here Stoeger is expressing the need for a cosmological and creational framework 
 
 If theologians were open enough to seriously examine a new paradigm of reality, _The Urantia Book_, they might just find what they are so diligently looking for! But they are put off by its esoteric appearance and further alienated by the purport of “new revelation.” Some day the light will dawn-even on theologians!
 
-> “_Christianity suffers under a great handicap because it has become identified in the minds of all the world as a part of the social system, the industrial life, and the moral standards of Western civilization; and thus has Christianity unwittingly seemed to sponsor a society which staggers under the guilt of tolerating science without idealism, politics without principles, wealth without work, pleasure without restraint, knowledge without character, power without conscience, and industry without morality._” [UB 195:10.20](/en/The_Urantia_Book/195#p10_20)
+> “_Christianity suffers under a great handicap because it has become identified in the minds of all the world as a part of the social system, the industrial life, and the moral standards of Western civilization; and thus has Christianity unwittingly seemed to sponsor a society which staggers under the guilt of tolerating science without idealism, politics without principles, wealth without work, pleasure without restraint, knowledge without character, power without conscience, and industry without morality._” <a id="a46_516"></a>[UB 195:10.20](/en/The_Urantia_Book/195#p10_20)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Theology_vs_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Theology vs. Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="pr-2">Worship and the Urantia Community</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

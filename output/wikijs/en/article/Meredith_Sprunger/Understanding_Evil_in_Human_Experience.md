@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith J. Sprunger<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doing the Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
+          <span class="pr-2">Significant Books: A New Morality from Science: Beyondism by Raymond B. Cattell</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -16,7 +40,7 @@ The ultimate problem in theism is the enigma of evil. How can one reconcile beli
 
 The history of religion is replete with attempts to answer this question. All of these theodicies have more or less failed to give a satisfying answer to these divine-human incongruities. Traditional theological answers to the problem of evil are rooted in a geocentric and prescientific understanding of the nature of the universe. The central ambiguities and incomprehensible nature of the problem of evil in human experience center in our immature and simplistic understanding of reality and God's relation to the finite universe. Scientific discovery has greatly expanded our knowledge of the size and complexity of the material universe. _The Urantia Book_, in a similar way, has enlarged our conceptualization of spiritual cosmology and opened a view of the astonishing complexity and variation of the forms of reality.
 
-> Man can find the love of God without facts, and man can discover the laws of God without love, but man can never begin to appreciate the infinite symmetry, the supernal harmony, the exquisite repleteness of the allinclusive nature of the First Source and Center until he has found divine law and divine love and has experientially unified these in his own evolving cosmic philosophy. ([UB 111:6.6](/en/The_Urantia_Book/111#p6_6))
+> Man can find the love of God without facts, and man can discover the laws of God without love, but man can never begin to appreciate the infinite symmetry, the supernal harmony, the exquisite repleteness of the allinclusive nature of the First Source and Center until he has found divine law and divine love and has experientially unified these in his own evolving cosmic philosophy. (<a id="a42_387"></a>[UB 111:6.6](/en/The_Urantia_Book/111#p6_6))
 
 ## The Finite Universe
 
@@ -28,7 +52,7 @@ Inherent in the evolutionary process are mindal stimuli, “adjutant mind spirit
 
 When finite, imperfect beings are given free will, mistakes, violation of universe law (evil), and deliberate transgression of spiritual truth (sin), are virtually inevitable. If human beings are to grow toward wisdom and spiritual perfection, certain environmental conditions are necessary. Experience is the basic medium of learning and education. Spiritual growth requires certain learning experiences which serve as guides to spiritual reality. To develop courage we must live amid surroundings that necessitate struggling with hardship and danger. If hope is to evolve, then must one be constantly confronted with insecurities and uncertainties. In order to establish the love of truth in the human heart, one must live in a world where error is present and the evils of falsehood confronted. Unselfishness is acquired when we repeatedly discover the unhappiness brought on by an ego continually clamoring for pleasure, honor, and recognition. Evolutionary beings must live in an environment of relative and potential evil in order to experience and learn the validity of the higher spiritual realities of the universe. In the finite, evolutionary universe, a certain amount of evil and suffering is necessary to guide intelligent, free will beings toward spiritual growth.
 
-> The confusion and turmoil of Urantia do not signify that the Paradise Rulers lack either interest or ability to manage affairs differently. The Creators are possessed of full power to make Urantia a veritable paradise, but such an Eden would not contribute to the development of those strong, noble, and experienced characters which the Gods are so surely forging out on your world between the anvils of necessity and the hammers of anguish. Your anxieties and sorrows, your trials and disappointments, are just as much a part of the divine plan on your sphere as are the exquisite perfection and infinite adaptation of all things to their supreme purpose on the worlds of the central and perfect universe. ([UB 23:2.12](/en/The_Urantia_Book/23#p2_12))
+> The confusion and turmoil of Urantia do not signify that the Paradise Rulers lack either interest or ability to manage affairs differently. The Creators are possessed of full power to make Urantia a veritable paradise, but such an Eden would not contribute to the development of those strong, noble, and experienced characters which the Gods are so surely forging out on your world between the anvils of necessity and the hammers of anguish. Your anxieties and sorrows, your trials and disappointments, are just as much a part of the divine plan on your sphere as are the exquisite perfection and infinite adaptation of all things to their supreme purpose on the worlds of the central and perfect universe. (<a id="a54_710"></a>[UB 23:2.12](/en/The_Urantia_Book/23#p2_12))
 
 ## God's Relation to the Finite Universe
 
@@ -44,7 +68,7 @@ The divine plan for the finite universe was to evolve an imperfect creation in w
 
 > Everything divine which the human mind grasps and the human soul acquires is an experiential attainment; it is a _reality_ of personal experience and is therefore a unique possession in contrast to the inherent goodness and righteousness of the inerrant personalities of Havona.
 > 
-> The creatures of Havona are naturally brave, but they are not courageous in the human sense. They are innately kind and considerate, but hardly altruistic in the human way. They are expectant of a pleasant future, but not hopeful in the exquisite manner of the trusting mortal of the uncertain evolutionary spheres. They have faith in the stability of the universe, but they are utter strangers to that saving faith whereby mortal man climbs from the status of an animal up to the portals of Paradise. They love the truth, but they know nothing of its soul-saving qualities. They are idealists, but they were born that way; they are wholly ignorant of the ecstasy of becoming such by exhilarating choice. ([UB 3:5.16-17](/en/The_Urantia_Book/3#p5_16))
+> The creatures of Havona are naturally brave, but they are not courageous in the human sense. They are innately kind and considerate, but hardly altruistic in the human way. They are expectant of a pleasant future, but not hopeful in the exquisite manner of the trusting mortal of the uncertain evolutionary spheres. They have faith in the stability of the universe, but they are utter strangers to that saving faith whereby mortal man climbs from the status of an animal up to the portals of Paradise. They love the truth, but they know nothing of its soul-saving qualities. They are idealists, but they were born that way; they are wholly ignorant of the ecstasy of becoming such by exhilarating choice. (<a id="a70_708"></a>[UB 3:5.16-17](/en/The_Urantia_Book/3#p5_16))
 
 ## Irrational Aspects of Evil
 
@@ -64,7 +88,31 @@ We have observed that the divine plan for the finite universe is to create being
 
 The unsurpassed educational character of this kind of experience, along with the indwelling presence of the Spirit of God, is the reason that, even in the face of intense and irrational suffering, the great majority of humankind remain courageous in their coping ability and steadfast in their faith in the ultimate triumph of good. God's wise, loving, and farsighted design for the finite universe will not fail. The Universal Father, therefore, does not arbitrarily “step in” with transcendent power to alter the divine evolutionary methodology for overcoming evil and sin. Indeed, error and spiritual rebellion are more clearly seen for what they are if allowed to run their evolutionary course. Over the centuries, more good will accrue in the lives of individuals and in society by this experiential process than would occur through forced, arbitrary, or revolutionary solutions.
 
-The final answer to the problem of evil for each person resides in fellowship with the Spirit of God which indwells the human mind. Although we live in a world and universe where Immanent Intelligence is detected by inference, where the knowledge of God is mediated through all reality, we know God personally only through inner experience. By faith and spiritual fellowship we establish a God-consciousness and a living partnership with the Universal Father. As we then face the problems and perplexities of life, we are aided by divine wisdom. When suffering and tragedy enter our experience and we have exhausted our own ability to cope, an augmented inner peace, a new understanding, a fresh combination of resources undergird our life. Those who establish this inner relationship with the Father are invulnerable to life's most crushing blows. These children of the finite universe are learning “to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable.” They are discovering that "in liaison with God, nothing — absolutely nothing — is impossible.” ([UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
+The final answer to the problem of evil for each person resides in fellowship with the Spirit of God which indwells the human mind. Although we live in a world and universe where Immanent Intelligence is detected by inference, where the knowledge of God is mediated through all reality, we know God personally only through inner experience. By faith and spiritual fellowship we establish a God-consciousness and a living partnership with the Universal Father. As we then face the problems and perplexities of life, we are aided by divine wisdom. When suffering and tragedy enter our experience and we have exhausted our own ability to cope, an augmented inner peace, a new understanding, a fresh combination of resources undergird our life. Those who establish this inner relationship with the Father are invulnerable to life's most crushing blows. These children of the finite universe are learning “to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable.” They are discovering that "in liaison with God, nothing — absolutely nothing — is impossible.” (<a id="a90_1285"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
 
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of_ The Spiritual Fellowship Journal.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doing the Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
+          <span class="pr-2">Significant Books: A New Morality from Science: Beyondism by Raymond B. Cattell</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Nancy Long<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenics and the Urantia Papers: A Different View</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Thomas_Strawser/God_and_Lady">
+          <span class="pr-2">God and Lady</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We of The Spiritual Fellowship are grateful for the opportunity to bring the spiritual teachings of the Urantia Papers to all people through the development of a religious organization. Our emphasis during these early years is the establishment of small spiritual groups, groups with two to twenty-five or so people. While larger groups may emerge, we anticipate that smaller groups will be the more common during this start-up time. Our approach to organization embraces both order and chaos, creativity and process. We place primary importance on locally-based worship groups over a national organization. Small groups and fellowships are the essence of The Spiritual Fellowship. This article addresses two types of fellowships: Fellowships and Living-the-Teachings Groups.
 
@@ -41,7 +65,7 @@ L-T Groups are for those individuals who are hungry for the truth, who are not s
 - _The will as the determining factor in man's experience_
 - _Spiritual fellowship with God the Father_
 - _The supreme satisfactions of the loving service of man_
-- _The transcendency of the spiritual over the material in human personality_ ([UB 170:4.9-13](/en/The_Urantia_Book/170#p4_9))
+- _The transcendency of the spiritual over the material in human personality_ (<a id="a67_79"></a>[UB 170:4.9-13](/en/The_Urantia_Book/170#p4_9))
 
 L-T Groups are usually comprised of no more than eight people. The groups are usually closed, although they do not have to be. The groups are urged to be closed because an environment of total trust and commitment needs to exist in order for the group to function. Experience has shown that it is disruptive and hard to build trust when members drop in on an ad-hoc basis or do not mesh well with the rest of the group. Therefore, it is preferable to have a closed group. If someone wishes to join, and all in the group are amenable, the person can be invited to attend a session or two to see if there is a good fit.
 
@@ -51,3 +75,27 @@ There is no 'leader' in an L-T Group. It is a peerbased, spiritual-support endea
 > 
 > _Nancy Long has been a student of the Urantia Papers since 1985. She currently serves as Secretary of The Spiritual Fellowship and can be reached at nlong@reliable-net.net._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenics and the Urantia Papers: A Different View</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Thomas_Strawser/God_and_Lady">
+          <span class="pr-2">God and Lady</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

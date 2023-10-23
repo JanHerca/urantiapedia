@@ -3,12 +3,36 @@ title: "Leadership for Spiritual Communities"
 description: "Interface"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Leadership, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Merlyn Cox<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creative Outreach: Adjusting our Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="pr-2">Sir Hubert Wilkins: 20th Century Magellan, Early Urantian</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Spiritual Fellowship is working to establish spiritual communities called fellowships where like-minded people can worship and serve together. When do these communities need leadership, and if so, what type of leadership do they need?
 
@@ -20,7 +44,7 @@ It's not that people need to be told what to do; it's that a group needs someone
 
 In the past, the old pyramid style of leadership used in industry was also the model used by leaders of religious organizations. The information flowed mostly from the top down in such organizations. This model, probably originating from military organizations, has worked in the past, but it has many problems. It does not invite full participation and feedback from those doing the hands-on work. New models of leadership try to fully involve all members of an organization in decision making so they have a sense of ownership of whatever job the organization chooses to undertake. Probably the most radical model of leadership was one suggested by Jesus.
 
-Jesus said, “_Remember, I have taught you that he who would be greatest among you should become the server of all._” ([UB 175:1.10](/en/The_Urantia_Book/175#p1_10)) This may be a hard thing for some leaders to do. Many in leadership positions seem to have large egos. You must certainly have confidence to be an effective leader but yet resist placing yourself above those who have chosen you as their leader.
+Jesus said, “_Remember, I have taught you that he who would be greatest among you should become the server of all._” (<a id="a46_118"></a>[UB 175:1.10](/en/The_Urantia_Book/175#p1_10)) This may be a hard thing for some leaders to do. Many in leadership positions seem to have large egos. You must certainly have confidence to be an effective leader but yet resist placing yourself above those who have chosen you as their leader.
 
 ## Source Of Leaders
 
@@ -81,6 +105,31 @@ Leadership is not something that you learn in a weekend seminar, although such s
 
 > _Merlyn Cox has recently retired from being a pastor serving in the North Indiana Conference of the United Methodist Church. He has been a Urantia Book reader for 18 years, and worked with Meredith Sprunger in initiating The Spiritual Fellowship Journal in 1991, and served for ten years as associate editor. He is a Board member and Chairman of the Education Team for The Spiritual Fellowship._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creative Outreach: Adjusting our Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="pr-2">Sir Hubert Wilkins: 20th Century Magellan, Early Urantian</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

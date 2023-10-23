@@ -3,12 +3,36 @@ title: "Clergy Evaluate the Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, Religion, The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Kenneth T. Glasziou<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clergy Evaluate the Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="pr-2">The Urantia Book as a Sermon Resource</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Materialism and atheism are modern diseases — or phenomena, depending on one's point of view — that had their roots among the empiricists of the 16th, 17th, and 18th century. Prominent in this group were Francis Bacon, Thomas Hobbes, John Locke, and David Hume. Perhaps the best known statement originating from their work is that of Hume who, in his _Enquiry Concerning Human Understanding_, said: “When we run over our libraries, persuaded of these principles, what havoc we must make. If we take in our hand any volume of divinity or school metaphysics for instance, let us ask, does it contain any abstract reasoning concerning quantity and number? No. Does it contain any experimental reasoning concerning matters of fact or existence? No. Commit it then to the flames for it can contain nothing but sophistry and illusion.” Presumably art, literature, poetry, and music also would have contributed to Hume's bonfire.
 
@@ -79,4 +103,28 @@ For me, acceptance of the revelatory authority of _The Urantia Book_ has many co
 > _K. T. Glasziou, M. Sc., Ph. D., is a research scientist, retired, who is active in church work in Australia. He is author of “Science and Religion: The New Age beyond 2000 A. D.”_
 {.is-info}
 
-> “_The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus._” ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+> “_The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus._” (<a id="a105_338"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clergy Evaluate the Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="pr-2">The Urantia Book as a Sermon Resource</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

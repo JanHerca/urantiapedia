@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="pr-2">The Search for Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We are living in a time of one of the greatest upsurges in spiritual interest and activity in history. People are searching for spiritual authenticity in many and diverse sources. Melton's _Encyclopedic Handbook of Cults in America_ only touches the surface of this movement. According to Wade C. Roof in _A Generation of Seekers_ (Harper, San Francisco), there is a quiet revolution taking place which is changing the religious attitudes and practices of millions of Americans.
 
@@ -26,3 +50,27 @@ After years of attempting to understand why theologians are so reluctant to seri
 4. Finally, I detect an underlying conscious or unconscious fear of getting involved with anything that claims to be “new revelation.”
 
 In spite of these understandable reservations, and because of the tremendous potential for good in the church-as well as the entire planet-I believe that a serious evaluation of _The Urantia Book_ is the great theological challenge of our times. David Kantor's article “_The Urantia Book_: Toward a Context for Theological Evaluation” in this issue of the Journal outlines some of the parameters of such a theological project.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="pr-2">The Search for Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

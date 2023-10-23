@@ -3,12 +3,36 @@ title: "The Urantia Book and the Internet"
 description: "Emerging Potentials for Widespread Dissemination"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 David A. Kantor<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Spiritual Support Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_11">
+          <span class="pr-2">Psalms Today: The Father's Way</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Internet provides a platform for missionary activities and the development of social networks of believers unique to the timing of the Fifth Epochal Revelation. The Fellowship is quietly establishing an architecture for revelation-propagation suitable for the immediate future of the accelerating global information revolution. This infrastructure will coexist with and exploit the missionary potentials of multiple emerging communications technologies. International usage of the Fellowship's technology infrastructure approached 12,000 individual users in September. Including those who returned multiple times the total exceeded 16,000 visits for the month. Usage is currently expanding at a monthly rate of 20%. The ultimate success of this experiment in revelation dissemination will be dependent upon the quality and quantity of reader participation.
 
@@ -65,3 +89,27 @@ The Fellowship Internet presence may be viewed as a set of tools available to th
 Ultimately, the effectiveness of this unique dissemination opportunity depends entirely upon the quality of the work done by contributing readers. If you think your service time, interests, and efforts might be multiplied through integration with Fellowship Internet resources and partnership with other active Urantians, please contact us at ubinfo@ubfellowship.org.
 
 David A. Kantor is a designer of computer software used for managing corporate voice and data communication networks. He has been a student of _The Urantia Book_ for more than thirty years and is the manager of the Fellowship Website.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Spiritual Support Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_11">
+          <span class="pr-2">Psalms Today: The Father's Way</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

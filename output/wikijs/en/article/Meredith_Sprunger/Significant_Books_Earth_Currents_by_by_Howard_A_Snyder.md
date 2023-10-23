@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Humble Approach by John M. Templeton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_4">
+          <span class="pr-2">Psalms Today</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Howard A. Snyder
 Abingdon Press, 1995, pp. 334
@@ -29,4 +53,28 @@ The center and meaning of this story is Jesus Christ. Christian theologies have 
 
 
 
-> But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. (<a id="a55_523"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Humble Approach by John M. Templeton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_4">
+          <span class="pr-2">Psalms Today</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

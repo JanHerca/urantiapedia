@@ -9,12 +9,36 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Kenneth Glasziou<br>© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer and Worship — As We Should Understand It</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="pr-2">Jesus and the Cross</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Emphasis in Paper is by author)
 
-> “The Universe of universes, _in toto_, is mind planed, mind made, and mind administered.” ([UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
+> “The Universe of universes, _in toto_, is mind planed, mind made, and mind administered.” (<a id="a38_93"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
 
-> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will ***dare to construct a new and appealing philosophy*** ofliving out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly coordinated and unified in God, who is love._ ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will ***dare to construct a new and appealing philosophy*** ofliving out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly coordinated and unified in God, who is love._ (<a id="a40_658"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 The authors of the Urantia revelation presented their own qualifications in what surely must be one of the most remarkable books ever written — a work that would be even more remarkable if actually written by human beings.
 
@@ -194,17 +218,17 @@ With idealist science we have arrived at a science that excludes neither the sub
 
 (Please note that the words “consciousness” and “mind” are not precisely defined either in philosophy or in the Urantia revelation and tend to be interchangeable.)
 
-> “_In the evaluation and recognition of mind it should be remembered that ***the universe*** is neither mechanical nor magical; ***it is a creation of mind***._” ([UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
+> “_In the evaluation and recognition of mind it should be remembered that ***the universe*** is neither mechanical nor magical; ***it is a creation of mind***._” (<a id="a220_164"></a>[UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
 
-> “_Mechanisms do not absolutely dominate the total creation; ***the universe of universes in toto is mind planned, mind made, and mind administered***. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind, it is spirit-mind functioning on and from creator levels of divine reality._” ([UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
+> “_Mechanisms do not absolutely dominate the total creation; ***the universe of universes in toto is mind planned, mind made, and mind administered***. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind, it is spirit-mind functioning on and from creator levels of divine reality._” (<a id="a222_523"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
 
-> “_Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds of mind. Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal._” ([UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
+> “_Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds of mind. Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal._” (<a id="a224_484"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
 
-> “_The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the ***consciousness*** of God._” ([UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
+> “_The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the ***consciousness*** of God._” (<a id="a226_228"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
 
-> “_God is possessed of unlimited power to know all things, his ***consciousness*** is universal. Hispersonal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father._” ([UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
+> “_God is possessed of unlimited power to know all things, his ***consciousness*** is universal. Hispersonal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father._” (<a id="a228_328"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
 
-> “_The Universal Father realizes in the fullness of the divine ***consciousness*** all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ‘***in Him we all live and move and have our being***’._” ([UB 1:5.16](/en/The_Urantia_Book/1#p5_16))
+> “_The Universal Father realizes in the fullness of the divine ***consciousness*** all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ‘***in Him we all live and move and have our being***’._” (<a id="a230_381"></a>[UB 1:5.16](/en/The_Urantia_Book/1#p5_16))
 
 ***(to be continued...)***
 
@@ -212,3 +236,27 @@ With idealist science we have arrived at a science that excludes neither the sub
 > 
 > He also publishes [“Interface International”](/en/index/articles_innerface) from which this article is taken, with the author's permission.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer and Worship — As We Should Understand It</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="pr-2">Jesus and the Cross</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

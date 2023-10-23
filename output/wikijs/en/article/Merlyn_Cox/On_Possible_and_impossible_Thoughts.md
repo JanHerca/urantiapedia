@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Merlyn Cox<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More About Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="pr-2">My Mind Expanding Experience with The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the ideas that many thoughtful people find a stumbling block when they first begin reading the _The Urantia Book_ is the question of the existence of other universe intelligences. Not only do the number and nature of this hierarchy of beings strain our comprehension, but the very _idea_ strikes many as more than a little improbable and esoteric.
 
@@ -63,6 +87,31 @@ Ironically, it may be science again that jogs us from our parochial understandin
 I would conclude by asking again: in light of both our religious and scientific understandings, which is more possible to believe — that there is likely a vast assemblage of intelligences in the universe, or that God, having no more imagination or love or greater purpose in mind, has created an unfathomably enormous universe and limited the experiment of life to this one small planet?
 
 I find the first quite reasonable and plausible; I find the second increasingly absurd. The appearance of _The Urantia Book_ seems timed to deal with the inevitable force of our growing knowledge and the necessity of a greater vision of God's plan for all Creation.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More About Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="pr-2">My Mind Expanding Experience with The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

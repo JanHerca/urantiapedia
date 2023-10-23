@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Richard Bain<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth, What is Truth — Who Knows?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Marks/Faith_and_Spirituality">
+          <span class="pr-2">Faith and Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Have you ever gone past a construction site and peeked through the fence to see what was going on? If you saw the construction when it had just started, you may have seen a large hole with some men laboring at the bottom of it. If it had rained recently, they were probably caked with mud. These men were constructing a foundation for the building that would one day occupy the site. And once the building is finished, the foundation will never be seen again until the building is one day demolished.
@@ -23,7 +47,7 @@ What were the expectations of the pioneers of our movement? One expectation was 
 
 ## Patience and More Patience
 
-In papers that date from the 1930's, the authors of _The Urantia Book_ tell us that our planet is quivering on the brink of a great spiritual renaissance. (p. [UB 195:9.4](/en/The_Urantia_Book/195#p9_4)) For us mere mortals, six decades is a long time to quiver. Unfortunately, statements like this one by the authors might have some folks in a state of great expectation and anticipating some great spiritual event to happen soon or at least in our lifetimes. But we need to remember that the authors have a quite different sense of time than we do. Even the Midwayers have experienced thousands of years of Urantia history; a human lifetime is but a brief episode in the saga of human history to our unseen friends. One antidote for our impatience is for us to develop the far-sightedness of our celestial brethren. Though we may not live to see our efforts come to fruition, we must not lose heart. Someone once said that when you buy a home and plant a tree, you are probably planting it so the next owner will have shade. If no one ever planted a tree because they wouldn't get to enjoy the shade of it, then few of us would have trees or shade.
+In papers that date from the 1930's, the authors of _The Urantia Book_ tell us that our planet is quivering on the brink of a great spiritual renaissance. (p. <a id="a49_159"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)) For us mere mortals, six decades is a long time to quiver. Unfortunately, statements like this one by the authors might have some folks in a state of great expectation and anticipating some great spiritual event to happen soon or at least in our lifetimes. But we need to remember that the authors have a quite different sense of time than we do. Even the Midwayers have experienced thousands of years of Urantia history; a human lifetime is but a brief episode in the saga of human history to our unseen friends. One antidote for our impatience is for us to develop the far-sightedness of our celestial brethren. Though we may not live to see our efforts come to fruition, we must not lose heart. Someone once said that when you buy a home and plant a tree, you are probably planting it so the next owner will have shade. If no one ever planted a tree because they wouldn't get to enjoy the shade of it, then few of us would have trees or shade.
 
 When people look back a hundred years from now, will they see the Fifth Epochal Revelation and our community as failures? I don't think so. I do think that they may decide that we lacked a clearly defined vision for the future of our community. We seem to be building a foundation for some sort of structure. Will the structure be a worldwide Urantia church? What is our vision?
 
@@ -41,7 +65,7 @@ Is this the appropriate time? I don't know, but I do know that we would be wise 
 
 ## Communing with Kindred Spirits
 
-There are many Urantians who would like to worship with kindred spirits. They may now be attending some Christian church where they worship on Sunday morning. While they derive spiritual benefit from this, they no doubt regret that they cannot share much with their church friends about _The Urantia Book_. And unfortunately, worship in some Christian churches lacks creativity; it all too often consists of reciting ancient theological phrases and singing songs whose words some of us may not accept. Those of us who have studied _The Urantia Book_ sense that there is a depth of worship possible that could thrill the soul and give us a feeling of genuine communion with God. We would like to reach toward this, but feel stifled by the lack of spontaneity and creativity of some Christian ritual. We feel more like observers than participants. Some Christian thinkers have lamented this lack in the church. The existentialist philosopher, Kirkegaard, was just such a thinker. He lamented that in churches now, God is the prompter, the minister is the actor, and the congregation is the audience. The way it should be is that the minister is the prompter, the members of the congregation are the actors, and God is the audience. Furthermore, some theology of the Christian church is not in harmony with the high concepts of _The Urantia Book_. A glaring example of this is the Doctrine of the Atonement. About this doctrine, the authors of _The Urantia Book_ tell us, “It is an affront to God to believe, hold or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath.” ([UB 4:5.4](/en/The_Urantia_Book/4#p5_4)) Perhaps then a Urantian spiritual organization is both needed and desirable. Can this organization serve the needs of everyone?
+There are many Urantians who would like to worship with kindred spirits. They may now be attending some Christian church where they worship on Sunday morning. While they derive spiritual benefit from this, they no doubt regret that they cannot share much with their church friends about _The Urantia Book_. And unfortunately, worship in some Christian churches lacks creativity; it all too often consists of reciting ancient theological phrases and singing songs whose words some of us may not accept. Those of us who have studied _The Urantia Book_ sense that there is a depth of worship possible that could thrill the soul and give us a feeling of genuine communion with God. We would like to reach toward this, but feel stifled by the lack of spontaneity and creativity of some Christian ritual. We feel more like observers than participants. Some Christian thinkers have lamented this lack in the church. The existentialist philosopher, Kirkegaard, was just such a thinker. He lamented that in churches now, God is the prompter, the minister is the actor, and the congregation is the audience. The way it should be is that the minister is the prompter, the members of the congregation are the actors, and God is the audience. Furthermore, some theology of the Christian church is not in harmony with the high concepts of _The Urantia Book_. A glaring example of this is the Doctrine of the Atonement. About this doctrine, the authors of _The Urantia Book_ tell us, “It is an affront to God to believe, hold or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath.” (<a id="a67_1623"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4)) Perhaps then a Urantian spiritual organization is both needed and desirable. Can this organization serve the needs of everyone?
 
 ## The Broader Picture
 
@@ -57,7 +81,32 @@ There are things we can do. First, we can support efforts such as the ongoing tr
 
 > _I believe that instead of plotting to convert the world to Urantianism, we should seek to establish working relationships with all the world's religious groups. But to do this we will need a religious organization that can represent our community to the world._
 
-Yes, we find ourselves in the hole working on the foundation, and we may not get credit for our work. Nevertheless, as potential agondonters, let us move out on faith. Let the importance of the work be our motivation. As we labor together with our unseen friends, another piece of the cosmic puzzle falls in place; God the Supreme emerges. “The act is ours, the consequences God's.” ([UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
+Yes, we find ourselves in the hole working on the foundation, and we may not get credit for our work. Nevertheless, as potential agondonters, let us move out on faith. Let the importance of the work be our motivation. As we labor together with our unseen friends, another piece of the cosmic puzzle falls in place; God the Supreme emerges. “The act is ours, the consequences God's.” (<a id="a83_384"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth, What is Truth — Who Knows?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Marks/Faith_and_Spirituality">
+          <span class="pr-2">Faith and Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Merlyn Cox<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Our_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Universal Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/In_His_Presence">
+          <span class="pr-2">In His Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I sing the culture of high technology. For as long as I can remember, I have waited anxiously for virtually every new technology to arrive on the scene. As a child I dreamed of moon landings when the wisest of our scientists thought it no more than a pipe dream. I considered the success of the Hubble telescope a matter of religious significance for which I prayed. It's initial problems I considered akin to the Fall in the garden. I've waited anxiously for the coming of high definition television since I first saw a demonstration more than 15 years ago. I'm close to being one of those high tech junkies who can never get enough of the latest and greatest technology has to offer.
 
@@ -28,10 +52,35 @@ This is why personal testimony is still so important in sharing _The Urantia Boo
 
 I still celebrate high technology, the larger human body electric (Internet, etc.) and its role in sharing the news about _The Urantia Book_; but even more I value the realm of Spirit presence, where two or more are gathered, and the good news it bears witness to becomes most real.
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Our_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Universal Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/In_His_Presence">
+          <span class="pr-2">In His Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: Harvey Cox, Seduction of the Spirit, Simon and Schuster, New York, 1973
 
 
 
-> _The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers._ ([UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
+> _The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers._ (<a id="a85_253"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Church and the Kingdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="pr-2">The Second Enlightenment: Liberalism and Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***_The Urantia Book_ and Spiritual Renewal***
 
@@ -31,3 +55,27 @@ I have never ceased to be awed by this, and I still have no adequate words to de
 So how does one deal with such a discovery? I had prayed and vowed I would give anything for a truly accurate record of just one day in the life and teachings of Jesus, one that revealed his true innermost thoughts and meaning. _What was I to give in return, then, for a record of his whole life, day by day, not to mention a magnificent universe and spiritual cosmology?_ I felt like a thirsty soul looking for a cup of cool refreshing water who suddenly found himself looking out upon a great fresh lake that stretches beyond the horizon. How do you respond to such a thing? Will you even allow yourself to believe it, and if you do, how do you communicate it with others who are still inwardly convinced that such a thing cannot exist?
 
 For me, simply accepting it was the first act of thanksgiving and commitment. Great declarations and human gestures in response to such an amazing gift somehow seemed pretentious and out of keeping. Beyond that, of course, there is the desire to live a life worthy of the magnificent calling and destination revealed in this revelation. And finally there is the desire to share it with others. Few things could ever be as satisfying as sharing it with family and friends and those I love. At the same time, I once wondered if I would be able to share it with anyone. I was well aware of the suspicions and assumptions that both our secular age and our tradition-bound religions have produced. Idecided I would simply continue to give thanks, to become a diligent student, and as opportunity afforded, seek to share it with others in much the same way that Philip did with Nathaniel regarding his belief in Jesus — by inviting them to _come and see_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Church and the Kingdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="pr-2">The Second Enlightenment: Liberalism and Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

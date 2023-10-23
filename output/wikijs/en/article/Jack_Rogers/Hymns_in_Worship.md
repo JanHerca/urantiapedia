@@ -3,12 +3,36 @@ title: "Hymns in Worship"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Worship, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Jack Rogers<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Song of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Media_and_Values">
+          <span class="pr-2">Media and Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This column addresses the concern for contemporary aids to worship. We welcome material which you may be inspired to write and share._
 
@@ -29,3 +53,27 @@ This column will seek to support that change and offer encouragement to the mini
 “_What Hymns Teach our Children_” Familiar hymns are powerful teaching tools. Should we examine their theological messages more carefully? How can new theological perspectives be taught through the introduction of new hymns?
 
 "_Is This Really a 'New Age?'_” Does New Age hymnody make a significant contribution to worship, or should we ignore it?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Song of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Media_and_Values">
+          <span class="pr-2">Media and Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

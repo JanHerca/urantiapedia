@@ -3,12 +3,36 @@ title: "Teachers, Leaders, and Trembling Hands"
 description: "Creative Outreach"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Leadership, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/View_From_the_Trenches">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">View From the Trenches</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="pr-2">Psalms Today: Creative Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The early Urantians were told, according to a memo written by Bill Sadler, Jr. in 1955, titled [_The Timing of The Urantia Book_](/en/article/The_Publication_Mandate), that the Urantia Papers belonged to “the era immediately to follow the conclusion of the present ideological struggle.” Fortunately for us, _The Urantia Book_ was not delayed until Russian Communism collapsed. The early Urantians were also told:
 
@@ -32,6 +56,30 @@ The hour has come for these unheralded Urantian servant-leaders and teachers. Th
 
 Urantians are united by a shared vision of the Mission of the Urantia Papers. Each of us carries a part of that vision, and the composite will be formed by the “Genius of the People.” Our circle will be as broad as necessary to include each person of good will. Our politics will be simply and solely the greatest good for all concerned. Our religion will be Urantian.
 
-Over six decades ago it was written, “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) Over six decades is a long time for Urantians to quiver. Many Urantians are now looking within, and they hear a still, small voice saying: “_Arise now, I have need of you. Go forth._”
+Over six decades ago it was written, “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” (<a id="a58_206"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) Over six decades is a long time for Urantians to quiver. Many Urantians are now looking within, and they hear a still, small voice saying: “_Arise now, I have need of you. Go forth._”
 
-As the Master stated on [UB 155:6.5](/en/The_Urantia_Book/155#p6_5): “_The religion of the spirit leaves you forever free to follow the truth wherever the leadings of the spirit may take you. And who can judge-perhaps this spirit may have something to impart to this generation which other generations have refused to hear?_”
+As the Master stated on <a id="a60_24"></a>[UB 155:6.5](/en/The_Urantia_Book/155#p6_5): “_The religion of the spirit leaves you forever free to follow the truth wherever the leadings of the spirit may take you. And who can judge-perhaps this spirit may have something to impart to this generation which other generations have refused to hear?_”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/View_From_the_Trenches">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">View From the Trenches</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="pr-2">Psalms Today: Creative Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

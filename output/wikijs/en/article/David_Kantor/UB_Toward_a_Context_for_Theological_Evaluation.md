@@ -3,12 +3,36 @@ title: "The Urantia Book: Toward a Context for Theological Evaluation"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 David A. Kantor<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Church in the Next Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="pr-2">Jesus, Man and Myth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _“If we so understood that we no longer had toseek, it would not be the God of revelation that we had found.” -Avery Dulles_
 
@@ -187,6 +211,31 @@ It has been my purpose only to outline a context in which _The Urantia Book_ may
 > _David Kantor is a computer software designer for managing corporate voice and data communication networks. He has been a student of _The Urantia Book_ for nearly thirty years._
 {.is-info}
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Church in the Next Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="pr-2">Jesus, Man and Myth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: Karl Rahner, _Theological Investigations_, vol. XVI, New York: The Crossroad Publishing Company, 1983, 156.
@@ -225,15 +274,15 @@ It has been my purpose only to outline a context in which _The Urantia Book_ may
 
 [^18]: Dulles, _Revelation Theology_.
 
-[^19]: _The Urantia Book_, [UB 101:4.2](/en/The_Urantia_Book/101#p4_2).
+[^19]: _The Urantia Book_, <a id="a276_27"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2).
 
-[^20]: _The Urantia Book_, [UB 0:12.11](/en/The_Urantia_Book/0#p12_11).
+[^20]: _The Urantia Book_, <a id="a278_27"></a>[UB 0:12.11](/en/The_Urantia_Book/0#p12_11).
 
-[^21]: _The Urantia Book_, [UB 0:12.12](/en/The_Urantia_Book/0#p12_12).
+[^21]: _The Urantia Book_, <a id="a280_27"></a>[UB 0:12.12](/en/The_Urantia_Book/0#p12_12).
 
 [^22]: H. R. Niebuhr, _The Meaning of Revelation_, 68.
 
-[^23]: _The Urantia Book_, [UB 101:1.4](/en/The_Urantia_Book/101#p1_4).
+[^23]: _The Urantia Book_, <a id="a284_27"></a>[UB 101:1.4](/en/The_Urantia_Book/101#p1_4).
 
 [^24]: Michael J. Buckley, S. J., _At the Origins of Modern Atheism_ (London: Yale University Press, 1987), 35.
 
@@ -249,4 +298,4 @@ It has been my purpose only to outline a context in which _The Urantia Book_ may
 
 [^30]: Matthew Block, [“Some Human Sources of _The Urantia Book_,”](/en/article/Matthew_Block/Some_Human_Sources_of_UB) _The Spiritual Fellowship Journal_ (Spring 1993): 9-13. Significant possibilities for critical textual and literary analysis exist for future students.
 
-[^31]: _The Urantia Book_, [UB 195:10.21](/en/The_Urantia_Book/195#p10_21).
+[^31]: _The Urantia Book_, <a id="a300_27"></a>[UB 195:10.21](/en/The_Urantia_Book/195#p10_21).

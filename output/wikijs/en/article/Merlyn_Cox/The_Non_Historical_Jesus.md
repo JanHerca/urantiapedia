@@ -3,12 +3,36 @@ title: "Interface: The Non-Historical Jesus"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Merlyn Cox<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_New_Approach_to_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Approach to Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="pr-2">The Father Idea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 How well can Jesus be known? Now that we've reached the twilight of the second quest for the historical Jesus, the answer is apparently much like the first — very little. Reading through “The Five Gospels,” the published results of a poll by a group of scholars known as the Jesus Seminar, one wonders if the result of all this intense effort has brought us closer, or farther away, from the one who said “follow me” and proceeded to transform the world.
 
@@ -29,4 +53,28 @@ If we need more knowledge, it is a knowledge _about_ Jesus that unifies our know
 The only source that holds out that possibility is _The Urantia Book_, and it does it so thoroughly and convincingly you can only wonder at the skepticism and fear that keeps it from being read by scholars as well as laymen who are so thirsting for what it contains.
 
 
-> ...paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> ...paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. (<a id="a55_522"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_New_Approach_to_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Approach to Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="pr-2">The Father Idea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

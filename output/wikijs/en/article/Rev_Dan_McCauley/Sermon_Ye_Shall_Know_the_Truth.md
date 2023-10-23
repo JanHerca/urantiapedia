@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Rev. Dan McCauley<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stan_Hartman/Fusion_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fusion Power</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Two weeks after the following news article was published, I was asked to preach at Lakeshore Drive Baptist Church, a church that had been supportive of my ministry. The sermon was well received._
 
@@ -79,3 +100,25 @@ Trying to live by this credo requires effort, struggle, conflict, faith, determi
 > _Dan McCauley was a campus minister for 18 years and served on church staffs for Southern Baptists, Presbyterians, Methodists, and the Disciples. He discovered The Urantia Book in 1985 while brousing the metaphysical section of a book store, but didn't feel he could afford the price. His students bought it for him as a birthday present._
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stan_Hartman/Fusion_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fusion Power</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

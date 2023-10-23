@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Bruce Barton<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Thomas_Strawser/God_and_Lady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God and Lady</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _This is the final installment of “The Man Nobody Knows ... a Discovery of the Real Jesus,” written by Bruce Barton, who (I would discover many years later) was a famous advertising man. This book made a great impression on my young mind. Somehow I retained this book over the years. As a Urantian, many years later, I am amazed how close Bruce Barton came in 1924 to describing what I believe is the real Jesus. Thanks to the many Urantians who have expressed their interest in this work._
 > 
@@ -164,3 +185,25 @@ And yet—
 Read that, oh men, and bow your heads. You who have let yourself picture him as weak, as a man of sorrows, uninspiring, glad to die. There have been leaders who could call forth enthusiasm when their fortunes ran high. But he, when his enemies had done their worst, so bore himself that a crucified felon looked into his dying eyes and saluted him as king. THE END
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Thomas_Strawser/God_and_Lady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God and Lady</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

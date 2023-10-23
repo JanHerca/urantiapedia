@@ -9,10 +9,34 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Janet Farrington<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="pr-2">A New Beginning for World Unity ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Editorial Introduction
 
-_For most of us growing up in Western Civilization, even though we were active and knowledgeable church members, the discovery of _The Urantia Book_ opened a new and exciting vista of Reality. In addition to the centrality of the Trinity, _The Urantia Book_ describes Absolutes of potentiality and an evolutionary aspect of Deity, called God the Supreme. The Supreme grows as the personalities in the evolving universes attain Godlikeness. This developing factualization of Deity is very close to Deity concepts in the writings of Jung, Teilhard de Chardin, and Whitehead. The Supreme is that evolutionary aspect of Deity in which we “live and move and have our being.” God the Supreme is the cosmic womb in which finite potential grows, the Universe Mother of the evolving finite creation. The Supreme is the realm of the actual and the potential: “The great struggle of this universe age is between the potential and the actual-the seeking for actualization by all that is as yet unexpressed.”_ ([UB 117:4.11](/en/The_Urantia_Book/117#p4_11))
+_For most of us growing up in Western Civilization, even though we were active and knowledgeable church members, the discovery of _The Urantia Book_ opened a new and exciting vista of Reality. In addition to the centrality of the Trinity, _The Urantia Book_ describes Absolutes of potentiality and an evolutionary aspect of Deity, called God the Supreme. The Supreme grows as the personalities in the evolving universes attain Godlikeness. This developing factualization of Deity is very close to Deity concepts in the writings of Jung, Teilhard de Chardin, and Whitehead. The Supreme is that evolutionary aspect of Deity in which we “live and move and have our being.” God the Supreme is the cosmic womb in which finite potential grows, the Universe Mother of the evolving finite creation. The Supreme is the realm of the actual and the potential: “The great struggle of this universe age is between the potential and the actual-the seeking for actualization by all that is as yet unexpressed.”_ (<a id="a38_998"></a>[UB 117:4.11](/en/The_Urantia_Book/117#p4_11))
 
 ## The Challenge of Parenthood
 
@@ -30,7 +54,7 @@ Human parents have complete responsibility for this role in the lives of their y
 
 Without this presence, without a constant, loving parental presence, children of God will not evolve their full potential. And for this reason, family life provides the most important foundation upon which human destiny is attained and Deity realization of the Supreme is achieved.
 
-> To the extent that we do the will of God in whatever universe station we may have our existence, in that measure the almighty potential of the Supreme becomes one step more actual. ([UB 117:0.1](/en/The_Urantia_Book/117#p0_1))
+> To the extent that we do the will of God in whatever universe station we may have our existence, in that measure the almighty potential of the Supreme becomes one step more actual. (<a id="a56_184"></a>[UB 117:0.1](/en/The_Urantia_Book/117#p0_1))
 
 ## The Family as a Microcosm of the Supreme
 
@@ -46,7 +70,7 @@ The child resides within the Supreme, within the family of humanity, and within 
 
 The child represents a nearly limitless potential for Supremacy. The child who grows in the loving embrace of an extended human family experiences the kinship of humanity during the critical formative years. Service becomes a natural extension of love for others. The child who is parented as a child of God by a loving family grows secure in an experiential faith in the Father/Motherhood of God. Outreach becomes a natural extension of God's love.
 
-> Man can discover the Father in his heart, but he will have to search for the Supreme in the hearts of all other men; and when all creatures perfectly reveal the love of the Supreme, then will he become a universe actuality to all creatures. ([UB 117:6.23](/en/The_Urantia_Book/117#p6_23))
+> Man can discover the Father in his heart, but he will have to search for the Supreme in the hearts of all other men; and when all creatures perfectly reveal the love of the Supreme, then will he become a universe actuality to all creatures. (<a id="a72_244"></a>[UB 117:6.23](/en/The_Urantia_Book/117#p6_23))
 
 ## A Philosophy of Family
 
@@ -54,7 +78,7 @@ Many people of our society have pointed to the need for better child training. W
 
 We need elders to sit with attentive children at their knees and share stories filled with wisdom and love. We need mentors to walk side-by-side with adolescents as they prepare for entry into the world of adults by defining values and discovering goals. We need friends to stand with parents in times of need, to offer support and sustenance as we all strive to raise children with kindness and love. We need to feel each others' presence; to touch each others' inner spirits.
 
-> The Supreme is the beauty of physical harmony, the truth of intellectual meaning and the goodness of spiritual value. He is the sweetness of true success and the joy of everlasting achievement. ([UB 117:1.1](/en/The_Urantia_Book/117#p1_1))
+> The Supreme is the beauty of physical harmony, the truth of intellectual meaning and the goodness of spiritual value. He is the sweetness of true success and the joy of everlasting achievement. (<a id="a80_197"></a>[UB 117:1.1](/en/The_Urantia_Book/117#p1_1))
 
 A comprehensive philosophy of family would recognize the separate, simultaneous, and Supreme realities of family life. We each belong to an original family, a primary family, an extended family, a global family, and a divine family. Each new expression of family builds upon all former expressions and encompasses all that a child of God has discovered about loving relationships.
 
@@ -68,13 +92,13 @@ Forgiveness is the currency of evolution. Without forgiveness our relationships 
 
 We must forgive the mistakes of our parents, just as we hope to be forgiven by our children. This does not mean forget. This does not mean ignore. We cannot hope to progress without understanding those forces that have brought us to the crossroads of our lives as parents and children. In those moments when we feel the urge to repeat the mistakes we suffered in our childhood, we need to forgive-our parents, ourselves, our children. And in that moment of forgiveness the Supreme evolves, the family evolves, and the kinship of humanity progresses one step beyond what it was a moment before. In that moment of forgiveness the reality of God is reflected in the life of a human child.
 
-We must forgive the mistakes of our brothers and sisters, just as we hope to be forgiven by them. This does not mean we should ignore evil. This does not mean we should overlook injustice. We cannot hope to progress without a wise examination of the decisions and actions that shape our world, and we cannot hope to progress without a gentle response. The urge to criticize others is often stronger than the desire to forgive and encourage resolution; yet a continuing conflict does very little to evolve the Supreme. The lack of forgiveness and resolution retards evolution just as much as the more obvious forms of evil and injustice: “The fruits of the spirit are the substance of the Supreme as he is realizable in human experience.” ([UB 117:6.17](/en/The_Urantia_Book/117#p6_17))
+We must forgive the mistakes of our brothers and sisters, just as we hope to be forgiven by them. This does not mean we should ignore evil. This does not mean we should overlook injustice. We cannot hope to progress without a wise examination of the decisions and actions that shape our world, and we cannot hope to progress without a gentle response. The urge to criticize others is often stronger than the desire to forgive and encourage resolution; yet a continuing conflict does very little to evolve the Supreme. The lack of forgiveness and resolution retards evolution just as much as the more obvious forms of evil and injustice: “The fruits of the spirit are the substance of the Supreme as he is realizable in human experience.” (<a id="a94_739"></a>[UB 117:6.17](/en/The_Urantia_Book/117#p6_17))
 
 The Supreme does not evolve as a result of the success, power, prestige or position acquired by an individual. The Supreme evolves as a result of the loving relationships actualized between individuals. And these relationships are dependent on forgiveness, tact, tolerance, encouragement, and kindness. There is no limit to the power of love; if it motivates all behavior, it can bear all response. This is especially true in the family. There is no better way to teach children respect, than to treat them with respect. There is no better way to reveal the existence of God than to reflect God's love.
 
 If forgiveness is the currency of evolution, then the family is the bank of the Supreme. The interest that is accumulated as a result of forgiveness and love in the family grows exponentially throughout eternity. Children who are forgiven their faults in their original family learn to forgive their own children in their primary family. People who are forgiven their mistakes in the extended family, learn to forgive all their brothers and sisters in the global family. These human investments have spiritual value. These are the dividends that evolve the Supreme.
 
-> When you find the Father, you will find the great cause of your spiritual ascent in the universes; when you find the Supreme, you will discover the great result of your career of Paradise progression. ([UB 117:6.26](/en/The_Urantia_Book/117#p6_26))
+> When you find the Father, you will find the great cause of your spiritual ascent in the universes; when you find the Supreme, you will discover the great result of your career of Paradise progression. (<a id="a100_204"></a>[UB 117:6.26](/en/The_Urantia_Book/117#p6_26))
 
 The Father is the cause, the Supreme is the result. I believe the family is the way: The way to integrate spiritual values with social progress; the way to initiate Father/Motherhood and invest in brother/sisterhood; the way to realize the cosmic value of finite experience as a child of God in the family of humanity. The family can provide a safe haven, a loving embrace, a place to turn to when living gets hard.
 
@@ -82,3 +106,27 @@ The family of _Urantia Book_ readers is an extended family inspired by a larger 
 
 > _Janel Farrington, a long time student of _The Urantia Book_, is vice-president of The Fellowship for readers of _The Urantia Book_. She is a family mediator and also provides management training for business and school organizations._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="pr-2">A New Beginning for World Unity ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

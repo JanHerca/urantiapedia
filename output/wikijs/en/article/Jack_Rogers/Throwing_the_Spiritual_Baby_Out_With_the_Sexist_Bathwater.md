@@ -3,12 +3,36 @@ title: "Throwing the Spiritual Baby out with the Sexist Bath Water"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Gender, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Jack Rogers<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tuning the Inner and Outer Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/A_Teacher_Sent_From_God">
+          <span class="pr-2">“A Teacher Sent From God”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **MUSIC IN WORSHIP**
 
@@ -44,4 +68,28 @@ But evolutionary growth usually takes place slowly in the church and in society.
 
 Indeed, great truth resides in hymns of former generations. Let us not lose their message in our rush to endorse new trends. We should be careful not to throw out the spiritual baby with the sexist bath water!
 
-> The religion of Jesus is the most dynamic influence ever to activate the human race. Jesus shattered tradition, destroyed dogma, and called mankind to the achievement of its highest ideals in time and eternity — to be perfect, even as the Father in heaven is perfect. ([UB 99:5.3](/en/The_Urantia_Book/99#p5_3))
+> The religion of Jesus is the most dynamic influence ever to activate the human race. Jesus shattered tradition, destroyed dogma, and called mankind to the achievement of its highest ideals in time and eternity — to be perfect, even as the Father in heaven is perfect. (<a id="a70_271"></a>[UB 99:5.3](/en/The_Urantia_Book/99#p5_3))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tuning the Inner and Outer Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/A_Teacher_Sent_From_God">
+          <span class="pr-2">“A Teacher Sent From God”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

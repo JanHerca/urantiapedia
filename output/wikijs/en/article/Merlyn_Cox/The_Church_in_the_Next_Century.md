@@ -3,12 +3,36 @@ title: "Interface: The Church in the Next Century"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Church, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Merlyn Cox<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Metamorphosis of the Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="pr-2">The Urantia Book: Toward a Context for Theological Evaluation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As we approach the beginning of another century-as well as the next millennium-many denominations are trying to forecast the changes that might occur. Many are looking for a new direction, for some new insight that will help rejuvenate the church.
 
@@ -25,3 +49,27 @@ It may well be that we will face increasing aridity and restlessness in the chur
 I'm convinced, however, that this stagnation and malaise will eventually give way to a new vision of life, one more adequate to empower us for graceful, grateful, and hopeful living, one in which the ultimate realities will again be more discernable in the commonplace.
 
 Such an empowering vision is available now in the _The Urantia Book_, and I cannot help but believe that over the next several generations, its leaven will increasingly work its way into the life and thought of more and more people, providing the foundation for a truly new world-and universe — understanding.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Metamorphosis of the Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="pr-2">The Urantia Book: Toward a Context for Theological Evaluation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

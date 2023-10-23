@@ -3,12 +3,36 @@ title: "Religion And The Religious Organization"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Religion, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Richard I. Bain<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_coming_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The coming Spiritual Renaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="pr-2">Sermon: There is Always One More Move</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There seems to be a certain amount of ferment in the Urantia community regarding the possible emergence of a Urantian religious organization. Is a portion of our community evolving into such an organization? How do you feel about this?
 
@@ -64,13 +88,13 @@ Some may take the view that the theology of a Urantia religion is simply the con
 
 ## New Wineskins or Old?
 
-And what do we do about the rites and rituals of a Urantian religion? Do we just borrow from Christianity and other religions for a new Urantia religion? When a Pharisee asked Jesus why his Apostles didn't fast as other Jews did, he answered in part, “Neither do men put new wine into old wine skins, lest the new wine burst the skins so that both the wine and the skins perish.The wise man puts the new wine into fresh wine skins. Therefore do my disciples show wisdom in that they do not bring too much of the old order over into the new teaching of the gospel of the kingdom.” ([UB 147:7.2](/en/The_Urantia_Book/147#p7_2)) The new concepts in the Fifth Epochal Revelation will obviously require new observances and rituals but a religion centered in the Urantia Papers could also utilize the best in older religious practices. I believe that we should use symbols and rituals that can be invested with new meanings, meanings appropriate to our community and the theology of _The Urantia Book_, but these rites, rituals, and symbols should not be just a copy of existing ones. For instance, because of its connection with the Atonement Doctrine, I would be surprised to see a cross on, or in, a Urantian worship center, but I would expect to see a communion service celebrated in such a center. It is logical that communion will find a place in a Urantian religion, especially since Jesus established this ritual at the Last Supper. But the theology of this communion will certainly not be like that of the Christian communion, since _The Urantia Book_ strongly condemns the Atonement Doctrine. Fortunately, we do have some guidance from Jesus in _The Urantia Book_ on how to invest the elements of the communion service with new and more appropriate meaning. ([UB 179:5.4](/en/The_Urantia_Book/179#p5_4))
+And what do we do about the rites and rituals of a Urantian religion? Do we just borrow from Christianity and other religions for a new Urantia religion? When a Pharisee asked Jesus why his Apostles didn't fast as other Jews did, he answered in part, “Neither do men put new wine into old wine skins, lest the new wine burst the skins so that both the wine and the skins perish.The wise man puts the new wine into fresh wine skins. Therefore do my disciples show wisdom in that they do not bring too much of the old order over into the new teaching of the gospel of the kingdom.” (<a id="a90_581"></a>[UB 147:7.2](/en/The_Urantia_Book/147#p7_2)) The new concepts in the Fifth Epochal Revelation will obviously require new observances and rituals but a religion centered in the Urantia Papers could also utilize the best in older religious practices. I believe that we should use symbols and rituals that can be invested with new meanings, meanings appropriate to our community and the theology of _The Urantia Book_, but these rites, rituals, and symbols should not be just a copy of existing ones. For instance, because of its connection with the Atonement Doctrine, I would be surprised to see a cross on, or in, a Urantian worship center, but I would expect to see a communion service celebrated in such a center. It is logical that communion will find a place in a Urantian religion, especially since Jesus established this ritual at the Last Supper. But the theology of this communion will certainly not be like that of the Christian communion, since _The Urantia Book_ strongly condemns the Atonement Doctrine. Fortunately, we do have some guidance from Jesus in _The Urantia Book_ on how to invest the elements of the communion service with new and more appropriate meaning. (<a id="a90_1763"></a>[UB 179:5.4](/en/The_Urantia_Book/179#p5_4))
 
-Christmas and other Christian holidays may be another problem area for Urantians. There are many Christian rituals associated with Christmas. Will Urantian religionists celebrate Christmas differently than Christians? I suspect that religious organizations in our culture will retain much of the Christmas pageantry and ritual since it is a part of the cultural heritage for those of us coming from a Christian background. But I expect a modest birthday celebration on Aug. 21 st each year will also be one of the rites of Urantian worship centers. Easter in the Urantia Papers is not associated with the Atonement Doctrine. But the cross and the dramatic events leading to it are as much a part of _The Urantia Book_ as they are a part of the Bible. I am certain that the papers in _The Urantia Book_ dealing with these events will be the basis for uniquely Urantian Easter services. We can certainly profit from “Lessons From the Cross,” ([UB 188:5](/en/The_Urantia_Book/188#p5)) and celebrate the resurrection as sincerely as Christians do, though not for all the same reasons.
+Christmas and other Christian holidays may be another problem area for Urantians. There are many Christian rituals associated with Christmas. Will Urantian religionists celebrate Christmas differently than Christians? I suspect that religious organizations in our culture will retain much of the Christmas pageantry and ritual since it is a part of the cultural heritage for those of us coming from a Christian background. But I expect a modest birthday celebration on Aug. 21 st each year will also be one of the rites of Urantian worship centers. Easter in the Urantia Papers is not associated with the Atonement Doctrine. But the cross and the dramatic events leading to it are as much a part of _The Urantia Book_ as they are a part of the Bible. I am certain that the papers in _The Urantia Book_ dealing with these events will be the basis for uniquely Urantian Easter services. We can certainly profit from “Lessons From the Cross,” (<a id="a92_941"></a>[UB 188:5](/en/The_Urantia_Book/188#p5)) and celebrate the resurrection as sincerely as Christians do, though not for all the same reasons.
 
 ## Symbols for a Urantian Religion
 
-An organized religion arising out of the Urantia community will need potent symbols to help unite its participants. One symbol that has already been supplied by the authors of _The Urantia Book_ is the three concentric circles. This symbol was unfortunately a political football because it was registered as a trademark by the Urantia Foundation. However, it seems that this symbol can now be used by a religious organization as a religious symbol without creating legal problems; it is my understanding that the Foundation will permit the use of the concentric circles for religious purposes. Undoubtedly, other symbols will emerge out of the religious life of Urantians as a Urantian religion evolves. And symbols are important. The authors of _The Urantia Book_ point out, “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism. Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience. And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man.” ([UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
+An organized religion arising out of the Urantia community will need potent symbols to help unite its participants. One symbol that has already been supplied by the authors of _The Urantia Book_ is the three concentric circles. This symbol was unfortunately a political football because it was registered as a trademark by the Urantia Foundation. However, it seems that this symbol can now be used by a religious organization as a religious symbol without creating legal problems; it is my understanding that the Foundation will permit the use of the concentric circles for religious purposes. Undoubtedly, other symbols will emerge out of the religious life of Urantians as a Urantian religion evolves. And symbols are important. The authors of _The Urantia Book_ point out, “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism. Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience. And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man.” (<a id="a96_1333"></a>[UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
 
 > _The new concepts in the Fifth Epochal Revelation will obviously require new observances and rituals but a religion centered in the Urantia Papers could also utilize the best in older religious practices. I believe that we should use symbols and rituals that can be invested with new meanings, meanings appropriate to our community and the theology of _The Urantia Book_, but these rites, rituals, and symbols should not be just a copy of existing ones._
 
@@ -95,3 +119,27 @@ I believe we have much to learn from the worlds religions and religious institut
 
 > _Richard Bain is an electrical engineer and an editor of Innerface International. He is a longtime student of_ The Urantia Book.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_coming_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The coming Spiritual Renaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="pr-2">Sermon: There is Always One More Move</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

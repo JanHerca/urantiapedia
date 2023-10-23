@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Real_Jesus_by_Luke_Timothy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Real Jesus by Luke Timothy Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="pr-2">Sermon: Recognizing the Goodness of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Eric Fellman
 Haper, SanFrancisco, 1996, 237 pp.
@@ -22,3 +46,27 @@ In this book Fellman points to spiritual resources as the key to the effectivene
 Fellman builds a basic life pyramid of key spiritual values that are simple to ennumerate, such as faith, hope, and love, but are often difficult to actualize. The cornerstones of this pyramid are simplicity, inner quality, and divinity. The superstructure involves building belief into faith, optimism into hope, and kindness into love. Building on this framework we can strengthen the mental, emotional, and physical aspects of our personality structure. Using imagination and imaging, we can master our minds by the power of spiritual reality and grow through focus and commitment to these values in the actualization of service.
 
 I found Eric Fellman's presentation of these classic spiritual disciplines to be interesting and insightful, and the life-situations he uses to illustrate these techniques of spiritual growth are stimulating and inspiring.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Real_Jesus_by_Luke_Timothy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Real Jesus by Luke Timothy Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="pr-2">Sermon: Recognizing the Goodness of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

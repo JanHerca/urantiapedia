@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Jean Barr<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thoughts on the Brotherhood of Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="pr-2">The Religion of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -54,9 +78,33 @@ These changes can only be implemented by the individual, not the church, not gov
 
 > _Humanity as a whole has no spiritual goals for today-and really not for the future. Puerile visions offlying on a cloud with a harp, or equally unrealistic views of the spiritual cosmos, do not appeal to the intelligent person. Searching people throughout the world are hungering for the inspiring vision of infinite reality found in The Urantia Book.
 
-_The Urantia Book_ says that “Goals rather than creeds should unify religionists” ([UB 99:5.7](/en/The_Urantia_Book/99#p5_7)) and that is what I and my students teach — the goal of Cosmic Consciousness or SelfTranscendence. It transcends all religious doctrines and dogmas. Any religion that is based on a belief in God must agree that we are supposed to make this a better world, and unless the individual changes dramatically, the world will not change for the better.
+_The Urantia Book_ says that “Goals rather than creeds should unify religionists” (<a id="a80_83"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)) and that is what I and my students teach — the goal of Cosmic Consciousness or SelfTranscendence. It transcends all religious doctrines and dogmas. Any religion that is based on a belief in God must agree that we are supposed to make this a better world, and unless the individual changes dramatically, the world will not change for the better.
 
-“Nineteen hundred years ago, unlearned Galileans surveyed Jesus giving his life as a spiritual contribution to man's inner experience and then went out and turned the whole Roman Empire upside down.” ([UB 195:6.9](/en/The_Urantia_Book/195#p6_9)) We are not “unlearned Galileans;” therefore we must teach the world the goals that are attainable here — _in this lifetime_ — not just a vague “hope of heaven.” We must inspire humankind with: (1) the reality of Self Transcendence or Cosmic Consciousness, (2) the reality of life without fear and a closer relationship with God, and (3) the actuality of the modification of any person who is willing to change their habit patterns and transform their fears into the positive reactions of living faith. And this discipline alone, inspired by the indwelling Spirit of God, will produce the happiness engendered by the brotherhood of man and the Fatherhood of God on this planet!
+“Nineteen hundred years ago, unlearned Galileans surveyed Jesus giving his life as a spiritual contribution to man's inner experience and then went out and turned the whole Roman Empire upside down.” (<a id="a82_201"></a>[UB 195:6.9](/en/The_Urantia_Book/195#p6_9)) We are not “unlearned Galileans;” therefore we must teach the world the goals that are attainable here — _in this lifetime_ — not just a vague “hope of heaven.” We must inspire humankind with: (1) the reality of Self Transcendence or Cosmic Consciousness, (2) the reality of life without fear and a closer relationship with God, and (3) the actuality of the modification of any person who is willing to change their habit patterns and transform their fears into the positive reactions of living faith. And this discipline alone, inspired by the indwelling Spirit of God, will produce the happiness engendered by the brotherhood of man and the Fatherhood of God on this planet!
 
 > _Jean Barr, in addition to having a successful business career, is now a minister, lecturer, and teacher of _Urantia Book_ concepts. She is founder and president of The Michaels Foundation, Inc._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thoughts on the Brotherhood of Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="pr-2">The Religion of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

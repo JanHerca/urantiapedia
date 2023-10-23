@@ -3,12 +3,36 @@ title: "Tuning the Inner and Outer Life"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Inner Life, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Byron Belitsos<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Global Responsibility: In Search of a New Ethic By Hans Kung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="pr-2">Throwing the Spiritual Baby Out With the Sexist Bathwater</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In our last Media \& Values column, I advocated the rather unusual view that television and the new forms of electronic media can and should favorably affect the inner spiritual life of the individual. Let's explore how this might occur as the media revolution of the 1990's unfolds.
 
@@ -20,7 +44,7 @@ In Part III of _The Urantia Book_, in papers 85-98, the authors present in great
 
 At first, divine truth was the exclusive province of a designated charismatic individual or privileged group: in tribal societies it was the shaman; in Egypt the Pharaoh; in India the Brahman priesthood. These auto-revelations (insights derived from association with the indwelling spirit of God) eventually became sacred texts, from which rituals and myths were derived, and later imposed on passive populations.
 
-A new chapter was written in Israel. Here we witness an ongoing tension between the fresh voices of the prophets, whose auto-revelations sprang from new sources, and the rigid Pharisaic tradition of texts and rituals. Jesus was the first Jewish prophet to teach the Father's love for the individual, that the Father is directly contactable in highly personal modes of thought and attitude. The Biblical view of Jesus' inner life is beautiful and anecdotal, but the authors of _The Urantia Book_ present Jesus' inner spiritual life as astoundingly rich and varied. “...To him prayer was a sincere expression of spiritual attitude, a declaration of soul loyalty, a recital of personal devotion, an expression of thanksgiving, an avoidance of emotional tension, a prevention of conflict, an exaltation of intellection...” ([UB 196:0.10](/en/The_Urantia_Book/196#p0_10)) plus an additional list of 12 other truth-attitudes that seem to exhaust the whole range of inner responses to possible spiritual stimulus.
+A new chapter was written in Israel. Here we witness an ongoing tension between the fresh voices of the prophets, whose auto-revelations sprang from new sources, and the rigid Pharisaic tradition of texts and rituals. Jesus was the first Jewish prophet to teach the Father's love for the individual, that the Father is directly contactable in highly personal modes of thought and attitude. The Biblical view of Jesus' inner life is beautiful and anecdotal, but the authors of _The Urantia Book_ present Jesus' inner spiritual life as astoundingly rich and varied. “...To him prayer was a sincere expression of spiritual attitude, a declaration of soul loyalty, a recital of personal devotion, an expression of thanksgiving, an avoidance of emotional tension, a prevention of conflict, an exaltation of intellection...” (<a id="a46_820"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10)) plus an additional list of 12 other truth-attitudes that seem to exhaust the whole range of inner responses to possible spiritual stimulus.
 
 Jesus was spiritually attuned to his Heavenly Father. His mind was highly refined and well attuned to receiving the most specific inner cues from his Adjuster (indwelling spirit) for handling a highly diverse set of situations in Palestine and around the Mediterranean.
 
@@ -56,7 +80,7 @@ Our attunement is _interactive_ in the sense that a questioning, petitioning sel
 
 The inner life is most real when it is _creative_. The highest products of the soul/spirit are surprises to the mind, often transcending what education, culture or mores would have predicted. Auto-revelation may be contrary to the current beliefs of the medium, as was the case with the person who acted as the channel for the highly creative text, _The Course of Miracles_. This person was an avowed agnostic.
 
-Spiritual attunement involves a tuning in to the most elusive currents of the mind. The Thought Adjuster's leadings are never imposed, and these impulses are easily lost in the material currents of the mind. Our first contacts may be sensational experiences, that can even “...blind the creature...”([UB 110:4.5](/en/The_Urantia_Book/110#p4_5)), but these currents are always admixed with lower emotions and intellectual tendencies, much as the Adjuster content of the dream life is contaminated with “...the pressure of unexpressed emotions...” and “... unexpressed desires.” ([UB 110:5.4](/en/The_Urantia_Book/110#p5_4))
+Spiritual attunement involves a tuning in to the most elusive currents of the mind. The Thought Adjuster's leadings are never imposed, and these impulses are easily lost in the material currents of the mind. Our first contacts may be sensational experiences, that can even “...blind the creature...”(<a id="a82_300"></a>[UB 110:4.5](/en/The_Urantia_Book/110#p4_5)), but these currents are always admixed with lower emotions and intellectual tendencies, much as the Adjuster content of the dream life is contaminated with “...the pressure of unexpressed emotions...” and “... unexpressed desires.” (<a id="a82_578"></a>[UB 110:5.4](/en/The_Urantia_Book/110#p5_4))
 
 Finally, the inner life is _synergistic_. Imagination is essential to the development of faith; faith deploys all of the faculties and all of the senses. Faith is a condition of the whole person.
 
@@ -82,3 +106,27 @@ Most encouraging is the fact that these educational, informational, and entertai
 
 > _Byron has been a journalist and television producer and is now a consultant in the telecommunications industry._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Global Responsibility: In Search of a New Ethic By Hans Kung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="pr-2">Throwing the Spiritual Baby Out With the Sexist Bathwater</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

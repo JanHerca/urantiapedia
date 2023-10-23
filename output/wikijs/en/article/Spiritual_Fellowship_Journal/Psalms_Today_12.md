@@ -3,12 +3,36 @@ title: "Psalms Today: The Saving Presence"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, Poetry, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: There is Always One More Move</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Why_Christianity_by_John_Shelby_Spong">
+          <span class="pr-2">Significant Books: Why Christianity Must Change or Die by John Shelby Spong</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The subconscious mind speaks to us according to
 
@@ -63,3 +87,28 @@ destiny!
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: There is Always One More Move</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Why_Christianity_by_John_Shelby_Spong">
+          <span class="pr-2">Significant Books: Why Christianity Must Change or Die by John Shelby Spong</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

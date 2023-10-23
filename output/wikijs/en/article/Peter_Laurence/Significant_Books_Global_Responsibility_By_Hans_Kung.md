@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Peter Laurence<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Confirming a Spiritual Pilgrimage </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="pr-2">Tuning the Inner and Outer Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Hans Kung
 
@@ -51,3 +75,27 @@ _The Urantia Book_ tells us that a mature planet enjoys the congenial atmosphere
 
 > _Peter Laurence, Executive Director of The Temple of Understanding, a global interfaith association located at The Cathedral of St. John the Divine._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Confirming a Spiritual Pilgrimage </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="pr-2">Tuning the Inner and Outer Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

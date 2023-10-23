@@ -3,12 +3,33 @@ title: "Psalms Today"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, Poetry, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Earth Currents by by Howard A. Snyder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## God's Co-workers
 
@@ -112,3 +133,25 @@ ascendancy and universe Supremacy! (131)
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Earth Currents by by Howard A. Snyder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

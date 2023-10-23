@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith J. Sprunger<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Commission to Minister</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Galilee Doubleday, New York, 1998, 207 pp.
 
@@ -20,3 +41,25 @@ We must redefine nonviolence and understand its spiritual power. Jesus urges us 
 
 Professor Wink has written a brilliant and helpful book. The limitations of the book, in my judgment, are that he tends to center on social action and the Domination System rather than the process of spiritual transformation that results in social action. His emphasis gravitates toward politics and institutions rather than the spiritual transformation of the individual and the evolutionary process which eventually results in social, political, and institutional change. These deficiencies may be the result of the incompleteness of Wink's Integral Worldview: the recognition that God's _primary_ relationship with our world is through God's indwelling spirit in _individuals_ and the _evolutionary process_. Social action and change in politics and institutions are the end result of this individual spiritual transformation.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Commission to Minister</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

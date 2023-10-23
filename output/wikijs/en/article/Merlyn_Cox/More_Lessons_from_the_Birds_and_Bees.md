@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Merlyn Cox<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Esperanza_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esperanza Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="pr-2">The Scientific Integrity of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “O Lord, how manifold are all your works!” says the Psalmist, “In wisdom you have made them all. The earth is full of your creatures. Yonder is the sea, great and wide; creeping things beyond counting are there, living things both great and small.”
 
@@ -130,6 +154,31 @@ Are we listening?
 
 > _Merlyn Cox is a pastor serving in the North Indiana Conference of the United Methodist Church. He has been a reader of the Urantia Papers for 18 years, and worked with Meredith Sprunger in initiating _The Spiritual Fellowship Journal_ in 1991, and served for ten years as associate editor. He is currently chairman of the Education Team for TSF._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Esperanza_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esperanza Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="pr-2">The Scientific Integrity of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

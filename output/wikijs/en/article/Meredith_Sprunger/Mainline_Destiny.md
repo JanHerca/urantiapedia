@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bible Appreciation Enhanced</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Interface_A_New_Revelation_Who_needs_it">
+          <span class="pr-2">Interface: A New Revelation? Who needs it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Lilly Endowment publication, _Progressions_ (January, 1990), gives an eloquent account of major research efforts to understand the decline of mainline Christianity over the past 25 years. The Presbyterian Church (U.S.A.), which celebrated the 200th anniversary of its first General Assembly last year, has lost one-third of its membership since 1965.
 
@@ -17,3 +41,27 @@ Dr. Robert H. Bullock, Jr., editor of _Presbyterian Outlook_, recalls the prophe
 The most important factor in the resurgence of mainline Christianity is being an instrument of God's purpose for these times and confirming the authenticity and power of its spiritual message. We believe _The Urantia Book_, which claims to be a new epochal revelation to our planet, has the conceptual view of reality and the spiritual dynamic to generate a spiritual renaissance in the church.
 
 This is why our Clergy Network recommends a critical study of _The Urantia Book_ by church leaders and scholars. The church historically has depended on consensus to guide its pathway. It is, therefore, important for many minds to evaluate this unusual book. If it survives this rigorous test, as we believe it will, the church will have a tremendous resource which will inspire humankind for centuries to come.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bible Appreciation Enhanced</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Interface_A_New_Revelation_Who_needs_it">
+          <span class="pr-2">Interface: A New Revelation? Who needs it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

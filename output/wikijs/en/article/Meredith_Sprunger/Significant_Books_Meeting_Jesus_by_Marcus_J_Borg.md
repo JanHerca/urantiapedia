@@ -3,13 +3,37 @@ title: "Significant Books: Meeting Jesus Again for the First Time by Marcus J. B
 description: "The Historical Jesus & the Heart of Contemporary Faith"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith J. Sprunger<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mystery of the Trinity: Unity in Plurality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="pr-2">The Transforming Encounter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Marcus J. Borg
 Harper San Francisco, 1994, pp.
@@ -29,3 +53,27 @@ During the last two decades, a movement known as _story theology_ has called att
 “Believing in Jesus does not mean believing doctrines about him. Rather, it means to give one's heart, one's self at its deepest level, to the post-Easter Jesus who is the living Lord, the side of God turned toward us, the face of God, the Lord who is also Spirit.” (p. 137) This means moving from secondhand religion to firsthand religion.
 
 The strength of the intellectual honesty of contemporary Biblical scholarship along with its lack of evidence in the understanding of the divinity of Jesus, underscores the great need in mainline Christianity for the inspiring insights of _The Urantia Book_. _Urantia Book_ Christology reinforces both the historic Christian faith in the divinity of Jesus, and many of the insights of modern scholarship. It liberates us from the divisive religion about Jesus and reemphasizes and magnifies the religion of Jesus.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mystery of the Trinity: Unity in Plurality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="pr-2">The Transforming Encounter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Larry Mullis<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Choquette/The_Priceless_Opportunity_The_Joy_that_Knows_No_Bounds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Priceless Opportunity: The Joy that Knows No Bounds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="pr-2">More Lessons from the Birds and Bees</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There will come a time, I know, when Urantians will go forth into the world to establish a religion that belongs not to a race, a nation, nor to a special group of teachers or preachers.
 
@@ -19,3 +43,27 @@ By observing these new Urantians, those who have not heard, shall hear, and thos
 There will come a time, I know, when Urantians shall love one another with a new and startling affection, even as Jesus loved all of us when he walked among us. And these new Urantians will serve humankind with a new and amazing devotion, even as Jesus served men and women when he lived in the flesh.
 
 And when this hour comes, the new and everlasting religion of Jesus will at last blaze across the earth in the lives of the men and women who believe it.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Choquette/The_Priceless_Opportunity_The_Joy_that_Knows_No_Bounds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Priceless Opportunity: The Joy that Knows No Bounds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="pr-2">More Lessons from the Birds and Bees</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

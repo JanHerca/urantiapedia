@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Jay Newbern<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mythology of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="pr-2">Revelation and Patience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “God is One, and likes unity.” (Hadith, Is-)
 
@@ -66,11 +90,36 @@ Our civilization and its world cultures are threatened, as well as the ecologica
 
 That which appears impossible to mortals is, of course, possible with God. He sends his Word of Truth to us to encourage us in our great struggle. Two examples follow, one from divine revelation, the other from Islamic sacred scripture:
 
-> “The religions of pessimistic despair seek to obtain release from the burdens of life; they crave extinction in endless slumber and rest. These are the religions of primitive fear and dread. The religion of Jesus is a new gospel of faith to be proclaimed to struggling humanity. This new religion is founded on faith, hope, and love.” ([UB 194:3.2](/en/The_Urantia_Book/194#p3_2))
+> “The religions of pessimistic despair seek to obtain release from the burdens of life; they crave extinction in endless slumber and rest. These are the religions of primitive fear and dread. The religion of Jesus is a new gospel of faith to be proclaimed to struggling humanity. This new religion is founded on faith, hope, and love.” (<a id="a92_338"></a>[UB 194:3.2](/en/The_Urantia_Book/194#p3_2))
 
 > “Take firm hold, all of you, on the rope of God. Do not break up into divisions. Be mindful of the grace of God to you, how you were formerly enemies, and He united your hearts in mutual bonds, so that by His grace, you became brothers.” (Qur'an 3:103)
 
 Amen. (So be it)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mythology of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="pr-2">Revelation and Patience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

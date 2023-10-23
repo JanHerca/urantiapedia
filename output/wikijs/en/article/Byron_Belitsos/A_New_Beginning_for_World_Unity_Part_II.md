@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Potential of the Family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/My_God_is_a_Sweet_Juicy_Apple_Without_the_Waxy_Cover">
+          <span class="pr-2">My God is a Sweet Juicy Apple — Without the Waxy Cover</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This is the final section of a two part report on the 1993 Parliament of the World's Religions._ [First part](/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I)
 
@@ -43,7 +67,7 @@ By contrast with the esoteric, the exoteric's faith is based on a direct _mystic
 
 Exoteric believers in any tradition have an obvious basis for dialogue that is grounded in their common mystical experience. This would imply that there are only two types of religions: the esoteric and the esoteric, and these divergent approaches are to be found in each tradition. Schuon says the real divisions in world religion are not between the many religions, but these two very different types of religious persons.
 
-I suppose I am an inclusivist. _The Urantia Book_ seems to endorse this position in the “Second Discourse On Religion” ([UB 155:6.9](/en/The_Urantia_Book/155#p6_9)), where we read that “the religion of the spirit requires only unity of experience...only unity of spirit feeling.” 
+I suppose I am an inclusivist. _The Urantia Book_ seems to endorse this position in the “Second Discourse On Religion” (<a id="a69_120"></a>[UB 155:6.9](/en/The_Urantia_Book/155#p6_9)), where we read that “the religion of the spirit requires only unity of experience...only unity of spirit feeling.” 
 
 The ultimate meaning of the Parliament for me was in the growing sense of the unity of religious experience as the _ground_ for interreligious dialogue. A unity of religious feeling was always palpable at the interfaith meditation sessions held each morning and evening. This sense of unity was especially true of plenary sessions — grand events with several thousand people often in attendance, some watching by closed-circuit TV in adjoining ballrooms.
 
@@ -59,9 +83,9 @@ The academics wrestled with more exacting models for creating a legitimate basis
 
 ## Functionalist
 
-I define the functionalist model of interfaith dialogue as the search for broadly common goals and purposes, especially that of uniting all humankind — even non-believers — for the sake of the survival of the planet. Functionalists are pragmatic. They realize how difficult it would be to unite “...the followers of the differing intellectual theologies which so characterize Urantia.” ([UB 92:5.16](/en/The_Urantia_Book/92#p5_16))
+I define the functionalist model of interfaith dialogue as the search for broadly common goals and purposes, especially that of uniting all humankind — even non-believers — for the sake of the survival of the planet. Functionalists are pragmatic. They realize how difficult it would be to unite “...the followers of the differing intellectual theologies which so characterize Urantia.” (<a id="a85_387"></a>[UB 92:5.16](/en/The_Urantia_Book/92#p5_16))
 
-Functionalists can find considerable support for their approach in _The Urantia Book_, which preaches that “Someday religionists will get together and actually effect cooperation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs.” ([UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
+Functionalists can find considerable support for their approach in _The Urantia Book_, which preaches that “Someday religionists will get together and actually effect cooperation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs.” (<a id="a87_322"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
 
 ## Declaration of a Global Ethic
 
@@ -76,3 +100,27 @@ The 1993 Parliament of the World's Religions was a new beginning for world relig
 
 > _Byron has been a journalist and television producer and is presently a consultant in the telecommunications industry._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Potential of the Family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/My_God_is_a_Sweet_Juicy_Apple_Without_the_Waxy_Cover">
+          <span class="pr-2">My God is a Sweet Juicy Apple — Without the Waxy Cover</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

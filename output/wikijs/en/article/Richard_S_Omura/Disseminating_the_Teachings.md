@@ -3,12 +3,36 @@ title: "Disseminating the Teachings"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, Jesus teachings, Dissemination, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Richard S. Omura<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Scientist Intrigued by The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="pr-2">Meta-Values ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Disseminating the teaching of the Fifth Epochal Revelation is a _spiritual_ mission, a calling of love and dedication. This mission can be undertaken by spiritually motivated individuals and religious organizations. History demonstrates that only religious organizations, institutional religion, is effective in infusing spiritual teachings into civilization and culture. The Urantia Foundation and _The Urantia Book_ Fellowship, by their own admission, are not spiritual organizations. Promoting _The Urantia Book_ and organizing study groups may be laying the foundations for bona fide religious organizations, but the Urantia movement at present is lacking a religious organization dedicated to disseminating the teachings of the Fifth Epochal Revelation throughout the world.
@@ -41,13 +65,13 @@ Spiritual evolution is a Supreme force in the universe. Negative attitudes and a
 
 ## Institutional Religion
 
-The institutionalization of any religion is absolutely vital to its survival. “While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser.” ([UB 98:6.1](/en/The_Urantia_Book/98#p6_1)) There have been various individuals and groups interested in forming a Urantia Church. The fear among some students of _The Urantia Book_ that a Urantia Church would become a dogmatic, crystallized organization is highly unlikely if done according to the insights given us through _The Urantia Book_. _The Urantia Book_ on page 1092 gives us wonderful guidelines on what to strive for and what to avoid in socializing a religion. I believe a certain amount of imagination, inventiveness, and purpose must go into guiding and nurturing the natural birth of this new socialized religion.
+The institutionalization of any religion is absolutely vital to its survival. “While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser.” (<a id="a67_342"></a>[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)) There have been various individuals and groups interested in forming a Urantia Church. The fear among some students of _The Urantia Book_ that a Urantia Church would become a dogmatic, crystallized organization is highly unlikely if done according to the insights given us through _The Urantia Book_. _The Urantia Book_ on page 1092 gives us wonderful guidelines on what to strive for and what to avoid in socializing a religion. I believe a certain amount of imagination, inventiveness, and purpose must go into guiding and nurturing the natural birth of this new socialized religion.
 
 Creating religious organizations in the Urantia movement is not the same as creating a new religion. A new paradigm of religion based on the Fifth Epochal Revelation has already evolved in the hearts and minds of students of _The Urantia Book_. It needs to be integrated into a viable socialized religion. This new socialized religion will not be perfect. Even with whatever safeguards we can create to protect it from the dangers of institutional religion, it may degrade and crystallize in time, but hopefully not until it has transformed our civilization and culture.
 
 > _A new paradigm of religion based on the Fifth Epochal Revelation has already evolved in the hearts and minds of students of_ The Urantia Book. _It needs to be integrated into a viable socialized religion._
 
-This new socialized religion based on the Fifth Epochal Revelation will initiate a new religious movement in the world. The Urantia Foundation will have as much powerover it as do Bible publishers over Christian churches — none. The Fellowship will also cease to have an organic function in this new religious movement, unless it turns itself into such a spiritual organization. Some of the Fellowship Societies are already moving in this direction. It would be inspiring, in my opinion, to change the Fellowship mission statement to reflect “the real purpose in the socialization of religion” stated on [UB 99:6.2](/en/The_Urantia_Book/99#p6_2).
+This new socialized religion based on the Fifth Epochal Revelation will initiate a new religious movement in the world. The Urantia Foundation will have as much powerover it as do Bible publishers over Christian churches — none. The Fellowship will also cease to have an organic function in this new religious movement, unless it turns itself into such a spiritual organization. Some of the Fellowship Societies are already moving in this direction. It would be inspiring, in my opinion, to change the Fellowship mission statement to reflect “the real purpose in the socialization of religion” stated on <a id="a73_604"></a>[UB 99:6.2](/en/The_Urantia_Book/99#p6_2).
 
 When such a spiritual organization is inaugurated, a new era in the dissemination of the teachings of _The Urantia Book_ will have begun. It will be an era when the concepts themselves will come before the book. And living the teachings will come before the concepts. It will be a time when the spiritual messages in the book will begin to hold sway in the souls of the mortals of Urantia.
 
@@ -59,3 +83,27 @@ If you are willing to help, let us begin to think about the mission statement of
 
 > _Richard S. Omura is a long time student of _The Urantia Book_, currently president of the First Society of Los Angeles, a General Councilor, and an advisor for the School of Meanings and Values. He is a production coordinator for Japanese television and has worked as a photographer, disc jockey, tour guide, and interpreter. Richard is currently working on a novel based on_ The Urantia Book.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Scientist Intrigued by The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="pr-2">Meta-Values ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

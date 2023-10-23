@@ -3,12 +3,36 @@ title: "The Future of Religion"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Religion, Future, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Fundamentalism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="pr-2">Interface: How Good is the Good News?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recently I listened to Dr. Anson Shupe of the Department of Sociology and Anthropology at Indiana-Purdue University at Fort Wayne give a lecture on “The Future of American Religion.” Dr. Shupe listed five major trends: (1) Increasing Religious Pluralism, (2) Numerical Decline of Membership in the Major Mainline Denominations and Continued Growth of More Conservative Denominations, (3) A continuation of Cult Scares, (4) The New Christian Right, and (5) An Increased Emphasis on, and Sensitivity to, Religious Influence in Physical/Mental Healing.
 
@@ -21,3 +45,27 @@ One does not need prophetic insight to see that this widespread unsettled condit
 This, it appears, is a description of the age long religious evolution which is taking place. Both the transition from polytheism to monotheism and the pilgrimage from perceiving a God of wrath to experiencing a God of love has taken eons of time and is still in process. The life and teachings of Jesus is a unique milestone in this odyssey. Early Christianity mixed Jesus' Advent and mission with the mystery religions of that era and developed a religion _about_ Jesus. The Middle Ages added unsavory institutional appendages to religion. The Protestant Reformation attempted to bring us back to the Bible as the basis of religious authority and open the way for a first hand, personal relationship with God. These are important milestones in religious development, but a clearer view of spiritual reality is desperately needed.
 
 The current religious unrest and spiritual searching portends a major turning point in our religious history. I believe the next spiritual reformation will bring us back to the religion _of_ Jesus and a universal view of the Fatherhood of God and the kinship of all humanity. It is my conviction that some day historical reflection will reveal that the coming of _The Urantia Book_ was the revelatory breakthrough which brought about the spiritual reformation of the 21 st century.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Fundamentalism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="pr-2">Interface: How Good is the Good News?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

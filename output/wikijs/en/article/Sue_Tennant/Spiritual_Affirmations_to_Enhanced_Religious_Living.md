@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Sue Tennant<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Spirituality_Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirituality Between the Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nina_Bravo/Human_Values">
+          <span class="pr-2">Human Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The ideal religious life is one in which the individual maintains unbroken communion with the indwelling spirit so that the inner life of reflection, meditation, and prayer transcends and transforms the outer life through loving service to the brother/sisterhood of humankind. This is called the religion of the spirit and differs from other religious practices in that it is personal, original, liberating, spontaneous and inclusive.
 
@@ -50,3 +74,27 @@ The spirit lives in me and in every way I am empowered to do the will of God. I 
 
 > _Sue Tennant is Vice-chair of North American Interfaith Network_
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Spirituality_Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirituality Between the Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nina_Bravo/Human_Values">
+          <span class="pr-2">Human Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,19 +3,43 @@ title: "The Mythology of The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Richard Bain<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Goals Not Creeds: Worship and Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jay_Newbern/Planetary_Ecumenism">
+          <span class="pr-2">Planetary Ecumenism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> _Jesus once said, “...the truth never suffers from honest examination.”_ ([UB 153:2.11](/en/The_Urantia_Book/153#p2_11))
+
+> _Jesus once said, “...the truth never suffers from honest examination.”_ (<a id="a36_76"></a>[UB 153:2.11](/en/The_Urantia_Book/153#p2_11))
 
 
 Yes, it is a provocative title. Sometimes when people think of mythology, they think of the stories of the Greek gods and Homer's epic tales, and they may equate such myths with fables. But it's not necessarily so. We know the fable is a fictional story; a myth may or may not be factual. A fable may have a moral, but a myth is more inclusive and broader in scope. In the words of Rollo May, “A myth is a way of making sense in a senseless world. Myths are narrative patterns that give significance to our existence...myths give us our sense of personal identity... make possible our sense of community...undergird our moral values....mythology is our way of dealing with the inscrutable mystery of creation...” [^1] Therefore, the point of the myth is not to give a set of facts, but rather to explain the phenomena in our lives and our world. Insofar as the myth is derived from facts, it is factual; but the value of the myth does not lie in its factuality, but rather in its utility in making sense of our lives. How does it do this?
 
-A well-known myth is the story of Job in the Bible. We could argue endlessly about whether there really was a Job and the idea of God willingly afflicting Job to prove a point. The point of the story is that Job's faith did not depend on the circumstances of his life. This was a valuable insight for the Jewish people, who were often conquered and frequently oppressed. Myths are a feature of most cultures. For example, almost all cultures have some sort of creation myth. But lest we think that myths are the sole province of only unsophisticated and prescientific peoples, consider the Big Bang theory. The ancients observed a volcano erupting and tried to figure out why; they came up with an anthropomorphic explanation. When a person becomes angry, he or she may explode in an angry outburst. Therefore, someone or something in that volcano is angry. How to stop the volcano? Give the volcano god something very valuable, such as someone's child. Just as the ancients observed the volcano and formed a hypothesis, astronomers observed the heavens and fashioned a myth based on their observations. From their observations, astronomers have concluded that the universe is expanding. If we run the cosmic expansion film backwards, the Big Bang appears to start out as a point in space. Therefore, in the eyes of the astronomers, there was a “Big Bang” at the beginning of time that started the expansion of time and space. The astronomers believe so strongly in this scenario that anyone who tries to cast doubts on this theory may find it hard to get a job in astronomy or funding for research projects; they are sacrificed to the Big Bang god. Whether or not it's true, the Big Bang myth provides an explanation for the universe and its expansion. It provides the framework _The Urantia Book_ tells us we need to explain the universe. ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+A well-known myth is the story of Job in the Bible. We could argue endlessly about whether there really was a Job and the idea of God willingly afflicting Job to prove a point. The point of the story is that Job's faith did not depend on the circumstances of his life. This was a valuable insight for the Jewish people, who were often conquered and frequently oppressed. Myths are a feature of most cultures. For example, almost all cultures have some sort of creation myth. But lest we think that myths are the sole province of only unsophisticated and prescientific peoples, consider the Big Bang theory. The ancients observed a volcano erupting and tried to figure out why; they came up with an anthropomorphic explanation. When a person becomes angry, he or she may explode in an angry outburst. Therefore, someone or something in that volcano is angry. How to stop the volcano? Give the volcano god something very valuable, such as someone's child. Just as the ancients observed the volcano and formed a hypothesis, astronomers observed the heavens and fashioned a myth based on their observations. From their observations, astronomers have concluded that the universe is expanding. If we run the cosmic expansion film backwards, the Big Bang appears to start out as a point in space. Therefore, in the eyes of the astronomers, there was a “Big Bang” at the beginning of time that started the expansion of time and space. The astronomers believe so strongly in this scenario that anyone who tries to cast doubts on this theory may find it hard to get a job in astronomy or funding for research projects; they are sacrificed to the Big Bang god. Whether or not it's true, the Big Bang myth provides an explanation for the universe and its expansion. It provides the framework _The Urantia Book_ tells us we need to explain the universe. (<a id="a41_1842"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 Supposedly, the scientific method was used to generate the Big Bang theory, but it is nearly impossible to eliminate bias from such an enterprise. The scientist is supposed to be an impartial observer, but too often emotional involvement gets in the way of his or her objectivity. I am sure that when people in our Urantia community try to be impartial observers of our community and our mythology we suffer the same problem. How might an impartial observer see our mythology and us?
 
@@ -29,7 +53,7 @@ One metaphor I have used previously to describe our relationship to the book is 
 
 ## What is Truth?
 
-When Jesus told Pontius Pilate, “... everyone who loves the truth hears my voice,” Pilate replied, “Truth, what is truth — who knows?” ([UB 185:3.5](/en/The_Urantia_Book/185#p3_5)) As we look at areas in _The Urantia Book_ that are a problem for us, we might well ask the same question, “What is truth?” When Jesus told the story of the Good Samaritan, was he telling a “true” story? Was this an incident that really happened? Many will protest that everyone knew that Jesus' stories were parables, and everyone accepted that the stories were invented to illustrate a point, not to relate the facts of some incident. 
+When Jesus told Pontius Pilate, “... everyone who loves the truth hears my voice,” Pilate replied, “Truth, what is truth — who knows?” (<a id="a55_136"></a>[UB 185:3.5](/en/The_Urantia_Book/185#p3_5)) As we look at areas in _The Urantia Book_ that are a problem for us, we might well ask the same question, “What is truth?” When Jesus told the story of the Good Samaritan, was he telling a “true” story? Was this an incident that really happened? Many will protest that everyone knew that Jesus' stories were parables, and everyone accepted that the stories were invented to illustrate a point, not to relate the facts of some incident. 
 
 Whether or not the story actually happened is irrelevant. The parable is just a vehicle to convey some truth even though the story may not be true in the literal sense. The same could be said about metaphors or Aesop's fables. But what about the stories in the Old Testament? Many are told as if they are the recounting of an actual incident, yet they strain our credulity. Consider the story of Jonah and the whale. Some Christians accept that a large fish actually swallowed Jonah and spit him out on dry land; other Christians label the story a flight of fancy. But those who argue over the factuality of the story miss the whole point, which is that God forgave the people of Nineveh and spared them because they did heed Jonah's call to repent. This was the truth of the story. In such cases, perhaps we should ask ourselves, “Which is more important, truth or fact?”
 
@@ -49,7 +73,7 @@ I remember a conversation with a fundamentalist Christian about the factuality o
 
 So, why did the authors include the Rodan papers? I suspect there were certain ideas contained in the source work used in the Rodan papers that the authors felt weren't covered elsewhere in the Jesus papers, so they inserted this information as a story. And after all, there were Greeks coming to see Jesus, and they certainly would have been familiar with Greek philosophy. Perhaps the Rodan papers give the story of the philosophical struggle these Greeks had in reconciling Greek philosophy with Jesus teachings. Should we feel annoyed that the authors didn't give us a hint that Rodan might be a fictional character? Is this yet another “time bomb”?[^2]
 
-Surely, the authors knew that some time someone would research the matter, and find the actual source of the ideas in the Rodan papers. Considering that this is an incident not reported in the Bible, it stands out as something to be investigated. Also, where else in the Jesus Papers is there such a dialogue between the Apostles and one individual? But all this does not destroy the truth carried in the Rodan papers. The concepts are just as true whether Rodan existed or not. And the concepts are those of one of our fellow mortals. There are several thousand such inclusions in the Jesus papers, according to the acknowledgement on [UB 121:8.12](/en/The_Urantia_Book/121#p8_12) of _The Urantia Book_. Now we can read the papers without wondering who really wrote them; we know the human source of much of the material in the book. Perhaps we should be grateful to the authors for rescuing these thoughts from the trash bin of time and giving them back to us.
+Surely, the authors knew that some time someone would research the matter, and find the actual source of the ideas in the Rodan papers. Considering that this is an incident not reported in the Bible, it stands out as something to be investigated. Also, where else in the Jesus Papers is there such a dialogue between the Apostles and one individual? But all this does not destroy the truth carried in the Rodan papers. The concepts are just as true whether Rodan existed or not. And the concepts are those of one of our fellow mortals. There are several thousand such inclusions in the Jesus papers, according to the acknowledgement on <a id="a75_636"></a>[UB 121:8.12](/en/The_Urantia_Book/121#p8_12) of _The Urantia Book_. Now we can read the papers without wondering who really wrote them; we know the human source of much of the material in the book. Perhaps we should be grateful to the authors for rescuing these thoughts from the trash bin of time and giving them back to us.
 
 ## The Fruits of Study
 
@@ -59,7 +83,32 @@ _The Urantia Book_ provides us with a mythology to live by; a mythology that giv
 
 Liberal Christians have long since ceased to view the Bible as a history or science book. Perhaps we in the Urantia community need to adopt the same point of view about _The Urantia Book_. Liberal Christians long ago learned to winnow the wheat from the chaff as they study the Bible; do we have some things that belong on the threshing floor instead of in the grain bins? I believe it's time to view the Fifth Epochal Revelation as a useful tool, as a series of guideposts on the eternal path rather than an infallible document.
 
-Because _The Urantia Book_ has such comprehensive answers to questions about life and death, it is a powerful mythology. While we may be mesmerized by its powerful truths, its power should be not to seduce our minds but to lead us to a closer relationship to God. We need to remind ourselves that _The Urantia Book_ isn't an end in itself. Rather it is the doorway to a larger reality: the “eternal adventure.” ([UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
+Because _The Urantia Book_ has such comprehensive answers to questions about life and death, it is a powerful mythology. While we may be mesmerized by its powerful truths, its power should be not to seduce our minds but to lead us to a closer relationship to God. We need to remind ourselves that _The Urantia Book_ isn't an end in itself. Rather it is the doorway to a larger reality: the “eternal adventure.” (<a id="a85_412"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Goals Not Creeds: Worship and Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jay_Newbern/Planetary_Ecumenism">
+          <span class="pr-2">Planetary Ecumenism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

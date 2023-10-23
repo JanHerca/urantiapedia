@@ -3,12 +3,36 @@ title: "Significant Books: “Truth in Religion” By Mortimer Adler"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Religion, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Quotations from The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="pr-2">Significant Books: “God and Religion in the Postmodern World” By David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Macmillan, 1990, 162pp.
 
@@ -45,6 +69,31 @@ Another way of saying it, I believe, is that while that all human understanding 
 In my estimation Adler's book is a breath of fresh air that does in fact address and redress errors we've grown accustomed to, errors that make neither logical nor common sense.
 
 I look forward to his forthcoming work in which he will share his own personal convictions in matters of faith and religious truth-the culmination of his own life's work, and, I take it, his own search for truth.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Quotations from The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="pr-2">Significant Books: “God and Religion in the Postmodern World” By David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

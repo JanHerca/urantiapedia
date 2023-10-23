@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing the Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Edward O. Wilson
 Knopf, 1998, 298 pp.
@@ -32,3 +53,25 @@ Steve Pope in reviewing _Consilience_ in the _Christian Century_ says, "This app
 The only greater and more comprehensive description of the unity of science, philosophy, the arts, and religion with which I am acquainted is _The Urantia Book_. Theologians long for this kind of unity of knowledge. Hopefully, these religious leaders and people like Edward Wilson will discover it.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing the Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Should a Urantia Church be Formed?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Future, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Sue Tennant<br>© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are We Starting a New Religion?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="pr-2">Prayer and Worship — As We Should Understand It</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 With all due respect for some fine churches and wellmeaning Urantians, how could a “Urantian Church,” established in Boulder or any city anywhere in the world, possibly be universal enough in appeal to all races, religions and cultures, reflecting the global, universal and cosmic paradigms of the Urantia Papers?
 
@@ -29,3 +53,27 @@ And, I see SETSs maintaining a worldwide network of cooperation and mutual shari
 
 > _Sue Tennant is author of “Crossing Cultures in Business,” founder of the Ontario Chapter of the World Interfaith Education Association, and, along with her husband Derek, the owner of the Silver Springs retreat center._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are We Starting a New Religion?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="pr-2">Prayer and Worship — As We Should Understand It</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

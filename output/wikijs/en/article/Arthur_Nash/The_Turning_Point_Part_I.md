@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Arthur Nash<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Sincere “Spiritual Attitude” = “Positive Doing”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Real_Life_Outreach">
+          <span class="pr-2">Real Life Outreach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Excerpted from the book, “The Golden Rule in Business,” copyright 1923, this material has significance for Urantian scholars for three reasons. It provides first-source information about the seminal religious beliefs of Dr. William S. Sadler, who, in his youth was an ordained Seventh Day Adventist minister, and contemporaneous to Nash. Clearly, these beliefs are far afield from the Urantia Papers. Second, Part I of this excerpt chronicles Nash's devotion to his church, and the misguided fundamentalism of the organization that resulted in his expulsion. It is inspiring to read the birth of personal religion in Nash by means of loving service-the great gospel of Jesus of Nazareth. The third reason for examining Nash's work is that it may well have been a secondary human source for a key concept of the Urantia Papers, as we shall see in Part II._
 
@@ -78,3 +102,27 @@ Some of my readers may recall the story of the workman employed on the building 
 
 > _Part II of Arthur Nash's story will be published in the Spring \& Summer edition of _The Spiritual Fellowship Journal_. In this part Nash demonstrates the supplanting of the profit motive in business with the service motive, as predicted in the Urantia Papers, will one day take place. Moreover, Nash may well be the original human source of the proclamation that the religion of Jesus has not failed, it has never been seriously tried on a large scale._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Sincere “Spiritual Attitude” = “Positive Doing”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Real_Life_Outreach">
+          <span class="pr-2">Real Life Outreach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

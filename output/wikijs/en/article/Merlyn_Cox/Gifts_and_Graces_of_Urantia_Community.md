@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Merlyn Cox<br>© 2006 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume16_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2006-last-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Last Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="pr-2">Christianity in Transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Urantia Community is a diverse, talent rich, and complex community. As it continues to grow, it will surely become even more so. This can be both a source of satisfaction and of some consternation, for while I stand in awe of the gifts and graces of individuals in the community, I am at times dismayed at the lack of unity and common vision. Realistically, it should not come as a surprise; idealistically, it is disappointing and even discouraging at times.
 
@@ -48,3 +72,27 @@ I believe, however, that we can, in love, grow to understand and appreciate our 
 - Meredith Sprunger highlights the challenges facing those who wish to minister and reach out to others, along with a list of principles that should help guide us in our actions.
 - Lee Loots looks at the process and the “art of education,” with suggestions for leaders of Urantia education and study groups.
 - Richard Bain explores questions and issues that arise as readers seek to understand the cosmology of _The Urantia Book_ — in this case the relation of the Milky Way galaxy and the superuniverse of Orvonton.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume16_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2006-last-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Last Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="pr-2">Christianity in Transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

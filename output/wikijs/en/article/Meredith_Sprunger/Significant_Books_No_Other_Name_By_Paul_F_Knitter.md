@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Media_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Media and Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="pr-2">Inner Guidance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Orbis Books, 1985, 231 pp.
 
@@ -27,3 +51,27 @@ A Christian minority position is emerging among thinkers like John Hick, Raimund
 Paul Knitter maintains that Jesus was profoundly theocentric and seeks to establish a theocentric Christology. Such a view is consistent with historic Christianity and harmonious with the signs of the times. Religion grows by seeking truth through ever expanding relationships. This truth is leading us toward a global theology. Jesus of Nazareth is the unifying expression of God's love which will continue to transform our world.
 
 This is a book of first-rate creative theology which will challenge the reader to rethink basic Christian concepts. It should be required reading for anyone who wishes to keep abreast of the growing edge of theological thinking regarding the doctrine of salvation and Christian attitudes toward other religions. Knitter's view is harmonious with the Christology of _The Urantia Book_ which presents Jesus as both a unique universe personality and an inclusive mediator for all God seeking people.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Media_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Media and Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="pr-2">Inner Guidance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

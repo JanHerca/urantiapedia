@@ -3,12 +3,36 @@ title: "Interfaith Could Brighten Future For Our World"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Future, Interfaith, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Sue Tennant<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Goddess">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Goddess</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="pr-2">Why Some Ministers Don't Read The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recently in Chicago, at the _Parliament For The World's Religions_ (a historic centenary celebration of the Interfaith Movement), I saw the possibility of a brighter future for religion, the Christian Church, and our world.
 
@@ -30,7 +54,7 @@ Unfortunately, I know few _Urantia Book_ readers or members of the Christian Chu
 
 > The many religions of Urantia are all good to the extent that they bring man to God and bring the realization of the Father to man. It is a fallacy for any group of religionists to conceive of their creed as The Truth; such attitudes bespeak more of theological arrogance than of certainty of faith. There is not a Urantia religion that could not profitably study and assimilate the best of the truths contained in every other faith, for all contain truth. Religionists would do better to borrow the best in their neighbors' living spiritual faith rather than to denounce the worst in their lingering superstitions and outworn rituals.
 > 
-> All of these religions have arisen as a result of man's variable intellectual response to his identical spiritual leading. They can never hope to attain a uniformity of creeds, dogmas, and rituals — these are intellectual; but they can, and some day will, realize a unity in true worship of the Father of all, for this is spiritual, and it is forever true, in the spirit all men are equal. ([UB 92:7.3-4](/en/The_Urantia_Book/92#p7_3))
+> All of these religions have arisen as a result of man's variable intellectual response to his identical spiritual leading. They can never hope to attain a uniformity of creeds, dogmas, and rituals — these are intellectual; but they can, and some day will, realize a unity in true worship of the Father of all, for this is spiritual, and it is forever true, in the spirit all men are equal. (<a id="a56_393"></a>[UB 92:7.3-4](/en/The_Urantia_Book/92#p7_3))
 
 > _Because of the enlarged concepts and facts revealed in_ The Urantia Book, _students have been given a rare and thrilling education, one which compels readers to include all of humankind as the children of God, and to place the highest priority on Jesus' command to work for the spiritual well-being of the whole planet._
 
@@ -38,3 +62,27 @@ The multifaith resources in large North American cities are rich indeed. The wor
 
 > _Sue Tenant attended Wycliffe College, Toronto School of Theology. She is a former Toronto publicist and author of Crossing Cultures in Business. She is presently Director of the World Interfaith Education Association._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Goddess">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Goddess</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="pr-2">Why Some Ministers Don't Read The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

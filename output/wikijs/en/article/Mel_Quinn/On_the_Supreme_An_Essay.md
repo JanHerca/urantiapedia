@@ -3,12 +3,33 @@ title: "On The Supreme: An Essay"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Supreme, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Mel Quinn<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Significant_Books_Astrobiology_by_Rhawn_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: “Astrobiology: The Origins of Life and the Death of Darwinism” by Rhawn Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In thirty years of acquaintance with _The Urantia Book_, no part of the revelation has inspired me more than the papers on the Supreme.
 
@@ -62,3 +83,25 @@ This is why the Father sends personality-bare fragments of himself to indwell us
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Significant_Books_Astrobiology_by_Rhawn_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: “Astrobiology: The Origins of Life and the Death of Darwinism” by Rhawn Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

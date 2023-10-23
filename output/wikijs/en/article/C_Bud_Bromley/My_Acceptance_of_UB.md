@@ -3,12 +3,36 @@ title: "The Urantia Book and Spiritual Renewal"
 description: "My Acceptance of The Urantia Book"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Bud Bromley<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ambiguities of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="pr-2">Sermon: Behold, I Am Doing a New Thing!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A Christian reading _The Urantia Book_ comes across a number of ways in which it agrees entirely with the teachings of Jesus as recorded in the Bible. But it also disagrees in several ways with orthodox theology, particularly with some points of Pauline theology. Since both orthodox Christians and students of _The Urantia Book_ uphold Jesus of Nazareth, God's Son, as the world's savior, it seems reasonable that we should try to understand each others' viewpoints for the purposes of working together, as much as possible, against the worldwide breakdown of intelligent morality.
 
@@ -30,7 +54,7 @@ Further supporting this premise, Jesus tells us ([John 15:12](/en/Bible/John/15#
 
 When I was first introduced to _The Urantia Book_ I was extremely skeptical. A new revelation? I had looked into Islam. I had examined Bahai beliefs. I had investigated Mormonism. I had inspected the Oahspi Bible. Although each had some good points, all were, in my opinion, clearly inferior to the teachings of Jesus found in the Bible. So much for new revelations; they come, they go; so what? But then I read in _The Urantia Book_:
 
-> The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath. ([UB 4:5.4](/en/The_Urantia_Book/4#p5_4))
+> The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath. (<a id="a56_568"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4))
 
 I was deeply moved — I had been yearning for someone to dare to say that! This book was talking about no small God! And I've been reading it with increasing acceptance ever since. I do not think that I have ever let _The Urantia Book_ coerce my thinking. However, I have often been excited to find that concepts in it either parallel ideas which I have been considering, or, more often, are better than what I had conceived, which is both thrilling and humbling.
 
@@ -81,3 +105,27 @@ In conclusion, it seems to me that unity in Christ should be more important than
 ## Notes
 
 [^1] To envision a light year, consider a meter stick, with its 1000 millimeters, to represent a light year. If you could drive a car at 65 miles per hour day and night, year after year, nonstop, for 10,317 years, then you would have driven just the first tiny millimeter of that light year.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ambiguities of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="pr-2">Sermon: Behold, I Am Doing a New Thing!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

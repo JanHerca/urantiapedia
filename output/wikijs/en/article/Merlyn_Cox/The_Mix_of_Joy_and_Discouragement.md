@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Merlyn Cox<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Great Urantians_Lest_We_Forget_Peggy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Great Urantians. Lest We Forget — Peggy Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Toward_Spiritual_Fellowship">
+          <span class="pr-2">Toward Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recently one of the members of a local study group introduced his new pastor to The Urantia $B o o k$, a practice he has exercised for many years. The pastor seemed to show genuine interest, unlike most of his predecessors. He is a fellow pastor that I recently met and lives not far away, and I rejoiced at the thought that he might discover this amazing resource-in truth, a revelation.
 
@@ -36,3 +60,27 @@ May God strengthen us and give us the grace to do all of these.
 
 > _Merlyn Cox is a pastor serving in the North Indiana Conference of the United Methodist Church. He has been a Urantia Book reader for 18 years, and worked with Meredith Sprunger in initiating The Spiritual Fellowship Journal in 1991, and served for ten years as associate editor. He is currently chairman of the Education Team for The Spiritual Fellowship._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Great Urantians_Lest_We_Forget_Peggy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Great Urantians. Lest We Forget — Peggy Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Toward_Spiritual_Fellowship">
+          <span class="pr-2">Toward Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,14 +3,38 @@ title: "Goals Not Creeds: Worship and Service"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Worship, Service, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Rosey Lieske<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The State of the Urantia Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="pr-2">The Mythology of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “But the great difficulty of finding a new and satisfying symbolism is because modern men, as a group, adhere to the scientific attitude, eschew superstition, and abhor ignorance, while as individuals they all crave mystery and venerate the unknown.” ([UB 87:7.9](/en/The_Urantia_Book/87#p7_9))
+
+> “But the great difficulty of finding a new and satisfying symbolism is because modern men, as a group, adhere to the scientific attitude, eschew superstition, and abhor ignorance, while as individuals they all crave mystery and venerate the unknown.” (<a id="a36_254"></a>[UB 87:7.9](/en/The_Urantia_Book/87#p7_9))
 
 Every person must decide for themselves what the central message of the revelation really is. Some point to _The Urantia Book_ as the potential bridge between science and religion, and others to the awesome map that provides us with our first real glimpse of the length and breadth of creation. For me, the central message is much simpler than any of these. It's the message of the aborted gospel of the Master — of the Fatherhood of God and the Brotherhood of Man — and of their realization through worship and service.
 
@@ -38,7 +62,7 @@ We've honestly thought that by adhering to more objective, organizational format
 
 The problem with all this is that it forces our truer religious drives underground. It subverts all the drives pertaining to our genuine spiritual hunger to experience God at our center — to put him first and to collectively, as well as individually, come to him. Even to know ourselves as a community that ***can*** follow Michael to God and service on more universal levels.
 
-Our determination to leave religion out of it, so to speak, and put the book itself in the middle has created a very strange situation. Because our religious fears cannot be examined in the light of collective faith, we've become stalled and stilted, prone to some of the very religious bugaboos we fear. “Bad religion” has come our way, regardless. It turns out that we don't even need to create a church to experience it, because _bad religion_ has everything to do with unreligious activities being done within a spiritual community. “To become fetishes, words had to be considered inspired, and the invocation of supposed divinely inspired writings led directly to the establishment of the _authority_ of the church, while the evolution of civil forms led to the fruition of the _authority_ of the state.” ([UB 88:2.10](/en/The_Urantia_Book/88#p2_10))
+Our determination to leave religion out of it, so to speak, and put the book itself in the middle has created a very strange situation. Because our religious fears cannot be examined in the light of collective faith, we've become stalled and stilted, prone to some of the very religious bugaboos we fear. “Bad religion” has come our way, regardless. It turns out that we don't even need to create a church to experience it, because _bad religion_ has everything to do with unreligious activities being done within a spiritual community. “To become fetishes, words had to be considered inspired, and the invocation of supposed divinely inspired writings led directly to the establishment of the _authority_ of the church, while the evolution of civil forms led to the fruition of the _authority_ of the state.” (<a id="a64_811"></a>[UB 88:2.10](/en/The_Urantia_Book/88#p2_10))
 
 The revelators themselves tried to save us from the misstep of giving birth to a Urantian religion of authority by emphasizing that the book is not a divinely inspired work. Yet our own deeply embedded fear of default has led many of us to imbue the Foundation's “mandates” with the quality of divinity. The book tells us, in the quote above, that this kind of religious psychology is fetishism. But since we've thought ourselves immune to such things by virtue of investing in organizations rather than churches, we've unintentionally fallen victim and enabled a small group of individuals to invoke these “divine mandates,” subsequently forming a very effective little orthodoxy, an orthodoxy which lost no time in attaching itself to the secular institution of the government. Now, we have one of the oldest religious bugaboos of all in our midst a conservative and fearful minority empowered by secular law to control other religionists — a Urantian religion of authority. (Look Ma-no church!)
 
@@ -64,8 +88,32 @@ We also need to be more willing to accept responsibility regarding the gospel me
 
 We are told that someday “goals not creeds” will unify religionists. The main problem with the gospel is that it's deceptively simple. We agree with it; therefore we think we've already explored it. Worship and service, emphasized and truly put into action among us, would dynamically shift our focus. For one thing, we might begin to see how far from the mark we really are in terms of connecting with its potential. Yes, it's a simple two-part approach — but the Master wasn't stupid. He knew that the simpler the approach, the more universally it could be applied. He wants it to be universally applied, starting with us. We'd have a lot to learn. We'd need to leave room for the Father to put people together for service. We couldn't have it all worked out ahead of time, with ourselves pre-aligned according to shared opinions. We do need to broaden our outlook on service, too. The Master viewed all service as valuable-not merely that which pertained specifically to spiritual or religious work.
 
-Look how the angels are organized for planetary service on [UB 114:6.1-20](/en/The_Urantia_Book/114#p6_1). The universe concept of service is truly broad. What would it mean to us and the revelation to consciously embrace this more universal approach to both worship and service and align with it. It would open us up! People in the movement proper, struggling to serve God just as they are, would receive much more familial support. People on the outside would come to associate all kinds of lovely efforts with the Urantia movement, coming in droves to see what is inspiring us, instead of witnessing the vicious little family squabble we're into now, and therefore staying away.
+Look how the angels are organized for planetary service on <a id="a90_59"></a>[UB 114:6.1-20](/en/The_Urantia_Book/114#p6_1). The universe concept of service is truly broad. What would it mean to us and the revelation to consciously embrace this more universal approach to both worship and service and align with it. It would open us up! People in the movement proper, struggling to serve God just as they are, would receive much more familial support. People on the outside would come to associate all kinds of lovely efforts with the Urantia movement, coming in droves to see what is inspiring us, instead of witnessing the vicious little family squabble we're into now, and therefore staying away.
 
 We need an emphasis on goals and more goals, as individuals, small groups, and organizations, as a spiritual family. We need worship, meditation, and prayer goals, along with service goals, made and met in a million combinations among us, with the Father smack in the center and in the broad light of day. We need worship and service bulletin boards for the public posting of these goals. We need worship and service resources also, listings of the myriad of efforts already in motion in the world, to aid us in connecting with our larger family of spiritual siblings.
 
 We need not wait for an artificial alignment between organizations to initiate the birth of spiritual community among us. Human organizations can never do what the Father can. We only need to give ourselves permission to come together in the midst of our mess and put the emphasis on these deceptively simple lines — listening to the Father to guide us. It's already starting to happen among us anyway: in spite of all our limitations, prejudices, and immaturities; in spite of our history and preconditioning — and even in spite of our morbid fear of messing up. (We will mess up!) It's already happening. We just need to help it happen more.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The State of the Urantia Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="pr-2">The Mythology of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

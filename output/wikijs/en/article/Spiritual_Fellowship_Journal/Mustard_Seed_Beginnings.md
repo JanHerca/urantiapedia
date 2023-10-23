@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/How_is_Society_Enculturated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How is Society Enculturated?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="pr-2">Can We, Should We, Get Organized?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Universal Father, we thank you for your marvelous 
 plan for the finite creation.
@@ -52,3 +76,28 @@ centering in the realities of your kingdom.
 We thank you for your Supreme plan of love for your 
 finite creation. We rejoice that we are your children 
 in time and eternity.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/How_is_Society_Enculturated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How is Society Enculturated?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="pr-2">Can We, Should We, Get Organized?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

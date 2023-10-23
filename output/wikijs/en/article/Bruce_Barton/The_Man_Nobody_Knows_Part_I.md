@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Bruce Barton<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Our_Urantian_in_Pakistan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Urantian in Pakistan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _I was one of those who are called by some: “the unchurched.” As a Urantian, I felt at times this gave me great advantages over many other readers. For one thing, I had almost no religious baggage — I had my own acquired idea of what Jesus was really like. I almost never attended church, and although the family was technically Catholic, I knew almost nothing of the religion. One day, at about the age of nine, I came across an old book in a box in our basement. It was titled: “The Man Nobody Knows ... a Discovery of the Real Jesus.” It was written by Bruce Barton, who (I would discover many years later) was a famous advertising man. This book made a great impression on my young mind. Somehow I retained this book over the years. As a Urantian, many years later, I am amazed how close Bruce Barton came in 1924 to describing what I believe was the real Jesus. I hope you enjoy these excerpts._
 > 
@@ -213,5 +234,27 @@ Even Pilate felt it. The two men offered a strange contrast standing there-the R
 
 _The Urantia Papers — The Fifth Epochal Revelation — provides us this additional, and revelatory, information:_
 
-> “Indeed, the fear-ridden Roman governor little dreamed that at just that moment the universe stood at attention, gazing upon this unique scene of its beloved Sovereign thus subjected in humiliation to the taunts and blows of his darkened and degraded mortal subjects. And as Pilate spoke, there echoed throughout all Nebadon, ”Behold God and man!“ Throughout a universe, untold millions have ever since that day continued to behold that man, while the God of Havona, the supreme ruler of the universe of universes, accepts the man of Nazareth as the satisfaction of the ideal of the mortal creatures of this local universe of time and space. In his matchless life he never failed to reveal God to man. Now, in these final episodes of his mortal career and in his subsequent death, he made a new and touching revelation of man to God.” [[UB 186:2.11](/en/The_Urantia_Book/186#p2_11)]
+> “Indeed, the fear-ridden Roman governor little dreamed that at just that moment the universe stood at attention, gazing upon this unique scene of its beloved Sovereign thus subjected in humiliation to the taunts and blows of his darkened and degraded mortal subjects. And as Pilate spoke, there echoed throughout all Nebadon, ”Behold God and man!“ Throughout a universe, untold millions have ever since that day continued to behold that man, while the God of Havona, the supreme ruler of the universe of universes, accepts the man of Nazareth as the satisfaction of the ideal of the mortal creatures of this local universe of time and space. In his matchless life he never failed to reveal God to man. Now, in these final episodes of his mortal career and in his subsequent death, he made a new and touching revelation of man to God.” <a id="a236_837"></a>[[UB 186:2.11](/en/The_Urantia_Book/186#p2_11)]
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Our_Urantian_in_Pakistan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Urantian in Pakistan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

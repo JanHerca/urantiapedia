@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Dr. Bruce R. Jackson<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family — Birthplace of Cosmic Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="pr-2">A Sincere “Spiritual Attitude” = “Positive Doing”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Are We Living in a Renaissance?
 
@@ -76,3 +100,27 @@ This is indeed a tall order. Are we ready to make the effort? The fields are whi
 
 > _Bruce Jackson is Assistant Professor of Humanities at Lincoln University of Missouri. He performs and composes jazz, popular and church music for his family band with his three sons (17, 15, and 12). This native of Arkansas currently lives in Columbia, MO._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family — Birthplace of Cosmic Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="pr-2">A Sincere “Spiritual Attitude” = “Positive Doing”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

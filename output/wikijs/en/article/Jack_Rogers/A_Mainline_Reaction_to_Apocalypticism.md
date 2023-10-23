@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: “God and Religion in the Postmodern World” By David Ray Gritlin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="pr-2">The Dawn of a New Age</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For a number of years I have had a special interest in examining the messages of some current televangelists. Among many of the more fundamentalist televangelists there seems to be a common theme in their preaching that might be of some concern to both mainline clergy and readers of _The Urantia Book_.
 
@@ -61,3 +85,27 @@ Finally, the religious fundamentalists and reactionaries contribute a helpful se
 The future of human destiny is in good hands. Even though we do not have a spiritual crystal ball to foretell the vicissitudes of human destiny, the sovereignty of God controls the culmination of history. The overcontrol of the Creator will assure that divine purposes and objectives will be achieved. We see a demonstration of this truth as we look at the spiritual depth and hunger of the Soviet people as they emerge from the despair of Marxist atheism.
 
 Finally, I am convinced that Christ's return to our planet will surpass our highest human expectations and be far more glorious than any of us imagine! We need not conjure up scenarios of disaster to win souls for the kingdom. The program of the Master emphasizing the priorities of truth, beauty, and goodness actualized through love and service is sufficient to inspire all people to enter the kingdom and share the joyful knowledge that life is progressively enriching and eternal.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: “God and Religion in the Postmodern World” By David Ray Gritlin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="pr-2">The Dawn of a New Age</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

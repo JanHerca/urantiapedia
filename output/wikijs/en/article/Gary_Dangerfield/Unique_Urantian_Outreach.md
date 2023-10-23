@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quantum Mysteries and The Urantia Papers ( Part II )</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="pr-2">Personal and Global Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Gary Dangerfield is a 20-year reader in Eureka Springs Arkansas. For many years he was a Christian minister, but he was haunted by the idea that there must be something more, something he had not yet found. _The Urantia Book_ satisfied that hunger in Gary. He says he continues to find in the pages of _The Urantia Book_ the breathtaking inspiration of a “Bigger God.” Even before finding the book, Gary used to tell his audiences, “No matter how grand you can ever conceive God to be, He will always remain bigger and grander than that concept.” Gary is now semi-retired, and owns a seasonal woodcrafting shop in the beautiful and historic Ozark mountain town of Eureka Springs, Arkansas. He satisfies his desire to outreach with a number of pamphlets designed to give mainstream Christians the idea of a “Bigger God” as depicted in the Urantia Papers. We reprint below two of his many titles._
 {.is-info}
@@ -133,3 +157,27 @@ That kind of perspective will work wonders in helping you with the difficult cir
 > 34 Forest Lane
 > Eureka Springs, AR 72632
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quantum Mysteries and The Urantia Papers ( Part II )</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="pr-2">Personal and Global Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

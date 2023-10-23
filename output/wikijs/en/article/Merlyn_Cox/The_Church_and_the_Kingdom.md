@@ -3,12 +3,36 @@ title: "The Church and the Kingdom"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Church, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Spiritual_Courage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Courage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="pr-2">Sharing a Gift Beyond Words</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Dearly beloved, the church is of God, and will be preserved to the end of time... All, of every age and station, stand in need of the means of grace which it alone supplies.” So begins the order for Confirmation and Reception into one of our major protestant churches. It rings with authority and it echoes the fundamental conviction that God has called a covenant people to share the Good News with all the earth.
 
@@ -32,6 +56,30 @@ The church need not take itself so seriously in order to take it's mandate serio
 
 We seem not to appreciate Karl Barth's affirmation that faith “has to do with the Kingdom and nothing at all to do with the church.” Until we do, our defensive and self- justifying posture will only obscure the Good News to which we are called to bear witness.
 
-_The Urantia Book_ makes it clear that, while the church has been the best exponent of Jesus' lifework on earth, it has fallen far short of the living spiritual fellowship Jesus envisioned for his followers. In fact, “the Christian churches of the twentieth century stand as great, but wholly unconscious, obstacles to the immediate advance of the real Gospel — the teachings of Jesus of Nazareth.” ([UB 195:10.8](/en/The_Urantia_Book/195#p10_8))
+_The Urantia Book_ makes it clear that, while the church has been the best exponent of Jesus' lifework on earth, it has fallen far short of the living spiritual fellowship Jesus envisioned for his followers. In fact, “the Christian churches of the twentieth century stand as great, but wholly unconscious, obstacles to the immediate advance of the real Gospel — the teachings of Jesus of Nazareth.” (<a id="a58_400"></a>[UB 195:10.8](/en/The_Urantia_Book/195#p10_8))
 
 The survival of the church as we know it is a secondary issue compared to the certain triumph of the Kingdom of God. As John said to the Israelites who prided themselves on their heritage, “Do not presume to say to yourselves, 'We have Abraham as our ancestors'; for I tell you, God is able from these stones to raise up children to Abraham.” _The Urantia Book_ holds out the great hope that the church will grow out of its “larval stage” and will be transformed by, and proclaim more clearly, the true Gospel to the whole earth: the Gospel _of_ Jesus rather than the Gospel about Jesus. If it fails to do so, God will, no doubt, raise up new prophets and a people who will.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Spiritual_Courage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Courage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="pr-2">Sharing a Gift Beyond Words</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

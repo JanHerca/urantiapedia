@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Gard Jameson<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/God_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God Language</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="pr-2">Interfaith Could Brighten Future For Our World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This paper is taken from an address given to a group of Unitarian Universalists._
 
@@ -41,4 +65,28 @@ May the holistic reality of this Divine Parent within you bless you, sustain you
 > _Gard Jameson is a Certified Public Accountant and teaches comparative religion at the University of Nevada._
 {.is-info}
 
-> “The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus.” ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+> “The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus.” (<a id="a67_336"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/God_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God Language</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="pr-2">Interfaith Could Brighten Future For Our World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

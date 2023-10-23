@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/New_Religious_Movements">
+          <span class="pr-2">New Religious Movements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Spring, 1999, Volume 9, No. 1
 
@@ -149,9 +170,31 @@ History demonstrates that only religious organizations, institutional religion, 
     - A New Morality from Science: Beyondism
     - Consilience: The Unity of Knowledge
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/New_Religious_Movements">
+          <span class="pr-2">New Religious Movements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 
-[^1]: See [UB 87:7.6-10](/en/The_Urantia_Book/87#p7_6)
+[^1]: See <a id="a197_10"></a>[UB 87:7.6-10](/en/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

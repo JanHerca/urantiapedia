@@ -3,12 +3,36 @@ title: "Where are the Great Urantia Leaders and Teachers?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Leadership, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Larry Watkins<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personal and Global Peace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eric_Cosh/Is_this_a_Boring_Movement">
+          <span class="pr-2">Is this a Boring Movement?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the Fall and Winter 2002-2003 issue of _The Spiritual Fellowship Journal_, an editorial once more brought up the recurring question: “_Where are the great Urantia Leaders and Teachers?_” It's a question often voiced among Urantians since, in the beginning days of the movement, the future unfoldment of the revelation was thought to have to come through the establishment of thousands of study groups and through trained Urantia teachers instructing the public in Urantian science, religion, history, and philosophy.
 
@@ -48,3 +72,27 @@ Of the 45,285 sentences in _The Urantia Book_, 41,324 are unique within the firs
 This and other statistical observations about the text of _The Urantia Book_ can be found at:
 
 http://www.ubook.org/lwatkins/UBStats/StatisticsIndex.htm
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personal and Global Peace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eric_Cosh/Is_this_a_Boring_Movement">
+          <span class="pr-2">Is this a Boring Movement?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

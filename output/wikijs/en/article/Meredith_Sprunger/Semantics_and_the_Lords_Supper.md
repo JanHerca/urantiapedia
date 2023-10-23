@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Quest_for_Immortality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Quest for Immortality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_Atonement_Doctrine">
+          <span class="pr-2">The Atonement Doctrine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Long before I read _The Urantia Book_ I realized the picture of God implied in the Pauline blood atonement doctrine was not the view of the heavenly Father that Jesus taught. Some aspects of the communion liturgy bothered me: “Eat this, for it is the body of Christ, broken for you,” and “Drink this, for it is the blood of Christ, shed for you,” didn't seem to harmonize with the spirit of the life and teachings of Jesus. This concern was heightened when in the church I was serving a perceptive woman, who had a transubstantiation view of the Eucharist (Roman Catholic doctrine that the elements are changed into the actual body and blood of Jesus) told me, “I refuse to participate in the communion service because it is suggestive of cannibalism.” I was shocked! But I understood the logic of her reasoning.
 
@@ -22,6 +46,30 @@ It was time, I decided, to take a serious look at the semantics of the communion
 > 
 > This supper of remembrance, when it is partaken of by those who are Son-believing and God-knowing, does not need to have associated with its symbolism any of man's puerile misinterpretations regarding the meaning of the divine presence, for upon all such occasions the Master is _really present_....
 > 
-> “And as often as you do this, do it in remembrance of me. And when you do remember me, first look back upon my life in the flesh, recall that I was once with you, and then, by faith, discern that you shall all some time sup with me in the Father's eternal kingdom.” ([UB 179:5.1-9](/en/The_Urantia_Book/179#p5_1))
+> “And as often as you do this, do it in remembrance of me. And when you do remember me, first look back upon my life in the flesh, recall that I was once with you, and then, by faith, discern that you shall all some time sup with me in the Father's eternal kingdom.” (<a id="a48_269"></a>[UB 179:5.1-9](/en/The_Urantia_Book/179#p5_1))
 
 It is my hope that mainline Christian ministers will recognize the well-meaning but erroneous implications regarding the nature of God implied in the Eucharist liturgy and change it to harmonize with Jesus' teachings regarding the heavenly Father.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Quest_for_Immortality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Quest for Immortality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_Atonement_Doctrine">
+          <span class="pr-2">The Atonement Doctrine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

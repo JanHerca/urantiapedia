@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="pr-2">The Sherman Diaries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***for Students & Believers in the Revelation of the Urantia Papers***
 
@@ -129,4 +150,25 @@ Suggested annual donation: \$10. Please make checks payable to: The Spiritual Fe
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> “When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goesl — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.” _The Urantia Papers_, [UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+> “When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goesl — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.” _The Urantia Papers_, <a id="a152_317"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="pr-2">The Sherman Diaries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

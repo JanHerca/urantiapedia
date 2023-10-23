@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Raveill<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Service Adventure in Guatemala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="pr-2">Compare: Human Concepts Paralleled with The Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 My wife and I discovered _The Urantia Book_ in 1979 while visiting in the home of friends. It was prominently displayed on the coffee table in the living room. My wife casually began reading the book and then called it to my attention. We were interested enough to note the name of the publisher, and sent to Chicago for a copy. A few days later the Big Blue Book arrived and almost immediately we received a friendly phone call from Ila Hall, a complete stranger, inviting us to a _Urantia Book_ Study Group that met in her home on Sunday afternoons. Ila and Loren Hall lived in Southwest Kansas City Missouri about 35 miles from our home in Independence, but we decided to accept the invitation, at least for one time. We attended Ila Hall's study group for more than 10 years and learned to love Ila and Loren and share their love for _The Urantia Book_.
 
@@ -39,3 +63,27 @@ You may not have a Barnes & Noble bookstore nearby but there are community rooms
 
 > “All the great religions claim truth for their beliefs whether they deny there is truth in other religions or acknowledge that there is some measure of truth in some or all of the others. But, while claiming ... truth for their beliefs, all do not assume or acknowledge the obligation to proselytize — to undertake missionary activities throughout the world aimed at converting as many individuals as possible ... What is the significance of the fact that, while each of the great religions claim truth for its factual or moral beliefs ... only some religions undertake missionary activities and attempt to make converts, while others do nothing of the kind, and some even operate under the obligation not to proselytize or convert? If a religion claims truth for its beliefs, why does it not seek to universalize itself? Should not the truth its communicants espouse be shared as widely as possible?” Mortimer Adler
 > _Truth in Religion ... the Plurality of Religions and the Unity of Truth_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Service Adventure in Guatemala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="pr-2">Compare: Human Concepts Paralleled with The Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

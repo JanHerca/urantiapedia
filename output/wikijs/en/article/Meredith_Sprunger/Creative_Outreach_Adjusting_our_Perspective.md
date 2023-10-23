@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Meredith Sprunger<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Sherman Diaries</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="pr-2">Leadership for Spiritual Communities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When _The Urantia Book_ was published in 1955 many of the people in the Forum expected that it would bring dramatic events in our society. After nearly a half century of experience, we realize that the Fifth Epochal Revelation will follow the slow dynamics of evolutionary change very similar to the influence of the Life and Teachings of Jesus. Rodney Stark in _The Rise of Christianity_ observes that there was a very small Christian population in the first two centuries. Thomas Kuhn in _The Structure of Scientific Revolutions_ documents this same slow development of scientific change.
 
@@ -30,3 +54,27 @@ It took nearly 1800 years of evolutionary development to precipitate Reformed Ju
 > 
 > mjsprunger@aol.com
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Sherman Diaries</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="pr-2">Leadership for Spiritual Communities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

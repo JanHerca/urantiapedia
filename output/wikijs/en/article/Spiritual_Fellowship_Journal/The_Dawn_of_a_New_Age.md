@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Mainline Reaction to Apocalypticism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="pr-2">The Emergent CyberChrist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 \* _A contemporary Psalm based on Psalm 98. See also Psalms Today, p. 23._
 
@@ -41,3 +65,27 @@ The decadence of materialism and secularism is passing.
 A rebirth of spiritual beauty and divine harmony inspires our souls.
 
 Greater aspirations of righteousness and justice stir our minds and hearts.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Mainline Reaction to Apocalypticism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="pr-2">The Emergent CyberChrist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

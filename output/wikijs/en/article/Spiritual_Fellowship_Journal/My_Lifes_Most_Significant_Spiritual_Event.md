@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface: How Good is the Good News?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***_The Urantia Book_ and Spiritual Renewal***
 
@@ -33,3 +57,27 @@ How has _The Urantia Book_ affected my life? It has significantly changed my att
 I regard _The Urantia Book_ as the most significant spiritual event in my life to date. Since I believe in the validity of the scientific method, I regard the authenticity of _The Urantia Book_ as a serious issue. I realize that some do not worry about origins, yet the fact that so much of the book is devoted to rigorous detail in regard to history implies to me this is an area of value, just as its spiritual teachings have value.
 
 I have not solved the problem of relating the teachings of _The Urantia Book_ to organized Protestant Christianity, my religious background. Many of these people are closed minded. some even believing the book is “ a work of the devil.” Other friends, less prejudiced and fearful, have found the book to be the revolutionary spiritual storehouse I have experienced. And I look forward to the continued exposure to the teachings of Jesus, free from the distortions of the barnacles of tradition.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface: How Good is the Good News?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Faith and Spirituality"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Faith, Spirituality, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 John Marks<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Great_Enterprise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Great Enterprise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Mind_Mastery">
+          <span class="pr-2">Mind Mastery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What do faith and spirituality mean today? Both have fallen on hard times. The former, though it receives a good deal of lip service, especially among conservative Christians, ultimately appears to be having little lasting effect on our modern money-based, consumer-oriented, and technologically-driven culture. The latter, often associated with the New Age, has become a catchall term for all the vague longings of the many people searching for a meaning to their lives beyond that offered by the standard narratives of contemporary culture. Whereas faith is commonly viewed as adherence to certain foundational values as embodied in traditional religions, spirituality by contrast is usually interpreted as a rejection of the dated formulae of traditional religious belief systems and a search for something else to fill the void that neither religion or the material pursuits of modern life can fill.
 
@@ -18,9 +42,9 @@ Those of us who have been exposed to the enlightenment of _The Urantia Book_ hav
 
 One of the overriding goals of _The Urantia Book_ is to convey to readers the reality of spirit, that most elusive yet ultimately most important feature of our mortal experience. The whole book is designed to reveal to us that there is a complex, multifaceted spiritual universe, which complements our current scientific picture of the material universe. As defined in _The Urantia Book_, faith is the essential attitude for getting in touch with the unseen spiritual dimension; indeed it is defined as the natural mental response to our experience of spiritual reality, just as reason is the natural response to our experience with the material world:
 
-> “_Reason grows out of material awareness, faith out of spiritual awareness, but through the mediation of a philosophy strengthened by revelation, logic may confirm both the inward and the outward view, thereby effecting the stabilization of both science and religion._” ([UB 103:7.6](/en/The_Urantia_Book/103#p7_6))
+> “_Reason grows out of material awareness, faith out of spiritual awareness, but through the mediation of a philosophy strengthened by revelation, logic may confirm both the inward and the outward view, thereby effecting the stabilization of both science and religion._” (<a id="a44_273"></a>[UB 103:7.6](/en/The_Urantia_Book/103#p7_6))
 
-> “Science (knowledge) is founded on the inherent (adjutant spirit) assumption that reason is valid, that the universe can be comprehended. ... Religion (the truth of personal spiritual experience) is founded on the inherent (Thought Adjuster) assumption that faith is valid, that God can be known and attained.” ([UB 103:9.8](/en/The_Urantia_Book/103#p9_8))
+> “Science (knowledge) is founded on the inherent (adjutant spirit) assumption that reason is valid, that the universe can be comprehended. ... Religion (the truth of personal spiritual experience) is founded on the inherent (Thought Adjuster) assumption that faith is valid, that God can be known and attained.” (<a id="a46_314"></a>[UB 103:9.8](/en/The_Urantia_Book/103#p9_8))
 
 In our contemporary, science-based society we have cultivated the rational response to material reality into highly sophisticated sciences and technologies, which are extremely adept at investigating and manipulating the natural world. And educational systems, especially in the West, emphasize the approach of reason and turn out young adults ready to continue reason's development through the sciences, technology, and business
 
@@ -40,7 +64,7 @@ Faith, by contrast, in the words of _The Urantia Book_:
 
 > “...is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God-knowing and man-serving. Beliefs may become groups possessions, but faith must be personal. ... Faith never shuns the problem-solving duty of mortal living. Living faith does not foster bigotry, persecution, or intolerance.”
 > 
-> “Faith does not shackle the creative imagination, neither does it maintain an unreasoning prejudice toward the discoveries of scientific investigation. Faith vitalizes religion and constrains the religionist heroically to live the golden rule.” ([UB 101:8.2](/en/The_Urantia_Book/101#p8_2))
+> “Faith does not shackle the creative imagination, neither does it maintain an unreasoning prejudice toward the discoveries of scientific investigation. Faith vitalizes religion and constrains the religionist heroically to live the golden rule.” (<a id="a66_248"></a>[UB 101:8.2](/en/The_Urantia_Book/101#p8_2))
 
 The fact that faith is personal helps to explain why organized religion easily loses sight of the true meaning of faith. For in its effort to create a structure for worship it naturally tends toward belief systems, which can be used as the basis for organization. But when belief systems become too rigid and dogmatic, they tend to stifle personal faith and thus cut off the spiritual energy that is the lifeblood of religion. In the process, people become disaffected, feel alienated from the espoused principals of the leadership, over time membership falls away, and new splinter groups start up. This is the story of Christianity in modern times. The balancing act of any progressive religion is to maintain an organization that is at the same time broadly cohesive yet loose enough to encourage the free expression of personal, individualized faith. [^2]
 
@@ -52,11 +76,11 @@ As a matter of individual will, faith is completely subjective, and no objective
 
 In responding to spirit through faith, _The Urantia Book_ tells us, we are responding to a _personal_ reality, and that is the personality presence of God:
 
-> “Spirit is the fundamental reality of the personality experience of all creatures because God is spirit....” ([UB 12:8.14](/en/The_Urantia_Book/12#p8_14))
+> “Spirit is the fundamental reality of the personality experience of all creatures because God is spirit....” (<a id="a78_112"></a>[UB 12:8.14](/en/The_Urantia_Book/12#p8_14))
 
-> “Spirit (is) the highest personal reality.” ([UB 12:8.12](/en/The_Urantia_Book/12#p8_12))
+> “Spirit (is) the highest personal reality.” (<a id="a80_47"></a>[UB 12:8.12](/en/The_Urantia_Book/12#p8_12))
 
-> “Spirit is the basic personal reality in the universes, and personality is basic to all progressing experience with spiritual reality.” ([UB 12:9.1](/en/The_Urantia_Book/12#p9_1))
+> “Spirit is the basic personal reality in the universes, and personality is basic to all progressing experience with spiritual reality.” (<a id="a82_139"></a>[UB 12:9.1](/en/The_Urantia_Book/12#p9_1))
 
 Spiritual reality is thus the perceived presence of God's personality, the recognition of which can only come through faith. We perceive the presence of God in similar fashion as we perceive the personality presence of people we know and love. God directs the personal presence of his spirit toward us, and if we respond, we can then direct our faith toward Him and experience this presence again and again. We feel His love and love in return, just as in human affairs we tend to love those who love us.
 
@@ -70,23 +94,23 @@ This may all sound very abstract but in the life of Jesus the practice of faith 
 
 The famous incident when the twelve-year-old Jesus wanders away from his mother and father during their Passover visit to Jerusalem is often cited as a manifestation of Jesus' precocious intelligence. That seems to be the implication of the story as it is told in Luke's gospel: “. . .they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. And all that heard him were astonished at his understanding and answers." ([Luke 2:46-47](/en/Bible/Luke/2#v46)) No doubt Jesus did display a precocious intellect, but what I find impressive in this story is the child's reaction to his parents' worry when they finally find him after an anxiety-ridden four days of searching:
 
-> “Why is it that you have so long sought me? Would you not expect to find me in my Father's house since the time has come when I should be about my Father's business?” ([UB 125:6.7](/en/The_Urantia_Book/125#p6_7))
+> “Why is it that you have so long sought me? Would you not expect to find me in my Father's house since the time has come when I should be about my Father's business?” (<a id="a96_170"></a>[UB 125:6.7](/en/The_Urantia_Book/125#p6_7))
 
-Previous to this encounter the book makes the point that “Jesus was strangely unmindful of his earthly parents; ... Jesus did not seem to comprehend that they would be somewhat worried about his having lingered behind.” ([UB 125:6.1](/en/The_Urantia_Book/125#p6_1)) Already at twelve, Jesus has developed a faith that has so fully engaged his mind that he fails to foresee or understand the mundane worries that his pairents naturally felt in his absence. In fact his question seems to imply: How could you have worried? It's as if he assumed their faith must have been as great as his, such that there should be no room for anxiety since it is clear (at least to him) that he has faithfully turned over his life to the loving care of the Father. When one fully trusts the Father in all things, one can never be truly lost.
+Previous to this encounter the book makes the point that “Jesus was strangely unmindful of his earthly parents; ... Jesus did not seem to comprehend that they would be somewhat worried about his having lingered behind.” (<a id="a98_221"></a>[UB 125:6.1](/en/The_Urantia_Book/125#p6_1)) Already at twelve, Jesus has developed a faith that has so fully engaged his mind that he fails to foresee or understand the mundane worries that his pairents naturally felt in his absence. In fact his question seems to imply: How could you have worried? It's as if he assumed their faith must have been as great as his, such that there should be no room for anxiety since it is clear (at least to him) that he has faithfully turned over his life to the loving care of the Father. When one fully trusts the Father in all things, one can never be truly lost.
 
 To me this scene displays both precocious faith and a typical young boy's self-absorption when he is fascinated with an activity; the world around him disappears while he focuses on the activity at hand and he forgets that others may have a different agenda. The later mature Jesus, the true master of human psychology, could not have overlooked his parents' fears, but the young Jesus is still getting to know human nature. Yet on a spiritual level, he is already light-years ahead of everyone else and is actively pursuing the personal spiritual relationship that he long ago established with his Father. He knows God and God knows him; everything else is secondary and follows from that supreme relationship. Such faith motivates him to do extraordinary things and to step out of the expected role of a twelve-year-old boy.
 
 But his faith also enabled him later in life to keep hope alive when faced with the trials and dreary ordinary hardships of daily life. After the accidental death of his father when Jesus was only fourteen, a seemingly cruel blow of fate, he became responsible, as the oldest male, for the welfare of the family. Together they faced many difficult years of poverty and struggle, trying to make ends meet to keep food on the table for a family of ten. The child of great promise had suddenly to face the reality of very limited horizons and a foreseeable future of difficult toil in the carpenter's shop while helping his mother to raise an infant and seven children aged one to ten.
 
-> “Within a few years after his father's death all their property was gone.... No youth of Urantia will ever be called upon to pass through more testing conflicts or more trying situations than Jesus himself endured during those strenuous years from fifteen to twenty.” ([UB 127:0.2](/en/The_Urantia_Book/127#p0_2))
+> “Within a few years after his father's death all their property was gone.... No youth of Urantia will ever be called upon to pass through more testing conflicts or more trying situations than Jesus himself endured during those strenuous years from fifteen to twenty.” (<a id="a104_271"></a>[UB 127:0.2](/en/The_Urantia_Book/127#p0_2))
 
-> “His mother grieved to see him work so hard; she sorrowed that he was day by day toiling at the carpenter's bench earning a living for the family instead of being, as they had so fondly planned, at Jerusalem studying with the rabbis.” ([UB 127:1.8](/en/The_Urantia_Book/127#p1_8))
+> “His mother grieved to see him work so hard; she sorrowed that he was day by day toiling at the carpenter's bench earning a living for the family instead of being, as they had so fondly planned, at Jerusalem studying with the rabbis.” (<a id="a106_238"></a>[UB 127:1.8](/en/The_Urantia_Book/127#p1_8))
 
-> “Apparently all Jesus' plans for a career were thwarted. The future did not look bright as matters now developed. But he did not falter; he was not discouraged. He lived on, day by day, doing well the present duty and faithfully discharging the _immediate_ responsibilities of his station in life. Jesus' life is the everlasting comfort of all disappointed idealists” ([UB 126:5.4](/en/The_Urantia_Book/126#p5_4))
+> “Apparently all Jesus' plans for a career were thwarted. The future did not look bright as matters now developed. But he did not falter; he was not discouraged. He lived on, day by day, doing well the present duty and faithfully discharging the _immediate_ responsibilities of his station in life. Jesus' life is the everlasting comfort of all disappointed idealists” (<a id="a108_371"></a>[UB 126:5.4](/en/The_Urantia_Book/126#p5_4))
 
 Perhaps the low point of this trying period was when his baby brother, Amos, died after a week's illness with a high fever. At eighteen, with his mother grief-stricken and his family pushed to the limit of their meager resources by the funeral expenses, Jesus was the family's pillar of strength.
 
-> “Jesus possessed the ability effectively to mobilize all his powers of mind, soul, and body on the task immediately in hand. He could concentrate his deep-thinking mind on the one problem which he wished to solve, and this, in connection with his untiring _patience_, enabled him serenely to endure the trials of a difficult mortal existence — to live as if he were ‘seeing Him who is invisible.’” ([UB 127:3.15](/en/The_Urantia_Book/127#p3_15))
+> “Jesus possessed the ability effectively to mobilize all his powers of mind, soul, and body on the task immediately in hand. He could concentrate his deep-thinking mind on the one problem which he wished to solve, and this, in connection with his untiring _patience_, enabled him serenely to endure the trials of a difficult mortal existence — to live as if he were ‘seeing Him who is invisible.’” (<a id="a112_401"></a>[UB 127:3.15](/en/The_Urantia_Book/127#p3_15))
 
 This was the extraordinary power of his faith. It enabled him later to formulate those exquisite formulations of faith in the Sermon on the Mount: “Happy are they who mourn, for they shall be comforted.” Jesus knew a good deal about trying experiences and occasions for mourning. Though often surrounded by people, he sometimes felt very alone, for there was no other human being with whom he could share his unique human problems. He had to walk alone down a very difficult and uncertain path, guided only by his faith. Yet we are told he was always cheerful and a source of encouragement to all. In the end he voluntarily accepted the greatest trial of faith — an awful, humiliating death as a common criminal and desertion by most of this followers, friends, and family — to underscore the saving power of faith.
 
@@ -94,13 +118,38 @@ Such faith as he possessed foresees the light of hope even from the depths of th
 
 But the benefits of spirit influence can hardly be realized unless faith is first exercised. That assent of the human will to the appeal of the spirit in the human heart is the necessary first step to permit spirit to act on the mind. Realizing that one can interact in a personal intimate relationship with the spirit of the infinite God is a powerful resource that enables one to face any challenge. As the life of Jesus demonstrates, cultivating this relationship with God is the best habit of mind that any human being can develop.
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Great_Enterprise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Great Enterprise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Mind_Mastery">
+          <span class="pr-2">Mind Mastery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Cultivating Spiritual Habits
 
-In a section of _The Urantia Book_ entitled "The Lures of Maturity.” ([UB 160:3](/en/The_Urantia_Book/160#p3)), the Greek philosopher, Rodan of Alexandria, points out that the life of faith and the habit of communing with the spirit of God are the secrets of Jesus' mastery of the problems of life:
+In a section of _The Urantia Book_ entitled "The Lures of Maturity.” (<a id="a147_70"></a>[UB 160:3](/en/The_Urantia_Book/160#p3)), the Greek philosopher, Rodan of Alexandria, points out that the life of faith and the habit of communing with the spirit of God are the secrets of Jesus' mastery of the problems of life:
 
 > “Look to your Master. Even now he is out in the hills taking in power while we are here giving out energy. The secret of all this problem is wrapped up in spiritual communion, in worship. From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship....”
 > 
-> “When these experiences are frequently repeated, they crystallize into habits, strength-giving and worshipful habits, and such habits eventually formulate themselves into a spiritual character, and such a character is finally recognized by one's fellows as a mature personality. These practices are difficult and time-consuming at first, but when they become habitual, they are at once restful and time-saving. The more complex society becomes, and the more the lures of civilization multiply, the more urgent will become the necessity for God-knowing individuals to form such protective habitual practices designed to conserve and augment their spiritual energies.” ([UB 160:3.1-2](/en/The_Urantia_Book/160#p3_1))
+> “When these experiences are frequently repeated, they crystallize into habits, strength-giving and worshipful habits, and such habits eventually formulate themselves into a spiritual character, and such a character is finally recognized by one's fellows as a mature personality. These practices are difficult and time-consuming at first, but when they become habitual, they are at once restful and time-saving. The more complex society becomes, and the more the lures of civilization multiply, the more urgent will become the necessity for God-knowing individuals to form such protective habitual practices designed to conserve and augment their spiritual energies.” (<a id="a151_670"></a>[UB 160:3.1-2](/en/The_Urantia_Book/160#p3_1))
 
 This is what our educational system, what our whole Western civilization, is sadly lacking today. Religion in the future must focus on this dynamic definition of faith and spirit, and provide practical means of allowing people to cultivate the habit of spiritual communion. It is the key to getting to know the God within us and learning what His will for us is. In this respect, the West can take a lesson from the East, where the Hindu, Buddhist, and Eastern Orthodox traditions have instilled an appreciation for the value of meditation and silent retreat. In the West we are so used to reasoning, arguing, formulating concepts, or pursuing agendas that it may be difficult to let go for a while of all our mental constellations and just _listen_, trying to be as receptive and as attuned as possible to the message of the silence. But this is clearly what Jesus often did. Throughout his life he followed a consistent practice of solitary retreat to restore his spiritual balance before engaging the practical challenges of the world. And his very active life and full involvement with people show that such periods of silent communion do not necessarily turn one into a hermit.
 
@@ -114,4 +163,4 @@ When religion rediscovers this living web of relationships, it will inspire a ne
 
 [^3]: The English translation of Martin Buber's classic work, _Ich and Du_, as I and Thou is misleading because the connotation of the German word _du_, the familiar form of you used only when addressing family members or close friends, is not conveyed by the archaic Middle English _Thou_. What Buber means to express in using _du_ as the form for addressing God is that the relationship between a human being and God should be one of greatest intimacy, comparable to the relationship between intimate family members or friends.
 
-> _It is just because the gospel of Jesus was so manysided that within a few centuries students of the records of his teachings became divided up into so many cults and sects. This pitiful subdivision of the Christian believers results from failure to discern in the Master's manifold teachings the divine oneness of his matchless life. But someday the true believers in Jesus will not be thus spiritually divided in their attitude before unbelievers. Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible._ [UB 170:5.20](/en/The_Urantia_Book/170#p5_20)
+> _It is just because the gospel of Jesus was so manysided that within a few centuries students of the records of his teachings became divided up into so many cults and sects. This pitiful subdivision of the Christian believers results from failure to discern in the Master's manifold teachings the divine oneness of his matchless life. But someday the true believers in Jesus will not be thus spiritually divided in their attitude before unbelievers. Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible._ <a id="a165_644"></a>[UB 170:5.20](/en/The_Urantia_Book/170#p5_20)

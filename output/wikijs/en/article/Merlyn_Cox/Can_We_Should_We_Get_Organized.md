@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Merlyn Cox<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mustard Seed Beginnings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="pr-2">Your Favorite Part of the Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I recently attended a workshop on “Leadership in the 21st Century.”[^1] It was led by church growth specialists who have been studying for many years the way thriving churches (about 10\%) operate, versus those who are not (about 90\%). It was a provocative and stimulating event, filled with insights that could benefit most organizations, especially churches and other nonprofit organizations. [^2]
 
@@ -22,6 +46,31 @@ What does this have to do with the Urantia movement? We are clearly at the stage
 
 We should not have to be reminded of what Jesus stated so clearly — that we will never achieve uniformity of thinking; we can only strive to achieve a unity of spirit. We will not be able, nor should we try, to control the outreach of the growing Urantia movement through a central, bureaucratic organization — the Urantia community is too diverse, creative, “chaotic.” We should instead strive, I believe, for structures that are flexible, shaped by clear purpose, with wide, but clear, boundaries — structures that will allow and encourage individuals and groups to find their “calling” within the movement. We can recognize and rejoice that the Father has the infinite capacity to adjust according to the needs of each of his creatures, in each and every circumstance, and trust his Spirit to do his work as we do ours.
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mustard Seed Beginnings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="pr-2">Your Favorite Part of the Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: Bill Easum and Thomas Bandy of Easum, Bandy, and Associates. For more information on their books, resources, and workshops, see www.EasumBandy.com.
@@ -31,6 +80,6 @@ We should not have to be reminded of what Jesus stated so clearly — that we wi
 [^3]: _Kicking Habits: Welcome Relief for Addicted Churches_, Thomas G. Bandy, Abingdon Press, Nash-
 
 
-> Jesus was truly a master of men; he exercised great influence over his fellow men because of the combine charm and force of his personality. There was a subtle commanding influence in his rugged, nomadic, and homeless life. There was intellectual attractiveness and spiritual drawing power in his authoritative manner of teaching, in his lucid logic, his strength of reasoning, his sagacious insight, his alertness of mind, his matchless poise, and his sublime tolerance. He was simple, manly, honest, and fearless. With all of this physical and intellectual influence manifest in the Master's presence, there were also all those spiritual charms of being which have become associated with his personality-patience, tenderness, meekness, gentleness, and humility. [UB 141:3.4](/en/The_Urantia_Book/141#p3_4)
+> Jesus was truly a master of men; he exercised great influence over his fellow men because of the combine charm and force of his personality. There was a subtle commanding influence in his rugged, nomadic, and homeless life. There was intellectual attractiveness and spiritual drawing power in his authoritative manner of teaching, in his lucid logic, his strength of reasoning, his sagacious insight, his alertness of mind, his matchless poise, and his sublime tolerance. He was simple, manly, honest, and fearless. With all of this physical and intellectual influence manifest in the Master's presence, there were also all those spiritual charms of being which have become associated with his personality-patience, tenderness, meekness, gentleness, and humility. <a id="a82_766"></a>[UB 141:3.4](/en/The_Urantia_Book/141#p3_4)
 
 

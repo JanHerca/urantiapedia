@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume2_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="pr-2">Urantia Book Fundamentalism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Religious authorities are usually the most difficult people to introduce to new spiritual truth. The followers of Jesus found it impossible to work within Judaism. It was necessary to start a new religious movement to accommodate Christian teaching. Similarly, during the period of the reformation, the reformers were unable to work within the Roman Catholic Church. As a result, the Protestant movement was born. It is not surprising, therefore, that the majority of the leaders bringing new spiritual truth to humankind have been laypersons rather than religious professionals.
 
@@ -21,3 +45,27 @@ Experience reveals how difficult this is. For most theologians and religious aut
 In 1980 I wrote personal letters to around 100 theological professors in seminaries affiliated with the American Association of Theological Schools enclosing a pamphlet introducing _The Urantia Book_ and offering a loan book. Only two of these religious teachers, who are normally kind and considerate people, even bothered to answer my letter. This further illustrates how difficult it is for traditionalists and structured academic disciplines to recognize new sources of truth. They usually do not seriously examine anything which does not fit within their truth criterion parameters. (This caution is essentially good.) Our evolutionary religious structures are not geared to recognize new revelation. It is through what Abraham Maslow calls the one percent of humanity who are the searchers and innovators that new truth is introduced into our institutions.
 
 In spite of these difficulties, most of the members of our Clergy Network believe it will eventually be possible to share the truths of _The Urantia Book_ within the church. Fortunately, the pluralism which has evolved in mainline Christianity allows for the sharing of new and heterodox ideas. Higher and more inclusive truth will slowly replace the more limited concepts of Reality. Progress in the church depends on our capacity to communicate this larger vision with love, patience, and wisdom. The Spirit of God ever leads humankind to a fuller realization of truth.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume2_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="pr-2">Urantia Book Fundamentalism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

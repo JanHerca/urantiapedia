@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Vengeance of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="pr-2">Significant Books: Jesus–A New Vision by Marcus J. Borg</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Robert W. Funk, Roy W. Hoover, and The Jesus Seminar, Macmillan, 1993, pp. 553
 
@@ -36,4 +60,28 @@ Reasons for the Fellow's decisions are given in the text, and additional comment
 
 ---
 
-> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel of eternal salvation. ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel of eternal salvation. (<a id="a62_518"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Vengeance of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="pr-2">Significant Books: Jesus–A New Vision by Marcus J. Borg</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

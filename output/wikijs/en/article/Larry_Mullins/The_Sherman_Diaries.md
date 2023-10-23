@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Larry Mullins<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume13_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="pr-2">Creative Outreach: Adjusting our Perspective</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Who was Harold Sherman?
 
@@ -47,3 +71,27 @@ When the plates were being prepared in 1942, the Midwayers apparently allowed hu
 In my judgment, we are left to muse **not** over the supposed “corruption” of the Papers, but rather about the human folly that followed their publication. The Urantia organizations were formed much as Dr. Sadler, Bill, and several attorneys had designed them. Soon Bill and his father would have a falling out, splitting the Chicago group into two societies. Bill's dream of a democratic Brotherhood would never happen, and eventually there came a split between the Brotherhood and the Foundation that has never healed. I cannot help but wonder what would have happened if Harold Sherman and Clyde Bedell had gotten their way, back in those early golden days when Sherman referred to Dr. Sadler as having “as sweet a personality as we have ever met.” Clyde and Harold wanted the Papers promoted and mass-distributed at little or no cost. They both believed the people could decide the truth for themselves, and that it was not necessary to have a formal organization between the people and their revelation.
 
 For more information on _The Sherman Diaries_: https://www.squarecircles.com
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume13_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="pr-2">Creative Outreach: Adjusting our Perspective</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

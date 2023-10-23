@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Carol Hay<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Meeting_Jesus_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Meeting Jesus Again for the First Time by Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="pr-2">Psalms Today</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When I was a young woman I found myself facing a growing spiritual dissatisfaction that I could not find a way to resolve. Although I had a solid Christian background, I hungered for more. I needed something that would fill in the gaps in my personal religious experience and would realistically help me transfer my religious beliefs into religious living.
 
@@ -26,3 +50,27 @@ _The Urantia Book_ presents the opportunity to expand our perspective of the mea
 
 > _Carol Hay, a long time student of _The Urantia Book_, speaks extensively to church groups on personal religious growth. She is also an editor of the Invisible Fellowship Magazine._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Meeting_Jesus_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Meeting Jesus Again for the First Time by Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="pr-2">Psalms Today</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

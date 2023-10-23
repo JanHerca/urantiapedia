@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Lee Loots<br>© 2006 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Tale of Two Orvontons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2006-last-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Last Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book Fellowship operates a listserve for present and past Society administrators, as well as Fellowship officers. Recently on this listserve, an open inquiry was posed regarding what a budding teacher may want to keep in mind. The majority of the comments below were offered in response to this discussion.._
 
@@ -84,3 +105,25 @@ In his [_Compare_ column of 9/1/'05](/en/article/Tom_and_Karen_Allen/Compare_Hum
 > 
 > She is also the mother of two sons, 26 and 24.
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Tale of Two Orvontons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2006-last-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Last Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

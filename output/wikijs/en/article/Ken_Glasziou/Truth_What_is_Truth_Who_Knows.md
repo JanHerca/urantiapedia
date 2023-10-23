@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Kenneth T. Glasziou<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Creative Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Great_Enterprise">
+          <span class="pr-2">The Great Enterprise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To many of its readers, _The Urantia Book_, from the moment of it publication in 1955, became either a fictional heresy or an infallible iconoclastic replacement for an outdated Bible.
 
@@ -22,7 +46,7 @@ The second gross, but persistent, misreading of the Papers concerns attitudes to
 
 But how did such antagonistic opposition to Christians and Christianity develop in the face of the repeatedly expressed hopes in the Papers that this revelation was to be the catalyst for the return of individual Christians and “the church that bears his name” to the spiritual status of an individualized and personal relationship with the indwelling spirit of our Father-God? Can we make sense of what has happened? Apparently it has happened before:
 
-> “It was very difficult for the apostles to understand the Master's reluctance to make positive pronouncements relative to scientific, social, economic, and political problems. They did not fully realize that his earth mission was exclusively concerned with revelations of spiritual and religious truths.” ([UB 167:5.6](/en/The_Urantia_Book/167#p5_6))
+> “It was very difficult for the apostles to understand the Master's reluctance to make positive pronouncements relative to scientific, social, economic, and political problems. They did not fully realize that his earth mission was exclusively concerned with revelations of spiritual and religious truths.” (<a id="a48_308"></a>[UB 167:5.6](/en/The_Urantia_Book/167#p5_6))
 
 Since the Fifth Epochal Revelation contains an expanded version of the Fourth Epochal Revelation, and then elaborates on Jesus and his mission throughout the Papers, might we not have expected that the mission of the Fifth could have had a similar motive to the Fourth? If so, the above lines could read:
 
@@ -46,13 +70,13 @@ It is essential to understand that “cosmology” in the Urantia Papers does no
 
 Probably eighty percent or more of Parts 1-3 could be contained within the mantle of the early twentieth century use of that word cosmology. Its current usage as referring almost exclusively to astrophysics did not really become general until well after the time of receipt of the Papers.
 
-Cosmology, as it is used by the revelators, is the primary subject of remarks such as: “Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true.” ([UB 2:7.1](/en/The_Urantia_Book/2#p7_1)) “Conceptual frames of the universe are only relatively true;...” ([UB 115:1.2](/en/The_Urantia_Book/115#p1_2)) “...within a few short years, many of our statements regarding the physical sciences will stand in need of revision... Truth may be but relatively inspired...statements with reference to cosmology are never inspired....” ([UB 101:4.5](/en/The_Urantia_Book/101#p4_5))
+Cosmology, as it is used by the revelators, is the primary subject of remarks such as: “Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true.” (<a id="a72_220"></a>[UB 2:7.1](/en/The_Urantia_Book/2#p7_1)) “Conceptual frames of the universe are only relatively true;...” (<a id="a72_327"></a>[UB 115:1.2](/en/The_Urantia_Book/115#p1_2)) “...within a few short years, many of our statements regarding the physical sciences will stand in need of revision... Truth may be but relatively inspired...statements with reference to cosmology are never inspired....” (<a id="a72_594"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5))
 
-> “No revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia.” ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+> “No revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia.” (<a id="a74_567"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
 ## Receipt of the Papers
 
-If we hark back to the acknowledgements at the end of the Foreword, we find, “But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience-God-consciousness.” ([UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
+If we hark back to the acknowledgements at the end of the Foreword, we find, “But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience-God-consciousness.” (<a id="a78_646"></a>[UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
 
 The above statement is summarized by Dr Sadler in the section entitled, “How we Got the Urantia Papers” as: “The Revelators depend upon the indwelling Adjusters and the Spirit of Truth to help us in the appropriation of truth in the Urantia Revelation.” However, Forum members did not even ask the right questions, let alone attempt the “appropriation of truth in the Urantia Revelation.”
 
@@ -60,13 +84,13 @@ Recognition of spiritual and religious truth and spiritual meanings and values i
 
 Thus it appears that the whole of the phase in which the Forum received Parts 1 to 3, about 10 years, was actually a training phase for the creation of a group of God-conscious, spiritualized individuals, in which each would achieve a personal relationship with the FatherSpirit. Subsequently this group was to be a testing ground, a sounding board for the production of a new revelation “exclusively concerned with revelations of spiritual and religious truths.”
 
-If this speculation approximates the truth, then it appears the plan did not achieve the desired result. A compromise became necessary and our planet received the new, major revelation, now Part 4 of _The Urantia Book_, complete, all in one piece, but untested with regard to human appreciation and comprehension. But perhaps Part 4 was also a compromise? And the new revelation is still to come — for what else can these Part 4 comments mean? “The great hope of Urantia lies in the possibility of a new revelation...High-gear spiritual performances must await a new revelation and the more general acceptance of the real religion of Jesus.” ([UB 195:10.18](/en/The_Urantia_Book/195#p10_18))
+If this speculation approximates the truth, then it appears the plan did not achieve the desired result. A compromise became necessary and our planet received the new, major revelation, now Part 4 of _The Urantia Book_, complete, all in one piece, but untested with regard to human appreciation and comprehension. But perhaps Part 4 was also a compromise? And the new revelation is still to come — for what else can these Part 4 comments mean? “The great hope of Urantia lies in the possibility of a new revelation...High-gear spiritual performances must await a new revelation and the more general acceptance of the real religion of Jesus.” (<a id="a86_643"></a>[UB 195:10.18](/en/The_Urantia_Book/195#p10_18))
 
 This leaves open an arena for speculation on what happened, or should have happened, with Parts 1-3. Maybe their content was never intended for publication as a whole — which offers an explanation for some of the peculiarities, errors, etc., present in some of the Papers of this group.
 
 ## What Then?
 
-Having assimilated the true message of the Papers and having attained a personal relationship with our indwelling spirit forces, what then? What is the purpose? What are we to do? The Papers inform us that we must “be” before we can “do.” By this they mean, “When men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives.” ([UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
+Having assimilated the true message of the Papers and having attained a personal relationship with our indwelling spirit forces, what then? What is the purpose? What are we to do? The Papers inform us that we must “be” before we can “do.” By this they mean, “When men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives.” (<a id="a92_500"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
 
 It is because of what we become as faith fellows, exponents of living as Jesus lived, demonstrating the Spirit of Truth in our lives, that we can serve in a manner that may aid the spiritual growth of our brothers and sisters. But note that at least initially, the expected audience is Christian — for only Christians are likely to comprehend the significance of the Spirit of Truth, Jesus spirit, at work in our lives.
 
@@ -74,11 +98,11 @@ There are now about two billion nominal Christians on this planet. It should not
 
 Also, there are not less than twenty-five paragraphs in the Papers that support the concept that a primary aim of the Papers is the spiritualization of authoritarian Christianity:
 
-> “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.” ([UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
+> “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.” (<a id="a100_253"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
 
-> “The living Jesus is the only hope of a possible unification of Christianity. The true church — the Jesus brotherhood-is invisible, spiritual, and is characterized by unity, not necessarily by uniformity...And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization.” ([UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
+> “The living Jesus is the only hope of a possible unification of Christianity. The true church — the Jesus brotherhood-is invisible, spiritual, and is characterized by unity, not necessarily by uniformity...And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization.” (<a id="a102_328"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
 
-> “But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> “But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” (<a id="a104_525"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
 And there are many, many more such statements about revelatory hopes and aims. Most Urantians have yet to realize that the mission of the revelators has little to do with “scientific, social, economic, and political problems.” Like the Fourth Epochal Revelation, its Urantian mission was intended to be dominated by the revelation of spiritual and religious truth.
 
@@ -100,7 +124,7 @@ Most early readers of the book accepted more or less unquestioningly that the wh
 
 It is largely because of the unprecedented advances in scientific knowledge over the past fifty years that many of us are being forced to rethink those earlier views. But despite all else, the quality of the book as a whole is such as to force the conclusion that it is special, it really is quite unique — and particularly so in respect to spiritual and religious truths, meanings, and values.
 
-That is one side of the coin. The other is that there are sections that defy credulity and force the question of how could, or why did, the revelators include such materials. One scenario is that much of Parts 1-3 of the book resulted from questions of Forum members “that no human being could answer.” By not answering, the revelators endangered acceptance of their credentials. By answering in a way consistent with the universe ruling proscribing unearned knowledge ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)), they were compelled to downgrade the relative truth value of their response.
+That is one side of the coin. The other is that there are sections that defy credulity and force the question of how could, or why did, the revelators include such materials. One scenario is that much of Parts 1-3 of the book resulted from questions of Forum members “that no human being could answer.” By not answering, the revelators endangered acceptance of their credentials. By answering in a way consistent with the universe ruling proscribing unearned knowledge (<a id="a126_470"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1)), they were compelled to downgrade the relative truth value of their response.
 
 Compounding our difficulties is the fact that many of the stories relevant to receipt and publication of the Urantia Papers are inconsistent to the point that the shadow of doubt hangs over all. This may lead to an alternative scenario postulating that contact with the authors of the Papers was lost soon after the receipt of Part 4, and no further contact was ever established. If so, the Sadler group were left to their own devices to communicate the revelation to the world-which is what happened to the apostles following Jesus' resurrection.
 
@@ -120,7 +144,32 @@ Regardless of what the detailed truth really is, the fact remains that in the Ur
 
 - Our earthly obligation: to serve our brothers and sisters with love, and in humility, that they might know the Father-Spirit-within as we ourselves know him.
 
-> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” (<a id="a146_242"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Creative Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Great_Enterprise">
+          <span class="pr-2">The Great Enterprise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

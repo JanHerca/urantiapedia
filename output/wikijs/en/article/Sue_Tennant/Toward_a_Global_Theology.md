@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Sue Tennant<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mystery of Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="pr-2">Paradise: The Recentering of Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Adapted from a talk given at the opening of the first free standing Taoist Temple in Canada_
 
@@ -42,7 +66,7 @@ Many people perceive the differences in religion to be a problem. I believe ther
 
 If religions differ so greatly, is there nothing we have in common? After twenty years of studying religion and people, I think I am starting to understand something fundamental about truly religious people, in spite of their different beliefs. They are _devoted_ people. Religionists are _wholehearted_ people, dedicated to what they view as supremely valuable. _Religionists are devoted wholeheartedly to supreme values_. In my experience, their devotion is dependable, reliable, and most often, loving and compassionate. Their devotion is self-forgetful. Even the devotion of supposedly irreligious parents for their children, or an atheist for a social cause, borders on the religious. When this devotion is misguided it produces fanaticism and, of course, that's one of the unfortunate down sides of religion. But having discovered what I think is the essential quality of religious people, it is easy for me to see how religionists profoundly impact the world. The power of effective religious leadership can change the course of history. And it is also easy for me to understand, when supreme values become distorted, how impossible it is for some religionists to get along.
 
-> The religions of authority can only divide men and set them in conscientious array against each other; the religion of the spirit will progressively draw men together and cause them to become understandingly sympathetic with one another. The religions of authority require of men uniformity in belief, but this is impossible of realization in the present state of the world. The religion of the spirit requires only unity of experience — uniformity of destiny — making full allowance for diversity of belief. The religion of the spirit requires only uniformity of insight, not uniformity of viewpoint and outlook. The religion of the spirit does not demand uniformity of intellectual views, only unity of spirit feeling. The religions of authority crystallize into lifeless creeds; the religion of the spirit grows into the increasing joy and liberty of ennobling deeds of loving service and merciful ministration. ([UB 155:6.9](/en/The_Urantia_Book/155#p6_9))
+> The religions of authority can only divide men and set them in conscientious array against each other; the religion of the spirit will progressively draw men together and cause them to become understandingly sympathetic with one another. The religions of authority require of men uniformity in belief, but this is impossible of realization in the present state of the world. The religion of the spirit requires only unity of experience — uniformity of destiny — making full allowance for diversity of belief. The religion of the spirit requires only uniformity of insight, not uniformity of viewpoint and outlook. The religion of the spirit does not demand uniformity of intellectual views, only unity of spirit feeling. The religions of authority crystallize into lifeless creeds; the religion of the spirit grows into the increasing joy and liberty of ennobling deeds of loving service and merciful ministration. (<a id="a68_918"></a>[UB 155:6.9](/en/The_Urantia_Book/155#p6_9))
 
 In nature, diversity ensures versatility and versatility ensures survival. This may also be true of religion. Many elements of society are converging for increased effectiveness and efficiency to survive. In his book, _The Global Paradox_, futurist John Naisbatt writes about the impending convergence of communications technologies which will facilitate a new global code of conduct to protect basic human rights. Over time, he says, all communities will be held to the same standard of behavior. Those that do not do so will be held to account by the rest of the international community. When the world is watching, he observes, a community's behavior is influenced by the anticipated reaction of its economic allies. If economic power is the leverage of social action, is not moral power the leverage of religious ecumenism? And does not the world appear to cry out for bold moral and spiritual leadership?
 
@@ -64,7 +88,7 @@ Religions promulgate. People are inspired by a teaching or a leader. They gather
 
 Living with diversity is not easy. To leave the comfort of a like-minded community with its predictable values and lifestyles and venture into the multicultural world takes some courage, or at least a sense of adventure. It takes conscious determination and effort to learn and grow amidst cultural and religious differences. But if we love God and this world, we soon discover a new and exciting dimension of goodness and truth residing in the hearts of others. It is not long before we realize, “What does it matter that differences persist, as they will, for we are _all_ children of God.”
 
-> Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists. ([UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
+> Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists. (<a id="a90_268"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
 
 In my experience, no teaching resonates more strongly in the human soul than the teaching that our minds are indwelt by the divine spirit of God. This inner light, which all religions acknowledge, uplifts our thinking and leads us into new ways of compassion and service to others. Personal spiritual experience is the fact around which religions can discover kinship; and interfaith associations are the experiential journey in which increasing spiritual fraternity is realized. We share the journey with all people of faith and as our experience expands, so does the power of openness, listening, reflecting, communicating, ambiguity, diversity, teamwork, and universal spiritual ideals. The road ahead is long and straight, and progress is not always easily perceived. But to all who will take forward steps, the Interfaith journey does promise _hope_ for a better future and exciting opportunities for making a better world.
 
@@ -75,3 +99,27 @@ In my experience, no teaching resonates more strongly in the human soul than the
 [^1] _The Disciple_, January, 1996, p. 39
 
 [^2] Templeton, John M. _The Humble Approach_. New York:
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mystery of Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="pr-2">Paradise: The Recentering of Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

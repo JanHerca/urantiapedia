@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Crisis_in_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crisis in Christianity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="pr-2">Does Heaven Exist?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Louis Dupré, professor of the philosophy of religion at Yale University, presents an intriguing interview in the July 16-23, 1997 _Christian Century_ entitled, “Seeking Christian Interiority.” Dupré observes that Western Civilization has become a secular culture. Christianity has lost its creative power and can no longer integrate our culture. “We have all become atheists, not in the hostile, antireligious sense of an earlier age, but in the sense that God no longer matters _absolutely_ in our closed world, if God matters at all.” (p. 654)
 
@@ -18,5 +42,30 @@ Authentic faith must integrate all other elements of a society if it is to survi
 
 Gradually new religious institutions will evolve based on the creativity of the Fifth Epochal Revelation that will, in time, create a new integrating culture throughout the world. Students of _The Urantia Book_ have the unique opportunity to participate in the formation of these new religious institutions and experience the beginnings of a new age on Urantia!
 
-> “Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religion of Jesus, the author and finisher of our faith. You may preach as religion about Jesus, but, perforce, you must live the religion of Jesus.” ([UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+> “Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religion of Jesus, the author and finisher of our faith. You may preach as religion about Jesus, but, perforce, you must live the religion of Jesus.” (<a id="a44_257"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Crisis_in_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crisis in Christianity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="pr-2">Does Heaven Exist?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

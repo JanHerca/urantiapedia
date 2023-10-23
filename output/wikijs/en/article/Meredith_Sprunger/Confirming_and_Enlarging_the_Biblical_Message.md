@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Age of Transition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="pr-2">A Call to Revival</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ purports to be the Fifth Epochal Revelation. Such a claim is audacious and raises serious doubts for people with critical minds. Those of us who feel threatened by such revelatory claims (and a 2000 page book with strange terminology and authorship) quickly brush it aside as another crackpot invention. Many of the curious among us, however, have decided to give this claim critical examination.
 
@@ -19,3 +43,27 @@ The December, 1996 issue of _The Disciple_ carries an article entitled, “When 
 > _The companion relationship between the Bible and _The Urantia Book_ is even more closely integrated than is the companion relationship between the Old Testament and the New Testament._
 
 The companion relationship between the Bible and _The Urantia Book_ is even more closely integrated than is the companion relationship between the Old Testament and the New Testament. Just as the New Testament enhances appreciation of the Old Testament, so _The Urantia Book_ increases one's understanding and appreciation of the entire Bible.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Age of Transition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="pr-2">A Call to Revival</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

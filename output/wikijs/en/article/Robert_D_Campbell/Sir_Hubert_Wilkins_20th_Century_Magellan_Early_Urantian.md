@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Robert D. Campbell<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leadership for Spiritual Communities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Eugenics_and_the_Urantia_Papers">
+          <span class="pr-2">Eugenics and the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We listened in respectful silence, utterly astonished by the story imparted to us that beautiful summer afternoon at the local swim club. As our neighbor Kris wiped away tears and paused at times to compose herself, we learned that she had never known her father, for he and his team of geologists had disappeared more than four decades ago while exploring the Arctic regions. Now, incredibly, she was one of several people whom the Canadian authorities tracked down after they recently located the long lost aircraft of that ill-fated mission and found identifying items inside it, among them Kris' father's wallet. In a few days she would travel towards the North Pole to participate in a ceremony designed to bring closure to the families of that expedition that perished in the frozen wilderness.
 
@@ -75,3 +99,28 @@ Anyone with even a faint familiarity with the exploits of Sir Hubert Wilkins, fi
 > _Robert D. Campbell has been reading The Urantia Papers for 33 years. He lives in Haddonfield, New Jersey._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leadership for Spiritual Communities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Eugenics_and_the_Urantia_Papers">
+          <span class="pr-2">Eugenics and the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

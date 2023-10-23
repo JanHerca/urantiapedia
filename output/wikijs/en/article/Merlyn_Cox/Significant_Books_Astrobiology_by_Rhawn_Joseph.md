@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part I)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mel_Quinn/On_the_Supreme_An_Essay">
+          <span class="pr-2">On the Supreme: An Essay</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Note on title [^1]
 
@@ -58,7 +82,7 @@ Amidst the flux and uncertainly that often characterizes so much in science, Dar
 
 For _Urantia Book_ readers, it will become obvious that Joseph's conclusions are very much in line with the book's understanding of evolution, an understanding that up until now has been clearly out of step with current scientific theory. Evolution, according to _The Urantia Book_, is neither accidental nor random, but reflects the progressive unfolding of life, according to a predetermined plan, and culminates in intelligent, self-conscious life:
 
-> “_The long drawn out processes of peoples, planets, and universes are under the perfect control of the universe creators and administrators and unfold in accordance with the eternal purpose of the universal Father, proceeding in harmony and order and in keeping with the all-wise plan of God._” (_The Urantia Book_, [UB 3:2.2](/en/The_Urantia_Book/3#p2_2))
+> “_The long drawn out processes of peoples, planets, and universes are under the perfect control of the universe creators and administrators and unfold in accordance with the eternal purpose of the universal Father, proceeding in harmony and order and in keeping with the all-wise plan of God._” (_The Urantia Book_, <a id="a84_318"></a>[UB 3:2.2](/en/The_Urantia_Book/3#p2_2))
 
 Joseph expressed it this way: “Nor is there anything random about the evolution of species, and there is an obvious progression from single cell to women and man. Only nihilists, those who fear the 'guiding hand of god,' and those claiming that bacteria and humans have an equal value, would argue otherwise.” (p. 154)
 
@@ -70,6 +94,31 @@ Although scientific thought and traditions change slowly, _Urantia Book_ readers
 
 > Merlyn Cox is a retired United Methodist pastor, a member of the Ft Wayne Urantia Society, and current editor of _The Spiritual Fellowship Journal_,
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part I)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mel_Quinn/On_the_Supreme_An_Essay">
+          <span class="pr-2">On the Supreme: An Essay</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

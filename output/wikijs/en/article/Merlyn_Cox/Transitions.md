@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Merlyn Cox<br>© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume14_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="pr-2">Religion in Transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Over the course of several years, Meredith Sprunger sent letters to mainline clergy seeking to introduce them to _The Urantia Book_. I was one who responded, having received and accepted an invitation for a loan copy of the book. I was astonished by the wisdom and the ring of truth of what I was reading, and it quickly became the center and focus of my spiritual life. I wanted to share it with everyone I could, although I was not naive about the prospects. I even wondered if I would find anyone else in my lifetime who would be open to “discovering” it.
 
@@ -48,3 +72,27 @@ Please join us!
 ***Correction:***
 
 - In the last issue of the Journal, the fine article on “Leadership for Spiritual Communities,” was incorrectly attributed to me, rather than its rightful author, Richard Bain.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume14_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="pr-2">Religion in Transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

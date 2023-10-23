@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Gods_Little_Three_Digit_Joke_on_Quantum_Science">
+          <span class="pr-2">God’s Little Three-Digit Joke on Quantum Science</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***for Students & Believers in the Revelation of the Urantia Papers***
 
@@ -130,4 +151,25 @@ Editorials:
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> “When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goesl — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.” _The Urantia Papers_, [UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+> “When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goesl — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.” _The Urantia Papers_, <a id="a153_317"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Gods_Little_Three_Digit_Joke_on_Quantum_Science">
+          <span class="pr-2">God’s Little Three-Digit Joke on Quantum Science</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

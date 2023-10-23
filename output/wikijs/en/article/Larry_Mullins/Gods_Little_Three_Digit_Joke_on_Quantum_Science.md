@@ -3,12 +3,36 @@ title: "God's Little Three-Digit Joke on Quantum Science"
 description: "Editorials"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, Physics, God, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/An_Old_Fashioned_Conference_of_Urantia_Believers">
+          <span class="pr-2">An Old-Fashioned Conference of Urantia Believers at Unity Village</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the historically renowned quantum physicists, Richard Feynman, once suggested that all physicists should put up a sign in there office with a particular three-digit number on it that would remind them of how much science doesn't know. Werner Heisenberg, of the famous uncertainty principle, declared that all the quandaries of quantum physics would shrivel up if this same three-digit number was ever explained! In _The God Particle_ by Nobel prize-winning quantum physicist, Leon Lederman, the same perplexing three-digit number is referred to as showing up: “ . . naked all over the place. This means that a scientist on Mars, or the fourteenth planet of the star Sirius, using whatever god-awful units they have for charge, speed, and their version of Plank's constant, would get [the same three digit number]. It is a pure number.” Lederman goes even further: “Physicists have agonized over [this three digit number] for fifty years . . . I tell my undergraduate students that if they are ever in a major city anywhere in the world, they should write [this three digit number] on a sign and hold it up on a busy street corner. Eventually a physicist will see that they're distressed and come to their assistance.”
 
@@ -25,3 +49,27 @@ This is also a problem for the older scientific minds in the Urantia Movement. I
 Joan and I visited a Urantia Study group in California a summer ago, and I mentioned the number 137 in context with quantum mechanics. Donald, a physicist, launched into an intriguing discussion of the number. At my request, he wrote an article on it. Part One is published in this issue.
 
 Some will find this article a bit difficult, but it is well worth the effort of reading. It is well documented and offers a wealth of possible threads that could be picked up and developed by some of our younger, creative scientific minds. And, regarding science, keep in mind that Richard Feynman once noted that nothing we know about elementary particles and forces can tell us anything about green reptiles that go croak in the night, or the music of Mozart, or the Ten Commandments.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/An_Old_Fashioned_Conference_of_Urantia_Believers">
+          <span class="pr-2">An Old-Fashioned Conference of Urantia Believers at Unity Village</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

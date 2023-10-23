@@ -3,12 +3,36 @@ title: "The Cultural Impact of The Urantia Book in the Next Fifty Years"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Meredith J. Sprunger<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/My_Lifes_Most_Significant_Spiritual_Event">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Life's Most Significant Spiritual Event </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Geography_of_Faith">
+          <span class="pr-2">The Geography of Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What will be the cultural impact of _The Urantia Book_ during the next fifty years? Who of us can even be sure about what will happen tomorrow? People have been making predictions about the future since the dawn of history. As such prophesies are examined, one is impressed by the lack of accuracy of a large percentage of these predictions even when they are made by the most learned people. In the late 1800 's when Lord Kelvin was president of the British Royal Society. he predicted that radio would have no future, heavier-than-air flying machines were impossible, and X-rays would prove to be a hoax. Dr. James Bryant Conant, president of Harvard University, in addressing the American Chemical Society in 1951 predicted that by 1985 solar energy would be harnessed and power would be so cheap and abundant that fresh water would be distilled from the ocean and deserts would be turned into garden spots. Not only are our best forecasts often inaccurate, but unexpected historical events change the context of the entire cultural situation. Nevertheless, human beings are incurable futurists; we love to look in to the unknown and construct a scenario of the future. Even though our vision may be inaccurate, such anticipation of the events of tomorrow is more creative and constructive than simply reacting to incidents after they take place.
 
@@ -66,3 +90,27 @@ What is the probability that one or more of these catalytic events will happen i
 > _A religious leader of national or international stature may espouse The Urantia Book. A Billy Graham, Paul Tillich, or Robert Schuler could quickly focus attention on The Urantia Book._
 
 Unexpected events have their own dynamics. Outside of developing a stable grass roots presence in our society, we can do little to prepare for unusual events. If and when these sudden changes occur, they will be governed by their own leadership and our ability to respond wisely in the contemporary situation. Our task is to continue traveling the pot-holed, boulder-strewn road of evolutionary development. The sudden changes will shape their own destiny.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/My_Lifes_Most_Significant_Spiritual_Event">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Life's Most Significant Spiritual Event </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Geography_of_Faith">
+          <span class="pr-2">The Geography of Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

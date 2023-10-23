@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 William M. Kelly<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/When_Time_is_Not_of_Essence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Time is Not of the Essence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Barr/My_Spiritual_Pilgrimage">
+          <span class="pr-2">My Spiritual Pilgrimage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In a world whose most changeless fact may be the fact of change, we are confronted with the task of reevaluating the relevance of the truths espoused by former generations. This is necessary because every generation is confronted by new discoveries and new personal and social experiences. Historic spiritual values undergo fresh interpretation and application with the passage of time. One of these traditional values that is being challenged today is the concept of the “Brotherhood of Man.”
 
@@ -46,7 +70,7 @@ The secular skeptics among us say, “Well, all this talk about a spiritual rena
 
 Look around you at what is happening in the world-not just the focus of the media, which is usually negative, but the overall picture. Seldom in history have we experienced an era with greater spiritual hunger than our generation. Take a look at the historical perspective presented by the authors of _The Urantia Book_. This marvelous vision of spiritual reality is being discovered by tens of thousands of searching people on our world.
 
-> But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia [our world] is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia [our world] is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. (<a id="a72_535"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
 But most of all look within. Listen to your heart, the intuitions of your soul. Take time to meditate and listen to the indwelling Spirit of God. Remember that Elijah didn't hear the voice of God in the thunder or the fire, in the impressive sounds of the outside arena. He heard the “still small voice” within guiding him. So can we find this guidance of the indwelling Spirit of God.
 
@@ -76,3 +100,27 @@ I believe the _Family of God_ is a fact, not just an ideal. I also have experien
 
 > _William M. Kelly is a school psychologist and former Presbyterian minister who resides in Pocatello, Idaho._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/When_Time_is_Not_of_Essence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Time is Not of the Essence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Barr/My_Spiritual_Pilgrimage">
+          <span class="pr-2">My Spiritual Pilgrimage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Rev. Gregory Young<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation and Patience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="pr-2">God's Unfathomable Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It was a beautiful summer day and Clarence was enjoying rowing the boat with his lovely girlfriend, anticipating the picnic they would have when they got to the island in the center of the lake. These were the days when young men and young ladies wore more than shorts and t-shirts out in public.
 
@@ -37,3 +61,27 @@ In recent times, he developed crippling arthritis and became incapacitated by fe
 A remarkable thing happened to Byrun Janus. Within a brief period of seven months, he learned to cope with his disease and grow in spite of it. His ability to play was restored to a level that he had never experienced before. Looking at his hands, one would never believe that he could play with such dexterity and warmth. When his life really came alive, so did his creative energy and talent.
 
 Through the life and creativity of Byrun Janus, we are given a vision of what the human spirit can accomplish when strengthened by the spiritual resources made available to us by our Heavenly Father. The great psychologist, Eric Fromm, once lamented that many human beings have died before they were fully born. There is a better way-pray that we may be open and receptive to this spiritual guidance and transformation.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation and Patience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="pr-2">God's Unfathomable Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Interface : Serving God Within the Church"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Church, God, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Merlyn Cox<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: A New Song</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Science_by_Ken_T_Glasziou">
+          <span class="pr-2">Significant Books: Science, Anthropology, and Archaeology in The Urantia Book by Ken. T. Glasziou</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To those raised in the church, and even identifying the Kingdom of God with the church, the title must seem strange. For most, serving God within the church is the norm, if not the definition, of discipleship. While many may be called to represent it on the periphery of its influence, it's assumed that even this is the church's outreach. If nothing else, one can always define the church as the mystical body of Christ which is present by definition where believers are gathered and at work in his name.
 
@@ -27,3 +51,28 @@ I do not know what the future of the institutional church will be. I'm convinced
 For those in the Urantia Movement it may also seem ironic to point out that God is no respecter of persons. He is not bound by the church, but neither has he given up on it. It is still a good place to serve, a good place to experience the gifts and graces of God's people everywhere, and a good place to bear witness with patience, wisdom, and hope to the truths contained in _The Urantia Book_.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: A New Song</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Science_by_Ken_T_Glasziou">
+          <span class="pr-2">Significant Books: Science, Anthropology, and Archaeology in The Urantia Book by Ken. T. Glasziou</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

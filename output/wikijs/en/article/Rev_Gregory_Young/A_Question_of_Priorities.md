@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Rev. Gregory Young<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Creative Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Ascendancy_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">The Ascendancy of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -29,3 +53,27 @@ In a way, this sermon is somewhat difficult for us, because we all want to succe
 Mark was, walking home from school one day when he noticed the boy ahead of him had tripped and dropped all of the books he was carrying, along with two sweaters, a baseball bat, a glove and a small tape recorder. Mark knelt down and helped the boy pick up the scattered articles. Since they were going the same way, he helped to carry part of the burden. As they walked Mark discovered the boy's name was Bill, that he loved video games, baseball, and history, that he was having a lot of trouble with his other subjects and that he had just broken up with his girlfriend. They arrived at Bill's home first and Mark was invited in for a Coke and to watch some television. The afternoon passed pleasantly with a few laughs and some shared small talk. Then Mark went home. They continued to see each other around school, had lunch together once or twice, then both graduated from junior high school. They ended up in the same high school where they had brief contacts over the years. Finally the long awaited senior year came and three weeks before graduation, Bill asked Mark if they could talk. Bill reminded him of the day years ago when they had first met. “Do you ever wonder why I was carrying so many things home that day?” asked Bill. “You see, I cleaned out my locker because I didn't want to leave a mess for anyone else. I had stored away some of my mother's sleeping pills and I was going home to commit suicide. But after spending time together talking and laughing, I realized that if I had killed myself, I would have missed that time and so many others that might follow. So you see, Mark, when you picked up my books that day, you did a lot more. You saved my life.” Caring for another classmate, a fellow human being was a very high priority for Mark. Serving others, loving them is one of the supreme spiritual priorities for our lives. Here is a person who was able to see what was truly important to him in his life.
 
 It is interesting that Jesus put a child in their midst as a.means of helping his disciples modify their priorities. Jesus knew that children are often the ones who remind us that our priorities are all out of whack. And our love for our children can help us motivate ourselves to get our lives back in their proper focus. Consider an article that appeared in _People_ magazine recently about a man who regained his focus, thanks to his love for his daughter. Researchers report that of the few people who ever do lose substantial amounts of weight, most regain the weight within a few years. It seems so hard to find the motivation to lose the weight and keep it off. But Randy Leamer didn't have a problem with motivation. He knew if he didn't lose weight, his little daughter might die. At only eighteen-months old, Meagan Leamer was diagnosed with severe kidney disease. No matter what treatment the doctors tried with her, the toddler just kept getting worse. By the age of five, Meagan desperately needed a kidney transplant. Meagen's parents, Randy and Genie Leamer, were more that willing to donate an organ to their daughter, and both were found to be good matches. But Genie's family had a long history of kidney problems and high blood pressure, so an organ donation would be risky on her part. That left Meagan's dad, Randy, as the only possible donor. There was only one problem; Randy Leamer weighed over 300 pounds. Doctors were afraid that in Randy's condition he wouldn't survive the surgery to harvest his kidney. So Randy determined to lose over $100 lbs. in order to prepare for his daughter's surgery. He began exercising and eating a low-fat diet. Friends at work cheered him on and even brought in their old clothes for Randy when his clothes became too big for him. Within eight months, Randy Leaner had dropped to $194 lbs. Meagan's kidney surgery was performed on December 12, 1997. Both Randy and Meagen have recovered fully from the surgery. Because of his love for his daughter, Randy Leamer took a needed action that in the long run may give him a longer life. All of us want to be the best that we can be. We perhaps all feel that going through life is kind of like a juggling act. That's a given condition, and we can live with that. But remember that some of the balls we are juggling are made of rubber and some are made of precious glass. May God give each of us the wisdom and faith to set priorities which have lasting spiritual value.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Creative Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Ascendancy_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">The Ascendancy of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

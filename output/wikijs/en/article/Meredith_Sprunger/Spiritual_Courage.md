@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dynamics of Empowerment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="pr-2">The Church and the Kingdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Courage and wisdom are the key actualizers of progress. Most people in critical situations exhibit a surprising amount of physical courage. Not many of us are willing to express opinions or initiate actions requiring mental and spiritual courage. It is much easier to keep quiet rather than to do anything which might trigger opposition or cause others to think less favorably of us. We feel more comfortable going along with generally accepted opinions and behavior. It is a rare individual, indeed, who has the courage to take action in the search for truth or justice which may threaten to exclude them from their in-group. 
 
@@ -24,6 +48,30 @@ Many generations from now their successors will marvel that this seminal book of
 
 ---
 
-> “The call to the adventure of building a new and tranformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh.” ([UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
+> “The call to the adventure of building a new and tranformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh.” (<a id="a50_294"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
 
-> “Service-more service, increased service, difficult service, adventurous service, and at last divine and perfect service — is the goal of time and the destination of space.” ([UB 28:6.17](/en/The_Urantia_Book/28#p6_17))
+> “Service-more service, increased service, difficult service, adventurous service, and at last divine and perfect service — is the goal of time and the destination of space.” (<a id="a52_177"></a>[UB 28:6.17](/en/The_Urantia_Book/28#p6_17))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dynamics of Empowerment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="pr-2">The Church and the Kingdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

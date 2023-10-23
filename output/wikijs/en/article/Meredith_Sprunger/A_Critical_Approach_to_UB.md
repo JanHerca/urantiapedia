@@ -3,12 +3,36 @@ title: "A Critical Approach to The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parallels in Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jim_Downs/Positive_Qualities">
+          <span class="pr-2">Positive Qualities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Revelation has traditionally been associated with “the voice of God,” and this authority has been a powerful influence in establishing what is accepted as true in society. Most people tend to forget the long experiential process which is required in any large social group in establishing the acceptance of a revelatory source. Any claim to “new revelation” is certain to elicit widespread skepticism and strong opposition. The first thing which is usually examined and challenged is the origin and authorship of such claims and then the content of the new revelation.
 
@@ -27,4 +51,28 @@ My personal view, after forty years of study and evaluation, is that the book is
 4. And finally, a greatly expanded presentation of the life and teachings of Jesus, that is solidly rooted in the New Testament realities.
 
 
-> “_The world needs more firsthand religion. Even Christianity—the best of the religions of the twentieth century—is not only a religion about Jesus, but it is so largely one which men experience secondhand. They take their religion wholly as handed down by their accepted religious teachers. What an awakening the world would experience if it could only see Jesus as he really lived on earth and know, firsthand, his life-giving teachings! Descriptive words of things beautiful cannot thrill like the sight thereof, neither can creedal words inspire men’s souls like the experience of knowing the presence of God_” ([UB 195:9.8](/en/The_Urantia_Book/195#p9_8))
+> “_The world needs more firsthand religion. Even Christianity—the best of the religions of the twentieth century—is not only a religion about Jesus, but it is so largely one which men experience secondhand. They take their religion wholly as handed down by their accepted religious teachers. What an awakening the world would experience if it could only see Jesus as he really lived on earth and know, firsthand, his life-giving teachings! Descriptive words of things beautiful cannot thrill like the sight thereof, neither can creedal words inspire men’s souls like the experience of knowing the presence of God_” (<a id="a53_617"></a>[UB 195:9.8](/en/The_Urantia_Book/195#p9_8))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parallels in Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jim_Downs/Positive_Qualities">
+          <span class="pr-2">Positive Qualities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

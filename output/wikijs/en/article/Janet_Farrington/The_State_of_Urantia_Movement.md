@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Janet Farrington Graham<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Your Favorite Part of the Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="pr-2">Goals Not Creeds: Worship and Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 This will be my final annual report as president of The Fellowship. Although there are many exciting projects in progress, I will leave it to the next president to share the good news with you. There are a few times when it is appropriate for a president to share personal feelings about the state of the “union”, and I hope this is one of them. The statements below represent my opinions, not necessarily those of the people with whom I have served. However, I feel a responsibility to share the insights gained during my three years as Fellowship president.
@@ -27,16 +51,40 @@ Are we prepared? I think the escalation of conflict, the struggle for control of
 
 There are no ready solutions. In our best moments, we dream of a unified community, free of the struggle for control of the text, sharing the fruits of the spirit with a struggling world. In our most insightful moments, we envision an active partnership with the planetary government, providing administrative support in preparation for the next spiritual age. In our most private moments, each one of us sincerely seeks greater service to our Creator Son, and to the Supreme.
 
-There is no doubt in my mind that our community is hungry for brotherhood. Although we know that social brotherhood is an evolution born of struggle, spiritual brotherhood can be attained now. “Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible.” ([UB 170:5.20](/en/The_Urantia_Book/170#p5_20))
+There is no doubt in my mind that our community is hungry for brotherhood. Although we know that social brotherhood is an evolution born of struggle, spiritual brotherhood can be attained now. “Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both inexcusable and reprehensible.” (<a id="a53_387"></a>[UB 170:5.20](/en/The_Urantia_Book/170#p5_20))
 
-Perhaps it would help to shift our focus from secular ends to spiritual means. Conflict is inevitable, the result of diverse human minds and committed wills; conflict illuminates the potential for personal growth. Resolution is creative, the result of spiritualized minds discovering the Father's will; resolution indicates the realization of spiritual growth. “Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man.” ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+Perhaps it would help to shift our focus from secular ends to spiritual means. Conflict is inevitable, the result of diverse human minds and committed wills; conflict illuminates the potential for personal growth. Resolution is creative, the result of spiritualized minds discovering the Father's will; resolution indicates the realization of spiritual growth. “Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man.” (<a id="a55_508"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 
 > _There is no doubt in my mind that our community is hungry for brotherhood. Although we know that social brotherhood is an evolution born of struggle, spiritual brotherhood can be attained now. “Always we may have diversity of intellectual comprehension and interpretation, even varying degrees of socialization, but lack of spiritual brotherhood is both in excusable and reprehensible.” (UB 170:5.20)_
 
-And perhaps it would he helpful to shift our focus to a universe perspective. “Urantia is the sentimental shrine of all Nebadon, the chief of ten million inhabited worlds, the mortal home of Christ Michael, sovereign of all Nebadon, a Melchizedek minister to the realms, a system savior, an Adamic progressor, a Son of Man in the likeness of mortal flesh, and the Planetary Prince of Urantia. And your record tells the truth when it says that this same Jesus has promised some time to return to the world of his terminal bestowal, the World of the Cross.” ([UB 119:8.8](/en/The_Urantia_Book/119#p8_8))
+And perhaps it would he helpful to shift our focus to a universe perspective. “Urantia is the sentimental shrine of all Nebadon, the chief of ten million inhabited worlds, the mortal home of Christ Michael, sovereign of all Nebadon, a Melchizedek minister to the realms, a system savior, an Adamic progressor, a Son of Man in the likeness of mortal flesh, and the Planetary Prince of Urantia. And your record tells the truth when it says that this same Jesus has promised some time to return to the world of his terminal bestowal, the World of the Cross.” (<a id="a59_557"></a>[UB 119:8.8](/en/The_Urantia_Book/119#p8_8))
 
 > _What we need is the courage to resolve our inevitable conflicts, to reform our outdated organizations, to revitalize our spiritual community._
 
 The eyes of the universe are upon us. The planetary government is dedicated to our success. We have angels working by our side. What we need is the courage to resolve our inevitable conflicts, to reform our outdated organizations, to revitalize our spiritual community.
 
 I retire from organizational service for a time, to more fully embrace a community perspective and to explore the potentials for revelation service. I am grateful for these three years as Fellowship president, and my nine years as a General Councilor. And I have faith that the next President and General Council will serve the membership to the very best of their abilities.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Your Favorite Part of the Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="pr-2">Goals Not Creeds: Worship and Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

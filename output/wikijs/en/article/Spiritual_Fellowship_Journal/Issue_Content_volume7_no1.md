@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="pr-2">An Age of Transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Volume 7, Number 1, Spring, 1997
 
@@ -122,3 +143,24 @@ Dr. Duane L. Faw, Professor of Law emeritus of Pepperdine University School of L
 The Uversa Press edition of _The Urantia Book_, the Pathways edition of The Life and Teachings of Jesus, the _Concordex_, and the _Paramony_ can be purchased from The Good Cheer Press, P. O. Box 18764, Boulder, CO 80303 (1-800-767-5683).
 
 An exhaustive _Urantia Book_ Concordance was published by the Urantia Foundation in 1993. If your local bookstore does not carry _The Urantia Book_ or _The Urantia Book_ Concordance, they can be ordered from the Urantia Foundation, 533 Diversey Parkway, Chicago, IL 60614 (1-888-872-6842). The Urantia Foundation also publishes French, Spanish, and Finnish editions of _The Urantia Book_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="pr-2">An Age of Transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

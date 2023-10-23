@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="pr-2">Spiritual Decadence and Rebirth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Volume 6, Number 2, Fall, 1996
 
@@ -120,7 +141,7 @@ Copyright © 1996, All Rights Reserved.
 
 The New York Society of Students of _The Urantia Book_ is fostering translations of _The Urantia Book_ into Russian and Korean. The Society plans to have the first draft of the Russian translation completed by the end of 1998, and the first draft of the Korean translation of the Life and Teachings of Jesus by the fall of 1996. Information about the Russian translation may be obtained from Leela Dogim, 201-886-2243; and a report concerning the Korean translation can be gotten from Barry Clark, 201-438-3359. General information about the translation project can be obtained from Eileen Laurence, 914-273-8922.
 
-> Jesus portrayed the profound surety of the Godknowing mortal when he said: “To a God-knowing kingdom believer, what does it matter if all things earthly crash?” Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides to human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God. [UB 100:2.7](/en/The_Urantia_Book/100#p2_7)
+> Jesus portrayed the profound surety of the Godknowing mortal when he said: “To a God-knowing kingdom believer, what does it matter if all things earthly crash?” Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides to human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God. <a id="a143_611"></a>[UB 100:2.7](/en/The_Urantia_Book/100#p2_7)
 
 ## _Urantia Book_ Resources
 
@@ -129,3 +150,24 @@ Clyde Bedell (1898-1985), a widely recognized author and speaker in the field of
 Dr. Duane L. Faw, Professor of Law emeritus of Pepperdine University School of Law, spent six years compiling a parallel and harmony of _The Urantia Book_ and the Bible. The _Paramony_ was published in 1986 and contains 25,000 cross-references revealing the similarities and differences between the facts and concepts of these two great books. Dr. Faw has been a teacher of adult Bible classes for 40 years and a certified lay speaker in the United Methodist Church for over 25 years. The _Concordex_ and _Paramony_ can be purchased from The Good Cheer Press, P. O. Box 18764, Boulder, CO 80303.
 
 An exhaustive _Urantia Book_ Concordance was published by the Urantia Foundation in 1993. If your local bookstore does not carry _The Urantia Book_ or _The Urantia Book_ Concordance, they can be orderd from the Urantia Foundation, 533 Diversey Parkway, Chicaago, IL 60614. The Urantia Foundation also publishes French, Spanish, and Finnish editions of _The Urantia Book_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="pr-2">Spiritual Decadence and Rebirth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

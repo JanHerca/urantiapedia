@@ -3,12 +3,36 @@ title: "Gender Differentiation in The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, Gender, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Byron Belitsos<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/On_Elbows_and_Equality">
+          <span class="pr-2">On Elbows and Equality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(This column is an excerpt adopted from a research paper which will be published by the Fellowship of Students of_ The Urantia Book.)
 
@@ -18,7 +42,7 @@ Although _The Urantia Book_ has many references to sex differences, we should li
 > 
 > Civilization never can obliterate the behavior gulf between the sexes. From age to age the mores change, but instinct never. Innate maternal affection will never permit emancipated woman to become man's serious rival in industry. Forever each sex will remain supreme in its own domain, domains determined by biologic differentiation and by mental dissimilarity.
 > 
-> Each sex will always have its own special sphere, albeit they will ever and anon overlap. Only socially will men and women compete on equal terms. (_The Urantia Book_, [UB 84:5.12-14](/en/The_Urantia_Book/84#p5_12))
+> Each sex will always have its own special sphere, albeit they will ever and anon overlap. Only socially will men and women compete on equal terms. (_The Urantia Book_, <a id="a44_170"></a>[UB 84:5.12-14](/en/The_Urantia_Book/84#p5_12))
 
 In the longer research paper, we have considered possible definitions of “domains determined by biologic differences...” and the more controversial issue of “domains determined by...mental dissimilarity.” If we continue to follow the thread of the Book's argument about sex differences, we now arrive at a concept of gender even more controversial — the notion of complemental but distinctive “spheres” of gender-specific activity, along with an exclusive set of undefined rights belonging to each sphere. Whether you agree with it or not, this appears to be _The Urantia Book_'s master concept of gender.
 
@@ -45,7 +69,7 @@ In constructing the first of these, it appears that the revelators ranged far an
 
 These lines appear to be translated into the following passage, one of the most vivid in the entire Book:
 
-> Women seem to have more intuition than men, but they also appear to be somewhat less logical. Woman, however, has always been the moral standard-bearer and the spiritual leader of mankind. _The hand that rocks the cradle still fraternizes with destiny._ ([UB 84:6.4](/en/The_Urantia_Book/84#p6_4)) [Italics added]
+> Women seem to have more intuition than men, but they also appear to be somewhat less logical. Woman, however, has always been the moral standard-bearer and the spiritual leader of mankind. _The hand that rocks the cradle still fraternizes with destiny._ (<a id="a71_257"></a>[UB 84:6.4](/en/The_Urantia_Book/84#p6_4)) [Italics added]
 
 She leads in spirituality and in upholding moral standards. This is the domain in which she has reigned supreme. Does she still? The revelator's next move is a leap to the concept of her instinctive mother-love. Yes, the mother of the species gives birth to, and “fraternizes” with, the child's destiny. Of course, _fraternize_ is a weaker term than Wallace's sentimental notion of “ruling” the world. Still, this passage presents a strong image of leadership.
 
@@ -87,7 +111,7 @@ At least this was so before the industrial revolution. In the section on “Wome
 
 In addition, this _material_ liberation has opened up another distinctive quality of her sphere, according to the Book:
 
-> Once a woman's value consisted in her food-producing ability, but invention and wealth have enabled her to create a new world in which to function —_spheres of grace and charm_. Thus has industry won its unconscious and unintended fight for women's social and economic emancipation.([UB 84:5.8](/en/The_Urantia_Book/84#p5_8)) [Italics added]
+> Once a woman's value consisted in her food-producing ability, but invention and wealth have enabled her to create a new world in which to function —_spheres of grace and charm_. Thus has industry won its unconscious and unintended fight for women's social and economic emancipation.(<a id="a113_285"></a>[UB 84:5.8](/en/The_Urantia_Book/84#p5_8)) [Italics added]
 
 Here's a puzzling passage for feminists concerned about equal pay for equal work. Woman's “economic and social emancipation,” won by industry, does not automatically lead her _into_ industry to compete for equal terms with men as an emancipated woman. Rather, it enables her to create a new and quite separate world of, shall we say, enchantment and elegance. _This_ is what industry unconsciously aimed at in its “unintended fight.” This is the evolutionary gain that “even revelation failed to accomplish.”
 
@@ -100,6 +124,30 @@ I will leave further definition of “spheres of charm and grace” to others. B
 > _Byron has been a journalist and television producer and is presently a consultant in the telecommunications industry._
 {.is-}
 
-> “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it." ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it." (<a id="a126_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
-> “Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized. The religion of living experience finds no difficulty in keeping ahead of all these social developments and economic upheavals, amid which it ever functions as a moral stabilizer, social guide, and spiritual pilot.” ([UB 99:2.6](/en/The_Urantia_Book/99#p2_6))
+> “Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized. The religion of living experience finds no difficulty in keeping ahead of all these social developments and economic upheavals, amid which it ever functions as a moral stabilizer, social guide, and spiritual pilot.” (<a id="a128_434"></a>[UB 99:2.6](/en/The_Urantia_Book/99#p2_6))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/On_Elbows_and_Equality">
+          <span class="pr-2">On Elbows and Equality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

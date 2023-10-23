@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Robert Crickett<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/An_Introduction_to_the_New_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Introduction to the New Mission of The Spiritual Fellowship Journal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/Spiritual_Affirmations_to_Enhanced_Religious_Living">
+          <span class="pr-2">Spiritual Affirmations to Enhanced Religious Living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Spiritual and religious expressions of the Fifth Epochal Revelation are in their infancy, mere buds responding to the first warm currents of a wholly new Spring. The initial appearance of the Urantia Papers has been in a Christian culture. As we evolve a spiritual experience in the context of the Fifth Epochal Revelation, it is helpful to realize that the authors fashioned its teachings to rest on the foundations of the best insights of the Christian experience. To understand the Fifth Epochal Revelation in its historic relation to Christian spiritual experience, one must realize that Christianity rests on the authorities of the Holy Spirit, the Bible, and two thousand years of church history. In the promotion of the Urantia Papers to Christians, however, these formidable authorities are not easily countered. The Urantia Papers have no pedigree or authority except the leading of the Spirit of God in the hearts and minds of individuals. Since most people require the support of their fellows in religious experience, the initial growth of epochal revelation is always a slow, grass-roots movement.
 
@@ -43,4 +67,28 @@ I believe the Urantia movement has an obligation to be pro-active in developing 
 > _Robert Crickett was introduced to _The Urantia Book_ in 1972. It enhanced his vocation as a Buddhist monk and was influential in his work in the field of substance abuse treatment. He currently pastors the Church of Christ Michael in Melbourne, Australia._
 {.is-info}
 
-> “_Religion does need new leaderes, spiritual men and women whowill dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus'religion who will be exclusively devoted to the spiritual regeneration of man. And then will these spirit-born souls quickly supply the leadeership and inspiration requisite for the social, moral, economic, and political reorganization of the world._” ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> “_Religion does need new leaderes, spiritual men and women whowill dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus'religion who will be exclusively devoted to the spiritual regeneration of man. And then will these spirit-born souls quickly supply the leadeership and inspiration requisite for the social, moral, economic, and political reorganization of the world._” (<a id="a69_594"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/An_Introduction_to_the_New_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Introduction to the New Mission of The Spiritual Fellowship Journal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/Spiritual_Affirmations_to_Enhanced_Religious_Living">
+          <span class="pr-2">Spiritual Affirmations to Enhanced Religious Living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

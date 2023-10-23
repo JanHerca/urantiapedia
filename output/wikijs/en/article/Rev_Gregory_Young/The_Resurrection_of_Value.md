@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Rev. Gregory Young<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Communion Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/God_the_Supreme">
+          <span class="pr-2">God the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There is an interesting story of an unusual event that happened in a Broadway theater. It was a Friday night, and the theater was packed for a performance of Tennessee Williams's _The Night of the Iguana_, starring the notable actress Dorothy McGuire. Just before the curtain was about to rise, a woman in the audience — an overweight, middle-aged woman in a blue print dress — startled the audience by suddenly shouting, “Start the show! Start the show! I want to see Dorothy McGuire. I love Dorothy McGuire!” Ushers and the house manager descended to try and reason with the woman. They reached out for her, but she pulled back and continued to shout, "I want to see Dorothy McGuire! Start the show!
 
@@ -80,3 +104,27 @@ But the Master comes, and the foolish crowd
 Can never quite understand
 The worth of a soul and the change that's wrought
 By the touch of the Master's hand.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Communion Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/God_the_Supreme">
+          <span class="pr-2">God the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

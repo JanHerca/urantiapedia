@@ -3,12 +3,36 @@ title: "Your Favorite Part of the Revelation"
 description: "Creative Outreach"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Revelation, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Larry Mullins<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Can We, Should We, Get Organized?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="pr-2">The State of the Urantia Movement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Garden of Eden fascinates a large number of Urantians. From my own perspective, having far less religious training in my youth than most people, the story of the Garden was relatively uninteresting. This has changed in recent months. A friend and fellow Urantian, Behzad Sarmast, passionately began to tell Joan and I about his research and discoveries into the legends and myths that are rooted in the true Urantian story of the Garden. He disclosed some astounding things. Virtually every civilization has a version of the Garden story, with threads that reach into the distant past and then seem to fade away and disappear. The parallels between these legends are uncanny.
 
@@ -30,6 +54,30 @@ Yet I have not come close to using much of the information in the Urantia Papers
 
 > _The Urantia Papers carry the concept of values beyond the common parameters of philosophical thought. There is so much information there, and it is so condensed, that a single lifetime could not begin to explore it_
 
-Consider that David Zebadee was the first spiritual Internet. How can we expand upon his noble service in these days of turmoil and confusion? The feminine component of God may interest you: how can that factor be presented to the benefit of young women in the Urantia Movement? Imagine what a service it will be if you could translate the Rodan Papers into a modern philosophy of practical living! Whatever parts of the Papers are of special interest to you, think about ways to present them in an original and creative outreach effort. “The religion of the spirit leaves you forever free to follow the truth wherever the leadings of the spirit may take you. And who can judge-perhaps this spirit may have something to impart to this generation which other generations have refused to hear?” ([UB 155:6.5](/en/The_Urantia_Book/155#p6_5))
+Consider that David Zebadee was the first spiritual Internet. How can we expand upon his noble service in these days of turmoil and confusion? The feminine component of God may interest you: how can that factor be presented to the benefit of young women in the Urantia Movement? Imagine what a service it will be if you could translate the Rodan Papers into a modern philosophy of practical living! Whatever parts of the Papers are of special interest to you, think about ways to present them in an original and creative outreach effort. “The religion of the spirit leaves you forever free to follow the truth wherever the leadings of the spirit may take you. And who can judge-perhaps this spirit may have something to impart to this generation which other generations have refused to hear?” (<a id="a56_794"></a>[UB 155:6.5](/en/The_Urantia_Book/155#p6_5))
 
 So many Urantians may answer this question, “Who, me?” Abraham Maslow liked to challenge his college classes by saying: “Who in this room is going to be the next great leader, or writer, or scientist, or artist, or poet?” After a few moments of embarrassed silence, with no sound but a few muffled giggles, he would then ask: “If not you, then who?”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Can We, Should We, Get Organized?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="pr-2">The State of the Urantia Movement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

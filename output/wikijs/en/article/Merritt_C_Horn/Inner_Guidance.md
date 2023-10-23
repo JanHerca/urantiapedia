@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Merritt C. Horn<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: No Other Name? By Paul F. Knitter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Craig_T_McClellan/Arise_Take_Up_Your_Life_and_Walk">
+          <span class="pr-2">“Arise, Take Up Your Life and Walk”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Who told you <br>
 &nbsp;&nbsp;&nbsp;that my revelation had ended? <br>
@@ -87,3 +111,27 @@ To each generation <br>
 &nbsp;&nbsp;&nbsp;guiding them into truth.<br>
 
 From The Call of the Spirit, Copyright © 1984
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: No Other Name? By Paul F. Knitter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Craig_T_McClellan/Arise_Take_Up_Your_Life_and_Walk">
+          <span class="pr-2">“Arise, Take Up Your Life and Walk”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

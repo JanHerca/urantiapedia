@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Paul Herrick<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Just_Another_Source">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Just Another Source?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="pr-2">Eastern Orthodoxy and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When I first considered the column heading “_The Urantia Book_ and Spiritual Renewal,” I felt like I couldn't respond to that directly because there must be a “newal” before there can be a “renewal.” But as I thought more about it. I realized that there was indeed a “newal.” When I was very young I actually did have some spiritual leanings. The problem was that my intellectual development overtook them very quickly. My fascination with both science and adventure, combined with a rapid realization of the fallacies of “Christianity,” tended to undermine these leanings and relegate them to the bottom of my priority list. When I returned to college in 1960 , after three years in the army, I was well on my way through the transition from “believer” ...to agnostic...to atheist.
 
@@ -30,4 +54,28 @@ My life of adventure has continued (I can't stop) and I've had many more near fa
 > _Paul Herrick is an Aeronautical Engineer and a long time student of The Urantia Book.
 {.is-info}
 
-> Do not try to satisfy the curiosity or gratify all the latent adventure surging within the soul in one short life in the flesh. Bepatient!... Harness your energies and bridle your passions; be calm while you await the majestic unfolding of an endless career of progressive adventure and thrilling discovery. [UB 195:5.10](/en/The_Urantia_Book/195#p5_10)
+> Do not try to satisfy the curiosity or gratify all the latent adventure surging within the soul in one short life in the flesh. Bepatient!... Harness your energies and bridle your passions; be calm while you await the majestic unfolding of an endless career of progressive adventure and thrilling discovery. <a id="a56_310"></a>[UB 195:5.10](/en/The_Urantia_Book/195#p5_10)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Just_Another_Source">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Just Another Source?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="pr-2">Eastern Orthodoxy and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

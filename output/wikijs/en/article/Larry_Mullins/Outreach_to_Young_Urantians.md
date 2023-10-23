@@ -9,10 +9,31 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Larry Mullins<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future of the Fifth Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “If the Christian church would only dare to espouse the Master's program,thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking, and they would not hesitate to go all the way through with this great adventure.” ([UB 195:10.10](/en/The_Urantia_Book/195#p10_10))
 
-> “Only the real religion of personal spiritual experience can function helpfully and creatively in the present crisis of civilization.” ([UB 99:2.1](/en/The_Urantia_Book/99#p2_1))
+> “If the Christian church would only dare to espouse the Master's program,thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking, and they would not hesitate to go all the way through with this great adventure.” (<a id="a33_263"></a>[UB 195:10.10](/en/The_Urantia_Book/195#p10_10))
+
+> “Only the real religion of personal spiritual experience can function helpfully and creatively in the present crisis of civilization.” (<a id="a35_138"></a>[UB 99:2.1](/en/The_Urantia_Book/99#p2_1))
 
 The most powerful and attractive religious potential ever to exist on this planet, and the greatest gift ever given to men and women, has been very slow in its development. We are told in the Urantia Papers that the most fertile domain for evangelism is the young. For those Urantians who are not deeply experienced in personal evangelism (and I am one), this kind of outreach offers a friendly, gentle atmosphere.
 
@@ -24,3 +45,25 @@ One or more well-written articles or papers on the subject of creating such a ne
 
 > _Larry Mullins is a consultant in advertizing and marketing. He is an editorial consultant for the Journal and author of Immature People with Power and Jesus: God and Man._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future of the Fifth Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

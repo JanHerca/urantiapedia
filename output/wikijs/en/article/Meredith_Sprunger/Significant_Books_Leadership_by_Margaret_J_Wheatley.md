@@ -3,13 +3,37 @@ title: "Significant Books: Leadership and the New Science by Margaret J. Wheatle
 description: "Learning about Organization from an Orderly Universe"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, Leadership, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Miracle of Recovery</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation_2">
+          <span class="pr-2">The Purpose of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Margaret J. Wheatley
 Berrett-Koehler Publishers, Inc. 1994, pp.166
@@ -21,3 +45,27 @@ The Newtonian model of the world, she points out, is characterized by materialis
 Living systems demonstrate that disequilibrium is the necessary condition for growth. Self-organizing systems teach us that the sure way to stagnation and death is to maintain the security of a closed, dogmatic organization. The distinguishing feature of self-organizing and self-renewing systems is their _resiliency_. The basic characteristic of this resiliency is _self-reference_. “Self-reference is what facilitates orderly change in turbulent environments. In human organizations, a clear sense of identity — of the values, traditions, aspirations, competencies, and culture that guide the operation — is the real source of independence from the environment.” (p.94) Erich Jantsch, in _The Self-Organizing Universe_, speaks of a profound teaching embedded in self-renewing systems. “The natural dynamics of simple dissipative structures teach the optimistic principle of which we tend to despair in the human world: the more freedom in self-organization, the more order.” (p.40)
 
 Information is the creative energy of all organizations. It is the basic ingredient of self-renewal. Often information is guarded and given only to the elite in institutions. Mainline Christian Churches are an example of organizations which are suffering because of a lack of information. They have been steadily declining in numbers and vitality for decades. Most ministers, for example, have not shared unsettling knowledge about the origin and nature of the Bible or the blood atonement doctrine that they learned in seminary. Sharing this information would, indeed, shock many of the faithful. But it would also lay the foundations for restructuring the church into a more relevant and vital spiritual fellowship. These same mainline clergy have, by and large, refused to seriously examine _The Urantia Book_. Although the book's message will someday revitalize the church and transform our world, church leaders are afraid of facing this possibility. New information is the life-blood of all of our institutions. If we are to grow, it must be shared with the rank and file of society.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Miracle of Recovery</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation_2">
+          <span class="pr-2">The Purpose of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

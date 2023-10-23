@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creeping Fundamentalism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Science_and_Theology">
+          <span class="pr-2">Science and Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A highly acclaimed book, _The Rise of Christianity_, by Rodney Stark (Princeton University Press, 1996) may cast some light on growth in the Urantia movement. Rodney Stark who teaches at the University of Washington is regarded by many scholars as the most significant figure in the sociology of religion today. From the best available data, Dr. Stark estimates that Christianity grew at the rate of 40% per decade. Professor Stark has other observations about the rise of Christianity, some of which refute traditional opinions and may lend insights on growth in the Urantia movement:
 
@@ -25,3 +49,28 @@ Starting with the estimate that there were around 300 people in the Urantia move
 
 One of the potentially crippling factors in the Urantia movement is the semi-closed networks of the Fellowship and the IUA where in-group activities predominate. We lack religious organizations primarily devoted to ministry and outreach. A redeeming factor is Urantian Web Sites on the Internet. Hopefully, we are laying foundations for the advent of new religious organizations that will carry the paradigm of the Fifth Epochal Revelation throughout the world.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creeping Fundamentalism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Science_and_Theology">
+          <span class="pr-2">Science and Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Daniel Love Glazer<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Non_Historical_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Non-Historical Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Historicity_of_UB">
+          <span class="pr-2">The Historicity of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A Response to: “_The Urantia Book_ and Sexist Language,” by Judith L. Mace
 
@@ -51,22 +75,22 @@ Contributors to these anthologies point out that Jesus, “the author and finish
 
 But, one may say, the authors represented in these anthologies presumably all write without any knowledge or acceptance of _The Urantia Book_. If we accept Judith Mace's reading, _The Urantia Book_, despite being “burdened with sexist language,” contains the principles which support the development of new, “inclusive” language.
 
-But Mace's reading is highly skewed. For example, she maintains that “The authors probably knew of the impending social evolution away from patriarchal language — undoubtedly they hoped for it.” This is pure speculation and projection on her part. For support she quotes the book's declaration that it necessarily contains errors in “the associated cosmologies therein presented” ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) [emphasis added], as if cosmologies referred to “sexist language.”
+But Mace's reading is highly skewed. For example, she maintains that “The authors probably knew of the impending social evolution away from patriarchal language — undoubtedly they hoped for it.” This is pure speculation and projection on her part. For support she quotes the book's declaration that it necessarily contains errors in “the associated cosmologies therein presented” (<a id="a77_381"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) [emphasis added], as if cosmologies referred to “sexist language.”
 
-Later she purports to cite _The Urantia Book_ when she says, “No language can be considered universal and serviceable unless it is gender-inclusive or genderless.” But the passage referenced actually says nothing about gender; rather, it refers simply to "The conquest of dialects — the triumph of a universal language.” ([UB 71:8.12-14](/en/The_Urantia_Book/71#p8_12))
+Later she purports to cite _The Urantia Book_ when she says, “No language can be considered universal and serviceable unless it is gender-inclusive or genderless.” But the passage referenced actually says nothing about gender; rather, it refers simply to "The conquest of dialects — the triumph of a universal language.” (<a id="a79_322"></a>[UB 71:8.12-14](/en/The_Urantia_Book/71#p8_12))
 
 Mace notes, with approval, section one of the first Paper wherein many names are given for God the Father and we're told that “The First Source and Universe Center has never revealed himself by name, only by nature.” But she passes over other statements in the very same section supporting the name “Father.” Here are two:
 
 - “If we believe that we are the children of this Creator, it is only natural that we should eventually call him Father.”
 - “On a planet of sex creatures, in a world where the impulses of parental emotion are inherent in the hearts of its intelligent being, the term Father becomes a very expressive and appropriate name for the eternal God.”
 
-Mace seems pleased to mention that _The Urantia Book_ states that “Jesus sought to substitute many terms for the kingdom but always without success.” Under the apparent impression that it helps her case, she continues quoting this paragraph: “Among others he used: the family of God, the Father's will, the friends of God, the fellowship of believers, the brotherhood of man, the Father's fold, the children of God, the fellowship of the faithful, the Father's service, and the liberated sons of God.” ([UB 170:2.24](/en/The_Urantia_Book/170#p2_24)) Though she quotes this full passage, she fails to remark on the significance that “kingdom” is the word Jesus sought to replace. The use of Father and the generic use of brotherhood, man, and sons are not seen to present a problem.
+Mace seems pleased to mention that _The Urantia Book_ states that “Jesus sought to substitute many terms for the kingdom but always without success.” Under the apparent impression that it helps her case, she continues quoting this paragraph: “Among others he used: the family of God, the Father's will, the friends of God, the fellowship of believers, the brotherhood of man, the Father's fold, the children of God, the fellowship of the faithful, the Father's service, and the liberated sons of God.” (<a id="a86_503"></a>[UB 170:2.24](/en/The_Urantia_Book/170#p2_24)) Though she quotes this full passage, she fails to remark on the significance that “kingdom” is the word Jesus sought to replace. The use of Father and the generic use of brotherhood, man, and sons are not seen to present a problem.
 
-Mace then makes a startling claim. “In the last sentence of _The Urantia Book_, the authors write that at that time the Father concept was the highest available imagery to describe God to us.... In the sixty plus years since the book was transmitted, radical changes have occurred in our culture and one can justifiably suggest the authors might now choose another concept.” Whoa! What does the last sentence of _The Urantia Book_ actually say? “**When all is said and done, the Father idea is still the highest human concept of God.**” ([UB 196:3.35](/en/The_Urantia_Book/196#p3_35)) This is very different from what Mace reports. The phrase, ”When all is said and done" means when all that can be said has been said, not simply when we consider what is available at this time.
+Mace then makes a startling claim. “In the last sentence of _The Urantia Book_, the authors write that at that time the Father concept was the highest available imagery to describe God to us.... In the sixty plus years since the book was transmitted, radical changes have occurred in our culture and one can justifiably suggest the authors might now choose another concept.” Whoa! What does the last sentence of _The Urantia Book_ actually say? “**When all is said and done, the Father idea is still the highest human concept of God.**” (<a id="a88_538"></a>[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)) This is very different from what Mace reports. The phrase, ”When all is said and done" means when all that can be said has been said, not simply when we consider what is available at this time.
 
-In fact, other human concepts certainly were available to the book's authors, whose mandate is to “give preference to the highest existing human concepts pertaining to the subjects to be presented” and who “may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind.” ([UB 0:12.11](/en/The_Urantia_Book/0#p12_11)) In the Spring, 1993, issue of _The Spiritual Fellowship Journal_, Matthew Block reports on his discovery of a number of published works which evidently served as source material for _The Urantia Book_. Block has observed that the book's authors masterfully appropriate material from these works, using ideas and expressions that fit into the book's structure and concepts, while freely editing and upstepping passages that fail to conform to the book's message.
+In fact, other human concepts certainly were available to the book's authors, whose mandate is to “give preference to the highest existing human concepts pertaining to the subjects to be presented” and who “may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind.” (<a id="a90_336"></a>[UB 0:12.11](/en/The_Urantia_Book/0#p12_11)) In the Spring, 1993, issue of _The Spiritual Fellowship Journal_, Matthew Block reports on his discovery of a number of published works which evidently served as source material for _The Urantia Book_. Block has observed that the book's authors masterfully appropriate material from these works, using ideas and expressions that fit into the book's structure and concepts, while freely editing and upstepping passages that fail to conform to the book's message.
 
-Block has recently come upon the book, _The Enduring Quest: A Search for a Philosophy of Life_, by H. A. Overstreet (New York: W. W. Norton, 1931). Block has identified numerous passages in this book which are clearly paralleled in the language and thought of _The Urantia Book_. In a chapter entitled “God and the Modern Man” are several passages which seem to find clear echoes in the concluding pages of _The Urantia Book_. Among these are the apparent sources for “Mortal man has a spirit nucleus” ([UB 12:9.6](/en/The_Urantia_Book/12#p9_6)) (Overstreet puts it, “What is most characteristic of [man] is that he is, as it were, nucleated. [^5] ), and “All of man's universe romancing may not be fact, but much, very much, is truth.” ([UB 196:3.31](/en/The_Urantia_Book/196#p3_31)) (Cf. Overstreet on “The Truth of Man's Romancing,” p. 208).
+Block has recently come upon the book, _The Enduring Quest: A Search for a Philosophy of Life_, by H. A. Overstreet (New York: W. W. Norton, 1931). Block has identified numerous passages in this book which are clearly paralleled in the language and thought of _The Urantia Book_. In a chapter entitled “God and the Modern Man” are several passages which seem to find clear echoes in the concluding pages of _The Urantia Book_. Among these are the apparent sources for “Mortal man has a spirit nucleus” (<a id="a92_503"></a>[UB 12:9.6](/en/The_Urantia_Book/12#p9_6)) (Overstreet puts it, “What is most characteristic of [man] is that he is, as it were, nucleated. [^5] ), and “All of man's universe romancing may not be fact, but much, very much, is truth.” (<a id="a92_738"></a>[UB 196:3.31](/en/The_Urantia_Book/196#p3_31)) (Cf. Overstreet on “The Truth of Man's Romancing,” p. 208).
 
 In a chapter of _The Enduring Quest_ called “God and the Modern Man” are several passages which seem to find clear echoes in the concluding pages of _The Urantia Book_. Along with the passages that apparently met with the approval of the authors of _The Urantia Book_, we find the following:
 
@@ -80,14 +104,14 @@ Mace seems so intent on updating _The Urantia Book_ with her own notions of gend
 
 - Consider this characterization of the Eternal Son: “In the same sense that God is the Universal Father, the Son is the Universal Mother.” (p. 79)
 - And on page 1289, we are told: “All soul evolving humans are literally the evolutionary sons of God the Father and God the Mother, the Supreme Being.”
-- Then there is the “local universe Mother Spirit.” ([UB 17:6.2](/en/The_Urantia_Book/17#p6_2))
-- Finally, one of the “parable prayers” which Jesus shared with his apostles contains the salutation, “Glorious Father and Mother in one parent combined.” ([UB 144:5.55](/en/The_Urantia_Book/144#p5_55))
+- Then there is the “local universe Mother Spirit.” (<a id="a106_53"></a>[UB 17:6.2](/en/The_Urantia_Book/17#p6_2))
+- Finally, one of the “parable prayers” which Jesus shared with his apostles contains the salutation, “Glorious Father and Mother in one parent combined.” (<a id="a107_156"></a>[UB 144:5.55](/en/The_Urantia_Book/144#p5_55))
 
 These passages, and other, similar ones, demonstrate that _The Urantia Book_ does indicate that what we might call “God the Mother” idea does have a legitimate place. At the same time, the overwhelming testimony of the Urantia revelation is that, as regards the first Person of the Trinity, “Father” is the most appropriate name in our mortal universe frame of reference. Of many supporting passages I could cite, I will content myself with the following, written by a Divine Counselor:
 
-> First and last — eternally — the infinite God is a _Father_. Of all the possible titles by which he might appropriately be known, I have been instructed to portray the God of all creation as the Universal Father.... In all his personal relations with the creature personalities of the universes, the First Source and Center is always and consistently a loving Father. God is a Father in the highest sense of the term. He is eternally motivated by the perfect idealism of divine love, and that tender nature finds its strongest expression and greatest satisfaction in loving and being loved. ([UB 4:4.6](/en/The_Urantia_Book/4#p4_6)) [emphasis in the original]
+> First and last — eternally — the infinite God is a _Father_. Of all the possible titles by which he might appropriately be known, I have been instructed to portray the God of all creation as the Universal Father.... In all his personal relations with the creature personalities of the universes, the First Source and Center is always and consistently a loving Father. God is a Father in the highest sense of the term. He is eternally motivated by the perfect idealism of divine love, and that tender nature finds its strongest expression and greatest satisfaction in loving and being loved. (<a id="a111_594"></a>[UB 4:4.6](/en/The_Urantia_Book/4#p4_6)) [emphasis in the original]
 
-We who accept _The Urantia Book_ as an epochal revelation of divine truth should bear in mind that Divine Counselors are Trinity-origin beings who “are the perfection of the divine counsel of the Paradise Trinity.” They “represent, in fact _are_ the counsel of perfection.” ([UB 19:3.6](/en/The_Urantia_Book/19#p3_6)) [emphasis in the original]
+We who accept _The Urantia Book_ as an epochal revelation of divine truth should bear in mind that Divine Counselors are Trinity-origin beings who “are the perfection of the divine counsel of the Paradise Trinity.” They “represent, in fact _are_ the counsel of perfection.” (<a id="a113_275"></a>[UB 19:3.6](/en/The_Urantia_Book/19#p3_6)) [emphasis in the original]
 
 ## The Contemporary Conflict
 
@@ -127,6 +151,31 @@ A sure effect of succumbing to the pressure to effect a wholesale revision of tr
 
 > _Daniel Love Glazer was raised as a Jew, but later became an agnostic and then a yogi. His spiritual search ultimately led to a transforming encounter with God. Shortly thereafter, he discovered _The Urantia Book_, and through its pages a knowledge of Jesus. He works as a computer science teacher and is married, with two children. He is active in his local United Methodist Church._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Non_Historical_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Non-Historical Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Historicity_of_UB">
+          <span class="pr-2">The Historicity of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

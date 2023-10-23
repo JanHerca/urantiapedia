@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Matt Neibaur<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Beginning for World Unity ( Part II )</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 While serving a mission in Argentina for the Mormon Church, I had a dream. At the time I was working in a district of Buenos Aires called Mataderos. This is the district containing the slaughter houses. The discarded animal remains were burned, leaving a dark smoke over the neighborhood. The sewage system was poor and often overflowed allowing the gutters of the cobblestone streets to fill with blood. The scent of death was everywhere. I thought ofAuchwitz, as I dodged cars on my rusty bike.
 
@@ -22,3 +43,25 @@ At this juncture of my life, everything was new and alive. I saw God in everythi
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Beginning for World Unity ( Part II )</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

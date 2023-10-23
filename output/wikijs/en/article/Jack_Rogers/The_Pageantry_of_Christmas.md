@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Emergent CyberChrist</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today">
+          <span class="pr-2">Psalms Today </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **MUSIC IN WORSHIP**
 
@@ -36,3 +60,27 @@ I believe that Christians need to take a hard look at the Advent season. We need
 First of all, we need to recognize that it is difficult 10 reconstruct history. The cultural Christmas with its pageantry is here to stay in the foreseeable future. Let us celebrate this Holiday Season with enthusiasm and magnify its message of hope, good will and love for all. It has much to contribute 10 the common good.
 
 Happily, information in _The Urantia Book_ presents us with the possibility of a creative alternative. It tells us that Jesus was born on August 21st, the time of the year some scholars have hypothesized his birth took place. This date gives us an opportunity to develop a celebration that would focus on the spiritual meaning of the Incarnation: the Fatherhood of God and the brotherhood of humankind. What a fortuitous opening this could be to highlight the central message of Jesus' mission to our world! Here is a foundation for the greatest possible pageantry of Advent: God's presence in our world!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Emergent CyberChrist</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today">
+          <span class="pr-2">Psalms Today </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

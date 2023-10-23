@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Richard S. Omura<br>© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus and the Cross</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Poison_Parables_and_Paradise">
+          <span class="pr-2">Poison, Parables, and Paradise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I have expressed my views that a spiritual organization based on the teachings of _The Urantia Book_ is necessary to further the truths of the book in the lives of men and women of the planet as detailed in my thesis, “Disseminating the Teachings in _The Urantia Book_.” The points in contention of such an organization are the pitfalls of institutionalized religion of which _The Urantia Book_ speaks:
 
@@ -31,7 +55,7 @@ I have expressed my views that a spiritual organization based on the teachings o
 > 14. it creates the evil discrimination of religious castes,
 > 15. it becomes an intolerant judge of orthodoxy,
 > 16. it fails to hold the interest of adventurous youth and gradually loses the saving message of the gospel of eternal salvation,
-> 17. Formal religion restrains men in their personal spiritual activities instead of releasing them for heightened service as kingdom builders. [UB 99:6.3-4](/en/The_Urantia_Book/99#p6_3)
+> 17. Formal religion restrains men in their personal spiritual activities instead of releasing them for heightened service as kingdom builders. <a id="a57_145"></a>[UB 99:6.3-4](/en/The_Urantia_Book/99#p6_3)
 
 Although the dangers are many, I feel that we must sooner or later venture onto this path. Presently, The Urantia Foundation furthers the material needs of the book, publishing and distributing. The Fellowship brings readers together in a social context and creates an environment where the ideas in the book are intellectually and philosophically discussed. But, alas, there is no organization to promote and develop the spiritual concepts that is so much an integral part of the book.
 
@@ -75,3 +99,27 @@ As is evident, this is just an idea at this time and definitely needs more work 
 
 > _Richard Omura has been a reader of _The Urantia Book_ since the early '70's. He has written two books based its concepts and often holds workshops at the Fellowship conferences. His web site is: www.RichardOmura.com._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus and the Cross</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Poison_Parables_and_Paradise">
+          <span class="pr-2">Poison, Parables, and Paradise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

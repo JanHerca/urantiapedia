@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Preston Thomas<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Semantics and the Lord's Supper</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Hall/Poor_in_Spirit">
+          <span class="pr-2">Poor in Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear B. J.:
@@ -62,3 +86,27 @@ Although I believe it is incorrect to refer to Jesus as our redeemer, he is trul
 B. J., in this letter I have attempted to restate and organize what I said to you at Thanksgiving. I do sincerely appreciate your good hearted and sincere effort to help me better understand the apostolic teachings concerning the “blood of Christ.” I am also delighted to have the opportunity to express my beliefs to you. I hope they have found some reception in your mind and heart.
 
 > _Preston Thomas is a resident of Earlysville, Virginia and holds a MA degree in Philosophy from the University of Virginia. For nine years he worked as a private tutor for children with learning disabilities. In 1981 Preston founded the Einstein School that provides one to one educational instruction and emphasizes the basic teachings of Jesus. Preston is a long time student of_ The Urantia Book. _In 1992 he published_ The Life and Teachings of Jesus, _which arranges and sorts Biblical material dealing with Jesus in chronological harmony with the Urantia Papers._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Semantics and the Lord's Supper</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Hall/Poor_in_Spirit">
+          <span class="pr-2">Poor in Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

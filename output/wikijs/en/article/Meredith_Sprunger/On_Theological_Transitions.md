@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/New_Dimensions_in_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Dimensions in Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="pr-2">Arguing With Nicodemus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dr. Thomas W. Gillespie, President of Princeton Theological Seminary, gave a Convocation Address to the incoming class of seminary students in September of 1996 entitled, “Becoming Theologians.” Gillespie quoted from Donald Light's book _Becoming Psychiatrists: The Professional Transformation of Self_ [^1] in which Light points out that the process of becoming a psychiatrist, theologian, or almost any other professional person is very difficult. Individuals in training feel anxiety and stress not only because there is a great deal to learn but because _their sense of self is being shaken_. Light observes that the student in training must go through five stages of “moral transition.” These stages are: (1) feeling different and being discredited, (2) experiencing moral confusion, (3) going through a period of numbness and exhaustion, (4) undergoing a moral transition, and (5) finally arriving at a stage of self-affirmation when the new frames of reference are internalized and integrated.
 
@@ -19,3 +43,27 @@ This process of educational-theological transition continues throughout life for
 ## Notes
 
 [^1] New York: W. W. Norton \& Co., 1980.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/New_Dimensions_in_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Dimensions in Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="pr-2">Arguing With Nicodemus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "The Church: A Statement of Purpose and Belief"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Church, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Everett Sloffer<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Latent_Mainline_Potential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latent Mainline Potential</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Interface_Does_it_Preach">
+          <span class="pr-2">Interface: Does it Preach?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _This is a statement of a long time _Urantia Book_ reader who was challenged by this pastor to write his view of the purpose of the church._
 
@@ -41,3 +65,27 @@ Fourth, we are united in believing that the daily work of every person is conduc
 Fifth, we are united in believing that in its deepest sense, religion is a purely personal experience between the individual and God. And we believe this experience can be full and complete both within and without the framework of organized religion. We seek spiritual unity with all, while encouraging lives of individual freedom, dignity, and originality before God.
 
 No matter how high we lift our spiritual sights, the ultimate translation of our potentials into actual achievements will not come to fruition in the abstract. We must act; we must convert our aspirations into actions, our ideals into qualities of being.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Latent_Mainline_Potential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latent Mainline Potential</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Interface_Does_it_Preach">
+          <span class="pr-2">Interface: Does it Preach?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,33 @@ title: "Prayerful Problem Solving"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: Recognizing the Goodness of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Human beings are by nature problem solving creatures. Our basic needs and urges interact with environmental stimuli in search of organismic satisfaction and fulfillment. All problem solving from birth to death is set in the context of our nature, experience, and learning. How we solve our problems is most fundamentally determined by our nature and resources. We are material beings integrated and controlled by a neural system directed by mind and indwelt by spirit. Human beings, therefore, have physical, mental, and spiritual resources to aid in problem solving. All of these capacities and capabilities interact and function holistically.
 
@@ -61,9 +82,31 @@ In concluding our thinking about prayerful problem solving, we should remember t
 
 The best picture of the efficacious use of prayer is to observe the prayer life of Jesus:
 
-> Jesus never prayed as a religious duty. To him prayer was a sincere expression of spiritual attitude, a declaration of soul loyalty, a recital of personal devotion, an expression of thanksgiving, an avoidance of emotional tension, a prevention of conflict, an exaltation of intellection, an ennoblement of desire, a vindication of moral decision, an enrichment of thought, an invigoration of higher inclinations, a consecration of impulse, a clarification of viewpoint, a declaration of faith, a transcendental surrender of will, a sublime assertion of confidence, a revelation of courage, the proclamation of discovery, a confession of supreme devotion, the validation of consecration, a technique for the adjustment of difficulties, and the mighty mobilization of the combined soul powers to withstand all human tendencies toward selfishness, evil, and sin. He lived just such a life of prayerful consecration to the doing of his Father's will and ended his life triumphantly with just such a prayer. The secret of his unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship — unbroken communion with God — and not by leadings, voices, visions, or extraordinary religious practices. ([UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
+> Jesus never prayed as a religious duty. To him prayer was a sincere expression of spiritual attitude, a declaration of soul loyalty, a recital of personal devotion, an expression of thanksgiving, an avoidance of emotional tension, a prevention of conflict, an exaltation of intellection, an ennoblement of desire, a vindication of moral decision, an enrichment of thought, an invigoration of higher inclinations, a consecration of impulse, a clarification of viewpoint, a declaration of faith, a transcendental surrender of will, a sublime assertion of confidence, a revelation of courage, the proclamation of discovery, a confession of supreme devotion, the validation of consecration, a technique for the adjustment of difficulties, and the mighty mobilization of the combined soul powers to withstand all human tendencies toward selfishness, evil, and sin. He lived just such a life of prayerful consecration to the doing of his Father's will and ended his life triumphantly with just such a prayer. The secret of his unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship — unbroken communion with God — and not by leadings, voices, visions, or extraordinary religious practices. (<a id="a84_1268"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
 
 > _Meredith Sprunger is a United Church of Christ minister and college teacher, retired, and editor of_ The Spiritual Fellowship Journal.
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: Recognizing the Goodness of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Richard I. Bain<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paradise: The Recentering of Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="pr-2">My Odyssey of Peak Experiences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the original Star Trek series, Captain Kirk informed us at the beginning of each show that space is the final frontier. This may be true for our civilization, but isn't death the final frontier for us as individuals? Even if we have some idea of what death is about and what lies beyond, it is nevertheless an impenetrable and absolute barrier for the living. Death is a leap into a totally unfamiliar existence, from this familiar world of things and people. But is it the leap that we fear so much? I used to think that death is highly overrated as an object of fear until I realized that death is both a destination and a process. The destination may cause some anxiety because of the uncertainties it holds, but it is anticipation of our journey to this destination which often induces the most fear.
 
@@ -50,7 +74,7 @@ The attitude of Dr. Leslie D. Weatherhead, a retired British clergyman, seems ty
 
 ## Your Answer Book?
 
-I used to have a colleague who kidded me about my study of _The Urantia Book_. When a tough moral or ethical question would come up in conversation he would ask, “What does Your Answer Book say about that?” Wouldn't it be convenient for students of _The Urantia Book_ if they could flip open the book and find answers to questions such as the morality of euthanasia spelled out in detail? But, like Jesus, the authors of the book refrain from dealing with such social questions. Suicide is brought up a few times, but usually only as an anthropological fact regarding past cultures. In the case of Judas's suicide, the authors say, “...this renegade mortal...committed the final act in the drama of fleeing from the realities of mortal existence-suicide.”([UB 139:12.13](/en/The_Urantia_Book/139#p12_13)) Note, however, that Judas was not a terminal cancer or AIDS patient trying to avoid a slow and painful death. They really don't address suicide under these circumstances, and their restraint is understandable. Any value judgment made might be in harmony with the mores of one age or culture, but not of another.
+I used to have a colleague who kidded me about my study of _The Urantia Book_. When a tough moral or ethical question would come up in conversation he would ask, “What does Your Answer Book say about that?” Wouldn't it be convenient for students of _The Urantia Book_ if they could flip open the book and find answers to questions such as the morality of euthanasia spelled out in detail? But, like Jesus, the authors of the book refrain from dealing with such social questions. Suicide is brought up a few times, but usually only as an anthropological fact regarding past cultures. In the case of Judas's suicide, the authors say, “...this renegade mortal...committed the final act in the drama of fleeing from the realities of mortal existence-suicide.”(<a id="a76_756"></a>[UB 139:12.13](/en/The_Urantia_Book/139#p12_13)) Note, however, that Judas was not a terminal cancer or AIDS patient trying to avoid a slow and painful death. They really don't address suicide under these circumstances, and their restraint is understandable. Any value judgment made might be in harmony with the mores of one age or culture, but not of another.
 
 > _Even if the authors of the book would condone euthanasia as a merciful way of relieving suffering, it might not help us decide the issues. It is our world, and ultimately our personal decision as to what will be acceptable in making these judgments._
 
@@ -81,6 +105,31 @@ We have heard much debate about the quality of life of terminally ill people. Un
 When I was part of a church visitation program, one of the people I visited in nursing homes was a man who was a retired engineer. He was intelligent and talented, but a stroke had seriously impaired his ability to speak and move about. Almost every time I visited him, he expressed, in his halting fashion, the wish to die. But he was one of the lucky ones there. Others lay mute and unmoving, eyes fixed on the ceiling. Or perhaps their hands fluttered slightly and they moaned unceasingly. Some could be sustained for months or even years like this. Some were mercifully unaware of anything; others were trapped in a living hell, isolated in a body that was only a prison for the spirit and mind. These are the most tragic ones, wishing to die, unable to die. It is a great temptation for a doctor or nurse to give such people a drug overdose if they can do it without being detected. If a person kept their pet alive under such conditions, surely we would wonder at their cruelty. Yet the mores of our society mandate that we keep these people alive, stored in nursing homes like old furniture in warehouses, placed conveniently out of sight so we don't have to see their anguish and despair. Involuntary euthanasia may be a line that we can't cross now, but mercy demands that we eventually legalize involuntary euthanasia to free them from a fate worse than death. Are we wise enough to explore this final frontier? With care, concern, and caution, we can. We must.
 
 > _Dick Bain is an electrical engineer and an editor of_ Interface International. _He is a long time studient of_ The Urantia Book.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paradise: The Recentering of Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="pr-2">My Odyssey of Peak Experiences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

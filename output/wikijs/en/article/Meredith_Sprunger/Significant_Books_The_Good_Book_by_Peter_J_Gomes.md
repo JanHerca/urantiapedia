@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arguing With Nicodemus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="pr-2">Significant Books: Reclaiming the Church by John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peter J. Gomes
 Morrow, 1996, 375 pp.
@@ -24,3 +48,27 @@ The triple danger of bibliolatry, literalism, and culturism (defending the statu
 In the last section of the book, Gomes shows what his interpretation of the Bible has to say about our contemporary human condition including suffering, joy, evil, temptation, wealth, science, and mystery. The difficulty Professor Gomes has in squaring the literalism of the Bible with our present day moral and ethical standards demonstrates that much in the Bible was tailored to a prescientific, outdated culture.
 
 Our society stands in critical need of the reorienting and rejuvenating power of the Fifth Epochal Revelation. _The Urantia Book_ in our time stands in relation to the Bible much as the New Testament stood in relationship with the Old Testament in the first century A. D.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arguing With Nicodemus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="pr-2">Significant Books: Reclaiming the Church by John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

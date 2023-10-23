@@ -3,13 +3,37 @@ title: "Significant Books: Stealing Jesus"
 description: "How Fundamentalism Betrays Christianity"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Our Refuge and Hope</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="pr-2">Quebec Newsletter Reflectivite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bruce Bawer
 Crown, 1997, 340 pp.
@@ -29,3 +53,27 @@ The dynamic behind this conservative revival was the fear aroused by the theory 
 This heritage is carried on by Hal Lindsey in _The Late Great Planet Earth_, Jerry Falwell and the Moral Majority, the fundamentalist takeover of the Southern Baptists, Pat Robertson and the Christian Coalition, and to a lesser degree by James Dobson and Focus on Family, and Bill McCartney and the Promise Keepers. This Church of Law, in the opinion of Bawer, is not a setting in which intelligent, serious people can expect to work out meaningful and responsible answers to ultimate questions. “Nor is it something that the earliest followers of Jesus would have recognized as Christianity. I don't think it's an exaggeration, in fact, to suggest that if the first Christians were exposed to the rhetoric of Robertson, Reed, Dobson, Falwell, and company, they might well ask, in astonishment, 'How did these vicious people manage to steal the name of Jesus?”” (p. 28)
 
 _Stealing Jesus_ at times bogs down in minutia, but it is a good survey of the origin and development of differences among fundamentalists, evangelicals, and mainline churches. It might be regarded as a sequel to John Shelby Spong's Rescuing the Bible from Fundamentalism.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Our Refuge and Hope</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="pr-2">Quebec Newsletter Reflectivite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

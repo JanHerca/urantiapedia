@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Byron Belitsos<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dawn of a New Age</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jack_Rogers/The_Pageantry_of_Christmas">
+          <span class="pr-2">The Pageantry of Christmas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Jesus of Part IV of _The Urantia Book_ will inspire many new Christologies in the next century. In one version, I believe, Christ Michael will appear as the “CyberChrist.” The concept of the CyberChrist is the form of Jesus most presentable to the direct descendants of the computer revolution — as the gospel gets restated for their generation. Prophetically speaking, the CyberChrist is the Christ of personal transfiguration as this is induced by advanced, computer-based media: the Jesus who sponsors cosmic religious experiences in a post-modern world. Hopefully, this Jesus can compete with the neo-pagan gods now filling the spiritual void of the sophisticated children of the computer age.
 
@@ -52,3 +76,27 @@ While providing many lines of praise of technology and its potential, _Lawnmower
 
 > _Byron has been a joumalist and television producer and is now a consultant in the telecommunications industry._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dawn of a New Age</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jack_Rogers/The_Pageantry_of_Christmas">
+          <span class="pr-2">The Pageantry of Christmas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Thomas Strawser<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Long/Spiritual_Outreach_for_Spiritual_Fellowships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Outreach for Spiritual Fellowships</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Barton/The_Man_Nobody_Knows_Part_III">
+          <span class="pr-2">The Man Nobody Knows ( Part III )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I realized a short time ago that I trusted my horse more than I trusted God for quite a few years. I hate to admit this and it sounds almost sacrilegious when I see it in writing, but it's true.
 
@@ -41,4 +65,28 @@ Life is wonderful and is a continuous learning process. I have been fortunate to
 > _Thomas Strawser was introduced to _The Urantia Book_ in 1983 and found answers to life-long questions. He and his wife Barbara joined the 1st Urantia Society of Oklahoma in 1984. The truth and value of these teachings sustained and guided them through the death of a teenage daughter and Tom's total blindness in 1994. Another test of the teachings came when Barb died in 2001. Tom believes he was truly blessed with the Urantia revelation. God and Lady is the closing of his 4th CD describing his practical application of the UB teachings. These CDs are available at www.mylivingsolutions.com_
 {.is-info}
 
-> “_The fluctuations of the Father's presence are not due to the changeableness of God. The Father does not retire in seclusion because he has been slighted; his affections are not alienated because of the creature's wrongdoing. Rather, having been endowed with the power of choice (concerning Himself), his children, in the exercise of that choice, directly determine the degree and limitations of the Father's divine influence in their own hearts and souls. The Father has freely bestowed himself upon us without limit and without favor._” [The Urantia Papers, [UB 3:1.12](/en/The_Urantia_Book/3#p1_12)]
+> “_The fluctuations of the Father's presence are not due to the changeableness of God. The Father does not retire in seclusion because he has been slighted; his affections are not alienated because of the creature's wrongdoing. Rather, having been endowed with the power of choice (concerning Himself), his children, in the exercise of that choice, directly determine the degree and limitations of the Father's divine influence in their own hearts and souls. The Father has freely bestowed himself upon us without limit and without favor._” <a id="a67_542"></a>[The Urantia Papers, [UB 3:1.12](/en/The_Urantia_Book/3#p1_12)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Long/Spiritual_Outreach_for_Spiritual_Fellowships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Outreach for Spiritual Fellowships</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Barton/The_Man_Nobody_Knows_Part_III">
+          <span class="pr-2">The Man Nobody Knows ( Part III )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

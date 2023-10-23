@@ -3,12 +3,33 @@ title: "Significant Books: Finding Darwin's God, by Kenneth R. Miller"
 description: "A Scientist's Search for Common Ground Between God and Evolution"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: God, Evolutionism, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When God Doesn’t Make Sense</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Kenneth R. Miller is a Professor of Biology at Brown University. _Finding Darwin's God_ is a definitive refutation of the creationist description of the origin of humankind. Dr. Miller takes issue with those scientists who claim that modern science precludes the existence of God. He convincingly argues that science and religion offer different, but compatible, ways of viewing the world. Properly understood, evolution adds depth and meaning not only to a scientific view of the world, but also to a spiritual one.
 
@@ -21,3 +42,25 @@ In Miller's detailed analysis and repudiation of creationist views, the nonscien
 Thoroughgoing materialism is an untenable position, Miller observes, because quantum physics and the Heisenberg “uncertainty principle” show that reality is nondeterministic. “By recognizing the continuing force of evolution, a religious person acknowledges that God is every bit as creative in the present as He was in the past. That — and not a rejection of any of the core ideas of evolution — is why I am a believer.” (p.258) And that is how Miller finds Darwin's God!
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When God Doesn’t Make Sense</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

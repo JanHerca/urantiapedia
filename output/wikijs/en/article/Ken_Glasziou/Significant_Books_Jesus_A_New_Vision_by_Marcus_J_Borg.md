@@ -3,12 +3,36 @@ title: "Significant Books: Jesus–A New Vision by Marcus J. Borg"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Five Gospels by Robert W. Funk et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I">
+          <span class="pr-2">A New Beginning for World Unity ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Marcus J. Borg, Harper Collins, 1989, 1991, pp. 207
 
@@ -35,6 +59,31 @@ This book contains a multitude of references that indicate a new movement is eme
 “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!”
 
 > _Ken Glasziou is a research scientist, retired, and active in church work in Australia. He is author of_ Science and Religion: The New Age Beyond 2000 A. D. _and_ Christ or Chaos: The Evolution of a Revelation.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Five Gospels by Robert W. Funk et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I">
+          <span class="pr-2">A New Beginning for World Unity ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

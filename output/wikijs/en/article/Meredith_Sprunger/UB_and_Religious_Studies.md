@@ -3,12 +3,36 @@ title: "The Urantia Book and Religious Studies"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Isabelle_Masel/Church_Members_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Church Members and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="pr-2">The Mathematics of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Paper presented at the American Academy of Religion meeting at Anaheim 11/25/85._
 
@@ -95,3 +119,27 @@ _The Urantia Book_ Description of the Supreme Being Compared with Whitehead's Co
 “_The Urantia Book_ View of Christianity and the Gospel Compared with that of Adolf von Harnack”
 
 These are only a few of dozens of topics which are inspired by the stimulating and innovative material found in _The Urantia Book_. When scholars of religion finally discover the rich mine of religious material in _The Urantia Book_, the creative parameters of research will be greatly expanded. Kenneth Boulding in _The Meaning of the Twentieth Century_, Alvin Toffler in _The Third Wave_, John Naisbitt in _Megatrends_, Fritjof Capra in _The Turning Point_, and many other prophetic voices have pointed out that we are entering a major transitional change in the history of our planet. We desperately need spiritual foundations which are large enough, solid enough, and have the visionary potential to give stability and guidance to the new age which is struggling to be born. I believe _The Urantia Book_ has the greatest potential for serving in this capacity of any philosophical-religious resource now available to humankind. $\square$
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Isabelle_Masel/Church_Members_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Church Members and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="pr-2">The Mathematics of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

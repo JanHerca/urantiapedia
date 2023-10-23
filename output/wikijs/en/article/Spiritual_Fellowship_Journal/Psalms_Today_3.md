@@ -3,13 +3,37 @@ title: "Psalms Today"
 description: "Spiritual Progress"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, Poetry, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Transforming Encounter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="pr-2">The Supreme Potential of the Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 How long, O Lord, must we wait for the enlightenment of humanity?
 
@@ -36,3 +60,27 @@ I have complete trust in the triumph of your great plan for humankind. Your stea
 In the midst of the problems and suffering of my life, I live in the bountiful blessings of renewal, growth, and inner peace you provide me.
 
 I will praise you eternally! (13)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Transforming Encounter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="pr-2">The Supreme Potential of the Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

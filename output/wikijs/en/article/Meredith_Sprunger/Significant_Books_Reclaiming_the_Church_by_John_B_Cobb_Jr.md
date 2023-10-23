@@ -3,12 +3,36 @@ title: "Significant Books: “Reclaiming the Church” by John B. Cobb, Jr"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Church, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Good Book by Peter J. Gomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="pr-2">To be Wise as Serpents, Harmless as Doves</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 John B. Cobb, Jr.
 Westminster John Knox Press, 1997, 110 pp.
@@ -28,4 +52,28 @@ It is possible that the renewal of the church can come about without a transform
 Professor Cobb's greatest problem is trying to explain how one recognizes “Christ as Lord” and at the same time view other religions as authentic pathways to God. The cosmology of _The Urantia Book_ solves this problem in a unique and beautiful way. Unfortunately, the experience of the last forty years suggests that even such open-minded theologians as Professor Cobb are hardly ready for the transformation of a new spiritual paradigm, the Fifth Epochal Revelation, that would bring a real renaissance in the Christian Church.
 
 
-> “The acid test for any religious philosophy consists in whether or not it distinguishes between the realities of the material and the spiritual worlds while at the same moment recognizing their unification in intellectual striving and in social serving.” ([UB 101:7.5](/en/The_Urantia_Book/101#p7_5))
+> “The acid test for any religious philosophy consists in whether or not it distinguishes between the realities of the material and the spiritual worlds while at the same moment recognizing their unification in intellectual striving and in social serving.” (<a id="a54_258"></a>[UB 101:7.5](/en/The_Urantia_Book/101#p7_5))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: The Good Book by Peter J. Gomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="pr-2">To be Wise as Serpents, Harmless as Doves</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/A_New_Millennium_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Millennium Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/A_Celebration_of_Low_Technology">
+          <span class="pr-2">A Celebration of Low Technology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We love you Universal Father; your shepherding care 
 and guidance is the enabling foundation of our 
@@ -56,3 +80,27 @@ growth which you have in store for us as we
 traverse the grand universe and one day stand 
 in your presence on Paradise to be ushered 
 into the service adventures of eternity!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/A_New_Millennium_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Millennium Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/A_Celebration_of_Low_Technology">
+          <span class="pr-2">A Celebration of Low Technology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

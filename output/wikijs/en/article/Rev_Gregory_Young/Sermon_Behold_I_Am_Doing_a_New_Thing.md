@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Rev. Gregory Young<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/My_Acceptance_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Acceptance of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization">
+          <span class="pr-2">Suggestive Preamble for the Constitution of a Religious Organization Based on the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Some years ago when the Denver zoo was going through a major renovation, there was a polar bear that had arrived at the zoo before a large naturalistic environment being constructed was ready for it. The cage that the bear was put into temporarily was just big enough so that the polar bear could take three nice swinging steps in one direction, whirl around and take three steps in the other direction, back and forth. The polar bear spent many months in that particular cage that restricted its behavior. Eventually the naturalistic environment was completed and the bear was released from his cage....and guess what? The polar bear still paced back and forth as if the cage was still there.
 
@@ -82,4 +106,28 @@ By the touch of the Master's hand.
 {.is-info}
 
 
-> “Urantia society can never hope to settle down as in past ages. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny; and the soul of man, as never before in the world's history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance. The paramount mission of religion as a social influence is to stabilize the ideals of mankind during these dangerous times of transition from one phase of civilization to another, from one level of culture to another.” ([UB 99:1.3](/en/The_Urantia_Book/99#p1_3))
+> “Urantia society can never hope to settle down as in past ages. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny; and the soul of man, as never before in the world's history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance. The paramount mission of religion as a social influence is to stabilize the ideals of mankind during these dangerous times of transition from one phase of civilization to another, from one level of culture to another.” (<a id="a108_612"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/My_Acceptance_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Acceptance of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization">
+          <span class="pr-2">Suggestive Preamble for the Constitution of a Religious Organization Based on the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

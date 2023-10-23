@@ -3,13 +3,37 @@ title: "The Second Enlightenment: Liberalism and Religion"
 description: "An essay by Bill Granstaff"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Religion, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Bill Granstaff<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing a Gift Beyond Words</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/The_Larger_View">
+          <span class="pr-2">The Larger View</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Epochal revelations are frustrating. They are frustrating because, unlike personal spiritual revelations, they are by definition revelations meant to transform and enhance _every_ individual's spiritual life. Thus those of us who espouse this revelation find ourselves living a very paradoxical existence. I use the word “paradoxical” because, while we marvel at _The Urantia Book_'s transformation of our own perspectives, we may sometimes find ourselves troubled by the huge numbers of our preoccupied and disinterested brethren. Due to this revelation's immediately personal spiritual focus, its macro-sociological consequences may be many years away. Therefore, many of us find ourselves struggling with a demon of sorts. Now of course, this is not one of those Halloween demons that lifts us up above our beds, scares our mothers, or makes our skin change color. Rather it is a mind demon that whines and scoffs. It whines for some truly momentous world event that would undeniably validate the Truths of _The Urantia Book_, while it scoffs at the subjective validation we get from our own souls.
 
@@ -111,29 +135,29 @@ The previous example of liberalism applied to the spirit medium should sound fam
 
 > Liberal Spiritual Principle \#1/Urantia Complement:
 > 
-> The proof that revelation is revelation is this same fact of human experience: the fact that revelation does synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy, a co-ordinated and unbroken explanation of both science and religion, thus creating a harmony of mind and satisfaction of spirit which answers in human experience those questionings of the mortal mind which craves to know how the Infinite works out his will and plans in matter, with minds, and on spirit (_The Urantia Book_ 1955, [UB 101:2.1](/en/The_Urantia_Book/101#p2_1)).
+> The proof that revelation is revelation is this same fact of human experience: the fact that revelation does synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy, a co-ordinated and unbroken explanation of both science and religion, thus creating a harmony of mind and satisfaction of spirit which answers in human experience those questionings of the mortal mind which craves to know how the Infinite works out his will and plans in matter, with minds, and on spirit (_The Urantia Book_ 1955, <a id="a137_577"></a>[UB 101:2.1](/en/The_Urantia_Book/101#p2_1)).
 > 
-> Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, but revelation is validated only by human _experience_ ([UB 101:2.8](/en/The_Urantia_Book/101#p2_8)).
+> Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, but revelation is validated only by human _experience_ (<a id="a139_150"></a>[UB 101:2.8](/en/The_Urantia_Book/101#p2_8)).
 > 
 > Liberal Spiritual Principle \#2/Urantia Complement:
 > 
-> From this day, for the remainder of his natural life, Ganid continued to evolve a religion of his own. He was mightily moved in his own mind by Jesus' broadmindedness, fairness, and tolerance (my emphasis). In all their discussions of philosophy and religion this youth never experienced feelings of resentment or reactions of antagonism ([UB 132:7.8](/en/The_Urantia_Book/132#p7_8)).
+> From this day, for the remainder of his natural life, Ganid continued to evolve a religion of his own. He was mightily moved in his own mind by Jesus' broadmindedness, fairness, and tolerance (my emphasis). In all their discussions of philosophy and religion this youth never experienced feelings of resentment or reactions of antagonism (<a id="a143_341"></a>[UB 132:7.8](/en/The_Urantia_Book/132#p7_8)).
 > 
-> Nathaniel most revered Jesus for his tolerance. He never grew weary of contemplating the broadmindedness and generous sympathy of the Son of Man ([UB 139:6.8](/en/The_Urantia_Book/139#p6_8)).
+> Nathaniel most revered Jesus for his tolerance. He never grew weary of contemplating the broadmindedness and generous sympathy of the Son of Man (<a id="a145_148"></a>[UB 139:6.8](/en/The_Urantia_Book/139#p6_8)).
 > 
 >  Liberal Spiritual Principle \#3/Urantia Complement:
 > 
-> ‘But I have come among you to proclaim a greater truth, one which many of the later prophets also grasped, that God loves you-every one of you — as individuals’ ([UB 145:2.4](/en/The_Urantia_Book/145#p2_4)).
+> ‘But I have come among you to proclaim a greater truth, one which many of the later prophets also grasped, that God loves you-every one of you — as individuals’ (<a id="a149_164"></a>[UB 145:2.4](/en/The_Urantia_Book/145#p2_4)).
 > 
-> The religion of the kingdom is personal, individual; the fruits, the results, are familial, social. Jesus never failed to exalt the sacredness of the individual as contrasted with the community ([UB 170:3.10](/en/The_Urantia_Book/170#p3_10)).
+> The religion of the kingdom is personal, individual; the fruits, the results, are familial, social. Jesus never failed to exalt the sacredness of the individual as contrasted with the community (<a id="a151_197"></a>[UB 170:3.10](/en/The_Urantia_Book/170#p3_10)).
 > 
-> James Zebedee had asked, ‘Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?’ When Jesus heard this question, he was stirred within his spirit, so much so that he replied: 'James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and freedom before God. I do not desire that social harmony and fraternal peace shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity — and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1)).
+> James Zebedee had asked, ‘Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?’ When Jesus heard this question, he was stirred within his spirit, so much so that he replied: 'James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and freedom before God. I do not desire that social harmony and fraternal peace shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity — and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven (<a id="a153_760"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)).
 
 And finally, the passage that ensures the liberal dignity of _The Urantia Book_ itself:
 
 > Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree.
 > 
-> Conceptual frames of the universe are only relatively true; they are serviceable scaffolding which must eventually give way before the expansions of enlarging cosmic comprehension ([UB 115:1.1-2](/en/The_Urantia_Book/115#p1_1)).
+> Conceptual frames of the universe are only relatively true; they are serviceable scaffolding which must eventually give way before the expansions of enlarging cosmic comprehension (<a id="a159_183"></a>[UB 115:1.1-2](/en/The_Urantia_Book/115#p1_1)).
 
 The previous examples are merely representative of the overarching liberal spirit of _The Urantia Book_. The book's central concept, that each individual is indwelt by a fragment of the Father, validates liberalism's most profound principle — the importance of the individual-throughout eternity. The teachings of _The Urantia Book_ are, in effect and in spirit, liberalism applied to religion.
 
@@ -165,3 +189,27 @@ Liberalism is slowly seeping in, like it or not. But many of the people Fowler a
 
 > _Bill Grandstaff is a doctoral student in Political Science. He has worked as a writer, producer, and performer of contemporary music._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing a Gift Beyond Words</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/The_Larger_View">
+          <span class="pr-2">The Larger View</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

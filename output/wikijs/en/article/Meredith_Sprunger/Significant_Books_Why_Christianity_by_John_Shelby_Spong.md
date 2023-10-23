@@ -3,12 +3,33 @@ title: "Significant Books: Why Christianity Must Change or Die"
 description: "A New Reformation of the Church's Faith and Practice"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Christianity, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: The Saving Presence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 John Shelby Spong
 Harper San Francisco, 1998, 228 pp.
@@ -25,8 +46,30 @@ Bishop Spong's religion centers around his experience with the indwelling presen
 
 
 
-> “The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus.” ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+> “The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus.” (<a id="a48_336"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: The Saving Presence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

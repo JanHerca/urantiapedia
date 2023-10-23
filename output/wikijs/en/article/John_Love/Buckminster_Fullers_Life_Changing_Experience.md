@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Are_You_an_Unused_Urantia_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are You an Unused Urantia Resource?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/If_We_Build_It_Will_They_Come">
+          <span class="pr-2">If We Build It, Will They Come?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > **(Original Interview by John Love)**
 > **Reprinted from QUEST/79, Nov./Dec. 1979**
@@ -44,4 +68,28 @@ I'm absolutely convinced that everything that has happened to me since that time
 
 Many times I've chickened, and everything inevitably goes wrong. But then, when I return to my commitment, my life suddenly works again. There's something of the miraculous in that.
 
-> _The Urantia Papers tell us: “Most of the spectacular phenomena associated with so-called religious conversions are entirely psychologic in nature, but now and then there do occur experiences which are also spiritual in origin. When the mental mobilization is absolutely total on any level of the psychic upreach toward spirit attainment, when there exists perfection of the human motivation of loyalties to the divine idea, then there very often occurs a sudden down-grasp of the indwelling spirit to synchronize with the concentrated and consecrated purpose of the superconscious mind of the believing mortal. And it is such experiences of unified intellectual and spiritual phenomena that constitute the conversion which consists in factors over and above purely psychologic involvement.”_ [[UB 100:5.4](/en/The_Urantia_Book/100#p5_4)]
+> _The Urantia Papers tell us: “Most of the spectacular phenomena associated with so-called religious conversions are entirely psychologic in nature, but now and then there do occur experiences which are also spiritual in origin. When the mental mobilization is absolutely total on any level of the psychic upreach toward spirit attainment, when there exists perfection of the human motivation of loyalties to the divine idea, then there very often occurs a sudden down-grasp of the indwelling spirit to synchronize with the concentrated and consecrated purpose of the superconscious mind of the believing mortal. And it is such experiences of unified intellectual and spiritual phenomena that constitute the conversion which consists in factors over and above purely psychologic involvement.”_ <a id="a70_795"></a>[[UB 100:5.4](/en/The_Urantia_Book/100#p5_4)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Are_You_an_Unused_Urantia_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are You an Unused Urantia Resource?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/If_We_Build_It_Will_They_Come">
+          <span class="pr-2">If We Build It, Will They Come?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

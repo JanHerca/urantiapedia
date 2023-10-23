@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/A_New_Urgency">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Urgency?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="pr-2">Real Life Outreach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 During the 1970's and 80's Don Deam was often seen at Urantia Conferences quietly smoking a pipe and observing the goings on. He was always an active Urantian, and hosted a study group and his own regional conference in Topeka, Kansas before he retired from his law practice and moved to Arkansas. Don was especially supportive and helpful to me in various Urantia projects over the years. But, I really didn't know Don's remarkable background and service to his country until one quiet afternoon in his study. There, reluctantly — at my urging-he unfolded events and spun stories, and showed me unique artifacts and clippings from his adventures.
 
@@ -21,3 +45,27 @@ In the course of that golden afternoon Donald Deam told me other stories, includ
 “_Directing the withdrawal, First Sgt. Deam supervised a stream crossing by all 200 men which he accomplished with precision and a minimum number of casualties, despite intense fire by the enemy. In the march that followed, Deam went from man to man, encouraging them not to be afraid and to keep low. Shot three times through the arm during the stream crossing, he ignored his own wounds and exposed himself continually to fire as he aided and supervised the group. He finally succeeded in leading them to Major Richard J. Allen . . . and with this additional strength Maj. Allen was able to capture BeuzeAddeville and later form part of the group who ... seized and held the La Barquette locks, a regimental mission._”
 
 Don now lives alone in a retirement center in Topeka. His sight is failing, but he manages to read with the aid of modern technology. He loves to hear from Urantians, old and young. Drop him a few words of encouragement at: _Donald L. Deam, 3515 SW 6th, Apt. 228, Topeka, KS. 66606. Or pick up the phone and give him a call: (785) 235-5909. Don loves to hear from Urantians._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/A_New_Urgency">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Urgency?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="pr-2">Real Life Outreach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

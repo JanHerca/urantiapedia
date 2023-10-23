@@ -3,12 +3,36 @@ title: "Ministry and Service: Our Call"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Service, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Marvin Gawryn<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is the Science of The Urantia Book Revelatory?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="pr-2">Spiritual Perspectives in the Workplace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I'd like to begin sharing with you on the topic, “Ministry and Service: Our Call,” by relating a story told by a friend, Jim Davis, the associate pastor of the church we attend. You may have read in the papers last year of the outbreak of disease in India that killed many thousands of people. In the midst of those who were dying, Mother Theresa and her co-workers ministered to the needs of those who were leaving this world. Mother Theresa, in her 80's, herself in frail health, was working day after day, 15 and 16 hours a day. A reporter who was following her around finally asked her, “How can you keep doing this?” “I have to,” she replied, “I love God, and these are God's people.”
 
@@ -28,19 +52,19 @@ Each person's calling evolves over time, and it is as unique as the person who f
 
 ## A Sense of Duty: Service
 
-The wellspring of our sense of calling flows not only from our love for God; it also taps down to a core sense of duty. When we realize how much the Father gives us in every single moment, we feel we should give back. We want to do something to balance the equation. Giving ourselves in service deeply satisfies this urge to fulfill our duty. We can make our contribution to the cosmic balance. It becomes our great joy, our great satisfaction, to give back to God by ministering to his children. As the authors of _The Urantia Book_ observe: “This is the birth of cosmic morality and the dawning realization of universal duty.” ([UB 110:3.10](/en/The_Urantia_Book/110#p3_10))
+The wellspring of our sense of calling flows not only from our love for God; it also taps down to a core sense of duty. When we realize how much the Father gives us in every single moment, we feel we should give back. We want to do something to balance the equation. Giving ourselves in service deeply satisfies this urge to fulfill our duty. We can make our contribution to the cosmic balance. It becomes our great joy, our great satisfaction, to give back to God by ministering to his children. As the authors of _The Urantia Book_ observe: “This is the birth of cosmic morality and the dawning realization of universal duty.” (<a id="a54_630"></a>[UB 110:3.10](/en/The_Urantia_Book/110#p3_10))
 
 > _For me the word, ministry, has become associated with the conveying of truth to a hungry soul, in all of the many ways it can be conveyed. For me the word, service, is the broader term that connotes doing good for another in all different kinds of ways._
 
 Before talking about specific arenas of service, I should like to talk about two distinctions that have been very important to me as I have thought about this topic. The first distinction is loosely tied to the two words: ministry and service. For me the word, _ministry_, has become associated with the conveying of truth to a hungry soul, in all of the many ways it can be conveyed. For me the word, _service_, is the broader term that connotes doing good for another in all different kinds of ways.
 
-This distinction was quite clear and important to Jesus. In describing his personal ministry on [UB 132:4.2](/en/The_Urantia_Book/132#p4_2), the authors of _The Urantia Book_ say he listened sympathetically, offered practical suggestions, and spoke words of comfort and consolation. In addition, however, “invariably would he tell these distressed mortals about the love of God and impart the information, by various and sundry methods, that they were children of this loving Father in Heaven.” On [UB 178:1.11](/en/The_Urantia_Book/178#p1_11), talking to fifty of his followers, Jesus makes the distinction quite explicit. “Let all mankind benefit from the overflow of your loving spiritual ministry, enlightening intellectual communion, and uplifting social service; but none of these humanitarian labors, nor all of them, should be permitted to take the place of proclaiming the gospel.”
+This distinction was quite clear and important to Jesus. In describing his personal ministry on <a id="a60_96"></a>[UB 132:4.2](/en/The_Urantia_Book/132#p4_2), the authors of _The Urantia Book_ say he listened sympathetically, offered practical suggestions, and spoke words of comfort and consolation. In addition, however, “invariably would he tell these distressed mortals about the love of God and impart the information, by various and sundry methods, that they were children of this loving Father in Heaven.” On <a id="a60_498"></a>[UB 178:1.11](/en/The_Urantia_Book/178#p1_11), talking to fifty of his followers, Jesus makes the distinction quite explicit. “Let all mankind benefit from the overflow of your loving spiritual ministry, enlightening intellectual communion, and uplifting social service; but none of these humanitarian labors, nor all of them, should be permitted to take the place of proclaiming the gospel.”
 
-And on [UB 132:6.1](/en/The_Urantia_Book/132#p6_1), after Jesus and Ganid returned a lost child to his mother in Rome, Jesus said, “You know Ganid, most human beings are like the lost child.... Did we not supremely enjoy this ministry of restoring the child to his mother? So do those who lead men to God experience the supreme satisfaction of human service.” So the highest form of service, the indispensable service that Jesus always included, in various and sundry ways, was the ministry of sharing the essential soul-saving truths of the gospel.
+And on <a id="a62_7"></a>[UB 132:6.1](/en/The_Urantia_Book/132#p6_1), after Jesus and Ganid returned a lost child to his mother in Rome, Jesus said, “You know Ganid, most human beings are like the lost child.... Did we not supremely enjoy this ministry of restoring the child to his mother? So do those who lead men to God experience the supreme satisfaction of human service.” So the highest form of service, the indispensable service that Jesus always included, in various and sundry ways, was the ministry of sharing the essential soul-saving truths of the gospel.
 
 A second distinction that's been important to me is between two of the ways of sharing spiritual truth that we have available to us. First, is sharing the Bible or _The Urantia Book_ themselves, and second is sharing, in their simpler form, our own best understanding of Jesus' main teachings.
 
-Unfortunately, at times, we have fallen into the trap of thinking one or the other of these approaches is the “right”or “best” one. As usual, Jesus' piercing insight can correct our misunderstanding. On [UB 133:4.2](/en/The_Urantia_Book/133#p4_2) he says to the miller in Corinth, “Give the milk of truth to those who are babes in spiritual perception. In your living and loving ministry serve spiritual food in attractive form and suited to the capacity of receptivity of each of your inquirers.” Serving spiritual food in a form that is attractive and suitable to the needs of our different inquirers is an art form which combines skill, intuition, and a cookbook with more than one recipe.
+Unfortunately, at times, we have fallen into the trap of thinking one or the other of these approaches is the “right”or “best” one. As usual, Jesus' piercing insight can correct our misunderstanding. On <a id="a66_203"></a>[UB 133:4.2](/en/The_Urantia_Book/133#p4_2) he says to the miller in Corinth, “Give the milk of truth to those who are babes in spiritual perception. In your living and loving ministry serve spiritual food in attractive form and suited to the capacity of receptivity of each of your inquirers.” Serving spiritual food in a form that is attractive and suitable to the needs of our different inquirers is an art form which combines skill, intuition, and a cookbook with more than one recipe.
 
 _The Urantia Book_ was designed to respond to the sophisticated spiritual quest of the many modern men and women whose needs remain unmet by the current evolutionary forms of religion. The book presents a universe view, a theology, and a narrative of global history that deeply satisfies and reorients the modern mind, and stretches it to the very edges of its current capacity. Two of its most innovative theological contributions are an incredibly detailed description of the eternal life which sets this first life in a soul-satisfying context, and more than fifty pages devoted exclusively to revealing the Father's most astounding gift to each one of us — his indwelling presence. For many people who are searching beyond contemporary religious sources,_The Urantia Book_ may well satisfy them in their search for truth.
 
@@ -84,7 +108,7 @@ When I have felt the frustration of family responsibilities keeping me from “m
 
 And it's not all mundane. Introducing our children to a living relationship with our Farther is spiritual ministry of the first order. If we do that well, we can look forward to an eternal friendship with each of our children in which to savor the fruits of our labors. A few months ago I was tucking in one of my children for the night and I said to her, “I'm so glad God has given you to me to raise as his child.” She gave me a huge hug and said back, “I'm so glad God gave you to me to be my daddy.” I felt the bells were ringing on high; it was an incredibly full moment!
 
-Love and service are spiritually linked. On [UB 129:0.2](/en/The_Urantia_Book/129#p0_2) of _The Urantia Book_ we read: “Jesus...loved his family, and this natural affection had been tremendously augmented by his extraordinary devotion to them. The more fully we bestow ourselves upon our fellows, the more we come to love them; and since Jesus had given himself so fully to his family, he loved them with a great and fervent affection.” So it seems that love and service are very reciprocal. The more we love someone, the more we want to serve them, and the more we serve them, the more we grow to love them.
+Love and service are spiritually linked. On <a id="a110_44"></a>[UB 129:0.2](/en/The_Urantia_Book/129#p0_2) of _The Urantia Book_ we read: “Jesus...loved his family, and this natural affection had been tremendously augmented by his extraordinary devotion to them. The more fully we bestow ourselves upon our fellows, the more we come to love them; and since Jesus had given himself so fully to his family, he loved them with a great and fervent affection.” So it seems that love and service are very reciprocal. The more we love someone, the more we want to serve them, and the more we serve them, the more we grow to love them.
 
 ## The Inner Family
 
@@ -92,11 +116,11 @@ This insight leads into the fourth and last service arena I would like to mentio
 
 Now how is it that we can render service to this inner family? To serve is to determine what would most satisfy and benefit another person, and do that for them. What is it that the indwelling Spirit of God most desires from us? It is our love, our trusting affection as his children. God wants to share with us in a mutual loving relationship, the full expression of which occurs only in the embrace of worship.
 
-Look again at Jesus. He spent so much of his time in worshipful communion with his Father. This is where we encounter the living heart of his gospel.This is where we feel like God's child. This is where we ourselves are renewed and nourished in his love, which then overflows in our ministry to others. Without worship we dry up, like a dusty riverbed cut off from its source. On [UB 143:7.6](/en/The_Urantia_Book/143#p7_6) we read, “Worship is the technique of looking to the One for the inspiration of service to the many.”
+Look again at Jesus. He spent so much of his time in worshipful communion with his Father. This is where we encounter the living heart of his gospel.This is where we feel like God's child. This is where we ourselves are renewed and nourished in his love, which then overflows in our ministry to others. Without worship we dry up, like a dusty riverbed cut off from its source. On <a id="a118_380"></a>[UB 143:7.6](/en/The_Urantia_Book/143#p7_6) we read, “Worship is the technique of looking to the One for the inspiration of service to the many.”
 
-We are also told that “the Spirit of Truth came to help the believer to witness to the realities of Jesus' teachings and his life as he lived it in the flesh, and as he now again lives it anew and afresh in the individual believer of each passing generation of the spirit-filled sons of God.” ([UB 194:2.6](/en/The_Urantia_Book/194#p2_6)) It is in prayer that we develop our relationship with Jesus, and open ourselves to the transformation of his Spirit. If we have enlisted in Jesus' ongoing work on this world, the more our relationship with him grows in prayer, the more he can live in us and through us, the more effective we can be in his service.
+We are also told that “the Spirit of Truth came to help the believer to witness to the realities of Jesus' teachings and his life as he lived it in the flesh, and as he now again lives it anew and afresh in the individual believer of each passing generation of the spirit-filled sons of God.” (<a id="a120_294"></a>[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)) It is in prayer that we develop our relationship with Jesus, and open ourselves to the transformation of his Spirit. If we have enlisted in Jesus' ongoing work on this world, the more our relationship with him grows in prayer, the more he can live in us and through us, the more effective we can be in his service.
 
-We are also told that our angels guide “the footsteps of the human personality into paths of new and progressive experiences...working through the social, ethical, and moral environment of human beings.” ([UB 113:4.1](/en/The_Urantia_Book/113#p4_1)) I think that it is in our inner lives, through sincere prayer, that we can develop friendship and a working partnership with our angels and the angels of others, and thus be more effective in our efforts to minister to our fellows.
+We are also told that our angels guide “the footsteps of the human personality into paths of new and progressive experiences...working through the social, ethical, and moral environment of human beings.” (<a id="a122_205"></a>[UB 113:4.1](/en/The_Urantia_Book/113#p4_1)) I think that it is in our inner lives, through sincere prayer, that we can develop friendship and a working partnership with our angels and the angels of others, and thus be more effective in our efforts to minister to our fellows.
 
 I think we _honor_ and _serve_ and _work with_ the members of our inner family by choosing to spend time in relationship with them in the depths of prayer and worship. And I think all of our service and ministry efforts in the other three family arenas take root and are sustained in this life of the inner family. It is the vital wellspring from which all of our service efforts must flow.
 
@@ -118,8 +142,32 @@ _The Urantia Book_ has so much of that for which people have been hoping and sea
 
 These amazing truths are the feast for which our world hungers.
 
-On [UB 9192:2.4](/en/The_Urantia_Book/9192#p2_4) Jesus says to Peter, “Feed my sheep. Do not forsake the flock.....Love the flock as I have loved you and devote yourself to their welfare even as I have devoted my life to your welfare.”
+On <a id="a144_3"></a>[UB 192:2.4](/en/The_Urantia_Book/192#p2_4) Jesus says to Peter, “Feed my sheep. Do not forsake the flock.....Love the flock as I have loved you and devote yourself to their welfare even as I have devoted my life to your welfare.”
 
 May we each, in our own way, heed the Master's call to minister and serve.
 
 > _Marvin Gawryn is a Marriage and Family Therapist, the author of Reaching High: The Psychology of Spiritual Living, and a long-time student of_ The Urantia Book. _He lives with his wife and two children in the Seattle area._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is the Science of The Urantia Book Revelatory?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="pr-2">Spiritual Perspectives in the Workplace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,33 @@ title: "“A Teacher Sent From God”"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: God, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Merlyn Cox<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Throwing the Spiritual Baby Out With the Sexist Bathwater</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sermon by Rev. Merlyn Cox, 5/26/91
 
@@ -81,3 +102,24 @@ We are indeed living in an age that hungers for truth, but still largely seeks i
 We are so like Nicodemus: proud, materialistic, cautious. May we also in the end be found as he was found. For as you may recall, following the crucifixion, when even Jesus' own disciples ran away in fear, two wealthy and well known men proclaimed their faith by stepping forward to claim the body, and therefore also the disdain and hatred of the world around them. One was Joseph of Arimathea- and the other was Nicodemus.
 
 The birthing of our lives in the Spirit may take time, but we have a teacher sent from God who will show us the way: _if we let him... if we let him_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Throwing the Spiritual Baby Out With the Sexist Bathwater</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

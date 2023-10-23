@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Rebecca Kantor<br>© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Reclaiming the Church by John B. Cobb, Jr</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Our Major Responsibility: Disseminating the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Vancouver Summer Session, 1997
 
@@ -47,7 +71,7 @@ Any comparison of the wisdom of the Brotherhood's 1976 position and that of the 
 
 What we **do** know is that good decisions about Fellowship policy require an abundance of _knowledge, experiential insight, and wise judgment_.
 
-The revelators tell us that “as the self matures, it reaches further and further back into the past for experience, while its wisdom forecasts seek to penetrate deeper and deeper into the unknown future. And as the conceiving self extends this reach ever further into both the past and future, so does judgment become less and less dependent on the momentary present.” ([UB 118:1.5](/en/The_Urantia_Book/118#p1_5))
+The revelators tell us that “as the self matures, it reaches further and further back into the past for experience, while its wisdom forecasts seek to penetrate deeper and deeper into the unknown future. And as the conceiving self extends this reach ever further into both the past and future, so does judgment become less and less dependent on the momentary present.” (<a id="a73_370"></a>[UB 118:1.5](/en/The_Urantia_Book/118#p1_5))
 
 We can apply this concept to the group process as well. Because we desire to make good decisions based on experience from the past, adequate knowledge of the present, and with concern for the future, it behooves us to examine with great care the underlying reasons for the Brotherhood's 1976 reversal in attitude as we contemplate any changes in Fellowship policy today.
 
@@ -83,18 +107,18 @@ Dr. Sprunger's 1981 paper forecasts the current situation when he makes the foll
 > 2. **We can reform or revise existing religious institutions**. Most of the religionists of the world, after reading and recognizing the superior teachings of _The Urantia Book_, are likely to take this path, as least initially.
 > 
 > **Where possible, it is usually best to build on historic foundations and traditions**. The authors of _The Urantia Book_ seem to imply that the best approach to evolving a relevant religion on our planet harmonious with the Fifth Epochal Revelation is to work toward a revision of Christianity. The following statements are made by the revelators:
-> - Christianity is the best of the religions of the twentieth century. ([UB 195:9.8](/en/The_Urantia_Book/195#p9_8))
-> - Jesus fostered the church as the best exponent of his life-work on earth. ([UB 195:10.9](/en/The_Urantia_Book/195#p10_9))
-> - The Christian Church is the larval stage of the spiritual kingdom, the cocoon in which Jesus' concept of the kingdom of heaven now slumbers. ([UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
-> - The hour is striking for a rediscovery of the true and original Foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus.” ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
-> - The kingdom of heaven which Jesus taught will someday be proclaimed to the Christian Church — and all other religions. ([UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
-> - In the paper on “The Faith of Jesus” the authors express the hope that someday a reformation of the Christian Church will bring it back to the unadulterated teachings of Jesus. ([UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
-> - We are called to build a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom. ([UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
-> - _The Urantia Book_ spends more time commenting on Christianity and making suggestions or its improvement than on any other religion. It is one of the greatest powers for good on earth and we should take it seriously. ([UB 195:10.12](/en/The_Urantia_Book/195#p10_12))
-> - There is great hope for the church which worships the living God and dares to remove all creedal conformity from its members. ([UB 103:5.12](/en/The_Urantia_Book/103#p5_12))
-> - The greatest hope of our world lies in the possibility of a new revelation of Jesus to unite in loving service the numerous families of his present day professed followers. ([UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
+> - Christianity is the best of the religions of the twentieth century. (<a id="a109_73"></a>[UB 195:9.8](/en/The_Urantia_Book/195#p9_8))
+> - Jesus fostered the church as the best exponent of his life-work on earth. (<a id="a110_79"></a>[UB 195:10.9](/en/The_Urantia_Book/195#p10_9))
+> - The Christian Church is the larval stage of the spiritual kingdom, the cocoon in which Jesus' concept of the kingdom of heaven now slumbers. (<a id="a111_146"></a>[UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
+> - The hour is striking for a rediscovery of the true and original Foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus.” (<a id="a112_176"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+> - The kingdom of heaven which Jesus taught will someday be proclaimed to the Christian Church — and all other religions. (<a id="a113_124"></a>[UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
+> - In the paper on “The Faith of Jesus” the authors express the hope that someday a reformation of the Christian Church will bring it back to the unadulterated teachings of Jesus. (<a id="a114_182"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+> - We are called to build a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom. (<a id="a115_136"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
+> - _The Urantia Book_ spends more time commenting on Christianity and making suggestions or its improvement than on any other religion. It is one of the greatest powers for good on earth and we should take it seriously. (<a id="a116_222"></a>[UB 195:10.12](/en/The_Urantia_Book/195#p10_12))
+> - There is great hope for the church which worships the living God and dares to remove all creedal conformity from its members. (<a id="a117_131"></a>[UB 103:5.12](/en/The_Urantia_Book/103#p5_12))
+> - The greatest hope of our world lies in the possibility of a new revelation of Jesus to unite in loving service the numerous families of his present day professed followers. (<a id="a118_178"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
 
-And I would add one more comment, this by a Brilliant Evening Star of Nebadon: “The early Christian cult was the most effective, appealing, and enduring of any ritual ever conceived or devised, but much of its value has been destroyed in a scientific age by the destruction of so many of its original underlying tenants. The Christian cult has been devitalized by the loss of many fundamental ideas.” ([UB 87:7.4](/en/The_Urantia_Book/87#p7_4))
+And I would add one more comment, this by a Brilliant Evening Star of Nebadon: “The early Christian cult was the most effective, appealing, and enduring of any ritual ever conceived or devised, but much of its value has been destroyed in a scientific age by the destruction of so many of its original underlying tenants. The Christian cult has been devitalized by the loss of many fundamental ideas.” (<a id="a120_402"></a>[UB 87:7.4](/en/The_Urantia_Book/87#p7_4))
 
 So, _Urantia Book_ readers have at least two choices before them when they contemplate the formation of a religious community: 1 . the creation of an entirely new cult, or 2 . a revision of one of the evolutionary religions, with a revelatory bias toward Christianity.
 
@@ -148,7 +172,7 @@ Unless he is aware of this danger and is equipped, through training and experien
 
 But how does a person acquire the skills needed to succeed at paid religious leadership, given the number of roles and responsibilities required of him. What is skill? Skill emerges when _knowledge_ is tempered by wisdom and shaped by _experiential insight_. But professional ministerial skill requires all of these factors plus a _healthy, active spiritual life consisting of private prayer and worship of the living God_.
 
-Rodan, the Greek philosopher said, “Even though you are effectively armed to meet the difficult situations of life, you can hardly expect success unless you are equipped with that wisdom of mind and charm of personality which enable you to win the hearty support and co-operation of your fellows. You cannot hope for a large measure of success in either secular or religious work unless you can learn how to persuade your fellows, to prevail with men. You simply must have tact and tolerance.” ([UB 160:1.9](/en/The_Urantia_Book/160#p1_9))
+Rodan, the Greek philosopher said, “Even though you are effectively armed to meet the difficult situations of life, you can hardly expect success unless you are equipped with that wisdom of mind and charm of personality which enable you to win the hearty support and co-operation of your fellows. You cannot hope for a large measure of success in either secular or religious work unless you can learn how to persuade your fellows, to prevail with men. You simply must have tact and tolerance.” (<a id="a174_495"></a>[UB 160:1.9](/en/The_Urantia_Book/160#p1_9))
 
 What will supply the necessary wisdom of mind and charm of personality which enables your leader to prioritize and successfully perform his numerous delegated roles while winning the hearty support and cooperation of your religious groups?
 
@@ -183,7 +207,7 @@ Let me explain.
 
 Jesus chose six men to be a part of his team. They, in turn, chose six additional teammates. Later, he expanded his teaching and ministering group to include seventy more evangelists and ten women, an act that was scandalous in his culture. In other words, Jesus, like his Father in heaven, was a _delegator_. He delegated every conceivable aspect of group management to his twelve apostles. And although they initially lacked training in Jesus' particular methods of teaching and preaching, they were collectively well versed in the knowledge of the day. The midwayers tell us:
 
-> Do not make the mistake of regarding the apostles as being altogether ignorant and unlearned. All of them, except the Alpheus twins, were graduates of the synagogue schools, having been thoroughly trained in the Hebrew Scriptures and in much of the current knowledge of the day. Seven were graduates of the Capernaum synagogue schools, and there were no better Jewish schools in all Galilee. ([UB 139:0.3](/en/The_Urantia_Book/139#p0_3))
+> Do not make the mistake of regarding the apostles as being altogether ignorant and unlearned. All of them, except the Alpheus twins, were graduates of the synagogue schools, having been thoroughly trained in the Hebrew Scriptures and in much of the current knowledge of the day. Seven were graduates of the Capernaum synagogue schools, and there were no better Jewish schools in all Galilee. (<a id="a209_395"></a>[UB 139:0.3](/en/The_Urantia_Book/139#p0_3))
 
 Let's look a little closer at the roles delegated to the apostles, keeping in mind the nine tasks of ministry I described earlier:
 
@@ -228,6 +252,31 @@ There is so much more to say about the challenges and opportunities of organized
 > _I do not worship my pastor, but he tells me of a Lord whose name is Christ, and makes him known to me. I will be attentive and listen to his words as long as he will lead me to the Master and Teacher who is the Son of God._
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Reclaiming the Church by John B. Cobb, Jr</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Our Major Responsibility: Disseminating the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: Carol Wise, _Pastoral Psychology_ (New York: Jason Aronson, 1983), p. 197.
@@ -239,4 +288,4 @@ There is so much more to say about the challenges and opportunities of organized
 > _Rebecca Kantor has a Master of Arts in Religion, with special interests in the psychology of religion and the psychology of ministry. She has been a student of The Urantia Book for over 25 years._
 {.is-info}
 
-> "The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh.” ([UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
+> "The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh.” (<a id="a290_295"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6))

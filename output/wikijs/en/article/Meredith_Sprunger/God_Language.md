@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith J. Sprunger<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Judith_L_Mace/UB_and_Sexist_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Sexist Language</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Goddess">
+          <span class="pr-2">The Goddess</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The term most generally used to designate Ultimate Reality on our world is “God.” The name used for God varies with experience and culture. The First Source and Center of all things and beings is not revealed by name but by nature. The name given this Ultimate Reality is of little spiritual importance. The significant thing is that we should know this Spiritual Presence through personal experience and strive to replicate this reality in our lives.
 
@@ -57,4 +81,28 @@ In summary, we observe that the names we use for God are determined by our knowl
 > The Rev. Dr. Meredith J. Sprunger is a United Church of Christ minister and college professor and administrator, now retired. He is author of Spiritual Psychology, A Primer, and serves as editor of _The Spiritual Fellowship Journal_.
 {is-info}
 
-> “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (<a id="a83_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Judith_L_Mace/UB_and_Sexist_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Sexist Language</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Goddess">
+          <span class="pr-2">The Goddess</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

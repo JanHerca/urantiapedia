@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ecumenically Challenged</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="pr-2">Mustard Seed Beginnings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Probably the major concern of dedicated students of the Urantia Papers is how to effectively share the spiritual enlightenment and supernal wisdom of the Fifth Epochal Revelation with the people of the world. In short, what is the most effective method of enculturating the world with the enlarged spiritual vision of _The Urantia Book_?
 
@@ -22,3 +46,27 @@ But very early in the Urantia movement the majority of the power structure of th
 During the last ten or twenty years there has developed the realization in many study groups and societies that a bona fide religious organization was needed to serve the spiritual needs of members. This ambiguity in the Urantia movement characterizes our present situation. There will always be students of _The Urantia Book_ who prefer personal religious activity and reject any social religious involvement. There are others who see the need for participation in a religious organization. There will, no doubt, be many different religious organizations coming into being as the result of the inspiration of the Urantia Papers.
 
 The basic question remains: How will the Urantia Papers' paradigm of spirituality enculturate society? In my judgment, this will only occur through the institutionalization of its teachings. If this is correct, we should currently be spreading the vision of _The Urantia Book_ through various means of communication, public discussion, and the formation of study groups. And at the same time we should be engaged in preparation for the formation of religious groups or institutions by promoting theological, philosophical, and polity discussions germane to an appropriate symbolism and socioreligious expression of the Fifth Epochal Revelation.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ecumenically Challenged</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="pr-2">Mustard Seed Beginnings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

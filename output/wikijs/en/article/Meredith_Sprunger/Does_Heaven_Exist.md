@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Between the Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="pr-2">What if Aliens Have Landed?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The March 24, 1997 _Time_ article “Does Heaven Exist?” broached a subject about which ministers and theologians have very little to say. David Wells, a theological professor at Grodon-Conwell Theological Seminary, observes, “I don't think heaven is even a blip on the Christian screen, from one end of the denominational spectrum to the other. The more perplexing question is, What explains this?” (p. 73)
 
@@ -18,5 +42,30 @@ As we have repeatedly observed in these columns, _The Urantia Book_ confirms, en
 
 > "Reason, wisdom, and faith are man's highest human attainments. Reason introduces man to the world of facts, to things; wisdom introduces him to a world of truth, to relationships; faith initiates him into a world of divinity, spiritual experience.
 > 
-> Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of truth." ([UB 103:9.7](/en/The_Urantia_Book/103#p9_7))
+> Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of truth." (<a id="a44_245"></a>[UB 103:9.7](/en/The_Urantia_Book/103#p9_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Between the Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="pr-2">What if Aliens Have Landed?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

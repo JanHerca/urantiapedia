@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 David E. Glass<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: The Only Life Worth Living</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Understanding Evil in Human Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Doing the Father's will is a multi-faceted enterprise. Doing God's will is a complete lifestyle which relates not only to what one does to fulfill the Father's will, but also as to how one performs the will of God — the spirit with which the son or daughter of God approaches, discerns, and takes action regarding his or her highest concept of the Father's will. However, many planetary mortals don't know much about God's will. Even some _Urantia Book_ readers are not always certain about what the Father's will may be: first, in their personal relationship with God; second, in their service to their brothers and sisters; and third, with reference to the information presented in the newly received revelation. In life we all perform many functions: familial, economic, intellectual, social, and spiritual; and they are each relevant to one or more aspects of the Father's will.
 
@@ -36,13 +60,13 @@ Seen from a revelation-enhanced perspective, the brothersisterhood of humankind 
 
 While the Father's will includes a plan and a destiny for our planet and for the universe as a whole, God also has a plan and purpose for each planetary mortal. Such plans include, for example, the enlightening experience of parenthood, and such a requirement will be fulfilled in the Probationary Nursery on the Finaliter's World if it is not experienced during mortal life.
 
-The unique plan and purpose for each individual extends beyond planetary life to include: the local universe morontia career, the superuniverse spiritual ascension, the Havona experience, citizenship on Paradise, and, as members of the Mortal Corps of Finality, assignments in the other six superuniverses, and, beyond supremacy, administrative adventures in the Master Universe Outer Space Zones, and then never-ending activities in the unfathomable eternity of our postulated Cosmos Infinite careers. Such plans are probably known, I would suggest, only by the Father, by one's particular Thought Adjuster, and perhaps by the Eternal Son and the Infinite Spirit. The Father's will for the individual is, as we see, limitless. As a revelator writes, “The quest for God is endless!” ([UB 106:7.5](/en/The_Urantia_Book/106#p7_5)) While it seems to be the Father's will that his children on Urantia know of this overwhelming future eternal destiny, a revelator also states that, at any given time, the work of one's present life and current residential sphere is foremost in importance.
+The unique plan and purpose for each individual extends beyond planetary life to include: the local universe morontia career, the superuniverse spiritual ascension, the Havona experience, citizenship on Paradise, and, as members of the Mortal Corps of Finality, assignments in the other six superuniverses, and, beyond supremacy, administrative adventures in the Master Universe Outer Space Zones, and then never-ending activities in the unfathomable eternity of our postulated Cosmos Infinite careers. Such plans are probably known, I would suggest, only by the Father, by one's particular Thought Adjuster, and perhaps by the Eternal Son and the Infinite Spirit. The Father's will for the individual is, as we see, limitless. As a revelator writes, “The quest for God is endless!” (<a id="a62_784"></a>[UB 106:7.5](/en/The_Urantia_Book/106#p7_5)) While it seems to be the Father's will that his children on Urantia know of this overwhelming future eternal destiny, a revelator also states that, at any given time, the work of one's present life and current residential sphere is foremost in importance.
 
-It is a part of the Father's will that we know him — that we become God-conscious. “[God] has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains.” ([UB 5:1.2](/en/The_Urantia_Book/5#p1_2)) For me, this is best achieved through the techniques of prayer, meditation, and worship. I find reading _The Urantia Book_, beneficial service to others, and socialization with other God-knowing mortals to be especially helpful. And, as Jesus taught, “It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to _feel the presence of God_. When you once begin to find God in your soul, presently you will begin to discover him in other men's souls and eventually in all the creatures and creations of a mighty universe.” (p. 1733)
+It is a part of the Father's will that we know him — that we become God-conscious. “[God] has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains.” (<a id="a64_222"></a>[UB 5:1.2](/en/The_Urantia_Book/5#p1_2)) For me, this is best achieved through the techniques of prayer, meditation, and worship. I find reading _The Urantia Book_, beneficial service to others, and socialization with other God-knowing mortals to be especially helpful. And, as Jesus taught, “It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to _feel the presence of God_. When you once begin to find God in your soul, presently you will begin to discover him in other men's souls and eventually in all the creatures and creations of a mighty universe.” (p. 1733)
 
 > _Concerning the proclamation of the gospel of sonship-or-daughterhood with God, Jesus trained his apostles experientially in order to convince them directly that such tactics as emotional appeal, miracle performance, physical healing, or simply feeding people do not necessarily create spiritually devoted human disciples and believers_
 
-On the subject of doing the Father's will, a Divine Counselor writes, “The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father.” ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2)) And a Solitary Messenger also testifies, “[T]he doing of [God's] will is the secret of survival and of perfection in survival.... [W] hen the creature personality consents — chooses — to subject the creature will to the Father's will.... [s] uch a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will.... [And] this choosing does not so much consist in the negation of creature will — ‘Not my will but yours be done’ — as it consists in the creature's positive affirmation: ‘It is my will that your will be done.’” ([UB 111:5.6](/en/The_Urantia_Book/111#p5_6))
+On the subject of doing the Father's will, a Divine Counselor writes, “The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father.” (<a id="a68_305"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2)) And a Solitary Messenger also testifies, “[T]he doing of [God's] will is the secret of survival and of perfection in survival.... [W] hen the creature personality consents — chooses — to subject the creature will to the Father's will.... [s] uch a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will.... [And] this choosing does not so much consist in the negation of creature will — ‘Not my will but yours be done’ — as it consists in the creature's positive affirmation: ‘It is my will that your will be done.’” (<a id="a68_951"></a>[UB 111:5.6](/en/The_Urantia_Book/111#p5_6))
 
 ## Loving Relationships
 
@@ -50,7 +74,7 @@ It is the Father's will (as revealed by Jesus) that all his mortal children love
 
 Now because of the scope of the revelation, we also know that truth teaching and the encouragement of family-like fellowship among mortals began on our world (far prior to Michael's bestowal mission) some 500,000 years ago with the advent of our then loyal Planetary Prince, Caligastia, and his serviceful staff. And, even earlier, the promotion of positive and fair personality relationships — as the will of the god of the “Great Beyond” — was hinted at and partially established by Onagar, the first truth teacher, almost a million years ago.
 
-Concerning the proclamation of the gospel of sonshipor-daughterhood with God, Jesus trained his apostles _experientially_ in order to convince them directly that such tactics as emotional appeal, miracle performance, physical healing, or simply feeding people do not necessarily create spiritually devoted human disciples and believers. We are immeasurably blessed to have the written account of how Jesus did go about training leaders to perform effectively as kingdom builders, because we can now look and learn from their experiences before we leap into planetary gospel proclamation. We have much material from which to formulate wise ways of proclaiming the gospel in accordance with the Father's will, while it is necessary for us to adapt them to conditions in the twentieth and twenty-first centuries. Let us respond to Jesus' charge, “As the Father sent me into this world, even so now send I you.” ([UB 191:6.3](/en/The_Urantia_Book/191#p6_3))
+Concerning the proclamation of the gospel of sonshipor-daughterhood with God, Jesus trained his apostles _experientially_ in order to convince them directly that such tactics as emotional appeal, miracle performance, physical healing, or simply feeding people do not necessarily create spiritually devoted human disciples and believers. We are immeasurably blessed to have the written account of how Jesus did go about training leaders to perform effectively as kingdom builders, because we can now look and learn from their experiences before we leap into planetary gospel proclamation. We have much material from which to formulate wise ways of proclaiming the gospel in accordance with the Father's will, while it is necessary for us to adapt them to conditions in the twentieth and twenty-first centuries. Let us respond to Jesus' charge, “As the Father sent me into this world, even so now send I you.” (<a id="a76_909"></a>[UB 191:6.3](/en/The_Urantia_Book/191#p6_3))
 
 > _Jesus taught that, by doing the Father's will, we will attract others' interests and lead our fellows to inquire of us as to the source of our optimism, the cause for our service motivation, and the reason for our devoted living._
 
@@ -66,9 +90,33 @@ God's will includes the material and scientific study of the cosmos as well as t
 
 ## Loving God
 
-It is stated on the very first page of the (post-Foreword) text that one of God's principle reasons for peopling the innumerable spheres of the universe of universes with love-experiencing beings is so that God would have more and more intelligent personalities to love, “beings who could know God, receive the divine affection, and love him in return.” ([UB 1:0.2](/en/The_Urantia_Book/1#p0_2)) Thus being loved by God and loving him back is one of the best and most enjoyable forms of doing the Father's eternal will while experiencing his infinite love.
+It is stated on the very first page of the (post-Foreword) text that one of God's principle reasons for peopling the innumerable spheres of the universe of universes with love-experiencing beings is so that God would have more and more intelligent personalities to love, “beings who could know God, receive the divine affection, and love him in return.” (<a id="a92_355"></a>[UB 1:0.2](/en/The_Urantia_Book/1#p0_2)) Thus being loved by God and loving him back is one of the best and most enjoyable forms of doing the Father's eternal will while experiencing his infinite love.
 
 Let us all continue to pray for the ongoing progress of our entire planetary community toward greater education about and knowledge of God's will. God loves each personality infinitely and unconditionally. Certainly we all want to serve our Father wisely and well as we seek to discern the overall and the specific aspects of his will for all of us collectively and for our individual lives. Our Father is giving to each individual mortal: infinite love, astounding revelation, a divine Thought Adjuster, and eternal life. Let us all respond by striving to discern and to do the Father's will. As a dear friend of mine frequently liked to say: “May God's will be done — by _you_!”
 
 > _David Glass is a writer and musician and a long time student of _The Urantia Book_ who lives in Beaverton, OR._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: The Only Life Worth Living</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Understanding Evil in Human Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

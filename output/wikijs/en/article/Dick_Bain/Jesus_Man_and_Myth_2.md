@@ -3,12 +3,36 @@ title: "Jesus, Man and Myth"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Richard Bain<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book: Toward a Context for Theological Evaluation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="pr-2">Days and Dates in the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (_Urantiapedia Note: This article, with minor changes, was also published in_ [Innerface International, Volume 1 No. 4](/en/article/Dick_Bain/Jesus_Man_and_Myth))
 
@@ -54,7 +78,7 @@ We know that women played a significant part in the early church; perhaps this w
 
 ## Jesus as Hero
 
-There is another group who could profit if our culture had a less distorted picture of the human Jesus. It is sad that the heroes of many young people are rock stars and TV characters. It is unfortunate that the majesty of the glorified and risen Christ has obscured the heroism of the human Jesus in Christian teaching, and that so much of his life on Earth has been unknown to us. If young people could only hear the story of the young Jesus, bravely sustaining his family after the untimely death of his father, wouldn't they admire such courage, and wouldn't they be willing to follow such an admirable leader? The authors of the Jesus papers of _The Urantia Book_ tell us, “If the Christian church would only dare to espouse the Master's program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking...” ([UB 195:10.10](/en/The_Urantia_Book/195#p10_10)) How excellent it will be when religious teachers someday use stories from _The Urantia Book_ to inspire young people to live their lives in the spirit Jesus exemplified in his life.
+There is another group who could profit if our culture had a less distorted picture of the human Jesus. It is sad that the heroes of many young people are rock stars and TV characters. It is unfortunate that the majesty of the glorified and risen Christ has obscured the heroism of the human Jesus in Christian teaching, and that so much of his life on Earth has been unknown to us. If young people could only hear the story of the young Jesus, bravely sustaining his family after the untimely death of his father, wouldn't they admire such courage, and wouldn't they be willing to follow such an admirable leader? The authors of the Jesus papers of _The Urantia Book_ tell us, “If the Christian church would only dare to espouse the Master's program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking...” (<a id="a80_861"></a>[UB 195:10.10](/en/The_Urantia_Book/195#p10_10)) How excellent it will be when religious teachers someday use stories from _The Urantia Book_ to inspire young people to live their lives in the spirit Jesus exemplified in his life.
 
 > _The authors of the Jesus papers of_ The Urantia Book _tell us, "If the Christian church would only dare to espouse the Master's program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking...” (UB 195:10.10)_
 
@@ -62,3 +86,27 @@ Whatever we think about Jesus, most of us would agree that no individual has had
 
 > _Dick Bain is an electrical engineer and editor of Cosmic Reflections. He is a long time student of_ The Urantia Book.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book: Toward a Context for Theological Evaluation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="pr-2">Days and Dates in the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

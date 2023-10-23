@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Forgotten_Urantian_Don_Deam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Forgotten Urantian : Don Deam</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Spiritual_Fellowship">
+          <span class="pr-2">The Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Cleaning Lady
 
@@ -18,10 +42,34 @@ The next night she was much better. I asked her if she worked more than one job.
 
 The next night I gave her some cucumbers from the garden and she was so excited. She told me all about the salad she was going to make. By this simple action I connected with her on a new level. The consciousness of separation and discomfort I had was dispelled, and replaced by something differentsomething precious.
 
-I now have some idea of how the Master did not measure people by some code of status — in fact-he did not measure them at all. He could “see” all people as his brothers and sisters: “The Master looked upon men as the sons of God and foresaw a magnificent and eternal future for those who chose survival. He was not a moral skeptic; he viewed man positively, not negatively. He saw most men as weak rather than wicked, more distraught than depraved. But no matter what their status, they were all God's children and his brethren.” [[UB 196:2.9](/en/The_Urantia_Book/196#p2_9)]
+I now have some idea of how the Master did not measure people by some code of status — in fact-he did not measure them at all. He could “see” all people as his brothers and sisters: “The Master looked upon men as the sons of God and foresaw a magnificent and eternal future for those who chose survival. He was not a moral skeptic; he viewed man positively, not negatively. He saw most men as weak rather than wicked, more distraught than depraved. But no matter what their status, they were all God's children and his brethren.” <a id="a44_530"></a>[[UB 196:2.9](/en/The_Urantia_Book/196#p2_9)]
 
 S.C.C.
 
-> “Jesus was never in a hurry. He had time to comfort his fellow men ‘as he passed by.’ And he always made his friends feel at ease. He was a charming listener. He never engaged in the meddlesome probing of the souls of his associates.” [[UB 171:7.5](/en/The_Urantia_Book/171#p7_5)]
+> “Jesus was never in a hurry. He had time to comfort his fellow men ‘as he passed by.’ And he always made his friends feel at ease. He was a charming listener. He never engaged in the meddlesome probing of the souls of his associates.” <a id="a48_237"></a>[[UB 171:7.5](/en/The_Urantia_Book/171#p7_5)]
 
-> “Most of the really important things which Jesus said or did seemed to happen casually, ‘as he passed by.’ There was so little of the professional, the wellplanned, or the premeditated in the Master's earthly ministry. He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘He went about doing good.’” [[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)]
+> “Most of the really important things which Jesus said or did seemed to happen casually, ‘as he passed by.’ There was so little of the professional, the wellplanned, or the premeditated in the Master's earthly ministry. He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘He went about doing good.’” <a id="a50_372"></a>[[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Forgotten_Urantian_Don_Deam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Forgotten Urantian : Don Deam</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Spiritual_Fellowship">
+          <span class="pr-2">The Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

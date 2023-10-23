@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Renewal_of_Theology">
+          <span class="pr-2">The Renewal of Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Volume 4, Number 2, Fall, 1994
 
@@ -129,3 +150,24 @@ Clyde Bedell (1898-1985), a widely recognized author and speaker in the field of
 Dr. Duane L. Faw, Professor of Law emeritus of Pepperdine University School of Law, spent six years compiling a parallel and harmony of _The Urantia Book_ and the Bible. The _Paramony_ was published in 1986 and contains 25,000 cross-references revealing the similarities and differences between the facts and concepts of these two great books. Dr. Faw has been a teacher of adult Bible classes for 40 years and a certified lay speaker in the United Methodist Church for over 25 years. The _Concordex_ and _Paramony_ can be purchased from The Good Cheer Press, P. O. Box 18764, Boulder, CO 80303.
 
 An exhaustive _Urantia Book_ Concordance was published by the Urantia Foundation in 1993. If your local bookstore does not carry _The Urantia Book_ or _The Urantia Book_ Concordance, they can be orderd from the Urantia Foundation, 533 Diversey Parkway, Chicaago, IL 60614. The Urantia Foundation also publishes French, Spanish, and Finnish editions of _The Urantia Book_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Renewal_of_Theology">
+          <span class="pr-2">The Renewal of Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

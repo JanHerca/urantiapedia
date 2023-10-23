@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Meredith J. Sprunger<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Marks/Faith_and_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith and Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="pr-2">Psalms Today: Creative Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The most important achievement of human experience is the mastery of our minds through the leading of the indwelling Spirit. This mastery is the key human factor in the initiation and development of our immortal soul. The Midwayers call attention to the importance of mind mastery by mentioning Jesus' progressive mastery of his human mind in his 24th, 26th, 29th and 30th years. This is the highest good and culminating achievement of human existence.
 
@@ -26,7 +50,7 @@ Our entire personality functions as a holistic unit. The mind, the Thought Adjus
 
 ## Spirit Mastery
 
-The most creative objective in human experience is to master our minds under the guidance of the indwelling Spirit. Metaphors can be helpful in visualizing this transformation process. The Spirit is the architect, the mind is the builder, character is the edifice. Stated a little differently, “Mind is your ship, the Adjuster is your pilot, the human will is captain.” ([UB 111:1.9](/en/The_Urantia_Book/111#p1_9)) Only the spiritualized intellect can discern true values. As we discipline our mind and control our thoughts with the guidance of the Spirit, our consciousness becomes naturally attuned to the fruits of the spirit. This self-mastery gradually delivers us from negative control struggles and the slavery of self-denial as we spontaneously are motivated to actualize the fruits of the spirit: “loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace.” ([UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
+The most creative objective in human experience is to master our minds under the guidance of the indwelling Spirit. Metaphors can be helpful in visualizing this transformation process. The Spirit is the architect, the mind is the builder, character is the edifice. Stated a little differently, “Mind is your ship, the Adjuster is your pilot, the human will is captain.” (<a id="a52_371"></a>[UB 111:1.9](/en/The_Urantia_Book/111#p1_9)) Only the spiritualized intellect can discern true values. As we discipline our mind and control our thoughts with the guidance of the Spirit, our consciousness becomes naturally attuned to the fruits of the spirit. This self-mastery gradually delivers us from negative control struggles and the slavery of self-denial as we spontaneously are motivated to actualize the fruits of the spirit: “loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace.” (<a id="a52_1016"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
 
 This growth is largely the result of the dominance of the soul. The soul actually functions as the mid-mind, between the lower material mind and the higher cosmic mind, and brings inner peace, joy, and the freedom of the spirit as the dominant atmosphere of our consciousness. As we mature spiritually we live more and more in our soul-mind that transcends the struggle between the “flesh and the spirit.”
 
@@ -47,3 +71,27 @@ Harvard professor Jerome Groopman, in _The Measure of Our Days_ (Viking Penguin,
 Dr. Dan Berger was a severe hemophiliac who had contacted AIDS from contaminated clotting factor concentrates that had saved his life. He went on working not telling Dr. Groopman, his mentor, about his condition until his health had seriously deteriorated. One day Dan told Dr. Groopman, “I'm not as religious as you, Jerry. But lately I find myself quietly offering thanks to have my life as it is, to work in the world we do.”
 
 Dr. Berger determined that he and his sense of mission would control his life, not his disease. He lost his battle in 1996. And Dr. Groopman remarked, “His spirit, like the light from a distant star, continues to illuminate my life, long after its source was extinguished.” Fellowship with God and a dedication to service are creative aids in helping us master our minds. As we fashion our minds and increasingly find our identity with our soul-mind, we shape our spiritual destiny.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Marks/Faith_and_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith and Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="pr-2">Psalms Today: Creative Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

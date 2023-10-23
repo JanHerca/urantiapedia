@@ -3,19 +3,43 @@ title: "God within Our Daily Life and Our Eternity Adventure"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: God, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 JoiLin Johnson<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God's Orchestra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Barton/The_Man_Nobody_Knows_Part_II">
+          <span class="pr-2">The Man Nobody Knows ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _On June 7, 2003, JoiLin Johnson addressed the Boulder Urantia community. Her inspired words moved all of us, as she told the story of her husband Eric's struggle to survive a massive heart attack. JoiLin's story is one of faith, community spirit, and the miraculous ways of the down-grasp of God. Below, we print the words she spoke that night._
 >
 > Larry Mullins
 {.is-info}
 
-> “_Effective and wise leadership. In civilization much, very much, depends on an enthusiastic and effective load-pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together — all at the same moment. And such teamwork — social co-operation — is dependent on leadership. The cultural civilizations of the past and the present have been based upon the intelligent co-operation of the citizenry with wise and progressive leaders; and until man evolves to higher levels, civilization will continue to be dependent on wise and vigorous leadership._” [[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)]
+> “_Effective and wise leadership. In civilization much, very much, depends on an enthusiastic and effective load-pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together — all at the same moment. And such teamwork — social co-operation — is dependent on leadership. The cultural civilizations of the past and the present have been based upon the intelligent co-operation of the citizenry with wise and progressive leaders; and until man evolves to higher levels, civilization will continue to be dependent on wise and vigorous leadership._” <a id="a41_593"></a>[[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)]
 
 Until recently, I never had much cause to really consider the meaning of community and what it might mean to me — community meant going to worship service, study groups and various other meetings throughout the year. Most of you already know what my husband Eric has gone through over the past 2 years, but for those of you who don't, I'll recap briefly.
 
@@ -47,3 +71,27 @@ We received so many blessings — so many miracles of love and support from God 
 
 > _JoiLin has been reading The Urantia Book since 1983. She has served as an officer for the Rocky Mountain Spiritual Fellowship and is active in Denver study groups. JoiLin is a Reiki master in emotional release work. JoiLin and Eric Johnson have been married for six years and have five children and six grandchildren._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God's Orchestra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Barton/The_Man_Nobody_Knows_Part_II">
+          <span class="pr-2">The Man Nobody Knows ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

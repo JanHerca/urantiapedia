@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Byrdestin<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Mind Expanding Experience with The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="pr-2">Some Human Sources of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This is the day that the Lord has made and we are glad in it.
 Rejoice for ours is the wealth of the Kingdom of the Lord.
@@ -48,3 +72,27 @@ He grants us eternal life in the victory of our faith.
 What a miracle! What a miracle!
 Indeed, this is the day the Lord has made.
 Let us rejoice and be glad in it — forever and ever! Amen!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Mind Expanding Experience with The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="pr-2">Some Human Sources of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

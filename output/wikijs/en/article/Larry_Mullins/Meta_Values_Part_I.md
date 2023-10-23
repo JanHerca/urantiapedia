@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Disseminating the Teachings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="pr-2">Sermon: The Only Life Worth Living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Note: The term “Meta-Values” was coined originally by Abraham Maslow. Dr. Maslow believed a “Science of Values” should be developed, an idea that has yet to be realized. Urantians can readily grasp the concept of MetaValues, and can use it to improve their ability to live the teachings of the Urantia Papers.
 
@@ -67,7 +91,7 @@ The Urantia Papers assure us that spiritual insight will yield the answers we ne
 - 2) _Regular, Meditative Prayer_. Spiritual insight can also be facilitated or augmented by means of relaxation and receptivity through meditative prayer. We can also define this activity as a conscious effort to align with the realityforces of the universe, as described in detail in the Rodan section of the Urantia Papers.
 - 3) _Hitting Bottom_. A peak-experience, at a moment of total despair, has set the stage for a down-grasp of spiritual insight that may lead to a lifetime of dedication to a project or cause that is more important than self.
 
-Regardless of how a spiritual insight occurs, we know that the human will is necessary to capture a spiritual insight and bring it to the material level manifestation or actualization by means of action. Jesus taught the human will-to-do emerges from self-respect, and the conviction that one can do, and that we have something worthwhile to offer. We believe our action will have meaning. When the will-to-do merges with the belief that one-can-do, the composite manifests itself as an assertive drive to be proactive and make something happen. Yet pure assertiveness, regardless of its justification, could ruthlessly overrun and exploit other people, absolving itself by declaring that the “the ends justify the means.” Clearly, assertiveness is a necessary quality, but something else is needed if we are to be aligned with Meta-Values. Jesus saw this clearly: “In bringing men into the kingdom, do not lessen or destroy their self-respect. While overmuch self-respect may destroy proper humility and end in pride, conceit, and arrogance, the loss of self-respect often ends in paralysis of the will. It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it. Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it.” ([UB 159:3.3](/en/The_Urantia_Book/159#p3_3))
+Regardless of how a spiritual insight occurs, we know that the human will is necessary to capture a spiritual insight and bring it to the material level manifestation or actualization by means of action. Jesus taught the human will-to-do emerges from self-respect, and the conviction that one can do, and that we have something worthwhile to offer. We believe our action will have meaning. When the will-to-do merges with the belief that one-can-do, the composite manifests itself as an assertive drive to be proactive and make something happen. Yet pure assertiveness, regardless of its justification, could ruthlessly overrun and exploit other people, absolving itself by declaring that the “the ends justify the means.” Clearly, assertiveness is a necessary quality, but something else is needed if we are to be aligned with Meta-Values. Jesus saw this clearly: “In bringing men into the kingdom, do not lessen or destroy their self-respect. While overmuch self-respect may destroy proper humility and end in pride, conceit, and arrogance, the loss of self-respect often ends in paralysis of the will. It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it. Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it.” (<a id="a93_1531"></a>[UB 159:3.3](/en/The_Urantia_Book/159#p3_3))
 
 ## The Will-To-Do-Plus the Will-To-Do Good Things
 
@@ -95,10 +119,35 @@ Faith-Actions are dramatic moves that could not be predicted by those who know u
 
 How can we Urantians be sure our actions are faithdriven? How can we be certain whether we are operating in sync with the flow of Meta-Values? Fortunately, we have been given an inner, infallible gauge that operates instantly in the inner life. When the world turns gray and “dangerous” and our energies flag, we are out of the zone. When we are hysterically energetic, and the world seems to obstruct and frustrate everything we try to do, we are too far into aggression and out of the zone. When we feel exploited, drained and used, when we allow our rights to be overrun, we are into an unwise degree of “goodness.” To the extent we experience lightness, self-forgetfulness, timelessness, inexpressible joy and peace, we are in the zone. When doors fly open and remarkable “coincidences” help us, and the world moves aside for us to offer our gift, we are in the zone. Rodan expressed these concepts in these beautiful words:
 
-“Jesus has taught us that God lives in man; then how can we induce man to release these soul-bound powers of divinity and infinity? How shall we induce men to let go of God that he may spring forth to the refreshment of our own souls while in transit outward and then to serve the purpose of enlightening, uplifting, and blessing countless other souls? How best can I awaken these latent powers for good which lie dormant in your souls? One thing I am sure of: Emotional excitement is not the ideal spiritual stimulus. Excitement does not augment energy; it rather exhausts the powers of both mind and body. Whence then comes the energy to do these great things? Look to your Master. Even now he is out in the hills taking in power while we are here giving out energy. The secret of all this problem is wrapped up in spiritual communion, in worship. From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship.” ([UB 160:3.1](/en/The_Urantia_Book/160#p3_1))
+“Jesus has taught us that God lives in man; then how can we induce man to release these soul-bound powers of divinity and infinity? How shall we induce men to let go of God that he may spring forth to the refreshment of our own souls while in transit outward and then to serve the purpose of enlightening, uplifting, and blessing countless other souls? How best can I awaken these latent powers for good which lie dormant in your souls? One thing I am sure of: Emotional excitement is not the ideal spiritual stimulus. Excitement does not augment energy; it rather exhausts the powers of both mind and body. Whence then comes the energy to do these great things? Look to your Master. Even now he is out in the hills taking in power while we are here giving out energy. The secret of all this problem is wrapped up in spiritual communion, in worship. From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship.” (<a id="a121_1170"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1))
 
 > _This material has been adapted from Chapter 17 of a work in progress by Larry Mullins, The Step Beyond. © Copyright 1998, Larry Mullins, Boulder, CO. Part II of Meta-Values, in the Fall issue of the Journal, will offer an organized system that may be useful in our Urantian pursuit of Truth. Larry Mullins is a consultant in advertising and marketing. He is an editorial consultant to the Journal and author of_ Immature People with Power _and_ Jesus: God and Man.
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Disseminating the Teachings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="pr-2">Sermon: The Only Life Worth Living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -176,7 +176,7 @@ Even study needs a measure of courage to face issues or questions that intimidat
 
 While living on Urantia as creatures of time and space, we are also cosmic citizens. The Mighty Messenger points out that
 
-> _With God the Father, sonship is the great relationship. With God the Supreme, **achievement** is the prerequisite to status — one must do something as well as be something.”_ <a id="a178_178"></a>[[UB 115:1.0](/en/The_Urantia_Book/115#p1_0)] (Emphasis added)
+> _With God the Father, sonship is the great relationship. With God the Supreme, **achievement** is the prerequisite to status — one must do something as well as be something.”_ <a id="a178_178"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)] (Emphasis added)
 
 We have seen how the morontia culture prioritizes study and service. It does appear that studying runs as a norm throughout the universes of time and space. I believe the process of starting and keeping study groups going contributes directly to the Supreme. The universe-value of studying is naturally linked to the Supreme. It is something for us to be conscious of. The Supreme is actualizing our potential in the ascension scheme of universe achievement even while we reside on earth. Down here, as evolutionary creatures, we can add to the gradual, unfolding development of Orvonton, our superuniverse, in reciprocity with the finite God, the God of evolution. This reciprocity is inherent by design in the relationships of Supremacy. It is a high and noble task (actually a cosmic, moral duty) to be contributors to universe building. The Universal Father has delegated to us something important to do.
 

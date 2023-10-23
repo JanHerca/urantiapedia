@@ -3,12 +3,36 @@ title: "How Christian is The Urantia Book?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Christianity, The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Richard I. Bain and Meredith J. Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Hall/Poor_in_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poor in Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="pr-2">Encountering The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _The great majority of the teachings of_ The Urantia Book _reinforce and enhance the insights and truths of traditional Christian theology, and the highest concepts in all of the world's religions. However, it is sometimes good to point out the most controversial aspects of a new paradigm to sharpen its distinction from a traditional paradigm and thereby stimulate critical thinking._
 
@@ -70,7 +94,7 @@ The blood atonement theory had its origin in the conceptual language of Paul. Co
 
 We should recognize that most of those who still accept a literal blood atonement theory in our day probably do so out of ignorance and misunderstanding and with no intent to deny the loving nature of God. _The Urantia Book_ observes:
 
-> “The people of Urantia continue to suffer from the influence of primitive concepts of God.... The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath.” ([UB 4:5.4](/en/The_Urantia_Book/4#p5_4))
+> “The people of Urantia continue to suffer from the influence of primitive concepts of God.... The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath.” (<a id="a96_663"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4))
 
 ## Doctrine of Humanity
 
@@ -82,11 +106,11 @@ The traditional Christian view of life after death has been simplistic, and in t
 
 _The Urantia Book_ describes an eminently reasonable picture of life after death. Our spiritual growth continues just where we left off in our mortal existence. We are resurrected on the “mansion worlds” of our local system with a “morontia” body, which is part material and part spiritual, and gradually acquire a more spiritual existence. The entire spiritual universe is a great educational university of learning and achievement where we are prepared for future service. On our ascending journey, even as on Urantia, we meet with many trials and frustrations.
 
-> But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing — absolutely nothing — is impossible.” ([UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
+> But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing — absolutely nothing — is impossible.” (<a id="a108_491"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
 
 We proceed through the local universe, the superuniverse, the central universe, and graduate to the Isle of Paradise where we meet the Universal Father, and are conducted into the Corps of Finality in preparation for greater service in eternity.
 
-> You humans have begun an endless unfolding of an almost infinite panorama, a limitless expanding of neverending, ever-widening spheres of opportunity for exhilarating service, matchless adventure, sublime uncertainty, and boundless attainment. ([UB 108:6.8](/en/The_Urantia_Book/108#p6_8))
+> You humans have begun an endless unfolding of an almost infinite panorama, a limitless expanding of neverending, ever-widening spheres of opportunity for exhilarating service, matchless adventure, sublime uncertainty, and boundless attainment. (<a id="a112_247"></a>[UB 108:6.8](/en/The_Urantia_Book/108#p6_8))
 
 ## Reflections
 
@@ -105,3 +129,27 @@ Our personal views, after many years of study and evaluation, is that the book i
 
 > _Meredith Sprunger is a pastor and college teacher retired, and editor of_ The Spiritual Fellowship Journal. _Richard Bain is an electrical engineer and an editor of Innerface International._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Hall/Poor_in_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poor in Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="pr-2">Encountering The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "The Urantia Book and Modern Science: Harmony or Discord?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Richard I. Bain<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mathematics of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/UB_and_Spiritual_Renewal">
+          <span class="pr-2">The Urantia Book and Spiritual Renewal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Bible is a collection of books. _The Urantia Book_ is a collection of papers. Both books speak of the origin of mortals on this planet. Both discuss our relationship with God. Both contain some information about Jesus' life and teachings. In the view of many Christians, the New Testament is just an update to the Old Testament. Some who read _The Urantia Book_ may regard it as a supplement to the Bible or see it as a “third testament.” From a spiritual point of view this may be true. A critical evaluation of both books, however, indicates they are written on different conceptual levels. One obvious difference is that the Bible is a prescientific document. It was written by people who believed the world was flat and who had no idea that the stars are distant suns. _The Urantia Book_, on the other hand, is in harmony with both 20th century science and the teachings of Jesus.
 
@@ -18,9 +42,9 @@ _The Urantia Book_ speaks of Jesus' mission here as the Fourth Epochal Revelatio
 
 In the past several hundred years, science and religion have not always had a cordial relationship. The church attempted to cling to the outdated concepts of a prescientific era while trying simultaneously to suppress the sometimes disturbing new insights being forced upon them by science. But science was not to be denied. As soon as religion lost the power of the state to enforce its edicts, science bloomed and prevailed. The scale has tipped so far in the direction of science that it is nearly a religion in our materialistic age. Many today look to science for answers to questions such as the origin of life or how to prevent or end suffering. The realm of the spirit is suspect. The atmosphere that was once full of angels now contains only such things as radio waves, visible light waves, and satellites. What is needed in the 20th and 21 st centuries is a philosophy and reality view that will restore the credibility of the spiritual, while at the same time recognizing the validity of the theories and observations of science. Such a view of reality should not only elevate science and religion, but should also show their interrelatedness. _The Urantia Book_ offers such a view. Further, it delineates how the two pursuits can be balanced and harmonized by philosophy.
 
-When considering the science and cosmology of the book, it should be noted that the authors had certain restrictions placed on them regarding what they could reveal to us. On [UB 101:4.6](/en/The_Urantia_Book/101#p4_6) we are told by the revelators, “The laws of revelation hamper us greatly by their proscription of the impartation of unearned knowledge.....We are not at liberty to anticipate the scientific discoveries of a thousand years.” So, what can they tell us in this area? The authors inform us that they can discuss known or about-to-be-known facts. Of course, “about-to-be-known” implies a relatively short time period for us, but how long is it for beings who existed before mortals appeared on earth? The authors of the papers seem to imply that this time period is less than a thousand years. We can get some idea of how far the authors were permitted to project by comparing the concepts that they have included in the papers with current theories of our scientists. The inclusion in the book of scientific concepts that will soon be outdated raises a serious question. Does the credibility of science in the book reflect on the validity of the spiritual concepts in the book?
+When considering the science and cosmology of the book, it should be noted that the authors had certain restrictions placed on them regarding what they could reveal to us. On <a id="a44_175"></a>[UB 101:4.6](/en/The_Urantia_Book/101#p4_6) we are told by the revelators, “The laws of revelation hamper us greatly by their proscription of the impartation of unearned knowledge.....We are not at liberty to anticipate the scientific discoveries of a thousand years.” So, what can they tell us in this area? The authors inform us that they can discuss known or about-to-be-known facts. Of course, “about-to-be-known” implies a relatively short time period for us, but how long is it for beings who existed before mortals appeared on earth? The authors of the papers seem to imply that this time period is less than a thousand years. We can get some idea of how far the authors were permitted to project by comparing the concepts that they have included in the papers with current theories of our scientists. The inclusion in the book of scientific concepts that will soon be outdated raises a serious question. Does the credibility of science in the book reflect on the validity of the spiritual concepts in the book?
 
-The authors of _The Urantia Book_ make it quite clear that the cosmology and science in the book are in a quite different category than are its spiritual concepts. On [UB 101:4.6](/en/The_Urantia_Book/101#p4_6) we read, “The cosmology of these revelations is not inspired... While divine or spiritual insight is a gift, human wisdom must evolve.” The authors further inform us on the same page, “...within a few short years, many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries.” It is clear that the spiritual concepts in the book must stand on their own merit. But if a portion of the science will soon be obsolete, of what value is that portion to us? On [UB 101:4.6](/en/The_Urantia_Book/101#p4_6), the authors tell us that the scientific ideas "are of immense value in that they at least transiently clarify knowledge by:
+The authors of _The Urantia Book_ make it quite clear that the cosmology and science in the book are in a quite different category than are its spiritual concepts. On <a id="a46_167"></a>[UB 101:4.6](/en/The_Urantia_Book/101#p4_6) we read, “The cosmology of these revelations is not inspired... While divine or spiritual insight is a gift, human wisdom must evolve.” The authors further inform us on the same page, “...within a few short years, many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries.” It is clear that the spiritual concepts in the book must stand on their own merit. But if a portion of the science will soon be obsolete, of what value is that portion to us? On <a id="a46_764"></a>[UB 101:4.6](/en/The_Urantia_Book/101#p4_6), the authors tell us that the scientific ideas "are of immense value in that they at least transiently clarify knowledge by:
 
 1. The reduction of confusion by the authoritative elimination of error.
 2. The coordination of known or about-to-be-known facts and observations.
@@ -36,7 +60,7 @@ The first category encompasses scientific concepts that were considered valid at
 
 > _The authors of ***The Urantia Book*** make it quite clear that the cosmology and science in the book are in a quite different category than are its spiritual concepts._
 
-The second category is science that was outdated quite soon after the book was published but which agreed with scientific theory at the time the Urantia Papers were received. This second category is of special interest because there may be an unrevealed purpose in including this sort of science in the book. There are two good candidates in this second category. One of these is the distance to the Andromeda galaxy. On [UB 15:4.7](/en/The_Urantia_Book/15#p4_7) of the book we are told that the light we see from this galaxy took one million years to get here, yet today astronomers have good reason to set the distance to this galaxy at over two million light years. At the time the papers were received, however, astronomers believed this galaxy to be only one million light years away. Another example of second category science concepts concerns the planet Mercury. A statement on [UB 57:6.2](/en/The_Urantia_Book/57#p6_2) informs us that the planet Mercury keeps the same face to the sun as it revolves around it. In fact, Mercury rotates about 1.5 times for each revolution around the sun. This was found in the 1960's by radar studies, but at the time the papers were received and at the time the book was published, astronomers believed that Mercury kept the same face to the sun. Another possible member of the number two category is the “one hundred elements” puzzle. _The Urantia Book_ seems to say that there can be only 100 elements, yet today science claims to have found over 120 elements. A few subtleties may qualify the elements above number 100 in a way that excludes them from consideration as elements, but these subtleties have yet to be found by our scientists. It may be possible to explain away the apparent conflict by noting that science had discovered less than 100 elements by the time the Urantia Papers were received. Perhaps the authors were not permitted to go beyond concepts for which a theory or number already existed.
+The second category is science that was outdated quite soon after the book was published but which agreed with scientific theory at the time the Urantia Papers were received. This second category is of special interest because there may be an unrevealed purpose in including this sort of science in the book. There are two good candidates in this second category. One of these is the distance to the Andromeda galaxy. On <a id="a62_421"></a>[UB 15:4.7](/en/The_Urantia_Book/15#p4_7) of the book we are told that the light we see from this galaxy took one million years to get here, yet today astronomers have good reason to set the distance to this galaxy at over two million light years. At the time the papers were received, however, astronomers believed this galaxy to be only one million light years away. Another example of second category science concepts concerns the planet Mercury. A statement on <a id="a62_886"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2) informs us that the planet Mercury keeps the same face to the sun as it revolves around it. In fact, Mercury rotates about 1.5 times for each revolution around the sun. This was found in the 1960's by radar studies, but at the time the papers were received and at the time the book was published, astronomers believed that Mercury kept the same face to the sun. Another possible member of the number two category is the “one hundred elements” puzzle. _The Urantia Book_ seems to say that there can be only 100 elements, yet today science claims to have found over 120 elements. A few subtleties may qualify the elements above number 100 in a way that excludes them from consideration as elements, but these subtleties have yet to be found by our scientists. It may be possible to explain away the apparent conflict by noting that science had discovered less than 100 elements by the time the Urantia Papers were received. Perhaps the authors were not permitted to go beyond concepts for which a theory or number already existed.
 
 The third category includes science that did not agree with the scientific theory current at the time the papers were received, but which has since been validated by new scientific findings. An example of this category concerns plate tectonics and continental drift. In an issue of the Six-O-Six newsletter from Australia, Dr. Ken Glasziou discusses the history of the theory of continental drift in an article entitled “The Second Prediction.” He relates that the theory was proposed in 1912 by Wegener, but was generally discredited until the 1960's when examination of geological processes in the sea floor confirmed the concept of continental drift. _The Urantia Book_ speaks of the single super continent that some scientists have called “Pangea.” The book says that this continent broke apart, forming the continents of today. The book thus supports a theory which was discredited at the time the papers were received.
 
@@ -60,3 +84,27 @@ No doubt the science and cosmology in the book have an importance in their own r
 
 > Richard Bain is an electrical engineer and editor of “Cosmic Reflections.” He is a long time student of _The Urantia Book_.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mathematics of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/UB_and_Spiritual_Renewal">
+          <span class="pr-2">The Urantia Book and Spiritual Renewal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

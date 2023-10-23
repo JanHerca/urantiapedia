@@ -3,12 +3,36 @@ title: "The Unique Function of Religion"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Religion, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="pr-2">Bible Appreciation Enhanced</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mainline churches have lost almost five million members since 1965. There is a widespread concern about this loss and a worried recognition that mainline churches no longer speak as the “central voice” of our culture. Many individuals and groups within the churches have recommended strategies for spiritual renewal. In the December, 1990 _Reader's Digest_ (“Look What They've Done with My Songs”) John S. Tompkins, a Presbyterian layperson, suggests that professional minister-bureaucrats have emphasized a theology which downplays the spiritual and have substituted social, economic, and political action for the real function of religion-spiritual enlightenment and nurturance.
 
@@ -25,3 +49,27 @@ These spiritually transformed individuals will, in turn, transform society and i
 The church must evolve creative, comforting, and loveexpanding fellowships which promote progressive spiritual insight and foster the appreciation of and dedication to supreme values. Let the church be the church, not a hybrid religious-secular organization. Only as the church brings spiritual ministry to individuals will it be able to renew itself and its members, who will, in turn, transform society. Religion achieves its most effective social ministry when it is not functionally connected with the secular institutions of society.
 
 But since the church as an institution is so deeply involved in secular activities, how can it find spiritual renewal and function as a truly religious institution which can give direction and spiritually undergird our entire society? I have been contemplating this question for over thirty years, and am convinced that _The Urantia Book_ has the greatest potential of any contemporary resource for facilitating this transition. It has the revelatory depth and breadth to restructure our conception of Reality, to give the church a clear picture of its mission, and to bring spiritual inspiration to empower us for transforming ministry.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="pr-2">Bible Appreciation Enhanced</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

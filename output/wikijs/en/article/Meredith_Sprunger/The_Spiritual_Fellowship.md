@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Dr. Meredith Sprunger<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Real Life Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="pr-2">The Spiritual Fellowship — Why Now?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 During the past 45 years there has been a difference of opinion regarding the nature of the Urantia movement. Some have regarded it as a religious movement; others have viewed it as an educational movement with a religious purpose. The official organizations-Urantia Foundation, _The Urantia Book_ Fellowship, and the International Urantia Association-have all denied that they are religious organizations. They have lost much of the dynamic of outreach ministry and are instead engaged in political power struggles.
 
@@ -34,15 +58,15 @@ Our Preamble highlights the seven most important concepts that The Spiritual Fel
 
 The Industrial Age was primarily an extension of muscle-power. The Information Age is an extension of mental power. The Chaordic Age[^1] promises to be an extension of spiritual influence, insight, and transformation. We hope The Spiritual Fellowship is the beginning of a religious institution that will carry the religion of Jesus and the Fifth Epochal Revelation throughout the world.
 
-> “It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it.” [[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
+> “It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it.” <a id="a60_323"></a>[[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
 
-> “While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser.” [[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)]
+> “While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser.” <a id="a62_265"></a>[[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)]
 
-> “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism.” [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
+> “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism.” <a id="a64_203"></a>[[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 
-> “Notwithstanding that the new cult has always retarded social progress, it is regrettable that so many modern believers in moral standards and spiritual ideals have no adequate symbolismnothing to belong to.” [[UB 87:7.3](/en/The_Urantia_Book/87#p7_3)]
+> “Notwithstanding that the new cult has always retarded social progress, it is regrettable that so many modern believers in moral standards and spiritual ideals have no adequate symbolismnothing to belong to.” <a id="a66_211"></a>[[UB 87:7.3](/en/The_Urantia_Book/87#p7_3)]
 
-> “There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractiveness of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship.” [[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)]
+> “There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractiveness of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship.” <a id="a68_453"></a>[[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)]
 
 The Spiritual Fellowship is a God-centered spiritual vision striving to develop an appropriate symbolism and socioreligious expression of the Fifth Epochal Revelation. We invite you to participate in this new spiritual adventure in various ways that seem appropriate for you, such as:
 
@@ -55,6 +79,31 @@ We believe The Spiritual Fellowship will carry the religion of Jesus and the Fif
 
 > _Dr. Meredith Sprunger is Founder and Editor Emeritus of _The Spiritual Fellowship Journal_. He has been an active and dedicated Urantian for over four decades, serving in numerous capacities. He is author of “Spiritual Psychology” (Jemenon, 1992), coauthor of “A History of the Urantia Papers,” (Penumbra Press, 2000) and countless study aids and papers relating to the Urantia Papers._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Real Life Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="pr-2">The Spiritual Fellowship — Why Now?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

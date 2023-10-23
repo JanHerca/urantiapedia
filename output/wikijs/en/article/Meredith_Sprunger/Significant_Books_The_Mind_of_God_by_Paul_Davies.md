@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Service_Motive_Emerging">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Service Motive Emerging</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Reflections_on_the_Soul">
+          <span class="pr-2">Reflections on the Soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **“The Mind of God (The Scientific Basis for a Rational World)” by Paul Davies**
 
@@ -23,3 +47,27 @@ Davies asks, “Why is the world the way it is?” The physical universe is both
 There are many kinds of philosophical answers to this question. Davies examines solutions advanced by theoretical scientists, philosophers, and theologians. His conclusion is that the most reasonable hypothesis is that we live in a “Designer Universe” — a universe that was planned and executed with intelligence.
 
 The last chapter of _The Mind of God_ begins, “The essence of this book has been to trace the logic of scientific rationality back as far as it will go in the search for ultimate answers to the mystery of existence.” (p. 223) Davies observes that the final answer to this mystery is beyond the limits of science and logic. He suggests that mystical intuition — a first hand experience of Reality — is the only kind of knowledge which can bring this kind of meaningful understanding.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Service_Motive_Emerging">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Service Motive Emerging</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Reflections_on_the_Soul">
+          <span class="pr-2">Reflections on the Soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

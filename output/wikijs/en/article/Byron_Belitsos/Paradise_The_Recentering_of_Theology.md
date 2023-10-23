@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Byron Belitsos<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/Toward_a_Global_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toward a Global Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="pr-2">Death, The Final Frontier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introduction
 
@@ -50,25 +74,25 @@ Within its depthless clarity of substance
 I saw the Great Light shine into three circles
 In three clear colors bound in one same space. [^4]
 
-In one uncharacteristically poetic passage _The Urantia Book_ represents the Trinity in a comparable way, as symbolized by concentric spheres: “The personal presence of the Universal Father is immediately surrounded by the personal presence of the Eternal Son, while they are both invested by the unspeakable glory of the Infinite Spirit.” ([UB 11:1.1](/en/The_Urantia_Book/11#p1_1))
+In one uncharacteristically poetic passage _The Urantia Book_ represents the Trinity in a comparable way, as symbolized by concentric spheres: “The personal presence of the Universal Father is immediately surrounded by the personal presence of the Eternal Son, while they are both invested by the unspeakable glory of the Infinite Spirit.” (<a id="a76_341"></a>[UB 11:1.1](/en/The_Urantia_Book/11#p1_1))
 
 In _The Urantia Book_, God as Father is analogous to Dante's “Great Light that shines into three circles.” The Father is “logically” primal — and central — in relation to the co-equal Mother-Son and Infinite Spirit. (_The Urantia Book_ even presents the symbol of the Trinity as three concentric circles, azure in color.)
 
 The Father is primal in relation to the Trinity, and he is also the “First Source and Center” of all other things and beings, whereas the Son and the Spirit are designated as the “Second Source and Center” and “Third Source and Center” respectively. The Primal Father has many phases of manifestation. In one phase, the Father is the source and center of the physical cosmos, by virtue of being the First Cause of its universal gravitational and energy center. This great center is called “Paradise;” _The Urantia Book_ appropriates the multivalent term “paradise” from the scriptural and artistic traditions of Christianity and gives it a very different, modern twist.
 
-God is the source of Paradise — what _The Urantia Book_ calls the eternal, central, motionless “Isle of Paradise,” or “Eternal Isle.” Paradise is “from eternity;” it is actually causeless. But _The Urantia Book_ uses the language of causation as a “philosophic concession...to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences...” ([UB 0:3.23](/en/The_Urantia_Book/0#p3_23))
+God is the source of Paradise — what _The Urantia Book_ calls the eternal, central, motionless “Isle of Paradise,” or “Eternal Isle.” Paradise is “from eternity;” it is actually causeless. But _The Urantia Book_ uses the language of causation as a “philosophic concession...to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences...” (<a id="a82_404"></a>[UB 0:3.23](/en/The_Urantia_Book/0#p3_23))
 
-The Isle of Paradise is absolutely unique in the cosmos. It is the truly _holy center_ of the universe of universes: “Paradise is the center of the force-energy activation of the cosmos — the universe position of the First Source and Center...” ([UB 104:4.26](/en/The_Urantia_Book/104#p4_26)) Amazingly, while it is both “physical”-a “central material object” — yet it is also a time-space transcendent body composed of an “absolute” material found nowhere else:
+The Isle of Paradise is absolutely unique in the cosmos. It is the truly _holy center_ of the universe of universes: “Paradise is the center of the force-energy activation of the cosmos — the universe position of the First Source and Center...” (<a id="a84_246"></a>[UB 104:4.26](/en/The_Urantia_Book/104#p4_26)) Amazingly, while it is both “physical”-a “central material object” — yet it is also a time-space transcendent body composed of an “absolute” material found nowhere else:
 
 > The eternal Isle is composed of a single form of materialization-stationary systems of reality. This literal substance of Paradise is a homogeneous organization of space potency not to be found elsewhere in all the wide universe of universes. It has received many names in different universes, and... [we] have long since named it absolutum. This Paradise source material is neither dead nor alive; it is the original nonspiritual expression of the First Source and Center; it is Paradise, and Paradise is without duplicate.
 > 
-> It appears to us that the First Source and Center has concentrated all absolute potential for cosmic reality in Paradise as a part of his technique of self-liberation from infinity limitations, as a means of making possible subinfinite, even time-space, creation. But it does not follow that Paradise is time-space limited just because the universe of universes discloses these qualities. **Paradise exists without time and has no location in space.** ([UB 11:2.9-10](/en/The_Urantia_Book/11#p2_9)) [Emphasis added]
+> It appears to us that the First Source and Center has concentrated all absolute potential for cosmic reality in Paradise as a part of his technique of self-liberation from infinity limitations, as a means of making possible subinfinite, even time-space, creation. But it does not follow that Paradise is time-space limited just because the universe of universes discloses these qualities. **Paradise exists without time and has no location in space.** (<a id="a88_455"></a>[UB 11:2.9-10](/en/The_Urantia_Book/11#p2_9)) [Emphasis added]
 
-Timeless and spaceless, Paradise is also, we are told, absolutely at rest and motionless. _The Urantia Book_ has a great deal to say about the nature of space that is beyond the scope of this article. The concept of space is of course all-important in any cosmology. One amazing claim after another about cosmology emanates from _The Urantia Book_. Some of these are genuine predictions in the sense that they are verifiable or falsifiable by scientific observation. Perhaps the chief of these is that all extant galaxies are actually _in procession around an absolute center of gravity_. We have seen that recent astrophysical research on the “peculiar motion” of galaxies could lend itself to such a conclusion. This universal rotation around the Holy Center of Paradise is due to the fact that the eternal Isle “is the center and focal point of _absolute material gravity_.” ([UB 11:8.2](/en/The_Urantia_Book/11#p8_2)) [Emphasis added]
+Timeless and spaceless, Paradise is also, we are told, absolutely at rest and motionless. _The Urantia Book_ has a great deal to say about the nature of space that is beyond the scope of this article. The concept of space is of course all-important in any cosmology. One amazing claim after another about cosmology emanates from _The Urantia Book_. Some of these are genuine predictions in the sense that they are verifiable or falsifiable by scientific observation. Perhaps the chief of these is that all extant galaxies are actually _in procession around an absolute center of gravity_. We have seen that recent astrophysical research on the “peculiar motion” of galaxies could lend itself to such a conclusion. This universal rotation around the Holy Center of Paradise is due to the fact that the eternal Isle “is the center and focal point of _absolute material gravity_.” (<a id="a90_879"></a>[UB 11:8.2](/en/The_Urantia_Book/11#p8_2)) [Emphasis added]
 
 Intervening between observable galaxies and the Paradise Center is a central material creation, which _The Urantia Book_ calls the central universe, or “Havona.” Out beyond the central universe are galaxies that rotate around the central universe in a counter-clockwise ellipse, which in turn is also rotating around Paradise. These are organized as seven massive galaxy clusters known as the “seven superuniverses.”
 
-> Your solar system and other worlds of time are not plunging headlong, without chart and compass, into unmapped space. The local universe to which your system belongs is pursuing a definite and well-understood counterclockwise course around the vast swing that encircles the central universe. This cosmic path is well charted and is just as thoroughly known to the superuniverse star observers as the orbits of the planets constituting your solar system are known to Urantia (our world) astronomers. ([UB 15:1.2](/en/The_Urantia_Book/15#p1_2))
+> Your solar system and other worlds of time are not plunging headlong, without chart and compass, into unmapped space. The local universe to which your system belongs is pursuing a definite and well-understood counterclockwise course around the vast swing that encircles the central universe. This cosmic path is well charted and is just as thoroughly known to the superuniverse star observers as the orbits of the planets constituting your solar system are known to Urantia (our world) astronomers. (<a id="a94_502"></a>[UB 15:1.2](/en/The_Urantia_Book/15#p1_2))
 
 Scientists who have contemplated _The Urantia Book_ have wrestled long with its controversial claim of a universe Center, around which all material creation rotates. It obviously flies in the face of a key principle of relativity, the contention that there is no unique physical reference frame in the universe, nothing motionless by which to measure other motions.
 
@@ -78,19 +102,19 @@ Yet there are many points of contact with modern cosmology. For example, Paradis
 
 ## The Paradoxical Mystery of Paradise
 
-God is portrayed in _The Urantia Book_ as the Source and Center of both _spiritual reality_ and the material universe. God is _factually_ resident at the center of the cosmos: “The absolute personality of Deity exists on...Paradise.” ([UB 0:3.13](/en/The_Urantia_Book/0#p3_13)) “The Universal Father is cosmically focalized, spiritually personalized, and geographically resident at this center of the universe of universes.” ([UB 11:1.2](/en/The_Urantia_Book/11#p1_2)) Energy and spirit, fact and truth-all things divergent in the time-space universes — become one in the presence of the Father on Paradise.
+God is portrayed in _The Urantia Book_ as the Source and Center of both _spiritual reality_ and the material universe. God is _factually_ resident at the center of the cosmos: “The absolute personality of Deity exists on...Paradise.” (<a id="a104_235"></a>[UB 0:3.13](/en/The_Urantia_Book/0#p3_13)) “The Universal Father is cosmically focalized, spiritually personalized, and geographically resident at this center of the universe of universes.” (<a id="a104_426"></a>[UB 11:1.2](/en/The_Urantia_Book/11#p1_2)) Energy and spirit, fact and truth-all things divergent in the time-space universes — become one in the presence of the Father on Paradise.
 
 How did Paradise “arise” in eternity? In the “eternal past,” _The Urantia Book_ discloses that the first transaction was what modern theologians might call God's _kenosis_. Kenotic activity in this sense signifies God's choice to self-limit his unqualified infinity. He accomplishes this by “absolutizing” the Son, the divine Other. The Eternal Son is the _absolute of personality_. Simultaneously with this stupendous transaction, God became first cause of the _absolute of his non-spiritual selfhood_. In this eternity-moment: Paradise flashed forth from the Father. In the final eternity-transaction, this duality is resolved perfectly in the “eternity-appearance” of the Infinite Spirit, the harmonizer and unifier of the absolutes of spirit (the Son) and matter (Paradise). Thus the Trinity, in _The Urantia Book_ formulation, has an absolute non-spiritual co-ordinate — Paradise.
 
-In a very important sense, Paradise is also the absolute _paradox_. Waxing paradoxical, _The Urantia Book_ depicts Paradise as “the geographic center of infinity.” ([UB 11:9.2](/en/The_Urantia_Book/11#p9_2)) Elsewhere the text says: “The Isle of Paradise has a universe location but no position in space.” ([UB 0:4.12](/en/The_Urantia_Book/0#p4_12)) In another passage Paradise is depicted as the largest material body in the universe, yet it is _outside of space and time_. In other passages, we are told that Paradise is the nucleus both of the whole physical cosmos, and of each ultimate particle of the cosmos. Thus, the concept “Paradise” stands for a _radical_ one-to-many, whole-part dynamic in the cosmos. Its dynamism of paradox is worthy of the famous “the one and the many” dialectic of Plato's dialogue _Parmenides_, or Hegel's dialectical method in his _Logic_.
+In a very important sense, Paradise is also the absolute _paradox_. Waxing paradoxical, _The Urantia Book_ depicts Paradise as “the geographic center of infinity.” (<a id="a108_165"></a>[UB 11:9.2](/en/The_Urantia_Book/11#p9_2)) Elsewhere the text says: “The Isle of Paradise has a universe location but no position in space.” (<a id="a108_307"></a>[UB 0:4.12](/en/The_Urantia_Book/0#p4_12)) In another passage Paradise is depicted as the largest material body in the universe, yet it is _outside of space and time_. In other passages, we are told that Paradise is the nucleus both of the whole physical cosmos, and of each ultimate particle of the cosmos. Thus, the concept “Paradise” stands for a _radical_ one-to-many, whole-part dynamic in the cosmos. Its dynamism of paradox is worthy of the famous “the one and the many” dialectic of Plato's dialogue _Parmenides_, or Hegel's dialectical method in his _Logic_.
 
 > _But among the startling declarations about Paradise, perhaps the most outrageous is this statement: Paradise is the Source and Center of the whole cosmos by virtue of being its energy source and gravity center, but it also interpenetrates the cosmos at the smallest scale as the nucleus of each indivisible part._
 
 But among the startling declarations about Paradise, perhaps the most outrageous is this statement: Paradise is the Source and Center of the whole cosmos by virtue of being its energy source and gravity center, but it also interpenetrates the cosmos at the smallest scale as the nucleus of each indivisible _part_. In other words, the claim is that Paradise is at one and the same time _the nucleus of each ultimate material unit_ of the cosmos, and yet, is also the source and center of Infinity — the totality of the physical (and spiritual) cosmos! How is this conceivable? In the final analysis, it is humanly inconceivable and utterly paradoxical:
 
-> It is will-nigh impossible for human logic and finite reason to harmonize the concept of divine immanence, God within and a part of every individual, with the idea of God's transcendence, the divine domination of the universe of universes. ([UB 5:5.6](/en/The_Urantia_Book/5#p5_6)) But never can a creature understand how it is that this unity becomes duality, triunity, and diversity yet while remaining an unqualified unity. ([UB 115:3.3](/en/The_Urantia_Book/115#p3_3))
+> It is will-nigh impossible for human logic and finite reason to harmonize the concept of divine immanence, God within and a part of every individual, with the idea of God's transcendence, the divine domination of the universe of universes. (<a id="a114_243"></a>[UB 5:5.6](/en/The_Urantia_Book/5#p5_6)) But never can a creature understand how it is that this unity becomes duality, triunity, and diversity yet while remaining an unqualified unity. (<a id="a114_430"></a>[UB 115:3.3](/en/The_Urantia_Book/115#p3_3))
 
-It turns out that Paradise is paradigmatic of a radical, holographic whole-part relation that pervades all levels of reality. This feature of Paradise allows us to conceive of a special form of _panentheism_, to be considered later. The whole-topart dynamics underlying _The Urantia Book_'s cosmology is paradoxical and holographic, following the contours of the Paradise-concept. Not surprisingly, its _theology_ follows the same complex dualistic-unity pattern, and the result is a radically panentheistic teaching. From this point of view, the theology of _The Urantia Book_ can be restated as “God is in each one and each one is in God.” In one summary statement, we are told that “the creature not only exists in God, but God also lives in the creature.” ([UB 3:1.4](/en/The_Urantia_Book/3#p1_4)) This is held to be one of the secrets of the mystery of divine transcendence and immanence, according to _The Urantia Book_. It is also a central principle of the cosmo-theocentric model of the universe presented here.
+It turns out that Paradise is paradigmatic of a radical, holographic whole-part relation that pervades all levels of reality. This feature of Paradise allows us to conceive of a special form of _panentheism_, to be considered later. The whole-topart dynamics underlying _The Urantia Book_'s cosmology is paradoxical and holographic, following the contours of the Paradise-concept. Not surprisingly, its _theology_ follows the same complex dualistic-unity pattern, and the result is a radically panentheistic teaching. From this point of view, the theology of _The Urantia Book_ can be restated as “God is in each one and each one is in God.” In one summary statement, we are told that “the creature not only exists in God, but God also lives in the creature.” (<a id="a116_761"></a>[UB 3:1.4](/en/The_Urantia_Book/3#p1_4)) This is held to be one of the secrets of the mystery of divine transcendence and immanence, according to _The Urantia Book_. It is also a central principle of the cosmo-theocentric model of the universe presented here.
 
 Does contemporary theological cosmology or natural theology in any way ratify these claims? As a vehicle to get at this question, we will next consider existing theories that support the notion of the universe as “in” God. After this, we will turn the cosmic tables and look at ways in which today's science-theology dialogue conceives of God as _in_ each and every part of the universe.
 
@@ -134,9 +158,9 @@ We now have a locus for _creatio continua_. The upshot of Murphy's analysis is c
 
 ## Paradise and the Cosmos
 
-Comparable forms of top-down and bottom-up divine action are embedded in _The Urantia Book_'s concept of Paradise. First, God acts on the physical cosmos through its Paradise Universal Center: “As a physical controller in the material universe of universes, the First Source and Center functions in the patterns of the eternal Isle of Paradise, and through this absolute gravity center the eternal God exercises cosmic overcontrol of the physical level...throughout the universe of universes.” ([UB 1:2.10](/en/The_Urantia_Book/1#p2_10)) This is the general mode of the top-down action of God in the physical cosmos. And there are many other forms of top-down causality emanating through Paradise-acting via numerous intermediate agencies — presented in _The Urantia Book_.
+Comparable forms of top-down and bottom-up divine action are embedded in _The Urantia Book_'s concept of Paradise. First, God acts on the physical cosmos through its Paradise Universal Center: “As a physical controller in the material universe of universes, the First Source and Center functions in the patterns of the eternal Isle of Paradise, and through this absolute gravity center the eternal God exercises cosmic overcontrol of the physical level...throughout the universe of universes.” (<a id="a160_495"></a>[UB 1:2.10](/en/The_Urantia_Book/1#p2_10)) This is the general mode of the top-down action of God in the physical cosmos. And there are many other forms of top-down causality emanating through Paradise-acting via numerous intermediate agencies — presented in _The Urantia Book_.
 
-And second, Paradise acts from the bottom-up through its _fractal_ pieces, the ultimatons. We have seen previously that Paradise is _non-spacial_, and that “space exists relative to Paradise...Paradise exists at the focus of space.” ([UB 105:3.4](/en/The_Urantia_Book/105#p3_4)) Moreover, the physical presence of Paradise at the focus of space is manifest in space as the instantaneous grasp of gravity _at the level of the ultimaton_. (Again, we refer here to the form of gravity denominated as “absolute gravity.”) This means that the universal overcontrol of the First Source and Center extends to the quantum level of matter. And this is but one of the implications of the disclosure that each ultimaton has the Universe Center as its nucleus. According to mathematician Philip Calabrese, the claim that each ultimaton is upheld by Paradise gravity means that “presumably, this is the true strong force.” In this connection, Dr. Calabrese also suggests that the Paradise-concept may be the secret behind the phenomenon of nonlocality:
+And second, Paradise acts from the bottom-up through its _fractal_ pieces, the ultimatons. We have seen previously that Paradise is _non-spacial_, and that “space exists relative to Paradise...Paradise exists at the focus of space.” (<a id="a162_234"></a>[UB 105:3.4](/en/The_Urantia_Book/105#p3_4)) Moreover, the physical presence of Paradise at the focus of space is manifest in space as the instantaneous grasp of gravity _at the level of the ultimaton_. (Again, we refer here to the form of gravity denominated as “absolute gravity.”) This means that the universal overcontrol of the First Source and Center extends to the quantum level of matter. And this is but one of the implications of the disclosure that each ultimaton has the Universe Center as its nucleus. According to mathematician Philip Calabrese, the claim that each ultimaton is upheld by Paradise gravity means that “presumably, this is the true strong force.” In this connection, Dr. Calabrese also suggests that the Paradise-concept may be the secret behind the phenomenon of nonlocality:
 
 > Contemporary quantum mechanics... is confronted nowa-days by experiments described as “non-local reality” phenomena.... Perhaps the answer to this conundrum is not “non-local” reality, but rather “omni-local” reality, the omni-presence of Paradise...in and near space. [^12]
 
@@ -158,6 +182,31 @@ In the final analysis, the ultimate validation of the stereoscopic vision underl
 
 > _Byron has been a journalist and television producer and is presently a consultant in the telecommunications industry._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/Toward_a_Global_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toward a Global Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="pr-2">Death, The Final Frontier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

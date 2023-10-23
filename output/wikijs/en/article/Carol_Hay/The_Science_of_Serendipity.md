@@ -3,12 +3,36 @@ title: "The Science of Serendipity"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Carol Hay<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/A_Urantia_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Urantia Church?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Aphorism_on_Prayer_and_Worship">
+          <span class="pr-2">Aphorism on Prayer and Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Science has always fascinated me. Ive been especially intrigued by the stories of how some of the most important discoveries occurred through serendipity, such as someone accidentally knocking over a bottle in the laboratory and finding the solution to a perplexing problem, or how some scientist would be walking the streets in the middle of the night, unable to sleep because of a problem she couldn't solve, and some totally unrelated activity, like sitting on a park bench, would suddenly dispel her confusion and bring her a crystal clear answer to the problem.
 
@@ -48,7 +72,7 @@ The history of ourworld is the story of dissipative structures. The great spirit
 
 Where did this belief come from that we have to hold the world together, that living systems are so fragile? According to Margaret Wheatley; it comes from seventeenth century science, Newtonian reductionism, in which the world was seen as an incredible machine set in motion by God, a closed system like a gigantic clock. It was dangerous to tamper with the mechanism. Humanity was told by its leaders that this was a universe that could not be trusted with change, rejuvenation, growth. We were warned that we had to control a living system because once it was disrupted, it would fall apart.
 
-But we are slowly learning that we do not live in a mechanistic universe: “The universe is not like the laws, mechanisms, and the uniformities which the scientist discovers, and which he comes to regard as science, but rather like the curious, thinking, choosing, creative, combining, and discriminating _scientist_ who thus observes universe phenomena and classifies the mathematical facts inherent in the mechanistic phases of the material side of creation.” ([UB 195:7.22](/en/The_Urantia_Book/195#p7_22)) Changeand grow thare indigenous in the universe. Fluctuation and modification are part of the very process by which order is created. Instead of valuing stability, we should be valuing _resiliency_.
+But we are slowly learning that we do not live in a mechanistic universe: “The universe is not like the laws, mechanisms, and the uniformities which the scientist discovers, and which he comes to regard as science, but rather like the curious, thinking, choosing, creative, combining, and discriminating _scientist_ who thus observes universe phenomena and classifies the mathematical facts inherent in the mechanistic phases of the material side of creation.” (<a id="a74_462"></a>[UB 195:7.22](/en/The_Urantia_Book/195#p7_22)) Changeand grow thare indigenous in the universe. Fluctuation and modification are part of the very process by which order is created. Instead of valuing stability, we should be valuing _resiliency_.
 
 What makes a system capable of being resilient and reorganizing itself? What is the key characteristic of a healthy, self-organizing system? The answer is “self-reference.” In response to environmental or internal disturbances that signal the need for change, a sy stem can change in a way that remains consistent with its essential nature. As it changes, it does so by referring to itself, whaterer changes it does make will be consistent with its already established identity. Self-reference is what facilitates orderly change. When you cut yourself, for example, how does your body know that it's supposed to grow skin in that spot instead of hair? Because the body refers to itself and finds the answer in your DNA. The body is a selforganizingsystem that is part of a much more complex system of a holistic human being. Personality and the indwelling Spirit of God are the nuclei that are our unchanging reference points. When we pray or worship we are self-referencing with our ultimate sources of being.
 
@@ -90,3 +114,27 @@ From the new sciences I have learned that life is infinitely more integrated tha
 
 > _Carol Hay, a longtime student of The Lrantia Book, speaks extensively to church groups on personal religious growth, and is an editor of The Invisible Fellowship Magazine._
 {is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/A_Urantia_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Urantia Church?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Aphorism_on_Prayer_and_Worship">
+          <span class="pr-2">Aphorism on Prayer and Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

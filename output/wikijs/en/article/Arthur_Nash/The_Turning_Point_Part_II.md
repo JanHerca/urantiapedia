@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Arthur Nash<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Real Gospel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Excerpted from the book, “The Golden Rule in Business,” copyright 1923, this material has significance for Urantian scholars for three reasons. Part I of this excerpt chronicles Nash's devotion to his church, and the misguided fundamentalism of the organization that resulted in his expulsion. In Part II he chronicles his spiritual rebirth. In one of the most remarkable testimonies to the practical values of the Golden Rule, Nash describes how he applied it to a failing business and watched it prosper and grow. It is inspiring to read the birth of personal religion in Nash by means of loving service — the great gospel of Jesus of Nazareth. Nash's work may well have been a secondary human source for a key concept of the Urantia Papers, as we shall see._
 >
@@ -137,13 +158,35 @@ As I read that twelfth verse of the seventh chapter of Matthew, the light of its
 
 Well, that is what I discovered during the hardest weeks of study I ever put in in my life. I went and occupied my friend's pulpit, as I had promised to do. But the address I made, bore no resemblance to the one it was in my mind and intention to deliver when I consented to do so. It was a very different kind of thing —of that everybody may rest assured. It contained but one plea-a plea for the establishment of the Kingdom of God in the hearts of men. With that accomplished, the work of their hands would take care of itself, resolving itself, simply and naturally, into an outward expression of the indwelling spirit of the blameless Christ, Whose work and mission was to uplift and save mankind.
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Real Gospel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
-[^1]: “There was much talk [in the synagogue] about Jesus' preaching doctrines which were upsetting for the common people; his enemies maintained that his teachings were impractical, that everything would go to pieces if everybody made an honest effort to live in accordance with his ideas. And the men of many subsequent generations have said the same things. Many intelligent and well-meaning men, even in the more enlightened age of these revelations, maintain that modern civilization could not have been built upon the teachings of Jesus_—and they are partially right. But all such doubters forget that a much better civilization could have been built upon his teachings, and sometime will be. This world has never seriously tried to carry out the teachings of Jesus on a large scale, notwithstanding that halfhearted attempts have often been made to follow the doctrines of so-called Christianity.” [[UB 154:4.6](/en/The_Urantia_Book/154#p4_6)]
-	“This world has never seriously or sincerely or honestly tried out these dynamic ideas and divine ideals of Jesus' doctrine of the kingdom of heaven.” [[UB 170:4.14](/en/The_Urantia_Book/170#p4_14)]
+[^1]: “There was much talk [in the synagogue] about Jesus' preaching doctrines which were upsetting for the common people; his enemies maintained that his teachings were impractical, that everything would go to pieces if everybody made an honest effort to live in accordance with his ideas. And the men of many subsequent generations have said the same things. Many intelligent and well-meaning men, even in the more enlightened age of these revelations, maintain that modern civilization could not have been built upon the teachings of Jesus_—and they are partially right. But all such doubters forget that a much better civilization could have been built upon his teachings, and sometime will be. This world has never seriously tried to carry out the teachings of Jesus on a large scale, notwithstanding that halfhearted attempts have often been made to follow the doctrines of so-called Christianity.” <a id="a184_905"></a>[[UB 154:4.6](/en/The_Urantia_Book/154#p4_6)]
+	“This world has never seriously or sincerely or honestly tried out these dynamic ideas and divine ideals of Jesus' doctrine of the kingdom of heaven.” <a id="a185_152"></a>[[UB 170:4.14](/en/The_Urantia_Book/170#p4_14)]
 	"Present-day profit-motivated economics is doomed unless profit motives can be augmented by service motives. Ruthless competition based on narrowminded self-interest is ultimately destructive of even those things which it seeks to maintain. Exclusive and self-serving profit motivation is incompatible with Christian ideals-much more incompatible with the teachings of Jesus.
 	"In economics, profit motivation is to service motivation what fear is to love in religion. But the profit motive must not be suddenly destroyed or removed; it keeps many otherwise slothful mortals hard at work. It is not necessary, however, that this social energy arouser be forever selfish in its objectives.
-	“The profit motive of economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor throughout the earlier phases of civilization. Profit motivation must not be taken away from men until they have firmly possessed themselves of superior types of nonprofit motives for economic striving and social serving-the transcendent urges of superlative wisdom, intriguing brotherhood, and excellency of spiritual attainment.” [[UB 71:6.1-3](/en/The_Urantia_Book/71#p6_1)]
+	“The profit motive of economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor throughout the earlier phases of civilization. Profit motivation must not be taken away from men until they have firmly possessed themselves of superior types of nonprofit motives for economic striving and social serving-the transcendent urges of superlative wisdom, intriguing brotherhood, and excellency of spiritual attainment.” <a id="a188_491"></a>[[UB 71:6.1-3](/en/The_Urantia_Book/71#p6_1)]
 
 
 

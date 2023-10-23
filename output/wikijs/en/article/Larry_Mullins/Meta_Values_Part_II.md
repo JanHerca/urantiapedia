@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/The_Quest_for_Spiritual_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Quest for Spiritual Culture: Toward a New Paradigm of Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Living_the_Family_of_God">
+          <span class="pr-2">Living the Family of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -56,7 +80,7 @@ Viktor Frankl's observations deserve careful consideration by Urantians. He beli
 
 No wise Urantian will fail to note the parallel of Frankl's insights with the revelation of the Urantia Papers:
 
-> “Since true religion is a matter of personal spiritual experience, it is inevitable that each individual religionist must have his own and personal interpretation of the realization of that spiritual experience. Let the term ”faith" stand for the individual's relation to God rather than for the creedal formulation of what some group of mortals have been able to agree upon as a common religious attitude. 'Have you faith? Then have it to yourself. “ “ ([UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
+> “Since true religion is a matter of personal spiritual experience, it is inevitable that each individual religionist must have his own and personal interpretation of the realization of that spiritual experience. Let the term ”faith" stand for the individual's relation to God rather than for the creedal formulation of what some group of mortals have been able to agree upon as a common religious attitude. 'Have you faith? Then have it to yourself. “ “ (<a id="a82_457"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
 
 Unfortunately, much of the great work of Viktor Frankl has not been fully recognized due to the influence of the sacred cow of “scientific” mono-materialism. Indeed, much of modern science has broken with the tyranny of religious dogma, only to become virtually bound in the tyranny of mono-materialism. So, when most quantum scientists run up against the unexplainable, timeless, spaceless mysteries of the very small, they find it safer to postulate a preposterous series of “infinite parallel universes,” than to allow for a more elegantly logical First Source and Center.
 
@@ -154,7 +178,32 @@ So, if these questions disturb you, I urge you to read them again. Read them eve
 > _This material has been adapted from Chapter 17 of a work in progress by Larry Mullins, The Step Beyond. © Copyright 1998, Larry Mullins, Boulder, CO. Larry Mullins is a consultant in advertising and marketing. He is an editorial consultant to the Journal and author of Immature People with Power and Jesus: God and Man._
 {.is-info}
 
-> “If something has become a religion in your experience, it is self-evident that you already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy.” [UB 160:5.3](/en/The_Urantia_Book/160#p5_3)
+> “If something has become a religion in your experience, it is self-evident that you already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy.” <a id="a180_465"></a>[UB 160:5.3](/en/The_Urantia_Book/160#p5_3)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/The_Quest_for_Spiritual_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Quest for Spiritual Culture: Toward a New Paradigm of Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Living_the_Family_of_God">
+          <span class="pr-2">Living the Family of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

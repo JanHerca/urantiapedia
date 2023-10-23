@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Meredith Sprunger<br>© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion in Transition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="pr-2">Are We Starting a New Religion?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 All progressive living begins with the motivation and courage to explore new possibilities and the unknown. It requires effort and determination and is safeguarded by wisdom. Living in the shelter of traditional frames of reference and values permits one to largely avoid challenge and conflict.
 
@@ -19,3 +43,27 @@ The Fifth Epochal Revelation will follow a similar pattern. There will be a long
 > _We are now entering an extensive historical interval when the Fifth Epochal Revelation appears to be more or less dormant, but is actually undergoing a gestation period when developments are taking place preparing our world for a new age._
 
 We are now entering an extensive historical interval when the Fifth Epochal Revelation appears to be more or less dormant, but is actually undergoing a gestation period when developments are taking place preparing our world for a new age. Those of us fortunate enough to be active in the womb of time have the joyful opportunity to contribute to the edge of spiritual enlightenment. It is a time of freedom for creative activity, a time to enjoy the subtle events shaping the future, a time of joy anticipating the advent of a new age.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion in Transition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="pr-2">Are We Starting a New Religion?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

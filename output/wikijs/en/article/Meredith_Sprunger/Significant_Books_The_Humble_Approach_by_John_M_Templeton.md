@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Values: Learn Them or Lose Them</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="pr-2">Significant Books: Earth Currents by by Howard A. Snyder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 New Revised Edition
 by John M. Templeton
@@ -31,3 +55,27 @@ Templeton proposes that Humility Theology initiate a new research program to dis
 > The main purpose of the Templeton Foundations is to encourage enthusiasm for accelerating discovery and progress in spiritual matters and in knowledge about the unlimited creative spirit. In conclusion, we don't think we've really discovered what to do yet. All of this is in the embryonic stage, in the formative stage, maybe about the same stage as many sciences were two centuries ago. That's very important to remember in the humble approach. (p. 139)
 
 This is a stimulating book recommending an attitude toward the search for truth that theologians could well adopt. To the degree that this becomes a reality, the discovery of the Fifth Epochal Revelation may be the most important event of the twenty-first century.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Values: Learn Them or Lose Them</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="pr-2">Significant Books: Earth Currents by by Howard A. Snyder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

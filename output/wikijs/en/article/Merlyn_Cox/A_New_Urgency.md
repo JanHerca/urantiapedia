@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Merlyn Cox<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joan_Batson_Mullins/Significant_Books_Practicing_His_Presence_by_Frank_Laubach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Practicing His Presence by Frank Laubach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Forgotten_Urantian_Don_Deam">
+          <span class="pr-2">Forgotten Urantian : Don Deam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recent events have literally brought home the need for the world to hear the Good News, and hear it apart from cultural bias and conflict. The conditions that give rise to hatred and prejudice and intolerance are complex economically and culturally, but simple in terms of basic human nature. Such conditions will always exist as long as we fail to recognize others as brothers and sisters in the human family of the one divine Creator-Father. Readers of _The Urantia Book_ no doubt feel a new urgency in sharing the message of the Fifth Epochal Revelation.
 
@@ -19,3 +43,27 @@ At the same time, along with the urgency, comes the need for patience. I've alwa
 But he did. The urgency of his task was always there, but so was the patience, the un-hurriedness of his day to day living. I can only attribute it to a sublime confidence in God's wisdom and over-control, and the certainty, even fore-knowledge, of the outcome.
 
 So as we go about our tasks, I pray for both a sense of urgency and patience, for as ambassadors of the Fifth Epochal Revelation, I believe we will need both-in equal measure.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joan_Batson_Mullins/Significant_Books_Practicing_His_Presence_by_Frank_Laubach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Practicing His Presence by Frank Laubach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Forgotten_Urantian_Don_Deam">
+          <span class="pr-2">Forgotten Urantian : Don Deam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

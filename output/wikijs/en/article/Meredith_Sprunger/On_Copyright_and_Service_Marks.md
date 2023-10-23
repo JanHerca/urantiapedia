@@ -3,13 +3,37 @@ title: "On Copyright and Service Marks"
 description: "Editorials"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Urantia Foundation—Copyright, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="pr-2">Ecumenically Challenged</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There is a sharp divergence of opinion in the Urantia movement on the use of the copyright and the service marks associated with _The Urantia Book_. I have refrained from a full expression of my opinion on these issues because I have close friends on both sides of this controversy and because I prefer to avoid political involvement. Outreach activity and spiritual ministry, in my judgment, are the most important activities needed by our society.
 
@@ -34,3 +58,27 @@ Since Conciliators are not available to us, we must use our own legal system. Co
 I believe it is good for the Foundation to have service marks. But I think it is unfortunate that they chose the concentric circle symbol of the Trinity and the supermortal name of our planet. This is similar to the Christian Church attempting to control the use of the cross. I would hope the Foundation will choose other service marks and place the concentric circle symbol and the name Urantia in the public domain. My guess is that these marks will be so generally used in the future that they will eventually be lost as exclusive service marks anyway.
 
 It is my hope and prayer that we may have unity of purpose amid the diversity of opinions and activities. We should support the Foundation in its publication of _Urantia Book_ translations and study materials. It is my conviction that, in spite of mistakes and controversies, the Fifth Epochal Revelation will make its way throughout the world and transform it in the next 2000 years.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="pr-2">Ecumenically Challenged</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

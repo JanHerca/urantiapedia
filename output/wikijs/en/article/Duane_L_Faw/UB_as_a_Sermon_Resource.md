@@ -3,12 +3,36 @@ title: "The Urantia Book as a Sermon Resource"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Duane L. Faw, JD<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science, Religion, and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="pr-2">Confirming a Spiritual Pilgrimage </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 While teaching law in London in 1982, I learned that the Vicar of a nearby Anglican church was a “closet reader” of _The Urantia Book_. He was reluctant to see me in his church office or rectory, so we agreed to meet in a convenient neighborhood pub. I explained to him that I was attracted to the book because over 98% of its quotations were from the Bible, the Apocrypha and the Pseudepigrapha. As an adult Bible class teacher and certified lay speaker, I wanted to know what both the Bible and _The Urantia Book_ said about a text or concept before I used it. The margins of my _Urantia Book_ contained all the Bible references I could find for each quotation and concept, and I could go from _The Urantia Book_ to the Bible with ease; but without marginal notes in a Bible referring to the page and line of relevant passages in _The Urantia Book_, it was impossible to go from the Bible to _The Urantia Book_ using this same technique. Therefore, I used a computer program to rearrange my marginal notes into a format which facilitated going in either direction. I showed him the latest printout of this material which I brought to England for my own personal use.
 
@@ -42,3 +66,27 @@ Since publication of the first hardback edition of the _Paramony_ in 1986, I hav
 
 > _Duane Faw is a former Appellate Judge, a Brigadier General, U. S. Marine Corps (retired), and a Professor of Law, Emeritus, at Pepperdine University School of Law. Dr. Faw has taught adult Bible classes for 40 years and has been a certified lay speaker in the United Methodist Church for 25 years._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science, Religion, and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="pr-2">Confirming a Spiritual Pilgrimage </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

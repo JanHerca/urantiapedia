@@ -3,12 +3,36 @@ title: "The Service Motive Emerging"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Service, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Larry Mullins<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Human Sources of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Mind_of_God_by_Paul_Davies">
+          <span class="pr-2">Significant Books: The Mind of God by Paul Davies</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Less spectacular than the collapse of Communism, but equally significant, is the evolution of American business toward the service motive. In the last decade, the twin sacred cows of profit and power have been slowly losing primacy to higher ideals.
 
@@ -16,7 +40,7 @@ In enlightened companies, profit is no longer pursued as a sole business objecti
 
 Twenty-five years ago, when I was a young advertising executive, the admonition made on 71:6.1 of _The Urantia Book_ seemed impossibly optimistic:
 
-> Present-day profit-motivated economics is doomed unless profit motives can be augmented by service motives. Ruthless competition based on narrow-minded self-interest is ultimately destructive of even those things which it seeks to maintain. Exclusive and selfserving profit motivation is incompatible with Christian ideals-much more incompatible with the teachings of Jesus. In economics, profit motivation is to service motivation what fear is to love in religion. [UB 71:6.1](/en/The_Urantia_Book/71#p6_1)
+> Present-day profit-motivated economics is doomed unless profit motives can be augmented by service motives. Ruthless competition based on narrow-minded self-interest is ultimately destructive of even those things which it seeks to maintain. Exclusive and selfserving profit motivation is incompatible with Christian ideals-much more incompatible with the teachings of Jesus. In economics, profit motivation is to service motivation what fear is to love in religion. <a id="a42_468"></a>[UB 71:6.1](/en/The_Urantia_Book/71#p6_1)
 
 The purpose of this article is to document some of the sweeping changes that are surging through American businesses, organizations, and institutions. My premise is that these transformations are evidence of the accuracy of _The Urantia Book_'s prediction about the evolution of the service motive. More than this, I seek to show that some of the principles of Jesus are being broadly applied by enlightened businesses.
 
@@ -34,7 +58,7 @@ In his book Arthur Nash wrote of his concern about the large amount of contempor
 
 Nash went on to say that the phrase: “_Christianity had not failed, simply because Christianity had not yet been tried!_” had been borrowed from him by several writers during World War I. Now compare his quote with this excerpt from 154:4.6 of _The Urantia Book_:
 
-> Many intelligent and well-meaning men, even in the more enlightened age of these revelations, maintain that modern civilization could not have been built upon the teachings of Jesus — and they are partially right. But all such doubters forget that a much better civilization could have been built upon his teachings, and sometime will be. This world has never seriously tried to carry out the teachings of Jesus on a large scale, notwithstanding that halfhearted attempts have often been made to follow the doctrines of so-called Christianity. [UB 154:4.6](/en/The_Urantia_Book/154#p4_6)
+> Many intelligent and well-meaning men, even in the more enlightened age of these revelations, maintain that modern civilization could not have been built upon the teachings of Jesus — and they are partially right. But all such doubters forget that a much better civilization could have been built upon his teachings, and sometime will be. This world has never seriously tried to carry out the teachings of Jesus on a large scale, notwithstanding that halfhearted attempts have often been made to follow the doctrines of so-called Christianity. <a id="a60_546"></a>[UB 154:4.6](/en/The_Urantia_Book/154#p4_6)
 
 ## The Golden Rule in Action
 
@@ -54,7 +78,7 @@ In his book Nash urged his methods be adopted by all businesses, declaring that 
 
 _The Urantia Book_ expands upon a similar concept on 195:10.1:
 
-> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men... Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel.... And when Jesus becomes thus lifted up, he will draw all men to himself. [UB 195:10.1](/en/The_Urantia_Book/195#p10_1)
+> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men... Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel.... And when Jesus becomes thus lifted up, he will draw all men to himself. <a id="a80_457"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)
 
 ## A Modern Perspective
 
@@ -84,7 +108,7 @@ _Competing Against Time_ was written by George Stalk, Jr. and Thomas M. Hout, tw
 
 One could argue that such motivations are plainly selfish, and not service in its purest form. But _The Urantia Book_ declares the service motive must augment the profit motive not supplant it. _The Urantia Book_ also cautions against a precipitous abandonment of profit-motivated economics:
 
-> _The profit motive of economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor throughout the earlier phases of civilization. Profit motivation must not be taken away from men until they have firmly possessed themselves of superior types of nonprofit motives for economic striving and social serving — the transcendent urges of superlative wisdom, intriguing brotherhood, and excellency of spiritual attainment._ ([UB 71:6.3](/en/The_Urantia_Book/71#p6_3))
+> _The profit motive of economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor throughout the earlier phases of civilization. Profit motivation must not be taken away from men until they have firmly possessed themselves of superior types of nonprofit motives for economic striving and social serving — the transcendent urges of superlative wisdom, intriguing brotherhood, and excellency of spiritual attainment._ (<a id="a110_495"></a>[UB 71:6.3](/en/The_Urantia_Book/71#p6_3))
 
 The bankruptcy and disintegration of Communism took us by surprise. In a less sensational way, the long honored gods of power and profit are being modulated to secondary status by wise business leaders. Some of the most profitable organizations today are afire with an almost fanatic dedication to superb customer service.
 
@@ -106,7 +130,7 @@ Progressive clergy have introduced concepts like _Servant Leadership_ [^2] and t
 
 In _The Urantia Book_ the process of empowerment is often depicted as a requisite in the ministry of Jesus. From 159:3.3 (Jesus is speaking):
 
-> It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it.... Forget not that I will stop at nothing to restore selfrespect to those who have lost it, and who really desire to regain it. [UB 159:3.3](/en/The_Urantia_Book/159#p3_3)
+> It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it.... Forget not that I will stop at nothing to restore selfrespect to those who have lost it, and who really desire to regain it. <a id="a132_254"></a>[UB 159:3.3](/en/The_Urantia_Book/159#p3_3)
 
 The concept of empowerment through self-esteem enhancement is being adopted and urgently taught by leaders who are influential and respected in the business world. Note this comment from the pages of _Horizontal Management_ [^3] :
 
@@ -147,6 +171,31 @@ In my job as a management consultant, I have watched a very healthy trend in the
 Many practical individuals, some of them wise Christian leaders, insist that such a time is far distant. Perhaps it is. For now we live in a society where people talk openly at cocktail parties about the dynamic magnetism of Hitler, and executives proudly quote from a book on the leadership secrets of Attila the Hun. And it is true that the ultimate code word, _Jesus_, is still not yet safe to use without discretion.
 
 But surely one day a great business leader will ask _the ultimate question_. His or her words will clearly emanate across a polished board room table. The sophisticated pros and the young MBAs sitting around the table will not register surprise, but will seriously consider the question — because the question asked by this great leader will reflect what is recognized as the most profound business principle available: “***What would Jesus do?***”
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Human Sources of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Mind_of_God_by_Paul_Davies">
+          <span class="pr-2">Significant Books: The Mind of God by Paul Davies</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

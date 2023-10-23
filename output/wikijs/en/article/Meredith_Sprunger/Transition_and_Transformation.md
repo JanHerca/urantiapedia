@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Meredith Sprunger<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/A_Seismic_Shift_in_Christianity">
+          <span class="pr-2">A Seismic Shift in Christianity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 This is the tenth year of the publication of _The Spiritual Fellowship Journal_. After thirty-five years of interfacing with mainline Christian ministers, we started the Journal in the hope that we could get Christian leaders dialoguing about _The Urantia Book_. Although we had some Christian clergy using the Urantia Papers in their preaching and teaching, it became apparent that they had too much at stake to become openly involved with the Fifth Epochal Revelation. So in 1998, we shifted the mission of the Journal to laying foundations for the advent of new religious organizations to carry the Fifth Epochal Revelation throughout the world. The new mission of the Journal was to: _Promote Theological, Philosophical, and Polity Discussions Germane to an Appropriate Symbolism and Socioreligious Expression of the Fifth Epochal Revelation_.
@@ -19,3 +43,27 @@ At this time the Christ Michael Corps for Publishing and Outreach in Boulder, Co
 The Journal, in my judgment, does have potentials to make significant contributions to the Urantia movement. I am happy to report that Larry Mullins has agreed to take over the editorship of the Journal and it will be published by Penumbra Press, which publishes materials for the Christ Michael Corps for Outreach in Boulder, Colorado. Larry is an accomplished speaker and writer, and a long time student of the Urantia Papers. He is author of: _Jesus: God & Man_, _Immature People with Power: How to Handle Them_, _Get Real_, and _A History of the Urantia Papers_. Larry is CEO of UltraSales, Inc., a nationally syndicated advertising and marketing business. _The Spiritual Fellowship Journal_, in my judgment, will be in excellent hands. Larry has asked me to write a column in the Journal under his editorship.
 
 In addition to working on _A Discussion Manual_ for the Urantia Papers and rewriting the _Psalms_, Sherilyn Henry and I are organizing a Research Board composed of subgroups to research and create resources that will be used in initiating the infrastructure for a new religious organization, The Spiritual Fellowship, based on the Fifth Epochal Revelation that will provide spiritual nourishment from birth to death. This will be in process for a number of years. We believe the time is right for this endeavor. The heart and underlying dynamic of The Spiritual Fellowship is the faith that all people of the world are beloved by God, and that each is a member of the loving family of God.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/A_Seismic_Shift_in_Christianity">
+          <span class="pr-2">A Seismic Shift in Christianity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

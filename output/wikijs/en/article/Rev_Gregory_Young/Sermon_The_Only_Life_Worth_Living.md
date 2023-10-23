@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Rev. Gregory Young<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meta-Values ( Part I )</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="pr-2">Doing the Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I should like to pose a rhetorical question: “Do you think that the only life worth living is one based on truth and dedicated to loving God and humankind?” Many of us would probably agree that this is a noble ideal. In the light of this ideal, look at your life and bring to mind everything that you are wholeheartedly committed to. What are you really willing to make sacrifices for?
 
@@ -44,3 +68,27 @@ Let us, therefore, go forward as spiritual pioneers; learning to feast upon life
 
 > _Gregory Young is pastor of St. John United Church of Christ in Germantown, Wisconsin._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meta-Values ( Part I )</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="pr-2">Doing the Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

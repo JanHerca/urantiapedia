@@ -3,12 +3,36 @@ title: "Interface: A New Revelation? Who needs it?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Revelation, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Merlyn Cox<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mainline Destiny</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="pr-2">How The Urantia Book Can Contribute to the Church</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the most pervasive and inhibiting initial reactions to _The Urantia Book_, I believe, aside from it's seemingly gnostic elements, comes from our assumptions about revelation itself, namely that a truly contemporary revelation to our world is neither expected nor needed.
 
@@ -33,3 +57,27 @@ Is a new revelation necessary? If one means is our salvation at stake — no. Bu
 If God so fully disclosed himself in the Incarnation that anyone who has seen the Son has seen the Father, would he not desire for us all a clearer, fuller understanding of the same?
 
 God is not arbitrarily hidden — he is intentionally revealed. If we have finally achieved a point in the history of the world that represents a readiness for an up-stepping of our understanding of the eternal plan for all of us, who would wish to say, “No thanks, we have enough.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mainline Destiny</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="pr-2">How The Urantia Book Can Contribute to the Church</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Historys_Unpredictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">History's Unpredictability</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Aspects_of_Prophetic_Leadership">
+          <span class="pr-2">Aspects of Prophetic Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The three central organizations in the Urantia movement — The Urantia Foundation, _The Urantia Book_ Fellowship, and The International Urantia Association — have repeatedly declared that they are not religious organizations. With the continued Foundation involvement in lawsuits against students of _The Urantia Book_ and their recent threat against _The Urantia Book_ Fellowship, one wonders if these secular organizations are the proper aegis for the outreach of the teachings of the Fifth Epochal Revelation?
 
@@ -31,3 +55,27 @@ Many years ago, in preparation for the time when the Fifth Epochal Revelation wo
 10. The Fellowship believes that most of its spiritual practices and symbolism should be so designed that it can be participated in by the individual, the family, and the entire congregation.
 11. The Fellowship recognizes that as ceremonies, rituals, and spiritual symbolism evolve, they should be relatively simple, filled with beauty and meaning. We seek to create a structure in which this symbolism and its related ceremonies may evolve.
 12. The Fellowship recommends that each congregation provide in their local program, whenever possible, opportunities for religious education, personal counseling, spiritual guidance, and group worship. These religious ministrations should dramatize spiritual loyalties, magnify the lures of truth, beauty, and goodness, glorify the potentials of family life, stimulate unselfish service and warm friendship, conserve enlightened morality, support human welfare, and promote a wise outreach ministry to the world.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Historys_Unpredictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">History's Unpredictability</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Aspects_of_Prophetic_Leadership">
+          <span class="pr-2">Aspects of Prophetic Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

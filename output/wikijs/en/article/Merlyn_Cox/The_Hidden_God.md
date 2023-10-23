@@ -3,12 +3,36 @@ title: "Interface: The Hidden God"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: God, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Merlyn Cox<br>© 1995 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Scandal of Current Spiritual Cosmology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="pr-2">The Miracle of Recovery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The philosopher Descartes once said that any philosophy that does not affirm that God is hidden is not true. The Pentateuch declares that no one can look upon God and live. Both are affirmations of the distance between the finite and the infinite. It is, no doubt, the rationale for the Deist belief that God made the universe like a giant clock, an enormous self-contained mechanism bound by its own laws, and then retired in splendid isolation.
 
@@ -29,3 +53,27 @@ It surely follows, also, that such a Divine Person, who has gone to such lengths
 This is why_The Urantia Book_ makes so much sense to so many who have taken the time to explore it. It is not only in keeping with the best insights of the world's great religions, it is in supreme harmony with, and indeed affirms as central, the truth of the Incarnation.
 
 Its rich cosmology and coordination of insights from major disciplines, together with a greatly enhanced description of the life and teachings of Jesus, offer a wellspring of insight and inspiration for this new age, indeed for ages to come — or at least until Divine wisdom reckons the world ready for yet another upstepping in a manner appropriate for _that_ time and age.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Scandal of Current Spiritual Cosmology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="pr-2">The Miracle of Recovery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

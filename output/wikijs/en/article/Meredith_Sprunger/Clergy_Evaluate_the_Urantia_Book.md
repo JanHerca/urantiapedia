@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How The Urantia Book Can Contribute to the Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="pr-2">Science, Religion, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Many of us as we read the Gospels marvel that the Pharisees and Sadducees did not perceive the high spiritual quality and wisdom of the teachings of Jesus. We tend to forget the great influence of tradition and the power of authority in institutional religion. Prophetic messages are usually opposed by institutional power structures for decades before the truth of their insights is generally recognized. This is the nature of religious growth. All individual and social development has a basic evolutionary component.
 
@@ -56,4 +80,28 @@ What is it about this book that makes it, for me and for so many other people, s
 
 This professor voices the reaction which most of us “religious professionals” have when we first look at _The Urantia Book_-“gnostic,” “esoteric,” “absurd.” Then those of us who take the time to actually read the book find something quite different than we anticipated. It has substance, balance, spiritual insight, and an amazingly coherent universe picture of Reality. Because of its great potential to contribute to the spiritual enhancement and well being of humanity, we think it is important for ministers, theologians, philosophers, and others to engage in a scholarly study, criticism, and evaluation of the book.
 
-> “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” (<a id="a82_515"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How The Urantia Book Can Contribute to the Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="pr-2">Science, Religion, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

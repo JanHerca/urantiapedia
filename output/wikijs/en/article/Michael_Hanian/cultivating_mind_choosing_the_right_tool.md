@@ -206,7 +206,7 @@ You cannot stop God. But you can ban Him from cultivating your mind.
 
 Faith is my hack and my sword. It’s the only tool and the only weapon I will ever need to help my mind win the ongoing battle with fear, which is disbelief.
 
-As time goes by, I notice that the distance between the newly born faith and the mind, the distance which used to be a problem, is getting shorter, for the two are getting closer, and they are mastering a common language. I am beginning to see that **_“Faith_** [is] **_the supreme assertion of human thought,”_** <a id="a208_314"></a>[[UB 3:3.9](/en/The_Urantia_Book/3#p3_9)] that **_“faith… is reasonable,”_** <a id="a208_391"></a>[[UB 103:7.1](/en/The_Urantia_Book/103#p7_1)] that **_“faith is a vision of the spiritualized mind.”_** <a id="a208_495"></a>[[UB 1:3.3](/en/The_Urantia_Book/1#p3_3)]
+As time goes by, I notice that the distance between the newly born faith and the mind, the distance which used to be a problem, is getting shorter, for the two are getting closer, and they are mastering a common language. I am beginning to see that **_“Faith_** [is] **_the supreme assertion of human thought,”_** <a id="a208_314"></a>[[UB 3:5.9](/en/The_Urantia_Book/3#p5_9)] that **_“faith… is reasonable,”_** <a id="a208_391"></a>[[UB 103:7.1](/en/The_Urantia_Book/103#p7_1)] that **_“faith is a vision of the spiritualized mind.”_** <a id="a208_495"></a>[[UB 1:3.3](/en/The_Urantia_Book/1#p3_3)]
 
 I can be confident that I have chosen the right tool. Unlike other tools, intense use only makes it sharper. All I have to do is to keep it handy.
 

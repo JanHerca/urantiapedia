@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compare: Human Concepts Paralleled with The Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Barton/The_Man_Nobody_Knows_Part_I">
+          <span class="pr-2">The Man Nobody Knows ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _“JJ” Johnson is serving our country as a civilian in a very dangerous place, Islamabad, Pakistan. This Marine (there is no such thing as an ex-Marine) is “Semper Fi” to the Urantia Papers as always. JJ is helping some of the truth-starved people there to the Urantia Papers ... especially the Life and Teachings of Jesus. Here are a few communications from one of the most courageous and wonderful young ladies who has taken to the Revelation._
 > 
@@ -111,3 +135,27 @@ Nadia
 > 
 > jj606joh@isb.paknet.com.pk
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compare: Human Concepts Paralleled with The Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Barton/The_Man_Nobody_Knows_Part_I">
+          <span class="pr-2">The Man Nobody Knows ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

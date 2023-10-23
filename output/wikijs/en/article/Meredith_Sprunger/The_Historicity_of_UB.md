@@ -3,12 +3,36 @@ title: "The Historicity of The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Urantia Book—Authorship, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith J. Sprunger<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Father Idea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="pr-2">The Mystery of the Trinity: Unity in Plurality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The fact that _The Urantia Book_ has won the appreciation of thousands of people with capable minds and balanced personalities within the Christian and Judaic traditions, and has sold over 250,000 copies without organized promotional effort, attests to the attractiveness of its religious message. Years of experience, however, have demonstrated that the first thing people wish to know about _The Urantia Book_ is its authorship and origin. This is a difficult question to answer because the book does not fit into conventional categories. It claims to be new revelation and to have been written by supermortal personalities!
 
@@ -101,3 +125,27 @@ Both the Urantia Foundation and The Fellowship have refrained from using mass me
 _The Urantia Book_ is one of the most promising sources of creative thought in philosophy, religion, and culture in our contemporary world. It has extremely broad ramifications. The authors' overarching grasp of the dynamics of civilization and culture shed wisdom in almost every area of human endeavor. Although we are confident the church will one day view _The Urantia Book_ as an authentic and enlarged source of spiritual truth, it will only gain such recognition through critical evaluation by laypersons, ministers, and theologians.
 
 _The Spiritual Fellowship Journal_ grew out of the Clergy Network of the Christian Fellowship of Students of _The Urantia Book_ organized in 1979. It is designed to interface with mainline ministers who have both the theoretical and practical background needed to critically evaluate the book's content. The recognition of enlarged spiritual concepts and values also requires courage, balance, and open-mindedness. We invite you to join the increasing number of religious leaders interested in initiating a period of testing for this new and fascinating vision of spiritual reality.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Father Idea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="pr-2">The Mystery of the Trinity: Unity in Plurality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

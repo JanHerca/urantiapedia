@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Transitions">
+          <span class="pr-2">Transitions...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Volume 14, Number 1, Fall-Winter, 2004
 
@@ -135,9 +156,31 @@ Suggested annual donation — \$10.
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo3.png">
 </figure>
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Transitions">
+          <span class="pr-2">Transitions...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 
-[^1]: See [UB 87:7.6-10](/en/The_Urantia_Book/87#p7_6)
+[^1]: See <a id="a183_10"></a>[UB 87:7.6-10](/en/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

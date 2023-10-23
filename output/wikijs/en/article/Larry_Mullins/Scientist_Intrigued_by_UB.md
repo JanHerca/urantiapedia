@@ -3,15 +3,39 @@ title: "Scientist Intrigued by The Urantia Book"
 description: "Creative Outreach"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Beyond Tradition and Orthodoxy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="pr-2">Disseminating the Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “_If something has become a religion in your experience, it is self-evident thatyou already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy._” ([UB 160:5.3](/en/The_Urantia_Book/160#p5_3))
+
+> “_If something has become a religion in your experience, it is self-evident thatyou already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy._” (<a id="a37_467"></a>[UB 160:5.3](/en/The_Urantia_Book/160#p5_3))
 
 Dr. Sprunger began an energetic and programmed outreach to Christian ministerial colleagues decades ago. Such an appeal to individuals with degrees and professional expertise, for most of us lay persons, is out of the question. How can we hope to interest a professor or a professional religionist in the Urantia Papers? However, we should keep in mind that the Urantia Papers refer to Jesus as a layperson, and makes the comment that “ the world's greatest religious teacher was indeed a layman.” (p. 2091)
 
@@ -41,8 +65,33 @@ There are other area's of Dr. McMenamin's book that seek answers and impinge upo
 
 It is unfortunate that Martin Gardner did not have a balanced evaluation of the science in _The Urantia Book_ and completely ignored the authors' observation that the science of the Papers would soon need to be revised. Now there is a fresh opportunity to reach scientists, especially those who would like the benefit of some insightful _Urantia Book_“gems.”
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms Today: Beyond Tradition and Orthodoxy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="pr-2">Disseminating the Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: McMenamin, Mark A. S. _The Garden of Ediacara_. New York: Columbia University Press, 1998.
 
-> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in the wholehearted effort to reach the border land of spirit-consciousness — contact with the divine presence._” [UB 196:3.34](/en/The_Urantia_Book/196#p3_34)
+> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in the wholehearted effort to reach the border land of spirit-consciousness — contact with the divine presence._” <a id="a96_434"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)

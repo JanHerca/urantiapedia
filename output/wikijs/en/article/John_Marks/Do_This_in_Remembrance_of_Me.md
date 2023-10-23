@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 John Marks<br>© 2000 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Go Into All the World, to Every Race, Tribe, and Nation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="pr-2">A Communion Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > “_Every inspiring ideal grasps for some perpetuating symbolism — seeks sometechniquefor culturalmanifestation which will insure survival and augment realization-and the cult achieves this end by fostering and gratifying emotion._”
 > 
-> “_From the dawn of civilization everyappealing movement in social culture or religious advancement has developed a ritual, a symbolic ceremonial._” ([UB 87:7.1-2](/en/The_Urantia_Book/87#p7_1))
+> “_From the dawn of civilization everyappealing movement in social culture or religious advancement has developed a ritual, a symbolic ceremonial._” (<a id="a39_151"></a>[UB 87:7.1-2](/en/The_Urantia_Book/87#p7_1))
 
 One of the hallmarks of religion is the performance of rituals. Religious rituals are usually associated with a sacred story or myth, and together the ritual and story express symbolically the human attempt to interact with what is perceived as sacred or divine reality. A vast body of anthropological studies as well as the findings of comparative religion document the universality of ritual as an indispensable component of religion. Although there are many theories on its origins, nature, and functions, it is safe to say that ritual appears to be the main human technique for enacting or dramatizing, and thus preserving through repetition, religious sentiments that are considered vital to the welfare of a particular community (hence sacred). [^2]
 
@@ -41,7 +65,7 @@ I realized, too, why Jesus had chosen such a setting for one of his most profoun
 
 About ten years after this occasion I accompanied members of our local Urantia study group to a potluck dinner at the home of a couple who belonged to another study group some fifty miles away. The occasion was the anniversary of Jesus' birthday (August 21, 7 B.C., according to _The Urantia Book_) and the form of the celebration was to be a “Remembrance Supper,” which is the way Jesus' Last Supper with his apostles is described in _The Urantia Book_, [Paper 179](/en/The_Urantia_Book/179). We enjoyed a casual meal on the patio and gradually got to know one another since most members of each respective group had not met the members of the other group before.
 
-After the meal our host passed around glasses of wine and fruit juice and asked us all to stand while she read several passages from Paper 179. Then we drank our wine or juice together in a sort of “communion.” It was indeed a communion in the literal sense of the word but without the stiff, solemn formality associated with the typical communion service in Christian churches. During the reading each of us communed with our own thoughts and meditated on the meaning of the words. We also had been communing with one another all along, first through conversation and then silently through our shared purpose in being there. Finally, one couldn't help thinking of Jesus' statement, “Where two or three believers are gathered together, there am I in the midst of them” ([Matt. 18:20](/en/Bible/Matthew/18#v20); [UB 159:1.3](/en/The_Urantia_Book/159#p1_3)) and feeling the spiritual presence inspired by those words.
+After the meal our host passed around glasses of wine and fruit juice and asked us all to stand while she read several passages from Paper 179. Then we drank our wine or juice together in a sort of “communion.” It was indeed a communion in the literal sense of the word but without the stiff, solemn formality associated with the typical communion service in Christian churches. During the reading each of us communed with our own thoughts and meditated on the meaning of the words. We also had been communing with one another all along, first through conversation and then silently through our shared purpose in being there. Finally, one couldn't help thinking of Jesus' statement, “Where two or three believers are gathered together, there am I in the midst of them” ([Matt. 18:20](/en/Bible/Matthew/18#v20); <a id="a67_811"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3)) and feeling the spiritual presence inspired by those words.
 
 At the conclusion of the reading and communion “toast,” our host asked each of us in turn to read from small slips of paper which she had passed out to everyone as we arrived earlier in the day. Each slip contained a line or two from _The Urantia Book_. Most people commented on the lines after reading them and this prompted others to chime in. By this simple device a meaningful discussion was promoted, which drew all of us closer together and raised the level of the conversation beyond mere social pleasantries to a deeper exploration of shared convictions and values.
 
@@ -64,14 +88,39 @@ Of course real religions can't simply be manufactured. A great deal of cultural 
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Go Into All the World, to Every Race, Tribe, and Nation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="pr-2">A Communion Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: [Luke 22;19](/en/Bible/Luke/22#v19)
 
 [^2]: An excellent review of the role of ritual in religion is Evan M. Zuesse's article “Ritual” in _The Encyclopedia of Religion_, Mircea Eliade, Editor in Chief (New York: Macmillan, 1987), vol. 12, pp. 405-422
 
-[^3]: For example, [Matt. 9:10-17](/en/Bible/Matthew/9#v10); [12:1-14](/en/Bible/12#v1); [Mark 2:15-28](/en/Bible/Mark/2#v15); [3:1-6](/en/Bible/3#v1); [Luke 5:29-39](/en/Bible/Luke/5#v29); [6:1-11](/en/Bible/Luke/6#v1). [UB 147:5.1](/en/The_Urantia_Book/147#p5_1) - [UB 147:8.6](/en/The_Urantia_Book/147#p8_6)
+[^3]: For example, [Matt. 9:10-17](/en/Bible/Matthew/9#v10); [12:1-14](/en/Bible/12#v1); [Mark 2:15-28](/en/Bible/Mark/2#v15); [3:1-6](/en/Bible/3#v1); [Luke 5:29-39](/en/Bible/Luke/5#v29); [6:1-11](/en/Bible/Luke/6#v1). <a id="a121_221"></a>[UB 147:5.1](/en/The_Urantia_Book/147#p5_1) - <a id="a121_267"></a>[UB 147:8.6](/en/The_Urantia_Book/147#p8_6)
 
-[^4]: See [UB 120:3.6-7](/en/The_Urantia_Book/120#p3_6), points 5 and 6; cf. [UB 151:3.2-16](/en/The_Urantia_Book/151#p3_2).
+[^4]: See <a id="a123_10"></a>[UB 120:3.6-7](/en/The_Urantia_Book/120#p3_6), points 5 and 6; cf. <a id="a123_77"></a>[UB 151:3.2-16](/en/The_Urantia_Book/151#p3_2).
 
 [^5]: As far back as the third millennium B.C.E., Sumerian priests served statues of their gods a sacred meal, which they then laterconsumed. See also The Anchor Bible Dictionary, vol. 4: 653-655 on the antiquity of the sacred meal.

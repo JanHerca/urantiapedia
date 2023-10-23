@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Gender_Problems">
+          <span class="pr-2">Gender Problems</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 From our vantage point of 2000 years of history, it is difficult for us to understand the hostility which the Pharisees and Sadducees exhibited toward the message of Jesus. We tend to forget the strength of tradition and institutional power structures. If we keep these evolutionary dynamics in mind, it is easier for us to understand both their reaction and our contemporary situation.
 
@@ -26,3 +50,27 @@ The pioneers, the 1% which Abraham Maslow describes as the innovators, break the
 > As people who love the church and long for its revitalization, we hope the progressive orientation of many members of mainline Christianity will enable the church to discover the enlightening and renewing message of _The Urantia Book_ in a much shorter time than was required for the spiritual rejuvenation of religious institutions in the past.
 
 While slow evolutionary leavening takes place in the old institutions, new religious institutions will no doubtemerge to carry the enhanced and enlarged spiritual insights of _The Urantia Book_ to the world. As people who love the church and long for its revitalization, we hope the progressive orientation of many members of mainline Christianity will enable the church to discover the enlightening and renewing message of _The Urantia Book_ in a much shorter time than was required for the spiritual rejuvenation of religious institutions in the past.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Gender_Problems">
+          <span class="pr-2">Gender Problems</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

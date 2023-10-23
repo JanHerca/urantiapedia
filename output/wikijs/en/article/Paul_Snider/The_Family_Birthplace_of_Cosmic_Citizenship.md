@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Paul Snider<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Spiritual Fellowship — Why Now?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/Identity_in_the_Modern_Renaissance">
+          <span class="pr-2">Identity in the Modern Renaissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We bring a child into the world. A simple and ordinary thing, but wonderfully complex. Whether we know it or not, we have now become engaged in the supreme responsibility of human existence. [^1] We have now begun the process of nurturing and shaping a cosmic citizen. What faith the Father in heaven has in us to allow us the privilege of doing this. [^2] To entrust His children to our watchcare. [^3] Of all human trusts, this is the most sacred, [^4] our highest human duty. [^5] Whether we know it or not, these are the facts of life.
 
@@ -78,7 +102,7 @@ What it does mean is intelligent partnership, always knowing who the senior part
 
 Many people believe the Father's will applies only to big decisions, major actions. They think God is too busy to get involved in the small and commonplace details of daily living. Those who hold this view simply do not understand that God is truly infinite.
 
-There is one phrase, just part of a sentence in _The Urantia Book_, that clearly teaches that the will of God extends even into the smallest details of life, that at every moment of our conscious being, we have the opportunity to choose His will. The sentence is [UB 139:4.9](/en/The_Urantia_Book/139#p4_9), in a description of the Apostle John.
+There is one phrase, just part of a sentence in _The Urantia Book_, that clearly teaches that the will of God extends even into the smallest details of life, that at every moment of our conscious being, we have the opportunity to choose His will. The sentence is <a id="a104_263"></a>[UB 139:4.9](/en/The_Urantia_Book/139#p4_9), in a description of the Apostle John.
 
 I think this is the most powerful sentence in _The Urantia Book_. It says that Jesus always deferred his slightest wish to the will of the Father in heaven.
 
@@ -195,56 +219,81 @@ God bless you my friends, my brothers and sisters of destiny, and keep you in Hi
 > _Paul Snider lives in Wilmete, Illinois with his wife Mary. Both have served the Urantia Revelation for many years. Paul is a past President of Urantia Brotherhood. Among other activities, he is currently assisting Urantia Foundation in developing translations of the Urantia Papers._
 {.is-info}
 
-> “My little children, I am going away, going back to my Father. In a little while you will not see me as you do here, as flesh and blood. In a very short time I am going to send you my spirit, just like me except for this material body. This new teacher is the Spirit of Truth who will live with each one of you, in your hearts, and so will all the children of light be made one and be drawn toward one another. And in this very manner will my Father and I be able to live in the souls of each one of you and also in the hearts of all other men who love us and make that love real in their experiences by loving one another, even as I am now loving you.” [[UB 180:4.5](/en/The_Urantia_Book/180#p4_5)]
+> “My little children, I am going away, going back to my Father. In a little while you will not see me as you do here, as flesh and blood. In a very short time I am going to send you my spirit, just like me except for this material body. This new teacher is the Spirit of Truth who will live with each one of you, in your hearts, and so will all the children of light be made one and be drawn toward one another. And in this very manner will my Father and I be able to live in the souls of each one of you and also in the hearts of all other men who love us and make that love real in their experiences by loving one another, even as I am now loving you.” <a id="a221_656"></a>[[UB 180:4.5](/en/The_Urantia_Book/180#p4_5)]
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Spiritual Fellowship — Why Now?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/Identity_in_the_Modern_Renaissance">
+          <span class="pr-2">Identity in the Modern Renaissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 
 References (Unless otherwise indicated, all references are from _The Urantia Book_.)
 
-[^1]: [UB 84:7.22](/en/The_Urantia_Book/84#p7_22)
-[^2]: [UB 6:8.2](/en/The_Urantia_Book/6#p8_2); [UB 84:7.3-4](/en/The_Urantia_Book/84#p7_3)
-[^3]: [UB 194:4.7](/en/The_Urantia_Book/194#p4_7)
-[^4]: [UB 127:5.4](/en/The_Urantia_Book/127#p5_4)
-[^5]: [UB 126:2.6](/en/The_Urantia_Book/126#p2_6)
-[^6]: [UB 68:2.8](/en/The_Urantia_Book/68#p2_8)
-[^7]: [UB 84:8.7](/en/The_Urantia_Book/84#p8_7)
-[^8]: [UB 140:8.14](/en/The_Urantia_Book/140#p8_14)
-[^9]: [UB 82:0.2-3](/en/The_Urantia_Book/82#p0_2)
-[^10]: [UB 84:7.30](/en/The_Urantia_Book/84#p7_30)
-[^11]: [UB 6:3.5](/en/The_Urantia_Book/6#p3_5)
-[^12]: [UB 84:7.23](/en/The_Urantia_Book/84#p7_23)
-[^13]: [UB 81:6.24](/en/The_Urantia_Book/81#p6_24)
-[^14]: [UB 84:7.25](/en/The_Urantia_Book/84#p7_25)
-[^15]: [UB 54:6.4](/en/The_Urantia_Book/54#p6_4)
+[^1]: <a id="a252_6"></a>[UB 84:7.22](/en/The_Urantia_Book/84#p7_22)
+[^2]: <a id="a253_6"></a>[UB 6:8.2](/en/The_Urantia_Book/6#p8_2); <a id="a253_47"></a>[UB 84:7.3-4](/en/The_Urantia_Book/84#p7_3)
+[^3]: <a id="a254_6"></a>[UB 194:4.7](/en/The_Urantia_Book/194#p4_7)
+[^4]: <a id="a255_6"></a>[UB 127:5.4](/en/The_Urantia_Book/127#p5_4)
+[^5]: <a id="a256_6"></a>[UB 126:2.6](/en/The_Urantia_Book/126#p2_6)
+[^6]: <a id="a257_6"></a>[UB 68:2.8](/en/The_Urantia_Book/68#p2_8)
+[^7]: <a id="a258_6"></a>[UB 84:8.7](/en/The_Urantia_Book/84#p8_7)
+[^8]: <a id="a259_6"></a>[UB 140:8.14](/en/The_Urantia_Book/140#p8_14)
+[^9]: <a id="a260_6"></a>[UB 82:0.2-3](/en/The_Urantia_Book/82#p0_2)
+[^10]: <a id="a261_7"></a>[UB 84:7.30](/en/The_Urantia_Book/84#p7_30)
+[^11]: <a id="a262_7"></a>[UB 6:3.5](/en/The_Urantia_Book/6#p3_5)
+[^12]: <a id="a263_7"></a>[UB 84:7.23](/en/The_Urantia_Book/84#p7_23)
+[^13]: <a id="a264_7"></a>[UB 81:6.24](/en/The_Urantia_Book/81#p6_24)
+[^14]: <a id="a265_7"></a>[UB 84:7.25](/en/The_Urantia_Book/84#p7_25)
+[^15]: <a id="a266_7"></a>[UB 54:6.4](/en/The_Urantia_Book/54#p6_4)
 [^16]: An old cartoon? — Can't recal
 [^17]: Encyclopedia of Religion and Ethics, Vol. 11 p. 808
-[^18]: [UB 101:10.8](/en/The_Urantia_Book/101#p10_8)
-[^19]: [UB 117:2.5](/en/The_Urantia_Book/117#p2_5); [UB 117:3.13](/en/The_Urantia_Book/117#p3_13)
-[^20]: [UB 117:6.3](/en/The_Urantia_Book/117#p6_3)
-[^21]: [UB 115:7.2](/en/The_Urantia_Book/115#p7_2); [UB 117:4.2](/en/The_Urantia_Book/117#p4_2)
-[^22]: [UB 115:7.5](/en/The_Urantia_Book/115#p7_5); [UB 116:0.5](/en/The_Urantia_Book/116#p0_5); [UB 117:2.1](/en/The_Urantia_Book/117#p2_1); [UB 117:4.14](/en/The_Urantia_Book/117#p4_14); [UB 118:2.4](/en/The_Urantia_Book/118#p2_4)
-[^23]: [UB 118:10.3](/en/The_Urantia_Book/118#p10_3)
-[^24]: [UB 117:6.12](/en/The_Urantia_Book/117#p6_12)
-[^25]: [UB 115:0.1](/en/The_Urantia_Book/115#p0_1)
-[^26]: [UB 117:4.10](/en/The_Urantia_Book/117#p4_10)
-[^27]: [UB 115:1.4](/en/The_Urantia_Book/115#p1_4); [UB 117:4.9](/en/The_Urantia_Book/117#p4_9); [UB 118:7.5](/en/The_Urantia_Book/118#p7_5)
-[^28]: [UB 116:3.5](/en/The_Urantia_Book/116#p3_5); [UB 117:0.1](/en/The_Urantia_Book/117#p0_1)
-[^29]: [UB 117:0.4](/en/The_Urantia_Book/117#p0_4)
-[^30]: [UB 12:7.10](/en/The_Urantia_Book/12#p7_10)
-[^31]: [UB 141:2.3](/en/The_Urantia_Book/141#p2_3)
-[^32]: [UB 100:4.3](/en/The_Urantia_Book/100#p4_3)
-[^33]: [UB 99:7.2](/en/The_Urantia_Book/99#p7_2)
-[^34]: [UB 196:0.7](/en/The_Urantia_Book/196#p0_7)
-[^35]: [UB 196:0.11](/en/The_Urantia_Book/196#p0_11)
-[^36]: [UB 134:5.9](/en/The_Urantia_Book/134#p5_9)
-[^37]: [UB 100:1.4](/en/The_Urantia_Book/100#p1_4)
-[^38]: [UB 99:3.15](/en/The_Urantia_Book/99#p3_15); [UB 117:1.8](/en/The_Urantia_Book/117#p1_8)
-[^39]: [UB 160:2.9](/en/The_Urantia_Book/160#p2_9)
-[^40]: [UB 176:3.1](/en/The_Urantia_Book/176#p3_1)
+[^18]: <a id="a269_7"></a>[UB 101:10.8](/en/The_Urantia_Book/101#p10_8)
+[^19]: <a id="a270_7"></a>[UB 117:2.5](/en/The_Urantia_Book/117#p2_5); <a id="a270_52"></a>[UB 117:3.13](/en/The_Urantia_Book/117#p3_13)
+[^20]: <a id="a271_7"></a>[UB 117:6.3](/en/The_Urantia_Book/117#p6_3)
+[^21]: <a id="a272_7"></a>[UB 115:7.2](/en/The_Urantia_Book/115#p7_2); <a id="a272_52"></a>[UB 117:4.2](/en/The_Urantia_Book/117#p4_2)
+[^22]: <a id="a273_7"></a>[UB 115:7.5](/en/The_Urantia_Book/115#p7_5); <a id="a273_52"></a>[UB 116:0.5](/en/The_Urantia_Book/116#p0_5); <a id="a273_97"></a>[UB 117:2.1](/en/The_Urantia_Book/117#p2_1); <a id="a273_142"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14); <a id="a273_189"></a>[UB 118:2.4](/en/The_Urantia_Book/118#p2_4)
+[^23]: <a id="a274_7"></a>[UB 118:10.3](/en/The_Urantia_Book/118#p10_3)
+[^24]: <a id="a275_7"></a>[UB 117:6.12](/en/The_Urantia_Book/117#p6_12)
+[^25]: <a id="a276_7"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)
+[^26]: <a id="a277_7"></a>[UB 117:4.10](/en/The_Urantia_Book/117#p4_10)
+[^27]: <a id="a278_7"></a>[UB 115:1.4](/en/The_Urantia_Book/115#p1_4); <a id="a278_52"></a>[UB 117:4.9](/en/The_Urantia_Book/117#p4_9); <a id="a278_97"></a>[UB 118:7.5](/en/The_Urantia_Book/118#p7_5)
+[^28]: <a id="a279_7"></a>[UB 116:3.5](/en/The_Urantia_Book/116#p3_5); <a id="a279_52"></a>[UB 117:0.1](/en/The_Urantia_Book/117#p0_1)
+[^29]: <a id="a280_7"></a>[UB 117:0.4](/en/The_Urantia_Book/117#p0_4)
+[^30]: <a id="a281_7"></a>[UB 12:7.10](/en/The_Urantia_Book/12#p7_10)
+[^31]: <a id="a282_7"></a>[UB 141:2.3](/en/The_Urantia_Book/141#p2_3)
+[^32]: <a id="a283_7"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3)
+[^33]: <a id="a284_7"></a>[UB 99:7.2](/en/The_Urantia_Book/99#p7_2)
+[^34]: <a id="a285_7"></a>[UB 196:0.7](/en/The_Urantia_Book/196#p0_7)
+[^35]: <a id="a286_7"></a>[UB 196:0.11](/en/The_Urantia_Book/196#p0_11)
+[^36]: <a id="a287_7"></a>[UB 134:5.9](/en/The_Urantia_Book/134#p5_9)
+[^37]: <a id="a288_7"></a>[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)
+[^38]: <a id="a289_7"></a>[UB 99:3.15](/en/The_Urantia_Book/99#p3_15); <a id="a289_52"></a>[UB 117:1.8](/en/The_Urantia_Book/117#p1_8)
+[^39]: <a id="a290_7"></a>[UB 160:2.9](/en/The_Urantia_Book/160#p2_9)
+[^40]: <a id="a291_7"></a>[UB 176:3.1](/en/The_Urantia_Book/176#p3_1)
 [^41]: The Vikings, by Howard La Fay, National Geographic Society, Washington, D.C., 1972; and Strange Stories, Amazing Facts. Reader's Digest Association, Pleasantville, N.Y., 1976 
-[^42]: [UB 12:7.2](/en/The_Urantia_Book/12#p7_2)
-[^43]: [UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
-[^44]: [UB 28:5.15](/en/The_Urantia_Book/28#p5_15)
-[^45]: [UB 48:6.26](/en/The_Urantia_Book/48#p6_26)
-[^46]: [UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
+[^42]: <a id="a293_7"></a>[UB 12:7.2](/en/The_Urantia_Book/12#p7_2)
+[^43]: <a id="a294_7"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
+[^44]: <a id="a295_7"></a>[UB 28:5.15](/en/The_Urantia_Book/28#p5_15)
+[^45]: <a id="a296_7"></a>[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)
+[^46]: <a id="a297_7"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
 [^47]: Max Lerner, New York Post columnist, June 6, 1961

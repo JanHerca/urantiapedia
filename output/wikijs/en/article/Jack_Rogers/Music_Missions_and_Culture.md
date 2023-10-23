@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Will_UB_Inspire_a_New_Religious_Institution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Will The Urantia Book Inspire a New Religious Institution?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Everett_Sloffer/The_Power_of_New_Spiritual_Insight">
+          <span class="pr-2">The Power of New Spiritual Insight</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When Christ called his disciples to “go forth and make disciples of all nations,” there ensued a missionary movement that continues to this day. Millions of young men and women have left their homes and traveled to foreign lands to share the gospel of Christ. Throughout the course of history music has proved exceedingly effective in gaining a hearing for the spoken word and in serving as a communicative vehicle of values.
 
@@ -24,11 +48,11 @@ From a theological perspective it is questionable that the wholesale cultural de
 
 While attending a certain evangelical seminary, I was taught that Christ is the transformer of culture. The conservative theological dogmas of this church dictated its “acceptable norms” for a Christian culture. When this happens, the gospel tends to be associated with specific culture forms, and such religious groups often have trouble adjusting to progressive social change. _The Urantia Book_ cautions against linking social, economic, or political trends with the gospel message:
 
-> Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized. The religion of living experience finds no difficulty in keeping ahead of all these social developments and economic upheavals, amid which it ever functions as a moral stabilizer, social guide and spiritual pilot. ([UB 99:2.6](/en/The_Urantia_Book/99#p2_6))
+> Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized. The religion of living experience finds no difficulty in keeping ahead of all these social developments and economic upheavals, amid which it ever functions as a moral stabilizer, social guide and spiritual pilot. (<a id="a50_431"></a>[UB 99:2.6](/en/The_Urantia_Book/99#p2_6))
 
 > _Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized._
 
-Religion is only one of the many shapers and carriers of culture. “The greatest twentieth-century influences contributing to the furtherance of civilization and the advancement of culture are the marked increase in world travel and the unparalleled improvements in methods of communication.” ([UB 81:6.25](/en/The_Urantia_Book/81#p6_25)) The advent of the communication age and a growing sense of world community have brought to the forefront of popular discussion the issue of cultural dominance.
+Religion is only one of the many shapers and carriers of culture. “The greatest twentieth-century influences contributing to the furtherance of civilization and the advancement of culture are the marked increase in world travel and the unparalleled improvements in methods of communication.” (<a id="a54_293"></a>[UB 81:6.25](/en/The_Urantia_Book/81#p6_25)) The advent of the communication age and a growing sense of world community have brought to the forefront of popular discussion the issue of cultural dominance.
 
 What is of interest to me is how much of the popular discussion of cultural dominance has focused primarily on our 20th century materialistic experience. The concern for maintaining cultural identities throughout the world in the face of Western commercial exports has made headline news. Thousands of missionaries are contributing to this exportation of Western culture throughout the world. The increasing high-tech approach to missionary efforts incorporating massmedia methods are reaching incredibly large audiences. This contemporary commercialization of the gospel message is a serious concern for many mainline Christians.
 
@@ -40,10 +64,34 @@ In Central and South America, after 500 years of dominance of the Catholic Churc
 
 The lesson from these examples is clear: indigenous cultures are difficult to destroy. Whenever missionaries bring a new religious faith into an indigenous culture, an accommodation takes place. The new faith is adopted into indigenous expressions which result in worship forms that are unique to that culture. I have contemplated the meaning of these cultural-religious dynamics and have been profoundly impressed by the wisdom which _The Urantia Book_ has to share with us as missionary ministers of the gospel. Consider the following passages among many which could be selected:
 
-> The mortals of the realms of time and space may differ greatly in innate abilities and intellectual endowment, they may enjoy environments exceptionally favorable to social advancement and moral progress, or they may suffer from the lack of almost every human aid to culture and supposed advancement in the arts of civilization; but the possibilities for spiritual progress in the ascension career are equal to all; increasing levels of spiritual insight and cosmic meanings are attained quite independently of all such sociomoral differentials and the diversified material environments on the evolutionary worlds. ([UB 5:1.4](/en/The_Urantia_Book/5#p1_4))
+> The mortals of the realms of time and space may differ greatly in innate abilities and intellectual endowment, they may enjoy environments exceptionally favorable to social advancement and moral progress, or they may suffer from the lack of almost every human aid to culture and supposed advancement in the arts of civilization; but the possibilities for spiritual progress in the ascension career are equal to all; increasing levels of spiritual insight and cosmic meanings are attained quite independently of all such sociomoral differentials and the diversified material environments on the evolutionary worlds. (<a id="a66_618"></a>[UB 5:1.4](/en/The_Urantia_Book/5#p1_4))
 
-> Eternal survival of personality is wholly dependent on the choosing of the mortal mind, whose decisions determine the survival potential of the immortal. When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all desire God, then survival is assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. ([UB 5:5.13](/en/The_Urantia_Book/5#p5_13))
+> Eternal survival of personality is wholly dependent on the choosing of the mortal mind, whose decisions determine the survival potential of the immortal. When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all desire God, then survival is assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. (<a id="a68_659"></a>[UB 5:5.13](/en/The_Urantia_Book/5#p5_13))
 
 The philosophical foundation for missionary activity presented in _The Urantia Book_ has important contributions to make to the contemporary church. It calls us to recognize the worldwide activity of the Spirit of God among all the peoples of the world. It suggests that indigenous forms of worship may not only be acceptable to God but may also have something to teach us as well. And finally, it challenges the very notion of the “salvation of the lost,” that all nonChristians are damned, as the foundation of missionary effort.
 
 In the foregoing observations this column has entered a minefield of challenges for contemporary Christians, both mainline and conservative. I believe we must ask ourselves hard questions about what theological and cultural messages are presented in our preaching and in our music. Music is in a unique position to help us with this evaluation because so often it is the primary carrier of theological messages to the people we serve. Therefore, I would like to continue this discussion in the next column which will be entitled “The Quest for Indigenization” in the hope that our discussion may contribute to the local church's outreach efforts both within its own neighborhood and throughout the world.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Will_UB_Inspire_a_New_Religious_Institution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Will The Urantia Book Inspire a New Religious Institution?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Everett_Sloffer/The_Power_of_New_Spiritual_Insight">
+          <span class="pr-2">The Power of New Spiritual Insight</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

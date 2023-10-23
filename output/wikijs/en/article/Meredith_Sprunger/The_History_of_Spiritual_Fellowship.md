@@ -3,28 +3,52 @@ title: "The History of The Spiritual Fellowship"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: History of Urantia Movement, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Dr. Meredith J. Sprunger<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aware of a Better Choice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="pr-2">Quantum Mysteries and The Urantia Papers ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “_If you are not a positive and missionary evangel of your religion, you are self-deceived in what you call religion is only a traditional belief or a mere system of intellectual philosophy._” [[UB 160:5.3](/en/The_Urantia_Book/160#p5_3)]
 
-> “_The religion of the spirit means effort, struggle, conflict, faith, determination, love, loyalty, and progress._” [[UB 155:5.11](/en/The_Urantia_Book/155#p5_11)]
+> “_If you are not a positive and missionary evangel of your religion, you are self-deceived in what you call religion is only a traditional belief or a mere system of intellectual philosophy._” <a id="a36_195"></a>[[UB 160:5.3](/en/The_Urantia_Book/160#p5_3)]
+
+> “_The religion of the spirit means effort, struggle, conflict, faith, determination, love, loyalty, and progress._” <a id="a38_118"></a>[[UB 155:5.11](/en/The_Urantia_Book/155#p5_11)]
 
 I have always known that _The Urantia Book_ would inspire new religious organizations. The Spiritual Fellowship appears to be the first of these new religious organizations that seeks to intentionally found a community based on worship, personal spiritual growth, outreach, and evangelism, the things that we have traditionally associated with a church, synagogue, or mosque. It has had a forty-five year gestation period. Dr. Sadler and I used to discuss the probable nature of religious organizations inspired by the Fifth Epochal Revelation. We observed that the authors of the Urantia Papers talked about the need for a new religious organization.
 
-> “_Notwithstanding that the cult has always retarded social progress, it is regrettable that so many modern believers in moral standards and spiritual ideals have no adequate symbolism — no cult of mutual support — nothing to belong to._” [[UB 87:7.3](/en/The_Urantia_Book/87#p7_3)]
+> “_Notwithstanding that the cult has always retarded social progress, it is regrettable that so many modern believers in moral standards and spiritual ideals have no adequate symbolism — no cult of mutual support — nothing to belong to._” <a id="a42_240"></a>[[UB 87:7.3](/en/The_Urantia_Book/87#p7_3)]
 
-> “_It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it._” [[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
+> “_It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it._” <a id="a44_325"></a>[[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
 
-> “_While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser._” [[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)]
+> “_While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser._” <a id="a46_267"></a>[[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)]
 
-> “_Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism._” [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
+> “_Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism._” <a id="a48_205"></a>[[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 
-> “_There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation._” [[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)]
+> “_There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation._” <a id="a50_653"></a>[[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)]
 
 ## Background Events
 
@@ -146,11 +170,35 @@ The Spiritual Fellowship is committed to motivating, empowering, and supporting 
 
 _The Urantia Book_, in my judgment, has the greatest potential of spiritually advancing our world of any event since the coming of Jesus over 2000 years ago. The history of religion shows that spiritual value systems are always established and promoted by some kind of religious organization. The Spiritual Fellowship is seeking to establish the grassroots religious foundations based upon the teachings of the Urantia Papers that will carry their transforming message to the spiritually hungry people of the world. I believe we are at the beginning of a new era of religion on our world. We invite you to join us in this outreach mission.
 
-This outreach ministry will not be easy. It is not for timid souls. It is difficult for people who are balanced and solid citizens in their community to risk being viewed as “different” or as belonging to some strange cult or movement. Pioneers always face difficulty and hardship. New and enlarged presentations of truth have always been, and will always be, attacked by religious traditionalists and fundamentalists. The history of spiritual growth shows that not until an enlarged vision of truth is attacked and its pioneers persecuted does it come to the attention and make its appeal to a significant number of creative seekers for spiritual truth in society — “_Happy are they who are persecuted for righteousness' sake, for theirs is the kingdom of heaven._” [[UB 140:3.11](/en/The_Urantia_Book/140#p3_11)]
+This outreach ministry will not be easy. It is not for timid souls. It is difficult for people who are balanced and solid citizens in their community to risk being viewed as “different” or as belonging to some strange cult or movement. Pioneers always face difficulty and hardship. New and enlarged presentations of truth have always been, and will always be, attacked by religious traditionalists and fundamentalists. The history of spiritual growth shows that not until an enlarged vision of truth is attacked and its pioneers persecuted does it come to the attention and make its appeal to a significant number of creative seekers for spiritual truth in society — “_Happy are they who are persecuted for righteousness' sake, for theirs is the kingdom of heaven._” <a id="a172_767"></a>[[UB 140:3.11](/en/The_Urantia_Book/140#p3_11)]
 
-Nevertheless, those who have the courage and wisdom, to bring a knowledge of the Fifth Epochal Revelation to the individuals and institutions of our world are engaging in one of the most important ministries of our times. Such missionary evangels will open the door to a spiritual dynamic that will undoubtedly transform our planet in the next thousand years. An Archangel of Nebadon reminds us, “_The weak indulge in resolutions, but the strong act. Life is but a day's work-do it well. The act is ours; the consequences God's._” [[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)] Now is the time for courageous and wise action!
+Nevertheless, those who have the courage and wisdom, to bring a knowledge of the Fifth Epochal Revelation to the individuals and institutions of our world are engaging in one of the most important ministries of our times. Such missionary evangels will open the door to a spiritual dynamic that will undoubtedly transform our planet in the next thousand years. An Archangel of Nebadon reminds us, “_The weak indulge in resolutions, but the strong act. Life is but a day's work-do it well. The act is ours; the consequences God's._” <a id="a174_531"></a>[[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)] Now is the time for courageous and wise action!
 
 > _Dr. Meredith J. Sprunger is Chairman of The Spiritual Fellowship and is Founder and Editor Emeritus of _The Spiritual Fellowship Journal_. He lives in Fort Wayne, Indiana with his wife, Irene. Dr. Sprunger can be reached at:_
 >
 >mjsprunger@aol.com
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aware of a Better Choice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="pr-2">Quantum Mysteries and The Urantia Papers ( Part I )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

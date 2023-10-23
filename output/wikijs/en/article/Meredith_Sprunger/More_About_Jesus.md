@@ -3,12 +3,36 @@ title: "More About Jesus"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Signs_of_a_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Signs of a Spiritual Renaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/On_Possible_and_impossible_Thoughts">
+          <span class="pr-2">Interface: On Possible and impossible Thoughts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There is a remarkable degree of unanimity about Jesus among contemporary Christians. Last year Interchurch Features commissioned a random selection survey of 6,000 readers of the official news publications of eight mainline denominations. Within the common circle of agreement, however, there were some interesting differences.
 
@@ -22,12 +46,36 @@ If this life and teachings of Jesus had been published by itself as a novel writ
 
 > _If this life and teachings of Jesus had been published by itself as a novel written by a well known author, it would be the rage of church leaders as well as secular, literary people!_
 
-> “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological and religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concepts of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological and religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concepts of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” (<a id="a48_500"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 ---
 
-> "When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. Humor is the divine antidote for exaltation of ego.” ([UB 48:4.15](/en/The_Urantia_Book/48#p4_15))
+> "When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. Humor is the divine antidote for exaltation of ego.” (<a id="a52_362"></a>[UB 48:4.15](/en/The_Urantia_Book/48#p4_15))
 
-> “We cannot judge religion by the status of its accompanying civilization; we had better estimate the real nature of a civilization by the purity and nobility of its religion. Many of the world's most notable religious teachers have been virtually unlettered. The wisdom of the world in not necessary to an exercise of saving faith in eternal realities.” ([UB 102:8.2](/en/The_Urantia_Book/102#p8_2))
+> “We cannot judge religion by the status of its accompanying civilization; we had better estimate the real nature of a civilization by the purity and nobility of its religion. Many of the world's most notable religious teachers have been virtually unlettered. The wisdom of the world in not necessary to an exercise of saving faith in eternal realities.” (<a id="a54_357"></a>[UB 102:8.2](/en/The_Urantia_Book/102#p8_2))
 
-> “Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religion of Jesus, the author and finisher of our faith. You may preach a religion about Jesus, but, perforce, you must live the religion of Jesus.” ([UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+> “Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religion of Jesus, the author and finisher of our faith. You may preach a religion about Jesus, but, perforce, you must live the religion of Jesus.” (<a id="a56_256"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Signs_of_a_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Signs of a Spiritual Renaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merlyn_Cox/On_Possible_and_impossible_Thoughts">
+          <span class="pr-2">Interface: On Possible and impossible Thoughts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,12 +9,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Craig T. McClellan<br>© 1991 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inner Guidance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sermon by **Rev. Craig T. McClellan**
 
 Scripture: [Mark 2:1-12](/en/Bible/Mark/2#v1)
 
-Note: I am indebted to a story in Jesus' ministry described in _The Urantia Book_ ([UB 130:6.1](/en/The_Urantia_Book/130#p6_1)) which I have reworded and enhanced with the Scripture Lesson.
+Note: I am indebted to a story in Jesus' ministry described in _The Urantia Book_ (<a id="a37_83"></a>[UB 130:6.1](/en/The_Urantia_Book/130#p6_1)) which I have reworded and enhanced with the Scripture Lesson.
 
 I'm going to present this morning's sermon in the form of a guided meditation. So, I suggest that you sit in a relaxed way, whatever is comfortable for you in terms of your hands and your legs. If you have anything in your hands, I suggest that you set it beside you. [pause...] I would ask that you would close your eyes, relax in the presence of God, . . . and focus inwardly on this story about our Lord Jesus that I want to share with you... Be conscious of your breathing ... as the breath of life, physically and spiritually, ... moves in you and through you. As you feel the breath drawn inward, center down. ... Center down and hear this story of God...
 
@@ -42,3 +63,25 @@ So, in the name of Jesus Christ, I say to you: Arise, take up your life, and wal
 
 > _Craig McClellan is a minister in the United Church of Christ serving in Cincinnati, Ohio._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inner Guidance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1991-first-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1991 — First Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

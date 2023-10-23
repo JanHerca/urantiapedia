@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Merlyn Cox<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contemporary Theology Anticipates The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="pr-2">Psalms Today: Beyond Tradition and Orthodoxy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As many in the Urantia movement consider and begin to work toward new forms of religious structure and community, there will no doubt be many different approaches. As a pastor in a mainline denomination for over 30 years, I'm constantly reminded of the diversity of the churches. That includes being embarrassed by, and at times ashamed of, the lack of unity in essential matters of the Spirit, and the contention and competition that often creeps into relations among churches, even within the same denomination.
 
@@ -22,6 +46,31 @@ One of them is in worship. How pedestrian, pretentious, or just plain awkward, i
 Because it is so important, we would do well to listen for insights from the historic Christian community, even as we seek new avenues for expression. In the past year I've read, and re-read many parts of, a book on worship by Marva Dawn entitled, _Reaching Out Without Dumbing Down_. [^1] It is an analysis of worship in our contemporary culture and the idolatries and popular misconceptions that “dumb down” and numb our capacity for transcendent worship.
 
 It is, in my opinion, the most insightful and helpful book on worship I've ever read. Most of it's basic affirmations mirror those of _The Urantia Book_. I think this is a resource for dialogue with the best insights of the Christian tradition, a tradition whose treasures should not be ignored. I urge every _Urantia Book_ reader to enter into that dialogue, and to use Marva Dawn's book as one of the resources.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contemporary Theology Anticipates The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="pr-2">Psalms Today: Beyond Tradition and Orthodoxy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

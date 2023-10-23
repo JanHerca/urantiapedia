@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="pr-2">More About Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Last year Henry Grunwald, former U. S. ambassador to Austria and former editor-in-chief of _Time_, wrote an article for _Time_ entitled, “The Year 2000: Is it the End-or Just the Beginning?” Following the fall of communism and new international arrangements, Grunwald says, “We are witnessing the end, or at least the decline, of an age of unbelief and beginning what may be a new age of faith.” Management guru, Peter Drucker, says the 21st century has already arrived. It is “totally new and dynamic — and we are quite unprepared for it.”
 
@@ -23,3 +47,27 @@ What does this mean for the future of the Christian Church? Change should, indee
 > _The best hope for the revitalization of the church and the flowering of a new spiritual renaissance, I believe, is found in the superlative teachings of <ins>The Urantia Book</ins>. Its expanded view of spiritual reality and inspiring presentation of the life and teachings of Jesus will establish a new age of faith._
 
 Will the progressive evolution of religion be carried forward by new religious institutions as yet unborn? There are a growing number of people who are searching for identity and fellowship in an open church where new ideas are welcome. Over 200,000 Urantia Books are circulating in our culture, and I repeatedly hear these readers of the book say they are looking for a church where they feel comfortable. The relative indifference of the power structure of the Christian Church to the expanded spiritual vision of this seminal book may be creating a spiritual vacuum that will result in the advent of new religious institutions.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="pr-2">More About Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

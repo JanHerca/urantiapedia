@@ -3,12 +3,36 @@ title: "Significant Books: A New Morality from Science: Beyondism"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Science, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Bud Bromley<br>© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Understanding Evil in Human Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="pr-2">Sharing the Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Raymond B. Cattell
 Pergamon Press, Inc., 1972
@@ -37,8 +61,32 @@ The remainder of the book cites several examples of research which appear to hav
 
 Students of _The Urantia Book_ should be particularly interested in what Dr. Cattell has to say, for _The Urantia Book_, while giving high spiritual insights, carefully avoids telling us what specific morals we should develop. [^1] “Jesus would make all men Godlike and then stand by sympathetically while these sons of God solve their own political, social, and economic problems.” (Pg. 1581) “Jesus offered no rules for social advancement....” (Pg.2083) But this is precisely the gap that Dr. Cattell proposes we should answer for ourselves by the methods of science. His book is profoundly thought provoking reading for anyone who cares, “What ought I to do?”
 
-> “_Mistake not! there is in the teachings of Jesus an eternal nature which will not permit them forever to remain unfruitful in the hearts of thinking men. The kingdom as Jesus conceived it has to a large extent failed on earth; for the time being, an outward church has taken its place; but you should comprehend that this church is only the larval stage of the thwarted spiritual kingdom....The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development._” [UB 170:5.21](/en/The_Urantia_Book/170#p5_21)
+> “_Mistake not! there is in the teachings of Jesus an eternal nature which will not permit them forever to remain unfruitful in the hearts of thinking men. The kingdom as Jesus conceived it has to a large extent failed on earth; for the time being, an outward church has taken its place; but you should comprehend that this church is only the larval stage of the thwarted spiritual kingdom....The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development._” <a id="a63_660"></a>[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)
 
 ## Notes
 
 [^1] With one notable exception, the “biologic disfellowshipping (sterilizing?) of your more markedly unfit, defective, degenerate, and antisocial stocks.” (Pg. 585) And the concept is also mentioned elsewhere.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Understanding Evil in Human Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="pr-2">Sharing the Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

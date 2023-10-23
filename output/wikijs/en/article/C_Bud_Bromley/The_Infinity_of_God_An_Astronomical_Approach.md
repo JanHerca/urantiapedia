@@ -3,12 +3,36 @@ title: "The Infinity of God, an Astronomical Approach"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: God, Astronomy, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Bud Bromley<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Scientific Integrity of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+          <span class="pr-2">The Real Gospel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 How big is God? One approach is to ask, “How big is the universe which He pervades? Or, at least, how big is what we presently know of it?”
 
@@ -35,3 +59,27 @@ And the greatest miracle is that this inconceivably infinite God lovingly invite
 > _Bud Bromley is a retired mathematics and English teacher. He is the son of an American Baptist minister, yet Bud tells us he was a much more intelligently logical scholar than the unfortunate stereotype of a hard nosed conservative clergyman. Bud was a flying radio operator in the CBI theater in WW II. He first encountered _The Urantia Book_ in 1957, and was carefully skeptical. However, he reports that when he got to Paper 4, section 5 , paragraph 4, (a refutation of the atonement doctrine) he was compelled to exclaim: “Yes! This has got to be right!” And, ever since, he has been an earnest student of the Urantia Papers. He tells us he has been puzzled often, but never turned off. Bud can be reached at:_
 > 
 > bbromley@comteck.com
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Scientific Integrity of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+          <span class="pr-2">The Real Gospel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

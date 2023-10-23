@@ -3,12 +3,36 @@ title: "The Vengeance of God"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: God, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Bud Bromley<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ben_LeMay/Meeting_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="pr-2">Significant Books: The Five Gospels by Robert W. Funk et al</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Vengeance is Mine [^1],” saith the Lord. ([Deut. 32:35a.](/en/Bible/Deutoronomy/32#v35)) Interestingly, however, when Jesus chose to read from [Isaiah 61:1-2](/en/Bible/Isaiah/61#v1), He chose to stop in the middle of a sentence, not continuing on to, “and the day of vengeance of our God.” ([Luke 4:18-20](/en/Bible/Luke/4#v18)) He not only stopped reading, He “closed the scroll,” as if to emphasize His stopping place. Was Jesus countermanding Deuteronomy and Isaiah? What are the Bible's most authoritative statements about the character of God?
 
@@ -22,17 +46,17 @@ _Jesus is the supreme authority in the Bible, sent directly from God._ He alone 
 
 Jesus said, “I give you a new commandment, that you should love one another as I have loved you.” ([John 13:34](/en/Bible/John/13#v34)) If Jesus loves us, and if He is showing God to us, then God Himself loves us.
 
-_The Urantia Book_ portrays God as a God of love. “We (Divine Counselors) are nonplused by the increasing unfolding of the endless panorama of the truth of his (God's) infinite goodness, endless mercy, matchless wisdom, and superb character.” ([UB 1:4.4](/en/The_Urantia_Book/1#p4_4)) [^3] “....you equally well know that the Universal Father cannot possibly be anything less than an eternal, infinite, true, good, and beautiful personality.” ([UB 1:5.2](/en/The_Urantia_Book/1#p5_2)) “...his (Jesus') life of achieving the Father's will becomes man's most real and ideal revelation of the personality of God.” ([UB 1:6.8](/en/The_Urantia_Book/1#p6_8)) “God is inherently kind, naturally compassionate, and everlastingly merciful.” ([UB 2:4.2](/en/The_Urantia_Book/2#p4_2)) “_God is never wrathful, vengeful, or angry._” (italics mine) ([UB 2:6.7](/en/The_Urantia_Book/2#p6_7)) “‘God is love’; therefore his only personal attitude towards the affairs of the universe is always a reaction of divine affection.” ([UB 2:5.1](/en/The_Urantia_Book/2#p5_1)) “God is divinely kind to sinners. When rebels return to righteousness, they are mercifully received.” ([UB 2:5.4](/en/The_Urantia_Book/2#p5_4)) These statements well represent God, as portrayed in _The Urantia Book_. (And we are but into the first 1.96 percent of the whole book!) [^4]
+_The Urantia Book_ portrays God as a God of love. “We (Divine Counselors) are nonplused by the increasing unfolding of the endless panorama of the truth of his (God's) infinite goodness, endless mercy, matchless wisdom, and superb character.” (<a id="a48_244"></a>[UB 1:4.4](/en/The_Urantia_Book/1#p4_4)) [^3] “....you equally well know that the Universal Father cannot possibly be anything less than an eternal, infinite, true, good, and beautiful personality.” (<a id="a48_444"></a>[UB 1:5.2](/en/The_Urantia_Book/1#p5_2)) “...his (Jesus') life of achieving the Father's will becomes man's most real and ideal revelation of the personality of God.” (<a id="a48_612"></a>[UB 1:6.8](/en/The_Urantia_Book/1#p6_8)) “God is inherently kind, naturally compassionate, and everlastingly merciful.” (<a id="a48_733"></a>[UB 2:4.2](/en/The_Urantia_Book/2#p4_2)) “_God is never wrathful, vengeful, or angry._” (italics mine) (<a id="a48_837"></a>[UB 2:6.7](/en/The_Urantia_Book/2#p6_7)) “‘God is love’; therefore his only personal attitude towards the affairs of the universe is always a reaction of divine affection.” (<a id="a48_1011"></a>[UB 2:5.1](/en/The_Urantia_Book/2#p5_1)) “God is divinely kind to sinners. When rebels return to righteousness, they are mercifully received.” (<a id="a48_1155"></a>[UB 2:5.4](/en/The_Urantia_Book/2#p5_4)) These statements well represent God, as portrayed in _The Urantia Book_. (And we are but into the first 1.96 percent of the whole book!) [^4]
 
 God is a loving heavenly Father. The prodigal son, in Jesus' parable, when “he came to himself,” was received by his father with love. ([Luke 15:11-24](/en/Bible/Luke/15#v11)) Paul wrote, “There remain faith, hope, and love; and the greatest of these is love.” ([I Cor. 13:13](/en/Bible/1_Corinthians/13#v13)) But vengeance is: counterattack, punishment, reprisal, retaliation, retribution, revenge.[^5] (Note that “corrective action” is not listed as a synonym for “vengeance.”) On the very cross itself, did Jesus call for vengeance? No! Rather, He said, “Father, forgive them; they know not what they do.” ([Luke 23:34](/en/Bible/Luke/23#v34)) Could there ever be any stronger repudiation of vengeance? Remember, He was still showing us what the Father is. If Jesus was right, then _there is no vengeance in God in the all-too-human understanding of that word._
 
 Is there, then, no kind of justice in heaven? Of course there is. Jesus said that if someone misled little children, it were better that he had a large millstone hung about his neck, and he be dropped into the depth of the sea! (Matt.18:6, [Mark 9:42](/en/Bible/Mark/9#v42), [Luke 17:2](/en/Bible/Luke/17#v2)) Note well, however, that Jesus was not saying that we should do this to anyone, nor that God would do it; but he was clearly implying that for sins, there will be an answering.
 
-But does God's justice require vengeance? Over a century ago, Frederick Faber wrote, in his great hymn, “There's a kindness in his justice which is more than liberty.” _The Urantia Book_ says that, “Only the discernment of infinite wisdom enables a righteous God to minister justice and mercy at the same time, and in any given universe situation.” ([UB 2:4.3](/en/The_Urantia_Book/2#p4_3)) Nevertheless, we mortals can speculate about how God's combined love and justice might work. There is a beautiful phrase in the Masonic Bible Lecture which would encourage all good men to study the Bible in order to “guide their steps through life by the light they there shall find, and as they there shall find it.” [^6] Thus, in our speculating, we should accept the fact that, “Tis with our judgments as our watches; none go just alike, yet each believes his own.” [^7]
+But does God's justice require vengeance? Over a century ago, Frederick Faber wrote, in his great hymn, “There's a kindness in his justice which is more than liberty.” _The Urantia Book_ says that, “Only the discernment of infinite wisdom enables a righteous God to minister justice and mercy at the same time, and in any given universe situation.” (<a id="a54_350"></a>[UB 2:4.3](/en/The_Urantia_Book/2#p4_3)) Nevertheless, we mortals can speculate about how God's combined love and justice might work. There is a beautiful phrase in the Masonic Bible Lecture which would encourage all good men to study the Bible in order to “guide their steps through life by the light they there shall find, and as they there shall find it.” [^6] Thus, in our speculating, we should accept the fact that, “Tis with our judgments as our watches; none go just alike, yet each believes his own.” [^7]
 
-With this admission, that the light which one may find may differ from the light which another may find, let me start my conjecture about how God might combine love with justice by using another statement from _The Urantia Book_, “The better man understands his neighbor, the easier it will be to forgive him, even to love him.” ([UB 2:4.2](/en/The_Urantia_Book/2#p4_2)) Since God is a God of love, my basic postulate is that, in order to progress spiritually in the Hereafter, we must so grow in loving understanding that we become able to truly love each other. “The one who does not love does not know God, for God is love.” ([I John 4:8](/en/Bible/1_John/4#v8))
+With this admission, that the light which one may find may differ from the light which another may find, let me start my conjecture about how God might combine love with justice by using another statement from _The Urantia Book_, “The better man understands his neighbor, the easier it will be to forgive him, even to love him.” (<a id="a56_330"></a>[UB 2:4.2](/en/The_Urantia_Book/2#p4_2)) Since God is a God of love, my basic postulate is that, in order to progress spiritually in the Hereafter, we must so grow in loving understanding that we become able to truly love each other. “The one who does not love does not know God, for God is love.” ([I John 4:8](/en/Bible/1_John/4#v8))
 
-Is there anyone in your life who has, as you presently perceive it, done you a gross injustice? Could you ever learn “to forgive him, even to love him?” There is a striking illustration of this kind of possibility. Visualize, at the mouth of a cave, “...a short, misshapen, filthy, snarling hulk of a man standing, legs spread, club upraised, breathing hate and animosity as he looks fiercely just ahead.” What a brutal savage! Our civilized sensibilities are ready to be offended. But wait; let us learn more. “In front of this animated human crouches a saber-toothed tiger; behind him, a woman and two children.” [^8] ([UB 100:4.5](/en/The_Urantia_Book/100#p4_5)) That enlarged picture should indeed change our whole understanding. Here is a father courageously defending his family. This makes it easy to rescind our hasty judgment, and “even to love him.”
+Is there anyone in your life who has, as you presently perceive it, done you a gross injustice? Could you ever learn “to forgive him, even to love him?” There is a striking illustration of this kind of possibility. Visualize, at the mouth of a cave, “...a short, misshapen, filthy, snarling hulk of a man standing, legs spread, club upraised, breathing hate and animosity as he looks fiercely just ahead.” What a brutal savage! Our civilized sensibilities are ready to be offended. But wait; let us learn more. “In front of this animated human crouches a saber-toothed tiger; behind him, a woman and two children.” [^8] (<a id="a58_621"></a>[UB 100:4.5](/en/The_Urantia_Book/100#p4_5)) That enlarged picture should indeed change our whole understanding. Here is a father courageously defending his family. This makes it easy to rescind our hasty judgment, and “even to love him.”
 
 I know not just what we will be doing in the Hereafter. But if I have offended someone (and who has not?), I aver that I must sooner or later learn to live so nobly that he can become able to forgive me, even to love me. And if I have been offended by someone, then, while he is learning to be lovable, I must learn to be so understanding that I can come to forgive and even to love him. The concept is not new; in his most remarkable story, Dickens tells us of Scrooge, who, when miraculously shown his behavior and its consequences, so changed that he loved, and became loved by, those whom he had earlier wronged.
 
@@ -46,6 +70,31 @@ This concept of God's vengeance does not satisfy the primitive human urge to “
 
 > _Bud Bromley is a computer programmer and college teacher, now retired. He has been a student of _The Urantia Book_ for many years._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ben_LeMay/Meeting_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="pr-2">Significant Books: The Five Gospels by Robert W. Funk et al</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

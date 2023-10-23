@@ -9,12 +9,36 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Stan Hartman<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pioneers in the New Age</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Dan_McCauley/Sermon_Ye_Shall_Know_the_Truth">
+          <span class="pr-2">Sermon: Ye Shall Know the Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “_Emancipation of the mind and soul can never be effected without the driving power of an intelligent enthusiasm which borders on religious zeal._” ([UB 160:1.8](/en/The_Urantia_Book/160#p1_8))
 
-_The Urantia Book_ is our “talent,” and belongs to no human being or group of human beings. It was entrusted to us to enrich all our planet. All who know it's true are its trustees, and have a responsibility to spread the news of it to the world, regardless of disagreements about how to do that. The most we can realistically ask of ourselves and others is sincerity, and appropriate humility, not perfect judgment. When we find ourselves in conflict, it's always good to keep in mind that tact and tolerance are the earmarks of a great soul. It's sometimes necessary to deal with discord head-on, but there's another progressive option. We can transform such conflicts by more focused dedication to the values and needs that lie deeper than such friction. Dishonesty, manipulation, and attempts to claim arbitrary authority over others have to be seen and condemned for what they are, but letting such spiritual errors also distract us from more important things needlessly compounds the harm they do. Jesus' way was to strengthen good, not waste time trying to destroy evil. We have a responsibility to keep in mind his warning about the beam and the mote ([UB 140:2.17](/en/The_Urantia_Book/140#p2_17)), and one of the statements that simulates mota: “The argumentative defense of any proposition is inversely proportional to the truth contained” ([UB 48:7.28](/en/The_Urantia_Book/48#p7_28)). The truth is not in our personal judgments of others but in the quality of our brotherhood, including our kinship with those who disagree with us — especially those whom we like the least. “Inasmuch as you did it to one of the least of my brethren, you did it to me” ([UB 155:3.4](/en/The_Urantia_Book/155#p3_4)).
+> “_Emancipation of the mind and soul can never be effected without the driving power of an intelligent enthusiasm which borders on religious zeal._” (<a id="a36_151"></a>[UB 160:1.8](/en/The_Urantia_Book/160#p1_8))
 
-Denial and avoidance are also dangers, of course, when we attempt this higher attitude. It's easy to think we're transforming something when in reality we're simply avoiding it. A clue to which we're involved in, transformation or avoidance, is whether or not we're free of fear and defensiveness, and whether or not the energy motivating our actions is spiritual enthusiasm. _The Urantia Book_ speaks of Jesus being “surcharged with divine enthusiasm” ([UB 100:7.4](/en/The_Urantia_Book/100#p7_4)), which simply had no time for the petty conflicts in the lives of the mortals he passed among. That this enthusiasm can lose its balance and turn into fanaticism shouldn't lead us to believe that it's an evil in itself, or that we can truly follow him without it. 
+_The Urantia Book_ is our “talent,” and belongs to no human being or group of human beings. It was entrusted to us to enrich all our planet. All who know it's true are its trustees, and have a responsibility to spread the news of it to the world, regardless of disagreements about how to do that. The most we can realistically ask of ourselves and others is sincerity, and appropriate humility, not perfect judgment. When we find ourselves in conflict, it's always good to keep in mind that tact and tolerance are the earmarks of a great soul. It's sometimes necessary to deal with discord head-on, but there's another progressive option. We can transform such conflicts by more focused dedication to the values and needs that lie deeper than such friction. Dishonesty, manipulation, and attempts to claim arbitrary authority over others have to be seen and condemned for what they are, but letting such spiritual errors also distract us from more important things needlessly compounds the harm they do. Jesus' way was to strengthen good, not waste time trying to destroy evil. We have a responsibility to keep in mind his warning about the beam and the mote (<a id="a38_1160"></a>[UB 140:3.17](/en/The_Urantia_Book/140#p3_17)), and one of the statements that simulates mota: “The argumentative defense of any proposition is inversely proportional to the truth contained” (<a id="a38_1352"></a>[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)). The truth is not in our personal judgments of others but in the quality of our brotherhood, including our kinship with those who disagree with us — especially those whom we like the least. “Inasmuch as you did it to one of the least of my brethren, you did it to me” (<a id="a38_1666"></a>[UB 155:3.4](/en/The_Urantia_Book/155#p3_4)).
+
+Denial and avoidance are also dangers, of course, when we attempt this higher attitude. It's easy to think we're transforming something when in reality we're simply avoiding it. A clue to which we're involved in, transformation or avoidance, is whether or not we're free of fear and defensiveness, and whether or not the energy motivating our actions is spiritual enthusiasm. _The Urantia Book_ speaks of Jesus being “surcharged with divine enthusiasm” (<a id="a40_454"></a>[UB 100:7.4](/en/The_Urantia_Book/100#p7_4)), which simply had no time for the petty conflicts in the lives of the mortals he passed among. That this enthusiasm can lose its balance and turn into fanaticism shouldn't lead us to believe that it's an evil in itself, or that we can truly follow him without it. 
 
 Of course, we're not Jesus, and have to beware of kidding ourselves that we're “above it all.” Not all conflicts are petty, either. Nevertheless, compared to the potential of a truly dedicated Urantia community, such frictions have little power to thwart our positive efforts unless we grant them undue attention. Our spiritual maturity is our greatest safeguard against real threats to our mission on earth — keeping in mind that our mission is something we have yet to discover and clearly define, and thereby let clearly define our community. Much more serious dangers to “the Urantia movement” are fear and its by-products, like suspicion, doubt, prejudice, short-sightedness, impatience, ignorance of the book itself, selfish ambition, power-hunger, enemy-mindedness, jealousy, and subservience to arbitrary human authority.
 
@@ -24,9 +48,9 @@ Fear and its byproducts will have little power in a _truly_ unified Urantia comm
 
 “O Urantia!” should be our cry.
 
-This spiritual passion is the prelude to the eternal ecstasy of fusion, and it requires our constant loyalty and care. We need to keep before us also a vision of our fusion _as a family_, the unity of our community within God's purpose for us, and let that vision guide us forward. We can't do God's will by backing into the future, keeping our anxious attention locked on how the community may have failed in the past, and we can't go forward boldly as we need to if we're overfocused on avoiding dangers. As the authors of the book point out, “only forward-looking and progressive attitudes are personally real.” ([UB 12:5.9](/en/The_Urantia_Book/12#p5_9)) The only serious threat to our mission on earth is our personal and collective doubt.
+This spiritual passion is the prelude to the eternal ecstasy of fusion, and it requires our constant loyalty and care. We need to keep before us also a vision of our fusion _as a family_, the unity of our community within God's purpose for us, and let that vision guide us forward. We can't do God's will by backing into the future, keeping our anxious attention locked on how the community may have failed in the past, and we can't go forward boldly as we need to if we're overfocused on avoiding dangers. As the authors of the book point out, “only forward-looking and progressive attitudes are personally real.” (<a id="a50_616"></a>[UB 12:5.9](/en/The_Urantia_Book/12#p5_9)) The only serious threat to our mission on earth is our personal and collective doubt.
 
-_Passionate, ecstatic_ — these are words not always associated with healthy spiritual community. But when our faith is real and strong, as individuals and as a family, such adjectives are appropriate — especially if we add another — _peaceful_. “Genuine spiritual ecstasy is usually associated with great outward calmness and almost perfect emotional control” ([UB 91:7.3](/en/The_Urantia_Book/91#p7_3)).
+_Passionate, ecstatic_ — these are words not always associated with healthy spiritual community. But when our faith is real and strong, as individuals and as a family, such adjectives are appropriate — especially if we add another — _peaceful_. “Genuine spiritual ecstasy is usually associated with great outward calmness and almost perfect emotional control” (<a id="a52_361"></a>[UB 91:7.3](/en/The_Urantia_Book/91#p7_3)).
 
 Our problems of living and relating are real, yet if we acquire this calm but overwhelming enthusiasm, “taking the kingdom by storm,” we'll find many of our difficulties dissolving effortlessly, without any anxious striving to resolve them. Unlike avoidance and conflict, which try to exclude things from our lives, this passion transforms difficulties by _including_ them as part of a vision of greater things. Crises become opportunities for growth and service.
 
@@ -78,3 +102,27 @@ That knowledge is our power. Finally and forever, let us use it in the way he di
 
 > _Stan Hartman has been a student of The Urantia Book for 35 years. He lives in Boulder, Colorado, and once taught at The Boulder School for Students of The Urantia Book._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pioneers in the New Age</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_Dan_McCauley/Sermon_Ye_Shall_Know_the_Truth">
+          <span class="pr-2">Sermon: Ye Shall Know the Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

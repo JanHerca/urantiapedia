@@ -3,12 +3,36 @@ title: "Toward Spiritual Fellowship"
 description: "Creative Outreach"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Fellowship, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Meredith J. Sprunger<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Mix_of_Joy_and_Discouragement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mix of Joy and Discouragement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Living_the_Teachings_Groups">
+          <span class="pr-2">Living the Teachings Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The most distinctive contemporary development of religion in our world is the advent of the ecumenical movement and the unprecedented search for meaningful spiritual experience. This expanding quest for spiritual guidance and direction has taken many forms. The theologian, Ernst Troeltsch (1865-1923), observed that all religions are relative-that is limited, partial, and incomplete. The historian, Arnold Toynbee (1889-1975), examined all of the religions of the world and pointed out that there is a common core and goal behind all religions. The psychiatrist, Carl G. Jung (1875-1961), in an in-depth study of religions found that there is a common psychic origin and function among religions. These and other scholarly studies of religion set the stage for the contemporary ecumenical movement.
 
@@ -32,9 +56,33 @@ The Fifth Epochal Revelation, in my opinion, is the only resource that has the s
 
 The worldwide mission of The Spiritual Fellowship is to teach, motivate, empower, and support all people in their growing relationship with God and to encourage their loving service to humankind. We believe that every religion of our world can identify with this mission. As we establish Fellowships in the grass roots of every nation and culture, gradually the spiritual vision of the Fifth Epochal Revelation will become known and this vision will eventually transform human society.
 
-This outreach ministry will not be easy. It is not for timid souls. It is difficult for balanced, solid citizens to risk being viewed by their neighbors and friends as “different” or belonging to some strange cult or movement. Pioneers always face difficulty and hardship. New and enlarged presentations of truth have always been, and will always be, attacked by religious traditionalists and fundamentalists. The history of spiritual growth shows that not until an enlarged vision of truth is attacked and its pioneers persecuted does it come to the attention and make its appeal to the significant number of creative seekers for spiritual truth in society- “Happy are they who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.” [[UB 140:3.11](/en/The_Urantia_Book/140#p3_11)]
+This outreach ministry will not be easy. It is not for timid souls. It is difficult for balanced, solid citizens to risk being viewed by their neighbors and friends as “different” or belonging to some strange cult or movement. Pioneers always face difficulty and hardship. New and enlarged presentations of truth have always been, and will always be, attacked by religious traditionalists and fundamentalists. The history of spiritual growth shows that not until an enlarged vision of truth is attacked and its pioneers persecuted does it come to the attention and make its appeal to the significant number of creative seekers for spiritual truth in society- “Happy are they who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.” <a id="a58_757"></a>[[UB 140:3.11](/en/The_Urantia_Book/140#p3_11)]
 
-Let us be numbered among those pilgrims who “have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. In liaison with God, nothingabsolutely nothing-is impossible.” [[UB 26:5.3](/en/The_Urantia_Book/26#p5_3)]
+Let us be numbered among those pilgrims who “have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. In liaison with God, nothingabsolutely nothing-is impossible.” <a id="a60_408"></a>[[UB 26:5.3](/en/The_Urantia_Book/26#p5_3)]
 
 > _Dr. Meredith J. Sprunger is the founder of The Spiritual Fellowship, the first religious organization based upon the Fifth Epochal Revelation. He is the founder and Editor Emeritus of The Spiritual Fellowship Journal. On June 30, 2002, in Boulder Colorado, Dr. Sprunger was ordained as the first minister of The Spiritual Fellowship._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/The_Mix_of_Joy_and_Discouragement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mix of Joy and Discouragement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Living_the_Teachings_Groups">
+          <span class="pr-2">Living the Teachings Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

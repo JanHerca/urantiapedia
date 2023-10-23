@@ -3,12 +3,36 @@ title: "Living The Teachings"
 description: "A presentation by Larry and Joan Mullins to the Arizona Urantia Fellowship on May 7, 2005."
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Jesus, Jesus teachings, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Larry Mullins<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Joy At Work</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="pr-2">Pioneers in the New Age</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Good evening. Let's take a moment to thank Jesus for being with us tonight. Let's feel his presence and ask for his grace.
 
@@ -166,3 +190,27 @@ Let's close our eyes for a moment and meditate upon the peace of Jesus. ( 5 minu
 > 
 > _Larry served as editor of _The Spiritual Fellowship Journal_ from 2002-2003._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significant Books: Joy At Work</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="pr-2">Pioneers in the New Age</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

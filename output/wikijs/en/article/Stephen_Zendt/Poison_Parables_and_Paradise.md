@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Stephen Zendt<br>© 2004 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Actualizing_a_New_Organizational_Paradigm">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actualizing a New Organizational Paradigm</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We all love stories, in one form or another. Our Western culture has served up many entertaining forms of storytelling. European peoples, during the Middle Ages, listened to the Troubadours, wandering entertainers who brought the news and told tales with musical accompaniment. These minstrels were often the only means of communication in a time of rampant superstition and warfare, where each fiefdom was a world unto itself, and travel was dangerous and limited. Almost no one knew how to read or write except scribes and those in the monasteries. The storyteller was an important feature of medieval life.
 
@@ -38,9 +59,9 @@ We live in a world of accelerating cultural change. Many of the dependable assum
 
 Worse yet, we find that the materialistic rewards of our capitalistic system are causing severe environmental damage to our planet. We are poisoning our air, water, and earth. It would seem that we cannot avoid poisoning our thinking, as well. We read, hear, see, and most awful, we sometimes experience firsthand the dysfunctional, angry behavior of individuals whose level of maturity is childish at best. We are exposed to stunning displays in films, television, news, and novels: Everything from road rage to outrage, from jealousy to hostility, from indifference to aggressive bullying.
 
-We know from our reading of _The Urantia Book_ that “impatience is a spirit poison.” ([UB 48:7.20](/en/The_Urantia_Book/48#p7_20)) We also know that “unreasoned fear is a master intellectual fraud ...,” ([UB 48:7.4](/en/The_Urantia_Book/48#p7_4)) and that “anger is like a stone hurled into a hornet's nest.” ([UB 48:7.20](/en/The_Urantia_Book/48#p7_20)) Yet we find ourselves prey to these very conflicting emotional torments almost daily in urban life. Even more concentrated is the tension of interpersonal relationships, both in the workplace, and most frequently at home.
+We know from our reading of _The Urantia Book_ that “impatience is a spirit poison.” (<a id="a61_86"></a>[UB 48:7.20](/en/The_Urantia_Book/48#p7_20)) We also know that “unreasoned fear is a master intellectual fraud ...,” (<a id="a61_204"></a>[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)) and that “anger is like a stone hurled into a hornet's nest.” (<a id="a61_310"></a>[UB 48:7.20](/en/The_Urantia_Book/48#p7_20)) Yet we find ourselves prey to these very conflicting emotional torments almost daily in urban life. Even more concentrated is the tension of interpersonal relationships, both in the workplace, and most frequently at home.
 
-Our ideals call us to be charitable, ethical, kind, and good. We are aware that what we say and how we say it may soothe and comfort, and even give joy to a troubled soul. However, the moment-to-moment encounters of the real world so often leave us regretful for the way in which we have treated other people, the way we have ignored our spiritual impulses and ideals. We live in a polluted civilization. For me, the most pernicious form of interpersonal pollution is the pervasive context of lying, or of fraud. Honest individuals, sincere folks, genuine friends are such treasures that we simply must do all we can to strengthen and preserve our relationships. “Love is the desire to do good to others.” ([UB 56:10.21](/en/The_Urantia_Book/56#p10_21))
+Our ideals call us to be charitable, ethical, kind, and good. We are aware that what we say and how we say it may soothe and comfort, and even give joy to a troubled soul. However, the moment-to-moment encounters of the real world so often leave us regretful for the way in which we have treated other people, the way we have ignored our spiritual impulses and ideals. We live in a polluted civilization. For me, the most pernicious form of interpersonal pollution is the pervasive context of lying, or of fraud. Honest individuals, sincere folks, genuine friends are such treasures that we simply must do all we can to strengthen and preserve our relationships. “Love is the desire to do good to others.” (<a id="a63_707"></a>[UB 56:10.21](/en/The_Urantia_Book/56#p10_21))
 
 The concentration of spirit poisons which our secular materialistic culture has permitted to grow and flourish should alarm us all, and move us to clean the air, to purify the water, and to refresh our spiritual lives. If we have been hiding our light beneath our “comfy bushel basket,” it is high time to realize that our light is needed, and it cannot be seen while in hiding.
 
@@ -77,3 +98,25 @@ Leavening and cleansing and healing are actions these parables of Jesus will pro
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Actualizing_a_New_Organizational_Paradigm">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actualizing a New Organizational Paradigm</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2004 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

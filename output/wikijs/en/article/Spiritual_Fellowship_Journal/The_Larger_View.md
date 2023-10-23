@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Enlightenment: Liberalism and Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Concepts_of_Salvation_The_Bible_and_UB_Compared">
+          <span class="pr-2">Concepts of Salvation: The Bible and The Urantia Book Compared</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Help me, O God, to discern your will in the alternatives which confront me.
 Your way is the evolutionary process undergirded by eternal reality;
@@ -29,3 +53,27 @@ Keep my soul warm with the personal touch.
 
 I thank you, Heavenly Father, for your never failing guidance.
 Your love is great, beyond measure; because of your indwelling presence, my life is filled with purpose and joy!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Enlightenment: Liberalism and Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Concepts_of_Salvation_The_Bible_and_UB_Compared">
+          <span class="pr-2">Concepts of Salvation: The Bible and The Urantia Book Compared</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

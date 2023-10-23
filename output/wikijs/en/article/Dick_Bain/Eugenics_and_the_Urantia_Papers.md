@@ -3,12 +3,36 @@ title: "Eugenics and the Urantia Papers — Land Mines"
 description: "Urantians Present Two Views"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Eugenics, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Dick Bain<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sir Hubert Wilkins: 20th Century Magellan, Early Urantian</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="pr-2">Eugenics and the Urantia Papers: A Different View</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When we fall in love, many of us enter a state of altered consciousness (or unconsciousness) known as infatuation. Under the spell of this condition, we are blind to the flaws of our beloved one. But as time passes, the inferno dies down and our rational mind begins to function again. We begin to become aware of the flaws and annoying little habits of our loved one. We begin to resent their lack of punctuality, their nail biting habit, their mis-matched socks, their miserliness, etc. This may be the first test of the relationship. If we find the perceived flaws really annoying, our ardor may wane, and we soon may decide to move on to another relationship. Or we may decide that he or she is really a worthwhile person, so we need to do a bit of compromising and proceed to build the relationship. And this is how our relationship with _The Urantia Book_ has evolved for many of us.
 
@@ -34,19 +58,19 @@ Dr. Meredith Sprunger relates that Dr. Sadler wrote a book on eugenics, but deci
 
 Whatever acceptance eugenics had in the 1920's and 30's has mostly disappeared, though there are a few pro-eugenics sites on the Internet. The abuses have been so egregious that it is nearly impossible to have a rational discussion on the subject these days. In an atmosphere like this, should we defend the eugenics in the Urantia Papers? I am sure that we will have to deal with much criticism of the eugenics stand of the authors. Unfortunately, eugenics concepts are found in many of the papers. The following are some of the statements that I choose to characterize as eugenics land mines [^4] :
 
-> _These six evolutionary races are destined to be blended and exalted by amalgamation with the progeny of the Adamic uplifters. But before these peoples are blended, the inferior and unfit are largely eliminated. The Planetary Prince and the Material Son, with other suitable planetary authorities, pass upon the fitness of the reproducing strains. The difficulty of executing such a radical program on Urantia consists in the absence of competent judges to pass upon the biologic fitness or unfitness of the individuals of your world races. Notwithstanding this obstacle, it seems that you ought to be able to agree upon the biologic disfellowshipping of your more markedly unfit, defective, degenerate, and antisocial stocks._ [UB 51:4.8](/en/The_Urantia_Book/51#p4_8)
+> _These six evolutionary races are destined to be blended and exalted by amalgamation with the progeny of the Adamic uplifters. But before these peoples are blended, the inferior and unfit are largely eliminated. The Planetary Prince and the Material Son, with other suitable planetary authorities, pass upon the fitness of the reproducing strains. The difficulty of executing such a radical program on Urantia consists in the absence of competent judges to pass upon the biologic fitness or unfitness of the individuals of your world races. Notwithstanding this obstacle, it seems that you ought to be able to agree upon the biologic disfellowshipping of your more markedly unfit, defective, degenerate, and antisocial stocks._ <a id="a60_730"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8)
 
 [From an online dictionary: _Disfellowship: 1. To exclude from fellowship; to refuse intercourse with, as an associate_. Also, to excommunicate. What do the authors really mean by disfellowship? Sterilization?]
 
-> _The methods of this people in dealing with crime, insanity, and degeneracy, while in some ways pleasing, will, no doubt, in others prove shocking to most Urantians. Ordinary criminals and the defectives are placed, by sexes, in different agricultural colonies and are more than selfsupporting. The more serious habitual criminals and the incurably insane are sentenced to death in the lethal gas chambers by the courts._ [UB 72:10.1](/en/The_Urantia_Book/72#p10_1)
+> _The methods of this people in dealing with crime, insanity, and degeneracy, while in some ways pleasing, will, no doubt, in others prove shocking to most Urantians. Ordinary criminals and the defectives are placed, by sexes, in different agricultural colonies and are more than selfsupporting. The more serious habitual criminals and the incurably insane are sentenced to death in the lethal gas chambers by the courts._ <a id="a64_424"></a>[UB 72:10.1](/en/The_Urantia_Book/72#p10_1)
 
 [It appears to me that the authors have included the paper about government on a neighboring planet (Paper 72) to give us some idea of where we should be heading in our development. Note however that they realize we will find some of their ideas “shocking.”]
 
-> _The Adamic mission on experimental, rebellion-seared, and isolated Urantia was a formidable undertaking. And the Material Son and Daughter early became aware of the difficulty and complexity of their planetary assignment. Nevertheless, they courageously set about the task of solving their manifold problems. But when they addressed themselves to the allimportant work of eliminating the defectives and degenerates from among the human strains, they were quite dismayed. They could see no way out of the dilemma, and they could not take counsel with their superiors on either Jerusem or Edentia._ [UB 75:1.1](/en/The_Urantia_Book/75#p1_1)
+> _The Adamic mission on experimental, rebellion-seared, and isolated Urantia was a formidable undertaking. And the Material Son and Daughter early became aware of the difficulty and complexity of their planetary assignment. Nevertheless, they courageously set about the task of solving their manifold problems. But when they addressed themselves to the allimportant work of eliminating the defectives and degenerates from among the human strains, they were quite dismayed. They could see no way out of the dilemma, and they could not take counsel with their superiors on either Jerusem or Edentia._ <a id="a68_600"></a>[UB 75:1.1](/en/The_Urantia_Book/75#p1_1)
 
-> _The church, because of overmuch false sentiment, has long ministered to the underprivileged and the unfortunate, and this has all been well, but this same sentiment has led to the unwise perpetuation of racially degenerate stocks which have tremendously retarded the progress of civilization._ [UB 99:3.5](/en/The_Urantia_Book/99#p3_5)
+> _The church, because of overmuch false sentiment, has long ministered to the underprivileged and the unfortunate, and this has all been well, but this same sentiment has led to the unwise perpetuation of racially degenerate stocks which have tremendously retarded the progress of civilization._ <a id="a70_297"></a>[UB 99:3.5](/en/The_Urantia_Book/99#p3_5)
 
-> _Civilization is in danger when youth neglect to interest themselves in ethics, sociology, eugenics, philosophy, the fine arts, religion, and cosmology._ [UB 111:4.4](/en/The_Urantia_Book/111#p4_4)
+> _Civilization is in danger when youth neglect to interest themselves in ethics, sociology, eugenics, philosophy, the fine arts, religion, and cosmology._ <a id="a72_156"></a>[UB 111:4.4](/en/The_Urantia_Book/111#p4_4)
 
 Though it seems odd to say that youth should take an interest in eugenics, it is a fact that many high school biology texts in the 1920's and 30's had a section on eugenics and a number of prestigious colleges had courses in eugenics. Perhaps it only sounds odd to our ears because of the “overmuch false sentiment” we learned in church. In fact, we have gone so far in this direction that there are those pushing for a limited bill of rights for chimpanzees since they seem to border on human in some of their social characteristics. This seems to be an extreme case of sensitivity to social inequalities that began in the last century. Are we too sensitive?
 
@@ -62,10 +86,35 @@ Another thing I have concluded is that it's OK to tell people to whom we introdu
 
 I believe that the authors really intended for us to use our intelligence and good sense in propagating the teachings of the book. I don't believe they intended for us to unthinkingly endorse concepts in the Papers that are out of harmony with our concepts of truth as we understand them or pursue courses of action that are unwise in our present culture. I hope we will not disappoint them.
 
-> _One can be technically right as to fact and everlastingly wrong in the truth._ [UB 48:6.33](/en/The_Urantia_Book/48#p6_33)
+> _One can be technically right as to fact and everlastingly wrong in the truth._ <a id="a88_82"></a>[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)
 
 > _Dick Bain is a long time reader of The Urantia Papers and serves on the Board of The Spiritual Fellowship. Dick's e-mail address is N4RB@worldnet.att.net._
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sir Hubert Wilkins: 20th Century Magellan, Early Urantian</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="pr-2">Eugenics and the Urantia Papers: A Different View</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 
@@ -75,4 +124,4 @@ I believe that the authors really intended for us to use our intelligence and go
 
 [^3]: Gould, Stephen Jay, 1985. _Eugenics Past and Present, The Flamingo's Smile_, W.W. Norton and Co.
 
-[^4]: Other references to eugenics in _The Urantia Book_ can be found at the following places in the book: [UB 52:2.9](/en/The_Urantia_Book/52#p2_9), P.[UB 52:2.10](/en/The_Urantia_Book/52#p2_10) , [UB 52:2.11](/en/The_Urantia_Book/52#p2_11), [UB 52:3.4](/en/The_Urantia_Book/52#p3_4), [UB 71:3.8](/en/The_Urantia_Book/71#p3_8), [UB 72:9.8](/en/The_Urantia_Book/72#p9_8), [UB 75:1.2](/en/The_Urantia_Book/75#p1_2), [UB 82:6.4](/en/The_Urantia_Book/82#p6_4), [UB 70:9.14](/en/The_Urantia_Book/70#p9_14)
+[^4]: Other references to eugenics in _The Urantia Book_ can be found at the following places in the book: <a id="a126_107"></a>[UB 52:2.9](/en/The_Urantia_Book/52#p2_9), P.<a id="a126_152"></a>[UB 52:2.10](/en/The_Urantia_Book/52#p2_10) , <a id="a126_198"></a>[UB 52:2.11](/en/The_Urantia_Book/52#p2_11), <a id="a126_243"></a>[UB 52:3.4](/en/The_Urantia_Book/52#p3_4), <a id="a126_286"></a>[UB 71:3.8](/en/The_Urantia_Book/71#p3_8), <a id="a126_329"></a>[UB 72:9.8](/en/The_Urantia_Book/72#p9_8), <a id="a126_372"></a>[UB 75:1.2](/en/The_Urantia_Book/75#p1_2), <a id="a126_415"></a>[UB 82:6.4](/en/The_Urantia_Book/82#p6_4), <a id="a126_458"></a>[UB 70:9.14](/en/The_Urantia_Book/70#p9_14)

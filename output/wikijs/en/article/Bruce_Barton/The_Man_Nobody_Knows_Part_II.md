@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Bruce Barton<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JioLin_Johnson/God_within_Our_Daily_Life_and_our_Eternity_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God within Our Daily Life and our Eternity Adventure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _The Man Nobody Knows ... a Discovery of the Real Jesus" was written by Bruce Barton, who (I would discover many years later) was a famous advertising man. This book made a great impression on my young mind. Somehow I retained this book over the years. As a Urantian, many years later, I am amazed how close Bruce Barton came in 1924 to describing what I believe was the real Jesus. Thanks to the many Urantians who have expressed their interest in this work._
 > 
@@ -212,7 +233,29 @@ _In the Urantia Papers, the account of Nalda is told with great depth and richne
 > 
 Jesus perceived the attempt of the woman's soul to avoid direct and searching contact with its Maker, but he also saw that there was present in her soul a desire to know the better way of life. After all, there was in Nalda's heart a true thirst for the living water; therefore he dealt patiently with her, saying: “Woman, let me say to you that the day is soon coming when neither on this mountain nor in Jerusalem will you worship the Father ... Your salvation comes not from knowing how others should worship or where but by receiving into your own heart this living water which I am offering you even now.”
 > 
-> But Nalda would make one more effort to avoid the discussion of the embarrassing question of her personal life on earth and the status of her soul before God. Once more she resorted to questions of general religion, saying: “Yes, I know, Sir, that John has preached about the coming of the Converter, he who will be called the Deliverer, and that, when he shall come, he will declare to us all things” — and Jesus, interrupting Nalda, said with startling assurance, "I who speak to you am he.” [[UB 143:5.5-7](/en/The_Urantia_Book/143#p5_5)]
+> But Nalda would make one more effort to avoid the discussion of the embarrassing question of her personal life on earth and the status of her soul before God. Once more she resorted to questions of general religion, saying: “Yes, I know, Sir, that John has preached about the coming of the Converter, he who will be called the Deliverer, and that, when he shall come, he will declare to us all things” — and Jesus, interrupting Nalda, said with startling assurance, "I who speak to you am he.” <a id="a235_496"></a>[[UB 143:5.5-7](/en/The_Urantia_Book/143#p5_5)]
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JioLin_Johnson/God_within_Our_Daily_Life_and_our_Eternity_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God within Our Daily Life and our Eternity Adventure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Days and Dates in the Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Matt Neibaur<br>© 1994 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus, Man and Myth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ben_LeMay/Meeting_UB">
+          <span class="pr-2">Meeting The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In 1572, a former professor of law from Bologna named Ugo Buoncompagni became Pope Gregory XIII; ten years later the Gregorian calendar was introduced. The Julian calendar, founded sixteen centuries earlier by Julius Caesar, was inaccurate and the need for reform was widely recognized. Its principal failure was the discrepancy between the mean length of its year, 365.25 days, and the tropical year, the average interval between successive transits of the apparent sun through the vernal equinox. By the time of the Gregorian reform, the error had grown to eleven days. Understandably, this was of concern to the Pope; if the calendar had continued unchanged, Easter would eventually be celebrated in the summer.
 
@@ -44,3 +68,27 @@ Although _The Urantia Book_ record predates this modern research, it should be o
 
 > _Dr.Matthew Neibaur is an Internal Medicine physician and long time student of_ The Urantia Book.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus, Man and Myth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1994 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ben_LeMay/Meeting_UB">
+          <span class="pr-2">Meeting The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

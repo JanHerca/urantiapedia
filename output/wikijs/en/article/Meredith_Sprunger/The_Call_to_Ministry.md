@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Meredith J. Sprunger<br>© 2006 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Brotherhood — Origin, History, and Destiny</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2006-last-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Last Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="pr-2">Jesus' Confrontational Technique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Anyone who has experienced a dynamic personal relationship with God and has dedicated himself or herself to the demands of this relationship must do something about it. Genuine religion always motivates action and changes lives. Jesus emphasizes that service is the true indicator of our relationship with the Universal Father. Religionists have often side-stepped the demanding discipline of spiritual ministry by engaging in religious substitutes such as theologizing, cult cultivation, organizational administration, and mystical contemplation. Cults and sectarian groups tend to be centripetal — inward — their focus and primary relationships are with insiders. A more mature religion or religionist is open and outgoing and seeks to bring ministry to all humankind.
 
@@ -84,3 +108,27 @@ We are living in one of the major transitional periods of human history. Our soc
 
 > _Meredith Sprunger is a retired UCC pastor and college professor who has worked for over fity years to interface with mainline clergy. He is the founder and first senior editor of the Spritual Fellowship Journal, and currently serves as associate editor._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Brotherhood — Origin, History, and Destiny</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2006-last-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Last Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="pr-2">Jesus' Confrontational Technique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

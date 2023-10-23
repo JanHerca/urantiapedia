@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="pr-2">Significant Books: The Art of Possibility by Kenneth R. Miller</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 William James wrote, near the beginning of the last century: “_I am done with great things and big plans, great institutions and big successes. I am for those tiny, invisible, loving human forces that work from individual to individual, creeping through the crannies of the world like so many rootlets, or like the capillary oozing of water, yet, if given time, will rend the hardest monuments of human pride._”
 
@@ -40,4 +64,28 @@ Fellow pilgrims, there will never come a more fortuitous interval when there is 
 
 For us, now, these are the remarkable days of the Fifth Epochal Revelation, and this is the hour for the “new and everlasting religion of Jesus.” This is the time of the _genius of the people_, the ordinary folks-the youth, the silent and unsung Urantians, the army of lay persons who will again make Jesus visible to a truthhungry world.
 
-> “. . . what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men ... Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel of eternal salvation. And when Jesus becomes thus lifted up, he will draw all men to himself. Jesus' disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience.” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+> “. . . what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men ... Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel of eternal salvation. And when Jesus becomes thus lifted up, he will draw all men to himself. Jesus' disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience.” <a id="a66_680"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2001 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="pr-2">Significant Books: The Art of Possibility by Kenneth R. Miller</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Rev. Gregory Young<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Introduction to Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="pr-2">Psalms Today: Our Refuge and Hope</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¡Early one morning recently while out jogging I was excited to see the first robins of the season. Then on my way to the church office I saw a number of red-winged blackbirds in the wetland on the north side of the Donges Bay road. Great, I thought, these are the harbingers of spring. Its time to get ready to plant our garden!
 
@@ -39,4 +63,28 @@ As followers of Jesus, we all belong to the brother/sisterhood of humankind, and
 > _Gregory Young is pastor of St. John United Church of Christ in Germantown,Wisconsin._
 {.is-info}
 
-> “_The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest concepts of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundatilns of present-day distorted and comptomised Christiasnity — the real life and teachings of Jesus._” ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+> “_The modern age will refuse to accept a religion which is inconsistent with facts and out of harmony with its highest concepts of truth, beauty, and goodness. The hour is striking for a rediscovery of the true and original foundatilns of present-day distorted and comptomised Christiasnity — the real life and teachings of Jesus._” (<a id="a65_336"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Introduction to Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="pr-2">Psalms Today: Our Refuge and Hope</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

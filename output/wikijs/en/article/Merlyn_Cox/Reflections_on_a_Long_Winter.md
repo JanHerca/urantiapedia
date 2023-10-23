@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="pr-2">Toward Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Looking out of my study window during the month of March, I grew weary of seeing the same universal brown that characterizes late winter. I always try to console myself at this time of year with a countdown to spring, but this year, right up to and past the designated day, the cold wind was unrelenting, and the long range forecasts simply didn't budge-below normal temperatures kept coming like a mantra, with no break in sight.
 
@@ -38,3 +62,27 @@ This issue is heavily weighted with articles concerning science and _The Urantia
 ***Correction:***
 
 - Those with backgrounds in science or statistical analysis may have noticed that in Ken Glasziou's “Challenge: part 1,” a minus sign was inadvertaintly left off the designation of powers on page 12 , in the section, “Beyond Space....”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="pr-2">Toward Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

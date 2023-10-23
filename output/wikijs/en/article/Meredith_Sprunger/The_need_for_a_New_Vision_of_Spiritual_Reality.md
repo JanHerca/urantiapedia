@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume6_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/American_Search_for_Spirituality">
+          <span class="pr-2">American Search for Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Contemporary theology in many ways recognizes the need for a more relevant view of spiritual reality. Dr. Walter Brueggemann, professor of Old Testament at Columbia Theological Seminary, has an interesting and insightful article in the October, 1995 issue of _Theology Today_ entitled “Preaching as Reimagination.” Among the sixteen theses he presents and develops are the following:
 
@@ -19,6 +43,30 @@ Contemporary theology in many ways recognizes the need for a more relevant view 
 
 Dr. Brueggemann goes on to say, “Nothing seems to be reliable as it used to be....I believe people are haunted by the question of whether there is a text (and an interpreter) that can say something that will make sense out of our pervasive nonsense. It is my conviction that neither old liberal ideologies nor old conservative certitudes nor critical claims made for the Bible will now do.”
 
-Clearly, the most perceptive people in our society recognize that the traditional view of spiritual reality has lost its unquestioned relevance. There is a hunger and unprecedented search for spiritual meaning that makes sense in our contemporary world. _The Urantia Book_ authors acknowledge the heroic ministry of Jesus' apostles who “went out and turned the whole Roman Empire upside down,” and then comment, “But religious leaders [today] are making a great mistake when they try to call modern man to spiritual battle with the trumpet blasts of the Middle Ages.” ([UB 195:6.10](/en/The_Urantia_Book/195#p6_10)) Ministers today are seemingly on the horns of a dilemma: either they are challenged to dress up the old doctrinal cliches of the past, or they must strike out with creative reimagination as Dr. Brueggemann suggests.
+Clearly, the most perceptive people in our society recognize that the traditional view of spiritual reality has lost its unquestioned relevance. There is a hunger and unprecedented search for spiritual meaning that makes sense in our contemporary world. _The Urantia Book_ authors acknowledge the heroic ministry of Jesus' apostles who “went out and turned the whole Roman Empire upside down,” and then comment, “But religious leaders [today] are making a great mistake when they try to call modern man to spiritual battle with the trumpet blasts of the Middle Ages.” (<a id="a45_569"></a>[UB 195:6.10](/en/The_Urantia_Book/195#p6_10)) Ministers today are seemingly on the horns of a dilemma: either they are challenged to dress up the old doctrinal cliches of the past, or they must strike out with creative reimagination as Dr. Brueggemann suggests.
 
 There is, however, a higher synthesis to this dialectical process. It is found in the Fifth Epochal revelation-_The Urantia Book_ — that is rooted in the historic truths of the Christian faith, while at the same time it presents a new, enlarged view of spiritual reality that is harmonious with contemporary scientific and cultural knowledge, and furnishes the ground for a new era of creative spiritual imagination and growth. The best hope of a renaissance in the Christian faith, in my judgment, rests on its discovery.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Issue_Content_volume6_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/American_Search_for_Spirituality">
+          <span class="pr-2">American Search for Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Why Some Ministers Don't Read The Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Larry Austin<br>© 1993 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaith Could Brighten Future For Our World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glaziou/Writing_Styles_of_Papers_in_UB">
+          <span class="pr-2">Writing Styles of Papers in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Almost everyone who discovers the astounding wealth of truth in _The Urantia Book_ is highly motivated to share the book with others. Church members frequently show the book to their minister in the hope that he or she will discover in its pages the amazing richness of spiritual insight which has inspired them.
 
@@ -50,3 +74,27 @@ Once we are wholeheartedly dedicated to evaluating the book on its internal meri
 
 >_The Rev. Dr. Larry Austin is a Presbyterian minister in the Detroit area and founder of Day Spring Ministries, which provides Church Consulting, Pastoral Care, and Educational services. ._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaith Could Brighten Future For Our World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glaziou/Writing_Styles_of_Papers_in_UB">
+          <span class="pr-2">Writing Styles of Papers in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

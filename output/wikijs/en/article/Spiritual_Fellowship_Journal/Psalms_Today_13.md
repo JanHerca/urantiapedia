@@ -3,12 +3,36 @@ title: "Psalms Today: Beyond Tradition and Orthodoxy"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Prayer, Poetry, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship and the Urantia Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="pr-2">Scientist Intrigued by The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Save us, Supreme Teacher, from the pride of learning, the 
 arrogance of theological elitism, and the self-righteousness 
@@ -46,3 +70,28 @@ Undergird and guide them as they spiritually sustain
 and nourish those who labor in the vineyards of the world,
 that your will may increasingly be done on earth as it 
 is in heaven.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship and the Urantia Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="pr-2">Scientist Intrigued by The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

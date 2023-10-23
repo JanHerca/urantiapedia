@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: Behold, I Am Doing a New Thing!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 1. The Father/Motherhood of God and the brother/sisterhood of all people is the guiding principle of the Fellowship. We acknowledge as kindred spirits all individuals and traditions, past and present, who recognize this principle. Recognition of the religion of Jesus as the ultimate ideal of living is central in our teaching, but we seek to avoid all forms of coercive literalism and legalism. The scriptures used for worship and education in the Fellowship shall be _The Urantia Book_ and the Bible as well as passages of scripture from the varied religions of the world which portray spiritual wisdom.
 2. The Fellowship is ecumenical and nonsectarian in orientation. We accept into membership people from all backgrounds who recognize the Parenthood of God and the kinship of humankind as interpreted by the teachings of Jesus. The Fellowship seeks to relate to all people in love and recognizes this kindred fellowship of all humanity.
@@ -24,3 +45,25 @@ dateCreated: 2023-09-29T14:02:03.086Z
 12. The Fellowship recommends that each religious group provide in their local program opportunities for religious education, personal counseling, spiritual guidance, and group worship. These religious ministrations should dramatize spiritual loyalties, illuminate the lures of truth, beauty, and goodness, glorify the potential of family life, stimulate unselfish service and great friendship, conserve enlightened morality, support human welfare, and promote a wise outreach ministry to the world.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sermon: Behold, I Am Doing a New Thing!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#fall-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

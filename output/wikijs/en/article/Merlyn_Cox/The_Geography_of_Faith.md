@@ -3,12 +3,36 @@ title: "The Geography of Faith"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Geography, Faith, Jesus' places, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn H. Cox<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="pr-2">Some Quotations from The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The “Holy Land” has always held a special interest and even fascination for Christians. Pilgrims have long journeyed there to be near the places where the events of the Old and New Testament took place. It is more than a matter of satisfying academic curiosity. For Christians as well as for Jews, traveling to Israel is a kind of spiritual homecoming. People wish to “walk where Jesus walked”, to visit the towns and areas where he lived and taught, to look out over the landscape and see the same hills and valleys and the shimmering waters of the Sea of Galilee.
 
@@ -51,15 +75,15 @@ What Nazareth was like in Jesus' day also remains unclear. Some believe that it 
 
 ## New Testament Palestine in _The Urantia Book_
 
-In contrast to the lack of specifics in the New Testament concerning the geography of events in Jesus life, _The Urantia Book_ is rich in such detail. For example, Jesus' journey from Beersheba to Dan before the beginning of his public ministry is described as follows: “On this journey northward he stopped at Hebron, Bethlehem (where he saw his birthplace), Jerusalem (he did not visit Bethany), Beeroth, Lebonah, Sychar, Schechem, Samaria, Geba, En-Gannim, Endor, Madon; passing through Magdala and Capernaum he journeyed on north; and passing east of the Waters of Meron, he went by Karahta to Dan, or Caesarea-Philippi.” ([UB 134:7.5](/en/The_Urantia_Book/134#p7_5))
+In contrast to the lack of specifics in the New Testament concerning the geography of events in Jesus life, _The Urantia Book_ is rich in such detail. For example, Jesus' journey from Beersheba to Dan before the beginning of his public ministry is described as follows: “On this journey northward he stopped at Hebron, Bethlehem (where he saw his birthplace), Jerusalem (he did not visit Bethany), Beeroth, Lebonah, Sychar, Schechem, Samaria, Geba, En-Gannim, Endor, Madon; passing through Magdala and Capernaum he journeyed on north; and passing east of the Waters of Meron, he went by Karahta to Dan, or Caesarea-Philippi.” (<a id="a77_627"></a>[UB 134:7.5](/en/The_Urantia_Book/134#p7_5))
 
-On another occasion Jesus and the disciples, traveling from Caesarea-Philippi to the Phoenician coast, “passed around the marsh country, by way of Luz, to the point of junction with the Magdala-Mount Lebanon trail road, thence to the crossing with the road leading to Sidon, arriving there Friday afternoon.” ([UB 155:4.1](/en/The_Urantia_Book/155#p4_1))
+On another occasion Jesus and the disciples, traveling from Caesarea-Philippi to the Phoenician coast, “passed around the marsh country, by way of Luz, to the point of junction with the Magdala-Mount Lebanon trail road, thence to the crossing with the road leading to Sidon, arriving there Friday afternoon.” (<a id="a79_310"></a>[UB 155:4.1](/en/The_Urantia_Book/155#p4_1))
 
-During the Perean mission, they “worked in the following cities and towns, and some fifty additional villages: Zaphon, Gadara, Macad, Arbela, Ramath, Edrei, Bosora, Caspin, Mispeh, Gerasa, Ragaba, Succoth, Amathus, Adam, Penuel, Capitolias, Dion, Hatita, Gadda, Philadephia, Jogbehah, Gilead, Beth-Nimrah, Tyrus, Elealah, Livias, Heshbon, Callirrhoe, Beth-Peor, Shittim, Sibmah, Medeba, Beth-Meon, Areopolis, and Aroer.” ([UB 165:0.1](/en/The_Urantia_Book/165#p0_1))
+During the Perean mission, they “worked in the following cities and towns, and some fifty additional villages: Zaphon, Gadara, Macad, Arbela, Ramath, Edrei, Bosora, Caspin, Mispeh, Gerasa, Ragaba, Succoth, Amathus, Adam, Penuel, Capitolias, Dion, Hatita, Gadda, Philadephia, Jogbehah, Gilead, Beth-Nimrah, Tyrus, Elealah, Livias, Heshbon, Callirrhoe, Beth-Peor, Shittim, Sibmah, Medeba, Beth-Meon, Areopolis, and Aroer.” (<a id="a81_422"></a>[UB 165:0.1](/en/The_Urantia_Book/165#p0_1))
 
-There are references to over one hundred and twenty five towns and villages in these narrations. It describes Galilee as “a province of agricultural villages and thriving industrial cities, containing more than two hundred towns of over five thousand population and thirty of over fifteen thousand.” ([UB 124:2.9](/en/The_Urantia_Book/124#p2_9))
+There are references to over one hundred and twenty five towns and villages in these narrations. It describes Galilee as “a province of agricultural villages and thriving industrial cities, containing more than two hundred towns of over five thousand population and thirty of over fifteen thousand.” (<a id="a83_301"></a>[UB 124:2.9](/en/The_Urantia_Book/124#p2_9))
 
-As regards the town of Nazareth, “From time immemorial, many caravan routes from the Orient passed through some part of this region to the few good seaports of the eastern end of the Mediterranean, whence ships carried their cargoes to all the maritime Occident. And more than half of this caravan traffic passed through or near the little town of Nazareth in Galilee.” ([UB 121:2.2](/en/The_Urantia_Book/121#p2_2))
+As regards the town of Nazareth, “From time immemorial, many caravan routes from the Orient passed through some part of this region to the few good seaports of the eastern end of the Mediterranean, whence ships carried their cargoes to all the maritime Occident. And more than half of this caravan traffic passed through or near the little town of Nazareth in Galilee.” (<a id="a85_371"></a>[UB 121:2.2](/en/The_Urantia_Book/121#p2_2))
 
 Nazareth was a caravan way station and crossroads of travel. Joseph's primary means of supporting his young family was in running a small workshop near the caravan lot. Here Jesus as a young lad could listen in on the conversations of conductors and passengers from the all over the known world.
 
@@ -97,9 +121,9 @@ According to _The Urantia Book_, Bethsaida was indeed the home of Zebedee and hi
 
 In the Gospel of Mark, Peter is said to have lived at Capernaum, while John says that Bethsaida was the “city of Andrew and Peter.” If Bethsaida was not only the birth place of Peter, but also his home as an adult, and these towns were so close together, this could explain some confusion in the records.
 
-According to _The Urantia Book_ narratives, the Zebedee home became the headquarters for the disciples and homebase for their missionary and evangelistic outreach. The great event of multiplc healings took place in the front yard of the Zebedee home the same evening of Jesus' ministry to Peter's mother-in-law. And it was at the Zebedec home that the paralytic, “carried down from Capernaum on a small couch by his friends,” was lowered inside from the root. ([UB 148:9.2](/en/The_Urantia_Book/148#p9_2)) Al one time Bethsaida was the location of a large seaside tent city made up of various seekers and followers, and included a training school for new disciples, as well as a sizeable hospital.
+According to _The Urantia Book_ narratives, the Zebedee home became the headquarters for the disciples and homebase for their missionary and evangelistic outreach. The great event of multiplc healings took place in the front yard of the Zebedee home the same evening of Jesus' ministry to Peter's mother-in-law. And it was at the Zebedec home that the paralytic, “carried down from Capernaum on a small couch by his friends,” was lowered inside from the root. (<a id="a123_461"></a>[UB 148:9.2](/en/The_Urantia_Book/148#p9_2)) Al one time Bethsaida was the location of a large seaside tent city made up of various seekers and followers, and included a training school for new disciples, as well as a sizeable hospital.
 
-It is also interesting to note that, according to _The Urantia Book_, it was Bethsaida-Julias, not Bethsaida, which was listed among those cities so unresponsive to the proclamation of the good news: “Woe to you, the inhabitants of Chorazin, Bethsaida-Julias, and Capernaum, the cities which did not receive well these messengers. I declare that, if the mighty works done in these places had been done in Tyre and Sidon, the people of these so-called heathen cities would have long since repented in sackcloth and ashes.” ([UB 163:6.5](/en/The_Urantia_Book/163#p6_5))
+It is also interesting to note that, according to _The Urantia Book_, it was Bethsaida-Julias, not Bethsaida, which was listed among those cities so unresponsive to the proclamation of the good news: “Woe to you, the inhabitants of Chorazin, Bethsaida-Julias, and Capernaum, the cities which did not receive well these messengers. I declare that, if the mighty works done in these places had been done in Tyre and Sidon, the people of these so-called heathen cities would have long since repented in sackcloth and ashes.” (<a id="a125_523"></a>[UB 163:6.5](/en/The_Urantia_Book/163#p6_5))
 
 In retrospect, one might question the gospels' account for this reason: why would Jesus have mentioned Bethsaida, when it was, in fact, so clearly productive of disciples and followers?
 
@@ -108,6 +132,31 @@ In retrospect, one might question the gospels' account for this reason: why woul
 Will we ever be able to verify or disprove such a picture, especially in regards to such specific questions as the location of Bethsaida? It is difficult to say. While it would appear very difficult for archacology to confirm or deny with certainty, I would hesitate to place limits on what future work might reveal. A combination of new historical insights and archaeological investigations may lead to convincing new evidence, or the always hoped for but elusive “proof.” The reasonableness of _The Urantia Book_ position, it seems to me, ought at least to stimulate those interested to test it further.
 
 This is but a brief overview of how _The Urantia Book_ can be used as a source to interact with ongoing scholarly research, as well as to enrich our knowledge and understanding of the events in Jesus' life. I believe those persons, lay or scholar, who are interested in the “geography of faith” will find _The Urantia Book_ a stimulating and immensely satisfying resource. The authors, while clearly eschewing any overly sentimental attachments to supposed holy sites, do seem to appreciate the natural curiosity and human sentiment attached to such places. These authoritative and graceful narratives give us not only a comprehensive understanding of Jesus ' life and teachings, but a richly detailed geographical backdrop against which this greatest of all divine-human events took place.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="pr-2">Some Quotations from The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

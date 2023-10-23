@@ -3,12 +3,36 @@ title: "The Future of the Fifth Epochal Revelation"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Revelation, Future, The Spiritual Fellowship Journal, Spiritual Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith J. Sprunger<br>© 1998 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quebec Newsletter Reflectivite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Outreach_to_Young_Urantians">
+          <span class="pr-2">Outreach to Young Urantians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In October of 1955, _The Urantia Book_ was published with great enthusiasm. The newly organized Urantia Brotherhood visualized organizing thousands of study groups and gradually chartering well grounded societies. The specific nature of these societies was ambiguous. Most of the founding members regarded the Urantia Brotherhood as a religious or quasi-religious organization. Dr. Sadler clearly saw societies developing as bona fide religious groups.
 
@@ -43,7 +67,7 @@ We must evolve religious institutions which will bring spiritual nourishment to 
 There are a number of principles inherent in the development of new religious institutions which we should keep in mind, such as:
 
 1. The idealist in many of us who have been inspired by _The Urantia Book_ has projected a vision of the Fifth Epochal Revelation upstepping all of the religions of the world and uniting humankind in a common spiritual fellowship. We are turned off by the parochialism and rigidity of contemporary religious institutions and feel that the last thing we need is another religious institution. But the lessons of history and the teachings of _The Urantia Book_ tell us that the most effective social agents of spiritual change are new religious institutions embodying larger spiritual truths. The Supreme works from the grass roots up, not from the top down. This approach is not as romantic as our idealistic vision, but it is the only realistic process that builds the foundation for social and spiritual growth in the culture.
-2. New religious institutions are not “designed” — they evolve. The authors of _The Urantia Book_ remind us, “Man cannot cause growth, but he can supply favorable conditions.” ([UB 100:3.7](/en/The_Urantia_Book/100#p3_7)) We should establish this “conditional" type of research. There will be many types of new religious organizations stemming from the Fifth Epochal Revelation. We need to prepare materials for possible use by such new religious organizations. Numerous people have asked me for such help in the last ten years; they may or may not find this research helpful. The assumption is that resources compiled over a period of time by mature students of _The Urantia Book_ will provide helpful insights and wisdom which might not otherwise be available.
+2. New religious institutions are not “designed” — they evolve. The authors of _The Urantia Book_ remind us, “Man cannot cause growth, but he can supply favorable conditions.” (<a id="a69_177"></a>[UB 100:3.7](/en/The_Urantia_Book/100#p3_7)) We should establish this “conditional" type of research. There will be many types of new religious organizations stemming from the Fifth Epochal Revelation. We need to prepare materials for possible use by such new religious organizations. Numerous people have asked me for such help in the last ten years; they may or may not find this research helpful. The assumption is that resources compiled over a period of time by mature students of _The Urantia Book_ will provide helpful insights and wisdom which might not otherwise be available.
 3. We should be aware of the larger spiritual context in which a religious institution functions. The brother/ sisterhood of all people, the kinship of all humanity, takes place in the realm of the Supreme. A genuine spiritual fellowship, which is the basis of a religious institution, has its inception in soul consciousness. The soul bears the imprint of its divine-human creation and gives rise to a second or ancillary mind consciousness. As we grow in the Supreme, our personal identity is increasingly transferred from the material mind to soul consciousness. More and more, we operate out of our “soul-mind.” This fellowship of souls is the foundation of a bona fide religious institution.
     But human beings are much more than disembodied souls. We have unique material bodies and material based minds. We integrate our lives with dissimilar personalities and function in diverse social groups. A sound and serviceable religious institution, therefore, must have the spiritual depth and theological-social flexibility to serve a wide variety of human beings. Its polity needs to embody the highest experiential wisdom.
 4. I, personally, do not think the Fellowship should be organically or officially connected to this research or any religious institutions stemming from it. Many students of _The Urantia Book_ are still uncomfortable with institutional religious activities. The Fellowship has a place in coordinating all types and levels of activity associated with _The Urantia Book_. It might encourage or even facilitate these religious activities without being organically involved with them. Hopefully, the Fellowship can establish cooperative relationships with many diverse organizations while remaining organizationally independent from them.
@@ -61,3 +85,27 @@ There are many appropriate areas of research for those interested in building re
 Our intent is to prepare the soil for the advent of grass roots religious institutions which will become the channels of spiritual power, bringing the Fifth Epochal Revelation to our troubled and spiritually hungry world — Christ Michael's gift and saving guidance to our confused planet. The future of the Fifth Epochal Revelation rests upon the spiritual and evangelical dynamics of new religious institutions which will carry it to the four corners of our world.
 
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of The Spiritual Fellowship Journal._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quebec Newsletter Reflectivite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/Outreach_to_Young_Urantians">
+          <span class="pr-2">Outreach to Young Urantians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
