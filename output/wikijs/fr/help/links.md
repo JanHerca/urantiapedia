@@ -55,9 +55,9 @@ Les tableaux suivants résument les liens que nous voulons créer en ce moment s
 Codage | Type d'origine | Destination | Type de destination | Statut |
 --- | --- | --- | --- | ---- | --- |
 UB_B | Note de bas de paragraphe | La Bible | Verset dans un chapitre d'un livre | :+1 : |
-UB_A | Note de bas de paragraphe | articles | Page de l'article | |
-UB_S | Note de bas de paragraphe | Aide aux études | Page de chapitre ou titre | |
-UB_O | Note de bas de paragraphe | Autres livres | Ancre de livre pour une page | |
+UB_A | Note de bas de paragraphe | articles | Page de l'article | :+1: |
+UB_S | Note de bas de paragraphe | Aide aux études | Page de chapitre ou titre | :+1: |
+UB_O | Note de bas de paragraphe | Autres livres | Ancre de livre pour une page | :+1: |
 UB_TI | Liens dans les mots des paragraphes | Index des sujets | Page thématique | :+1 : [1] |
 UB_D | Note de bas de page au paragraphe [2] | Diagrammes | Page de diagramme ou ancre | |
 UB_I | Insertion d'images [3] | Illustrations | - | :+1 : [4] |
@@ -76,8 +76,10 @@ UB_F | Note de bas de paragraphe | Fils de discussion du forum | Lien externe | 
 [6] La même chose que précédemment pour les cartes peut s'appliquer ici.
 
 Exemples:
-- UB_B : https://urantiapedia.org/en/The_Urantia_Book/1#references
-- UB_O : https://urantiapedia.org/en/The_Urantia_Book/0#references
+- UB_B: https://urantiapedia.org/en/The_Urantia_Book/1#the-bible
+- UB_A: https://urantiapedia.org/en/The_Urantia_Book/1#articles
+- UB_S: https://urantiapedia.org/en/The_Urantia_Book/1#study-aids
+- UB_O: https://urantiapedia.org/en/The_Urantia_Book/0#other-books
 - UB_M : https://urantiapedia.org/en/The_Urantia_Book/149#p0_1
 - UB_I : https://urantiapedia.org/en/The_Urantia_Book/0#p0_1
 
@@ -108,7 +110,7 @@ Exemples:
 Codage | Type d'origine | Destination | Type de destination | Statut |
 --- | --- | --- | --- | ---- | --- |
 A_UB | Lien entre guillemets ou paragraphes | Le Livre d'Urantia | Paragraphe | :+1 : |
-A_B | Lien entre guillemets ou paragraphes | La Bible | Verset dans un chapitre d'un livre | |
+A_B | Lien entre guillemets ou paragraphes | La Bible | Verset dans un chapitre d'un livre | :+1: |
 A_A | Note de bas de paragraphe | articles | Page de l'article | :+1 : |
 A_S | Note de bas de page dans le paragraphe | Aides à l'étude | Page de chapitre ou titre | |
 A_O | Note de bas de paragraphe | Autres livres | Ancre de livre pour une page | |
@@ -125,6 +127,7 @@ A_F | Note de bas de paragraphe | Fils de discussion du forum | Lien externe | |
 
 Exemples:
 - A_UB : https://urantiapedia.org/en/article/A_Letter_to_Astronomers_and_Astrophysicists (l'une des citations)
+- A_B: https://urantiapedia.org/en/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind#love-defined
 
 <br>
 
@@ -133,7 +136,7 @@ Exemples:
 Codage | Type d'origine | Destination | Type de destination | Statut |
 --- | --- | --- | --- | ---- | --- |
 S_UB | Lien entre guillemets ou paragraphes | Le Livre d'Urantia | Paragraphe | :+1 : |
-S_B | Lien entre guillemets ou paragraphes | La Bible | Verset dans un chapitre d'un livre | |
+S_B | Lien entre guillemets ou paragraphes | La Bible | Verset dans un chapitre d'un livre | :+1: |
 S_A | Note de bas de paragraphe | articles | Page de l'article | :+1 : |
 S_S | Note de bas de page dans le paragraphe | Aides à l'étude | Page de chapitre ou titre | |
 S_O | Note de bas de paragraphe | Autres livres | Ancre de livre pour une page | |
@@ -150,6 +153,7 @@ S_F | Note de bas de paragraphe | Fils de discussion du forum | Lien externe | |
 
 Exemples:
 - S_UB : https://urantiapedia.org/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1#i-ub-101-the-universal-father-is
+- S_B: https://urantiapedia.org/en/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book
 
 <br>
 
@@ -278,9 +282,9 @@ Pour chaque type de contenu, voici une description des fichiers qui stockent les
 ### Le Livre d'Urantia :blue_book:
 
 - UB_B : Le fichier original utilisé pour obtenir les liens est un travail existant appelé Paramony, obtenu sur le site Web de la Fondation Urantia : [Paramony.txt](https://github.com/JanHerca/urantiapedia/blob/master/input/txt/paramony/Paramony.txt). Le fichier a été converti via Urantipedia Tools en un ensemble de fichiers Markdown (par exemple [The Urantia Book.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paramony/The%20Urantia%20Book.md)) puis ajouté au _Le Livre d'Urantia_ au format JSON : [footnotes-book-en](https://github.com/JanHerca/urantiapedia/tree/master/input/json/book-en-footnotes). Ces JSON sont ensuite convertis en fichiers HTML qui sont téléchargés sur Urantiapedia : [The_Urantia_Book](https://github.com/JanHerca/urantiapedia/tree/master/output/wikijs/en/The_Urantia_Book). Les fichiers anglais Markdown contiennent le tableau complet avec des liens.
-- UB_A : Pas encore défini. Une option pourrait être inverser A_UB avec Urantiapedia Tools.
-- UB_S : Pas encore défini. Une option pourrait être d'inverser UB_S avec Urantiapedia Tools.
-- UB_O : Un fichier Markdown avec une paire de tables contient la liste des livres et la liste des liens (appelés paralells) : [paralells.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paralells.md)
+- UB_A : Le fichier d'origine utilisé pour obtenir les liens est un gros fichier : [ub_paralells.tsv](https://github.com/JanHerca/urantiapedia/blob/master/input/txt/articles-en/ub_paralells.tsv) . Ce fichier est généré via les Outils Urantiapedia (analysant tous les articles et aides à l'étude à la recherche de liens vers UB).
+- UB_S : Les liens sont obtenus comme pour UB_A.
+- UB_O : Un fichier Markdown avec une paire de tables contient la liste des livres et la liste des liens (appelés paralells) : [paralells.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paralells.md) Ce processus sera modifié pour suivre la même méthode que pour UB_A et UB_S.
 - UB_TI : L'index des sujets est un index obtenu à partir du site Web de la communauté. Cet index a été formaté dans un ensemble de fichiers TXT :  [topic-index-en](https://github.com/JanHerca/urantiapedia/tree/master/input/txt/topic-index-en). Ce fichier contient des liens entre des phrases à l'intérieur d'un sujet et _The Urantia Boo_k. Lors de la création de fichiers HTML à télécharger sur Urantiapedia, nous recherchons des sujets liés à chaque paragraphe et introduisons des liens dans ces mots qui correspondent aux noms de sujets. Ce processus a quelques problèmes lorsque les mêmes mots partagent des sujets différents, et est maintenant un travail en cours.
 - UB_D : Pas encore défini. Nous utilisons probablement un catalogue de diagrammes comme dans les cartes.
 - UB_I : les illustrations sont enregistrées dans un catalogue à l'aide de fichiers Markdown : [image_catalog.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/image_catalog.md). Lors de la création de fichiers HTML à télécharger sur Urantiapedia, nous recherchons des illustrations liées à chaque paragraphe et introduisons des images sous ces paragraphes. Ce processus a quelques problèmes. C'est un travail en cours.

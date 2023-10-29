@@ -55,9 +55,9 @@ As tabelas a seguir resumem os links que queremos criar neste momento na Urantia
 Código | Tipo de origem | Destino | Tipo de destino | Estado |
 --- | --- | --- | --- | ---- | --- |
 UB_B | Nota de rodapé no parágrafo | A Bíblia | Verso em um capítulo de um livro | :+1: |
-UB_A | Nota de rodapé no parágrafo | Artigos | Página do artigo | |
-UB_S | Nota de rodapé no parágrafo | Auxílio aos estudos | Página ou título do capítulo | |
-UB_O | Nota de rodapé no parágrafo | Outros livros | Livro âncora para uma página | |
+UB_A | Nota de rodapé no parágrafo | Artigos | Página do artigo | :+1: |
+UB_S | Nota de rodapé no parágrafo | Auxílio aos estudos | Página ou título do capítulo | :+1: |
+UB_O | Nota de rodapé no parágrafo | Outros livros | Livro âncora para uma página | :+1: |
 UB_TI | Links em palavras de parágrafos | Índice de tópicos | Página do tópico | :+1: [1] |
 UB_D | Nota de rodapé no parágrafo [2] | Diagramas | Página do diagrama ou âncora | |
 UB_I | Inserção de imagem [3] | Ilustrações | - | :+1: [4] |
@@ -76,8 +76,10 @@ UB_F | Nota de rodapé no parágrafo | Tópicos de discussão no fórum | Link e
 [6] O mesmo anterior para mapas pode ser aplicado aqui.
 
 Exemplos:
-- UB_B: https://urantiapedia.org/en/The_Urantia_Book/1#references
-- UB_O: https://urantiapedia.org/en/The_Urantia_Book/0#references
+- UB_B: https://urantiapedia.org/en/The_Urantia_Book/1#the-bible
+- UB_A: https://urantiapedia.org/en/The_Urantia_Book/1#articles
+- UB_S: https://urantiapedia.org/en/The_Urantia_Book/1#study-aids
+- UB_O: https://urantiapedia.org/en/The_Urantia_Book/0#other-books
 - UB_M: https://urantiapedia.org/en/The_Urantia_Book/149#p0_1
 - UB_I: https://urantiapedia.org/en/The_Urantia_Book/0#p0_1
 
@@ -108,7 +110,7 @@ Exemplos:
 Código | Tipo de origem | Destino | Tipo de destino | Estado |
 --- | --- | --- | --- | ---- | --- |
 A_UB | Link entre aspas ou parágrafos | O Livro de Urântia | Parágrafo | :+1: |
-A_B | Link entre aspas ou parágrafos | A Bíblia | Verso em um capítulo de um livro | |
+A_B | Link entre aspas ou parágrafos | A Bíblia | Verso em um capítulo de um livro | :+1: |
 A_A | Nota de rodapé no parágrafo | Artigos | Página do artigo | :+1: |
 A_S | Nota de rodapé no parágrafo | Auxílios de estudo | Página ou título do capítulo | |
 A_O | Nota de rodapé no parágrafo | Outros livros | Livro âncora para uma página | |
@@ -125,6 +127,7 @@ A_F | Nota de rodapé no parágrafo | Tópicos de discussão no fórum | Link ex
 
 Exemplos:
 - A_UB: https://urantiapedia.org/en/article/A_Letter_to_Astronomers_and_Astrophysicists (qualquer uma das citações)
+- A_B: https://urantiapedia.org/en/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind#love-defined
 
 <br>
 
@@ -133,7 +136,7 @@ Exemplos:
 Código | Tipo de origem | Destino | Tipo de destino | Estado |
 --- | --- | --- | --- | ---- | --- |
 S_UB | Link entre aspas ou parágrafos | O Livro de Urântia | Parágrafo | :+1: |
-S_B | Link entre aspas ou parágrafos | A Bíblia | Verso em um capítulo de um livro | |
+S_B | Link entre aspas ou parágrafos | A Bíblia | Verso em um capítulo de um livro | :+1: |
 S_A | Nota de rodapé no parágrafo | Artigos | Página do artigo | :+1: |
 S_S | Nota de rodapé no parágrafo | Auxílios de estudo | Página ou título do capítulo | |
 S_O | Nota de rodapé no parágrafo | Outros livros | Livro âncora para uma página | |
@@ -150,6 +153,7 @@ S_F | Nota de rodapé no parágrafo | Tópicos de discussão no fórum | Link ex
 
 Exemplos:
 - S_UB: https://urantiapedia.org/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1#i-ub-101-the-universal-father-is
+- S_B: https://urantiapedia.org/en/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book
 
 <br>
 
@@ -278,9 +282,9 @@ Para cada tipo de conteúdo aqui está uma descrição dos arquivos que armazena
 ### O Livro de Urântia :blue_book:
 
 - UB_B: O arquivo original usado para obter os links é um trabalho existente chamado Paramony, obtido no site da Urantia Foundation: [Paramony.txt](https://github.com/JanHerca/urantiapedia/blob/master/input/txt/paramony/Paramony.txt). O arquivo foi convertido através do Urantipedia Tools para um conjunto de arquivos Markdown (por exemplo [The Urantia Book.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paramony/The%20Urantia%20Book.md)) e depois adicionado ao _The Urantia Book_ no formato JSON: [footnotes-book-en](https://github.com/JanHerca/urantiapedia/tree/master/input/json/book-en-footnotes). Esses JSON são então convertidos em arquivos HTML que são carregados na Urantiapedia: [The_Urantia_Book](https://github.com/JanHerca/urantiapedia/tree/master/output/wikijs/en/The_Urantia_Book). Os arquivos Markdown em inglês contêm a tabela completa com links.
-- UB_A: Ainda não definido. Uma opção poderia ser o A_UB reverso com as Urantiapedia Tools.
-- UB_S: Ainda não definido. Uma opção poderia ser UB_S reverso com Urantiapedia Tools.
-- UB_O: Um arquivo Markdown com um par de tabelas contém a lista de livros e a lista de links (chamados paralells): [paralells.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paralells.md)
+- UB_A: O arquivo original usado para obter os links é um arquivo grande: [ub_paralells.tsv](https://github.com/JanHerca/urantiapedia/blob/master/input/txt/articles-en/ub_paralells.tsv) . Este arquivo é gerado através das Urantiapedia Tools (verificando todos os artigos e auxílios de estudo em busca de links para UB).
+- UB_S: Os links são obtidos como para UB_A.
+- UB_O: Um arquivo Markdown com um par de tabelas contém a lista de livros e a lista de links (chamados paralells): [paralells.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paralells.md) Este processo será alterado para seguir o mesmo método de UB_A e UB_S.
 - UB_TI: O Topic Index é um índice obtido do site da Fellowship. Este índice foi formatado em um conjunto de arquivos TXT: [topic-index-en](https://github.com/JanHerca/urantiapedia/tree/master/input/txt/topic-index-en). Esses arquivos contêm links entre sentenças dentro de um tópico e _The Urantia Boo_k. Ao criar arquivos HTML para serem enviados para a Urantiapedia, procuramos tópicos com links para cada parágrafo e introduzimos links nessas palavras que correspondem aos nomes dos tópicos. Esse processo tem alguns problemas quando as mesmas palavras compartilham tópicos diferentes e agora é um trabalho em andamento.
 - UB_D: Ainda não definido. Provavelmente usamos um catálogo de Diagramas como nos mapas.
 - UB_I: As ilustrações estão sendo registradas em um catálogo usando arquivos Markdown: [image_catalog.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/image_catalog.md). Ao criar arquivos HTML para serem carregados na Urantiapedia, procuramos ilustrações com links para cada parágrafo e introduzimos imagens sob esses parágrafos. Este processo tem alguns problemas. É um trabalho em progresso.

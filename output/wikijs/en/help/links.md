@@ -55,9 +55,9 @@ The following tables summarize the links we want to create at this time on Urant
 Code | Origin type | Destination | Destination type | Status |
 --- | --- | --- | --- | ---- | --- |
 UB_B | Footnote in paragraph | The Bible | Verse in a chapter of a book | :+1: |
-UB_A | Footnote in paragraph | Articles | Article page | |
-UB_S | Footnote in paragraph | Study Aid | Chapter page or heading | |
-UB_O | Footnote in paragraph | Other books | Book anchor for a page | |
+UB_A | Footnote in paragraph | Articles | Article page | :+1: |
+UB_S | Footnote in paragraph | Study Aid | Chapter page or heading | :+1: |
+UB_O | Footnote in paragraph | Other books | Book anchor for a page | :+1: |
 UB_TI | Links in words of paragraphs | Topic Index | Topic page | :+1: [1] |
 UB_D | Footnote in paragraph [2] | Diagrams | Diagram page or anchor | |
 UB_I | Image insertion [3] | Illustrations | - | :+1: [4] |
@@ -76,8 +76,10 @@ UB_F | Footnote in paragraph | Forum Discussion threads | External link | |
 [6] The same as previous for maps can apply here.
 
 Examples:
-- UB_B: https://urantiapedia.org/en/The_Urantia_Book/1#references
-- UB_O: https://urantiapedia.org/en/The_Urantia_Book/0#references
+- UB_B: https://urantiapedia.org/en/The_Urantia_Book/1#the-bible
+- UB_A: https://urantiapedia.org/en/The_Urantia_Book/1#articles
+- UB_S: https://urantiapedia.org/en/The_Urantia_Book/1#study-aids
+- UB_O: https://urantiapedia.org/en/The_Urantia_Book/0#other-books
 - UB_M: https://urantiapedia.org/en/The_Urantia_Book/149#p0_1
 - UB_I: https://urantiapedia.org/en/The_Urantia_Book/0#p0_1
 
@@ -108,7 +110,7 @@ Examples:
 Code | Origin type | Destination | Destination type | Status |
 --- | --- | --- | --- | ---- | --- |
 A_UB | Link in quotes or paragraphs | The Urantia Book | Paragraph | :+1: |
-A_B | Link in quotes or paragraphs | The Bible | Verse in a chapter of a book | |
+A_B | Link in quotes or paragraphs | The Bible | Verse in a chapter of a book | :+1: |
 A_A | Footnote in paragraph | Articles | Article page | :+1: |
 A_S | Footnote in paragrah | Study Aids | Chapter page or heading | |
 A_O | Footnote in paragraph | Other books | Book anchor for a page | |
@@ -125,6 +127,7 @@ A_F | Footnote in paragraph | Forum Discussion threads | External link | |
 
 Examples:
 - A_UB: https://urantiapedia.org/en/article/A_Letter_to_Astronomers_and_Astrophysicists (any of the quotes)
+- A_B: https://urantiapedia.org/en/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind#love-defined
 
 <br>
 
@@ -133,7 +136,7 @@ Examples:
 Code | Origin type | Destination | Destination type | Status |
 --- | --- | --- | --- | ---- | --- |
 S_UB | Link in quotes or paragraphs | The Urantia Book | Paragraph | :+1: |
-S_B | Link in quotes or paragraphs | The Bible | Verse in a chapter of a book | |
+S_B | Link in quotes or paragraphs | The Bible | Verse in a chapter of a book | :+1: |
 S_A | Footnote in paragraph | Articles | Article page | :+1: |
 S_S | Footnote in paragrah | Study Aids | Chapter page or heading | |
 S_O | Footnote in paragraph | Other books | Book anchor for a page | |
@@ -150,6 +153,7 @@ S_F | Footnote in paragraph | Forum Discussion threads | External link | |
 
 Examples:
 - S_UB: https://urantiapedia.org/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1#i-ub-101-the-universal-father-is
+- S_B: https://urantiapedia.org/en/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book
 
 <br>
 
@@ -278,9 +282,9 @@ For each type of content here is a description of the files that stores links an
 ### The Urantia Book :blue_book:
 
 - UB_B: The original file used to get the links is an existing work called Paramony, obtained from Urantia Foundation website: [Paramony.txt](https://github.com/JanHerca/urantiapedia/blob/master/input/txt/paramony/Paramony.txt). The file was converted through Urantipedia Tools to a set of Markdown files (for example [The Urantia Book.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paramony/The%20Urantia%20Book.md)) and then added to _The Urantia Book_ in JSON format: [footnotes-book-en](https://github.com/JanHerca/urantiapedia/tree/master/input/json/book-en-footnotes). These JSON then are converted to HTML files that are uploaded to Urantiapedia: [The_Urantia_Book](https://github.com/JanHerca/urantiapedia/tree/master/output/wikijs/en/The_Urantia_Book). The English Markdown files contain the full table with links. The other languages only have a table with translations of English texts.
-- UB_A: Not yet defined. One option could be reverse A_UB with Urantiapedia Tools.
-- UB_S: Not yet defined. One option could be reverse UB_S with Urantiapedia Tools.
-- UB_O: A Markdown file with a pair of tables contains the list of books and the list of links (called paralells): [paralells.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paralells.md)
+- UB_A: The original file used to get the links is a big file: [ub_paralells.tsv](https://github.com/JanHerca/urantiapedia/blob/master/input/txt/articles-en/ub_paralells.tsv). This file is generated through Urantiapedia Tools (scanning all articles and study aids for links to UB).
+- UB_S: The links are obtained as for UB_A.
+- UB_O: A Markdown file with a pair of tables contains the list of books and the list of links (called paralells): [paralells.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/paralells.md). THis process will be changed to follow the same method than for UB_A and UB_S.
 - UB_TI: The Topic Index is an index obtained from Fellowship website. This index has been formatted in a set TXT files: [topic-index-en](https://github.com/JanHerca/urantiapedia/tree/master/input/txt/topic-index-en). This files contains links between sentences inside a topic and _The Urantia Boo_k. When creating HTML files to be upload to Urantiapedia we search for topics linking to each paragraph and introduce links in those words that match topic names. This process has some problems when same words share different topics, and now is a work in progress.
 - UB_D: Not yet defined. We probably use a Diagram catalog as in maps.
 - UB_I: Illustrations are being registered in a catalog using Markdown files: [image_catalog.md](https://github.com/JanHerca/urantiapedia/blob/master/input/markdown/en/image_catalog.md). When creating HTML files to be upload to Urantiapedia we search for illustrations linking to each paragraph and introduce images under those paragraphs. This process has some problems. It is a work in progress.
