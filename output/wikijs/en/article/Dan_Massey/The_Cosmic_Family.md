@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dan Massey<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Coverage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 96 Coverage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Study_Group_Directory">
+          <span class="pr-2">Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Dan Massey
 
@@ -144,7 +168,7 @@ Three persons, one abode, and the quest for power-personality unity in finite ha
 
 Among our celestial friends, the supreme family pattern seems to appear in many situations. For example, we find three Ancients of Days resident on Uversa, and we find three classes of beings comprising a juridical trio — the Divine Counselor, the Perfector of Wisdom, and the Universal Censor. Where pattern associations are personalized, we find seven Master Spirits, each resident on one of the seven Paradise satellites of the Infinite Spirit. Perhaps the most striking manifestation of the organizing pattern revealed to us is in the quartet of beings constituting a conciliating commission, for here we find three spirit beings united with one semi-material being, the Divine Executioner. And the pattern recurs in the actions and deliberations of such a commission.
 
-> “God is not only the determiner of destiny; he is man's eternal destination. All nonreligious human activities seek to bend the universe to the distorting service of self; the truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman.” _The Urantia Book_ [UB 5:4.3](/en/The_Urantia_Book/5#p4_3)
+> “God is not only the determiner of destiny; he is man's eternal destination. All nonreligious human activities seek to bend the universe to the distorting service of self; the truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman.” _The Urantia Book_ <a id="a146_405"></a>[UB 5:4.3](/en/The_Urantia_Book/5#p4_3)
 
 Expressions of the pattern of the absolute family are not limited to associations of celestial beings. Time and again we find the pattern of three generations of causation, combined in a single enterprise, seeking harmonious unity of function.
 
@@ -167,3 +191,27 @@ Is not each of these things a projection of the pattern of the absolute family u
 And does not each of these things evoke the nature of the Supreme?
 
 For the pattern of the absolute cosmic family is the pattern which gives meaning and form to the Almighty Supreme. We experience no collective reality in which we do not find this pattern, and there is no place in our experience where the supreme goal of unity through harmony will fail. This, then, is the revelation of the cosmic family, the pattern which organizes the universe, the revelation of universal unity through harmony, the finality of supremacy, the great revelation of _The Urantia Book_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Coverage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 96 Coverage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Study_Group_Directory">
+          <span class="pr-2">Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

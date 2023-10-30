@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Board</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/From_The_Editor_2">
+          <span class="pr-2">From The Editor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - June 11-12: The Finnish Urantia Society's Annual “Summer Days” Conference near Helsinki. Contact Joel Rehnstrom, 10160 Degerby, Finland.
 - June 19: Mini-conference presented by School of Meanings and Values, Mercy Center, Burlingame, Califomia. Theme: “Spiritual Community Connections Within and Without.” Contact Delores Nice, (415) 369-6803.
@@ -59,3 +83,27 @@ Fort Wayne Society (Indiana), 1st Sunday in October through last Sunday in May e
 > Because our voices were still'd, <br>
 > I could hear each one of you!<br></p>
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Board</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/From_The_Editor_2">
+          <span class="pr-2">From The Editor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

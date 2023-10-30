@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring/Summer 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="pr-2">General Council Meets in San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/group.jpg">
@@ -34,3 +58,27 @@ One might think, of all the movements on Urantia, ours would be the most unified
 
 _Richard Warren_
 _Fort Worth, TX_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Spring/Summer 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="pr-2">General Council Meets in San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

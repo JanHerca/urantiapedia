@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kulieke/A_History_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A History of the Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="pr-2">Facts from Urantia Files</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I hope you enjoyed the first issue of the SGH and that you found the LIGHTEN LIFE NEWS interesting. As always your comments and contributions are welcome especially newsclippings that suggest changes in the world prompted by the work of Deity.
@@ -194,3 +218,27 @@ Ottawa, Ontario, Canada
 K2B 8H5
 
 phone...(613)828-1685
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kulieke/A_History_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A History of the Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="pr-2">Facts from Urantia Files</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Massey/The_Cosmic_Family">
+          <span class="pr-2">The Cosmic Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Over 1,000 people came from the far corners of the globe for IC 96. The campus at Northern Arizona University was aglow for one week in August with creative expression, stimulating thought, wholesome worship and explorations in harmony. And, yes, there was great music and plenty of singing. In this issue of the Herald, we are publishing three of the four plenary presentations along with a presentation by a reader of _The Urantia Book_ who lives in Vilnius, Lithuania. Throughout this magazine, you'll see beautiful mandalas that were created for the Pattern series of workshops presented at IC 96. We have such limited space to share all that happened at IC 96. The best we can do is provide a glimpse of this rich experience._
 
@@ -73,3 +97,27 @@ Bless the wisdom of the Holy One above us; <br>
 Bless the truth of the Holy One beneath us: <br>
 Bless the love of the Holy One within us.<br>
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Massey/The_Cosmic_Family">
+          <span class="pr-2">The Cosmic Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

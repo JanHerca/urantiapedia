@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Welcome_to_the_New_Study_Group_Herald">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Welcome to the New Study Group Herald</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/International_Letters_2">
+          <span class="pr-2">International Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Thanks to all who organized the 1995 Summer Seminar. I had been under the false impression that these events were rather “dry.” I was mistaken; it was enriching and enjoyable.
 
@@ -63,4 +87,28 @@ _Harrington Sound, Bermuda_
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/group.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Welcome_to_the_New_Study_Group_Herald">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Welcome to the New Study Group Herald</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/International_Letters_2">
+          <span class="pr-2">International Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

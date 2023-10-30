@@ -9,10 +9,34 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Martin Greenhut<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Memorial of a very Special Nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_4">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Martin Greenhut, Monterey, Massachusetts_
 
-“...ONE MORE DAY TO DO THE FATHER'S WILL AND EXPERIENCE THE JOY OF KNOWING THAT WE ARE HIS SONS” ([UB 177:5.6](/en/The_Urantia_Book/177#p5_6) — Jesus speaking of his last free day on earth.)
+“...ONE MORE DAY TO DO THE FATHER'S WILL AND EXPERIENCE THE JOY OF KNOWING THAT WE ARE HIS SONS” (<a id="a14_98"></a>[UB 177:5.6](/en/The_Urantia_Book/177#p5_6) — Jesus speaking of his last free day on earth.)
 
 When we have to face some of the crippling circumstances of ailing and aging human bodies, the true nature of the mortal estate confronts us in its fullness. Our bodies, like work animals that have burnt themselves out over a lifetime of laborious stress and physical abuse become weak and cumbersome organisms requiring inordinate attention and care. Our spirit must draw on whatever strength it has achieved to deal with the withering physical vessel.
 
@@ -51,3 +75,27 @@ That was the last time I saw him. Because of the blizzard of March 13, I could n
 The blessings that accrued in these last months of dad's life have filled me to overflowing. After his passing and after the inordinate struggle to care for him and the burden of watching him deteriorate - after the funeral service where my estranged sisters and I found that he had brought us back into family unity by his move to my hometown, I am astounded by the spixitual proportions of this experience.
 
 Let me not again question the wisdom of God's manner of creation. We are not here, in the flesh, except to bring spiritual values into being in our lives and to share God's love with our associates. This experience of the last months of my father's life in the flesh has come out as a truly Supreme and joyful experience. Let me not shrink before suffering and affliction but thank God for the priceless gift of love.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Memorial of a very Special Nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_4">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

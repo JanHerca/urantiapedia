@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dan Masssey<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dan Massey<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1997 Summer Seminar To Meet in Vancouver July 10-13</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_3">
+          <span class="pr-2">Dateline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Slightly more than 40 years have passed since _The Urantia Book_ first became available to the public. There are now more than a quarter million books in print, from three publishers, with interpretative and critical works from many more. In the last year there has been a burst of book sales unlike anything seen since the early 1970 s. As the readership and community of committed believers grows, we are led increasingly to consider the future of the revelation as it impinges more frequently on our world of everyday experience.
 
@@ -45,3 +69,27 @@ The book reveals the unity in the cosmic universe and helps us discern its actua
 Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, but revelation is validated only by human experience. Science yields knowledge, religion happiness, philosophy unity, while revelation confirms the experiential harmony of this triune approach to universal reality.
 
 Next summer, in Vancouver, Urantia Book readers will consider these matters through study of the book, practical exploration of creative alternatives, heartfelt prayer and worship and through universal good fellowship. Join us in this celebration and exploration of our role in the new age dawning on our planet.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1997 Summer Seminar To Meet in Vancouver July 10-13</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_3">
+          <span class="pr-2">Dateline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

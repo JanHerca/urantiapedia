@@ -9,11 +9,35 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Stephen Zendt<br>© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Studies For Troubled Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Kulieke/An_Interview_with_Clyde_Bedell">
+          <span class="pr-2">An Interview with Clyde Bedell. Reminiscences Of An Early Forum Member</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Stephen Zendt_
 _San Francisco, CA, editor_
 
-> “_Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe._” [UB 91:8.9](/en/The_Urantia_Book/91#p8_9)
+> “_Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe._” <a id="a15_228"></a>[UB 91:8.9](/en/The_Urantia_Book/91#p8_9)
 
 **My Fellow Creatures**
 
@@ -49,7 +73,7 @@ Help us to create Brotherhood.
 Esther Hoover Zendt and Stephen Zendt
 </p>
 
-> “_Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers._” [UB 146:2.15](/en/The_Urantia_Book/146#p2_15)
+> “_Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers._” <a id="a51_127"></a>[UB 146:2.15](/en/The_Urantia_Book/146#p2_15)
 
 ## A Urantian Group Prayer Of Thanksgiving, Ad 1987
 
@@ -85,3 +109,27 @@ Thank you, Father, for our human brothers and sisters: our parents, our children
 Jay Newbern, Santa Rosa, California
 (reprinted from “The Circles” Spring-Summer 1988)
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Studies For Troubled Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Kulieke/An_Interview_with_Clyde_Bedell">
+          <span class="pr-2">An Interview with Clyde Bedell. Reminiscences Of An Early Forum Member</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

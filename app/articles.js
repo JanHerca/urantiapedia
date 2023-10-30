@@ -40,7 +40,9 @@ class Articles {
 		'Urantia Foundation News Online',
 		'NewsFlash',
 		'Tidings',
-		'Journal'
+		'Journal',
+		'Spiritual Fellowship',
+		'Study Group Herald'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});

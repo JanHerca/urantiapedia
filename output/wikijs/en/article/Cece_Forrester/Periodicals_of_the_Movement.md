@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Cece Forrester<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message to my soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="pr-2">On Deity and Gender</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Cece Forrester, Chicago, Ill._
 
@@ -43,3 +67,27 @@ In its first two years, the SQUARE PEG JOURNAL consisted mostly of listings of s
 The SQUARE PEG JOURNAL states that it is not intended to prosyletize either non-readers or non-Catholics. However, says Mary, “There is so much in _The Urantia Book_ that people don't see if they don't know any theology. There's a statement in _The Urantia Book_ about ”high gear spiritual performances“ awaiting a new revelation. I think of the book as fifth gear. You certainly can't start a car in fifth, and you can only shift to fifth from fourth or third gear. Many people have no idea what kinds of questions get raised 'in fourth gear'! If you go at _The Urantia Book_ without an appreciation for Christianity, your understanding will be much less than it could be.”
 
 Interested readers can write for more information to: Square Peg Printers, Route 2, Garretson, SD 57030, USA.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message to my soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="pr-2">On Deity and Gender</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

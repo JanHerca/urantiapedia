@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Barry D. Bradley<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Presidents_Report_to_the_General_Council">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President's Report to the General Council</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar_4">
+          <span class="pr-2">Calendar Of Events</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Barry D. Bradley
 
@@ -38,3 +62,28 @@ Following is a sampling of responses from those on the Internet:
 
 “I am amazed to find _The Urantia Book_ on the Interet. I had no idea there would be such a thing on the subject of salvation. I was just handed this big blue book by a friend of mine years ago with little or no attachment as to whether or not I looked at it. I read the life of Jesus and was taken by it literally. That was over five years ago. I would like to find a compelling reason to get back to it.” $u$
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Presidents_Report_to_the_General_Council">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President's Report to the General Council</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar_4">
+          <span class="pr-2">Calendar Of Events</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

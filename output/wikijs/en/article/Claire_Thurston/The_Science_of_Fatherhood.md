@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Claire Thurston<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dare to Risk</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC96">
+          <span class="pr-2">IC'96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Claire Thurston
 
@@ -110,3 +134,27 @@ If fathers know how and why they matter to their children, especially in the fir
 - Mahler, M.S., F. Pine, and A. Bergman. _The Psychological Birth of the Human Infant_. New York: Basic Books, 1975.
 - Sayers, R. _Fathering: It's Not the Same_. Larkspur, CA: Nurtury Family School, 1983.
 - Wagner, S. et al. “Metaphorical Mapping in Human Infants.” _Child Development_, 1981, 52, p.728-31.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dare to Risk</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC96">
+          <span class="pr-2">IC'96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

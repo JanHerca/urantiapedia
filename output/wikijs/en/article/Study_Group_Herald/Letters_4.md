@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Chilufya M.K.Tompson<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Experience with My Dad in a Nursing Home </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Zuberbuehler/Motaquest">
+          <span class="pr-2">Motaquest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Chilufya M.K.Tompson, Kitwe Zambia, Editor_
 
@@ -113,12 +137,12 @@ To International Readers,
 Recommended Method of Reading _The Urantia Book_:
 
 1. [UB 195](/en/The_Urantia_Book/195) — [UB 196](/en/The_Urantia_Book/196) The last two papers of the book entitled, “After Pentecost” and “The Faith of Jesus.”
-2. [UB 71:6](/en/The_Urantia_Book/71#p6) — the three paragraphs on “The Profit Motive.”
-3. [UB 132:5](/en/The_Urantia_Book/132#p5) entitled, “Counseling the Rich Man.”
+2. <a id="a115_3"></a>[UB 71:6](/en/The_Urantia_Book/71#p6) — the three paragraphs on “The Profit Motive.”
+3. <a id="a116_3"></a>[UB 132:5](/en/The_Urantia_Book/132#p5) entitled, “Counseling the Rich Man.”
 4. [UB 100](/en/The_Urantia_Book/100), [UB 101](/en/The_Urantia_Book/101), [UB 102](/en/The_Urantia_Book/102), [UB 103](/en/The_Urantia_Book/103) — the papers called, “Religion in Human Experience,” “The Real Nature of Religion,” “Foundations of Religious Faith,” and “The Reality of Religious Experience.” (Although at first glance, this sequence may seem t have no continuity to it, it will, in fact, give would-be reader some idea of what this extremel complex book is all about.)
-5. Part IV, “The Life and Teachings of Jesus” starting on [UB 120:0.1](/en/The_Urantia_Book/120#p0_1).
-6. Part III, “The History of Urantia” startin on [UB 57:0.1](/en/The_Urantia_Book/57#p0_1).
-7. Part II, “The Local Universe” starting or [UB 31:9.1](/en/The_Urantia_Book/31#p9_1).
+5. Part IV, “The Life and Teachings of Jesus” starting on <a id="a118_58"></a>[UB 120:0.1](/en/The_Urantia_Book/120#p0_1).
+6. Part III, “The History of Urantia” startin on <a id="a119_49"></a>[UB 57:0.1](/en/The_Urantia_Book/57#p0_1).
+7. Part II, “The Local Universe” starting or <a id="a120_45"></a>[UB 31:9.1](/en/The_Urantia_Book/31#p9_1).
 8. The Central Universe and the Super universes.
 9. The Foreword — this is probably the mos difficult portion of the book to understand.
 
@@ -180,4 +204,28 @@ _Victoria, British Columbia, Canada_
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Study_Group.jpg">
 <figcaption><em>Study Group Photo. Back row (left to right) Norma Ezri, Orville Burgess, Eric Rancourt, Byron Poley, Olu Oljede (visiting reader from Nigeria), Wendy Gold and Babbie Jahsmin, Murray Langs. Front Row (left to right) Gerry Charette, Julie Dubuc, Brent St. Denis, Claude Lafleche, Joseph Saliba. Other regular readers who were absent from photo, Michael Ezri, Roland Ezri, Blaise Marchildon.</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Experience with My Dad in a Nursing Home </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Zuberbuehler/Motaquest">
+          <span class="pr-2">Motaquest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

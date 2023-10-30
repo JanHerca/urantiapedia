@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Get Ready for IC '96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Gillespie/Little_UrantiaL">
+          <span class="pr-2">Little UrantiaL</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## First Orders Received for Fellowship's Urantia Book
 
@@ -71,3 +95,27 @@ P.O. Box 9343
 Green Bay, WI 54308
 
 **Coming soon!** Flashpoints in _The Urantia Book_. How to deal with new readers in reconciling beliefs in reincarnation and astrology with teachings in _The Urantia Book_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Get Ready for IC '96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Gillespie/Little_UrantiaL">
+          <span class="pr-2">Little UrantiaL</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dateline</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Presidents_Report_to_the_General_Council">
+          <span class="pr-2">President's Report to the General Council</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This article on _The Urantia Book_ was recently published in the Sunday supplement of a newspaper in Colombia. It appeared in a section similar to Parade magazine and received widespread attention in that country. It features comments from long-time _Urantia Book_ reader Carlos Zapata in Colombia._
 
@@ -37,4 +61,28 @@ Before the explosion of this labor there was in Colombia a confraternity of read
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Pattern_mandala_3.jpg">
 <figcaption><em>Pattern mandala</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dateline</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Presidents_Report_to_the_General_Council">
+          <span class="pr-2">President's Report to the General Council</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

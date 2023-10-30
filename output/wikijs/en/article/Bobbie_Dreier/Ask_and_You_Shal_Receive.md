@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Bobbie Dreier<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kulieke/Childhood_Days_at_the_Forum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Childhood Days at the Forum</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="pr-2">Caring for an Aging Parent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Bobbie_Dreier_parents.jpg">
@@ -46,3 +70,27 @@ Looking back I see that help was always there, seen and unseen. My sister and br
 February, 1993.
 
 _Post Script_: Jack Goldman died peacefully in his sleep in a hospice house in Florida on May 11, 1993.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Kulieke/Childhood_Days_at_the_Forum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Childhood Days at the Forum</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="pr-2">Caring for an Aging Parent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Classifieds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar">
+          <span class="pr-2">Calendar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **WE ARE REQUESTING** submissions of your journal writings to God, your Father, special prayers that you have written down to use again and again; even the prayers your family uses at the dinner table or bedtime. Send to: Stephen Zendt, Editor, Ascending Currents, feature of The STUDY GROUP HERALD 4130 Army St. \#51, San Francisco, CA 94131.
 
@@ -61,3 +85,27 @@ Contact Peggy Johnson, Cookbook Chairman, Grand Canyon Society for Readers of _T
 ---
 
 **WOULD YOU LIKE TO SHARE** your own, original, home-made study aids with the rest of us? Sharen Clampitt, Unit 1, 81 Seabrook Ave., Auckland 7, New Zealand is The STUDY GROUP HERALD's new Feature Editor for study aids. She is trying to find you and your creations to share in these pages. Please write and send her your study aids and a photo of yourself. We will all appreciate it very much.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Classifieds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar">
+          <span class="pr-2">Calendar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

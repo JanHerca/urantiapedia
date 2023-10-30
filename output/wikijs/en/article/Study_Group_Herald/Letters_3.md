@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marta_and_Dave_Elders/The_Soul_As_The_Entrance_Into_True_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Soul As The Entrance Into True Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_2">
+          <span class="pr-2">Classifieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 March 12, 1992
 
@@ -288,3 +312,27 @@ Garretson, South Dakota 57030
 
 > Ed. Note: _The SQUARE PEG JOURNAL, which was featured in our last issue's Periodicals of the Movement has been discontinued. Mary Daly, publisher still offers back issues to those woho are interested._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marta_and_Dave_Elders/The_Soul_As_The_Entrance_Into_True_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Soul As The Entrance Into True Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_2">
+          <span class="pr-2">Classifieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

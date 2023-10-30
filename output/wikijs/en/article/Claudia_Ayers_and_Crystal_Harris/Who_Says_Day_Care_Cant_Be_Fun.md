@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Claudia Ayers and Crystal Harris<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For Teens, It's A Different World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="pr-2">The Burden of the Basket</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Claudia Ayers and Crystal Harris
 
@@ -51,4 +75,28 @@ Here are some resources we found helpful:
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/playing2.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For Teens, It's A Different World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="pr-2">The Burden of the Basket</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

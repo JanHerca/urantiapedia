@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael Bain/Two_Prayer_Poems">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Two Prayer Poems</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/2000th_Birthday_Party">
+          <span class="pr-2">2,000th Birthday Party</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Whole_Life_Expo.jpg">
@@ -138,3 +162,27 @@ _Finance_
 Brian Smith, Leucadia, CA, 6 years
 _Special Projects_
 Larry Watkins, Sacramento, CA, 6 years
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael Bain/Two_Prayer_Poems">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Two Prayer Poems</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/2000th_Birthday_Party">
+          <span class="pr-2">2,000th Birthday Party</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

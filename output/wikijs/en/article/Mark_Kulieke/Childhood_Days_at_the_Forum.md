@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Mark Kulieke<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Letter from New York State</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="pr-2">Ask and You Shal Receive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Mark Kulieke, Green Bay, Wisconsin_
 
@@ -59,4 +83,28 @@ _(Portions of this article are modeled after a recent feature in_ Pervaded Space
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Dr_Sadler.jpg">
 <figcaption><em>Dr. Sadler, Art, and Sandra Burch with 81 -candle birthday cake.</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Letter from New York State</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="pr-2">Ask and You Shal Receive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

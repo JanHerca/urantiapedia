@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book in Lithuania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Masssey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="pr-2">1997 Summer Seminar To Meet in Vancouver July 10-13</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -50,4 +74,28 @@ dateCreated: 2023-10-23T10:55:6Z
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/ic96_7.jpg">
 <figcaption><em>Will and Susan Wentworth from Towamba, Australia enjoy the festivities at the Country Fair.</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book in Lithuania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Masssey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="pr-2">1997 Summer Seminar To Meet in Vancouver July 10-13</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

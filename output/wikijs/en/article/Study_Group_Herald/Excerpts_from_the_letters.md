@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington_and_Keith_Graham/Children_In_The_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Children In The Urantia Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gwen_Wenzel/20_20_20">
+          <span class="pr-2">20 20 20</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Sue_Greg.jpg">
@@ -47,3 +71,27 @@ dateCreated: 2023-10-23T10:55:6Z
 **California**: When they (the children) ask questions about religion we behave and reply as I at least imagine Jesus might have, with complet confidence in the reality of God, and if you will the naturalness of our relationship to him. We NEVER impose a “religious” interpretation on everyday events. If the kids ASK, we never hesitate to suggest one, but we also are sure to communicate that this is OUR PERSONAL vision and interpretation, and they may also have their own.
 
 **Wisconsin**: Our children have grown up with knowledge of _The Urantia Book_ and Urantia activities. Although they have never asked for their own book, we decided to give them one. We have always hoped that some day they would have an enjoy their own book — whenever they are ready. Realistically, when they do become ready we may not be around. We realize what a special gift would be if their book came from their own parents. We gave them _The Urantia Book_ on “Father Day”, explaining they were gifts in celebration of our heavenly Father's love. We each wrote a personal inscription of spiritual encouragement for their reassurance in the years to come. This all happened in June 1989 when our children were 10, 12, \& 15. Their Urantia Books sit patiently on bedroom shelves and I dust them off occasionnally whispering “their time will come, I'm sure!”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington_and_Keith_Graham/Children_In_The_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Children In The Urantia Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gwen_Wenzel/20_20_20">
+          <span class="pr-2">20 20 20</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

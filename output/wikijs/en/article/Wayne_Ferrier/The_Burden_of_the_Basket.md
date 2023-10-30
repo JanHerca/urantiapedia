@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Wayne Ferrier<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Says Day Care Can't Be Fun?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="pr-2">Divorce: To Do or Not To Do?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/basket.jpg">
@@ -65,3 +89,27 @@ On this day in the hills, John Mark was envied by the apostles and disciples. He
 It would be the last day of rest for Jesus before he was crucified. John Mark didn't know at the time that, as an older man, he would write one of the four gospels filled with his memories of Jesus and the apostles.
 
 Nor was John Mark aware of the angels who were watching Jesus' every move. In the worlds on high, this day became known as the day a young man spent with God in the hills.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Says Day Care Can't Be Fun?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="pr-2">Divorce: To Do or Not To Do?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

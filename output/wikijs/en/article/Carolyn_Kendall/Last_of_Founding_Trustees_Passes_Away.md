@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reaching Out in Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="pr-2">Gearing Up for IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **By Carolyn Kendall**
 
@@ -39,3 +63,27 @@ Although never previously taking a public stand on controversial issues, Hales s
 Hales was born in Oak Park, Illinois, the son of G. Willard and Carrie Hales. Both parents were members of the Forum. He was a graduate of Williams College. He and his wife Mary Lou celebrated their 62nd anniversary last February. Mary Lou served as chairman of the Brotherhood's Charter Committee, installing many new societies. Their son John is a long-time employee of the Fellowship and a former president of Urantia Brotherhood. Their daughter Lynn Jacob lives in Winnetka. Bill and Mary Lou have five grandchildren and five great-grandchildren.
 
 Hales's business career was spent at Hales and Hunter, an animal feed manufacturer. The company was founded by his father, and Hales held positions as secretary, treasurer, president and chief executive officer, retiring in 1969. Hales was a life trustee of Beloit College (from 1939), receiving an honorary degree of Doctor of Law in 1989.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reaching Out in Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="pr-2">Gearing Up for IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Board</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dianna_Padgett/Achieving_Balance">
+          <span class="pr-2">Achieving Balance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > ED. NOTE: _This 1992 Calendar of Events is published in retrospect in anticipation of the repeat of many of these functions in 1993. As we develop the network of communication required, we will publish the calendar in advance of the year's events. Summer events in 1993 will be subject to changes due to the scheduling of the International Conference '93 slated for July 31-August 5, in StHyacinthe, Quebec._
 {.is-info}
@@ -37,3 +61,27 @@ OCT 16-18 | Annual conference and Society business meeting of the Ontario Fellow
 OCT 16-18 | Adventures in Spiritual Living, at MO Ranch Conference Center, Hunt, TX (near San Antonio) Contact: Skip/Carol Weatherford (713) 363-1652
 OCT 24 | Fall Harvest Event in Austin, TX sponsored by Urantia Book Study Group of Austin. Contact: Tim/ Kitty Traylor, 100 W Odell, Austin, TX 78752 (512) 451-9479.
 NOV 7-8 | First Society of Oklahoma Fall Forum. Contact: Warren Litchfield (405) 794-2978
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Board</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dianna_Padgett/Achieving_Balance">
+          <span class="pr-2">Achieving Balance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

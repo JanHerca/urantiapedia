@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Wayne Ferrier<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Allen_Collins/The_Life_and_Times_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Life and Times of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Ascending_Currents_2">
+          <span class="pr-2">Ascending Currents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Jesus_Judas.jpg">
@@ -66,4 +90,28 @@ Jesus never did tell the family about what happened to Jude during their visit t
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Jesus_Judas2.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Allen_Collins/The_Life_and_Times_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Life and Times of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Ascending_Currents_2">
+          <span class="pr-2">Ascending Currents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

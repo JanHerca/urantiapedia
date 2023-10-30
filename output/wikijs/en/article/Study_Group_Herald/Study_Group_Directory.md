@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan_Massey/The_Cosmic_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cosmic Family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="pr-2">Faith Makes All Things Possible & Love Makes Them Beautiful</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dear Urantia Book Reader,
 
@@ -73,3 +97,27 @@ Area Coordinator's name \_\_\_\_ (Location) \_\_\_\_
 - I'd rather not have anyone call at this time
 
 Consider listing under a large city if applicable. Visitors may not recognize suburban cities or towns while residents will. Home addresses may result in “surprise guests” so consider putting a business or P.O. Box address in the Directory so that people may write to you. THANK YOU FOR HELPING!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan_Massey/The_Cosmic_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cosmic Family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="pr-2">Faith Makes All Things Possible & Love Makes Them Beautiful</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

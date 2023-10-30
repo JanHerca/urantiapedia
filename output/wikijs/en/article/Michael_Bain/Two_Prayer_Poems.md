@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Michael Bain<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Melissa_Wells/A_Hero_For_All">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Hero For All</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_2">
+          <span class="pr-2">Dateline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **By Michael Bain**
 
@@ -32,3 +56,27 @@ and tribulations are common,
 but they can be effective tools 
 to shape my spiritual destiny. 
 May your unbounded Love conquer all.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Melissa_Wells/A_Hero_For_All">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Hero For All</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_2">
+          <span class="pr-2">Dateline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

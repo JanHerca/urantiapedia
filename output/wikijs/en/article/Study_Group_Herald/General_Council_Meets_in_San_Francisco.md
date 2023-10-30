@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters To The Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="pr-2">Get Ready for IC '96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The mid-winter meeting of the General Council in San Francisco, February 2nd and 3rd, offered a chance to finetune details of the new soft-cover publication of _The Urantia Book_. In addition, the Council approved the establishment of a subsidiary of the Fellowship, Uversa Press, to oversee details of the publishing business. The issue of ongoing discounts was also discussed, and it was agreed that some form of volume discounts will be offered to everyone, details of which will be set later.
 
@@ -41,3 +65,27 @@ Avi Dogim, chairman of the Charter Committee, reported that the application has 
 ## First Stirrings of IC '99
 
 It's never too soon to begin thinking about where to hold the next International Conference. Councilors offered a wide range of suggestions, including Alaska, Vancouver, British Columbia, the Midwest, Southeast and even a cruise ship.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters To The Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="pr-2">Get Ready for IC '96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

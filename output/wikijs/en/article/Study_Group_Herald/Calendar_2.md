@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Graduation_of_Ruth_E_Renn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation of Ruth E. Renn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - May 18, 1996, Ascension Day Conference, Oklahoma City, OK. Sponsored by First Society of Oklahoma. Contact: Tom and Karen Allen (405) 722-7691.
 - May 24-27, Annual Reunion of Florida Readers, Leesburg, FL. Theme: Unity Through Diversity. Contact: Joe DeCosmo, 209 S.E. 6th Ave., Boynton Beach, FL 33435.
@@ -70,3 +91,25 @@ Order your books at special introductory pricing 20\% below List Price of \$18.9
 Fax your orders paid by credit card today to (312) 327-6159 or use the handy order form below to mall your order
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Graduation_of_Ruth_E_Renn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation of Ruth E. Renn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

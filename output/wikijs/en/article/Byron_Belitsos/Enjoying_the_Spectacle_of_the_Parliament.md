@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book at the Parliament of World's Religions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/The_Grapevine">
+          <span class="pr-2">The Grapevine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Byron Belitsos,
 
@@ -25,3 +49,28 @@ It was at this event that I first felt free to share my belief in _The Urantia B
 The Fellowship was not listed as a sponsor of the Parliament; neither was a presentation on _The Urantia Book_ to be found among the 500 or so lectures and workshops that were given by virtually every religion, sect or spiritual movement in the world, with the exception of fundamentalists.
 
 It is my hope that we get more deeply involved in the interfaith movement, both for the gratifying experience of sharing deeply with otheropen-minded religionists and to become the salt that adds savor to the global movement for interfaith dialogue.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book at the Parliament of World's Religions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/The_Grapevine">
+          <span class="pr-2">The Grapevine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,10 +9,34 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 John Hyde<br>© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Family Rituals And Celebrations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Fatherhood: Jesus As A Creative Parental Role Model</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Reported by John Hyde, Richardson, Texas_
 
-> “Of all social relations calculated to develop character, the most effective and ideal is the affectionate and understanding friendship of man and roman in the mutual embrace of wedlock. Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives wohich are indispensable to the development of a strong character.” (Rodan) [UB 160:2.6](/en/The_Urantia_Book/160#p2_6)
+> “Of all social relations calculated to develop character, the most effective and ideal is the affectionate and understanding friendship of man and roman in the mutual embrace of wedlock. Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives wohich are indispensable to the development of a strong character.” (Rodan) <a id="a14_384"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6)
 
 Those ideals and aspirations were markedly expressed in the early summer, 1991 at ceremonies uniting Dianne Trouy and Terry Matheny in Texas, Karen Johnson and Tom Allen in Oklahoma, and Joan Batson and Larry Mullins in Colorado.
 
@@ -34,4 +58,28 @@ Carol Hay of Boulder, Colorado, always a welcome entertainer at Urantia gatherin
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Karen_Tom_Allen.jpg">
 <figcaption><em>Karen \& Tom Allen</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Family Rituals And Celebrations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Fatherhood: Jesus As A Creative Parental Role Model</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

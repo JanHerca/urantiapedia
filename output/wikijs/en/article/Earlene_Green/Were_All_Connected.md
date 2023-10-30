@@ -9,10 +9,34 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Earlene Green<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith Makes All Things Possible & Love Makes Them Beautiful</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="pr-2">The Urantia Book in Lithuania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Earlene Green
 
-> “Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven.” _The Urantia Book_ [UB 140:3.13](/en/The_Urantia_Book/140#p3_13)
+> “Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven.” _The Urantia Book_ <a id="a14_144"></a>[UB 140:3.13](/en/The_Urantia_Book/140#p3_13)
 
 George Bernard Shaw wrote: “All the world's a stage and we each must play our part.”
 
@@ -28,7 +52,7 @@ But the reality for many is that it's safer to think of self as being just anoth
 
 This prejudice about color remains and the mixing of the races continues. The problem about color is a negative distraction and it slows the advancement of our planet's progress toward the spiritual goal of light and life. It taints the mental atmosphere wherein the conscious mind forms ideas and makes decisions.
 
-As readers and serious students of _The Urantia Book_, we have been told that ours is an experimental planet. We have been given a general outline of the progression plan for the human race; that ultimately it will come to pass that “God has made of one blood all the nations,” and that his Son “has made of one color all peoples.” ([UB 52:3.7](/en/The_Urantia_Book/52#p3_7)) So who are you and who are we to presume to interfere and actively thwart universe plans for mankind here on Urantia? Common decency demands that we make room in this world for all God's people. This means more than “giving them their space.” It means allowing them a place at the table. We are all here as part of the experiment.
+As readers and serious students of _The Urantia Book_, we have been told that ours is an experimental planet. We have been given a general outline of the progression plan for the human race; that ultimately it will come to pass that “God has made of one blood all the nations,” and that his Son “has made of one color all peoples.” (<a id="a30_333"></a>[UB 52:3.7](/en/The_Urantia_Book/52#p3_7)) So who are you and who are we to presume to interfere and actively thwart universe plans for mankind here on Urantia? Common decency demands that we make room in this world for all God's people. This means more than “giving them their space.” It means allowing them a place at the table. We are all here as part of the experiment.
 
 Problems, a technique for growth, are encountered and await our personal or group solution. We have been given the tools to remedy problems — the mind (intelligence), the body, this planet and all of its resources, and the spirit within to give meaning and aid us in this ever expanding growth process. And the most magnificent teacher of all, Jesus, shows the way. And Jesus said: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers...”
 
@@ -38,11 +62,11 @@ Problems, a technique for growth, are encountered and await our personal or grou
 </figure>
 
 
-Now we have the reason to willingly participate in this grand experiment. My experience is that when you search for God, you find yourself; and when you find God, you have found everything. Experience is obtained during the process. The use of one's intelligent mind determines if the process is joyful or otherwise. “It is not so much what you learn in this first life; it is the experience of living this life that is important.” ([UB 39:4.13](/en/The_Urantia_Book/39#p4_13)) A dictionary definition says experience is direct participation in events; something personally encountered, undergone, or lived through.
+Now we have the reason to willingly participate in this grand experiment. My experience is that when you search for God, you find yourself; and when you find God, you have found everything. Experience is obtained during the process. The use of one's intelligent mind determines if the process is joyful or otherwise. “It is not so much what you learn in this first life; it is the experience of living this life that is important.” (<a id="a40_433"></a>[UB 39:4.13](/en/The_Urantia_Book/39#p4_13)) A dictionary definition says experience is direct participation in events; something personally encountered, undergone, or lived through.
 
 Each of us, by our own free will and with the help of our Thought Adjuster, has determined the role we are playing in this unfolding drama of the Family of Man. In the whole scheme of things, our time in this drama is no more than a dash — as seen in print. This dash can be viewed as a minus sign or add a vertical dash through it and see it as a plus sign.
 
-We do make mistakes, mostly of the tongue, and most of the time have the opportunity to make amends or try again. An Old Testament saying goes like this: “He who guards his mouth saves his life.” An admonishment in _The Urantia Book_ quotes Jesus, “The human tongue is a member which few men can tame....” ([UB 146:2.13](/en/The_Urantia_Book/146#p2_13))
+We do make mistakes, mostly of the tongue, and most of the time have the opportunity to make amends or try again. An Old Testament saying goes like this: “He who guards his mouth saves his life.” An admonishment in _The Urantia Book_ quotes Jesus, “The human tongue is a member which few men can tame....” (<a id="a44_307"></a>[UB 146:2.13](/en/The_Urantia_Book/146#p2_13))
 
 Let me tell you a story about an old preacher who decided to sell his magnificent riding horse. There was Bob who loved horses and had always admired the preacher's horse and wanted to buy it. The preacher said to Bob: “Now hold on a minute before you make a decision; this horse only understands spiritual talk. To get him to go you say, ‘Praise the Lord.’ To get him to stop you say, ‘Hallelujah.’” So Bob said, “I think first I'd better try this horse.” Bob mounted the horse easy like and gingerly said to the horse, “Praise the Lord.” The horse took off on a slow trot. Bob felt good in the saddle so he said more confidently to the horse, “Praise the Lord!” And the horse took off in a gallop. Bob and the horse were moving comfortably across the countryside when Bob noticed the end of a cliff just ahead and his mind, somewhat slowly, found the word he was to say, “Hallelujah!” And the horse stopped just eight inches from the edge of the cliff. Bob slumped. Relieved, he took his finger and wiping the sweat from his brow, he said: “Whew, praise the Lord!”
 
@@ -52,7 +76,7 @@ Experiencing spiritual growth is as difficult or as easy as the intelligent free
 
 This universe pattem and the challenges of growth apply to each of us. Many individuals consciously choose not to grow, and many individuals have embraced the role of adversary. This role in our unfolding drama may appear to be antagonistic to others but let us consider with a broad view that the role is catalytic to sharpen or finetune a value some other person needs to become competent in.
 
-Consider the following quotes from _The Urantia Book_: “All evolutionary creature life is beset by certain inevitabilities ... is courage — strength of character — desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments.” ([UB 3:5.5](/en/The_Urantia_Book/3#p5_5))
+Consider the following quotes from _The Urantia Book_: “All evolutionary creature life is beset by certain inevitabilities ... is courage — strength of character — desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments.” (<a id="a54_296"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5))
 
 Personally, I don't care for physical hardships based on my reality of it. But if the statement also means spiritual hardships, then indeed that is a hard place to be. How about altruism — service of one's fellows? Then, _The Urantia Book_ goes on to say, must life experience provide for encountering situations of social inequality. And, of course, all normal-minded humans who know the truth most certainly desire the other inevitabilities like hope, faith, love of truth, idealism, loyalty and unselfishness.
 
@@ -64,7 +88,7 @@ But there is still that nagging question of how to deal with our wayward brother
 
 And why do the heathen continue to be angry? Some problems have been imbued and passed on from one generation to another within certain segments of the world population. Although spiritual endowments are uniform, some people profess God's lot only within their own identity group. This leaves very few true values to pass on to succeeding generations. How unfortunate it is for those who know not the truth to nurture their inheritance of fear, self-doubt, and mistrust when proven healings and life's good offerings are available to all through acceptance of the truth — that God loves all of us.
 
-This negativity is not a malady peculiar to just one racial group; nor, in most cases, is the malady necessarily violent in its nature. It could be viewed as a culture of spiritual indolence, “ ... for religion is a way of living as well as a technique of thinking.” ([UB 92:7.10](/en/The_Urantia_Book/92#p7_10)) Many wonder: “What can I do? Is this my responsibility? Am I my brother's keeper?”
+This negativity is not a malady peculiar to just one racial group; nor, in most cases, is the malady necessarily violent in its nature. It could be viewed as a culture of spiritual indolence, “ ... for religion is a way of living as well as a technique of thinking.” (<a id="a66_268"></a>[UB 92:7.10](/en/The_Urantia_Book/92#p7_10)) Many wonder: “What can I do? Is this my responsibility? Am I my brother's keeper?”
 
 Each of us has that ability of answering those questions to the satisfaction of our own soul. What is going on inside of you reflects on the outside. Let us tend our spiritual gardens, let us share our capacity to love, proceed at our own pace, and naturally give and receive the love of others. Spreading love is infectious. And this infection will ultimately be the salvation of our global family. This infectious love will extend to the care, concern, and upkeep of our beautiful planet, bringing it, along with ourselves, in the progressive march toward light and life.
 
@@ -80,3 +104,27 @@ Join hands, then brothers of the faith,
 whatever your race may be,
 Who serves my Father as a son is surely 
 kin to me.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith Makes All Things Possible & Love Makes Them Beautiful</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="pr-2">The Urantia Book in Lithuania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

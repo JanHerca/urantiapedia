@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Laureen Oskochil<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caring for an Aging Parent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="pr-2">An Experience with My Dad in a Nursing Home </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Laureen Oskochil, Portland, Oregon_
 
@@ -40,4 +64,28 @@ Namaste - (The God fragment in me greets the God fragment in you.)
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Scattering_Service.jpg">
 <figcaption><em>‘Scattering Service’ at sea. Memorial of Joseph William Oskochil, September 13, 1915-November 3, 1990</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caring for an Aging Parent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="pr-2">An Experience with My Dad in a Nursing Home </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

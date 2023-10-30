@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Melissa Wells<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1994_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/In_Memoriam">
+          <span class="pr-2">In Memoriam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Melissa Wells, Associate Editor_
 
@@ -29,3 +53,27 @@ Also in this issue, the Family Life ad hoc committee of the Fellowship is publis
 Our presentation of the study groups in Arizona is timely since our next international conference —IC'96 — is going to be set in the highlands of Flagstaff, Arizona.
 
 Let us know what you think of The Study Group Herald. Send us your likes, your dislikes, your happy stories or sad ones. And please send pictures.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1994_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Fall 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/In_Memoriam">
+          <span class="pr-2">In Memoriam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

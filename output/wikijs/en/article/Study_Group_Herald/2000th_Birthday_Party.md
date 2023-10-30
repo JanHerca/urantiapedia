@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dateline</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="pr-2">In Close Proximity — The World of the Nonbreathers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Seekers Study Group, Chile
 
@@ -78,4 +102,28 @@ The gathering kicked off First Society's year-long observance of “A Year of Je
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/flowers.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dateline</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="pr-2">In Close Proximity — The World of the Nonbreathers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

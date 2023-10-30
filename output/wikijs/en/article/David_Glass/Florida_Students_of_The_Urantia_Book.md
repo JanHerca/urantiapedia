@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 David Glass<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Ascending_Currents_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ascending Currents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_5">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _David Glass, Fort Worth, Texas, editor_
@@ -74,7 +98,7 @@ Lee and Connie Lester and their friend Norma who drives up to Englewood from Ven
 
 This study group has discovered “the higher concepts of the book and how they form a belief structure into which other subjects covered in _The Urantia Book_ can be fit in.” They say that with subsequent readings, more of the “overall picture” comes into view and the book as a whole becomes more comprehensible. Connie and Lee read together frequently and the revelation is an essential part of their lives together. They have been the personal conduit through which many copies of _The Urantia Book_ have passed into the hands of new readers.
 
-The First United Sons of Englewood also call themselves “The Salt Shakers” as they strive to be the “salt of the earth, salt with a saving savor.” ([UB 140:4.2](/en/The_Urantia_Book/140#p4_2)) With regards to the disapproval of their former associates, Jehovah's Witnesses, Lee states that loyalty to a higher teaching requires “stick-to-it-iveness, true dedication, a nonwhimsical attitude, and personal commitment.”
+The First United Sons of Englewood also call themselves “The Salt Shakers” as they strive to be the “salt of the earth, salt with a saving savor.” (<a id="a76_148"></a>[UB 140:4.2](/en/The_Urantia_Book/140#p4_2)) With regards to the disapproval of their former associates, Jehovah's Witnesses, Lee states that loyalty to a higher teaching requires “stick-to-it-iveness, true dedication, a nonwhimsical attitude, and personal commitment.”
 
 ## The Tropical Ascenders 
 
@@ -166,3 +190,27 @@ Ours is a small group — only 5 as a rule: Slade and Rita Ballou, Lauren Ball, 
 We tried meeting twice a month, but have settled on once a month, on the first Friday, 7:30 P.M. We have tried various ways of selecting our course of study. Sometimes we select certain papers to study, then, let each one report on some aspect that they find particularly interesting. Rita and Lauren have been typing their reports and providing copies for each of us. We have each accumulated a nice file of the topics we have studied.
 
 We thought it would be good to expand our group, so we ran ads in a weekly paper that covers our whole county. We received four calls and one woman came to some of our meetings. She had not actually read the book even though she owned a copy for twenty-five years. She finally dropped out. The others had various reasons for not joining us — but they were all glad to talk with us on the phone, and we sent some of them literature which they enjoyed. They said that at least they felt less alone just knowing that other readers were trying to contact them. We try to get to the Florida state conference at least every other year. We always feel that we come home with expanded outlooks.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Ascending_Currents_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ascending Currents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_5">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

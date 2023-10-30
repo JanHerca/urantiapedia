@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Who_and_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who and How?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="pr-2">Bulletin Board</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I am interested in establishing contacts with other readers, and I was wondering if there is any way to get the addresses of readers around the world. It would be nice if The Herald could link people for personal and intellectual interaction. This would strengthen and catalyze the growth of this spiritual fellowship.
 
@@ -88,3 +112,27 @@ Is anybody out there as fascinated by - this paper as I am? I'd like to hear fro
 _Tom Maringer_
 _2692 South Powerll Street_
 _Springdale, AK 72764_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Who_and_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who and How?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="pr-2">Bulletin Board</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

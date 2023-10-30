@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ramon Barbosa<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Defining Spiritual Service </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="pr-2">Last of Founding Trustees Passes Away</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **By Ramon Barbosa**
 
@@ -48,3 +72,27 @@ The purpose of an ad in the paper posing a thought-provoking question along with
 
 > _Ramon Barbosa is a member of the First Society of Los Angeles. He also serves on the Southern California Outreach Committee, which places ads in publications inviting inquirers to reply to prerecorded phone messages with personal interpretations of teachings from_ The Urantia Book.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Defining Spiritual Service </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="pr-2">Last of Founding Trustees Passes Away</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters To The Herald</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/International_Letters">
+          <span class="pr-2">International Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **The FLOWERS Program** of The Fellowship will lend a hand to groups of readers of _The Urantia Book_ who would like to engage in outreach programs. If interested, write the Fellowship, 529 Wrightwood Ave., Chicago, IL 60614.
 
@@ -55,3 +79,27 @@ Tape 6: _Science, Self and The Supreme_ by Lawrence Schkade, Ph.D.; Music Progra
 Tape 7: _Celebration of Jesus' 2,000th Birthday_
 
 Tape 8: _Life on the Edge of Forever_ by Dan Young; _Celebration of Jesus' 2,000th Birthday; Closing_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters To The Herald</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/International_Letters">
+          <span class="pr-2">International Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

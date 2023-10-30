@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Rev. Canon James F. Kelly<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gearing Up for IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Melissa_Wells/A_Hero_For_All">
+          <span class="pr-2">A Hero For All</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **By The Rev. Canon James F. Kelly**
 
@@ -65,3 +89,27 @@ Now, Jesus calls us to be heroes to each other. And within each of us lies the p
 
 > _The Rev. Canon James F. Kelly is Canon Educator of the Cathedral Church of St. Peter, the Episcopal Cathedral of the Diocese of Southwest Florida in St. Petersburg. Born in Brooklyn, Father Kelly was ordained a priest in 1969. He is active in many ecclesiastical and community organizations. Father Kelly lives in Clearwater, with his, wife, Kathleen, and Simon, the cat._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gearing Up for IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Melissa_Wells/A_Hero_For_All">
+          <span class="pr-2">A Hero For All</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

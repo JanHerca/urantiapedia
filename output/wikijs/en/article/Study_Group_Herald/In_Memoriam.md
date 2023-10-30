@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Melissa_Wells/Initial_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Initial Thoughts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Who_and_How">
+          <span class="pr-2">Who and How?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 If you had known Mario Harrington, especially in connection with study of _The Urantia Book_, you'd be impressed with his scholar's touch. Along with that, or more likely even before it, you would have been moved by his warmth and love, the touch of his friendship. His was a gentle strength, enhanced by a wonderful sense of humor.
@@ -31,3 +55,27 @@ It was a rich experience to have known him and it will be glorious to renew our 
 >
 > Please help us by sharing your stories. Send your letters to The Study Group Herald, The Fellow•ship, 529 WrighwoodAve. , Chicago, IL 60614.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Melissa_Wells/Initial_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Initial Thoughts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Who_and_How">
+          <span class="pr-2">Who and How?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

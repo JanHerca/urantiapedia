@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enjoying the Spectacle of the Parliament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_4">
+          <span class="pr-2">Classifieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Family Happenings
 
@@ -53,3 +77,27 @@ The **Education Committee** has prepared an agenda for next year's Summer Intens
 “The university is convenient to the Newark airport and it's a place where there are a lot of readers,” says **Dan Massey**, chairman of the committee.
 
 As to why the program is not meeting at Lake Forest, Illinois, “we intend to move it to places where there can be local society participation,” Massey says. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enjoying the Spectacle of the Parliament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_4">
+          <span class="pr-2">Classifieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

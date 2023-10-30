@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/In_Memoriam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Memoriam</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_6">
+          <span class="pr-2">Letters To The Herald</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Meredith Sprunger
 Fort Wayne, Indiana
@@ -28,3 +52,27 @@ There have been various guesses as to who the contact personality may have been,
 Dr. Sadler engaged handwriting experts to determine the origin of these papers. The experts assured him that it was not the handwriting of the contact personality or those associated with this person.
 
 While these questions are interesting to discuss, they have nothing to do with the validity of _The Urantia Book_, which must be determined by the content of the book itself.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/In_Memoriam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Memoriam</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_6">
+          <span class="pr-2">Letters To The Herald</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

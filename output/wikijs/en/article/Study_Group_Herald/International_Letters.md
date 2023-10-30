@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Board</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="pr-2">The Melchizedek Bestowal </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dear Readers,
 
@@ -131,3 +155,27 @@ I discovered _The Urantia Book_ in 1976 when I was a student at Tulane Universit
 I want to end this note sharing with you the way we pray the Lord's prayer. If you don't understand the words, you will certainly understand their power.
 
 “Padre Nuestro, que estas en el cielo, santificado sea tu Nombre, venga a nos Tu reino, hagase tu voluntad asi en la tierra como en el cielo. El pan nuestro de cada dia, danosle hoy. Perdona nuestras duedas asi como nosotros perdonamos a nuestros deudores. No nos dejes caer en tentacion, mas libranos del mal, porque Tuyo es el poder, el reino y la gloria por los siglos de los siglos. Amen.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Board</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="pr-2">The Melchizedek Bestowal </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

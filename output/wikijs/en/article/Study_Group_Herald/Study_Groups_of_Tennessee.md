@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_and_Ute_Ferrier/What_Does_Urantia_Mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does Urantia Mean?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Farrington/Divine_Nature">
+          <span class="pr-2">Divine Nature</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Watauga Valley
 
@@ -145,4 +169,28 @@ When Urantia Foundation and the then Brotherhood split, the majority of the memb
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/watercan.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_and_Ute_Ferrier/What_Does_Urantia_Mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does Urantia Mean?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Farrington/Divine_Nature">
+          <span class="pr-2">Divine Nature</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

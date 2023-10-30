@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Arvydas Maciokas<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Earlene_Green/Were_All_Connected">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">We're All Connected</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="pr-2">IC 96 Photo Essay</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Arvydas Maciokas, Ph.D.
 
@@ -87,3 +111,27 @@ It is necessary to carry out constant comparative investigations that would allo
 A very valuable feature of this book is that there are introduced many new notions that we have not heard before. It is valuable for thinking, discussions and investigations. _The Urantia Book_ gives us a possibility to believe more deeply, to have strong faith and at the same time to widen our knowledge and imagination of the universe, to seek for more comprehensive understanding of the destination in our world and our lives.
 
 We are happy that such a book was given to us due to the revelation and that the revelation happened in America; it is the only free nation having reasonable sense to accept this comprehensive teaching and spread it all over the world.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Earlene_Green/Were_All_Connected">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">We're All Connected</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="pr-2">IC 96 Photo Essay</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

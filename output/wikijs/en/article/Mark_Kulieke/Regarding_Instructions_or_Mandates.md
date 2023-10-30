@@ -10,6 +10,30 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Mark Kulieke<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Melchizedek Bestowal </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="pr-2">For Teens, It's A Different World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Mark Kulieke, Green Bay, Wisconsin
 
@@ -46,3 +70,27 @@ For example, I regard the following statement of superhuman origin as general en
 “You must learn to possess your souls in patience. You are in association with a revelation of truth which is a part of the natural evolution of religion on this world. Overrapid growth would be suicidal. The book is being given to those who are ready for it long before the day of its worldwide mission. Thousands of study groups must be brought into existence and the book translated into many tongues. Thus will the book be in readiness to comfort and enlighten the people of many languages when the battle for man's liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind.”
 
 This material didn't belong in the book. The major portion of it dealt with how to bring the book into existence, how to handle the book, how to get it published, and after publication, how to form and deal with groups connected with the book. Most of it was time bound, hence its destruction at different points in the the last 40 years or so. I know of at least three or four points when this superhuman guidance was destroyed, the last being 1982 when the final member of the Contact Commission died. Only a few frequently quoted fragments have survived.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Melchizedek Bestowal </span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="pr-2">For Teens, It's A Different World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

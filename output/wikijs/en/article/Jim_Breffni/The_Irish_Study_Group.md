@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Jim Breffni<br>© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Facts from Urantia Files</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_2">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Jim Breffni, Northern Ireland_
 
@@ -32,6 +56,30 @@ The particular problems in Northern Ireland have led us to carefully examine wha
 
 &nbsp; | &nbsp;
 --- | ---
-[UB 70:1.2](/en/The_Urantia_Book/70#p1_2) | War is/Human interassociations
-[UB 99:0.2](/en/The_Urantia_Book/99#p0_2) | But religion/cultural requirements
-[UB 133:1.4](/en/The_Urantia_Book/133#p1_4) | Ganid, I/the contrary.
+<a id="a34_0"></a>[UB 70:1.2](/en/The_Urantia_Book/70#p1_2) | War is/Human interassociations
+<a id="a35_0"></a>[UB 99:0.2](/en/The_Urantia_Book/99#p0_2) | But religion/cultural requirements
+<a id="a36_0"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4) | Ganid, I/the contrary.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Facts from Urantia Files</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_2">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

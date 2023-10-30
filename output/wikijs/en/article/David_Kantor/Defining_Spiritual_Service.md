@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 David Kantor<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/A_Place_Apart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Place Apart</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="pr-2">Reaching Out in Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **By David Kantor**
 
@@ -94,7 +118,7 @@ Unselfish service is the attitude which Jesus challenges us to bring to all of o
 
 As we engage in the process of unselfish service, we bring into temporary existence a living context within which the spiritual forces around us can more effectively function.
 
-The service undertaken by people in our world today constitutes a focal point for spiritual power to be administered directly into people's lives. “Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience.” ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+The service undertaken by people in our world today constitutes a focal point for spiritual power to be administered directly into people's lives. “Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience.” (<a id="a96_290"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 Another view of service is to see it as a genetic mechanism by which divine goodness is replicated and propagated through the living organism of the Supreme.
 
@@ -156,3 +180,27 @@ May we have the wisdom to foster a readership culture which can serve as a keel 
 
 > _David Kantor, San Francisco Bay area, has been a member of the General Council for two years. This paper is the basis of a presentation which Kantor made to the General Council at its mid-year meeting in January 1995._
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/A_Place_Apart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Place Apart</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="pr-2">Reaching Out in Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

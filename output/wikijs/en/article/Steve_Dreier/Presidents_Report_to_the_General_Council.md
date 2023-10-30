@@ -9,16 +9,40 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Steve Dreier<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/News_from_Colombia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">News from Colombia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="pr-2">The Fellowship Is Now On The WWW</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Steve Dreier
 
 The Fellowship is a social and service organization composed of readers of _The Urantia Book_. It is the oldest, largest and most experienced of all such organizations. During its more than 40 years of existence the Fellowship has passed through a variety of phases, some pleasant and gratifying, some distressing and discouraging. Fortunately, due to the dedication and talent of its many members, and perhaps with some unseen and unrecognized assistance, it has weathered it all, matured, grown wider, and now finds itself poised for a period of expanded service opportunities.
 
-New developments combined with augmented traditional activities promise something of an organizational _suddenly_ for the Fellowship. During the past year we have made some challenging and far reaching decisions and we will have more of these to make in the near future. Our little ship has “steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny.” ([UB 99:1.3](/en/The_Urantia_Book/99#p1_3)) These new developments require substantial organizational support and it is essential that we take time to understand where we are going and make adequate preparations to support what we decide to do. This annual report will highlight some of the issues that are now before us, or will be in the immediate future.
+New developments combined with augmented traditional activities promise something of an organizational _suddenly_ for the Fellowship. During the past year we have made some challenging and far reaching decisions and we will have more of these to make in the near future. Our little ship has “steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny.” (<a id="a16_422"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3)) These new developments require substantial organizational support and it is essential that we take time to understand where we are going and make adequate preparations to support what we decide to do. This annual report will highlight some of the issues that are now before us, or will be in the immediate future.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/flower.jpg">
-<figcaption><em>“Beauty is always triumphant over ugliness in the hearts of all who are illuminated by the love of truth.” ([UB 156:5.5](/en/The_Urantia_Book/156#p5_5)) Photograph by Carol Herron.</em></figcapton>
+<figcaption><em>“Beauty is always triumphant over ugliness in the hearts of all who are illuminated by the love of truth.” (<a id="a20_124"></a>[UB 156:5.5](/en/The_Urantia_Book/156#p5_5)) Photograph by Carol Herron.</em></figcapton>
 </figure>
 
 
@@ -56,7 +80,7 @@ NOTE: Below are passages from the Constitution of the Fellowship and _The Uranti
 
 ## ... and from The Urantia Book
 
-“There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religious encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation.” ([UB 99:6.2](/en/The_Urantia_Book/99#p6_2))
+“There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religious encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation.” (<a id="a58_649"></a>[UB 99:6.2](/en/The_Urantia_Book/99#p6_2))
 
 
 ## Four Reasons You'll Want This Urantia Book!
@@ -118,3 +142,27 @@ The Fellowship, the worldwide Urantia Book membership organization, publishes th
 Look for this edition of _The Urantia Book_ in your local bookstore.
 
 [^1] Urantiapedia's Note: About the policy of Urantiapedia regarding the referencing system for _The Urantia Book_, check [our documentation on this subject](/en/help/links#unique-global-reference-system-for-the-urantia-book).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/News_from_Colombia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">News from Colombia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="pr-2">The Fellowship Is Now On The WWW</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

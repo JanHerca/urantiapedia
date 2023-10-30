@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Touch_the_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Touch the World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We are very gratified by the response of readers to The STUDY GROUP HERALD and feel encouraged to continue developing this channel of communication of the study group movement of readers of _The Urantia Book_.
 
@@ -52,3 +73,25 @@ Address \_\_\_\_
 
 > Here, in Northern Ireland, we live on the cutting edge of life and death. The falsehoods in any religion or system of beliefs are soon exposed in this environment of extremes. _The Urantia Book_ has withstood all the tests and questions wee have asked of it over the years and it has not been found wanting. (SEE PAGE 18)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Touch_the_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Touch the World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

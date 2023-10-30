@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Michael S. Smith<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_Ferrier/The_Water_of_Astonishment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Water of Astonishment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="pr-2">Message to my soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Michael S. Smith, 20, of Coraopolis, Pennsylvania offers this Young Readers' page, inviting letters, writings, artwork, photography, etc. as well as the sharing of ideas, feelings, and experiences by pre-college and college age readers. Do you write stories or poetry? Do you read_ The Urantia Book _in isolation? Do you know other young readers? Have you ever tried sharing_ The Urantia Book _with your peers? If you have something to share on this page, send it to Michael S. Smith, 1827 Hassam Road, Coraopolis, PA 15108, Tel: (412)269-6693._
 {.is-info}
@@ -160,3 +184,27 @@ How much I sit here in wonder of my own forward looking,
 My thoughts of the poet and the man of the world,
 I also wonder what you have thought of me,
 And have I changed you?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_Ferrier/The_Water_of_Astonishment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Water of Astonishment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="pr-2">Message to my soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

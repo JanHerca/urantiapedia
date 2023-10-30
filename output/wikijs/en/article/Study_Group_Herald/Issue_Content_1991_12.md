@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/The_Study_Groups_Around_Oklahoma_City">
+          <span class="pr-2">The Study Groups Around Oklahoma City</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Frontpage1.jpg">
@@ -69,3 +90,24 @@ The Fellowship
 Chicago, Illinois 60614
 
 Forwarding and return postage guaranteed
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/The_Study_Groups_Around_Oklahoma_City">
+          <span class="pr-2">The Study Groups Around Oklahoma City</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

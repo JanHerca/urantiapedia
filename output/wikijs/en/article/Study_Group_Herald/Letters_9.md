@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1997_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Winter 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Coverage">
+          <span class="pr-2">IC 96 Coverage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _In this issue, we are publishing letters received from our readers on substantive issues affecting the Urantia movement. In two instances, Matthew Block, our reader services correspondent, has written a reply._
 
@@ -75,6 +99,31 @@ Many of the strongest opponents of the Urantia teachings will be, and have been,
 Knowing that the book will inevitably be controversial, we in the vanguard must be brave, resourceful and realistic. We must prepare ourselves to witness to the truth and excellence of _The Urantia Book_, answer questions about its teachings, and recognize where the teachings stand in relation to the religious, philosophical, sociologic and scientific currents of the day.
 
 Our spirituality and dedication will grow as we respond to these challenges.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1997_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, Winter 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Coverage">
+          <span class="pr-2">IC 96 Coverage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## A Note on Gardner
 

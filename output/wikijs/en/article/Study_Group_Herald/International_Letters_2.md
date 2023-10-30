@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_8">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters to the Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/A_Place_Apart">
+          <span class="pr-2">A Place Apart</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/worldmap.jpg">
@@ -116,4 +140,28 @@ _Dr. R. A. Quaynor is a member of Urantia Nazareth Brotherhood and may be contac
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Quaynor2.jpg">
 <figcaption><em>At left, Dr. Quaynor poses with some Urantia Book readers who are employees at the Agrata Natural Healing and Radionic Centre in Accra.</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_8">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters to the Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/A_Place_Apart">
+          <span class="pr-2">A Place Apart</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

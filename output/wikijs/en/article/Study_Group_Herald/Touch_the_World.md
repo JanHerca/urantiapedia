@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dianna_Padgett/Achieving_Balance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Achieving Balance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/From_The_Editor">
+          <span class="pr-2">From The Editor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Conference_1992.jpg">
@@ -45,3 +69,27 @@ The intimate sharing of personal religious experiences is a highlight when reade
 There will be a STORE at the conference for readers wishing to sell their own creative works of a spiritual and/or planetary nature. This service is being provided jointly by a group of Canadian readers and Jesusonian Foundation.
 
 Let us know soon if you want more information.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dianna_Padgett/Achieving_Balance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Achieving Balance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/From_The_Editor">
+          <span class="pr-2">From The Editor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Mark Kulieke<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Annette_Crawford/Mother_Of_My_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mother Of My Soul...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Lighten_Life_News_01">
+          <span class="pr-2">Lighten Life News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Mark Kulieke, Greenbay, Wisconsin_
 
@@ -31,3 +55,27 @@ Contact with superhumans should not be viewed as a precise science. It was a dia
 Enshrouding the history of this revelation in mystery has probably already created a sacred mythology about these events. This is most unfortunate. It is time these events saw the light of day so that all students of the Urantia papers can recognize both the sublimity and the ordinariness of this process, its revelatory flavor and its evolutionary nature, the input from both superhuman and human. Further, they can recognize that the same qualities are ongoing today and into the future. The revelation is not the dead pages of a book. The revelation consists of the synapse between divine watchcare and human faith and aspiration — the downreach of the gods and the upreach of man. The revelation is transpiring every moment.
 
 BIRTH OF A REVELATION can be ordered from Mark Kulieke, P.O. Box 9343, Green Bay, WI 54308-9343. The cost is $ 5.00 plus $ 1.25 for postage and handling. Net proceeds from sale of this edition will go toward further editions, a videotape presentation of this history, and to the development of a library of materials relating to the Urantia movement.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Annette_Crawford/Mother_Of_My_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mother Of My Soul...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Lighten_Life_News_01">
+          <span class="pr-2">Lighten Life News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

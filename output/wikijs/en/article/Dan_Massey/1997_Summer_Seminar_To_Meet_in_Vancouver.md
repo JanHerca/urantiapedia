@@ -8,9 +8,33 @@ editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dan Masssey<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dan Massey<br>© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 96 Photo Essay</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="pr-2">Three Rs: Relationship, Religion and Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-By Dan Masssey
+
+By Dan Massey
 
 The Fellowship has scheduled the 1997 Summer Session at the University of British Columbia in Vancouver July 10-13, 1997. Spiritual and artistic retreats will occur two days prior in this lovely setting. The campus is situated on a wooded peninsula jutting out into the pristine Georgia Straits and features miles of forested trails leading to unspoiled beaches, all within a 10-minute walk of the school.
 
@@ -44,3 +68,27 @@ Final checkout can be extended to Tuesday morning, July 15 th.
 Registration information will be mailed in early spring.
 
 For more information, contact the Fellowship, 529 Wrightwood Avenue, Chicago, IL 60614, (773) 327-0424, (773) 327-6159 Fax.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 96 Photo Essay</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="pr-2">Three Rs: Relationship, Religion and Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

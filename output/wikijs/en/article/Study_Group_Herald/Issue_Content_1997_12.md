@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_9">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Frontpage7.jpg">
@@ -60,3 +81,24 @@ We have a change to orient you to in this issue of the Herald. Our references to
 Thanks to Patricia Fearey, Chuck Thurston, Stephen Zendt and everyone else involved with the Pattern series at IC 96 for the use of their incredible art throughout this magazine. The Pattern slide show was an inspiring visual and meditative experience at IC 96.
 
 I'd like to share a story with you about the article from a newspaper in Colombia that appears on page 22. The article, published in Spanish, was submitted at deadline. At that same time I was entering into a friendship with Luis Camacho, a Tampa Bay area resident who was born and raised in Puerto Rico. Spanish is Luis' first language. His introduction to _The Urantia Book_ came in the translation of this article into English. He would dictate a translated sentence to me and then stop, sit down and read through the article, stroke his chin and exclaim, “Is this for real? Cool. What is this book?” I love how the angels put us to work. And thank you, Luis, for your help and the spirit of loving service you exemplify in your life.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_9">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

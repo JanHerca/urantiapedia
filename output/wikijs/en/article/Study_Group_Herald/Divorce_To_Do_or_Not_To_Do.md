@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Burden of the Basket</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="pr-2">Men and Women in Partnership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/reading.jpg">
@@ -50,3 +74,27 @@ He even tells us not to harbor guilt. This is one of the most difficult feelings
 Divorce was one situation that Jesus didn'texperience. Idon't think he would ever consider such a thing. The pattern of the universe is decidedly a matter of complete loyalty to one another.
 
 I can hear my father say, “Don't take yourself so seriously. You are just a babe in God's eyes and He understands you.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Burden of the Basket</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="pr-2">Men and Women in Partnership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Wayne and Ute Ferrier<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/International_Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="pr-2">Regarding Instructions or Mandates </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Wayne and Ute Ferrier, Wiliamsport, Pennsylvania
 
@@ -32,7 +56,7 @@ Biblical scholars have been intrigued by the fact that Melchizedek was a Canaani
 
 Genesis describes a meeting between Abraham and the priest-king Melchizedek. Abraham had just retumed from a victorious battle and attributed his success to Melchizedek, to whom he gave 10 percent of his booty. Melchizedek in turn gave Abraham bread and wine. While the biblical story makes it look like Melchizedekblessed Abraham's battle, the Urantia Papers state that Melchizedek tried to persuade Abraham to give up his crusade of conquest.
 
-> “Melchizedek explained to Abraham the futility of contending with the Amorite confederation but made it equally clear that these backwards clans were certainly committing suicide by their foolish practices so that in a few generations they would be so weakened that the descendants of Abraham, meanwhile greatly increased, could easily overcome them.” (Urantia Book, [UB 93:6.2](/en/The_Urantia_Book/93#p6_2))
+> “Melchizedek explained to Abraham the futility of contending with the Amorite confederation but made it equally clear that these backwards clans were certainly committing suicide by their foolish practices so that in a few generations they would be so weakened that the descendants of Abraham, meanwhile greatly increased, could easily overcome them.” (Urantia Book, <a id="a34_369"></a>[UB 93:6.2](/en/The_Urantia_Book/93#p6_2))
 
 Melchizedekdid not fear Abraham's enemies and would not defend against them but allowed Abraham to do so, while still encouraging him to abandon warfare altogether. Melchizedek tolerated slow change while constantly advising better alternatives. Later in life, Abraham yielded to Melchizedek'swisdom and gave up warfare.
 
@@ -76,9 +100,9 @@ The most significant successes of Melchizedek's bestowal are that he revived mon
 
 Abraham's covenant with Yahweh is the centerpiece of the message in Genesis. Yahweh appears as the patriarch's partner. God is accessible, according to Melchizedek, but grander than that, God only requires faith for his relationship to work. God promises to uphold everything. Man only needs faith and desire to do the Father's will.
 
-“This covenant of Melchizedek with Abraham represents the great Urantian agreement between divinity and humanity, whereby God agrees to do everything; man only agrees to believe God's promises and follow his instructions.” (Urantia Book, [UB 93:6.4](/en/The_Urantia_Book/93#p6_4))
+“This covenant of Melchizedek with Abraham represents the great Urantian agreement between divinity and humanity, whereby God agrees to do everything; man only agrees to believe God's promises and follow his instructions.” (Urantia Book, <a id="a78_238"></a>[UB 93:6.4](/en/The_Urantia_Book/93#p6_4))
 
-Abraham took the covenant even more seriously after the birth of his son Isaac and went to Salem to have the covenant put in writing. It was at this formal and public acceptance that he changed his name from Abram to Abraham. (Urantia Book, [UB 93:6.5](/en/The_Urantia_Book/93#p6_5), and [Genesis 17](/en/Bible/Genesis/17))
+Abraham took the covenant even more seriously after the birth of his son Isaac and went to Salem to have the covenant put in writing. It was at this formal and public acceptance that he changed his name from Abram to Abraham. (Urantia Book, <a id="a80_241"></a>[UB 93:6.5](/en/The_Urantia_Book/93#p6_5), and [Genesis 17](/en/Bible/Genesis/17))
 
 Jesus built upon the heritage of Melchizedek's teachings when he instructed his apostles on the third preaching tour: "Salvation is the gift of the Father and is revealed by his Sons. Acceptance by faith on your part makes you a partaker of the divine nature, a son or a daughter of God. By faith you are eternally advanced in the way of progressive and divine perfection. By faith was Abraham justified and made aware of salvation by the teachings of Melchizedek. All down through the ages has this same faith saved the sons of men, but now has a Son come forth from the Father to make salvation more real and acceptable." (Urantia Book, pgs. 1682-1683)
 
@@ -99,3 +123,27 @@ Jesus built upon the heritage of Melchizedek's teachings when he instructed his 
 - _The Urantia Book_. Chicago: Urantia Foundation, 1955; Paper 93. (For further reading consult Papers 94-98.)
 - Vriezen, Th. C.: _The Religion of Ancient Israel_. Philadelphia: Westminster Press, 1967; pg. 24, 109, 181.
 - Bible: [Gen. 14:18-20](/en/Bible/Genesis/14#v18); [Heb. 5:5-10](/en/Bible/Hebrews/5#v5); [Heb. 6:20](/en/Bible/Hebrews/6#v20); [Heb. 7:1-3, 17, 21](/en/Bible/Hebrews/7#v1); [Psalms 110:4](/en/Bible/Psalms/110#v4); [Psalms 76:2](/en/Bible/Psalms/76#v2).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/International_Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="pr-2">Regarding Instructions or Mandates </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

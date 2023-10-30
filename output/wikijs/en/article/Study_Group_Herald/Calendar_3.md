@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington/Divine_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divine Nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Feb. 2-4, 1996, Mid-year General Council Meeting, Chicago, IL. All members welcome. Contact: John Hales at The Fellowship (312) 327-0424.
 
@@ -24,7 +45,7 @@ May 25-26, Whole Life Expo, Boulder, CO. Contact: Paula Thompson or Mary Ebben (
 
 Aug. 3-8, International Conference 1996, Flagstaff, AZ. Theme: “Living Faith.” Contact: The Fellowship (312) 327-0424.
 
-“... choosing to do the will of God joins spiritual faith to material decisions in personality action and thus supplies a divine and spiritual fulcrum for the more effective functioning of the human and material leverage of God-hunger.” ([UB 110:6.17](/en/The_Urantia_Book/110#p6_17))
+“... choosing to do the will of God joins spiritual faith to material decisions in personality action and thus supplies a divine and spiritual fulcrum for the more effective functioning of the human and material leverage of God-hunger.” (<a id="a26_238"></a>[UB 110:6.17](/en/The_Urantia_Book/110#p6_17))
 
 ## The Decision
 
@@ -142,3 +163,25 @@ Fax your orders paid by credit card today to (312) 327-6159 or use the handy ord
 Orders will be filled promptly after printing, scheduled for March 1996.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Janet_Farrington/Divine_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divine Nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

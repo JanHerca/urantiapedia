@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/The_Grapevine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Grapevine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Ascending_Currents">
+          <span class="pr-2">Ascending Currents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Editor's Note: _For the consideration of a donation of \$20 to The Study Group Herald, up to one column inch of this section will be made available for your notice. Maximum size for notices is 2-1/2 inches. Submit all notices with your donations to The Study Group Herald, 529 Wrightwood Ave., Chicago, IL 60614. Make your checks payable to the Fellowship._
 >
@@ -75,3 +99,27 @@ Study Groups of _The Urantia Book_:
 **Book Cover** for _The Urantia Book_. Three rich colors in a durable eel-skin style with a sturdy zipper, front pocket for papers and thick padded back and front. Call Good Cheer Press to order one or two (for a friend) now. 1 (800) 767-5863.
 
 **Spiritual Coloring Book** for children. Call Good Cheer Press at 1 (800) 767-5683.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/The_Grapevine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Grapevine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Ascending_Currents">
+          <span class="pr-2">Ascending Currents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

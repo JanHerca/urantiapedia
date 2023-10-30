@@ -9,10 +9,34 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Paula J. Thompson<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups of Arizona</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="pr-2">Enjoying the Spectacle of the Parliament</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Paula J. Thompson, Boulder, Colorado
 
-“The kingdom of Heaven is neither a social nor economic order; it is an exclusively spiritual brotherhood of God-knowing individuals.”, (Urantia Book, [UB 99:3.2](/en/The_Urantia_Book/99#p3_2))
+“The kingdom of Heaven is neither a social nor economic order; it is an exclusively spiritual brotherhood of God-knowing individuals.”, (Urantia Book, <a id="a14_151"></a>[UB 99:3.2](/en/The_Urantia_Book/99#p3_2))
 
 The first Parliament of World's Religions occurred in 1893 at the Palmer House Hotel in Chicago. The list of religions represented at that historic event reads like a Who's Who of 20th century religions.
 
@@ -62,3 +86,27 @@ Embrace us now.
 And lift the veil of dark despair,
 Show us the wonder of your light
 And the many sparkling colors there.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups of Arizona</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="pr-2">Enjoying the Spectacle of the Parliament</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

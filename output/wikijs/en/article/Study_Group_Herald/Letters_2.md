@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jim_Breffni/The_Irish_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Irish Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Lisk/Universal_Love_Father_A_Poem_A_Song">
+          <span class="pr-2">Universal Love Father — A Poem, A Song</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Belconnen, Australia
@@ -325,3 +349,27 @@ Oblempon Niko
 > Ed. Note: _As I receive all of these letters from all parts of Urantia, I actually feel the size of the planet shrink. You all seem so intimately near. It's such a wonderful feeling... let us build the Kingdom together._
 > Chilufya
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jim_Breffni/The_Irish_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Irish Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Lisk/Universal_Love_Father_A_Poem_A_Song">
+          <span class="pr-2">Universal Love Father — A Poem, A Song</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

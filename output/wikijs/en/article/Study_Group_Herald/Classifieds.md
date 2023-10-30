@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board">
+          <span class="pr-2">Bulletin Board</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By approval of the editorial staff and for the consideration of a donation of $20.00 to the STUDY GROUP HERALD one column inch of this classified section woill be made available for your notices. Maximum size for notices is 2 &frac12; inches. Submit all notices with donations to The Study Group Herald, 529 Wrightwood Avenue, Chicago IL 60614. Make checks payable to The FELLOWSHIP._
 
@@ -47,3 +71,27 @@ _The STUDY GROUP HERALD does not accept responsibility for products or services 
 **MEDITATION TAPES/MENTAL VACATIONS**. “Aqua Landscapes”... Soothing music interlacing ocean images. “Spring Meadows”... Rest in the tall, soft grass of a spring meadow. Send $ 6.00 for each 60 minute tape to Sound Shoppe Workshop. 106 Cranes Lake Drive, Ponte Verdra, FL 32082.
 
 **NOW AVAILABLE. BIRTH OF A REVELATION**, The Story of the Urantia Papers By Mark Kulieke. Contact Mark by Phone (414)465-9864 or send \$6.25 to Mark Kulieke, P.O. Box 9343, Green Bay, WI 54308-9343.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board">
+          <span class="pr-2">Bulletin Board</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

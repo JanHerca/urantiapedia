@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planetary Government of Urantia Additional Definitions and References</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">The Urantia Book at the Parliament of World's Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Greetings, fellow readers of the Fifth Epochal Revelation. With this issue of_ The Study Group Herald, _we are going to meet the study groups in Arizona. This state is home to the Grand Canyon Society of the Fellowship. And, as you read about each study group in this southwestern state, you'll see that the groups are not only well established but very active in their efforts to promote_ The Urantia Book.
 
@@ -114,7 +138,7 @@ The group was studying Paper 14 , The Central and Divine Universe, when the Maxt
 
 
 
-In business as well as spirituality, I have learned not to prejudge or underestimate the curiosity or tenacity of people, the perfect functioning of their Adjusters and the powers of three great spirit discerners of revelation: Michael's Spirit of Truth; the Mother Spirit's selfbestowing, adjutant sensitivities, and the mentally inherent “reality response.” ([UB 16:6.4](/en/The_Urantia_Book/16#p6_4))
+In business as well as spirituality, I have learned not to prejudge or underestimate the curiosity or tenacity of people, the perfect functioning of their Adjusters and the powers of three great spirit discerners of revelation: Michael's Spirit of Truth; the Mother Spirit's selfbestowing, adjutant sensitivities, and the mentally inherent “reality response.” (<a id="a116_361"></a>[UB 16:6.4](/en/The_Urantia_Book/16#p6_4))
 
 Among others who attend the group regularly are Dick and Peggy Johnson. and Eve McMahon. Although Larry is the host, he is not necessarily the leader. The group tends to lead itself and depends on the collective wisdom of its members, who together have about 100 years of readership. Most of the members of this group attend other study groups in the Phoenix area.
 
@@ -133,3 +157,27 @@ We have a Christmas party pot luck, and last year the group went to the mountain
 We have been in the group since September 1993. Some people have read the book 20 years or more and have been in many study groups across the country. A number of people come infrequently, saying that they prefer to read on their own.
 
 We have supplied a number of books to bookstores but don't do any active recruiting. We have no formal leader, although several of the long-time readers certainly have a better understanding of issues than the rest of us.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planetary Government of Urantia Additional Definitions and References</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">The Urantia Book at the Parliament of World's Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

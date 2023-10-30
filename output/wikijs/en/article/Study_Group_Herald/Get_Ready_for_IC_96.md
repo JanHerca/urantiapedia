@@ -9,8 +9,32 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Michael Gillespie, Robin Robinson \& Melissa Wells<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">General Council Meets in San Francisco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline">
+          <span class="pr-2">Dateline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-“... the faith of spirt born man confers the assurance of living fellowship with the eternal God.” _The Urantia Book_ [UB 178:1.11](/en/The_Urantia_Book/178#p1_11)
+
+“... the faith of spirt born man confers the assurance of living fellowship with the eternal God.” _The Urantia Book_ <a id="a12_118"></a>[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)
 
 **By Michael Gillespie, Robin Robinson \& Melissa Wells**
 
@@ -121,3 +145,27 @@ Siegel plans to add park benches for folks to sit and enjoy fair events along wi
 Plans for events and entertainment are still shaping up. Siegel is asking for suggestions and assistance from any readers with experience organizing carnival rides, watermelon contests, threelegged races and entertainment. She'll also need help setting up the site on Thursday, August 8th.
 
 For those who are interested in this opportunity for service, Siegel may be contacted at (303) 447-0212, preferably Monday through Friday between 9:30 and 11 a.m. (Rocky Mountain time).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">General Council Meets in San Francisco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Dateline">
+          <span class="pr-2">Dateline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Wayne Ferrier<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Facts from Urantia Files</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="pr-2">What Am I? Who Am I? An Introspection Of Myself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Water.jpg">
@@ -119,3 +143,27 @@ The old man stated, “I find many things about creation extraordinary and have 
 
 > EDITOR'S NOTE TO ALL KIDS We are very excited abour HERALD. We are of THE STUDY GROUP who can send in the best starting a contest to see whork and other stuff. kid's or kids' stories, artwo with a promise to print We're starting in this issue and his fandor that any kids' pictures of Amandon and his fandor that we get. (A kid is any son of God!)
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Facts from Urantia Files</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="pr-2">What Am I? Who Am I? An Introspection Of Myself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

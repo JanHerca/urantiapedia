@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Claudia Ayers and Larry Watkins<br>© 1994 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divorce: To Do or Not To Do?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="pr-2">Abortion and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Claudia Ayers and Larry Watkins, Sacramento, California
 
@@ -79,76 +103,76 @@ There is a divine plan exalting the relationship between masculine and feminine 
 
 Page | Begins With/Ends With
 --- | ---
-[UB 69:3.8](/en/The_Urantia_Book/69#p3_8) | Differentiation based on diverse.../skilled labor.
-[UB 84:5.3-14](/en/The_Urantia_Book/84#p5_3) | The modern idea.../equal terms.
-[UB 84:6.2-8](/en/The_Urantia_Book/84#p6_2) | The partnership.../husband and wife.
-[UB 111:4.6](/en/The_Urantia_Book/111#p4_6) | Snow crystals are.../always unique.
+<a id="a81_0"></a>[UB 69:3.8](/en/The_Urantia_Book/69#p3_8) | Differentiation based on diverse.../skilled labor.
+<a id="a82_0"></a>[UB 84:5.3-14](/en/The_Urantia_Book/84#p5_3) | The modern idea.../equal terms.
+<a id="a83_0"></a>[UB 84:6.2-8](/en/The_Urantia_Book/84#p6_2) | The partnership.../husband and wife.
+<a id="a84_0"></a>[UB 111:4.6](/en/The_Urantia_Book/111#p4_6) | Snow crystals are.../always unique.
 
 **Group 2 — Cooperation Is A Necessity**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 28:5.15](/en/The_Urantia_Book/28#p5_15) | There are the.../your fellows.
-[UB 68:1.4-5](/en/The_Urantia_Book/68#p1_4) | Primitive human.../human civilization.
-[UB 84:1.9](/en/The_Urantia_Book/84#p1_9) | Regardless of the.../happiness.
-[UB 111:4.7](/en/The_Urantia_Book/111#p4_7) | Happiness and joy.../with others.
-[UB 133:5.6](/en/The_Urantia_Book/133#p5_6) | Mathematics asserts.../its parts.
-[UB 160:2.1](/en/The_Urantia_Book/160#p2_1) | 2\. The Art of Living.../of maturity.
+<a id="a90_0"></a>[UB 28:5.15](/en/The_Urantia_Book/28#p5_15) | There are the.../your fellows.
+<a id="a91_0"></a>[UB 68:1.4-5](/en/The_Urantia_Book/68#p1_4) | Primitive human.../human civilization.
+<a id="a92_0"></a>[UB 84:1.9](/en/The_Urantia_Book/84#p1_9) | Regardless of the.../happiness.
+<a id="a93_0"></a>[UB 111:4.7](/en/The_Urantia_Book/111#p4_7) | Happiness and joy.../with others.
+<a id="a94_0"></a>[UB 133:5.6](/en/The_Urantia_Book/133#p5_6) | Mathematics asserts.../its parts.
+<a id="a95_0"></a>[UB 160:2.1](/en/The_Urantia_Book/160#p2_1) | 2\. The Art of Living.../of maturity.
 
 **Group 3 — Attitudes of Equality**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 52:2.7-8](/en/The_Urantia_Book/52#p2_7) | This is the.../family life.
-[UB 83:6.1](/en/The_Urantia_Book/83#p6_1) | 6\. True Monogamy.../self-perpetuation.
-[UB 83:8.8-9](/en/The_Urantia_Book/83#p8_8) | The ideals of.../past generations.
-[UB 84:5.7](/en/The_Urantia_Book/84#p5_7) | Science.../woman power.
-[UB 150:1.3](/en/The_Urantia_Book/150#p1_3) | It was most.../out in practice.
-[UB 167:5.5](/en/The_Urantia_Book/167#p5_5) | And so, while Jesus refused.../divorce privileges.
+<a id="a101_0"></a>[UB 52:2.7-8](/en/The_Urantia_Book/52#p2_7) | This is the.../family life.
+<a id="a102_0"></a>[UB 83:6.1](/en/The_Urantia_Book/83#p6_1) | 6\. True Monogamy.../self-perpetuation.
+<a id="a103_0"></a>[UB 83:8.8-9](/en/The_Urantia_Book/83#p8_8) | The ideals of.../past generations.
+<a id="a104_0"></a>[UB 84:5.7](/en/The_Urantia_Book/84#p5_7) | Science.../woman power.
+<a id="a105_0"></a>[UB 150:1.3](/en/The_Urantia_Book/150#p1_3) | It was most.../out in practice.
+<a id="a106_0"></a>[UB 167:5.5](/en/The_Urantia_Book/167#p5_5) | And so, while Jesus refused.../divorce privileges.
 
 **Group 4 — Struggle Between Men and Women**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 69:3.11](/en/The_Urantia_Book/69#p3_11) | Specialization based.../furnishing the home.
-[UB 69:7.5](/en/The_Urantia_Book/69#p7_5) | When man was.../human history.
-[UB 83:7.7-8](/en/The_Urantia_Book/83#p7_7) | The high degree.../evolving mores.
-[UB 84:3.7](/en/The_Urantia_Book/84#p3_7) | Woman has always.../methods of labor.
-[UB 84:4.1](/en/The_Urantia_Book/84#p4_1) | 4\. Woman's Status.../mode of existence.
-[UB 84:5.10-14](/en/The_Urantia_Book/84#p5_10) | In the ideals.../equal terms.
+<a id="a112_0"></a>[UB 69:3.11](/en/The_Urantia_Book/69#p3_11) | Specialization based.../furnishing the home.
+<a id="a113_0"></a>[UB 69:7.5](/en/The_Urantia_Book/69#p7_5) | When man was.../human history.
+<a id="a114_0"></a>[UB 83:7.7-8](/en/The_Urantia_Book/83#p7_7) | The high degree.../evolving mores.
+<a id="a115_0"></a>[UB 84:3.7](/en/The_Urantia_Book/84#p3_7) | Woman has always.../methods of labor.
+<a id="a116_0"></a>[UB 84:4.1](/en/The_Urantia_Book/84#p4_1) | 4\. Woman's Status.../mode of existence.
+<a id="a117_0"></a>[UB 84:5.10-14](/en/The_Urantia_Book/84#p5_10) | In the ideals.../equal terms.
 
 **Group 5 — Value of Partnership**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 68:2.8](/en/The_Urantia_Book/68#p2_8) | Almost everything.../to their children.
-[UB 83:8.6-9](/en/The_Urantia_Book/83#p8_6) | Marriage always.../generations.
-[UB 84:1.2](/en/The_Urantia_Book/84#p1_2) | Woman, because.../children.
-[UB 84:3.1](/en/The_Urantia_Book/84#p3_1) | It may.../patriarchal order.
-[UB 84:6.8](/en/The_Urantia_Book/84#p6_8) | Marriage is the.../husband and wife.
-[UB 84:7.8-9](/en/The_Urantia_Book/84#p7_8) | But the home.../her way.
+<a id="a123_0"></a>[UB 68:2.8](/en/The_Urantia_Book/68#p2_8) | Almost everything.../to their children.
+<a id="a124_0"></a>[UB 83:8.6-9](/en/The_Urantia_Book/83#p8_6) | Marriage always.../generations.
+<a id="a125_0"></a>[UB 84:1.2](/en/The_Urantia_Book/84#p1_2) | Woman, because.../children.
+<a id="a126_0"></a>[UB 84:3.1](/en/The_Urantia_Book/84#p3_1) | It may.../patriarchal order.
+<a id="a127_0"></a>[UB 84:6.8](/en/The_Urantia_Book/84#p6_8) | Marriage is the.../husband and wife.
+<a id="a128_0"></a>[UB 84:7.8-9](/en/The_Urantia_Book/84#p7_8) | But the home.../her way.
 
 **Group 6 — Religion Retarding Equality**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 84:3.2](/en/The_Urantia_Book/84#p3_2) | The scant courtesy.../shepherd.
-[UB 89:3.6-7](/en/The_Urantia_Book/89#p3_6) | It was only.../followers.
-[UB 167:6.4](/en/The_Urantia_Book/167#p6_4) | Woman's status.../taught them.
-[UB 194:3.14](/en/The_Urantia_Book/194#p3_14) | Before the teachings.../liberty.
+<a id="a134_0"></a>[UB 84:3.2](/en/The_Urantia_Book/84#p3_2) | The scant courtesy.../shepherd.
+<a id="a135_0"></a>[UB 89:3.6-7](/en/The_Urantia_Book/89#p3_6) | It was only.../followers.
+<a id="a136_0"></a>[UB 167:6.4](/en/The_Urantia_Book/167#p6_4) | Woman's status.../taught them.
+<a id="a137_0"></a>[UB 194:3.14](/en/The_Urantia_Book/194#p3_14) | Before the teachings.../liberty.
 
 **Group 7 — Jesus' Character Values**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 139:0.1](/en/The_Urantia_Book/139#p0_1) | Paper 139
+<a id="a143_0"></a>[UB 139:0.1](/en/The_Urantia_Book/139#p0_1) | Paper 139
 
 **Group 8 — Mortal Roles**
 
 Page | Begins With/Ends With
 --- | ---
-[UB 33:3.1-8](/en/The_Urantia_Book/33#p3_1) | 3\. The Universe Son and Spirit.../the other.
-[UB 34:4.3-7](/en/The_Urantia_Book/34#p4_3) | The Creator Son.../Holy Spirit.
+<a id="a149_0"></a>[UB 33:3.1-8](/en/The_Urantia_Book/33#p3_1) | 3\. The Universe Son and Spirit.../the other.
+<a id="a150_0"></a>[UB 34:4.3-7](/en/The_Urantia_Book/34#p4_3) | The Creator Son.../Holy Spirit.
 
 ## Bibliography
 
@@ -175,4 +199,28 @@ Page | Begins With/Ends With
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/marriage.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divorce: To Do or Not To Do?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#fall-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1994 — Vol. 4 No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="pr-2">Abortion and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,10 +9,34 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 David Glass<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1991_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, December 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Annette_Crawford/Studies_In_Marriage_Home_And_Children">
+          <span class="pr-2">Studies In Marriage, Home And Children</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Reported by David Glass, Fort Worth, Texas_
 
-> “_Then Jesus spoke, saying: ‘Now that you are ambassadors of my Father's kingdom, you have become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world. It is not enough that you live as you were before this hour, but henceforth must you live as those who have tasted the glories of a better life and have been sent back to earth as ambassadors of the sovereign of that new and better world’._” [UB 140:3.1](/en/The_Urantia_Book/140#p3_1)
+> “_Then Jesus spoke, saying: ‘Now that you are ambassadors of my Father's kingdom, you have become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world. It is not enough that you live as you were before this hour, but henceforth must you live as those who have tasted the glories of a better life and have been sent back to earth as ambassadors of the sovereign of that new and better world’._” <a id="a14_554"></a>[UB 140:3.1](/en/The_Urantia_Book/140#p3_1)
 
 **The First Society Of Oklahoma**
 
@@ -84,3 +108,27 @@ The numerous creative projects which are always under way involve many society m
 Another leader in the Oklahoma Society who does such creative work and who contributes very much to the life of the society is Harry McMullan III. Harry has written two booklets: “Why I believe _The Urantia Book_” and “Jesus and _The Urantia Book_.” He is also author of, “21 Steps to a Spiritual Awakening” and is working on “A Dictionary of _The Urantia Book_.”
 
 Apart from their many accomplishments, the members of the Oklahoma Society radiate an inviting and welcoming attitude toward all who come to meet and fellowship with them, whatever the occasion. Tom Allen, the current president of First Society of Oklahoma, extends his invitation to all readers to visit the Oklahoma group whenever possible. Berkeley is a most congenial hostess and always makes sure that newcomers and guests are introduced around the circle of these gregarious readers. Such hospitality and warmth gives clear evidence that cooperative service is transformative and that genuine love is lastingly contagious and elicitous of mutual affection as well.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Issue_Content_1991_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Issue Content, December 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Annette_Crawford/Studies_In_Marriage_Home_And_Children">
+          <span class="pr-2">Studies In Marriage, Home And Children</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

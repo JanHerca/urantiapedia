@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="pr-2">Bulletin Board</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _For the consideration of a donation of $20.00 to The STUDY GROUP HERALD, up to one column inch of this classified section will be made available for your notice. Maximum size for notices is 2 &frac12; inches. Submit all notices with donations to The STUDY GROUP HERALD 529 Wrightwood Avenue, Chicago, IL 60614. Make checks payable to The Felloroship._
 > 
@@ -94,3 +118,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 **NOW A SINGLE SOURCE** for most Urantio Book inspired works including THE PARAMONY by Duane Faw, art prints by Byron, and CALL OF THE SPIRIT by Merritt Horn. Call $1(800)$ 767-LOVE. Help! Help! Our computers were stolen along with our back up records for our Good Cheer Press mail list.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="pr-2">Bulletin Board</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

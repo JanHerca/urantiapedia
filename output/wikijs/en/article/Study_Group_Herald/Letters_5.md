@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Florida_Students_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Florida Students of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_3">
+          <span class="pr-2">Classifieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 March 29, 1993
 
@@ -87,3 +111,27 @@ Her love for others during this terrible time was so disarming that many of her 
 This morning [May 29, 1993] at 9:25 AM, Patricia Ann Amyx took leave to begin her Etemal Career toward Paradise. I am sure our Heavenly Father is very proud of his daughter, my wife, Patricia. She did more than her share to make this planet a better place for us all.
 
 Donations in lieu of flowers may be sent to the PATRICIA AMYX FAMILY BENEFIT TRUST, c\% Unity Church, Kevin Goodman and Susan W. Fox Co-Trustees, 332 Horatio Ave., Tampa, Florida 33609.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Florida_Students_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Florida Students of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Classifieds_3">
+          <span class="pr-2">Classifieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Annie Spiars<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Deity and Gender</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _This poem is from a friend in Flarida who is in the sunset of life on Urantia. She has read _The Urantia Book_ for many decades and is now roorking on a project abour a person in the book. She says that the Father has use for her. There is roonk yer to do here._
 > Adrienne Jarnagin, Houston, Texas
@@ -50,3 +74,27 @@ We're in the winter of our life,
 No more our footsteps roam,
 We pause and rest from all our strife
 Until HE comes to take us home.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Deity and Gender</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1991 — Vol. 1 No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Letters">
+          <span class="pr-2">Letters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

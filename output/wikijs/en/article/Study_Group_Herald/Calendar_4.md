@@ -10,6 +10,27 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Fellowship Is Now On The WWW</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Announcerent
 
@@ -63,7 +84,29 @@ Whole Life Expos will take place this spring in Boston, Atlanta, Austin, West Pa
 <img src="/image/article/Study_Group_Herald/candle.jpg">
 </figure>
 
-> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” _The Urantia Book_ [UB 102:7.10](/en/The_Urantia_Book/102#p7_10)
+> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” _The Urantia Book_ <a id="a65_266"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10)
 
-> “If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme: As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. ‘How universal is the Supreme; he is on all sides! The limitless things of creation depend on his presence for life, and none are refused.’” _The Urantia Book_ [UB 117:6.2](/en/The_Urantia_Book/117#p6_2)
+> “If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme: As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. ‘How universal is the Supreme; he is on all sides! The limitless things of creation depend on his presence for life, and none are refused.’” _The Urantia Book_ <a id="a67_410"></a>[UB 117:6.2](/en/The_Urantia_Book/117#p6_2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Fellowship Is Now On The WWW</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

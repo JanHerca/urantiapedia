@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Issue number 3 was more than eighteen months in production. Some of the letters that were published in the International Readers section were that old. Please accept our sincerest apologies for the delay and be assured that we are working very hard at solving our production problems.
 
@@ -53,3 +74,25 @@ Address \_\_\_\_
 Name \_\_\_\_
 Address \_\_\_\_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#august-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">August 1993 — Vol. 3 No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

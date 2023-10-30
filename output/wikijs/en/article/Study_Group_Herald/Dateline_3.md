@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan Masssey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Three Rs: Relationship, Religion and Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/News_from_Colombia">
+          <span class="pr-2">News from Colombia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Trustees and Five Exec Committee Members Meet
 
@@ -86,3 +110,27 @@ The General Council of the Fellowship met in August 1996 and approved a proposal
 One such TDA resolution concerned reformations to the structure of the General Council, which would provide the right for each society to directly elect a councilor from its group. Potentially, the General Council could have expanded from 36 to 55 members. The proposal, under consideration for more than five years, was voted against at this meeting of the General Council. The proposal had been discussed at several meetings of the General Council and at society conclaves, and was the subject of many reports and position papers.
 
 The General Council elected the following individuals to committee memberships: Judicial, Steve McIntosh, six years; Charter, Bob Bruyn, six years; Fratemal Relations, Gard Jameson, six years and chairman; Domestic Extension, Mo Siegel, six years and chairman; International Fellowship, Susan Ransbottom, six years; Education, Michelle Klimesch, six years, and Patrick Yesh, one year; Publications, Carolyn Kendall, six years; Finance, Steve Wilsey, six years; and Special Projects, Barbara Newsom, six years.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan Masssey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Three Rs: Relationship, Religion and Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1997 — Vol. 6 No. 9 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/News_from_Colombia">
+          <span class="pr-2">News from Colombia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

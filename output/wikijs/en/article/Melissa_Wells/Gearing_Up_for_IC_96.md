@@ -9,13 +9,37 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Melissa Wells<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Last of Founding Trustees Passes Away</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="pr-2">Jesus — The Man, The Hero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/IC_logo.jpg">
 </figure>
 
 
-> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” (_The Urantia Book_, [UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
+> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” (_The Urantia Book_, <a id="a17_268"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
 
 **By Melissa Wells**
 **Raleigh, North Carolina**
@@ -60,3 +84,27 @@ Teenagers can look forward to the challenge of a Ropes Course, an overnight camp
 The conference will conclude in the down-home spirit of the West with a country fair. “We'll have music, dancing, treats, booths, clowns, balloons and a host of interesting people to talk with,” Farrington says.
 
 If you would like to receive more information about IC 96, please contact The Fellowship, 529 Wrightwood Ave., Chicago, IL 60614, (312) 3270424 or fax (312) 327-6159.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Last of Founding Trustees Passes Away</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="pr-2">Jesus — The Man, The Hero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

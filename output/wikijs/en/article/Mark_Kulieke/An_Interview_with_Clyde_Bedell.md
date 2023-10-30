@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Mark Kulieke<br>© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Ascending_Currents">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ascending Currents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="pr-2">Facts from Urantia Files</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following article almost wholly consists of transcribed excerpts from a taped interview with Clyde Bedell conducted by Barbara Kulieke in 1983, a little over one year before Clyde's death._
 
@@ -73,6 +97,30 @@ _Clyde first related how he came to be involved in the Forum:_
 
 "I am moved again and again by this passage on UB 95:7.3:
 
-> “_Had the followers of Jesus taken more seriously his injunction to “go into all the world and preach the gospel,” and had they been more gracious in that preaching, less stringent in collateral social requirements of their own devising, then many lands would gladly have received the simple gospel of the carpenter's son, Arabia among them._” [UB 95:7.3](/en/The_Urantia_Book/95#p7_3)
+> “_Had the followers of Jesus taken more seriously his injunction to “go into all the world and preach the gospel,” and had they been more gracious in that preaching, less stringent in collateral social requirements of their own devising, then many lands would gladly have received the simple gospel of the carpenter's son, Arabia among them._” <a id="a75_346"></a>[UB 95:7.3](/en/The_Urantia_Book/95#p7_3)
 
 “Islam resulted from this failure of Abner's missionaries. Two thousand years later . . . many ... are paying the penalty of the failures of Abner's missionaries. And I wonder how many years from now, people will be paying the penalties and suffering for the failures that we have to follow Jesus' instruction . . . to spread and disseminate this gospel to the world now and forever.” 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Ascending_Currents">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ascending Currents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="pr-2">Facts from Urantia Files</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

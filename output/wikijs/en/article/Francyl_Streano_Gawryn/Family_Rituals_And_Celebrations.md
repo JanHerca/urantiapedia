@@ -9,9 +9,33 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Francyl Streano Gawryn<br>© 1992 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gwen_Wenzel/20_20_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">20 20 20</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Hyde/Urantia_Nuptials">
+          <span class="pr-2">Urantia Nuptials</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Ed. Note: _This column is dedicated to reporting rituals and celebrations used by Urantia Book readers and their families. It is delightful to share with each other the many joys of life. Please con- sider writing about your special family rituals and celebrations for this column and send them (along with pictures!) to the Family Life Editor._
-> “In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution.” ([UB 81:6.23](/en/The_Urantia_Book/81#p6_23))
+> “In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution.” (<a id="a13_120"></a>[UB 81:6.23](/en/The_Urantia_Book/81#p6_23))
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -34,3 +58,27 @@ What I like most about it is that our Communion has given us a definite time whe
 As teachers, mom \& dad don't always come up with the most intriguing and engaging lesson plan, and some lessons go better than others, but the overall effect is that God is a frequent topic as well as a friend in our household and discussions and questions of a spiritual nature are common.
 
 I wish that I could say that I think my children are more spiritual because of this experience, but I don't think they are. They're pretty typical (wonderful!) kids. But I do think that our family life has been spiritually enriched by it and because of it, we share a comfortable space and time together as a family recognizing our common spiritual bond with each other and with all of God's children. And, I think _that's_ pretty special!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gwen_Wenzel/20_20_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">20 20 20</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#december-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1992 — Vol. 2 No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Hyde/Urantia_Nuptials">
+          <span class="pr-2">Urantia Nuptials</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

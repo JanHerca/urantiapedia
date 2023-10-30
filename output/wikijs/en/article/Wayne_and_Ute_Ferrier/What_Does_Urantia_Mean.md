@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Wayne and Ute Ferrier<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Close Proximity — The World of the Nonbreathers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Study Groups of Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **By Wayne and Ute Ferrier**
 **Berkshire, New York**
@@ -70,6 +94,31 @@ Stories from Dalamatia and Eden had been told and retold, being distorted after 
 Aphrodite Urania was worshipped as goddess of the sea. She had been created from the foam of the sea, which came from the genitals of Uranus (heaven). Like Urania, Urantia's evolutionary life was born in the sea, planted here from the heavens.
 
 Derivations of the word Urantia show up with many peoples, the Sumerians, Assyrians, Babylonians, Greeks and, in particular, Vanites.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Close Proximity — The World of the Nonbreathers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Study Groups of Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Bibliography
 

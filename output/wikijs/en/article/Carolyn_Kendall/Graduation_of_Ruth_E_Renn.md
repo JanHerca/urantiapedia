@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC'96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar_2">
+          <span class="pr-2">Calendar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Carolyn Kendall
 
@@ -45,3 +69,27 @@ Renn herself was vice president of the Seventy in 1953. She later served on the 
 Renn was born in Crystal Lake, Illinois and was a member of Presbyterian churches in Chicago and suburbs. She lived for many years at a retirement home in Evanston, Illinois and passed to the worlds on high January 22,4996 She would have been 100 on July 29th
 
 She leaves a daughter, Betty MacDonald of Albuquerque, New Mexico and six grandchildren. She predeceased her husband Leroy (d. 1950), son Richard (d. 1970) and granddaughter Corlin Renn Sherwood (d. 1993).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Study_Group_Herald/IC96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC'96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_study_group_herald#spring/summer-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring/Summer 1996 — Vol. 6 No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Study_Group_Herald/Calendar_2">
+          <span class="pr-2">Calendar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
