@@ -148,7 +148,7 @@ The dispensation of the Spirit of Truth under the transcendent guidance of Micha
 
 Will the story of your universe career show that you were a creative participant or merely an observer? All Urantia is waiting. 
 
-> David Kantor is the director of Urantia Book Films, sponsored by Rocky Mountain Spiritual Fellowship. He is producer of the Amazon Prime film, "Re-Imagining Jesus" and has a new film, "Who Say You That I Am?" currently in production, optimistically projected for completion by the end of 2020. He was also on the editorial team for the newly published book, "The Untold Story of Jesus." 
+> David Kantor is the director of Urantia Book Films, sponsored by Rocky Mountain Spiritual Fellowship. He is producer of the Amazon Prime film, “Re-Imagining Jesus” and has a new film, “Who Say You That I Am?” currently in production, optimistically projected for completion by the end of 2020. He was also on the editorial team for the newly published book, “The Untold Story of Jesus.”
 {.is-info}
 
 <figure id="Figure_2" class="image urantiapedia">

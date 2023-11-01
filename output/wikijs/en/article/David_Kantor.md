@@ -10,7 +10,13 @@ dateCreated: 2023-02-06T11:12:37.284Z
 
 ## Bio
 
-David Kantor has been a reader since 1968. He manages The Fellowship's internet services and is Chair of the International Fellowship Committee.
+David Kantor, San Francisco Bay area, has been a member of the General Council for two years. This paper is the basis of a presentation which Kantor made to the General Council at its mid-year meeting in January 1995.
+
+David Kantor has been a reader since 1968, and has been a computer software designer for managing corporate voice and data communication networks. He manages The Fellowship's internet services and is Chair of the International Fellowship Committee.
+
+He is vice president of the Rocky Mountain Spiritual Fellowship. He has recently written, directed, and produced a feature length film, “_Re-Imagining Jesus_”, based on _The Urantia Book_.
+
+David Kantor is the director of Urantia Book Films, sponsored by Rocky Mountain Spiritual Fellowship. He is producer of the Amazon Prime film, “Re-Imagining Jesus” and has a new film, “Who Say You That I Am?” currently in production, optimistically projected for completion by the end of 2020. He was also on the editorial team for the newly published book, “The Untold Story of Jesus.”
 
 ## Articles
 

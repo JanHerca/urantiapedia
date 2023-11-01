@@ -1,5 +1,5 @@
 ---
-title: Al Lockett
+title: "Al Lockett"
 description:
 published: true
 date: 2023-02-06T11:16:41.388Z

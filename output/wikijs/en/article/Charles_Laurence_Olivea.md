@@ -10,9 +10,11 @@ dateCreated: 2023-02-06T11:12:37.284Z
 
 ## Bio
 
-M. Charles Laurence Olivea is a long-time Urantia Book reader, drawn by its clarity of language, wisdom of thought, and the matchless story of Jesus. He and his wife Mary have two sons, Peter (30) and Gordon (29). Last year Charles retired from his career as a public high school history teacher. He and Mary now live in Santa Fe, NM.
+M. Charles Laurence Olivea is a long-time Urantia Book reader, drawn by its clarity of language, wisdom of thought, and the matchless story of Jesus. Born in New York City in 1943, Charles Laurence Olivea married his wife, Mary, in 1966. We raised two sons, Peter and Gordon, both of who are fathers to a grandson each. Last year Charles retired from his career as a public high school history teacher. He and Mary now live in Santa Fe, NM.
 
 Charles Laurence Olivea has read and studied the teachings of _The Urantia Book_ for a long time now and has tried to live according to its higher learning. His life is marked by a conscious search for truth which led him to _The Urantia Book_ and continues to hold his loyalty in helping to disseminate its teachings and the book. In this regard, he agrees with Gandhi, that his life has been an “experiment with truth.” When he graduates to the Mansion Worlds, he would like his life to be assessed, by any who might care to do it, in terms of the Fruits of the Spirit.
+
+He first encountered _The Urantia Book_ in 1965. He became a serious student of the revelation in 1968 and have studied it ever since. He believed it was an epochal revelation when he initially found it and have held it in that light to this day. He thinks of _The Urantia Book_ as a jewel that will not decay, that the Universal Father has given us a blessing of phenomenal scope and depth.
 
 ## Articles
 
