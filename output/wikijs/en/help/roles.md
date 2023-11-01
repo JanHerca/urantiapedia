@@ -37,9 +37,9 @@ The profiles we are looking for to collaborate are these:
 * It will be important to have the aptitude to work in a team in open source environments.
 * Good level of English as all documentation and code comments are in English.
 
-## “Chief Editor” Profile
+## “Editor-in-Chief” Profile
 
-*Chief Editors* can also contribute content via GitHub, just like Admins, even in bulk loads. They do not manage the website but have all the editing capabilities of an Administrator, with the exception of *The Urantia Book*, *The Bible* and some other sensitive content. Check [Chief Editors help](/en/help/github).
+*Editors-in-Chief* can also contribute content via GitHub, just like Admins, even in bulk loads. They do not manage the website but have all the editing capabilities of an Administrator, with the exception of *The Urantia Book*, *The Bible* and some other sensitive content. Check [Editors-in-Chief help](/en/help/github).
 
 * They have an account in this with editing permissions, and another in [GitHub](https://github.com/).
 * They add content to both Urantiapedia projects in GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). They can do bulk load of changes using the second project.
@@ -50,7 +50,7 @@ The profiles we are looking for to collaborate are these:
 
 ## “Assistant Editor” profile
 
-*Assistant Editors* can edit certain sections of the website for which they are given permissions. They can also email revisions and translations for *Admins* or *Chief Editors* to bulk upload, making the job easier for this type of contributors. Check [Assistant Editors help](/en/help/github_assistant).
+*Assistant Editors* can edit certain sections of the website for which they are given permissions. They can also email revisions and translations for *Admins* or *Editors-in-Chief* to bulk upload, making the job easier for this type of contributors. Check [Assistant Editors help](/en/help/github_assistant).
 
 * They have an account on this website with editing permissions. They do not use GitHub, and make additions either by sending through email or by editing directly on this website.
 * A good knowledge of *The Urantia Book* is needed in at least one language, but better if it is English and a second language on which the book is translated.

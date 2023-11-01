@@ -53,7 +53,7 @@ For example:
 
 ## Sending files
 
-If you have modified the listing from the file on GitHub, you have two options for committing your changes: 1) if you are a “Chief Editor” use GitHub as detailed in the [Chief Editors Help](/en/help/github); if you are an “Assistant Editor”, you can simply send that modified Markdown file to any Administrator's email or to urantiapedia@gmail.com.
+If you have modified the listing from the file on GitHub, you have two options for committing your changes: 1) if you are a “Editor-in-Chief” use GitHub as detailed in the [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send that modified Markdown file to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

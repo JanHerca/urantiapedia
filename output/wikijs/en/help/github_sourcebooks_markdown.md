@@ -38,11 +38,11 @@ To obtain digital books, some sources can be:
 
 Whatever the case we find ourselves in, the task of an “Assistant Editor” will be to write down the web address where we have managed to download the book and download it to our PC. Both items should then be sent to any of the *Urantiapedia* Administrators or to urantiapedia@gmail.com. The Admins are creating a Cloud storage collection of all the large files that don't fit on GitHub.
 
-The task is then handed over to a “Chief Editor”, who will process the book into a single Markdown file with all of it. This file is by no means finalized and the job will be to clean it up and format it properly so that it can be uploaded to *Urantiapedia*. This is what we are going to see how to do next.
+The task is then handed over to a “Editor-in-Chief”, who will process the book into a single Markdown file with all of it. This file is by no means finalized and the job will be to clean it up and format it properly so that it can be uploaded to *Urantiapedia*. This is what we are going to see how to do next.
 
 ### Structure of a book on Urantiapedia
 
-If you are a “Chief Editor” and will be using the GitHub platform, books should be saved in these GitHub project folders: `/output/wikijs/en/book` for English books, `/output/wikijs/es/book ` for books in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, within the author's folder, we will create a folder for each book to which we will put a unique name following this criteria:
+If you are a “Editor-in-Chief” and will be using the GitHub platform, books should be saved in these GitHub project folders: `/output/wikijs/en/book` for English books, `/output/wikijs/es/book ` for books in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, within the author's folder, we will create a folder for each book to which we will put a unique name following this criteria:
   - The name will use the title of the book but as abbreviated as possible.
   - The name will always be in English, so if the original book is not in English, the title is translated.
   - Blank spaces are replaced by underscores.
@@ -76,7 +76,7 @@ The “Assistant Editor” should review the text and add the following (as deta
 - Tables.
 - Mathematical formulas or characters in scientific notation.
 
-Some of the above items are complex and an “Assistant Editor” could skip them in a first review. You can simply annotate those parts with some specific markup for a “Chief Editor” to review later.
+Some of the above items are complex and an “Assistant Editor” could skip them in a first review. You can simply annotate those parts with some specific markup for a “Editor-in-Chief” to review later.
 
 ### Header of each file
 
@@ -99,7 +99,7 @@ In the description it is not necessary to put anything.
 
 Put the creation date and current date the same and make it the creation date of the file. The time is not relevant.
 
-In tags you have to put labels, separated by commas, that have been established for that book. Normally “Chief Editors” decide which are the most appropriate tags, so they can be left blank and then filled in all at once in all files of the book.
+In tags you have to put labels, separated by commas, that have been established for that book. Normally “Editors-in-Chief” decide which are the most appropriate tags, so they can be left blank and then filled in all at once in all files of the book.
 
 ### Author
 
@@ -177,7 +177,7 @@ Beyond the asteroids come the four great planets Jupiter, Saturn, Uranus, and Ne
 
 You can see that the markup is: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
 
-Since this task can be tedious, one way to make it simpler is to put in a shorter alternative markup, like `ppp18` if using the previous example. Then a “Chief Editor” can detect these marks and replace them with the definitive ones automatically. That is, it would also be worth:
+Since this task can be tedious, one way to make it simpler is to put in a shorter alternative markup, like `ppp18` if using the previous example. Then a “Editor-in-Chief” can detect these marks and replace them with the definitive ones automatically. That is, it would also be worth:
 
 ```wrap
 Beyond the asteroids come the four great planets Jupiter, Saturn, Uranus, and Neptune, all of them much larger than Earth. Jupiter, the largest, has, according to Sampson, a diameter of 88,640 miles [142,652 km], or ppp18 more than eleven times the diameter of the earth; Fourteen hundred Earth-sized bodies could be packed inside Jupiter and leave room to spare. Saturn, next in order, is second only to Jupiter in size, with a diameter of about 70,000 miles [112,654 km]. These two are by far the largest of the planets.
@@ -196,7 +196,7 @@ Images should be included like this:
 
 You can copy the example above where an image is needed and replace just the following:
 - Where it says `id="Universe_plate_01"` is a unique identifier for the image. You can put any one as long as in the same file of each chapter there are no two alike.
-- Where it says `src="..."` there should be a path to the image file. The path should always start with `/image/`, which is where all the images are, and should be followed by a path identical to the one we have for the book. That is, following the example, since the book is in `/en/book/Sir_James_Jeans/The_Universe_Around_Us`, the images for that book should be in `/image/book/Sir_James_Jeans/The_Universe_Around_Us`. The filename of each image can be anything short, always indicating the extension (`.png` or `.jpg`) of the file. If you don't have the file, which is going to happen initially, you can put any name, and then “Chief Editors” will decide on the final name and extension.
+- Where it says `src="..."` there should be a path to the image file. The path should always start with `/image/`, which is where all the images are, and should be followed by a path identical to the one we have for the book. That is, following the example, since the book is in `/en/book/Sir_James_Jeans/The_Universe_Around_Us`, the images for that book should be in `/image/book/Sir_James_Jeans/The_Universe_Around_Us`. The filename of each image can be anything short, always indicating the extension (`.png` or `.jpg`) of the file. If you don't have the file, which is going to happen initially, you can put any name, and then “Editors-in-Chief” will decide on the final name and extension.
 - If the image has a caption, it should be placed inside the `figcaption` tag.
 
 Since this task of including the image can be tedious, “Assistant Editors” can simply include a mark indicating that there is an image to be found in the original PDF file, something like `iiii` or any repeated char that will never occur in another part of the text.
@@ -247,13 +247,13 @@ If you want to know more about how to format tables in Markdown you can check it
 
 The creation of mathematical formulas or the use of characters in scientific notation is always a complex task in any office software. Markdown makes it easy to create but it is still a complex task depending on the formulas or characters to use.
 
-“Assistant Editors”, in order not to waste too much time here, can simply mark where there are formulas or scientific notation in the text with something like `ffff`, so that a “Chief Editor” can go to those points to check.
+“Assistant Editors”, in order not to waste too much time here, can simply mark where there are formulas or scientific notation in the text with something like `ffff`, so that a “Editor-in-Chief” can go to those points to check.
 
 If you want to know more about how to format formulas and scientific texts in Markdown you can check it out here: [Markdown formatting help](/en/help/markdown).
 
 ## Sending files
 
-If you are a “Chief Editor” using GitHub you can submit the books you create as detailed in the [Chief Editors Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
+If you are a “Editor-in-Chief” using GitHub you can submit the books you create as detailed in the [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

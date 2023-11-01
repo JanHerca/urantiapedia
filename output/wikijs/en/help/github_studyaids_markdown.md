@@ -32,7 +32,7 @@ The task now is to use the content of the study aids to obtain the Markdown file
 
 ### Structure of study aids on Urantiapedia
 
-If you are a “Chief Editor” and will be using the GitHub platform, study aids should be saved in these GitHub project folders: `/output/wikijs/en/article` for English study aids, `/output/wikijs/es/article` for Spanish study aids, etc.
+If you are a “Editor-in-Chief” and will be using the GitHub platform, study aids should be saved in these GitHub project folders: `/output/wikijs/en/article` for English study aids, `/output/wikijs/es/article` for Spanish study aids, etc.
 
 As you can see we use the same folders for articles as for study aids. This is done so that all the works (other than books) made by the same author are gathered in the same project folder.
 
@@ -72,7 +72,7 @@ All these elements have already been explained when talking about how to format 
 
 ## Sending files
 
-If you are a “Chief Editor” using GitHub you can submit study aids as detailed in the [Chief Editors Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
+If you are a “Editor-in-Chief” using GitHub you can submit study aids as detailed in the [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

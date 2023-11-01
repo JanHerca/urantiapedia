@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Here are described the steps needed to translate and review the *Topic Index* to any of languages of *Urantiapedia*. This is a task accomplish by "Chief Editors".
+Here are described the steps needed to translate and review the *Topic Index* to any of languages of *Urantiapedia*. This is a task accomplish by "Editors-in-Chief".
 
 The *Topic Index* is made up of a collection of TXT files derived from the appendix of *Urantia Fellowship* edition of *The Urantia Book* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
@@ -72,7 +72,7 @@ Each file consist of:
         - General or global references to *The Urantia Book* of the entire topic. This value can be empty. These links will be displayed on *Urantiapedia* as a "See also" top section with a list of links.
         - Links to other topics. This value can be empty. Represents one or more topics that are related to current topic. They will appear at the bottom of the page that will be generated, in the list of "Links" section. If more than one link exists they will be separated by `;`. It is possible to add links to specific sections inside a topic using `:`. For example: `baptism:Jesus baptism` is a link that points to topic page `baptism` and inside it to section about Jesus baptism.
         - Topic category. This value can be empty. There are five categories: Persons (`PERSON`), places (`PLACE`), orders of beings (`ORDER`), religions (`RELIGION`), and races (`RACE`). These categories allow to work only in one of them for better separation of tasks and to generate indexes.
-        - Status. "Chief Editors" should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
+        - Status. "Editors-in-Chief" should write `OK` when they have finished their reviewing task with a topic. If the topic is still pending review, it will be empty.
     - The following lines, if they exist, are the topic content. These lines are also short tables that may or may not have values ​​separated by `|` (vertical bar). There are two types of tables:
         - Table of a single cell without `|` (vertical bar): it will contain a text, the text of a line of the page of *Urantiapedia* and after the text, enclosed in parentheses, if they exist, one or more references to paragraphs of *The Urantia Book*.
         - Table of two cells separated by `|` (vertical bar), the first with same content than a table with a single cell, and the second with a list of links to other topics, separated by `;`.
@@ -210,10 +210,10 @@ It is recommended to edit files side-by-side in a text editor that allows to ope
 
 ## What should contributors change
 
-For "Chief Editors" there are no special restrictions in what they can change in Topic Index files. They must follow the previous rules explained, but they can make any change needed.
+For "Editors-in-Chief" there are no special restrictions in what they can change in Topic Index files. They must follow the previous rules explained, but they can make any change needed.
 
 For "Assistant Editors", as they follow a simpler process, they must comply to some restrictions. "Assistant Editors" MUST NOT change any of the following:
-- Topics that are not reviewed, and that do not have the `OK` mark. They must be leaved untouched. Perhaps there is still work needed on them. Until a topic is not reviewed by "Chief Editors" no work must be done in it by "Assistant Editors".
+- Topics that are not reviewed, and that do not have the `OK` mark. They must be leaved untouched. Perhaps there is still work needed on them. Until a topic is not reviewed by "Editors-in-Chief" no work must be done in it by "Assistant Editors".
 - The global references or the category in the first line in the topic. 
 - The references to *Urantia Book* or references to other topics that appear in lines in the topics.
 - The order of lines.
@@ -231,7 +231,7 @@ When using Visual Studio Code for editing Topic Index "Assistant Editors" should
 
 ## *Topic Index Editor*
 
-The *Topic Index Editor* is a tool that is under development but in its current state helps in some tasks of reviewing and editing the *Topic Index*. As this software needs to have been installed and complicates setup it is not in the scope for "Assistant Editors", but for "Chief Editors". Check [Setting up GitHub project](/en/help/github_setting).
+The *Topic Index Editor* is a tool that is under development but in its current state helps in some tasks of reviewing and editing the *Topic Index*. As this software needs to have been installed and complicates setup it is not in the scope for "Assistant Editors", but for "Editors-in-Chief". Check [Setting up GitHub project](/en/help/github_setting).
 
 To access it:
 1. Open *Urantiapedia Tools* pressing F5 in VS Code with the project opened.

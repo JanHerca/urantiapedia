@@ -44,7 +44,7 @@ AUTHOR (2) | User inside a group with his name that acts as EDITOR but only for 
 REVIEWER | User that only can view pages, view the history and make comments.
 USER | Any user not registered. Only for viewing pages.
 
-(1) At first stages of the project some types of content are only editable using *Urantiapedia Tools* by users called *Chief Editors*, outside *Urantiapedia* web. Once the starting content is uploaded in each milestone of the project, *Urantiapedia Tools* is no more used and users in EDITOR group will be able to edit content through this web.
+(1) At first stages of the project some types of content are only editable using *Urantiapedia Tools* by users called *Editors-in-Chief*, outside *Urantiapedia* web. Once the starting content is uploaded in each milestone of the project, *Urantiapedia Tools* is no more used and users in EDITOR group will be able to edit content through this web.
 
 (2) AUTHOR means that there will be several groups of type AUTHOR, each one contaning users that are the authors (or authorized by the authors) for given pages. For example, if there are two users named Han Solo and Obi Wan that want to be authors, there will be a pair or groups named HANSOLO and OBIWAN, the first with Han Solo user, the second with Obi Wan user. The first will be the only user that could edit pages in paths like `/en/article/hansolo/` (and any other locale apart from English), `/en/slides/hansolo`, and so on. On the other hand, Obi Wan user could edit pages in paths like `/en/article/obiwan/`, `/en/slides/obiwan/` and so on. This way some users will be the only editors of certain pages.
 

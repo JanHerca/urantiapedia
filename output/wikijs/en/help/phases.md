@@ -40,10 +40,10 @@ This milestone is expected to be reached in Q2 2022.
 Tasks | Where | Who
 --- | --- | ---
 Development of file converters to Wiki.js | GitHub | Developers
-Conversion of each *Urantia Book* paper to a page with links to the *Bible* and Topics | GitHub | Chief Editors
-Conversion of each *Bible* chapter in a page with links to *The Urantia Book* | GitHub | Chief Editors
+Conversion of each *Urantia Book* paper to a page with links to the *Bible* and Topics | GitHub | Editors-in-Chief
+Conversion of each *Bible* chapter in a page with links to *The Urantia Book* | GitHub | Editors-in-Chief
 Development of *Topic Index Editor*, a wizard to help in the work with *Topic Index* | GitHub | Developers
-Conversion of *Topic Index* to pages with links to *The Urantia Book* | GitHub | Chief Editors
+Conversion of *Topic Index* to pages with links to *The Urantia Book* | GitHub | Editors-in-Chief
 Bulk load of files in Wiki.js format | GitHub | administrators
 
 ## Milestone II - Books, articles, study aids, schemas and indexes
@@ -60,9 +60,9 @@ Tasks | Where | Who
 --- | --- | ---
 Opening of *Topic Index* for manual editing of editors | web | Assistant Editors
 Development for converting books and articles to Wiki.js | GitHub | Developers
-Addition of other books that are presumed to be sources of *The Urantia Book* | GitHub | Chief Editors
-Addition of articles and study aids linked to the book, the sources, and references | GitHub | Chief Editors
-Addition of indexes of people, beings, places, *The Bible*, references, quotes, chronologies, etc | GitHub | Chief Editors
+Addition of other books that are presumed to be sources of *The Urantia Book* | GitHub | Editors-in-Chief
+Addition of articles and study aids linked to the book, the sources, and references | GitHub | Editors-in-Chief
+Addition of indexes of people, beings, places, *The Bible*, references, quotes, chronologies, etc | GitHub | Editors-in-Chief
 Bulk load of files in Wiki.js format | GitHub | Administrators
 
 <figure id="Sample_fig_1" class="image urantiapedia">
@@ -119,7 +119,7 @@ This milestone is expected to be reached in Q2 2024.
 Tasks | Where | Who
 --- | --- | ---
 Development in *Wiki.js* of an interactive map editor, the format and the renderer | GitHub | Developers
-Addition of a set of sample interactive maps, about race migrations, historical facts and Jesus voyages | GitHub | Chief Editors
+Addition of a set of sample interactive maps, about race migrations, historical facts and Jesus voyages | GitHub | Editors-in-Chief
 
 <figure id="Sample_fig_3" class="image urantiapedia">
 <img src="/image/sample_page_map.jpg">
@@ -147,7 +147,7 @@ Tasks | Where | Who
 --- | --- | ---
 Opening of interactive maps to manual editing and additions by editors | web | Assistant Editors
 Development in *Wiki.js* of a slides editor, with its format and renderer | GitHub | Developers
-Addition of a set of slides using available ones in the association’s sites | GitHub | Chief Editors
+Addition of a set of slides using available ones in the association’s sites | GitHub | Editors-in-Chief
 
 <figure id="Sample_fig_4" class="image urantiapedia">
 <img src="/image/sample_page_slides.png">
@@ -177,7 +177,7 @@ Tasks | Where | Who
 --- | --- | ---
 Opening of slides for manual editing and additions of editors | web | Assistant Editors
 Development in Wiki.js for a 3D interactive model creator/editor, its format and renderer | GitHub | Developers
-Addition of a set of 3D models about Paradise, architectural spheres, Garden of Eden and the like | GitHub | Chief Editors
+Addition of a set of 3D models about Paradise, architectural spheres, Garden of Eden and the like | GitHub | Editors-in-Chief
 
 <figure id="Sample_fig_5" class="image urantiapedia">
 <img src="/image/sample_page_3d.jpg">

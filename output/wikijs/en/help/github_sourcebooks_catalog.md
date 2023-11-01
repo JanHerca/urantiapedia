@@ -40,7 +40,7 @@ To edit that list, you can do it in two ways:
 
 In either of the two previous cases, the file to be edited is a very simple Markdown file where for each book you must include the title, the author, and the year of the first edition.
 
-If you have modified the listing from the file on GitHub, you have two options for submitting your changes: 1) if you are a “Chief Editor” use GitHub as detailed in [Chief Editors help](/en/help/github); if you are an “Assistant Editor”, you can simply send that modified Markdown file to any Administrator's email or to urantiapedia@gmail.com.
+If you have modified the listing from the file on GitHub, you have two options for submitting your changes: 1) if you are a “Editor-in-Chief” use GitHub as detailed in [Editors-in-Chief help](/en/help/github); if you are an “Assistant Editor”, you can simply send that modified Markdown file to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

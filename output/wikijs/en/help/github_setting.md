@@ -141,12 +141,12 @@ As *Urantiapedia* is the effort of a team of collaborators, it is common that at
 ## Summary
 
 In summary, the process in GitHub is as follows (see the diagram):
-1. “Chief Editor” creates a *fork* (a copy in its own account) of *Urantiapedia* projects on GitHub: *Urantiapedia* and *Urantiapedia-backup*.
-2. “Chief Editor” creates a local copy of the projects on PC. This is done first through a *clone* action and later through *fetch upstream* actions in GitHub web and through *pulls* actions to the local projects, that downloads any change to the local copy.
-3. “Chief Editor” makes changes in the local copy of the projects and makes commmits to the local copy.
-4. “Chief Editor” send changes to the GitHub projects through *push* actions. 
-5. Then “Chief Editor” creates *pull requests* from the GitHub website for both projects: *Urantiapedia* and *Urantiapedia-backup*.
-6. This *pull requests* of “Chief Editors” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Chief Editors” will be notified to fix them.
+1. “Editor-in-Chief” creates a *fork* (a copy in its own account) of *Urantiapedia* projects on GitHub: *Urantiapedia* and *Urantiapedia-backup*.
+2. “Editor-in-Chief” creates a local copy of the projects on PC. This is done first through a *clone* action and later through *fetch upstream* actions in GitHub web and through *pulls* actions to the local projects, that downloads any change to the local copy.
+3. “Editor-in-Chief” makes changes in the local copy of the projects and makes commmits to the local copy.
+4. “Editor-in-Chief” send changes to the GitHub projects through *push* actions. 
+5. Then “Editor-in-Chief” creates *pull requests* from the GitHub website for both projects: *Urantiapedia* and *Urantiapedia-backup*.
+6. This *pull requests* of “Editors-in-Chief” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Editors-in-Chief” will be notified to fix them.
 7. When changes are OK an “Administrator” do a *merge* of them and they are synchronized automatically to the web.
 
 ![](/image/github_workflow_version_2.png)

@@ -27,7 +27,7 @@ The folders that comprises *Urantiapedia* project on Github are these:
 - **app**: source code files in JavaScript with *Urantiapedia Tools* application.
 - **css**: some CSS files to show Markdown files better.
 - **docs**: some project documentation although main docs are in `output/wikijs/help`.
-- **input**: main folder containing input files used to generate *Urantiapedia* pages for a language. This is the only folder that "Chief Editors" should modify in the project.
+- **input**: main folder containing input files used to generate *Urantiapedia* pages for a language. This is the only folder that "Editors-in-Chief" should modify in the project.
     * **html**: folder with files in HTML format.
         * **book-xx**: *The Urantia Book* translations in original HTML from *Urantia Foundation* (`book-en`,` book-es`, etc.)
     * **json**: folder with files in JSON format.
@@ -70,7 +70,7 @@ Folders tagged as deprecated can be ignored because contain material that is no 
 
 The language codes to be used in the folders must follow the ISO 639-1 standard with two letters for each language. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
-The only folders "Chief Editors" need to worry about are the following:
+The only folders "Editors-in-Chief" need to worry about are the following:
 - `input/html`
 - `input/json`
 - `input/markdown`

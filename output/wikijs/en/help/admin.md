@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/roles">Collaborator profiles</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github">Chief Editors help</a></td>
+        <td><a href="/en/help/github">Editors-in-Chief help</a></td>
       </tr>
     </tbody>
   </table>
@@ -47,12 +47,12 @@ This manual is intended for users called *administrators*, or *admins* for short
 ## GitHub workflow
 
 The process will be as follows:
-1. "Chief Editor" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) and *Urantia-backup* project on GitHub (https://github.com/JanHerca/urantiapedia-backup). The first is a project that contains all the files. The second contains only the files that are synchronized with the *Urantiapedia* website.
-2. "Chief Editor" creates a local copy of both projects on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
-3. "Chief Editor" makes changes in the local copy to the files indicated in this manual and in the way explained. "Chief Editor" makes commmits to the local copy.
-4. "Chief Editor" sends changes to his GitHub account through a *push* action. 
-5. "Chief Editor" performs a *pull request* in GitHub web to the original projects. 
-6. The *pull requests* of "Chief Editors" are reviewed by "Administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "Chief Editors" will be notified to fix them.
+1. "Editor-in-Chief" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) and *Urantia-backup* project on GitHub (https://github.com/JanHerca/urantiapedia-backup). The first is a project that contains all the files. The second contains only the files that are synchronized with the *Urantiapedia* website.
+2. "Editor-in-Chief" creates a local copy of both projects on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
+3. "Editor-in-Chief" makes changes in the local copy to the files indicated in this manual and in the way explained. "Editor-in-Chief" makes commmits to the local copy.
+4. "Editor-in-Chief" sends changes to his GitHub account through a *push* action. 
+5. "Editor-in-Chief" performs a *pull request* in GitHub web to the original projects. 
+6. The *pull requests* of "Editors-in-Chief" are reviewed by "Administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "Editors-in-Chief" will be notified to fix them.
 7. When changes that are OK and "Administrator" has done the merge, any changes to the *Urantiapedia-backup* project are automatically synchronized with the website. Now changes are visible to all, in order to check and validate that they are correct.
 8. The process is repeated as many times as needed, returning to point 2.
 
@@ -81,7 +81,7 @@ Once we have the input in the correct folders, for each language, the steps to t
 8. Converting *The Bible* from LaTeX to Wiki.js with footnotes. Check [Converting Bible](/en/help/github_bible_to_wiki).
 9. Commiting changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) project. Check [Bulk upload content to Urantiapedia](/en/help/github_upload).
 
-*Chief Editors* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
+*Editors-in-Chief* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
 
 ![](/image/formats.png)
 
@@ -101,7 +101,7 @@ Once we have the input in the correct folders, for each language, the steps to t
       <tr>
         <td><a href="/en/help/roles">Collaborator profiles</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github">Chief Editors help</a></td>
+        <td><a href="/en/help/github">Editors-in-Chief help</a></td>
       </tr>
     </tbody>
   </table>

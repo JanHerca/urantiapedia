@@ -32,7 +32,7 @@ The task now is to use the content of the aforementioned folders and build the i
 
 ### Structure of articles in Urantiapedia
 
-If you are a “Chief Editor” and will be using the GitHub platform, articles should be saved in these GitHub project folders: `/output/wikijs/en/article` for English articles, `/output/wikijs/es/article` for articles in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, inside the author's folder, we will create a Markdown file to which we will give a unique name following this criteria:
+If you are a “Editor-in-Chief” and will be using the GitHub platform, articles should be saved in these GitHub project folders: `/output/wikijs/en/article` for English articles, `/output/wikijs/es/article` for articles in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, inside the author's folder, we will create a Markdown file to which we will give a unique name following this criteria:
   - The name will use the title of the article but as abbreviated as possible.
   - The name will always be in English, so if the original article is not in English, the title is translated.
   - Blank spaces are replaced by underscores.
@@ -64,7 +64,7 @@ All these items have already been explained when talking about how to format boo
 
 ## Sending files
 
-If you are a “Chief Editor” using GitHub you can submit articles as detailed in [Chief Editors Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
+If you are a “Editor-in-Chief” using GitHub you can submit articles as detailed in [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

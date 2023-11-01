@@ -37,7 +37,7 @@ The process here will therefore be the conversion of any diagram to SVG format b
 
 ### Structure of the diagrams in Urantiapedia
 
-If you are a “Chief Editor” and will be using the GitHub platform, diagrams should be saved in these GitHub project folders: `/output/wikijs/en/article` for English diagrams, `/output/wikijs/es/article` for diagrams in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, inside the author's folder, we will create a Markdown file with a unique name following this criteria:
+If you are a “Editor-in-Chief” and will be using the GitHub platform, diagrams should be saved in these GitHub project folders: `/output/wikijs/en/article` for English diagrams, `/output/wikijs/es/article` for diagrams in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, inside the author's folder, we will create a Markdown file with a unique name following this criteria:
   - The name will use the title of the diagram but as abbreviated as possible.
   - The name will always be in English, so if the original diagram is not in English, the title is translated.
   - Blank spaces are replaced by underscores.
@@ -75,11 +75,11 @@ Author: **John Doe**
 </svg>
 ```
 
-The creation of SVG content is outside the scope of this help and would involve the use of image vectorization software such as [Inkscape](https://inkscape.org/en/) or similar. This task should be carried out by a “Chief Editor” with experience in creating vector graphics.
+The creation of SVG content is outside the scope of this help and would involve the use of image vectorization software such as [Inkscape](https://inkscape.org/en/) or similar. This task should be carried out by a “Editor-in-Chief” with experience in creating vector graphics.
 
 ## Sending files
 
-If you are a “Chief Editor” using GitHub you can submit diagrams as detailed in the [Chief Editors Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
+If you are a “Editor-in-Chief” using GitHub you can submit diagrams as detailed in the [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the Markdown files to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

@@ -23,7 +23,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > This task is currently ended and closed for the 25 languages available.
 {.is-info}
 
-Here are described the steps needed to translate the *Paramony* from english to a new language of *Urantiapedia*. This is a task accomplish by "Chief Editors".
+Here are described the steps needed to translate the *Paramony* from english to a new language of *Urantiapedia*. This is a task accomplish by "Editors-in-Chief".
 
 The *Paramony* is a file with cross references between *The Bible* and *The Urantia Book*. It has been created in english using a cross-reference relationship developed by Duane L. Faw ([Paramony](https://urantia-book.org/urantiabook/paramony/)), converted from its original TXT format to a JSON format that is easier to process.
 

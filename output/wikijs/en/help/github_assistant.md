@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github">Chief Editors help</a></td>
+        <td><a href="/en/help/github">Editors-in-Chief help</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/devs">Developers help</a></td>
       </tr>
@@ -167,7 +167,7 @@ Currently tasks 1 and 3 have been completed.
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github">Chief Editors help</a></td>
+        <td><a href="/en/help/github">Editors-in-Chief help</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/devs">Developers help</a></td>
       </tr>

@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Chief Editor help
+title: Urantiapedia - Editor-in-Chief help
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -34,7 +34,7 @@ Urantiapedia has two public projects in GitHub: [Urantiapedia](https://github.co
 
 ## Who is this manual for?
 
-This manual is for users called “Chief Editors”, or users that comply with these requirements:
+This manual is for users called “Editors-in-Chief”, or users that comply with these requirements:
 - They have an account in this with editing permissions, and another in [GitHub](https://github.com/).
 - They can add content to both Urantiapedia projects in GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). They can do bulk load of changes using the second project.
 - They have a good knowledge of Git and GitHub management.
@@ -43,7 +43,7 @@ This manual is for users called “Chief Editors”, or users that comply with t
 
 ## GitHub workflow
 
-The process for a “Chief Editor” will be as follows:
+The process for a “Editor-in-Chief” will be as follows:
 1. Creates a *fork* (a copy in its own account) of *Urantiapedia* projects on GitHub: 
   - https://github.com/JanHerca/urantiapedia
   - https://github.com/JanHerca/urantiapedia-backup
@@ -51,7 +51,7 @@ The process for a “Chief Editor” will be as follows:
 3. Makes changes in the local copy of the Urantiapedia project to the files indicated in this manual and in the way explained. He or she makes commmits to the local copy.
 4. Sends partial changes (not ready to be uploaded to the web) to *Urantiapedia* project in GitHub through a *push*. When there is a set of changes ready for the web, synchronizes the local *Urantiapedia* project with local *Urantiapedia-backup* project and upload changes in GitHub through a *push*. 
 5. Then creates a *pull requests* from the GitHub website for both projects: *Urantiapedia* and *Urantiapedia-backup*.
-6. This *pull requests* of “Chief Editors” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Chief Editors” will be notified to fix them.
+6. This *pull requests* of “Editors-in-Chief” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Editors-in-Chief” will be notified to fix them.
 7. When changes are OK an “Administrator” do a *merge* of them and they are uploaded automatically to the web. They are usually available in a few minutes depending on the number of changes and their type.
 
 ![](/image/github_workflow_version_2.png)
