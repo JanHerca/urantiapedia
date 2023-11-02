@@ -28,7 +28,7 @@ Por último, queremos traer también a consideración que el propio _Libro de Ur
 
 Al incorporar estos libros a Urantiapedia se va a proceder del mismo modo que con la Biblia, creando páginas específicas para cada libro, con cada capítulo en una página. Luego se añadirán referencias cruzadas entre los libros y _El Libro de Urantia_, tal y como se ha hecho usando la [Biblia](/es/Bible) y el [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
-Aquí se incluye una lista provisional de los libros que se tiene planidicado incorporar:
+Aquí se incluye una lista provisional de los libros que se tiene planificado incorporar:
 
 ## Libros religiosos judeo-cristianos
 

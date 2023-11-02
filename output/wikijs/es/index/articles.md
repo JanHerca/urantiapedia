@@ -18,7 +18,8 @@ Una publicación trimestral de la Fundación Urantia desde 2007.
 
 Pronto disponible en Urantiapedia.
 
-Fuente: 
+Fuentes: 
+- https://www.urantia.org/news
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html
 
@@ -30,7 +31,8 @@ Una publicación trimestral de la Fundación Urantia con noticias internas de la
 
 Pronto disponible en Urantiapedia.
 
-Fuente: 
+Fuentes: 
+- https://www.urantia.org/news
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html
 
@@ -42,7 +44,8 @@ Una antigua publicación trimestral de la Fundación Urantia desde 1973 a 1998, 
 
 Pronto disponible en Urantiapedia.
 
-Fuente: 
+Fuentes: 
+- https://www.urantia.org/news
 - https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html
 
@@ -56,8 +59,7 @@ El Fellowship Herald es una publicación anual o semestral editada por la Fellow
 
 El índice de todos los números disponibles está aquí: [Índice de los artículos del Fellowship Herald](/es/index/articles_herald).
 
-Fuente:
-
+Fuentes:
 - https://urantia-book.org/archive/newsletters/herald/
 - https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
 
@@ -80,7 +82,7 @@ Fuentes:
 
 _The Study Group Herald_ es una vieja publicación de la _Fellowship_, actualmente llamada la Fellowship de _El Libro de Urantia_, publicada durante los años 90.
 
-El índice de todos los números disponibles está aquí: [Índice de _The Study Group Herald_ de la Fellowship](/es/index/articles_study_group_herald).
+Pronto disponible en Urantiapedia.
 
 Fuentes:
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html
@@ -91,9 +93,11 @@ Fuentes:
 
 _The Urantian_ fue un boletín trimestral de la Urantia Brotherhood, antiguo nombre de la Fellowship de _El Libro de Urantia_, desde 1976 a 1994.
 
-El índice de todos los números disponibles está aquí: [The Urantian -- Journal de la Urantia BrotherHood](/es/index/articles_urantian_journal).
+Pronto disponible en Urantiapedia.
 
-Source: https://urantia-book.org/archive/newsletters/urantian_journal/
+Fuentes: 
+- https://urantia-book.org/archive/newsletters/urantian_journal/
+- https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html
 
 ## Asociación Internacional Urantia
 
@@ -103,9 +107,11 @@ Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 
 Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de _El libro de Urantia_. 
 
-El índice de todos los números disponibles está aquí: [Índice de artículos del International Association Journal](/es/index/articles_international_journal).
+Pronto disponible en Urantiapedia.
 
-Fuente: https://urantia-association.org/journal-online/
+Fuentes:
+- https://urantia-association.org/journal-online/
+- https://urantia-association.org/topical-index-of-articles/
 
 ### Tidings
 
@@ -113,9 +119,12 @@ Fuente: https://urantia-association.org/journal-online/
 
 La revista _Tidings_ es un publicación en línea trimestral the sirve de vehículo primario de comunicación de la Asociación Internacional.
 
-El índice de todos los números disponibles está aquí: [Tidings de la Asociación Internacional](/es/index/articles_tidings).
+Pronto disponible en Urantiapedia.
 
-Source: https://urantia-association.org/about-tidings-newsletter/
+Fuentes: 
+- https://urantia-association.org/about-tidings-newsletter/
+- https://urantia-association.org/tidings-online-archives/
+- https://urantia-association.org/topical-index-of-articles/
 
 ## Biblioteca de la Hermandad Humana (Brotherhood of Man Library)
 
@@ -127,7 +136,8 @@ El _Innerface International_ es una antigua publicación bimensual que finalizó
 
 El índice de todos los números disponibles está aquí: [Índice de los artículos del Innerface International](/es/index/articles_innerface).
 
-Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
+Fuentes: 
+- https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ## La Christian Fellowship de los estudiantes de El Libro de Urantia
 
@@ -137,9 +147,10 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 El _Spiritual Fellowship Journal_ es una publicación ecuménica publicada dos veces al año entre 1991 y 2006 por La Spiritual Fellowship. Su propósito era apoyar a la Comunidad Urantia en general, especialmente en la interacción con las culturas y las instituciones religiosas de nuestro mundo, así como abordar temas de especial preocupación en el establecimiento de nuevas instituciones religiosas con raíces en la Quinta Revelación de Época.
 
-El índice de todos los números disponibles está aquí: [Índice de artículos del Spiritual Fellowship Journal](/es/index/articles_spiritual_fellowship_journal).
+Pronto disponible en Urantiapedia.
 
-Fuente: https://urantia-book.org/index_spiritual_fellowship_journal.html
+Fuentes: 
+- https://urantia-book.org/index_spiritual_fellowship_journal.html
 
 ## Asociación Urantia de España
 
@@ -151,7 +162,8 @@ Luz y Vida es una publicación trimestral (ahora mensual) de la Asociación Uran
 
 El índice de todos los números disponibles está aquí: [Índice de los artículos de «Luz y Vida»](/es/index/articles_luz_y_vida).
 
-Fuente: https://aue.urantia-association.org/luz-y-vida/
+Fuentes: 
+- https://aue.urantia-association.org/luz-y-vida/
 
 ## UB Annotaded & UBTheNews
 
@@ -162,7 +174,6 @@ _UB Annotated_ y _UB The News_ son dos proyectos creados por Halbert Katzen, un 
 El índice de todos los estudios disponibles está aquí: [Índice de estudios de UB Annotated & UBTheNews](/es/index/articles_ubannotated).
 
 Fuentes:
-
 - https://ubannotated.com/main-menu/animated/Topical%20Studies/
 - https://ubannotated.com/ubthenews/reports_list/
 
@@ -174,7 +185,8 @@ Jan Herca es un lector de _El Libro de Urantia_ que tiene un sitio web donde com
 
 El índice de todos los artículos disponibles está aquí: [Índice de artículos de Jan Herca](/es/index/articles_jan_herca).
 
-Fuente: https://buscandoajesus.wordpress.com/descargas/
+Fuentes: 
+- https://buscandoajesus.wordpress.com/descargas/
 
 ## Otros artículos
 
@@ -187,54 +199,28 @@ Fuentes: Ver [Referencias](#referencias)
 
 <small>1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2</small>
 
-## Referencias
+## Otras fuentes
+
+Más contenido que se considerará para el futuro:
 
 - Asociaciones Urantia:
-  - Urantia Asociación International:
-    https://urantia-association.org/topical-index-of-articles/
-  - Australia & New Zealand Urantia Association (ANZURA):
-    https://anzura.urantia-association.org/topical-index-study-aids/
-  - Canada Urantia Association:
-    https://canada.urantia-association.org/urantia-related-writtings/
+  - Australia & New Zealand Urantia Association (ANZURA): https://anzura.urantia-association.org/topical-index-study-aids/
+  - Canada Urantia Association: https://canada.urantia-association.org/urantia-related-writtings/
   - Asociación Urantia de España: https://aue.urantia-association.org/study/
-  - Urantia Asociación de Argentina:
-    https://argentina.urantia-association.org/trabajos-secundarios/
-  - Urantia Asociación de México:
-    https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
-  - Agrupación Autónoma Urantia Chile:
-    http://www.urantiachile.org/?modulo=articulos
-  - Urantia Associação do Brasil:
-    https://urantia.com.br/arquivos/category/blog-artigos
-  - United States:
-    - Great Lake Michigan Urantia Association:
-      https://glmua.urantia-association.org/library/
-  - Asociación Urantia de Costa Rica:
-    https://cr.urantia-association.org/publicaciones/
+  - Urantia Asociación de Argentina: https://argentina.urantia-association.org/trabajos-secundarios/
+  - Urantia Asociación de México: https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
+  - Agrupación Autónoma Urantia Chile: http://www.urantiachile.org/?modulo=articulos
+  - Urantia Associação do Brasil: https://urantia.com.br/arquivos/category/blog-artigos
+  - Estados Unidos, Great Lake Michigan Urantia Association: https://glmua.urantia-association.org/library/
+  - Asociación Urantia de Costa Rica: https://cr.urantia-association.org/publicaciones/
   - Asociación Urantia de Cali: https://uracali.urantia-association.org/
-  - Urantia Deutschland, Österreich und Scheweiz:
-    https://dach.urantia-association.org/blog/
-  - Suomen Urantia-seura:
-    https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
+  - Urantia Deutschland, Österreich und Scheweiz: https://dach.urantia-association.org/blog/
+  - Suomen Urantia-seura: https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
 - Revistas sobre _El Libro de Urantia_:
   - Recopilaciones:
     - https://urantia-book.org/archive/newsletters/
     - https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
-  - Innerface International:
-    https://urantia-book.org/archive/newsletters/innerface/index.html
-  - The Urantian Journal:
-    https://urantia-book.org/archive/newsletters/urantian_journal/
-  - Fellowship Herald: https://urantia-book.org/archive/newsletters/herald/
-    https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
-  - Spiritual Fellowship Journal:
-    https://urantia-book.org/index_spiritual_fellowship_journal.html
   - http://www.encyclopediaurantia.org/
   - https://www.squarecircles.com/
-- Ensayos de Meredith J. Sprunger:
-  - https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
-- UBAnnotated y UBTheNews:
-  - https://ubannotated.com/main-menu/animated/Topical%20Studies/
-  - https://ubannotated.com/ubthenews/reports_list/
-- Artículos de Jan Herca:
-  - https://buscandoajesus.wordpress.com/descargas/
-- Otros en español:
-  - https://urantiabook.org/Estudios_Espanol
+- Ensayos de Meredith J. Sprunger: https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
+- Otros en español: https://urantiabook.org/Estudios_Espanol
