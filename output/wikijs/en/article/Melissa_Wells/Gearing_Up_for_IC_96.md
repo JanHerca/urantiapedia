@@ -39,7 +39,7 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” (_The Urantia Book_, <a id="a17_268"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
+> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” (_The Urantia Book_, <a id="a41_268"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10))
 
 **By Melissa Wells**
 **Raleigh, North Carolina**

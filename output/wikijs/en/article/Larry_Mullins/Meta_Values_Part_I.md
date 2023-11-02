@@ -157,6 +157,6 @@ How can we Urantians be sure our actions are faithdriven? How can we be certain 
 
 [^3]: Frankl, Viktor. Man's Search for Meaning. Washington Square Press, 1985, pp. 133-134
 
-[^4]: _The Urantia Book_, Pathways Edition, 1994, pp. 31 $\& 43$
+[^4]: _The Urantia Book_, Pathways Edition, 1994, pp. 31 $& 43$
 
 [^5]: Sprunger, Meredith J. Spiritual Psychology (p. 97). Wilmette: Jemenon, 1992

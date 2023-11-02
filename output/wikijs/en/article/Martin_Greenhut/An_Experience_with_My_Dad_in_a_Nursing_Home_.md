@@ -36,13 +36,17 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _By Martin Greenhut, Monterey, Massachusetts_
 
-“...ONE MORE DAY TO DO THE FATHER'S WILL AND EXPERIENCE THE JOY OF KNOWING THAT WE ARE HIS SONS” (<a id="a14_98"></a>[UB 177:5.6](/en/The_Urantia_Book/177#p5_6) — Jesus speaking of his last free day on earth.)
+“...ONE MORE DAY TO DO THE FATHER'S WILL AND EXPERIENCE THE JOY OF KNOWING THAT WE ARE HIS SONS” (<a id="a38_98"></a>[UB 177:5.6](/en/The_Urantia_Book/177#p5_6) — Jesus speaking of his last free day on earth.)
 
 When we have to face some of the crippling circumstances of ailing and aging human bodies, the true nature of the mortal estate confronts us in its fullness. Our bodies, like work animals that have burnt themselves out over a lifetime of laborious stress and physical abuse become weak and cumbersome organisms requiring inordinate attention and care. Our spirit must draw on whatever strength it has achieved to deal with the withering physical vessel.
 
 And this is not only so for the aging individual, but a powerful experience for the family members who must associate with one going through this deterioration and death. It has all given me a (hard won) appreciation for the value of affliction in our spiritual education and the importance of separating our identity of self from our physical bodies.
 
 In going through this _most difficult_ experience I ften have wondered, “Could this possibly be God's will for a man to suffer so?” and as I reflect on the overall value of the experience for all concerned I can only see once again the need to make important choices relevant to eternal survival and loving service. It all seems once again to put our lives into their true spiritual focus and give us another opportunity to reach out in faith, to experience God's presence, and to manifest the healing power of His love. At ground zero of this battle, suffering has only been in the experiences where we let go of His hand.
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Study_Group_Herald/Martin_Greenhut.jpg">
+</figure>
 
 When My Father came to live in my hometown he was 89 years old. He was still walking around (though, weakly) and looked forward to enjoying relief from his isolation from family and friends. I, too, anticipated with joy the chance to include my aging father in my life.
 
@@ -51,10 +55,6 @@ Because of his severe health problems, he required around-the-clock supervision 
 I sensed the help of angelic hands from the very outset of my effort to get him here and can feel the presence of their caring and purposeful ministry as I witness his extremely rapid physical deterioration which I did not anticipate.
 
 Dad never allowed himself to hear about the Fifth Epochal Revelation of God's loving presence in and among us. He had made other commitments to a religion of traditional authority and was not to experience the comfort of knowing these things.
-
-<figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Study_Group_Herald/Martin_Greenhut.jpg">
-</figure>
 
 At this writing he is failing in strength and has physical problems that seem to be overtaking him. I spend several hours with him each day and have retained the help of two personal attendants who stay with him mornings and evenings. It is a time when the windows of truth are open. We can see our emotional reactions to his agony on the backdrop of our joy of finding him at peace of mind.
 
@@ -75,6 +75,8 @@ That was the last time I saw him. Because of the blizzard of March 13, I could n
 The blessings that accrued in these last months of dad's life have filled me to overflowing. After his passing and after the inordinate struggle to care for him and the burden of watching him deteriorate - after the funeral service where my estranged sisters and I found that he had brought us back into family unity by his move to my hometown, I am astounded by the spixitual proportions of this experience.
 
 Let me not again question the wisdom of God's manner of creation. We are not here, in the flesh, except to bring spiritual values into being in our lives and to share God's love with our associates. This experience of the last months of my father's life in the flesh has come out as a truly Supreme and joyful experience. Let me not shrink before suffering and affliction but thank God for the priceless gift of love.
+
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

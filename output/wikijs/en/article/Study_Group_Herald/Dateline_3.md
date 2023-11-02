@@ -14,7 +14,7 @@ dateCreated: 2023-10-23T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dan Masssey/Three_Rs_Relationship_Religion_and_Revelation">
+        <a href="/en/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Three Rs: Relationship, Religion and Revelation</span>
         </a>
         </td>
@@ -101,7 +101,7 @@ With the topic of “Leaps of Faith,” the workshop asked this question: Does _
 
 “Only a personality can know what it is doing before it does it; only personalities possess insight in advance of experience. A personality can look before it leaps and can therefore learn from looking as well as from leaping.” (_The Urantia Book_, 16:7:3)
 
-David Kantor's presentation focused on the challenges the Russian people face in the reconstruction of their religion after 70 years of religious persecution. Rebecca Kantor reviewed James Fowler's stage theory of development of faith, drawing on development work done by Erikson \& Piaget, and correlated it with some of the things _The Urantia Book_ has to say about the various stages of our faith experience. By considering an overall gradient, we can hopefully gain some insight into our own progress and understanding of some of the tasks ahead of us.
+David Kantor's presentation focused on the challenges the Russian people face in the reconstruction of their religion after 70 years of religious persecution. Rebecca Kantor reviewed James Fowler's stage theory of development of faith, drawing on development work done by Erikson & Piaget, and correlated it with some of the things _The Urantia Book_ has to say about the various stages of our faith experience. By considering an overall gradient, we can hopefully gain some insight into our own progress and understanding of some of the tasks ahead of us.
 
 ## General Council Approves Affiliate Standing
 
@@ -116,7 +116,7 @@ The General Council elected the following individuals to committee memberships: 
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dan Masssey/Three_Rs_Relationship_Religion_and_Revelation">
+        <a href="/en/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Three Rs: Relationship, Religion and Revelation</span>
         </a>
         </td>

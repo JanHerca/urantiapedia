@@ -38,7 +38,7 @@ One of the stated goals of _The Spiritual Fellowship Journal_ is to “address i
 
 It may seen obvious to many that new religious institutions will appear as part of the impact of _The Urantia Book_, but it is not necessarily viewed as a good thing, or one to be encouraged. Many in the Urantia movement view all religious institutions with suspicion. The dangers of institutional religion are clearly pointed out in the pages of _The Urantia Book_, and those suspicions have been validated in the personal experience of countless readers.
 
-Nevertheless, _The Urantia Book_ suggests that institutional expressions of religious beliefs are natural and inevitable, if not absolutely necessary, and rather than bemoan the inevitable problems that will arise, we should be wise in recognizing their values as well as their limitations. $(<a id="a40_293"></a>[UB 87:7.1](/en/The_Urantia_Book/87#p7_1))
+Nevertheless, _The Urantia Book_ suggests that institutional expressions of religious beliefs are natural and inevitable, if not absolutely necessary, and rather than bemoan the inevitable problems that will arise, we should be wise in recognizing their values as well as their limitations. (<a id="a40_292"></a>[UB 87:7.1](/en/The_Urantia_Book/87#p7_1))
 
 A related question that is often asked, then, is: Are we starting a _new religion_?
 
@@ -76,14 +76,10 @@ I would suggest the answer with another question: Is a group that meets regularl
 
 What is certain, I think, is that a new religion _will_ emerge as the human response to the Fifth Epochal Revelation. It will be the reflection and sum of the beliefs of countless individuals as well as countless groups, formal and informal, with many of them growing out of the great religious traditions of the world, leavened by this revelation. All of this will begin in the hearts of believers, one at a time.
 
-In his discourse or true religion, Jesus said “we will... shortly begin the bold proclamation of a new religion — a religion which is not a religion in the present day meaning of the word, a religion that makes its chief appeal to the Spirit of my Father which resides in the mind of man; a religion which shall derive its authority from the fruits of its acceptance.” [^3] (<a id="a78_375"></a>[UB 155:5.12](/en/The_Urantia_Book/155#p5_12))
+In his discourse or true religion, Jesus said “we will... shortly begin the bold proclamation of a new religion — a religion which is not a religion in the present day meaning of the word, a religion that makes its chief appeal to the Spirit of my Father which resides in the mind of man; a religion which shall derive its authority from the fruits of its acceptance.” (<a id="a78_370"></a>[UB 155:5.12](/en/The_Urantia_Book/155#p5_12))
 
 The name we might give to any of this is pretty much arbitrary and largely irrelevant. It will not define or limit the work of the Spirit. We hope it will not get in the way. Our task is to go about it as wisely as possible, realizing the final result will be in the Father's hands.
 
-
-[^1]: “Religion,” in Funk and Wagnalls New Encyclopedia, 1986.
-
-[^2]: “What is Religion?” Paul Tillich, James Luther Adams, ed., Harper, New York, 1973, p. 28.
 
 <figure class="table chapter-navigator">
   <table>
@@ -108,3 +104,10 @@ The name we might give to any of this is pretty much arbitrary and largely irrel
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: “Religion,” in Funk and Wagnalls New Encyclopedia, 1986.
+
+[^2]: “What is Religion?” Paul Tillich, James Luther Adams, ed., Harper, New York, 1973, p. 28.
+

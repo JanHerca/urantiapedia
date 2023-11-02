@@ -182,9 +182,9 @@ Not unlike the hesychasts, we can see in this quote an emphasis on stillness (�
 
 Remember also that Rodan portrays relaxation or stillness as an essential feature of worshipful communion:
 
-> From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. (U.B. p. 1777)
+> From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. (<a id="a184_197"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1))
 
-We read elsewhere in the Book that worship is “effortless attention, true and ideal soul rest, a form of restful spiritual exertion.” (U.B. p. 1616) Orthodoxy and _The Urantia Book_, cont.
+We read elsewhere in the Book that worship is “effortless attention, true and ideal soul rest, a form of restful spiritual exertion.” (<a id="a186_135"></a>[UB 143:7.7](/en/The_Urantia_Book/143#p7_7))
 
 Thus, there seems to be many elements of teaching in _The Urantia Book_ that provide a bridge to hesychastic spirituality. But much more research is needed in this area. There are important theological similarities between Orthodoxy and _The Urantia Book_; it is not surprising that they teach comparable techniques for practicing the presence of God.
 

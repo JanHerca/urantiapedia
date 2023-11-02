@@ -93,12 +93,7 @@ Living with diversity is not easy. To leave the comfort of a like-minded communi
 In my experience, no teaching resonates more strongly in the human soul than the teaching that our minds are indwelt by the divine spirit of God. This inner light, which all religions acknowledge, uplifts our thinking and leads us into new ways of compassion and service to others. Personal spiritual experience is the fact around which religions can discover kinship; and interfaith associations are the experiential journey in which increasing spiritual fraternity is realized. We share the journey with all people of faith and as our experience expands, so does the power of openness, listening, reflecting, communicating, ambiguity, diversity, teamwork, and universal spiritual ideals. The road ahead is long and straight, and progress is not always easily perceived. But to all who will take forward steps, the Interfaith journey does promise _hope_ for a better future and exciting opportunities for making a better world.
 
 > _Sue Tennant attended Wycliffe College and the Toronto School of Theology, is a former Toronto publicist and author of Crossing Cultures in Business. She presently is Director of the World Interfaith Education Association and founder of the Ontario Chapter of the World Interfaith Education Association._
-
-## Notes
-
-[^1] _The Disciple_, January, 1996, p. 39
-
-[^2] Templeton, John M. _The Humble Approach_. New York:
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
@@ -123,3 +118,9 @@ In my experience, no teaching resonates more strongly in the human soul than the
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: _The Disciple_, January, 1996, p. 39
+
+[^2]: Templeton, John M. _The Humble Approach_. New York:

@@ -56,7 +56,7 @@ Biblical scholars have been intrigued by the fact that Melchizedek was a Canaani
 
 Genesis describes a meeting between Abraham and the priest-king Melchizedek. Abraham had just retumed from a victorious battle and attributed his success to Melchizedek, to whom he gave 10 percent of his booty. Melchizedek in turn gave Abraham bread and wine. While the biblical story makes it look like Melchizedekblessed Abraham's battle, the Urantia Papers state that Melchizedek tried to persuade Abraham to give up his crusade of conquest.
 
-> “Melchizedek explained to Abraham the futility of contending with the Amorite confederation but made it equally clear that these backwards clans were certainly committing suicide by their foolish practices so that in a few generations they would be so weakened that the descendants of Abraham, meanwhile greatly increased, could easily overcome them.” (Urantia Book, <a id="a34_369"></a>[UB 93:6.2](/en/The_Urantia_Book/93#p6_2))
+> “Melchizedek explained to Abraham the futility of contending with the Amorite confederation but made it equally clear that these backwards clans were certainly committing suicide by their foolish practices so that in a few generations they would be so weakened that the descendants of Abraham, meanwhile greatly increased, could easily overcome them.” (Urantia Book, <a id="a58_369"></a>[UB 93:6.2](/en/The_Urantia_Book/93#p6_2))
 
 Melchizedekdid not fear Abraham's enemies and would not defend against them but allowed Abraham to do so, while still encouraging him to abandon warfare altogether. Melchizedek tolerated slow change while constantly advising better alternatives. Later in life, Abraham yielded to Melchizedek'swisdom and gave up warfare.
 
@@ -100,9 +100,9 @@ The most significant successes of Melchizedek's bestowal are that he revived mon
 
 Abraham's covenant with Yahweh is the centerpiece of the message in Genesis. Yahweh appears as the patriarch's partner. God is accessible, according to Melchizedek, but grander than that, God only requires faith for his relationship to work. God promises to uphold everything. Man only needs faith and desire to do the Father's will.
 
-“This covenant of Melchizedek with Abraham represents the great Urantian agreement between divinity and humanity, whereby God agrees to do everything; man only agrees to believe God's promises and follow his instructions.” (Urantia Book, <a id="a78_238"></a>[UB 93:6.4](/en/The_Urantia_Book/93#p6_4))
+“This covenant of Melchizedek with Abraham represents the great Urantian agreement between divinity and humanity, whereby God agrees to do everything; man only agrees to believe God's promises and follow his instructions.” (Urantia Book, <a id="a102_238"></a>[UB 93:6.4](/en/The_Urantia_Book/93#p6_4))
 
-Abraham took the covenant even more seriously after the birth of his son Isaac and went to Salem to have the covenant put in writing. It was at this formal and public acceptance that he changed his name from Abram to Abraham. (Urantia Book, <a id="a80_241"></a>[UB 93:6.5](/en/The_Urantia_Book/93#p6_5), and [Genesis 17](/en/Bible/Genesis/17))
+Abraham took the covenant even more seriously after the birth of his son Isaac and went to Salem to have the covenant put in writing. It was at this formal and public acceptance that he changed his name from Abram to Abraham. (Urantia Book, <a id="a104_241"></a>[UB 93:6.5](/en/The_Urantia_Book/93#p6_5), and [Genesis 17](/en/Bible/Genesis/17))
 
 Jesus built upon the heritage of Melchizedek's teachings when he instructed his apostles on the third preaching tour: "Salvation is the gift of the Father and is revealed by his Sons. Acceptance by faith on your part makes you a partaker of the divine nature, a son or a daughter of God. By faith you are eternally advanced in the way of progressive and divine perfection. By faith was Abraham justified and made aware of salvation by the teachings of Melchizedek. All down through the ages has this same faith saved the sons of men, but now has a Son come forth from the Father to make salvation more real and acceptable." (Urantia Book, pgs. 1682-1683)
 
@@ -116,7 +116,7 @@ Jesus built upon the heritage of Melchizedek's teachings when he instructed his 
 
 ## Bibliography
 
-- Baez-Camargo, Gonzalo: _Archaeological Commentary on the Bible_. New York: Doubleday \& Co. Inc., 1984; pg. 15.
+- Baez-Camargo, Gonzalo: _Archaeological Commentary on the Bible_. New York: Doubleday & Co. Inc., 1984; pg. 15.
 - _Interpreter's Dictionary of the Bible_. Vol. 3. New York: Abingdon Press, 1962.
 - Peake, Harold and Herbert John Fleure: _The Law and the Prophets_. New Haven: Yale University Press, 1936; pg. 60.
 - Sandmel, Samuel: _The Enjoyment of Scripture: The Law, The Prophets_. New York: Oxford University Press, 1972; pg. 53.

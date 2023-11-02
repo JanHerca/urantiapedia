@@ -251,7 +251,10 @@ There is so much more to say about the challenges and opportunities of organized
 
 > _I do not worship my pastor, but he tells me of a Lord whose name is Christ, and makes him known to me. I will be attentive and listen to his words as long as he will lead me to the Master and Teacher who is the Son of God._
 
+> _Rebecca Kantor has a Master of Arts in Religion, with special interests in the psychology of religion and the psychology of ministry. She has been a student of The Urantia Book for over 25 years._
+{.is-info}
 
+> "The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh.” (<a id="a256_295"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
 
 <figure class="table chapter-navigator">
   <table>
@@ -285,7 +288,3 @@ There is so much more to say about the challenges and opportunities of organized
 
 [^3]: Bruce M. Hartung, “Identity, the Pastor, and the Pastor's Spouse,” _Currents in Theology and Mission_, 3, no. 5 (October, 1976): pp. 307-308.
 
-> _Rebecca Kantor has a Master of Arts in Religion, with special interests in the psychology of religion and the psychology of ministry. She has been a student of The Urantia Book for over 25 years._
-{.is-info}
-
-> "The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh.” (<a id="a290_295"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6))

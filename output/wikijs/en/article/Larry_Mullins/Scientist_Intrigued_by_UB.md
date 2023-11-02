@@ -65,6 +65,7 @@ There are other area's of Dr. McMenamin's book that seek answers and impinge upo
 
 It is unfortunate that Martin Gardner did not have a balanced evaluation of the science in _The Urantia Book_ and completely ignored the authors' observation that the science of the Papers would soon need to be revised. Now there is a fresh opportunity to reach scientists, especially those who would like the benefit of some insightful _Urantia Book_“gems.”
 
+> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in the wholehearted effort to reach the border land of spirit-consciousness — contact with the divine presence._” <a id="a67_434"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)
 
 <figure class="table chapter-navigator">
   <table>
@@ -94,4 +95,3 @@ It is unfortunate that Martin Gardner did not have a balanced evaluation of the 
 
 [^1]: McMenamin, Mark A. S. _The Garden of Ediacara_. New York: Columbia University Press, 1998.
 
-> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in the wholehearted effort to reach the border land of spirit-consciousness — contact with the divine presence._” <a id="a96_434"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)

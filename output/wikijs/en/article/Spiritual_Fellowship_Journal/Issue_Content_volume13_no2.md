@@ -95,7 +95,7 @@ E-mail: \_\_\_\_
 <p style="text-align:center;">
 <i>Founded by</i><br>
 <i>Dr. Meredith Justin Sprunger</i><br>
-<b>FALL \& WINTER 2003 — 2004</b><br>
+<b>FALL & WINTER 2003 — 2004</b><br>
 <b>Volume 13, No.2</b><br>
 <br>
 <b>Editor</b><br>
@@ -144,7 +144,7 @@ Suggested annual donation: \$10. Please make checks payable to: The Spiritual Fe
 
 **SPIRITUAL FELLOWSHIP JOURNAL**
 
-***for Students \& Believers in the Revelation of the Urantia Papers***
+***for Students & Believers in the Revelation of the Urantia Papers***
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">

@@ -24,7 +24,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Dr_Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
           <span class="pr-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -59,7 +59,7 @@ The evolutionary influence of the Fifth Epochal Revelation will gradually doveta
         </a>
         </td>
         <td>
-        <a href="/en/article/Dr_Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
           <span class="pr-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

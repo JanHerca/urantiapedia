@@ -58,10 +58,6 @@ If such events should prove to be true-past, present, or sometime in the future-
 
 What _The Urantia Book_ gives us, in addition to a meaningful physical cosmology in which to understand such events, is a spiritual cosmology that can assure us that we are still a part of a universe that is ultimately friendly, and in keeping with the Creator's plans for all his children. Such a visitation would not be, as is often claimed, the greatest event in the history of mankind. It could, however, help us to understand what is — namely, the Incarnation of a Creator Son, Christ Michael, as Jesus of Nazareth.
 
-## Notes
-
-[^1] Philip Corso, _The Day After Roswell_, Pocket Books — Simon & Shuster, Inc., New York, 1997.
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -85,3 +81,8 @@ What _The Urantia Book_ gives us, in addition to a meaningful physical cosmology
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: Philip Corso, _The Day After Roswell_, Pocket Books — Simon & Shuster, Inc., New York, 1997.
+

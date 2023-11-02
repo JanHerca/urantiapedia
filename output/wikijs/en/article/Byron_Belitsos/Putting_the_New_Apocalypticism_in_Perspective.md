@@ -111,7 +111,7 @@ In my view, each of these approaches outlined above are impatient shortcuts on t
 
 [^1]: See Stephen O'Leary, _Arguing the Apocalypse: A Theory of Millennial Rhetoric_, (London: Oxford University Press, 1994), chapters 2 and 3.
 
-[^2]: Here I follow in part the argument of the Protestant theologian Jurgen Moltmann, _Theology of Hope_ (New York: Harper \& Row, 1967)
+[^2]: Here I follow in part the argument of the Protestant theologian Jurgen Moltmann, _Theology of Hope_ (New York: Harper & Row, 1967)
 
 [^3]: Ibid. p. 207-8.
 

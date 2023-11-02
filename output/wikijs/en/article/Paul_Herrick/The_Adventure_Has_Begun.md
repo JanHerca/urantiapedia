@@ -51,7 +51,7 @@ I started reading from page one during the summer of 1962 , and finished it abou
 
 My life of adventure has continued (I can't stop) and I've had many more near fatal experiences, but I am slowly realizing that my most thrilling adventures, portrayed in the pages of my beloved Urantia Book, are just getting underway.
 
-> _Paul Herrick is an Aeronautical Engineer and a long time student of The Urantia Book.
+> _Paul Herrick is an Aeronautical Engineer and a long time student of The Urantia Book._
 {.is-info}
 
 > Do not try to satisfy the curiosity or gratify all the latent adventure surging within the soul in one short life in the flesh. Bepatient!... Harness your energies and bridle your passions; be calm while you await the majestic unfolding of an endless career of progressive adventure and thrilling discovery. <a id="a56_310"></a>[UB 195:5.10](/en/The_Urantia_Book/195#p5_10)

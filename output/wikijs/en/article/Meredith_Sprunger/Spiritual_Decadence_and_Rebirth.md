@@ -50,10 +50,6 @@ I spent years trying, in a low key approach, to introduce it to the theologians 
 
 The message of _The Urantia Book_ is the challenge and opportunity of the 21 st century. It will bring our world a fresh and enlarged view of Reality and a new understanding of the cosmos!
 
-## Notes
-
-[^1] The Structure of Scientific Revolutions, Second Edition, University of Chicago Press, 1970.
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -77,3 +73,8 @@ The message of _The Urantia Book_ is the challenge and opportunity of the 21 st 
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: The Structure of Scientific Revolutions, Second Edition, University of Chicago Press, 1970.
+

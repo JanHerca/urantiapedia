@@ -72,11 +72,7 @@ In no small part, this scenario owes its origins to the French mathematician, Re
 
 Worse still, a century later Newton and his heirs conclusively established the principle of causal determinism — the concept that all motion can be predicted exactly using only the physical laws of motion and the initial conditions of the system in motion.
 
-Imagine a bunch of billiard balls on a perfectly even
-
-## The Challenge, cont.
-
-billiard table. Given Newton's equations of motion and the initial positions, masses and velocities of all of these balls at some initial time, then, so determinism claims, the whole future of these billiard balls can be calculated.
+Imagine a bunch of billiard balls on a perfectly even billiard table. Given Newton's equations of motion and the initial positions, masses and velocities of all of these balls at some initial time, then, so determinism claims, the whole future of these billiard balls can be calculated.
 
 The philosophical import of this kind of thinking took root to such a degree that another French philosopherscientist, Pierre Laplace, was able to propose that if some superior intelligence, at a given instance, was acquainted with all the forces by which nature is animated, and at some initial moment also knew the position and velocity of each and every particle of matter then, to that superiorintelligence, neither the past nor the future of the universe would be uncertain.
 
@@ -218,17 +214,17 @@ With idealist science we have arrived at a science that excludes neither the sub
 
 (Please note that the words “consciousness” and “mind” are not precisely defined either in philosophy or in the Urantia revelation and tend to be interchangeable.)
 
-> “_In the evaluation and recognition of mind it should be remembered that ***the universe*** is neither mechanical nor magical; ***it is a creation of mind***._” (<a id="a220_164"></a>[UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
+> “_In the evaluation and recognition of mind it should be remembered that ***the universe*** is neither mechanical nor magical; ***it is a creation of mind***._” (<a id="a216_164"></a>[UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
 
-> “_Mechanisms do not absolutely dominate the total creation; ***the universe of universes in toto is mind planned, mind made, and mind administered***. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind, it is spirit-mind functioning on and from creator levels of divine reality._” (<a id="a222_523"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
+> “_Mechanisms do not absolutely dominate the total creation; ***the universe of universes in toto is mind planned, mind made, and mind administered***. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind, it is spirit-mind functioning on and from creator levels of divine reality._” (<a id="a218_523"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
 
-> “_Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds of mind. Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal._” (<a id="a224_484"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
+> “_Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds of mind. Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal._” (<a id="a220_484"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
 
-> “_The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the ***consciousness*** of God._” (<a id="a226_228"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
+> “_The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the ***consciousness*** of God._” (<a id="a222_228"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
 
-> “_God is possessed of unlimited power to know all things, his ***consciousness*** is universal. Hispersonal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father._” (<a id="a228_328"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
+> “_God is possessed of unlimited power to know all things, his ***consciousness*** is universal. Hispersonal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father._” (<a id="a224_328"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
 
-> “_The Universal Father realizes in the fullness of the divine ***consciousness*** all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ‘***in Him we all live and move and have our being***’._” (<a id="a230_381"></a>[UB 1:5.16](/en/The_Urantia_Book/1#p5_16))
+> “_The Universal Father realizes in the fullness of the divine ***consciousness*** all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ‘***in Him we all live and move and have our being***’._” (<a id="a226_381"></a>[UB 1:5.16](/en/The_Urantia_Book/1#p5_16))
 
 ***(to be continued...)***
 

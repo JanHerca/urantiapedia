@@ -24,7 +24,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Ken_Glaziou/Writing_Styles_of_Papers_in_UB">
+        <a href="/en/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
           <span class="pr-2">Writing Styles of Papers in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -90,7 +90,7 @@ Once we are wholeheartedly dedicated to evaluating the book on its internal meri
         </a>
         </td>
         <td>
-        <a href="/en/article/Ken_Glaziou/Writing_Styles_of_Papers_in_UB">
+        <a href="/en/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
           <span class="pr-2">Writing Styles of Papers in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

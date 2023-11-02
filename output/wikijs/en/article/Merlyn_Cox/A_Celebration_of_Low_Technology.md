@@ -52,6 +52,7 @@ This is why personal testimony is still so important in sharing _The Urantia Boo
 
 I still celebrate high technology, the larger human body electric (Internet, etc.) and its role in sharing the news about _The Urantia Book_; but even more I value the realm of Spirit presence, where two or more are gathered, and the good news it bears witness to becomes most real.
 
+> _The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers._ (<a id="a54_253"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
 
 <figure class="table chapter-navigator">
   <table>
@@ -83,4 +84,3 @@ I still celebrate high technology, the larger human body electric (Internet, etc
 
 
 
-> _The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers._ (<a id="a85_253"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))

@@ -95,6 +95,9 @@ Aphrodite Urania was worshipped as goddess of the sea. She had been created from
 
 Derivations of the word Urantia show up with many peoples, the Sumerians, Assyrians, Babylonians, Greeks and, in particular, Vanites.
 
+## Bibliography
+
+Recommended Urantia Book reading: [Papers 66](/en/The_Urantia_Book/66) to [Paper 78](/en/The_Urantia_Book/78).
 
 <figure class="table chapter-navigator">
   <table>
@@ -120,9 +123,7 @@ Derivations of the word Urantia show up with many peoples, the Sumerians, Assyri
   </table>
 </figure>
 
-## Bibliography
-
-Recommended Urantia Book reading: [Papers 66](/en/The_Urantia_Book/66) to [Paper 78](/en/The_Urantia_Book/78).
+## Notes
 
 [^1]: _The Urantia Book_. Chicago: Urantia Foundation, 1955; pg. 858.
 [^2]: The Bible. Genesis, chapter 11.

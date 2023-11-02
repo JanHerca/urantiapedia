@@ -24,7 +24,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+        <a href="/en/article/Norm_Duval/The_Real_Gospel_2">
           <span class="pr-2">The Real Gospel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -75,7 +75,7 @@ And the greatest miracle is that this inconceivably infinite God lovingly invite
         </a>
         </td>
         <td>
-        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+        <a href="/en/article/Norm_Duval/The_Real_Gospel_2">
           <span class="pr-2">The Real Gospel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -113,7 +113,7 @@ These same mainline clergy have, by and large, refused to seriously examine _The
 From the new sciences I have learned that life is infinitely more integrated than I had ever imagined. When we wrestle with erents that effect our lives, we often move so far away from the guiding principles and patterns of the universe that, when we bump into them, mostly by accident, we have a serendipitous experience. These serendipitous events are a glimpse into what life could be like if we have faith that our lives are in God's hands. The science and art of serendipity is engaged when we exercise this faith by actively cooperating with God's call to respond to a larger vision of Reality.
 
 > _Carol Hay, a longtime student of The Lrantia Book, speaks extensively to church groups on personal religious growth, and is an editor of The Invisible Fellowship Magazine._
-{is-info}
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

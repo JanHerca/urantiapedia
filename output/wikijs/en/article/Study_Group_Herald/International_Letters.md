@@ -125,7 +125,7 @@ God is included in every aspect of life. Each airport, mall, bank, school, offic
 
 In the words of a deeply spiritual Moslem friend, prayer call is the invitation to visit with Allah, to feel His love and peace. In that light, even the dawn call that pierces the early morning quiet and our deep sleep, is greeted with a smile, for the Muezzin calls out, “Come to Allah, come to Allah, prayer is better than sleep.”
 
-_J.J., Geri, Michael \& David Johnson_
+_J.J., Geri, Michael & David Johnson_
 _Hughes Aircraft, Unit 61313_
 _APO AE 09803-1313_
 

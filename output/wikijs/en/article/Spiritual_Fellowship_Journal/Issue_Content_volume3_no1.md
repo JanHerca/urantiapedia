@@ -35,7 +35,7 @@ Volume 3, Number 1, Spring, 1993
 
 - **Some Human Sources of _The Urantia Book_, Matthew Block**
 - **The Service Motive Emerging, Larry Mullins**
-**The Quest for Indigeneity: The Missionary Challenge, Jack Rogers**
+- **The Quest for Indigeneity: The Missionary Challenge, Jack Rogers**
 
 - Signs of a Spiritual Renaissance
 - More About Jesus
@@ -81,7 +81,8 @@ Judy Smith
 Irene Sprunger
 Jack Williams
 
-<ins>Resource Consultants</ins>Vivian Albert
+<ins>Resource Consultants</ins>
+Vivian Albert
 Marilyn Buchanan
 Nancy Long
 Jack Rogers
@@ -98,7 +99,7 @@ __The Spiritual Fellowship Journal__
 Fort Wayne, IN 46806
 (219-745-4363)
 
-Annual Subscription rate: \$5.00 U.S.A., \$7:00 overseas.
+Annual Subscription rate: \$5.00 U.S.A., \$7.00 overseas.
 
 Copyright © 1993, All Rights Reserved.
 
@@ -113,10 +114,10 @@ Copyright © 1993, All Rights Reserved.
 
 ***Articles***
 
-Some Human Sources of _The Urantia Book_
-The authors of _The Urantia Book_ tell us they used many human sources to construct its message on a solid evolutionary foundation. Matthew Block's pioneering research is discovering many of the authors of these sources.
-The Service Motive Emerging
-The service motive is increasingly being recognized as basic to success in business. The old male archetype of being tough and ruthless is becoming obsolete. Someday the ultimate business principle may be: “What would Jesus do?”
+- **Some Human Sources of _The Urantia Book_**
+	The authors of _The Urantia Book_ tell us they used many human sources to construct its message on a solid evolutionary foundation. Matthew Block's pioneering research is discovering many of the authors of these sources.
+- **The Service Motive Emerging**
+	The service motive is increasingly being recognized as basic to success in business. The old male archetype of being tough and ruthless is becoming obsolete. Someday the ultimate business principle may be: “What would Jesus do?”
 
 ***Columns***
 

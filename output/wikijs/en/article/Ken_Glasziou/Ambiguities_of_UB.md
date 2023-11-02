@@ -79,6 +79,7 @@ We now have to reread _The Urantia Book_ in a more scholarly manner, recognizing
 > The proof that revelation is revelation is this same fact of human experience: the fact that revelation does synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy, a co-ordinated and unbroken explanation of both science and religion, thus creating a harmony of mind and satisfaction of spirit which answers in human experience those questionings of the mortal mind which craves to know how the Infinite works out his will and plans in matter, with minds, and on spirit. (<a id="a78_553"></a>[UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
 
 > _Ken T. Glasziou, M. Sc., Ph. D., is a research scientist, retired, who is active in church work in Australia. He is author of_ Science and Religion; The New Age Beyond 2000 A. D., _and_ Christ or Chaos: The Evolution of a Revelation.
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

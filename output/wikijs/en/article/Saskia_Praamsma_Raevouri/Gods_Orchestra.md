@@ -71,6 +71,7 @@ So, let's all tune up our instruments and learn to play in God's symphony orches
 > _Saskia Praamsma Raevouri was born in Holland, grew up in Australia, worked and traveled in Europe and Asia, and now lives in Southern California. One of her biggest questions in life was, “Why do people look and behave differently everywhere I go?” This and many other mysteries were cleared up when she found The Urantia Book in 1977. After a lifelong career working as a final checker on animated feature films at Walt Disney Studios, Saskia is now semi-retired. Together with her partner, Matthew Block, she operates Square Circles Publishing, which is devoted to Urantia Book-related works._
 > 
 > Visit Saskia's website at: https://www.squarecircles.com
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

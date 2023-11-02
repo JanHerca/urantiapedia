@@ -70,7 +70,7 @@ A small group of students shared their differing points of view in May 1993 on t
 
 ## Morning Star Foundation
 
-Your souree for secondary works at uniform pricing: prices include shipping \& handling, domestic or international.
+Your souree for secondary works at uniform pricing: prices include shipping & handling, domestic or international.
 
 &nbsp; | &nbsp;
 --- | ---
@@ -78,7 +78,7 @@ Birth of a Revelation (3rd ed.) | \$7
 Nacimiento de una Revelacion (2nd ed.) | \$7
 \* 5 copies (English or Spanish) | \$30
 \* 10 copies (English or Spanish) | \$57.50
-Numbered Photo/Art Print of Contact Commission \& 533 Diversey | \$35
+Numbered Photo/Art Print of Contact Commission & 533 Diversey | \$35
 Funeral Service | \$5
 New Meaning of Christmas | \$2
 Positive Qualities Chart | \$25

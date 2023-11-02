@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 Volume 13, Number 1, Spring and Summer, 2003
 
-- **Quantum Mysteries \& the Urantia Papers — Part II**, _Light, atomic structure, 860 and lore of the number 137_, Donald Briglia
+- **Quantum Mysteries & the Urantia Papers — Part II**, _Light, atomic structure, 860 and lore of the number 137_, Donald Briglia
 - **Unique Urantian Outreach**, Gary Dangerfield
 - **Personal and Global Peace**, _Can Peace be the Holy Grail of so Many Legends and Quests?_, Anton Schmalz
 - **Where are the Great Urantia Leaders and Teachers?**, Larry Watkins
@@ -152,7 +152,7 @@ Editorials
 
 **SPIRITUAL FELLOWSHIP JOURNAL**
 
-***for Students \& Believers in the Revelation of the Urantia Papers***
+***for Students & Believers in the Revelation of the Urantia Papers***
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">

@@ -176,7 +176,7 @@ Suggested annual donation: $\$ 10$. Please make checks payable to Penumbra Press
 
 **SPIRITUAL FELLOWSHIP JOURNAL**
 
-***for Students \& Believers in the Revelation of the Urantia Papers***
+***for Students & Believers in the Revelation of the Urantia Papers***
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">

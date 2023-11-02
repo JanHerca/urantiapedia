@@ -80,7 +80,7 @@ Of course, like everyone else, I too have fears and doubts. I was terrified my f
 This self-criticism motivates me in the struggle towards God's command, “be perfect even as I am perfect.” It is easy to become complacent about the condition of things and to blindly follow society's norms. Affectation is often used by people to mask their passivity and complacency. I encourage you to break the mold, to do what scares you, and to fulfill your potential. Keep striving; if not for yourself, for the little girl in Guatemala who can only look forward to a future of hand-washing clothes and flipping tortillas for a family of six.
 
 > _Micah Kruger is 25 and lives in Boulder, Colorado. He is one of a new generation of _Urantia Book_ readers who grew up with the Book. Micah did not disclose it in his article, but one of the service projects he is now engaged in is forming a Urantia Youth Group in Boulder. Micah can be reached at krugermquat@hotmail.com_
-{,is-info}
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

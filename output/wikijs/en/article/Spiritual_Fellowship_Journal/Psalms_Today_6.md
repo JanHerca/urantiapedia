@@ -40,7 +40,7 @@ Center of all things and beings.
 
 Wonder and awe, dedication and worship are inspired by the Creator's fathomless presence in the cosmos.
 
-Be led by your loving universe superiors, $O$ mortal, that you too may give the Paradise Father first place in your life!
+Be led by your loving universe superiors, O mortal, that you too may give the Paradise Father first place in your life!
 
 Happy is the person who senses the universal unity of all things.
 

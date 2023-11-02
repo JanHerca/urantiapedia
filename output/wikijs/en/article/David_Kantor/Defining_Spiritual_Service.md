@@ -118,7 +118,7 @@ Unselfish service is the attitude which Jesus challenges us to bring to all of o
 
 As we engage in the process of unselfish service, we bring into temporary existence a living context within which the spiritual forces around us can more effectively function.
 
-The service undertaken by people in our world today constitutes a focal point for spiritual power to be administered directly into people's lives. “Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience.” (<a id="a96_290"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+The service undertaken by people in our world today constitutes a focal point for spiritual power to be administered directly into people's lives. “Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience.” (<a id="a120_290"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 Another view of service is to see it as a genetic mechanism by which divine goodness is replicated and propagated through the living organism of the Supreme.
 

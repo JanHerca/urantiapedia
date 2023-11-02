@@ -184,8 +184,8 @@ Liberalism is slowly seeping in, like it or not. But many of the people Fowler a
 - Greeley, Andrew M. and Mary Greeley Durkin. 1984. _How to Save the Catholic Church_. New York: Viking.
 - Morrow, Glenn R. 1969. _The Ethical and Economic Theories of Adam Smith_. New York: Augustus M. Kelly, Publisher.
 - Rees, John C. 1985. _John Stuart Mill's On Liberty_. Oxford: Clarendon Press.
-- Tucker, Robert C., ed. 1978._ The Marx-Engels Reader_. New York: W.W. Norton \& Co.
-- Wagar, Warren W ed. 1982. _The Secular Mind: Transformation of Faith in Modern Europe_. New York, London: Holmes \& Meier Publishers Inc.
+- Tucker, Robert C., ed. 1978._ The Marx-Engels Reader_. New York: W.W. Norton & Co.
+- Wagar, Warren W ed. 1982. _The Secular Mind: Transformation of Faith in Modern Europe_. New York, London: Holmes & Meier Publishers Inc.
 
 > _Bill Grandstaff is a doctoral student in Political Science. He has worked as a writer, producer, and performer of contemporary music._
 {.is-info}

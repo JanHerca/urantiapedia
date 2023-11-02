@@ -97,7 +97,7 @@ _Clyde first related how he came to be involved in the Forum:_
 
 "I am moved again and again by this passage on UB 95:7.3:
 
-> “_Had the followers of Jesus taken more seriously his injunction to “go into all the world and preach the gospel,” and had they been more gracious in that preaching, less stringent in collateral social requirements of their own devising, then many lands would gladly have received the simple gospel of the carpenter's son, Arabia among them._” <a id="a75_346"></a>[UB 95:7.3](/en/The_Urantia_Book/95#p7_3)
+> “_Had the followers of Jesus taken more seriously his injunction to “go into all the world and preach the gospel,” and had they been more gracious in that preaching, less stringent in collateral social requirements of their own devising, then many lands would gladly have received the simple gospel of the carpenter's son, Arabia among them._” <a id="a99_346"></a>[UB 95:7.3](/en/The_Urantia_Book/95#p7_3)
 
 “Islam resulted from this failure of Abner's missionaries. Two thousand years later . . . many ... are paying the penalty of the failures of Abner's missionaries. And I wonder how many years from now, people will be paying the penalties and suffering for the failures that we have to follow Jesus' instruction . . . to spread and disseminate this gospel to the world now and forever.” 
 

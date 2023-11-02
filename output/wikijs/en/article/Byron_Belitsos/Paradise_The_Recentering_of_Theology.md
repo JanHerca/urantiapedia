@@ -220,7 +220,7 @@ In the final analysis, the ultimate validation of the stereoscopic vision underl
 
 [^5]: Robert John Russell, “Cosmology, Creation, and Contingency,” in _Cosmos as Creation_, (Nashville: Abingdon Press, 1989), p. 182.
 
-[^6] Ibid, p. 185
+[^6]: Ibid, p. 185
 
 [^7]: Arthur R. Peacocke, “God's Interaction with the World: The Implications of Deterministic 'Chaos' and of Interconnected and Interdependent Complexity,” in _Chaos and Complexity: Scientific Perspectives on Divine Action_, (Berkeley: Center for Theology and Natural Sciences, 1995), p. 285
 

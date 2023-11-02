@@ -14,7 +14,7 @@ dateCreated: 2023-10-23T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Michael Bain/Two_Prayer_Poems">
+        <a href="/en/article/Michael_Bain/Two_Prayer_Poems">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Two Prayer Poems</span>
         </a>
         </td>
@@ -136,8 +136,8 @@ The Family Life Committee encourages your participation in any of these initiati
 - Sara Blackstock, 120 Inverness Ct., Benicia, CA 94510 (707) 747-1854
 - Patrick Yesh, Box 693, Porthill, ID 83853 Fax (604) 428-2882
 - Cecelia Lampley, Reno, NV (702) 747-3546
-- Claudia Ayers \& Larry Watkins, Sacramento, CA (916) 482-2082
-- Lee \& Chrissy Smith, Soquel, CA (408) 462-4823
+- Claudia Ayers & Larry Watkins, Sacramento, CA (916) 482-2082
+- Lee & Chrissy Smith, Soquel, CA (408) 462-4823
 
 ## General Council Elections
 
@@ -168,7 +168,7 @@ Larry Watkins, Sacramento, CA, 6 years
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Michael Bain/Two_Prayer_Poems">
+        <a href="/en/article/Michael_Bain/Two_Prayer_Poems">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Two Prayer Poems</span>
         </a>
         </td>

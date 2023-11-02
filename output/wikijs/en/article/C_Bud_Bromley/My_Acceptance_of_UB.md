@@ -101,10 +101,7 @@ What is important is that human beings should be captured by God's love; if, for
 In conclusion, it seems to me that unity in Christ should be more important than uniformity of theology. Mature Christians, whether students of _The Urantia Book_ or not, should agree to disagree agreeably, and should be able to work together for that in which we all believe, the universal Fatherhood of God, and the consequent universal sister/brotherhood of humankind.
 
 > _C. Bud Bromley is a computer programmer and college teacher, now retired. Bud has been a student of_ The Urantia Book _for many years._
-
-## Notes
-
-[^1] To envision a light year, consider a meter stick, with its 1000 millimeters, to represent a light year. If you could drive a car at 65 miles per hour day and night, year after year, nonstop, for 10,317 years, then you would have driven just the first tiny millimeter of that light year.
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
@@ -129,3 +126,8 @@ In conclusion, it seems to me that unity in Christ should be more important than
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: To envision a light year, consider a meter stick, with its 1000 millimeters, to represent a light year. If you could drive a car at 65 miles per hour day and night, year after year, nonstop, for 10,317 years, then you would have driven just the first tiny millimeter of that light year.
+

@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/en/article/Byrdestin/In_Time_to_Eter">
-          <span class="pr-2">In Time to Eter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">In Time to Eternity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -49,6 +49,7 @@ As reading continued, amazing questions surfaced from deep within me, then answe
 In time, connections were made with other readers and study groups and numerous conferences for students of _The Urantia Book_ became an important part of my life. I began to understand that at the very least, this book would help facilitate the conceptual changes needed to solve the urgent spiritual, social, economic, and political problems of our world. Our conflicting diversities need a transcendent unifying principle and new spiritual inspiration if global progress is to occur. The root cause of divisiveness is the failure of individuals to understand their common spiritual potential, the fact of the indwelling presence of God, the source of unity and love. Our world desperately needs a new vision of reality. How important it is to share with humankind the good news that an unprecedented vision of God is portrayed in _The Urantia Book_, and that unimagined creative opportunities to serve the whole human family are revealed in its insights with stunning clarity!
 
 > _Sue Tennant attended Wycliffe College, Toronto School of Theology, and is presently completing her final year at The New Seminary in NYC. She is a former Toronto publicist and author of "Crossing_
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,7 +67,7 @@ In time, connections were made with other readers and study groups and numerous 
         </td>
         <td>
         <a href="/en/article/Byrdestin/In_Time_to_Eter">
-          <span class="pr-2">In Time to Eter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">In Time to Eternity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

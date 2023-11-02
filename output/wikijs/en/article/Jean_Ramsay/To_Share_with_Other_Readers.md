@@ -39,11 +39,11 @@ _Victoria, British Columbia_
 
 With the thought in mind of sharing with other readers some of the thoughts and feelings I experienced in the formative years leading up to my introduction to _The Urantia Book_ revelation, I must refer back to the time in my life when I was faced with something called, “an identity crisis.” A failed marriage had plunged me into a deep depression to the point where my life no longer had meaning and thoughts of suicide obsessed me. I sought help in counseling and was advised to go to church and tum my messed-up life over to God.
 
-Up to that time, my knowledge of God was barely what I had picked up from the meager gleanings of various Sunday School teachers and I was not impressed with the picture. I grew up with a distorted image of a harsh and cruel master who punished disobedient little girls and slew old people and even little babies by casting them alive in an awful place called Hell. I wanted no part of this God! But, in my desperation I seemed to have no other choice. So, off to church I went. And I began to listen to a whole, new concept of God as a kind and loving Father. I began to read the bible and discovered the gospels. I found a friend in Jesus who seemed to understand my need. I liked what he said and taught concerning the Kingdom. He was simple and straight-forward. The theme of his message never varied. He was no respecter of persons, nor possessions, nor even the scribes and the pharisees. And he loved people and had compassion for the poor and the afflicted. He talked to God as to a loving, wise, forgiving Father, “... who so loved the world that He gave His only Son,” not to condemn us, but to help us and to teach us Kingdom Truth that we should not perish but have eternal life. I loved this new concept of God and turned more and more to the study of the scriptures.
-
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Study_Group_Herald/Jean_Ramsay.jpg">
 </figure>
+
+Up to that time, my knowledge of God was barely what I had picked up from the meager gleanings of various Sunday School teachers and I was not impressed with the picture. I grew up with a distorted image of a harsh and cruel master who punished disobedient little girls and slew old people and even little babies by casting them alive in an awful place called Hell. I wanted no part of this God! But, in my desperation I seemed to have no other choice. So, off to church I went. And I began to listen to a whole, new concept of God as a kind and loving Father. I began to read the bible and discovered the gospels. I found a friend in Jesus who seemed to understand my need. I liked what he said and taught concerning the Kingdom. He was simple and straight-forward. The theme of his message never varied. He was no respecter of persons, nor possessions, nor even the scribes and the pharisees. And he loved people and had compassion for the poor and the afflicted. He talked to God as to a loving, wise, forgiving Father, “... who so loved the world that He gave His only Son,” not to condemn us, but to help us and to teach us Kingdom Truth that we should not perish but have eternal life. I loved this new concept of God and turned more and more to the study of the scriptures.
 
 But, as the depression lifted, I became somewhat confused by the many contradictions I encountered. I questioned my teachers, but got no satisfaction. I visited other churches and found only sectarianism and intolerance. No two were alike in their beliefs except in one respect; they all thought that they, alone, were right and all the others wrong. But, surely someone, somewhere had the TRUTH. Or were they all wrong? I turned back to Jesus who claimed to be the truth and I read again as for the first time In the Book of John, chapters 14,15 , and 16 of a promise he made to his grieving, bewildered, disciples. He would ask the Father to send a “comforter”...“Holy Spirit”... even the “Spirit of Truth” — who would lead us into <ins>ALL</ins> truth. Wow! Just what I needed! But how do I get it? — “Ask, and you shall receive.” So, I asked. Nothing happened. I asked again and again. I just kept hammering at the door.
 
@@ -65,6 +65,8 @@ Yours for a closer walk with God.
 
 Jean Ramsay 
 3850, Saanich Road
+
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

@@ -116,7 +116,7 @@ divine power and wisdom until the very
 end, until the last earth struggle is over.
 
 Adapted from an Adjuster's admonition 
-(<a id="a97_1"></a>[UB 110:7.10](/en/The_Urantia_Book/110#p7_10))
+(<a id="a118_1"></a>[UB 110:7.10](/en/The_Urantia_Book/110#p7_10))
 
 ---
 The poetry of my soul is drawn from 

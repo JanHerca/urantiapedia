@@ -50,7 +50,7 @@ In this simple story we are given the essence of what comprises the contemplativ
 
 1. _Solitude, a place apart_. Said Jesus, “When you pray, go away by yourself.”
 2. _Silence_. The Psalmist declared, “Be still and know that I am God.” Without silence we simply will not hear the “still, small voice within” that lovingly reaches out to each of us in communion.
-3. _Resting in God_, simply giving God the fullness of our loving attentiveness. This resting in God is the prayer of the heart, or in the language of _The Urantia Book_, worship. It is a gentle movement of our soul to God with the sole purpose of personal communion, pure relation with the Father of all creation, whose love “absolutely individualizes” each of us “as a unique child of the Universal Father, a child without duplicate in infinity, a will creature irreplaceable in all eternity.” (<a id="a28_497"></a>[UB 12:7.9](/en/The_Urantia_Book/12#p7_9))
+3. _Resting in God_, simply giving God the fullness of our loving attentiveness. This resting in God is the prayer of the heart, or in the language of _The Urantia Book_, worship. It is a gentle movement of our soul to God with the sole purpose of personal communion, pure relation with the Father of all creation, whose love “absolutely individualizes” each of us “as a unique child of the Universal Father, a child without duplicate in infinity, a will creature irreplaceable in all eternity.” (<a id="a52_497"></a>[UB 12:7.9](/en/The_Urantia_Book/12#p7_9))
 
 > From our personal communion with the Father emerges our ability to Love and serve our frothers and sisters.
 
@@ -100,13 +100,13 @@ And said Jesus, “Only one thing is really worthwhile, and since Mary has chose
 
 In his life and teachings Jesus placed a strong priority on our personal communion with the Father. Living faith is predicated upon this personal communion.
 
-On the last page of _The Urantia Book_ we read, “The great challenge of modern man is to achieve better communications with the divine monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness — contact with the divine presence.” <a id="a78_476"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)
+On the last page of _The Urantia Book_ we read, “The great challenge of modern man is to achieve better communications with the divine monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness — contact with the divine presence.” <a id="a102_476"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34)
 
 God is existential; the essence of his infinite being is love. We are called to a personal relationship with God, simply to be with his loving presence. “The Father desires all his creatures to be in personal communion with him.”
 
 God created us for relationships. Relationship is not so much a function of the depths of our intellect, it is a function of our desire to be in personal communion with the Father, and through him, with each other. Teresa of Avila, who was fully alive in the spirit, has a beautiful image. She saw her life as two great rivers: One river coursing its way to God in prayer and the other moving into the world in service.
 
-On <a id="a84_3"></a>[UB 159:5.7](/en/The_Urantia_Book/159#p5_7) a midwayer tells us that Jesus saw the worship of God and the service of man as the sum and substance of his religion. The Fatherhood of God is merely words without sincere worship of God, without intimate personal communion on a regular basis. The Brotherhood of Man is merely words without closeness to God, without that spirit guidance which leads us ever to serve our fellows.
+On <a id="a108_3"></a>[UB 159:5.7](/en/The_Urantia_Book/159#p5_7) a midwayer tells us that Jesus saw the worship of God and the service of man as the sum and substance of his religion. The Fatherhood of God is merely words without sincere worship of God, without intimate personal communion on a regular basis. The Brotherhood of Man is merely words without closeness to God, without that spirit guidance which leads us ever to serve our fellows.
 
 The revelation of God the Supreme as the God of achievement is sublime. The knowledge that angels constantly guide our footsteps is reassuring. The fact that the universe provides endless opportunity for us to learn and grow in perfection and that life is truly an exciting adventure that goes on eternally across the face of infinity is inspiring. But the revelation of God the Father as unconditional love totally eclipses all other teachings.
 

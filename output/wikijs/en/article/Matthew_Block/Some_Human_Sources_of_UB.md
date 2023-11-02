@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/article/Byrdestin/In_Time_to_Eter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Time to Eter</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Time to Eternity</span>
         </a>
         </td>
         <td>
@@ -50,7 +50,7 @@ In 1991 a couple of groups of _Urantia Book_ readers decided, independently of e
 
 A few months later, while doing research for a paper on _The Urantia Book_'s treatment of race and eugenics, I happened upon E. V. Cowdry's _Human Biology and Racial Welfare_. Published in 1930, this book turned out to be another unmistakable source. This discovery, which occurred in the spring of 1992, spurred me on to conduct a concentrated search for other source books.
 
-_Many students of <ins>The Urantia Book</ins> have been intrigued by these references to human sources and have sought to track these sources down. Until recently, however, the findings were meager, consisting mainly of passages from the world's sacred scriptures._
+> _Many students of <ins>The Urantia Book</ins> have been intrigued by these references to human sources and have sought to track these sources down. Until recently, however, the findings were meager, consisting mainly of passages from the world's sacred scriptures._
 
 Below is a list of nineteen books which comprise the sources I have collected so far. All of these books, with a few exceptions noted in the list, contain sentences, paragraphs, or even whole chapters whose phrasings and organization of thoughts or information are so closely paralleled in _The Urantia Book_ as to strongly suggest their use as source materials by the revelators. Most were discovered in libraries and used book stores in the Chicago area during the spring, summer, and fall of 1992, in the course of my research.
 
@@ -86,11 +86,11 @@ The following listings are necessarily brief and incomplete. In the coming month
 
 ## Current Source Books
 
-**Aston**, W. G. Shinto: _The Way of the Gods_. New York: Longmans, Green, \& Co., 1905.
+**Aston**, W. G. Shinto: _The Way of the Gods_. New York: Longmans, Green, & Co., 1905.
 
 _Compare_: _The Urantia Book_: <a id="a90_31"></a>[Paper 131, “The World's Religions,” section 7](/en/The_Urantia_Book/131#p7_1). Sentences from Aston's translation of the “Wa Rongo” collection of Shinto oracles, lightly rewritten or paraphrased, constitute the entire selection of Ganid's abstract of Shinto.
 
-**Bishop**, William Samuel. _The Theology of Personality_. New York: Longmans, Green \& Co., 1926.
+**Bishop**, William Samuel. _The Theology of Personality_. New York: Longmans, Green & Co., 1926.
 
 _Compare_: <a id="a94_11"></a>[Foreword, section 8](/en/The_Urantia_Book/0#p8_1). Although there appears to be no superhuman lifting of content here, Bishop uses the terms “trinity,” “ triunity,” and — amazingly — “A Trinity of Trinities” in the exposition of his constructive theology. These terms are completely re-worked in _The Urantia Book_.
 
@@ -118,7 +118,7 @@ _Compare_: <a id="a114_11"></a>[Paper 51, “The Planetary Adams,” section 4](
 
 _Compare_: <a id="a118_11"></a>[Paper 48, “The Morontia Life,” section 7](/en/The_Urantia_Book/48#p7_1). The vast majority of the 28 “statements of human philosophy” in the Morontia Mota section are taken well-nigh consecutively from the first 35 pages of this 750 page book, which is arranged alphabetically by subject. The subjects from which the revelators cull quotations include: Ability, Accident, Action, Adversity, Affection, Affliction, Anger, Anxiety, Art, Aspiration, etc. These quotes are not reproduced verbatim in _The Urantia Book_ but are recast so as to have a more cosmic and spiritual tone.
 
-**Fosdick**, Harry Emerson. _The Hope of the World_. New York \& London: Harper and Brothers, 1933.
+**Fosdick**, Harry Emerson. _The Hope of the World_. New York & London: Harper and Brothers, 1933.
 
 _Compare_: <a id="a122_11"></a>[Paper 171, “On the Way to Jerusalem,” section 7](/en/The_Urantia_Book/171#p7_1). “Goodness is effective only when it is attractive,” on <a id="a122_148"></a>[UB 171:7.2](/en/The_Urantia_Book/171#p7_2), is the essence of Fosdick's sermon “The Fine Art of Making Goodness Attractive.”
 
@@ -189,7 +189,7 @@ In this passage, _The Urantia Book_ captures the essence of its own magnificent 
       <tr>
         <td>
         <a href="/en/article/Byrdestin/In_Time_to_Eter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Time to Eter</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Time to Eternity</span>
         </a>
         </td>
         <td>

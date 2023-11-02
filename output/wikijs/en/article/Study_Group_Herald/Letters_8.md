@@ -66,7 +66,7 @@ _Flushing, NY_
 
 We are relieved that _The Urantia Book_ is finally in the public domain, and pray that it stays there. We believe a broader outlook is needed. More than one publisher of the book would be a very positive step. Consider the many publishers of the Bible; it hasn't hurt that book.
 
-_G. \& G.M._
+_G. & G.M._
 _Kansas City, MO_
 
 The messages and requirements of _The Urantia Book_ have become central to my life. They guide me as a father of four children, as a business owner and as a business consultant. I intend to become more and more active in my personal ministry related to Urantia.

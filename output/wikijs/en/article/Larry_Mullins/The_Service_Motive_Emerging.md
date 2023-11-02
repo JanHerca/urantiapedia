@@ -172,6 +172,8 @@ Many practical individuals, some of them wise Christian leaders, insist that suc
 
 But surely one day a great business leader will ask _the ultimate question_. His or her words will clearly emanate across a polished board room table. The sophisticated pros and the young MBAs sitting around the table will not register surprise, but will seriously consider the question — because the question asked by this great leader will reflect what is recognized as the most profound business principle available: “***What would Jesus do?***”
 
+> _Larry Mullins is president of Mutual Commiment Management, Boulder, Colorado, and a consultant in advertising and marketing. He is the author of “Immature People With Power,” and “Jesus: God and Man.”_
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
@@ -199,7 +201,7 @@ But surely one day a great business leader will ask _the ultimate question_. His
 
 ## Notes
 
-[^1]: _Total Customer Service: The Ultimate Weapon_, William H. Davidow \& Bro Uttal, Harper \& Row, 1989
+[^1]: _Total Customer Service: The Ultimate Weapon_, William H. Davidow & Bro Uttal, Harper & Row, 1989
 
 [^2]: _Servant Leadership_, Robert K. Greenleaf, Paulist Press, New York, 1977
 
@@ -209,4 +211,3 @@ But surely one day a great business leader will ask _the ultimate question_. His
 
 [^5]: _New Knowledge of Human Values_, Abraham Maslow, Harper & Row, New York, 1959
 
-> _Larry Mullins is president of Mutual Commiment Management, Boulder, Colorado, and a consultant in advertising and marketing. He is the author of “Immature People With Power,” and “Jesus: God and Man.”_

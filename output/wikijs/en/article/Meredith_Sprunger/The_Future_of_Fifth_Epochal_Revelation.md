@@ -85,6 +85,7 @@ There are many appropriate areas of research for those interested in building re
 Our intent is to prepare the soil for the advent of grass roots religious institutions which will become the channels of spiritual power, bringing the Fifth Epochal Revelation to our troubled and spiritually hungry world — Christ Michael's gift and saving guidance to our confused planet. The future of the Fifth Epochal Revelation rests upon the spiritual and evangelical dynamics of new religious institutions which will carry it to the four corners of our world.
 
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of The Spiritual Fellowship Journal._
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

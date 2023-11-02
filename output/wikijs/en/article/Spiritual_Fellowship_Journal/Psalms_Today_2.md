@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Ken_Glaziou/Writing_Styles_of_Papers_in_UB">
+        <a href="/en/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Writing Styles of Papers in The Urantia Book</span>
         </a>
         </td>
@@ -67,7 +67,7 @@ Your love is great, beyond measure; because of your indwelling presence, my life
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Ken_Glaziou/Writing_Styles_of_Papers_in_UB">
+        <a href="/en/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Writing Styles of Papers in The Urantia Book</span>
         </a>
         </td>

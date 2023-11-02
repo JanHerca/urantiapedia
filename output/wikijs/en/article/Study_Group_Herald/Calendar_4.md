@@ -84,9 +84,9 @@ Whole Life Expos will take place this spring in Boston, Atlanta, Austin, West Pa
 <img src="/image/article/Study_Group_Herald/candle.jpg">
 </figure>
 
-> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” _The Urantia Book_ <a id="a65_266"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10)
+> “Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences.” _The Urantia Book_ <a id="a86_266"></a>[UB 102:7.10](/en/The_Urantia_Book/102#p7_10)
 
-> “If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme: As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. ‘How universal is the Supreme; he is on all sides! The limitless things of creation depend on his presence for life, and none are refused.’” _The Urantia Book_ <a id="a67_410"></a>[UB 117:6.2](/en/The_Urantia_Book/117#p6_2)
+> “If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme: As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. ‘How universal is the Supreme; he is on all sides! The limitless things of creation depend on his presence for life, and none are refused.’” _The Urantia Book_ <a id="a88_410"></a>[UB 117:6.2](/en/The_Urantia_Book/117#p6_2)
 
 
 

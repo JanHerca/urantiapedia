@@ -36,7 +36,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Reported by John Hyde, Richardson, Texas_
 
-> “Of all social relations calculated to develop character, the most effective and ideal is the affectionate and understanding friendship of man and roman in the mutual embrace of wedlock. Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives wohich are indispensable to the development of a strong character.” (Rodan) <a id="a14_384"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6)
+> “Of all social relations calculated to develop character, the most effective and ideal is the affectionate and understanding friendship of man and roman in the mutual embrace of wedlock. Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives wohich are indispensable to the development of a strong character.” (Rodan) <a id="a38_384"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6)
 
 Those ideals and aspirations were markedly expressed in the early summer, 1991 at ceremonies uniting Dianne Trouy and Terry Matheny in Texas, Karen Johnson and Tom Allen in Oklahoma, and Joan Batson and Larry Mullins in Colorado.
 
@@ -57,7 +57,7 @@ Carol Hay of Boulder, Colorado, always a welcome entertainer at Urantia gatherin
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Karen_Tom_Allen.jpg">
-<figcaption><em>Karen \& Tom Allen</em></figcaption>
+<figcaption><em>Karen & Tom Allen</em></figcaption>
 </figure>
 
 <figure class="table chapter-navigator">

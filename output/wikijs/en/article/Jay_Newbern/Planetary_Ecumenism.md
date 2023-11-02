@@ -135,4 +135,4 @@ Amen. (So be it)
 
 [^6]: Newsweek, March 27, 2000; p. 56
 
-[^7] “Moments of Grace” p. 16.
+[^7]: “Moments of Grace” p. 16.

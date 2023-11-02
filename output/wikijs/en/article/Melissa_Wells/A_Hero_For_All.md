@@ -24,7 +24,7 @@ dateCreated: 2023-10-23T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Michael Bain/Two_Prayer_Poems">
+        <a href="/en/article/Michael_Bain/Two_Prayer_Poems">
           <span class="pr-2">Two Prayer Poems</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -71,9 +71,9 @@ The manner in which my next job - the beginning of a true career - unfolded rela
 
 I don't like anyone to question my motives or actions. In family life, that happens a lot. But again I learned from Jesus how to handle suspicion and mistrust.
 
-> “True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism ... Sincere men are unafraid of the critical examination of their true convictions and noble ideals. ” (<a id="a49_225"></a>[UB 146:3.2](/en/The_Urantia_Book/146#p3_2))
+> “True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism ... Sincere men are unafraid of the critical examination of their true convictions and noble ideals. ” (<a id="a73_225"></a>[UB 146:3.2](/en/The_Urantia_Book/146#p3_2))
 
-> “Let us be patient; the truth never suffers from honest examination.” (<a id="a51_73"></a>[UB 153:2.11](/en/The_Urantia_Book/153#p2_11))
+> “Let us be patient; the truth never suffers from honest examination.” (<a id="a75_73"></a>[UB 153:2.11](/en/The_Urantia_Book/153#p2_11))
 
 When my mother critically questioned my reasons for separating from my husband and depriving my children of a close relationship with their father, I felt powerless to show her my side of the story. But I faced her tirades of anger, I didn't wither before her misinterpretations of fact, and gently was able to help her see that I was only doing my best in a bad situation. All the while, during those moments of conflict, I held onto images of Jesus standing forthright and representing the truth as he knew it. And it gave me strength to face one of the most important people in my life who had temporarily lost faith in me.
 
@@ -81,9 +81,9 @@ When my mother critically questioned my reasons for separating from my husband a
 
 It never ceases to amaze me how Jesus could so successfully handle the attempts of his enemies to embarrass him in public. Such wisdom, such agility, such clear reasoning are a wonder to me. And I love him all the more for that, because I have so little of it, except in my ability to appreciate it in him.
 
-> “Jesus would have good-naturedly managed the crowd and effectively disarmed even his violent enemies ... Jesus had long taught the apostles that a soft answer turns away wrath.” (<a id="a59_181"></a>[UB 150:9.3](/en/The_Urantia_Book/150#p9_3))
+> “Jesus would have good-naturedly managed the crowd and effectively disarmed even his violent enemies ... Jesus had long taught the apostles that a soft answer turns away wrath.” (<a id="a83_181"></a>[UB 150:9.3](/en/The_Urantia_Book/150#p9_3))
 
-> “On both friends and foes he exercised a strong and peculiarly fascinating influence. Multitudes would follow him for weeks, just to hear his gracious words and behold his simple life. Devoted men and women loved Jesus with a well-nigh superhuman affection. And the better they knew him the more they loved him. And all this is still true; even today and in all future ages, the more man comes to know this God-man, the more he will love and follow after him.” (<a id="a61_464"></a>[UB 149:2.14](/en/The_Urantia_Book/149#p2_14))
+> “On both friends and foes he exercised a strong and peculiarly fascinating influence. Multitudes would follow him for weeks, just to hear his gracious words and behold his simple life. Devoted men and women loved Jesus with a well-nigh superhuman affection. And the better they knew him the more they loved him. And all this is still true; even today and in all future ages, the more man comes to know this God-man, the more he will love and follow after him.” (<a id="a85_464"></a>[UB 149:2.14](/en/The_Urantia_Book/149#p2_14))
 
 ## Jesus, My Friend
 
@@ -97,9 +97,9 @@ My favorite testimony among people trying to live by God's will is to talk about
 
 I prayed to him, “Since I can't escape this problem, I'll face it, but I want to know that you're really going to be there to help me.” And ever since then I've known that I have help from a power far greater than myself. My hero is the best, and he can be yours, too, just for the asking.
 
-> “‘To you and to all who shall follow in your steps down through the ages, let me say: I always stand near, and my invitation-call is, and ever shall be, Come to me all you who labor and are heavy laden, and I will give you rest. Take my yoke upon you and learn of me, for I am true and loyal, and you shall find spiritual rest for your souls.’” <a id="a75_347"></a>[UB 163:6.7](/en/The_Urantia_Book/163#p6_7)
+> “‘To you and to all who shall follow in your steps down through the ages, let me say: I always stand near, and my invitation-call is, and ever shall be, Come to me all you who labor and are heavy laden, and I will give you rest. Take my yoke upon you and learn of me, for I am true and loyal, and you shall find spiritual rest for your souls.’” <a id="a99_347"></a>[UB 163:6.7](/en/The_Urantia_Book/163#p6_7)
 
-> “And they found the Master's words to be true when they put his promises to the test. And since that day countless thousands also have tested and proved the surety of these same promises.” (<a id="a77_192"></a>[UB 163:6.8](/en/The_Urantia_Book/163#p6_8))
+> “And they found the Master's words to be true when they put his promises to the test. And since that day countless thousands also have tested and proved the surety of these same promises.” (<a id="a101_192"></a>[UB 163:6.8](/en/The_Urantia_Book/163#p6_8))
 
 <figure class="table chapter-navigator">
   <table>
@@ -116,7 +116,7 @@ I prayed to him, “Since I can't escape this problem, I'll face it, but I want 
         </a>
         </td>
         <td>
-        <a href="/en/article/Michael Bain/Two_Prayer_Poems">
+        <a href="/en/article/Michael_Bain/Two_Prayer_Poems">
           <span class="pr-2">Two Prayer Poems</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

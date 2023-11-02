@@ -50,7 +50,7 @@ Following is a sampling of responses from those on the Internet:
 
 “I have just found you on the Internet. I am a resident of Juneau, Alaska and have read some of _The Urantia Book_ a few years ago. I have recently rediscovered my views of the universe and find that I need to pick up where I left in the book. I would like to find anyone also interested in the book here in Juneau.”
 
-“We are a newly formed group in Guayaquil, Ecuador interested in the study of this incredible book. We would like to know if this is the proper channel for any Q\&A we might have.”
+“We are a newly formed group in Guayaquil, Ecuador interested in the study of this incredible book. We would like to know if this is the proper channel for any Q&A we might have.”
 
 “The book says Gabriel and Melchizedek are never away from HQ at the same time, but it also says Jesus was talking with them at the same time on Urantia. Why the contradiction?”
 

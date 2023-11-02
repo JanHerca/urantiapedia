@@ -69,7 +69,7 @@ Only a person who risks is free.
 
 Author Unknown
 
-> Forget not — it is your personal faith in the exceedingly great and precious promises of God that ensures your becoming partakers of the divine nature. <a id="a47_154"></a>[UB 143:2.4](/en/The_Urantia_Book/143#p2_4)
+> Forget not — it is your personal faith in the exceedingly great and precious promises of God that ensures your becoming partakers of the divine nature. <a id="a71_154"></a>[UB 143:2.4](/en/The_Urantia_Book/143#p2_4)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/book.jpg">

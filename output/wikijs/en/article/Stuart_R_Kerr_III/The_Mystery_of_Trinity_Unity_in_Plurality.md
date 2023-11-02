@@ -38,7 +38,7 @@ The doctrine of the Trinity has always posed conceptual problems for Christian t
 
 This expanded picture of reality structures the compatibility of awesome complexity and sublime simplicity. _The Urantia Book_ reveals a cosmos functioning as a harmonious system. Divine infinity is mirrored in the multiplicity of finite things, and divine eternity is integrally expressed in the endless temporal succession of cosmic events. The interrelatedness of finite things to one another and to the whole expresses a comprehensive and true “unity in plurality.”
 
-> The universe of universes is altogether unified. God is one in power and personality. There is co-ordination of all levels of energy and all phases of personality. Philosophically and experientially, in concept and in reality, all things and beings center in the Paradise Father. God is all and in all, and no things or beings exist without him. (U. B. p. 646:1)
+> The universe of universes is altogether unified. God is one in power and personality. There is co-ordination of all levels of energy and all phases of personality. Philosophically and experientially, in concept and in reality, all things and beings center in the Paradise Father. God is all and in all, and no things or beings exist without him. (<a id="a40_349"></a>[UB 56:9.14](/en/The_Urantia_Book/56#p9_14))
 
 ## The Evolutionary Nature of Spiritual Growth
 

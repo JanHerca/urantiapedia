@@ -72,7 +72,7 @@ The Fellowship has elected several new area coordinators. If you know readers of
 
 ## 1995 Summer Intensive
 
-The **Education Committee** has prepared an agenda for next year's Summer Intensive program, tentatively to be held July 22-27 at Fairleigh Dickinson University in Teaneck, New Jersey. The theme for the six-day event is ***Spiritual Communion — Theory \& Practice***.
+The **Education Committee** has prepared an agenda for next year's Summer Intensive program, tentatively to be held July 22-27 at Fairleigh Dickinson University in Teaneck, New Jersey. The theme for the six-day event is ***Spiritual Communion — Theory & Practice***.
 
 “The university is convenient to the Newark airport and it's a place where there are a lot of readers,” says **Dan Massey**, chairman of the committee.
 

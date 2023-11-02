@@ -56,9 +56,9 @@ The particular problems in Northern Ireland have led us to carefully examine wha
 
 &nbsp; | &nbsp;
 --- | ---
-<a id="a34_0"></a>[UB 70:1.2](/en/The_Urantia_Book/70#p1_2) | War is/Human interassociations
-<a id="a35_0"></a>[UB 99:0.2](/en/The_Urantia_Book/99#p0_2) | But religion/cultural requirements
-<a id="a36_0"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4) | Ganid, I/the contrary.
+<a id="a58_0"></a>[UB 70:1.2](/en/The_Urantia_Book/70#p1_2) | War is/Human interassociations
+<a id="a59_0"></a>[UB 99:0.2](/en/The_Urantia_Book/99#p0_2) | But religion/cultural requirements
+<a id="a60_0"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4) | Ganid, I/the contrary.
 
 <figure class="table chapter-navigator">
   <table>

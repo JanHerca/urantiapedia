@@ -96,7 +96,7 @@ __The Spiritual Fellowship Journal__
 Fort Wayne, IN 46806
 (219-745-4363)
 
-Annual Subscription rate: \$5.00 U.S.A., \$7:00 overseas.
+Annual Subscription rate: \$5.00 U.S.A., \$7.00 overseas.
 
 Copyright © 1996, All Rights Reserved.
 

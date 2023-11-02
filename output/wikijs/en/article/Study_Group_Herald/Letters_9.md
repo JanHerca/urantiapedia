@@ -100,6 +100,29 @@ Knowing that the book will inevitably be controversial, we in the vanguard must 
 
 Our spirituality and dedication will grow as we respond to these challenges.
 
+## A Note on Gardner
+
+_Wayne & Ute Ferrier_
+_Berkshire, NY_
+
+In an effort to refute _The Urantia Book_, Martin Gardner examined several statements from the book and analyzed communications from people conversant with it. Among the numerous details Gardner tries to prove erroneous is the existence of cannibalism and he challenges the notion that ritual cannibalism was universal in primitive societies. In his book, _Urantia: The Great Cult Mystery_, Gardner writes the following: “Today's anthropologists are rapidly accepting the view that ritual cannibalism, as opposed to cannibalism for survival and other reasons, never existed.”
+
+Gardner bases his statement on William Arens's book, _The Man-Eating Myth_. According to Gardner, “Arens argues convincingly that belief in such rituals rests entirely on hearsay statements by missionaries, or by naive anthropologists reporting what was told to them by neighboring enemy tribes about practices they never witnessed.”[^1]
+
+Upon further examination, however, the picture is quite different from the one Gardner paints. Not only does Gardner distort the essence and purpose of Arens's book, he also neglects to mention that this anthropologist is a highly controversial figure in his discipline. Rebuttals of Arens's argument are not difficult to find and several book reviews on _The Man-Eating Myth_ have been published. Gardner takes Arens as an authority on the subject, ignores critics, implies that Arens is representative of “anthropologists today” and utilizes it as proof to one more falsity extant in _The Urantia Book_.
+
+Gardner does not mention that Arens's book is less about whether or not cannibalism existed or exists and more an attempt to discredit anthropology as a discipline. Ivan Brady, who reviewed Arens's book in the _American Anthropologist_, reminds the reader that “Arens's book is less an attempt to set the record straight on cannibalism (where it does or does not occur and why) than it is an indictment of anthropology...”[^2] Although _The Man-Eating Myth_ has successfully cautioned anthropologists about their use of evidence, it has not proven rationally or persuasively that ritual cannibalism does not exist.[^3] Janet Hook, assistant editor at _The Public Interest_ wrote in her review that Arens's argument “smacks a little too much of academic ax-grinding. It vastly overstates the case to imply that anthropologisis' whole professional identity is at stake in their belief in cannibals.”[^4] Arens is up front about this and states early on that for him the “question whether or not people eat each other is taken as interesting but moot.”[^5]
+
+At the end of his book Arens concludes that what remains certain is "that all cultures, subcultures, religions, sects, secret societies and every other possible human association have been labeled anthropophagic [cannibalistic] by someone.[^6] Arens is convinced that there is insufficient scientific evidence to substantiate cannibalism and he challenges the validity of some better-known cases. Arens is correct that most of the stories about cannibalism are hard to verify and often stories were passed on by individuals who had no scientific qualifications. However, critics of Arens have pointed out that sometimes he dismisses evidence because the slightest details don't add up.[^7] While some of Arens's criticism is justified, he weakens his argument by the way in which he discredits all first-hand sources. For example, Arens questions the validity of one account of cannibalism, because the Indians are described as both naked and wearing feathers.[^8]
+
+According to Brady, Arens's argument is an “unsophisticated version of positivism and naturalism” which insists on the so-called scientific method.[^9] Arens is preoccupied with scientific fact and less interested in the meaning of the accounts. Arens himself acknowledges in his book that the cases he studies are not necessarily representative and anticipates that some of his colleagues will refute him with knowledge of a people he failed to examine. He also states that “[a]ccording to standard ethnographic methodology, it is not possible to demonstrate conclusively that a practice does not exist.”[^10] Arens's approach was to discredit some of the more popular case studies to demonstrate his point. For Arens the act of cannibalism is not universal but the idea of ”others" as cannibals is.[^11] It was usually those strange people down yonder who were stigmatized as man-eaters.
+
+Cannibalism, however, was not exclusively a means to label others. Some people, such as the Iroquois Indians of eastern North America acknowledged cannibalism as part of their own past. The Deganawidah legend of the Iroquois people, which among other things speaks of cannibalism, exists in several versions. The element of cannibalism is present in all the surviving versions, although other details of the legend vary somewhat.[^12]
+
+Arens's main contention is that there is not enough scientific evidence to accept cannibalism as a fact. If, however, a lack of scientific standard is what Arens tries to correct, it is all the more paradoxical that Gardner took up the argument without acknowledging the controversy or researching the issue.
+
+> divine energy pervades all creation ... forever pattern of PAradise into the energies of space.
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -125,28 +148,7 @@ Our spirituality and dedication will grow as we respond to these challenges.
   </table>
 </figure>
 
-## A Note on Gardner
-
-_Wayne \& Ute Ferrier_
-_Berkshire, NY_
-
-In an effort to refute _The Urantia Book_, Martin Gardner examined several statements from the book and analyzed communications from people conversant with it. Among the numerous details Gardner tries to prove erroneous is the existence of cannibalism and he challenges the notion that ritual cannibalism was universal in primitive societies. In his book, _Urantia: The Great Cult Mystery_, Gardner writes the following: “Today's anthropologists are rapidly accepting the view that ritual cannibalism, as opposed to cannibalism for survival and other reasons, never existed.”
-
-Gardner bases his statement on William Arens's book, _The Man-Eating Myth_. According to Gardner, “Arens argues convincingly that belief in such rituals rests entirely on hearsay statements by missionaries, or by naive anthropologists reporting what was told to them by neighboring enemy tribes about practices they never witnessed.”[^1]
-
-Upon further examination, however, the picture is quite different from the one Gardner paints. Not only does Gardner distort the essence and purpose of Arens's book, he also neglects to mention that this anthropologist is a highly controversial figure in his discipline. Rebuttals of Arens's argument are not difficult to find and several book reviews on _The Man-Eating Myth_ have been published. Gardner takes Arens as an authority on the subject, ignores critics, implies that Arens is representative of “anthropologists today” and utilizes it as proof to one more falsity extant in _The Urantia Book_.
-
-Gardner does not mention that Arens's book is less about whether or not cannibalism existed or exists and more an attempt to discredit anthropology as a discipline. Ivan Brady, who reviewed Arens's book in the _American Anthropologist_, reminds the reader that “Arens's book is less an attempt to set the record straight on cannibalism (where it does or does not occur and why) than it is an indictment of anthropology...”[^2] Although _The Man-Eating Myth_ has successfully cautioned anthropologists about their use of evidence, it has not proven rationally or persuasively that ritual cannibalism does not exist.[^3] Janet Hook, assistant editor at _The Public Interest_ wrote in her review that Arens's argument “smacks a little too much of academic ax-grinding. It vastly overstates the case to imply that anthropologisis' whole professional identity is at stake in their belief in cannibals.”[^4] Arens is up front about this and states early on that for him the “question whether or not people eat each other is taken as interesting but moot.”[^5]
-
-At the end of his book Arens concludes that what remains certain is "that all cultures, subcultures, religions, sects, secret societies and every other possible human association have been labeled anthropophagic [cannibalistic] by someone.[^6] Arens is convinced that there is insufficient scientific evidence to substantiate cannibalism and he challenges the validity of some better-known cases. Arens is correct that most of the stories about cannibalism are hard to verify and often stories were passed on by individuals who had no scientific qualifications. However, critics of Arens have pointed out that sometimes he dismisses evidence because the slightest details don't add up.[^7] While some of Arens's criticism is justified, he weakens his argument by the way in which he discredits all first-hand sources. For example, Arens questions the validity of one account of cannibalism, because the Indians are described as both naked and wearing feathers.[^8]
-
-According to Brady, Arens's argument is an “unsophisticated version of positivism and naturalism” which insists on the so-called scientific method.[^9] Arens is preoccupied with scientific fact and less interested in the meaning of the accounts. Arens himself acknowledges in his book that the cases he studies are not necessarily representative and anticipates that some of his colleagues will refute him with knowledge of a people he failed to examine. He also states that “[a]ccording to standard ethnographic methodology, it is not possible to demonstrate conclusively that a practice does not exist.”[^10] Arens's approach was to discredit some of the more popular case studies to demonstrate his point. For Arens the act of cannibalism is not universal but the idea of ”others" as cannibals is.[^11] It was usually those strange people down yonder who were stigmatized as man-eaters.
-
-Cannibalism, however, was not exclusively a means to label others. Some people, such as the Iroquois Indians of eastern North America acknowledged cannibalism as part of their own past. The Deganawidah legend of the Iroquois people, which among other things speaks of cannibalism, exists in several versions. The element of cannibalism is present in all the surviving versions, although other details of the legend vary somewhat.[^12]
-
-Arens's main contention is that there is not enough scientific evidence to accept cannibalism as a fact. If, however, a lack of scientific standard is what Arens tries to correct, it is all the more paradoxical that Gardner took up the argument without acknowledging the controversy or researching the issue.
-
-> divine energy pervades all creation ... forever pattern of PAradise into the energies of space.
+## Notes
 
 [^1]: Martin Gardner. _Urantia: The Great Cult Mystery_. New York: Prometheus Books, 1995; p. 218.
 
@@ -156,7 +158,7 @@ Arens's main contention is that there is not enough scientific evidence to accep
 
 [^4]: “Janet Hook. “The Man-Eating Myth.” _New Republic_ 181 (September 1, 1979): 36.
 
-[^5]: William Arens. _The Man-Eating Myth: Anthropology \& Anthropophagy_. New York: Oxford Univ. Press, 1979; p. 9.
+[^5]: William Arens. _The Man-Eating Myth: Anthropology & Anthropophagy_. New York: Oxford Univ. Press, 1979; p. 9.
 
 [^6]: Arens; p. 139.
 
@@ -170,4 +172,4 @@ Arens's main contention is that there is not enough scientific evidence to accep
 
 [^11]: Arens; p. 139.
 
-[^12] Dean R. Snow. The Iroquois. Oxford, UK: Blackwell, 1994; p. 60.
+[^12]: Dean R. Snow. The Iroquois. Oxford, UK: Blackwell, 1994; p. 60.

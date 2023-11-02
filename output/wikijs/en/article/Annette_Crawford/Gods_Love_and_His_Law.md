@@ -38,42 +38,42 @@ _Study Group Notes Assembled by Annette Crawford, Deinver, Colorado._
 > This study presents a truly beautiful glimpse of the landscape of mercy ministry and immutable divine law.
 {.is-info}
 
-> “Justice is the collective thought of righteousness; mercy is its personal expression. Mercy is the attitude of love; precision characterizes the operation of law; divine judgement is the soul of fairness, ever conforming to the justice of the Trinity, ever fulfilling the divine love of God. When fully perceived and completely understood, the righteous justice of the Trinity and the merciful love of the Universal Father are coincident. But man has no such full understanding of divine justice. Thus in the Trinity, as man would view it, the personalities of Father, Son, and Spirit are adjusted to co-ordinate ministry of love and law in the experiential universes of time.” <a id="a19_681"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18)
+> “Justice is the collective thought of righteousness; mercy is its personal expression. Mercy is the attitude of love; precision characterizes the operation of law; divine judgement is the soul of fairness, ever conforming to the justice of the Trinity, ever fulfilling the divine love of God. When fully perceived and completely understood, the righteous justice of the Trinity and the merciful love of the Universal Father are coincident. But man has no such full understanding of divine justice. Thus in the Trinity, as man would view it, the personalities of Father, Son, and Spirit are adjusted to co-ordinate ministry of love and law in the experiential universes of time.” <a id="a40_681"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18)
 
 Page Numbers: | Begins/Ends with:
 --- | ---
-<a id="a23_0"></a>[UB 16:8.17](/en/The_Urantia_Book/16#p8_17) | The cosmic-mind-endowed/recognition.
-<a id="a24_0"></a>[UB 102:7.2](/en/The_Urantia_Book/102#p7_2) | God is/evolving universe.
-<a id="a25_0"></a>[UB 10:6.2](/en/The_Urantia_Book/10#p6_2) | All law/the Trinity.
-<a id="a26_0"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18) | Justice is/universes of time.
-<a id="a27_0"></a>[UB 104:2.4](/en/The_Urantia_Book/104#p2_4) | Through the/Paradise Trinity.
-<a id="a28_0"></a>[UB 111:6.6](/en/The_Urantia_Book/111#p6_6) | Science is/cosmic philosophy.
-<a id="a29_0"></a>[UB 118:10.12-15](/en/The_Urantia_Book/118#p10_12)-4 | In the beginnings/finite growth.
-<a id="a30_0"></a>[UB 2:7.4](/en/The_Urantia_Book/2#p7_4) | Divine truth/celestial personalities.
-<a id="a31_0"></a>[UB 39:3.2](/en/The_Urantia_Book/39#p3_2) | 2\. Law/worlds of space.
-<a id="a32_0"></a>[UB 12:8.4](/en/The_Urantia_Book/12#p8_4) | Whatever the/Isle of Paradise.
-<a id="a33_0"></a>[UB 25:4.6](/en/The_Urantia_Book/25#p4_6) | Those mortals/truth to others.
-<a id="a34_0"></a>[UB 25:4.15](/en/The_Urantia_Book/25#p4_15) | These advisors/the creators.
-<a id="a35_0"></a>[UB 12:6.13](/en/The_Urantia_Book/12#p6_13) | There is/universe of universes.
-<a id="a36_0"></a>[UB 4:1.2](/en/The_Urantia_Book/4#p1_2) | For ages/universe children.
-<a id="a37_0"></a>[UB 12:7.3](/en/The_Urantia_Book/12#p7_3) | God is/evolutionary creatures.
-<a id="a38_0"></a>[UB 2:6.7](/en/The_Urantia_Book/2#p6_7) | God is/co-ordinates of God.
-<a id="a39_0"></a>[UB 2:6.8](/en/The_Urantia_Book/2#p6_8) | God loves/spiritual universe.
-<a id="a40_0"></a>[UB 2:5.3](/en/The_Urantia_Book/2#p5_3) | The creators/afflicted with us."
-<a id="a41_0"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18) | Justice is/universes of time.
-<a id="a42_0"></a>[UB 146:2.5](/en/The_Urantia_Book/146#p2_5) | 4\. There is/not find me."
-<a id="a43_0"></a>[UB 67:7.4](/en/The_Urantia_Book/67#p7_4) | Sin is/the soul.
-<a id="a44_0"></a>[UB 118:7.4](/en/The_Urantia_Book/118#p7_4) | Sin in/cosmic citizenship.
-<a id="a45_0"></a>[UB 48:6.4-21](/en/The_Urantia_Book/48#p6_4) | 1\. Seraphic/morontia life.
-<a id="a46_0"></a>[UB 72:12.5](/en/The_Urantia_Book/72#p12_5) | The pouring/light and life.
-<a id="a47_0"></a>[UB 148:5.4](/en/The_Urantia_Book/148#p5_4) | "Nathaniel,/divine ordinance.
-<a id="a48_0"></a>[UB 101:10.6](/en/The_Urantia_Book/101#p10_6) | Never can/Deity attainment.
-<a id="a49_0"></a>[UB 131:2.12](/en/The_Urantia_Book/131#p2_12) | "Says God,/not covet'
-<a id="a50_0"></a>[UB 142:1.2-6](/en/The_Urantia_Book/142#p1_2) | Throughout this/the kingdom.
-<a id="a51_0"></a>[UB 142:3.12](/en/The_Urantia_Book/142#p3_12) | “And then/of man”
-<a id="a52_0"></a>[UB 153:2.2](/en/The_Urantia_Book/153#p2_2) | Jesus introduced/press you.
-<a id="a53_0"></a>[UB 46:8.4](/en/The_Urantia_Book/46#p8_4) | There will/obliteration.
-<a id="a54_0"></a>[UB 48:6.29-32](/en/The_Urantia_Book/48#p6_29) | 6\. Recorder-teachers/the truth.
+<a id="a44_0"></a>[UB 16:8.17](/en/The_Urantia_Book/16#p8_17) | The cosmic-mind-endowed/recognition.
+<a id="a45_0"></a>[UB 102:7.2](/en/The_Urantia_Book/102#p7_2) | God is/evolving universe.
+<a id="a46_0"></a>[UB 10:6.2](/en/The_Urantia_Book/10#p6_2) | All law/the Trinity.
+<a id="a47_0"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18) | Justice is/universes of time.
+<a id="a48_0"></a>[UB 104:2.4](/en/The_Urantia_Book/104#p2_4) | Through the/Paradise Trinity.
+<a id="a49_0"></a>[UB 111:6.6](/en/The_Urantia_Book/111#p6_6) | Science is/cosmic philosophy.
+<a id="a50_0"></a>[UB 118:10.12-15](/en/The_Urantia_Book/118#p10_12)-4 | In the beginnings/finite growth.
+<a id="a51_0"></a>[UB 2:7.4](/en/The_Urantia_Book/2#p7_4) | Divine truth/celestial personalities.
+<a id="a52_0"></a>[UB 39:3.2](/en/The_Urantia_Book/39#p3_2) | 2\. Law/worlds of space.
+<a id="a53_0"></a>[UB 12:8.4](/en/The_Urantia_Book/12#p8_4) | Whatever the/Isle of Paradise.
+<a id="a54_0"></a>[UB 25:4.6](/en/The_Urantia_Book/25#p4_6) | Those mortals/truth to others.
+<a id="a55_0"></a>[UB 25:4.15](/en/The_Urantia_Book/25#p4_15) | These advisors/the creators.
+<a id="a56_0"></a>[UB 12:6.13](/en/The_Urantia_Book/12#p6_13) | There is/universe of universes.
+<a id="a57_0"></a>[UB 4:1.2](/en/The_Urantia_Book/4#p1_2) | For ages/universe children.
+<a id="a58_0"></a>[UB 12:7.3](/en/The_Urantia_Book/12#p7_3) | God is/evolutionary creatures.
+<a id="a59_0"></a>[UB 2:6.7](/en/The_Urantia_Book/2#p6_7) | God is/co-ordinates of God.
+<a id="a60_0"></a>[UB 2:6.8](/en/The_Urantia_Book/2#p6_8) | God loves/spiritual universe.
+<a id="a61_0"></a>[UB 2:5.3](/en/The_Urantia_Book/2#p5_3) | The creators/afflicted with us."
+<a id="a62_0"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18) | Justice is/universes of time.
+<a id="a63_0"></a>[UB 146:2.5](/en/The_Urantia_Book/146#p2_5) | 4\. There is/not find me."
+<a id="a64_0"></a>[UB 67:7.4](/en/The_Urantia_Book/67#p7_4) | Sin is/the soul.
+<a id="a65_0"></a>[UB 118:7.4](/en/The_Urantia_Book/118#p7_4) | Sin in/cosmic citizenship.
+<a id="a66_0"></a>[UB 48:6.4-21](/en/The_Urantia_Book/48#p6_4) | 1\. Seraphic/morontia life.
+<a id="a67_0"></a>[UB 72:12.5](/en/The_Urantia_Book/72#p12_5) | The pouring/light and life.
+<a id="a68_0"></a>[UB 148:5.4](/en/The_Urantia_Book/148#p5_4) | "Nathaniel,/divine ordinance.
+<a id="a69_0"></a>[UB 101:10.6](/en/The_Urantia_Book/101#p10_6) | Never can/Deity attainment.
+<a id="a70_0"></a>[UB 131:2.12](/en/The_Urantia_Book/131#p2_12) | "Says God,/not covet'
+<a id="a71_0"></a>[UB 142:1.2-6](/en/The_Urantia_Book/142#p1_2) | Throughout this/the kingdom.
+<a id="a72_0"></a>[UB 142:3.12](/en/The_Urantia_Book/142#p3_12) | “And then/of man”
+<a id="a73_0"></a>[UB 153:2.2](/en/The_Urantia_Book/153#p2_2) | Jesus introduced/press you.
+<a id="a74_0"></a>[UB 46:8.4](/en/The_Urantia_Book/46#p8_4) | There will/obliteration.
+<a id="a75_0"></a>[UB 48:6.29-32](/en/The_Urantia_Book/48#p6_29) | 6\. Recorder-teachers/the truth.
 
 
 

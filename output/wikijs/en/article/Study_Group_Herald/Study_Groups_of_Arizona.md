@@ -138,7 +138,7 @@ The group was studying Paper 14 , The Central and Divine Universe, when the Maxt
 
 
 
-In business as well as spirituality, I have learned not to prejudge or underestimate the curiosity or tenacity of people, the perfect functioning of their Adjusters and the powers of three great spirit discerners of revelation: Michael's Spirit of Truth; the Mother Spirit's selfbestowing, adjutant sensitivities, and the mentally inherent “reality response.” (<a id="a116_361"></a>[UB 16:6.4](/en/The_Urantia_Book/16#p6_4))
+In business as well as spirituality, I have learned not to prejudge or underestimate the curiosity or tenacity of people, the perfect functioning of their Adjusters and the powers of three great spirit discerners of revelation: Michael's Spirit of Truth; the Mother Spirit's selfbestowing, adjutant sensitivities, and the mentally inherent “reality response.” (<a id="a140_361"></a>[UB 16:6.4](/en/The_Urantia_Book/16#p6_4))
 
 Among others who attend the group regularly are Dick and Peggy Johnson. and Eve McMahon. Although Larry is the host, he is not necessarily the leader. The group tends to lead itself and depends on the collective wisdom of its members, who together have about 100 years of readership. Most of the members of this group attend other study groups in the Phoenix area.
 

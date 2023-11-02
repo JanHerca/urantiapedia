@@ -1,5 +1,5 @@
 ---
-title: "A Careful Examination of the “Not Inspired” Disclaimers of _The Urantia Book_- Part 2"
+title: "A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part 2)"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

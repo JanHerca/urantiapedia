@@ -1,5 +1,5 @@
 ---
-title: "The Study Group Herald — Issue Content, December 1991"
+title: "Bulletin Board"
 description: 
 published: true
 date: 2023-10-29T10:55:6Z
@@ -7,8 +7,6 @@ tags: Study Group Herald, article
 editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
-
-# Bulletin Board
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 The Fellowship for readers of The Urantia Book</p>
 <figure class="table chapter-navigator">

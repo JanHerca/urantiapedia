@@ -42,7 +42,7 @@ _The Urantia Book_ is also in print in two minor languages: Dutch (21 million) a
 
 Speaker Population in Millions
 
-(Totals are from 1999 World Almanac \& Book of Facts)
+(Totals are from 1999 World Almanac & Book of Facts)
 
 1. CHINESE MANDARIN (in translation) — 1,052; 
 2. ENGLISH (in print) — 508; 

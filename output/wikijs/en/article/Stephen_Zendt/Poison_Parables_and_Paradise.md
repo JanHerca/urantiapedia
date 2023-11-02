@@ -92,13 +92,6 @@ Leavening and cleansing and healing are actions these parables of Jesus will pro
 > _Stephen Zendt lives in California and works in financial services. A long time reader of _The Urantia Book_, he was involved in a project to record TUB on tape, served on the Fellowship General Council for nine years, and was host for a weekly study group in San Francisco for twenty years._
 {.is-info}
 
-## Notes
-
-[^1] Seal, Ervin. Learn to Live, “The Meaning of the Parables,” p. 23. William Morrow, N.Y., 1955
-
-
-
-
 
 <figure class="table chapter-navigator">
   <table>
@@ -120,3 +113,11 @@ Leavening and cleansing and healing are actions these parables of Jesus will pro
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: Seal, Ervin. Learn to Live, “The Meaning of the Parables,” p. 23. William Morrow, N.Y., 1955
+
+
+
+

@@ -62,7 +62,7 @@ The Fellowship publishes The Study Group Herald three times a year. Quotations a
     - Photo Essay
     - Opening Benediction
     - The Cosmic Family
-    - Faith Makes All Things Dossible \& Love Makes Them Beautiful
+    - Faith Makes All Things Dossible & Love Makes Them Beautiful
     - We're All Connected
     - _The Urantia Book_ in Lithuania
     - Photo Essay

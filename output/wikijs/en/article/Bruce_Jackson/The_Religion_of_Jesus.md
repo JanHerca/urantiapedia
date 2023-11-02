@@ -225,6 +225,7 @@ Although I respect the forgoing statement, I am not absolutely convinced that it
 > Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. (<a id="a224_590"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 > _Bruce R. Jackson is a musician, teacher, and minister in background training and experience, and a long time student of_ The Urantia Book.
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

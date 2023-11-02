@@ -36,7 +36,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 By Paula J. Thompson, Boulder, Colorado
 
-“The kingdom of Heaven is neither a social nor economic order; it is an exclusively spiritual brotherhood of God-knowing individuals.”, (Urantia Book, <a id="a14_151"></a>[UB 99:3.2](/en/The_Urantia_Book/99#p3_2))
+“The kingdom of Heaven is neither a social nor economic order; it is an exclusively spiritual brotherhood of God-knowing individuals.”, (Urantia Book, <a id="a38_151"></a>[UB 99:3.2](/en/The_Urantia_Book/99#p3_2))
 
 The first Parliament of World's Religions occurred in 1893 at the Palmer House Hotel in Chicago. The list of religions represented at that historic event reads like a Who's Who of 20th century religions.
 

@@ -129,6 +129,7 @@ Living as a child in God's family can become an ever-present experience for each
 (These ideas were presented in an earlier form at the Fellowship's 1993 International Conference under the title “The Familist Way,” copyright 1993)
 
 > _Marvin Gawryn is a Mariage and Family Therapist, the author of Reaching High: The Psychology of Spiritual Living, and a long-time student of_ The Urantia Book.
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

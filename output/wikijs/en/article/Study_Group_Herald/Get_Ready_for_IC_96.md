@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Michael Gillespie, Robin Robinson \& Melissa Wells<br>© 1996 The Fellowship for readers of The Urantia Book</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Michael Gillespie, Robin Robinson & Melissa Wells<br>© 1996 The Fellowship for readers of The Urantia Book</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -34,9 +34,9 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-“... the faith of spirt born man confers the assurance of living fellowship with the eternal God.” _The Urantia Book_ <a id="a12_118"></a>[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)
+“... the faith of spirt born man confers the assurance of living fellowship with the eternal God.” _The Urantia Book_ <a id="a36_118"></a>[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)
 
-**By Michael Gillespie, Robin Robinson \& Melissa Wells**
+**By Michael Gillespie, Robin Robinson & Melissa Wells**
 
 A buzz of activity is underway as the Urantia reader community prepares to explore the many dimensions of “Living Faith” at the 1996 International Conference, August 3rd through 8th at the Northern Arizona University campus in Flagstaff, Arizona.
 

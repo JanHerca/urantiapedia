@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dr_Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part II)</span>
         </a>
         </td>
@@ -34,7 +34,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 </figure>
 
 
-Dennis W. Bakke, cofounder and CEO of Applied Energy Services (AES), a worldwide company with 40,000 employees, who has pioneered a revolutionary approach to management and leadership. In Joy At Work, $P V G, 2005$, Bakke presents the principles of servant leadership. The four major shared values of AES are to act with integrity, to be fair, to have fun, and to be socially responsible. “I am convinced,” Bakke says, “that the next form of discrimination that needs to be overturned is the second-class treatment accorded to working men and women.” (p. 121) The majority of the workers at AES were placed on salaries like management people.
+Dennis W. Bakke, cofounder and CEO of Applied Energy Services (AES), a worldwide company with 40,000 employees, who has pioneered a revolutionary approach to management and leadership. In _Joy At Work_, PVG, 2005, Bakke presents the principles of servant leadership. The four major shared values of AES are to act with integrity, to be fair, to have fun, and to be socially responsible. “I am convinced,” Bakke says, “that the next form of discrimination that needs to be overturned is the second-class treatment accorded to working men and women.” (p. 121) The majority of the workers at AES were placed on salaries like management people.
 
 Workers are encouraged to take initiative, practice self-discipline, make decisions, and assume responsibility for their actions. The basic character traits for leaders are to embrace company values, the humility to give up power, and love for people. The most important aspect of leadership is to let others make important decisions.
 
@@ -45,7 +45,7 @@ The epilogue of the book describes people in AES who were given the opportunity 
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dr_Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
+        <a href="/en/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Careful Examination of the “Not Inspired” Disclaimers of The Urantia Book (Part II)</span>
         </a>
         </td>

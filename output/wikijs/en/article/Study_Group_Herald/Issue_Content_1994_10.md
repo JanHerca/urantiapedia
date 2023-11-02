@@ -39,7 +39,7 @@ Issue No. 5. For readers of _The Urantia Book_. Fall 1994
 
 ## Table of Contents
 
-- Who \& How — Most Asked Questions
+- Who & How — Most Asked Questions
 - Letters to The Herald
 - Bulletin Board
 - International Letters

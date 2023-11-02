@@ -64,6 +64,8 @@ The study comparing Dr. Sadler's lecture, “The Evolution of the Soul,” with 
 
 [Addendum: An additional study has been completed in collaboration with my son, Paul, a medical graduate with a Ph. D. in mathematics and statistics, who suggested that it would be possible to apply these same techniques to compare writing styles for single authors who are named as the writers of multiple papers in the book. A search of the index of _The Urantia Book_ indicated the likelihood that at least five of the authors named had contributed four or more papers. This enabled a study to be made that included the variability between papers by the same author as well as variability between authors. This study has clearly distinguished between all five of the selected authors.]
 
+> Ken Glasziou is a research scientist, retired, who is active in church work in Australia. He is author of _Science and Religion: The New Age Beyond_ 2000 A..D. and _Christ or Chaos: The Evolution of a Revelation_. 
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
@@ -96,6 +98,3 @@ The study comparing Dr. Sadler's lecture, “The Evolution of the Soul,” with 
 [^2]: Kenny, Anthony. The Computation of Style. Pergamon Press Ltd., 1982
 
 [^3]: Sadler, William S. The Evolution of the Soul. Ayers Foundation, 1941, Good Cheer Press, 1990
-
-> Ken Glasziou is a research scientist, retired, who is active in church work in Australia. He is author of _Science and Religion: The New Age Beyond_ 2000 A..D. and _Christ or Chaos: The Evolution of a Revelation_. 
-{.is-info}

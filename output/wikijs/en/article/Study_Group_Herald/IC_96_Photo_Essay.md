@@ -24,7 +24,7 @@ dateCreated: 2023-10-23T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Dan_Masssey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+        <a href="/en/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
           <span class="pr-2">1997 Summer Seminar To Meet in Vancouver July 10-13</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -91,7 +91,7 @@ dateCreated: 2023-10-23T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Dan_Masssey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+        <a href="/en/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
           <span class="pr-2">1997 Summer Seminar To Meet in Vancouver July 10-13</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -38,7 +38,7 @@ _By Mary Daly, Garretson, SD_
 
 ## Origin of the Divine Minister
 
-(<a id="a16_1"></a>[UB 6:1.2](/en/The_Urantia_Book/6#p1_2)) When a/projected universe.
+(<a id="a40_1"></a>[UB 6:1.2](/en/The_Urantia_Book/6#p1_2)) When a/projected universe.
 [Genesis 1:1-2](/en/Bible/Genesis/1#v1)
 [Proverbs 8:22-35](/en/Bible/Proverbs/8#v22)
 
@@ -87,7 +87,7 @@ A few years ago, I asked a fellow reader, a former Catholic, how much thought sh
 
 Well, the “goddess thing” isn't much like the Catholic teaching, and it isn't much like the Divine Minister, either. In fact, it's like the Lucifer rebellion.
 
-One might sum up the Lucifer Manifesto (<a id="a65_40"></a>[UB 53:3.1](/en/The_Urantia_Book/53#p3_1)) in three statements: “I will not worship; I will not serve; I will not be held accountable.” Similarly, “the goddess thing” is anti-Father, including the Fatherhood of God and the privilege of being drawn back into his worship. It rejects many forms of service as subjugation, including every form of service that begins in submission to the will of another. It evades accountability by enshrining the role of intuition without distinguishing between the primitive and prelogical work of the first adjutant mind spirit, and the development of the soul and superconscious which rightfully make claims that transcend logic (but do not contradict it).
+One might sum up the Lucifer Manifesto (<a id="a89_40"></a>[UB 53:3.1](/en/The_Urantia_Book/53#p3_1)) in three statements: “I will not worship; I will not serve; I will not be held accountable.” Similarly, “the goddess thing” is anti-Father, including the Fatherhood of God and the privilege of being drawn back into his worship. It rejects many forms of service as subjugation, including every form of service that begins in submission to the will of another. It evades accountability by enshrining the role of intuition without distinguishing between the primitive and prelogical work of the first adjutant mind spirit, and the development of the soul and superconscious which rightfully make claims that transcend logic (but do not contradict it).
 
 In sum, the goddess thing is competitive, sly, irresponsible, and thoroughly earthbound. It is the ultimate confusion between the psychic and spiritual realms, enforced as a doctrine and enshrined in practices that ridicule the possibility of giving analysis a wholesome place in religious thought. It is the corruption, not the re-awakening, of an evolutionary religious experience. It has nothing helpful to say about spiritual motherhood and much to suggest that is damaging to gender harmony and, consequently, to the advance of family life.
 
@@ -97,7 +97,7 @@ Getting right down to it, is it sexist to call the First Source and Center, “o
 
 Feminism has two faces. One face claims equal dignity for women and men and seeks fairness for women in the public sphere along with the continued development of protection and care in the realm of the family. The Urantia revelation endorses this program only remarking that full social equality must await the end of war because women cannot compete in this endeavor without sacrificing their gains in the family realm.
 
-The other face of feminism seeks to bolster the claims of gender equality with spurious assertions of sameness that have no basis in either science or spirituality and that frequently run contrary to the best interests of the family. About this face _The Urantia Book_ has strong words: _Woman has finally won recognition, dignity, independence, equality and education; but will she prove worthy of all this new and unprecedented accomplishment? Will modern woman respond to this great achievement of social liberation with idleness, indifference, barrenness, and infidelity? Today, in the twentieth century, woman is undergoing the crucial test of her long world existence_. (<a id="a75_677"></a>[UB 84:5.10](/en/The_Urantia_Book/84#p5_10))
+The other face of feminism seeks to bolster the claims of gender equality with spurious assertions of sameness that have no basis in either science or spirituality and that frequently run contrary to the best interests of the family. About this face _The Urantia Book_ has strong words: _Woman has finally won recognition, dignity, independence, equality and education; but will she prove worthy of all this new and unprecedented accomplishment? Will modern woman respond to this great achievement of social liberation with idleness, indifference, barrenness, and infidelity? Today, in the twentieth century, woman is undergoing the crucial test of her long world existence_. (<a id="a99_677"></a>[UB 84:5.10](/en/The_Urantia_Book/84#p5_10))
 
 The Pope could have used that line in his encyclical Humanae Vitae!
 

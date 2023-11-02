@@ -188,9 +188,9 @@ Philosophically and scientifically, the Urantia revelation accords well with wha
 
 ## References
 
-1. R. Y. Chiao, P. G. Kwiat, \& A. M. Steinberg (1993) Scientific American 269, (2),52
+1. R. Y. Chiao, P. G. Kwiat, & A. M. Steinberg (1993) Scientific American 269, (2),52
 2. J. Horgan (1992) Quantum Philosophy, Scientific American 267 (1) 72.
-3. Goswami, A., R.E.Reed, \& M. Goswami, 1993. The Self-Aware Universe, (Simon \& Schuster.)
+3. Goswami, A., R.E.Reed, & M. Goswami, 1993. The Self-Aware Universe, (Simon & Schuster.)
 4. Hellmuth, T., Zajonc, A. G., and HJ. Wather. In New Techniques and Ideas in Quantum Measurement Theory. Editor, Greenberger. (New York Academy of Science)
 5. Grinberg-Zylberbaumetal.The EPRparadox in the human brain. Physics Essays 7 (4) 1994.
 

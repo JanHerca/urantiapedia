@@ -69,7 +69,7 @@ Issue No. 7, Spring 1996
 - Letters to the Fellowship
 - General Council Meets
 - Cover Story
-	- Get Ready for IC '96, By Michael Gillespie, Robin Robinson \& Melissa Wells
+	- Get Ready for IC '96, By Michael Gillespie, Robin Robinson & Melissa Wells
 	- A Look at What to Expect at Flagstaff
 - Dateline
 - Little UrantiaL, By Michael Gillespie

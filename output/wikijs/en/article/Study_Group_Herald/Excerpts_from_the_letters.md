@@ -34,13 +34,13 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Study_Group_Herald/Sue_Greg.jpg">
 <figcaption><em>Sue and Greg Welch of Andover, Massachusetts, provided music for the children at the 1992 Northeast Spring Regional Conference.</em></figcaption>
 </figure>
 
-<figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Study_Group_Herald/Micahel_David.jpg">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Study_Group_Herald/Michael_David.jpg">
 <figcaption><em>Michale & David Puetz, New Jersey</em></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 **Massachusetts**: When attending a study group, a nine-year-old girl told about her friend who was killed in an automobile accident. We read the paper on the probationary nursery in Mansonia \#1. Later she made up a play and presented it at a regional conference.
 
-**Virginia**: I have two children aged 12 \& 15 who I would like to attend, but it really doesn't seem appropriate. This book and our study of it is very advanced and a normal child simply isn't into such things. My older son has his own book, is a believer and knows much of the book; I hope one day he will show interest in attending our meetings. I have told him we would love to have him if he had any desire to participate.
+**Virginia**: I have two children aged 12 & 15 who I would like to attend, but it really doesn't seem appropriate. This book and our study of it is very advanced and a normal child simply isn't into such things. My older son has his own book, is a believer and knows much of the book; I hope one day he will show interest in attending our meetings. I have told him we would love to have him if he had any desire to participate.
 
 **Washington**: How can we help to enrich the already present structure of the family? If “study groups” form as a result of this, all the better. But let's strengthen our families first.
 
@@ -70,7 +70,9 @@ dateCreated: 2023-10-23T10:55:6Z
 
 **California**: When they (the children) ask questions about religion we behave and reply as I at least imagine Jesus might have, with complet confidence in the reality of God, and if you will the naturalness of our relationship to him. We NEVER impose a “religious” interpretation on everyday events. If the kids ASK, we never hesitate to suggest one, but we also are sure to communicate that this is OUR PERSONAL vision and interpretation, and they may also have their own.
 
-**Wisconsin**: Our children have grown up with knowledge of _The Urantia Book_ and Urantia activities. Although they have never asked for their own book, we decided to give them one. We have always hoped that some day they would have an enjoy their own book — whenever they are ready. Realistically, when they do become ready we may not be around. We realize what a special gift would be if their book came from their own parents. We gave them _The Urantia Book_ on “Father Day”, explaining they were gifts in celebration of our heavenly Father's love. We each wrote a personal inscription of spiritual encouragement for their reassurance in the years to come. This all happened in June 1989 when our children were 10, 12, \& 15. Their Urantia Books sit patiently on bedroom shelves and I dust them off occasionnally whispering “their time will come, I'm sure!”
+**Wisconsin**: Our children have grown up with knowledge of _The Urantia Book_ and Urantia activities. Although they have never asked for their own book, we decided to give them one. We have always hoped that some day they would have an enjoy their own book — whenever they are ready. Realistically, when they do become ready we may not be around. We realize what a special gift would be if their book came from their own parents. We gave them _The Urantia Book_ on “Father Day”, explaining they were gifts in celebration of our heavenly Father's love. We each wrote a personal inscription of spiritual encouragement for their reassurance in the years to come. This all happened in June 1989 when our children were 10, 12, & 15. Their Urantia Books sit patiently on bedroom shelves and I dust them off occasionnally whispering “their time will come, I'm sure!”
+
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

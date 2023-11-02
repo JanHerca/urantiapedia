@@ -123,11 +123,11 @@ If fathers know how and why they matter to their children, especially in the fir
 
 ## Recommended Reading
 
-- Beane, W.C. and Doty, W.G. eds. _Myths, Rites, Symbols: A Mircea Eliade Reader_, Vol.1. New York: Harper \& Row, 1975.
+- Beane, W.C. and Doty, W.G. eds. _Myths, Rites, Symbols: A Mircea Eliade Reader_, Vol.1. New York: Harper & Row, 1975.
 - Blos, Peter. _Son and Father Before and Beyond the Oedipus Complex_. New York: The Free Press, A Division of MacMillan, Inc. 1985, p.35.
 - Colman, Arthur M.D. reported by Levis, Leonard, Chapter 1: _Birthing, Bonding and the Infancy Stage of Fathering_.
-- Erikson, Erik H. _Young Man Luther_. New York: W.W. Norton \& Co. Inc., 1958, p.124.
-- Fowler, J.W. _Stages of Faith_. San Francisco: Harper \& Row, 1981.
+- Erikson, Erik H. _Young Man Luther_. New York: W.W. Norton & Co. Inc., 1958, p.124.
+- Fowler, J.W. _Stages of Faith_. San Francisco: Harper & Row, 1981.
 - Grief, Esther Blank, Chapter 6: _Fathers, Children and Moral Development_.
 - Kagan, Jerome. _The Nature of the Child_. New York: Basic Books, 1984, p.35.
 - Lamb, M. ed. _The Role of the Father in Child Development_. New York: John Wiley, 1976.

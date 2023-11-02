@@ -45,7 +45,7 @@ May 25-26, Whole Life Expo, Boulder, CO. Contact: Paula Thompson or Mary Ebben (
 
 Aug. 3-8, International Conference 1996, Flagstaff, AZ. Theme: “Living Faith.” Contact: The Fellowship (312) 327-0424.
 
-“... choosing to do the will of God joins spiritual faith to material decisions in personality action and thus supplies a divine and spiritual fulcrum for the more effective functioning of the human and material leverage of God-hunger.” (<a id="a26_238"></a>[UB 110:6.17](/en/The_Urantia_Book/110#p6_17))
+“... choosing to do the will of God joins spiritual faith to material decisions in personality action and thus supplies a divine and spiritual fulcrum for the more effective functioning of the human and material leverage of God-hunger.” (<a id="a47_238"></a>[UB 110:6.17](/en/The_Urantia_Book/110#p6_17))
 
 ## The Decision
 
@@ -107,7 +107,7 @@ Works include:
 - Newsletters
 - Videotapes
 - Illustrations
-- UB-related usenet groups \& Internet web sites
+- UB-related usenet groups & Internet web sites
 
 If you would like your work or usenet group listed in this new edition, please request an application form from 
 
@@ -119,7 +119,7 @@ Chicago, IL 60614
 
 ## Morning Star Foundation
 
-Your source for secondary works at uniform pricing: priees include shipping \& handling, domestic or international.
+Your source for secondary works at uniform pricing: priees include shipping & handling, domestic or international.
 
 &nbsp; | &nbsp;
 --- | ---
@@ -127,7 +127,7 @@ Birth of a Revelation (3rd ed.) | \$7
 Nacimiento de una Revelacion (2nd ed.) | \$7
 \* 5 copies (English or Spanish) | \$30
 \* 10 copies (English or Spanish) | \$57.50
-Numbered Photo/Art Print of Contact Commission \& 533 Diversey | \$35
+Numbered Photo/Art Print of Contact Commission & 533 Diversey | \$35
 Funeral Service | \$5
 New Meaning of Christmas | \$2
 Positive Qualities Chart | \$25

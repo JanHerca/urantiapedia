@@ -24,7 +24,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Larry_Mullins/Great Urantians_Lest_We_Forget_Peggy_Johnson">
+        <a href="/en/article/Larry_Mullins/Great_Urantians_Lest_We_Forget_Peggy_Johnson">
           <span class="pr-2">Great Urantians. Lest We Forget — Peggy Johnson</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -57,7 +57,7 @@ However, it was the vision of Dr. Sprunger to interface the teachings of _The Ur
         </a>
         </td>
         <td>
-        <a href="/en/article/Larry_Mullins/Great Urantians_Lest_We_Forget_Peggy_Johnson">
+        <a href="/en/article/Larry_Mullins/Great_Urantians_Lest_We_Forget_Peggy_Johnson">
           <span class="pr-2">Great Urantians. Lest We Forget — Peggy Johnson</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

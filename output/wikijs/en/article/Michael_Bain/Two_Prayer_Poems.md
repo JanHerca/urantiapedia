@@ -42,7 +42,7 @@ May the knowledge, wisdom, and truth that we glean
 be transferred and exemplified in our daily living.
 May your fragmented self, the Mystery Monitor, coalesce 
 these ideals in your mind and philosophy and faith.
-May we be the reflective amplifiers of your Love \& Light.
+May we be the reflective amplifiers of your Love & Light.
 May they shine upon a gladly receiving world and may 
 every soul know You through us.
 

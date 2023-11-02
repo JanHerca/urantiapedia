@@ -60,7 +60,7 @@ And finally, in a paper entitled “Planetary Mortal Epochs,” it is stated: �
 
 We have embarked upon the so-called information age. Many segments of society have been significantly impacted by the availability of rapidly advancing computer and communications technology. However, it should be kept in mind that a parcel of information doesn't necessarily comprise or contain true knowledge. Further, these technologies and their associated applications are not the actual _engine_ of social evolution. True intellectual achievement and genuine spiritual attainment are much more basic to the progressive evolution of human society. Many techniques can now be employed using computer and communications technology in a clever manner to present or impart material that may or may not be of value. Regardless, cleverness is usually not a substitute for thoughtful and enlightened wisdom.
 
-> _Stephen R. Johnson has an undergraduate degree and considerable graduate workinmathematics. Most of his working career was spent in a large aerospace firm as a programmer and system analyst, dealing with areas of computer aided design and computer aided manufacturing. He has been a student of_ The Urantia Book _for over twemty four years._
+> _Stephen R. Johnson has an undergraduate degree and considerable graduate workinmathematics. Most of his working career was spent in a large aerospace firm as a programmer and system analyst, dealing with areas of computer aided design and computer aided manufacturing. He has been a student of_ The Urantia Book _for over twenty four years._
 {.is-info}
 
 <figure class="table chapter-navigator">

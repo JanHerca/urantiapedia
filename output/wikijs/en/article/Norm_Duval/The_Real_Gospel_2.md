@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Norm Du Val<br>© 2002 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Infinity of God: An Astronomical Approach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arthur_Nash/The_Turning_Point_Part_II">
+          <span class="pr-2">The Turning Point ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > ***Urantiapedia Note***: Another edition of this article was published in Innerface [International magazine, Volume 1 — No. 5, 1994](/en/article/Norm_Duval/The_Real_Gospel).
 {.is-info}
@@ -135,3 +159,27 @@ _All Bible quotations excerpted or adapted from the King James Version. © Copyr
 
 > _Norm Du Val has been a highly active Urantian for many years. Norm was born and raised in Minneapolis. He spent three years in the US Army, with a year of that in Korea in 1962. Few people know that Norm was related to Emma Louise Christensen (“Christy”), one of the contact commissioners. His first Urantia Book, an original 1955 First Printing, was given to him in 1959 by his grandmother, Olga Christensen, who was Emma's sister ... and who also had the knickname “Christy.” Norm now keeps his 1955 printing in a safe deposit box. He moved to Missoula, Montana in 1969. Norm retired from the US Post Office in Missoula in 1992. He now lives in a rural area of the USA. Norm maintains a website at http://www.freeurantia.org ... he can be reached by email at: nduval@pop.ctctel.com_
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Infinity of God: An Astronomical Approach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_spiritual_fellowship_journal#spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arthur_Nash/The_Turning_Point_Part_II">
+          <span class="pr-2">The Turning Point ( Part II )</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

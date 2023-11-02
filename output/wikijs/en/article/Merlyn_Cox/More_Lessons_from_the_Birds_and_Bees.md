@@ -122,7 +122,7 @@ Interestingly, the one institution that best represents this new kind of structu
 
 _But is this any way to run a business?_
 
-I'm reminded of a book by Robert Greenleaf, entitled “Servant Leadership.” [^2] Greenleaf was not a pastor or theologian. For thirty-five years, he headed up management research for the world's largest corporation, A.T.\&T. In fact, he started the management research and training movement.
+I'm reminded of a book by Robert Greenleaf, entitled “Servant Leadership.” [^2] Greenleaf was not a pastor or theologian. For thirty-five years, he headed up management research for the world's largest corporation, A.T.&T. In fact, he started the management research and training movement.
 
 Greenleaf's thesis, drawn from years of experience, was that servant leadership was not simply a vague and lofty ideal, it was a pragmatic necessity, and increasingly it is becoming the only kind of leadership people will accept.
 

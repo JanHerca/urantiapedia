@@ -98,7 +98,7 @@ Lee and Connie Lester and their friend Norma who drives up to Englewood from Ven
 
 This study group has discovered “the higher concepts of the book and how they form a belief structure into which other subjects covered in _The Urantia Book_ can be fit in.” They say that with subsequent readings, more of the “overall picture” comes into view and the book as a whole becomes more comprehensible. Connie and Lee read together frequently and the revelation is an essential part of their lives together. They have been the personal conduit through which many copies of _The Urantia Book_ have passed into the hands of new readers.
 
-The First United Sons of Englewood also call themselves “The Salt Shakers” as they strive to be the “salt of the earth, salt with a saving savor.” (<a id="a76_148"></a>[UB 140:4.2](/en/The_Urantia_Book/140#p4_2)) With regards to the disapproval of their former associates, Jehovah's Witnesses, Lee states that loyalty to a higher teaching requires “stick-to-it-iveness, true dedication, a nonwhimsical attitude, and personal commitment.”
+The First United Sons of Englewood also call themselves “The Salt Shakers” as they strive to be the “salt of the earth, salt with a saving savor.” (<a id="a100_148"></a>[UB 140:4.2](/en/The_Urantia_Book/140#p4_2)) With regards to the disapproval of their former associates, Jehovah's Witnesses, Lee states that loyalty to a higher teaching requires “stick-to-it-iveness, true dedication, a nonwhimsical attitude, and personal commitment.”
 
 ## The Tropical Ascenders 
 

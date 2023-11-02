@@ -85,6 +85,7 @@ The form of the Fifth Epochal Revelation is different than all previous epochal 
 Just as it took nearly 1800 years of evolutionary development to precipitate Reformed Judaism that is very close to the reforms that Jesus sought to contribute to the spiritual understanding of the Judaism of his day, so there will come a time when the Fifth Epochal Revelation will contribute the same type of up-stepping contribution within Christianity. Hopefully, it will not take 1800 years. Scholars will then look back and marvel that the Christian leaders of today did not recognize the significance of the Fifth Epochal Revelation, just as we today look back and wonder that the leaders of Judaism did not recognize the quality of Jesus' teachings. The Fifth Epochal Revelation will eventually contribute the same up-stepping influence to all of the religions of the world. On an evolutionary world it takes a great deal of time for a new spiritual paradigm to make its way into the culture. Fortunately, however, new religious institutions need not be handicapped by this lack of spiritual insight.
 
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of The Spiritual Fellowship Journal_.
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

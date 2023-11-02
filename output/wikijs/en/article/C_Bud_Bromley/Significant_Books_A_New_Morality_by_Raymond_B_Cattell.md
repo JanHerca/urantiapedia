@@ -63,10 +63,6 @@ Students of _The Urantia Book_ should be particularly interested in what Dr. Cat
 
 > “_Mistake not! there is in the teachings of Jesus an eternal nature which will not permit them forever to remain unfruitful in the hearts of thinking men. The kingdom as Jesus conceived it has to a large extent failed on earth; for the time being, an outward church has taken its place; but you should comprehend that this church is only the larval stage of the thwarted spiritual kingdom....The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development._” <a id="a63_660"></a>[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)
 
-## Notes
-
-[^1] With one notable exception, the “biologic disfellowshipping (sterilizing?) of your more markedly unfit, defective, degenerate, and antisocial stocks.” (Pg. 585) And the concept is also mentioned elsewhere.
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -90,3 +86,8 @@ Students of _The Urantia Book_ should be particularly interested in what Dr. Cat
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: With one notable exception, the “biologic disfellowshipping (sterilizing?) of your more markedly unfit, defective, degenerate, and antisocial stocks.” (Pg. 585) And the concept is also mentioned elsewhere.
+

@@ -98,7 +98,7 @@ Those phrases are:
 Trying to live by this credo requires effort, struggle, conflict, faith, determination, love, loyalty, and progress. May I be found worthy of it!
 
 > _Dan McCauley was a campus minister for 18 years and served on church staffs for Southern Baptists, Presbyterians, Methodists, and the Disciples. He discovered The Urantia Book in 1985 while brousing the metaphysical section of a book store, but didn't feel he could afford the price. His students bought it for him as a birthday present._
-
+{.is-info}
 
 
 

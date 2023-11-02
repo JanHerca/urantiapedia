@@ -128,7 +128,7 @@ Suggested annual donation: \$10. Please make checks payable to Penumbra Press.
 - **A Service Adventure in Guatemala**, ***A Bold New Generation of Urantians Emerges***
 	By Micah Kruger ... “A generation ago, the Vietnam War was a great challenge for men my age. Now, in my generation, young men and women have the opportunity to choose their future. In considering the Peace Corps, I was reminded of Jesus'journeys as Ganid's tutor. During that time, Jesus was able to observe how people of different cultures lived, and through his observations he came to understand more thoroughly the minds of men.”
 - **Let's Go Public**
-	By Ken Raveill ... “_The Urantia Book_ Home Study Group has been and remains the basic method for attracting new readers while offering an opportunity for rich fellowship and spiritual growth ... I was surprised to find several opportunities in Independence for our _Urantia Book_ Study Group to meet in a public location ... However, the real break in our search came when two members of our study group, Linda and Bob Keller, who were buying books at Barnes \& Noble bookstore, asked if it was possible for a book study group to meet there once a week.”
+	By Ken Raveill ... “_The Urantia Book_ Home Study Group has been and remains the basic method for attracting new readers while offering an opportunity for rich fellowship and spiritual growth ... I was surprised to find several opportunities in Independence for our _Urantia Book_ Study Group to meet in a public location ... However, the real break in our search came when two members of our study group, Linda and Bob Keller, who were buying books at Barnes & Noble bookstore, asked if it was possible for a book study group to meet there once a week.”
 - **Compare**, ***Human Concepts Paralleled with Statements from the Urantia Papers***
 	By Tom and Karen Allen ... Tom and Karen Allen of Oklahoma City began last year to collect conceptual parallels and send them out via email to Urantians. Here is a small sampling of some of their discoveries.
 - **Our Urantian in Pakistan**, ***Excerpts of Nadia's Letters to J.J. Johnson***
@@ -145,7 +145,7 @@ Editorials:
 
 **SPIRITUAL FELLOWSHIP JOURNAL**
 
-***for Students \& Believers in the Revelation of the Urantia Papers***
+***for Students & Believers in the Revelation of the Urantia Papers***
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">

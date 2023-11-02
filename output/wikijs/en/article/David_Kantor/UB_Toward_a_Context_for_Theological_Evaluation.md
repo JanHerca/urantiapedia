@@ -266,7 +266,7 @@ It has been my purpose only to outline a context in which _The Urantia Book_ may
 
 [^14]: Avery Dulles, _Models of Revelation_ (New York: Doubleday, 1983).
 
-[^15] Rene Latourelle, S. J. _Theology of Revelation_ (New York: Alba House, 1987).
+[^15]: Rene Latourelle, S. J. _Theology of Revelation_ (New York: Alba House, 1987).
 
 [^16]: H. Richard Niebuhr, _The Meaning of Revelation_ (New York: Macmillan Publishing Co., 1941).
 

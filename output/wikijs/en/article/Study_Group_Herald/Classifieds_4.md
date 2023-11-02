@@ -76,13 +76,13 @@ Limited edition **Photo/Art print** (B/W) of the Contact Commission and 533 Dive
 **Fellowship Study Guides** (U.S. /International prices):
 Artistic Conception of the Master Universe \$3.00 / \$4.00
 Study Groups of _The Urantia Book_:
-- Ideas \& Suggestions \$2.50 / \$3.50
+- Ideas & Suggestions \$2.50 / \$3.50
 - Scientific Symposium I \$5.00 / \$6.00
 - Scientific Symposium II \$5.00 / \$6.00
-- The Journal, 1990 \& 1991 I \$5.00 / \$6.00
+- The Journal, 1990 & 1991 I \$5.00 / \$6.00
 - Resource Guide for Secondary Works \$3.00 / \$4.00
 - International Study Group Directory \$1.00 / \$2.00
-- Glossary \& Pronunciation Reference \$2.00 / \$3.00
+- Glossary & Pronunciation Reference \$2.00 / \$3.00
 
 **Singles Service**. If you are single and would like to mect a person who reads _The Urantia Book_, send your photograph with a 75-word message about yourself. \$4 for one issue; \$8 for two issues of the Fifth Epochal Matchmaker. You take full responsibility for outcome. Write to RMSF, 5490 Spine Rd., Boulder, CO 80301 or call (303) 499-1970. Return calls are collect.
 

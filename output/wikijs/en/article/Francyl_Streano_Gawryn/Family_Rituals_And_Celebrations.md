@@ -35,11 +35,11 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 > Ed. Note: _This column is dedicated to reporting rituals and celebrations used by Urantia Book readers and their families. It is delightful to share with each other the many joys of life. Please con- sider writing about your special family rituals and celebrations for this column and send them (along with pictures!) to the Family Life Editor._
-> “In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution.” (<a id="a13_120"></a>[UB 81:6.23](/en/The_Urantia_Book/81#p6_23))
+> “In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution.” (<a id="a37_120"></a>[UB 81:6.23](/en/The_Urantia_Book/81#p6_23))
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Study_Group_Herald/Fancyl_family.jpg">
+<img src="/image/article/Study_Group_Herald/Francyl_family.jpg">
 <figcaption><em>Grandpa Leon, Francyl, Mikaila, Marvin and Jessica Gawryn</em></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Our lessons have come from a variety of sources. In addition to _The Urantia Boo
 
 What I like most about it is that our Communion has given us a definite time when we as a family sit down to discuss topics of a spiritual nature, and the girls feel free to ask questions or not, to agree or disagree, or sometimes just to listen (or not!).
 
-As teachers, mom \& dad don't always come up with the most intriguing and engaging lesson plan, and some lessons go better than others, but the overall effect is that God is a frequent topic as well as a friend in our household and discussions and questions of a spiritual nature are common.
+As teachers, mom & dad don't always come up with the most intriguing and engaging lesson plan, and some lessons go better than others, but the overall effect is that God is a frequent topic as well as a friend in our household and discussions and questions of a spiritual nature are common.
 
 I wish that I could say that I think my children are more spiritual because of this experience, but I don't think they are. They're pretty typical (wonderful!) kids. But I do think that our family life has been spiritually enriched by it and because of it, we share a comfortable space and time together as a family recognizing our common spiritual bond with each other and with all of God's children. And, I think _that's_ pretty special!
 

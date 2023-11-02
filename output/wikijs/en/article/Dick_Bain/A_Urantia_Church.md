@@ -89,6 +89,7 @@ A case could be made that a Urantia church of sorts already exists. Consider: Ch
 > “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually mite in loving service the numerous families of his present-day professed followers.” (<a id="a88_252"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
 
 > _Dick Bain is an electrical engineer and an editor of Innerface International. He is a long time sudent of the_ The Urantia Book.
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

@@ -133,6 +133,9 @@ Will we ever be able to verify or disprove such a picture, especially in regards
 
 This is but a brief overview of how _The Urantia Book_ can be used as a source to interact with ongoing scholarly research, as well as to enrich our knowledge and understanding of the events in Jesus' life. I believe those persons, lay or scholar, who are interested in the “geography of faith” will find _The Urantia Book_ a stimulating and immensely satisfying resource. The authors, while clearly eschewing any overly sentimental attachments to supposed holy sites, do seem to appreciate the natural curiosity and human sentiment attached to such places. These authoritative and graceful narratives give us not only a comprehensive understanding of Jesus ' life and teachings, but a richly detailed geographical backdrop against which this greatest of all divine-human events took place.
 
+> _The author traveled extensively in Israel and briefly in Egypt during the summer of 1989. In addition he participated for two weeks as a volunteer at an archaeological dig in Sephorris, a project jointly sponsored by the American Schools of Oriental Research, Duke University, and the Israeli Department of Antiquities._
+{.is-info}
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -169,6 +172,3 @@ This is but a brief overview of how _The Urantia Book_ can be used as a source t
 [^4]: Bargil Pixner, “Searching for the New Testament Site of Bethsaida,” Biblical Archaeologist, December, 1985, p. 208.
 
 [^5]: Mark 1: 29, N.R.S.V.
-
-> _The author traveled extensively in Israel and briefly in Egypt during the summer of 1989. In addition he participated for two weeks as a volunteer at an archaeological dig in Sephorris, a project jointly sponsored by the American Schools of Oriental Research, Duke University, and the Israeli Department of Antiquities._
-{.is-info}

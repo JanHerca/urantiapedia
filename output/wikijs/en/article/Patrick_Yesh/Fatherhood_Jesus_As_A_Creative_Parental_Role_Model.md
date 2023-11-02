@@ -44,16 +44,16 @@ Of course, as a parental model Jesus' bottom line was following the will of the 
 
 Page numbers | Begins/ends with:
 --- | ---
-<a id="a22_0"></a>[UB 126:2.1-8](/en/The_Urantia_Book/126#p2_1) | All did go/obligation
-<a id="a23_0"></a>[UB 118:8.10](/en/The_Urantia_Book/118#p8_10) | Gradually/family
-<a id="a24_0"></a>[UB 127:4.1](/en/The_Urantia_Book/127#p4_1) | By this time/city
-<a id="a25_0"></a>[UB 127:6.12](/en/The_Urantia_Book/127#p6_12) | Jesus is rapidly/eternity
-<a id="a26_0"></a>[UB 128:2.4](/en/The_Urantia_Book/128#p2_4) | Before/suggestions
-<a id="a27_0"></a>[UB 128:7.13](/en/The_Urantia_Book/128#p7_13) | The day after/family
-<a id="a28_0"></a>[UB 140:5.1](/en/The_Urantia_Book/140#p5_1) | From the Sermon/injustice
-<a id="a29_0"></a>[UB 141:3.3](/en/The_Urantia_Book/141#p3_3) | Andrew/children
-<a id="a30_0"></a>[UB 142:7.4](/en/The_Urantia_Book/142#p7_4) | He next explained/perfect
-<a id="a31_0"></a>[UB 170:3.6](/en/The_Urantia_Book/170#p3_6) | The righteousness/fellows
+<a id="a46_0"></a>[UB 126:2.1-8](/en/The_Urantia_Book/126#p2_1) | All did go/obligation
+<a id="a47_0"></a>[UB 118:8.10](/en/The_Urantia_Book/118#p8_10) | Gradually/family
+<a id="a48_0"></a>[UB 127:4.1](/en/The_Urantia_Book/127#p4_1) | By this time/city
+<a id="a49_0"></a>[UB 127:6.12](/en/The_Urantia_Book/127#p6_12) | Jesus is rapidly/eternity
+<a id="a50_0"></a>[UB 128:2.4](/en/The_Urantia_Book/128#p2_4) | Before/suggestions
+<a id="a51_0"></a>[UB 128:7.13](/en/The_Urantia_Book/128#p7_13) | The day after/family
+<a id="a52_0"></a>[UB 140:5.1](/en/The_Urantia_Book/140#p5_1) | From the Sermon/injustice
+<a id="a53_0"></a>[UB 141:3.3](/en/The_Urantia_Book/141#p3_3) | Andrew/children
+<a id="a54_0"></a>[UB 142:7.4](/en/The_Urantia_Book/142#p7_4) | He next explained/perfect
+<a id="a55_0"></a>[UB 170:3.6](/en/The_Urantia_Book/170#p3_6) | The righteousness/fellows
 
 <figure class="table chapter-navigator">
   <table>

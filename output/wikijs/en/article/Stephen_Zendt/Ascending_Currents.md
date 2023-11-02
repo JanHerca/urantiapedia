@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 _Stephen Zendt_
 _San Francisco, CA, editor_
 
-> “_Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe._” <a id="a15_228"></a>[UB 91:8.9](/en/The_Urantia_Book/91#p8_9)
+> “_Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe._” <a id="a39_228"></a>[UB 91:8.9](/en/The_Urantia_Book/91#p8_9)
 
 **My Fellow Creatures**
 
@@ -73,7 +73,7 @@ Help us to create Brotherhood.
 Esther Hoover Zendt and Stephen Zendt
 </p>
 
-> “_Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers._” <a id="a51_127"></a>[UB 146:2.15](/en/The_Urantia_Book/146#p2_15)
+> “_Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers._” <a id="a75_127"></a>[UB 146:2.15](/en/The_Urantia_Book/146#p2_15)
 
 ## A Urantian Group Prayer Of Thanksgiving, Ad 1987
 

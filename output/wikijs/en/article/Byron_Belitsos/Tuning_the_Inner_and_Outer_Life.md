@@ -34,7 +34,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 </figure>
 
 
-In our last Media \& Values column, I advocated the rather unusual view that television and the new forms of electronic media can and should favorably affect the inner spiritual life of the individual. Let's explore how this might occur as the media revolution of the 1990's unfolds.
+In our last Media & Values column, I advocated the rather unusual view that television and the new forms of electronic media can and should favorably affect the inner spiritual life of the individual. Let's explore how this might occur as the media revolution of the 1990's unfolds.
 
 To create the right context, let's turn first for guidance to _The Urantia Book_ and to the general history of Christianity.
 

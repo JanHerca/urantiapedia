@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Larry_Mullins/Great Urantians_Lest_We_Forget_Peggy_Johnson">
+        <a href="/en/article/Larry_Mullins/Great_Urantians_Lest_We_Forget_Peggy_Johnson">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Great Urantians. Lest We Forget — Peggy Johnson</span>
         </a>
         </td>
@@ -66,7 +66,7 @@ May God strengthen us and give us the grace to do all of these.
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Larry_Mullins/Great Urantians_Lest_We_Forget_Peggy_Johnson">
+        <a href="/en/article/Larry_Mullins/Great_Urantians_Lest_We_Forget_Peggy_Johnson">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Great Urantians. Lest We Forget — Peggy Johnson</span>
         </a>
         </td>

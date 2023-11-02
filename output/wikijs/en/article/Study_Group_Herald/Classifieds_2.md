@@ -93,7 +93,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 ---
 
-**“COMFORT \& PRAISE”** - a 30 minute audio tape for worship and meditation, personal or group. The best of the Psalms and the words of Jesus as read by Stephen Zendt and Margaret Smith, with original music. Sample copy, \$7.00 from Bridgeover Productions, Box 460163, San Francisco, CA 94146-0163
+**“COMFORT & PRAISE”** - a 30 minute audio tape for worship and meditation, personal or group. The best of the Psalms and the words of Jesus as read by Stephen Zendt and Margaret Smith, with original music. Sample copy, \$7.00 from Bridgeover Productions, Box 460163, San Francisco, CA 94146-0163
 
 ---
 

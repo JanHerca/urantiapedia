@@ -42,7 +42,7 @@ It seems to me that the spirit is free of dogma, ritual, and secular loyalties, 
 
 Why don't we create, through spiritual education and training (SET) models scattered throughout the world, the opportunity to learn how to live by this philosophy in cosmic terms? People want the comfort of being with other people who are spiritually akin. Why not challenge them to serve the brotherhood and sisterhood of humankind by creating a model of spiritual education and training (SET)?
 
-I see the “invisible church” as an “invisible network” of spiritual education \& training schools (SETS) for the spiritually challenged human race. We need to learn and teach about the faith that leads to a universe career and training for service to transform our world. I see each model as unique, experimental and adaptive, based primarily on small groups learning to live and teach Jesus' religion of the spirit in the context of epochal revelation. I see SETS independently developing the following (among other things):
+I see the “invisible church” as an “invisible network” of spiritual education & training schools (SETS) for the spiritually challenged human race. We need to learn and teach about the faith that leads to a universe career and training for service to transform our world. I see each model as unique, experimental and adaptive, based primarily on small groups learning to live and teach Jesus' religion of the spirit in the context of epochal revelation. I see SETS independently developing the following (among other things):
 
 1. Teaching spiritual liberty and training for social responsibility,
 2. Teaching personal religious experience and training for group harmony,

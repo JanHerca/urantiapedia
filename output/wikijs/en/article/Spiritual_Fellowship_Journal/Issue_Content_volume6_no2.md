@@ -97,7 +97,7 @@ __The Spiritual Fellowship Journal__
 Fort Wayne, IN 46806
 (219-745-4363)
 
-Annual Subscription rate: \$5.00 U.S.A., \$7:00 overseas.
+Annual Subscription rate: \$5.00 U.S.A., \$7.00 overseas.
 
 Copyright © 1996, All Rights Reserved.
 
@@ -107,7 +107,7 @@ Copyright © 1996, All Rights Reserved.
 ***Editorials***
 
 - **Spiritual Decadence and Rebirth**
-	- During the last half century philosophers of history have been pointing to the decline of Western Civilization. It appears that our planet is being prepared for a major transition in our understanding of Reality.
+	During the last half century philosophers of history have been pointing to the decline of Western Civilization. It appears that our planet is being prepared for a major transition in our understanding of Reality.
 - **The Quest for Immortality**
 	Contemporary theologians are pointing out difficulties in our traditional concepts of immortaility. _The Urantia Book_ presents a view of life after death which is coherent and inspiring.
 - **Semantics of the Lord's Supper**

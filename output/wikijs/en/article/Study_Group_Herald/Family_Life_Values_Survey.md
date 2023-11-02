@@ -81,9 +81,9 @@ Please rank resources for family life which are most important to you using a sc
 - Teen rites of passage
 - Divorce
 
-> “The family is the fundamental unit of fraternity in which parents and children learn those lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” (_The Urantia Book_, <a id="a59_246"></a>[UB 84:7.28](/en/The_Urantia_Book/84#p7_28))
+> “The family is the fundamental unit of fraternity in which parents and children learn those lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” (_The Urantia Book_, <a id="a83_246"></a>[UB 84:7.28](/en/The_Urantia_Book/84#p7_28))
 
-> “The child must derive his first impressions of the universe from the mother's care; he is wholly dependent on the earthly father for his first ideas of the heavenly Father.” (_The Urantia Book_, <a id="a61_198"></a>[UB 177:2.5](/en/The_Urantia_Book/177#p2_5))
+> “The child must derive his first impressions of the universe from the mother's care; he is wholly dependent on the earthly father for his first ideas of the heavenly Father.” (_The Urantia Book_, <a id="a85_198"></a>[UB 177:2.5](/en/The_Urantia_Book/177#p2_5))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/mother.jpg">
@@ -93,7 +93,7 @@ Please rank resources for family life which are most important to you using a sc
 <img src="/image/article/Study_Group_Herald/father.jpg">
 </figure>
 
-> “The true parent is engaged in a continuous service-ministry which the wise child comes to recognize and appreciate.” (_The Urantia Book_, <a id="a71_141"></a>[UB 84:7.26](/en/The_Urantia_Book/84#p7_26))
+> “The true parent is engaged in a continuous service-ministry which the wise child comes to recognize and appreciate.” (_The Urantia Book_, <a id="a95_141"></a>[UB 84:7.26](/en/The_Urantia_Book/84#p7_26))
 
 Please rank activities which the Family Life committee should sponsor, using a scale of 1 to 5 , with 1 as the highest priority.
 
@@ -131,9 +131,9 @@ Are there activities of the Family Life committee in which you would like to par
 
 Additional comments: \_\_\_\_
 
-> “Fatherly love has singleness of purpose, and it always looks for the best in man; that is the attitude of a true parent.” (_The Urantia Book_, <a id="a109_146"></a>[UB 140:5.12](/en/The_Urantia_Book/140#p5_12))
+> “Fatherly love has singleness of purpose, and it always looks for the best in man; that is the attitude of a true parent.” (_The Urantia Book_, <a id="a133_146"></a>[UB 140:5.12](/en/The_Urantia_Book/140#p5_12))
 
-> “It is the divine will that men and women should find their highest service and consequent joy in the establishment of homes for the reception and training of children, in the creation of whom these parents become copartners with the Makers of heaven and earth.” (_The Urantia Book_, <a id="a111_286"></a>[UB 167:5.7](/en/The_Urantia_Book/167#p5_7))
+> “It is the divine will that men and women should find their highest service and consequent joy in the establishment of homes for the reception and training of children, in the creation of whom these parents become copartners with the Makers of heaven and earth.” (_The Urantia Book_, <a id="a135_286"></a>[UB 167:5.7](/en/The_Urantia_Book/167#p5_7))
 
 Thank you for your valuable information. If you would like this survey to include your name and address, please fill in that information below:
 

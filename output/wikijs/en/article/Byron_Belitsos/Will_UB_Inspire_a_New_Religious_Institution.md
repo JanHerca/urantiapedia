@@ -68,7 +68,7 @@ What would a genuine religious institution based on _The Urantia Book_ look like
 2. “A form of religious collectivism that confines itself to the furtherance of religious causes.” (<a id="a67_100"></a>[UB 99:2.3](/en/The_Urantia_Book/99#p2_3)) i.e. a group of religionists that is “separate in function from all other groups”. (<a id="a67_227"></a>[UB 99:5.4](/en/The_Urantia_Book/99#p5_4))
 3. A growing “cult” based on applied love (<a id="a68_43"></a>[UB 87:7.7](/en/The_Urantia_Book/87#p7_7)) that recognizes the real purposes in the socialization of religion (<a id="a68_154"></a>[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)).
 4. A “living temple of spiritual fellowship”(<a id="a69_45"></a>[UB 157:4.5](/en/The_Urantia_Book/157#p4_5)) that does not apply creedal pressure (<a id="a69_128"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)) on its members.
-5. A genuine community that refuses to countenance false forgiveness, but follows instead the truth \& mercy process outlined on <a id="a70_129"></a>[UB 28:6.8](/en/The_Urantia_Book/28#p6_8) — “justice, fairness, patience, kindness, then mercy....”
+5. A genuine community that refuses to countenance false forgiveness, but follows instead the truth & mercy process outlined on <a id="a70_128"></a>[UB 28:6.8](/en/The_Urantia_Book/28#p6_8) — “justice, fairness, patience, kindness, then mercy....”
 6. A dynamic organization that is cognizant of the inherent dangers of religious institutionalism. (<a id="a71_100"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
 7. A living community of truth-lovers that is able to achieve profitable levels of religious and philosophic selfcriticism. (<a id="a72_125"></a>[UB 103:7.7](/en/The_Urantia_Book/103#p7_7))
 

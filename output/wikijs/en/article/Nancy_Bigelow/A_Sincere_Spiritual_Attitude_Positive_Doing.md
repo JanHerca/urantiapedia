@@ -104,7 +104,8 @@ What does God look like? He looks like the way Jesus lived and taught and loved,
 
 > _Nancy Bigelow lives in Hawaii with her husband, Bill. She described her life for us in her unique and creative style, and with a self-effacing charm that defies the euphemistic touch of editorial embellishment:_
 > 
-> “_Achieved what the Papers term 'physical identity' October 10. 1938, Cleveland, Ohio. Lovable, but extremely defiant child raised by utterly devoted and loving parents. Managed to escape incarceration during teenage years somewhat in the manner of that Urantia Papers frog who waltzed around lightning bolts \& became the ancestor of Urantian mankind. Somehow succeeded in college (all the while maintaining defiant attitude) and was graduated with a degree in zoology and secondary education. Snagged a wonderful man at the same time received teaching certificate \& have spent the bulk of my life becoming a dilettante. Mission: change dilettante status via the Fifth Epochal Revelation._”
+> “_Achieved what the Papers term 'physical identity' October 10. 1938, Cleveland, Ohio. Lovable, but extremely defiant child raised by utterly devoted and loving parents. Managed to escape incarceration during teenage years somewhat in the manner of that Urantia Papers frog who waltzed around lightning bolts & became the ancestor of Urantian mankind. Somehow succeeded in college (all the while maintaining defiant attitude) and was graduated with a degree in zoology and secondary education. Snagged a wonderful man at the same time received teaching certificate & have spent the bulk of my life becoming a dilettante. Mission: change dilettante status via the Fifth Epochal Revelation._”
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>

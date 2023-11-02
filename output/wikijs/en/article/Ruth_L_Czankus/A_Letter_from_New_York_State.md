@@ -47,11 +47,11 @@ Ihope this letter arrives in time for the spring issue. I received the 12/92 iss
 
 As I will be 75 on Sunday, April 11th I thought it best to pass on my experiences at the above mansion. I did not recognize the house for what it is. Usually I converted large houses into apartments.
 
-Because of the delay in clearing the deed I was allowed to move in. Once I settled (ha!) in, people kept knocking on the door asking, “Can we see the house?” After a few of these experiences I researched the history, then opened the house for public tours. I refurbished the house twice (updated), sold antiques, had a B\&B (bed and breakfast inn), and I am still restoring the house.
-
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Study_Group_Herald/Ruth.jpg">
 </figure>
+
+Because of the delay in clearing the deed I was allowed to move in. Once I settled (ha!) in, people kept knocking on the door asking, “Can we see the house?” After a few of these experiences I researched the history, then opened the house for public tours. I refurbished the house twice (updated), sold antiques, had a B&B (bed and breakfast inn), and I am still restoring the house.
 
 In 1955 I had the awareness of the Urantia Papers, but due to my forthcoming world tour that year I felt I would not be able to read it due to limitation of space and time. Consequently, I did not read it until the winter of 1965 in Florida. The Urantia reader Joseph Katerina of St. Petersburg shared some of the knowledge and later gifted me with the book.
 
@@ -68,6 +68,8 @@ The TRUTH will set us freel
 _In Christ I am_
 
 _Ruth L. Czankus_
+
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

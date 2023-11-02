@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+        <a href="/en/article/Norm_Duval/The_Real_Gospel_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Real Gospel</span>
         </a>
         </td>
@@ -164,7 +164,7 @@ Well, that is what I discovered during the hardest weeks of study I ever put in 
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+        <a href="/en/article/Norm_Duval/The_Real_Gospel_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Real Gospel</span>
         </a>
         </td>

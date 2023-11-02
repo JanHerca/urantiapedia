@@ -137,12 +137,12 @@ To International Readers,
 Recommended Method of Reading _The Urantia Book_:
 
 1. [UB 195](/en/The_Urantia_Book/195) — [UB 196](/en/The_Urantia_Book/196) The last two papers of the book entitled, “After Pentecost” and “The Faith of Jesus.”
-2. <a id="a115_3"></a>[UB 71:6](/en/The_Urantia_Book/71#p6) — the three paragraphs on “The Profit Motive.”
-3. <a id="a116_3"></a>[UB 132:5](/en/The_Urantia_Book/132#p5) entitled, “Counseling the Rich Man.”
+2. <a id="a139_3"></a>[UB 71:6](/en/The_Urantia_Book/71#p6) — the three paragraphs on “The Profit Motive.”
+3. <a id="a140_3"></a>[UB 132:5](/en/The_Urantia_Book/132#p5) entitled, “Counseling the Rich Man.”
 4. [UB 100](/en/The_Urantia_Book/100), [UB 101](/en/The_Urantia_Book/101), [UB 102](/en/The_Urantia_Book/102), [UB 103](/en/The_Urantia_Book/103) — the papers called, “Religion in Human Experience,” “The Real Nature of Religion,” “Foundations of Religious Faith,” and “The Reality of Religious Experience.” (Although at first glance, this sequence may seem t have no continuity to it, it will, in fact, give would-be reader some idea of what this extremel complex book is all about.)
-5. Part IV, “The Life and Teachings of Jesus” starting on <a id="a118_58"></a>[UB 120:0.1](/en/The_Urantia_Book/120#p0_1).
-6. Part III, “The History of Urantia” startin on <a id="a119_49"></a>[UB 57:0.1](/en/The_Urantia_Book/57#p0_1).
-7. Part II, “The Local Universe” starting or <a id="a120_45"></a>[UB 31:9.1](/en/The_Urantia_Book/31#p9_1).
+5. Part IV, “The Life and Teachings of Jesus” starting on <a id="a142_58"></a>[UB 120:0.1](/en/The_Urantia_Book/120#p0_1).
+6. Part III, “The History of Urantia” startin on <a id="a143_49"></a>[UB 57:0.1](/en/The_Urantia_Book/57#p0_1).
+7. Part II, “The Local Universe” starting or <a id="a144_45"></a>[UB 31:9.1](/en/The_Urantia_Book/31#p9_1).
 8. The Central Universe and the Super universes.
 9. The Foreword — this is probably the mos difficult portion of the book to understand.
 
