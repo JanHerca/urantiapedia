@@ -436,6 +436,16 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
 			['output', 'wikijs', '{0}', 'article']]
 	},
+	"ARTICLE_AUTHORS_INDEXES": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Create a file with indexes by author",
+			es: "ARTICULOS: Crear un archivo con los índices por autor"
+		},
+		controls: ['dirTTextbox', 'dirHTextbox'],
+		paths: [['input', 'txt', 'articles-{0}'],
+			['output', 'wikijs', '{0}', 'article']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

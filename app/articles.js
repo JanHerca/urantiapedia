@@ -8,7 +8,8 @@ const markdownIt = require('markdown-it')({
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
 	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags, strformat,
-	fixWikijsHeader, getWikijsArticleLinks, getFiles, autoCorrect} = require('./utils');
+	fixWikijsHeader, getWikijsArticleLinks, getFiles, getFolders, autoCorrect
+} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -335,7 +336,7 @@ class Articles {
 					return;
 				}
 				const errIndex = lines.findIndex(line => {
-					return (line.split('\t').length != len);
+					return (line.split('\t').length < len);
 				});
 				if (errIndex != -1) {
 					reject([this.getError('article_index_missing_data', 
@@ -519,6 +520,35 @@ class Articles {
 			.replace(/P.(?=\d*:\d*)/g, '');
 	};
 
+	/**
+	 * Returns an object with info required for creating indexes of authors.
+	 * Require to read an TSV index file previously.
+	 * @return {Object}
+	 */
+	getAuthorsIndex = () => {
+		const index = {
+			publication: Array.isArray(this.index.tags) 
+				? this.index.tags.find(t => t != "Index" && t != "Article") 
+				: undefined,
+			articles: []
+		};
+
+		const addIssue = issue => {
+			issue.articles.forEach(article => {
+				const { title, path } = article;
+				index.articles.push({
+					title,
+					path,
+					issue: issue.title
+				});
+			});
+		};
+
+		this.index.volumes.forEach(volume => volume.issues.forEach(addIssue));
+		this.index.issues.forEach(addIssue);
+		return index;
+	};
+
 	//***********************************************************************
 	// Markdown
 	//***********************************************************************
@@ -671,6 +701,49 @@ class Articles {
 				resolve(null);
 			});
 		});
+	};
+
+	/**
+	 * Writes at the end of a given Markdown file the index of one author.
+	 * @param {string} filePath Output file.
+	 * @param {Object[]} indexes Array of objects with indexes. Returned using
+	 * `getAuthorsIndex`y.
+	 * @param {string[]} authorPaths Relative paths of authors.
+	 * For example, `/en/article/Dick_Bain`
+	 * @return {Promise}
+	 */
+	writeAuthorsIndex = (filePath, indexes, authorPaths) => {
+		return new Promise((resolve, reject) => {
+			const lines = [];
+			authorPaths.forEach(authorPath => {
+				lines.push(authorPath, '');
+				indexes.forEach(index => {
+					const p = index.publication.trim();
+					index.articles
+						.filter(a => a.path.startsWith(authorPath))
+						.forEach(a => {
+							const i = a.issue.trim();
+							lines.push(`- [${a.title}](${a.path}), ${p}, ${i}`);
+						});
+				});
+				lines.push('');
+			});
+			writeFile(filePath, lines.join('\n'))
+				.then(resolve, reject);
+		});
+	};
+
+	/**
+	 * Returns the list of author's relative paths.
+	 * @param {string} dirPath Articles path.
+	 * @return {Promise}
+	 */
+	getAuthorPaths = (dirPath) => {
+		const lan = this.language;
+		return getFolders(dirPath)
+			.then(paths => {
+				return paths.map(p => `/${lan}/article/${path.basename(p)}`);
+			});
 	};
 
 	//***********************************************************************

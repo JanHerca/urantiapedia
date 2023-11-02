@@ -683,8 +683,6 @@ const handle_exeButtonClick = () => {
 		//TODO: Add authors in Index (not in Extended)
 		//TODO: Add links in home page & About UB page to go directly to multi
 		//TODO: Add a diff system
-		//TODO: Create new Study Aid section
-		//TODO: Improve refs reducing the repetition of articles
 		//TODO: Allow images to be also centered (not only left by default)
 		paralells.read()
 			.then(() => articles.readUBParalellsFromTSV(txtFile))
@@ -1051,6 +1049,31 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
+	} else if (process === 'ARTICLE_AUTHORS_INDEXES') {
+		//Reads all Articles Index Files (TSV)
+		//Writes content by author
+		const authorsIndex = path.join(txtDir, 'authors_index.md');
+		getFiles(txtDir)
+			.then(files => {
+				const promises = files
+					.filter(f => path.basename(f).startsWith('articles'))
+					.map(f => {
+						const a = new Articles();
+						a.setLanguage(lan);
+						return a.readIndexFileFromTSV(f)
+							.then(() => a.getAuthorsIndex());
+					});
+				return Promise.all(promises);
+			})
+			.then(indexes => {
+				articles.getAuthorPaths(htmlDir)
+					.then(authorPaths => {
+						articles.writeAuthorsIndex(authorsIndex, indexes,
+							authorPaths);
+					});
+			})
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)

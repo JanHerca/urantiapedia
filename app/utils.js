@@ -326,6 +326,29 @@ exports.getFiles = (dirPath) => {
 };
 
 /**
+ * Get folders that are inmediately under the given path.
+ * @param {string} dirPath Folder.
+ * @return {Promise}
+ */
+exports.getFolders = (dirPath) => {
+	return new Promise((resolve, reject) => {
+		const folders = [];
+		try {
+			fs.readdirSync(dirPath).forEach(file => {
+				const filepath = path.join(dirPath, file);
+				if (fs.statSync(filepath).isDirectory()) {
+					folders.push(filepath);
+				}
+			});
+		} catch (err) {
+			reject(err);
+			return;
+		}
+		resolve(folders);
+	});
+};
+
+/**
  * Reads file pairs (in english and another language) and call the given
  * functions.
  * @param {string} filePathEN File path in English.
