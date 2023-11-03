@@ -16,3 +16,9 @@ The UB found him in 1979 after reading the opening paragraphs of Paper 1 while l
 
 ## Articles
 
+- [A Musical Metaphor](/en/article/Bruce_Jackson/A_Musical_Metaphor), Fellowship Herald, Volume 17, Number 1, 2017 (Summer)
+- [The Challenge of Revelation Based Education](/en/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education), Fellowship Herald, Volume 19, Number 1, 2019 (Summer)
+- [A Jesusonian Calling to Go the Third Mile](/en/article/Bruce_Jackson/jesusonian_calling_go_third_mile), Journal, Journal — May 2018
+- [Millennials and the Church](/en/article/Bruce_Jackson/millennials_and_the_church), Journal, Journal — May 2021
+- [The Religion of Jesus](/en/article/Bruce_Jackson/The_Religion_of_Jesus), The Spiritual Fellowship Journal, Spring 1997
+- [Identity in the Modern Renaissance](/en/article/Bruce_Jackson/Identity_in_the_Modern_Renaissance), The Spiritual Fellowship Journal, Fall 2001

@@ -14,3 +14,5 @@ Carol Hay, a long time student of _The Urantia Book_, speaks extensively to chur
 
 ## Articles
 
+- [The Transforming Encounter](/en/article/Carol_Hay/The_Transforming_Encounter), The Spiritual Fellowship Journal, Fall 1994
+- [The Science of Serendipity](/en/article/Carol_Hay/The_Science_of_Serendipity), The Spiritual Fellowship Journal, Spring 1995

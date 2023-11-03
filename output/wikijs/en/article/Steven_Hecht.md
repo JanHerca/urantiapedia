@@ -1,5 +1,5 @@
 ---
-title: Steven Hecht
+title: "Steven Hecht"
 description:
 published: true
 date: 2023-02-06T11:16:41.388Z
@@ -14,5 +14,5 @@ Steven Hecht lives in Acton, MA with his will Dori Smith. Ever since he found _T
 
 ## Articles
 
-- [Ruminations on Revelation](/en/article/Steven_Hecht/Ruminations_on_Revelation), The Fellowship Herald, Volume 5, Number 1, 2003 (Summer)
-- [A Trace of God](/en/article/Steven_Hecht/A_Trace_of_God), The Fellowship Herald, Volume 5, Number 2, 2004 (Summer)
+- [Ruminations on Revelation](/en/article/Steven_Hecht/Ruminations_on_Revelation), Fellowship Herald, Volume 5, Number 1, 2003 (Summer)
+- [A Trace of God](/en/article/Steven_Hecht/A_Trace_of_God), Fellowship Herald, Volume 5, Number 2, 2004 (Summer)

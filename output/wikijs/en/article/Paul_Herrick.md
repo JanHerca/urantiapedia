@@ -14,3 +14,4 @@ Paul and his wife Francine are very active in Urantia Book outreach. They operat
 
 ## Articles
 
+- [The Adventure Has Begun](/en/article/Paul_Herrick/The_Adventure_Has_Begun), The Spiritual Fellowship Journal, Spring 1995

@@ -14,8 +14,6 @@ Jeanne teaches unbiased language usage, critical thinking skills, and discernmen
 
 ## Articles
 
-Index of articles and study aids by Jeanne:
+Index of articles by Jeanne:
 
-| Status                  | Source | Issue          | Title                         | Tags |
-| ----------------------- | ------ | -------------- | ------------------------------| ---- |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | Whither Goest Thou, Woman?    |      |
+- [Whither Goest Thou, Woman?](/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman), Fellowship Herald, Volume 1, Number 2, 1999 (Spring)

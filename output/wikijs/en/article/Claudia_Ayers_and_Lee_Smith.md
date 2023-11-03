@@ -16,4 +16,4 @@ Lee Smith found _The Urantia Book_ in 1975, and shortly thereafter started a stu
 
 ## Articles
 
-- [A Dialogue About The Kingdom](/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom)
+- [A Dialogue About The Kingdom](/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom), Fellowship Herald, Volume 5, Number 1, 2003 (Summer)

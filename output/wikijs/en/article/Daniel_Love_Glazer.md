@@ -13,3 +13,5 @@ dateCreated: 2023-10-31T11:12:37.284Z
 Daniel Love Glazer was raised as a Jew, but later became an agnostic and then a yogi. His spiritual search ultimately led to a transforming encounter with God. Shortly thereafter, he discovered _The Urantia Book_, and through its pages a knowledge of Jesus. He works as a computer science teacher and is married, with two children. He is active in his local United Methodist Church.
 
 ## Articles
+
+- [The Father Idea](/en/article/Daniel_Love_Glazer/The_Father_Idea), The Spiritual Fellowship Journal, Fall 1994

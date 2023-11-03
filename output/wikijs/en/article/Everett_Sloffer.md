@@ -1,5 +1,5 @@
 ---
-title: Everett Sloffer
+title: "Everett Sloffer"
 description:
 published: true
 date: 2021-11-28T11:16:41.388Z
@@ -10,9 +10,8 @@ dateCreated: 2021-11-28T11:12:37.284Z
 
 ## Articles
 
-Index of articles and study aids by Everett:
+Index of articles by Everett:
 
-| Status                  | Source             | Issue                    | Title                                            | Tags     |
-| ----------------------- | ------------------ | ------------------------ | ------------------------------------------------ | -------- |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 1.          | [Insights](/en/article/Everett_Sloffer/Insights) | Religion |
-| :white_square_button:   | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Church: A Statement of Purpose and Belief", |          |
+- [Insights](/en/article/Everett_Sloffer/Insights), Innerface International, Volume 1 - No. 1
+- [The Church: A Statement of Purpose and Belief](/en/article/Everett_Sloffer/The_Church_A_Statement_of_Purpose_and_Belief), The Spiritual Fellowship Journal, Spring 1991 — First Issue
+- [The Power of New Spiritual Insight](/en/article/Everett_Sloffer/The_Power_of_New_Spiritual_Insight), The Spiritual Fellowship Journal, Fall 1992

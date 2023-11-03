@@ -14,8 +14,7 @@ Paul Snider has been studying _The Urantia Book_ since 1965, and has spent more 
 
 ## Articles
 
-Index of articles and study aids by Meredith:
+Index of articles by Paul:
 
-| Status                  | Source    | Issue           | Title                                     | Tags                     |
-| ----------------------- | ----------| ----------------| ----------------------------------------- | ------------------------ |
-| :white_square_button:   | Herald    | Vol. 02, No. 1  | The Family: Birthplace of Cosmic Citizens |                          |
+- [The Family: Birthplace of Cosmic Citizens](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens), Fellowship Herald, Volume 2, Number 1, 1999 (Winter)
+- [The Family — Birthplace of Cosmic Citizenship](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship), The Spiritual Fellowship Journal, Fall 2001

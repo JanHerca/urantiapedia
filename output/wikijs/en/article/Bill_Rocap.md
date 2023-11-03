@@ -14,3 +14,5 @@ Bill Rocap is a long-time reader and a member of the Connecticut Fellowship for 
 
 ## Articles
 
+- [A Missionary Experience in Turkey](/en/article/Bill_Rocap/A_Missionary_Experience_in_Turkey), Fellowship Herald, Volume 9, Number 1, 2008 (Summer)
+- [Turkish translation of the Urantia Book](/en/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book), Mighty Messenger, Fall 2020 Issue

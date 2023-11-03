@@ -16,3 +16,4 @@ dateCreated: 2023-10-31T11:12:37.284Z
 
 ## Articles
 
+- [The World is Not Coming to an End](/en/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End), Fellowship Herald, Volume 11, Number 1, 2010 (Summer)

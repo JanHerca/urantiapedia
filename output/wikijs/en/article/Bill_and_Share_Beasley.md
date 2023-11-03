@@ -14,3 +14,5 @@ _The Urantia Book_ came into the lives of Bill and Share in 1971. Both were imme
 
 ## Articles
 
+- [Serving: A Cookbook for the Soul](/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul), Fellowship Herald, Volume 7, Number 1, 2006 (Summer)
+- [Orlando Florida: Another Chapter Unfolds](/en/article/Bill_and_Share_Beasley/Orlando_Florida_Another), Urantia Foundation News Online, Volume 4, Issue 1, March 2010

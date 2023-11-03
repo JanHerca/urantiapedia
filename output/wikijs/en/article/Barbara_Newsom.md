@@ -14,3 +14,4 @@ Barbara Newsom started reading _The Urantia Book_ with her parents in a study gr
 
 ## Articles
 
+- [God Consciousness: A Living University Inspires In-Depth Study](/en/article/Barbara_Newsom/God_Consciousness), Urantia Foundation News Online, Volume 3, Issue 3, Sept. 2009

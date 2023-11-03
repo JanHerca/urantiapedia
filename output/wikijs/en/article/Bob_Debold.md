@@ -16,3 +16,5 @@ Bob’s efforts to further understand the inscrutable Supreme can be found in th
 
 ## Articles
 
+- [Crouching Deity/Hidden Supreme](/en/article/Bob_Debold/Crouching_Deity_Hidden_Supreme), Fellowship Herald, Volume 11, Number 1, 2010 (Summer)
+- [Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?](/en/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate), Fellowship Herald, Volume 14, Number 1, 2014 (Summer)

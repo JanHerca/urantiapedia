@@ -10,190 +10,328 @@ dateCreated: 2021-11-28T11:12:37.284Z
 
 ## Articles
 
-Index of articles and study aids by Ken:
+Index of articles by Ken:
 
-| Status                  | Source             | Issue                  | Title                                                                                                                                              | Tags                                                                                       |
-| ----------------------- | ------------------ | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 1.        | [A Time for Change?](/en/article/Ken_Glasziou/A_Time_for_Change)                                                                                   | Religion, Revelation                                                                       |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 2.        | [Time for More Change? Symbols, Cults, and _The Urantia Book_](/en/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults)                        | Religion, The Urantia Book                                                                 |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 2.        | [Was the Crucifixion really Necessary?](/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary)                                             | Religion, Theology                                                                         |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 3.        | [The Second Great Commandment](/en/article/Ken_Glasziou/The_Second_Great_Commandment)                                                              | Jesus, Jesus teachings, The Urantia Book                                                   |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 3.        | [Science and The Urantia Book. When Did the Red Man Arrive in the Americas?](/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas) | Anthropology                                                                               |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 3.        | [Primate Ancestry](/en/article/Ken_Glasziou/Primate_Ancestry)                                                                                      | Anthropology                                                                               |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 4.        | [DEFRAG](/en/article/Ken_Glasziou/DEFRAG)                                                                                                          | Jesus, Jesus teachings, Morality                                                           |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 4.        | [Plan A. What was it?](/en/article/Ken_Glasziou/Plan_A_What_was_it)                                                                                | God, Jesus, Jesus teachings                                                                |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 4.        | [Science and The Urantia Book. Origins of Andon and Fonta](/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta)                                    | Anthropology, Biology and Genetics                                                         |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 4.        | [When did “life” start on Urantia?](/en/article/Ken_Glasziou/When_did_life_start_on_Urantia)                                                       | Anthropology, Biology and Genetics                                                         |
-| :white_square_button:   | Innerface          | Vol 5, No. 7.          | "Piltdown Man."                                                                                                                                    | Biology and Genetics, Gardner                                                              |
-| :white_square_button:   | Innerface          | Vol. 01, No. 5.        | "Science and The Urantia Book. Neutrinos, Neutrons and Neutron Stars."                                                                             | Physics                                                                                    |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 6.        | [Neutrinos, Neutrons, and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars)                                            | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 01, No. 6.        | "Only God is Good."                                                                                                                                | God, Morality                                                                              |
-| :white_square_button:   | Innerface          | Vol. 02, No. 1         | "On the Revelatory Status of The Urantia Book."                                                                                                    | Cosmology, Revelation, The Urantia Book, The Urantia Book—Purpose, The Urantia Book—Errors |
-| :white_square_button:   | Innerface          | Vol. 02, No. 1.        | "Human Brain versus the Computer."                                                                                                                 | Morality                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 02, No. 1.        | "Limitations of Revelation."                                                                                                                       | Revelation, The Urantia Book                                                               |
-| :white_square_button:   | Innerface          | Vol. 02, No. 1.        | "On Faith."                                                                                                                                        | God                                                                                        |
-| :white_square_button:   | Innerface          | Vol. 02, No. 1.        | "Quantum Theory, The Urantia Book, and the Absolutes."                                                                                             | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 02, No. 1.        | "The Purpose and Limitations of the Fifth Epochal Revelation."                                                                                     | God, Purpose, Revelation, The Urantia Book, The Urantia Book—Purpose                       |
-| :white_square_button:   | Innerface          | Vol. 02, No. 2.        | "Aristotle, Fuzzy Logic, and The Urantia Book."                                                                                                    | Psychology, The Urantia Book                                                               |
-| :ballot_box_with_check: | Innerface          | Vol. 02, No. 2.        | [Gravity, Newton, Einstein, and The Urantia Book](/en/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book)                           | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 02, No. 2.        | "On Fuzzy Thinking."                                                                                                                               | Psychology                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 02, No. 3.        | "Are Geologists Using The Urantia Book as a Reference Work?"                                                                                       | Geology, The Urantia Book                                                                  |
-| :white_square_button:   | Innerface          | Vol. 02, No. 3.        | "Midrash."                                                                                                                                         | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 02, No. 3.        | "Morality, Motive, and Virtue."                                                                                                                    | Morality                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 02, No. 3.        | "The Urantia Book and Secondary Works."                                                                                                            | Church, Morality                                                                           |
-| :white_square_button:   | Innerface          | Vol. 02, No. 3.        | "Unselfishness. Its Relationship to God-Consciousness and Religious Experience."                                                                   | Spirituality, Thought Adjusters                                                            |
-| :white_square_button:   | Innerface          | Vol. 02, No. 4.        | "James, the brother of Jesus. What happened to him?"                                                                                               | Jesus, Jesus life                                                                          |
-| :white_square_button:   | Innerface          | Vol. 02, No. 4.        | "Turning Point."                                                                                                                                   | God, The Urantia Book                                                                      |
-| :white_square_button:   | Innerface          | Vol. 02, No. 4.        | "Who Wrote The Urantia Book?"                                                                                                                      | The Urantia Book—Authorship, History                                                       |
-| :white_square_button:   | Innerface          | Vol. 02, No. 5.        | "Birth of the Solar System."                                                                                                                       | Astronomy                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 02, No. 5.        | "Let There Be Light."                                                                                                                              | God, Jesus, Jesus teachings                                                                |
-| :white_square_button:   | Innerface          | Vol. 02, No. 5.        | "The Second Great Commandment. A Reminder."                                                                                                        | Jesus, Jesus teachings, Spirituality                                                       |
-| :white_square_button:   | Innerface          | Vol. 02, No. 5.        | "What Am I?"                                                                                                                                       | Personality, Thought Adjusters                                                             |
-| :white_square_button:   | Innerface          | Vol. 02, No. 5.        | "Wouldn't It be Great If?"                                                                                                                         | Sociology                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 02, No. 6.        | "Tarichea."                                                                                                                                        | Jesus, Jesus life                                                                          |
-| :white_square_button:   | Innerface          | Vol. 03, No. 1.        | "Editorial: Martin Gardner's "Urantia, The Great Cult Mystery."                                                                                    | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 03, No. 1.        | "Gardner Goofs Again—and Again."                                                                                                                   | Gardner                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 03, No. 2.        | "A Conundrum for the Hardcore Fundamentalists."                                                                                                    | Revelation, The Urantia Book, The Urantia Book—Errors                                      |
-| :ballot_box_with_check: | Innerface          | Vol. 03, No. 2.        | [Neutrinos and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars)                                                       | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 03, No. 2.        | "No Man Ever Spake Thus."                                                                                                                          | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 03, No. 2.        | "No Man Ever Spake Thus."                                                                                                                          | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 03, No. 2.        | "The Urantia Book. Why is it so?"                                                                                                                  | Purpose, Revelation, The Urantia Book, The Urantia Book—Purpose                            |
-| :white_square_button:   | Innerface          | Vol. 03, No. 3.        | "Bethsaida and The Urantia Book."                                                                                                                  | Archaeology, Jesus, Jesus life                                                             |
-| :white_square_button:   | Innerface          | Vol. 03, No. 3.        | "Science and Archaeology in The Urantia Book.                                                                                                      | Archaeology                                                                                |
-| :ballot_box_with_check: | Innerface          | Vol. 03, No. 3.        | [Surfing the Sunbeams: Calcium, the Wanderer of Space](/en/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space)                       | Astronomy                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 03, No. 4.        | "Consistency in The Urantia Book"                                                                                                                  | Gardner, The Urantia Book                                                                  |
-| :white_square_button:   | Innerface          | Vol. 03, No. 4.        | "Paddling against the Tide."                                                                                                                       |
-| :white_square_button:   | Innerface          | Vol. 03, No. 4.        | "Why did Jesus come to Urantia."                                                                                                                   | God, Jesus, Jesus teachings, Thought Adjusters                                             |
-| :white_square_button:   | Innerface          | Vol. 03, No. 5.        | "The Celestial Guardians."                                                                                                                         | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 03, No. 5.        | "The Secondary Midwayers."                                                                                                                         | Revelation, The Urantia Book                                                               |
-| :white_square_button:   | Innerface          | Vol. 03, No. 5.        | "Without or Within."                                                                                                                               | Jesus, Jesus teachings, Morality, Religion, Thought Adjusters                              |
-| :white_square_button:   | Innerface          | Vol. 03, No. 6.        | "Consistency Column."                                                                                                                              | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 03, No. 6.        | "On Being Morally Fragrant."                                                                                                                       | Morality                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 03, No. 6.        | "Science and History in The Urantia Book."                                                                                                         | History, Revelation                                                                        |
-| :white_square_button:   | Innerface          | Vol. 03. No. 4.        | "Why did Jesus come to Urantia?"                                                                                                                   | Purpose                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 1.        | "Convergence—The Science Content of The Urantia Book"                                                                                              | Gardner, Physics                                                                           |
-| :white_square_button:   | Innerface          | Vol. 04, No. 2.        | "On Communication with our Thought Adjuster."                                                                                                      | Jesus, Jesus teachings, Morality, Thought Adjusters                                        |
-| :white_square_button:   | Innerface          | Vol. 04, No. 2.        | "Swann, Gardner, and The Urantia Book—Protons and Electrons."                                                                                      | Gardner                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 3.        | "A Journey to the Stars."                                                                                                                          | Cosmology, The Urantia Book                                                                |
-| :white_square_button:   | Innerface          | Vol. 04, No. 3.        | "Evolution of the Solar System—the Role of Chaos."                                                                                                 | Astronomy                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 04, No. 3.        | "Need a Tune-Up."                                                                                                                                  | Spirituality, Thought Adjusters                                                            |
-| :white_square_button:   | Innerface          | Vol. 04, No. 3.        | "Out of Context: Means, Ends, Motives and Morality."                                                                                               | Morality                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 04, No. 4.        | "Has Quantum Physics discovered the Universal Father?"                                                                                             | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 4.        | "Heisenberg and God."                                                                                                                              | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 4.        | "Well Has It?"                                                                                                                                     | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 5.        | "More on the Gospel of the Kingdom."                                                                                                               | Jesus, Jesus teachings, The Urantia Book                                                   |
-| :white_square_button:   | Innerface          | Vol. 04, No. 5.        | "The Urantia Book. Why Is It So Strange?"                                                                                                          | Morality, Purpose, Revelation, The Urantia Book, The Urantia Book—Purpose                  |
-| :white_square_button:   | Innerface          | Vol. 04, No. 5.        | "Why do we need to know the 'Life of Jesus' and how he lived it?                                                                                   | Purpose                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 5.        | "Why we need to know 'The Earthly Life of Jesus and How He Lived It.'"                                                                             | Jesus, Jesus teachings, Morality, Thought Adjusters                                        |
-| :white_square_button:   | Innerface          | Vol. 04, No. 6.        | "Alternatively."                                                                                                                                   | Cosmology, Revelation                                                                      |
-| :white_square_button:   | Innerface          | Vol. 04, No. 6.        | "Consciousness."                                                                                                                                   | Physics, Psychology                                                                        |
-| :white_square_button:   | Innerface          | Vol. 04, No. 6.        | "Forty eight Chromosomes or Jumping to Conclusions."                                                                                               | Biology and Genetics                                                                       |
-| :white_square_button:   | Innerface          | Vol. 04, No. 6.        | "The Quest. What is life about?"                                                                                                                   | Cosmology, God, Purpose                                                                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 6.        | "The Urantia Papers. Was Immediate Publication Intended?"                                                                                          | Revelation, The Urantia Book                                                               |
-| :white_square_button:   | Innerface          | Vol. 05, No. 2.        | "Christianity—A Different Perspective."                                                                                                            | Religion, Theology                                                                         |
-| :white_square_button:   | Innerface          | Vol. 05, No. 2.        | "Gideonism."                                                                                                                                       | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 05, No. 2.        | "Human Sources of The Urantia Book. The Strong Force and Supernova."                                                                               | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 05, No. 2.        | "On Peer Group Pressure."                                                                                                                          | Psychology                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 05, No. 2.        | "Urantia Book Authorship—Other Aspects."                                                                                                           | Anthropology, Archaeology, The Urantia Book—Authorship                                     |
-| :white_square_button:   | Innerface          | Vol. 05, No. 2.        | "Who Wrote The Urantia Book? It doesn't really matter—IMHO."                                                                                       | Jesus, Jesus teachings, Revelation, Thought Adjusters, History                             |
-| :white_square_button:   | Innerface          | Vol. 05, No. 3.        | "All Conflict is Evil." Letter from Gloria Colot, response                                                                                         | Morality                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 05, No. 3.        | "Human Sources of The Urantia Book. The Evanescent Mesotron."                                                                                      | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 05, No. 3.        | "Red Alert."                                                                                                                                       | Religion, Revelation                                                                       |
-| :white_square_button:   | Innerface          | Vol. 05, No. 4.        | "A Crime against Humanity."                                                                                                                        | Religion, Revelation, The Urantia Book                                                     |
-| :white_square_button:   | Innerface          | Vol. 05, No. 4.        | "God-playing—An Avocation."                                                                                                                        | Morality                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 05, No. 4.        | "The Urantia Book's Message has failed—or has it?                                                                                                  | Religion, The Urantia Book, Revelation, History                                            |
-| :white_square_button:   | Innerface          | Vol. 05, No. 4.        | "The Urantia Book: A New Presentation of Part 4?"                                                                                                  | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 05, No. 4.        | "The Urantia Papers. The Revelators' Unenviable Task."                                                                                             | Personality, Revelation, The Urantia Book, The Urantia Book—Purpose                        |
-| :white_square_button:   | Innerface          | Vol. 05, No. 5.        | "Materialistic Determinism—Last Rites"                                                                                                             | Theology                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 05, No. 5.        | "What Constitutes 'Spiritual Experience'"                                                                                                          | God, Morality, Spirituality, Thought Adjusters                                             |
-| :white_square_button:   | Innerface          | Vol. 05, No. 6.        | "Instructions from a Higher Authority"                                                                                                             | Jesus, Jesus teachings, The Urantia Book                                                   |
-| :white_square_button:   | Innerface          | Vol. 05, No. 6.        | "More on Gardner Goofs"                                                                                                                            | Gardner                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "100 Stable Elements."                                                                                                                             | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "About 'Prophetic' Science."                                                                                                                       |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Are the Urantia Papers demonstrably of super-human origin?"                                                                                       | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Continental Drift."                                                                                                                               | Gardner, Geology                                                                           |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Marsupial Migration."                                                                                                                             |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "More about the Papers."                                                                                                                           | Personality                                                                                |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "More about the Urantia Papers."                                                                                                                   | History                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "On Prophesy."                                                                                                                                     | Personality, Revelation                                                                    |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Origin of the Solar System."                                                                                                                      | Astronomy                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Radii of the Electron and Proton."                                                                                                                | Gardner, Physics                                                                           |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Science and the Urantia Papers."                                                                                                                  | History, Revelation                                                                        |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "Some Early History."                                                                                                                              | History, Revelation                                                                        |
-| :white_square_button:   | Innerface          | Vol. 05, No. 7.        | "What fuels our Sun and other Stars?"                                                                                                              | Astronomy                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 05. No. 7.        | "Arrival of the Red Man in the Americas."                                                                                                          | Anthropology, History                                                                      |
-| :white_square_button:   | Innerface          | Vol. 05. No. 7.        | "Mountain Building."                                                                                                                               |
-| :white_square_button:   | Innerface          | Vol. 05. No. 7.        | "What If?"                                                                                                                                         | History                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 06, No. 1.        | "On Worship."                                                                                                                                      | Personality, Psychology, Thought Adjusters                                                 |
-| :white_square_button:   | Innerface          | Vol. 06, No. 2.        | "Let's make and keep it simple"                                                                                                                    | Morality, Psychology, Thought Adjusters                                                    |
-| :white_square_button:   | Innerface          | Vol. 06, No. 2.        | "On Pragmatism"                                                                                                                                    | Jesus, Jesus teachings, Morality                                                           |
-| :white_square_button:   | Innerface          | Vol. 06, No. 2.        | "Patience—a millennium is a 1000 years"                                                                                                            | Psychology, Sociology                                                                      |
-| :white_square_button:   | Innerface          | Vol. 06, No. 2.        | "The Origin of Life on Urantia"                                                                                                                    | Biology and Genetics, Cosmology                                                            |
-| :white_square_button:   | Innerface          | Vol. 06, No. 2.        | "The Red Shift Shifted"                                                                                                                            | Cosmology                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 06, No. 3.        | "A Kingdom Commentary"                                                                                                                             | Jesus, Jesus teachings                                                                     |
-| :white_square_button:   | Innerface          | Vol. 06, No. 3.        | "An Alternative View of Jesus' Incarnation."                                                                                                       | Jesus, Jesus teachings                                                                     |
-| :white_square_button:   | Innerface          | Vol. 06, No. 3.        | "Cooking up a Universe"                                                                                                                            | Cosmology                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 06, No. 3.        | "The Remembrance Supper—its Significance."                                                                                                         | Jesus, Jesus teachings, Worship                                                            |
-| :white_square_button:   | Innerface          | Vol. 06, No. 3.        | "The Universe is Friendly."                                                                                                                        | Cosmology, Morality                                                                        |
-| :white_square_button:   | Innerface          | Vol. 06, No. 3.        | "The Urantia Papers on Loving our Neighbor."                                                                                                       | Sociology, Morality                                                                        |
-| :white_square_button:   | Innerface          | Vol. 06, No. 4.        | "All our Cosmologies are Erroneous."                                                                                                               | Cosmology, Morality, Revelation                                                            |
-| :white_square_button:   | Innerface          | Vol. 06, No. 4.        | "Anti-gravity is Back!"                                                                                                                            | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 06, No. 4.        | "Did you Know?"                                                                                                                                    | Physics                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 06, No. 4.        | "Forty Days and Forty Nights."                                                                                                                     | The Urantia Book—Purpose, The Urantia Book—Errors                                          |
-| :white_square_button:   | Innerface          | Vol. 06, No. 4.        | "Our Problem."                                                                                                                                     | Cosmology, Revelation, The Urantia Book—Purpose                                            |
-| :white_square_button:   | Innerface          | Vol. 06, No. 5.        | "'Religion'" is a Dirty Word."                                                                                                                     | Religion                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 06, No. 5.        | "C'est Important."                                                                                                                                 | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 06, No. 5.        | "Comprehending the Urantia Book"                                                                                                                   | Cosmology, Revelation, The Urantia Book                                                    |
-| :white_square_button:   | Innerface          | Vol. 06, No. 5.        | "On Introducing The Urantia Book."                                                                                                                 | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "The Urantia Papers are Self-Authenticating"                                                                                                       | Religion, The Urantia Book—Purpose                                                         |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "Mind over Matter"                                                                                                                                 | Psychology, Spirituality                                                                   |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "Space and Time and Seven Dimensions"                                                                                                              | Cosmology                                                                                  |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "The Future. What The Urantia Book tells us."                                                                                                      | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "The Trinity Teacher Sons"                                                                                                                         | God, Theology                                                                              |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "The Urantia Revelation. Why do we have it?"                                                                                                       | Cosmology, Revelation                                                                      |
-| :white_square_button:   | Innerface          | Vol. 06, No. 4.        | "Forty Days and Forty Nights."                                                                                                                     | Cosmology, Revelation                                                                      |
-| :white_square_button:   | Innerface          | Vol. 06, No. 6.        | "Continental Drift. The Gardner Critique Demolished"                                                                                               | Gardner, Geology                                                                           |
-| :white_square_button:   | Innerface          | Vol. 06, No. 1.        | "On Worship"                                                                                                                                       | Worship                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 07, No. 1.        | "Are the Urantia Papers the divine word of God"                                                                                                    | Revelation, Theology                                                                       |
-| :white_square_button:   | Innerface          | Vol. 07, No. 1.        | "Is there Certainty?"                                                                                                                              | Purpose                                                                                    |
-| :white_square_button:   | Innerface          | Vol. 07, No. 1.        | "Mind and Consciousness. Modern theory and the Urantia Papers. A Story of Convergence."                                                            | Jesus, Jesus teachings                                                                     |
-| :white_square_button:   | Innerface          | Vol. 07, No. 1.        | "What Really Survives?"                                                                                                                            | Spirituality                                                                               |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "Deep Stuff on Souls"                                                                                                                              | Spirituality, Theology                                                                     |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "Did you Know? Stars, Galaxies and the Big Bang"                                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "En Passant: Process Theology and The Urantia Book"                                                                                                | Theology                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "Holism. Process Philosophy & Theology and The Urantia Book"                                                                                       | Theology                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "How grows the Soul? From The Urantia Book                                                                                                         | Morality, Spirituality                                                                     |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "The Gaia Hypotheis and The Urantia Book"                                                                                                          | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "The Necessity for Going Forward—Backwardly"                                                                                                       | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 07, No. 2.        | "What Really Survives? Growing Spiritually"                                                                                                        | Spirituality                                                                               |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "Atonement: Jewish Origins."                                                                                                                       | Theology                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "Brotherhood"                                                                                                                                      | Religion                                                                                   |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "How Should a Urantian Live."                                                                                                                      | Family, Sociology                                                                          |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "The Evolution of Supreme Being."                                                                                                                  | God                                                                                        |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "The Supreme Being."                                                                                                                               | God, Theology                                                                              |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "The Urantia Papers on Finite Reality."                                                                                                            | Cosmology, Revelation, Theology                                                            |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "When is Epochal Revelation not Epochal?"                                                                                                          | The Urantia Book—Purpose                                                                   |
-| :white_square_button:   | Innerface          | Vol. 07, No. 4.        | "Proof and the Urantia Papers"                                                                                                                     | The Urantia Book                                                                           |
-| :white_square_button:   | Innerface          | Vol. 07, No. 4.        | "The Shroud of Turin."                                                                                                                             | Jesus, Jesus life, Jesus, Jesus teachings                                                  |
-| :white_square_button:   | Innerface          | Vol. 07, No. 5.        | "Out of Date—On Facing Reality."                                                                                                                   | Cosmology, The Urantia Book—Purpose, The Urantia Book—Errors                               |
-| :white_square_button:   | Innerface          | Vol. 07, No. 5.        | "Process Theology and the Urantia Papers."                                                                                                         | Religion, The Urantia Book, Theology                                                       |
-| :white_square_button:   | Innerface          | Vol. 07, No. 5.        | "Proof'n Spoof."                                                                                                                                   | Revelation, The Urantia Book, The Urantia Book—Authorship, The Urantia Book—Purpose        |
-| :white_square_button:   | Innerface          | Vol. 07, No. 5.        | "Really Out of Date."                                                                                                                              | Astronomy, The Urantia Book—Purpose, Cosmology                                             |
-| :white_square_button:   | Innerface          | Vol. 07, No. 5.        | "The Ashtaroth Incident"                                                                                                                           | Jesus, Jesus teachings, Morality, Religion                                                 |
-| :white_square_button:   | Innerface          | Vol. 07, No. 5.        | "Who will come to 'Phoenicia?'"                                                                                                                    | Jesus, Jesus teachings, Religion                                                           |
-| :white_square_button:   | Innerface          | Vol. 07, No. 6.        | "A Millenium of Cosmic Enlightenment—Is it Here?                                                                                                   | Cosmology, Revelation, The Urantia Book—Purpose                                            |
-| :white_square_button:   | Innerface          | Vol. 07, No. 6.        | "Free will and the Will of God"                                                                                                                    | God, Psychology, Religion, Theology                                                        |
-| :white_square_button:   | Innerface          | Vol. 07, No. 6.        | "Purpose"                                                                                                                                          | Purpose, The Urantia Book—Purpose                                                          |
-| :white_square_button:   | Innerface          | Vol. 07, No. 6.        | "The Future—Following Jesus"                                                                                                                       | Jesus, Jesus teachings, Religion, Cosmology                                                |
-| :white_square_button:   | Innerface          | Vol. 07, No. 6.        | "The Indwelling of the Spirit"                                                                                                                     | Spirituality, Theology, Thought Adjusters                                                  |
-| :white_square_button:   | Innerface          | Vol. 07, No. 3.        | "When is Epochal Revelation not Epochal?"                                                                                                          | Revelation                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 07. No. 1.        | "Mind and Consciousness. Modern theory and the Urantia Papers. A Story of Convergence.                                                             | Psychology                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 07. No. 1.        | "Pity my Simplicity"                                                                                                                               | Psychology                                                                                 |
-| :white_square_button:   | Innerface          | Vol. 07. No. 1.        | "What Really Survives?"                                                                                                                            | Psychology, Theology                                                                       |
-| :white_square_button:   | Innerface          | Vol. 08, No. 2.        | "The Appearance at Sychar."                                                                                                                        | Jesus, Jesus teachings, Religion, Theology                                                 |
-| :white_square_button:   | Innerface          | Vol. 08, No. 2.        | "The Finity-Infinity Transform."                                                                                                                   | God, Theology                                                                              |
-| :white_square_button:   | Innerface          | Vol. 08, No. 2.        | "The Least we should know about the Cross."                                                                                                        | Jesus, Jesus teachings, Religion, Theology                                                 |
-| :white_square_button:   | Innerface          | Vol. 08, No. 2.        | "Who Wrote the Urantia Papers."                                                                                                                    | The Urantia Book—Authorship                                                                |
-| :white_square_button:   | Innerface          | Vol. 08, No. 2.        | "Windows of Opportunity"                                                                                                                           | The Urantia Book—Purpose, Theology                                                         |
-| :white_square_button:   | Fellowship Journal | Vol. 01, No. 2 Fall 91 | "Science, Religion, and The Urantia Book"                                                                                                          |                                                                                            |
-| :white_square_button:   | Herald             | Vol. 01, No. 1         | "48 Chromosomes - Are We Asking the Right Questions?"                                                                                              |                                                                                            |
+- [48 Chromosomes - Are We Asking the Right Questions?](/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions), Fellowship Herald, Volume 1, Number 1, 1998 (Fall)
+- [A Time for Change?](/en/article/Ken_Glasziou/A_Time_for_Change), Innerface International, Volume 1 - No. 1
+- [Time for More Change? Symbols, Cults, and _The Urantia Book_](/en/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults), Innerface International, Volume 1 - No. 2
+- [The Alpha and the Omega](/en/article/Ken_Glasziou/The_Alpha_and_the_Omega), Innerface International, Volume 1 - No. 2
+- [Was the Crucifixion really Necessary?](/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary), Innerface International, Volume 1 - No. 2
+- [When is a “Heart” not a “Heart?”](/en/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart), Innerface International, Volume 1 - No. 3
+- [The Missing Link](/en/article/Ken_Glasziou/The_Missing_Link), Innerface International, Volume 1 - No. 3
+- [The Second Great Commandment](/en/article/Ken_Glasziou/The_Second_Great_Commandment), Innerface International, Volume 1 - No. 3
+- [Science and The Urantia Book. When Did the Red Man Arrive in the Americas?](/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas), Innerface International, Volume 1 - No. 3
+- [Primate Ancestry](/en/article/Ken_Glasziou/Primate_Ancestry), Innerface International, Volume 1 - No. 3
+- [DEFRAG](/en/article/Ken_Glasziou/DEFRAG), Innerface International, Volume 1 - No. 4
+- [Plan A. What was it?](/en/article/Ken_Glasziou/Plan_A_What_was_it), Innerface International, Volume 1 - No. 4
+- [Science and The Urantia Book. Origins of Andon and Fonta](/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta), Innerface International, Volume 1 - No. 4
+- [When did “life” start on Urantia?](/en/article/Ken_Glasziou/When_did_life_start_on_Urantia), Innerface International, Volume 1 - No. 4
+- [Science and The Urantia Book. The Mesotron](/en/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron), Innerface International, Volume 1 - No. 5
+- [Only God is Good](/en/article/Ken_Glasziou/Only_God_is_Good), Innerface International, Volume 1 - No. 6
+- [Parable of a Parrot](/en/article/Ken_Glasziou/Parable_of_a_Parrot), Innerface International, Volume 1 - No. 6
+- [Who was Rodan?](/en/article/Ken_Glasziou/Who_was_Rodan), Innerface International, Volume 1 - No. 6
+- [Neutrinos, Neutrons, and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars), Innerface International, Volume 1 - No. 6
+- [Limitations of Revelation](/en/article/Ken_Glasziou/Limitations_of_Revelation), Innerface International, Volume 2 - No. 1
+- [The Purpose and Limitations of the Fifth Epochal Revelation](/en/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation), Innerface International, Volume 2 - No. 1
+- [On the Revelatory Status of The Urantia Book](/en/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book), Innerface International, Volume 2 - No. 1
+- [On Faith](/en/article/Ken_Glasziou/On_Faith), Innerface International, Volume 2 - No. 1
+- [Quantum Theory, The Urantia Book, and the Absolutes](/en/article/Ken_Glasziou/Quantum_Theory_The_Urantia_Book_and_the_Absolutes), Innerface International, Volume 2 - No. 1
+- [Aristotle, Fuzzy Logic, and The Urantia Book](/en/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book), Innerface International, Volume 2 - No. 2
+- [On Fuzzy Thinking](/en/article/Ken_Glasziou/On_Fuzzy_Thinking), Innerface International, Volume 2 - No. 2
+- [Gravity, Newton, Einstein, and The Urantia Book](/en/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book), Innerface International, Volume 2 - No. 2
+- [Unselfishness. Its Relationship to God-Consciousness and Religious Experience](/en/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience), Innerface International, Volume 2 - No. 3
+- [Morality, Motive, and Virtue](/en/article/Ken_Glasziou/Morality_Motive_and_Virtue), Innerface International, Volume 2 - No. 3
+- [The Urantia Book and Secondary Works](/en/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works), Innerface International, Volume 2 - No. 3
+- [Midrash](/en/article/Ken_Glasziou/Midrash), Innerface International, Volume 2 - No. 3
+- [Who Wrote The Urantia Book?](/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book), Innerface International, Volume 2 - No. 4
+- [James, the brother of Jesus. What happened to him?](/en/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him), Innerface International, Volume 2 - No. 4
+- [Turning Point!!](/en/article/Ken_Glasziou/Turning_Point), Innerface International, Volume 2 - No. 4
+- [“Let There Be Light”](/en/article/Ken_Glasziou/Let_There_Be_Light), Innerface International, Volume 2 - No. 5
+- [Wouldn't It be Great If?](/en/article/Ken_Glasziou/Wouldnt_It_Be_Great_If), Innerface International, Volume 2 - No. 5
+- [The Second Great Commandment. A Reminder](/en/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder), Innerface International, Volume 2 - No. 5
+- [What Am I?](/en/article/Ken_Glasziou/What_Am_I), Innerface International, Volume 2 - No. 5
+- [Concepts of the Absolute](/en/article/Ken_Glasziou/Concepts_of_the_Absolute), Innerface International, Volume 2 - No. 5
+- [Birth of the Solar System](/en/article/Ken_Glasziou/Birth_of_the_Solar_System), Innerface International, Volume 2 - No. 5
+- [Archaeology and The Urantia Book](/en/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book), Innerface International, Volume 2 - No. 6
+- [Tarichea](/en/article/Ken_Glasziou/Tarichea), Innerface International, Volume 2 - No. 6
+- [Zwicky](/en/article/Ken_Glasziou/Zwicky), Innerface International, Volume 2 - No. 6
+- [Editorial: Martin Gardner's Urantia, The Great Cult Mystery](/en/article/Ken_Glasziou/Editorial_Martin_Gardners_Urantia_The_Great_Cult_Mystery), Innerface International, Volume 3 - No. 1
+- [A response to some of the Gardner criticisms](/en/article/Ken_Glasziou/A_response_to_some_of_the_Gardner_criticisms), Innerface International, Volume 3 - No. 1
+- [The Urantia Book. What is it and why is it so?](/en/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so), Innerface International, Volume 3 - No. 2
+- [No Man Ever Spake Thus](/en/article/Ken_Glasziou/No_Man_Ever_Spake_Thus), Innerface International, Volume 3 - No. 2
+- [A Conundrum for the Hardcore Fundamentalists](/en/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists), Innerface International, Volume 3 - No. 2
+- [Neutrinos and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars), Innerface International, Volume 3 - No. 2
+- [Science and Archaeology in The Urantia Book](/en/article/Ken_Glasziou/Science_and_Archaeology_in_The_Urantia_Book), Innerface International, Volume 3 - No. 3
+- [Bethsaida and The Urantia Book](/en/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book), Innerface International, Volume 3 - No. 3
+- [Surfing the Sunbeams: Calcium, the Wanderer of Space](/en/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space), Innerface International, Volume 3 - No. 3
+- [A Discourse on Religion](/en/article/Ken_Glasziou/A_Discourse_on_Religion), Innerface International, Volume 3 - No. 4
+- [Why did Jesus come to Urantia?](/en/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia), Innerface International, Volume 3 - No. 4
+- [Consistency in The Urantia Book](/en/article/Ken_Glasziou/Consistency_in_The_Urantia_Book), Innerface International, Volume 3 - No. 4
+- [Paddling against the Tide](/en/article/Ken_Glasziou/Paddling_Against_the_Tide), Innerface International, Volume 3 - No. 4
+- [About the Universal Father](/en/article/Ken_Glasziou/About_the_Universal_Father_3), Innerface International, Volume 3 - No. 5
+- [Positivism—The Only Way](/en/article/Ken_Glasziou/About_the_Universal_Father_3), Innerface International, Volume 3 - No. 5
+- [The Secondary Midwayers](/en/article/Ken_Glasziou/The_Secondary_Midwayers), Innerface International, Volume 3 - No. 5
+- [The Celestial Guardians](/en/article/Ken_Glasziou/The_Celestial_Guardians), Innerface International, Volume 3 - No. 5
+- [On Uncertainties](/en/article/Ken_Glasziou/On_Uncertainties), Innerface International, Volume 3 - No. 5
+- [Without or Within](/en/article/Ken_Glasziou/Without_or_Within), Innerface International, Volume 3 - No. 5
+- [A Christmas Message from Jesus](/en/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers), Innerface International, Volume 3 - No. 6
+- [On Being Morally Fragrant](/en/article/Ken_Glasziou/On_Being_Morally_Fragrant), Innerface International, Volume 3 - No. 6
+- [The Science and Historical Content of The Urantia Book](/en/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book), Innerface International, Volume 3 - No. 6
+- [Consistency Column](/en/article/Ken_Glasziou/Consistency_Column), Innerface International, Volume 3 - No. 6
+- [Faith Sons of God](/en/article/Ken_Glasziou/The_Faith_Sons_of_God), Innerface International, Volume 4 - No. 1
+- [Convergence—The Science Content of The Urantia Book](/en/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book), Innerface International, Volume 4 - No. 1
+- [Truth and Faith](/en/article/Ken_Glasziou/Truth_and_Faith), Innerface International, Volume 4 - No. 2
+- [On Communication with our Thought Adjuster](/en/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster), Innerface International, Volume 4 - No. 2
+- [Swann, Gardner, and The Urantia Book—Protons and Electrons](/en/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book), Innerface International, Volume 4 - No. 2
+- [All Urantia is Waiting](/en/article/Ken_Glasziou/All_Urantia_is_Waiting), Innerface International, Volume 4 - No. 3
+- [A Journey to the Stars](/en/article/Ken_Glasziou/A_Journey_to_the_Stars), Innerface International, Volume 4 - No. 3
+- [Need a Tune-Up](/en/article/Ken_Glasziou/Need_a_Tune_Up), Innerface International, Volume 4 - No. 3
+- [Out of Context: Means, Ends, Motives and Morality](/en/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality), Innerface International, Volume 4 - No. 3
+- [Evolution of the Solar System—the Role of Chaos](/en/article/Ken_Glasziou/Evolution_of_the_Solar_System), Innerface International, Volume 4 - No. 3
+- [Prayer and Worship](/en/article/Ken_Glasziou/Prayer_and_Worship), Innerface International, Volume 4 - No. 4
+- [Has Quantum Physics discovered the Universal Father?](/en/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father), Innerface International, Volume 4 - No. 4
+- [Heisenberg and God](/en/article/Ken_Glasziou/Heisenberg_and_God), Innerface International, Volume 4 - No. 4
+- [Well, Has It?](/en/article/Ken_Glasziou/Well_Has_It), Innerface International, Volume 4 - No. 4
+- [The Divine Spirit Must Dominate...](/en/article/Ken_Glasziou/The_Divine_Spirit_must_dominate), Innerface International, Volume 4 - No. 5
+- [Why we need to know 'The Earthly Life of Jesus and How He Lived It.'](/en/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it), Innerface International, Volume 4 - No. 5
+- [The Urantia Book. Why Is It So Strange?](/en/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange), Innerface International, Volume 4 - No. 5
+- [More on the Gospel of the Kingdom](/en/article/Ken_Glasziou/More_on_the_gospel_of_the_kingdom), Innerface International, Volume 4 - No. 5
+- [The Father's Business](/en/article/Ken_Glasziou/The_Fathers_Business), Innerface International, Volume 4 - No. 6
+- [The Urantia Papers. Was Immediate Publication Intended?](/en/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended), Innerface International, Volume 4 - No. 6
+- [Consciousness](/en/article/Ken_Glasziou/Consciousness), Innerface International, Volume 4 - No. 6
+- [The Urantia Book and Moral Consciousness Extracts](/en/article/Ken_Glasziou/The_Urantia_Book_and_Moral_Consciousness), Innerface International, Volume 4 - No. 6
+- [The Quest. What is life about?](/en/article/Ken_Glasziou/The_Quest_What_is_life_about), Innerface International, Volume 4 - No. 6
+- [Forty eight Chromosomes? Or Jumping to Conclusions](/en/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions), Innerface International, Volume 4 - No. 6
+- [Alternatively...](/en/article/Ken_Glasziou/Alternatively), Innerface International, Volume 4 - No. 6
+- [“Forbid him not!”](/en/article/Ken_Glasziou/Forbid_him_not), Innerface International, Volume 5 - No. 1
+- [Dare to be God-like](/en/article/Ken_Glasziou/Dare_to_be_Godlike), Innerface International, Volume 5 - No. 1
+- [Religion is a Spiritual Experience](/en/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience), Innerface International, Volume 5 - No. 2
+- [Christianity—A Different Perspective](/en/article/Ken_Glasziou/Christianity_a_Different_Perspective), Innerface International, Volume 5 - No. 2
+- [Human Sources and The Urantia Book. The Strong Force and Supernova](/en/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book), Innerface International, Volume 5 - No. 2
+- [Who Wrote The Urantia Book? It doesn't really matter—IMHO](/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter), Innerface International, Volume 5 - No. 2
+- [On Peer Group Pressure](/en/article/Ken_Glasziou/On_Peer_Group_Pressure), Innerface International, Volume 5 - No. 2
+- [Urantia Book Authorship—Other Aspects](/en/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects), Innerface International, Volume 5 - No. 2
+- [Gideonism](/en/article/Ken_Glasziou/Gideonism), Innerface International, Volume 5 - No. 2
+- [“Clovis First” ain't first any more](/en/article/Ken_Glasziou/Clovis_First_aint_first_any_more), Innerface International, Volume 5 - No. 2
+- [Rodan on the Personality of God](/en/article/Ken_Glasziou/Rodan_on_The_Personality_of_God), Innerface International, Volume 5 - No. 3
+- [All Conflict is Evil](/en/article/Ken_Glasziou/All_Conflict_is_Evil), Innerface International, Volume 5 - No. 3
+- [Red Alert](/en/article/Ken_Glasziou/Red_Alert), Innerface International, Volume 5 - No. 3
+- [John Hyde—a Tribute](/en/article/Ken_Glasziou/John_Hyde_a_Tribute), Innerface International, Volume 5 - No. 3
+- [Rodan on Prejudice and Goals](/en/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals), Innerface International, Volume 5 - No. 3
+- [The Smaller Beatitudes](/en/article/Ken_Glasziou/The_Smaller_Beatitudes), Innerface International, Volume 5 - No. 3
+- [Human Sources of The Urantia Book. The Evanescent Mesotron](/en/article/Ken_Glasziou/Human_Sources_of_The_Urantia_Book), Innerface International, Volume 5 - No. 3
+- [On the Birth of Love](/en/article/Ken_Glasziou/On_the_Birth_of_Love), Innerface International, Volume 5 - No. 4
+- [God-playing—An Avocation](/en/article/Ken_Glasziou/God_playing_an_Avocation), Innerface International, Volume 5 - No. 4
+- [The Importance of Symbols—their Use and Mis-use](/en/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse), Innerface International, Volume 5 - No. 4
+- [The Urantia Papers. The Revelators' Unenviable Task](/en/article/Ken_Glasziou/The_Revelators_Unenviable_Task), Innerface International, Volume 5 - No. 4
+- [A Crime against Humanity?](/en/article/Ken_Glasziou/A_Crime_Against_Humanity), Innerface International, Volume 5 - No. 4
+- [The Urantia Book's Message has failed—or has it?](/en/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it), Innerface International, Volume 5 - No. 4
+- [The Urantia Book: A New Presentation of Part 4?](/en/article/Ken_Glasziou/The_Urantia_Book_A_New_Presentation_of_Part_4), Innerface International, Volume 5 - No. 4
+- [Belief is Reasonable](/en/article/Ken_Glasziou/Belief_is_Reasonable), Innerface International, Volume 5 - No. 5
+- [Why is The Urantia Book's “Life of Jesus” so Important?](/en/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important), Innerface International, Volume 5 - No. 5
+- [Materialistic Determinism—Last Rites](/en/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites), Innerface International, Volume 5 - No. 5
+- [Spontaneity, Unpredictability and The Urantia Book](/en/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book), Innerface International, Volume 5 - No. 5
+- [What Constitutes “Spiritual Experience”](/en/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience), Innerface International, Volume 5 - No. 5
+- [The Fact of Experience](/en/article/Ken_Glasziou/The_Fact_of_Experience), Innerface International, Volume 5 - No. 6
+- [The Soul](/en/article/Ken_Glasziou/The_Soul), Innerface International, Volume 5 - No. 6
+- [Instructions from a Higher Authority](/en/article/Ken_Glasziou/Instructions_from_a_Higher_Authority), Innerface International, Volume 5 - No. 6
+- [More on Gardner' Goofs](/en/article/Ken_Glasziou/More_on_Gardner_Goofs), Innerface International, Volume 5 - No. 6
+- [Are the Urantia Papers demonstrably of super-human origin?](/en/article/Ken_Glasziou/Are_The_Urantia_Papers_demonstrably_of_superhuman_origin), Innerface International, Volume 5 - No. 7
+- [More about the Urantia Papers](/en/article/Ken_Glasziou/More_about_the_Urantia_Papers), Innerface International, Volume 5 - No. 7
+- [Some Early History](/en/article/Ken_Glasziou/Some_Early_history), Innerface International, Volume 5 - No. 7
+- [About “Prophetic” Science](/en/article/Ken_Glasziou/About_Prophetic_Science), Innerface International, Volume 5 - No. 7
+- [Science and the Urantia Papers](/en/article/Ken_Glasziou/Science_and_The_Urantia_Papers), Innerface International, Volume 5 - No. 7
+- [Radii of the Electron and Proton](/en/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton), Innerface International, Volume 5 - No. 7
+- [What fuels our Sun and other Stars?](/en/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars), Innerface International, Volume 5 - No. 7
+- [Continental Drift](/en/article/Ken_Glasziou/Continental_Drift), Innerface International, Volume 5 - No. 7
+- [What If?](/en/article/Ken_Glasziou/What_If), Innerface International, Volume 5 - No. 7
+- [Origin of the Solar System](/en/article/Ken_Glasziou/Origin_of_the_Solar_System), Innerface International, Volume 5 - No. 7
+- [Arrival of the Red Man in the Americas](/en/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas), Innerface International, Volume 5 - No. 7
+- [Mountain Building](/en/article/Ken_Glasziou/Mountain_Building), Innerface International, Volume 5 - No. 7
+- [Monster dinosaurs in Australia](/en/article/Ken_Glasziou/Monster_dinosaurs_in_Australia), Innerface International, Volume 5 - No. 7
+- [Marsupial Migration](/en/article/Ken_Glasziou/Marsupial_migration), Innerface International, Volume 5 - No. 7
+- [100 elementos estables](/en/article/Ken_Glasziou/100_stable_elements), Innerface International, Volume 5 - No. 7
+- [Piltdown Man](/en/article/Ken_Glasziou/Piltdown_Man), Innerface International, Volume 5 - No. 7
+- [On “Prophesy”](/en/article/Ken_Glasziou/On_Prophesy), Innerface International, Volume 5 - No. 7
+- [Colliding Black Holes and the Urantia Papers](/en/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers), Innerface International, Volume 6 - No. 1
+- [On Worship](/en/article/Ken_Glasziou/On_Worship), Innerface International, Volume 6 - No. 1
+- [On Pragmatism](/en/article/Ken_Glasziou/On_Pragmatism), Innerface International, Volume 6 - No. 2
+- [Patience—a millennium is a 1000 years](/en/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years), Innerface International, Volume 6 - No. 2
+- [Let's make and keep it simple](/en/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple), Innerface International, Volume 6 - No. 2
+- [Hear Ye! Hear Ye! All Harbingers of Hope, Keepers of the Copyright, and Protectors of an Inviolate Text, hear this](/en/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This), Innerface International, Volume 6 - No. 2
+- [The Origin of Life on Urantia](/en/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia), Innerface International, Volume 6 - No. 2
+- [The Red Shift Shifted](/en/article/Ken_Glasziou/The_Red_Shift_Shifted), Innerface International, Volume 6 - No. 2
+- [Jesus' concept of the Kingdom](/en/article/Ken_Glasziou/Jesus_Concept_of_the_Kingdom), Innerface International, Volume 6 - No. 3
+- [A Kingdom Commentary](/en/article/Ken_Glasziou/A_Kingdom_Commentary), Innerface International, Volume 6 - No. 3
+- [Cooking up a Universe](/en/article/Ken_Glasziou/Cooking_up_a_Universe), Innerface International, Volume 6 - No. 3
+- [An Alternative View of Jesus' Incarnation](/en/article/Ken_Glasziou/An_Alternative_View_of_Jesus_Incarnation), Innerface International, Volume 6 - No. 3
+- [The Urantia Papers on Loving our Neighbor](/en/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor), Innerface International, Volume 6 - No. 3
+- [The Remembrance Supper—its Significance](/en/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance), Innerface International, Volume 6 - No. 3
+- [The Universe is Friendly?](/en/article/Ken_Glasziou/The_Universe_is_Friendly), Innerface International, Volume 6 - No. 3
+- [All our Cosmologies are Erroneous!!](/en/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous), Innerface International, Volume 6 - No. 4
+- [Forty Days and Forty Nights](/en/article/Ken_Glasziou/Forty_Days_and_Forty_Nights), Innerface International, Volume 6 - No. 4
+- [Our Problem](/en/article/Ken_Glasziou/Our_Problem), Innerface International, Volume 6 - No. 4
+- [Antigravity is Back!](/en/article/Ken_Glasziou/Antigravity_is_Back), Innerface International, Volume 6 - No. 4
+- [On Comprehending the Urantia Book](/en/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book), Innerface International, Volume 6 - No. 5
+- [“Religion” is a Naughty Word?](/en/article/Ken_Glasziou/Religion_is_a_Naughty_Word), Innerface International, Volume 6 - No. 5
+- [On Introducing The Urantia Book](/en/article/Ken_Glasziou/On_Introducing_the_Urantia_Book), Innerface International, Volume 6 - No. 5
+- [C'est Important!](/en/article/Ken_Glasziou/Cest_Important), Innerface International, Volume 6 - No. 5
+- [The Love of God](/en/article/Ken_Glasziou/The_Love_of_God), Innerface International, Volume 6 - No. 6
+- [The Urantia Papers are Self-Authenticating](/en/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating), Innerface International, Volume 6 - No. 6
+- [The Trinity Teacher Sons](/en/article/Ken_Glasziou/The_Trinity_Teacher_Sons), Innerface International, Volume 6 - No. 6
+- [The Urantia Revelation. Why do we have it?](/en/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it), Innerface International, Volume 6 - No. 6
+- [Mind over Matter](/en/article/Ken_Glasziou/Mind_over_Matter), Innerface International, Volume 6 - No. 6
+- [Space and Time and Seven Dimensions](/en/article/Ken_Glasziou/Space_and_Time_and_Seven_Dimensions), Innerface International, Volume 6 - No. 6
+- [The Future. What The Urantia Book tells us](/en/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us), Innerface International, Volume 6 - No. 6
+- [Continental Drift. The Gardner Critique Demolished](/en/article/Ken_Glasziou/Continental_Drift_The_Gardner_critique_demolished), Innerface International, Volume 6 - No. 6
+- [Mind and Consciousness](/en/article/Ken_Glasziou/Mind_and_Consciousness), Innerface International, Volume 7 - No. 1
+- [Is there Certainty?](/en/article/Ken_Glasziou/Is_there_Certainty), Innerface International, Volume 7 - No. 1
+- [Are the Urantia Papers the divine word of God?](/en/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God), Innerface International, Volume 7 - No. 1
+- [What Really Survives?](/en/article/Ken_Glasziou/What_Really_Survives), Innerface International, Volume 7 - No. 1
+- [What Really Survives? Growing Spiritually](/en/article/Ken_Glasziou/What_really_Survives_Growing_spiritually), Innerface International, Volume 7 - No. 2
+- [How Grows the Soul? By Decision-making](/en/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making), Innerface International, Volume 7 - No. 2
+- [Holism](/en/article/Ken_Glasziou/Holism), Innerface International, Volume 7 - No. 2
+- [Deep Stuff on Souls](/en/article/Ken_Glasziou/Deep_Stuff_on_Souls), Innerface International, Volume 7 - No. 2
+- [En Passant](/en/article/Ken_Glasziou/En_Passant), Innerface International, Volume 7 - No. 2
+- [The Necessity for Going Forward—Backwardly](/en/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly), Innerface International, Volume 7 - No. 2
+- [The Gaia Hypothesis and the Urantia Papers—a Convergence?](/en/article/Ken_Glasziou/The_Gaia_Hypothesis_and_the_Urantia_Papers), Innerface International, Volume 7 - No. 2
+- [Did you Know? Stars, Galaxies and the Big Bang](/en/article/Ken_Glasziou/Did_You_Know), Innerface International, Volume 7 - No. 2
+- [Brotherhood](/en/article/Ken_Glasziou/Brotherhood), Innerface International, Volume 7 - No. 3
+- [The Urantia Papers on Finite Reality](/en/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality), Innerface International, Volume 7 - No. 3
+- [When is Epochal Revelation not Epochal?](/en/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal), Innerface International, Volume 7 - No. 3
+- [Atonement: Jewish Origins](/en/article/Ken_Glasziou/Atonement_Jewish_Origins), Innerface International, Volume 7 - No. 3
+- [The Supreme Being](/en/article/Ken_Glasziou/The_Supreme_Being), Innerface International, Volume 7 - No. 3
+- [How Should a Urantian Live?](/en/article/Ken_Glasziou/How_should_a_Urantian_Live), Innerface International, Volume 7 - No. 3
+- [The Shroud of Turin](/en/article/Ken_Glasziou/The_Shroud_of_Turin), Innerface International, Volume 7 - No. 4
+- [Proof and the Urantia Papers](/en/article/Ken_Glasziou/Proof_and_the_Urantia_Papers), Innerface International, Volume 7 - No. 4
+- [Who will come to “Phoenicia?”](/en/article/Ken_Glasziou/Who_will_come_to_Phoenicia), Innerface International, Volume 7 - No. 5
+- [The Ashtaroth Incident](/en/article/Ken_Glasziou/The_Ashtaroth_Incident), Innerface International, Volume 7 - No. 5
+- [Process Theology and the Urantia Papers](/en/article/Ken_Glasziou/Process_Theology_and_the_Urantia_Papers), Innerface International, Volume 7 - No. 5
+- [Proof'n Spoof](/en/article/Ken_Glasziou/Proofn_Spoof), Innerface International, Volume 7 - No. 5
+- [Out of Date—On Facing Reality!](/en/article/Ken_Glasziou/Out_of_Date_On_Facing_Reality), Innerface International, Volume 7 - No. 5
+- [Really Out of Date!](/en/article/Ken_Glasziou/Really_Out_of_Date), Innerface International, Volume 7 - No. 5
+- [The Future—Following Jesus](/en/article/Ken_Glasziou/The_Future_Following_Jesus), Innerface International, Volume 7 - No. 6
+- [Purpose](/en/article/Ken_Glasziou/Purpose), Innerface International, Volume 7 - No. 6
+- [A Millenium of Cosmic Enlightenment—Is it Here?](/en/article/Ken_Glasziou/A_Millennium_of_Cosmic_Enlightenment_Is_it_Here), Innerface International, Volume 7 - No. 6
+- [The Indwelling of the Spirit](/en/article/Ken_Glasziou/The_Indwelling_of_the_Spirit), Innerface International, Volume 7 - No. 6
+- [Free will and the Will of God](/en/article/Ken_Glasziou/Free_Will_and_the_Will_of_God), Innerface International, Volume 7 - No. 6
+- [Paper 140. The Ordination—Is it Important?](/en/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important), Innerface International, Volume 8 - No. 1
+- [Eternity](/en/article/Ken_Glasziou/Eternity), Innerface International, Volume 8 - No. 1
+- [Physics is a Religion!](/en/article/Ken_Glasziou/Physics_is_a_Religion), Innerface International, Volume 8 - No. 1
+- [Windows of Opportunity](/en/article/Ken_Glasziou/Editorial_Windows_of_Opportunity), Innerface International, Volume 8 - No. 2
+- [The Finity-Infinity Transform](/en/article/Ken_Glasziou/The_Infinity_Finity_Transform), Innerface International, Volume 8 - No. 2
+- [The Least we should know about the Cross](/en/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross), Innerface International, Volume 8 - No. 2
+- [The Appearance at Sychar](/en/article/Ken_Glasziou/The_Appearance_at_Sychar), Innerface International, Volume 8 - No. 2
+- [Who Wrote the Urantia Papers?](/en/article/Ken_Glasziou/Who_Wrote_the_Urantia_Papers), Innerface International, Volume 8 - No. 2
+- [Materialism is Dead. Ghosts are “Becoming”](/en/article/Ken_Glasziou/Materialism_is_Dead_Ghosts_are_Becoming), Innerface International, Volume 8 - No. 3
+- [Was the Big Bang Really Real?](/en/article/Ken_Glasziou/Was_the_Big_Bang_Really_Real), Innerface International, Volume 8 - No. 4
+- [On divine truth](/en/article/Ken_Glasziou/On_Divine_Truth), Innerface International, Volume 8 - No. 5
+- [Science and the Urantia Papers. Inexplicable prophesy and inexplicable errors](/en/article/Ken_Glasziou/Science_in_The_Urantia_Book), Innerface International, Volume 8 - No. 5
+- [Geophysics—further prophecies: Continental Drift and Age of the Solar System](/en/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System), Innerface International, Volume 8 - No. 5
+- [Prophetic Science in the Urantia Papers—Discussion](/en/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion), Innerface International, Volume 8 - No. 5
+- [Error in the Urantia Papers](/en/article/Ken_Glasziou/Error_in_the_Urantia_Papers), Innerface International, Volume 8 - No. 5
+- [On Tolerating the Views of Others](/en/article/Ken_Glasziou/On_Tolerating_the_Views_of_Others), Innerface International, Volume 8 - No. 6
+- [Great Expectations](/en/article/Ken_Glasziou/Great_Expectations), Innerface International, Volume 8 - No. 6
+- [Beyond the Urantia Papers](/en/article/Ken_Glasziou/Beyond_the_Urantia_Papers), Innerface International, Volume 8 - No. 6
+- [Is an Alternative to the Big Bang a Possibility?](/en/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty), Innerface International, Volume 8 - No. 6
+- [Proclamation](/en/article/Ken_Glasziou/Proclamation), Innerface International, Volume 8 - No. 6
+- [Life on Planet Earth](/en/article/Ken_Glasziou/Life_on_Planet_Earth), Innerface International, Volume 8 - No. 6
+- [The Purpose of the Urantia Papers](/en/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers), Innerface International, Volume 8 - No. 6
+- [Part 4 of The Urantia Book is the “real and ideal revelation” mentioned in Paper 1](/en/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1), Innerface International, Volume 8 - No. 6
+- [Our Future Task?](/en/article/Ken_Glasziou/Our_Future_Task), Innerface International, Volume 8 - No. 6
+- [About the Universal Father](/en/article/Ken_Glasziou/About_the_Universal_Father_2), Innerface International, Volume 9 - No. 1
+- [On Personality](/en/article/Ken_Glasziou/Personality_of_the_Universal_Father), Innerface International, Volume 9 - No. 1
+- [On Revelation](/en/article/Ken_Glasziou/Revelation), Innerface International, Volume 9 - No. 1
+- [On Truth](/en/article/Ken_Glasziou/On_Truth), Innerface International, Volume 9 - No. 1
+- [On the will of God](/en/article/Ken_Glasziou/On_the_Will_of_God), Innerface International, Volume 9 - No. 1
+- [On Faith](/en/article/Ken_Glasziou/On_Faith_2), Innerface International, Volume 9 - No. 1
+- [On Free Will](/en/article/Ken_Glasziou/On_Free_Will), Innerface International, Volume 9 - No. 1
+- [The Shroud of Turin—An Update](/en/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update), Innerface International, Volume 9 - No. 5
+- [Mathematics and Science catch up with The Urantia Book](/en/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book), Innerface International, Volume 9 - No. 5
+- [Quantum Consciousness, Materialism, and the Urantia Papers—Why materialism is dead](/en/article/Ken_Glasziou/Materialism_is_Dead), Innerface International, Volume 10 - No. 1
+- [Imagine!](/en/article/Ken_Glasziou/Imagine), Innerface International, Volume 10 - No. 1
+- [On Perfection](/en/article/Ken_Glasziou/On_Perfection), Innerface International, Volume 10 - No. 1
+- [God—the Universal Father](/en/article/Ken_Glasziou/God_the_Universal_Father), Innerface International, Volume 10 - No. 1
+- [Sin—should we take it seriously?](/en/article/Ken_Glasziou/Sin_should_we_take_it_seriously), Innerface International, Volume 10 - No. 1
+- [Is God a Mathematician?](/en/article/Ken_Glasziou/Is_God_a_mathematician), Innerface International, Volume 10 - No. 1
+- [Revelatory Religion](/en/article/Ken_Glasziou/Revelatory_Religion), Innerface International, Volume 10 - No. 2
+- [Learning to Teach](/en/article/Ken_Glasziou/Learning_to_Teach), Innerface International, Volume 10 - No. 2
+- [On the value of spiritual value](/en/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value), Innerface International, Volume 10 - No. 2
+- [Lessons from “Jesus' discourse of Science”](/en/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science), Innerface International, Volume 10 - No. 2
+- [Out of Africa?](/en/article/Ken_Glasziou/Out_Of_Africa), Innerface International, Volume 10 - No. 2
+- [Religion of the Spirit](/en/article/Ken_Glasziou/Religion_of_the_Spirit), Innerface International, Volume 10 - No. 2
+- [The future. What is our task?](/en/article/Ken_Glasziou/The_Future_What_is_our_Task), Innerface International, Volume 10 - No. 2
+- [Prove it to yourself for yourself](/en/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself_2), Innerface International, Volume 10 - No. 2
+- [The Goal of Mortal Living](/en/article/Ken_Glasziou/The_Goal_of_Mortal), Innerface International, Volume 10 - No. 3
+- [The “alter ego” and the Indwelling Spirit](/en/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit), Innerface International, Volume 10 - No. 3
+- [The Indwelling Father-Spirit](/en/article/Ken_Glasziou/The_Indwelling_Father_Spirit), Innerface International, Volume 10 - No. 3
+- [Mind and Soul](/en/article/Ken_Glasziou/Mind_and_Soul), Innerface International, Volume 10 - No. 3
+- [On doing the will of God—How?](/en/article/Ken_Glasziou/On_doing_the_will_of_God_How), Innerface International, Volume 10 - No. 3
+- [The Big Bang—On or Off?](/en/article/Ken_Glasziou/The_Big_Bang_On_or_Off), Innerface International, Volume 10 - No. 3
+- [The Urantia Papers on the will of God](/en/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God), Innerface International, Volume 10 - No. 3
+- [All Urantia is waiting—Upon whom? For what?](/en/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What), Innerface International, Volume 10 - No. 3
+- [What can one believe?](/en/article/Ken_Glasziou/What_can_one_believe), Innerface International, Volume 10 - No. 3
+- [Occam's Razor applied to religion](/en/article/Ken_Glasziou/Occams_Razor_applied_to_Religion), Innerface International, Volume 10 - No. 3
+- [Become mode God-like? How?](/en/article/Ken_Glasziou/Become_more_God_like_How), Innerface International, Volume 10 - No. 3
+- [The Mind of Jesus](/en/article/Ken_Glasziou/The_Mind_of_Jesus), Innerface International, Volume 10 - No. 4
+- [Spiritual Communion](/en/article/Ken_Glasziou/Spiritual_Communion), Innerface International, Volume 10 - No. 5
+- [Further Exploring the Mind of Jesus](/en/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus), Innerface International, Volume 10 - No. 5
+- [Agree with your Adversary](/en/article/Ken_Glasziou/Agree_with_your_Adversary), Innerface International, Volume 10 - No. 5
+- [Christianity and Archaeology—An Update](/en/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update), Innerface International, Volume 10 - No. 5
+- [Religion of the Spirit—what could it mean?](/en/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean), Innerface International, Volume 10 - No. 5
+- [Criticality](/en/article/Ken_Glasziou/Criticality), Innerface International, Volume 10 - No. 5
+- [Subjectivity and Reality](/en/article/Ken_Glasziou/Subjectivity_and_Reality), Innerface International, Volume 10 - No. 6
+- [What do the Urantia Papers say about mind?](/en/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind), Innerface International, Volume 10 - No. 6
+- [What does God want from us?](/en/article/Ken_Glasziou/What_does_God_want_from_us), Innerface International, Volume 10 - No. 6
+- [Can I “be” what God wants me to “be”?](/en/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be), Innerface International, Volume 10 - No. 6
+- [Why Worry?](/en/article/Ken_Glasziou/Why_Worry), Innerface International, Volume 10 - No. 6
+- [How and where did mankind arise?](/en/article/Ken_Glasziou/How_and_Where_did_Mankind_arise), Innerface International, Volume 10 - No. 6
+- [Prophetic material and errors in Urantia revelation](/en/article/Ken_Glasziou/Prophetic_material_and_errors_in_Urantia_revelation), Innerface International, Volume 11 - No. 3
+- [The Urantia Papers—What should our expectations be?](/en/article/Ken_Glasziou/The_Urantia_Papers_What_should_our_expectations_be), Innerface International, Volume 11 - No. 3
+- [Why is there both Error and Prophecy in the Urantia Revelation?](/en/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia), Innerface International, Volume 11 - No. 3
+- [Prophetic materials from the Urantia Papers](/en/article/Ken_Glasziou/Prophetic_materials_from_the_Urantia_Papers), Innerface International, Volume 11 - No. 3
+- [What fuels our Sun and other Stars?](/en/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars), Innerface International, Volume 11 - No. 3
+- [Neutrinos, Neutrons, and Neutron Stars](/en/article/Ken_Glasziou/Neutrinos_Neutrons_and_Neutron_Stars_2), Innerface International, Volume 11 - No. 3
+- [Renewal of the Search for the Neutron Star](/en/article/Ken_Glasziou/Renewal_of_the_Search_for_the_Neutron_Star), Innerface International, Volume 11 - No. 3
+- [Quantum Stuff, Basic Physics](/en/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics), Innerface International, Volume 11 - No. 3
+- [Cooking up a Universe](/en/article/Ken_Glasziou/Cooking_up_a_Universe_2), Innerface International, Volume 11 - No. 3
+- [Antigravity is Back](/en/article/Ken_Glasziou/Antigravity_is_Back_2), Innerface International, Volume 11 - No. 3
+- [Colliding Black Holes and the Urantia Papers](/en/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers), Innerface International, Volume 11 - No. 3
+- [Error in the Urantia Papers—Life on Urantia](/en/article/Ken_Glasziou/Error_in_the_Urantia_Papers_Life_on_Urantia), Innerface International, Volume 11 - No. 4
+- [Human Life—Andon and Fonta](/en/article/Ken_Glasziou/Human_Life_Andon_and_Fonta), Innerface International, Volume 11 - No. 4
+- [48 Chromosomes? Or Jumping to Conclusions!](/en/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2), Innerface International, Volume 11 - No. 4
+- [100 stable elements](/en/article/Ken_Glasziou/100_stable_elements_2), Innerface International, Volume 11 - No. 4
+- [“Prove it to yourself for yourself”](/en/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself), Innerface International, Volume 11 - No. 4
+- [The Ridiculous—Passenger Birds and Secondary Midwayers](/en/article/Ken_Glasziou/The_Ridiculous_Passenger_Birds_and_Secondary_Midwayers), Innerface International, Volume 11 - No. 4
+- [Miscellaneous erroneous material summarized](/en/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized), Innerface International, Volume 11 - No. 4
+- [Prophetic material and errors in Urantia revelation—Epilogue](/en/article/Ken_Glasziou/Prophetic_material_and_errors_Epilogue), Innerface International, Volume 11 - No. 4
+- [Continental Drift](/en/article/Ken_Glasziou/Continental_Drift_1), Innerface International, Volume 11 - No. 4
+- [Continental Drift 2](/en/article/Ken_Glasziou/Continental_Drift_2), Innerface International, Volume 11 - No. 4
+- [Continental Drift 3—Secondary Effects](/en/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects), Innerface International, Volume 11 - No. 4
+- [Radiometric chemistry Age of the Earth](/en/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth), Innerface International, Volume 11 - No. 4
+- [What If?](/en/article/Ken_Glasziou/What_if_the_Papers_had_been_written), Innerface International, Volume 11 - No. 4
+- [The Challenge](/en/article/Ken_Glasziou/The_Challenge), Innerface International, Volume 11 - No. 5
+- [Materialism, Idealism, and the Urantia Revelation](/en/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation), Innerface International, Volume 11 - No. 5
+- [The Earth-Moon System](/en/article/Ken_Glasziou/The_Earth_Moon_System), Innerface International, Volume 11 - No. 5
+- [Our Challenge](/en/article/Ken_Glasziou/Our_Challenge), Innerface International, Volume 11 - No. 6
+- [The Indwelling Presence of God](/en/article/Ken_Glasziou/The_Indwelling_Presence_of_God), Innerface International, Volume 11 - No. 6
+- [The Golden Rule](/en/article/Ken_Glasziou/The_Golden_Rule), Innerface International, Volume 11 - No. 6
+- [On the Philosophy of Philosophy](/en/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy), Innerface International, Volume 11 - No. 6
+- [Faith and Belief](/en/article/Ken_Glasziou/Faith_and_Belief), Innerface International, Volume 11 - No. 6
+- [Universal Spiritual Religion](/en/article/Ken_Glasziou/Universal_Spiritual_Religion), Innerface International, Volume 11 - No. 6
+- [Love—a Necessity for the Fulfilment of Mankind](/en/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind), Innerface International, Volume 11 - No. 6
+- [Our Chores](/en/article/Ken_Glasziou/Our_Chores), Innerface International, Volume 11 - No. 6
+- [More on “Our Challenge”](/en/article/Ken_Glasziou/More_on_Our_Challenge), Innerface International, Volume 11 - No. 6
+- [The will of God](/en/article/Ken_Glasziou/The_will_of_God), Innerface International, Volume 11 - No. 6
+- [Zircons and Earth-Moon Relations](/en/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations), Innerface International, Volume 12 - No. 3
+- [Why is it necessary for there to be error in The Urantia Book?](/en/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book), Innerface International, Volume 12 - No. 3
+- [Science, Religion, and The Urantia Book](/en/article/Ken_Glasziou/Science_Religion_and_UB), The Spiritual Fellowship Journal, Fall 1991
+- [Concepts of Salvation: The Bible and The Urantia Book Compared](/en/article/Ken_Glasziou/Concepts_of_Salvation_The_Bible_and_UB_Compared), The Spiritual Fellowship Journal, Fall 1992
+- [Writing Styles of Papers in The Urantia Book](/en/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB), The Spiritual Fellowship Journal, Fall 1993
+- [Significant Books: Jesus–A New Vision by Marcus J. Borg](/en/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg), The Spiritual Fellowship Journal, Spring 1994
+- [A New Approach to Revelation](/en/article/Ken_Glasziou/A_New_Approach_to_Revelation), The Spiritual Fellowship Journal, Fall 1994
+- [Is the Science of The Urantia Book Revelatory?](/en/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory), The Spiritual Fellowship Journal, Fall 1995
+- [Ambiguities of The Urantia Book](/en/article/Ken_Glasziou/Ambiguities_of_UB), The Spiritual Fellowship Journal, Fall 1997
+- [Truth, What is Truth — Who Knows?](/en/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows), The Spiritual Fellowship Journal, Spring 2001
+- [The Challenge ( Part I )](/en/article/Ken_Glasziou/The_Challenge_Part_I), The Spiritual Fellowship Journal, Fall 2004
+- [The Challenge ( Part II )](/en/article/Ken_Glasziou/The_Challenge_Part_II), The Spiritual Fellowship Journal, Spring 2005

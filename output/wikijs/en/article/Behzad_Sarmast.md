@@ -1,5 +1,5 @@
 ---
-title: Behzad Sarmast
+title: "Behzad Sarmast"
 description:
 published: true
 date: 2021-11-28T11:16:41.388Z
@@ -16,4 +16,7 @@ Born in Tehran, Iran, in 1966, Behzad Sarmast came to the US with his family, sh
 
 ## Articles
 
-Index of articles and study aids by Byron:
+Index of articles by Behzad:
+
+- [Magisterial Missions](/en/article/Behzad_Sarmast/Magisterial_missions), Fellowship Herald, Volume 1, Number 2, 1999 (Spring)
+- [Show Us A Miracle!](/en/article/Behzad_Sarmast/Show_Us_a_Miracle), Fellowship Herald, Volume 3, Number 1, 2001 (Summer)

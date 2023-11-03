@@ -21,8 +21,7 @@ Richard Bain (“Dick” Bain) is an electrical engineer, a long time reader of 
 
 ## Articles
 
-Index of articles and study aids by Dick:
-
+Index of articles by Dick:
 
 - [Of Two Minds: Human and Divine](/en/article/Dick_Bain/Of_Two_Minds_Human_and_Divine), Fellowship Herald, Volume 21, Number 1, 2021 (Summer)
 - [High on Angels](/en/article/Dick_Bain/High_on_Angels), Innerface International, Volume 1 - No. 3

@@ -14,3 +14,4 @@ Arnie Ondis has been a _Urantia Book_ student since his second year of college i
 
 ## Articles
 
+- [Ten Lessons from the Vineyard](/en/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard), Fellowship Herald, Volume 10, Number 1, 2009 (Summer)

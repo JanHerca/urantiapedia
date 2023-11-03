@@ -14,27 +14,26 @@ Halbert Katzen has been reading _The Urantia Book_ since 1981 and is the author 
 
 ## Articles
 
-Index of articles and study aids by Halbert:
+Index of articles by Halbert (articles without link will be added soon):
 
-| Status                  | Title                                                                                         | Author         | Tags                               |
-| ----------------------- | --------------------------------------------------------------------------------------------- | -------------- | ---------------------------------- |
-| :ballot_box_with_check: | [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve)                                       | Halbert Katzen | Anthropology, Biology and Genetics |
-| :ballot_box_with_check: | [Creating Fire](/en/article/Halbert_Katzen/Creating_fire)                                     | Halbert Katzen | Anthropology                       |
-| :ballot_box_with_check: | [Early Migration to Britain](/en/article/Halbert_Katzen/Early_migration_to_Britain)           | Halbert Katzen | Anthropology                       |
-| :ballot_box_with_check: | [Early Migration to the Americas](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) | Halbert Katzen | Anthropology                       |
-| :ballot_box_with_check: | [Garden of Eden](/en/article/Halbert_Katzen/Garden_of_Eden)                                   | Halbert Katzen | Geology                            |
-| :ballot_box_with_check: | [Gobekli Tepe](/en/article/Halbert_Katzen/Gobekli_Tepe)                                       | Halbert Katzen | Anthropology                       |
-| :white_square_button:   | "Chromosome Count"                                                                            | Halbert Katzen | Biology and Genetics               |
-| :white_square_button:   | "Early Migration to China"                                                                    | Halbert Katzen | Anthropology                       |
-| :white_square_button:   | "Galaxies"                                                                                    | Halbert Katzen | Astronomy                          |
-| :white_square_button:   | "Horsing Around"                                                                              | Halbert Katzen | Anthropology, Biology and Genetics |
-| :white_square_button:   | "Inner Ionosphere"                                                                            | Halbert Katzen | Geology                            |
-| :white_square_button:   | "Magnetic Sensitivity"                                                                        | Halbert Katzen | Biology and Genetics               |
-| :white_square_button:   | "Melchizedek & the Dead Sea Scrolls"                                                          | Halbert Katzen | Biblical studies                   |
-| :white_square_button:   | "Mercury’s Rotation"                                                                          | Halbert Katzen | Astronomy                          |
-| :white_square_button:   | "Shroud of Turin"                                                                             | Halbert Katzen | Jesus, Jesus life                  |
-| :white_square_button:   | "Sierra Mountains"                                                                            | Halbert Katzen | Geology                            |
-| :white_square_button:   | "Tycho’s Nova"                                                                                | Halbert Katzen | Astronomy                          |
+- [The Urantia Book Is Not What It Used To Be](/en/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be), Fellowship Herald, Volume 9, Number 1, 2008 (Summer)
+- [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve)
+- [Creating Fire](/en/article/Halbert_Katzen/Creating_fire)
+- [Early Migration to Britain](/en/article/Halbert_Katzen/Early_migration_to_Britain)
+- [Early Migration to the Americas](/en/article/Halbert_Katzen/Early_migration_to_the_Americas)
+- [Garden of Eden](/en/article/Halbert_Katzen/Garden_of_Eden)
+- [Gobekli Tepe](/en/article/Halbert_Katzen/Gobekli_Tepe)
+- Chromosome Count
+- Early Migration to China
+- Galaxies
+- Horsing Around
+- Inner Ionosphere
+- Magnetic Sensitivity
+- Melchizedek & the Dead Sea Scrolls
+- Mercury’s Rotation
+- Shroud of Turin
+- Sierra Mountains
+- Tycho’s Nova
 
 ## Books
 

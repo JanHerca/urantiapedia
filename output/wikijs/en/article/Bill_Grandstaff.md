@@ -14,3 +14,4 @@ Bill Grandstaff is a doctoral student in Political Science. He has worked as a w
 
 ## Articles
 
+- [The Second Enlightenment: Liberalism and Religion](/en/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion), The Spiritual Fellowship Journal, Fall 1992

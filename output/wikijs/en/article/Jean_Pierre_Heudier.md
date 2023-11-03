@@ -14,4 +14,4 @@ Jean-Pierre Heudier, Ph.D., is a retired university professor now living in San 
 
 ## Articles
 
-- [Pattern of Unity](/en/article/Jean_Pierre_Heudier/Pattern_of_Unity)
+- [Pattern of Unity](/en/article/Jean_Pierre_Heudier/Pattern_of_Unity), Fellowship Herald, Volume 6, Number 1, 2005 (Summer)

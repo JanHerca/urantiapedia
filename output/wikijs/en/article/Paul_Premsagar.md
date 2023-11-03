@@ -13,3 +13,5 @@ dateCreated: 2023-02-06T11:12:37.284Z
 Paul is a native of India and is a naturalized citizen. He received his medical degree from the University of Madras. He came to the US in 1964, trained as a Pediatrician, and is a Fellow of the American Academy of Pediatrics.
 
 ## Articles
+
+- [Eugenics and The Urantia Book: Another Perspective](/en/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective), Fellowship Herald, Volume 4, Number 1, 2002 (Summer)

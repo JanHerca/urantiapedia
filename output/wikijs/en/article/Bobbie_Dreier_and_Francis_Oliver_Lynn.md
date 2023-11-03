@@ -16,3 +16,4 @@ dateCreated: 2023-10-31T11:12:37.284Z
 
 ## Articles
 
+- [A Circle of Kindred Spirits](/en/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits), Fellowship Herald, Volume 16, Number 1, 2016 (Summer)

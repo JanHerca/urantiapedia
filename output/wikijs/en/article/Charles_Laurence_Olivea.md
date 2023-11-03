@@ -1,5 +1,5 @@
 ---
-title: Charles Laurence Olivea
+title: "Charles Laurence Olivea"
 description:
 published: true
 date: 2023-02-06T11:16:41.388Z
@@ -18,13 +18,15 @@ He first encountered _The Urantia Book_ in 1965. He became a serious student of 
 
 ## Articles
 
-- [The Ethics of Genetic Control and Social Engineering](/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering), The Fellowship Herald, Volume 2, Number 2, 2000 (Summer)
-- [The Next Fifty Years: Dissemination](/en/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination), The Fellowship Herald, Volume 6, Number 1, 2005 (Summer)
-- [Guardian Angels](/en/article/Charles_Laurence_Olivea/Guardian_Angels), The Fellowship Herald, Volume 7, Number 1, 2006 (Summer)
-- [God Consciousness](/en/article/Charles_Laurence_Olivea/God_Consciousness), The Fellowship Herald, Volume 11, Number 1, 2010 (Summer)
-- [The Power of The Name of Jesus](/en/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus), The Fellowship Herald, Volume 11, Number 2, 2011 (Summer)
-- [A Cosmology of Race](/en/article/Charles_Laurence_Olivea/A_Cosmology_of_Race), The Fellowship Herald, Volume 13, Number 1, 2013 (Summer)
-- [The Urantia Book and Its Mission](/en/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission), The Fellowship Herald, Volume 15, Number 1, 2015 (Summer)
-- [The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups](/en/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups), The Fellowship Herald, Volume 15, Number 1, 2015 (Summer)
+- [The Ethics of Genetic Control and Social Engineering](/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering), Fellowship Herald, Volume 2, Number 2, 2000 (Summer)
+- [The Next Fifty Years: Dissemination](/en/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination), Fellowship Herald, Volume 6, Number 1, 2005 (Summer)
+- [Guardian Angels](/en/article/Charles_Laurence_Olivea/Guardian_Angels), Fellowship Herald, Volume 7, Number 1, 2006 (Summer)
+- [God Consciousness](/en/article/Charles_Laurence_Olivea/God_Consciousness), Fellowship Herald, Volume 11, Number 1, 2010 (Summer)
+- [The Power of The Name of Jesus](/en/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus), Fellowship Herald, Volume 11, Number 2, 2011 (Summer)
+- [A Cosmology of Race](/en/article/Charles_Laurence_Olivea/A_Cosmology_of_Race), Fellowship Herald, Volume 13, Number 1, 2013 (Summer)
+- [The Urantia Book and Its Mission](/en/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission), Fellowship Herald, Volume 15, Number 1, 2015 (Summer)
+- [The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups](/en/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups), Fellowship Herald, Volume 17, Number 1, 2017 (Summer)
+- [The Temple of Spiritual Brotherhood and the Greater Meaning of Study Groups](/en/article/Charles_Laurence_Olivea/temple_spiritual_brotherhood_study_groups), Journal, Journal — May 2017
+- [Why Place The Urantia Book Initially In America?](/en/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America), Mighty Messenger, Spring 2020 Issue
 
 

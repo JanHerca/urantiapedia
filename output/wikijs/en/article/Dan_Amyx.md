@@ -15,3 +15,7 @@ Dan has been an active _Urantia Book_ reader for over thirty years. He recently 
 Contact Info: UB Entrepreneurs: https://www.facebook.com/home.php?ref=home#/group.php?gid=137503970209
 
 ## Articles
+
+- [The Problem of Business](/en/article/Dan_Amyx/The_Problem_of_Business), Fellowship Herald, Volume 11, Number 1, 2010 (Summer)
+- [UB Fundraiser letter](/en/article/Dan_Amyx/UB_Fundraiser_letter), Mighty Messenger, Fall 2018 Issue
+- [Membership Committee Chair](/en/article/Dan_Amyx/Membership_Committee_Chair), Mighty Messenger, Fall 2019 Issue

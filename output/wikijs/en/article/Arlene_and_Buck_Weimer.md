@@ -16,4 +16,5 @@ Arlene and Buck Weimer have been students of _The Urantia Book_ since 1972 and h
 
 ## Articles
 
-- [The Art of Marriage](/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage)
+- [The Art of Marriage](/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage), Fellowship Herald, Volume 5, Number 2, 2004 (Summer)
+- [The Supreme and Outreach](/en/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach), Fellowship Herald, Volume 9, Number 1, 2008 (Summer)

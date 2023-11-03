@@ -14,3 +14,4 @@ Denver Pearson has long been active in the Urantia Movement. He tells us: “_Th
 
 ## Articles
 
+- [The Scientific Integrity of The Urantia Book](/en/article/Denver_Pearson/The_Scientific_Integrity_of_UB), The Spiritual Fellowship Journal, Spring 2002

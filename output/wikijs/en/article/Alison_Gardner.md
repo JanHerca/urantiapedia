@@ -13,3 +13,5 @@ dateCreated: 2023-02-06T11:12:37.284Z
 Alison Gardner discovered _The Urantia Book_ in 1970 after hearing excerpts read on the radio. She was a founder of the Connecticut Society, has served on the General. Council and as a member of the Education Committee, and is Chair of the Fellowship's Ad Hoc Public Relations Committee. Alison has served as moderator and contributor for the Wrightwood Series. She and her husband, Dan Massey, have two children.
 
 ## Articles
+
+- [A Demystification and Redefinition of Cult](/en/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult), Fellowship Herald, Volume 4, Number 1, 2002 (Summer)

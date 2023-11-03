@@ -14,3 +14,4 @@ Charles Hansen is an economist and businessman with a special interest in human 
 
 ## Articles
 
+- [The Mathematics of Love](/en/article/Charles_E_Hansen/The_Mathematics_of_Love), The Spiritual Fellowship Journal, Spring 1991 — First Issue

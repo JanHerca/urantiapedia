@@ -1,5 +1,5 @@
 ---
-title: Stephen Dreier
+title: "Stephen Dreier"
 description:
 published: true
 date: 2021-11-28T11:16:41.388Z
@@ -14,9 +14,8 @@ Stephen (Steve) Dreier, a retired professor of chemistry, former President of _T
 
 ## Articles
 
-Index of articles and study aids by Meredith:
+Index of articles by Stephen:
 
-| Status                | Source | Issue          | Title                                         | Tags    |
-| --------------------- | ------ | ---------------| --------------------------------------------- | ------- |
-| :white_square_button: | Herald | Vol. 02, No. 1 | Reflections on cosmic citizenship             |         |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Spiritual Genetics                            |         |
+- [Reflections on cosmic citizenship](/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship), Fellowship Herald, Volume 2, Number 1, 1999 (Winter)
+- [Spiritual Genetics](/en/article/Stephen_Dreier/Spiritual_Genetics), Fellowship Herald, Volume 13, Number 1, 2013 (Summer)
+- [Secretary](/en/article/Stephen_Dreier/Secretary), Mighty Messenger, Fall 2019 Issue

@@ -14,3 +14,5 @@ Angela Thurston lives in New York City, where she attends weekly study groups an
 
 ## Articles
 
+- [Testimonial of One Second-Generation Urantian](/en/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian), Fellowship Herald, Volume 11, Number 1, 2010 (Summer)
+- [Five Days at 533 W Diversey Parkway](/en/article/Angela_Thurston/Five_Days_at_533_W_Diversey_Parkway), Urantia Foundation News Online, Volume 6, Issue 3, Oct. 2012

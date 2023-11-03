@@ -14,3 +14,4 @@ Berkeley left Urantia in 1995, but what she really left to those of us who knew 
 
 ## Articles
 
+- [What is Personality?](/en/article/Berkeley_Elliott/What_is_Personality), Fellowship Herald, Volume 7, Number 1, 2006 (Summer)

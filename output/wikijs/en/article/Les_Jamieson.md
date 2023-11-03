@@ -1,5 +1,5 @@
 ---
-title: Les Jamieson
+title: "Les Jamieson"
 description:
 published: true
 date: 2023-02-06T11:16:41.388Z
@@ -14,4 +14,4 @@ Les has a background in music, graphics and web design. He serves as Vice Presid
 
 ## Articles
 
-
+- [Universal Religion: An Interfaith Presentation](/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation), Fellowship Herald, Volume 3, Number 1, 2001 (Summer)

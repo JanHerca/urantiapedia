@@ -14,10 +14,7 @@ Searching among alternative religions in Holland, Henry Begemann found The Urant
 
 ## Articles
 
-Index of articles and study aids by Henry:
+Index of articles by Henry:
 
-| Status                | Source           | Issue          | Title                                                              | Tags    |
-| --------------------- | ---------------- | -------------- | ------------------------------------------------------------------ | ------- |
-| :white_square_button: | Urantian Journal |                | Romanticism and Reality                                            |
-| :white_square_button: | Herald           | Vol. 01, No. 2 | Springtime: A Study of the Future                                  |
-| :white_square_button: | Herald           | Vol. 09, No. 1 | The Roots of Morality                                              |
+- [Springtime: A Study of the Future](/en/article/Henry_Begemann/Springtime_a_study_of_the_future), Fellowship Herald, Volume 1, Number 2, 1999 (Spring)
+- [The Roots of Morality](/en/article/Henry_Begemann/The_Roots_of_Morality), Fellowship Herald, Volume 9, Number 1, 2008 (Summer)

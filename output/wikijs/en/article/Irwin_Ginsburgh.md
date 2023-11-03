@@ -14,10 +14,8 @@ Irwin Ginsburgh is a Ph.D. physicist with more than fifty U.S. patents. His chil
 
 ## Articles
 
-Index of articles and study aids by Irwin:
+Index of articles by Irwin:
 
-| Status                  | Source | Issue          | Title                                                                                                                          | Tags                                                                                |
-| ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| :ballot_box_with_check: |        |                | [Scientific Predictions of _The Urantia Book_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^     | The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | The Urantia Book, Astronomy, Cosmology                                              |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Scientific Predictions of _The Urantia Book_ - Part II"                                                                       |                                                                                     |
+- [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book), Fellowship Herald, Volume 2, Number 1, 1999 (Winter)
+- [Scientific Predictions of The Urantia Book](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book)
+- [Scientific Predictions of The Urantia Book - Part II](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2), Fellowship Herald, Volume 2, Number 2, 2000 (Summer)

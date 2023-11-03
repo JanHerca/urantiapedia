@@ -14,3 +14,4 @@ Anton Schmalz has been a Urantia Book student since 1975. He enjoys making appli
 
 ## Articles
 
+- [Personal and Global Peace](/en/article/Anton_Schmalz/Personal_and_Global_Peace), The Spiritual Fellowship Journal, Spring 2003

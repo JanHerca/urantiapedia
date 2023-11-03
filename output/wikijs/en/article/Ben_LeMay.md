@@ -14,3 +14,4 @@ Ben LeMay is a Roman Catholic whose conversion experience led him into many year
 
 ## Articles
 
+- [Meeting The Urantia Book](/en/article/Ben_LeMay/Meeting_UB), The Spiritual Fellowship Journal, Spring 1994

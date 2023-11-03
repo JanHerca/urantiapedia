@@ -1,5 +1,5 @@
 ---
-title: Doreen Heyne
+title: "Doreen Heyne"
 description:
 published: true
 date: 2023-02-06T11:16:41.388Z
@@ -14,4 +14,5 @@ Doreen Heyne found _The Urantia Book_ in the mid 1980s, and is currently serving
 
 ## Articles
 
-- [Illumination/Transformation](/en/article/Doreen_Heyne/Illumination_Transformation)
+- [Illumination/Transformation](/en/article/Doreen_Heyne/Illumination_Transformation), Fellowship Herald, Volume 5, Number 2, 2004 (Summer)
+- [Moral Cosmic Citizenship](/en/article/Doreen_Heyne/Moral_Cosmic_Citizenship), Fellowship Herald, Volume 9, Number 1, 2008 (Summer)
