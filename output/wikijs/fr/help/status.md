@@ -40,7 +40,7 @@ Pour chaque langue prise en charge, la liste des tâches pour terminer le jalon 
 1. Traduction de _Paramony_ :ledger: de l'anglais vers la langue cible (`Paramony`).
 2. Traduction et révision de _Topic index_ :card_index: de l'anglais vers la langue cible (`Sujets`).
 3. Obtenez une traduction du domaine public de _The Bible_ :closed_book: dans la langue cible (`Bible`).
-4. Conversion _Le Livre d'Urantia_ :blue_book : de HTML à JSON sans _Paramony_ :ledger: notes de bas de page (`UB`).
+4. Conversion _Le Livre d'Urantia_ :blue_book: de HTML à JSON sans _Paramony_ :ledger: notes de bas de page (`UB`).
 5. Ajout de _Paramony_ :ledger: notes de bas de page au _Livre d'Urantia_ :blue_book: en JSON (`UB Paramony`).
 6. Conversion de _Topic index_ :card_index: de TXT vers Wiki.js et validation des modifications à l'aide de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Sujets`).
 7. Conversion de _The Urantia Book_ :blue_book: de JSON avec _Paramony_ :ledger: notes de bas de page vers Wiki.js, y compris les références aux sujets, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`UB Wiki`).
@@ -148,22 +148,22 @@ Le tableau ci-dessous n'est pas complété. Il y a d’autres sites Web que nous
 | Fellowship                   |                       |                    |                    |           |              |
 | - Fellowship Herald          | 232                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
 | - Mighty Messenger           | 218                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
-| - Study Group Herald         |   ?                   | :clock2:           |                    |           |              |
+| - Study Group Herald         | 129                   | :heavy_check_mark: |                    |           |              |
 | - The Urantian               |   ?                   | :clock2:           |                    |           |              |
 | IUA                          |                       |                    |                    |           |              |
 | - Journal                    |  99                   | :heavy_check_mark: |                    |           |              |
 | - Tidings                    | 364                   | :heavy_check_mark: |                    |           |              |
 | Innerface International      | 568                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
-| Spiritual Fellowship Journal |   ?                   | :clock2:           |                    |           |              |
+| Spiritual Fellowship Journal | 400                   | :heavy_check_mark: |                    |           |              |
 | Spain Association            |                       |                    |                    |           |              |
 | - Luz y Vida                 | 337                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
 | - Website                    |   ?                   |                    |                    |           |              |
 | ANZURA Association           |                       |                    |                    |           |              |
-| - 6-0-6                      |   ?                   |                    |                    |           |              |
-| - The Arena                  |   ?                   |                    |                    |           |              |
-| Cosmic Reflections           |   ?                   |                    |                    |           |              |
+| - 6-0-6                      |   ?                   | :clock2:           |                    |           |              |
+| - The Arena                  |   ?                   | :clock2:           |                    |           |              |
+| Cosmic Reflections           |   ?                   | :clock2:           |                    |           |              |
 | Urantia Society of LA        |                       |                    |                    |           |              |
-| - Agondonter                 |   ?                   |                    |                    |           |              |
+| - Agondonter                 |   ?                   | :clock2:           |                    |           |              |
 | French Association           |                       |                    |                    |           |              |
 | - CERDH - The Letter         |   ?                   |                    |                    |           |              |
 | - Le Lien                    |   ?                   |                    |                    |           |              |
@@ -172,7 +172,7 @@ Le tableau ci-dessous n'est pas complété. Il y a d’autres sites Web que nous
 | - Website                    | 116                   |                    |                    |           |              |
 | UB Annotated                 |   ?                   | :clock2:           | :clock2:           |           |              |
 | Jan Herca articles           |  41                   | :clock2:           | :clock2:           |           |              |
-| **TOTAL**                    | **2676**              |                    |                    |           |              |
+| **TOTAL**                    | **3205**              |                    |                    |           |              |
 
 ## Jalon III - Traducteur
 

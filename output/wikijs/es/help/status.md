@@ -148,22 +148,22 @@ La siguiente tabla no está completa. Hay más sitios web que estamos consideran
 | Fellowship                   |                       |                    |                    |           |              |
 | - Fellowship Herald          | 232                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
 | - Mighty Messenger           | 218                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
-| - Study Group Herald         |   ?                   | :clock2:           |                    |           |              |
+| - Study Group Herald         | 129                   | :heavy_check_mark: |                    |           |              |
 | - The Urantian               |   ?                   | :clock2:           |                    |           |              |
 | IUA                          |                       |                    |                    |           |              |
 | - Journal                    |  99                   | :heavy_check_mark: |                    |           |              |
 | - Tidings                    | 364                   | :heavy_check_mark: |                    |           |              |
 | Innerface International      | 568                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
-| Spiritual Fellowship Journal |   ?                   | :clock2:           |                    |           |              |
+| Spiritual Fellowship Journal | 400                   | :heavy_check_mark: |                    |           |              |
 | Spain Association            |                       |                    |                    |           |              |
 | - Luz y Vida                 | 337                   | :heavy_check_mark: | :heavy_check_mark: |           |              |
 | - Website                    |   ?                   |                    |                    |           |              |
 | ANZURA Association           |                       |                    |                    |           |              |
-| - 6-0-6                      |   ?                   |                    |                    |           |              |
-| - The Arena                  |   ?                   |                    |                    |           |              |
-| Cosmic Reflections           |   ?                   |                    |                    |           |              |
+| - 6-0-6                      |   ?                   | :clock2:           |                    |           |              |
+| - The Arena                  |   ?                   | :clock2:           |                    |           |              |
+| Cosmic Reflections           |   ?                   | :clock2:           |                    |           |              |
 | Urantia Society of LA        |                       |                    |                    |           |              |
-| - Agondonter                 |   ?                   |                    |                    |           |              |
+| - Agondonter                 |   ?                   | :clock2:           |                    |           |              |
 | French Association           |                       |                    |                    |           |              |
 | - CERDH - The Letter         |   ?                   |                    |                    |           |              |
 | - Le Lien                    |   ?                   |                    |                    |           |              |
@@ -172,7 +172,7 @@ La siguiente tabla no está completa. Hay más sitios web que estamos consideran
 | - Website                    | 116                   |                    |                    |           |              |
 | UB Annotated                 |   ?                   | :clock2:           | :clock2:           |           |              |
 | Jan Herca articles           |  41                   | :clock2:           | :clock2:           |           |              |
-| **TOTAL**                    | **2676**              |                    |                    |           |              |
+| **TOTAL**                    | **3205**              |                    |                    |           |              |
 
 ## Fase III - Traductor
 

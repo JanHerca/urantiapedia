@@ -12,6 +12,7 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 ## 2023
 
+- [Novedades de Octubre 2023](/es/news/2023/10)
 - [Novedades de Septiembre 2023](/es/news/2023/09)
 - [Novedades de Agosto 2023](/es/news/2023/08)
 - [Novedades de Julio 2023](/es/news/2023/07)
