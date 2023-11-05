@@ -36,6 +36,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 [Presented at the Australian & New Zealand Conference of Urantia Book readers, Sydney,1997]
 
+(_Urantiapedia note: this article is also published in_ [The Arena, Spring 2020](/en/article/Marion_Steward/Where_are_the_Daughters_of_God_2))
+
 Our mission here on this planet is to strive to become Godlike, but the leap from mortal kind like us to God is unimaginably huge, as the authors of _The Urantia Book_ never tire of reminding us ! We are told that the most useful thing any of us could do here on Urantia is to study the life of Jesus. Christ Michael, in his bestowal mission here, was and is the ultimate role model for all of us ascenders. He named himself the Son of Man, and the Son of God.
 
 The Universe is teeming with Sons of God, starting with the Eternal Son, then all the descending Sons, the Paradise Sons of God—Creator Sons, Magisterial Sons, and Trinity Teacher Sons; then the Local Universe Sons of God—Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, and the Life Carriers; and numerous, unrevealed orders of Trinitized Sons. Then we have the ascending Sons— Father-fused, Son-fused and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, Translated Midwayers, personalized Adjusters. 

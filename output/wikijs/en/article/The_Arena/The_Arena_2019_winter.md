@@ -47,7 +47,7 @@ _To print a hard copy simply click the “Print Version” button above. After t
 
 Julian McGarry, TAS
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Arena/Julian-McGarry-ANZURA.jpg" alt="Julian McGarry">
 </figure>
 
@@ -66,7 +66,7 @@ _If you’re planning on attending this year’s annual conference and haven’t
 
 _Here’s an update on the program from Vern Verass:_
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Arena/Greenhills-Conference-Centre-300x76.jpg" alt="Greenhills Conference Centre">
 </figure>
 
@@ -88,7 +88,7 @@ We evolutionary mortals are prone to look upon mind as a cosmic mediation betwee
 
 Study Day Service Group
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Arena/assortment-book-bindings-books-1130980-300x191.jpg" alt="books">
 </figure>
 
@@ -107,7 +107,7 @@ Groups met around over the weekend of 1<sup>st</sup> June to study **Paper 9: Re
 
 Susan Hemmingsen, Auckland NZ
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Susan-Hemmingsen-217x300.jpg" alt="Susan Hemmingsen">
 </figure>
 
@@ -139,7 +139,7 @@ Sadly, before the attack, the general view was that all Muslims were terrorists,
 
 Kathleen Swadling, NSW
 
-<figure id="Figure_5" class="image urantiapedia">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Arena/Mark-Bloomfield2-246x300.jpg" alt="Mark Bloomfield">
 </figure>
 
@@ -162,7 +162,7 @@ David Elders, USA
 _(Editor’s note: This was presented at the **Urantia Book Seminar on Education** held 23—26 March 2017 at Urantia Foundation)_
 
 
-<figure id="Figure_6" class="image urantiapedia">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Arena/David-Elders-300x225.jpg" alt="David-Elders">
 </figure>
 
@@ -184,7 +184,7 @@ It is the purpose of our educational initiatives to develop and implement the me
 
 J. Wattles, USA
 
-<figure id="Figure_7" class="image urantiapedia">
+<figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Arena/Man-Under-Waterfall-300x199.jpg" alt="Man Under Waterfall">
 </figure>
 
@@ -207,7 +207,7 @@ So my question for this talk is: _How shall we rise to the level of power where 
 
 Publications Service Group
 
-<figure id="Figure_8" class="image urantiapedia">
+<figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Arena/Mining-the-Archives.jpg" alt="Mining the Archives">
 </figure>
 
@@ -220,7 +220,7 @@ Each issue of the _Arena_ usually has one “gem” published but for this issue
 
 Ken Glasziou, Sunshine Coast QLD
 
-<figure id="Figure_9" class="image urantiapedia">
+<figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/The_Arena/Ken-Glasziou-165x300.jpg" alt="Ken Glasziou">
 </figure>
 
@@ -241,7 +241,7 @@ Some of us quickly learn that when introducing church members to _The Urantia Bo
 
 William Wentworth, Australia
 
-<figure id="Figure_10" class="image urantiapedia">
+<figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/The_Arena/Will-1-260x300.jpg" alt="William Wentworth">
 </figure>
 
@@ -264,7 +264,7 @@ On page 54 of _The Urantia Book_ a Divine Counselor points out that the watchwor
 
 Publications Service Group
 
-<figure id="Figure_11" class="image urantiapedia">
+<figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/The_Arena/From-the-Internet-300x169.jpg" alt="Stars">
 </figure>
 
@@ -296,7 +296,7 @@ In total, now, I have spoken live to about 300,000 people. With each lecture, co
 
 Pádraig Ó Tuama
 
-<figure id="Figure_12" class="image urantiapedia">
+<figure id="Figure_14" class="image urantiapedia">
 <img src="/image/article/The_Arena/Shaking-Hands-300x200.jpg" alt="Shaking Hands">
 </figure>
 
@@ -330,7 +330,7 @@ Because lives have been taken.
 
 Anzura Admin
 
-<figure id="Figure_13" class="image urantiapedia">
+<figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/The_Arena/Arena-Image-300x258.jpg" alt="The Arena">
 </figure>
 
@@ -349,7 +349,7 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
 
 Anzura Admin
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_16" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
@@ -365,13 +365,13 @@ Here are some of our programs designed to achieve these objectives:
 We hold a small inventory of Urantia Books and other associated material such as study aids and secondary works that are available to readers for dissemination projects. We sponsor a gift-book program where books are donated to libraries and relevant learning centres as well as study groups and individuals who wish to assist in the book-seeding program.
 
 [Read more](https://anzura.urantia-association.org/2022/01/01/ub-endeavour/#more-654)
-
+<br style="clear:both;"/>
 
 ## Study Group Contacts
 
 Anzura Admin
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_17" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Sydney-study-group-300x225.jpg" alt="Study Group Contacts">
 </figure>
 
@@ -382,6 +382,7 @@ Not all of these hosts actually run a regular study group but all of them are wi
 Some study groups include virtual participation via Zoom if you cannot meet face-to-face.
 
 [Click here](https://anzura.urantia-association.org/find-study-groups) to view the list of contacts on the website.
+<br style="clear:both;"/>
 
 ## References
 
