@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2">Second Prologue – The Zero Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction">Introduction</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Second Prologue – The Zero Age</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction"><span class="pr-2">Introduction</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -158,9 +158,9 @@ The Architects are not creators, neither are they creatures. They seem to be alm
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2">Second Prologue – The Zero Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction">Introduction</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Second Prologue – The Zero Age</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction"><span class="pr-2">Introduction</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

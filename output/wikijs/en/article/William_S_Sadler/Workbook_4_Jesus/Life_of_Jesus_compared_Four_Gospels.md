@@ -16,8 +16,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4">Part IV - The Sermons of Jesus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part IV - The Sermons of Jesus</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>
@@ -652,7 +652,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- Review of the ordination charge.
 	- Sec. 6. The Evening of the Ordination. Not in New Testament.
 		- a. Talk in the garden.
-		- b. The commandments. [Matt. 5:21-48](/en/Bible/Matthew/5#v21); 6:1-34; 7:1-29.
+		- b. The commandments. [Matt. 5:21-48](/en/Bible/Matthew/5#v21); [6:1-34](/en/Bible/Matthew/6#v1); [7:1-29](/en/Bible/Matthew/7#v1).
 		- c. The apostles ask questions.
 		- d. Jesus sends them to bed.
 	- Sec. 7. The Week following the Ordination. Not in New Testament.
@@ -723,7 +723,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 4. Flavius and Greek Culture. Not in New Testament.
 		- Surprised at Jesus’ interest in art.
 	- Sec. 5. Discourse on Assurance. Not in New Testament.
-	- Sec. 6. The Visit with Nicodemus. [John 2:23-3](/en/Bible/John/2#v23):21.
+	- Sec. 6. The Visit with Nicodemus. [John 2:23-3:21](/en/Bible/John/2#v23).
 		- a. At the home of Flavius.
 		- b. The new birth.
 	- Sec. 7. The Lesson on the Family. Not in New Testament.
@@ -868,7 +868,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- b. James gives charge to new evangelists.
 		- c. James and John remain with Jesus.
 		- d. David Zebedee—headquarters at father’s home.
-	- Sec. 1. The Widespread Fame of Jesus. [Matt. 4:23-25](/en/Bible/Matthew/4#v23); 12:15-21. [Mark 3:7-12](/en/Bible/Mark/3#v7). [Luke 6:17-19](/en/Bible/Luke/6#v17).
+	- Sec. 1. The Widespread Fame of Jesus. [Matt. 4:23-25](/en/Bible/Matthew/4#v23); [12:15-21](/en/Bible/Matthew/12#v15). [Mark 3:7-12](/en/Bible/Mark/3#v7). [Luke 6:17-19](/en/Bible/Luke/6#v17).
 		- a. Unintended healing phenomenon.
 		- b. Explanation of many miracles.
 	- Sec. 2. Attitude of the People. Not in New Testament.
@@ -882,7 +882,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 6. The “Fear of the Lord.” Not in New Testament.
 	- Sec. 7. Returning to Bethsaida. Not in New Testament.
 - **PAPER 150**. **The Third Preaching Tour**.
-	- Intro. [Matt. 9:35](/en/Bible/Matthew/9#v35). Mark 6:6.
+	- Intro. [Matt. 9:35](/en/Bible/Matthew/9#v35). [Mark 6:6](/en/Bible/Mark/6#v6).
 		- a. January 16, A.D. 29. Abner, from Hebron, in counsel.
 		- b. Anointing the sick.
 		- c. January 18, 75 evangelists join them.
@@ -894,7 +894,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- Women’s corps in action.
 	- Sec. 3. Sabbath at Tiberias. Not in New Testament.
 		- Discourse on superstition.
-	- Sec. 4. Sending the Apostles Out Two and Two. [Matt. 9:36-11](/en/Bible/Matthew/9#v36):1. [Mark 6:7-13](/en/Bible/Mark/6#v7). [Luke 9:1-6](/en/Bible/Luke/9#v1); [Luke 12:2-9](/en/Bible/Luke/12#v2).
+	- Sec. 4. Sending the Apostles Out Two and Two. [Matt. 9:36-11:1](/en/Bible/Matthew/9#v36). [Mark 6:7-13](/en/Bible/Mark/6#v7). [Luke 9:1-6](/en/Bible/Luke/9#v1); [Luke 12:2-9](/en/Bible/Luke/12#v2).
 		- The two sparrows. [Matt. 10:29-31](/en/Bible/Matthew/10#v29). [Luke 12:6,7](/en/Bible/Luke/12#v6).
 	- Sec. 5. What Must I Do to be Saved? Not in New Testament.
 	- Sec. 6. The Evening Lessons. Not in New Testament.
@@ -984,7 +984,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 1. The Temple-tax Collector. [Matt. 17:24-27](/en/Bible/Matthew/17#v24).
 		- Story of the fish and the shekel.
 	- Sec. 2. At Bethsaida-Julias.
-		- Pharisees seek a sign. [Matt. 15:39-16](/en/Bible/Matthew/15#v39):12. [Mark 8:10-21](/en/Bible/Mark/8#v10).
+		- Pharisees seek a sign. [Matt. 15:39-16:12](/en/Bible/Matthew/15#v39). [Mark 8:10-21](/en/Bible/Mark/8#v10).
 	- Sec. 3. Peter’s Confession. [Matt. 16:13-17](/en/Bible/Matthew/16#v13). [Mark 8:27-30](/en/Bible/Mark/8#v27). [Luke 9:18-21](/en/Bible/Luke/9#v18).
 	- Sec. 4. The Talk about the Kingdom. [Matt. 16:18-20](/en/Bible/Matthew/16#v18).
 	- Sec. 5. The New Concept. Not in New Testament.
@@ -1036,7 +1036,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Intro. Calling fire down from heaven. [Luke 9:51-5](/en/Bible/Luke/9#v51)
 	- Sec. 1. The Dangers of the Visit to Jerusalem. Not in New Testament.
 	- Sec. 2. The First Temple Talk. [John 7:1-36](/en/Bible/John/7#v1).
-	- Sec. 3. The Woman Taken in Adultery. [John 7:53-8](/en/Bible/John/7#v53):11.
+	- Sec. 3. The Woman Taken in Adultery. [John 7:53-8:11](/en/Bible/John/7#v53).
 	- Sec. 4. The Feast of Tabernacles. Not in New Testament.
 	- Sec. 5. Sermon on the Light of the World. [John 8:12-30](/en/Bible/John/8#v12).
 	- Sec. 6. Discourse on the Water of Life. [John 7:37-44](/en/Bible/John/7#v37).
@@ -1046,7 +1046,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- (Possibly confused with [John 11:47-54](/en/Bible/John/11#v47).)
 - **PAPER 163**. **Ordination of the Seventy at Magadan**.
 	- Intro. Not in New Testament. Abner and fifty arrive from Bethlehem.
-	- Sec. 1. Ordination of the Seventy. [Luke 10:1-12](/en/Bible/Luke/10#v1),16.
+	- Sec. 1. Ordination of the Seventy. [Luke 10:1-12,16](/en/Bible/Luke/10#v1).
 	- Sec. 2. The Rich Young Man and Others. [Matt. 19:16-22](/en/Bible/Matthew/19#v16). [Mark 10:17-22](/en/Bible/Mark/10#v17). [Luke 18:18-23](/en/Bible/Luke/18#v18).
 	- Sec. 3. The Discussion about Wealth. [Matt. 19:23-30](/en/Bible/Matthew/19#v23); [Matt. 20:1-16](/en/Bible/Matthew/20#v1). [Mark 10:23-31](/en/Bible/Mark/10#v23). [Luke 18:24-30](/en/Bible/Luke/18#v24).
 	- Sec. 4. Farewell to the Seventy. Not in New Testament.
@@ -1219,7 +1219,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 - **PAPER 184**. **Before the Sanhedrin Court**.
 	- Intro. Not in New Testament.
 	- Sec. 1. Examination by Annas. [John 18:12-14](/en/Bible/John/18#v12); [John 18:19-24](/en/Bible/John/18/#v19).
-	- Sec. 2. Peter in the Courtyard. [Matt. 26:58](/en/Bible/Matthew/26#v58), 69-75. [Mark 14:53,54](/en/Bible/Mark/14#v53); [Mark 14:66-72](/en/Bible/14#v66). [Luke 22:54-62](/en/Bible/Luke/22#v54). [John 18:15-18](/en/Bible/John/18#v15); [John 18:25-27](/en/Bible/John/18#v15).
+	- Sec. 2. Peter in the Courtyard. [Matt. 26:58](/en/Bible/Matthew/26#v58), 69-75. [Mark 14:53,54](/en/Bible/Mark/14#v53); [Mark 14:66-72](/en/Bible/Mark/14#v66). [Luke 22:54-62](/en/Bible/Luke/22#v54). [John 18:15-18](/en/Bible/John/18#v15); [John 18:25-27](/en/Bible/John/18#v15).
 	- Sec. 3. Before the Court of Sanhedrists. [Matt. 26:59-66](/en/Bible/Matthew/26#v59). [Mark 14:55-64](/en/Bible/Mark/14#v55). [Luke 22:54](/en/Bible/Luke/22#v54).
 	- Sec. 4. The Hour of Humiliation. [Matt. 26:67,68](/en/Bible/Matthew/26#v67). Mark 14:65. [Luke 22:63-65](/en/Bible/Luke/22#v63).
 	- Sec. 5. The Second Meeting of the Court. [Mark 15:1](/en/Bible/Mark/15#v1). [Luke 22:66-71](/en/Bible/Luke/22#v66).
@@ -1247,7 +1247,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Intro. Not in New Testament.
 	- Sec. 1. On the Way to Golgotha. [Matt. 27:32](/en/Bible/Matthew/27#v32). [Mark 15:21](/en/Bible/Mark/15#v21). [Luke 23:26-32](/en/Bible/Luke/23#v26). [John 19:17](/en/Bible/John/19#v17).
 	- Sec. 2. The Crucifixion. [Matt. 27:33-38](/en/Bible/Matthew/27#v33). [Mark 15:22-27](/en/Bible/Mark/15#v22). [Luke 23:33,34](/en/Bible/Luke/23#v33). [John 19:18-24](/en/Bible/John/19#v18).
-	- Sec. 3. Those Who Saw the Crucifixion. [Matt. 27:39-44,55,56](/en/Bible/Matthew/27#v39). [Mark 15:29-32,40,41](/en/Bible/Mark/15#v29). [Luke 23:35-38](/en/Bible/Luke/23#v35). John 19:25.
+	- Sec. 3. Those Who Saw the Crucifixion. [Matt. 27:39-44,55,56](/en/Bible/Matthew/27#v39). [Mark 15:29-32,40,41](/en/Bible/Mark/15#v29). [Luke 23:35-38](/en/Bible/Luke/23#v35). [John 19:25](/en/Bible/John/19#v25).
 	- Sec. 4. The Thief on the Cross. [Luke 23:39-43](/en/Bible/Luke/23#v39). John put in charge of Jesus’ mother. [John 19:26,27](/en/Bible/John/19#v26).
 	- Sec. 5. Last Hour on the Cross. [Matt. 27:45-54](/en/Bible/Matthew/27#v45). [Mark 15:33-39](/en/Bible/Mark/15#v33). [Luke 23:44-49](/en/Bible/Luke/23#v44). [John 19:28-37](/en/Bible/John/19#v28).
 	- Sec. 6. After the Crucifixion. Not in New Testament.
@@ -1389,7 +1389,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- First and Second Maccabees present reliable history. The Maccabees are in reality the Hasmonaean family. They won independence for the Jews from 166 to 63 B.C.
 		1. Judas Maccabeus was one of five sons of the priest Mattathais.
 		2. He rebelled against Antiochus Epiphanes (IV), King of Syria.
-		3. Antiochus defiled the temple at Jerusalem. (See Dan. 11:31)
+		3. Antiochus defiled the temple at Jerusalem. (See [Dan. 11:31](/en/Bible/Daniel/11#v31))
 		4. After killing a would-be Syrian priest, Mattathias and his five sons fled to the hills.
 		5. Judas, by guerrilla warfare, defeated the Syrians, entered Jerusalem and re-established the temple service. (The Feast of Dedication—see [John 10:22](/en/Bible/John/10#v22))
 		6. Fighting on for political independence, Judas died in battle. His younger brother took over, but was later killed by a Syrian general.
@@ -1833,8 +1833,8 @@ Commends them for their faith. Exhorts to faith, hope, and charity. Urges them t
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4">Part IV - The Sermons of Jesus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part IV - The Sermons of Jesus</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>

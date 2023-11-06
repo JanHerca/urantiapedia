@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Q">Q</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S">S</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Q"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Q</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S"><span class="pr-2">S</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -33,9 +33,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > Reality, as comprehended by finite beings, is .partial, relative, and shadowy. <a id="s32_81"></a>[UB 0:3.20](/en/The_Urantia_Book/0#p3_20)
 
 > Reality differentially actualizes on diverse universe levels; reality originates in and by the infinite volition of the Universal Father and is realizable in three primal phases on many different levels of universe actualization:
-1. Undeified reality
-2. Deified reality
-3. Interassociated reality <a id="s37_27"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1) <a id="s37_67"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1)
+> 1. Undeified reality
+> 2. Deified reality
+> 3. Interassociated reality <a id="s37_27"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1) <a id="s37_67"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1)
 
 ## Reason
 
@@ -196,9 +196,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Q">Q</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S">S</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Q"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Q</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S"><span class="pr-2">S</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

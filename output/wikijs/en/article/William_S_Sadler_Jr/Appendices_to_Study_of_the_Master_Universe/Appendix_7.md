@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6">Appendix VI. Total Deity in the Universe Ages</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendix VIII. Transformative Techniques</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix VI. Total Deity in the Universe Ages</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8"><span class="pr-2">Appendix VIII. Transformative Techniques</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -262,9 +262,9 @@ We are informed <a id="s256_16"></a>[UB 0:5.2](/en/The_Urantia_Book/0#p5_2) that
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6">Appendix VI. Total Deity in the Universe Ages</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendix VIII. Transformative Techniques</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix VI. Total Deity in the Universe Ages</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8"><span class="pr-2">Appendix VIII. Transformative Techniques</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

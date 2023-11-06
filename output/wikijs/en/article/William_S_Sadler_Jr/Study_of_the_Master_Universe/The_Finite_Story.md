@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction">Introduction</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/1">Chapter I. The Creative Thesis of Perfection</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/1"><span class="pr-2">Chapter I. The Creative Thesis of Perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -39,9 +39,9 @@ This is the story of the Second Universe Age, the story of here and now. It begi
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction">Introduction</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/1">Chapter I. The Creative Thesis of Perfection</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Introduction"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/1"><span class="pr-2">Chapter I. The Creative Thesis of Perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

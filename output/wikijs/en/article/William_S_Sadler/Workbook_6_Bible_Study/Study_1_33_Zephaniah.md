@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_32_Habakkuk">Habakkuk</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_34_Haggai">Haggai</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_32_Habakkuk"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Habakkuk</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_34_Haggai"><span class="pr-2">Haggai</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -76,9 +76,9 @@ The book is devoid of outstanding and significant passages.
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_32_Habakkuk">Habakkuk</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_34_Haggai">Haggai</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_32_Habakkuk"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Habakkuk</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_34_Haggai"><span class="pr-2">Haggai</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

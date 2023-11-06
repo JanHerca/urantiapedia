@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_5">5. New Testament Times</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_7">7. History Of The Early Church</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_5"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">5. New Testament Times</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_7"><span class="pr-2">7. History Of The Early Church</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -81,9 +81,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_5">5. New Testament Times</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_7">7. History Of The Early Church</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_5"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">5. New Testament Times</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_7"><span class="pr-2">7. History Of The Early Church</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

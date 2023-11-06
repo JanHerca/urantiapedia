@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_19_Isaiah_The_First">Isaiah the First</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah">Jeremiah</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_19_Isaiah_The_First"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Isaiah the First</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah"><span class="pr-2">Jeremiah</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -251,9 +251,9 @@ If you had to put all of all three Isaiahs in one verse, it might be [Isa. 41:13
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_19_Isaiah_The_First">Isaiah the First</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah">Jeremiah</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_19_Isaiah_The_First"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Isaiah the First</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah"><span class="pr-2">Jeremiah</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

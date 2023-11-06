@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10">Part One - 10. History Of Israel’s Religion</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_2">2. The Patriarchs</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part One - 10. History Of Israel’s Religion</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_2"><span class="pr-2">2. The Patriarchs</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -76,9 +76,9 @@ BEFORE 2000 B.C.
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10">Part One - 10. History Of Israel’s Religion</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_2">2. The Patriarchs</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part One - 10. History Of Israel’s Religion</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_2"><span class="pr-2">2. The Patriarchs</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

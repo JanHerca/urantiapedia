@@ -12,9 +12,9 @@ dateCreated: 2022-11-28T14:02:03.086Z
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_Jesus">About Jesus</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
+		<td><a href="/en/article/FAQ/About_Jesus"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About Jesus</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_Philosophy"><span class="pr-2">About Philosophy</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>
@@ -57,9 +57,9 @@ The Foundation promotes the study of _The Urantia Book_ and its teachings by enc
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_Jesus">About Jesus</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
+		<td><a href="/en/article/FAQ/About_Jesus"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About Jesus</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_Philosophy"><span class="pr-2">About Philosophy</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>

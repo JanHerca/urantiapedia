@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 			<tr>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Paper 10. The Paradise Trinity</a></td>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Paper 11. The Eternal Isle of Paradise</a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paper 10. The Paradise Trinity</span></a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11"><span class="pr-2">Paper 11. The Eternal Isle of Paradise</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -174,9 +174,9 @@ Though uncanonical, they have the same standing as the “Kings.” They were wr
 	<table>
 		<tbody>
 			<tr>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Paper 10. The Paradise Trinity</a></td>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Paper 11. The Eternal Isle of Paradise</a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paper 10. The Paradise Trinity</span></a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11"><span class="pr-2">Paper 11. The Eternal Isle of Paradise</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 			</tr>
 		</tbody>
 	</table>

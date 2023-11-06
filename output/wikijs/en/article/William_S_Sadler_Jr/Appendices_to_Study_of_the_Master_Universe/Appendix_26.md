@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27">Appendix XXVII. Growth of the Cosmos Infinite</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XXV. The Trinitized Nature of God The Absolute</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27"><span class="pr-2">Appendix XXVII. Growth of the Cosmos Infinite</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -120,9 +120,9 @@ We are informed that the Personalized Adjusters are destined to minister in the 
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27">Appendix XXVII. Growth of the Cosmos Infinite</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XXV. The Trinitized Nature of God The Absolute</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27"><span class="pr-2">Appendix XXVII. Growth of the Cosmos Infinite</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

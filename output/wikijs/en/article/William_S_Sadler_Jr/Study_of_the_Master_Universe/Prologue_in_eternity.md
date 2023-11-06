@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword">Foreword</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1">First Prologue — Before the Beginning of Beginnings</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foreword</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1"><span class="pr-2">First Prologue — Before the Beginning of Beginnings</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -49,9 +49,9 @@ Since we are starting with an exploration of the eternal past, we might just as 
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword">Foreword</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1">First Prologue — Before the Beginning of Beginnings</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foreword</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1"><span class="pr-2">First Prologue — Before the Beginning of Beginnings</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

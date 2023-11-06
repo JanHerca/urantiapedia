@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3">Third Prologue – The First Universe Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Finite_Story">The Finite Story</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Prologue – The First Universe Age</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Finite_Story"><span class="pr-2">The Finite Story</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -105,9 +105,9 @@ When we encounter gaps in the available data, we will make an effort to bridge t
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3">Third Prologue – The First Universe Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Finite_Story">The Finite Story</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Prologue – The First Universe Age</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Finite_Story"><span class="pr-2">The Finite Story</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

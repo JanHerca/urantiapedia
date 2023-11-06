@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendix XVII. Time Magnitudes of the Master Universe</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XV. Master Architects and Transcendentalers</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17"><span class="pr-2">Appendix XVII. Time Magnitudes of the Master Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -147,9 +147,9 @@ Most of what the Papers have to say concerns the events of the Second Universe A
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendix XVII. Time Magnitudes of the Master Universe</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XV. Master Architects and Transcendentalers</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17"><span class="pr-2">Appendix XVII. Time Magnitudes of the Master Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

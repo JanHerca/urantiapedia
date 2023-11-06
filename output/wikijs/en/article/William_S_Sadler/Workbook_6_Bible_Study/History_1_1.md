@@ -17,8 +17,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_2">2. The Hebrew Sacred Scriptures</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_2"><span class="pr-2">2. The Hebrew Sacred Scriptures</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -74,7 +74,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Luther said: “The Bible is the manger in which Christ is laid.”
 9. The human side of the Scriptures is shown in the inconsistencies and inaccuracies; the divine hand in the revelation of eternal truth.
 10. The Bible is inseparably bound up with the whole organism of the Christian faith and experience.
-11. The Bible is a “man-selected” group of writing. The [Maccabees of the Apocrypha](https://en.wikipedia.org/wiki/Books_of_the_Maccabees) are more scriptural than the [Song of Solomon](/en/Bible/Songs/1) or the book of [Esther](/en/Bible/Esther/1).
+11. The Bible is a “man-selected” group of writing. The [Maccabees of the Apocrypha](https://en.wikipedia.org/wiki/Books_of_the_Maccabees) are more scriptural than the [Song of Solomon](/en/Bible/Song_of_Solomon/1) or the book of [Esther](/en/Bible/Esther/1).
 12. In creating the canon of the New Testament it was the intention to include only those writings of apostolic origin.
 13. The books of the New Testament were not written as history or biography— they were written solely to propagate the faith.
 14. Even Jesus never set himself up as an absolute authority.
@@ -113,8 +113,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_2">2. The Hebrew Sacred Scriptures</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_2"><span class="pr-2">2. The Hebrew Sacred Scriptures</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

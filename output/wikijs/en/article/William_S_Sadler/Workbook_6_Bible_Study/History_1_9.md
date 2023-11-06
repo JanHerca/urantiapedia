@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_8">8. Growth Of The Hexateuch</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10">10. History Of Israel’s Religion</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_8"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">8. Growth Of The Hexateuch</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10"><span class="pr-2">10. History Of Israel’s Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -87,7 +87,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. The Canaanites had wisdom literature—findings at [Ras Shamrah](https://en.wikipedia.org/wiki/Ugarit).
 2. Israel also had “wise women”—Song of Deborah borders on wisdom literature.
 3. When Joab wanted to persuade David to let Absalom come home, he sent to Tekoa for a “wise woman.”
-4. The “wise woman” suggested going to Abel to seek wisdom—the site of ancient “wisdom schools.” [II Sam. 20:l6-22](/en/Bible/2_Samuel/20#v16).
+4. The “wise woman” suggested going to Abel to seek wisdom—the site of ancient “wisdom schools.” [II Sam. 20:16-22](/en/Bible/2_Samuel/20#v16).
 5. The one pure plant fable of the Oriental type is that of Jotham. [Judg. 9:8-15](/en/Bible/Judges/9#v8). Lesson: Respectable persons are too busy for politics, so the reprobates take over.
 
 ### III. Wisdom of Solomon
@@ -167,9 +167,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_8">8. Growth Of The Hexateuch</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10">10. History Of Israel’s Religion</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_8"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">8. Growth Of The Hexateuch</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_10"><span class="pr-2">10. History Of Israel’s Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

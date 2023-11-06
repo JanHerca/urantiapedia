@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XVIII. The Nature of God The Ultimate</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20"><span class="pr-2">Appendix XX. The Post-Ultimate Age</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -207,9 +207,9 @@ The Second Experiential Trinity is the super-summation of the final experiential
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XVIII. The Nature of God The Ultimate</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20"><span class="pr-2">Appendix XX. The Post-Ultimate Age</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

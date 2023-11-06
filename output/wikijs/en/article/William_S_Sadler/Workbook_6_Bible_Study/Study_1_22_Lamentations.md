@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah">Jeremiah</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_23_Ezekiel">Ezekiel</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jeremiah</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_23_Ezekiel"><span class="pr-2">Ezekiel</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -34,7 +34,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. Authorship
 
-1. Jeremiah was not the author of Lamentations. The book was ascribed to him probably because of 2 Chron. [35:25](/en/Bible/Lamentations/35#v25).
+1. Jeremiah was not the author of Lamentations. The book was ascribed to him probably because of [2 Chron. 35:25](/en/Bible/2_Chronicles/35#v25).
 2. The five poems were by different authors.
 3. The nature of the book differs from Jeremiah in that there is:
 	- A. Higher regard for kings, princes, and priests than Jeremiah had.
@@ -66,9 +66,9 @@ It is the intent of this book to memorialize the tragic destruction of Jerusalem
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah">Jeremiah</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_23_Ezekiel">Ezekiel</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jeremiah</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_23_Ezekiel"><span class="pr-2">Ezekiel</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

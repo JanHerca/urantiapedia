@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_12_Colossians">Colossians</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_14_Timothy_Titus">Timothy and Titus</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_12_Colossians"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Colossians</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_14_Timothy_Titus"><span class="pr-2">Timothy and Titus</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -103,13 +103,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 9. The second coming. "For the Lord himself will descend from heaven with a cry of command, with the archangel's call, and with the sound of the trumpet of God. And the dead in Christ will rise first; then we who are alive, who are left, shall be caught up together with them in the clouds to meet the Lord in the air; and so we shall always be with the Lord." [4:16,17](/en/Bible/1_Thessalonians/4#v16).
 10. Comes like a thief. "For you yourselves know well that the day of the Lord will come like a thief in the night." [5:2](/en/Bible/1_Thessalonians/5#v2).
 11. Spiritual armor. "But since we belong to the day, let us be sober, and put on the breastplate of faith and love, and for a helmet the hope of salvation." [5:8](/en/Bible/1_Thessalonians/5#v8).
-12. Christian living. "Admonish the idle, encourage the faint-hearted, help the weak, be patient with them all. See that none of you repays evil for evil, but always seek to do good to one another and to all. Rejoice always, pray constantly, give thanks in all circumstances; for this is the will of God in Christ Jesus for you. Do not quench the Spirit." [5:14-19](/en/Bible/Thessalonians/5#v14).
+12. Christian living. "Admonish the idle, encourage the faint-hearted, help the weak, be patient with them all. See that none of you repays evil for evil, but always seek to do good to one another and to all. Rejoice always, pray constantly, give thanks in all circumstances; for this is the will of God in Christ Jesus for you. Do not quench the Spirit." [5:14-19](/en/Bible/1_Thessalonians/5#v14).
 
 ### 2 Thessalonians
 
 13. The second advent. "When the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, inflicting vengeance upon those who do not know God and upon those who do not obey the gospel of our Lord Jesus. They shall suffer the punishment of eternal destruction and exclusion from the presence of the Lord and from the glory of his might." [1:7-9](/en/Bible/2_Thessalonians/1#v7).
 14. The son of perdition. "Let no one deceive you in any way; for that day will not come, unless the rebellion comes first, and the man of lawlessness is revealed, the son of perdition, who opposes and exalts himself against every so-called god or object of worship, so that he takes his seat in the temple of God, proclaiming himself to be God." [2:3,4](/en/Bible/2_Thessalonians/2#v3).
-15. The great deception. "The coming of the lawless one by the activity of Satan will be with all power and with pretended signs and wonders, and with all wicked deception for those who are to perish, because they refused to love the truth and so be saved. Therefore God sends upon them a strong delusion, to make them believe what is false, so that all may be condemned who did not believe the truth but had pleasure in unrighteousness." [2:9-12](/en/Bible/Thessalonians/2#v9).
+15. The great deception. "The coming of the lawless one by the activity of Satan will be with all power and with pretended signs and wonders, and with all wicked deception for those who are to perish, because they refused to love the truth and so be saved. Therefore God sends upon them a strong delusion, to make them believe what is false, so that all may be condemned who did not believe the truth but had pleasure in unrighteousness." [2:9-12](/en/Bible/2_Thessalonians/2#v9).
 16. The divine safeguard. "But the Lord is faithful; he will strengthen you and guard you from evil." [3:3](/en/Bible/2_Thessalonians/3#v3).
 17. Self-support. "We did not eat any one's bread without paying, but with toil and labor we worked night and day, that we might not burden any of you." [3:8](/en/Bible/2_Thessalonians/3#v8).
 18. Idleness penalty. "If any one will not work, let him not eat." [3:10](/en/Bible/2_Thessalonians/3#v10).
@@ -122,9 +122,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_12_Colossians">Colossians</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_14_Timothy_Titus">Timothy and Titus</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_12_Colossians"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Colossians</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_14_Timothy_Titus"><span class="pr-2">Timothy and Titus</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

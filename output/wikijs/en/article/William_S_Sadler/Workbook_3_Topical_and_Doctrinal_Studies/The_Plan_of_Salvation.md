@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Trinity">The Paradise Trinity</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Survival">The Plan of Survival</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Trinity"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Paradise Trinity</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Survival"><span class="pr-2">The Plan of Survival</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -97,9 +97,9 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Trinity">The Paradise Trinity</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Survival">The Plan of Survival</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Trinity"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Paradise Trinity</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Survival"><span class="pr-2">The Plan of Survival</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

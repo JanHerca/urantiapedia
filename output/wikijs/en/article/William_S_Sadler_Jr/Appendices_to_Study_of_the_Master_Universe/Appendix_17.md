@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16">Appendix XVI. Space and Mass Magnitudes of the Master Universe</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XVI. Space and Mass Magnitudes of the Master Universe</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18"><span class="pr-2">Appendix XVIII. The Nature of God The Ultimate</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -159,9 +159,9 @@ It appears likely that the full development of the outer space levels is going t
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16">Appendix XVI. Space and Mass Magnitudes of the Master Universe</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix XVI. Space and Mass Magnitudes of the Master Universe</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18"><span class="pr-2">Appendix XVIII. The Nature of God The Ultimate</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

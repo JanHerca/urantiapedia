@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_12">Part Tow - 12. Judaism At The End Of The Old Testament Period</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_2">2. Early Christian Literature</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_12"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part Tow - 12. Judaism At The End Of The Old Testament Period</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_2"><span class="pr-2">2. Early Christian Literature</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. John combines the teachings of the apostles, Paul, and much from the Greeks.
 4. Use of “the kingdom of heaven” is not found in John. Already it had resulted in persecutions.
 5. The incarnation is a central concept in John. [John 14:9](/en/Bible/John/14#v9).
-6. The summation of the religion **about** Jesus is found in [John 3:l6](/en/Bible/John/3#v16).
+6. The summation of the religion **about** Jesus is found in [John 3:16](/en/Bible/John/3#v16).
 7. The incarnation is summed up in [John 14:10](/en/Bible/John/14#v10). “The Father who dwells in me does his works.”
 8. Of all the New Testament the gospel of John is the best presentation of both the humanity and the divinity of Jesus.
 9. It is interesting to note that the [doctrine of the virgin birth](https://en.wikipedia.org/wiki/Virgin_birth_of_Jesus) is absent in John and in all of Paul’s writings.
@@ -116,9 +116,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_12">Part Tow - 12. Judaism At The End Of The Old Testament Period</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_2">2. Early Christian Literature</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_12"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part Tow - 12. Judaism At The End Of The Old Testament Period</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_2"><span class="pr-2">2. Early Christian Literature</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

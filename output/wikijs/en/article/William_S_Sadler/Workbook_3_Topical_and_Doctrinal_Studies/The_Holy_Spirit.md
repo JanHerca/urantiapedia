@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God">The Doctrine of God</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven">The Kingdom of Heaven</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Doctrine of God</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven"><span class="pr-2">The Kingdom of Heaven</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -193,9 +193,9 @@ Holy Spirit, Holy Ghost, and the Spirit of God are used somewhat interchangeably
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God">The Doctrine of God</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven">The Kingdom of Heaven</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Doctrine of God</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven"><span class="pr-2">The Kingdom of Heaven</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

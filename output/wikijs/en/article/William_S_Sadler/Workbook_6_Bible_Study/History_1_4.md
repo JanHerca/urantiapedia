@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_5">5. Interpretation Of The Bible</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">3. Christian Sacred Writings - The New Testament</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_5"><span class="pr-2">5. Interpretation Of The Bible</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -146,9 +146,9 @@ Published in 1952 by a department of the National Council of Churches.
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_5">5. Interpretation Of The Bible</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">3. Christian Sacred Writings - The New Testament</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_5"><span class="pr-2">5. Interpretation Of The Bible</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

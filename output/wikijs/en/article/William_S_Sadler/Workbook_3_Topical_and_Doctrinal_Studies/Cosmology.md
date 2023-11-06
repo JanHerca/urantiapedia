@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Christology">Angels</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education">Adam and Eve</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Christology"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christology</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education"><span class="pr-2">Education</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -88,9 +88,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Christology">Angels</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education">Adam and Eve</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Christology"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christology</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education"><span class="pr-2">Education</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

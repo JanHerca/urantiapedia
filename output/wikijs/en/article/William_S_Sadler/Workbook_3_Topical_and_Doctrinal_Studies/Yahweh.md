@@ -16,8 +16,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Worship">Worship</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Worship"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>
@@ -68,8 +68,8 @@ Jeremiah proclaimed the internationalization of Yahweh. <a id="s56_56"></a>[UB 9
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Worship">Worship</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Worship"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>

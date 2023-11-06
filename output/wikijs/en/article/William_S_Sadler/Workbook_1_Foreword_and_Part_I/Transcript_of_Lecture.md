@@ -17,8 +17,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1">Paper 1. The Universal Father</a></td>
+        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1"><span class="pr-2">Paper 1. The Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -327,8 +327,8 @@ END OF TAPE
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1">Paper 1. The Universal Father</a></td>
+        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1"><span class="pr-2">Paper 1. The Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

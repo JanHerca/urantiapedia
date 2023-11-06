@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_9">9. Prophetic Literature And Wisdom Literature</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_1">Part Tow - 1. The Ancient Orient</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_9"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">9. Prophetic Literature And Wisdom Literature</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_1"><span class="pr-2">Part Tow - 1. The Ancient Orient</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -142,7 +142,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 5. The Jewish church—the synagogue—appears. The quest for authority revives the cult of the Law.
 6. The Hebrews begin to think of their “world mission”—their duty to all nations. Hope for deliverance.
 7. For the first time they form definite beliefs about life after death.
-8. Deutero-Isaiah proclaimed hope. “Behold, the Lord God comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.” [Isa. 40:10](/en/Bible/40#v10).
+8. Deutero-Isaiah proclaimed hope. “Behold, the Lord God comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.” [Isa. 40:10](/en/Bible/Isaiah/40#v10).
 9. Judaism is at last fully internationalized. All nations are to share in Yahweh’s love and merciful redemption.
 10. In Second Isaiah there appears “the servant of the Lord,” foreshadowing the Messiah.
 11. This is the period of the greatest spiritual progress of the Jews.
@@ -167,7 +167,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 9. There is little about sacrifice in the Psalms. See [Ps 40:6-8](/en/Bible/Psalms/40#v6).
 10. The [Psalter](https://en.wikipedia.org/wiki/Psalter) persists in upholding the philosophy of God’s prosperity rewards for obedience, and sickness and adversity as punishments for sin.
 11. The problem of the meaning of suffering and affliction as wrought out in Job is touched upon in [Ps 73](/en/Bible/Psalms/73).
-12. Psalms abound in precious promises—inspired sayings: ‘Weeping may tarry for the night, but joy comes with the morning.” [Ps. 30:5](/en/Bible/30#v5).
+12. Psalms abound in precious promises—inspired sayings: ‘Weeping may tarry for the night, but joy comes with the morning.” [Ps. 30:5](/en/Bible/Psalms/30#v5).
 13. The wisdom literature was not of a high spiritual order. It was based on “human experience.” They were guidebooks for practical living.
 14. But their morality was conventional and pious. “The fear of the Lord is the beginning of wisdom.” [Prov. 15:33](/en/Bible/Proverbs/15#v33). (King James Version)
 15. The wisdom books are skeptical as to the orthodoxy of suffering as a penalty for wrongdoing.
@@ -246,9 +246,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_9">9. Prophetic Literature And Wisdom Literature</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_1">Part Tow - 1. The Ancient Orient</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_9"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">9. Prophetic Literature And Wisdom Literature</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_1"><span class="pr-2">Part Tow - 1. The Ancient Orient</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

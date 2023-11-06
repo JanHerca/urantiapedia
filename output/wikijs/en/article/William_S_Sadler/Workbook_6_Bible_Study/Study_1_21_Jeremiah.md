@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_20_Deutero_Isaiah">Deutero Isaiah</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_22_Lamentations">Lamentations</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_20_Deutero_Isaiah"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deutero Isaiah</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_22_Lamentations"><span class="pr-2">Lamentations</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -164,14 +164,14 @@ Jeremiah lived 100 years after Isaiah, during the capture and destruction of Jer
 2. Amon. 642-640. [2 Kings 21:18-23](/en/Bible/2_Kings/21#v18). [2 Chron. 33:21-24](/en/Bible/2_Chronicles/33#v21). [Jer. 1:2](/en/Bible/Jeremiah/1#v2).
 3. Josiah. 640-609. [2 Kings 21:24-26](/en/Bible/2_Kings/21#v24); [23:29,30](/en/Bible/2_Kings/23#v29). [Jer. 25:3](/en/Bible/Jeremiah/25#v3).
 4. Jehoahaz II. 609 - 3 mo. [2 Kings 23:31-34](/en/Bible/2_Kings/23/#v31). [Jer. 22:11](/en/Bible/Jeremiah/22#v11).
-5. Jehoiakim. 609-598. [2 Kings 23:36-24:6](/en/Bible/2_Kings/23#v36). [Jer. 22:18](/en/Bible/22#v18).
+5. Jehoiakim. 609-598. [2 Kings 23:36-24:6](/en/Bible/2_Kings/23#v36). [Jer. 22:18](/en/Bible/Jeremiah/22#v18).
 6. Jehoiachin. 598 - 3 mo. [2 Kings 24:6-15](/en/Bible/2_Kings/24#v6). [Jer. 52:31-34](/en/Bible/Jeremiah/52#v31).
 7. Zedekiah. 598-587. [2 Kings 24:17-20](/en/Bible/2_Kings/24#v17). [Jer. 2:1-7](/en/Bible/Jeremiah/2#v1); [34:1-11](/en/Bible/Jeremiah/34#v1); [52:1-11](/en/Bible/Jeremiah/52#v1).
 
 ## VII. Selected Texts
 
 1. **The start of Jeremiah's work**. '"Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations.'" [1:5](/en/Bible/Jeremiah/1#v5).
-	(**Note**: This text recalls teachings of the Urantia Book, respecting Thought Adjusters getting advance projections regarding their prospective human subjects, as found on <a id="s173_174"></a>[UB 108:1.2](/en/The_Urantia_Book/108#p1_2)
+	(**Note**: This text recalls teachings of the Urantia Book, respecting Thought Adjusters getting advance projections regarding their prospective human subjects, as found on <a id="s173_174"></a>[UB 108:1.2](/en/The_Urantia_Book/108#p1_2))
 2. **Broken cisterns**. "'My people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns, that can hold no water.'" [2:13](/en/Bible/Jeremiah/2#v13).
 3. **What was wrong**. "'From the least to the greatest of them, every one is greedy for unjust gain; and from prophet to priest, every one deals falsely. They have healed the wound of my people lightly, saying, "Peace, peace," when there is no peace.'" [6:13,14](/en/Bible/Jeremiah/6#v13).
 4. **No peace**. "'We looked for peace, but no good came, for a time of healing, but behold, terror.'" [8:15](/en/Bible/Jeremiah/8#v15).
@@ -198,9 +198,9 @@ Jeremiah lived 100 years after Isaiah, during the capture and destruction of Jer
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_20_Deutero_Isaiah">Deutero Isaiah</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_22_Lamentations">Lamentations</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_20_Deutero_Isaiah"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deutero Isaiah</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_22_Lamentations"><span class="pr-2">Lamentations</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

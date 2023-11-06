@@ -17,8 +17,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B">B</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B"><span class="pr-2">B</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -110,8 +110,8 @@ Service of one’s fellows. <a id="s66_26"></a>[UB 3:5.7](/en/The_Urantia_Book/3
 		<tbody>
 		<tr>
 			<td></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B">B</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B"><span class="pr-2">B</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

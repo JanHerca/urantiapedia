@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1">First Epilogue – The Final Universe Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Epilogue – The Final Universe Age</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3"><span class="pr-2">Third Epilogue – After the Ending of Endings</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>
@@ -174,9 +174,9 @@ Since we will never find God as infinite, it seems likely we will continue to �
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1">First Epilogue – The Final Universe Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Epilogue – The Final Universe Age</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3"><span class="pr-2">Third Epilogue – After the Ending of Endings</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
       </tr>
     </tbody>
   </table>

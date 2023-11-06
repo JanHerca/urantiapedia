@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B">B</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/D">D</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">B</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/D"><span class="pr-2">D</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -99,9 +99,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B">B</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/D">D</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/B"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">B</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/D"><span class="pr-2">D</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

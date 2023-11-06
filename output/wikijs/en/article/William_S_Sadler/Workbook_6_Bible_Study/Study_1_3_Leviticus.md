@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_2_Exodus">Exodus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_4_Numbers">Numbers</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_2_Exodus"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exodus</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_4_Numbers"><span class="pr-2">Numbers</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -94,7 +94,7 @@ Leviticus is the Hebrew law book-the manual of ritual and the code of regulation
 10. It may be easy to understand why a book like Leviticus should be in a Jewish Bible, but why should it be in a Christian Bible? The answer is simple-the early Christians adopted the whole Old Testament-Leviticus and all.
 11. A Protestant would have much the same feeling if he would try to make sense out of the "Pontifical Ceremonies"-the handbook of Roman Catholic ceremonial usages.
 12. The bringing of the "first fruits" in a basket to the priest was a profound religious experience to a devout Israelite. We should try to see these things as they saw and felt them.
-13. The ceremony of the Day of Atonement may seem like a primitive affair to us. But view it as described in the Apocrypha (Ecclus. Sirach [50:5-21](/en/Bible/Ecclesiastes/50#v5)) and you will learn how a pious Jew was moved to the depths of his soul.
+13. The ceremony of the Day of Atonement may seem like a primitive affair to us. But view it as described in the Apocrypha (Ecclus. Sirach [50:5-21](/en/Bible/Sirach/50#v5)) and you will learn how a pious Jew was moved to the depths of his soul.
 14. You can also get something of the feelings of the Hebrew worshiper by reading some of the Psalms, for example, [42](/en/Bible/Psalms/42), [84](/en/Bible/Psalms/84), and [150](/en/Bible/Psalms/150).
 15. Then there is the value of really knowing just how the olden Hebrews practiced their religion.
 16. Don't overlook the symbolic and dramatic aspects.
@@ -149,9 +149,9 @@ Azazel is mentioned in the book of Enoch as the "leader of evil spirits."
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_2_Exodus">Exodus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_4_Numbers">Numbers</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_2_Exodus"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exodus</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_4_Numbers"><span class="pr-2">Numbers</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

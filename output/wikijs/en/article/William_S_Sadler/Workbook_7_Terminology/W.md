@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/V">V</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Y">Y</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/V"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">V</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Y"><span class="pr-2">Y</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -74,7 +74,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Worship is the highest privilege and the first duty of all created intelligences. Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures. The quality of worship is determined by the depth of creature perception; and as the knowledge of the infinite character of the Gods progresses, the act of worship becomes increasingly all-encompassing until it eventually attains the glory of the highest experiential delight and the most exquisite pleasure known to created beings. <a id="s74_590"></a>[UB 27:7.1](/en/The_Urantia_Book/27#p7_1)
 
-_Worship is the highest joy of Paradise existence_; it is the refreshing play of Paradise. What play does for your jaded minds on earth, worship will do for your, perfected souls on Paradise. The mode of worship on Paradise is utterly beyond mortal comprehension, but the spirit of it you can begin to appreciate even down here on Urantia, for the spirits of the Gods even now indwell you, hover over you, and inspire you to true worship. <a id="s76_439"></a>[UB 27:7.5](/en/The_Urantia_Book/27#p7_5)
+> _Worship is the highest joy of Paradise existence_; it is the refreshing play of Paradise. What play does for your jaded minds on earth, worship will do for your, perfected souls on Paradise. The mode of worship on Paradise is utterly beyond mortal comprehension, but the spirit of it you can begin to appreciate even down here on Urantia, for the spirits of the Gods even now indwell you, hover over you, and inspire you to true worship. <a id="s76_439"></a>[UB 27:7.5](/en/The_Urantia_Book/27#p7_5)
 
 > Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver. <a id="s78_101"></a>[UB 16:8.14](/en/The_Urantia_Book/16#p8_14)
 
@@ -99,9 +99,9 @@ _Worship is the highest joy of Paradise existence_; it is the refreshing play of
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/V">V</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Y">Y</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/V"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">V</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Y"><span class="pr-2">Y</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

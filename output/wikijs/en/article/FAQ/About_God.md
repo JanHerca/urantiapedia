@@ -12,9 +12,9 @@ dateCreated: 2022-11-28T14:02:03.086Z
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_Science">About Science</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
+		<td><a href="/en/article/FAQ/About_Science"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About Science</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_Religion"><span class="pr-2">About Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>
@@ -178,9 +178,9 @@ dateCreated: 2022-11-28T14:02:03.086Z
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_Science">About Science</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
+		<td><a href="/en/article/FAQ/About_Science"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About Science</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_Religion"><span class="pr-2">About Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>

@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R">R</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/T">T</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">R</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/T"><span class="pr-2">T</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -253,9 +253,9 @@ _The Supreme Being_ is not a direct creator, except that he is the father of Maj
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R">R</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/T">T</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">R</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/T"><span class="pr-2">T</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

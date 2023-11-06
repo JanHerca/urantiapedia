@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_1">1. The Bible: Authority And Significance</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_1"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1. The Bible: Authority And Significance</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3"><span class="pr-2">3. Christian Sacred Writings - The New Testament</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -31,7 +31,7 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 ## I. Composition of the Old Testament
 
 1. The Ode of Deborah, commemorating Israel’s victory over Sisera ([Judg 5](/en/Bible/Judges/5)) is the oldest Old Testament document. Probably composed 1125 B.C.
-2. Probably not composed by Deborah. There are two accounts—prose version in [Judg 4](/en/Bible/Judges/4) and the poetic version in [Chap. 5](/en/Bible/1_Corinthians/1#v18).
+2. Probably not composed by Deborah. There are two accounts—prose version in [Judg 4](/en/Bible/Judges/4) and the poetic version in [Chap. 5](/en/Bible/Judges/5).
 3. Heavy rain and thunderstorms rendered the Canaanite chariots useless—so that they were routed and massacred.
 4. Deborah was a wise judge. The Hebrews gave women more recognition in these days than later on in their national history. Deborah was a prophetess as well as a judge.
 5. Among the oldest portions of the Old Testament are poems quoted from the lost books of [Jasher](https://www.sacred-texts.com/chr/apo/jasher/index.htm), Book of the word of Yahweh, etc. See [Josh 10:12-14](/en/Bible/Joshua/10#v12).
@@ -55,7 +55,7 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 	- a. **Legal**—the [Pentateuch](https://en.wikipedia.org/wiki/Torah).
 	- b. **Historical**— [Joshua](/en/Bible/Joshua/1), [Judges](/en/Bible/Judges/1), [Samuel](/en/Bible/1_Samuel/1), [Kings](/en/Bible/1_Kings/1), [Chronicles](/en/Bible/1_Chronicles/1), [Ezra](/en/Bible/Ezra/1), [Nehemiah](/en/Bible/Nehemiah/1), [Esther](/en/Bible/Esther/1).
 	- c. **Prophetic**—the [major and minor prophets](http://biblebasics.wordpress.com/2007/02/16/major-and-minor-prophets/).
-	- d. **Wisdom**— [Proverbs](/en/Bible/Proverbs/1), [Job](/en/Bible/Job/1), [Ecclesiastes](/en/Bible/Ecclesiastes/1), and the [Song of Solomon](/en/Bible/Songs/1).
+	- d. **Wisdom**— [Proverbs](/en/Bible/Proverbs/1), [Job](/en/Bible/Job/1), [Ecclesiastes](/en/Bible/Ecclesiastes/1), and the [Song of Solomon](/en/Bible/Song_of_Solomon/1).
 	- e. **Devotional**— [Psalms](/en/Bible/Psalms/1).
 21. [Amos](/en/Bible/Amos/1) is probably the oldest book in the Old Testament.
 
@@ -121,7 +121,7 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 	- Second edition of [Kings](/en/Bible/2_Kings/1). 560 B.C.
 	- Revised stories of Joshua, Judges, and Samuel.
 	- Song of Moses. [Deut 32](/en/Bible/Deuteronomy/32).
-	- [Isaiah 13:2; 14:4-21](/en/Bible/Isaiah/13-2%3b-14#v4).
+	- [Isaiah 13:2](/en/Bible/Isaiah/13#v2); [14:4-21](/en/Bible/Isaiah/14#v4).
 	- [Second Isaiah](/en/Bible/Isaiah/2) 40-55. 546-539 B.C.
 	- [Haggai](/en/Bible/Haggai/1). 520 B.C.
 	- [Zechariah 1-8](/en/Bible/Zechariah/1). 520-518 B.C.
@@ -147,7 +147,7 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 	- [Genesis 14](/en/Bible/Genesis/14).
 	- [I Kings 13](/en/Bible/1_Kings/13).
 	- [Esther](/en/Bible/Esther/1).
-	- [Song of Solomon](/en/Bible/Songs/1).
+	- [Song of Solomon](/en/Bible/Song_of_Solomon/1).
 	- [Proverbs 1-9](/en/Bible/Proverbs/1).
 	- [Jonah](/en/Bible/Jonah/1).
 	- [Isaiah 19:18-25](/en/Bible/Isaiah/19#v18).
@@ -224,9 +224,9 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_1">1. The Bible: Authority And Significance</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_1"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1. The Bible: Authority And Significance</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3"><span class="pr-2">3. Christian Sacred Writings - The New Testament</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

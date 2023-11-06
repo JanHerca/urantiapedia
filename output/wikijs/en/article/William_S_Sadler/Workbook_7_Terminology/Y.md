@@ -16,8 +16,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/W">W</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/W"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">W</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>
@@ -26,7 +26,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Yahweh
 
-_Yahweh_ was the god of the southern Palestinian tribes, who associated this concept of deity with Mount Horeb, the Sinai volcano. Yahweh was merely one of the hundreds and thousands of nature gods which held the attention and claimed the worship of the Semitic tribes and peoples. <a id="s28_282"></a>[UB 96:1.3](/en/The_Urantia_Book/96#p1_3)
+> _Yahweh_ was the god of the southern Palestinian tribes, who associated this concept of deity with Mount Horeb, the Sinai volcano. Yahweh was merely one of the hundreds and thousands of nature gods which held the attention and claimed the worship of the Semitic tribes and peoples. <a id="s28_282"></a>[UB 96:1.3](/en/The_Urantia_Book/96#p1_3)
 
 ## Year, Jerusem
 
@@ -43,8 +43,8 @@ _Yahweh_ was the god of the southern Palestinian tribes, who associated this con
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/W">W</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/W"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">W</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>

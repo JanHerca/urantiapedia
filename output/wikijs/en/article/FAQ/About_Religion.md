@@ -12,9 +12,9 @@ dateCreated: 2022-11-28T14:02:03.086Z
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_God">About God</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_Personality">About Personality</a></td>
+		<td><a href="/en/article/FAQ/About_God"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About God</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_Personality"><span class="pr-2">About Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>
@@ -141,9 +141,9 @@ Our recommendation would be that you embrace your religion with a new sense of v
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_God">About God</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_Personality">About Personality</a></td>
+		<td><a href="/en/article/FAQ/About_God"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About God</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_Personality"><span class="pr-2">About Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>

@@ -13,8 +13,8 @@ dateCreated: 2022-11-28T14:02:03.086Z
 	<tbody>
 	  <tr>
 		<td></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_The_Urantia_Book">About The Urantia Book</a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_The_Urantia_Book"><span class="pr-2">About The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>
@@ -121,8 +121,8 @@ Here are some Urantia Book references that will answer your question. Please cli
 	<tbody>
 	  <tr>
 		<td></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
-		<td><a href="/en/article/FAQ/About_The_Urantia_Book">About The Urantia Book</a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+		<td><a href="/en/article/FAQ/About_The_Urantia_Book"><span class="pr-2">About The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 	  </tr>
 	</tbody>
   </table>

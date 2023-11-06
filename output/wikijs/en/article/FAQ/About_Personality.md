@@ -12,8 +12,8 @@ dateCreated: 2022-11-28T14:02:03.086Z
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Religion"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About Religion</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 		<td></td>
 	  </tr>
 	</tbody>
@@ -94,8 +94,8 @@ dateCreated: 2022-11-28T14:02:03.086Z
   <table>
 	<tbody>
 	  <tr>
-		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
-		<td><a href="/en/article/FAQ#index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Religion"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About Religion</span></a></td>
+		<td><a href="/en/article/FAQ#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 		<td></td>
 	  </tr>
 	</tbody>

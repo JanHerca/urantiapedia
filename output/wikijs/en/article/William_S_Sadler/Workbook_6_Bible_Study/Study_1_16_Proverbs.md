@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_15_Psalms">Psalms</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_17_Ecclesiastes">Ecclesiastes</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_15_Psalms"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_17_Ecclesiastes"><span class="pr-2">Ecclesiastes</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -130,7 +130,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- B. Priests.
 	- C. Wise men.
 2. About 200 B.C. the "scribes" replaced the "wise men." Scribes began to appear even in David's time. [2 Sam. 8:17](/en/Bible/2_Samuel/8#v17).
-3. Wise men were found in Israel before the eighth century B.C. See [Isa. 29:14](/en/Bible/29#v14); [Jer. 18:18](/en/Bible/18#v18).
+3. Wise men were found in Israel before the eighth century B.C. See [Isa. 29:14](/en/Bible/Isaiah/29#v14); [Jer. 18:18](/en/Bible/Jeremiah/18#v18).
 4. There were also "wise women." One such lived in Tekoa-the home of Amos. [2 Sam. 14:1-20](/en/Bible/2_Samuel/14#v1).
 5. Solomon's wisdom was known to "all the kings of the earth." [1 Kings 4:29-34](/en/Bible/1_Kings/4#v29). (Possibly much of Solomon's wisdom was lost-by loss of the record.)
 6. Wise men sat at the city gate-dispensing (for a fee) both wisdom and judgment.
@@ -221,9 +221,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_15_Psalms">Psalms</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_17_Ecclesiastes">Ecclesiastes</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_15_Psalms"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psalms</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_17_Ecclesiastes"><span class="pr-2">Ecclesiastes</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>

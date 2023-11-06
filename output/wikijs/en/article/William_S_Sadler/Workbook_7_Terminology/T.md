@@ -16,9 +16,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S">S</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/U">U</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/U"><span class="pr-2">U</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -82,7 +82,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Tranosta
 
-_Transcendental energy_. This energy system operates on and from the upper level of Paradise and only in connection with the absonite peoples. On Uversa it is denominated TRANOSTA. <a id="s84_181"></a>[UB 42:2.18](/en/The_Urantia_Book/42#p2_18)
+> _Transcendental energy_. This energy system operates on and from the upper level of Paradise and only in connection with the absonite peoples. On Uversa it is denominated TRANOSTA. <a id="s84_181"></a>[UB 42:2.18](/en/The_Urantia_Book/42#p2_18)
 
 ## Trinitization
 
@@ -90,15 +90,15 @@ _Transcendental energy_. This energy system operates on and from the upper level
 
 ## Trinity, Absolute
 
-_The Absolute Trinity_—the second experiential Trinity—now in process of actualization, will consist of God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny. This Trinity functions on both personal and superpersonal levels, even to the borders of the nonpersonal, and its unification in universality would experientialize Absolute Deity. <a id="s92_371"></a>[UB 0:12.7](/en/The_Urantia_Book/0#p12_7)
+> _The Absolute Trinity_—the second experiential Trinity—now in process of actualization, will consist of God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny. This Trinity functions on both personal and superpersonal levels, even to the borders of the nonpersonal, and its unification in universality would experientialize Absolute Deity. <a id="s92_371"></a>[UB 0:12.7](/en/The_Urantia_Book/0#p12_7)
 
 ## Trinity, Paradise
 
-_The Paradise Trinity_—the eternal Deity union of the Universal Father, the Eternal Son, and the Infinite Spirit—is existential in actuality, but all potentials are experiential. Therefore does this Trinity constitute the only Deity reality embracing infinity, and therefore do there occur the universe phenomena of the actualization of God the Supreme, God the Ultimate, and God the Absolute. <a id="s96_394"></a>[UB 0:12.2](/en/The_Urantia_Book/0#p12_2)
+> _The Paradise Trinity_—the eternal Deity union of the Universal Father, the Eternal Son, and the Infinite Spirit—is existential in actuality, but all potentials are experiential. Therefore does this Trinity constitute the only Deity reality embracing infinity, and therefore do there occur the universe phenomena of the actualization of God the Supreme, God the Ultimate, and God the Absolute. <a id="s96_394"></a>[UB 0:12.2](/en/The_Urantia_Book/0#p12_2)
 
 ## Trinity, Ultimate
 
-_The Ultimate Trinity_, now evolving, will eventually consist of the Supreme Being, the Supreme Creator Personalities, and the absonite Architects of the Master Universe, those unique universe planners who are neither creators not creatures. God the Ultimate will eventually and inevitably powerize and personalize as the Deity consequence of the unification of this experiential Ultimate Trinity in the expanding arena of the well-nigh limitless master universe. <a id="s100_464"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
+> _The Ultimate Trinity_, now evolving, will eventually consist of the Supreme Being, the Supreme Creator Personalities, and the absonite Architects of the Master Universe, those unique universe planners who are neither creators not creatures. God the Ultimate will eventually and inevitably powerize and personalize as the Deity consequence of the unification of this experiential Ultimate Trinity in the expanding arena of the well-nigh limitless master universe. <a id="s100_464"></a>[UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
 
 ## Truth
 
@@ -133,9 +133,9 @@ _The Ultimate Trinity_, now evolving, will eventually consist of the Supreme Bei
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S">S</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/U">U</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/U"><span class="pr-2">U</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
 		</tr>
 		</tbody>
 	</table>
