@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_6">6. The Two Kingdoms Of Israel</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_8">8. The Kingdom Of Judah</a></td>
 		</tr>
 		</tbody>
@@ -83,7 +83,7 @@ Fall of Israel and Judah
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_6">6. The Two Kingdoms Of Israel</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_8">8. The Kingdom Of Judah</a></td>
 		</tr>
 		</tbody>

@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4">Part IV - The Sermons of Jesus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index">Index</a></td>
 			<td></td>
 		</tr>
 		</tbody>
@@ -1834,7 +1834,7 @@ Commends them for their faith. Exhorts to faith, hope, and charity. Urges them t
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4">Part IV - The Sermons of Jesus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index">Index</a></td>
 			<td></td>
 		</tr>
 		</tbody>

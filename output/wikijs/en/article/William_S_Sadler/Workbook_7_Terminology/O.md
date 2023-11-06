@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/N">N</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/P">P</a></td>
 		</tr>
 		</tbody>
@@ -38,7 +38,7 @@ The Original is that which is. <a id="s30_31"></a>[UB 115:3.11](/en/The_Urantia_
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/N">N</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/P">P</a></td>
 		</tr>
 		</tbody>

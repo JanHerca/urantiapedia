@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/E">E</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/G">G</a></td>
 		</tr>
 		</tbody>
@@ -128,7 +128,7 @@ _The finite level_ of reality is characterized by creature life and time-space l
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/E">E</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/G">G</a></td>
 		</tr>
 		</tbody>

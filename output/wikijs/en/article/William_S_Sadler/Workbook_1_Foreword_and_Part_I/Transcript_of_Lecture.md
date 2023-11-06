@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1">Paper 1. The Universal Father</a></td>
       </tr>
     </tbody>
@@ -327,7 +327,7 @@ END OF TAPE
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/1">Paper 1. The Universal Father</a></td>
       </tr>
     </tbody>

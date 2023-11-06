@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/P">P</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R">R</a></td>
 		</tr>
 		</tbody>
@@ -36,7 +36,7 @@ Limited or modified in some way. [^1]
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/P">P</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R">R</a></td>
 		</tr>
 		</tbody>

@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_4">4. Growth Of The Gospels</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_6">6. Palestine During New Testament Times</a></td>
 		</tr>
 		</tbody>
@@ -103,7 +103,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_4">4. Growth Of The Gospels</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_6">6. Palestine During New Testament Times</a></td>
 		</tr>
 		</tbody>

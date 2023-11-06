@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 			<tr>
 				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Paper 10. The Paradise Trinity</a></td>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Index">Index</a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
 				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Paper 11. The Eternal Isle of Paradise</a></td>
 			</tr>
 		</tbody>
@@ -175,7 +175,7 @@ Though uncanonical, they have the same standing as the “Kings.” They were wr
 		<tbody>
 			<tr>
 				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Paper 10. The Paradise Trinity</a></td>
-				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Index">Index</a></td>
+				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I#index">Index</a></td>
 				<td><a href="/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Paper 11. The Eternal Isle of Paradise</a></td>
 			</tr>
 		</tbody>

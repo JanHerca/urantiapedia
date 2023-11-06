@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S">S</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/U">U</a></td>
 		</tr>
 		</tbody>
@@ -134,7 +134,7 @@ _The Ultimate Trinity_, now evolving, will eventually consist of the Supreme Bei
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/S">S</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/U">U</a></td>
 		</tr>
 		</tbody>

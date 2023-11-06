@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_1">1. The Bible: Authority And Significance</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
 		</tr>
 		</tbody>
@@ -225,7 +225,7 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_1">1. The Bible: Authority And Significance</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
 		</tr>
 		</tbody>

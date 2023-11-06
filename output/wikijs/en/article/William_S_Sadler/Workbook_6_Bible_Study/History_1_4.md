@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_5">5. Interpretation Of The Bible</a></td>
 		</tr>
 		</tbody>
@@ -147,7 +147,7 @@ Published in 1952 by a department of the National Council of Churches.
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_3">3. Christian Sacred Writings - The New Testament</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_1_5">5. Interpretation Of The Bible</a></td>
 		</tr>
 		</tbody>

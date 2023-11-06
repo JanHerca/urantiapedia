@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_19_Isaiah_The_First">Isaiah the First</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah">Jeremiah</a></td>
 		</tr>
 		</tbody>
@@ -252,7 +252,7 @@ If you had to put all of all three Isaiahs in one verse, it might be [Isa. 41:13
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_19_Isaiah_The_First">Isaiah the First</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_21_Jeremiah">Jeremiah</a></td>
 		</tr>
 		</tbody>
