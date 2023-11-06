@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Supreme_Spirit_And_Other">The Supreme Spirit - And Other Personalities</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness">Truth, Beauty, and Goodness</a></td>
 		</tr>
 		</tbody>
@@ -44,7 +44,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Adjusters are absolute essence of infinite Father.
 	> “To say that a Thought Adjuster is divine is merely to recognize the nature of origin. It is highly probable that such purity of divinity embraces the essence of the potential of all attributes of Deity which can be contained within such a fragment of the absolute essence of the Universal presence of the eternal and infinite Paradise Father.” <a id="s44_348"></a>[UB 107:4.1](/en/The_Urantia_Book/107#p4_1)
 2. They are qualified absolute fragments of the Father.
-	> “The actual source of the Adjuster must be infinite, and before fusion with the immortal soul of an evolving mortal, the reality of the Adjuster must border on absoluteness. Adjusters are not absolutes in the universal sense, in the Deity sense, but they are probably true absolutes within the potentialities of their fragmented nature. They are qualified as to universality but not as to nature; in extensiveness they are limited, but in intensiveness of meaning, value, and fact _they are absolute_. For this reason we sometimes denominate the divine gifts as the qualified absolute fragments of the Father.”  107:4.2](/en/The_Urantia_Book/107#p4_2)
+	> “The actual source of the Adjuster must be infinite, and before fusion with the immortal soul of an evolving mortal, the reality of the Adjuster must border on absoluteness. Adjusters are not absolutes in the universal sense, in the Deity sense, but they are probably true absolutes within the potentialities of their fragmented nature. They are qualified as to universality but not as to nature; in extensiveness they are limited, but in intensiveness of meaning, value, and fact _they are absolute_. For this reason we sometimes denominate the divine gifts as the qualified absolute fragments of the Father.”  [UB 107:4.2](/en/The_Urantia_Book/107#p4_2)
 3. Adjusters are essence of original Deity.
 	> “Since Thought Adjusters are of the essence of original Deity, no one may presume to discourse authoritatively upon their nature and origin; I can only impart the traditions of Salvington and the beliefs of Uversa; I can only explain how we regard these Mystery Monitors and their associated entities throughout the grand universe.” <a id="s48_336"></a>[UB 107:1.1](/en/The_Urantia_Book/107#p1_1)
 4. Adjusters are fragments of prepersonal Deity.
@@ -685,7 +685,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Supreme_Spirit_And_Other">The Supreme Spirit - And Other Personalities</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness">Truth, Beauty, and Goodness</a></td>
 		</tr>
 		</tbody>

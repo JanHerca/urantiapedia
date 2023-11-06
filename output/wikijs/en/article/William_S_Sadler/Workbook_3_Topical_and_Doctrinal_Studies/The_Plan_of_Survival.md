@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Salvation">The Plan of Salvation</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Power_Directors">The Power Directors</a></td>
 		</tr>
 		</tbody>
@@ -534,7 +534,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Salvation">The Plan of Salvation</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Power_Directors">The Power Directors</a></td>
 		</tr>
 		</tbody>

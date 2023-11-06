@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education">Education</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evolution_of_the_Soul">Evolution of the Soul</a></td>
 		</tr>
 		</tbody>
@@ -76,7 +76,7 @@ There are three kinds of evil presented in the Bible:
 	> 
 	> “Satan stood up against Israel, and incited David to number Israel.” [1 Chron 21:1](/en/Bible/1_Chronicles/21#v1).
 
-## II. SIN
+### II. SIN
 
 1. Definitions.
 	> “Everyone who commits sin is guilty of lawlessness; sin is lawlessness.” [1 John 3:4](/en/Bible/1_John/3#v4).
@@ -121,7 +121,7 @@ There are three kinds of evil presented in the Bible:
 	> 
 	> “If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness.” [1 John 1:9](/en/Bible/1_John/1#v9).
 
-## III. GUILT
+### III. GUILT
 
 Guilt is seldom mentioned in the Bible.
 
@@ -132,7 +132,7 @@ Guilt is seldom mentioned in the Bible.
 	> 
 	> “For whoever keeps the whole law but fails in one point has become guilty of all of it.” [Jas 2:10](/en/Bible/James/2#v10).
 
-## IV. SANCTIFICATION
+### IV. SANCTIFICATION
 
 1. Taught in the Old Testament.
 	> “They gathered their brethren, and sanctified themselves.” [2 Chron 29:15](/en/Bible/2_Chronicles/29#v15).
@@ -159,7 +159,7 @@ Guilt is seldom mentioned in the Bible.
 
 ## _THE URANTIA BOOK_
 
-## I. DEFINITIONS OF EVIL AND SIN
+### I. DEFINITIONS OF EVIL AND SIN
 
 1. Jesus’ definition of evil, sin, and iniquity.
 	> “‘Evil is the unconscious or unintended transgression of the divine law, the Father’s will. Evil is likewise the measure of the imperfectness of obedience to the Father’s will.
@@ -180,7 +180,7 @@ Guilt is seldom mentioned in the Bible.
 6. Sin as redefined.
 	> “_Sin must be redefined as deliberate disloyalty to Deity_. There are degrees of disloyalty: the partial loyalty of indecision; the divided loyalty of confliction; the dying loyalty of indifference; and the death of loyalty exhibited in devotion to godless ideals.” <a id="s180_269"></a>[UB 89:10.2](/en/The_Urantia_Book/89#p10_2)
 
-## II. GOD’S ATTITUDE TOWARD SIN
+### II. GOD’S ATTITUDE TOWARD SIN
 
 1. God does not create evil.
 	> “‘It is not strange that you ask such questions seeing that you are beginning to know the Father as I know him, and not as the early Hebrew prophets so dimly saw him. You well know how our forefathers were disposed to see God in almost everything that happened. They looked for the hand of God in all natural occurrences and in every unusual episode of human experience. They connected God with both good and evil. They thought he softened the heart of Moses and hardened the heart of Pharaoh. When man had a strong urge to do something, good or evil, he was in the habit of accounting for these unusual emotions by remarking: “The Lord spoke to me saying, do thus and so, or go here and there.” Accordingly, since men so often and so violently ran into temptation, it became the habit of our forefathers to believe that God led them thither for testing, punishing, or strengthening. But you, indeed, now know better. You know that men are all too often led into temptation by the urge of their own selfishness and by the impulses of their animal natures. When you are in this way tempted, I admonish you that, while you recognize temptation honestly and sincerely for just what it is, you intelligently redirect the energies of spirit, mind, and body, which are seeking expression, into higher channels and toward more idealistic goals. In this way may you transform your temptations into the highest types of uplifting mortal ministry while you almost wholly avoid these wasteful and weakening conflicts between the animal and spiritual natures.’” <a id="s185_1553"></a>[UB 156:5.4](/en/The_Urantia_Book/156#p5_4)
@@ -197,7 +197,7 @@ Guilt is seldom mentioned in the Bible.
 7. Returning good for evil.
 	> “Then asked Nathaniel: ‘Master, shall we give no place to justice? The law of Moses says, “An eye for an eye, and a tooth for a tooth.” What shall we say?’ And Jesus answered: ‘You shall return good for evil. My messengers must not strive with men, but be gentle toward all. Measure for measure shall not be your rule. The rulers of men may have such laws, but not so in the kingdom; mercy always shall determine your judgments and love your conduct. And if these are hard sayings, you can even now turn back. If you find the requirements of apostleship too hard, you may return to the less rigorous pathway of discipleship.’” <a id="s197_630"></a>[UB 140:6.9](/en/The_Urantia_Book/140#p6_9)
 
-## III. OLDEN CONCEPTS OF EVIL AND SIN
+### III. OLDEN CONCEPTS OF EVIL AND SIN
 
 1. Olden concepts of sin.
 	> “As the savage mind evolved to that point where it envisaged both good and bad spirits, and when the taboo received the solemn sanction of evolving religion, the stage was all set for the appearance of the new conception of _sin_. The idea of sin was universally established in the world before revealed religion ever made its entry. It was only by the concept of sin that natural death became logical to the primitive mind. Sin was the transgression of taboo, and death was the penalty of sin.” <a id="s202_499"></a>[UB 89:2.2](/en/The_Urantia_Book/89#p2_2)
@@ -210,7 +210,7 @@ Guilt is seldom mentioned in the Bible.
 5. Sacrifice, sin, and atonement.
 	> “The earliest idea of the sacrifice was that of a neutrality assessment levied by ancestral spirits; only later did the idea of atonement develop. As man got away from the notion of the evolutionary origin of the race, as the traditions of the days of the Planetary Prince and the sojourn of Adam filtered down through time, the concept of sin and of original sin became widespread, so that sacrifice for accidental and personal sin evolved into the doctrine of sacrifice for the atonement of racial sin. The atonement of the sacrifice was a blanket insurance device which covered even the resentment and jealousy of an unknown god.” <a id="s210_637"></a>[UB 89:4.5](/en/The_Urantia_Book/89#p4_5)
 
-## IV. MAN MUST BE FALLIBLE IF FREE
+### IV. MAN MUST BE FALLIBLE IF FREE
 
 1. Only perfect beings are both sinless and free.
 	> “Throughout the universe, every unit is regarded as a part of the whole. Survival of the part is dependent on co-operation with the plan and purpose of the whole, the wholehearted desire and perfect willingness to do the Father’s divine will. The only evolutionary world without error (the possibility of unwise judgment) would be a world without _free_ intelligence. In the Havona universe there are a billion perfect worlds with their perfect inhabitants, but evolving man must be fallible if he is to be free. Free and inexperienced intelligence cannot possibly at first be uniformly wise. The possibility of mistaken judgment (evil) becomes sin only when the human will consciously endorses and knowingly embraces a deliberate immoral judgment.” <a id="s215_753"></a>[UB 3:5.15](/en/The_Urantia_Book/3#p5_15)
@@ -225,8 +225,7 @@ Guilt is seldom mentioned in the Bible.
 	> 
 	> “Eve had consented to participate in the practice of good and evil. Good is the carrying out of the divine plans; sin is a deliberate transgression of the divine will; evil is the misadaptation of plans and the maladjustment of techniques resulting in universe disharmony and planetary confusion.” <a id="s225_301"></a>[UB 75:4.2-3](/en/The_Urantia_Book/75#p4_2)
 
-  
-**V. NATURE’S IMPERFECTIONS**
+### V. NATURE’S IMPERFECTIONS**
 
 1. Sin mars the face of nature.
 	> “And nature is marred, her beautiful face is scarred, her features are seared, by the rebellion, the misconduct, the misthinking of the myriads of creatures who are a part of nature, but who have contributed to her disfigurement in time. No, nature is not God. Nature is not an object of worship.” <a id="s231_301"></a>[UB 4:2.8](/en/The_Urantia_Book/4#p2_8)
@@ -235,7 +234,7 @@ Guilt is seldom mentioned in the Bible.
 3. Nature is not a true portrayal of God.
 	> “God is not personally present in nature or in any of the forces of nature, for the phenomenon of nature is the superimposition of the imperfections of progressive evolution and, sometimes, the consequences of insurrectionary rebellion, upon the Paradise foundations of God’s universal law. As it appears on such a world as Urantia, nature can never be the adequate expression, the true representation, the faithful portrayal, of an all-wise and infinite God.” <a id="s235_464"></a>[UB 4:2.5](/en/The_Urantia_Book/4#p2_5)
 
-## VI. REBELLION—THE PENALTY OF SIN
+### VI. REBELLION—THE PENALTY OF SIN
 
 1. The beginnings of sin.
 	> “Lucifer is now the fallen and deposed Sovereign of Satania. Self-contemplation is most disastrous, even to the exalted personalities of the celestial world. Of Lucifer it was said: ‘Your heart was lifted up because of your beauty; you corrupted your wisdom because of your brightness.’ Your olden prophet saw his sad estate when he wrote: ‘How are you fallen from heaven, O Lucifer, son of the morning! How are you cast down, you who dared to confuse the worlds!’” <a id="s240_469"></a>[UB 53:1.3](/en/The_Urantia_Book/53#p1_3) [Eze 28:17](/en/Bible/Ezekiel/28#v17). [Isa 14:12](/en/Bible/Isaiah/14#v12).
@@ -262,7 +261,7 @@ Guilt is seldom mentioned in the Bible.
 10. Relation of evil and sin.
 	> “Since the triumph of Christ, all Norlatiadek is being cleansed of sin and rebels. Sometime before Michael’s death in the flesh the fallen Lucifer’s associate, Satan, sought to attend such an Edentia conclave, but the solidification of sentiment against the archrebels had reached the point where the doors of sympathy were so well-nigh universally closed that there could be found no standing ground for the Satania adversaries. When there exists no open door for the reception of evil, there exists no opportunity for the entertainment of sin. The doors of the hearts of all Edentia closed against Satan; he was unanimously rejected by the assembled System Sovereigns, and it was at this time that the Son of Man ‘beheld Satan fall as lightning from heaven.’” <a id="s262_765"></a>[UB 43:4.9](/en/The_Urantia_Book/43#p4_9)
 
-## VII. REMOTE REPERCUSSIONS OF SIN
+### VII. REMOTE REPERCUSSIONS OF SIN
 
 1. Impersonal consequences of sin may be collective.
 	> “The personal (centripetal) consequences of the creature’s willful and persistent rejection of light are both inevitable and individual and are of concern only to Deity and to that personal creature. Such a soul-destroying harvest of iniquity is the inner reaping of the iniquitous will creature.
@@ -279,7 +278,7 @@ Guilt is seldom mentioned in the Bible.
 6. Warnings against sin.
 	> “But for ages the seven prison worlds of spiritual darkness in Satania have constituted a solemn warning to all Nebadon, eloquently and effectively proclaiming the great truth ‘that the way of the transgressor is hard’; ‘that within every sin is concealed the seed of its own destruction’; that ‘the wages of sin is death.’” <a id="s279_328"></a>[UB 53:9.8](/en/The_Urantia_Book/53#p9_8) [Prov 13:15](/en/Bible/Proverbs/13#v15). [Rom 6:23](/en/Bible/Romans/6#v23).
 
-## VIII. LIBERTY—TRUE AND FALSE
+### VIII. LIBERTY—TRUE AND FALSE
 
 1. Foundations of true and false liberty.
 	> “Of all the perplexing problems growing out of the Lucifer rebellion, none has occasioned more difficulty than the failure of immature evolutionary mortals to distinguish between true and false liberty.
@@ -296,7 +295,7 @@ Guilt is seldom mentioned in the Bible.
 5. Liberty without license.
 	> “Someday man should learn how to enjoy liberty without license, nourishment without gluttony, and pleasure without debauchery. Self-control is a better human policy of behavior regulation than is extreme self-denial. Nor did Jesus ever teach these unreasonable views to his followers.” <a id="s296_289"></a>[UB 89:3.7](/en/The_Urantia_Book/89#p3_7)
 
-## IX. GUILT—SECURITY AGAINST SIN
+### IX. GUILT—SECURITY AGAINST SIN
 
 1. The nature of the guilt feeling.
 	> “The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one’s moral ideals. Deliverance from such a predicament can only come through the realization that one’s highest moral ideals are not necessarily synonymous with the will of God. Man cannot hope to live up to his highest ideals, but he can be true to his purpose of finding God and becoming more and more like him.” <a id="s301_444"></a>[UB 103:4.3](/en/The_Urantia_Book/103#p4_3)
@@ -311,7 +310,7 @@ Guilt is seldom mentioned in the Bible.
 	> 
 	> “The possibility of the recognition of the sense of guilt is a badge of transcendent distinction for mankind. It does not mark man as mean but rather sets him apart as a creature of potential greatness and ever-ascending glory. Such a sense of unworthiness is the initial stimulus that should lead quickly and surely to those faith conquests which translate the mortal mind to the superb levels of moral nobility, cosmic insight, and spiritual living; thus are all the meanings of human existence changed from the temporal to the eternal, and all values are elevated from the human to the divine.” <a id="s311_601"></a>[UB 89:10.3-4](/en/The_Urantia_Book/89#p10_3)
 
-## X. FORGIVENESS OF SIN
+### X. FORGIVENESS OF SIN
 
 1. Ancient man gained peace by sacrifice.
 	> “Ancient man only attained consciousness of favor with God through sacrifice. Modern man must develop new techniques of achieving the self-consciousness of salvation. The consciousness of sin persists in the mortal mind, but the thought patterns of salvation therefrom have become outworn and antiquated. The reality of the spiritual need persists, but intellectual progress has destroyed the olden ways of securing peace and consolation for mind and soul.” <a id="s316_461"></a>[UB 89:10.1](/en/The_Urantia_Book/89#p10_1)
@@ -324,9 +323,9 @@ Guilt is seldom mentioned in the Bible.
 5. Unforgivable sins.
 	> “‘Say what you will about the Son of Man, and it shall be forgiven you; but he who presumes to blaspheme against God shall hardly find forgiveness. When men go so far as knowingly to ascribe the doings of God to the forces of evil, such deliberate rebels will hardly seek forgiveness for their sins.’<a id="s324_303"></a>[UB 165:3.6](/en/The_Urantia_Book/165#p3_6) [Matt 12:31](/en/Bible/Matthew/12#v31).
 6. Sin of blasphemy against God.
-	> “Then said Jesus: ‘How can Satan cast out Satan? A kingdom divided against itself cannot stand; if a house be divided against itself, it is soon brought to desolation. Can a city withstand a siege if it is not united? If Satan casts out Satan, he is divided against himself; how then shall his kingdom stand? But you should know that no one can enter into the house of a strong man and despoil his goods except he first overpower and bind that strong man. And so, if I by the power of Beelzebub cast out devils, by whom do your sons cast them out? Therefore shall they be your judges. But if I, by the spirit of God, cast out devils, then has the kingdom of God truly come upon you. If you were not blinded by prejudice and misled by fear and pride, you would easily perceive that one who is greater than devils stands in your midst. You compel me to declare that he who is not with me is against me, while he who gathers not with me scatters abroad. Let me utter a solemn warning to you who would presume, with your eyes open and with premeditated malice, knowingly to ascribe the works of God to the doings of devils! Verily, verily, I say to you, all your sins shall be forgiven, even all of your blasphemies, but whosoever shall blaspheme against God with deliberation and wicked intention shall never obtain forgiveness. Since such persistent workers of iniquity will never seek nor receive forgiveness, they are guilty of the sin of eternally rejecting divine forgiveness.’ <a id="s326_1483"></a>[UB 153:4.3](/en/The_Urantia_Book/153#p4_3) [Luk[UB 11:17,18](/en/Bible/Luke/11#v17).
+	> “Then said Jesus: ‘How can Satan cast out Satan? A kingdom divided against itself cannot stand; if a house be divided against itself, it is soon brought to desolation. Can a city withstand a siege if it is not united? If Satan casts out Satan, he is divided against himself; how then shall his kingdom stand? But you should know that no one can enter into the house of a strong man and despoil his goods except he first overpower and bind that strong man. And so, if I by the power of Beelzebub cast out devils, by whom do your sons cast them out? Therefore shall they be your judges. But if I, by the spirit of God, cast out devils, then has the kingdom of God truly come upon you. If you were not blinded by prejudice and misled by fear and pride, you would easily perceive that one who is greater than devils stands in your midst. You compel me to declare that he who is not with me is against me, while he who gathers not with me scatters abroad. Let me utter a solemn warning to you who would presume, with your eyes open and with premeditated malice, knowingly to ascribe the works of God to the doings of devils! Verily, verily, I say to you, all your sins shall be forgiven, even all of your blasphemies, but whosoever shall blaspheme against God with deliberation and wicked intention shall never obtain forgiveness. Since such persistent workers of iniquity will never seek nor receive forgiveness, they are guilty of the sin of eternally rejecting divine forgiveness.’ <a id="s326_1483"></a>[UB 153:4.3](/en/The_Urantia_Book/153#p4_3) [Luke 11:17-18](/en/Bible/Luke/11#v17).
 
-## XI. INTERVAL BETWEEN SIN AND THE PENALTY
+### XI. INTERVAL BETWEEN SIN AND THE PENALTY
 
 1. Saving interval between sin and penalty.
 	> “Although conscious and wholehearted identification with evil (sin) is the equivalent of nonexistence (annihilation), there must always intervene between the time of such personal identification with sin and the execution of the penalty—the automatic result of such a willful embrace of evil—a period of time of sufficient length to allow for such an adjudication of such an individual’s universe status as will prove entirely satisfactory to all related universe personalities, and which will be so fair and just as to win the approval of the sinner himself.” <a id="s331_564"></a>[UB 54:3.2](/en/The_Urantia_Book/54#p3_2)
@@ -356,7 +355,7 @@ Guilt is seldom mentioned in the Bible.
 	> 
 	> “12. Time, even in a universe of time, is relative: If a Urantia mortal of average length of life should commit a crime which precipitated world-wide pandemonium, and if he were apprehended, tried, and executed within two or three days of the commission of the crime, would it seem a long time to you? And yet that would be nearer a comparison with the length of Lucifer’s life even if his adjudication, now begun, should not be completed for a hundred thousand Urantia years. The relative lapse of time from the viewpoint of Uversa, where the litigation is pending, could be indicated by saying that the crime of Lucifer was being brought to trial within two and a half seconds of its commission. From the Paradise viewpoint the adjudication is simultaneous with the enactment.” <a id="s356_783"></a>[UB 54:5.1-13](/en/The_Urantia_Book/54#p5_1)
 
-## XII. ORIGINAL SIN
+### XII. ORIGINAL SIN
 
 1. Original sin—racial guilt.
 	> “Primitive man regarded himself as being in debt to the spirits, as standing in need of redemption. As the savages looked at it, in justice the spirits might have visited much more bad luck upon them. As time passed, this concept developed into the doctrine of sin and salvation. The soul was looked upon as coming into the world under forfeit—original sin. The soul must be ransomed; a scapegoat must be provided. The head-hunter, in addition to practicing the cult of skull worship, was able to provide a substitute for his own life, a scapeman.” <a id="s361_552"></a>[UB 89:0.1](/en/The_Urantia_Book/89#p0_1)
@@ -369,7 +368,7 @@ Guilt is seldom mentioned in the Bible.
 5. Salvation not jeopardized by another’s sin.
 	> “But one thing should be made clear: If you are made to suffer the evil consequences of the sin of some member of your family, some fellow citizen or fellow mortal, even rebellion in the system or elsewhere—no matter what you may have to endure because of the wrongdoing of your associates, fellows, or superiors—you may rest secure in the eternal assurance that such tribulations are transient afflictions. None of these fraternal consequences of misbehavior in the group can ever jeopardize your eternal prospects or in the least degree deprive you of your divine right of Paradise ascension and God attainment.” <a id="s369_618"></a>[UB 54:6.4](/en/The_Urantia_Book/54#p6_4)
 
-## II. JESUS TALKS ABOUT GOOD AND EVIL
+## XIII. JESUS TALKS ABOUT GOOD AND EVIL
 
 1. Answering Gadiah’s question about good and evil.
 
@@ -413,7 +412,7 @@ Guilt is seldom mentioned in the Bible.
 	> 
 	> “‘Men are, indeed, by nature evil, but not necessarily sinful. The new birth—the baptism of the spirit—is essential to deliverance from evil and necessary for entrance into the kingdom of heaven, but none of this detracts from the fact that man is the son of God. Neither does this inherent presence of potential evil mean that man is in some mysterious way estranged from the Father in heaven so that, as an alien, foreigner, or stepchild, he must in some manner seek for legal adoption by the Father. All such notions are born, first, of your misunderstanding of the Father and, second, of your ignorance of the origin, nature, and destiny of man.’” <a id="s413_655"></a>[UB 148:4.2-8](/en/The_Urantia_Book/148#p4_2)
 	> 
-	> “‘Thomas, have you not read about this in the Scriptures, where it is written: “You are the children of the Lord your God.” “I will be his Father and he shall be my son.” “I have chosen him to be my son—I will be his Father.” “Bring my sons from far and my daughters from the ends of the earth; even every one who is called by my name, for I have created them for my glory.” “You are the sons of the living God.” “They who have the spirit of God are indeed the sons of God.” While there is a material part of the human father in the natural child, there is a spiritual part of the heavenly Father in every faith son of the kingdom.’” <a id="s415_637"></a>[UB 148:4.10](/en/The_Urantia_Book/148#p4_10) Gen 4:16. [1 Chron 28:6](/en/Bible/1_Chronicles/28#v6). [1 Chron 17:13](/en/Bible/1_Chronicles/17#v13). [Is[UB 43:6.7](/en/Bible/Isaiah/43#v6). [Hosea 1:10](/en/Bible/Hosea/1#v10). [Rom 8:14](/en/Bible/Romans/8#v14).
+	> “‘Thomas, have you not read about this in the Scriptures, where it is written: “You are the children of the Lord your God.” “I will be his Father and he shall be my son.” “I have chosen him to be my son—I will be his Father.” “Bring my sons from far and my daughters from the ends of the earth; even every one who is called by my name, for I have created them for my glory.” “You are the sons of the living God.” “They who have the spirit of God are indeed the sons of God.” While there is a material part of the human father in the natural child, there is a spiritual part of the heavenly Father in every faith son of the kingdom.’” <a id="s415_637"></a>[UB 148:4.10](/en/The_Urantia_Book/148#p4_10) [Gen 4:16](/en/Bible/Genesis/4#v16). [1 Chron 28:6](/en/Bible/1_Chronicles/28#v6). [1 Chron 17:13](/en/Bible/1_Chronicles/17#v13). [Isa 43:6-7](/en/Bible/Isaiah/43#v6). [Hosea 1:10](/en/Bible/Hosea/1#v10). [Rom 8:14](/en/Bible/Romans/8#v14).
 
 
 <br>
@@ -423,7 +422,7 @@ Guilt is seldom mentioned in the Bible.
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education">Education</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evolution_of_the_Soul">Evolution of the Soul</a></td>
 		</tr>
 		</tbody>

@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Creator_Sons">The Creator Sons</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Holy_Spirit">The Holy Spirit</a></td>
 		</tr>
 		</tbody>
@@ -34,8 +34,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. THE I AM
 
-1. The concept of the I AM is a philosophic concession which is made to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences, nonbeginning, nonending realities and relationships. 0:3.23](/en/The_Urantia_Book/0#p3_23)
-2. The I AM achieves personality by becoming the Eternal Father of the Original Son and the Eternal Source of Paradise. 0:3.22](/en/The_Urantia_Book/0#p3_22)
+1. The concept of the I AM is a philosophic concession which is made to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences, nonbeginning, nonending realities and relationships. [UB 0:3.23](/en/The_Urantia_Book/0#p3_23)
+2. The I AM achieves personality by becoming the Eternal Father of the Original Son and the Eternal Source of Paradise. [UB 0:3.22](/en/The_Urantia_Book/0#p3_22)
 3. Absolute causation resides in the Universal Father functioning as the I AM. <a id="s38_79"></a>[UB 105:1.1](/en/The_Urantia_Book/105#p1_1)
 4. The sevenfold nature of the I AM is suggested by the Seven Absolutes of Infinity:
 	1. The Universal Father.
@@ -153,7 +153,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	> 
 	> 4. Omniscience does not imply the knowing of the unknowable. <a id="s153_64"></a>[UB 3:3.5](/en/The_Urantia_Book/3#p3_5)
 	> 
-	> **BIBLE REFERENCES**: [I John 3:20](/en/Bible/1_John/3#v20). Heb 4:13.741 (?...Ed.) [Job 37:16](/en/Bible/Job/37#v16). [Ps 33:13](/en/Bible/Psalms/33#v13); [147:4](/en/Bible/Psalms/147#v4). [Prov 15:3](/en/Bible/Proverbs/15#v3). [Matt 6:8](/en/Bible/Matthew/6#v8).
+	> **BIBLE REFERENCES**: [I John 3:20](/en/Bible/1_John/3#v20). [Heb 4:13.741](/en/Bible/Hebrews/4#v13) (?...Ed.) [Job 37:16](/en/Bible/Job/37#v16). [Ps 33:13](/en/Bible/Psalms/33#v13); [147:4](/en/Bible/Psalms/147#v4). [Prov 15:3](/en/Bible/Proverbs/15#v3). [Matt 6:8](/en/Bible/Matthew/6#v8).
 - D. _The Primacy of God_
 	> 1. God is the universal unity of unqualified Reality. <a id="s157_57"></a>[UB 56:9.11](/en/The_Urantia_Book/56#p9_11)
 	> 
@@ -372,12 +372,12 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. On absonite levels things and beings are without beginnings and endings. Absoniters are not created—they are eventuated. <a id="s371_124"></a>[UB 0:1.12](/en/The_Urantia_Book/0#p1_12)
 3. The universe exists in three levels: finite, transcendental, and absolute. <a id="s372_78"></a>[UB 105:7.15](/en/The_Urantia_Book/105#p7_15)
 
-### VIII. GOD THE ABSOLUTE
+## VIII. GOD THE ABSOLUTE
 
 1. God the Absolute would be the experientialization of divinity realities now existential as the Deity Absolute. <a id="s376_114"></a>[UB 0:2.18](/en/The_Urantia_Book/0#p2_18)
 2. God the Absolute is the attainment goal of all superabsonite beings. <a id="s377_72"></a>[UB 0:10.2](/en/The_Urantia_Book/0#p10_2)
 
-### IX. DEITY
+## IX. DEITY
 
 1. Deity may be existential, as in the Eternal Son; experiential, as in the Supreme Being; associative, as in God the Sevenfold; undivided, as in the Paradise Trinity. <a id="s381_168"></a>[UB 0:1.14](/en/The_Urantia_Book/0#p1_14)
 2. Deity is the source of all that which is divine, but all that which is divine is not necessarily Deity. <a id="s382_107"></a>[UB 0:1.15](/en/The_Urantia_Book/0#p1_15)
@@ -396,7 +396,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Creator_Sons">The Creator Sons</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Holy_Spirit">The Holy Spirit</a></td>
 		</tr>
 		</tbody>

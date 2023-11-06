@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/Index">Index</a></td>
+        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God#index">Index</a></td>
         <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/1">Chapter I — Religion And Theology</a></td>
       </tr>
     </tbody>
@@ -37,7 +37,7 @@ My friends and colleagues, Dr. Edgar S. Brightman and Dr. Earl Marlatt, who kind
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/Index">Index</a></td>
+        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God#index">Index</a></td>
         <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/1">Chapter I — Religion And Theology</a></td>
       </tr>
     </tbody>

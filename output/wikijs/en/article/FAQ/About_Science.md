@@ -13,7 +13,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 	<tbody>
 	  <tr>
 		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
-		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ#index">Index</a></td>
 		<td><a href="/en/article/FAQ/About_God">About God</a></td>
 	  </tr>
 	</tbody>
@@ -142,7 +142,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 	<tbody>
 	  <tr>
 		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
-		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ#index">Index</a></td>
 		<td><a href="/en/article/FAQ/About_God">About God</a></td>
 	  </tr>
 	</tbody>

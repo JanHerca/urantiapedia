@@ -13,7 +13,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 	<tbody>
 	  <tr>
 		<td></td>
-		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ#index">Index</a></td>
 		<td><a href="/en/article/FAQ/About_The_Urantia_Book">About The Urantia Book</a></td>
 	  </tr>
 	</tbody>
@@ -121,7 +121,7 @@ Here are some Urantia Book references that will answer your question. Please cli
 	<tbody>
 	  <tr>
 		<td></td>
-		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ#index">Index</a></td>
 		<td><a href="/en/article/FAQ/About_The_Urantia_Book">About The Urantia Book</a></td>
 	  </tr>
 	</tbody>

@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Permanent_Citizens">Permanent Citizens</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Prayer_and_Worship">Prayer and Worship</a></td>
 		</tr>
 		</tbody>
@@ -69,7 +69,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. Personality is a universal mystery.
 	> “Personality is one of the unsolved mysteries of the universes. We are able to form adequate concepts of the factors entering into the make-up of various orders and levels of personality, but we do not fully comprehend the real nature of the personality itself. We clearly perceive the numerous factors which, when put together, constitute the vehicle for human personality, but we do not fully comprehend the nature and significance of such a finite personality.” <a id="s69_468"></a>[UB 5:6.2](/en/The_Urantia_Book/5#p6_2)
 
-## IV. HUMAN PERSONALITY
+### IV. HUMAN PERSONALITY
 
 1. Personality and selfhood.
 	> “In the human organism the summation of its parts constitutes selfhood—individuality—but such a process has nothing whatever to do with personality, which is the unifier of all these factors as related to cosmic realities.” <a id="s74_227"></a>[UB 112:1.18](/en/The_Urantia_Book/112#p1_18)
@@ -279,7 +279,7 @@ Personality is difficult to define—but it is recognized as functioning on dive
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Permanent_Citizens">Permanent Citizens</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Prayer_and_Worship">Prayer and Worship</a></td>
 		</tr>
 		</tbody>

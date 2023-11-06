@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Faith">Faith</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Hope">Hope</a></td>
 		</tr>
 		</tbody>
@@ -25,6 +25,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 </figure>
 
 ## GOD'S ETERNAL PURPOSE IN _THE URANTIA BOOK_
+
 ### I. UNIVERSE WAS MADE TO BE INHABITED
 
 1. Universes made to be inhabited.
@@ -93,7 +94,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > “We know that in everything God works for good with those who love him.” [Rom 8:28](/en/Bible/Romans/8#v28).
 
-## II. PREDESTINATION
+### II. PREDESTINATION
 
 (In the Revised Version predestination is usually rendered “foreordained.”)
 
@@ -117,7 +118,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > “But you are a chosen race, a royal priesthood, a holy nation, God's own people, in order that you may proclaim the mighty acts of him who called you out of darkness into his marvelous light.” [1 Peter 2:9](/en/Bible/1_Peter/2#v9)
 
-## III. ELECTION
+### III. ELECTION
 
 > “Though they were not yet born and had done nothing either good or bad, in order that God’s purpose of election might continue, not because of works, but because of his call.” [Rom 9:11](/en/Bible/Romans/9#v11).
 > 
@@ -145,7 +146,7 @@ Notwithstanding all these teachings about predestination and election, Jesus unc
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Faith">Faith</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Hope">Hope</a></td>
 		</tr>
 		</tbody>

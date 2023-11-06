@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Gods_Eternal_Purpose">God's Eternal Purpose</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Justice">Justice</a></td>
 		</tr>
 		</tbody>
@@ -84,7 +84,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	> 
 	> “‘Seek not, then, for false peace and transient joy but rather for the assurance of faith and the sureties of divine sonship which yield composure, contentment, and supreme joy in the spirit.’” <a id="s84_197"></a>[UB 149:5.3](/en/The_Urantia_Book/149#p5_3) [Prov 28:1](/en/Bible/Proverbs/28#v1). [Is 57:20-21](/en/Bible/Isaiah/57#v20).
 3. Hope based on the Father’s overcare.
-	> “‘Consider the lilies, how they grow; they toil not, neither do they spin; yet I say to you, even Solomon in all his glory was not arrayed like one of these. If God so clothes the grass of the field, which is alive today and tomorrow is cut down and cast into the fire, how much more shall he clothe you, the ambassadors of the heavenly kingdom. O you of little faith! When you wholeheartedly devote yourselves to the proclamation of the gospel of the kingdom, you should not be of doubtful minds concerning the support of yourselves or the families you have forsaken. If you give your lives truly to the gospel, you shall live by the gospel. If you are only believing disciples, you must earn your own bread and contribute to the sustenance of all who teach and preach and heal. If you are anxious about your bread and water, wherein are you different from the nations of the world who so diligently seek such necessities? Devote yourselves to your work, believing that both the Father and I know that you have need of all these things. Let me assure you, once and for all, that, if you dedicate your lives to the work of the kingdom, all your real needs shall be supplied. Seek the greater thing, and the lesser will be found therein; ask for the heavenly, and the earthly shall be included. The shadow is certain to follow the substance.’” <a id="s86_1346"></a>[UB 165:5.3](/en/The_Urantia_Book/165#p5_3) [Luk[UB 12:27.28](/en/Bible/Luke/12#v27).
+	> “‘Consider the lilies, how they grow; they toil not, neither do they spin; yet I say to you, even Solomon in all his glory was not arrayed like one of these. If God so clothes the grass of the field, which is alive today and tomorrow is cut down and cast into the fire, how much more shall he clothe you, the ambassadors of the heavenly kingdom. O you of little faith! When you wholeheartedly devote yourselves to the proclamation of the gospel of the kingdom, you should not be of doubtful minds concerning the support of yourselves or the families you have forsaken. If you give your lives truly to the gospel, you shall live by the gospel. If you are only believing disciples, you must earn your own bread and contribute to the sustenance of all who teach and preach and heal. If you are anxious about your bread and water, wherein are you different from the nations of the world who so diligently seek such necessities? Devote yourselves to your work, believing that both the Father and I know that you have need of all these things. Let me assure you, once and for all, that, if you dedicate your lives to the work of the kingdom, all your real needs shall be supplied. Seek the greater thing, and the lesser will be found therein; ask for the heavenly, and the earthly shall be included. The shadow is certain to follow the substance.’” <a id="s86_1346"></a>[UB 165:5.3](/en/The_Urantia_Book/165#p5_3) [Luke 12:27-28](/en/Bible/Luke/12#v27).
 
 ## HOPE AS PRESENTED IN THE BIBLE
 
@@ -169,7 +169,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Gods_Eternal_Purpose">God's Eternal Purpose</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Justice">Justice</a></td>
 		</tr>
 		</tbody>

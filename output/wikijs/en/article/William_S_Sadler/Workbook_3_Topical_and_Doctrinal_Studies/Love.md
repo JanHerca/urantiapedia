@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Local_Universe_Sons">Local Universe Sons</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Machiventa_Melchizedek">Machiventa Melchizedek</a></td>
 		</tr>
 		</tbody>
@@ -157,7 +157,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. Sacrifice not required to enlist God’s love.
 	> “It is wrong to think of God as being coaxed into loving his children because of the sacrifices of his Sons or the intercession of his subordinate creatures, ‘for the Father himself loves you.’ It is in response to this paternal affection that God sends the marvelous Adjusters to indwell the minds of men. God’s love is universal; ‘whosoever will may come.’ He would ‘have all men be saved by coming into the knowledge of the truth.’ He is ‘not willing that any should perish.’
 	> 
-	> “The Creators are the very first to attempt to save man from the disastrous results of his foolish transgression of the divine laws. God’s love is by nature a fatherly affection; therefore does he sometimes ‘chasten us for our own profit, that we may be partakers of his holiness.’ Even during your fiery trials remember that ‘in all our afflictions he is afflicted with us.’” <a id="s159_380"></a>[UB 2:5.2-3](/en/The_Urantia_Book/2#p5_2) [John 16:27](/en/Bible/John/16#v27). [Acts 2:21](/en/Bible/Acts_of_the_Apostles/2#v21). [1 Tim 2:4](/en/Bible/1_Timothy/2#v4). [2 Peter 3:9](/en/Bible/2_Peter/3#v9). [He[UB 12:6.10](/en/Bible/Hebrews/12#v10). [Isa 63:9.](/en/Bible/Isaiah/63#v9)
+	> “The Creators are the very first to attempt to save man from the disastrous results of his foolish transgression of the divine laws. God’s love is by nature a fatherly affection; therefore does he sometimes ‘chasten us for our own profit, that we may be partakers of his holiness.’ Even during your fiery trials remember that ‘in all our afflictions he is afflicted with us.’” <a id="s159_380"></a>[UB 2:5.2-3](/en/The_Urantia_Book/2#p5_2) [John 16:27](/en/Bible/John/16#v27). [Acts 2:21](/en/Bible/Acts_of_the_Apostles/2#v21). [1 Tim 2:4](/en/Bible/1_Timothy/2#v4). [2 Peter 3:9](/en/Bible/2_Peter/3#v9). [Heb 12:6,10](/en/Bible/Hebrews/12#v6). [Isa 63:9](/en/Bible/Isaiah/63#v9).
 3. Origin of the atonement doctrine.
 	> “Righteousness implies that God is the source of the moral law of the universe. Truth exhibits God as a revealer, as a teacher. But love gives and craves affection, seeks understanding fellowship such as exists between parent and child. Righteousness may be the divine thought, but love is a father’s attitude. The erroneous supposition that the righteousness of God was irreconcilable with the selfless love of the heavenly Father, presupposed absence of unity in the nature of Deity and led directly to the elaboration of the atonement doctrine, which is a philosophic assault upon both the unity and the free-willness of God.” <a id="s161_633"></a>[UB 2:6.5](/en/The_Urantia_Book/2#p6_5)
 4. Atonement idea an insult to God.
@@ -303,7 +303,7 @@ On the whole, the Bible presents the Greek concept of love, and in so doing reco
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Local_Universe_Sons">Local Universe Sons</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Machiventa_Melchizedek">Machiventa Melchizedek</a></td>
 		</tr>
 		</tbody>

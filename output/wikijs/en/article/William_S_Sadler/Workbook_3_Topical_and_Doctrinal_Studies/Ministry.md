@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Mind_and_Spirit">Mind and Spirit</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Paradise">Paradise</a></td>
 		</tr>
 		</tbody>
@@ -66,7 +66,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. The far-flung Spirit ministry.
 	> “From the heights of eternal glory the divine Spirit descends, by a long series of steps, to meet you as you are and where you are and then, in the partnership of faith, lovingly to embrace the soul of mortal origin and to embark on the sure and certain retracement of those steps of condescension, never stopping until the evolutionary soul is safely exalted to the very heights of bliss from which the divine Spirit originally sallied forth on this mission of mercy and ministry.” <a id="s66_486"></a>[UB 34:6.3](/en/The_Urantia_Book/34#p6_3)
 4. The adjutant mind-spirits.
-	> “The seven adjutant mind-spirits are called by names which are the equivalents of the following designations: intuition, understanding, courage, knowledge, counsel, worship, and wisdom. These mind-spirits send forth their influence into all the inhabited worlds as a differential urge, each seeking receptivity capacity for manifestation quite apart from the degree to which its fellows may find reception and opportunity for function.” <a id="s68_440"></a>[UB 36:5.2](/en/The_Urantia_Book/36#p5_2) [Is[UB 11:2.3](/en/Bible/Isaiah/11#v2). [Rev 1:4](/en/Bible/Revelation/1#v4).
+	> “The seven adjutant mind-spirits are called by names which are the equivalents of the following designations: intuition, understanding, courage, knowledge, counsel, worship, and wisdom. These mind-spirits send forth their influence into all the inhabited worlds as a differential urge, each seeking receptivity capacity for manifestation quite apart from the degree to which its fellows may find reception and opportunity for function.” <a id="s68_440"></a>[UB 36:5.2](/en/The_Urantia_Book/36#p5_2) [Isa 11:2,3](/en/Bible/Isaiah/11#v2). [Rev 1:4](/en/Bible/Revelation/1#v4).
 
 ### V. THE HOST OF MINISTERING SPIRITS
 
@@ -256,7 +256,7 @@ See [Heb 1:7](/en/Bible/Hebrews/1#v7). “Of the angels he says, ‘who makes hi
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Mind_and_Spirit">Mind and Spirit</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Paradise">Paradise</a></td>
 		</tr>
 		</tbody>

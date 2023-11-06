@@ -13,7 +13,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 	<tbody>
 	  <tr>
 		<td><a href="/en/article/FAQ/About_Jesus">About Jesus</a></td>
-		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ#index">Index</a></td>
 		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
 	  </tr>
 	</tbody>
@@ -58,7 +58,7 @@ The Foundation promotes the study of _The Urantia Book_ and its teachings by enc
 	<tbody>
 	  <tr>
 		<td><a href="/en/article/FAQ/About_Jesus">About Jesus</a></td>
-		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ#index">Index</a></td>
 		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
 	  </tr>
 	</tbody>

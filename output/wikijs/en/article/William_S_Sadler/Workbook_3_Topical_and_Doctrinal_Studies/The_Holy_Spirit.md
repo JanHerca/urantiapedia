@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God">The Doctrine of God</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven">The Kingdom of Heaven</a></td>
 		</tr>
 		</tbody>
@@ -47,7 +47,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. The Spirit imparts life to doctrine.
 	> “The dead theory of even the highest religious doctrines is powerless to transform human character or to control mortal behavior. What the world of today needs is the truth which your teacher of old declared: ‘Not in word only but also in power and in the Holy Spirit.’ The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness.” <a id="s47_468"></a>[UB 34:6.6](/en/The_Urantia_Book/34#p6_6) [1 Cor 4:20](/en/Bible/1_Corinthians/4#v20).
 3. “You are the temple of God.”
-	> “Those who have received and recognized the indwelling of God have been born of the Spirit. ‘You are the temple of God, and the spirit of God dwells in you.’ It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience.” <a id="s49_297"></a>[UB 34:6.7](/en/The_Urantia_Book/34#p6_7) [1 Co[UB 3:16.17](/en/Bible/1_Corinthians/3#v16).
+	> “Those who have received and recognized the indwelling of God have been born of the Spirit. ‘You are the temple of God, and the spirit of God dwells in you.’ It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience.” <a id="s49_297"></a>[UB 34:6.7](/en/The_Urantia_Book/34#p6_7) [1 Cor 3:16-17](/en/Bible/1_Corinthians/3#v16).
 4. Holy Spirit as the “water of life.”
 	> “It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings ‘never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting.’ Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed.” <a id="s51_559"></a>[UB 34:6.8](/en/The_Urantia_Book/34#p6_8) [John 4:14](/en/Bible/John/4#v14).
 5. Ministration to man’s spiritual nature.
@@ -194,7 +194,7 @@ Holy Spirit, Holy Ghost, and the Spirit of God are used somewhat interchangeably
 		<tbody>
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God">The Doctrine of God</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#iIndex">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven">The Kingdom of Heaven</a></td>
 		</tr>
 		</tbody>
