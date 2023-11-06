@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendix XXVI. Functions of The Supreme-Ultimate</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -169,7 +169,7 @@ This statement suggests some manner of contact and functional relationship betwe
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendix XXVI. Functions of The Supreme-Ultimate</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe#index">Index</a></td>
         <td></td>
       </tr>
     </tbody>

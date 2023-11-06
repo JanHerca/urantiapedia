@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/12">Chapter XII – The Impossible Synthesis</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_in_Eternity">Epilogue in Eternity</a></td>
       </tr>
     </tbody>
@@ -140,7 +140,7 @@ We submit this has been a profitable study.
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/12">Chapter XII – The Impossible Synthesis</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_in_Eternity">Epilogue in Eternity</a></td>
       </tr>
     </tbody>

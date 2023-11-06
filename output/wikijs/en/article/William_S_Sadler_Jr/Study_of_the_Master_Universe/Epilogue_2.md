@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1">First Epilogue – The Final Universe Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings</a></td>
       </tr>
     </tbody>
@@ -175,7 +175,7 @@ Since we will never find God as infinite, it seems likely we will continue to �
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1">First Epilogue – The Final Universe Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings</a></td>
       </tr>
     </tbody>

@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_2">Second Epilogue – The Depths of the Final Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Afterword">Afterword</a></td>
       </tr>
     </tbody>
@@ -49,7 +49,7 @@ But still, we know the Infinite is there, that he is real, and that he is before
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_2">Second Epilogue – The Depths of the Final Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Afterword">Afterword</a></td>
       </tr>
     </tbody>

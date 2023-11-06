@@ -17,7 +17,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_in_Eternity">Epilogue in Eternity</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_2">Second Epilogue – The Depths of the Final Age</a></td>
       </tr>
     </tbody>
@@ -105,7 +105,7 @@ We believe the Third Level of the threefold Trinity will be occupied by the Univ
     <tbody>
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_in_Eternity">Epilogue in Eternity</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe#index">Index</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_2">Second Epilogue – The Depths of the Final Age</a></td>
       </tr>
     </tbody>
