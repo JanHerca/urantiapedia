@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRÜÜFID</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Manasse palve</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Manasse palve, tuntud ka kui Manasse palve, on 15 salmist koosnev lühike teos, mis salvestab Juuda kuningale Manassele omistatud patukahetsuspalve. Enamik teadlasi usub, et Manasse palve kirjutati kreeka keeles (samal kui vähemus vaidleb semiidi originaali poolt) teisel või esimesel sajandil eKr. On teada, et see võis olla kirjutatud ka 1. sajandi esimesel poolel pKr, kuid igal juhul enne Teise templi hävitamist 70. aastal pKr. Teine sama pealkirjaga heebrea keeles kirjutatud teos leiti Surnumere kirjarullide hulgast (4Q381:17).
 
 Manasse on Piiblis kirjas kui üks Juuda ebajumalakummardavamaid kuningaid (2. Kuningate 21:1–18; 2. Ajaraamat 33:1–9). Teises Ajaraamatus, kuid mitte teises Kuningate Raamatus, on kirjas, et assüürlased viisid Manasse vangi (2. Ajaraamat 33:11–13). Vangis olles palvetas Manasse halastust ning pärast vabastamist ja troonile ennistamist pöördus ebajumalakummardamise teelt (2. Ajaraamat 33:15–17). Viide palvele, kuid mitte palvele endale, on tehtud 2. Ajaraamatus 33:19, mis ütleb, et palve on kirjas "Iisraeli kuningate aastaraamatutes".

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Kolmas Moosese raamat</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 3. Moosese raamat (/lɪˈvɪtɪkəs/, vanakreeka keelest: Λευιτικόν, Leuïtikón; heebrea keeles: וַיִּקְרָא, Vana Testaraha, Vana Testarahhia, Vayyīqrāʾ), mida nimetatakse ka teotauchmentiks ja kolmandaks teoks. Kolmas Moosese raamat. Teadlased nõustuvad üldiselt, et see arenes pika aja jooksul, saavutades oma praeguse kuju Pärsia perioodil, aastatel 538–332 eKr.
 
 Enamik selle peatükke (1–7, 11–27) koosneb Jahve kõnedest Moosesele, mida Jahve käsib Moosesel iisraellastele korrata. See leiab aset iisraellaste väljarände loos pärast seda, kui nad põgenesid Egiptusest ja jõudsid Siinai mäele ([2Ms 19:1](/et/Bible/Exodus/19#v1)). 2. Moosese raamat jutustab, kuidas Mooses juhatas iisraellasi tabernaakli ehitamisel (2Ms 35–40) Jumala juhiste järgi ([2Ms 25–31](/et/Bible/Exodus/25)). Leviticuses räägib Jumal iisraellastele ja nende preestritele leviitidele, kuidas tabernaaklis ohvreid tuua ja kuidas käituda püha telgi pühamu ümber telkides. Leviticus leiab aset kuu või pooleteise kuu jooksul, mis jääb telgi valmimise ([2Ms 40:17](/et/Bible/Exodus/40#v17)) ja iisraellaste Siinailt lahkumise vahele (4Ms [1:1](/et/Bible/Numbers/1#v1), [10:11](/et/Bible/Numbers/10#v11)).

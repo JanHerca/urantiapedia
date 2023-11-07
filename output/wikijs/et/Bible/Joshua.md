@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Joosua raamat</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Joosua raamat (heebrea keeles: ספר יהושע Sefer Yehoshua) on kuues raamat heebrea piiblis ja kristlikus Vanas Testamendis ning esimene raamat deuteronomistlikust ajaloost, Iisraeli lugu Kaanani vallutamisest kuni Babüloonia pagenduseni. See räägib iisraellaste sõjakäikudest Kaanani kesk-, lõuna- ja põhjaosas, nende vaenlaste hävitamisest ja maa jagamisest kaheteistkümne hõimu vahel, mis on raamitud kahe kõnega, millest esimesena andis Jumal käsu vallutada Kaananis. maa ja lõpuks teine ​​Joosua hoiatas Moosesele ilmutatud Seaduse (toora) ustava järgimise vajadusest.
 
 Peaaegu kõik teadlased nõustuvad, et Joosua raamatul on varase Iisraeli jaoks vähe ajaloolist väärtust ja see peegeldab tõenäoliselt palju hilisemat perioodi. Raamatu varaseimad osad on võib-olla peatükid 2–11, vallutuslugu; need peatükid lisati hiljem Joosua varasesse vormi, mis on tõenäoliselt kirjutatud kuningas Josia valitsusaja lõpus (valitses 640–609 e.m.a), kuid raamat valmis alles pärast Jeruusalemma langemist Neo-Babüloonia impeeriumi alla aastal 586 e.m.a. ja võib-olla alles pärast Babüloonia pagendusest naasmist aastal 539 e.m.a.

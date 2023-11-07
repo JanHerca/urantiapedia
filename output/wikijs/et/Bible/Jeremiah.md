@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jeremija</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Jeremija raamat (heebrea: ספר יִרְמְיָהוּ) on teine ​​​​viimastest prohvetitest heebrea Piiblis ja teine ​​prohvetitest kristlikus Vanas Testamendis. Peatüki Jeremija 1:1–3 pealkiri määratleb raamatu kui „Hilkija poja Jeremija sõnad”. Kõigist prohvetitest tuleb Jeremija kõige selgemalt läbi inimesena, mõtledes oma kirjatundjale Baarukile tema rollist Jumala teenijana, pakkudes kuulajaskonnale vähe häid uudiseid.
 
 Tema raamat on mõeldud sõnumiks Babüloonias paguluses viibivatele juutidele, selgitades paguluse katastroofi kui Jumala vastust Iisraeli paganlikule jumalateenistusele: rahvas, ütleb Jeremija, on nagu truudusetu naine ja mässumeelsed lapsed, nende truudusetus ja mässumeelsus muutis kohtumõistmise vältimatuks. , kuigi on ette nähtud taastamist ja uut lepingut. Tõenäoliselt leidub Jeremija autentseid oraakle peatükkide 1–25 poeetilistes osades, kuid raamatut tervikuna on prohveti järgijad (sealhulgas võib-olla tema kaaslane, kirjatundja Baaruk) ja hilisemad põlvkonnad palju toimetanud ja täiendanud. Deuteronomistid.

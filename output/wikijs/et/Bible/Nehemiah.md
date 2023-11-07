@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Nehemja raamat</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Heebrea Piibli Nehemja raamat on suures osas esimeses isikus memuaaride vormis, mis käsitleb Jeruusalemma müüride ülesehitamist pärast Babüloonia pagendust Nehemja, juudi poolt, kes on Pärsia õukonna kõrge ametnik, ja pühakoja pühitsemist. linn ja selle inimesed Jumala seadustele (Toora). Alates 16. sajandist on seda Piiblis üldiselt käsitletud eraldi raamatuna. Enne seda kuupäeva oli see lisatud Esra raamatusse; kuid ladina kristlikes piiblites alates 13. sajandist jagati Esra Vulgata raamat kaheks tekstiks, mida nimetatakse vastavalt Esra esimeseks ja teiseks raamatuks; eraldamine, mis kanoniseeriti esimeste heebrea ja ladinakeelsete piiblitega. 16. sajandi keskpaigas Genfis valminud reformeeritud protestantlikud piiblitõlked olid esimesed, mis tutvustasid tekstile, mida varem nimetati "Esra teiseks raamatuks", nime "Nehemja raamat".
 
 ## Index

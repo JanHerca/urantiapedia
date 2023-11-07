@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Saalomoni Õpetus- e Vanasõnad</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Õpetussõnade raamat (heebrea: מִשְלֵי, Mīšlē, “Õpetussõnad (Saalomoni)”) on heebrea piibli kolmandas osas (nimetatakse Ketuvim) ja kristliku Vana Testamendi raamat. Kreeka ja ladina keelde tõlgituna võttis pealkiri erineva kuju: kreeka Septuagintas (LXX) sai sellest Παροιμίαι (Paroimiai, “Õpetussõnad”); ladina Vulgatas oli pealkiri Proverbia, millest tuleneb ka ingliskeelne nimi.
 
 Vanasõnad ei ole pelgalt antoloogia, vaid „kogude kogu”, mis on seotud enam kui aastatuhande kestnud elumustriga. See on näide piiblitarkuskirjandusest ja tõstatab küsimusi väärtuste, moraalse käitumise, inimelu mõtte ja õige käitumise kohta ning selle teoloogiline alus on, et "Jumala kartus (mis tähendab allumist Jumala tahtele) tarkuse algus”. Tarkust kiidetakse tema rolli eest loomingus; Jumal omandas ta enne kõike muud ja andis tema kaudu käsu kaosele; ja kuna inimestel on elu ja õitseng loomiskorrale vastamise kaudu, on tarkuse otsimine elu olemus ja eesmärk.

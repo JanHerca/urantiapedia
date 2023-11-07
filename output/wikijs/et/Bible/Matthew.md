@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matteuse evangeelium</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Matteuse evangeelium on Piibli Uue Testamendi esimene raamat ja üks kolmest sünoptilisest evangeeliumist. See räägib, kuidas Iisraeli Messias Jeesus tuleb oma rahva juurde ja moodustab jüngrite kogukonna, kuidas ta õpetas rahvast selliste sündmuste kaudu nagu mäejutlus ja selle õndsussõnad ning kuidas Iisrael jaguneb ja kuidas Jeesus selle vaenuliku Iisraeli hukka mõistab. . See kulmineerub tema templist lahkumise ja hukkamisega. Sel hetkel lükkavad paljud inimesed Jeesuse tagasi ja tema ülestõusmisel saadab ta jüngrid paganate juurde.
 
 Matteus näib rõhutavat, et juudi traditsioon ei tohiks kaduda koguduses, mis muutus üha enam paganamateks. Evangeelium peegeldab võitlusi ja konflikte evangelistide kogukonna ja teiste juutide vahel, eriti terava kriitikaga kirjatundjate ja variseride suhtes seisukohaga, et nende Kristuse tagasilükkamise tõttu on Jumala riik neilt ära võetud ja selle asemel antud. kirik. Jeesuse jumalik olemus oli Mattaea kogukonna jaoks suur probleem, see on oluline element, mis eraldas algkristlasi nende juutidest naabritest; Kui Markus alustab Jeesuse ristimisest ja kiusatustest, siis Matteus läheb tagasi Jeesuse päritolu juurde, näidates teda Jumala Pojana alates tema sünnist, Vana Testamendi messiastlike ennustuste täitumisest. Tiitel Taaveti poeg identifitseerib Jeesust kui Iisraeli tervendavat ja imesid tegevat Messiat (seda kasutatakse eranditult imede kohta), kes saadeti üksi Iisraeli. Inimese Pojana naaseb ta maailma üle kohut mõistma – ootus, mida tema jüngrid tunnevad, kuid millest ta vaenlased ei tea. Jumala Pojana ilmutab Jumal end oma poja kaudu ja Jeesus tõestab oma poega oma kuulekuse ja eeskuju kaudu.

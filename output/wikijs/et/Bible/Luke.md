@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Luuka evangeelium</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Luuka evangeelium räägib Jeesuse Kristuse päritolust, sünnist, teenimisest, surmast, ülestõusmisest ja taevaminemisest. Koos Apostlite tegudega moodustab see kaheköitelise teose, mida teadlased kutsuvad Luuka tegudeks, moodustades 27,5% Uuest Testamendist. Kombineeritud töö jagab esimese sajandi kristluse ajaloo kolme etappi, millest kaks esimest moodustab evangeelium – Jeesuse Messia elu tema sünnist kuni tema misjoni alguseni kohtumisel Ristija Johannesega, millele järgneb. oma teenistuse kaudu selliste sündmustega nagu tasandikujutlus ja selle õndsussõnad ning tema kannatus, surm ja ülestõusmine.
 
 Enamik tänapäeva õpetlasi nõustub, et Luuka jaoks kasutatud peamised allikad olid a), Markuse evangeelium, b), hüpoteetiline ütluste kogu, mida nimetatakse Q-allikaks, ja c) materjal, mida ei leitud ühestki teisest evangeeliumist, mida sageli nimetatakse L ( Luke jaoks) allikas. Autor on anonüümne; Traditsioonilist seisukohta, et see oli evangelist Luukas, Pauluse kaaslane, esitatakse ikka aeg-ajalt, kuid teadlaste konsensus rõhutab paljusid vastuolusid Apostlite tegude ja autentsete Pauluse kirjade vahel. Selle koostamise kõige tõenäolisem dateerimine on umbes 80–110 pKr ja on tõendeid selle kohta, et seda muudeti veel 2. sajandil.

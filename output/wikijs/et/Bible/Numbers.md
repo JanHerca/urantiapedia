@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Neljas Moosese raamat</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Numbrite raamat (kreeka keelest Ἀριθμοί, Arithmoi; heebrea keeles: בְּמִדְבַּר, Bəmīḏbar, “Kõrbes [of]”) on heebrea piibli neljas raamat ja neljas juudi Toora raamatust. Raamatul on pikk ja keeruline ajalugu; selle lõplik vorm on tõenäoliselt tingitud jahvistliku allika preesterlikust redaktsioonist (st redigeerimisest), mis tehti mõnda aega Pärsia perioodi alguses (5. sajand eKr). Raamatu nimi pärineb kahest iisraellaste loendusest.
 
 Numbers algab Siinai mäelt, kus iisraellased on saanud oma seadused ja lepingu Jumalalt ning Jumal on asunud nende sekka pühamusse elama. Nende ees seisev ülesanne on tõotatud maa enda valdusesse võtta. Inimesed loetakse üle ja valmistutakse marsi jätkamiseks. Iisraellased alustavad teekonda, kuid nad "nurisevad" teel tekkinud raskuste ning Moosese ja Aaroni autoriteedi üle. Nende tegude eest hävitab Jumal erinevate vahenditega umbes 15 000 neist. Nad jõuavad Kaanani piirile ja saadavad maale spioonid. Kuuldes spioonide hirmutavat aruannet Kaanani olude kohta, keelduvad iisraellased seda oma valdusse võtmast. Jumal mõistab nad kõrbes surma, kuni uus põlvkond saab üles kasvada ja ülesannet täita.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apostlite teod</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Apostlite teod (Koinē kreeka keeles Πράξεις Ἀποστόλων, Práxeis Apostólōn; ladina keeles Actūs Apostolōrum) on Uue Testamendi viies raamat; see räägib kristliku kiriku asutamisest ja selle sõnumi levitamisest Rooma impeeriumile. See annab ülevaate Kristuse apostlite teenimisest ja tegevusest Jeruusalemmas ja teistes piirkondades pärast Kristuse surma, ülestõusmist ja taevaminekut.
 
 Apostlite teod ja Luuka evangeelium moodustavad kaheosalise teose Luukas – Apostlite teod samalt anonüümselt autorilt. Tavaliselt on see dateeritud umbes aastasse 80–90 pKr, kuigi mõned teadlased väidavad, et 90–110. Esimene osa, Luuka evangeelium, räägib sellest, kuidas Jumal täitis oma plaani maailma päästmiseks tõotatud messia Naatsareti Jeesuse elu, surma ja ülestõusmise kaudu. Apostlite teod jätkab kristluse lugu 1. sajandil, alustades Jeesuse taevasseminekust. Varased peatükid, mis asetsevad Jeruusalemmas, kirjeldavad nelipühipäeva (Püha Vaimu tulekut) ja koguduse kasvu Jeruusalemmas. Esialgu on juudid kristliku sõnumi vastuvõtlikud, kuid hiljem pöörduvad nad Jeesuse järgijate vastu. Juutide poolt tagasi lükatud sõnum viiakse apostel Pauluse juhendamisel paganateni. Hilisemates peatükkides räägitakse Pauluse pöördumisest, tema missioonist Väike-Aasias ja Egeuse merel ning lõpuks tema vangistusest Roomas, kus raamatu lõppedes ootab teda kohut.

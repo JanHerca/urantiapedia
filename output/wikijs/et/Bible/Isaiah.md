@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jesaja</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Jesaja raamat (heebrea: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) on esimene viimastest prohvetitest heebrea piiblis ja esimene suurematest prohvetitest kristlikus Vanas Testamendis. Pealkirja järgi on see 8. sajandil e.m.a prohveti Isaiah ben Amozi sõnad, kuid on palju tõendeid selle kohta, et suur osa sellest koostati Babüloonia vangistuse ajal ja hiljem. Johann Christoph Döderlein pakkus 1775. aastal, et raamat sisaldas kahe prohveti teoseid, mida lahutab enam kui sajand, ja Bernhard Duhm lähtus seisukohast, mis oli enamuse 20. sajandist üksmeelel, et raamat sisaldab kolme eraldi oraaklite kogu: Proto-Jesaja (peatükid 1–39), mis sisaldab 8. sajandi eKr prohvet Jesaja sõnu; Deutero-Jesaja (peatükid 40–55), 6. sajandi e.m.a anonüümse autori töö, kes kirjutas eksiili ajal; ja Trito-Jesaiah (peatükid 56–66), mis on loodud pärast pagulusest naasmist. Jesaja 1–33 lubab Juuda, Jeruusalemma ja rahvaste jaoks kohtumõistmist ja taastamist ning peatükkides 34–66 eeldatakse, et kohus on kuulutatud ja taastamine järgneb peagi. Kuigi tänapäeval ei omista praktiliselt ükski teadlane kogu raamatut või isegi suuremat osa sellest ühele inimesele, on raamatu olemuslik ühtsus saanud uuemate uuringute keskmeks.
 
 Raamatut võib lugeda laiendatud mõtisklusena Jeruusalemma saatusest pagulusse ja pärast seda. Raamatu Deutero-Jesaia osa kirjeldab, kuidas Jumal muudab Jeruusalemma oma ülemaailmse võimu keskpunktiks kuningliku päästja (messia) kaudu, kes hävitab rõhuja (Babüloni); see messias on Pärsia kuningas Kyros Suur, kes on vaid agent, kes toob kaasa Jahve kuningavõimu. Jesaja räägib korrumpeerunud juhtide ja ebasoodsas olukorras olevate inimeste vastu ning juurutab õiguse pigem Jumala pühaduses kui Iisraeli lepingus.

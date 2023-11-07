@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Toobit</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Toobi raamat (/ˈtoʊbɪt/), tuntud ka kui Tobiase raamat või Tobi raamat, on 3. või 2. sajandi alguses eKr juudi teos, mis kirjeldab, kuidas Jumal paneb usklikud proovile, vastab palvetele ja kaitseb lepingukogukonda ( st iisraellased). See räägib kahest Iisraeli perekonnast, pimedast Tobitist Niinives ja mahajäetud Saarast Ekbatanas. Tobiti poeg Tobias saadetakse välja tooma kümmet hõbetalenti, mis Tobit kunagi Meedia linna Ragesesse jättis; ingel Rafaeli juhendamisel ja abiga jõuab ta Ecbatanasse, kus kohtub Saaraga. Deemon nimega Asmodeus on temasse armunud ja tapab kõik, kellega ta kavatseb abielluda, kuid Raphaeli abiga deemon välja aetakse ning Tobias ja Saara abielluvad, misjärel nad naasevad Niinivesse, kus Tobit saab oma pimedusest terveks.
 
 Raamat kuulub katoliku ja õigeusu kaanonitesse, kuid mitte juudi kaanonitesse; protestantlik traditsioon paigutab selle apokrüüfide hulka, kusjuures anabaptistid, luterlased, anglikaanid ja metodistid peavad seda kasulikuks ülesehitamise ja liturgia eesmärkidel, kuigi staatuselt mittekanooniline. Valdav enamus teadlasi peab seda ilukirjanduslikuks teoseks, millel on mõned ajaloolised viited.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">PIIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bible of Anton thor Helle, 1739</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hesekiel</text>
+	</g>
+</svg>
+</div>
+
+## Kirjeldus
+
+
 Hesekieli raamat on Tanakhis viimatinimetatud prohvetitest kolmas ja Jesaja ja Jeremija järel üks suuremaid prohvetlikke raamatuid. Raamatu enda andmetel on selles kirjas kuus nägemust Babülooniasse pagendatud prohvet Hesekielist 22 aasta jooksul 593–571 e.m.a, kuigi see on pika ja keerulise ajaloo tulemus ning ei pruugi säilitada prohvet Hesekieli sõnu. prohvet.
 
 Visioonid ja raamat on üles ehitatud kolme teema ümber: (1) Kohtuotsus Iisraeli kohta (peatükid 1–24); (2) Kohtuotsus rahvaste üle (peatükid 25–32); ja (3) Iisraeli tulevased õnnistused (peatükid 33–48). Selle teemad hõlmavad kontseptsioone Jumala kohalolekust, puhtusest, Iisraelist kui jumalikust kogukonnast ja individuaalsest vastutusest Jumala ees. Selle hilisem mõju on hõlmanud müstiliste ja apokalüptiliste traditsioonide arengut Teises templis ning rabinlikku judaismi ja kristlust.
