@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evankeliumi</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Luukkaan mukaan</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Luukkaan evankeliumi kertoo Jeesuksen Kristuksen alkuperästä, syntymästä, palveluksesta, kuolemasta, ylösnousemuksesta ja taivaaseenastumista. Yhdessä Apostolien tekojen kanssa se muodostaa kaksiosaisen teoksen, jota tutkijat kutsuvat Luukas-Apostolien teoiksi, ja sen osuus Uudesta testamentista on 27,5 %. Yhdistetty teos jakaa ensimmäisen vuosisadan kristinuskon historian kolmeen vaiheeseen, joista evankeliumi muodostaa kaksi ensimmäistä vaihetta – Jeesuksen Messiaan elämä hänen syntymästään hänen lähetystyönsä alkuun tapaamisessa Johannes Kastajan kanssa, jota seurasi. hänen palvelutyönsä kautta tapahtumiin, kuten tasangon saarna ja sen autuaaksi sekä hänen kärsimyksensä, kuolemansa ja ylösnousemuksensa.
 
 Useimmat nykyajan tutkijat ovat yhtä mieltä siitä, että tärkeimmät Luukkaan käytetyt lähteet olivat a), Markuksen evankeliumi, b), hypoteettinen sanontakokoelma, jota kutsutaan Q-lähteeksi, ja c), materiaalia, jota ei löydy muista evankeliumeista ja jota usein kutsutaan nimellä L ( Luke) lähde. Kirjoittaja on anonyymi; perinteinen näkemys siitä, että se oli evankelista Luukas, Paavalin seuralainen, esitetään edelleen toisinaan, mutta tieteellinen konsensus korostaa monia ristiriitoja Apostolien tekojen ja aitojen Paavalin kirjeiden välillä. Sen koostumuksen todennäköisin ajankohta on noin 80–110 jKr., ja on näyttöä siitä, että sitä tarkistettiin vielä pitkälle 2. vuosisadalle. 

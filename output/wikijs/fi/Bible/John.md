@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evankeliumi</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Johanneksen mukaan</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Johanneksen evankeliumi (muinaiskreikaksi: Εὐαγγέλιον κατὰ Ἰωάννην, romanisoitu: Euangélion katà Iōánnēn) on neljäs neljästä kanonisesta evankeliumista. Se sisältää erittäin kaavamaisen kuvauksen Jeesuksen palveluksesta, ja seitsemän "merkkiä" huipentui Lasaruksen ylösnousemukseen (ennakoi Jeesuksen ylösnousemusta) ja seitsemän "minä olen" -diskurssia (koskivat kirkon ja synagogan välisen keskustelun kysymyksiä tuolloin sävellys) huipentui Tuomaan julistukseen ylösnousseesta Jeesuksesta "Herrani ja Jumalani". Evankeliumin loppujakeet määrittelevät sen tarkoituksen, ”että te uskoisitte, että Jeesus on Kristus, Jumalan Poika, ja että teillä uskossa olisi elämä hänen nimessään”.
 
 Johannes saavutti lopullisen muotonsa noin 90–110 jKr., vaikka se sisältää merkkejä alkuperästä, jotka ovat peräisin 70 jKr. ja mahdollisesti jopa aikaisemminkin. Kuten kolme muuta evankeliumia, se on anonyymi, vaikka siinä yksilöidään nimetön "opetuslapsi, jota Jeesus rakasti" perinteidensä lähteeksi. Se syntyi mitä todennäköisimmin "johannilaisessa yhteisössä", ja - koska se liittyy tyyliltään ja sisällöltään läheisesti kolmeen Johannine-kirjeeseen - useimmat tutkijat pitävät neljää kirjaa Ilmestyskirjan ohella yhtenä johannilaisen kirjallisuuden kokonaisuutena. tosin ei samalta kirjoittajalta. 

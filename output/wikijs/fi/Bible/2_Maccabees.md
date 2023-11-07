@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Toinen</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">makkabilaiskirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 2 Maccabees, joka tunnetaan myös nimellä Toisena Makkabeuksen kirjana, Toinen Maccabees ja lyhennettynä 2 Macc., on deuterokanoninen kirja, joka kertoo juutalaisten vainosta kuningas Antiokhos IV Epiphanesin aikana ja makkabealaisten kapinasta häntä vastaan. Se päättyy Seleukidi-imperiumin kenraalin Nikanorin tappioon vuonna 161 eaa. Juudas Makkabeus, Makkabien johtaja.
 
 2 Makkabeat kirjoitti alun perin koine-kreikaksi tuntematon diasporajuutalainen, joka asui hellenistisessä Egyptissä. Se kirjoitettiin todennäköisesti joskus 150-120 eKr. Yhdessä 1 Maccabees -kirjan kanssa se on yksi Maccabean kapinan tärkeimmistä lähteistä. Teos ei ole jatkoa teokselle 1 Maccabees, vaan sen oma itsenäinen esitys Maccabean kapinan historiallisista tapahtumista. Se sekä aloittaa että lopettaa historiansa aikaisemmin kuin 1 Makkabia, alkaen tapauksesta, jossa seleukidivirkailija Heliodorus yritti verottaa toista temppeliä vuonna 178 eKr., ja päättyen Adasan taisteluun vuonna 161 eaa. Jotkut tutkijat uskovat, että kirja on saanut vaikutteita farisealaisesta perinteestä, ja sen osiot sisältävät rukouksen kuolleiden puolesta ja kuolleiden ylösnousemuksen.

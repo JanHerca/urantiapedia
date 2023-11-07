@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Kolmas</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Mooseksen kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Leviticuksen kirja (/lɪˈvɪtɪkəs/, muinaisesta kreikasta: Λευιτικόν, Leuïtikón; heprea: וַיִּקְרָא, Vanha Testa, Vayyīqrāʾ, joka tunnetaan myös Pentauchmentin kirjana ja Toteuchin kolmas kirja) on "And Hän" Kolmas Mooseksen kirja. Tutkijat ovat yleensä yhtä mieltä siitä, että se kehittyi pitkän ajan kuluessa ja saavutti nykyisen muotonsa persialaisella kaudella, vuosina 538–332 eaa.
 
 Suurin osa sen luvuista (1–7, 11–27) koostuu Jahven puheista Moosekselle, jotka Jahve käskee Moosesta toistamaan israelilaisille. Tämä tapahtuu tarinassa israelilaisten maastamuutosta sen jälkeen, kun he pakenivat Egyptistä ja saavuttivat Siinainvuoren ([2.Moos. 19:1](/fi/Bible/Exodus/19#v1)). Mooseksen kirja kertoo, kuinka Mooses johti israelilaisia ​​rakentamaan tabernaakkelia (2. Moos. 35–40) Jumalan ohjeiden mukaan ([2. Moos. 25–31](/fi/Bible/Exodus/25)). Mooseksen kirjassa Jumala kertoo israelilaisille ja heidän papeilleen, leeviläisille, kuinka uhrata tabernaakkelissa ja kuinka käyttäytyä leiriytyessään pyhän telttapyhäkön ympärillä. Leviticus tapahtuu kuukauden tai puolentoista kuukauden aikana tabernaakkelin valmistumisen ([2. Moos. 40:17](/fi/Bible/Exodus/40#v17)) ja israelilaisten Siinailta lähtemisen [4. Moos. 1:1](/fi/Bible/Numbers/1#v1), [10:11](/fi/Bible/Numbers/10#v11)).

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Sirakin kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Sirakin kirja (/ˈsaɪræk/) tai Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/; lyhennetty Ecclus.) on juutalainen teos, alunperin hepreaksi, eettisistä opetuksista, suunnilleen vuosina 200–175 eKr., jonka on kirjoittanut jeraalainen benusealainen kirjanoppinut. , isänsä Joosuan, Sirakin pojan, innoittamana, jota joskus kutsutaan Jeesukseksi Sirakin pojaksi tai Yeshua ben Eliezer ben Siraksi. 
 
 Egyptissä sen käänsi kreikaksi kirjailijan nimetön pojanpoika, joka lisäsi prologin. Tätä prologia pidetään yleensä varhaisimpana todistajana profeettojen kirjojen kaanonista [tarvitaan selvennystä], ja siksi tekstin päivämäärä on intensiivisen tarkastelun kohteena. Itse kirja on suurin antiikin viisauskirja, joka on säilynyt.

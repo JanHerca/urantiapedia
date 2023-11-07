@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Toinen</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Mooseksen kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Exodus-kirja (muinaisesta kreikasta: Ἔξοδος, latinoitu: Éxodos; heprea: שְׁמוֹת Šəmōṯ, "Nimet") on Raamatun toinen kirja. Se kertoo tarinan Exodusista, jossa israelilaiset jättävät orjuuden raamatulliseen Egyptiin Jahven voimalla, joka on valinnut heidät kansakseen. Sitten israelilaiset matkustavat profeetta Mooseksen kanssa Siinain vuorelle, missä Jahve antaa 10 käskyä ja he tekevät liiton Jahven kanssa, joka lupaa tehdä heistä "pyhän kansan ja pappien valtakunnan" sillä ehdolla, että he ovat uskollisia. Hän antaa heille lait ja ohjeet rakentaa tabernaakkeli, keinot, joilla hän tulee taivaasta ja asuu heidän kanssaan ja johtaa heidät pyhään sotaan ottaakseen haltuunsa Kanaanin maan ("luvatun maan"), joka oli aiemmin Genesiksen kertomuksen mukaan on luvattu Aabrahamin siemenelle.
 
 Perinteisesti itse Moosekseksi katsottu nykyajan tutkijat näkevät sen alkuperäisen koostumuksen Babylonin maanpaossa (6. vuosisadalla eaa.) perustuvana aikaisempiin kirjallisiin lähteisiin ja suullisiin perinteisiin, joita on tarkistettu Persian maanpaon jälkeisellä ajalla (5. vuosisadalla eaa.). Carol Meyers Exoduksen kommentissaan ehdottaa, että se on kiistatta Raamatun tärkein kirja, koska se esittelee Israelin identiteetin määrittäviä piirteitä – muistoja menneisyydestä, jolle on leimattu vaikeuksia ja pakoa, sitova liitto Jumalan kanssa, joka valitsee Israel ja yhteisön elämän perustaminen ja sen ylläpitämisen suuntaviivat. Nykyajan tutkijat ovat yksimielisiä siitä, että Exoduksen kirjan tarina ymmärretään parhaiten myyttinä.

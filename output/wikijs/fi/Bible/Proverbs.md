@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Sananlaskujen kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Sananlaskujen kirja (heprea: מִשְלֵי, Mīšlē, "Sananlaskut (Salomon)") on kirja heprealaisen Raamatun kolmannessa osassa (nimeltään Ketuvim) ja kristillisen Vanhan testamentin kirja. Kreikaksi ja latinaksi käännettynä otsikko otti eri muodot: Kreikan Septuaginta (LXX) muuttui Παροιμίαι (Paroimiai, "Sananlaskut"); latinalaisessa Vulgatassa otsikko oli Proverbia, josta englanninkielinen nimi on johdettu.
 
 Sananlaskut eivät ole vain antologia, vaan ”kokoelma”, joka liittyy yli vuosituhannen kestäneeseen elämäntapaan. Se on esimerkki raamatullisesta viisauskirjallisuudesta ja herättää kysymyksiä arvoista, moraalisesta käyttäytymisestä, ihmisen elämän tarkoituksesta ja oikeasta käytöksestä, ja sen teologinen perusta on, että "Jumalan pelko (tarkoittaa alistumista Jumalan tahtoon) viisauden alku". Viisautta ylistetään hänen roolistaan ​​luomisessa; Jumala hankki hänet ennen kaikkea ja antoi hänen kauttaan järjestyksen kaaokselle; ja koska ihmisillä on elämä ja vauraus mukautumalla luomisjärjestykseen, viisauden etsiminen on elämän ydin ja päämäärä. 

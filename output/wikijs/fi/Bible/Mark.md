@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evankeliumi</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Markuksen mukaan</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Markuksen evankeliumi on toinen neljästä kanonisesta evankeliumista ja kolmesta synoptisesta evankeliumista. Se kertoo Jeesuksen palvelutyöstä Johannes Kastajan kasteesta hänen kuolemaansa, hautaamiseen ja hänen tyhjän haudansa löytämiseen. Ei ole olemassa ihmeellistä syntymää tai oppia jumalallisesta olemassaolosta, eikä alkuperäisessä lopussa (Mark. 16:1–8) mitään Jeesuksen ylösnousemuksen jälkeistä ilmestymistä. Se kuvaa Jeesusta opettajana, manaajana, parantajana ja ihmeidentekijänä. Hän kutsuu itseään Ihmisen Pojaksi. Häntä kutsutaan Jumalan Pojaksi, mutta hän pitää messiaanisen luontonsa salassa; edes hänen opetuslapsensa eivät ymmärrä häntä. Kaikki tämä on sopusoinnussa kristillisen profetian tulkinnan kanssa, jonka uskotaan ennustavan messiaan kohtaloa kärsivänä palvelijana. Evankeliumi päättyy alkuperäisessä versiossaan tyhjän haudan löytämiseen,
 
 Useimmat tutkijat ajoittavat Markuksen n. 66–74 jKr, joko vähän ennen toisen temppelin tuhoa vuonna 70 jKr. tai sen jälkeen. He torjuvat perinteisen evankelista Markuksen, apostoli Pietarin kumppanin, nimityksen, joka luultavasti johtui varhaiskristittyjen halusta yhdistää teos arvovaltaiseen henkilöön, ja uskovat sen olevan kirjailijan työ, joka työskentelee useiden lähteiden kanssa, kuten kokoelmat ihmetarinoita, kiistatarinoita, vertauksia ja intohimokertomusta. Se sijoitettiin perinteisesti toiseksi ja joskus neljänneksi kristillisessä kaanonissa huonompana lyhenteenä tärkeimpänä evankeliumina pidetystä Matteuksesta; Seurakunta on siis saanut näkemyksensä Jeesuksesta ensisijaisesti Matteuksesta, toissijaisesti Johannekselta ja vain kaukaa Markuksesta.

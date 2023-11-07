@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Miikan kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Miikan kirja on kuudes heprealaisen Raamatun kahdestatoista pienemmistä profeetoista. Näennäisesti se tallentaa Miikan, jonka nimi on Mikayahu (heprea: מִיכָיָ֫הוּ), joka tarkoittaa "Kuka on kuin Jahve?", 8. vuosisadalla eaa. peräisin oleva profeetta Juudassa sijaitsevasta Moresetin kylästä (ימההההוּ) sanat. המרשתי). 
 
 Kirjassa on kolme suurta jakoa, luvut 1–2, 3–5 ja 6–7, joista jokainen alkaa sanalla "Kuule", ja jokaisessa jaossa on vuorottelevia tuomioilmoituksia ja toivon ilmauksia. Miika moittii epäoikeudenmukaisia ​​johtajia, puolustaa köyhien oikeuksia rikkaita ja voimakkaita vastaan; samalla kun odotamme innolla rauhallista maailmaa, jonka keskipisteenä on Siion, uuden Daavid-monarkin johdolla.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tobitin kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Tobitin kirja (/ˈtoʊbɪt/), joka tunnetaan myös nimellä Tobiaksen kirja tai Tobin kirja, on 3. vuosisadalla tai 2. vuosisadalla eKr. juutalainen teos, joka kuvaa kuinka Jumala koettelee uskollisia, vastaa rukouksiin ja suojelee liiton yhteisöä ( eli israelilaiset). Se kertoo kahdesta israelilaisperheestä, sokeasta Tobitista Ninivessä ja hylätystä Saarasta Ekbatanassa. Tobitin poika Tobias lähetetään hakemaan kymmenen hopealahjakkuutta, jotka Tobit kerran jätti Ragesiin, Median kaupunkiin. Enkeli Rafaelin ohjaamana ja avustamana hän saapuu Ekbatanaan, jossa hän tapaa Saaran. Demoni nimeltä Asmodeus on rakastunut häneen ja tappaa kenet tahansa, jonka hän aikoo mennä naimisiin, mutta Rafaelin avulla demoni karkotetaan ja Tobias ja Saara menevät naimisiin, minkä jälkeen he palaavat Niniveen, missä Tobit parannetaan sokeudesta.
 
 Kirja sisältyy katolisiin ja ortodoksisiin kanoniin, mutta ei juutalaisiin; protestanttinen perinne sijoittaa sen apokryfeihin, ja anabaptistit, luterilaiset, anglikaanit ja metodistit pitävät sitä hyödyllisenä rakennus- ja liturgiatarkoituksiin, vaikkakin ei-kanonisena. Suurin osa tutkijoista tunnustaa sen kaunokirjalliseksi teokseksi, jossa on joitain historiallisia viittauksia.

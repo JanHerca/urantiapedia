@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apostolien teot</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Apostolien teot (Koinē kreikaksi: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latinaksi: Actūs Apostolōrum) on Uuden testamentin viides kirja; se kertoo kristillisen kirkon perustamisesta ja sen sanoman leviämisestä Rooman valtakuntaan. Se kertoo Kristuksen apostolien palvelusta ja toiminnasta Jerusalemissa ja muilla alueilla Kristuksen kuoleman, ylösnousemuksen ja taivaaseenastumisen jälkeen.
 
 Apostolien teot ja Luukkaan evankeliumi muodostavat kaksiosaisen teoksen, Luukas – Apostolien teot, samalta nimettömältä kirjoittajalta. Se on yleensä ajoitettu noin vuosille 80–90 jKr, vaikka jotkut tutkijat ehdottavatkin vuosia 90–110. Ensimmäinen osa, Luukkaan evankeliumi, kertoo, kuinka Jumala täytti suunnitelmansa maailman pelastukseksi Jeesuksen Nasaretilaisen, luvatun messiaan, elämän, kuoleman ja ylösnousemuksen kautta. Apostolien teot jatkaa 1. vuosisadan kristinuskon tarinaa, joka alkaa Jeesuksen taivaaseennousemisesta. Varhaiset luvut, jotka sijoittuvat Jerusalemiin, kuvaavat helluntaipäivää (Pyhän Hengen tulemista) ja Jerusalemin seurakunnan kasvua. Aluksi juutalaiset ottavat vastaan ​​kristillisen sanoman, mutta myöhemmin he kääntyvät Jeesuksen seuraajia vastaan. Juutalaisten hylkäämänä sanoma viedään pakanoille apostoli Paavalin johdolla. Myöhemmät luvut kertovat Paavalin kääntymyksestä, hänen lähetystyöstään Vähässä-Aasiassa ja Egeanmerellä ja lopuksi hänen vangitsemisestaan ​​Roomassa, jossa hän odottaa oikeudenkäyntiä kirjan päättyessä.

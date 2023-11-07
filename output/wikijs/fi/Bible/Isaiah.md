@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jesajan kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Jesajan kirja (heprea: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) on ensimmäinen myöhemmistä profeetoista heprealaisessa Raamatussa ja ensimmäinen suurista profeetoista kristillisessä Vanhassa testamentissa. Se tunnistetaan yläkirjoituksesta 800-luvulla eaa. eläneen profeetta Isaiah ben Amozin sanoiksi, mutta on olemassa laajaa näyttöä siitä, että suuri osa siitä on sävelletty Babylonin vankeuden aikana ja myöhemmin. Johann Christoph Döderlein ehdotti vuonna 1775, että kirja sisälsi kahden profeetan teoksia, joita erottaa yli vuosisata, ja Bernhard Duhm sai aikaan näkemyksen, joka vallitsi suurimman osan 1900-luvulta, että kirja sisältää kolme erillistä oraakkelikokoelmaa: Proto-Jesaja (luvut 1–39), joka sisältää 8. vuosisadalla eaa. profeetta Jesajan sanat; Deutero-Jesaiah (luvut 40–55), anonyymin 6. vuosisadalla eaa. kirjailijan työ, joka kirjoitti maanpaossa; ja Trito-Jesaiah (luvut 56–66), jotka on sävelletty maanpaosta paluun jälkeen. Jesaja 1–33 lupaa tuomion ja ennallistamisen Juudalle, Jerusalemille ja kansoille, ja luvuissa 34–66 oletetaan, että tuomio on julistettu ja ennallistaminen tapahtuu pian. Vaikka käytännöllisesti katsoen yksikään tutkija nykyään ei liitä koko kirjaa tai edes suurinta osaa siitä yhdelle henkilölle, kirjan olennainen yhtenäisyys on noussut uudemman tutkimuksen painopisteeksi.
 
 Kirjaa voidaan lukea laajennettuna mietiskelynä Jerusalemin kohtalosta maanpakoon ja sen jälkeen. Kirjan Deutero-Jesaian osa kuvaa, kuinka Jumala tekee Jerusalemista maailmanlaajuisen hallintonsa keskuksen kuninkaallisen pelastajan (messiaan) kautta, joka tuhoaa sortajan (Babylonin); tämä messias on Persian kuningas Kyyros Suuri, joka on vain agentti, joka toteuttaa Jahven kuninkaa. Jesaja puhuu turmeltuneita johtajia vastaan ​​ja heikommassa asemassa olevien puolesta ja juurruttaa vanhurskauden pikemminkin Jumalan pyhyyteen kuin Israelin liittoon.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evankeliumi</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Matteuksen mukaan</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Matteuksen evankeliumi on Raamatun Uuden testamentin ensimmäinen kirja ja yksi kolmesta synoptisesta evankeliumista. Se kertoo, kuinka Israelin Messias Jeesus tulee kansansa luo ja muodostaa opetuslasten yhteisön, kuinka hän opetti ihmisiä muun muassa vuorisaarna ja sen autuaaksi, ja kuinka Israel jakautuu ja kuinka Jeesus tuomitsee tämän vihamielisen Israelin. . Tämä huipentuu hänen poistumiseensa temppelistä ja hänen teloitukseensa. Tässä vaiheessa monet ihmiset hylkäävät Jeesuksen, ja ylösnousemuksensa yhteydessä hän lähettää opetuslapset pakanoiden luo.
 
 Matteus näyttää korostavan, että juutalaista perinnettä ei pitäisi hukata kirkossa, joka on muuttumassa yhä pakanallisemmaksi. Evankeliumi heijastaa evankelistan yhteisön ja muiden juutalaisten välisiä kamppailuja ja konflikteja, erityisesti kirkkaalla kritiikillä kirjanoppineita ja fariseuksia kohtaan, koska he ovat hylänneet Kristuksen Jumalan valtakunta on otettu heiltä pois ja annettu sen sijaan. kirkko. Jeesuksen jumalallinen luonne oli pääkysymys mattialaiselle yhteisölle, ratkaiseva tekijä, joka erottaa varhaiskristityt juutalaisista naapureistaan; Markus aloittaa Jeesuksen kasteella ja kiusauksilla, kun taas Matteus palaa Jeesuksen alkuperään ja näyttää hänet Jumalan Poikana syntymästään lähtien, Vanhan testamentin messiaanisten profetioiden täyttymyksenä. Nimitys Daavidin poika tunnistaa Jeesuksen Israelin parantavaksi ja ihmeitä tekeväksi Messiaaksi (tätä käytetään yksinomaan ihmeiden yhteydessä), joka lähetettiin yksin Israeliin. Ihmisen Poikana hän palaa tuomitsemaan maailmaa, odotuksen, jonka hänen opetuslapsensa tunnistavat, mutta josta hänen vihollisensa eivät ole tietoisia. Jumalan Poikana Jumala ilmoittaa itsensä poikansa kautta, ja Jeesus todistaa poikuutensa kuuliaisuudellaan ja esimerkillään.

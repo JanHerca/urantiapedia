@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ensimmäinen</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">kuninkaiden kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Kuninkaiden kirja (heprea: ספר מלכים, sefer melakhim) on kirja heprealaisessa Raamatussa, joka löytyy kahtena kirjana (1–2 Kings) kristillisessä Vanhassa testamentissa. Se päättää deuteronomistisen historian, Israelin historian, joka sisältää myös Joosuan ja Tuomarien kirjat ja Samuelin kirjat.
 
 Raamatun kommentaattorit uskovat, että Kuninkaiden kirjat kirjoitettiin tarjoamaan teologinen selitys Babylonin Juudan valtakunnan tuholle n. 586 eaa. ja luoda perusta paluulle Babylonin maanpaosta. Kaksi kuninkaiden kirjaa esittelee muinaisen Israelin ja Juudan historiaa kuningas Daavidin kuolemasta Joojakinin vapauttamiseen Babylonin vankeudesta – noin 400 vuoden ajanjakson (noin 960 – noin 560 eaa.). Tutkijoilla on tapana käsitellä kirjoja ensimmäisestä painoksesta 700-luvun lopulta eaa. ja toisesta ja viimeisestä painoksesta 500-luvun puolivälistä eaa. 

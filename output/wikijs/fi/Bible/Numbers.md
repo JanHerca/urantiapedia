@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Neljäs Mooseksen kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Numeroiden kirja (kreikaksi Ἀριθμοί, Arithmoi; heprea: בְּמִדְבַּר, Bəmīḏbar, "[of] erämaassa") on neljäs kirja heprealaisesta Raamatusta viidestä kirjasta ja neljäs juutalainen kirja. Kirjalla on pitkä ja monimutkainen historia; sen lopullinen muoto johtuu mahdollisesti pappilaisesta editoinnista (eli editoinnista) jahwistisesta lähteestä, joka on tehty jonkin aikaa varhaisella persialaisella kaudella (5. vuosisadalla eKr.). Kirjan nimi tulee kahdesta israelilaisten väestölaskennasta.
 
 Numero alkaa Siinain vuorelta, jossa israelilaiset ovat saaneet lakinsa ja liittonsa Jumalalta ja Jumala on asettunut heidän keskuuteensa pyhäkköön. Heidän tehtävänsä on ottaa Luvattu maa haltuunsa. Ihmiset lasketaan ja valmistellaan marssin jatkamista. Israelilaiset aloittavat matkan, mutta he "murisevat" matkan varrella olevista vastoinkäymisistä ja Mooseksen ja Aaronin auktoriteetista. Näiden tekojen vuoksi Jumala tuhoaa niistä noin 15 000 eri keinoin. He saapuvat Kanaanin rajoille ja lähettävät vakoojia maahan. Kuultuaan vakoojien pelottavan raportin Kanaanin olosuhteista, israelilaiset kieltäytyvät ottamasta sitä haltuunsa. Jumala tuomitsee heidät kuolemaan erämaassa, kunnes uusi sukupolvi voi kasvaa ja suorittaa tehtävän.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ensimmäinen</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Mooseksen kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Genesis-kirja (kreikaksi Γένεσις, Génesis; Raamatun heprea: בְּרֵאשִׁית, latinoitu: Bərēʾšīṯ, "Alussa") on Kristillisen Raamatun ja Vanhan testamentin ensimmäinen kirja. Sen heprealainen nimi on sama kuin sen ensimmäinen sana, Bereshit ("Alussa"). Genesis on kertomus maailman luomisesta, ihmiskunnan varhaisesta historiasta, Israelin esivanhemmista ja juutalaisen kansan alkuperästä.
 
 Perinne mainitsee Mooseksen Genesiksen sekä Mooseksen kirjan, Mooseksen kirjan, Numeroiden ja suurimman osan 5. Mooseksen kirjasta; kuitenkin nykyajan tutkijat, varsinkin 1800-luvulta alkaen, sijoittavat kirjojen kirjoittamisen 6. ja 5. vuosisatoille eKr., satoja vuosia sen jälkeen, kun Mooseksen oletetaan eläneen. Arkeologisten, geneettisten ja kielellisten todisteiden tieteelliseen tulkintaan perustuen useimmat tutkijat pitävät Genesiksen ensisijaisesti mytologisena eikä historiallisena.

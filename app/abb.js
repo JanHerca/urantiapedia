@@ -821,7 +821,7 @@ const BibleAbbreviations = {
 		'3 Joh': ['Kolmas Johanneksen kirje', '/fi/Bible/3_John', 'NT'],
 		'Juud': ['Juudaksen kirje', '/fi/Bible/Jude', 'NT'],
 		'Ilm': ['Johanneksen ilmestys', '/fi/Bible/Revelation', 'NT'],
-		'Bel': ['Historia de Bel y el Dragón', '/fi/Bible/Bel_and_the_Dragon', 'APO'],
+		'Bel': ['Tarina Belistä ja lohikäärmeestä', '/fi/Bible/Bel_and_the_Dragon', 'APO'],
 		'Man r': ['Manassen rukous', '/fi/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tob': ['Tobitin kirja', '/fi/Bible/Tobit', 'APO'],
 		'Judit': ['Juditin kirja', '/fi/Bible/Judith', 'APO'],

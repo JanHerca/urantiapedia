@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">RAAMATTU</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Finnish Pyhä Raamattu, 1938</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Esran kirja</text>
+	</g>
+</svg>
+</div>
+
+## Kuvaus
+
+
 Ezran kirja on heprealaisen Raamatun kirja; joka sisälsi aiemmin Nehemian kirjan yhdeksi kirjaksi, joka tunnettiin yleisesti nimellä Ezra-Nehemia. Nämä kaksi erotettiin ensimmäisistä painetuista rabbiinisista raamattuista 1500-luvun alussa myöhäiskeskiajan latinalaisen kristillisen perinteen mukaisesti. Se on sävelletty hepreaksi ja arameaksi, ja sen aiheena on Paluu Siioniin Babylonin vankeuden päättymisen jälkeen, ja se on jaettu kahteen osaan, joista ensimmäinen kertoo tarinan pakolaisten ensimmäisestä paluusta Kyros Suuren ensimmäisenä vuonna (538). eKr.) ja uuden Jerusalemin temppelin valmistuminen ja vihkiminen Dareios I:n kuudentena vuonna (515 eKr.), toinen kertomus Esran myöhemmästä lähetystyöstä Jerusalemiin ja hänen taistelustaan ​​puhdistaa juutalaiset avioliitosta ei-juutalaisten kanssa. Yhdessä Nehemian kirjan kanssa,
 
 Ezra on kirjoitettu sopimaan kaavamaiseen malliin, jossa Israelin Jumala inspiroi Persian kuningasta valtuuttamaan juutalaisyhteisön johtajan suorittamaan tehtävän; kolme peräkkäistä johtajaa suorittaa kolme tällaista tehtävää, joista ensimmäinen rakentaa uudelleen temppelin, toinen puhdistaa juutalaisen yhteisön ja kolmas sinetöi itse pyhän kaupungin muurin taakse. (Tämä viimeinen, Nehemian tehtävä, ei ole osa Esran kirjaa.) Kirjan teologinen ohjelma selittää monia sen kronologisen rakenteen aiheuttamia ongelmia. Se ilmestyi luultavasti varhaisemmassa versiossaan noin vuonna 399 eKr., ja sitä jatkettiin tarkistamista ja muokkausta useita vuosisatoja ennen kuin se hyväksyttiin raamatuksi varhaiskristillisellä aikakaudella. 
