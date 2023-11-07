@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Éxodo</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro del Éxodo (del griego antiguo: Ἔξοδος, romanizado: Éxodos; hebreo: שְׁמוֹת Šəmōṯ, "Nombres") es el segundo libro de la Biblia. Narra la historia del Éxodo, en el que los israelitas salen de la esclavitud en el Egipto bíblico por la fuerza de Yahvé, que los ha elegido como su pueblo. Luego, los israelitas viajan con el profeta Moisés al monte Sinaí, donde Yahvé les da los 10 mandamientos y entran en un pacto con Yahvé, quien promete convertirlos en una “nación santa y un reino de sacerdotes” a condición de su fidelidad. Él les da sus leyes e instrucciones para construir el Tabernáculo, el medio por el cual Él vendrá del cielo y morará con ellos y los guiará en una guerra santa para poseer la tierra de Canaán (la “Tierra Prometida”), que anteriormente había, según la historia de Génesis, había sido prometido a la simiente de Abraham.
 
 Tradicionalmente atribuido al mismo Moisés, los eruditos modernos ven su composición inicial como un producto del exilio babilónico (siglo VI a. C.), basado en fuentes escritas anteriores y tradiciones orales, con revisiones finales en el período persa posterior al exilio (siglo V a. C.). Carol Meyers, en su comentario sobre Éxodo, sugiere que podría decirse que es el libro más importante de la Biblia, ya que presenta las características que definen la identidad de Israel: recuerdos de un pasado marcado por las dificultades y el escape, un pacto vinculante con Dios, que elige Israel, y el establecimiento de la vida de la comunidad y las pautas para sostenerla. El consenso entre los eruditos modernos es que la historia del Libro del Éxodo se entiende mejor como un mito.

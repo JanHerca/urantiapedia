@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezequiel</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Ezequiel es el tercero de los Últimos Profetas del Tanakh y uno de los principales libros proféticos, después de Isaías y Jeremías. Según el propio libro, registra seis visiones del profeta Ezequiel, exiliado en Babilonia, durante los 22 años que van del 593 al 571 a.C., aunque es producto de una larga y compleja historia y no conserva necesariamente las palabras mismas del profeta.
 
 Las visiones y el libro están estructurados en torno a tres temas: (1) Juicio sobre Israel (capítulos 1–24); (2) Juicio sobre las naciones (capítulos 25–32); y (3) Bendiciones futuras para Israel (capítulos 33–48). Sus temas incluyen los conceptos de la presencia de Dios, la pureza, Israel como comunidad divina y la responsabilidad individual ante Dios. Su influencia posterior ha incluido el desarrollo de tradiciones místicas y apocalípticas en el Segundo Templo y el judaísmo y el cristianismo rabínicos.

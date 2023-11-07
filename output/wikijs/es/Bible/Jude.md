@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Epístola de Judas</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 La Epístola de Judas es el penúltimo libro del Nuevo Testamento así como de la Biblia cristiana. Se atribuye tradicionalmente a Judas Apóstol, hermano de Santiago el Justo.
 
 Judas es una epístola breve escrita en griego koiné. Condena en términos feroces a ciertas personas que el autor ve como una amenaza para la comunidad cristiana primitiva, pero describe vagamente a estos oponentes. Según Judas, estos opositores están dentro de la comunidad cristiana, pero no son verdaderos cristianos: son burladores, falsos maestros, descontentos, entregados a sus lujurias, etc. La epístola asegura a sus lectores que estas personas pronto serán juzgadas por Dios. Es posible que el grupo al que se hacía referencia hubiera sido obvio para los destinatarios originales de la carta, pero si se hacía referencia a un grupo específico, desde entonces se ha perdido el conocimiento de los detalles. La única parte de su ideología potencial discutida en la carta es que estos oponentes denigran a los ángeles y su papel. Si esto era de hecho parte de la ideología de este grupo al que se oponía el autor, entonces la epístola es posiblemente un contrapunto a la Epístola a los Colosenses. Colosenses condena a los que dan a los ángeles una prominencia indebida y los adoran; esto implica que las dos cartas podrían ser parte de un debate cristiano primitivo sobre la angelología cristiana.

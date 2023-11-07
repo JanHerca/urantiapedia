@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hechos de los apóstoles</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 Los Hechos de los Apóstoles (griego Koinē: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latín: Actūs Apostolōrum) es el quinto libro del Nuevo Testamento; habla de la fundación de la Iglesia cristiana y la difusión de su mensaje al Imperio Romano. Da cuenta del ministerio y la actividad de los apóstoles de Cristo en Jerusalén y otras regiones, después de la muerte, resurrección y ascensión de Cristo.
 
 Hechos y el Evangelio de Lucas forman una obra en dos partes, Lucas-Hechos, del mismo autor anónimo. Por lo general, está fechado entre el 80 y el 90 d. C., aunque algunos estudiosos sugieren entre el 90 y el 110. La primera parte, el Evangelio de Lucas, cuenta cómo Dios cumplió su plan de salvación del mundo a través de la vida, muerte y resurrección de Jesús de Nazaret, el mesías prometido. Hechos continúa la historia del cristianismo en el siglo I, comenzando con la ascensión de Jesús al cielo. Los primeros capítulos, ambientados en Jerusalén, describen el Día de Pentecostés (la venida del Espíritu Santo) y el crecimiento de la iglesia en Jerusalén. Inicialmente, los judíos son receptivos al mensaje cristiano, pero luego se vuelven contra los seguidores de Jesús. Rechazado por los judíos, el mensaje es llevado a los gentiles bajo la dirección del apóstol Pablo. Los capítulos posteriores hablan de la conversión de Pablo, su misión en Asia Menor y el Egeo y, finalmente, su encarcelamiento en Roma, donde, al final del libro, espera el juicio.

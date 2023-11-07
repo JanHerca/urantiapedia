@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelio de Marcos</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Evangelio de Marcos es el segundo de los cuatro evangelios canónicos y de los tres evangelios sinópticos. Narra el ministerio de Jesús desde su bautismo por Juan el Bautista hasta su muerte, sepultura y el descubrimiento de su tumba vacía. No hay un nacimiento milagroso ni una doctrina de la preexistencia divina ni, en el final original (Marcos 16:1–8), ninguna aparición de Jesús posterior a la resurrección. Representa a Jesús como maestro, exorcista, sanador y hacedor de milagros. Se refiere a sí mismo como el Hijo del Hombre. Se le llama Hijo de Dios, pero mantiene en secreto su naturaleza mesiánica; incluso sus discípulos no logran comprenderlo. Todo esto está de acuerdo con la interpretación cristiana de la profecía, que se cree que predice el destino del mesías como siervo sufriente. El evangelio termina, en su versión original, con el descubrimiento del sepulcro vacío,
 
 La mayoría de los eruditos fechan a Mark en c. 66-74 d.C., ya sea poco antes o después de la destrucción del Segundo Templo en el 70 d.C. Rechazan la adscripción tradicional al evangelista Marcos, compañero del apóstol Pedro, que probablemente surgió del deseo de los primeros cristianos de vincular la obra a una figura autorizada, y creen que es obra de un autor que trabaja con varias fuentes, entre ellas colecciones de historias de milagros, historias de controversias, parábolas y una narración de pasión. Tradicionalmente se colocaba en segundo lugar, ya veces en cuarto lugar, en el canon cristiano, como un compendio inferior de lo que se consideraba el evangelio más importante, Mateo; en consecuencia, la Iglesia ha derivado su visión de Jesús principalmente de Mateo, en segundo lugar de Juan, y solo de manera distante de Marcos.

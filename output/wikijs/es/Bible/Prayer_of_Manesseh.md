@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APÓCRIFOS</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Oración de Manasés</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 La Oración de Manasés, también conocida como la Oración de Manasés, es una obra corta de 15 versos que registra una oración penitencial atribuida al rey Manasés de Judá. La mayoría de los eruditos cree que la Oración de Manasés fue escrita en griego (mientras que una minoría aboga por un original semítico) en el segundo o primer siglo a. Se reconoce que también pudo haber sido escrito en la primera mitad del siglo I d.C., pero en todo caso antes de la Destrucción del Segundo Templo en el 70 d.C. Otra obra con el mismo título, escrita en hebreo, se encontró entre los Rollos del Mar Muerto (4Q381:17).
 
 Manasés está registrado en la Biblia como uno de los reyes más idólatras de Judá (2 Reyes 21:1–18; 2 Crónicas 33:1–9). El segundo Libro de Crónicas, pero no el segundo Libro de Reyes, registra que los asirios tomaron cautivo a Manasés (2 Crónicas 33:11–13). Mientras estaba preso, Manasés oró por misericordia, y al ser liberado y restaurado al trono se apartó de sus caminos idólatras (2 Crónicas 33:15–17). Se hace una referencia a la oración, pero no a la oración misma, en 2 Crónicas 33:19, que dice que la oración está escrita en “las crónicas de los reyes de Israel”.

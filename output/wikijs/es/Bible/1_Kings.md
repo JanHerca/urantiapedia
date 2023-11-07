@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">I Reyes</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de los Reyes (en hebreo: ספר מלכים, sefer melakhim) es un libro de la Biblia hebrea, que se encuentra en dos libros (1–2 Reyes) en el Antiguo Testamento cristiano. Concluye la historia deuteronomista, una historia de Israel que incluye también los libros de Josué y Jueces y los libros de Samuel.
 
 Los comentaristas bíblicos creen que los Libros de los Reyes se escribieron para proporcionar una explicación teológica de la destrucción del Reino de Judá por Babilonia en c. 586 a. C. y para proporcionar una base para el regreso del exilio en Babilonia. Los dos libros de Reyes presentan una historia del antiguo Israel y Judá, desde la muerte del rey David hasta la liberación de Joaquín del encarcelamiento en Babilonia, un período de unos 400 años (c. 960 - c. 560 a. C.). Los eruditos tienden a tratar los libros como si consistieran en una primera edición de finales del siglo VII a. C. y una segunda y última edición de mediados del siglo VI a. C. 

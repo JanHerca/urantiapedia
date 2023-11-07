@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Nehemías</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Nehemías en la Biblia hebrea, toma en gran medida la forma de una memoria en primera persona sobre la reconstrucción de los muros de Jerusalén después del exilio en Babilonia por parte de Nehemías, un judío que es un alto funcionario en la corte persa, y la dedicación de la ciudad y su gente a las leyes de Dios (Torá). Desde el siglo XVI, generalmente se lo ha tratado como un libro separado dentro de la Biblia. Antes de esa fecha, se había incluido en el Libro de Ezra; pero en las Biblias cristianas latinas desde el siglo XIII en adelante, el Libro Vulgata de Esdras se dividió en dos textos, llamados respectivamente Libro Primero y Segundo de Esdras; una separación que se canonizó con las primeras biblias impresas en hebreo y latín. Las traducciones de la Biblia protestante reformada de mediados del siglo XVI producidas en Ginebra fueron las primeras en introducir el nombre 'Libro de Nehemías' para el texto anteriormente llamado 'Segundo Libro de Esdras'.
 
 ## Index

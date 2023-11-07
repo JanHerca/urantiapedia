@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Oseas</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Oseas (hebreo: סֵפֶר הוֹשֵׁעַ, romanizado: Sēfer Hōšēaʿ) se recopila como uno de los doce profetas menores de los Nevi'im ("Profetas") en la Biblia hebrea, y como un libro en sí mismo. justo en el Antiguo Testamento cristiano. Según el orden tradicional de la mayoría de las Biblias hebreas, es la primera de las Doce.
 
 Ambientado alrededor de la caída del Reino del Norte de Israel, el Libro de Oseas denuncia la adoración de dioses distintos de Yahvé (el Dios de Israel), comparando metafóricamente el abandono de Yahvé por parte de Israel con una mujer que le es infiel a su marido. Según la narración del libro, la relación entre Oseas y su esposa infiel Gomer es comparable a la relación entre Yahvé y su pueblo infiel Israel. La eventual reconciliación de Oseas y Gomer se trata como una metáfora esperanzadora de la eventual reconciliación entre Yahvé e Israel. 

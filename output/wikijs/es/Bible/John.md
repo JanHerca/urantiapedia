@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelio de Juan</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Evangelio de Juan (griego antiguo: Εὐαγγέλιον κατὰ Ἰωάννην, romanizado: Euangélion katà Iōánnēn) es el cuarto de los cuatro evangelios canónicos. Contiene un relato muy esquemático del ministerio de Jesús, con siete “señales” que culminan en la resurrección de Lázaro (prefigurando la resurrección de Jesús) y siete discursos “Yo soy” (relacionados con temas del debate entre la iglesia y la sinagoga en ese momento). de composición) que culmina con la proclamación de Tomás de Jesús resucitado como “Señor mío y Dios mío”. Los versículos finales del evangelio establecen su propósito, “para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en su nombre”.
 
 John alcanzó su forma final alrededor del 90 al 110 d. C., aunque contiene signos de orígenes que datan del 70 d. C. y posiblemente incluso antes. Al igual que los otros tres evangelios, es anónimo, aunque identifica a un "discípulo a quien Jesús amaba" sin nombre como la fuente de sus tradiciones. Lo más probable es que surgiera dentro de una “comunidad juanina” y, dado que está estrechamente relacionado en estilo y contenido con las tres epístolas juaninas, la mayoría de los eruditos tratan los cuatro libros, junto con el Libro de Apocalipsis, como un solo corpus de literatura juanina. aunque no del mismo autor. 

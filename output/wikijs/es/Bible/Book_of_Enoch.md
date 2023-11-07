@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APÓCRIFOS</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Libro de Enoc</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Enoc (también 1 Enoc; [nota 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) es un antiguo texto religioso apocalíptico hebreo, atribuido por tradición a Enoc, el bisabuelo de Noé. Enoc contiene material único sobre los orígenes de los demonios y Nephilim, por qué algunos ángeles cayeron del cielo, una explicación de por qué el diluvio de Génesis fue moralmente necesario y una exposición profética del reinado de mil años del Mesías.
 
 Se estima que las secciones más antiguas (principalmente en el Libro de los vigilantes) del texto datan de alrededor del 300 al 200 a. C., y la última parte (Libro de las parábolas) probablemente del 100 a.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelio de Lucas</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Evangelio de Lucas habla de los orígenes, nacimiento, ministerio, muerte, resurrección y ascensión de Jesucristo. Junto con los Hechos de los Apóstoles, forma una obra en dos volúmenes que los eruditos denominan Lucas-Hechos y que representa el 27,5% del Nuevo Testamento. La obra combinada divide la historia del cristianismo del primer siglo en tres etapas, y el evangelio constituye las dos primeras: la vida de Jesús el Mesías desde su nacimiento hasta el comienzo de su misión en el encuentro con Juan el Bautista, seguido por su ministerio con hechos como el Sermón de la Llanura y sus Bienaventuranzas, y su Pasión, muerte y resurrección.
 
 La mayoría de los eruditos modernos están de acuerdo en que las principales fuentes utilizadas para Lucas fueron a), el Evangelio de Marcos, b), una colección de dichos hipotéticos llamada fuente Q, y c), material que no se encuentra en otros evangelios, a menudo denominado L ( para Lucas) fuente. El autor es anónimo; la opinión tradicional de que fue Lucas el evangelista, el compañero de Pablo, todavía se presenta ocasionalmente, pero el consenso de los eruditos enfatiza las muchas contradicciones entre Hechos y las auténticas cartas paulinas. La fecha más probable para su composición es alrededor del 80 al 110 d. C., y hay evidencia de que todavía se estaba revisando hasta bien entrado el siglo II. 

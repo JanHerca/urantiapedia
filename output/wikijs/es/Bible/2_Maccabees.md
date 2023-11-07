@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">II Macabeos</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 2 Macabeos, también conocido como el Segundo Libro de los Macabeos, Segundo Macabeos, y abreviado como 2 Macabeos, es un libro deuterocanónico que relata la persecución de los judíos bajo el rey Antíoco IV Epífanes y la revuelta de los macabeos contra él. Concluye con la derrota del general Nicanor del Imperio seléucida en 161 a. C. por Judas Macabeo, el líder de los Macabeos.
 
 2 Macabeos fue escrito originalmente en griego koiné por un judío desconocido de la diáspora que vivía en el Egipto helenístico. Probablemente fue escrito en algún momento entre 150 y 120 a. Junto con el libro 1 Macabeos, es una de las fuentes más importantes sobre la revuelta de los macabeos. La obra no es una continuación de 1 Macabeos, sino su propia versión independiente de los acontecimientos históricos de la revuelta de los macabeos. Comienza y termina su historia antes de 1 Macabeos, comenzando con un incidente con el oficial seléucida Heliodoro que intenta gravar el Segundo Templo en 178 a. C. y termina con la Batalla de Adasa en 161 a. Algunos eruditos creen que el libro está influenciado por la tradición farisaica, con secciones que incluyen un respaldo a la oración por los muertos y la resurrección de los muertos.

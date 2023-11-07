@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jeremías</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Jeremías (en hebreo: ספר יִרְמְיָהוּ) es el segundo de los últimos profetas de la Biblia hebrea y el segundo de los profetas del Antiguo Testamento cristiano. El título del capítulo Jeremías 1:1–3 identifica el libro como “las palabras de Jeremías, hijo de Hilcías”. De todos los profetas, Jeremías aparece más claramente como persona, reflexionando con su escriba Baruc sobre su papel como siervo de Dios con pocas buenas noticias para su audiencia.
 
 Su libro pretende ser un mensaje a los judíos en el exilio en Babilonia, explicando el desastre del exilio como la respuesta de Dios al culto pagano de Israel: el pueblo, dice Jeremías, es como una esposa infiel e hijos rebeldes, su infidelidad y rebeldía hacen inevitable el juicio , aunque se presagia la restauración y un nuevo pacto. Es probable que se encuentren oráculos auténticos de Jeremías en las secciones poéticas de los capítulos 1 al 25, pero el libro en su totalidad ha sido editado y ampliado en gran medida por los seguidores del profeta (incluido quizás su compañero, el escriba Baruc) y las generaciones posteriores de deuteronomistas.

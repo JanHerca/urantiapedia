@@ -1,5 +1,5 @@
 ---
-title: La Biblia
+title: "La Biblia"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -16,19 +16,19 @@ Cada libro bíblico tiene una página web dedicado a él, y hay una página por 
 
 La Biblia no contiene los mismos libros para diferentes credos. Puesto que _El Libro de Urantia_ no menosprecia ningún texto religioso, y menciona libros considerados apócrifos, como El Libro de Enoc, en Urantiapedia se va a tratar de hacer un esfuerzo por incluir sin excepción todos los libros bíblicos y extra-bíblicos siempre que tengan alguna utilidad en la comprensión de _El Libro de Urantia_.
 
-La Biblia se está añadiendo a Urantiapedia de modo que todas las citas específicas y cualquier otro texto paralelo de _El Libro de Urantia_ tengan su referencia cruzada entre ambos textos. Esta relación de referencias cruzadas se ha basado en el magnífico trabajo de un lector, Duane L. Faw, que ha compilado las referencias en una publicación llamada ([Paramony](https://urantia-book.org/urantiabook/paramony/)).
+La Biblia se está añadiendo a Urantiapedia de modo que todas las citas específicas y cualquier otro texto paralelo de _El Libro de Urantia_ tengan su referencia cruzada entre ambos textos. Esta relación de referencias cruzadas se ha basado en el magnífico trabajo de un lector, Duane L. Faw, que ha compilado las referencias en una publicación llamada [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
 Esta y otra información sobre cómo está organizada la Biblia en el proyecto la puedes encontrar en la [Ayuda de la Urantiapedia](/es/help/content).
 
 ## Listado de libros bíblicos
 
-Aquí se presenta un listado provisional de los libros bíblicos y extra-bíblicos que se van a incluir:
+Este es el listado de los libros bíblicos y extra-bíblicos incluidos por ahora:
 
 
 - [La Biblia - Índice](/es/index/bible)
 
 
-### Antiguo Testamento
+## Antiguo Testamento
 
 - [Génesis](/es/Bible/Genesis)
 - [Éxodo](/es/Bible/Exodus)
@@ -78,7 +78,7 @@ Aquí se presenta un listado provisional de los libros bíblicos y extra-bíblic
 - [Malaquías](/es/Bible/Malachi)
 
 
-### Nuevo Testamento
+## Nuevo Testamento
 
 - [Evangelio de Mateo](/es/Bible/Matthew)
 - [Evangelio de Marcos](/es/Bible/Mark)
@@ -108,7 +108,7 @@ Aquí se presenta un listado provisional de los libros bíblicos y extra-bíblic
 - [Epístola de Judas](/es/Bible/Jude)
 - [Apocalipsis](/es/Bible/Revelation)
 
-### Textos no canónicos
+## Textos no canónicos
 
 - [Historia de Bel y el Dragón](/es/Bible/Bel_and_the_Dragon)
 - [Oración de Manasés](/es/Bible/Prayer_of_Manesseh)

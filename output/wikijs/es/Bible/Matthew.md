@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelio de Mateo</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Evangelio de Mateo es el primer libro del Nuevo Testamento de la Biblia y uno de los tres evangelios sinópticos. Narra cómo el Mesías de Israel, Jesús, viene a su pueblo y forma una comunidad de discípulos, cómo enseña al pueblo a través de hechos como el Sermón de la Montaña y sus Bienaventuranzas, y cómo Israel se divide y cómo Jesús condena a este Israel hostil. . Esto culmina con su salida del Templo y su ejecución. En este punto mucha gente rechaza a Jesús, y en su resurrección envía a los discípulos a los gentiles.
 
 Mateo parece enfatizar que la tradición judía no debe perderse en una iglesia que se estaba volviendo cada vez más gentil. El evangelio refleja las luchas y conflictos entre la comunidad del evangelista y los demás judíos, particularmente con su aguda crítica a los escribas y fariseos con la posición de que por su rechazo a Cristo, el Reino de Dios les ha sido quitado y dado en cambio a la Iglesia. La naturaleza divina de Jesús fue un tema importante para la comunidad de Mateo, el elemento crucial que separaba a los primeros cristianos de sus vecinos judíos; mientras que Marcos comienza con el bautismo y las tentaciones de Jesús, Mateo se remonta a los orígenes de Jesús, mostrándolo como Hijo de Dios desde su nacimiento, cumplimiento de las profecías mesiánicas del Antiguo Testamento. El título Hijo de David identifica a Jesús como el Mesías de Israel que sana y hace milagros (se usa exclusivamente en relación con los milagros), enviado solo a Israel. Como Hijo del Hombre volverá para juzgar al mundo, expectativa que sus discípulos reconocen pero que sus enemigos ignoran. Como Hijo de Dios, Dios se revela a sí mismo a través de su hijo, y Jesús prueba su filiación a través de su obediencia y ejemplo.

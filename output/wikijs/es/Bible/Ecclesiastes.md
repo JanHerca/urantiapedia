@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Eclesiastés</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 Eclesiastés (/ɪˌkliːziˈæstiːz/; hebreo bíblico: קֹהֶלֶת, romanizado: qōheleṯ, griego antiguo: Ἐκκλησιαστής, romanizado: Ekklēsiastēs) es uno de los Ketuvim ("Escritos") de la Biblia hebrea y uno de los libros de la "Sabiduría antigua" cristiana. Testamento. El título comúnmente usado en inglés es una transliteración latina de la traducción griega de la palabra hebrea קֹהֶלֶת (Kohelet, Koheleth, Qohelet o Qohelet). Un autor anónimo introduce “Las palabras de Kohelet, hijo de David, rey en Jerusalén” (1:1) y no vuelve a usar su propia voz hasta los versículos finales (12:9-14), donde da sus propios pensamientos y resume las declaraciones de Kohelet; el cuerpo principal del texto se atribuye al propio Kohelet.
 
 Kohelet proclama (1:2) “¡Vanidad de vanidades! ¡Todo es inútil!”; la palabra hebrea hevel, “vapor”, puede significar figurativamente “insustancial”, “vano”, “fútil” o “sin sentido”. Ante esto, el siguiente versículo presenta la pregunta existencial básica de la que se ocupa el resto del libro: “¿Qué provecho tiene el hombre de todo su trabajo con que se afana debajo del sol?”, expresando que la vida tanto de los sabios como de los los necios acaban todos en la muerte. Si bien Kohelet respalda la sabiduría como un medio para una vida terrenal bien vivida, no puede atribuirle un significado eterno. A la luz de esta insensatez percibida, sugiere que los seres humanos deben disfrutar de los placeres simples de la vida diaria, como comer, beber y disfrutar del trabajo, que son dones de la mano de Dios. El libro concluye con el mandato de “Temer a Dios y guardar sus mandamientos; porque ese es el deber de toda la humanidad. Ya que toda obra traerá Dios a juicio, por toda obra oculta, sea buena o mala.”

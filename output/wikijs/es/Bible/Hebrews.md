@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Epístola a los hebreos</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 La Epístola a los Hebreos (griego antiguo: Πρὸς Ἑβραίους, romanizado: Pros Hebraious, lit. 'a los Hebreos') es uno de los libros del Nuevo Testamento.
 
 El texto no menciona el nombre de su autor, pero tradicionalmente se le atribuye al Apóstol Pablo. La mayoría de los manuscritos griegos antiguos, el antiguo siríaco Peshitto y algunos de los manuscritos latinos antiguos tienen la epístola a los Hebreos entre las cartas de Pablo. Sin embargo, Eusebio informa sobre la duda sobre la autoría paulina en la Iglesia romana. La erudición bíblica moderna considera que se desconoce su autoría, escrito en una imitación deliberada del estilo de Pablo, y algunos afirman que fue escrito por Priscila y Aquila.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Segunda epístola a los tesalonicenses</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 La Segunda Epístola a los Tesalonicenses es un libro del Nuevo Testamento de la Biblia cristiana. Se atribuye tradicionalmente al Apóstol Pablo, con Timoteo como coautor. La erudición bíblica moderna está dividida sobre si la epístola fue escrita por Pablo; algunos eruditos creen que Pablo escribió esta epístola, pero otros rechazan su autenticidad basándose en lo que ven como diferencias de estilo y teología entre esta y la Primera Epístola a los Tesalonicenses. 
 
 Los eruditos que respaldan su autenticidad consideran que se escribió alrededor del 51-52 d. C., poco después de la Primera Epístola. Quienes lo ven como una composición posterior le asignan una fecha alrededor del 80-115 d.C.

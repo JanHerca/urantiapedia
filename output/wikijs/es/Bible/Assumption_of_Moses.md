@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APÓCRIFOS</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Asunción de Moisés</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 La Asunción de Moisés (también llamado el Testamento de Moisés, heb.: עליית משה) es una obra pseudoepigráfica apócrifa judía del siglo I. Pretende contener profecías secretas que Moisés le reveló a Josué antes de pasarle el liderazgo de los israelitas. Contiene temas apocalípticos, pero se caracteriza como un "testamento", lo que significa que tiene el discurso final de una persona moribunda, Moisés. 
 
 Se cree que el texto se escribió originalmente en hebreo u otro idioma semítico y luego se tradujo al griego koiné. El único manuscrito sobreviviente es una traducción latina del texto griego del siglo VI. El manuscrito estaba incompleto y el resto del texto se ha perdido. A partir de referencias en obras antiguas, se cree que el texto que falta representaba una disputa por el cuerpo de Moisés, entre el arcángel Miguel y el diablo.

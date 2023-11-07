@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Proverbios</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de los Proverbios (en hebreo: מִשְלֵי, Mīšlē, “Proverbios (de Salomón)”) es un libro de la tercera sección (llamado Ketuvim) de la Biblia hebrea y un libro del Antiguo Testamento cristiano. Cuando se tradujo al griego y al latín, el título tomó diferentes formas: en la Septuaginta griega (LXX) se convirtió en Παροιμίαι (Paroimiai, “Proverbios”); en la Vulgata latina el título era Proverbia, de donde se deriva el nombre inglés.
 
 Proverbios no es simplemente una antología, sino una “colección de colecciones” relacionadas con un patrón de vida que duró más de un milenio. Es un ejemplo de la literatura sapiencial bíblica y plantea cuestiones de valores, comportamiento moral, el significado de la vida humana y la conducta correcta, y su fundamento teológico es que “el temor de Dios (es decir, la sumisión a la voluntad de Dios) es el principio de la sabiduría”. Se alaba a la sabiduría por su papel en la creación; Dios la adquirió ante todo, ya través de ella ordenó el caos; y dado que los humanos tienen vida y prosperidad al ajustarse al orden de la creación, la búsqueda de la sabiduría es la esencia y la meta de la vida. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Isaías</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Isaías (en hebreo: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) es el primero de los últimos profetas de la Biblia hebrea y el primero de los profetas mayores del Antiguo Testamento cristiano. Está identificado por un sobrescrito como las palabras del profeta Isaías ben Amoz del siglo VIII a. C., pero existe una amplia evidencia de que gran parte se compuso durante el cautiverio de Babilonia y más tarde. Johann Christoph Döderlein sugirió en 1775 que el libro contenía las obras de dos profetas separados por más de un siglo, y Bernhard Duhm originó la opinión, mantenida como consenso durante la mayor parte del siglo XX, de que el libro comprende tres colecciones separadas de oráculos: Proto-Isaías (capítulos 1–39), que contiene las palabras del profeta Isaías del siglo VIII a. C.; Deutero-Isaías (capítulos 40–55), el trabajo de un autor anónimo del siglo VI a. C. escrito durante el exilio; y Trito-Isaías (capítulos 56–66), compuesto después del regreso del exilio. Isaías 1–33 promete juicio y restauración para Judá, Jerusalén y las naciones, y los capítulos 34–66 presumen que el juicio ha sido pronunciado y la restauración sigue pronto. Si bien prácticamente ningún erudito de hoy atribuye todo el libro, o incluso la mayor parte, a una sola persona, la unidad esencial del libro se ha convertido en un foco de investigación más reciente.
 
 El libro se puede leer como una meditación extendida sobre el destino de Jerusalén durante y después del exilio. La parte de Deutero-Isaian del libro describe cómo Dios hará de Jerusalén el centro de su gobierno mundial a través de un salvador real (un mesías) que destruirá al opresor (Babilonia); este mesías es el rey persa Ciro el Grande, quien es simplemente el agente que trae el reinado de Yahweh. Isaías habla en contra de los líderes corruptos ya favor de los desfavorecidos, y arraiga la justicia en la santidad de Dios más que en el pacto de Israel.

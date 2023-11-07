@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Malaquías</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Malaquías (en hebreo: מַלְאָכִ֔י, Malʾāḵī) es el último libro de los Neviim contenidos en el Tanakh, canónicamente el último de los Doce Profetas Menores. En el ordenamiento cristiano, la agrupación de los libros proféticos es la última sección del Antiguo Testamento, haciendo de Malaquías el último libro antes del Nuevo Testamento.
 
 El libro se atribuye comúnmente a un profeta llamado Malaquías, ya que su título se ha entendido con frecuencia como un nombre propio, aunque su significado hebreo es simplemente "Mi Mensajero" (la Septuaginta dice "su mensajero") y puede que no sea el nombre del autor en este momento. todos. El nombre aparece en el sobrescrito en 1:1 y en 3:1, aunque es muy poco probable que la palabra se refiera al mismo carácter en ambas referencias. Por lo tanto, existe un debate sustancial sobre la identidad del autor del libro. Uno de los Targums identifica a Ezra (o Esdras) como el autor de Malaquías. El sacerdote e historiador Jerome sugiere que esto puede deberse a que Esdras es visto como un intermediario entre los profetas y la "gran sinagoga". Sin embargo, todavía no hay evidencia histórica que respalde esta afirmación.

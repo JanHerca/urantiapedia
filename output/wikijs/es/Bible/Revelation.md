@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apocalipsis</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de Apocalipsis es el libro final del Nuevo Testamento (y, en consecuencia, el libro final de la Biblia cristiana). Su título se deriva de la primera palabra del texto griego koiné: apokalypsis, que significa “desvelamiento” o “revelación”. El Libro de Apocalipsis es el único libro apocalíptico en el canon del Nuevo Testamento. Ocupa un lugar central en la escatología cristiana.
 
 El autor se nombra a sí mismo como "John" en el texto, pero su identidad precisa sigue siendo un punto de debate académico. Escritores cristianos del siglo II como Papías de Hierápolis, Justino Mártir, Ireneo, Melito de Sardis, Clemente de Alejandría y el autor del fragmento Muratoriano identifican al Apóstol Juan como el “Juan” del Apocalipsis. La erudición moderna generalmente tiene un punto de vista diferente, y muchos consideran que no se puede saber nada sobre el autor, excepto que fue un profeta cristiano. Los eruditos teológicos modernos caracterizan al autor del Libro de Apocalipsis como “Juan de Patmos”. La mayor parte de las fuentes tradicionales fechan el libro en el reinado del emperador romano Domiciano (81-96 d. C.), lo que la evidencia tiende a confirmar.

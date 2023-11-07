@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Salmos</text>
+	</g>
+</svg>
+</div>
+
+## Descripción
+
+
 El Libro de los Salmos (/sɑːmz/ SAHMZ o /sɔː(l)mz/ SAW(L)MZ; hebreo: תְּהִלִּים, Tehillim, lit. “alabanzas”), también conocido como los Salmos, o el Salterio, es el primer libro de los Ketuvim ("Escritos"), la tercera sección del Tanaj y un libro del Antiguo Testamento. El título se deriva de la traducción griega, ψαλμοί (psalmoi), que significa “música instrumental” y, por extensión, “las palabras que acompañan a la música”. El libro es una antología de himnos religiosos hebreos individuales, con 150 en la tradición judía y cristiana occidental y más en las iglesias cristianas orientales. Muchos están vinculados al nombre de David, pero la erudición moderna rechaza su autoría y, en cambio, atribuye la composición de los salmos a varios autores que escribieron entre los siglos IX y V a. 
 
 ## Index
