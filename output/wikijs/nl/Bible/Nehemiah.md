@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Nehemia</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Nehemia in de Hebreeuwse Bijbel heeft grotendeels de vorm van een memoires uit de eerste persoon over de herbouw van de muren van Jeruzalem na de Babylonische ballingschap door Nehemia, een jood die een hoge functionaris is aan het Perzische hof, en de inwijding van de stad en haar mensen aan Gods wetten (Torah). Sinds de 16e eeuw wordt het in de Bijbel over het algemeen als een apart boek behandeld. Voor die datum was het opgenomen in het boek Ezra; maar in Latijns-christelijke bijbels vanaf de 13e eeuw was het Vulgaat van Ezra verdeeld in twee teksten, respectievelijk het eerste en het tweede boek van Ezra genoemd; een scheiding die heilig werd verklaard met de eerste gedrukte bijbels in het Hebreeuws en Latijn. Halverwege de 16e eeuw waren de gereformeerde protestantse bijbelvertalingen die in Genève werden geproduceerd, de eersten die de naam 'Boek van Nehemia' introduceerden voor de tekst die vroeger het 'Tweede Boek van Ezra' heette.
 
 ## Index

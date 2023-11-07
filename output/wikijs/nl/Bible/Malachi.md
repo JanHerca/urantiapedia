@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Maleachi</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Maleachi (Hebreeuws: מַלְאָכִ֔י, Malʾāḵī) is het laatste boek van de Neviim in de Tenach, canoniek het laatste van de twaalf kleine profeten. In de christelijke ordening is de groepering van de profetische boeken het laatste deel van het Oude Testament, waardoor Maleachi het laatste boek vóór het Nieuwe Testament is.
 
 Het boek wordt gewoonlijk toegeschreven aan een profeet genaamd Maleachi, aangezien de titel vaak als een eigennaam is opgevat, hoewel de Hebreeuwse betekenis eenvoudigweg "Mijn Boodschapper" is (de Septuaginta leest "zijn boodschapper") en misschien niet de naam van de auteur is. allemaal. De naam komt in het opschrift voor bij 1:1 en in 3:1, hoewel het hoogst onwaarschijnlijk is dat het woord in beide verwijzingen naar hetzelfde teken verwijst. Er is dus veel discussie over de identiteit van de auteur van het boek. Een van de Targums identificeert Ezra (of Esdras) als de auteur van Maleachi. Priester en historicus Hiëronymus suggereert dat dit kan zijn omdat Ezra wordt gezien als een tussenpersoon tussen de profeten en de 'grote synagoge'. Er is echter nog geen historisch bewijs om deze bewering te ondersteunen.

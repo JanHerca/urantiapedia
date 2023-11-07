@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hebreeën</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 De brief aan de Hebreeën (Oudgrieks: Πρὸς Ἑβραίους, geromaniseerd: Pros Hebreeuws, lit. 'aan de Hebreeën') is een van de boeken van het Nieuwe Testament.
 
 De tekst vermeldt de naam van de auteur niet, maar werd traditioneel toegeschreven aan Paulus de Apostel. De meeste van de oude Griekse manuscripten, de oude Syrische Peshitto en enkele van de oude Latijnse manuscripten hebben de brief aan de Hebreeën in de brieven van Paulus. Eusebius meldt echter dat er twijfel is over het auteurschap van Paulus in de Roomse Kerk. Moderne bijbelwetenschap beschouwt het auteurschap als onbekend, geschreven in opzettelijke imitatie van de stijl van Paulus, en sommigen beweren dat het geschreven is door Priscilla en Aquila.

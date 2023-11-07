@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Mattheüs</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het evangelie van Matteüs is het eerste boek van het Nieuwe Testament van de Bijbel en een van de drie synoptische evangeliën. Het vertelt hoe de Messias van Israël, Jezus, naar zijn volk komt en een gemeenschap van discipelen vormt, hoe hij de mensen onderwees door middel van gebeurtenissen als de Bergrede en zijn zaligsprekingen, en hoe Israël verdeeld raakt en hoe Jezus dit vijandige Israël veroordeelt. . Dit culmineert in zijn vertrek uit de tempel en zijn executie. Op dit punt verwerpen veel mensen Jezus, en bij zijn opstanding stuurt hij de discipelen naar de heidenen.
 
 Mattheüs lijkt te benadrukken dat de joodse traditie niet verloren mocht gaan in een kerk die steeds meer heidens werd. Het evangelie weerspiegelt de strijd en conflicten tussen de gemeenschap van de evangelisten en de andere Joden, vooral met zijn scherpe kritiek op de schriftgeleerden en Farizeeën met het standpunt dat door hun verwerping van Christus het Koninkrijk van God van hen is weggenomen en in plaats daarvan aan hen is gegeven. de kerk. De goddelijke aard van Jezus was een belangrijke kwestie voor de Matthaean-gemeenschap, het cruciale element dat de vroege christenen scheidde van hun joodse buren; terwijl Marcus begint met Jezus' doopsel en verleidingen, gaat Matteüs terug naar Jezus' oorsprong en toont hem als de Zoon van God vanaf zijn geboorte, de vervulling van de Messiaanse profetieën van het Oude Testament. De titel Zoon van David identificeert Jezus als de genezende en wonderwerkende Messias van Israël (het wordt uitsluitend gebruikt in verband met wonderen), alleen naar Israël gezonden. Als Mensenzoon zal hij terugkeren om de wereld te oordelen, een verwachting die zijn discipelen herkennen, maar waarvan zijn vijanden zich niet bewust zijn. Als Zoon van God openbaart God zichzelf door zijn zoon, en Jezus bewijst zijn zoonschap door zijn gehoorzaamheid en voorbeeld.

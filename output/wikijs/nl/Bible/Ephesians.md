@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Efeze</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 De Brief aan de Efeziërs is het tiende boek van het Nieuwe Testament. Het auteurschap ervan werd traditioneel toegeschreven aan Paulus de Apostel, maar vanaf 1792 werd dit betwist als Deutero-Pauline, dat wil zeggen pseudepigrapha geschreven in de naam van Paulus door een latere auteur die sterk beïnvloed was door Paulus' denken, waarschijnlijk "door een loyale discipel om samen te vatten Paulus' leer op te krikken en toe te passen op een nieuwe situatie vijftien tot vijfentwintig jaar na de dood van de apostel”. 
 
 

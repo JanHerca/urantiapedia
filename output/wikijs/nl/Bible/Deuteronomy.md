@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Deuteronomium</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Deuteronomium (Grieks: Δευτερονόμιον Deuteronómion, lit. 'tweede wet') is het vijfde en laatste boek van de Thora (in het jodendom), waar het Devarim wordt genoemd (Hebreeuws: דְּבָרִים, lit. '[de] woorden [van Mozes]' ) en het vijfde boek van het christelijke Oude Testament.
 
 De hoofdstukken 1–30 van het boek bestaan ​​uit drie preken of toespraken die Mozes op de vlakten van Moab aan de Israëlieten hield, kort voordat ze het Beloofde Land binnengingen. De eerste preek vertelt over de veertig jaar van omzwervingen door de wildernis die tot dat moment hadden geleid, en eindigt met een aansporing om de wet in acht te nemen. De tweede preek herinnert de Israëlieten aan de noodzaak om Jahweh te volgen en de wetten (of leringen) die hij hun heeft gegeven, waarvan hun bezit van het land afhangt. De derde preek biedt de troost dat, zelfs als het volk Israël ontrouw zou blijken te zijn en zo het land zou verliezen, met bekering alles hersteld kan worden.

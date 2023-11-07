@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Numeri</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Numeri (van het Grieks Ἀριθμοί, Arithmoi; Hebreeuws: בְּמִדְבַּר, Bəmīḏbar, "In de woestijn [van]") is het vierde boek van de Hebreeuwse Bijbel en het vierde van vijf boeken van de Joodse Thora. Het boek heeft een lange en complexe geschiedenis; zijn uiteindelijke vorm is mogelijk te wijten aan een priesterlijke redactie (dwz redactie) van een jahwistische bron die ergens in de vroege Perzische periode (5e eeuw voor Christus) is gemaakt. De naam van het boek komt van de twee tellingen van de Israëlieten.
 
 Numeri begint bij de berg Sinaï, waar de Israëlieten hun wetten en verbond van God hebben ontvangen en God onder hen in het heiligdom is gaan wonen. De taak die voor hen ligt is om het Beloofde Land in bezit te nemen. De mensen worden geteld en er worden voorbereidingen getroffen om de mars te hervatten. De Israëlieten beginnen aan de reis, maar ze 'mopperen' over de ontberingen onderweg en over het gezag van Mozes en Aäron. Voor deze daden vernietigt God ongeveer 15.000 van hen op verschillende manieren. Ze komen aan bij de grens van Kanaän en sturen spionnen het land in. Bij het horen van het angstaanjagende bericht van de spionnen over de toestand in Kanaän, weigeren de Israëlieten het in bezit te nemen. God veroordeelt hen tot de dood in de woestijn totdat een nieuwe generatie kan opgroeien en de taak kan uitvoeren.

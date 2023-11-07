@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Kronieken</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Kronieken (Hebreeuws: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) is een boek in de Hebreeuwse Bijbel, gevonden als twee boeken (1-2 Kronieken) in het christelijke Oude Testament. Chronicles is het laatste boek van de Hebreeuwse Bijbel, waarmee het derde deel van de Joodse Tenach, de Ketuvim ("Geschriften") wordt afgesloten. Het bevat een genealogie die begint met Adam en een geschiedenis van het oude Juda en Israël tot aan het Edict van Cyrus in 539 voor Christus.
 
 Het boek werd in de Septuagint in twee boeken verdeeld en halverwege de 3e eeuw voor Christus vertaald. In christelijke contexten wordt Chronicles in het meervoud de Books of Chronicles genoemd, naar de Latijnse naam Chronicon die Hiëronymus aan de tekst heeft gegeven, maar er wordt ook zelden naar verwezen met hun Griekse naam als de Books of Paralipomenon. In christelijke bijbels volgen ze meestal de twee boeken der koningen en gaan ze vooraf aan Ezra-Nehemia, het laatste op geschiedenis gerichte boek van het protestantse Oude Testament.

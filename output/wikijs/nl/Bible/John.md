@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Johannes</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het evangelie van Johannes (Oudgrieks: Εὐαγγέλιον κατὰ Ἰωάννην, geromaniseerd: Euangélion katà Iōánnēn) is het vierde van de vier canonieke evangeliën. Het bevat een zeer schematisch verslag van de bediening van Jezus, met zeven "tekenen" die culmineerden in de opwekking van Lazarus (een voorafschaduwing van de opstanding van Jezus) en zeven "Ik ben"-discoursen (betreffende kwesties van het kerk-synagogedebat in die tijd compositie) culminerend in Thomas' proclamatie van de verrezen Jezus als “mijn Heer en mijn God”. In de slotverzen van het evangelie wordt het doel ervan uiteengezet: "dat u zult geloven dat Jezus de Christus is, de Zoon van God, en dat u, door te geloven, het leven in zijn naam zult hebben."
 
 John bereikte zijn definitieve vorm rond 90-110 na Christus, hoewel het sporen van oorsprong bevat die teruggaan tot 70 na Christus en mogelijk zelfs eerder. Net als de drie andere evangeliën is het anoniem, hoewel het een niet nader genoemde "discipel van wie Jezus hield" als de bron van zijn tradities identificeert. Het is hoogstwaarschijnlijk ontstaan ​​binnen een "Johannijnse gemeenschap", en omdat het qua stijl en inhoud nauw verwant is aan de drie Johannesbrieven, behandelen de meeste geleerden de vier boeken, samen met het boek Openbaring, als een enkel corpus van Johannesliteratuur, zij het niet van dezelfde auteur.

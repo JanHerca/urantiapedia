@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Openbaring</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Openbaring is het laatste boek van het Nieuwe Testament (en bijgevolg het laatste boek van de christelijke Bijbel). De titel is afgeleid van het eerste woord van de Koine Griekse tekst: apokalypsis, wat 'onthulling' of 'openbaring' betekent. Het boek Openbaring is het enige apocalyptische boek in de canon van het Nieuwe Testament. Het neemt een centrale plaats in in de christelijke eschatologie.
 
 De auteur noemt zichzelf in de tekst "John", maar zijn precieze identiteit blijft een punt van academisch debat. Tweede-eeuwse christelijke schrijvers zoals Papias van Hierapolis, Justinus de Martelaar, Irenaeus, Melito van Sardis, Clemens van Alexandrië en de auteur van het Muratoriaanse fragment identificeren Johannes de Apostel als de “Johannes” van Openbaring. De moderne wetenschap neemt over het algemeen een ander standpunt in, en velen zijn van mening dat er niets over de auteur bekend kan worden behalve dat hij een christelijke profeet was. Moderne theologische geleerden karakteriseren de auteur van het boek Openbaring als "Johannes van Patmos". Het grootste deel van de traditionele bronnen dateert het boek uit het bewind van de Romeinse keizer Domitianus (81-96 n.Chr.), wat door bewijs wordt bevestigd.

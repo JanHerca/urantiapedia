@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jozua</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Jozua (Hebreeuws: ספר יהושע Sefer Yehoshua) is het zesde boek in de Hebreeuwse Bijbel en het christelijke Oude Testament, en is het eerste boek van de Deuteronomistische geschiedenis, het verhaal van Israël vanaf de verovering van Kanaän tot de Babylonische ballingschap. Het vertelt over de campagnes van de Israëlieten in Midden-, Zuid- en Noord-Kanaän, de vernietiging van hun vijanden en de verdeling van het land onder de Twaalf Stammen, omlijst door twee vaste toespraken, de eerste door God die de verovering van de land, en, aan het einde, de tweede door Jozua die waarschuwde voor de noodzaak van getrouwe naleving van de Wet (thora) die aan Mozes was geopenbaard.
 
 Bijna alle geleerden zijn het erover eens dat het boek Jozua weinig historische waarde heeft voor het vroege Israël en hoogstwaarschijnlijk een veel latere periode weerspiegelt. De vroegste delen van het boek zijn mogelijk de hoofdstukken 2-11, het verhaal van de verovering; deze hoofdstukken werden later opgenomen in een vroege vorm van Jozua die waarschijnlijk laat in het bewind van koning Josia (regeerde 640-609 vGT) werd geschreven, maar het boek werd pas voltooid na de val van Jeruzalem aan het Neo-Babylonische rijk in 586 vGT, en mogelijk pas na de terugkeer uit de Babylonische ballingschap in 539 vGT. 

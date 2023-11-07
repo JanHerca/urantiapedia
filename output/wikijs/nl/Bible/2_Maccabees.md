@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Makkabeeën</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 2 Makkabeeën, ook bekend als het Tweede Boek der Makkabeeën, Tweede Makkabeeën, en afgekort als 2 Maccabeeën, is een deutero-canoniek boek dat de vervolging van Joden onder koning Antiochus IV Epiphanes en de Maccabean-opstand tegen hem vertelt. Het eindigt met de nederlaag van de Seleucidische generaal Nicanor in 161 voor Christus door Judas Maccabeus, de leider van de Makkabeeën.
 
 2 Makkabeeën werd oorspronkelijk in het Koine-Grieks geschreven door een onbekende diaspora-jood die in het Hellenistische Egypte woonde. Het is waarschijnlijk ergens tussen 150 en 120 voor Christus geschreven. Samen met het boek 1 Makkabeeën is het een van de belangrijkste bronnen over de Makkabeeënopstand. Het werk is geen vervolg op 1 Makkabeeën, maar eerder een eigen onafhankelijke vertolking van de historische gebeurtenissen van de Makkabeeënopstand. Het begint en eindigt zijn geschiedenis eerder dan 1 Makkabeeën, beginnend met een incident met de Seleucidische officiële Heliodorus die probeerde de Tweede Tempel te belasten in 178 voor Christus, en eindigend met de Slag bij Adasa in 161 voor Christus. Sommige geleerden geloven dat het boek is beïnvloed door de farizeïsche traditie, met secties die een bevestiging van gebed voor de doden en een opstanding van de doden bevatten.

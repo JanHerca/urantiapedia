@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Leviticus</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Leviticus (/lɪˈvɪtɪkəs/, uit het Oudgrieks: Λευιτικόν, Leuïtikón; Hebreeuws: וַיִּקְרָא, Vayyīqrāʾ, “En Hij riep”) is het derde boek van de Thora (de Pentateuch) en van het Oude Testament, ook bekend als het Derde Boek van Mozes. Geleerden zijn het er in het algemeen over eens dat het zich gedurende een lange periode heeft ontwikkeld en zijn huidige vorm heeft bereikt tijdens de Perzische periode, van 538-332 voor Christus.
 
 De meeste hoofdstukken (1-7, 11-27) bestaan ​​uit toespraken van Jahweh tot Mozes, die Jahweh tegen Mozes zegt te herhalen voor de Israëlieten. Dit vindt plaats in het verhaal van de uittocht van de Israëlieten nadat ze uit Egypte waren ontsnapt en de berg Sinaï bereikten ([Exodus 19:1](/nl/Bible/Exodus/19#v1)). Het boek Exodus vertelt hoe Mozes de Israëlieten leidde bij het bouwen van de tabernakel (Exodus 35–40) met Gods instructies ([Exodus 25–31](/nl/Bible/Exodus/25)). In Leviticus vertelt God de Israëlieten en hun priesters, de Levieten, hoe ze offers moeten brengen in de Tabernakel en hoe ze zich moeten gedragen terwijl ze hun kamp opslaan rond het heiligdom van de heilige tent. Leviticus vindt plaats gedurende de maand of anderhalve maand tussen de voltooiing van de Tabernakel ([Exodus 40:17](/nl/Bible/Exodus/40#v17)) en het vertrek van de Israëlieten uit de Sinaï (Numeri [1:1](/nl/Bible/Numbers/1#v1), [10:11](/nl/Bible/Numbers/10#v11)).

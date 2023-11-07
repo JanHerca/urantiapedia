@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jesaja</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Jesaja (Hebreeuws: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) is de eerste van de laatste profeten in de Hebreeuwse Bijbel en de eerste van de grote profeten in het christelijke Oude Testament. Het wordt geïdentificeerd door een opschrift als de woorden van de 8e-eeuwse BCE-profeet Jesaja ben Amoz, maar er is uitgebreid bewijs dat veel ervan werd gecomponeerd tijdens de Babylonische ballingschap en later. Johann Christoph Döderlein suggereerde in 1775 dat het boek de werken bevatte van twee profeten die meer dan een eeuw van elkaar gescheiden waren, en Bernhard Duhm bracht de opvatting voort, die gedurende het grootste deel van de 20e eeuw als een consensus werd beschouwd, dat het boek drie afzonderlijke verzamelingen orakels omvat: Proto-Jesaja (hoofdstukken 1-39), met de woorden van de 8e-eeuwse BCE-profeet Jesaja; Deutero-Jesaja (hoofdstukken 40-55), het werk van een anonieme auteur uit de 6e eeuw voor Christus die schreef tijdens de ballingschap; en Trito-Jesaja (hoofdstukken 56-66), gecomponeerd na de terugkeer uit ballingschap. Jesaja 1-33 belooft oordeel en herstel voor Juda, Jeruzalem en de naties, en de hoofdstukken 34-66 veronderstellen dat het oordeel is uitgesproken en dat herstel spoedig volgt. Hoewel vrijwel geen enkele geleerde tegenwoordig het hele boek, of zelfs het grootste deel ervan, aan één persoon toeschrijft, is de essentiële eenheid van het boek een focus geworden in recenter onderzoek.
 
 Het boek kan worden gelezen als een uitgebreide meditatie over het lot van Jeruzalem in en na de ballingschap. Het Deutero-Isaiaanse deel van het boek beschrijft hoe God Jeruzalem tot het centrum van zijn wereldwijde heerschappij zal maken door middel van een koninklijke verlosser (een messias) die de onderdrukker (Babylon) zal vernietigen; deze messias is de Perzische koning Cyrus de Grote, die slechts de agent is die het koningschap van Jahweh tot stand brengt. Jesaja spreekt zich uit tegen corrupte leiders en voor de kansarmen, en wortelt gerechtigheid in Gods heiligheid in plaats van in Israëls verbond.

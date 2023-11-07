@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezra</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Ezra is een boek van de Hebreeuwse Bijbel; die vroeger het boek Nehemia in één enkel boek omvatte, dat in de wetenschap gewoonlijk wordt onderscheiden als Ezra-Nehemia. De twee raakten gescheiden met de eerste gedrukte rabbijnse bijbels van het begin van de 16e eeuw, volgens de laatmiddeleeuwse Latijns-christelijke traditie. Samengesteld in het Hebreeuws en Aramees, het onderwerp is de terugkeer naar Sion na het einde van de Babylonische ballingschap, en het is verdeeld in twee delen, het eerste vertelt het verhaal van de eerste terugkeer van ballingen in het eerste jaar van Cyrus de Grote (538 v.Chr.) en de voltooiing en inwijding van de nieuwe tempel in Jeruzalem in het zesde jaar van Darius I (515 v.Chr.), het tweede verhaal van de daaropvolgende missie van Ezra naar Jeruzalem en zijn strijd om de Joden te zuiveren van het huwelijk met niet-Joden. Samen met het boek Nehemia,
 
 Ezra is geschreven volgens een schematisch patroon waarin de God van Israël een koning van Perzië inspireert om een ​​leider van de Joodse gemeenschap opdracht te geven een missie uit te voeren; drie opeenvolgende leiders voeren drie van dergelijke missies uit: de eerste herbouwt de tempel, de tweede zuivert de Joodse gemeenschap en de derde verzegelt de heilige stad zelf achter een muur. (Deze laatste missie, die van Nehemia, maakt geen deel uit van het boek Ezra.) Het theologische programma van het boek verklaart de vele problemen die de chronologische structuur met zich meebrengt. Het verscheen waarschijnlijk in zijn vroegste versie rond 399 v.Chr., en werd nog enkele eeuwen herzien en bewerkt voordat het in de vroegchristelijke tijd als schriftuurlijk werd aanvaard.

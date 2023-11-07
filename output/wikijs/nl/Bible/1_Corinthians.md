@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Korinthe</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 De eerste brief aan de Korinthiërs (Oudgrieks: Α΄ ᾽Επιστολὴ πρὸς Κορινθίους) is een van de brieven van Paulus, onderdeel van het Nieuwe Testament van de christelijke Bijbel. De brief wordt toegeschreven aan Paulus de Apostel en een co-auteur, Sosthenes, en is gericht aan de christelijke kerk in Korinthe. Geleerden geloven dat Sosthenes de amanuensis was die de tekst van de brief in opdracht van Paulus opschreef. Het behandelt verschillende problemen die zich hadden voorgedaan in de christelijke gemeenschap in Korinthe, en is samengesteld in een vorm van Koine Grieks.
 
 ## Index

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Psalmen</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het Boek der Psalmen (/sɑːmz/ SAHMZ of /sɔː(l)mz/ SAW(L)MZ; Hebreeuws: תְּהִלִּים, Tehillim, lit. "lof"), ook bekend als de Psalmen, of het Psalter, is het eerste boek van de Ketuvim (“Geschriften”), het derde deel van de Tenach, en een boek van het Oude Testament. De titel is afgeleid van de Griekse vertaling, ψαλμοί (psalmoi), wat "instrumentale muziek" betekent en, bij uitbreiding, "de woorden die de muziek vergezellen". Het boek is een bloemlezing van individuele Hebreeuwse religieuze hymnen, met 150 in de joodse en westerse christelijke traditie en meer in de oosterse christelijke kerken. Velen zijn gekoppeld aan de naam van David, maar de moderne wetenschap verwerpt zijn auteurschap en schrijft in plaats daarvan de samenstelling van de psalmen toe aan verschillende auteurs die tussen de 9e en 5e eeuw voor Christus schreven.
 
 ## Index

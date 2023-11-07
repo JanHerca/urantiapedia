@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Prediker</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Prediker (/ɪˌkliːziˈæstiːz/; Bijbels Hebreeuws: קֹהֶלֶת, geromaniseerd: qōheleṯ, Oudgrieks: Ἐκκλησιαστής, geromaniseerd: Ekklēsiastēs) is een van de Ketuvim (“Geschriften”) van de Hebreeuwse Bijbel en een van de “Wijsheid”-boeken van de christelijke oude Testament. De titel die gewoonlijk in het Engels wordt gebruikt, is een Latijnse transliteratie van de Griekse vertaling van het Hebreeuwse woord קֹהֶלֶת (Kohelet, Koheleth, Qohelet of Qohelet). Een niet nader genoemde auteur introduceert “De woorden van Kohelet, zoon van David, koning in Jeruzalem” (1:1) en gebruikt zijn eigen stem pas in de laatste verzen (12:9-14), waar hij zijn eigen gedachten en vat de uitspraken van Kohelet samen; het hoofdgedeelte van de tekst wordt toegeschreven aan Kohelet zelf.
 
 Kohelet verkondigt (1:2) “IJdelheid der ijdelheden! Alles is zinloos!”; het Hebreeuwse woord hevel, "damp", kan figuurlijk "niet-substantieel", "ijdel", "nutteloos" of "betekenisloos" betekenen. Daarom stelt het volgende vers de fundamentele existentiële vraag waarmee de rest van het boek zich bezighoudt: "Wat baat een mens voor al zijn zwoegen, waarin hij zwoegt onder de zon?", waarmee hij uitdrukt dat het leven van zowel wijzen als dwaze mensen eindigen allemaal in de dood. Terwijl Kohelet wijsheid onderschrijft als middel voor een goed geleefd aards leven, kan hij er geen eeuwige betekenis aan toekennen. In het licht van deze vermeende zinloosheid suggereert hij dat mensen moeten genieten van de eenvoudige geneugten van het dagelijks leven, zoals eten, drinken en plezier hebben in het werk, die geschenken uit de hand van God zijn. Het boek besluit met het bevel: 'Vrees God en onderhoud zijn geboden; want dat is de plicht van de hele mensheid. Aangezien elke daad zal God aan het oordeel brengen, voor elke verborgen daad, of het nu goed of slecht is.”

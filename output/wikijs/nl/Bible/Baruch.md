@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRIEFEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Baruc</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het Boek van Baruch is een deuterocanoniek boek van de Bijbel, dat wordt gebruikt in de meeste christelijke tradities, zoals katholieke en orthodoxe kerken. In het jodendom en het protestantse christendom wordt het beschouwd als geen onderdeel van de canon, terwijl de protestantse bijbels het categoriseren als onderdeel van de bijbelse apocriefen. Het boek is vernoemd naar Baruch ben Neria, Jeremia's bekende schrijver, die in Baruch 1:1 wordt genoemd, en waarvan wordt aangenomen dat hij de auteur van het hele werk is. Het boek is een weerspiegeling van een overleden joodse schrijver over de omstandigheden van joodse ballingen uit Babylon, met meditaties over de theologie en geschiedenis van Israël, discussies over wijsheid en een directe toespraak tot inwoners van Jeruzalem en de diaspora. Sommige geleerden stellen voor dat het tijdens of kort na de periode van de Makkabeeën werd geschreven.
 
 Het Boek van Baruch wordt soms 1 Baruch genoemd om het te onderscheiden van 2 Baruch, 3 Baruch en 4 Baruch.

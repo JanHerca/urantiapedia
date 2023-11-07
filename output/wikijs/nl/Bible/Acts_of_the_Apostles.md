@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Handelingen</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 De Handelingen van de Apostelen (Koinē Grieks: Πράξεις Ἀποστόλων, Práxeis Apostólōn; Latijn: Actūs Apostolōrum) is het vijfde boek van het Nieuwe Testament; het vertelt over de oprichting van de christelijke kerk en de verspreiding van haar boodschap aan het Romeinse rijk. Het geeft een verslag van de bediening en activiteit van Christus' apostelen in Jeruzalem en andere regio's, na Christus' dood, opstanding en hemelvaart.
 
 Handelingen en het evangelie van Lucas vormen een tweedelig werk, Lucas-Handelingen, van dezelfde anonieme auteur. Het wordt meestal gedateerd rond 80-90 na Christus, hoewel sommige geleerden 90-110 suggereren. Het eerste deel, het evangelie van Lucas, vertelt hoe God zijn plan voor de redding van de wereld vervulde door het leven, de dood en de opstanding van Jezus van Nazareth, de beloofde messias. Handelingen vervolgt het verhaal van het christendom in de 1e eeuw, te beginnen met de hemelvaart van Jezus. De eerste hoofdstukken, die zich in Jeruzalem afspelen, beschrijven de Pinksterdag (de komst van de Heilige Geest) en de groei van de kerk in Jeruzalem. Aanvankelijk staan ​​de joden ontvankelijk voor de christelijke boodschap, maar later keren ze zich tegen de volgelingen van Jezus. Verworpen door de Joden, wordt de boodschap onder leiding van Paulus de Apostel naar de heidenen gebracht. De latere hoofdstukken vertellen over Paulus' bekering, zijn missie in Klein-Azië en de Egeïsche Zee, en ten slotte zijn gevangenschap in Rome, waar hij, aan het einde van het boek, zijn proces afwacht.

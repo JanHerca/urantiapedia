@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRIEFEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hemelvaart van Mozes</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 De Hemelvaart van Mozes (ook wel het Testament van Mozes genoemd, Hebr.:עליית משה) is een Joods apocrief pseudepigrafisch werk uit de 1e eeuw. Het beweert geheime profetieën te bevatten die Mozes aan Jozua openbaarde voordat hij het leiderschap van de Israëlieten aan hem doorgaf. Het bevat apocalyptische thema's, maar wordt gekarakteriseerd als een "testament", wat betekent dat het de laatste toespraak heeft van een stervende persoon, Mozes. 
 
 Men denkt dat de tekst oorspronkelijk in het Hebreeuws of een andere Semitische taal is geschreven en vervolgens in het Koine-Grieks is vertaald. Het enige overgebleven manuscript is een 6e-eeuwse Latijnse vertaling van de Griekse tekst. Het manuscript was onvolledig en de rest van de tekst is verloren gegaan. Uit verwijzingen in oude werken wordt aangenomen dat de ontbrekende tekst een dispuut afbeeldde over het lichaam van Mozes, tussen de aartsengel Michaël en de duivel.

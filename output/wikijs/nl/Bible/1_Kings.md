@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Koningen</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het Boek der Koningen (Hebreeuws: ספר מלכים, sefer melakhim) is een boek in de Hebreeuwse Bijbel, gevonden als twee boeken (1-2 Koningen) in het christelijke Oude Testament. Het besluit de Deuteronomistische geschiedenis, een geschiedenis van Israël die ook de boeken Jozua en Rechters en de boeken Samuël omvat.
 
 Bijbelcommentatoren geloven dat de Boeken der Koningen zijn geschreven om een ​​theologische verklaring te geven voor de vernietiging van het koninkrijk Juda door Babylon in c. 586 vGT en om een ​​basis te leggen voor een terugkeer uit Babylonische ballingschap. De twee boeken Koningen geven een geschiedenis weer van het oude Israël en Juda, van de dood van koning David tot de vrijlating van Jojachin uit gevangenschap in Babylon – een periode van ongeveer 400 jaar (ca. 960 – ca. 560 vGT). Geleerden hebben de neiging om de boeken te behandelen als bestaande uit een eerste editie uit de late 7e eeuw BCE en een tweede en laatste editie uit het midden van de 6e eeuw BCE. 

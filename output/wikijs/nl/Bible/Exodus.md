@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Exodus</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Exodus (uit het Oudgrieks: Ἔξοδος, geromaniseerd: Éxodos; Hebreeuws: שְׁמוֹת Šəmōṯ, "Namen") is het tweede boek van de Bijbel. Het vertelt het verhaal van de Exodus, waarin de Israëlieten de slavernij in het bijbelse Egypte verlaten door de kracht van Jahweh, die hen als zijn volk heeft gekozen. De Israëlieten reizen vervolgens met de profeet Mozes naar de berg Sinaï, waar Jahweh de 10 geboden geeft en ze gaan een verbond aan met Jahweh, die belooft hen tot een "heilige natie en een koninkrijk van priesters" te maken op voorwaarde van hun trouw. Hij geeft hun hun wetten en instructies om de Tabernakel te bouwen, het middel waarmee hij uit de hemel zal komen en bij hen zal wonen en hen zal leiden in een heilige oorlog om het land Kanaän (het "Beloofde Land") te bezitten, dat eerder had, volgens het verhaal van Genesis, beloofd aan het zaad van Abraham.
 
 Traditioneel toegeschreven aan Mozes zelf, zien moderne geleerden de oorspronkelijke samenstelling als een product van de Babylonische ballingschap (6e eeuw BCE), gebaseerd op eerdere geschreven bronnen en mondelinge tradities, met definitieve herzieningen in de Perzische periode na de ballingschap (5e eeuw BCE). Carol Meyers suggereert in haar commentaar op Exodus dat het misschien wel het belangrijkste boek in de Bijbel is, aangezien het de bepalende kenmerken van Israëls identiteit presenteert: herinneringen aan een verleden gekenmerkt door ontbering en ontsnapping, een bindend verbond met God, die ervoor kiest Israël, en de oprichting van het leven van de gemeenschap en de richtlijnen om het in stand te houden. De consensus onder moderne geleerden is dat het verhaal in het boek Exodus het best kan worden begrepen als een mythe.

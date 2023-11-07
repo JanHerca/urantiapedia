@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Eclesiástico</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het Boek van Sirach (/ˈsaɪræk/) of Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/; afgekort Ecclus.), is een Joods werk, oorspronkelijk in het Hebreeuws, van ethische leer, van ongeveer 200 tot 175 voor Christus, geschreven door de Judahitische schrijver Ben Sira van Jeruzalem , op inspiratie van zijn vader Joshua, zoon van Sirach, soms Jezus zoon van Sirach of Yeshua ben Eliezer ben Sira genoemd. 
 
 In Egypte werd het in het Grieks vertaald door de naamloze kleinzoon van de auteur, die er een proloog aan toevoegde. Deze proloog wordt over het algemeen beschouwd als de vroegste getuige van een canon [verduidelijking nodig] van de boeken van de profeten, en daarom is de datum van de tekst het onderwerp van intensief onderzoek. Het boek zelf is het grootste wijsheidsboek uit de oudheid dat bewaard is gebleven.

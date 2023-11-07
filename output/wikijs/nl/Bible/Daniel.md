@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Daniël</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het boek Daniël is een bijbelse apocalyps uit de 2e eeuw voor Christus met een decor uit de 6e eeuw voor Christus. Ogenschijnlijk "een verslag van de activiteiten en visioenen van Daniël, een nobele Jood verbannen in Babylon", combineert het een profetie van de geschiedenis met een eschatologie (een afbeelding van eindtijd), zowel kosmisch in omvang als politiek in focus, en de boodschap is dat net zoals de God van Israël Daniël redt van zijn vijanden, zo zou hij heel Israël redden in hun huidige onderdrukking.
 
 De Hebreeuwse Bijbel bevat Daniël in de Ketuvim (geschriften), terwijl christelijke bijbelse canons het werk groeperen met de Grote Profeten. Het bestaat uit twee delen: een set van zes hofverhalen in de hoofdstukken 1-6, meestal geschreven in het Aramees, en vier apocalyptische visioenen in de hoofdstukken 7-12, meestal geschreven in het Hebreeuws; de deuterocanonieke boeken bevatten drie extra secties, het gebed van Azaria en het lied van de drie heilige kinderen, Susanna en Bel en de draak. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE BIJBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Dutch Staten Vertaling, 1750</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hooglied</text>
+	</g>
+</svg>
+</div>
+
+## Beschrijving
+
+
 Het Hooglied (Hebreeuws: שִׁיר הַשִּׁירִים Šīr hašŠīrīm; Grieks: ᾎσμα ᾀσμάτων, translit. Âisma āismátōn, Koine Griekse uitspraak: [ˈäˑ.z̠mä äˈz̠mä.to̞n]), ook wel het Hooglied of het Hooglied genoemd, is een erotisch gedicht dat een van de megillot (rollen) is die wordt gevonden in het laatste deel van de Tenach, bekend als de Ketuvim (of "Geschriften"). Het is uniek binnen de Hebreeuwse Bijbel: het toont geen interesse in de Wet of het Verbond of de God van Israël, noch leert of onderzoekt het wijsheid zoals Spreuken of Prediker (hoewel het wel enige verwantschap heeft met wijsheidsliteratuur, zoals de toeschrijving aan de 10e eeuw vGT geeft koning van Israël Salomo aan); in plaats daarvan viert het seksuele liefde, door "de stemmen van twee geliefden te geven, elkaar te prijzen, naar elkaar te verlangen en uit te nodigen om te genieten".
 
 De twee zijn in harmonie, de een verlangt naar de ander en verheugt zich in seksuele intimiteit. De vrouwen van Jeruzalem vormen een koor voor de geliefden en fungeren als een publiek wiens deelname aan de erotische ontmoetingen van de geliefden de deelname van de lezer vergemakkelijkt. Geleerden verschillen van mening over wanneer het werd geschreven, met schattingen variërend van de 10e tot de 2e eeuw BCE, met een analyse van de gebruikte taal die de 3e eeuw suggereert. In het moderne jodendom wordt het lied op de sabbat gelezen tijdens het Pascha, dat het begin van de graanoogst markeert en tevens de uittocht uit het bijbelse Egypte herdenkt. De Joodse traditie leest het als een allegorie van de relatie tussen God en Israël; Christendom, als een allegorie van Christus en zijn bruid, de Kerk. 
