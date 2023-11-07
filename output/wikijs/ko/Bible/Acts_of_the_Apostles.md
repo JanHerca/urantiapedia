@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">사도행전</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 사도행전(그리스어: Πράξεις Ἀποστόλων, Práxeis Apostolōn; 라틴어: Actūs Apostolōrum)은 신약의 다섯 번째 책입니다. 그것은 기독교 교회의 설립과 로마 제국에 대한 그 메시지의 전파에 대해 알려줍니다. 그것은 그리스도의 죽음, 부활, 승천 후에 예루살렘과 다른 지역에서 그리스도의 사도들의 사역과 활동에 대한 설명을 제공합니다.
 
 사도행전과 누가복음은 같은 익명의 저자가 2부작인 누가-사도행전을 구성합니다. 일부 학자들은 90-110년을 제안하지만 일반적으로 약 80-90년으로 추정됩니다. 첫 번째 부분인 누가복음은 하나님께서 약속된 메시아인 나사렛 예수의 삶과 죽음과 부활을 통해 세상의 구원을 위한 계획을 어떻게 이루셨는지 알려줍니다. 사도행전은 예수님의 승천을 시작으로 1세기 기독교의 이야기를 이어갑니다. 예루살렘을 배경으로 한 초기 장은 오순절(성령 강림)과 예루살렘 교회의 성장을 묘사합니다. 처음에는 유대인들이 기독교 메시지를 받아들였지만 나중에는 예수를 따르는 사람들에게 등을 돌렸습니다. 유대인들에게 거부당한 메시지는 사도 바울의 인도 아래 이방인들에게 전달됩니다. 이후 장에서는 바울의 개종, 소아시아와 에게해에서의 선교, 그리고 마침내 로마에 투옥되어 책이 끝날 때 재판을 기다리는 것에 대해 이야기합니다.

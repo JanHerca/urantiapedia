@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">사무엘상</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 사무엘서(히브리어: ספר שמואל, Sefer Shmuel)는 기독교 구약에서 두 권의 책(사무엘상 1-2서)으로 발견되는 히브리어 성경의 책입니다. 이 책은 이스라엘의 신학적 역사를 구성하고 인도 아래 이스라엘을 위한 하나님의 율법을 설명하는 것을 목표로 하는 일련의 책(여호수아, 사사기, 사무엘, 열왕기)인 신명기 역사라고 하는 고대 이스라엘의 서사 역사의 일부입니다. 예언자들의. 
 
 유대 전통에 따르면 이 책은 사무엘이 기록했으며 선지자 갓과 나단이 추가하여 기록했는데, 이들은 함께 다윗의 통치 기간 동안 역대상에 나타난 세 명의 예언자입니다. 현대의 학자들은 신명기 전체가 기원전 630-540년경에 다양한 시대의 여러 독립된 텍스트를 결합하여 구성되었다고 가정합니다.

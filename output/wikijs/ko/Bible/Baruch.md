@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">외전</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">바룩</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 바룩의 책은 가톨릭과 정교회와 같은 대부분의 기독교 전통에서 사용되는 성경의 신명기 책입니다. 유대교와 개신교 기독교에서는 정경의 일부가 아닌 것으로 간주되며 개신교 성경은 그것을 성경 외경의 일부로 분류합니다. 이 책의 이름은 바룩 1:1에 언급되어 있는 예레미야의 유명한 서기관 바룩 벤 네리야의 이름을 따서 명명되었으며 전체 작품의 저자로 추정됩니다. 이 책은 이스라엘의 신학과 역사에 대한 묵상, 지혜에 대한 토론, 예루살렘과 디아스포라 거주자들에게 직접 연설한 바빌론에서 유배된 유대인들의 상황에 대한 후기 유대인 작가의 반영입니다. 일부 학자들은 그것이 마카베오 시대 또는 그 직후에 기록되었다고 제안합니다.
 
 바룩서는 2 바룩, 3 바룩, 4 바룩과 구별하기 위해 때때로 1 바룩이라고도 합니다.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">시편</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 시편(/sɑːmz/ SAHMZ 또는 /sɔː(l)mz/ SAW(L)MZ; 히브리어: תְּהִלִּים, Tehillim, 문자적으로 “찬양”)은 시편 또는 시편으로도 알려져 있는 첫 번째 책입니다. Ketuvim("글"), Tanakh의 세 번째 부분, 그리고 구약의 책. 이 제목은 그리스어 번역 ψαλμοί(psalmoi)에서 파생된 것으로, "기악 음악"을 의미하고, 더 나아가 "음악에 수반되는 단어"를 의미합니다. 이 책은 유대교와 서구 기독교 전통에 150개, 동방 기독교 교회에 더 많은 히브리 종교 찬송가로 구성된 개별 히브리 종교 찬송가의 선집입니다. 많은 사람들이 다윗의 이름과 관련되어 있지만 현대 학자들은 그의 저자임을 거부하고 대신 시편의 구성을 기원전 9세기에서 5세기 사이에 쓴 다양한 작가들에게 돌립니다. 
 
 ## Index

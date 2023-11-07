@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">에베소서</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 에베소서신서는 신약성경의 열 번째 책입니다. 이 책의 저자는 전통적으로 바울 사도에게 돌아갔지만 1792년부터 Deutero-Pauline, 즉 바울의 사상에 크게 영향을 받은 후대의 저자가 바울의 이름으로 쓴 pseudepigrapha로 이의를 제기했습니다. 바울의 가르침을 계승하고 그것을 사도가 죽은 후 15년에서 25년 사이의 새로운 상황에 적용하는 것입니다.” 
 
 ## Index

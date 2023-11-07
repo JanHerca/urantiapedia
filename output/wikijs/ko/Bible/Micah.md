@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">미가</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 미가서는 히브리어 성경의 열두 소선지서 중 여섯 번째입니다. 표면적으로, 그것은 Mikayahu(히브리어: מִיכָיָ֫הוּ)라는 이름의 Micah의 말을 기록하고 있는데, 이는 "누가 여호와와 같습니까?"를 의미하며, 기원전 8세기 유다의 모레셋 마을 출신의 예언자입니다(첫 구절의 히브리어 이름: מיכה) המרשתי). 
 
 이 책은 1~2장, 3~5장, 6~7장이라는 세 개의 주요 부분으로 구성되어 있으며, 각 부분에서 운명에 대한 선언과 희망의 표현이 번갈아 나타나는 패턴으로 "듣기"라는 단어가 도입되었습니다. 미가는 불의한 지도자들을 책망하고 부자와 권력자로부터 가난한 사람들의 권리를 옹호합니다. 새로운 다윗 왕조의 지도 아래 시온을 중심으로 한 평화로운 세상을 기대하면서.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">레위기</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 레위기(/lɪˈvɪtɪkəs/, 고대 그리스어: Λευιτικόν, Leuïtikón; 히브리어: וַיִּקְרָא, Vayyīqrāʾ, "그가 부르셨다")는 토라의 세 번째 책이며 오경이라고도 합니다. 모세의 세 번째 책. 학자들은 일반적으로 그것이 오랜 기간에 걸쳐 발전하여 기원전 538-332년의 페르시아 시대에 현재의 형태에 도달했다는 데 동의합니다.
 
 대부분의 장(1-7, 11-27)은 여호와께서 모세에게 하신 말씀으로 구성되어 있으며, 여호와께서 모세에게 이 말씀을 이스라엘 사람들에게 반복하라고 말씀하십니다. 이것은 이스라엘 백성이 애굽을 탈출하여 시내산에 도착한 후의 이야기에서 일어난다([출애굽기 19:1](/ko/Bible/Exodus/19#v1)). 출애굽기는 하나님의 지시([출애굽기 25-31](/성경/출애굽기/25))에 따라 모세가 이스라엘 백성을 어떻게 인도하여 성막을 지었는지(출애굽기 35~40장) 이야기하고 있습니다. 레위기에서 하나님은 이스라엘과 그들의 제사장인 레위 사람들에게 성막에서 제사를 드리는 방법과 거룩한 장막 성소 주위에 장막을 치는 방법에 대해 말씀하십니다. 레위기는 성막의 완성 ([출애굽기 40:17](/ko/Bible/Exodus/40#v17)) 과 이스라엘 백성이 시내산에서 떠나는 사이 한 달 반 동안 일어난다(민수기 [1:1](/ko/Bible/Numbers/1#v1), [10:11](/ko/Bible/Numbers/10#v11)).

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">욥기</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 욥기(/dʒoʊb/; 성서 히브리어: אִיּוֹב, 로마자: ʾIyyōḇ)는 신정론, 즉 신이 왜 세상에서 악을 허용하는지 같은 이름의 주인공의 경험을 통해 설명합니다. 욥은 부유하고 하나님을 경외하는 사람으로 안락한 삶과 대가족을 가지고 있습니다. 하나님은 사탄(@, haśśāṭān, '고발자')에게 욥의 경건에 대한 자신의 의견을 물으신 후 욥이 무일푼이 된다면 욥의 재산과 가족과 물질적 안락을 빼앗기로 결정합니다. 가족, 그는 하나님에게서 등을 돌릴 것입니다. 
 
 이 책은 히브리어 성경(Tanakh)의 케투빔(Ketuvim)("글쓰기") 부분에서 발견되며, 기독교 성경의 구약성서에 있는 시의 책들 중 첫 번째 책입니다. 학자들은 일반적으로 그것이 기원전 7세기에서 4세기 사이에 기록되었다는 데 동의합니다.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">열왕기상</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 열왕기서(히브리어: ספר מלכים, sefer melakhim)는 기독교 구약에서 두 권의 책(열왕기상 1-2장)으로 발견되는 히브리어 성경의 책입니다. 그것은 신명기의 역사, 여호수아와 사사기, 사무엘서를 포함하는 이스라엘의 역사를 끝맺는다.
 
 성서 주석가들은 열왕기가 기원전 400년경 바빌론에 의한 유다 왕국의 멸망에 대한 신학적 설명을 제공하기 위해 기록되었다고 믿습니다. 기원전 586년, 바빌론 유배에서 귀환을 위한 기초를 제공하기 위해. 두 열왕기는 고대 이스라엘과 유다의 역사를 보여줍니다. 다윗 왕의 죽음부터 여호야긴이 바빌론에 갇힌 상태에서 풀려날 때까지(약 400년(기원전 960년경~기원전 560년경))입니다. 학자들은 책을 기원전 7세기 후반의 초판과 기원전 6세기 중반의 두 번째이자 마지막 판으로 구성된 것으로 취급하는 경향이 있습니다. 

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">느헤미야</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 히브리어 성경 느헤미야서는 바벨론 유배 후 페르시아 궁정의 고관인 느헤미야가 예루살렘 성벽을 재건한 일과 도시와 그 백성을 하나님의 율법(토라)에 따르라. 16세기 이후로 일반적으로 성경에서는 별도의 책으로 취급되어 왔습니다. 그 날짜 이전에 그것은 에스라서에 포함되었습니다. 그러나 13세기 이후의 라틴 기독교 성경에서 벌게이트 에스라 책은 각각 에스라 첫 번째 책과 두 번째 책이라고 하는 두 개의 텍스트로 나뉩니다. 히브리어와 라틴어로 된 최초의 인쇄된 성경으로 정형화된 분리. 16세기 중반 제네바에서 생산된 개혁파 개신교 성경 번역판은 '느헤미야서'라는 이름을 처음으로 소개했습니다.
 
 ## Index

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">마카베오하</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 마카비 2서, 마카비 2서로도 알려져 있으며 약칭 2마카비로도 알려진 마카비 2서는 안티오쿠스 4세 에피파네스 왕의 유태인 박해와 그에 대한 마카베오 반란을 기록한 신명기의 책입니다. 기원전 161년 셀레우코스 제국의 장군 니카노르가 마카베오의 지도자 유다 마카베오에게 패배하는 것으로 끝맺는다.
 
 2 Maccabees는 원래 헬레니즘 이집트에 살고 있던 알려지지 않은 디아스포라 유대인에 의해 코이네 그리스어로 작성되었습니다. 기원전 150년에서 120년 사이에 쓰여졌을 가능성이 큽니다. 마카비 1권과 함께 마카베오 반란에 관한 가장 중요한 자료 중 하나입니다. 이 작품은 마카비 1서의 속편이 아니라 마카베오 반란의 역사적 사건을 독자적으로 재해석한 것입니다. 그것은 기원전 178년에 셀레우코스 왕조의 관리 ​​헬리오도루스가 두 번째 신전에 세금을 부과하려고 한 사건으로 시작하여 기원전 161년에 아다사 전투로 끝나는 1 마카베오 이전의 역사를 시작하고 끝냅니다. 일부 학자들은 이 책이 죽은 자를 위한 기도와 죽은 자의 부활에 대한 승인을 포함하는 섹션이 있는 바리새인 전통의 영향을 받았다고 믿습니다.

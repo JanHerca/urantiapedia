@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">요한계시록</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 요한계시록은 신약성경의 마지막 책(따라서 기독교 성경의 마지막 책)입니다. 그 제목은 코이네 그리스어 텍스트의 첫 번째 단어인 아포칼립시스(apokalypsis)에서 파생되었으며, 이는 "공개" 또는 "계시"를 의미합니다. 요한계시록은 신약성경의 유일한 묵시서입니다. 그것은 기독교 종말론에서 중심적인 위치를 차지합니다.
 
 저자는 본문에서 자신을 '존'이라고 부르지만 그의 정확한 정체는 여전히 학계의 논쟁거리다. 히에라폴리스의 파피아스, 순교자 저스틴, 이레네우스, 사르디스의 멜리토, 알렉산드리아의 클레멘트, 무라토리안 단편의 저자와 같은 2세기 기독교 작가들은 사도 요한을 계시록의 "요한"으로 식별합니다. 현대 학계는 일반적으로 다른 견해를 취하는데 많은 사람들은 저자가 기독교 예언자라는 점 외에는 알 수 있는 것이 없다고 생각합니다. 현대 신학자들은 요한계시록의 저자를 “밧모 요한”으로 규정합니다. 대부분의 전통적인 출처는 이 책의 연대를 로마 황제 도미티아누스(AD 81-96) 시대로 거슬러 올라가는데, 이는 증거가 확증하는 경향이 있습니다.

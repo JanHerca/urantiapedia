@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">외전</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">므나쎄의 기도</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 므낫세의 기도라고도 알려진 므낫세의 기도는 유다 왕 므낫세의 참회 기도를 기록한 15절의 짧은 작품입니다. 대다수의 학자들은 므낫세의 기도가 기원전 2세기 또는 1세기에 그리스어로 기록되었다고 믿고 있습니다. 서기 1세기 전반부에 기록되었을 수도 있지만, 어쨌든 서기 70년 제2성전이 파괴되기 이전에 기록되었을 수도 있음을 인정한다. 사해 두루마리(4Q381:17)에서 히브리어로 기록된 같은 제목의 또 다른 작품이 발견되었습니다.
 
 므낫세는 성경에 유다에서 가장 우상을 숭배한 왕 중 한 명으로 기록되어 있습니다(왕하 21:1~18; 역대하 33:1~9). 역대기 두 번째 책에는 므낫세가 앗수르에게 포로로 잡혀갔다는 기록이 있지만 두 번째 열왕기는 기록하지 않습니다(역대하 33:11~13). 포로로 있는 동안 므낫세는 자비를 구했고, 석방되어 왕위에 오르자 우상 숭배에서 돌이켰다(대하 33:15~17). 기도 자체가 아니라 기도에 대한 언급이 역대하 33장 19절에 나오는데, 그 기도는 “이스라엘 왕들의 연대기”에 기록되어 있습니다.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">누가복음</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 누가복음은 예수 그리스도의 기원, 탄생, 사역, 죽음, 부활, 승천에 대해 이야기합니다. 사도행전과 함께 학자들이 누가-사도라고 부르는 두 권의 책으로 신약성경의 27.5%를 차지한다. 결합된 작업은 1세기 기독교의 역사를 세 단계로 나누는데, 이 중 처음 두 단계는 복음이 구성되어 있습니다. 평원에서의 설교와 그 팔복, 수난, 죽음, 부활과 같은 사건으로 그의 사역에 의해.
 
 대부분의 현대 학자들은 누가복음에 사용된 주요 출처가 a) 마가복음, b) Q 출처라고 하는 가상의 말 모음집, c) 다른 복음서에는 없는 자료로 종종 L( 루크) 소스. 저자는 익명입니다. 바울의 동반자인 누가 복음사가였다는 전통적인 견해가 여전히 가끔 제시되지만, 학문적 합의는 사도행전과 바울의 정통 서간 사이에 많은 모순을 강조합니다. 가장 가능성 있는 구성 연대는 서기 80-110년 경이며, 2세기에도 여전히 수정되고 있었다는 증거가 있습니다. 

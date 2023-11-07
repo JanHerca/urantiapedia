@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">유딧</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 유딧서는 성경의 70인역과 가톨릭 및 동방 정교회의 기독교 구약에 포함되어 있지만 히브리 정경에서 제외되고 개신교에 의해 외경으로 지정된 신명기의 책입니다. 그것은 앗수르의 장군을 멸망시키고 이스라엘을 압제에서 구하기 위해 그녀의 아름다움과 매력을 사용하는 유대인 과부, Judith에 대해 이야기합니다. 살아남은 그리스 사본에는 여러 역사적 시대착오적 표현이 포함되어 있기 때문에 일부 개신교 학자들은 이제 이 책을 비유, 신학 소설 또는 최초의 역사 소설과 같은 비역사적 책으로 간주합니다. Judith(히브리어: יְהוּדִית, 현대: Yehudit, 티베리아어: Yəhûḏîṯ, "칭찬받는" 또는 "유대인")라는 이름은 유다의 여성형입니다. 
 
 ## Index

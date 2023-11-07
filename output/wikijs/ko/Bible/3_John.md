@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">요한3서</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 요한의 셋째 서신은 신약과 기독교 성경 전체에서 마지막에서 세 번째 책이며, 전통적으로 요한 복음과 요한의 다른 두 서신의 저자로 여겨지는 전도자 요한에게 귀속되었습니다. . 요한의 세 번째 서신은 "장로"가 가이오라는 사람에게 보낸 개인 편지로, 가이오가 살았던 지역에 복음을 전하기 위해 온 데메트리우스가 이끄는 기독교인 그룹을 그에게 추천했습니다. 편지의 목적은 가이오를 격려하고 강화하며 편지의 저자와 협력하기를 거부하는 디오드레베에 대해 경고하는 것입니다.
 
 초기 교회 문헌에는 서신에 대한 언급이 없으며 3세기 중반에 처음 언급되었습니다. 이 문서의 부족은 서신의 극히 간결함 때문일 수 있지만 초기 교회 작가들은 요한의 다른 두 서신과 함께 정경으로 받아들여진 5세기 초까지 그 진위를 의심하게 만들었습니다. 요한 3서의 언어는 일반적으로 AD 90년 경으로 거슬러 올라가는 요한복음의 언어를 반영하므로 서신은 1세기 말경에 기록되었을 것입니다. 3 John에서 c. 서기 60~65년. 기록의 위치는 알려져 있지 않지만 전통에 따르면 에베소에 있습니다. 이 서신은 가장 오래된 신약 사본들 중 많은 부분에서 발견되며, 그 본문에는 주요 불일치나 본문 변형이 없습니다.

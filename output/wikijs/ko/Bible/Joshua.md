@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">여호수아</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 여호수아(히브리어: ספר יהושע Sefer Yehoshua)는 히브리어 성경과 기독교 구약의 여섯 번째 책으로, 가나안 정복부터 바벨론 포로까지의 이스라엘 이야기인 신명기 역사의 첫 번째 책이다. 그것은 중부, 남부 및 북부 가나안에서 이스라엘 사람들의 원정, 원수들의 멸망, 그리고 12지파 사이의 땅의 분할에 대해 이야기합니다. 땅, 그리고 마지막에 모세에게 계시된 율법(토라)의 충실한 준수의 필요성에 대해 여호수아가 경고한 두 번째 말씀.
 
 거의 모든 학자들은 여호수아가 초기 이스라엘에 대한 역사적 가치가 거의 없으며 훨씬 후기 시대를 반영한다는 데 동의합니다. 이 책의 가장 초기 부분은 아마도 정복 이야기인 2-11장일 것이다. 이 장들은 나중에 요시야 왕(기원전 640-609 재위)의 통치 후반에 기록되었을 것으로 보이는 여호수아의 초기 형태에 통합되었지만, 이 책은 기원전 586년에 신바빌로니아 제국에 예루살렘이 함락될 때까지 완성되지 않았습니다. 그리고 아마도 기원전 539년에 바빌론 유배에서 돌아오기 전까지는 아닐 것입니다. 

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">외전</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">에녹서</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 에녹서(또한 에녹 1서;[주 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok)는 전통에 의해 노아의 증조부인 에녹에 기인한 고대 히브리 묵시적 종교 문헌이다. 에녹은 악마와 네피림의 기원, 왜 몇몇 천사들이 하늘에서 떨어졌는지, 창세기의 홍수가 도덕적으로 필요한 이유에 대한 설명, 메시아의 천년 통치에 대한 예언적 설명에 대한 독특한 자료를 담고 있습니다.
 
 본문의 더 오래된 부분(주로 감시자의 책에 있음)은 BC 300-200년 경으로 추정되며, 가장 최신 부분(비유서)은 아마도 BC 100년으로 추정됩니다.

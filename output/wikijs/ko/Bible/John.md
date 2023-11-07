@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">요한복음</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 요한복음(고대 그리스어: Εὐαγγέλιον κατὰ Ἰωάννην, 로마자 표기: Euangélion kata Iōánnēn)은 4개의 정경 복음서 중 네 번째 복음서입니다. 그것은 나사로의 부활(예수님의 부활을 예고함)로 절정에 달하는 일곱 개의 “표적”과 (당시 교회-회당 논쟁의 문제와 관련하여) 일곱 개의 “내가 있다” 설교와 함께 예수님의 사역에 대한 매우 개략적인 설명을 담고 있습니다. 도마가 부활하신 예수님을 “나의 주님이시며 나의 하나님”이라고 선포하는 것으로 끝맺는다. 복음의 마지막 구절은 “예수께서 하나님의 아들 그리스도이심을 믿게 하려 함이요 또 너희로 믿고 그의 이름을 힘입어 생명을 얻게 하려 함”이라고 그 목적을 설명하고 있습니다.
 
 John은 AD 90-110년경에 최종 형태에 도달했지만, AD 70년으로 거슬러 올라가거나 그 이전으로 거슬러 올라가는 기원의 흔적이 있습니다. 다른 세 복음서와 마찬가지로 익명이지만 "예수께서 사랑하신 제자"가 그 전통의 근원임을 밝히고 있습니다. 그것은 "요한 공동체" 내에서 발생했을 가능성이 가장 높으며, 스타일과 내용 면에서 세 개의 요한 서신과 밀접하게 관련되어 있기 때문에 대부분의 학자들은 요한 계시록과 함께 네 권의 책을 요한 문학의 단일 모음으로 취급합니다. 같은 작가가 아니더라도. 

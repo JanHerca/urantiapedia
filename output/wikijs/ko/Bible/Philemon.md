@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">빌레몬서</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 빌레몬에게 보낸 편지는 기독교 신약성경의 책들 중 하나입니다. 바울 사도가 디모데와 함께 공동 저술한 골로새 교회의 지도자 빌레몬에게 보낸 감옥 편지입니다. 용서와 화해의 주제를 다룬다. 바울은 자신을 권위 있는 사도라고 밝히지 않고 디모데를 “우리 형제”라고 부르며 빌레몬을 “동료 일꾼”과 “형제”(빌레몬서 1:1, 1:7, 1:20). 주인 빌레몬에게서 떠난 종인 오네시모는 바울이 빌레몬에게 그를 “사랑하는 형제”(빌레몬서 1:9-17)로 받아달라고 요청한 이 서신을 가지고 돌아오고 있었습니다.
 
 빌레몬은 부유한 기독교인이었으며, 아마도 골로새에 있는 그의 집에서 모인 가정교회의 감독이었을 것입니다(빌 1:1-2). 이 편지는 이제 일반적으로 바울의 확실한 저작 중 하나로 간주됩니다. 그것은 헬라어 본문에서 단 335단어로 구성된 바울의 현존하는 편지 중 가장 짧습니다. 

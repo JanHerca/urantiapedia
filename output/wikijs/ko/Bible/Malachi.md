@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">말라기</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 말라기서(히브리어: מַלְאָכִ֔י, Malʾāḵī)는 Tanakh에 포함된 Neviim의 마지막 책이며, 정식으로 12소 선지자의 마지막 책입니다. 기독교 질서에서 예언서의 그룹화는 구약의 마지막 부분이며 말라기를 신약 이전의 마지막 책으로 만듭니다.
 
 그 책의 히브리어 의미는 단순히 "나의 메신저"(칠십인역은 "그의 메신저"로 읽음)이고 저자의 이름이 아닐 수도 있지만, 이 책은 일반적으로 말라기라는 선지자의 이름으로 귀속됩니다. 모두. 그 이름은 1:1과 3:1의 머리글에서 나타나지만, 이 두 참조에서 같은 문자를 언급할 가능성은 거의 없습니다. 따라서 이 책의 저자의 신원에 대해 상당한 논쟁이 있습니다. Targums 중 하나는 Ezra(또는 Esdras)를 말라기의 저자로 식별합니다. 사제이자 역사가인 제롬은 에스라가 선지자와 "큰 회당" 사이의 중개자로 여겨졌기 때문일 수 있다고 제안합니다. 그러나 이 주장을 뒷받침할 역사적 증거는 아직 없습니다.

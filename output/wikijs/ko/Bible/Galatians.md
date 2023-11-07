@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">성경</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Korean Revised Version</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">© 1961 by Korean Bible Society</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">갈라디아서</text>
+	</g>
+</svg>
+</div>
+
+## 설명
+
+
 갈라디아서(The Epistle to Galatians)는 신약성경의 아홉 번째 책입니다. 사도 바울이 갈라디아의 여러 초기 기독교 공동체에 보낸 편지입니다. 학자들은 이곳이 아나톨리아 남부에 있는 로마의 갈라티아 속주이거나 아나톨리아 중부에서 켈트족의 소수 민족이 정의한 넓은 지역이라고 제안했습니다.
 
 이 편지에서 바울은 사도 시대의 이방인 그리스도인들과 모세의 율법을 둘러싼 논쟁에 주로 관심을 두고 있습니다. 바울은 이방인 갈라디아인들이 그리스도의 계시에 비추어 율법의 역할을 맥락화함으로써 모세 율법의 교리, 특히 종교적 남성 할례를 고수할 필요가 없다고 주장합니다. 갈라디아인들에게 보낸 편지는 기독교의 역사, 기독교 신학의 발전, 사도 바울의 연구에 막대한 영향을 미쳤습니다.
