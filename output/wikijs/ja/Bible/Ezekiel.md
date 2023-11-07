@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">エゼキエル書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 エゼキエル書は、タナクの最後の預言者の 3 番目であり、イザヤとエレミヤに続く主要な預言書の 1 つです。本自体によると、紀元前 593 年から 571 年までの 22 年間に、バビロンに追放された預言者エゼキエルの 6 つのビジョンが記録されていますが、それは長く複雑な歴史の産物であり、必ずしもエゼキエルの言葉そのものを保存しているわけではありません。預言者。
 
 ビジョンと本は、次の 3 つのテーマを中心に構成されています。(2) 国民に対する裁き（25-32章）。(3) イスラエルの将来の祝福 (第 33 章から第 48 章)。そのテーマには、神の存在、純粋さ、神聖な共同体としてのイスラエル、神に対する個人の責任の概念が含まれます。その後の影響には、第二神殿における神秘的で黙示録的な伝統の発展、ラビのユダヤ教とキリスト教が含まれます。

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">民数記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 数の書 (ギリシア語のἈριθμοί、Arithmoi; ヘブライ語: במڼמچ、Bəmīḏbar、「[の] 砂漠で」) は、ヘブライ語聖書の 4 番目の書であり、ユダヤ教のトーラーの 5 冊の書の 4 番目です。この本には長く複雑な歴史があります。その最終的な形は、ペルシャ時代の初期 (紀元前 5 世紀) に作成されたヤーウィス的なソースの司祭による編集 (つまり、編集) による可能性があります。本の名前は、イスラエル人の 2 つの国勢調査に由来しています。
 
 民数記は、イスラエル人が神から律法と契約を受け取り、神が彼らの間の聖域に住まわれたシナイ山から始まります。彼らの前にある仕事は、約束の地を手に入れることです。人数が数えられ、行進を再開する準備が整います。イスラエル人は旅を始めますが、途中の困難や、モーセとアロンの権威について「不平を言います」。これらの行為のために、神はさまざまな手段を通じて約15,000のそれらを破壊します。彼らはカナンの国境に到着し、スパイをその地に送り込みます。カナンの状況に関するスパイの恐ろしい報告を聞くと、イスラエル人はそれを手に入れることを拒否します。新しい世代が成長して任務を遂行できるようになるまで、神は彼らを荒野で死刑に処します。

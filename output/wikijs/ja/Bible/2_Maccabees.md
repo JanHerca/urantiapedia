@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">マカバイ記2</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 2 Maccabees は、Second Book of Maccabees、Second Maccabees とも呼ばれ、2 Macc. と略されます。それは、紀元前161年、マカビー家の指導者であるユダス・マカベウスがセレウコス朝の将軍ニカノールを打ち負かしたことで終わる。
 
 2 Maccabees はもともと、ヘレニズム時代のエジプトに住む未知のディアスポラ ユダヤ人によってコイネ ギリシャ語で書かれました。紀元前150年から120年の間に書かれた可能性が高い。本 1 Maccabees とともに、それは Maccabean Revolt に関する最も重要な情報源の 1 つです。この作品は 1 Maccabees の続編ではなく、Maccabean Revolt の歴史的出来事を独自に表現したものです。紀元前 178 年のセレウコス朝の役人ヘリオドロスが第二神殿に課税しようとした事件から始まり、紀元前 161 年のアダサの戦いで終わるまで、その歴史は 1 マカビーよりも早く始まり、また終わります。一部の学者は、この本がパリサイ派の伝統の影響を受けていると信じており、セクションには死者への祈りと死者の復活の承認が含まれています。

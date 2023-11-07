@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">マルコによる福音書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 マルコ福音書は、4 つの正典福音書と 3 つの共観福音書の 2 番目の福音書です。それは、バプテスマのヨハネによるバプテスマから、彼の死、埋葬、そして空の墓の発見までのイエスの使命について語っています。奇跡的な誕生や神の先在の教理はなく、元の結末 (マルコ 16:1–8) には復活後のイエスの出現はありません。それは、イエスを教師、エクソシスト、ヒーラー、奇跡の働き手として描いています。彼は自分自身を人の子と呼んでいます。彼は神の子と呼ばれていますが、メシアとしての性質を秘密にしています。彼の弟子でさえ彼を理解できません。これらすべては、救世主が苦しむしもべとして運命を予言すると信じられているキリスト教の予言の解釈と一致しています。福音は、元のバージョンでは、空の墓の発見で終わります。
 
 ほとんどの学者はマークの年代をc. 西暦 66 ～ 74 年、西暦 70 年に第二神殿が破壊される直前または直後。彼らは、使徒ペテロの仲間である福音伝道者マルコへの伝統的な帰属を拒否します。これはおそらく、初期のキリスト教徒がその作品を権威ある人物に結び付けたいという願望から生じたものであり、さまざまな情報源を含む著者の作品であると信じています。奇跡の物語、論争の物語、寓話、そして情熱の物語のコレクション。最も重要な福音と見なされていたマタイの劣った要約として、伝統的にキリスト教の正典で2番目、時には4番目に配置されました。その結果、教会は主にマタイから、次にヨハネから、そして遠く離れたところにあるマルコから、イエスの見解を導き出しました。

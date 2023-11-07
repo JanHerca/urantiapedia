@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">外典</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">エノク書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 エノク書 (また 1 エノク;[注 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) は古代ヘブライ語の黙示録的な宗教書であり、伝承によればノアの曽祖父であるエノクに帰せられる。エノクには、悪魔とネフィリムの起源、一部の天使が天から落ちた理由、創世記の洪水が道徳的に必要であった理由の説明、メシアの千年統治の預言的な説明に関する独自の資料が含まれています。
 
 テキストの古い部分 (主にウォッチャーの書) は紀元前 300 年から 200 年頃のものと推定され、最新の部分 (寓話の書) はおそらく紀元前 100 年のものと推定されています。

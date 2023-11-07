@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">サムエル記下</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 サムエル書 (ヘブライ語: ספר שמואל、Sefer Shmuel) はヘブライ語聖書の本で、キリスト教の旧約聖書に 2 冊 (1–2 サムエル) として記載されています。この本は、イスラエル人の神学的歴史を構成し、指導の下でイスラエルのための神の律法を説明することを目的とした一連の本（ヨシュア、裁判官、サミュエル、王）である申命記史と呼ばれる古代イスラエルの物語の歴史の一部です。預言者の。
 
 ユダヤ人の伝承によると、この本はサミュエルによって書かれ、ダビデの治世の記述の間に歴代誌第一に登場した 3 人の預言者である預言者ガドとナタンによって追加されました。現代の学術的思考は、申命記の歴史全体が、さまざまな時代の多くの独立したテキストを組み合わせることによって、紀元前 630 ～ 540 年頃に構成されたと仮定しています。

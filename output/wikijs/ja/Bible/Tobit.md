@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">トビト記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 トビトの書 (/ˈtoʊbɪt/) は、トビアスの書またはトビの書としても知られ、紀元前 3 世紀または紀元前 2 世紀初頭のユダヤ人の著作であり、神がどのように信者を試し、祈りに応え、聖約共同体を保護するかを記述しています (すなわち、イスラエル人）。それは、ニネベの盲目のトビトとエクバタナの見捨てられたサラの2つのイスラエル人の家族の物語です。トビトの息子トビアスは、トビトがかつてメディアの町レイジスに残した 10 の銀の才能を取り戻すために派遣されます。天使ラファエルに導かれ、助けられて、彼はエクバタナに到着し、そこでサラに会います。アスモデウスという名前の悪魔が彼女に恋をし、彼女が結婚しようとしている人を殺しますが、ラファエルの助けを借りて悪魔は追い出され、トビアスとサラは結婚します.
 
 この本はカトリックと正教会の正典には含まれていますが、ユダヤ教には含まれていません。プロテスタントの伝統はそれを外典に置き、再洗礼派、ルーテル派、聖公会派、メソジスト派は、地位は非正典的ではあるが、教化と典礼の目的には有用であると認識している. 大多数の学者は、それをいくつかの歴史的言及を伴うフィクションの作品として認識しています.

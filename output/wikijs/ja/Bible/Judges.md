@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">士師記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 裁き人の書 (ספר שופטים、Sefer Shoftim) は、ヘブライ語聖書とキリスト教の旧約聖書の 7 番目の書です。ヘブライ語聖書の物語では、ヨシュア記に記述された征服からサムエル記に王国が樹立されるまでの期間を扱っており、その間、聖書の裁判官が一時的な指導者を務めていました。物語は一貫したパターンに従います。人々はヤハウェに不誠実です。したがって、彼は彼らを敵の手に渡します。人々は悔い改め、ヤーウェに慈悲を懇願します。ヤーウェはリーダーまたはチャンピオン（「裁判官」; ショフェットを参照）の形で送ります。裁判官はイスラエル人を抑圧から解放し、彼らは繁栄しますが、すぐに彼らは再び不貞に陥り、サイクルが繰り返されます。学者たちは、裁判官の物語の多くが申命記の歴史の中で最も古いものであると考えています。
 
 ## Index

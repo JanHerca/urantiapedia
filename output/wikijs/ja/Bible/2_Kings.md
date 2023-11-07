@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">列王記下</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 王の書 (ヘブライ語: ספר מלכים、sefer melakhim) はヘブライ語聖書の本で、キリスト教の旧約聖書に 2 冊 (1–2 王) として記載されています。それは申命記の歴史、ヨシュアと裁判官の本とサミュエルの本も含むイスラエルの歴史を締めくくります。
 
 聖書の解説者は、列王記が紀元前のバビロンによるユダ王国の滅亡を神学的に説明するために書かれたと信じています。紀元前 586 年、バビロニアの流刑からの帰還の基盤を提供するため。2 冊の列王記は、ダビデ王の死からエホヤキンがバビロンでの投獄から解放されるまでの古代イスラエルとユダの歴史を示しています。学者は、これらの本を紀元前 7 世紀後半の初版と、紀元前 6 世紀半ばの最終版である第 2 版で構成されていると考える傾向があります。

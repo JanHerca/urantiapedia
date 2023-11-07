@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">外典</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">マナセの祈り</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 マナセの祈りとしても知られるマナセの祈りは、ユダの王マナセに起因する悔い改めの祈りを記録した15節の短い作品です。大多数の学者は、マナセの祈りが紀元前 2 世紀または 1 世紀にギリシャ語で書かれたと信じています (少数派はセム語のオリジナルを主張しています)。それは西暦 1 世紀の前半にも書かれた可能性があると認識されていますが、いずれにしても西暦 70 年の第二神殿の破壊より前です。ヘブライ語で書かれた同じタイトルの別の作品が、死海文書から発見されました (4Q381:17)。
 
 マナセはユダの最も偶像崇拝的な王の一人として聖書に記録されています（列王下21:1-18; 歴代下33:1-9）。第二の歴代誌には、第二の列王記ではなく、マナセがアッシリア人に捕らえられたと記録されています（第二の歴代誌33:11-13）。囚人であったマナセは憐れみを祈り、解放されて王位に復帰すると、偶像崇拝から離れました（歴代下33：15–17）。祈り自体ではなく、祈りへの言及が歴代誌下 33:19 にあり、祈りは「イスラエルの王たちの年代記」に書かれていると書かれています。

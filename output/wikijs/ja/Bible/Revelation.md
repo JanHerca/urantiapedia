@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ヨハネの黙示録</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ヨハネの黙示録は新約聖書の最後の書です (したがって、キリスト教の聖書の最後の書です)。そのタイトルは、コイネのギリシャ語テキストの最初の単語であるアポカリプシスに由来し、「暴露」または「啓示」を意味します。黙示録は、新約聖書正典の唯一の黙示録です。それはキリスト教の終末論の中心的な位置を占めています。
 
 著者は本文中で「ジョン」と名乗っていますが、彼の正確な身元は学術的な議論のポイントとして残っています。ヒエラポリスのパピアス、ユスティンの殉教者、イレナイオス、サルディスのメリト、アレキサンドリアのクレメンス、そしてムラトリウスの断片の著者などの 2 世紀のキリスト教の著述家は、使徒ヨハネを黙示録の「ヨハネ」と特定しています。現代の学問は一般的に異なる見方をしており、著者については彼がキリスト教の預言者であったこと以外は何も知られていないと考える人が多い. 現代の神学者は、黙示録の著者を「パトモスのヨハネ」と特徴付けています。伝統的な情報源の大部分は、この本がローマ皇帝ドミティアヌス (AD 81–96) の治世にさかのぼり、証拠が確認する傾向があります。

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">箴言</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 箴言の書 (ヘブライ語: מچשکװלڵי、Mīšlē、「(ソロモンの) 箴言」) は、ヘブライ語聖書の第 3 セクション (Ketuvim と呼ばれる) の書物であり、キリスト教の旧約聖書の書物です。ギリシャ語とラテン語に翻訳されると、タイトルはさまざまな形式になりました。ラテン語のウルガタ語では、タイトルは Proverbia であり、そこから英語名が派生しています。
 
 箴言は単なる詩集ではなく、1000年以上続いた生活パターンに関する「コレクションのコレクション」です。それは聖書の知恵文学の一例であり、価値観、道徳的行動、人間の生活の意味、および正しい行動の問題を提起し、その神学的基盤は「神への恐れ（神の意志への服従を意味する）は知恵の始まり」。知恵は創造における彼女の役割を称賛されています。神は何よりもまず彼女を獲得し、彼女を通して混沌に秩序を与えました。人間は創造の秩序に従って生命と繁栄を持っているので、知恵を求めることは生命の本質であり目標です。

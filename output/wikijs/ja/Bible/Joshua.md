@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ヨシュア記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ヨシュア記 (ヘブライ語: ספר יהושע Sefer Yehoshua) は、ヘブライ語聖書とキリスト教の旧約聖書の 6 番目の書であり、申命記史の最初の書であり、カナンの征服からバビロニアへの流刑までのイスラエルの物語です。それはカナン中部、南部、北部でのイスラエル人の遠征、彼らの敵の破壊、12 部族間での土地の分割について語っています。土地、そして最後に、モーセに明らかにされた律法（律法）を忠実に遵守する必要性をジョシュアが警告した2番目。
 
 ほとんどすべての学者は、ヨシュア記がイスラエル初期の歴史的価値をほとんど持たず、おそらくずっと後の時代を反映していることに同意しています。この本の最初の部分は、おそらく征服の物語である第2章から第11章です。これらの章は後にジョシュア王の治世（紀元前640年から紀元前609年）の後期に書かれた可能性が高いジョシュアの初期の形に組み込まれましたが、紀元前586年にエルサレムが新バビロニア帝国に陥落するまで、本は完成しませんでした。そしておそらく、紀元前539年にバビロニアの亡命から戻った後まで.

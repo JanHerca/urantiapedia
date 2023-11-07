@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">レビ記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 レビ記 (/lɪˈvɪtɪkəs/、古代ギリシア語: Λευιτικόν、Leuïtikón に由来。ヘブライ語: وډڑ、Vayyīqrāʾ、「そして彼は呼ばれた」) は、トーラー (ペンタチューク) および旧約聖書の 3 番目の本であり、モーゼ三冊目。学者は一般に、紀元前 538 年から 332 年のペルシャ時代に現在の形に達し、長い時間をかけて発展したことに同意します。
 
 その章のほとんど（1–7、11–27）は、モーセに対する主のスピーチで構成されており、主はモーセにイスラエル人に繰り返すように命じています。これは、イスラエル人がエジプトを脱出してシナイ山に到達した後の出エジプトの物語の中で起こります ([出エジプト記 19:1](/ja/Bible/Exodus/19#v1))。出エジプト記は、モーセがどのようにイスラエル人を率いて幕屋を建設したかを物語っています (出エジプト記 35–40)。レビ記では、神はイスラエル人とその祭司であるレビ人に、幕屋で供物を作る方法と、聖なるテントの聖域の周りにキャンプを張っている間、どのように振る舞うべきかを教えています。レビ記は、幕屋の完成 ([出エジプト記 40:17](/ja/Bible/Exodus/40#v17)) とシナイからのイスラエル人の出発 (民数記 [1:1](/ja/Bible/Numbers/1#v1)、[10:11](/ja/Bible/Numbers/10#v11)).

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">マラキ書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 マラキ書 (ヘブライ語: מڷלگאگכچका、Malʾāḵī) は、タナクに含まれるネヴィムの最後の書物であり、正典的には 12 の小預言者の最後の書物です。キリスト教の順序では、預言書のグループ化は旧約聖書の最後のセクションであり、マラキは新約聖書の前の最後の本になります.
 
 この本は一般的にマラキという名前の預言者の作と考えられていますが、そのタイトルはしばしば固有名詞として理解されてきましたが、そのヘブライ語の意味は単に「私のメッセンジャー」(セプトゥアギンタ訳では「彼のメッセンジャー」と読みます) であり、著者の名前ではない可能性があります。全て。この名前は、1:1 と 3:1 の表題に現れますが、これらの両方の参照で単語が同じ文字を参照する可能性は非常に低いです。したがって、本の著者の身元に関してかなりの議論があります。タルグムの 1 つは、エズラ (またはエスドラス) がマラキの作者であることを示しています。司祭で歴史家のジェロームは、これはエズラが預言者と「大シナゴーグ」の間の仲介者と見なされているためではないかと示唆しています。しかし、この主張を裏付ける歴史的証拠はまだありません。

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">出エジプト記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 出エジプト記 (古代ギリシア語: Ἔξοδος、ローマ字表記: Éxodos、ヘブライ語: שگׁמוډת Šəmōṯ、「名前」) は、聖書の 2 番目の書です。それは、イスラエル人が彼らを民として選んだヤハウェの力によって、聖書のエジプトで奴隷制を離れる出エジプト記の物語を語っています。その後、イスラエル人は預言者モーセと一緒にシナイ山に旅し、そこでヤハウェは10の戒めを与え、ヤハウェとの契約を結びます。彼は幕屋を建設するための法律と指示を彼らに与え、それによって彼は天から来て彼らと一緒に住み、彼らを聖戦に導き、カナンの地（「約束の地」）を所有させます。創世記の話によると、アブラハムの子孫に約束されました。
 
 伝統的にモーセ自身によるものと考えられてきましたが、現代の学者は、初期の書物と口頭伝承に基づいて、初期の構成をバビロニア亡命 (紀元前 6 世紀) の産物と見なし、亡命後のペルシャ時代 (紀元前 5 世紀) に最終的な改訂を加えました。キャロル・マイヤーズは、エクソダスに関する解説の中で、イスラエルのアイデンティティーの決定的な特徴を提示しているため、間違いなく聖書の中で最も重要な本であると示唆しています。イスラエル、そしてコミュニティの生活の確立とそれを維持するためのガイドライン。現代の学者の間のコンセンサスは、出エジプト記の物語は神話として最もよく理解されているということです.

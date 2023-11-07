@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">エステル記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 エステル記 (ヘブライ語: מگגڪתאچסگתککת、ローマ字表記: Megillat Esther) は、ヘブライ語で「巻物」(「メギラ」) としても知られており、ユダヤ教書の第 3 セクション (Ketuvim、כچچתוڼבڡים 「書物」) にある書物です。 Tanakh (ヘブライ語聖書)。ヘブライ語聖書の 5 つの巻物 (Megillot) の 1 つであり、後にキリスト教の旧約聖書の一部になりました。
 
 この本は、ハダサーとして生まれたがエステルとして知られているペルシャのヘブライ人の女性の物語に関連しており、ペルシャの女王になり、彼女の人々の大量虐殺を阻止します. この物語は、ユダヤ人のプリムの祭りの中核をなすものであり、その間に夜と翌朝の 2 回読み上げられます。エステル記と歌の歌は、ヘブライ語聖書の中で神に言及​​していない唯一の本です。

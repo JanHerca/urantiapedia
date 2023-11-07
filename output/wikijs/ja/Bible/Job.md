@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ヨブ記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ヨブ記 (/dʒoʊb/; 聖書のヘブライ語: אگڑگב、ローマ字表記: ʾIyyōḇ)、または単にヨブは、その名を冠した主人公の経験を通じて、なぜ神が世界の悪を許すのかという理論に取り組んでいます。ヨブは裕福で神を恐れる男で、快適な生活と大家族を持っています。神はヨブの敬虔さについての意見をサタンに求めた後、もしヨブが無一文で無一文だったらというサタンの非難に続いて、ヨブの富、家族、物質的な快適さを奪うことを決定します。家族、彼は神から背を向けるでしょう。
 
 この本は、ヘブライ語聖書 (タナフ) のケトゥヴィム (「著作」) セクションにあり、キリスト教聖書の旧約聖書の最初の詩書です。学者たちは、それが紀元前 7 世紀から 4 世紀の間に書かれたことに一般的に同意しています。

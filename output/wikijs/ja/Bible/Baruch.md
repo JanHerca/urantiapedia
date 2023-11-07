@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">外典</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">バルク書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 バルークの書は、カトリック教会や正教会など、ほとんどのキリスト教の伝統で使用されている聖書の第二正典です。ユダヤ教とプロテスタントのキリスト教では、それは正典の一部ではないと考えられており、プロテスタントの聖書はそれを聖書の外典の一部として分類しています. この本の名前は、バルク 1章1節で言及されているエレミヤの著名な書記であり、著作全体の著者であると推定されているバルク ベン ネリアにちなんで名付けられました。この本は、バビロンからのユダヤ人亡命者の状況に関する故ユダヤ人の作家の反映であり、イスラエルの神学と歴史、知恵の議論、およびエルサレムとディアスポラの住民への直接の演説についての黙想があります。一部の学者は、それがマカビーの時代またはその直後に書かれたと提案しています。
 
 バルク記は、2 バルク、3 バルク、4 バルクと区別するために 1 バルクと呼ばれることもあります。

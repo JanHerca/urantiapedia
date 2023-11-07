@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">マタイによる福音書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 マタイによる福音書は、聖書の新約聖書の最初の本であり、3 つの共観福音書の 1 つです。それは、イスラエルの救世主であるイエスがどのように彼の民に来て弟子たちの共同体を形成したか、彼が山上の説教やその至福などの出来事を通してどのように人々に教えたか、そしてどのようにイスラエルが分裂し、イエスがこの敵対的なイスラエルをどのように非難したかを語っています。 . これは、寺院からの彼の出発と処刑で最高潮に達します。この時点で、多くの人々がイエスを拒絶し、イエスが復活すると、イエスは弟子たちを異邦人に送ります。
 
 マシューは、ますます異邦人になりつつある教会でユダヤ人の伝統が失われてはならないことを強調しているようです。福音は、伝道者の共同体と他のユダヤ人との間の闘争と対立を反映しており、特に律法学者とパリサイ人がキリストを拒絶したことによって、神の王国が彼らから奪われ、代わりにユダヤ人に与えられたという立場をとった律法学者とパリサイ人に対する鋭い批判を反映しています。教会。イエスの神性はマタイ共同体にとって主要な問題であり、初期キリスト教徒をユダヤ人の隣人から分離する決定的な要素でした。マークはイエスの洗礼と誘惑から始めますが、マシューはイエスの起源に戻り、旧約聖書のメシアの予言の成就である彼の誕生から神の子であることを示しています. ダビデの息子という称号は、イエスがイスラエルの癒しと奇跡をもたらす救世主であり（奇跡に関連してのみ使用されている）、イスラエルだけに送られたことを示しています。人の子として、彼は世界を裁くために戻ってきます。彼の弟子たちはその期待を認識していますが、彼の敵は気づいていません。神の子として、神は御子を通してご自身を明らかにされており、イエスは従順と模範によって御子であることを証明されています。

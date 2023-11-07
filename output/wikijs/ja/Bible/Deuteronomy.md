@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">申命記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 申命記 (ギリシャ語: Δευτερονόμιον Deuteronómion、直訳すると「第二法」) は、(ユダヤ教で) トーラーの 5 番目で最後の書であり、そこでは Devarim (ヘブライ語: דگڑבڡککםם、直訳: [モーセの] [the] 言葉) と呼ばれます。 ）とキリスト教の旧約聖書の第5巻。
 
 この書の第 1 章から第 30 章は、イスラエル人が約束の地に入る直前に、モアブの平原でモーセがイスラエル人に行った 3 つの説教またはスピーチで構成されています。最初の説教は、その瞬間に至るまでの 40 年間の荒野の放浪について語り、律法を守るようにとの勧めで終わります。2番目の説教は、イスラエル人に、ヤハウェと彼が彼らに与えた律法（または教え）に従う必要があることを思い出させます。3 番目の説教は、たとえイスラエルの国が不誠実であることを証明して土地を失ったとしても、悔い改めによってすべてを回復できるという慰めを提供します。

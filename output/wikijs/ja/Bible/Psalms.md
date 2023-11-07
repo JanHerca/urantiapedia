@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">詩篇</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 詩篇の書 (/sɑːmz/ SAHMZ または /sɔː(l)mz/ SAW(L)MZ; ヘブライ語: תگگהگל的「賛美」) は、詩篇または詩篇としても知られ、最初の本です。 Ketuvim (「書物」)、Tanakh の第 3 セクション、および旧約聖書の本。タイトルは、ギリシア語訳の ψαλμοί (psalmoi) に由来し、「楽器の音楽」、さらには「音楽に付随する言葉」を意味します。この本は、ヘブライ語の個々の宗教的な賛美歌のアンソロジーであり、ユダヤ教と西洋キリスト教の伝統では 150 曲、東方キリスト教会ではそれ以上のものがあります。多くはダビデの名前に結びつけられているが、現代の学問ではダビデの著者であることを否定しており、代わりに詩篇の構成は紀元前9世紀から5世紀の間に書かれたさまざまな著者に帰している.
 
 ## Index

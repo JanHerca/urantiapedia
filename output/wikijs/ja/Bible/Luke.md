@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ルカによる福音書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ルカの福音書は、イエス・キリストの起源、誕生、奉仕、死、復活、昇天について語っています。使徒言行録と合わせて、それは新約聖書の 27.5% を占め、学者がルカ-使徒行伝と呼ぶ 2 巻の本を構成しています。結合された作品は、1 世紀のキリスト教の歴史を 3 つの段階に分け、福音はこれらのうちの最初の 2 つを構成します。メシアであるイエスの誕生から、洗礼者ヨハネとの出会いにおける使命の開始までの生涯です。平原の説教とその至福、そして彼の受難、死、そして復活などの出来事を伴う彼のミニストリーによって。
 
 現代のほとんどの学者は、ルカのために使用された主な情報源は、a) マルコの福音書、b) Q 情報源と呼ばれる架空のことわざのコレクション、c) 他の福音書には見られず、しばしば L (ルーク用）ソース。著者は匿名です。パウロの仲間である福音伝道者ルカであるという伝統的な見解は、今でも時々提唱されていますが、学術的なコンセンサスは、行為と本物のパウロの手紙との間の多くの矛盾を強調しています. その構成の最も可能性の高い年代は AD 80 ～ 110 年頃であり、2 世紀になってもまだ改訂されていたという証拠があります。

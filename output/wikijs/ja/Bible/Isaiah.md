@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">イザヤ書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 イザヤ書 (ヘブライ語: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) は、ヘブライ語聖書の最初の預言者であり、キリスト教の旧約聖書の最初の主要な預言者です。表題によって、紀元前 8 世紀の預言者イザヤ ベン アモズの言葉であることが確認されていますが、その多くがバビロン捕囚の時代以降に作曲されたという広範な証拠があります。Johann Christoph Döderlein は 1775 年に、この本には 1 世紀以上離れた 2 人の預言者の作品が含まれていると示唆し、Bernhard Duhm は、この本が 3 つの別々のオラクルのコレクションで構成されているという 20 世紀のほとんどを通じてコン​​センサスとして保持されていた見解を生み出しました。祖イザヤ書（1章から39章）。紀元前8世紀の預言者イザヤの言葉が含まれています。申命記イザヤ書（40章から55章）、亡命中に書いた紀元前6世紀の匿名の作家の作品。亡命からの帰還後に作曲されたトリト・イザヤ（第56章から第66章）。イザヤ書 1 章から 33 章では、ユダ、エルサレム、および国々の裁きと回復が約束されており、34 章から 66 章では、裁きが宣告され、回復がすぐに続くと推測されています。今日、本全体、あるいはその大部分を 1 人の人物に帰する学者はほとんどいないが、本の本質的な統一性は最近の研究の焦点となっている.
 
 この本は、亡命中とその後のエルサレムの運命についての拡張された瞑想として読むことができます。本のデューテロイザイアンの部分は、抑圧者（バビロン）を破壊する王室の救世主（救世主）を通して、神がどのようにエルサレムを彼の世界的支配の中心にするかを説明しています。この救世主はペルシャの王キュロス大王であり、彼は単にヤハウェの王権をもたらす代理人にすぎません。イザヤは、腐敗した指導者たちに反対し、恵まれない人々のために声を上げ、イスラエルの契約ではなく、神の聖さの中に正義を根付かせます。

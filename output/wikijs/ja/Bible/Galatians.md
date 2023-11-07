@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ガラテヤの信徒への手紙</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ガラテヤ人への手紙は、新約聖書の第9巻です。これは、使徒パウロがガラテヤの多くの初期キリスト教共同体に宛てた手紙です。学者たちは、これがアナトリア南部のローマの属州であるガラティアか、中央アナトリアのケルト人の民族グループによって定義された大きな地域のいずれかであると示唆しています。
 
 この手紙の中で、パウロは主に使徒時代の異邦人クリスチャンとモーセの律法をめぐる論争に関心を持っています。パウロは、キリストの啓示に照らして律法の役割を文脈化することにより、異邦人のガラテヤ人はモーセの律法、特に宗教的な男性の割礼の教義に固執する必要はないと主張します。ガラテヤ人への手紙は、キリスト教の歴史、キリスト教神学の発展、使徒パウロの研究に大きな影響を与えてきました。

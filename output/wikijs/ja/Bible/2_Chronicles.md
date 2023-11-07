@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">歴代誌下</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 クロニクルの書 (ヘブライ語: דگבڡڑ דטטטטטטטטטטטטמממם Dīvrē-hayYāmīm ) はヘブライ語聖書の本で、キリスト教の旧約聖書に 2 冊の本 (1–2 クロニクル) として記載されています。年代記はヘブライ語聖書の最後の本であり、ユダヤ人のタナフの第 3 セクションであるケトゥヴィム (「書物」) を締めくくっています。アダムから始まる系図と、紀元前 539 年のサイラスの勅令までの古代ユダとイスラエルの歴史が含まれています。
 
 この本は、セプトゥアギンタ訳で 2 つの本に分割され、紀元前 3 世紀半ばに翻訳されました。キリスト教の文脈では、クロニクルは、ジェロームによってテキストに与えられたラテン語の名前クロニコンにちなんで、クロニクルの本として複数形で呼ばれますが、ギリシア語の名前でパラリポメノンの本として呼ばれることはめったにありません. キリスト教の聖書では、それらは通常 2 冊の列王記に従い、プロテスタントの旧約聖書の最後の歴史志向の本であるエズラ-ネヘミヤに先行します。

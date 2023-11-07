@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ユディト記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ユディット書は、聖書のセプトゥアギンタ訳とカトリックおよび東方正教会のキリスト教旧約聖書に含まれているが、ヘブライ語の正典からは除外され、プロテスタントによって外典に割り当てられた、正典である。それは、ユダヤ人の未亡人、ジュディスが、彼女の美しさと魅力を使ってアッシリアの将軍を破壊し、イスラエルを抑圧から救ったことを物語っています。現存するギリシア語写本にはいくつかの歴史的時代錯誤が含まれているため、プロテスタントの学者の中には、この本を非歴史的であると考える理由があります: 寓話、神学小説、またはおそらく最初の歴史小説. ジュディス (ヘブライ語: מאההוگדکת、現代語: Yehudit、ティベリア語: Yəhûḏîṯ、「賛美された」または「ユダヤ人」) という名前は、ユダの女性形です。
 
 ## Index

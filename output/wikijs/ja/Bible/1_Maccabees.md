@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">マカバイ記1</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 First Maccabees (First Maccabees (1 Maccabees または 1 Macc.) と略して書かれる) とも呼ばれる Maccabees の最初の本は、ハスモン王朝によって独立したユダヤ王国が復活した後、匿名のユダヤ人作家によってヘブライ語で書かれた本です。紀元前2世紀後半。元のヘブライ語は失われており、現存する最も重要なバージョンは、セプトゥアギンタ訳に含まれるギリシャ語訳です。この本は、カトリック、正教会、東洋正教会（正教会のテワヘドを除く）によって正典として保持されていますが、プロテスタントの宗派やユダヤ教の主要な支部によっては保持されていません。それはヘブライ語聖書の一部ではありません。一部のプロテスタント信者は、それを外典の本と見なしています (申命記の本も参照)。
 
 1 Maccabees は、Seleucid 帝国に対する Maccabean の反乱における初期の勝利の説明で最もよく知られています。紀元前 164 年のエルサレムの奪還と第二神殿の再奉献 - ユダヤ教のハヌカの祝日の背後にある物語です。

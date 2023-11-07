@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">創世記</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 
 創世記 (ギリシア語の Γένεσις、ジェネシスから; 聖書のヘブライ語: בگڑککאשگׁית、ローマ字表記: Bərēʾšīṯ、「初めに」) は、ヘブライ語聖書とキリスト教の旧約聖書の最初の書です。そのヘブライ語の名前は、最初の単語である Bereshit (「初めに」) と同じです。創世記は、世界の創造、人類の初期の歴史、イスラエルの祖先、ユダヤ人の起源についての記述です。
 

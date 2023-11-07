@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">使徒言行録</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 使徒たちの行為 (Koinē ギリシャ語: Πράξεις Ἀποστόλων, Práxeis Apostólōn; ラテン語: Actūs Apostolōrum) は、新約聖書の 5 番目の書です。それは、キリスト教会の設立とそのメッセージがローマ帝国に広まったことを物語っています。キリストの死、復活、昇天の後、エルサレムや他の地域でのキリストの使徒たちの働きと活動について説明しています。
 
 使徒行伝とルカの福音書は、同じ匿名の著者による 2 部構成の作品、ルカ - 使徒行伝を構成しています。一部の学者は 90 年から 110 年を示唆していますが、通常は西暦 80 年から 90 年ごろのものとされています。最初の部分であるルカの福音書は、約束された救世主であるナザレのイエスの生と死と復活を通して、神がどのように世界の救いの計画を実現したかを語っています。行為は、イエスの昇天から始まる1世紀のキリスト教の物語を続けています。エルサレムを舞台にした初期の章では、ペンテコステの日 (聖霊の降臨) とエルサレムでの教会の成長について説明しています。当初、ユダヤ人はキリスト教のメッセージを受け入れましたが、後にイエスの追随者に背を向けます。ユダヤ人に拒否されたメッセージは、使徒パウロの指導の下、異邦人に伝えられます。後の章では、パウロについて語っています。

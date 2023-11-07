@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">聖書</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Japanese Lougo-yaku, 1954-55</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ホセア書</text>
+	</g>
+</svg>
+</div>
+
+## 説明
+
+
 ホセア書 (ヘブライ語: סگפका הוډשکׁעڷ、ローマ字表記: Sēfer Hōšēaʿ) は、ヘブライ語聖書ではネヴィア派の 12 人の小預言者 (「預言者」) の 1 つとして、キリスト教聖書ではそれ自体が本としてまとめられています。旧約聖書。ほとんどのヘブライ語聖書の伝統的な順序によれば、それは 12 の最初のものです。
 
 北イスラエル王国の滅亡をめぐって設定されたホセア書は、ヤハウェ (イスラエルの神) 以外の神々の崇拝を非難し、比喩的に、イスラエルがヤハウェを放棄したことを、女性が夫に不誠実であることと比較しています。この本の物語によると、ホセアと彼の不貞な妻ゴメルとの関係は、ヤハウェと彼の不貞な民イスラエルとの関係に匹敵します。ホセアとゴメルの最終的な和解は、ヤハウェとイスラエルの間の最終的な和解の希望に満ちた比喩として扱われます。
