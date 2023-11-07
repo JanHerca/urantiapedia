@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Zsoltárok könyve</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 A Zsoltárok könyve (/sɑːmz/SAHMZ vagy /sɔː(l)mz/SAW(L)MZ; héberül: תְּהִלִּים, Tehillim, szó szerint „dicséretet” – más néven Zsoltárok, vagy Zsoltár, az első könyv. a Ketuvim („Írások”), a Tanakh harmadik szakasza és az Ószövetség könyve. A cím a görög ψαλμοί (psalmoi) fordításból származik, ami „hangszeres zenét” jelent, és kibővítve a „zenét kísérő szavakat”. A könyv egyéni héber vallási énekek antológiája, amelyből 150 a zsidó és a nyugati keresztény hagyomány, és több a keleti keresztény egyházakban. Sokan Dávid nevéhez fűződnek, de a modern tudomány elutasítja szerzőségét, ehelyett a zsoltárok összeállítását a Kr.e. 9. és 5. század között író különböző szerzőknek tulajdonítják. 
 
 ## Index

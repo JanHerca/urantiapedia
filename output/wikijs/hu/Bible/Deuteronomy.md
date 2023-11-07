@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Második</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Törvénykönyv</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 A Deuteronómia (görögül: Δευτερονόμιον Deuteronómion, szó szerint 'második törvény') a Tóra ötödik és egyben utolsó könyve (a judaizmusban), ahol Devarimnak (héberül: דְּבָםs,]'. ) és a keresztény Ószövetség ötödik könyve.
 
 A könyv 1–30. fejezetei három prédikációból vagy beszédből állnak, amelyeket Mózes mondott az izraelitáknak Moáb síkságán, röviddel az ígéret földjére való belépésük előtt. Az első prédikáció beszámol a negyven évnyi pusztai vándorlásról, amely ahhoz a pillanathoz vezetett, és a törvény betartására való buzdítással zárul. A második prédikáció emlékezteti az izraelitákat arra, hogy kövessék Jahvét és az általa adott törvényeket (vagy tanításokat), amelyektől a föld birtoklása függ. A harmadik prédikáció azt a vigaszt nyújtja, hogy még ha Izrael nemzete hűtlennek bizonyul, és így elveszíti a földet, bűnbánattal mindent helyre lehet állítani.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Izajás</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Ézsaiás könyve (héberül: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) az első az utolsó próféták közül a héber Bibliában és az első a fő próféták közül a keresztény Ószövetségben. Egy felirat alapján az ie 8. századi Isaiah ben Ámós próféta szavaiként azonosítják, de széles körű bizonyítékok állnak rendelkezésre arra vonatkozóan, hogy nagy részét a babiloni fogságban és később alkották. Johann Christoph Döderlein 1775-ben azt javasolta, hogy a könyv két próféta műveit tartalmazza, amelyeket több mint egy évszázad választ el egymástól, Bernhard Duhm pedig azt a nézetet hozta létre, amely a 20. század nagy részében konszenzus volt, hogy a könyv három különálló orákulumgyűjteményt tartalmaz: Proto-Ézsaiás (1–39. fejezet), amely az ie 8. századi Ézsaiás próféta szavait tartalmazza; Deutero-Ézsaiás (40–55. fejezet), egy névtelen, ie 6. századi szerző munkája, aki a száműzetés idején írt; és Trito-Isaiah (56–66. fejezet), amelyet a száműzetésből való visszatérés után komponáltak. Az Ézsaiás 1–33 ítéletet és helyreállítást ígér Júdának, Jeruzsálemnek és a nemzeteknek, a 34–66. fejezet pedig azt feltételezi, hogy az ítéletet kihirdették, és hamarosan a helyreállítás következik. Bár manapság gyakorlatilag egyetlen tudós sem tulajdonítja az egész könyvet vagy akár annak nagy részét egy személynek, a könyv lényegi egysége az újabb kutatások középpontjába került.
 
 A könyv egy kiterjesztett elmélkedésként olvasható Jeruzsálem sorsáról a száműzetésbe és utána. A könyv deutero-izai része leírja, hogyan teszi Isten Jeruzsálemet világméretű uralma központjává egy királyi megváltó (a messiás) révén, aki elpusztítja az elnyomót (Babilon); ez a messiás Nagy Kürosz perzsa király, aki csupán az ügynök, aki megvalósítja Jahve királyságát. Ésaiás szót emel a romlott vezetők ellen és a hátrányos helyzetűekért, és az igazságot inkább Isten szentségében, mint Izrael szövetségében gyökerezi meg.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Prédikátor könyve</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Prédikátor (/ɪˌkliːziˈæstiːz/; bibliai héber: קֹהֶלֶת, latinul: qōheleṯ, ógörögül: Ἐκκλησιαστλησιαστλησιαστλησιαστλησιαστλησιαστής) az ókeresztény könyvei (Wlēsim) is, romanizált Végrendelet. Az angolban általánosan használt cím a héber קֹהֶלֶת (Kohelet, Koheleth, Qoheleth vagy Qohelet) görög fordításának latin átírása. Egy meg nem nevezett szerző bevezeti „Koheletnek, Dávid fiának, a jeruzsálemi királynak a szavait” (1:1), és csak az utolsó versekig (12:9-14) használja a saját hangját, ahol elmondja saját gondolatait és összefoglalja Kohelet nyilatkozatait; a szöveg fő részét magának Koheletnek tulajdonítják.
 
 Kohelet kijelenti (1:2) „A hiábavalóságok hiúsága! Minden hiábavaló!”; a héber hevel szó, a „gőz”, átvitt értelemben jelentheti „lényegtelen”, „hiábavaló”, „hiábavaló” vagy „értelmetlen”. Ennek ismeretében a következő vers azt az alapvető egzisztenciális kérdést mutatja be, amellyel a könyv többi része is foglalkozik: „Mi haszna van az embernek minden fáradozásából, amelyben fáradozik a nap alatt?”, kifejezve, hogy mind a bölcsek, mind a bölcsek élete. az ostoba emberek mind halállal végződnek. Míg Kohelet támogatja a bölcsességet, mint a jól megélt földi élet eszközét, nem tud ennek örök értelmet tulajdonítani. Ennek az észlelt értelmetlenségnek a fényében azt javasolja, hogy az emberek élvezzék a mindennapi élet egyszerű örömeit, mint például az evést, ivást és a munka élvezetét, amelyek Isten ajándékai. A könyv a következő utasítással zárul: „Féljétek Istent és tartsátok meg parancsolatait; mert ez az egész emberiség kötelessége. Mivel Isten minden cselekedetet ítéletre ítél, minden rejtett cselekedetért, legyen az jó vagy rossz.”

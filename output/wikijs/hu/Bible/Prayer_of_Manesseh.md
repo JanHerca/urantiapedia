@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">JELENÉSEK KÖNYVE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Manassé imája</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 A Manassze imája, más néven Manassé imája egy 15 versből álló rövid mű, amely egy Manassé júdai királynak tulajdonított bűnbánó imát rögzít. A tudósok többsége úgy véli, hogy a Manassé imáját görögül írták (miközben egy kisebbség a szemita eredeti mellett érvel) a Krisztus előtti második vagy első században. Felismerhető, hogy az i.sz. 1. század első felében is írhatták, de mindenképpen a második templom i.sz. 70-es lerombolása előtt. Egy másik, azonos című, héber nyelvű művet találtak a Holt-tengeri tekercsek között (4Q381:17).
 
 Manassé a Bibliában Júda egyik legbálványimádó királyaként szerepel (2Királyok 21:1–18; 2Krónika 33:1–9). A második Krónikák könyve, de nem a második Királyok könyve feljegyzi, hogy Manassé fogságba esett az asszírok által (2Krónika 33:11–13). Fogolykorában Manassé irgalomért imádkozott, és miután kiszabadult és visszakerült a trónra, elfordult bálványimádó útjáról (2Krónika 33:15–17). A 2Krón 33:19 utal az imára, de nem magára az imára, amely szerint az ima „Izrael királyainak évkönyvében” van megírva.

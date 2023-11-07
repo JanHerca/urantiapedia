@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">JELENÉSEK KÖNYVE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Báruk</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 A Báruk könyve a Biblia deuterokanonikus könyve, amelyet a legtöbb keresztény hagyomány, például a katolikus és az ortodox templomok használnak. A judaizmusban és a protestáns kereszténységben nem tekintik a kánon részének, a protestáns Bibliák pedig a bibliai apokrifok részeként sorolják be. A könyv nevét Báruk ben Neriásról, Jeremiás jól ismert írnokáról kapta, akit a Báruk 1:1 említ, és akit az egész mű szerzőjének feltételeznek. A könyv egy néhai zsidó író elmélkedése a babiloni zsidók száműzetésének körülményeiről, Izrael teológiájáról és történelméről szóló elmélkedésekkel, bölcsességi beszélgetésekkel, valamint közvetlen megszólítással Jeruzsálem és a diaszpóra lakóihoz. Egyes tudósok azt állítják, hogy a Makkabeusok időszakában vagy röviddel azután íródott.
 
 Báruk könyvét néha 1 Báruk néven említik, hogy megkülönböztessük a 2 Báruktól, a 3 Báruktól és a 4 Báruktól.

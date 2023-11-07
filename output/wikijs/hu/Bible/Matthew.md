@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Máté evangéliuma</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Máté evangéliuma a Biblia Újszövetségének első könyve és a három szinoptikus evangélium egyike. Elmondja, hogyan jön Izrael Messiása, Jézus a népéhez, és alkot tanítványi közösséget, hogyan tanította az embereket olyan eseményeken keresztül, mint a hegyi beszéd és annak boldogmondásai, és hogyan válik meg Izraeltől, és hogyan ítéli el Jézus ezt az ellenséges Izraelt. . Ez a Templomból való távozásával és a kivégzésével csúcsosodik ki. Ezen a ponton sokan elutasítják Jézust, és feltámadásakor elküldi tanítványait a pogányokhoz.
 
 Máté hangsúlyozni látszik, hogy a zsidó hagyományt nem szabad elveszíteni az egyre inkább nemzsidóvá váló gyülekezetben. Az evangélium tükrözi az evangélista közössége és a többi zsidó közötti küzdelmeket és konfliktusokat, különösen az írástudók és a farizeusok éles bírálatával, azzal az állásponttal, hogy Krisztus elutasítása révén Isten Királyságát elvették tőlük, és helyettük adták. A templom. Jézus isteni természete nagy kérdés volt a mátyai közösség számára, az a döntő elem, amely elválasztotta a korai keresztényeket zsidó szomszédaiktól; Míg Márk Jézus megkeresztelkedésével és kísértéseivel kezdi, Máté Jézus eredetéhez nyúlik vissza, és Isten Fiaként mutatja be őt születésétől, az Ószövetség messiási próféciáinak beteljesülésétől. A Dávid fia cím Jézust Izrael gyógyító és csodatevő Messiásaként azonosítja (kizárólag a csodákkal kapcsolatban használják), akit egyedül Izraelbe küldtek. Emberfiaként visszatér, hogy megítélje a világot, ezt az elvárást tanítványai felismerik, de ellenségei nem tudnak róla. Isten Fiaként Isten a fián keresztül nyilatkoztatja ki magát, Jézus pedig engedelmessége és példája által bizonyítja fiúságát.

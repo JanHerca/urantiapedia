@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Lukács evangéliuma</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Lukács evangéliuma beszámol Jézus Krisztus eredetéről, születéséről, szolgálatáról, haláláról, feltámadásáról és mennybemeneteléről. Az Apostolok Cselekedeteivel együtt egy kétkötetes művet alkot, amelyet a tudósok Lukács Cselekedeteinek neveznek, és az Újszövetség 27,5%-át teszi ki. Az összevont mű három szakaszra osztja az első századi kereszténység történetét, ezek közül az evangélium alkotja az első kettőt – Jézus, a Messiás élete születésétől a Keresztelő Jánossal való találkozásig missziójának kezdetéig, majd ezt követi. szolgálata által olyan eseményekkel, mint a Síkságról szóló beszéd és annak boldogsága, valamint szenvedése, halála és feltámadása.
 
 A legtöbb modern tudós egyetért abban, hogy Lukács fő forrásai a) Márk evangéliuma, b), egy hipotetikus mondásgyűjtemény, amelyet Q-forrásnak neveznek, és c), más evangéliumokban nem található anyag, amelyet gyakran L-nek neveznek. Luke számára) forrás. A szerző névtelen; A hagyományos nézet, miszerint Lukács evangélistáról, Pál kísérőjéről van szó, időnként még mindig előtérbe kerül, de a tudományos konszenzus hangsúlyozza az Apostolok Cselekedetei és a hiteles páli levelek közötti számos ellentmondást. Összeállításának legvalószínűbb dátuma i.sz. 80–110 körüli, és bizonyítékok vannak arra, hogy még jóval a 2. században is átdolgozták. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Leviták könyve</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Leviticus könyve (/lɪˈvɪtɪkəs/, az ógörögül: Λευιτικόν, Leuïtikón; héberül: וַיִּקְרָא, Vayyīqrāʾ, Ótestraha, ismert Pentauchment) és a Toteuchment harmadik könyve, „És Ő” Mózes harmadik könyve. A tudósok általában egyetértenek abban, hogy hosszú időn keresztül fejlődött, jelenlegi formáját a perzsa időszakban, ie 538–332 között érte el.
 
 A legtöbb fejezete (1–7, 11–27) Jahve Mózeshez intézett beszédeiből áll, amelyeket Jahve azt mondja Mózesnek, hogy ismételje meg az izraelitáknak. Ez az izraeliták kivonulásának történetében játszódik, miután megszöktek Egyiptomból, és elérték a Sínai-hegyet ([2Móz 19:1](/hu/Bible/Exodus/19#v1)). A Kivonulás könyve elmeséli, hogyan vezette Mózes az izraelitákat a tabernákulum felépítésében (2Móz 35–40) Isten utasításai alapján ([2Móz 25–31](/hu/Bible/Exodus/25)). A Leviticusban Isten elmondja az izraelitáknak és papjaiknak, a lévitáknak, hogyan kell áldozatokat tenni a sátorban, és hogyan viselkedjenek a szent sátor körüli táborban. A Leviticus a Sátor elkészülte ([2Móz 40:17](/hu/Bible/Exodus/40#v17)) és az izraeliták Sínai-félszigetről való távozása közötti hónapban vagy másfél hónapban játszódik (4Mózes [1:1](/hu/Bible/Numbers/1#v1), [10:11](/hu/Bible/Numbers/10#v11)).

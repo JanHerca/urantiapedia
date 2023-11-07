@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apostolok</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Cselekedetei</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Az Apostolok Cselekedetei (Koinē görögül: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latinul: Actūs Apostolōrum) az Újszövetség ötödik könyve; a keresztény egyház megalapításáról és üzenetének a Római Birodalomba való terjesztéséről szól. Beszámol Krisztus apostolainak szolgálatáról és tevékenységéről Jeruzsálemben és más vidékeken, Krisztus halála, feltámadása és mennybemenetele után.
 
 Az Apostolok cselekedetei és Lukács evangéliuma két részből áll, Lukács – ApCsel, ugyanattól a névtelen szerzőtől. Általában i.sz. 80–90 körül datálják, bár egyes tudósok szerint 90–110. Az első rész, Lukács evangéliuma elmeséli, hogyan valósította meg Isten a világ megváltására vonatkozó tervét a Názáreti Jézus, a megígért messiás életével, halálával és feltámadásával. Az ApCsel folytatja a kereszténység történetét az 1. században, kezdve Jézus mennybemenetelével. A korai, Jeruzsálemben játszódó fejezetek a pünkösd napját (a Szentlélek eljövetelét) és a jeruzsálemi gyülekezet növekedését írják le. A zsidók kezdetben fogékonyak a keresztény üzenetre, később azonban Jézus követői ellen fordulnak. A zsidók elutasították az üzenetet, és Pál apostol irányítása alatt eljuttatják a pogányokhoz. A későbbi fejezetek Pál megtéréséről, kis- és égei-tengeri küldetéséről, végül római bebörtönzéséről mesélnek, ahol a könyv végén tárgyalásra vár.

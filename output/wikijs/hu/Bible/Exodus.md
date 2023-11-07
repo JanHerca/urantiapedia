@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Kivonulás könyve</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Az Exodus könyve (ógörögül: Ἔξοδος, latinul: Éxodos; héberül: שְׁמוֹת Šəmōṯ, „nevek”) a Biblia második könyve. A kivonulás történetét meséli el, amelyben az izraeliták elhagyják a rabszolgaságot a bibliai Egyiptomban Jahve erejével, aki népének választotta őket. Az izraeliták ezután Mózes prófétával a Sínai-hegyre utaznak, ahol Jahve kiadja a 10 parancsolatot, és szövetséget kötnek Jahvével, aki megígéri, hogy hűségük feltételével „szent nemzetté és papok királyságává” teszi őket. Megadja nekik a törvényeiket és utasításaikat a Tabernákulum építésére, amely eszközzel eljön a mennyből, és velük lakik, és egy szent háborúba vezeti őket, hogy birtokba vegyék Kánaán földjét (az „ígéret földjét”), amely korábban a Genezis története szerint Ábrahám magvának ígérték.
 
 Hagyományosan magának Mózesnek tulajdonítják, a modern tudósok kezdeti összetételét a babiloni száműzetés (i.e. 6. század) termékének tekintik, amely korábbi írott források és szájhagyományok alapján történik, végső átdolgozása a perzsa száműzetés utáni időszakban (i.e. 5. század). Carol Meyers az Exodushoz írt kommentárjában azt sugallja, hogy ez vitathatatlanul a Biblia legfontosabb könyve, mivel bemutatja Izrael identitásának meghatározó vonásait – a nehézségekkel és meneküléssel jellemezhető múlt emlékeit, egy kötelező érvényű szövetséget Istennel, aki úgy dönt, Izrael, valamint a közösség életének megalapozása és fenntartásának irányelvei. A modern tudósok konszenzusa az, hogy a Kivonulás könyvében szereplő történet a legjobban mítoszként értelmezhető. 

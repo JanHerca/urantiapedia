@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hungarian Károli Bible, 1590</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Márk evangéliuma</text>
+	</g>
+</svg>
+</div>
+
+## Leírás
+
+
 Márk evangéliuma a második a négy kanonikus evangélium és a három szinoptikus evangélium közül. Jézus szolgálatát meséli el Keresztelő János általi megkeresztelkedésétől haláláig, temetéséig és üres sírjának megtalálásáig. Nincs csodálatos születés vagy tanítás az isteni lét előtti létezésről, sem az eredeti befejezésben (Mk 16:1–8) Jézus feltámadása utáni megjelenése. Jézust tanítóként, ördögűzőként, gyógyítóként és csodatevőként ábrázolja. Magát az Ember Fiának nevezi. Isten Fiának hívják, de messiási természetét titokban tartja; még a tanítványai sem értik meg őt. Mindez összhangban van a prófécia keresztény értelmezésével, amelyről úgy tartják, hogy megjövendöli a messiás, mint szenvedő szolga sorsát. Az evangélium eredeti változatában az üres sír felfedezésével ér véget,
 
 A legtöbb tudós Marktól kb. 66–74 között, röviddel a második templom lerombolása előtt vagy után, i.sz. 70-ben. Elutasítják a hagyományos Márk evangélistához, Péter apostol társához való hozzárendelést, amely valószínűleg abból fakadt, hogy a korai keresztények arra vágytak, hogy a művet egy tekintélyes személyiséghez kössék, és úgy vélik, hogy egy olyan szerző munkája, aki különféle forrásokkal dolgozik, mint pl. csodatörténetek, vitatörténetek, példázatok és szenvedélyes elbeszélés gyűjteményei. A keresztény kánonban hagyományosan a második, néha a negyedik helyre helyezték, mint a legfontosabb evangéliumnak tekintett Máté evangélium alacsonyabb rendű kivonatát; az Egyház tehát Jézusról alkotott nézetét elsősorban Mátétól, másodsorban Jánostól, és csak távoli Márktól merítette.
