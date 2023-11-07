@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯТА</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bulgarian Bible, 1924</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Псалми</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
 Книгата на Псалмите (/sɑːmz/ SAHMZ или /sɔː(l)mz/ SAW(L)MZ; иврит: תְּהִלִּים, Tehillim, буквално „възхвали“), известна също като Псалмите или Псалтирът, е първата книга от Кетувим („Писания“), третата част от Танах и книга от Стария завет. Заглавието произлиза от гръцкия превод ψαλμοί (psalmoi), което означава „инструментална музика“ и като разширение „думите, придружаващи музиката“. Книгата е антология на отделни еврейски религиозни химни, със 150 в еврейската и западната християнска традиция и повече в източнохристиянските църкви. Много от тях са свързани с името на Давид, но съвременната наука отхвърля неговото авторство, вместо това приписва състава на псалмите на различни автори, пишещи между 9-ти и 5-ти век пр.н.е. 
 
 ## Index

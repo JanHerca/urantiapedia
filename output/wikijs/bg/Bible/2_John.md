@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯТА</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bulgarian Bible, 1924</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Йоаново</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
 Второто послание на Йоан е книга от Новия завет, приписвана на евангелист Йоан, традиционно смятан за автор на другите две послания на Йоан и Евангелието на Йоан (макар че това се оспорва). Повечето съвременни учени смятат, че това не е апостол Йоан, но като цяло няма консенсус относно самоличността на този човек или група. (Вижте Авторството на творбите на Йохан.)
 
 Второ Йоаново и Трето Йоаново са двете най-кратки книги в Библията. Най-кратката книга на английски език е различна в зависимост от това кой превод (версия) чете. Например в новата международна версия 2 Йоан е най-кратката книга със само 302 думи, но във версията на крал Джеймс (авторизирана версия) 3 Йоан е най-кратката със само 295 думи. Въпреки това Второ Йоан има най-малко стихове в Библията със само 1 глава, съставена от само 13 стиха. 

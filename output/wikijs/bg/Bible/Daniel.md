@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯТА</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bulgarian Bible, 1924</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Данаил</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
 Книгата на Даниил е библейски апокалипсис от 2-ри век пр. н. е. с обстановка от 6-ти век пр. н. е. Привидно „разказ за дейностите и виденията на Даниил, благороден евреин, заточен във Вавилон“, той съчетава пророчество за историята с есхатология (изобразяване на последните времена) както с космически обхват, така и с политически фокус, и посланието му е, че точно както Богът на Израел спасява Данаил от неговите врагове, така той ще спаси целия Израел в сегашното им потисничество.
 
 Еврейската Библия включва Данаил в Ketuvim (писания), докато християнските библейски канони групират работата с главните пророци. Разделя се на две части: набор от шест съдебни истории в глави 1–6, написани предимно на арамейски, и четири апокалиптични видения в глави 7–12, написани предимно на иврит; второканоничните книги съдържат три допълнителни раздела, Молитвата на Азария и Песента на трите свети деца, Сузана и Бел и дракона. 

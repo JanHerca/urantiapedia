@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯТА</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bulgarian Bible, 1924</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Левит</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
 Книгата Левит (/lɪˈvɪtɪkəs/, от старогръцки: Λευιτικόν, Leuïtikón; иврит: וַיִּקְרָא, Vayyīqrāʾ, „И Той повика“) е третата книга от Тората (Петокнижието) и от Стария завет, известна още като Трета книга на Мойсей. Учените като цяло са съгласни, че се е развивал в продължение на дълъг период от време, достигайки сегашната си форма през Персийския период, от 538–332 г. пр.н.е.
 
 Повечето от неговите глави (1–7, 11–27) се състоят от речите на Яхве към Моисей, които Яхве казва на Мойсей да повтори на израилтяните. Това се случва в историята за Изхода на израилтяните, след като избягаха от Египет и достигнаха планината Синай ([Изход 19:1](/bg/Bible/Exodus/19#v1)). Книгата Изход разказва как Мойсей води израилтяните при изграждането на скинията (Изход 35–40) с Божиите инструкции ([Изход 25–31](/bg/Bible/Exodus/25)). В Левит Бог казва на израилтяните и техните свещеници, левитите, как да правят приноси в скинията и как да се държат, докато са на лагер около святото светилище на шатъра. Действието на Левит се развива през месец или месец и половина между завършването на скинията ([Изход 40:17](/bg/Bible/Exodus/40#v17)) и напускането на израилтяните от Синай (Числа [1:1](/bg/Bible/Numbers/1#v1), [10:11](/bg/Bible/Numbers/10#v11)).

@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯТА</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Bulgarian Bible, 1924</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Премъдрост на Иисуса, син Сирахов</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
 Книгата на Сирах (/ˈsaɪræk/) или Еклесиастик (/ɪˌkliːziˈæstɪkəs/; съкратено Ecclus.), е еврейско произведение, първоначално на иврит, на етични учения, от приблизително 200 до 175 г. пр.н.е., написано от юдейския писар Бен Сира от Йерусалим , по вдъхновение от баща си Джошуа, син на Сирах, понякога наричан Исус, син на Сирах или Йешуа бен Елиезер бен Сира. 
 
 В Египет тя е преведена на гръцки от неназования внук на автора, който добавя пролог. Този пролог обикновено се смята за най-ранното свидетелство за канон [необходимо е пояснение] на книгите на пророците и по този начин датата на текста е обект на интензивно изследване. Самата книга е най-голямата книга с мъдрости от древността, оцеляла до наши дни. 
