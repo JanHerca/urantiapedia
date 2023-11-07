@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Izaijo knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Izaijo knyga (hebrajų kalba: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) yra pirmasis iš paskutiniųjų pranašų hebrajų Biblijoje ir pirmasis iš pagrindinių pranašų krikščionių Senajame Testamente. Pagal užrašą jis identifikuojamas kaip 8-ojo amžiaus prieš Kristų pranašo Isaiah ben Amoz žodžiai, tačiau yra daug įrodymų, kad didžioji jo dalis buvo sukurta Babilono nelaisvės metu ir vėliau. Johanas Christophas Döderleinas 1775 m. pasiūlė, kad knygoje būtų dviejų pranašų, kuriuos skiria daugiau nei šimtmetis, darbai, o Bernhardas Duhmas iškėlė nuomonę, kuri buvo sutarusi didžiąją XX amžiaus dalį, kad knygą sudaro trys atskiros orakulų kolekcijos: Proto Izaijas (1–39 skyriai), kuriuose yra 8-ojo amžiaus prieš Kristų pranašo Izaijo žodžiai; Deutero-Izaijas (40–55 skyriai), anoniminio VI a. pr. Kr. autoriaus, rašančio tremties metu, darbas; ir Trito-Izaijas (56–66 skyriai), sukurti grįžus iš tremties. Izaijas 1–33 žada teismą ir atkūrimą Judui, Jeruzalei ir tautoms, o 34–66 skyriuose daroma prielaida, kad nuosprendis buvo paskelbtas ir netrukus bus atkurtas. Nors šiandien beveik nė vienas mokslininkas nepriskiria visos knygos ar net didžiosios jos dalies vienam asmeniui, naujesniuose tyrimuose akcentuojama esminė knygos vienybė.
 
 Knygą galima perskaityti kaip išplėstinę apmąstymą apie Jeruzalės likimą tremtyje ir po jos. Deutero-Izaijo knygos dalyje aprašoma, kaip Dievas pavers Jeruzalę savo pasaulinės valdžios centru per karališkąjį gelbėtoją (mesiją), kuris sunaikins engėją (Babiloną); šis mesijas yra Persijos karalius Kyras Didysis, kuris yra tik agentas, įgyvendinantis Jahvės karalystę. Izaijas pasisako prieš sugedusius vadovus ir nuskriaustuosius, o teisumą įveda į Dievo šventumą, o ne į Izraelio sandorą.

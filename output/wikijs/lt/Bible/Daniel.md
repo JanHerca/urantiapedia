@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Danielio knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Danieliaus knyga yra II a. pr. Kr. biblinė apokalipsė su VI amžiuje prieš Kristų. Tariamai „pasakojimas apie Danieliaus, kilnaus žydo, ištremto į Babiloną, veiklą ir vizijas“, joje istorijos pranašystė sujungiama su eschatologija (pabaigos laikų vaizdavimu), tiek kosminės apimties, tiek politinio dėmesio, o jo žinia yra tokia: kaip Izraelio Dievas gelbsti Danielių nuo jo priešų, taip jis išgelbės visą Izraelį dabartinėje priespaudoje.
 
 Hebrajų Biblijoje Danielius įtrauktas į Ketuvimą (raštus), o krikščionių bibliniai kanonai sugrupuoja darbą su pagrindiniais pranašais. Ją sudaro dvi dalys: šešių teismo pasakojimų rinkinys 1–6 skyriuose, daugiausia parašytas aramėjų kalba, ir keturios apokaliptinės vizijos 7–12 skyriuose, daugiausia parašytos hebrajų kalba; deuterokanoninėse knygose yra trys papildomi skyriai: Azarijos malda ir Trijų šventųjų vaikų giesmė, Suzana ir Belas ir drakonas. 

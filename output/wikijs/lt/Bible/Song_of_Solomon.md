@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Giesmių</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">giesmės knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Dainų daina (hebrajų kalba: שִׁיר הַשִּׁירִים šīr haššīrīm; graikų kalba: ᾆσμα ᾀσμάτων, translitas. Erotinis eilėraštis, kuris yra vienas iš megillotų (slinkčių), rastų paskutinėje Tanah dalyje, žinomoje kaip Ketuvim (arba „Raštai“). Jis yra unikalus hebrajų Biblijoje: jis nerodo susidomėjimo Įstatymu, Sandora ar Izraelio Dievu, taip pat nemoko ir netyrinėja išminties, kaip Patarlės ar Ekleziastas (nors ji turi tam tikrų panašumų su išminties literatūra, kaip priskiriama 10 amžiuje prieš Kristų Izraelio karalius Saliamonas nurodo); Vietoj to, ji švenčia seksualinę meilę, dovanoja „dviejų įsimylėjėlių balsus, giria vienas kitą, trokšta vienas kito, kviečia pasimėgauti“.
 
 Jiedu yra harmonijoje, kiekvienas trokšta kito ir džiaugiasi seksualiniu intymumu. Jeruzalės moterys sudaro įsimylėjėlių chorą, veikiantį kaip auditorija, kurios dalyvavimas įsimylėjėlių erotiniuose susitikimuose palengvina skaitytojo dalyvavimą. Mokslininkų nuomonės skiriasi dėl to, kada jis buvo parašytas, skaičiuojant nuo 10 iki 2 a. pr. Kr., o vartojamos kalbos analizė rodo, kad III a. Šiuolaikiniame judaizme Giesmė skaitoma šabą per Paschos šventę, kuri žymi javų derliaus pradžią, taip pat minint išėjimą iš Biblinio Egipto. Žydų tradicija skaito ją kaip Dievo ir Izraelio santykių alegorija; Krikščionybė, kaip Kristaus ir jo nuotakos – Bažnyčios alegorija.

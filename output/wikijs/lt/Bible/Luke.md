@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelija pagal Luką</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Luko evangelija pasakoja apie Jėzaus Kristaus kilmę, gimimą, tarnystę, mirtį, prisikėlimą ir žengimą į dangų. Kartu su Apaštalų darbais jis sudaro dviejų tomų veikalą, kurį mokslininkai vadina Luko – Apaštalų darbais ir sudaro 27,5 % Naujojo Testamento. Kombinuotas darbas suskirsto pirmojo amžiaus krikščionybės istoriją į tris etapus, iš kurių pirmuosius du sudaro Evangelija – Jėzaus Mesijo gyvenimas nuo jo gimimo iki jo misijos pradžios susitikime su Jonu Krikštytoju, vėliau savo tarnyboje su tokiais įvykiais kaip Pamokslas lygumoje ir jos palaiminimai bei jo kančia, mirtis ir prisikėlimas.
 
 Dauguma šiuolaikinių mokslininkų sutinka, kad pagrindiniai Luko šaltiniai buvo a), Morkaus evangelija, b), hipotetinių posakių rinkinys, vadinamas Q šaltiniu, ir c), medžiaga, nerasta jokiose kitose evangelijose, dažnai vadinama L. Lukui) šaltinis. Autorius yra anonimas; tradicinis požiūris, kad tai buvo evangelistas Lukas, Pauliaus bendražygis, vis dar retkarčiais pateikiamas, tačiau mokslininkų sutarimas pabrėžia daugybę prieštaravimų tarp Apaštalų darbų ir autentiškų Pauliaus laiškų. Labiausiai tikėtina jo sudarymo data yra apie 80–110 m. po Kr., ir yra įrodymų, kad jis buvo dar peržiūrimas ir II amžiuje. 

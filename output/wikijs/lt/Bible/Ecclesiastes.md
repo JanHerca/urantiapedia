@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Koheleto knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Ekleziastas (/ɪˌkliːziˈæstiːz/; Biblijos hebrajų: קֹהֶלֶת, romanizuota: qōheleṯ, senovės graikų: Ἐκκλησιαστλησιαστλησιαστής, the one of Christian) Testamentas. Anglų kalba dažniausiai vartojamas pavadinimas yra hebrajų kalbos žodžio קֹהֶלֶת (Kohelet, Koheleth, Qoheleth arba Qohelet) vertimo į graikų kalbą lotyniška transliteracija. Neįvardytas autorius pristato „Koheleto, Dovydo sūnaus, karaliaus Jeruzalėje, žodžius“ (1:1) ir nenaudoja savo balso iki paskutinių eilučių (12:9–14), kur pateikia savo mintis ir apibendrina Koheleto teiginius; pagrindinė teksto dalis priskiriama pačiam Koheletui.
 
 Koheletas skelbia (1:2) „Tuštybių tuštybė! Viskas bergždžia!“; hebrajiškas žodis hevel, „garai“, perkeltine prasme gali reikšti „neesminis“, „beprasmiškas“, „beprasmiškas“ arba „beprasmis“. Atsižvelgiant į tai, kitoje eilutėje pateikiamas pagrindinis egzistencinis klausimas, su kuriuo susijusi visa kita knygos dalis: „Kokia nauda žmogui iš viso jo triūso, kurį jis triūsia po saule?“, išreikšdamas, kad tiek išmintingo, tiek kvaili žmonės visi baigiasi mirtimi. Nors Koheletas palaiko išmintį kaip priemonę gerai nugyventam žemiškam gyvenimui, jis negali suteikti jai amžinos prasmės. Atsižvelgdamas į šį suvoktą beprasmiškumą, jis siūlo žmonėms mėgautis paprastais kasdienio gyvenimo malonumais, tokiais kaip valgymas, gėrimas ir malonumas darbu, kurie yra Dievo dovanos. Knyga baigiama įsakymu „Bijokite Dievo ir laikykitės jo įsakymų; nes tai visos žmonijos pareiga. Kadangi Dievas pasmerks kiekvieną poelgį už kiekvieną paslėptą veiksmą, nesvarbu, ar tai geras, ar blogas.

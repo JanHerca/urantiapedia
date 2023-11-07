@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Antroji</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Makabėjų knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 2 Makabiejai, taip pat žinomi kaip Antroji Makabijų knyga, Antroji Makabiejai ir sutrumpinta kaip 2 Macc., yra deuterokanoninė knyga, kurioje pasakojama apie žydų persekiojimą valdant karaliui Antiochui IV Epiphanes ir Makabėjų sukilimą prieš jį. Jis baigiasi Seleukidų imperijos generolo Nikanoro pralaimėjimu 161 m. prieš Kristų Makabiejų vadui Judui Makabejui.
 
 2 Makabėjus iš pradžių koine graikų kalba parašė nežinomas diasporos žydas, gyvenantis helenistiniame Egipte. Tikėtina, kad jis buvo parašytas nuo 150 iki 120 metų prieš Kristų. Kartu su knyga „1 Makabiejai“ ji yra vienas iš svarbiausių Makabėjų sukilimo šaltinių. Kūrinys nėra „1 Makabiejų“ tęsinys, o veikiau savarankiškas istorinių Makabių sukilimo įvykių perteikimas. Jos istorija prasideda ir baigiasi anksčiau nei 1 Makabiejus, pradedant incidentu, kai sėlių valdininkas Heliodoras bandė apmokestinti antrąją šventyklą 178 m. pr. Kr., ir baigiant Adasos mūšiu 161 m. Kai kurie mokslininkai mano, kad knyga buvo paveikta fariziejų tradicijos, o skyriuose yra pritarimas maldai už mirusiuosius ir mirusiųjų prisikėlimas.

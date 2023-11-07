@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Pirmoji Karalių knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Karalių knyga (hebr. ספר מלכים, sefer melakhim) yra knyga hebrajų Biblijoje, rasta kaip dvi knygos (1–2 karaliai) krikščionių Senajame Testamente. Tai užbaigia deuteronomistinę istoriją, Izraelio istoriją, įskaitant Jozuės ir Teisėjų knygas bei Samuelio knygas.
 
 Biblijos komentatoriai mano, kad Karalių knygos buvo parašytos siekiant pateikti teologinį paaiškinimą, kodėl Babilonas sunaikino Judo karalystę m. 586 m. pr. Kr. ir sudaryti pagrindą sugrįžti iš Babilono tremties. Dvi Karalių knygos pristato senovės Izraelio ir Judo istoriją nuo karaliaus Dovydo mirties iki Jehojachino paleidimo iš įkalinimo Babilone – maždaug 400 metų laikotarpį (apie 960 m. – apie 560 m. pr. m. e.). Mokslininkai linkę traktuoti knygas kaip sudarytas iš pirmojo leidimo iš VII amžiaus pabaigos prieš Kristų ir iš antrojo ir galutinio leidimo iš VI amžiaus vidurio prieš Kristų. 

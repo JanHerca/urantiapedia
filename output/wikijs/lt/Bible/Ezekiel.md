@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezekielio knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Ezechielio knyga yra trečioji iš paskutiniųjų pranašų Tanache ir viena iš pagrindinių pranašiškų knygų po Izaijo ir Jeremijo. Kaip teigiama pačioje knygoje, joje užfiksuoti šeši pranašo Ezekielio, ištremto į Babiloną, regėjimai per 22 metus nuo 593 iki 571 m. pr. Kr., nors tai yra ilgos ir sudėtingos istorijos vaisius ir nebūtinai išsaugo pačius Babilono žodžius. pranašas.
 
 Vizijos ir knyga yra suskirstyti į tris temas: (1) Nuosprendis dėl Izraelio (1–24 skyriai); (2) Nuosprendis dėl tautų (25–32 skyriai); ir (3) būsimi palaiminimai Izraeliui (33–48 skyriai). Jo temos apima Dievo buvimo, tyrumo, Izraelio kaip dieviškos bendruomenės ir individualios atsakomybės prieš Dievą sampratas. Vėlesnė jo įtaka apėmė mistinių ir apokaliptinių tradicijų vystymąsi Antrojoje šventykloje ir rabinišką judaizmą bei krikščionybę. 

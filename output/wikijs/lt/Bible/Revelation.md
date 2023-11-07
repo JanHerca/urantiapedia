@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apreiškimas Jonui</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Apreiškimo knyga yra paskutinė Naujojo Testamento knyga (taigi ir paskutinė krikščionių Biblijos knyga). Jo pavadinimas kilęs iš pirmojo koine graikiško teksto žodžio: apokalypsis, reiškiančio „atskleidimas“ arba „apreiškimas“. Apreiškimo knyga yra vienintelė apokaliptinė Naujojo Testamento knyga. Ji užima pagrindinę vietą krikščioniškoje eschatologijoje.
 
 Autorius tekste save vadina „Jonu“, tačiau tiksli jo tapatybė tebėra akademinių diskusijų taškas. Antrojo amžiaus krikščionys rašytojai, tokie kaip Papijas iš Hierapolio, Justinas Kankinys, Irenėjus, Melitas iš Sardis, Klemensas Aleksandrietis ir Muratoriaus fragmento autorius Joną apaštalą laiko Apreiškimo „Jonu“. Šiuolaikinė mokslas paprastai laikosi kitokio požiūrio, nes daugelis mano, kad apie autorių nieko negalima žinoti, išskyrus tai, kad jis buvo krikščionių pranašas. Šiuolaikiniai teologijos mokslininkai Apreiškimo knygos autorių apibūdina kaip „Joną iš Patmo“. Didžioji dalis tradicinių šaltinių datuoja knygą Romos imperatoriaus Domiciano valdymo laikais (81–96 m. po Kr.), o tai patvirtina įrodymai.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jozuės knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Jozuės knyga (hebr. ספר יהושע Sefer Yehoshua) yra šeštoji knyga hebrajų Biblijoje ir krikščionių Senajame Testamente ir yra pirmoji Deuteronomistinės istorijos knyga – Izraelio istorija nuo Kanaano užkariavimo iki Babilono tremties. Jame pasakojama apie izraelitų žygius centriniame, pietiniame ir šiauriniame Kanaane, jų priešų sunaikinimą ir žemės padalijimą tarp dvylikos genčių, įrėmintas dviem įtemptomis kalbomis, kurių pirmoji liepė užkariauti Kanaane. žemė, o pabaigoje – Jozuė perspėjo apie būtinybę ištikimai laikytis Mozei apreikšto Įstatymo (toros).
 
 Beveik visi mokslininkai sutinka, kad Jozuės knyga turi mažai istorinės vertės ankstyvajam Izraeliui ir greičiausiai atspindi daug vėlesnį laikotarpį. Ankstyviausios knygos dalys galbūt yra 2–11 skyriai, užkariavimo istorija; šie skyriai vėliau buvo įtraukti į ankstyvą Jozuės formą, greičiausiai parašytą karaliaus Josijo valdymo pabaigoje (valdė 640–609 m. pr. Kr.), tačiau knyga buvo baigta tik po Jeruzalės griuvimo NeoBabilono imperijai 586 m. ir galbūt tik po grįžimo iš Babilono tremties 539 m. pr. m. e. 

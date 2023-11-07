@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelija pagal Morkų</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Morkaus evangelija yra antroji iš keturių kanoninių ir trijų sinoptinių evangelijų. Jame pasakojama apie Jėzaus tarnystę nuo jo krikšto per Joną Krikštytoją iki mirties, palaidojimo ir tuščio kapo atradimo. Nėra nei stebuklingo gimimo, nei doktrinos apie dieviškąjį egzistenciją, nei pirminėje pabaigoje (Morkaus 16:1–8), Jėzaus pasirodymo po prisikėlimo. Joje Jėzus vaizduojamas kaip mokytojas, egzorcistas, gydytojas ir stebuklų darytojas. Jis save vadina Žmogaus Sūnumi. Jis vadinamas Dievo Sūnumi, bet savo mesijinę prigimtį laiko paslaptyje; net jo mokiniai nesugeba jo suprasti. Visa tai atitinka krikščioniškąjį pranašystės aiškinimą, kuris, kaip manoma, išpranašauja mesijo, kaip kenčiančio tarno, likimą. Evangelija, originalioje versijoje, baigiasi tuščio kapo atradimu,
 
 Dauguma mokslininkų Marką datuoja c. 66–74 m., prieš pat arba po Antrosios šventyklos sunaikinimo 70 m. Jie atmeta tradicinį priskyrimą evangelistui Morkui, apaštalo Petro bendražygiui, kuris tikriausiai kilo iš pirmųjų krikščionių noro susieti kūrinį su autoritetinga asmenybe, ir mano, kad tai yra autoriaus, dirbančio su įvairiais šaltiniais, įskaitant stebuklingų istorijų, ginčų istorijų, palyginimų ir aistros pasakojimo rinkiniai. Krikščionių kanone ji tradiciškai buvo uždėta antroje, o kartais ir ketvirtoje vietoje, kaip prastesnė to, kas buvo laikoma svarbiausia Evangelija Mato, santrumpa; Todėl Bažnyčia savo požiūrį į Jėzų pirmiausia kildina iš Mato, antra – iš Jono ir tik toli nuo Morkaus.

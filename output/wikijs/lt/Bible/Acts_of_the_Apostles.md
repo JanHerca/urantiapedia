@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apaštalų darbai</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Apaštalų darbai (Koinē gr. Πράξεις Ἀποστόλων, Práxeis Apostólōn; lot. Actūs Apostolōrum) – penktoji Naujojo Testamento knyga; jame pasakojama apie krikščionių bažnyčios įkūrimą ir jos žinios sklaidą Romos imperijai. Jame aprašoma Kristaus apaštalų tarnystė ir veikla Jeruzalėje ir kituose regionuose po Kristaus mirties, prisikėlimo ir žengimo į dangų.
 
 Apaštalų darbai ir Luko evangelija sudaro dviejų dalių kūrinį Lukas – Apaštalų darbai, to paties anoniminio autoriaus. Paprastai jis datuojamas maždaug 80–90 mūsų eros metais, nors kai kurie mokslininkai siūlo 90–110 m. Pirmoje dalyje – Luko evangelijoje – pasakojama, kaip Dievas įvykdė savo planą dėl pasaulio išganymo per Jėzaus Nazareto, pažadėtojo Mesijo, gyvenimą, mirtį ir prisikėlimą. Apaštalų darbai tęsia I amžiaus krikščionybės istoriją, pradedant Jėzaus įžengimu į dangų. Ankstyvieji skyriai, skirti Jeruzalėje, aprašo Sekminių dieną (Šventosios Dvasios atėjimą) ir Jeruzalės bažnyčios augimą. Iš pradžių žydai yra imlūs krikščioniškajai žiniai, bet vėliau atsisuka prieš Jėzaus pasekėjus. Žydų atmesta žinia perduodama pagonims, vadovaujant apaštalui Pauliui. Vėlesniuose skyriuose pasakojama apie Pauliaus atsivertimą, jo misiją Mažojoje Azijoje ir Egėjo jūroje ir galiausiai įkalinimą Romoje, kur, knygai pasibaigus, jo laukia teismas.

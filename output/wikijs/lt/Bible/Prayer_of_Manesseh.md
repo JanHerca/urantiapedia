@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRIFAI</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Manaso malda</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Manaso malda, dar žinoma kaip Manaso malda, yra trumpas 15 eilučių kūrinys, kuriame įrašyta atgailos malda, priskiriama Judo karaliui Manasui. Dauguma mokslininkų mano, kad Manaso malda buvo parašyta graikų kalba (tuo tarpu mažuma pasisako už semitinį originalą) antrajame ar pirmajame amžiuje prieš Kristų. Pripažįstama, kad jis taip pat galėjo būti parašytas I mūsų eros amžiaus pirmoje pusėje, bet bet kuriuo atveju prieš Antrosios šventyklos sunaikinimą 70 m. Kitas kūrinys tuo pačiu pavadinimu, parašytas hebrajų kalba, buvo rastas tarp Negyvosios jūros ritinių (4Q381:17).
 
 Biblijoje Manasas įrašytas kaip vienas stabmeldiškiausių Judo karalių (2 Karalių 21:1–18; 2 Kronikų 33:1–9). Antrojoje kronikų knygoje, bet ne antrojoje Karalių knygoje, rašoma, kad Manasą paėmė į nelaisvę asirai (2 Kronikų 33:11–13). Būdamas kalinys, Manasas meldė pasigailėjimo, o išlaisvintas ir sugrąžintas į sostą pasuko nuo stabmeldiškų kelių (2 Kronikų 33:15–17). Nuoroda į maldą, bet ne pati malda, yra 2 Kronikų 33:19, kur sakoma, kad malda parašyta „Izraelio karalių metraščiuose“.

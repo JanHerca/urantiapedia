@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Evangelija pagal Matą</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Mato evangelija yra pirmoji Biblijos Naujojo Testamento knyga ir viena iš trijų sinoptinių evangelijų. Jame pasakojama, kaip Izraelio Mesijas Jėzus ateina pas savo žmones ir sudaro mokinių bendruomenę, kaip jis mokė žmones per tokius įvykius kaip Kalno pamokslas ir jo palaiminimai, kaip Izraelis susiskaldo ir kaip Jėzus pasmerkia šį priešišką Izraelį. . Tai baigiasi jo pasitraukimu iš šventyklos ir mirties bausme. Šiuo metu daugelis žmonių atmeta Jėzų, o jo prisikėlimo metu jis siunčia mokinius pas pagonis.
 
 Matas, regis, pabrėžia, kad žydų tradicijos neturėtų būti prarastos bažnyčioje, kuri vis labiau ėmė tapti pagoniška. Evangelija atspindi kovą ir konfliktus tarp evangelisto bendruomenės ir kitų žydų, ypač su aštria Rašto žinovų ir fariziejų kritika, teigiančia, kad dėl jų atmetimo Kristui Dievo Karalystė buvo atimta ir atiduota Bažnyčia. Dieviškoji Jėzaus prigimtis buvo pagrindinė matiečių bendruomenės problema – esminis elementas, skiriantis pirmuosius krikščionis nuo jų kaimynų žydų; Morkus pradeda nuo Jėzaus krikšto ir pagundų, o Matas grįžta prie Jėzaus ištakų, parodydamas jį kaip Dievo Sūnų nuo pat gimimo, Senojo Testamento mesijinių pranašysčių išsipildymo. Titulas Dovydo sūnus identifikuoja Jėzų kaip gydantį ir stebuklus darantį Izraelio Mesiją (jis vartojamas tik kalbant apie stebuklus), atsiųstas tik Izraeliui. Būdamas Žmogaus Sūnus, jis grįš teisti pasaulio – lūkesčius, kuriuos jo mokiniai pripažįsta, bet jo priešai nežino. Kaip Dievo Sūnus, Dievas apsireiškia per savo sūnų, o Jėzus įrodo savo sūnystę savo klusnumu ir pavyzdžiu.

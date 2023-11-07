@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jeremijo knyga</text>
+	</g>
+</svg>
+</div>
+
+## Apibūdinimas
+
+
 Jeremijo knyga (hebrajų kalba: ספר יִרְמְיָהוּ) yra antroji iš paskutiniųjų pranašų hebrajų Biblijoje ir antroji iš pranašų krikščionių Senajame Testamente. Antraštė Jeremijo 1:1–3 skyriuje nurodo, kad knyga yra „Hilkijo sūnaus Jeremijo žodžiai“. Iš visų pranašų Jeremijas aiškiausiai kalba kaip asmuo, savo raštininkui Baruchui pasakodamas apie jo, kaip Dievo tarno, vaidmenį, o jo klausytojams yra mažai gerų naujienų.
 
 Jo knyga skirta kaip žinutė Babilono tremtyje gyvenantiems žydams, aiškinanti tremties nelaimę kaip Dievo atsaką į Izraelio pagonišką garbinimą: žmonės, sako Jeremijas, yra kaip neištikima žmona ir maištingi vaikai, dėl jų neištikimybės ir maištingumo teismas tapo neišvengiamu. , nors numatomas atkūrimas ir nauja sandora. Autentiškų Jeremijo orakulų tikriausiai galima rasti 1–25 skyrių poetinėse dalyse, tačiau visa knyga buvo smarkiai redaguota ir papildyta pranašo pasekėjų (įskaitant galbūt jo palydovą raštininką Baruchą) ir vėlesnės kartos. Deuteronomistai.
