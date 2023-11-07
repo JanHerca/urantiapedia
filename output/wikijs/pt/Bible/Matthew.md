@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Mateus</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Evangelho de Mateus é o primeiro livro do Novo Testamento da Bíblia e um dos três Evangelhos sinóticos. Ele conta como o Messias de Israel, Jesus, vem ao seu povo e forma uma comunidade de discípulos, de como ele ensinou o povo através de eventos como o Sermão da Montanha e suas bem-aventuranças, e como Israel se divide e como Jesus condena esse Israel hostil . Isso culmina com sua saída do Templo e sua execução. Neste ponto, muitas pessoas rejeitam Jesus e, em sua ressurreição, ele envia os discípulos aos gentios.
 
 Mateus parece enfatizar que a tradição judaica não deve se perder em uma igreja que estava se tornando cada vez mais gentia. O evangelho reflete as lutas e conflitos entre a comunidade do evangelista e os outros judeus, particularmente com sua forte crítica aos escribas e fariseus com a posição de que através de sua rejeição de Cristo, o Reino de Deus foi tirado deles e dado em vez de a Igreja. A natureza divina de Jesus era uma questão importante para a comunidade de Mateus, o elemento crucial que separava os primeiros cristãos de seus vizinhos judeus; enquanto Marcos começa com o batismo e as tentações de Jesus, Mateus volta às origens de Jesus, mostrando-o como Filho de Deus desde o seu nascimento, cumprimento das profecias messiânicas do Antigo Testamento. O título Filho de Davi identifica Jesus como o Messias de Israel que cura e opera milagres (é usado exclusivamente em relação a milagres), enviado somente a Israel. Como Filho do Homem, ele voltará para julgar o mundo, uma expectativa que seus discípulos reconhecem, mas que seus inimigos desconhecem. Como Filho de Deus, Deus está se revelando por meio de seu filho, e Jesus provando sua filiação por meio de sua obediência e exemplo.

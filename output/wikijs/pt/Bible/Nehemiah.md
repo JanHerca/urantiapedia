@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Neemias</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro de Neemias na Bíblia hebraica, em grande parte assume a forma de um livro de memórias em primeira pessoa sobre a reconstrução dos muros de Jerusalém após o exílio babilônico por Neemias, um judeu que é um alto oficial da corte persa, e a dedicação de a cidade e seu povo às leis de Deus (Torá). Desde o século 16, geralmente tem sido tratado como um livro separado dentro da Bíblia. Antes dessa data, havia sido incluído no Livro de Esdras; mas nas Bíblias cristãs latinas do século 13 em diante, o Livro da Vulgata de Esdras foi dividido em dois textos, chamados respectivamente de Primeiro e Segundo livros de Esdras; uma separação que se tornou canonizada com as primeiras bíblias impressas em hebraico e latim. Traduções da Bíblia Protestante Reformada de meados do século XVI produzidas em Genebra foram as primeiras a introduzir o nome 'Livro de Neemias' para o texto anteriormente chamado de 'Segundo Livro de Esdras'.
 
 ## Index

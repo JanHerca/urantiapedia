@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">II Crónicas</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro das Crônicas (hebraico: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) é um livro da Bíblia hebraica, encontrado como dois livros (1–2 Crônicas) no Antigo Testamento cristão. Crônicas é o livro final da Bíblia hebraica, concluindo a terceira seção do Tanakh judaico, os Ketuvim (“Escritos”). Ele contém uma genealogia começando com Adão e uma história da antiga Judá e Israel até o Édito de Ciro em 539 aC.
 
 O livro foi dividido em dois livros na Septuaginta e traduzido em meados do século III aC. Em contextos cristãos Crônicas é referido no plural como os Livros de Crônicas, após o nome latino Chronicon dado ao texto por Jerônimo, mas também raramente são referidos por seu nome grego como os Livros de Paralipomenon. Nas Bíblias cristãs, eles geralmente seguem os dois Livros dos Reis e precedem Esdras-Neemias, o último livro orientado para a história do Antigo Testamento protestante.

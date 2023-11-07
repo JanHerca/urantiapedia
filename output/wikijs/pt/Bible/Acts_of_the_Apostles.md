@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Atos</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 Os Atos dos Apóstolos (grego Koinē: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latim: Actūs Apostolōrum) é o quinto livro do Novo Testamento; fala da fundação da Igreja Cristã e da propagação de sua mensagem ao Império Romano. Ele dá conta do ministério e atividade dos apóstolos de Cristo em Jerusalém e outras regiões, após a morte, ressurreição e ascensão de Cristo.
 
 Atos e o Evangelho de Lucas compõem uma obra em duas partes, Lucas–Atos, do mesmo autor anônimo. Geralmente é datado por volta de 80–90 dC, embora alguns estudiosos sugiram 90–110. A primeira parte, o Evangelho de Lucas, conta como Deus cumpriu seu plano para a salvação do mundo através da vida, morte e ressurreição de Jesus de Nazaré, o messias prometido. Atos continua a história do cristianismo no primeiro século, começando com a ascensão de Jesus ao céu. Os primeiros capítulos, ambientados em Jerusalém, descrevem o Dia de Pentecostes (a vinda do Espírito Santo) e o crescimento da igreja em Jerusalém. Inicialmente, os judeus são receptivos à mensagem cristã, mas depois se voltam contra os seguidores de Jesus. Rejeitada pelos judeus, a mensagem é levada aos gentios sob a orientação do apóstolo Paulo. Os capítulos posteriores falam da conversão de Paulo, sua missão na Ásia Menor e no Egeu e, finalmente, sua prisão em Roma, onde, no final do livro, ele aguarda julgamento.

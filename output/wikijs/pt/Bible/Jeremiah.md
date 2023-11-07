@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jeremias</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro de Jeremias (hebraico: ספר יִרְמְיָהוּ) é o segundo dos Últimos Profetas da Bíblia Hebraica, e o segundo dos Profetas do Antigo Testamento Cristão. O cabeçalho no capítulo Jeremias 1:1–3 identifica o livro como “as palavras de Jeremias, filho de Hilquias”. De todos os profetas, Jeremias aparece mais claramente como pessoa, ruminando para seu escriba Baruque sobre seu papel como servo de Deus com poucas boas notícias para sua audiência.
 
 Seu livro pretende ser uma mensagem para os judeus exilados na Babilônia, explicando o desastre do exílio como a resposta de Deus ao culto pagão de Israel: o povo, diz Jeremias, é como uma esposa infiel e filhos rebeldes, sua infidelidade e rebeldia tornaram o julgamento inevitável. , embora a restauração e uma nova aliança sejam prefiguradas. Oráculos autênticos de Jeremias provavelmente podem ser encontrados nas seções poéticas dos capítulos 1-25, mas o livro como um todo foi fortemente editado e acrescentado pelos seguidores do profeta (incluindo talvez seu companheiro, o escriba Baruc) e gerações posteriores de Deuteronomistas.

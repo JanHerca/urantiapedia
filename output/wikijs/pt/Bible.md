@@ -16,18 +16,18 @@ Todo livro bíblico tem uma página web dedicada a ele, e há uma página para c
 
 A Bíblia não contém os mesmos livros para diferentes religiões. Uma vez que _O Livro de Urântia_ não menospreza nenhum texto religioso, e menciona livros considerados apócrifos, como _O Livro de Enoque_, Urântiapedia tentará se esforçar para incluir sem exceção todos os livros bíblicos e extra-bíblicos sempre que tiverem alguma utilidade na compreensão _O Livro de Urântia Livro de Urântia_.
 
-A Bíblia está sendo adicionada à Urantiapedia para que todas as citações específicas e quaisquer outros textos paralelos do _The Urantia Book_ sejam referências cruzadas entre os dois textos. Esta lista de referências cruzadas foi baseada no maravilhoso trabalho de um leitor, Duane L. Faw, que compilou as referências em uma publicação chamada ([Paramony](https://urantia-book.org/urantiabook/paramony/)).
+A Bíblia está sendo adicionada à Urantiapedia para que todas as citações específicas e quaisquer outros textos paralelos do _The Urantia Book_ sejam referências cruzadas entre os dois textos. Esta lista de referências cruzadas foi baseada no maravilhoso trabalho de um leitor, Duane L. Faw, que compilou as referências em uma publicação chamada [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
 Esta e outras informações sobre como a Bíblia está organizada no projeto podem ser encontradas em [Ajuda da Urantiapedia](/pt/help/content).
 
 ## Lista de livros da Bíblia
 
-Aqui está uma lista provisória de livros bíblicos e extra-bíblicos a serem incluídos:
+Aqui está a lista de livros bíblicos e extra-bíblicos incluídos por enquanto:
 
 - [A Bíblia - Índice](/pt/index/bible)
 
 
-### Antigo Testamento
+## Antigo Testamento
 
 
 - [Génesis](/pt/Bible/Genesis)
@@ -74,7 +74,7 @@ Aqui está uma lista provisória de livros bíblicos e extra-bíblicos a serem i
 - [Ageu](/pt/Bible/Haggai)
 - [Zacarias](/pt/Bible/Zechariah)
 
-### Novo Testamento
+## Novo Testamento
 
 - [Mateus](/pt/Bible/Matthew)
 - [Marcos](/pt/Bible/Mark)
@@ -104,7 +104,7 @@ Aqui está uma lista provisória de livros bíblicos e extra-bíblicos a serem i
 - [Judas](/pt/Bible/Jude)
 - [Apocalipse](/pt/Bible/Revelation)
 
-### Textos não canônicos
+## Textos não canônicos
 
 - [Bel e o Dragão](/pt/Bible/Bel_and_the_Dragon)
 - [Prece de Manassés](/pt/Bible/Prayer_of_Manesseh)

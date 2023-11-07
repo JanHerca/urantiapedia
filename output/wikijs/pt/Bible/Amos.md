@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Amós</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro de Amós é o terceiro dos Doze Profetas Menores no Antigo Testamento (Tanakh) e o segundo na tradição da Septuaginta grega. Amós, um contemporâneo mais velho de Oséias e Isaías, foi ativo c. 750 aC durante o reinado de Jeroboão II (788–747 aC) de Samaria (também conhecido como norte de Israel), tornando Amós o primeiro livro profético da Bíblia a ser escrito. Amós viveu no reino de Judá, mas pregou no reino do norte de Israel. Seus principais temas de justiça social, onipotência de Deus e julgamento divino tornaram-se elementos básicos da profecia. 
 
 ## Index

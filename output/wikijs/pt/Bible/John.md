@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">João</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Evangelho de João (grego antigo: Εὐαγγέλιον κατὰ Ἰωάννην, romanizado: Euangélion katà Iōánnēn) é o quarto dos quatro evangelhos canônicos. Ele contém um relato altamente esquemático do ministério de Jesus, com sete “sinais” culminando na ressurreição de Lázaro (prenunciando a ressurreição de Jesus) e sete discursos “eu sou” (preocupados com questões do debate igreja-sinagoga na época). de composição) culminando na proclamação de Jesus ressuscitado por Tomé como “meu Senhor e meu Deus”. Os versículos finais do evangelho estabelecem seu propósito: “para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome”.
 
 João atingiu sua forma final por volta de 90-110 d.C., embora contenha sinais de origens que remontam a 70 d.C. e possivelmente até antes. Como os outros três evangelhos, é anônimo, embora identifique um “discípulo a quem Jesus amava” sem nome como a fonte de suas tradições. Provavelmente surgiu dentro de uma “comunidade joanina” e – como está intimamente relacionado em estilo e conteúdo às três epístolas joaninas – a maioria dos estudiosos trata os quatro livros, juntamente com o Livro do Apocalipse, como um único corpus de literatura joanina, embora não do mesmo autor. 

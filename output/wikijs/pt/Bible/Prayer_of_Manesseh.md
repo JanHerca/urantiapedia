@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APÓCRIFO</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Prece de Manassés</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 A Oração de Manassés, também conhecida como Oração de Manassés, é uma pequena obra de 15 versículos que registra uma oração penitencial atribuída ao rei Manassés de Judá. A maioria dos estudiosos acredita que a Oração de Manassés foi escrita em grego (enquanto uma minoria defende um original semítico) no segundo ou primeiro século aC. Reconhece-se que também poderia ter sido escrito na primeira metade do século I dC, mas em qualquer caso antes da Destruição do Segundo Templo em 70 dC. Outra obra com o mesmo título, escrita em hebraico, foi encontrada entre os Manuscritos do Mar Morto (4Q381:17).
 
 Manassés é registrado na Bíblia como um dos reis mais idólatras de Judá (2 Reis 21:1–18; 2 Crônicas 33:1–9). O segundo Livro das Crônicas, mas não o segundo Livro dos Reis, registra que Manassés foi levado cativo pelos assírios (2 Crônicas 33:11-13). Enquanto prisioneiro, Manassés orou por misericórdia e, ao ser libertado e restaurado ao trono, abandonou seus caminhos idólatras (2 Crônicas 33:15-17). Uma referência à oração, mas não à oração em si, é feita em 2 Crônicas 33:19, que diz que a oração está escrita “nos anais dos reis de Israel”.

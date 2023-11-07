@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Levítico</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O livro de Levítico (/lɪˈvɪtɪkəs/, do grego antigo: Λευιτικόν, Leuïtikón; hebraico: וַיִּקְרָא, Vayyīqrāʾ, "E Ele chamou") é o terceiro livro da Torá (o Pentateuco) e do Antigo Testamento, também conhecido como o Terceiro Livro de Moisés. Os estudiosos geralmente concordam que se desenvolveu durante um longo período de tempo, atingindo sua forma atual durante o período persa, de 538 a 332 aC.
 
 A maioria de seus capítulos (1–7, 11–27) consiste nos discursos de Yahweh a Moisés, que Yahweh diz a Moisés para repetir aos israelitas. Isso acontece dentro da história do Êxodo dos israelitas depois que eles escaparam do Egito e chegaram ao Monte Sinai ([Êxodo 19:1](/pt/Bible/Exodus/19#v1)). O Livro do Êxodo narra como Moisés liderou os israelitas na construção do Tabernáculo (Êxodo 35–40) com as instruções de Deus ([Êxodo 25–31](/pt/Bible/Exodus/25)). Em Levítico, Deus diz aos israelitas e seus sacerdotes, os levitas, como fazer oferendas no Tabernáculo e como se comportar enquanto acampados ao redor do santuário da tenda sagrada. Levítico ocorre durante o mês ou mês e meio entre a conclusão do Tabernáculo ([Êxodo 40:17](/pt/Bible/Exodus/40#v17)) e a partida dos israelitas do Sinai (Números [1:1](/pt/Bible/Numbers/1#v1), [10:11](/pt/Bible/Numbers/10#v11)).

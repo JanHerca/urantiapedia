@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apocalipse</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro do Apocalipse é o livro final do Novo Testamento (e, consequentemente, o livro final da Bíblia cristã). Seu título é derivado da primeira palavra do texto grego koiné: apokalypsis, que significa “revelação” ou “revelação”. O Livro do Apocalipse é o único livro apocalíptico no cânon do Novo Testamento. Ocupa um lugar central na escatologia cristã.
 
 O autor se autodenomina “João” no texto, mas sua identidade precisa continua sendo um ponto de debate acadêmico. Escritores cristãos do século II, como Papias de Hierápolis, Justino Mártir, Irineu, Melito de Sardes, Clemente de Alexandria e o autor do fragmento Muratoriano identificam João, o Apóstolo, como o “João” do Apocalipse. Os estudos modernos geralmente adotam uma visão diferente, com muitos considerando que nada pode ser conhecido sobre o autor, exceto que ele era um profeta cristão. Estudiosos teológicos modernos caracterizam o autor do Livro do Apocalipse como “João de Patmos”. A maior parte das fontes tradicionais data o livro do reinado do imperador romano Domiciano (81-96 dC), o que as evidências tendem a confirmar.

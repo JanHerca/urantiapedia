@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Juízes</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro dos Juízes (ספר שופטים, Sefer Shoftim) é o sétimo livro da Bíblia hebraica e do Antigo Testamento cristão. Na narrativa da Bíblia hebraica, abrange o tempo entre a conquista descrita no Livro de Josué e o estabelecimento de um reino nos Livros de Samuel, durante o qual os juízes bíblicos serviram como líderes temporários. As histórias seguem um padrão consistente: o povo é infiel a Yahweh; ele, portanto, os entrega nas mãos de seus inimigos; o povo se arrepende e suplica a Yahweh por misericórdia, que ele envia na forma de um líder ou campeão (um "juiz"; veja shophet); o juiz livra os israelitas da opressão e eles prosperam, mas logo caem novamente na infidelidade e o ciclo se repete. Os estudiosos consideram muitas das histórias em Juízes as mais antigas da história deuteronomista, com sua redação principal datada do século VIII aC e com materiais como o Cântico de Débora datado de muito antes.
 
 ## Index

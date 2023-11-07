@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APÓCRIFO</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Primeiro Livro</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">de Enoque</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro de Enoque (também 1 Enoque;[nota 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) é um antigo texto religioso apocalíptico hebraico, atribuído pela tradição a Enoque, o bisavô de Noé. Enoque contém material único sobre as origens de demônios e Nephilim, por que alguns anjos caíram do céu, uma explicação de por que o dilúvio de Gênesis era moralmente necessário e uma exposição profética do reinado de mil anos do Messias.
 
 Estima-se que as seções mais antigas (principalmente no Livro dos Vigilantes) do texto datam de cerca de 300-200 aC, e a parte mais recente (Livro de Parábolas) provavelmente data de 100 aC.

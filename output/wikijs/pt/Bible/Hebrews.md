@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">A BÍBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hebreus</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 A Epístola aos Hebreus (grego antigo: Πρὸς Ἑβραίους, romanizado: Pros Hebraious, lit. 'aos hebreus') é um dos livros do Novo Testamento.
 
 O texto não menciona o nome de seu autor, mas foi tradicionalmente atribuído ao apóstolo Paulo. A maioria dos manuscritos gregos antigos, o Peshitto siríaco antigo e alguns dos manuscritos latinos antigos têm a epístola aos hebreus entre as cartas de Paulo. No entanto, a dúvida sobre a autoria paulina na Igreja Romana é relatada por Eusébio. A erudição bíblica moderna considera sua autoria desconhecida, escrita em deliberada imitação do estilo de Paulo, com alguns argumentando que foi de autoria de Priscila e Áquila.

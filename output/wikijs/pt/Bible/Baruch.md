@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APÓCRIFO</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Portuguese Joao F. de Almeida Atualizada, 1877</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Baruc</text>
+	</g>
+</svg>
+</div>
+
+## Descrição
+
+
 O Livro de Baruch é um livro deuterocanônico da Bíblia, usado na maioria das tradições cristãs, como as igrejas católica e ortodoxa. No judaísmo e no cristianismo protestante, é considerado não fazer parte do cânon, com as Bíblias protestantes categorizando-o como parte dos apócrifos bíblicos. O livro tem o nome de Baruch ben Neriah, o conhecido escriba de Jeremias, mencionado em Baruch 1:1, e que se presume ser o autor de toda a obra. O livro é uma reflexão de um falecido escritor judeu sobre as circunstâncias dos exilados judeus da Babilônia, com meditações sobre a teologia e a história de Israel, discussões sobre sabedoria e um discurso direto aos moradores de Jerusalém e da diáspora. Alguns estudiosos propõem que foi escrito durante ou logo após o período dos Macabeus.
 
 O Livro de Baruch às vezes é referido como 1 Baruch para distingui-lo de 2 Baruch, 3 Baruch e 4 Baruch.
