@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Machabejska</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 2 Machabejska, znana również jako Druga Księga Machabejska, Druga Księga Machabejska, w skrócie 2 Machabejska, jest księgą deuterokanoniczną, która opowiada o prześladowaniach Żydów za króla Antiocha IV Epifanesa i powstaniu Machabeuszy przeciwko niemu. Kończy się klęską generała Nikanora z Imperium Seleucydów w 161 rpne przez Judasza Machabeusza, przywódcę Machabeuszy.
 
 2 Maccabees został pierwotnie napisany po grecku koine przez nieznanego Żyda z diaspory żyjącego w hellenistycznym Egipcie. Został napisany prawdopodobnie między 150 a 120 rokiem p.n.e. Wraz z książką 1 Machabeusze jest to jedno z najważniejszych źródeł o powstaniu Maccabean. Dzieło nie jest kontynuacją 1 Machabeuszy, ale raczej własną, niezależną interpretacją historycznych wydarzeń Rewolty Machabeuszy. Zarówno zaczyna, jak i kończy swoją historię wcześniej niż 1 Machabeuszy, zaczynając od incydentu z oficjalnym Seleucydami Heliodorusem próbującym opodatkować Drugą Świątynię w 178 rpne, a kończąc na bitwie pod Adasa w 161 rpne. Niektórzy uczeni uważają, że księga ta jest pod wpływem tradycji faryzejskiej, z sekcjami, które zawierają aprobatę modlitwy za zmarłych i zmartwychwstania umarłych.

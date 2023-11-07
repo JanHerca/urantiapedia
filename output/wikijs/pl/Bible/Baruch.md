@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRYFY</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Barucha</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Barucha jest deuterokanoniczną księgą Biblii, używaną w większości tradycji chrześcijańskich, takich jak kościoły katolickie i prawosławne. W judaizmie i protestanckim chrześcijaństwie uważa się, że nie jest częścią kanonu, a Biblie protestanckie klasyfikują go jako część biblijnych apokryfów. Księga nosi imię Barucha ben Neriasza, znanego skryby Jeremiasza, wspomnianego w Baruch 1:1 i przypuszczalnie jest autorem całego dzieła. Książka jest refleksją nieżyjącego już pisarza żydowskiego na temat sytuacji żydowskich wygnańców z Babilonu, z rozważaniami na temat teologii i historii Izraela, dyskusjami o mądrości oraz bezpośrednim przemówieniem do mieszkańców Jerozolimy i diaspory. Niektórzy uczeni twierdzą, że został napisany w okresie Machabeuszy lub wkrótce po nim.
 
 Księga Barucha jest czasami określana jako 1 Baruch, aby odróżnić ją od 2 Baruch, 3 Baruch i 4 Baruch.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Kronik</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Kronik (hebr. דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) to księga w Biblii hebrajskiej, występująca jako dwie księgi (1-2 Kroniki) w chrześcijańskim Starym Testamencie. Kroniki to ostatnia księga Biblii hebrajskiej, zamykająca trzecią część żydowskiego Tanachu, Ketuvim („Pisma”). Zawiera genealogię począwszy od Adama i historię starożytnej Judy i Izraela aż do Edyktu Cyrusa z 539 pne.
 
 Księga została podzielona na dwie księgi w Septuagincie i przetłumaczona w połowie III wieku p.n.e. W kontekście chrześcijańskim Kroniki są określane w liczbie mnogiej jako Księgi Kronik, po łacińskiej nazwie chronicon nadanej tekstowi przez Hieronima, ale rzadko są również określane ich grecką nazwą jako Księgi Paralipomenon. W chrześcijańskich Bibliach zwykle następują po dwóch księgach królów i poprzedzają Ezdrasz-Nehemiasza, ostatnią księgę protestanckiego Starego Testamentu zorientowaną na historię.

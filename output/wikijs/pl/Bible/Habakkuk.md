@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Habakuka</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Habakuka jest ósmą księgą z 12 mniejszych proroków Biblii. Przypisywany jest prorokowi Habakukowi i prawdopodobnie został skomponowany pod koniec VII wieku p.n.e.
 
 Z trzech rozdziałów księgi pierwsze dwa to dialog między Jahwe a prorokiem. W myśli chrześcijańskiej ważną rolę odgrywa przesłanie, że „sprawiedliwy będzie żył swoją wiarą”. Jest używany w Liście do Rzymian, Liście do Galatów i Liście do Hebrajczyków jako punkt wyjścia koncepcji wiary. Kopia tych rozdziałów znajduje się w Komentarzu Habakuka, który znajduje się wśród Zwojów znad Morza Martwego. Rozdział 3 może być samodzielnym dodatkiem, obecnie uznawanym za dzieło liturgiczne, ale prawdopodobnie został napisany przez tego samego autora co rozdziały 1 i 2. 

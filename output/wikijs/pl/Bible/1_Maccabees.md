@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Machabejska</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Pierwsza Księga Machabejska, znana również jako Pierwsza Machabejska (zapisana skrótowo jako 1 Machabeusz lub 1 Machabeusz), to księga napisana w języku hebrajskim przez anonimowego autora żydowskiego po przywróceniu niezależnego królestwa żydowskiego przez dynastię Hasmoneuszów wokół koniec II wieku p.n.e. Oryginalny hebrajski zaginął, a najważniejszą zachowaną wersją jest greckie tłumaczenie zawarte w Septuagincie. Książka jest uważana za pismo kanoniczne przez katolickie, prawosławne i wschodnie kościoły prawosławne (z wyjątkiem prawosławnego Tewahedo), ale nie przez wyznania protestanckie ani żadne główne gałęzie judaizmu; nie jest częścią Biblii hebrajskiej. Niektórzy protestanci uważają ją za księgę apokryficzną (zob. także księgi deuterokanoniczne).
 
 1 Machabeusze są najbardziej znane z relacji o wczesnym zwycięstwie w powstaniu Machabeuszy przeciwko imperium Seleucydów: odzyskaniu Jerozolimy w roku 164 p.n.e. i ponownym poświęceniu Drugiej Świątyni – narracji kryjącej się za żydowskim świętem Chanuka. 

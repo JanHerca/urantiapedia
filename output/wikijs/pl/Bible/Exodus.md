@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Wyjścia</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Wyjścia (od starogreckiego: Ἔξοδος, łac. Exodos; hebrajski: שְׁמוֹת Šəmōṯ, „Imiona”) jest drugą księgą Biblii. Opowiada historię wyjścia, w którym Izraelici opuszczają niewolę w biblijnym Egipcie siłą Jahwe, który wybrał ich na swój lud. Izraelici udają się następnie z prorokiem Mojżeszem na górę Synaj, gdzie Jahwe daje 10 przykazań i zawierają przymierze z Jahwe, który obiecuje uczynić z nich „święty naród i królestwo kapłanów” pod warunkiem ich wierności. Daje im ich prawa i instrukcje, aby zbudować Przybytek, środki, dzięki którym przyjdzie z nieba, zamieszka z nimi i poprowadzi ich w świętej wojnie o posiadanie ziemi Kanaan („Ziemi Obiecanej”), która wcześniej: zgodnie z historią Księgi Rodzaju obiecano potomstwu Abrahama.
 
 Tradycyjnie przypisywany samemu Mojżeszowi, współcześni uczeni postrzegają jego pierwotny skład jako wytwór niewoli babilońskiej (VI wiek p.n.e.), oparty na wcześniejszych źródłach pisanych i przekazach ustnych, z ostatecznymi zmianami w perskim okresie po-wygnańczym (V wiek p.n.e.). Carol Meyers w swoim komentarzu do Exodusu sugeruje, że jest to prawdopodobnie najważniejsza księga w Biblii, ponieważ przedstawia definiujące cechy tożsamości Izraela – wspomnienia o przeszłości naznaczonej trudami i ucieczką, wiążące przymierze z Bogiem, który wybiera Izrael i ustanowienie życia wspólnoty oraz wytyczne dla jej podtrzymywania. Konsensus wśród współczesnych uczonych jest taki, że historię z Księgi Wyjścia najlepiej rozumieć jako mit. 

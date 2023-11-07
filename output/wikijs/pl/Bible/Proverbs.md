@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Przysłów</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Przysłów (hebr. מִשְלֵי, Mīšlē, „Przysłowia (Salomona)”) jest księgą w trzeciej części (zwanej Ketuvim) Biblii Hebrajskiej i księgą chrześcijańskiego Starego Testamentu. W tłumaczeniu na grekę i łacinę tytuł przybierał różne formy: w greckiej Septuagincie (LXX) stał się Παροιμίαι (Paroimiai, „Przysłowia”); w łacińskiej Wulgacie tytuł brzmiał Proverbia, od którego pochodzi angielska nazwa.
 
 Księga Przysłów to nie tylko antologia, ale „zbiór zbiorów” odnoszący się do modelu życia, który trwał ponad tysiąc lat. Jest przykładem literatury mądrości biblijnej i podnosi pytania o wartości, postępowanie moralne, sens ludzkiego życia i właściwe postępowanie, a jego teologicznym fundamentem jest to, że „bojaźń Boża (oznaczająca poddanie się woli Bożej) jest początek mądrości”. Mądrość jest chwalona za jej rolę w stworzeniu; Bóg pozyskał ją przede wszystkim i przez nią zaprowadził chaos; a ponieważ ludzie mają życie i dobrobyt dzięki dostosowaniu się do porządku stworzenia, poszukiwanie mądrości jest istotą i celem życia.

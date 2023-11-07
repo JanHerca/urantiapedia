@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Kapłańska</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Kapłańska (/lɪˈvɪtɪkəs/, z greki: Λευιτικόν, Leuïtikón; hebrajski: וַיִּקְרָא, Vayyīqrāʾ, „I wezwał”) jest trzecią księgą Tory (Pięcioksięgu) i Starego Testamentu, znaną również jako Trzecia Księga Mojżesza. Uczeni ogólnie zgadzają się, że rozwijała się ona przez długi czas, osiągając obecną formę w okresie perskim, od 538 do 332 p.n.e.
 
 Większość jej rozdziałów (1–7, 11–27) zawiera przemówienia Jahwe do Mojżesza, które Jahwe nakazuje Mojżeszowi powtórzyć Izraelitom. Ma to miejsce w historii wyjścia Izraelitów po ucieczce z Egiptu i dotarciu na górę Synaj ([Wyjścia 19:1](/pl/Bible/Exodus/19#v1)). Księga Wyjścia opowiada, jak Mojżesz prowadził Izraelitów w budowie Przybytku (Wj 35-40) z instrukcjami Boga ([Wj 25-31](/pl/Bible/Exodus/25)). W Księdze Kapłańskiej Bóg mówi Izraelitom i ich kapłanom, Lewitom, jak składać ofiary w Przybytku i jak zachowywać się podczas obozowania wokół świętej świątyni namiotowej. Księga Kapłańska ma miejsce w ciągu miesiąca lub półtora miesiąca pomiędzy ukończeniem Przybytku ([Wyjścia 40:17](/pl/Bible/Exodus/40#v17)) a odejściem Izraelitów z Synaju (Liczb [1:1](/pl/Bible/Numbers/1#v1), [10:11](/pl/Bible/Numbers/10#v11)).

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Izajasza</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Izajasza (hebr. ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) jest pierwszym z ostatnich proroków w Biblii hebrajskiej i pierwszym z głównych proroków w chrześcijańskim Starym Testamencie. W nagłówku jest identyfikowany jako słowa proroka Izajasza ben Amoza z VIII wieku p.n.e., ale istnieją liczne dowody na to, że większość z nich powstała podczas niewoli babilońskiej i później. Johann Christoph Döderlein zasugerował w 1775 r., że księga zawierała dzieła dwóch proroków oddzielonych od siebie o ponad sto lat, a Bernhard Duhm zapoczątkował pogląd, utrzymywany jako konsensus przez większość XX wieku, że księga składa się z trzech oddzielnych zbiorów wyroczni: Proto-Izajasz (rozdziały 1-39), zawierający słowa proroka Izajasza z VIII wieku p.n.e.; Księga Powtórzonego Prawa-Izajasza (rozdziały 40–55), dzieło anonimowego autora z VI wieku p.n.e., piszącego na wygnaniu; oraz Trito-Izajasz (rozdziały 56–66), skomponowane po powrocie z wygnania. Izajasz 1-33 obiecuje sąd i przywrócenie Judy, Jerozolimy i narodów, a rozdziały 34-66 zakładają, że sąd został ogłoszony i wkrótce nastąpi odrodzenie. Chociaż obecnie praktycznie żaden uczony nie przypisuje całej książki, a nawet większości z niej jednej osobie, zasadnicza jedność tej książki stała się przedmiotem ostatnich badań.
 
 Książkę można czytać jako rozszerzoną medytację o przeznaczeniu Jerozolimy do i po wygnaniu. Część Księgi Deutero-Izajasza opisuje, w jaki sposób Bóg uczyni z Jerozolimy centrum swoich światowych rządów poprzez królewskiego zbawiciela (mesjasza), który zniszczy ciemiężcę (Babilon); tym mesjaszem jest perski król Cyrus Wielki, który jest jedynie agentem, który doprowadza do królestwa Jahwe. Izajasz wypowiada się przeciwko skorumpowanym przywódcom i pokrzywdzonym i zakorzenia sprawiedliwość w Bożej świętości, a nie w przymierzu Izraela.

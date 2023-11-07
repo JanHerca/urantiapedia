@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRYFY</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Modlitwa Manassesa</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Modlitwa Manassesa, znana również jako Modlitwa Manassesa, to krótkie dzieło składające się z 15 wersetów, będące zapisem pokutnej modlitwy przypisywanej królowi Manassesowi z Judy. Większość uczonych uważa, że ​​Modlitwa Manassesa została napisana po grecku (podczas gdy mniejszość opowiada się za semickim oryginałem) w II lub I wieku p.n.e. Uznaje się, że mógł on być również napisany w pierwszej połowie I wieku n.e., ale w każdym razie przed Zburzeniem Drugiej Świątyni w 70 r. n.e. Inna praca o tym samym tytule, napisana po hebrajsku, została znaleziona wśród Zwojów znad Morza Martwego (4Q381:17).
 
 Manasses jest opisany w Biblii jako jeden z najbardziej bałwochwalczych królów Judy (2 Król. 21:1-18; 2 Kronik 33:1-9). Druga Księga Kronik, ale nie Druga Księga Królów, opisuje, że Manasses został wzięty do niewoli przez Asyryjczyków (2 Kronik 33:11-13). Będąc więźniem, Manasses modlił się o miłosierdzie, a po uwolnieniu i przywróceniu na tron ​​odwrócił się od bałwochwalczych dróg (2 Kronik 33:15-17). Odniesienie do modlitwy, ale nie do samej modlitwy, znajduje się w 2 Kronik 33:19, która mówi, że modlitwa jest zapisana w „Kronikach Królów Izraela”.

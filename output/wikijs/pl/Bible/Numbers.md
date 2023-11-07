@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Liczb</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Liczb (z greckiego Ἀριθμοί, Arithmoi; hebrajski: בְּמִדְבַּר, Bəmīḏbar, „Na pustyni [z]”) jest czwartą księgą Biblii Hebrajskiej i czwartą z pięciu ksiąg żydowskiej Tory. Książka ma długą i złożoną historię; jego ostateczna forma jest prawdopodobnie spowodowana kapłańską redakcją (tj. redakcją) źródła jahwistycznego dokonaną we wczesnym okresie perskim (V wiek p.n.e.). Nazwa księgi pochodzi od dwóch spisów Izraelitów.
 
 Liczby zaczynają się na górze Synaj, gdzie Izraelici otrzymali swoje prawa i przymierze od Boga, a Bóg zamieszkał wśród nich w sanktuarium. Ich zadaniem jest przejęcie Ziemi Obiecanej. Liczenie ludzi i przygotowania do wznowienia marszu. Izraelici rozpoczynają podróż, ale „narzekają” na trudności po drodze oraz na autorytet Mojżesza i Aarona. Za te czyny Bóg niszczy na różne sposoby około 15 000 z nich. Docierają do granic Kanaanu i wysyłają szpiegów do kraju. Po usłyszeniu przerażającego raportu szpiegów dotyczącego warunków w Kanaanie, Izraelici odmawiają objęcia go w posiadanie. Bóg skazuje ich na śmierć na pustyni, aż nowe pokolenie będzie w stanie dorosnąć i wykonać zadanie.

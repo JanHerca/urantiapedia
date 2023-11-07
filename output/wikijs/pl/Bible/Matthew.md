@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Mateusza</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Ewangelia Mateusza jest pierwszą księgą Nowego Testamentu Biblii i jedną z trzech Ewangelii synoptycznych. Opowiada o tym, jak Mesjasz Izraela, Jezus, przychodzi do swego ludu i tworzy wspólnotę uczniów, jak nauczał lud poprzez takie wydarzenia jak Kazanie na Górze i jego błogosławieństwa, jak Izrael zostaje podzielony i jak Jezus potępia ten wrogi Izrael . To kończy się jego odejściem ze świątyni i egzekucją. W tym momencie wielu ludzi odrzuca Jezusa, a po jego zmartwychwstaniu posyła uczniów do pogan.
 
 Mateusz zdaje się podkreślać, że tradycja żydowska nie powinna zaginąć w kościele, który coraz bardziej stawał się nieżydowski. Ewangelia odzwierciedla zmagania i konflikty między społecznością ewangelistów a innymi Żydami, szczególnie z ostrą krytyką uczonych w Piśmie i faryzeuszy, którzy twierdzą, że przez odrzucenie Chrystusa Królestwo Boże zostało im odebrane i zamiast tego dane im. Kościół. Boska natura Jezusa była główną kwestią dla społeczności Mateusza, kluczowym elementem oddzielającym wczesnych chrześcijan od ich żydowskich sąsiadów; podczas gdy Marek zaczyna od chrztu i kuszenia Jezusa, Mateusz wraca do początków Jezusa, ukazując go jako Syna Bożego od jego narodzin, wypełnienie mesjańskich proroctw Starego Testamentu. Tytułowy Syn Dawida utożsamia Jezusa jako uzdrawiającego i czyniącego cuda Mesjasza Izraela (jest używany wyłącznie w odniesieniu do cudów), posłanego tylko do Izraela. Jako Syn Człowieczy powróci, by sądzić świat, co jest oczekiwaniem, które uczniowie rozpoznają, ale którego wrogowie nie są świadomi. Jako Syn Boży, Bóg objawia się poprzez swojego syna, a Jezus udowadnia swoje synostwo poprzez posłuszeństwo i przykład.

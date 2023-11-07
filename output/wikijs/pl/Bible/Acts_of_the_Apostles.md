@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Dzieje Apostolskie</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Dzieje Apostolskie (gr. Koinē: Πράξεις Ἀποστόλων, Práxeis Apostólōn; łac.: Actūs Apostolōrum) to piąta księga Nowego Testamentu; opowiada o założeniu Kościoła chrześcijańskiego i szerzeniu jego przesłania w Cesarstwie Rzymskim. Opisuje posługę i działalność apostołów Chrystusa w Jerozolimie i innych regionach po śmierci, zmartwychwstaniu i wniebowstąpieniu Chrystusa.
 
 Dzieje Apostolskie i Ewangelia Łukasza składają się na dwuczęściowe dzieło Łukasza – Dzieje Apostolskie tego samego anonimowego autora. Jest zwykle datowany na około 80-90 AD, chociaż niektórzy badacze sugerują, że 90-110. Pierwsza część, Ewangelia Łukasza, opowiada, jak Bóg wypełnił swój plan zbawienia świata przez życie, śmierć i zmartwychwstanie Jezusa z Nazaretu, obiecanego Mesjasza. Dzieje Apostolskie kontynuują historię chrześcijaństwa w I wieku, poczynając od wniebowstąpienia Jezusa do nieba. Wczesne rozdziały, osadzone w Jerozolimie, opisują Dzień Pięćdziesiątnicy (przyjście Ducha Świętego) i wzrost kościoła w Jerozolimie. Początkowo Żydzi są otwarci na orędzie chrześcijańskie, ale później zwracają się przeciwko wyznawcom Jezusa. Poselstwo odrzucone przez Żydów trafia do pogan pod przewodnictwem Apostoła Pawła. Kolejne rozdziały opowiadają o nawróceniu Pawła, jego misji w Azji Mniejszej i na Morzu Egejskim, a wreszcie o jego uwięzieniu w Rzymie, gdzie pod koniec książki czeka na proces.

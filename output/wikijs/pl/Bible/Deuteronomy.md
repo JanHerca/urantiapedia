@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Powtórzonego Prawa</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Powtórzonego Prawa (gr. Δευτερονόμιον Deuteronómion, dosł. 'drugie prawo') jest piątą i ostatnią księgą Tory (w judaizmie), gdzie nazywa się ją Devarim (hebr. דְּבָרִים, dosł. '[słowa] [Mojżesza]'). ) i piątą księgę chrześcijańskiego Starego Testamentu.
 
 Rozdziały 1–30 księgi składają się z trzech kazań lub przemówień wygłoszonych przez Mojżesza do Izraelitów na równinach moabskich na krótko przed ich wejściem do Ziemi Obiecanej. Pierwsze kazanie opowiada o czterdziestu latach wędrówki po pustyni, które doprowadziły do ​​tego momentu, a kończy się wezwaniem do przestrzegania prawa. Drugie kazanie przypomina Izraelitom o potrzebie przestrzegania Jahwe i praw (lub nauk), które im dał, od których zależy posiadanie przez nich ziemi. Trzecie kazanie daje pociechę, że nawet gdyby naród izraelski okazał się niewierny i utracił ziemię, dzięki pokucie wszyscy mogą zostać przywróceni.

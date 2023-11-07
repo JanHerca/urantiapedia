@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jana</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Ewangelia Jana (starogrecki: Εὐαγγέλιον κατὰ Ἰωάννην, łac. Euangélion katà Iōánnēn) jest czwartą z czterech ewangelii kanonicznych. Zawiera bardzo schematyczny opis służby Jezusa, z siedmioma „znakami”, których kulminacją jest wskrzeszenie Łazarza (zapowiadające zmartwychwstanie Jezusa) i siedmioma dyskursami „Ja jestem” (dotyczącymi spraw ówczesnej debaty między kościołem a synagogą). kompozycji), którego kulminacją było ogłoszenie przez Tomasza zmartwychwstałego Jezusa „moim Panem i moim Bogiem”. Końcowe wersety ewangelii określają jej cel: „abyście wierzyli, że Jezus jest Chrystusem, Synem Bożym, i abyście wierząc, mieli życie w jego imieniu”.
 
 John osiągnął swoją ostateczną formę około 90-110 AD, chociaż zawiera ślady pochodzenia sięgające 70 AD, a być może nawet wcześniejszych. Podobnie jak trzy inne ewangelie, jest anonimowa, chociaż identyfikuje nienazwanego „ucznia, którego Jezus kochał” jako źródło swoich tradycji. Najprawdopodobniej powstała w ramach „wspólnoty joannickiej” i – ponieważ jest ściśle związana stylem i treścią z trzema listami joannicznymi – większość uczonych traktuje cztery księgi, wraz z Księgą Objawienia, jako jeden korpus literatury joannickiej, choć nie od tego samego autora. 

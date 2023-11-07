@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apokalipsa św. Jana</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Objawienia jest ostatnią księgą Nowego Testamentu (i w konsekwencji ostatnią księgą chrześcijańskiej Biblii). Jej tytuł wywodzi się od pierwszego słowa greckiego tekstu Koine: apokalypsis, co oznacza „odsłonięcie” lub „objawienie”. Księga Objawienia jest jedyną apokaliptyczną księgą w kanonie Nowego Testamentu. Zajmuje centralne miejsce w chrześcijańskiej eschatologii.
 
 Autor nazywa się w tekście „Janem”, ale jego dokładna tożsamość pozostaje przedmiotem akademickiej debaty. Pisarze chrześcijańscy II wieku, tacy jak Papiasz z Hierapolis, Justyn Męczennik, Ireneusz, Meliton z Sardes, Klemens Aleksandryjski i autor fragmentu Muratorian, identyfikują Jana Apostoła jako „Jana” z Objawienia. Współczesna nauka generalnie przyjmuje inny pogląd, a wielu uważa, że ​​nic nie można wiedzieć o autorze poza tym, że był chrześcijańskim prorokiem. Współcześni teolodzy określają autora Księgi Objawienia jako „Jana z Patmos”. Większość tradycyjnych źródeł datuje księgę na okres panowania rzymskiego cesarza Domicjana (81-96 AD), co potwierdzają dowody.

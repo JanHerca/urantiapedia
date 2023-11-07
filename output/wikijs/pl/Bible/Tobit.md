@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tobiasza</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Księga Tobiasza (/ˈtoʊbɪt/), znana również jako Księga Tobiasza lub Księga Tobiego, jest żydowskim dziełem z III lub na początku II wieku p.n.e., opisującym jak Bóg testuje wiernych, odpowiada na modlitwy i chroni społeczność przymierza ( czyli Izraelici). Opowiada historię dwóch rodzin izraelskich, niewidomego Tobita w Niniwie i opuszczonej Sary w Ekbatanie. Syn Tobiasza, Tobiasz, zostaje wysłany, by odzyskać dziesięć srebrnych talentów, które Tobit zostawił kiedyś w Rages, mieście w Media; prowadzony i wspomagany przez anioła Rafaela przybywa do Ekbatany, gdzie spotyka Sarę. Demon o imieniu Asmodeus zakochał się w niej i zabija każdego, kogo zamierza poślubić, ale z pomocą Raphaela demon zostaje egzorcyzmowany, a Tobiasz i Sarah żenią się, po czym wracają do Niniwy, gdzie Tobit zostaje wyleczony ze ślepoty.
 
 Książka znajduje się w kanonie katolickim i prawosławnym, ale nie żydowskim; tradycja protestancka umieszcza ją w apokryfach, a anabaptyści, luteranie, anglikanie i metodyści uznają go za przydatny do celów budowania i liturgii, aczkolwiek niekanoniczny. Zdecydowana większość uczonych uznaje ją za dzieło fikcyjne z pewnymi odniesieniami historycznymi. 

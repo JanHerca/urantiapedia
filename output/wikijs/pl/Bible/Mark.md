@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Polish Biblia Gdanska, 1881</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Marka</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+
 Ewangelia Marka jest drugą z czterech ewangelii kanonicznych i trzech Ewangelii synoptycznych. Opowiada o służbie Jezusa od jego chrztu przez Jana Chrzciciela do jego śmierci, pogrzebu i odkrycia jego pustego grobu. Nie ma cudownych narodzin ani doktryny o boskiej preegzystencji, ani w pierwotnym zakończeniu (Mk 16,1-8) nie ma żadnych pojawień się Jezusa po zmartwychwstaniu. Przedstawia Jezusa jako nauczyciela, egzorcystę, uzdrowiciela i cudotwórcę. Nazywa siebie Synem Człowieczym. Nazywany jest Synem Bożym, ale zachowuje w tajemnicy swoją mesjańską naturę; nawet jego uczniowie nie rozumieją go. Wszystko to jest zgodne z chrześcijańską interpretacją proroctwa, która ma przepowiadać los mesjasza jako cierpiącego sługi. Ewangelia kończy się w swojej pierwotnej wersji odkryciem pustego grobu,
 
 Większość uczonych datuje Marka na ok. 66-74 AD, na krótko przed lub po zniszczeniu Drugiej Świątyni w 70 AD. Odrzucają tradycyjne przypisanie Marka Ewangelisty, towarzysza Apostoła Piotra, które prawdopodobnie zrodziło się z pragnienia wczesnych chrześcijan, aby powiązać dzieło z autorytatywną postacią, i uważają, że jest to dzieło autora korzystającego z różnych źródeł, w tym zbiory opowieści o cudach, kontrowersyjnych opowieściach, przypowieściach i narracji pasyjnej. Tradycyjnie zajmowała drugie, a czasem czwarte miejsce w kanonie chrześcijańskim, jako podrzędne skrócenie tego, co uważano za najważniejszą ewangelię, Mateusza; Kościół konsekwentnie wywodzi swój pogląd na Jezusa przede wszystkim od Mateusza, wtórnie od Jana, a tylko z daleka od Marka.
