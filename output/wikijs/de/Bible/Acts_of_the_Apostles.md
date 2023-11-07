@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Die Apostelgeschichte des Lukas</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Die Apostelgeschichte (Koinē Griechisch: Πράξεις Ἀποστόλων, Práxeis Apostólōn; Latein: Actūs Apostolōrum) ist das fünfte Buch des Neuen Testaments; es erzählt von der Gründung der christlichen Kirche und der Verbreitung ihrer Botschaft im Römischen Reich. Es gibt einen Bericht über den Dienst und die Tätigkeit der Apostel Christi in Jerusalem und anderen Regionen nach Christi Tod, Auferstehung und Himmelfahrt.
 
 Die Apostelgeschichte und das Lukasevangelium bilden ein zweiteiliges Werk, Lukas–Apostelgeschichte, desselben anonymen Autors. Es wird normalerweise auf etwa 80–90 n. Chr. Datiert, obwohl einige Gelehrte 90–110 vorschlagen. Der erste Teil, das Lukasevangelium, erzählt, wie Gott seinen Heilsplan für die Welt durch das Leben, den Tod und die Auferstehung des verheißenen Messias Jesus von Nazareth erfüllte. Die Apostelgeschichte setzt die Geschichte des Christentums im 1. Jahrhundert fort, beginnend mit der Himmelfahrt Jesu. Die ersten Kapitel, die in Jerusalem spielen, beschreiben den Pfingsttag (das Kommen des Heiligen Geistes) und das Wachstum der Gemeinde in Jerusalem. Anfangs sind die Juden für die christliche Botschaft empfänglich, wenden sich aber später gegen die Nachfolger Jesu. Von den Juden abgelehnt, wird die Botschaft unter der Führung des Apostels Paulus zu den Heiden gebracht. Die späteren Kapitel erzählen von der Bekehrung des Paulus, seiner Mission in Kleinasien und der Ägäis und schließlich seiner Gefangenschaft in Rom, wo er am Ende des Buches auf seinen Prozess wartet.

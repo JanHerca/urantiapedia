@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRYPHEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das Gebet Manesses</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Gebet des Manasse, auch bekannt als das Gebet des Manasse, ist ein kurzes Werk mit 15 Versen, das ein Bußgebet aufzeichnet, das König Manasse von Juda zugeschrieben wird. Die Mehrheit der Gelehrten glaubt, dass das Gebet von Manasse im zweiten oder ersten Jahrhundert v. Chr. Auf Griechisch geschrieben wurde (während eine Minderheit für ein semitisches Original plädiert). Es wird anerkannt, dass es auch in der ersten Hälfte des 1. Jahrhunderts n. Chr. geschrieben worden sein könnte, jedenfalls aber vor der Zerstörung des zweiten Tempels im Jahr 70 n. Chr. Ein weiteres Werk mit demselben Titel, geschrieben auf Hebräisch, wurde unter den Schriftrollen vom Toten Meer gefunden (4Q381:17).
 
 Manasse wird in der Bibel als einer der götzendienerischsten Könige Judas erwähnt (2. Könige 21:1–18; 2. Chronik 33:1–9). Das zweite Buch der Chronik, aber nicht das zweite Buch der Könige, berichtet, dass Manasse von den Assyrern gefangen genommen wurde (2. Chronik 33:11-13). Als Gefangener betete Manasse um Gnade und als er befreit und auf den Thron zurückgebracht wurde, wandte er sich von seinen götzendienerischen Wegen ab (2 Chronik 33:15-17). Ein Hinweis auf das Gebet, aber nicht das Gebet selbst, findet sich in 2 Chronik 33:19, wo es heißt, dass das Gebet in „den Annalen der Könige von Israel“ geschrieben steht.

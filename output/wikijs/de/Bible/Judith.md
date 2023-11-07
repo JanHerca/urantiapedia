@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Judit</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Judith ist ein deuterokanonisches Buch, das in der Septuaginta und im katholischen und ostorthodoxen christlichen Alten Testament der Bibel enthalten ist, aber aus dem hebräischen Kanon ausgeschlossen und von Protestanten den Apokryphen zugeordnet wird. Es erzählt von einer jüdischen Witwe, Judith, die ihre Schönheit und ihren Charme einsetzt, um einen assyrischen General zu vernichten und Israel vor Unterdrückung zu retten. Die erhaltenen griechischen Manuskripte enthalten mehrere historische Anachronismen, weshalb einige protestantische Gelehrte das Buch heute als nicht historisch betrachten: ein Gleichnis, einen theologischen Roman oder vielleicht den ersten historischen Roman. Der Name Judith (hebräisch: יְהוּדִית, modern: Yehudit, tiberisch: Yəhûḏîṯ, „Gepriesen“ oder „Jüdin“) ist die weibliche Form von Juda.
 
 ## Index

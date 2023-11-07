@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jesaja</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Jesaja (hebräisch: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) ist der erste der letzten Propheten in der hebräischen Bibel und der erste der großen Propheten im christlichen Alten Testament. Es wird durch eine Überschrift als die Worte des Propheten Isaiah ben Amoz aus dem 8. Jahrhundert v. Chr. identifiziert, aber es gibt umfangreiche Beweise dafür, dass ein Großteil davon während der babylonischen Gefangenschaft und später verfasst wurde. Johann Christoph Döderlein schlug 1775 vor, dass das Buch die Werke zweier Propheten enthielt, die mehr als ein Jahrhundert voneinander entfernt waren, und Bernhard Duhm begründete die Ansicht, die während des größten Teils des 20. Jahrhunderts als Konsens galt, dass das Buch drei separate Sammlungen von Orakeln umfasst: Proto-Jesaja (Kapitel 1–39) mit den Worten des Propheten Jesaja aus dem 8. Jahrhundert v. Chr.; Deutero-Jesaja (Kapitel 40–55), das Werk eines anonymen Autors aus dem 6. Jahrhundert v. Chr., der während des Exils schrieb; und Trito-Jesaja (Kapitel 56–66), komponiert nach der Rückkehr aus dem Exil. Jesaja 1–33 verspricht Gericht und Wiederherstellung für Juda, Jerusalem und die Nationen, und die Kapitel 34–66 gehen davon aus, dass das Gericht verkündet wurde und die Wiederherstellung bald folgt. Während heute praktisch kein Gelehrter das gesamte Buch oder auch nur den größten Teil davon einer Person zuschreibt, ist die wesentliche Einheit des Buches zu einem Schwerpunkt in der neueren Forschung geworden.
 
 Das Buch kann als erweiterte Meditation über das Schicksal Jerusalems in und nach dem Exil gelesen werden. Der deutero-jesaische Teil des Buches beschreibt, wie Gott Jerusalem durch einen königlichen Retter (einen Messias) zum Zentrum seiner weltweiten Herrschaft machen wird, der den Unterdrücker (Babylon) vernichten wird; dieser Messias ist der persische König Cyrus der Große, der lediglich der Agent ist, der Jahwes Königtum herbeiführt. Jesaja spricht sich gegen korrupte Führer und für die Benachteiligten aus und wurzelt Gerechtigkeit in Gottes Heiligkeit statt in Israels Bund.

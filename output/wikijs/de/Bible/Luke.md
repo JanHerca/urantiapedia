@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das Evangelium nach Lukas</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Lukasevangelium erzählt von den Ursprüngen, der Geburt, dem Dienst, dem Tod, der Auferstehung und der Himmelfahrt Jesu Christi. Zusammen mit der Apostelgeschichte bildet sie ein zweibändiges Werk, das von Gelehrten Lukas-Apostelgeschichte genannt wird und 27,5 % des Neuen Testaments ausmacht. Das kombinierte Werk unterteilt die Geschichte des Christentums im ersten Jahrhundert in drei Phasen, wobei das Evangelium die ersten beiden davon ausmacht – das Leben Jesu des Messias von seiner Geburt bis zum Beginn seiner Mission bei der Begegnung mit Johannes dem Täufer, gefolgt durch seinen Dienst mit Ereignissen wie der Predigt auf der Ebene und ihren Seligpreisungen und seiner Passion, seinem Tod und seiner Auferstehung.
 
 Die meisten modernen Gelehrten sind sich einig, dass die Hauptquellen, die für Lukas verwendet wurden, a) das Markusevangelium, b) eine Sammlung hypothetischer Sprüche namens Q-Quelle und c) Material waren, das in keinem anderen Evangelium zu finden ist und oft als L bezeichnet wird ( für Lukas) Quelle. Der Autor ist anonym; Die traditionelle Ansicht, es sei Lukas, der Evangelist, der Gefährte des Paulus, wird immer noch gelegentlich vorgebracht, aber der wissenschaftliche Konsens betont die vielen Widersprüche zwischen der Apostelgeschichte und den authentischen Paulusbriefen. Das wahrscheinlichste Datum für seine Zusammensetzung liegt zwischen 80 und 110 n. Chr., und es gibt Hinweise darauf, dass es bis weit ins 2. Jahrhundert hinein überarbeitet wurde.

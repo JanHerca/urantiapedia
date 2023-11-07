@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Josua</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Josua (hebräisch: ספר יהושע Sefer Yehoshua) ist das sechste Buch der hebräischen Bibel und des christlichen Alten Testaments und das erste Buch der deuteronomistischen Geschichte, der Geschichte Israels von der Eroberung Kanaans bis zum babylonischen Exil. Es erzählt von den Feldzügen der Israeliten in Zentral-, Süd- und Nordkanaan, der Vernichtung ihrer Feinde und der Aufteilung des Landes unter den Zwölf Stämmen, umrahmt von zwei versatzstückartigen Reden, von denen die erste von Gott befohlen wurde, die Eroberung des Landes Land, und am Ende die zweite von Josua, die vor der Notwendigkeit der treuen Einhaltung des Gesetzes (Torah) warnt, das Moses offenbart wurde.
 
 Fast alle Gelehrten sind sich einig, dass das Buch Josua wenig historischen Wert für das frühe Israel hat und höchstwahrscheinlich eine viel spätere Periode widerspiegelt. Die frühesten Teile des Buches sind möglicherweise die Kapitel 2–11, die Geschichte der Eroberung; Diese Kapitel wurden später in eine frühe Form von Josua aufgenommen, die wahrscheinlich spät in der Regierungszeit von König Josiah (regierte 640–609 v. Chr.) Geschrieben wurde, aber das Buch wurde erst nach dem Fall Jerusalems an das neubabylonische Reich im Jahr 586 v. und möglicherweise erst nach der Rückkehr aus dem babylonischen Exil im Jahr 539 v.

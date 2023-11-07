@@ -16,7 +16,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect style="fill:#42ca7d;"
 			width="9.6" height="136.8" x="7" y="5" />
 		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRYFY</text>
 		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 kniha Henochova</text>
 	</g>

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Exodus</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Exodus (aus dem Altgriechischen: Ἔξοδος, romanisiert: Éxodos; hebräisch: שְׁמוֹת Šəmōṯ, „Namen“) ist das zweite Buch der Bibel. Es erzählt die Geschichte des Exodus, in dem die Israeliten die Sklaverei im biblischen Ägypten durch die Kraft Jahwes verlassen, der sie zu seinem Volk erwählt hat. Die Israeliten reisen dann mit dem Propheten Moses zum Berg Sinai, wo Jahwe die 10 Gebote gibt und sie einen Bund mit Jahwe eingehen, der verspricht, sie unter der Bedingung ihrer Treue zu einer „heiligen Nation und einem Königreich von Priestern“ zu machen. Er gibt ihnen ihre Gesetze und Anweisungen, um die Stiftshütte zu bauen, die Mittel, mit denen er vom Himmel kommen und bei ihnen wohnen und sie in einem heiligen Krieg führen wird, um das Land Kanaan (das „Gelobte Land“) zu besitzen, das zuvor, nach der Geschichte der Genesis, dem Samen Abrahams verheißen.
 
 Traditionell Moses selbst zugeschrieben, sehen moderne Gelehrte seine ursprüngliche Zusammensetzung als ein Produkt des babylonischen Exils (6. Jahrhundert v. Chr.), basierend auf früheren schriftlichen Quellen und mündlichen Überlieferungen, mit endgültigen Überarbeitungen in der persischen nachexilischen Zeit (5. Jahrhundert v. Chr.). Carol Meyers schlägt in ihrem Kommentar zu Exodus vor, dass es wohl das wichtigste Buch der Bibel ist, da es die bestimmenden Merkmale der Identität Israels darstellt – Erinnerungen an eine Vergangenheit, die von Not und Flucht geprägt war, ein bindender Bund mit Gott, der wählt Israel, und die Einrichtung des Lebens der Gemeinschaft und die Richtlinien zu seiner Aufrechterhaltung. Der Konsens unter modernen Gelehrten ist, dass die Geschichte im Buch Exodus am besten als Mythos verstanden werden kann. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das Buch Tobias</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Tobit (/ˈtoʊbɪt/), auch bekannt als das Buch Tobias oder das Buch Tobi, ist ein jüdisches Werk aus dem 3. oder frühen 2. Jahrhundert v. Chr., das beschreibt, wie Gott die Gläubigen prüft, auf Gebete antwortet und die Bundesgemeinschaft schützt ( dh die Israeliten). Es erzählt die Geschichte zweier israelitischer Familien, die des blinden Tobit in Ninive und die der verlassenen Sarah in Ekbatana. Tobits Sohn Tobias wird geschickt, um zehn Silbertalente zu holen, die Tobit einst in Rages, einer Stadt in Media, hinterlassen hat. geführt und unterstützt von dem Engel Raphael kommt er in Ekbatana an, wo er Sarah trifft. Ein Dämon namens Asmodeus hat sich in sie verliebt und tötet jeden, den sie zu heiraten beabsichtigt, aber mit Hilfe von Raphael wird der Dämon exorziert und Tobias und Sarah heiraten, woraufhin sie nach Ninive zurückkehren, wo Tobit von seiner Blindheit geheilt wird.
 
 Das Buch ist im katholischen und orthodoxen Kanon enthalten, aber nicht im jüdischen; Die protestantische Tradition stellt es in die Apokryphen, wobei Täufer, Lutheraner, Anglikaner und Methodisten es als nützlich für Zwecke der Erbauung und Liturgie anerkennen, wenn auch nicht kanonischen Status. Die überwiegende Mehrheit der Gelehrten erkennt es als ein Werk der Fiktion mit einigen historischen Referenzen an.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Levitikus</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Levitikus (/lɪˈvɪtɪkəs/, aus dem Altgriechischen: Λευιτικόν, Leuïtikón; hebräisch: וַיִּקְרָא, Vayyīqrāʾ, „Und er rief“) ist das dritte Buch der Thora (der Pentateuch) und des Alten Testaments, auch bekannt als das Drittes Buch Mose. Gelehrte sind sich im Allgemeinen einig, dass es sich über einen langen Zeitraum entwickelt hat und seine heutige Form während der persischen Zeit von 538–332 v.
 
 Die meisten seiner Kapitel (1–7, 11–27) bestehen aus Jahwes Reden an Moses, die Jahwe Moses aufträgt, sie den Israeliten zu wiederholen. Dies spielt sich in der Geschichte des Exodus der Israeliten ab, nachdem sie aus Ägypten geflohen waren und den Berg Sinai erreicht hatten ([Exodus 19:1](/de/Bible/Exodus/19#v1)). Das Buch Exodus erzählt, wie Moses die Israeliten beim Bau der Stiftshütte (Exodus 35–40) mit Gottes Anweisungen anführte ([Exodus 25–31](/de/Bible/Exodus/25)). In 3. Mose sagt Gott den Israeliten und ihren Priestern, den Leviten, wie sie in der Stiftshütte Opfergaben darbringen und wie sie sich verhalten sollen, während sie um das Heiligtum des heiligen Zeltes lagern. Leviticus findet während des Monats oder der anderthalb Monate zwischen der Fertigstellung der Stiftshütte ([Exodus 40:17](/de/Bible/Exodus/40#v17)) und dem Abzug der Israeliten vom Sinai (Numeri [1:1](/de/Bible/Numbers/1#v1), [10:11](/de/Bible/Numbers/10#v11)).

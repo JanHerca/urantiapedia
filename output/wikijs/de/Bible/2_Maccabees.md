@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das zweite Buch der Makkabäer</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 2 Makkabäer, auch bekannt als das Zweite Buch der Makkabäer, Zweite Makkabäer und abgekürzt als 2 Makk., ist ein deuterokanonisches Buch, das die Judenverfolgung unter König Antiochus IV. Epiphanes und den Makkabäeraufstand gegen ihn erzählt. Es endet mit der Niederlage des Seleukidenreiches General Nikanor im Jahr 161 v. Chr. durch Judas Makkabäus, den Anführer der Makkabäer.
 
 2 Makkabäer wurde ursprünglich in Koine-Griechisch von einem unbekannten Diaspora-Juden geschrieben, der im hellenistischen Ägypten lebte. Es wurde wahrscheinlich zwischen 150 und 120 v. Chr. geschrieben. Zusammen mit dem Buch 1 Makkabäer ist es eine der wichtigsten Quellen zum Makkabäeraufstand. Das Werk ist keine Fortsetzung von 1 Maccabees, sondern vielmehr eine eigenständige Wiedergabe der historischen Ereignisse des Makkabäeraufstands. Es beginnt und endet seine Geschichte vor 1 Makkabäer, beginnend mit einem Vorfall mit dem seleukidischen Beamten Heliodorus, der 178 v. Chr. versuchte, den Zweiten Tempel zu besteuern, und endend mit der Schlacht von Adasa 161 v. Einige Gelehrte glauben, dass das Buch von der pharisäischen Tradition beeinflusst ist, mit Abschnitten, die eine Bestätigung des Gebets für die Toten und eine Auferstehung der Toten enthalten.

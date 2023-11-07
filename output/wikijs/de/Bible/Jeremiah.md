@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jeremia</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Jeremia (hebräisch: ספר יִרְמְיָהוּ) ist der zweite der letzten Propheten in der hebräischen Bibel und der zweite der Propheten im christlichen Alten Testament. Die Überschrift bei Kapitel Jeremia 1:1–3 identifiziert das Buch als „die Worte Jeremias, des Sohnes Hilkias“. Von allen Propheten tritt Jeremia als Person am deutlichsten hervor und grübelt gegenüber seinem Schreiber Baruch über seine Rolle als Diener Gottes nach, mit wenig guten Nachrichten für sein Publikum.
 
 Sein Buch ist als Botschaft an die Juden im babylonischen Exil gedacht und erklärt die Katastrophe des Exils als Gottes Antwort auf die heidnische Anbetung Israels: Das Volk, sagt Jeremia, sei wie eine untreue Frau und rebellische Kinder, ihre Untreue und Rebellion machten das Gericht unvermeidlich , obwohl Wiederherstellung und ein neuer Bund angedeutet sind. Authentische Orakel von Jeremia sind wahrscheinlich in den poetischen Abschnitten der Kapitel 1–25 zu finden, aber das Buch als Ganzes wurde von den Anhängern des Propheten (einschließlich vielleicht seines Begleiters, dem Schreiber Baruch) und späteren Generationen stark bearbeitet und ergänzt Deuteronomen.

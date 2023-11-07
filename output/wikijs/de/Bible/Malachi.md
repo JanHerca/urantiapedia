@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Maleachi</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Maleachi (hebräisch: מַלְאָכִ֔י, Malʾāḵī) ist das letzte Buch der Neviim, das im Tanach enthalten ist, kanonisch der letzte der zwölf kleinen Propheten. In der christlichen Ordnung ist die Gruppierung der prophetischen Bücher der letzte Abschnitt des Alten Testaments, was Maleachi zum letzten Buch vor dem Neuen Testament macht.
 
 Das Buch wird allgemein einem Propheten namens Maleachi zugeschrieben, da sein Titel häufig als Eigenname verstanden wurde, obwohl seine hebräische Bedeutung einfach „Mein Gesandter“ ist (die Septuaginta lautet „sein Gesandter“) und möglicherweise nicht der Name des Autors ist alle. Der Name kommt in der Überschrift bei 1:1 und bei 3:1 vor, obwohl es sehr unwahrscheinlich ist, dass sich das Wort in diesen beiden Referenzen auf dasselbe Zeichen bezieht. Daher gibt es eine erhebliche Debatte über die Identität des Autors des Buches. Einer der Targums identifiziert Esra (oder Esdras) als den Autor von Maleachi. Der Priester und Historiker Jerome vermutet, dass dies daran liegen könnte, dass Esra als Vermittler zwischen den Propheten und der „großen Synagoge“ angesehen wird. Es gibt jedoch noch keine historischen Beweise, die diese Behauptung stützen.

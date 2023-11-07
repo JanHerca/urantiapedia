@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Numeri</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Numeribuch (von griechisch Ἀριθμοί, Arithmoi; hebräisch: בְּמִדְבַּר, Bəmīḏbar, „In der Wüste [von]“) ist das vierte Buch der hebräischen Bibel und das vierte von fünf Büchern der jüdischen Thora. Das Buch hat eine lange und komplexe Geschichte; seine endgültige Form ist möglicherweise auf eine priesterliche Redaktion (dh Bearbeitung) einer jahwistischen Quelle zurückzuführen, die irgendwann in der frühen persischen Zeit (5. Jahrhundert v. Chr.) Angefertigt wurde. Der Name des Buches stammt von den beiden Zählungen der Israeliten.
 
 Numeri beginnt am Berg Sinai, wo die Israeliten ihre Gesetze und ihren Bund von Gott erhalten haben und Gott unter ihnen im Heiligtum Wohnung genommen hat. Die vor ihnen liegende Aufgabe besteht darin, das Gelobte Land in Besitz zu nehmen. Die Menschen werden gezählt und Vorbereitungen für die Wiederaufnahme des Marsches getroffen. Die Israeliten beginnen die Reise, aber sie „murren“ über die Strapazen auf dem Weg und über die Autorität von Moses und Aaron. Für diese Taten zerstört Gott ungefähr 15.000 von ihnen durch verschiedene Mittel. Sie erreichen die Grenzen Kanaans und schicken Spione ins Land. Als die Israeliten den furchtbaren Bericht der Kundschafter über die Zustände in Kanaan hören, weigern sie sich, es in Besitz zu nehmen. Gott verurteilt sie zum Tod in der Wüste, bis eine neue Generation aufwachsen und die Aufgabe erfüllen kann.

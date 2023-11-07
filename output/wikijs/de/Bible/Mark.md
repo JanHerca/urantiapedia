@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das Evangelium nach Markus</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Markusevangelium ist das zweite der vier kanonischen Evangelien und der drei synoptischen Evangelien. Es erzählt vom Dienst Jesu von seiner Taufe durch Johannes den Täufer bis zu seinem Tod, seiner Beerdigung und der Entdeckung seines leeren Grabes. Es gibt keine wundersame Geburt oder Doktrin der göttlichen Präexistenz, noch, am ursprünglichen Ende (Markus 16:1–8), irgendwelche Erscheinungen Jesu nach der Auferstehung. Es zeigt Jesus als Lehrer, Exorzisten, Heiler und Wundertäter. Er bezeichnet sich selbst als Menschensohn. Er wird Sohn Gottes genannt, hält aber seine messianische Natur geheim; selbst seine Jünger verstehen ihn nicht. All dies steht im Einklang mit der christlichen Interpretation der Prophetie, die das Schicksal des Messias als leidenden Diener vorhersagen soll. Das Evangelium endet in seiner ursprünglichen Version mit der Entdeckung des leeren Grabes,
 
 Die meisten Gelehrten datieren Markus auf c. 66–74 n. Chr., entweder kurz vor oder nach der Zerstörung des zweiten Tempels im Jahr 70 n. Chr. Sie lehnen die traditionelle Zuschreibung an den Evangelisten Markus, den Gefährten des Apostels Petrus ab, die wahrscheinlich dem Wunsch der frühen Christen entsprang, das Werk mit einer Autoritätsfigur zu verknüpfen, und glauben, dass es sich um das Werk eines Autors handelt, der mit verschiedenen Quellen arbeitet Sammlungen von Wundergeschichten, Streitgeschichten, Parabeln und einer Passionsgeschichte. Es wurde im christlichen Kanon traditionell an zweiter und manchmal an vierter Stelle platziert, als minderwertige Kürzung dessen, was als das wichtigste Evangelium angesehen wurde, Matthäus; die Kirche hat folglich ihr Jesusbild primär von Matthäus, sekundär von Johannes und nur entfernt von Markus abgeleitet.

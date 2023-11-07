@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das erste Buch Samuel</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Samuel (hebräisch: ספר שמואל, Sefer Shmuel) ist ein Buch in der hebräischen Bibel, das als zwei Bücher (1–2 Samuel) im christlichen Alten Testament zu finden ist. Das Buch ist Teil der erzählerischen Geschichte des alten Israel, die als deuteronomistische Geschichte bezeichnet wird, einer Reihe von Büchern (Josua, Richter, Samuel und Könige), die eine theologische Geschichte der Israeliten darstellen und darauf abzielen, Gottes Gesetz für Israel unter Anleitung zu erklären der Propheten. 
 
 Nach jüdischer Überlieferung wurde das Buch von Samuel geschrieben, mit Ergänzungen durch die Propheten Gad und Nathan, die zusammen drei Propheten sind, die in 1. Chronik während des Berichts über Davids Herrschaft erschienen waren. Das moderne wissenschaftliche Denken geht davon aus, dass die gesamte deuteronomistische Geschichte um 630–540 v. Chr. Verfasst wurde, indem eine Reihe unabhängiger Texte verschiedener Altersgruppen kombiniert wurden.

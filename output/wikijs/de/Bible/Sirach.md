@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Das Buch Jesus Sirach</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch Sirach (/ˈsaɪræk/) oder Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/; abgekürzt Ecclus.) ist ein jüdisches Werk ethischer Lehren, ursprünglich auf Hebräisch, von etwa 200 bis 175 v. Chr., geschrieben von dem judäischen Schreiber Ben Sira aus Jerusalem , auf die Inspiration seines Vaters Joshua, Sohn von Sirach, manchmal genannt Jesus, Sohn von Sirach oder Yeshua ben Eliezer ben Sira. 
 
 In Ägypten wurde es vom namenlosen Enkel des Autors ins Griechische übersetzt, der einen Prolog hinzufügte. Dieser Prolog gilt allgemein als der früheste Zeuge eines Kanons [Klärung erforderlich] der Bücher der Propheten, und daher ist das Datum des Textes Gegenstand intensiver Prüfung. Das Buch selbst ist das größte erhaltene Weisheitsbuch der Antike. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DIE BIBEL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Die Offenbarung des Johannes</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Das Buch der Offenbarung ist das letzte Buch des Neuen Testaments (und folglich das letzte Buch der christlichen Bibel). Sein Titel leitet sich vom ersten Wort des griechischen Koine-Textes ab: apokalypsis, was „Enthüllung“ oder „Offenbarung“ bedeutet. Das Buch der Offenbarung ist das einzige apokalyptische Buch im neutestamentlichen Kanon. Es nimmt einen zentralen Platz in der christlichen Eschatologie ein.
 
 Der Autor nennt sich im Text selbst als „John“, aber seine genaue Identität bleibt Gegenstand akademischer Debatten. Christliche Schriftsteller des zweiten Jahrhunderts wie Papias von Hierapolis, Justin der Märtyrer, Irenäus, Melito von Sardes, Clemens von Alexandria und der Autor des Muratorianischen Fragments identifizieren Johannes den Apostel als den „Johannes“ der Offenbarung. Die moderne Wissenschaft vertritt im Allgemeinen eine andere Ansicht, da viele der Ansicht sind, dass über den Autor nichts bekannt sein kann, außer dass er ein christlicher Prophet war. Moderne Theologen bezeichnen den Autor der Offenbarung als „Johannes von Patmos“. Der Großteil der traditionellen Quellen datiert das Buch auf die Regierungszeit des römischen Kaisers Domitian (81–96 n. Chr.), was die Beweise tendenziell bestätigen.

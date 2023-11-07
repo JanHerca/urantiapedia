@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRYPHEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">German Luther Bible, 1912</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Himmelfahrt des Mose</text>
+	</g>
+</svg>
+</div>
+
+## Beschreibung
+
+
 Die Himmelfahrt des Moses (auch das Testament des Moses genannt, hebr.: עליית משה) ist ein jüdisches apokryphisches Pseudepigraphikwerk aus dem 1. Jahrhundert. Es gibt vor, geheime Prophezeiungen zu enthalten, die Moses Josua offenbarte, bevor er ihm die Führung der Israeliten übergab. Es enthält apokalyptische Themen, ist aber als „Testament“ gekennzeichnet, was bedeutet, dass es die letzte Rede eines Sterbenden, Moses, enthält. 
 
 Es wird angenommen, dass der Text ursprünglich in Hebräisch oder einer anderen semitischen Sprache verfasst und dann in Koine-Griechisch übersetzt wurde. Das einzige erhaltene Manuskript ist eine lateinische Übersetzung des griechischen Textes aus dem 6. Jahrhundert. Das Manuskript war unvollständig, und der Rest des Textes ist verloren. Aus Referenzen in alten Werken geht hervor, dass der fehlende Text einen Streit zwischen dem Erzengel Michael und dem Teufel um den Körper von Moses darstellte.
