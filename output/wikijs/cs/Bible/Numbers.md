@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Numeri</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Numeri (z řeckého Ἀριθμοί, Arithmoi; hebrejsky: בְּמִדְבַּר, Bəmīḏbar, „Na poušti [of]“) je čtvrtá kniha hebrejské Bible a čtvrtá z pěti knih židovské Tóry. Kniha má dlouhou a složitou historii; jeho konečná podoba je možná kvůli kněžské redakci (tj. editaci) jahvistického zdroje pořízené nějakou dobu v raném perském období (5. století př. Kr.). Název knihy pochází ze dvou sčítání lidu Izraelitů.
 
 Numbers začíná na hoře Sinaj, kde Izraelité přijali své zákony a smlouvu od Boha a Bůh se mezi nimi usadil ve svatyni. Úkol před nimi je zmocnit se země zaslíbené. Lidé jsou sečteni a připravují se na obnovení jejich pochodu. Izraelité se vydávají na cestu, ale „reptají“ na těžkosti na cestě a na autoritu Mojžíše a Árona. Za tyto činy jich Bůh různými prostředky zničí přibližně 15 000. Dorazí k hranicím Kanaánu a posílají do země vyzvědače. Když Izraelité slyšeli strašlivou zprávu zvědů o podmínkách v Kanaánu, odmítli se ho zmocnit. Bůh je odsuzuje k smrti v poušti, dokud nevyroste nová generace a nebude moci tento úkol splnit.

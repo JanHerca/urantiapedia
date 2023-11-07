@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Leviticus</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Levitikus (/lɪˈvɪtɪkəs/, ze starověkého řečtiny: Λευιτικόν, Leuïtikón; hebrejsky: וַיִּקְרָא, Vayyīqrāʾ, „A on povolal z Tóry a také ze Starého“ Pentea, je třetí zkušební knihou) Třetí kniha Mojžíšova. Učenci se obecně shodují na tom, že se vyvíjela po dlouhou dobu a své současné podoby dosáhla během perského období, v letech 538–332 př.nl.
 
 Většinu jeho kapitol (1–7, 11–27) tvoří Jahveho řeči k Mojžíšovi, které Jahve Mojžíšovi říká, aby je opakoval Izraelitům. To se odehrává v příběhu o exodu Izraelitů poté, co uprchli z Egypta a dosáhli hory Sinaj ([Exodus 19:1](/cs/Bible/Exodus/19#v1)). Kniha Exodus vypráví, jak Mojžíš vedl Izraelity při stavbě svatostánku (Exodus 35–40) podle Božích pokynů ([Exodus 25–31](/cs/Bible/Exodus/25)). V Leviticus Bůh říká Izraelitům a jejich kněžím, Levitům, jak přinášet oběti ve svatostánku a jak se chovat, když tábořili kolem svatyně svatyně. Leviticus se odehrává během měsíce nebo měsíce a půl mezi dokončením Tabernacle ([Exodus 40:17](/cs/Bible/Exodus/40#v17)) a odchodem Izraelitů ze Sinaje (Numeri [1:1](/cs/Bible/Numbers/1#v1), [10:11](/cs/Bible/Numbers/10#v11)).

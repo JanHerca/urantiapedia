@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jozue</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Jozuova (hebrejsky: ספר יהושע Sefer Jehošua) je šestá kniha v hebrejské Bibli a křesťanském Starém zákoně a je první knihou deuteronomistické historie, příběhem Izraele od dobytí Kanaánu po babylonské vyhnanství. Vypráví o taženích Izraelitů ve středním, jižním a severním Kanaánu, zničení jejich nepřátel a rozdělení země mezi Dvanáct kmenů, zarámované dvěma scénickými projevy, z nichž první Bůh nařídil dobytí země a na konci druhá, kterou Jozue varoval před nutností věrného dodržování Zákona (tóry) zjeveného Mojžíšovi.
 
 Téměř všichni učenci se shodují, že Kniha Jozue má pro raný Izrael malou historickou hodnotu a s největší pravděpodobností odráží mnohem pozdější období. Nejčasnější části knihy jsou možná kapitoly 2–11, popis dobytí; tyto kapitoly byly později začleněny do rané podoby Jozue napsané pravděpodobně pozdě za vlády krále Josiáše (vládl 640–609 př. n. l.), ale kniha byla dokončena až po pádu Jeruzaléma novobabylonské říši v roce 586 př. n. l. a možná až po návratu z babylonského vyhnanství v roce 539 př. n. l.

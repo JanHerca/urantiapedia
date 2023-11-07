@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matouš</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Matoušovo evangelium je první knihou Nového zákona Bible a jedním ze tří synoptických evangelií. Vypráví o tom, jak izraelský Mesiáš, Ježíš, přichází ke svému lidu a vytváří společenství učedníků, jak učil lid prostřednictvím takových událostí, jako je Kázání na hoře a jeho blahoslavenství, a jak se Izrael rozděluje a jak Ježíš odsuzuje tento nepřátelský Izrael. . To vyvrcholí jeho odchodem z Chrámu a jeho popravou. V tomto bodě mnoho lidí odmítá Ježíše a při svém vzkříšení posílá učedníky k pohanům.
 
 Zdá se, že Matouš zdůrazňuje, že židovská tradice by se neměla ztratit v církvi, která se stále více stávala pohanskou. Evangelium odráží boje a konflikty mezi evangelistovou komunitou a ostatními Židy, zejména ostrou kritikou zákoníků a farizeů s názorem, že díky jejich odmítnutí Krista jim bylo odňato Boží království a místo toho jim bylo dáno. kostel. Božská přirozenost Ježíše byla hlavním problémem pro Matthaean komunitu, zásadní prvek oddělující rané křesťany od jejich židovských sousedů; zatímco Marek začíná Ježíšovým křtem a pokušeními, Matouš se vrací k Ježíšovým počátkům a ukazuje jej jako Syna Božího od jeho narození, což je naplnění mesiášských proroctví Starého zákona. Titul Syn Davidův identifikuje Ježíše jako uzdravujícího a zázraky působícího Mesiáše Izraele (používá se výhradně ve vztahu k zázrakům), seslaného pouze do Izraele. Jako Syn člověka se vrátí, aby soudil svět, což je očekávání, které jeho učedníci uznávají, ale o kterém jeho nepřátelé nevědí. Jako Syn Boží se Bůh zjevuje skrze svého syna a Ježíš dokazuje své synovství svou poslušností a příkladem.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Báruk</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Baruch je deuterokanonická kniha Bible, která se používá ve většině křesťanských tradic, jako jsou katolické a pravoslavné církve. V judaismu a protestantském křesťanství se nepovažuje za součást kánonu, přičemž protestantské Bible jej klasifikují jako součást biblického apokryfu. Kniha je pojmenována po Baruchovi ben Neriahovi, známém Jeremiášově písaři, který je zmíněn v Baruchovi 1:1 a předpokládá se, že je autorem celého díla. Kniha je reflexí zesnulého židovského spisovatele o okolnostech židovských exulantů z Babylonu, s meditacemi o teologii a dějinách Izraele, diskusemi o moudrosti a přímou adresou obyvatelům Jeruzaléma a diaspory. Někteří učenci se domnívají, že to bylo napsáno během nebo krátce po období Maccabees.
 
 Kniha Baruch je někdy označována jako 1 Baruch, aby se odlišila od 2 Baruch, 3 Baruch a 4 Baruch.

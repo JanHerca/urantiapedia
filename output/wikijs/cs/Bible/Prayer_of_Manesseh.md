@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Modlitba Manassesova</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Modlitba Manassesova, známá také jako Modlitba Manassesova, je krátké dílo o 15 verších, které zaznamenává kajícnou modlitbu připisovanou judskému králi Manassehovi. Většina učenců věří, že Modlitba Manasseho byla napsána v řečtině (zatímco menšina se přimlouvá za semitský originál) ve druhém nebo prvním století před naším letopočtem. Uznává se, že mohla být také napsána v první polovině 1. století našeho letopočtu, ale v každém případě před zničením druhého chrámu v roce 70 našeho letopočtu. Další dílo se stejným názvem, napsané v hebrejštině, bylo nalezeno mezi svitky od Mrtvého moře (4Q381:17).
 
 Manasse je v Bibli zaznamenán jako jeden z nejmodloslužebnějších judských králů (2. Královská 21:1–18; 2. Paralipomenon 33:1–9). Druhá kniha letopisů, ale nikoli druhá kniha králů, zaznamenává, že Manasse byl zajat Asyřany (2. Paralipomenon 33:11–13). Když byl Manasses zajatcem, modlil se o milost, a když byl osvobozen a znovu nastolen na trůn, odvrátil se od svých modlářských cest (2. Paralipomenon 33:15–17). Odkaz na modlitbu, ale ne modlitbu samotnou, je uveden ve 2. Paralipomenon 33:19, kde se říká, že modlitba je zapsána v „letopisech králů Izraele“.

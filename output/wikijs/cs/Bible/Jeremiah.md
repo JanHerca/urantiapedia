@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jeremjáš</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Jeremiášova (hebrejsky: ספר יִרְמְיָהוּ) je druhý z posledních proroků v hebrejské Bibli a druhý z proroků v křesťanském Starém zákoně. Nápis v kapitole Jeremjáš 1:1–3 označuje knihu jako „slova Jeremjáše, syna Hilkiášova“. Ze všech proroků nejzřetelněji prostupuje Jeremjáš jako osoba, přemítající svému písaři Baruchovi o své úloze služebníka Božího s málo dobrými zprávami pro své posluchače.
 
 Jeho kniha je zamýšlena jako poselství Židům v exilu v Babylóně, vysvětlující katastrofu vyhnanství jako Boží odpověď na izraelské pohanské uctívání: lid, říká Jeremiáš, je jako nevěrná manželka a vzpurné děti, jejich nevěra a vzpurnost učinily soud nevyhnutelným. , ačkoli obnovení a nová smlouva jsou předznamenány. Autentická Jeremiášova věštba se pravděpodobně nachází v poetických částech kapitol 1–25, ale kniha jako celek byla značně upravena a doplněna prorokovými následovníky (možná včetně jeho společníka, písaře Barucha) a pozdějších generací Deuteronomisté.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Malachiáš</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Malachiáš (hebrejsky: מַלְאָכִ֔י, Malʾāḵī) je poslední knihou Neviim obsaženou v Tanakh, kanonicky posledním z dvanácti menších proroků. V křesťanském uspořádání je seskupení prorockých knih poslední částí Starého zákona, takže Malachiáš je poslední knihou před Novým zákonem.
 
 Kniha je běžně připisována proroku jménem Malachiáš, protože její název byl často chápán jako vlastní jméno, ačkoli její hebrejský význam je jednoduše „Můj posel“ (Septuaginta čte „jeho posel“) a nemusí to být jméno autora na adrese Všechno. Jméno se vyskytuje v nadpisu v poměru 1:1 a 3:1, i když je vysoce nepravděpodobné, že slovo odkazuje na stejný znak v obou těchto odkazech. Existuje tedy podstatná debata o identitě autora knihy. Jeden z Targumů identifikuje Ezru (nebo Esdrase) jako autora Malachiáše. Kněz a historik Jerome naznačuje, že to může být proto, že Ezra je považován za prostředníka mezi proroky a „velkou synagogou“. Zatím však neexistují žádné historické důkazy, které by toto tvrzení podpořily.

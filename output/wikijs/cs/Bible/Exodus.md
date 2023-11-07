@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Exodus</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Exodus (ze starověkého řečtiny: Ἔξοδος, romanizováno: Éxodos; hebrejsky: שְׁמוֹת Šəmōṯ, „Jména“) je druhá kniha Bible. Vypráví příběh exodu, ve kterém Izraelité opouštějí otroctví v biblickém Egyptě skrze sílu Jahveho, který si je vyvolil za svůj lid. Izraelité pak putují s prorokem Mojžíšem na horu Sinaj, kde Jahve dává 10 přikázání a uzavírají smlouvu s Jahvem, který jim za podmínky jejich věrnosti slibuje, že je učiní „svatým národem a královstvím kněží“. Dává jim jejich zákony a pokyny, aby postavili svatostánek, prostředky, pomocí kterých přijde z nebe a bude s nimi bydlet a povede je ve svaté válce o vlastnictví země Kanaán („země zaslíbená“), která měla dříve, podle příběhu Genesis bylo zaslíbeno semeni Abrahamovu.
 
 Moderní učenci, tradičně připisovaný samotnému Mojžíšovi, vidí jeho počáteční složení jako produkt babylonského vyhnanství (6. století př. n. l.), založené na dřívějších písemných pramenech a ústních tradicích, s konečnými revizemi v perském období po exilu (5. století př. n. l.). Carol Meyers ve svém komentáři k Exodu naznačuje, že je to pravděpodobně nejdůležitější kniha v Bibli, protože představuje určující rysy identity Izraele – vzpomínky na minulost poznamenanou těžkostmi a únikem, závaznou smlouvu s Bohem, který si Izrael a ustavení života komunity a pokyny pro její udržení. Mezi moderními učenci panuje shoda v tom, že příběh v Knize Exodus je nejlépe chápán jako mýtus.

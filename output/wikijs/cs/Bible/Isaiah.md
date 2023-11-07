@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Izajáš</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Izajáš (hebrejsky: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) je první z posledních proroků v hebrejské Bibli a první z hlavních proroků v křesťanském Starém zákoně. Podle nápisu je identifikován jako slova proroka Izajáše ben Amose z 8. století př. n. l., ale existují rozsáhlé důkazy, že velká část byla složena během babylonského zajetí a později. Johann Christoph Döderlein v roce 1775 navrhl, že kniha obsahuje díla dvou proroků, které od sebe dělí více než jedno století, a Bernhard Duhm vytvořil názor, držený jako konsenzus po většinu 20. století, že kniha obsahuje tři samostatné sbírky věštců: Proto-Izaiáš (kapitoly 1–39), obsahující slova proroka Izajáše z 8. století př. n. l.; Deutero-Isaiah (kapitoly 40–55), dílo anonymního autora ze 6. století př. n. l. píšícího během exilu; a Trito-Isaiah (kapitoly 56–66), složené po návratu z vyhnanství. Izajáš 1–33 slibuje soud a obnovu pro Judu, Jeruzalém a národy a kapitoly 34–66 předpokládají, že soud byl vynesen a že obnova bude brzy následovat. Zatímco dnes prakticky žádní učenci nepřipisují celou knihu, nebo dokonce její většinu, jedné osobě, podstatná jednota knihy se stala středem zájmu novějších výzkumů.
 
 Knihu lze číst jako rozšířenou meditaci o osudu Jeruzaléma do exilu a po něm. Deutero-isajská část knihy popisuje, jak Bůh udělá z Jeruzaléma centrum své celosvětové vlády prostřednictvím královského zachránce (mesiáše), který zničí utlačovatele (Babylon); tento mesiáš je perský král Kýros Veliký, který je pouze zmocněncem, který přináší Jahveho kralování. Izajáš mluví proti zkorumpovaným vůdcům a za znevýhodněné a zakořeňuje spravedlnost spíše v Boží svatosti než v izraelské smlouvě.

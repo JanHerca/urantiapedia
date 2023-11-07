@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tóbit</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha Tobit (/ˈtoʊbɪt/), známá také jako Kniha Tobiášova nebo Kniha Tobiho, je židovské dílo ze 3. nebo počátku 2. století před naším letopočtem popisující, jak Bůh zkouší věřící, odpovídá na modlitby a chrání smluvní společenství ( tj. Izraelité). Vypráví o dvou izraelských rodinách, o slepém Tobitovi v Ninive a o opuštěné Sáře v Ekbataně. Tobitův syn Tobias je poslán získat deset stříbrných talentů, které Tobit kdysi zanechal v Rages, městě v Médii; veden a s pomocí anděla Raphaela přijíždí do Ekbatany, kde se setkává se Sarah. Démon jménem Asmodeus se do ní zamiloval a zabije každého, koho si chce vzít, ale s pomocí Raphaela je démon vymítán a Tobias a Sarah se vezmou, načež se vrátí do Ninive, kde je Tobit vyléčen ze své slepoty.
 
 Kniha je zahrnuta v katolickém a ortodoxním kánonu, ale ne v židovském; protestantská tradice ji zařazuje do apokryfů, přičemž anabaptisté, luteráni, anglikáni a metodisté ​​ji uznávají jako užitečnou pro účely povznesení a liturgie, i když nekanonický status. Drtivá většina učenců jej uznává jako beletristické dílo s některými historickými odkazy.

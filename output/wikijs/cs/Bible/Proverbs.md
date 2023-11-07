@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Czech Bible Kralická, 1613</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Přísloví</text>
+	</g>
+</svg>
+</div>
+
+## Popis
+
+
 Kniha přísloví ( hebrejsky : מִשְלֵי , Mīšlē , „Přísloví (Šalamounova)“) je kniha ve třetí části (nazvané Ketuvim) hebrejské Bible a kniha křesťanského Starého zákona. Při překladu do řečtiny a latiny na sebe titul vzal různé formy: v řecké Septuagintě (LXX) se stal Παροιμίαι (Paroimiai, „Přísloví“); v latinské Vulgate byl název Proverbia, z něhož je odvozen anglický název.
 
 Přísloví není pouhou antologií, ale „sbírkou sbírek“ vztahujících se ke vzorci života, který trval déle než tisíciletí. Je příkladem biblické moudré literatury a klade otázky hodnot, mravního chování, smyslu lidského života a správného jednání a jeho teologickým základem je, že „báseň Boží (což znamená podřízení se vůli Boží) je počátek moudrosti“. Moudrost je chválena pro její roli ve stvoření; Bůh ji získal přede vším a jejím prostřednictvím dal řád chaosu; a protože lidé mají život a prosperitu tím, že se přizpůsobí řádu stvoření, hledání moudrosti je podstatou a cílem života.
