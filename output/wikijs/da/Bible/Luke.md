@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Lukasevangeliet</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Lukasevangeliet fortæller om Jesu Kristi oprindelse, fødsel, tjeneste, død, opstandelse og himmelfart. Sammen med Apostlenes Gerninger udgør det et tobindsværk, som forskere kalder Lukas-Apostlenes Gerninger, og som udgør 27,5 % af Det Nye Testamente. Det kombinerede værk deler kristendommens historie i det første århundrede i tre stadier, hvor evangeliet udgør de to første af disse - Jesu Messias' liv fra hans fødsel til begyndelsen af ​​hans mission i mødet med Johannes Døberen, efterfulgt af ved sin tjeneste med begivenheder som prædikenen om sletten og dens saligprisninger, og hans lidenskab, død og opstandelse.
 
 De fleste moderne forskere er enige om, at de vigtigste kilder, der blev brugt til Lukas, var a), Markusevangeliet, b), en hypotetisk ordsprogsamling kaldet Q-kilden, og c), materiale, der ikke findes i andre evangelier, ofte omtalt som L ( for Luke) kilde. Forfatteren er anonym; den traditionelle opfattelse, at det var evangelisten Lukas, Paulus' ledsager, fremføres stadig af og til, men den videnskabelige konsensus understreger de mange modsætninger mellem Apostlenes Gerninger og de autentiske Paulinske breve. Den mest sandsynlige dato for dens sammensætning er omkring 80-110 e.Kr., og der er tegn på, at den stadig blev revideret langt ind i det 2. århundrede.

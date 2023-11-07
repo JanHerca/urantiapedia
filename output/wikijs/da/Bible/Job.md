@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jobs Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Jobs Bog (/dʒoʊb/; bibelsk hebraisk: אִיּוֹב, romaniseret: ʾIyyōḇ), eller blot Job, adresserer teodicéen, hvorfor Gud tillader ondskab i verden, gennem erfaringerne fra den eponyme hovedperson. Job er en rig og gudfrygtig mand med et behageligt liv og en stor familie; Efter at Gud har bedt Satan (הַשָּׂטָן, haśśāṭān, 'lit. 'anklageren'') om hans mening om Jobs fromhed, beslutter han at tage Jobs rigdom, familie og materielle bekvemmeligheder fra sig, efter Satans anklage om, at hvis Job blev gjort pengeløs og uden hans familie, ville han vende sig bort fra Gud. 
 
 Bogen findes i Ketuvim (“Skrifter”) sektionen i den hebraiske bibel (Tanakh), og er den første af de poetiske bøger i Det Gamle Testamente i den kristne bibel. Forskere er generelt enige om, at det blev skrevet mellem det 7. og 4. århundrede fvt. 

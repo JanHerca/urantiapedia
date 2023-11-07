@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matthæusevangeliet</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Matthæusevangeliet er den første bog i Bibelens Nye Testamente og et af de tre synoptiske evangelier. Den fortæller, hvordan Israels Messias, Jesus, kommer til sit folk og danner et fællesskab af disciple, om hvordan han underviste folket gennem sådanne begivenheder som bjergprædikenen og dens saligprisninger, og hvordan Israel bliver splittet, og hvordan Jesus fordømmer dette fjendtlige Israel. . Dette kulminerer i hans afgang fra templet og hans henrettelse. På dette tidspunkt afviser mange mennesker Jesus, og ved sin opstandelse sender han disciplene til hedningerne.
 
 Matthæus synes at understrege, at den jødiske tradition ikke bør gå tabt i en kirke, der i stigende grad blev hedning. Evangeliet afspejler kampene og konflikterne mellem evangelistens samfund og de andre jøder, især med dets skarpe kritik af de skriftkloge og farisæerne med den holdning, at Guds rige gennem deres forkastelse af Kristus er blevet taget fra dem og i stedet givet til dem. kirken. Jesu guddommelige natur var et stort spørgsmål for det mathæiske samfund, det afgørende element, der adskilte de tidlige kristne fra deres jødiske naboer; mens Markus begynder med Jesu dåb og fristelser, går Matthæus tilbage til Jesu oprindelse og viser ham som Guds søn fra hans fødsel, opfyldelsen af ​​messianske profetier i Det Gamle Testamente. Titlen Davids søn identificerer Jesus som Israels helbredende og mirakelvirkende Messias (den bruges udelukkende i relation til mirakler), sendt til Israel alene. Som Menneskesøn vil han vende tilbage for at dømme verden, en forventning som hans disciple genkender, men som hans fjender er uvidende om. Som Guds søn åbenbarer Gud sig selv gennem sin søn, og Jesus beviser sit sønskab gennem sin lydighed og eksempel.

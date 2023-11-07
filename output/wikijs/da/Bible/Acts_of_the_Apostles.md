@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apostlenes Gerninger</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Apostlenes Gerninger (Koinē græsk: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latin: Actūs Apostolōrum) er den femte bog i Det Nye Testamente; den fortæller om grundlæggelsen af ​​den kristne kirke og udbredelsen af ​​dens budskab til Romerriget. Den giver en beretning om Kristi apostles virke og virke i Jerusalem og andre områder efter Kristi død, opstandelse og himmelfart.
 
 Apostelgerninger og Lukasevangeliet udgør et todelt værk, Lukas-Apostelgerninger, af den samme anonyme forfatter. Det er normalt dateret til omkring 80-90 e.Kr., selvom nogle forskere foreslår 90-110. Den første del, Lukasevangeliet, fortæller, hvordan Gud opfyldte sin plan for verdens frelse gennem livet, døden og opstandelsen af ​​Jesus fra Nazareth, den lovede messias. Apostelgerninger fortsætter historien om kristendommen i det 1. århundrede, begyndende med Jesu himmelfart til himlen. De tidlige kapitler, der ligger i Jerusalem, beskriver pinsedagen (Helligåndens komme) og væksten af ​​kirken i Jerusalem. I første omgang er jøderne modtagelige for det kristne budskab, men senere vender de sig mod Jesu tilhængere. Forkastet af jøderne bliver budskabet ført til hedningerne under ledelse af apostlen Paulus. De senere kapitler fortæller om Paulus' omvendelse, hans mission i Lilleasien og Det Ægæiske Hav og til sidst hans fængsling i Rom, hvor han, efterhånden som bogen slutter, afventer rettergang.

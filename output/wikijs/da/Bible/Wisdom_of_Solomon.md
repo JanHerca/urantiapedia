@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Visdommens Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Visdommens Bog, eller Salomons Visdom, er et jødisk værk skrevet på græsk og højst sandsynligt komponeret i Alexandria, Egypten. Generelt dateret til midten af ​​det første århundrede f.Kr., er det centrale tema for værket selve "visdommen", der optræder under to hovedaspekter. Det første aspekt er, i sin relation til menneskeheden, at visdom er fuldkommenheden af ​​viden om de retfærdige som en gave fra Gud, der viser sig i handling. Det andet aspekt er, i direkte relation til Gud, visdom er hos Gud fra al evighed. Det er en af ​​de syv Sapiential- eller visdomsbøger i Septuaginta, de andre er Salmer, Ordsprog, Prædikeren, Højsangen (Salomons højsang), Job og Sirach. Det er inkluderet i den katolske kirkes og den østlige ortodokse kirkes kanoner. De fleste protestanter betragter det som en del af apokryferne. 
 
 ## Index

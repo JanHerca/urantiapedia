@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Klagesangene</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Klagesangen (hebraisk: אֵיכָה, ʾĒḵā, fra dens indledende betydning "hvordan") er en samling poetiske klagesange over ødelæggelsen af ​​Jerusalem i 586 fvt. I den hebraiske bibel optræder det i Ketuvim (“Skrifter”) som en af ​​de Fem Megillot (eller “Fem skriftruller”) sammen med Højsangen, Ruths Bog, Prædikeren og Esters Bog, selvom der ikke er nogen fast rækkefølge. I det kristne Gamle Testamente følger den Jeremias' Bog, da profeten Jeremias er dens traditionelle forfatter. Men ifølge moderne lærdom, mens Babylons ødelæggelse af Jerusalem i 586/7 fvt. danner baggrunden for digtene, er de sandsynligvis ikke skrevet af Jeremias. Mest sandsynligt er hvert af bogens kapitler skrevet af en anden anonym digter, og de blev derefter sat sammen for at danne bogen.
 
 Nogle motiver af en traditionel mesopotamisk "by-klagesang" er tydelige i denne bog, såsom at sørge over, at Gud har forladt byen, dens ødelæggelse og den endelige tilbagevenden af ​​guddommeligheden; andre "parallelt med den begravelsessorg, hvor de efterladte jamrer ... og ... henvender sig til de [døde]". Tonen er dyster: Gud taler ikke, graden af ​​lidelse præsenteres som overvældende, og forventningerne til fremtidig forløsning er minimale. Ikke desto mindre gør forfatteren gentagne gange klart, at byen (og endda forfatteren selv) havde syndet voldsomt mod Gud, hvilket Gud havde reageret kraftigt på. Ved at gøre det bebrejder forfatteren ikke Gud, men præsenterer ham snarere som retfærdig, retfærdig og nogle gange endda som barmhjertig.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ordsprogenes Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Ordsprogenes Bog (hebraisk: מִשְלֵי, Mīšlē, "Ordsprogene (af Salomon)") er en bog i den tredje sektion (kaldet Ketuvim) i den hebraiske bibel og en bog i det kristne Gamle Testamente. Når den blev oversat til græsk og latin, antog titlen forskellige former: i den græske Septuaginta (LXX) blev den til Παροιμίαι (Paroimiai, "Ordsprog"); i den latinske Vulgata var titlen Proverbia, hvoraf det engelske navn er afledt.
 
 Ordsprogene er ikke blot en antologi, men en "samling af samlinger", der vedrører et livsmønster, som varede i mere end et årtusinde. Det er et eksempel på den bibelske visdomslitteratur og rejser spørgsmål om værdier, moralsk adfærd, meningen med menneskelivet og rigtig adfærd, og dens teologiske grundlag er, at "gudsfrygten (som betyder underkastelse til Guds vilje) er visdommens begyndelse”. Visdommen hyldes for sin rolle i skabelsen; Gud erhvervede hende før alt andet, og gennem hende gav han orden til kaos; og da mennesker har liv og velstand ved at tilpasse sig skabelsens orden, er det at søge visdom livets essens og mål. 

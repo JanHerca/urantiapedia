@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tobits Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Tobits Bog (/ˈtoʊbɪt/), også kendt som Tobias Bog eller Tobis Bog, er et jødisk værk fra det 3. eller tidlige 2. århundrede f.Kr., der beskriver, hvordan Gud tester de troende, reagerer på bønner og beskytter pagtssamfundet ( dvs. israelitterne). Den fortæller historien om to israelitiske familier, den om den blinde Tobit i Nineve og om den forladte Sara i Ecbatana. Tobits søn Tobias bliver sendt for at hente ti sølvtalenter, som Tobit engang efterlod i Rages, en by i Media; guidet og hjulpet af englen Raphael ankommer han til Ecbatana, hvor han møder Sarah. En dæmon ved navn Asmodeus er blevet forelsket i hende og dræber enhver hun har tænkt sig at gifte sig med, men med hjælp fra Raphael bliver dæmonen uddrevet og Tobias og Sarah gifter sig, hvorefter de vender tilbage til Nineve, hvor Tobit bliver helbredt for sin blindhed.
 
 Bogen er inkluderet i den katolske og ortodokse kanon, men ikke i den jødiske; den protestantiske tradition placerer det i apokryferne, hvor anabaptister, lutheranere, anglikanere og metodister anerkender det som nyttigt med henblik på opbyggelse og liturgi, om end ikke-kanonisk i status. Langt de fleste forskere anerkender det som et skønlitterært værk med nogle historiske referencer. 

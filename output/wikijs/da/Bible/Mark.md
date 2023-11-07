@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Markusevangeliet</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Markusevangeliet er det andet af de fire kanoniske evangelier og af de tre synoptiske evangelier. Den fortæller om Jesu tjeneste fra hans dåb af Johannes Døberen til hans død, begravelse og opdagelsen af ​​hans tomme grav. Der er ingen mirakuløs fødsel eller doktrin om guddommelig præ-eksistens, ej heller, i den oprindelige slutning (Mark 16:1-8), nogen tilsynekomster af Jesus efter opstandelsen. Den skildrer Jesus som en lærer, en eksorcist, en healer og en mirakelmager. Han omtaler sig selv som Menneskesønnen. Han kaldes Guds søn, men holder sin messianske natur hemmelig; selv hans disciple forstår ham ikke. Alt dette er i overensstemmelse med den kristne fortolkning af profeti, som menes at forudsige messias' skæbne som lidende tjener. Evangeliet slutter i sin originale version med opdagelsen af ​​den tomme grav,
 
 De fleste lærde daterer Mark til ca. 66–74 e.Kr., enten kort før eller efter ødelæggelsen af ​​det andet tempel i 70 e.Kr. De afviser den traditionelle tilskrivning til Markus Evangelisten, apostlen Peters følgesvend, som formentlig er opstået af de tidlige kristnes ønske om at knytte værket til en autoritativ figur, og mener, at det er værket af en forfatter, der arbejder med forskellige kilder, bl.a. samlinger af mirakelhistorier, kontrovershistorier, lignelser og en passionsfortælling. Det blev traditionelt placeret som nummer to, og nogle gange fjerde, i den kristne kanon, som en ringere forkortelse af det, der blev betragtet som det vigtigste evangelium, Matthæus; Kirken har følgelig hentet sit syn på Jesus primært fra Matthæus, sekundært fra Johannes og kun fjernt fra Markus.

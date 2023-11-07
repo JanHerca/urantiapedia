@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Josvabogen</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Josvas Bog (hebraisk: ספר יהושע Sefer Yehoshua) er den sjette bog i den hebraiske bibel og det kristne Gamle Testamente, og er den første bog i den deuteronomistiske historie, historien om Israel fra erobringen af ​​Kanaan til det babyloniske eksil. Den fortæller om israelitternes felttog i det centrale, sydlige og nordlige Kanaan, ødelæggelsen af ​​deres fjender og opdelingen af ​​landet blandt de tolv stammer, indrammet af to faste taler, den første af Gud, der befalede erobringen af land, og til sidst den anden af ​​Josva, der advarede om behovet for trofast overholdelse af loven (torah) åbenbaret for Moses.
 
 Næsten alle forskere er enige om, at Josvas Bog har ringe historisk værdi for det tidlige Israel og højst sandsynligt afspejler en meget senere periode. De tidligste dele af bogen er muligvis kapitel 2-11, historien om erobringen; disse kapitler blev senere indarbejdet i en tidlig form af Joshua, sandsynligvis skrevet sent i kong Josias' regeringstid (regerede 640-609 f.v.t.), men bogen blev ikke færdig før efter Jerusalems fald til det ny-babylonske imperium i 586 fvt. og muligvis først efter hjemkomsten fra det babyloniske eksil i 539 fvt.

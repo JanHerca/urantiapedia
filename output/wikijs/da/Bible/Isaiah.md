@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Esajas' Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Esajas' Bog (hebraisk: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) er den første af de sidste profeter i den hebraiske bibel og den første af de store profeter i det kristne Gamle Testamente. Det er identificeret med en overskrift som ordene fra profeten Esajas ben Amoz fra det 8. århundrede fvt, men der er omfattende beviser for, at meget af det blev sammensat under det babyloniske fangenskab og senere. Johann Christoph Döderlein foreslog i 1775, at bogen indeholdt værker af to profeter adskilt af mere end et århundrede, og Bernhard Duhm opstod den opfattelse, holdt som konsensus gennem det meste af det 20. århundrede, at bogen omfatter tre separate samlinger af orakler: Proto-Esajas (kapitel 1-39), der indeholder ordene fra profeten Esajas fra det 8. århundrede fvt; Deutero-Esajas (kapitel 40-55), værket af en anonym forfatter fra det 6. århundrede fvt, der skrev under eksilet; og Trito-Esajas (kapitel 56-66), komponeret efter hjemkomsten fra eksil. Esajas 1-33 lover dom og genoprettelse for Juda, Jerusalem og nationerne, og kapitlerne 34-66 antager, at dommen er blevet afsagt, og genoprettelse følger snart. Mens stort set ingen forskere i dag tilskriver hele bogen, eller endda det meste af den, til én person, er bogens væsentlige enhed blevet et fokus i nyere forskning.
 
 Bogen kan læses som en udvidet meditation over Jerusalems skæbne ind i og efter eksilet. Den deutero-isaiske del af bogen beskriver, hvordan Gud vil gøre Jerusalem til centrum for sit verdensomspændende styre gennem en kongelig frelser (en messias), som vil ødelægge undertrykkeren (Babylon); denne messias er den persiske konge Kyros den Store, som blot er den agent, der bevirker Yahwehs kongedømme. Esajas taler imod korrupte ledere og for de dårligt stillede, og rodfæster retfærdighed i Guds hellighed frem for i Israels pagt.

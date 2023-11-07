@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezekiels Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Ezekiels Bog er den tredje af de sidste profeter i Tanakh og en af ​​de vigtigste profetiske bøger efter Esajas og Jeremias. Ifølge selve bogen optegner den seks syner af profeten Ezekiel, som var landsforvist i Babylon, i løbet af de 22 år fra 593 til 571 f.v.t., selvom den er et produkt af en lang og kompleks historie og ikke nødvendigvis bevarer selve ord profet.
 
 Visionerne og bogen er struktureret omkring tre temaer: (1) Dommen over Israel (kapitel 1-24); (2) Dom over nationerne (kapitel 25-32); og (3) Fremtidige velsignelser for Israel (kapitel 33-48). Dens temaer omfatter begreberne om Guds tilstedeværelse, renhed, Israel som et guddommeligt fællesskab og individuelt ansvar over for Gud. Dens senere indflydelse har omfattet udviklingen af ​​mystiske og apokalyptiske traditioner i Andet Tempel og rabbinsk jødedom og kristendom. 

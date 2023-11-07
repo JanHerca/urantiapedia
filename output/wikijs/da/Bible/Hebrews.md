@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hebræerbrevet</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Brevet til hebræerne (oldgræsk: Πρὸς Ἑβραίους, romaniseret: Pros Hebraious, lit. 'til hebræerne') er en af ​​bøgerne i Det Nye Testamente.
 
 Teksten nævner ikke navnet på dens forfatter, men blev traditionelt tilskrevet apostlen Paulus. De fleste af de antikke græske manuskripter, det gamle syriske Peshitto og nogle af de gamle latinske manuskripter har brevet til hebræerne blandt Paulus' breve. Tvivl om det paulinske forfatterskab i den romerske kirke rapporteres dog af Eusebius. Moderne bibelvidenskab betragter sit forfatterskab som ukendt, skrevet i bevidst efterligning af Paulus' stil, med nogle hævder, at det var forfattet af Priscilla og Aquila.

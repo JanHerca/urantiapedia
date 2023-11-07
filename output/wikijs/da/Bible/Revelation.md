@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Johannes' Åbenbaring</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Åbenbaringens Bog er den sidste bog i Det Nye Testamente (og dermed den sidste bog i den kristne bibel). Dens titel er afledt af det første ord i den græske Koine-tekst: apokalypsis, der betyder "afsløring" eller "åbenbaring". Åbenbaringens Bog er den eneste apokalyptiske bog i Det Nye Testamentes kanon. Den indtager en central plads i den kristne eskatologi.
 
 Forfatteren navngiver sig selv som "John" i teksten, men hans præcise identitet forbliver et punkt for akademisk debat. Kristne forfattere fra det andet århundrede som Papias af Hierapolis, Justin Martyr, Irenæus, Melito af Sardis, Clement af Alexandria og forfatteren af ​​det muratoriske fragment identificerer Johannes Apostlen som Åbenbaringens "Johannes". Moderne videnskab har generelt en anden opfattelse, hvor mange overvejer, at intet kan vides om forfatteren, bortset fra at han var en kristen profet. Moderne teologiske forskere karakteriserer Åbenbaringsbogens forfatter som "Johannes af Patmos". Størstedelen af ​​traditionelle kilder daterer bogen til den romerske kejser Domitians regeringstid (81-96 e.Kr.), hvilket beviser har tendens til at bekræfte.

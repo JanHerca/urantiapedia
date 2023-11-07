@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Manasses Bøn</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Manasses bøn, også kendt som Manasses bøn, er et kort værk på 15 vers, der optager en bodsbøn, der tilskrives kong Manasse af Juda. Flertallet af forskere mener, at Manasses bøn blev skrevet på græsk (mens et mindretal argumenterer for en semitisk original) i det andet eller første århundrede f.Kr. Det erkendes, at det også kunne være skrevet i første halvdel af det 1. århundrede e.Kr., men under alle omstændigheder før ødelæggelsen af ​​det andet tempel i 70 e.Kr. Et andet værk med samme titel, skrevet på hebraisk, blev fundet blandt Dødehavsrullerne (4Q381:17).
 
 Manasse er nedskrevet i Bibelen som en af ​​Judas mest afgudsdyrkende konger (2 Kong 21:1-18; 2 Krønikebog 33:1-9). Den anden Krønikebog, men ikke den anden Kongebog, fortæller, at Manasse blev taget til fange af assyrerne (2 Krønikebog 33:11-13). Mens han var fange, bad Manasse om barmhjertighed, og efter at være blevet befriet og genoprettet til tronen vendte han sig fra sine afgudsdyrkende veje (2 Krøn 33:15-17). En henvisning til bønnen, men ikke selve bønnen, er lavet i 2 Krønikebog 33:19, som siger, at bønnen er skrevet i "Israels kongers annaler".

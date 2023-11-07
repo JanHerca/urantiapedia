@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Salmernes Bog</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Salmernes Bog (/sɑːmz/ SAHMZ eller /sɔː(l)mz/ SAW(L)MZ; hebraisk: תְּהִלִּים, Tehillim, bogstavelig talt "lovprisninger"), også kendt som Salmerne, eller Salmer, er den første bog af Ketuvim ("Skrifter"), tredje afsnit af Tanakh og en bog fra Det Gamle Testamente. Titlen er afledt af den græske oversættelse, ψαλμοί (psalmoi), der betyder "instrumental musik" og i forlængelse heraf "ordene, der ledsager musikken". Bogen er en antologi af individuelle hebraiske religiøse salmer, med 150 i den jødiske og vestlige kristne tradition og flere i de østlige kristne kirker. Mange er knyttet til Davids navn, men moderne videnskab afviser hans forfatterskab og tilskriver i stedet salmernes sammensætning til forskellige forfattere, der skriver mellem det 9. og 5. århundrede f.Kr. 
 
 ## Index

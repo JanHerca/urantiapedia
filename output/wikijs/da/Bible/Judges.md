@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Dommerbogen</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Dommernes Bog (ספר שופטים, Sefer Shoftim) er den syvende bog i den hebraiske bibel og det kristne Gamle Testamente. I fortællingen om den hebraiske bibel dækker den tiden mellem erobringen beskrevet i Josvas Bog og oprettelsen af et rige i Samuelsbøgerne, hvor bibelske dommere fungerede som midlertidige ledere. Historierne følger et gennemgående mønster: folket er utro mod Jahve; han overgiver dem derfor i deres fjenders hænder; folket omvender sig og beder Jahve om barmhjertighed, som han sender i form af en leder eller mester (en "dommer"; se shophet); dommeren udfrier israelitterne fra undertrykkelse, og de har fremgang, men snart falder de igen i utroskab, og cyklussen gentages. Forskere anser mange af historierne i Dommere for at være de ældste i den deuteronomistiske historie, med deres store redaktion dateret til det 8. århundrede fvt og med materialer som Deboras højsang, der stammer fra meget tidligere.
 
 ## Index

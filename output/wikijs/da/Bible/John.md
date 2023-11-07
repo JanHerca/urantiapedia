@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLEN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Danish Bible, 1933</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Johannesevangeliet</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivelse
+
+
 Johannesevangeliet (oldgræsk: Εὐαγγέλιον κατὰ Ἰωάννην, romaniseret: Euangélion katà Iōánnēn) er det fjerde af de fire kanoniske evangelier. Den indeholder en meget skematisk beretning om Jesu tjeneste, med syv "tegn", der kulminerer i opstandelsen af ​​Lazarus (foreskygger Jesu opstandelse) og syv "jeg er"-diskurser (beskæftiget med spørgsmål om kirke-synagoge-debatten på det tidspunkt af komposition) kulminerede med Thomas' proklamation af den opstandne Jesus som "min Herre og min Gud". Evangeliets afsluttende vers beskriver dets formål, "at I må tro, at Jesus er Kristus, Guds Søn, og at I ved at tro kan have liv i hans navn."
 
 John nåede sin endelige form omkring 90-110 e.Kr., selvom den indeholder tegn på oprindelse, der går tilbage til 70 e.Kr. og muligvis endnu tidligere. Ligesom de tre andre evangelier er den anonym, selvom den identificerer en unavngiven "discipel, som Jesus elskede" som kilden til dens traditioner. Det er højst sandsynligt opstået inden for et "Johanninsk fællesskab", og - da det i stil og indhold er tæt beslægtet med de tre Johannesbreve - behandler de fleste lærde de fire bøger, sammen med Åbenbaringsbogen, som et enkelt korpus af Johannes litteratur, dog ikke fra samme forfatter. 
