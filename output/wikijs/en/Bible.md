@@ -16,18 +16,18 @@ Every biblical book has a web page dedicated to it, and there is a page for each
 
 The Bible does not contain the same books for different faiths. Since _The Urantia Book_ does not disparage any religious text, and mentions books considered apocryphal, such as _The Book of Enoch_, Urantiapedia will try to make an effort to include without exception all biblical and extra-biblical books whenever they have some usefulness in understanding _The Urantia Book_.
 
-The Bible is being added to Urantiapedia so that all specific citations and any other parallel texts from _The Urantia Book_ are cross-referenced between the two texts. This cross-reference list has been based on the wonderful work of a reader, Duane L. Faw, who has compiled the references into a publication called ([Paramony](https://urantia-book.org/urantiabook/paramony/) ).
+The Bible is being added to Urantiapedia so that all specific citations and any other parallel texts from _The Urantia Book_ are cross-referenced between the two texts. This cross-reference list has been based on the wonderful work of a reader, Duane L. Faw, who has compiled the references into a publication called [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
 This and other information about how the Bible is organized in the project can be found in [Urantiapedia Help](/en/help/content).
 
 ## List of Bible books
 
-Here is a provisional list of biblical and extra-biblical books to be included:
+Here is the list of biblical and extra-biblical books included for now:
 
 - [The Bible - Index](/en/index/bible)
 
 
-### Old Testament
+## Old Testament
 
 
 - [Genesis](/en/Bible/Genesis)
@@ -77,7 +77,7 @@ Here is a provisional list of biblical and extra-biblical books to be included:
 - [Zechariah](/en/Bible/Zechariah)
 - [Malachi](/en/Bible/Malachi)
 
-### New Testament
+## New Testament
 
 - [Matthew](/en/Bible/Matthew)
 - [Mark](/en/Bible/Mark)
@@ -107,7 +107,7 @@ Here is a provisional list of biblical and extra-biblical books to be included:
 - [Jude](/en/Bible/Jude)
 - [Revelation](/en/Bible/Revelation)
 
-### Non canonical texts
+## Non canonical texts
 
 - [Bel and the Dragon](/en/Bible/Bel_and_the_Dragon)
 - [Prayer of Manesseh](/en/Bible/Prayer_of_Manesseh)
