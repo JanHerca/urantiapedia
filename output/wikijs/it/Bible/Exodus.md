@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Esodo</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro dell'Esodo (dal greco antico: Ἔξοδος, romanizzato: Éxodos; ebraico: שְׁמוֹת Šəmōṯ, "Nomi") è il secondo libro della Bibbia. Racconta la storia dell'Esodo, in cui gli israeliti lasciano la schiavitù nell'Egitto biblico per la forza di Yahweh, che li ha scelti come suo popolo. Gli israeliti si recano quindi con il profeta Mosè al monte Sinai, dove Yahweh dà i 10 comandamenti e stipulano un'alleanza con Yahweh, che promette di farne una "nazione santa e un regno di sacerdoti" a condizione della loro fedeltà. Dà loro le leggi e le istruzioni per costruire il Tabernacolo, il mezzo attraverso il quale verrà dal cielo e abiterà con loro e li guiderà in una guerra santa per possedere la terra di Canaan (la "Terra Promessa"), che in precedenza, secondo la storia della Genesi, fu promesso alla discendenza di Abramo.
 
 Tradizionalmente attribuita allo stesso Mosè, gli studiosi moderni vedono la sua composizione iniziale come un prodotto dell'esilio babilonese (VI secolo a.C.), basata su precedenti fonti scritte e tradizioni orali, con revisioni finali nel periodo post-esilio persiano (V secolo a.C.). Carol Meyers, nel suo commento all'Esodo, suggerisce che si tratta senza dubbio del libro più importante della Bibbia, poiché presenta i tratti distintivi dell'identità di Israele: ricordi di un passato segnato da difficoltà e fuga, un patto vincolante con Dio, che sceglie Israele, e l'instaurazione della vita della comunità e le linee guida per sostenerla. Il consenso tra gli studiosi moderni è che la storia nel Libro dell'Esodo sia meglio compresa come un mito. 

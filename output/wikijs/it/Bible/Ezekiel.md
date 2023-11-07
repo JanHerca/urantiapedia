@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezechiele</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Ezechiele è il terzo degli Ultimi Profeti nel Tanakh e uno dei maggiori libri profetici, dopo Isaia e Geremia. Secondo il libro stesso, registra sei visioni del profeta Ezechiele, esiliato a Babilonia, durante i 22 anni dal 593 al 571 a.C., sebbene sia il prodotto di una storia lunga e complessa e non conservi necessariamente le stesse parole del profeta.
 
 Le visioni e il libro sono strutturati intorno a tre temi: (1) Giudizio su Israele (capitoli 1–24); (2) Giudizio sulle nazioni (capitoli 25–32); e (3) Benedizioni future per Israele (capitoli 33–48). I suoi temi includono i concetti di presenza di Dio, purezza, Israele come comunità divina e responsabilità individuale verso Dio. La sua successiva influenza ha incluso lo sviluppo di tradizioni mistiche e apocalittiche nel Secondo Tempio e l'ebraismo rabbinico e il cristianesimo. 

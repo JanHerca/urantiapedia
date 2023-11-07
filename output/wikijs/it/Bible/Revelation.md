@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apocalisse</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 L'Apocalisse è l'ultimo libro del Nuovo Testamento (e di conseguenza l'ultimo libro della Bibbia cristiana). Il suo titolo deriva dalla prima parola del testo greco koine: apokalypsis, che significa “svelamento” o “rivelazione”. L'Apocalisse è l'unico libro apocalittico nel canone del Nuovo Testamento. Occupa un posto centrale nell'escatologia cristiana.
 
 L'autore si autodefinisce “John” nel testo, ma la sua precisa identità resta un punto di dibattito accademico. Scrittori cristiani del II secolo come Papia di Hierapolis, Giustino martire, Ireneo, Melito di Sardi, Clemente di Alessandria e l'autore del frammento muratoriano identificano Giovanni Apostolo come il "Giovanni" della Rivelazione. Gli studiosi moderni generalmente hanno una visione diversa, con molti che ritengono che nulla si possa sapere sull'autore tranne che era un profeta cristiano. I moderni studiosi di teologia definiscono l'autore dell'Apocalisse come “Giovanni di Patmos”. La maggior parte delle fonti tradizionali fa risalire il libro al regno dell'imperatore romano Domiziano (81–96 d.C.), cosa che le prove tendono a confermare.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Giobbe</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Giobbe (/dʒoʊb/; ebraico biblico: אִיּוֹב, romanizzato: ʾIyyōḇ), o semplicemente Giobbe, affronta la teodicea, perché Dio permette il male nel mondo, attraverso le esperienze dell'omonimo protagonista. Giobbe è un uomo ricco e timorato di Dio, con una vita agiata e una famiglia numerosa; Dio, dopo aver chiesto a Satana (הַשָּׂטָן, haśśāṭān, 'lett. 'l'accusatore'') la sua opinione sulla pietà di Giobbe, decide di sottrarre a Giobbe le ricchezze, le comodità familiari e materiali, in seguito all'accusa di Satana che se Giobbe fosse stato reso senza un soldo e senza i suoi famiglia, si sarebbe allontanato da Dio. 
 
 Il libro si trova nella sezione Ketuvim ("Scritti") della Bibbia ebraica (Tanakh), ed è il primo dei libri poetici nell'Antico Testamento della Bibbia cristiana. Gli studiosi sono generalmente d'accordo sul fatto che sia stato scritto tra il VII e il IV secolo a.C. 

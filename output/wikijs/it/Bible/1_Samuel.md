@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">I Samuele</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Samuele (in ebraico: ספר שמואל, Sefer Shmuel) è un libro della Bibbia ebraica, che si trova come due libri (1–2 Samuele) nell'Antico Testamento cristiano. Il libro fa parte della storia narrativa dell'antico Israele chiamata Storia deuteronomistica, una serie di libri (Giosuè, Giudici, Samuele e Re) che costituiscono una storia teologica degli israeliti e che mirano a spiegare la legge di Dio per Israele sotto la guida dei profeti. 
 
 Secondo la tradizione ebraica, il libro è stato scritto da Samuele, con aggiunte dai profeti Gad e Nathan, che insieme sono tre profeti che erano apparsi in 1 Cronache durante il racconto del regno di Davide. Il pensiero accademico moderno postula che l'intera storia deuteronomistica sia stata composta intorno al 630–540 aEV combinando una serie di testi indipendenti di varie epoche.

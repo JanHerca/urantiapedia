@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Isaia</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Isaia (in ebraico: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) è il primo degli Ultimi Profeti nella Bibbia ebraica e il primo dei Profeti Maggiori nell'Antico Testamento cristiano. È identificato da una soprascritta come le parole del profeta Isaia ben Amoz dell'VIII secolo aEV, ma ci sono ampie prove che gran parte di esso sia stato composto durante la cattività babilonese e successivamente. Johann Christoph Döderlein suggerì nel 1775 che il libro contenesse le opere di due profeti separati da più di un secolo, e Bernhard Duhm diede origine all'opinione, mantenuta come consenso per la maggior parte del XX secolo, che il libro comprendesse tre raccolte separate di oracoli: Proto-Isaia (capitoli 1–39), contenente le parole del profeta Isaia dell'VIII secolo aEV; Deutero-Isaia (capitoli 40–55), l'opera di un autore anonimo del VI secolo a.C. che scrive durante l'esilio; e Trito-Isaia (capitoli 56–66), composto dopo il ritorno dall'esilio. Isaia 1–33 promette giudizio e restaurazione per Giuda, Gerusalemme e le nazioni, e i capitoli 34–66 presumono che il giudizio sia stato pronunciato e che la restaurazione segua presto. Sebbene praticamente nessuno studioso oggi attribuisca l'intero libro, o anche la maggior parte di esso, a una persona, l'unità essenziale del libro è diventata un punto focale nelle ricerche più recenti.
 
 Il libro può essere letto come un'estesa meditazione sul destino di Gerusalemme dentro e dopo l'esilio. La parte deuteroisaia del libro descrive come Dio farà di Gerusalemme il centro del suo dominio mondiale attraverso un salvatore reale (un messia) che distruggerà l'oppressore (Babilonia); questo messia è il re persiano Ciro il Grande, che è semplicemente l'agente che determina la regalità di Yahweh. Isaia parla contro i capi corrotti ea favore degli svantaggiati, e radica la giustizia nella santità di Dio piuttosto che nel patto di Israele.

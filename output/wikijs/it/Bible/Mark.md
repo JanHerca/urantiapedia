@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Marco</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Vangelo di Marco è il secondo dei quattro vangeli canonici e dei tre sinottici. Racconta il ministero di Gesù dal suo battesimo da parte di Giovanni Battista alla sua morte, sepoltura e scoperta della sua tomba vuota. Non c'è nascita miracolosa o dottrina della preesistenza divina, né, nel finale originale (Marco 16:1–8), alcuna apparizione di Gesù dopo la risurrezione. Ritrae Gesù come un insegnante, un esorcista, un guaritore e un operatore di miracoli. Si riferisce a se stesso come il Figlio dell'uomo. È chiamato Figlio di Dio, ma mantiene segreta la sua natura messianica; anche i suoi discepoli non lo capiscono. Tutto ciò è in armonia con l'interpretazione cristiana della profezia, che si ritiene preveda il destino del messia come servo sofferente. Il vangelo si conclude, nella sua versione originaria, con il ritrovamento della tomba vuota,
 
 La maggior parte degli studiosi datano Marco al c. 66–74 d.C., poco prima o dopo la distruzione del Secondo Tempio nel 70 d.C. Rifiutano la tradizionale attribuzione a Marco Evangelista, compagno dell'apostolo Pietro, probabilmente nata dal desiderio dei primi cristiani di legare l'opera a una figura autorevole, e ritengono che sia opera di un autore che collabora con diverse fonti tra cui raccolte di storie di miracoli, storie di controversie, parabole e una narrazione di passione. Era tradizionalmente collocato secondo, e talvolta quarto, nel canone cristiano, come compendio inferiore di quello che era considerato il vangelo più importante, Matteo; la Chiesa ha di conseguenza derivato la sua visione di Gesù principalmente da Matteo, secondariamente da Giovanni e solo lontanamente da Marco.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Atti degli Apostoli</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Gli Atti degli Apostoli (Koinē greco: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latino: Actūs Apostolōrum) è il quinto libro del Nuovo Testamento; racconta la fondazione della Chiesa cristiana e la diffusione del suo messaggio all'Impero Romano. Dà un resoconto del ministero e dell'attività degli apostoli di Cristo a Gerusalemme e in altre regioni, dopo la morte, risurrezione e ascensione di Cristo.
 
 Atti e Vangelo di Luca costituiscono un'opera in due parti, Luca-Atti, dello stesso autore anonimo. Di solito è datato intorno all'80–90 d.C., anche se alcuni studiosi suggeriscono 90–110. La prima parte, il Vangelo di Luca, racconta come Dio ha realizzato il suo disegno per la salvezza del mondo attraverso la vita, la morte e la risurrezione di Gesù di Nazaret, il promesso messia. Atti continua la storia del cristianesimo nel I secolo, a cominciare dall'ascensione di Gesù al Cielo. I primi capitoli, ambientati a Gerusalemme, descrivono il giorno di Pentecoste (la venuta dello Spirito Santo) e la crescita della chiesa a Gerusalemme. Inizialmente, gli ebrei sono ricettivi al messaggio cristiano, ma in seguito si rivolgono contro i seguaci di Gesù. Rifiutato dagli ebrei, il messaggio viene portato ai pagani sotto la guida dell'apostolo Paolo. I capitoli successivi raccontano la conversione di Paolo, la sua missione in Asia Minore e nell'Egeo, e infine la sua prigionia a Roma, dove, alla fine del libro, attende il processo.

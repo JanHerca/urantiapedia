@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRIFI</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Baruc</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Baruch è un libro deuterocanonico della Bibbia, usato nella maggior parte delle tradizioni cristiane, come le chiese cattoliche e ortodosse. Nell'ebraismo e nel cristianesimo protestante, è considerato non parte del canone, con le Bibbie protestanti che lo classificano come parte degli apocrifi biblici. Il libro prende il nome da Baruch ben Neriah, il famoso scriba di Geremia, menzionato in Baruc 1:1, e si presume sia l'autore dell'intera opera. Il libro è una riflessione di un defunto scrittore ebreo sulle circostanze degli esiliati ebrei da Babilonia, con meditazioni sulla teologia e sulla storia di Israele, discussioni sulla saggezza e un discorso diretto ai residenti di Gerusalemme e della diaspora. Alcuni studiosi suggeriscono che sia stato scritto durante o subito dopo il periodo dei Maccabei.
 
 Il Libro di Baruch è talvolta indicato come 1 Baruch per distinguerlo da 2 Baruch, 3 Baruch e 4 Baruch.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matteo</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Vangelo di Matteo è il primo libro del Nuovo Testamento della Bibbia e uno dei tre Vangeli sinottici. Racconta come il Messia d'Israele, Gesù, viene dal suo popolo e forma una comunità di discepoli, di come ha insegnato al popolo attraverso eventi come il Discorso della Montagna e le sue Beatitudini, e come Israele si divide e come Gesù condanna questo Israele ostile . Ciò culmina con la sua partenza dal Tempio e la sua esecuzione. A questo punto molti rifiutano Gesù, e alla sua risurrezione manda i discepoli dai pagani.
 
 Matteo sembra sottolineare che la tradizione ebraica non dovrebbe perdersi in una chiesa che diventava sempre più gentile. Il vangelo riflette le lotte e i conflitti tra la comunità dell'evangelista e gli altri ebrei, in particolare con la sua aspra critica agli scribi e ai farisei con la posizione che attraverso il loro rifiuto di Cristo, il Regno di Dio è stato loro tolto e dato invece a la Chiesa. La natura divina di Gesù era una questione importante per la comunità mattea, l'elemento cruciale che separava i primi cristiani dai loro vicini ebrei; mentre Marco inizia con il battesimo e le tentazioni di Gesù, Matteo torna alle origini di Gesù, mostrandolo come Figlio di Dio fin dalla nascita, compimento delle profezie messianiche dell'Antico Testamento. Il titolo Figlio di Davide identifica Gesù come il Messia guaritore e taumaturgo d'Israele (è usato esclusivamente in relazione ai miracoli), inviato solo in Israele. Come Figlio dell'uomo tornerà a giudicare il mondo, un'attesa che i suoi discepoli riconoscono ma di cui i suoi nemici ignorano. Come Figlio di Dio, Dio si sta rivelando attraverso suo figlio e Gesù sta dimostrando la sua filiazione attraverso la sua obbedienza e il suo esempio.

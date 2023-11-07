@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">II Cronache</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro delle Cronache (in ebraico: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) è un libro della Bibbia ebraica, trovato come due libri (1–2 Cronache) nell'Antico Testamento cristiano. Cronache è l'ultimo libro della Bibbia ebraica, che conclude la terza sezione del Tanakh ebraico, il Ketuvim ("Scritti"). Contiene una genealogia che inizia con Adamo e una storia dell'antica Giuda e Israele fino all'Editto di Ciro nel 539 a.C.
 
 Il libro è stato diviso in due libri nella Settanta e tradotto a metà del III secolo aC. In contesti cristiani Chronicles è indicato al plurale come i Libri delle Cronache, dal nome latino Chronicon dato al testo da Girolamo, ma è anche raramente indicato con il loro nome greco come i Libri di Paralipomenon. Nelle Bibbie cristiane, di solito seguono i due Libri dei Re e precedono Esdra-Neemia, l'ultimo libro orientato alla storia dell'Antico Testamento protestante.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Neemia</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Neemia nella Bibbia ebraica, assume in gran parte la forma di un libro di memorie in prima persona sulla ricostruzione delle mura di Gerusalemme dopo l'esilio babilonese da parte di Neemia, un ebreo che è un alto funzionario alla corte persiana, e la dedica di la città e il suo popolo alle leggi di Dio (Torah). Dal XVI secolo è stato generalmente trattato come un libro separato all'interno della Bibbia. Prima di quella data era stato incluso nel Libro di Esdra; ma nelle Bibbie cristiane latine dal XIII secolo in poi, il Libro della Vulgata di Esdra era diviso in due testi, chiamati rispettivamente Primo e Secondo libro di Esdra; una separazione che fu canonizzata con le prime Bibbie stampate in ebraico e in latino. Le traduzioni della Bibbia protestante riformata della metà del XVI secolo prodotte a Ginevra furono le prime a introdurre il nome "Libro di Neemia" per il testo precedentemente chiamato "Secondo libro di Esdra".
 
 ## Index

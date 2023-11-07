@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">I Maccabei</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Primo Libro dei Maccabei, noto anche come Primi Maccabei (scritto abbreviato come 1 Maccabei o 1 Macc.), è un libro scritto in ebraico da un anonimo autore ebreo dopo la restaurazione di un regno ebraico indipendente dalla dinastia degli Asmonei, intorno al fine II secolo a.C. L'ebraico originale è andato perduto e la versione sopravvissuta più importante è la traduzione greca contenuta nella Settanta. Il libro è detenuto come scrittura canonica dalle chiese cattolica, ortodossa e ortodossa orientale (ad eccezione del Tewahedo ortodosso), ma non dalle denominazioni protestanti né da alcun ramo importante dell'ebraismo; non fa parte della Bibbia ebraica. Alcuni protestanti lo considerano un libro apocrifo (vedi anche libri deuterocanonici).
 
 1 Maccabei è meglio conosciuto per il resoconto di una prima vittoria nella rivolta dei Maccabei contro l'Impero Seleucide: la riconquista di Gerusalemme nell'anno 164 aC e la ridedicazione del Secondo Tempio - la narrazione dietro la festa ebraica di Hanukkah.

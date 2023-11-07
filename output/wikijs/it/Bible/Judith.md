@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBBIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Giuditta</text>
+	</g>
+</svg>
+</div>
+
+## Descrizione
+
+
 Il Libro di Giuditta è un libro deuterocanonico, incluso nella Settanta e nell'Antico Testamento cattolico e cristiano ortodosso orientale della Bibbia, ma escluso dal canone ebraico e assegnato dai protestanti agli apocrifi. Racconta di una vedova ebrea, Judith, che usa la sua bellezza e il suo fascino per distruggere un generale assiro e salvare Israele dall'oppressione. I manoscritti greci sopravvissuti contengono diversi anacronismi storici, motivo per cui alcuni studiosi protestanti ora considerano il libro non storico: una parabola, un romanzo teologico o forse il primo romanzo storico. Il nome Judith (ebraico: יְהוּדִית, moderno: Yehudit, tiberiano: Yəhûḏîṯ, "lodato" o "ebrea") è la forma femminile di Giuda. 
 
 ## Index
