@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">فيلمان</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 رساله فیلیمون یکی از کتابهای عهد جدید مسیحیان است. این نامه زندانی است که توسط پولس رسول به همراه تیموتائوس به فیلیمون، یکی از رهبران کلیسای کولوس نوشته شده است. به موضوعات بخشش و آشتی می پردازد. پولس خود را به عنوان یک رسول با اقتدار معرفی نمی کند، بلکه به عنوان «زندانی عیسی مسیح»، تیموتائوس را «برادر ما» می خواند، و فیلیمون را «همکار» و «برادر» خطاب می کند (فیلیمون 1: 1؛ 1: 7. 1:20). اونسیموس، برده‌ای که از اربابش فیلیمون جدا شده بود، با این رساله برمی‌گشت که در آن پولس از فیلیمون خواست تا او را به عنوان «برادر محبوب» بپذیرد (فیلیمون 1: 9-17).
 
 فیلیمون یک مسیحی ثروتمند، احتمالاً اسقف کلیسای خانگی بود که در خانه او گرد هم آمدند (فیلیمون 1: 1-2) در کولوس. این نامه اکنون به طور کلی به عنوان یکی از آثار بلامنازع پولس در نظر گرفته می شود. این نامه کوتاه ترین نامه موجود از پولس است که تنها از 335 کلمه در متن یونانی تشکیل شده است. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">آپوکریفا</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">دعای منسی</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 دعای منسی که به عنوان دعای منسی نیز شناخته می شود، اثری کوتاه 15 بیتی است که دعای توبه ای منسوب به منسی پادشاه یهودا را ثبت می کند. اکثریت محققین معتقدند که دعای منسی در قرن دوم یا اول قبل از میلاد به زبان یونانی (در حالی که اقلیت برای اصل سامی استدلال می کنند) نوشته شده است. به رسمیت شناخته شده است که همچنین می تواند در نیمه اول قرن اول پس از میلاد نوشته شده باشد، اما در هر صورت قبل از تخریب معبد دوم در سال 70 پس از میلاد. اثر دیگری با همین عنوان که به زبان عبری نوشته شده است، در میان طومارهای دریای مرده یافت شد (4Q381:17).
 
 منسی در کتاب مقدس به عنوان یکی از بت پرست ترین پادشاهان یهودا ثبت شده است (دوم پادشاهان 21:1-18؛ دوم تواریخ 33:1-9). در کتاب دوم تواریخ، اما نه در کتاب دوم پادشاهان، آمده است که منسی توسط آشوریان به اسارت درآمد (دوم تواریخ 33:11-13). منسی در حالی که زندانی بود برای رحمت دعا کرد و پس از آزادی و بازگشت به تاج و تخت از راه بت پرستی خود برگشت (دوم تواریخ 33: 15-17). اشاره به دعا، اما نه خود دعا، در دوم تواریخ 33:19 آمده است، که می گوید دعا در «سرگذشت پادشاهان اسرائیل» نوشته شده است.

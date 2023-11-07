@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">حزقيال</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب حزقیال سومین انبیای متأخر در طناخ و یکی از کتب بزرگ نبوی است که پس از اشعیا و ارمیا آمده است. طبق خود کتاب، شش رؤیا از حزقیال نبی تبعید شده در بابل را در طی 22 سال از 593 تا 571 ق.م. نبی - پیامبر.
 
 رؤیاها و کتاب حول سه موضوع ساختار یافته اند: (1) داوری در مورد اسرائیل (فصل 1-24). (2) داوری در مورد ملل (فصل 25-32). و (3) برکات آینده برای اسرائیل (فصل 33-48). مضامین آن شامل مفاهیم حضور خدا، پاکی، اسرائیل به عنوان یک جامعه الهی و مسئولیت فردی در برابر خداوند است. تأثیر بعدی آن شامل توسعه سنت های عرفانی و آخرالزمانی در معبد دوم و یهودیت و مسیحیت خاخام است. 

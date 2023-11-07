@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">روت</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب روت (به عبری: מגילת רות، مگیلات روت، "طومار روت"، یکی از پنج مگیلو) در بخش سوم یا نوشته ها (Ketuvim) کتاب مقدس عبری گنجانده شده است. در اکثر قوانین مسیحی به عنوان یکی از کتب تاریخی تلقی می شود و بین داوران و اول سموئیل قرار می گیرد.
 
 این کتاب که به زبان عبری در قرن‌های 6 تا 4 قبل از میلاد نوشته شده است، از روت زن موآبی می‌گوید که یهوه، خدای بنی‌اسرائیل را به عنوان خدای خود می‌پذیرد و قوم اسرائیل را به عنوان خدای خود می‌پذیرد. در روت 1:16-17، روت به نائومی، مادرشوهر اسرائیلی‌اش می‌گوید: «هر جا تو بروی، من خواهم رفت و هر جا که تو بمانی، من خواهم ماند. قوم تو قوم من خواهند بود و خدای تو خدای من. جایی که تو بمیری من خواهم مرد و در آنجا دفن خواهم شد. باشد که خداوند با من برخورد کند، چه سخت، اگر مرگ من و تو را از هم جدا کند.» 

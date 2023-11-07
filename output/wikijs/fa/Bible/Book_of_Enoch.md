@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">آپوکریفا</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">کتاب خنوخ</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب خنوخ (همچنین 1 خنوخ؛ [نکته 1] Geez: መጽሐፈ ሄኖክ، maṣḥafa hēnok) یک متن مذهبی آخرالزمانی باستانی عبری است که بر اساس سنت به خنوخ، پدربزرگ نوح، نسبت داده شده است. خنوخ حاوی مطالب منحصر به فردی در مورد منشأ شیاطین و نفیلیم ها، چرایی سقوط برخی از فرشتگان از بهشت، توضیحی در مورد اینکه چرا طوفان پیدایش از نظر اخلاقی ضروری بود، و توضیحی نبوی از سلطنت هزار ساله مسیح است.
 
 قدمت بخش‌های قدیمی‌تر (عمدتاً در کتاب ناظران) از حدود 300 تا 200 قبل از میلاد و آخرین بخش (کتاب مثلها) احتمالاً به 100 سال قبل از میلاد می‌رسد.

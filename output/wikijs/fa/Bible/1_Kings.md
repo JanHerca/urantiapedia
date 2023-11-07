@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">اول پادشاهان</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب پادشاهان (به عبری: ספר מלכים، sefer melakhim) کتابی در کتاب مقدس عبری است که به صورت دو کتاب (1–2 پادشاهان) در عهد عتیق مسیحی یافت می‌شود. این کتاب تاریخ تثنیه را به پایان می‌رساند، تاریخ اسرائیل نیز شامل کتاب‌های یوشع و داوران و کتاب‌های سموئیل است.
 
 مفسران کتاب مقدس بر این باورند که کتابهای پادشاهان برای ارائه توضیحی الهیاتی برای نابودی پادشاهی یهودا توسط بابل در سال 1392 نوشته شده است. 586 پ.م و فراهم کردن زمینه ای برای بازگشت از تبعید بابل. دو کتاب پادشاهان، تاریخ اسرائیل باستان و یهودا، از مرگ داوود پادشاه تا آزادی یهویاکین از حبس در بابل - دوره ای حدود 400 سال (حدود 960 - حدود 560 قبل از میلاد) را ارائه می دهند. پژوهشگران تمایل دارند این کتاب‌ها را شامل چاپ اول اواخر قرن هفتم قبل از میلاد و چاپ دوم و نهایی از اواسط قرن ششم قبل از میلاد بدانند. 

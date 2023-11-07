@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ملکی</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب ملاکی (به عبری: מַלְאָכִ֔י، Malʾāḵī) آخرین کتاب نوییم است که در تناخ وجود دارد و به طور متعارف آخرین کتاب از دوازده پیامبر صغیر است. در نظم مسیحی، گروه بندی کتب نبوی آخرین بخش عهد عتیق است که مالاکی را آخرین کتاب قبل از عهد جدید می کند.
 
 این کتاب معمولاً به پیامبری به نام ملاکی نسبت داده می‌شود، زیرا عنوان آن اغلب به عنوان یک نام خاص شناخته شده است، اگرچه معنای عبری آن صرفاً «پیام‌آور من» است (سپتواگنت «پیام‌آور او» را می‌خواند) و ممکن است نام نویسنده در آن نباشد. همه. این نام در زیرنویس در 1:1 و در 3:1 آمده است، اگرچه بسیار بعید است که این کلمه به یک کاراکتر در هر دوی این ارجاعات اشاره کند. بنابراین، بحث های اساسی در مورد هویت نویسنده کتاب وجود دارد. یکی از تارگوم ها عزرا (یا اسدرس) را به عنوان نویسنده مالاچی معرفی می کند. کشیش و مورخ جروم معتقد است که این ممکن است به این دلیل باشد که عزرا به عنوان واسطه ای بین پیامبران و «کنیسه بزرگ» دیده می شود. با این حال، هنوز هیچ مدرک تاریخی برای تأیید این ادعا وجود ندارد.

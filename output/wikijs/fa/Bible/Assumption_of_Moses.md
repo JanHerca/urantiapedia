@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">آپوکریفا</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">فرض موسی</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 فرض موسی (که نام دیگر آن عهد موسی، عبری: עליית משה) یک اثر کاذب نگارانه شبه آخرالزمان یهودی قرن اول است. ظاهراً حاوی پیشگویی های پنهانی است که موسی قبل از اینکه رهبری بنی اسرائیل را به یوشع واگذار کند، به یوشع نازل کرد. این شامل مضامین آخرالزمانی است، اما به عنوان "وصیت" شناخته می شود، به این معنی که گفتار نهایی یک فرد در حال مرگ، موسی را دارد. 
 
 تصور می‌شود که این متن در اصل به زبان عبری یا زبان سامی دیگر نوشته شده و سپس به یونانی کوئینه ترجمه شده است. تنها نسخه خطی باقی مانده، ترجمه لاتین قرن ششم از متن یونانی است. نسخه خطی ناقص بود و بقیه متن گم شده است. از ارجاعات در آثار باستانی، تصور می‌شود که متن مفقود شده، اختلاف بر سر جسد موسی، بین فرشته میکائیل و شیطان را به تصویر می‌کشد.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">غزلی از غزلها</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 آواز آوازها (به عبری: שִׁיר הַשִּׁירִים Šīr hašŠīrīm؛ یونانی: ᾎσμα ᾀσμάτων، ترجمه شده. شعر شهوانی که یکی از مژیلو (طومارها) یافت شده در آخرین بخش تناخ، معروف به Ketuvim (یا "نوشته ها") است. این کتاب در کتاب مقدس عبری منحصربه‌فرد است: هیچ علاقه‌ای به شریعت یا عهد یا خدای اسرائیل نشان نمی‌دهد، و حکمت را مانند امثال یا کلیسا تعلیم یا کاوش نمی‌کند (اگرچه به ادبیات حکمت، به عنوان انتساب به دهم، قرابت‌هایی دارد. قرن قبل از میلاد، سلیمان پادشاه اسرائیل اشاره می کند. در عوض، عشق جنسی را جشن می گیرد، "صدای دو عاشق، ستایش یکدیگر، اشتیاق برای یکدیگر، ارائه دعوت برای لذت بردن".
 
 این دو با هم هماهنگ هستند، هر کدام دیگری را میل می کنند و از صمیمیت جنسی خوشحال می شوند. زنان اورشلیم یک گروه کر برای عاشقان تشکیل می دهند و به عنوان مخاطبی عمل می کنند که شرکت در برخوردهای شهوانی عاشقان مشارکت خواننده را تسهیل می کند. محققان در مورد زمان نگارش آن اختلاف نظر دارند، تخمین‌هایی از قرن دهم تا دوم پیش از میلاد را در بر می‌گیرد، و تجزیه و تحلیل زبان مورد استفاده از قرن سوم را نشان می‌دهد. در یهودیت مدرن، سرود در روز سبت در طول عید فصح خوانده می شود، که نشانه آغاز برداشت غلات و همچنین یادآوری خروج از مصر کتاب مقدس است. سنت یهودی آن را تمثیلی از رابطه بین خدا و اسرائیل می خواند. مسیحیت، به عنوان تمثیلی از مسیح و عروسش، کلیسا. 

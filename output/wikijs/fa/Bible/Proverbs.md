@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">اامثال</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب امثال (به عبری: מִשְלֵי، Mīšlē، «امثال (سلیمان)») کتابی در بخش سوم (به نام Ketuvim) کتاب مقدس عبری و کتابی از عهد عتیق مسیحی است. هنگامی که این عنوان به یونانی و لاتین ترجمه شد، این عنوان به شکل‌های متفاوتی درآمد: در Septuagint یونانی (LXX) به Παροιμίαι (Paroimiai، «ضرب المثل») تبدیل شد. در Vulgate لاتین عنوان Proverbia بود که نام انگلیسی از آن گرفته شده است.
 
 ضرب المثل ها صرفا یک گلچین نیست، بلکه «مجموعه ای از مجموعه ها» مربوط به الگوی زندگی است که بیش از یک هزار سال به طول انجامید. این نمونه ای از ادبیات حکمت کتاب مقدس است و سؤالاتی را در مورد ارزش ها، رفتار اخلاقی، معنای زندگی انسان و رفتار درست مطرح می کند و اساس الهیات آن این است که «ترس از خدا (به معنای تسلیم در برابر اراده خدا) است. آغاز خرد». خرد به خاطر نقشش در خلقت ستوده می شود. خدا او را قبل از هر چیز به دست آورد و از طریق او به هرج و مرج دستور داد. و از آنجایی که انسانها با تطبیق با نظم خلقت، حیات و سعادت دارند، حکمت جویی جوهره و هدف زندگی است. 

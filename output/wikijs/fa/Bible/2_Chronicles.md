@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">دوم تواريخ</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب تواریخ (به عبری: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) کتابی در کتاب مقدس عبری است که به صورت دو کتاب (1-2 تواریخ) در عهد عتیق مسیحی یافت می شود. تواریخ آخرین کتاب انجیل عبری است که سومین بخش تاناخ یهودی، کتوویم («نوشته‌ها») را پایان می‌دهد. این شامل یک شجره نامه است که با آدم شروع می شود و تاریخ یهودا و اسرائیل باستان تا فرمان کوروش در سال 539 قبل از میلاد.
 
 این کتاب در هفتادمین به دو کتاب تقسیم شد و در اواسط قرن سوم قبل از میلاد ترجمه شد. در زمینه‌های مسیحی، تواریخ به صورت جمع به‌عنوان کتاب تواریخ شناخته می‌شود، پس از نام لاتین Chrononon که جروم به متن داده است، اما به ندرت با نام یونانی‌شان به عنوان Books of Paralipomenon نیز شناخته می‌شود. در انجیل های مسیحی، آنها معمولاً از دو کتاب پادشاهان پیروی می کنند و قبل از عزرا-نحمیا، آخرین کتاب تاریخ محور عهد عتیق پروتستان، قرار می گیرند.

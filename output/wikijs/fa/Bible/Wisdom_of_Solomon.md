@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">سفر الحكمة</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب حکمت یا حکمت سلیمان اثری یهودی است که به زبان یونانی نوشته شده و به احتمال زیاد در اسکندریه مصر سروده شده است. به طور کلی به اواسط قرن اول قبل از میلاد مربوط می شود، موضوع اصلی این اثر خود «حکمت» است که در دو جنبه اصلی ظاهر می شود. وجه اول این است که حکمت در ارتباط با نوع بشر، کمال معرفت صالحان به عنوان هدیه ای از جانب خداوند است که خود را در عمل نشان می دهد. وجه دوم این است که در ارتباط مستقیم با خدا، حکمت از ازل نزد خداست. این یکی از هفت کتاب خردمند یا حکمت در هفدهمین است، بقیه کتاب‌های مزامیر، امثال، جامعه، سرود سرودها (سرود سلیمان)، ایوب و سیراخ هستند. این در قوانین کلیسای کاتولیک و کلیسای ارتدکس شرقی گنجانده شده است. اکثر پروتستان ها آن را بخشی از آپوکریفا می دانند. 
 
 ## Index

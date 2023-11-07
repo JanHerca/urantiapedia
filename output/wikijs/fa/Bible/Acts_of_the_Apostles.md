@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">اعمال رسولن</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 اعمال رسولان (به یونانی: Πράξεις Ἀποστόλων, Práxeis Apostólōn؛ لاتین: Actūs Apostolōrum) پنجمین کتاب عهد جدید است. از تأسیس کلیسای مسیحی و انتشار پیام آن به امپراتوری روم می گوید. گزارشی از خدمت و فعالیت رسولان مسیح در اورشلیم و سایر مناطق پس از مرگ، رستاخیز و عروج مسیح ارائه می‌کند.
 
 اعمال و انجیل لوقا یک اثر دو قسمتی را تشکیل می دهند، لوقا–اعمال، اثر همان نویسنده ناشناس. معمولاً مربوط به حدود 80 تا 90 پس از میلاد است، اگرچه برخی از محققان 90 تا 110 را پیشنهاد می کنند. بخش اول، انجیل لوقا، می گوید که چگونه خدا نقشه خود را برای نجات جهان از طریق زندگی، مرگ و رستاخیز عیسی ناصری، مسیح موعود، به انجام رساند. اعمال رسولان داستان مسیحیت را در قرن اول ادامه می دهد و با عروج عیسی به بهشت ​​آغاز می شود. فصل های اولیه که در اورشلیم تنظیم شده است، روز پنطیکاست (آمدن روح القدس) و رشد کلیسا در اورشلیم را توصیف می کند. یهودیان در ابتدا پیام مسیحی را پذیرا بودند، اما بعداً علیه پیروان عیسی روی آوردند. این پیام که توسط یهودیان رد شد، تحت هدایت پولس رسول به غیریهودیان منتقل شد. فصل های بعدی از پولس می گوید

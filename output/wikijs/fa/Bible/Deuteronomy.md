@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">تثنييه</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 تثنیه (به یونانی: Δευτερονόμιον Deuteronómion، به معنای «قانون دوم») پنجمین و آخرین کتاب تورات (در یهودیت) است که در آن «دواریم» (به عبری: דְּבָרִים، به عبارتی [کلمات [موسی]» نامیده می شود. ) و کتاب پنجم عهد عتیق مسیحی.
 
 فصل‌های 1 تا 30 کتاب شامل سه موعظه یا سخنرانی است که موسی در دشت‌های موآب برای بنی‌اسرائیل، اندکی قبل از ورود به سرزمین موعب، ایراد کرد. خطبه اول چهل سال سرگردانی در بیابان را بازگو می کند که به آن لحظه منتهی شده بود و با توصیه به رعایت قانون به پایان می رسد. خطبه دوم لزوم پیروی از یهوه و قوانین (یا تعالیم) که او به آنها داده است و تملک آنها در زمین به آنها بستگی دارد، به بنی اسرائیل یادآوری می کند. خطبه سوم این آرامش را ارائه می دهد که حتی اگر قوم اسرائیل بی وفایی کرده و زمین را از دست بدهند، با توبه می توان همه چیز را بازسازی کرد.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">لوقا</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 انجیل لوقا از منشأ، تولد، خدمت، مرگ، رستاخیز و عروج عیسی مسیح می گوید. این کتاب همراه با اعمال رسولان، یک اثر دو جلدی را تشکیل می‌دهد که محققان آن را لوقا-اعمال رسولان می‌نامند و 27.5 درصد از عهد جدید را تشکیل می‌دهد. این اثر ترکیبی تاریخ مسیحیت قرن اول را به سه مرحله تقسیم می‌کند که انجیل دو مرحله اول را تشکیل می‌دهد - زندگی عیسی مسیح از تولد تا آغاز مأموریت او در ملاقات با یحیی تعمید دهنده، به دنبال آن. توسط خدمت او با رویدادهایی مانند خطبه در دشت و سعادت های آن و مصائب، مرگ و رستاخیز او.
 
 اکثر محققان مدرن توافق دارند که منابع اصلی مورد استفاده برای لوقا عبارتند از a)، انجیل مرقس، b)، مجموعه ای از گفته های فرضی به نام منبع Q، و ج)، مطالبی که در هیچ انجیل دیگری یافت نمی شود، که اغلب به عنوان L (L) نامیده می شود. برای لوک) منبع. نویسنده ناشناس است. این دیدگاه سنتی که لوقا انجیلی، همراه پولس بود، هنوز گهگاه مطرح می شود، اما اجماع دانشمندان بر تناقضات بسیاری بین اعمال رسولان و نامه های معتبر پولس تأکید می کند. محتمل ترین تاریخ برای ترکیب آن حدود 80-110 پس از میلاد است و شواهدی وجود دارد که نشان می دهد هنوز تا قرن دوم بازنگری شده است. 

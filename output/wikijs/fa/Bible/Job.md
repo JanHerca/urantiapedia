@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ايوب</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب ایوب (/dʒoʊb/؛ عبری کتاب مقدس: אִיּוֹב، به زبان رومی: ʾIyyōḇ)، یا به سادگی ایوب، به تئودیسه می پردازد، که چرا خدا شر را در جهان اجازه می دهد، از طریق تجربیات قهرمان همنام. ایوب مردی ثروتمند و خداترس با زندگی راحت و خانواده پرجمعیت است. خداوند پس از درخواست از شیطان (הַשָּׂטָן، haśśāṭān، "متهم کننده") نظرش را در مورد تقوای ایوب، به دنبال اتهام شیطان مبنی بر اینکه اگر ایوب بدون قلم او بی‌پول و بی‌پول می‌شد، تصمیم می‌گیرد که ثروت، خانواده و آسایش مادی را از او بگیرد. خانواده، او از خدا دور می شد. 
 
 این کتاب در بخش Ketuvim («نوشته‌ها») کتاب مقدس عبری (Tanakh) یافت می‌شود و اولین کتاب شعری در عهد عتیق کتاب مقدس مسیحی است. محققان عموماً توافق دارند که این کتاب بین قرن های هفتم و چهارم قبل از میلاد نوشته شده است. 

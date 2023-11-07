@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ارمييا</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب ارمیا (به عبری: ספר יִרְמְיָהוּ) دومین پیامبر از آخرین پیامبران در کتاب مقدس عبری، و دومین پیامبر از پیامبران در عهد عتیق مسیحی است. شرح فصل ارمیا 1: 1-3 این کتاب را به عنوان «کلمات ارمیا پسر حلکیا» معرفی می کند. از میان همه پیامبران، ارمیا به وضوح به عنوان یک شخص مطرح می شود و با کاتب خود باروخ در مورد نقش خود به عنوان یک بنده خدا با خبرهای خوب کمی برای مخاطبانش نشخوار می کند.
 
 کتاب او به عنوان پیامی برای یهودیان در تبعید در بابل در نظر گرفته شده است و فاجعه تبعید را به عنوان پاسخ خداوند به پرستش بت پرستان اسرائیل توضیح می دهد: ارمیا می گوید که مردم مانند همسری خیانتکار و فرزندان سرکش هستند، خیانت و سرکشی آنها قضاوت را اجتناب ناپذیر کرده است. ، اگرچه بازسازی و عهد جدید پیش بینی شده است. روایات معتبر ارمیا را احتمالاً می‌توان در بخش‌های شعری فصل‌های 1 تا 25 یافت، اما این کتاب به‌طور کلی توسط پیروان پیامبر (از جمله شاید همراه او، باروخ کاتب) و نسل‌های بعدی به‌شدت ویرایش و به آن افزوده شده است. تثنیه شناسان.

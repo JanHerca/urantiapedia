@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">کتاب مقدس</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Farsi Tarjumeh-ye Ghadeem, 1896</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">اعداد</text>
+	</g>
+</svg>
+</div>
+
+## شرح
+
+
 کتاب اعداد (از یونانی Ἀριθμοί، Arithmoi؛ عبری: בְּמִדְבַּר، Bəmīḏbar، "در صحرا [از]") چهارمین کتاب از کتاب مقدس عبری و چهارمین کتاب از پنج کتاب تورات یهودی است. کتاب تاریخ طولانی و پیچیده ای دارد. شکل نهایی آن احتمالاً به دلیل ویرایش کاهنی (یعنی ویرایش) یک منبع یهوه است که در اوایل دوره ایرانی (قرن پنجم قبل از میلاد) انجام شده است. نام کتاب برگرفته از دو سرشماری بنی اسرائیل است.
 
 اعداد از کوه سینا آغاز می شود، جایی که بنی اسرائیل قوانین و عهد خود را از خدا دریافت کرده و خدا در میان آنها در عبادتگاه اقامت گزیده است. وظیفه پیش روی آنها تصرف سرزمین موعود است. شمارش مردم انجام می شود و برای از سرگیری راهپیمایی آنها آماده می شود. بنی‌اسرائیل سفر را آغاز می‌کنند، اما از سختی‌های راه، و درباره اقتدار موسی و هارون «غرغر می‌کنند». برای این اعمال، خداوند تقریباً 15000 مورد از آنها را به طرق مختلف نابود می کند. آنها به مرزهای کنعان می رسند و جاسوسان را به سرزمین می فرستند. بنی اسرائیل با شنیدن گزارش ترسناک جاسوسان در مورد شرایط کنعان، از تصاحب آن سرباز زدند. خداوند آنها را به مرگ در بیابان محکوم می کند تا اینکه نسل جدیدی بزرگ شود و وظیفه را انجام دهد.
