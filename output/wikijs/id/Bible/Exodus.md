@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Keluaran</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Keluaran (dari bahasa Yunani Kuno: , diromanisasi: xodos; Ibrani: mōṯ, "Nama") adalah buku kedua dalam Alkitab. Ini menceritakan kisah Keluaran, di mana orang Israel meninggalkan perbudakan di Mesir Alkitab melalui kekuatan Yahweh, yang telah memilih mereka sebagai umat-Nya. Orang Israel kemudian melakukan perjalanan dengan nabi Musa ke Gunung Sinai, di mana Yahweh memberikan 10 perintah dan mereka masuk ke dalam perjanjian dengan Yahweh, yang berjanji untuk membuat mereka menjadi "bangsa yang suci, dan kerajaan imam" dengan syarat kesetiaan mereka. Dia memberi mereka hukum dan instruksi mereka untuk membangun Kemah Suci, sarana yang dengannya dia akan datang dari surga dan tinggal bersama mereka dan memimpin mereka dalam perang suci untuk memiliki tanah Kanaan ("Tanah Perjanjian"), yang sebelumnya, menurut kisah Kejadian, telah dijanjikan kepada keturunan Abraham.
 
 Secara tradisional dianggap berasal dari Musa sendiri, para sarjana modern melihat komposisi awalnya sebagai produk dari pengasingan Babilonia (abad ke-6 SM), berdasarkan sumber tertulis dan tradisi lisan sebelumnya, dengan revisi terakhir pada periode pasca-pembuangan Persia (abad ke-5 SM). Carol Meyers, dalam komentarnya tentang Keluaran, menunjukkan bahwa itu bisa dibilang buku yang paling penting dalam Alkitab, karena menyajikan ciri-ciri yang menentukan identitas Israel—kenangan masa lalu yang ditandai dengan kesulitan dan pelarian, perjanjian yang mengikat dengan Allah, yang memilih Israel, dan pembentukan kehidupan komunitas dan pedoman untuk mempertahankannya. Konsensus di antara para sarjana modern adalah bahwa cerita dalam Kitab Keluaran paling baik dipahami sebagai mitos. 

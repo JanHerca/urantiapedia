@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Wahyu</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Wahyu adalah buku terakhir dari Perjanjian Baru (dan akibatnya buku terakhir dari Alkitab Kristen). Judulnya berasal dari kata pertama dari teks Yunani Koine: apokalipsis, yang berarti "membuka" atau "wahyu". Kitab Wahyu adalah satu-satunya kitab apokaliptik dalam kanon Perjanjian Baru. Ia menempati tempat sentral dalam eskatologi Kristen.
 
 Penulis menyebut dirinya sebagai "John" dalam teks, tetapi identitas persisnya tetap menjadi perdebatan akademis. Penulis Kristen abad kedua seperti Papias dari Hierapolis, Justin Martyr, Irenaeus, Melito dari Sardis, Clement dari Alexandria, dan penulis fragmen Muratorian mengidentifikasi Rasul Yohanes sebagai “Yohanes” dari Wahyu. Ilmuwan modern umumnya mengambil pandangan yang berbeda, dengan banyak yang menganggap bahwa tidak ada yang dapat diketahui tentang penulisnya kecuali bahwa dia adalah seorang nabi Kristen. Sarjana teologi modern mencirikan penulis Kitab Wahyu sebagai "Yohanes dari Patmos". Sebagian besar sumber-sumber tradisional menyebutkan bahwa buku tersebut berasal dari masa pemerintahan kaisar Romawi Domitianus (81-96 M), yang cenderung dikonfirmasi oleh bukti.

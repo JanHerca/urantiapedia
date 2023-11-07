@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">TULISAN YG DIRAGUKAN PENGARANGNYA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Barukh</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Barukh adalah kitab deuterokanonika dari Alkitab, yang digunakan di sebagian besar tradisi Kristen, seperti gereja Katolik dan Ortodoks. Dalam Yudaisme dan Kristen Protestan, itu dianggap bukan bagian dari kanon, dengan Alkitab Protestan mengkategorikannya sebagai bagian dari apokrif Alkitab. Buku ini dinamai Barukh ben Neriah, juru tulis terkenal Yeremia, yang disebutkan di Barukh 1:1, dan dianggap sebagai penulis seluruh karya itu. Buku ini merupakan refleksi dari seorang penulis Yahudi yang terlambat tentang keadaan orang-orang Yahudi yang diasingkan dari Babel, dengan meditasi tentang teologi dan sejarah Israel, diskusi tentang kebijaksanaan, dan pidato langsung kepada penduduk Yerusalem dan Diaspora. Beberapa sarjana mengusulkan bahwa itu ditulis selama atau segera setelah periode Makabe.
 
 Kitab Barukh kadang-kadang disebut sebagai 1 Barukh untuk membedakannya dari 2 Barukh, 3 Barukh dan 4 Barukh.

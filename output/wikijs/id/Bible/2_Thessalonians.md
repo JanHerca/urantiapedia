@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Tesalonika</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 The Second Epistle to Thessalonians adalah sebuah buku dari Perjanjian Baru dari Alkitab Kristen. Ini secara tradisional dikaitkan dengan Rasul Paulus, dengan Timotius sebagai rekan penulis. Ilmu biblika modern terbagi atas apakah surat itu ditulis oleh Paulus; beberapa ahli percaya bahwa Paulus menulis surat ini, tetapi yang lain menolak keasliannya berdasarkan apa yang mereka lihat sebagai perbedaan dalam gaya dan teologi antara surat ini dan Surat Pertama ke Tesalonika. 
 
 Para ahli yang mendukung keasliannya memandangnya ditulis sekitar tahun 51-52 M, tak lama setelah Surat Pertama. Mereka yang melihatnya sebagai komposisi kemudian menetapkan tanggal sekitar 80-115 Masehi.

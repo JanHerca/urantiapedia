@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matius</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Injil Matius adalah buku pertama dari Perjanjian Baru dari Alkitab dan salah satu dari tiga Injil sinoptik. Ini menceritakan bagaimana Mesias Israel, Yesus, datang kepada umat-Nya dan membentuk komunitas murid-murid, tentang bagaimana Dia mengajar orang-orang melalui peristiwa-peristiwa seperti Khotbah di Bukit dan Sabda Bahagia, dan bagaimana Israel terpecah dan bagaimana Yesus mengutuk Israel yang bermusuhan ini. . Ini memuncak dalam kepergiannya dari Kuil dan eksekusinya. Pada titik ini banyak orang menolak Yesus, dan pada kebangkitan-Nya Ia mengutus para murid kepada orang-orang bukan Yahudi.
 
 Matius tampaknya menekankan bahwa tradisi Yahudi tidak boleh hilang di gereja yang semakin menjadi non-Yahudi. Injil mencerminkan perjuangan dan konflik antara komunitas penginjil dan orang-orang Yahudi lainnya, terutama dengan kritik tajamnya terhadap ahli-ahli Taurat dan orang-orang Farisi dengan posisi bahwa melalui penolakan mereka terhadap Kristus, Kerajaan Allah telah diambil dari mereka dan sebaliknya diberikan kepada Gereja. Sifat ketuhanan Yesus merupakan isu utama bagi komunitas Matthaean, elemen penting yang memisahkan orang Kristen mula-mula dari tetangga Yahudi mereka; sementara Markus memulai dengan baptisan dan pencobaan Yesus, Matius kembali ke asal-usul Yesus, menunjukkan dia sebagai Anak Allah sejak kelahirannya, penggenapan nubuatan mesianik dari Perjanjian Lama. Gelar Anak Daud mengidentifikasi Yesus sebagai Mesias Israel yang menyembuhkan dan melakukan mujizat (ini digunakan secara eksklusif dalam kaitannya dengan mukjizat), dikirim ke Israel saja. Sebagai Anak Manusia ia akan kembali untuk menghakimi dunia, suatu harapan yang diakui oleh para muridnya tetapi tidak disadari oleh musuh-musuhnya. Sebagai Anak Allah, Allah menyatakan diri-Nya melalui anak-Nya, dan Yesus membuktikan keputraan-Nya melalui ketaatan dan teladan-Nya.

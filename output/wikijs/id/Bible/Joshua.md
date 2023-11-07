@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Yosua</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Yosua (Ibrani: Sefer Yehoshua) adalah buku keenam dalam Alkitab Ibrani dan Perjanjian Lama Kristen, dan merupakan buku pertama dari sejarah Deuteronomistik, kisah Israel dari penaklukan Kanaan hingga pembuangan ke Babel. Ini menceritakan tentang kampanye orang Israel di Kanaan tengah, selatan dan utara, penghancuran musuh mereka, dan pembagian tanah di antara Dua Belas Suku, dibingkai oleh dua pidato set-piece, yang pertama oleh Tuhan yang memerintahkan penaklukan tanah, dan, pada akhirnya, peringatan kedua oleh Yosua tentang perlunya ketaatan yang setia terhadap Hukum (Taurat) yang diwahyukan kepada Musa.
 
 Hampir semua sarjana setuju bahwa Kitab Yosua memiliki nilai sejarah yang kecil untuk Israel awal dan kemungkinan besar mencerminkan periode yang jauh kemudian. Bagian paling awal dari buku ini kemungkinan adalah bab 2-11, kisah penaklukan; pasal-pasal ini kemudian dimasukkan ke dalam bentuk awal Yosua yang kemungkinan besar ditulis pada akhir masa pemerintahan raja Yosia (memerintah 640–609 SM), tetapi kitab itu tidak selesai sampai setelah jatuhnya Yerusalem ke Kekaisaran Neo-Babilonia pada tahun 586 SM, dan mungkin tidak sampai setelah kembali dari pembuangan Babilonia pada tahun 539 SM. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Galatia</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Surat Galatia adalah kitab kesembilan dari Perjanjian Baru. Ini adalah surat dari Rasul Paulus kepada sejumlah komunitas Kristen Awal di Galatia. Para ahli berpendapat bahwa ini adalah provinsi Romawi Galatia di Anatolia selatan, atau wilayah besar yang ditentukan oleh kelompok etnis orang Keltik di Anatolia tengah.
 
 Dalam surat ini, Paulus terutama prihatin dengan kontroversi seputar orang Kristen non-Yahudi dan Hukum Musa selama Zaman Kerasulan. Paulus berpendapat bahwa orang-orang Galatia yang bukan Yahudi tidak perlu mengikuti prinsip-prinsip Hukum Musa, khususnya sunat laki-laki religius, dengan mengontekstualisasikan peran hukum dalam terang wahyu Kristus. Surat Galatia telah memberikan pengaruh yang sangat besar pada sejarah Kekristenan, perkembangan teologi Kristen, dan studi tentang Rasul Paulus.

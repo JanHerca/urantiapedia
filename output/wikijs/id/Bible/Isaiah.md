@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Yesaya</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Yesaya (Ibrani: , [ˈs.fɛr jə.ʃaʕ.ˈja.hu]) adalah yang pertama dari Nabi-Nabi Akhir dalam Alkitab Ibrani dan yang pertama dari Nabi-Nabi Besar dalam Perjanjian Lama Kristen. Hal ini diidentifikasi oleh superskripsi sebagai kata-kata nabi abad ke-8 SM Yesaya ben Amoz, tetapi ada banyak bukti bahwa banyak dari itu disusun selama pembuangan Babel dan kemudian. Johann Christoph Döderlein pada tahun 1775 menyarankan bahwa buku itu berisi karya-karya dua nabi yang dipisahkan oleh lebih dari satu abad, dan Bernhard Duhm memunculkan pandangan, yang dipegang sebagai konsensus sepanjang sebagian besar abad ke-20, bahwa buku tersebut terdiri dari tiga koleksi nubuat yang terpisah: Proto-Yesaya (pasal 1-39), berisi kata-kata nabi Yesaya abad ke-8 SM; Deutero-Yesaya (pasal 40–55), karya seorang penulis anonim abad ke-6 SM yang menulis selama Pengasingan; dan Trito-Yesaya (pasal 56–66), disusun setelah kembali dari Pengasingan. Yesaya 1-33 menjanjikan penghakiman dan pemulihan bagi Yehuda, Yerusalem dan bangsa-bangsa, dan pasal 34-66 menganggap bahwa penghakiman telah diucapkan dan pemulihan segera menyusul. Sementara hampir tidak ada sarjana saat ini yang menghubungkan seluruh buku, atau bahkan sebagian besar, dengan satu orang, kesatuan esensial buku ini telah menjadi fokus dalam penelitian yang lebih baru.
 
 Buku ini dapat dibaca sebagai renungan panjang tentang nasib Yerusalem ke dalam dan setelah Pembuangan. Bagian Deutero-Isaian dari buku ini menjelaskan bagaimana Allah akan menjadikan Yerusalem pusat pemerintahan-Nya di seluruh dunia melalui penyelamat kerajaan (seorang mesias) yang akan menghancurkan penindas (Babel); mesias ini adalah raja Persia Cyrus Agung, yang hanyalah agen yang membawa kerajaan Yahweh. Yesaya berbicara menentang para pemimpin yang korup dan yang kurang beruntung, dan mengakarkan kebenaran dalam kekudusan Allah daripada dalam perjanjian Israel.

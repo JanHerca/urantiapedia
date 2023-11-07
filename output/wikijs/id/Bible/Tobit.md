@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tobit</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Tobit (/ toʊbɪt/), juga dikenal sebagai Kitab Tobias atau Kitab Tobi, adalah karya Yahudi abad ke-3 atau awal ke-2 SM yang menggambarkan bagaimana Tuhan menguji umat beriman, menanggapi doa, dan melindungi komunitas perjanjian ( yaitu, orang Israel). Ini menceritakan kisah dua keluarga Israel, Tobit buta di Niniwe dan Sarah yang ditinggalkan di Ecbatana. Putra Tobit, Tobias, dikirim untuk mengambil sepuluh talenta perak yang pernah ditinggalkan Tobit di Rages, sebuah kota di Media; dipandu dan dibantu oleh malaikat Raphael dia tiba di Ecbatana, di mana dia bertemu Sarah. Setan bernama Asmodeus telah jatuh cinta padanya dan membunuh siapa pun yang ingin dia nikahi, tetapi dengan bantuan Raphael iblis itu diusir dan Tobias dan Sarah menikah, setelah itu mereka kembali ke Niniwe di mana Tobit disembuhkan dari kebutaannya.
 
 Buku ini termasuk dalam kanon Katolik dan Ortodoks tetapi tidak dalam Yahudi; tradisi Protestan menempatkannya dalam Apokrifa, dengan Anabaptis, Lutheran, Anglikan, dan Metodis mengakuinya sebagai berguna untuk tujuan pembangunan dan liturgi, meskipun statusnya non-kanonik. Sebagian besar sarjana mengakuinya sebagai karya fiksi dengan beberapa referensi sejarah. 

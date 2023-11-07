@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Amos</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Amos adalah yang ketiga dari Dua Belas Nabi Kecil dalam Perjanjian Lama (Tanakh) dan yang kedua dalam tradisi Septuaginta Yunani. Amos, sezaman dengan Hosea dan Yesaya, aktif c. 750 SM pada masa pemerintahan Yerobeam II (788–747 SM) di Samaria (alias Israel Utara), menjadikan Amos buku nubuatan pertama dalam Alkitab yang ditulis. Amos tinggal di kerajaan Yehuda tetapi berkhotbah di kerajaan Israel utara. Tema utamanya tentang keadilan sosial, kemahakuasaan Tuhan, dan penghakiman ilahi menjadi pokok nubuatan. 
 
 ## Index

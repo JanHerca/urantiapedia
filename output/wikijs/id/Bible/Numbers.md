@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Bilangan</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Bilangan (dari bahasa Yunani , Arithmoi; Ibrani: , Bəmīḏbar, "Di gurun [dari]") adalah buku keempat dari Alkitab Ibrani, dan keempat dari lima buku Taurat Yahudi. Buku ini memiliki sejarah yang panjang dan kompleks; bentuk akhirnya mungkin karena redaksi Imam (yaitu, penyuntingan) dari sumber Yahwistik yang dibuat beberapa waktu pada periode Persia awal (abad ke-5 SM). Nama buku ini berasal dari dua sensus yang diambil dari orang Israel.
 
 Bilangan dimulai di Gunung Sinai, di mana orang Israel telah menerima hukum dan perjanjian mereka dari Tuhan dan Tuhan telah tinggal di antara mereka di tempat kudus. Tugas di hadapan mereka adalah menguasai Tanah Perjanjian. Orang-orang dihitung dan persiapan dibuat untuk melanjutkan perjalanan mereka. Orang Israel memulai perjalanan, tetapi mereka “menggerutu” pada kesulitan di sepanjang jalan, dan tentang otoritas Musa dan Harun. Untuk tindakan ini, Tuhan menghancurkan sekitar 15.000 dari mereka melalui berbagai cara. Mereka tiba di perbatasan Kanaan dan mengirim mata-mata ke negeri itu. Setelah mendengar laporan mata-mata yang menakutkan tentang kondisi di Kanaan, orang Israel menolak untuk mengambilnya. Tuhan menghukum mereka sampai mati di padang gurun sampai generasi baru dapat tumbuh dan melaksanakan tugas itu.

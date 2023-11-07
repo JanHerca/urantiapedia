@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Maleakhi</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Maleakhi (Ibrani: , Malʾāḵī) adalah buku terakhir dari Neviim yang terdapat dalam Tanakh, secara kanonik yang terakhir dari Dua Belas Nabi Kecil. Dalam tatanan Kristen, pengelompokan kitab-kitab nubuatan adalah bagian terakhir dari Perjanjian Lama, menjadikan Maleakhi sebagai kitab terakhir sebelum Perjanjian Baru.
 
 Buku ini umumnya dikaitkan dengan seorang nabi bernama Maleakhi, karena judulnya sering dipahami sebagai nama yang tepat, meskipun arti Ibraninya hanyalah "Utusanku" (Septuaginta membaca "utusannya") dan mungkin bukan nama penulisnya. semua. Nama tersebut muncul dalam superskripsi pada 1:1 dan 3:1, meskipun sangat tidak mungkin bahwa kata tersebut merujuk pada karakter yang sama dalam kedua referensi ini. Dengan demikian, ada perdebatan substansial mengenai identitas penulis buku tersebut. Salah satu Targum mengidentifikasi Ezra (atau Esdras) sebagai penulis Maleakhi. Imam dan Sejarawan Jerome menunjukkan bahwa ini mungkin karena Ezra dipandang sebagai perantara antara para nabi dan "sinagoga besar." Namun, belum ada bukti sejarah yang mendukung klaim ini.

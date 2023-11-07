@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Amsal</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Amsal (Ibrani: , Mīšlē, "Amsal (dari Salomo)") adalah sebuah buku di bagian ketiga (disebut Ketuvim) dari Alkitab Ibrani dan sebuah buku dari Perjanjian Lama Kristen. Ketika diterjemahkan ke dalam bahasa Yunani dan Latin, judul tersebut mengambil bentuk yang berbeda: dalam Septuaginta Yunani (LXX) menjadi (Paroimiai, “Amsal”); dalam Vulgata Latin judulnya adalah Proverbia, dari mana nama Inggris berasal.
 
 Amsal bukan hanya sekedar antologi tetapi “kumpulan koleksi” yang berkaitan dengan pola kehidupan yang berlangsung selama lebih dari satu milenium. Ini adalah contoh dari literatur kebijaksanaan alkitabiah, dan menimbulkan pertanyaan tentang nilai-nilai, perilaku moral, makna hidup manusia, dan perilaku yang benar, dan landasan teologisnya adalah bahwa “takut akan Tuhan (artinya tunduk pada kehendak Tuhan) adalah awal dari kebijaksanaan”. Kebijaksanaan dipuji karena perannya dalam penciptaan; Tuhan mendapatkannya sebelum segalanya, dan melalui dia dia mengatur kekacauan; dan karena manusia memiliki kehidupan dan kemakmuran dengan menyesuaikan diri dengan tatanan ciptaan, mencari kebijaksanaan adalah esensi dan tujuan hidup. 

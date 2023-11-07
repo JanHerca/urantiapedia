@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Mikha</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Mikha adalah yang keenam dari dua belas nabi kecil dalam Alkitab Ibrani. Seolah-olah, itu mencatat perkataan Mikha, yang namanya Mikayahu (Ibrani: ), yang berarti "Siapa yang seperti Yahweh?", seorang nabi abad ke-8 SM dari desa Moresheth di Yehuda (nama Ibrani dari ayat pembukaan: ). 
 
 Buku ini memiliki tiga divisi utama, bab 1–2, 3–5 dan 6–7, masing-masing diawali dengan kata “Dengar,” dengan pola bergantian pengumuman malapetaka dan ekspresi harapan dalam setiap divisi. Mikha mencela para pemimpin yang tidak adil, membela hak orang miskin melawan orang kaya dan berkuasa; sambil menantikan dunia damai yang berpusat di Sion di bawah kepemimpinan raja Daud yang baru.

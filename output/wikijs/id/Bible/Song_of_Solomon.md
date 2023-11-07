@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Kidung Agung</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kidung Agung (Ibrani: הַשִּׁירִים r hašŠīrīm; Yunani: , terjemahan Âisma āismátōn, pengucapan Yunani Koine: [ˈäˑ.z̠mä äˈz̠mä.to̞n]), juga disebut Kidung Agung atau Kidung Agung, adalah sebuah puisi erotis yang merupakan salah satu megillot (gulungan) yang ditemukan di bagian terakhir Tanakh, yang dikenal sebagai Ketuvim (atau “Tulisan”). Ini unik dalam Alkitab Ibrani: itu tidak menunjukkan minat pada Hukum atau Perjanjian atau Tuhan Israel, juga tidak mengajarkan atau mengeksplorasi kebijaksanaan seperti Amsal atau Pengkhotbah (walaupun memiliki beberapa kesamaan dengan literatur kebijaksanaan, seperti yang dianggap sebagai abad ke-10). abad SM Raja Israel Salomo menunjukkan); sebaliknya, itu merayakan cinta seksual, memberikan "suara dua kekasih, saling memuji, merindukan satu sama lain, menawarkan undangan untuk menikmati".
 
 Keduanya selaras, masing-masing menginginkan yang lain dan bersukacita dalam keintiman seksual. Para wanita Yerusalem membentuk paduan suara bagi para pecinta, berfungsi sebagai penonton yang partisipasinya dalam pertemuan erotis para pecinta memfasilitasi partisipasi pembaca. Para ahli berbeda tentang kapan itu ditulis, dengan perkiraan mulai dari abad ke-10 hingga ke-2 SM, dengan analisis bahasa yang digunakan yang menunjukkan abad ke-3. Dalam Yudaisme modern, Kidung Agung dibacakan pada hari Sabat selama Paskah, yang menandai awal panen gandum serta memperingati Eksodus dari Mesir menurut Alkitab. Tradisi Yahudi membacanya sebagai alegori hubungan antara Allah dan Israel; Kekristenan, sebagai alegori Kristus dan mempelai wanita, Gereja.

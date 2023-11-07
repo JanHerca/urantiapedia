@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Tawarikh</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Tawarikh (Ibrani: Dīvrē-hayYāmīm) adalah sebuah buku dalam Alkitab Ibrani, ditemukan sebagai dua kitab (1–2 Tawarikh) dalam Perjanjian Lama Kristen. Tawarikh adalah buku terakhir dari Alkitab Ibrani, menyimpulkan bagian ketiga dari Tanakh Yahudi, Ketuvim ("Tulisan"). Ini berisi silsilah dimulai dengan Adam dan sejarah Yehuda kuno dan Israel hingga Edict of Cyrus pada 539 SM.
 
 Buku ini dibagi menjadi dua buku dalam Septuaginta dan diterjemahkan pada pertengahan abad ke-3 SM. Dalam konteks Kristen, Tawarikh disebut dalam bentuk jamak sebagai Kitab Tawarikh, setelah nama Latin kronikon yang diberikan pada teks oleh Jerome, tetapi juga jarang disebut dengan nama Yunaninya sebagai Kitab Paralipomenon. Dalam Alkitab Kristen, mereka biasanya mengikuti dua Kitab Raja-Raja dan mendahului Ezra–Nehemia, buku terakhir yang berorientasi pada sejarah dari Perjanjian Lama Protestan.

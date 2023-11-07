@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Imamat</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Imamat (/lɪˈvɪtɪkəs/, dari bahasa Yunani Kuno: , Leuïtikón; Ibrani: , Vayyīqrāʾ, "Dan Dia memanggil") adalah buku ketiga dari Taurat (Pentateuch) dan Perjanjian Lama, juga dikenal sebagai Kitab Musa ketiga. Para ahli umumnya setuju bahwa itu berkembang dalam jangka waktu yang lama, mencapai bentuknya yang sekarang selama Periode Persia, dari 538–332 SM.
 
 Sebagian besar pasalnya (1–7, 11–27) terdiri dari pidato-pidato Yahweh kepada Musa, yang diperintahkan Yahweh kepada Musa untuk diulangi kepada orang Israel. Ini terjadi dalam kisah Keluaran orang Israel setelah mereka melarikan diri dari Mesir dan mencapai Gunung Sinai ([Keluaran 19:1](/id/Bible/Exodus/19#v1)). Kitab Keluaran menceritakan bagaimana Musa memimpin bangsa Israel dalam membangun Kemah Suci (Keluaran 35-40) dengan petunjuk Allah ([Keluaran 25-31](/id/Bible/Exodus/25)). Dalam Imamat, Tuhan memberi tahu orang Israel dan imam-imam mereka, orang Lewi, bagaimana membuat persembahan di Kemah Suci dan bagaimana berperilaku saat berkemah di sekitar tempat kudus kemah suci. Imamat terjadi selama satu bulan atau setengah bulan antara penyelesaian Kemah Suci ([Keluaran 40:17](/id/Bible/Exodus/40#v17)) dan keberangkatan orang Israel dari Sinai (Bilangan [1:1](/id/Bible/Numbers/1#v1), [10:11](/id/Bible/Numbers/10#v11)).

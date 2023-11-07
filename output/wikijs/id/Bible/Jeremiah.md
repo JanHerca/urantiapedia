@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ALKITAB</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125"></text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Yeremia</text>
+	</g>
+</svg>
+</div>
+
+## Keterangan
+
+
 Kitab Yeremia (Ibrani: יִרְמְיָהוּ) adalah yang kedua dari Nabi-nabi Akhir dalam Alkitab Ibrani, dan yang kedua dari para Nabi dalam Perjanjian Lama Kristen. Superskripsi di pasal Yeremia 1:1–3 mengidentifikasi kitab itu sebagai “perkataan Yeremia putra Hilkia”. Dari semua nabi, Yeremia tampil paling jelas sebagai pribadi, merenungkan juru tulisnya Barukh tentang perannya sebagai hamba Allah dengan sedikit kabar baik bagi pendengarnya.
 
 Bukunya dimaksudkan sebagai pesan kepada orang-orang Yahudi di pengasingan di Babel, menjelaskan bencana pengasingan sebagai tanggapan Tuhan terhadap penyembahan pagan Israel: orang-orang, kata Yeremia, seperti istri yang tidak setia dan anak-anak pemberontak, perselingkuhan dan pemberontakan mereka membuat penghakiman tak terelakkan. , meskipun pemulihan dan perjanjian baru sudah diramalkan. Nubuat otentik dari Yeremia mungkin dapat ditemukan di bagian puitis dari pasal 1-25, tetapi buku secara keseluruhan telah banyak diedit dan ditambahkan oleh para pengikut nabi (termasuk mungkin rekannya, juru tulis Barukh) dan generasi selanjutnya dari Deuteronomis.
