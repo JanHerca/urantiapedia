@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Λευιτικόν</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το βιβλίο του Λευιτικού (/lɪˈvɪtɪkəs/, από τα αρχαία ελληνικά: Λευιτικόν, Leuïtikón· εβραϊκά: וַיִּקְרָא, Vayyīqrāʾ, «Και κάλεσε») είναι το τρίτο βιβλίο της Τορά (η Παλαιά Διαθήκη, επίσης γνωστή ως η Πεντάδα). Τρίτο βιβλίο του Μωυσή. Οι μελετητές γενικά συμφωνούν ότι αναπτύχθηκε για μεγάλο χρονικό διάστημα, φθάνοντας στη σημερινή του μορφή κατά την περσική περίοδο, από το 538–332 π.Χ.
 
 Τα περισσότερα από τα κεφάλαιά του (1–7, 11–27) αποτελούνται από τις ομιλίες του Γιαχβέ στον Μωυσή, τις οποίες ο Γιαχβέ λέει στον Μωυσή να επαναλάβει στους Ισραηλίτες. Αυτό λαμβάνει χώρα στην ιστορία της Εξόδου των Ισραηλιτών αφού διέφυγαν από την Αίγυπτο και έφτασαν στο Όρος Σινά ([Έξοδος 19:1](/el/Bible/Exodus/19#v1)). Το Βιβλίο της Εξόδου αφηγείται πώς ο Μωυσής οδήγησε τους Ισραηλίτες στην κατασκευή της Σκηνής του Μαρτυρίου (Έξοδος 35–40) με τις οδηγίες του Θεού ([Έξοδος 25–31](/el/Bible/Exodus/25)). Στο Λευιτικό, ο Θεός λέει στους Ισραηλίτες και στους ιερείς τους, τους Λευίτες, πώς να κάνουν προσφορές στη Σκηνή του Μαρτυρίου και πώς να συμπεριφέρονται ενώ στρατοπεδεύουν γύρω από το ιερό της σκηνής. Το Λευιτικό λαμβάνει χώρα κατά τη διάρκεια του μήνα ή ενάμιση μήνα μεταξύ της ολοκλήρωσης της Σκηνής του Μαρτυρίου ([Έξοδος 40:17](/el/Bible/Exodus/40#v17)) και η αναχώρηση των Ισραηλιτών από το Σινά (Αριθμοί [1:1](/el/Bible/Numbers/1#v1), [10:11](/el/Bible/Numbers/10#v11)).

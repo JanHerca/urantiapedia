@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Μακκαβαίων Α'</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Πρώτο Βιβλίο των Μακκαβαίων, γνωστό και ως Πρώτοι Μακκαβαίοι (γραμμένο σε συντομογραφία ως 1 Μακκαβαίοι ή 1 Μακ.), είναι ένα βιβλίο που γράφτηκε στα εβραϊκά από έναν ανώνυμο Εβραίο συγγραφέα μετά την αποκατάσταση ενός ανεξάρτητου εβραϊκού βασιλείου από τη δυναστεία των Χασμονέων, γύρω από το τέλη 2ου αιώνα π.Χ. Το πρωτότυπο εβραϊκό χάνεται και η σημαντικότερη σωζόμενη έκδοση είναι η ελληνική μετάφραση που περιέχεται στους Εβδομήκοντα. Το βιβλίο τηρείται ως κανονική γραφή από τις Καθολικές, Ορθόδοξες και Ανατολίτικες Ορθόδοξες εκκλησίες (εκτός από την Ορθόδοξη Tewahedo), αλλά όχι από τις προτεσταντικές ονομασίες ούτε από κάποιους σημαντικούς κλάδους του Ιουδαϊσμού. δεν είναι μέρος της Εβραϊκής Βίβλου. Μερικοί Προτεστάντες το θεωρούν ως απόκρυφο βιβλίο (βλ. επίσης Δευτεροκανονικά βιβλία).
 
 1 Το Maccabees είναι περισσότερο γνωστό για την αφήγηση μιας πρώιμης νίκης στην εξέγερση των Μακκαβαίων κατά της Αυτοκρατορίας των Σελευκιδών: την ανακατάληψη της Ιερουσαλήμ το έτος 164 π.Χ. και την εκ νέου αφιέρωση του Δεύτερου Ναού - η αφήγηση πίσω από την εβραϊκή γιορτή του Χανουκά. 

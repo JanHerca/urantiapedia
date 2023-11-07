@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Προς Φιλήμονα</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Η Επιστολή προς Φιλήμονα είναι ένα από τα βιβλία της Χριστιανικής Καινής Διαθήκης. Είναι μια επιστολή φυλακής, που συντάχθηκε από τον Απόστολο Παύλο με τον Τιμόθεο, προς τον Φιλήμονα, έναν ηγέτη της εκκλησίας της Κολοσσίας. Ασχολείται με τα θέματα της συγχώρεσης και της συμφιλίωσης. Ο Παύλος δεν αυτοπροσδιορίζεται ως απόστολος με εξουσία, αλλά ως «αιχμάλωτος του Ιησού Χριστού», αποκαλώντας τον Τιμόθεο «αδελφό μας» και απευθυνόμενος στον Φιλήμονα ως «συνεργάτη» και «αδελφό» (Φιλήμων 1:1, 1:7. 1:20). Ο Όνησιμος, ένας σκλάβος που είχε φύγει από τον κύριό του Φιλήμονα, επέστρεφε με αυτή την επιστολή όπου ο Παύλος ζήτησε από τον Φιλήμονα να τον δεχτεί ως «αδελφό αγαπημένο» (Φιλήμων 1:9–17).
 
 Ο Φιλήμων ήταν ένας πλούσιος Χριστιανός, πιθανώς επίσκοπος της οικιακής εκκλησίας που συναντιόταν στο σπίτι του (Φιλήμων 1:1–2) στις Κολοσσές. Αυτή η επιστολή θεωρείται τώρα γενικά ως ένα από τα αδιαμφισβήτητα έργα του Παύλου. Είναι η συντομότερη από τις διατηρούμενες επιστολές του Παύλου, που αποτελείται μόνο από 335 λέξεις στο ελληνικό κείμενο. 

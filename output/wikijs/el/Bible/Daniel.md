@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Δανιήλ</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο του Δανιήλ είναι μια βιβλική αποκάλυψη του 2ου αιώνα π.Χ. με σκηνικό του 6ου αιώνα π.Χ. Φαινομενικά «μια αφήγηση των δραστηριοτήτων και των οραμάτων του Δανιήλ, ενός ευγενούς Εβραίου που εξορίστηκε στη Βαβυλώνα», συνδυάζει μια προφητεία της ιστορίας με μια εσχατολογία (απεικόνιση των έσχατων καιρών) τόσο κοσμικής έκτασης όσο και πολιτικής εστίασης, και το μήνυμά της είναι ότι όπως ο Θεός του Ισραήλ σώζει τον Δανιήλ από τους εχθρούς του, έτσι θα έσωζε όλο τον Ισραήλ στην παρούσα καταπίεσή του.
 
 Η Εβραϊκή Βίβλος περιλαμβάνει τον Δανιήλ στα Ketuvim (γραφές), ενώ οι χριστιανικοί βιβλικοί κανόνες ομαδοποιούν το έργο με τους Μείζονες Προφήτες. Χωρίζεται σε δύο μέρη: ένα σύνολο έξι δικαστικών παραμυθιών στα κεφάλαια 1-6, γραμμένα κυρίως στα αραμαϊκά, και τέσσερα αποκαλυπτικά οράματα στα κεφάλαια 7-12, γραμμένα κυρίως στα εβραϊκά. τα δευτεροκανονικά βιβλία περιέχουν τρεις πρόσθετες ενότητες, την Προσευχή του Αζαρία και το Άσμα των Τριών Αγίων Παίδων, τη Σουζάνα και τον Μπελ και τον Δράκο. 

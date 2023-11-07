@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Σοφία Σολομώντος</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο της Σοφίας, ή η Σοφία του Σολομώντα, είναι ένα εβραϊκό έργο που γράφτηκε στα ελληνικά και πιθανότατα συντέθηκε στην Αλεξάνδρεια της Αιγύπτου. Γενικά χρονολογείται στα μέσα του πρώτου αιώνα π.Χ., το κεντρικό θέμα του έργου είναι η ίδια η «σοφία», που εμφανίζεται σε δύο κύριες πτυχές. Η πρώτη πτυχή είναι, στη σχέση της με την ανθρωπότητα, η σοφία είναι η τελειότητα της γνώσης των δικαίων ως δώρο από τον Θεό που εμφανίζεται στην πράξη. Η δεύτερη πτυχή είναι, σε άμεση σχέση με τον Θεό, η σοφία είναι με τον Θεό από όλη την αιωνιότητα. Είναι ένα από τα επτά βιβλία Σοφίας ή σοφίας των Εβδομήκοντα, τα άλλα είναι Ψαλμοί, Παροιμίες, Εκκλησιαστής, Άσμα Ασμάτων (Άσμα Ασμάτων), Ιώβ και Σιράχ. Περιλαμβάνεται στους κανόνες της Καθολικής Εκκλησίας και της Ανατολικής Ορθόδοξης Εκκλησίας. Οι περισσότεροι προτεστάντες το θεωρούν μέρος των Απόκρυφα.
 
 ## Index

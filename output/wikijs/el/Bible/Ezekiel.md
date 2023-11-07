@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ιεζεκιήλ</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο του Ιεζεκιήλ είναι το τρίτο από τους τελευταίους προφήτες στο Tanakh και ένα από τα σημαντικότερα προφητικά βιβλία, μετά τον Ησαΐα και τον Ιερεμία. Σύμφωνα με το ίδιο το βιβλίο, καταγράφει έξι οράματα του προφήτη Ιεζεκιήλ, εξόριστου στη Βαβυλώνα, κατά τη διάρκεια των 22 ετών από το 593 έως το 571 π.Χ., αν και είναι προϊόν μακράς και πολύπλοκης ιστορίας και δεν διατηρεί απαραίτητα τα ίδια τα λόγια προφήτης.
 
 Τα οράματα και το βιβλίο διαρθρώνονται γύρω από τρία θέματα: (1) Κρίση για το Ισραήλ (κεφάλαια 1–24). (2) Κρίση για τα έθνη (κεφάλαια 25–32). και (3) Μελλοντικές ευλογίες για το Ισραήλ (κεφάλαια 33–48). Τα θέματά του περιλαμβάνουν τις έννοιες της παρουσίας του Θεού, της αγνότητας, του Ισραήλ ως θεϊκής κοινότητας και της ατομικής ευθύνης προς τον Θεό. Η μεταγενέστερη επιρροή του περιέλαβε την ανάπτυξη μυστικιστικών και αποκαλυπτικών παραδόσεων στον Δεύτερο Ναό και του ραβινικού Ιουδαϊσμού και Χριστιανισμού.

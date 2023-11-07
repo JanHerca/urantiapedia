@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Μακκαβαίων Β'</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το 2 Maccabees, γνωστό και ως Second Book of Maccabees, Second Maccabees, και συντομογραφία 2 Macc., είναι ένα δευτεροκανονικό βιβλίο που αφηγείται τον διωγμό των Εβραίων υπό τον βασιλιά Αντίοχο Δ' Επιφάνη και την εξέγερση των Μακκαβαίων εναντίον του. Ολοκληρώνεται με την ήττα του στρατηγού της Αυτοκρατορίας των Σελευκιδών Νικάνορα το 161 π.Χ. από τον Ιούδα Μακκαβαίο, τον αρχηγό των Μακκαβαίων.
 
 Το 2 Maccabees γράφτηκε αρχικά στα Ελληνικά από έναν άγνωστο Εβραίο της διασποράς που ζούσε στην ελληνιστική Αίγυπτο. Πιθανότατα γράφτηκε κάποια περίοδο μεταξύ 150 και 120 π.Χ. Μαζί με το βιβλίο 1 Μακκαβαίων, είναι μια από τις πιο σημαντικές πηγές για την Εξέγερση των Μακκαβαίων. Το έργο δεν είναι συνέχεια του 1 Maccabees αλλά μάλλον η δική του ανεξάρτητη απόδοση των ιστορικών γεγονότων της Επανάστασης των Μακκαβαίων. Ξεκινά και τελειώνει την ιστορία του νωρίτερα από την 1η Μακκαβαίων, ξεκινώντας με ένα περιστατικό με τον Σελευκίδη αξιωματούχο Ηλιόδωρο που προσπάθησε να φορολογήσει τον Δεύτερο Ναό το 178 π.Χ. και τελειώνει με τη Μάχη της Άντασα το 161 π.Χ. Μερικοί μελετητές πιστεύουν ότι το βιβλίο είναι επηρεασμένο από τη Φαρισαϊκή παράδοση, με τμήματα που περιλαμβάνουν την επικύρωση της προσευχής για τους νεκρούς και την ανάσταση των νεκρών.

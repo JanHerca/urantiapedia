@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Επιστολή Ιωάννη Β'</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Η Δεύτερη Επιστολή του Ιωάννη είναι ένα βιβλίο της Καινής Διαθήκης που αποδίδεται στον Ιωάννη τον Ευαγγελιστή, που παραδοσιακά πιστεύεται ότι είναι ο συγγραφέας των άλλων δύο επιστολών του Ιωάννη, και του Ευαγγελίου του Ιωάννη (αν και αυτό αμφισβητείται). Οι περισσότεροι σύγχρονοι μελετητές πιστεύουν ότι αυτός δεν είναι ο Ιωάννης ο Απόστολος, αλλά γενικά δεν υπάρχει συναίνεση ως προς την ταυτότητα αυτού του ατόμου ή της ομάδας. (Βλ. Συγγραφή των έργων του Johannine.)
 
 Το Second John και το Third John είναι τα δύο πιο σύντομα βιβλία της Βίβλου. Το συντομότερο βιβλίο στην αγγλική γλώσσα διαφέρει ανάλογα με τη μετάφραση (έκδοση) που διαβάζει κανείς. Για παράδειγμα, στη Νέα Διεθνή Έκδοση 2, ο Ιωάννης είναι το συντομότερο βιβλίο με μόνο 302 λέξεις, αλλά στην Έκδοση King James (Εξουσιοδοτημένη Έκδοση) το 3 John είναι το συντομότερο με μόνο 295 λέξεις. Ωστόσο, ο Δεύτερος Ιωάννης έχει τα λιγότερα εδάφια στη Βίβλο με μόνο 1 κεφάλαιο που αποτελείται από μόνο 13 στίχους.

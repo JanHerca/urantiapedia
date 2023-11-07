@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ρουθ</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο της Ρουθ (Εβραϊκά: מגילת רות, Μεγιλάθ Ρουθ, «ο κύλινδρος της Ρουθ», ένα από τα Πέντε Μεγιλότ) περιλαμβάνεται στην τρίτη διαίρεση ή στα Γράμματα (Ketuvim), της Εβραϊκής Βίβλου. Στους περισσότερους χριστιανικούς κανόνες αντιμετωπίζεται ως ένα από τα ιστορικά βιβλία και τοποθετείται μεταξύ των Κριτών και του Α' Σαμουήλ.
 
 Το βιβλίο, γραμμένο στα εβραϊκά τον 6ο–4ο αιώνα π.Χ., μιλά για τη Μωαβίτη Ρουθ, η οποία δέχεται τον Γιαχβέ, τον Θεό των Ισραηλιτών, ως Θεό της και τον Ισραηλινό λαό ως δικό της. Στο εδάφιο Ρουθ 1:16–17, η Ρουθ λέει στη Ναομί, την Ισραηλινή πεθερά της, «Όπου πας εσύ θα πάω και όπου μείνεις θα μείνω. Ο λαός σου θα είναι λαός μου και ο Θεός σου Θεός μου. Όπου πεθάνεις θα πεθάνω, και εκεί θα με θάψουν. Είθε ο Κύριος να με αντιμετωπίσει, έστω και τόσο σκληρά, αν ακόμη και ο θάνατος χωρίζει εσάς και εμένα». 

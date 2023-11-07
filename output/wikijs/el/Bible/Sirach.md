@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Σοφία Σειράχ</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 The Book of Sirach (/ˈsaɪræk/) ή Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/, συντομογραφία Ecclus.), είναι ένα εβραϊκό έργο, αρχικά στα εβραϊκά, ηθικών διδασκαλιών, από το 200 έως το 175 περίπου π.Χ. , με βάση την έμπνευση του πατέρα του Joshua γιο του Sirach, που μερικές φορές αποκαλείται Ιησούς γιος του Sirach ή Yeshua ben Eliezer ben Sira. 
 
 Στην Αίγυπτο μεταφράστηκε στα ελληνικά από τον ανώνυμο εγγονό του συγγραφέα, ο οποίος πρόσθεσε έναν πρόλογο. Αυτός ο πρόλογος θεωρείται γενικά ο πρώτος μάρτυρας ενός κανόνα [απαιτείται διευκρίνιση] των βιβλίων των προφητών, και επομένως η ημερομηνία του κειμένου αποτελεί αντικείμενο εντατικής εξέτασης. Το ίδιο το βιβλίο είναι το μεγαλύτερο βιβλίο σοφίας από την αρχαιότητα που έχει διασωθεί.

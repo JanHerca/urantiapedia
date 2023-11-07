@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Βαρούχ</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο του Μπαρούχ είναι ένα δευτεροκανονικό βιβλίο της Βίβλου, που χρησιμοποιείται στις περισσότερες χριστιανικές παραδόσεις, όπως οι καθολικές και οι ορθόδοξες εκκλησίες. Στον Ιουδαϊσμό και τον Προτεσταντικό Χριστιανισμό, θεωρείται ότι δεν αποτελεί μέρος του κανόνα, με τις Προτεσταντικές Βίβλους να το κατηγοριοποιούν ως μέρος των Βιβλικών απόκρυφα. Το βιβλίο πήρε το όνομά του από τον Βαρούχ μπεν Νέρια, τον πολύ γνωστό γραφέα του Ιερεμία, ο οποίος αναφέρεται στο εδάφιο Βαρούχ 1:1, και θεωρείται ότι είναι ο συγγραφέας όλου του έργου. Το βιβλίο είναι μια αντανάκλαση ενός αείμνηστου Εβραίου συγγραφέα για τις συνθήκες των Εβραίων εξόριστων από τη Βαβυλώνα, με στοχασμούς για τη θεολογία και την ιστορία του Ισραήλ, συζητήσεις σοφίας και μια άμεση απεύθυνση στους κατοίκους της Ιερουσαλήμ και της Διασποράς. Μερικοί μελετητές προτείνουν ότι γράφτηκε κατά τη διάρκεια ή λίγο μετά την περίοδο των Μακκαβαίων.
 
 Το Βιβλίο του Βαρούχ μερικές φορές αναφέρεται ως 1 Βαρούχ για να το ξεχωρίσει από το 2 Βαρούχ, 3 Βαρούχ και 4 Βαρούχ. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Παραλειπομένων Α'</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο των Χρονικών (Εβραϊκά: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) είναι ένα βιβλίο στην Εβραϊκή Βίβλο, που βρίσκεται ως δύο βιβλία (1–2 Παλαιά Χρονικά) στις Χριστιανικές Διαθήκες. Τα Χρονικά είναι το τελευταίο βιβλίο της Εβραϊκής Βίβλου, που ολοκληρώνει το τρίτο τμήμα του εβραϊκού Tanakh, το Ketuvim («Γράψεις»). Περιλαμβάνει μια γενεαλογία που ξεκινά με τον Αδάμ και μια ιστορία του αρχαίου Ιούδα και του Ισραήλ μέχρι το Διάταγμα του Κύρου το 539 π.Χ.
 
 Το βιβλίο χωρίστηκε σε δύο βιβλία στα Εβδομήκοντα και μεταφράστηκε στα μέσα του 3ου αιώνα π.Χ. Στα χριστιανικά πλαίσια τα Χρονικά αναφέρονται στον πληθυντικό ως Books of Chronicles, μετά τη λατινική ονομασία Chronicon που δόθηκε στο κείμενο από τον Jerome, αλλά επίσης σπάνια αναφέρονται με το ελληνικό τους όνομα ως Books of Paralipomenon. Στις Χριστιανικές Βίβλους, συνήθως ακολουθούν τα δύο Βιβλία των Βασιλέων και προηγούνται του Έσδρα-Νεεμία, του τελευταίου ιστορικού προσανατολισμού βιβλίου της Προτεσταντικής Παλαιάς Διαθήκης.

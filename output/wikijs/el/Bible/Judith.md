@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ιουδίθ</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο της Ιουδίθ είναι ένα δευτεροκανονικό βιβλίο, που περιλαμβάνεται στους Εβδομήκοντα και στην Καθολική και Ανατολική Ορθόδοξη Χριστιανική Παλαιά Διαθήκη της Βίβλου, αλλά εξαιρέθηκε από τον εβραϊκό κανόνα και ανατέθηκε από Προτεστάντες στα απόκρυφα. Λέει για μια Εβραία χήρα, την Judith, η οποία χρησιμοποιεί την ομορφιά και τη γοητεία της για να καταστρέψει έναν Ασσύριο στρατηγό και να σώσει το Ισραήλ από την καταπίεση. Τα σωζόμενα ελληνικά χειρόγραφα περιέχουν αρκετούς ιστορικούς αναχρονισμούς, γι' αυτό ορισμένοι προτεστάντες μελετητές θεωρούν τώρα το βιβλίο μη ιστορικό: μια παραβολή, ένα θεολογικό μυθιστόρημα ή ίσως το πρώτο ιστορικό μυθιστόρημα. Το όνομα Judith (Εβραϊκά: יְהוּדִית, μοντέρνο: Yehudit, τιβεριανά: Yəhûḏîṯ, «Επαινομένη» ή «Εβραία») είναι η θηλυκή μορφή του Ιούδα.
 
 ## Index

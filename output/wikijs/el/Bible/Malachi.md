@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">Η ΒΊΒΛΟΣ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Greek Old Testament (Septuagint), 1935</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Μαλαχίας</text>
+	</g>
+</svg>
+</div>
+
+## Περιγραφή
+
+
 Το Βιβλίο του Μαλαχία (Εβραϊκά: מַלְאָכִ֔י, Malʾāḵī) είναι το τελευταίο βιβλίο των Νεβιίμ που περιέχεται στο Tanakh, κανονικά το τελευταίο από τους Δώδεκα Μικρούς Προφήτες. Στη χριστιανική τάξη, η ομαδοποίηση των προφητικών βιβλίων είναι το τελευταίο τμήμα της Παλαιάς Διαθήκης, καθιστώντας τον Μαλαχία το τελευταίο βιβλίο πριν από την Καινή Διαθήκη.
 
 Το βιβλίο αποδίδεται συνήθως σε έναν προφήτη ονόματι Μαλαχίας, καθώς ο τίτλος του έχει συχνά γίνει κατανοητός ως το κατάλληλο όνομα, αν και η εβραϊκή του σημασία είναι απλώς «Ο Αγγελιοφόρος μου» (η Εβδομήκοντα διαβάζει «ο αγγελιοφόρος του») και μπορεί να μην είναι το όνομα του συγγραφέα στο όλα. Το όνομα εμφανίζεται στην επιγραφή σε 1:1 και σε 3:1, αν και είναι πολύ απίθανο η λέξη να αναφέρεται στον ίδιο χαρακτήρα και στις δύο αυτές αναφορές. Έτσι, υπάρχει ουσιαστική συζήτηση σχετικά με την ταυτότητα του συγγραφέα του βιβλίου. Ένα από τα Targums προσδιορίζει τον Ezra (ή Esdras) ως συγγραφέα του Malachi. Ο ιερέας και ιστορικός Ιερώνυμος προτείνει ότι αυτό μπορεί να οφείλεται στο ότι ο Έσδρας θεωρείται ως ενδιάμεσος μεταξύ των προφητών και της «μεγάλης συναγωγής». Ωστόσο, δεν υπάρχουν ακόμη ιστορικά στοιχεία που να υποστηρίζουν αυτόν τον ισχυρισμό.
