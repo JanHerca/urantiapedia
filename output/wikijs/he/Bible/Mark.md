@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew New Testament (Dalman-Delitzsch)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">הבשורה על-פי מרקוס</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 בשורת מרקוס היא השנייה מבין ארבע הבשורות הקנוניות ומשלושת הבשורות הסינופטיות. הוא מספר על שירותו של ישוע מהטבלתו על ידי יוחנן המטביל ועד מותו, קבורתו וגילוי קברו הריק. אין לידה מופלאה או דוקטרינה של קיום אלוהי, וגם לא, בסיום המקורי (מרקוס טז:1–8), שום הופעה של ישוע לאחר תחיית המתים. הוא מציג את ישו כמורה, מגרש שדים, מרפא ומחולל נסים. הוא מתייחס לעצמו כבן האדם. הוא נקרא בן האלוהים, אך שומר את טבעו המשיחי בסוד; אפילו תלמידיו לא מצליחים להבין אותו. כל זה עולה בקנה אחד עם הפרשנות הנוצרית לנבואה, שלדעתה חוזה את גורלו של המשיח כמשרת סובל. הבשורה מסתיימת, בגרסתה המקורית, בגילוי הקבר הריק,
 
 רוב החוקרים מתארכים את מארק לכ. 66–74 לספירה, זמן קצר לפני או לאחר חורבן בית שני בשנת 70 לספירה. הם דוחים את הייחוס המסורתי למרקוס האוונגליסט, בן לוויתו של השליח פטרוס, שכנראה נבע מרצונם של הנוצרים הקדומים לקשור את היצירה לדמות סמכותית, ומאמינים שזו יצירתו של מחבר שעובד עם מקורות שונים כולל אוספים של סיפורי נס, סיפורי מחלוקת, משלים ונרטיב תשוקה. באופן מסורתי הוא הוצב במקום השני, ולפעמים הרביעי, בקאנון הנוצרי, כקיצור נחות של מה שנחשב לבשורה החשובה ביותר, מתי; כתוצאה מכך, הכנסייה שאבה את השקפתה על ישו בעיקר מתיו, שנית מיוחנן, ורק מרחוק ממרקוס.

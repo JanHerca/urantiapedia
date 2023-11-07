@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">עזרא</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר עזרא הוא ספר התנ"ך העברי; שכלל בעבר את ספר נחמיה בספר אחד, נהוג להבחין במחקר כעזרא-נחמיה. השניים הופרדו עם התנ"ך הרבני המודפס הראשונים של תחילת המאה ה-16, בעקבות מסורת נוצרית הלטינית של סוף ימי הביניים. חובר בעברית ובארמית, נושאו הוא שיבת ציון לאחר תום שבי בבל, והוא מחולק לשני חלקים, הראשון מספר את סיפור שיבת הגולים הראשונה בשנתו הראשונה של כורש הגדול (538). לפנה"ס) והשלמתו וחנוכתו של בית המקדש החדש בירושלים בשנה השישית לדריוש הראשון (515 לפנה"ס), המספר השני על שליחותו שלאחר מכן של עזרא לירושלים ומאבקו לטהר את היהודים מנישואים עם לא-יהודים. יחד עם ספר נחמיה,
 
 עזרא נכתב כך שיתאים לתבנית סכמטית שבה אלוהי ישראל נותן השראה למלך פרס להורות למנהיג מהקהילה היהודית לבצע שליחות; שלושה מנהיגים רצופים מבצעים שלוש משימות כאלה, הראשונה בונה את בית המקדש מחדש, השנייה מטהרת את הקהילה היהודית, והשלישית חותמת את עיר הקודש עצמה מאחורי חומה. (שליחות אחרונה זו, זו של נחמיה, אינה חלק מספר עזרא.) התוכנית התיאולוגית של הספר מסבירה את הבעיות הרבות שמציג המבנה הכרונולוגי שלו. הוא כנראה הופיע בגרסתו המוקדמת ביותר בסביבות שנת 399 לפני הספירה, והמשיך להיות מתוקן וערוך במשך כמה מאות שנים לפני שהתקבל ככתבי קודש בתקופה הנוצרית המוקדמת. 

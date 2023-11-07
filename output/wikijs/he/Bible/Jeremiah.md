@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">ירמיה</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר ירמיהו (בעברית: ספר יִרְמְיָהוּ) הוא השני מבין הנביאים האחרונים בתנ"ך העברי, והשני בנביאים בברית הישנה הנוצרית. הכתובת בפרק ירמיהו א' 1-3 מזהה את הספר כ"דברי ירמיהו בן חלקיהו". מבין כל הנביאים, ירמיהו מגיע בצורה הכי ברורה כאדם, ומהרהר בפני סופרו ברוך על תפקידו כעבד ה' עם מעט בשורות טובות לקהל שלו.
 
 ספרו נועד כמסר ליהודים בגלות בבל, המסביר את אסון הגלות כתגובתו של אלוהים לעבודת האלילים של ישראל: העם, אומר ירמיהו, הוא כמו אישה בוגדת וילדים סוררים, בגידתם ומרדנותם הפכו את השיפוט לבלתי נמנע. , אף על פי ששיקום וברית חדשה מבשרים מראש. אורקולים אותנטיים של ירמיהו נמצאים כנראה בחלקי השירה של פרקים א'-כ"ה, אבל הספר כולו זכה לעריכה רבה והוסיפו לו חסידי הנביא (כולל אולי חברו, הסופר ברוך) ודורות מאוחרים יותר של דוטרונומים.

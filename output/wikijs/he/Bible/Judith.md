@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">יהודית</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר יהודית הוא ספר דיאוטו-קנוני, הנכלל בתרגום השבעים ובברית הקתולית הנוצרית הקתולית והמזרחית-אורתודוקסית של התנ"ך, אך לא נכלל מהקאנון העברי והוקצה על ידי הפרוטסטנטים לאפוקריפים. הוא מספר על אלמנה יהודייה, יהודית, שמשתמשת ביופיה ובקסמה כדי להשמיד גנרל אשורי ולהציל את ישראל מדיכוי. כתבי היד היווניים ששרדו מכילים כמה אנכרוניזם היסטורי, וזו הסיבה שכמה חוקרים פרוטסטנטים רואים כיום את הספר לא היסטורי: משל, רומן תיאולוגי, או אולי הרומן ההיסטורי הראשון. השם יהודית (בעברית: יְהוּדִית, מודרנית: יהודית, טיברית: Yəhûḏîṯ, "משבח" או "יהודיה") הוא צורת הנקבה של יהודה. 
 
 ## Index

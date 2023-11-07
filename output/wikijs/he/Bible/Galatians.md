@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew New Testament (Dalman-Delitzsch)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">האיגרת אל הגלטים</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 האיגרת לגלטים היא הספר התשיעי של הברית החדשה. זהו מכתב מאת פאולוס השליח למספר קהילות נוצריות קדומות בגלטיה. חוקרים הציעו שזהו המחוז הרומאי של גלטיה בדרום אנטוליה, או אזור גדול המוגדר על ידי קבוצה אתנית של אנשים קלטים במרכז אנטוליה.
 
 במכתב זה, פאולוס עוסק בעיקר במחלוקת סביב נוצרים גויים וחוק משה רבנו בתקופת השליחים. פאולוס טוען שהגלטים הגויים אינם צריכים לדבוק בעקרונותיו של תורת משה רבנו, במיוחד ברית מילה דתית של גברים, על ידי יצירת הקשר של תפקיד החוק לאור התגלותו של ישו. האיגרת לגלטים השפיעה עצומה על ההיסטוריה של הנצרות, על התפתחות התיאולוגיה הנוצרית ועל חקר השליח פאולוס.

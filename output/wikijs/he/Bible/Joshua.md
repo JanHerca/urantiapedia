@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">יהושע</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר יהושע (בעברית: ספר יהושע ספר יהושע) הוא הספר השישי בתנ"ך העברי ובברית הישנה הנוצרית, והוא הספר הראשון בהיסטוריה הדאוטונומיסטית, סיפור ישראל מכיבוש כנען ועד גלות בבל. הוא מספר על מסעות בני ישראל במרכז, בדרום ובצפון כנען, על השמדת אויביהם וחלוקת הארץ בין שנים עשר השבטים, ממוסגרים בשני נאומי תפאורה, הראשון על ידי אלוהים שציווה על כיבוש הארץ. ארץ, ובסוף השני מאת יהושע המזהיר מפני הצורך בקיום נאמנה של התורה (תורה) שנגלה למשה.
 
 כמעט כל החוקרים מסכימים שלספר יהושע יש ערך היסטורי מועט לישראל הקדומה וככל הנראה משקף תקופה מאוחרת בהרבה. החלקים המוקדמים ביותר של הספר הם אולי פרקים 2–11, סיפור הכיבוש; פרקים אלו שולבו מאוחר יותר בצורה מוקדמת של יהושע שנכתבה ככל הנראה בסוף שלטונו של המלך יאשיהו (שמלך 640–609 לפנה"ס), אך הספר הושלם רק לאחר נפילת ירושלים לידי האימפריה הניאו-בבלית בשנת 586 לפנה"ס, ואולי רק לאחר החזרה מגלות בבל בשנת 539 לפנה"ס. 

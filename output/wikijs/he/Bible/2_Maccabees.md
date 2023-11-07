@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">חשמונאים ב׳</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 2 מקבים, הידוע גם בתור ספר המקבים השני, מקבים שני, ובקיצור 2 מקבים, הוא ספר דו-קנוני המספר על רדיפת היהודים תחת המלך אנטיוכוס הרביעי אפיפנס ואת מרד המכבים נגדו. הוא מסתיים בתבוסה של גנרל האימפריה הסלאוקית ניקנור בשנת 161 לפנה"ס על ידי יהודה המכבי, מנהיג המכבים.
 
 2 מקבים נכתב במקור ביוונית קוינה על ידי יהודי פזורה לא ידוע המתגורר במצרים ההלניסטית. הוא נכתב כנראה זמן מה בין 150 ל-120 לפני הספירה. יחד עם ספר 1 המקבים, הוא אחד המקורות החשובים ביותר על מרד המכבים. היצירה אינה המשך ל-1 מכבים אלא ביצוע עצמאי משלה לאירועים ההיסטוריים של מרד המכבים. זה גם מתחיל וגם מסיים את ההיסטוריה שלו לפני 1 מקבים, החל בתקרית עם הפקיד הסלאוקי הליודורוס שניסה להטיל מס על בית המקדש השני בשנת 178 לפנה"ס, וכלה בקרב עדסה בשנת 161 לפנה"ס. חלק מהחוקרים מאמינים שהספר מושפע מהמסורת הפרושים, עם קטעים הכוללים אישור לתפילה למתים ותחיית המתים.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew New Testament (Dalman-Delitzsch)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">מעשי השליחים</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 מעשי השליחים (Koinē ביוונית: Πράξεις Ἀποστόλων, Práxeis Apostólōn; בלטינית: Actūs Apostolōrum) הוא הספר החמישי של הברית החדשה; הוא מספר על ייסוד הכנסייה הנוצרית והפצת המסר שלה לאימפריה הרומית. הוא נותן דין וחשבון על שירותם ופעילותם של שליחי המשיח בירושלים ובאזורים אחרים, לאחר מותו, תחייתו והתעלותו של ישו.
 
 מעשי השליחים ובשורת לוקס מרכיבים יצירה בת שני חלקים, לוקס-מעשה, מאת אותו מחבר אנונימי. זה בדרך כלל מתוארך לסביבות 80-90 לספירה, אם כי כמה חוקרים מציעים 90-110. החלק הראשון, בשורת לוקס, מספר כיצד אלוהים הגשים את תוכניתו להצלת העולם באמצעות חייו, מותו ותחייתו של ישוע מנצרת, המשיח המובטח. מעשי השליחים ממשיך את סיפור הנצרות במאה ה-1, החל עם עלייתו של ישו לגן עדן. הפרקים הראשונים, המתרחשים בירושלים, מתארים את יום חג השבועות (ביאת רוח הקודש) ואת צמיחתה של הכנסייה בירושלים. בתחילה, היהודים פתוחים למסר הנוצרי, אך בהמשך הם פונים נגד חסידי ישו. נדחה על ידי היהודים, המסר מועבר לגויים בהדרכתו של פאולוס השליח. הפרקים המאוחרים מספרים על המרת דת של פאולוס, על שליחותו באסיה הקטנה ובים האגאי, ולבסוף על מאסרו ברומא, שם, עם סיום הספר, הוא ממתין למשפט.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">במדבר</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר מספרים (מיוונית Ἀριθμοί, אריתמוי; עברית: בְּמִדְבַּר, בַמְמִיבַּר, "במדבר [של]") הוא הספר הרביעי בתנ"ך העברי, והרביעי מתוך חמישה ספרי התורה היהודית. לספר היסטוריה ארוכה ומורכבת; צורתו הסופית נובעת ככל הנראה מעיבוד כהני (כלומר, עריכה) של מקור יהוויסטי שנעשה זמן מה בתחילת התקופה הפרסית (המאה החמישית לפני הספירה). שמו של הספר בא משני מפקדי האוכלוסין שנעשו על בני ישראל.
 
 מספרים מתחילים בהר סיני, שם קיבלו בני ישראל את החוקים והברית שלהם מאלוהים ואלוהים התגורר בקרבם בקודש. המשימה העומדת בפניהם היא להשתלט על הארץ המובטחת. האנשים נספרים ונערכים לחידוש צעדתם. בני ישראל מתחילים את המסע, אך הם "רוטנים" על הקשיים שבדרך, ועל סמכותם של משה ואהרון. עבור מעשים אלה, אלוהים משמיד כ-15,000 מהם באמצעים שונים. הם מגיעים לגבולות כנען ושולחים מרגלים לארץ. למשמע הדיווח המפחיד של המרגלים על התנאים בכנען, מסרבים בני ישראל להשתלט עליו. אלוהים דן אותם למוות במדבר עד שדור חדש יוכל לגדול ולבצע את המשימה.

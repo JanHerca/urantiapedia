@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">דניאל</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר דניאל הוא אפוקליפסה מקראית מהמאה ה-2 לפנה"ס עם תפאורה של המאה ה-6 לפנה"ס. לכאורה "תיאור פעולותיו וחזיונותיו של דניאל, יהודי אציל גולה בבבל", הוא משלב נבואה של היסטוריה עם אסכטולוגיה (תיאור של אחרית הימים) הן בהיקפה קוסמית והן במיקוד הפוליטי, והמסר שלה הוא ש כשם שאלוהי ישראל מציל את דניאל מאויביו, כך היה מציל את כל ישראל בעושק הנוכחים.
 
 התנ"ך העברי כולל את דניאל בכתובים (כתבים), בעוד שהקנונים המקראיים הנוצרים מקבצים את העבודה עם הנביאים הגדולים. הוא מתחלק לשני חלקים: סט של שישה סיפורי חצר בפרקים א'-ו', הכתובים ברובם בארמית, וארבעה חזיונות אחרית הימים בפרקים ז'-יב', הכתובים ברובם בעברית; הספרים הדאוטו-קנוניים מכילים שלושה חלקים נוספים, תפילת עזריה ושירת שלושת הילדים הקדושים, סוזנה ובל והדרקון. 

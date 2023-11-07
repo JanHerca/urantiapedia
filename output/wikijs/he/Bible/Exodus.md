@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">שמות</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר שמות (מיוונית עתיקה: Ἔξοδος, רומאנית: Éxodos; בעברית: שְׁמוֹת Šəmōṯ, "שמות") הוא הספר השני של התנ"ך. הוא מספר את סיפור יציאת מצרים, שבה עוזבים בני ישראל את העבדות במצרים המקראית בכוחו של יהוה, שבחר בהם לעמו. לאחר מכן נוסעים בני ישראל עם משה הנביא להר סיני, שם נותן יהוה את 10 הדיברות והם כורתים ברית עם יהוה, המבטיח להפוך אותם ל"גוי קדוש וממלכת כוהנים" בתנאי נאמנותם. הוא נותן להם את חוקיהם והוראותיהם לבנות את המשכן, האמצעים שבאמצעותו יבוא מהשמים וישכון עמם ויוביל אותם במלחמת קודש לרשת את ארץ כנען ("הארץ המובטחת"), אשר קודם לכן, לפי סיפור בראשית, הובטח לזרעו של אברהם.
 
 באופן מסורתי, מיוחס למשה עצמו, חוקרים מודרניים רואים בהרכבו הראשוני תוצר של גלות בבל (המאה ה-6 לפנה"ס), בהתבסס על מקורות קודמים בכתב ומסורות בעל-פה, עם תיקונים אחרונים בתקופה הפרסית שלאחר הגלות (המאה ה-5 לפנה"ס). קרול מאיירס, בפרשנותה ליציאת מצרים, מציעה שהוא ללא ספק הספר החשוב ביותר בתנ"ך, שכן הוא מציג את המאפיינים המגדירים את זהותה של ישראל - זיכרונות של עבר המסומן בקושי ובבריחה, ברית מחייבת עם אלוהים, שבוחר ישראל, וביסוס חיי הקהילה וההנחיות לקיומם. הקונצנזוס בקרב החוקרים המודרניים הוא שהסיפור בספר שמות מובן בצורה הטובה ביותר כמיתוס. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">ביבליה</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Hebrew Old Testament (Tanach)</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">דברי הימים א׳</text>
+	</g>
+</svg>
+</div>
+
+## תיאור
+
+
 ספר דברי הימים (בעברית: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) הוא ספר בתנ"ך העברי, המצוי כשני ספרים (1–2 דברי הימים) בברית הישנה הנוצרית. דברי הימים הוא הספר האחרון של התנ"ך העברי, המסכם את החלק השלישי של התנ"ך היהודי, הכתובים ("כתבים"). הוא מכיל אילן יוחסין המתחיל באדם והיסטוריה של יהודה וישראל הקדומים עד לצו כורש בשנת 539 לפני הספירה.
 
 הספר חולק לשני ספרים בתרגום השבעים ותורגם באמצע המאה ה-3 לפני הספירה. בהקשרים נוצריים, דברי הימים מכונה ברבים בתור ספרי דברי הימים, על שם השם הלטיני כרוניקון שניתן לטקסט על ידי ג'רום, אך לעיתים רחוקות הם גם מכונה בשמם היווני ספרי פרליפומנון. בתנ"ך הנוצרי, הם בדרך כלל עוקבים אחר שני ספרי המלכים וקודמים לעזרא-נחמיה, הספר האחרון המכוון להיסטוריה של הברית הישנה הפרוטסטנטית. 
