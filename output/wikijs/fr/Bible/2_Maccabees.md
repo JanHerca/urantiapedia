@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">II Maccabées</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 2 Maccabées, également connu sous le nom de Second Livre des Maccabées, Second Maccabées, et abrégé en 2 Macc., Est un livre deutérocanonique qui raconte la persécution des Juifs sous le roi Antiochus IV Épiphane et la révolte des Maccabées contre lui. Il se termine par la défaite du général de l'Empire séleucide Nicanor en 161 avant JC par Judas Maccabeus, le chef des Maccabées.
 
 2 Maccabées a été écrit à l'origine en grec koine par un juif inconnu de la diaspora vivant en Égypte hellénistique. Il a probablement été écrit entre 150 et 120 av. Avec le livre 1 Maccabées, c'est l'une des sources les plus importantes sur la révolte des Maccabées. L'œuvre n'est pas une suite de 1 Maccabées mais plutôt sa propre interprétation indépendante des événements historiques de la révolte des Maccabées. Il commence et termine à la fois son histoire plus tôt que 1 Maccabées, en commençant par un incident avec le fonctionnaire séleucide Héliodore tentant de taxer le Second Temple en 178 avant JC, et se terminant par la bataille d'Adasa en 161 avant JC. Certains érudits pensent que le livre est influencé par la tradition pharisaïque, avec des sections qui incluent une approbation de la prière pour les morts et une résurrection des morts.

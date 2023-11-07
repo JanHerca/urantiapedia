@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Josué</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Josué (hébreu : ספר יהושע Sefer Yehoshua) est le sixième livre de la Bible hébraïque et de l'Ancien Testament chrétien, et est le premier livre de l'histoire deutéronomiste, l'histoire d'Israël de la conquête de Canaan à l'exil babylonien. Il raconte les campagnes des Israélites dans le centre, le sud et le nord de Canaan, la destruction de leurs ennemis et la division du pays entre les Douze Tribus, encadré par deux discours arrêtés, le premier par Dieu ordonnant la conquête du terre, et, à la fin, la seconde par Josué avertissant de la nécessité d'observer fidèlement la Loi (torah) révélée à Moïse.
 
 Presque tous les érudits conviennent que le Livre de Josué a peu de valeur historique pour le début d'Israël et reflète très probablement une période beaucoup plus tardive. Les premières parties du livre sont peut-être les chapitres 2 à 11, l'histoire de la conquête; ces chapitres ont ensuite été incorporés dans une première forme de Josué probablement écrite à la fin du règne du roi Josias (régné de 640 à 609 avant notre ère), mais le livre n'a été achevé qu'après la chute de Jérusalem dans l'empire néo-babylonien en 586 avant notre ère, et peut-être pas avant le retour de l'exil babylonien en 539 avant notre ère.

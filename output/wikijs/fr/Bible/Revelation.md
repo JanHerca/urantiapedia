@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apocalypse de Jean</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le livre de l'Apocalypse est le dernier livre du Nouveau Testament (et par conséquent le dernier livre de la Bible chrétienne). Son titre est dérivé du premier mot du texte grec koine : apokalypsis, signifiant « dévoilement » ou « révélation ». Le livre de l'Apocalypse est le seul livre apocalyptique du canon du Nouveau Testament. Elle occupe une place centrale dans l'eschatologie chrétienne.
 
 L'auteur se nomme "John" dans le texte, mais son identité précise reste un point de débat académique. Les écrivains chrétiens du IIe siècle tels que Papias de Hiérapolis, Justin Martyr, Irénée, Méliton de Sardes, Clément d'Alexandrie et l'auteur du fragment muratorien identifient Jean l'Apôtre comme le «Jean» de l'Apocalypse. L'érudition moderne adopte généralement un point de vue différent, beaucoup considérant que l'on ne peut rien savoir de l'auteur, sauf qu'il était un prophète chrétien. Les érudits théologiques modernes caractérisent l'auteur du Livre de l'Apocalypse comme « Jean de Patmos ». La majeure partie des sources traditionnelles datent le livre du règne de l'empereur romain Domitien (81-96 après JC), ce que les preuves tendent à confirmer.

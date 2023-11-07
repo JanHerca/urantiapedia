@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Livre d'Hénoch</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre d'Enoch (aussi 1 Enoch;[note 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) est un ancien texte religieux hébreu apocalyptique, attribué par tradition à Enoch, l'arrière-grand-père de Noé. Enoch contient des informations uniques sur les origines des démons et des Nephilim, pourquoi certains anges sont tombés du ciel, une explication de la raison pour laquelle le déluge de la Genèse était moralement nécessaire et une exposition prophétique du règne millénaire du Messie.
 
 Les sections les plus anciennes (principalement dans le Livre des Veilleurs) du texte sont estimées dater d'environ 300 à 200 avant JC, et la dernière partie (Livre des paraboles) probablement à 100 avant JC.

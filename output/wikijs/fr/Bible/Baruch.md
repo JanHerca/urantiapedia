@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Baruch</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Baruch est un livre deutérocanonique de la Bible, utilisé dans la plupart des traditions chrétiennes, telles que les églises catholiques et orthodoxes. Dans le judaïsme et le christianisme protestant, il est considéré comme ne faisant pas partie du canon, les Bibles protestantes le catégorisant comme faisant partie des apocryphes bibliques. Le livre porte le nom de Baruch ben Neriah , le scribe bien connu de Jérémie, qui est mentionné à Baruch 1: 1, et a été présumé être l'auteur de l'ensemble de l'ouvrage. Le livre est une réflexion d'un écrivain juif décédé sur les circonstances des exilés juifs de Babylone, avec des méditations sur la théologie et l'histoire d'Israël, des discussions sur la sagesse et une adresse directe aux habitants de Jérusalem et de la diaspora. Certains érudits proposent qu'il a été écrit pendant ou peu de temps après la période des Maccabées.
 
 Le Livre de Baruch est parfois appelé 1 Baruch pour le distinguer de 2 Baruch, 3 Baruch et 4 Baruch.

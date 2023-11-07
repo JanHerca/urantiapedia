@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ire Épître de Paul à Timothée</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 La première épître à Timothée est l'une des trois lettres du Nouveau Testament de la Bible souvent regroupées sous le nom d'épîtres pastorales, avec Deuxième Timothée et Tite. La lettre, traditionnellement attribuée à l'apôtre Paul, consiste principalement en des conseils à son jeune collègue et délégué Timothée concernant son ministère à Éphèse (1:3). Ces conseils comprennent des instructions sur l'organisation de l'Église et les responsabilités qui incombent à certains groupes de dirigeants ainsi que des exhortations à la fidélité dans le maintien de la vérité au milieu des erreurs environnantes. La plupart des érudits modernes considèrent que les épîtres pastorales ont été écrites après la mort de Paul. 
 
 ## Table des matières

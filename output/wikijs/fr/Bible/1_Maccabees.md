@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">I Maccabées</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Premier Livre des Maccabées, également connu sous le nom de Premiers Maccabées (écrit en sténographie comme 1 Maccabées ou 1 Macc.), Est un livre écrit en hébreu par un auteur juif anonyme après la restauration d'un royaume juif indépendant par la dynastie hasmonéenne, autour de la fin du IIe siècle av. L'hébreu original est perdu et la version survivante la plus importante est la traduction grecque contenue dans la Septante. Le livre est considéré comme une écriture canonique par les églises catholique, orthodoxe et orthodoxe orientale (à l'exception du Tewahedo orthodoxe), mais pas par les dénominations protestantes ni par les principales branches du judaïsme; cela ne fait pas partie de la Bible hébraïque. Certains protestants le considèrent comme un livre apocryphe (voir aussi les livres deutérocanoniques).
 
 1 Maccabées est surtout connu pour son récit d'une victoire précoce dans la révolte des Maccabées contre l'empire séleucide : la reprise de Jérusalem en l'an 164 avant JC et la reconsécration du Second Temple - le récit derrière la fête juive de Hanoucca. 

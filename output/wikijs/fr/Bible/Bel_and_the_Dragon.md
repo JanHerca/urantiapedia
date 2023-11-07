@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Bel et le Dragon</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le récit de Bel et du Dragon est incorporé au chapitre 14 du Livre de Daniel étendu. Le texte original de la Septante en grec survit dans un seul manuscrit, le Codex Chisianus , tandis que le texte standard est dû à Theodotion , le réviseur du IIe siècle après JC. 
 
 Ce chapitre, ainsi que le chapitre 13, est considéré comme deutérocanonique : il était inconnu du judaïsme rabbinique primitif, et bien qu'il soit considéré comme non canonique par la plupart des protestants, il est canonique pour les chrétiens catholiques et orthodoxes orientaux, et se trouve dans la section Apocryphes de 80 Bibles protestantes. 

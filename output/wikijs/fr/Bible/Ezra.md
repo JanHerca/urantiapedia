@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Esdras</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 The Book of Ezra is a book of the Hebrew Bible; which formerly included the Le Livre d'Esdras est un livre de la Bible hébraïque ; qui comprenait autrefois le Livre de Néhémie dans un seul livre, communément distingué dans l'érudition sous le nom d'Ezra-Néhémie. Les deux se sont séparés avec les premières bibles rabbiniques imprimées du début du XVIe siècle, suivant la tradition chrétienne latine de la fin du Moyen Âge. Composé en hébreu et en araméen, son sujet est le Retour à Sion après la fin de la captivité babylonienne, et il est divisé en deux parties, la première racontant l'histoire du premier retour des exilés dans la première année de Cyrus le Grand (538 BC) et l'achèvement et la dédicace du nouveau Temple à Jérusalem dans la sixième année de Darius I (515 BC), le deuxième récit de la mission ultérieure d'Esdras à Jérusalem et de sa lutte pour purifier les Juifs du mariage avec des non-Juifs. Avec le Livre de Néhémie,
 
 Ezra est écrit pour s'adapter à un modèle schématique dans lequel le Dieu d'Israël inspire un roi de Perse à charger un chef de la communauté juive d'accomplir une mission; trois chefs successifs accomplissent trois de ces missions, le premier reconstruisant le Temple, le second purifiant la communauté juive et le troisième scellant la ville sainte elle-même derrière un mur. (Cette dernière mission, celle de Néhémie, ne fait pas partie du Livre d'Esdras.) Le programme théologique du livre explique les nombreux problèmes que présente sa structure chronologique. Il est probablement apparu dans sa première version vers 399 av. J.-C., et a continué à être révisé et édité pendant plusieurs siècles avant d'être accepté comme scripturaire au début de l'ère chrétienne.

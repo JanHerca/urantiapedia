@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Nombres</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le livre des Nombres (du grec Ἀριθμοί, Arithmoi ; hébreu : בְּמִדְבַּר, Bəmīḏbar, « Dans le désert [de] ») est le quatrième livre de la Bible hébraïque et le quatrième des cinq livres de la Torah juive. Le livre a une histoire longue et complexe; sa forme finale est peut-être due à une rédaction sacerdotale (c'est-à-dire une édition) d'une source yahviste faite quelque temps au début de la période perse (5ème siècle avant JC). Le nom du livre vient des deux recensements effectués sur les Israélites.
 
 Les nombres commencent au mont Sinaï, où les Israélites ont reçu leurs lois et leur alliance de Dieu et Dieu a élu domicile parmi eux dans le sanctuaire. La tâche qui les attend est de prendre possession de la Terre Promise. Les gens sont comptés et les préparatifs sont faits pour reprendre leur marche. Les Israélites commencent le voyage, mais ils « grognent » contre les difficultés en cours de route et contre l'autorité de Moïse et d'Aaron. Pour ces actes, Dieu en détruit environ 15 000 par divers moyens. Ils arrivent aux frontières de Canaan et envoient des espions dans le pays. En entendant le rapport effrayant des espions concernant les conditions en Canaan, les Israélites refusent d'en prendre possession. Dieu les condamne à mort dans le désert jusqu'à ce qu'une nouvelle génération puisse grandir et accomplir la tâche.

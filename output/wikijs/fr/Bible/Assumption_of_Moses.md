@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Assomption de Moïse</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 L'Assomption de Moïse (autrement appelé le Testament de Moïse, Héb.:עליית משה) est une œuvre pseudépigraphique apocryphe juive du 1er siècle. Il est censé contenir des prophéties secrètes que Moïse a révélées à Josué avant de lui transmettre la direction des Israélites. Il contient des thèmes apocalyptiques, mais est caractérisé comme un "testament", ce qui signifie qu'il contient le discours final d'un mourant, Moïse. 
 
 On pense que le texte a été écrit à l'origine en hébreu ou dans une autre langue sémitique, puis traduit en grec koine. Le seul manuscrit survivant est une traduction latine du texte grec du VIe siècle. Le manuscrit était incomplet et le reste du texte est perdu. D'après des références dans des ouvrages anciens, on pense que le texte manquant décrivait une dispute sur le corps de Moïse, entre l'archange Michel et le diable.

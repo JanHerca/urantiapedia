@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Siracide (Ecclésiastique)</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre du Siracide (/ˈsaɪræk/) ou Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/ ; abrégé Ecclus.), est un ouvrage juif, à l'origine en hébreu, d'enseignements éthiques, d'environ 200 à 175 av. J.-C., écrit par le scribe judahite Ben Sira de Jérusalem , sur l'inspiration de son père Josué fils de Siracide, parfois appelé Jésus fils de Siracide ou Yeshua ben Eliezer ben Sira. 
 
 En Égypte, il a été traduit en grec par le petit-fils anonyme de l'auteur, qui a ajouté un prologue. Ce prologue est généralement considéré comme le premier témoin d'un canon [clarification nécessaire] des livres des prophètes, et donc la date du texte fait l'objet d'un examen minutieux. Le livre lui-même est le plus grand livre de sagesse de l'Antiquité à avoir survécu. 

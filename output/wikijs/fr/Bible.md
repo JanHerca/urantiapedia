@@ -16,18 +16,18 @@ Chaque livre biblique a une page Web qui lui est dédiée, et il y a une page po
 
 La Bible ne contient pas les mêmes livres pour différentes religions. Puisque _Le Livre d'Urantia_ ne dénigre aucun texte religieux, et mentionne des livres considérés comme apocryphes, tels que _Le Livre d'Enoch_, Urantiapedia essaiera de faire un effort pour inclure sans exception tous les livres bibliques et extra-bibliques chaque fois qu'ils ont quelque utilité pour comprendre _Le Livre d'Urantia_.
 
-La Bible est ajoutée à Urantiapedia afin que toutes les citations spécifiques et tous les autres textes parallèles du _Le Livre d'Urantia_ soient référencés entre les deux textes. Cette liste de références croisées a été basée sur le merveilleux travail d'un lecteur, Duane L. Faw, qui a compilé les références dans une publication appelée ([Paramony](https://urantia-book.org/urantiabook/paramony/)).
+La Bible est ajoutée à Urantiapedia afin que toutes les citations spécifiques et tous les autres textes parallèles du _Le Livre d'Urantia_ soient référencés entre les deux textes. Cette liste de références croisées a été basée sur le merveilleux travail d'un lecteur, Duane L. Faw, qui a compilé les références dans une publication appelée [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
 Cette information et d'autres sur la façon dont la Bible est organisée dans le projet peuvent être trouvées dans [Aide d'Urantiapedia](/fr/help/content).
 
 ## Liste des livres bibliques
 
-Voici une liste provisoire des livres bibliques et extra-bibliques à inclure :
+Voici la liste des livres bibliques et extra-bibliques inclus pour l'instant :
 
 - [La Bible - Table des matières](/fr/index/Bible)
 
 
-### L'Ancien Testament
+## L'Ancien Testament
 
 - [Genèse](/fr/Bible/Genesis)
 - [Exode](/fr/Bible/Exodus)
@@ -109,7 +109,6 @@ Voici une liste provisoire des livres bibliques et extra-bibliques à inclure :
 - [Bel et le Dragon](/fr/Bible/Bel_and_the_Dragon/Index)
 - [Prière de Manassé](/fr/Bible/Prayer_of_Manesseh/Index)
 - [Tobie](/fr/Bible/Book_of_Enoch/Index)
-- [Assumption of Moses](/fr/Bible/Assumption_of_Moses/Index)
 - [Judith](/fr/Bible/Judith)
 - [Livre d\'Hénoch](/fr/Bible/Book_of_Enoch)
 - [Assomption de Moïse](/fr/Bible/Assumption_of_Moses)

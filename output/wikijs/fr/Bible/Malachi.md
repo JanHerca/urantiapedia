@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Malachie</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Malachie (hébreu : מַלְאָכִ֔י, Malʾāḵī) est le dernier livre des Neviim contenu dans le Tanakh, canoniquement le dernier des douze prophètes mineurs. Dans l'ordre chrétien, le regroupement des livres prophétiques est la dernière section de l'Ancien Testament, faisant de Malachie le dernier livre avant le Nouveau Testament.
 
 Le livre est communément attribué à un prophète nommé Malachie, car son titre a souvent été compris comme un nom propre, bien que sa signification hébraïque soit simplement "Mon messager" (la Septante lit "son messager") et peut ne pas être le nom de l'auteur à tout. Le nom apparaît dans la suscription à 1: 1 et à 3: 1, bien qu'il soit hautement improbable que le mot se réfère au même caractère dans ces deux références. Ainsi, il y a un débat substantiel concernant l'identité de l'auteur du livre. L'un des Targums identifie Ezra (ou Esdras) comme l'auteur de Malachie. Le prêtre et historien Jérôme suggère que cela pourrait être dû au fait qu'Ezra est considéré comme un intermédiaire entre les prophètes et la "grande synagogue". Il n'y a cependant aucune preuve historique pour étayer cette affirmation.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Évangile selon Jean</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 L'Évangile de Jean (grec ancien : Εὐαγγέλιον κατὰ Ἰωάννην, romanisé : Euangélion katà Iōánnēn) est le quatrième des quatre évangiles canoniques. Il contient un récit très schématique du ministère de Jésus, avec sept "signes" aboutissant à la résurrection de Lazare (préfigurant la résurrection de Jésus) et sept discours "Je suis" (concernés par les questions du débat église-synagogue à l'époque). de composition) culminant dans la proclamation par Thomas de Jésus ressuscité comme « mon Seigneur et mon Dieu ». Les derniers versets de l'évangile énoncent son objectif, "afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie en son nom".
 
 John a atteint sa forme finale vers 90-110 après JC, bien qu'il contienne des signes d'origine remontant à 70 après JC et peut-être même plus tôt. Comme les trois autres évangiles, il est anonyme, bien qu'il identifie un "disciple que Jésus aimait" sans nom comme source de ses traditions. Il est très probablement né au sein d'une «communauté johannique», et - comme il est étroitement lié dans le style et le contenu aux trois épîtres johanniques - la plupart des érudits traitent les quatre livres, ainsi que le livre de l'Apocalypse, comme un seul corpus de littérature johannique, mais pas du même auteur. 

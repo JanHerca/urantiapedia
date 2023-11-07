@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">IIe Épître de Paul à Timothée</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 La deuxième épître à Timothée est l'une des trois épîtres pastorales traditionnellement attribuées à l'apôtre Paul. Adressée à Timothée, un compagnon missionnaire, elle est traditionnellement considérée comme la dernière épître qu'il ait écrite avant sa mort. 
 
 Bien que les pastorales soient écrites sous le nom de Paul, elles sont différentes de ses autres épîtres, et depuis le début du XIXe siècle, les érudits les considèrent de plus en plus comme l'œuvre d'un étudiant inconnu de la doctrine de Paul. Ils n'abordent pas les thèmes communs de Paul, tels que l'unité des croyants avec Christ, et ils reflètent une hiérarchie d'église qui est plus organisée et définie que l'église ne l'était à l'époque de Paul. 

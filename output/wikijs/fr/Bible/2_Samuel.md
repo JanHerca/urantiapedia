@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">II Samuel</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Samuel (hébreu : ספר שמואל, Sefer Shmuel) est un livre de la Bible hébraïque, trouvé sous la forme de deux livres (1-2 Samuel) dans l'Ancien Testament chrétien. Le livre fait partie de l'histoire narrative de l'ancien Israël appelée l'histoire deutéronomiste, une série de livres (Josué, Juges, Samuel et Rois) qui constituent une histoire théologique des Israélites et qui visent à expliquer la loi de Dieu pour Israël sous la direction des prophètes.
 
 Selon la tradition juive, le livre a été écrit par Samuel, avec des ajouts par les prophètes Gad et Nathan, qui sont ensemble trois prophètes qui étaient apparus dans 1 Chroniques pendant le récit du règne de David. La pensée scientifique moderne postule que toute l'histoire deutéronomiste a été composée vers 630–540 avant notre ère en combinant un certain nombre de textes indépendants d'âges différents.

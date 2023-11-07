@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Daniel</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Daniel est une apocalypse biblique du IIe siècle av. J.-C. avec un décor du VIe siècle av. Apparemment "un récit des activités et des visions de Daniel, un noble Juif exilé à Babylone", il combine une prophétie de l'histoire avec une eschatologie (une représentation de la fin des temps) à la fois cosmique dans sa portée et politique, et son message est que tout comme le Dieu d'Israël sauve Daniel de ses ennemis, ainsi il sauverait tout Israël dans son oppression actuelle.
 
 La Bible hébraïque inclut Daniel dans les Ketuvim (écrits), tandis que les canons bibliques chrétiens regroupent l'œuvre avec les Prophètes majeurs. Il se divise en deux parties : un ensemble de six contes de cour dans les chapitres 1 à 6, écrits principalement en araméen, et quatre visions apocalyptiques dans les chapitres 7 à 12, écrits principalement en hébreu ; les livres deutérocanoniques contiennent trois sections supplémentaires, la prière d'Azaria et le chant des trois saints enfants, Suzanne et Bel et le dragon. 

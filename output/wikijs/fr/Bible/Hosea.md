@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Osée</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre d'Osée (hébreu : סֵפֶר הוֹשֵׁעַ, romanisé : Sēfer Hōšēaʿ) est recueilli comme l'un des douze prophètes mineurs des Nevi'im ("Prophètes") dans la Bible hébraïque, et comme un livre à part entière droit dans l'Ancien Testament chrétien. Selon l'ordre traditionnel de la plupart des Bibles hébraïques, c'est la première des Douze.
 
 Situé autour de la chute du Royaume du Nord d'Israël, le Livre d'Osée dénonce le culte de dieux autres que Yahweh (le Dieu d'Israël), comparant métaphoriquement l'abandon de Yahweh par Israël à une femme infidèle à son mari. Selon le récit du livre, la relation entre Osée et sa femme infidèle Gomer est comparable à la relation entre Yahvé et son peuple infidèle Israël. La réconciliation éventuelle d'Osée et de Gomer est traitée comme une métaphore pleine d'espoir pour la réconciliation éventuelle entre Yahweh et Israël. 

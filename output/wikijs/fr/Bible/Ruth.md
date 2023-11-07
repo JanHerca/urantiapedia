@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ruth</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Ruth (hébreu : מגילת רות, Megilath Ruth, « le Rouleau de Ruth », l'un des Cinq Megillot) est inclus dans la troisième division, ou les Écrits (Ketuvim), de la Bible hébraïque. Dans la plupart des canons chrétiens, il est traité comme l'un des livres historiques et placé entre les Juges et 1 Samuel.
 
 Le livre, écrit en hébreu aux VIe et IVe siècles avant notre ère, raconte l'histoire de la femme moabite Ruth, qui accepte Yahweh, le Dieu des Israélites, comme son Dieu et accepte le peuple israélite comme le sien. Dans Ruth 1 :16-17, Ruth dit à Naomi, sa belle-mère israélite : « Où tu iras, j'irai, et où tu resteras, je resterai. Ton peuple sera mon peuple et ton Dieu mon Dieu. Là où tu mourras, je mourrai, et là je serai enterré. Que le Seigneur me traite, fût-ce toujours aussi sévèrement, si même la mort nous sépare toi et moi. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ézéchiel</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le livre d'Ézéchiel est le troisième des derniers prophètes du Tanakh et l'un des principaux livres prophétiques, après Isaïe et Jérémie. Selon le livre lui-même, il enregistre six visions du prophète Ezéchiel, exilé à Babylone, au cours des 22 années de 593 à 571 avant notre ère, bien qu'il soit le produit d'une histoire longue et complexe et ne préserve pas nécessairement les mots mêmes du prophète.
 
 Les visions et le livre sont structurés autour de trois thèmes : (1) Jugement sur Israël (chapitres 1 à 24) ; (2) Jugement des nations (chapitres 25 à 32) ; et (3) Bénédictions futures pour Israël (chapitres 33 à 48). Ses thèmes incluent les concepts de la présence de Dieu, de la pureté, d'Israël en tant que communauté divine et de la responsabilité individuelle envers Dieu. Son influence ultérieure a inclus le développement de traditions mystiques et apocalyptiques dans le Second Temple et le judaïsme rabbinique et le christianisme. 

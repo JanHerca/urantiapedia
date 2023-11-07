@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Deutéronome</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Deutéronome ( grec : Δευτερονόμιον Deuteronómion , lit. 'deuxième loi') est le cinquième et dernier livre de la Torah (dans le judaïsme), où il est appelé Devarim ( hébreu : דְּבָרִים , lit. '[les] paroles [de Moïse]' ) et le cinquième livre de l'Ancien Testament chrétien.
 
 Les chapitres 1 à 30 du livre consistent en trois sermons ou discours prononcés aux Israélites par Moïse sur les plaines de Moab, peu de temps avant leur entrée dans la Terre promise. Le premier sermon raconte les quarante années d'errances dans le désert qui avaient conduit à ce moment, et se termine par une exhortation à observer la loi. Le deuxième sermon rappelle aux Israélites la nécessité de suivre Yahweh et les lois (ou enseignements) qu'il leur a données, dont dépend leur possession de la terre. Le troisième sermon offre le réconfort que, même si la nation d'Israël se révèle infidèle et perd ainsi la terre, avec la repentance tout peut être restauré.

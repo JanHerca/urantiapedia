@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Évangile selon Marc</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 L'évangile de Marc est le deuxième des quatre évangiles canoniques et des trois évangiles synoptiques. Il raconte le ministère de Jésus depuis son baptême par Jean-Baptiste jusqu'à sa mort, son enterrement et la découverte de son tombeau vide. Il n'y a pas de naissance miraculeuse ou de doctrine de préexistence divine, ni, dans la fin originale (Marc 16: 1-8), d'apparitions post-résurrection de Jésus. Il dépeint Jésus comme un enseignant, un exorciste, un guérisseur et un faiseur de miracles. Il se présente comme le Fils de l'homme. Il est appelé le Fils de Dieu, mais garde secrète sa nature messianique ; même ses disciples ne le comprennent pas. Tout cela est conforme à l'interprétation chrétienne de la prophétie, qui est censée prédire le sort du messie en tant que serviteur souffrant. L'évangile se termine, dans sa version originale, par la découverte du tombeau vide,
 
 La plupart des érudits datent Mark à c. 66–74 après JC, peu avant ou après la destruction du Second Temple en 70 après JC. Ils rejettent l'attribution traditionnelle à Marc l'évangéliste, le compagnon de l'apôtre Pierre, qui est probablement née du désir des premiers chrétiens de lier l'œuvre à une figure faisant autorité, et pensent qu'il s'agit de l'œuvre d'un auteur travaillant avec diverses sources, notamment recueils d'histoires de miracles, d'histoires controversées, de paraboles et d'un récit de passion. Il était traditionnellement placé en deuxième, et parfois en quatrième, dans le canon chrétien, comme un abrégé inférieur de ce qui était considéré comme l'évangile le plus important, Matthieu ; l'Église a par conséquent tiré sa vision de Jésus principalement de Matthieu, secondairement de Jean et seulement de loin de Marc.

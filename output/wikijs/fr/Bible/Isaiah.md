@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Isaïe</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le livre d'Isaïe (hébreu : ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) est le premier des derniers prophètes de la Bible hébraïque et le premier des grands prophètes de l'Ancien Testament chrétien. Il est identifié par une suscription comme les mots du prophète Isaiah ben Amoz du 8ème siècle avant notre ère, mais il existe de nombreuses preuves qu'une grande partie a été composée pendant la captivité babylonienne et plus tard. Johann Christoph Döderlein a suggéré en 1775 que le livre contenait les œuvres de deux prophètes séparés par plus d'un siècle, et Bernhard Duhm est à l'origine de l'opinion, consensuelle pendant la majeure partie du XXe siècle, que le livre comprend trois collections distinctes d'oracles : Proto-Isaiah (chapitres 1 à 39), contenant les paroles du prophète Isaïe du 8ème siècle avant notre ère ; Deutéro-Isaïe (chapitres 40 à 55), le travail d'un auteur anonyme du VIe siècle avant notre ère écrivant pendant l'exil; et Trito-Isaiah (chapitres 56–66), composé après le retour d'exil. Ésaïe 1–33 promet le jugement et la restauration de Juda, de Jérusalem et des nations, et les chapitres 34–66 supposent que le jugement a été prononcé et que la restauration suit bientôt. Alors que pratiquement aucun érudit n'attribue aujourd'hui l'intégralité du livre, ou même la majeure partie, à une seule personne, l'unité essentielle du livre est devenue un point central dans les recherches plus récentes.
 
 Le livre peut être lu comme une longue méditation sur le destin de Jérusalem dans et après l'exil. La partie deutéro-isaïenne du livre décrit comment Dieu fera de Jérusalem le centre de son règne mondial par l'intermédiaire d'un sauveur royal (un messie) qui détruira l'oppresseur (Babylone) ; ce messie est le roi perse Cyrus le Grand, qui n'est que l'agent qui réalise la royauté de Yahweh. Esaïe s'élève contre les dirigeants corrompus et pour les défavorisés, et enracine la justice dans la sainteté de Dieu plutôt que dans l'alliance d'Israël.

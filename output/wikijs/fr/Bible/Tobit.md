@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tobie</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre de Tobit (/ˈtoʊbɪt/), également connu sous le nom de Livre de Tobias ou Livre de Tobi, est un ouvrage juif du 3e ou du début du 2e siècle avant J.-C. décrivant comment Dieu teste les fidèles, répond aux prières et protège la communauté de l'alliance ( c'est-à-dire les Israélites). Il raconte l'histoire de deux familles israélites, celle de l'aveugle Tobie à Ninive et celle de Sarah abandonnée à Ecbatane. Le fils de Tobit, Tobias, est envoyé pour récupérer dix talents d'argent que Tobit a laissés à Rages, une ville de Media; guidé et aidé par l'ange Raphaël, il arrive à Ecbatane, où il rencontre Sarah. Un démon nommé Asmodeus est tombé amoureux d'elle et tue tous ceux qu'elle a l'intention d'épouser, mais avec l'aide de Raphaël, le démon est exorcisé et Tobias et Sarah se marient, après quoi ils retournent à Ninive où Tobit est guéri de sa cécité.
 
 Le livre est inclus dans les canons catholiques et orthodoxes mais pas dans les juifs; la tradition protestante le place dans les apocryphes, les anabaptistes, les luthériens, les anglicans et les méthodistes le reconnaissant comme utile à des fins d'édification et de liturgie, bien que de statut non canonique. La grande majorité des chercheurs le reconnaissent comme une œuvre de fiction avec quelques références historiques.

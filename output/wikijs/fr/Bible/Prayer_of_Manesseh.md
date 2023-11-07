@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Prière de Manassé</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 La Prière de Manassé, également connue sous le nom de Prière de Manassé, est un court ouvrage de 15 versets enregistrant une prière pénitentielle attribuée au roi Manassé de Juda. La majorité des érudits pensent que la prière de Manassé a été écrite en grec (alors qu'une minorité plaide pour un original sémitique) au deuxième ou au premier siècle avant JC. Il est reconnu qu'il aurait également pu être écrit dans la première moitié du 1er siècle après JC, mais en tout cas avant la destruction du Second Temple en 70 après JC. Un autre ouvrage du même titre, écrit en hébreu, a été trouvé parmi les manuscrits de la mer Morte (4Q381:17).
 
 Manassé est enregistré dans la Bible comme l'un des rois les plus idolâtres de Juda (2 Rois 21 :1-18 ; 2 Chroniques 33 :1-9). Le deuxième Livre des Chroniques, mais pas le deuxième Livre des Rois, rapporte que Manassé a été fait prisonnier par les Assyriens (2 Chroniques 33 :11-13). Alors qu'il était prisonnier, Manassé a prié pour la miséricorde et, après avoir été libéré et rétabli sur le trône, il s'est détourné de ses voies idolâtres (2 Chroniques 33 : 15-17). Une référence à la prière, mais pas à la prière elle-même, est faite dans 2 Chroniques 33:19, qui dit que la prière est écrite dans "les annales des rois d'Israël".

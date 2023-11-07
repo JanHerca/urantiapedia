@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Épître de Paul aux Galates</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 L'Épître aux Galates est le neuvième livre du Nouveau Testament. C'est une lettre de l'Apôtre Paul à un certain nombre de communautés paléochrétiennes de Galatie. Les érudits ont suggéré qu'il s'agissait soit de la province romaine de Galatie dans le sud de l'Anatolie, soit d'une grande région définie par un groupe ethnique de peuples celtiques dans le centre de l'Anatolie.
 
 Dans cette lettre, Paul s'intéresse principalement à la controverse entourant les chrétiens gentils et la loi mosaïque à l'époque apostolique. Paul soutient que les Gentils Galates n'ont pas besoin d'adhérer aux principes de la loi mosaïque, en particulier la circoncision masculine religieuse, en contextualisant le rôle de la loi à la lumière de la révélation du Christ. L'épître aux Galates a exercé une énorme influence sur l'histoire du christianisme, le développement de la théologie chrétienne et l'étude de l'apôtre Paul.

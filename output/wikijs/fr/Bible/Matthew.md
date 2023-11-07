@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Évangile selon Matthieu</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 L'évangile de Matthieu est le premier livre du Nouveau Testament de la Bible et l'un des trois évangiles synoptiques. Il raconte comment le Messie d'Israël, Jésus, vient vers son peuple et forme une communauté de disciples, comment il a enseigné le peuple à travers des événements tels que le sermon sur la montagne et ses béatitudes, et comment Israël se divise et comment Jésus condamne cet Israël hostile. . Cela culmine avec son départ du Temple et son exécution. À ce stade, beaucoup de gens rejettent Jésus et, à sa résurrection, il envoie les disciples aux gentils.
 
 Matthieu semble insister sur le fait que la tradition juive ne devrait pas être perdue dans une église qui devenait de plus en plus gentile. L'évangile reflète les luttes et les conflits entre la communauté de l'évangéliste et les autres Juifs, en particulier avec sa critique acerbe des scribes et des pharisiens avec la position qu'à travers leur rejet du Christ, le Royaume de Dieu leur a été enlevé et donné à la place à l'église. La nature divine de Jésus était un problème majeur pour la communauté Matthaean, l'élément crucial séparant les premiers chrétiens de leurs voisins juifs; tandis que Marc commence par le baptême et les tentations de Jésus, Matthieu remonte aux origines de Jésus, le montrant comme le Fils de Dieu dès sa naissance, l'accomplissement des prophéties messianiques de l'Ancien Testament. Le titre Fils de David identifie Jésus comme le Messie guérisseur et thaumaturge d'Israël (il est utilisé exclusivement en relation avec les miracles), envoyé à Israël seul. En tant que Fils de l'homme, il reviendra pour juger le monde, une attente que ses disciples reconnaissent mais dont ses ennemis ne sont pas conscients. En tant que Fils de Dieu, Dieu se révèle à travers son fils, et Jésus prouve sa filiation par son obéissance et son exemple.

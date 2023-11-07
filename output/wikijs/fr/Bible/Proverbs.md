@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Proverbes</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre des Proverbes (hébreu : מִשְלֵי, Mīšlē, « Proverbes (de Salomon) ») est un livre de la troisième section (appelée Ketuvim) de la Bible hébraïque et un livre de l'Ancien Testament chrétien. Lorsqu'il est traduit en grec et en latin, le titre prend différentes formes : dans la Septante grecque (LXX), il devient Παροιμίαι (Paroimiai, « Proverbes ») ; dans la Vulgate latine, le titre était Proverbia, dont le nom anglais est dérivé.
 
 Proverbes n'est pas une simple anthologie mais une « collection de recueils » relatifs à un mode de vie qui a duré plus d'un millénaire. C'est un exemple de la littérature de sagesse biblique, et soulève des questions sur les valeurs, le comportement moral, le sens de la vie humaine et la conduite juste, et son fondement théologique est que "la crainte de Dieu (c'est-à-dire la soumission à la volonté de Dieu) est le commencement de la sagesse ». La sagesse est louée pour son rôle dans la création; Dieu l'a acquise avant tout, et par elle il a donné l'ordre au chaos ; et puisque les humains ont la vie et la prospérité en se conformant à l'ordre de la création, la recherche de la sagesse est l'essence et le but de la vie. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Juges</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre des Juges (ספר שופטים, Sefer Shoftim) est le septième livre de la Bible hébraïque et de l'Ancien Testament chrétien. Dans le récit de la Bible hébraïque, il couvre le temps entre la conquête décrite dans le Livre de Josué et l'établissement d'un royaume dans les Livres de Samuel, au cours de laquelle des juges bibliques ont servi de chefs temporaires. Les histoires suivent un schéma cohérent : les gens sont infidèles à Yahweh ; il les livre donc entre les mains de leurs ennemis ; le peuple se repent et implore Yahweh d'obtenir miséricorde, qu'il envoie sous la forme d'un chef ou d'un champion (un "juge" ; voir shophet ); le juge délivre les Israélites de l'oppression et ils prospèrent, mais bientôt ils retombent dans l'infidélité et le cycle se répète. Les érudits considèrent que de nombreuses histoires de Judges sont les plus anciennes de l'histoire deutéronomiste, avec leur rédaction majeure datée du 8ème siècle avant notre ère et avec des matériaux tels que le Chant de Deborah datant de beaucoup plus tôt.
 
 ## Table des matières

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">I Chroniques</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le Livre des Chroniques (hébreu : דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) est un livre de la Bible hébraïque, trouvé en deux livres (1-2 Chroniques) dans l'Ancien Testament chrétien. Chroniques est le dernier livre de la Bible hébraïque, concluant la troisième section du Tanakh juif, les Ketuvim ("Écrits"). Il contient une généalogie commençant par Adam et une histoire de l'ancien Juda et d'Israël jusqu'à l'édit de Cyrus en 539 av.
 
 Le livre a été divisé en deux livres dans la Septante et traduit au milieu du IIIe siècle av. Dans les contextes chrétiens, les Chroniques sont désignées au pluriel comme les Livres des Chroniques, d'après le nom latin chronicon donné au texte par Jérôme, mais sont également rarement désignées par leur nom grec comme les Livres de Paralipomenon. Dans les Bibles chrétiennes, ils suivent généralement les deux Livres des Rois et précèdent Esdras-Néhémie, le dernier livre axé sur l'histoire de l'Ancien Testament protestant. 

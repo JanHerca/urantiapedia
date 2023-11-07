@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">LA BIBLE</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Lévitique</text>
+	</g>
+</svg>
+</div>
+
+## Description
+
+
 Le livre du Lévitique (/lɪˈvɪtɪkəs/, du grec ancien : Λευιτικόν, Leuïtikón ; hébreu : וַיִּקְרָא, Vayyīqrāʾ, « Et il appela ») est le troisième livre de la Torah (le Pentateuque) et de l'Ancien Testament, également connu sous le nom de Troisième livre de Moïse. Les érudits conviennent généralement qu'il s'est développé sur une longue période de temps, atteignant sa forme actuelle pendant la période perse, de 538 à 332 av.
 
 La plupart de ses chapitres (1–7, 11–27) consistent en des discours de Yahweh à Moïse, que Yahweh dit à Moïse de répéter aux Israélites. Cela se déroule dans l'histoire de l'exode des Israélites après qu'ils se soient échappés d'Égypte et aient atteint le mont Sinaï ([Exode 19:1](/fr/Bible/Exodus/19#v1)). Le Livre de l'Exode raconte comment Moïse a conduit les Israélites à construire le Tabernacle (Exode 35-40) avec les instructions de Dieu ([Exode 25-31](/fr/Bible/Exodus/25)). Dans le Lévitique, Dieu dit aux Israélites et à leurs prêtres, les Lévites, comment faire des offrandes dans le Tabernacle et comment se conduire lorsqu'ils campent autour du sanctuaire de la tente sacrée. Le Lévitique a lieu pendant le mois ou le mois et demi entre l'achèvement du Tabernacle ([Exode 40:17](/fr/Bible/Exodus/40#v17)) et le départ des Israélites du Sinaï (Nombres [1:1](/fr/Bible/Numbers/1#v1), [10:11](/fr/Bible/Numbers/10#v11)).
