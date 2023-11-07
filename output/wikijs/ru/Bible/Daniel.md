@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Пр. Даниила</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Даниила представляет собой библейский апокалипсис II века до нашей эры, действие которого происходит в VI веке до нашей эры. Якобы «отчет о деятельности и видениях Даниила, знатного еврея, сосланного в Вавилон», он сочетает в себе пророчество истории с эсхатологией (изображением последних времен), как космическими по масштабу, так и политическими по направленности, и его послание состоит в том, что точно так же, как Бог Израиля спасает Даниила от его врагов, он спасет и весь Израиль в их нынешнем угнетении.
 
 Еврейская Библия включает Даниила в Кетувим (писания), в то время как христианские библейские каноны группируют работу с Главными Пророками. Он делится на две части: набор из шести придворных сказок в главах 1–6, написанных в основном на арамейском языке, и четырех апокалиптических видений в главах 7–12, написанных в основном на иврите; Второканонические книги содержат три дополнительных раздела: Молитва Азарии и Песнь о трех святых детях, Сусанне и Беле и Драконе. 

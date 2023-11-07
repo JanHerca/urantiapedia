@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Кн.Премудрости</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Соломона</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Мудрости, или Мудрость Соломона, — это еврейское произведение, написанное на греческом языке и, скорее всего, составленное в Александрии, Египет. Обычно датируемая серединой первого века до нашей эры, центральной темой произведения является сама «мудрость», проявляющаяся в двух основных аспектах. Первый аспект заключается в том, что по отношению к человечеству мудрость есть совершенство познания праведников как дар Божий, проявляющийся в действии. Второй аспект заключается в том, что в прямом отношении к Богу мудрость пребывает с Богом от вечности. Это одна из семи разумных или мудрых книг Септуагинты, другими являются Псалмы, Притчи, Екклесиаст, Песнь Песней (Песнь Соломона), Иов и Сирах. Он включен в каноны католической церкви и восточной православной церкви. Большинство протестантов считают его частью апокрифов.
 
 ## Index

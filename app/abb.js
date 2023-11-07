@@ -1848,12 +1848,12 @@ const BibleAbbreviations = {
 		'3 Ин': ['3-е послание Иоанна', '/ru/Bible/3_John', 'NT'],
 		'Иуд': ['Послание Иуды', '/ru/Bible/Jude', 'NT'],
 		'Отк': ['Откровение', '/ru/Bible/Revelation', 'NT'],
-		'Bel': ['Bel and the Dragon', '/ru/Bible/Bel_and_the_Dragon', 'APO'],
-		'Man': ['Prayer of Manesseh', '/ru/Bible/Prayer_of_Manesseh', 'APO'],
+		'Bel': ['Бел и Дракон', '/ru/Bible/Bel_and_the_Dragon', 'APO'],
+		'Man': ['Молитва Манассии', '/ru/Bible/Prayer_of_Manesseh', 'APO'],
 		'Тов': ['Товита', '/ru/Bible/Tobit', 'APO'],
 		'Иудифь': ['Иудифь', '/ru/Bible/Judith', 'APO'],
-		'1 Enoch': ['Book of Enoch', '/ru/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['Assumption of Moses', '/ru/Bible/Assumption_of_Moses', 'APO']
+		'1 Enoch': ['Книга Еноха', '/ru/Bible/Book_of_Enoch', 'APO'],
+		'As. Mos.': ['Успение Моисея', '/ru/Bible/Assumption_of_Moses', 'APO']
 	},
 	sv: {
 		'1 Mos': ['1 Moseboken', '/sv/Bible/Genesis', 'OT'],

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Пр. Малахии</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Малахии (иврит: מַלְאָכִ֔י, Malʾāḵī) — последняя книга Невиим, содержащаяся в Танахе, канонически последний из Двенадцати второстепенных пророков. В христианском порядке пророческие книги составляют последний раздел Ветхого Завета, что делает Малахию последней книгой перед Новым Заветом.
 
 Книгу обычно приписывают пророку по имени Малахия, поскольку ее название часто понимается как имя собственное, хотя ее еврейское значение означает просто «Мой посланник» (в Септуагинте читается «его посланник») и может не совпадать с именем автора. все. Имя встречается в надписях 1:1 и 3:1, хотя маловероятно, что это слово относится к одному и тому же персонажу в обоих этих упоминаниях. Таким образом, существуют серьезные споры относительно личности автора книги. В одном из Таргумов Эзра (или Ездра) назван автором Малахии. Священник и историк Иероним предполагает, что это может быть связано с тем, что Ездра рассматривается как посредник между пророками и «великой синагогой». Однако до сих пор нет никаких исторических свидетельств, подтверждающих это утверждение.

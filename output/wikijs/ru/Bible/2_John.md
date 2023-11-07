@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2-е послание Иоанна</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Второе послание Иоанна — книга Нового Завета, приписываемая Иоанну Богослову, который традиционно считается автором двух других посланий Иоанна и Евангелия от Иоанна (хотя это оспаривается). Большинство современных ученых считают, что это не апостол Иоанн Богослов, но в целом единого мнения относительно личности этого человека или группы нет. (См. Авторство произведений Иоанна.)
 
 Второе Иоанна и Третье Иоанна — две самые короткие книги в Библии. Самая короткая книга на английском языке отличается в зависимости от того, какой перевод (версию) вы читаете. Например, в Новой международной версии 2 Иоанн является самой короткой книгой, содержащей всего 302 слова, а в версии короля Якова (официальная версия) 3 Иоанн является самой короткой книгой, содержащей всего 295 слов. Однако во Втором послании Иоанна меньше всего стихов в Библии: всего 1 глава, состоящая всего из 13 стихов.

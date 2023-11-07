@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">АПОКРИФЫ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Варуха</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Варуха — второканоническая книга Библии, используемая в большинстве христианских традиций, таких как католическая и православная церкви. В иудаизме и протестантском христианстве он не считается частью канона, а протестантские Библии классифицируют его как часть библейских апокрифов. Книга названа в честь Баруха бен Нерии, известного писца Иеремии, который упоминается в Варухе 1:1 и считается автором всей работы. Книга представляет собой размышления покойного еврейского писателя об обстоятельствах еврейского изгнания из Вавилона, с размышлениями о богословии и истории Израиля, мудрыми рассуждениями и прямым обращением к жителям Иерусалима и диаспоры. Некоторые ученые предполагают, что он был написан во время или вскоре после периода Маккавеев.
 
 Книгу Баруха иногда называют 1 Барухом, чтобы отличить ее от 2 Баруха, 3 Баруха и 4 Баруха.

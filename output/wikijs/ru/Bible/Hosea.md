@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Пр. Осии</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Осии (иврит: סֵפֶר הוֹשֵׁעַ, латинизированная: Sēfer Hōšēaʿ) собрана как один из двенадцати второстепенных пророков Невиим («Пророки») в еврейской Библии и как отдельная книга. прямо в христианском Ветхом Завете. Согласно традиционному порядку большинства еврейских Библий, это первая из Двенадцати.
 
 Книга Осии, действие которой происходит во время падения Северного царства Израиля, осуждает поклонение богам, отличным от Яхве (Бога Израиля), метафорически сравнивая отказ Израиля от Яхве с неверностью женщины своему мужу. Согласно повествованию книги, отношения между Осией и его неверной женой Гомерью сравнимы с отношениями между Яхве и его неверным народом Израилем. Возможное примирение Осии и Гомери рассматривается как обнадеживающая метафора возможного примирения между Яхве и Израилем. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Иова</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Иова (/ dʒoʊb /; библейский иврит: אִיּוֹב, латинизированный: ʾIyyōḇ), или просто Иов, обращается к теодицее, почему Бог допускает зло в мире, через опыт одноименного главного героя. Иов — состоятельный и богобоязненный человек с безбедной жизнью и большой семьей; Бог, спросив у Сатаны (הַשָּׂטָן, haśśāṭān, «обвинитель») его мнение о благочестии Иова, решает лишить Иова богатства, семьи и материальных удобств, следуя обвинению сатаны в том, что, если Иов останется без гроша и семьи, он отвернется от Бога. 
 
 Книга находится в разделе Кетувим («Писания») Еврейской Библии (Танах) и является первой из поэтических книг Ветхого Завета христианской Библии. Ученые в целом согласны с тем, что он был написан между 7 и 4 веками до нашей эры.

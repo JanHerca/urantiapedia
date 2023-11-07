@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2-я книга</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Маккавейская</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 2 Маккавейская, также известная как Вторая книга Маккавейская, Вторая Маккавейская и сокращенно 2 Маккавейская, представляет собой второканоническую книгу, в которой рассказывается о преследовании евреев при царе Антиохе IV Епифане и восстании Маккавеев против него. Он завершается поражением полководца Империи Селевкидов Никанора в 161 г. до н.э. от Иуды Маккавея, лидера Маккавеев.
 
 2 Маккавеи были первоначально написаны на греческом языке койне неизвестным евреем из диаспоры, живущим в эллинистическом Египте. Вероятно, он был написан где-то между 150 и 120 годами до нашей эры. Вместе с книгой 1 Маккавеев это один из самых важных источников о восстании Маккавеев. Произведение не является продолжением 1 Маккавеев, а представляет собой собственное независимое изложение исторических событий восстания Маккавеев. Он как начинается, так и заканчивает свою историю раньше, чем 1 Маккавея, начиная с инцидента, когда чиновник Селевкидов Гелиодор пытался обложить налогом Второй Храм в 178 г. до н.э., и заканчивая битвой при Адасе в 161 г. до н.э. Некоторые ученые считают, что на книгу повлияла фарисейская традиция, с разделами, которые включают одобрение молитвы за мертвых и воскресение мертвых.

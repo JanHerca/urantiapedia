@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Притчей</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">Соломоновых</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Притчей (иврит: מִשְלֵי, Mīšlē, «Притчи (Соломона)») — это книга в третьем разделе (называемом Кетувим) еврейской Библии и книга христианского Ветхого Завета. При переводе на греческий и латинский языки это название принимало разные формы: в греческой Септуагинте (LXX) оно стало Παροιμίαι (Paroimiai, «Притчи»); в латинской Вульгате название было Proverbia, от которого произошло английское название.
 
 Притчи — это не просто антология, а «сборник сборников», относящихся к образцу жизни, длившемуся более тысячелетия. Это пример литературы библейской мудрости, поднимающий вопросы о ценностях, нравственном поведении, смысле человеческой жизни и правильном поведении, а его теологическая основа состоит в том, что «страх Божий (что означает подчинение воле Бога) начало мудрости». Мудрость восхваляется за ее роль в творении; Бог прежде всего приобрел ее и через нее упорядочил хаос; и поскольку люди имеют жизнь и процветание, сообразуясь с порядком творения, поиск мудрости является сущностью и целью жизни.

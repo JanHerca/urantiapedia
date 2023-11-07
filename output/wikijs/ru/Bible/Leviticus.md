@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Левит</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Левит (/lɪˈvɪtɪkəs/, от древнегреческого: Λευιτικόν, Leuïtikón; иврит: וַיִּקְרָא, Vayyīqrāʾ, «И Он призвал») является третьей книгой Торы (Пятикнижия) и Ветхого Завета, также известной как Третья книга Моисея. Ученые в целом согласны с тем, что он развивался в течение длительного периода времени, достигнув своей нынешней формы в персидский период, с 538 по 332 год до нашей эры.
 
 Большинство его глав (1–7, 11–27) состоят из речей Яхве к Моисею, которые Яхве велит Моисею повторить израильтянам. Это происходит в истории Исхода израильтян после того, как они бежали из Египта и достигли горы Синай ([Исход 19:1](/ru/Bible/Exodus/19#v1)). Книга Исход повествует о том, как Моисей руководил израильтянами при строительстве Скинии (Исход 35–40) по указанию Бога ([Исход 25–31](/ru/Bible/Exodus/25)). В книге Левит Бог говорит израильтянам и их священникам, левитам, как делать приношения в скинии и как вести себя, стоя лагерем вокруг святого шатра-святилища. Действие книги Левит происходит в течение месяца или полутора месяцев между завершением строительства Скинии ([Исход 40:17](/ru/Bible/Exodus/40#v17)) и уходом израильтян с Синая (Числа [1:1](/ru/Bible/Numbers/1#v1), [10:11](/ru/Bible/Numbers/10#v11)).

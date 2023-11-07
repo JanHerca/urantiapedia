@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">БИБЛИЯ</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Russian Synodal Text, 1876</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Руфь</text>
+	</g>
+</svg>
+</div>
+
+## Описание
+
+
 Книга Рут (иврит: מגילת רות, Мегилат Рут, «Свиток Руфи», один из Пяти Мегиллот) включена в третий раздел, или Писания (Кетувим), еврейской Библии. В большинстве христианских канонов она рассматривается как одна из исторических книг и помещается между Судей и 1 Царств.
 
 В книге, написанной на иврите в VI–IV веках до н. э., рассказывается о моавитянке Руфи, которая принимает Яхве, Бога израильтян, как своего Бога и принимает израильский народ как свой собственный. В Руфи 1:16–17 Руфь говорит Ноемини, своей свекрови-израильтянке: «Куда ты пойдешь, я пойду, и где ты будешь, там и останусь. Твой народ будет моим народом, а твой Бог — моим Богом. Там, где ты умрешь, я умру, и там я буду похоронен. Да поступит со мной Господь, как ни сурово, если даже смерть разлучит тебя и меня». 
