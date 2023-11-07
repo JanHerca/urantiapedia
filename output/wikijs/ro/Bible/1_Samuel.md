@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Samuel</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Samuel (ebraică: ספר שמואל, Sefer Shmuel) este o carte din Biblia ebraică, găsită ca două cărți (1–2 Samuel) în Vechiul Testament creștin. Cartea face parte din istoria narativă a Israelului Antic numită istoria deuteronomistă, o serie de cărți (Iosua, Judecătorii, Samuel și Regi) care constituie o istorie teologică a israeliților și care urmăresc să explice legea lui Dumnezeu pentru Israel sub îndrumarea cărților. a profetilor. 
 
 Conform tradiției iudaice, cartea a fost scrisă de Samuel, cu adăugiri de către profeții Gad și Natan, care împreună sunt trei profeți care au apărut în 1 Cronici în timpul relatării domniei lui David. Gândirea academică modernă presupune că întreaga istorie deuteronomistă a fost compusă în jurul anilor 630–540 î.Hr. prin combinarea unui număr de texte independente de diferite epoci.

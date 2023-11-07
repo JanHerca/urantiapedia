@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Iona</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Iona este adunată ca unul dintre cei doisprezece profeți minori ai lui Neviim („Profeți”) din Biblia ebraică și ca o carte în sine în Vechiul Testament creștin. Cartea vorbește despre un profet evreu pe nume Iona, fiul lui Amittai, care este trimis de Dumnezeu să profetizeze distrugerea Ninivei, dar încearcă să scape de această misiune divină. 
 
 Povestea are o lungă istorie interpretativă și a devenit bine cunoscută prin poveștile populare pentru copii. În iudaism, este porțiunea Haftarah citită în după-amiaza lui Yom Kippur pentru a insufla reflecția asupra dorinței lui Dumnezeu de a-i ierta pe cei care se pocăiesc și rămâne o poveste populară printre creștini. Povestea este repovestită și în Coran.

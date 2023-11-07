@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ieremia</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Ieremia (ebraică: ספר יִרְמְיָהוּ) este al doilea dintre cei din urmă profeți din Biblia ebraică și al doilea dintre profeți din Vechiul Testament creștin. Inscripția din capitolul Ieremia 1:1–3 identifică cartea drept „cuvintele lui Ieremia, fiul lui Hilchia”. Dintre toți profeții, Ieremia apare cel mai clar ca persoană, rumegând către cărturarul său Baruc despre rolul său de slujitor al lui Dumnezeu, cu puține vești bune pentru publicul său.
 
 Cartea sa este concepută ca un mesaj către evreii în exil în Babilon, explicând dezastrul exilului ca răspunsul lui Dumnezeu la închinarea păgână a lui Israel: poporul, spune Ieremia, este ca o soție infidelă și copii răzvrătiți, infidelitatea și răzvrătirea lor făceau judecata inevitabilă. , deși restaurarea și un nou legământ sunt prefigurate. Oracolele autentice ale lui Ieremia se găsesc probabil în secțiunile poetice ale capitolelor 1-25, dar cartea în ansamblu a fost editată intens și adăugată de adepții profetului (inclusiv, probabil, tovarășul său, scribul Baruc) și generațiile ulterioare de Deuteronomii.

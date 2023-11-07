@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Faptele Apostolilor</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Faptele Apostolilor (greacă Koinē: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latină: Actūs Apostolōrum) este a cincea carte a Noului Testament; povestește despre întemeierea Bisericii creștine și despre răspândirea mesajului ei către Imperiul Roman. Ea dă o relatare despre slujirea și activitatea apostolilor lui Hristos în Ierusalim și în alte regiuni, după moartea, învierea și înălțarea lui Hristos.
 
 Faptele Apostolilor și Evanghelia după Luca alcătuiesc o lucrare în două părți, Luca-Faptele Apostolilor, a aceluiași autor anonim. De obicei, este datată în jurul anilor 80–90 d.Hr., deși unii cercetători sugerează 90–110. Prima parte, Evanghelia după Luca, spune cum Dumnezeu și-a împlinit planul pentru mântuirea lumii prin viața, moartea și învierea lui Isus din Nazaret, mesia promis. Faptele Apostolilor continuă povestea creștinismului în secolul I, începând cu înălțarea lui Isus la cer. Primele capitole, plasate în Ierusalim, descriu Ziua Cincizecimii (venirea Duhului Sfânt) și creșterea bisericii din Ierusalim. Inițial, evreii sunt receptivi la mesajul creștin, dar mai târziu se întorc împotriva urmașilor lui Isus. Respins de evrei, solia este dusă neamurilor sub îndrumarea apostolului Pavel. Capitolele ulterioare povestesc despre convertirea lui Pavel, despre misiunea sa în Asia Mică și în Marea Egee și, în cele din urmă, despre închisoarea lui la Roma, unde, pe măsură ce cartea se termină, așteaptă judecata.

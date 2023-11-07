@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matei</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Evanghelia după Matei este prima carte a Noului Testament a Bibliei și una dintre cele trei evanghelii sinoptice. Ea povestește cum Mesia lui Israel, Isus, vine la poporul său și formează o comunitate de ucenici, despre cum a învățat poporul prin evenimente precum Predica de pe Munte și Fericirile sale și cum Israelul devine divizat și cum Isus condamnă acest Israel ostil. . Acest lucru culminează cu plecarea sa din Templu și execuția sa. În acest moment, mulți oameni îl resping pe Isus și, la învierea Sa, el îi trimite pe ucenici la neamuri.
 
 Matei pare să sublinieze că tradiția iudaică nu trebuie pierdută într-o biserică care devenea din ce în ce mai mult gentilă. Evanghelia reflectă luptele și conflictele dintre comunitatea evanghelistului și ceilalți evrei, în special prin critica ei ascuțită la adresa cărturarilor și fariseilor cu poziția că, prin respingerea lor pe Hristos, Împărăția lui Dumnezeu a fost luată de la ei și le-a fost dată în schimb Biserica. Natura divină a lui Isus a fost o problemă majoră pentru comunitatea mateană, elementul crucial care îi separa pe primii creștini de vecinii lor evrei; în timp ce Marcu începe cu botezul și ispitele lui Isus, Matei se întoarce la originile lui Isus, arătându-l ca Fiul lui Dumnezeu de la nașterea lui, împlinirea profețiilor mesianice ale Vechiului Testament. Titlul Fiul lui David îl identifică pe Isus ca Mesia vindecător și făcător de minuni al lui Israel (este folosit exclusiv în legătură cu miracole), trimis numai în Israel. Ca Fiu al Omului, el se va întoarce pentru a judeca lumea, o așteptare pe care discipolii săi o recunosc, dar de care dușmanii lui nu o cunosc. Ca Fiu al lui Dumnezeu, Dumnezeu se descoperă prin fiul său, iar Isus își dovedește calitatea de fiu prin ascultarea și exemplul său.

@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Înțelepciunea</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="70">lui Solomon</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Înțelepciunii, sau Înțelepciunea lui Solomon, este o lucrare evreiască scrisă în greacă și cel mai probabil compusă în Alexandria, Egipt. Datată în general la mijlocul secolului I î.Hr., tema centrală a lucrării este „înțelepciunea” însăși, care apare sub două aspecte principale. Primul aspect este, în relația sa cu omenirea, înțelepciunea este perfecțiunea cunoașterii drepților ca dar de la Dumnezeu care se arată în acțiune. Al doilea aspect este, în relație directă cu Dumnezeu, înțelepciunea este cu Dumnezeu din veșnicie. Este una dintre cele șapte cărți Sapientiale sau de înțelepciune din Septuaginta, celelalte fiind Psalmi, Proverbe, Eclesiastul, Cântarea Cântărilor (Cântarea lui Solomon), Iov și Sirah. Este inclusă în canoanele Bisericii Catolice și ale Bisericii Ortodoxe Răsăritene. Majoritatea protestanților îl consideră parte a apocrifelor.
 
 ## Index

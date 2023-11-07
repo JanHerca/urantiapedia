@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Cronici</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Cronicilor (ebraică: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) este o carte din Biblia ebraică, găsită ca două cărți (1–2 Cronici) în Vechiul Testament creștin. Cronici este ultima carte a Bibliei ebraice, care încheie cea de-a treia secțiune a Tanahului evreiesc, Ketuvim („Scrieri”). Conține o genealogie care începe cu Adam și o istorie a Iuda și Israel antic până la Edictul lui Cyrus din 539 î.Hr.
 
 Cartea a fost împărțită în două cărți în Septuaginta și tradusă la mijlocul secolului al III-lea î.Hr. În contexte creștine, Chronicles este denumită la plural „Cărțile Cronicilor”, după numele latin „chronicon” dat textului de Ieronim, dar sunt rareori menționate prin numele lor grecesc „Cartile lui Paralipomenon”. În Bibliile creștine, ele urmează de obicei cele două Cărți ale Regilor și preced Ezra-Neemia, ultima carte orientată spre istorie a Vechiului Testament protestant.

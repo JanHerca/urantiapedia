@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Daniel</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Daniel este o apocalipsă biblică din secolul al II-lea î.Hr. cu un decor din secolul al VI-lea î.Hr. Aparent „o relatare a activităților și viziunilor lui Daniel, un evreu nobil exilat la Babilon”, ea combină o profeție a istoriei cu o escatologie (o portretizare a vremurilor de sfârșit) atât în ​​amploare cosmică, cât și în focalizare politică, iar mesajul său este că Așa cum Dumnezeul lui Israel îl salvează pe Daniel de dușmanii săi, tot așa ar salva pe tot Israelul în asuprirea lor actuală.
 
 Biblia ebraică îl include pe Daniel în Ketuvim (scrieri), în timp ce canoanele biblice creștine grupează lucrarea cu Profeții Mari. Se împarte în două părți: un set de șase povești de curte în capitolele 1–6, scrise în mare parte în aramaică, și patru viziuni apocaliptice în capitolele 7–12, scrise mai ales în ebraică; cărțile deuterocanonice conțin trei secțiuni suplimentare, Rugăciunea lui Azaria și Cântarea celor trei copii sfinți, Susanna și Bel și Dragonul. 

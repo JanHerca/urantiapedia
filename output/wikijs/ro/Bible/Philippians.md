@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Filipeni</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Epistola către Filipeni este o epistolă paulină a Noului Testament al Bibliei creștine. Epistola este atribuită apostolului Pavel și Timotei este numit împreună cu el ca coautor sau co-transmițător. Scrisoarea este adresată bisericii creștine din Filipi. Pavel, Timotei, Sila (și poate Luca) au vizitat pentru prima dată Filipi în Grecia (Macedonia) în timpul celei de-a doua călătorii misionare a lui Pavel din Antiohia, care a avut loc între aproximativ 49 și 51 d.Hr. În relatarea vizitei sale din Faptele Apostolilor, Pavel și Sila sunt acuzați că „deranjau orașul”.
 
 Există un consens general că Filipeni constă din material autentic paulin și că epistola este un compus din mai multe fragmente de scrisori de la Pavel către biserica din Filipi. Aceste scrisori ar fi putut fi scrise din Efes în 52–55 d.Hr. sau Cezareea Maritima în 57–59, dar cel mai probabil oraș de proveniență este Roma, în jurul anului 62 d.Hr. sau la aproximativ 10 ani după prima vizită a lui Pavel la Filipi.

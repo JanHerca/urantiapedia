@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Levitic</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Leviticului (/lɪˈvɪtɪkəs/, din greaca veche: Λευιτικόν, Leuïtikón; ebraică: וַיִּקְרָא, Vayyīqrāʾ, „Și El a chemat”) este a treia carte a Vechiului Testament, Tora și cunoscută și sub numele de Pentateuh, Tora Cartea a treia a lui Moise. Savanții sunt în general de acord că s-a dezvoltat pe o perioadă lungă de timp, atingând forma actuală în timpul perioadei persane, din 538–332 î.Hr.
 
 Majoritatea capitolelor sale (1–7, 11–27) constau în discursurile lui Iahve către Moise, pe care Iahve îi spune lui Moise să le repete israeliților. Aceasta are loc în povestea Ieșirii israeliților după ce au evadat din Egipt și au ajuns la Muntele Sinai ([Exodul 19:1](/ro/Bible/Exodus/19#v1)). Cartea Ieșirii povestește modul în care Moise i-a condus pe israeliți în construirea Cortului (Exodul 35–40) cu instrucțiunile lui Dumnezeu ([Exodul 25–31](/ro/Bible/Exodus/25)). În Levitic, Dumnezeu le spune israeliților și preoților lor, leviții, cum să facă jertfe în Cort și cum să se comporte în timp ce tăbăresc în jurul sanctuarul sfânt al cortului. Leviticul are loc în timpul lunii sau lunii și jumătate dintre finalizarea Cortului ([Exodul 40:17](/ro/Bible/Exodus/40#v17)) și plecarea israeliților din Sinai (Numeri [1:1](/ro/Bible/Numbers/1#v1), [10:11](/ro/Bible/Numbers/10#v11)).

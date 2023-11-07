@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Numeri</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Numerilor (din greacă Ἀριθμοί, Arithmoi; ebraică: בְּמִדְבַּר, Bəmīḏbar, „În deșertul [de]”) este a patra carte din Biblia ebraică și a patra din cele cinci cărți evreiești Torah. Cartea are o istorie lungă și complexă; forma sa finală se datorează, probabil, unei redactări preoțești (adică, editare) a unei surse iahiste, făcută în perioada persană timpurie (secolul al V-lea î.Hr.). Numele cărții provine de la cele două recensăminte făcute ale israeliților.
 
 Numerele începe de la Muntele Sinai, unde israeliții și-au primit legile și legământul de la Dumnezeu și Dumnezeu și-a stabilit reședința printre ei în sanctuar. Sarcina în fața lor este să ia în stăpânire Țara Făgăduinței. Oamenii sunt numărați și se fac pregătiri pentru reluarea marșului. Israeliții încep călătoria, dar „murmuresc” de greutățile de pe drum și de autoritatea lui Moise și Aaron. Pentru aceste acte, Dumnezeu distruge aproximativ 15.000 dintre ele prin diferite mijloace. Ei ajung la granițele Canaanului și trimit spioni în țară. După ce au auzit raportul înfricoșător al spionilor cu privire la condițiile din Canaan, israeliții refuză să o ia în stăpânire. Dumnezeu îi condamnă la moarte în pustie până când o nouă generație poate crește și își va îndeplini sarcina.

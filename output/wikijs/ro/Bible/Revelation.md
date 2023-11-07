@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apocalipsa</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Apocalipsei este cartea finală a Noului Testament (și, în consecință, cartea finală a Bibliei creștine). Titlul său este derivat din primul cuvânt al textului grecesc Koine: apokalipsis, care înseamnă „dezvelire” sau „revelație”. Cartea Apocalipsei este singura carte apocaliptică din canonul Noului Testament. Ocupă un loc central în escatologia creștină.
 
 Autorul se numește „Ioan” în text, dar identitatea sa precisă rămâne un punct de dezbatere academică. Scriitori creștini din secolul al II-lea, precum Papias din Hierapolis, Iustin Martir, Irineu, Melito din Sardes, Clement din Alexandria și autorul fragmentului muratorian îl identifică pe Ioan Apostolul drept „Ioanul” Apocalipsei. Studiile moderne adoptă în general o viziune diferită, mulți considerând că nimic nu se poate ști despre autor, cu excepția faptului că a fost un profet creștin. Teologii moderni îl caracterizează pe autorul Cărții Apocalipsa drept „Ioan din Patmos”. Cea mai mare parte a surselor tradiționale datează cartea din timpul împăratului roman Domițian (81–96 d.Hr.), pe care dovezile tind să le confirme.

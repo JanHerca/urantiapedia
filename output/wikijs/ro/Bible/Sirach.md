@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ecleziastic</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Sirach (/ˈsaɪræk/) sau Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/; prescurtat Ecclus.), este o lucrare evreiască, inițial în ebraică, de învățături etice, din aproximativ 200 până în 175 î.Hr., scrisă de scribul lui Ben Sirah al Ierusalimului. , pe inspirația tatălui său Iosua, fiul lui Sirah, numit uneori Iisus fiul lui Sira sau Yeshua ben Eliezer ben Sira. 
 
 În Egipt, a fost tradusă în greacă de către nepotul nenumit al autorului, care a adăugat un prolog. Acest prolog este, în general, considerat cel mai vechi martor al unui canon [clarificarea necesară] al cărților profeților și, prin urmare, data textului este subiectul unei examinări intense. Cartea în sine este cea mai mare carte de înțelepciune din antichitate care a supraviețuit.

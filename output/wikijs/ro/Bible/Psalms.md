@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Psalmii</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Psalmilor (/sɑːmz/ SAHMZ sau /sɔː(l)mz/ SAW(L)MZ; ebraică: תְּהִלִּים, Tehillim, lit. „laude”), cunoscută și sub numele de Psalmi, sau Psaltirea, este prima carte a Ketuvim („Scrieri”), a treia secțiune a Tanakhului și o carte a Vechiului Testament. Titlul este derivat din traducerea greacă, ψαλμοί (psalmoi), care înseamnă „muzică instrumentală” și, prin extensie, „cuvintele care însoțesc muzica”. Cartea este o antologie de imnuri religioase ebraice individuale, cu 150 în tradiția evreiască și creștină occidentală și mai multe în bisericile creștine răsăritene. Mulți sunt legați de numele lui David, dar erudiția modernă îi respinge calitatea de autor, atribuind în schimb compoziția psalmilor diverșilor autori care au scris între secolele al IX-lea și al V-lea î.Hr. 
 
 ## Index

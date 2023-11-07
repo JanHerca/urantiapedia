@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Proverbele</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Proverbelor (ebraică: מִשְלֵי, Mīšlē, „Proverbe (al lui Solomon)”) este o carte din a treia secțiune (numită Ketuvim) a Bibliei ebraice și o carte a Vechiului Testament creștin. Când a fost tradus în greacă și latină, titlul a luat diferite forme: în Septuaginta greacă (LXX) a devenit Παροιμίαι (Paroimiai, „Proverbe”); în Vulgata latină titlul era Proverbia, din care derivă numele englezesc.
 
 Proverbe nu este doar o antologie, ci o „colecție de colecții” referitoare la un tipar de viață care a durat mai mult de un mileniu. Este un exemplu al literaturii de înțelepciune biblică și ridică întrebări despre valori, comportament moral, sensul vieții umane și conduita corectă, iar fundamentul său teologic este că „frica de Dumnezeu (adică supunerea față de voința lui Dumnezeu) este începutul înțelepciunii”. Înțelepciunea este lăudată pentru rolul ei în creație; Dumnezeu a dobândit-o înainte de toate și prin ea a dat ordine haosului; și din moment ce oamenii au viață și prosperitate conformându-se ordinii creației, căutarea înțelepciunii este esența și scopul vieții.

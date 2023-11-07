@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Isaia</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Isaia (ebraică: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) este primul dintre cei din urmă profeți din Biblia ebraică și primul dintre profeții majori din Vechiul Testament creștin. Este identificat printr-o inscripție ca fiind cuvintele profetului Isaia ben Amoz din secolul al VIII-lea î.e.n., dar există dovezi extinse că o mare parte din ea a fost compusă în timpul captivității babiloniene și mai târziu. Johann Christoph Döderlein a sugerat în 1775 că cartea conținea lucrările a doi profeți despărțiți de mai bine de un secol, iar Bernhard Duhm a dat naștere consensului în cea mai mare parte a secolului al XX-lea, că cartea cuprinde trei colecții separate de oracole: Proto-Isaia (capitolele 1–39), care conține cuvintele profetului Isaia din secolul al VIII-lea î.e.n.; Deutero-Isaia (capitolele 40–55), opera unui autor anonim din secolul al VI-lea î.Hr. care scrie în timpul Exilului; și Trito-Isaia (capitolele 56–66), compuse după întoarcerea din Exil. Isaia 1–33 promite judecată și restaurare pentru Iuda, Ierusalim și națiuni, iar capitolele 34–66 presupun că judecata a fost pronunțată și restaurarea urmează în curând. În timp ce practic niciun cercetător nu atribuie întreaga carte, sau chiar cea mai mare parte, unei singure persoane, unitatea esențială a cărții a devenit un punct central în cercetările mai recente.
 
 Cartea poate fi citită ca o meditație extinsă asupra destinului Ierusalimului în și după exil. Partea deutero-isaiană a cărții descrie modul în care Dumnezeu va face din Ierusalimul centrul stăpânirii sale la nivel mondial printr-un salvator regal (un mesia) care îl va distruge pe asupritor (Babilon); acest mesia este regele persan Cirus cel Mare, care este doar agentul care realizează domnia lui Yahweh. Isaia vorbește împotriva liderilor corupți și pentru cei dezavantajați și înrădăcinează neprihănirea în sfințenia lui Dumnezeu mai degrabă decât în ​​legământul lui Israel.

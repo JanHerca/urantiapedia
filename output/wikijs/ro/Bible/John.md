@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ioan</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Evanghelia lui Ioan (greacă veche: Εὐαγγέλιον κατὰ Ἰωάννην, romanizat: Euangélion katà Iōánnēn) este a patra dintre cele patru evanghelii canonice. Conține o relatare extrem de schematică a slujirii lui Isus, cu șapte „semne” care culminează cu învierea lui Lazăr (prefigurând învierea lui Isus) și șapte discursuri „Eu sunt” (preocupate de problemele dezbaterii dintre biserică și sinagogă la acea vreme). de compoziție) culminând cu proclamarea de către Toma a lui Isus înviat ca „Domnul meu și Dumnezeul meu”. Versetele finale ale Evangheliei prezintă scopul ei, „ca să credeți că Isus este Hristosul, Fiul lui Dumnezeu și ca, crezând, să aveți viață în numele Lui”.
 
 Ioan a atins forma sa finală în jurul anilor 90–110 d.Hr., deși conține semne de origini care datează din anul 70 d.Hr. și, posibil, chiar mai devreme. Ca și celelalte trei evanghelii, este anonimă, deși identifică un „discipol pe care Isus l-a iubit” fără nume ca sursă a tradițiilor sale. Cel mai probabil a apărut în cadrul unei „comunități ioanine” și – deoarece este strâns legată în stil și conținut de cele trei epistole ioanine – majoritatea cercetătorilor tratează cele patru cărți, împreună cu Cartea Apocalipsei, ca pe un singur corpus al literaturii ioanine, deși nu de la același autor. 

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Exod</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Exodului (din greaca veche: Ἔξοδος, romanizat: Éxodos; ebraică: שְׁמוֹת Šəmōṯ, „Nume”) este a doua carte a Bibliei. Narează povestea Exodului, în care israeliții părăsesc sclavia în Egiptul biblic prin puterea lui Iahve, care i-a ales ca popor. Israeliții călătoresc apoi împreună cu profetul Moise la Muntele Sinai, unde Domnul dă cele 10 porunci și intră într-un legământ cu Domnul, care promite să facă din ei „un neam sfânt și o împărăție de preoți”, cu condiția fidelității lor. El le dă legile și instrucțiunile lor pentru a construi Cortul, mijlocul prin care va veni din cer și va locui cu ei și îi va conduce într-un război sfânt pentru a stăpâni țara Canaanului („Țara Făgăduinței”), care a avut mai devreme: conform poveștii Genezei, a fost promis seminței lui Avraam.
 
 Atribuita în mod tradițional lui Moise însuși, savanții moderni văd compoziția sa inițială ca un produs al exilului babilonian (secolul al VI-lea î.Hr.), bazat pe izvoare scrise și tradiții orale anterioare, cu revizuiri finale în perioada persană post-exil (secolul 5 î.Hr.). Carol Meyers, în comentariul său despre Exodul, sugerează că este probabil cea mai importantă carte din Biblie, deoarece prezintă trăsăturile definitorii ale identității lui Israel – amintiri ale unui trecut marcat de greutăți și evadare, un legământ obligatoriu cu Dumnezeu, care alege Israel și stabilirea vieții comunității și liniile directoare pentru susținerea acesteia. Consensul dintre oamenii de știință moderni este că povestea din Cartea Exodului este cel mai bine înțeleasă ca un mit.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Marcu</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Evanghelia după Marcu este a doua dintre cele patru evanghelii canonice și dintre cele trei evanghelii sinoptice. Povestește despre slujirea lui Isus de la botezul său de către Ioan Botezătorul până la moartea sa, înmormântarea și descoperirea mormântului său gol. Nu există naștere miraculoasă sau doctrină a preexistenței divine și nici, în finalul original (Marcu 16:1–8), nicio apariție a lui Isus după înviere. Îl înfățișează pe Isus ca un profesor, un exorcist, un vindecător și un făcător de minuni. El se referă la sine ca Fiul Omului. El este numit Fiul lui Dumnezeu, dar își păstrează secretă natura mesianică; nici măcar discipolii lui nu reușesc să-l înțeleagă. Toate acestea sunt în concordanță cu interpretarea creștină a profeției, despre care se crede că prevestește soarta lui Mesia ca slujitor suferind. Evanghelia se încheie, în versiunea sa originală, cu descoperirea mormântului gol,
 
 Majoritatea cercetătorilor îl dau pe Marcu la c. 66–74 d.Hr., fie cu puțin timp înainte, fie după distrugerea celui de-al Doilea Templu în 70 d.Hr. Ei resping atribuirea tradițională lui Marcu Evanghelistul, tovarășul apostolului Petru, care probabil a apărut din dorința primilor creștini de a lega lucrarea de o figură autorizată și cred că este opera unui autor care lucrează cu diverse surse, inclusiv culegeri de povești miracole, povești controversate, pilde și o narațiune despre pasiune. În mod tradițional, a fost plasat al doilea, și uneori al patrulea, în canonul creștin, ca o prescurtare inferioară a ceea ce era considerată cea mai importantă Evanghelie, Matei; În consecință, Biserica și-a derivat punctul de vedere despre Isus în primul rând din Matei, în al doilea rând de la Ioan și doar departe de Marcu.

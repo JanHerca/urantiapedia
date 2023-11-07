@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezechiel</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea lui Ezechiel este al treilea dintre cei din urmă Profeți din Tanah și una dintre cărțile profetice majore, după Isaia și Ieremia. Potrivit cărții în sine, ea consemnează șase viziuni ale profetului Ezechiel, exilat în Babilon, în timpul celor 22 de ani de la 593 până la 571 î.Hr., deși este produsul unei istorii lungi și complexe și nu păstrează în mod necesar însăși cuvintele profet.
 
 Viziunile și cartea sunt structurate în jurul a trei teme: (1) Judecata asupra lui Israel (capitolele 1–24); (2) Judecata asupra neamurilor (capitolele 25–32); și (3) Binecuvântări viitoare pentru Israel (capitolele 33–48). Temele sale includ conceptele de prezență a lui Dumnezeu, puritate, Israel ca comunitate divină și responsabilitate individuală față de Dumnezeu. Influența sa ulterioară a inclus dezvoltarea tradițiilor mistice și apocaliptice în Al Doilea Templu și iudaismul și creștinismul rabinic.

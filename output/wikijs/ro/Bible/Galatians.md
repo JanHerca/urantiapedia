@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Galateni</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Epistola către Galateni este a noua carte a Noului Testament. Este o scrisoare a apostolului Pavel către o serie de comunități creștine timpurii din Galația. Oamenii de știință au sugerat că aceasta este fie provincia romană Galația din sudul Anatoliei, fie o regiune mare definită de un grup etnic de oameni celtici din Anatolia centrală.
 
 În această scrisoare, Pavel este preocupat în principal de controversa din jurul creștinilor gentili și a Legii mozaice din timpul Epocii Apostolice. Pavel susține că galatenii neamuri nu trebuie să adere la principiile Legii mozaice, în special tăierea împrejur bărbătească religioasă, prin contextualizarea rolului legii în lumina revelației lui Hristos. Epistola către Galateni a exercitat o influență enormă asupra istoriei creștinismului, dezvoltării teologiei creștine și studiului apostolului Pavel.

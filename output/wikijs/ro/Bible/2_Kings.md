@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBLIA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Romanian Orthodox Bible, 1936</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Regi</text>
+	</g>
+</svg>
+</div>
+
+## Descriere
+
+
 Cartea Regilor (ebraică: ספר מלכים, sefer melakhim) este o carte din Biblia ebraică, găsită ca două cărți (1–2 Regi) în Vechiul Testament creștin. Se încheie istoria deuteronomistă, o istorie a Israelului care include și cărțile lui Iosua și Judecătorii și Cărțile lui Samuel.
 
 Comentatorii biblici cred că Cărțile Regilor au fost scrise pentru a oferi o explicație teologică pentru distrugerea Regatului lui Iuda de către Babilon în c. 586 î.Hr. și pentru a oferi o bază pentru o întoarcere din exilul babilonian. Cele două cărți ale Regilor prezintă o istorie a vechiului Israel și Iuda, de la moartea regelui David până la eliberarea lui Ioiachin din închisoarea din Babilon – o perioadă de aproximativ 400 de ani (c. 960 – c. 560 î.Hr.). Savanții tind să trateze cărțile ca fiind formate dintr-o primă ediție de la sfârșitul secolului al VII-lea î.Hr. și dintr-o a doua și ultimă ediție de la mijlocul secolului al VI-lea î.Hr. 
