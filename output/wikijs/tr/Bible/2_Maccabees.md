@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Makabeler</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
+
 2 Maccabees, aynı zamanda İkinci Makkabiler, İkinci Makkabiler olarak da bilinir ve 2 Macc olarak kısaltılır, Kral Antiochus IV Epiphanes döneminde Yahudilere yapılan zulmü ve ona karşı Makkab İsyanı'nı anlatan deuterokanonik bir kitaptır. Seleukos İmparatorluğu generali Nicanor'un MÖ 161'de Makkabilerin lideri Judas Maccabeus tarafından yenilmesiyle sona erer.
 
 2 Maccabees, Helenistik Mısır'da yaşayan bilinmeyen bir diaspora Yahudisi tarafından Koine Yunancası ile yazılmıştır. 150 ile 120 yılları arasında yazılmış olması muhtemeldir. 1 Makkabiler kitabıyla birlikte Makkabi İsyanı ile ilgili en önemli kaynaklardan biridir. İş, 1 Maccabees'in devamı değil, Maccabean İsyanı'nın tarihsel olaylarının kendi bağımsız yorumudur. Seleukos yetkilisi Heliodorus'un MÖ 178'de İkinci Tapınak'ı vergilendirmeye çalışmasıyla başlayan ve MÖ 161'de Adasa Savaşı ile biten bir olayla başlayıp, tarihini 1 Makkabi'den önce hem başlatır hem de bitirir. Bazı bilim adamları, kitabın, ölüler için duanın onaylanmasını ve ölülerin diriltilmesini içeren bölümlerin yer aldığı Ferisi geleneğinden etkilendiğine inanıyor.

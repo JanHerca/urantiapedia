@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Hakimler</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
+
 Hakimler Kitabı (ספר שופטים, Sefer Shoftim), İbranice İncil'in ve Hıristiyan Eski Ahit'in yedinci kitabıdır. İbranice İncil'in anlatımında, Yeşu Kitabında açıklanan fetih ile İncil yargıçlarının geçici liderler olarak görev yaptığı Samuel Kitaplarında bir krallığın kurulması arasındaki zamanı kapsar. Hikâyeler tutarlı bir örüntü izler: halk Yahveh'ye sadakatsizdir; bu nedenle onları düşmanlarının eline teslim eder; halk tövbe eder ve Rab'bin bir lider veya şampiyon (bir "yargıç"; bkz. shophet) şeklinde gönderdiği merhamet için yalvarır; yargıç İsraillileri baskıdan kurtarır ve başarılı olurlar, ancak kısa süre sonra tekrar sadakatsizliğe düşerler ve döngü tekrarlanır. Akademisyenler, Yargıçlar'daki öykülerin birçoğunun, büyük redaksiyonları MÖ 8. yüzyıla tarihlenen ve Deborah'ın Şarkısı gibi çok daha eskiye dayanan materyallerle Tesniye tarihinin en eskileri olduğunu düşünüyorlar.
 
 ## Index

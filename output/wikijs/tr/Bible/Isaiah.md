@@ -1,5 +1,5 @@
 ---
-title: Yeremya
+title: Yeşeya
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -7,6 +7,24 @@ tags:
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
+
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Yeşeya</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
 
 İşaya Kitabı (İbranice: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) İbranice İncil'deki Son Peygamberlerin ilki ve Hıristiyan Eski Ahit'teki Başlıca Peygamberlerin ilkidir. Bir üst yazı ile MÖ 8. yüzyılda peygamber Isaiah ben Amoz'un sözleri olarak tanımlanır, ancak çoğunun Babil esareti sırasında ve sonrasında yazıldığına dair kapsamlı kanıtlar vardır. Johann Christoph Döderlein 1775'te kitabın, bir asırdan fazla arayla ayrılmış iki peygamberin eserlerini içerdiğini öne sürdü ve Bernhard Duhm, 20. yüzyılın büyük bir kısmında ortak görüş olarak kabul edilen, kitabın üç ayrı kehanet koleksiyonu içerdiği görüşünü ortaya attı: 8. yüzyıla ait peygamber İşaya'nın sözlerini içeren Proto-Yeşaya (bölüm 1-39); Tesniye-İşaya (40-55. bölümler), Sürgün sırasında yazan anonim bir MÖ 6. yüzyıl yazarının eseri; ve Sürgün'den döndükten sonra bestelenen Trito-Isaiah (56-66. bölümler). İşaya 1-33, Yahuda, Yeruşalim ve milletler için hüküm ve iade sözü verir ve 34-66. baplar hükmün açıklandığını ve yakında iadenin geleceğini varsayar. Bugün neredeyse hiçbir bilim adamı kitabın tamamını, hatta çoğunu tek bir kişiye atfetmese de, kitabın temel bütünlüğü daha yeni araştırmalarda odak noktası haline geldi.
 

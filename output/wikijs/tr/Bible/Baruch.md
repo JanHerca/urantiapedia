@@ -1,5 +1,5 @@
 ---
-title: Hezekiel
+title: Baruk
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -7,6 +7,24 @@ tags:
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
+
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOKRIF</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Baruk</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
 
 Baruch Kitabı, Katolik ve Ortodoks kiliseleri gibi çoğu Hıristiyan geleneğinde kullanılan İncil'in deuterokanonik bir kitabıdır. Yahudilik ve Protestan Hristiyanlıkta, Protestan İncilleri onu İncil kıyametinin bir parçası olarak kategorize ederek, kanonun bir parçası olmadığı kabul edilir. Kitabın adı, Yeremya'nın Baruh 1:1'de bahsedilen ve tüm çalışmanın yazarı olduğu tahmin edilen tanınmış yazıcısı Baruh ben Neriah'tan gelmektedir. Kitap, İsrail'in teolojisi ve tarihi üzerine meditasyonlar, bilgelik tartışmaları ve Kudüs ve diaspora sakinlerine doğrudan hitap eden, Babil'den sürgün edilen Yahudilerin koşulları üzerine son dönem bir Yahudi yazarın bir yansımasıdır. Bazı bilim adamları, Makkabiler döneminde veya kısa bir süre sonra yazıldığını öne sürüyorlar.
 

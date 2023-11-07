@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Levililer</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
+
 Levililer kitabı (/lɪˈvɪtɪkəs/, Eski Yunancadan: Λευιτικόν, Leuïtikón; İbranice: וַיִּקְרָא, Vayyīqrāʾ, “Ve O çağırdı”), Tevrat'ın (Pentateuch) ve Eski Ahit'in üçüncü kitabıdır. Musa'nın Üçüncü Kitabı. Bilim adamları genellikle uzun bir süre boyunca geliştiğini ve bugünkü biçimine MÖ 538-332'den Pers Dönemi'nde ulaştığını kabul ederler.
 
 Bölümlerinin çoğu (1–7, 11–27), Yehova'nın Musa'ya yaptığı konuşmalardan oluşur ve Yehova, Musa'ya İsraillilere tekrar etmesini söyler. Bu, İsrailoğulları'nın Mısır'dan kaçıp Sina Dağı'na ulaştıktan sonraki Mısır'dan Çıkış hikayesinde yer alır ([Çıkış 19:1](/tr/Bible/Exodus/19#v1)). Çıkış Kitabı, Musa'nın İsrailoğullarını Tanrı'nın talimatlarıyla ([Çıkış 25–31](/tr/Bible/Exodus/25)) Çadır'ı (Çıkış 35-40) inşa etmeye nasıl yönlendirdiğini anlatır. Levililer'de Tanrı, İsraillilere ve onların kâhinleri Levililere, Çadır'da nasıl adak sunacaklarını ve kutsal çadır tapınağı çevresinde kamp kurarken nasıl davranacaklarını söyler. Levililer, Mişkan'ın tamamlanması ([Çıkış 40:17](/tr/Bible/Exodus/40#v17)) ile İsraillilerin Sina'dan ayrılması  arasındaki bir buçuk ay veya ay boyunca gerçekleşir. (Sayılar [1:1](/tr/Bible/Numbers/1#v1), [10:11](/tr/Bible/Numbers/10#v11))

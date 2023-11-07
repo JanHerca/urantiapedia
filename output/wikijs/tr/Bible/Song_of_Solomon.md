@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Ezgiler Ezgisi</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
+
 Şarkılar Şarkısı (İbranice: שִׁיר הַשִּׁירִים Šīr hašŠīrīm; Yunanca: ᾎσμα ᾀσμάτων, tercüme. Âisma āismátōn, Koine Yunanca telaffuz: [ˈäˑ.z̠mä äˈz̠mä.to̞n]), aynı zamanda Süleyman'ın Kutsal Şarkısı olarak da adlandırılır. Ketuvim (veya “Yazılar”) olarak bilinen Tanah'ın son bölümünde bulunan megillotlardan (parşömenlerden) biri olan erotik şiir. İbranice İncil'de benzersizdir: Kanuna, Ahit'e veya İsrail'in Tanrısına ilgi göstermez, Atasözleri veya Vaiz gibi bilgeliği öğretmez veya araştırmaz (10. yüzyıl İsrail Kralı Süleyman gösterir); bunun yerine cinsel aşkı kutlar, “iki sevgilinin sesini verir, birbirini övür, birbirini arzular, zevk davetleri sunar”.
 
 İkisi uyum içindedir, her biri diğerini arzular ve cinsel yakınlıktan zevk alır. Kudüslü kadınlar, aşıkların erotik karşılaşmalarına katılımı okuyucunun katılımını kolaylaştıran bir dinleyici olarak işlev gören aşıklar için bir koro oluşturur. Bilginler, MÖ 10. yüzyıldan 2. yüzyıla kadar değişen tahminlerle, 3. yüzyılı düşündüren kullanılan dilin bir analiziyle, ne zaman yazıldığı konusunda farklılık gösterir. Modern Yahudilikte Şarkı, Tahıl hasadının başlangıcını işaret eden ve aynı zamanda İncil'deki Mısır'dan Çıkış'ı anan Fısıh sırasında Şabat'ta okunur. Yahudi geleneği onu Tanrı ile İsrail arasındaki ilişkinin bir alegorisi olarak okur; Hristiyanlık, Mesih ve gelini Kilise'nin bir alegorisi olarak.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Mısırdan Çıkış</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
+
 Exodus Kitabı (Eski Yunanca: Ἔξοδος, romanlaştırılmış: Éxodos; İbranice: שְׁמוֹת Šəmōṯ, “İsimler”) İncil'in ikinci kitabıdır. İsraillilerin, onları halkı olarak seçen Yahveh'nin gücüyle İncil'deki Mısır'da köleliği terk ettikleri Exodus'un hikayesini anlatıyor. İsrailliler daha sonra peygamber Musa ile birlikte Sina Dağı'na giderler; burada Yahveh 10 emri verir ve onları sadakatleri koşuluyla “kutsal bir ulus ve bir kâhinler krallığı” yapmayı vaat eden Yehova ile bir antlaşmaya girerler. Onlara, cennetten gelip onlarla birlikte yaşayacağı ve daha önce sahip olduğu Kenan diyarına (“Vaat Edilmiş Topraklar”) sahip olmak için kutsal bir savaşta önderlik edeceği bir araç olan Çadırı inşa etmek için yasalarını ve talimatlarını verir. Yaratılış hikayesine göre, İbrahim'in soyuna vaat edilmiştir.
 
 Geleneksel olarak Musa'nın kendisine atfedilen modern bilim adamları, ilk kompozisyonunu, sürgün sonrası Pers döneminde (MÖ 5. yüzyıl) son revizyonlarla birlikte, daha önceki yazılı kaynaklara ve sözlü geleneklere dayanan Babil sürgününün (MÖ 6. yüzyıl) bir ürünü olarak görüyorlar. Carol Meyers, Exodus hakkındaki yorumunda, İsrail'in kimliğinin tanımlayıcı özelliklerini -zorluk ve kaçışla işaretlenmiş bir geçmişin anıları, seçen Tanrı ile bağlayıcı bir ahit- sunduğu için, bunun İncil'deki tartışmasız en önemli kitap olduğunu öne sürüyor. İsrail ve toplum yaşamının kurulması ve onu sürdürmek için yönergeler. Modern bilim adamları arasındaki fikir birliği, Çıkış Kitabı'ndaki hikayenin en iyi bir efsane olarak anlaşıldığıdır. 

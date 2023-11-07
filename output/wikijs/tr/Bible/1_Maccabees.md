@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">İNCIL</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Kitab-ı Mukaddes, 1941</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Makabeler</text>
+	</g>
+</svg>
+</div>
+
+## Tanım
+
+
 İlk Makabiler olarak da bilinen Birinci Makkabi Kitabı (kısa olarak 1 Makkabi veya 1 Maka olarak yazılır), Haşmona hanedanı tarafından bağımsız bir Yahudi krallığının restorasyonundan sonra anonim bir Yahudi yazar tarafından İbranice yazılmış bir kitaptır. MÖ 2. yüzyılın sonlarında. Orijinal İbranice kayıp ve hayatta kalan en önemli versiyon Septuagint'te bulunan Yunanca çeviridir. Kitap, Katolik, Ortodoks ve Doğu Ortodoks kiliseleri (Ortodoks Tewahedo hariç) tarafından kanonik kutsal metin olarak tutulur, ancak Protestan mezhepleri veya Yahudiliğin herhangi bir büyük kolu tarafından tutulmaz; İbranice İncil'in bir parçası değildir. Bazı Protestanlar onun uydurma bir kitap olduğunu düşünürler (ayrıca Tesniye kitaplarına bakınız).
 
 1 Makkabiler en çok Seleukos İmparatorluğu'na karşı Makkabi İsyanı'nda erken bir zaferin öyküsüyle tanınır: MÖ 164 yılında Kudüs'ün geri alınması ve İkinci Tapınağın yeniden adanması - Yahudilerin Hanuka bayramının ardındaki anlatı. 
