@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Josua</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Josuas bok (hebreiska: ספר יהושע Sefer Yehoshua) är den sjätte boken i den hebreiska bibeln och det kristna Gamla testamentet, och är den första boken i den deuteronomistiska historien, berättelsen om Israel från erövringen av Kanaan till den babyloniska exilen. Den berättar om israeliternas fälttåg i centrala, södra och norra Kanaan, förstörelsen av deras fiender och uppdelningen av landet mellan de tolv stammarna, inramade av två fastställda tal, det första av Gud som befallde erövringen av land, och, i slutet, den andra av Josua som varnade för behovet av att troget följa lagen (toran) som uppenbarats för Mose.
 
 Nästan alla forskare är överens om att Josuas bok har litet historiskt värde för det tidiga Israel och med största sannolikhet återspeglar en mycket senare period. De tidigaste delarna av boken är möjligen kapitel 2–11, berättelsen om erövringen; dessa kapitel inkorporerades senare i en tidig form av Josua som troligen skrevs sent under kung Josias regeringstid (regerade 640–609 fvt), men boken blev inte färdig förrän efter Jerusalems fall till det nybabyloniska riket 586 fvt, och möjligen inte förrän efter återkomsten från den babyloniska exilen 539 fvt.

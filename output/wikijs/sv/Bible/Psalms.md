@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Psaltaren</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Psaltarens bok (/sɑːmz/ SAHMZ eller /sɔː(l)mz/ SAW(L)MZ; hebreiska: תְּהִלִּים, Tehillim, lit. "lovsånger"), även känd som Psalmerna, eller Psaltaren, är den första boken av Ketuvim (”Skrifter”), den tredje delen av Tanakh och en bok i Gamla testamentet. Titeln kommer från den grekiska översättningen, ψαλμοί (psalmoi), som betyder "instrumental musik" och i förlängningen "orden som ackompanjerar musiken". Boken är en antologi av enskilda hebreiska religiösa psalmer, med 150 i den judiska och västerländska kristna traditionen och fler i de österländska kristna kyrkorna. Många är kopplade till namnet David, men modern vetenskap avvisar hans författarskap och tillskriver istället psalmkompositionen till olika författare som skrev mellan 900- och 500-talen f.Kr.
 
 ## Index

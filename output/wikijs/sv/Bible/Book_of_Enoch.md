@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE APOKRYFISKA BÖCKERNA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Henoks bok</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Enoks bok (även 1 Enok;[not 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) är en forntida hebreisk apokalyptisk religiös text, som enligt traditionen tillskrivs Enok, Noahs farfars far. Enok innehåller unikt material om ursprunget till demoner och nefilim, varför några änglar föll från himlen, en förklaring till varför översvämningen i Första Moseboken var moraliskt nödvändig och en profetisk redogörelse för Messias tusenåriga regeringstid.
 
 De äldre avsnitten (främst i Vaktarnas bok) av texten beräknas vara från cirka 300–200 f.Kr., och den senaste delen (Liknelseboken) troligen till 100 f.Kr.

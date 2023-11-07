@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Johannesbrevet</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Det första Johannesbrevet är det första av de johannesiska breven i Nya testamentet och det fjärde av de katolska breven. Det finns ingen vetenskaplig konsensus om författarskapet till de johannesiska verken. Författaren till det första brevet kallas evangelisten Johannes, som de flesta forskare tror inte är samma sak som aposteln Johannes. De flesta forskare tror att de tre Johannesbreven har samma författare, men det finns ingen konsensus om detta också var författaren till Johannesevangeliet. 
 
 Detta brev skrevs troligen i Efesos mellan 95 och 110 e.Kr. Författaren ger råd till kristna om hur man kan urskilja sanna lärare: genom sin etik, sin förkunnelse om Jesus i köttet och genom sin kärlek. Originaltexten skrevs på koine-grekiska. Episteln är indelad i fem kapitel.

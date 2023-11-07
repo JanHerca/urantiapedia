@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">5 Moseboken</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Femte Mosebok (grekiska: Δευτερονόμιον Deuteronómion, lit. 'andra lagen') är den femte och sista boken i Toran (i judendomen), där den kallas Devarim (hebreiska: דְּבָרִים, lit. '[de]] orden [av Moses] ) och den femte boken i det kristna Gamla testamentet.
 
 Kapitel 1–30 i boken består av tre predikningar eller tal som Mose höll för israeliterna på Moabs slätter, strax innan de går in i det utlovade landet. Den första predikan berättar om de fyrtio år av vildmarksvandringar som hade lett till det ögonblicket, och avslutas med en uppmaning att följa lagen. Den andra predikan påminner israeliterna om behovet av att följa Yahweh och de lagar (eller läror) han har gett dem, som deras besittning av landet beror på. Den tredje predikan erbjuder trösten att även om Israels nation skulle visa sig vara otrogen och så förlora landet, kan allt med omvändelse återställas.

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">4 Moseboken</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Numeriboken (från grekiska Ἀριθμοί, Arithmoi; hebreiska: בְּמִדְבַּר, Bəmīḏbar, "I öknen [av]") är den fjärde boken i den hebreiska bibeln, och den fjärde av fem böcker i den judiska Torah. Boken har en lång och komplex historia; dess slutliga form beror möjligen på en prästerlig redaktion (dvs. redigering) av en yahwistisk källa som gjordes någon gång under den tidiga persiska perioden (5:e århundradet f.Kr.). Namnet på boken kommer från de två folkräkningarna som tagits av israeliterna.
 
 Numbers börjar vid berget Sinai, där israeliterna har fått sina lagar och förbund från Gud och Gud har tagit bostad bland dem i helgedomen. Uppgiften framför dem är att ta det utlovade landet i besittning. Människorna räknas och förberedelser görs för att återuppta sin marsch. Israeliterna börjar resan, men de "knarrar" över svårigheterna längs vägen och över Moses och Arons auktoritet. För dessa handlingar förstör Gud ungefär 15 000 av dem på olika sätt. De anländer till Kanaans gränser och skickar spioner in i landet. Efter att ha hört spionernas fruktansvärda rapport om förhållandena i Kanaan vägrar israeliterna att ta den i besittning. Gud dömer dem till döden i öknen tills en ny generation kan växa upp och utföra uppgiften.

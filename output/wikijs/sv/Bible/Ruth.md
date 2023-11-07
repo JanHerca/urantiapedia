@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Rut</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Ruts bok (hebreiska: מגילת רות, Megilath Ruth, "Ruts bokrulle", en av de fem Megilloterna) ingår i den tredje avdelningen, eller Skrifterna (Ketuvim), av den hebreiska bibeln. I de flesta kristna kanoner behandlas den som en av de historiska böckerna och placeras mellan domarna och 1 Samuelsboken.
 
 Boken, skriven på hebreiska på 600-talet fvt, berättar om den moabitiska kvinnan Rut, som accepterar Jahve, israeliternas Gud, som sin Gud och accepterar det israelitiska folket som sin egen. I Rut 1:16–17 säger Rut till Naomi, hennes israelitiska svärmor, "Vart du går ska jag gå, och där du stannar ska jag stanna. Ditt folk ska vara mitt folk och din Gud min Gud. Där du dör kommer jag att dö, och där kommer jag att begravas. Må Herren ta hand om mig, vare sig det är så hårt, om till och med döden skiljer dig och mig åt.” 

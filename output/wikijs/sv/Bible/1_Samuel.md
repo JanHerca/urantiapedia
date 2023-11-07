@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Samuelsboken</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Samuelsboken (hebreiska: ספר שמואל, Sefer Shmuel) är en bok i den hebreiska bibeln, som finns som två böcker (1–2 Samuelsbok) i det kristna Gamla testamentet. Boken är en del av det forntida Israels narrativa historia som kallas deuteronomistisk historia, en serie böcker (Josua, domare, Samuel och kungar) som utgör en teologisk historia för israeliterna och som syftar till att förklara Guds lag för Israel under ledning av profeterna. 
 
 Enligt judisk tradition skrevs boken av Samuel, med tillägg av profeterna Gad och Natan, som tillsammans är tre profeter som hade framträtt i 1 Krönikeboken under berättelsen om Davids regeringstid. Modernt vetenskapligt tänkande hävdar att hela den deuteronomistiska historien komponerades cirka 630–540 f.Kr. genom att kombinera ett antal oberoende texter av olika åldrar.

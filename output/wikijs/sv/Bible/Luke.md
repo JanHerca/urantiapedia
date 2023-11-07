@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Lukas</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Lukasevangeliet berättar om Jesu Kristi ursprung, födelse, tjänst, död, uppståndelse och himmelsfärd. Tillsammans med Apostlagärningarna utgör det ett tvådelat verk som forskare kallar Lukas-Apostlagärningarna, som står för 27,5 % av Nya testamentet. Det kombinerade verket delar upp historien om det första århundradets kristendom i tre stadier, där evangeliet utgör de två första av dessa - Jesu Messias liv från hans födelse till början av hans mission i mötet med Johannes Döparen, följde genom sin tjänst med händelser som predikan om slätten och dess saligprisningar, och hans passion, död och uppståndelse.
 
 De flesta moderna forskare är överens om att de huvudsakliga källorna som användes för Lukas var a), Markusevangeliet, b), en hypotetisk ordspråksamling som kallas Q-källan, och c), material som inte finns i några andra evangelier, ofta kallat L ( för Luke) källa. Författaren är anonym; den traditionella uppfattningen att det var evangelisten Lukas, Paulus följeslagare, framförs fortfarande ibland, men den vetenskapliga konsensusen betonar de många motsättningarna mellan Apostlagärningarna och de autentiska Paulinska breven. Det mest troliga datumet för dess sammansättning är omkring 80–110 e.Kr., och det finns bevis för att den fortfarande reviderades långt in på 200-talet.

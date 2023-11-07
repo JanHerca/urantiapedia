@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#42ca7d;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DE APOKRYFISKA BÖCKERNA</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Baruk</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 The Book of Baruch är en deuterokanonisk bok i Bibeln, som används i de flesta kristna traditioner, såsom katolska och ortodoxa kyrkor. Inom judendomen och protestantisk kristendom anses den inte vara en del av kanonen, och de protestantiska biblarna kategoriserar den som en del av de bibliska apokryferna. Boken är uppkallad efter Baruch ben Neriah, Jeremias välkände skrivare, som nämns i Baruch 1:1 och har antagits vara författaren till hela verket. Boken är en reflektion av en sen judisk författare om omständigheterna för judiska exil från Babylon, med meditationer över Israels teologi och historia, diskussioner om visdom och ett direkt tilltal till invånarna i Jerusalem och diasporan. Vissa forskare menar att den skrevs under eller strax efter Makkabeernas period.
 
 Baruks bok kallas ibland 1 Baruch för att skilja den från 2 Baruch, 3 Baruch och 4 Baruch.

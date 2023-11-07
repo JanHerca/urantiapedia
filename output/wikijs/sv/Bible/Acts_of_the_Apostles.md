@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Apostlagärningarna</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Apostlagärningarna (Koinē grekiska: Πράξεις Ἀποστόλων, Práxeis Apostólōn; latin: Actūs Apostolōrum) är den femte boken i Nya testamentet; den berättar om grundandet av den kristna kyrkan och spridningen av dess budskap till det romerska riket. Den ger en redogörelse för Kristi apostlars verksamhet och verksamhet i Jerusalem och andra regioner, efter Kristi död, uppståndelse och himmelsfärd.
 
 Apostlagärningarna och Lukasevangeliet utgör ett tvådelat verk, Lukas–Apostlagärningarna, av samma anonyma författare. Det är vanligtvis daterat till omkring 80–90 e.Kr., även om vissa forskare föreslår 90–110. Den första delen, Lukasevangeliet, berättar hur Gud uppfyllde sin plan för världens frälsning genom livet, döden och uppståndelsen av Jesus från Nasaret, den utlovade messias. Apostlagärningarna fortsätter berättelsen om kristendomen under det första århundradet, med början med Jesu uppstigning till himlen. De tidiga kapitlen, som utspelar sig i Jerusalem, beskriver pingstdagen (den Helige Andes ankomst) och tillväxten av kyrkan i Jerusalem. Till en början är judarna mottagliga för det kristna budskapet, men senare vänder de sig mot Jesu efterföljare. Budskapet förkastas av judarna och förs till hedningarna under ledning av aposteln Paulus. De senare kapitlen berättar om Paulus omvändelse, hans uppdrag i Mindre Asien och Egeiska havet, och slutligen hans fängelse i Rom, där han, när boken slutar, väntar på rättegång.

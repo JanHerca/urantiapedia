@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Moseboken</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Andra Moseboken (från antikens grekiska: Ἔξοδος, romaniserad: Éxodos; hebreiska: שְׁמוֹת Šəmōṯ, "Namn") är Bibelns andra bok. Den berättar historien om uttåget, där israeliterna lämnar slaveriet i det bibliska Egypten tack vare Yahwehs styrka, som har valt dem till sitt folk. Israeliterna reser sedan med profeten Mose till berget Sinai, där Yahweh ger de 10 buden och de ingår ett förbund med Yahweh, som lovar att göra dem till ett "heligt folk och ett rike av präster" på villkor av deras trofasthet. Han ger dem deras lagar och instruktioner för att bygga tabernaklet, med hjälp av vilket han kommer att komma från himlen och bo hos dem och leda dem i ett heligt krig för att ta Kanaans land ("det utlovade landet"), som tidigare hade, enligt berättelsen om Genesis, utlovats till Abrahams säd.
 
 Traditionellt tillskriven Moses själv, ser moderna forskare dess ursprungliga sammansättning som en produkt av den babyloniska exilen (500-talet f.Kr.), baserad på tidigare skriftliga källor och muntliga traditioner, med slutliga revideringar under den persiska perioden efter exilen (5:e århundradet f.Kr.). Carol Meyers, i sin kommentar om Exodus, antyder att den utan tvekan är den viktigaste boken i Bibeln, eftersom den presenterar de avgörande dragen i Israels identitet – minnen av ett förflutet präglat av svårigheter och flykt, ett bindande förbund med Gud, som väljer Israel, och upprättandet av samhällets liv och riktlinjerna för att upprätthålla det. Konsensus bland moderna forskare är att berättelsen i Andra Moseboken bäst förstås som en myt.

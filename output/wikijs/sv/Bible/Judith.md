@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Judit</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Judiths bok är en deuterokanonisk bok, inkluderad i Septuaginta och det katolska och östortodoxa kristna Gamla testamentet i Bibeln, men utesluten från den hebreiska kanonen och av protestanter tilldelad apokryferna. Den berättar om en judisk änka, Judith, som använder sin skönhet och charm för att förgöra en assyrisk general och rädda Israel från förtryck. De bevarade grekiska manuskripten innehåller flera historiska anakronismer, vilket är anledningen till att vissa protestantiska forskare nu betraktar boken som icke-historisk: en liknelse, en teologisk roman eller kanske den första historiska romanen. Namnet Judith (hebreiska: יְהוּדִית, modernt: Yehudit, tiberiskt: Yəhûḏîṯ, "berömd" eller "judinna") är den feminina formen av Juda.
 
 ## Index

@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Jesaja</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Jesajas bok (hebreiska: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) är den första av de senare profeterna i den hebreiska bibeln och den första av de stora profeterna i det kristna Gamla testamentet. Det identifieras av en uppskrift som orden från profeten Jesaja ben Amoz från 800-talet fvt, men det finns omfattande bevis för att mycket av det komponerades under den babyloniska fångenskapen och senare. Johann Christoph Döderlein föreslog 1775 att boken innehöll verk av två profeter som var åtskilda av mer än ett sekel, och Bernhard Duhm skapade uppfattningen, som hölls som konsensus under större delen av 1900-talet, att boken består av tre separata samlingar av orakel: Proto-Jesaja (kapitel 1–39), som innehåller orden från profeten Jesaja från 800-talet fvt; Deutero-Jesaja (kapitel 40–55), verk av en anonym författare från 600-talet f.Kr. som skrev under exilen; och Trito-Jesaja (kapitel 56–66), komponerad efter återkomsten från exil. Jesaja 1–33 lovar dom och återställelse för Juda, Jerusalem och nationerna, och kapitel 34–66 förutsätter att dom har avkunnats och att återupprättelse snart följer. Medan praktiskt taget inga forskare idag tillskriver hela boken, eller ens det mesta, till en person, har bokens väsentliga enhet blivit ett fokus i nyare forskning.
 
 Boken kan läsas som en utökad meditation över Jerusalems öde in i och efter exilen. Den Deutero-Isaian delen av boken beskriver hur Gud kommer att göra Jerusalem till centrum för sitt världsomspännande styre genom en kunglig frälsare (en messias) som kommer att förgöra förtryckaren (Babylon); denna messias är den persiske kungen Cyrus den store, som bara är den agent som åstadkommer Yahwehs kungadöme. Jesaja talar emot korrupta ledare och för de missgynnade, och rotar rättfärdigheten i Guds helighet snarare än i Israels förbund.

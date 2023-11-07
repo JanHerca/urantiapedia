@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">3 Moseboken</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Tredje Moseboken (/lɪˈvɪtɪkəs/, från antikens grekiska: Λευιτικόν, Leuïtikón; hebreiska: וַיִּקְרָא, Vayyīqrāʾ, “Och han kallade”) är den tredje boken i Toran, och även känd som Pennatavlan i Toran, och även känd som Penningboken. Tredje Moseboken. Forskare är generellt överens om att den utvecklades under en lång tidsperiod och nådde sin nuvarande form under den persiska perioden, från 538–332 f.Kr.
 
 De flesta av dess kapitel (1–7, 11–27) består av Yahwehs tal till Mose, som Yahweh säger åt Mose att upprepa för israeliterna. Detta äger rum i berättelsen om israeliternas uttåg efter att de flydde Egypten och nådde berget Sinai ([2 Mos 19:1](/sv/Bible/Exodus/19#v1)). Andra Moseboken berättar hur Mose ledde israeliterna i att bygga tabernaklet (2 Mos 35–40) med Guds instruktioner ([2 Mosebok 25–31](/sv/Bible/Exodus/25)). I Tredje Moseboken säger Gud till israeliterna och deras präster, leviterna, hur de ska offra i tabernaklet och hur de ska uppföra sig när de slår läger runt den heliga tälthelgedomen. Tredje Mosebok äger rum under månaden eller och en halv månad mellan slutförandet av Tabernaklet ([2 Mosebok 40:17](/sv/Bible/Exodus/40#v17)) och israeliternas avresa från Sinai (4 Mosebok [1:1](/sv/Bible/Numbers/1#v1), [10:11](/sv/Bible/Numbers/10#v11)).

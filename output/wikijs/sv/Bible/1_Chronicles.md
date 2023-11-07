@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">1 Krönikeboken</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Krönikeboken (hebreiska: דִּבְרֵי־הַיָּמִים Dīvrē-hayYāmīm) är en bok i den hebreiska bibeln, som finns som två böcker (1–2 Krönikor) i det kristna Gamla testamentet. Krönikeboken är den sista boken i den hebreiska bibeln, som avslutar den tredje delen av den judiska tanakhen, Ketuvim (”Skrifter”). Den innehåller en släktforskning som börjar med Adam och en historia om det forntida Juda och Israel fram till Kyrosediktet 539 f.Kr.
 
 Boken delades upp i två böcker i Septuaginta och översattes i mitten av 300-talet f.Kr. I kristna sammanhang benämns Chronicles i plural som Krönikeböckerna, efter det latinska namnet chronicon som ges till texten av Hieronymus, men omnämns också sällan med sitt grekiska namn som böckerna om Paralipomenon. I kristna biblar följer de vanligtvis de två kungaböckerna och föregår Ezra–Nehemja, den sista historieorienterade boken i det protestantiska Gamla testamentet. 

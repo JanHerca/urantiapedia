@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Markus</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Markusevangeliet är det andra av de fyra kanoniska evangelierna och av de tre synoptiska evangelierna. Den berättar om Jesu tjänst från hans dop av Johannes Döparen till hans död, begravning och upptäckten av hans tomma grav. Det finns ingen mirakulös födelse eller lära om gudomlig preexistens, och inte heller, i det ursprungliga slutet (Mark 16:1–8), några framträdanden av Jesus efter uppståndelsen. Den framställer Jesus som en lärare, en exorcist, en helare och en mirakelgörare. Han hänvisar till sig själv som Människosonen. Han kallas Guds Son, men håller sin messianska natur hemlig; inte ens hans lärjungar förstår honom. Allt detta är i linje med kristen tolkning av profetior, som tros förutsäga Messias öde som lidande tjänare. Evangeliet slutar, i sin ursprungliga version, med upptäckten av den tomma graven,
 
 De flesta forskare daterar Mark till ca. 66–74 e.Kr., antingen kort före eller efter förstörelsen av det andra templet 70 e.Kr. De förkastar den traditionella tillskrivningen till Markus evangelisten, aposteln Petrus följeslagare, som troligen uppstod från de tidiga kristnas önskan att koppla verket till en auktoritativ figur, och tror att det är ett verk av en författare som arbetar med olika källor, bl.a. samlingar av mirakelberättelser, kontroversberättelser, liknelser och en passionsberättelse. Det placerades traditionellt på andra plats, och ibland fjärde, i den kristna kanonen, som en underlägsen förkortning av vad som ansågs vara det viktigaste evangeliet, Matteus; Kyrkan har följaktligen hämtat sin syn på Jesus i första hand från Matteus, i andra hand från Johannes och endast långt från Markus.

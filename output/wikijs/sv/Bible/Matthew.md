@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#e06464;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">BIBELN</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Swedish Bible, 1917</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Matteus</text>
+	</g>
+</svg>
+</div>
+
+## Beskrivning
+
+
 Matteusevangeliet är den första boken i Bibelns Nya testamente och ett av de tre synoptiska evangelierna. Den berättar hur Israels Messias, Jesus, kommer till sitt folk och bildar en gemenskap av lärjungar, om hur han undervisade folket genom sådana händelser som bergspredikan och dess saligprisningar, och hur Israel splittras och hur Jesus fördömer detta fientliga Israel. . Detta kulminerar i hans avgång från templet och hans avrättning. Vid denna tidpunkt förkastar många människor Jesus, och vid hans uppståndelse skickar han lärjungarna till hedningarna.
 
 Matteus tycks betona att den judiska traditionen inte bör gå förlorad i en kyrka som blev alltmer hednisk. Evangeliet speglar striderna och konflikterna mellan evangelistsamfundet och de andra judarna, särskilt med dess skarpa kritik av de skriftlärda och fariséerna med ståndpunkten att genom deras förkastande av Kristus har Guds rike tagits ifrån dem och istället givits till dem. Kyrkan. Jesu gudomliga natur var en viktig fråga för det Matthaean samhället, det avgörande elementet som skilde de tidiga kristna från deras judiska grannar; medan Markus börjar med Jesu dop och frestelser, går Matteus tillbaka till Jesu ursprung och visar honom som Guds Son från hans födelse, uppfyllelsen av messianska profetior i Gamla testamentet. Titeln Davids son identifierar Jesus som Israels helande och mirakelverkande Messias (den används uteslutande i samband med mirakel), sänd till Israel ensam. Som Människoson kommer han att återvända för att döma världen, en förväntan som hans lärjungar känner igen men som hans fiender inte är medvetna om. Som Guds Son uppenbarar Gud sig själv genom sin son, och Jesus bevisar sin sonskap genom sin lydnad och sitt exempel.
