@@ -3,8 +3,8 @@
 const LaTeXSeparator = require('./enums').LaTeXSeparator;
 const BibleAbbs = require('./abb');
 const {extractStr, reflectPromise, extendArray, readFrom, getWikijsHeader, 
-	getWikijsLinks, getWikijsBookRefLink, getError, writeFile,
-	writeHTMLToWikijs} = require('./utils');
+	getWikijsLinks, getWikijsNavLinks, getWikijsBookRefLink, getError, 
+	writeFile, writeHTMLToWikijs} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -235,21 +235,23 @@ class Bible {
 				.find(c=>c.title === (chIndex - 1).toString());
 			const nextChapter = book.chapters
 				.find(c=>c.title === (chIndex + 1).toString());
-			const prevLink = (prevChapter ? 
-				`<a href="${book.path}/${chIndex - 1}">` +
-				`${book.title} - ${chapterText} ${chIndex - 1}</a>` : ' ');
-			const nextLink = (nextChapter ? 
-				`<a href="${book.path}/${chIndex + 1}">` +
-				`${book.title} - ${chapterText} ${chIndex + 1}</a>` : ' ');
-			const indexLink = 
-				`<a href="${book.path}/${Strings['bookIndexName'].en}">` +
-				`${Strings['bookIndexName'][this.language]}</a>`;
 			const title = `${book.title} - ${chapterText} ${chapter.title}`;
+			const bookPath = book.path.startsWith('/' + this.language) ?
+				book.path : '/' + this.language + book.path;
 
 			header += getWikijsHeader(title, 
 				['bible', 'bible—' + book.titleEN.toLowerCase()]);
 			header += '\r\n';
-			body += getWikijsLinks(prevLink, indexLink, nextLink);
+			const navigation = getWikijsNavLinks({
+				prevTitle: prevChapter ? 
+					`${book.title} - ${chapterText} ${chIndex - 1}` : null, 
+				prevPath: prevChapter ? `${book.path}/${chIndex - 1}` : null, 
+				nextTitle: nextChapter ?
+					`${book.title} - ${chapterText} ${chIndex + 1}` : null, 
+				nextPath: nextChapter ? `${book.path}/${chIndex + 1}` : null, 
+				indexPath: `${bookPath}/${Strings['bookIndexName'].en}`
+			});
+			body += navigation;
 			// body += `<h1>${title}</h1>\r\n`;
 			
 			const writePar = (par) => {
@@ -295,7 +297,7 @@ class Bible {
 
 			//Footer
 			body += '<br/>\r\n';
-			body += getWikijsLinks(prevLink, indexLink, nextLink);
+			body += navigation;
 
 			//References section
 			if (wfootnotes.length > 0) {

@@ -637,29 +637,38 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 };
 
 /**
- * Returns the links to show on top and bottom of an article of a issue.
- * @param {?Object} prevArticle Previous article.
- * @param {Object} issue Issue.
- * @param {?Object} nextArticle Next article.
+ * Returns the links to show on top and bottom of a book chapter.
+ * @param {Object} options Options.
+ * @param {?string} options.prevTitle Previous title.
+ * @param {?string} options.prevPath Previous path.
+ * @param {?string} options.nextTitle Next title.
+ * @param {?string} options.nextPath Next path.
+ * @param {?string} options.indexTitle Index title.
+ * @param {string} options.indexPath Index path.
  * @return {string}
  */
-exports.getWikijsArticleLinks = (prevArticle, issue, nextArticle) => {
-	const lan = issue.path.split('/')[1];
-	const indexName = issue.title + ' — ' + Strings.bookIndexName[lan];
-	const prevLink = (prevArticle ?
-		`        <a href="${prevArticle.path}">\r\n` +
-		`          <span class="mdi mdi-arrow-left-drop-circle"></span>` +
-			`<span class="pl-2">${prevArticle.title}</span>\r\n` +
+exports.getWikijsNavLinks = (options) => {
+	const { prevTitle, prevPath, nextTitle, nextPath, 
+		indexTitle, indexPath} = options;
+	const lan = indexPath.split('/')[1];
+	const indexName = (indexTitle ? indexTitle + ' — ' : '') + 
+		Strings.bookIndexName[lan];
+	const pl2 = ' class="pl-2"';
+	const pr2 = ' class="pr-2"'
+	const spanPrev = '<span class="mdi mdi-arrow-left-drop-circle"></span>';
+	const spanNext = '<span class="mdi mdi-arrow-right-drop-circle"></span>';
+	const spanIndex = '<span class="mdi mdi-book-open-variant"></span>';
+	const prevLink = (prevTitle && prevPath ?
+		`        <a href="${prevPath}">\r\n` +
+		`          ${spanPrev}<span${pl2}>${prevTitle}</span>\r\n` +
 		`        </a>\r\n` : '');
 	const indexLink = 
-		`        <a href="${issue.path}">\r\n` +
-		`          <span class="mdi mdi-book-open-variant"></span>` +
-			`<span class="pl-2">${indexName}</span>\r\n` +
+		`        <a href="${indexPath}">\r\n` +
+		`          ${spanIndex}<span${pl2}>${indexName}</span>\r\n` +
 		`        </a>\r\n`;
-	const nextLink = (nextArticle ?
-		`        <a href="${nextArticle.path}">\r\n` +
-		`          <span class="pr-2">${nextArticle.title}</span>` +
-			`<span class="mdi mdi-arrow-right-drop-circle"></span>\r\n` +
+	const nextLink = (nextTitle && nextPath ?
+		`        <a href="${nextPath}">\r\n` +
+		`          <span${pr2}>${nextTitle}</span>${spanNext}\r\n` +
 		`        </a>\r\n` : '');
 	return exports.getWikijsLinks(prevLink, indexLink, nextLink);
 };

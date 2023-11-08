@@ -8,7 +8,7 @@ const markdownIt = require('markdown-it')({
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
 	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags, strformat,
-	fixWikijsHeader, getWikijsArticleLinks, getFiles, getFolders, autoCorrect
+	fixWikijsHeader, getWikijsNavLinks, getFiles, getFolders, autoCorrect
 } = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -1069,8 +1069,14 @@ class Articles {
 							const prev = (i === 0 ? null : issue.articles[i-1]);
 							const next = (i === issue.articles.length - 1 ?
 								null : issue.articles[i+1]);
-							const header = getWikijsArticleLinks(prev, issue, 
-								next);
+							const header = getWikijsNavLinks({
+								prevTitle: prev ? prev.title : undefined, 
+								prevPath: prev ? prev.path : undefined, 
+								nextTitle: next ? next.title : undefined, 
+								nextPath: next ? next.path : undefined, 
+								indexTitle: issue.title, 
+								indexPath: issue.path
+							});
 							const hasNotes = (lines.findIndex(line => {
 								return line.startsWith('[^1]:');
 							}) != -1);
