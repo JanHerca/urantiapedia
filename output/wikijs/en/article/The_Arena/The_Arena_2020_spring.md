@@ -11,6 +11,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
 
 <figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/The_Arena/ANZURA-email-header.jpg" alt="ANZURA">
+</figure>
+
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Arena/WORLD-SERVICE-by-Kim-S.-MacKenzie-570x422.jpg" alt="World service">
 </figure>
 
@@ -37,7 +41,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 Julian McGarry, TAS
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julian-3-150x150.jpg" alt="Julian McGarry">
 </figure>
 
@@ -56,7 +60,7 @@ Anzura Admin
 
 **10 October 2020**
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Arena/Grand-Universe-cropped-570x168.jpg" alt="Grand Universe">
 </figure>
 
@@ -94,7 +98,7 @@ Marion Steward, New Zealand
 
 _(Editor’s note: this was presented by Marion at the 1997 Conference in Sydney)_
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Marion-07-150x150.jpg" alt="Marion Steward">
 </figure>
 
@@ -113,7 +117,7 @@ Nigel Nunn, Canberra
 
 _(**Editor’s note**: This was written by Nigel Nunn when he was editor of the_ Arena_, September 1995)_
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Nigel-16-239x300.jpg" alt="Nigel Nunn">
 </figure>
 
@@ -128,7 +132,7 @@ Consider how much effort goes into preparing a human so that they can first _wan
 
 Cecilia Ann Bendall, TAS
 
-<figure id="Figure_6" class="image urantiapedia">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Arena/Jerusalem-Temple-5-cropped-570x244.jpg" alt="Jerusalem Temple">
 </figure>
 
@@ -145,7 +149,7 @@ Not stopping for long, as they wanted to get to Jerusalem before nightfall, they
 
 George Park, USA
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/DIVINE-SPARK-By-Kim-S.-MacKenzie-223x300.jpg" alt="Divine Spark">
 </figure>
 
@@ -164,7 +168,7 @@ Anne Bendall, QLD
 
 _(**Editor’s Note:** Mining the Archives is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Six-O-Six Newsletter July/August 1990**)_
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Cecilia-Tas-16-289x300.jpg" alt="Anne Bendall">
 </figure>
 
@@ -183,7 +187,7 @@ Neil Francey, QLD
 
 **The Big Picture**
 
-<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Neil-Francey-18-243x300.jpg" alt="Neil Francey">
 </figure>
 
@@ -201,7 +205,7 @@ The specific religious, political, and social pursuits of the individuals of a b
 
 ## Farewell Martin McBurney
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Martin-McBurney-1988-300x282.jpg" alt="Martin McBurney">
 </figure>
 
@@ -213,7 +217,7 @@ _Trevor and I have fond memories of our times spent with Martin as we shared man
 
 _My sympathies to Martin’s loved ones. I haven’t seen him for a while, but have sweet memories of Martin from way back, 30 years ago. Discussions about the meatier things in life were always respectful and it was never boring to listen to his take on them. That’s what I remember most, how respectful, positive and humble he was, a rare thing these days. Sleep well Martin._ (Ryta Kunciunas)
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-right">
+<figure id="Figure_12" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Arena/Martin-McBurney-1-300x200.jpg" alt="Martin McBurney">
 </figure>
 
@@ -226,7 +230,7 @@ _There is a song called “What Are You Doing the Rest of Your Life.” Well, ev
 
 Patrick McNelly, USA
 
-<figure id="Figure_12" class="image urantiapedia">
+<figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/The_Arena/Comet-and-City-cropped-570x191.jpg" alt="Comet and City">
 </figure>
 
@@ -235,6 +239,11 @@ Wise men traveled from afar
 Seeking light in his reflection
 Bearing gifts beneath that star
 
+August winds draped wisdom’s story
+Capturing stardust drifts below
+Tracing ancient myths in glory
+Glistening in the noonday glow
+
 [Read more](/en/article/Patrick_McNelly/August_21_a_Poem)
 
 
@@ -242,9 +251,24 @@ Bearing gifts beneath that star
 
 Barry Culligan, Ireland
 
-<figure id="Figure_12" class="image urantiapedia">
+<figure id="Figure_14" class="image urantiapedia">
 <img src="/image/article/The_Arena/Stillness-Image-570x186.jpg" alt="Stillness">
 </figure>
+
+<p style="text-align: center;">
+Amid the chaotic cacophony of the flesh<br>
+sits the Silent One,<br>
+the Cool Observer,<br>
+the Man with the Plan.<br>
+Everyone and everything else screams for attention;<br>
+the oceans of emotion<br>
+are tossed and tumultuous,<br>
+but the One<br>
+sits,..... still,<br>
+like a lake on a foggy morning<br>
+soundlessly whispering deep within<br>
+the inner recesses of my soul.<br>
+</p>
 
 [Read more](/en/article/Barry_Culligan/The_Stillness_a_Poem)
  
@@ -252,7 +276,7 @@ Barry Culligan, Ireland
 
 Anzura Admin
 
-<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
@@ -267,7 +291,7 @@ It is our intention not to encumber our work for the spreading of _The Urantia B
 
 Anzura Admin
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<figure id="Figure_16" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Arena-Image-300x258.jpg" alt="Arena newsletter">
 </figure>
 
@@ -286,7 +310,7 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
 
 Anzura Admin
 
-<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<figure id="Figure_17" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
@@ -308,7 +332,7 @@ We hold a small inventory of Urantia Books and other associated material such as
 
 Anzura Admin
 
-<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<figure id="Figure_18" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Sydney-study-group-300x225.jpg" alt="Study Group Contacts">
 </figure>
 
