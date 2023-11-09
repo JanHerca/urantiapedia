@@ -71,6 +71,8 @@
     - `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` => 
     - `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or 
     - `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
+    - `\\\[Paper (\d+):(\d+)\.(\d+)(.+)\\\]`
+    - `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
 * Bible references to links: `Gn (\d{1,2}):(\d{1,2})` => `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
 * Bible references that are not already converted to links (better option)
     - `(?<!\[)I Cor. (\d{1,2}):(\d{1,2})` => `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
