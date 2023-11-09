@@ -14,9 +14,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Appendix 1. Urantia Book-based Taxonomy</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</a></td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix 1. Urantia Book-based Taxonomy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">
+          <span class="pr-2">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -232,9 +244,21 @@ What are the genetic factors related to both temperament and intelligence?
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">Appendix 1. Urantia Book-based Taxonomy</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</a></td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix 1. Urantia Book-based Taxonomy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_3">
+          <span class="pr-2">Appendix 3. How Are Superior(ity) and Inferior(ity) Used?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

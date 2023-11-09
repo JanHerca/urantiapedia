@@ -12,9 +12,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue">Epilogue. Panentheism, Transcendental Relativity, and the Trinity</a></td>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
-        <td></td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Epilogue. Panentheism, Transcendental Relativity, and the Trinity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -22,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Charles Hartshorne**
 
-The autHor wishes to thank the following publishers permission to quote from works published by them: 
+The author wishes to thank the following publishers permission to quote from works published by them: 
 * Harper & Brothers — from Booth Tarkington, _Seventeen_. 
 * Harvard University Press —from _The Collected Papers of Charles Sanders Peirce_, edited by Charles Hartshorne and Pa Weiss. 
 * Longmans, Green & Company — from William James, _Collected Essays and Reviews_; and from Rickaby, _General Metaphysics_. 
@@ -38,9 +47,18 @@ The autHor wishes to thank the following publishers permission to quote from wor
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue">Epilogue. Panentheism, Transcendental Relativity, and the Trinity</a></td>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
-        <td></td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Epilogue. Panentheism, Transcendental Relativity, and the Trinity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
       </tr>
     </tbody>
   </table>

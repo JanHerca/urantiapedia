@@ -12,9 +12,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God#index">Index</a></td>
-        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/1">Chapter I — Religion And Theology</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/1">
+          <span class="pr-2">Chapter I — Religion And Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -36,9 +45,18 @@ My friends and colleagues, Dr. Edgar S. Brightman and Dr. Earl Marlatt, who kind
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God#index">Index</a></td>
-        <td><a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/1">Chapter I — Religion And Theology</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God/1">
+          <span class="pr-2">Chapter I — Religion And Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

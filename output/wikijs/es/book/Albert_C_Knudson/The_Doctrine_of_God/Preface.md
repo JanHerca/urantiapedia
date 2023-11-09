@@ -12,9 +12,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God/Index">Índice</a></td>
-        <td><a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God/1">Capítulo I — Religión y Teología</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God/1">
+          <span class="pr-2">Capítulo I — Religión y Teología</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -36,9 +45,18 @@ Mis amigos y colegas, el Dr. Edgar S. Brightman y el Dr. Earl Marlatt, quienes a
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God/Index">Índice</a></td>
-        <td><a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God/1">Capítulo I — Religión y Teología</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Albert_C_Knudson/The_Doctrine_of_God/1">
+          <span class="pr-2">Capítulo I — Religión y Teología</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

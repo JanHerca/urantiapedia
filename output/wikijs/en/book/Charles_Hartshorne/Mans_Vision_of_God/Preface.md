@@ -12,9 +12,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/1">I. The Formally Possible Doctrines</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/1">
+          <span class="pr-2">I. The Formally Possible Doctrines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -74,9 +83,18 @@ C. H.
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Index</a></td>
-        <td><a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/1">I. The Formally Possible Doctrines</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God/1">
+          <span class="pr-2">I. The Formally Possible Doctrines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

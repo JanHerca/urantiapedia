@@ -1,0 +1,329 @@
+---
+title: "La Doctrina de Dios"
+description: 
+published: true
+date: 2021-11-28T14:02:03.086Z
+tags: Theology
+editor: markdown
+dateCreated: 2021-11-28T14:02:03.086Z
+---
+
+<div class="urantiapedia-book-front">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)" style="display:inline">
+		<rect style="fill:#301602;"
+			width="9.6" height="136.8" x="7" y="5" />
+		<rect style="display:inline;fill:#F9F1D2;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#301602;stroke-width:0.2" x="61" y="22">Albert C. Knudson</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#301602;stroke-width:0.2" x="61" y="125">The Abingdon Press</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#301602;stroke-width:0.2" x="61" y="130">New York, Cincinnati, Chicago, 1930</text>
+		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#301602;stroke-width:0.2" x="61" y="60">La Doctrina de Dios</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align: center;">
+THE ABINGDON PRESS<br>
+NUEVA YORK — CINCINNATI — CHICAGO<br>
+1930 <br>
+</p>
+
+<p style="text-align: center;">
+DEDICADO<br>
+A<br>
+LA SEÑORA GEORGE LOUIS RICHARDS<br>
+Y PARA<br>
+LA MEMORIA DE SU PADRE<br>
+El SR. ROSWELL RAYMOND ROBINSON<br>
+AMBOS BENEFACTORES GENEROSOS<br>
+DE<br>
+LA ESCUELA DE TEOLOGÍA DE LA UNIVERSIDAD DE BOSTON<br>
+</p>
+
+## ÍNDICE
+
+* [PORTADA](/es/book/Albert_C_Knudson/The_Doctrine_of_God)
+* [PREFACE](/es/book/Albert_C_Knudson/The_Doctrine_of_God/Preface)
+* PARTE I. INTRODUCCIÓN: LA PROVINCIA DE TEOLOGÍA
+    * [CAPÍTULO I — RELIGIÓN Y TEOLOGÍA](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1)
+        - Definición de teología, [pág. 19](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p19).
+        - ILUSIONISMO, [pág. 20](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p20)
+            - Lucrecio, [pág. 21](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p21)
+            - Feuerbach, [pág. 22](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p22)
+            - Freud, [pág. 23](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p23)
+            - La religión como dispositivo de Estado y sacerdocio, [pág. 25](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p25)
+            - Karl Marx y Otto Gruppe, [pág. 26](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p26)
+            - Animismo, [pág. 28](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p28)
+            - Animatismo, [pág. 29](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p29) Mana-ismo, [p. 30](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p30)
+            - Comte y Frazer, [pág. 31](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p31)
+            - Emile Durkheim, [pág. 32](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p32)
+            - FA Lange y Paul Natorp, [pág. 33](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p33)
+            - Humanismo, [pág. 34](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p34)
+            - Crítica a las teorías ilusionistas, [pág. 35](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p35).
+        - MAGIA Y MITOLOGÍA, [pág. 38](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p38)
+            - Differentia de la religión en comparación con la magia, [pág. 39](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p39)
+            - Relación, de la religión, a la mitología, [pág. 41](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p41)
+            - La religión como fusión de la mitología con la moral, [p. 42](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p42)
+            - Dos defectos fundamentales del ilusionismo, [pág. 43](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p43).
+        - NATURALEZA DE LA RELIGIÓN, [pág. 45](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p45)
+            - Elementos esenciales en la religión, [pág. 45](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p45)
+            - Budismo, [pág. 49](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p49)
+            - Religión y doctrina, [pág. 50](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p50)
+            - Origen de la creencia en Dios según Soderblom, [pág. 52](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p52).
+        - TIPOS DE PIEDAD MÍSTICA Y PROFÉTICA, [p. 54](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p54)
+            - Ventajas del punto de vista profético o personalista, [p. 56](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p56)
+            - Intento de síntesis de misticismo y naturalismo filosófico, [pág. 58](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p58)
+            - Relación del misticismo y el profetismo con la teología, [pág. 61](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p61)
+            - Verdadera función, de la teología, [p. 64](/es/book/Albert_C_Knudson/The_Doctrine_of_God/1#p64).
+    * [CAPÍTULO II — LA FE Y LA TEOLOGÍA CRISTIANA](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2)
+        - Tres cuestiones fundamentales relativas al cristianismo, [p. 66](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p66).
+        - FE Y RAZÓN, [pág. 67](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p67)
+            - Historia y crítica de la visión dualista, [p. 67](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p67)
+            - Concepción agustiniana de la fe y la razón, [p. 72](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p72)
+            - Concepción tomista, [pág. 73](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p73)
+            - Hegeliana, teoría, [pág. 77](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p77)
+            - Aportes del pensamiento moderno a la solución del problema de la fe y la razón, [p. 80](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p80)
+            - Tres visiones diferentes de la razón, [pág. 83](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p83)
+            - Relación de la teología «revelada» con la teología «natural», [p. 85](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85).
+        - FE Y MISTICISMO, [pág. 85](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85)
+            - Significado de «superracional», [pág. 85](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85)
+            - Teología «mística», [p. 88](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p88)
+            - Actitud ritschliana hacia el misticismo, [p. 89](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p89)
+            - Crítica a la visión ritschliana, [pág. 90](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p90)
+            - Emil Brunner y Karl Earth, [pág. 94](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p94)
+            - Crítica a la posición barthiana, [pág. 97](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p97)
+            - Tipos de misticismo más leves y más extremos, [pág. 98](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p98)
+            - La mística como complemento y validación de la fe, [p. 100](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p100)
+            - Concepción barthiana de la fe, [pág. 103](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p103)
+            - Richard Jefferies y su importancia para nuestra concepción de la relación entre la fe y el misticismo, [pág. 104](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p104).
+        - LA ABSOLUTIDAD DEL CRISTIANISMO, [p. 106](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p106)
+            - Punto de vista cristiano primitivo, [pág. 107](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p107)
+            - Teoría sobrenaturalista, [pág. 110](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p110)
+            - Teoría hegeliana, [pág. 111](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p111)
+            - La teoría de Schleiermacher, [pág. 113](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p113)
+            - «Insuperable» del cristianismo, [pág. 114](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p114)
+            - La opinión de Troeltsch, [pág. 115](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p115)
+            - Budismo y cristianismo, [pág. 118](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p118)
+            - La esencia del cristianismo tal como la definen Schleiermacher, Ritschl y Troeltsch, [pág. 120](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p120)
+            - Norma de teología, [pág. 124](/es/book/Albert_C_Knudson/The_Doctrine_of_God/2#p124).
+    * [CAPÍTULO III — CIENCIA Y TEOLOGÍA](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3)
+        - Prestigio de la ciencia empírica, [pág. 125](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p125)
+        - Conflicto entre ciencia y religión, [pág. 126](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p126)
+        - Dos visiones diferentes de la ciencia, [p. 128](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p128).
+        - LA TEOLOGÍA COMO CIENCIA EMPÍRICA, [p. 130](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p130)
+            - Diferencia entre experiencia sensorial y experiencia religiosa, [pág. 132](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p132)
+            - Diferencia entre teología y psicología de la religión, [pág. 134](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p134).
+        - OPINIONES DE RITSCHL Y BOWNE, [pág. 135](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p135)
+            - Distinción entre ciencias naturales y normativas, [p. 136](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p136)
+            - Teoría de los juicios de valor, [pág. 136](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p136)
+            - Distinción entre realidad fenoménica y metafísica, [pág. 138](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p138).
+        - FUENTES DE CONFLICTO ENTRE CIENCIA Y TEOLOGÍA, [p. 139](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p139)
+            - Crítica bíblica, [pág. 140](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p140)
+            - Milagro, [pág. 140](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p140)
+            - El Jesús de la historia y el Cristo de la fe, [p. 142](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p142)
+            - Astronomía copernicana y teoría darwiniana de la evolución, [pág. 143](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p143)
+            - Armonía de la ciencia y la teología, [pág. 144](/es/book/Albert_C_Knudson/The_Doctrine_of_God/3#p144).
+    * [CAPITULO IV — FILOSOFIA Y TEOLOGIA](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4)
+        - Estado actual de la filosofía, [pág. 146](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p146).
+        - FILOSOFIA POSITIVISTICA, [pág. 147](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p147)
+            - Relación del positivismo con la ciencia pura, [pág. 148](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p148)
+            - Positivismo y teología, [pág. 150](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p150).
+        - FILOSOFÍA METAFÍSICA CON FUNDAMENTO MORAL, [p. 153](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p153)
+            - Kant y la filosofía del valor, [pág. 153](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p153)
+            - Kant y el protestantismo, [pág. 155](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p155)
+            - Teorías postulatorias y místicas del conocimiento religioso, [p. 156](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p156)
+            - Ritschlianismo, [pág. 157](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p157)
+            - Crítica de la metafísica moralmente fundamentada, [pág. 158](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p158).
+        - FILOSOFÍA METAFÍSICA FUNDAMENTADA INTELECTUALMENTE, [p. 161](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p161)
+            - Significado y crítica del «intelectualismo», [p. 162](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p162)
+            - Valor del teísmo especulativo, [pág. 165](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p165)
+            - Realidad del yo, [pág. 167](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p167)
+            - Significado religioso del problema de la causalidad, [pág. 169](/es/book/Albert_C_Knudson/The_Doctrine_of_God/4#p169).
+    * [CAPÍTULO V — FUENTES Y MÉTODO](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5)
+        - Resumen del argumento hasta el presente, [p. 171](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p171)
+        - Relación de la teología con la filosofía de la religión, [pág. 172](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p172).
+        - FUENTES, [pág. 174](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p174)
+            - La Biblia y otras fuentes de la teología cristiana, [pág. 174](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p174)
+            - Intento de excluir el Antiguo Testamento del canon, [p. 176](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p176)
+            - Relación del Antiguo Testamento con el Nuevo, [pág. 178](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p178)
+            - Intento de limitar la autoridad de la Escritura al Jesús sinóptico, [p. 179](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p179)
+            - La iglesia como fuente de teología, [p. 182](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p182)
+            - Motivo, [pág. 184](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p184)
+            - Experiencia religiosa, [pág. 185](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p185).
+        - MÉTODO, [pág. 187](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p187)
+            - Método dogmático, [pág. 188](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p188)
+            - Método crítico, [pág. 189](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p189)
+            - Método teocéntrico, [pág. 190](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p190)
+            - Método especulativo, [pág. 192](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p192)
+            - Método empírico, [pág. 192](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p192)
+            - Carácter compuesto de la teología, [p. 195](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p195)
+            - La triple tarea de la teología, [p. 196](/es/book/Albert_C_Knudson/The_Doctrine_of_God/5#p196).
+* PARTE II. LA DOCTRINA DE DIOS
+    * [CAPÍTULO VI — LA EXISTENCIA DE DIOS](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6)
+        - Relación de la creencia en Dios con la religión, [pág. 203](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p203)
+        - Naturaleza de los atributos divinos, [pág. 206](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p206)
+        - Clasificación de los atributos, [pág. 207](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p207)
+        - Significado de «existencia» o «realidad», [p. 209](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p209)
+        - Intentos recientes de interpretar a Dios en términos positivistas, [p. 210](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p210)
+        - Relación del origen de la religión y su carácter antropomórfico sobre su verdad, [pág. 212](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p212)
+        - La revelación como justificación de la creencia en Dios, [p. 215](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p215)
+        - La tradición como fuente de la creencia teísta y su significado apologético, [p. 217](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p217).
+        - EL ARGUMENTO RELIGIOSO, [pág. 218](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p218)
+            - La religión como instinto y el valor apologético de esta concepción, [p. 219](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p219)
+            - Los argumentos de Schleiermacher, Troeltsch y Otto, [p. 222](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p222)
+            - Forma empirista del argumento religioso, [p. 225](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p225)
+            - Verdad esencial del argumento religioso, [pág. 227](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p227).
+        - EL ARGUMENTO MORAL, [pág. 228](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p228)
+            - La ley moral como evidencia de un Legislador moral, [p. 229](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p229)
+            - Formulación kantiana del argumento moral, [pág. 229](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p229)
+            - Interpretación más amplia del argumento moral o valorativo, [p. 232](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p232).
+        - EL ARGUMENTO TEÓRICO [pág. 234](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p234)
+            - Relación de la Escritura con las «pruebas» de la existencia de Dios, [p. 235](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p235)
+            - Formas tradicionales de la argumentación teórica, [pág. 237](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p237)
+            - Argumento epistemológico, [pág. 237](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p237)
+            - Argumento causal, [pág. 238](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p238)
+            - Valor de estos argumentos, [p. 241](/es/book/Albert_C_Knudson/The_Doctrine_of_God/6#p241).
+    * [CAPÍTULO VII — LA ABSOLUTIDAD DE DIOS](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7)
+        - Origen e historia de la búsqueda de lo absoluto, [pág. 242](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p242).
+        - EL SIGNIFICADO DE ABSOLUTENIDAD, [p. 244](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p244)
+            - Tres visiones diferentes del Absoluto, [p. 244](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p244)
+            - Relación de la idea filosófica del Absoluto con la idea religiosa de Dios, [pág. 246](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p246).
+        - ORIGEN DE LA IDEA DE ABSOLUTO, [p. 248](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p248).
+            - Relación de la metafísica y la religión entre sí, [pág. 249](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p249)
+            - Necesidad intelectual del Absoluto, [p. 249](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p249)
+            - Necesidad religiosa del Absoluto, [p. 250](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p250)
+            - La teoría de Rudolf Otto sobre el origen del sentido de lo divino, [pág. 251](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p251).
+        - LA IDEA DE UN DIOS FINITO, [pág. 254](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p254)
+            - Distinción entre un Dios finito y un Dios creciente o cambiante, [pág. 255](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p255)
+            - Finitud divina y experiencia religiosa, [p. 256](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p256)
+            - La finitud divina y el problema del sufrimiento, [p. 257](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p257)
+            - La experiencia humana y el Absoluto, [pág. 259](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p259)
+            - Obispo McConnell sobre la limitación de Dios, [p. 262](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p262)
+            - La teoría del profesor Brightman sobre la finitud divina, [pág. 263](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p263)
+            - Verdadero significado de absolutismo, [p. 263](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p263).
+        - OMNIPOTENCIA, [pág. 264](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p264)
+            - Historia y motivo de la creencia en la omnipotencia divina, [pág. 264](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p264)
+            - Significado de omnipotencia, [pág. 267](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p267)
+            - Relación de la naturaleza divina con el poder divino, [p. 269](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p269)
+            - Relación de la verdad y el derecho con la naturaleza divina, [pág. 270](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p270)
+            - Relación de la voluntad divina con la creación y con la capacidad divina, [pág. 270](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p270)
+            - Crítica a la teoría del profesor Brightman, [pág. 272](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p272).
+        - OMNIPRESENCIA, [pág. 275](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p275)
+            - Origen y desarrollo de la creencia en la omnipresencia divina, [pág. 275](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p275)
+            - Significado de omnipresencia, [pág. 276](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p276)
+        - ETERNIDAD, [pág. 278](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p278)
+            - Valor religioso de la idea de eternidad, [p. 278](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p278)
+            - Dificultades en la concepción de la eternidad como duración sin fin, [pág. 280](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p280)
+            - Concepción de la eternidad como atemporalidad, [p. 281](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p281)
+            - Relación de la conciencia divina con el tiempo, [pág. 282](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p282)
+            - Distintas formas de concebir la trascendencia-tiempo de Dios, [p. 283](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p283)
+            - Significado religioso de la absolutidad divina, [pág. 284](/es/book/Albert_C_Knudson/The_Doctrine_of_God/7#p284).
+    * [CAPÍTULO VIII — LA PERSONALIDAD DE DIOS](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8)
+        - Relación de la creencia en un Dios personal con el cristianismo y con la creencia religiosa en general, [pág. 285](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p285)
+        - Razones del lento desarrollo de un personalismo teológico profundo, [p. 286](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p286)
+        - Razones para enfatizar la personalidad de Dios desde la última parte del siglo XVIII, [p. 290](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p290).
+        - EL SIGNIFICADO DE PEBSONALIDAD, [p. 292](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p292)
+            - Relación de la corporeidad con la personalidad, [pág. 292](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p292)
+            - Distinción entre personalidad psíquica y espiritual, [pág. 293](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p293)
+            - Intentar concebir la personalidad divina sin conciencia, [pág. 295](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p295)
+            - Elementos esenciales en la personalidad, [pág. 296](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p296).
+        - LA PERSONALIDAD Y EL ABSOLUTO, [pág. 299](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p299)
+            - Idea de un Dios superpersonal y su significado, [pág. 300](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p300)
+            - Relación del Absoluto agnóstico con la personalidad, [pág. 301](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p301)
+            - El Absoluto lógico y su relación con la personalidad, [pág. 301](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p301)
+            - El Absoluto causal y su relación con la personalidad, [pág. 304](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p304).
+        - VALOR RELIGIOSO Y FILOSÓFICO, [pág. 305](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p305)
+            - Valores religiosos inherentes a la idea de la personalidad divina, [pág. 305](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p305)
+            - Valor filosófico de la doctrina de la personalidad de Dios, [pág. 308](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p308)
+            - Atributos de Dios inherentes a la idea de su personalidad, [pág. 311](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p311).
+        - UNIDAD, [pág. 311](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p311)
+            - Doble significado de la unidad divina y su significado religioso, [p. 311](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p311)
+            - Distintas formas de concebir la unidad divina, [p. 313](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p313).
+        - INMUTABILIDAD, [pág. 314](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p314)
+            - Doble sentido en el que Dios es metafísicamente inmutable, [pág. 315](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p315)
+            - Enseñanza bíblica relativa a la -divina inmutabilidad, [pág. 315](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p315)
+            - Distintas formas de concebir la inmutabilidad divina, [p. 316](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p316).
+        - OMNISCENCIA, [pág. 317](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p317)
+            - Base práctica de la creencia en la omnisciencia divina, [pág. 317](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p317)
+            - Conocimiento divino del dolor y sufrimiento físico, [pág. 318](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p318)
+            - Presciencia divina de los actos libres, [p. 319](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p319).
+        - LIBERTAD, [pág. 322](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p322)
+            - Significado de la libertad en Dios, [pág. 323](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p323)
+            - Relación de la voluntad divina con la omnisciencia divina, [pág. 323](/es/book/Albert_C_Knudson/The_Doctrine_of_God/8#p323).
+    * [CAPÍTULO IX — LA BONDAD DE DIOS](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9)
+        - Importancia religiosa de la idea de la bondad divina, [p. 325](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p325)
+        - Dos grandes pasos en la moralización del supermundo, [p. 326](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p326)
+        - ENSEÑANZA BÍBLICA, [pág. 326](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p326)
+            - Contribuciones mosaicas y proféticas a la moralización de Jehová, [pág. 327](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p327)
+            - Imperfecciones en la concepción del Antiguo Testamento del carácter moral de Jehová, [pág. 328](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p328)
+            - Elementos nuevos en la concepción de Jesús de Dios, [pág. 329](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p329)
+            - Términos éticos aplicados a la Deidad en la Escritura, [p. 334](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p334)
+            - Rectitud, justicia, verdad y santidad, [pág. 335](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p335)
+            - Amor, misericordia, gracia y fidelidad, [pág. 337](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p337).
+        - JUSTICIA Y AMOR, [p. 339](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p339)
+            - Relación de la justicia divina y el amor divino entre sí, [pág. 339](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p339)
+            - Concepciones proféticas, farisaicas y del Nuevo Testamento del carácter divino, [pág. 340](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p340)
+            - Antítesis teológica posterior entre el amor divino y la justicia divina, [p. 342](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p342)
+            - Objeciones a la fusión de la justicia divina en el amor divino, [pág. 343](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p343)
+            - La estricta justicia retributiva y su relación con la justicia divina, [p. 344](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p344)
+            - Significado y validez de la ira divina, [pág. 346](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p346)
+            - Dualismo del amor y la justicia y la forma de superarlo, [p. 348](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p348).
+        - AMOR Y PERSONALIDAD, [pág. 349](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p349)
+            - Distinción entre el amor de Dios por los hombres y el odio al pecado, [p. 349](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p349)
+            - Importancia relativa del amor divino y la personalidad divina, [pág. 350](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p350)
+            - Ventaja de poner el énfasis principal en la personalidad divina, [pág. 352](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p352)
+            - énfasis cristiano en el amor y la personalidad opuesto al intelectualismo griego, [pág. 353](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p353). BASE FILOSÓFICA, [pág. 354](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p354)
+            - Argumento analógico de la bondad de Dios, [pág. 354](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p354)
+            - Argumento empírico a favor de la bondad divina, [pág. 355](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p355)
+            - Argumento apriorístico del carácter moral de Dios, [pág. 357](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p357).
+        - BONDAD Y ABSOLUTENIDAD, [p. 360](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p360)
+            - Fuente de la creencia en un Absoluto ético, [p. 360](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p360)
+            - Origen del problema de la teodicea, [p. 362](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p362)
+            - La visión de Leibnitz, [pág. 363](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p363)
+            - Objeción a la teoría del profesor Brightman, [p. 365](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p365)
+            - Concepto de Dios como supramoral o más allá del bien y del mal, [pág. 366](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p366)
+            - Conflicto aparente entre el amor de Dios y su on-line como Ser absoluto, [p. 368](/es/book/Albert_C_Knudson/The_Doctrine_of_God/9#p368).
+    * [CAPÍTULO X — LA TRINIDAD](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10)
+        - Doctrina de la Trinidad por nueva revelación de Dios en Cristo, [p. 370](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p370).
+        - ORIGEN DE LA DOCTRINA, [pág. 370](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p370)
+            - Las tríadas étnicas y su relación con la Trinidad cristiana, [pág. 371](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p371)
+            - Teorías que buscan dar cuenta de las múltiples tríadas o trinidades que aparecen en la historia religiosa en general, [p. 372](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p372)
+            - Trinidad neoplatónica y su influencia en el pensamiento cristiano, [pág. 376](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p376)
+            - Distinción aguda trazada por Tomás de Aquino entre la doctrina de la Trinidad y la doctrina de Dios, [p. 377](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p377)
+            - Visión platónica anterior, [p. 378](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p378)
+            - Trinidad del Nuevo Testamento tal como la expone y apoya Georg Wobbermin, [pág. 380](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p380)
+            - Fuente vital de la especulación trinitaria, [p. 385](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p385).
+        - DESARROLLO DE LA DOCTRINA, [pág. 385](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p385)
+            - Dos periodos principales, [p. 386](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p386)
+            - Interés fundamental, [pág. 386](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p386)
+            - Teorías que buscan explicar la creencia en la divinidad de Jesús como un mito, [pág. 388](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p388)
+            - Impresión hecha por la personalidad de Cristo como fuente de creencia en su carácter divino, [pág. 390](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p390)
+            - Cinco factores que llevaron a la visión superior de Cristo, [pág. 390](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p390)
+            - La concepción de Pablo de un Cristo preexistente inadecuado, [p. 395](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p395)
+            - Cinco etapas en la identificación gradual del principio divino en Cristo con un modo de ser en Dios mismo, [p. 397](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p397)
+            - Equiparación de Cristo con el Logos, [p. 397](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p397)
+            - Generación eterna del Hijo, [pág. 399](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p399)
+            - El Hijo de la misma sustancia que el Padre, [p. 400](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p400)
+            - Distinción entre «hipóstasis» y «esencia», y adscripción de la divinidad al Espíritu, [p. 402](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p402)
+            - Igualación completa de las tres personas de la Trinidad y doctrina de la doble procesión, [pág. 404](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p404)
+            - Doctrina de la circuncisión, [pág. 405](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p405).
+        - FORMA TRADICIONAL DE LA DOCTRINA, [pág. 407](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p407)
+            - Adopcionismo, [pág. 407](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p407)
+            - Sabelianismo, [pág. 409](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p409)
+            - Arrianismo, [pág. 409](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p409)
+            - El Dios Trinitario un Dios vivo, [p. 410](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p410)
+            - Absolutidad moral del Dios trino, [p. 411](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p411)
+            - Autosacrificio atribuido al Dios Trinitario, [p. 413](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p413)
+            - Valor filosófico de la doctrina de la Trinidad, [pág. 414](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p414)
+            - Peligro de triteísmo, [pág. 415](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p415)
+            - No hay razón filosófica para atribuir personalidad al Espíritu, [pág. 417](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p417)
+            - Hipóstasis no personales inconcebibles y de poco valor religioso, [pág. 418](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p418)
+            - Realismo platónico esencial al Trinitarianismo tradicional pero insostenible, [p. 419](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p419)
+            - La identificación del elemento divino en Cristo con su ego y con el Logos está abierta a serias dudas, [p. 420](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p420)
+            - La redención, tal como se concibe hoy, no depende directamente de la doctrina de la Trinidad inmanente como en la iglesia griega primitiva, [pág. 421](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p421).
+        - TRINITABIANISMO CONTEMPORÁNEO, [pág. 422](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p422)
+            - Actitud actual hacia la doctrina de la Trinidad, [p. 422](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p422) La Trinidad como símbolo de la riqueza de la idea de Dios, [p. 424](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p424)
+            - Sabelianismo modificado, [p. 425](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p425)
+            - La semejanza de Dios a Cristo, [pág. 426](/es/book/Albert_C_Knudson/The_Doctrine_of_God/10#p426).

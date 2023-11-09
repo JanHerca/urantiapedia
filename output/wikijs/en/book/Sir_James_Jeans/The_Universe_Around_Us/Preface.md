@@ -12,9 +12,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index">Index</a></td>
-        <td><a href="/en/book/Sir_James_Jeans/The_Universe_Around_Us/0">Introduction</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Sir_James_Jeans/The_Universe_Around_Us#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Sir_James_Jeans/The_Universe_Around_Us/0">
+          <span class="pr-2">Introduction</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

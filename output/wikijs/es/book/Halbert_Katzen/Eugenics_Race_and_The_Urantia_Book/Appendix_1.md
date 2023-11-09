@@ -12,9 +12,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">Capítulo 13. Eugenesia, razas y moralidad</a></td>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</a></td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo 13. Eugenesia, razas y moralidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">
+          <span class="pr-2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -264,9 +276,21 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">Capítulo 13. Eugenesia, razas y moralidad</a></td>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</a></td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo 13. Eugenesia, razas y moralidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">
+          <span class="pr-2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

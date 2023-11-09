@@ -12,9 +12,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</a></td>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
-        <td></td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -49,9 +58,18 @@ Se ofrece un listado de referencias a los conceptos señalados[^1]:
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</a></td>
-        <td><a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Índice</a></td>
-        <td></td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice 2. ¿Eran los gemelos Alfeo subnormales?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
       </tr>
     </tbody>
   </table>

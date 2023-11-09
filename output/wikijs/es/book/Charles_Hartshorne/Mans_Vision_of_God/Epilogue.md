@@ -12,9 +12,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/10">X. Conclusion (Summary of the Arguments)</a></td>
-        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Índice</a></td>
-        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">Acknowledgments</a></td>
+        <td>
+        <a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">X. Conclusion (Summary of the Arguments)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">
+          <span class="pr-2">Acknowledgments</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -48,9 +60,21 @@ Mientras que los teólogos y los lógicos (con muchas excepciones) tienden a imp
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/10">X. Conclusión (Resumen de los Argumentos)</a></td>
-        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index">Índice </a></td>
-        <td><a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">Agradecimientos </a></td>
+        <td>
+        <a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">X. Conclusión (Resumen de los Argumentos)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice </span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments">
+          <span class="pr-2">Agradecimientos </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

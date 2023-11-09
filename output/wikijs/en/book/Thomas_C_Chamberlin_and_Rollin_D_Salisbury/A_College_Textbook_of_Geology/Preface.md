@@ -14,9 +14,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index">Index</a></td>
-        <td><a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/2">Chapter I — bfgfdgfd</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/2">
+          <span class="pr-2">Chapter I — bfgfdgfd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -50,9 +59,18 @@ University of Chicago, May 15, 1909.
   <table>
     <tbody>
       <tr>
-        <td></td>
-        <td><a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index">Index</a></td>
-        <td><a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/2">Chapter I — bfgfdgfd</a></td>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/2">
+          <span class="pr-2">Chapter I — bfgfdgfd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>

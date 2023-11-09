@@ -14,9 +14,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">Chapter 13. Eugenics, Race, and Morality</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">Appendix 2. Were the Alpheus Twins Subnormal?</a></td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chapter 13. Eugenics, Race, and Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">
+          <span class="pr-2">Appendix 2. Were the Alpheus Twins Subnormal?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -264,9 +276,21 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">Chapter 13. Eugenics, Race, and Morality</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index">Index</a></td>
-        <td><a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">Appendix 2. Were the Alpheus Twins Subnormal?</a></td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chapter 13. Eugenics, Race, and Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#index">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_2">
+          <span class="pr-2">Appendix 2. Were the Alpheus Twins Subnormal?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
       </tr>
     </tbody>
   </table>
